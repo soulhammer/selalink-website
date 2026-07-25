@@ -507,6 +507,10 @@
           "이중모 관리"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/corgi_care.png"
   }
 }

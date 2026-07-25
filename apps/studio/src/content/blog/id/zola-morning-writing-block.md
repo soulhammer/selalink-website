@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Maestro Prancis yang Menyelesaikan Karya Besar Selama 30 Tahun? Rutinitas Fokus 3 Jam Pagi Hari Émile Zola"
 description: "Prinsip ilmiah dan panduan praktis dari motto 'Nulla dies sine linea' milik sastrawan besar Émile Zola serta kebiasaan menulis fokus 3 jam setiap pagi yang dijaganya selama lebih dari 30 tahun."
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ Dalam postingan hari ini, kami mengeksplorasi prinsip ilmiah dari rutinitas time
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai zola-morning-writing-block didasarkan pada <strong>Pemeriksaan biografi historis & catatan tentang Émile Zola & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Pemeriksaan biografi historis & catatan tentang Émile Zola & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mencegah Penurunan Kemauan dan Otomatisasi Basal Ganglia melalui Isolasi Lingkungan
+## 1. Mencegah Penurunan Kemauan dan Otomatisasi Basal Ganglia melalui Isolasi Lingkungan
 
 Selalu ragu 'apakah aku harus mulai bekerja sekarang?' membuang glukosa prefrontal dan kemauan batin.
 
@@ -51,9 +52,7 @@ Bertindak konsisten pada waktu dan tempat yang terisolasi seperti Émile Zola me
 
 ---
 
-## Fokuslah pada Pembatasan Waktu yang Ketat Alih-alih Jumlah Halaman
-
-Inti motto Émile Zola adalah 'konsistensi harian tanpa putus'. Utamakan membangun kebiasaan terisolasi dari gangguan luar selama 1 jam alih-alih memaksakan tulisan sempurna. Merancang lingkungan fisik dan sinyal kebiasaan secara awal adalah kunci keberlanjutan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Inti motto Émile Zola adalah 'konsistensi harian tanpa putus'. Utamakan membang
   </p>
 </div>
 
+---
+
+## 3. Fokuslah pada Pembatasan Waktu yang Ketat Alih-alih Jumlah Halaman
+
+Inti motto Émile Zola adalah 'konsistensi harian tanpa putus'. Utamakan membangun kebiasaan terisolasi dari gangguan luar selama 1 jam alih-alih memaksakan tulisan sempurna. Merancang lingkungan fisik dan sinyal kebiasaan secara awal adalah kunci keberlanjutan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika merasa cemas akan ada email atau telepon mendesak di pagi hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Inti motto Émile Zola adalah 'konsistensi harian tanpa putus'. Utamakan membang
       Urusan yang benar-benar mendesak pasti disampaikan lewat telepon langsung. Menunda pemeriksaan email dan pesan hingga selesai 1 jam deep work pagi saja sudah meningkatkan kualitas kerja 10 kali lipat.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana pekerja kantoran yang tidak punya waktu 3 jam penuh dapat menerapkannya?</span>

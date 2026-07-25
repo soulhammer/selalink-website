@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Raja Penakluk yang Mengukir Maklumat di Batu untuk Refleksi? Rutinitas Refleksi Etika Harian Ashoka Agung"
 description: "Ashoka Agung dari Kekaisaran Maurya di India. Pelajari rutinitas penambatan eksternal dan rencana tindakan 3 langkahnya, di mana ia menyesali kekejaman Perang Kalinga dan mendirikan maklumat pilar untuk merenungkan diri yang beretika setiap hari."
 pubDate: "2026-06-04"
@@ -33,17 +34,17 @@ Dalam postingan hari ini, kami mengungkap prinsip kerja neurosains di balik ruti
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai ashoka-edict-inscribed-reflection didasarkan pada <strong>Verifikasi Historis dari Maklumat Ashoka (Edicts of Ashoka) & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Maklumat Ashoka (Edicts of Ashoka) & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Penambat Visual Nilai Eksternal dan Mekanisme Penguatan Identitas Diri Prefrontal
+## 1. Penambat Visual Nilai Eksternal dan Mekanisme Penguatan Identitas Diri Prefrontal
 
 Emosi manusia dan hasrat sesaat sering kali berfluktuasi di bawah pengaruh hipotalamus dan sistem limbik. Ketika Anda mengeksternalisasi keyakinan inti Anda ke dalam struktur fisik yang terlihat seperti Raja Ashoka, otak langsung mengaktifkan efek <strong>'Penambatan Visual (Visual Anchoring)'</strong> begitu mengenali teks fisik tersebut.
 
@@ -51,9 +52,7 @@ Tindakan melihat dan membaca nilai-nilai inti Anda pada waktu yang ditentukan se
 
 ---
 
-## Waspadai Deklarasi Nilai Menjadi Acara Saja dan Formalisme Hampa
-
-Jika Anda menulis kartu nilai dengan rapi, menempelkannya, dan tidak pernah membacanya lagi, tidak akan ada efek penambatan neurosains yang terjadi. Sebagaimana Raja Ashoka merenungkan prasasti pilar setiap hari, intinya terletak pada 'pengulangan harian dengan memeriksa secara visual dan membacanya'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jika Anda menulis kartu nilai dengan rapi, menempelkannya, dan tidak pernah memb
   </p>
 </div>
 
+---
+
+## 3. Waspadai Deklarasi Nilai Menjadi Acara Saja dan Formalisme Hampa
+
+Jika Anda menulis kartu nilai dengan rapi, menempelkannya, dan tidak pernah membacanya lagi, tidak akan ada efek penambatan neurosains yang terjadi. Sebagaimana Raja Ashoka merenungkan prasasti pilar setiap hari, intinya terletak pada 'pengulangan harian dengan memeriksa secara visual dan membacanya'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah boleh jika kata nilai inti lebih dari 3?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jika Anda menulis kartu nilai dengan rapi, menempelkannya, dan tidak pernah memb
       Sangat direkomendasikan untuk membatasinya hingga 3 atau kurang. Jika jumlah nilai bertambah menjadi 5 atau lebih, memori kerja (Working Memory) akan mengalami beban berlebih, yang dengan cepat melemahkan efek penambatan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya boleh mengubah kata-kata nilai seiring berjalannya waktu?</span>

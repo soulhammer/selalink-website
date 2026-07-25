@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Vollendung der Evolutionstheorie durch Gehen: Charles Darwins 'Sandwalk'-Spaziergang und kognitive Inkubation"
 description: "Erkunden Sie, wie der Naturforscher Charles Darwin auf seinem Kiesweg 'Sandwalk' spazierte und Steine wegtrat, um Runden zu zählen und die Evolutionstheorie zu ordnen. Entdecken Sie die kognitiven Neurowissenschaften der DMN-Aktivierung und kognitiven Inkubation."
 pubDate: "2026-06-14"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Charles Darwins
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu darwin-sandwalk basiert auf <strong>Historische Überprüfung aus Charles Darwins Autobiografie *Mein Leben (The Autobiography of Charles Darwin)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Charles Darwins Autobiografie *Mein Leben (The Autobiography of Charles Darwin)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## DMN-Aktivierung und kognitive Inkubation durch körperliche Verankerung beim Spazierengehen
+## 1. DMN-Aktivierung und kognitive Inkubation durch körperliche Verankerung beim Spazierengehen
 
 Leichtes aerobes Gehen in Verbindung mit einer physischen Verankerung (das Wegtreten von Steinen zum Rundenzählen) entlastet das Zentrale Exekutivnetzwerk (CEN) und aktiviert das Default Mode Network (DMN). Das Auslagern des Rundenzählens auf physische Steine schont das Arbeitsgedächtnis (RAM). Dadurch erlebt das Gehirn 'Kognitive Inkubation': Beobachtungen fügen sich unterbewusst zu schlüssigen Erkenntnissen zusammen.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Vermeidung digitaler Reize & Blockieren von Grübelschleifen
-
-Achten Sie beim Denkspaziergang darauf, dass Ihr Gehirn nicht in emotionale Grübelschleifen gerät. Richten Sie ein minimales körperliches Signal ein – wie das Wegtreten eines Steins oder das Beugen eines Fingers pro Runde –, um die Aufmerksamkeit zu binden. Schalten Sie Benachrichtigungen stumm. Nur wenn Sie die Wahrnehmung auf die Schritte und die Natur richten, kann die DMN-Verarbeitung ungehindert ablaufen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Achten Sie beim Denkspaziergang darauf, dass Ihr Gehirn nicht in emotionale Grü
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Vermeidung digitaler Reize & Blockieren von Grübelschleifen
+
+Achten Sie beim Denkspaziergang darauf, dass Ihr Gehirn nicht in emotionale Grübelschleifen gerät. Richten Sie ein minimales körperliches Signal ein – wie das Wegtreten eines Steins oder das Beugen eines Fingers pro Runde –, um die Aufmerksamkeit zu binden. Schalten Sie Benachrichtigungen stumm. Nur wenn Sie die Wahrnehmung auf die Schritte und die Natur richten, kann die DMN-Verarbeitung ungehindert ablaufen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was genau war Charles Darwins 'Sandwalk'-Routine?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Achten Sie beim Denkspaziergang darauf, dass Ihr Gehirn nicht in emotionale Grü
       Der Sandwalk war ein von Darwin angelegter Rundweg auf seinem Anwesen in Kent. Er ging ihn täglich ab und nutzte Steine zum Rundenzählen, um sein Arbeitsgedächtnis zu entlasten, während er Gedanken für 'Über die Entstehung der Arten' ordnete.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Sollte ich meinen Geist während des Gehens aktiv zum Denken zwingen?</span>

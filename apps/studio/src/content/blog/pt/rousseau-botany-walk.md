@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Contemplar enquanto coleta plantas: A rotina de 'Caminhada botânica e notas em cartas' de Jean-Jacques Rousseau"
 description: "Conheça a rotina de Jean-Jacques Rousseau de classificar e coletar plantas silvestres enquanto contemplava e anotava reflexões espontâneas em cartas no bolso. Explica os princípios neurocientíficos de como a rede de atenção de busca evolutiva desperta o cérebro."
 pubDate: "2026-04-23"
@@ -31,25 +32,23 @@ Jean-Jacques Rousseau, o grande pensador que acendeu as faíscas da Revolução 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre rousseau-botany-walk é baseada em <strong>Pesquisa baseada na biografia histórica e autobiografia de Jean-Jacques Rousseau e estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa baseada na biografia histórica e autobiografia de Jean-Jacques Rousseau e estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Rede de atenção de busca evolutiva (Foraging Attention) e relaxamento pré-frontal
+## 1. Rede de atenção de busca evolutiva (Foraging Attention) e relaxamento pré-frontal
 
 Segundo a ciência cognitiva evolutiva, identificar, classificar e coletar (Foraging) objetos naturais úteis como frutos ou ervas estimula a rede de atenção primitiva à qual os humanos se adaptaram ao longo de milênios. Ao contrário do multitarefa urbano artificial e estressante, observar e coletar plantas silvestres acalma a amígdala e estimula a secreção de dopamina. Combinar uma caminhada leve com a classificação de plantas alivia a sobrecarga pré-frontal.
 
 ---
 
-## Vincular o relaxamento por observação com notas analógicas espontâneas
-
-Para Rousseau, estudar plantas silvestres era um escudo protetor contra calúnias e pressão psicológica. Não é preciso ser um botânico profissional. Ao caminhar, observe as texturas de dentes-de-leão, trevos ou folhas sob seus pés como se usasse uma lupa. Concentre-se nos detalhes e anote pensamentos em cartões analógicos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Para Rousseau, estudar plantas silvestres era um escudo protetor contra calúnia
   </p>
 </div>
 
+---
+
+## 3. Vincular o relaxamento por observação com notas analógicas espontâneas
+
+Para Rousseau, estudar plantas silvestres era um escudo protetor contra calúnias e pressão psicológica. Não é preciso ser um botânico profissional. Ao caminhar, observe as texturas de dentes-de-leão, trevos ou folhas sob seus pés como se usasse uma lupa. Concentre-se nos detalhes e anote pensamentos em cartões analógicos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que Rousseau escrevia notas no verso de cartas de jogo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Para Rousseau, estudar plantas silvestres era um escudo protetor contra calúnia
       Porque era desconfortável carregar cadernos pesados enquanto caminhava. As cartas de jogo, rígidas e pequenas, eram o instrumento ideal para escrever em pé ou em movimento.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É possível obter os mesmos benefícios de uma caminhada botânica em um parque urbano?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Absolute Focus in the Golden Hour: Enrico Fermi's 2-Hour Solitary Morning Calculation Routine and Cognitive Peak Immersion"
 description: "Discover how Nobel laureate physicist Enrico Fermi, creator of the world's first artificial nuclear reactor, harnessed his cognitive golden hour by dedicating 2 solitary morning hours to complex calculations before work. Explore the neuroscience of the Cortisol Awakening Response and working memory."
 pubDate: "2026-05-14"
@@ -36,22 +37,20 @@ As recorded by his wife Laura Fermi in her memoir *Atoms in the Family*, Fermi m
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding fermi-dawn-calculation-routine is based on <strong>Historical Verification from Laura Fermi's *Atoms in the Family: My Life with Enrico Fermi*, Biographical Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Laura Fermi's *Atoms in the Family: My Life with Enrico Fermi*, Biographical Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cortisol Awakening Response and the Brain Science of the Cognitive Golden Hour
+## 1. Cortisol Awakening Response and the Brain Science of the Cognitive Golden Hour
 
 Upon waking, human physiology triggers the <strong>'Cortisol Awakening Response (CAR)'</strong>, causing a natural 50% spike in cortisol levels within 30 to 45 minutes to mobilize energy. For the subsequent 2 to 3 hours, the prefrontal cortex experiences its peak <strong>'Cognitive Golden Hour'</strong>, during which logical reasoning, <strong>Working Memory</strong> capacity, and high-level decision-making reach their daily zenith. Shielding the visual cortex from digital notifications or social media during this window—and focusing strictly on pencil-and-paper derivations or complex coding—induces a state of High Cognitive Load Flow, drastically multiplying processing speed and problem-solving execution.
 
 ---
 
-## Caution: Preventing Gastrointestinal Overload and Maintaining Fasting During the Golden Hour
-
-A critical detail when practicing this solitary focus session is avoiding heavy breakfasts that overload the digestive tract. Consuming large amounts of carbohydrates or high-fat foods diverts blood flow away from the central nervous system toward the gastrointestinal tract, causing a sharp drop in cerebral perfusion and oxygenation. This triggers postprandial somnolence (food coma) during your cognitive peak, degrading computational processing speed. To preserve peak mental sharpness during your 2-hour morning session, maintain a light fasting state, consuming only water, unsweetened green tea, or black coffee until the brain work is concluded.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ A critical detail when practicing this solitary focus session is avoiding heavy 
   </p>
 </div>
 
+---
+
+## 3. Caution: Preventing Gastrointestinal Overload and Maintaining Fasting During the Golden Hour
+
+A critical detail when practicing this solitary focus session is avoiding heavy breakfasts that overload the digestive tract. Consuming large amounts of carbohydrates or high-fat foods diverts blood flow away from the central nervous system toward the gastrointestinal tract, causing a sharp drop in cerebral perfusion and oxygenation. This triggers postprandial somnolence (food coma) during your cognitive peak, degrading computational processing speed. To preserve peak mental sharpness during your 2-hour morning session, maintain a light fasting state, consuming only water, unsweetened green tea, or black coffee until the brain work is concluded.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if maintaining focus for 2 full hours is too difficult and my mind wanders?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ A critical detail when practicing this solitary focus session is avoiding heavy 
       If 2 hours of continuous immersion is overwhelming initially, practice the '2-Set Split Focus' technique: 50 minutes of deep focus followed by 10 minutes of active stretching. Crucially, during the 10-minute break, refrain from checking messages or smartphones; simply drink water or walk lightly to maintain cerebral circulation before shifting immediately into the second session.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can night owls who struggle with early dawn wake-ups still utilize this Cognitive Golden Hour?</span>

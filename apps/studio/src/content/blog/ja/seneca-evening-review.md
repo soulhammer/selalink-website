@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "セネカの夜の省察：平和な熟睡と昨日の過ちを修正する方法"
 description: "哲学者セネカが就寝前に暗い部屋で一日を審判し省察することで脳の緊張を和らげ、睡眠の質を高めた秘訣を紹介します。"
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「seneca-evening-review」は <strong>セネカの著書『怒りについて（De Ira）』の考証およびストア哲学の研究＆認知神経科学・睡眠生理学研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>セネカの著書『怒りについて（De Ira）』の考証およびストア哲学の研究＆認知神経科学・睡眠生理学研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 夜の省察が脳を睡眠モードへと転換する生理的理由
+## 1. 夜の省察が脳を睡眠モードへと転換する生理的理由
 
 解決されない不安やストレスを抱えたまま寝床につくと、交感神経系が活性状態のまま維持され、脳が睡眠中も覚醒状態となり深い睡眠が妨げられます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 自責と後悔という罠を避ける
-
-夜の省察の本質は理知的な改善策の準備であり、感情的な自責や自虐ではありません。自分の過ちや弱さに向き合った際、感情的な非難を浴びせることは睡眠を阻害するだけです。「間違えたが原因が分かったので明日正そう」と自分を許してください。裁判官のように客観的で淡々とした分析でなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     今日犯した最も心残りな対応を一つ選び、明日同じ状況が来たらどう正しく行動するか具体的な改善策をひとつ確定します。改善策を立てたら「今日やるべきことはこれで完結した」と告げ、すべての思考を断ち切ります。
   </p>
 </div>
+
+---
+
+## 3. 自責と後悔という罠を避ける
+
+夜の省察の本質は理知的な改善策の準備であり、感情的な自責や自虐ではありません。自分の過ちや弱さに向き合った際、感情的な非難を浴びせることは睡眠を阻害するだけです。「間違えたが原因が分かったので明日正そう」と自分を許してください。裁判官のように客観的で淡々とした分析でなければなりません。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

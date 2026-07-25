@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "15 minutes pour surmonter le bruit du vestiaire : La visualisation avec serviette du Roi Pelé"
 description: "Découvrez le secret de Pelé pour surmonter le stress et maximiser ses performances : une routine de visualisation de 15 minutes allongé, serviette sur le visage, avant le match."
 pubDate: "2026-01-30"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la science du sport et les neurosciences derri�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant pele-towel-visualization est basée sur <strong>Étude des biographies historiques et récits autobiographiques de Pelé & Recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude des biographies historiques et récits autobiographiques de Pelé & Recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Entraînement mental stimulant le cortex moteur du cerveau
+## 1. Entraînement mental stimulant le cortex moteur du cerveau
 
 Visualiser un mouvement active le même <strong>cortex moteur</strong> que l'action réelle. Couvrir le visage génère des <strong>ondes Alpha</strong>, apaisant l'amygdale.
 
 ---
 
-## Visualisation détaillée après relaxation par des souvenirs positifs
-
-La relaxation doit précéder la visualisation. Atteindre d'abord un état d'ondes alpha permet à la simulation motrice de fonctionner sans entrave.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La relaxation doit précéder la visualisation. Atteindre d'abord un état d'ond
   </p>
 </div>
 
+---
+
+## 3. Visualisation détaillée après relaxation par des souvenirs positifs
+
+La relaxation doit précéder la visualisation. Atteindre d'abord un état d'ondes alpha permet à la simulation motrice de fonctionner sans entrave.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Qu'est-ce qui est le plus efficace : la vue à la première ou à la troisième personne ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La relaxation doit précéder la visualisation. Atteindre d'abord un état d'ond
       La vue à la première personne est supérieure pour stimuler le cortex moteur. La troisième personne aide pour le placement, mais la première personne affine la motricité fine.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si des pensées d'échec surviennent pendant la visualisation ?</span>

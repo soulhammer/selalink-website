@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "나폴레옹 보나파르트의 마이크로 낮잠 루틴"
 description: "치열한 격무 중 15분간의 낮잠으로 뇌의 에너지를 신속히 리셋했던 나폴레옹 황제의 과학적 낮잠 메커니즘을 소개합니다."
 pubDate: "2026-06-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Napoleon Micro Nap 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 napoleon-micro-nap 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Napoleon Micro Nap 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 마이크로 낮잠과 뇌파 최적화를 통한 인지 회복
+## 1. 마이크로 낮잠과 뇌파 최적화를 통한 인지 회복
 
 10 ~ 15분의 마이크로 낮잠은 수면 상태를 NREM 1 ~ 2단계로 제한하여 무거운 수면 관성을 방지하고 아데노신을 제거하여 주의력을 즉시 회복시킵니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다.
 
 ---
 
-## 건강한 낮잠 습관을 위한 시간적 주의사항
-
-20 ~ 30분 이상의 수면은 깊은 수면에 빠져 깨어났을 때 무거운 피로감을 유발합니다. 타이머를 엄격히 지키고 오후 4시 이후의 낮잠은 피하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     알람이 울리면 즉시 일어나 밝은 빛을 쬐고 차가운 물로 세수하여 자율신경을 각성시킵니다.
   </p>
 </div>
+
+---
+
+## 3. 건강한 낮잠 습관을 위한 시간적 주의사항
+
+20 ~ 30분 이상의 수면은 깊은 수면에 빠져 깨어났을 때 무거운 피로감을 유발합니다. 타이머를 엄격히 지키고 오후 4시 이후의 낮잠은 피하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

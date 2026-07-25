@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A 'Tradução Clássica' de Isabel I: A Rotina Matinal que Forjou o Cérebro Lógico de uma Monarca"
 description: "A rainha Isabel I cultivou uma feroz racionalidade e lógica traduzindo clássicos latinos para o inglês todas as manhãs. Explore a neurociência cognitiva por trás dessa rotina."
 pubDate: "2026-01-09"
@@ -35,25 +36,23 @@ No artigo de hoje, examinamos a neurociência cognitiva por trás da 'tradução
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre elizabeth-classical-translation é baseada em <strong>Verificação Histórica da Coleção *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Biografias Históricas e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Coleção *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Biografias Históricas e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efeitos Neurológicos da Tradução Manual no Córtex Pré-frontal Dorsolateral
+## 1. Efeitos Neurológicos da Tradução Manual no Córtex Pré-frontal Dorsolateral
 
 A tradução ativa não apenas o processamento visual da linguagem, mas intensamente o córtex pré-frontal dorsolateral (dlPFC), que governa o controle cognitivo e a alternância de regras lógicas. Ao contrário da leitura passiva, desconstruir estruturas semânticas de um idioma e sintetizá-las em outro atua como um treino de alta intensidade para a função executiva, equivalente a rodar uma CPU a 100%. Esse processo melhora o raciocínio analítico e a detecção de erros. A rotina diária da rainha Isabel I serviu como um antídoto cognitivo para filtrar ruídos emocionais e focar no essencial.
 
 ---
 
-## Precaução: A Tradução Automática Mecânica Não Gera Benefício Cognitivo
-
-A verificação instantânea por meio de tradutores de IA não estimula os circuitos neuronais pré-frontais. O crescimento cognitivo ocorre estritamente durante o esforço manual: buscar em dicionários, decifrar raízes e reconstruir frases à mão.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A verificação instantânea por meio de tradutores de IA não estimula os circu
   </p>
 </div>
 
+---
+
+## 3. Precaução: A Tradução Automática Mecânica Não Gera Benefício Cognitivo
+
+A verificação instantânea por meio de tradutores de IA não estimula os circuitos neuronais pré-frontais. O crescimento cognitivo ocorre estritamente durante o esforço manual: buscar em dicionários, decifrar raízes e reconstruir frases à mão.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É ineficaz verificar instantaneamente os resultados com tradutores de IA?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A verificação instantânea por meio de tradutores de IA não estimula os circu
       Sim, com certeza. Obter respostas instantâneas não exercita a rede cognitiva. As conexões sinápticas no córtex pré-frontal se fortalecem apenas através da 'fricção cognitiva': o esforço manual de consultar dicionários e montar a gramática.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Esta técnica só funciona com idiomas clássicos como latim e grego antigo?</span>

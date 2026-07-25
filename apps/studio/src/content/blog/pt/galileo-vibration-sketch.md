@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Os Esboços de Oscilação de Galileu: Estimulando a Cognição Espacial para Simplificar Estruturas Complexas"
 description: "Descubra como Galileu Galilei, pai da ciência moderna, formulou leis físicas intuitivas desenhando diagramas geométricos de pêndulos. Explore a neurociência do bloco de rascunho visoespacial e da dupla codificação."
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás dos esboços d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre galileo-vibration-sketch é baseada em <strong>Verificação Histórica de *Duas Novas Ciências* e *Il Saggiatore* de Galileu Galilei, Arquivos da Universidade de Pisa e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Duas Novas Ciências* e *Il Saggiatore* de Galileu Galilei, Arquivos da Universidade de Pisa e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação do Bloco Visoespacial e Neurociência da Teoria da Dupla Codificação
+## 1. Estimulação do Bloco Visoespacial e Neurociência da Teoria da Dupla Codificação
 
 Traduzir conceitos abstratos em figuras geométricas estimula o <strong>Bloco de Rascunho Visoespacial</strong>, localizado nos <strong>lóbulos parietal e occipital</strong>. Com base na <strong>Teoria da Dupla Codificação</strong>, combinar texto com imagens cria modelos mentais sólidos e reduz a carga cognitiva pré-frontal. Ao mapear visualmente relações e vetores no papel, o cérebro identifica falhas lógicas e gargalos estruturais ocultos no texto.
 
 ---
 
-## Precaução: Priorize a Simplicidade Estrutural em Vez do Acabamento Artístico
-
-Não desperdice energia cognitiva tentando fazer desenhos artísticos detalhados. Como os diagramas de Galileu, foque em capturar a 'estrutura essencial'. Limite seu vocabulário visual a círculos, retângulos, linhas e setas para mapear fluxos. Obsessionar-se com a estética consome energia destinada à lógica.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Não desperdice energia cognitiva tentando fazer desenhos artísticos detalhados
   </p>
 </div>
 
+---
+
+## 3. Precaução: Priorize a Simplicidade Estrutural em Vez do Acabamento Artístico
+
+Não desperdice energia cognitiva tentando fazer desenhos artísticos detalhados. Como os diagramas de Galileu, foque em capturar a 'estrutura essencial'. Limite seu vocabulário visual a círculos, retângulos, linhas e setas para mapear fluxos. Obsessionar-se com a estética consome energia destinada à lógica.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Posso praticar a rotina de esboços geométricos sem ter qualquer habilidade para desenhar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Não desperdice energia cognitiva tentando fazer desenhos artísticos detalhados
       Sim, com certeza! Esta técnica não é arte, mas um exercício cognitivo que usa apenas quatro elementos: círculos, retângulos, linhas e setas. Mesmo esboços simples são suficientes para ativar o bloco visoespacial.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Desenhar em aplicativos digitais usando tablets oferece os mesmos benefícios cognitivos?</span>

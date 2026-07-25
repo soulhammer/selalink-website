@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Um gênio que curvava os dedos dos pés 100 vezes? O estranho ritual de sono profundo de Nikola Tesla"
 description: "O inventor genial Nikola Tesla curvava os dedos dos pés na cama todas as noites. Descubra os segredos da neurociência escondidos em sua rotina única e um guia prático de 3 passos."
 pubDate: "2026-04-28"
@@ -31,17 +32,17 @@ Neste post, exploramos os princípios científicos por trás desse hábito excé
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre tesla-toe-curling é baseada em <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
+      Este conteúdo baseia-se em <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Dedos dos pés: O interruptor neural que desperta as células cerebrais
+## 1. Dedos dos pés: O interruptor neural que desperta as células cerebrais
 
 Tesla acreditava que o movimento aparentemente trivial de curvar repetidamente os dedos dos pés estimulava as numerosas terminações nervosas concentradas nos pés, ativando as células cerebrais e reiniciando a fadiga mental.
 
@@ -49,9 +50,7 @@ Na realidade, a área ocupada pelos pés e dedos no córtex somatossensorial do 
 
 ---
 
-## Uma dica neurocientífica para uma rotina de sucesso
-
-Os exercícios para os dedos dos pés auxiliam a circulação sanguínea no ponto mais distante do coração, equilibrando a temperatura corporal e ativando o sistema nervoso parassimpático. Repetir essa ação todas as noites no mesmo momento (logo após se cobrir) treina seu cérebro para reconhecê-la como um poderoso sinal condicionado para dormir.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Os exercícios para os dedos dos pés auxiliam a circulação sanguínea no pont
   </p>
 </div>
 
+---
+
+## 3. Uma dica neurocientífica para uma rotina de sucesso
+
+Os exercícios para os dedos dos pés auxiliam a circulação sanguínea no ponto mais distante do coração, equilibrando a temperatura corporal e ativando o sistema nervoso parassimpático. Repetir essa ação todas as noites no mesmo momento (logo após se cobrir) treina seu cérebro para reconhecê-la como um poderoso sinal condicionado para dormir.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

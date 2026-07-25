@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Mestre que Caminhava 4 km por Barcelona: O Método de Caminhada Criativa e Rotina de Inspiração Orgânica de Antoni Gaudí"
 description: "Descubra como o arquiteto genial Antoni Gaudí traduziu estruturas naturais para a arquitetura caminhando 4 km por dia por Barcelona. Explore a neurociência cognitiva da caminhada criativa."
 pubDate: "2026-04-13"
@@ -35,25 +36,23 @@ No artigo de hoje, examinamos a neurociência cognitiva e a psicologia ambiental
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre gaudi-nature-walk é baseada em <strong>Verificação Histórica de *Gaudí: A Biografia* de Gijs van Hensbergen e Pesquisa em Neurociência Cognitiva e Psicologia Ambiental</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Gaudí: A Biografia* de Gijs van Hensbergen e Pesquisa em Neurociência Cognitiva e Psicologia Ambiental</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Caminhada Física e Flexibilidade Cognitiva: Ativação do Hipocampo e Córtex Visual
+## 1. Caminhada Física e Flexibilidade Cognitiva: Ativação do Hipocampo e Córtex Visual
 
 Permanecer sentado focando em um problema trava o córtex pré-frontal, reduzindo a flexibilidade cognitiva. A rotina de 4 km de Gaudí oferecia ativação física e estímulo visual para destravar a mente. Caminhar eleva a frequência cardíaca, irrigando o <strong>hipocampo</strong> e o córtex pré-frontal com sangue oxigenado. Um estudo da Universidade Stanford demonstrou que caminhar aumenta a ideação criativa em 60% em comparação a ficar sentado. Além disso, observar contornos orgânicos estimula o <strong>Córtex Visual</strong>.
 
 ---
 
-## Precaução: Priorize a Observação Estrutural Orgânica em Vez do Exercício Intenso
-
-Para Gaudí, caminhar não era um treino físico intenso para queimar calorias, mas um processo de design espacial consciente: escanear formas naturais e conectá-las a padrões geométricos. Evite se apressar em ritmo acelerado. Ajuste o passo para permitir que sua visão absorva as estruturas da natureza e da arquitetura.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para Gaudí, caminhar não era um treino físico intenso para queimar calorias, 
   </p>
 </div>
 
+---
+
+## 3. Precaução: Priorize a Observação Estrutural Orgânica em Vez do Exercício Intenso
+
+Para Gaudí, caminhar não era um treino físico intenso para queimar calorias, mas um processo de design espacial consciente: escanear formas naturais e conectá-las a padrões geométricos. Evite se apressar em ritmo acelerado. Ajuste o passo para permitir que sua visão absorva as estruturas da natureza e da arquitetura.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É obrigatório caminhar em parques naturais ou trilhas para funcionar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para Gaudí, caminhar não era um treino físico intenso para queimar calorias, 
       Embora o ambiente natural seja o mais eficaz para restaurar a atenção, caminhar por alamedas urbanas irregulares ou observar a arquitetura estimula o córtex visual da mesma forma, sendo uma ótima alternativa.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Posso substituir a caminhada por corrida rápida ou esteira?</span>

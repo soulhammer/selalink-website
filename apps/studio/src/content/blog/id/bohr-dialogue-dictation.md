@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Fisika yang Ditenun Melalui Dialog: Metode Mendikte-Diskusi dan Penulisan Metakognitif ala Niels Bohr"
 description: "Pelajari bagaimana pelopor mekanika kuantum Niels Bohr menulis makalah fisika rumit melalui diskusi lisan dan dikte tanpa henti bersama rekan-rekannya, dan temukan prinsip neurosains di mana mengeksternalkan pikiran batin ke dalam bahasa lisan mengaktifkan metakognisi."
 pubDate: "2026-01-19"
@@ -33,25 +34,23 @@ Bohr menggunakan rutinitas kontemplasi unik untuk mengeluarkan konsep fisika yan
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai bohr-dialogue-dictation didasarkan pada <strong>Verifikasi Historis dari Biografi Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mekanisme Saraf Eksternalisasi Bahasa Batin dan Aktivasi Metakognisi
+## 1. Mekanisme Saraf Eksternalisasi Bahasa Batin dan Aktivasi Metakognisi
 
 'Bahasa Batin (Inner Speech)' yang hanya ada di dalam pikiran sering kali menyembunyikan lompatan logika dan ambiguitas, dengan mudah menciptakan ilusi pemahaman saat menyelesaikan masalah rumit. Begitu diubah menjadi 'Bahasa Luar (External Speech)' yang terucap, otak mengaktifkan sirkuit metakognitif, memungkinkannya mendengarkan dan memproses ide-idenya sendiri secara objektif dari sudut pandang orang ketiga. Lebih jauh lagi, menggabungkan ucapan dengan stimulasi sosial interaktif—seperti umpan balik dan pertanyaan langsung dari pendengar seperti yang dilakukan Bohr—secara kuat melibatkan korteks bahasa dan jaringan kontrol eksekutif, merakit ulang fragmen intuitif yang tersebar menjadi kerangka logis yang eksplisit.
 
 ---
 
-## Perhatian & Tip: Waspada Terhadap Obrolan Tanpa Arah & Menetapkan Batas Waktu Terstruktur
-
-Jebakan terbesar saat menerapkan rutinitas dikte-dialog adalah melebar ke dalam obrolan tanpa arah. Memulai diskusi tanpa pedoman pertanyaan yang jelas menguras energi kognitif dan waktu sambil mengaburkan tujuan mengonkretkan ide. Sebelum berbicara, nyatakan secara eksplisit 'satu pertanyaan jelas' yang ingin Anda selesaikan kepada mitra bicara Anda, dan berlakukan blok waktu terfokus selama 15 hingga 20 menit untuk mempertahankan ketegangan kognitif yang konstruktif.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Jebakan terbesar saat menerapkan rutinitas dikte-dialog adalah melebar ke dalam 
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Waspada Terhadap Obrolan Tanpa Arah & Menetapkan Batas Waktu Terstruktur
+
+Jebakan terbesar saat menerapkan rutinitas dikte-dialog adalah melebar ke dalam obrolan tanpa arah. Memulai diskusi tanpa pedoman pertanyaan yang jelas menguras energi kognitif dan waktu sambil mengaburkan tujuan mengonkretkan ide. Sebelum berbicara, nyatakan secara eksplisit 'satu pertanyaan jelas' yang ingin Anda selesaikan kepada mitra bicara Anda, dan berlakukan blok waktu terfokus selama 15 hingga 20 menit untuk mempertahankan ketegangan kognitif yang konstruktif.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara mempraktikkan rutinitas ini dalam lingkungan solo tanpa mitra bicara?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Jebakan terbesar saat menerapkan rutinitas dikte-dialog adalah melebar ke dalam 
       Anda dapat menggantinya dengan mengaktifkan memo suara smartphone atau aplikasi perekam AI dan berbicara secara nyaring seolah-olah menjelaskan kepada pendengar imajiner. Faktor krusial bukanlah keberadaan fisik pendengar, melainkan proses stimulasi kognitif dalam mengonversi pikiran batin menjadi bahasa lisan luar dan mendengarkannya kembali.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mengubah hasil diskusi lisan menjadi dokumentasi tertulis yang produktif?</span>

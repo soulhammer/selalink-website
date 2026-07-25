@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "短篇小说巨匠的大脑散热法：莫泊桑的划船与游泳重置习惯"
 description: "法国短篇小说大师莫泊桑。通过在塞纳河上划船与游泳，彻底重置因高强度写作而疲惫不堪的大脑。"
 pubDate: "2026-06-11"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 maupassant-rowing-reset 的内容基于 <strong>莫泊桑历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>莫泊桑历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 全身有氧运动引发的BDNF分泌与大脑血流分散
+## 1. 全身有氧运动引发的BDNF分泌与大脑血流分散
 
 持续的高强度大脑活动会导致前额叶皮层血流过度集中，进而引发充血发热与神经过度兴奋。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 运动过程中请关掉工作念头，全情投入于呼吸与动作
-
-如果在运动时依然反复咀嚼工作待办或烦恼，大脑血流分散的效果将会大打折扣。请将注意力集中在肌肉收缩与呼吸节律上。不要单纯依赖意志力，提前构建能自然引发行动的物理环境与习惯信号才是持续执行的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 运动过程中请关掉工作念头，全情投入于呼吸与动作
+
+如果在运动时依然反复咀嚼工作待办或烦恼，大脑血流分散的效果将会大打折扣。请将注意力集中在肌肉收缩与呼吸节律上。不要单纯依赖意志力，提前构建能自然引发行动的物理环境与习惯信号才是持续执行的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果条件不允许划船或游泳，可以用什么运动代替？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       只要是同时带动上下肢的大肌肉群全身有氧运动，如划船机、动感单车、椭圆机、间歇跑、立卧撑（Burpees）等，都能达到相同的“物理神经系统洗礼”效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>每天进行高强度运动会不会对身体造成过度负担？</span>

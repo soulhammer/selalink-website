@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'enthousiasme de l'aube : La routine de petit-déjeuner familial à 5h et de marche du président Ju-Yung Chung"
 description: "Découvrez comment le fondateur du groupe Hyundai, Ju-Yung Chung, s'est levé à 4h chaque matin toute sa vie pour partager un petit-déjeuner en famille. Explorez les principes neuroscientifiques du mouvement aérobique matinal et de l'échange émotionnel stabilisant le cortisol."
 pubDate: "2026-06-12"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant chung-dawn-breakfast est basée sur <strong>Vérification Historique issue de l'autobiographie de Ju-Yung Chung *Des épreuves, mais pas d'échec (Born of this Land)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Ju-Yung Chung *Des épreuves, mais pas d'échec (Born of this Land)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurophysiologie de la lumière matinale et de la marche combinée à la régulation émotionnelle sociale
+## 1. Neurophysiologie de la lumière matinale et de la marche combinée à la régulation émotionnelle sociale
 
 Se réveiller à heure régulière et marcher en plein air stimule les ipRGCs rétiniennes, réprimant la mélatonine et normalisant la sérotonine et le cortisol pour dissiper l'inertie du sommeil. Simultanément, 15 à 30 minutes de marche accélèrent le flux sanguin cérébral, activant les fonctions exécutives préfrontales. De plus, partager un petit-déjeuner en famille stimule la régulation émotionnelle sociale, libérant de l'ocytocine.
 
 ---
 
-## Précautions & Conseils : Éviter le réveil précoce obsessionnel sans temps de sommeil suffisant
-
-Le réveil précoce obsessionnel ne garantit pas la réussite. Forcer un réveil tôt sans garantir 7 à 8 heures de sommeil entraîne un épuisement du système nerveux central et un déclin exécutif. Avant d'avancer votre alarme, maîtrisez votre horaire de coucher la veille pour vous assurer un temps de sommeil suffisant.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le réveil précoce obsessionnel ne garantit pas la réussite. Forcer un réveil
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter le réveil précoce obsessionnel sans temps de sommeil suffisant
+
+Le réveil précoce obsessionnel ne garantit pas la réussite. Forcer un réveil tôt sans garantir 7 à 8 heures de sommeil entraîne un épuisement du système nerveux central et un déclin exécutif. Avant d'avancer votre alarme, maîtrisez votre horaire de coucher la veille pour vous assurer un temps de sommeil suffisant.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les personnes du soir doivent-elles strictement se lever à 4h ou 5h du matin comme le président Chung ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le réveil précoce obsessionnel ne garantit pas la réussite. Forcer un réveil
       Non. L'essentiel n'est pas l'heure exacte de 4h du matin, mais l'application de la séquence en 3 étapes — bloquer la surcharge numérique au réveil, échanger positivement et marcher à la lumière du jour — de manière régulière selon votre propre emploi du temps (ex. 6h00 ou 7h00).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment adapter cette routine si je vis seul et que je n'ai personne avec qui petit-déjeuner ?</span>

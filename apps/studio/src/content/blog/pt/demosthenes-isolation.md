@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Orador que Raspou Metade da Cabeça: A Rotina de Controle Ambiental Extremo e Dispositivo de Comprometimento de Demóstenes"
 description: "Descubra como Demóstenes, mestre orador da Grécia antiga, superou suas limitações físicas raspando metade da cabeça e isolando-se numa caverna. Explore a neurociência cognitiva de como os Dispositivos de Comprometimento protegem as funções executivas."
 pubDate: "2026-01-28"
@@ -35,25 +36,23 @@ No artigo de hoje, analizamos a ciência cerebral por trás da rotina de 'cabeç
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre demosthenes-isolation é baseada em <strong>Verificação Histórica de *Vidas Paralelas (Vida de Demóstenes)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Vidas Paralelas (Vida de Demóstenes)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Dispositivos de Comprometimento e Preservação da Função Executiva Pré-Frontal
+## 1. Dispositivos de Comprometimento e Preservação da Função Executiva Pré-Frontal
 
 Confiar na força de vontade momentânea para resistir a distrações esgota a glicose no córtex pré-frontal (PFC). Enquanto uma tentação permanecer acessível, o cérebro enfrenta um 'Processamento de Conflito' contínuo, gerando alta carga cognitiva. Levantar barreiras físicas que impossibilitem a tentação — como Demóstenes ao raspar metade da cabeça — é denominado 'Dispositivo de Comprometimento'. Essa restrição reduz a zero a carga de conflito, reservando 100% da capacidade pré-frontal para o foco profundo.
 
 ---
 
-## Precauções e Dicas: Rejeitar o Mito da Força de Vontade e Construir Barreiras Ambientais
-
-Abandone a ilusão de que a força de vontade por si só pode vencer a procrastinação e as distrações digitais. O autocontrole humano é um recurso estritamente finito. Para alcançar um trabalho profundo como Demóstenes, instale previamente dispositivos de comprometimento físicos antes de começar, tornando as distrações impossíveis.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Abandone a ilusão de que a força de vontade por si só pode vencer a procrasti
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Rejeitar o Mito da Força de Vontade e Construir Barreiras Ambientais
+
+Abandone a ilusão de que a força de vontade por si só pode vencer a procrastinação e as distrações digitais. O autocontrole humano é um recurso estritamente finito. Para alcançar um trabalho profundo como Demóstenes, instale previamente dispositivos de comprometimento físicos antes de começar, tornando as distrações impossíveis.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que Demóstenes raspou especificamente metade da cabeça antes de se isolar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Abandone a ilusão de que a força de vontade por si só pode vencer a procrasti
       Para construir uma barreira social ineludível que tornasse socialmente insuportável sair em público devido à sua aparência. Isso eliminou o gasto de energia necessário para resistir a tentações, alocando 100% dos seus recursos executivos no treino.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que Dispositivos de Comprometimento práticos as pessoas modernas podem usar sem raspar a cabeça?</span>

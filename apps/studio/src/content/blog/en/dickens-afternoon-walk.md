@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Novelist Who Walked Briskly for 3 Hours Every Afternoon: Charles Dickens's Idea Routine and DMN Activation"
 description: "Discover how literary giant Charles Dickens crafted complex characters and plots through a daily 3-hour brisk walk. Explore the cognitive neuroscience of Default Mode Network (DMN) activation and BDNF secretion."
 pubDate: "2026-05-23"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Charles Dickens's '3-ho
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding dickens-afternoon-walk is based on <strong>Historical Verification from John Forster's Biography *The Life of Charles Dickens* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from John Forster's Biography *The Life of Charles Dickens* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Catalyst for Divergent Thinking: DMN Activation and BDNF Secretion via Stimulus-Free Walking
+## 1. Catalyst for Divergent Thinking: DMN Activation and BDNF Secretion via Stimulus-Free Walking
 
 Rhythmic aerobic walking significantly boosts cerebral blood flow and triggers the release of Brain-Derived Neurotrophic Factor (BDNF), enhancing neuroplasticity and fostering Divergent Thinking. Crucially, walking without external sensory distractions—such as smartphones or audio inputs, as Dickens practiced—strongly recruits the Default Mode Network (DMN). Operating when the brain is disengaged from focused task execution, the DMN spontaneously reorganizes fragmented memory traces and morning ideas, fusing them into novel creative breakthroughs. A dedicated afternoon walk clears working memory (RAM) fatigue, restoring prefrontal executive resources for optimal mental clarity.
 
 ---
 
-## Caution & Tips: Isolating Digital Stimuli & Creating Sensory Vacuum
-
-The foundation of a thinking walk is granting your brain an 'uninterrupted cognitive pause'. Checking your smartphone, scrolling feeds, or listening to podcasts/music while walking forces the prefrontal cortex to process external information, shutting down DMN activation and diminishing BDNF benefits. To clear your brain like Dickens, disconnect from earphones and store smartphones away for even 20 to 30 minutes, allowing your senses to rest on physical walking rhythms and environmental surroundings.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The foundation of a thinking walk is granting your brain an 'uninterrupted cogni
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Isolating Digital Stimuli & Creating Sensory Vacuum
+
+The foundation of a thinking walk is granting your brain an 'uninterrupted cognitive pause'. Checking your smartphone, scrolling feeds, or listening to podcasts/music while walking forces the prefrontal cortex to process external information, shutting down DMN activation and diminishing BDNF benefits. To clear your brain like Dickens, disconnect from earphones and store smartphones away for even 20 to 30 minutes, allowing your senses to rest on physical walking rhythms and environmental surroundings.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it acceptable to listen to calm classical music on my smartphone while walking?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The foundation of a thinking walk is granting your brain an 'uninterrupted cogni
       No, it is significantly better to avoid audio completely. Auditory input—even calm music or podcasts—forces the auditory cortex and executive networks to continuously analyze sound patterns, suppressing full DMN engagement. To achieve total cognitive reset, remove earphones and let your mind wander amidst natural ambient sounds.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>It is unrealistic for busy modern professionals to walk 3 hours daily like Dickens. Is there a practical alternative?</span>

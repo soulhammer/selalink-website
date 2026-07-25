@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspiration à l'envers : La routine de créativité en poirier d'Igor Stravinsky"
 description: "Le musicien Igor Stravinsky faisait le poirier à chaque panne d'inspiration lors de ses compositions. Découvrez les principes scientifiques montrant comment le changement de posture stimule le flux sanguin cérébral."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ Dans cet article, nous révélons les mécanismes de la méthode de Stravinsky e
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant stravinsky-headstand-composition est basée sur <strong>Autobiographie historique d'Igor Stravinsky & études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Autobiographie historique d'Igor Stravinsky & études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Comment le poirier réinitialise le flux sanguin cérébral et le système vestibulaire
+## 1. Comment le poirier réinitialise le flux sanguin cérébral et le système vestibulaire
 
 Lorsque votre cerveau est bloqué sur une idée, inverser verticalement votre posture déclenche deux changements neuroscientifiques : Premièrement, la gravité augmente l'afflux sanguin vers la tête, apportant un surcroît d'oxygène et de nutriments au lobe frontal. Deuxièmement, le système vestibulaire de l'oreille interne détecte un signal gravitationnel inhabituel, réveillant les réseaux d'orientation spatiale dans le cervelet et le cortex. Cela libère les filtres d'attention rigides et stimule les associations créatives.
 
 ---
 
-## Précautions et conseils
-
-En cas de problèmes de cervicales ou de tension artérielle, remplacez le poirier complet par une demi-inversion douce (ex. poser les jambes sur une chaise). Limitez la durée à moins d'une minute, puis restez allongé à plat ventre pendant 30 secondes avant de vous relever lentement.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ En cas de problèmes de cervicales ou de tension artérielle, remplacez le poiri
     Abeissez prudemment vos pieds et restez allongé à plat ventre pendant 30 secondes. Asseyez-vous ensuite sur une chaise et savourez la clarté d'esprit retrouvée.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+En cas de problèmes de cervicales ou de tension artérielle, remplacez le poirier complet par une demi-inversion douce (ex. poser les jambes sur une chaise). Limitez la durée à moins d'une minute, puis restez allongé à plat ventre pendant 30 secondes avant de vous relever lentement.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Searching for Bent Nails to Overcome Stage Fright: Luciano Pavarotti's 'Sensory Anchor' Routine"
 description: "Explains the neuroscientific calming effect behind world-famous tenor Luciano Pavarotti's superstition of hunting for bent nails before performances. Discover how ritualized routines control brain anxiety."
 pubDate: "2026-04-13"
@@ -36,22 +37,20 @@ In this post, we explore the brain science behind Pavarotti's bent-nail ritual a
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding pavarotti-bent-nail is based on <strong>Historical biography and autobiographical records verification of Luciano Pavarotti & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography and autobiographical records verification of Luciano Pavarotti & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ritualized Routines and Amygdala Anxiety Control
+## 1. Ritualized Routines and Amygdala Anxiety Control
 
 Facing high-stress speeches or performances triggers the brain's amygdala to perceive a survival threat, activating 'fight-or-flight' and raising heart rate. Intentionally executing a specific sequence or ritual tricks the brain into perceiving a 'sense of control', calming amygdala hyperactivity. Furthermore, directing focus toward a concrete task like searching for an object shifts attention away from anxiety-inducing metacognition (thinking about thinking) to processing physical visual and tactile data.
 
 ---
 
-## Securing Your Own Sensory Anchor to Release Tension
-
-For Luciano Pavarotti, the bent nail was a clever sensory anchor that steadied severe emotional turmoil. You don't need to hunt for nails; 1 minute before an interview or presentation, touch a coin or clip in your pocket and focus entirely on its solid, cool metallic sensation. As tactile data fills your neural network, stage fright calms rapidly.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ For Luciano Pavarotti, the bent nail was a clever sensory anchor that steadied s
     Acknowledge that deep breathing and pulse rate have slowed through tactile grounding. Step forward confidently as your brain frees itself from tension and restores working memory capacity.
   </p>
 </div>
+
+---
+
+## 3. Securing Your Own Sensory Anchor to Release Tension
+
+For Luciano Pavarotti, the bent nail was a clever sensory anchor that steadied severe emotional turmoil. You don't need to hunt for nails; 1 minute before an interview or presentation, touch a coin or clip in your pocket and focus entirely on its solid, cool metallic sensation. As tactile data fills your neural network, stage fright calms rapidly.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Kopfstand auf kaltem Gefängnisboden? Jawaharlal Nehrus Methode zur Hormonregulation"
 description: "Indiens erster Premierminister Jawaharlal Nehru. Enthüllt die hirnwissenschaftlichen Prinzipien und die Gesundheitsroutine, mit der er während seiner 9-jährigen Einzelhaft jeden Morgen den Kopfstand ausführte, um die zerebrale Durchblutung zu steigern und körperliche Anspannung zu lösen."
 pubDate: "2026-03-18"
@@ -35,17 +36,17 @@ Im heutigen Beitrag enthüllen wir die Wissenschaft der gesteigerten zerebralen 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu nehru-headstand-yoga basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Jawaharlal Nehru & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Jawaharlal Nehru & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Anti-Schwerkraft-Effekt: Förderung der zerebralen Durchblutung und Deaktivierung der HPA-Stressachse
+## 1. Anti-Schwerkraft-Effekt: Förderung der zerebralen Durchblutung und Deaktivierung der HPA-Stressachse
 
 Wenn wir den ganzen Tag stehen oder auf einem Stuhl sitzen, zieht die Schwerkraft den Blutfluss in die untere Körperhälfte und setzt die Bandscheiben kontinuierlichem statischen Druck aus. Dies erhöht die Anspannung des vegetativen Nervensystems und führt zu geistiger Erschöpfung.
 
@@ -53,9 +54,7 @@ Umgekehrte Körperhaltungen (Inverted Postures) kehren den Schwerkraftfluss um u
 
 ---
 
-## Sichere Wirbelsäulenausrichtung ist der Anfang des Gehirn-Resets
-
-Obwohl der Kopfstand eine wirksame Entspannungstechnik für das Gehirn ist, können ungetrimmte oder erzwungene Bewegungen zu Halswirbelsäulenverletzungen führen und das vegetative Nervensystem belasten. Nur wenn man ihn wie Nehru vorsichtig und an den eigenen Körperzustand angepasst ausführt, entlastet er die Bandscheiben und versorgt das gesamte Gehirn stabil mit frischer Energie.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Obwohl der Kopfstand eine wirksame Entspannungstechnik für das Gehirn ist, kön
   </p>
 </div>
 
+---
+
+## 3. Sichere Wirbelsäulenausrichtung ist der Anfang des Gehirn-Resets
+
+Obwohl der Kopfstand eine wirksame Entspannungstechnik für das Gehirn ist, können ungetrimmte oder erzwungene Bewegungen zu Halswirbelsäulenverletzungen führen und das vegetative Nervensystem belasten. Nur wenn man ihn wie Nehru vorsichtig und an den eigenen Körperzustand angepasst ausführt, entlastet er die Bandscheiben und versorgt das gesamte Gehirn stabil mit frischer Energie.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist es für Personen mit Nackenschmerzen oder Bandscheibenproblemen sicher, den Kopfstand zu üben?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Obwohl der Kopfstand eine wirksame Entspannungstechnik für das Gehirn ist, kön
       Nein, Personen mit Erkrankungen der Hals- oder Brustwirbelsäule sollten den traditionellen Kopfstand vermeiden, bei dem der Kopf das Körpergewicht direkt trägt. Stattdessen können Sie eine sichere Inversionswirkung ohne Bandscheibenbelastung erzielen, indem Sie sich auf den Rücken legen, das Gesäß an eine Wand stützen und die Beine senkrecht hochstrecken oder ein Kissen unter Ihr Gesäß legen und die Beine anheben.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wann ist die am besten geeignete Tageszeit für die Durchführung von Kopfständen?</span>

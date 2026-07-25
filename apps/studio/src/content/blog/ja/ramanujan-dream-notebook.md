@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "夢の中で数学の定理を見た天才？シュリニヴァーサ・ラマヌジャンの起床直後メモルーティン"
 description: "数論と無限級数の天才、シュリニヴァーサ・ラマヌジャン。睡眠中のレム（REM）状態で得た直感的なひらめきを朝目が覚めてすぐ3分間のメモに移した彼の脳リセット法と、現代人のための3段階の実践ルーティンを深掘りします。"
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「ramanujan-dream-notebook」は <strong>シュリニヴァーサ・ラマヌジャンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>シュリニヴァーサ・ラマヌジャンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 起床直後のアルファ波とデフォルト・モード・ネットワークの結合メカニズム
+## 1. 起床直後のアルファ波とデフォルト・モード・ネットワークの結合メカニズム
 
 目覚めた直後の最初の5〜10分間、人間の脳は前頭葉の批判的論理が活性化する前に、意識と無意識の境界であるアルファ波および緩やかなシータ波状態に柔軟にとどまります。この時間の間、脳のデフォルト・モード・ネットワーク（DMN）が一晩中潜在意識の中で再結合した斬新な連想結合が蒸発することなく意識の表面にスムーズに浮上します。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 起床直後のスマートフォンメディア露出とベータ波強制進入に関する注意
-
-目が覚めてすぐメッセージ通知、ニュース、SNSを確認すると、脳は即座に緊張状態である高周波ベータ波状態に突入します。この瞬間、脳は他人の反応に受動的に対応し始め、潜在意識が一晩中精製したアイデアや直感を一瞬で蒸発させます。起床後少なくとも5〜10分間はデジタルメディアへのアクセスを完全に遮断し、自分だけの直感に集中してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 起床直後のスマートフォンメディア露出とベータ波強制進入に関する注意
+
+目が覚めてすぐメッセージ通知、ニュース、SNSを確認すると、脳は即座に緊張状態である高周波ベータ波状態に突入します。この瞬間、脳は他人の反応に受動的に対応し始め、潜在意識が一晩中精製したアイデアや直感を一瞬で蒸発させます。起床後少なくとも5〜10分間はデジタルメディアへのアクセスを完全に遮断し、自分だけの直感に集中してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>夢や朝のひらめきが思い浮かばない時はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       無理にアイデアを絞り出す必要は全くありません。ぼんやりした状態で頭に浮かぶ言葉や気分、または今日必ず解決したい難題を1つ書いてみるだけでも、アルファ波回路が強化され潜在意識の扉が徐々に開き始めます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>スマートフォンのメモアプリや音声録音を使用しても大丈夫ですか？</span>

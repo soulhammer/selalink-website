@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "消除压迫感的方法：迈克尔·菲尔普斯赛前2小时的超认知习惯"
 description: "奥运历史上获得金牌最多的运动员迈克尔·菲尔普斯在赛前执行的精细行为 routine。探讨完全受控的流程如何预防大脑极度紧张与焦虑的科学原理。"
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 phelps-pre-race-routine 的内容基于 <strong>迈克尔·菲尔普斯历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>迈克尔·菲尔普斯历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 精细事前 routine 镇静大脑焦虑的科学
+## 1. 精细事前 routine 镇静大脑焦虑的科学
 
 在比赛或演讲前，大脑面临的最危险状态是“不确定性”及其引发的焦虑。处于不可预测的环境中时，大脑的情感与警报中心——<strong>杏仁核（Amygdala）</strong>会过度活跃并大量释放压力激素。然而，当启动一套经过上百次重复、完全可控的物理行为流程时，大脑会认为自己掌控了局势，从而降低杏仁核活性，优化肾上腺素的分泌。
 
 ---
 
-## 注意事项与 Tip
-
-需要注意的是，这套 routine 并非单纯的迷信或神奇的护身符。迈克尔·菲尔普斯也是通过长期<strong>机械化的训练与重复</strong>，才在大脑 routine 与身体放松之间建立了牢固的突触连接。因此，即使初期尝试未达预期也不必急躁，持之以恒地巩固个人习惯才是关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     完成物理 routine 后，在脑海中精准构想即将进行的实战完美成功的画面，从而平息情绪焦虑中心，完成备战。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与 Tip
+
+需要注意的是，这套 routine 并非单纯的迷信或神奇的护身符。迈克尔·菲尔普斯也是通过长期<strong>机械化的训练与重复</strong>，才在大脑 routine 与身体放松之间建立了牢固的突触连接。因此，即使初期尝试未达预期也不必急躁，持之以恒地巩固个人习惯才是关键。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

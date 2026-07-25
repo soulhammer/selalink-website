@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Walking Through Cemeteries for Inspiration: Mary Shelley's 'Solemn Solitary Contemplation' Routine"
 description: "Discover why Mary Shelley, author of 'Frankenstein', walked through graveyards and solemn historical spaces. Explore the brain science of awe and reflection that fosters deep creativity."
 pubDate: "2026-07-07"
@@ -36,14 +37,14 @@ Here we explore the scientific principles of cognitive awe and deep imagination 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding shelley-cemetery-walk is based on <strong>Historical literary records of Mary Shelley & Environmental Psychology research on Awe</strong>.
+      This content is based on <strong>Historical literary records of Mary Shelley & Environmental Psychology research on Awe</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Awe and Reflective Brain Network Activation in Solemn Spaces
+## 1. Cognitive Awe and Reflective Brain Network Activation in Solemn Spaces
 
 Environmental psychology shows that entering quiet spaces filled with history and solemnity—such as graveyards, ancient cathedrals, or historic ruins—triggers a unique cognitive emotion: 'Awe'.
 
@@ -51,9 +52,7 @@ Awe quiets the brain's ego-centric default mode network responsible for daily wo
 
 ---
 
-## Seek Out Quiet, Non-Commercial Historical or Natural Spaces
-
-For Mary Shelley, the cemetery was a quiet sanctuary to reflect on life and death. You don't necessarily need a graveyard—seek out old forest paths, quiet historic grounds, serene libraries, or secluded temples. The key is offering your brain a space completely separated from commercial noise and daily social friction.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ For Mary Shelley, the cemetery was a quiet sanctuary to reflect on life and deat
     Stop under a tree or bench to open a notebook. Write down the profound insights or creative ideas on life and humanity inspired by solemn awe without self-censorship.
   </p>
 </div>
+
+---
+
+## 3. Seek Out Quiet, Non-Commercial Historical or Natural Spaces
+
+For Mary Shelley, the cemetery was a quiet sanctuary to reflect on life and death. You don't necessarily need a graveyard—seek out old forest paths, quiet historic grounds, serene libraries, or secluded temples. The key is offering your brain a space completely separated from commercial noise and daily social friction.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

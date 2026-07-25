@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "将世界的音量归零：诺贝尔奖得主薛定谔的降噪专注法"
 description: "介绍量子力学巨匠埃尔温·薛定谔的耳塞听觉阻隔习惯。消除感官过滤的认知消耗、最大化大脑效率的三步无音沉浸实践法。"
 pubDate: "2026-04-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 schrodinger-earplug-focus 的内容基于 <strong>薛定谔历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>薛定谔历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 阻断感官过滤能量消耗的静音效应
+## 1. 阻断感官过滤能量消耗的静音效应
 
 人的听觉即使在睡眠中也在运作，是感知危险最敏锐的感官器官。每当听到细微的环境噪音，大脑都会无意识地启动“感官过滤（Sensory Filtering）”来判断其安全性，从而消耗前额叶的认知资源。使用耳塞从源头阻断听觉输入，大脑就会完全停止在过滤无用数据上消耗氧气与葡萄糖。由此节省的所有能量将100%投入到眼前的任务中，从而降低认知疲劳并极大化专注度。
 
 ---
 
-## 预防耳鸣与遵循耳部卫生规范
-
-如果长时间深度佩戴耳塞，可能会改变耳道内压力引起耳鸣，或因积汗引发外耳道炎等疾病。建议将专注时长控制在50分钟以内，休息时务必摘下耳塞通风干燥。保持耳塞清洁并定期更换。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     设定50分钟定时器，在绝对静音中高度专注学习。计时结束时务必摘下耳塞，晾干耳道湿气并休息10分钟。
   </p>
 </div>
+
+---
+
+## 3. 预防耳鸣与遵循耳部卫生规范
+
+如果长时间深度佩戴耳塞，可能会改变耳道内压力引起耳鸣，或因积汗引发外耳道炎等疾病。建议将专注时长控制在50分钟以内，休息时务必摘下耳塞通风干燥。保持耳塞清洁并定期更换。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

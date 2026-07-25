@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Humanity's Salvation Rescued from the Trash: Alexander Fleming's Failure Observation Method and Anomaly Discovery Routine"
 description: "Discover how Alexander Fleming, the legendary discoverer of penicillin, transformed medical history by meticulously observing a contaminated Petri dish instead of discarding it. Explore the neuroscience of cognitive fixation and divergent thinking."
 pubDate: "2026-02-08"
@@ -38,22 +39,20 @@ In today's post, we analyze the cognitive neuroscience behind Alexander Fleming'
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding fleming-petridish-observation is based on <strong>Historical Verification from André Maurois's *The Life of Sir Alexander Fleming*, Nobel Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from André Maurois's *The Life of Sir Alexander Fleming*, Nobel Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## How Divergent Thinking Shatters Cognitive Fixation and Unlocks Serendipity
+## 1. How Divergent Thinking Shatters Cognitive Fixation and Unlocks Serendipity
 
 Because the human brain naturally conserves cognitive resources by filtering out anomalies that deviate from established patterns, it exhibits <strong>Cognitive Fixation</strong>—treating errors or contaminations as irrelevant noise. This explains why standard researchers tossed contaminated Petri dishes without a second thought. Cultivating Fleming's habit of intentionally examining 'failed' outcomes activates the <strong>Frontoparietal Attention Network</strong>, resetting executive cognitive filters. Re-exploring ignored details shifts the brain into a state of <strong>Divergent Thinking</strong>, enabling the mind to recognize unexpected, serendipitous connections hidden within apparent mistakes.
 
 ---
 
-## Caution: Capturing Clues Within the Traces of Failure and Error
-
-When encountering mistakes or project setbacks, people naturally feel cognitive stress and rush to erase or forget them. However, as Fleming's Petri dish demonstrated, creative breakthroughs and game-changing innovations rarely emerge from pristine success; they hide within unintended contaminations and anomalies. Giving yourself room to observe failure unlocks true neural genius.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When encountering mistakes or project setbacks, people naturally feel cognitive 
   </p>
 </div>
 
+---
+
+## 3. Caution: Capturing Clues Within the Traces of Failure and Error
+
+When encountering mistakes or project setbacks, people naturally feel cognitive stress and rush to erase or forget them. However, as Fleming's Petri dish demonstrated, creative breakthroughs and game-changing innovations rarely emerge from pristine success; they hide within unintended contaminations and anomalies. Giving yourself room to observe failure unlocks true neural genius.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Won't analyzing my failures amplify mental frustration and discouragement?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When encountering mistakes or project setbacks, people naturally feel cognitive 
       Attempting to ignore or bury mistakes actually prolongs neural anxiety and discomfort. Conversely, writing down dispassionate factual data regarding why the error occurred signals to the brain that you have regained 'agency and control' over the situation, lowering anxiety and reigniting motivation.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Are there specific brain training exercises to better capture serendipitous discoveries?</span>

@@ -1,216 +1,318 @@
 {
   "sejong-dawn-reading": {
-    "title": {
-      "ko": "창의적 국정의 비결? 세종대왕의 지독한 새벽 독서 루틴",
-      "en": "Secret to Creative Governance? King Sejong the Great's Intense Dawn Reading Routine",
-      "ja": "独創国政の秘訣？世宗大王の凄まじい早朝読書ルーティン",
-      "zh": "开创性治国的秘诀？世宗大王的黎明苦读习惯",
-      "es": "¿El secreto de una gobernanza creativa? La intensa rutina de lectura al amanecer del Rey Sejong el Grande",
-      "de": "Das Geheimnis kreativer Staatsführung? König Sejong des Großen intensive Leseroutine am Morgen",
-      "fr": "Le secret d'une gouvernance créative ? La routine de lecture à l'aube du Roi Sejong le Grand",
-      "pt": "O segredo de uma governança criativa? A intensa rotina de leitura na alvorada do Rei Sejong, o Grande",
-      "id": "Rahasia Tata Kelola Kreatif? Rutinitas Membaca Subuh Raja Sejong yang Agung"
-    },
-    "description": {
-      "ko": "한글을 창제한 조선의 최고 성군 세종대왕. 만성 질환 속에서도 매일 새벽 3시에 일어나 고전을 읽으며 머리를 예열했던 그의 아침 인지 활성화 루틴을 소개합니다.",
-      "en": "King Sejong the Great created Hangeul and elevated Joseon culture. Discover his morning cognitive activation routine of waking at 3 AM despite chronic illness to warm up his intellect with classical literature.",
-      "ja": "ハングルを創制した朝鮮最高の名君、世宗大王。慢性疾患に悩まされながらも毎日午前3時に起きて古典を読み頭をウォーミングアップした、彼の朝の認知活性化ルーティンを紹介します。",
-      "zh": "创制韩文的朝鲜王朝伟君世宗大王。介绍他在百病缠身的情况下依然每天凌晨3点起床研读古典著作、为大脑预热的晨间认知激活习惯。",
-      "es": "El Rey Sejong el Grande creó el Hangeul y floreció la cultura Joseon. Descubra su rutina de activación cognitiva matutina al despertarse a las 3 AM para calentar su mente con la literatura clásica.",
-      "de": "König Sejong der Große schuf Hangeul. Entdecken Sie seine morgendliche kognitive Aktivierungsroutine, bei der er trotz chronischer Krankheit um 3 Uhr morgens aufstand, um seinen Geist mit Klassikern zu schärfen.",
-      "fr": "Le Roi Sejong le Grand a créé le Hangeul. Découvrez sa routine d'activation cognitive matinale consistant à se lever à 3 heures du matin pour éveiller son esprit avec la littérature classique.",
-      "pt": "O Rei Sejong, o Grande, criou o Hangeul. Descubra sua rotina de ativação cognitiva matinal ao acordar às 3h para aquecer sua mente com literatura clássica.",
-      "id": "Raja Sejong yang Agung menciptakan Hangeul. Pelajari rutinitas aktivasi kognitif paginya dengan bangun jam 3 pagi meski menderita penyakit kronis untuk memanaskan pikirannya dengan literatur klasik."
-    },
-    "authority": {
-      "ko": "조선왕조실록(朝鮮王朝實錄) 세종실록 고증 및 세종대왕 평전 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical verification from the Annals of King Sejong (Joseon Dynasty Annals), biographies & Cognitive Neuroscience research",
-      "ja": "『朝鮮王朝実録』世宗実録の考証および世宗大王評伝＆認知神経科学（Cognitive Neuroscience）の研究",
-      "zh": "《朝鲜王朝实录·世宗实录》考证及世宗大王传记与认知神经科学研究",
-      "es": "Verificación histórica de los Anales del Rey Sejong (Anales de la Dinastía Joseon), biografías e investigación en Neurociencia Cognitiva",
-      "de": "Historische Verifizierung aus den Annalen von König Sejong (Joseon-Dynastie), Biografien & Kognitive Neurowissenschaften",
-      "fr": "Vérification historique des Annales du Roi Sejong (Annales de la dynastie Joseon), biographies & recherche en neurosciences cognitives",
-      "pt": "Verificação histórica dos Anais do Rei Sejong (Anais da Dinastia Joseon), biografias & pesquisas em Neurociência Cognitiva",
-      "id": "Verifikasi tekstual dari Babad Raja Sejong (Babad Dinasti Joseon), biografi & penelitian Ilmu Saraf Kognitif"
-    },
-    "intro": {
-      "ko": "\"배우지 않으면 어두운 방에 앉아 있는 것과 같고, 책을 읽는 것은 등불을 드는 것과 같다.\"\n\n한글(훈민정음)을 창제하고 과학, 문화, 국방에 걸쳐 찬란한 업적을 남긴 조선 왕조 최고의 성군 세종대왕. 그가 안질과 당뇨 등 수많은 만성 질환과 과중한 국정 업무 속에서도 신통에 가까운 창의성과 현명한 의사결정을 발휘할 수 있었던 원동력은 그의 독특한 새벽 루틴에 있었습니다.\n\n세종대왕은 매일 새벽 3~4시경 가장 먼저 일어나 촛불 아래에서 고전과 역사서를 읽으며 하루를 시작했습니다. 이 고요한 시간에 그는 책을 음미하며 아침 일찍 왕과 신하들이 가졌던 정책 학술 토의인 '경연(經筵)'을 준비했습니다. 몸을 돌볼 틈조차 없이 바쁜 와중에도 결코 거르지 않았던 이 새벽 공부 시간은, 국가적 난제들을 높은 시야에서 바라보고 한글 창제라는 역사적 혁신을 설계하는 지적 예열 시간이 되었습니다.\n\n세종대왕의 '새벽 독서' 루틴에 숨겨진 뇌과학적 원리와 현대인이 일상에서 쉽게 실천할 수 있는 아침 인지 활성화 루틴을 소개합니다.",
-      "en": "\"Not learning is like sitting in a pitch-black room; reading books is like holding up a lamp.\"\n\nKing Sejong the Great, the greatest monarch of the Joseon Dynasty, created Hangeul (Hunminjeongeum) and orchestrated golden breakthroughs in science, culture, and defense. Despite battling chronic health issues like severe eye ailments and diabetes alongside crushing state duties, the driving force behind his extraordinary wisdom and creativity lay in his dawn routine.\n\nEvery day around 3 to 4 AM, King Sejong was the first in the palace to awake, reading classical scriptures and historical texts beneath candle lamp light. During these quiet hours, he prepared for 'Gyeongyeon' (經筵)—the daily royal policy debate and academic forum with high ministers. This early dawn study session, never skipped even amidst exhausting schedules, served as cognitive warm-up that enabled him to resolve complex national crises and engineer groundbreaking cultural innovations like Hangeul.\n\nHere we explore the brain science behind King Sejong's 'Dawn Reading' routine and how modern individuals can easily practice a morning cognitive activation ritual.",
-      "ja": "「学ばなければ暗い部屋に座っているようなものであり、本を読むことは灯火を掲げるようなものだ。」\n\nハングル（訓民正音）を創制し、科学・文化・国防にわたって輝かしい業績を残した朝鮮王朝最高の明君、世宗大王。眼病や糖尿病などの慢性疾患と過重な国政業務に悩まされながらも、驚異的な創造性と賢明な意思決定を発揮し続けられた原動力は、彼の早朝のルーティンにありました。\n\n世宗大王は毎日午前3〜4時頃に誰よりも早く起き、ろうそくの灯りの下で古典や歴史書を読みながら一日を始めました。この静寂な時間の中で彼は本を吟味し、朝早く王と臣下が持った政策・学術討論である「経筵（キョンヨン）」に備えました。身を労わる暇もない多忙さの中でも決して欠かさなかったこの早朝の勉強時間は、国家の難題を高い視野から見つめ、ハングル創制という歴史的革新を設計する知的ウォーミングアップとなりました。\n\n世宗大王の「早朝読書」ルーティンに隠された脳科学的原理と、現代人が日常で簡単に実践できる朝の認知活性化ルーティンを紹介します。",
-      "zh": "“不学如置身黑室，读书如举灯破暗。”\n\n创制韩文（训民正音）并在科学、文化、国防领域留下辉煌成就的朝鲜王朝伟大君主世宗大王。尽管深受眼疾、糖尿病等多种慢性疾病折磨并承受繁重政务，他之所以能展现出极具前瞻性的创造力与英明决策，核心动力源于他独特的黎明苦读习惯。\n\n世宗大王每天凌晨3至4点便早早起床，在蜡烛光下研读古典经书与历史典籍。在这宁静的时辰里，他细细品味书本，为清晨与群臣举行的国家政策与学术研讨会——“经筵”做准备。即便国事繁重，这一晨读习惯也从未中断，成为他俯瞰国家难题、擘画韩文创制这一历史性创新的大脑预热过程。\n\n本文将剖析世宗大王“黎明阅读”背后的脑科学原理，并介绍现代人可在日常生活中轻松实践的晨间认知激活习惯。",
-      "es": "\"No aprender es como estar sentado en una habitación a oscuras; leer libros es como sostener una lámpara.\"\n\nEl Rey Sejong el Grande, el soberano más ilustre de la Dinastía Joseon, creó el Hangeul (Hunminjeongeum) e impulsó la edad de oro en ciencia y cultura. A pesar de padecer dolencias crónicas y una pesada carga de Estado, la fuerza motriz de su sabiduría residía en su rutina matutina.\n\nTodos los días entre las 3 y las 4 AM, el Rey Sejong era el primero en despertar en el palacio, leyendo textos clásicos e historia a la luz de las velas. Durante esas horas silenciosas, se preparaba para el 'Gyeongyeon' (經筵), el debate de políticas reales con sus ministros. Esta sesión de estudio al amanecer funcionaba como un calentamiento mental para resolver crisis complejas e idear el Hangeul.\n\nExploramos la ciencia cerebral detrás de la 'Lectura al amanecer' del Rey Sejong y cómo practicar una activación cognitiva matutina.",
-      "de": "\"Wer nicht lernt, sitzt in einem dunklen Raum; Bücher zu lesen ist wie das Hochhalten einer Lampe.\"\n\nKönig Sejong der Große, der bedeutendste Herrscher der Joseon-Dynastie, schuf Hangeul (Hunminjeongeum) und prägte Blütezeiten in Wissenschaft und Kultur. Trotz chronischer Krankheiten und enormer Staatsgeschäfte lag das Geheimnis seiner Weisheit in seiner Morgenroutine.\n\nJeden Morgen zwischen 3 und 4 Uhr stand König Sejong als Erster im Palast auf und las Klassiker bei Kerzenschein. In dieser Ruhe bereitete er sich auf das 'Gyeongyeon' (經筵) vor – die tägliche wissenschaftliche Debatte mit seinen Ministern. Dieses morgendliche Studium diente als kognitives Aufwärmen für historische Innovationen.\n\nHier untersuchen wir die Neurowissenschaft hinter König Sejongs Frühlektüre und wie Sie diesen Impuls für Ihren Morgen nutzen können.",
-      "fr": "\"Ne pas apprendre, c'est être assis dans une pièce sombre ; lire des livres, c'est tenir une lampe.\"\n\nLe Roi Sejong le Grand, plus grand monarque de la dynastie Joseon, a créé le Hangeul (Hunminjeongeum) et favorisé l'âge d'or de la science et de la culture. Malgré de lourdes affaires d'État et des maladies chroniques, le secret de sa sagesse résidait dans sa routine de l'aube.\n\nChaque jour vers 3 ou 4 heures du matin, le Roi Sejong se levait le premier au palais pour lire les Classiques à la bougie. Pendant ces heures calmes, il préparait le 'Gyeongyeon' (經筵), le débat politique quotidien avec ses ministres. Cette étude matinale servait d'éveil cognitif pour résoudre les crises complexes.\n\nDécouvrez la science cérébrale derrière la 'Lecture de l'aube' du Roi Sejong et comment l'adapter pour éveiller votre esprit le matin.",
-      "pt": "\"Não aprender é como estar em um quarto escuro; ler livros é como segurar uma lâmpada.\"\n\nO Rei Sejong, o Grande, o maior monarca da Dinastia Joseon, criou o Hangeul e liderou descobertas na ciência e cultura. Apesar de enfrentar doenças crônicas e pesadas responsabilidades, sua sabedoria vinha de sua rotina na alvorada.\n\nTodos os dias entre 3h e 4h da manhã, o Rei Sejong era o primeiro a acordar para ler os clássicos à luz de velas. Nesses momentos de silêncio, preparava-se para o 'Gyeongyeon' (經筵), o debate diário com os ministros. Essa sessão de estudos servia como aquecimento cognitivo para resolver crises e criar o Hangeul.\n\nExploramos a ciência por trás da 'Leitura na Alvorada' do Rei Sejong e como praticar um ritual matinal de ativação cognitiva.",
-      "id": "\"Tidak belajar ibarat duduk di ruangan gelap gulita; membaca buku ibarat memegang pelita.\"\n\nRaja Sejong yang Agung, penguasa terbesar Dinasti Joseon, menciptakan Hangeul dan memimpin kemajuan sains serta budaya. Meski berjuang melawan penyakit kronis dan tugas negara yang berat, pendorong keahliannya terletak pada rutinitas subuhnya.\n\nSetiap hari sekitar jam 3 hingga 4 pagi, Raja Sejong bangun paling awal untuk membaca kitab klasik di bawah cahaya lilin. Di jam-jam tenang ini, ia bersiap untuk 'Gyeongyeon' (經筵)—debat kebijakan harian bersama para menteri. Sesi belajar subuh ini menjadi pemanasan kognitif untuk merancang inovasi seperti Hangeul.\n\nBerikut sains otak di balik 'Membaca Subuh' Raja Sejong dan cara mempraktikkan aktivasi kognitif pagi."
-    },
-    "whyTitle": {
-      "ko": "기상 직후 뇌를 깨우는 인지 예열의 효과",
-      "en": "Effects of Cognitive Warm-Up Awakening the Brain Right After Waking",
-      "ja": "起床直後に脳を目覚めさせる認知ウォーミングアップの効果",
-      "zh": "清醒后立即唤醒大脑的“认知预热”效果",
-      "es": "Efectos del calentamiento cognitivo para despertar el cerebro justo al levantarse",
-      "de": "Wirkung des kognitiven Aufwärmens direkt nach dem Aufstehen",
-      "fr": "Effets du réchauffement cognitif immédiatement après le réveil",
-      "pt": "Efeitos do aquecimento cognitivo para despertar o cérebro logo ao acordar",
-      "id": "Efek Pemanasan Kognitif Membangunkan Otak Tepat Setelah Bangun"
-    },
-    "whyDesc": {
-      "ko": "아침에 잠에서 깨어난 직후의 뇌는 외부 소음이나 불필요한 시각적 자극에 시달리지 않아 고도의 순수한 몰입을 발휘할 수 있는 상태입니다.\n\n뇌과학적으로 아침 일찍 조용히 고전이나 깊이 있는 텍스트를 읽는 행위는 뇌의 <strong>'인지 예열(Cognitive Warm-Up)'</strong> 역할을 합니다. 이른 아침의 독서는 논리와 전두엽을 담당하는 신경망을 서서히 일깨워, 그날 하루 동안 마주할 복잡한 의사결정에서 인지 피로를 현저하게 줄여주고 창의적인 패턴 매칭 능력을 극대화해 줍니다.",
-      "en": "Right after waking up, the brain is free from ambient digital clutter or sensory noise, creating an optimal state for pure deep focus.\n\nNeuroscientifically, reading dense classical texts early in the morning acts as a <strong>'Cognitive Warm-Up'</strong>. Early reading gently awakens the prefrontal cortex circuits responsible for logic and decision-making, significantly lowering decision fatigue during the rest of the day and boosting creative pattern-recognition.",
-      "ja": "朝目覚めた直後の脳は、外部の騒音や不要な視覚的刺激に晒されていないため、高度で純粋な没頭を発揮できる状態です。\n\n脳科学的に、朝早く静かに古典や深いテキストを読む行為は、脳の<strong>「認知ウォーミングアップ（Cognitive Warm-Up）」</strong>の役割を果たします。早朝の読書は論理と前頭葉を司る神経系を緩やかに呼び覚まし、その日一日に直面する複雑な意思決定における認知疲労を著しく軽減し、創造的なパターンマッチング能力を最大化します。",
-      "zh": "清晨刚醒来时的大脑不受外界杂音与繁杂信息的干扰，处于适合纯粹专注的最佳状态。\n\n从脑科学角度看，清晨静心研读结构严谨的高深度书籍充当了大脑的<strong>“认知预热（Cognitive Warm-Up）”</strong>。晨读能温和地唤醒负责逻辑与决策的前头叶神经网，大幅降低全天的决策疲劳，并显著提升创新的模式匹配与推理能力。",
-      "es": "Justo después de despertar, el cerebro está libre de distracciones digitales o ruidos sensoriales, creando un estado óptimo para la concentración pura.\n\nNeurocientíficamente, leer textos complejos temprano funciona como un <strong>'Calentamiento Cognitivo'</strong>. Esta lectura activa suavemente la corteza prefrontal responsable de la lógica, reduciendo drásticamente la fatiga de decisión durante el día y potenciando el reconocimiento creativo de patrones.",
-      "de": "Direkt nach dem Aufwachen ist das Gehirn frei von digitaler Reizüberflutung und befindet sich in einem Zustand hoher Fokussierbarkeit.\n\nNeurowissenschaftlich wirkt das frühe Lesen anspruchsvoller Texte als <strong>'kognitives Aufwärmen'</strong> (Cognitive Warm-Up). Es weckt sanft den präfrontalen Kortex, verringert Entscheidungsmüdigkeit im Tagesverlauf und maximiert die kreative Denkleistung.",
-      "fr": "Immédiatement après le réveil, le cerveau est exempt de bruit numérique, offrant un état idéal pour la concentration.\n\nSurligner des textes denses le matin sert d'<strong>'Éveil Cognitif'</strong>. Cette lecture stimule en douceur le cortex préfrontal chargé de la logique, réduisant la fatigue décisionnelle tout au long de la journée.",
-      "pt": "Logo após acordar, o cérebro está livre de distrações visuais e ruídos, criando um estado ideal para o foco profundo.\n\nLer textos densos pela manhã funciona como um <strong>'Aquecimento Cognitivo'</strong>. Essa leitura desperta suavemente o córtex pré-frontal responsável pela lógica, reduzindo a fadiga mental durante o dia.",
-      "id": "Tepat setelah bangun, otak bebas dari gangguan digital, menciptakan kondisi optimal untuk fokus mendalam.\n\nSecara neurosains, membaca teks klasik di pagi hari bertindak sebagai <strong>'Pemanasan Kognitif'</strong>. Ini membangunkan korteks prefrontal yang bertanggung jawab atas logika, mengurangi kelelahan keputusan sepanjang hari."
-    },
-    "cautionTitle": {
-      "ko": "스크린의 블루라이트 대신 종이와 은은한 등불을 택하세요",
-      "en": "Choose Paper and Warm Lighting Over Screen Blue Light",
-      "ja": "スクリーンのブルーライトの代わりに紙とほのかな灯りを選びましょう",
-      "zh": "用纸质书与柔和灯光替代屏幕蓝光",
-      "es": "Elija papel y luz cálida en lugar de la luz azul de las pantallas",
-      "de": "Wählen Sie Papier und warmes Licht statt blauem Bildschirmlicht",
-      "fr": "Privilégiez le papier et une lumière douce au bleu des écrans",
-      "pt": "Escolha papel e luz suave em vez da luz azul das telas",
-      "id": "Pilih Kertas dan Pencahayaan Lembut daripada Cahaya Biru Layar"
-    },
-    "cautionDesc": {
-      "ko": "새벽 독서의 핵심은 기상 직후 뇌가 갖는 고요한 집중 상태를 유지하는 것입니다. 일어나자마자 스마트폰 스크린을 켜는 순간, 쏟아지는 블루라이트와 단편적인 알림 정보들은 전두엽을 순식간에 피로하게 만듭니다. 세종대왕이 은은한 등불 아래에서 한 글자씩 종이책을 음미했듯, 여러분도 디지털 화면을 배제하고 아날로그 종이책을 활용하여 새벽의 평온함을 인지 자산으로 전환해야 합니다.",
-      "en": "The key to dawn reading is preserving the quiet, focused state your brain possesses upon waking. Checking your smartphone immediately bombards your prefrontal cortex with blue light and reactive notifications, inducing instant cognitive fatigue. As King Sejong savored paper texts under warm lamplight, keep digital screens away and use physical books to convert early calm into cognitive wealth.",
-      "ja": "早朝読書の核心は、起床直後に脳が持つ静かな集中状態を維持することです。起きてすぐスマートフォン画面をつける瞬間、降り注ぐブルーライトと断片的な通知情報は前頭葉を一瞬で疲弊させます。世宗大王がほのかな灯りの下で一文字ずつ紙の本を吟味したように、デジタル画面を排除しアナログの紙の本を活用して早朝の平穏を認知資産へ転換してください。",
-      "zh": "晨读的核心在于保持大脑刚醒来时的宁静与专注。醒来立刻开启手机屏幕，涌入的蓝光与碎片的通知信息会迅速使前额叶产生疲劳。正如世宗大王在柔和烛光下一字字品读纸质书籍一样，请屏蔽数字屏幕，使用纸质书将清晨的宁静转化为长久的认知资产。",
-      "es": "La clave de la lectura al amanecer es preservar el estado tranquilo de su cerebro. Consultar el teléfono al despertar bombardea su mente con luz azul y notificaciones, fatigando la corteza prefrontal. Como el Rey Sejong disfrutaba los libros de papel a la luz de las velas, evite las pantallas y use libros físicos.",
-      "de": "Der Schlüssel liegt im Erhalt des ruhigen Fokuszustands nach dem Aufwachen. Das Smartphone setzt das Gehirn sofort Blaulicht und Benachrichtigungen aus, was den präfrontalen Kortex ermüdet. Nutzen Sie echte gedruckte Bücher bei warmem Licht, um die Morgenruhe als kognitives Kapital zu nutzen.",
-      "fr": "La clé de la lecture matinale est de préserver le calme de votre esprit. Regarder votre téléphone bombarde votre cortex préfrontal de lumière bleue et de notifications. Comme le Roi Sejong avec ses livres en papier sous une douce lumière, privilégiez les livres physiques.",
-      "pt": "A chave da leitura matinal é preservar o estado calmo do cérebro. Olhar o celular ao acordar bombardeia seu cérebro com luz azul e notificações, cansando o córtex pré-frontal. Evite telas e use livros físicos à luz suave para transformar a calma matinal em ativo cognitivo.",
-      "id": "Kunci membaca subuh adalah menjaga kondisi tenang otak Anda saat bangun. Membuka ponsel langsung membombardir korteks prefrontal dengan cahaya biru dan notifikasi, memicu kelelahan mental. Gunakan buku fisik di bawah lampu lembut seperti Raja Sejong."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "30분 조기 기상 및 기기 차단",
-          "en": "Wake Up 30 Minutes Earlier and Block Digital Devices",
-          "ja": "30分の we-Early 起床および機器の遮断",
-          "zh": "提前30分钟起床并屏蔽电子设备",
-          "es": "Despertar 30 minutos antes y bloquear dispositivos digitales",
-          "de": "30 Minuten früher aufstehen und digitale Geräte meiden",
-          "fr": "Se lever 30 minutes plus tôt et couper les appareils",
-          "pt": "Acordar 30 minutos mais cedo e evitar dispositivos digitais",
-          "id": "Bangun 30 Menit Lebih Awal dan Matikan Perangkat Digital"
-        },
-        "text": {
-          "ko": "평소 기상 시간보다 30분 일찍 알람을 맞추고 일어납니다. 눈을 뜨자마자 스마트폰을 확인하지 않도록 기기를 멀리 두거나 전원을 꺼둔 상태를 유지합니다.",
-          "en": "Set your alarm 30 minutes earlier than usual. Keep your smartphone far away or turned off so you don't check messages upon waking.",
-          "ja": "普段の起床時間より30分早くアラームをセットして起きます。目を覚ましてすぐスマートフォンを確認しないよう、機器を遠くに置くか電源を切った状態を維持します。",
-          "zh": "将闹钟调比平时早30分钟。将手机放远或关机，确保醒来不会第一眼去查看社交软件或信息。",
-          "es": "Ajuste su alarma 30 minutos antes de lo habitual. Mantenga el teléfono alejado o apagado para no revisar mensajes al despertar.",
-          "de": "Stellen Sie den Wecker 30 Minuten früher. Lassen Sie das Smartphone ausgeschaltet oder in einem anderen Raum, um den Blick auf Benachrichtigungen zu vermeiden.",
-          "fr": "Réglez votre réveil 30 minutes plus tôt. Gardez votre smartphone éloigné ou éteint pour ne pas consulter les notifications au réveil.",
-          "pt": "Defina o alarme 30 minutos mais cedo. Mantenha o celular longe ou desligado para não olhar mensagens ao acordar.",
-          "id": "Atur alarm 30 menit lebih awal. Jauhkan atau matikan ponsel agar Anda tidak langsung memeriksa notifikasi saat bangun."
-        }
+    "pubDate": "2026-04-27",
+    "updatedDate": "2026-04-27",
+    "heroImage": "/images/blog/sejong_dawn_reading.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "창의적 국정의 비결? 세종대왕의 지독한 새벽 독서 루틴",
+        "description": "한글을 창제한 조선의 최고 성군 세종대왕. 만성 질환 속에서도 매일 새벽 3시에 일어나 고전을 읽으며 머리를 예열했던 그의 아침 인지 활성화 루틴을 소개합니다.",
+        "authority": "조선왕조실록(朝鮮王朝實錄) 세종실록 고증 및 세종대왕 평전 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"배우지 않으면 어두운 방에 앉아 있는 것과 같고, 책을 읽는 것은 등불을 드는 것과 같다.\"\n\n한글(훈민정음)을 창제하고 과학, 문화, 국방에 걸쳐 찬란한 업적을 남긴 조선 왕조 최고의 성군 세종대왕. 그가 안질과 당뇨 등 수많은 만성 질환과 과중한 국정 업무 속에서도 신통에 가까운 창의성과 현명한 의사결정을 발휘할 수 있었던 원동력은 그의 독특한 새벽 루틴에 있었습니다.\n\n세종대왕은 매일 새벽 3~4시경 가장 먼저 일어나 촛불 아래에서 고전과 역사서를 읽으며 하루를 시작했습니다. 이 고요한 시간에 그는 책을 음미하며 아침 일찍 왕과 신하들이 가졌던 정책 학술 토의인 '경연(經筵)'을 준비했습니다. 몸을 돌볼 틈조차 없이 바쁜 와중에도 결코 거르지 않았던 이 새벽 공부 시간은, 국가적 난제들을 높은 시야에서 바라보고 한글 창제라는 역사적 혁신을 설계하는 지적 예열 시간이 되었습니다.\n\n세종대왕의 '새벽 독서' 루틴에 숨겨진 뇌과학적 원리와 현대인이 일상에서 쉽게 실천할 수 있는 아침 인지 활성화 루틴을 소개합니다.",
+        "whyTitle": "기상 직후 뇌를 깨우는 인지 예열의 효과",
+        "whyDesc": "아침에 잠에서 깨어난 직후의 뇌는 외부 소음이나 불필요한 시각적 자극에 시달리지 않아 고도의 순수한 몰입을 발휘할 수 있는 상태입니다.\n\n뇌과학적으로 아침 일찍 조용히 고전이나 깊이 있는 텍스트를 읽는 행위는 뇌의 <strong>'인지 예열(Cognitive Warm-Up)'</strong> 역할을 합니다. 이른 아침의 독서는 논리와 전두엽을 담당하는 신경망을 서서히 일깨워, 그날 하루 동안 마주할 복잡한 의사결정에서 인지 피로를 현저하게 줄여주고 창의적인 패턴 매칭 능력을 극대화해 줍니다.",
+        "cautionTitle": "스크린의 블루라이트 대신 종이와 은은한 등불을 택하세요",
+        "cautionDesc": "새벽 독서의 핵심은 기상 직후 뇌가 갖는 고요한 집중 상태를 유지하는 것입니다. 일어나자마자 스마트폰 스크린을 켜는 순간, 쏟아지는 블루라이트와 단편적인 알림 정보들은 전두엽을 순식간에 피로하게 만듭니다. 세종대왕이 은은한 등불 아래에서 한 글자씩 종이책을 음미했듯, 여러분도 디지털 화면을 배제하고 아날로그 종이책을 활용하여 새벽의 평온함을 인지 자산으로 전환해야 합니다.",
+        "steps": [
+          {
+            "title": "30분 조기 기상 및 기기 차단",
+            "desc": "평소 기상 시간보다 30분 일찍 알람을 맞추고 일어납니다. 눈을 뜨자마자 스마트폰을 확인하지 않도록 기기를 멀리 두거나 전원을 꺼둔 상태를 유지합니다."
+          },
+          {
+            "title": "은은한 조명 아래 아날로그 독서",
+            "desc": "자극적인 형광등 대신 은은한 스탠드나 조명을 켭니다. 준비해 둔 종이책(역사, 문학, 고전 에세이 등)을 펼쳐 20분 동안 천천히 정독합니다."
+          },
+          {
+            "title": "핵심 구절 필사 및 생각 정리",
+            "desc": "가장 인상 깊었던 문장을 노트에 손글씨로 적어봅니다. 이와 함께 오늘 하루 해야 할 가장 중요한 일 한 가지를 떠올리며 마인드셋을 조율합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?",
+            "answer": "아닙니다. 세종대왕의 핵심은 '기상 직후 외부 방해 없는 나만의 인지 자산 확보'에 있습니다. 본인의 평소 기상 시간보다 단 30분만 일찍 일어나 스마트폰 차단 하에 조용히 독서하는 것만으로도 충분히 동일한 효과를 냅니다."
+          },
+          {
+            "question": "웹소설이나 소셜 미디어 아티클을 읽는 것도 괜찮나요?",
+            "answer": "아침의 뇌를 예열하기 위해서는 단편적이고 시각적 자극이 강한 온라인 텍스트보다, 논리 전개가 깊고 구조적인 종이책을 정독하는 것이 좋습니다. 철학, 인문학, 고전 에세이, 역사서처럼 뇌가 서사를 따라 적극적으로 사유하게 만드는 활자가 인지 기능 활성화에 훨씬 유익합니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "은은한 조명 아래 아날로그 독서",
-          "en": "Analog Reading Under Gentle Warm Light",
-          "ja": "ほのかな照明の下でのアナログ読書",
-          "zh": "在柔和灯光下进行纸质阅读",
-          "es": "Lectura analógica bajo una luz suave y cálida",
-          "de": "Analoge Lektüre bei sanftem Licht",
-          "fr": "Lecture analogique sous une lumière douce",
-          "pt": "Leitura analógica sob luz suave",
-          "id": "Membaca Buku Fisik di Bawah Lampu Lembut"
-        },
-        "text": {
-          "ko": "자극적인 형광등 대신 은은한 스탠드나 조명을 켭니다. 준비해 둔 종이책(역사, 문학, 고전 에세이 등)을 펼쳐 20분 동안 천천히 정독합니다.",
-          "en": "Turn on a gentle desk lamp instead of harsh overhead lights. Open a prepared physical book (history, humanities, classical essays) and read slowly for 20 minutes.",
-          "ja": "刺激的な蛍光灯の代わりにほのかなスタンドライトをつけます。用意しておいた紙の本（歴史、文学、古典エッセイなど）を開き、20分間ゆっくりと精読します。",
-          "zh": "打开柔和的台灯替代刺眼的白炽灯。翻开准备好的纸质书（历史、文学、哲学、经典散文等），细细精读20分钟。",
-          "es": "Encienda una lámpara de luz cálida en lugar de luces intensas. Abra un libro físico preparado (historia, literatura, ensayos) y lea despacio durante 20 minutos.",
-          "de": "Schalten Sie eine sanfte Schreibtischlampe ein. Schlagen Sie ein vorbereitetes Buch (Geschichte, Philosophie, Klassiker) auf und lesen Sie 20 Minuten lang aufmerksam.",
-          "fr": "Allumez une lampe de bureau douce au lieu d'un plafonnier vif. Ouvrez un livre papier préparé (histoire, littérature, essais) et lisez calmement pendant 20 minutes.",
-          "pt": "Ligue um abajur de luz suave. Abra um livro físico preparado (história, literatura, ensaios) e leia atentamente por 20 minutos.",
-          "id": "Nyalakan lampu meja yang lembut. Buka buku fisik yang sudah disiapkan (sejarah, literatur, esai klasik) dan baca dengan saksama selama 20 menit."
-        }
+      "en": {
+        "title": "Secret to Creative Governance? King Sejong the Great's Intense Dawn Reading Routine",
+        "description": "King Sejong the Great created Hangeul and elevated Joseon culture. Discover his morning cognitive activation routine of waking at 3 AM despite chronic illness to warm up his intellect with classical literature.",
+        "authority": "Historical verification from the Annals of King Sejong (Joseon Dynasty Annals), biographies & Cognitive Neuroscience research",
+        "intro": "\"Not learning is like sitting in a pitch-black room; reading books is like holding up a lamp.\"\n\nKing Sejong the Great, the greatest monarch of the Joseon Dynasty, created Hangeul (Hunminjeongeum) and orchestrated golden breakthroughs in science, culture, and defense. Despite battling chronic health issues like severe eye ailments and diabetes alongside crushing state duties, the driving force behind his extraordinary wisdom and creativity lay in his dawn routine.\n\nEvery day around 3 to 4 AM, King Sejong was the first in the palace to awake, reading classical scriptures and historical texts beneath candle lamp light. During these quiet hours, he prepared for 'Gyeongyeon' (經筵)—the daily royal policy debate and academic forum with high ministers. This early dawn study session, never skipped even amidst exhausting schedules, served as cognitive warm-up that enabled him to resolve complex national crises and engineer groundbreaking cultural innovations like Hangeul.\n\nHere we explore the brain science behind King Sejong's 'Dawn Reading' routine and how modern individuals can easily practice a morning cognitive activation ritual.",
+        "whyTitle": "Effects of Cognitive Warm-Up Awakening the Brain Right After Waking",
+        "whyDesc": "Right after waking up, the brain is free from ambient digital clutter or sensory noise, creating an optimal state for pure deep focus.\n\nNeuroscientifically, reading dense classical texts early in the morning acts as a <strong>'Cognitive Warm-Up'</strong>. Early reading gently awakens the prefrontal cortex circuits responsible for logic and decision-making, significantly lowering decision fatigue during the rest of the day and boosting creative pattern-recognition.",
+        "cautionTitle": "Choose Paper and Warm Lighting Over Screen Blue Light",
+        "cautionDesc": "The key to dawn reading is preserving the quiet, focused state your brain possesses upon waking. Checking your smartphone immediately bombards your prefrontal cortex with blue light and reactive notifications, inducing instant cognitive fatigue. As King Sejong savored paper texts under warm lamplight, keep digital screens away and use physical books to convert early calm into cognitive wealth.",
+        "steps": [
+          {
+            "title": "Wake Up 30 Minutes Earlier and Block Digital Devices",
+            "desc": "Set your alarm 30 minutes earlier than usual. Keep your smartphone far away or turned off so you don't check messages upon waking."
+          },
+          {
+            "title": "Analog Reading Under Gentle Warm Light",
+            "desc": "Turn on a gentle desk lamp instead of harsh overhead lights. Open a prepared physical book (history, humanities, classical essays) and read slowly for 20 minutes."
+          },
+          {
+            "title": "Transcribe Key Sentences and Align Your Mindset",
+            "desc": "Handwrite the most impactful sentence in a notebook. Then think of the single most important objective for your day, setting your mindset clearly."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "I'm not a morning person; do I really have to wake up at 3 or 4 AM?",
+            "answer": "No. The core lesson of King Sejong is securing uninterrupted cognitive focus right after waking. Simply waking up 30 minutes earlier than your usual routine and reading quietly without smartphone distractions yields the exact same benefits."
+          },
+          {
+            "question": "Is it okay to read web novels or social media articles instead?",
+            "answer": "To properly warm up your morning brain, dense structured paper books with logical narrative development are far superior to highly sensory, bite-sized online content. Literature, philosophy, classics, or history that demand active cognitive reasoning activate brain networks much more effectively."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "핵심 구절 필사 및 생각 정리",
-          "en": "Transcribe Key Sentences and Align Your Mindset",
-          "ja": "核心の一節の筆写と思考の整理",
-          "zh": "抄录核心句子与整理晨间思考",
-          "es": "Transcribir frases clave y organizar pensamientos",
-          "de": "Kernsätze handschriftlich notieren und Mindset ausrichten",
-          "fr": "Recopier des phrases clés et structurer vos pensées",
-          "pt": "Transcrever frases-chave e organizar pensamentos",
-          "id": "Salin Kalimat Kunci dan Tata Pikiran Anda"
-        },
-        "text": {
-          "ko": "가장 인상 깊었던 문장을 노트에 손글씨로 적어봅니다. 이와 함께 오늘 하루 해야 할 가장 중요한 일 한 가지를 떠올리며 마인드셋을 조율합니다.",
-          "en": "Handwrite the most impactful sentence in a notebook. Then think of the single most important objective for your day, setting your mindset clearly.",
-          "ja": "最も印象深かった文をノートに手書きで書き写します。併せて今日一日行うべき最も重要なこと一つを思い浮かべ、マインドセットを整えます。",
-          "zh": "将最受启发的语句用手写抄录在笔记本上。同时思考今天需要完成的唯一一件最重要的事项，调整好清晨的心态。",
-          "es": "Escriba a mano la frase más inspiradora en una libreta. Luego, piense en el objetivo más importante del día para alinear su mente.",
-          "de": "Schreiben Sie den einprägsamsten Satz handschriftlich in ein Notizbuch. Richten Sie danach Ihre Gedanken auf die wichtigste Aufgabe des Tages aus.",
-          "fr": "Recopiez à la main la phrase la plus marquante dans un carnet. Réfléchissez ensuite à la priorité absolue de votre journée pour caler votre esprit.",
-          "pt": "Escreva à mão a frase mais marcante em um caderno. Em seguida, pense no objetivo principal do seu dia, alinhando sua mentalidade.",
-          "id": "Tulis tangan kalimat paling berkesan di buku catatan. Kemudian pikirkan satu prioritas paling penting untuk mengatur pikiran Anda hari ini."
-        }
+      "zh": {
+        "title": "开创性治国的秘诀？世宗大王的黎明苦读习惯",
+        "description": "创制韩文的朝鲜王朝伟君世宗大王。介绍他在百病缠身的情况下依然每天凌晨3点起床研读古典著作、为大脑预热的晨间认知激活习惯。",
+        "authority": "《朝鲜王朝实录·世宗实录》考证及世宗大王传记与认知神经科学研究",
+        "intro": "“不学如置身黑室，读书如举灯破暗。”\n\n创制韩文（训民正音）并在科学、文化、国防领域留下辉煌成就的朝鲜王朝伟大君主世宗大王。尽管深受眼疾、糖尿病等多种慢性疾病折磨并承受繁重政务，他之所以能展现出极具前瞻性的创造力与英明决策，核心动力源于他独特的黎明苦读习惯。\n\n世宗大王每天凌晨3至4点便早早起床，在蜡烛光下研读古典经书与历史典籍。在这宁静的时辰里，他细细品味书本，为清晨与群臣举行的国家政策与学术研讨会——“经筵”做准备。即便国事繁重，这一晨读习惯也从未中断，成为他俯瞰国家难题、擘画韩文创制这一历史性创新的大脑预热过程。\n\n本文将剖析世宗大王“黎明阅读”背后的脑科学原理，并介绍现代人可在日常生活中轻松实践的晨间认知激活习惯。",
+        "whyTitle": "清醒后立即唤醒大脑的“认知预热”效果",
+        "whyDesc": "清晨刚醒来时的大脑不受外界杂音与繁杂信息的干扰，处于适合纯粹专注的最佳状态。\n\n从脑科学角度看，清晨静心研读结构严谨的高深度书籍充当了大脑的<strong>“认知预热（Cognitive Warm-Up）”</strong>。晨读能温和地唤醒负责逻辑与决策的前头叶神经网，大幅降低全天的决策疲劳，并显著提升创新的模式匹配与推理能力。",
+        "cautionTitle": "用纸质书与柔和灯光替代屏幕蓝光",
+        "cautionDesc": "晨读的核心在于保持大脑刚醒来时的宁静与专注。醒来立刻开启手机屏幕，涌入的蓝光与碎片的通知信息会迅速使前额叶产生疲劳。正如世宗大王在柔和烛光下一字字品读纸质书籍一样，请屏蔽数字屏幕，使用纸质书将清晨的宁静转化为长久的认知资产。",
+        "steps": [
+          {
+            "title": "提前30分钟起床并屏蔽电子设备",
+            "desc": "将闹钟调比平时早30分钟。将手机放远或关机，确保醒来不会第一眼去查看社交软件或信息。"
+          },
+          {
+            "title": "在柔和灯光下进行纸质阅读",
+            "desc": "打开柔和的台灯替代刺眼的白炽灯。翻开准备好的纸质书（历史、文学、哲学、经典散文等），细细精读20分钟。"
+          },
+          {
+            "title": "抄录核心句子与整理晨间思考",
+            "desc": "将最受启发的语句用手写抄录在笔记本上。同时思考今天需要完成的唯一一件最重要的事项，调整好清晨的心态。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "我不是晨型人，真的需要凌晨3~4点起床吗？",
+            "answer": "完全不需要。世宗大王习惯的核心在于“清醒后确保一段不受外界打扰的自我认知输入”。只要比平时早起30分钟，在远离手机的状态下安静阅读，就能取得完全相同的效果。"
+          },
+          {
+            "question": "阅读网络小说或社交媒体文章也可以吗？",
+            "answer": "为了有效预热晨间大脑，相较于碎片化、刺激强的网络文本，精读论述严谨、结构完整的纸质书更为有效。哲学、人文学科、古典散文、历史典籍等需要大脑积极沉思的文字对激活认知功能裨益更深。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "独創国政の秘訣？世宗大王の凄まじい早朝読書ルーティン",
+        "description": "ハングルを創制した朝鮮最高の名君、世宗大王。慢性疾患に悩まされながらも毎日午前3時に起きて古典を読み頭をウォーミングアップした、彼の朝の認知活性化ルーティンを紹介します。",
+        "authority": "『朝鮮王朝実録』世宗実録の考証および世宗大王評伝＆認知神経科学（Cognitive Neuroscience）の研究",
+        "intro": "「学ばなければ暗い部屋に座っているようなものであり、本を読むことは灯火を掲げるようなものだ。」\n\nハングル（訓民正音）を創制し、科学・文化・国防にわたって輝かしい業績を残した朝鮮王朝最高の明君、世宗大王。眼病や糖尿病などの慢性疾患と過重な国政業務に悩まされながらも、驚異的な創造性と賢明な意思決定を発揮し続けられた原動力は、彼の早朝のルーティンにありました。\n\n世宗大王は毎日午前3〜4時頃に誰よりも早く起き、ろうそくの灯りの下で古典や歴史書を読みながら一日を始めました。この静寂な時間の中で彼は本を吟味し、朝早く王と臣下が持った政策・学術討論である「経筵（キョンヨン）」に備えました。身を労わる暇もない多忙さの中でも決して欠かさなかったこの早朝の勉強時間は、国家の難題を高い視野から見つめ、ハングル創制という歴史的革新を設計する知的ウォーミングアップとなりました。\n\n世宗大王の「早朝読書」ルーティンに隠された脳科学的原理と、現代人が日常で簡単に実践できる朝の認知活性化ルーティンを紹介します。",
+        "whyTitle": "起床直後に脳を目覚めさせる認知ウォーミングアップの効果",
+        "whyDesc": "朝目覚めた直後の脳は、外部の騒音や不要な視覚的刺激に晒されていないため、高度で純粋な没頭を発揮できる状態です。\n\n脳科学的に、朝早く静かに古典や深いテキストを読む行為は、脳の<strong>「認知ウォーミングアップ（Cognitive Warm-Up）」</strong>の役割を果たします。早朝の読書は論理と前頭葉を司る神経系を緩やかに呼び覚まし、その日一日に直面する複雑な意思決定における認知疲労を著しく軽減し、創造的なパターンマッチング能力を最大化します。",
+        "cautionTitle": "スクリーンのブルーライトの代わりに紙とほのかな灯りを選びましょう",
+        "cautionDesc": "早朝読書の核心は、起床直後に脳が持つ静かな集中状態を維持することです。起きてすぐスマートフォン画面をつける瞬間、降り注ぐブルーライトと断片的な通知情報は前頭葉を一瞬で疲弊させます。世宗大王がほのかな灯りの下で一文字ずつ紙の本を吟味したように、デジタル画面を排除しアナログの紙の本を活用して早朝の平穏を認知資産へ転換してください。",
+        "steps": [
+          {
+            "title": "30分の we-Early 起床および機器の遮断",
+            "desc": "普段の起床時間より30分早くアラームをセットして起きます。目を覚ましてすぐスマートフォンを確認しないよう、機器を遠くに置くか電源を切った状態を維持します。"
+          },
+          {
+            "title": "ほのかな照明の下でのアナログ読書",
+            "desc": "刺激的な蛍光灯の代わりにほのかなスタンドライトをつけます。用意しておいた紙の本（歴史、文学、古典エッセイなど）を開き、20分間ゆっくりと精読します。"
+          },
+          {
+            "title": "核心の一節の筆写と思考の整理",
+            "desc": "最も印象深かった文をノートに手書きで書き写します。併せて今日一日行うべき最も重要なこと一つを思い浮かべ、マインドセットを整えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "朝型人間ではないのですが、必ず早朝3〜4時に起きなければなりませんか？",
+            "answer": "いいえ。世宗大王の核心は「起床直後の外部の邪魔がない自分だけの認知資産の確保」にあります。ご自身の普段の起床時間よりわずか30分早く起き、スマートフォンを遮断して静かに読書するだけで十分に同等の効果を得られます。"
+          },
+          {
+            "question": "ウェブ小説やSNSの記事を読むことでも大丈夫ですか？",
+            "answer": "朝の脳をウォーミングアップするためには、断片的で視覚的刺激の強いオンラインテキストよりも、論理展開が深く構造的な紙の本を精読することが推奨されます。哲学、人文学、古典エッセイ、歴史書のように脳が叙述に沿って積極的に思考する活字が認知機能の活性化に遥かに有益です。"
+          }
+        ]
+      },
+      "es": {
+        "title": "¿El secreto de una gobernanza creativa? La intensa rutina de lectura al amanecer del Rey Sejong el Grande",
+        "description": "El Rey Sejong el Grande creó el Hangeul y floreció la cultura Joseon. Descubra su rutina de activación cognitiva matutina al despertarse a las 3 AM para calentar su mente con la literatura clásica.",
+        "authority": "Verificación histórica de los Anales del Rey Sejong (Anales de la Dinastía Joseon), biografías e investigación en Neurociencia Cognitiva",
+        "intro": "\"No aprender es como estar sentado en una habitación a oscuras; leer libros es como sostener una lámpara.\"\n\nEl Rey Sejong el Grande, el soberano más ilustre de la Dinastía Joseon, creó el Hangeul (Hunminjeongeum) e impulsó la edad de oro en ciencia y cultura. A pesar de padecer dolencias crónicas y una pesada carga de Estado, la fuerza motriz de su sabiduría residía en su rutina matutina.\n\nTodos los días entre las 3 y las 4 AM, el Rey Sejong era el primero en despertar en el palacio, leyendo textos clásicos e historia a la luz de las velas. Durante esas horas silenciosas, se preparaba para el 'Gyeongyeon' (經筵), el debate de políticas reales con sus ministros. Esta sesión de estudio al amanecer funcionaba como un calentamiento mental para resolver crisis complejas e idear el Hangeul.\n\nExploramos la ciencia cerebral detrás de la 'Lectura al amanecer' del Rey Sejong y cómo practicar una activación cognitiva matutina.",
+        "whyTitle": "Efectos del calentamiento cognitivo para despertar el cerebro justo al levantarse",
+        "whyDesc": "Justo después de despertar, el cerebro está libre de distracciones digitales o ruidos sensoriales, creando un estado óptimo para la concentración pura.\n\nNeurocientíficamente, leer textos complejos temprano funciona como un <strong>'Calentamiento Cognitivo'</strong>. Esta lectura activa suavemente la corteza prefrontal responsable de la lógica, reduciendo drásticamente la fatiga de decisión durante el día y potenciando el reconocimiento creativo de patrones.",
+        "cautionTitle": "Elija papel y luz cálida en lugar de la luz azul de las pantallas",
+        "cautionDesc": "La clave de la lectura al amanecer es preservar el estado tranquilo de su cerebro. Consultar el teléfono al despertar bombardea su mente con luz azul y notificaciones, fatigando la corteza prefrontal. Como el Rey Sejong disfrutaba los libros de papel a la luz de las velas, evite las pantallas y use libros físicos.",
+        "steps": [
+          {
+            "title": "Despertar 30 minutos antes y bloquear dispositivos digitales",
+            "desc": "Ajuste su alarma 30 minutos antes de lo habitual. Mantenga el teléfono alejado o apagado para no revisar mensajes al despertar."
+          },
+          {
+            "title": "Lectura analógica bajo una luz suave y cálida",
+            "desc": "Encienda una lámpara de luz cálida en lugar de luces intensas. Abra un libro físico preparado (historia, literatura, ensayos) y lea despacio durante 20 minutos."
+          },
+          {
+            "title": "Transcribir frases clave y organizar pensamientos",
+            "desc": "Escriba a mano la frase más inspiradora en una libreta. Luego, piense en el objetivo más importante del día para alinear su mente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "No soy madrugador, ¿debo levantarme a las 3 o 4 AM?",
+            "answer": "No. Lo fundamental del Rey Sejong es asegurar un espacio de enfoque libre de distracciones tras despertar. Despertarse solo 30 minutos antes de su hora habitual y leer sin teléfono genera los mismos beneficios."
+          },
+          {
+            "question": "¿Está bien leer novelas web o artículos de redes sociales?",
+            "answer": "Para calentar el cerebro matutino, los libros impresos estructurados con desarrollo lógico son superiores al contenido digital fragmentado. La filosofía, literatura o historia que exigen razonamiento activo estimulan las redes cerebrales con mayor eficacia."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le secret d'une gouvernance créative ? La routine de lecture à l'aube du Roi Sejong le Grand",
+        "description": "Le Roi Sejong le Grand a créé le Hangeul. Découvrez sa routine d'activation cognitive matinale consistant à se lever à 3 heures du matin pour éveiller son esprit avec la littérature classique.",
+        "authority": "Vérification historique des Annales du Roi Sejong (Annales de la dynastie Joseon), biographies & recherche en neurosciences cognitives",
+        "intro": "\"Ne pas apprendre, c'est être assis dans une pièce sombre ; lire des livres, c'est tenir une lampe.\"\n\nLe Roi Sejong le Grand, plus grand monarque de la dynastie Joseon, a créé le Hangeul (Hunminjeongeum) et favorisé l'âge d'or de la science et de la culture. Malgré de lourdes affaires d'État et des maladies chroniques, le secret de sa sagesse résidait dans sa routine de l'aube.\n\nChaque jour vers 3 ou 4 heures du matin, le Roi Sejong se levait le premier au palais pour lire les Classiques à la bougie. Pendant ces heures calmes, il préparait le 'Gyeongyeon' (經筵), le débat politique quotidien avec ses ministres. Cette étude matinale servait d'éveil cognitif pour résoudre les crises complexes.\n\nDécouvrez la science cérébrale derrière la 'Lecture de l'aube' du Roi Sejong et comment l'adapter pour éveiller votre esprit le matin.",
+        "whyTitle": "Effets du réchauffement cognitif immédiatement après le réveil",
+        "whyDesc": "Immédiatement après le réveil, le cerveau est exempt de bruit numérique, offrant un état idéal pour la concentration.\n\nSurligner des textes denses le matin sert d'<strong>'Éveil Cognitif'</strong>. Cette lecture stimule en douceur le cortex préfrontal chargé de la logique, réduisant la fatigue décisionnelle tout au long de la journée.",
+        "cautionTitle": "Privilégiez le papier et une lumière douce au bleu des écrans",
+        "cautionDesc": "La clé de la lecture matinale est de préserver le calme de votre esprit. Regarder votre téléphone bombarde votre cortex préfrontal de lumière bleue et de notifications. Comme le Roi Sejong avec ses livres en papier sous une douce lumière, privilégiez les livres physiques.",
+        "steps": [
+          {
+            "title": "Se lever 30 minutes plus tôt et couper les appareils",
+            "desc": "Réglez votre réveil 30 minutes plus tôt. Gardez votre smartphone éloigné ou éteint pour ne pas consulter les notifications au réveil."
+          },
+          {
+            "title": "Lecture analogique sous une lumière douce",
+            "desc": "Allumez une lampe de bureau douce au lieu d'un plafonnier vif. Ouvrez un livre papier préparé (histoire, littérature, essais) et lisez calmement pendant 20 minutes."
+          },
+          {
+            "title": "Recopier des phrases clés et structurer vos pensées",
+            "desc": "Recopiez à la main la phrase la plus marquante dans un carnet. Réfléchissez ensuite à la priorité absolue de votre journée pour caler votre esprit."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Je ne suis pas du matin ; dois-je vraiment me lever à 3 ou 4 heures ?",
+            "answer": "Non. L'essentiel est de garantir un moment d'éveil cognitif sans distraction. Se lever seulement 30 minutes plus tôt que d'habitude et lire au calme sans téléphone produit exactement le même effet."
+          },
+          {
+            "question": "Est-il possible de lire des romans en ligne ou des articles de réseaux sociaux ?",
+            "answer": "Pour éveiller votre esprit, les livres papier structurés sont bien plus efficaces que les contenus en ligne fragmentés. La philosophie, la littérature classique ou l'histoire qui stimulent la réflexion active apportent de bien meilleurs bénéfices."
+          }
+        ]
+      },
+      "de": {
+        "title": "Das Geheimnis kreativer Staatsführung? König Sejong des Großen intensive Leseroutine am Morgen",
+        "description": "König Sejong der Große schuf Hangeul. Entdecken Sie seine morgendliche kognitive Aktivierungsroutine, bei der er trotz chronischer Krankheit um 3 Uhr morgens aufstand, um seinen Geist mit Klassikern zu schärfen.",
+        "authority": "Historische Verifizierung aus den Annalen von König Sejong (Joseon-Dynastie), Biografien & Kognitive Neurowissenschaften",
+        "intro": "\"Wer nicht lernt, sitzt in einem dunklen Raum; Bücher zu lesen ist wie das Hochhalten einer Lampe.\"\n\nKönig Sejong der Große, der bedeutendste Herrscher der Joseon-Dynastie, schuf Hangeul (Hunminjeongeum) und prägte Blütezeiten in Wissenschaft und Kultur. Trotz chronischer Krankheiten und enormer Staatsgeschäfte lag das Geheimnis seiner Weisheit in seiner Morgenroutine.\n\nJeden Morgen zwischen 3 und 4 Uhr stand König Sejong als Erster im Palast auf und las Klassiker bei Kerzenschein. In dieser Ruhe bereitete er sich auf das 'Gyeongyeon' (經筵) vor – die tägliche wissenschaftliche Debatte mit seinen Ministern. Dieses morgendliche Studium diente als kognitives Aufwärmen für historische Innovationen.\n\nHier untersuchen wir die Neurowissenschaft hinter König Sejongs Frühlektüre und wie Sie diesen Impuls für Ihren Morgen nutzen können.",
+        "whyTitle": "Wirkung des kognitiven Aufwärmens direkt nach dem Aufstehen",
+        "whyDesc": "Direkt nach dem Aufwachen ist das Gehirn frei von digitaler Reizüberflutung und befindet sich in einem Zustand hoher Fokussierbarkeit.\n\nNeurowissenschaftlich wirkt das frühe Lesen anspruchsvoller Texte als <strong>'kognitives Aufwärmen'</strong> (Cognitive Warm-Up). Es weckt sanft den präfrontalen Kortex, verringert Entscheidungsmüdigkeit im Tagesverlauf und maximiert die kreative Denkleistung.",
+        "cautionTitle": "Wählen Sie Papier und warmes Licht statt blauem Bildschirmlicht",
+        "cautionDesc": "Der Schlüssel liegt im Erhalt des ruhigen Fokuszustands nach dem Aufwachen. Das Smartphone setzt das Gehirn sofort Blaulicht und Benachrichtigungen aus, was den präfrontalen Kortex ermüdet. Nutzen Sie echte gedruckte Bücher bei warmem Licht, um die Morgenruhe als kognitives Kapital zu nutzen.",
+        "steps": [
+          {
+            "title": "30 Minuten früher aufstehen und digitale Geräte meiden",
+            "desc": "Stellen Sie den Wecker 30 Minuten früher. Lassen Sie das Smartphone ausgeschaltet oder in einem anderen Raum, um den Blick auf Benachrichtigungen zu vermeiden."
+          },
+          {
+            "title": "Analoge Lektüre bei sanftem Licht",
+            "desc": "Schalten Sie eine sanfte Schreibtischlampe ein. Schlagen Sie ein vorbereitetes Buch (Geschichte, Philosophie, Klassiker) auf und lesen Sie 20 Minuten lang aufmerksam."
+          },
+          {
+            "title": "Kernsätze handschriftlich notieren und Mindset ausrichten",
+            "desc": "Schreiben Sie den einprägsamsten Satz handschriftlich in ein Notizbuch. Richten Sie danach Ihre Gedanken auf die wichtigste Aufgabe des Tages aus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ich bin kein Frühaufsteher; muss ich wirklich um 3 oder 4 Uhr aufstehen?",
+            "answer": "Nein. Der Kern liegt im ungestörten kognitiven Aufwärmen direkt nach dem Aufstehen. Es reicht völlig aus, 30 Minuten früher als sonst aufzustehen und ohne Smartphone-Ablenkung zu lesen."
+          },
+          {
+            "question": "Ist es in Ordnung, Web-Romane oder Social-Media-Artikel zu lesen?",
+            "answer": "Um das Gehirn aufzuwärmen, sind gut strukturierte Bücher fragmentierten Online-Inhalten weit überlegen. Philosophie, Literatur oder Geschichtsbücher, die aktives Denken erfordern, aktivieren das Gehirn wesentlich effektiver."
+          }
+        ]
+      },
+      "pt": {
+        "title": "O segredo de uma governança criativa? A intensa rotina de leitura na alvorada do Rei Sejong, o Grande",
+        "description": "O Rei Sejong, o Grande, criou o Hangeul. Descubra sua rotina de ativação cognitiva matinal ao acordar às 3h para aquecer sua mente com literatura clássica.",
+        "authority": "Verificação histórica dos Anais do Rei Sejong (Anais da Dinastia Joseon), biografias & pesquisas em Neurociência Cognitiva",
+        "intro": "\"Não aprender é como estar em um quarto escuro; ler livros é como segurar uma lâmpada.\"\n\nO Rei Sejong, o Grande, o maior monarca da Dinastia Joseon, criou o Hangeul e liderou descobertas na ciência e cultura. Apesar de enfrentar doenças crônicas e pesadas responsabilidades, sua sabedoria vinha de sua rotina na alvorada.\n\nTodos os dias entre 3h e 4h da manhã, o Rei Sejong era o primeiro a acordar para ler os clássicos à luz de velas. Nesses momentos de silêncio, preparava-se para o 'Gyeongyeon' (經筵), o debate diário com os ministros. Essa sessão de estudos servia como aquecimento cognitivo para resolver crises e criar o Hangeul.\n\nExploramos a ciência por trás da 'Leitura na Alvorada' do Rei Sejong e como praticar um ritual matinal de ativação cognitiva.",
+        "whyTitle": "Efeitos do aquecimento cognitivo para despertar o cérebro logo ao acordar",
+        "whyDesc": "Logo após acordar, o cérebro está livre de distrações visuais e ruídos, criando um estado ideal para o foco profundo.\n\nLer textos densos pela manhã funciona como um <strong>'Aquecimento Cognitivo'</strong>. Essa leitura desperta suavemente o córtex pré-frontal responsável pela lógica, reduzindo a fadiga mental durante o dia.",
+        "cautionTitle": "Escolha papel e luz suave em vez da luz azul das telas",
+        "cautionDesc": "A chave da leitura matinal é preservar o estado calmo do cérebro. Olhar o celular ao acordar bombardeia seu cérebro com luz azul e notificações, cansando o córtex pré-frontal. Evite telas e use livros físicos à luz suave para transformar a calma matinal em ativo cognitivo.",
+        "steps": [
+          {
+            "title": "Acordar 30 minutos mais cedo e evitar dispositivos digitais",
+            "desc": "Defina o alarme 30 minutos mais cedo. Mantenha o celular longe ou desligado para não olhar mensagens ao acordar."
+          },
+          {
+            "title": "Leitura analógica sob luz suave",
+            "desc": "Ligue um abajur de luz suave. Abra um livro físico preparado (história, literatura, ensaios) e leia atentamente por 20 minutos."
+          },
+          {
+            "title": "Transcrever frases-chave e organizar pensamentos",
+            "desc": "Escreva à mão a frase mais marcante em um caderno. Em seguida, pense no objetivo principal do seu dia, alinhando sua mentalidade."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Não sou uma pessoa matutina; preciso mesmo acordar às 3h ou 4h da manhã?",
+            "answer": "Não. O essencial do Rei Sejong é garantir um momento de foco sem distrações ao acordar. Acordar apenas 30 minutos mais cedo e ler no silêncio sem celular produz os mesmos benefícios."
+          },
+          {
+            "question": "Posso ler romances online ou artigos de redes sociais?",
+            "answer": "Para aquecer o cérebro, livros físicos estruturados são muito superiores ao conteúdo digital fragmentado. Filosofia, literatura clássica ou história que exigem raciocínio ativo ativam as redes cerebrais de forma muito mais eficaz."
+          }
+        ]
+      },
+      "id": {
+        "title": "Rahasia Tata Kelola Kreatif? Rutinitas Membaca Subuh Raja Sejong yang Agung",
+        "description": "Raja Sejong yang Agung menciptakan Hangeul. Pelajari rutinitas aktivasi kognitif paginya dengan bangun jam 3 pagi meski menderita penyakit kronis untuk memanaskan pikirannya dengan literatur klasik.",
+        "authority": "Verifikasi tekstual dari Babad Raja Sejong (Babad Dinasti Joseon), biografi & penelitian Ilmu Saraf Kognitif",
+        "intro": "\"Tidak belajar ibarat duduk di ruangan gelap gulita; membaca buku ibarat memegang pelita.\"\n\nRaja Sejong yang Agung, penguasa terbesar Dinasti Joseon, menciptakan Hangeul dan memimpin kemajuan sains serta budaya. Meski berjuang melawan penyakit kronis dan tugas negara yang berat, pendorong keahliannya terletak pada rutinitas subuhnya.\n\nSetiap hari sekitar jam 3 hingga 4 pagi, Raja Sejong bangun paling awal untuk membaca kitab klasik di bawah cahaya lilin. Di jam-jam tenang ini, ia bersiap untuk 'Gyeongyeon' (經筵)—debat kebijakan harian bersama para menteri. Sesi belajar subuh ini menjadi pemanasan kognitif untuk merancang inovasi seperti Hangeul.\n\nBerikut sains otak di balik 'Membaca Subuh' Raja Sejong dan cara mempraktikkan aktivasi kognitif pagi.",
+        "whyTitle": "Efek Pemanasan Kognitif Membangunkan Otak Tepat Setelah Bangun",
+        "whyDesc": "Tepat setelah bangun, otak bebas dari gangguan digital, menciptakan kondisi optimal untuk fokus mendalam.\n\nSecara neurosains, membaca teks klasik di pagi hari bertindak sebagai <strong>'Pemanasan Kognitif'</strong>. Ini membangunkan korteks prefrontal yang bertanggung jawab atas logika, mengurangi kelelahan keputusan sepanjang hari.",
+        "cautionTitle": "Pilih Kertas dan Pencahayaan Lembut daripada Cahaya Biru Layar",
+        "cautionDesc": "Kunci membaca subuh adalah menjaga kondisi tenang otak Anda saat bangun. Membuka ponsel langsung membombardir korteks prefrontal dengan cahaya biru dan notifikasi, memicu kelelahan mental. Gunakan buku fisik di bawah lampu lembut seperti Raja Sejong.",
+        "steps": [
+          {
+            "title": "Bangun 30 Menit Lebih Awal dan Matikan Perangkat Digital",
+            "desc": "Atur alarm 30 menit lebih awal. Jauhkan atau matikan ponsel agar Anda tidak langsung memeriksa notifikasi saat bangun."
+          },
+          {
+            "title": "Membaca Buku Fisik di Bawah Lampu Lembut",
+            "desc": "Nyalakan lampu meja yang lembut. Buka buku fisik yang sudah disiapkan (sejarah, literatur, esai klasik) dan baca dengan saksama selama 20 menit."
+          },
+          {
+            "title": "Salin Kalimat Kunci dan Tata Pikiran Anda",
+            "desc": "Tulis tangan kalimat paling berkesan di buku catatan. Kemudian pikirkan satu prioritas paling penting untuk mengatur pikiran Anda hari ini."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Saya bukan tipe orang pagi; apakah saya harus bangun jam 3 atau 4 pagi?",
+            "answer": "Tidak. Inti dari kebiasaan Raja Sejong adalah mengamankan waktu fokus tanpa gangguan setelah bangun. Cukup bangun 30 menit lebih awal dari biasanya dan membaca tanpa ponsel untuk mendapatkan manfaat yang sama."
+          },
+          {
+            "question": "Apakah boleh membaca novel web atau artikel media sosial?",
+            "answer": "Untuk memanaskan otak, buku fisik berstruktur jauh lebih baik daripada konten daring yang terfragmentasi. Buku filsafat, literatur klasik, atau sejarah yang menuntut pemikiran aktif mengaktifkan sirkuit otak dengan jauh lebih efektif."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?",
-          "en": "I'm not a morning person; do I really have to wake up at 3 or 4 AM?",
-          "ja": "朝型人間ではないのですが、必ず早朝3〜4時に起きなければなりませんか？",
-          "zh": "我不是晨型人，真的需要凌晨3~4点起床吗？",
-          "es": "No soy madrugador, ¿debo levantarme a las 3 o 4 AM?",
-          "de": "Ich bin kein Frühaufsteher; muss ich wirklich um 3 oder 4 Uhr aufstehen?",
-          "fr": "Je ne suis pas du matin ; dois-je vraiment me lever à 3 ou 4 heures ?",
-          "pt": "Não sou uma pessoa matutina; preciso mesmo acordar às 3h ou 4h da manhã?",
-          "id": "Saya bukan tipe orang pagi; apakah saya harus bangun jam 3 atau 4 pagi?"
-        },
-        "answer": {
-          "ko": "아닙니다. 세종대왕의 핵심은 '기상 직후 외부 방해 없는 나만의 인지 자산 확보'에 있습니다. 본인의 평소 기상 시간보다 단 30분만 일찍 일어나 스마트폰 차단 하에 조용히 독서하는 것만으로도 충분히 동일한 효과를 냅니다.",
-          "en": "No. The core lesson of King Sejong is securing uninterrupted cognitive focus right after waking. Simply waking up 30 minutes earlier than your usual routine and reading quietly without smartphone distractions yields the exact same benefits.",
-          "ja": "いいえ。世宗大王の核心は「起床直後の外部の邪魔がない自分だけの認知資産の確保」にあります。ご自身の普段の起床時間よりわずか30分早く起き、スマートフォンを遮断して静かに読書するだけで十分に同等の効果を得られます。",
-          "zh": "完全不需要。世宗大王习惯的核心在于“清醒后确保一段不受外界打扰的自我认知输入”。只要比平时早起30分钟，在远离手机的状态下安静阅读，就能取得完全相同的效果。",
-          "es": "No. Lo fundamental del Rey Sejong es asegurar un espacio de enfoque libre de distracciones tras despertar. Despertarse solo 30 minutos antes de su hora habitual y leer sin teléfono genera los mismos beneficios.",
-          "de": "Nein. Der Kern liegt im ungestörten kognitiven Aufwärmen direkt nach dem Aufstehen. Es reicht völlig aus, 30 Minuten früher als sonst aufzustehen und ohne Smartphone-Ablenkung zu lesen.",
-          "fr": "Non. L'essentiel est de garantir un moment d'éveil cognitif sans distraction. Se lever seulement 30 minutes plus tôt que d'habitude et lire au calme sans téléphone produit exactement le même effet.",
-          "pt": "Não. O essencial do Rei Sejong é garantir um momento de foco sem distrações ao acordar. Acordar apenas 30 minutos mais cedo e ler no silêncio sem celular produz os mesmos benefícios.",
-          "id": "Tidak. Inti dari kebiasaan Raja Sejong adalah mengamankan waktu fokus tanpa gangguan setelah bangun. Cukup bangun 30 menit lebih awal dari biasanya dan membaca tanpa ponsel untuk mendapatkan manfaat yang sama."
-        }
-      },
-      {
-        "question": {
-          "ko": "웹소설이나 소셜 미디어 아티클을 읽는 것도 괜찮나요?",
-          "en": "Is it okay to read web novels or social media articles instead?",
-          "ja": "ウェブ小説やSNSの記事を読むことでも大丈夫ですか？",
-          "zh": "阅读网络小说或社交媒体文章也可以吗？",
-          "es": "¿Está bien leer novelas web o artículos de redes sociales?",
-          "de": "Ist es in Ordnung, Web-Romane oder Social-Media-Artikel zu lesen?",
-          "fr": "Est-il possible de lire des romans en ligne ou des articles de réseaux sociaux ?",
-          "pt": "Posso ler romances online ou artigos de redes sociais?",
-          "id": "Apakah boleh membaca novel web atau artikel media sosial?"
-        },
-        "answer": {
-          "ko": "아침의 뇌를 예열하기 위해서는 단편적이고 시각적 자극이 강한 온라인 텍스트보다, 논리 전개가 깊고 구조적인 종이책을 정독하는 것이 좋습니다. 철학, 인문학, 고전 에세이, 역사서처럼 뇌가 서사를 따라 적극적으로 사유하게 만드는 활자가 인지 기능 활성화에 훨씬 유익합니다.",
-          "en": "To properly warm up your morning brain, dense structured paper books with logical narrative development are far superior to highly sensory, bite-sized online content. Literature, philosophy, classics, or history that demand active cognitive reasoning activate brain networks much more effectively.",
-          "ja": "朝の脳をウォーミングアップするためには、断片的で視覚的刺激の強いオンラインテキストよりも、論理展開が深く構造的な紙の本を精読することが推奨されます。哲学、人文学、古典エッセイ、歴史書のように脳が叙述に沿って積極的に思考する活字が認知機能の活性化に遥かに有益です。",
-          "zh": "为了有效预热晨间大脑，相较于碎片化、刺激强的网络文本，精读论述严谨、结构完整的纸质书更为有效。哲学、人文学科、古典散文、历史典籍等需要大脑积极沉思的文字对激活认知功能裨益更深。",
-          "es": "Para calentar el cerebro matutino, los libros impresos estructurados con desarrollo lógico son superiores al contenido digital fragmentado. La filosofía, literatura o historia que exigen razonamiento activo estimulan las redes cerebrales con mayor eficacia.",
-          "de": "Um das Gehirn aufzuwärmen, sind gut strukturierte Bücher fragmentierten Online-Inhalten weit überlegen. Philosophie, Literatur oder Geschichtsbücher, die aktives Denken erfordern, aktivieren das Gehirn wesentlich effektiver.",
-          "fr": "Pour éveiller votre esprit, les livres papier structurés sont bien plus efficaces que les contenus en ligne fragmentés. La philosophie, la littérature classique ou l'histoire qui stimulent la réflexion active apportent de bien meilleurs bénéfices.",
-          "pt": "Para aquecer o cérebro, livros físicos estruturados são muito superiores ao conteúdo digital fragmentado. Filosofia, literatura clássica ou história que exigem raciocínio ativo ativam as redes cerebrais de forma muito mais eficaz.",
-          "id": "Untuk memanaskan otak, buku fisik berstruktur jauh lebih baik daripada konten daring yang terfragmentasi. Buku filsafat, literatur klasik, atau sejarah yang menuntut pemikiran aktif mengaktifkan sirkuit otak dengan jauh lebih efektif."
-        }
-      }
-    ]
+    }
   }
 }

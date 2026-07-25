@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Imersi di Tengah Kebisingan: Rutinitas White Noise Kafe dan Penyederhanaan Lingkungan ala Simone de Beauvoir"
 description: "Pelajari rutinitas menulis yang dipraktikkan filsuf eksistensialis dan novelis Simone de Beauvoir setiap hari di kafe favoritnya di Paris sambil menikmati secangkir teh, serta temukan mekanisme neurologis white noise lembut beserta metode untuk membangun Focus Zone pribadi Anda."
 pubDate: "2026-06-08"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains di balik 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai beauvoir-cafe-writing didasarkan pada <strong>Verifikasi Historis dari Autobiografi Simone de Beauvoir *La Force des choses* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Simone de Beauvoir *La Force des choses* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mekanisme Kerja White Noise dan Skrip Kognitif
+## 1. Mekanisme Kerja White Noise dan Skrip Kognitif
 
 Secara neurosains, menghadapi lingkungan fisik yang sama persis setiap hari (meja tetap, minuman tertentu) memicu 'Skrip Kognitif (Cognitive Script)' yang mengurangi kelelahan keputusan dan mentransisikan otak secara mulus ke dalam hyperfocus. Selain itu, white noise lembut sebesar 50 hingga 70 desibel (dB) yang khas di kafe merangsang gelombang otak untuk mengaktifkan gelombang alfa (Alpha), memicu kreativitas dan pemecahan masalah. Aktivitas dinamis tingkat rendah di sekitar secara tepat mengaktifkan sistem neuron cermin otak, memberikan rasa aman secara psikologis yang meredakan isolasi dan memaksimalkan efisiensi Deep Work.
 
 ---
 
-## Perhatian & Tip: Waspada Terhadap Kebisingan Sosial dan Kebisingan Percakapan
-
-Tidak semua kebisingan bermanfaat bagi otak. Musik keras yang melebihi 70 desibel atau percakapan orang lain yang terdengar jelas (Speech Noise) mengganggu lingkar fonologis (Phonological Loop) otak, menurunkan pemahaman bacaan dan kemampuan menulis logis. Pilihlah tempat dengan tingkat kebisingan yang tenang, atau jika suara percakapan menonjol, gunakan earphone noise-canceling untuk menghindari gangguan kognitif.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tidak semua kebisingan bermanfaat bagi otak. Musik keras yang melebihi 70 desibe
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Waspada Terhadap Kebisingan Sosial dan Kebisingan Percakapan
+
+Tidak semua kebisingan bermanfaat bagi otak. Musik keras yang melebihi 70 desibel atau percakapan orang lain yang terdengar jelas (Speech Noise) mengganggu lingkar fonologis (Phonological Loop) otak, menurunkan pemahaman bacaan dan kemampuan menulis logis. Pilihlah tempat dengan tingkat kebisingan yang tenang, atau jika suara percakapan menonjol, gunakan earphone noise-canceling untuk menghindari gangguan kognitif.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Simone de Beauvoir memilih Café de Flore sebagai ruang menulisnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tidak semua kebisingan bermanfaat bagi otak. Musik keras yang melebihi 70 desibe
       Selama cuaca dingin yang parah di Paris tahun 1940-an, Café de Flore menjaga pemanas ruangan tetap hangat dan menawarkan suasana ramah seniman di mana kaum intelektual dapat bertahan berjam-jam tanpa tekanan, menjadikannya ruang kreasi yang ideal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya dapat menerapkan Skrip Kognitif yang serupa di lingkungan rumah atau kerja jarak jauh?</span>

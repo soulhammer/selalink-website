@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Gran Visión para Superar Tiempos Convulsos: La Rutina de Meditación Visual en la Cima y Visión Periférica de Gengis Kan"
 description: "Descubra cómo el conquistador Gengis Kan despejaba el ruido mental antes de grandes batallas subiendo solo a montañas sagradas. Explore la psicología cognitiva de su 'Meditación Visual', la Teoría de Restauración de la Atención y la visión periférica."
 pubDate: "2026-04-21"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la 'm
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre genghis-mountain-meditation se basa en <strong>Verificación Histórica de *Gengis Kan y la creación del mundo moderno* de Jack Weatherford, *La historia secreta de los mongoles* e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Gengis Kan y la creación del mundo moderno* de Jack Weatherford, *La historia secreta de los mongoles* e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teoría de Restauración de la Atención y Neurociencia de las Imágenes Mentales
+## 1. Teoría de Restauración de la Atención y Neurociencia de las Imágenes Mentales
 
 Retirarse a la naturaleza para aislarse del ruido activa la <strong>Teoría de Restauración de la Atención (ART)</strong>, mitigando la fatiga de la atención dirigida en la corteza prefrontal. Al mismo tiempo, la <strong>Visualización Mental</strong> —simular el éxito con claridad— preactiva las redes neuronales de la <strong>Corteza Motora</strong> y la <strong>Corteza Visual</strong> de forma idéntica a la ejecución real. Este ensayo cognitivo refina los planes subconscientes y maximiza el impulso prefrontal para alcanzar objetivos.
 
 ---
 
-## Precaución: Rompa la Visión de Túnel Mirando Horizontes Amplios
-
-Para liberar los beneficios de la meditación visual, debe ampliar su profundidad de campo. Mirar fijamente pantallas o escritorios reducidos genera 'Visión de Túnel', manteniendo la alerta del sistema nervioso. Al igual que Gengis Kan contemplaba las estepas y el horizonte, cambiar a la 'Visión Periférica' (Visión Panorámica) enfocado en paisajes lejanos o el cielo indica al cerebro que apague la detección de amenazas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para liberar los beneficios de la meditación visual, debe ampliar su profundida
   </p>
 </div>
 
+---
+
+## 3. Precaución: Rompa la Visión de Túnel Mirando Horizontes Amplios
+
+Para liberar los beneficios de la meditación visual, debe ampliar su profundidad de campo. Mirar fijamente pantallas o escritorios reducidos genera 'Visión de Túnel', manteniendo la alerta del sistema nervioso. Al igual que Gengis Kan contemplaba las estepas y el horizonte, cambiar a la 'Visión Periférica' (Visión Panorámica) enfocado en paisajes lejanos o el cielo indica al cerebro que apague la detección de amenazas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué hago si no puedo acceder fácilmente a la cima de una montaña o azotea?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para liberar los beneficios de la meditación visual, debe ampliar su profundida
       Abrir una ventana y mirar el punto más lejano visible en el exterior durante más de 30 segundos es totalmente suficiente. El objetivo es cambiar de la 'Visión de Túnel' a la 'Visión Periférica', desactivando el estrés.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué hago si me cuesta construir imágenes mentales nítidas durante la visualización?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Un CEO que se levanta a las 3:45 AM para leer 100 correos? La rutina de control matutino de Tim Cook"
 description: "Tim Cook, el líder de Apple, la empresa de TI más grande del mundo. Descubra su rutina diaria de levantarse a las 3:45 AM para leer correos de usuarios y hacer ejercicio a las 5:00 AM para asegurar el control, junto con una guía de 3 pasos."
 pubDate: "2026-02-24"
@@ -36,14 +37,14 @@ En la publicación de hoy, revelamos los principios neurocientíficos detrás de
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre tim-cook-early-morning-routine se basa en <strong>Biografías históricas y registros autobiográficos de Tim Cook e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Tim Cook e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Protección del presupuesto de glucosa prefrontal y prevención del agotamiento del ego
+## 1. Protección del presupuesto de glucosa prefrontal y prevención del agotamiento del ego
 
 Los recursos de energía utilizados por el cerebro, especialmente la Corteza Prefrontal, al tomar decisiones son finitos. Si durante el día se ve abrumado por las solicitudes de otros y correos reactivos, su cerebro entra en un estado de <strong>Agotamiento del Ego (Ego Depletion)</strong> al tomar decisiones estratégicas.
 
@@ -51,9 +52,7 @@ La tranquila autonomía matutina a las 3:45 AM preserva el 100% de la glucosa y 
 
 ---
 
-## Cuidado con la acumulación de fatiga cerebral por reducción del sueño
-
-Si se fuerza a levantarse temprano al amanecer mientras se acuesta tarde para imitar a Tim Cook, se acumulará fatiga crónica en las células prefrontales, perjudicando el juicio. Recuerde que la esencia de levantarse temprano no es la hora en sí, sino 'dormir temprano y despertar temprano para tomar el control'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Si se fuerza a levantarse temprano al amanecer mientras se acuesta tarde para im
   </p>
 </div>
 
+---
+
+## 3. Cuidado con la acumulación de fatiga cerebral por reducción del sueño
+
+Si se fuerza a levantarse temprano al amanecer mientras se acuesta tarde para imitar a Tim Cook, se acumulará fatiga crónica en las células prefrontales, perjudicando el juicio. Recuerde que la esencia de levantarse temprano no es la hora en sí, sino 'dormir temprano y despertar temprano para tomar el control'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Las personas nocturnas también deberían seguir esta rutina matutina?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Si se fuerza a levantarse temprano al amanecer mientras se acuesta tarde para im
       Si su cronotipo de sueño es nocturno, no necesita forzarse a despertar a las 3:00–4:00 AM. La lección clave es 'asegurar 1 hora proactiva sin interrupciones', por lo que sustituirla por 1 hora tras el trabajo o en la noche produce el mismo efecto.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo superar la fatiga por la tarde al levantarme temprano por la mañana?</span>

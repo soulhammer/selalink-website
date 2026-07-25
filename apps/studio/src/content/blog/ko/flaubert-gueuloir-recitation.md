@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "완벽한 문장을 낳는 소리: 귀스타브 플로베르의 '포효실' 문장 낭독 습관과 청각 피드백 루틴"
 description: "일물일어설을 지향하며 단어 하나도 허투루 쓰지 않았던 소설가 플로베르. 뇌의 운동 피질과 청각적 피드백을 활용하여 문장의 논리성과 운율을 극한으로 높였던 그의 '포효실' 낭독 비밀과 뇌과학적 원리를 알아봅니다."
 pubDate: "2026-01-20"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>귀스타브 플로베르 서간집(Correspondance) 및 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 flaubert-gueuloir-recitation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>귀스타브 플로베르 서간집(Correspondance) 및 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 이중 부호화와 청각 피드백 루프의 신경과학
+## 1. 이중 부호화와 청각 피드백 루프의 신경과학
 
 눈으로 글을 읽을 때는 시각 피질만 일부 작용하지만, 혀와 목소리를 활용해 소리 내어 낭독하면 <strong>운동 피질(Motor Cortex)</strong>과 인지 모니터링 시스템이 긴밀하게 협력합니다. 특히 인지심리학의 <strong>이중 부호화 이론(Dual-Coding Theory)</strong>에 따르면 정보가 시각과 청각이라는 두 경로로 동시 입력될 때 뇌의 기억 인지 대역폭이 크게 늘어납니다. 또한 자신이 발음한 소리를 귀로 듣는 <strong>청각 피드백 루프(Auditory Feedback Loop)</strong>는 뇌가 문장의 문법적 결함이나 어색한 비문, 호흡의 늘어짐을 순식간에 발견해내도록 유도합니다. 이 때문에 글을 직접 소리 내어 읽을 때 글의 논리성과 리듬감이 극대화됩니다.
 
 ---
 
-## 속독과 무의식적 자가 오인을 방지하는 정밀 낭독 수칙
-
-낭독 퇴고 습관을 가질 때 피해야 할 것은 너무 빠르게 대충 훑어 읽는 것입니다. 뇌가 이미 눈으로 익숙해진 글을 속독하듯이 낭독해버리면, 잘못된 단어 배열이나 어휘 오류를 대뇌가 무의식중에 상상으로 채워 정상 문장으로 오인하는 인지 왜곡이 일어납니다. 따라서 낭독할 때는 한 자 한 자 눈으로 손끝을 짚어가며 짚어 읽듯 느리게 발음해야 합니다. 특히 문장의 마침표와 쉼표를 과장되게 길게 쉬어가며 읽어야 문장 간의 호흡 길이와 운율적 완성도를 객관적인 지각 데이터로 뇌에 공급할 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 속독과 무의식적 자가 오인을 방지하는 정밀 낭독 수칙
+
+낭독 퇴고 습관을 가질 때 피해야 할 것은 너무 빠르게 대충 훑어 읽는 것입니다. 뇌가 이미 눈으로 익숙해진 글을 속독하듯이 낭독해버리면, 잘못된 단어 배열이나 어휘 오류를 대뇌가 무의식중에 상상으로 채워 정상 문장으로 오인하는 인지 왜곡이 일어납니다. 따라서 낭독할 때는 한 자 한 자 눈으로 손끝을 짚어가며 짚어 읽듯 느리게 발음해야 합니다. 특히 문장의 마침표와 쉼표를 과장되게 길게 쉬어가며 읽어야 문장 간의 호흡 길이와 운율적 완성도를 객관적인 지각 데이터로 뇌에 공급할 수 있습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>조용한 사무실이나 카페에서 작업할 때도 소리 내어 읽어야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       공공장소에서 크게 말하는 것은 곤란하므로, 그럴 때는 들릴락 말락 한 작은 속삭임(Sub-whisper)으로 웅얼거리며 입술과 혀의 물리적 운동을 가동하십시오. 입모양과 조음 기관을 직접 움직이는 것만으로도 단순 묵독에 비해 뇌의 운동 피질 자극을 이끌어내어 오류 감지 성능을 어느 정도 얻을 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>문학 작품이 아닌 비즈니스 기획서나 보고서에도 낭독 퇴고 습관이 효과가 있나요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Napoleon Bonaparte's Micro-Nap Routine"
 description: "Introduces Emperor Napoleon's scientific napping mechanism, who rapidly reset brain energy with 15-minute power naps amid intense workloads."
 pubDate: "2026-06-02"
@@ -38,22 +39,20 @@ In today's post, we examine the scientific mechanism behind Napoleon's micro-nap
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding napoleon-micro-nap is based on <strong>Napoleon Micro Nap historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Napoleon Micro Nap historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Recovery via Micro-Naps and Brainwave Optimization
+## 1. Cognitive Recovery via Micro-Naps and Brainwave Optimization
 
 A 10-to-15-minute micro-nap limits sleep to NREM stages 1 and 2, preventing groggy sleep inertia while clearing accumulated adenosine to instantly restore alertness. According to neuroscientific research, this practice suppresses unnecessary anxiety responses in the amygdala and activates the visuospatial sketchpad circuit, dramatically enhancing long-term executive function.
 
 ---
 
-## Timing Cautions for Healthy Napping Habits
-
-Sleeping for more than 20 to 30 minutes enters deep slow-wave sleep, causing heavy grogginess upon waking. Strictly enforce a timer and avoid napping after 4:00 PM. Do not rely solely on willpower; designing physical environments and habit cues in advance to trigger action naturally is key to sustainability.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Sleeping for more than 20 to 30 minutes enters deep slow-wave sleep, causing hea
     As soon as the alarm sounds, stand up immediately, expose yourself to bright light, and wash your face with cold water to awaken your autonomic nervous system.
   </p>
 </div>
+
+---
+
+## 3. Timing Cautions for Healthy Napping Habits
+
+Sleeping for more than 20 to 30 minutes enters deep slow-wave sleep, causing heavy grogginess upon waking. Strictly enforce a timer and avoid napping after 4:00 PM. Do not rely solely on willpower; designing physical environments and habit cues in advance to trigger action naturally is key to sustainability.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

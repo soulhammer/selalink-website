@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Despertar a la Medianoche: El Método de Escritura de 12 Horas de Hiperenfoque con Café de Honoré de Balzac"
 description: "Explore la rutina de escritura nocturna y estimulación con café practicada por Honoré de Balzac, maestro del realismo francés del siglo XIX, y descubra el mecanismo neurocientífico de hiperenfoque que bloquea los estímulos externos y eleva la atención cerebral al extremo."
 pubDate: "2026-02-14"
@@ -36,22 +37,20 @@ En la publicación de hoy, analizamos los principios neurocientíficos de la rut
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre balzac-extreme-focus se basa en <strong>Verificación Histórica de la Biografía de Stefan Zweig *Balzac* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Stefan Zweig *Balzac* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergia entre la Eliminación Total del Ruido Cognitivo y la Inhibición de la Adenosina
+## 1. Sinergia entre la Eliminación Total del Ruido Cognitivo y la Inhibición de la Adenosina
 
 El mayor obstáculo para la concentración cerebral es el 'Ruido Cognitivo' entrante y los estímulos visuales o auditivos del entorno. Las horas nocturnas, libres de llamadas y notificaciones, ofrecen un entorno óptimo donde los recursos de control cognitivo prefrontal se dedican por completo a una sola tarea. Además, la cafeína bloquea los receptores de adenosina (Adenosine) que señalan fatiga al cerebro, evitando la sensación de cansancio. Como resultado, se estimula la liberación de dopamina (Dopamine) y norepinefrina (Norepinephrine), agudizando la concentración y manteniendo el estado de alerta mental durante períodos prolongados.
 
 ---
 
-## Protección de los Ritmos Circadianos y Cuidado con el Abuso de Cafeína
-
-El despertar a la medianoche de Balzac y el consumo excesivo de cafeína infligieron un estrés severo a su cuerpo. (De hecho, Balzac falleció a la temprana edad de 51 años debido a enfermedades cardíacas agravadas por la falta de sueño y el alto consumo de café). Por lo tanto, al aplicar esta estrategia de concentración, las personas modernas deben evitar destruir sus patrones de sueño diarios y, en su lugar, utilizar de forma selectiva bloques de enfoque tranquilos de 2 a 3 horas preservando su ritmo circadiano.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ El despertar a la medianoche de Balzac y el consumo excesivo de cafeína infligi
     Prepare una taza de café o té caliente, evite la multitarea y vierta toda su energía exclusivamente en una sola tarea de gran importancia preseleccionada.
   </p>
 </div>
+
+---
+
+## 3. Protección de los Ritmos Circadianos y Cuidado con el Abuso de Cafeína
+
+El despertar a la medianoche de Balzac y el consumo excesivo de cafeína infligieron un estrés severo a su cuerpo. (De hecho, Balzac falleció a la temprana edad de 51 años debido a enfermedades cardíacas agravadas por la falta de sueño y el alto consumo de café). Por lo tanto, al aplicar esta estrategia de concentración, las personas modernas deben evitar destruir sus patrones de sueño diarios y, en su lugar, utilizar de forma selectiva bloques de enfoque tranquilos de 2 a 3 horas preservando su ritmo circadiano.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

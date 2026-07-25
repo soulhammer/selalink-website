@@ -1,216 +1,318 @@
 {
   "turing-marathon-running": {
-    "title": {
-      "ko": "천재의 뇌를 리셋하는 레이스? 앨런 튜링의 러닝 루틴",
-      "en": "A Race to Reset a Genius Mind? Alan Turing's Running Routine",
-      "ja": "天才の脳をリセットするレース？ アラン・チューリングのランニングルーティン",
-      "zh": "重置天才大脑的奔跑？艾伦·图灵的跑步习惯",
-      "es": "¿Una carrera para reiniciar la mente de un genio? La rutina de running de Alan Turing",
-      "de": "Ein Rennen zum Zurücksetzen eines Genie-Gehirns? Alan Turings Laufroutine",
-      "fr": "Une course pour réinitialiser le cerveau d'un génie ? La routine de course à pied d'Alan Turing",
-      "pt": "Uma corrida para reiniciar a mente de um gênio? A rotina de corrida de Alan Turing",
-      "id": "Lari untuk Mereset Otak Genius? Rutinitas Lari Alan Turing"
-    },
-    "description": {
-      "ko": "에니그마 암호를 해독한 컴퓨터 과학의 아버지 앨런 튜링. 매일 16km를 뛰며 뇌 과부하를 해소하고 신경세포를 활성화했던 그의 러닝 습관과 과학적 배경을 알아봅니다.",
-      "en": "Alan Turing, the father of computer science who deciphered the Enigma code. Learn about his running habit of running 16km daily to relieve brain overload and stimulate neural cells, along with its scientific background.",
-      "ja": "エニグマ暗号を解読したコンピュータ科学の父アラン・チューリング。毎日16kmを走り脳の過負荷を解消し神経細胞を活性化させた彼のランニング習慣と科学的背景について解説します。",
-      "zh": "破译恩尼格玛密码的计算机科学之父艾伦·图灵。了解他每天奔跑16公里以缓解大脑过载、激活神经细胞的跑步习惯及其科学背景。",
-      "es": "Alan Turing, el padre de la informática que descifró el código Enigma. Conozca su hábito de correr 16 km diarios para aliviar la sobrecarga cerebral y activar las células neuronales, junto con su base científica.",
-      "de": "Alan Turing, der Vater der Informatik, der den Enigma-Code knackte. Erfahren Sie mehr über seine Laufgewohnheit, täglich 16 km zu laufen, um Überlastung abzubauen und Nervenzellen zu aktivieren.",
-      "fr": "Alan Turing, le père de l'informatique qui a décrypté le code Enigma. Découvrez son habitude de courir 16 km par jour pour soulager la surcharge cérébrale et stimuler les cellules nerveuses.",
-      "pt": "Alan Turing, o pai da ciência da computação que decifrou o código Enigma. Conheça seu hábito de correr 16 km diariamente para aliviar a sobrecarga cerebral e ativar as células nervosas.",
-      "id": "Alan Turing, bapak ilmu komputer yang memecahkan kode Enigma. Pelajari kebiasaan larinya sejauh 16 km setiap hari untuk meredakan beban berlebih otak dan mengaktifkan sel saraf, beserta latar belakang ilmiahnya."
-    },
-    "authority": {
-      "ko": "앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical biographies and autobiographical records of Alan Turing & Cognitive Neuroscience research",
-      "ja": "アラン・チューリングの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究",
-      "zh": "艾伦·图灵历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Biografías históricas y registros autobiográficos de Alan Turing e investigación en Neurociencia Cognitiva",
-      "de": "Historische Biografien und autobiografische Aufzeichnungen über Alan Turing & kognitive Neurowissenschaften",
-      "fr": "Biographies historiques et données autobiographiques sur Alan Turing et recherches en neurosciences cognitives",
-      "pt": "Biografias históricas e registros autobiográficos de Alan Turing e pesquisas em Neurociência Cognitiva",
-      "id": "Biografi historis dan catatan autobiografi Alan Turing & penelitian Neurosains Kognitif"
-    },
-    "intro": {
-      "ko": "\"나에게 러닝은 복잡한 마음을 비워내고 온전한 생각에 잠기게 하는 가장 아름다운 시간이다.\" 🏃‍♂️\n\n제2차 세계대전 당시 악명 높았던 독일군의 에니그마 암호를 해독하고 컴퓨터 과학의 토대를 다진 영국의 천재 수학자, 앨런 튜링(Alan Turing, 1912–1954). 그는 온갖 복잡한 계산과 기계 설계, 암호 분석 때문에 언제나 뇌의 과부하에 시달렸습니다. 이처럼 엄청난 지적 압박 속에서 그가 정신적 평형을 유지하고 창조적 발상을 이어갈 수 있었던 비결은 다름 아닌 '마라톤 러닝'이었습니다.\n\n튜링은 매일 10마일(약 16km) 이상을 달리는 혹독한 장거리 러닝 루틴을 유지했습니다. 실제로 그는 1948년 영국 마라톤 국가대표 선발전에서 2시간 46분 3초라는 준수한 기록으로 5위를 차지할 정도로 프로급 주자였습니다. 튜링에게 달리기는 단순한 운동이 아니라, 전두엽의 인지 활동을 멈추고 뇌를 정화하는 필수적인 사색의 통로였습니다.\n\n오늘 포스트에서는 앨런 튜링의 러닝 루틴의 신경과학적 메커니즘과 현대인을 위한 지적 각성용 30분 러닝 가이드를 알아봅니다.",
-      "en": "\"For me, running is the most beautiful time to clear my complex mind and immerse myself in pure thought.\" 🏃‍♂️\n\nAlan Turing (1912–1954), the brilliant British mathematician who deciphered the notorious German Enigma code during World War II and laid the foundations of computer science, constantly suffered from brain overload due to complex calculations, machine designs, and cryptanalysis. Amid such immense intellectual pressure, the secret that allowed him to maintain mental equilibrium and sustain creative ideas was none other than 'marathon running'.\n\nTuring maintained a rigorous long-distance running routine of running over 10 miles (approx. 16 km) every day. In fact, he was an elite runner who finished 5th in the 1948 British Olympic marathon trials with an impressive time of 2 hours, 46 minutes, and 3 seconds. For Turing, running was not merely exercise, but an essential pathway of contemplation that paused prefrontal cognitive activity and purified the brain.\n\nIn today's post, we examine the neuroscientific mechanisms behind Alan Turing's running routine and provide a 30-minute running guide for intellectual awakening in modern individuals.",
-      "ja": "「私にとってランニングは、複雑な心を空にし、純粋な思考に浸らせてくれる最も美しい時間だ。」 🏃‍♂️\n\n第二次世界大戦当時、悪名高かったドイツ軍のエニグマ暗号を解読し、コンピュータ科学の基礎を築いたイギリスの天才数学者アラン・チューリング（Alan Turing, 1912–1954）。彼はあらゆる複雑な計算や機械設計、暗号分析のため、常に脳の過負荷に悩まされていました。このような凄まじい知的プレッシャーの中で、彼が精神的平衡を維持し創造的な発想を続けられた秘密は、他ならぬ「マラソンランニング」でした。\n\nチューリングは毎日10マイル（約16km）以上を走る過酷な長距離ランニングルーティンを維持しました。実際に彼は1948年のイギリスオリンピックマラソン選考会で2時間46分3秒という優れた記録で5位に入賞するほどのプロ級のランナーでした。チューリングにとって走ることは単なる運動ではなく、前頭葉の認知活動を一時停止し脳を浄化する不可欠な思索の通路でした。\n\n今日の記事では、アラン・チューリングのランニングルーティンの神経科学的メカニズムと、現代人の知的覚醒のための30分ランニングガイドを紹介します。",
-      "zh": "“对我而言，跑步是清空复杂思绪、沉浸于纯粹思考的最美好时光。” 🏃‍♂️\n\n二战期间破译德军著名的恩尼格玛密码、奠定计算机科学基石的英国天才数学家艾伦·图灵（Alan Turing，1912–1954），因各种复杂的计算、机械设计和密码分析而长期承受着大脑过载。在如此巨大的智力压力下，他能够保持精神平衡并持续涌现创造性灵感的秘诀，正是“马拉松跑步”。\n\n图灵每天保持着奔跑10英里（约16公里）以上的严苛长跑习惯。事实上，他是一位职业级别的跑者，在1948年英国奥运马拉松选拔赛中以2小时46分3秒的出色成绩斩获第5名。对图灵而言，跑步不仅是单纯的运动，更是暂停前额叶认知活动、净化大脑不可或缺的冥想通道。\n\n在今天的文章中，我们将深入探讨艾伦·图灵跑步习惯的神经科学机制，并为现代人提供一份用于智力觉醒的30分钟跑步指南。",
-      "es": "\"Para mí, correr es el momento más hermoso para despejar mi mente compleja y sumergirme en el pensamiento puro.\" 🏃‍♂️\n\nAlan Turing (1912–1954), el brillante matemático británico que descifró el célebre código Enigma alemán durante la Segunda Guerra Mundial y sentó las bases de la informática, padecía constantemente de sobrecarga cerebral. En medio de tan inmensa presión intelectual, el secreto que le permitió mantener el equilibrio mental y sostener ideas creativas fue el 'maratón'.\n\nTuring mantenía una rigurosa rutina de carrera de larga distancia corriendo más de 10 millas (aprox. 16 km) todos los días. De hecho, fue un corredor de élite que terminó quinto en la selección olímpica británica de maratón de 1948 con un tiempo de 2 horas, 46 minutos y 3 segundos. Para Turing, correr no era un mero ejercicio, sino una vía de contemplación esencial que pausaba la actividad cognitiva prefrontal y purificaba el cerebro.\n\nEn la publicación de hoy, examinamos los mecanismos neurocientíficos detrás de la rutina de carrera de Alan Turing y ofrecemos una guía de carrera de 30 minutos para el despertar intelectual.",
-      "de": "\"Für mich ist das Laufen die schönste Zeit, um meinen Geist von Komplexität zu befreien und in reine Gedanken einzutauchen.\" 🏃‍♂️\n\nAlan Turing (1912–1954), der geniale britische Mathematiker, der im Zweiten Weltkrieg den Enigma-Code knackte und die Grundlagen der Informatik legte, litt unter ständiger Gehirnüberlastung. Unter diesem enormen intellektuellen Druck war das Marathonlaufen sein Geheimnis, um sein mentales Gleichgewicht zu bewahren und kreative Ideen zu entwickeln.\n\nTuring behielt eine strenge Langstreckenlauf-Routine von täglich über 10 Meilen (ca. 16 km) bei. Er war ein Eliteläufer, der bei den britischen Olympia-Ausscheidungen 1948 mit 2 Stunden, 46 Minuten und 3 Sekunden den 5. Platz belegte. Für Turing war das Laufen nicht nur Sport, sondern ein essenzieller Pfad der Kontemplation, der die kognitive Aktivität pausierte und das Gehirn reinigte.\n\nIm heutigen Beitrag untersuchen wir die neurowissenschaftlichen Mechanismen von Alan Turings Laufroutine und bieten eine 30-minütige Anleitung zur intellektuellen Anregung.",
-      "fr": "\"Pour moi, la course à pied est le moment le plus précieux pour vider mon esprit complexe et m'immerger dans une pensée pure.\" 🏃‍♂️\n\nAlan Turing (1912–1954), le brillant mathématicien britannique qui a décrypté le code allemand Enigma pendant la Seconde Guerre mondiale et posé les bases de l'informatique, souffrait constamment de surcharge cérébrale. Face à une telle pression intellectuelle, son secret pour maintenir son équilibre mental et nourrir sa créativité était la 'course de marathon'.\n\nTuring maintenait une routine rigoureuse de course de fond en parcourant plus de 10 milles (environ 16 km) par jour. Il était un coureur de haut niveau qui termina 5e aux sélections olympiques britanniques de marathon en 1948 avec un temps de 2h 46m 03s. Pour Turing, courir n'était pas un simple exercice, mais une Voie de contemplation essentielle qui mettait en pause l'activité préfrontale et purifiait le cerveau.\n\nDans cet article, nous examinons les mécanismes neuroscientifiques de la routine de course d'Alan Turing et proposons un guide de course de 30 minutes pour l'éveil intellectuel.",
-      "pt": "\"Para mim, correr é o momento mais bonito para esvaziar minha mente complexa e mergulhar no pensamento puro.\" 🏃‍♂️\n\nAlan Turing (1912–1954), o brilhante matemático britânico que decifrou o famoso código Enigma alemão durante a Segunda Guerra Mundial e lançou as bases da ciência da computação, sofria constantemente de sobrecarga cerebral. Em meio a essa imensa pressão intelectual, o segredo que lhe permitiu manter o equilíbrio mental e sustentar ideias criativas foi a 'corrida de maratona'.\n\nTuring mantinha uma rigorosa rotina de corrida de longa distância correndo mais de 10 milhas (aprox. 16 km) todos os dias. Na verdade, ele era um corredor de elite que ficou em 5º lugar na seletiva olímpica britânica de maratona em 1948 com o tempo de 2 horas, 46 minutos e 3 segundos. Para Turing, correr não era mero exercício, mas um caminho essencial de contemplação que pausava a atividade pré-frontal e purificava o cérebro.\n\nNo post de hoje, examinamos os mecanismos neurocientíficos por trás da rotina de corrida de Alan Turing e oferecemos um guia de corrida de 30 minutos para o despertar intelectual.",
-      "id": "\"Bagi saya, berlari adalah waktu paling indah untuk membersihkan pikiran saya yang rumit dan menyelami pemikiran murni.\" 🏃‍♂️\n\nAlan Turing (1912–1954), matematikawan genius Inggris yang memecahkan kode Enigma Jerman selama Perang Dunia II dan meletakkan fondasi ilmu komputer, selalu menderita beban berlebih otak karena kalkulasi rumit. Di tengah tekanan intelektual yang luar biasa, rahasia yang memungkinkannya mempertahankan keseimbangan mental dan memicu ide-ide kreatif adalah 'lari maraton'.\n\nTuring mempertahankan rutinitas lari jarak jauh yang ketat dengan berlari lebih dari 10 mil (sekitar 16 km) setiap hari. Faktanya, ia adalah pelari elit yang meraih peringkat ke-5 dalam kualifikasi maraton Olimpiade Inggris 1948 dengan catatan waktu 2 jam, 46 menit, dan 3 detik. Bagi Turing, berlari bukan sekadar olahraga, melainkan sarana kontemplasi penting yang mengistirahatkan aktivitas kognitif prefrontal dan menyucikan otak.\n\nDalam postingan hari ini, kami meneliti mekanisme neurosains di balik rutinitas lari Alan Turing dan memberikan panduan lari 30 menit untuk pencerahan intelektual."
-    },
-    "whyTitle": {
-      "ko": "유산소 운동이 촉진하는 뇌세포 생성과 인지 환기",
-      "en": "Aerobic Exercise Promoting Neurogenesis and Cognitive Refreshment",
-      "ja": "有酸素運動が促進する脳細胞生成と認知のリフレッシュ",
-      "zh": "有氧运动促进神经发生与认知刷新",
-      "es": "El ejercicio aeróbico promueve la neurogénesis y la renovación cognitiva",
-      "de": "Aerobes Training zur Förderung der Neurogenese und kognitiven Erfrischung",
-      "fr": "L'exercice aérobique favorise la neurogenèse et le rafraîchissement cognitif",
-      "pt": "O exercício aeróbico promovendo a neurogênese e a renovação cognitiva",
-      "id": "Olahraga Aerobik Memicu Neurogenesis dan Penyegaran Kognitif"
-    },
-    "whyDesc": {
-      "ko": "매일 꾸준히 달리는 유산소 운동은 뇌 건강에 결정적인 물질인 <strong>뇌유래신경영양인자(BDNF)</strong>의 합성을 유도합니다. BDNF는 기억과 학습을 담당하는 해마 영역에서 새로운 신경세포(Neuron) 생성을 촉진하여 인지적 작업 기억 공간을 넓힙니다.\n\n또한 달리는 동안 뇌의 인지적 통제를 맡은 전두엽은 일시적인 휴식 상태로 전환되며, 이때 무의식적 자원을 활용하는 <strong>기본 모드 네트워크(DMN)</strong>가 자극받습니다. 이 현상 덕분에 머리를 싸매고 고민할 때 풀리지 않던 어려운 연산이나 창조적 아이디어가 달리기를 마친 직후 번뜩이며 활성화되는 복원 효과를 거두게 됩니다.",
-      "en": "Consistent daily aerobic running induces the synthesis of <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong>, a crucial substance for brain health. BDNF promotes the generation of new neurons in the hippocampus, which handles memory and learning, expanding cognitive working memory space.\n\nFurthermore, while running, the prefrontal cortex responsible for cognitive control enters a temporary resting state, stimulating the <strong>Default Mode Network (DMN)</strong> that utilizes subconscious resources. Thanks to this phenomenon, complex calculations or creative ideas that remained unsolved when racking one's brain suddenly spark and activate immediately after finishing a run.",
-      "ja": "毎日継続的に走る有酸素運動は、脳の健康に決定的な物質である<strong>脳由来神経栄養因子（BDNF）</strong>の合成を誘導します。BDNFは記憶と学習を司る海馬領域で新しい神経細胞（Neuron）の生成を促進し、認知的作業記憶空間を広げます。\n\nまた、走っている間、脳の認知的統制を担う前頭葉は一時的な休息状態に移行し、この時無意識の資源を活用する<strong>デフォルト・モード・ネットワーク（DMN）</strong>が刺激されます。この現象のおかげで、頭を抱えて悩んでいた困難な演算や創造的なアイデアが、走りを終えた直後に閃き活性化する復元効果を得ることができます。",
-      "zh": "每天坚持有氧跑步会诱导对大脑健康至关重要的<strong>脑源性神经营养因子（BDNF）</strong>的合成。BDNF能在负责记忆与学习的海马体区域促进新神经元（Neuron）的生成，从而扩大认知工作记忆空间。\n\n此外，在跑步过程中，负责认知控制的前额叶会进入暂时性休息状态，此时利用潜意识资源的<strong>默认模式网络（DMN）</strong>受到刺激。得益于这种现象，此前苦思冥想也无法解决的难解运算或创意灵感，往往会在跑完步的瞬间豁然开朗并得以激活。",
-      "es": "La carrera aeróbica diaria constante induce la síntesis del <strong>Factor Neurotrófico Derivado del Cerebro (BDNF)</strong>, una sustancia crucial para la salud cerebral. El BDNF promueve la generación de nuevas neuronas en el hipocampo, responsable de la memoria y el aprendizaje, expandiendo el espacio de la memoria de trabajo.\n\nAdemás, al correr, la corteza prefrontal responsable del control cognitivo entra en un estado de reposo temporal, estimulando la <strong>Red Neuronal por Defecto (DMN)</strong> que utiliza recursos subconscientes. Gracias a este fenómeno, cálculos complejos o ideas creativas deslumbran y se activan inmediatamente después de correr.",
-      "de": "Regelmäßiges aerobes Laufen fördert die Synthese des <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong>, einer entscheidenden Substanz für die Gehirngesundheit. BDNF fördert die Bildung neuer Neuronen im Hippocampus und erweitert den Arbeitsgedächtnisraum.\n\nBeim Laufen geht der Präfrontalkortex in einen Ruhezustand über, wodurch das <strong>Default Mode Network (DMN)</strong> stimuliert wird, das unterbewusste Ressourcen nutzt. Dadurch schießen ungelöste Probleme oder kreative Ideen direkt nach dem Lauf plötzlich als Geistesblitz ein.",
-      "fr": "La course aérobique quotidienne induit la synthèse du <strong>Facteur Neurotrophique Dérivé du Cerveau (BDNF)</strong>, substance essentielle à la santé cérébrale. Le BDNF favorise la neurogenèse dans l'hippocampe, étendant la mémoire de travail.\n\nDe plus, pendant la course, le cortex préfrontal se met en repos temporaire, stimulant le <strong>Réseau du Mode par Défaut (DMN)</strong>. Grâce à cela, des calculs complexes ou des idées créatives restés sans réponse émergent soudainement juste après la course.",
-      "pt": "A corrida aeróbica diária induz a síntese do <strong>Fator Neurotrófico Derivado do Cérebro (BDNF)</strong>, substância crucial para a saúde cerebral. O BDNF promove a geração de novos neurônios no hipocampo, expandindo a memória de trabalho.\n\nAlém disso, ao correr, o córtex pré-frontal entra em repouso temporário, estimulando a <strong>Rede de Modo Padrão (DMN)</strong>. Graças a isso, cálculos complexos ou ideias criativas surgem subitamente e se ativam logo após a corrida.",
-      "id": "Lari aerobik harian yang konsisten menginduksi sintesis <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong>, zat krusial untuk kesehatan otak. BDNF memicu pembentukan neuron baru di hipokampus, memperluas ruang memori kerja kognitif.\n\nSelain itu, saat berlari, korteks prefrontal mengistirahatkan kontrol kognitif, merangsang <strong>Default Mode Network (DMN)</strong> yang memanfaatkan sumber daya bawah sadar. Berkat fenomena ini, kalkulasi rumit atau ide kreatif yang macet mendadak terpecahkan tepat setelah selesai berlari."
-    },
-    "cautionTitle": {
-      "ko": "주의력 환기를 위한 페이스 통제",
-      "en": "Pacing Control for Optimal Cognitive Awakening",
-      "ja": "注意換気のためのペースコントロール",
-      "zh": "为焕发注意力而进行的配速控制",
-      "es": "Control del ritmo para la renovación de la atención",
-      "de": "Tempokontrolle zur Auffrischung der Aufmerksamkeit",
-      "fr": "Contrôle de l'allure pour le rafraîchissement de l'attention",
-      "pt": "Controle de ritmo para renovação da atenção",
-      "id": "Kontrol Kecepatan Lari untuk Menyegarkan Perhatian"
-    },
-    "cautionDesc": {
-      "ko": "두뇌를 환기하기 위한 러닝에서는 페이스 조절이 매우 중요합니다. 지나치게 격렬하게 뛰어 심장이 터질 것 같은 무산소 역치 상태에 도달하면, 뇌는 신체 생존에만 온 인지 자원을 쏟아부어 사색과 DMN 활성화를 방해합니다. 옆 사람과 가벼운 대화가 가능한 정도의 페이스로 일정하게 뛰는 것이 효과적입니다.",
-      "en": "Pacing control is vital during running intended to refresh the brain. If you run excessively hard and reach an anaerobic threshold state where your heart feels like bursting, the brain devotes all cognitive resources purely to physical survival, hindering contemplation and DMN activation. Running steadily at a pace where light conversation is possible is most effective.",
-      "ja": "脳をリフレッシュするためのランニングでは、ペース調節が非常に重要です。あまりにも激しく走り、心臓が破裂しそうな無酸素閾値状態に達すると、脳は身体の生存だけにすべての認知資源を注ぎ込み、思索とDMNの活性化を妨げます。隣の人と軽い会話ができる程度のペースで一定に走ることが効果的です。",
-      "zh": "为清醒大脑而进行的跑步，配速控制至关重要。若过于剧烈奔跑导致达到心跳加速的无氧阈值状态，大脑会将所有认知资源投入到身体生存中，从而阻碍思考与DMN的激活。以能够与旁人进行轻松对话的配速匀速奔跑最为有效。",
-      "es": "El control del ritmo es vital al correr para despejar el cerebro. Si corre con demasiada intensidad y alcanza el umbral anaeróbico, el cerebro destina todos los recursos a la supervivencia física, lo que dificulta la contemplación y la activación de la DMN. Correr a un ritmo constante que permita mantener una conversación ligera es lo más eficaz.",
-      "de": "Tempokontrolle ist beim Laufen zur Gehirnerfrischung entscheidend. Wenn Sie zu hart laufen und die anaerobe Schwelle erreichen, verwendet das Gehirn alle Ressourcen für das körperliche Überleben, was das DMN behindert. Ein gleichmäßiges Tempo, bei dem eine leichte Unterhaltung möglich ist, ist am effektivsten.",
-      "fr": "Le contrôle de l'allure est essentiel lors d'une course visant à rafraîchir le cerveau. Si vous courez trop intensément et atteignez le seuil anaérobie, le cerveau consacre toutes ses ressources à la survie physique, ce qui nuit à la réflexion et à l'activation du DMN. Courir à un rythme régulier permettant une conversation légère est idéal.",
-      "pt": "O controle do ritmo é vital ao correr para renovar o cérebro. Se você correr com muita intensidade e atingir o limiar anaeróbico, o cérebro destina todos os recursos à sobrevivência física, prejudicando a contemplação e a ativação da DMN. Correr em um ritmo constante que permita uma conversa leve é o mais eficaz.",
-      "id": "Kontrol kecepatan sangat penting saat berlari untuk menyegarkan otak. Jika Anda berlari terlalu kencang hingga mencapai ambang anaerobik, otak akan mencurahkan seluruh sumber daya hanya untuk bertahan hidup, yang mengganggu kontemplasi dan aktivasi DMN. Berlari secara stabil pada kecepatan di mana percakapan ringan masih memungkinkan adalah yang paling efektif."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 디지털 차단과 러닝 시작",
-          "en": "Step 1: Digital Disconnection and Starting the Run",
-          "ja": "ステップ1：デジタル遮断とランニングの開始",
-          "zh": "步骤1：数字屏蔽与开启奔跑",
-          "es": "Paso 1: Desconexión digital e inicio de la carrera",
-          "de": "Schritt 1: Digitale Trennung und Laufbeginn",
-          "fr": "Étape 1 : Déconnexion numérique et début de la course",
-          "pt": "Passo 1: Desconexão digital e início da corrida",
-          "id": "Langkah 1: Pemutusan Digital dan Memulai Lari"
-        },
-        "text": {
-          "ko": "스마트폰의 음악이나 팟캐스트 스트리밍을 켜지 않고, 스마트폰을 주머니에 넣거나 방해 금지 모드로 설정하여 외부 디지털 자극을 완전히 끊고 달리기 시작합니다.",
-          "en": "Start running without streaming music or podcasts, putting your smartphone in your pocket or setting it to Do Not Disturb mode to completely block external digital stimuli.",
-          "ja": "スマートフォンの音楽やポッドキャストのストリーミングをつけず、スマートフォンをポケットに入れるかマナーモードに設定して、外部のデジタル刺激を完全に断ち切って走り始めます。",
-          "zh": "不播放音乐或播客，将智能手机放入口袋或设置为免打扰模式，彻底切断外部数字刺激并开始奔跑。",
-          "es": "Comience a correr sin reproducir música o podcasts, guardando el teléfono en el bolsillo o en modo 'No molestar' para bloquear por completo los estímulos digitales.",
-          "de": "Beginnen Sie zu laufen, ohne Musik oder Podcasts zu hören. Stecken Sie Ihr Smartphone in die Tasche oder schalten Sie es stumm, um digitale Reize auszublenden.",
-          "fr": "Commencez à courir sans écouter de musique ni de podcasts, en mettant votre smartphone dans votre poche ou en mode 'Ne pas déranger' pour couper les stimulations numériques.",
-          "pt": "Comece a correr sem reproduzir música ou podcasts, colocando o smartphone no bolso ou no modo 'Não perturbe' para bloquear estímulos digitais.",
-          "id": "Mulailah berlari tanpa memutar musik atau podcast, masukkan smartphone ke saku atau atur ke mode Do Not Disturb untuk memblokir total stimulasi digital."
-        }
+    "pubDate": "2026-02-02",
+    "updatedDate": "2026-02-02",
+    "heroImage": "/images/blog/turing_marathon_running.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "천재의 뇌를 리셋하는 레이스? 앨런 튜링의 러닝 루틴",
+        "description": "에니그마 암호를 해독한 컴퓨터 과학의 아버지 앨런 튜링. 매일 16km를 뛰며 뇌 과부하를 해소하고 신경세포를 활성화했던 그의 러닝 습관과 과학적 배경을 알아봅니다.",
+        "authority": "앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"나에게 러닝은 복잡한 마음을 비워내고 온전한 생각에 잠기게 하는 가장 아름다운 시간이다.\" 🏃‍♂️\n\n제2차 세계대전 당시 악명 높았던 독일군의 에니그마 암호를 해독하고 컴퓨터 과학의 토대를 다진 영국의 천재 수학자, 앨런 튜링(Alan Turing, 1912–1954). 그는 온갖 복잡한 계산과 기계 설계, 암호 분석 때문에 언제나 뇌의 과부하에 시달렸습니다. 이처럼 엄청난 지적 압박 속에서 그가 정신적 평형을 유지하고 창조적 발상을 이어갈 수 있었던 비결은 다름 아닌 '마라톤 러닝'이었습니다.\n\n튜링은 매일 10마일(약 16km) 이상을 달리는 혹독한 장거리 러닝 루틴을 유지했습니다. 실제로 그는 1948년 영국 마라톤 국가대표 선발전에서 2시간 46분 3초라는 준수한 기록으로 5위를 차지할 정도로 프로급 주자였습니다. 튜링에게 달리기는 단순한 운동이 아니라, 전두엽의 인지 활동을 멈추고 뇌를 정화하는 필수적인 사색의 통로였습니다.\n\n오늘 포스트에서는 앨런 튜링의 러닝 루틴의 신경과학적 메커니즘과 현대인을 위한 지적 각성용 30분 러닝 가이드를 알아봅니다.",
+        "whyTitle": "유산소 운동이 촉진하는 뇌세포 생성과 인지 환기",
+        "whyDesc": "매일 꾸준히 달리는 유산소 운동은 뇌 건강에 결정적인 물질인 <strong>뇌유래신경영양인자(BDNF)</strong>의 합성을 유도합니다. BDNF는 기억과 학습을 담당하는 해마 영역에서 새로운 신경세포(Neuron) 생성을 촉진하여 인지적 작업 기억 공간을 넓힙니다.\n\n또한 달리는 동안 뇌의 인지적 통제를 맡은 전두엽은 일시적인 휴식 상태로 전환되며, 이때 무의식적 자원을 활용하는 <strong>기본 모드 네트워크(DMN)</strong>가 자극받습니다. 이 현상 덕분에 머리를 싸매고 고민할 때 풀리지 않던 어려운 연산이나 창조적 아이디어가 달리기를 마친 직후 번뜩이며 활성화되는 복원 효과를 거두게 됩니다.",
+        "cautionTitle": "주의력 환기를 위한 페이스 통제",
+        "cautionDesc": "두뇌를 환기하기 위한 러닝에서는 페이스 조절이 매우 중요합니다. 지나치게 격렬하게 뛰어 심장이 터질 것 같은 무산소 역치 상태에 도달하면, 뇌는 신체 생존에만 온 인지 자원을 쏟아부어 사색과 DMN 활성화를 방해합니다. 옆 사람과 가벼운 대화가 가능한 정도의 페이스로 일정하게 뛰는 것이 효과적입니다.",
+        "steps": [
+          {
+            "title": "1단계: 디지털 차단과 러닝 시작",
+            "desc": "스마트폰의 음악이나 팟캐스트 스트리밍을 켜지 않고, 스마트폰을 주머니에 넣거나 방해 금지 모드로 설정하여 외부 디지털 자극을 완전히 끊고 달리기 시작합니다."
+          },
+          {
+            "title": "2단계: 대화 가능한 일정한 페이스 유지",
+            "desc": "30분 동안 호흡이 살짝 가쁘지만 옆 사람과 가볍게 말을 주고받을 수 있는 일정한 페이스(심박수 영역 2)를 일관되게 유지하며 달립니다."
+          },
+          {
+            "title": "3단계: 러닝 후 쿨다운 및 떠오른 아이디어 아날로그 메모",
+            "desc": "러닝을 마친 뒤 가벼운 스트레칭과 호흡으로 몸을 식히고, 전두엽이 해방된 상태에서 무의식적으로 떠오른 생각이나 해결책을 수첩에 아날로그 손필기로 적습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "러닝 대신 실내 고정 자전거나 수영을 해도 뇌 환기 효과는 동일한가요?",
+            "answer": "네, 심폐 기능이 개입되어 BDNF 수치를 높일 수 있는 지속적인 유산소 운동이라면 자전거나 수영도 유사한 인지 회복 효과를 제공합니다. 다만, 야외 러닝처럼 자연 경관과 바람 등의 오감 자극이 뇌로 전달될 때 기본 모드 네트워크(DMN)의 이완 및 아이디어 활성화 효과가 극대화됩니다."
+          },
+          {
+            "question": "달리는 동안 음악을 들으면 뇌 회복에 방해가 되나요?",
+            "answer": "가사나 격렬한 비트가 있는 음악은 전두엽이 소리 정보를 청각적으로 여과하고 분석하게 하여 뇌의 완전한 휴식을 방해합니다. 자연의 소리를 그대로 듣거나 음악 없이 호흡에만 집중하는 것이 DMN을 가장 온전하게 활성화하고 주의력을 재충전하는 비결입니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 대화 가능한 일정한 페이스 유지",
-          "en": "Step 2: Maintaining a Conversational Steady Pace",
-          "ja": "ステップ2：会話が可能な一定のペースの維持",
-          "zh": "步骤2：保持可进行对话的匀速配速",
-          "es": "Paso 2: Mantenimiento de un ritmo constante conversacional",
-          "de": "Schritt 2: Beibehaltung eines gleichmäßigen Gesprächstempos",
-          "fr": "Étape 2 : Maintien d'une allure régulière permettant la conversation",
-          "pt": "Passo 2: Manutenção de um ritmo constante e conversacional",
-          "id": "Langkah 2: Mempertahankan Kecepatan Stabil yang Memungkinkan Percakapan"
-        },
-        "text": {
-          "ko": "30분 동안 호흡이 살짝 가쁘지만 옆 사람과 가볍게 말을 주고받을 수 있는 일정한 페이스(심박수 영역 2)를 일관되게 유지하며 달립니다.",
-          "en": "Run consistently for 30 minutes at a steady pace (Heart Rate Zone 2) where your breathing is slightly elevated but you can still converse comfortably with someone beside you.",
-          "ja": "30分間、呼吸が少し上がるものの隣の人と軽く会話を交わすことができる一定のペース（心拍数ゾーン2）を維持しながら走ります。",
-          "zh": "持续奔跑30分钟，保持呼吸略有微喘但仍能与身旁之人进行轻松交谈的匀速配速（心率区间 Zone 2）。",
-          "es": "Corra de manera constante durante 30 minutos a un ritmo (Zona de frecuencia cardíaca 2) en el que su respiración esté algo acelerada pero pueda conversar.",
-          "de": "Laufen Sie 30 Minuten lang in einem gleichmäßigen Tempo (Herzfrequenzzone 2), bei dem Sie leicht außer Atem sind, sich aber noch unterhalten können.",
-          "fr": "Courez régulièrement pendant 30 minutes à une allure (Zone de fréquence cardiaque 2) où votre respiration est un peu courte mais vous permet de discuter.",
-          "pt": "Corra de forma constante por 30 minutos em um ritmo (Zona de frequência cardíaca 2) onde sua respiração esteja levemente acelerada, mas ainda permita conversar.",
-          "id": "Berlarilah secara konsisten selama 30 menit pada kecepatan stabil (Zona Detak Jantung 2) di mana napas sedikit terengah-engah namun masih bisa mengobrol santai."
-        }
+      "en": {
+        "title": "A Race to Reset a Genius Mind? Alan Turing's Running Routine",
+        "description": "Alan Turing, the father of computer science who deciphered the Enigma code. Learn about his running habit of running 16km daily to relieve brain overload and stimulate neural cells, along with its scientific background.",
+        "authority": "Historical biographies and autobiographical records of Alan Turing & Cognitive Neuroscience research",
+        "intro": "\"For me, running is the most beautiful time to clear my complex mind and immerse myself in pure thought.\" 🏃‍♂️\n\nAlan Turing (1912–1954), the brilliant British mathematician who deciphered the notorious German Enigma code during World War II and laid the foundations of computer science, constantly suffered from brain overload due to complex calculations, machine designs, and cryptanalysis. Amid such immense intellectual pressure, the secret that allowed him to maintain mental equilibrium and sustain creative ideas was none other than 'marathon running'.\n\nTuring maintained a rigorous long-distance running routine of running over 10 miles (approx. 16 km) every day. In fact, he was an elite runner who finished 5th in the 1948 British Olympic marathon trials with an impressive time of 2 hours, 46 minutes, and 3 seconds. For Turing, running was not merely exercise, but an essential pathway of contemplation that paused prefrontal cognitive activity and purified the brain.\n\nIn today's post, we examine the neuroscientific mechanisms behind Alan Turing's running routine and provide a 30-minute running guide for intellectual awakening in modern individuals.",
+        "whyTitle": "Aerobic Exercise Promoting Neurogenesis and Cognitive Refreshment",
+        "whyDesc": "Consistent daily aerobic running induces the synthesis of <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong>, a crucial substance for brain health. BDNF promotes the generation of new neurons in the hippocampus, which handles memory and learning, expanding cognitive working memory space.\n\nFurthermore, while running, the prefrontal cortex responsible for cognitive control enters a temporary resting state, stimulating the <strong>Default Mode Network (DMN)</strong> that utilizes subconscious resources. Thanks to this phenomenon, complex calculations or creative ideas that remained unsolved when racking one's brain suddenly spark and activate immediately after finishing a run.",
+        "cautionTitle": "Pacing Control for Optimal Cognitive Awakening",
+        "cautionDesc": "Pacing control is vital during running intended to refresh the brain. If you run excessively hard and reach an anaerobic threshold state where your heart feels like bursting, the brain devotes all cognitive resources purely to physical survival, hindering contemplation and DMN activation. Running steadily at a pace where light conversation is possible is most effective.",
+        "steps": [
+          {
+            "title": "Step 1: Digital Disconnection and Starting the Run",
+            "desc": "Start running without streaming music or podcasts, putting your smartphone in your pocket or setting it to Do Not Disturb mode to completely block external digital stimuli."
+          },
+          {
+            "title": "Step 2: Maintaining a Conversational Steady Pace",
+            "desc": "Run consistently for 30 minutes at a steady pace (Heart Rate Zone 2) where your breathing is slightly elevated but you can still converse comfortably with someone beside you."
+          },
+          {
+            "title": "Step 3: Post-Run Cooldown and Analog Note-Taking of Ideas",
+            "desc": "After running, cool down with light stretching and breathing exercises, then write down ideas or solutions that surfaced from your subconscious onto a paper notebook by hand."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does stationary cycling or swimming produce the same brain refresh effect as running?",
+            "answer": "Yes, any continuous aerobic exercise that engages cardiopulmonary function and raises BDNF levels, such as cycling or swimming, provides similar cognitive recovery benefits. However, outdoor running maximizes the relaxation and idea activation of the Default Mode Network (DMN) when sensory stimuli like wind and natural scenery reach the brain."
+          },
+          {
+            "question": "Does listening to music while running hinder brain recovery?",
+            "answer": "Music with lyrics or intense beats forces the prefrontal cortex to auditorily filter and process information, preventing complete brain rest. Listening to natural ambient sounds or focusing solely on your breathing without music is the key to fully activating the DMN and recharging attention."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 러닝 후 쿨다운 및 떠오른 아이디어 아날로그 메모",
-          "en": "Step 3: Post-Run Cooldown and Analog Note-Taking of Ideas",
-          "ja": "ステップ3：ランニング後のクールダウンと浮かんだアイデアのアナログメモ",
-          "zh": "步骤3：跑后放松与灵感纸质整理",
-          "es": "Paso 3: Enfriamiento posterior a la carrera y toma de notas analógicas",
-          "de": "Schritt 3: Abkühlen nach dem Lauf und analoge Notizen",
-          "fr": "Étape 3 : Retour au calme après la course et prise de notes analogique",
-          "pt": "Passo 3: Desaquecimento pós-corrida e anotações analógicas",
-          "id": "Langkah 3: Pendinginan Pasca-Lari dan Pencatatan Analog Ide-Ide"
-        },
-        "text": {
-          "ko": "러닝을 마친 뒤 가벼운 스트레칭과 호흡으로 몸을 식히고, 전두엽이 해방된 상태에서 무의식적으로 떠오른 생각이나 해결책을 수첩에 아날로그 손필기로 적습니다.",
-          "en": "After running, cool down with light stretching and breathing exercises, then write down ideas or solutions that surfaced from your subconscious onto a paper notebook by hand.",
-          "ja": "ランニングを終えた後、軽いストレッチと呼吸で体を冷まし、前頭葉が解放された状態で無意識に浮かんだ考えや解決策をノートに手書きでメモします。",
-          "zh": "跑步结束后，通过轻柔拉伸与深呼吸放松身体，在前额叶得到解放的状态下，将潜意识中涌现的想法或解决方案用手写形式记录在手记中。",
-          "es": "Al terminar de correr, realice estiramientos suaves y ejercicios de respiración para enfriar el cuerpo, y anote a mano en un cuaderno las ideas o soluciones que hayan surgido.",
-          "de": "Kühlen Sie sich nach dem Lauf mit leichtem Dehnen ab und schreiben Sie Ideen oder Lösungen, die aufgetaucht sind, handschriftlich in ein Notizbuch.",
-          "fr": "Après la course, rafraîchissez votre corps par des étirements légers et de la respiration, puis notez à la main dans un carnet les idées ou solutions qui ont émergé.",
-          "pt": "Após correr, faça alongamentos leves e exercícios de respiração para desaquecer o corpo e anote à mão em um caderno as ideias ou soluções que surgiram.",
-          "id": "Setelah berlari, lakukan pendinginan dengan peregangan ringan dan olah napas, lalu catatlah pikiran atau solusi yang muncul dari bawah sadar Anda ke dalam buku catatan kertas secara tulisan tangan."
-        }
+      "zh": {
+        "title": "重置天才大脑的奔跑？艾伦·图灵的跑步习惯",
+        "description": "破译恩尼格玛密码的计算机科学之父艾伦·图灵。了解他每天奔跑16公里以缓解大脑过载、激活神经细胞的跑步习惯及其科学背景。",
+        "authority": "艾伦·图灵历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "“对我而言，跑步是清空复杂思绪、沉浸于纯粹思考的最美好时光。” 🏃‍♂️\n\n二战期间破译德军著名的恩尼格玛密码、奠定计算机科学基石的英国天才数学家艾伦·图灵（Alan Turing，1912–1954），因各种复杂的计算、机械设计和密码分析而长期承受着大脑过载。在如此巨大的智力压力下，他能够保持精神平衡并持续涌现创造性灵感的秘诀，正是“马拉松跑步”。\n\n图灵每天保持着奔跑10英里（约16公里）以上的严苛长跑习惯。事实上，他是一位职业级别的跑者，在1948年英国奥运马拉松选拔赛中以2小时46分3秒的出色成绩斩获第5名。对图灵而言，跑步不仅是单纯的运动，更是暂停前额叶认知活动、净化大脑不可或缺的冥想通道。\n\n在今天的文章中，我们将深入探讨艾伦·图灵跑步习惯的神经科学机制，并为现代人提供一份用于智力觉醒的30分钟跑步指南。",
+        "whyTitle": "有氧运动促进神经发生与认知刷新",
+        "whyDesc": "每天坚持有氧跑步会诱导对大脑健康至关重要的<strong>脑源性神经营养因子（BDNF）</strong>的合成。BDNF能在负责记忆与学习的海马体区域促进新神经元（Neuron）的生成，从而扩大认知工作记忆空间。\n\n此外，在跑步过程中，负责认知控制的前额叶会进入暂时性休息状态，此时利用潜意识资源的<strong>默认模式网络（DMN）</strong>受到刺激。得益于这种现象，此前苦思冥想也无法解决的难解运算或创意灵感，往往会在跑完步的瞬间豁然开朗并得以激活。",
+        "cautionTitle": "为焕发注意力而进行的配速控制",
+        "cautionDesc": "为清醒大脑而进行的跑步，配速控制至关重要。若过于剧烈奔跑导致达到心跳加速的无氧阈值状态，大脑会将所有认知资源投入到身体生存中，从而阻碍思考与DMN的激活。以能够与旁人进行轻松对话的配速匀速奔跑最为有效。",
+        "steps": [
+          {
+            "title": "步骤1：数字屏蔽与开启奔跑",
+            "desc": "不播放音乐或播客，将智能手机放入口袋或设置为免打扰模式，彻底切断外部数字刺激并开始奔跑。"
+          },
+          {
+            "title": "步骤2：保持可进行对话的匀速配速",
+            "desc": "持续奔跑30分钟，保持呼吸略有微喘但仍能与身旁之人进行轻松交谈的匀速配速（心率区间 Zone 2）。"
+          },
+          {
+            "title": "步骤3：跑后放松与灵感纸质整理",
+            "desc": "跑步结束后，通过轻柔拉伸与深呼吸放松身体，在前额叶得到解放的状态下，将潜意识中涌现的想法或解决方案用手写形式记录在手记中。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "用室内健身车或游泳代替跑步，清脑效果是否相同？",
+            "answer": "是的，只要是能够带动心肺功能、提高BDNF水平的持续性有氧运动，骑行或游泳也能提供类似的认知恢复效果。然而，像户外跑步那样将自然风景与微风等五感刺激传递至大脑时，默认模式网络（DMN）的放松与创意激活效果才最为理想。"
+          },
+          {
+            "question": "跑步时听音乐会妨碍大脑恢复吗？",
+            "answer": "带有歌词或剧烈节奏的音乐迫使前额叶去听觉过滤与分析声音信息，从而打扰大脑的彻底休息。聆听自然原音或在无音乐状态下仅专注于呼吸，才是最完整激活DMN并充能注意力的秘诀。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "天才の脳をリセットするレース？ アラン・チューリングのランニングルーティン",
+        "description": "エニグマ暗号を解読したコンピュータ科学の父アラン・チューリング。毎日16kmを走り脳の過負荷を解消し神経細胞を活性化させた彼のランニング習慣と科学的背景について解説します。",
+        "authority": "アラン・チューリングの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究",
+        "intro": "「私にとってランニングは、複雑な心を空にし、純粋な思考に浸らせてくれる最も美しい時間だ。」 🏃‍♂️\n\n第二次世界大戦当時、悪名高かったドイツ軍のエニグマ暗号を解読し、コンピュータ科学の基礎を築いたイギリスの天才数学者アラン・チューリング（Alan Turing, 1912–1954）。彼はあらゆる複雑な計算や機械設計、暗号分析のため、常に脳の過負荷に悩まされていました。このような凄まじい知的プレッシャーの中で、彼が精神的平衡を維持し創造的な発想を続けられた秘密は、他ならぬ「マラソンランニング」でした。\n\nチューリングは毎日10マイル（約16km）以上を走る過酷な長距離ランニングルーティンを維持しました。実際に彼は1948年のイギリスオリンピックマラソン選考会で2時間46分3秒という優れた記録で5位に入賞するほどのプロ級のランナーでした。チューリングにとって走ることは単なる運動ではなく、前頭葉の認知活動を一時停止し脳を浄化する不可欠な思索の通路でした。\n\n今日の記事では、アラン・チューリングのランニングルーティンの神経科学的メカニズムと、現代人の知的覚醒のための30分ランニングガイドを紹介します。",
+        "whyTitle": "有酸素運動が促進する脳細胞生成と認知のリフレッシュ",
+        "whyDesc": "毎日継続的に走る有酸素運動は、脳の健康に決定的な物質である<strong>脳由来神経栄養因子（BDNF）</strong>の合成を誘導します。BDNFは記憶と学習を司る海馬領域で新しい神経細胞（Neuron）の生成を促進し、認知的作業記憶空間を広げます。\n\nまた、走っている間、脳の認知的統制を担う前頭葉は一時的な休息状態に移行し、この時無意識の資源を活用する<strong>デフォルト・モード・ネットワーク（DMN）</strong>が刺激されます。この現象のおかげで、頭を抱えて悩んでいた困難な演算や創造的なアイデアが、走りを終えた直後に閃き活性化する復元効果を得ることができます。",
+        "cautionTitle": "注意換気のためのペースコントロール",
+        "cautionDesc": "脳をリフレッシュするためのランニングでは、ペース調節が非常に重要です。あまりにも激しく走り、心臓が破裂しそうな無酸素閾値状態に達すると、脳は身体の生存だけにすべての認知資源を注ぎ込み、思索とDMNの活性化を妨げます。隣の人と軽い会話ができる程度のペースで一定に走ることが効果的です。",
+        "steps": [
+          {
+            "title": "ステップ1：デジタル遮断とランニングの開始",
+            "desc": "スマートフォンの音楽やポッドキャストのストリーミングをつけず、スマートフォンをポケットに入れるかマナーモードに設定して、外部のデジタル刺激を完全に断ち切って走り始めます。"
+          },
+          {
+            "title": "ステップ2：会話が可能な一定のペースの維持",
+            "desc": "30分間、呼吸が少し上がるものの隣の人と軽く会話を交わすことができる一定のペース（心拍数ゾーン2）を維持しながら走ります。"
+          },
+          {
+            "title": "ステップ3：ランニング後のクールダウンと浮かんだアイデアのアナログメモ",
+            "desc": "ランニングを終えた後、軽いストレッチと呼吸で体を冷まし、前頭葉が解放された状態で無意識に浮かんだ考えや解決策をノートに手書きでメモします。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ランニングの代わりにエアロバイクや水泳を行っても脳のリフレッシュ効果は同じですか？",
+            "answer": "はい、心肺機能が介入しBDNFの値を高めることができる持続的な有酸素運動であれば、自転車や水泳も同様の認知回復効果を提供します。ただし、屋外ランニングのように自然の景色や風などの五感刺激が脳に伝わる時、デフォルト・モード・ネットワーク（DMN）のリラックスおよびアイデア活性化効果が極大化されます。"
+          },
+          {
+            "question": "走っている間に音楽を聴くと脳の回復の妨げになりますか？",
+            "answer": "歌詞や激しいビートのある音楽は、前頭葉に音情報を聴覚的にろ過・分析させるため、脳の完全な休養を妨げます。自然の音をそのまま聴くか、音楽なしで呼吸だけに集中することが、DMNを最も健やかに活性化し注意力を再充電する秘密です。"
+          }
+        ]
+      },
+      "es": {
+        "title": "¿Una carrera para reiniciar la mente de un genio? La rutina de running de Alan Turing",
+        "description": "Alan Turing, el padre de la informática que descifró el código Enigma. Conozca su hábito de correr 16 km diarios para aliviar la sobrecarga cerebral y activar las células neuronales, junto con su base científica.",
+        "authority": "Biografías históricas y registros autobiográficos de Alan Turing e investigación en Neurociencia Cognitiva",
+        "intro": "\"Para mí, correr es el momento más hermoso para despejar mi mente compleja y sumergirme en el pensamiento puro.\" 🏃‍♂️\n\nAlan Turing (1912–1954), el brillante matemático británico que descifró el célebre código Enigma alemán durante la Segunda Guerra Mundial y sentó las bases de la informática, padecía constantemente de sobrecarga cerebral. En medio de tan inmensa presión intelectual, el secreto que le permitió mantener el equilibrio mental y sostener ideas creativas fue el 'maratón'.\n\nTuring mantenía una rigurosa rutina de carrera de larga distancia corriendo más de 10 millas (aprox. 16 km) todos los días. De hecho, fue un corredor de élite que terminó quinto en la selección olímpica británica de maratón de 1948 con un tiempo de 2 horas, 46 minutos y 3 segundos. Para Turing, correr no era un mero ejercicio, sino una vía de contemplación esencial que pausaba la actividad cognitiva prefrontal y purificaba el cerebro.\n\nEn la publicación de hoy, examinamos los mecanismos neurocientíficos detrás de la rutina de carrera de Alan Turing y ofrecemos una guía de carrera de 30 minutos para el despertar intelectual.",
+        "whyTitle": "El ejercicio aeróbico promueve la neurogénesis y la renovación cognitiva",
+        "whyDesc": "La carrera aeróbica diaria constante induce la síntesis del <strong>Factor Neurotrófico Derivado del Cerebro (BDNF)</strong>, una sustancia crucial para la salud cerebral. El BDNF promueve la generación de nuevas neuronas en el hipocampo, responsable de la memoria y el aprendizaje, expandiendo el espacio de la memoria de trabajo.\n\nAdemás, al correr, la corteza prefrontal responsable del control cognitivo entra en un estado de reposo temporal, estimulando la <strong>Red Neuronal por Defecto (DMN)</strong> que utiliza recursos subconscientes. Gracias a este fenómeno, cálculos complejos o ideas creativas deslumbran y se activan inmediatamente después de correr.",
+        "cautionTitle": "Control del ritmo para la renovación de la atención",
+        "cautionDesc": "El control del ritmo es vital al correr para despejar el cerebro. Si corre con demasiada intensidad y alcanza el umbral anaeróbico, el cerebro destina todos los recursos a la supervivencia física, lo que dificulta la contemplación y la activación de la DMN. Correr a un ritmo constante que permita mantener una conversación ligera es lo más eficaz.",
+        "steps": [
+          {
+            "title": "Paso 1: Desconexión digital e inicio de la carrera",
+            "desc": "Comience a correr sin reproducir música o podcasts, guardando el teléfono en el bolsillo o en modo 'No molestar' para bloquear por completo los estímulos digitales."
+          },
+          {
+            "title": "Paso 2: Mantenimiento de un ritmo constante conversacional",
+            "desc": "Corra de manera constante durante 30 minutos a un ritmo (Zona de frecuencia cardíaca 2) en el que su respiración esté algo acelerada pero pueda conversar."
+          },
+          {
+            "title": "Paso 3: Enfriamiento posterior a la carrera y toma de notas analógicas",
+            "desc": "Al terminar de correr, realice estiramientos suaves y ejercicios de respiración para enfriar el cuerpo, y anote a mano en un cuaderno las ideas o soluciones que hayan surgido."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿El ciclismo estático o la natación producen el mismo efecto de renovación cerebral que correr?",
+            "answer": "Sí, cualquier ejercicio aeróbico continuo que involucre la función cardiopulmonar y eleve los niveles de BDNF, como el ciclismo o la natación, ofrece beneficios de recuperación cognitiva similares. Sin embargo, correr al aire libre maximiza la relajación de la DMN cuando estímulos sensoriales como el viento y los paisajes llegan al cerebro."
+          },
+          {
+            "question": "¿Escuchar música mientras se corre dificulta la recuperación cerebral?",
+            "answer": "La música con letra o ritmos intensos obliga a la corteza prefrontal a filtrar y analizar la información auditiva, lo que impide el descanso cerebral completo. Escuchar sonidos naturales o concentrarse solo en la respiración sin música es la clave para activar plenamente la DMN y recargar la atención."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Une course pour réinitialiser le cerveau d'un génie ? La routine de course à pied d'Alan Turing",
+        "description": "Alan Turing, le père de l'informatique qui a décrypté le code Enigma. Découvrez son habitude de courir 16 km par jour pour soulager la surcharge cérébrale et stimuler les cellules nerveuses.",
+        "authority": "Biographies historiques et données autobiographiques sur Alan Turing et recherches en neurosciences cognitives",
+        "intro": "\"Pour moi, la course à pied est le moment le plus précieux pour vider mon esprit complexe et m'immerger dans une pensée pure.\" 🏃‍♂️\n\nAlan Turing (1912–1954), le brillant mathématicien britannique qui a décrypté le code allemand Enigma pendant la Seconde Guerre mondiale et posé les bases de l'informatique, souffrait constamment de surcharge cérébrale. Face à une telle pression intellectuelle, son secret pour maintenir son équilibre mental et nourrir sa créativité était la 'course de marathon'.\n\nTuring maintenait une routine rigoureuse de course de fond en parcourant plus de 10 milles (environ 16 km) par jour. Il était un coureur de haut niveau qui termina 5e aux sélections olympiques britanniques de marathon en 1948 avec un temps de 2h 46m 03s. Pour Turing, courir n'était pas un simple exercice, mais une Voie de contemplation essentielle qui mettait en pause l'activité préfrontale et purifiait le cerveau.\n\nDans cet article, nous examinons les mécanismes neuroscientifiques de la routine de course d'Alan Turing et proposons un guide de course de 30 minutes pour l'éveil intellectuel.",
+        "whyTitle": "L'exercice aérobique favorise la neurogenèse et le rafraîchissement cognitif",
+        "whyDesc": "La course aérobique quotidienne induit la synthèse du <strong>Facteur Neurotrophique Dérivé du Cerveau (BDNF)</strong>, substance essentielle à la santé cérébrale. Le BDNF favorise la neurogenèse dans l'hippocampe, étendant la mémoire de travail.\n\nDe plus, pendant la course, le cortex préfrontal se met en repos temporaire, stimulant le <strong>Réseau du Mode par Défaut (DMN)</strong>. Grâce à cela, des calculs complexes ou des idées créatives restés sans réponse émergent soudainement juste après la course.",
+        "cautionTitle": "Contrôle de l'allure pour le rafraîchissement de l'attention",
+        "cautionDesc": "Le contrôle de l'allure est essentiel lors d'une course visant à rafraîchir le cerveau. Si vous courez trop intensément et atteignez le seuil anaérobie, le cerveau consacre toutes ses ressources à la survie physique, ce qui nuit à la réflexion et à l'activation du DMN. Courir à un rythme régulier permettant une conversation légère est idéal.",
+        "steps": [
+          {
+            "title": "Étape 1 : Déconnexion numérique et début de la course",
+            "desc": "Commencez à courir sans écouter de musique ni de podcasts, en mettant votre smartphone dans votre poche ou en mode 'Ne pas déranger' pour couper les stimulations numériques."
+          },
+          {
+            "title": "Étape 2 : Maintien d'une allure régulière permettant la conversation",
+            "desc": "Courez régulièrement pendant 30 minutes à une allure (Zone de fréquence cardiaque 2) où votre respiration est un peu courte mais vous permet de discuter."
+          },
+          {
+            "title": "Étape 3 : Retour au calme après la course et prise de notes analogique",
+            "desc": "Après la course, rafraîchissez votre corps par des étirements légers et de la respiration, puis notez à la main dans un carnet les idées ou solutions qui ont émergé."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le vélo d'intérieur ou la natation produisent-ils le même effet de rafraîchissement que la course ?",
+            "answer": "Oui, tout exercice aérobique continu stimulant la fonction cardio-pulmonaire et augmentant le niveau de BDNF (comme le vélo ou la natation) offre des bénéfices similaires. Cependant, la course en plein air maximise la relaxation du DMN grâce aux stimulations sensorielles comme le vent et les paysages."
+          },
+          {
+            "question": "Écouter de la musique en courant nuit-il à la récupération cérébrale ?",
+            "answer": "La musique avec des paroles ou des rythmes intenses force le cortex préfrontal à filtrer et analyser les informations auditives, empêchant un repos complet. Écouter les sons de la nature ou se concentrer uniquement sur sa respiration sans musique est la clé pour activer le DMN."
+          }
+        ]
+      },
+      "de": {
+        "title": "Ein Rennen zum Zurücksetzen eines Genie-Gehirns? Alan Turings Laufroutine",
+        "description": "Alan Turing, der Vater der Informatik, der den Enigma-Code knackte. Erfahren Sie mehr über seine Laufgewohnheit, täglich 16 km zu laufen, um Überlastung abzubauen und Nervenzellen zu aktivieren.",
+        "authority": "Historische Biografien und autobiografische Aufzeichnungen über Alan Turing & kognitive Neurowissenschaften",
+        "intro": "\"Für mich ist das Laufen die schönste Zeit, um meinen Geist von Komplexität zu befreien und in reine Gedanken einzutauchen.\" 🏃‍♂️\n\nAlan Turing (1912–1954), der geniale britische Mathematiker, der im Zweiten Weltkrieg den Enigma-Code knackte und die Grundlagen der Informatik legte, litt unter ständiger Gehirnüberlastung. Unter diesem enormen intellektuellen Druck war das Marathonlaufen sein Geheimnis, um sein mentales Gleichgewicht zu bewahren und kreative Ideen zu entwickeln.\n\nTuring behielt eine strenge Langstreckenlauf-Routine von täglich über 10 Meilen (ca. 16 km) bei. Er war ein Eliteläufer, der bei den britischen Olympia-Ausscheidungen 1948 mit 2 Stunden, 46 Minuten und 3 Sekunden den 5. Platz belegte. Für Turing war das Laufen nicht nur Sport, sondern ein essenzieller Pfad der Kontemplation, der die kognitive Aktivität pausierte und das Gehirn reinigte.\n\nIm heutigen Beitrag untersuchen wir die neurowissenschaftlichen Mechanismen von Alan Turings Laufroutine und bieten eine 30-minütige Anleitung zur intellektuellen Anregung.",
+        "whyTitle": "Aerobes Training zur Förderung der Neurogenese und kognitiven Erfrischung",
+        "whyDesc": "Regelmäßiges aerobes Laufen fördert die Synthese des <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong>, einer entscheidenden Substanz für die Gehirngesundheit. BDNF fördert die Bildung neuer Neuronen im Hippocampus und erweitert den Arbeitsgedächtnisraum.\n\nBeim Laufen geht der Präfrontalkortex in einen Ruhezustand über, wodurch das <strong>Default Mode Network (DMN)</strong> stimuliert wird, das unterbewusste Ressourcen nutzt. Dadurch schießen ungelöste Probleme oder kreative Ideen direkt nach dem Lauf plötzlich als Geistesblitz ein.",
+        "cautionTitle": "Tempokontrolle zur Auffrischung der Aufmerksamkeit",
+        "cautionDesc": "Tempokontrolle ist beim Laufen zur Gehirnerfrischung entscheidend. Wenn Sie zu hart laufen und die anaerobe Schwelle erreichen, verwendet das Gehirn alle Ressourcen für das körperliche Überleben, was das DMN behindert. Ein gleichmäßiges Tempo, bei dem eine leichte Unterhaltung möglich ist, ist am effektivsten.",
+        "steps": [
+          {
+            "title": "Schritt 1: Digitale Trennung und Laufbeginn",
+            "desc": "Beginnen Sie zu laufen, ohne Musik oder Podcasts zu hören. Stecken Sie Ihr Smartphone in die Tasche oder schalten Sie es stumm, um digitale Reize auszublenden."
+          },
+          {
+            "title": "Schritt 2: Beibehaltung eines gleichmäßigen Gesprächstempos",
+            "desc": "Laufen Sie 30 Minuten lang in einem gleichmäßigen Tempo (Herzfrequenzzone 2), bei dem Sie leicht außer Atem sind, sich aber noch unterhalten können."
+          },
+          {
+            "title": "Schritt 3: Abkühlen nach dem Lauf und analoge Notizen",
+            "desc": "Kühlen Sie sich nach dem Lauf mit leichtem Dehnen ab und schreiben Sie Ideen oder Lösungen, die aufgetaucht sind, handschriftlich in ein Notizbuch."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haben Heimtrainer oder Schwimmen denselben Effekt auf das Gehirn wie Laufen?",
+            "answer": "Ja, jedes kontinuierliche aerobe Training, das die Herz-Kreislauf-Funktion anregt und den BDNF-Spiegel erhöht (wie Radfahren oder Schwimmen), bietet ähnliche Vorteile. Das Laufen im Freien maximiert jedoch die DMN-Entspannung durch Sinneseindrücke wie Wind und Natur."
+          },
+          {
+            "question": "Behindert Musik-Hören beim Laufen die Gehirnerholung?",
+            "answer": "Musik mit Texten oder intensiven Beats zwingt den Präfrontalkortex dazu, Töne zu filtern und zu analysieren, was die Gehirnerholung stört. Das Hören von Naturgeräuschen oder die Konzentration auf die Atmung ohne Musik ist der Schlüssel zur Aktivierung des DMN."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Uma corrida para reiniciar a mente de um gênio? A rotina de corrida de Alan Turing",
+        "description": "Alan Turing, o pai da ciência da computação que decifrou o código Enigma. Conheça seu hábito de correr 16 km diariamente para aliviar a sobrecarga cerebral e ativar as células nervosas.",
+        "authority": "Biografias históricas e registros autobiográficos de Alan Turing e pesquisas em Neurociência Cognitiva",
+        "intro": "\"Para mim, correr é o momento mais bonito para esvaziar minha mente complexa e mergulhar no pensamento puro.\" 🏃‍♂️\n\nAlan Turing (1912–1954), o brilhante matemático britânico que decifrou o famoso código Enigma alemão durante a Segunda Guerra Mundial e lançou as bases da ciência da computação, sofria constantemente de sobrecarga cerebral. Em meio a essa imensa pressão intelectual, o segredo que lhe permitiu manter o equilíbrio mental e sustentar ideias criativas foi a 'corrida de maratona'.\n\nTuring mantinha uma rigorosa rotina de corrida de longa distância correndo mais de 10 milhas (aprox. 16 km) todos os dias. Na verdade, ele era um corredor de elite que ficou em 5º lugar na seletiva olímpica britânica de maratona em 1948 com o tempo de 2 horas, 46 minutos e 3 segundos. Para Turing, correr não era mero exercício, mas um caminho essencial de contemplação que pausava a atividade pré-frontal e purificava o cérebro.\n\nNo post de hoje, examinamos os mecanismos neurocientíficos por trás da rotina de corrida de Alan Turing e oferecemos um guia de corrida de 30 minutos para o despertar intelectual.",
+        "whyTitle": "O exercício aeróbico promovendo a neurogênese e a renovação cognitiva",
+        "whyDesc": "A corrida aeróbica diária induz a síntese do <strong>Fator Neurotrófico Derivado do Cérebro (BDNF)</strong>, substância crucial para a saúde cerebral. O BDNF promove a geração de novos neurônios no hipocampo, expandindo a memória de trabalho.\n\nAlém disso, ao correr, o córtex pré-frontal entra em repouso temporário, estimulando a <strong>Rede de Modo Padrão (DMN)</strong>. Graças a isso, cálculos complexos ou ideias criativas surgem subitamente e se ativam logo após a corrida.",
+        "cautionTitle": "Controle de ritmo para renovação da atenção",
+        "cautionDesc": "O controle do ritmo é vital ao correr para renovar o cérebro. Se você correr com muita intensidade e atingir o limiar anaeróbico, o cérebro destina todos os recursos à sobrevivência física, prejudicando a contemplação e a ativação da DMN. Correr em um ritmo constante que permita uma conversa leve é o mais eficaz.",
+        "steps": [
+          {
+            "title": "Passo 1: Desconexão digital e início da corrida",
+            "desc": "Comece a correr sem reproduzir música ou podcasts, colocando o smartphone no bolso ou no modo 'Não perturbe' para bloquear estímulos digitais."
+          },
+          {
+            "title": "Passo 2: Manutenção de um ritmo constante e conversacional",
+            "desc": "Corra de forma constante por 30 minutos em um ritmo (Zona de frequência cardíaca 2) onde sua respiração esteja levemente acelerada, mas ainda permita conversar."
+          },
+          {
+            "title": "Passo 3: Desaquecimento pós-corrida e anotações analógicas",
+            "desc": "Após correr, faça alongamentos leves e exercícios de respiração para desaquecer o corpo e anote à mão em um caderno as ideias ou soluções que surgiram."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pedalar na bicicleta ergométrica ou nadar produz o mesmo efeito de renovação cerebral que correr?",
+            "answer": "Sim, qualquer exercício aeróbico contínuo que envolva a função cardiopulmonar e eleve os níveis de BDNF, como pedalar ou nadar, oferece benefícios semelhantes. No entanto, correr ao ar livre maximiza o relaxamento da DMN quando estímulos sensoriais como vento e paisagens chegam ao cérebro."
+          },
+          {
+            "question": "Ouvir música enquanto corre prejudica a recuperação cerebral?",
+            "answer": "Músicas com letras ou ritmos intensos forçam o córtex pré-frontal a filtrar e analisar informações auditivas, impedindo o descanso cerebral completo. Ouvir sons naturais ou concentrar-se apenas na respiração sem música é o segredo para ativar totalmente a DMN e recarregar a atenção."
+          }
+        ]
+      },
+      "id": {
+        "title": "Lari untuk Mereset Otak Genius? Rutinitas Lari Alan Turing",
+        "description": "Alan Turing, bapak ilmu komputer yang memecahkan kode Enigma. Pelajari kebiasaan larinya sejauh 16 km setiap hari untuk meredakan beban berlebih otak dan mengaktifkan sel saraf, beserta latar belakang ilmiahnya.",
+        "authority": "Biografi historis dan catatan autobiografi Alan Turing & penelitian Neurosains Kognitif",
+        "intro": "\"Bagi saya, berlari adalah waktu paling indah untuk membersihkan pikiran saya yang rumit dan menyelami pemikiran murni.\" 🏃‍♂️\n\nAlan Turing (1912–1954), matematikawan genius Inggris yang memecahkan kode Enigma Jerman selama Perang Dunia II dan meletakkan fondasi ilmu komputer, selalu menderita beban berlebih otak karena kalkulasi rumit. Di tengah tekanan intelektual yang luar biasa, rahasia yang memungkinkannya mempertahankan keseimbangan mental dan memicu ide-ide kreatif adalah 'lari maraton'.\n\nTuring mempertahankan rutinitas lari jarak jauh yang ketat dengan berlari lebih dari 10 mil (sekitar 16 km) setiap hari. Faktanya, ia adalah pelari elit yang meraih peringkat ke-5 dalam kualifikasi maraton Olimpiade Inggris 1948 dengan catatan waktu 2 jam, 46 menit, dan 3 detik. Bagi Turing, berlari bukan sekadar olahraga, melainkan sarana kontemplasi penting yang mengistirahatkan aktivitas kognitif prefrontal dan menyucikan otak.\n\nDalam postingan hari ini, kami meneliti mekanisme neurosains di balik rutinitas lari Alan Turing dan memberikan panduan lari 30 menit untuk pencerahan intelektual.",
+        "whyTitle": "Olahraga Aerobik Memicu Neurogenesis dan Penyegaran Kognitif",
+        "whyDesc": "Lari aerobik harian yang konsisten menginduksi sintesis <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong>, zat krusial untuk kesehatan otak. BDNF memicu pembentukan neuron baru di hipokampus, memperluas ruang memori kerja kognitif.\n\nSelain itu, saat berlari, korteks prefrontal mengistirahatkan kontrol kognitif, merangsang <strong>Default Mode Network (DMN)</strong> yang memanfaatkan sumber daya bawah sadar. Berkat fenomena ini, kalkulasi rumit atau ide kreatif yang macet mendadak terpecahkan tepat setelah selesai berlari.",
+        "cautionTitle": "Kontrol Kecepatan Lari untuk Menyegarkan Perhatian",
+        "cautionDesc": "Kontrol kecepatan sangat penting saat berlari untuk menyegarkan otak. Jika Anda berlari terlalu kencang hingga mencapai ambang anaerobik, otak akan mencurahkan seluruh sumber daya hanya untuk bertahan hidup, yang mengganggu kontemplasi dan aktivasi DMN. Berlari secara stabil pada kecepatan di mana percakapan ringan masih memungkinkan adalah yang paling efektif.",
+        "steps": [
+          {
+            "title": "Langkah 1: Pemutusan Digital dan Memulai Lari",
+            "desc": "Mulailah berlari tanpa memutar musik atau podcast, masukkan smartphone ke saku atau atur ke mode Do Not Disturb untuk memblokir total stimulasi digital."
+          },
+          {
+            "title": "Langkah 2: Mempertahankan Kecepatan Stabil yang Memungkinkan Percakapan",
+            "desc": "Berlarilah secara konsisten selama 30 menit pada kecepatan stabil (Zona Detak Jantung 2) di mana napas sedikit terengah-engah namun masih bisa mengobrol santai."
+          },
+          {
+            "title": "Langkah 3: Pendinginan Pasca-Lari dan Pencatatan Analog Ide-Ide",
+            "desc": "Setelah berlari, lakukan pendinginan dengan peregangan ringan dan olah napas, lalu catatlah pikiran atau solusi yang muncul dari bawah sadar Anda ke dalam buku catatan kertas secara tulisan tangan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah bersepeda statis atau berenang memberikan efek penyegaran otak yang sama seperti berlari?",
+            "answer": "Ya, olahraga aerobik berkelanjutan yang melibatkan fungsi kardiopulmoner dan meningkatkan kadar BDNF, seperti bersepeda atau berenang, memberikan manfaat pemulihan kognitif yang serupa. Namun, lari di luar ruangan memaksimalkan relaksasi DMN saat stimulasi sensorik seperti angin dan pemandangan alam tersampaikan ke otak."
+          },
+          {
+            "question": "Apakah mendengarkan musik saat berlari mengganggu pemulihan otak?",
+            "answer": "Musik dengan lirik atau ritme kencang memaksa korteks prefrontal menyaring dan menganalisis informasi suara, yang mengganggu istirahat otak secara total. Mendengarkan suara alam atau berfokus hanya pada pernapasan tanpa musik adalah kunci untuk mengaktifkan DMN secara sempurna dan mengisi ulang perhatian."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "러닝 대신 실내 고정 자전거나 수영을 해도 뇌 환기 효과는 동일한가요?",
-          "en": "Does stationary cycling or swimming produce the same brain refresh effect as running?",
-          "ja": "ランニングの代わりにエアロバイクや水泳を行っても脳のリフレッシュ効果は同じですか？",
-          "zh": "用室内健身车或游泳代替跑步，清脑效果是否相同？",
-          "es": "¿El ciclismo estático o la natación producen el mismo efecto de renovación cerebral que correr?",
-          "de": "Haben Heimtrainer oder Schwimmen denselben Effekt auf das Gehirn wie Laufen?",
-          "fr": "Le vélo d'intérieur ou la natation produisent-ils le même effet de rafraîchissement que la course ?",
-          "pt": "Pedalar na bicicleta ergométrica ou nadar produz o mesmo efeito de renovação cerebral que correr?",
-          "id": "Apakah bersepeda statis atau berenang memberikan efek penyegaran otak yang sama seperti berlari?"
-        },
-        "answer": {
-          "ko": "네, 심폐 기능이 개입되어 BDNF 수치를 높일 수 있는 지속적인 유산소 운동이라면 자전거나 수영도 유사한 인지 회복 효과를 제공합니다. 다만, 야외 러닝처럼 자연 경관과 바람 등의 오감 자극이 뇌로 전달될 때 기본 모드 네트워크(DMN)의 이완 및 아이디어 활성화 효과가 극대화됩니다.",
-          "en": "Yes, any continuous aerobic exercise that engages cardiopulmonary function and raises BDNF levels, such as cycling or swimming, provides similar cognitive recovery benefits. However, outdoor running maximizes the relaxation and idea activation of the Default Mode Network (DMN) when sensory stimuli like wind and natural scenery reach the brain.",
-          "ja": "はい、心肺機能が介入しBDNFの値を高めることができる持続的な有酸素運動であれば、自転車や水泳も同様の認知回復効果を提供します。ただし、屋外ランニングのように自然の景色や風などの五感刺激が脳に伝わる時、デフォルト・モード・ネットワーク（DMN）のリラックスおよびアイデア活性化効果が極大化されます。",
-          "zh": "是的，只要是能够带动心肺功能、提高BDNF水平的持续性有氧运动，骑行或游泳也能提供类似的认知恢复效果。然而，像户外跑步那样将自然风景与微风等五感刺激传递至大脑时，默认模式网络（DMN）的放松与创意激活效果才最为理想。",
-          "es": "Sí, cualquier ejercicio aeróbico continuo que involucre la función cardiopulmonar y eleve los niveles de BDNF, como el ciclismo o la natación, ofrece beneficios de recuperación cognitiva similares. Sin embargo, correr al aire libre maximiza la relajación de la DMN cuando estímulos sensoriales como el viento y los paisajes llegan al cerebro.",
-          "de": "Ja, jedes kontinuierliche aerobe Training, das die Herz-Kreislauf-Funktion anregt und den BDNF-Spiegel erhöht (wie Radfahren oder Schwimmen), bietet ähnliche Vorteile. Das Laufen im Freien maximiert jedoch die DMN-Entspannung durch Sinneseindrücke wie Wind und Natur.",
-          "fr": "Oui, tout exercice aérobique continu stimulant la fonction cardio-pulmonaire et augmentant le niveau de BDNF (comme le vélo ou la natation) offre des bénéfices similaires. Cependant, la course en plein air maximise la relaxation du DMN grâce aux stimulations sensorielles comme le vent et les paysages.",
-          "pt": "Sim, qualquer exercício aeróbico contínuo que envolva a função cardiopulmonar e eleve os níveis de BDNF, como pedalar ou nadar, oferece benefícios semelhantes. No entanto, correr ao ar livre maximiza o relaxamento da DMN quando estímulos sensoriais como vento e paisagens chegam ao cérebro.",
-          "id": "Ya, olahraga aerobik berkelanjutan yang melibatkan fungsi kardiopulmoner dan meningkatkan kadar BDNF, seperti bersepeda atau berenang, memberikan manfaat pemulihan kognitif yang serupa. Namun, lari di luar ruangan memaksimalkan relaksasi DMN saat stimulasi sensorik seperti angin dan pemandangan alam tersampaikan ke otak."
-        }
-      },
-      {
-        "question": {
-          "ko": "달리는 동안 음악을 들으면 뇌 회복에 방해가 되나요?",
-          "en": "Does listening to music while running hinder brain recovery?",
-          "ja": "走っている間に音楽を聴くと脳の回復の妨げになりますか？",
-          "zh": "跑步时听音乐会妨碍大脑恢复吗？",
-          "es": "¿Escuchar música mientras se corre dificulta la recuperación cerebral?",
-          "de": "Behindert Musik-Hören beim Laufen die Gehirnerholung?",
-          "fr": "Écouter de la musique en courant nuit-il à la récupération cérébrale ?",
-          "pt": "Ouvir música enquanto corre prejudica a recuperação cerebral?",
-          "id": "Apakah mendengarkan musik saat berlari mengganggu pemulihan otak?"
-        },
-        "answer": {
-          "ko": "가사나 격렬한 비트가 있는 음악은 전두엽이 소리 정보를 청각적으로 여과하고 분석하게 하여 뇌의 완전한 휴식을 방해합니다. 자연의 소리를 그대로 듣거나 음악 없이 호흡에만 집중하는 것이 DMN을 가장 온전하게 활성화하고 주의력을 재충전하는 비결입니다.",
-          "en": "Music with lyrics or intense beats forces the prefrontal cortex to auditorily filter and process information, preventing complete brain rest. Listening to natural ambient sounds or focusing solely on your breathing without music is the key to fully activating the DMN and recharging attention.",
-          "ja": "歌詞や激しいビートのある音楽は、前頭葉に音情報を聴覚的にろ過・分析させるため、脳の完全な休養を妨げます。自然の音をそのまま聴くか、音楽なしで呼吸だけに集中することが、DMNを最も健やかに活性化し注意力を再充電する秘密です。",
-          "zh": "带有歌词或剧烈节奏的音乐迫使前额叶去听觉过滤与分析声音信息，从而打扰大脑的彻底休息。聆听自然原音或在无音乐状态下仅专注于呼吸，才是最完整激活DMN并充能注意力的秘诀。",
-          "es": "La música con letra o ritmos intensos obliga a la corteza prefrontal a filtrar y analizar la información auditiva, lo que impide el descanso cerebral completo. Escuchar sonidos naturales o concentrarse solo en la respiración sin música es la clave para activar plenamente la DMN y recargar la atención.",
-          "de": "Musik mit Texten oder intensiven Beats zwingt den Präfrontalkortex dazu, Töne zu filtern und zu analysieren, was die Gehirnerholung stört. Das Hören von Naturgeräuschen oder die Konzentration auf die Atmung ohne Musik ist der Schlüssel zur Aktivierung des DMN.",
-          "fr": "La musique avec des paroles ou des rythmes intenses force le cortex préfrontal à filtrer et analyser les informations auditives, empêchant un repos complet. Écouter les sons de la nature ou se concentrer uniquement sur sa respiration sans musique est la clé pour activer le DMN.",
-          "pt": "Músicas com letras ou ritmos intensos forçam o córtex pré-frontal a filtrar e analisar informações auditivas, impedindo o descanso cerebral completo. Ouvir sons naturais ou concentrar-se apenas na respiração sem música é o segredo para ativar totalmente a DMN e recarregar a atenção.",
-          "id": "Musik dengan lirik atau ritme kencang memaksa korteks prefrontal menyaring dan menganalisis informasi suara, yang mengganggu istirahat otak secara total. Mendengarkan suara alam atau berfokus hanya pada pernapasan tanpa musik adalah kunci untuk mengaktifkan DMN secara sempurna dan mengisi ulang perhatian."
-        }
-      }
-    ]
+    }
   }
 }

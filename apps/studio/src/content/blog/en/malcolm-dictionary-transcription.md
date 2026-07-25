@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Copying the Entire Dictionary? Malcolm X's Brain-Reboot Transcription Routine"
 description: "Malcolm X achieved a dramatic cognitive leap. Discover his intense transcription habit of copying a dictionary word for word in prison to unlock intellectual enlightenment, and examine how handwriting shapes neural networks."
 pubDate: "2026-07-03"
@@ -36,14 +37,14 @@ In this post, we explore the neuroscientific mechanisms behind Malcolm X's dicti
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding malcolm-dictionary-transcription is based on <strong>Historical biographies, autobiographical records of Malcolm X & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies, autobiographical records of Malcolm X & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Neurological Power of Handwriting in Solidifying Brain Connections
+## 1. The Neurological Power of Handwriting in Solidifying Brain Connections
 
 When reading text visually, only the visual cortex is partially activated; however, writing notes by hand opens entirely different cognitive pathways. The fine motor movements involved in holding and guiding a pen stimulate the <strong>Motor Cortex</strong> and sensory integration areas broadly.
 
@@ -51,9 +52,7 @@ According to neuroscientific research, handwriting continuously stimulates the <
 
 ---
 
-## The Tip of Your Pen Restores Attention
-
-Modern individuals consume information predominantly via keyboards or touchscreens, depriving the brain of physical stimulation and lowering conversion into long-term memory. Spending just 20 minutes a day completely offline, holding an analog pen, and transcribing meaningful passages or vocabulary onto paper—like Malcolm X—restores attention and fosters intellectual growth.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Modern individuals consume information predominantly via keyboards or touchscree
   </p>
 </div>
 
+---
+
+## 3. The Tip of Your Pen Restores Attention
+
+Modern individuals consume information predominantly via keyboards or touchscreens, depriving the brain of physical stimulation and lowering conversion into long-term memory. Spending just 20 minutes a day completely offline, holding an analog pen, and transcribing meaningful passages or vocabulary onto paper—like Malcolm X—restores attention and fosters intellectual growth.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does typing transcription on a computer or tablet yield the same effect?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Modern individuals consume information predominantly via keyboards or touchscree
       No, the effect is significantly different. Typing involves light, repetitive button presses, resulting in simplified sensory input to the motor cortex. Conversely, holding a pen and sculpting every line stroke by stroke engages complex associative regions across the brain, making handwriting incomparably superior for memory imprint and focus retention.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Do I need to worry about handwriting neatness or penmanship?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Imersão Geométrica de Blaise Pascal: Como Apagar a Dor e o Estresse do Cérebro com Tarefas de Alta Dificuldade"
 description: "Explore o fato histórico do gênio do século XVII Blaise Pascal superando dores de dente e cabeça intensas através da imersão matemática profunda e o princípio científico do Controle de Porta Atencional."
 pubDate: "2026-06-06"
@@ -35,25 +36,23 @@ Em uma noite de 1658, quando uma dor de dente excruciante o atingiu novamente, P
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre pascal-math-focus é baseada em <strong>Pesquisa de Registros Biográficos e Históricos de Pascal Math Focus & Estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de Registros Biográficos e Históricos de Pascal Math Focus & Estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## A Razão Científica Pela Qual a Imersão Cognitiva de Alta Dificuldade Compensa o Desconforto Físico e Mental
+## 1. A Razão Científica Pela Qual a Imersão Cognitiva de Alta Dificuldade Compensa o Desconforto Físico e Mental
 
 A neurociência moderna explica isso através da 'Teoria do Controle de Porta Atencional'. Quando o córtex pré-frontal humano está 100% engajado em uma tarefa cognitiva de alta dificuldade, a rede neural do tálamo bloqueia ativamente os sinais sensoriais de dor e estresse de nível inferior.
 
 ---
 
-## Precauções da Imersão de Pascal e Dicas de Neurociência
-
-Quando pensamentos dispersos ou estresse surgirem, não tente reprimi-los à força. Mude imediatamente para um questionário ou tarefa de leitura de alta dificuldade que utilize 100% da sua memória de trabalho, ativando a válvula de bloqueio sensorial do seu cérebro por 15 a 20 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Quando pensamentos dispersos ou estresse surgirem, não tente reprimi-los à for
   </p>
 </div>
 
+---
+
+## 3. Precauções da Imersão de Pascal e Dicas de Neurociência
+
+Quando pensamentos dispersos ou estresse surgirem, não tente reprimi-los à força. Mude imediatamente para um questionário ou tarefa de leitura de alta dificuldade que utilize 100% da sua memória de trabalho, ativando a válvula de bloqueio sensorial do seu cérebro por 15 a 20 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Este método também é eficaz para o estresse do trabalho diário ou ansiedade?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Quando pensamentos dispersos ou estresse surgirem, não tente reprimi-los à for
       Sim, é. O mecanismo de controle do tálamo bloqueia não apenas a dor física, mas também a ansiedade psicológica e os sinais de estresse exatamente da mesma maneira.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Por quanto tempo um sprint de imersão de alta dificuldade deve ser mantido?</span>

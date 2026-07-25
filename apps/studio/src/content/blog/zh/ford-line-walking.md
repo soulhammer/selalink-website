@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "漫步生产线勾勒创新的汽车之王：亨利·福特的流程图解描绘法与认知外置习惯"
 description: "探索移动流水线先驱亨利·福特如何通过巡视工厂车间、捕捉机械律动并在口袋手记中绘制流程图解来减轻前额叶负荷。揭示平滑视觉追踪与认知外置的神经科学原理。"
 pubDate: "2026-06-23"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 ford-line-walking 的内容基于 <strong>亨利·福特自传《我的生活与工作（My Life and Work）》与历史传记考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>亨利·福特自传《我的生活与工作（My Life and Work）》与历史传记考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 平滑视觉追踪（Smooth Pursuit）与认知外置（Cognitive Offloading）
+## 1. 平滑视觉追踪（Smooth Pursuit）与认知外置（Cognitive Offloading）
 
 平缓追随流水线上依既定轨迹律动的<strong>整齐机械运作（Smooth Pursuit）</strong>，能使大脑视觉皮层与小脑的运动时序控制区域达成高度同步，平息神经杂音并凝定专注力。此外，将原本仅在大脑内部盘算推演的复杂逻辑流程，借由手绘箭头与几何图块进行可视化呈现（空间图解 Spatial Sketching），能产生极强的<strong>认知外置（Cognitive Offloading）</strong>效应。将工作记忆负荷卸载至纸张物理空间中，可妥善保护前额叶的执行记忆容量，促成更加清晰睿智且具创造性的决策。
 
 ---
 
-## 注意事项：拉满指尖摩擦力反馈与物理专注的模拟手作准则
-
-在转译构思时若依赖手机或平板电脑等数字触控屏，弹窗提醒与屏幕蓝光散漫极易扰乱大脑专注。尤为关键的是，光滑无阻的玻璃镜面缺乏实体摩擦阻力，会使大脑体感皮层接收到的触觉刺激削减50%以上。因此，宜使用铅笔在带有质感的纸质手册上按压书写，将指尖感受到的物理摩擦阻力化为实时认知反馈，大脑方能最为清晰地抓牢流程图解。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：拉满指尖摩擦力反馈与物理专注的模拟手作准则
+
+在转译构思时若依赖手机或平板电脑等数字触控屏，弹窗提醒与屏幕蓝光散漫极易扰乱大脑专注。尤为关键的是，光滑无阻的玻璃镜面缺乏实体摩擦阻力，会使大脑体感皮层接收到的触觉刺激削减50%以上。因此，宜使用铅笔在带有质感的纸质手册上按压书写，将指尖感受到的物理摩擦阻力化为实时认知反馈，大脑方能最为清晰地抓牢流程图解。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>可用iPad或智能手机配合触控笔替代纸质手记吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       数字屏幕触感过于光滑，会导致指尖向大脑传导的体感摩擦反馈极度衰减，且易受各类消息弹窗干扰。纸张所赋予的物理笔尖摩擦阻力能更深层次地刺激大脑皮层，促成更高质量的认知外置。因此强烈推荐采用实体纸张与手记。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若不步履踱步、静坐于案头绘制流程图，效果会打折吗？</span>

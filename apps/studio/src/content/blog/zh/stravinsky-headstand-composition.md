@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "倒立的灵感：斯特拉文斯基的倒立创意法"
 description: "每当作曲遇到瓶颈时，音乐家伊戈尔·斯特拉文斯基都会倒立。探索改变物理姿势如何增加大脑血流量并创造创意突破的科学原理。"
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 stravinsky-headstand-composition 的内容基于 <strong>Igor Stravinsky 史实自传与音乐评传考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>Igor Stravinsky 史实自传与音乐评传考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 倒立重置大脑血流量与前庭感觉的原理
+## 1. 倒立重置大脑血流量与前庭感觉的原理
 
 当大脑卡在一个念头中时，垂直颠倒身体姿势会引发两个大脑科学的变化：首先，在重力作用下，血液流向头部，为前额叶提供即刻的氧气与营养供给。其次，内耳的前庭器官感知到不寻常的重力信号，强烈唤醒小脑和大脑皮层的空间定向神经网络。这打破了原本僵化的注意力过滤网，从而引导出富有创意的联想。
 
 ---
 
-## 注意事项与技巧
-
-如果您有颈椎或血压问题，请用温和的半倒立（如将腿靠在墙上或椅子上）代替完全倒立。控制在1分钟以内，以便大脑血压适应；结束后不要立即站起，保持俯卧姿势30秒后再慢慢恢复。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     小心放下双脚，不要立即站立，俯卧休息30秒；然后坐在椅子上，专注于头脑变清醒、思维发生转变的感觉。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与技巧
+
+如果您有颈椎或血压问题，请用温和的半倒立（如将腿靠在墙上或椅子上）代替完全倒立。控制在1分钟以内，以便大脑血压适应；结束后不要立即站起，保持俯卧姿势30秒后再慢慢恢复。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

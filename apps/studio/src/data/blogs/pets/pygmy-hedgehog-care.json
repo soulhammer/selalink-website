@@ -507,6 +507,10 @@
           "소동물동면예방"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/pygmy_hedgehog_care.png"
   }
 }

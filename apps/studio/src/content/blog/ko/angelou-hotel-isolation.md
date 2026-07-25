@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "몰입을 위한 환경 차단: 마야 안젤루의 호텔 격리 습관"
 description: "전설적인 시인이자 활성가 마야 안젤루는 집중력을 극대화하기 위해 자극이 없는 빈 호텔 방에서만 글을 썼습니다. 환경 자극 통제의 뇌과학적 원리를 살펴봅니다."
 pubDate: "2026-03-21"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>마야 안젤루 자서전 기록 & 메이슨 커리 『리추얼(Daily Rituals)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 angelou-hotel-isolation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>마야 안젤루 자서전 기록 & 메이슨 커리 『리추얼(Daily Rituals)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 시각 자극 통제와 전두엽 인지 에너지 보존
+## 1. 시각 자극 통제와 전두엽 인지 에너지 보존
 
 인간의 뇌는 명확한 의식이 없어도 주위 환경의 시각적, 청각적 자극을 끊임없이 스캔하며 인지 에너지를 소비합니다. 전용의 미니멀한 격리 공간을 확보하면 환경 자극을 획기적으로 줄이고 전두엽 전용 에너지를 작업 몰입에 온전히 보존할 수 있습니다.
 
 ---
 
-## 성공적인 환경 몰입 습관을 위한 뇌과학적 조언
-
-의지력만으로 주의 산만 요소를 이겨내기는 어렵습니다. 진정한 몰입은 유혹이 발 붙일 수 없는 물리적 공간 환경을 미리 설계하는 것에서 나옵니다. 책상을 정리하고 전자기기를 격리하여 뇌가 몰입할 수밖에 없는 환경을 만드세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     몰입 구역에 진입하고 벗어나는 시간을 명확히 정하세요. 설정한 집필 또는 작업 시간이 종료되면 완전히 자리에서 일어나 업무와 휴식 사이의 심리적 경계선을 만듭니다.
   </p>
 </div>
+
+---
+
+## 3. 성공적인 환경 몰입 습관을 위한 뇌과학적 조언
+
+의지력만으로 주의 산만 요소를 이겨내기는 어렵습니다. 진정한 몰입은 유혹이 발 붙일 수 없는 물리적 공간 환경을 미리 설계하는 것에서 나옵니다. 책상을 정리하고 전자기기를 격리하여 뇌가 몰입할 수밖에 없는 환경을 만드세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

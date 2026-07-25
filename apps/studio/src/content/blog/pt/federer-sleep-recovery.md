@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Imperador que Venceu Dezenas de Troféus Dormindo 12 Horas por Dia: A Rotina de Recuperação de Sono e Limpeza Cerebral de Roger Federer"
 description: "Descubra o segredo de Roger Federer para manter o alto desempenho até os 40 anos: dormir de 10 a 12 horas por dia. Explore a neurociência do sistema glinfático, o sono REM e um guia prático de 3 passos."
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência por trás da rotina de '12 horas d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre federer-sleep-recovery é baseada em <strong>Verificação Histórica da Biografia de Chris Bowers *Roger Federer: The Greatest*, Arquivos Oficiais da ATP e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Chris Bowers *Roger Federer: The Greatest*, Arquivos Oficiais da ATP e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Limpeza Cerebral Glinfática e Mecanismos de Neuroplasticidade do Sono REM
+## 1. Limpeza Cerebral Glinfática e Mecanismos de Neuroplasticidade do Sono REM
 
 Durante o sono profundo, o <strong>Sistema Glinfático</strong> do cérebro se ativa, eliminando resíduos neurotóxicos como a beta-amiloide acumulados durante o dia. Além disso, o <strong>sono REM</strong> impulsiona a neuroplasticidade, consolidando sequências motoras complexas e a agilidade cognitiva. Garantir um descanso prolongado reduz o cortisol e maximiza o hormônio do crescimento, restaurando músculos e foco.
 
 ---
 
-## Precaução: Cuidado com a Ilusão de Sacrificar o Sono Confiando na Força de Vontade
-
-Trabalhar privado de sono causa falhas de julgamento equivalentes a dirigir embriagado. Como destacava Federer, o rendimento máximo não vem de suportar o cansaço, mas da clareza mental proporcionada por uma recuperação profunda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Trabalhar privado de sono causa falhas de julgamento equivalentes a dirigir embr
   </p>
 </div>
 
+---
+
+## 3. Precaução: Cuidado com a Ilusão de Sacrificar o Sono Confiando na Força de Vontade
+
+Trabalhar privado de sono causa falhas de julgamento equivalentes a dirigir embriagado. Como destacava Federer, o rendimento máximo não vem de suportar o cansaço, mas da clareza mental proporcionada por uma recuperação profunda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que devo fazer se sofrer de insônia e tiver dificuldade para adormecer?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Trabalhar privado de sono causa falhas de julgamento equivalentes a dirigir embr
       Não se force a dormir. Se continuar acordado após 20 minutos, aplique a Terapia de Controle de Estímulos: levante-se, vá para um ambiente com luz fraca, leia um livro e volte à cama apenas quando sentir sono.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Por que me sinto tonto e pesado depois de uma soneca?</span>

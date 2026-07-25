@@ -21,6 +21,7 @@ faqs:
     answer: "いいえ、生鶏肉の表面のカンピロバクター等の食中毒菌は、水洗い時にシンク周辺の食器や食材に飛び散り、深刻な二次汚染を引き起こします。加熱調理することで菌は死滅します。"
   - question: "鶏肉はなぜ豚肉や牛肉より保存期間が短いのですか？"
     answer: "鶏肉は水分含有量が高く、組織が柔らかいため、細菌の増殖が非常に早いです。冷蔵保存時は必ず2日以内に調理し、長期保存は冷凍してください。"
+
 ---
 
 生鶏肉を水で洗うと、食中毒菌がキッチンのいたる所に飛び散って危険です。本日、FreshSnapでは米国疾病予防管理センター（CDC）などの公式ガイドラインに基づく安全な鶏肉の保存方法をご紹介します。
@@ -29,10 +30,10 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      公認の科学的保管基準
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>.
+      Based on official storage standards. <strong>米国農務省(USDA) & 食品医薬品安全処(MFDS) & CDC</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">水で洗うのは絶対に避ける — シンクの二次汚染防止 ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">二重に密閉して保存し、冷蔵庫の最下段に置く — 冷蔵保存 (2日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">塩と料理酒で軽く下味をつけて保存 — 冷凍保存 (90日間) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

@@ -1,0 +1,454 @@
+{
+  "how-to-store-carrot": {
+    "ingId": "carrot",
+    "pubDate": "2026-01-01",
+    "updatedDate": "2026-01-01",
+    "heroImage": "/images/blog/carrot_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "당근 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 당근의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>RDA & USDA</strong>",
+        "intro": "흙 묻은 당근을 씻어서 그대로 보관했다가 물러서 버린 적 있으시죠? 오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 검증된 연구를 기반으로, 당근의 쓴맛 방지 대책과 아삭함을 3주 이상 살려두는 보관법을 전합니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "당근",
+          "과학적으로 검증된 보관 가이드",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Isolate carrots from ethylene-producing fruits ⚠️",
+            "desc": "Storing carrots near ethylene-producing fruits like apples or pears turns their starch into isocoumarin, causing a bitter taste."
+          },
+          {
+            "title": "Cut off carrot tops before storing 🥕",
+            "desc": "If green carrot tops are left on, they will draw moisture and nutrients from the root, causing the carrot to dry out quickly."
+          }
+        ],
+        "steps": [
+          {
+            "name": "표면 물기를 완벽하게 건조하기 — 습기 차단 흙당근 건조 📦",
+            "text": "당근은 습기에 매우 취약하여 표면에 물기가 남아있으면 곰팡이가 피거나 썩기 쉽습니다. 흙당근은 씻지 말고 묻어있는 물기만 통풍이 잘되는 그늘에서 가볍게 말린 후 보관해야 보존 기한이 길어집니다."
+          },
+          {
+            "name": "키친타월이나 신문지로 낱개 포장하기 — 수분 균형 유지 📰",
+            "text": "건조된 당근은 신문지나 키친타월로 한 개씩 정성스럽게 감싸줍니다. 신문지는 냉장고 안의 불필요한 습기를 빨아들이는 동시에 당근 자체의 적정 수분이 빠져나가는 것을 막아주는 훌륭한 필터 역할을 합니다."
+          },
+          {
+            "name": "지퍼백에 담아 세워서 냉장 보관하기 — 직립 보관 (21일) ❄️",
+            "text": "포장한 당근은 밀폐 지퍼백에 넣고, 냉장고 야채칸에 '세워서' 보관합니다. 당근은 밭에 심겨 있던 형태 그대로 세워서 보관할 때 자신의 호흡을 원활하게 유지하며 쉽게 무르지 않고 싱싱하게 유지됩니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
+            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+          },
+          {
+            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
+            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Carrot Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Carrot based on official safety guidelines.",
+        "authority": "<strong>RDA & USDA</strong>",
+        "intro": "Have you ever bought a bunch of carrots only to find them turn limp and soft in a few days? Today, FreshSnap shares USDA-verified scientific storage hacks to keep carrots crisp longer.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Carrot",
+          "Scientifically Proven Storage Guide",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Isolate carrots from ethylene-producing fruits ⚠️",
+            "desc": "Storing carrots near ethylene-producing fruits like apples or pears turns their starch into isocoumarin, causing a bitter taste."
+          },
+          {
+            "title": "Cut off carrot tops before storing 🥕",
+            "desc": "If green carrot tops are left on, they will draw moisture and nutrients from the root, causing the carrot to dry out quickly."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Dry surface moisture completely — Prevent rot 📦",
+            "text": "Carrots are highly vulnerable to moisture. If wet, they mold or rot easily. Keep mud-covered carrots unwashed, dry any surface moisture in a well-ventilated shady area before storage to prolong their shelf life."
+          },
+          {
+            "name": "Wrap individually in paper towels or newspaper — Moisture balance 📰",
+            "text": "Wrap each dried carrot in newspaper or paper towels. Newspaper acts as a great filter, absorbing excess moisture in the fridge while preventing the carrot's natural moisture from escaping."
+          },
+          {
+            "name": "Store vertically in a Ziploc bag — Vertical storage (21 Days) ❄️",
+            "text": "Place wrapped carrots in a sealed bag and store them vertically in the crisper drawer. Keeping them in their natural growing position maintains stable respiration and keeps them fresh and crisp."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
+            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+          },
+          {
+            "question": "How should I handle and store bruised or damaged parts?",
+            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+          }
+        ]
+      },
+      "ja": {
+        "title": "人参の鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく人参の最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA)</strong>",
+        "intro": "買ってきたばかりの人参が、数日もしないうちにシナシナになって柔らかくなってしまった経験はありませんか？本日、FreshSnapでは人参の鮮度を長く保つ科学的な保存方法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "人参",
+          "科学的に検証された保存ガイド",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "エチレンガスを出す果物から隔離してください ⚠️",
+            "desc": "りんごや梨などエチレンガスを多く放出する果物と一緒に保管すると、人参の成分が変質し, 苦味の原因になります."
+          },
+          {
+            "title": "保存する前に葉の付け根を切り落としてください 🥕",
+            "desc": "人参の葉が残っていると、保存中に根の水分や栄養を吸い上げてしまい、中身がパサパサになってしまいます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "表面の水分をしっかり乾かす —  カビ防止 📦",
+            "text": "人参は湿気に非常に弱い野菜です。表面に水分が残っているとカビや腐敗の原因になります。土付きの人参は洗わず、付着している湿気だけを風通しの良い日陰で乾かしてから保管しましょう。"
+          },
+          {
+            "name": "新聞紙やキッチンペーパーで1本ずつ包む — 湿度キープ 📰",
+            "text": "乾いた人参を新聞紙やキッチンペーパーで1本ずつ丁寧に包みます. 新聞紙は冷蔵庫内の余分な湿気を吸収しつつ, 人参自体の水分が抜けるのを防ぎます."
+          },
+          {
+            "name": "ジッパーバッグに入れ、立てて冷蔵保存する — 立てて保存 (21日間) ❄️",
+            "text": "包んだ人参をジッパーバッグに入れ、野菜室に立てて保管します。ニンジンが畑で育った本来の向きのまま立てて保存することで, 呼吸活動を安定させ, 新鮮さをより長く保つことができます."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
+            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+          },
+          {
+            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
+            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存胡萝卜：科学储存指南",
+        "description": "根据官方食品安全指南，了解胡萝卜的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA)</strong>",
+        "intro": "您是否曾买了一包胡萝卜，却发现它们在几天内变软变干？今天，FreshSnap为您分享经科学验证的胡萝卜保鲜储存指南。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "胡萝卜",
+          "科学验证的储存指南",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "请与释放乙烯的水果彻底隔离 ⚠️",
+            "desc": "将胡萝卜与苹果、梨等释放乙烯的水果放在一起，会使胡萝卜产生异豆蔻素，从而导致苦味。"
+          },
+          {
+            "title": "储存前请切掉胡萝卜顶部的叶子 🥕",
+            "desc": "如果保留绿色的胡萝卜叶，它们会持续吸收根部的水分和养分，导致胡萝卜变干变空心。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "彻底擦干表面水分 —  防霉防烂 📦",
+            "text": "胡萝卜极易受潮。如果表面残留水分，很容易发霉或腐烂。"
+          },
+          {
+            "name": "用报纸或纸巾单独包裹 — 锁水防潮 📰",
+            "text": "用纸巾包裹胡萝卜以吸收水分。"
+          },
+          {
+            "name": "装入密封袋中竖立冷藏 — 竖立储存 (21天) ❄️",
+            "text": "将胡萝卜竖立存放在冰箱中层。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "把食材放进冰箱前一定要用水洗吗？",
+            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+          },
+          {
+            "question": "碰伤或腐烂的部分应该如何处理和保存？",
+            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Zanahoria fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Zanahoria según las directrices oficiales de seguridad.",
+        "authority": "<strong>RDA & USDA</strong>",
+        "intro": "¿Alguna vez compró zanahorias y descubrió que se ablandaron en pocos días? Hoy, FreshSnap comparte trucos científicos de conservación.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Zanahoria",
+          "Guía de almacenamiento científicamente probada",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Aísle las zanahorias de las frutas que producen etileno ⚠️",
+            "desc": "Almacenar zanahorias cerca de manzanas o peras cambia sus componentes, lo que provoca un sabor amargo."
+          },
+          {
+            "title": "Corte las hojas de la zanahoria antes de guardarla 🥕",
+            "desc": "Si se dejan las hojas verdes, extraerán la humedad y los nutrientes de la raíz, secándola rápidamente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Secar la humedad de la superficie 📦",
+            "text": "Las zanahorias son vulnerables a la humedad. Séquelas bien a la sombra antes de guardarlas."
+          },
+          {
+            "name": "Envolver individualmente 📰",
+            "text": "Envuelva cada zanahoria en papel de cocina para regular la humedad."
+          },
+          {
+            "name": "Almacenar verticalmente ❄️",
+            "text": "Guárdelas de pie en el cajón de verduras para mantener la frescura."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
+            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+          },
+          {
+            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
+            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Carotte frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Carotte selon les directives de sécurité officielles.",
+        "authority": "<strong>RDA & USDA</strong>",
+        "intro": "Avez-vous déjà acheté des carottes pour les voir ramollir en quelques jours ? Aujourd'hui, FreshSnap vous donne des astuces scientifiques pour les garder fraîches.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Carotte",
+          "Guide de conservation scientifiquement prouvé",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Isolez les carottes des fruits produisant de l'éthylène ⚠️",
+            "desc": "Stocker les carottes près de fruits comme les pommes ou les poires modifie leurs composants et donne un goût amer."
+          },
+          {
+            "title": "Coupez les fanes de carotte avant stockage 🥕",
+            "desc": "Si les fanes vertes restent, elles vont puiser l'humidité et les nutriments de la racine, la desséchant rapidement."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sécher l'humidité de surface 📦",
+            "text": "Les carottes sont sensibles à l'humidité. Séchez-les bien à l'ombre avant de les stocker."
+          },
+          {
+            "name": "Envelopper individuellement 📰",
+            "text": "Enveloppez chaque carotte dans du papier absorbant pour réguler l'humidité."
+          },
+          {
+            "name": "Stocker verticalement ❄️",
+            "text": "Conservez-les debout dans le bac à légumes pour maintenir la fraîcheur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
+            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+          },
+          {
+            "question": "Comment gérer et conserver les parties abîmées ?",
+            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Karotte frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Karotte basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>RDA & USDA</strong>",
+        "intro": "Haben Sie schon einmal Karotten gekauft, nur um festzustellen, dass sie nach wenigen Tagen weich wurden? Heute teilt FreshSnap wissenschaftliche Tipps, um sie knackig zu halten.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Karotte",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Karotten von ethylenproduzierenden Früchten isolieren ⚠️",
+            "desc": "Die Lagerung von Karotten in der Nähe von Äpfeln oder Birnen führt zu einem bitteren Geschmack durch chemische Reaktionen."
+          },
+          {
+            "title": "Karottengrün vor dem Lagern abschneiden 🥕",
+            "desc": "Wenn das grüne Karottengrün nicht entfernt wird, entzieht es der Wurzel Feuchtigkeit und Nährstoffe, wodurch sie austrocknet."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Oberflächenfeuchtigkeit trocknen 📦",
+            "text": "Karotten sind feuchtigkeitsempfindlich. Vor dem Lagern gut im Schatten trocknen."
+          },
+          {
+            "name": "Einzeln einwickeln 📰",
+            "text": "Wickeln Sie jede Karotte in Küchenpapier, um die Feuchtigkeit zu regulieren."
+          },
+          {
+            "name": "Aufrecht lagern ❄️",
+            "text": "Lagern Sie sie aufrecht im Gemüsefach, um die Frische zu erhalten."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
+            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+          },
+          {
+            "question": "Wie lagert man beschädigte Stellen?",
+            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Cenoura fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Cenoura com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>RDA & USDA</strong>",
+        "intro": "Você já comprou cenouras e viu que elas murcharam em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação comprovadas.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Cenoura",
+          "Guia de armazenamento comprovado cientificamente",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Isole as cenouras de frutas que produzem etileno ⚠️",
+            "desc": "Armazenar cenouras perto de maçãs ou peras altera seus componentes, causando um sabor amargo."
+          },
+          {
+            "title": "Corte as folhas da cenoura antes de guardar 🥕",
+            "desc": "Se as folhas verdes forem deixadas, elas extrairão umidade e nutrientes da raiz, ressecando-a rapidamente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Secar umidade da superfície 📦",
+            "text": "As cenouras são sensíveis à umidade. Seque-as bem à sombra antes de guardar."
+          },
+          {
+            "name": "Embrulhar individualmente 📰",
+            "text": "Embrulhe cada cenoura em papel-toalha para regular a umidade."
+          },
+          {
+            "name": "Guardar verticalmente ❄️",
+            "text": "Guarde-as de pé na gaveta de legumes para manter o frescor."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
+            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+          },
+          {
+            "question": "Como tratar e guardar partes machucadas?",
+            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Wortel agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Wortel berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>RDA & USDA</strong>",
+        "intro": "Pernahkah Anda membeli wortel yang layu dan lunak dalam beberapa hari? Hari ini FreshSnap membagikan panduan penyimpanan ilmiah.",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Wortel",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Pisahkan wortel dari buah yang menghasilkan etilen ⚠️",
+            "desc": "Menyimpan wortel di dekat buah yang menghasilkan etilen seperti apel atau pir akan membuat wortel terasa pahit."
+          },
+          {
+            "title": "Potong daun wortel sebelum disimpan 🥕",
+            "desc": "Jika daun wortel dibbiarkan, mereka akan menyedot air dan nutrisi dari umbi, membuatnya cepat kering."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Keringkan kelembapan permukaan 📦",
+            "text": "Wortel rentan terhadap kelembapan. Keringkan di tempat teduh sebelum disimpan."
+          },
+          {
+            "name": "Bungkus satu per satu 📰",
+            "text": "Bungkus setiap wortel dengan tisu dapur untuk mengatur kelembapan."
+          },
+          {
+            "name": "Simpan secara tegak ❄️",
+            "text": "Simpan wortel secara tegak di laci sayur agar tetap segar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
+            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+          },
+          {
+            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
+            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+          }
+        ]
+      }
+    }
+  }
+}

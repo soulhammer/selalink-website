@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metode Rendam Kaki Air Dingin Thomas Jefferson: Rutinitas Pembangkit Otak Pagi Hari Selama 60 Tahun dan Regulasi Noradrenalin"
 description: "Pelajari bagaimana Thomas Jefferson, penulis utama Deklarasi Kemerdekaan, membangunkan otaknya selama 60 tahun dengan merendam kakinya dalam air dingin setiap pagi. Temukan neurosains stimulasi sistem saraf otonom, noradrenalin, dan kejernihan prefrontal."
 pubDate: "2026-04-17"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai jefferson-cold-foot-bath didasarkan pada <strong>Verifikasi Historis dari *The Writings of Thomas Jefferson*, Arsip Monticello & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *The Writings of Thomas Jefferson*, Arsip Monticello & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Sistem Saraf Otonom dan Penggugahan Otak Oleh Noradrenalin
+## 1. Stimulasi Sistem Saraf Otonom dan Penggugahan Otak Oleh Noradrenalin
 
 Paparan dingin lokal pada saraf perifer kulit di kaki menstimulasi sirkuit simpatis di dalam <strong>Sistem Saraf Otonom</strong>, memicu locus coeruleus untuk segera menyekresi <strong>Noradrenalin</strong>. Neurotransmiter utama ini meningkatkan gairah kortikal, dengan cepat membersihkan <strong>Brain Fog</strong> pagi hari.
 
 ---
 
-## Perhatian: Protokol Mencegah Lonjakan Tekanan Darah dan Memastikan Penggugahan yang Aman
-
-Stres dingin ekstrem yang tiba-tiba dapat membebani sistem kardiovaskular atau menyebabkan lonjakan tekanan darah sementara. Jika Anda memiliki hipertensi, mulailah dengan air sejuk daripada air es, dan batasi perendaman kaki hingga 2 atau 3 menit untuk memberikan sinyal pembangkitan yang aman.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Stres dingin ekstrem yang tiba-tiba dapat membebani sistem kardiovaskular atau m
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Protokol Mencegah Lonjakan Tekanan Darah dan Memastikan Penggugahan yang Aman
+
+Stres dingin ekstrem yang tiba-tiba dapat membebani sistem kardiovaskular atau menyebabkan lonjakan tekanan darah sementara. Jika Anda memiliki hipertensi, mulailah dengan air sejuk daripada air es, dan batasi perendaman kaki hingga 2 atau 3 menit untuk memberikan sinyal pembangkitan yang aman.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah Thomas Jefferson benar-benar mempraktikkan rendam kaki air dingin ini setiap pagi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Stres dingin ekstrem yang tiba-tiba dapat membebani sistem kardiovaskular atau m
       Ya, tentu saja! Dalam surat pribadi Maret 1819 kepada Dr. Vine Utley, Jefferson secara eksplisit menulis bahwa ia telah merendam kakinya dalam air dingin setiap pagi selama 60 tahun.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah mandi air dingin seluruh tubuh lebih efektif daripada rendam kaki air dingin?</span>

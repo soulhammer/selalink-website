@@ -21,6 +21,7 @@ faqs:
     answer: "不需要。生鸡肉表面的弯曲杆菌等食中毒菌在水洗时会随着溅起的水花扩散到水槽周围的餐具和食材上，造成严重的交叉污染。通过彻底加热烹饪即可杀灭细菌。"
   - question: "为什么鸡肉的保质期比猪肉或牛肉短？"
     answer: "鸡肉的水分含量高且蛋白质结构细嫩，非常容易滋生细菌。冷藏时请务必在 2 天内食用完毕，需长期保存的应立即冷冻。"
+
 ---
 
 用自来水清洗生鸡肉会导致危险的食物中毒细菌扩散到整个厨房。今天，FreshSnap为您分享经美国疾病控制与预防中心(CDC)认可的安全禽肉处理与储存指南。
@@ -29,10 +30,10 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      官方科学验证权威
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本指南严格遵守以下机构公认的食品安全与储存指南： <strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & CDC</strong>.
+      Based on official storage standards. <strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & CDC</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">切勿用水冲洗生鸡肉 — 防止水槽交叉污染 ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用双层袋密封并放在冰箱最下层 — 冷藏储存 (2天) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">步骤 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用盐和料酒轻微腌制冷藏 — 冷冻储存 (90天) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

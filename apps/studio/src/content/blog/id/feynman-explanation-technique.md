@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metode Pembelajaran Super Cepat Peraih Nobel: Kebiasaan Mengajar dan Pemaksimalan Metakognitif Richard Feynman"
 description: "Pelajari bagaimana peraih Nobel Richard Feynman mengajarkan mekanika kuantum yang rumit sehingga anak berusia 10 tahun dapat memahaminya. Temukan neurosains kognitif tentang metakognisi dan penarikan aktif."
 pubDate: "2026-02-11"
@@ -33,25 +34,23 @@ Rahasia di balik penguasaan pengetahuannya yang luar biasa adalah kebiasaan menc
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai feynman-explanation-technique didasarkan pada <strong>Verifikasi Historis dari Biografi Richard Feynman *Surely You're Joking, Mr. Feynman!*, Arsip Kuliah Caltech & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Richard Feynman *Surely You're Joking, Mr. Feynman!*, Arsip Kuliah Caltech & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Metakognisi dan Penarikan Aktif: Mengungkap Batas-Batas Pengetahuan
+## 1. Metakognisi dan Penarikan Aktif: Mengungkap Batas-Batas Pengetahuan
 
 Membaca atau mendengarkan informasi baru secara pasif gagal menyandikan ingatan ke dalam penyimpanan jangka panjang. Sebaliknya, menyuarakan konsep atau merangkumnya dalam bahasa biasa melibatkan mekanisme <strong>Penarikan Aktif (Active Retrieval)</strong> otak, menancapkan pengetahuan secara mendalam. Menjelaskan ide-ide rumit menggunakan analogi intuitif sangat menstimulasi <strong>Metakognisi</strong> (kemampuan mengevaluasi pemahaman sendiri). Menghilangkan istilah teknis secara instan mengungkap ilusi kompetensi. Melalui proses ini, korteks prefrontal dan hipokampus mereorganisasi koneksi sinaptik ke dalam <strong>Memoria Jangka Panjang</strong>.
 
 ---
 
-## Perhatian: Memecahkan Jebakan Ilusi Kompetensi Melalui Penarikan Aktif
-
-Membaca sekilas dan menonton kuliah menciptakan rasa aman palsu—ilusi kompetensi—tanpa memicu jalur metakognitif. Seperti Feynman, luangkan waktu 10 menit setelah belajar dengan halaman kosong, gunakan tangan dan suara Anda untuk menjelaskan topik tersebut secara lantang. Apa pun yang tidak dapat Anda jelaskan secara sederhana belum menjadi pengetahuan Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Membaca sekilas dan menonton kuliah menciptakan rasa aman palsu—ilusi kompeten
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Memecahkan Jebakan Ilusi Kompetensi Melalui Penarikan Aktif
+
+Membaca sekilas dan menonton kuliah menciptakan rasa aman palsu—ilusi kompetensi—tanpa memicu jalur metakognitif. Seperti Feynman, luangkan waktu 10 menit setelah belajar dengan halaman kosong, gunakan tangan dan suara Anda untuk menjelaskan topik tersebut secara lantang. Apa pun yang tidak dapat Anda jelaskan secara sederhana belum menjadi pengetahuan Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika tidak ada anak kecil sungguhan di sekitar saya untuk diberi penjelasan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Membaca sekilas dan menonton kuliah menciptakan rasa aman palsu—ilusi kompeten
       Anak kecil sungguhan tidak diperlukan. Anda dapat membayangkan rekan kerja, boneka di meja Anda, atau menggunakan chatbot AI yang diatur ke tingkat pemahaman anak berusia 10 tahun. Tujuan utamanya adalah proses penyaringan kognitif untuk menghilangkan istilah teknis.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah normal jika kalimat menjadi panjang dan canggung saat menghilangkan semua istilah teknis?</span>

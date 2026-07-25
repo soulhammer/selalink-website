@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ジョージ・ワシントンの「営農日誌」：初代大統領の行政力を生んだ早朝巡回と記録およびメタ認知ルーティン"
 description: "早朝4時に起床し自らマウントバーノン農場を回り、気候と農作物の数値を精密記録したジョージ・ワシントン。国家行政の骨組みとなったメタ認知習慣と外側前頭前野皮質活性化の脳科学的原理を探求します。"
 pubDate: "2026-07-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「george-washington-morning-rounds」は <strong>ジョージ・ワシントン評伝およびマウントバーノン（Mount Vernon）史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョージ・ワシントン評伝およびマウントバーノン（Mount Vernon）史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 精緻な数値記録がメタ認知を呼び醒ます原理と外側前頭前野の活性化
+## 1. 精緻な数値記録がメタ認知を呼び醒ます原理と外側前頭前野の活性化
 
 脳の<strong>メタ認知（Metacognition）</strong>は「自分が知っていることと知らないことを正確に判別する認知能力」です。メタ認知が弱いと、自分が直面している非効率性やリスクを正しく自覚できないまま、表面的な感覚に頼って誤った判断を下すことになります。ジョージ・ワシントンのように毎日気候条件や作物の状態のような複雑な実測数値を直接手作業で丁寧に記録する行動は、脳の<strong>外側前頭前野皮質（Lateral Prefrontal Cortex）</strong>を強力に活性化させます。曖昧な仮説を捨てて実測値だけに脳の照準を合わせることで、<strong>認知的錯覚（Cognitive Illusion）</strong>を払い除け、最も客観的なファクトを認知して迅速かつ誤差のない資源分配の意思決定を下せるよう導きます。
 
 ---
 
-## 注意事項：主観的感情記録を排除し定量的な指標に集中するルール
-
-「今日は気分が疲れていた」といった単純な感情の感想はメタ認知を活性化させません。ジョージ・ワシントンの日誌のように、起床時間、勉強したページ数、作業時間、運動のセット数のようにお客観的な「数値」を直接記入する時にのみ認知回路が活性化され、非効率を修正できる統制力が生まれます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：主観的感情記録を排除し定量的な指標に集中するルール
+
+「今日は気分が疲れていた」といった単純な感情の感想はメタ認知を活性化させません。ジョージ・ワシントンの日誌のように、起床時間、勉強したページ数、作業時間、運動のセット数のようにお客観的な「数値」を直接記入する時にのみ認知回路が活性化され、非効率を修正できる統制力が生まれます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>数値が良くなく測定された日には日誌を書くのが嫌になります。このような時はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       メタ認知活性化の核心は「成功」ではなく「正確なモニタリング」にあります。目標を達成できなかった日の低い数値を正直に向き合って書き進める行動が、歪んだ認知的錯覚を払い除け、明日の戦略を設計する回復力を育ててくれます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>すべての指標をNotionやExcelだけで管理してもよいですか？</span>

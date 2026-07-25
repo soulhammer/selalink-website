@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rahasia Membuat Keputusan Tepat? Rutinitas Penyederhanaan Keputusan Barack Obama"
 description: "Pelajari rutinitas penyederhanaan keputusan yang dipraktikkan Barack Obama selama menjabat presiden. Panduan 3 langkah untuk menghemat energi kognitif prefrontal dan memaksimalkan keputusan."
 pubDate: "2026-01-06"
@@ -33,17 +34,17 @@ Dalam artikel ini, kami mengulas sains kognitif di balik penyederhanaan keputusa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai obama-decision-simplification didasarkan pada <strong>Biografi Historis dan Catatan Autobiografi Barack Obama & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi Historis dan Catatan Autobiografi Barack Obama & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kelelahan Keputusan & Ego Depletion: Batas Energi Prefrontal
+## 1. Kelelahan Keputusan & Ego Depletion: Batas Energi Prefrontal
 
 Riset menunjukkan bahwa kemampuan membuat keputusan seperti baterai terbatas. Pilihan-pilihan kecil di pagi hari menguras energi prefrontal. Pengurasan ini disebut <strong>'Ego Depletion'</strong> atau <strong>'Kelelahan Keputusan'</strong>.
 
@@ -51,9 +52,7 @@ Saat kelelahan puncak, kendali kognitif menurun. Dengan mengotomatiskan rutinita
 
 ---
 
-## Nasihat Neurosains untuk Efisiensi Keputusan
-
-Pilihan sepele yang lebih sedikit berarti fokus yang lebih dalam. Sederhanakan pilihan harian untuk mencegah kebocoran energi kognitif demi tujuan utama.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Pilihan sepele yang lebih sedikit berarti fokus yang lebih dalam. Sederhanakan p
     Gunakan energi kognitif yang telah dihemat di pagi hari. Jangan buang energi untuk email sepele; selesaikan keputusan paling rumit sebagai tugas pertama.
   </p>
 </div>
+
+---
+
+## 3. Nasihat Neurosains untuk Efisiensi Keputusan
+
+Pilihan sepele yang lebih sedikit berarti fokus yang lebih dalam. Sederhanakan pilihan harian untuk mencegah kebocoran energi kognitif demi tujuan utama.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

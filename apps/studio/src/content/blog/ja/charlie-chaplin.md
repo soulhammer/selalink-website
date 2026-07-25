@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: " 人の歩幅を複製する鏡の視線：チャーリー・チャップリンの身体ミラーリングと人間分析ルーティン"
 description: "サイレント映画時代を支配した巨匠チャーリー・チャップリンが街頭の見知らぬ人々の歩き方や動作を観察しミラーリングしたルーティン。前運動皮質のミラーニューロン（Mirror Neurons）を活性化して身体地図を拡張し、他者共感能力を極大化する神経科学的原理を解き明かします。"
 pubDate: "2026-03-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「charlie-chaplin」は <strong>チャーリー・チャップリン自伝『My Autobiography』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>チャーリー・チャップリン自伝『My Autobiography』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 前運動皮質ミラーニューロン（Mirror Neurons）の活性化と身体地図（Body Schema）の拡張
+## 1. 前運動皮質ミラーニューロン（Mirror Neurons）の活性化と身体地図（Body Schema）の拡張
 
 他者の精緻な運動力学的軌跡を自分の身体で直接複製する行為は、大脳前運動皮質（Premotor Cortex）と下頭頂小葉の「ミラーニューロン（Mirror Neurons）」システムを強力に稼働させます。この運動模倣訓練は大脳皮質に記入される身体感覚地図である「身体地図（Body Schema）」の解像度と包容範囲を飛躍的に拡張させます。さらに姿勢と歩幅という物理的な筋肉動作をミラーリングすると、身体性認知（Embodied Cognition）メカニズムによって相手の辺縁系（Limbic System）が経験している不安、緊張、疲労のような情緒的指標を大脳が約70％以上精密に解読し、観察対象の心理状態と行動動機を直感的に把握するメタ認知能力を向上させます。
 
 ---
 
-## 注意事項＆ヒント：隠密な周辺視野（Peripheral Vision）の活用と安全性の確保
-
-特定の他者を模倣する観察訓練を行う際、最も警戒すべきは相手を穴があくほど正面凝視して不快感を与えたり、安全上の問題を引き起こすことです。観察対象を固定された焦点で注視し続けるよりは、周辺視野（Peripheral Vision）の広い角度を活用して形態とシルエットの軌跡だけを柔らかく追跡すべきです。また、実際の歩行模倣時には対象との距離を十分に保ち、他者を揶揄する不要な誇張動作を避け、ただ無意識の幾何学的均衡にのみ集中する注意の自制力が不可欠です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：隠密な周辺視野（Peripheral Vision）の活用と安全性の確保
+
+特定の他者を模倣する観察訓練を行う際、最も警戒すべきは相手を穴があくほど正面凝視して不快感を与えたり、安全上の問題を引き起こすことです。観察対象を固定された焦点で注視し続けるよりは、周辺視野（Peripheral Vision）の広い角度を活用して形態とシルエットの軌跡だけを柔らかく追跡すべきです。また、実際の歩行模倣時には対象との距離を十分に保ち、他者を揶揄する不要な誇張動作を避け、ただ無意識の幾何学的均衡にのみ集中する注意の自制力が不可欠です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>街頭観察の途中、他人と視線が合って気まずい時はどのように対処すべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       対象を正面から穴があくほど凝視する正面視線を避け、サングラスを着用したり飲み物のカップを掲げて視線を自然に分散させながら、周辺視野（Peripheral Vision）の広い焦点を活用してシルエットと運動軌跡のみを柔らかくスキャンする技術を練習してください。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>身体的模倣が実際に他者の感情や心理状態を解読することに寄与しますか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식"
 description: "매일 밤 침대에 누워 발가락을 오므렸던 천재 발명가 니콜라 테슬라. 그의 독특한 루틴 속에 숨겨진 뇌과학적 비밀과 현대인을 위한 3단계 실천법을 소개합니다."
 pubDate: "2026-04-28"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>에 근거하여 tesla-toe-curling 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌세포를 깨우는 신경 스위치, 발가락
+## 1. 뇌세포를 깨우는 신경 스위치, 발가락
 
 테슬라는 발가락을 반복적으로 오므리는 사소해 보이는 운동이 발끝에 집중된 수많은 신경을 자극해 뇌세포를 활성화하고, 하루 동안 쌓인 두뇌의 피로를 리셋해 준다고 믿었습니다.
 
@@ -49,9 +50,7 @@ faqs:
 
 ---
 
-## 성공적인 루틴을 위한 뇌과학적 한마디
-
-발가락 운동은 심장에서 가장 먼 곳의 혈액 순환을 도와 체온을 균일하게 만들고, 부교감 신경을 활성화합니다. 매일 밤 같은 타이밍(이불을 덮은 직후)에 이 행동을 반복하면 뇌는 이를 '잠잘 시간'이라는 강력한 조건반사적 신호로 인식하게 됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     발가락 운동 후 일어나는 온몸의 미세한 온기와 이완감을 느끼며 '잠잘 시간'이라는 뇌의 신호에 따라 자연스럽게 숙면에 빠져듭니다.
   </p>
 </div>
+
+---
+
+## 3. 성공적인 루틴을 위한 뇌과학적 한마디
+
+발가락 운동은 심장에서 가장 먼 곳의 혈액 순환을 도와 체온을 균일하게 만들고, 부교감 신경을 활성화합니다. 매일 밤 같은 타이밍(이불을 덮은 직후)에 이 행동을 반복하면 뇌는 이를 '잠잘 시간'이라는 강력한 조건반사적 신호로 인식하게 됩니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

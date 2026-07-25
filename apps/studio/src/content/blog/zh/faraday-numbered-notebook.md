@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "16,000个序号：迈克尔·法拉第的精密笔记整理法与知识外置习惯"
 description: "深度剖析物理学家迈克尔·法拉第终身编排超16,000个序号记录实验的习惯。揭示彻底将知识外置如何减轻大脑认知负荷、保护工作记忆与提升专注力的神经科学原理。"
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 faraday-numbered-notebook 的内容基于 <strong>迈克尔·法拉第实验日志《法拉第日记（Michael Faraday's Diary, ed. Thomas Martin / Frank A.J.L. James）》考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>迈克尔·法拉第实验日志《法拉第日记（Michael Faraday's Diary, ed. Thomas Martin / Frank A.J.L. James）》考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 索引化记录与知识外置对大脑工作记忆的影响
+## 1. 索引化记录与知识外置对大脑工作记忆的影响
 
 大脑的<strong>工作记忆（Working Memory）</strong>容量极其有限。杂乱无章地摆放信息或单纯依赖脑力记忆会导致认知负荷暴增，使分析执行力骤降。然而，若能像法拉第那样将笔记全面编号并建立索引——即践行<strong>“知识外置（Cognitive Offloading）”</strong>，大脑便能大幅削减无谓的信息检索能耗。将静态知识卸载至外部物理媒介，能让前额叶皮层的活性资源全额聚焦于核心的复杂推理与破局。
 
 ---
 
-## 注意事项：确保“可检索性（Searchability）”重于盲目堆砌记录数量
-
-须特别警惕：确保知识的“可检索性”远比盲目记录体量更为重要。若不加分类筛选地大量抄录，只会堆砌数字或物理垃圾，反倒加剧大脑的认知混乱。欲复刻法拉第的成功，须在手记第1页设立主索引目录，或为条目打上日期与核心标签，使其能够在此后3秒内精准被检索调用，如此方能发挥系统效能。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：确保“可检索性（Searchability）”重于盲目堆砌记录数量
+
+须特别警惕：确保知识的“可检索性”远比盲目记录体量更为重要。若不加分类筛选地大量抄录，只会堆砌数字或物理垃圾，反倒加剧大脑的认知混乱。欲复刻法拉第的成功，须在手记第1页设立主索引目录，或为条目打上日期与核心标签，使其能够在此后3秒内精准被检索调用，如此方能发挥系统效能。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在使用数字便签应用时，为笔记编排连续序号同样有效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全有效。在数字环境中为每条笔记绑定唯一序号能发挥巨大威力。普通的关键词检索常因遗忘精确词汇而失灵；但若利用唯一序号（如 #042）将知识固化，便能建立双向链接（Backlink）、跨文档精准引述，甚至作为全局索引地址，极大升华数字生产力。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>当日常杂记、工作项目与个人灵感交织在一起时，该如何进行序号编排？</span>

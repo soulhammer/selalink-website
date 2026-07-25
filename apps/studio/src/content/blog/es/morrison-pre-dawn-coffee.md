@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ritual al amanecer para despertar la creatividad: La rutina de preparación para la escritura a las 5 AM de Toni Morrison"
 description: "La ganadora del Nobel Toni Morrison reiniciaba sus pensamientos y comenzaba a escribir contemplando la luz del amanecer a las 5 AM todos los días. Descubra sus secretos de concentración y su valor neurocientífico."
 pubDate: "2026-02-27"
@@ -38,14 +39,14 @@ Ella describía esto como 'observar la llegada de la luz', confesando que ese la
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre morrison-pre-dawn-coffee se basa en <strong>Biografías históricas y registros autobiográficos de Toni Morrison e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Toni Morrison e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Despertar del reloj biológico circadiano y estimulación de los fotorreceptores retinianos
+## 1. Despertar del reloj biológico circadiano y estimulación de los fotorreceptores retinianos
 
 Exponer el cerebro a la luz azul del teléfono justo al despertar en una habitación oscura provoca un pico de cortisol, aumentando la ansiedad.
 
@@ -53,9 +54,7 @@ La observación del amanecer de Toni Morrison permite que la luz natural filtre 
 
 ---
 
-## No toque ningún dispositivo electrónico mientras la luz natural llega a sus ojos
-
-El mayor destructor de las rutinas matutinas son los mensajes e itinerarios del teléfono. Durante los 5 minutos que contemple la luz del amanecer, nunca encienda pantallas digitales. No arroje ruido visual sobre la retina y células cerebrales que despiertan; permita que la luz natural entre serenamente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ El mayor destructor de las rutinas matutinas son los mensajes e itinerarios del 
   </p>
 </div>
 
+---
+
+## 3. No toque ningún dispositivo electrónico mientras la luz natural llega a sus ojos
+
+El mayor destructor de las rutinas matutinas son los mensajes e itinerarios del teléfono. Durante los 5 minutos que contemple la luz del amanecer, nunca encienda pantallas digitales. No arroje ruido visual sobre la retina y células cerebrales que despiertan; permita que la luz natural entre serenamente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>El amanecer varía según la estación; ¿debo ajustar mi hora de despertar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ El mayor destructor de las rutinas matutinas son los mensajes e itinerarios del 
       No es necesario hacer coincidir exactamente el instante del amanecer. Experimentar el ambiente tranquilo y tenue justo antes del alba sin importar la estación (generalmente entre las 5:00 AM y las 6:00 AM) ofrece amplios beneficios.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>No soy una persona madrugadora y me siento agotado al despertar temprano; ¿qué debo hacer?</span>

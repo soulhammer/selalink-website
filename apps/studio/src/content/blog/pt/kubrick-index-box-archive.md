@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Projetar a Perfeição com um Segundo Cérebro: O Hábito de Arquivamento com Fichas e Descarregamento Cognitivo de Stanley Kubrick"
 description: "Descubra como o diretor Stanley Kubrick criou obras-primas reduzindo a carga da memória de trabalho através de um arquivo de fichas. Explore o descarregamento cognitivo, o chunking, a otimização pré-frontal e um guia de 3 passos."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva e a psicologia por trás
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre kubrick-index-box-archive é baseada em <strong>Verificação Histórica de *The Stanley Kubrick Archives* (Alison Castle), Arquivos de Kubrick e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *The Stanley Kubrick Archives* (Alison Castle), Arquivos de Kubrick e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Descarregamento Cognitivo da Memória de Trabalho e Estratégia de Chunking
+## 1. Descarregamento Cognitivo da Memória de Trabalho e Estratégia de Chunking
 
 A capacidade da <strong>Memória de Trabalho</strong> humana limita-se a reter temporariamente cerca de 4 a 7 unidades de informação; forçar a retenção de grandes volumes de dados causa rápida <strong>Sobrecarga Cognitiva (Cognitive Overload)</strong>. O arquivo de fichas de Kubrick é um exemplo de <strong>Descarregamento Cognitivo (Cognitive Offloading)</strong>: transferir o esforço da memória para um meio físico externo. Estruturar informações em <strong>blocos (chunking)</strong> fora do cérebro liberta o <strong>Córtex Pré-frontal</strong> do estresse de memorização, permitindo focar na síntese criativa.
 
 ---
 
-## Precaução: Evite Copiar Texto Literalmente e Foque em 'Uma Ficha, Uma Ideia'
-
-Um erro comum ao arquivar é copiar texto original sem processamento. Isso gera uma falsa ilusão de conhecimento conhecida como <strong>Erro de Metacognição (Metacognition Error)</strong>. Para permitir uma associação mental flexível, siga a regra 'Uma Ficha, Uma Ideia': sintetize cada conceito com suas próprias palavras em cerca de duas frases.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Um erro comum ao arquivar é copiar texto original sem processamento. Isso gera 
   </p>
 </div>
 
+---
+
+## 3. Precaução: Evite Copiar Texto Literalmente e Foque em 'Uma Ficha, Uma Ideia'
+
+Um erro comum ao arquivar é copiar texto original sem processamento. Isso gera uma falsa ilusão de conhecimento conhecida como <strong>Erro de Metacognição (Metacognition Error)</strong>. Para permitir uma associação mental flexível, siga a regra 'Uma Ficha, Uma Ideia': sintetize cada conceito com suas próprias palavras em cerca de duas frases.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Posso criar um Segundo Cérebro usando aplicativos digitais em vez de fichas de papel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Um erro comum ao arquivar é copiar texto original sem processamento. Isso gera 
       Sim, com certeza! Ferramentas como Notion, Obsidian ou aplicativos de notas criam um Segundo Cérebro excelente. O importante não é o meio, mas manter o 'Princípio de Modularidade' (um único conceito por nota) e o 'Princípio de Conectividade' (recombinar notas em vez de guardá-las).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quantas fichas devo acumular antes de começar o baralhamento aleatório e a associação criativa?</span>

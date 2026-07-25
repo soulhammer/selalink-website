@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Forcing Focus by Blocking Outings: Victor Hugo's Hair-Shaving Isolation Habit and Precommitment Strategy"
 description: "Discover how Victor Hugo shaved half his hair and beard to prevent himself from leaving home and meet a tight publisher deadline. Explore the neuroscience of environmental physical constraints, precommitment strategy, and prefrontal willpower fatigue prevention."
 pubDate: "2026-06-29"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Victor Hugo's 'hair
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding hugo-hair-shaving is based on <strong>Historical Verification from Graham Robb's *Victor Hugo: A Biography*, Behavior Therapy & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Graham Robb's *Victor Hugo: A Biography*, Behavior Therapy & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Precommitment Strategy and Preventing Prefrontal Willpower Fatigue
+## 1. Precommitment Strategy and Preventing Prefrontal Willpower Fatigue
 
 Human capacity to resist temptation relies on finite executive resources housed in the <strong>Prefrontal Cortex</strong>. Constantly exerting self-control while exposed to environmental distractions causes rapid <strong>Willpower Fatigue</strong> (ego depletion). Victor Hugo's method of physically eliminating the possibility of giving in to temptation is recognized in behavioral economics as a <strong>Precommitment Strategy</strong>. By locking away formal clothes and altering his hair, Hugo destroyed the temptation trigger at its root. Consequently, his brain wasted zero cognitive energy debating 'Should I go out or stay?', channeling 100% of prefrontal bandwidth into deep creative writing.
 
 ---
 
-## Caution: Precommitting Physical Environments Rather Than Relying on Willpower
-
-Do not attempt to overcome digital notifications or temptations using sheer willpower alone. Mirroring Hugo's radical isolation, the key to success lies in configuring unpassable physical environment constraints in advance—such as using timed phone lockboxes or strict website blockers—so that focus requires zero willpower exertion.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Do not attempt to overcome digital notifications or temptations using sheer will
   </p>
 </div>
 
+---
+
+## 3. Caution: Precommitting Physical Environments Rather Than Relying on Willpower
+
+Do not attempt to overcome digital notifications or temptations using sheer willpower alone. Mirroring Hugo's radical isolation, the key to success lies in configuring unpassable physical environment constraints in advance—such as using timed phone lockboxes or strict website blockers—so that focus requires zero willpower exertion.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Did Victor Hugo genuinely shave half his hair and beard to write his novel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Do not attempt to overcome digital notifications or temptations using sheer will
       Yes, absolutely. In late 1830, facing an uncompromising publisher deadline for *The Hunchback of Notre-Dame*, Hugo shaved half his head and beard and locked away his street clothes to enforce total home isolation until the novel was finished.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What modern precommitment isolation methods can I use without shaving my hair?</span>

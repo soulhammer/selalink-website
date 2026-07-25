@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "É perigoso fora da cama? A rotina de escrita na cama de Mark Twain para criar obras-primas"
 description: "Descubra o hábito único de escrita de Mark Twain, um gigante da literatura americana, que criou obras-primas reclinado na cama após o café da manhã, e conheça os benefícios neurocientíficos criativos do relaxamento físico."
 pubDate: "2026-05-20"
@@ -31,17 +32,17 @@ Todas as manhãs, após desfrutar de um farto café da manhã, em vez de ir para
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre twain-lying-writing é baseada em <strong>Biografias históricas e registros autobiográficos da escrita na cama de Mark Twain e pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos da escrita na cama de Mark Twain e pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Pensamento associativo' que relaxa o cérebro e conecta ideias
+## 1. 'Pensamento associativo' que relaxa o cérebro e conecta ideias
 
 Quando nos deitamos horizontalmente ou nos reclinamos, a carga do coração para bombear sangue pelo corpo é significativamente reduzida em comparação a estar de pé ou sentado. Isso aumenta o fluxo sanguíneo cerebral, estabiliza a frequência cardíaca e estimula fortemente o sistema nervoso parassimpático. Quando o corpo está completamente relaxado, o cérebro suprime a secreção de cortisol, o hormônio do estresse.
 
@@ -49,9 +50,7 @@ O cérebro relaxado afasta-se de um estado de tensão (ondas beta) e emite abund
 
 ---
 
-## Apoie sua postura e evite distrações com o smartphone
-
-Reclinar-se na cama pode colocar uma grande pressão sobre a coluna ou o pescoço, portanto, coloque vários travesseiros firmes atrás das costas para apoiar a coluna e mantê-la reta. Além disso, para evitar que o conforto da cama se torne um refúgio para navegar nas redes sociais, coloque seu smartphone completamente fora do alcance antes de se deitar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Reclinar-se na cama pode colocar uma grande pressão sobre a coluna ou o pescoç
   </p>
 </div>
 
+---
+
+## 3. Apoie sua postura e evite distrações com o smartphone
+
+Reclinar-se na cama pode colocar uma grande pressão sobre a coluna ou o pescoço, portanto, coloque vários travesseiros firmes atrás das costas para apoiar a coluna e mantê-la reta. Além disso, para evitar que o conforto da cama se torne um refúgio para navegar nas redes sociais, coloque seu smartphone completamente fora do alcance antes de se deitar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

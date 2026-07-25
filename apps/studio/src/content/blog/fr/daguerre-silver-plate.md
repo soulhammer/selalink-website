@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode d'exposition sur plaque d'argent de Louis Daguerre : Comment fixer les moments fugaces en inspiration éternelle"
 description: "Découvrez comment l'inventeur français du XIXe siècle Louis Daguerre a créé la première photographie pratique par exposition chimique sur plaque d'argent, et explorez la neuroscience cognitive de la fixation visuelle instantanée."
 pubDate: "2026-01-31"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant daguerre-silver-plate est basée sur <strong>Vérification Historique issue de *Historique et description des procédés du Daguerréotype* de Louis Daguerre & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *Historique et description des procédés du Daguerréotype* de Louis Daguerre & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Comment la fixation visuelle instantanée empreint les idées fugaces dans la mémoire à long terme
+## 1. Comment la fixation visuelle instantanée empreint les idées fugaces dans la mémoire à long terme
 
 La recherche neurophysiologique montre que cadrer mentalement une idée fugace et l'exposer pendant 3 secondes crée un ancrage neuronal entre le cortex visuel occipital et l'hippocampe. Cette « fenêtre d'exposition » de 3 secondes stabilise les représentations en mémoire de travail avant leur dissipation, garantissant la restitution vivante de l'idée.
 
 ---
 
-## Précautions & Conseils : Temps d'exposition immédiat & Prévention de la procrastination
-
-Ne reportez pas le consignation d'une idée émergente. Les étincelles créatives se dissipent en quelques secondes dans la mémoire de travail. Dès qu'une idée surgit, figez-la immédiatement comme un cliché mental, exposez-la clairement pendant 3 secondes et retranscrivez-la aussitôt par écrit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ne reportez pas le consignation d'une idée émergente. Les étincelles créativ
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Temps d'exposition immédiat & Prévention de la procrastination
+
+Ne reportez pas le consignation d'une idée émergente. Les étincelles créatives se dissipent en quelques secondes dans la mémoire de travail. Dès qu'une idée surgit, figez-la immédiatement comme un cliché mental, exposez-la clairement pendant 3 secondes et retranscrivez-la aussitôt par écrit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>En quoi la méthode d'exposition visuelle de 3 secondes de Daguerre diffère-t-elle de la prise de notes classique ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ne reportez pas le consignation d'une idée émergente. Les étincelles créativ
       La prise de notes classique capte passivement des mots. À l'inverse, la méthode de Daguerre « expose » activement l'idée dans le cortex visuel pendant 3 secondes avant d'écrire. Cela crée un cliché sensoriel permettant, à la relecture d'un mot-clé, de restituer le contexte d'origine.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si je suis en train de marcher ou de conduire et ne peux pas écrire immédiatement ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le secret pour surmonter le stress de la recherche sur le radium : La routine de vélo du soir et d'induction du BDNF de Marie Curie"
 description: "Découvrez comment Marie Curie, première femme à recevoir le prix Nobel et seule personne honorée dans deux domaines scientifiques, a protégé sa santé cérébrale face au stress des recherches sur le radium. Explorez la neuroscience cognitive de la sécrétion de BDNF."
 pubDate: "2026-02-28"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant curie-cycling est basée sur <strong>Vérification Historique issue de la biographie d'Ève Curie *Madame Curie* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Ève Curie *Madame Curie* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurophysiologie du pédalage rythmique, de la sécrétion de BDNF et de la réinitialisation préfrontale
+## 1. Neurophysiologie du pédalage rythmique, de la sécrétion de BDNF et de la réinitialisation préfrontale
 
 L'exercice aérobique par pédalage rythmique augmente le flux sanguin cérébral et stimule la libération du Facteur Neurotrophique Dérivé du Cerveau (BDNF). Le BDNF renforce la plasticité neuronale et abaisse rapidement les taux de cortisol élevés par le stress. En approvisionnant le cortex préfrontal en oxygène, cette routine de vélo constitue un puissant mécanisme de restauration.
 
 ---
 
-## Précautions & Conseils : Éviter la rumination professionnelle pendant l'exercice & Se concentrer sur les sens
-
-Pendant le vélo, évitez de ressasser mentalement vos tâches ou formules complexes. Solliciter la mémoire de travail pendant l'exercice empêche le cortex préfrontal de basculer en mode de récupération, réduisant l'effet du BDNF. Orientez 100 % de votre attention sur le vent, le paysage et le rythme du pédalage.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pendant le vélo, évitez de ressasser mentalement vos tâches ou formules compl
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter la rumination professionnelle pendant l'exercice & Se concentrer sur les sens
+
+Pendant le vélo, évitez de ressasser mentalement vos tâches ou formules complexes. Solliciter la mémoire de travail pendant l'exercice empêche le cortex préfrontal de basculer en mode de récupération, réduisant l'effet du BDNF. Orientez 100 % de votre attention sur le vent, le paysage et le rythme du pédalage.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Marie et Pierre Curie ont-ils demandé des vélos comme cadeau de mariage ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pendant le vélo, évitez de ressasser mentalement vos tâches ou formules compl
       Plutôt que des cérémonies fastueuses ou des objets de luxe, les vélos offraient un moyen pratique et sain d'explorer la campagne française, de méditer ensemble et de libérer le stress des recherches. Ils ont servi à leur lune de miel et d'ancrage mental.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe-t-il des alternatives aérobiques si je n'ai pas de vélo ou de piste ?</span>

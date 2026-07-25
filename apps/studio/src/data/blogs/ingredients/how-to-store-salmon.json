@@ -1,0 +1,454 @@
+{
+  "how-to-store-salmon": {
+    "ingId": "salmon",
+    "pubDate": "2026-05-02",
+    "updatedDate": "2026-05-02",
+    "heroImage": "/images/blog/salmon_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "연어 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 연어의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>FDA & USDA</strong>",
+        "intro": "선홍빛 아름다운 연어를 사 와서 보관했는데 다음 날 칙칙한 주황색으로 변해 찝찝하셨나요? 오늘 FreshSnap에서는 미국 식품의약국(FDA) 가이드를 바탕으로 비린내를 잡고 신선도를 지키는 연어 보관법을 알려드립니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "연어",
+          "과학적으로 검증된 보관 가이드",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "색상 변화를 꼼꼼히 체크하세요 ⚠️",
+            "desc": "연어가 선홍빛을 잃고 어두운 갈색으로 변했거나, 손가락으로 눌렀을 때 탄력 없이 움푹 파여 돌아오지 않는다면 이미 단백질이 녹아내린 상태이므로 폐기해야 합니다."
+          },
+          {
+            "title": "냉동 시 껍질과 가시를 제거해 보관하세요 ❄️",
+            "desc": "장기 냉동(최대 60일) 보관할 때는 나중에 해동하여 먹기 편하도록 미리 껍질과 가시를 발라내고 소분 밀착 랩핑하여 얼려두시는 것이 질감 유지에 좋습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "표면의 기름기와 수분 제거하기 — 냉장 보관 (2일) 🍣",
+            "text": "생연어 표면의 물기와 기름기는 박테리아 번식의 주원인입니다. 보관 전 키친타월로 연어 앞뒷면을 꾹꾹 눌러 표면 수분을 완전히 제거해야 합니다."
+          },
+          {
+            "name": "레몬즙이나 청주 발라주기 — 천연 방부 산패 방지 🍋",
+            "text": "물기를 뺀 연어 표면에 레몬즙이나 소량의 청주(또는 미림)를 얇게 바릅니다. 산성과 알코올 성분이 미생물 번식을 억제하고 지방의 산패를 억제하는 천연 방부제 역할을 합니다."
+          },
+          {
+            "name": "식품용 랩으로 진공에 가깝게 포장하기 — 냉동 보관 (90일) 📦",
+            "text": "레몬즙을 바른 연어를 식품용 랩으로 공기가 들어가지 않도록 초밀착 포장한 후 지퍼백에 넣어 이중 밀봉합니다. 냉장 시 2일, 냉동 시 60일까지 신선함을 유지할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "연어의 표면 색상이 살짝 탁해졌는데 먹어도 되나요?",
+            "answer": "생연어의 색이 선홍빛을 잃고 칙칙한 회색빛이나 노랗게 변했다면 산화 및 균 번식이 시작된 조짐입니다. 만졌을 때 끈적거리거나 시큼한 향이 난다면 절대 드시지 마세요."
+          },
+          {
+            "question": "남은 생연어를 냉동 보관할 때 주의할 점은?",
+            "answer": "물기를 키친타월로 철저히 제거하고 표면에 식용유나 올리브 오일을 얇게 바른 뒤 밀착 랩핑해 얼리면 냉동실 성에와 건조 현상(프리저 번)을 예방할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Salmon Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Salmon based on official safety guidelines.",
+        "authority": "<strong>FDA & USDA</strong>",
+        "intro": "Did you leave fresh salmon in the fridge for over two days? Salmon has high moisture, allowing bacteria to multiply quickly. Today, FreshSnap shares FDA-approved scent-free salmon storage and sealing tips.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Salmon",
+          "Scientifically Proven Storage Guide",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Wipe off surface moisture and liquid completely",
+            "desc": "The liquid (drip) on the fish surface causes a fishy smell and rapid spoilage. Dry it thoroughly before wrapping."
+          },
+          {
+            "title": "Vacuum wrap or seal tightly without air",
+            "desc": "Oxygen exposure leads to lipid rancidity and dry texture. Tightly wrapping with wrap blocks oxygen contact."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wipe off surface oil and moisture — Refrigerated Storage (2Days) 🍣",
+            "text": "Moisture and fish oil on the surface of raw salmon are the main cause of bacterial growth. Press both sides of the salmon firmly with paper towels to dry it completely before storing."
+          },
+          {
+            "name": "Apply lemon juice or cooking wine — Natural preservation 🍋",
+            "text": "Brush a thin layer of lemon juice or a small amount of cooking wine (sake or mirin) on the dry salmon. The acid and alcohol act as natural preservatives, inhibiting microbial growth and fat oxidation."
+          },
+          {
+            "name": "Wrap tightly with plastic wrap to exclude air — Frozen Storage (90Days) 📦",
+            "text": "Wrap the salmon tightly in plastic wrap, squeezing out all air, then place it inside a ziploc bag for a double seal. This keeps it fresh for up to 2 days in the fridge and 60 days in the freezer."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "The color of my salmon turned slightly dull. Can I still eat it?",
+            "answer": "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
+          },
+          {
+            "question": "What should I keep in mind when freezing leftover raw salmon?",
+            "answer": "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
+          }
+        ]
+      },
+      "ja": {
+        "title": "鮭の鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく鮭の最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>米国食品医薬品局(FDA) & 米国農務省(USDA)</strong>",
+        "intro": "鮮やかなピンク色の新鮮なサーモンを、そのまま冷蔵庫に2日以上放置していませんか？サーモンは水分が多く、非常に雑菌が繁殖しやすい魚です。本日、FreshSnapでは生臭さを抑えて保存する密閉の秘訣をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "鮭",
+          "科学的に検証された保存ガイド",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "表面の水気やドリップをペーパーで完全に拭き取ってください",
+            "desc": "表面に出る水気やドリップは生臭さの原因になり、腐敗を早めます。包装する前にしっかり拭き取ることが鉄則です。"
+          },
+          {
+            "title": "空気が入らないよう真空パックにするか密閉してください",
+            "desc": "酸素に触れると脂質が酸化し、パサついた食感になってしまいます。空気を抜いて密着包装することで酸化と乾燥を防ぎます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "表面の脂分と水気を拭き取る — 冷蔵保存 (2日間) 🍣",
+            "text": "生鮭の表面にある水分や脂分は, 雑菌が繁殖する主な原因になります。保存する前に, ペーパーで鮭の表裏を軽く押さえて表面の水分を完全に拭き取ってください。"
+          },
+          {
+            "name": "レモン果汁や料理酒を塗る — 天然の酸化・腐敗防止 🍋",
+            "text": "水気を拭き取った鮭の表面に, レモン果汁や少量の料理酒（またはみりん）を薄く塗ります。酸やアルコール成分が雑菌の繁殖を抑え, 脂質の酸化を防ぐ天然の保存料として働きます。"
+          },
+          {
+            "name": "食品用ラップで空気を抜いて密着包装 — 冷凍保存 (90日間) 📦",
+            "text": "下処理をした鮭をラップで空気の入らないようにぴったりと包み, ジッパーバッグに入れて二重に密閉します。冷蔵保存で2日間, 冷凍保存で最大60日間, 鮮度を維持できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "サーモンの表面の色が少し濁っていますが、食べてもいいですか？",
+            "answer": "生サーモンが鮮やかなピンク色を失い、くすんだ灰色や黄色に変色している場合は、酸化や細菌繁殖の兆候です。触って粘りがあったり異臭がする場合は食べないでください。"
+          },
+          {
+            "question": "残った生のサーモンを冷凍保存する際の注意点は？",
+            "answer": "水気をキッチンペーパーで完全に取り除き、表面に少量の食用油やオリーブオイルを塗ってから空気が入らないようラップで密閉して冷凍すると、冷凍焼けを防げます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存三文鱼/鲑鱼：科学储存指南",
+        "description": "根据官方食品安全指南，了解三文鱼/鲑鱼的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA)</strong>",
+        "intro": "您是否把鲜红的三文鱼随手在冰箱里放了两天以上？三文鱼水分含量高，极易滋生细菌。今天，FreshSnap为您分享基于美国食品药品监督管理局(FDA)指南的无腥味三文鱼密封与保存秘诀。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "三文鱼/鲑鱼",
+          "科学验证的储存指南",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "用厨房纸彻底擦干表面的水分和血水",
+            "desc": "鱼肉表面渗出的水气和液体会产生腥味并加速腐烂。包装前必须用厨房纸巾彻底擦干。"
+          },
+          {
+            "title": "尽量排除空气进行真空包装或密封",
+            "desc": "接触氧气会导致脂肪酸败并使肉质变柴。用保鲜膜真空般紧密包裹能隔绝氧气接触。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "吸干表面油脂与水分 — 冷藏储存 (2天) 🍣",
+            "text": "生三文鱼表面的水分和鱼油是细菌滋生的主要温床。储存前必须用厨房纸巾按压三文鱼的正反面，彻底吸干表面水分。"
+          },
+          {
+            "name": "涂抹柠檬汁或料酒 — 天然防腐防变质 🍋",
+            "text": "在吸干水分的三文鱼表面刷上一层薄薄的柠檬汁或少许料酒（或味醂）。酸和酒精成分能起到天然防腐剂的作用，有效抑制微生物繁殖和脂肪氧化。"
+          },
+          {
+            "name": "用保鲜膜紧密包裹排出空气 — 冷冻储存 (90天) 📦",
+            "text": "将处理妥当的三文鱼用保鲜膜超紧密包裹，不留一丝空气，然后放入密封袋中进行双重密封。这样可以在冷藏下保鲜2天，在冷冻状态下安全保存长达60天。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "三文鱼表面颜色变暗淡了还可以吃吗？",
+            "answer": "如果生三文鱼失去鲜粉红色而变得灰暗或发黄，说明已经开始氧化和滋生细菌。如果手感发黏或有酸味，绝对不能食用。"
+          },
+          {
+            "question": "剩下的生三文鱼冷冻时有什么注意事项吗？",
+            "answer": "用厨房纸巾彻底擦干水分，表面薄薄涂一层食用油或橄榄油，紧贴包裹保鲜膜冷冻，可以防止冷冻干燥（冻伤）和结霜。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Salmón fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Salmón según las directrices oficiales de seguridad.",
+        "authority": "<strong>FDA & USDA</strong>",
+        "intro": "¿Dejó salmón fresco en el refrigerador por más de dos días? El salmón tiene mucha agua, facilitando que las bacterias crezcan rápido. Hoy, FreshSnap comparte trucos de sellado aprobados por la FDA.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Salmón",
+          "Guía de almacenamiento científicamente probada",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Limpie la humedad y los jugos de la superficie por completo",
+            "desc": "El líquido que gotea del pescado causa olor a choquía y acelera su deterioro. Séquelo bien antes de envolverlo."
+          },
+          {
+            "title": "Envuelva al vacío o selle herméticamente sin aire",
+            "desc": "El contacto con el oxígeno oxida las grasas y seca la textura. Envolver muy apretado con film evita el paso del aire."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Limpie el aceite y agua de la superficie — Almacenamiento Refrigerado (2Días) 🍣",
+            "text": "La humedad y el aceite en la superficie del salmón crudo favorecen el crecimiento bacteriano. Presione ambos lados con papel de cocina para secarlo del todo antes de almacenar."
+          },
+          {
+            "name": "Aplique jugo de limón o vino de cocina — Conservante natural 🍋",
+            "text": "Unte una capa fina de jugo de limón o un poco de vino de cocina en el salmón seco. El ácido y el alcohol actúan como conservantes naturales, frenando bacterias y la oxidación de las grasas."
+          },
+          {
+            "name": "Envuelva firmemente con film plástico sacando el aire — Almacenamiento Congelado (90Días) 📦",
+            "text": "Envuelva el salmón firmemente con film plástico, eliminando el aire, y métalo en una bolsa con cierre. Esto lo mantiene fresco hasta 2 días en el refrigerador y 60 días en el congelador."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "The color of my salmon turned slightly dull. Can I still eat it?",
+            "answer": "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
+          },
+          {
+            "question": "What should I keep in mind when freezing leftover raw salmon?",
+            "answer": "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Saumon frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Saumon selon les directives de sécurité officielles.",
+        "authority": "<strong>FDA & USDA</strong>",
+        "intro": "Avez-vous laissé du saumon frais au frigo plus de deux jours ? Le saumon est très humide et les bactéries s'y développent vite. Aujourd'hui, FreshSnap vous montre comment le conserver sans odeur selon l'FDA.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Saumon",
+          "Guide de conservation scientifiquement prouvé",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Essuyez complètement l'humidité et le jus en surface",
+            "desc": "Le jus qui s'échappe du poisson provoque de mauvaises odeurs et accélère le pourrissement. Séchez-le bien avant de l'emballer."
+          },
+          {
+            "title": "Filmez sous vide ou fermez hermétiquement sans air",
+            "desc": "Le contact de l'oxygène oxyde les graisses et assèche la chair. Filmer très serré permet de bloquer l'air."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Essuyer le gras et l'humidité en surface — Stockage Réfrigéré (2Jours) 🍣",
+            "text": "L'humidité et le gras à la surface du saumon cru favorisent la prolifération des bactéries. Pressez les deux faces au papier absorbant pour sécher la chair avant stockage."
+          },
+          {
+            "name": "Badigeonner de jus de citron ou d'alcool de cuisine — Conservateur 🍋",
+            "text": "Badigeonnez une fine couche de jus de citron ou d'alcool de cuisine sur le saumon séché. L'acidité et l'alcool servent de conservateur naturel en limitant les bactéries et le rancissement."
+          },
+          {
+            "name": "Envelopper très serré dans du film étirable sans air — Stockage Congelé (90Jours) 📦",
+            "text": "Enveloppez le saumon très serré dans du film étirable en chassant l'air, puis mettez-le dans un sac congélation. Il reste frais 2 jours au réfrigérateur et 60 jours au congélateur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "The color of my salmon turned slightly dull. Can I still eat it?",
+            "answer": "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
+          },
+          {
+            "question": "What should I keep in mind when freezing leftover raw salmon?",
+            "answer": "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Lachs frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Lachs basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>FDA & USDA</strong>",
+        "intro": "Haben Sie frischen Lachs länger als zwei Tage im Kühlschrank gelagert? Lachs ist feucht, wodurch sich Bakterien schnell vermehren. Heute teilt FreshSnap offizielle FDA-Tipps zum geruchfreien Lagern.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Lachs",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Feuchtigkeit und austretenden Fischsaft gründlich abtupfen",
+            "desc": "Fischsaft an der Oberfläche verursacht Fischgeruch und beschleunigt den Verderb. Vor dem Einwickeln gut abtrocknen."
+          },
+          {
+            "title": "Vakuumieren oder luftdicht verschließen",
+            "desc": "Sauerstoffkontakt oxidiert Fette und macht den Lachs trocken. Ein enges Einwickeln schützt vor Luftzufuhr."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Oberflächliches Fett und Wasser abwischen — Kühllagerung (2Tage) 🍣",
+            "text": "Feuchtigkeit und Fett auf der Oberfläche von rohem Lachs sind der Hauptgrund für Bakterien. Lachs vor der Lagerung von beiden Seiten mit Küchenpapier abtupfen."
+          },
+          {
+            "name": "Zitronensaft oder Reiswein auftragen — Natürlicher Oxidationsschutz 🍋",
+            "text": "Bestreichen Sie den getrockneten Lachs dünn mit Zitronensaft oder etwas Reiswein (oder Mirin). Säure und Alkohol dienen als natürlicher Konservierungsschutz und verhindern das Ranzigwerden."
+          },
+          {
+            "name": "Lachs fest in Folie wickeln und Luft herauspressen — Gefrierlagerung (90Tage) 📦",
+            "text": "Wickeln Sie den behandelten Lachs fest in Frischhaltefolie (Luft entfernen) und legen ihn in einen Gefrierbeutel. Hält im Kühlschrank bis zu 2 Tage, im Gefrierschrank bis zu 60 Tage frisch."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "The color of my salmon turned slightly dull. Can I still eat it?",
+            "answer": "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
+          },
+          {
+            "question": "What should I keep in mind when freezing leftover raw salmon?",
+            "answer": "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Salmão fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Salmão com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>FDA & USDA</strong>",
+        "intro": "Você deixou salmão fresco na geladeira por mais de dois dias? O salmão é muito úmido, facilitando as bactérias. Hoje, o FreshSnap compartilha técnicas de fechamento recomendadas pela FDA.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Salmão",
+          "Guia de armazenamento comprovado cientificamente",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Seque bem a umidade e o líquido da superfície com papel-toalha",
+            "desc": "O líquido que escorre do peixe causa mau cheiro e acelera a deterioração. Seque bem antes de embalar."
+          },
+          {
+            "title": "Embrulhe a vácuo ou sele hermeticamente sem ar",
+            "desc": "O contato com o oxigênio oxida as gorduras e resseca a polpa. Embrulhar bem apertado com filme bloqueia o ar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Seque o óleo e a umidade da superfície — Armazenamento Refrigerado (2Dias) 🍣",
+            "text": "A umidade e o óleo na superfície do salmão cru são os principais causadores de bactérias. Pressione ambos os lados com papel-toalha para secar bem antes de guardar."
+          },
+          {
+            "name": "Passe suco de limão ou vinho de cozinha — Conservante natural 🍋",
+            "text": "Passe uma camada fina de suco de limão ou um pouco de vinho de cozinha no salmão seco. O ácido e o álcool funcionam como conservantes naturais, impedindo bactérias e oxidação da gordura."
+          },
+          {
+            "name": "Embrulhe bem com filme plástico, retirando todo o ar — Armazenamento Congelado (90Dias) 📦",
+            "text": "Embrulhe o salmão firme no filme plástico, tirando todo o ar, e feche dentro de um saco plástico com lacre. Isso mantém a qualidade por até 2 dias na geladeira e até 60 dias no freezer."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "The color of my salmon turned slightly dull. Can I still eat it?",
+            "answer": "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
+          },
+          {
+            "question": "What should I keep in mind when freezing leftover raw salmon?",
+            "answer": "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Salmon agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Salmon berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>FDA & USDA</strong>",
+        "intro": "Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon memiliki kadar air tinggi, memicu bakteri berkembang cepat. Hari ini, FreshSnap membagikan tips penyimpanan salmon.",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Salmon",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Lap bersih kelembapan dan cairan pada permukaan daging",
+            "desc": "Cairan pada permukaan ikan memicu bau amis dan pembusukan cepat. Keringkan sepenuhnya sebelum dibungkus."
+          },
+          {
+            "title": "Bungkus vakum atau segel rapat tanpa udara",
+            "desc": "Paparan oksigen memicu ketengikan lemak dan tekstur kering. Membungkusnya dengan rapat menghalangi kontak dengan udara."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Lap bersih minyak dan air di permukaan — Penyimpanan Dingin (2Hari) 🍣",
+            "text": "Air dan minyak pada permukaan salmon mentah adalah penyebab utama bakteri berkembang biak. Tekan kedua sisi salmon dengan tisu dapur untuk mengeringkannya."
+          },
+          {
+            "name": "Oleskan jus lemon atau alkohol masak — Pengawet alami 🍋",
+            "text": "Oleskan sedikit jus lemon atau alkohol masak pada permukaan salmon yang sudah kering. Keasaman dan alkohol berfungsi sebagai pengawet alami, menekan bakteri dan oksidasi lemak."
+          },
+          {
+            "name": "Bungkus rapat dengan plastik wrap tanpa udara — Penyimpanan Beku (90Hari) 📦",
+            "text": "Bungkus salmon dengan plastik wrap secara rapat, buang semua udaranya, lalu masukkan ke dalam kantong ziploc. Cara ini menjaga kesegaran hingga 2 hari di kulkas dan 60 hari di freezer."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "The color of my salmon turned slightly dull. Can I still eat it?",
+            "answer": "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
+          },
+          {
+            "question": "What should I keep in mind when freezing leftover raw salmon?",
+            "answer": "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
+          }
+        ]
+      }
+    }
+  }
+}

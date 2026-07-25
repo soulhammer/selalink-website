@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Genie mit dem Notizbuch am Gürtel: Leonardo da Vincis sofortige Notizroutine und Externalisierung des Arbeitsgedächtnisses"
 description: "Erkunden Sie, wie das Renaissance-Genie Leonardo da Vinci ein ledergebundenes Notizbuch am Gürtel trug, um Beobachtungen sofort festzuhalten. Entdecken Sie die kognitiven Neurowissenschaften der Externalisierung des Arbeitsgedächtnisses."
 pubDate: "2026-05-29"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Leonardo da Vin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu da-vinci-notepad basiert auf <strong>Historische Überprüfung aus Walter Isaacsons Biografie *Leonardo da Vinci* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Walter Isaacsons Biografie *Leonardo da Vinci* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Entlastung des Arbeitsgedächtnisses (RAM) durch Externalisierung und kognitive Entlastung
+## 1. Entlastung des Arbeitsgedächtnisses (RAM) durch Externalisierung und kognitive Entlastung
 
 Das menschliche Gehirn funktioniert weniger wie ein Lagerhaus, sondern wie ein Prozessor (CPU). Die kognitive Psychologie zeigt, dass die Kapazität des Arbeitsgedächtnisses stark begrenzt ist (3 bis 5 Einheiten). Das Festhalten von Gedanken ohne Aufzeichnen erzwingt kognitive Belastung (Cognitive Load). Die sofortige 'Externalisierung' – das Aufschreiben oder Skizzieren von Ideen – entlastet das Arbeitsgedächtnis (RAM). Dies setzt präfrontale Kapazitäten frei, was spontane Assoziationen ermöglicht.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Sofortige Externalisierung & Vermeidung gedanklicher Überlastung
-
-Das Hauptziel des Notierens ist das Befreien des Gehirns von der Last des Behaltens. Der Gedanke 'Das schreibe ich später auf' zwingt den Präfrontalkortex, Daten aktiv zu halten, was zu Stress und Ermüdung führt. Sorgen Sie sich beim ersten Festhalten nicht um Ordentlichkeit. Das Aufschreiben eines Stichworts innerhalb von 5 Sekunden schützt das Arbeitsgedächtnis.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das Hauptziel des Notierens ist das Befreien des Gehirns von der Last des Behalt
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Sofortige Externalisierung & Vermeidung gedanklicher Überlastung
+
+Das Hauptziel des Notierens ist das Befreien des Gehirns von der Last des Behaltens. Der Gedanke 'Das schreibe ich später auf' zwingt den Präfrontalkortex, Daten aktiv zu halten, was zu Stress und Ermüdung führt. Sorgen Sie sich beim ersten Festhalten nicht um Ordentlichkeit. Das Aufschreiben eines Stichworts innerhalb von 5 Sekunden schützt das Arbeitsgedächtnis.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum band Leonardo da Vinci ein Notizbuch ausdrücklich an seinen Gürtel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das Hauptziel des Notierens ist das Befreien des Gehirns von der Last des Behalt
       Um körperliche Hürden auf null zu reduzieren, sodass er Beobachtungen innerhalb von Sekunden festhalten konnte. Dieses reibungslose Design hielt sein Arbeitsgedächtnis frei und bewahrte präfrontale Kapazitäten für kreative Ideen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bietet die Nutzung einer Notiz-App auf dem Smartphone dieselben Vorteile zur Entlastung des Arbeitsgedächtnisses wie ein Notizbuch?</span>

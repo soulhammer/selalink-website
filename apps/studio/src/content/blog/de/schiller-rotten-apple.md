@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Dramatiker, inspiriert vom Geruch fauler Äpfel? Friedrich Schillers kuriose Fokus-Routine"
 description: "Der deutsche Literaturgigant Friedrich Schiller vertiefte sich in seine Schöpfungen, während er am stimulierenden Geruch fauler Äpfel in seiner Schreibtischschublade roch. Entdecken Sie die wissenschaftlichen Prinzipien der olfaktorischen Stimulation und moderne Aroma-Anchoring-Techniken."
 pubDate: "2026-05-05"
@@ -33,17 +34,17 @@ Hier untersuchen wir die wissenschaftlichen Grundlagen von Schillers 'olfaktoris
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu schiller-rotten-apple basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Friedrich Schiller & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Friedrich Schiller & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurologische Verbindung zwischen Geruch und kognitiver Erregung
+## 1. Neurologische Verbindung zwischen Geruch und kognitiver Erregung
 
 Unter allen menschlichen Sinnen ist der Geruchssinn der einzige, der den Thalamus umgeht und direkt das limbische System (Amygdala und Hippocampus) erreicht, welches Emotionen und Gedächtnis steuert. Gerüche bieten daher den schnellsten Weg zur Veränderung kognitiver Zustände.
 
@@ -51,9 +52,7 @@ Die Gärgase (wie Acetaldehyd und Ethanol) der faulen Äpfel wirkten als physiol
 
 ---
 
-## Sicheres und effektives modernes olfaktorisches Anchoring
-
-Schillers Methode ist wegen der Toxizität von Kohlendioxid und Acetaldehyd gesundheitsschädlich. Nutzen Sie stattdessen unschädliche, nachgewiesen konzentrationsfördernde ätherische Öle (wie Rosmarin oder Pfefferminze) ausschließlich vor Arbeits- oder Lernphasen für ein sicheres Aroma-Anchoring.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Schillers Methode ist wegen der Toxizität von Kohlendioxid und Acetaldehyd gesu
   </p>
 </div>
 
+---
+
+## 3. Sicheres und effektives modernes olfaktorisches Anchoring
+
+Schillers Methode ist wegen der Toxizität von Kohlendioxid und Acetaldehyd gesundheitsschädlich. Nutzen Sie stattdessen unschädliche, nachgewiesen konzentrationsfördernde ätherische Öle (wie Rosmarin oder Pfefferminze) ausschließlich vor Arbeits- oder Lernphasen für ein sicheres Aroma-Anchoring.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Hatte der Geruch fauler Äpfel bei Schiller wirklich eine stimulierende Wirkung auf das Gehirn?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Schillers Methode ist wegen der Toxizität von Kohlendioxid und Acetaldehyd gesu
       Ja, das freigesetzte Acetaldehyd veränderte die Atmung und gab einen kurzzeitigen Reiz, während das Olfaktorsignal dem limbischen System des Gehirns ein sofortiges Aufwachsignal lieferte.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Welche Düfte werden für modernes Aroma-Anchoring empfohlen?</span>

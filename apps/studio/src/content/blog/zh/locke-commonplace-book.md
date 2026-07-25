@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "1分钟内检索过往记录的哲学家：约翰·洛克的“基项簿”索引法与联想记忆网络"
 description: "深度剖析经验主义泰斗约翰·洛克如何借由独特的字母母音网格索引系统精细厘定浩瀚知识。揭示激活联想记忆、缩短语意距离、解降前额叶提取（Recall）负荷的神经科学原理与3步骤指南。"
 pubDate: "2026-03-19"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 locke-commonplace-book 的内容基于 <strong>约翰·洛克著作《基项簿新索引法（A New Method of a Commonplace-Book，1686）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong> 撰写。
+      本内容基于 <strong>约翰·洛克著作《基项簿新索引法（A New Method of a Commonplace-Book，1686）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 激活联想记忆（Associative Memory）网络与解降提取（Recall）负荷神经科学原理
+## 1. 激活联想记忆（Associative Memory）网络与解降提取（Recall）负荷神经科学原理
 
 大脑的记忆结构并非彼此孤立的抽屉，而是由交织错综的信息构成的<strong>联想记忆（Associative Memory）</strong>网络。约翰·洛克的索引记录法从信息编码阶段起便人工嵌入了有机联想链条。在收集信息时映射分类地址（Tagging）的进程，能大幅缩短信息间的<strong>语意距离（Semantic Distance）</strong>。以此编码的知识将处于极易重新激活的待命状态，进而极大地减轻<strong>前额叶皮层（Prefrontal Cortex）</strong>的检索检索过载，助人随时在短短几秒内完成<strong>提取（Recall）</strong>。
 
 ---
 
-## 注意事项：剔除无脑海量囤积，专注有意识执行索引映射（Index Mapping）指南
-
-在笔记中未经索引处理地机械抄录海量内容、或在数字剪藏箱中无限囤积资料，会向大脑输送“已然掌握”的错觉假象，反而加速<strong>遗忘（Forgetting）</strong>。必须如洛克般在存入信息的瞬间同步跟进<strong>索引映射（Index Mapping）</strong>这一正念仪式——赋予其具象分类标签，知识方能稳固沉淀于大脑的联想网络中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：剔除无脑海量囤积，专注有意识执行索引映射（Index Mapping）指南
+
+在笔记中未经索引处理地机械抄录海量内容、或在数字剪藏箱中无限囤积资料，会向大脑输送“已然掌握”的错觉假象，反而加速<strong>遗忘（Forgetting）</strong>。必须如洛克般在存入信息的瞬间同步跟进<strong>索引映射（Index Mapping）</strong>这一正念仪式——赋予其具象分类标签，知识方能稳固沉淀于大脑的联想网络中。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>约翰·洛克的“基项簿”二维网格索引法在具体操作层面呈现为何种结构？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       洛克在笔记本首页绘制了一张整合26个字母与5个母音（a, e, i, o, u）的网格表。在对应于关键词首字母与后续首个母音的交叉单元格中（如：'Epistola' 记入 E 行与 i 列格）填入对应页码，打造了一套可高速检索的二维地址定位系统。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在知识管理层面，书写纸质模拟笔记是否比使用现代数字软件具备更佳效能？</span>

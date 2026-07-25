@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎日朝のニュースをハサミで切り取った小説家？ジョージ・オーウェルの知識スキーマ構築術"
 description: "小説家ジョージ・オーウェルは毎朝複数の新聞を熟読し、記事をハサミで切り取ってスクラップブックに分類・収集しました。情報を有機的なスキーマとして構築する前頭葉強化原理と現代的なデジタルスクラップ・ルーティンを提案します。"
 pubDate: "2026-03-13"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「orwell-newspaper-clipping」は <strong>ジョージ・オーウェルの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョージ・オーウェルの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 情報符号化およびスキーマの脳科学
+## 1. 情報符号化およびスキーマの脳科学
 
 数多くのデジタル記事を単に目で追うだけでは、情報は一時保管場所である短期記憶に留まった後、ほとんどが消失してしまいます。一方、記事を直接選択して「切り取り（物理的・デジタル的アクション）」、カテゴリ分けして整理する行動は、脳の<strong>「深い符号化（Deep Encoding）」</strong>処理を誘導します。この情報構造化作業は、情報を大脳皮質の長期記憶領域に定着させるだけでなく、既存の知識体系と結合する<strong>「スキーマ（Schema）ネットワーク」</strong>を形成します。スキーマが発達した脳は、新しい情報に接した際に文脈をより素早く把握して問題の中核を見抜き、執筆や意思決定の際に必要な背景知識を最適な速度で引き出す（Recall）高い流動性知能を発揮します。
 
 ---
 
-## 盲目的な収集中毒の罠
-
-単に良い文章やリンクをワンクリックで保存フォルダに入れるだけでは、脳科学的に知識を所有したと錯覚する「収集家の謬論（Collector's Fallacy）」に陥ってしまいます。自ら要約したり、自分の言葉で一行の評価を付け加えたりして脳を認知的に刺激して初めて、その情報が自分だけの本物の知識スキーマとして消化され活用できるようになります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 盲目的な収集中毒の罠
+
+単に良い文章やリンクをワンクリックで保存フォルダに入れるだけでは、脳科学的に知識を所有したと錯覚する「収集家の謬論（Collector's Fallacy）」に陥ってしまいます。自ら要約したり、自分の言葉で一行の評価を付け加えたりして脳を認知的に刺激して初めて、その情報が自分だけの本物の知識スキーマとして消化され活用できるようになります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ジョージ・オーウェルのスクラップブックは実際に保管されていますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、ジョージ・オーウェルが収集した記事やハサミで切り取ったスクラップブックの複写、彼のお仕事に関するメモは、ロンドン・ユニバーシティ・カレッジ（UCL）のジョージ・オーウェル・アーカイブに歴史的に貴重な資料として保存されています。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>デジタルでこのスクラップ・ルーティンを行う場合、どのアプリがおすすめですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Masterpiece Salvaged from Dream Remnants: Paul McCartney's Immediate Subconscious Capture Habit"
 description: "Paul McCartney, who salvaged The Beatles' classic 'Yesterday' from a dream upon waking. Shares the secret of capturing creativity using the diffuse mode brain during hypnagogia, when prefrontal cortex censorship is lifted."
 pubDate: "2026-04-25"
@@ -34,22 +35,20 @@ The human brain experiences a highly creative state immediately upon waking at t
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding mccartney-dream-melody-capture is based on <strong>Paul McCartney Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Paul McCartney Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hypnagogia and the Brain's Diffuse Mode
+## 1. Hypnagogia and the Brain's Diffuse Mode
 
 For a few minutes right after waking, humans remain in 'hypnagogia', where the dorsolateral prefrontal cortex (DLPFC), responsible for conscious control and logic, is not fully online. In this state, the cerebrum enters diffuse mode, where rational filters and self-censorship are loosened, allowing scattered memories and auditory data in the subconscious to freely mix. However, the moment full wakefulness sets in, the brain switches to focused mode and flushes short-term memory, permanently losing subconscious inspirations. Recording them with a physical tool within 30 seconds of waking prevents this loss.
 
 ---
 
-## Precautions and Tips
-
-The most critical mistake when practicing this habit is checking social media or reading news emails on your smartphone right upon waking. When external, structured information forcibly dominates your visual cortex and working memory, the brain instantly shifts to a high cognitive tension mode and completely formats the faint neural circuits of your dream memory. Therefore, keep only an analog pen and paper notebook near your bed so your brain transitions smoothly out of hypnagogia. Avoid external media contact for at least 3 minutes upon waking and focus entirely on extracting the unique data inside your brain.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ The most critical mistake when practicing this habit is checking social media or
     While writing, completely exclude self-evaluations like 'Does this make logical sense?' or 'Is this weird?'. Focus purely on pouring unprocessed subconscious raw data onto paper; leave analysis and logical refinement for later in the afternoon.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+The most critical mistake when practicing this habit is checking social media or reading news emails on your smartphone right upon waking. When external, structured information forcibly dominates your visual cortex and working memory, the brain instantly shifts to a high cognitive tension mode and completely formats the faint neural circuits of your dream memory. Therefore, keep only an analog pen and paper notebook near your bed so your brain transitions smoothly out of hypnagogia. Avoid external media contact for at least 3 minutes upon waking and focus entirely on extracting the unique data inside your brain.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

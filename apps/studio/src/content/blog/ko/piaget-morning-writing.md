@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "생각을 정밀하게 구조화하는 뇌 작동법? 장 피아제의 글쓰기와 사색 산책"
 description: "스위스의 위대한 아동 심리학자 장 피아제. 생각을 정밀하게 정돈한 그의 아침 4페이지 글쓰기 및 오후 사색 산책 루틴의 뇌과학적 원리와 3단계 실천법을 알아봅니다."
 pubDate: "2026-01-01"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>장 피아제 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 piaget-morning-writing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>장 피아제 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 작업 기억의 외재화와 디폴트 모드 네트워크의 조화
+## 1. 작업 기억의 외재화와 디폴트 모드 네트워크의 조화
 
 우리가 생각만으로 복잡한 문제를 해결하려 하면 뇌의 작업 기억 공간은 금방 한계에 도달해 과부하가 걸립니다. 피아제의 아침 글쓰기는 머릿속의 개념들을 외부 매체(종이)에 기록하여 뇌의 인지 부하를 강제로 덜어주는 <strong>'작업 기억의 외재화(Working Memory Externalization)'</strong> 작업이었습니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 뇌에 입력하는 시간을 넘어 출력하고 환기하는 균형을 맞춰야 합니다
-
-현대인들은 수많은 정보(인풋)를 스마트폰을 통해 뇌에 집어넣지만, 정작 스스로 생각하고 정돈하여 밖으로 끄집어내는 아웃풋 시간과 뇌를 쉬게 해주는 사색 시간이 절대적으로 부족합니다. 피아제처럼 아침의 쏟아내는 글쓰기(아웃풋)와 오후의 평화로운 산책(환기)의 균형을 통해 뇌가 스스로 작동할 공간을 열어주세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 뇌에 입력하는 시간을 넘어 출력하고 환기하는 균형을 맞춰야 합니다
+
+현대인들은 수많은 정보(인풋)를 스마트폰을 통해 뇌에 집어넣지만, 정작 스스로 생각하고 정돈하여 밖으로 끄집어내는 아웃풋 시간과 뇌를 쉬게 해주는 사색 시간이 절대적으로 부족합니다. 피아제처럼 아침의 쏟아내는 글쓰기(아웃풋)와 오후의 평화로운 산책(환기)의 균형을 통해 뇌가 스스로 작동할 공간을 열어주세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>꼭 손으로 써야 하나요? 디지털 타이핑으로 대체해도 될까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       디지털 타이핑도 효과가 있으나, 손으로 직접 글씨를 쓰는 행위는 손가락 끝의 미세 근육을 자극하여 뇌의 인지 영역(특히 전두엽과 체성감각 피질)을 훨씬 강하게 활성화하고 주의 집중을 돕기 때문에 가급적 손글씨를 추천합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>산책을 할 만한 자연 환경이 근처에 없으면 어떻게 하나요?</span>

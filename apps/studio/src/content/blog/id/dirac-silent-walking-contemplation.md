@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Genius yang Berjalan dalam Keheningan dengan Kata-Kata Minimal: Rutinitas Jalan Kaki Senyap dan Pembersihan Kebisingan Linguistik ala Paul Dirac"
 description: "Pelajari bagaimana pelopor mekanika kuantum dan peraih Nobel Paul Dirac menyempurnakan Persamaan Dirac melalui jalan kaki hari Minggu dalam keheningan. Temukan neurosains kognitif dari penekanan kebisingan linguistik dan aktivasi sirkuit visuospatial parietal."
 pubDate: "2026-04-25"
@@ -33,25 +34,23 @@ Setiap hari Minggu, Dirac menghabiskan waktu berjam-jam berjalan sendirian dalam
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai dirac-silent-walking-contemplation didasarkan pada <strong>Verifikasi Historis dari Biografi Graham Farmelo *The Strangest Man: The Hidden Life of Paul Dirac* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Graham Farmelo *The Strangest Man: The Hidden Life of Paul Dirac* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pembersihan Kebisingan Linguistik dan Aktivasi Sirkuit Visuospatial Parietal
+## 1. Pembersihan Kebisingan Linguistik dan Aktivasi Sirkuit Visuospatial Parietal
 
 Dialog verbal dan pemrosesan teks yang terus-menerus membebani jaringan bahasa belahan otak kiri (area Broca dan Wernicke), menguras kapasitas kognitif prefrontal. Terlibat dalam jalan kaki berirama sambil mempertahankan keheningan total menghentikan pemrosesan linguistik, secara instan meredakan ketegangan belahan otak kiri. Neurosains kognitif menunjukkan bahwa jalan kaki aerobik senyap mengaktifkan 'Visuospatial Sketchpad' di lobus parietal.
 
 ---
 
-## Perhatian & Tip: Menghilangkan Media Audio dan Linguistik Secara Total Selama Berjalan
-
-Mendengarkan podcast, buku audio, berita, atau panggilan telepon saat Anda berjalan membuat otak tetap terkunci dalam pemrosesan sintaksis dan pengkodean verbal. Ini memperpanjang ketegangan belahan otak kiri dan mencegah transisi ke dalam kontemplasi senyap yang mendalam. Untuk rutinitas bergaya Dirac yang sejati, berikan istirahat total pada sirkuit bicara dan bahasa pendengaran Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Mendengarkan podcast, buku audio, berita, atau panggilan telepon saat Anda berja
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menghilangkan Media Audio dan Linguistik Secara Total Selama Berjalan
+
+Mendengarkan podcast, buku audio, berita, atau panggilan telepon saat Anda berjalan membuat otak tetap terkunci dalam pemrosesan sintaksis dan pengkodean verbal. Ini memperpanjang ketegangan belahan otak kiri dan mencegah transisi ke dalam kontemplasi senyap yang mendalam. Untuk rutinitas bergaya Dirac yang sejati, berikan istirahat total pada sirkuit bicara dan bahasa pendengaran Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah jalan kaki senyap memberikan manfaat kognitif yang sama di pusat kota yang bising?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Mendengarkan podcast, buku audio, berita, atau panggilan telepon saat Anda berja
       Ya. Faktor penentunya bukanlah keheningan lingkungan yang mutlak, melainkan memutus masukan linguistik secara total (percakapan, podcast, atau membaca teks). Bahkan di pusat kota yang ramai, menggunakan headphone peredam bising untuk mengurangi kebisingan sekitar sambil berpantang dari konsumsi bahasa memberikan manfaat yang identik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya harus berhenti dan merekam pemikiran cemerlang secara langsung saat berjalan?</span>

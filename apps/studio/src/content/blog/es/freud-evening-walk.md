@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Paseo de 3 Millas que Despertó el Inconsciente: La Rutina de Caminata Rápida Nocturna y Diario del Inconsciente de Sigmund Freud"
 description: "Descubra cómo Sigmund Freud, el padre del psicoanálisis, restauraba el equilibrio cerebral y accedía al inconsciente dando paseos rápidos de 3 millas por Viena cada noche tras intensas sesiones clínicas. Explore la neurociencia de la estimulación bilateral."
 pubDate: "2026-07-09"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral detrás de la rutina d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre freud-evening-walk se basa en <strong>Verificación Histórica de *Un estudio autobiográfico* de Sigmund Freud, Archivos del Museo Sigmund Freud de Viena e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Un estudio autobiográfico* de Sigmund Freud, Archivos del Museo Sigmund Freud de Viena e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación Sensorial Bilateral y Regulación Emocional Prefrontal
+## 1. Estimulación Sensorial Bilateral y Regulación Emocional Prefrontal
 
 Alternar los pasos a ritmo rápido proporciona información sensorial y motora a los hemisferios izquierdo y derecho: la <strong>Estimulación Bilateral</strong>. Utilizada en terapia de trauma (como EMDR), este procesamiento rítmico reduce la hiperactivación en la <strong>Amígdala</strong>, mitigando la reactividad emocional e induciendo calma. Además, llevar un <strong>diario manuscrito</strong> tras la caminata para externalizar pensamientos subconscientes activa las redes prefrontales, restaurando la <strong>Memoria de Trabajo</strong>.
 
 ---
 
-## Precaución: Evite el Sobreuso Aeróbico para Promover la Relajación Antes de Dormir
-
-Esta rutina nocturna no es un entrenamiento físico intenso para quemar calorías. Correr hasta quedar sin aliento sobreestimula el sistema nervioso simpático. Mantenga una caminata rápida donde pueda hablar pero sienta que su respiración se acelera ligeramente. Para proteger el sueño, termine la caminata al menos 3 horas antes de ir a dormir.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Esta rutina nocturna no es un entrenamiento físico intenso para quemar caloría
   </p>
 </div>
 
+---
+
+## 3. Precaución: Evite el Sobreuso Aeróbico para Promover la Relajación Antes de Dormir
+
+Esta rutina nocturna no es un entrenamiento físico intenso para quemar calorías. Correr hasta quedar sin aliento sobreestimula el sistema nervioso simpático. Mantenga una caminata rápida donde pueda hablar pero sienta que su respiración se acelera ligeramente. Para proteger el sueño, termine la caminata al menos 3 horas antes de ir a dormir.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Caminar por la mañana o por la tarde ofrece los mismos beneficios que el paseo nocturno?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Esta rutina nocturna no es un entrenamiento físico intenso para quemar caloría
       Sí. La estimulación bilateral ocurre a cualquier hora. Sin embargo, mientras que la caminata matutina aumenta la alerta para despertar, el paseo nocturno de Freud limpia el desorden mental y la tensión acumulada durante la jornada laboral. Elija el horario según sus patrones de estrés.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo teclear el diario en el teléfono o teclado en lugar de escribir a mano?</span>

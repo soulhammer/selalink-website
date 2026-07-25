@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎朝4時間、家族の立ち入りすら禁じた小説家？トーマス・マンの環境統制没頭法"
 description: "ドイツのノーベル文学賞受賞作家トーマス・マンは、毎朝9時から1時まで外部の刺激と完全に遮断された状態で執筆しました。前頭葉の認知エネルギー枯渇を防ぐ環境統制の原理と現代的無刺激没想法をひも解きます。"
 pubDate: "2026-01-24"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「mann-strict-schedule」は <strong>トーマス・マンの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>トーマス・マンの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 環境制御と大脳皮質の認知疲労予防
+## 1. 環境制御と大脳皮質の認知疲労予防
 
 脳の意志力や複雑な問題解決を司る前頭葉皮質（Prefrontal Cortex）の認知エネルギーは朝の時間帯に最も高くなりますが、その容量は非常に有限です。スマートフォンの通知やSNS、雑談などの些細な妨害刺激（Micro-distraction）は、脳のエネルギーを急速に消費させます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 浅い作業（Shallow Work）の罠
-
-メールの確認、メッセンジャーへの即座の返信、些細なウェブサーフィンなどは、脳に「忙しく動いている」という偽りの生産性の安らぎを与えますが、実質的な認知的発展をもたらさない「浅い作業（Shallow Work）」です。トーマス・マンのように集中時間を固定し、その時間帯だけは浅い作業を全面禁止して無刺激状態で脳を深い思考（Deep Work）状態へ強制的に配置してこそ、高効率のアウトプットが導き出されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 浅い作業（Shallow Work）の罠
+
+メールの確認、メッセンジャーへの即座の返信、些細なウェブサーフィンなどは、脳に「忙しく動いている」という偽りの生産性の安らぎを与えますが、実質的な認知的発展をもたらさない「浅い作業（Shallow Work）」です。トーマス・マンのように集中時間を固定し、その時間帯だけは浅い作業を全面禁止して無刺激状態で脳を深い思考（Deep Work）状態へ強制的に配置してこそ、高効率のアウトプットが導き出されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>トーマス・マンは本当に1時になると執筆を完全にやめたのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、彼は午前中に脳のエネルギーを100%注ぎ込んだため、1時以降は認知能力が消耗することを自覚していました。1時以降の執筆は品質が低下すると考え、午後には読書、散歩、校正など、比較的脳のエネルギーを使わない軽い作業だけを処理しました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>午前中ではなく夜の時間帯にディープ・ワークを行ってもいいですか？</span>

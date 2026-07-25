@@ -21,6 +21,7 @@ faqs:
     answer: "いいえ、エキストラバージンオリーブオイルは温度が8〜10度以下に下がると自然に固まる性質があります。常温に戻すと透明な液体状態に戻り、品質には全く問題ありません。"
   - question: "オリーブオイルは必ず遮光瓶に保存すべきですか？"
     answer: "はい、オリーブオイルは光（紫外線）にさらされると酸化が急速に進みます。必ず光を遮る暗いガラス瓶に密閉し、涼しい日陰に保管してください。"
+
 ---
 
 オリーブオイルを新鮮に保つために、冷蔵庫に入れていませんか？冷蔵庫に保管すると白く結晶化して固まってしまい、特有の豊かな風味や栄養成分が壊れてしまいます。正しい常温保存方法をご紹介します。
@@ -29,10 +30,10 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      公認の科学的保管基準
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>.
+      Based on official storage standards. <strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">冷蔵保存は避ける — 凝固と風味の低下防止 ❌❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">直射日光を避け、遮光瓶（茶・緑）を使用する — 常温保存 (365日間) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">コンロ周辺など熱源から遠い日陰の棚に置く — 熱の遮断 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

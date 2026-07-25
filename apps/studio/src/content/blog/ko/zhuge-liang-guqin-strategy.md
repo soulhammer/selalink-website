@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "세기 최고의 지략가? 제갈량의 새벽 구친 연주와 천문 전략 루틴"
 description: "삼국시대 촉한의 승상 제갈량이 복잡한 정세 속에서 새벽 구친 연주와 야간 천문 관측으로 고도의 마인드 컨트롤을 이뤄낸 비밀과 실천 가이드."
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>제갈량 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 zhuge-liang-guqin-strategy 루틴을 다룹니다.
+      본 콘텐츠는 <strong>제갈량 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 알파 뇌파 유도를 통한 정서적 과부하 차단과 거시적 공간 판단력
+## 1. 알파 뇌파 유도를 통한 정서적 과부하 차단과 거시적 공간 판단력
 
 중요한 과제나 불안감이 높을 때 뇌의 편도체(Amygdala)가 과활성화되어 시야가 좁아지고 우유부단해집니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 소음과 자극을 줄이고 내면의 정적 상태를 확보하세요
-
-제갈량의 명언처럼 담박함과 고요함 없이는 멀리 내다볼 수 없습니다. 외부의 시끄러운 뉴스나 SNS 알림을 차단하고 10분간 의도적인 이완과 정적 시간을 확보하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 소음과 자극을 줄이고 내면의 정적 상태를 확보하세요
+
+제갈량의 명언처럼 담박함과 고요함 없이는 멀리 내다볼 수 없습니다. 외부의 시끄러운 뉴스나 SNS 알림을 차단하고 10분간 의도적인 이완과 정적 시간을 확보하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>악기를 직접 연주하지 못해도 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 고유한 울림을 가진 오케스트라나 어쿠스틱 현악 음악을 집중해서 듣는 청각적 몰입만으로도 알파 뇌파 유도 효과는 동일하게 나타납니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>왜 수많은 할 일 중 1가지만 골라야 하나요?</span>

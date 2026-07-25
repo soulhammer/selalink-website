@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Reinício cognitivo do cérebro: A rotina de improvisação ao piano de Max Planck"
 description: "Max Planck refrescava sua mente após pesquisas de física improvisando livremente ao piano. Explore o princípio de 'Reinício Cognitivo Cruzado' onde a ativação artística elimina a fadiga lógica."
 pubDate: "2026-04-01"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre planck-piano-refresh é baseada em <strong>Biografias históricas e escritos sobre Max Planck & pesquisa em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e escritos sobre Max Planck & pesquisa em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Inibição do hemisfério esquerdo e reinício cruzado via ativação do hemisfério direito
+## 1. Inibição do hemisfério esquerdo e reinício cruzado via ativação do hemisfério direito
 
 Exaurir um circuito neural específico (como a lógica matemática no hemisfério esquerdo) acumula fadiga. Em vez de repouso passivo, ativar regiões completamente diferentes (hemisfério direito e córtex motor) através da improvisação musical dispara o 'Reinício Cognitivo Cruzado'. Isso desliga os circuitos lógicos sobrecarregados e permite a recuperação.
 
 ---
 
-## Precauções e dicas
-
-Ao improvisar ao piano para reiniciar o cérebro, evite a rigidez de seguir partituras. Gastar energia mental com técnica faz o cérebro perceber a atividade como mais uma tarefa. O segredo é tocar livremente, como um rabisco sonoro, sem autocrítica.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ Ao improvisar ao piano para reiniciar o cérebro, evite a rigidez de seguir part
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Ao improvisar ao piano para reiniciar o cérebro, evite a rigidez de seguir partituras. Gastar energia mental com técnica faz o cérebro perceber a atividade como mais uma tarefa. O segredo é tocar livremente, como um rabisco sonoro, sem autocrítica.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como começar a improvisar ao piano sem partitura?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ Ao improvisar ao piano para reiniciar o cérebro, evite a rigidez de seguir part
       Não se preocupe com a perfeição melódica ou dissonâncias. Foque no peso das teclas e na ressonância do som para relaxar e reiniciar a rede de atenção do cérebro.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É possível obter o reinício cognitivo com outros instrumentos além do piano?</span>

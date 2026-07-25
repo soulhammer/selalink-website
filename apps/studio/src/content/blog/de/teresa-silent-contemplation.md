@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Schild zur Wahrung des Gleichgewichts im Elend der Slums? Mutter Teresas morgendliche Stille-Routine"
 description: "Mutter Teresa diente ihr Leben lang in den Slums von Kalkutta. Erfahren Sie die wissenschaftlichen Vorteile und 15-minütigen Praxistipps ihrer Routine der 'Stille um 4:30 Uhr morgens', die ihr empathisches Netzwerk und ihre Gefühlssteuerung stärkte."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir die neurowissenschaftlichen Vorteile von Mutte
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu teresa-silent-contemplation basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Mutter Teresa & kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Mutter Teresa & kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivierung des Empathie-Netzwerks und Dämpfung der Amygdala-Hyperaktivität
+## 1. Aktivierung des Empathie-Netzwerks und Dämpfung der Amygdala-Hyperaktivität
 
 Frühmorgendliche Stille-Meditation dämpft die Übererregung des Sympathikus und stabilisiert die HPA-Achse, die Stresshormone reguliert. Dies hemmt die Hyperaktivität in der Amygdala. Gleichzeitig stärkt sie die funktionelle Konnektivität zwischen dem präfrontalen Kortex und den Gefühlsregionen und bereitet das Empathie-Netzwerk auf das Bewahren der Gelassenheit vor.
 
 ---
 
-## Der Fehler der Gedankenunterdrückung in der Stille und Tipps zum Loslassen
-
-Wenn Sie Stille praktizieren und versuchen, Sorgen durch den Gedanken 'Ich darf nicht daran denken' zu unterdrücken, entsteht ein Rebound-Effekt, bei dem diese Gedanken intensiver kreisen. Kämpfen Sie nicht gegen Gedanken an, sondern beobachten Sie sie wie vorüberziehende Wolken und richten Sie den Fokus auf Ihre Atmung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Wenn Sie Stille praktizieren und versuchen, Sorgen durch den Gedanken 'Ich darf 
   </p>
 </div>
 
+---
+
+## 3. Der Fehler der Gedankenunterdrückung in der Stille und Tipps zum Loslassen
+
+Wenn Sie Stille praktizieren und versuchen, Sorgen durch den Gedanken 'Ich darf nicht daran denken' zu unterdrücken, entsteht ein Rebound-Effekt, bei dem diese Gedanken intensiver kreisen. Kämpfen Sie nicht gegen Gedanken an, sondern beobachten Sie sie wie vorüberziehende Wolken und richten Sie den Fokus auf Ihre Atmung.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was soll ich tun, wenn während der Meditation ständig Aufgaben und Sorgen auftauchen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Wenn Sie Stille praktizieren und versuchen, Sorgen durch den Gedanken 'Ich darf 
       Das ist ein natürliches Phänomen des Gehirns, das versucht, verarbeitende Prozesse zu aktivieren. Kämpfen Sie nicht gegen Gedanken an; treten Sie zurück und erkennen Sie an: 'Ah, ich denke über Aufgaben nach', und lassen Sie sie ziehen. Bringen Sie die Aufmerksamkeit sanft zur Atmung zurück.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Mutter Teresa praktizierte eine Stunde; ist eine Reduzierung auf 10–15 Minuten für das Gehirn dennoch wirksam?</span>

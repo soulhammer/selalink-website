@@ -21,6 +21,7 @@ faqs:
     answer: "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
   - question: "What should I keep in mind when freezing leftover raw salmon?"
     answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
+
 ---
 
 Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon memiliki kadar air tinggi, memicu bakteri berkembang cepat. Hari ini, FreshSnap membagikan tips penyimpanan salmon.
@@ -29,10 +30,10 @@ Apakah Anda membiarkan salmon segar di kulkas selama lebih dari dua hari? Salmon
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Otoritas Ilmiah Terverifikasi
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>FDA & USDA</strong>.
+      Based on official storage standards. <strong>FDA & USDA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lap bersih minyak dan air di permukaan — Penyimpanan Dingin (2Hari) 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Oleskan jus lemon atau alkohol masak — Pengawet alami 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus rapat dengan plastik wrap tanpa udara — Penyimpanan Beku (90Hari) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

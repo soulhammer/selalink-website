@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "创意视角之发现：申师任堂超精密自然观察习惯"
 description: "朝鲜时代伟大的女性艺术家申师任堂通过自然观察培养创意的方法。阐述清晨观察自然如何帮助恢复注意力并建构大脑创意视觉网络的科学根据。"
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 saimdang-nature-observation 的内容基于 <strong>申师任堂自然观察的历史评传考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>申师任堂自然观察的历史评传考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 注意力恢复理论与“柔和吸引”的大脑疗愈
+## 1. 注意力恢复理论与“柔和吸引”的大脑疗愈
 
 根据环境心理学中的“注意力恢复理论”（Attention Restoration Theory），在城市环境或使用数字设备时启用的“定向注意力”（Directed Attention）会导致前额叶皮层能量严重耗竭，产生认知疲劳。相反，悠闲注视草叶、鲜花或清风等不需要人为强迫集中的自然对象时，大脑将进入“柔和吸引”（Soft Fascination）状态。这种状态能充盈额叶能量并激活创意视觉网络。
 
 ---
 
-## 师任堂关于重聚灵感与心灵的心得
-
-智慧与创意并非苦思冥想就能强求而来。请暂时离开书桌，静心凝视一株野草或一只小虫，给大脑一片休憩之地。在自然带来的舒缓中，大脑会自行充盈消耗的能量并还你崭新的灵感。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     回到室内后，将观察到的对象以铅笔素描、短文描述或涂鸦的形式每日至少1次记录在模拟介质上，以此将视觉化能力内化于心。
   </p>
 </div>
+
+---
+
+## 3. 师任堂关于重聚灵感与心灵的心得
+
+智慧与创意并非苦思冥想就能强求而来。请暂时离开书桌，静心凝视一株野草或一只小虫，给大脑一片休憩之地。在自然带来的舒缓中，大脑会自行充盈消耗的能量并还你崭新的灵感。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

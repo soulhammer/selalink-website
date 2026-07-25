@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le service qui apaise l'anxiété : les habitudes de routine d'avant-match de Serena Williams"
 description: "Serena Williams, qui respectait rigoureusement des routines d'avant-match telles que faire rebondir la balle de tennis toujours 5 fois avant son premier service. Nous étudions comment les routines de pré-performance bloquent les stimuli d'anxiété externes et règlent le cerveau dans un état de cadrage cognitif."
 pubDate: "2026-04-19"
@@ -31,25 +32,23 @@ Serena Williams est une icône inégalée qui a redéfini l'histoire du sport mo
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant serena-match-routine est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques de Serena Williams et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques de Serena Williams et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Contrôle de l'amygdale et cadrage cognitif via les routines de pré-performance (PPR)
+## 1. Contrôle de l'amygdale et cadrage cognitif via les routines de pré-performance (PPR)
 
 L'anxiété intense ressentie juste avant un examen ou un match stimule l'hypothalamus cérébral, provoquant la sécrétion d'épinéphrine, ce qui crispe les muscles et induit une hypervigilance cognitive. Les 'routines de pré-performance (PPR)', éprouvées en psychologie du sport, bloquent la focalisation sur les menaces extérieures incontrôlables (force de l'adversaire, bruit de la foule) et déplacent de force le centre d'attention vers des actions physiques contrôlables à 100 % (faire rebondir la balle, aligner ses sacs). Cet acte de contrôle physique désactive les circuits d'alarme de l'amygdale et exerce un effet de cadrage cognitif qui règle le cerveau dans un 'état d'immersion sécurisé', réduisant ainsi les erreurs de prestation.
 
 ---
 
-## Précautions et conseils
-
-Le pire piège à éviter lors de l'application des routines de pré-performance est de créer un nouvel élément d'anxiété en s'obsédant sur l'ordre ou la méthode d'exécution de la routine elle-même. Si l'on s'enferme dans une obsession du type 'Si je fais rebondir la balle 4 fois au lieu de 5, je vais gâcher le match', la routine elle-même se transforme en un autre facteur de stress consommant des ressources cognitives. Par conséquent, prenez conscience que le cœur d'une routine n'est pas la perfection du geste en soi, mais un 'outil pour enclencher l'interrupteur mental', nécessitant de la souplesse pour s'adapter à la situation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Le pire piège à éviter lors de l'application des routines de pré-performance
   </p>
 </div>
 
+---
+
+## 3. Précautions et conseils
+
+Le pire piège à éviter lors de l'application des routines de pré-performance est de créer un nouvel élément d'anxiété en s'obsédant sur l'ordre ou la méthode d'exécution de la routine elle-même. Si l'on s'enferme dans une obsession du type 'Si je fais rebondir la balle 4 fois au lieu de 5, je vais gâcher le match', la routine elle-même se transforme en un autre facteur de stress consommant des ressources cognitives. Par conséquent, prenez conscience que le cœur d'une routine n'est pas la perfection du geste en soi, mais un 'outil pour enclencher l'interrupteur mental', nécessitant de la souplesse pour s'adapter à la situation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment créer ma propre routine avant des événements quotidiens importants tels que des présentations ou des examens ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Le pire piège à éviter lors de l'application des routines de pré-performance
       Définir 2 à 3 étapes d'actions mécaniques cohérentes que vous pouvez entièrement contrôler — comme 'lasser ses chaussures dans un ordre précis', 'faire 3 profondes inspirations' ou 'répéter à voix haute une phrase d'engagement' — et les répéter à l'identique vous aidera grandement à contrôler l'anxiété.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment gérer l'anxiété qui survient si je manque ou fais une erreur dans une seule étape de la routine ?</span>

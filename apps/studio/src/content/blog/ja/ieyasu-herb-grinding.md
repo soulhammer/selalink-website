@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "忍耐と平静さを養うリズム：徳川家康の生薬調合ルーティンとセロトニン神経調節"
 description: "徳川家康の精神修養法。毎日生薬を自ら薬研で摺り下ろしたリズム運動のセロトニン神経調節効果、扁桃体安定化、アンド3段階実践法を解き明かします。"
 pubDate: "2026-04-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「ieyasu-herb-grinding」は <strong>徳川家康評伝および徳川美術館（Tokugawa Art Museum）史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>徳川家康評伝および徳川美術館（Tokugawa Art Museum）史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## セロトニン（Serotonin）活性化と扁桃体安定化のリズム運動脳科学
+## 1. セロトニン（Serotonin）活性化と扁桃体安定化のリズム運動脳科学
 
 生理学的に一定の速度と圧力で反復される身体活動である<strong>「リズム運動（Rhythmic Movement）」</strong>は、大脳神経系の感情調節神経伝達物質である<strong>セロトニン（Serotonin）</strong>の分泌を極大化させます。このような等速手作業の刺激は、衝動性と恐怖を司る<strong>扁桃体（Amygdala）</strong>の不必要な過活性を抑制し、<strong>前頭前野（Prefrontal Cortex）</strong>の理性的統制力を回復させ、過酷なストレス状況の中でも揺るぎない平静さと忍耐力を維持するよう導きます。
 
 ---
 
-## 注意事項：焦りを排して一定の手作業リズムに没頭するルール
-
-心焦り不安であるほど、無理に意志力で感情を抑え込もうとしないでください。薬研や擂鉢、あるいはコーヒーグラインダーを一定の速度で摺り下ろす単純な手作業のリズムに指先の焦点を合わせ、脳神経系のセロトニンスイッチを入れることが平静さ回復の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：焦りを排して一定の手作業リズムに没頭するルール
+
+心焦り不安であるほど、無理に意志力で感情を抑え込もうとしないでください。薬研や擂鉢、あるいはコーヒーグラインダーを一定の速度で摺り下ろす単純な手作業のリズムに指先の焦点を合わせ、脳神経系のセロトニンスイッチを入れることが平静さ回復の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>自分で薬を摺り下ろして作る行為が情緒の安定にどのように役立ちますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       一定の速度で反復される動きは、脳のセロトニン神経系を刺激して扁桃体の過度な警戒反応を鎮め、前頭前野の理性的統制力を元通り復させるからです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>実際の薬研やすり鉢がない場合、現代の日常ではどのように代替できますか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Raksasa Sastra yang Mengumpulkan Biji-bijian di Tamannya: Kebiasaan Pengamatan Pagi dan Rutinitas Restorasi Perhatian Goethe"
 description: "Pelajari bagaimana Johann Wolfgang von Goethe mendapatkan inspirasi mendalam dengan mengamati tumbuhan melalui kaca pembesar setiap pagi. Temukan Teori Restorasi Perhatian (ART) dan rutinitas jalan botanis paginya."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ Apa rutinitas harian yang memberi makan kapasitas kreatifnya di bidang sains dan
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai goethe-botany-observation didasarkan pada <strong>Verifikasi Historis dari *Dichtung und Wahrheit* & *The Metamorphosis of Plants* karya Johann Wolfgang von Goethe, Arsip Museum Weimar & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Dichtung und Wahrheit* & *The Metamorphosis of Plants* karya Johann Wolfgang von Goethe, Arsip Museum Weimar & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Paparan Alam dan Ilmu Otak di Balik Teori Restorasi Perhatian (ART)
+## 1. Paparan Alam dan Ilmu Otak di Balik Teori Restorasi Perhatian (ART)
 
 Menganalisis data di layar atau membaca teks yang padat menjebak korteks prefrontal dalam kondisi pengurasan energi yang dikenal sebagai <strong>Perhatian Terarah (Directed Attention)</strong>. Paparan dalam waktu lama menyebabkan Kelelahan Perhatian Terarah. Menurut <strong>Teori Restorasi Perhatian (ART)</strong> Stephen Kaplan, mengamati elemen alami (geometri fraktal, dedaunan, atau spiral biji) melibatkan 'Pesona Halus' (Perhatian Tak Disengaja) tanpa usaha kognitif. Berjalan santai selama 15 menit sambil mengamati alam mereset kelelahan prefrontal dan menurunkan kortisol.
 
 ---
 
-## Perhatian: Protokol Mengamati Fraktal Alami untuk Memulihkan Kelelahan Kognitif Prefrontal
-
-Teks digital dan infografis layar memaksakan Perhatian Terarah yang menguras energi prefrontal. Mengamati geometri fraktal alami (tulang daun, tekstur kulit kayu, spiral biji) selama 15 menit mengaktifkan mekanisme restorasi perhatian tanpa usaha kognitif. Hindari melihat layar ponsel pintar selama berjalan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Teks digital dan infografis layar memaksakan Perhatian Terarah yang menguras ene
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Protokol Mengamati Fraktal Alami untuk Memulihkan Kelelahan Kognitif Prefrontal
+
+Teks digital dan infografis layar memaksakan Perhatian Terarah yang menguras energi prefrontal. Mengamati geometri fraktal alami (tulang daun, tekstur kulit kayu, spiral biji) selama 15 menit mengaktifkan mekanisme restorasi perhatian tanpa usaha kognitif. Hindari melihat layar ponsel pintar selama berjalan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah mengamati tanaman hias dalam ruangan atau bunga dalam pot efektif untuk restorasi perhatian?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Teks digital dan infografis layar memaksakan Perhatian Terarah yang menguras ene
       Ya. Memeriksa pola mikro pada tanaman rumah dalam ruangan melibatkan Pesona Halus, mengurangi kelelahan prefrontal. Namun, pengamatan luar ruangan yang dipadukan dengan paparan sinar matahari alami dan jalan santai memberikan restorasi sistemik terbaik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya benar-benar perlu membawa kaca pembesar dan amplop pengumpul seperti Goethe?</span>

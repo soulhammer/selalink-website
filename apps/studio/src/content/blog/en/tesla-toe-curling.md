@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Genius Who Curled His Toes 100 Times? Nikola Tesla's Bizarre Deep Sleep Ritual"
 description: "Genius inventor Nikola Tesla curled his toes in bed every night. Discover the brain science secrets hidden in his unique routine and a 3-step practical guide for modern individuals."
 pubDate: "2026-04-28"
@@ -34,14 +35,14 @@ In this post, we explore the scientific principles behind this historic genius's
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding tesla-toe-curling is based on <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
+      This content is based on <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Toes: The Neural Switch That Awakens Brain Cells
+## 1. Toes: The Neural Switch That Awakens Brain Cells
 
 Tesla believed that the seemingly trivial motion of repeatedly curling his toes stimulated the numerous nerve endings concentrated at his feet, activating brain cells and resetting accumulated fatigue.
 
@@ -49,9 +50,7 @@ In reality, the area occupied by the feet and toes in the brain's somatosensory 
 
 ---
 
-## A Neuroscientific Tip for a Successful Routine
-
-Toe exercises promote blood circulation at the furthest point from the heart, evening out body temperature and stimulating the parasympathetic nervous system. Repeating this action at the exact same moment every night (right after getting under the blanket) trains your brain to recognize it as a powerful conditioned signal for sleep.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Toe exercises promote blood circulation at the furthest point from the heart, ev
     Feel the subtle warmth and relaxation spreading through your body after the exercise, allowing yourself to naturally drift into deep sleep upon receiving your brain's sleep signal.
   </p>
 </div>
+
+---
+
+## 3. A Neuroscientific Tip for a Successful Routine
+
+Toe exercises promote blood circulation at the furthest point from the heart, evening out body temperature and stimulating the parasympathetic nervous system. Repeating this action at the exact same moment every night (right after getting under the blanket) trains your brain to recognize it as a powerful conditioned signal for sleep.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

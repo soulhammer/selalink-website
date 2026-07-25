@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Penguasaan Multibahasa Cleopatra: Kebiasaan Dialog Intelektual yang Menguasai Dunia Tanpa Penerjemah"
 description: "Pelajari bagaimana Ratu Mesir Cleopatra secara fasih menguasai setidaknya sembilan bahasa tanpa penerjemah, serta temukan neurosains kognitif tentang stimulasi area Broca dan Wernicke, peningkatan densitas substansia grisea, dan fleksibilitas kognitif prefrontal."
 pubDate: "2026-03-03"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'pengu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai cleopatra-multilingual-study didasarkan pada <strong>Verifikasi Historis dari *Parallel Lives* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Parallel Lives* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Area Broca dan Wernicke, Densitas Substansia Grisea Kortikal, dan Fleksibilitas Kognitif
+## 1. Stimulasi Area Broca dan Wernicke, Densitas Substansia Grisea Kortikal, dan Fleksibilitas Kognitif
 
 Memproses dan menghasilkan bahasa asing secara dinamis merangsang area Wernicke (pemahaman bahasa) dan area Broca (produksi bicara dan sintaksis). Secara terus-menerus beralih di antara struktur tata bahasa yang berbeda (code-switching) sangat melibatkan Jaringan Kontrol Kognitif (CCN) prefrontal. Studi neurosains mengungkapkan bahwa individu multibahasa menunjukkan peningkatan densitas substansia grisea di korteks prefrontal, menghasilkan memori kerja dan kontrol eksekutif yang unggul. Beralih kode bahasa membangun Cadangan Kognitif yang kokoh.
 
 ---
 
-## Perhatian & Tip: Menolak Konsumsi Pasif Audio-Visual & Mewajibkan Output Aktif
-
-Menonton kuliah video atau mendengarkan podcast secara pasif tanpa keterlibatan aktif gagal membangun densitas saraf dalam jaringan bahasa. Penyerapan pasif hanya menyentuh area reseptif sensorik. Untuk memicu neuroplastisitas seperti Cleopatra, padukan pendengaran dengan 'Output Aktif': berlatihlah secara nyaring untuk melibatkan otot artikulasi bicara, area Broca, dan korteks motorik.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Menonton kuliah video atau mendengarkan podcast secara pasif tanpa keterlibatan 
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menolak Konsumsi Pasif Audio-Visual & Mewajibkan Output Aktif
+
+Menonton kuliah video atau mendengarkan podcast secara pasif tanpa keterlibatan aktif gagal membangun densitas saraf dalam jaringan bahasa. Penyerapan pasif hanya menyentuh area reseptif sensorik. Untuk memicu neuroplastisitas seperti Cleopatra, padukan pendengaran dengan 'Output Aktif': berlatihlah secara nyaring untuk melibatkan otot artikulasi bicara, area Broca, dan korteks motorik.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah menonton video atau media asing secara pasif gagal meningkatkan jaringan otak bahasa?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Menonton kuliah video atau mendengarkan podcast secara pasif tanpa keterlibatan 
       Ya, efisiensinya sangat rendah. Penontonan pasif hanya merangsang sirkuit pendengaran reseptif di area Wernicke tanpa merekrut area Broca. Melibatkan otot artikulasi vokal melalui membaca nyaring dan menyusun kalimat secara aktif melalui tulisan tangan diperlukan untuk mendorong neuroplastisitas sinaptik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah mempelajari dua bahasa asing atau lebih secara bersamaan memicu kelebihan beban kognitif?</span>

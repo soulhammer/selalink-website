@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "10 Jam di Bawah Kubah British Museum? Metode Membaca Korteks Asosiasi Karl Marx"
 description: "Karl Marx membedah mekanisme tersembunyi masyarakat melalui ilmu ekonomi. Temukan kebiasaan membaca tekunnya yang mempelajari dan mencatat literatur luas selama 10 jam sehari di Ruang Baca British Museum selama pengasingannya di London, beserta prinsip ilmu sarafnya."
 pubDate: "2026-03-17"
@@ -35,25 +36,23 @@ Dalam artikel hari ini, kita akan menjelajahi makna neurosains di balik rutinita
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai marx-reading-room didasarkan pada <strong>Biografi historis, catatan autobiografi Karl Marx & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis, catatan autobiografi Karl Marx & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengapa 10 Jam Membaca Mendalam di Bawah Kubah Memungkinkan Rekonstruksi Intelektual?
+## 1. Mengapa 10 Jam Membaca Mendalam di Bawah Kubah Memungkinkan Rekonstruksi Intelektual?
 
 Menurut penelitian neurosains, kemampuan mengintegrasikan pengetahuan terfragmentasi dari berbagai bidang berawal dari aktivasi Korteks Asosiasi otak. Imersi harian 10 jam Marx dalam teks analog di British Museum sambil menyusun buku catatan kutipan tangan merupakan proses Deep Work neurologis.
 
 ---
 
-## Waspadai Membaca Pasif dan Ilusi Pengumpulan Digital
-
-Sekadar menyimpan banyak artikel digital atau PDF dan memindainya secara visual hanya meninggalkan stimulasi otak dangkal. Tanpa anotasi aktif—menyalin kutipan penting dengan tangan seperti Marx—informasi tidak pernah berubah menjadi modal intelektual sejati.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Sekadar menyimpan banyak artikel digital atau PDF dan memindainya secara visual 
   </p>
 </div>
 
+---
+
+## 3. Waspadai Membaca Pasif dan Ilusi Pengumpulan Digital
+
+Sekadar menyimpan banyak artikel digital atau PDF dan memindainya secara visual hanya meninggalkan stimulasi otak dangkal. Tanpa anotasi aktif—menyalin kutipan penting dengan tangan seperti Marx—informasi tidak pernah berubah menjadi modal intelektual sejati.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana profesional atau siswa modern dapat menerapkan rutinitas membaca 10 jam British Museum?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,8 +104,8 @@ Sekadar menyimpan banyak artikel digital atau PDF dan memindainya secara visual 
       Tiru 'densitas konsentrasi' daripada durasinya. Terapkan ini sebagai 'Sesi Membaca Mikro Mendalam' dengan mematikan ponsel Anda selama 60 - 90 menit di perpustakaan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
-  <details class="group cursor-pointer">
+
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa keuntungan neurosains dari buku catatan kutipan buatan tangan dibandingkan catatan digital?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -109,7 +114,7 @@ Sekadar menyimpan banyak artikel digital atau PDF dan memindainya secara visual 
       Buku catatan kutipan bukanlah penyalinan pasif; itu adalah dialog aktif dengan teks. Menyalin klaim kunci lalu menulis interpretasi dan keraguan Anda sendiri sangat mengaktifkan lobus frontal dan Korteks Asosiasi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mengatasi penurunan fokus atau hambatan mental saat membaca mendalam?</span>

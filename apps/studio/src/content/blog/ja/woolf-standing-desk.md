@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎朝立って文章を書いた小説家？ヴァージニア・ウルフの高度没頭習慣"
 description: "20世紀の文学の巨匠ヴァージニア・ウルフ。画家であった姉のイーゼルからインスピレーションを受け、立って執筆することで得た集中の科学と現代的な立ち作業習慣を扱います。"
 pubDate: "2026-06-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「woolf-standing-desk」は <strong>ヴァージニア・ウルフ歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ヴァージニア・ウルフ歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 立ち机と立って書く執筆が誘導する全身固有受容感覚刺激
+## 1. 立ち机と立って書く執筆が誘導する全身固有受容感覚刺激
 
 105cmの高さの立ち机に立って絵を描くように文章を書いたヴァージニア・ウルフの習慣は、全身の固有受容感覚を刺激し、執筆への心理的抵抗の壁を無力化して脳の実行機能を最高状態に稼働させます。
 
 ---
 
-## 立ち作業環境セッティング時の姿勢維持のアドバイス
-
-足の裏の荷重が一偏に偏らないようクッションマットを敷き、40分作業後に5分間リラックスする身体的バランスを維持することが重要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     40分間の集中執筆の後は、5分間の軽いストレッチや休息を取り、片足に荷重が偏るのを防ぎ、身体的・精神的バランスを維持します。
   </p>
 </div>
+
+---
+
+## 3. 立ち作業環境セッティング時の姿勢維持のアドバイス
+
+足の裏の荷重が一偏に偏らないようクッションマットを敷き、40分作業後に5分間リラックスする身体的バランスを維持することが重要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

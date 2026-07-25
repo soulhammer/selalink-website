@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "フランシス・ベーコンの朝の庭園散歩：自然観察で脳疲労をリセットする方法"
 description: "経験論の巨匠フランシス・ベーコンが毎日朝に庭園を散歩しながら植物や天気を観察し、脳の疲労をほぐして帰納法哲学を確立した方法を探ります。"
 pubDate: "2026-01-04"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「bacon-nature-observation」は <strong>フランシス・ベーコン随筆集『Essays（Of Gardens）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>フランシス・ベーコン随筆集『Essays（Of Gardens）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自然観察の散歩が注意集中力を取り戻してくれる理由
+## 1. 自然観察の散歩が注意集中力を取り戻してくれる理由
 
 現代人の業務は人工的な「意図的注意力（Directed Attention）」を必要とするため、前頭前野皮質を容易に疲弊させます。環境心理学の注意力回復理論（Attention Restoration Theory）によると、木の葉が揺れる音や差し込む陽光のような自然の刺激は「柔らかい引き込み（Soft Fascination）」を引き起こします。これは意図的に脳を使わなくても注意力を自然に移動させ、疲弊した前頭前野の認知制御ネットワークが休息し再充電され、帰納的思考力と創造的問題解決力を極大化できるよう助けます。
 
 ---
 
-## デジタル刺激の完全なオフライン化
-
-散歩しながらスマートフォンで写真を撮ったり、テキストメッセージに返信したり、ためになるポッドキャストを聞く行為は、脳の意図的注意力を使い続けさせます。注意力回復効果を得るには、スマートフォンをマナーモードに設定して完全に隔離する必要があります。ただオフラインの感覚的刺激だけに没頭してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     散歩を終えた後、作業空間に戻り、脳の休息プロセスの中で新たに調律された考えや問題の解決策を記録します。完全に充電された前頭前野は明確な回答を導き出すでしょう。
   </p>
 </div>
+
+---
+
+## 3. デジタル刺激の完全なオフライン化
+
+散歩しながらスマートフォンで写真を撮ったり、テキストメッセージに返信したり、ためになるポッドキャストを聞く行為は、脳の意図的注意力を使い続けさせます。注意力回復効果を得るには、スマートフォンをマナーモードに設定して完全に隔離する必要があります。ただオフラインの感覚的刺激だけに没頭してください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

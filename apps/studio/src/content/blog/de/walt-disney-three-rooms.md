@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Walt Disneys 'Drei Räume'-Routine: Imaginieren, Ausführen und Kritisieren"
 description: "Walt Disney verwandelte kreative Träume in ein riesiges Geschäftsimperium. Vorstellung der 'Drei Räume'-Routine, die Ideen verfeinert, indem sie das Denken klar in Träumer, Realist und Kritiker unterteilt."
 pubDate: "2026-04-16"
@@ -35,26 +36,24 @@ Im heutigen Beitrag betrachten wir die wissenschaftlichen Grundlagen hinter Disn
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu walt-disney-three-rooms basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Walt Disney Three Rooms & Kognitive Neurowissenschaften Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Walt Disney Three Rooms & Kognitive Neurowissenschaften Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kognitive Effekte der Trennung von Aufmerksamkeit und Kritik
+## 1. Kognitive Effekte der Trennung von Aufmerksamkeit und Kritik
 
 Ein häufiger Fehler bei neuen Plänen ist es, Ideen während der Erstellung gleichzeitig mit Gedanken wie 'Das ist unmöglich' oder 'Das kostet zu viel' zu überprüfen und zu kritisieren. Neurowissenschaftlich führt diese simultane Verarbeitung dazu, dass die divergente Funktion des präfrontalen Kortex mit den konvergenten Bewertungsbereichen kollidiert, was den Gedankenfluss stört und die Planung verzögert.
 Disneys Routine isolierte diese beiden kognitiven Zustände strikt. In der Phase des Träumers werden alle Bremsen gelöst, um das divergente Denken zu maximieren und einen Dopamin-Flow zu induzieren. Der Eintritt in die Phase des Realisten stimuliert die Entwurfsausarbeitung, und erst im Raum des Kritikers wird die kritische Analyse angewendet, wodurch perfekt abgestimmte Lösungen entstehen, ohne die Flügel der Idee zu beschädigen.
 
 ---
 
-## Die Trennung von Vorstellung und Kritik ist der Schlüssel
-
-Kreatives Denken muss immer vor kritischem Denken stattfinden. Versuchen Sie, Ihre Rollen klar zu definieren und sie nacheinander anzuwenden, wenn Sie Gedanken wie Walt Disney planen. So verhindern Sie den kognitiven Fehler, Ideen die Flügel zu stutzen, indem Sie sie vorzeitig kritisieren, bevor sie überhaupt entstanden sind.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,12 +85,18 @@ Kreatives Denken muss immer vor kritischem Denken stattfinden. Versuchen Sie, Ih
   </p>
 </div>
 
+---
+
+## 3. Die Trennung von Vorstellung und Kritik ist der Schlüssel
+
+Kreatives Denken muss immer vor kritischem Denken stattfinden. Versuchen Sie, Ihre Rollen klar zu definieren und sie nacheinander anzuwenden, wenn Sie Gedanken wie Walt Disney planen. So verhindern Sie den kognitiven Fehler, Ideen die Flügel zu stutzen, indem Sie sie vorzeitig kritisieren, bevor sie überhaupt entstanden sind.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist es in Ordnung, alle drei Phasen in einem Besprechungsraum durchzuführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -100,7 +105,7 @@ Kreatives Denken muss immer vor kritischem Denken stattfinden. Versuchen Sie, Ih
       Es ist am effektivsten, den physischen Raum zu wechseln, um eine geistige Erfrischung zu bewirken. Wenn die Umstände die Nutzung eines einzelnen Raums erfordern, ist es gut, dem Gehirn eine kognitive Unterscheidung zu bieten, indem man die Farben der Whiteboard-Stifte ändert, die Sitzordnung umstellt oder verschiedene Schreibgeräte verwendet (z. B. bunt Stifte für die Träumer-Phase, schwarze Kugelschreiber für die Kritiker-Phase).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was sollte getan werden, wenn die Kritik in der Kritiker-Phase so übermäßig ist, dass die Idee komplett verworfen wird?</span>

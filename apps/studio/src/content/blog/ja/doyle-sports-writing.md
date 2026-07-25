@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "シャーロック・ホームズを書く前にボクシングを？アーサー・コナン・ドイルの脳覚醒スポーツルーティンとBDNF分泌法"
 description: "医師であり作家のアーサー・コナン・ドイルが、なぜ執筆前にボクシングやクリケットのような激しい運動にこだわったのかを解き明かします。高強度運動が脳由来神経栄養因子（BDNF）を放出し、前頭葉の実行機能と集中力を極大化する認知神経科学的原理を解説します。"
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「doyle-sports-writing」は <strong>アーサー・コナン・ドイル自伝『Memories and Adventures（思い出と冒険）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アーサー・コナン・ドイル自伝『Memories and Adventures（思い出と冒険）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 身体的覚醒と脳由来神経栄養因子（BDNF）分泌および前頭葉実行機能（Executive Function）の極大化
+## 1. 身体的覚醒と脳由来神経栄養因子（BDNF）分泌および前頭葉実行機能（Executive Function）の極大化
 
 短時間の高強度運動や心拍数を大きく上げるスポーツ活動は心臓の鼓動を促進し、大脳前頭前野皮質（PFC）に向かう酸素飽和度と血流量を飛躍的に増加させます。脳科学および運動生理学の研究によると、このような身体的刺激は脳細胞の生成と可塑性を促進する核心成分である「脳由来神経栄養因子（BDNF、Brain-Derived Neurotrophic Factor）」の分泌を誘導します。同時にドパミンやノルエピネフリンなどの神経伝達物質の濃度を最適化し、運動終了後約1時間の間、前頭前野の実行機能（Executive Function）—複雑な企画、論理的推論、アーキテクチャ設計—を人生最高水準へと引き上げる「認知ゴールデンタイム」を形成します。
 
 ---
 
-## 注意事項＆ヒント：運動直後1時間の「認知ゴールデンタイム」確保と副次的課題の遮断
-
-コナン・ドイルにとって高強度運動は小説の緻密な論理を紡ぎ出すための知的信号でした。運動直後、大脳血流量とBDNF濃度が極大化した1時間の「認知ゴールデンタイム」に、メールの返信、SNSの閲覧、簡単な手作業などの副次的な雑務を処理して脳のリソースを使い果たしてはなりません。運動後汗を流した直後はニュースやメッセンジャーを全面遮断し、最も頭が痛く難しい核心課題（開発設計、本質企画、原稿執筆）に即座に着席しなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：運動直後1時間の「認知ゴールデンタイム」確保と副次的課題の遮断
+
+コナン・ドイルにとって高強度運動は小説の緻密な論理を紡ぎ出すための知的信号でした。運動直後、大脳血流量とBDNF濃度が極大化した1時間の「認知ゴールデンタイム」に、メールの返信、SNSの閲覧、簡単な手作業などの副次的な雑務を処理して脳のリソースを使い果たしてはなりません。運動後汗を流した直後はニュースやメッセンジャーを全面遮断し、最も頭が痛く難しい核心課題（開発設計、本質企画、原稿執筆）に即座に着席しなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>コナン・ドイルは実際にレベルの高いクリケット選手でありボクサーだったのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、そうです。コナン・ドイルはイギリスのメリルボーン・クリケット・クラブ（MCC）のアマチュア1級選手として目覚ましい活躍を見せ、ボクシングの試合の審判としても採用されるほど精通したボクサーでした。このような卓越した身体感覚と実戦スポーツの経験は、後に小説の中でシャーロック・ホームズがバリツ（Baritsu）やボクシングに精通したキャラクターとして設定される生き生きとした考証の土台となりました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>忙しい現代人がボクシングやクリケットのような高強度スポーツを行うのは難しいですが、宅トレでも同じ効果がありますか？</span>

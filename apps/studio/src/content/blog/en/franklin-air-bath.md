@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "30 Minutes Every Morning: Benjamin Franklin's Curious 'Air Bath' Health Method and Autonomic Reset Routine"
 description: "Discover how Benjamin Franklin, lightning rod inventor and US Founding Father, practiced his daily morning 'air bath' sitting naked by open windows. Explore the neuroscience of skin cold receptors (TRPM8), norepinephrine arousal, and autonomic nervous system regulation."
 pubDate: "2026-02-12"
@@ -38,22 +39,20 @@ In today's post, we uncover the brain science behind Benjamin Franklin's 'air ba
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding franklin-air-bath is based on <strong>Historical Verification from *The Autobiography of Benjamin Franklin*, Franklin's Letters to M. Barbeu Dubourg & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from *The Autobiography of Benjamin Franklin*, Franklin's Letters to M. Barbeu Dubourg & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cutaneous Cold Receptor Stimulation and Autonomic Sympathetic-Parasympathetic Balance
+## 1. Cutaneous Cold Receptor Stimulation and Autonomic Sympathetic-Parasympathetic Balance
 
 When cutaneous cold-sensing receptors (TRPM8) detect cool air exposure, signals travel to the hypothalamus and autonomic nervous system, promoting micro-constriction and dilation of skin capillaries. This pathway stimulates the brainstem's <strong>locus coeruleus</strong>, releasing <strong>norepinephrine</strong> and <strong>dopamine</strong> to dispel morning grogginess and sharply elevate prefrontal executive focus. Furthermore, as body temperature naturally recovers after cool air exposure, vagal nerve activity and parasympathetic responses engage, resetting sympathetic hyper-arousal caused by chronic stress and restoring emotional equilibrium.
 
 ---
 
-## Caution: Protocol for Exposure Duration to Prevent Hypothermia and Extreme Cold
-
-An air bath is not an endurance test of shivering through extreme frost. Excessive exposure to freezing cold induces severe vasoconstriction, leading to elevated blood pressure or suppressed immune function. To safely achieve autonomic reset benefits, limit exposure to a comfortable, cool temperature range for 10 to 15 minutes maximum.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ An air bath is not an endurance test of shivering through extreme frost. Excessi
   </p>
 </div>
 
+---
+
+## 3. Caution: Protocol for Exposure Duration to Prevent Hypothermia and Extreme Cold
+
+An air bath is not an endurance test of shivering through extreme frost. Excessive exposure to freezing cold induces severe vasoconstriction, leading to elevated blood pressure or suppressed immune function. To safely achieve autonomic reset benefits, limit exposure to a comfortable, cool temperature range for 10 to 15 minutes maximum.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does an Air Bath genuinely aid immune resilience and mental alertness?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ An air bath is not an endurance test of shivering through extreme frost. Excessi
       Yes. Mild cutaneous cold exposure enhances autonomic nervous system flexibility. By triggering norepinephrine release, it eliminates morning brain fog and sharpens prefrontal executive control.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How should I safely practice an Air Bath during freezing winter months?</span>

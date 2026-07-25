@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "复制他人步幅的镜面视角：查理·卓别林的大脑肢体模仿与人性剖析习惯"
 description: "探索无声电影时代的巨匠查理·卓别林在街头观察并物理模仿陌生人步态与动作的习惯，揭示激活前运动皮层镜像神经元（Mirror Neurons）以拓宽身体图式（Body Schema）并最大化提升他人共情能力的神经科学原理。"
 pubDate: "2026-03-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 charlie-chaplin 的内容基于 <strong>查理·卓别林自传《卓别林自传（My Autobiography）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>查理·卓别林自传《卓别林自传（My Autobiography）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 前运动皮层镜像神经元（Mirror Neurons）激活与身体图式（Body Schema）扩容
+## 1. 前运动皮层镜像神经元（Mirror Neurons）激活与身体图式（Body Schema）扩容
 
 亲身用肉体复刻他人精密的运动力学轨迹，能够强效激活大脑前运动皮层（Premotor Cortex）与下顶小叶的“镜像神经元（Mirror Neurons）”系统。这项运动模仿训练能显著扩展刻印于大皮层的“身体图式（Body Schema）”的分辨率与涵盖范畴。再者，通过对姿态与步幅等物理肌肉动作展开镜面模仿，在具身认知（Embodied Cognition）机制的作用下，大脑能将对方边缘系统（Limbic System）所承受的焦虑、紧绷与疲惫等情绪指标解密精准度提升约70%以上，从而大幅增强直觉化洞察他人心理状态与行为动机的元认知能力。
 
 ---
 
-## 注意事项与提示：隐蔽利用外围视角（Peripheral Vision）与确保社交分寸
-
-在践行模仿他人的观察训练时，最需要警惕的是死死直视对方而引发反感或带来安全隐患。相较于用固定的视线死角盯住目标，更应巧妙借由外围视角（Peripheral Vision）的广角范畴，柔和地追踪目标的轮廓运动轨迹。此外，在实际跟步模仿时，务必与对方保持足够的安全距离，严禁做出带有嘲讽色彩的夸张戏谑动作，将注意力全数收敛于内化肌肉平衡的运动几何学上。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：隐蔽利用外围视角（Peripheral Vision）与确保社交分寸
+
+在践行模仿他人的观察训练时，最需要警惕的是死死直视对方而引发反感或带来安全隐患。相较于用固定的视线死角盯住目标，更应巧妙借由外围视角（Peripheral Vision）的广角范畴，柔和地追踪目标的轮廓运动轨迹。此外，在实际跟步模仿时，务必与对方保持足够的安全距离，严禁做出带有嘲讽色彩的夸张戏谑动作，将注意力全数收敛于内化肌肉平衡的运动几何学上。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在街头观察过程中与对方目光交汇感到尴尬时该如何应对？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       避免直视对方的面部目光。可通过佩戴太阳镜或手端饮料杯自然分散视角，练习运用外围光视角（Peripheral Vision）的宽泛焦距，仅轻柔扫描对方的轮廓与动态轨迹而非五官。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>肉体模仿是否真的有助于化解并解读他人的情绪与心理状态？</span>

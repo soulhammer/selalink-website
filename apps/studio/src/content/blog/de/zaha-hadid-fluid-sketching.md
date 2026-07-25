@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Baukünstlerin ohne rechte Winkel: Zaha Hadids organisches Kurven-Skizzenmodell"
 description: "Pritzker-Preisträgerin Zaha Hadid. Stellt ihre Gehirn-Stimulationsmethode vor, bei der sie das rechtwinklige Raster durch freies Zeichnen organischer Kurven durchbrach, um räumliche Visionen zu entwickeln."
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ Dieser Beitrag beleuchtet Hadids 'Freihand-Kurvenskizzen'-Routine und bietet ein
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu zaha-hadid-fluid-sketching basiert auf <strong>Historische Biografien und autobiografische Dokumente zu Zaha Hadid sowie Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Dokumente zu Zaha Hadid sowie Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation rechtshemisphärischer visuell-räumlicher Verarbeitungspfade
+## 1. Stimulation rechtshemisphärischer visuell-räumlicher Verarbeitungspfade
 
 Das Verharren in starren Rastern lässt die linke Gehirnhälfte dominieren und verstärkt Denkmuster. Das freie <strong>Skizzieren organischer Formen</strong> per Hand aktiviert visuell-räumliche Areale der rechten Gehirnhälfte und bringt frische visuelle Ideen hervor.
 
 ---
 
-## Warnung vor perfekcionistischer Anspannung zu Beginn
-
-Verwenden Sie zu Beginn keine Lineale und korrigieren Sie keine Asymmetrien, sonst schließt sich der kreative Denkraum. Konzentrieren Sie sich in den ersten 5 Minuten nur auf den Linienfluss. Gestalten Sie Ihre Umgebung so, dass das Ausprobieren leicht fällt.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Verwenden Sie zu Beginn keine Lineale und korrigieren Sie keine Asymmetrien, son
   </p>
 </div>
 
+---
+
+## 3. Warnung vor perfekcionistischer Anspannung zu Beginn
+
+Verwenden Sie zu Beginn keine Lineale und korrigieren Sie keine Asymmetrien, sonst schließt sich der kreative Denkraum. Konzentrieren Sie sich in den ersten 5 Minuten nur auf den Linienfluss. Gestalten Sie Ihre Umgebung so, dass das Ausprobieren leicht fällt.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann ich diese Routine auch ohne jegliche Zeichenkenntnisse nutzen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Verwenden Sie zu Beginn keine Lineale und korrigieren Sie keine Asymmetrien, son
       Ja, absolut! Das Ziel ist kein Kunstwerk, sondern ein Gehirntraining zur Stimulation räumlicher Pfade. Selbst einfache Kritzeleien erzielen die volle Wirkung.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Hat die Nutzung eines Grafiktabletts denselben Effekt?</span>

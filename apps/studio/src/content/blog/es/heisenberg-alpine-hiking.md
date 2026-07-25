@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pistas de Incertidumbre Regaladas por la Naturaleza: La Rutina de Senderismo Alpino y la Incubación DMN de Werner Heisenberg"
 description: "Descubra cómo Werner Heisenberg resolvió dilemas de la mecánica cuántica caminando solo por los Alpes Bávaros. Explore la ciencia de la Teoría de Restauración de la Atención (ART) y la incubación en la Red por Defecto (DMN)."
 pubDate: "2026-02-06"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva y la psicología
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre heisenberg-alpine-hiking se basa en <strong>Verificación Histórica de *La parte y el todo (Der Teil und das Ganze)* de Werner Heisenberg, Archivos de la Academia Bárava de Ciencias e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *La parte y el todo (Der Teil und das Ganze)* de Werner Heisenberg, Archivos de la Academia Bárava de Ciencias e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teoría de Restauración de la Atención (ART) e Incubación Cognitiva en la Red por Defecto (DMN)
+## 1. Teoría de Restauración de la Atención (ART) e Incubación Cognitiva en la Red por Defecto (DMN)
 
 La concentración prolongada en pantallas o números agota los recursos ejecutivos, causando fatiga de la atención dirigida. Al caminar por la naturaleza como Heisenberg, se activa la <strong>Teoría de Restauración de la Atención (ART)</strong>. Los estímulos naturales brindan <strong>'Fascinación Suave' (Soft Fascination)</strong>, descansando la atención dirigida y reduciendo la tensión prefrontal. Esto activa la <strong>Red por Defecto (DMN)</strong>, desencadenando la <strong>Incubación Cognitiva</strong>, donde el subconsciente reorganiza fórmulas complejas para generar visiones creativas.
 
 ---
 
-## Precaución: Elimine Estímulos Digitales para Permitir la Incubación Subconsciente en la DMN
-
-El peor obstáculo durante una caminata contemplativa es consumir contenido digital: escuchar podcasts o revisar correos. Consumir información en pantalla mientras está al aire libre sigue agotando la Atención Dirigida, bloqueando la restauración y la incubación en la DMN. Ponga su teléfono en Modo Avión e inmerja su mente en los sonidos naturales y el ritmo de sus pasos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El peor obstáculo durante una caminata contemplativa es consumir contenido digi
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine Estímulos Digitales para Permitir la Incubación Subconsciente en la DMN
+
+El peor obstáculo durante una caminata contemplativa es consumir contenido digital: escuchar podcasts o revisar correos. Consumir información en pantalla mientras está al aire libre sigue agotando la Atención Dirigida, bloqueando la restauración y la incubación en la DMN. Ponga su teléfono en Modo Avión e inmerja su mente en los sonidos naturales y el ritmo de sus pasos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo adapto esta rutina si vivo en una ciudad densa lejos de senderos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El peor obstáculo durante una caminata contemplativa es consumir contenido digi
       Sustituya los senderos de montaña por un paseo de 30 minutos por un parque urbano, jardín botánico o avenida arbolada sin teléfono. Lo esencial es activar los sentidos visoespaciales y aumentar el flujo sanguíneo cerebral.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuál es la mejor manera de capturar las ideas que surgen durante la caminata sin perder el enfoque?</span>

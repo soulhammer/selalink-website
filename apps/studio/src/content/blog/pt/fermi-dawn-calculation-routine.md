@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Concentração Absoluta na Hora Dourada: A Rotina Matinal de 2 Horas de Cálculo Solitário e Imersão Cognitiva de Enrico Fermi"
 description: "Descubra como o físico prêmio Nobel Enrico Fermi, criador do primeiro reator nuclear, aproveitava sua hora dourada cognitiva dedicando 2 horas matinais solitárias a cálculos complexos. Explore a neurociência da resposta de despertar do cortisol."
 pubDate: "2026-05-14"
@@ -33,25 +34,23 @@ Como registrou sua esposa Laura Fermi em suas memórias *Atoms in the Family*, F
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre fermi-dawn-calculation-routine é baseada em <strong>Verificação Histórica de *Atoms in the Family: My Life with Enrico Fermi* de Laura Fermi, Arquivos Biográficos e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Atoms in the Family: My Life with Enrico Fermi* de Laura Fermi, Arquivos Biográficos e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Resposta de Despertar do Cortisol e a Ciência Cerebral da Hora Dourada Cognitiva
+## 1. Resposta de Despertar do Cortisol e a Ciência Cerebral da Hora Dourada Cognitiva
 
 Ao acordar, a fisiologia humana ativa a <strong>'Resposta de Despertar do Cortisol (CAR)'</strong>, elevando seus níveis em 50% dentro de 30 a 45 minutos. Durante as 2 a 3 horas seguintes, o córtex pré-frontal vive sua <strong>'Hora Dourada Cognitiva'</strong>, em que o raciocínio lógico, a <strong>Memória de Trabalho</strong> e a tomada de decisões atingem o pico diário. Evitar distrações digitais e focar em papel e caneta ou código complexo induz um estado de Fluxo de Alta Carga Cognitiva.
 
 ---
 
-## Precaução: Evite a Sobrecarga Gastrointestinal e Mantenha o Jejum Durante a Hora Dourada
-
-Um detalhe crítico é evitar cafés da manhã pesados que sobrecarreguem o sistema digestivo. Consumir carboidratos ou gorduras desvia o fluxo sanguíneo para o trato gastrointestinal, reduzindo a oxigenação cerebral e causando sonolência pós-prandial. Para preservar a agilidade mental durante as 2 horas matinais, mantenha um jejum leve consumindo apenas água, chá verde sem açúcar ou café preto.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Um detalhe crítico é evitar cafés da manhã pesados que sobrecarreguem o sist
   </p>
 </div>
 
+---
+
+## 3. Precaução: Evite a Sobrecarga Gastrointestinal e Mantenha o Jejum Durante a Hora Dourada
+
+Um detalhe crítico é evitar cafés da manhã pesados que sobrecarreguem o sistema digestivo. Consumir carboidratos ou gorduras desvia o fluxo sanguíneo para o trato gastrointestinal, reduzindo a oxigenação cerebral e causando sonolência pós-prandial. Para preservar a agilidade mental durante as 2 horas matinais, mantenha um jejum leve consumindo apenas água, chá verde sem açúcar ou café preto.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que fazer se for difícil manter o foco por 2 horas seguidas e minha mente vagar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Um detalhe crítico é evitar cafés da manhã pesados que sobrecarreguem o sist
       Se 2 horas seguidas for muito desgastante, aplique a técnica de '2 Blocos Divididos': 50 minutos de foco profundo e 10 minutos de alongamento. No intervalo, não olhe o celular; beba água ou caminhe para manter o fluxo sanguíneo antes do segundo bloco.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Pessoas noturnas que têm dificuldade para acordar cedo podem aproveitar essa Hora Dourada Cognitiva?</span>

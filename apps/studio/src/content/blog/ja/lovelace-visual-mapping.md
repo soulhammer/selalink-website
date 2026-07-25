@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "数学公式を絵として描いたプログラマー：エダ・ラブレスの視覚図式化法と二重符号化ネットワーク"
 description: "世界最初のプログラマー、エイダ・ラブレス。解析機関の複雑な演算制御フローとアルゴリズムを視覚的ダイアグラムへと図式化した彼女の習慣を解説します。作業記憶（Working Memory）の限界を克服し前頭前野のパターン感知能力を極大化する二重符号化理論と3段階実践ガイドを網羅します。"
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「lovelace-visual-mapping」は <strong>エイダ・ラブレス著作『解析機関に関する注釈（Notes on the Analytical Engine, 1843）』史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エイダ・ラブレス著作『解析機関に関する注釈（Notes on the Analytical Engine, 1843）』史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業記憶（Working Memory）限界克服と二重符号化理論（Dual-Coding Theory）
+## 1. 作業記憶（Working Memory）限界克服と二重符号化理論（Dual-Coding Theory）
 
 短期情報を維持・加工する脳の<strong>作業記憶（Working Memory）</strong>は同時処理容量が極めて制限されており、数式やテキストだけが流入し続けるとすぐに<strong>知的過負荷（Cognitive Overload）</strong>に陥ります。エイダ・ラブレスのダイアグラム図式化ルーティンは脳の<strong>二重符号化理論（Dual-Coding Theory）</strong>を極大化させた知的戦略でした。記号情報（言語/数式）とイメージ情報（視的配置/矢印）が独立した神経ネットワークで処理されるため、難解な概念を空間的ダイアグラムへと転換すると<strong>視覚皮質（Visual Cortex）</strong>が知的負荷を分散受容し、<strong>前頭前野（Prefrontal Cortex）</strong>のパターン感知および論理設計能力が極大化されます。
 
 ---
 
-## 注意事項：テキスト中心の線形記録を排除し視覚的関係網（Visual Mapping）に没頭するルール
-
-複雑な企画やコード構造が解決しない時、羅列式のテキストや数式書きだけに固執することは脳を限定された知的チャンネルに閉じ込める行為です。思考の流れが滞ったら直ちに文字書きを止め、広い紙の上に矢印と図形を用いてデータと概念の間の有機的関係網を視覚化する次元転換を実行してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：テキスト中心の線形記録を排除し視覚的関係網（Visual Mapping）に没頭するルール
+
+複雑な企画やコード構造が解決しない時、羅列式のテキストや数式書きだけに固執することは脳を限定された知的チャンネルに閉じ込める行為です。思考の流れが滞ったら直ちに文字書きを止め、広い紙の上に矢印と図形を用いてデータと概念の間の有機的関係網を視覚化する次元転換を実行してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>エイダ・ラブレスの視覚図式化法は一般的なマインドマップとどのように異なりますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       マインドマップは単語の自由な発想と放射状の連想拡張に焦点を当てる一方、ラブレスの視覚図式化はシステム内部の制御フロー（Loopおよび条件）、データ移動、因果関係など「作動メカニズムの構造的論理」を図で設計することに特化しています。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>UMLやFigmaのような複雑なデジタルツールを使わなければ効果がありませんか？</span>

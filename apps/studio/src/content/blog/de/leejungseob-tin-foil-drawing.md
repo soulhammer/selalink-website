@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Fokus trotz Mangel: Lee Jung-seobs Folien-Zeichenroutine und somatosensorische Aktivierung"
 description: "Erfahren Sie, wie der Maler Lee Jung-seob trotz extremer Armut seine künstlerische Leidenschaft bewahrte, indem er auf Zigarettenschachtel-Alufolie zeichnete. Entdecken Sie die Neurowissenschaften der multisensorischen Rückkopplung, somatosensorischen Stimulation und eine 3-Schritte-Anleitung."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften und kunsttherapeutis
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu leejungseob-tin-foil-drawing basiert auf <strong>Historische Überprüfung aus Lee Jung-seob Biografien, Archiven des National Museum of Modern and Contemporary Art (MMCA) & Forschung der kognitiven Neurowissenschaften und Kunsttherapie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Lee Jung-seob Biografien, Archiven des National Museum of Modern and Contemporary Art (MMCA) & Forschung der kognitiven Neurowissenschaften und Kunsttherapie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Visuell-haptische multisensorische Rückkopplung und Stimulation des somatosensorischen Kortex
+## 1. Visuell-haptische multisensorische Rückkopplung und Stimulation des somatosensorischen Kortex
 
 Haptische Reize aktivieren den <strong>somatosensorischen Kortex</strong> im Gehirn intensiv. Das Ritzen von Linien in Metallfolie mit einem spitzen Gegenstand stimuliert die Rezeptoren in den Fingerspitzen und erzeugt eine <strong>haptische Aktivierung (Tactile Arousal)</strong>, die den präfrontalen Kortex weckt. Die Verbindung aus Widerstand, Geräusch und visueller Tiefe bildet eine <strong>multisensorische Rückkopplungsschleife (Multisensory Feedback Loop)</strong>. Dies füllt das <strong>Arbeitsgedächtnis</strong> aus, blockiert störende Gedankenschleifen und führt in den Zustand der <strong>Achtsamkeit (Mindfulness)</strong>.
 
 ---
 
-## Vorsichtsmaßnahme: Nicht auf perfekte Bedingungen warten, sondern direkt in haptische Reize eintauchen
-
-Schieben Sie Vorhaben nicht auf, indem Sie unzureichendes Material vorschützen. Die Fähigkeit zur haptischen Konzentration liegt in Ihnen – unabhängig vom Untergrund, ob Folie oder Papierschnipsel. Überlassen Sie innere Unruhe dem Gefühl des Widerstands beim Zeichnen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Schieben Sie Vorhaben nicht auf, indem Sie unzureichendes Material vorschützen.
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Nicht auf perfekte Bedingungen warten, sondern direkt in haptische Reize eintauchen
+
+Schieben Sie Vorhaben nicht auf, indem Sie unzureichendes Material vorschützen. Die Fähigkeit zur haptischen Konzentration liegt in Ihnen – unabhängig vom Untergrund, ob Folie oder Papierschnipsel. Überlassen Sie innere Unruhe dem Gefühl des Widerstands beim Zeichnen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Welches wissenschaftliche Prinzip erklärt, warum das Zeichnen auf Alufolie Stress abbaut?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Schieben Sie Vorhaben nicht auf, indem Sie unzureichendes Material vorschützen.
       Der spürbare Widerstand und das Geräusch beim Ritzen der Folie lasten die somatosensorischen Netzwerke im Gehirn aus. Dies dämpft Stresssignale der Amygdala und verhindert negatives Grübeln.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kann man Alufolie und Nägel durch normales Papier und einen Kugelschreiber ersetzen?</span>

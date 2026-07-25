@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Piano Poet's Obsessive Perfectionism: Frédéric Chopin's Keyboard Iteration and ACC Fine-Tuning Routine"
 description: "Explore how Romantic master Frédéric Chopin played melodies hundreds of times on the keys to craft immortal masterpieces, and discover the cognitive neuroscience of Anterior Cingulate Cortex (ACC) error detection and Neural Fine-tuning."
 pubDate: "2026-06-21"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Frédéric Chopin's 'ke
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding chopin-piano-refinement is based on <strong>Historical Verification from George Sand's Autobiography *Histoire de ma vie (Story of My Life)* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from George Sand's Autobiography *Histoire de ma vie (Story of My Life)* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Feedback Iteration Loops and Anterior Cingulate Cortex (ACC) Neural Fine-Tuning
+## 1. Feedback Iteration Loops and Anterior Cingulate Cortex (ACC) Neural Fine-Tuning
 
 The Anterior Cingulate Cortex (ACC) serves as the brain's real-time monitoring center that detects discrepancies between internal goal states and actual physical execution. Continuously comparing internal mental melodies against acoustic outputs through hundreds of piano repetitions—as Chopin practiced—maximally engages the ACC error-detection network. When this feedback loop runs continuously, the brain transitions into 'Neural Fine-tuning', reconfiguring synaptic connectivity. This process aggressively prunes cognitive noise, structural flaws, and awkward dissonance at a neural level, refining creative output to an extraordinary degree of aesthetic precision.
 
 ---
 
-## Caution & Tips: Strict Separation of Initial Draft Generation from Fine-Tuning
-
-The primary risk when applying a Chopin-style iterative routine is attempting absolute perfection during the initial draft phase. Even Chopin built his painstaking keyboard revisions upon raw, intuitive melodic skeletons. During draft generation, suppress executive prefrontal filters and output the structural framework rapidly without editing. Only upon transitioning into Phase 2—Refinement and Tuning—should you activate microscopic ACC critique, preventing creative paralysis and early burn-out.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The primary risk when applying a Chopin-style iterative routine is attempting ab
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Strict Separation of Initial Draft Generation from Fine-Tuning
+
+The primary risk when applying a Chopin-style iterative routine is attempting absolute perfection during the initial draft phase. Even Chopin built his painstaking keyboard revisions upon raw, intuitive melodic skeletons. During draft generation, suppress executive prefrontal filters and output the structural framework rapidly without editing. Only upon transitioning into Phase 2—Refinement and Tuning—should you activate microscopic ACC critique, preventing creative paralysis and early burn-out.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Doesn't obsessive, perfectionist iteration hinder progress and cause missed deadlines?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The primary risk when applying a Chopin-style iterative routine is attempting ab
       Yes, that is a real risk. To prevent this, strictly separate 'drafting time' from 'refinement time' and establish quantitative boundaries—such as limiting the revision phase to a maximum of 3 hours or 5 cycles. Applying the refinement process within a bounded time window maintains the balance between productivity and quality.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>At what point during iterative refinement should one stop modifying and finalize the work?</span>

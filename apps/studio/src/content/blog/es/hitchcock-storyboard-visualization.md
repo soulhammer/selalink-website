@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Completar el 100% en la Mente Primero: La Rutina de Guion Gráfico Visual y Simulación Mental de Alfred Hitchcock"
 description: "Descubra la rutina de guion gráfico de Alfred Hitchcock antes del rodaje. Explore cómo la simulación mental activa las redes de ejecución motora y elimina la fatiga de decisión."
 pubDate: "2026-02-08"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre hitchcock-storyboard-visualization se basa en <strong>Verificación Histórica de las Biografías de Alfred Hitchcock, Entrevistas de François Truffaut en *El cine según Hitchcock (Hitchcock/Truffaut)* e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Biografías de Alfred Hitchcock, Entrevistas de François Truffaut en *El cine según Hitchcock (Hitchcock/Truffaut)* e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación de la Red de Ejecución Motora y Eliminación de la Fatiga de Decisión
+## 1. Estimulación de la Red de Ejecución Motora y Eliminación de la Fatiga de Decisión
 
 La investigación neurocientífica demuestra que al simular mentalmente una secuencia de acciones antes de ejecutarla, la <strong>Red de Ejecución Motora</strong> del cerebro se activa de forma idéntica a la práctica real. Este proceso, conocido como <strong>Simulación Mental</strong>, permitió a Hitchcock experimentar visualmente las variables y predeterminar soluciones. Esta precomputación elimina por completo la <strong>Fatiga de Decisión (Decision Fatigue)</strong> durante la ejecución, protegiendo el ancho de banda prefrontal para obtener resultados impecables.
 
 ---
 
-## Precaución: Transición Inmediata a la Acción Sin Quedarse Atrapado en la Indulgencia de la Planificación
-
-Evite caer en la 'Indulgencia del Plan' (Plan Indulgence), donde el guion gráfico se convierte en garabatos pasivos que retrasan la ejecución. El guion gráfico es solo una herramienta de apoyo cognitivo. Limite su esquema a 3 o 5 etapas principales para minimizar el tiempo de preparación. Tras la simulación mental, pase de inmediato al primer paso físico.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Evite caer en la 'Indulgencia del Plan' (Plan Indulgence), donde el guion gráfi
   </p>
 </div>
 
+---
+
+## 3. Precaución: Transición Inmediata a la Acción Sin Quedarse Atrapado en la Indulgencia de la Planificación
+
+Evite caer en la 'Indulgencia del Plan' (Plan Indulgence), donde el guion gráfico se convierte en garabatos pasivos que retrasan la ejecución. El guion gráfico es solo una herramienta de apoyo cognitivo. Limite su esquema a 3 o 5 etapas principales para minimizar el tiempo de preparación. Tras la simulación mental, pase de inmediato al primer paso físico.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es efectivo usar herramientas digitales si resulta incómodo dibujar los guiones gráficos a mano?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Evite caer en la 'Indulgencia del Plan' (Plan Indulgence), donde el guion gráfi
       ¡Sí, totalmente! La clave no es la habilidad artística, sino la estructuración de la acción y la simulación. Usar herramientas como Figma, Miro o aplicaciones de mapas mentales para organizar bloques y texto ofrece los mismos beneficios cognitivos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si surgen variables imprevistas durante la ejecución que se desvían del guion gráfico?</span>

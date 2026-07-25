@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "24小时保持巅峰体能的秘密？克里斯蒂亚诺·罗纳尔多的90分钟分段睡眠法"
 description: "世界顶级前锋克里斯蒂亚诺·罗纳尔多。介绍他每天进行5次每次90分钟的分段睡眠以最大化身体恢复力的睡眠科学与实践技巧。"
 pubDate: "2026-01-20"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 ronaldo-polyphasic-sleep 的内容基于 <strong>克里斯蒂亚诺·罗纳尔多历史传记与自传考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>克里斯蒂亚诺·罗纳尔多历史传记与自传考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 90分钟R90周期与生长激素释放优化
+## 1. 90分钟R90周期与生长激素释放优化
 
 人类自然的睡眠周期由非快速眼动（Non-REM）和快速眼动（REM）睡眠结合组成，持续约90分钟。如果在夜间连续睡眠的中途强行醒来，大脑会陷入极度疲劳的“睡眠惯性（Sleep Inertia）”状态。
 
@@ -47,9 +48,7 @@ faqs:
 
 ---
 
-## 完全遮光遮音的环境与正确的姿势决定睡眠效率
-
-要成功进行分段睡眠或短时间能量打盹，必须做到彻底的环境隔绝。极微弱的光线或噪音都会干扰大脑的深度放松。此外，为了减轻心脏负担并保持脊椎成一条直线，建议采取侧卧并轻微弯曲膝盖的胎儿姿势（Fetal Position）入睡。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 完全遮光遮音的环境与正确的姿势决定睡眠效率
+
+要成功进行分段睡眠或短时间能量打盹，必须做到彻底的环境隔绝。极微弱的光线或噪音都会干扰大脑的深度放松。此外，为了减轻心脏负担并保持脊椎成一条直线，建议采取侧卧并轻微弯曲膝盖的胎儿姿势（Fetal Position）入睡。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果晚上睡眠质量很好，白天还需要进行分段睡眠吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       对于一般的白领上班族，无需在白天强行重复90分钟的睡眠。但在进行高强度体能训练，或因加班导致夜间睡眠不足的日子里，临时采用90分钟或30分钟的分段睡眠来重置身体是非常有益的。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>以胎儿姿势入睡时，向哪一侧卧更好？</span>

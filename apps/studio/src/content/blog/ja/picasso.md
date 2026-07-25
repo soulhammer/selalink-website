@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "アイデアが停滞したとき即座に隣のキャンバスへ切り替えたピカソの柔軟没頭法"
 description: "キュビスムを創始した現代美術の巨匠。夜間に邪魔が入らないよう遮断し、一本のローソクの光の中で創造的火花を燃やしました。"
 pubDate: "2026-02-15"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「picasso」は <strong>ピカソの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ピカソの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 成功をもたらす脳科学的原理の分析
+## 1. 成功をもたらす脳科学的原理の分析
 
 注意が散漫になり始めた時、同種の複雑な業務を無理に継続すると、脳の前頭葉の認知統制リソースが急速に消耗する「注意の残留（Attention Residue）」の枯渇を経験することになります。ピカソのように完全に性質の異なる2〜3種類の作業を柔軟に切り替える（Attention Switching）ことで、それまで使われていた脳の神経領域は休息を取り、新しい脳神経網が覚醒して疲労を最小限に抑え、集中力を長時間維持することができます。
 
 ---
 
-## 成功的な定着のための行動科学的アドバイス
-
-一度に複数のメッセンジャーウィンドウを開いてマルチタスクを行えという意味ではありません。一つの作業ブロック内では徹底的に「単一のタスク」だけに超集中し、ブロック間の連携の切り替えをピカソのように柔軟に行うという知恵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 成功的な定着のための行動科学的アドバイス
+
+一度に複数のメッセンジャーウィンドウを開いてマルチタスクを行えという意味ではありません。一つの作業ブロック内では徹底的に「単一のタスク」だけに超集中し、ブロック間の連携の切り替えをピカソのように柔軟に行うという知恵です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>タスクの切り替えを柔軟にしすぎると、かえって仕事の締めくくりが遅れませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       いいえ。脳科学的に一つのタスクに停滞期が訪れて認知摩擦が極大化した時に無理に固執するより、20分間リフレッシュ業務を行い、クリアな前頭葉で復帰する方が最終的な完遂速度を40%以上早めます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>1日に最大いくつくらいのタスク・トラックで設計するのが最も適していますか？</span>

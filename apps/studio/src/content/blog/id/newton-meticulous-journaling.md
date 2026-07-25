@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mencatat Ketertiban di Tengah Kekacauan: Kebiasaan Jurnal Penelitian Sir Isaac Newton"
 description: "Sir Isaac Newton, ilmuwan terbesar dalam sejarah. Pelajari kebiasaannya mencatat setiap wawasan dan perhitungan dalam buku catatan kulit besar serta prinsip neurosains dari tulisan tangan."
 pubDate: "2026-03-30"
@@ -33,17 +34,17 @@ Dalam artikel ini, kami mengupas mekanisme neurosains di balik rutinitas jurnal 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai newton-meticulous-journaling didasarkan pada <strong>Biografi Historis dan Catatan Autobiografi Sir Isaac Newton & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi Historis dan Catatan Autobiografi Sir Isaac Newton & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Cognitive Offloading': Mengosongkan Beban Memori Kerja
+## 1. 'Cognitive Offloading': Mengosongkan Beban Memori Kerja
 
 Kapasitas memori kerja sangat terbatas. Ketika memproses banyak perhitungan rumit di dalam kepala, otak mengalami beban kognitif berlebih dan menghentikan pemikiran kreatif. Praktik Newton mencatat dan memvisualisasikan secara rinci mengaktifkan mekanisme <strong>'Cognitive Offloading'</strong>.
 
@@ -51,9 +52,7 @@ Dengan mencadangkan pikiran ke media fisik, memori kerja terbebas dari beban mem
 
 ---
 
-## Latih Penstrukturan Visual, Bukan Sekadar Catatan Sederhana
-
-Ketik teks secara mekanis di ponsel memberikan stimulasi taktil yang minim dan penguatan memori yang lemah. Kuncinya adalah memegang pena untuk memberikan umpan balik analog ke otak, serta menghubungkan ide secara visual dengan panah, diagram, dan tabel. Jika menggunakan tablet digital, gunakan pena stylus untuk menggambar koneksi secara manual.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Ketik teks secara mekanis di ponsel memberikan stimulasi taktil yang minim dan p
     Jangan hanya menulis kalimat sederhana; hubungkan ide dengan panah dan gambar bagan alur, diagram konsep, atau tabel dengan tangan untuk menyintesis logika.
   </p>
 </div>
+
+---
+
+## 3. Latih Penstrukturan Visual, Bukan Sekadar Catatan Sederhana
+
+Ketik teks secara mekanis di ponsel memberikan stimulasi taktil yang minim dan penguatan memori yang lemah. Kuncinya adalah memegang pena untuk memberikan umpan balik analog ke otak, serta menghubungkan ide secara visual dengan panah, diagram, dan tabel. Jika menggunakan tablet digital, gunakan pena stylus untuk menggambar koneksi secara manual.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "为了沉浸的环境屏蔽：玛雅·安杰洛的酒店隔离习惯"
 description: "传奇诗人兼社会活动家玛雅·安杰洛为了将注意力发挥到极致，只在毫无刺激的空酒店房间里写作。探索环境刺激控制的脑科学原理。"
 pubDate: "2026-03-21"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 angelou-hotel-isolation 的内容基于 <strong>玛雅·安杰洛自传记录与梅森·柯里《Daily Rituals》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>玛雅·安杰洛自传记录与梅森·柯里《Daily Rituals》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 视觉刺激控制与前额叶认知能量保存
+## 1. 视觉刺激控制与前额叶认知能量保存
 
 人类的大脑即便是没有明确的意识，也会不断扫描周围环境的视觉和听觉刺激，从而消耗认知能量。若能确保一个专属且极简的隔离空间，就能突破性地减少环境刺激，并将前额叶专属的能量完全保存用于工作沉浸。
 
 ---
 
-## 有助于成功构建环境沉浸习惯的脑科学建议
-
-单纯依靠意志力很难战胜注意力分散因素。真正的沉浸源于预先设计好诱惑无法立足的物理空间环境。整理书桌并隔离电子设备，打造一个让大脑不得不沉浸其中的环境。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     明确规定进入和离开沉浸区域的时间。设置的写作或工作时间结束时，完全离开座位，在工作与休息之间建立心理上的界限。
   </p>
 </div>
+
+---
+
+## 3. 有助于成功构建环境沉浸习惯的脑科学建议
+
+单纯依靠意志力很难战胜注意力分散因素。真正的沉浸源于预先设计好诱惑无法立足的物理空间环境。整理书桌并隔离电子设备，打造一个让大脑不得不沉浸其中的环境。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

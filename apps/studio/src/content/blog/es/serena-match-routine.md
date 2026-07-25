@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El saque que calma la ansiedad: los hábitos de la rutina previa al partido de Serena Williams"
 description: "Serena Williams, quien mantuvo estrictamente rutinas previas al partido, como botar siempre la pelota de tenis cinco veces antes de su primer saque. Estudiamos cómo las rutinas previas a la ejecución bloquean los estímulos de ansiedad externos y ajustan el cerebro a un estado de encuadre cognitivo."
 pubDate: "2026-04-19"
@@ -34,22 +35,20 @@ Serena Williams es un ícono sin igual que redefinió la historia del deporte mo
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre serena-match-routine se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Serena Williams e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Serena Williams e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Control de la amígdala y encuadre cognitivo a través de rutinas previas a la ejecución (PPR)
+## 1. Control de la amígdala y encuadre cognitivo a través de rutinas previas a la ejecución (PPR)
 
 Los altos niveles de ansiedad experimentados justo antes de un examen o partido estimulan el hipotálamo del cerebro para secretar epinefrina, lo que atenaza los músculos e induce una hipervigilancia cognitiva. Las 'rutinas previas a la ejecución (PPR)', demostradas en la psicología del deporte, bloquean la atención ante amenazas externas incontrolables (la fuerza del oponente, el ruido del público) y cambian por la fuerza el enfoque hacia acciones físicas 100% controlables (botar la pelota, alinear la bolsa). Este acto de control físico apaga los circuitos de alarma de la amígdala y ejerce un efecto de encuadre cognitivo que sintoniza el cerebro en un 'estado de inmersión segura', reduciendo los errores de rendimiento.
 
 ---
 
-## Precauciones y consejos
-
-La peor trampa en la que se puede caer al aplicar rutinas previas a la ejecución es crear un nuevo elemento de ansiedad al obsesionarse con el orden o el método de ejecución de la rutina en sí. Si se queda atrapado en una obsesión como 'Si boto la pelota 4 veces en lugar de 5, arruinaré el partido', la rutina misma se convierte en otro factor de estrés que consume recursos cognitivos. Por lo tanto, reconozca que el núcleo de una rutina no es la perfección en la acción misma, sino una 'herramienta para encender el interruptor de la mente', que requiere la flexibilidad para adaptarse según la situación.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ La peor trampa en la que se puede caer al aplicar rutinas previas a la ejecució
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos
+
+La peor trampa en la que se puede caer al aplicar rutinas previas a la ejecución es crear un nuevo elemento de ansiedad al obsesionarse con el orden o el método de ejecución de la rutina en sí. Si se queda atrapado en una obsesión como 'Si boto la pelota 4 veces en lugar de 5, arruinaré el partido', la rutina misma se convierte en otro factor de estrés que consume recursos cognitivos. Por lo tanto, reconozca que el núcleo de una rutina no es la perfección en la acción misma, sino una 'herramienta para encender el interruptor de la mente', que requiere la flexibilidad para adaptarse según la situación.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo creo mi propia rutina antes de eventos cotidianos importantes como presentaciones o exámenes?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ La peor trampa en la que se puede caer al aplicar rutinas previas a la ejecució
       Establecer de 2 a 3 pasos de acciones mecánicas coherentes que pueda controlar por completo, como 'atarse los cordones de los zapatos en un orden específico', 'hacer 3 respiraciones profundas' o 'decir en voz alta una frase de compromiso específica', y repetirlas de forma idéntica le ayudará enormemente a controlar la ansiedad.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo controlo la ansiedad que surge si me salto o cometo un error en un solo paso de la rutina?</span>

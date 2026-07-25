@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'orateur qui s'est rasé la moitié de la tête : La routine de contrôle environnemental extrême et de dispositif d'engagement de Démosthène"
 description: "Découvrez comment Démosthène, maître orateur de la Grèce antique, a surmonté ses limites physiques en se rasant la moitié de la tête et en s'isolant dans une grotte. Explorez la neuroscience cognitive montrant comment les dispositifs d'engagement protègent les fonctions exécutives."
 pubDate: "2026-01-28"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant demosthenes-isolation est basée sur <strong>Vérification Historique issue des *Vies parallèles (Vie de Démosthène)* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des *Vies parallèles (Vie de Démosthène)* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Dispositifs d'engagement fort et préservation des fonctions exécutives du cortex préfrontal
+## 1. Dispositifs d'engagement fort et préservation des fonctions exécutives du cortex préfrontal
 
 Compter sur la seule volonté pour résister aux distractions épuise le glucose du cortex préfrontal (PFC). Tant qu'une tentation reste accessible, le cerveau s'engage dans un « Traitement de Conflit » continuel, générant une forte charge cognitive. Ériger des barrières physiques qui rendent la tentation impossible — comme Démosthène se rasant la moitié de la tête — constitue un « Dispositif d'Engagement Fort ». Cette restriction réduit à zéro la charge de conflit préfrontale, réservant 100 % de la bande passante exécutive au travail profond.
 
 ---
 
-## Précautions & Conseils : Rejeter le mythe de la volonté & Ériger des barrières environnementales
-
-Abandonnez l'illusion que la seule volonté peut vaincre la procrastination et les distractions numériques. L'autocontrôle est une ressource limitée. Pour atteindre un travail profond comme Démosthène, installez au préalable des dispositifs d'engagement physiques avant de commencer, rendant les distractions impossibles.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Abandonnez l'illusion que la seule volonté peut vaincre la procrastination et l
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Rejeter le mythe de la volonté & Ériger des barrières environnementales
+
+Abandonnez l'illusion que la seule volonté peut vaincre la procrastination et les distractions numériques. L'autocontrôle est une ressource limitée. Pour atteindre un travail profond comme Démosthène, installez au préalable des dispositifs d'engagement physiques avant de commencer, rendant les distractions impossibles.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Démosthène s'est-il spécifiquement rasé la moitié de la tête avant de s'isoler ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Abandonnez l'illusion que la seule volonté peut vaincre la procrastination et l
       Pour créer un obstacle social infranchissable rendant toute sortie en public insupportable en raison de son apparence. Cela a éliminé la dépense d'énergie nécessaire pour résister aux tentations, fixant 100 % de ses ressources exécutives sur l'entraînement.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quels dispositifs d'engagement fort pratiques les individus modernes peuvent-ils utiliser sans se raser la tête ?</span>

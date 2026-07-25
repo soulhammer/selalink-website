@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Dokumente um 2 Uhr morgens mit Textmarker filtern: Margaret Thatchers Gewohnheit der Informationsläuterung"
 description: "Als britische Premierministerin, bekannt als die Eiserne Lady, las sie jeden Morgen Stapel von offiziellen Dokumenten und Artikeln und verfasste präzise kritische Anmerkungen, um die kognitive Initiative zu sichern."
 pubDate: "2026-04-05"
@@ -31,25 +32,23 @@ In diesem Beitrag untersuchen wir die kognitionswissenschaftlichen Prinzipien hi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu thatcher basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Margaret Thatcher & kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Margaret Thatcher & kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurowissenschaftliche Prinzipien hinter ihrem Erfolg
+## 1. Neurowissenschaftliche Prinzipien hinter ihrem Erfolg
 
 Das Extrahieren von Kerninformationen aus riesigen Datenmengen und das Anwenden visuellen Filterungs-Handlungs (Visual Gating) mit Textmarkern aktiviert die Informationsabstraktionsschaltkreise des Gehirns. Dies erhöht die Auflösung des kognitiven Filters des präfrontalen Kortex und schult strategische Entscheidungsfähigkeit.
 
 ---
 
-## Verhaltenswissenschaftlicher Rat für eine erfolgreiche Umsetzung
-
-Heben Sie nicht jeden Satz hervor. Der Schlüssel liegt darin, den Textmarker auf weniger als 10 % des Gesamttextes anzuwenden, um dem Gehirn einen klaren visuellen Kontrast zu bieten. Gestalten Sie eine Umgebung, die das Handeln ganz naturally auslöst.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Heben Sie nicht jeden Satz hervor. Der Schlüssel liegt darin, den Textmarker au
   </p>
 </div>
 
+---
+
+## 3. Verhaltenswissenschaftlicher Rat für eine erfolgreiche Umsetzung
+
+Heben Sie nicht jeden Satz hervor. Der Schlüssel liegt darin, den Textmarker auf weniger als 10 % des Gesamttextes anzuwenden, um dem Gehirn einen klaren visuellen Kontrast zu bieten. Gestalten Sie eine Umgebung, die das Handeln ganz naturally auslöst.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Sollte ich jeden Morgen eine Terminübersicht durchführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Heben Sie nicht jeden Satz hervor. Der Schlüssel liegt darin, den Textmarker au
       Ja, das lautstarke Überprüfen der Prioritäten 30 Minuten vor Beginn intensiver Arbeit aktiviert präventiv die exekutive Kontrolle des präfrontalen Kortex.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie kann ich dies ersetzen, wenn ich kein eigenes Notizbrett oder geeignete Räumlichkeiten habe?</span>

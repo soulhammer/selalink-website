@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ベッドの外は危険？ 横になって名作を書いたマーク・トウェインのベッド執筆ルーティン"
 description: "アメリカ文学の巨匠マーク・トウェイン。朝食後にベッドで横になり、傾けた姿勢で名作を誕生させた彼のユニークな執筆習慣と、身体の脱力がもたらす創造的な脳科学的効果について解説します。"
 pubDate: "2026-05-20"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「twain-lying-writing」は <strong>横になって名作を書いたマーク・トウェインの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>横になって名作を書いたマーク・トウェインの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳の緊張をほぐし思考をつなぐ「連想的思考」
+## 1. 脳の緊張をほぐし思考をつなぐ「連想的思考」
 
 私たちが水平に横になったり斜めに寄りかかったりすると、立っている時や座っている時よりも心臓が全身に血液を送り出す負担が著しく軽減されます。これにより脳の血流量が増加し、心拍数が安定して副交感神経系が強く刺激されます。身体が完全に脱力すると、脳はストレスレベルを調節するコルチゾールの分泌を抑制します。
 
@@ -49,9 +50,7 @@ faqs:
 
 ---
 
-## 姿勢を支え、スマートフォンへの依存を予防しましょう
-
-ベッドの上で斜めに横になる姿勢は脊椎や首に大きな負担をかける可能性があるため、いくつかの硬めの枕を背中に当てて脊椎が曲がらないようしっかり支える必要があります。また、ベッドがもたらす安らぎが、スマートフォンのSNSを見たりぼんやり過ごしたりする逃避場所にならないよう、ベッドに横になる前にスマートフォンは完全に手の届かない場所に置いておきましょう。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     リラックスした姿勢で呼吸を整え、頭の中に湧き出る思考を論理的に検閲せず、ありのまま記録します。文章、絵、マインドマップなど、どのような形式でもかまいません。15分以上心ゆくまで思考を言語化・可視化します。
   </p>
 </div>
+
+---
+
+## 3. 姿勢を支え、スマートフォンへの依存を予防しましょう
+
+ベッドの上で斜めに横になる姿勢は脊椎や首に大きな負担をかける可能性があるため、いくつかの硬めの枕を背中に当てて脊椎が曲がらないようしっかり支える必要があります。また、ベッドがもたらす安らぎが、スマートフォンのSNSを見たりぼんやり過ごしたりする逃避場所にならないよう、ベッドに横になる前にスマートフォンは完全に手の届かない場所に置いておきましょう。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

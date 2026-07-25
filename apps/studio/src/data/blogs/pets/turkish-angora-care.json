@@ -509,6 +509,10 @@
           "Bulu Panjang"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/turkish_angora_care.png"
   }
 }

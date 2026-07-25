@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "富兰克林·D·罗斯福的“集邮分类”：在重压下拯救大脑的认知放松习惯与模拟睡眠法"
 description: "深入剖析罗斯福总统在战争与经济危机的高压下，每晚通过整理邮票抚平大脑紧张情绪的习惯。揭示助益深度睡眠与舒缓压力的认知放松原理与神经科学机制。"
 pubDate: "2026-07-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 fdr-stamp-collecting 的内容基于 <strong>富兰克林·D·罗斯福传记与罗斯福总统图书馆（FDR Presidential Library）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>富兰克林·D·罗斯福传记与罗斯福总统图书馆（FDR Presidential Library）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 平息过载工作记忆的认知放松与副交感神经激活机制
+## 1. 平息过载工作记忆的认知放松与副交感神经激活机制
 
 在进行高风险商业决策或高压工作时，大脑前额叶皮层处于超负荷运转状态，消耗大量神经能量。若下班后紧绷的神经仍未放松，“认知残留”会导致睡眠障碍，长此以往更会损伤神经元。像罗斯福那样沉浸于与工作无关的精细视觉与触觉爱好（如整理邮票），能向大脑发送清晰的“安全信号”，柔和拉低前额叶的过度兴奋。神经科学研究证实，这种认知切换（Cognitive Shifting）能促使自主神经系统切入副交感神经为主导的状态，促进诱发深睡的褪黑素与修复身体的生长激素释放。换言之，人为打造的模拟休止符，构成了冷却过热大脑不可或缺的降温系统。
 
 ---
 
-## 注意事项：睡前关闭数字屏幕，聚焦实体模拟手作活动
-
-许多人误以为躺在床上用手机刷短视频便是在休息，然而数字屏幕散发的蓝光与源源不断的高刺激信息流，会促使大脑持续处于高度兴奋状态，严重抑止褪黑素的分泌。欲保障高品质睡眠，睡前务必关停屏幕，将焦点转向调用手指触觉的实体模拟手作活动中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：睡前关闭数字屏幕，聚焦实体模拟手作活动
+
+许多人误以为躺在床上用手机刷短视频便是在休息，然而数字屏幕散发的蓝光与源源不断的高刺激信息流，会促使大脑持续处于高度兴奋状态，严重抑止褪黑素的分泌。欲保障高品质睡眠，睡前务必关停屏幕，将焦点转向调用手指触觉的实体模拟手作活动中。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>玩手机游戏或刷短视频流有助于达成认知放松吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全不能。数字屏幕产生的蓝光与高刺激算法推送不仅无法让大脑得到休息，反而会强行维持皮层的兴奋度，严重妨碍睡眠霍尔蒙褪黑素的正常分泌。欲达成真正的认知放松，必须选用不接触屏幕、依靠手指触觉的实体手作活动。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若感到每晚固定挤出30分钟过于漫长或难以安排，该如何调整？</span>

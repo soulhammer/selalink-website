@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Goal Visualization and Deep Rest: Ohtani's Mandalart and 10-Hour Sleep Routine"
 description: "Shohei Ohtani rewrites modern baseball history. Discover the neuroscientific mechanism behind his high school 81-grid Mandalart goal-planning method and his 10-hour daily recovery sleep routine to maximize physical restoration."
 pubDate: "2026-02-06"
@@ -36,22 +37,20 @@ In this post, we explore the neuroscientific mechanisms behind Ohtani's Mandalar
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding ohtani-mandalart-sleep is based on <strong>Historical biography and autobiographical records verification of Shohei Ohtani & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography and autobiographical records verification of Shohei Ohtani & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mandalart Goal Concrete Effect and the Neuroscientific Recovery Mechanism of Long Sleep
+## 1. Mandalart Goal Concrete Effect and the Neuroscientific Recovery Mechanism of Long Sleep
 
 The Mandalart technique breaks down abstract goals into concrete actions, blocking cognitive overload and stimulating the brain's execution circuits. Meanwhile, Ohtani's key habit of 10 hours of sleep promotes the brain's glymphatic system. Cerebrospinal fluid clears metabolic waste accumulated during daytime activity, restoring the prefrontal cortex's cognitive energy. Furthermore, sleep safely consolidates pitching and batting muscle movement memories practiced that day into the cerebellum's long-term motor memory storage.
 
 ---
 
-## Precautions and Tips
-
-Suddenly increasing sleep duration excessively may cause lethargy. It is wise to gradually increase your base sleep time to 7–8 hours aligned with your metabolism. If nighttime sleep falls short, combine a short power nap of 20–30 minutes during the day to supplement your total recovery time.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Suddenly increasing sleep duration excessively may cause lethargy. It is wise to
     Sleep over 8 hours at night and combine a brief nap of 20–30 minutes in the afternoon when focus dips to reach up to 10 hours of daily total physical recovery time.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+Suddenly increasing sleep duration excessively may cause lethargy. It is wise to gradually increase your base sleep time to 7–8 hours aligned with your metabolism. If nighttime sleep falls short, combine a short power nap of 20–30 minutes during the day to supplement your total recovery time.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

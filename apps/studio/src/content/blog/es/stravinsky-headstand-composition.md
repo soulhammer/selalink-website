@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspiración al revés: La rutina de creatividad haciendo el pino de Igor Stravinsky"
 description: "El músico Igor Stravinsky hacía el pino cada vez que sufría un bloqueo al componer. Descubra los principios científicos de cómo el cambio de postura aumenta el flujo sanguíneo cerebral y genera avances creativos."
 pubDate: "2026-01-01"
@@ -36,22 +37,20 @@ En este artículo, revelamos los mecanismos de la rutina de Stravinsky y ofrecem
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre stravinsky-headstand-composition se basa en <strong>Autobiografía histórica de Igor Stravinsky e investigaciones en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Autobiografía histórica de Igor Stravinsky e investigaciones en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cómo invierte la postura el flujo sanguíneo cerebral y reinicia el sentido vestibular
+## 1. Cómo invierte la postura el flujo sanguíneo cerebral y reinicia el sentido vestibular
 
 Cuando tu cerebro se estanca en un pensamiento, invertir la postura desencadena dos cambios neurocientíficos: Primero, la gravedad aumenta el flujo sanguíneo a la cabeza, aportando oxígeno y nutrientes al lóbulo frontal. Segundo, el sistema vestibular del oído interno detecta una señal gravitacional inusual, despertando las redes de orientación espacial en el cerebelo y la corteza cerebral. Esto libera los filtros de atención rígidos y fomenta la asociación creativa.
 
 ---
 
-## Precauciones y consejos
-
-Si tienes problemas cervicales o de presión arterial, sustituye el pino completo por una inversión suave, como apoyar las piernas en una silla o pared. Mantén la duración por debajo de 1 minuto y, al finalizar, permanece acostado boca abajo durante 30 segundos antes de levantarte lentamente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Si tienes problemas cervicales o de presión arterial, sustituye el pino complet
     Baja los pies con cuidado y permanece acostado boca abajo durante 30 segundos antes de levantarte. Luego, siéntate en una silla y observa la claridad mental.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Si tienes problemas cervicales o de presión arterial, sustituye el pino completo por una inversión suave, como apoyar las piernas en una silla o pared. Mantén la duración por debajo de 1 minuto y, al finalizar, permanece acostado boca abajo durante 30 segundos antes de levantarte lentamente.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

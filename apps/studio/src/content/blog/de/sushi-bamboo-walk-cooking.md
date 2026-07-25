@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Verzweiflung im Exil überwinden: Su Dongpos morgendlicher Spaziergang im Hain & Kochroutine"
 description: "Der Dichter Su Dongpo aus der Nord-Song-Dynastie entwickelte im Exil durch Spaziergänge im Bambushain und langsames Kochen legendären Optimismus und Resilienz."
 pubDate: "2026-06-24"
@@ -33,17 +34,17 @@ In diesem Beitrag untersuchen wir die Nervensystem-Wissenschaft hinter Su Dongpo
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu sushi-bamboo-walk-cooking basiert auf <strong>Historische Biografie von Su Dongpo (Su Shi) & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie von Su Dongpo (Su Shi) & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Wie somatische Routinen das parasympathische Nervensystem & Resilienz aktivieren
+## 1. Wie somatische Routinen das parasympathische Nervensystem & Resilienz aktivieren
 
 Versucht man, seelischen Schmerz nur im Kopf zu unterdrücken, wiederholt die Amygdala das Trauma in einer Schleife.
 
@@ -51,9 +52,7 @@ Eine <strong style="color:#2d3748;">'Somatische Routine'</strong> wie die von Su
 
 ---
 
-## Fokussieren Sie sich auf den Prozess des Kochens & Spazierens, nicht das Ergebnis
-
-Die Essenz von Su Dongpos Kochkunst liegt im ruhigen Abwarten der richtigen Hitze. Überstürzen Sie das Essen nicht, sondern genießen Sie die Gerüche und Berührungen beim Köcheln.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Die Essenz von Su Dongpos Kochkunst liegt im ruhigen Abwarten der richtigen Hitz
   </p>
 </div>
 
+---
+
+## 3. Fokussieren Sie sich auf den Prozess des Kochens & Spazierens, nicht das Ergebnis
+
+Die Essenz von Su Dongpos Kochkunst liegt im ruhigen Abwarten der richtigen Hitze. Überstürzen Sie das Essen nicht, sondern genießen Sie die Gerüche und Berührungen beim Köcheln.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist diese Routine auch für Anfänger geeignet, die gar nicht kochen können?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Die Essenz von Su Dongpos Kochkunst liegt im ruhigen Abwarten der richtigen Hitz
       Ja! Es geht nicht um komplizierte Rezepte. Das Aufbrühen von Filterkaffee oder das sorgfältige Braten eines Spiegeleis reicht völlig aus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Reduziert das selbstständige Kochen wirklich Stress?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "思考を精密に構造化する脳の仕組み？ジャン・ピアジェの執筆と思索散歩"
 description: "スイスの偉大な児童心理学者ジャン・ピアジェ。思考を精密に整えた彼の朝の4ページ執筆および午後の思索散歩ルーティンの脳科学的原理と3段階の practical ガイドを解説します。"
 pubDate: "2026-01-01"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「piaget-morning-writing」は <strong>ジャン・ピアジェの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジャン・ピアジェの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業記憶の外在化とデフォルト・モード・ネットワークの調和
+## 1. 作業記憶の外在化とデフォルト・モード・ネットワークの調和
 
 思考だけで複雑な問題を解決しようとすると、脳の作業記憶（ワーキングメモリ）容量はすぐに限界に達して過負荷がかかります。ピアジェの朝の執筆は、頭の中の概念を外部メディア（紙）に記録し、脳の認知負荷を強制的に減らす<strong>「作業記憶の外在化（Working Memory Externalization）」</strong>作業でした。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 脳にインプットする時間を超え、アウトプットして換気バランスを保ちましょう
-
-現代人はスマートフォンを通じて大量の情報（インプット）を脳に詰め込んでいますが、自分自身で考えて整理し外部へ吐き出すアウトプットの時間や、脳を休ませる思索の時間が絶対的に不足しています。ピアジェのように朝の吐き出す執筆（アウトプット）と午後の平和な散歩（換気）のバランスを通じて、脳が自ら作動する空間を開いてあげてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 脳にインプットする時間を超え、アウトプットして換気バランスを保ちましょう
+
+現代人はスマートフォンを通じて大量の情報（インプット）を脳に詰め込んでいますが、自分自身で考えて整理し外部へ吐き出すアウトプットの時間や、脳を休ませる思索の時間が絶対的に不足しています。ピアジェのように朝の吐き出す執筆（アウトプット）と午後の平和な散歩（換気）のバランスを通じて、脳が自ら作動する空間を開いてあげてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>必ず手で書かなければなりませんか？ デジタルタイピングで代替してもよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       デジタルタイピングも効果はありますが、手で直接文字を書く行為は指先の微細な筋肉を刺激し、脳の認知領域（特に前頭葉と体性感覚皮質）をより強力に活性化して集中を助けるため、可能な限り手書きをお勧めします。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>散歩に適した自然環境が近くにない場合はどうすればよいですか？</span>

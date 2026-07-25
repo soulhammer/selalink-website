@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "When Blocked While Writing, Change the Typewriter? Isaac Asimov's Multitasking Switching Routine"
 description: "The multitasking switching routine of sci-fi master Isaac Asimov, who left behind over 500 books. Discover the 3-step secret to overcoming single-focus fatigue and gaining the novelty effect."
 pubDate: "2026-05-26"
@@ -36,14 +37,14 @@ In today's post, we propose the cognitive science principles hidden within Isaac
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding asimov-project-switching is based on <strong>Historical Verification from Isaac Asimov's Autobiography *I, Asimov: A Memoir* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Isaac Asimov's Autobiography *I, Asimov: A Memoir* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Context Switching and the Novelty Effect: Regional Brain Fatigue Recovery
+## 1. Context Switching and the Novelty Effect: Regional Brain Fatigue Recovery
 
 According to research in cognitive psychology and working memory, hanging onto a single task for a long time causes the brain to hyperactivate only specific neural networks, inducing cognitive stagnation. When squeezing the brain forcefully during the resulting Writer's Block, cortisol is secreted, drastically reducing cognitive efficiency.
 
@@ -51,9 +52,7 @@ When you switch context (Context Switching) to a completely different task like 
 
 ---
 
-## Neuroscientific Advice for Efficient Focus Switching
-
-When stuck on one task, holding on relentlessly to the bitter end is not the only virtue. Neurons in the brain also need shift-work across different regions. Flexibly break through work plateaus through clever context switching between drafting minor emails or writing an entirely different proposal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ When stuck on one task, holding on relentlessly to the bitter end is not the onl
     Cognitively block the fatigue of prior work through the novelty effect of the newly switched task. The brain enjoys a sufficient rest effect and smoothly maintains focus not just by stopping work, but simply by 'activating a different region'.
   </p>
 </div>
+
+---
+
+## 3. Neuroscientific Advice for Efficient Focus Switching
+
+When stuck on one task, holding on relentlessly to the bitter end is not the only virtue. Neurons in the brain also need shift-work across different regions. Flexibly break through work plateaus through clever context switching between drafting minor emails or writing an entirely different proposal.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

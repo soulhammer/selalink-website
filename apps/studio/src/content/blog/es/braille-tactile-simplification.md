@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Intuición en la Yema de los Dedos e Innovación de 6 Puntos: La Rutina de Simplificación Esencial y Agrupamiento de Louis Braille"
 description: "Descubra cómo Louis Braille simplificó la compleja escritura nocturna militar de 12 puntos en un sistema táctil de 6 puntos que cabe bajo la yema de un solo dedo, revolucionando el acceso al conocimiento, y explore los principios neurocientíficos del agrupamiento de memoria de trabajo táctil."
 pubDate: "2026-05-04"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral de la rutina de 'simpl
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre braille-tactile-simplification se basa en <strong>Verificación Histórica de la Biografía de C. Michael Mellor *Louis Braille: A Touch of Genius* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de C. Michael Mellor *Louis Braille: A Touch of Genius* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociencia del Agrupamiento de la Memoria de Trabajo y Límites de Agudeza Táctil
+## 1. Neurociencia del Agrupamiento de la Memoria de Trabajo y Límites de Agudeza Táctil
 
 La memoria de trabajo humana y la corteza somatosensorial (Somatosensory Cortex) enfrentan límites físicos y cognitivos claros con respecto a la información procesada en un solo instante. El sistema de 12 puntos superaba la resolución espacial de los receptores táctiles de las yemas de los dedos, imponiendo una sobrecarga de exploración a nivel cerebral. En cambio, la celda de 6 puntos de Braille se alinea perfectamente con el mecanismo de 'Agrupamiento (Chunking)' del cerebro: agrupar datos en unidades reconoscibles. Agrupar flujos de trabajo complejos en unidades de 3 a 5 elementos reduce drásticamente la carga cognitiva prefrontal y acelera el procesamiento de información.
 
 ---
 
-## Precauciones y Consejos: Eliminación Ruthless de Elementos Redundantes y Preservación del Núcleo
-
-El mayor obstáculo en la simplificación es conservar pasos innecesarios por temor a que 'puedan ser necesarios más adelante'. Intentar dar cabida a cada caso excepcional u opción secundaria vuelve a complicar los sistemas y reduce la flexibilidad cognitiva. Al igual que la celda de 6 puntos se capta al instante bajo la yema del dedo, elimine sin piedad elementos secundarios, dejando solo la esencia vital.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El mayor obstáculo en la simplificación es conservar pasos innecesarios por te
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Eliminación Ruthless de Elementos Redundantes y Preservación del Núcleo
+
+El mayor obstáculo en la simplificación es conservar pasos innecesarios por temor a que 'puedan ser necesarios más adelante'. Intentar dar cabida a cada caso excepcional u opción secundaria vuelve a complicar los sistemas y reduce la flexibilidad cognitiva. Al igual que la celda de 6 puntos se capta al instante bajo la yema del dedo, elimine sin piedad elementos secundarios, dejando solo la esencia vital.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo hacer si temo omitir información importante durante la simplificación?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El mayor obstáculo en la simplificación es conservar pasos innecesarios por te
       Utilice una estrategia de dos niveles: archive la información secundaria en un 'apéndice' o carpeta de respaldo exponiendo solo las 3 a 5 unidades principales en su espacio de trabajo, garantizando tranquilidad cognitiva.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Se puede aplicar este marco de simplificación y agrupamiento a flujos de trabajo en equipo?</span>

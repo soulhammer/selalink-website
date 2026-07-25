@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Refleksi Epistolori Van Gogh: Menyucikan Keputusasaan dengan Menulis Surat kepada Adiknya Theo Setiap Malam"
 description: "Temukan kebiasaan verbalisasi emosional Vincent van Gogh, pelukis abadi yang menyucikan pikirannya melalui ratusan surat kepada adiknya Theo di tengah penderitaan mental yang hebat."
 pubDate: "2026-04-21"
@@ -31,25 +32,23 @@ Dalam postingan hari ini, kami memperkenalkan prinsip-prinsip sains kognitif di 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai van-gogh didasarkan pada <strong>Biografi historis dan catatan autobiografi Vincent van Gogh & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi Vincent van Gogh & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analisis Neurosains tentang Penyucian Emosional dan Fokus
+## 1. Analisis Neurosains tentang Penyucian Emosional dan Fokus
 
 Refleksi epistolori yang mengobjektifkan dan mencatat emosi melalui tulisan memperkuat kontrol kognitif prefrontal dan mengendalikan kecemasan berlebih di amigdala. Menerjemahkan emosi ke dalam bahasa yang halus menekan kegairahan sistem limbik secara top-down, meningkatkan resolusi metakognitif untuk memulihkan kejelasan mental dan ketahanan psikologis.
 
 ---
 
-## Saran Sains Perilaku untuk Pembentukan Kebiasaan yang Sukses
-
-Jangan mencoba menuliskan setiap luka emosional hari itu secara panjang lebar di dalam buku harian. Latihan ringan selama 3 menit mencatat petunjuk emosional untuk mengobjektifkannya sudah cukup. Daripada hanya mengandalkan kemauan, merancang lingkungan fisik dan isyarat kebiasaan yang memicu tindakan secara alami adalah kunci keberlanjutan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Jangan mencoba menuliskan setiap luka emosional hari itu secara panjang lebar di
   </p>
 </div>
 
+---
+
+## 3. Saran Sains Perilaku untuk Pembentukan Kebiasaan yang Sukses
+
+Jangan mencoba menuliskan setiap luka emosional hari itu secara panjang lebar di dalam buku harian. Latihan ringan selama 3 menit mencatat petunjuk emosional untuk mengobjektifkannya sudah cukup. Daripada hanya mengandalkan kemauan, merancang lingkungan fisik dan isyarat kebiasaan yang memicu tindakan secara alami adalah kunci keberlanjutan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah harus ada penerima imajiner seperti Theo untuk surat tersebut?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Jangan mencoba menuliskan setiap luka emosional hari itu secara panjang lebar di
       Ya. Menulis seolah ditujukan kepada seseorang yang mendengarkan tanpa prasangka, seperti Theo imajiner, memaksimalkan verbalisasi emosi yang jujur dan efek detoksifikasi otak.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah boleh menggunakan aplikasi catatan digital alih-alih tulisan tangan?</span>

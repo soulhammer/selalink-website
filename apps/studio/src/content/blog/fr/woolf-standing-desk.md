@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La romancière qui écrivait debout chaque matin ? L'habitude de haute immersion de Virginia Woolf"
 description: "La géante littéraire du XXe siècle Virginia Woolf. Explorez la science de la concentration acquise en écrivant debout — inspirée par le chevalet de sa sœur peintre — et les habitudes de travail debout modernes."
 pubDate: "2026-06-06"
@@ -33,25 +34,23 @@ Dans cet article, nous partageons les bienfaits scientifiques de la routine d'é
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant woolf-standing-desk est basée sur <strong>Examen des biographies historiques et des récits sur Virginia Woolf et recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Examen des biographies historiques et des récits sur Virginia Woolf et recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation proprioceptive de tout le corps induite par les bureaux debout et l'écriture debout
+## 1. Stimulation proprioceptive de tout le corps induite par les bureaux debout et l'écriture debout
 
 L'habitude de Virginia Woolf d'écrire comme si elle peignait devant un bureau debout de 105 cm stimule la proprioception de tout le corps, neutralisant la résistance psychologique à l'écriture et portant les fonctions exécutives du cerveau à leur sommet.
 
 ---
 
-## Conseils de maintien de la posture lors de l'installation d'un environnement debout
-
-Il est important de maintenir l'équilibre physique en utilisant un tapis rembourré anti-fatigue et en prenant 5 minutes de relaxation après 40 minutes de travail.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Il est important de maintenir l'équilibre physique en utilisant un tapis rembou
     Après 40 minutes d'écriture concentrée, faites 5 minutes d'étirements légers ou de pause pour éviter de charger un seul pied et maintenir l'équilibre physique et mental.
   </p>
 </div>
+
+---
+
+## 3. Conseils de maintien de la posture lors de l'installation d'un environnement debout
+
+Il est important de maintenir l'équilibre physique en utilisant un tapis rembourré anti-fatigue et en prenant 5 minutes de relaxation après 40 minutes de travail.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

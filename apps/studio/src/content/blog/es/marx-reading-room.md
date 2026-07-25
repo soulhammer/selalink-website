@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿10 horas bajo la cúpula del Museo Británico? El método de lectura de la corteza de asociación de Karl Marx"
 description: "Karl Marx disecó las dinámicas ocultas de la sociedad a través de la economía. Descubra su tenaz hábito de lectura de estudiar y tomar notas de vasta literatura durante 10 horas diarias en la Sala de Lectura del Museo Británico durante su exilio en Londres, junto con sus principios neurocientíficos."
 pubDate: "2026-03-17"
@@ -38,22 +39,20 @@ En este artículo, exploraremos la significación neurocientífica de la rutina 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre marx-reading-room se basa en <strong>Biografías históricas, registros autobiográficos de Karl Marx e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas, registros autobiográficos de Karl Marx e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## ¿Por qué 10 horas de lectura profunda bajo la cúpula permitieron la reconstrucción intelectual?
+## 1. ¿Por qué 10 horas de lectura profunda bajo la cúpula permitieron la reconstrucción intelectual?
 
 Según la investigación neurocientífica, la capacidad de integrar conocimientos fragmentados de diversos campos a un nivel superior se origina en la activación de la corteza de asociación y los lóbulos frontales del cerebro. La inmersión diaria de 10 horas de Marx en textos analógicos en el Museo Británico mientras compilaba cuadernos de extractos a mano fue un proceso neurológico de Trabajo Profundo (Deep Work).
 
 ---
 
-## Cuidado con la lectura pasiva y la ilusión de la recolección digital
-
-Guardar numerosos artículos digitales o PDF y hojearlos visualmente solo deja una estimulación cerebral superficial, sin construir memoria a largo plazo ni conexiones conceptuales complejas. Sin anotaciones activas, la información nunca se convierte en verdadero capital intelectual.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Guardar numerosos artículos digitales o PDF y hojearlos visualmente solo deja u
   </p>
 </div>
 
+---
+
+## 3. Cuidado con la lectura pasiva y la ilusión de la recolección digital
+
+Guardar numerosos artículos digitales o PDF y hojearlos visualmente solo deja una estimulación cerebral superficial, sin construir memoria a largo plazo ni conexiones conceptuales complejas. Sin anotaciones activas, la información nunca se convierte en verdadero capital intelectual.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo pueden los profesionales o estudiantes modernos aplicar la rutina de lectura de 10 horas del Museo Británico?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,8 +104,8 @@ Guardar numerosos artículos digitales o PDF y hojearlos visualmente solo deja u
       Debe replicar la 'densidad de concentración' en lugar de la duración. Aplique esto como una 'Sesión de Lectura Micro Profunda' apagando su teléfono durante 60 - 90 minutos por la mañana o los fines de semana en una biblioteca.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
-  <details class="group cursor-pointer">
+
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuál es la ventaja neurocientífica de los cuadernos de extractos hechos a mano sobre las notas digitales?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -109,7 +114,7 @@ Guardar numerosos artículos digitales o PDF y hojearlos visualmente solo deja u
       Los cuadernos de extractos no son copias pasivas; son diálogos activos con el texto. Transcribir afirmaciones clave y luego escribir sus propias interpretaciones y dudas activa fuertemente los lóbulos frontales y la corteza de asociación.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo se puede superar la falta de concentración o los bloqueos mentales durante la lectura profunda?</span>

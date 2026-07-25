@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "천재의 뇌를 리셋하는 레이스? 앨런 튜링의 러닝 루틴"
 description: "에니그마 암호를 해독한 컴퓨터 과학의 아버지 앨런 튜링. 매일 16km를 뛰며 뇌 과부하를 해소하고 신경세포를 활성화했던 그의 러닝 습관과 과학적 배경을 알아봅니다."
 pubDate: "2026-02-02"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 turing-marathon-running 루틴을 다룹니다.
+      본 콘텐츠는 <strong>앨런 튜링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 유산소 운동이 촉진하는 뇌세포 생성과 인지 환기
+## 1. 유산소 운동이 촉진하는 뇌세포 생성과 인지 환기
 
 매일 꾸준히 달리는 유산소 운동은 뇌 건강에 결정적인 물질인 <strong>뇌유래신경영양인자(BDNF)</strong>의 합성을 유도합니다. BDNF는 기억과 학습을 담당하는 해마 영역에서 새로운 신경세포(Neuron) 생성을 촉진하여 인지적 작업 기억 공간을 넓힙니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 주의력 환기를 위한 페이스 통제
-
-두뇌를 환기하기 위한 러닝에서는 페이스 조절이 매우 중요합니다. 지나치게 격렬하게 뛰어 심장이 터질 것 같은 무산소 역치 상태에 도달하면, 뇌는 신체 생존에만 온 인지 자원을 쏟아부어 사색과 DMN 활성화를 방해합니다. 옆 사람과 가벼운 대화가 가능한 정도의 페이스로 일정하게 뛰는 것이 효과적입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의력 환기를 위한 페이스 통제
+
+두뇌를 환기하기 위한 러닝에서는 페이스 조절이 매우 중요합니다. 지나치게 격렬하게 뛰어 심장이 터질 것 같은 무산소 역치 상태에 도달하면, 뇌는 신체 생존에만 온 인지 자원을 쏟아부어 사색과 DMN 활성화를 방해합니다. 옆 사람과 가벼운 대화가 가능한 정도의 페이스로 일정하게 뛰는 것이 효과적입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>러닝 대신 실내 고정 자전거나 수영을 해도 뇌 환기 효과는 동일한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       네, 심폐 기능이 개입되어 BDNF 수치를 높일 수 있는 지속적인 유산소 운동이라면 자전거나 수영도 유사한 인지 회복 효과를 제공합니다. 다만, 야외 러닝처럼 자연 경관과 바람 등의 오감 자극이 뇌로 전달될 때 기본 모드 네트워크(DMN)의 이완 및 아이디어 활성화 효과가 극대화됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>달리는 동안 음악을 들으면 뇌 회복에 방해가 되나요?</span>

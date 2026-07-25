@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "伊丽莎白一世的“古典翻译”：锻造君主逻辑大脑的晨间习惯"
 description: "伊丽莎白一世女王每天清晨将拉丁语古典名著翻译为英语，以此锤炼强大理性与严密逻辑。本文深度剖析激活高阶认知能力与脑力的翻译习惯原理。"
 pubDate: "2026-01-09"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 elizabeth-classical-translation 的内容基于 <strong>伊丽莎白一世翻译著作集《Elizabeth I: Translations（Janel Mueller & Joshua Scodel）》与历史传记考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>伊丽莎白一世翻译著作集《Elizabeth I: Translations（Janel Mueller & Joshua Scodel）》与历史传记考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 手动翻译对大脑背外侧前额叶皮层的神经学影响
+## 1. 手动翻译对大脑背外侧前额叶皮层的神经学影响
 
 翻译不仅能拉动大脑的视觉文字认知区域，更能全方位激活主导高阶逻辑规则切换的背外侧前额叶皮层（dlPFC）。与单纯被动阅读不同，解构一种语言的语意与上下文并将其重组置换为另一种语言精准语法结构的过程，是一场执行功能的高强度“满载训练”——堪比CPU以100%的极速满载运转。此举能显著提升大脑在复杂因果链条中的概念理解力与缜密推查力。伊丽莎白一世每日坚持的拉丁语翻译，乃是一剂绝佳的“认知解毒剂”，过滤掉情绪化的杂音，使大脑镇定自若地定格于本质之上。
 
 ---
 
-## 注意事项：依赖机械自动化翻译无法带来任何神经益处
-
-通过人工智能翻译器或查词应用一键获取译文的行为，根本无法对前额叶回路产生实质刺激。神经元突触的强韧与认知能力的飞跃，唯有在人工抠字眼、翻阅字典、手动拆解重构句式结构的“思维磨砺”过程中方能达成。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：依赖机械自动化翻译无法带来任何神经益处
+
+通过人工智能翻译器或查词应用一键获取译文的行为，根本无法对前额叶回路产生实质刺激。神经元突触的强韧与认知能力的飞跃，唯有在人工抠字眼、翻阅字典、手动拆解重构句式结构的“思维磨砺”过程中方能达成。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>使用AI翻译软件直接比对对照译文真的毫无效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，完全无效。一键获取现成答案无法对大脑的认知网络形成任何硬核挑战。前额叶皮层的神经元突触，唯有在翻阅字典、考据词义与拆构句法的“智力磨砺与阻抗”中才能得到真正强化。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>必须学习像拉丁文与古希腊文这样的古典语言才能奏效吗？</span>

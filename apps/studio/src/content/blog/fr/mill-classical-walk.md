@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un cerveau en marche forme-t-il des génies ? La routine de marche et débat de John Stuart Mill"
 description: "John Stuart Mill, le grand penseur de « De la liberté ». Découvrez sa routine consistant à réciter des classiques et débattre avec son père lors de marches matinales, et explorez les bienfaits neuroscientifiques de l'alliance de l'exercice et de la cognition."
 pubDate: "2026-01-25"
@@ -35,17 +36,17 @@ Dans cet article, nous explorons les principes neuroscientifiques de la marche p
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant mill-classical-walk est basée sur <strong>Recherche sur les biographies historiques et récits autobiographiques de John Stuart Mill & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche sur les biographies historiques et récits autobiographiques de John Stuart Mill & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La combinaison du BDNF pour activer les cellules cérébrales et de la plasticité neuronale
+## 1. La combinaison du BDNF pour activer les cellules cérébrales et de la plasticité neuronale
 
 Contrairement à la lecture statique en position assise, marcher tout en dialoguant ou en réfléchissant offre d'immenses bienfaits neuroscientifiques. L'activité physique aérobique telle que la marche augmente rapidement le débit sanguin cérébral et induit une forte libération du <strong>facteur neurotrophique dérivé du cerveau (BDNF)</strong> dans l'hippocampe, le centre de la mémoire et de l'apprentissage. Le BDNF est un catalyseur favorisant la genèse et la survie des neurones.
 
@@ -53,9 +54,7 @@ Lorsque des informations intellectuelles complexes pénètent dans le cerveau du
 
 ---
 
-## Lorsque le mouvement physique s'arrête, la pensée s'enrose elle aussi
-
-Les hommes modernes passent des heures assis immobiles à consommer de l'information, entraînant une chute du taux de BDNF et réduisant la capacité à assimiler de nouvelles connaissances. Tout comme Mill associait lecture et exercice physique, déconnecter complètement son smartphone juste après une lecture pour marcher et réfléchir constitue une excellente pratique cognitive pour entretenir la souplesse intellectuelle et stimuler la réflexion.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Les hommes modernes passent des heures assis immobiles à consommer de l'informa
   </p>
 </div>
 
+---
+
+## 3. Lorsque le mouvement physique s'arrête, la pensée s'enrose elle aussi
+
+Les hommes modernes passent des heures assis immobiles à consommer de l'information, entraînant une chute du taux de BDNF et réduisant la capacité à assimiler de nouvelles connaissances. Tout comme Mill associait lecture et exercice physique, déconnecter complètement son smartphone juste après une lecture pour marcher et réfléchir constitue une excellente pratique cognitive pour entretenir la souplesse intellectuelle et stimuler la réflexion.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Marcher en écoutant un livre audio produit-il exactement le même effet ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Les hommes modernes passent des heures assis immobiles à consommer de l'informa
       L'écoute d'un livre audio constitue une réception passive d'informations qui court-circuite le « rappel actif » — où le cerveau va puiser lui-même dans sa mémoire — et la réflexion personnelle. Garder les oreilles libres pour retravailler mentalement la lecture est nettement plus efficace pour stimuler la plasticité cérébrale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>La vitesse de marche influence-t-elle la stimulation cérébrale ?</span>

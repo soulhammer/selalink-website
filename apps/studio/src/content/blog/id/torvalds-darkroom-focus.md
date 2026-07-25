@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Seorang Programmer di Ruang Cuci yang Memblokir Cahaya dan Kebisingan? Rutinitas Fokus Kamar Gelap Linus Torvalds"
 description: "Linus Torvalds, pencipta Linux dan Git. Membahas bagaimana dia mencapai hiper-fokus di ruang terisolasi yang bebas dari stimulasi visual eksternal dan dekorasi elektronik, serta cara membangun lingkungan kerja tanpa suara."
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ Dalam postingan hari ini, kami membagikan analisis ilmu saraf kognitif tentang b
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai torvalds-darkroom-focus didasarkan pada <strong>Biografi historis dan catatan autobiografi Linus Torvalds & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi Linus Torvalds & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Filtrasi Kognitif': Menghemat Perhatian dengan Mengontrol Stimulasi Visual
+## 1. 'Filtrasi Kognitif': Menghemat Perhatian dengan Mengontrol Stimulasi Visual
 
 Korteks visual kita secara konstan dan tanpa sadar menghitung informasi kedalaman, warna, dan bentuk dari setiap objek yang terlihat (mainan di meja, bingkai foto berwarna-warni, pergerakan orang yang lewat, dll.). Penglihatan memberikan beban kognitif terberat pada otak, mengonsumsi sekitar 30% dari total energi korteks serebral.
 
@@ -53,9 +54,7 @@ Rutinitas fokus kamar gelap Linus Torvalds adalah penerapan puncak dari <strong>
 
 ---
 
-## Dalam Kegelapan, Logika Pemrogram Menjadi Sangat Jelas
-
-Bagi Linus Torvalds, kamar gelap di ruang cuci adalah benteng kognitif yang memblokir godaan eksternal dan stimulasi kecil langsung dari sumbernya. Jika rumah Anda penuh gangguan dan Anda kesulitan untuk masuk mendalam ke dalam pekerjaan sehingga perhatian terbuang, cobalah membersihkan area meja Anda dari semua dekorasi visual dan meredupkan pencahayaan sekitar sebelum menyalahkan fokus otak Anda. Anda akan mengalami kedalaman fokus yang luar biasa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Bagi Linus Torvalds, kamar gelap di ruang cuci adalah benteng kognitif yang memb
   </p>
 </div>
 
+---
+
+## 3. Dalam Kegelapan, Logika Pemrogram Menjadi Sangat Jelas
+
+Bagi Linus Torvalds, kamar gelap di ruang cuci adalah benteng kognitif yang memblokir godaan eksternal dan stimulasi kecil langsung dari sumbernya. Jika rumah Anda penuh gangguan dan Anda kesulitan untuk masuk mendalam ke dalam pekerjaan sehingga perhatian terbuang, cobalah membersihkan area meja Anda dari semua dekorasi visual dan meredupkan pencahayaan sekitar sebelum menyalahkan fokus otak Anda. Anda akan mengalami kedalaman fokus yang luar biasa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah melihat monitor di ruang gelap merusak penglihatan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Bagi Linus Torvalds, kamar gelap di ruang cuci adalah benteng kognitif yang memb
       Rasio kontras yang terlalu tinggi dalam kegelapan total menyebabkan kelelahan mata. Oleh karena itu, meredupkan kecerahan monitor agar sesuai dengan lingkungan yang gelap atau memasang lampu latar yang lembut (seperti strip LED tidak langsung) di belakang dinding monitor mencegah ketegangan saraf optik sekaligus mempertahankan tingkat fokus yang tinggi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus saya lakukan jika tidak memiliki ruang cuci atau ruang terisolasi di rumah?</span>

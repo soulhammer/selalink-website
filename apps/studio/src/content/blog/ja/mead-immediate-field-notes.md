@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "記憶の脚色を防ぐ記録：マーガレット・ミードの現場即時メモ習慣"
 description: "記憶が歪められる前に観察した事実を現場ですぐに手帳に書き留めた人類学者マーガレット・ミード。脳の作業記憶容量の限界を克服し偏見を防ぐ「認知オフローディング」の神経学的原理を扱います。"
 pubDate: "2026-03-18"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「mead-immediate-field-notes」は <strong>マーガレット・ミード歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マーガレット・ミード歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業記憶の限界と認知オフローディング（Cognitive Offloading）
+## 1. 作業記憶の限界と認知オフローディング（Cognitive Offloading）
 
 私たちの脳は新しい情報を入力された後、一時的な「作業記憶（Working Memory）」の空間に保管しますが、この空間は7個前後の情報のかたまりしか保存できないほど容量が小さいです。時間の経過とともに脳は抜け落ちた情報を自身のスキーマ（既存の知識や偏見）に合わせて任意に脚色し再構成します。ミードのように現場ですぐに紙やペンを活用して外部記録装置へと情報を移動させる「認知オフローディング」を実行すれば、脳は主観的な記憶の脚色を遮断し、脳の限界を超えて完璧な客観性データを抽出できるようになります。
 
 ---
 
-## 注意事項とヒント
-
-即時記録習慣を実践する際、よくある過ちは、完璧な文章や整然とした報告書の形で書こうとすることです。記録過程でつづりや文脈、整理を過剰に意識すると、脳は再び言語文法や校正フィルターを回すため、刹那の生データを加工し変形してしまいます。即時メモの際は、ただ生のキーワード、トーン、中核的事実のみを素早く書き殴るべきであり、綺麗な文章に整える作業は週末や退社直前の「整理段階」へ完全に分離すべきです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項とヒント
+
+即時記録習慣を実践する際、よくある過ちは、完璧な文章や整然とした報告書の形で書こうとすることです。記録過程でつづりや文脈、整理を過剰に意識すると、脳は再び言語文法や校正フィルターを回すため、刹那の生データを加工し変形してしまいます。即時メモの際は、ただ生のキーワード、トーン、中核的事実のみを素早く書き殴るべきであり、綺麗な文章に整える作業は週末や退社直前の「整理段階」へ完全に分離すべきです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>手帳の代わりにスマートフォンのメモアプリを使用しても問題ありませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       可能です。ただしスマートフォンを使用する際は、他のアプリの通知（メッセージ、SNSなど）に注意を奪われないよう応答不可モードにするか、ホーム画面にすぐメモを起動できるウィジェットを設定して記録時間の遅延を最小限に抑えるべきです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ボイスレコーダーをつけっぱなしにしておき、後からまとめて書き留める方法はどうですか？</span>

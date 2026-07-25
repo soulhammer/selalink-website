@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La tour d'observation inébranlable : La routine de concentration en espace fixe et de conditionnement environnemental de Nicolas Copernic"
 description: "Découvrez comment Nicolas Copernic a conservé une tour d'observation fixe à Frombork pendant des décennies. Explorez la neuroscience cognitive du conditionnement spatial et de la mémoire dépendante du contexte qui élimine le temps d'échauffement cognitif."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant copernicus-observatory-tower est basée sur <strong>Vérification Historique issue de *Des révolutions des sphères célestes (De revolutionibus orbium coelestium)* de Nicolas Copernic & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *Des révolutions des sphères célestes (De revolutionibus orbium coelestium)* de Nicolas Copernic & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi fixer l'espace de travail élimine l'échauffement cérébral : Mémoire dépendante du contexte et conditionnement spatial
+## 1. Pourquoi fixer l'espace de travail élimine l'échauffement cérébral : Mémoire dépendante du contexte et conditionnement spatial
 
 Une cause majeure d'inefficacité cognitive réside dans les « Coûts de Changement de Contexte ». Travailler dans des cadres variables force le cerveau à dépenser de l'énergie préfrontale pour traiter de nouveaux signaux, provoquant un temps d'échauffement. Cependant, dédier un espace exclusif à une tâche intellectuelle unique établit une « Mémoire Dépendante du Contexte » via les réseaux hippocampo-préfrontaux. Dès que vous vous installez à ce poste, le cerveau saute la phase d'échauffement, déclenchant l'activation associative et basculant en mode Deep Work en quelques secondes.
 
 ---
 
-## Précautions & Conseils : Éviter la contamination des signaux environnementaux & Associer une action unique
-
-Le piège principal lors de la création d'une routine d'espace fixe est de contaminer les signaux environnementaux en vous livrant à des activités non professionnelles — regarder des vidéos, jouer ou consulter les réseaux sociaux — à ce bureau. Utiliser un espace de travail dédié pour le divertissement détruit l'association neuronale entre l'espace et la concentration. Associez strictement « une seule action cognitive essentielle » à votre espace ancrage. Lors des pauses, levez-vous et déplacez-vous.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le piège principal lors de la création d'une routine d'espace fixe est de cont
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter la contamination des signaux environnementaux & Associer une action unique
+
+Le piège principal lors de la création d'une routine d'espace fixe est de contaminer les signaux environnementaux en vous livrant à des activités non professionnelles — regarder des vidéos, jouer ou consulter les réseaux sociaux — à ce bureau. Utiliser un espace de travail dédié pour le divertissement détruit l'association neuronale entre l'espace et la concentration. Associez strictement « une seule action cognitive essentielle » à votre espace ancrage. Lors des pauses, levez-vous et déplacez-vous.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment appliquer cette routine si je vis dans un studio étroit et ne peux pas isoler physiquement un espace ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le piège principal lors de la création d'une routine d'espace fixe est de cont
       Si l'isolement physique est impossible, créez des déclencheurs sensoriels artificiels : utilisez une « lampe de bureau dédiée » allumée uniquement pendant le travail, ou déroulez un « sous-main » exclusif aux sessions de concentration. Créer un signal visuel régulier entraîne les réseaux préfrontaux de manière identique.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si je m'installe à mon bureau dédié mais reste distrait et ne parviens pas à démarrer en 5 minutes ?</span>

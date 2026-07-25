@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Master Architect Who Broke the Grid: Zaha Hadid's Organic Curve Sketching Routine"
 description: "Pritzker Prize-winning architect Zaha Hadid. Introduces her brain-stimulating method of breaking grid-bound ideas by sketching organic curves by hand to conceive 3D spatial concepts, complete with a 3-step action guide."
 pubDate: "2026-04-05"
@@ -38,22 +39,20 @@ This post explores Zaha Hadid's 'free curve sketching' routine and outlines a 3-
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding zaha-hadid-fluid-sketching is based on <strong>Historical records from Zaha Hadid biographies and autobiographical materials & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical records from Zaha Hadid biographies and autobiographical materials & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation of Right-Brain Visuospatial Processing Circuits
+## 1. Stimulation of Right-Brain Visuospatial Processing Circuits
 
 Relying strictly on rigid guidelines and straight lines causes the left brain's logical areas to dominate, reinforcing stereotypes. Executing unrestricted <strong>organic hand sketching</strong> like Hadid activates the right brain's visuospatial processing areas, maximizing novel visual ideas.
 
 ---
 
-## Caution Against Obsessing Over Initial Precision and Perfection
-
-If you use a ruler or correct asymmetry early on trying to 'draw a pretty picture', the brain's free ideation circuit closes. For the first 5 minutes, focus solely on the flow of lines rather than perfection. Rather than relying on pure willpower, design a physical environment and habit cues that naturally trigger action.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ If you use a ruler or correct asymmetry early on trying to 'draw a pretty pictur
   </p>
 </div>
 
+---
+
+## 3. Caution Against Obsessing Over Initial Precision and Perfection
+
+If you use a ruler or correct asymmetry early on trying to 'draw a pretty picture', the brain's free ideation circuit closes. For the first 5 minutes, focus solely on the flow of lines rather than perfection. Rather than relying on pure willpower, design a physical environment and habit cues that naturally trigger action.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can I use this routine even if I have zero drawing skills?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ If you use a ruler or correct asymmetry early on trying to 'draw a pretty pictur
       Yes, absolutely! The purpose is not creating an artwork, but cognitive training to stimulate right-brain spatial circuits through hand movement. Even simple scribbles yield full benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does using a digital tablet stylus produce the exact same effect?</span>

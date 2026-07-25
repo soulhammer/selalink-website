@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "守护沉浸状态的环境信号：简·奥斯汀的吱吱作响的门习惯"
 description: "简·奥斯汀特意不修理吱吱作响的门，以便提前察觉干扰因素的进入。探讨构建专注边界的原理。"
 pubDate: "2026-03-27"
@@ -37,17 +38,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 austen-creaky-door 的内容基于 <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) 与《Neuropsychologia》研究</strong> 撰写。
+      本内容基于 <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) 与《Neuropsychologia》研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 门牙吱吱声带来的任务切换摩擦防御
+## 1. 门牙吱吱声带来的任务切换摩擦防御
 
 不请自来的外部突发干扰会引发大脑的<strong>“任务切换摩擦（Task-Switching Friction）”</strong>，并使注意力仍牵挂于上一项任务的<strong>“注意力残留（Attention Residue）”</strong>损失最大化。
 
@@ -55,9 +56,7 @@ faqs:
 
 ---
 
-## 应对外部侵入噪音的专注保持指南
-
-不要仅仅依赖意志力，而是通过设计环境制约，打造让大脑不得不沉浸其中的状态。建立如门铰链吱吱声一样的感官早期预警信号是核心所在。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 应对外部侵入噪音的专注保持指南
+
+不要仅仅依赖意志力，而是通过设计环境制约，打造让大脑不得不沉浸其中的状态。建立如门铰链吱吱声一样的感官早期预警信号是核心所在。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>简·奥斯汀为什么没有在个人书房，而是在有吱吱作响门牙的起居室里写作？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ faqs:
       在19世纪的英国，女性作家极少能拥有独立的书房。奥斯汀同样不得不留在起居室这一共享空间里写作，因此她利用门牙吱吱作响的声音察觉家人不预而至的拜访，从而争取隐藏手稿的时间。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如何在现代数字环境中应用这种方法？</span>

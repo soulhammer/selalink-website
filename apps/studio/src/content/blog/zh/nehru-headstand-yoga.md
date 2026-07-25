@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "冰冷牢房地面上的倒立？贾瓦哈拉尔·尼赫鲁的荷尔蒙调节法"
 description: "印度首任总理贾瓦哈拉尔·尼赫鲁。揭示他在长达9年的单人牢房监禁生活中，每天早晨通过练习倒立（头手倒立）增加大脑血流量并消除身体紧张的脑科学原理与健康 routines。"
 pubDate: "2026-03-18"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 nehru-headstand-yoga 的内容基于 <strong>贾瓦哈拉尔·尼赫鲁历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>贾瓦哈拉尔·尼赫鲁历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 引导大脑血液供应并关闭HPA压力轴的抗重力效应
+## 1. 引导大脑血液供应并关闭HPA压力轴的抗重力效应
 
 当我们整天站立或坐在椅子上时，受重力影响，血液会流向下半身，椎间盘遭受持续的静态压迫。这会增加自主神经系统的紧张感，导致大脑疲劳。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 安全的脊椎对齐是大脑重置的开始
-
-虽然倒立是一种有效的大脑放松方法，但未经专业训练的强行动作可能会导致颈椎间盘突出或受伤，反而使自主神经系统紧张。只有像尼赫鲁那样注重安全、根据自身身体状况调整姿势，才能解除椎间盘的压迫，向全脑稳定地供应清爽能量。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 安全的脊椎对齐是大脑重置的开始
+
+虽然倒立是一种有效的大脑放松方法，但未经专业训练的强行动作可能会导致颈椎间盘突出或受伤，反而使自主神经系统紧张。只有像尼赫鲁那样注重安全、根据自身身体状况调整姿势，才能解除椎间盘的压迫，向全脑稳定地供应清爽能量。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>有颈椎疼痛或腰椎间盘突出的人可以练习倒立吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       不可以，患有颈椎或胸椎间盘突出疾病的患者应避免头部直接承受体重的传统头手倒立。相反，可以通过臀部靠墙平躺并将双腿垂直高举的姿势，或者平躺并在臀部下方垫一个垫子抬高双腿的变体动作，在不损伤椎间盘的情况下安全获取血液倒流效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>练习倒立的最佳时间段是什么时候？</span>

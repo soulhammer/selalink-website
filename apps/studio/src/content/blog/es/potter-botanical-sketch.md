@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El secreto de la autora de 'Peter Rabbit'? La rutina matutina de microobservación de la naturaleza de Beatrix Potter"
 description: "Beatrix Potter, autora de 'Peter Rabbit', observaba las finas estructuras de las plantas y el musgo con una lupa cada mañana para disipar distracciones y cultivar la inspiración artística."
 pubDate: "2026-05-15"
@@ -36,14 +37,14 @@ En la publicación de hoy, exploramos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre potter-botanical-sketch se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Beatrix Potter e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Beatrix Potter e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bloqueo del vagabundeo de la Red por Defecto y activación del control ejecutivo mediante atención microenfocada
+## 1. Bloqueo del vagabundeo de la Red por Defecto y activación del control ejecutivo mediante atención microenfocada
 
 Cuando el cerebro se distrae con arrepentimientos del pasado o ansiedades del futuro, se debe a que la Red por Defecto (DMN) está sobrecalentada y divagando.
 
@@ -51,9 +52,7 @@ El <strong>'entrenamiento microenfocado'</strong> de Potter —fijar la atenció
 
 ---
 
-## No mire a lo lejos; sumérjase en la textura minuciosa del objeto ante sus ojos
-
-El núcleo de esta rutina de observación no es crear un gran dibujo artístico. El poder curativo reside en el proceso de explorar de manera microscópica una hoja, la punta de un lápiz o la textura de la piel de la mano.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El núcleo de esta rutina de observación no es crear un gran dibujo artístico.
   </p>
 </div>
 
+---
+
+## 3. No mire a lo lejos; sumérjase en la textura minuciosa del objeto ante sus ojos
+
+El núcleo de esta rutina de observación no es crear un gran dibujo artístico. El poder curativo reside en el proceso de explorar de manera microscópica una hoja, la punta de un lápiz o la textura de la piel de la mano.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo hacer un boceto aunque no sepa dibujar bien?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El núcleo de esta rutina de observación no es crear un gran dibujo artístico.
       ¡No! Describir los detalles observados en texto en lugar de dibujarlos produce exactamente el mismo efecto de inmersión en el cerebro.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo aplicarlo en interiores o en la oficina usando objetos artificiales en lugar de elementos naturales?</span>

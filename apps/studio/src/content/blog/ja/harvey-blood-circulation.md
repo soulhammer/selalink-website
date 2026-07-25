@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ウィリアム・ハーヴィの血液循環定量検証法：客観的数値計算で盲目的な偏見を打ち破る方法"
 description: "17世紀のイギリスの医師ウィリアム・ハーヴィが、心臓拍動量の数学的定量計算で2000年間西洋を支配した盲目的な通念を打ち破った歴史的事実と、数値検証の脳科学を解き明かします。"
 pubDate: "2026-03-14"
@@ -37,25 +38,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「harvey-blood-circulation」は <strong>ウィリアム・ハーヴィ著作集『動物の心臓と血液の運動について（De Motu Cordis）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ウィリアム・ハーヴィ著作集『動物の心臓と血液の運動について（De Motu Cordis）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 数学的定量化と大脳左側頭頂葉の論理統制メカニズム
+## 1. 数学的定量化と大脳左側頭頂葉の論理統制メカニズム
 
 漠然とした感情や直感ではなく、具体的な数値データと量的計算を扱う習慣は、大脳<strong>左側頭頂葉（Left Parietal Lobe）</strong>および<strong>前頭前野皮質（Prefrontal Cortex）</strong>の因果演算回路を強力に刺激します。このような<strong>数学的定量化（Mathematical Quantification）</strong>行動は、主観的な偏見や2,000年もの古い固定観念のエラーを一瞬にして把握できるよう助け、大脳扁桃体の不必要な直感的錯覚と不安反応を抑制して、最高水準の論理的実行機能を稼働させます。
 
 ---
 
-## 注意事項：漠然とした通念と直感を打ち破る数学的定量検品ルール
-
-古い伝統や上司の権威という理由だけで無批判に受け入れないでください。主観的な語彙で表現された曖昧な現象や仮説を、入出力が明確な「測定可能な数値単位」へと換算して初めて、脳はエラーと偽りの通念を視覚的に識別できるようになります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：漠然とした通念と直感を打ち破る数学的定量検品ルール
+
+古い伝統や上司の権威という理由だけで無批判に受け入れないでください。主観的な語彙で表現された曖昧な現象や仮説を、入出力が明確な「測定可能な数値単位」へと換算して初めて、脳はエラーと偽りの通念を視覚的に識別できるようになります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ビジネス指標の分析や企画の意思決定にどのように適用しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       「ユーザーが好んでいる」という曖昧な表現の代わりに、ユーザー流入量、滞在時間、離脱率という閉じられた定量数値の循環の輪で検証してください。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>定量的な数値が自分の直感や既存の知識と相違する場合はどうすればよいですか？</span>

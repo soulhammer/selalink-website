@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ノーベル賞受賞者の超高速学習法：リチャード・ファインマンの「教える習慣」とメタ認知極大化ルーティン"
 description: "難しい量子力学を10歳の子どもでも理解できるよう教えたリチャード・ファインマンの秘密。メタ認知を極大化して知識を完全に自分のものにするファインマン・テクニックのルーティンと能動的引出の脳科学的メカニズムを解き明かします。"
 pubDate: "2026-02-11"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「feynman-explanation-technique」は <strong>リチャード・ファインマン自伝『ご冗談でしょう、ファインマンさん（Surely You're Joking, Mr. Feynman!）』およびカルテック講義録考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>リチャード・ファインマン自伝『ご冗談でしょう、ファインマンさん（Surely You're Joking, Mr. Feynman!）』およびカルテック講義録考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 知の限界を把握するメタ認知と能動的引出
+## 1. 知の限界を把握するメタ認知と能動的引出
 
 新しい情報を単に読んだり聞いたりする受動的な学習法は、脳に記憶を長期的に刻み込むことができません。一方、自分が習得した内容を声に出して教えたり簡単な言葉で要約することは、脳の<strong>能動的引出（Active Retrieval）</strong>作用を活用して知識を認知システムに深く固定させます。特に小学生でも理解できるほど簡単で直感的な比喩を動員して説明する訓練は、脳の<strong>メタ認知（Metacognition）</strong>を強力に活性化させます。専門用語を取り払うと、自分が真正に完璧に知っていることと、単に本に書かれた語彙を暗記して知っている振りをしていた部分が一目で露呈するからです。この過程を通じて脳の前頭葉と記憶センターである海馬はシナプスを再構成し、教える学習を経た知識を<strong>長期記憶（Long-term Memory）</strong>へと安全に移管します。
 
 ---
 
-## 注意事項：知っている振りをしている知識の罠を打ち破る能動的引出ルール
-
-目で流し読みする読書や単なる講義視聴は、知識を所有したという「偽りの安心感」を提供しますが、実際のメタ認知回路を作動させることはできません。ファラデーやファインマンのように学習後わずか10分だけでも白い紙を広げ、手と口を動かして声に出して説明してみてください。自分で説明できないすべてのものは、まだあなたの知識ではありません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：知っている振りをしている知識の罠を打ち破る能動的引出ルール
+
+目で流し読みする読書や単なる講義視聴は、知識を所有したという「偽りの安心感」を提供しますが、実際のメタ認知回路を作動させることはできません。ファラデーやファインマンのように学習後わずか10分だけでも白い紙を広げ、手と口を動かして声に出して説明してみてください。自分で説明できないすべてのものは、まだあなたの知識ではありません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>説明してあげる本当の子供が周りにいない場合はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       説明する実際の子供がいなくても問題ありません。同僚やデスクの上のぬいぐるみ、あるいは10歳レベルに設定したAIチャットボットを相手にしてもよく、核心は「専門用語を除外し、小学生でも理解できる言葉のレベルで自分の言葉と文章を検閲するフィルタリング過程」を経ることです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>専門用語や難しい漢字語を完全に排除して説明しようとすると、文章が長くなり不自然になりますが大丈夫ですか？</span>

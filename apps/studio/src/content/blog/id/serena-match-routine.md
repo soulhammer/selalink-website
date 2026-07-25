@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Servis yang Meredakan Kecemasan: Kebiasaan Rutinitas Pra-Pertandingan Serena Williams"
 description: "Serena Williams, yang sangat ketat menjaga rutinitas pra-pertandingan seperti selalu memantulkan bola tenis 5 kali sebelum servis pertama. Kami mempelajari bagaimana rutinitas pra-performansi memblokir stimulasi kecemasan eksternal dan menyesuaikan otak ke dalam kondisi kognitif yang terfokus."
 pubDate: "2026-04-19"
@@ -31,25 +32,23 @@ Serena Williams adalah ikon tak tertandingi yang meredefinisi sejarah olahraga m
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai serena-match-routine didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Serena Williams & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Serena Williams & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kontrol Amigdala dan Pembingkaian Kognitif melalui Rutinitas Pra-Performansi (PPR)
+## 1. Kontrol Amigdala dan Pembingkaian Kognitif melalui Rutinitas Pra-Performansi (PPR)
 
 Tingkat kecemasan tinggi yang dialami tepat sebelum ujian atau pertandingan merangsang hipotalamus otak untuk mensekresi epinefrin, mengencangkan otot, dan memicu hiper-vigilansi kognitif. 'Rutinitas Pra-Performansi (PPR)', yang terbukti dalam psikologi olahraga, memblokir fokus dari ancaman eksternal yang tidak dapat dikendalikan (kekuatan lawan, kebisingan penonton) dan secara paksa mengalihkan fokus ke tindakan fisik yang 100% dapat dikendalikan (memantulkan bola, menata tas). Tindakan kontrol fisik ini mematikan sirkuit alarm amigdala dan memberikan efek pembingkaian kognitif yang menyesuaikan otak ke dalam 'kondisi immersi aman', mengurangi kesalahan performa.
 
 ---
 
-## Tindakan Pencegahan dan Tips
-
-Jebakan terburuk yang harus diwaspadai saat menerapkan rutinitas pra-performansi adalah menciptakan elemen kecemasan baru dengan terobsesi pada urutan atau metode pelaksanaan rutinitas itu sendiri. Jika terjebak dalam obsesi seperti 'Jika saya memantulkan bola 4 kali alih-alih 5 kali, saya akan merusak pertandingan,' rutinitas itu sendiri berubah menjadi stresor lain yang menguras sumber daya kognitif. Oleh karena itu, sadarilah bahwa inti dari suatu rutinitas bukanlah kesempurnaan tindakan itu sendiri, melainkan 'alat untuk membalikkan sakelar pikiran,' yang membutuhkan fleksibilitas untuk menyesuaikan diri tergantung pada situasi.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Jebakan terburuk yang harus diwaspadai saat menerapkan rutinitas pra-performansi
   </p>
 </div>
 
+---
+
+## 3. Tindakan Pencegahan dan Tips
+
+Jebakan terburuk yang harus diwaspadai saat menerapkan rutinitas pra-performansi adalah menciptakan elemen kecemasan baru dengan terobsesi pada urutan atau metode pelaksanaan rutinitas itu sendiri. Jika terjebak dalam obsesi seperti 'Jika saya memantulkan bola 4 kali alih-alih 5 kali, saya akan merusak pertandingan,' rutinitas itu sendiri berubah menjadi stresor lain yang menguras sumber daya kognitif. Oleh karena itu, sadarilah bahwa inti dari suatu rutinitas bukanlah kesempurnaan tindakan itu sendiri, melainkan 'alat untuk membalikkan sakelar pikiran,' yang membutuhkan fleksibilitas untuk menyesuaikan diri tergantung pada situasi.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara membuat rutinitas saya sendiri sebelum acara penting sehari-hari seperti presentasi atau ujian?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Jebakan terburuk yang harus diwaspadai saat menerapkan rutinitas pra-performansi
       Menentukan 2 hingga 3 langkah tindakan mekanis konsisten yang dapat Anda kendalikan sepenuhnya—seperti 'mengikat tali sepatu dengan urutan tertentu,' 'mengambil napas dalam 3 kali,' atau 'mengucapkan kalimat ikrar tertentu dengan lantang'—dan mengulangnya secara identik akan sangat membantu mengendalikan kecemasan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mengendalikan kecemasan yang datang jika saya melewatkan atau melakukan kesalahan dalam satu langkah rutinitas?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O maior estrategista do século? A rotina de tocar guqin ao amanhecer e estratégia astronômica de Zhuge Liang"
 description: "Descubra como Zhuge Liang, Primeiro-Ministro de Shu Han durante os Três Reinos, alcançou um controle mental avançado ao tocar guqin ao amanhecer e fazer observações astronômicas noturnas em meio a complexas situações políticas."
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ No post de hoje, exploramos a ciência cognitiva por trás da rotina de guqin e 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre zhuge-liang-guqin-strategy é baseada em <strong>Exame de biografias históricas e registros de Zhuge Liang e pesquisas em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Exame de biografias históricas e registros de Zhuge Liang e pesquisas em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bloqueio da sobrecarga emocional e aprimoramento do julgamento espacial macro via indução de ondas alfa
+## 1. Bloqueio da sobrecarga emocional e aprimoramento do julgamento espacial macro via indução de ondas alfa
 
 Diante de tarefas cruciais ou alta ansiedade, a <strong>Amígdala</strong> cerebral torna-se hiperativa, estreitando a visão e causando indecisão.
 
@@ -51,9 +52,7 @@ O toque do guqin e a observação serena das estrelas por Zhuge Liang atuavam co
 
 ---
 
-## Reduza ruídos e estímulos para garantir um estado interno de silêncio
-
-Como diz a famosa máxima de Zhuge Liang, sem tranquilidade não se pode chegar longe. Bloqueie notícias barulhentas ou notificações de redes sociais e garanta 10 minutos de relaxamento e silêncio intencionais. Não confie apenas na força de vontade; pré-projetar o ambiente físico e pistas de hábitos que desencadeiem a ação é a chave para a sustentabilidade.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Como diz a famosa máxima de Zhuge Liang, sem tranquilidade não se pode chegar 
   </p>
 </div>
 
+---
+
+## 3. Reduza ruídos e estímulos para garantir um estado interno de silêncio
+
+Como diz a famosa máxima de Zhuge Liang, sem tranquilidade não se pode chegar longe. Bloqueie notícias barulhentas ou notificações de redes sociais e garanta 10 minutos de relaxamento e silêncio intencionais. Não confie apenas na força de vontade; pré-projetar o ambiente físico e pistas de hábitos que desencadeiem a ação é a chave para a sustentabilidade.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É eficaz mesmo se eu não souber tocar um instrumento?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Como diz a famosa máxima de Zhuge Liang, sem tranquilidade não se pode chegar 
       Sim, a simples imersão auditiva focada ao ouvir música orquestral ou acústica de cordas com ressonância única produz os mesmos efeitos de indução de ondas alfa.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Por que escolher apenas 1 tarefa entre os inúmeros afazeres?</span>

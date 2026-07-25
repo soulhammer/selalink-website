@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O mestre que transformou uma grande imaginação em realidade tocando brinquedos: o método de estimulação tátil de Steven Spielberg"
 description: "Steven Spielberg, o diretor de maior sucesso na história do cinema moderno. Exploramos sua rotina de estimulação do cérebro direito de estreitar seu campo de visão através da lente de um visor e tocar em brinquedos em miniatura sempre que ficava empacado em um roteiro ou enquadramento de câmera, bem como formas modernas de utilizar ferramentas fidget."
 pubDate: "2026-04-20"
@@ -33,25 +34,23 @@ No post de hoje, examinamos as raízes neurocientíficas da rotina de 'visor ana
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre spielberg-viewfinder-tactile é baseada em <strong>Verificação de biografias históricas e registros autobiográficos de Steven Spielberg e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas e registros autobiográficos de Steven Spielberg e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação do córtex somatossensorial e aceleração da computação espacial do lobo parietal
+## 1. Estimulação do córtex somatossensorial e aceleração da computação espacial do lobo parietal
 
 O feedback háptico sofisticado obtido ao tocar delicadamente os contornos tridimensionais complexos de um modelo com as pontas dos dedos estimula fortemente o córtex somatossensorial do cérebro. Isso estimula simultaneamente a área de associação do lobo parietal do hemisfério direito, responsável pelo raciocínio espacial e pela composição tridimensional das cenas. Além disso, o reenquadramento visual — bloquear o campo de visão através da lente de um visor analógico ou de uma fenda estreita e focar em um único objeto — filtra o enorme ruído visual enviado ao lobo frontal, concentrando os recursos cognitivos no cálculo da composição estrutural do objetivo.
 
 ---
 
-## Armadilhas de ferramentas táteis excessivas e dicas de conexão com o planejamento
-
-Ao tocar em ferramentas fidget para estimular as pontas dos dedos, se a ferramenta for excessivamente chamativa ou contiver mecanismos complexos, ocorre uma dispersão cognitiva, pois o cérebro fica fascinado com a diversão de operar a própria ferramenta. Portanto, para fins de estimulação cerebral, usar formas simples e materiais sólidos, como modelos de metal frio ou brinquedos de madeira, é muito mais vantajoso para o descarregamento cognitivo. Além disso, limite o tempo de manipulação a no máximo 10 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Ao tocar em ferramentas fidget para estimular as pontas dos dedos, se a ferramen
   </p>
 </div>
 
+---
+
+## 3. Armadilhas de ferramentas táteis excessivas e dicas de conexão com o planejamento
+
+Ao tocar em ferramentas fidget para estimular as pontas dos dedos, se a ferramenta for excessivamente chamativa ou contiver mecanismos complexos, ocorre uma dispersão cognitiva, pois o cérebro fica fascinado com a diversão de operar a própria ferramenta. Portanto, para fins de estimulação cerebral, usar formas simples e materiais sólidos, como modelos de metal frio ou brinquedos de madeira, é muito mais vantajoso para o descarregamento cognitivo. Além disso, limite o tempo de manipulação a no máximo 10 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Girar um fidget spinner ou uma caneta comum com os dedos produz o mesmo efeito?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Ao tocar em ferramentas fidget para estimular as pontas dos dedos, se a ferramen
       A simples rotação repetitiva de um spinner ou caneta é classificada como um hábito motor inconsciente, estimulando apenas o circuito dos gânglios da base do cérebro e oferecendo uma intensidade muito baixa de estimulação do córtex somatossensorial (feedback háptico) para induzir computação espacial de alto nível no lobo parietal. Portanto, tocar diretamente em brinquedos ou cubos de modelos analógicos — onde formas e contornos geométricos claros forçam o cérebro a coordenar movimentos finos das pontas dos dedos para reconhecer as formas — produz efeitos de redespertar intelectual muito superiores.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existem outras dicas para estreitar o campo de visão no dia a dia quando não há uma lente de visor óptico disponível?</span>

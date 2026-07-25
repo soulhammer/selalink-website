@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Merekam Cahaya di Otak? Metode Pengamatan Sensitivitas Kontras Matahari Terbit ala Turner"
 description: "Ekspresi warna unik dari 'Pelukis Cahaya' J.M.W. Turner lahir dari kebiasaan harian menatap matahari terbit di fajar. Temukan metode menatap warna ala Turner yang mengaktifkan kognisi visual di otak."
 pubDate: "2026-02-27"
@@ -33,17 +34,17 @@ Rutinitas ini didasarkan pada mekanisme ilmiah yang mengurangi beban berlebih ko
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai turner-dawn-observation didasarkan pada <strong>Biografi historis dan catatan autobiografi J.M.W. Turner & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi J.M.W. Turner & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Perubahan Bertahap Sinar Cahaya yang Merangsang Korteks Visual
+## 1. Perubahan Bertahap Sinar Cahaya yang Merangsang Korteks Visual
 
 Langit saat matahari terbit mengalami perubahan suhu warna yang cepat dalam waktu singkat, beralih dari cahaya biru lembut ke cahaya alami yang terang. Stimulasi visual bertahap ini melatih sensitivitas kontras korteks visual otak secara mendalam.
 
@@ -51,9 +52,7 @@ Melatih diri untuk mengelaborasi informasi visual dalam benak dan merekamnya di 
 
 ---
 
-## Peringatan: Jangan Menatap Sinar Matahari Kuat Secara Langsung
-
-Inti dari rutinitas Turner bukanlah menatap sumber cahaya matahari yang kuat secara langsung. Melainkan mengamati cahaya terhambur lembut yang menyebar di langit redup, kabut, atau awan tepat sebelum matahari terbit. Untuk mencegah kerusakan retina, hindari menatap sinar matahari kuat secara langsung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Inti dari rutinitas Turner bukanlah menatap sumber cahaya matahari yang kuat sec
   </p>
 </div>
 
+---
+
+## 3. Peringatan: Jangan Menatap Sinar Matahari Kuat Secara Langsung
+
+Inti dari rutinitas Turner bukanlah menatap sumber cahaya matahari yang kuat secara langsung. Melainkan mengamati cahaya terhambur lembut yang menyebar di langit redup, kabut, atau awan tepat sebelum matahari terbit. Untuk mencegah kerusakan retina, hindari menatap sinar matahari kuat secara langsung.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya harus melakukan rutinitas ini bahkan pada hari berawan atau berkabut?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Inti dari rutinitas Turner bukanlah menatap sumber cahaya matahari yang kuat sec
       Malah jauh lebih baik. Turner jauh lebih suka mengamati cahaya atmosfer yang terhambur pada hari berawan, bersalju, atau berkabut daripada hari cerah. Pada hari mendung, Anda dapat menangkap transisi bayangan halus yang diciptakan oleh cahaya dan kelembapan atmosfer secara jauh lebih baik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah boleh mengamati sinar matahari di siang hari jika saya kesulitan bangun di pagi fajar?</span>

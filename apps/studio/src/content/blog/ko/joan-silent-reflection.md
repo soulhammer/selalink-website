@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "흔들리지 않는 신념의 중심: 잔 다르크의 아침 침묵 루틴과 편도체 안정화"
 description: "프랑스의 구국 성녀 잔 다르크. 백년전쟁의 소용돌이와 죽음의 공포 속에서도 불굴의 투지를 지켜낸 비결인 '아침 침묵 기도'의 신경심리학적 안정 효과, 편도체 감쇠 및 3단계 정렬 루틴을 소개합니다."
 pubDate: "2026-02-12"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>잔 다르크 재판 기록사료(Procès de Condamnation et de Réhabilitation) 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 joan-silent-reflection 루틴을 다룹니다.
+      본 콘텐츠는 <strong>잔 다르크 재판 기록사료(Procès de Condamnation et de Réhabilitation) 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 소음 차단을 통한 편도체(Amygdala) 안정화와 인지적 정렬
+## 1. 소음 차단을 통한 편도체(Amygdala) 안정화와 인지적 정렬
 
 과도한 시각적·청각적 자극에 시달릴 때, 뇌의 감정 및 경보 중추인 <strong>편도체(Amygdala)</strong>는 쉽게 예민해지고 불안 반응을 촉진합니다. 하루를 시작할 때 의도적으로 10분 동안 소음을 차단하고 침묵 상태를 유지하는 행동은 과부하된 편도체를 안정시키고 교감신경계의 흥분을 가라앉힙니다. 또한 침묵 속에서 자신이 지향하는 가치나 신념을 곱씹는 <strong>인지적 정렬(Cognitive Alignment)</strong>은 인지 부조화를 해소하고 자존감 관련 신경 회로를 자극하여 외부의 스트레스에 흔들리지 않는 굳건한 멘탈 방어선을 구축합니다.
 
 ---
 
-## 외부 소음을 차단하고 내면의 핵심 가치에 집중하는 수칙
-
-아침 침묵 루틴의 진정한 효과를 누리기 위해서는 생각의 방향성이 내부를 향해야 합니다. 눈을 감은 상태에서도 타인의 평가나 지나간 일에 주의를 빼앗기면 편도체는 계속 예민한 상태를 유지합니다. 잔 다르크가 난세 속에서 오직 내면의 약속과 신념에 주파수를 고정했듯, 타인의 목소리를 침묵으로 완전히 걷어내고 '나에게 가장 가치 있는 생각 한 가지'에만 온 정신을 정렬해야 내면의 복원력이 작동합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 외부 소음을 차단하고 내면의 핵심 가치에 집중하는 수칙
+
+아침 침묵 루틴의 진정한 효과를 누리기 위해서는 생각의 방향성이 내부를 향해야 합니다. 눈을 감은 상태에서도 타인의 평가나 지나간 일에 주의를 빼앗기면 편도체는 계속 예민한 상태를 유지합니다. 잔 다르크가 난세 속에서 오직 내면의 약속과 신념에 주파수를 고정했듯, 타인의 목소리를 침묵으로 완전히 걷어내고 '나에게 가장 가치 있는 생각 한 가지'에만 온 정신을 정렬해야 내면의 복원력이 작동합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>아침형 인간이 아닌데, 새벽에 일어나서 실천해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       아닙니다. 잔 다르크 루틴의 핵심은 기상 직후 스마트폰이나 외부의 정보 소음이 밀려오기 전에 뇌를 정비하는 데 있습니다. 본인의 평소 기상 시간대에 일어나 단 10분만 투자하셔도 동일한 효과를 냅니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>종교가 없는데 침묵 기도가 효과가 있을까요?</span>

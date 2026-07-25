@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Aufschlag, der Angst beruhigt: Serena Williams' Gewohnheiten vor dem Spiel"
 description: "Serena Williams, die Routinen vor dem Spiel strikt einhielt, wie beispielsweise den Tennisball vor ihrem ersten Aufschlag immer genau fünfmal aufditschen zu lassen. Wir untersuchen, wie Routinen vor der Ausführung externe Angstreize blockieren und das Gehirn auf einen Zustand des kognitiven Framings einstellen."
 pubDate: "2026-04-19"
@@ -31,25 +32,23 @@ Serena Williams ist eine unerreichte Ikone, die mit dem stärksten Aufschlag und
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu serena-match-routine basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Serena Williams & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Serena Williams & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Amygdala-Kontrolle und kognitives Framing durch Routinen vor der Ausführung (PPR)
+## 1. Amygdala-Kontrolle und kognitives Framing durch Routinen vor der Ausführung (PPR)
 
 Hohe Angstzustände unmittelbar vor einer Prüfung oder einem Spiel stimulieren den Hypothalamus des Gehirns zur Ausschüttung von Epinephrin, was die Muskeln anpannt und eine kognitive Hypervigilanz auslöst. Die in der Sportpsychologie erprobten 'Routinen vor der Ausführung (PPR)' blockieren den Blick auf unkontrollierbare externe Bedrohungen (Stärke des Gegners, Lärm der Zuschauer) und verlagern den Fokus gewaltsam auf zu 100 % kontrollierbare eigene 'körperliche Handlungen' (Ball prellen, Taschen ausrichten). Dieser Akt physischer Kontrolle schaltet Alarmkreise der Amygdala ab und übt einen kognitiven Framing-Effekt aus, der das Gehirn auf einen 'sicheren Immersionszustand' einstellt und Leistungsfehler reduziert.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Die schlimmste Falle, vor der man sich bei der Anwendung von Routinen vor der Ausführung hüten muss, besteht darin, ein neues Angstelement zu schaffen, indem man sich auf die Reihenfolge oder Methode der Routine selbst versteift. Wenn man in einer Zwangsvorstellung gefangen ist wie 'Wenn ich den Ball 4 statt 5 Mal prelle, werde ich das Spiel ruinieren', wird die Routine selbst zu einem weiteren Stressor, der kognitive Ressourcen verbraucht. Erkennen Sie daher, dass der Kern einer Routine nicht die Perfektion der Handlung selbst ist, sondern ein 'Werkzeug zum Umlegen des mentalen Schalters', was Flexibilität erfordert, um sich an die Situation anzupassen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Die schlimmste Falle, vor der man sich bei der Anwendung von Routinen vor der Au
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Die schlimmste Falle, vor der man sich bei der Anwendung von Routinen vor der Ausführung hüten muss, besteht darin, ein neues Angstelement zu schaffen, indem man sich auf die Reihenfolge oder Methode der Routine selbst versteift. Wenn man in einer Zwangsvorstellung gefangen ist wie 'Wenn ich den Ball 4 statt 5 Mal prelle, werde ich das Spiel ruinieren', wird die Routine selbst zu einem weiteren Stressor, der kognitive Ressourcen verbraucht. Erkennen Sie daher, dass der Kern einer Routine nicht die Perfektion der Handlung selbst ist, sondern ein 'Werkzeug zum Umlegen des mentalen Schalters', was Flexibilität erfordert, um sich an die Situation anzupassen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie erstelle ich meine eigene Routine vor wichtigen Alltagsereignissen wie Präsentationen oder Prüfungen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Die schlimmste Falle, vor der man sich bei der Anwendung von Routinen vor der Au
       Das Festlegen von 2 bis 3 Schritten konsistenter mechanischer Handlungen, die Sie vollständig kontrollieren können – wie 'Schürsenkel in einer bestimmten Reihenfolge binden', '3 tiefes Durchatmen' oder 'eine bestimmte Zusage laut aussprechen' – und deren identische Wiederholung wird Ihnen sehr helfen, Ängste zu kontrollieren.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie kontrolliere ich die Angst, die aufkommt, wenn ich auch nur einen Schritt der Routine verpasse oder einen Fehler mache?</span>

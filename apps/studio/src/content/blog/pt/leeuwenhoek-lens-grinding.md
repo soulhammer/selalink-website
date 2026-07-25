@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Método de Polimento de Lentes Esféricas de Antonie van Leeuwenhoek: Penetrando a Essência Através da Micropaciência, Observação e Relaxamento Cerebelar"
 description: "Descubra como Antonie van Leeuwenhoek, o Pai da Microbiologia, poliu à mão lentes esféricas de 500 aumentos para descobrir bactérias e microorganismos. Explore a neurociência da imersão tátil-visual, o relaxamento cerebelar, o fluxo de ondas alfa e um guia de 3 passos."
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre leeuwenhoek-lens-grinding é baseada em <strong>Verificação Histórica das Biografias de Antonie van Leeuwenhoek, Arquivos de Correspondência da Royal Society e Pesquisa em Neurociência Cognitiva e Ciência do Controle Motor</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Biografias de Antonie van Leeuwenhoek, Arquivos de Correspondência da Royal Society e Pesquisa em Neurociência Cognitiva e Ciência do Controle Motor</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaxamento do Cerebelo e Gânglios da Base e Ativação do Fluxo de Ondas Alfa
+## 1. Relaxamento do Cerebelo e Gânglios da Base e Ativação do Fluxo de Ondas Alfa
 
 Estudos neurocientíficos demonstram que combinar o controle motor fino com o foco microvisual altera as ondas cerebrais das ondas Beta para as <strong>Ondas Alfa</strong> e <strong>Ondas Teta</strong>. Esse processo acalma a hiperatividade no <strong>Cerebelo</strong> e nos <strong>Gânglios da Base</strong>. Ao mesmo tempo, elimina o ruído no <strong>Córtex Pré-frontal</strong>, imergindo o cérebro em um estado ininterrupto de <strong>Fluxo (Flow)</strong>.
 
 ---
 
-## Precaução: Elimine a Impaciência pelos Resultados para Cultivar a Micropaciência
-
-Evite exigir resultados imediatos ou gratificação instantânea. Descobertas fundamentais revelam-se naturalmente através de uma <strong>Micropaciência (Micro-Patience)</strong> constante e observação iterativa. Em vez de confiar apenas na força de vontade, crie previamente um ambiente analógico que mantenha o foco visomotor por 20 minutos ininterruptos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Evite exigir resultados imediatos ou gratificação instantânea. Descobertas fu
   </p>
 </div>
 
+---
+
+## 3. Precaução: Elimine a Impaciência pelos Resultados para Cultivar a Micropaciência
+
+Evite exigir resultados imediatos ou gratificação instantânea. Descobertas fundamentais revelam-se naturalmente através de uma <strong>Micropaciência (Micro-Patience)</strong> constante e observação iterativa. Em vez de confiar apenas na força de vontade, crie previamente um ambiente analógico que mantenha o foco visomotor por 20 minutos ininterruptos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Essa rotina é eficaz para pessoas com alta ansiedade ou distrações frequentes?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Evite exigir resultados imediatos ou gratificação instantânea. Descobertas fu
       Sim, é extremamente eficaz! Sincronizar o controle motor fino com o foco visual acalma a hiperatividade na amígdala e nas redes de estresse, reduzindo a ansiedade e devolvendo a serenidad ao cérebro.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Com que frequência e em qual momento do dia é melhor praticar essa rotina de microimersão?</span>

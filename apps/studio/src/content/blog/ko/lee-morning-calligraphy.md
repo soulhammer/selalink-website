@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "붓끝에 담은 경영 철학: 이병철의 아침 서예 의식과 일차 운동 피질 각성"
 description: "삼성을 창업한 이병철 회장이 매일 아침 거르지 않았던 붓글씨 명상. 정교한 붓의 스트로크를 다루는 미세 운동 조작이 뇌파를 안정시키고 전전두엽의 이성적 집행 기능을 일깨우는 뇌과학적 원리와 3단계 실천법을 조명합니다."
 pubDate: "2026-05-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>호암 자서전 『호암자전(湖岩自傳)』 및 삼성그룹 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동제어학(Motor Control Science) 연구</strong>에 근거하여 lee-morning-calligraphy 루틴을 다룹니다.
+      본 콘텐츠는 <strong>호암 자서전 『호암자전(湖岩自傳)』 및 삼성그룹 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동제어학(Motor Control Science) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 일차 운동 피질(Primary Motor Cortex) 가동과 전전두엽 자율신경계 이완의 뇌과학
+## 1. 일차 운동 피질(Primary Motor Cortex) 가동과 전전두엽 자율신경계 이완의 뇌과학
 
 붓글씨는 금속 펜과 달리 유연한 붓털의 장력과 획의 속도, 힘의 강약을 소수점 단위로 정밀하게 조율해야 하는 고도의 미세 운동 과제입니다. 이 과정은 대뇌 피질의 <strong>일차 운동 피질(Primary Motor Cortex)</strong>과 <strong>소뇌(Cerebellum)</strong> 신경망을 집중 가동하여 불필요한 번잡함과 잡념의 유입을 생리학적으로 통제합니다. 또한 붓끝의 마찰과 먹의 촉각·시각·청각 복합 피드백은 <strong>자율신경계(Autonomic Nervous System)</strong>를 이완시키고 <strong>전전두엽(Prefrontal Cortex)</strong>의 집행 통제력을 차분하게 각성시켜, 차가운 이성과 명확한 판단력으로 경영적 사유를 정돈하도록 돕습니다.
 
 ---
 
-## 글씨의 완벽성에 대한 집착을 배제하고 손끝의 감각 운동 흐름에 몰입하는 수칙
-
-서예 명상을 진행할 때 글씨의 아름다움이나 완성도 자체에 연연하여 스스로 평가하고 자책하는 자기 비판 오류에 빠지면 이완 효과가 저하됩니다. 서예 루틴은 예술 작품 창작이 아닌, 붓끝과 손가락의 미세한 힘 조절에 의식을 모으는 감각 운동적 마인드풀니스 과정입니다. 형태의 비뚤어짐에 개의치 않고 붓이 움직이는 마찰 감각 자체에 몰입하는 태도가 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 글씨의 완벽성에 대한 집착을 배제하고 손끝의 감각 운동 흐름에 몰입하는 수칙
+
+서예 명상을 진행할 때 글씨의 아름다움이나 완성도 자체에 연연하여 스스로 평가하고 자책하는 자기 비판 오류에 빠지면 이완 효과가 저하됩니다. 서예 루틴은 예술 작품 창작이 아닌, 붓끝과 손가락의 미세한 힘 조절에 의식을 모으는 감각 운동적 마인드풀니스 과정입니다. 형태의 비뚤어짐에 개의치 않고 붓이 움직이는 마찰 감각 자체에 몰입하는 태도가 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>서예 도구가 집에 전혀 없는데 대체할 수 있는 일상 도구가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       만년필이나 딥펜(Dip Pen), 혹은 두툼한 종이와 연필만으로도 완벽히 대체 가능합니다. 핵심은 필기 시 종이와 펜촉 사이에 전달되는 미세한 마찰력(Friction)과 손끝 힘의 안배를 뇌가 실시간으로 자각하는 데 있습니다. 사각거리는 촉각 피드백이 또렷한 필기도구라면 서예와 동일한 신경계 안정 효과를 도출해 낼 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>왜 밤이나 저녁 시간보다 아침 기상 직후에 이 서예 루틴을 실천하는 것이 좋은가요?</span>

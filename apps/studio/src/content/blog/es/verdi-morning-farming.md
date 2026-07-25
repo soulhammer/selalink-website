@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Melodías compuestas labrando la tierra: El hábito de trabajo agrícola matutino de Giuseppe Verdi"
 description: "Giuseppe Verdi se levantaba a las 5 a.m. en la granja Sant'Agata para labrar la tierra y sudar antes de escribir partituras. Investigando el mecanismo por el cual el trabajo físico bajo la luz solar matutina aporta rica serotonina al cerebro, desencadenando la inspiración creativa."
 pubDate: "2026-06-21"
@@ -34,22 +35,20 @@ Giuseppe Verdi, maestro de la ópera del siglo XIX y gran compositor que sacudi�
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre verdi-morning-farming se basa en <strong>Investigación histórica de biografías y registros autobiográficos de Verdi Morning Farming y estudios de Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación histórica de biografías y registros autobiográficos de Verdi Morning Farming y estudios de Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurofisiología de la exposición a la naturaleza matutina y la conexión a tierra (Earthing)
+## 1. Neurofisiología de la exposición a la naturaleza matutina y la conexión a tierra (Earthing)
 
 Salir temprano al aire libre al amanecer a realizar trabajo físico suprime la secreción de melatonina, la hormona del sueño, bajo la luz solar natural y activa la síntesis de serotonina, el neurotransmisor de la felicidad. Además, investigaciones recientes en neurociencia ambiental muestran que tocar la tierra y conectar con ella (earthing) reduce los radicales libres y desplaza el sistema nervioso autónomo hacia el dominio parasimpático, reduciendo notablemente el estrés cerebral. En consecuencia, las barreras cognitivas se derriban y el cerebro entra en un modo relajado de pensamiento divergente, permitiendo la combinación intuitiva de melodías sumamente ricas y hermosas.
 
 ---
 
-## Precauciones y consejos
-
-Al introducir el trabajo físico matutino como rutina, lo que hay que evitar es el entrenamiento de fuerza de alta intensidad o la actividad física agotadora que canse en exceso el cerebro. Cuando se acumula ácido láctico y aparece una fuerte fatiga física, la energía se agota, perdiendo la glucosa y la energía prefrontal necesarias para la composición matutina (o tareas creativas). Por lo tanto, el trabajo matutino debe limitarse a 'movimientos corporales aeróbicos ligeros' como arreglar macetas, labrar la tierra o jardinería ligera que mantengan la frecuencia cardíaca en torno a 100 ppm para beneficiar la actividad cerebral.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Al introducir el trabajo físico matutino como rutina, lo que hay que evitar es 
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos
+
+Al introducir el trabajo físico matutino como rutina, lo que hay que evitar es el entrenamiento de fuerza de alta intensidad o la actividad física agotadora que canse en exceso el cerebro. Cuando se acumula ácido láctico y aparece una fuerte fatiga física, la energía se agota, perdiendo la glucosa y la energía prefrontal necesarias para la composición matutina (o tareas creativas). Por lo tanto, el trabajo matutino debe limitarse a 'movimientos corporales aeróbicos ligeros' como arreglar macetas, labrar la tierra o jardinería ligera que mantengan la frecuencia cardíaca en torno a 100 ppm para beneficiar la actividad cerebral.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿El ejercicio de gimnasio por la mañana produce un efecto estimulante cerebral creativo similar al de la agricultura de Verdi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Al introducir el trabajo físico matutino como rutina, lo que hay que evitar es 
       El ejercicio aeróbico y la activación muscular ligera ayudan, pero las sesiones de gimnasio en interiores bajo luz artificial tienen menor efecto supresor de la melatonina. Se requiere actividad bajo la luz solar natural combinada con la conexión a tierra (earthing, tocando directamente la tierra y elementos naturales) para lograr una estabilidad neuronal tan potente y una activación de serotonina como Verdi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué se debe tener en cuenta al introducir el trabajo físico matutino?</span>

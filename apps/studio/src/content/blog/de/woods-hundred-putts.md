@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bis zu 100 aufeinanderfolgenden Treffern: Tiger Woods' 4m-Putt-Fokussierungsmethode"
 description: "Die Routine von '100 aufeinanderfolgenden Treffern' der Golflegende Tiger Woods vor dem Training. Erfahren Sie, wie kompromissloser Erfolg Dopamin freisetzt und zu extremer Fokussierung führt."
 pubDate: "2026-04-01"
@@ -33,25 +34,23 @@ Dieser Beitrag erklärt die Neurowissenschaft hinter Woods' Erfolgsritual und bi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu woods-hundred-putts basiert auf <strong>Historische Biografien & Aufzeichnungen zu Woods' Hundert-Putt-Routine & kognitive Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien & Aufzeichnungen zu Woods' Hundert-Putt-Routine & kognitive Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Extremer Fokus durch kompromisslose Erfolgserlebnisse
+## 1. Extremer Fokus durch kompromisslose Erfolgserlebnisse
 
 Bei Aufgaben, die hohe Konzentration erfordern, ist Dopamin der wichtigste Katalysator. Das erfolgreiche Abschließen einer Aufgabe unter der strengen Regel des Neubeginns bei Fehlern aktiviert die Belohnungszentren des Gehirns. Dies blendet Ablenkungen aus und versetzt das Gehirn in einen optimalen Zustand extremer Fokussierung.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Um Dopamin effektiv zu nutzen, darf die Aufgabe weder zu leicht noch unmöglich sein. Der Schlüssel liegt in der Wahl einer Herausforderung mit optimalem Schwierigkeitsgrad. Führen frühe Misserfolge zu Frust, sollten Sie den Schwierigkeitsgrad anpassen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Um Dopamin effektiv zu nutzen, darf die Aufgabe weder zu leicht noch unmöglich 
     Nutzen Sie die durch den Erfolg gewonnene mentale Schärfe und den Dopaminschub, um sofort mit Ihrer Kernaufgabe (z. B. Konzepterstellung) zu beginnen.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Um Dopamin effektiv zu nutzen, darf die Aufgabe weder zu leicht noch unmöglich sein. Der Schlüssel liegt in der Wahl einer Herausforderung mit optimalem Schwierigkeitsgrad. Führen frühe Misserfolge zu Frust, sollten Sie den Schwierigkeitsgrad anpassen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

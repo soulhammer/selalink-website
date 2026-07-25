@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "現代幼児教育の革命家：マリア・モンテッソーリの客観的観察日誌習慣"
 description: "イタリア初の女性医師であり教育学者のマリア・モンテッソーリ。主観的偏見を遮断し本質を把握した彼女の客観的観察技術と3段階ガイド。"
 pubDate: "2026-02-17"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「montessori-observation-log」は <strong>マリア・モンテッソーリの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マリア・モンテッソーリの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 確証バイアスを克服し本質を直視する知的客観化
+## 1. 確証バイアスを克服し本質を直視する知的客観化
 
 私たちはしばしば、自身の経験や感情に基づいた主観的な推測で問題の原因を断定してしまう「確証バイアス」に陥ります。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 評価や感情的形容詞を排し事実のみを記録してください
-
-「疲れているようだ」の代わりに「10分間に目を30回閉じた」のように、主観的解釈を排して感覚的に観察された事実自体のみを記述することがモンテッソーリ観察の核心です。無理に意志力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣の合図をあらかじめ設計することが持続性のポイントです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 評価や感情的形容詞を排し事実のみを記録してください
+
+「疲れているようだ」の代わりに「10分間に目を30回閉じた」のように、主観的解釈を排して感覚的に観察された事実自体のみを記述することがモンテッソーリ観察の核心です。無理に意志力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣の合図をあらかじめ設計することが持続性のポイントです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>自分自身の習慣を観察する時もこのルーティンを使えますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       はい、セルフタイムトラッキングや業務日誌を書く際、「自責の感情」を排除し、時間帯別に実際に作業したファクトのみを記載する方法で完璧に適用できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>主観的感情と客観的ファクトを区別するのが難しい場合はどうすればよいですか？</span>

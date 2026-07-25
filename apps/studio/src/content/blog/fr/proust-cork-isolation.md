@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Une chambre de silence qui réveille les souvenirs ? La routine d'isolement en liège de Marcel Proust"
 description: "Marcel Proust, auteur du chef-d'œuvre « À la recherche du temps perdu ». Découvrez sa routine de contrôle sensoriel consistant à tapisser sa chambre de liège pour bloquer lumière et bruit, ainsi que ses fondements neuroscientifiques."
 pubDate: "2026-01-29"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant proust-cork-isolation est basée sur <strong>Biographies historiques et écrits sur Marcel Proust & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et écrits sur Marcel Proust & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'effet du filtrage thalamique contre la surcharge d'informations
+## 1. L'effet du filtrage thalamique contre la surcharge d'informations
 
 Le <strong>Thalamus</strong>, véritable filtre sensoriel du cerveau, consomme une énergie considérable pour trier les bruits ambiants et la lumière des écrans. Cette surcharge épuise les ressources exécutives du cortex préfrontal, entraînant une baisse d'attention.
 
@@ -47,9 +48,7 @@ En créant une pièce insonorisée en liège et un environnement sombre comme Pr
 
 ---
 
-## Le secret d'une concentration profonde grâce à l'isolement absolu
-
-Le cœur de la routine de Proust est d'imposer un environnement où la distraction est impossible. Dans des lieux ouverts comme les cafés, le cerveau dépense de l'énergie à traiter les bruits et mouvements ambiants. Pour atteindre une concentration profonde, coupez les flux sensoriels avec un casque antibruit et une lumière tamisée.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Le cœur de la routine de Proust est d'imposer un environnement où la distracti
   </p>
 </div>
 
+---
+
+## 3. Le secret d'une concentration profonde grâce à l'isolement absolu
+
+Le cœur de la routine de Proust est d'imposer un environnement où la distraction est impossible. Dans des lieux ouverts comme les cafés, le cerveau dépense de l'énergie à traiter les bruits et mouvements ambiants. Pour atteindre une concentration profonde, coupez les flux sensoriels avec un casque antibruit et une lumière tamisée.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Un silence absolu ne peut-il pas provoquer de l'anxiété chez certaines personnes ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Le cœur de la routine de Proust est d'imposer un environnement où la distracti
       Selon les personnes, le silence absolu peut susciter des acouphènes ou de l'anxiété. Dans ce cas, diffusez à faible volume un bruit rose naturel (pluie, vent). Les sons de la nature détendent l'esprit sans solliciter le thalamus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Travailler allongé dans son lit est-il efficace pour se concentrer ?</span>

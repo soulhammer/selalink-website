@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le fondement de l'élégance : La routine de jardinage apaisante d'Audrey Hepburn et la science cérébrale du contact avec la terre"
 description: "Découvrez comment la légende d'Hollywood Audrey Hepburn a préservé sa sérénité et son élégance grâce au jardinage. Explorez la neuroscience du contact avec la terre, la bactérie Mycobacterium vaccae et la sérotonine."
 pubDate: "2026-01-14"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive et la psychologie env
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant hepburn-garden-mindfulness est basée sur <strong>Vérification Historique issue des biographies d'Audrey Hepburn, des archives de la propriété de Tolochenaz (Suisse) & de la Recherche en Neurosciences Cognitives et Psychologie Environnementale</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies d'Audrey Hepburn, des archives de la propriété de Tolochenaz (Suisse) & de la Recherche en Neurosciences Cognitives et Psychologie Environnementale</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mycobacterium vaccae et la neuroscience de la sécrétion de sérotonine
+## 1. Mycobacterium vaccae et la neuroscience de la sécrétion de sérotonine
 
 L'être humain a évolué pour ressentir un apaisement psychologique au contact de la terre. Des études neuroscientifiques et microbiologiques montrent que travailler le sol nous expose a une bactérie bénéfique, la <strong>Mycobacterium vaccae</strong>. Elle stimule la sécrétion de <strong>sérotonine</strong> dans le cerveau, le neurotransmetteur clé de la sérénité. Ainsi, le jardinage procure un double bienfait : il enclenche la <strong>Restauration de l'Attention</strong> dans le <strong>Cortex Préfrontal</strong> tout en apaisant le système nerveux.
 
 ---
 
-## Mise en garde : Éliminer les distractions pour s'immerger dans les sensations tactiles de la terre
-
-Pour ressentir un véritable apaisement grâce au jardinage, ancré votre attention sur les sensations physiques. Penser a ses obligations en touchant la terre bloque les mécanismes de restauration de l'attention. Concentrez-vous pleinement sur le retour tactile : la fraîcheur de la terre, le grain du sable ou la douceur d'une feuille, permettant au cerveau d'entrer en relaxation profonde.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour ressentir un véritable apaisement grâce au jardinage, ancré votre attent
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer les distractions pour s'immerger dans les sensations tactiles de la terre
+
+Pour ressentir un véritable apaisement grâce au jardinage, ancré votre attention sur les sensations physiques. Penser a ses obligations en touchant la terre bloque les mécanismes de restauration de l'attention. Concentrez-vous pleinement sur le retour tactile : la fraîcheur de la terre, le grain du sable ou la douceur d'une feuille, permettant au cerveau d'entrer en relaxation profonde.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Cette méthode est-elle efficace en appartement sans jardin privatif ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour ressentir un véritable apaisement grâce au jardinage, ancré votre attent
       Oui, tout à fait ! Remplir de petits pots sur un balcon ou un bureau avec du terreau et y planter de petites herbes procure la même stimulation tactile et exposition bactérienne. L'essentiel est le contact physique avec la terre, quelle que soit la taille de la plante.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Y a-t-il des risques d'hygiène ou d'infection à toucher la terre a mains nues ?</span>

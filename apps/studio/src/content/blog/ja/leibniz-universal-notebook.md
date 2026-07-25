@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "万能知識の単冊化手帳：ライプニッツのコモンプレイス・ブック筆記習慣とシナプス長期増強（LTP）"
 description: "微積分を発見した天才学者であり、すべての知識とインスピレーションを一冊のカテゴリ分けされた手帳に単冊化したライプニッツ。情報を文脈化して長期増強（LTP）を誘導し、意味論的ネットワーク（Semantic Network）を構築してアイデアの交差融合を促進する神経科学的原理と3段階実践ガイドを解き明かします。"
 pubDate: "2026-02-27"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「leibniz-universal-notebook」は <strong>ゴットフリート・ヴィルヘルム・ライプニッツ評伝およびライプニッツ・アーカイブ（Leibniz-Archiv）史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ゴットフリート・ヴィルヘルム・ライプニッツ評伝およびライプニッツ・アーカイブ（Leibniz-Archiv）史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## シナプス長期増強（LTP）と意味論的ネットワーク（Semantic Network）の脳科学
+## 1. シナプス長期増強（LTP）と意味論的ネットワーク（Semantic Network）の脳科学
 
 人間の大脳皮質は、断片的な情報を収集する時よりも、既存の知識インデックスと有機的に織り成される<strong>意味論的ネットワーク（Semantic Network）</strong>を構築する時、情報引き出し速度が飛躍的に高まります。知識をただ一冊のノートにカテゴリ分けて手動で書き留める行為は、脳のシナプス刺激を持続させ、神経伝達効率を極大化する<strong>長期増強（Long-Term Potentiation, LTP）</strong>現象を誘発します。この過程で、互いに異なる学問領域の情報が一つの空間で交差連結され、<strong>前頭前野（Prefrontal Cortex）</strong>の高次元の洞察と独創的なアイデア融合を引き出します。
 
 ---
 
-## 注意事項：ノートの断片化を排除し単冊化単一システム（Single Notebook）を固守するルール
-
-コモンプレイス・ブックの最大の落とし穴は、ノートを用途別に多角化して複数冊に分離することです。読書ノート、業務ノート、日常ノートへと媒体を断片化すると、脳は引き出しの過程で知的ボトルネック（Cognitive Bottleneck）を経験し、交差融合の機会が消失します。すべての思考と知識はたった一冊の永久ノートに蓄積し、カテゴリタグ（Tag）でのみ分類してこそ、情報間の意味網シナジーが発揮されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：ノートの断片化を排除し単冊化単一システム（Single Notebook）を固守するルール
+
+コモンプレイス・ブックの最大の落とし穴は、ノートを用途別に多角化して複数冊に分離することです。読書ノート、業務ノート、日常ノートへと媒体を断片化すると、脳は引き出しの過程で知的ボトルネック（Cognitive Bottleneck）を経験し、交差融合の機会が消失します。すべての思考と知識はたった一冊の永久ノートに蓄積し、カテゴリタグ（Tag）でのみ分類してこそ、情報間の意味網シナジーが発揮されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>コモンプレイス・ブックをデジタルツール（Notion、Obsidianなど）で実践してもよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、デジタルツールは検索やリンク連結に非常に有用です！ただ、ページやフォルダを複数の場所へ無分別に細分化するより、単一のボードや単冊化データベースに日付とカテゴリータグを付けて一箇所に蓄積するライプニッツ式のシステムを具現化することが核心です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>手帳一冊にすべての情報を書き留めると、内容が非常に無秩序になりませんか？</span>

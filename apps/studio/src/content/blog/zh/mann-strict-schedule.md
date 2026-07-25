@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "每天早晨4小时禁止家人靠近的小说家？托马斯·曼的环境控制专注法"
 description: "德国诺贝尔文学奖得主托马斯·曼每天早晨9点至1点彻底隔绝外界刺激进行写作。本文探讨防止前额叶认知能量耗竭的环境控制原理及现代无刺激专注方案。"
 pubDate: "2026-01-24"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mann-strict-schedule 的内容基于 <strong>托马斯·曼历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>托马斯·曼历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 环境控制与防止大脑皮层认知疲劳
+## 1. 环境控制与防止大脑皮层认知疲劳
 
 协调意志力与复杂问题解决的大脑前额叶皮层（Prefrontal Cortex）认知能量在早晨最为充沛，但其上限容量非常有限。手机消息、社交媒体或闲聊等微小干扰（Micro-distraction）会以惊人的速度消耗大脑能量。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 浅层工作（Shallow Work）的陷阱
-
-查收邮件、即时回复消息或浏览网页，给大脑造成一种“忙碌高效”的假象，实际上却是无法带来实质认知提升的“浅层工作（Shallow Work）”。必须像托马斯·曼那样固定专注时间，在此期间全面禁止浅层任务，使大脑在无干扰环境中强制进入深度工作（Deep Work）状态，才能产出高价值成果。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 浅层工作（Shallow Work）的陷阱
+
+查收邮件、即时回复消息或浏览网页，给大脑造成一种“忙碌高效”的假象，实际上却是无法带来实质认知提升的“浅层工作（Shallow Work）”。必须像托马斯·曼那样固定专注时间，在此期间全面禁止浅层任务，使大脑在无干扰环境中强制进入深度工作（Deep Work）状态，才能产出高价值成果。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>托马斯·曼真的会在下午1点准时完全停止写作吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，因为他在上午倾注了100%的精力，深知下午1点后大脑认知能力已达到极限。他认为1点后继续写作会降低文本质量，因而将下午的时间留给阅读、散步或校对等耗费精力较少的轻度工作。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>可以在夜间而非上午开展深度工作吗？</span>

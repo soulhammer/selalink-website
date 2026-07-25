@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Milagro a las 4 AM: La Rutina de Entrenamiento Mamba de Kobe Bryant"
 description: "Descubra cómo el ícono del baloncesto Kobe Bryant iniciaba su primer entrenamiento a las 4 AM diariamente, y explore los principios neurocientíficos y fisiológicos de cómo los entrenamientos a la misma hora matutina fijan el ritmo circadiano y maximizan el rendimiento."
 pubDate: "2026-01-19"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos los mecanismos fisiológicos y neurocient�
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre bryant-four-am-workout se basa en <strong>Verificación Histórica de la Autobiografía de Kobe Bryant *Mentalidad Mamba: Los secretos de mi juego (The Mamba Mentality: How I Play)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Kobe Bryant *Mentalidad Mamba: Los secretos de mi juego (The Mamba Mentality: How I Play)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismos Fisiológicos de Realineación del Núcleo Supraquiasmático (NSQ) y Estimulación Neuronal Motora
+## 1. Mecanismos Fisiológicos de Realineación del Núcleo Supraquiasmático (NSQ) y Estimulación Neuronal Motora
 
 Ejecutar de forma consistente ejercicio de alta intensidad a una hora matutina idéntica alinea el 'Núcleo Supraquiasmático (NSQ)' del hipotálamo a ese horario. 1) El NSQ inicia la secreción temprana de cortisol (Cortisol) y eleva de forma preventiva la temperatura corporal y el tono cardiovascular, neutralizando la inercia del sueño (Sleep Inertia) y los déficits motores tras despertar. 2) El ejercicio matutino regular condiciona el Sistema Nervioso Autónomo (SNA) para optimizar la asignación de energía metabólica temprano en el día, elevando la respuesta neuromuscular, la eficiencia cardiorrespiratoria y el control ejecutivo a picos diurnos.
 
 ---
 
-## Precauciones y Consejos: Garantizar la Cantidad Total de Sueño (7–8 Horas) y Calentamiento Esencial
-
-Una rutina de despertarse a las 4 AM no puede prosperar con privación de sueño. Para levantarse a las 4 AM, es imprescindible acostarse entre las 9 PM y las 10 PM la noche anterior para garantizar de 7 a 8 horas de sueño esencial. Realizar rutinas tempranas con déficit de sueño provoca fatiga del sistema nervioso central y supresión inmunológica. Además, como las articulaciones y los vasos sanguíneos están rígidos al despertar, es obligatorio realizar al menos 10 minutos de calentamiento dinámico para prevenir lesiones.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Una rutina de despertarse a las 4 AM no puede prosperar con privación de sueño
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Garantizar la Cantidad Total de Sueño (7–8 Horas) y Calentamiento Esencial
+
+Una rutina de despertarse a las 4 AM no puede prosperar con privación de sueño. Para levantarse a las 4 AM, es imprescindible acostarse entre las 9 PM y las 10 PM la noche anterior para garantizar de 7 a 8 horas de sueño esencial. Realizar rutinas tempranas con déficit de sueño provoca fatiga del sistema nervioso central y supresión inmunológica. Además, como las articulaciones y los vasos sanguíneos están rígidos al despertar, es obligatorio realizar al menos 10 minutos de calentamiento dinámico para prevenir lesiones.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo mantener estrictamente el horario de despertar a las 4 AM los fines de semana y festivos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Una rutina de despertarse a las 4 AM no puede prosperar con privación de sueño
       Para una alineación circadiana óptima, lo ideal es mantener las variaciones del despertar de fin de semana dentro de 1 hora con respecto a la rutina diaria. Dormir en exceso el fin de semana reinicia el reloj interno del NSQ, aumentando la fatiga matutina en días laborables. La consistencia es clave.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Realizar tareas intelectuales (trabajo, lectura) inmediatamente después de un entrenamiento a las 4 AM mejora la concentración cerebral?</span>

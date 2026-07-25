@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Não Perturbe Quando a Almofada Estiver Erguida: O Sinal de Imersão de Louisa May Alcott"
 description: "Apresentamos o 'Mood Pillow' (almofada do humor), um sinal de imersão usado por Louisa May Alcott, autora de 'Mulherzinhas'. Descubra um guia de 3 passos para reduzir os custos de alternância cognitiva bloqueando distrações ao seu redor."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ No artigo de hoje, exploraremos os princípios de funcionamento cognitivo da rot
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre alcott-mood-ribbon é baseada em <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) e Pesquisa do *Journal of Personality and Social Psychology*</strong>.
+      Este conteúdo baseia-se em <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) e Pesquisa do *Journal of Personality and Social Psychology*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Proteção contra Distrações' para Eliminar o Desperdício da Reinicialização Cognitiva
+## 1. 'Proteção contra Distrações' para Eliminar o Desperdício da Reinicialização Cognitiva
 
 Quando o fluxo é interrompido por ruídos externos ou pela pergunta de alguém durante um estado de profunda concentração, o cérebro muda imediatamente para o modo multitarefa, consumindo uma energia enorme. A neurociência chama isso de <strong>'Custo de Alternância de Tarefa (Task-Switching Cost)'</strong> e relata que leva em média 23 minutos para redefinir a atenção dispersa de volta ao seu estado original. O Mood Pillow usado por Alcott foi uma perfeita <strong>'Proteção contra Distrações (Distraction Shielding)'</strong> que eliminava antecipadamente os estímulos dispersivos ao enviar primeiro um sinal de indisponibilidade ao ambiente. Esse aviso visual protege o fluxo de trabalho sem gerar conflitos com as pessoas ao redor e ajuda a aplicar os recursos cognitivos da memória de trabalho (Working Memory) totalmente em um único foco.
 
 ---
 
-## Criar um Sinal de Imersão Acordado com Base no Respeito Mútuo
-
-Ao usar indicadores de sinal de foco, o aspecto mais importante é o acordo prévio com familiares ou colegas. Fechar repentinamente a porta para a comunicação sem aviso prévio pode gerar rejeição nos outros. Uma rotina positiva se estabelece quando regras claras — como 'Por favor, adie contatos não urgentes apenas durante a 1 hora em que este indicador estiver visível' — são reconhecidas por ambas as partes, e o indicador é desativado imediatamente após o término do tempo acordado para restaurar a comunicação.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Ao usar indicadores de sinal de foco, o aspecto mais importante é o acordo pré
   </p>
 </div>
 
+---
+
+## 3. Criar um Sinal de Imersão Acordado com Base no Respeito Mútuo
+
+Ao usar indicadores de sinal de foco, o aspecto mais importante é o acordo prévio com familiares ou colegas. Fechar repentinamente a porta para a comunicação sem aviso prévio pode gerar rejeição nos outros. Uma rotina positiva se estabelece quando regras claras — como 'Por favor, adie contatos não urgentes apenas durante a 1 hora em que este indicador estiver visível' — são reconhecidas por ambas as partes, e o indicador é desativado imediatamente após o término do tempo acordado para restaurar a comunicação.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

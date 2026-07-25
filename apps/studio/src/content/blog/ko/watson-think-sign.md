@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "IBM을 만든 한 단어: 토마스 왓슨의 15분 침묵 사색 루틴"
 description: "사무실마다 'THINK' 팻말을 걸고 하루 15분 조용히 생각에 빠진 IBM 창업자 토마스 왓슨의 사색법. 의도적인 단절이 뇌의 장기 기억을 정리하는 원리를 설명합니다."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>토마스 왓슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 watson-think-sign 루틴을 다룹니다.
+      본 콘텐츠는 <strong>토마스 왓슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 아무것도 하지 않는 단절이 왜 지력을 높이는가
+## 1. 아무것도 하지 않는 단절이 왜 지력을 높이는가
 
 뇌가 쉴 새 없이 몰려드는 자극(이메일, 알림 등)에 반응할 때는 기억 정리와 장기적인 가치 기획을 수행할 여유가 없습니다. 모든 입력을 완전히 단절한 채 생각에 몰두할 때, 뇌는 중요 정보를 선별하는 <strong>살리언스 네트워크(Salience Network)</strong>를 안정화하고 디폴트 모드 네트워크와 유기적으로 정보를 교환하여 복잡했던 뇌 세포망의 교통정리를 실행하고 해법을 찾아냅니다.
 
 ---
 
-## 주의사항 및 팁
-
-이 사색 훈련이 성공하려면 눈에 잘 보이는 물리적 표지인 <strong>시각적 프롬프트(Visual Prompt)</strong>가 사무 공간 내에 있어야 합니다. 문구가 보이지 않으면 우리의 뇌는 다시 관성에 젖어 메일을 열고 인터넷 서핑을 하는 즉각적 반응 행동을 수행하므로, 눈앞에 확실한 팻말을 두어 의식의 흐름을 주기적으로 끊어주는 제어 장치를 유지해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     필기도구를 쓰지 않고 머릿속으로만 오늘 해결할 가장 어렵고 영향력 있는 문제에 주의를 수렴해 철저하게 사색합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+이 사색 훈련이 성공하려면 눈에 잘 보이는 물리적 표지인 <strong>시각적 프롬프트(Visual Prompt)</strong>가 사무 공간 내에 있어야 합니다. 문구가 보이지 않으면 우리의 뇌는 다시 관성에 젖어 메일을 열고 인터넷 서핑을 하는 즉각적 반응 행동을 수행하므로, 눈앞에 확실한 팻말을 두어 의식의 흐름을 주기적으로 끊어주는 제어 장치를 유지해야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

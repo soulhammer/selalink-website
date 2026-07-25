@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Mujer que Planeaba Asesinatos Comiendo Manzanas en la Bañera: La Lluvia de Ideas en Agua Caliente y Relajación DMN de Agatha Christie"
 description: "Descubra cómo la Reina del Crimen Agatha Christie concibió intrincadas coartadas y tramas de asesinato comiendo manzanas en un baño caliente, y explore la neurociencia cognitiva de la activación de la Red por Defecto (DMN) y la masticación."
 pubDate: "2026-05-07"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre christie-bathtub-brainstorming se basa en <strong>Verificación Histórica de la Autobiografía de Agatha Christie *Una autobiografía (An Autobiography)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Agatha Christie *Una autobiografía (An Autobiography)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación de la Red por Defecto (DMN) Mediante Baños Calientes y Estimulación por Masticación
+## 1. Activación de la Red por Defecto (DMN) Mediante Baños Calientes y Estimulación por Masticación
 
 Sumergir el cuerpo en agua caliente (38°C–40°C) dilata los vasos sanguíneos, mejora el flujo sanguíneo y activa el sistema parasimpático, reduciendo el ritmo cardíaco y la tensión muscular. En este estado de relajación, el cerebro desactiva la Red Ejecutiva Central (CEN) y activa la Red por Defecto (DMN), que opera durante el descanso. Con la DMN activa, el cerebro recombina de forma espontánea recuerdos dispersos, generando soluciones creativas. Acompañar esto con la masticación de una manzana envía señales a la corteza prefrontal a través del nervio trigémino, reduciendo el cortisol.
 
 ---
 
-## Precauciones y Consejos: Liberar la Tensión Obsesiva e Inducir una Relajación Física Total
-
-El objetivo de esta rutina de relajación no es forzar respuestas. Si siente la presión obsesiva de 'producir ideas' mientras se baña, su sistema simpático se activa de nuevo y detiene el procesamiento de la DMN. Deje su problema al margen de la conciencia y concéntrese en la calidez del agua y la textura de la fruta para liberar la tensión prefrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El objetivo de esta rutina de relajación no es forzar respuestas. Si siente la 
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Liberar la Tensión Obsesiva e Inducir una Relajación Física Total
+
+El objetivo de esta rutina de relajación no es forzar respuestas. Si siente la presión obsesiva de 'producir ideas' mientras se baña, su sistema simpático se activa de nuevo y detiene el procesamiento de la DMN. Deje su problema al margen de la conciencia y concéntrese en la calidez del agua y la textura de la fruta para liberar la tensión prefrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué funciona tan bien la lluvia de ideas al comer manzanas en un baño caliente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El objetivo de esta rutina de relajación no es forzar respuestas. Si siente la 
       El baño caliente reduce el ritmo cardíaco y activa el sistema parasimpático para activar la DMN, mientras que la masticación rítmica de una manzana envía información sensorial a través del nervio trigémino para estimular suavemente la corteza prefrontal, uniendo relajación y claridad.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Existe un método alternativo de relajación física para activar la DMN si no tengo bañera?</span>

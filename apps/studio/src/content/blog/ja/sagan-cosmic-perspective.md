@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "カール・セーガンの宇宙的視点：「ペイル・ブルー・ドット」ルーティンで日常の不安とストレスをリセットする方法"
 description: "天文学者カール・セーガンが3分間の宇宙的ズームアウトで日常の不安を払拭した歴史的事実と「畏怖効果（Awe Effect）」の脳科学的原理を解説します。"
 pubDate: "2026-06-27"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「sagan-cosmic-perspective」は <strong>Sagan Cosmic Perspective 歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Sagan Cosmic Perspective 歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 宇宙的畏怖が脳の扁桃体と自我のストレスを鎮める理由
+## 1. 宇宙的畏怖が脳の扁桃体と自我のストレスを鎮める理由
 
 神経心理学ではこれを<strong>「スモール・セルフ効果（Small-Self Effect）」</strong>と呼びます。宇宙や大自然の畏怖を視覚化する時、脳の扁桃体（Amygdala）と島皮質（Insula）の過剰なストレス反応が鎮まり、些細な不安の代わりに広い客観的視野を確保できるようになります。
 
 ---
 
-## セーガンの視点転換の注意事項とヒント
-
-宇宙の広大さを無力感と誤解してはなりません。むしろ自分を苦しめていたストレスや悩みが静かに解決できるほど非常に小さいものであると悟る道具として活用すべきです。無理に意志力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. セーガンの視点転換の注意事項とヒント
+
+宇宙の広大さを無力感と誤解してはなりません。むしろ自分を苦しめていたストレスや悩みが静かに解決できるほど非常に小さいものであると悟る道具として活用すべきです。無理に意志力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>発表や重要なミーティングの前に不安な時もこのルーティンは効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい！1分間宇宙的ズームアウトを思い浮かべると心拍数が安定し、ステージフライト（舞台恐怖症）や遂行不安が著しく低下します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>周囲に宇宙の写真がない時はどうすればいいですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "30년간 대작을 완성한 프랑스 거장? 에밀 졸라의 아침 3시간 몰입 루틴"
 description: "대문호 에밀 졸라가 30년 넘게 지켜온 'Nulla dies sine linea' 모토와 매일 아침 3시간 몰입 글쓰기 습관의 과학적 원리와 실천법."
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>에밀 졸라 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 zola-morning-writing-block 루틴을 다룹니다.
+      본 콘텐츠는 <strong>에밀 졸라 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 환경 차단을 통한 의지력 고갈 방지와 기저핵 자동화
+## 1. 환경 차단을 통한 의지력 고갈 방지와 기저핵 자동화
 
 매번 '지금 일을 시작할까?' 고민하는 행위는 전전두엽의 포도당과 의지력을 낭비시킵니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 분량보다 정해진 시간의 엄격한 차단에 집중하세요
-
-에밀 졸라의 모토 핵심은 '매일 거르지 않는 지속성'입니다. 완벽한 글을 쓰려 애쓰기보다 정해진 1시간 동안 외부 차단을 유지하는 습관 자체를 우선 확립하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 분량보다 정해진 시간의 엄격한 차단에 집중하세요
+
+에밀 졸라의 모토 핵심은 '매일 거르지 않는 지속성'입니다. 완벽한 글을 쓰려 애쓰기보다 정해진 1시간 동안 외부 차단을 유지하는 습관 자체를 우선 확립하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>아침에 급한 이메일이나 연락이 올까 봐 불안할 때는 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       정말 긴급한 연락은 전화로 오게 되어 있습니다. 메일과 메시지 확인 시간을 아침 몰입 1시간 뒤로 미루는 것만으로도 작업 품질이 10배 올라갑니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>3시간을 통째로 내기 힘든 직장인은 어떻게 적용해야 하나요?</span>

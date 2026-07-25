@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Genius Who Napped Holding Steel Balls: Thomas Edison's Hypnagogia Nap Technique & Semi-Sleep Creativity Routine"
 description: "Discover Thomas Edison's legendary steel ball nap routine used to break through creative roadblocks. Explore the cognitive neuroscience of hypnagogia (N1 sleep stage), theta brainwaves, and immediate idea capturing."
 pubDate: "2026-04-02"
@@ -38,22 +39,20 @@ In today's post, we analyze the cognitive neuroscience underlying Thomas Edison'
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding edison-nap is based on <strong>Historical Verification from Paul Israel's Biography *Edison: A Life of Invention*, Thomas Edison National Historical Park Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Paul Israel's Biography *Edison: A Life of Invention*, Thomas Edison National Historical Park Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Unlocking Eureka Insights via Hypnagogia and the Steel Ball Drop Technique
+## 1. Unlocking Eureka Insights via Hypnagogia and the Steel Ball Drop Technique
 
 Entering the hypnagogic state—the boundary between wakefulness and N1 NREM sleep—causes brainwaves to shift into theta waves (4-8 Hz). This lowers executive control from the prefrontal cortex, allowing stored memory fragments and abstract concepts to combine freely. The steel ball drop technique acted as a precise neurological switch: it abruptly interrupted the brain just before entering deeper N2 sleep and suffering from sleep inertia, allowing Edison to instantly capture transient eureka insights before they vanished.
 
 ---
 
-## Caution & Protocol: Instant Transition to Recording Post-Awakening
-
-You must train an immediate behavioral sequence: write down hypnagogic imagery on a nearby notepad the very second you are startled awake. Hesitating for even a few seconds allows transient semi-sleep insights to vanish completely from short-term working memory.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ You must train an immediate behavioral sequence: write down hypnagogic imagery o
   </p>
 </div>
 
+---
+
+## 3. Caution & Protocol: Instant Transition to Recording Post-Awakening
+
+You must train an immediate behavioral sequence: write down hypnagogic imagery on a nearby notepad the very second you are startled awake. Hesitating for even a few seconds allows transient semi-sleep insights to vanish completely from short-term working memory.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Thomas Edison nap while holding steel balls in his hand?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ You must train an immediate behavioral sequence: write down hypnagogic imagery o
       As he fell asleep, muscle relaxation caused the heavy balls to drop, waking him instantly with the clatter so he could capture fleeting insights from the hypnagogic state before drifting into deep sleep.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Are there alternatives to Edison's nap technique for office environments where noise is restricted?</span>

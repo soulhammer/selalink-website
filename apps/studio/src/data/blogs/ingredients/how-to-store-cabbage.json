@@ -1,0 +1,454 @@
+{
+  "how-to-store-cabbage": {
+    "ingId": "cabbage",
+    "pubDate": "2026-04-20",
+    "updatedDate": "2026-04-20",
+    "heroImage": "/images/blog/cabbage_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "양배추 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 양배추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "양배추를 사 와서 냉장고에 그냥 넣어두었다가 단면이 까맣게 갈변하고 시들어 결국 반 이상 잘라내 버린 경험 있으시죠? 오늘 FreshSnap에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 기반으로, 양배추 심지의 비밀을 파헤쳐 한 달 동안 아삭아삭한 신선함을 지속할 수 있는 과학적 보관법을 전합니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "양배추",
+          "과학적으로 검증된 보관 가이드",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Weekly maintenance of wet paper towel ⚠️",
+            "desc": "If left too long, the wet paper towel can develop bacteria and sour smells, spoiling the cabbage."
+          },
+          {
+            "title": "Do not store at room temperature 🥦",
+            "desc": "Storing cabbage at warm room temperatures causes the leaves to loosen and moisture to escape quickly."
+          }
+        ],
+        "steps": [
+          {
+            "name": "양배추 심지 부분을 삼각형 모양으로 파내기 — 수분 통로 차단 🔪",
+            "text": "양배추는 수확 후에도 심지를 통해 겉잎의 수분과 영양분을 지속해서 공급받아 꽃을 피우려 합니다. 따라서 영양분이 이동하는 통로이자 부패가 가장 먼저 시작되는 심지 부분을 칼로 오려내는 것이 우선되어야 합니다."
+          },
+          {
+            "name": "심지 자리에 물 적신 키친타월 채워 넣기 — 마르지 않는 수분 보충 📰",
+            "text": "심지를 잘라낸 깊게 파인 홈에 물을 적신 뒤 물기를 가볍게 짠 키친타월(또는 화장솜)을 뭉쳐서 꽉 채워 넣습니다. 잘린 줄기 단면에 직접 물을 지속해서 제공하여 양배추 내부가 안쪽부터 서서히 갈변하며 말라 들어가는 것을 방지합니다."
+          },
+          {
+            "name": "식품용 랩으로 빈틈없이 포장하여 야채칸 보관 — 밀봉 보관 (21일) ❄️",
+            "text": "수분 보충 처리를 한 양배추 전체를 식품용 랩으로 감싸 공기가 전혀 통하지 않도록 여러 겹 꽁꽁 밀착 포장합니다. 그 후 수분 패치 부위가 아래로 가도록 랩핑된 채 냉장고 야채실(4℃)에 보관합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
+            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+          },
+          {
+            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
+            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Cabbage Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Cabbage based on official safety guidelines.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Have you ever bought cabbage only to find the outer leaves wither and turn black in a few days? Today, FreshSnap shares scientific storage tips to keep cabbage fresh.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Cabbage",
+          "Scientifically Proven Storage Guide",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Weekly maintenance of wet paper towel ⚠️",
+            "desc": "If left too long, the wet paper towel can develop bacteria and sour smells, spoiling the cabbage."
+          },
+          {
+            "title": "Do not store at room temperature 🥦",
+            "desc": "Storing cabbage at warm room temperatures causes the leaves to loosen and moisture to escape quickly."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cut out the core in a triangle shape — Disarm growth center 🔪",
+            "text": "Even after harvest, cabbage tries to bloom by drawing water and nutrients from the leaves through its core. Cutting out the core, which is the nutrient pathway and where rot starts, is essential."
+          },
+          {
+            "name": "Fill the core cavity with a damp paper towel — Constant moisture supply 📰",
+            "text": "Stuff the carved hole with a paper towel dampened with water (squeeze out excess water first). This supplies moisture directly to the cut stalk, preventing the inner cabbage from drying and turning brown."
+          },
+          {
+            "name": "Wrap tightly with plastic wrap and store in the crisper — Sealed (21 Days) ❄️",
+            "text": "Wrap the entire cabbage with plastic wrap to block airflow. Store it in the crisper drawer (4°C) with the damp core patch facing down."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
+            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+          },
+          {
+            "question": "How should I handle and store bruised or damaged parts?",
+            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+          }
+        ]
+      },
+      "ja": {
+        "title": "キャベツの鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくキャベツの最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>農村振興庁(RDA) & EFSA & FSA</strong>",
+        "intro": "キャベツを買ってきたのに、数日もしないうちに外葉がしおれたり黒ずんだりしてしまったことはありませんか？本日, FreshSnapではキャベツの鮮度を長く保つ保存方法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "キャベツ",
+          "科学的に検証された保存ガイド",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "濡れたペーパーは定期的に交換してください ⚠️",
+            "desc": "濡れたペーパーを長期間放置すると、雑菌が繁殖して異臭や腐敗の原因になります。週に一度は新しいものと取り換えてください。"
+          },
+          {
+            "title": "常温での保存は避けてください 🥦",
+            "desc": "暖かい常温に置くと、キャベツが葉を開こうとして緩み, 水分が急速に抜けて食感が悪くなります."
+          }
+        ],
+        "steps": [
+          {
+            "name": "キャベツの芯を三角形にくり抜く —  水分ルート遮断 🔪",
+            "text": "キャベツは収穫後も芯を通じて外葉の水分や栄養を吸い上げ、花を咲かせようと成長し続けます。栄養の通り道であり、最も傷みやすい芯の部分を包丁でくり抜きましょう。"
+          },
+          {
+            "name": "くり抜いた部分に濡れたペーパーを詰める —  水分の継続補給 📰",
+            "text": "くり抜いた部分に濡れたペーパーを詰める。"
+          },
+          {
+            "name": "ラップできちんと包んで野菜室へ — 密封保存 (21日間) ❄️",
+            "text": "全体をラップで包み、芯を下にして野菜室で保管します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
+            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+          },
+          {
+            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
+            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存卷心菜：科学储存指南",
+        "description": "根据官方食品安全指南，了解卷心菜的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>韩国农村振兴厅(RDA) & EFSA & FSA</strong>",
+        "intro": "您是否曾买回卷心菜，却发现外叶在几天内枯萎变黑？今天，FreshSnap为您分享保持卷心菜新鲜的科学储存诀窍。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "卷心菜",
+          "科学验证的储存指南",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "定期更换湿纸巾 ⚠️",
+            "desc": "如果湿纸巾放置时间过长，容易滋生细菌并产生异味，导致卷心菜腐烂。建议每周更换一次。"
+          },
+          {
+            "title": "请勿在常温下储存 🥦",
+            "desc": "在温暖的常温下储存卷心菜会导致叶片松散，水分流失加快，影响口感。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "将卷心菜粗芯部切呈三角状挖去 —  切断水分损耗 🔪",
+            "text": "切掉卷心菜的硬芯以减少养分流失。"
+          },
+          {
+            "name": "在挖空处填入浸湿的厨房纸巾 — 持续湿润保鲜 📰",
+            "text": "在切口处塞入湿纸巾以保鲜。"
+          },
+          {
+            "name": "用保鲜膜严密包裹并放蔬菜箱 — 密封冷藏 (21天) ❄️",
+            "text": "用保鲜膜严密包好放冰箱。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "把食材放进冰箱前一定要用水洗吗？",
+            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+          },
+          {
+            "question": "碰伤或腐烂的部分应该如何处理和保存？",
+            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Repollo fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Repollo según las directrices oficiales de seguridad.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "¿Alguna vez compró repollo y descubrió que las hojas externas se marchitaron y se pusieron negras en pocos días? Hoy, FreshSnap comparte consejos de almacenamiento para mantenerlo fresco.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Repollo",
+          "Guía de almacenamiento científicamente probada",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Reemplace el papel húmedo regularmente ⚠️",
+            "desc": "Si se deja demasiado tiempo, el papel húmedo puede desarrollar bacterias y olores desagradables, estropeando el repollo."
+          },
+          {
+            "title": "No almacene a temperatura ambiente 🥦",
+            "desc": "Almacenar el repollo a temperatura ambiente hace que las hojas se aflojen y la humedad se escape rápidamente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cortar el núcleo en forma de triángulo 🔪",
+            "text": "Retire el núcleo de la col, ya que es el canal por donde se pierde agua y se inicia la pudrición."
+          },
+          {
+            "name": "Llenar el hueco con papel húmedo 📰",
+            "text": "Llene el hueco con papel de cocina húmedo para proporcionar hidratación constante."
+          },
+          {
+            "name": "Envolver con film plástico ❄️",
+            "text": "Envuelva la col con film plástico y guárdela con la base húmeda hacia abajo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
+            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+          },
+          {
+            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
+            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Chou frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Chou selon les directives de sécurité officielles.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Avez-vous déjà acheté du chou pour voir ses feuilles extérieures se flétrir et noircir en quelques jours ? Aujourd'hui, FreshSnap vous donne des astuces pour le garder frais.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Chou",
+          "Guide de conservation scientifiquement prouvé",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Remplacez le papier humide régulièrement ⚠️",
+            "desc": "S'il reste trop longtemps, le papier humide peut développer des bactéries et de mauvaises odeurs, gâtant le chou."
+          },
+          {
+            "title": "Ne conservez pas à température ambiante 🥦",
+            "desc": "Conserver le chou à température ambiante fait se relâcher les feuilles et s'échapper l'humidité rapidement."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Couper le cœur en triangle 🔪",
+            "text": "Retirez le cœur du chou, car c'est par là que l'eau s'échappe et que le pourrissement commence."
+          },
+          {
+            "name": "Remplir le creux de papier humide 📰",
+            "text": "Remplissez le creux avec du papier absorbant humide pour assurer une hydratation constante."
+          },
+          {
+            "name": "Envelopper de film plastique ❄️",
+            "text": "Enveloppez le chou de film plastique et conservez-le, cœur humide vers le bas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
+            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+          },
+          {
+            "question": "Comment gérer et conserver les parties abîmées ?",
+            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Kohl frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Kohl basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Haben Sie schon einmal Kohl gekauft, nur um festzustellen, dass die äußeren Blätter nach wenigen Tagen welkten und schwarz wurden? Heute teilt FreshSnap Tipps, um ihn frisch zu halten.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Kohl",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Feuchtes Papiertuch regelmäßig wechseln ⚠️",
+            "desc": "Wenn das feuchte Papiertuch zu lange verbleibt, können sich Bakterien und saure Gerüche bilden, die den Kohl verderben."
+          },
+          {
+            "title": "Nicht bei Raumtemperatur lagern 🥦",
+            "desc": "Die Lagerung von Kohl bei warmer Raumtemperatur führt dazu, dass sich die Blätter lockern und Feuchtigkeit schnell entweicht."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Strunk dreieckig ausschneiden 🔪",
+            "text": "Entfernen Sie den Strunk des Kohls, da darüber Feuchtigkeit entweicht und Fäulnis beginnt."
+          },
+          {
+            "name": "Aussparung mit feuchtem Papier füllen 📰",
+            "text": "Füllen Sie die Aussparung mit feuchtem Küchenpapier, um eine konstante Feuchtigkeit zu gewährleisten."
+          },
+          {
+            "name": "Mit Frischhaltefolie einwickeln ❄️",
+            "text": "Wickeln Sie den Kohl mit Frischhaltefolie ein und lagern Sie ihn mit dem feuchten Ende nach unten."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
+            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+          },
+          {
+            "question": "Wie lagert man beschädigte Stellen?",
+            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Repolho fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Repolho com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Você já comprou repolho e viu que las folhas externas murcharam e escureceram em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação para mantê-lo fresco.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Repolho",
+          "Guia de armazenamento comprovado cientificamente",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Troque o papel úmido regularmente ⚠️",
+            "desc": "Se for deixado por muito tempo, o papel úmido pode acumular bactérias e odores desagradáveis, estragando o repolho."
+          },
+          {
+            "title": "Não guarde em temperatura ambiente 🥦",
+            "desc": "Guardar o repolho em temperatura ambiente faz com que as folhas fiquem soltas e a umidade escape rapidamente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cortar o miolo em formato de triângulo 🔪",
+            "text": "Remova o miolo do repolho, pois é o canal por onde se perde água e se inicia o apodrecimento."
+          },
+          {
+            "name": "Preencher a cavidade com papel úmido 📰",
+            "text": "Preencha a cavidade com papel-toalha úmido para fornecer hidratação constante."
+          },
+          {
+            "name": "Embrulhar com filme plástico ❄️",
+            "text": "Embrulhe o repolho com filme plástico e guarde com a base úmida para baixo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
+            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+          },
+          {
+            "question": "Como tratar e guardar partes machucadas?",
+            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kubis agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Kubis berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Pernahkah Anda membeli kubis namun daun bagian luarnya layu dan menghitam dalam beberapa hari? Hari ini, FreshSnap membagikan tips penyimpanan agar kubis tetap segar.",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Kubis",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Ganti tisu basah secara berkala ⚠️",
+            "desc": "Jika dibiarkan terlalu lama, tisu basah dapat menumbuhkan bakteri dan bau asam..."
+          },
+          {
+            "title": "Jangan simpan di suhu ruang 🥦",
+            "desc": "Menyimpan kubis di suhu ruang yang hangat akan melonggarkan daunnya..."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Potong bagian tengah berbentuk segitiga 🔪",
+            "text": "Buang bagian tengah kubis, karena bagian tersebut merupakan saluran hilangnya air dan awal pembusukan."
+          },
+          {
+            "name": "Isi rongga dengan tisu basah 📰",
+            "text": "Isi rongga tersebut dengan tisu dapur basah untuk memberikan kelembapan konstan."
+          },
+          {
+            "name": "Bungkus dengan plastik wrap ❄️",
+            "text": "Bungkus kubis dengan plastik wrap dan simpan dengan bagian bawah basah menghadap ke bawah."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
+            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+          },
+          {
+            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
+            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+          }
+        ]
+      }
+    }
+  }
+}

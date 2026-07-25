@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Préchauffage à sec pour refroidir le cerveau : L'habitude de Stendhal de lire le Code civil français"
 description: "Stendhal, un maître de la littérature réaliste qui a disséqué la psychologie humaine sans rhétorique ornée. Nous analysons son habitude de préchauffage cognitif consistant à lire le Code civil français chaque jour avant d'écrire pour maximiser l'objectivité et la logique."
 pubDate: "2026-02-08"
@@ -29,25 +30,23 @@ Stendhal (de son vrai nom Henri Beyle, 1783–1842) était un maître de la litt
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant stendhal-civil-code-reading est basée sur <strong>Étude biographique historique et données autobiographiques sur la lecture du Code civil par Stendhal & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude biographique historique et données autobiographiques sur la lecture du Code civil par Stendhal & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Effet d'amorçage linguistique et inhibition de la cognition sentimentale
+## 1. Effet d'amorçage linguistique et inhibition de la cognition sentimentale
 
 Selon l'effet d'amorçage (Priming Effect) en sciences cognitives, lorsque le cerveau est exposé au préalable à des informations spécifiques, il active inconscientement des schémas similaires dans les tâches cognitives ultérieures. Lire les phrases sèches et factuelles du Code civil juste avant d'écrire équivalait à régler la zone de contrôle du langage de Stendhal sur un mode orienté vers l'objectivité et la logique. Ce stimulus permet au cerveau d'exercer une inhibition cognitive contre la sentimentalité subjective, soutenant une écriture claire fondée sur des faits.
 
 ---
 
-## Précautions et Conseils
-
-Lors de l'application de cette habitude, veillez à ne pas vous immerger excessivement dans des contenus complexes ou des analyses juridiques. Analyser en profondeur des jurisprudences avant d'écrire risque d'épuiser les ressources cognitives préfrontales (Épuisement Cognitif). L'essence de cette routine n'est pas d'acquérir des connaissances juridiques, mais de percevoir visuellement la structure concise et les combinaisons de mots claires. Lisez donc rapidement les phrases sans trop réfléchir au fond.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Lors de l'application de cette habitude, veillez à ne pas vous immerger excessi
     Une fois la lecture de 10 minutes terminée, fermez le livre immédiatement avant de regarder votre téléphone et commencez à rédiger votre projet. Conservez le rythme sober amorcé dans votre cerveau pour écrire sans hésitation.
   </p>
 </div>
+
+---
+
+## 3. Précautions et Conseils
+
+Lors de l'application de cette habitude, veillez à ne pas vous immerger excessivement dans des contenus complexes ou des analyses juridiques. Analyser en profondeur des jurisprudences avant d'écrire risque d'épuiser les ressources cognitives préfrontales (Épuisement Cognitif). L'essence de cette routine n'est pas d'acquérir des connaissances juridiques, mais de percevoir visuellement la structure concise et les combinaisons de mots claires. Lisez donc rapidement les phrases sans trop réfléchir au fond.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

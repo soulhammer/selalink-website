@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Menulis di Tempat Tidur dengan Pensil Warna Biru: Rutinitas Penulisan Penghematan Energi dan Meredakan Kelelahan Korteks Visual Primer (V1) James Joyce"
 description: "Pelajari bagaimana James Joyce menciptakan mahakarya sastra sambil berbaring di tempat tidur meskipun menderita penyakit mata parah. Temukan neurosains tentang mengurangi beban otot gravitasi, meredakan kelelahan korteks visual primer (V1), dan mengoptimalkan energi prefrontal."
 pubDate: "2026-04-10"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai joyce-bed-writing didasarkan pada <strong>Verifikasi Historis dari Biografi Richard Ellmann *James Joyce*, Arsip Joyce & Penelitian Neurosains Kognitif serta Persepsi Visual</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Richard Ellmann *James Joyce*, Arsip Joyce & Penelitian Neurosains Kognitif serta Persepsi Visual</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pengurangan Beban Otot Gravitasi dan Meredakan Kelelahan Korteks Visual Primer (V1)
+## 1. Pengurangan Beban Otot Gravitasi dan Meredakan Kelelahan Korteks Visual Primer (V1)
 
 Berbaring datar atau bersandar dengan nyaman mengurangi ketegangan otot postural dan menstabilkan detak jantung, meminimalkan pengeluaran energi fisik. Ini memungkinkan aliran darah beroksigen berkonsentrasi tinggi di dalam pusat pemrosesan eksekutif <strong>Korteks Prefrontal</strong>. Selain itu, menggunakan alat tulis biru tebal berkontras tinggi mengurangi beban pemrosesan di <strong>Korteks Visual Primer (V1)</strong>.
 
 ---
 
-## Perhatian: Menerima Sinyal Kelelahan Fisik dan Memaksimalkan Kontras Visual
-
-Bagi James Joyce, menulis di tempat tidur adalah adaptasi bertahan hidup yang cemerlang untuk mengatasi keterbatasan fisik. Saat kelelahan fisik atau visual mencapai puncaknya, hindari memaksakan diri Anda untuk duduk secara kaku di kursi yang keras. Bersandarlah dengan bantal penopang dan sketsa pemikiran secara santai.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Bagi James Joyce, menulis di tempat tidur adalah adaptasi bertahan hidup yang ce
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Menerima Sinyal Kelelahan Fisik dan Memaksimalkan Kontras Visual
+
+Bagi James Joyce, menulis di tempat tidur adalah adaptasi bertahan hidup yang cemerlang untuk mengatasi keterbatasan fisik. Saat kelelahan fisik atau visual mencapai puncaknya, hindari memaksakan diri Anda untuk duduk secara kaku di kursi yang keras. Bersandarlah dengan bantal penopang dan sketsa pemikiran secara santai.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa James Joyce mengenakan jubah putih saat menulis di tempat tidur?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Bagi James Joyce, menulis di tempat tidur adalah adaptasi bertahan hidup yang ce
       Jubah putih berfungsi sebagai pemantul cahaya alami, memantulkan cahaya ruangan langsung ke kertas naskahnya tanpa silau yang keras. Ini berfungsi sebagai alat bantu pencahayaan analog yang memungkinkan retinanya melihat kata-kata tertulis dengan jelas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah bekerja sambil berbaring di tempat tidur atau sofa tidak menyebabkan kantuk?</span>

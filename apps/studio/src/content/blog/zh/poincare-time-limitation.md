@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "天才数学家的答案出在休息时？昂利·庞加莱的4小时专注限制习惯"
 description: "介绍天才科学家昂利·庞加莱将每日工作限制在4小时的成功法则。探索利用大脑专注模式与发散模式在无意识中获取创造性灵感的3步骤指南。"
 pubDate: "2026-04-19"
@@ -27,17 +28,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 poincare-time-limitation 的内容基于 <strong>昂利·庞加莱历史传记与著作考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>昂利·庞加莱历史传记与著作考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 专注模式与发散模式：无意识的解题能力
+## 1. 专注模式与发散模式：无意识的解题能力
 
 根据学习科学与神经生理学，我们大脑的认知功能通过“专注模式（Focused Mode）”与“发散模式（Diffuse Mode）”这两种系统工作。在书桌前全力进行运算的专注模式下，前额叶皮层的功能收紧，仅激活狭窄且特定区域的网络。然而，当放下专注进行轻松散步或休息进入发散模式时，连接大脑全局区域的默认模式网络（DMN）随之被唤醒。
 
@@ -45,9 +46,7 @@ faqs:
 
 ---
 
-## 实现可持续专注的脑科学忠告
-
-创造性的灵感绝非强行挤压出来的。请明确设定大脑的专注极限时间，遇到难以解决的问题时，果断离开书桌去散散步，给大脑送上一份“发散模式”的休息。潜意识会替您找到答案。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     休息期间无意识反馈的答案如闪电般稍纵即逝。请使用便签本或手机录音功能，在休息时突发灵感的那一刻立即记录下来。
   </p>
 </div>
+
+---
+
+## 3. 实现可持续专注的脑科学忠告
+
+创造性的灵感绝非强行挤压出来的。请明确设定大脑的专注极限时间，遇到难以解决的问题时，果断离开书桌去散散步，给大脑送上一份“发散模式”的休息。潜意识会替您找到答案。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

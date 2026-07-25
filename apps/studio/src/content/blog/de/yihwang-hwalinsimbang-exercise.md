@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Morgendliche Pflegeweise eines Gelehrten: Toegye Yi Hwangs Hwalinsimbang-Gymnastik"
 description: "Toegye Yi Hwang war zeitlebens kränklich, betrieb aber bis zu seinem 70. Lebensjahr Wissenschaft durch tägliche morgendliche Daoyin-Übungen und Atemkontrolle. Entdecken Sie die physiologischen Mechanismen, wie sanfte Bewegung und tiefes Atmen das Parasympathikus-System aktivieren."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ In diesem Beitrag belegen wir den physiologischen Wert der Hwalinsimbang-Praxis 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu yihwang-hwalinsimbang-exercise basiert auf <strong>Historische Quellen zu Toegye Yi Hwangs Hwalinsimbang & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Quellen zu Toegye Yi Hwangs Hwalinsimbang & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Wie sanfte Daoyin-Übungen und Atemkontrolle das vegetative Nervensystem ausgleichen
+## 1. Wie sanfte Daoyin-Übungen und Atemkontrolle das vegetative Nervensystem ausgleichen
 
 Direkt nach dem Aufwachen steigt der Cortisolspiegel (Cortisol Awakening Response) an, um den Körper in Aktivität zu versetzen, was zu erhöhtem Puls und Anspannung führen kann. Hektische Aktivitäten oder digitale Medien überstimulieren dabei Angstnetzwerke im Gehirn. Die Kombination aus sanften Dehnungen und langer Bauchatmung stimuliert hingegen den Vagusnerv und aktiviert den Parasympathikus, was die Herzratenvariabilität (HRV) stabilisiert und den Geist beruhigt.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Morgens nach dem Aufwachen sind Wirbelsäule und Muskeln sehr steif. Das Erzwingen intensiver Ruckbewegungen oder extremer Dehnungen kann zu Bandscheibenschäden führen. Halten Sie morgendliche Übungen sanft und ohne Schwung, stets im schmerzfreien Bereich, und konzentrieren Sie sich ruhig auf die Atmung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Morgens nach dem Aufwachen sind Wirbelsäule und Muskeln sehr steif. Das Erzwing
     Atmen Sie tief durch die Nase ein, ziehen Sie den Unterbauch ein und atmen Sie langsam und leise durch den Mund aus. Führen Sie 10 tiefe Bauchatemzüge durch, um den Parasympathikus zu aktivieren.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Morgens nach dem Aufwachen sind Wirbelsäule und Muskeln sehr steif. Das Erzwingen intensiver Ruckbewegungen oder extremer Dehnungen kann zu Bandscheibenschäden führen. Halten Sie morgendliche Übungen sanft und ohne Schwung, stets im schmerzfreien Bereich, und konzentrieren Sie sich ruhig auf die Atmung.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

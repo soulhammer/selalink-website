@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "안토니 판 레이우엔후크의 구형 렌즈 연마법: 지독한 인내와 미시 관찰로 본질을 꿰뚫는 법과 소뇌 이완"
 description: "미생물학의 아버지 판 레이우엔후크가 500배율 구형 렌즈를 직접 연마하여 최초로 박테리아와 미생물을 발견한 역사적 사실과 소뇌·기저핵 이완, 알파파(Alpha Wave) 몰입(Flow) 및 3단계 실천 가이드를 다룹니다."
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>안토니 판 레이우엔후크 전기 사료 및 영국 왕립학회(Royal Society) 서한 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동제어학(Motor Control Science) 연구</strong>에 근거하여 leeuwenhoek-lens-grinding 루틴을 다룹니다.
+      본 콘텐츠는 <strong>안토니 판 레이우엔후크 전기 사료 및 영국 왕립학회(Royal Society) 서한 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동제어학(Motor Control Science) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 소뇌(Cerebellum)·기저핵(Basal Ganglia) 이완과 알파파(Alpha Wave) 몰입(Flow)
+## 1. 소뇌(Cerebellum)·기저핵(Basal Ganglia) 이완과 알파파(Alpha Wave) 몰입(Flow)
 
 신경과학 연구에 따르면 섬세하고 일정한 반복 손 운동과 고도의 시각 몰입이 결합할 때, 뇌파는 스트레스성 베타파에서 이완된 <strong>알파파(Alpha Wave)</strong> 및 <strong>세타파(Theta Wave)</strong>로 전환됩니다. 이 과정에서 억제적 정밀 동작을 담당하는 <strong>소뇌(Cerebellum)</strong>와 <strong>기저핵(Basal Ganglia)</strong>의 불필요한 흥분이 진정되며, <strong>전전두엽(Prefrontal Cortex)</strong>의 과도한 불확실성 노이즈가 제거되어 잡념 없는 최고조의 <strong>몰입(Flow)</strong> 상태로 빠져들게 됩니다.
 
 ---
 
-## 결과에 대한 조급함을 배제하고 미세 인내심(Micro-Patience)으로 과정에 몰입하는 수칙
-
-조급하게 즉각적인 결과나 성과를 재촉하려 하지 마세요. 거대한 발견과 본질적인 통찰은 지독한 미세 인내심(Micro-Patience)과 꾸준한 반복 관찰 속에서 자연스럽게 드러납니다. 주관적 의지력에만 의존하려 하기보다, 20분간 손끝과 시선이 딴데로 흐르지 않는 정교한 아날로그 환경과 습관 신호를 사전에 구축하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 결과에 대한 조급함을 배제하고 미세 인내심(Micro-Patience)으로 과정에 몰입하는 수칙
+
+조급하게 즉각적인 결과나 성과를 재촉하려 하지 마세요. 거대한 발견과 본질적인 통찰은 지독한 미세 인내심(Micro-Patience)과 꾸준한 반복 관찰 속에서 자연스럽게 드러납니다. 주관적 의지력에만 의존하려 하기보다, 20분간 손끝과 시선이 딴데로 흐르지 않는 정교한 아날로그 환경과 습관 신호를 사전에 구축하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>불안감이 높거나 집중력이 자주 산만해지는 사람에게도 이 루틴이 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 매우 뛰어난 효과가 있습니다! 섬세한 손끝 미세 운동과 정밀한 시각 몰입의 동기화는 과활성화된 뇌의 편도체와 긴장 신경망을 안정시켜, 불안감과 산만함을 물리적으로 잠재우고 뇌의 평정심을 되찾아 줍니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>이 미시 몰입 루틴을 하루에 얼마나 자주, 언제 실천하는 것이 좋은가요?</span>

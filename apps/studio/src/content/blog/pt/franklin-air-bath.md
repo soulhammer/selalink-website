@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "30 Minutos Todas as Manhãs: O Curioso 'Banho de Ar' de Benjamin Franklin e a Rotina de Reinício do Sistema Nervoso Autônomo"
 description: "Descubra como Benjamin Franklin, inventor do para-raios e Pai Fundador dos EUA, praticava seu 'banho de ar' matinal nu diante de janelas abertas. Explore a neurociência dos receptores de frio (TRPM8) e da noradrenalina."
 pubDate: "2026-02-12"
@@ -35,25 +36,23 @@ No artigo de hoje, revelamos a ciência cerebral por trás da rotina de Benjamin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre franklin-air-bath é baseada em <strong>Verificação Histórica da *Autobiografia de Benjamin Franklin*, Cartas a M. Barbeu Dubourg e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da *Autobiografia de Benjamin Franklin*, Cartas a M. Barbeu Dubourg e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação de Receptores de Frio Cutâneos e Equilíbrio Simpático-Parassimpático
+## 1. Estimulação de Receptores de Frio Cutâneos e Equilíbrio Simpático-Parassimpático
 
 Quando os receptores de frio (TRPM8) detectam ar fresco, os sinais chegam ao hipotálamo e ao sistema nervoso autônomo, estimulando os capilares. Essa via ativa o <strong>locus coeruleus</strong>, liberando <strong>noradrenalina</strong> e <strong>dopamina</strong> para eliminar a sonolência e elevar o foco pré-frontal. Além disso, à medida que a temperatura corporal se recupera, a resposta parassimpática é ativada, redefinindo o hiperalerta simpático.
 
 ---
 
-## Precaução: Protocolo de Tempo de Exposição para Evitar a Hipotermia
-
-Um banho de ar não é um teste de resistência ao frio extremo. A exposição excessiva ao frio intenso causa vasoconstrição severa, aumentando a pressão arterial ou enfraquecendo a imunidade. Para obter benefícios com segurança, limite o processo a uma temperatura fresca e confortável por no máximo 10 a 15 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Um banho de ar não é um teste de resistência ao frio extremo. A exposição e
   </p>
 </div>
 
+---
+
+## 3. Precaução: Protocolo de Tempo de Exposição para Evitar a Hipotermia
+
+Um banho de ar não é um teste de resistência ao frio extremo. A exposição excessiva ao frio intenso causa vasoconstrição severa, aumentando a pressão arterial ou enfraquecendo a imunidade. Para obter benefícios com segurança, limite o processo a uma temperatura fresca e confortável por no máximo 10 a 15 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Um Banho de Ar realmente ajuda a fortalecer a imunidade e o alerta mental?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Um banho de ar não é um teste de resistência ao frio extremo. A exposição e
       Sim. A exposição suave ao frio melhora a flexibilidade do sistema nervoso autônomo. Ao disparar a noradrenalina, elimina a névoa mental matinal e eleva o foco pré-frontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como devo praticar um Banho de Ar com segurança durante os meses frios de inverno?</span>

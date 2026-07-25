@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "하루 세 시간만 치열하게 일한 천재? 버트런드 러셀의 타임박스 몰입법"
 description: "노벨 문학상 수상 철학자 버트런드 러셀. 매일 오전 정확하게 3시간 동안 완벽히 차단된 환경에서 몰입했던 그의 효율 극대화 지혜와 현대인을 위한 딥 워크 실천법을 알아봅니다."
 pubDate: "2026-04-02"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>버트런드 러셀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 russell-three-hour-focus 루틴을 다룹니다.
+      본 콘텐츠는 <strong>버트런드 러셀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 집중의 밀도를 압축하는 '타임박싱 효과'
+## 1. 집중의 밀도를 압축하는 '타임박싱 효과'
 
 일반적인 현대인들은 '하루 8시간 근무'라는 긴 시간의 프레임 속에 자신을 가두어 둡니다. 하지만 뇌과학에 따르면 인간의 대뇌 피질이 100% 에너지를 짜내어 최고의 논리와 창의를 쏟을 수 있는 한계 시간(Deep Work Limit)은 하루 최대 3 ~ 4시간에 불과합니다. 작업 시간을 길게 설정할수록 뇌는 긴장감을 풀고 스마트폰 확인, 인터넷 서핑 등 잔여 잡무로 주의력을 낭비하며 집중력을 흩트려 인지 피로만을 키웁니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 길게 일하기보다 좁고 깊게 침투해야 영감이 솟아납니다
-
-위대한 사상가 러셀에게 3시간의 몰입은 온종일 주의가 산만한 채 책상 앞에 버티는 수동적인 노력보다 수십 배 강렬한 인지적 해킹의 과정이었습니다. 매일 종일 고되게 컴퓨터 앞에 앉아 있지만 성과가 없고 피로하다면, 러셀처럼 하루 중 정확히 3시간만 온전한 철갑 방벽을 치고 핵심 과제에 침투해 보십시오. 남은 인생의 자유가 늘어날 것입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 길게 일하기보다 좁고 깊게 침투해야 영감이 솟아납니다
+
+위대한 사상가 러셀에게 3시간의 몰입은 온종일 주의가 산만한 채 책상 앞에 버티는 수동적인 노력보다 수십 배 강렬한 인지적 해킹의 과정이었습니다. 매일 종일 고되게 컴퓨터 앞에 앉아 있지만 성과가 없고 피로하다면, 러셀처럼 하루 중 정확히 3시간만 온전한 철갑 방벽을 치고 핵심 과제에 침투해 보십시오. 남은 인생의 자유가 늘어날 것입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>직장 생활 중 3시간 동안이나 연락을 안 받으면 문제가 되지 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       물론 일반적인 직장 환경에서 3시간 완전 단절은 어려울 수 있습니다. 이럴 때는 오전 1시간 30분, 오후 1시간 30분과 같이 '90분 집중-완전 휴식'의 세부 타임박스로 분할하여 실천해도 뇌의 연산 효율을 보존하는 데 큰 도움을 얻을 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>3시간 몰입이 끝난 후, 오후에도 가벼운 업무는 이어서 해도 되나요?</span>

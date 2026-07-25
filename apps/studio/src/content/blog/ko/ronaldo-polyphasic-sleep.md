@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "24시간 지치지 않는 피지컬의 비결? 크리스티아누 호날두의 90분 분할 수면법"
 description: "세계 최고의 공격수 크리스티아누 호날두. 하루에 90분씩 5회 분할 수면을 취하여 신체 회복력을 극대화한 그의 수면 과학과 실천 팁을 소개합니다."
 pubDate: "2026-01-20"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>크리스티아누 호날두 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ronaldo-polyphasic-sleep 루틴을 다룹니다.
+      본 콘텐츠는 <strong>크리스티아누 호날두 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 90분 R90 주기와 성장 호르몬 방출 최적화
+## 1. 90분 R90 주기와 성장 호르몬 방출 최적화
 
 인간의 자연스러운 수면 사이클은 비렘(Non-REM)과 렘(REM) 수면이 결합되어 대략 90분 동안 진행됩니다. 만약 밤에 통잠을 자다 수면 주기의 중간에 억지로 깨어나면 뇌는 극심한 피로를 느끼는 '수면 관성(Sleep Inertia)' 상태에 빠집니다. 
 
@@ -47,9 +48,7 @@ faqs:
 
 ---
 
-## 완벽한 차단 환경과 올바른 자세가 수면 효율을 결정합니다
-
-분할 수면이나 짧은 파워 냅을 성공시키기 위해선 환경적 차단이 완벽해야 합니다. 아주 미세한 빛이나 소음도 뇌의 깊은 이완을 방해합니다. 또한 심장의 부담을 최소화하고 척추를 일직선으로 정렬하기 위해, 오른쪽이나 왼쪽으로 누워 무릎을 가볍게 구부린 태아 자세(Fetal Position)로 수면을 취하는 것이 효율적입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 완벽한 차단 환경과 올바른 자세가 수면 효율을 결정합니다
+
+분할 수면이나 짧은 파워 냅을 성공시키기 위해선 환경적 차단이 완벽해야 합니다. 아주 미세한 빛이나 소음도 뇌의 깊은 이완을 방해합니다. 또한 심장의 부담을 최소화하고 척추를 일직선으로 정렬하기 위해, 오른쪽이나 왼쪽으로 누워 무릎을 가볍게 구부린 태아 자세(Fetal Position)로 수면을 취하는 것이 효율적입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>밤에 잠을 잘 자는데도 낮에 이 분할 수면을 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       일반적인 사무직 현대인이라면 굳이 낮에 90분 수면을 반복할 필요는 없습니다. 다만 고강도 피지컬 트레이닝을 하거나, 야근으로 밤 수면이 부족했던 날 일시적으로 90분 혹은 30분 분할 수면을 적용해 신체를 리셋하는 용도로 사용하면 좋습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>태아 자세로 잘 때 양쪽 중 어느 방향으로 눕는 것이 좋나요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Miliarder yang Menyelesaikan Tugas Tersulit Pertama di Pagi Hari: Rutinitas Eksekusi Prioritas Andrew Carnegie"
 description: "Pelajari bagaimana magnat baja Andrew Carnegie menyelesaikan tugas terberatnya terlebih dahulu selama jam-jam emas pagi hari ketika sumber daya prefrontal terisi penuh, serta temukan neurosains kognitif untuk mengatasi ego depletion guna memaksimalkan fungsi eksekutif."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'tugas
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai carnegie-priority-first didasarkan pada <strong>Verifikasi Historis dari Autobiografi Andrew Carnegie *Autobiography of Andrew Carnegie* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Andrew Carnegie *Autobiography of Andrew Carnegie* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Memelihara Sumber Daya Prefrontal dan Mencegah 'Ego Depletion'
+## 1. Memelihara Sumber Daya Prefrontal dan Mencegah 'Ego Depletion'
 
 Penelitian neurosains dan psikologis menunjukkan bahwa sumber daya kognitif korteks prefrontal—yang mengatur pengambilan keputusan rasional, kontrol impuls, dan fungsi eksekutif—bersifat terbatas, menguras seperti baterai. Ini dikenal sebagai 'Ego Depletion'. Menguras anggaran glukosa prefrontal saat bangun tidur dengan menggulir smartphone tanpa tujuan, membalas pesan, atau tugas-tugas kecil membuat baterai eksekutif otak terkuras saat perencanaan rumit atau keputusan penting muncul di siang hari, menyebabkan 'Kelelahan Keputusan'. Rutinitas Carnegie mengeksekusi tugas terberat selama jam pagi pertama memanfaatkan ketajaman logis puncak.
 
 ---
 
-## Perhatian & Tip: Menjaga Energi Kognitif Pagi dari Tugas-Tugas Sepele
-
-Bagi pekerja pengetahuan berkinerja tinggi, kemauan keras dan kapasitas prefrontal adalah aset kognitif bernilai tinggi yang menyusut nilainya sepanjang hari. Carnegie menolak untuk mendonasikan jam-jam emas paginya untuk tugas-tugas kecil seperti membalas email atau merapikan meja, menginvestasikannya ke dalam keputusan bisnis berorientasi dampak tertinggi. Tentukan tugas menakutkan yang paling ingin Anda tunda sebagai item pertama Anda hari itu untuk mencegah kelelahan otak sejak awal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Bagi pekerja pengetahuan berkinerja tinggi, kemauan keras dan kapasitas prefront
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menjaga Energi Kognitif Pagi dari Tugas-Tugas Sepele
+
+Bagi pekerja pengetahuan berkinerja tinggi, kemauan keras dan kapasitas prefrontal adalah aset kognitif bernilai tinggi yang menyusut nilainya sepanjang hari. Carnegie menolak untuk mendonasikan jam-jam emas paginya untuk tugas-tugas kecil seperti membalas email atau merapikan meja, menginvestasikannya ke dalam keputusan bisnis berorientasi dampak tertinggi. Tentukan tugas menakutkan yang paling ingin Anda tunda sebagai item pertama Anda hari itu untuk mencegah kelelahan otak sejak awal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara menangani komunikasi mendesak atau permintaan respons langsung selama blok pagi pertama?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Bagi pekerja pengetahuan berkinerja tinggi, kemauan keras dan kapasitas prefront
       Kecuali jika menghadapi krisis organisasi yang parah, sebagian besar pesan yang 'tampak mendesak' dapat menunggu 1 hingga 2 jam tanpa masalah. Untuk melindungi sumber daya prefrontal Anda, pertahankan setidaknya 1 jam 'Blok Benteng Perlindungan Prefrontal' setiap pagi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara menerapkan rutinitas ini jika tugas tersulit terlalu masif untuk diselesaikan dalam satu hari?</span>

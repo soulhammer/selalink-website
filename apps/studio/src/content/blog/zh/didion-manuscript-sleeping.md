@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "睡眠期间大脑在解演方案：琼·狄迪恩的手稿同眠睡眠法与REM睡眠引发效应"
 description: "探索美国传奇作家琼·狄迪恩将未竟手稿带入卧室同眠以捋清复杂叙事线索的睡眠习惯，揭示认知引发（Cognitive Priming）与REM睡眠期间记忆重组巩固的神经科学原理。"
 pubDate: "2026-06-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 didion-manuscript-sleeping 的内容基于 <strong>特雷西·多尔蒂传记《最后的情歌（The Last Love Song）》与《巴黎评论（The Paris Review）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>特雷西·多尔蒂传记《最后的情歌（The Last Love Song）》与《巴黎评论（The Paris Review）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## REM睡眠的非相关记忆重组巩固与睡前认知引发（Cognitive Priming）机制
+## 1. REM睡眠的非相关记忆重组巩固与睡前认知引发（Cognitive Priming）机制
 
 在清醒状态下，前额叶皮层维持着严密的管制与逻辑加工模式，思维被死私局限在既有图谱（Schema）的常规联结中。而在睡前将待解难题或打印手稿静静灌入大脑的动作，在脑科学中能够引发“认知引发（Cognitive Priming）”效应。当大脑切入快速眼动（REM）睡眠阶段时，负责情绪与记忆的海马体与杏仁核强效放电，而前额叶皮层的严苛管制电路被彻底卸除。此时，大脑便会对经由认知引发打上最高优先级标签的难题与白天收集的零散记忆节点展开自发重组与跨界缝合（Unconstrained Associative Re-Consolidation）。这项睡眠期间的无意识运算，将在清晨醒来时奉上石破天惊的清晰解法。
 
 ---
 
-## 注意事项与提示：阻断屏显蓝光刺激与采用纸质模拟物引发
-
-若在睡前盯着手机或平板电脑屏幕的蓝光审查文稿，大脑视丘下部会将其误判为白天，从而抑制睡眠霍尔蒙褪黑素（Melatonin）的分泌，并严重破坏REM睡眠与慢波睡眠结构。展开认知引发特训时，务必阅读打印好的实体纸质文稿或手账5分钟；随后闭上双眼在脑海中对目标课题展开安详的想象构设，随后自然沉入深度睡眠，如此方能完整获得REM睡眠的记忆重组益处。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：阻断屏显蓝光刺激与采用纸质模拟物引发
+
+若在睡前盯着手机或平板电脑屏幕的蓝光审查文稿，大脑视丘下部会将其误判为白天，从而抑制睡眠霍尔蒙褪黑素（Melatonin）的分泌，并严重破坏REM睡眠与慢波睡眠结构。展开认知引发特训时，务必阅读打印好的实体纸质文稿或手账5分钟；随后闭上双眼在脑海中对目标课题展开安详的想象构设，随后自然沉入深度睡眠，如此方能完整获得REM睡眠的记忆重组益处。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在睡前沉思悬而未决的复杂问题，会不会引发失眠或摧毁睡眠质量？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       若带着“今晚必须想出答案”的紧绷与焦虑去强行苦思，确实可能诱发失眠。核心绝非展开主动苦思，而在于如翻阅童话故事般松弛地扫视纸质文档，并带着“今夜大脑自会全权接管与解算”的平稳从容心态将意识关机，如此方能避免交感神经兴奋并建立起有效引发。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若在清晨醒来的极其瞬间未能立即获得石破天惊的解法，是否意味着本次尝试失败？</span>

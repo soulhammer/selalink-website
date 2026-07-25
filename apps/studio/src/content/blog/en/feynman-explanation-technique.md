@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Nobel Laureate's Superfast Learning Method: Richard Feynman's Teaching Habit and Metacognitive Mastery"
 description: "Discover how Nobel laureate Richard Feynman taught complex quantum mechanics so that a 10-year-old child could understand it. Explore the cognitive neuroscience of metacognition, active retrieval, and the 4-step Feynman Technique."
 pubDate: "2026-02-11"
@@ -38,22 +39,20 @@ In today's post, we uncover the brain science behind Richard Feynman's learning 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding feynman-explanation-technique is based on <strong>Historical Verification from Richard Feynman's Autobiography *Surely You're Joking, Mr. Feynman!*, Caltech Lecture Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Richard Feynman's Autobiography *Surely You're Joking, Mr. Feynman!*, Caltech Lecture Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Metacognition and Active Retrieval: Exposing the Boundaries of Knowledge
+## 1. Metacognition and Active Retrieval: Exposing the Boundaries of Knowledge
 
 Passively reading or listening to new information fails to encode memories into long-term storage. Conversely, vocalizing concepts or summarizing them in plain language engages the brain's <strong>Active Retrieval</strong> mechanism, anchoring knowledge deeply within cognitive networks. Explaining complex ideas using intuitive analogies suitable for a child intensely stimulates <strong>Metacognition</strong>—the ability to evaluate one's own understanding. Stripping away technical jargon instantly exposes the illusion of competence, separating genuine comprehension from memorized terminology. Through this process, the prefrontal cortex and hippocampus reorganize synaptic connections, successfully consolidating knowledge into <strong>Long-term Memory</strong>.
 
 ---
 
-## Caution: Breaking the Trap of the Illusion of Competence via Active Retrieval
-
-Passive skimming and lecture watching create a false sense of security—an illusion of competence—without triggering metacognitive pathways. Like Feynman, spend just 10 minutes post-learning with a blank page, engaging your hands and voice to explain the topic aloud. Anything you cannot explain simply is not yet part of your knowledge base.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Passive skimming and lecture watching create a false sense of security—an illu
   </p>
 </div>
 
+---
+
+## 3. Caution: Breaking the Trap of the Illusion of Competence via Active Retrieval
+
+Passive skimming and lecture watching create a false sense of security—an illusion of competence—without triggering metacognitive pathways. Like Feynman, spend just 10 minutes post-learning with a blank page, engaging your hands and voice to explain the topic aloud. Anything you cannot explain simply is not yet part of your knowledge base.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if I do not have an actual child nearby to explain things to?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Passive skimming and lecture watching create a false sense of security—an illu
       An actual child is unnecessary. You can imagine a colleague, a plush toy on your desk, or direct your explanation to an AI chatbot set to a 10-year-old comprehension level. The core objective is the cognitive filtering process: censoring your words to eliminate complex jargon.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it normal for sentences to become long and awkward when completely removing technical jargon?</span>

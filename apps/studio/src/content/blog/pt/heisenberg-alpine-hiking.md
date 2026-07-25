@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pistas de Incerteza Dadas pela Natureza: A Rotina de Caminhada Alpina e Incubação DMN de Werner Heisenberg"
 description: "Descubra como Werner Heisenberg resolveu dilemas da mecânica quântica caminhando sozinho pelos Alpes Bávaros. Explore a ciência da Teoria da Restauração da Atenção (ART) e a incubação na Rede de Modo Padrão (DMN)."
 pubDate: "2026-02-06"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva e a psicologia ambiental
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre heisenberg-alpine-hiking é baseada em <strong>Verificação Histórica de *A Parte e o Todo (Der Teil und das Ganze)* de Werner Heisenberg, Arquivos da Academia Bávara de Ciências e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *A Parte e o Todo (Der Teil und das Ganze)* de Werner Heisenberg, Arquivos da Academia Bávara de Ciências e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teoria da Restauração da Atenção (ART) e Incubação Cognitiva na Rede de Modo Padrão (DMN)
+## 1. Teoria da Restauração da Atenção (ART) e Incubação Cognitiva na Rede de Modo Padrão (DMN)
 
 A concentração prolongada em telas ou números esgota os recursos pré-frontais, causando fadiga da atenção dirigida. Ao caminhar pela natureza como Heisenberg, ativa-se a <strong>Teoria da Restauração da Atenção (ART)</strong>. Os estímulos naturais oferecem <strong>'Fascinação Suave' (Soft Fascination)</strong>, descansando a atenção dirigida. Isso aciona a <strong>Rede de Modo Padrão (DMN)</strong>, disparando a <strong>Incubação Cognitiva</strong>, em que o subconsciente reorganiza fórmulas complexas.
 
 ---
 
-## Precaução: Elimine Estímulos Digitais para Permitir a Incubação Subconsciente na DMN
-
-O maior obstáculo durante uma caminhada reflexiva é consumir conteúdo digital: ouvir podcasts ou checar e-mails. Consumir informações em telas ao ar livre continua esgotando a Atenção Dirigida, bloqueando a restauração e a incubação na DMN. Coloque o celular no Modo Avião e mergulhe nos sons da natureza e no ritmo dos passos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O maior obstáculo durante uma caminhada reflexiva é consumir conteúdo digital
   </p>
 </div>
 
+---
+
+## 3. Precaução: Elimine Estímulos Digitais para Permitir a Incubação Subconsciente na DMN
+
+O maior obstáculo durante uma caminhada reflexiva é consumir conteúdo digital: ouvir podcasts ou checar e-mails. Consumir informações em telas ao ar livre continua esgotando a Atenção Dirigida, bloqueando a restauração e a incubação na DMN. Coloque o celular no Modo Avião e mergulhe nos sons da natureza e no ritmo dos passos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como posso adaptar essa rotina se eu morar em uma cidade grande longe de trilhas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O maior obstáculo durante uma caminhada reflexiva é consumir conteúdo digital
       Substitua as trilhas por uma caminhada de 30 minutos em um parque urbano, jardim botânico ou avenida arborizada, sem celular. O essencial é ativar os sentidos visoespaciais e aumentar o fluxo sanguíneo cerebral.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Qual é a melhor maneira de capturar as ideias que surgem durante a caminhada sem perder o foco?</span>

@@ -1,192 +1,282 @@
 {
   "stendhal-civil-code-reading": {
-    "title": {
-      "ko": "뇌를 식히는 건조한 예열: 스탕달의 프랑스 민법전 독서 습관",
-      "en": "Dry Pre-Heating to Cool the Brain: Stendhal's French Civil Code Reading Habit",
-      "ja": "脳を冷やす乾燥した予熱：スタンダールのフランス民法典読書習慣",
-      "zh": "冷却大脑的干燥预热：斯汤达阅读法国民法典的习惯",
-      "es": "Precalentamiento seco para enfriar el cerebro: El hábito de Stendhal de leer el Código Civil francés",
-      "de": "Trockenes Aufwärmen zur Abkühlung des Gehirns: Stendhals Gewohnheit, das französische Zivilgesetzbuch zu lesen",
-      "fr": "Préchauffage à sec pour refroidir le cerveau : L'habitude de Stendhal de lire le Code civil français",
-      "pt": "Pré-aquecimento seco para esfriar o cérebro: O hábito de Stendhal de ler o Código Civil francês",
-      "id": "Pemanasan Kering untuk Mendinginkan Otak: Kebiasaan Stendhal Membaca Kitab Undang-Undang Hukum Perdata Prancis"
-    },
-    "description": {
-      "ko": "화려한 미사여구를 배제하고 인간 심리의 본질을 해부하듯 서술한 사실주의 문학의 거장 스탕달. 글을 쓰기 전 매일 프랑스 민법전을 읽으며 뇌의 객관성과 논리성을 최고조로 세팅했던 인지적 예열 습관을 분석합니다.",
-      "en": "Stendhal, a master of realist literature who dissected human psychology without ornate rhetoric. We analyze his cognitive warm-up habit of reading the French Civil Code daily before writing to maximize objectivity and logic.",
-      "ja": "華麗な修辞を排し、人間心理の本質を解剖するように描いた写実主義文学の巨匠スタンダール。執筆前に毎日フランス民法典を読み、脳の客観性と論理性を最高潮に設定した認知的な予熱習慣を分析します。",
-      "zh": "斯汤达是写实主义文学大师，他抛弃华丽修辞，精细解剖人类心理本质。本文分析他在写作前每天阅读法国民法典、将大脑的客观性与逻辑性提升至极致的认知预热习惯。",
-      "es": "Stendhal, un maestro de la literatura realista que diseccionó la psicología humana sin retórica ornada. Analizamos su hábito de calentamiento cognitivo de leer el Código Civil francés diariamente antes de escribir para maximizar la objetividad y la lógica.",
-      "de": "Stendhal, ein Meister der realistischen Literatur, der die menschliche Psychologie ohne schnörkelhafte Rhetorik analysierte. Wir analysieren seine kognitive Aufwärmgewohnheit, täglich vor dem Schreiben das französische Zivilgesetzbuch zu lesen, um Objektivität und Logik zu maximieren.",
-      "fr": "Stendhal, un maître de la littérature réaliste qui a disséqué la psychologie humaine sans rhétorique ornée. Nous analysons son habitude de préchauffage cognitif consistant à lire le Code civil français chaque jour avant d'écrire pour maximiser l'objectivité et la logique.",
-      "pt": "Stendhal, um mestre da literatura realista que dissecou a psicologia humana sem retórica ornamentada. Analisamos seu hábito de aquecimento cognitivo de ler o Código Civil francês diariamente antes de escrever para maximizar a objetividade e a lógica.",
-      "id": "Stendhal, seorang maestro sastra realis yang membedah psikologi manusia tanpa retorika berlebihan. Kami menganalisis kebiasaan pemanasan kognitifnya dengan membaca Kitab Undang-Undang Hukum Perdata Prancis setiap hari sebelum menulis untuk memaksimalkan objektivitas dan logika."
-    },
-    "authority": {
-      "ko": "Stendhal Civil Code Reading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Stendhal Civil Code Reading historical biography and autobiographical records & Cognitive Neuroscience research",
-      "ja": "スタンダール民法典読書の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "斯汤达阅读民法典历史评传及自传记录考证与认知神经科学研究",
-      "es": "Investigación histórica biográfica y autobiográfica sobre la lectura del Código Civil por Stendhal e investigación en Neurociencia Cognitiva",
-      "de": "Historische Biographieschriften und autobiographische Aufzeichnungen zu Stendhals Zivilgesetzbuch-Lektüre & Kognitive Neurowissenschaften",
-      "fr": "Étude biographique historique et données autobiographiques sur la lecture du Code civil par Stendhal & recherche en neurosciences cognitives",
-      "pt": "Pesquisa histórica biográfica e registros autobiográficos sobre a leitura do Código Civil por Stendhal & pesquisa em Neurociência Cognitiva",
-      "id": "Riset biografi historis dan catatan autobiografi membaca Hukum Perdata oleh Stendhal & penelitian Ilmu Saraf Kognitif"
-    },
-    "intro": {
-      "ko": "\"문체를 바로잡기 위해 나는 매일 아침 민법전을 두세 페이지씩 읽는다. 법전의 언어는 감정을 섞지 않고 오직 사실과 정의를 명확하게 전달하기 때문이다.\" 📖\n\n프랑스 문학사에서 인간 내면의 허영과 사랑의 심리를 정교하게 포착한 19세기 사실주의 문학의 대가 스탕달(Stendhal, 본명 앙리 벨 Henri Beyle, 1783~1842). 그의 대표작 『적과 흑(Le Rouge et le Noir)』과 『파르마의 승원(La Chartreuse de Parme)』은 군더더기 없는 건조하고 투명한 문체로 오늘날까지 현대 소설의 바이블로 불립니다. 그가 살던 19세기 초반은 감정과 수식어가 흘러넘치는 낭만주의 문학이 풍미하던 시대였으나, 스탕달은 철저하게 수학처럼 정확하고 명료한 문장을 고집했습니다. 그가 매일 아침 펜을 들기 전 반드시 행했던 습관은 다름 아닌 나폴레옹 법전(프랑스 민법전, Code Civil)을 몇 페이지씩 읽는 것이었습니다. 건조하고 차가운 법률 텍스트로 뇌를 예열하여 문장의 감상적 거품을 걷어내고 이성적 사실 묘사에 집중했던 스탕달의 인지적 점화(Priming) 루틴을 상세히 파헤칩니다.",
-      "en": "\"To form my style, I read two or three pages of the Civil Code every morning. For the language of the code does not mix emotion; it clearly conveys only facts and definitions.\" 📖\n\nStendhal (real name Henri Beyle, 1783–1842) was a 19th-century master of French realist literature who subtly captured vanity and the psychology of love. His masterpieces, 'The Red and the Black' (Le Rouge et le Noir) and 'The Charterhouse of Parma' (La Chartreuse de Parme), are praised as bibles of modern fiction due to their austere and lucid prose style. While early 19th-century literature was dominated by emotional Romanticism, Stendhal insisted on sentences as precise and clear as mathematics. Every morning before picking up his pen, he made it a habit to read several pages of the Napoleonic Code (French Civil Code). By warming up his brain with dry, cold legal texts, he eliminated sentimental fluff and focused on rational fact-based description.",
-      "ja": "「文章のスタイルを整えるため、私は毎朝民法典を2〜3ページずつ読む。法典の言葉は感情を交えず、ただ事実と定義を明確に伝えるからだ。」 📖\n\nフランス文学史上、人間の見栄と愛の心理を最も精妙に捉えた19世紀写実主義文学の巨匠スタンダール（本名アンリ・ベール、1783〜1842）。彼の代表作『赤と黒』や『パルムの僧院』は、余計な飾りのない乾燥した透明な文体で、今日まで現代小説のバイブルと称されています。彼が活躍した19世紀初頭は感情と修辞があふれる浪漫主義文学が全盛の時代でしたが、スタンダールは数学のように正確で明瞭な文章を貫きました。彼が毎朝ペンを取る前に必ず行っていた習慣こそ、ナポレオン法典（フランス民法典）を数ページ読むことでした。乾燥した冷たい法律テキストで脳を予熱し、文章の感傷的な泡を取り除いて理知的な事実描写に集中したスタンダールの認知的プライミング（Priming）ルーティンを詳しく紐解きます。",
-      "zh": "“为了纠正和规范我的文风，我每天早上都会读两三页民法典。因为法律的语言不掺杂情感，只明确传达事实与定义。” 📖\n\n斯汤达（Stendhal，本名亨利·贝尔 Henri Beyle，1783–1842）是19世纪法国写实主义文学的大师，精准捕捉了人类内心的虚荣与爱情心理。他的代表作《红与黑》（Le Rouge et le Noir）和《帕尔马修道院》（La Chartreuse de Parme）凭借干练透明的文风，至今仍被奉为现代小说的经典圣经。在他生活的19世纪初，充斥着情感与修饰词的浪漫主义文学大行其道，但斯汤达始终坚持如数学般精准严谨的语句。他每天清晨动笔前必做的习惯，正是阅读数页拿破仑法典（法国民法典）。通过干瘪冷峻的法律文本预热大脑，剔除文字中的感伤泡沫，专注于理性的事实描写。",
-      "es": "\"Para formar mi estilo, leo dos o tres páginas del Código Civil cada mañana. Porque el lenguaje del código no mezcla emociones; transmite de manera clara únicamente hechos y definiciones.\" 📖\n\nStendhal (nombre real Henri Beyle, 1783–1842) fue un maestro del realismo literario francés del siglo XIX que capturó con precisión la vanidad y la psicología del amor. Sus obras maestras, 'Rojo y negro' (Le Rouge et le Noir) y 'La cartuja de Parma' (La Chartreuse de Parme), son aclamadas como biblias de la narrativa moderna debido a su estilo sobrio y lúcido. Mientras que la literatura de principios del siglo XIX estaba dominada por el romanticismo emocional, Stendhal insistía en oraciones tan precisas como las matemáticas. Cada mañana, antes de tomar la pluma, leía varias páginas del Código Napoleónico (Código Civil francés). Al calentar su cerebro con textos legales secos y fríos, eliminaba la paja sentimental y se concentraba en descripciones racionales basadas en hechos.",
-      "de": "„Um meinen Stil zu schulen, lese ich jeden Morgen zwei oder drei Seiten des Zivilgesetzbuches. Denn die Sprache des Gesetzbuches mischt keine Emotionen; sie vermittelt klar nur Fakten und Definitionen.“ 📖\n\nStendhal (bürgerlich Henri Beyle, 1783–1842) war ein Meister der französischen realistischen Literatur des 19. Jahrhunderts, der die Eitelkeit und die Psychologie der Liebe präzise einfing. Seine Meisterwerke „Rot und Schwarz“ (Le Rouge et le Noir) und „Die Kartause von Parma“ (La Chartreuse de Parme) werden wegen ihres nüchternen und transparenten Stils bis heute als Bibeln der modernen Belletristik gefeiert. Während die Literatur des frühen 19. Jahrhunderts von emotionaler Romantik geprägt war, bestand Stendhal auf Sätzen, die so präzise wie Mathematik waren. Jeden Morgen vor dem Schreiben las er mehrere Seiten des Code Napoléon (Französisches Zivilgesetzbuch). Indem er sein Gehirn mit trockenen Gesetzestexten aufwärmte, eliminierte er emotionalen Ballast.",
-      "fr": "« Pour former mon style, je lis chaque matin deux ou trois pages du Code civil. Car la langue du code ne mêle pas d'émotion ; elle ne transmet clairement que des faits et des définitions. » 📖\n\nStendhal (de son vrai nom Henri Beyle, 1783–1842) était un maître de la littérature réaliste française du XIXe siècle qui a capturé avec une grande finesse la vanité et la psychologie amoureuse. Ses chefs-d'œuvre, 'Le Rouge et le Noir' et 'La Chartreuse de Parme', sont considérés comme des bibles du roman moderne grâce à leur style sobre et transparent. Alors que le début du XIXe siècle était dominé par le romantisme émotionnel, Stendhal exigeait des phrases aussi précises que des mathématiques. Chaque matin avant de prendre la plume, il lisait plusieurs pages du Code Napoléon (Code civil français). En préchauffant son cerveau avec des textes juridiques secs et froids, il éliminait le superflu sentimental.",
-      "pt": "\"Para formar meu estilo, leio duas ou três páginas do Código Civil todas as manhãs. Porque a linguagem do código não mistura emoção; transmite claramente apenas fatos e definições.\" 📖\n\nStendhal (nome real Henri Beyle, 1783–1842) foi um mestre da literatura realista francesa do século XIX que capturou com precisão a vaidade e a psicologia do amor. Suas obras-primas, 'O Vermelho e o Negro' (Le Rouge et le Noir) e 'A Cartuxa de Parma' (La Chartreuse de Parme), são aclamadas como bíblias da ficção moderna devido ao seu estilo austero e lúcido. Enquanto a literatura do início do século XIX era dominada pelo romantismo emocional, Stendhal calculatedly insistia em frases tão precisas quanto a matemática. Todas as manhãs, antes de pegar a pena, ele lia várias páginas do Código Napoleônico (Código Civil Francês). Ao aquecer seu cérebro com textos jurídicos secos e frios, ele eliminava exageros sentimentais.",
-      "id": "\"Untuk membentuk gaya bahasa saya, saya membaca dua atau tiga halaman Kitab Undang-Undang Hukum Perdata setiap pagi. Karena bahasa undang-undang tidak mencampuradukkan emosi; ia secara jelas hanya menyampaikan fakta dan definisi.\" 📖\n\nStendhal (nama asli Henri Beyle, 1783–1842) adalah maestro sastra realis Prancis abad ke-19 yang secara cermat menangkap kesombongan dan psikologi cinta. Karya besarnya, 'The Red and the Black' (Le Rouge et le Noir) dan 'The Charterhouse of Parma' (La Chartreuse de Parme), dipuji sebagai kitab tulisan fiksi modern berkat gaya bahasanya yang lugas dan jernih. Ketika sastra awal abad ke-19 didominasi oleh Romantisme emosional, Stendhal bersikeras pada kalimat yang presisi seperti matematika. Setiap pagi sebelum menulis, ia selalu membaca beberapa halaman Kode Napoleon (Hukum Perdata Prancis). Dengan memanaskan otaknya menggunakan teks hukum yang kering dan dingin, ia mengeliminasi bahasa emosional yang berlebihan."
-    },
-    "whyTitle": {
-      "ko": "언어적 점화 효과와 감상주의 인지 차단",
-      "en": "Linguistic Priming Effect and Inhibition of Sentimental Cognition",
-      "ja": "言語的プライミング効果と感傷的認知の遮断",
-      "zh": "语言启动效应与感伤主义认知阻断",
-      "es": "Efecto de cebado lingüístico y bloqueo de la cognición sentimental",
-      "de": "Linguistischer Priming-Effekt und Blockierung emotionaler Kognition",
-      "fr": "Effet d'amorçage linguistique et inhibition de la cognition sentimentale",
-      "pt": "Efeito de priming linguístico e bloqueio da cognição sentimental",
-      "id": "Efek Priming Kebahasaan dan Penghambatan Kognisi Sentimental"
-    },
-    "whyDesc": {
-      "ko": "인지과학의 점화 효과(Priming Effect)에 따르면, 뇌는 특정 성격의 정보에 먼저 노출되면 이후 수행하는 인지 작업에서 그와 유사한 패턴을 무의식적으로 활성화합니다. 스탕달이 집필 직전 민법전의 딱딱하고 사실적인 문장을 읽은 것은 대뇌 언어 조절 영역을 객관성 및 논리성 지향 모드로 세팅한 것과 같습니다. 이 자극은 대뇌가 주관적 감상이나 불필요한 미사여구를 자발적으로 억제(Cognitive Inhibition)하도록 만들어, 팩트와 논리 구조를 뼈대로 하는 명료한 글쓰기를 지탱하도록 돕습니다.",
-      "en": "According to the Priming Effect in cognitive science, when the brain is exposed to information with specific characteristics, it unconsciously activates similar patterns in subsequent cognitive tasks. Stendhal reading the dry and factual sentences of the Civil Code right before writing was equivalent to setting the language control area of his brain to an objectivity- and logic-oriented mode. This stimulus allows the brain to voluntarily practice cognitive inhibition against subjective sentimentality, supporting clear writing built on facts and logical structure.",
-      "ja": "認知科学のプライミング効果（Priming Effect）によれば、脳は特定の性質の情報に先に露出すると、その後の認知作業で同様のパターンを無意識に活性化します。スタンダールが執筆直前に民法典の硬く事実に基づいた文章を読んだのは、大脳の言語調節領域を客観性および論理性を志向するモードに設定したことと同じです。この刺激は大脳が主観的な感傷や不要な修辞を自発的に抑制（Cognitive Inhibition）するように促し、ファクトと論理構造を骨組みとする明瞭な執筆を支えます。",
-      "zh": "根据认知科学中的启动效应（Priming Effect），当大脑先接触特定性质的信息时，在接下来的认知任务中会自动无意识地激活相似模式。斯汤达在写作前阅读民法典刻板而客观的句子，相当于将大脑的语言调节区域设置为客观看待与逻辑导向模式。这种刺激促使大脑自发进行认知抑制（Cognitive Inhibition），主动压制主观感伤与多余修辞，从而支撑起以事实和逻辑结构为骨架的清晰写作。",
-      "es": "Según el Efecto de Cebado (Priming Effect) en ciencia cognitiva, cuando el cerebro se expone previamente a información con características específicas, activa de manera inconsciente patrones similares en tareas cognitivas posteriores. Leer las oraciones secas y fácticas del Código Civil justo antes de escribir equivalía a configurar el área de control del lenguaje de Stendhal en un modo orientado a la objetividad y la lógica. Este estímulo permite al cerebro ejercer inhibición cognitiva contra el sentimentalismo subjetivo, respaldando una escritura clara basada en hechos y estructura lógica.",
-      "de": "Gemäß dem Priming-Effekt in der Kognitionswissenschaft aktiviert das Gehirn nach der Exposition gegenüber spezifischen Informationen unbewusst ähnliche Muster bei nachfolgenden kognitiven Aufgaben. Dass Stendhal direkt vor dem Schreiben die trockenen und faktischen Sätze des Zivilgesetzbuches las, entsprach einer Einstellung der Sprachkontrollregion des Gehirns auf einen objektivitäts- und logikorientierten Modus. Dieser Reiz veranlasst das Gehirn zur kognitiven Inhibition subjektiver Emotionalität und unterstützt klares Schreiben auf Basis von Fakten.",
-      "fr": "Selon l'effet d'amorçage (Priming Effect) en sciences cognitives, lorsque le cerveau est exposé au préalable à des informations spécifiques, il active inconscientement des schémas similaires dans les tâches cognitives ultérieures. Lire les phrases sèches et factuelles du Code civil juste avant d'écrire équivalait à régler la zone de contrôle du langage de Stendhal sur un mode orienté vers l'objectivité et la logique. Ce stimulus permet au cerveau d'exercer une inhibition cognitive contre la sentimentalité subjective, soutenant une écriture claire fondée sur des faits.",
-      "pt": "De acordo com o Efeito de Priming na ciência cognitiva, quando o cérebro é exposto previamente a informações com características específicas, ele ativa inconscientemente padrões semelhantes em tarefas cognitivas subsequentes. Ler as frases secas e fáticas do Código Civil antes de escrever equivalia a configurar a área de controle da linguagem de Stendhal em um modo orientado à objetividade e à lógica. Esse estímulo permite ao cérebro exercer inibição cognitiva contra o sentimentalismo subjetivo, apoiando uma escrita clara baseada em fatos.",
-      "id": "Menurut Efek Priming dalam ilmu kognitif, ketika otak terlebih dahulu terpapar informasi dengan karakteristik tertentu, otak secara tidak sadar mengaktifkan pola serupa dalam tugas kognitif berikutnya. Membaca kalimat-kalimat kaku dan faktual dari Hukum Perdata sebelum menulis sama seperti mengatur area kendali bahasa otak Stendhal ke mode yang berorientasi pada objektivitas dan logika. Stimulus ini mendorong otak melakukan penghambatan kognitif terhadap sentimentalitas subjektif, mendukung penulisan jernih berdasarkan fakta dan struktur logis."
-    },
-    "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項およびヒント",
-      "zh": "注意事项与技巧",
-      "es": "Precauciones y Consejos",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "fr": "Précautions et Conseils",
-      "pt": "Precauções e Dicas",
-      "id": "Peringatan dan Tips"
-    },
-    "cautionDesc": {
-      "ko": "이 습관을 적용할 때 주의할 점은 건조한 텍스트를 읽으면서 내용의 복잡한 이해관계에 너무 몰두하는 것입니다. 법전 조항을 읽으며 복잡한 판례 분석이나 법리 해석에 깊이 빠져들면 전두엽의 인지 자원이 글을 쓰기도 전에 고갈(Cognitive Depletion)될 위험이 있습니다. 이 루틴의 본질은 법률 지식 습득이 아니라 문장 구조의 건조함과 명료한 단어 조합의 규칙성을 시각적으로 인지하는 데 있습니다. 따라서 내용을 깊이 고민하지 않고 군더더기 없는 형태와 짧은 호흡 자체를 가볍게 스캔하듯 읽는 것이 중요합니다.",
-      "en": "When applying this habit, be careful not to get overly immersed in complex contents or analytical legal arguments. Deeply analyzing precedents or statutory interpretations before writing risks depleting prefrontal cognitive resources (Cognitive Depletion). The essence of this routine is not acquiring legal knowledge, but visually perceiving the concise structure and clear word combinations. Thus, lightly scan the unadorned sentence forms without overthinking the text itself.",
-      "ja": "この習慣を適用する際の注意点は、乾燥したテキストを読みながら内容の複雑な利害関係に没頭しすぎないことです。法典の条項を読みながら複雑な判例分析や法理的解釈に深く入り込むと、前頭葉の認知資源が執筆前に枯渇（Cognitive Depletion）するリスクがあります。このルーティンの本質は法律知識の習得ではなく、文章構造の簡潔さと明瞭な単語の組み合わせの規則性を視覚的に認識することにあります。したがって、内容を深く悩まず、無駄のない形式と短いリズム自体を軽くスキャンするように読むことが重要です。",
-      "zh": "应用这一习惯时的注意事项是，切忌在阅读干瘪文本时过分沉溺于内容的复杂案情或逻辑分析。如果在写作前深陷法律条文的判例分析或法理解释，可能会在写作前就耗尽前额叶的认知资源（Cognitive Depletion）。这一习惯的本质不在于汲取法律知识，而在于从视觉上感知句子结构的精炼与词语组合的规范。因此，无需深究含义，轻快地如扫描般感受没有多余修饰的短句节奏即可。",
-      "es": "Al aplicar este hábito, tenga cuidado de no sumergirse demasiado en contenidos complejos o análisis legales. Analizar profundamente precedentes o interpretaciones jurídicas antes de escribir corre el riesgo de agotar los recursos cognitivos prefrontales (Agotamiento Cognitivo). La esencia de esta rutina no es adquirir conocimientos jurídicos, sino percibir visualmente la estructura concisa y las combinaciones claras de palabras. Por lo tanto, escanee de forma ligera las frases sin pensar demasiado en el texto en sí.",
-      "de": "Achten Sie bei der Anwendung dieser Gewohnheit darauf, sich nicht zu sehr in komplexe Inhalte oder rechtliche Analysen zu vertiefen. Wenn Sie sich tief in Präzedenzfälle oder Gesetzesinterpretationen vertiefen, riskieren Sie, dass die präfrontalen kognitiven Ressourcen vor dem Schreiben erschöpft werden (Cognitive Depletion). Das Wesen dieser Routine liegt nicht im Erwerb von Rechtswissen, sondern im visuellen Wahrnehmen der prägnanten Satzstruktur. Scannen Sie die schnörkellose Satzform daher leicht ab, ohne das Thema zu verkopfen.",
-      "fr": "Lors de l'application de cette habitude, veillez à ne pas vous immerger excessivement dans des contenus complexes ou des analyses juridiques. Analyser en profondeur des jurisprudences avant d'écrire risque d'épuiser les ressources cognitives préfrontales (Épuisement Cognitif). L'essence de cette routine n'est pas d'acquérir des connaissances juridiques, mais de percevoir visuellement la structure concise et les combinaisons de mots claires. Lisez donc rapidement les phrases sans trop réfléchir au fond.",
-      "pt": "Ao aplicar esse hábito, tenha cuidado para não se aprofundar demais em conteúdos complexos ou análises jurídicas. Analisar profundamente precedentes ou interpretações legais antes de escrever corre o risco de esgotar os recursos cognitivos pré-frontais (Esgotamento Cognitivo). A essência desta rotina não é adquirir conhecimento jurídico, mas perceber visualmente a estrutura concisa e as combinações claras de palavras. Portanto, escaneie suavemente as frases sem pensar demais no texto.",
-      "id": "Saat menerapkan kebiasaan ini, berhati-hatilah agar tidak terlalu larut dalam analisis isi hukum yang rumit. Menganalisis yurisprudensi atau interpretasi hukum secara mendalam sebelum menulis berisiko menguras sumber daya kognitif prefrontal (Cognitive Depletion). Inti dari rutinitas ini bukanlah memperoleh pengetahuan hukum, melainkan mempersepsikan struktur kalimat yang padat dan lugas secara visual. Oleh karena itu, pindai bentuk kalimat tanpa hiasan ini secara ringan tanpa memikirkan isinya secara berlebihan."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "건조한 정밀 텍스트 선정",
-          "en": "Select Dry and Precise Text",
-          "ja": "乾燥した精密テキストの選定",
-          "zh": "挑选干干脆利落的精密文本",
-          "es": "Seleccionar Texto Seco y Preciso",
-          "de": "Trockenen und präzisen Text auswählen",
-          "fr": "Sélectionner un texte sec et précis",
-          "pt": "Selecionar Texto Seco e Preciso",
-          "id": "Pilih Teks Kering dan Presisi"
-        },
-        "text": {
-          "ko": "자신의 서재나 책상에 감정적 자극이 전혀 없고 오직 정보와 논리만 전달하는 책을 1권 준비합니다. 나폴레옹 법전과 유사한 현대 민법전 조항집, 기계 조립 매뉴얼, 혹은 과학 백과사전의 정의 문단 등이 훌륭한 대안입니다.",
-          "en": "Prepare a book on your desk that conveys only information and logic without emotional stimulation. Modern civil code clauses, assembly manuals, or scientific encyclopedia entries are great alternatives.",
-          "ja": "自分の書斎やデスクに感情的刺激が全くなく、ただ情報と論理のみを伝える本を1冊用意します。ナポレオン法典に類似した現代民法典の条文集、機械の組み立てマニュアル、または科学百科事典の定義文などが素晴らしい代替案です。",
-          "zh": "在书房或桌上准备一本毫无情感刺激、仅传达信息与逻辑的书籍。现代民法典条款集、机械组装说明书或科学百科全书中的定义段落都是极佳的选择。",
-          "es": "Prepare en su escritorio un libro que transmita únicamente información y lógica sin estímulo emocional. Compilaciones del código civil moderno, manuales de ensamblaje o entradas de enciclopedias científicas son excelentes alternativas.",
-          "de": "Bereiten Sie auf Ihrem Schreibtisch ein Buch vor, das ohne emotionale Reize nur Informationen und Logik vermittelt. Moderne Zivilgesetzbücher, Montageanleitungen oder wissenschaftliche Enzyklopädieeinträge sind hervorragende Alternativen.",
-          "fr": "Préparez sur votre bureau un livre qui ne transmet que des informations et de la logique sans stimulation émotionnelle. Les recueils du code civil moderne, les manuels d'assemblage ou les définitions d'encyclopédies scientifiques sont d'excellentes alternatives.",
-          "pt": "Prepare em sua mesa um livro que transmita apenas informação e lógica sem estímulo emocional. Compilações do código civil moderno, manuais de montagem ou verbetes de enciclopédias científicas são excelentes alternativas.",
-          "id": "Siapkan satu buku di meja Anda yang hanya menyampaikan informasi dan logika tanpa stimulasi emosional. Kitab hukum perdata modern, manual perakitan mesin, atau entri ensiklopedia sains adalah alternatif yang sangat baik."
-        }
+    "pubDate": "2026-02-08",
+    "updatedDate": "2026-02-08",
+    "heroImage": "/images/blog/stendhal_civil_code_reading.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "뇌를 식히는 건조한 예열: 스탕달의 프랑스 민법전 독서 습관",
+        "description": "화려한 미사여구를 배제하고 인간 심리의 본질을 해부하듯 서술한 사실주의 문학의 거장 스탕달. 글을 쓰기 전 매일 프랑스 민법전을 읽으며 뇌의 객관성과 논리성을 최고조로 세팅했던 인지적 예열 습관을 분석합니다.",
+        "authority": "Stendhal Civil Code Reading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"문체를 바로잡기 위해 나는 매일 아침 민법전을 두세 페이지씩 읽는다. 법전의 언어는 감정을 섞지 않고 오직 사실과 정의를 명확하게 전달하기 때문이다.\" 📖\n\n프랑스 문학사에서 인간 내면의 허영과 사랑의 심리를 정교하게 포착한 19세기 사실주의 문학의 대가 스탕달(Stendhal, 본명 앙리 벨 Henri Beyle, 1783~1842). 그의 대표작 『적과 흑(Le Rouge et le Noir)』과 『파르마의 승원(La Chartreuse de Parme)』은 군더더기 없는 건조하고 투명한 문체로 오늘날까지 현대 소설의 바이블로 불립니다. 그가 살던 19세기 초반은 감정과 수식어가 흘러넘치는 낭만주의 문학이 풍미하던 시대였으나, 스탕달은 철저하게 수학처럼 정확하고 명료한 문장을 고집했습니다. 그가 매일 아침 펜을 들기 전 반드시 행했던 습관은 다름 아닌 나폴레옹 법전(프랑스 민법전, Code Civil)을 몇 페이지씩 읽는 것이었습니다. 건조하고 차가운 법률 텍스트로 뇌를 예열하여 문장의 감상적 거품을 걷어내고 이성적 사실 묘사에 집중했던 스탕달의 인지적 점화(Priming) 루틴을 상세히 파헤칩니다.",
+        "whyTitle": "언어적 점화 효과와 감상주의 인지 차단",
+        "whyDesc": "인지과학의 점화 효과(Priming Effect)에 따르면, 뇌는 특정 성격의 정보에 먼저 노출되면 이후 수행하는 인지 작업에서 그와 유사한 패턴을 무의식적으로 활성화합니다. 스탕달이 집필 직전 민법전의 딱딱하고 사실적인 문장을 읽은 것은 대뇌 언어 조절 영역을 객관성 및 논리성 지향 모드로 세팅한 것과 같습니다. 이 자극은 대뇌가 주관적 감상이나 불필요한 미사여구를 자발적으로 억제(Cognitive Inhibition)하도록 만들어, 팩트와 논리 구조를 뼈대로 하는 명료한 글쓰기를 지탱하도록 돕습니다.",
+        "cautionTitle": "주의사항 및 팁",
+        "cautionDesc": "이 습관을 적용할 때 주의할 점은 건조한 텍스트를 읽으면서 내용의 복잡한 이해관계에 너무 몰두하는 것입니다. 법전 조항을 읽으며 복잡한 판례 분석이나 법리 해석에 깊이 빠져들면 전두엽의 인지 자원이 글을 쓰기도 전에 고갈(Cognitive Depletion)될 위험이 있습니다. 이 루틴의 본질은 법률 지식 습득이 아니라 문장 구조의 건조함과 명료한 단어 조합의 규칙성을 시각적으로 인지하는 데 있습니다. 따라서 내용을 깊이 고민하지 않고 군더더기 없는 형태와 짧은 호흡 자체를 가볍게 스캔하듯 읽는 것이 중요합니다.",
+        "steps": [
+          {
+            "title": "건조한 정밀 텍스트 선정",
+            "desc": "자신의 서재나 책상에 감정적 자극이 전혀 없고 오직 정보와 논리만 전달하는 책을 1권 준비합니다. 나폴레옹 법전과 유사한 현대 민법전 조항집, 기계 조립 매뉴얼, 혹은 과학 백과사전의 정의 문단 등이 훌륭한 대안입니다."
+          },
+          {
+            "title": "집필 전 10분의 객관성 독서",
+            "desc": "본격적인 글쓰기나 보고서 작성을 시작하기 직전, 타이머를 10분에 맞추고 준비한 텍스트를 정독합니다. 문장 안에 형용사와 수식어가 얼마나 최소화되어 있는지, 주어와 동사가 어떻게 직관적으로 연결되는지 관찰하며 읽습니다."
+          },
+          {
+            "title": "중단 없는 본 작업 전환",
+            "desc": "10분의 독서가 끝나면 다른 잡념이 끼어들거나 스마트폰을 보기 전에 책을 덮고 즉각 자신이 작성해야 할 원고나 기획서를 집필합니다. 법전의 메마른 호흡이 뇌에 점화된 상태를 유지하며 글을 거침없이 써 내려갑니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "마케팅 문구나 감성적인 에세이를 써야 할 때도 법전을 읽는 것이 도움이 되나요?",
+            "answer": "감성적이고 화려한 설득 문장을 써야 할 때는 법전 대신 자신이 닮고 싶은 매력적인 광고 카피나 감각적인 수필을 점화 텍스트로 사용하는 것이 좋습니다. 스탕달 습관의 핵심은 쓰고자 하는 결과물의 톤앤매너에 어울리는 최적의 텍스트로 뇌를 먼저 점화(Priming)시키는 데 있습니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "집필 전 10분의 객관성 독서",
-          "en": "10 Minutes of Objective Reading Before Writing",
-          "ja": "執筆前10分間の客観的読書",
-          "zh": "动笔前进行10分钟的客观阅读",
-          "es": "10 Minutos de Lectura Objetiva Antes de Escribir",
-          "de": "10 Minuten objektives Lesen vor dem Schreiben",
-          "fr": "10 minutes de lecture objective avant d'écrire",
-          "pt": "10 Minutos de Leitura Objetiva Antes de Escrever",
-          "id": "10 Menit Membaca Objektif Sebelum Menulis"
-        },
-        "text": {
-          "ko": "본격적인 글쓰기나 보고서 작성을 시작하기 직전, 타이머를 10분에 맞추고 준비한 텍스트를 정독합니다. 문장 안에 형용사와 수식어가 얼마나 최소화되어 있는지, 주어와 동사가 어떻게 직관적으로 연결되는지 관찰하며 읽습니다.",
-          "en": "Right before writing or drafting a report, set a timer for 10 minutes and read the text. Observe how adjectives and modifiers are minimized and how subjects connect intuitively to verbs.",
-          "ja": "本格的な執筆やレポート作成を始める直前、タイマーを10分にセットして準備したテキストを精読します。文章の中に形容詞や修飾語がいかに最小化されているか、主語と動詞どのように直感的に連結しているかを観察しながら読みます。",
-          "zh": "在开始正式写作或撰写报告前，设置10分钟计时器并精读准备好的文本。观察句子中形容词与修饰语如何做到最少化，以及主语和动词如何直观连接。",
-          "es": "Justo antes de empezar a escribir o redactar un informe, ponga un temporizador de 10 minutos y lea el texto. Observe cómo se minimizan los adjetivos y conectores y cómo los sujetos se unen intuitivamente a los verbos.",
-          "de": "Stellen Sie direkt vor dem Schreiben oder Verfassen eines Berichts einen Timer auf 10 Minuten und lesen Sie den Text. Beobachten Sie, wie Adjektive minimiert werden und wie Subjekte intuitiv mit Verben verknüpft sind.",
-          "fr": "Juste avant d'écrire ou de rédiger un rapport, réglez un minuteur sur 10 minutes et lisez le texte. Observez comment les adjectifs sont minimisés et comment les sujets se connectent intuitivement aux verbes.",
-          "pt": "Antes de começar a escrever ou redigir um relatório, defina um temporizador para 10 minutos e leia o texto. Observe como adjetivos são minimizados e como os sujeitos se conectam intuitivamente aos verbos.",
-          "id": "Tepat sebelum mulai menulis atau menyusun laporan, atur pengatur waktu selama 10 menit dan baca teks tersebut. Amati bagaimana kata sifat dan kualifikasi diminimalkan serta bagaimana subjek terhubung secara intuitif dengan kata kerja."
-        }
+      "en": {
+        "title": "Dry Pre-Heating to Cool the Brain: Stendhal's French Civil Code Reading Habit",
+        "description": "Stendhal, a master of realist literature who dissected human psychology without ornate rhetoric. We analyze his cognitive warm-up habit of reading the French Civil Code daily before writing to maximize objectivity and logic.",
+        "authority": "Stendhal Civil Code Reading historical biography and autobiographical records & Cognitive Neuroscience research",
+        "intro": "\"To form my style, I read two or three pages of the Civil Code every morning. For the language of the code does not mix emotion; it clearly conveys only facts and definitions.\" 📖\n\nStendhal (real name Henri Beyle, 1783–1842) was a 19th-century master of French realist literature who subtly captured vanity and the psychology of love. His masterpieces, 'The Red and the Black' (Le Rouge et le Noir) and 'The Charterhouse of Parma' (La Chartreuse de Parme), are praised as bibles of modern fiction due to their austere and lucid prose style. While early 19th-century literature was dominated by emotional Romanticism, Stendhal insisted on sentences as precise and clear as mathematics. Every morning before picking up his pen, he made it a habit to read several pages of the Napoleonic Code (French Civil Code). By warming up his brain with dry, cold legal texts, he eliminated sentimental fluff and focused on rational fact-based description.",
+        "whyTitle": "Linguistic Priming Effect and Inhibition of Sentimental Cognition",
+        "whyDesc": "According to the Priming Effect in cognitive science, when the brain is exposed to information with specific characteristics, it unconsciously activates similar patterns in subsequent cognitive tasks. Stendhal reading the dry and factual sentences of the Civil Code right before writing was equivalent to setting the language control area of his brain to an objectivity- and logic-oriented mode. This stimulus allows the brain to voluntarily practice cognitive inhibition against subjective sentimentality, supporting clear writing built on facts and logical structure.",
+        "cautionTitle": "Precautions and Tips",
+        "cautionDesc": "When applying this habit, be careful not to get overly immersed in complex contents or analytical legal arguments. Deeply analyzing precedents or statutory interpretations before writing risks depleting prefrontal cognitive resources (Cognitive Depletion). The essence of this routine is not acquiring legal knowledge, but visually perceiving the concise structure and clear word combinations. Thus, lightly scan the unadorned sentence forms without overthinking the text itself.",
+        "steps": [
+          {
+            "title": "Select Dry and Precise Text",
+            "desc": "Prepare a book on your desk that conveys only information and logic without emotional stimulation. Modern civil code clauses, assembly manuals, or scientific encyclopedia entries are great alternatives."
+          },
+          {
+            "title": "10 Minutes of Objective Reading Before Writing",
+            "desc": "Right before writing or drafting a report, set a timer for 10 minutes and read the text. Observe how adjectives and modifiers are minimized and how subjects connect intuitively to verbs."
+          },
+          {
+            "title": "Seamless Transition to Main Task",
+            "desc": "Once the 10-minute reading ends, close the book immediately before checking your phone or allowing distractions, and start writing your draft. Maintain the dry pace primed in your brain to write continuously."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does reading the Civil Code help when writing marketing copy or emotional essays?",
+            "answer": "When writing persuasive or emotional copy, it is better to use attractive advertising text or evocative essays as priming text instead of legal codes. The core of Stendhal's habit is priming the brain with text that matches the intended tone and manner of the output."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "중단 없는 본 작업 전환",
-          "en": "Seamless Transition to Main Task",
-          "ja": "中断のない本作業への転換",
-          "zh": "无缝切换至主要写作任务",
-          "es": "Transición Ininterrumpida a la Tarea Principal",
-          "de": "Nahtloser Übergang zur Hauptaufgabe",
-          "fr": "Transition sans interruption vers la tâche principale",
-          "pt": "Transição Ininterrupta para a Tarefa Principal",
-          "id": "Transisi Tanpa Henti ke Tugas Utama"
-        },
-        "text": {
-          "ko": "10분의 독서가 끝나면 다른 잡념이 끼어들거나 스마트폰을 보기 전에 책을 덮고 즉각 자신이 작성해야 할 원고나 기획서를 집필합니다. 법전의 메마른 호흡이 뇌에 점화된 상태를 유지하며 글을 거침없이 써 내려갑니다.",
-          "en": "Once the 10-minute reading ends, close the book immediately before checking your phone or allowing distractions, and start writing your draft. Maintain the dry pace primed in your brain to write continuously.",
-          "ja": "10分間の読書が終わったら、他の雑念が入ったりスマートフォンを見たりする前に本を閉じ、すぐに自分が作成すべき原稿や企画書を執筆します。法典の乾いた呼吸が脳にプライミングされた状態を維持しながら、文章を迷いなく書き進めます。",
-          "zh": "10分钟阅读结束后，在杂念侵入或查看手机之前立即合上书本，动笔撰写你的稿件或策划案。保持大脑被法典干练节奏启动的状态，流畅地挥毫疾书。",
-          "es": "Una vez finalizada la lectura de 10 minutos, cierre el libro inmediatamente antes de revisar su teléfono y comience a escribir su manuscrito. Mantenga la sobriedad imprimada en su cerebro para escribir con fluidez.",
-          "de": "Schließen Sie nach den 10 Minuten das Buch sofort, bevor Sie aufs Smartphone schauen, und beginnen Sie mit Ihrem Entwurf. Nutzen Sie den im Gehirn verankerten nüchternen Rhythmus, um zügig zu schreiben.",
-          "fr": "Une fois la lecture de 10 minutes terminée, fermez le livre immédiatement avant de regarder votre téléphone et commencez à rédiger votre projet. Conservez le rythme sober amorcé dans votre cerveau pour écrire sans hésitation.",
-          "pt": "Assim que a leitura de 10 minutos terminar, feche o livro imediatamente antes de olhar o celular e comece a escrever seu rascunho. Mantenha o ritmo sóbrio preparado em seu cérebro para escrever continuamente.",
-          "id": "Setelah 10 menit membaca selesai, segera tutup buku sebelum memeriksa ponsel Anda dan mulailah menulis draf Anda. Pertahankan irama lugas yang telah terpriming di otak Anda untuk menulis tanpa henti."
-        }
+      "zh": {
+        "title": "冷却大脑的干燥预热：斯汤达阅读法国民法典的习惯",
+        "description": "斯汤达是写实主义文学大师，他抛弃华丽修辞，精细解剖人类心理本质。本文分析他在写作前每天阅读法国民法典、将大脑的客观性与逻辑性提升至极致的认知预热习惯。",
+        "authority": "斯汤达阅读民法典历史评传及自传记录考证与认知神经科学研究",
+        "intro": "“为了纠正和规范我的文风，我每天早上都会读两三页民法典。因为法律的语言不掺杂情感，只明确传达事实与定义。” 📖\n\n斯汤达（Stendhal，本名亨利·贝尔 Henri Beyle，1783–1842）是19世纪法国写实主义文学的大师，精准捕捉了人类内心的虚荣与爱情心理。他的代表作《红与黑》（Le Rouge et le Noir）和《帕尔马修道院》（La Chartreuse de Parme）凭借干练透明的文风，至今仍被奉为现代小说的经典圣经。在他生活的19世纪初，充斥着情感与修饰词的浪漫主义文学大行其道，但斯汤达始终坚持如数学般精准严谨的语句。他每天清晨动笔前必做的习惯，正是阅读数页拿破仑法典（法国民法典）。通过干瘪冷峻的法律文本预热大脑，剔除文字中的感伤泡沫，专注于理性的事实描写。",
+        "whyTitle": "语言启动效应与感伤主义认知阻断",
+        "whyDesc": "根据认知科学中的启动效应（Priming Effect），当大脑先接触特定性质的信息时，在接下来的认知任务中会自动无意识地激活相似模式。斯汤达在写作前阅读民法典刻板而客观的句子，相当于将大脑的语言调节区域设置为客观看待与逻辑导向模式。这种刺激促使大脑自发进行认知抑制（Cognitive Inhibition），主动压制主观感伤与多余修辞，从而支撑起以事实和逻辑结构为骨架的清晰写作。",
+        "cautionTitle": "注意事项与技巧",
+        "cautionDesc": "应用这一习惯时的注意事项是，切忌在阅读干瘪文本时过分沉溺于内容的复杂案情或逻辑分析。如果在写作前深陷法律条文的判例分析或法理解释，可能会在写作前就耗尽前额叶的认知资源（Cognitive Depletion）。这一习惯的本质不在于汲取法律知识，而在于从视觉上感知句子结构的精炼与词语组合的规范。因此，无需深究含义，轻快地如扫描般感受没有多余修饰的短句节奏即可。",
+        "steps": [
+          {
+            "title": "挑选干干脆利落的精密文本",
+            "desc": "在书房或桌上准备一本毫无情感刺激、仅传达信息与逻辑的书籍。现代民法典条款集、机械组装说明书或科学百科全书中的定义段落都是极佳的选择。"
+          },
+          {
+            "title": "动笔前进行10分钟的客观阅读",
+            "desc": "在开始正式写作或撰写报告前，设置10分钟计时器并精读准备好的文本。观察句子中形容词与修饰语如何做到最少化，以及主语和动词如何直观连接。"
+          },
+          {
+            "title": "无缝切换至主要写作任务",
+            "desc": "10分钟阅读结束后，在杂念侵入或查看手机之前立即合上书本，动笔撰写你的稿件或策划案。保持大脑被法典干练节奏启动的状态，流畅地挥毫疾书。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "在撰写营销文案或感性散文时，阅读法典也有帮助吗？",
+            "answer": "当需要撰写具有说服力或富有情感色彩的文案时，建议使用有吸引力的广告文案或抒情散文作为启动文本，而非法律条文。斯汤达习惯的核心在于，先用与目标产出物的调性（Tone & Manner）相匹配的最佳文本来启动（Priming）大脑。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "脳を冷やす乾燥した予熱：スタンダールのフランス民法典読書習慣",
+        "description": "華麗な修辞を排し、人間心理の本質を解剖するように描いた写実主義文学の巨匠スタンダール。執筆前に毎日フランス民法典を読み、脳の客観性と論理性を最高潮に設定した認知的な予熱習慣を分析します。",
+        "authority": "スタンダール民法典読書の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「文章のスタイルを整えるため、私は毎朝民法典を2〜3ページずつ読む。法典の言葉は感情を交えず、ただ事実と定義を明確に伝えるからだ。」 📖\n\nフランス文学史上、人間の見栄と愛の心理を最も精妙に捉えた19世紀写実主義文学の巨匠スタンダール（本名アンリ・ベール、1783〜1842）。彼の代表作『赤と黒』や『パルムの僧院』は、余計な飾りのない乾燥した透明な文体で、今日まで現代小説のバイブルと称されています。彼が活躍した19世紀初頭は感情と修辞があふれる浪漫主義文学が全盛の時代でしたが、スタンダールは数学のように正確で明瞭な文章を貫きました。彼が毎朝ペンを取る前に必ず行っていた習慣こそ、ナポレオン法典（フランス民法典）を数ページ読むことでした。乾燥した冷たい法律テキストで脳を予熱し、文章の感傷的な泡を取り除いて理知的な事実描写に集中したスタンダールの認知的プライミング（Priming）ルーティンを詳しく紐解きます。",
+        "whyTitle": "言語的プライミング効果と感傷的認知の遮断",
+        "whyDesc": "認知科学のプライミング効果（Priming Effect）によれば、脳は特定の性質の情報に先に露出すると、その後の認知作業で同様のパターンを無意識に活性化します。スタンダールが執筆直前に民法典の硬く事実に基づいた文章を読んだのは、大脳の言語調節領域を客観性および論理性を志向するモードに設定したことと同じです。この刺激は大脳が主観的な感傷や不要な修辞を自発的に抑制（Cognitive Inhibition）するように促し、ファクトと論理構造を骨組みとする明瞭な執筆を支えます。",
+        "cautionTitle": "注意事項およびヒント",
+        "cautionDesc": "この習慣を適用する際の注意点は、乾燥したテキストを読みながら内容の複雑な利害関係に没頭しすぎないことです。法典の条項を読みながら複雑な判例分析や法理的解釈に深く入り込むと、前頭葉の認知資源が執筆前に枯渇（Cognitive Depletion）するリスクがあります。このルーティンの本質は法律知識の習得ではなく、文章構造の簡潔さと明瞭な単語の組み合わせの規則性を視覚的に認識することにあります。したがって、内容を深く悩まず、無駄のない形式と短いリズム自体を軽くスキャンするように読むことが重要です。",
+        "steps": [
+          {
+            "title": "乾燥した精密テキストの選定",
+            "desc": "自分の書斎やデスクに感情的刺激が全くなく、ただ情報と論理のみを伝える本を1冊用意します。ナポレオン法典に類似した現代民法典の条文集、機械の組み立てマニュアル、または科学百科事典の定義文などが素晴らしい代替案です。"
+          },
+          {
+            "title": "執筆前10分間の客観的読書",
+            "desc": "本格的な執筆やレポート作成を始める直前、タイマーを10分にセットして準備したテキストを精読します。文章の中に形容詞や修飾語がいかに最小化されているか、主語と動詞どのように直感的に連結しているかを観察しながら読みます。"
+          },
+          {
+            "title": "中断のない本作業への転換",
+            "desc": "10分間の読書が終わったら、他の雑念が入ったりスマートフォンを見たりする前に本を閉じ、すぐに自分が作成すべき原稿や企画書を執筆します。法典の乾いた呼吸が脳にプライミングされた状態を維持しながら、文章を迷いなく書き進めます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "マーケティングコピーや感情的なエッセイを書く際にも法典を読むことが役に立ちますか？",
+            "answer": "感情的で華やかな説得文章を書く必要がある時は、法典の代わりに自分が手本にしたい魅力的な広告コピーや感性的なエッセイをプライミングテキストとして使用するのが良いでしょう。スタンダールの習慣の核心は、書こうとする成果物のトーン＆マナーに合った最適なテキストで脳をあらかじめプライミング（Priming）させることにあります。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Precalentamiento seco para enfriar el cerebro: El hábito de Stendhal de leer el Código Civil francés",
+        "description": "Stendhal, un maestro de la literatura realista que diseccionó la psicología humana sin retórica ornada. Analizamos su hábito de calentamiento cognitivo de leer el Código Civil francés diariamente antes de escribir para maximizar la objetividad y la lógica.",
+        "authority": "Investigación histórica biográfica y autobiográfica sobre la lectura del Código Civil por Stendhal e investigación en Neurociencia Cognitiva",
+        "intro": "\"Para formar mi estilo, leo dos o tres páginas del Código Civil cada mañana. Porque el lenguaje del código no mezcla emociones; transmite de manera clara únicamente hechos y definiciones.\" 📖\n\nStendhal (nombre real Henri Beyle, 1783–1842) fue un maestro del realismo literario francés del siglo XIX que capturó con precisión la vanidad y la psicología del amor. Sus obras maestras, 'Rojo y negro' (Le Rouge et le Noir) y 'La cartuja de Parma' (La Chartreuse de Parme), son aclamadas como biblias de la narrativa moderna debido a su estilo sobrio y lúcido. Mientras que la literatura de principios del siglo XIX estaba dominada por el romanticismo emocional, Stendhal insistía en oraciones tan precisas como las matemáticas. Cada mañana, antes de tomar la pluma, leía varias páginas del Código Napoleónico (Código Civil francés). Al calentar su cerebro con textos legales secos y fríos, eliminaba la paja sentimental y se concentraba en descripciones racionales basadas en hechos.",
+        "whyTitle": "Efecto de cebado lingüístico y bloqueo de la cognición sentimental",
+        "whyDesc": "Según el Efecto de Cebado (Priming Effect) en ciencia cognitiva, cuando el cerebro se expone previamente a información con características específicas, activa de manera inconsciente patrones similares en tareas cognitivas posteriores. Leer las oraciones secas y fácticas del Código Civil justo antes de escribir equivalía a configurar el área de control del lenguaje de Stendhal en un modo orientado a la objetividad y la lógica. Este estímulo permite al cerebro ejercer inhibición cognitiva contra el sentimentalismo subjetivo, respaldando una escritura clara basada en hechos y estructura lógica.",
+        "cautionTitle": "Precauciones y Consejos",
+        "cautionDesc": "Al aplicar este hábito, tenga cuidado de no sumergirse demasiado en contenidos complejos o análisis legales. Analizar profundamente precedentes o interpretaciones jurídicas antes de escribir corre el riesgo de agotar los recursos cognitivos prefrontales (Agotamiento Cognitivo). La esencia de esta rutina no es adquirir conocimientos jurídicos, sino percibir visualmente la estructura concisa y las combinaciones claras de palabras. Por lo tanto, escanee de forma ligera las frases sin pensar demasiado en el texto en sí.",
+        "steps": [
+          {
+            "title": "Seleccionar Texto Seco y Preciso",
+            "desc": "Prepare en su escritorio un libro que transmita únicamente información y lógica sin estímulo emocional. Compilaciones del código civil moderno, manuales de ensamblaje o entradas de enciclopedias científicas son excelentes alternativas."
+          },
+          {
+            "title": "10 Minutos de Lectura Objetiva Antes de Escribir",
+            "desc": "Justo antes de empezar a escribir o redactar un informe, ponga un temporizador de 10 minutos y lea el texto. Observe cómo se minimizan los adjetivos y conectores y cómo los sujetos se unen intuitivamente a los verbos."
+          },
+          {
+            "title": "Transición Ininterrumpida a la Tarea Principal",
+            "desc": "Una vez finalizada la lectura de 10 minutos, cierre el libro inmediatamente antes de revisar su teléfono y comience a escribir su manuscrito. Mantenga la sobriedad imprimada en su cerebro para escribir con fluidez."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Leer el Código Civil ayuda cuando se redactan textos publicitarios u ensayos emocionales?",
+            "answer": "Cuando necesite escribir textos persuasivos o emocionales, es mejor usar como texto de cebado copys publicitarios atractivos o ensayos evocadores en lugar de códigos legales. El núcleo del hábito de Stendhal es cebar el cerebro con textos que coincidan con el tono deseado del resultado."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Préchauffage à sec pour refroidir le cerveau : L'habitude de Stendhal de lire le Code civil français",
+        "description": "Stendhal, un maître de la littérature réaliste qui a disséqué la psychologie humaine sans rhétorique ornée. Nous analysons son habitude de préchauffage cognitif consistant à lire le Code civil français chaque jour avant d'écrire pour maximiser l'objectivité et la logique.",
+        "authority": "Étude biographique historique et données autobiographiques sur la lecture du Code civil par Stendhal & recherche en neurosciences cognitives",
+        "intro": "« Pour former mon style, je lis chaque matin deux ou trois pages du Code civil. Car la langue du code ne mêle pas d'émotion ; elle ne transmet clairement que des faits et des définitions. » 📖\n\nStendhal (de son vrai nom Henri Beyle, 1783–1842) était un maître de la littérature réaliste française du XIXe siècle qui a capturé avec une grande finesse la vanité et la psychologie amoureuse. Ses chefs-d'œuvre, 'Le Rouge et le Noir' et 'La Chartreuse de Parme', sont considérés comme des bibles du roman moderne grâce à leur style sobre et transparent. Alors que le début du XIXe siècle était dominé par le romantisme émotionnel, Stendhal exigeait des phrases aussi précises que des mathématiques. Chaque matin avant de prendre la plume, il lisait plusieurs pages du Code Napoléon (Code civil français). En préchauffant son cerveau avec des textes juridiques secs et froids, il éliminait le superflu sentimental.",
+        "whyTitle": "Effet d'amorçage linguistique et inhibition de la cognition sentimentale",
+        "whyDesc": "Selon l'effet d'amorçage (Priming Effect) en sciences cognitives, lorsque le cerveau est exposé au préalable à des informations spécifiques, il active inconscientement des schémas similaires dans les tâches cognitives ultérieures. Lire les phrases sèches et factuelles du Code civil juste avant d'écrire équivalait à régler la zone de contrôle du langage de Stendhal sur un mode orienté vers l'objectivité et la logique. Ce stimulus permet au cerveau d'exercer une inhibition cognitive contre la sentimentalité subjective, soutenant une écriture claire fondée sur des faits.",
+        "cautionTitle": "Précautions et Conseils",
+        "cautionDesc": "Lors de l'application de cette habitude, veillez à ne pas vous immerger excessivement dans des contenus complexes ou des analyses juridiques. Analyser en profondeur des jurisprudences avant d'écrire risque d'épuiser les ressources cognitives préfrontales (Épuisement Cognitif). L'essence de cette routine n'est pas d'acquérir des connaissances juridiques, mais de percevoir visuellement la structure concise et les combinaisons de mots claires. Lisez donc rapidement les phrases sans trop réfléchir au fond.",
+        "steps": [
+          {
+            "title": "Sélectionner un texte sec et précis",
+            "desc": "Préparez sur votre bureau un livre qui ne transmet que des informations et de la logique sans stimulation émotionnelle. Les recueils du code civil moderne, les manuels d'assemblage ou les définitions d'encyclopédies scientifiques sont d'excellentes alternatives."
+          },
+          {
+            "title": "10 minutes de lecture objective avant d'écrire",
+            "desc": "Juste avant d'écrire ou de rédiger un rapport, réglez un minuteur sur 10 minutes et lisez le texte. Observez comment les adjectifs sont minimisés et comment les sujets se connectent intuitivement aux verbes."
+          },
+          {
+            "title": "Transition sans interruption vers la tâche principale",
+            "desc": "Une fois la lecture de 10 minutes terminée, fermez le livre immédiatement avant de regarder votre téléphone et commencez à rédiger votre projet. Conservez le rythme sober amorcé dans votre cerveau pour écrire sans hésitation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La lecture du Code civil aide-t-elle lors de la rédaction de textes publicitaires ou d'essais émotionnels ?",
+            "answer": "Lorsque vous devez rédiger des textes persuasifs ou émotionnels, il est préférable d'utiliser de courts textes publicitaires attractifs ou des essais inspirants comme texte d'amorçage. Le cœur de l'habitude de Stendhal est d'amorcer le cerveau avec des textes adaptés au ton recherché."
+          }
+        ]
+      },
+      "de": {
+        "title": "Trockenes Aufwärmen zur Abkühlung des Gehirns: Stendhals Gewohnheit, das französische Zivilgesetzbuch zu lesen",
+        "description": "Stendhal, ein Meister der realistischen Literatur, der die menschliche Psychologie ohne schnörkelhafte Rhetorik analysierte. Wir analysieren seine kognitive Aufwärmgewohnheit, täglich vor dem Schreiben das französische Zivilgesetzbuch zu lesen, um Objektivität und Logik zu maximieren.",
+        "authority": "Historische Biographieschriften und autobiographische Aufzeichnungen zu Stendhals Zivilgesetzbuch-Lektüre & Kognitive Neurowissenschaften",
+        "intro": "„Um meinen Stil zu schulen, lese ich jeden Morgen zwei oder drei Seiten des Zivilgesetzbuches. Denn die Sprache des Gesetzbuches mischt keine Emotionen; sie vermittelt klar nur Fakten und Definitionen.“ 📖\n\nStendhal (bürgerlich Henri Beyle, 1783–1842) war ein Meister der französischen realistischen Literatur des 19. Jahrhunderts, der die Eitelkeit und die Psychologie der Liebe präzise einfing. Seine Meisterwerke „Rot und Schwarz“ (Le Rouge et le Noir) und „Die Kartause von Parma“ (La Chartreuse de Parme) werden wegen ihres nüchternen und transparenten Stils bis heute als Bibeln der modernen Belletristik gefeiert. Während die Literatur des frühen 19. Jahrhunderts von emotionaler Romantik geprägt war, bestand Stendhal auf Sätzen, die so präzise wie Mathematik waren. Jeden Morgen vor dem Schreiben las er mehrere Seiten des Code Napoléon (Französisches Zivilgesetzbuch). Indem er sein Gehirn mit trockenen Gesetzestexten aufwärmte, eliminierte er emotionalen Ballast.",
+        "whyTitle": "Linguistischer Priming-Effekt und Blockierung emotionaler Kognition",
+        "whyDesc": "Gemäß dem Priming-Effekt in der Kognitionswissenschaft aktiviert das Gehirn nach der Exposition gegenüber spezifischen Informationen unbewusst ähnliche Muster bei nachfolgenden kognitiven Aufgaben. Dass Stendhal direkt vor dem Schreiben die trockenen und faktischen Sätze des Zivilgesetzbuches las, entsprach einer Einstellung der Sprachkontrollregion des Gehirns auf einen objektivitäts- und logikorientierten Modus. Dieser Reiz veranlasst das Gehirn zur kognitiven Inhibition subjektiver Emotionalität und unterstützt klares Schreiben auf Basis von Fakten.",
+        "cautionTitle": "Vorsichtsmaßnahmen und Tipps",
+        "cautionDesc": "Achten Sie bei der Anwendung dieser Gewohnheit darauf, sich nicht zu sehr in komplexe Inhalte oder rechtliche Analysen zu vertiefen. Wenn Sie sich tief in Präzedenzfälle oder Gesetzesinterpretationen vertiefen, riskieren Sie, dass die präfrontalen kognitiven Ressourcen vor dem Schreiben erschöpft werden (Cognitive Depletion). Das Wesen dieser Routine liegt nicht im Erwerb von Rechtswissen, sondern im visuellen Wahrnehmen der prägnanten Satzstruktur. Scannen Sie die schnörkellose Satzform daher leicht ab, ohne das Thema zu verkopfen.",
+        "steps": [
+          {
+            "title": "Trockenen und präzisen Text auswählen",
+            "desc": "Bereiten Sie auf Ihrem Schreibtisch ein Buch vor, das ohne emotionale Reize nur Informationen und Logik vermittelt. Moderne Zivilgesetzbücher, Montageanleitungen oder wissenschaftliche Enzyklopädieeinträge sind hervorragende Alternativen."
+          },
+          {
+            "title": "10 Minuten objektives Lesen vor dem Schreiben",
+            "desc": "Stellen Sie direkt vor dem Schreiben oder Verfassen eines Berichts einen Timer auf 10 Minuten und lesen Sie den Text. Beobachten Sie, wie Adjektive minimiert werden und wie Subjekte intuitiv mit Verben verknüpft sind."
+          },
+          {
+            "title": "Nahtloser Übergang zur Hauptaufgabe",
+            "desc": "Schließen Sie nach den 10 Minuten das Buch sofort, bevor Sie aufs Smartphone schauen, und beginnen Sie mit Ihrem Entwurf. Nutzen Sie den im Gehirn verankerten nüchternen Rhythmus, um zügig zu schreiben."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Hilft das Lesen des Zivilgesetzbuches auch beim Verfassen von Werbetexten oder emotionalen Essays?",
+            "answer": "Wenn Sie überzeugende oder emotionale Texte schreiben müssen, verwenden Sie anstelle von Gesetzestexten attraktive Werbetexte oder emotionale Essays als Priming-Text. Der Kern von Stendhals Gewohnheit besteht darin, das Gehirn mit Texten vorzubereiten, die dem gewünschten Ton entsprechen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Pré-aquecimento seco para esfriar o cérebro: O hábito de Stendhal de ler o Código Civil francês",
+        "description": "Stendhal, um mestre da literatura realista que dissecou a psicologia humana sem retórica ornamentada. Analisamos seu hábito de aquecimento cognitivo de ler o Código Civil francês diariamente antes de escrever para maximizar a objetividade e a lógica.",
+        "authority": "Pesquisa histórica biográfica e registros autobiográficos sobre a leitura do Código Civil por Stendhal & pesquisa em Neurociência Cognitiva",
+        "intro": "\"Para formar meu estilo, leio duas ou três páginas do Código Civil todas as manhãs. Porque a linguagem do código não mistura emoção; transmite claramente apenas fatos e definições.\" 📖\n\nStendhal (nome real Henri Beyle, 1783–1842) foi um mestre da literatura realista francesa do século XIX que capturou com precisão a vaidade e a psicologia do amor. Suas obras-primas, 'O Vermelho e o Negro' (Le Rouge et le Noir) e 'A Cartuxa de Parma' (La Chartreuse de Parme), são aclamadas como bíblias da ficção moderna devido ao seu estilo austero e lúcido. Enquanto a literatura do início do século XIX era dominada pelo romantismo emocional, Stendhal calculatedly insistia em frases tão precisas quanto a matemática. Todas as manhãs, antes de pegar a pena, ele lia várias páginas do Código Napoleônico (Código Civil Francês). Ao aquecer seu cérebro com textos jurídicos secos e frios, ele eliminava exageros sentimentais.",
+        "whyTitle": "Efeito de priming linguístico e bloqueio da cognição sentimental",
+        "whyDesc": "De acordo com o Efeito de Priming na ciência cognitiva, quando o cérebro é exposto previamente a informações com características específicas, ele ativa inconscientemente padrões semelhantes em tarefas cognitivas subsequentes. Ler as frases secas e fáticas do Código Civil antes de escrever equivalia a configurar a área de controle da linguagem de Stendhal em um modo orientado à objetividade e à lógica. Esse estímulo permite ao cérebro exercer inibição cognitiva contra o sentimentalismo subjetivo, apoiando uma escrita clara baseada em fatos.",
+        "cautionTitle": "Precauções e Dicas",
+        "cautionDesc": "Ao aplicar esse hábito, tenha cuidado para não se aprofundar demais em conteúdos complexos ou análises jurídicas. Analisar profundamente precedentes ou interpretações legais antes de escrever corre o risco de esgotar os recursos cognitivos pré-frontais (Esgotamento Cognitivo). A essência desta rotina não é adquirir conhecimento jurídico, mas perceber visualmente a estrutura concisa e as combinações claras de palavras. Portanto, escaneie suavemente as frases sem pensar demais no texto.",
+        "steps": [
+          {
+            "title": "Selecionar Texto Seco e Preciso",
+            "desc": "Prepare em sua mesa um livro que transmita apenas informação e lógica sem estímulo emocional. Compilações do código civil moderno, manuais de montagem ou verbetes de enciclopédias científicas são excelentes alternativas."
+          },
+          {
+            "title": "10 Minutos de Leitura Objetiva Antes de Escrever",
+            "desc": "Antes de começar a escrever ou redigir um relatório, defina um temporizador para 10 minutos e leia o texto. Observe como adjetivos são minimizados e como os sujeitos se conectam intuitivamente aos verbos."
+          },
+          {
+            "title": "Transição Ininterrupta para a Tarefa Principal",
+            "desc": "Assim que a leitura de 10 minutos terminar, feche o livro imediatamente antes de olhar o celular e comece a escrever seu rascunho. Mantenha o ritmo sóbrio preparado em seu cérebro para escrever continuamente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ler o Código Civil ajuda ao escrever textos publicitários ou ensaios emocionais?",
+            "answer": "Quando você precisa escrever textos persuasivos ou emocionais, é melhor usar copys publicitárias atraentes ou ensaios evocativos como texto de priming, em vez de códigos legais. O cerne do hábito de Stendhal é preparar o cérebro com textos adequados ao tom desejado."
+          }
+        ]
+      },
+      "id": {
+        "title": "Pemanasan Kering untuk Mendinginkan Otak: Kebiasaan Stendhal Membaca Kitab Undang-Undang Hukum Perdata Prancis",
+        "description": "Stendhal, seorang maestro sastra realis yang membedah psikologi manusia tanpa retorika berlebihan. Kami menganalisis kebiasaan pemanasan kognitifnya dengan membaca Kitab Undang-Undang Hukum Perdata Prancis setiap hari sebelum menulis untuk memaksimalkan objektivitas dan logika.",
+        "authority": "Riset biografi historis dan catatan autobiografi membaca Hukum Perdata oleh Stendhal & penelitian Ilmu Saraf Kognitif",
+        "intro": "\"Untuk membentuk gaya bahasa saya, saya membaca dua atau tiga halaman Kitab Undang-Undang Hukum Perdata setiap pagi. Karena bahasa undang-undang tidak mencampuradukkan emosi; ia secara jelas hanya menyampaikan fakta dan definisi.\" 📖\n\nStendhal (nama asli Henri Beyle, 1783–1842) adalah maestro sastra realis Prancis abad ke-19 yang secara cermat menangkap kesombongan dan psikologi cinta. Karya besarnya, 'The Red and the Black' (Le Rouge et le Noir) dan 'The Charterhouse of Parma' (La Chartreuse de Parme), dipuji sebagai kitab tulisan fiksi modern berkat gaya bahasanya yang lugas dan jernih. Ketika sastra awal abad ke-19 didominasi oleh Romantisme emosional, Stendhal bersikeras pada kalimat yang presisi seperti matematika. Setiap pagi sebelum menulis, ia selalu membaca beberapa halaman Kode Napoleon (Hukum Perdata Prancis). Dengan memanaskan otaknya menggunakan teks hukum yang kering dan dingin, ia mengeliminasi bahasa emosional yang berlebihan.",
+        "whyTitle": "Efek Priming Kebahasaan dan Penghambatan Kognisi Sentimental",
+        "whyDesc": "Menurut Efek Priming dalam ilmu kognitif, ketika otak terlebih dahulu terpapar informasi dengan karakteristik tertentu, otak secara tidak sadar mengaktifkan pola serupa dalam tugas kognitif berikutnya. Membaca kalimat-kalimat kaku dan faktual dari Hukum Perdata sebelum menulis sama seperti mengatur area kendali bahasa otak Stendhal ke mode yang berorientasi pada objektivitas dan logika. Stimulus ini mendorong otak melakukan penghambatan kognitif terhadap sentimentalitas subjektif, mendukung penulisan jernih berdasarkan fakta dan struktur logis.",
+        "cautionTitle": "Peringatan dan Tips",
+        "cautionDesc": "Saat menerapkan kebiasaan ini, berhati-hatilah agar tidak terlalu larut dalam analisis isi hukum yang rumit. Menganalisis yurisprudensi atau interpretasi hukum secara mendalam sebelum menulis berisiko menguras sumber daya kognitif prefrontal (Cognitive Depletion). Inti dari rutinitas ini bukanlah memperoleh pengetahuan hukum, melainkan mempersepsikan struktur kalimat yang padat dan lugas secara visual. Oleh karena itu, pindai bentuk kalimat tanpa hiasan ini secara ringan tanpa memikirkan isinya secara berlebihan.",
+        "steps": [
+          {
+            "title": "Pilih Teks Kering dan Presisi",
+            "desc": "Siapkan satu buku di meja Anda yang hanya menyampaikan informasi dan logika tanpa stimulasi emosional. Kitab hukum perdata modern, manual perakitan mesin, atau entri ensiklopedia sains adalah alternatif yang sangat baik."
+          },
+          {
+            "title": "10 Menit Membaca Objektif Sebelum Menulis",
+            "desc": "Tepat sebelum mulai menulis atau menyusun laporan, atur pengatur waktu selama 10 menit dan baca teks tersebut. Amati bagaimana kata sifat dan kualifikasi diminimalkan serta bagaimana subjek terhubung secara intuitif dengan kata kerja."
+          },
+          {
+            "title": "Transisi Tanpa Henti ke Tugas Utama",
+            "desc": "Setelah 10 menit membaca selesai, segera tutup buku sebelum memeriksa ponsel Anda dan mulailah menulis draf Anda. Pertahankan irama lugas yang telah terpriming di otak Anda untuk menulis tanpa henti."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah membaca Kitab Hukum Perdata membantu saat menulis salinan pemasaran atau esai emosional?",
+            "answer": "Saat perlu menulis salinan persuasif atau emosional, lebih baik menggunakan salinan iklan yang menarik atau esai puitis sebagai teks priming daripada kitab hukum. Inti dari kebiasaan Stendhal adalah memicu otak terlebih dahulu dengan teks yang sesuai dengan nada dan gaya hasil kerja yang diinginkan."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "마케팅 문구나 감성적인 에세이를 써야 할 때도 법전을 읽는 것이 도움이 되나요?",
-          "en": "Does reading the Civil Code help when writing marketing copy or emotional essays?",
-          "ja": "マーケティングコピーや感情的なエッセイを書く際にも法典を読むことが役に立ちますか？",
-          "zh": "在撰写营销文案或感性散文时，阅读法典也有帮助吗？",
-          "es": "¿Leer el Código Civil ayuda cuando se redactan textos publicitarios u ensayos emocionales?",
-          "de": "Hilft das Lesen des Zivilgesetzbuches auch beim Verfassen von Werbetexten oder emotionalen Essays?",
-          "fr": "La lecture du Code civil aide-t-elle lors de la rédaction de textes publicitaires ou d'essais émotionnels ?",
-          "pt": "Ler o Código Civil ajuda ao escrever textos publicitários ou ensaios emocionais?",
-          "id": "Apakah membaca Kitab Hukum Perdata membantu saat menulis salinan pemasaran atau esai emosional?"
-        },
-        "answer": {
-          "ko": "감성적이고 화려한 설득 문장을 써야 할 때는 법전 대신 자신이 닮고 싶은 매력적인 광고 카피나 감각적인 수필을 점화 텍스트로 사용하는 것이 좋습니다. 스탕달 습관의 핵심은 쓰고자 하는 결과물의 톤앤매너에 어울리는 최적의 텍스트로 뇌를 먼저 점화(Priming)시키는 데 있습니다.",
-          "en": "When writing persuasive or emotional copy, it is better to use attractive advertising text or evocative essays as priming text instead of legal codes. The core of Stendhal's habit is priming the brain with text that matches the intended tone and manner of the output.",
-          "ja": "感情的で華やかな説得文章を書く必要がある時は、法典の代わりに自分が手本にしたい魅力的な広告コピーや感性的なエッセイをプライミングテキストとして使用するのが良いでしょう。スタンダールの習慣の核心は、書こうとする成果物のトーン＆マナーに合った最適なテキストで脳をあらかじめプライミング（Priming）させることにあります。",
-          "zh": "当需要撰写具有说服力或富有情感色彩的文案时，建议使用有吸引力的广告文案或抒情散文作为启动文本，而非法律条文。斯汤达习惯的核心在于，先用与目标产出物的调性（Tone & Manner）相匹配的最佳文本来启动（Priming）大脑。",
-          "es": "Cuando necesite escribir textos persuasivos o emocionales, es mejor usar como texto de cebado copys publicitarios atractivos o ensayos evocadores en lugar de códigos legales. El núcleo del hábito de Stendhal es cebar el cerebro con textos que coincidan con el tono deseado del resultado.",
-          "de": "Wenn Sie überzeugende oder emotionale Texte schreiben müssen, verwenden Sie anstelle von Gesetzestexten attraktive Werbetexte oder emotionale Essays als Priming-Text. Der Kern von Stendhals Gewohnheit besteht darin, das Gehirn mit Texten vorzubereiten, die dem gewünschten Ton entsprechen.",
-          "fr": "Lorsque vous devez rédiger des textes persuasifs ou émotionnels, il est préférable d'utiliser de courts textes publicitaires attractifs ou des essais inspirants comme texte d'amorçage. Le cœur de l'habitude de Stendhal est d'amorcer le cerveau avec des textes adaptés au ton recherché.",
-          "pt": "Quando você precisa escrever textos persuasivos ou emocionais, é melhor usar copys publicitárias atraentes ou ensaios evocativos como texto de priming, em vez de códigos legais. O cerne do hábito de Stendhal é preparar o cérebro com textos adequados ao tom desejado.",
-          "id": "Saat perlu menulis salinan persuasif atau emosional, lebih baik menggunakan salinan iklan yang menarik atau esai puitis sebagai teks priming daripada kitab hukum. Inti dari kebiasaan Stendhal adalah memicu otak terlebih dahulu dengan teks yang sesuai dengan nada dan gaya hasil kerja yang diinginkan."
-        }
-      }
-    ]
+    }
   }
 }

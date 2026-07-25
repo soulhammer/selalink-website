@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Perspektif Kosmik Carl Sagan: Memulihkan Kecemasan dan Stres Harian Lewat Rutinitas 'Titik Biru Pucat'"
 description: "Membahas kisah astronom Carl Sagan menghilangkan kecemasan harian lewat zoom-out kosmik 3 menit dan prinsip ilmu saraf dari 'Efek Awe'."
 pubDate: "2026-06-27"
@@ -35,25 +36,23 @@ Sebelum memulai riset rumitnya setiap hari, Sagan melakukan rutinitas pemulihan 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai sagan-cosmic-perspective didasarkan pada <strong>Riset biografi historis Carl Sagan & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi historis Carl Sagan & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengapa Rasa Takjub Kosmik Menenangkan Amigdala dan Stres Ego
+## 1. Mengapa Rasa Takjub Kosmik Menenangkan Amigdala dan Stres Ego
 
 Dalam neuropsikologi, ini disebut <strong>'Efek Diri Kecil (Small-Self Effect)'</strong>. Memvisualisasikan kemegahan kosmos atau alam menenangkan respons stres berlebih di amigdala dan insula, menggantikan kecemasan sepele dengan perspektif objektif yang luas.
 
 ---
 
-## Peringatan dan Tips untuk Perubahan Perspektif Sagan
-
-Jangan menyalahartikan kemegahan kosmos sebagai rasa tak berdaya. Gunakan ini sebagai alat untuk menyadari bahwa stres yang membebani Anda cukup kecil untuk diselesaikan dengan tenang. Daripada hanya mengandalkan kemauan, rancang lingkungan untuk memicu kebiasaan ini secara alami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jangan menyalahartikan kemegahan kosmos sebagai rasa tak berdaya. Gunakan ini se
   </p>
 </div>
 
+---
+
+## 3. Peringatan dan Tips untuk Perubahan Perspektif Sagan
+
+Jangan menyalahartikan kemegahan kosmos sebagai rasa tak berdaya. Gunakan ini sebagai alat untuk menyadari bahwa stres yang membebani Anda cukup kecil untuk diselesaikan dengan tenang. Daripada hanya mengandalkan kemauan, rancang lingkungan untuk memicu kebiasaan ini secara alami.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah rutinitas ini efektif saat merasa cemas sebelum presentasi atau rapat penting?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jangan menyalahartikan kemegahan kosmos sebagai rasa tak berdaya. Gunakan ini se
       Ya! Memvisualisasikan zoom-out kosmik selama 1 menit menstabilkan detak jantung dan secara signifikan menurunkan demam panggung atau kecemasan performa.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana jika tidak ada foto luar angkasa di sekitar saya?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "하루의 끝, 온전한 비움: 마쓰시타 고노스케의 욕탕 성찰 루틴"
 description: "경영의 신 마쓰시타 고노스케가 매일 밤 실천한 온수 목욕 사색. 부교감 신경 활성화와 뇌의 기본 모드 네트워크(DMN) 정렬 효과를 해부합니다."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>마쓰시타 고노스케 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 matsushita-bath-reflection 루틴을 다룹니다.
+      본 콘텐츠는 <strong>마쓰시타 고노스케 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 온수 이완과 기본 모드 네트워크의 시너지
+## 1. 온수 이완과 기본 모드 네트워크의 시너지
 
 따뜻한 온수 입욕은 심부 체온을 높이고 부교감 신경을 활성화하여 코르티솔을 감소시킵니다. 외부 자극이 차단된 이완 상태는 뇌의 기본 모드 네트워크(DMN)를 자극해 창의적인 통찰력을 선사합니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다.
 
 ---
 
-## 뇌의 비움을 돕는 거장의 한마디
-
-현명한 판단을 내리고 싶다면 먼저 뇌를 완전히 비우십시오. 욕실 내 디지털 차단과 15분간의 심신 이완이 그 지름길입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     가볍게 물기를 닦고 수분을 섭취합니다. 상승했던 체온이 내려가며 숙면을 취하도록 돕습니다.
   </p>
 </div>
+
+---
+
+## 3. 뇌의 비움을 돕는 거장의 한마디
+
+현명한 판단을 내리고 싶다면 먼저 뇌를 완전히 비우십시오. 욕실 내 디지털 차단과 15분간의 심신 이완이 그 지름길입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

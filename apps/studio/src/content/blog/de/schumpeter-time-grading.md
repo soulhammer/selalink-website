@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metakognition der Zeit: Joseph Schumpeters tägliche Zeugnis-Routine"
 description: "Der Ökonom Joseph Schumpeter bewertete jeden Abend seine Lern- und Fokusstunden im Tagebuch mit Noten (A–F). Über die metakognitive Wirkung einer quantitativen Feedbackschleife."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ In diesem Beitrag analysieren wir Schumpeters Zeugnis-Ritual und bieten einen 3-
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu schumpeter-time-grading basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen zu Schumpeter & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen zu Schumpeter & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Abstimmung von Metakognition & Dopamin-Belohnungsnetzwerk durch quantitative Feedbackschleife
+## 1. Abstimmung von Metakognition & Dopamin-Belohnungsnetzwerk durch quantitative Feedbackschleife
 
 Die meisten Menschen bewerten ihren Arbeitstag subjektiv und gefühlsbetont. Diese vage Reflexion verleitet zu Ausreden. Schumpeters Selbstbewertung aktiviert die Metakognition. Die Quantifizierung von Zeit und Noten ermöglicht einen objektiven Blick auf das eigene Verhalten aus der Perspektive Dritter. Diese ehrliche Selbstobjektivierung hilft dem Gehirn, kognitive Verzerrungen zu überwinden, und motiviert das Belohnungssystem der präfrontalen Rinde, am nächsten Tag eine bessere Note (A) zu erzielen.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps
-
-Achten Sie darauf, dass das Tagebuch nicht zu negativer Selbstkritik oder Perfektionismus führt. Gelernte Hilflosigkeit durch schlechte Noten erhöht den Stress und blockiert das Handeln. Betrachten Sie die Noten emotionslos als Datensammlung und nutzen Sie sie als Werkzeug für ein Growth Mindset, um sich am nächsten Tag um 10 % zu verbessern.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Achten Sie darauf, dass das Tagebuch nicht zu negativer Selbstkritik oder Perfek
     Finden Sie die Ursache für die heutige Note (z. B. 1 Stunde Social Media) und planen Sie eine konkrete Maßnahme, z. B. das Smartphone morgen früh 1 Stunde wegzulegen.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps
+
+Achten Sie darauf, dass das Tagebuch nicht zu negativer Selbstkritik oder Perfektionismus führt. Gelernte Hilflosigkeit durch schlechte Noten erhöht den Stress und blockiert das Handeln. Betrachten Sie die Noten emotionslos als Datensammlung und nutzen Sie sie als Werkzeug für ein Growth Mindset, um sich am nächsten Tag um 10 % zu verbessern.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

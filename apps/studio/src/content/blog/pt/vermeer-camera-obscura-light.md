@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O mestre de 'Moça com Brinco de Pérola'? A rotina de observação da luz matinal na janela de Vermeer"
 description: "O mestre da luz Johannes Vermeer obteve serenidade emocional e inspiração tridimensional ao observar com precisão luzes e sombras através da câmara obscura em sua rotina matinal."
 pubDate: "2026-04-05"
@@ -31,25 +32,23 @@ No post de hoje, apresentamos a ciência de acalmar a Rede de Modo Padrão (DMN)
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre vermeer-camera-obscura-light é baseada em <strong>Pesquisa histórica de biografias e registros autobiográficos de Vermeer e estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa histórica de biografias e registros autobiográficos de Vermeer e estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Recuperação cognitiva de alto nível proporcionada pela sensibilidade ao contraste visual e calma autonômica
+## 1. Recuperação cognitiva de alto nível proporcionada pela sensibilidade ao contraste visual e calma autonômica
 
 Os olhos e o cérebro modernos sofrem acúmulo contínuo de fadiga devido à exposição a estímulos artificiais cintilantes e quadros rápidos em monitores. Contemplar silenciosamente a luz solar natural matinal e as sombras sutis como Vermeer é uma <strong>'minimeditação visual'</strong> que estimula a sensibilidade ao contraste do córtex visual enquanto ativa o sistema nervoso parassimpático. O ruído visual é bloqueado e ocorre uma reinicialização cognitiva que permite perceber formas e inspirações essenciais.
 
 ---
 
-## Guarde o smartphone e observe a iluminação pura e intocada
-
-A essência da câmara obscura é receber a luz projetada pela lente exatamente como é, sem pressa para interpretar objetos. Por 5 minutos, evite segurar qualquer dispositivo digital e aprecie tranquilamente as partículas de luz exatamente como são.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ A essência da câmara obscura é receber a luz projetada pela lente exatamente 
   </p>
 </div>
 
+---
+
+## 3. Guarde o smartphone e observe a iluminação pura e intocada
+
+A essência da câmara obscura é receber a luz projetada pela lente exatamente como é, sem pressa para interpretar objetos. Por 5 minutos, evite segurar qualquer dispositivo digital e aprecie tranquilamente as partículas de luz exatamente como são.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como faço essa rotina em dias chuvosos ou nublados?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ A essência da câmara obscura é receber a luz projetada pela lente exatamente 
       Mesmo a luz leitosa suave e sutil de um dia nublado é um excelente objeto para contemplar a iluminação. Você também pode observar as refrações de luz nas gotas de chuva nas vidraças.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Isso é eficaz mesmo se eu não trabalhar com arte ou design como Vermeer?</span>

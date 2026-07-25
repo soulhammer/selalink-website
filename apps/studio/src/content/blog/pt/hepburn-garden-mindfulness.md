@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Base da Elegância: A Rotina de Jardinagem Curativa de Audrey Hepburn e a Ciência Cerebral do Contato com a Terra"
 description: "Descubra como a lenda de Hollywood Audrey Hepburn manteve sua tranquilidade e elegância por meio da jardinagem. Explore a neurociência do contato com a terra, a bactéria Mycobacterium vaccae e a serotonina."
 pubDate: "2026-01-14"
@@ -35,25 +36,23 @@ No artigo de hoje, examinamos a neurociência cognitiva e a psicologia ambiental
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre hepburn-garden-mindfulness é baseada em <strong>Verificação Histórica das Biografias de Audrey Hepburn, Arquivos da Propriedade de Tolochenaz (Suíça) e Pesquisa em Neurociência Cognitiva e Psicologia Ambiental</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Biografias de Audrey Hepburn, Arquivos da Propriedade de Tolochenaz (Suíça) e Pesquisa em Neurociência Cognitiva e Psicologia Ambiental</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mycobacterium vaccae e a Neurociência da Secreção de Serotina
+## 1. Mycobacterium vaccae e a Neurociência da Secreção de Serotina
 
 Os seres humanos evoluíram para sentir calma psicológica através da conexão com a terra. Estudos neurocientíficos e microbiológicos mostram que mexer no solo nos expõe à bactéria benéfica <strong>Mycobacterium vaccae</strong>. Em contato com a pele e a respiração, ela estimula a liberação de <strong>serotonina</strong> no cérebro, o neurotransmissor responsável pela estabilidade emocional. Assim, a jardinagem oferece um benefício duplo: ativa a <strong>Restauração da Atenção</strong> no <strong>Córtex Pré-frontal</strong> e acalma o sistema nervoso.
 
 ---
 
-## Precaução: Exclua Distrações para Imergir nas Sensações Táteis da Terra
-
-Para alcançar um relaxamento emocional genuíno, ancore sua atenção nas sensações físicas. Pensar em tarefas pendentes enquanto mexe na terra bloqueia os mecanismos de restauração atencional. Concentre-se no feedback tátil: a umidade fresca da terra, a textura da areia ou a maciez de uma folha, permitindo que seu cérebro entre em relaxamento profundo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para alcançar um relaxamento emocional genuíno, ancore sua atenção nas sensa
   </p>
 </div>
 
+---
+
+## 3. Precaução: Exclua Distrações para Imergir nas Sensações Táteis da Terra
+
+Para alcançar um relaxamento emocional genuíno, ancore sua atenção nas sensações físicas. Pensar em tarefas pendentes enquanto mexe na terra bloqueia os mecanismos de restauração atencional. Concentre-se no feedback tátil: a umidade fresca da terra, a textura da areia ou a maciez de uma folha, permitindo que seu cérebro entre em relaxamento profundo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Este método é eficaz em ambientes internos ou apartamentos sem jardim privado?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para alcançar um relaxamento emocional genuíno, ancore sua atenção nas sensa
       Sim, com certeza! Encher pequenos vasos na varanda ou mesa com terra e plantar pequenas ervas oferece a mesma estimulação tátil e exposição às bactérias do solo. O segredo é o contato físico com a terra, independentemente do tamanho da planta.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existem riscos de higiene ou infecção bacteriana ao tocar a terra com as mãos desnudas?</span>

@@ -1,0 +1,454 @@
+{
+  "how-to-store-spinach": {
+    "ingId": "spinach",
+    "pubDate": "2026-02-18",
+    "updatedDate": "2026-02-18",
+    "heroImage": "/images/blog/spinach_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "시금치 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 시금치의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "시금치는 영양이 풍부한 채소이지만, 냉장고 야채칸에 가로로 눕혀 방치하면 하루이틀 만에 잎이 누렇게 뜨고 짓눌려 썩어버립니다. 호흡 작용을 억제하는 과학적인 보관법을 설명합니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "시금치",
+          "과학적으로 검증된 보관 가이드",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "수분이 닿은 상태로 비닐 밀봉 금지 💧",
+            "desc": "비에 젖거나 씻은 뒤 물기가 남은 시금치를 비닐봉지에 밀봉하여 냉장고에 넣어두면 질식 현상과 함께 잎이 짓물러져 물러지므로 꼭 건조 상태를 지켜야 합니다."
+          },
+          {
+            "title": "누렇게 변한 잎은 먼저 정리하세요 🍂",
+            "desc": "상하거나 누렇게 뜬 시금치 잎은 부패균과 가스를 분출하여 주변 신선한 줄기까지 물들입니다. 보관 전 선별 과정을 꼭 거치세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "씻지 않고 신문지/키친타월로 감싸기 — 습기 조절 📦",
+            "text": "시금치는 잎 표면에 물기가 닿으면 쉽게 짓무르고 썩습니다. 흙이 묻은 상태 그대로 신문지나 키친타월에 가볍게 싸서 습기가 차는 것을 방지해 줍니다."
+          },
+          {
+            "name": "뿌리가 아래로 가게 수직으로 세워 보관하기 — 냉장 보관 (4일) 🌿",
+            "text": "시금치를 냉장고에 눕혀서 보관하면 잎이 위로 자라려는 성질 때문에 에너지를 소모하여 금방 시듭니다. 뿌리 방향이 아래로 가게 컵이나 용기에 세워서 야채칸에 보관해 주세요."
+          },
+          {
+            "name": "에틸렌 방출 과일들과 완벽히 격리하기 — 차단 보관 🛡️",
+            "text": "시금치는 에틸렌 가스에 매우 민감하여 사과, 배, 토마토 등과 같은 칸에 두면 이파리가 노랗게 변색되고 빨리 부패합니다. 가스를 방출하는 과일들과 칸을 완전히 분리해 주세요."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "시금치를 씻어서 냉장 보관해도 되나요?",
+            "answer": "아닙니다. 시금치는 잎이 연해 수분이 닿은 채 밀봉되면 이틀 만에 까맣게 짓무르고 썩습니다. 흙이 묻은 채로 보관하고, 요리 직전에 씻어 드시는 것이 수명을 늘립니다."
+          },
+          {
+            "question": "시금치를 세워 보관해야 하는 이유가 무엇인가요?",
+            "answer": "시금치는 눕혀두면 스스로 일어서기 위해 식물성 호르몬을 분비하며 영양분을 소모하고 빠르게 누렇게 뜹니다. 대파처럼 세워서 세로로 냉장 보관하는 것이 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Spinach Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Spinach based on official safety guidelines.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Have you ever bought a bunch of spinach, left it tied in a plastic bag, and thrown it away in two days because the leaves rotted? Today, FreshSnap shares scientific moisture control tips to keep spinach fresh for over a week.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Spinach",
+          "Scientifically Proven Storage Guide",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Dry moisture completely to prevent mushiness",
+            "desc": "Excess water on green leaves causes rapid decay. Wrap spinach in paper towels to absorb moisture condensation."
+          },
+          {
+            "title": "Store spinach upright with roots pointing down",
+            "desc": "Vegetables keep fresh longer when stored in their natural growing position. Keeping them upright prevents leaf bruising."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap unwashed spinach in newspaper/paper towels — Moisture control 📦",
+            "text": "Spinach leaves rot quickly when exposed to moisture. Keep the soil on and wrap them gently in newspaper or paper towels to prevent condensation and keep them dry."
+          },
+          {
+            "name": "Store upright with roots pointing down — Refrigerated Storage (4Days) 🌿",
+            "text": "If stored flat, spinach leaves consume energy trying to grow upwards, causing them to wilt quickly. Place them upright, roots down, in a container or glass within the crisper drawer."
+          },
+          {
+            "name": "Isolate completely from ethylene-producing fruits — Protection 🛡️",
+            "text": "Spinach is highly sensitive to ethylene gas. Storing it near apples, pears, or tomatoes turns the leaves yellow and causes quick decay. Keep them in completely separate compartments."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I wash spinach before storing it in the fridge?",
+            "answer": "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
+          },
+          {
+            "question": "Why is it recommended to store spinach upright?",
+            "answer": "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ほうれん草の鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくほうれん草の最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>農村振興庁(RDA) & EFSA & FSA</strong>",
+        "intro": "ほうれん草を買ってきてビニール袋に入れたまま野菜室に置いておき、数日で葉が溶けて腐ってしまった経験はありませんか？本日、FreshSnapではネギなどの野菜と同様に、水分をコントロールして1週間以上新鮮に保つコツをご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "ほうれん草",
+          "科学的に検証された保存ガイド",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "水気をしっかり乾かしてから保管してください",
+            "desc": "葉の部分に余分な水気が残っていると急速に腐敗が進みます。ペーパーに包んでから保存袋に入れ、湿度を適度に保つのがコツです。"
+          },
+          {
+            "title": "根元を下にして立てた状態で保存してください",
+            "desc": "野菜は育った環境と同じように、立てて保存することでストレスが減り、長持ちします。葉が重なって潰れるのを防ぎます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "洗わずに新聞紙やペーパーで包む — 湿気コントロール 📦",
+            "text": "ほうれん草は葉の表面に水分がつくと傷みやすく, すぐに腐ってしまいます。土がついた状態のまま新聞紙やペーパーで軽く包み, 余分な湿気がたまるのを防いでください。"
+          },
+          {
+            "name": "根を下にして立てて保存する — 冷蔵保存 (4日間) 🌿",
+            "text": "ほうれん草を横にして保存すると, 葉が上へ伸びようとする性質があるためエネルギーを無駄に消費し, すぐにしおれてしまいます。根を下にして容器などに立てて野菜室に保存してください。"
+          },
+          {
+            "name": "エチレンガスを出す果物から隔離する — 遮断保存 🛡️",
+            "text": "ほうれん草はエチレンガスに非常に敏感で, りんごや梨, トマト等と同じ段に入れると葉が黄色く変色し, 腐敗が早まります。ガスを発生させる果物とは段や場所を完全に分けて保存してください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ほうれん草を洗ってから冷蔵保存してもいいですか？",
+            "answer": "いいえ、ほうれん草は葉が柔らかいため、水分がついたまま密閉するとすぐに傷んで黒く腐ってしまいます。土がついたまま保存し、調理直前に洗ってください。"
+          },
+          {
+            "question": "ほうれん草を立てて保存すべき理由は何ですか？",
+            "answer": "ほうれん草は横にしておくと、起き上がろうとして栄養分を消耗し、すぐに葉が黄色くなります。ネギのように立てて縦に保存するのが望ましいです。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存菠菜：科学储存指南",
+        "description": "根据官方食品安全指南，了解菠菜的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>韩国农村振兴厅(RDA) & EFSA & FSA</strong>",
+        "intro": "您是否曾买了一把菠菜，直接扎在塑料袋里塞进蔬菜室，结果仅过两天叶子就发烂烂掉？今天，FreshSnap为您分享让菠菜保鲜一个星期以上的科学水分调控妙招。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "菠菜",
+          "科学验证的储存指南",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "请彻底晾干水分以防叶片发烂",
+            "desc": "叶片上残留多余水分会导致迅速烂掉。先用厨房纸包裹以吸收容器内的水气，再装袋保存。"
+          },
+          {
+            "title": "摆放时将根部朝下竖立保存",
+            "desc": "蔬菜按其生长状态竖立保存能更长久保持新鲜。竖着放能防止叶片互相压伤。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "不洗用报纸/厨房纸包裹 — 调控水分 📦",
+            "text": "菠菜叶片表面接触水分后很容易腐烂变粘。保存时应保持带泥干燥状态，用报纸或厨房纸巾轻轻包裹，防止闷出水汽导致腐烂。"
+          },
+          {
+            "name": "根部朝下竖立存放 — 冷藏储存 (4天) 🌿",
+            "text": "如果将菠菜平放保存，叶片会为了向上生长而消耗过多能量，导致很快枯萎。请将根部朝下，装入杯子或盒中直立摆放在冰箱蔬菜室内。"
+          },
+          {
+            "name": "与释放乙烯的水果彻底隔离 — 分开存放 🛡️",
+            "text": "菠菜对乙烯气体非常敏感。如果将其与苹果、梨、西红柿等同层存放，叶片会迅速变黄腐烂。请务必将它们与释放乙烯的蔬果彻底分层存放。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "菠菜可以洗完再放冰箱冷藏吗？",
+            "answer": "不可以。菠菜叶片娇嫩，接触水分密封的话会在两天内变黑烂掉。带泥保存并在烹饪前清洗才能延长保鲜期。"
+          },
+          {
+            "question": "为什么菠菜要竖着放保存？",
+            "answer": "菠菜如果平放，会为了直立而释放植物激素消耗养分，迅速变黄。像大葱一样竖立着进行冷藏保存更好。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Espinaca fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Espinaca según las directrices oficiales de seguridad.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "¿Compró un manojo de espinacas, las dejó en la bolsa y tuvo que tirarlas en dos días porque se pudrieron? Hoy, FreshSnap comparte trucos de control de humedad para mantenerlas frescas una semana.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Espinaca",
+          "Guía de almacenamiento científicamente probada",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Seque la humedad por completo para evitar que se ablanden",
+            "desc": "El exceso de agua en las hojas verdes acelera su descomposición. Envuélvalas en toallas de papel para absorber la humedad."
+          },
+          {
+            "title": "Guarde las espinacas erguidas con las raíces hacia abajo",
+            "desc": "Los vegetales duran más frescos si se guardan en su posición natural de crecimiento. Mantenerlos erguidos evita que las hojas se aplasten."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva las espinacas sin lavar en periódico/papel de cocina 📦",
+            "text": "Las espinacas se pudren rápido si se mojan las hojas. Déjeles la tierra y envuélvalas suavemente en periódico o papel de cocina para evitar la condensación y mantenerlas secas."
+          },
+          {
+            "name": "Guarde verticalmente con las raíces hacia abajo — Almacenamiento Refrigerado (4Días) 🌿",
+            "text": "Si se guardan acostadas, las espinacas consumen energía al intentar crecer hacia arriba, marchitándose rápido. Colóquelas de pie con las raíces hacia abajo en un envase dentro del cajón de verduras."
+          },
+          {
+            "name": "Aísle de frutas que liberen etileno — Almacenamiento protegido 🛡️",
+            "text": "Las espinacas son muy sensibles al gas etileno. Si las coloca junto a manzanas, peras o tomates, las hojas amarillearán y se pudrirán rápido. Mantenga compartimentos separados."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I wash spinach before storing it in the fridge?",
+            "answer": "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
+          },
+          {
+            "question": "Why is it recommended to store spinach upright?",
+            "answer": "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Épinards frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Épinards selon les directives de sécurité officielles.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Avez-vous acheté des épinards, les avez laissés fermés dans leur sachet et jetés après deux jours car les feuilles avaient fondu ? Aujourd'hui, FreshSnap vous montre comment les garder frais une semaine.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Épinards",
+          "Guide de conservation scientifiquement prouvé",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Séchez bien l'humidité pour éviter que les feuilles ne fondent",
+            "desc": "Le surplus d'eau sur les feuilles vertes accélère le pourrissement. Enveloppez-les de papier absorbant contre la condensation."
+          },
+          {
+            "title": "Stockez les épinards debout, racines vers le bas",
+            "desc": "Les légumes restent frais plus longtemps stockés dans leur sens naturel de pousse. Les garder debout évite d'écraser les feuilles."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper les épinards secs de journal/papier absorbant 📦",
+            "text": "Les feuilles d'épinards pourrissent très vite à l'humidité. Gardez-les avec leur terre et enveloppez-les lâchement dans du journal ou du papier absorbant pour parer à la condensation."
+          },
+          {
+            "name": "Stocker debout, racines vers le bas — Stockage Réfrigéré (4Jours) 🌿",
+            "text": "Si vous couchez les épinards, les feuilles dépensent de l'énergie pour se redresser et flétrissent vite. Placez-les debout, racines vers le bas, dans un récipient placé au bac à légumes."
+          },
+          {
+            "name": "Éloigner des fruits émetteurs d'éthylène — Stockage séparé 🛡️",
+            "text": "Les épinards sont très sensibles à l'éthylène. Les stocker près de pommes, poires ou tomates fait jaunir et pourrir les feuilles très vite. Séparez-les rigoureusement."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I wash spinach before storing it in the fridge?",
+            "answer": "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
+          },
+          {
+            "question": "Why is it recommended to store spinach upright?",
+            "answer": "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Spinat frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Spinat basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Haben Sie Spinat gekauft, im Plastikbeutel gelassen und nach zwei Tagen weggeworfen, weil die Blätter verfaulten? Heute teilt FreshSnap Tipps zur Feuchtigkeitskontrolle.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Spinat",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Feuchtigkeit gut abtrocknen, um Matschigkeit zu vermeiden",
+            "desc": "Überschüssiges Wasser auf den Blättern führt zu schnellem Verfall. Spinat in Küchenpapier wickeln, um Kondenswasser aufzusaugen."
+          },
+          {
+            "title": "Spinat aufrecht mit den Wurzeln nach unten lagern",
+            "desc": "Gemüse bleibt länger frisch, wenn es in seiner natürlichen Wuchsrichtung gelagert wird. Das aufrechte Stehen verhindert Druckstellen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungewaschenen Spinat in Zeitung/Küchenpapier wickeln — Feuchtigkeitsschutz 📦",
+            "text": "Spinatblätter verfaulen schnell bei Feuchtigkeit. Lassen Sie die Erde daran und wickeln Sie ihn locker in Zeitungspapier oder Küchenpapier, um Kondenswasser zu vermeiden."
+          },
+          {
+            "name": "Aufrecht mit den Wurzeln nach unten lagern — Kühllagerung (4Tage) 🌿",
+            "text": "Wenn Spinat flach gelagert wird, verbrauchen die Blätter Energie beim Versuch, nach oben zu wachsen, und welken schneller. Lagern Sie ihn aufrecht mit den Wurzeln nach unten in einem Gefäß."
+          },
+          {
+            "name": "Von ethylenproduzierenden Früchten isolieren — Schutzbarriere 🛡️",
+            "text": "Spinat reagiert sehr empfindlich auf Ethylengas. Wenn er zusammen mit Äpfeln, Birnen oder Tomaten gelagert wird, vergilben die Blätter schnell und verfaulen. Räumlich trennen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I wash spinach before storing it in the fridge?",
+            "answer": "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
+          },
+          {
+            "question": "Why is it recommended to store spinach upright?",
+            "answer": "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Espinafre fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Espinafre com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Você comprou espinafre, deixou no saco plástico e jogou fora em dois dias porque as folhas apodreceram? Hoy, o FreshSnap ensina como controlar a umidade para manter fresco por uma semana.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Espinafre",
+          "Guia de armazenamento comprovado cientificamente",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Seque bem a umidade para evitar que as folhas amoleçam",
+            "desc": "O excesso de água nas folhas verdes acelera o apodrecimento. Embrulhe em papel-toalha para absorver a umidade."
+          },
+          {
+            "title": "Guarde o espinafre de pé com as raízes para baixo",
+            "desc": "Os vegetais duram mais se guardados na posição natural de crescimento. Manter de pé evita que as folhas se esmaguem."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Embrulhe o espinafre sem lavar em jornal/papel-toalha 📦",
+            "text": "As folhas do espinafre apodrecem rápido se molhadas. Mantenha a terra e embrulhe sem apertar em jornal ou papel-toalha para evitar a condensação."
+          },
+          {
+            "name": "Guarde na vertical com as raízes para baixo — Armazenamento Refrigerado (4Dias) 🌿",
+            "text": "Se guardar deitados, os espinafres gastam energia tentando crescer para cima, murchando mais rápido. Coloque-os na vertical, com as raízes para baixo, em um copo ou pote na gaveta de legumes."
+          },
+          {
+            "name": "Isole de frutas que liberam etileno — Armazenamento protegido 🛡️",
+            "text": "O espinafre é extremamente sensível ao gás etileno. Guardar perto de maçã, pera ou tomate amarela as folhas e causa apodrecimento rápido. Deixe em gavetas totalmente separadas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I wash spinach before storing it in the fridge?",
+            "answer": "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
+          },
+          {
+            "question": "Why is it recommended to store spinach upright?",
+            "answer": "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Bayam agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Bayam berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>RDA & EFSA & FSA</strong>",
+        "intro": "Pernahkah Anda membeli seikat bayam, menyimpannya di kantong plastik, lalu membuangnya dalam dua hari karena daunnya membusuk? Hari ini, FreshSnap membagikan tips penyimpanan bayam.",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Bayam",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Keringkan kelembapan sepenuhnya untuk mencegah layu",
+            "desc": "Air berlebih pada daun hijau memicu pembusukan cepat. Bungkus bayam dengan tisu dapur untuk menyerap kondensasi."
+          },
+          {
+            "title": "Simpan bayam tegak dengan bagian akar menghadap ke bawah",
+            "desc": "Sayuran tetap segar lebih lama jika disimpan dalam posisi tumbuh alaminya. Menjaganya tetap tegak mencegah daun memar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus bayam kering dengan koran/tisu dapur — Mengontrol kelembapan 📦",
+            "text": "Daun bayam mudah membusuk jika terkena air. Biarkan tanahnya tetap menempel dan bungkus dengan koran atau tisu dapur untuk mencegah kelembapan."
+          },
+          {
+            "name": "Simpan tegak dengan akar di bawah — Penyimpanan Dingin (4Hari) 🌿",
+            "text": "Jika disimpan secara tidur, bayam akan membuang energi untuk tumbuh ke atas, membuatnya cepat layu. Simpan bayam dalam posisi tegak dengan akar di bawah di laci sayur."
+          },
+          {
+            "name": "Pisahkan dari buah yang menghasilkan etilen — Perlindungan 🛡️",
+            "text": "Bayam sangat sensitif terhadap gas etilen. Menyimpannya di rak yang sama dengan apel, pir, atau tomat akan membuat daunnya menguning dan cepat membusuk. Pisahkan wadahnya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I wash spinach before storing it in the fridge?",
+            "answer": "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
+          },
+          {
+            "question": "Why is it recommended to store spinach upright?",
+            "answer": "Spinach expends nutrients and turns yellow trying to bend upright if stored horizontally. Storing them vertically maintains freshness."
+          }
+        ]
+      }
+    }
+  }
+}

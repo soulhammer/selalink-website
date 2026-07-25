@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Éliminer la fatigue décisionnelle : La routine du déjeuner unique de Charles Schulz"
 description: "Charles Schulz a fixe ses repas et son environnement de travail pour dessiner la bande dessinee Peanuts sans interruption pendant 50 ans. Decouvrez son rituel automatise consistant a manger le meme hamburger chaque jour pour prevenir la fatigue cognitive et maximiser sa creativite."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Dans cet article, nous analysons comment la routine de minimisation des choix de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant schulz-routine-hamburger est basée sur <strong>Biographies historiques, récits autobiographiques du rituel du hamburger de Schulz et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques, récits autobiographiques du rituel du hamburger de Schulz et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prévention de l'épuisement de l'ego et préservation de l'énergie préfrontale
+## 1. Prévention de l'épuisement de l'ego et préservation de l'énergie préfrontale
 
 Le cortex préfrontal est le centre de la planification, du contrôle émotionnel et de la prise de décision. La recherche neuroscientifique montre que chaque choix — même choisir son repas — épuise les ressources cognitives, phénomène appelé « Fatigue décisionnelle » ou « Épuisement de l'ego ». En fixant à l'avance vos choix quotidiens comme le faisait Schulz, vous évitez la fuite d'énergie mentale et canalisez toute votre puissance cognitive vers vos projets essentiels.
 
 ---
 
-## Précautions et conseils
-
-Si vous imposez une routine trop rigide et éliminez toute variabilité, le cerveau risque de tomber dans la routine et de s'émousser. Appliquez l'automatisation des décisions aux domaines non essentiels (repas, vêtements, environnement), tout en conservant une liberté d'exploration dans les tâches créatives et les loisirs.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Si vous imposez une routine trop rigide et éliminez toute variabilité, le cerv
     Investissez la concentration fraîche préservée en éliminant les choix futiles directement dans vos tâches stratégiques, de conception ou d'écriture les plus importantes.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Si vous imposez une routine trop rigide et éliminez toute variabilité, le cerveau risque de tomber dans la routine et de s'émousser. Appliquez l'automatisation des décisions aux domaines non essentiels (repas, vêtements, environnement), tout en conservant une liberté d'exploration dans les tâches créatives et les loisirs.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

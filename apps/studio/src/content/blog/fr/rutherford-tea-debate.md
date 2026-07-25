@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le secret créatif du découvreur du noyau atomique ? La routine du thé de 16h d'Ernest Rutherford"
 description: "Ernest Rutherford, le père de la physique nucléaire. Découvrez comment ses discussions informelles de 16h autour d'un thé ont créé la sécurité psychologique menant à la découverte du noyau atomique."
 pubDate: "2026-05-23"
@@ -33,17 +34,17 @@ Dans cet article, nous présentons la routine du thé de 16h d'Ernest Rutherford
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant rutherford-tea-debate est basée sur <strong>Vérification des biographies historiques d'Ernest Rutherford & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques d'Ernest Rutherford & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Créativité collective et désinhibition induites par la sécurité psychologique
+## 1. Créativité collective et désinhibition induites par la sécurité psychologique
 
 Dans un cadre formel ou évaluatif, la peur de l'échec active des mécanismes de défense qui brident la créativité.
 
@@ -51,9 +52,7 @@ Un environnement chaleureux et horizontal comme la pause thé de Rutherford maxi
 
 ---
 
-## Laissez de côté le rang et la formalité ; commencez par une tasse de thé chaud
-
-Le thé n'est pas un moment de rapport ou de directives ; l'objectif est la souplesse pour échanger sur toute idée. Aménagez l'environnement pour favoriser les échanges spontanés.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le thé n'est pas un moment de rapport ou de directives ; l'objectif est la soup
   </p>
 </div>
 
+---
+
+## 3. Laissez de côté le rang et la formalité ; commencez par une tasse de thé chaud
+
+Le thé n'est pas un moment de rapport ou de directives ; l'objectif est la souplesse pour échanger sur toute idée. Aménagez l'environnement pour favoriser les échanges spontanés.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les indépendants qui travaillent seuls peuvent-ils appliquer cette routine ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le thé n'est pas un moment de rapport ou de directives ; l'objectif est la soup
       Oui ! Prenez un thé à 16h tout en échangeant 10 minutes en ligne ou en effectuant un autodiagnostic par écrit dans votre carnet.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>J'ai peur que la pause thé ne transforme en bavardage et fasse perdre du temps.</span>

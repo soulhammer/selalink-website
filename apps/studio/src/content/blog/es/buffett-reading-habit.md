@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Efecto Compuesto del Conocimiento: El Hábito de Lectura de 500 Páginas Diarias de Warren Buffett y la Reserva Cognitiva"
 description: "Explore el secreto fundamental del éxito de Warren Buffett, leer 500 páginas al día, y descubra la neurociencia cognitiva tras el fortalecimiento de las redes neuronales, la acumulación de reserva cognitiva y el reconocimiento acelerado de patrones."
 pubDate: "2026-06-10"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre buffett-reading-habit se basa en <strong>Verificación Histórica de la Biografía de Alice Schroeder *La bola de nieve (The Snowball: Warren Buffett and the Business of Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Alice Schroeder *La bola de nieve (The Snowball: Warren Buffett and the Business of Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroplasticidad y Mejora de la Conectividad de la Sustancia Blanca: Neurociencia Cognitiva del Conocimiento Compuesto
+## 1. Neuroplasticidad y Mejora de la Conectividad de la Sustancia Blanca: Neurociencia Cognitiva del Conocimiento Compuesto
 
 Estudios neurocientíficos revelan que la lectura profunda acelera la mielinización en los tractos de sustancia blanca que conectan las cortezas somatosensorial y prefrontal, maximizando la eficiencia de la transmisión de señales. La lectura constante de textos de formato largo acumula 'Reserva Cognitiva' a través de la neuroplasticidad, frenando el deterioro cognitivo asociado a la edad y acelerando el procesamiento de nuevas entradas complejas. Además, a medida que la información entrante se integra en los esquemas de memoria a largo plazo existentes, el cerebro logra un 'Reconocimiento Intuitivo de Patrones', identificando sin esfuerzo estructuras clave con mínima fricción cognitiva.
 
 ---
 
-## Precauciones y Consejos: Rechazar la Lectura Pasiva Superficial y Mantener la Consistencia a Largo Plazo
-
-La esencia de la rutina de conocimiento compuesto de Buffett no es la lectura rápida pasiva. Pasar páginas mecánicamente sin reflexión crítica no logra estimular la reconexión neuronal. Aunque solo lea 10 páginas, es fundamental una lectura profunda que evalúe críticamente la lógica. Asimismo, en lugar de atracones de lectura esporádicos, mantener durante años el hábito diario de apartar las distracciones digitales para concentrarse en el texto impreso es el catalizador fundamental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La esencia de la rutina de conocimiento compuesto de Buffett no es la lectura r�
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Rechazar la Lectura Pasiva Superficial y Mantener la Consistencia a Largo Plazo
+
+La esencia de la rutina de conocimiento compuesto de Buffett no es la lectura rápida pasiva. Pasar páginas mecánicamente sin reflexión crítica no logra estimular la reconexión neuronal. Aunque solo lea 10 páginas, es fundamental una lectura profunda que evalúe críticamente la lógica. Asimismo, en lugar de atracones de lectura esporádicos, mantener durante años el hábito diario de apartar las distracciones digitales para concentrarse en el texto impreso es el catalizador fundamental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Existe una forma realista para que un profesional ocupado alcance el volumen diario de 500 páginas de Warren Buffett?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La esencia de la rutina de conocimiento compuesto de Buffett no es la lectura r�
       Comenzar con 500 páginas de inmediato es impracticable. El volumen de Buffett se basa en décadas de adaptación neuroplástica. El objetivo no es la cifra exacta de páginas, sino la consistencia del hábito cognitivo: leer con atención de 20 a 30 páginas al día. Dedicar 30 minutos al despertar o durante los desplazamientos genera una enorme palanca intelectual tras unos años.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Los libros electrónicos o audiolibros producen el mismo efecto de conocimiento compuesto que los libros de papel?</span>

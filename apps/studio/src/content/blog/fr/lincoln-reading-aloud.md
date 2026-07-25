@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le président qui lisait ses livres a haute voix : La routine de lecture préfrontale d'Abraham Lincoln et l'Effet de Production"
 description: "Découvrez comment le 16e président américain Abraham Lincoln a maximisé sa mémoire en lisant a haute voix. Explorez la neuroscience de l'Effet de Production, de la Représentation Double, de l'activation de l'Aire de Broca et un guide en 5 minutes."
 pubDate: "2026-04-26"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la psycholinguistique et la neuroscience sous-j
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant lincoln-reading-aloud est basée sur <strong>Vérification Historique issue de la biographie de David Herbert Donald *Lincoln*, des Mémoires de William Herndon & de la Recherche en Neurosciences Cognitives et Psycholinguistique</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de David Herbert Donald *Lincoln*, des Mémoires de William Herndon & de la Recherche en Neurosciences Cognitives et Psycholinguistique</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'Effet de Production et la neuroscience de la Représentation Double
+## 1. L'Effet de Production et la neuroscience de la Représentation Double
 
 Parcourir un texte uniquement des yeux constitue una lecture passive qui réduit la profondeur du traitement cognitif. En revanche, verbaliser les mots et percevoir sa propre voix déclenche un puissant mécanisme de mémorisation appelé l'<strong>Effet de Production (Production Effect)</strong>. En lisant a haute voix, le cerveau stimule l'<strong>Aire de Broca</strong>, le cortex moteur et le cortex auditif. Cette sollicitation façonne una <strong>Représentation Double (Dual Representation)</strong> solide dans la <strong>Mémoire de Travail</strong> du <strong>Cortex Préfrontal</strong>, facilitant l'ancrage dans la <strong>Mémoire a Long Terme</strong>.
 
 ---
 
-## Mise en garde : Éliminer la pression de la lecture rapide pour se concentrer sur una articulation claire
-
-Chercher a lire trop vite détruit les bénéfices neurologiques de l'Effet de Production. Dans una routine de lecture a haute voix, privilégiez la clarté de l'articulation, les vibrations vocales et l'écoute de votre propre voix plutôt que la vitesse. L'immersion sensorielle stimule les réseaux préfrontaux.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Chercher a lire trop vite détruit les bénéfices neurologiques de l'Effet de P
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer la pression de la lecture rapide pour se concentrer sur una articulation claire
+
+Chercher a lire trop vite détruit les bénéfices neurologiques de l'Effet de Production. Dans una routine de lecture a haute voix, privilégiez la clarté de l'articulation, les vibrations vocales et l'écoute de votre propre voix plutôt que la vitesse. L'immersion sensorielle stimule les réseaux préfrontaux.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quel type de livre est le plus efficace pour stimuler l'éveil préfrontal lors de la lecture a haute voix ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Chercher a lire trop vite détruit les bénéfices neurologiques de l'Effet de P
       Les textes à forte densité logique (philosophie, ouvrages techniques, rapports stratégiques) sont bien plus efficaces pour la plasticité préfrontale que les romans faciles ou les essais légers.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment appliquer cette routine dans des endroits silencieux comme des bureaux ou des bibliothèques ?</span>

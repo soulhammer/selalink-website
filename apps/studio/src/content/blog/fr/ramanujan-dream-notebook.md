@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un génie qui voyait des théorèmes mathématiques en rêve ? La routine de notes au réveil de Srinivasa Ramanujan"
 description: "Srinivasa Ramanujan, un génie de la théorie des nombres et des séries infinies. Découvrez sa méthode de réinitialisation cérébrale consistant à transférer l'inspiration intuitive obtenue pendant le sommeil REM dans une note de 3 minutes dès le réveil, ainsi qu'une routine pratique en 3 étapes pour les personnes modernes."
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ Cet article explore le mécanisme scientifique de la routine de 'notes intuitive
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant ramanujan-dream-notebook est basée sur <strong>Biographie critique historique et récits autobiographiques sur Srinivasa Ramanujan & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographie critique historique et récits autobiographiques sur Srinivasa Ramanujan & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mécanisme de couplage des ondes Alpha et du Réseau Mode par Défaut au réveil
+## 1. Mécanisme de couplage des ondes Alpha et du Réseau Mode par Défaut au réveil
 
 Pendant les 5 à 10 premières minutes immédiatement après le réveil, le cerveau humain reste souplement dans des états d'ondes Alpha et Theta lentes — la frontière entre conscience et inconscient — avant que la logique critique du lobe frontal ne s'active pleinement. Pendant cette fenêtre, les nouvelles connexions associatives recombinées pendant la nuit par le Réseau Mode par Défaut (DMN) du cerveau font surface en douceur sans s'évaporer.
 
@@ -51,9 +52,7 @@ La plupart des gens modernes consultent les notifications de smartphone ou les e
 
 ---
 
-## Mise en garde contre l'exposition aux médias sur smartphone au réveil et le passage forcé en ondes Beta
-
-Consulter les notifications de messages, les actualités ou les réseaux sociaux dès l'ouverture des yeux force le cerveau dans un état d'ondes Beta à haute fréquence tendu. À cet instant, le cerveau commence à réagir passivement aux stimuli externes, faisant s'évaporer instantanément les idées et intuitions affinées par le subconscient pendant la nuit. Bloquez complètement l'accès aux médias numériques pendant au moins 5 à 10 minutes après le réveil et concentrez-vous sur votre propre intuition.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Consulter les notifications de messages, les actualités ou les réseaux sociaux
   </p>
 </div>
 
+---
+
+## 3. Mise en garde contre l'exposition aux médias sur smartphone au réveil et le passage forcé en ondes Beta
+
+Consulter les notifications de messages, les actualités ou les réseaux sociaux dès l'ouverture des yeux force le cerveau dans un état d'ondes Beta à haute fréquence tendu. À cet instant, le cerveau commence à réagir passivement aux stimuli externes, faisant s'évaporer instantanément les idées et intuitions affinées par le subconscient pendant la nuit. Bloquez complètement l'accès aux médias numériques pendant au moins 5 à 10 minutes après le réveil et concentrez-vous sur votre propre intuition.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que dois-je faire si aucun rêve ni aucune inspiration matinale ne me vient à l'esprit ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Consulter les notifications de messages, les actualités ou les réseaux sociaux
       Il n'est absolument pas nécessaire de forcer les idées. Le simple fait de noter un mot ou une humeur qui persiste dans votre esprit quand vous êtes encore engourdi, ou un seul problème que vous souhaitez résoudre aujourd'hui, renforce les circuits d'ondes Alpha et ouvre progressivement la porte de votre subconscient.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il possible d'utiliser une application de notes ou un enregistrement vocal sur mon smartphone ?</span>

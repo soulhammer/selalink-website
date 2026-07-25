@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Rey del Automóvil que Dibujaba la Innovación Recorriendo la Línea: El Esquema de Flujo y la Rutina de Externalización Cognitiva de Henry Ford"
 description: "Descubra cómo Henry Ford, pionero de la línea de montaje móvil, redujo la carga prefrontal recorriendo la fábrica, observando el movimiento mecánico y dibujando esquemas de flujo. Explore la neurociencia del seguimiento visual y la externalización cognitiva."
 pubDate: "2026-06-23"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos los principios fisiológicos detrás de la
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre ford-line-walking se basa en <strong>Verificación Histórica de la Autobiografía de Henry Ford *Mi vida y mi obra (My Life and Work)*, Biografías Históricas e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Henry Ford *Mi vida y mi obra (My Life and Work)*, Biografías Históricas e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Seguimiento Visual Continuo y la Neurociencia de la Externalización Cognitiva
+## 1. Seguimiento Visual Continuo y la Neurociencia de la Externalización Cognitiva
 
 El seguimiento visual del <strong>movimiento mecánico ordenado (Smooth Pursuit)</strong>, como el de una línea de montaje, sincroniza la corteza visual con los circuitos del cerebelo, reduciendo el ruido neuronal e intensificando la atención. Además, plasmar procesos complejos en papel mediante formas geométricas y flechas (Esquema Espacial) genera un potente efecto de <strong>Externalización Cognitiva (Cognitive Offloading)</strong>. Liberar la memoria de trabajo hacia un soporte físico preserva la capacidad prefrontal para tomar decisiones estratégicas.
 
 ---
 
-## Precaución: Aproveche la Retroalimentación de Ficción Táctil y el Enfoque Analógico
-
-Utilizar pantallas táctiles al trazar conceptos expone al cerebro a notificaciones y distracciones de luz azul. Las superficies de vidrio reducen la estimulación somatosensorial en más de un 50%. Para maximizar la comprensión del esquema, presione un lápiz sobre papel físico; la resistencia táctil ofrece una retroalimentación sensorial que consolida la claridad mental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Utilizar pantallas táctiles al trazar conceptos expone al cerebro a notificacio
   </p>
 </div>
 
+---
+
+## 3. Precaución: Aproveche la Retroalimentación de Ficción Táctil y el Enfoque Analógico
+
+Utilizar pantallas táctiles al trazar conceptos expone al cerebro a notificaciones y distracciones de luz azul. Las superficies de vidrio reducen la estimulación somatosensorial en más de un 50%. Para maximizar la comprensión del esquema, presione un lápiz sobre papel físico; la resistencia táctil ofrece una retroalimentación sensorial que consolida la claridad mental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Puedo sustituir el papel dibujando con lápiz óptico en un iPad o tableta?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Utilizar pantallas táctiles al trazar conceptos expone al cerebro a notificacio
       Las pantallas digitales carecen de fricción física, lo que reduce la retroalimentación somatosensorial e introduce distracciones. El papel físico ofrece resistencia en la punta del lápiz que estimula la corteza cerebral con mayor profundidad. Se recomienda usar papel real.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es igual de efectivo dibujar esquemas sentado que caminando?</span>

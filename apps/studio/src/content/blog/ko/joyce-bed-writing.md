@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "침대에 누워 파란 색연필로 쓰다: 제임스 조이스의 에너지 보존 집필 루틴과 일차 시각 피질(V1) 피로 완화"
 description: "심각한 안질환 속에서도 침대에 누워 거대한 문학 걸작을 남긴 제임스 조이스. 감각 피로를 최소화하고 신체 중력 부하를 줄여 전전두엽으로 두뇌 에너지를 효율적으로 분배하는 과학과 3단계 실천법을 다룹니다."
 pubDate: "2026-04-10"
@@ -20,7 +21,7 @@ faqs:
   - question: "조이스는 왜 침대에서 글을 쓸 때 하얀 코트를 입었나요?"
     answer: "하얀 코트가 조명을 원고지 위로 반사시키는 자연스러운 반사판 역할을 하여, 극도로 약해진 그의 눈에 눈부심(Glare)을 주지 않으면서도 글씨가 잘 보이도록 도와주는 일종의 '아날로그 조명 보조 장치'였기 때문입니다."
   - question: "침대나 소파에 누워서 작업하면 졸음이 오지 않나요?"
-    answer: "졸음을 예방하기 위해서는 완전히 평평하게 눕기보다 상체를 30~45도 정도 비스듬히 세우는 경사 쿠션을 활용하고, 20분 단위로 짧게 아이디어를 스케치한 뒤 수평 휴식을 취하는 방식으로 뇌의 각성 상태를 제어하는 것이 좋습니다."
+    answer: "졸음을 예방하기 위해서는 완전히 평평하게 눕기보다 상체를 30 ~ 45도 정도 비스듬히 세우는 경사 쿠션을 활용하고, 20분 단위로 짧게 아이디어를 스케치한 뒤 수평 휴식을 취하는 방식으로 뇌의 각성 상태를 제어하는 것이 좋습니다."
 ---
 
 "문학이란 영혼의 한계를 시험하고, 육체의 한계를 극복하는 아름다운 투쟁이다." ✍️
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>제임스 조이스 평전 및 리처드 엘만(Richard Ellmann) 전기 사료 『제임스 조이스(James Joyce)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 안지각(Visual Perception) 연구</strong>에 근거하여 joyce-bed-writing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>제임스 조이스 평전 및 리처드 엘만(Richard Ellmann) 전기 사료 『제임스 조이스(James Joyce)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 안지각(Visual Perception) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 신체 중력 부하 절감과 일차 시각 피질(V1) 감각 피로 완화
+## 1. 신체 중력 부하 절감과 일차 시각 피질(V1) 감각 피로 완화
 
 척추를 수평으로 편안하게 눕히거나 기댄 자세는 전신의 중력 부하를 줄이고 심박수를 안정시켜 신체적인 근육 에너지 소모를 최소화합니다. 이로 인해 심장으로부터 공급되는 산소와 혈류가 뇌의 <strong>전전두엽(Prefrontal Cortex)</strong> 사고 영역으로 집중될 수 있습니다. 또한 백색 광원 아래에서 대비도가 높은 두꺼운 파란색 필기도구를 사용하면 뇌의 <strong>일차 시각 피질(V1, Primary Visual Cortex)</strong>의 가독 식별 처리가 원활해져, 신경학적인 <strong>시각 피질 피로(Visual Fatigue)</strong>를 획기적으로 줄여줍니다.
 
 ---
 
-## 신체 피로 신호를 수용하고 시각적 대비를 높이는 실천 수칙
-
-제임스 조이스에게 침대에서의 집필은 신체적 한계를 극복하기 위한 영리한 생존 전략이었습니다. 육체와 안구 피로가 극에 달했을 때 억지로 딱딱한 의자에 앉아 머리를 쥐어짜지 마세요. 등에 쿠션을 대고 자세를 낮춘 채, 두꺼운 펜과 무지 노트로 편안하게 아이디어를 끄적여보세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 신체 피로 신호를 수용하고 시각적 대비를 높이는 실천 수칙
+
+제임스 조이스에게 침대에서의 집필은 신체적 한계를 극복하기 위한 영리한 생존 전략이었습니다. 육체와 안구 피로가 극에 달했을 때 억지로 딱딱한 의자에 앉아 머리를 쥐어짜지 마세요. 등에 쿠션을 대고 자세를 낮춘 채, 두꺼운 펜과 무지 노트로 편안하게 아이디어를 끄적여보세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>조이스는 왜 침대에서 글을 쓸 때 하얀 코트를 입었나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       하얀 코트가 조명을 원고지 위로 반사시키는 자연스러운 반사판 역할을 하여, 극도로 약해진 그의 눈에 눈부심(Glare)을 주지 않으면서도 글씨가 잘 보이도록 도와주는 일종의 '아날로그 조명 보조 장치'였기 때문입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>침대나 소파에 누워서 작업하면 졸음이 오지 않나요?</span>

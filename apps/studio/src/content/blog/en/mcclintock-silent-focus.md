@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Silence Toward Genes: Barbara McClintock's Noble Silent Focus Routine"
 description: "Nobel laureate geneticist Barbara McClintock maintained absolute silence and ego-dissolving quiet while observing under the microscope. Explore her sensory gating immersion method for erasing mental noise."
 pubDate: "2026-05-14"
@@ -38,14 +39,14 @@ In today's post, we introduce the neuroscience of sensory gating and cognitive f
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding mcclintock-silent-focus is based on <strong>Barbara McClintock Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Barbara McClintock Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sensory Gating Blocking Irrelevant Cognitive Stimuli
+## 1. Sensory Gating Blocking Irrelevant Cognitive Stimuli
 
 When the brain processes multiple stimuli simultaneously, fine focus and pattern recognition decline. Committing to silence and quieting verbal receptors encourages the prefrontal cortex to allocate all cognitive resources to a single sensory input.
 
@@ -53,9 +54,7 @@ In this process, the brain's thalamus operates a <strong>'sensory gating'</stron
 
 ---
 
-## Targeted Focused Blocks, Not Total Social Isolation, Is Key
-
-McClintock's routine is a technique of maintaining silence during limited time blocks (e.g., 30 minutes to 1 hour) when deep focus is required. Isolating yourself without speaking to others throughout daily life causes emotional fatigue and harms cognitive function. Practice silence strategically only during dedicated focus blocks.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ McClintock's routine is a technique of maintaining silence during limited time b
   </p>
 </div>
 
+---
+
+## 3. Targeted Focused Blocks, Not Total Social Isolation, Is Key
+
+McClintock's routine is a technique of maintaining silence during limited time blocks (e.g., 30 minutes to 1 hour) when deep focus is required. Isolating yourself without speaking to others throughout daily life causes emotional fatigue and harms cognitive function. Practice silence strategically only during dedicated focus blocks.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Should I still practice this silent focus routine even in already quiet places like a study hall?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ McClintock's routine is a technique of maintaining silence during limited time b
       Yes, you should. The core of the silent focus routine is not merely making the external environment quiet, but tuning your mindset by blocking notifications and declaring silence, prompting the brain to pause internal verbal processing and boost visual processing activity.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does internal self-talk in my mind without vocalization interfere with focus during silent blocks?</span>

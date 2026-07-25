@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Copiar el diccionario entero? La rutina de transcripción para reiniciar el cerebro de Malcolm X"
 description: "Malcolm X logró un salto cognitivo dramático. Descubra su intenso hábito de transcripción de copiar un diccionario palabra por palabra en prisión para alcanzar la iluminación intelectual, y examine cómo la escritura a mano moldea las redes neuronales."
 pubDate: "2026-07-03"
@@ -36,14 +37,14 @@ En este artículo, exploramos los mecanismos neurocientíficos detrás de la rut
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre malcolm-dictionary-transcription se basa en <strong>Biografías históricas, registros autobiográficos de Malcolm X e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas, registros autobiográficos de Malcolm X e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El poder neurológico de la escritura a mano para consolidar conexiones cerebrales
+## 1. El poder neurológico de la escritura a mano para consolidar conexiones cerebrales
 
 Al leer pasivamente, solo se activa parcialmente la corteza visual; sin embargo, escribir notas a mano abre rutas cognitivas totalmente distintas. Los movimientos finos al sostener la pluma estimulan la <strong>Corteza Motora (Motor Cortex)</strong> y las áreas de integración sensorial.
 
@@ -51,9 +52,7 @@ Según investigaciones neurocientíficas, la escritura a mano estimula el <stron
 
 ---
 
-## La punta del bolígrafo restaura la atención
-
-Las personas modernas consumen información a través de teclados o pantallas táctiles, privando al cerebro de estimulación física y reduciendo la consolidación de la memoria. Dedicar solo 20 minutos al día a apagar el teléfono, tomar una pluma analógica y transcribir pasajes valiosos en papel —como Malcolm X— restaura la atención y fomenta el crecimiento intelectual.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Las personas modernas consumen información a través de teclados o pantallas t�
   </p>
 </div>
 
+---
+
+## 3. La punta del bolígrafo restaura la atención
+
+Las personas modernas consumen información a través de teclados o pantallas táctiles, privando al cerebro de estimulación física y reduciendo la consolidación de la memoria. Dedicar solo 20 minutos al día a apagar el teléfono, tomar una pluma analógica y transcribir pasajes valiosos en papel —como Malcolm X— restaura la atención y fomenta el crecimiento intelectual.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Tiene el mismo efecto transcribir escribiendo en una computadora o tableta?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Las personas modernas consumen información a través de teclados o pantallas t�
       No, el efecto es significativamente distinto. El tecleo involucra toques repetitivos que simplifican el estímulo sensorial a la corteza motora. Por el contrario, sostener una pluma y trazar cada línea ejercita áreas de asociación complejas en todo el cerebro, siendo incomparablemente superior para la memoria y el enfoque.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Debo preocuparme por la caligrafía o la belleza de la letra?</span>

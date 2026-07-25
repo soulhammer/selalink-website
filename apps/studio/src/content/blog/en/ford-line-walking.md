@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Car King Who Sketched Innovation While Walking the Line: Henry Ford's Diagrammatic Flow Sketching and Cognitive Offloading Routine"
 description: "Discover how Henry Ford, pioneer of the moving assembly line, reduced prefrontal load by walking factory floors, tracking mechanical motion, and sketching workflow diagrams in pocket notebooks. Explore the neuroscience of visual smooth pursuit and cognitive offloading."
 pubDate: "2026-06-23"
@@ -38,22 +39,20 @@ In today's post, we analyze the physiological principles behind Henry Ford's 'di
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding ford-line-walking is based on <strong>Historical Verification from Henry Ford's Autobiography *My Life and Work*, Historical Biographies & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Henry Ford's Autobiography *My Life and Work*, Historical Biographies & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Visual Smooth Pursuit and the Neuroscience of Cognitive Offloading
+## 1. Visual Smooth Pursuit and the Neuroscience of Cognitive Offloading
 
 Visually tracking orderly, rhythmic <strong>mechanical motion (Smooth Pursuit)</strong>, such as assembly line components, synchronizes the visual cortex with cerebellar motor-timing circuits, calming neural noise and focusing attention. Furthermore, translating complex multi-step processes from internal mental calculation into physical shapes and arrows—known as Spatial Sketching—triggers powerful <strong>Cognitive Offloading</strong>. Transferring working memory burdens onto paper protects prefrontal executive capacity, enabling clearer, highly creative strategic decision-making.
 
 ---
 
-## Caution: Harnessing Tactile Friction Feedback and Analog Focus
-
-Relying on digital touchscreens or tablets when mapping concepts exposes the brain to push notifications, app switching, and blue light scatter. Crucially, frictionless glass surfaces diminish somatosensory feedback to the brain by over 50%. To maximize diagram comprehension, press pencil to paper in a physical notebook; tactile resistance provides real-time sensory feedback that cements conceptual clarity.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Relying on digital touchscreens or tablets when mapping concepts exposes the bra
   </p>
 </div>
 
+---
+
+## 3. Caution: Harnessing Tactile Friction Feedback and Analog Focus
+
+Relying on digital touchscreens or tablets when mapping concepts exposes the brain to push notifications, app switching, and blue light scatter. Crucially, frictionless glass surfaces diminish somatosensory feedback to the brain by over 50%. To maximize diagram comprehension, press pencil to paper in a physical notebook; tactile resistance provides real-time sensory feedback that cements conceptual clarity.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it okay to substitute paper with digital styluses on iPads or tablets?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Relying on digital touchscreens or tablets when mapping concepts exposes the bra
       Digital screens lack physical friction, reducing somatosensory feedback to the brain and exposing you to digital distractions. Physical paper provides tactile pen-tip resistance that stimulates cortical circuits more deeply, achieving superior cognitive offloading. Using real paper is highly recommended.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is sketching diagrams while sitting still as effective as walking?</span>

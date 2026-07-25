@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "30 minutes chaque matin : Le curieux « Bain d'air » de Benjamin Franklin et sa routine de réinitialisation du système nerveux autonome"
 description: "Découvrez comment Benjamin Franklin, inventeur du paratonnerre et Père fondateur des États-Unis, pratiquait son « bain d'air » matinal nu devant des fenêtres ouvertes. Explorez la neuroscience des récepteurs cutanés au froid (TRPM8) et de la noradrénaline."
 pubDate: "2026-02-12"
@@ -35,25 +36,23 @@ Dans cet article, nous révélons la science cérébrale sous-jacente au « bain
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant franklin-air-bath est basée sur <strong>Vérification Historique issue de *L'Autobiographie de Benjamin Franklin*, des Lettres à M. Barbeu Dubourg & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *L'Autobiographie de Benjamin Franklin*, des Lettres à M. Barbeu Dubourg & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation des récepteurs cutanés au froid et équilibre sympathique-parasympatique
+## 1. Stimulation des récepteurs cutanés au froid et équilibre sympathique-parasympatique
 
 Lorsque les récepteurs cutanés au froid (TRPM8) détectent de l'air frais, les signaux atteignent l'hypothalamus et le système nerveux autonome, stimulant les capillaires. Ce circuit active le <strong>locus coeruleus</strong>, libérant de la <strong>noradérnaline</strong> et de la <strong>dopamine</strong> pour dissiper la fatigue matinale et aiguiser la concentration préfrontale. De plus, lors du réchauffement corporel, le système parasympathique s'active via le nerf vague, apaisant l'hyper-stimulation sympathique.
 
 ---
 
-## Mise en garde : Consignes sur la durée d'exposition pour éviter l'hypothermie
-
-Un bain d'air n'est pas un test d'endurance face au gel. Une exposition excessive au froid provoque une forte vasoconstriction, élevant la tension artérielle et affaiblissant l'immunité. Pour obtenir les bénéfices en toute sécurité, limitez la séance a une température fraîche et confortable pendant 10 à 15 minutes maximum.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Un bain d'air n'est pas un test d'endurance face au gel. Une exposition excessiv
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Consignes sur la durée d'exposition pour éviter l'hypothermie
+
+Un bain d'air n'est pas un test d'endurance face au gel. Une exposition excessive au froid provoque une forte vasoconstriction, élevant la tension artérielle et affaiblissant l'immunité. Pour obtenir les bénéfices en toute sécurité, limitez la séance a une température fraîche et confortable pendant 10 à 15 minutes maximum.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Un Bain d'air aide-t-il vraiment a renforcer l'immunité et la vigilance mentale ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Un bain d'air n'est pas un test d'endurance face au gel. Une exposition excessiv
       Oui. Une exposition modérée au froid renforce la souplesse du système nerveux autonome. En stimulant la noradrénaline, elle dissipe le brouillard matinal et aiguise la concentration préfrontale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment pratiquer un Bain d'air en toute sécurité pendant les mois d'hiver ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Filósofo que Montó un Tintero en su Bastón: El Método de Anotación Inmediata y Rutina de Externalización Cognitiva de Thomas Hobbes"
 description: "Descubra cómo el pensador Thomas Hobbes adjuntó un tintero a su bastón para capturar ideas de inmediato. Explore la neurociencia de la expansión de la memoria de trabajo, la Red por Defecto (DMN) y la externalización cognitiva."
 pubDate: "2026-03-16"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás del mét
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre hobbes-cane-inkwell se basa en <strong>Verificación Histórica de *Breves vidas (Brief Lives)* de John Aubrey, Archivos de Thomas Hobbes e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Breves vidas (Brief Lives)* de John Aubrey, Archivos de Thomas Hobbes e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prevención del Deterioro de la Memoria de Trabajo y Neurociencia de la Externalización Cognitiva
+## 1. Prevención del Deterioro de la Memoria de Trabajo y Neurociencia de la Externalización Cognitiva
 
 Al caminar de forma relajada, la <strong>Red por Defecto (DMN)</strong> se activa, generando chispas creativas. Sin embargo, estas ideas residen en el búfer a corto plazo de la <strong>Memoria de Trabajo</strong>, siendo propensas a desaparecer en 10 a 15 segundos si no se anotan. El tintero de Hobbes funcionó como la herramienta definitiva de <strong>Externalización Cognitiva</strong>. Descargar las ideas en papel mediante la acción motora evita la sobrecarga prefrontal y libera ancho de banda ejecutivo.
 
 ---
 
-## Precaución: Protocolo para Registrar Dentro de la Ventana de 10 Segundos
-
-Posponer las anotaciones pensando 'lo organizaré al llegar a casa' subestima el deterioro de la memoria de trabajo. La mayoría de las ideas generadas al caminar son sobrescritas en el hipocampo por nuevos estímulos sensoriales antes de llegar al escritorio. Para preservar su valor, externalice los destellos en la ventana de 10 segundos mediante notas de voz o palabras clave.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Posponer las anotaciones pensando 'lo organizaré al llegar a casa' subestima el
   </p>
 </div>
 
+---
+
+## 3. Precaución: Protocolo para Registrar Dentro de la Ventana de 10 Segundos
+
+Posponer las anotaciones pensando 'lo organizaré al llegar a casa' subestima el deterioro de la memoria de trabajo. La mayoría de las ideas generadas al caminar son sobrescritas en el hipocampo por nuevos estímulos sensoriales antes de llegar al escritorio. Para preservar su valor, externalice los destellos en la ventana de 10 segundos mediante notas de voz o palabras clave.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Realmente utilizó Thomas Hobbes un bastón con un tintero según la historia?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Posponer las anotaciones pensando 'lo organizaré al llegar a casa' subestima el
       Sí, totalmente. Su biógrafo y amigo personal John Aubrey registró en *Breves vidas* que Hobbes instaló un tintero en la empuñadura de su bastón y llevaba papel en los bolsillos para anotar pensamientos durante sus paseos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es más efectiva la grabación de voz o el tecleado para tomar notas sobre la marcha?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "생텍쥐페리의 조종석 메모법: 고도의 고독과 군더더기 정제로 본질을 뽑아내는 법"
 description: "《어린 왕자》의 저자이자 비행사인 생텍쥐페리가 상공 조종석의 고독 속에서 구상하고 불필요한 미사여구를 깎아내며 본질에 도달한 글쓰기 습관을 살펴봅니다."
 pubDate: "2026-07-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Saintexupery Cockpit Contemplation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 saintexupery-cockpit-contemplation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Saintexupery Cockpit Contemplation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 고독과 뺄셈 습관이 전전두엽 메타인지를 극대화하는 이유
+## 1. 고독과 뺄셈 습관이 전전두엽 메타인지를 극대화하는 이유
 
 신경과학 연구에 따르면 외부 소음이 차단된 고독 상태는 뇌의 디폴트 모드 네트워크(DMN)를 가동하여 창의적 인식을 돕습니다. 이후 불필요한 요소나 미사여구를 깎아내는 뺄셈 작업은 전전두엽 메타인지를 자극하여 사고의 정밀도를 완벽히 끌어올립니다.
 
 ---
 
-## 생텍쥐페리 습관 주의사항 및 정제 팁
-
-아이디어를 떠올리는 단계에서 검열하거나 수정하지 마세요. 고독 속에서 자유롭게 발산한 뒤, 검토 단계에서 불필요한 수식어를 30% 이상 과감하게 자르는 2단계 프로세스를 지켜야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 생텍쥐페리 습관 주의사항 및 정제 팁
+
+아이디어를 떠올리는 단계에서 검열하거나 수정하지 마세요. 고독 속에서 자유롭게 발산한 뒤, 검토 단계에서 불필요한 수식어를 30% 이상 과감하게 자르는 2단계 프로세스를 지켜야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>이 뺄셈 법칙을 업무 보고서나 기획안 작성에도 적용할 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네! 초안을 솔직하게 자유롭게 쓴 후, 두 번째 검토에서 불필요한 수식어, 전문 용어, 늘어지는 문장을 과감히 깎아내면 전달력이 2배 높아집니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>너무 많이 깎아내어 문맥이 손실되면 어떻게 하나요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "唤醒内在无意识的3英里散步：西格蒙德·弗洛伊德的晚间快走习惯与无意识日志记录"
 description: "探索精神分析学创始人西格蒙德·弗洛伊德如何在结束繁重的精神诊疗后，于每晚在维也纳街头快走3英里，重塑左右脑平衡并记录潜意识灵感。揭示双侧感觉刺激与手写日志的神经科学原理。"
 pubDate: "2026-07-09"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 freud-evening-walk 的内容基于 <strong>西格蒙德·弗洛伊德自传《我的生涯与精神分析（An Autobiographical Study）》与维也纳弗洛伊德博物馆史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>西格蒙德·弗洛伊德自传《我的生涯与精神分析（An Autobiographical Study）》与维也纳弗洛伊德博物馆史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 双侧感觉刺激（Bilateral Stimulation）与前额叶情绪调控机制
+## 1. 双侧感觉刺激（Bilateral Stimulation）与前额叶情绪调控机制
 
 以高节律交替迈动双脚快走，能为左脑与右脑交替输送触觉与运动信息，产生所谓的<strong>“双侧感觉刺激（Bilateral Stimulation）”</strong>。该原理广泛应用于创伤心理治疗（如EMDR），能有效抑制疲惫大脑中<strong>杏仁核（Amygdala）</strong>的过度应激，带来情绪上的深度沉静。此外，散步结束后当即进行<strong>手写日志记录</strong>、将潜意识灵感外置于纸上，可强力拉动前额叶认知网络，切断纷乱情绪，修复<strong>工作记忆（Working Memory）</strong>容量。
 
 ---
 
-## 注意事项：规避过度有氧剧烈刺激，导向睡前前置放松
-
-此晚间习惯绝非旨在狂刷热量消耗的高强度体能拉练。相较于拼命上气不接下气的剧烈跑动，维持“能够与身旁之人交谈、但呼吸略感急促”的平稳快走，方能有效诱发脑波平稳。此外，为保障睡眠质量，建议在入睡前至少3小时结束快走。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：规避过度有氧剧烈刺激，导向睡前前置放松
+
+此晚间习惯绝非旨在狂刷热量消耗的高强度体能拉练。相较于拼命上气不接下气的剧烈跑动，维持“能够与身旁之人交谈、但呼吸略感急促”的平稳快走，方能有效诱发脑波平稳。此外，为保障睡眠质量，建议在入睡前至少3小时结束快走。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>将快走换至清晨或午后开展，能否斩获完全等同的益处？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可行。无论在一天的何时快走，双侧感觉刺激与前额叶皮层激活效应均会如期发生。不过，晨间快走偏向于拉升觉醒度、驱散睡意；而如弗洛伊德这般选择于傍晚快走，则能精准洗涤全天高压沟通与繁重工作积聚的认知垃圾与心理绷紧感。可根据个人压力模式灵活选择时段。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>能否使用手机便签或在键盘上打字来替代手写潜意识日志？</span>

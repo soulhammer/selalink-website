@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "着装心理学：勒内·马格里特的正装创作习惯"
 description: "每天身着整洁正装在客厅画架前沉稳作画的超现实主义画家勒内·马格里特。揭示服装对大脑产生的认知反馈效应——着装认知（Enclothed Cognition）。"
 pubDate: "2026-05-25"
@@ -37,17 +38,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 magritte-suit-painting 的内容基于 <strong>勒内·马格里特传记及比利时皇家美术馆（Royal Museums of Fine Arts of Belgium）档案馆史料考证与认知神经科学及认知心理学研究</strong> 撰写。
+      本内容基于 <strong>勒内·马格里特传记及比利时皇家美术馆（Royal Museums of Fine Arts of Belgium）档案馆史料考证与认知神经科学及认知心理学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 着装认知（Enclothed Cognition）效应与前额叶皮层认知控制的脑科学
+## 1. 着装认知（Enclothed Cognition）效应与前额叶皮层认知控制的脑科学
 
 人类的大脑不仅受环境影响，还会经历<strong>着装认知（Enclothed Cognition）</strong>现象，即接触身体的服装所代表的象征意义会直接影响认知过程。
 
@@ -57,9 +58,7 @@ faqs:
 
 ---
 
-## 避免穿著引发身体不适的过度紧绷正装、把握端庄工作服平衡的法则
-
-切勿为了追求着装认知效果而穿着过于束缚身体或引发不适的服装。身体上的不适会向<strong>前额叶皮层（Prefrontal Cortex）</strong>发送疲劳信号，损害注意力。核心原则在于保持整洁的同时，建立适合长时间专注的舒服服装平衡（如利落的休闲裤或衬衫）。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -91,12 +90,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 避免穿著引发身体不适的过度紧绷正装、把握端庄工作服平衡的法则
+
+切勿为了追求着装认知效果而穿着过于束缚身体或引发不适的服装。身体上的不适会向<strong>前额叶皮层（Prefrontal Cortex）</strong>发送疲劳信号，损害注意力。核心原则在于保持整洁的同时，建立适合长时间专注的舒服服装平衡（如利落的休闲裤或衬衫）。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>居家办公时穿上室内鞋或专用工作鞋有助于着装认知吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -105,7 +110,7 @@ faqs:
       是的，效果非常显著！室内鞋鞋底带来的坚实质感与触觉刺激会向<strong>体感皮层（Somatosensory Cortex）</strong>发送“户外活动模式”的信号。这能有效抑制躺平在沙发或床上的欲望，成为切换至工作状态的绝佳身体开关。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>像画家或创作者这样进行创意工作时，整洁着装也有帮助吗？</span>

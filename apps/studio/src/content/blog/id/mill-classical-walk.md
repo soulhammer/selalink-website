@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Apakah Otak yang Berjalan Menciptakan Jenius? Rutinitas Jalan Kaki dan Diskusi John Stuart Mill"
 description: "John Stuart Mill, pemikir besar di balik 'On Liberty'. Pelajari kebiasaan uniknya membaca sambil berjalan, mendaraskan karya klasik, dan berdiskusi dengan ayahnya di jalan setapak hutan pagi hari, serta jelajahi manfaat ilmu saraf dari penggabungan olahraga dan kognisi."
 pubDate: "2026-01-25"
@@ -35,17 +36,17 @@ Dalam artikel ini, kita mempelajari prinsip ilmu saraf di balik kebiasaan berjal
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai mill-classical-walk didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi John Stuart Mill & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi John Stuart Mill & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kombinasi Aktivasi Otak BDNF dan Plastisitas Saraf
+## 1. Kombinasi Aktivasi Otak BDNF dan Plastisitas Saraf
 
 Berbeda dengan membaca dalam posisi duduk diam, berjalan sambil berdiskusi atau merenung membawa manfaat luar biasa secara ilmu saraf. Aktivitas fisik aerobik seperti berjalan secara drastis meningkatkan aliran darah ke otak dan menstimulasi pembebasan <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong> di hipokampus—pusat memori dan pembelajaran. BDNF adalah katalis utama yang mendorong pertumbuhan dan kelangsungan hidup sel-sel saraf baru.
 
@@ -53,9 +54,7 @@ Ketika informasi intelektual tingkat tinggi seperti filsafat atau logika masuk k
 
 ---
 
-## Saat Gerakan Fisik Terhenti, Pemikiran Pun Ikut Membeku
-
-Masyarakat modern menghabiskan waktu berjam-jam duduk diam mengonsumsi informasi, menyebabkan tingkat BDNF otak merosot dan secara kronis menurunkan kemampuan mencerna pengetahuan baru. Seperti kebiasaan Mill yang memadukan membaca dengan aktivitas fisik, ritual jalan kaki—mematikan smartphone segera setelah membaca lalu berjalan sambil merenung—adalah praktik kognitif terbaik untuk menjaga fleksibilitas kecerdasan dan melipatgandakan daya pikir.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Masyarakat modern menghabiskan waktu berjam-jam duduk diam mengonsumsi informasi
   </p>
 </div>
 
+---
+
+## 3. Saat Gerakan Fisik Terhenti, Pemikiran Pun Ikut Membeku
+
+Masyarakat modern menghabiskan waktu berjam-jam duduk diam mengonsumsi informasi, menyebabkan tingkat BDNF otak merosot dan secara kronis menurunkan kemampuan mencerna pengetahuan baru. Seperti kebiasaan Mill yang memadukan membaca dengan aktivitas fisik, ritual jalan kaki—mematikan smartphone segera setelah membaca lalu berjalan sambil merenung—adalah praktik kognitif terbaik untuk menjaga fleksibilitas kecerdasan dan melipatgandakan daya pikir.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah berjalan sambil mendengarkan buku audio memberikan efek yang sama?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Masyarakat modern menghabiskan waktu berjam-jam duduk diam mengonsumsi informasi
       Mendengarkan buku audio adalah penerimaan informasi secara pasif yang menutup peluang 'pemanggilan ingatan aktif' (di mana otak secara mandiri melacak memori) dan refleksi mandiri. Mengosongkan pendengaran saat berjalan untuk mengolah kembali materi yang telah dibaca jauh lebih efektif dalam mengaktifkan plastisitas otak.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah kecepatan berjalan mempengaruhi stimulasi otak?</span>

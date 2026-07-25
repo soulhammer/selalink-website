@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "服装の心理学：ルネ・マグリットのスーツ執筆・創作ルーティン"
 description: "毎日スーツを端正に着こなし、居間のイーゼルの前で乱れなく絵を描いたシュルレアリスムの画家ルネ・マグリット。 着る服が脳に与える法的フィードバック効果「着衣認知（Enclothed Cognition）」を明かします。"
 pubDate: "2026-05-25"
@@ -37,17 +38,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「magritte-suit-painting」は <strong>ルネ・マグリット伝記およびベルギー王立美術館（Royal Museums of Fine Arts of Belgium）アーカイブ考証＆認知神経科学・認知心理学研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ルネ・マグリット伝記およびベルギー王立美術館（Royal Museums of Fine Arts of Belgium）アーカイブ考証＆認知神経科学・認知心理学研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 着衣認知（Enclothed Cognition）効果と前頭前野（Prefrontal Cortex）認知制御の脳科学
+## 1. 着衣認知（Enclothed Cognition）効果と前頭前野（Prefrontal Cortex）認知制御の脳科学
 
 人間の脳は、環境だけでなく身体と接触する衣服の象徴的意味から法的影響を受ける<strong>着衣認知（Enclothed Cognition）</strong>現象を経験します。
 
@@ -57,9 +58,7 @@ faqs:
 
 ---
 
-## 身体的痛みを誘発する無理なスーツを避け、端正な作業着のバランスに没入する規則
-
-着衣認知効果を得ようとして身体を過度に締め付けたり痛みを引き起こす服を着ることは避けてください。身体的不快感は<strong>前頭前野（Prefrontal Cortex）</strong>に疲労信号を送り集中力を妨げます。清潔感を保ちつつ、長時間の没入に適したスラックスやシャツなど適切な服装バランスを構築することが本質です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -91,12 +90,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 身体的痛みを誘発する無理なスーツを避け、端正な作業着のバランスに没入する規則
+
+着衣認知効果を得ようとして身体を過度に締め付けたり痛みを引き起こす服を着ることは避けてください。身体的不快感は<strong>前頭前野（Prefrontal Cortex）</strong>に疲労信号を送り集中力を妨げます。清潔感を保ちつつ、長時間の没入に適したスラックスやシャツなど適切な服装バランスを構築することが本質です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在宅勤務の際に室内履きや専用の靴を履くことも着衣認知に役立ちますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -105,7 +110,7 @@ faqs:
       はい、非常に優れた効果を発揮します！足の裏に伝わる固い質感と触覚刺激は<strong>体性感覚野（Somatosensory Cortex）</strong>に「屋外活動モード」という信号を送ります。これはソファやベッドに横になりたい欲求を抑え、作業ギアへ切り替える優れた身体的スイッチとなります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>画家やクリエイターのようなクリエイティブな仕事でも端正に着こなすことが役立ちますか？</span>

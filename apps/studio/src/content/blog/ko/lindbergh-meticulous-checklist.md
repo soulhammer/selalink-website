@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "인간의 인지적 실수를 완벽하게 제로로 만드는 법: 찰스 린드버그의 체크리스트 실행 루틴과 작업 기억 보호"
 description: "대서양 단독 비행 횡단에 성공한 항공 영웅 찰스 린드버그. 감각 대신 체크리스트에 의존하여 인지적 오류를 차단한 그의 철두철미한 안전 관리 습관과 전전두엽 작업 기억 보호, 인지적 누락(Omission Error) 방지의 원리 및 3단계 실천 가이드를 분석합니다."
 pubDate: "2026-04-25"
@@ -18,7 +19,7 @@ steps:
     text: "과업 완수 후 미처 잡지 못했거나 새롭게 인지한 오류 항목이 발생했다면, 그 즉시 체크리스트에 신규 점검 항목으로 이식하여 안전망의 완성도를 지속 축적합니다."
 faqs:
   - question: "체크리스트 항목은 많고 상세할수록 좋은가요?"
-    answer: "아닙니다. 체크리스트 항목이 지나치게 길어지면 뇌가 피로감을 느끼고 항목을 건너뛰는 자동화 오류가 발생합니다. 가장 치명적인 실수가 발생할 수 있는 5~9개 내외의 핵심 항목으로 타이트하게 구성하는 것이 뇌과학적으로 가장 이상적입니다."
+    answer: "아닙니다. 체크리스트 항목이 지나치게 길어지면 뇌가 피로감을 느끼고 항목을 건너뛰는 자동화 오류가 발생합니다. 가장 치명적인 실수가 발생할 수 있는 5 ~ 9개 내외의 핵심 항목으로 타이트하게 구성하는 것이 뇌과학적으로 가장 이상적입니다."
   - question: "어떤 업무에 체크리스트를 적용하는 것이 가장 효과적인가요?"
     answer: "정기적으로 반복되는 루틴 업무, 다수에게 공개되어 작은 오류도 치명적인 프로젝트 발송 직전 단계, 중요 계약서 확인, 혹은 출장 및 여행 짐싸기 등 절차적 정확도가 요구되는 과업 전반에서 탁월한 실수를 예방하는 효과를 냅니다."
 ---
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>찰스 린드버그 자서전 『스피릿 오브 세인트루이스(The Spirit of St. Louis, 1953)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인간공학(Human Factors Engineering) 연구</strong>에 근거하여 lindbergh-meticulous-checklist 루틴을 다룹니다.
+      본 콘텐츠는 <strong>찰스 린드버그 자서전 『스피릿 오브 세인트루이스(The Spirit of St. Louis, 1953)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인간공학(Human Factors Engineering) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 전전두엽(Prefrontal Cortex) 작업 기억 보호와 인지적 누락(Omission Error) 차단
+## 1. 전전두엽(Prefrontal Cortex) 작업 기억 보호와 인지적 누락(Omission Error) 차단
 
 스트레스 상태에서 복잡한 순차 과제를 수행할 때, 뇌의 <strong>전전두엽(Prefrontal Cortex)</strong>은 <strong>작업 기억(Working Memory)</strong>을 유지하는 데 엄청난 에너지를 소모합니다. 이때 뇌는 에너지 보존을 위해 과제 절차를 임의로 생략하려 하는데, 이것이 치명적인 <strong>인지적 누락(Omission Error)</strong>의 원인이 됩니다. 서면 체크리스트를 손가락으로 일대일 대조하는 루틴은 뇌의 단순 암기 부하를 완벽히 덜어줍니다. 뇌는 기억 인출의 스트레스에서 벗어나 대조 및 판별이라는 <strong>실행 제어(Executive Control)</strong>에만 에너지를 모을 수 있어, 극심한 피로 속에서도 인지적 오류를 차단하고 일관된 완성도를 확보합니다.
 
 ---
 
-## 시각적 암묵 점검을 배제하고 손끝 일대일 대조(Physical Pointing)에 몰입하는 수칙
-
-체크리스트의 핵심 가치는 목록을 손가락이나 마우스 커서로 짚어가며 일대일로 판별하는 물리적 동기화에 있습니다. 눈으로 대충 훑으며 머릿속으로 '다 확인했다'고 어림잡는 암묵적 확인 방식은 뇌의 착시 현상을 막지 못하므로, 반드시 손끝을 대고 문항을 하나씩 확실히 대조하는 습관을 고수해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 시각적 암묵 점검을 배제하고 손끝 일대일 대조(Physical Pointing)에 몰입하는 수칙
+
+체크리스트의 핵심 가치는 목록을 손가락이나 마우스 커서로 짚어가며 일대일로 판별하는 물리적 동기화에 있습니다. 눈으로 대충 훑으며 머릿속으로 '다 확인했다'고 어림잡는 암묵적 확인 방식은 뇌의 착시 현상을 막지 못하므로, 반드시 손끝을 대고 문항을 하나씩 확실히 대조하는 습관을 고수해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>체크리스트 항목은 많고 상세할수록 좋은가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       아닙니다. 체크리스트 항목이 지나치게 길어지면 뇌가 피로감을 느끼고 항목을 건너뛰는 자동화 오류가 발생합니다. 가장 치명적인 실수가 발생할 수 있는 5 ~ 9개 내외의 핵심 항목으로 타이트하게 구성하는 것이 뇌과학적으로 가장 이상적입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>어떤 업무에 체크리스트를 적용하는 것이 가장 효과적인가요?</span>

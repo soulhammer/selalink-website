@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Perisai Menjaga Ketenangan di Tengah Penderitaan Kumuh? Rutinitas Keheningan Pagi Ibu Teresa"
 description: "Ibu Teresa mengabdikan seluruh hidupnya di kawasan kumuh Kolkata, India. Pelajari manfaat ilmiah dan tips praktis 15 menit dari rutinitas 'keheningan jam 4:30 pagi' yang memanaskan jaringan empati dan kontrol emosi otaknya tanpa terhanyut oleh penderitaan."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Dalam artikel ini, kami memeriksa manfaat neurosains dari rutinitas 'kontemplasi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai teresa-silent-contemplation didasarkan pada <strong>Biografi sejarah dan catatan autobiografi Ibu Teresa & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi sejarah dan catatan autobiografi Ibu Teresa & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Memanaskan Jaringan Empati dan Menekan Hiperaktivitas Amigdala
+## 1. Memanaskan Jaringan Empati dan Menekan Hiperaktivitas Amigdala
 
 Kontemplasi hening di pagi hari menekan gairah berlebih sistem saraf simpatik dan menstabilkan sumbu HPA yang mengatur hormon stres. Ini secara fisik menekan hiperaktivitas pada amigdala. Secara bersamaan, latihan ini memperkuat konektivitas fungsional antara korteks prefrontal dan area emosional, memanaskan jaringan empati dan kontrol emosi untuk mempertahankan ketenangan.
 
 ---
 
-## Kekeliruan Menekan Pikiran dalam Keheningan dan Tips Melepaskannya
-
-Saat mempraktikkan keheningan, mencoba menekan kekhawatiran secara paksa dengan berpikir 'saya tidak boleh memikirkan ini' menciptakan efek melenting di mana pikiran itu justru berputar lebih kuat. Ketika pikiran muncul, jangan dilawan; amati secara tenang seperti awan yang melintas di latar belakang kesadaran Anda dan alihkan fokus pada embusan napas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Saat mempraktikkan keheningan, mencoba menekan kekhawatiran secara paksa dengan 
   </p>
 </div>
 
+---
+
+## 3. Kekeliruan Menekan Pikiran dalam Keheningan dan Tips Melepaskannya
+
+Saat mempraktikkan keheningan, mencoba menekan kekhawatiran secara paksa dengan berpikir 'saya tidak boleh memikirkan ini' menciptakan efek melenting di mana pikiran itu justru berputar lebih kuat. Ketika pikiran muncul, jangan dilawan; amati secara tenang seperti awan yang melintas di latar belakang kesadaran Anda dan alihkan fokus pada embusan napas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa yang harus saya lakukan jika kekhawatiran dan daftar tugas terus bermunculan saat meditasi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Saat mempraktikkan keheningan, mencoba menekan kekhawatiran secara paksa dengan 
       Itu adalah fenomena alami dari otak yang mencoba menjalankan pemrosesan. Jangan melawan pikiran yang muncul; jauhi secara tenang dan akui, 'Ah, saya sedang memikirkan tugas hari ini,' mengamatinya berlalu seperti awan. Mengembalikan kesadaran secara perlahan pada pernapasan adalah solusi terbaik untuk menenangkan gelombang otak.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ibu Teresa melakukannya selama 1 jam; apakah menguranginya menjadi 10–15 menit masih efektif untuk otak?</span>

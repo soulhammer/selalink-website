@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "16.000 Entri Bernomor: Rutinitas Buku Catatan Presisi dan Eksternalisasi Kognitif Michael Faraday"
 description: "Pelajari bagaimana fisikawan Michael Faraday mengatalogkan lebih dari 16.000 entri eksperimen bernomor. Temukan neurosains kognitif tentang eksternalisasi pengetahuan dan pemeliharaan memori kerja."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik teknik 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai faraday-numbered-notebook didasarkan pada <strong>Verifikasi Historis dari *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bagaimana Pengindeksan dan Eksternalisasi Kognitif Menjaga Kapasitas Memori Kerja
+## 1. Bagaimana Pengindeksan dan Eksternalisasi Kognitif Menjaga Kapasitas Memori Kerja
 
 <strong>Memori Kerja (Working Memory)</strong> otak memiliki kapasitas yang sangat terbatas. Menyimpan informasi yang tidak terstruktur menyebabkan kelebihan beban kognitif. Menerapkan sistem penomoran dan pengindeksan Faraday—contoh utama dari <strong>'Eksternalisasi Kognitif (Cognitive Offloading)'</strong>—menghemat energi pencarian mental secara signifikan. Dengan memindahkan pengetahuan ke media eksternal, sumber daya prefrontal dibebaskan untuk penalaran kompleks.
 
 ---
 
-## Perhatian: Prioritaskan Kemudahan Pencarian di Atas Jumlah Catatan
-
-Meningkatkan jumlah catatan secara asal-asalan justru kontraproduktif tanpa menjamin kemudahan pencarian. Mencatat informasi tanpa indeks hanya menghasilkan tumpukan sampah digital atau fisik. Untuk meniru keberhasilan Faraday, buat indeks di halaman pertama atau beri tag kata kunci dan tanggal agar entri dapat ditemukan dalam 3 detik.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Meningkatkan jumlah catatan secara asal-asalan justru kontraproduktif tanpa menj
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Prioritaskan Kemudahan Pencarian di Atas Jumlah Catatan
+
+Meningkatkan jumlah catatan secara asal-asalan justru kontraproduktif tanpa menjamin kemudahan pencarian. Mencatat informasi tanpa indeks hanya menghasilkan tumpukan sampah digital atau fisik. Untuk meniru keberhasilan Faraday, buat indeks di halaman pertama atau beri tag kata kunci dan tanggal agar entri dapat ditemukan dalam 3 detik.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah penomoran berurutan tetap berguna jika menggunakan aplikasi catatan digital?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Meningkatkan jumlah catatan secara asal-asalan justru kontraproduktif tanpa menj
       Ya, tentu saja. Menetapkan nomor entri unik dalam lingkungan digital memberikan manfaat yang luar biasa. Jika pencarian kata kunci gagal saat Anda lupa istilah yang tepat, ID unik (misalnya, #042) menciptakan jangkar untuk tautan balik (backlink) dan referensi silang antar dokumen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara menangani penomoran ketika menggabungkan catatan harian, proyek kerja, dan inspirasi pribadi?</span>

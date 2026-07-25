@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Clock of Königsberg: Immanuel Kant's Daily 3:30 PM Walk and Circadian Rhythm Precision"
 description: "Discover how modern philosophy titan Immanuel Kant maintained unmatched cognitive clarity through his 3:30 PM daily walk in Königsberg. Explore the neuroscience of suprachiasmatic nucleus (SCN) stimulation, circadian alignment, and nasal breathing."
 pubDate: "2026-03-18"
@@ -40,22 +41,20 @@ In today's post, we examine the cognitive neuroscience and chronobiology behind 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding kant-walk is based on <strong>Historical Verification from Manfred Kuehn's *Kant: A Biography*, Königsberg Archives & Brain Research and Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Manfred Kuehn's *Kant: A Biography*, Königsberg Archives & Brain Research and Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Circadian Rhythm Precision and Suprachiasmatic Nucleus (SCN) Stimulation
+## 1. Circadian Rhythm Precision and Suprachiasmatic Nucleus (SCN) Stimulation
 
 Walking an identical route precisely at 3:30 PM every afternoon provides a powerful zeitgeber that stimulates the brain's <strong>Suprachiasmatic Nucleus (SCN)</strong> within the hypothalamus, locking in <strong>Circadian Rhythm</strong> alignment. Consistent outdoor exposure stabilizes the <strong>Autonomic Nervous System</strong>, rebalancing sympathetic and parasympathetic tones while relieving physical tension. Furthermore, this rhythmic aerobic movement replenishes oxygenated blood to the <strong>Prefrontal Cortex</strong>, restoring executive capacity depleted by intense abstract reasoning and maintaining long-term intellectual stamina.
 
 ---
 
-## Caution: Maintaining Strict Nasal Breathing While Suppressing External Verbal Noise
-
-Kant strictly adhered to keeping his mouth closed during walks, believing that talking in cold outdoor air strained his lungs and disrupted nervous balance. The core mechanism is eliminating casual chatter and smartphone notifications, immersing your awareness entirely in quiet nasal breathing and rhythmic walking cadence.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Kant strictly adhered to keeping his mouth closed during walks, believing that t
   </p>
 </div>
 
+---
+
+## 3. Caution: Maintaining Strict Nasal Breathing While Suppressing External Verbal Noise
+
+Kant strictly adhered to keeping his mouth closed during walks, believing that talking in cold outdoor air strained his lungs and disrupted nervous balance. The core mechanism is eliminating casual chatter and smartphone notifications, immersing your awareness entirely in quiet nasal breathing and rhythmic walking cadence.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Immanuel Kant strictly walk at 3:30 PM every afternoon?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Kant strictly adhered to keeping his mouth closed during walks, believing that t
       To sustain high-level abstract philosophical research over decades, Kant maintained a clockwork daily routine that grounded his autonomic nervous system, preserved circadian rhythms, and cleared prefrontal cognitive fatigue to protect his mental clarity.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it necessary to refrain from talking and breathe exclusively through the nose during walks like Kant?</span>

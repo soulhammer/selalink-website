@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "诺贝尔文学奖得主案头的秘密：马尔克斯的黄玫瑰创作习惯"
 description: "《百年孤独》作者加西亚·马尔克斯为何每天清晨都会在案头摆放一朵黄玫瑰？深度解析视觉仪式感如何舒缓大脑并激发创造力的科学原理。"
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 marquez-yellow-rose 的内容基于 <strong>加西亚·马尔克斯历史传记与考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>加西亚·马尔克斯历史传记与考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 视觉仪式感赋予创造力与沉稳心态的科学原理
+## 1. 视觉仪式感赋予创造力与沉稳心态的科学原理
 
 把特定色彩或自然物体（如黄玫瑰）固定摆放并进行视觉观察的仪式，能向大脑传递“安全且情绪平稳”的信号。处于放松状态的大脑会释放利于认知活动与专注力的<strong>阿尔法波（Alpha Waves）</strong>，进而加速意料之外的思想碰撞，显著提升具有立体感的创造性思维。
 
 ---
 
-## 注意事项与使用建议
-
-但请注意，切忌在桌上摆放过于炫目或过于繁复分散注意力的饰品。色彩过于杂乱反而会诱发大脑的<strong>视觉疲劳</strong>并损害专注力，因此需要采用极简主义原则，仅挑选单一、简单且明确的物件。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     注视物件10 ~ 20秒并平缓呼吸，引导大脑自然过渡至平稳且易于沉浸的专注模式。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与使用建议
+
+但请注意，切忌在桌上摆放过于炫目或过于繁复分散注意力的饰品。色彩过于杂乱反而会诱发大脑的<strong>视觉疲劳</strong>并损害专注力，因此需要采用极简主义原则，仅挑选单一、简单且明确的物件。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

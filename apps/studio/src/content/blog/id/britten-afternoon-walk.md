@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Komposer yang Menyelesaikan Dilema Lewat Jalan-Jalan Pesisir Sore: Rutinitas Pembebasan Otak ala Benjamin Britten"
 description: "Pelajari bagaimana Benjamin Britten, raksasa musik Inggris abad ke-20, menyusuri garis pantai setiap sore untuk menyempurnakan struktur musik yang digubahnya selama sesi pagi, serta temukan prinsip neurosains dari Teori Restorasi Perhatian (ART) dan integrasi kognitif melalui DMN."
 pubDate: "2026-04-22"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'jalan
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai britten-afternoon-walk didasarkan pada <strong>Verifikasi Historis dari Biografi Humphrey Carpenter *Benjamin Britten: A Biography* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Humphrey Carpenter *Benjamin Britten: A Biography* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mekanisme Integrasi Kognitif Melalui Teori Restorasi Perhatian (ART) dan Aktivasi DMN
+## 1. Mekanisme Integrasi Kognitif Melalui Teori Restorasi Perhatian (ART) dan Aktivasi DMN
 
 Otak yang terlibat dalam kalkulasi atau kreasi intens selama sesi pagi mengaktifkan Central Executive Network (CEN), mengonsumsi glukosa dan memasuki kondisi 'Kelelahan Perhatian'. Menurut Teori Restorasi Perhatian (ART) dalam psikologi lingkungan, berjalan di luar ruangan yang kaya akan elemen 'Pesona Lembut (Soft Fascination)'—seperti debaran ombak atau gesekan daun—merelaksasi jaringan kontrol perhatian prefrontal. Selama fase pemulihan ini, Default Mode Network (DMN) beroperasi, melakukan 'Integrasi Kognitif' dengan mengorganisir, mentransfer, dan secara tidak sadar menggabungkan kembali informasi terfragmentasi yang diproses sebelumnya ke dalam memori jangka panjang. Britten menggunakan jalan sorenya untuk membersihkan kelelahan kognitif dan melepaskan penalaran bawah sadar.
 
 ---
 
-## Perhatian & Tip: Membedakan Konsumsi Layar Pasif dengan Relaksasi Saraf Aktif
-
-Berbaring di tempat tidur menonton video singkat di smartphone saat merasa lelah bukanlah 'istirahat' secara neurologis. Meskipun tubuh Anda diam, korteks visual dan jalur penghargaan dopamin Anda terus mengonsumsi kapasitas perhatian untuk mendekode umpan video, memperparah kelelahan prefrontal. Istirahat ilmiah sejati yang mereset sumber daya kognitif prefrontal membutuhkan pemutusan total masukan digital dan melakukan jalan santai di luar ruangan di tengah alam, seperti yang dipraktikkan Britten.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Berbaring di tempat tidur menonton video singkat di smartphone saat merasa lelah
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Membedakan Konsumsi Layar Pasif dengan Relaksasi Saraf Aktif
+
+Berbaring di tempat tidur menonton video singkat di smartphone saat merasa lelah bukanlah 'istirahat' secara neurologis. Meskipun tubuh Anda diam, korteks visual dan jalur penghargaan dopamin Anda terus mengonsumsi kapasitas perhatian untuk mendekode umpan video, memperparah kelelahan prefrontal. Istirahat ilmiah sejati yang mereset sumber daya kognitif prefrontal membutuhkan pemutusan total masukan digital dan melakukan jalan santai di luar ruangan di tengah alam, seperti yang dipraktikkan Britten.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Karakteristik geografis apa yang mendefinisikan jalan pesisir Aldeburgh tempat Britten berjalan-jalan setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Berbaring di tempat tidur menonton video singkat di smartphone saat merasa lelah
       Terletak di Suffolk di pantai timur Inggris, Aldeburgh adalah pantai kerikil unik yang terdiri dari batu-batu halus alih-alih pasir. Gelombang yang bergulir di atas kerikil menciptakan suara ritmis yang beresonansi, sementara cakrawala yang luas menawarkan kebebasan visual bagi korteks prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah berjalan di lingkungan perkotaan yang dikelilingi gedung pencakar langit memberikan manfaat pemulihan perhatian yang serupa?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rendering des Weltalls trotz Lähmung: Stephen Hawkings virtuelles Tafel-Training"
 description: "Ein weltberühmter theoretischer Physiker, der ALS überwand. Da er wegen Lähmung keinen Stift halten konnte, aktivierte Hawking eine virtuelle Tafel in seinem Kopf, um den mehrdimensionalen Raum mathematisch zu erfassen."
 pubDate: "2026-06-23"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir die kognitionswissenschaftlichen Prinzipien hi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu stephen-hawking basiert auf <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
+      Dieser Inhalt basiert auf <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurowissenschaftliche Analyse: Wie Visualisierung zum Erfolg führt
+## 1. Neurowissenschaftliche Analyse: Wie Visualisierung zum Erfolg führt
 
 Das lebendige 3D-Rendern und Drehen abstrakter Formen im Kopf stimuliert den 'Visuell-räumlichen Notizblock' des Arbeitsgedächtnisses. Dies stärkt die synaptischen Verbindungen zwischen Scheitellappen und präfrontalem Kortex und erhöht die Fähigkeit des Gehirns, mehrdimensionale Konzepte strukturiert zu erfassen.
 
 ---
 
-## Verhaltenswissenschaftlicher Rat für eine erfolgreiche Gewohnheit
-
-Erzwingen Sie keine hochauflösenden Bilder, um Kopfschmerzen zu vermeiden. Das sanfte Projizieren einfacher Formen auf Ihre virtuelle Tafel bei ruhiger Atmung reicht völlig aus. Statt sich nur auf Willenskraft zu verlassen, gestalten Sie Auslöser in Ihrer Umgebung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Erzwingen Sie keine hochauflösenden Bilder, um Kopfschmerzen zu vermeiden. Das 
   </p>
 </div>
 
+---
+
+## 3. Verhaltenswissenschaftlicher Rat für eine erfolgreiche Gewohnheit
+
+Erzwingen Sie keine hochauflösenden Bilder, um Kopfschmerzen zu vermeiden. Das sanfte Projizieren einfacher Formen auf Ihre virtuelle Tafel bei ruhiger Atmung reicht völlig aus. Statt sich nur auf Willenskraft zu verlassen, gestalten Sie Auslöser in Ihrer Umgebung.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wenn ich die Augen schließe, sehe ich nur Schwarz. Was soll ich tun?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Erzwingen Sie keine hochauflösenden Bilder, um Kopfschmerzen zu vermeiden. Das 
       Das ist eine völlig normale Reaktion. Erzwingen Sie keine 3D-Formen; beginnen Sie damit, eine einfache 2D-Form wie ein oranges Quadrat oder ein weißes Dreieck 3 Sekunden lang stabil im Kopf zu halten.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Hilft die Steigerung dieses mentalen Notizblocks auch beim Organisieren komplexer Abläufe und beim Setzen von Prioritäten?</span>

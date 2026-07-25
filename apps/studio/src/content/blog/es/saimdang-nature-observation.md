@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Descubrimiento de la visión creativa: La rutina de observación ultraprecisa de la naturaleza de Shin Saimdang"
 description: "El método de entrenamiento de la creatividad de Shin Saimdang, la artista más importante de Joseon, a través de la observación de la naturaleza. Explica las bases científicas sobre cómo la observación matutina restaura la atención y desarrolla redes visuales creativas."
 pubDate: "2026-02-24"
@@ -36,22 +37,20 @@ En la publicación de hoy, examinamos la Teoría de Restauración de la Atenció
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre saimdang-nature-observation se basa en <strong>Investigación biográfica e histórica sobre la observación de la naturaleza de Shin Saimdang y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica sobre la observación de la naturaleza de Shin Saimdang y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teoría de Restauración de la Atención y sanación cerebral de la 'Fascinación Suave'
+## 1. Teoría de Restauración de la Atención y sanación cerebral de la 'Fascinación Suave'
 
 Según la Teoría de Restauración de la Atención en psicología ambiental, la 'Atención Dirigida' utilizada en entornos urbanos o pantallas digitales genera un gran desgaste energético en el córtex prefrontal, provocando fatiga. En cambio, observar cómodamente elementos naturales conduce al cerebro a un estado de 'Fascinación Suave'. Esto recarga la batería cognitiva del lóbulo frontal y activa redes de visualización creativa.
 
 ---
 
-## Consejo de Saimdang para recargar la inspiración y la mente
-
-La creatividad sabia no brota forzando el cerebro. Aléjese del escritorio por un momento, observe en silencio una brizna de hierba silvestre o un insecto, y dé un descanso a su cerebro. En la relajación natural, el cerebro recarga su energía y le devuelve inspiración fresca.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ La creatividad sabia no brota forzando el cerebro. Aléjese del escritorio por u
     Regrese al interior y registre el sujeto observado al menos una vez al día utilizando medios analógicos: bocetos a lápiz, descripciones cortas o garabatos, para internalizar la visualización.
   </p>
 </div>
+
+---
+
+## 3. Consejo de Saimdang para recargar la inspiración y la mente
+
+La creatividad sabia no brota forzando el cerebro. Aléjese del escritorio por un momento, observe en silencio una brizna de hierba silvestre o un insecto, y dé un descanso a su cerebro. En la relajación natural, el cerebro recarga su energía y le devuelve inspiración fresca.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

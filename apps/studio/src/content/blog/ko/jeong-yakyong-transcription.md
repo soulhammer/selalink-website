@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "유배지 500권 저술의 원동력: 다산 정약용의 초서와 편지 쓰기 및 인지적 부호화 루틴"
 description: "조선 최고의 실학자 다산 정약용. 18년의 강진 유배 생활 동안 지식을 요약·필기하는 '초서(抄書)'와 두 아들에게 학문을 훈계했던 편지 쓰기의 뇌과학적 원리, 체성감각 피질 자극 및 메타인지 강화 효과를 탐구합니다."
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>다산 정약용 저작집 『여유당전서(與猶堂全書)』 및 자서전 『사암연보(俟菴年譜)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 메타인지(Metacognition) 연구</strong>에 근거하여 jeong-yakyong-transcription 루틴을 다룹니다.
+      본 콘텐츠는 <strong>다산 정약용 저작집 『여유당전서(與猶堂全書)』 및 자서전 『사암연보(俟菴年譜)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 메타인지(Metacognition) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 손-뇌 동기화를 통한 인지적 부호화(Cognitive Encoding)와 메타인지
+## 1. 손-뇌 동기화를 통한 인지적 부호화(Cognitive Encoding)와 메타인지
 
 텍스트를 눈으로 읽는 것과 손을 써서 종이에 받아 적는 행위는 뇌의 활동에서 완전히 다른 신경망을 활성화합니다. 펜을 직접 쥐고 요약하며 필기하는 촉각 행동은 <strong>체성감각 피질(Somatosensory Cortex)</strong>을 자극하여 <strong>전두엽(Prefrontal Cortex)</strong>과 <strong>연합 피질(Association Cortex)</strong>로 인지 신호를 전송함으로써 <strong>'인지적 부호화(Cognitive Encoding)'</strong>를 강력히 유도합니다. 또한 자신이 정립한 지식을 타인(자녀 또는 동료)에게 가르치는 형태로 재구성하여 편지나 글로 작성하는 행위는 <strong>메타인지(Metacognition)</strong> 능력을 비약적으로 끌어올려, 지식을 가장 체계적이고 장기적인 기억 구조로 정착시킵니다.
 
 ---
 
-## 단순 기계적 필사를 넘어 능동적 초록화와 가공에 집중하는 수칙
-
-초서 습관을 진행할 때 범하기 쉬운 오류는 '책의 내용을 그대로 기계처럼 베껴 쓰는 것'입니다. 뇌를 거치지 않고 글자만 그대로 베껴 적으면 단순한 유용한 노동에 그쳐 기억 부호화가 일어나지 않습니다. 문장을 완전히 이해하고, 자신의 인지 구조로 필터링한 핵심 요약과 자기만의 인사이트를 한 줄이라도 덧붙여야 진짜 지식으로 축적됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 단순 기계적 필사를 넘어 능동적 초록화와 가공에 집중하는 수칙
+
+초서 습관을 진행할 때 범하기 쉬운 오류는 '책의 내용을 그대로 기계처럼 베껴 쓰는 것'입니다. 뇌를 거치지 않고 글자만 그대로 베껴 적으면 단순한 유용한 노동에 그쳐 기억 부호화가 일어나지 않습니다. 문장을 완전히 이해하고, 자신의 인지 구조로 필터링한 핵심 요약과 자기만의 인사이트를 한 줄이라도 덧붙여야 진짜 지식으로 축적됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>수기 필기 대신 키보드로 타이핑하여 지식을 정리하는 것도 효과가 같나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       아닙니다. 펜으로 종이에 직접 쓰면 뇌의 체성감각 피질이 강하게 자극되어 기억의 부호화 효율이 훨씬 높아집니다. 키보드 타이핑은 입력 속도는 빠르지만, 모든 자판의 누름 감각이 동일하여 인지적 촉각 자극이 부족합니다. 중요한 장기 기억 형성을 원한다면 수기 초서가 훨씬 강력합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>꼭 편지 형태가 아니더라도 남에게 설명해 주면 메타인지 효과가 일어나나요?</span>

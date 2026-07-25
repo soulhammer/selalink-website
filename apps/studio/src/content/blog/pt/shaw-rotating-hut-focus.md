@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Isolamento para imersão perfeita: O hábito de escrita na cabana giratória de George Bernard Shaw"
 description: "O dramaturgo Bernard Shaw ganhou tanto o Prêmio Nobel quanto o Oscar. Descubra o segredo do seu foco profundo: isolar-se por 6 horas diárias em uma pequena cabana giratória no jardim, aproveitando a luz natural e bloqueando distrações."
 pubDate: "2026-02-27"
@@ -29,25 +30,23 @@ George Bernard Shaw, o dramaturgo ganhador do Prêmio Nobel famoso por obras com
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre shaw-rotating-hut-focus é baseada em <strong>Biografias históricas, registros autobiográficos do foco na cabana giratória de Shaw e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas, registros autobiográficos do foco na cabana giratória de Shaw e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Exposição à luz natural e minimização dos custos de alternância cognitiva (Switching Cost)
+## 1. Exposição à luz natural e minimização dos custos de alternância cognitiva (Switching Cost)
 
 A exposição contínua à luz natural estimula as células ganglionares da retina, maximizando a síntese de serotonina que promove o estado de alerta — um efeito que a iluminação artificial não consegue replicar. Além disso, cada vez que o cérebro sofre pequenas interrupções externas (perguntas, batidas na porta, toques de telefone), consome energia considerável (custos de alternância) para reajustar o contexto da memória de trabalho. Colocar o cérebro em um espaço fisicamente isolado como a cabana de Shaw elimina a interferência cognitiva na fonte, prevenindo a perda da memória de trabalho e permitindo horas de trabalho profundo (Deep Work) contínuo.
 
 ---
 
-## Precauções e dicas
-
-Um aviso crucial ao aplicar o isolamento físico é não levar smartphones e notificações de redes sociais para dentro do espaço isolado. Mesmo que o bloqueio físico evite interrupções externas, manter distrações digitais na mão deixa o cérebro preso a impulsos inconscientes de checar notificações, gerando fadiga por multitarefa. Portanto, ao entrar na sua zona de foco, desative todas as notificações (modo Não Perturbe) ou trabalhe offline. Um verdadeiro detox digital combinado ao isolamento físico é indispensável para vivenciar plenamente o efeito da cabana giratória.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,9 +78,15 @@ Um aviso crucial ao aplicar o isolamento físico é não levar smartphones e not
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Um aviso crucial ao aplicar o isolamento físico é não levar smartphones e notificações de redes sociais para dentro do espaço isolado. Mesmo que o bloqueio físico evite interrupções externas, manter distrações digitais na mão deixa o cérebro preso a impulsos inconscientes de checar notificações, gerando fadiga por multitarefa. Portanto, ao entrar na sua zona de foco, desative todas as notificações (modo Não Perturbe) ou trabalhe offline. Um verdadeiro detox digital combinado ao isolamento físico é indispensável para vivenciar plenamente o efeito da cabana giratória.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

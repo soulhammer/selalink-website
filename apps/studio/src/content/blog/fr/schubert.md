@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La routine de composition immédiate de Schubert : aller directement à la portée avec ses lunettes dès le réveil"
 description: "Le Roi des Lieder, qui a laissé plus de 600 mélodies au cours de sa courte vie de 31 ans, capturait les traces de ses rêves sur le papier à musique dès le réveil, lunettes sur le nez."
 pubDate: "2026-07-08"
@@ -31,25 +32,23 @@ Dans cet article, nous présentons les principes des neurosciences cognitives de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant schubert est basée sur <strong>Étude basée sur la biographie historique et les récits autobiographiques de Schubert & les Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude basée sur la biographie historique et les récits autobiographiques de Schubert & les Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analyse neuroscientifique des principes du succès
+## 1. Analyse neuroscientifique des principes du succès
 
 Immédiatement après le réveil, le cerveau humain maintient un état d'ondes Thêta créatives avant que les filtres cognitifs logiques et les pensées parasites ne s'installent. Comme Schubert, en bloquant complètement les étapes de préparation entre le réveil et l'action créative principale (vérifier son téléphone, se laver le visage, ranger son bureau) pour réduire la friction à zéro, on peut capturer directement sur papier les idées intuitives brillantes tapies dans l'inconscient.
 
 ---
 
-## Conseil en science du comportement pour une adoption réussie
-
-Attention : dès que vous consultez les notifications de votre smartphone ou vos messages pendant seulement 10 secondes au réveil, le cerveau est envahi par le stress d'informations extérieures, perdant complètement l'état d'ondes Thêta.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Attention : dès que vous consultez les notifications de votre smartphone ou vos
   </p>
 </div>
 
+---
+
+## 3. Conseil en science du comportement pour une adoption réussie
+
+Attention : dès que vous consultez les notifications de votre smartphone ou vos messages pendant seulement 10 secondes au réveil, le cerveau est envahi par le stress d'informations extérieures, perdant complètement l'état d'ondes Thêta.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si le sommeil me réenvahit après avoir écrit mes pensées du matin ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Attention : dès que vous consultez les notifications de votre smartphone ou vos
       C'est tout à fait normal. Durant ces 2 minutes d'écriture, la capture des ondes Thêta a déjà réussi. Boire de l'eau ou s'étirer juste après envoie des signaux de réveil au cerveau pour dissiper le sommeil.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si rien ne me vient à l'esprit juste après le réveil ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Kraft zur Erweckung positiver Gehirnschaltkreise: Dosan Ahn Chang-hos Spiegel-Lächeln und Sauberkeitsroutine"
 description: "Die Macht von 'Lächeln' und 'Sauberkeit', betont vom Unabhängigkeitsaktivisten Dosan Ahn Chang-ho. Entdecken Sie die wissenschaftlichen Gründe, warum ein erzwungenes Lächeln Serotonin im Gehirn freisetzt und ein aufgeräumter Raum die visuelle kognitive Belastung reduziert."
 pubDate: "2026-01-19"
@@ -33,17 +34,17 @@ Im heutigen Beitrag analysieren wir die Prinzipien der Facial-Feedback-Hypothese
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu anchangho-mirror-smile basiert auf <strong>Historische Überprüfung aus Dosan Ahn Chang-hos Biografie & Aufzeichnungen der Young Korean Academy (Hung Sah Dahn) & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Dosan Ahn Chang-hos Biografie & Aufzeichnungen der Young Korean Academy (Hung Sah Dahn) & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kognitive therapeutische Wirkungen der Facial-Feedback-Hypothese und der Ordnung des physischen Raums
+## 1. Kognitive therapeutische Wirkungen der Facial-Feedback-Hypothese und der Ordnung des physischen Raums
 
 Gemäß der Facial-Feedback-Hypothese in der Physiologie bewegt das Gehirn Gesichtsmuskeln nicht nur basierend auf Emotionen, sondern erkennt umgekehrt den Kontraktionszustand der Gesichtsmuskeln, um den aktuellen Gefühlszustand zu ermitteln. Allein das Erzzwingen eines Lächelns am Morgen lässt das Gehirn dies als Freude wahrnehmen, was die Ausschüttung positiver Neurotransmitter wie Serotonin und Dopamin fördert und den Spiegel des Stresshormons Cortisol senkt.
 
@@ -51,9 +52,7 @@ Darüber hinaus blockiert das Reinigen und Ordnen des umgebenden Raums unnötige
 
 ---
 
-## Ein Wort von Dosan zur Ordnung von Geist und Raum
-
-Wenn Ihr Geist zerstreut ist, versuchen Sie nicht krampfhaft, Ihre Gedanken zusammenzunehmen, sondern beginnen Sie damit, sich selbst im Spiegel ein Lächeln zu schenken und ein Papier aufzusammeln, das direkt vor Ihren Augen liegt. Ein Lächeln vertreibt die innere Dunkelheit, und Sauberkeit korrigiert die äußere Unordnung und führt Sie auf den richtigen Weg.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Wenn Ihr Geist zerstreut ist, versuchen Sie nicht krampfhaft, Ihre Gedanken zusa
     Auch wenn Sie das Haus nicht verlassen, waschen Sie Ihr Gesicht, kämmen Sie Ihr Haar ordentlich, vermeiden Sie knittrige oder schmutzige Kleidung und wahren Sie Ihr gepflegtes Äußeres, um kognitive Spannung zu erzeugen.
   </p>
 </div>
+
+---
+
+## 3. Ein Wort von Dosan zur Ordnung von Geist und Raum
+
+Wenn Ihr Geist zerstreut ist, versuchen Sie nicht krampfhaft, Ihre Gedanken zusammenzunehmen, sondern beginnen Sie damit, sich selbst im Spiegel ein Lächeln zu schenken und ein Papier aufzusammeln, das direkt vor Ihren Augen liegt. Ein Lächeln vertreibt die innere Dunkelheit, und Sauberkeit korrigiert die äußere Unordnung und führt Sie auf den richtigen Weg.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Genio que Cambiaba el Color del Papel Según el Género: La Rutina de Reinicio por Color y Primación Visual de Alexandre Dumas"
 description: "Descubra cómo Alexandre Dumas, autor de 'El conde de Montecristo', usaba papeles de diferentes colores según el género para evitar la fatiga mental. Explore la neurociencia cognitiva del primado por color y la reducción de costes de conmutación."
 pubDate: "2026-06-07"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre dumas-color-switching se basa en <strong>Verificación Histórica de la Autobiografía de Alexandre Dumas *Mis memorias (Mes Mémoires)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Alexandre Dumas *Mis memorias (Mes Mémoires)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Compensación de los Costes de Cambio de Tarea Mediante el 'Efecto de Primación por Color'
+## 1. Compensación de los Costes de Cambio de Tarea Mediante el 'Efecto de Primación por Color'
 
 Al alternar entre tareas cognitivas distintas —como la redacción estratégica, el análisis cuantitativo o la lluvia de ideas—, el cerebro incurre en 'Costes de Cambio de Tarea'. Este retraso ocurre porque el 'Residuo Cognitivo' de la tarea anterior ocupa la memoria de trabajo en la corteza prefrontal, reduciendo la eficiencia. El método de códigos de color de Alexandre Dumas aplica el 'Primado Visual por Color'. En el instante en que la corteza visual detecta un color asociado a un dominio específico (p. ej., papel azul para la ficción), indica a las redes prefrontales que eliminen el residuo cognitivo previo, minimizando la fricción.
 
 ---
 
-## Precauciones y Consejos: Establecer Límites Visuales Claros y Simplificar Categorías
-
-Para Dumas, el papel de color no era un capricho decorativo, sino una señal neuronal externa que definía límites cognitivos para eliminar la fricción. Evite complicar el sistema con demasiados colores: usar más de 3 temas impide que el cerebro establezca un aprendizaje asociativo sólido. Mantenga sus categorías en 3 o menos y conserve los colores asignados de forma constante para consolidar el condicionamiento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para Dumas, el papel de color no era un capricho decorativo, sino una señal neu
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Establecer Límites Visuales Claros y Simplificar Categorías
+
+Para Dumas, el papel de color no era un capricho decorativo, sino una señal neuronal externa que definía límites cognitivos para eliminar la fricción. Evite complicar el sistema con demasiados colores: usar más de 3 temas impide que el cerebro establezca un aprendizaje asociativo sólido. Mantenga sus categorías en 3 o menos y conserve los colores asignados de forma constante para consolidar el condicionamiento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿El código de colores digital (temas de Notion, aplicaciones de tabletas) ofrece el mismo efecto de primado que el papel analógico?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para Dumas, el papel de color no era un capricho decorativo, sino una señal neu
       Sí, absolutamente. El mecanismo fundamental se basa en el condicionamiento sensorial entre la entrada de color y los estados cognitivos. Definir temas de fondo distintos en aplicaciones de notas, colores de carpetas en Notion o temas de interfaz en navegadores envía señales de primado idénticas a la corteza prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Asignar demasiadas variaciones de color provocará una sobrecarga cognitiva inversa o confusión?</span>

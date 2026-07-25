@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "完全な没頭のための孤立：ジョージ・バーナード・ショーの回転式小屋での執筆習慣"
 description: "ノーベル賞とアカデミー賞を共に受賞した劇作家バーナード・ショー。毎日6時間、庭の小さな回転式小屋に身を置き、自然光を浴びながら雑念を遮断した彼の深層集中の秘訣を探ります。"
 pubDate: "2026-02-27"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「shaw-rotating-hut-focus」は <strong>バーナード・ショーの回転小屋での集中に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>バーナード・ショーの回転小屋での集中に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自然光への露出と認知の切り替えコスト（Switching Cost）の最小化
+## 1. 自然光への露出と認知の切り替えコスト（Switching Cost）の最小化
 
 朝から正午まで続く自然光（Daylight）への露出は、網膜の視神経細胞を刺激して覚醒を誘導するセロトニン合成システムを最大限に刺激します。これは室内の蛍光灯では得られない大脳覚醒効果を発揮します。さらに脳は、他人の些細な邪魔（例：質問、ノック、電話の音）を受けるたびに、作業記憶（Working Memory）の文脈を再調整するためにかなりのエネルギー（認知的切り替えコスト）を消費します。バーナード・ショーのように物理的に完全に隔離された空間に脳を配置すれば、このような認知的干渉を根本から遮断し、作業記憶の喪失を防いで深い没頭（Deep Work）状態を数時間にわたり無理なく維持できるようになります。
 
 ---
 
-## 注意事項とヒント
-
-物理的な遮断習慣を適用する際の注意点は、隔離された空間にスマートフォンやSNSの通知を持ち込むことです。外部からの物理的遮断が完成していても、手元に仮想の邪魔要素（スマホ通知）が残っていれば、脳は無意識の確認欲求に囚われ、マルチタスク状態に陥ります。したがって隔離ゾーンに入る際は、メインPCやスマホの通知を完全に無効化（お休みモード等）にすべきです。オフライン状態や単一の集中用プログラムだけを起動して作業する真のデジタルデトックスが伴ってこそ、回転小屋効果を十分に体感できます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     デスクを窓の近くに配置し、日光をしっかり浴びられるようにします。自然光を顔や視野周辺に十分に取り入れることで、朝早くから大脳のセロトニン合成を促し、長期的な課題に集中します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+物理的な遮断習慣を適用する際の注意点は、隔離された空間にスマートフォンやSNSの通知を持ち込むことです。外部からの物理的遮断が完成していても、手元に仮想の邪魔要素（スマホ通知）が残っていれば、脳は無意識の確認欲求に囚われ、マルチタスク状態に陥ります。したがって隔離ゾーンに入る際は、メインPCやスマホの通知を完全に無効化（お休みモード等）にすべきです。オフライン状態や単一の集中用プログラムだけを起動して作業する真のデジタルデトックスが伴ってこそ、回転小屋効果を十分に体感できます。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

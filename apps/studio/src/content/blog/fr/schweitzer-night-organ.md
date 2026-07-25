@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le réinitialisation nocturne d'un Prix Nobel de la Paix : la routine d'orgue du soir d'Albert Schweitzer"
 description: "Comment le Dr Albert Schweitzer a surmonté une fatigue extrême dans un hôpital de la jungle africaine en jouant de l'orgue de Bach chaque soir : guide de réinitialisation du système nerveux autonome."
 pubDate: "2026-01-29"
@@ -33,17 +34,17 @@ Dans cet article, nous présentons la science de la relaxation du système nerve
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant schweitzer-night-organ est basée sur <strong>Étude basée sur la biographie historique et les récits autobiographiques d'Albert Schweitzer & les Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude basée sur la biographie historique et les récits autobiographiques d'Albert Schweitzer & les Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation du système nerveux parasympathique induite par des mélodies classiques structurées
+## 1. Activation du système nerveux parasympathique induite par des mélodies classiques structurées
 
 Le stress excessif durant la journée suractive le système nerveux sympathique, augmentant le cortisol et perturbant l'équilibre autonome.
 
@@ -51,9 +52,7 @@ Les mélodies classiques structurées d'un tempo de 60 à 80 BPM, comme Bach, ag
 
 ---
 
-## Choisissez une musique relaxante plutôt que des écrans stimulants avant le coucher
-
-Consommer des vidéos ou des textes stimulants tard le soir empêche le cerveau de passer en mode repos. Comme le Dr Schweitzer, envoyez des signaux de relaxation grâce à la musique. Aménager un environnement propice est la clé de la régularité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Consommer des vidéos ou des textes stimulants tard le soir empêche le cerveau 
   </p>
 </div>
 
+---
+
+## 3. Choisissez une musique relaxante plutôt que des écrans stimulants avant le coucher
+
+Consommer des vidéos ou des textes stimulants tard le soir empêche le cerveau de passer en mode repos. Comme le Dr Schweitzer, envoyez des signaux de relaxation grâce à la musique. Aménager un environnement propice est la clé de la régularité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Puis-je écouter des ballades avec paroles au lieu de la musique classique ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Consommer des vidéos ou des textes stimulants tard le soir empêche le cerveau 
       La musique avec paroles réactive le cortex linguistique, empêchant un repos complet. La musique instrumentale pure (classique, jazz, lo-fi) est bien plus efficace pour la relaxation autonome.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il bénéfique de s'endormir en écoutant de la musique ?</span>

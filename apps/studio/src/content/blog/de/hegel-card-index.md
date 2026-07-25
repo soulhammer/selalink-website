@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Depot des philosophischen Denkens: Hegels dialektische Karteikarten-Methode und kognitive Gerüst-Routine"
 description: "Hinter Hegels Vollendung des deutschen Idealismus standen zehntausende Wissenskarten und ein Karteikastensystem. Entdecken Sie seine Methode des kognitiven Gerüstbaus (Cognitive Scaffolding) und einen 3-Schritte-Plan zur Erweiterung des Arbeitsgedächtnisses."
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Kognitionswissenschaft hinter Hegels Kar
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu hegel-card-index basiert auf <strong>Historische Überprüfung aus G. W. F. Hegel-Biografien, Archiven der *Phänomenologie des Geistes* & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus G. W. F. Hegel-Biografien, Archiven der *Phänomenologie des Geistes* & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kognitiver Gerüstbau (Cognitive Scaffolding): Überwindung von Grenzen des Arbeitsgedächtnisses
+## 1. Kognitiver Gerüstbau (Cognitive Scaffolding): Überwindung von Grenzen des Arbeitsgedächtnisses
 
 Das Arbeitsgedächtnis im präfrontalen Kortex kann nur wenige Informationen gleichzeitig verarbeiten. Das reine Verwalten komplexer Gedanken im Kopf führt zur kognitiven Überlastung. Hegels Karteikartensystem dient als <strong>kognitiver Gerüstbau (Cognitive Scaffolding)</strong>. Das Auslagern von Wissen schafft mentale Kapazität. Das physische Auslegen und Kombinieren der Karten aktiviert assoziative Netzwerke und führt zu neuen Synthesen.
 
 ---
 
-## Vorsichtsmaßnahme: Über bloßes Ansammlung hinausgehen und Gedanken organisch verknüpfen
-
-Hegels Karteikästen waren kein totes Archiv, sondern eine funktionale Erweiterung seines Denkens. Geben Sie sich nicht mit dem bloßen Aufschreiben zufrieden. Der Kern kognitiven Gerüstbaus liegt darin, Notizen so zu strukturieren, dass sie jederzeit wieder hervorgeholt und mit anderen Gedanken kombiniert werden können.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Hegels Karteikästen waren kein totes Archiv, sondern eine funktionale Erweiteru
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Über bloßes Ansammlung hinausgehen und Gedanken organisch verknüpfen
+
+Hegels Karteikästen waren kein totes Archiv, sondern eine funktionale Erweiterung seines Denkens. Geben Sie sich nicht mit dem bloßen Aufschreiben zufrieden. Der Kern kognitiven Gerüstbaus liegt darin, Notizen so zu strukturieren, dass sie jederzeit wieder hervorgeholt und mit anderen Gedanken kombiniert werden können.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Können digitale Werkzeuge diese analoge Karteikarten-Routine effektiv ersetzen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Hegels Karteikästen waren kein totes Archiv, sondern eine funktionale Erweiteru
       Ja, absolut. Sie können ein Karteikartensystem mit digitalen Tools wie Notion, Obsidian oder Notiz-Apps umsetzen. Insbesondere die Nutzung bidirektionaler Links (Backlinks) spiegelt Hegels Denkverknüpfungen wider.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Warum sind kurze Karteikarten effektiver als das Schreiben langer Texte in Notizbücher?</span>

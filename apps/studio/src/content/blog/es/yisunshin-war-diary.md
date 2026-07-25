@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Vaciando el estrés extremo en la punta del pincel: La rutina de diario reflexivo del almirante Yi Sun-sin"
 description: "El almirante Yi Sun-sin, héroe nacional de Joseon. Descubra los efectos psicológicos cognitivos y la rutina de organización emocional de 3 pasos para llevar un diario reflexivo (Nanjung Ilgi), el secreto detrás de superar la presión extrema del campo de batalla y el dolor interno para lograr una leyenda invicta."
 pubDate: "2026-06-29"
@@ -38,22 +39,20 @@ En la publicación de hoy, presentamos los efectos psicológicos cognitivos de l
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre yisunshin-war-diary se basa en <strong>Examen de biografías históricas y registros autobiográficos del almirante Yi Sun-sin e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Examen de biografías históricas y registros autobiográficos del almirante Yi Sun-sin e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Catarsis emocional y efectos de calma en la amígdala de la escritura expresiva
+## 1. Catarsis emocional y efectos de calma en la amígdala de la escritura expresiva
 
 Al enfrentarse a emociones negativas como el miedo intenso o los sentimientos de injusticia, el centro del miedo del cerebro, la <strong>Amígdala</strong>, se sobrecalienta enormemente. En este estado, las funciones del lóbulo frontal responsables del juicio racional y la fuerza de voluntad se paralizan. Según investigaciones en psicología cognitiva, la <strong>'Escritura Expresiva'</strong> —el acto de transferir estados emocionales amorfos a texto estructurado escrito a mano— calma por la fuerza la activación anormal de la amígdala. Al nombrar las emociones y alinearlas con hechos objetivos, el cerebro percibe situaciones previamente incontrolables como manejables, liberando inmediatamente recursos cognitivos y demostrando una fuerte resiliencia al estrés.
 
 ---
 
-## Escriba solo su verdad sin preocuparse por el juicio de los demás
-
-Para disfrutar plenamente del efecto de purificación emocional de un diario reflexivo, debe ignorar por completo la mirada de los demás. Si comienza a pulir o censurar frases por temor a '¿y si alguien lee mi diario?', el mecanismo de objetivación que relaja la amígdala no funcionará. Así como el almirante Yi Sun-sin expresó su miedo, ira y angustia sin filtro a través de su pincel, la presión cognitiva solo se alivia cuando se es completamente honesto consigo mismo en el espacio de registro más íntimo pensado solo para usted.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para disfrutar plenamente del efecto de purificación emocional de un diario ref
   </p>
 </div>
 
+---
+
+## 3. Escriba solo su verdad sin preocuparse por el juicio de los demás
+
+Para disfrutar plenamente del efecto de purificación emocional de un diario reflexivo, debe ignorar por completo la mirada de los demás. Si comienza a pulir o censurar frases por temor a '¿y si alguien lee mi diario?', el mecanismo de objetivación que relaja la amígdala no funcionará. Así como el almirante Yi Sun-sin expresó su miedo, ira y angustia sin filtro a través de su pincel, la presión cognitiva solo se alivia cuando se es completamente honesto consigo mismo en el espacio de registro más íntimo pensado solo para usted.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo hacer si no tengo nada que escribir a diario o me falta tiempo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para disfrutar plenamente del efecto de purificación emocional de un diario ref
       No hay necesidad de escribir extensamente; solo tres líneas son suficientes. Al resumir 'una cosa que más me agotó hoy', 'mi emoción en ese momento' y 'una cosa de esas que puedo corregir mañana', el mecanismo de objetivación emocional del cerebro funciona exactamente igual.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Tiene el mismo efecto escribir en una aplicación de diario en el teléfono o tecleando?</span>

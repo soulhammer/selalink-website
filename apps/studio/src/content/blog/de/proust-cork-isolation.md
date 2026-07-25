@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eine Raum der Stille, der Erinnerungen weckt? Marcel Prousts Kork-Sensory-Deprivation-Routine"
 description: "Marcel Proust, Autor des Meisterwerks 'Auf der Suche nach der verlorenen Zeit'. Entdecken Sie seine Kontrolle der Reize durch Korkverkleidung im Schlafzimmer zur Blockade von Licht und Schall sowie deren neurowissenschaftliche Grundlagen."
 pubDate: "2026-01-29"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu proust-cork-isolation basiert auf <strong>Historische Biografien und Schriften über Marcel Proust & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und Schriften über Marcel Proust & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Die Wirkung der thalamischen Filterung gegen Informationsüberlastung
+## 1. Die Wirkung der thalamischen Filterung gegen Informationsüberlastung
 
 Der <strong>Thalamus</strong>, das Tor für Sinneseindrücke im Gehirn, verbraucht erhebliche Energie, um Umgebungsgeräusche und Bildschirmlicht zu filtern. Diese Reizüberflutung raubt dem präfrontalen Kortex exekutive Ressourcen.
 
@@ -47,9 +48,7 @@ Durch eine schallisolierte Korkumgebung und Dunkelheit wie bei Proust werden St�
 
 ---
 
-## Das Geheimnis tiefer Konzentration durch absolute Isolation
-
-Der Kern von Prousts Routine liegt in der Etablierung einer Umgebung, in der Ablenkungen unmöglich sind. In offenen Umgebungen wie Cafés verbraucht das Gehirn ständig Energie für die Verarbeitung von Hintergrundreizen. Um tiefen Fokus zu erreichen, schirmen Sie Sinneseindrücke durch Noise-Cancelling-Kopfhörer und gedimmtes Licht komplett ab.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Der Kern von Prousts Routine liegt in der Etablierung einer Umgebung, in der Abl
   </p>
 </div>
 
+---
+
+## 3. Das Geheimnis tiefer Konzentration durch absolute Isolation
+
+Der Kern von Prousts Routine liegt in der Etablierung einer Umgebung, in der Ablenkungen unmöglich sind. In offenen Umgebungen wie Cafés verbraucht das Gehirn ständig Energie für die Verarbeitung von Hintergrundreizen. Um tiefen Fokus zu erreichen, schirmen Sie Sinneseindrücke durch Noise-Cancelling-Kopfhörer und gedimmtes Licht komplett ab.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann vollständige Stille nicht auch Angstzustände auslösen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Der Kern von Prousts Routine liegt in der Etablierung einer Umgebung, in der Abl
       Je nach Persönlichkeit kann absolute Stille Ohrgeräusche oder Unruhe auslösen. Nutzen Sie in diesem Fall leises Rosa Rauschen (z. B. Regen- oder Windgeräusche). Naturgeräusche entspannen, ohne kognitive Ressourcen zu binden.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist das Arbeiten im Liegen im Bett förderlich für die Konzentration?</span>

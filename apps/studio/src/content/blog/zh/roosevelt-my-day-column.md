@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "通过文字建立不可动摇的自我：埃莱娜·罗斯福每日傍晚的反思记录习惯"
 description: "埃莱娜·罗斯福是美国极具影响力的第一夫人。揭示她连续27年每日傍晚撰文记录生活以确立自我认同的日志习惯及其元认知功效。"
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 roosevelt-my-day-column 的内容基于 <strong>埃莱娜·罗斯福历史评传与自传考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>埃莱娜·罗斯福历史评传与自传考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 短期记忆的长期巩固与认知元能力的提升
+## 1. 短期记忆的长期巩固与认知元能力的提升
 
 若对一天的经历与情绪任其混乱，会刺激杏仁核（Amygdala），转化为压力记忆或白白占用工作记忆。像埃莱娜·罗斯福一样通过写作结构化整理一天的经历，能激活大脑的<strong>“海马体”（Hippocampus）</strong>，促进情景记忆向稳定的长期记忆转化。此外，将情绪转化为客观词汇的过程会刺激前额叶，飞跃性提升以第三人称视角审视自我心境的<strong>“元认知”（Metacognition）</strong>能力，平息情绪冲动。
 
 ---
 
-## 保持观照式的平淡自然，而非追求刻意理想化的目标
-
-在写日志时，如果强迫自己罗列虚假的积极言语或记录难以执行的沉重计划，反而会导致认知压力并阻碍记录习惯。像埃莱娜那样，平淡地复盘今天经历的客观事实与遇到的人，随和自然地记录包含其中的内心状态，才是持续的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 保持观照式的平淡自然，而非追求刻意理想化的目标
+
+在写日志时，如果强迫自己罗列虚假的积极言语或记录难以执行的沉重计划，反而会导致认知压力并阻碍记录习惯。像埃莱娜那样，平淡地复盘今天经历的客观事实与遇到的人，随和自然地记录包含其中的内心状态，才是持续的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果每天写日志觉得内容千篇一律该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       即使日常生活重复，也请尝试捕捉其中微小的不同——遇到的面孔、食物的味道或天气的气味。寻找微妙差异的尝试本身就是锻炼大脑注意力与训练元认知的卓越实践。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>使用数字日志应用或Notion记录具有相同的效果吗？</span>

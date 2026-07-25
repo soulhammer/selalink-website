@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Boxe antes de escrever Sherlock Holmes? A rotina esportiva de ativação cerebral e secreção de BDNF de Arthur Conan Doyle"
 description: "Descubra por que o médico e escritor Arthur Conan Doyle praticava esportes intensos como boxe e críquete antes de escrever. Explore a neurociência cognitiva de como o exercício libera BDNF e eleva a função executiva pré-frontal."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'esport
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre doyle-sports-writing é baseada em <strong>Verificação Histórica da Autobiografia de Arthur Conan Doyle *Memórias e Aventuras (Memories and Adventures)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Arthur Conan Doyle *Memórias e Aventuras (Memories and Adventures)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ativação Física, Secreção de BDNF e Maximização da Função Executiva Pré-Frontal
+## 1. Ativação Física, Secreção de BDNF e Maximização da Função Executiva Pré-Frontal
 
 O exercício de alta intensidade ou esportes que elevam os batimentos cardíacos aumentam o débito cardíaco, enviando sangue oxigenado diretamente ao córtex pré-frontal (PFC). A neurociência demonstra que o esforço físico ativa a liberação do Fator Neurotrófico Derivado do Cérebro (BDNF), estimulando a plasticidade sináptica. Ao mesmo tempo, otimiza os níveis de dopamina e noradrenalina. Durante os 60 minutos posteriores ao exercício, este estado cria uma 'Hora de Ouro Cognitiva', elevando a Função Executiva ao nível máximo.
 
 ---
 
-## Precauções e Dicas: Garantir a 'Hora de Ouro Cognitiva' Pós-Exercício e Bloquear Tarefas Secundárias
-
-Para Conan Doyle, o esforço físico funcionava como catalisador para a síntese lógica. Não desperdice a 'Hora de Ouro Cognitiva' pós-exercício — quando o fluxo sanguíneo cerebral e o BDNF estão no pico — em tarefas secundárias como responder e-mails ou olhar redes sociais. Logo após o banho, bloqueie as notificações e sente-se para trabalhar na sua tarefa mais complexa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para Conan Doyle, o esforço físico funcionava como catalisador para a síntese
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Garantir a 'Hora de Ouro Cognitiva' Pós-Exercício e Bloquear Tarefas Secundárias
+
+Para Conan Doyle, o esforço físico funcionava como catalisador para a síntese lógica. Não desperdice a 'Hora de Ouro Cognitiva' pós-exercício — quando o fluxo sanguíneo cerebral e o BDNF estão no pico — em tarefas secundárias como responder e-mails ou olhar redes sociais. Logo após o banho, bloqueie as notificações e sente-se para trabalhar na sua tarefa mais complexa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Arthur Conan Doyle foi realmente um jogador de críquete e pugilista de alto nível na vida real?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para Conan Doyle, o esforço físico funcionava como catalisador para a síntese
       Sim, com certeza. Conan Doyle foi um destacado jogador de críquete pelo Marylebone Cricket Club (MCC) e um pugilista habilidoso que chegou a arbitrar lutas de campeonato. Sua experiência esportiva trouxe realismo às habilidades de combate de Sherlock Holmes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É difícil para pessoas ocupadas praticar boxe ou críquete. Treinos em casa oferecem os mesmos benefícios?</span>

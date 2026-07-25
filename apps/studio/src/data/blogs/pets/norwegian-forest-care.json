@@ -507,6 +507,10 @@
           "사냥 놀이"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/norwegian_forest_care.png"
   }
 }

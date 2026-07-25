@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Olhar Espelhado que Replica a Passada Alheia: A Rotina de Espelhamento Físico e Análise Humana de Charlie Chaplin"
 description: "Descubra como o ícone do cinema mudo Charlie Chaplin observava e espelhava a caminhada e os movimentos físicos de estranhos nas ruas, e explore os princípios neurocientíficos de ativação dos neurônios-espelho pré-motores para expandir o esquema corporal."
 pubDate: "2026-03-01"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'espelh
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre charlie-chaplin é baseada em <strong>Verificação Histórica da Autobiografia de Charlie Chaplin *Minha Autobiografia (My Autobiography)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Charlie Chaplin *Minha Autobiografia (My Autobiography)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ativação dos Neurônios-Espelho Pré-Motores e Expansão do Esquema Corporal (Body Schema)
+## 1. Ativação dos Neurônios-Espelho Pré-Motores e Expansão do Esquema Corporal (Body Schema)
 
 Replicar a cinemática de outra pessoa ativa o sistema de 'Neurônios-Espelho' no córtex pré-motor e lóbulo parietal inferior. Essa prática de imitação motora expande a resolução do 'Esquema Corporal (Body Schema)'. Além disso, via Cognição Incorporada (Embodied Cognition), espelhar a tensão muscular e ritmos de movimento permite ao cérebro decodificar sinais emocionais não verbais com mais de 70% de precisão, elevando a metacognição e a empatia intuitiva.
 
 ---
 
-## Precauções e Dicas: Utilizar a Visão Periférica Discreta e Garantir Segurança e Respeito
-
-Ao praticar a observação e o espelhamento físico, evite encarar as pessoas, o que causa desconforto ou riscos de segurança. Em vez de fixar o olhar, utilize a 'Visão Periférica' para acompanhar as trajetórias da silhueta. Ao imitar os passos, mantenha uma distância respeitosa e evite gestos exagerados; concentre-se na geometria do equilíbrio muscular.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ao praticar a observação e o espelhamento físico, evite encarar as pessoas, o
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Utilizar a Visão Periférica Discreta e Garantir Segurança e Respeito
+
+Ao praticar a observação e o espelhamento físico, evite encarar as pessoas, o que causa desconforto ou riscos de segurança. Em vez de fixar o olhar, utilize a 'Visão Periférica' para acompanhar as trajetórias da silhueta. Ao imitar os passos, mantenha uma distância respeitosa e evite gestos exagerados; concentre-se na geometria do equilíbrio muscular.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como devo agir se um pedestre me pegar observando-o?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ao praticar a observação e o espelhamento físico, evite encarar as pessoas, o
       Evite o contato visual direto. Use óculos de sol ou segure uma bebida para desviar o olhar naturalmente enquanto pratica o escaneamento por 'Visão Periférica', focando na dinâmica da silhueta.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O espelhamento físico realmente melhora nossa capacidade de decifrar os estados emocionais alheios?</span>

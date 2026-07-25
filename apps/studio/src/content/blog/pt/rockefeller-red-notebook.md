@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O magnata do petróleo que não permitia nem 1 centavo de desperdício? O método de micro-registro em tempo real de John D. Rockefeller"
 description: "John D. Rockefeller, considerado o homem mais rico da história. Aprenda como carregar um pequeno caderno vermelho no bolso para registrar imediatamente pequenas despesas e planos ativava sua rede de controle executivo pré-frontal."
 pubDate: "2026-06-24"
@@ -33,25 +34,23 @@ O artigo de hoje explora o valor da neurociência por trás da rotina de micro-r
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre rockefeller-red-notebook é baseada em <strong>Pesquisa baseada na biografia histórica e autobiografia de John D. Rockefeller e estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa baseada na biografia histórica e autobiografia de John D. Rockefeller e estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Registro em tempo real (Real-time Tracking) e ativação da rede de controle executivo pré-frontal
+## 1. Registro em tempo real (Real-time Tracking) e ativação da rede de controle executivo pré-frontal
 
 Registrar manualmente números e detalhes em um caderno no momento em que ocorrem estimula fortemente a rede de controle executivo pré-frontal do cérebro. Isso ativa a autorregulação, retardando reações impulsivas e aumentando a plasticidade cerebral para controle comportamental.
 
 ---
 
-## Armadilhas do registro digital vs. dicas para o micro-registro analógico em tempo real
-
-Registrar em aplicativos de smartphone expõe o cérebro ao estresse cognitivo com a enxurrada de notificações. Carregar um pequeno caderno vermelho e lápis para anotar à mão em 5 segundos sem ligar um aplicativo permite o descarregamento cognitivo mais claro.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Registrar em aplicativos de smartphone expõe o cérebro ao estresse cognitivo c
   </p>
 </div>
 
+---
+
+## 3. Armadilhas do registro digital vs. dicas para o micro-registro analógico em tempo real
+
+Registrar em aplicativos de smartphone expõe o cérebro ao estresse cognitivo com a enxurrada de notificações. Carregar um pequeno caderno vermelho e lápis para anotar à mão em 5 segundos sem ligar um aplicativo permite o descarregamento cognitivo mais claro.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Um caderno analógico é realmente melhor do que usar aplicativos de orçamento ou tarefas no celular?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Registrar em aplicativos de smartphone expõe o cérebro ao estresse cognitivo c
       Sim. O ato de ligar o celular expõe o cérebro ao ruído digital, dispersando o foco imediatamente. Além disso, escrever à mão envia dados somatossensoriais muito mais fortes ao córtex cerebral, aumentando em mais de duas vezes a consciência do autocontrole.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É realmente necessário anotar cada detalhe insignificante, como 1 centavo ou 1 minuto?</span>

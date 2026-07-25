@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pemikiran Aksiomatis Euklides: Memecahkan Kelumpuhan Keputusan Melalui Rantai Logika Deduktif Prinsip Pertama"
 description: "Pelajari bagaimana matematikawan Yunani Kuno Euklides menyelesaikan dilema rumit dengan mengurainya menjadi aksioma yang tak terbantahkan—mengungkap sejarah dan neurosains kognitif di balik penalaran Prinsip Pertama."
 pubDate: "2026-02-21"
@@ -35,25 +36,23 @@ Ia menghapus semua asumsi yang meragukan dan menetapkan hanya lima aksioma menda
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai euclid-axiomatic-thinking didasarkan pada <strong>Verifikasi Historis dari *Elements* karya Euklides, *Commentary on Euclid's Elements* karya Proclus & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Elements* karya Euklides, *Commentary on Euclid's Elements* karya Proclus & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengapa Rekombinasi Aksiomatis Mencegah Kelebihan Beban Kognitif dan Bias
+## 1. Mengapa Rekombinasi Aksiomatis Mencegah Kelebihan Beban Kognitif dan Bias
 
 Menurut psikologi kognitif, otak manusia rentan terhadap kesalahan penilaian jika terkontaminasi oleh konvensi atau pintasan mental (heuristik). Pemikiran aksiomatis Euklides mengekstrak <strong>'Prinsip Pertama (First Principles)'</strong> yang tidak dapat diurai dan aksioma yang jelas sebagai satu-satunya dasar penalaran. Mekanisme rekombinasi aksiomatis ini menghilangkan asumsi yang tidak pasti sejak awal, secara instan mengurangi beban kognitif pada Korteks Prefrontal (PFC) dan mengoptimalkan sirkuit logika lobus parietal.
 
 ---
 
-## Perhatian: Jangan Pernah Menganggap Asumsi yang Belum Teruji sebagai Aksioma Sejati
-
-Jangan pernah mengira pengalaman yang belum terbukti atau klaim eksternal sebagai fakta mendasar. Sebelum merumuskan solusi, pisahkan kebenaran mendasar yang 100% tidak terbantahkan (aksioma). Ingatlah bahwa jika premis awal Anda salah, seluruh kesimpulan deduktif berikutnya akan runtuh seperti kartu.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jangan pernah mengira pengalaman yang belum terbukti atau klaim eksternal sebaga
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Jangan Pernah Menganggap Asumsi yang Belum Teruji sebagai Aksioma Sejati
+
+Jangan pernah mengira pengalaman yang belum terbukti atau klaim eksternal sebagai fakta mendasar. Sebelum merumuskan solusi, pisahkan kebenaran mendasar yang 100% tidak terbantahkan (aksioma). Ingatlah bahwa jika premis awal Anda salah, seluruh kesimpulan deduktif berikutnya akan runtuh seperti kartu.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara menerapkan pemikiran aksiomatis pada bisnis atau pengambilan keputusan yang rumit?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jangan pernah mengira pengalaman yang belum terbukti atau klaim eksternal sebaga
       Pertama, tentukan 3 'fakta dasar yang tidak dapat diurai'—seperti batasan fisik proyek, anggaran aktual, dan kebutuhan inti pengguna. Kemudian, rancang ulang strategi Anda dari awal di atas fondasi tersebut.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa perbedaan antara pemikiran logis konvensional dan penalaran Prinsip Pertama Euklides?</span>

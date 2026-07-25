@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "영혼의 조율: 파블로 카살스의 아침 바흐 전주곡 루틴과 알파파 유도법"
 description: "80년 넘게 매일 아침 바흐의 평균율 클라비어 곡집을 연주하며 하루를 시작한 거장 첼리스트 파블로 카살스. 음악적 동조화(Musical Entrainment)가 알파파를 활성화하고 자율신경계 균형을 유도하는 신경과학적 원리를 밝힙니다."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>파블로 카살스 자서전 『나의 기쁨과 슬픔(Joys and Sorrows)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 casals-bach-prelude 루틴을 다룹니다.
+      본 콘텐츠는 <strong>파블로 카살스 자서전 『나의 기쁨과 슬픔(Joys and Sorrows)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 음악 동조화(Musical Entrainment)를 통한 알파파 유도 및 자율신경계 균형
+## 1. 음악 동조화(Musical Entrainment)를 통한 알파파 유도 및 자율신경계 균형
 
 인간의 뇌는 아침 기상 시 수면 관성을 깨뜨리기 위해 각성 호르몬인 코르티솔(Cortisol) 수치가 급증하며 경미한 불안과 교감 신경 흥분을 겪습니다. 이때 규칙적이고 조화로운 수학적 음률 구조를 지닌 바흐의 음악을 직접 연주하거나 깊이 경청하면, 대뇌 신경 진동(Neural Oscillations)이 음악의 박자와 주파수에 맞춰지는 '음악 동조화(Musical Entrainment)' 현상이 일어납니다. 이는 마음을 평온하게 만들고 이완된 집중 상태를 유도하는 8 ~ 12Hz 대역의 알파파(Alpha Waves)를 강력히 유발합니다. 동시 부교감 신경계(Parasympathetic Nervous System)가 촉진되어 심박수가 안정되고 자율신경계의 완벽한 균형이 형성됨으로써, 하루를 최고 수준의 정서적 안정과 긍정적 몰입 상태로 시작하게 만듭니다.
 
 ---
 
-## 주의사항 및 팁: 난해하고 자극적인 음악 배제 및 조화로운 클래식 선택
-
-아침 예열 음악 루틴을 구성할 때 가장 경계해야 할 것은 복잡하고 난해하거나 과도하게 빠른 비트, 혹은 불협화음이 강한 자극적인 음악을 선택하는 것입니다. 강렬한 록, 팝, 혹은 기교가 지나치게 화려한 고난도 피아노곡 연주는 뇌의 알파파 유도를 방해하고 오열하여 교감 신경계를 과도하게 자극, 기상 직후의 불안감과 인지 피로를 가중시킵니다. 바흐의 전주곡처럼 구조적으로 조화롭고 반복적이며 차분한 템포의 클래식이나 뉴에이지 음악을 선택해야 정서적 완충 효과가 발동합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 난해하고 자극적인 음악 배제 및 조화로운 클래식 선택
+
+아침 예열 음악 루틴을 구성할 때 가장 경계해야 할 것은 복잡하고 난해하거나 과도하게 빠른 비트, 혹은 불협화음이 강한 자극적인 음악을 선택하는 것입니다. 강렬한 록, 팝, 혹은 기교가 지나치게 화려한 고난도 피아노곡 연주는 뇌의 알파파 유도를 방해하고 오열하여 교감 신경계를 과도하게 자극, 기상 직후의 불안감과 인지 피로를 가중시킵니다. 바흐의 전주곡처럼 구조적으로 조화롭고 반복적이며 차분한 템포의 클래식이나 뉴에이지 음악을 선택해야 정서적 완충 효과가 발동합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>피아노나 첼로 같은 악기를 전혀 다루지 못하는 사람도 카살스의 아침 음악 루틴 효과를 누릴 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 완벽히 동일한 인지 정화 효과를 누릴 수 있습니다. 직접 악기를 연주하는 것이 운동 피질을 추가로 자극하지만, 눈을 감고 소리의 진동과 결에 뇌를 맡기는 '능동적 경청(Active Listening)'만으로도 알파파 동조화가 충분히 일어납니다. 핵심은 음악을 단순히 배경음으로 흘려듣지 않고 10분간 소리의 미세한 변화에 온전히 주의를 쏟는 데 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>아침에 클래식 음악을 들을 때 헤드폰을 착용하는 것이 더 효과적인가요?</span>

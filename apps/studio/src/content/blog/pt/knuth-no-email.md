@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Imersão Offline: A Rotina de Desconexão de E-mail e Prevenção de Troca de Contexto de Donald Knuth"
 description: "Descubra como o cientista da computação Donald Knuth abandonou o e-mail em 1º de janeiro de 1990 para proteger seu trabalho profundo. Explore a neurociência de eliminar a troca de contexto, evitar resíduos de atenção e aplicar o processamento por lotes."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva e a psicologia por trás
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre knuth-no-email é baseada em <strong>Verificação Histórica da Declaração Oficial de Donald Knuth *Email and I*, Arquivos de Stanford e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Declaração Oficial de Donald Knuth *Email and I*, Arquivos de Stanford e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Eliminação da Troca de Contexto e Prevenção do Resíduo de Atenção
+## 1. Eliminação da Troca de Contexto e Prevenção do Resíduo de Atenção
 
 Cada vez que você checa e-mails ou notificações, o cérebro passa por uma <strong>Troca de Contexto (Context Switching)</strong>, pagando um alto custo cognitivo. Ao retornar à tarefa principal, parte da atenção permanece presa à mensagem lida, um fenômeno chamado <strong>Resíduo de Atenção (Attention Residue)</strong>. O <strong>Córtex Pré-frontal</strong> leva mais de 20 minutos para limpar esse resíduo e recuperar o foco. Criar limites offline como Donald Knuth elimina a fragmentação, permitindo o raciocínio abstrato ininterrupto.
 
 ---
 
-## Precaução: Suprima o Impulso de Resposta em Tempo Real e Aplique o Processamento por Lotes
-
-Eliminar totalmente o e-mail como Donald Knuth pode ser impraticável em organizações modernas. A solução viável é controlar o impulso de resposta imediata adotando o <strong>Processamento por Lotes (Batch Processing)</strong>. Silencie notificações fora de 1 ou 2 janelas diárias para proteger blocos de foco ininterruptos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Eliminar totalmente o e-mail como Donald Knuth pode ser impraticável em organiz
   </p>
 </div>
 
+---
+
+## 3. Precaução: Suprima o Impulso de Resposta em Tempo Real e Aplique o Processamento por Lotes
+
+Eliminar totalmente o e-mail como Donald Knuth pode ser impraticável em organizações modernas. A solução viável é controlar o impulso de resposta imediata adotando o <strong>Processamento por Lotes (Batch Processing)</strong>. Silencie notificações fora de 1 ou 2 janelas diárias para proteger blocos de foco ininterruptos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como posso comunicar meu horário de checagem de e-mails aos colegas sem gerar desentendimentos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Eliminar totalmente o e-mail como Donald Knuth pode ser impraticável em organiz
       Informe claramente seu horário em respostas automáticas de e-mail ou no status do chat. Deixar uma mensagem transparente (ex.: 'Para focar em projetos prioritários, checo e-mails duas vezes ao dia, às 11h e 16h. Para emergências, ligue diretamente') alinha expectativas e cria uma barreira protetora.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>A rotina de desconexão de Knuth é aplicável a funcionários comuns que não são acadêmicos famosos?</span>

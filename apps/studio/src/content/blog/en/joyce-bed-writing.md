@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Writing in Bed with Blue Crayons: James Joyce's Energy Preservation Writing Routine and Primary Visual Cortex (V1) Fatigue Relief"
 description: "Discover how James Joyce crafted literary masterpieces like Finnegans Wake while lying in bed despite severe ocular diseases. Explore the neuroscience of reducing gravitational muscle load, alleviating primary visual cortex (V1) fatigue, and optimizing prefrontal brain energy."
 pubDate: "2026-04-10"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind James Joyce's 'bed 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding joyce-bed-writing is based on <strong>Historical Verification from Richard Ellmann's *James Joyce* Biography, Joyce Archives & Cognitive Neuroscience and Visual Perception Research</strong>.
+      This content is based on <strong>Historical Verification from Richard Ellmann's *James Joyce* Biography, Joyce Archives & Cognitive Neuroscience and Visual Perception Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reducing Gravitational Muscle Load and Alleviating Primary Visual Cortex (V1) Fatigue
+## 1. Reducing Gravitational Muscle Load and Alleviating Primary Visual Cortex (V1) Fatigue
 
 Lying flat or reclining comfortably reduces postural muscle tension and stabilizes heart rate, minimizing physical energy expenditure. This allows oxygenated blood flow to concentrate heavily inside executive processing centers of the <strong>Prefrontal Cortex</strong>. Furthermore, utilizing thick, high-contrast blue writing tools under reflected light reduces decoding strain in the brain's <strong>Primary Visual Cortex (V1)</strong>, drastically mitigating neurological <strong>Visual Fatigue</strong> and eye strain.
 
 ---
 
-## Caution: Embracing Physical Fatigue Signals and Maximizing Visual Contrast
-
-For James Joyce, writing in bed was a brilliant survival adaptation to overcome physical constraints. When physical or ocular exhaustion peaks, avoid forcing yourself to sit rigidly in a hard chair. Recline with supportive back cushions and casually sketch thoughts using thick blue markers and plain unlined paper.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ For James Joyce, writing in bed was a brilliant survival adaptation to overcome 
   </p>
 </div>
 
+---
+
+## 3. Caution: Embracing Physical Fatigue Signals and Maximizing Visual Contrast
+
+For James Joyce, writing in bed was a brilliant survival adaptation to overcome physical constraints. When physical or ocular exhaustion peaks, avoid forcing yourself to sit rigidly in a hard chair. Recline with supportive back cushions and casually sketch thoughts using thick blue markers and plain unlined paper.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did James Joyce wear a white coat while writing in bed?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ For James Joyce, writing in bed was a brilliant survival adaptation to overcome 
       The white coat acted as a natural light reflector, bouncing ambient room light directly onto his manuscript paper without harsh glare. It served as a brilliant analog lighting-assist tool that allowed his severely damaged retinas to perceive written words clearly.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Doesn't working while lying in bed or on a sofa induce drowsiness?</span>

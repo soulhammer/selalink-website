@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Composer Who Solved Dilemmas on Afternoon Coastal Walks: Benjamin Britten's Brain Liberation Routine"
 description: "Discover how Benjamin Britten, 20th-century British musical titan, walked the coastline every afternoon to refine the musical structures composed during morning sessions, and explore the neuroscientific principles of Attention Restoration Theory (ART) and cognitive integration via the Default Mode Network."
 pubDate: "2026-04-22"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Benjamin Britten's 'aft
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding britten-afternoon-walk is based on <strong>Historical Verification from Humphrey Carpenter's Biography *Benjamin Britten: A Biography* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Humphrey Carpenter's Biography *Benjamin Britten: A Biography* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mechanism of Cognitive Integration via Attention Restoration Theory (ART) and DMN Activation
+## 1. Mechanism of Cognitive Integration via Attention Restoration Theory (ART) and DMN Activation
 
 Brains engaged in intense calculation or creation throughout morning sessions activate the Central Executive Network (CEN), consuming glucose and entering a state of 'Attention Fatigue'. According to Attention Restoration Theory (ART) in environmental psychology, walking in outdoor environments rich in 'Soft Fascination'—such as crashing waves or rustling leaves—relaxes prefrontal attentional control networks. During this restorative phase, the Default Mode Network (DMN) engages, performing 'Cognitive Integration' by organizing, transferring, and unconsciously recombining fragmented information processed earlier into long-term memory. Britten used his afternoon walk to flush cognitive fatigue and unleash subconscious reasoning to solve complex musical puzzles.
 
 ---
 
-## Caution & Tips: Distinguishing Passive Screen Consumption from Active Neural Relaxation
-
-Lying in bed watching short-form videos on a smartphone when fatigued is not neurological 'rest'. Although your body is still, your visual cortex and dopamine reward pathways continuously consume attentional capacity decoding rapid video feeds, exacerbating prefrontal exhaustion. True scientific rest that resets prefrontal cognitive resources requires completely severing digital input and engaging in light walking outdoors amidst nature, as Britten practiced.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lying in bed watching short-form videos on a smartphone when fatigued is not neu
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Distinguishing Passive Screen Consumption from Active Neural Relaxation
+
+Lying in bed watching short-form videos on a smartphone when fatigued is not neurological 'rest'. Although your body is still, your visual cortex and dopamine reward pathways continuously consume attentional capacity decoding rapid video feeds, exacerbating prefrontal exhaustion. True scientific rest that resets prefrontal cognitive resources requires completely severing digital input and engaging in light walking outdoors amidst nature, as Britten practiced.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What geographical characteristics defined the Aldeburgh coastal path where Britten walked daily?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lying in bed watching short-form videos on a smartphone when fatigued is not neu
       Located in Suffolk on England's eastern coast, Aldeburgh is a unique shingle beach composed of smooth pebbles rather than sand. Waves rolling over pebbles create a rhythmic, resonant sound, while the vast horizon offers visual liberation for the prefrontal cortex.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does walking in urban environments surrounded by skyscrapers provide similar attention restoration benefits?</span>

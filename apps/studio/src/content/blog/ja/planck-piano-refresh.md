@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "脳の認知リセット：マックス・プランクのピアノ即興演奏習慣"
 description: "物理学の研究後、ピアノの鍵盤を自由に叩いて即興演奏で気分転換をしたマックス・プランク。芸術的活性化が論理領域の疲労を洗い流す「交差認知リフレッシュ」の原理を探求します。"
 pubDate: "2026-04-01"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「planck-piano-refresh」は <strong>マックス・プランク歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マックス・プランク歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 右脳活性化を通じた左脳認知抑制と交差リフレッシュ
+## 1. 右脳活性化を通じた左脳認知抑制と交差リフレッシュ
 
 脳の特定の認知領域（数理、論理、推理など左脳と頂頭葉）を極端に使用すると、注意力の枯渇および神経疲労物質（アデノシンなど）が該当部位に集中して蓄積されます。このとき単にじっとして休むより、音楽の即興演奏のような全く異なる性質の領域（右脳および運動感覚皮質）を刺激する行動は、脳の「交差認知リフレッシュ（Cross-Cognitive Refresh）」を促進させます。即興演奏はあらかじめ決められたルールなく直感的な感覚の波動を脳が自ら組合せるよう誘導し、論理回路のスイッチをオフにして創造的潜在領域の作動を呼び覚まし、疲労した領域の強制休息と神経系の浄化を助けます。
 
 ---
 
-## 注意事項およびアドバイス
-
-ピアノの即興演奏を通じて脳をリセットする際、注意すべき点は楽譜通り正確に弾かなければならないというルールに支配されることです。音程やテンポを守ろうと演奏技術に意図的な認知力を消耗すると、脳はこれをまた別のタスク（Task）と認識し、交差リフレッシュ効果が発生しません。したがってポイントは、指先が鍵盤に触れる感触や響く不協和音さえも心地よく受け入れ、一切の規制なく音を自由にかき鳴らす落書きのような演奏態度を維持することです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項およびアドバイス
+
+ピアノの即興演奏を通じて脳をリセットする際、注意すべき点は楽譜通り正確に弾かなければならないというルールに支配されることです。音程やテンポを守ろうと演奏技術に意図的な認知力を消耗すると、脳はこれをまた別のタスク（Task）と認識し、交差リフレッシュ効果が発生しません。したがってポイントは、指先が鍵盤に触れる感触や響く不協和音さえも心地よく受け入れ、一切の規制なく音を自由にかき鳴らす落書きのような演奏態度を維持することです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>楽譜がないピアノの即興演奏はどう始めればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ faqs:
       メロディの完璧さや不協和音に捉われず、指が行くままに鍵盤の重量感と音の響きに全注意を集めて自由に押すことが、脳の注意力ネットワークをリラックスさせリセットする鍵です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ピアノの代わりに他の楽器でも認知リセットは可能ですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "皇帝“欲速则不达”的果断决策：奥古斯都的多角度倾听建议习惯"
 description: "罗马皇帝奥古斯都于恺撒遇刺后，弃独断专行，彻底倾听梅塞纳斯、阿格里帕等幕僚的不同意见，从而简化决策。揭示通过倾听与过滤破除盲信最初判断之确认偏误的脑科学原理。"
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 augustus-decision-consultation 的内容基于 <strong>苏埃托尼乌斯《罗马十二帝王传（De vita Caesarum）》与卡西乌斯·狄奥《罗马史》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>苏埃托尼乌斯《罗马十二帝王传（De vita Caesarum）》与卡西乌斯·狄奥《罗马史》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 确认偏误的抑制与dlPFC认知过滤器的运行原理
+## 1. 确认偏误的抑制与dlPFC认知过滤器的运行原理
 
 人类的大脑本能地容易陷入试图将最先浮现的想法或喜好合理化的系统1（直觉）误区。如果像奥古斯都那样接纳能够对自己结论提出异议的多角度专家反馈，大脑就会刺激调节决策的<strong>“背外侧前额叶皮层（dlPFC）”</strong>，启动找出信息逻辑漏洞的验证过滤器。此外，它还会联动冲突调节中枢<strong>“前扣带回皮层（ACC）”</strong>，剔除主观情绪，仅对客观事实数据进行结构化整理，从而帮助做出最佳的理性决策。
 
 ---
 
-## 注意事项与建议
-
-倾听建议的最大陷阱是由于无节制地收集意见而陷入决策瘫痪（Analysis Paralysis）。如果向过多的匿名人群寻求意见，就会产生认知过载，导致无法决定优先顺序而陷入混乱。在做决策时，应像奥古斯都那样，将咨询团队限制在不超过3名经过确凿证实的可信专家（如梅塞纳斯、阿格里帕等）之内，并严格恪守最终决定与责任完全由自己承担的界限。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与建议
+
+倾听建议的最大陷阱是由于无节制地收集意见而陷入决策瘫痪（Analysis Paralysis）。如果向过多的匿名人群寻求意见，就会产生认知过载，导致无法决定优先顺序而陷入混乱。在做决策时，应像奥古斯都那样，将咨询团队限制在不超过3名经过确凿证实的可信专家（如梅塞纳斯、阿格里帕等）之内，并严格恪守最终决定与责任完全由自己承担的界限。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在听取同事的反馈时，如何避免在情感上被说服？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       这就是为什么“非面对面书面接收”更有利。召开面对面会议时，容易因权威、从众压力或辩才而发生情感上的说服。只有将幕僚们单独撰写的书面材料中犀利的逻辑与事实数据单独收集并加以分析，才能做出理性的判断。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>咨询团队的人数多少最为合适？</span>

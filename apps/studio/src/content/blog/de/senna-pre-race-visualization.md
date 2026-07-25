@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Meditation bei 300 km/h: Ayrton Sennas Visualisierungsroutine vor dem Rennen"
 description: "Ayrton Senna, der legendäre Formel-1-Weltmeister, saß vor jedem Rennen im Cockpit und schloss die Augen, um die gesamte Strecke perfekt zu visualisieren. Entdecken Sie den neurologischen Mechanismus der mentalen Probe, der den motorischen Kortex aktiviert und Ausführungsfehler eliminiert."
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ Hier analysieren wir den neurologischen Mechanismus hinter Sennas mentaler Probe
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu senna-pre-race-visualization basiert auf <strong>Historische Biografien von Ayrton Senna, F1-Rennaufzeichnungen & Kognitive Neurowissenschaften und Sportpsychologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien von Ayrton Senna, F1-Rennaufzeichnungen & Kognitive Neurowissenschaften und Sportpsychologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Visuelle Simulation und Motoneuron-Aktivierung im supplementär-motorischen Areal (SMA)
+## 1. Visuelle Simulation und Motoneuron-Aktivierung im supplementär-motorischen Areal (SMA)
 
 Selbst ohne körperliche Bewegung aktiviert die extrem detaillierte Vorstellung einer Bewegung das supplementär-motorische Areal (SMA) und den primären motorischen Kortex. Über 90 % der neuronalen Schaltkreise der tatsächlichen Bewegung werden dabei aktiv.
 
@@ -53,9 +54,7 @@ Diese mentale Probe steigert die Effizienz der Signalübertragung, verkürzt Mus
 
 ---
 
-## Simulieren Sie den Prozess, nicht nur das Ergebnis
-
-Ein häufiger Fehler bei mentalen Simulationen ist es, nur das Ergebnis (z. B. Erfolg) zu visualisieren. Um den motorischen Kortex zu aktivieren, müssen Sie die kausalen Prozessdetails (z. B. genaue Einleitungsworte, Reaktionen auf Fragen) simulieren. Nur so entsteht ein neuroplastischer Priming-Effekt.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Ein häufiger Fehler bei mentalen Simulationen ist es, nur das Ergebnis (z. B. E
   </p>
 </div>
 
+---
+
+## 3. Simulieren Sie den Prozess, nicht nur das Ergebnis
+
+Ein häufiger Fehler bei mentalen Simulationen ist es, nur das Ergebnis (z. B. Erfolg) zu visualisieren. Um den motorischen Kortex zu aktivieren, müssen Sie die kausalen Prozessdetails (z. B. genaue Einleitungsworte, Reaktionen auf Fragen) simulieren. Nur so entsteht ein neuroplastischer Priming-Effekt.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was tun, wenn die mentale Simulation stattdessen meine Angst verstärkt?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Ein häufiger Fehler bei mentalen Simulationen ist es, nur das Ergebnis (z. B. E
       Erhöhte Angst entsteht, wenn sich das Gehirn auf negative Szenarien fixiert. Stoppen Sie die Simulation sofort und nutzen Sie sensorisches Erdung (Grounding) – etwa den Fokus auf Ihren Atem oder Handkontakt –, kombiniert mit leichtem Dehnen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was ist die empfohlene Dauer für jede mentale Probeeinheit?</span>

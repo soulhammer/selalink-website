@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Midnight Awakening: Honoré de Balzac's 12-Hour Hyperfocus Writing Method with Coffee"
 description: "Explore the late-night writing and coffee arousal routine practiced by Honoré de Balzac, master of 19th-century French realism, and uncover the neuroscientific mechanism of hyperfocus that cuts off external stimuli and elevates brain focus to the extreme."
 pubDate: "2026-02-14"
@@ -36,22 +37,20 @@ In today's post, we analyze the brain science behind Balzac's midnight hyperfocu
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding balzac-extreme-focus is based on <strong>Historical Verification from Stefan Zweig's Biography *Balzac* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Stefan Zweig's Biography *Balzac* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergy of Total Cognitive Noise Elimination and Adenosine Inhibition
+## 1. Synergy of Total Cognitive Noise Elimination and Adenosine Inhibition
 
 The biggest obstacle to brain focus is incoming 'Cognitive Noise' and ambient visual or auditory stimuli. Late-night hours, free from phone calls and messenger notifications, offer an optimal environment where prefrontal cognitive control resources can be dedicated entirely to a single task. In addition, caffeine blocks adenosine receptors that signal fatigue to the brain, preventing the sensation of tiredness. Consequently, the release of dopamine and norepinephrine is stimulated, sharpening concentration and maintaining mental alertness over extended periods.
 
 ---
 
-## Protecting Circadian Rhythms & Guarding Against Caffeine Abuse
-
-Balzac's midnight wake-up and excessive caffeine intake inflicted severe stress on his body. (In fact, Balzac passed away at the early age of 51 due to heart disease exacerbated by sleep deprivation and heavy coffee consumption.) Therefore, when applying this focus strategy, modern individuals should avoid destroying daily sleep patterns and instead selectively utilize quiet 2-to-3-hour focus blocks while preserving their natural circadian rhythm.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Balzac's midnight wake-up and excessive caffeine intake inflicted severe stress 
     Prepare a cup of warm coffee or tea, avoid multitasking, and pour all your energy exclusively into a single, highly important task pre-selected for this block.
   </p>
 </div>
+
+---
+
+## 3. Protecting Circadian Rhythms & Guarding Against Caffeine Abuse
+
+Balzac's midnight wake-up and excessive caffeine intake inflicted severe stress on his body. (In fact, Balzac passed away at the early age of 51 due to heart disease exacerbated by sleep deprivation and heavy coffee consumption.) Therefore, when applying this focus strategy, modern individuals should avoid destroying daily sleep patterns and instead selectively utilize quiet 2-to-3-hour focus blocks while preserving their natural circadian rhythm.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

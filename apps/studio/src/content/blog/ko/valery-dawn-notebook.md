@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "새벽 4시의 카이에: 폴 발레리의 의식 기록법"
 description: "51년간 매일 새벽 4시에 일어나 자필 노트 『카이에』를 채웠던 시인 폴 발레리. 외부 자극이 차단된 이른 아침의 정적이 전두엽의 성찰 및 분석 지능을 최고조로 깨우는 과학적 이유를 다룹니다."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Valery Dawn Notebook 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 valery-dawn-notebook 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Valery Dawn Notebook 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 새벽 정적이 주는 인지 노이즈 차단과 각성 호르몬의 작용
+## 1. 새벽 정적이 주는 인지 노이즈 차단과 각성 호르몬의 작용
 
 일상적인 낮 시간대에 뇌는 소음, 이메일, 메신저 등 무수한 외부 자극에 직면하며 인지 자원을 낭비합니다. 그러나 새벽 4시에는 주변 세상이 완전히 멈춰 있어 뇌가 외부 자극을 거르는 데 드는 에너지가 0에 가까워집니다. 동시에, 잠에서 깨어나며 서서히 촉발되는 코르티솔 호르몬 수치의 상승은 뇌를 스트레스 없이 차분하게 깨워, 전두엽이 주도하는 깊은 성찰적 글쓰기와 자아 관조 작업을 수행하기에 완벽한 생리학적 조건을 조성합니다.
 
 ---
 
-## 주의사항 및 팁
-
-기상 직후 뇌가 완전히 깨어나기 전의 몽롱한 상태에서 복잡한 기계적 업무나 수치 연산에 바로 들어가면 생산성이 떨어집니다. 이 시간대에는 논리 연산보다 직관적인 메모나 자유로운 글쓰기, 철학적 독서를 배치하는 것이 인지 효율에 가장 적합합니다. 또한, 새벽 시간을 방해받지 않기 위해 기상 직후 1시간 동안은 절대 스마트폰이나 이메일을 확인하지 않는 단절 벽을 세우는 것이 필수적입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     노트를 열고 형식의 구애 없이 30분간 자신의 생각, 감정, 떠오르는 지적 아이디어를 묵묵히 펜으로 적어내려 가며 사유를 정교화합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+기상 직후 뇌가 완전히 깨어나기 전의 몽롱한 상태에서 복잡한 기계적 업무나 수치 연산에 바로 들어가면 생산성이 떨어집니다. 이 시간대에는 논리 연산보다 직관적인 메모나 자유로운 글쓰기, 철학적 독서를 배치하는 것이 인지 효율에 가장 적합합니다. 또한, 새벽 시간을 방해받지 않기 위해 기상 직후 1시간 동안은 절대 스마트폰이나 이메일을 확인하지 않는 단절 벽을 세우는 것이 필수적입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "摒弃掌控之外杂念的奴隶出身哲学家：爱比克泰德的控制二分法晚间反思习惯与内心平静之道"
 description: "深度剖析古罗马斯多葛派大师爱比克泰德通过严苛划分“掌控之内”与“掌控之外”将日常焦虑归零的晚间记录习惯，结合认知神经科学揭示内控感与大脑平静机制。"
 pubDate: "2026-05-15"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 epictetus-dichotomy-control 的内容基于 <strong>爱比克泰德《语录（Discourses）》与《手册（Enchiridion）》考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>爱比克泰德《语录（Discourses）》与《手册（Enchiridion）》考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 内化控制点（Locus of Control）与抑制杏仁核皮质醇应激机制
+## 1. 内化控制点（Locus of Control）与抑制杏仁核皮质醇应激机制
 
 人类遭受慢性高压与严重焦虑的根源，在于大脑过度执念于自身无法掌控的外界变量（如他人的情绪反应、市场走势或既往历史）时产生的深度无力感。爱比克泰德的控制二分法能将个体的“心理控制点（Locus of Control）”从依赖外界果断拉回至掌控内心。一旦在形式上剔除并放下不可控因素，大脑前额叶皮层（PFC）便会对边缘系统实施自上而下的理性调控，平息情绪中枢杏仁核（Amygdala）的过度应激兴奋，促使应激激素皮质醇（Cortisol）水平骤降，从而重建内心的平静。
 
 ---
 
-## 注意事项：自我把控的边界仅终于个人可控之行为
-
-若在倾尽全力后，因他人的冷漠回应或糟糕的客观结果而陷入自我苛责，会使大脑迅速陷入严重的心理资源耗竭与抑郁循环。请深知：你的职责仅终于“尽人事”，至于此后的结局，请全然交付给客观规律与天意。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：自我把控的边界仅终于个人可控之行为
+
+若在倾尽全力后，因他人的冷漠回应或糟糕的客观结果而陷入自我苛责，会使大脑迅速陷入严重的心理资源耗竭与抑郁循环。请深知：你的职责仅终于“尽人事”，至于此后的结局，请全然交付给客观规律与天意。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>难道他人的态度与反应真的完全无法由我掌控吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，绝无可能。你所能掌控的极限，仅终于“表达真诚并施加正面影响的行为本身”；而对方如何化解、采纳或反弹，则100%属于对方的权责范畴。划清这一界限的当下，人际交往中的烦恼便烟消云散。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>不在乎最终结果，难道不会导致个人激情与动力衰退吗？</span>

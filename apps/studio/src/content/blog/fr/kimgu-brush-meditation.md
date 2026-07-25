@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La précision pour apaiser un esprit agité : La routine de méditation calligraphique et de contrôle moteur fin de Kim Koo"
 description: "Découvrez comment Kim Koo, dirigeant du Gouvernement provisoire de Corée, a exercé son esprit à travers la calligraphie. Explorez la neuroscience du contrôle moteur fin, de la stabilisation de l'amygdale et un guide en 3 étapes."
 pubDate: "2026-02-06"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant kimgu-brush-meditation est basée sur <strong>Vérification Historique issue de l'autobiographie de Kim Koo *Baekbum Ilji*, des archives du Gouvernement provisoire & de la Recherche en Neurosciences Cognitives et Sciences du Contrôle Moteur</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Kim Koo *Baekbum Ilji*, des archives du Gouvernement provisoire & de la Recherche en Neurosciences Cognitives et Sciences du Contrôle Moteur</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Contrôle moteur fin et neuroscience de la stabilisation de l'amygdale
+## 1. Contrôle moteur fin et neuroscience de la stabilisation de l'amygdale
 
 Exécuter un <strong>Contrôle Moteur Fin (Fine Motor Control)</strong> — en ajustant la pression et l'angle du pinceau — sollicite fortement le <strong>Cortex Somatosensoriel</strong> et le <strong>Cortex Moteur</strong>. Lorsque l'attention se concentre sur la maîtrise gestuelle, l'hyper-activation de l'<strong>amygdale</strong> (le centre de la peur) est réprimée. De plus, les gestes rythmiques comme le broyage de l'encre stimulent le <strong>Système Nerveux Parasympathique</strong>, réduisant le taux de <strong>cortisol</strong> et stabilisant le rythme cardiaque.
 
 ---
 
-## Mise en garde : Éliminer l'impatience du résultat pour s'immerger dans la sensation tactile
-
-En cas d'agitation mentale, évitez de chercher des réponses immédiates ou de juger la beauté du tracé. Ancrez votre conscience sur le frottement de la plume sur le papier et le geste en cours. Se concentrer sur le processus apaise l'anxiété et restaure la clarté préfrontale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ En cas d'agitation mentale, évitez de chercher des réponses immédiates ou de 
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer l'impatience du résultat pour s'immerger dans la sensation tactile
+
+En cas d'agitation mentale, évitez de chercher des réponses immédiates ou de juger la beauté du tracé. Ancrez votre conscience sur le frottement de la plume sur le papier et le geste en cours. Se concentrer sur le processus apaise l'anxiété et restaure la clarté préfrontale.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quel est le principe neuroscientifique qui explique pourquoi la calligraphie apaise le stress et l'esprit ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ En cas d'agitation mentale, évitez de chercher des réponses immédiates ou de 
       Ajuster la pression et l'angle du pinceau exige un Contrôle Moteur Fin, stimulant les zones somatosensorielle et préfrontale. Cette concentration réprime les signaux d'anxiété de l'amygdale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je obtenir les mêmes bienfaits avec un stylo plume ou un stylo classique sans matériel de calligraphie ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das geheime Bonbon des Weißen Hauses? Ronald Reagans Jellybean-Kaugewohnheit zur Stressbewältigung"
 description: "Ronald Reagan, der 40. Präsident der Vereinigten Staaten, aß im Oval Office Jellybeans, um mit dem Rauchen aufzuhören und Stress zu bewältigen. Erfahren Sie mehr über die neurowissenschaftlichen Prinzipien des Kauen auf die Emotionen."
 pubDate: "2026-04-25"
@@ -33,17 +34,17 @@ Der heutige Beitrag stellt die Wissenschaft hinter Präsident Reagans Entspannun
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu reagan-jellybean-relaxation basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen von Ronald Reagan & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen von Ronald Reagan & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kauen und sensorische Substitution zur Beruhigung der Amygdala
+## 1. Kauen und sensorische Substitution zur Beruhigung der Amygdala
 
 Das wiederholte Kauen aktiviert den Trigeminusnerv im Gehirn und hemmt die Amygdala, die für Angst und Stress zuständig ist. Dies stabilisiert den Puls und senkt die Cortisolausschüttung rasch ab.
 
@@ -51,9 +52,7 @@ Gleichzeitig bietet das Einbringen eines sicheren alternativen Sinnesreizes (wie
 
 ---
 
-## Achten Sie der Zahngesundheit zuliebe auf die Zuckerzufuhr
-
-Wer wie Reagan zu viele Jellybeans isst, kann seine Gesundheit durch Karies oder übermäßigen Zuckerkonsum schädigen. Es wird empfohlen, zuckerfreien Kaugummi, zuckerfreie Fruchtgummis oder Nüsse (Mandeln, Walnüsse) als Alternativen zu nutzen, um sicher vom Entspannungseffekt des Kauens zu profitieren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Wer wie Reagan zu viele Jellybeans isst, kann seine Gesundheit durch Karies oder
   </p>
 </div>
 
+---
+
+## 3. Achten Sie der Zahngesundheit zuliebe auf die Zuckerzufuhr
+
+Wer wie Reagan zu viele Jellybeans isst, kann seine Gesundheit durch Karies oder übermäßigen Zuckerkonsum schädigen. Es wird empfohlen, zuckerfreien Kaugummi, zuckerfreie Fruchtgummis oder Nüsse (Mandeln, Walnüsse) als Alternativen zu nutzen, um sicher vom Entspannungseffekt des Kauens zu profitieren.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie lange muss man kauen, damit der stressreduzierende Effekt des Kauens eintritt?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Wer wie Reagan zu viele Jellybeans isst, kann seine Gesundheit durch Karies oder
       Neurophysiologische Studien zeigen, dass etwa 2 bis 3 Minuten nach Beginn des Kauens der Cortisolspiegel zu sinken beginnt und die Gehirnwellen in entspannende Alpha-Wellen übergehen. Daher ist ein ruhiges Kauen von mindestens 2 bis 3 Minuten der Schlüssel zum Erfolg.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Gibt es wirklich ein wissenschaftliches Prinzip, nach dem Kauen das Verlangen zu rauchen oder Heißhungerattacken unterdrückt?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "달빛 아래서 악보를 필사한 거장? 바흐의 두정엽 자극 필사 습관"
 description: "평생 동안 선배 작곡가들의 악보를 베껴 쓰며 수학적 규칙을 체화한 요한 제바스티안 바흐. 손끝 조작이 뇌의 논리 영역을 자극하는 과학적 원리와 현대적 필사 루틴을 전해드립니다."
 pubDate: "2026-06-19"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>요한 니콜라우스 포르켈 『바흐의 생애와 예술(1802)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 bach-pattern-transcription 루틴을 다룹니다.
+      본 콘텐츠는 <strong>요한 니콜라우스 포르켈 『바흐의 생애와 예술(1802)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 미세 손가락 운동과 두정엽 연합
+## 1. 미세 손가락 운동과 두정엽 연합
 
 컴퓨터 키보드나 모니터 화면을 두드리는 현대의 디지털 학습은 뇌의 운동 피질 중 매우 일부 영역만을 가볍게 훑고 지나는 저밀도 인지 활동입니다. 반면, 펜을 손에 쥐고 종이 위에 복잡한 텍스트나 기호를 꾹꾹 눌러쓰는 아날로그 필사 행위는 정교한 미세 근육(Fine Motor) 제어가 필요합니다.
 
@@ -49,11 +50,7 @@ faqs:
 
 ---
 
-## 성공적인 루틴을 위한 뇌과학적 한마디
-
-<strong>손은 밖으로 나온 뇌입니다</strong>
-
-모니터 화면을 보며 눈으로 읽거나 마우스로 드래그하는 정보는 뇌에 아주 얕게 흘러가 사라집니다. 뇌의 논리 회로를 강화하고 싶다면 단 10분만이라도 펜을 잡고 필사를 진행해 보세요. 바흐가 복잡한 푸가 패턴을 손끝으로 베껴 쓰며 바로크 음악의 완벽한 공식을 지배했던 것처럼, 당신의 뇌도 아날로그 필사를 거칠 때 어려운 지식을 완전히 소유하게 될 것입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ faqs:
     베껴 쓰기를 마친 후, 종이에 정렬된 텍스트 구조를 위에서 아래로 조용히 훑어보며 그들의 논리 관계와 배치 방식을 시각적으로 다시 정리합니다. 이 시각적-논리적 매칭 단계는 전두엽에 확실한 구조 프레임을 확립합니다.
   </p>
 </div>
+
+---
+
+## 3. 성공적인 루틴을 위한 뇌과학적 한마디
+
+<strong>손은 밖으로 나온 뇌입니다</strong>
+
+모니터 화면을 보며 눈으로 읽거나 마우스로 드래그하는 정보는 뇌에 아주 얕게 흘러가 사라집니다. 뇌의 논리 회로를 강화하고 싶다면 단 10분만이라도 펜을 잡고 필사를 진행해 보세요. 바흐가 복잡한 푸가 패턴을 손끝으로 베껴 쓰며 바로크 음악의 완벽한 공식을 지배했던 것처럼, 당신의 뇌도 아날로그 필사를 거칠 때 어려운 지식을 완전히 소유하게 될 것입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

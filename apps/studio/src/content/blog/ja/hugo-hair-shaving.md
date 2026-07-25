@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "外出遮断で没頭を強制：ヴィクトル・ユーゴーの丸刈り隔離習慣と事前拘束戦略"
 description: "ヴィクトル・ユーゴーは締め切りを守るため、髪と髭の半分を剃り落として自ら外出を遮断しました。強力な環境的・物理的制約の脳科学的メリットと事前拘束戦略、前頭前野の意志力疲労防止メカニズムを考察します。"
 pubDate: "2026-06-29"
@@ -37,25 +38,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「hugo-hair-shaving」は <strong>グレアム・ロブ『ヴィクトル・ユーゴー評伝（Victor Hugo: A Biography）』考証＆行動療法学（Behavior Therapy）および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>グレアム・ロブ『ヴィクトル・ユーゴー評伝（Victor Hugo: A Biography）』考証＆行動療法学（Behavior Therapy）および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 事前拘束戦略（Precommitment）と意志力疲労防止
+## 1. 事前拘束戦略（Precommitment）と意志力疲労防止
 
 人間の誘惑抵抗力と<strong>前頭前野（Prefrontal Cortex）</strong>の意志力資源は非常に限定的であり、誘惑の刺激に継続して露出された状態で耐えることは、早期に<strong>意志力疲労（Willpower Fatigue）</strong>を引き起こします。ヴィクトル・ユーゴーのように自ら誘惑に陥ることができない物理的制約を事前にかける行動を、行動経済学では<strong>「事前拘束戦略（Precommitment Strategy）」</strong>と呼びます。外出着を片付け外見に制限を設けて誘惑の刺激自体を根本的に遮断すれば、脳は「出かけるべきか否か」を悩むことに認知資源を浪費せず、ただ直面した課題にのみ100％の没頭エネルギーを注ぎ込むことになります。
 
 ---
 
-## 注意事項：意志力に依存せず物理的環境を事前拘束するルール
-
-自分自身の誓いや意志力だけでスマートフォンや外出の誘惑に打ち勝とうとしないでください。ユーゴーが丸刈りとタンスの施錠で背水の陣を敷いたように、スマートフォンのタイムロック金庫の利用、他事サイト遮断プログラムの稼働など、意志力を使わなくても済む強力な物理的制約環境を事前にセットアップすることが成功の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：意志力に依存せず物理的環境を事前拘束するルール
+
+自分自身の誓いや意志力だけでスマートフォンや外出の誘惑に打ち勝とうとしないでください。ユーゴーが丸刈りとタンスの施錠で背水の陣を敷いたように、スマートフォンのタイムロック金庫の利用、他事サイト遮断プログラムの稼働など、意志力を使わなくても済む強力な物理的制約環境を事前にセットアップすることが成功の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ユーゴーは本当に本を書くために丸刈りにしたのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       はい、その通りです。1830年『ノートルダム・ド・パリ』の執筆当時、出版社の締め切りが切迫すると、ユーゴーは自ら外出を遮断するため髪の毛と顎髭を半分だけ剃り、外出用のスーツを鍵をかけて保管したまま執筆に邁進しました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>髪を剃らずに現代的に活用できる隔離法には何がありますか？</span>

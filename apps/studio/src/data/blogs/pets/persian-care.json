@@ -507,6 +507,10 @@
           "눈물자국"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/persian_care.png"
   }
 }

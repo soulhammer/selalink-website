@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Programadora que Desenhou Fórmulas Matemáticas: O Mapeamento Visual de Ada Lovelace e as Redes de Dupla Codificação"
 description: "Descubra como a primeira programadora do mundo, Ada Lovelace, visualizou fluxos de controle algorítmico complexos para a Máquina Analítica em diagramas estruturados. Explore como o mapeamento visual superou os limites da Memória de Trabalho via Teoria da Dupla Codificação."
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência por trás do mapeamento visual de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre lovelace-visual-mapping é baseada em <strong>Verificação Histórica do Tratado de Ada Lovelace *Notes on the Analytical Engine* (1843), Arquivos de Lovelace e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica do Tratado de Ada Lovelace *Notes on the Analytical Engine* (1843), Arquivos de Lovelace e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Superando os Limites da Memória de Trabalho via Teoria da Dupla Codificação
+## 1. Superando os Limites da Memória de Trabalho via Teoria da Dupla Codificação
 
 A <strong>Memória de Trabalho</strong> tem capacidade limitada. Fluxos de texto ou equações causam <strong>Sobrecarga Cognitiva</strong>. O hábito de Lovelace potencializou a <strong>Teoria da Dupla Codificação</strong>. Processar informações verbais e viso-espaciais em vias neurais separadas permite que o <strong>Córtex Visual</strong> absorva a carga, liberando o <strong>Córtex Pré-frontal</strong>.
 
 ---
 
-## Precaução: Elimine o Registro Textual Lineal para Mergulhar no Mapeamento Visual
-
-Insistir em registros lineares ao resolver sistemas complexos limita o cérebro. Quando o fluxo travar, pare de escrever e mude de dimensão: use setas e formas em uma folha ampla para visualizar as relações.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Insistir em registros lineares ao resolver sistemas complexos limita o cérebro.
   </p>
 </div>
 
+---
+
+## 3. Precaução: Elimine o Registro Textual Lineal para Mergulhar no Mapeamento Visual
+
+Insistir em registros lineares ao resolver sistemas complexos limita o cérebro. Quando o fluxo travar, pare de escrever e mude de dimensão: use setas e formas em uma folha ampla para visualizar as relações.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como o mapeamento visual de Ada Lovelace difere de um mapa mental comum?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Insistir em registros lineares ao resolver sistemas complexos limita o cérebro.
       Mapas mentais focam no brainstorming livre. O mapeamento de Lovelace modela a lógica operacional: fluxo de dados, laços de controle, ramificações e estruturas causais.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É necessário usar ferramentas digitais complexas como UML ou Figma?</span>

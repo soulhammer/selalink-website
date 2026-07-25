@@ -507,6 +507,10 @@
           "펫계단"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/munchkin_care.png"
   }
 }

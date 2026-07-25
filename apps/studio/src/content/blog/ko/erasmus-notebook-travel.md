@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "에라스무스의 여행용 수첩: 이동 중에 번뜩이는 아이디어를 포착하는 마이크로 플래닝과 몰입 루틴"
 description: "르네상스 대표 석학 에라스무스가 유럽을 횡단하는 마차 안에서 주머니 수첩을 활용해 《우신예찬》의 초고를 집필하고 아이디어를 낚아챈 비결을 살펴봅니다. 알파파 유도와 시각 흐름의 인지신경과학적 원리를 해부합니다."
 pubDate: "2026-06-11"
@@ -18,7 +19,7 @@ steps:
     text: "머릿속에 기발한 비유나 해결책이 스치는 찰나, 즉시 포켓 수첩을 펼쳐 핵심 단어들을 받아 적습니다. 목적지에 도착한 뒤 적으려 하면 이미 아이디어가 휘발되어 사라지므로 그 즉시 기록해야 합니다."
 faqs:
   - question: "이동 수단을 탈 때마다 매일 수첩을 적어야 하나요?"
-    answer: "매일 거창한 글을 쓸 필요는 없습니다. 대중교통이나 차량으로 이동하는 10~20분의 시간 동안 스마트폰 대신 창밖을 보며 생각에 잠기고, 스쳐 지나가는 단상 하나를 메모하는 것만으로도 뇌의 디폴트 모드 네트워크(DMN)와 알파파를 활성화하기에 충분합니다."
+    answer: "매일 거창한 글을 쓸 필요는 없습니다. 대중교통이나 차량으로 이동하는 10 ~ 20분의 시간 동안 스마트폰 대신 창밖을 보며 생각에 잠기고, 스쳐 지나가는 단상 하나를 메모하는 것만으로도 뇌의 디폴트 모드 네트워크(DMN)와 알파파를 활성화하기에 충분합니다."
   - question: "대중교통 안에서 손으로 수첩에 글을 쓰면 흔들려서 힘든데, 스마트폰 메모 앱이나 음성 메모로 대체해도 되나요?"
     answer: "네, 얼마든지 대체 가능합니다. 핵심은 매체의 종류가 아니라 '이동 중 고자극 콘텐츠(숏폼, SNS, 게임)의 유입을 차단하고 뇌에 사색할 여백을 주는 것'입니다. 화면 알림을 차단한 오프라인 메모 앱이나 음성 녹음 기능도 훌륭한 현대식 이동용 수첩이 됩니다."
 ---
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>데시데리우스 에라스무스 서간집(Epistolae) 및 요한 하이징하 평전 『에라스무스(Erasmus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 erasmus-notebook-travel 루틴을 다룹니다.
+      본 콘텐츠는 <strong>데시데리우스 에라스무스 서간집(Epistolae) 및 요한 하이징하 평전 『에라스무스(Erasmus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 신체적 이동과 시각적 흐름이 독창적 아이디어를 유도하는 과학적 원리
+## 1. 신체적 이동과 시각적 흐름이 독창적 아이디어를 유도하는 과학적 원리
 
 물리적인 위치를 이동하거나 차량에 탑승하는 환경 변화는 뇌에 끊임없는 시각 흐름의 변화를 제공하여 신경 가소성을 환기시킵니다. 마차나 열차의 리드미컬하고 수동적인 움직임과 잔잔한 소음은 뇌에서 긴장을 풀고 창의력을 높이는 알파파(Alpha Wave)를 유도합니다. 이 상태에서는 엄격하게 논리를 쥐어짜는 전두엽의 검열 네트워크가 일시적으로 누그러져, 평소 책상 앞에 앉아 있을 때는 도달하기 힘든 기발하고 독창적인 생각의 연결 고리가 쉽게 연결됩니다.
 
 ---
 
-## 이동 중 고자극 디지털 미디어 소비 차단 수칙
-
-이동 시간 동안 소셜 미디어를 보거나 모바일 게임에 시각을 빼앗기는 행위는 뇌의 창의적 배양 기회를 완전히 박살 냅니다. 고자극 디지털 인풋은 알파파 상태를 즉시 무력화합니다. 모빌리티 사색을 활성화하려면 가끔 창밖의 흘러가는 풍경을 멍하니 쳐다보며 생각이 마음껏 떠돌아다니도록 놔두고, 수첩을 손에 쥔 채 대기하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 이동 중 고자극 디지털 미디어 소비 차단 수칙
+
+이동 시간 동안 소셜 미디어를 보거나 모바일 게임에 시각을 빼앗기는 행위는 뇌의 창의적 배양 기회를 완전히 박살 냅니다. 고자극 디지털 인풋은 알파파 상태를 즉시 무력화합니다. 모빌리티 사색을 활성화하려면 가끔 창밖의 흘러가는 풍경을 멍하니 쳐다보며 생각이 마음껏 떠돌아다니도록 놔두고, 수첩을 손에 쥔 채 대기하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>이동 수단을 탈 때마다 매일 수첩을 적어야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       매일 거창한 글을 쓸 필요는 없습니다. 대중교통이나 차량으로 이동하는 10 ~ 20분의 시간 동안 스마트폰 대신 창밖을 보며 생각에 잠기고, 스쳐 지나가는 단상 하나를 메모하는 것만으로도 뇌의 디폴트 모드 네트워크(DMN)와 알파파를 활성화하기에 충분합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>대중교통 안에서 손으로 수첩에 글을 쓰면 흔들려서 힘든데, 스마트폰 메모 앱이나 음성 메모로 대체해도 되나요?</span>

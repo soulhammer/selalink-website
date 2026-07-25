@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "目標の視覚化と深い休息：大谷翔平のマンダラートと10時間睡眠ルーティン"
 description: "現代野球の歴史を塗り替える大谷翔平。彼が高校時代に自ら作成した81マスのマンダラート計画法と、身体の回復を極大化するための1日10時間睡眠ルーティンの神経科学的メカニズムを解明します。"
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「ohtani-mandalart-sleep」は <strong>大谷翔平の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>大谷翔平の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## マンダラートの計画具体化効果と長時間睡眠の神経科学的回復メカニズム
+## 1. マンダラートの計画具体化効果と長時間睡眠の神経科学的回復メカニズム
 
 抽象的な目標を具体的な行動に細分化するマンダラート法は、認知負荷を遮断し脳の実践回路を刺激します。一方で、大谷の核心である10時間の十分な睡眠時間は脳のグリンパティック系を促進します。脳脊髄液が日中の代謝活動で溜まった老廃物を洗浄し、前頭葉の認知エネルギーバッテリーを回復させます。また睡眠は、その日練習した投球や打撃の筋肉動作情報を小脳の長期運動記憶ストレージに安全に定着させます。
 
 ---
 
-## 注意事項とヒント
-
-急激に睡眠時間だけを過剰に増やした場合、かえって体がだるくなる現象が生じることがあります。個人の身体代謝に合わせて7〜8時間の基本睡眠量を段階的に増やしつつ、夜の睡眠時間が不足する場合は日中に20〜30分以内の短いパワーナップ（仮眠）を組み合わせて総回復時間を補う形でバランスをとるのが賢明です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     夜間に8時間以上就寝し、午後の活動中に集中力が低下するタイミングで20〜30分以内の短い昼寝を組み合わせて、1日合計10時間の身体充電時間を満たします。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+急激に睡眠時間だけを過剰に増やした場合、かえって体がだるくなる現象が生じることがあります。個人の身体代謝に合わせて7〜8時間の基本睡眠量を段階的に増やしつつ、夜の睡眠時間が不足する場合は日中に20〜30分以内の短いパワーナップ（仮眠）を組み合わせて総回復時間を補う形でバランスをとるのが賢明です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -21,6 +21,7 @@ faqs:
     answer: "玉ねぎとジャガイモを同じ場所に置くと、玉ねぎの水分とエチレンガスがジャガイモの 芽を伸ばし、柔らかくしてしまいます。互いに影響し合うため、物理的に隔離する必要があります。"
   - question: "皮をむいた玉ねぎを長持ちさせる保存のコツは？"
     answer: "水気を完全に拭き取った後、ラップで個別に密閉して冷蔵保存してください。空気との接触を遮断することで、2週間以上新鮮な状態を維持できます。"
+
 ---
 
 玉ねぎをネットのまま買ってきて、ベランダの隅に積み重ねて置いていませんか？しばらくすると、重なっている部分から傷んで腐ったり、芽が出てしまったりします。正しい保存方法をご紹介します。
@@ -29,10 +30,10 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      公認の科学的保管基準
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      本ガイドは、公認された食品衛生および保管ガイドラインを遵守して作成されました。 <strong>農村振興庁(RDA) & 米国農務省(USDA) & FSA</strong>.
+      Based on official storage standards. <strong>農村振興庁(RDA) & 米国農務省(USDA) & FSA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">皮付きのまま風通しの良い涼しい場所に吊るして保存 — 常温保存 (30日間)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">むき玉ねぎは水気を取り、1個ずつラップで密閉 — 冷蔵保存 (14日間) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ステップ 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">じゃがいもと絶対に隔離して保存する — 相互腐敗の防止 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

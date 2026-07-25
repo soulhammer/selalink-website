@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Genius yang Melukis Alam Semesta dengan Sendok: Rutinitas Tidur Siang Reset Otak dan Penangkapan Hipnagogia ala Salvador Dalí"
 description: "Pelajari bagaimana maestro surealis Salvador Dalí duduk di kursi memegang sendok logam untuk menangkap ide-ide artistik yang cemerlang saat terbangun. Temukan neurosains kognitif tentang hipnagogia gelombang teta."
 pubDate: "2026-03-07"
@@ -33,25 +34,23 @@ Kapan pun ia mengalami kebuntuan kreatif di depan kanvas, Dalí duduk di kursi y
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai dali-spoon-nap didasarkan pada <strong>Verifikasi Historis dari Autobiografi Salvador Dalí *The Secret Life of Salvador Dalí* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Salvador Dalí *The Secret Life of Salvador Dalí* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Gelombang Teta Selama Hipnagogia dan Sintesis Asosiatif Bawah Sadar
+## 1. Aktivasi Gelombang Teta Selama Hipnagogia dan Sintesis Asosiatif Bawah Sadar
 
 Memasuki batas antara kesadaran dan tidur—yang dikenal sebagai 'Hipnagogia' (NREM Tahap 1)—mengalihkan gelombang otak menjadi Gelombang Teta 4–8 Hz. Selama transisi ini, sensor eksekutif prefrontal secara sementara hening. Penembakan sinaptik yang tidak terhalang memungkinkan konsep-konsep yang berbeda bergabung menjadi sintesis yang sangat kreatif. Mekanisme penjatuhan sendok Dalí berfungsi sebagai pemutus sirkuit mekanis, menghentikan penurunan ke dalam tidur gelombang lambat NREM Tahap 3. Ini mencegah 'Inersia Tidur' pasca-terbangun sambil menangkap citra kreatif yang dihasilkan selama hipnagogia.
 
 ---
 
-## Perhatian & Tip: Eksternalisasi Seketika Dalam Waktu 5 Detik & Menghilangkan Penundaan
-
-Jika Anda ragu-ragu dalam kebingungan setelah terbangun oleh suara tersebut, citra hipnagogik akan memudar sepenuhnya dalam hitungan detik. Faktor penentu dari rutinitas ini adalah kecepatan yang tegas: saat dentingan logam terdengar, buka mata Anda dan sketsa atau catat citra visual yang tersisa ke dalam buku catatan atau aplikasi catatan dalam waktu 5 detik.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Jika Anda ragu-ragu dalam kebingungan setelah terbangun oleh suara tersebut, cit
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Eksternalisasi Seketika Dalam Waktu 5 Detik & Menghilangkan Penundaan
+
+Jika Anda ragu-ragu dalam kebingungan setelah terbangun oleh suara tersebut, citra hipnagogik akan memudar sepenuhnya dalam hitungan detik. Faktor penentu dari rutinitas ini adalah kecepatan yang tegas: saat dentingan logam terdengar, buka mata Anda dan sketsa atau catat citra visual yang tersisa ke dalam buku catatan atau aplikasi catatan dalam waktu 5 detik.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Salvador Dalí secara khusus memilih sendok logam untuk dipegang selama tidur siangnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Jika Anda ragu-ragu dalam kebingungan setelah terbangun oleh suara tersebut, cit
       Memegang sendok mengubah relaksasi otot fisik pada awal tidur menjadi sinyal suara yang membangunkannya secara instan. Ini mencegah otaknya memasuki tidur gelombang lambat NREM Tahap 3—menghindari inersia tidur—sambil memungkinkannya memanen citra surealis hipnagogik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mengadaptasi rutinitas ini di lingkungan yang sensitif terhadap kebisingan seperti kantor atau perpustakaan?</span>

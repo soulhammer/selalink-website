@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "꿈속에서 수학 정리를 본 천재? 스리니바사 라마누잔의 기상 직후 메모 루틴"
 description: "정수론과 무한급수의 천재 스리니바사 라마누잔. 수면 중 렘(REM) 상태에서 얻은 직관적 영감을 아침에 눈뜨자마자 3분 메모로 옮겼던 그의 뇌 리셋 법과 현대인을 위한 3단계 실천 루틴을 깊이 있게 알아봅니다."
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>스리니바사 라마누잔 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ramanujan-dream-notebook 루틴을 다룹니다.
+      본 콘텐츠는 <strong>스리니바사 라마누잔 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 기상 직후 알파파와 기본 모드 네트워크의 결합 메커니즘
+## 1. 기상 직후 알파파와 기본 모드 네트워크의 결합 메커니즘
 
 우리가 잠에서 깨어난 직후 첫 5 ~ 10분 동안 인간의 뇌는 전두엽의 비판적 논리가 활성화되기 전, 의식과 무의식의 경계인 알파파 및 느린 세타파 상태에 유연하게 머뭅니다. 이 시간 동안 뇌의 기본 모드 네트워크(DMN)가 밤새 잠재의식 속에서 재조합한 기발한 연상 결합들이 휘발되지 않고 의식의 표면으로 부드럽게 떠오릅니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 기상 직후 스마트폰 미디어 노출과 베타파 강제 진입 주의
-
-눈을 뜨자마자 메시지 알림, 뉴스, SNS를 확인하면 뇌는 즉시 긴장 상태인 고주파 베타파 상태로 유입됩니다. 이 순간 뇌는 타인의 반응에 수동적으로 대응하기 시작하며 잠재의식이 밤새 정제해둔 아이디어와 직관을 순식간에 휘발시킵니다. 기상 후 최소 5 ~ 10분간은 디지털 미디어 접속을 완벽히 차단하고 나만의 직관에 집중하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 기상 직후 스마트폰 미디어 노출과 베타파 강제 진입 주의
+
+눈을 뜨자마자 메시지 알림, 뉴스, SNS를 확인하면 뇌는 즉시 긴장 상태인 고주파 베타파 상태로 유입됩니다. 이 순간 뇌는 타인의 반응에 수동적으로 대응하기 시작하며 잠재의식이 밤새 정제해둔 아이디어와 직관을 순식간에 휘발시킵니다. 기상 후 최소 5 ~ 10분간은 디지털 미디어 접속을 완벽히 차단하고 나만의 직관에 집중하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>꿈이나 아침 영감이 떠오르지 않을 때는 어떻게 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       억지로 아이디어를 짜낼 필요는 전혀 없습니다. 몽롱한 상태에서 머릿속에 떠오르는 단어나 기분, 또는 오늘 꼭 해결하고 싶은 난제 하나를 적어보는 것만으로도 알파파 회로가 강화되고 잠재의식의 문이 차츰 열리기 시작합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>스마트폰의 메모 앱이나 음성 녹음을 사용해도 괜찮나요?</span>

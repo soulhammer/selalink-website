@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Genius yang Selalu Membawa Buku Catatan di Pinggangnya: Rutinitas Pencatatan Seketika dan Eksternalisasi Memori Kerja ala Leonardo da Vinci"
 description: "Pelajari bagaimana cendekiawan Renaisans Leonardo da Vinci menyimpan buku catatan bersampul kulit yang diikatkan ke pinggangnya untuk mencatat pengamatan. Temukan neurosains kognitif dari mengamankan memori kerja untuk mengosongkan beban kognitif."
 pubDate: "2026-05-29"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'buku 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai da-vinci-notepad didasarkan pada <strong>Verifikasi Historis dari Biografi Walter Isaacson *Leonardo da Vinci* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Walter Isaacson *Leonardo da Vinci* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pelepasan Memori Kerja (RAM) Melalui Eksternalisasi dan Pengurangan Beban Kognitif
+## 1. Pelepasan Memori Kerja (RAM) Melalui Eksternalisasi dan Pengurangan Beban Kognitif
 
 Otak manusia berfungsi kurang seperti gudang penyimpanan permanen dan lebih seperti CPU pemroses yang secara aktif mengasosiasikan ide. Psikologi kognitif menunjukkan bahwa kapasitas Memori Kerja manusia sangat terbatas (3 hingga 5 kelompok informasi). Menahan pikiran tanpa mencatatnya memaksa korteks prefrontal membakar glukosa untuk mempertahankan data tersebut, memicu Beban Kognitif yang parah. 'Eksternalisasi' seketika—secara fisik menuliskan atau menggambar ide saat muncul—melepas memori kerja (RAM). Mengosongkan memori kerja membebaskan kapasitas eksekutif prefrontal.
 
 ---
 
-## Perhatian & Tip: Eksternalisasi Seketika & Memblokir Stres Retensi Internal
-
-Tujuan utama dari mengambil catatan adalah menghilangkan beban mental retensi dari otak Anda. Berpikir 'saya akan menulis ini nanti' memaksa korteks prefrontal Anda untuk secara terus-menerus menahan data, menghasilkan stres halus dan kelelahan kognitif. Jangan khawatir tentang kerapian saat penangkapan awal. Menuliskan bahkan satu kata kunci atau coretan kasar dalam waktu 5 detik membebaskan memori kerja.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tujuan utama dari mengambil catatan adalah menghilangkan beban mental retensi da
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Eksternalisasi Seketika & Memblokir Stres Retensi Internal
+
+Tujuan utama dari mengambil catatan adalah menghilangkan beban mental retensi dari otak Anda. Berpikir 'saya akan menulis ini nanti' memaksa korteks prefrontal Anda untuk secara terus-menerus menahan data, menghasilkan stres halus dan kelelahan kognitif. Jangan khawatir tentang kerapian saat penangkapan awal. Menuliskan bahkan satu kata kunci atau coretan kasar dalam waktu 5 detik membebaskan memori kerja.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Leonardo da Vinci secara khusus mengikatkan buku catatan kulit ke sabuk pinggangnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tujuan utama dari mengambil catatan adalah menghilangkan beban mental retensi da
       Untuk mengurangi gesekan akses fisik hingga nol mutlak, memungkinkannya mengamankan pengamatan dalam hitungan detik tanpa kehilangan satu pikiran pun. Pengaturan tanpa hambatan ini menjaga memori kerjanya tetap bersih, mempertahankan kapasitas prefrontal untuk asosiasi kreatif.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah menggunakan aplikasi catatan smartphone memberikan manfaat eksternalisasi memori kerja yang sama seperti buku catatan kertas?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "라듐 연구 스트레스를 극복한 비결: 마리 퀴리의 저녁 자전거 라이딩과 BDNF 유도법"
 description: "여성 최초이자 물리학·화학 분야 노벨상 동시 수상자인 마리 퀴리. 극심한 피로와 라듐 연구 스트레스 속에서도 두뇌를 지켰던 저녁 자전거 라이딩 루틴. BDNF 분비 촉진과 전두엽 산소 공급의 인지신경과학적 원리를 밝깁니다."
 pubDate: "2026-02-28"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>이브 퀴리 평전 『마리 퀴리 평전(Madame Curie)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 curie-cycling 루틴을 다룹니다.
+      본 콘텐츠는 <strong>이브 퀴리 평전 『마리 퀴리 평전(Madame Curie)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 리드미컬한 페달링과 BDNF 분비 및 전두엽 리셋의 신경생리학
+## 1. 리드미컬한 페달링과 BDNF 분비 및 전두엽 리셋의 신경생리학
 
 자전거를 타며 일정한 리듬으로 페달을 밟는 유산소 운동은 대뇌 피질로 향하는 혈류량을 비약적으로 증가시키고, 뇌유래신경영양인자(BDNF, Brain-Derived Neurotrophic Factor)의 분비를 강력히 촉진합니다. BDNF는 뇌세포 신경 가소성을 높이고 가혹한 연구와 복잡한 비즈니스로 누적된 코르티솔(Cortisol) 수치를 급격히 낮춥니다. 지친 전두엽 신경망에 산소와 포도당을 원활히 공급하는 이 저녁 라이딩 루틴은 감정적 이완과 인지적 회복을 동시에 달성하는 강력한 뇌 공학적 리셋 기제입니다.
 
 ---
 
-## 주의사항 및 팁: 운동 중 인지적 작업 연상 차단과 오감 집중
-
-라이딩이나 휴식 시간 동안 실험실의 복잡한 공식이나 직장의 사업 난제를 머릿속으로 계속 복기하는 행위를 엄격히 차단해야 합니다. 운동 중에 작업 메모리(Working Memory)를 가동하면 전전두엽이 휴식 상태로 들어가지 못해 BDNF 분비의 신경학적 회복 효과가 반감됩니다. 라이딩 중에는 자전거 바람의 촉감, 스쳐 지나가는 풍경의 시각 자극, 페달을 밟는 신체 리듬에만 100% 감각 주의를 모아야 뇌의 인지 과부하가 해소됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 운동 중 인지적 작업 연상 차단과 오감 집중
+
+라이딩이나 휴식 시간 동안 실험실의 복잡한 공식이나 직장의 사업 난제를 머릿속으로 계속 복기하는 행위를 엄격히 차단해야 합니다. 운동 중에 작업 메모리(Working Memory)를 가동하면 전전두엽이 휴식 상태로 들어가지 못해 BDNF 분비의 신경학적 회복 효과가 반감됩니다. 라이딩 중에는 자전거 바람의 촉감, 스쳐 지나가는 풍경의 시각 자극, 페달을 밟는 신체 리듬에만 100% 감각 주의를 모아야 뇌의 인지 과부하가 해소됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>마리 퀴리와 피에르 퀴리는 왜 결혼 선물로 축의금 대신 자전거를 요청했나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       화려한 예식이나 호화로운 생활용품 대신, 프랑스의 시골길과 자연 속을 직접 달리며 함께 사색하고 연구 스트레스를 해소할 수 있는 실용적이고 건강한 수단이었기 때문입니다. 이 자전거들은 그들의 신혼여행길이자 평생의 연구 버팀목이 되었습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>자전거가 없거나 라이딩 환경이 마땅치 않을 때 대체할 수 있는 유산소 루틴이 있나요?</span>

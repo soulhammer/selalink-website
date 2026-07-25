@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un Solitario en la Oficina Presidencial: La Rutina de Alivio de la Fatiga de Decisión de Charles de Gaulle"
 description: "Descubra cómo el presidente francés Charles de Gaulle se desbalanzaba del estrés de Estado jugando al solitario. Explore la neurociencia cognitiva de cómo el emparejamiento de patrones no verbales desactiva los filtros prefrontales de toma de decisiones y calma la amígdala."
 pubDate: "2026-03-28"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre degaulle-solitaire-refresh se basa en <strong>Verificación Histórica de las Memorias de Charles de Gaulle *Memorias de guerra (Mémoires de guerre)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Memorias de Charles de Gaulle *Memorias de guerra (Mémoires de guerre)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mitigación de la Fatiga de Decisión y Calma de la Amígdala Mediante el Emparejamiento de Patrones No Verbal
+## 1. Mitigación de la Fatiga de Decisión y Calma de la Amígdala Mediante el Emparejamiento de Patrones No Verbal
 
 La toma de decisiones prolongada agota la glucosa en la corteza prefrontal (PFC), provocando 'Fatiga de Decisión'. Este estado desencadena picos de cortisol y mantiene la amígdala hiperreactiva. Realizar actividades estructuradas de emparejamiento de patrones sin amenaza —como clasificar cartas en el solitario— cambia al instante el procesamiento cerebral del 'Modo de Juicio Ejecutivo Activo' al 'Modo de Emparejamiento Visual Pasivo'. La neurociencia demuestra que este enfoque no verbal silencia los filtros prefrontales, permitiendo a la memoria de trabajo reponer energía mientras restaura la conectividad funcional entre la corteza prefrontal y la amígdala.
 
 ---
 
-## Precauciones y Consejos: Evitar la Sobrecarga Digital y Priorizar el Emparejamiento Analógico
-
-Intentar relajarse viendo vídeos cortos en redes sociales o jugando con el móvil mantiene activos los filtros cognitivos prefrontales, prolongando la fatiga. Para lograr un descanso prefrontal real como de Gaulle, desconecte de las notificaciones durante 10 minutos y realice actividades de emparejamiento analógico no verbal y táctiles, como cartas de papel, rompecabezas o colorear. La retroalimentación táctil desactiva el esfuerzo ejecutivo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Intentar relajarse viendo vídeos cortos en redes sociales o jugando con el móv
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Evitar la Sobrecarga Digital y Priorizar el Emparejamiento Analógico
+
+Intentar relajarse viendo vídeos cortos en redes sociales o jugando con el móvil mantiene activos los filtros cognitivos prefrontales, prolongando la fatiga. Para lograr un descanso prefrontal real como de Gaulle, desconecte de las notificaciones durante 10 minutos y realice actividades de emparejamiento analógico no verbal y táctiles, como cartas de papel, rompecabezas o colorear. La retroalimentación táctil desactiva el esfuerzo ejecutivo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Jugar al solitario en una aplicación de teléfono ofrece el mismo alivio de la fatiga de decisión?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Intentar relajarse viendo vídeos cortos en redes sociales o jugando con el móv
       No. Las aplicaciones móviles emiten luz azul y muestran notificaciones que reclutan continuamente la atención prefrontal. Usar cartas físicas permite involucrar a la corteza somatosensorial mientras se desactivan los filtros ejecutivos prefrontales para lograr una recuperación superior.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿No lograr completar una partida de solitario causa estrés adicional?</span>

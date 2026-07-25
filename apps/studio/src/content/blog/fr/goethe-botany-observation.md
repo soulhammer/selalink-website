@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le géant de la littérature qui collectionnait des graines dans son jardin : La routine matinale d'observation et de restauration de l'attention de Goethe"
 description: "Découvrez comment Johann Wolfgang von Goethe puisait son inspiration en observant les plantes a la loupe chaque matin. Explorez la théorie de restauration de l'attention (ART) et sa routine de marche botanique matinale."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la psychologie environnementale et la neuroscie
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant goethe-botany-observation est basée sur <strong>Vérification Historique issue de *Poésie et Vérité (Dichtung und Wahrheit)* et *La Métamorphose des plantes* de Johann Wolfgang von Goethe, des archives du Musée de Weimar & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *Poésie et Vérité (Dichtung und Wahrheit)* et *La Métamorphose des plantes* de Johann Wolfgang von Goethe, des archives du Musée de Weimar & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Exposition à la nature et science cérébrale de la théorie de restauration de l'attention (ART)
+## 1. Exposition à la nature et science cérébrale de la théorie de restauration de l'attention (ART)
 
 L'analyse de données sur écran ou la lecture dense maintiennent le cortex préfrontal dans un état d'épuisement énergétique appelé <strong>Attention Dirigée</strong>. Une exposition prolongée provoque la Fatigue de l'Attention Dirigée, réduisant la créativité. Selon la <strong>Théorie de la restauration de l'attention (ART)</strong> de Stephen Kaplan, l'observation d'éléments naturels (géométrie fractale, feuilles, spirales) sollicite la « Fascination douce » (Attention involontaire) sans effort cognitif. Une marche de 15 minutes a observer la nature réinitialise le cortex préfrontal et diminue le cortisol.
 
 ---
 
-## Mise en garde : Consignes pour l'observation des fractales naturelles et la récupération préfrontale
-
-Les textes numériques et infographies imposent une Attention Dirigée qui épuise le cortex préfrontal. Observer les fractales naturelles (nervures de feuilles, écorces, spirales) pendant 15 minutes active la restauration de l'attention sans effort. Pour un réalignement complet, évitez de consulter votre téléphone pendant la marche.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Les textes numériques et infographies imposent une Attention Dirigée qui épui
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Consignes pour l'observation des fractales naturelles et la récupération préfrontale
+
+Les textes numériques et infographies imposent une Attention Dirigée qui épuise le cortex préfrontal. Observer les fractales naturelles (nervures de feuilles, écorces, spirales) pendant 15 minutes active la restauration de l'attention sans effort. Pour un réalignement complet, évitez de consulter votre téléphone pendant la marche.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'observation de plantes d'intérieur ou de fleurs en pot est-elle efficace pour restaurer l'attention ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Les textes numériques et infographies imposent une Attention Dirigée qui épui
       Oui. L'examen des motifs sur des plantes d'intérieur sollicite la Fascination douce, réduisant la fatigue préfrontale. Néanmoins, l'observation en extérieur associée a la lumière naturelle et a la marche procure une restauration cognitive maximale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Faut-il vraiment se munir d'une loupe et d'enveloppes de collecte comme Goethe ?</span>

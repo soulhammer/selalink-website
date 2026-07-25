@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "床外很危险？躺着写出杰作的马克·吐温卧床写作习惯"
 description: "探索美国文学巨匠马克·吐温独特的写作习惯——早餐后躺在床上倾斜依靠着创作出数部杰作，并了解身体放松带来的创造性脑科学效果。"
 pubDate: "2026-05-20"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 twain-lying-writing 的内容基于 <strong>躺着创作杰作的马克·吐温历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>躺着创作杰作的马克·吐温历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 放松大脑并连接思考的“联想性思维”
+## 1. 放松大脑并连接思考的“联想性思维”
 
 当我们水平平躺或倾斜依靠时，相比站立或坐着，心脏向全身泵血的负担显著减轻。这增加了脑部血流量，稳定了心率，并强烈刺激副交感神经系统。当身体完全放松时，大脑会抑制调节压力的皮质醇的分泌。
 
@@ -49,9 +50,7 @@ faqs:
 
 ---
 
-## 保持正确姿势并防止智能手机干扰
-
-在床上斜躺的姿势可能会给脊柱或颈部带来很大负担，因此应在背后放置几个硬实枕头，牢牢支撑脊柱使其保持挺直。此外，为防止床带来的舒适感变成沉迷社交媒体或发呆的逃避场所，躺下前请将智能手机放在完全够不到的地方。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     在放松的姿势下调整呼吸，将脑海中涌现的想法不加逻辑审核地原汁原味记录下来。句子、图画、思维导图等任何形式皆可。自由倾诉并外化思考至少15分钟。
   </p>
 </div>
+
+---
+
+## 3. 保持正确姿势并防止智能手机干扰
+
+在床上斜躺的姿势可能会给脊柱或颈部带来很大负担，因此应在背后放置几个硬实枕头，牢牢支撑脊柱使其保持挺直。此外，为防止床带来的舒适感变成沉迷社交媒体或发呆的逃避场所，躺下前请将智能手机放在完全够不到的地方。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

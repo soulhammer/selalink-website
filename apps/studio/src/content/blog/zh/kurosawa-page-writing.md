@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "黑泽明的大师之始：每日2页剧本写作习惯与平抚杏仁核应激指南"
 description: "探索享誉世界的电影大师黑泽明如何通过每日撰写2页剧本创制影史名篇。揭示微目标（Micro-Goal）策略、降解杏仁核威胁警报、唤醒前额叶皮层执掌功能的神经科学原理与3步骤指南。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 kurosawa-page-writing 的内容基于 <strong>黑泽明自传《蛤蟆的油（Something Like an Autobiography）》与黑泽明档案考证及认知神经科学（Cognitive Neuroscience）与行为心理学（Behavioral Psychology）研究</strong> 撰写。
+      本内容基于 <strong>黑泽明自传《蛤蟆的油（Something Like an Autobiography）》与黑泽明档案考证及认知神经科学（Cognitive Neuroscience）与行为心理学（Behavioral Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 降解杏仁核（Amygdala）威胁应激与微目标（Micro-Goal）神经科学原理
+## 1. 降解杏仁核（Amygdala）威胁应激与微目标（Micro-Goal）神经科学原理
 
 当目标的体量过于宏大时，作为大脑情绪中枢的<strong>杏仁核（Amygdala）</strong>会将之评估为具威慑力的焦虑与威胁，进而诱发无意识的拖延与逃避行为。将单日指标降维至如“写满2页”这般极微观单位，能巧妙避开杏仁核的警报触发线，促使<strong>前额叶皮层（Prefrontal Cortex）</strong>主导的执掌功能瞬时启动。此套<strong>微目标（Micro-Goal）</strong>策略能解除大脑行为阻力，稳健维持攻坚长远巨制所需的<strong>执掌功能（Executive Function）</strong>。
 
 ---
 
-## 注意事项：剔除宏大项目重压，聚焦攻坚单日微目标指南
-
-若频频假想宏大项目的全貌体量，大脑必将承受严重的认知重压，极易导致尚未启动便破罐破摔放弃。务必将意识全情收拢定格于今天当下的单一微目标（如：撰写2页文案）中。相比于依赖脆弱的主观意志力，预设每日准点交出2页的物理规则，方是完满成就巨制的绝对本质。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：剔除宏大项目重压，聚焦攻坚单日微目标指南
+
+若频频假想宏大项目的全貌体量，大脑必将承受严重的认知重压，极易导致尚未启动便破罐破摔放弃。务必将意识全情收拢定格于今天当下的单一微目标（如：撰写2页文案）中。相比于依赖脆弱的主观意志力，预设每日准点交出2页的物理规则，方是完满成就巨制的绝对本质。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>若单日硬性指标限定为区区2页，产出效能是否会过于缓慢沉闷？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       绝对并非如此。若初始目标摆设过于沉重，大脑常因启动阻力而无限期拖延，导致最终颗粒无收。以极小化目标每天为行动破冰解冻，坚持一年沉淀出的700余页体量，将蜕变为完稿2至3部电影剧本的惊人复利奇迹。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>除了写作之外，日常职场工作、软件开发或备考复习能否适用这套“2页”习惯？</span>

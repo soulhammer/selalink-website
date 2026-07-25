@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "キャンバスのような心：アグネス・マーティンの静寂待機ルーティン"
 description: "キャンバス前の椅子に座り、雑念が完全に消えるまで待ってから初めて絵を描いた画家アグネス・マーティン。脳のノイズを掃除し高度な洞察と霊感を刺激する瞑想の認知科学を探ります。"
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「martin-silent-waiting」は <strong>アグネス・マーティンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アグネス・マーティンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 精神的ノイズ（Cognitive Noise）の減少とアルファ–シータ波の同調
+## 1. 精神的ノイズ（Cognitive Noise）の減少とアルファ–シータ波の同調
 
 現代人の脳は、絶えず何かを計算し解決しなければならないというプレッシャーに晒され、テンポの速いベータ波（Beta Waves）を過剰に放出してしまいます。この状態は脳の認知的ノイズを増幅させ、深遠な洞察や直感的な創造性を妨げます。アグネス・マーティンのように意識的に行動を止め、内部の感覚と静かな静寂に集中すると、脳は不安を静める<strong>アルファ波（Alpha Waves）</strong>を経て、穏やかで深い省察状態の<strong>シータ波（Theta Waves）</strong>へとギアを切り替えます。この脳波同調は前頭葉の防衛的な論理フィルターを取り払い、長期記憶や無意識の中に埋もれていた最適な解決策や新鮮なアイデアを鮮明に活性化させます。
 
 ---
 
-## 注意事項とヒント
-
-静寂待機中に脳を空っぽにしようと焦るあまり、逆効果として「雑念との戦争」に陥らないよう注意が必要です。浮かんでくる思考を無理に抑え込もう（Suppression）とすると、脳はかえってその思考に強く執着してしまいます。これを心理学では「リバウンド効果（Rebound Effect）」と呼びます。思考が浮かんだ時は無理に消そうとせず、流れる雲を眺めるように「ああ、こんな考えが浮かんでいるな」とドライに認め、再び呼吸の柔らかい流れへと注意の錨を戻すマインドフルネス（Mindfulness）の姿勢が必要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     精神の霧が晴れて軽やかな集中状態が訪れたら、最も優先して行うべき単一の本質的コア課題のみを開いて作業を開始します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+静寂待機中に脳を空っぽにしようと焦るあまり、逆効果として「雑念との戦争」に陥らないよう注意が必要です。浮かんでくる思考を無理に抑え込もう（Suppression）とすると、脳はかえってその思考に強く執着してしまいます。これを心理学では「リバウンド効果（Rebound Effect）」と呼びます。思考が浮かんだ時は無理に消そうとせず、流れる雲を眺めるように「ああ、こんな考えが浮かんでいるな」とドライに認め、再び呼吸の柔らかい流れへと注意の錨を戻すマインドフルネス（Mindfulness）の姿勢が必要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

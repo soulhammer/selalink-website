@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ジャングルの中の陣地でも本を手にした理由：チェ・ゲバラの没頭読書と認知再構造化"
 description: "キューバ革命の英雄チェ・ゲバラがゲリラ戦という極度のストレス戦場の中でも毎日厚い本を読み思想を整えたルーティン。深い読書（Deep Reading）が前頭葉の認知制御ネットワークを活性化し生存ストレスを遮断する神経科学的原理を解き明かします。"
 pubDate: "2026-02-09"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「che-guevara-reading」は <strong>ジョン・リー・アンダーソン伝記『Che Guevara: A Revolutionary Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョン・リー・アンダーソン伝記『Che Guevara: A Revolutionary Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 深い読書（Deep Reading）による前頭葉認知制御ネットワークの稼働とストレス信号の遮断
+## 1. 深い読書（Deep Reading）による前頭葉認知制御ネットワークの稼働とストレス信号の遮断
 
 外部の緊迫した生存の脅威と不確実性は、脳の扁桃体（Amygdala）を過剰活性化させ、交感神経系の危機反応と認知的崩壊を引き起こします。認知神経科学の研究によると、精緻に構造化された長文書籍の流れを能動的に追跡する「深い読書（Deep Reading）」は、大脳前頭前野の認知制御ネットワーク（Cognitive Control Network）を集中稼働させます。活性化された前頭前野は扁桃体のトップダウン抑制（Top-down Inhibition）回路を作動させ、ストレスホルモン（コルチゾール）の流出を即座に減少させます。同時に新しいテキストの文脈を解釈し認知的シェマ（Schema）を再構成する過程で分泌されるドパミンは、不安を抑え巨視的な信念価値を保存させる認知再構造化（Cognitive Restructuring）を達成します。
 
 ---
 
-## 注意事項＆ヒント：表面的なショートフォーム/ニューススキャンの排除と言語的注意網の刺激
-
-読書ルーティンの認知保護効果を得るには、スマートフォンのニュースやソーシャルメディアのフィードを目を通すような「表面的な速読」モードを捨てなければなりません。視覚的スキャン中心の表面的な情報消費は、脳を絶えず浅い認知反応状態にとどまらせ、前頭葉制御網を活性化させることができません。たとえたった2ページを読むとしても、文章の背後に隠された著者の前提を把握し、概念的深度を推論しようと努力して脳の言語的注意網（Linguistic Attention Network）を稼働させてこそ、ストレス防衛網が構築されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：表面的なショートフォーム/ニューススキャンの排除と言語的注意網の刺激
+
+読書ルーティンの認知保護効果を得るには、スマートフォンのニュースやソーシャルメディアのフィードを目を通すような「表面的な速読」モードを捨てなければなりません。視覚的スキャン中心の表面的な情報消費は、脳を絶えず浅い認知反応状態にとどまらせ、前頭葉制御網を活性化させることができません。たとえたった2ページを読むとしても、文章の背後に隠された著者の前提を把握し、概念的深度を推論しようと努力して脳の言語的注意網（Linguistic Attention Network）を稼働させてこそ、ストレス防衛網が構築されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>小説やエッセイのような文学書籍を読んでも、同じ前頭葉認知制御網の稼働効果が起こりますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、可能です。ただし、文章構造が過度に単純で一次元的な娯楽性テキストよりは、登場人物の複雑な心理的動機や著者の固有な人生の哲学が深く溶け込んでおり、読者が認知的推論（例：他者の行動原因の推定）を実行するように作る知的古典文学であってこそ、前頭葉認知制御網が強く稼働します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>紙の本の代わりにタブレットPCやE-Inkリーダーを使用して読書しても、認知再構造化効果は同じですか？</span>

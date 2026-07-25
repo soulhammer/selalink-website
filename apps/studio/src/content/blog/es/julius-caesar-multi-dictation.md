@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Dictado Simultáneo de Julio César: La Técnica de Cambio de Tareas de Alta Concentración y Expansión de la Memoria de Trabajo"
 description: "Descubra cómo Julio César dictaba múltiples cartas y órdenes militares simultáneamente a varios escribas a caballo o en carruaje. Explore la neurociencia de la expansión de la memoria de trabajo y la flexibilidad cognitiva prefrontal."
 pubDate: "2026-01-14"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre julius-caesar-multi-dictation se basa en <strong>Verificación Histórica de *Vidas paralelas* de Plutarco, *Historia natural* de Plinio el Viejo e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Vidas paralelas* de Plutarco, *Historia natural* de Plinio el Viejo e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Expansión de la Memoria de Trabajo y Flexibilidad Cognitiva Prefrontal
+## 1. Expansión de la Memoria de Trabajo y Flexibilidad Cognitiva Prefrontal
 
 La <strong>Memoria de Trabajo</strong> es el espacio donde el cerebro retiene y manipula información durante la toma de decisiones. El dictado simultáneo de César requería un control atencional superior: mantener los parámetros de múltiples escribas en búferes temporales mientras activaba las redes necesarias para el siguiente dictado. Este entrenamiento fortalece la <strong>Corteza Prefrontal</strong>, expandiendo la memoria de trabajo y mejorando la <strong>Flexibilidad Cognitiva</strong>.
 
 ---
 
-## Precaución: Elimine la Multitarea Caótica para Practicar un Enfoque Secuencial Único
-
-El verdadero dictado simultáneo no es una multitarea desordenada donde la atención se divide. Para evitar la sobrecarga de la memoria de trabajo y garantizar un resultado de calidad, adopte el método de César: sumerja el 100% de su atención en un solo objetivo antes de cambiar intencionadamente al siguiente, un estado denominado 'Enfoque Secuencial Único'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El verdadero dictado simultáneo no es una multitarea desordenada donde la atenc
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine la Multitarea Caótica para Practicar un Enfoque Secuencial Único
+
+El verdadero dictado simultáneo no es una multitarea desordenada donde la atención se divide. Para evitar la sobrecarga de la memoria de trabajo y garantizar un resultado de calidad, adopte el método de César: sumerja el 100% de su atención en un solo objetivo antes de cambiar intencionadamente al siguiente, un estado denominado 'Enfoque Secuencial Único'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿En qué se diferencia el dictado simultáneo de la multitarea convencional?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El verdadero dictado simultáneo no es una multitarea desordenada donde la atenc
       La multitarea convencional divide la atención entre varias tareas simultáneas (p. ej., mirar mensajes mientras se escribe un correo), generando fricción. El dictado simultáneo utiliza el 'Enfoque Secuencial Único': asigna el 100% de la atención a un escriba por vez antes de un cambio estructurado.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo practicar este método tecleando en lugar de dictar por voz?</span>

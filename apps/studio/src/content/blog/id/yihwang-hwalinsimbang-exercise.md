@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Kultivasi Kesehatan Pagi Cendikiawan: Rutinitas Senam Hwalinsimbang Toegye Yi Hwang"
 description: "Toegye Yi Hwang bertubuh lemah sepanjang hidupnya, namun terus menuntut ilmu hingga usia 70 tahun melalui latihan Daoyin dan pengaturan napas setiap pagi. Pelajari mekanisme fisiologis bagaimana penyelarasan fisik intensitas rendah dan napas dalam mengaktifkan sistem saraf parasimpatik."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ Dalam artikel ini, kami membuktikan manfaat fisiologis dari Hwalinsimbang dan me
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai yihwang-hwalinsimbang-exercise didasarkan pada <strong>Catatan Historis Hwalinsimbang Toegye Yi Hwang & Riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Catatan Historis Hwalinsimbang Toegye Yi Hwang & Riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prinsip Latihan Rendah Intensitas dan Pengaturan Napas dalam Menyeimbangkan Sistem Saraf Otonom
+## 1. Prinsip Latihan Rendah Intensitas dan Pengaturan Napas dalam Menyeimbangkan Sistem Saraf Otonom
 
 Segera setelah bangun tidur, tubuh mengalami lonjakan kortisol (Cortisol Awakening Response) untuk beralih ke kondisi aktif, yang dapat menyebabkan peningkatan denyut nadi dan kecemasan ringan. Melakukan aktivitas keras atau membuka media digital pada saat ini membuat sirkuit kecemasan otak bekerja berlebihan. Sebaliknya, menggabungkan peregangan lembut dengan hembusan napas perut yang panjang merangsang saraf vagus dan mengaktifkan sistem parasimpatik, menstabilkan variabilitas detak jantung (HRV) untuk mencapai fokus jernih.
 
 ---
 
-## Peringatan dan Tips
-
-Setelah bangun tidur, tulang belakang dan serabut otot berada dalam kondisi sangat kaku. Memaksa gerakan keras atau peregangan ekstrem dapat menyebabkan cedera cakram tulang belakang. Batasi senam Daoyin pagi pada gerakan lembut tanpa hentakan, dilakukan dalam batas tanpa rasa sakit sambil berfokus pada napas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Setelah bangun tidur, tulang belakang dan serabut otot berada dalam kondisi sang
     Hirup oksigen segar melalui hidung, lalu tarik perut bawah saat menghembuskan napas perlahan dan tenang melalui mulut. Lakukan 10 kali napas perut dalam untuk mengaktifkan sistem saraf parasimpatik.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Setelah bangun tidur, tulang belakang dan serabut otot berada dalam kondisi sangat kaku. Memaksa gerakan keras atau peregangan ekstrem dapat menyebabkan cedera cakram tulang belakang. Batasi senam Daoyin pagi pada gerakan lembut tanpa hentakan, dilakukan dalam batas tanpa rasa sakit sambil berfokus pada napas.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

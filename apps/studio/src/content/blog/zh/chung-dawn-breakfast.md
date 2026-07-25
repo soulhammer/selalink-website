@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "开启黎明的激动：郑周永会长的5点家族早餐与步行习惯"
 description: "探索现代集团创始人郑周永会长终生坚持的每天凌晨4点起床与晨间家族沟通。揭示晨间有氧运动与情感交流如何平稳皮质醇分泌并赋予全天活力的神经科学与生理学原理。"
 pubDate: "2026-06-12"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 chung-dawn-breakfast 的内容基于 <strong>郑周永自传《有试炼，无失败》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>郑周永自传《有试炼，无失败》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 清晨自然光暴露与晨间步行的神经生理学及社会性情绪调节
+## 1. 清晨自然光暴露与晨间步行的神经生理学及社会性情绪调节
 
 在固定的清晨时刻起床并于户外接受自然光步行的行为，能够刺激视网膜ipRGCs，彻底切断大脑睡眠霍尔蒙褪黑素（Melatonin）的分泌，并使血清素（Serotonin）与皮质醇（Cortisol）的分泌趋于正常，消除睡眠惯性。同时，15-30分钟的轻快晨间有氧漫步能增加脑血流量，瞬间拉动前额叶皮层的执行功能。此外，清晨与家人共进早餐交流的情感纽带能够促发缩宫素（Oxytocin）分泌并稳定副交感神经，抑制交感神经引发的过载焦虑，为全天的高效决策铺设出绝佳的认知与情绪基础设施。
 
 ---
 
-## 注意事项与提示：严禁在未保障充足睡眠前提下强行早起
-
-盲目的强行早起绝不等于成功。若在无法保障7-8小时刚性总睡眠时长的状态下强行提前闹钟，只会引发中枢神经系统严重疲劳与前额叶皮层认知功能倒退。在倒推起床时间之前，请务必优先倒推并管控前晚的入睡时间线以保障充沛睡眠，如此方能完整获得晨间习惯的生理学益处。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：严禁在未保障充足睡眠前提下强行早起
+
+盲目的强行早起绝不等于成功。若在无法保障7-8小时刚性总睡眠时长的状态下强行提前闹钟，只会引发中枢神经系统严重疲劳与前额叶皮层认知功能倒退。在倒推起床时间之前，请务必优先倒推并管控前晚的入睡时间线以保障充沛睡眠，如此方能完整获得晨间习惯的生理学益处。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>夜型人格（Night Owl）也必须像郑周永会长那样强行在凌晨4点或5点起床吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全不必。核心绝非“凌晨4点”这一绝对数字，而在于将“晨起远离数字过载、晨间沟通交流、沐光步行”这套有机3步骤机制，依循自身的生活作息（例如早上6点或7点）予以持之以恒地贯彻。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>独居者晨间缺少可以共进早餐的家人时该如何应用此习惯？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "極度の沈黙の中で傑作を生み出す：フランツ・カフカの真夜中の執筆ルーティンと前頭葉下降調節"
 description: "20世紀文学の巨匠フランツ・カフカ。昼の騒音と疲労を避け、夜11時から明け方まで創作に没頭した彼の執筆習慣と前頭葉下降調節（Frontal Down-regulation）、作業記憶没頭の脳科学的原理を紹介します。"
 pubDate: "2026-04-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「kafka-late-night-writing」は <strong>マックス・ブロート『フランツ・カフカ評伝（Franz Kafka: Eine Biographie）』および日記史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マックス・ブロート『フランツ・カフカ評伝（Franz Kafka: Eine Biographie）』および日記史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 前頭葉下降調節（Frontal Down-regulation）と極端的静寂の没頭脳科学
+## 1. 前頭葉下降調節（Frontal Down-regulation）と極端的静寂の没頭脳科学
 
 昼の間、私たちの前頭葉は社会的規範と論理的理性、そして注意集中に必要な認知エネルギーを活発に消耗します。しかしエネルギーが枯渇した夜遅くになると、前頭葉の強力な統制フィルターが一時的に弱まりますが、これを認知科学では<strong>「前頭葉下降調節（Frontal Down-regulation）」</strong>状態と呼びます。統制が解けた脳は理性的抑圧から抜け出し、日頃はアクセスしにくかった感情の深淵、無意識的連想、独創的な創造性を躊躇なく噴出させます。カフカが暗い夜に怪奇でありながらも深い響きを与える名作を書くことができた生理的原動力がまさにここにあります。また、真夜中の完璧な物理的沈黙は、<strong>作業記憶（Working Memory）</strong>を攪乱する外部の騒音刺激を源泉遮断し、脳がただ一つの課題に極度に没頭できる最適な神経化学的環境を醸成します。
 
 ---
 
-## 注意事項：睡眠パターンを破壊せず静寂のゴールデンアワーを確保するルール
-
-カフカのように夜遅くに無闇に起きている行動は、慢性的な睡眠不足と健康悪化を招く可能性があります。本ルーティンの核心は徹夜ではなく、たった1時間であっても外部の騒音と視覚的刺激が完全に遮断された静寂の環境を意図的に作ることです。無理に徹夜をするよりはノイズキャンセリングヘッドホンを使用したり、起床直後の早朝の時間を活用して自分だけの静寂のゴールデンアワーを設計してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：睡眠パターンを破壊せず静寂のゴールデンアワーを確保するルール
+
+カフカのように夜遅くに無闇に起きている行動は、慢性的な睡眠不足と健康悪化を招く可能性があります。本ルーティンの核心は徹夜ではなく、たった1時間であっても外部の騒音と視覚的刺激が完全に遮断された静寂の環境を意図的に作ることです。無理に徹夜をするよりはノイズキャンセリングヘッドホンを使用したり、起床直後の早朝の時間を活用して自分だけの静寂のゴールデンアワーを設計してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>カフカのように夜遅く働くことが睡眠周期を崩すのではないでしょうか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、無理な徹夜は健康を害する可能性があります。このルーティンの核心は「夜遅く」という時間帯自体より、外部の邪魔が完全に消えた「極端的静寂の1時間」を確保することにあります。このために騒音遮断装置を活用したり、早朝の時間を代わりに活用することをお勧めします。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>夜の時間ではなく昼間にこのカフカ式静寂没頭法を実践するにはどうすればよいですか？</span>

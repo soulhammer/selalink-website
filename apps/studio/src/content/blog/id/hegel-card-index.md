@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Repositori Pemikiran Filosofis: Metode Indeks Kartu Dialektis dan Rutinitas Perancah Kognitif Hegel"
 description: "Di balik penyelesaian Idealisme Jerman oleh G. W. F. Hegel terdapat puluhan ribu kartu pengetahuan dan sistem kotak pengategorian yang ketat. Temukan rutinitas perancah kognitifnya dan kerangka kerja aksi 3 langkah untuk melampaui batas memori kerja."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ Sejak masa studinya di Tübingen Stift, Hegel mempertahankan sistem pencatatan y
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai hegel-card-index didasarkan pada <strong>Verifikasi Historis dari Biografi G. W. F. Hegel, Arsip *Phänomenologie des Geistes* & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi G. W. F. Hegel, Arsip *Phänomenologie des Geistes* & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Perancah Kognitif: Melampaui Hambatan Memori Kerja
+## 1. Perancah Kognitif: Melampaui Hambatan Memori Kerja
 
 Kinerja korteks prefrontal manusia sangat dibatasi oleh kapasitas <strong>Memori Kerja</strong>. Menyimpan struktur logika yang rumit murni di dalam memori mental memicu kelebihan beban kognitif. Sistem indeks kartu Hegel berfungsi sebagai kerangka <strong>Perancang Kognitif (Cognitive Scaffolding)</strong> yang ideal. Memindahkan pengetahuan ke kartu indeks eksternal membebaskan lebar pita eksekutif pusat.
 
 ---
 
-## Perhatian: Melampaui Penyimpanan Pasif untuk Mendorong Pengaitan Informasi secara Organik
-
-Kotak indeks kartu Hegel bukanlah arsip mati; kotak tersebut berfungsi sebagai perpanjangan aktif dari kognisi dialektis. Jangan puas hanya dengan tindakan mencatat. Kekuatan sejati dari perancah kognitif terletak pada penerapan urutan kategoris dan label, memastikan catatan dapat diambil dan disintesis secara fleksibel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Kotak indeks kartu Hegel bukanlah arsip mati; kotak tersebut berfungsi sebagai p
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Melampaui Penyimpanan Pasif untuk Mendorong Pengaitan Informasi secara Organik
+
+Kotak indeks kartu Hegel bukanlah arsip mati; kotak tersebut berfungsi sebagai perpanjangan aktif dari kognisi dialektis. Jangan puas hanya dengan tindakan mencatat. Kekuatan sejati dari perancah kognitif terletak pada penerapan urutan kategoris dan label, memastikan catatan dapat diambil dan disintesis secara fleksibel.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah alat digital dapat menggantikan rutinitas indeks kartu analog ini secara efektif?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Kotak indeks kartu Hegel bukanlah arsip mati; kotak tersebut berfungsi sebagai p
       Ya, tentu saja. Anda dapat menerapkan sistem indeks kartu menggunakan alat digital seperti Notion, Obsidian, atau aplikasi catatan. Secara khusus, memanfaatkan tautan dua arah (Backlink) mereplikasi mekanisme pengaitan ide dialektis Hegel.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Mengapa kartu atomic yang ringkas lebih efektif daripada menulis halaman buku catatan yang panjang?</span>

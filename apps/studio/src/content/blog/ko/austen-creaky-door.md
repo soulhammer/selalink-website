@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "몰입을 지키는 환경 신호: 제인 오스틴의 삐걱거리는 문 습관"
 description: "제인 오스틴은 방해 요소가 들어올 때 미리 감지하기 위해 삐걱거리는 문을 일부러 고치지 않았습니다. 집중 경계를 설계하는 원리를 다룹니다."
 pubDate: "2026-03-27"
@@ -37,17 +38,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & *Neuropsychologia*</strong>에 근거하여 austen-creaky-door 루틴을 다룹니다.
+      본 콘텐츠는 <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & *Neuropsychologia*</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 삐걱거리는 문 소리가 선사하는 작업 전환 마찰 방어
+## 1. 삐걱거리는 문 소리가 선사하는 작업 전환 마찰 방어
 
 예고 없는 외부의 갑작스러운 침입은 뇌에 <strong>'작업 전환 마찰(Task-Switching Friction)'</strong>을 일으키고, 이전 작업에 주의력이 매여 있는 <strong>'주의력 잔재(Attention Residue)'</strong> 손실을 극대화합니다.
 
@@ -55,9 +56,7 @@ faqs:
 
 ---
 
-## 외부 침입 소음에 대처하는 몰입 유지 가이드
-
-의지력에만 의존하지 않고 환경적 제약을 설계하여 뇌가 몰입할 수밖에 없는 상태를 만드세요. 삐걱거리는 문 경첩 소리처럼 감각적 조기 경보 신호를 구축하는 것이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 외부 침입 소음에 대처하는 몰입 유지 가이드
+
+의지력에만 의존하지 않고 환경적 제약을 설계하여 뇌가 몰입할 수밖에 없는 상태를 만드세요. 삐걱거리는 문 경첩 소리처럼 감각적 조기 경보 신호를 구축하는 것이 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>제인 오스틴은 왜 개인 서재 대신 삐걱거리는 문이 있는 거실에서 글을 썼나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ faqs:
       19세기 영국에서는 여성 작가에게 독립된 서재가 주어지는 경우가 매우 드물었습니다. 오스틴 역시 거실이라는 공유 공간에서 글을 써야 했기에, 삐걱거리는 문을 이용해 가족들의 갑작스러운 방문을 인지하고 원고를 가릴 시간을 벌었습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>현대적인 디지털 환경에서 이 방식을 어떻게 적용할 수 있나요?</span>

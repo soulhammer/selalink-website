@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "흔들리지 않는 자율성의 확립: 율곡 이이의 자경문 아침 선언 루틴"
 description: "조선 최고의 현자 율곡 이이가 20세에 수립한 '자경문(自警文)'을 통한 자아 단련법. 매일 아침 결의를 낭독함으로써 목표 지향성 피드백을 활성화하는 인지 훈련법을 분석합니다."
 pubDate: "2026-01-01"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Yiyi Self Warning 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 yiyi-self-warning 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Yiyi Self Warning 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 자기 참조 효과와 목표 지향적 선언의 뇌과학
+## 1. 자기 참조 효과와 목표 지향적 선언의 뇌과학
 
 뇌과학에서 자기 참조 효과(Self-Reference Effect)란 새로운 정보나 결심을 자기 자신과 연결 지어 처리할 때, 내측 전전두엽 피질(mPFC)이 활성화되며 장기 기억과 가치 내면화가 훨씬 더 강력하게 일어나는 현상입니다. 율곡 이이가 매일 아침 자신의 이름과 처신을 담은 규칙을 묵독한 것은 이 신경 경로를 지속적으로 재강화하는 과정이었습니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 스스로를 경계하며 자율성을 지키는 한마디
-
-원칙을 세우는 것보다 중요한 것은 매일 아침 그것을 자신에게 상기시키는 정직함입니다. 타인이 정한 규칙이 아닌, 오직 스스로 동의하고 선언한 잣대만이 우리의 뇌를 가장 강력하게 움직이며, 하루를 통제할 힘을 선물해 줍니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     잠자리에 들기 전 아침에 선언한 원칙들을 오늘 얼마나 잘 지켰는지 짧게 회고하고, 부족했던 점과 내일 보완할 사항을 1 ~ 2줄로 일지 앱이나 수첩에 기록합니다.
   </p>
 </div>
+
+---
+
+## 3. 스스로를 경계하며 자율성을 지키는 한마디
+
+원칙을 세우는 것보다 중요한 것은 매일 아침 그것을 자신에게 상기시키는 정직함입니다. 타인이 정한 규칙이 아닌, 오직 스스로 동의하고 선언한 잣대만이 우리의 뇌를 가장 강력하게 움직이며, 하루를 통제할 힘을 선물해 줍니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

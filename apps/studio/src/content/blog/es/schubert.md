@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La rutina de composición inmediata de Schubert: ir directo a la partitura con las gafas puestas al despertar"
 description: "Como el Rey de las Canciones que dejó más de 600 canciones en sus breves 31 años de vida, Franz Schubert capturó los rastros de sus sueños en el pentagrama al despertar con sus gafas puestas."
 pubDate: "2026-07-08"
@@ -34,22 +35,20 @@ En este artículo, presentamos los principios de la neurociencia cognitiva detr�
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre schubert se basa en <strong>Investigación basada en biografías históricas y registros autobiográficos de Schubert y Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación basada en biografías históricas y registros autobiográficos de Schubert y Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análisis de los principios neurocientíficos que impulsan el éxito
+## 1. Análisis de los principios neurocientíficos que impulsan el éxito
 
 Inmediatamente después de despertar, el cerebro humano mantiene un estado de ondas Theta creativas antes de que se activen los filtros cognitivos lógicos y las distracciones. Al igual que Schubert, al bloquear por completo los pasos de preparación entre despertar y la acción creativa clave (revisar el teléfono, lavarse la cara, ordenar el escritorio) para reducir la fricción a cero, se pueden capturar las brillantes ideas intuitivas latentes en el inconsciente sobre el papel.
 
 ---
 
-## Consejo de ciencia del comportamiento para una adopción exitosa
-
-Tenga cuidado: el momento en que revisa las notificaciones de su teléfono o mensajes durante solo 10 segundos al despertar, el cerebro se ve invadido por el estrés de información externa, perdiendo por completo el estado inconsciente de ondas Theta.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Tenga cuidado: el momento en que revisa las notificaciones de su teléfono o men
   </p>
 </div>
 
+---
+
+## 3. Consejo de ciencia del comportamiento para una adopción exitosa
+
+Tenga cuidado: el momento en que revisa las notificaciones de su teléfono o mensajes durante solo 10 segundos al despertar, el cerebro se ve invadido por el estrés de información externa, perdiendo por completo el estado inconsciente de ondas Theta.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo hacer si me vuelve a dar mucho sueño después de escribir mis pensamientos matutinos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Tenga cuidado: el momento en que revisa las notificaciones de su teléfono o men
       Está bien. En esos 2 minutos de escritura, la misión de capturar ondas Theta ya fue un éxito. Beber agua o estirarse justo después envía señales de vigilia al cerebro, quitando el sueño rápidamente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si no se me ocurre nada que escribir al despertar?</span>

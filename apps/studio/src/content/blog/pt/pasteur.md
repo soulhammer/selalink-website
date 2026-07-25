@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Loop de Feedback de Pasteur: Rastreamento em Tempo Real de Mudanças Microscópicas em Culturas de Frasco"
 description: "Descubra a rotina de Louis Pasteur, pai da pasteurização e das vacinas, que mantinha uma organização impecável na mesa para eliminar qualquer distração."
 pubDate: "2026-05-03"
@@ -33,25 +34,23 @@ Neste artigo, exploramos os princípios cognitivos por trás da rotina de observ
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre pasteur é baseada em <strong>Pesquisa de Registros Biográficos e Históricos de Pasteur & Estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de Registros Biográficos e Históricos de Pasteur & Estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análise Neurocientífica dos Princípios Por Trás do Sucesso
+## 1. Análise Neurocientífica dos Princípios Por Trás do Sucesso
 
 Formular hipóteses e registrar mudanças consolida as redes neurais entre o córtex pré-frontal e o córtex de associação visual, aumentando o discernimento analítico.
 
 ---
 
-## Conselhos de Ciência Comportamental para Fixar Hábitos
-
-Não se sobrecarregue buscando a perfeição. Praticar 3 minutos por dia constrói conexões neurais. Projete o ambiente em vez de depender apenas da força de vontade.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Não se sobrecarregue buscando a perfeição. Praticar 3 minutos por dia constr�
   </p>
 </div>
 
+---
+
+## 3. Conselhos de Ciência Comportamental para Fixar Hábitos
+
+Não se sobrecarregue buscando a perfeição. Praticar 3 minutos por dia constrói conexões neurais. Projete o ambiente em vez de depender apenas da força de vontade.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Devo realizar este ritual de organização diariamente antes de trabalhar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Não se sobrecarregue buscando a perfeição. Praticar 3 minutos por dia constr�
       Sim, limpar a mesa ou as lentes antes de começar envia um sinal de ordem ao cérebro para maximizar o foco.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como posso substituir se não tiver um microscópio ou pano de microfibra?</span>

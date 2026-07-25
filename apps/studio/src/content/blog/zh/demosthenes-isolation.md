@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "剃去半边头发的演说家：德摩斯梯尼的极限环境控制与强效承诺装置习惯"
 description: "探索克服先天生理缺陷、跃升为古希腊顶尖演说家的德摩斯梯尼为切断诱惑主动剃去半边头发避世洞窟的习惯，揭示强效承诺装置（Hard Commitment Device）如何保护前额叶皮层执行功能的神经科学原理。"
 pubDate: "2026-01-28"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 demosthenes-isolation 的内容基于 <strong>普鲁塔克传记《希罗名将传（Parallel Lives: Demosthenes）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>普鲁塔克传记《希罗名将传（Parallel Lives: Demosthenes）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 强效承诺装置（Hard Commitment Device）与前额叶执行功能（PFC Executive Function）保护原理
+## 1. 强效承诺装置（Hard Commitment Device）与前额叶执行功能（PFC Executive Function）保护原理
 
 仅凭内心中“要忍住”的瞬时意志力去硬抗散漫，会急剧耗尽大脑前额叶皮层（Prefrontal Cortex）的执行功能（Executive Function）能量。只要诱惑源置于伸手即达之处，大脑的前扣带皮层便会陷于“要不要触碰”的持续“冲突处理（Conflict Processing）”中，进而掏空葡萄糖预算。像德摩斯梯尼剃去半边头发那样，在物理与环境层面预先斩断接触诱惑的可能性与选择权，在行为经济学与认知神经科学中被统称为“强效承诺装置（Hard Commitment Device）”。这项绝对的环境统制能将前额叶皮层的内部冲突负荷降至为零，从而将100%的执行带宽全数倾注于目标任务的深度沉浸中。
 
 ---
 
-## 注意事项与提示：打破意志力神话与筑牢环境背水一战（Commitment）
-
-务必抛弃仅凭一己意志力就能征服拖延与数字杂务的虚妄错觉。人类的自我控制力是一项有着刚性上限的有限生物资源。若要实现像德摩斯梯尼那样持久的避世沉浸，必须在开启工作前预先部署具有强迫性与物理约束力的背水一战（Hard Commitment Device），使走神行为在物理层面变得不可能或成本极大化。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：打破意志力神话与筑牢环境背水一战（Commitment）
+
+务必抛弃仅凭一己意志力就能征服拖延与数字杂务的虚妄错觉。人类的自我控制力是一项有着刚性上限的有限生物资源。若要实现像德摩斯梯尼那样持久的避世沉浸，必须在开启工作前预先部署具有强迫性与物理约束力的背水一战（Hard Commitment Device），使走神行为在物理层面变得不可能或成本极大化。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>德摩斯梯尼当年为何特意剃去半边头发避世于地下室中？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       目的在于构建一道避世断崖，借助滑稽荒诞的外貌引发的社交羞耻感让自己绝不敢步入社会与街头。借此彻底消解了抵抗诱惑所需的意志力消耗，将大脑全部的执行资源死死锚定于地下室的发音与演练中。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>无需剃发的前提下，现代人在日常生活中可即刻应用的强效承诺装置有哪些？</span>

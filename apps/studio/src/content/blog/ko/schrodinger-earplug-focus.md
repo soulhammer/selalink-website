@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "세상의 볼륨을 제로로: 노벨상 수상자 슈뢰딩거의 소음 제어 집중법"
 description: "물리학의 거장 에르윈 슈뢰딩거의 귀마개 청각 차단 습관을 소개합니다. 감각 필터링의 인지 소모를 없애 뇌 효율을 극대화하는 3단계 무음 몰입 실천법."
 pubDate: "2026-04-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Schrodinger Earplug Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 schrodinger-earplug-focus 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Schrodinger Earplug Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 감각 필터링의 에너지 소모를 막는 무음 효과
+## 1. 감각 필터링의 에너지 소모를 막는 무음 효과
 
 인간의 청각은 잠자는 동안에도 작동할 만큼 위협 감지를 위해 뇌의 각성을 유도하는 가장 예민한 감각 기관입니다. 미세한 환경 소음이 들릴 때마다 뇌는 무의식적으로 이 소음이 안전한지 걸러내는 감각 필터링(Sensory Filtering)을 가동하며 전두엽의 인지 에너지(주의 자원)를 소모합니다. 귀마개를 이용해 청각 입력을 원천 차단하면, 뇌는 불필요한 감각 데이터 필터링에 소모되던 뇌의 산소와 포도당 소비를 완전히 중단합니다. 이로 인해 보존된 모든 에너지는 오직 눈앞의 작업에만 100% 집중 투입되어 인지적 피로를 줄이고 몰입도를 극대화합니다.
 
 ---
 
-## 이명 방지 및 귀 위생 수칙 준수하기
-
-귀마개를 너무 장시간 깊게 착용하면 귓속 내부의 압력이 변해 이명이 생기거나, 땀이 차서 외이도염 같은 귀 질환이 발생할 수 있습니다. 집중 세션은 최대 50분 단위로 제한하고, 쉬는 시간에는 반드시 귀마개를 제거하여 귀가 충분히 숨을 쉴 수 있도록 건조해 주어야 합니다. 또한 귀마개는 항상 청결을 유지하고 정기적으로 교체해 위생을 확보하십시오.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     타이머를 통해 50분 동안 완전 무음 상태에서 고도로 집중해 공부한 뒤, 알림이 울리면 반드시 귀마개를 분리하고 귓속의 습기를 말리며 10분간 휴식을 취합니다.
   </p>
 </div>
+
+---
+
+## 3. 이명 방지 및 귀 위생 수칙 준수하기
+
+귀마개를 너무 장시간 깊게 착용하면 귓속 내부의 압력이 변해 이명이 생기거나, 땀이 차서 외이도염 같은 귀 질환이 발생할 수 있습니다. 집중 세션은 최대 50분 단위로 제한하고, 쉬는 시간에는 반드시 귀마개를 제거하여 귀가 충분히 숨을 쉴 수 있도록 건조해 주어야 합니다. 또한 귀마개는 항상 청결을 유지하고 정기적으로 교체해 위생을 확보하십시오.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

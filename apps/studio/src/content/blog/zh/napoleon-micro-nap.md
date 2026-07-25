@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "拿破仑·波拿巴的微微匙午睡常规"
 description: "介绍拿破仑皇帝在繁重政务中通过15分钟午睡快速重置大脑能量的科学午睡机制。"
 pubDate: "2026-06-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 napoleon-micro-nap 的内容基于 <strong>拿破仑微睡眠历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>拿破仑微睡眠历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过微睡眠与脑电波优化实现认知恢复
+## 1. 通过微睡眠与脑电波优化实现认知恢复
 
 10-15分钟的微睡眠将睡眠状态限制在非快速眼动（NREM）第1至2阶段，从而避免昏沉的睡眠惰性，同时清除积聚的腺苷，立即恢复注意力。神经科学研究表明，这种行为能够抑制杏仁核不必要的焦虑反应，激活视空间画板回路，大幅提升长期执行功能。
 
 ---
 
-## 健康午睡习惯的时间注意事项
-
-睡眠超过20-30分钟会进入深层睡眠，醒来时会导致沉重的疲劳感。请严格遵守定时器，并避免在下午4点之后午睡。不要单凭意志力，提前设计能自然引发行为的物理环境和习惯暗示才是保持持久性的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     闹钟响起时立即起床，接触明亮光线并用冷水洗脸，以唤醒自主神经系统。
   </p>
 </div>
+
+---
+
+## 3. 健康午睡习惯的时间注意事项
+
+睡眠超过20-30分钟会进入深层睡眠，醒来时会导致沉重的疲劳感。请严格遵守定时器，并避免在下午4点之后午睡。不要单凭意志力，提前设计能自然引发行为的物理环境和习惯暗示才是保持持久性的关键。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

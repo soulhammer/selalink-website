@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Beim Schreiben festgefahren? Die Schreibmaschine wechseln! Isaac Asimovs Multitasking-Wechselroutine"
 description: "Die Multitasking-Wechselroutine des Sci-Fi-Meisters Isaac Asimov, der über 500 Bücher hinterließ. Entdecken Sie das 3-Schritte-Geheimnis, um die Ermüdung durch Einzel-Fokus zu überwinden und den Neuheits-Effekt zu erzielen."
 pubDate: "2026-05-26"
@@ -33,17 +34,17 @@ Im heutigen Beitrag stellen wir die kognitionswissenschaftlichen Prinzipien vor,
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu asimov-project-switching basiert auf <strong>Historische Überprüfung aus Isaac Asimovs Autobiografie *I, Asimov: A Memoir* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Isaac Asimovs Autobiografie *I, Asimov: A Memoir* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kontextwechsel und Neuheits-Effekt: Regionale Gehirnermüdungs-Erholung
+## 1. Kontextwechsel und Neuheits-Effekt: Regionale Gehirnermüdungs-Erholung
 
 Laut Forschung in der Kognitionspsychologie und im Arbeitsgedächtnis führt das lange Verharren an einer einzelnen Aufgabe dazu, dass das Gehirn nur bestimmte neuronale Netzwerke überaktiviert, was zu kognitiver Stagnation führt. Wenn man das Gehirn während einer Schreibblockade (Writer's Block) gewaltsam auspresst, wird Cortisol ausgeschüttet, was die kognitive Effizienz drastisch verringert.
 
@@ -51,9 +52,7 @@ Wenn Sie wie Asimov den Kontext zu einer völlig anderen Aufgabe wechseln (Conte
 
 ---
 
-## Neurowissenschaftlicher Rat für einen effizienten Fokuswechsel
-
-Wenn Sie bei einer Aufgabe feststecken, ist das krampfhafte Festhalten bis zum bitteren Ende nicht die einzige Tugend. Auch die Neuronen des Gehirns benötigen Schichtarbeit in verschiedenen Bereichen. Überwinden Sie Arbeitsstagnationen flexibel durch einen klugen Kontextwechsel zwischen dem Verfassen kurzer E-Mails oder dem Schreiben eines völlig anderen Konzepts.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Wenn Sie bei einer Aufgabe feststecken, ist das krampfhafte Festhalten bis zum b
     Blockieren Sie die Ermüdung der vorherigen Arbeit kognitiv durch den Neuheits-Effekt der neu gewählten Aufgabe. Das Gehirn genießt einen ausreichenden Erholungseffekt und hält den Fokus reibungslos aufrecht, nicht nur durch das Stoppen der Arbeit, sondern einfach durch das 'Aktivieren eines anderen Bereichs'.
   </p>
 </div>
+
+---
+
+## 3. Neurowissenschaftlicher Rat für einen effizienten Fokuswechsel
+
+Wenn Sie bei einer Aufgabe feststecken, ist das krampfhafte Festhalten bis zum bitteren Ende nicht die einzige Tugend. Auch die Neuronen des Gehirns benötigen Schichtarbeit in verschiedenen Bereichen. Überwinden Sie Arbeitsstagnationen flexibel durch einen klugen Kontextwechsel zwischen dem Verfassen kurzer E-Mails oder dem Schreiben eines völlig anderen Konzepts.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

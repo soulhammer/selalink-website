@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "世纪顶级军师：诸葛亮的拂晓弹琴与天文战略习惯"
 description: "探索三国时期蜀汉丞相诸葛亮在复杂局势中，如何通过拂晓弹奏古琴与夜间观测天文实现高度心理调控的秘诀与实践指南。"
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 zhuge-liang-guqin-strategy 的内容基于 <strong>诸葛亮历史传记与文献考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>诸葛亮历史传记与文献考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过诱导Alpha脑电波阻断情绪过载与提升宏观空间判断力
+## 1. 通过诱导Alpha脑电波阻断情绪过载与提升宏观空间判断力
 
 当面对重大任务或高度焦虑时，大脑的<strong>杏仁核（Amygdala）</strong>会过度激活，导致视野变窄与优柔寡断。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 减少噪音与刺激，确保内心的平静状态
-
-正如诸葛亮的名言所述，非宁静无以致远。屏蔽外部喧嚣的新闻与社交媒体通知，留出10分钟有意识的放松与沉静时间。切勿仅凭意志力硬撑，预先设计能够自然引发行动的物理环境与习惯信号才是持之以恒的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 减少噪音与刺激，确保内心的平静状态
+
+正如诸葛亮的名言所述，非宁静无以致远。屏蔽外部喧嚣的新闻与社交媒体通知，留出10分钟有意识的放松与沉静时间。切勿仅凭意志力硬撑，预先设计能够自然引发行动的物理环境与习惯信号才是持之以恒的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>即使不会亲自弹奏乐器也有效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，仅凭集中注意力聆听具有独特共鸣的管弦乐或原声弦乐所带来的听觉沉浸，便能产生相同的Alpha脑电波诱导效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>为什么要在众多待办事项中只挑选1项？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "선비의 아침 양생: 퇴계 이황의 활인심방 체조"
 description: "평생 병약했으나 매일 아침 도인법과 호흡 조절을 통해 일흔까지 학문을 닦았던 퇴계 이황. 저강도 신체 조율과 심호흡이 부교감 신경계를 깨우고 차분한 각성을 유도하는 생리적 기전을 살펴봅니다."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>퇴계 이황 《활인심방》 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 yihwang-hwalinsimbang-exercise 루틴을 다룹니다.
+      본 콘텐츠는 <strong>퇴계 이황 《활인심방》 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 저강도 도인 체조와 호흡 조절이 자율신경계 평정을 유도하는 원리
+## 1. 저강도 도인 체조와 호흡 조절이 자율신경계 평정을 유도하는 원리
 
 잠에서 깨어난 직후 인간의 신체는 활동 상태로 전환하기 위해 코르티솔 수치가 급증(Cortisol Awakening Response)하며 일시적인 맥박 상승과 불안이 생길 수 있습니다. 이 시점에 억지 각성을 유도하는 과격한 활동을 하거나 자극적인 디지털 미디어를 마주하면 뇌의 불안 회로가 과활성화됩니다. 반면 이황 선생의 활인심방처럼 부드러운 스트레칭과 길게 내뱉는 복식 호흡을 결합하면 미주신경이 자극되고 부교감 신경계가 각성되어 심박동 변이도(HRV)가 안정되며, 뇌가 가장 이성적이고 차분한 몰입 준비 상태를 확립하게 됩니다.
 
 ---
 
-## 주의사항 및 팁
-
-잠에서 깨어난 아침에는 몸의 척수 뼈와 근육 섬유가 매우 뻣뻣한 상태입니다. 이 상태에서 강한 충격이나 유연성을 과시하는 과도한 기계적 요가 동작을 억지로 시도하면 척추 신경 디스크 손상과 심각한 부상을 유발합니다. 따라서 아침 도인법은 반동 없이 부드럽게 관절을 여는 수준으로 제한하고, 고통이 느껴지지 않는 가동 범위 안에서 묵묵히 호흡에만 집중하며 시행해야 안전한 생리적 효과를 얻을 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     코로 맑은 산소를 들이마신 뒤, 아랫배를 집어넣으며 입으로 숨을 길고 조용히 소리 내어 내뱉는 복식 심호흡을 10회 행하여 부교감신경을 각성시킵니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+잠에서 깨어난 아침에는 몸의 척수 뼈와 근육 섬유가 매우 뻣뻣한 상태입니다. 이 상태에서 강한 충격이나 유연성을 과시하는 과도한 기계적 요가 동작을 억지로 시도하면 척추 신경 디스크 손상과 심각한 부상을 유발합니다. 따라서 아침 도인법은 반동 없이 부드럽게 관절을 여는 수준으로 제한하고, 고통이 느껴지지 않는 가동 범위 안에서 묵묵히 호흡에만 집중하며 시행해야 안전한 생리적 효과를 얻을 수 있습니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

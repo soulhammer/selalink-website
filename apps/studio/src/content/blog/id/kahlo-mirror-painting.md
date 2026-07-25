@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Melukis Refleksi Diri dari Cermin Kanopi: Rutinitas Potret Diri Frida Kahlo dan Resiliensi Tatap Cermin"
 description: "Pelajari bagaimana pelukis legendaris Meksiko Frida Kahlo mengubah penderitaan fisik menjadi karya seni dengan melukis potret diri menggunakan cermin di atas tempat tidur kanopi. Temukan psikologi klinis tatap cermin dan resiliensi."
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis psikologi klinis dan neurosains di b
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai kahlo-mirror-painting didasarkan pada <strong>Verifikasi Historis dari *The Diary of Frida Kahlo*, Biografi karya Hayden Herrera & Penelitian Psikologi Klinis serta Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *The Diary of Frida Kahlo*, Biografi karya Hayden Herrera & Penelitian Psikologi Klinis serta Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teknik Tatap Cermin dan Psikologi Klinis Resiliensi
+## 1. Teknik Tatap Cermin dan Psikologi Klinis Resiliensi
 
 Menatap refleksi diri secara tenang dikenal dalam psikologi klinis sebagai <strong>Teknik Tatap Cermin (Mirror-Gazing Technique)</strong>. Di bawah penderitaan fisik atau trauma emosional, otak mudah jatuh ke dalam emosi negatif. Cermin bertindak sebagai alat isolasi kognitif, memungkinkan Anda mengamati tubuh fisik dan kondisi emosional Anda secara objektif dari sudut pandang orang ketiga. Jarak objektif ini memulihkan kendali eksekutif. Konfrontasi diri Frida Kahlo secara intensif adalah manifestasi neurobiologis dari <strong>Resiliensi</strong> dan <strong>Penerimaan Diri (Self-Acceptance)</strong>.
 
 ---
 
-## Perhatian: Mengecualikan Penilaian Subjektif dan Evaluasi Estetika untuk Menerima Keberadaan Diri
-
-Aturan paling penting saat melatih tatap cermin adalah menahan diri dari mencari kekurangan fisik atau membuat penilaian yang sangat kritis. Menatap cermin bukanlah evaluasi estetika, melainkan periode pengamatan penuh kasih sayang yang dirancang untuk mengakui dan menenangkan diri Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Aturan paling penting saat melatih tatap cermin adalah menahan diri dari mencari
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengecualikan Penilaian Subjektif dan Evaluasi Estetika untuk Menerima Keberadaan Diri
+
+Aturan paling penting saat melatih tatap cermin adalah menahan diri dari mencari kekurangan fisik atau membuat penilaian yang sangat kritis. Menatap cermin bukanlah evaluasi estetika, melainkan periode pengamatan penuh kasih sayang yang dirancang untuk mengakui dan menenangkan diri Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa yang harus saya lakukan jika menatap cermin menyebabkan stres karena menyoroti kerutan atau kekurangan fisik?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Aturan paling penting saat melatih tatap cermin adalah menahan diri dari mencari
       Ini adalah reaksi yang sangat alami. Pada sesi awal, insting evaluasi mudah terpicu. Alih-alih memindai seluruh wajah Anda, tancapkan fokus Anda secara ketat pada pupil Anda. Pusatkan perhatian Anda pada membuat kontak langsung dengan inti kesadaran Anda.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah tatap cermin efektif secara terapeutik meskipun saya tidak melukis atau menggambar potret diri?</span>

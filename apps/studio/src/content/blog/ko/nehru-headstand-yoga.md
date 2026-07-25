@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "차가운 감옥 바닥의 물구나무서기? 자와할랄 네루의 호르몬 조절법"
 description: "인도 초대 총리 자와할랄 네루. 9년간의 독방 수감 생활 속에서도 매일 아침 물구나무서기를 서며 뇌 혈류량을 늘리고 신체 긴장을 해소했던 뇌과학적 원리와 건강 루틴을 공개합니다."
 pubDate: "2026-03-18"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>자와할랄 네루 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 nehru-headstand-yoga 루틴을 다룹니다.
+      본 콘텐츠는 <strong>자와할랄 네루 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌 혈류 공급을 유도하고 HPA 스트레스 축을 끄는 역중력 효과
+## 1. 뇌 혈류 공급을 유도하고 HPA 스트레스 축을 끄는 역중력 효과
 
 우리가 하루 종일 일어서 있거나 의자에 앉아 있으면, 중력의 영향으로 혈류가 하체로 쏠리게 되며 척추 디스크(추간판)가 계속해서 짓눌리는 정적 압착을 받습니다. 이는 자율신경계 긴장을 높이고 두뇌 피로를 초래합니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 안전한 척추 정렬이 두뇌 리셋의 시작입니다
-
-물구나무서기는 효과적인 뇌 이완법이지만, 숙련되지 않은 무리한 동작은 오히려 목 디스크나 부상을 유발하여 뇌 자율신경계를 긴장시킵니다. 네루처럼 안전을 기하며 자신의 신체 상태에 맞게 변형된 자세로 수행해야만, 척추 디스크의 압착을 풀고 전뇌에 맑은 에너지를 안정적으로 공급할 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 안전한 척추 정렬이 두뇌 리셋의 시작입니다
+
+물구나무서기는 효과적인 뇌 이완법이지만, 숙련되지 않은 무리한 동작은 오히려 목 디스크나 부상을 유발하여 뇌 자율신경계를 긴장시킵니다. 네루처럼 안전을 기하며 자신의 신체 상태에 맞게 변형된 자세로 수행해야만, 척추 디스크의 압착을 풀고 전뇌에 맑은 에너지를 안정적으로 공급할 수 있습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>목 통증이나 디스크가 있는 사람이 물구나무를 서도 괜찮나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       아니요, 목이나 등뼈 디스크 질환을 겪고 있는 환자는 머리가 체중을 직접 지탱하는 정통 물구나무서기는 피해야 합니다. 대신 벽에 엉덩이를 대고 누워 다리만 수직으로 높이 올리는 자세나, 등을 대고 누워 엉덩이 아래에 쿠션을 두고 다리를 올리는 동작으로 변형하여 수행하면 디스크에 손상 없이 안전한 역혈류 효과를 얻을 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>물구나무서기를 수행하는 가장 적절한 시간대는 언제인가요?</span>

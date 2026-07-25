@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inovator Pendidikan Anak Dini Modern: Rutinitas Catatan Pengamatan Objektif Maria Montessori"
 description: "Maria Montessori, dokter wanita pertama di Italia dan pendidik pionir. Pelajari teknik pengamatan objektifnya yang menghilangkan prasangka subjektif untuk menemukan esensi sejati, beserta panduan 3 langkah."
 pubDate: "2026-02-17"
@@ -35,17 +36,17 @@ Dalam postingan hari ini, kita menjelajahi prinsip-prinsip objektivasi kognitif 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai montessori-observation-log didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi Maria Montessori & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi Maria Montessori & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Objektivasi Kognitif untuk Mengatasi Bias Konfirmasi dan Menghadapi Realitas
+## 1. Objektivasi Kognitif untuk Mengatasi Bias Konfirmasi dan Menghadapi Realitas
 
 Kita sering terjebak dalam 'bias konfirmasi', mengambil kesimpulan terburu-buru berdasarkan spekulasi subjektif atau emosi.
 
@@ -53,9 +54,7 @@ Rutinitas pengamatan Dr. Montessori memperkuat jaringan kontrol kognitif di kort
 
 ---
 
-## Catat Hanya Fakta Murni Tanpa Evaluasi atau Kata Sifat Emosional
-
-Inti dari pengamatan Montessori adalah mendeskripsikan secara ketat fakta murni yang terindra — seperti 'memicit mata 30 kali dalam 10 menit' alih-alih 'tampak lelah'. Daripada mengandalkan kemauan secara buta, merancang lingkungan fisik dan pemicu kebiasaan yang secara alami memicu pencatatan objektif adalah kunci konsistensi jangka panjang.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Inti dari pengamatan Montessori adalah mendeskripsikan secara ketat fakta murni 
   </p>
 </div>
 
+---
+
+## 3. Catat Hanya Fakta Murni Tanpa Evaluasi atau Kata Sifat Emosional
+
+Inti dari pengamatan Montessori adalah mendeskripsikan secara ketat fakta murni yang terindra — seperti 'memicit mata 30 kali dalam 10 menit' alih-alih 'tampak lelah'. Daripada mengandalkan kemauan secara buta, merancang lingkungan fisik dan pemicu kebiasaan yang secara alami memicu pencatatan objektif adalah kunci konsistensi jangka panjang.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah rutinitas ini dapat diterapkan untuk mengamati kebiasaan diri sendiri?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Inti dari pengamatan Montessori adalah mendeskripsikan secara ketat fakta murni 
       Ya. Saat melakukan pelacakan waktu mandiri atau menulis jurnal kerja, metode ini dapat diterapkan secara sempurna dengan menghilangkan 'emosi menyalahkan diri sendiri' dan hanya mencatat data eksekusi tugas berdasarkan stempel waktu.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara membedakan dengan mudah antara perasaan subjektif dan fakta objektif?</span>

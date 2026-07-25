@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "イーロン・マスクの「5分タイムブロック」：時間の超集中密度を生み出すマイクロ計画法と没頭ルーティン"
 description: "週80〜100時間以上の激務をこなすため、1日のスケジュールを5分単位のマイクロブロックに細分化して超集中するイーロン・マスク。パーキンソンの法則を克服し、脳の没頭度を極大化する時間管理習慣と認知神経科学的原理を解き明かします。"
 pubDate: "2026-06-15"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「elon-musk-time-blocking」は <strong>ウォルター・アイザックソン評伝『イーロン・マスク（Elon Musk）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ウォルター・アイザックソン評伝『イーロン・マスク（Elon Musk）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## パーキンソンの法則と脳の超集中タネリング機構
+## 1. パーキンソンの法則と脳の超集中タネリング機構
 
 パーキンソンの法則（Parkinson's Law）によると、あるタスクに与えられる時間の長さが膨張すると認知的強度も緩み、結局その時間をすべて消費してしまいます。一方、時間を極限まで小さく締め付けると、脳は危機状態と認識してアドレナリンとドパミンの分泌を促進し、注意の散漫を源泉から遮断する「タネリング効果（Tunneling Effect）」を誘発します。イーロン・マスクの5分単位の時間ブロッキングは、脳が各短いブロックの締め切り時間に集中するよう誘導し、ひとつの課題に完全にエネルギーを注ぎ込む極度の没頭状態を誘発します。またマルチタスクの認知的残留を防ぎ、一度にただ一つの目標だけを激しく処理することで意思決定疲労（Decision Fatigue）を防ぎ、時間当たりの認知的生産密度を限界まで引き上げます。
 
 ---
 
-## 徹底した時間厳守と単一集中が必須です
-
-この方式は1日中ぎっしりと忙しく過ごすこととは根本的に異なります。ブロックが指定された時間内は、他のウィンドウを開いたりスマートフォンの通知に反応するなど認知的散漫を遮断し、ターゲットとしたただ一つのタスクだけに集中してこそ効果があります。時間が終了したら未練なく次のブロックへ移行してこそ、時間の密度が維持されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 徹底した時間厳守と単一集中が必須です
+
+この方式は1日中ぎっしりと忙しく過ごすこととは根本的に異なります。ブロックが指定された時間内は、他のウィンドウを開いたりスマートフォンの通知に反応するなど認知的散漫を遮断し、ターゲットとしたただ一つのタスクだけに集中してこそ効果があります。時間が終了したら未練なく次のブロックへ移行してこそ、時間の密度が維持されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>5分単位でスケジュールを組むと、1日中大きなストレスを感じませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       初心者が毎日すべてのスケジュールを5分単位で埋めることは、当然強い認知的過負荷を与えます。最初は1日の中で1〜2時間だけ集中時間帯として設定し、15分または30分単位の時間ブロックを指定して没頭力を養う訓練を始めることをお勧めします。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>もしブロックで指定した時間内にタスクを終えられなかった場合はどうすればよいですか？</span>

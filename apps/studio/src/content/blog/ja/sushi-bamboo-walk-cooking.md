@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "流刑地の絶望を乗り越えた大文豪？蘇東坡の朝の竹林散歩＆料理リラックス・ルーティン"
 description: "北宋の天才文人・蘇東坡が度重なる流刑地の試練の中でも、朝の竹林散歩と料理で心を空にして世紀の楽天主義を完成させた回復力（レジリエンス）の習慣。"
 pubDate: "2026-06-24"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「sushi-bamboo-walk-cooking」は <strong>蘇東坡（蘇軾）評伝および歴代詩文集の記録考証 & 認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>蘇東坡（蘇軾）評伝および歴代詩文集の記録考証 & 認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 身体的手作業（Somatic Routine）が活性化する副交感神経と神経回復力
+## 1. 身体的手作業（Somatic Routine）が活性化する副交感神経と神経回復力
 
 心の傷や無念さを頭だけで無理に忘れようとすると、脳の扁桃体回路が反復再生されて苦しみが倍増します。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 結果よりも調理と散歩のプロセス自体に集中してください
-
-蘇東坡の料理の神髄は、火候（火加減）を待つ静かな心にあります。早く料理を作って食べようと急がず、食材が煮える時間の間、手先の感覚や香りに誠意を尽くしてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 結果よりも調理と散歩のプロセス自体に集中してください
+
+蘇東坡の料理の神髄は、火候（火加減）を待つ静かな心にあります。早く料理を作って食べようと急がず、食材が煮える時間の間、手先の感覚や香りに誠意を尽くしてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>料理が全くできない初心者でも適用可能ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい！複雑な料理ではありません。温かいドリップコーヒーを淹れたり、目玉焼きを一つ丁寧に焼いたりするミニアクティビティだけで十分に効果的です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>本当に手で料理する行為がストレスを軽減してくれますか？</span>

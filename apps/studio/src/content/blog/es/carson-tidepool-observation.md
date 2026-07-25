@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Ecosistema Marino que Dio Origen a Primavera Silenciosa: La Observación de Pozas de Marea y la Fascinación Suave de Rachel Carson"
 description: "Descubra cómo Rachel Carson, pionera del movimiento ambientalista moderno, restauró la capacidad cognitiva agotada observando pozas de marea entre presiones corporativas y tratamientos de cáncer. Explore los mecanismos neurocientíficos de la Teoría de Restauración de la Atención (ART) y la 'Fascinación Suave'."
 pubDate: "2026-07-04"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre carson-tidepool-observation se basa en <strong>Verificación Histórica de las Biografías Históricas de Rachel Carson y Archivos Autobiográficos e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Biografías Históricas de Rachel Carson y Archivos Autobiográficos e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Restauración Neuronal Mediante la 'Fascinación Suave (Soft Fascination)' y la Teoría de Restauración de la Atención (ART)
+## 1. Restauración Neuronal Mediante la 'Fascinación Suave (Soft Fascination)' y la Teoría de Restauración de la Atención (ART)
 
 Las personas modernas operan en un estado de 'Atención Dirigida (Directed Attention)', forzando a la corteza prefrontal a quemar glucosa para analizar datos y tomar decisiones. La atención dirigida prolongada provoca fatiga crónica y estrés. Al observar micro-fenómenos naturales —como la vida marina deslizándose en pozas de marea o la luz filtrada entre las hojas—, el cerebro entra en 'Fascinación Suave (Soft Fascination)', donde la atención se capta sin esfuerzo cognitivo. Según la Teoría de Restauración de la Atención (ART), este estado permite reponer los recursos cognitivos agotados. Además, la observación de microecosistemas estimula el sistema parasimpático, estabilizando el ritmo cardíaco.
 
 ---
 
-## Precauciones y Consejos: Bloquear Pantallas Digitales y Mantener la Quietud Sin Estímulos
-
-Incluso al aire libre, tomar fotos continuamente para redes sociales, consultar notificaciones o escuchar podcasts sigue consumiendo atención dirigida. Esto anula la restauración cognitiva. Durante la sesión de observación, aísle los dispositivos y sumerja sus sentidos en los detalles del viento, el suelo y los microorganismos para activar la recuperación prefrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Incluso al aire libre, tomar fotos continuamente para redes sociales, consultar 
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Bloquear Pantallas Digitales y Mantener la Quietud Sin Estímulos
+
+Incluso al aire libre, tomar fotos continuamente para redes sociales, consultar notificaciones o escuchar podcasts sigue consumiendo atención dirigida. Esto anula la restauración cognitiva. Durante la sesión de observación, aísle los dispositivos y sumerja sus sentidos en los detalles del viento, el suelo y los microorganismos para activar la recuperación prefrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Observar plantas de interior en casa proporciona un efecto de restauración cognitiva similar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Incluso al aire libre, tomar fotos continuamente para redes sociales, consultar 
       Sí, absolutamente. Aunque a menor escala, examinar las nervaduras de las hojas, la textura de la tierra o el color del tallo en plantas de interior induce la 'Fascinación Suave', relajando la corteza prefrontal y reduciendo el estrés.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Está bien si carezco de habilidades de dibujo y no puedo hacer bocetos detallados?</span>

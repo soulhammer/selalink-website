@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Memangkas Korset dan Hiasan Berlebihan: Pemotongan Minimalis Esensial ala Coco Chanel dan Penyaringan Supresi Prefrontal"
 description: "Pelajari bagaimana perintis busana legendaris Coco Chanel merevolusi pakaian wanita dengan menempelkan kain pada model dan memotong korset serta hiasan berlebihan. Temukan neurosains kognitif dari Penyaringan Supresi Prefrontal yang membuang kebisingan kognitif."
 pubDate: "2026-05-17"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'drapi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai coco-chanel didasarkan pada <strong>Verifikasi Historis dari Biografi Edmonde Charles-Roux *Chanel and Her World* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Edmonde Charles-Roux *Chanel and Her World* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurosains Penyaringan Supresi Prefrontal dan Ekstraksi Esensi Intuitif
+## 1. Neurosains Penyaringan Supresi Prefrontal dan Ekstraksi Esensi Intuitif
 
 Secara fisik dan mental memotong kebisingan visual dan hiasan berlebihan merekrut jalur 'Penyaringan Supresi' top-down di dalam korteks prefrontal dorsolateral dan ventromedial. Ketika otak secara aktif menekan masukan yang mengganggu, ia menghemat anggaran glukosa dan mengunci fokus perhatian pada geometri fungsional inti. Mempraktikkan pengurangan tiga dimensi secara real-time menyempurnakan pemangkasan metakognitif tingkat tinggi.
 
 ---
 
-## Perhatian & Tip: Menghindari Eliminasi Tanpa Arah & Memelihara Nilai Fungsional Inti
-
-Inti dari pemotongan minimalis gaya Chanel bukanlah pemotongan destruktif demi pemotongan itu sendiri. Tujuan utamanya adalah mendedikasikan sumber daya kognitif untuk mengisolasi dan menonjolkan 'kerangka struktural' yang meningkatkan kegunaan fungsional. Untuk mencegah rusaknya tujuan inti saat memangkas, tanyakan secara terus menerus: 'Jika elemen khusus ini dihilangkan, apakah pesan utama atau fungsi inti tetap utuh dan diperjelas?'
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Inti dari pemotongan minimalis gaya Chanel bukanlah pemotongan destruktif demi p
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menghindari Eliminasi Tanpa Arah & Memelihara Nilai Fungsional Inti
+
+Inti dari pemotongan minimalis gaya Chanel bukanlah pemotongan destruktif demi pemotongan itu sendiri. Tujuan utamanya adalah mendedikasikan sumber daya kognitif untuk mengisolasi dan menonjolkan 'kerangka struktural' yang meningkatkan kegunaan fungsional. Untuk mencegah rusaknya tujuan inti saat memangkas, tanyakan secara terus menerus: 'Jika elemen khusus ini dihilangkan, apakah pesan utama atau fungsi inti tetap utuh dan diperjelas?'
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara membedakan antara elemen berlebihan dan nilai inti saat memangkas dokumen bisnis?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Inti dari pemotongan minimalis gaya Chanel bukanlah pemotongan destruktif demi p
       Isolasikan satu tujuan utama dan tanyakan: 'Jika pemodifikasi, grafik, atau bagian ini dihilangkan, apakah masalah mendasar yang diselesaikan tetap jelas?' Jika ya, elemen tersebut adalah hiasan. Memotongnya akan memperkuat kejernihan dan dampak persuasif.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah metodologi pemotongan ala Chanel dapat diterapkan pada ruang kerja pribadi dan penataan harian?</span>

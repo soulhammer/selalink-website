@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La única palabra que construyó IBM: La rutina de reflexión en silencio de 15 minutos de Thomas Watson"
 description: "Descubra el método de reflexión del fundador de IBM, Thomas Watson, quien colocó carteles de 'THINK' en cada oficina y dedicaba 15 minutos diarios a la reflexión. Explica cómo la desconexión intencional organiza la memoria a largo plazo."
 pubDate: "2026-04-19"
@@ -36,22 +37,20 @@ En la publicación de hoy, presentamos los mecanismos científicos de la 'rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre watson-think-sign se basa en <strong>Biografías históricas y registros autobiográficos de Thomas Watson e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Thomas Watson e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por qué la desconexión inactiva aumenta la capacidad intelectual
+## 1. Por qué la desconexión inactiva aumenta la capacidad intelectual
 
 Cuando el cerebro reacciona constantemente a los estímulos entrantes (correos, notificaciones), carece de espacio para consolidar la memoria y planificar. Al cortar la entrada de información y dedicarse al pensamiento puro, el cerebro estabiliza la <strong>Red de Saliencia (Salience Network)</strong> y organiza los circuitos neuronales.
 
 ---
 
-## Precauciones y consejos
-
-Para que este entrenamiento tenga éxito, debe haber una señal física visible que funcione como <strong>Prompt Visual</strong> en su espacio de trabajo. Sin un recordatorio visual, el cerebro recurre a la inercia (revisar correos o navegar en internet). Un cartel claro actúa como mecanismo de control.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Para que este entrenamiento tenga éxito, debe haber una señal física visible 
     Sin utilizar herramientas de escritura, concentre su atención mental únicamente en el problema más desafiante e impactante que deba resolver hoy.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Para que este entrenamiento tenga éxito, debe haber una señal física visible que funcione como <strong>Prompt Visual</strong> en su espacio de trabajo. Sin un recordatorio visual, el cerebro recurre a la inercia (revisar correos o navegar en internet). Un cartel claro actúa como mecanismo de control.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

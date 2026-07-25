@@ -1,6 +1,7 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "托马斯·阿奎那的多重口述法：将工作记忆发挥到极致以攻克复杂难题"
-description: "中世纪伟大的神学家托马斯·阿奎那同时向3~4名秘书口述不同主题的文稿，在不失逻辑脉络的情况下拓展工作记忆，敬请探索其背后的秘诀。"
+description: "中世纪伟大的神学家托马斯·阿奎那同时向3 ~ 4名秘书口述不同主题的文稿，在不失逻辑脉络的情况下拓展工作记忆，敬请探索其背后的秘诀。"
 pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
@@ -10,7 +11,7 @@ app: "buildself"
 formatVersion: 4
 authority: "贝内德托·吉（Bernard of Gui）《托马斯·阿奎那传》历史考证与认知神经科学（Cognitive Neuroscience）研究"
 steps:
-  - name: "步骤1：定义要并行投入的2~3项任务"
+  - name: "步骤1：定义要并行投入的2 ~ 3项任务"
     text: "挑选2 ~ 3个目前需要深度思考的不同项目。4个以上的主题会超出前额叶的信息承载极限并引起认知干扰，因此建议限制目标数量。"
   - name: "步骤2：在时间块内100%沉浸于单项任务"
     text: "激活第一个项目的笔记，在15 ~ 20分钟的时间块内仅专注于这项任务，手写或输入想法与内容。必须关闭中途分散注意力的所有通知。"
@@ -33,30 +34,28 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 aquinas-multi-dictation 的内容基于 <strong>贝内德托·吉（Bernard of Gui）《托马斯·阿奎那传》历史考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>贝内德托·吉（Bernard of Gui）《托马斯·阿奎那传》历史考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 工作记忆分区的脑认知科学原理
+## 1. 工作记忆分区的脑认知科学原理
 
 同时协调多个抽象任务通常会在大脑皮层中产生剧烈的信息干扰（Interference）与认知转换成本。然而，托马斯·阿奎那通过“工作记忆分区（Working Memory Partitioning）”克服了这一点。通过对前额叶皮层中央执行系统（Central Executive System）进行高度训练，他将各个项目的知识节点保持在不同分区的激活状态。由此，他能够在快速切换上下文的同时，防止认知资源枯竭或信息混乱。
 
 ---
 
-## 警惕无效果的多任务处理
-
-切勿将此习惯与现代注意力分散的多任务处理（例如一边读电子邮件一边写代码）相混淆。单纯的注意力分散会大幅降低工作质量与速度。阿奎那的方法是将处于高度专注状态的单一任务分区后进行顺序执行（Sequential Execution）。也就是说，在处理某一个对象时，必须投入100%的大脑资源。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤1：定义要并行投入的2~3项任务</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤1：定义要并行投入的2 ~ 3项任务</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     挑选2 ~ 3个目前需要深度思考的不同项目。4个以上的主题会超出前额叶的信息承载极限并引起认知干扰，因此建议限制目标数量。
@@ -82,6 +81,12 @@ faqs:
     时间结束时，立即关闭第一个任务并打开第二个任务。做三次深呼吸清空缓冲区，避免先前的想法在脑海中留下残影，然后以100%的专注力执行第二个任务。
   </p>
 </div>
+
+---
+
+## 3. 警惕无效果的多任务处理
+
+切勿将此习惯与现代注意力分散的多任务处理（例如一边读电子邮件一边写代码）相混淆。单纯的注意力分散会大幅降低工作质量与速度。阿奎那的方法是将处于高度专注状态的单一任务分区后进行顺序执行（Sequential Execution）。也就是说，在处理某一个对象时，必须投入100%的大脑资源。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

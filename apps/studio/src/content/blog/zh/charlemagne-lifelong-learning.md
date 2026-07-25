@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "床头边的写字板：查理曼的大脑睡眠记忆巩固设计习惯"
 description: "探索西欧奠基人查理曼大帝为了学习书写而在床头放置蜡板的终身学习习惯，揭示在慢波睡眠（Slow-wave Sleep）期间最大化长期记忆转化与强化海马体（Hippocampus）回路的认知神经科学原理。"
 pubDate: "2026-01-20"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 charlemagne-lifelong-learning 的内容基于 <strong>艾因哈德传记《查理大帝传（Vita Karoli Magni）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>艾因哈德传记《查理大帝传（Vita Karoli Magni）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 慢波睡眠（Slow-wave Sleep）期间记忆巩固（Memory Consolidation）机制
+## 1. 慢波睡眠（Slow-wave Sleep）期间记忆巩固（Memory Consolidation）机制
 
 从神经生理学角度来看，白天收集的短期信息会暂存缓冲于大脑深海的海马体（Hippocampus）中。若要将这些原始数据固定为终身保持的知识，就必须经过向大皮层（Cerebral Cortex）迁移的“记忆巩固（Memory Consolidation）”过程，而这一过程会在非快动眼睡眠第3阶段的慢波睡眠（Slow-wave Sleep）期达到巅峰。查理曼在临睡前亲手书写与学习的习惯，本质上是一种向海马体进行“睡前高浓度数据加载（Pre-sleep Loading）”的行为。一旦进入睡眠，大脑便会通过非快动眼波幅振荡（Non-REM Oscillation）与海马体尖波涟漪（Sharp-wave Ripples），将这些最新编码的数据高速归档至皮层的长期记忆电路中。
 
 ---
 
-## 注意事项与提示：屏蔽手机/IT设备与保护褪黑素睡眠卫生
-
-若将床头环境充斥着手机、平板电脑等散发蓝光（Blue-light）的数字设备，会严重抑制睡眠诱导霍尔蒙褪黑素（Melatonin）的分泌，引发入睡延迟并破坏慢波睡眠。床头笔记环境务必严格限制为“零蓝光的纸质手账与钢笔”。夜间醒来时一旦开启手机屏幕，多巴胺奖赏回路就会被瞬间激活并摧毁睡眠结构，因此务必死守仅在微弱柔和的光线下使用纸质工具记录的铁律。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：屏蔽手机/IT设备与保护褪黑素睡眠卫生
+
+若将床头环境充斥着手机、平板电脑等散发蓝光（Blue-light）的数字设备，会严重抑制睡眠诱导霍尔蒙褪黑素（Melatonin）的分泌，引发入睡延迟并破坏慢波睡眠。床头笔记环境务必严格限制为“零蓝光的纸质手账与钢笔”。夜间醒来时一旦开启手机屏幕，多巴胺奖赏回路就会被瞬间激活并摧毁睡眠结构，因此务必死守仅在微弱柔和的光线下使用纸质工具记录的铁律。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>将纸质手账放在枕头下或床头，睡觉时会不会揉皱或损坏？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       在现代践行中，建议避免使用易皱的薄纸。可在床头柜上摆放一本坚固的硬皮微型笔记本，或在床头搁板上固定一块附带夹子的木质板夹。这既能规避磨损损坏，又可保证接触路径毫无阻力。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>夜醒时在过于微弱的光线下进行书写，是否会造成用眼负担？</span>

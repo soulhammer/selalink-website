@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bananeira no chão frio da prisão? O método de regulação hormonal de Jawaharlal Nehru"
 description: "O primeiro-ministro da Índia, Jawaharlal Nehru. Revela os princípios da ciência cerebral e a rotina de saúde de como ele praticava a parada de cabeça todas as manhãs durante 9 anos de isolamento para aumentar o fluxo sanguíneo cerebral e aliviar a tensão física."
 pubDate: "2026-03-18"
@@ -35,17 +36,17 @@ No post de hoje, revelamos a ciência do aumento do fluxo sanguíneo cerebral oc
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre nehru-headstand-yoga é baseada em <strong>Biografia crítica histórica e verificação de registros autobiográficos de Jawaharlal Nehru e pesquisa em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografia crítica histórica e verificação de registros autobiográficos de Jawaharlal Nehru e pesquisa em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efeitos da gravidade invertida: Induzir o fluxo sanguíneo cerebral e desativar o eixo HPA do estresse
+## 1. Efeitos da gravidade invertida: Induzir o fluxo sanguíneo cerebral e desativar o eixo HPA do estresse
 
 Quando ficamos em pé ou sentados em uma cadeira o dia todo, a gravidade atrai o fluxo sanguíneo para a parte inferior do corpo e submete os discos intervertebrais a uma compressão estática contínua. Isso eleva a tensão do sistema nervoso autônomo e causa fadiga mental.
 
@@ -53,9 +54,7 @@ Posturas invertidas invertem o fluxo gravitacional, aumentando temporariamente a
 
 ---
 
-## Alinhamento espinhal seguro é o começo da redefinição cerebral
-
-Embora a parada de cabeça seja uma técnica eficaz de relaxamento cerebral, movimentos forçados ou sem prática podem causar lesões nos discos cervicais e tencionar o sistema nervoso autônomo. Praticada com cautela e adaptada à sua condição física como Nehru fazia, ela alivia a compressão dos discos vertebrais e fornece energia de forma estável para todo o cérebro.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Embora a parada de cabeça seja uma técnica eficaz de relaxamento cerebral, mov
   </p>
 </div>
 
+---
+
+## 3. Alinhamento espinhal seguro é o começo da redefinição cerebral
+
+Embora a parada de cabeça seja uma técnica eficaz de relaxamento cerebral, movimentos forçados ou sem prática podem causar lesões nos discos cervicais e tencionar o sistema nervoso autônomo. Praticada com cautela e adaptada à sua condição física como Nehru fazia, ela alivia a compressão dos discos vertebrais e fornece energia de forma estável para todo o cérebro.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É seguro para pessoas com dores no pescoço ou hérnia de disco praticarem parada de cabeça?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Embora a parada de cabeça seja uma técnica eficaz de relaxamento cerebral, mov
       Não, pessoas que sofrem de problemas nos discos cervicais ou torácicos devem evitar a parada de cabeça tradicional em que a cabeça suporta diretamente o peso do corpo. Em vez disso, você pode obter um fluxo sanguíneo invertido seguro e sem sobrecarregar os discos deitando-se de costas com o quadril encostado na parede e elevando as pernas verticalmente, ou colocando uma almofada sob o quadril ao elevar as pernas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Qual é o momento mais apropriado do dia para praticar a parada de cabeça?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "불안을 잠재우는 서브: 세레나 윌리엄스의 경기 전 루틴 습관"
 description: "첫 서브 전 테니스 공을 항상 5번 튕기는 등의 경기 전 루틴을 철저히 지켰던 세레나 윌리엄스. 수행 전 루틴이 외부 불안 자극을 차단하고 뇌를 인지적 프레이밍 상태로 조율하는 원리를 연구합니다."
 pubDate: "2026-04-19"
@@ -18,7 +19,7 @@ steps:
     text: "마지막 신체 동작이 끝나는 물리적 차단 시점에 맞춰, 망설임 없이 메인 발표나 본 업무용 화면을 열고 첫 멘트를 시작합니다."
 faqs:
   - question: "발표나 시험 등 일상의 중요한 일 전에 나만의 루틴을 어떻게 만드나요?"
-    answer: "'신발 끈 특정 순서로 묶기', '심호흡 3회 하기', '특정 다짐 문구 소리 내어 말하기' 등 스스로 완전히 통제할 수 있는 일관된 기계적 행동 2~3단계를 설정하여 동일하게 반복하면 불안 제어에 큰 도움을 줍니다."
+    answer: "'신발 끈 특정 순서로 묶기', '심호흡 3회 하기', '특정 다짐 문구 소리 내어 말하기' 등 스스로 완전히 통제할 수 있는 일관된 기계적 행동 2 ~ 3단계를 설정하여 동일하게 반복하면 불안 제어에 큰 도움을 줍니다."
   - question: "루틴을 도중에 하나라도 빠뜨리거나 실수했을 때 밀려오는 불안은 어떻게 제어하나요?"
     answer: "루틴은 심리적 닻(Anchor)의 역할일 뿐, 나의 실력과 행동 본질이 아니라는 것을 인지해야 합니다. 실수가 생겼을 때 '이것 또한 상황의 일부'라고 인정하는 유연성이 루틴 효과를 극대화합니다."
 ---
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>세레나 윌리엄스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 serena-match-routine 루틴을 다룹니다.
+      본 콘텐츠는 <strong>세레나 윌리엄스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 수행 전 루틴(PPR)을 통한 편도체 통제와 인지 프레이밍
+## 1. 수행 전 루틴(PPR)을 통한 편도체 통제와 인지 프레이밍
 
 시험이나 시합 직전 겪는 고도의 불안은 뇌의 시상하부를 자극해 에피네프린을 분비하고, 근육을 경직시키며 인지적 과경계(Hyper-vigilance)를 유발합니다. 스포츠 심리학에서 검증된 '수행 전 루틴(Pre-Performance Routine)'은 뇌가 통제할 수 없는 외부의 위협(상대방의 전력, 관중의 소음)에서 시선을 차단하고, 100% 통제 가능한 자신의 '신체 동작(공 튕기기, 가방 정렬)'으로 초점을 강제로 이동시킵니다. 이 물리적 통제 행위는 편도체 경보 회로를 정지시키고 뇌를 '안전한 몰입 상태'로 조율하는 인지적 프레이밍(Cognitive Framing) 효과를 발휘하여 기량 실수를 줄여줍니다.
 
 ---
 
-## 주의사항 및 팁
-
-수행 전 루틴을 적용할 때 주의해야 할 최악의 함정은 루틴의 동작 순서나 방식 자체에 집착하여 새로운 불안 요소를 만들어내는 것입니다. '만약 공을 5번이 아니라 4번 튕기면 경기를 망칠 것이다'라는 식으로 강박에 고착되면, 루틴 자체가 인지 자원을 소모하는 또 다른 스트레스 요인으로 전락합니다. 따라서 루틴의 핵심은 동작 자체의 완벽함이 아니라 '마음의 스위치를 켜는 도구'임을 자각하는 것이며, 상황에 맞춰 유연하게 변형할 수 있는 여유가 필요합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁
+
+수행 전 루틴을 적용할 때 주의해야 할 최악의 함정은 루틴의 동작 순서나 방식 자체에 집착하여 새로운 불안 요소를 만들어내는 것입니다. '만약 공을 5번이 아니라 4번 튕기면 경기를 망칠 것이다'라는 식으로 강박에 고착되면, 루틴 자체가 인지 자원을 소모하는 또 다른 스트레스 요인으로 전락합니다. 따라서 루틴의 핵심은 동작 자체의 완벽함이 아니라 '마음의 스위치를 켜는 도구'임을 자각하는 것이며, 상황에 맞춰 유연하게 변형할 수 있는 여유가 필요합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>발표나 시험 등 일상의 중요한 일 전에 나만의 루틴을 어떻게 만드나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       '신발 끈 특정 순서로 묶기', '심호흡 3회 하기', '특정 다짐 문구 소리 내어 말하기' 등 스스로 완전히 통제할 수 있는 일관된 기계적 행동 2 ~ 3단계를 설정하여 동일하게 반복하면 불안 제어에 큰 도움을 줍니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>루틴을 도중에 하나라도 빠뜨리거나 실수했을 때 밀려오는 불안은 어떻게 제어하나요?</span>

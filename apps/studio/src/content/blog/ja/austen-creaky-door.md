@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "没頭を守る環境シグナル：ジェーン・オースティンのきしむドアの習慣"
 description: "ジェーン・オースティンは妨害要因が入ってくるのをあらかじめ察知するため、きしむドアをあえて修理しませんでした。集中の境界を設計する原理を扱います。"
 pubDate: "2026-03-27"
@@ -37,17 +38,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「austen-creaky-door」は <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) ＆ *Neuropsychologia*</strong> に基づいて作成されました。
+      本コンテンツは、<strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) ＆ *Neuropsychologia*</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## きしむドアの音がもたらす作業切り替え摩擦の防御
+## 1. きしむドアの音がもたらす作業切り替え摩擦の防御
 
 予告のない外部からの突然の侵入は、脳に<strong>「作業切り替え摩擦（Task-Switching Friction）」</strong>を引き起こし、以前の作業に注意力が囚われている<strong>「注意力残残（Attention Residue）」</strong>の損失を極大化させます。
 
@@ -55,9 +56,7 @@ faqs:
 
 ---
 
-## 外部からの侵入騒音に対処する没頭維持ガイド
-
-意志力だけに頼らず、環境的な制約を設計して脳が没頭せざるを得ない状態を作り出してください。きしむドアの蝶番の音のように、感覚的な早期警報信号を構築することが核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 外部からの侵入騒音に対処する没頭維持ガイド
+
+意志力だけに頼らず、環境的な制約を設計して脳が没頭せざるを得ない状態を作り出してください。きしむドアの蝶番の音のように、感覚的な早期警報信号を構築することが核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ジェーン・オースティンはなぜ個人書斎の代わりにおきしむドアのある居間で文章を書いたのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ faqs:
       19世紀のイギリスでは、女性作家に独立した書斎が与えられるケースは極めて稀でした。オースティンもまた居間という共有空間で執筆しなければならなかったため、きしむドアを利用して家族の突然の訪問を察知し、原稿を隠す時間を稼ぎました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>現代的なデジタル環境でこの方法をどのように適用できますか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Um dramaturgo inspirado pelo cheiro de maçãs podres? A peculiar rotina de foco profundo de Friedrich Schiller"
 description: "O gigante literário alemão Friedrich Schiller mergulhava na criação enquanto cheirava estimulantes maçãs podres na gaveta de sua escrivaninha. Descubra os princípios científicos da estimulação olfativa e as técnicas modernas de ancoragem aromática."
 pubDate: "2026-05-05"
@@ -33,17 +34,17 @@ Analisamos a base científica por trás da rotina de 'reinício olfativo' de Sch
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre schiller-rotten-apple é baseada em <strong>Biografias históricas e registros autobiográficos de Friedrich Schiller & pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Friedrich Schiller & pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Conexão neurológica entre o olfato e o despertar cognitivo
+## 1. Conexão neurológica entre o olfato e o despertar cognitivo
 
 Entre todos os sentidos humanos, o olfato é o único que desvia do tálamo e chega diretamente à amígdala e ao hipocampo do sistema límbico, que governam emoções e memória. Por isso, os odores oferecem o caminho mais rápido para alterar estados cognitivos.
 
@@ -51,9 +52,7 @@ Os gases de fermentação (como acetaldeído e etanol) atuavam como estimulantes
 
 ---
 
-## Ancoragem olfativa moderna, segura e eficaz
-
-O método de Schiller pode causar dores de cabeça devido à toxicidade. Em vez disso, desperte seu foco com segurança usando óleos essenciais naturais comprovados (como alecrim ou hortelã-pimenta) exclusivamente antes de iniciar seus estudos ou trabalho.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O método de Schiller pode causar dores de cabeça devido à toxicidade. Em vez 
   </p>
 </div>
 
+---
+
+## 3. Ancoragem olfativa moderna, segura e eficaz
+
+O método de Schiller pode causar dores de cabeça devido à toxicidade. Em vez disso, desperte seu foco com segurança usando óleos essenciais naturais comprovados (como alecrim ou hortelã-pimenta) exclusivamente antes de iniciar seus estudos ou trabalho.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O cheiro de maçã podre de Schiller realmente teve um efeito estimulante no cérebro?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O método de Schiller pode causar dores de cabeça devido à toxicidade. Em vez 
       Sim. O acetaldeído liberado alterava temporariamente a respiração fornecendo um estímulo único, enquanto os sinais olfativos enviavam alertas de despertar ao sistema límbico.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quais aromas são recomendados para a ancoragem aromática moderna?</span>

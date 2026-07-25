@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wüstenschädel unter der Lupe betrachtet: Georgia O'Keeffes Nahaufnahmen-Beobachtung und visuelle Aufmerksamkeitsroutine"
 description: "Erfahren Sie, wie Georgia O'Keeffe, die 'Mutter der amerikanischen Moderne', die visuelle selektive Aufmerksamkeit maximierte, indem sie Wüstenschädel und Blütenblätter zehnfach vergrößerte. Entdecken Sie die Neurowissenschaften des visuellen Assoziationskortex."
 pubDate: "2026-02-25"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Kognitionswissenschaft hinter Georgia O'
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu georgia-okeeffe basiert auf <strong>Historische Überprüfung aus Georgia O'Keeffes Autobiografie *Georgia O'Keeffe*, Archiven des Georgia O'Keeffe Museums (Santa Fe) & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Georgia O'Keeffes Autobiografie *Georgia O'Keeffe*, Archiven des Georgia O'Keeffe Museums (Santa Fe) & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation des visuellen Assoziationskortex und visuelle selektive Aufmerksamkeit
+## 1. Stimulation des visuellen Assoziationskortex und visuelle selektive Aufmerksamkeit
 
 Das Schärfen des Fokus auf das Detail eines Objekts oder einer Naturform steigert die Auflösung der <strong>visuellen selektiven Aufmerksamkeit</strong> im <strong>visuellen Assoziationskortex</strong>. Dies hilft dem Gehirn, störende Umgebungsreize auszufiltern, und verbessert die <strong>metakognitive</strong> Fähigkeit, wesentliche Muster zu erkennen.
 
 ---
 
-## Vorsichtsmaßnahme: Vermeidung von Augenmuskel-Ermüdung und sanfte Fokussierung
-
-Achten Sie darauf, die Ziliarmuskeln und Sehnerven nicht durch zu langes Starren auf Details zu überlasten. Eine tägliche 2- bis 3-minütige Mini-Routine – beim aufmerksamen Betrachten von Formen bei ruhiger Atmung – reicht völlig aus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Achten Sie darauf, die Ziliarmuskeln und Sehnerven nicht durch zu langes Starren
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Vermeidung von Augenmuskel-Ermüdung und sanfte Fokussierung
+
+Achten Sie darauf, die Ziliarmuskeln und Sehnerven nicht durch zu langes Starren auf Details zu überlasten. Eine tägliche 2- bis 3-minütige Mini-Routine – beim aufmerksamen Betrachten von Formen bei ruhiger Atmung – reicht völlig aus.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist diese Methode auch in normalen Innenräumen ohne Wüstenschädel oder seltene Naturgegenstände wirksam?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Achten Sie darauf, die Ziliarmuskeln und Sehnerven nicht durch zu langes Starren
       Ja, die Art des Objekts ist unerheblich. Die 2-minütige Konzentration auf Details alltäglicher Dinge (Bleistiftmine, Blattadern, feine Risse im Becher) aktiviert dieselben Schaltkreise der visuellen selektiven Aufmerksamkeit.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Muss man eine echte Lupe oder Vergrößerungsglas verwenden?</span>

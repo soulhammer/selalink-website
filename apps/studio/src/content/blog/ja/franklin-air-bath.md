@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎朝30分、ベンジャミン・フランクリンの奇妙な「空気浴（Air Bath）」健康法と自律神経系リセットルーティン"
 description: "避雷針を発明しアメリカの建国を率いたベンジャミン・フランクリン。彼が毎朝全裸で窓を開け風を浴びた「空気浴」ルーティンの科学的効果と、皮膚低温受容体刺激、ノルアドレナリン覚醒メカニズムを解き明かします。"
 pubDate: "2026-02-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「franklin-air-bath」は <strong>ベンジャミン・フランクリン自伝『フランクリン自伝（The Autobiography of Benjamin Franklin）』および親筆書簡集（Letters to M. Barbeu Dubourg）考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ベンジャミン・フランクリン自伝『フランクリン自伝（The Autobiography of Benjamin Franklin）』および親筆書簡集（Letters to M. Barbeu Dubourg）考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 皮膚低温受容体刺激と自律神経系交感・副交感バランス
+## 1. 皮膚低温受容体刺激と自律神経系交感・副交感バランス
 
 皮膚の冷感受容体（TRPM8）が涼しい空気の刺激を受け入れると、脳の視床下部と自律神経系が活性化され毛細血管の微細な収縮と弛緩を促進します。この過程で青斑核（Locus Coeruleus）が刺激されて分泌される<strong>ノルアドレナリン（Norepinephrine）</strong>と<strong>ドパミン（Dopamine）</strong>は脳の覚醒状態を呼び覚まし、前頭前野の注意集中力を一気に引き上げます。また、低温の新鮮な空気刺激の後に体温が再び回復する過程で迷走神経および副交感神経反応が活性化され、慢性ストレスで過熱した交感神経の不均衡をリセットし、情緒的平静をもたらします。
 
 ---
 
-## 注意事項：過度な体温低下を防ぐ適正時間と低温刺激ルール
-
-空気浴は寒気に耐える忍耐訓練ではありません。過度に厳しい寒さに露出されると、急激な血管収縮による血圧上昇や免疫力低下を招く恐れがあります。快適さを感じる涼しい温度範囲で10〜15分以内に実行してこそ、自律神経系リセット効果を安全に享受できます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：過度な体温低下を防ぐ適正時間と低温刺激ルール
+
+空気浴は寒気に耐える忍耐訓練ではありません。過度に厳しい寒さに露出されると、急激な血管収縮による血圧上昇や免疫力低下を招く恐れがあります。快適さを感じる涼しい温度範囲で10〜15分以内に実行してこそ、自律神経系リセット効果を安全に享受できます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>空気浴（Air Bath）は本当に免疫力強化と精神的覚醒に役立ちますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       はい、皮膚の低温刺激は交感・副交感神経系の柔軟性を育て、自律神経系リセットを通じて脳のノルアドレナリン分泌を促進することで、朝の疲労感を除去し前頭前野の認知覚醒を助けます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>寒い冬の季節には空気浴をどのように実践すれば安全ですか？</span>

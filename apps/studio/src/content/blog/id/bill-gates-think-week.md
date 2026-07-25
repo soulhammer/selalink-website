@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Satu Minggu Pemutusan Hubungan: 'Think Week' Bill Gates dan Kerja Mendalam Tanpa Kebisingan"
 description: "Pelajari rutinitas membaca dalam isolasi pondok ala Bill Gates, 'Think Week', yang mendorong lompatan besar Microsoft, dan temukan prinsip neurosains tentang mengeliminasi sisa perhatian serta memaksimalkan wawasan jangka panjang otak."
 pubDate: "2026-01-08"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'Think
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai bill-gates-think-week didasarkan pada <strong>Verifikasi Historis dari Biografi Walter Isaacson & Arsip Microsoft & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Walter Isaacson & Arsip Microsoft & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pembentukan Wawasan Tingkat Tinggi Melalui Eliminasi Sisa Perhatian dan Konsolidasi Memori Jangka Panjang
+## 1. Pembentukan Wawasan Tingkat Tinggi Melalui Eliminasi Sisa Perhatian dan Konsolidasi Memori Jangka Panjang
 
 Masyarakat modern terus-menerus menderita 'Sisa Perhatian (Attention Residue)', di mana perpindahan tugas yang sering di antara notifikasi digital dan email menyisakan kekacauan mental residual yang menguras otak besar. Beralih tugas secara cepat memutus sirkuit penalaran mendalam korteks prefrontal. Ketika masukan informasi luar dikontrol secara total dan fokus berdurasi panjang didedikasikan untuk satu tema—seperti dalam Think Week ala Bill Gates—fungsi eksekutif korteks prefrontal membersihkan sisa ini dan mengoptimalkannya untuk pemrosesan tingkat tinggi. Secara neurosains, membaca dan merenung dalam durasi panjang merangsang konsolidasi memori jangka panjang antara hipokampus dan korteks serebral, memungkinkan sintesis pengetahuan yang terfragmentasi menjadi rencana induk jangka panjang.
 
 ---
 
-## Perhatian & Tip: Membangun Lingkungan Masukan Informasi Analog Murni
-
-Saat mempraktikkan rutinitas Think Week, bahaya terbesar yang harus diwaspadai adalah masukan informasi melalui perangkat digital. Membaca di laptop atau tablet dengan mudah memaparkan Anda pada godaan email, penjelajahan web, dan pesan instan, yang merusak jaringan fokus otak. Sebisa mungkin, siapkan dokumen cetak kertas atau buku fisik, dan catatlah dengan tangan di buku catatan kertas untuk mempertahankan stimulasi sensorik taktil dan kondisi imersi yang dalam.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Saat mempraktikkan rutinitas Think Week, bahaya terbesar yang harus diwaspadai a
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Membangun Lingkungan Masukan Informasi Analog Murni
+
+Saat mempraktikkan rutinitas Think Week, bahaya terbesar yang harus diwaspadai adalah masukan informasi melalui perangkat digital. Membaca di laptop atau tablet dengan mudah memaparkan Anda pada godaan email, penjelajahan web, dan pesan instan, yang merusak jaringan fokus otak. Sebisa mungkin, siapkan dokumen cetak kertas atau buku fisik, dan catatlah dengan tangan di buku catatan kertas untuk mempertahankan stimulasi sensorik taktil dan kondisi imersi yang dalam.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya harus mengasingkan diri ke pondok di dalam hutan selama beberapa hari untuk mengadakan Think Week?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Saat mempraktikkan rutinitas Think Week, bahaya terbesar yang harus diwaspadai a
       Tidak. Intinya terletak pada 'memutus masukan informasi luar' dan 'isolasi perhatian', bukan pada lokasinya itu sendiri. Mengunjungi perpustakaan lokal yang tenang di akhir pekan atau menyimpan smartphone Anda di ruangan lain selama satu hari saja sambil berfokus secara eksklusif pada buku fisik dan buku catatan memberikan efek reset otak yang kuat.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah boleh menggunakan laptop atau tablet saat membaca materi?</span>

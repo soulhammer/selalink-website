@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "騒音の中の没頭：シモーヌ・ド・ボーヴォワールのカフェ白色雑音と環境単純化ルーティン"
 description: "実存主義思想家であり小説家のシモーヌ・ド・ボーヴォワールがパリの行きつけのカフェで紅茶を前に毎日実践した執筆ルーティン。静かな白色雑音が脳を呼び醒ます神経学的原理と自分だけの没頭作業区域（Focus Zone）構築法を解き明かします。"
 pubDate: "2026-06-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「beauvoir-cafe-writing」は <strong>シモーヌ・ド・ボーヴォワール自伝『La Force des choses』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>シモーヌ・ド・ボーヴォワール自伝『La Force des choses』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 白色雑音と認知スクリプトの作動メカニズム
+## 1. 白色雑音と認知スクリプトの作動メカニズム
 
 脳科学的に、毎日同じ物理的環境（固定の席、特定の飲み物）に直面する行為は、意思決定の疲労を減らし没頭へとスムーズに移行させる「認知スクリプト（Cognitive Script）」を起動させます。さらにカフェ特有の50〜70デシベル（dB）帯域の静かな白色雑音（White Noise）は脳波を刺激してアルファ（Alpha）波を活性化させ、創造性と問題解決力を誘導します。周囲の低く穏やかな動的動きは脳のミラーニューロン系を適度に刺激し、孤立感を和らげる心理的安全性をもたらしてディープ・ワーク（Deep Work）の効率を極大化します。
 
 ---
 
-## 注意事項＆ヒント：ソーシャルノイズとスピーチノイズの警戒
-
-すべての騒音が増進に役立つわけではありません。70デシベルを超える大音量の音楽や明確に聞こえる周囲の会話（スピーチノイズ、Speech Noise）は、脳の音韻ループ（Phonological Loop） 妨害し、読解や論理的執筆能力を低下させます。穏やかな騒音レベルが維持される場所を選択するか、会話の音が鮮明な環境であればノイズキャンセリングイヤホンを活用して妨害要素を回避すべきです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：ソーシャルノイズとスピーチノイズの警戒
+
+すべての騒音が増進に役立つわけではありません。70デシベルを超える大音量の音楽や明確に聞こえる周囲の会話（スピーチノイズ、Speech Noise）は、脳の音韻ループ（Phonological Loop） 妨害し、読解や論理的執筆能力を低下させます。穏やかな騒音レベルが維持される場所を選択するか、会話の音が鮮明な環境であればノイズキャンセリングイヤホンを活用して妨害要素を回避すべきです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>シモーヌ・ド・ボーヴォワールはなぜカフェ・ド・フロールを執筆場所として選んだのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       1940年代のパリの極寒期当時、カフェ・ド・フロールはストーブを暖かく保ち、アーティストや知識人が長居しても気兼ねさせない雰囲気であったため、最も快適で安定した創作空間となりました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>自宅やリモートワークの環境でも同じ認知スクリプトを実装できますか？</span>

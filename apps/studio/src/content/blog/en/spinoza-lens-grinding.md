@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Spinoza's Lens Grinding: How Simple Repetitive Physical Labor Clears Brain Fatigue"
 description: "Discover how pantheist philosopher Spinoza cleared cognitive overload and restored deep immersion while writing 'Ethics' by engaging in fine manual labor grinding optical lenses."
 pubDate: "2026-04-25"
@@ -34,22 +35,20 @@ Sitting before a workbench with glass dust, the repetitive, fine physical hand m
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding spinoza-lens-grinding is based on <strong>Spinoza Lens Grinding historical biography & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Spinoza Lens Grinding historical biography & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscience of How Simple Fine Motor Skill Prevents Cognitive Burnout
+## 1. Neuroscience of How Simple Fine Motor Skill Prevents Cognitive Burnout
 
 Continuous high-level rational reasoning or complex structural design depletes cognitive resources in the prefrontal cortex. Switching to fine manual labor focused deeply on touch—like grinding lenses—activates the motor cortex and cerebellum, immediately suppressing an overactive Default Mode Network (DMN) and idle thoughts. This temporary shift in brain activation allows the exhausted prefrontal cortex to recover energy.
 
 ---
 
-## Choosing Completely De-Digitalized Manual Work
-
-To achieve this relaxation effect, you must disconnect completely from smartphones or keyboards. Operating digital devices still demands high logical computation from the brain, failing to relieve fatigue. Choose simple physical activities requiring only tactile feedback and visuospatial control, such as washing dishes, handwriting, or craft assembly.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ To achieve this relaxation effect, you must disconnect completely from smartphon
     After 15 minutes of manual labor, return to your computer and resume planning or development work. With restored cognitive buffer space, you will make clearer, more efficient decisions.
   </p>
 </div>
+
+---
+
+## 3. Choosing Completely De-Digitalized Manual Work
+
+To achieve this relaxation effect, you must disconnect completely from smartphones or keyboards. Operating digital devices still demands high logical computation from the brain, failing to relieve fatigue. Choose simple physical activities requiring only tactile feedback and visuospatial control, such as washing dishes, handwriting, or craft assembly.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

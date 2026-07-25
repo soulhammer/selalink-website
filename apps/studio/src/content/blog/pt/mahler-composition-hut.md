@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Poder do Isolamento Absoluto: A Rotina da Cabana de Composição de Gustav Mahler"
 description: "Gustav Mahler, o compositor que se isolava no verão em uma cabana nos Alpes para criar sinfonias monumentais. Explora a psicologia espacial da imersão que bloqueia estímulos externos para entrar em um estado de 'Trabalho Profundo'."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Este artigo analisa como a rotina da cabana de composição de Mahler reduz a fa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre mahler-composition-hut é baseada em <strong>Pesquisa de registros históricos sobre a Cabana de Composição de Gustav Mahler e neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de registros históricos sobre a Cabana de Composição de Gustav Mahler e neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Maximização da capacidade pré-frontal através do bloqueio de estímulos desnecessários
+## 1. Maximização da capacidade pré-frontal através do bloqueio de estímulos desnecessários
 
 Trabalhadores modernos sofrem com sobrecarga de informações por notificações digitais, ruídos e conversas. O córtex pré-frontal consome imensa energia cognitiva para inibir esses estímulos. O isolamento físico criado por Mahler elimina essa 'carga cognitiva inibitória'. O ambiente natural tranquilo estabiliza o sistema de dopamina, reduz o estresse e permite concentrar 100% da memória de trabalho na concepção de arquiteturas complexas e intuição artística.
 
 ---
 
-## Precauções e dicas
-
-Um efeito colateral do isolamento absoluto é a solidão social e a estagnação cognitiva. O isolamento excessivo sem interação estreita a perspectiva e pode gerar sentimentos depressivos. Portanto, limite o isolamento a no máximo 3–4 horas por dia para o 'Trabalho Profundo' e restabeleça o equilíbrio emocional retornando às interações sociais após o trabalho.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ Um efeito colateral do isolamento absoluto é a solidão social e a estagnação
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Um efeito colateral do isolamento absoluto é a solidão social e a estagnação cognitiva. O isolamento excessivo sem interação estreita a perspectiva e pode gerar sentimentos depressivos. Portanto, limite o isolamento a no máximo 3–4 horas por dia para o 'Trabalho Profundo' e restabeleça o equilíbrio emocional retornando às interações sociais após o trabalho.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

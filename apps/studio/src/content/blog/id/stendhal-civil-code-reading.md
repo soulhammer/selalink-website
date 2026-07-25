@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pemanasan Kering untuk Mendinginkan Otak: Kebiasaan Stendhal Membaca Kitab Undang-Undang Hukum Perdata Prancis"
 description: "Stendhal, seorang maestro sastra realis yang membedah psikologi manusia tanpa retorika berlebihan. Kami menganalisis kebiasaan pemanasan kognitifnya dengan membaca Kitab Undang-Undang Hukum Perdata Prancis setiap hari sebelum menulis untuk memaksimalkan objektivitas dan logika."
 pubDate: "2026-02-08"
@@ -29,25 +30,23 @@ Stendhal (nama asli Henri Beyle, 1783–1842) adalah maestro sastra realis Pranc
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai stendhal-civil-code-reading didasarkan pada <strong>Riset biografi historis dan catatan autobiografi membaca Hukum Perdata oleh Stendhal & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi historis dan catatan autobiografi membaca Hukum Perdata oleh Stendhal & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Priming Kebahasaan dan Penghambatan Kognisi Sentimental
+## 1. Efek Priming Kebahasaan dan Penghambatan Kognisi Sentimental
 
 Menurut Efek Priming dalam ilmu kognitif, ketika otak terlebih dahulu terpapar informasi dengan karakteristik tertentu, otak secara tidak sadar mengaktifkan pola serupa dalam tugas kognitif berikutnya. Membaca kalimat-kalimat kaku dan faktual dari Hukum Perdata sebelum menulis sama seperti mengatur area kendali bahasa otak Stendhal ke mode yang berorientasi pada objektivitas dan logika. Stimulus ini mendorong otak melakukan penghambatan kognitif terhadap sentimentalitas subjektif, mendukung penulisan jernih berdasarkan fakta dan struktur logis.
 
 ---
 
-## Peringatan dan Tips
-
-Saat menerapkan kebiasaan ini, berhati-hatilah agar tidak terlalu larut dalam analisis isi hukum yang rumit. Menganalisis yurisprudensi atau interpretasi hukum secara mendalam sebelum menulis berisiko menguras sumber daya kognitif prefrontal (Cognitive Depletion). Inti dari rutinitas ini bukanlah memperoleh pengetahuan hukum, melainkan mempersepsikan struktur kalimat yang padat dan lugas secara visual. Oleh karena itu, pindai bentuk kalimat tanpa hiasan ini secara ringan tanpa memikirkan isinya secara berlebihan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Saat menerapkan kebiasaan ini, berhati-hatilah agar tidak terlalu larut dalam an
     Setelah 10 menit membaca selesai, segera tutup buku sebelum memeriksa ponsel Anda dan mulailah menulis draf Anda. Pertahankan irama lugas yang telah terpriming di otak Anda untuk menulis tanpa henti.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Saat menerapkan kebiasaan ini, berhati-hatilah agar tidak terlalu larut dalam analisis isi hukum yang rumit. Menganalisis yurisprudensi atau interpretasi hukum secara mendalam sebelum menulis berisiko menguras sumber daya kognitif prefrontal (Cognitive Depletion). Inti dari rutinitas ini bukanlah memperoleh pengetahuan hukum, melainkan mempersepsikan struktur kalimat yang padat dan lugas secara visual. Oleh karena itu, pindai bentuk kalimat tanpa hiasan ini secara ringan tanpa memikirkan isinya secara berlebihan.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

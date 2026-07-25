@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Menyapu Debu Pikiran di Pagi Hari: Rutinitas Menyapu Taman Sen no Rikyu"
 description: "Anekdot dari Master Teh Sen no Rikyu yang membersihkan pikirannya saat menyapu taman. Menjelaskan prinsip ilmu kognitif dari meditasi kinestetik yang menghilangkan kebisingan kognitif otak melalui gerakan berulang yang sederhana."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ Artikel ini menganalisis hubungan ilmiah antara aktivitas fisik berulang dan pen
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai rikyu-garden-sweeping didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi tentang Rutinitas Menyapu Taman Rikyu & penelitian ilmu saraf kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi tentang Rutinitas Menyapu Taman Rikyu & penelitian ilmu saraf kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Penjangkaran Suara Sapu dan Kebisingan Kognitif Otak
+## 1. Efek Penjangkaran Suara Sapu dan Kebisingan Kognitif Otak
 
 Menyapu secara berirama memberikan umpan balik fisik yang langsung dan sederhana ke otak, mengancarkan perhatian pada masa kini. Fokus sensorik ini secara efektif menstabilkan sinyal kebisingan kognitif di korteks serebral yang memicu kecemasan dan distraksi. Menurut penelitian ilmu saraf, tindakan ini menekan respon kecemasan yang tidak perlu di amigdala dan mengaktifkan sirkuit visuospatial sketchpad, secara dramatis meningkatkan fungsi eksekutif jangka panjang.
 
 ---
 
-## Saran Master Teh untuk Membersihkan Debu Pikiran
-
-Debu sejati yang harus disapu ada di dalam pikiran, bukan di tanah. Hadiahkan ketenangan dan ruang kosong pada otak Anda setiap pagi melalui aktivitas fisik berulang yang ringan. Jangan hanya mengandalkan kemauan keras; merancang lingkungan fisik dan isyarat kebiasaan secara terlebih dahulu yang secara alami memicu tindakan adalah kunci keberlanjutan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Debu sejati yang harus disapu ada di dalam pikiran, bukan di tanah. Hadiahkan ke
     Setelah menyelesaikan aktivitas selama 5 menit, amati area yang rapi beserta sedikit ketidaksempurnaan alaminya dengan tenang, menikmati ketenangan batin.
   </p>
 </div>
+
+---
+
+## 3. Saran Master Teh untuk Membersihkan Debu Pikiran
+
+Debu sejati yang harus disapu ada di dalam pikiran, bukan di tanah. Hadiahkan ketenangan dan ruang kosong pada otak Anda setiap pagi melalui aktivitas fisik berulang yang ringan. Jangan hanya mengandalkan kemauan keras; merancang lingkungan fisik dan isyarat kebiasaan secara terlebih dahulu yang secara alami memicu tindakan adalah kunci keberlanjutan.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

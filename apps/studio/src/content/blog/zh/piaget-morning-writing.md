@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "精准结构化思考的大脑运行法则？让·皮亚杰的晨间写作与思索散步"
 description: "瑞士伟大的儿童心理学家让·皮亚杰。探索他精细梳理思想的晨间4页写作与午后思索散步惯例背后的脑科学原理及三步践行指南。"
 pubDate: "2026-01-01"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 piaget-morning-writing 的内容基于 <strong>让·皮亚杰历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>让·皮亚杰历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 工作记忆的外置化与默认模式网络（DMN）的协同
+## 1. 工作记忆的外置化与默认模式网络（DMN）的协同
 
 单凭脑海思考解决复杂问题会迅速超出工作记忆容量并导致过载。皮亚杰晨间写作的作用在于<strong>“工作记忆外置化（Working Memory Externalization）”</strong>，将大脑负担转嫁至纸面。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 超越信息输入，保持输出与大脑通风的平衡
-
-现代人每天通过智能手机向大脑塞入大量信息（Input），却极度缺乏独立思考整理并向外倾倒（Output）的时间以及让大脑休息的冥想时间。像皮亚杰那样，通过晨间倾倒式的写作（Output）与午后宁静的散步（Ventilation）维持平衡，为大脑自我运转创造空间。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 超越信息输入，保持输出与大脑通风的平衡
+
+现代人每天通过智能手机向大脑塞入大量信息（Input），却极度缺乏独立思考整理并向外倾倒（Output）的时间以及让大脑休息的冥想时间。像皮亚杰那样，通过晨间倾倒式的写作（Output）与午后宁静的散步（Ventilation）维持平衡，为大脑自我运转创造空间。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>必须用手写吗？可以用数字打字代替吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       数字打字同样有效，但手写能通过刺激手指精细肌肉，更强强烈地激活大脑的前额叶和体感皮层，因此强烈推荐手写。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果附近没有适合散步的自然环境该怎么办？</span>

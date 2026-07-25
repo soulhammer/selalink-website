@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "魂の秩序を整える夜：ピタゴラスの夜の自己省察習慣"
 description: "毎晩眠りにつく前に1日の言動を3度振り返り省察したピタゴラス。就寝前にメタ認知を呼び覚ます3つの自問の儀式がエピソード記憶を強化し感情調節力を高める神経生理学的効果を探求します。"
 pubDate: "2026-04-06"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「pythagoras-evening-examination」は <strong>ピタゴラスの夜の自己省察に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ピタゴラスの夜の自己省察に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 就寝前の記憶統合と情緒安定の脳科学的原理
+## 1. 就寝前の記憶統合と情緒安定の脳科学的原理
 
 睡眠は昼の間に海馬に保存された短期記憶を大脳皮質へ移動させ、長期記憶として固定（Memory Consolidation）する重要な時間です。眠りにつく直前に意図1日の行動を振り返る行為は、脳に対して「どのエピソードを優先的に加工して保存するか」というロードマップを提供します。また自分の行動を道徳的・認知的に評価する「自己モニタリング」プロセスは、前頭葉の抑制回路を強化して感情的な澱みを浄化（カタルシス）し、副交感神経系を活性化させて深い徐波（Slow-wave）睡眠を誘導します。
 
 ---
 
-## 注意事項およびヒント
-
-夜の省察の最大の危険は、省察が自責や後悔（Rumination）に変質してしまうことです。今日発生した悪い出来事に感情的に埋没し反芻を繰り返すと、ストレスホルモンであるコルチゾールが分泌され、かえって不眠を引き起こします。省察を行う際は、徹底的に第三者の立場から出来事だけを客観的に見つめる「認知的な距離置き（Cognitive Distance）」を維持すべきであり、自責の代わりに「次はこう改善しよう」という行動の代替案に集中する必要があります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項およびヒント
+
+夜の省察の最大の危険は、省察が自責や後悔（Rumination）に変質してしまうことです。今日発生した悪い出来事に感情的に埋没し反芻を繰り返すと、ストレスホルモンであるコルチゾールが分泌され、かえって不眠を引き起こします。省察を行う際は、徹底的に第三者の立場から出来事だけを客観的に見つめる「認知的な距離置き（Cognitive Distance）」を維持すべきであり、自責の代わりに「次はこう改善しよう」という行動の代替案に集中する必要があります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>1日中忙しく疲れていて、省察している途中でそのまま寝てしまうのですがどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       疲れて寝てしまうのは自然な現象です。ただし、ベッドの上ではなく日記を書くようにデスクに座って5分間だけ短く記録する方式で行うことが、睡眠誘導や睡眠慣性を防ぐのに役立ちます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>自責の念で夜眠れない時はどうすればよいですか？</span>

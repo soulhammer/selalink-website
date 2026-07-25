@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Slave-Turned-Philosopher Who Said to Ignore What You Can't Control: Epictetus's Dichotomy of Control Evening Reflection Routine"
 description: "Discover how Epictetus, the Stoic master born into slavery, eliminated daily anxiety by strictly dividing reality into what is within our control and what is not. Explore his evening journaling method and cognitive neuroscience mechanisms."
 pubDate: "2026-05-15"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Epictetus's 'dichot
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding epictetus-dichotomy-control is based on <strong>Historical Verification from Epictetus's *Discourses* and *Enchiridion* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Epictetus's *Discourses* and *Enchiridion* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Internalizing the Locus of Control and Downregulating Amygdala Cortisol Responses
+## 1. Internalizing the Locus of Control and Downregulating Amygdala Cortisol Responses
 
 Chronic stress and anxiety stem primarily from perceived helplessness when the brain hyper-focuses on external variables it cannot control (such as other people's reactions, market conditions, or past events). Epictetus's Dichotomy of Control shifts your 'Locus of Control' from external outcomes to internal agency. By formally acknowledging and releasing uncontrollable variables, the prefrontal cortex (PFC) exerts top-down executive regulation over the limbic system. This calms hyperactivation in the amygdala—the brain's threat center—dramatically reducing cortisol levels and restoring emotional equilibrium.
 
 ---
 
-## Caution: Your Jurisdiction Ends at Your Own Actions
-
-Blaming yourself when external responses or market outcomes turn unfavorable—despite giving your best effort—pushes the brain into severe ego depletion and depressive cycles. Understand that your sole duty ends at your intentional effort; the ultimate outcome belongs to the universe.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Blaming yourself when external responses or market outcomes turn unfavorable—d
   </p>
 </div>
 
+---
+
+## 3. Caution: Your Jurisdiction Ends at Your Own Actions
+
+Blaming yourself when external responses or market outcomes turn unfavorable—despite giving your best effort—pushes the brain into severe ego depletion and depressive cycles. Understand that your sole duty ends at your intentional effort; the ultimate outcome belongs to the universe.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it truly impossible to control another person's attitude or reaction?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Blaming yourself when external responses or market outcomes turn unfavorable—d
       Yes, completely. Your jurisdiction covers only your sincere attempt to communicate or influence; how the other person interprets and responds to it lies 100% within their domain. The moment you internalize this boundary, interpersonal stress evaporates.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does ignoring outcomes diminish my passion or motivation?</span>

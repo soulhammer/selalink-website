@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Plinius des Älteren unermüdliches Notieren: Wie Handschrift das Gehirn weckt und Erinnerung besitzt"
 description: "Teilt die Notizgeheimnisse des römischen Gelehrten Plinius des Älteren, der ein enormes Wissen zusammentrug, indem er sich selbst beim Essen oder Reisen von Sekretären Bücher vorlesen ließ und Notizen machte."
 pubDate: "2026-05-12"
@@ -33,25 +34,23 @@ Seine Leidenschaft für das Lernen, ohne den Stift jemals abzusetzen, erwies sic
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu pliny-reading-excerpt basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Plinius' Leseexzerpte sowie kognitive neurowissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Plinius' Leseexzerpte sowie kognitive neurowissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Warum Exzerpieren und Notieren kognitiv dem reinen Lesen überlegen ist
+## 1. Warum Exzerpieren und Notieren kognitiv dem reinen Lesen überlegen ist
 
 Eine passiv-rezeptive Haltung des bloßen Lesens mit den Augen führt dazu, dass das Gehirn Informationen leicht aus dem Kurzzeitgedächtnis verliert. Wenn man dagegen den Kern des Textes zusammenfasst und physisch handschriftlich notiert, stimulieren die feinen Fingerbewegungen das retikuläre Aktivierungssystem (RAS) im Hirnstamm und aktivieren das gesamte Gehirn kraftvoll. Da das Gehirn während dieses Prozesses Informationen filtern und rekonstruieren muss, werden starke Abrufhinweise eingebettet, die sich stabil im Langzeitgedächtnis verankern.
 
 ---
 
-## Leitfaden für kluges Exzerpieren und Notieren
-
-Das unüberlegte Abschreiben ganzer Absätze aus einem Buch (Transkription) sollte vermieden werden. Dies grenzt an einfache Arbeit, die das Gehirn umgeht und nur kognitive Ermüdung verursacht. Extrahieren und schreiben Sie nur inspirierende Sätze oder zentrale Schlüsselwörter selektiv handschriftlich auf. Machen Sie es sich außerdem zur Gewohnheit, die Buchquelle und Seitenzahl immer in Klammern anzugeben, damit Sie das exzerpierte Wissen später nachverfolgen können.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Das unüberlegte Abschreiben ganzer Absätze aus einem Buch (Transkription) soll
   </p>
 </div>
 
+---
+
+## 3. Leitfaden für kluges Exzerpieren und Notieren
+
+Das unüberlegte Abschreiben ganzer Absätze aus einem Buch (Transkription) sollte vermieden werden. Dies grenzt an einfache Arbeit, die das Gehirn umgeht und nur kognitive Ermüdung verursacht. Extrahieren und schreiben Sie nur inspirierende Sätze oder zentrale Schlüsselwörter selektiv handschriftlich auf. Machen Sie es sich außerdem zur Gewohnheit, die Buchquelle und Seitenzahl immer in Klammern anzugeben, damit Sie das exzerpierte Wissen später nachverfolgen können.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist das Schreiben mit einem Stift auf einem Tablet oder das Tippen auf einer Tastatur ebenso effektiv?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Das unüberlegte Abschreiben ganzer Absätze aus einem Buch (Transkription) soll
       Das direkte Schreiben mit einem digitalen Stift auf einem Tablet erzeugt Effekte, die einem physischen Stift sehr ähnlich sind. Das Tippen auf einer Tastatur ist jedoch eine automatisierte Eingabehandlung, die fast keine kognitive Verarbeitung begleitet. Die langsamere Geschwindigkeit der Handschrift zwingt das Gehirn, Informationen zusammenzufassen und zu verdauen, was die Gedächtnisbehaltensrate signifikant verbessert.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Gibt es eine Möglichkeit, exzerpierte Notizen so zu organisieren, dass sie bei zunehmender Menge nicht verloren gehen?</span>

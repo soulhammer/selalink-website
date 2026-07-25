@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎日同じ服だけを着た天才：スティーブ・ジョブズの意思決定ミニマリズムルーティンと前頭前野認知資源の保存"
 description: "アップルの創業者スティーブ・ジョブズ。常に黒のタートルネックとジーンズだけを着た彼のユニークなミニマリズム習慣の中に隠された意思決定疲労（Decision Fatigue）の克服法、前頭前野認知資源の保存原理と現代人のための3段階服装単純化ルーティンを紹介します。"
 pubDate: "2026-06-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「jobs-uniform-minimalism」は <strong>ウォルター・アイザックソン『スティーブ・ジョブズ（Steve Jobs, 2011）』史料考証＆認知心理学（Cognitive Psychology）および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ウォルター・アイザックソン『スティーブ・ジョブズ（Steve Jobs, 2011）』史料考証＆認知心理学（Cognitive Psychology）および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 意思決定疲労（Decision Fatigue）の消滅と前頭前野認知資源の保存
+## 1. 意思決定疲労（Decision Fatigue）の消滅と前頭前野認知資源の保存
 
 人間の脳は1日に行える意思決定の量が限定されており、朝から服を選び組み合わせることに認知資源を使うと、<strong>前頭前野（Prefrontal Cortex）</strong>のエネルギーが徐々に枯渇し、<strong>意思決定疲労（Decision Fatigue）</strong>状態に陥ります。毎日黒のタートルネックとジーンズという単一のユニフォームを着ていたスティーブ・ジョブズのルーティンは、朝の時間に無意識のうちに消耗される無数の微小決定過程を除去して脳容量を完全に保存し、これを通じて最も重要な製品企画と経営的判断に最上の実行機能を投入することができたのです。
 
 ---
 
-## 注意事項：日常の選択肢を定数化して脳エネルギーを節約するルール
-
-ミニマリズムな服装の本質はファッションの単調さではなく、「不必要な微小決定の除去」です。朝食のメニュー、服装スタイル、通勤ルートなど日常の反復的な選択肢を事前にルーティンとして固定（定数化）し、脳の前頭前野資源を節約することこそが生産性極大化の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：日常の選択肢を定数化して脳エネルギーを節約するルール
+
+ミニマリズムな服装の本質はファッションの単調さではなく、「不必要な微小決定の除去」です。朝食のメニュー、服装スタイル、通勤ルートなど日常の反復的な選択肢を事前にルーティンとして固定（定数化）し、脳の前頭前野資源を節約することこそが生産性極大化の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>スティーブ・ジョブズはなぜ毎日同じ服だけを固執したのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       毎朝服を選ぶ些細な意思決定で消耗される前頭前野のエネルギーを節約し、アップルの経営や製品革新など本質的な意思決定に100％集中するためでした。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ジョブズのように完全に同じ服だけを着るのが負担な場合、現実的な代替案はありますか？</span>

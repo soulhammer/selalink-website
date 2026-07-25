@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Mirroring Gaze Replicating Another's Stride: Charlie Chaplin's Physical Mirroring and Human Analysis Routine"
 description: "Discover how silent film icon Charlie Chaplin observed and mirrored strangers' walks and physical movements on city streets, and explore the neuroscientific principles of activating premotor mirror neurons to expand body schema and maximize interpersonal empathy."
 pubDate: "2026-03-01"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Charlie Chaplin's 'phys
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding charlie-chaplin is based on <strong>Historical Verification from Charlie Chaplin's Autobiography *My Autobiography* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Charlie Chaplin's Autobiography *My Autobiography* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation of Premotor Mirror Neurons and Expansion of the Body Schema
+## 1. Activation of Premotor Mirror Neurons and Expansion of the Body Schema
 
 Physically replicating another person's kinematics activates the brain's 'Mirror Neuron' system across the premotor cortex and inferior parietal lobule. This motor imitation practice expands the spatial resolution of the 'Body Schema'—the internal neural map of physical posture inscribed in the somatosensory cortex. Furthermore, via Embodied Cognition, mirroring muscle tension and movement rhythms engages the limbic system, allowing the brain to decode non-verbal emotional cues (anxiety, fatigue, pride) with over 70% greater precision. This elevates metacognition and intuitive empathy for human motivations.
 
 ---
 
-## Caution & Tips: Utilizing Covert Peripheral Vision & Ensuring Safety and Respect
-
-When practicing observation and physical mirroring, guard against staring directly at individuals, which causes discomfort or safety risks. Rather than locking eyes in a rigid focal stare, utilize broad 'Peripheral Vision' to softly track the silhouette trajectories and movement kinematics. When mimicking steps, maintain a respectful distance and avoid exaggerated or mockingly theatrical gestures; focus strictly on internalizing the geometry of muscle balance.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When practicing observation and physical mirroring, guard against staring direct
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Utilizing Covert Peripheral Vision & Ensuring Safety and Respect
+
+When practicing observation and physical mirroring, guard against staring directly at individuals, which causes discomfort or safety risks. Rather than locking eyes in a rigid focal stare, utilize broad 'Peripheral Vision' to softly track the silhouette trajectories and movement kinematics. When mimicking steps, maintain a respectful distance and avoid exaggerated or mockingly theatrical gestures; focus strictly on internalizing the geometry of muscle balance.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How should I handle awkward moments if a pedestrian catches me observing them?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When practicing observation and physical mirroring, guard against staring direct
       Avoid hard, direct eye contact. Wear sunglasses or hold a drink to naturally deflect your gaze while practicing broad 'Peripheral Vision' scanning, focusing gently on the silhouette dynamics rather than facial features.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does physical mirroring genuinely enhance our capacity to decode others' emotional states?</span>

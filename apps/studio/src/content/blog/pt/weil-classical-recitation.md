@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O segredo para uma atenção absoluta: A rotina de recitação clássica matinal da filósofa Simone Weil"
 description: "Descubra a rotina de recitação clássica em grego da filósofa francesa Simone Weil para treinar a atenção pura e seus efeitos neurocientíficos no córtex pré-frontal."
 pubDate: "2026-07-11"
@@ -33,25 +34,23 @@ Neste artigo, examinamos os fundamentos neurocientíficos dessa rotina e apresen
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre weil-classical-recitation é baseada em <strong>Registros históricos e biográficos de Simone Weil e pesquisas em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Registros históricos e biográficos de Simone Weil e pesquisas em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Impacto da leitura em voz alta e recitação no córtex pré-frontal
+## 1. Impacto da leitura em voz alta e recitação no córtex pré-frontal
 
 Recitar em voz alta frases clássicas complexas escritas em idioma antigo estimula o córtex pré-frontal dorsolateral. Diferente da leitura silenciosa, a leitura em voz alta ativa simultaneamente os córtex visual, motor e auditivo, eliminando a névoa mental.
 
 ---
 
-## Foque no próprio processo de ressonância do som e do texto
-
-Para Simone Weil, a recitação matinal era uma meditação ativa. Não precisa ser em grego antigo. Passe 5 minutos todas as manhãs lendo em voz alta um pequeno poema ou citação filosófica. Fixar a atenção na ressonância da voz carrega o cérebro com um foco poderoso.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Para Simone Weil, a recitação matinal era uma meditação ativa. Não precisa 
   </p>
 </div>
 
+---
+
+## 3. Foque no próprio processo de ressonância do som e do texto
+
+Para Simone Weil, a recitação matinal era uma meditação ativa. Não precisa ser em grego antigo. Passe 5 minutos todas as manhãs lendo em voz alta um pequeno poema ou citação filosófica. Fixar a atenção na ressonância da voz carrega o cérebro com um foco poderoso.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

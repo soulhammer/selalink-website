@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Single Word That Built IBM: Thomas Watson's 15-Minute Silent Thinking Routine"
 description: "Discover the thinking method of IBM founder Thomas Watson, who hung 'THINK' signs in every office and spent 15 minutes daily in quiet reflection. Explains how intentional disconnection organizes long-term memory."
 pubDate: "2026-04-19"
@@ -36,22 +37,20 @@ In today's post, we present the scientific mechanisms of Thomas Watson's '15-min
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding watson-think-sign is based on <strong>Historical biographies and autobiographical records of Thomas Watson & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Thomas Watson & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why Inactive Disconnection Boosts Intellectual Capacity
+## 1. Why Inactive Disconnection Boosts Intellectual Capacity
 
 When the brain constantly reacts to incoming stimuli (emails, notifications, etc.), it lacks the bandwidth for memory consolidation and long-term value planning. By completely cutting off input and engaging in pure thought, the brain stabilizes the <strong>Salience Network</strong>—which filters critical information—and organically exchanges data with the Default Mode Network, organizing complex neural circuits to discover breakthroughs.
 
 ---
 
-## Cautions and Tips
-
-For this reflection training to succeed, a prominent physical sign serving as a <strong>Visual Prompt</strong> must be present in your workspace. Without a visible cue, the brain defaults to inertia—opening emails or browsing the web. A clear sign serves as a control mechanism to periodically interrupt the automatic flow of consciousness.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ For this reflection training to succeed, a prominent physical sign serving as a 
     Without using writing tools, narrow your mental focus entirely onto the single most challenging and high-impact problem to solve today.
   </p>
 </div>
+
+---
+
+## 3. Cautions and Tips
+
+For this reflection training to succeed, a prominent physical sign serving as a <strong>Visual Prompt</strong> must be present in your workspace. Without a visible cue, the brain defaults to inertia—opening emails or browsing the web. A clear sign serves as a control mechanism to periodically interrupt the automatic flow of consciousness.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El bucle de retroalimentación de Pasteur: Seguimiento en tiempo real de cambios microscópicos en cultivos"
 description: "Descubra la rutina de Louis Pasteur, el microbiólogo francés padre de la pasteurización y las vacunas, quien mantenía un escritorio impecable para eliminar cualquier distracción."
 pubDate: "2026-05-03"
@@ -36,22 +37,20 @@ En esta publicación, exploramos los principios cognitivos detrás de la rutina 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre pasteur se basa en <strong>Investigación de registros biográficos e históricos de Pasteur y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de registros biográficos e históricos de Pasteur y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análisis neurocientífico de los principios detrás del éxito
+## 1. Análisis neurocientífico de los principios detrás del éxito
 
 Formular hipótesis y rastrear cambios sutiles activa un bucle de retroalimentación que fortalece la conexión entre la corteza prefrontal lateral y la corteza de asociación visual, potenciando la capacidad analítica.
 
 ---
 
-## Consejos de ciencia conductual para un hábito exitoso
-
-No se sobreexija buscando la perfección. Practicar cómodamente 3 minutos al día construye conexiones neuronales de forma natural. Diseñe su entorno en lugar de confiar solo en la voluntad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ No se sobreexija buscando la perfección. Practicar cómodamente 3 minutos al d�
   </p>
 </div>
 
+---
+
+## 3. Consejos de ciencia conductual para un hábito exitoso
+
+No se sobreexija buscando la perfección. Practicar cómodamente 3 minutos al día construye conexiones neuronales de forma natural. Diseñe su entorno en lugar de confiar solo en la voluntad.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo realizar este ritual de orden a diario antes de trabajar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ No se sobreexija buscando la perfección. Practicar cómodamente 3 minutos al d�
       Sí, limpiar las lentes o despejar su mesa envía una señal de orden cognitivo a su cerebro para maximizar la concentración.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo reemplazar esto si no tengo un microscopio o paño de microfibra?</span>

@@ -507,6 +507,10 @@
           "대형견 산책"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/husky_care.png"
   }
 }

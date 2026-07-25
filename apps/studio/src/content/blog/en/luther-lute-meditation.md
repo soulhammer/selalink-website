@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Waves of Mental Regulation: Martin Luther's Morning Lute Routine and Neural Tuning"
 description: "Discover how Martin Luther, amidst the intense pressure of the Protestant Reformation, meditated every morning playing the lute. Explore the neuroscience of auditory-motor integration, vagus nerve stimulation, autonomic nervous system stabilization, and a 3-step action guide."
 pubDate: "2026-02-24"
@@ -38,22 +39,20 @@ In today's post, we examine the neurological principles behind Martin Luther's m
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding luther-lute-meditation is based on <strong>Historical Verification from Luther Archives, *Tischreden* (Table Talk, 1566) & Research in Cognitive Neuroscience and Music Therapy</strong>.
+      This content is based on <strong>Historical Verification from Luther Archives, *Tischreden* (Table Talk, 1566) & Research in Cognitive Neuroscience and Music Therapy</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Auditory-Motor Integration Pathways and Vagus Nerve Stimulation Neuroscience
+## 1. Auditory-Motor Integration Pathways and Vagus Nerve Stimulation Neuroscience
 
 Precision manipulation of an instrument activates the motor cortex, reinforcing the feedback loop with the auditory cortex known as the <strong>Auditory-Motor Integration</strong> pathway. Anchoring attention to physical vibrations calms prefrontal neural noise associated with anxiety. Furthermore, rhythmic string playing stimulates the <strong>Vagus Nerve</strong>, elevating <strong>Heart Rate Variability (HRV)</strong> and engaging the <strong>Parasympathetic Nervous System</strong> to settle brainwaves into a calm <strong>Alpha Wave</strong> state.
 
 ---
 
-## Caution: Removing Performance Anxiety to Immerse in Tactile Vibrational Sensation
-
-The greatest obstacle in a music meditation routine is obsession with technique or flawless performance. Worrying about mistakes triggers evaluation stress, perversely activating the brain's emotional threat center, the <strong>Amygdala</strong>. Utilize intuitive, mechanically simple instruments like a kalimba, ukulele, or tongue drum, letting go of expectations to focus solely on enjoying 5 minutes of sensory resonance.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The greatest obstacle in a music meditation routine is obsession with technique 
   </p>
 </div>
 
+---
+
+## 3. Caution: Removing Performance Anxiety to Immerse in Tactile Vibrational Sensation
+
+The greatest obstacle in a music meditation routine is obsession with technique or flawless performance. Worrying about mistakes triggers evaluation stress, perversely activating the brain's emotional threat center, the <strong>Amygdala</strong>. Utilize intuitive, mechanically simple instruments like a kalimba, ukulele, or tongue drum, letting go of expectations to focus solely on enjoying 5 minutes of sensory resonance.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can beginners with no musical background benefit from this routine?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The greatest obstacle in a music meditation routine is obsession with technique 
       Yes, absolutely! The core lies not in sophisticated technique, but in 'fine motor tactile stimulation and acoustic resonance awareness'. Using simple instruments like a kalimba, tongue drum, or singing bowl for 5 minutes provides identical parasympathetic stimulation.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can passive music listening replace active instrument playing?</span>

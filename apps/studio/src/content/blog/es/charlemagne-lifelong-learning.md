@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Tablilla de Escritura en la Cabecera: La Rutina de Consolidación de Memoria Durante el Sueño de Carlomagno"
 description: "Descubra cómo Carlomagno, fundador de Europa Occidental, mantenía tablillas de cera junto a su cama para dominar la escritura, y explore la neurociencia cognitiva para maximizar la consolidación de la memoria a largo plazo durante el sueño de ondas lentas."
 pubDate: "2026-01-20"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre charlemagne-lifelong-learning se basa en <strong>Verificación Histórica de la Biografía de Eginardo *Vita Karoli Magni (Vida de Carlomagno)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Eginardo *Vita Karoli Magni (Vida de Carlomagno)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismo de Consolidación de la Memoria Dependiente del Sueño Durante el Sueño de Ondas Lentas
+## 1. Mecanismo de Consolidación de la Memoria Dependiente del Sueño Durante el Sueño de Ondas Lentas
 
 Neurofisiológicamente, la información a corto plazo recopilada durante el día se almacena temporalmente en el hipocampo. Para que estos datos se estabilicen como conocimiento permanente, deben someterse a la 'Consolidación de la Memoria': una transferencia del hipocampo a la neocorteza. Este proceso alcanza su punto máximo durante el Sueño de Ondas Lentas (NREM Fase 3). La rutina de Carlomagno de escribir y estudiar inmediatamente antes de dormir funciona como una estrategia de 'carga previa al sueño' que llena el hipocampo con datos clave. Una vez que inicia el sueño, las oscilaciones no REM y las ondas agudas del hipocampo transfieren estas huellas recién codificadas a la memoria a largo plazo.
 
 ---
 
-## Precauciones y Consejos: Bloquear Teléfonos/Dispositivos IT y Proteger la Higiene del Sueño y la Melatonina
-
-Estructurar la cabecera con dispositivos digitales que emiten luz azul (móviles, tabletas) suprime la melatonina, retrasando el sueño y alterando la fase de ondas lentas. El espacio de escritura debe limitarse a 'papel y bolígrafo analógicos libres de luz azul'. Desbloquear el móvil al despertar por la noche activa vías de dopamina y rompe la arquitectura del sueño; por tanto, mantenga la regla de usar solo herramientas analógicas bajo luz tenue.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Estructurar la cabecera con dispositivos digitales que emiten luz azul (móviles
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Bloquear Teléfonos/Dispositivos IT y Proteger la Higiene del Sueño y la Melatonina
+
+Estructurar la cabecera con dispositivos digitales que emiten luz azul (móviles, tabletas) suprime la melatonina, retrasando el sueño y alterando la fase de ondas lentas. El espacio de escritura debe limitarse a 'papel y bolígrafo analógicos libres de luz azul'. Desbloquear el móvil al despertar por la noche activa vías de dopamina y rompe la arquitectura del sueño; por tanto, mantenga la regla de usar solo herramientas analógicas bajo luz tenue.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿No se arrugará o dañará el cuaderno de papel debajo de la almohada o en la cabecera mientras duermo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Estructurar la cabecera con dispositivos digitales que emiten luz azul (móviles
       Para la práctica moderna, evite el papel fino suelto. En su lugar, coloque un mini cuaderno rígido de tapa dura en su mesa de noche o fije una pequeña tabla con sujetapapeles en un estante junto a la cama, evitando daños.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Escribir con luz tenue durante los despertares nocturnos no cansará mis ojos?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Environmental Cues Protecting Focus: Jane Austen's Creaky Door Habit"
 description: "Jane Austen intentionally left a creaky door unfixed to detect incoming distractions in advance. Explore the principles of designing focus boundaries."
 pubDate: "2026-03-27"
@@ -40,14 +41,14 @@ In today's post, we examine the cognitive science principles of the 'creaky door
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding austen-creaky-door is based on <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & *Neuropsychologia*</strong>.
+      This content is based on <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & *Neuropsychologia*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Task-Switching Friction Defense Provided by the Creaky Door Sound
+## 1. Task-Switching Friction Defense Provided by the Creaky Door Sound
 
 Sudden, unannounced external intrusions cause <strong>'Task-Switching Friction'</strong> in the brain and maximize the loss from <strong>'Attention Residue'</strong>, where focus remains tied to the prior task.
 
@@ -55,9 +56,7 @@ The creaky door sound utilized by Jane Austen functioned as an Early Warning Sig
 
 ---
 
-## Focus Retention Guide for Handling External Intrusive Noise
-
-Rather than relying solely on willpower, design environmental constraints to create a state where the brain has no choice but to stay focused. Constructing a sensory early warning signal, like the sound of a creaky door hinge, is key.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Rather than relying solely on willpower, design environmental constraints to cre
   </p>
 </div>
 
+---
+
+## 3. Focus Retention Guide for Handling External Intrusive Noise
+
+Rather than relying solely on willpower, design environmental constraints to create a state where the brain has no choice but to stay focused. Constructing a sensory early warning signal, like the sound of a creaky door hinge, is key.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Jane Austen write in a sitting room with a creaky door instead of a private study?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Rather than relying solely on willpower, design environmental constraints to cre
       In 19th-century Britain, female writers were very rarely provided with independent studies. Austen also had to write in the shared space of a sitting room, so she utilized the creaky door to perceive family members' sudden visits and buy time to hide her manuscripts.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can this method be applied in a modern digital environment?</span>

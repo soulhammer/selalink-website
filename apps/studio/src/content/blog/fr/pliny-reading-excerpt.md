@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La prise de note incessante de Pline l'Ancien : Comment l'écriture manuscrite éveille le cerveau et s'approprie la mémoire"
 description: "Partage les secrets de prise de notes de l'érudit romain Pline l'Ancien, qui a compilé de vastes connaissances en faisant lire des livres par ses secrétaires et en prenant des notes même en mangeant ou en voyageant."
 pubDate: "2026-05-12"
@@ -33,25 +34,23 @@ Sa passion d'apprendre sans jamais poser sa plume s'est avérée être, même se
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant pliny-reading-excerpt est basée sur <strong>Biographie critique historique et récits autobiographiques sur les extraits de lecture de Pline & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographie critique historique et récits autobiographiques sur les extraits de lecture de Pline & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi la prise de notes d'extraits est cognitivement supérieure à la simple lecture
+## 1. Pourquoi la prise de notes d'extraits est cognitivement supérieure à la simple lecture
 
 Une attitude réceptive passive consistant à lire du texte uniquement avec les yeux fait que le cerveau laisse facilement échapper les informations du stockage de la mémoire à court terme. En revanche, lorsque l'on résume le cœur du texte et que l'on prend des notes manuscrites physiques, les mouvements fins des doigts stimulent le système réticulaire activateur (SRA) du tronc cérébral, activant puissamment l'ensemble du cerveau. Comme le cerveau doit filtrer et reconstruire les informations pendant ce processus, de puissants indices de récupération sont ancrés, s'installant de manière stable dans la mémoire à long terme.
 
 ---
 
-## Guide pour une prise de notes d'extraits intelligente
-
-La copie aveugle de paragraphes entiers d'un livre (transcription) doit être évitée. Cela se rapproche d'un travail simple qui contourne le cerveau, ne provoquant que de la fatigue cognitive. Extrayez et écrivez à la main uniquement des phrases inspirantes ou des mots-clés essentiels. De plus, prenez l'habitude de toujours inscrire la source du livre et le numéro de page entre parenthèses afin de pouvoir retrouver les connaissances extraites ultérieurement.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ La copie aveugle de paragraphes entiers d'un livre (transcription) doit être é
   </p>
 </div>
 
+---
+
+## 3. Guide pour une prise de notes d'extraits intelligente
+
+La copie aveugle de paragraphes entiers d'un livre (transcription) doit être évitée. Cela se rapproche d'un travail simple qui contourne le cerveau, ne provoquant que de la fatigue cognitive. Extrayez et écrivez à la main uniquement des phrases inspirantes ou des mots-clés essentiels. De plus, prenez l'habitude de toujours inscrire la source du livre et le numéro de page entre parenthèses afin de pouvoir retrouver les connaissances extraites ultérieurement.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'écriture avec un stylet sur une tablette ou la saisie au clavier est-elle tout aussi efficace ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ La copie aveugle de paragraphes entiers d'un livre (transcription) doit être é
       Écrire directement avec un stylet numérique sur une tablette produit des effets très similaires à ceux d'un stylo physique. Cependant, la saisie au clavier est une action d'entrée automatisée qui ne s'accompagne de presque aucun traitement cognitif. La vitesse plus lente de l'écriture manuscrite force le cerveau à résumer et digérer l'information, améliorant considérablement les taux de rétention mémorielle.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe-t-il un moyen d'organiser les notes d'extraits pour qu'elles ne se perdent pas à mesure qu'elles s'accumulent ?</span>

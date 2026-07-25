@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "孤独な思索の解毒剤：デイヴィッド・ヒュームの夕方の社交＆バックギャモン・チェスルーティンと情緒リラクセーション"
 description: "現代認知科学の母体となった哲学者デイヴィッド・ヒュームは、昼は熾烈に思索し、夕方は人々と食事しながらバックギャモンやチェスを楽しみました。オキシトシンとセロトニンの分泌を誘導し脳の認知過負荷を防ぐヒュームのソーシャルリセットルーティンを解き明かします。"
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「hume-social-refresh」は <strong>デイヴィッド・ヒューム著作集『人性論（A Treatise of Human Nature, 1739）』、自伝『我が生涯（My Own Life）』史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>デイヴィッド・ヒューム著作集『人性論（A Treatise of Human Nature, 1739）』、自伝『我が生涯（My Own Life）』史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## オキシトシン・セロトニン分泌と前頭葉認知過負荷の解消
+## 1. オキシトシン・セロトニン分泌と前頭葉認知過負荷の解消
 
 昼のあいだ限定された<strong>前頭葉（Prefrontal Cortex）</strong>の認知エネルギーを枯渇させた後、夕方も問題解決や執着を維持すると、脳は慢性的なストレス状態に置かれます。友人たちと一緒に食事しながら会話する愉快な社会的コミュニケーションは、幸せホルモンである<strong>セロトニン（Serotonin）</strong>と<strong>オキシトシン（Oxytocin）</strong>の分泌を助け、<strong>扁桃体（Amygdala）</strong>のストレス反応を即座に鎮めます。またチェスやボードゲームのように軽くルールに集中する遊戯的活動は、<strong>デフォルト・モード・ネットワーク（Default Mode Network, DMN）</strong>を有機的に作動させ、頭の中に蓄積された思索のピースを整理し、翌日の明瞭な実行機能を促進します。
 
 ---
 
-## 注意事項：ビジネスおよび論争的会話を排除し情緒的リラクセーションに集中するルール
-
-ヒュームが実践した夕方の社交の趣旨は、脳のストレス解消と情緒的リラックスです。集まりの場で過度なビジネスの会話や深刻な思想的論争を続けたら、前頭葉は再び酷使され認知過負荷が深刻化します。軽いユーモアと遊戯的な会話で集まりを満たすことが、脳科学的なリラックス環境づくりの基本です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：ビジネスおよび論争的会話を排除し情緒的リラクセーションに集中するルール
+
+ヒュームが実践した夕方の社交の趣旨は、脳のストレス解消と情緒的リラックスです。集まりの場で過度なビジネスの会話や深刻な思想的論争を続けたら、前頭葉は再び酷使され認知過負荷が深刻化します。軽いユーモアと遊戯的な会話で集まりを満たすことが、脳科学的なリラックス環境づくりの基本です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>もし夕方にオフラインで会う人がいない場合はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       電話や軽いオンラインコミュニティゲームも代替案になり得ます。重要なのは、認知的緊張が解けた状態で温かく楽しい社会的フィードバックをやり取りする体験です。ただし、SNSのフィードを受動的に読むだけなのは脳の疲労を増加させるため避けるべきです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>チェスがあまり得意ではないのですが、囲碁や将棋など他のボードゲームでも大丈夫ですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Mulher que Planejava Assassinados Comendo Maçãs na Banheira: A Tempestade de Ideias em Banho Quente e Relaxamento DMN de Agatha Christie"
 description: "Descubra como a Rainha do Crime Agatha Christie concebeu álibis intrincados e tramas de assassinato comendo maçãs em um banho quente, e explore a neurociência cognitiva da ativação da Rede de Modo Padrão (DMN) e da mastigação."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'banho 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre christie-bathtub-brainstorming é baseada em <strong>Verificação Histórica da Autobiografia de Agatha Christie *Uma Autobiografia (An Autobiography)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Agatha Christie *Uma Autobiografia (An Autobiography)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ativação da Rede de Modo Padrão (DMN) Via Banhos Quentes e Estimulação por Mastigação
+## 1. Ativação da Rede de Modo Padrão (DMN) Via Banhos Quentes e Estimulação por Mastigação
 
 Submergir o corpo em água quente (38°C–40°C) dilata os vasos sanguíneos, melhora o fluxo sanguíneo e ativa o sistema parassimpático, reduzindo os batimentos cardíacos e a tensão muscular. Neste estado de relaxamento, o cérebro desativa a Rede Executiva Central (CEN) e ativa a Rede de Modo Padrão (DMN). Sob ativação da DMN, o cérebro recombina memórias dispersas, gerando soluções criativas. Acompanhar isso com a mastigação de uma maçã envia sinais ao córtex pré-frontal via nervo trigêmeo, reduzindo o cortisol.
 
 ---
 
-## Precauções e Dicas: Liberar a Tensão Obsessiva e Induzir um Relaxamento Físico Total
-
-O objetivo desta rotina de relaxamento não é forçar respostas. Se você sentir uma pressão obsessiva para 'produzir ideias' no banho, seu sistema simpático se reativa e interrompe o processamento da DMN. Deixe seu problema de lado e concentre-se no calor da água e na textura da fruta para liberar a tensão pré-frontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O objetivo desta rotina de relaxamento não é forçar respostas. Se você senti
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Liberar a Tensão Obsessiva e Induzir um Relaxamento Físico Total
+
+O objetivo desta rotina de relaxamento não é forçar respostas. Se você sentir uma pressão obsessiva para 'produzir ideias' no banho, seu sistema simpático se reativa e interrompe o processamento da DMN. Deixe seu problema de lado e concentre-se no calor da água e na textura da fruta para liberar a tensão pré-frontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que a tempestade de ideias ao comer maçãs num banho quente funciona tão bem?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O objetivo desta rotina de relaxamento não é forçar respostas. Se você senti
       O banho quente reduz os batimentos cardíacos e ativa o sistema parassimpático para acionar a DMN, enquanto a mastigação de uma maçã envia estímulos sensoriais via nervo trigêmeo para estimular o córtex pré-frontal, unindo relaxamento e clareza.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe um método alternativo de relaxamento físico para ativar a DMN se eu não tiver banheira?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le secret du milliardaire dans la poche arrière : Le carnet analogique et la stimulation du SRA de Richard Branson"
 description: "Découvrez comment le fondateur du groupe Virgin, Sir Richard Branson, a créé plus de 400 entreprises en consignant ses inspirations dans un carnet analogique gardé dans sa poche arrière, et explorez les principes neuroscientifiques montrant comment l'écriture manuscrite stimule le Système Réticulaire Activateur (SRA) pour convertir les idées en actions immédiates."
 pubDate: "2026-03-04"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant branson-notebook-writing est basée sur <strong>Vérification Historique issue de l'autobiographie de Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation du Système Réticulaire Activateur (SRA) et perception sélective pour l'action
+## 1. Activation du Système Réticulaire Activateur (SRA) et perception sélective pour l'action
 
 Situé dans le tronc cérébral, le Système Réticulaire Activateur (SRA ou RAS) est un filtre neuronal qui sélectionne les signaux critiques parmi une multitude d'entrées sensorielle pour les acheminer vers le cortex cérébral. L'acte physique de tenir un stylo et d'exercer une pression sur le papier transmet un signal biologique : « Cette information est capitale pour ma survie et la réalisation de mes objectifs. » Un SRA stimulé par l'écriture manuscrite déclenche les mécanismes d'attention du cerveau, faisant basculer l'esprit dans un état de « Perception Sélective » où il balaye inconsciemment l'environnement à la recherche d'opportunités, de ressources et de solutions liées à cette note. Par rapport à de simples pensées ou à la saisie numérique, les notes manuscrites augmentent de manière exponentielle la probabilité de traduire les idées mentales en réalisations concrètes.
 
 ---
 
-## Précautions & Conseils : Conserver des notes brutes et immédiates plutôt qu'une mise en forme soignée
-
-Le cœur de la routine de carnet à la Branson réside dans l'« immédiateté brute » : capturer des conversations ou des idées sur le champ sans s'arrêter pour rédiger des phrases élégantes. Dès que vous hésitez pour appliquer votre écriture ou structurer proprement votre résumé, le filtre préfrontal s'active et le fil de l'inspiration subconsciente s'évanouit. Une prise de note rapide et non filtrée de mots bruts constitue la clé pour activer le SRA.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le cœur de la routine de carnet à la Branson réside dans l'« immédiateté b
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Conserver des notes brutes et immédiates plutôt qu'une mise en forme soignée
+
+Le cœur de la routine de carnet à la Branson réside dans l'« immédiateté brute » : capturer des conversations ou des idées sur le champ sans s'arrêter pour rédiger des phrases élégantes. Dès que vous hésitez pour appliquer votre écriture ou structurer proprement votre résumé, le filtre préfrontal s'active et le fil de l'inspiration subconsciente s'évanouit. Une prise de note rapide et non filtrée de mots bruts constitue la clé pour activer le SRA.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>En quoi l'utilisation d'une application bloc-notes sur smartphone diffère-t-elle fonctionnellement d'un carnet papier analogique ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le cœur de la routine de carnet à la Branson réside dans l'« immédiateté b
       Déverrouiller un smartphone et chercher une application vous expose aux notifications, messages et e-mails qui détournent l'attention, faisant s'évaporer l'inspiration. À l'inverse, un carnet analogique est instantané ; la friction tactile et la pression du stylo stimulent le cortex somatosensoriel et activent le SRA du cerveau.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe-t-il des exemples concrets où une simple note dans le carnet de Branson s'est transformée en un grand succès commercial ?</span>

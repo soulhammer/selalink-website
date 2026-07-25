@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "15 Minutes to Overcome Locker Room Noise: Football King Pelé's Towel Visualization"
 description: "Uncover soccer legend Pelé's secret to overcoming tension and maximizing performance: a 15-minute visualization routine spent lying down with a dry towel over his face before matches."
 pubDate: "2026-01-30"
@@ -38,22 +39,20 @@ In this post, we examine the sports science and neuroscience behind Pelé's 'Tow
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding pele-towel-visualization is based on <strong>Pelé Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Pelé Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mental Imagery Training That Stimulates the Brain's Motor Cortex
+## 1. Mental Imagery Training That Stimulates the Brain's Motor Cortex
 
 When vividly imagining physical movements, the brain activates the same <strong>'Motor Cortex'</strong> region used during physical execution. Neuroscience shows neural firing during visualization mimics real action, pre-training the brain. Blocking light with a towel induces <strong>Alpha waves</strong>, calming the amygdala and sharpening focus.
 
 ---
 
-## Detailed Visualization After Positive Experience Relaxation
-
-Relaxation must precede visualization. Just as Pelé imagined happy street soccer memories first to soothe tension, entering an alpha wave state allows motor cortex simulation to function unobstructed.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Relaxation must precede visualization. Just as Pelé imagined happy street socce
   </p>
 </div>
 
+---
+
+## 3. Detailed Visualization After Positive Experience Relaxation
+
+Relaxation must precede visualization. Just as Pelé imagined happy street soccer memories first to soothe tension, entering an alpha wave state allows motor cortex simulation to function unobstructed.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Which is more effective: first-person or third-person visualization?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Relaxation must precede visualization. Just as Pelé imagined happy street socce
       First-person perspective is far superior for stimulating the motor cortex and strengthening neural pathways. While third-person perspective helps grasp overall positioning, first-person visualization precisely tunes fine motor sensations.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What if thoughts of failure or mistakes arise during visualization?</span>

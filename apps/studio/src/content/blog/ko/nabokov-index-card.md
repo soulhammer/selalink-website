@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "생각의 모듈화: 블라디미르 나보코프의 인덱스 카드 집필법"
 description: "소설을 조각화하여 카드로 기록하고 순서를 재배치했던 작가 블라디미르 나보코프. 인지 부하를 차단하고 창의적인 아이디어를 유연하게 결합하는 카드식 기획법의 인지과학적 가치를 조명합니다."
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Nabokov Index Card 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 nabokov-index-card 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Nabokov Index Card 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 인지 부하 차단과 조합적 창의성의 신경 메커니즘
+## 1. 인지 부하 차단과 조합적 창의성의 신경 메커니즘
 
 뇌가 중요하고 완성도 높은 결과물을 만들어야 한다고 인지할 때, 편도체는 실패에 대한 무의식적 경보를 발령하여 지연 행동을 유발합니다. 이때 무가치하고 지극히 사소한 글쓰기를 선행하여 뇌에 '평가받지 않는 안전한 상태'라는 피드백을 전달하면 편도체의 과활동이 잠잠해집니다. 이와 동시에 브로카 영역과 운동 신경 피질이 가볍게 활성화되며 기어가 맞물려, 본 업무 착수 시의 저항 장벽을 획기적으로 낮춰 줍니다.
 
 ---
 
-## 주의사항 및 팁
-
-카드 쓰기에 심취하여 각 카드를 연관성 없이 마구잡이로 적어두기만 하면, 나중에 이를 하나로 엮을 때 거대한 파편화의 장벽에 부딪히게 됩니다. 따라서 카드 하나에는 반드시 단 하나의 완결된 생각이나 에피소드만 기록해야 하며, 가끔은 전체 맥락의 아키텍처(예: 전체 아웃라인)를 상기하며 카드의 대략적인 카테고리를 미리 분류해 두는 완충 노력이 필요합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     최적의 배열이 완성되면 카드들의 흐름을 고정하고, 첫 카드부터 순서대로 살을 붙여가며 전체 문서나 기획을 완성합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+카드 쓰기에 심취하여 각 카드를 연관성 없이 마구잡이로 적어두기만 하면, 나중에 이를 하나로 엮을 때 거대한 파편화의 장벽에 부딪히게 됩니다. 따라서 카드 하나에는 반드시 단 하나의 완결된 생각이나 에피소드만 기록해야 하며, 가끔은 전체 맥락의 아키텍처(예: 전체 아웃라인)를 상기하며 카드의 대략적인 카테고리를 미리 분류해 두는 완충 노력이 필요합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

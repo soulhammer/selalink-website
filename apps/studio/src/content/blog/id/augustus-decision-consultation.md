@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Keputusan Sang Kaisar 'Bergegas dengan Perlahan': Kebiasaan Mendengarkan Masukan dari Berbagai Sudut Pandang ala Augustus"
 description: "Kaisar Romawi Augustus, yang menyederhanakan keputusan pasca-pembunuhan Caesar dengan mendengarkan pendapat berbeda dari penasihat seperti Maecenas dan Agrippa alih-alih bertindak dogmatis. Pelajari prinsip neurosains dari mendengarkan dan memfilter untuk mematahkan bias konfirmasi."
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ Augustus, kaisar pertama Romawi, yang mengakhiri perang saudara selama satu abad
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai augustus-decision-consultation didasarkan pada <strong>Verifikasi Historis dari *De vita Caesarum* karya Suetonius & *Sejarah Romawi* karya Cassius Dio & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *De vita Caesarum* karya Suetonius & *Sejarah Romawi* karya Cassius Dio & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Penekanan Bias Konfirmasi dan Prinsip Kerja Filter Kognitif dlPFC
+## 1. Penekanan Bias Konfirmasi dan Prinsip Kerja Filter Kognitif dlPFC
 
 Otak manusia secara instingtif rentan terhadap kesalahan Sistem 1 (intuitif), membenarkan pikiran atau preferensi pertama yang muncul dalam benak. Menerima masukan pakar dari berbagai sudut pandang yang menantang kesimpulan Anda—seperti yang dilakukan Augustus—merangsang <strong>'Korteks Prefrontal Dorsolateral (dlPFC)'</strong> otak, yang mengatur pengambilan keputusan, mengaktifkan filter verifikasi yang mencari celah logis dalam informasi. Hal ini juga melibatkan pusat pemantau konflik, yaitu <strong>'Korteks Cingulate Anterior (ACC)'</strong>, mengikis emosi subjektif dan menata data faktual yang objektif untuk membantu mengambil keputusan rasional terbaik.
 
 ---
 
-## Peringatan dan Tips
-
-Jebakan terbesar dalam mendengarkan masukan adalah jatuh ke dalam Kelumpuhan Analisis (Analysis Paralysis) akibat pengumpulan pendapat secara tanpa kendali. Meminta pendapat dari terlalu banyak orang tak dikenal menciptakan beban kognitif berlebih, menyebabkan kebingungan dan ketidakmampuan menentukan prioritas. Saat mengambil keputusan, batasi tim penasihat Anda tidak lebih dari 3 pakar terpercaya yang terbukti (seperti Maecenas dan Agrippa), dan pegang teguh batasan bahwa keputusan akhir dan tanggung jawab sepenuhnya berada di tangan Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Jebakan terbesar dalam mendengarkan masukan adalah jatuh ke dalam Kelumpuhan Ana
   </p>
 </div>
 
+---
+
+## 3. Peringatan dan Tips
+
+Jebakan terbesar dalam mendengarkan masukan adalah jatuh ke dalam Kelumpuhan Analisis (Analysis Paralysis) akibat pengumpulan pendapat secara tanpa kendali. Meminta pendapat dari terlalu banyak orang tak dikenal menciptakan beban kognitif berlebih, menyebabkan kebingungan dan ketidakmampuan menentukan prioritas. Saat mengambil keputusan, batasi tim penasihat Anda tidak lebih dari 3 pakar terpercaya yang terbukti (seperti Maecenas dan Agrippa), dan pegang teguh batasan bahwa keputusan akhir dan tanggung jawab sepenuhnya berada di tangan Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana agar tidak terbawa emosi saat mendengarkan masukan dari rekan kerja?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Jebakan terbesar dalam mendengarkan masukan adalah jatuh ke dalam Kelumpuhan Ana
       Itulah mengapa 'penerimaan tertulis secara tidak langsung' sangat menguntungkan. Dalam pertemuan tatap muka, bujukan emosional mudah terjadi karena otoritas, tekanan konformitas, atau kelancaran berbicara. Anda hanya dapat menilai secara rasional jika mengumpulkan dan menganalisis logika tajam serta data faktual yang ditulis secara individual oleh penasihat Anda secara terpisah.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Berapa jumlah anggota tim penasihat yang paling ideal?</span>

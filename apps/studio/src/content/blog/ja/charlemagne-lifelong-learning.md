@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ベッドの枕元の筆記板：シャルルマーニュの睡眠記憶統合設計ルーティン"
 description: "西ヨーロッパの開拓者シャルルマーニュ大帝が文字習得のためベッドの枕元に蜜蝋の筆記板を置いた生涯学習習慣。徐波睡眠（Slow-wave Sleep）中の長期記憶転換を極大化し、海馬（Hippocampus）回路を強化する認知神経科学的原理を解き明かします。"
 pubDate: "2026-01-20"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「charlemagne-lifelong-learning」は <strong>アインハルト伝記『Vita Karoli Magni』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アインハルト伝記『Vita Karoli Magni』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 徐波睡眠（Slow-wave Sleep）中の記憶統合（Memory Consolidation）メカニズム
+## 1. 徐波睡眠（Slow-wave Sleep）中の記憶統合（Memory Consolidation）メカニズム
 
 神経生理学的に昼の間に収集された短期情報は、大脳の奥深くに位置する海馬（Hippocampus）に一時的にバッファリングされて保存されます。この情報が一生維持される知識として固定されるには、大脳皮質（Cerebral Cortex）へと移送される「記憶統合（Memory Consolidation）」プロセスを経なければなりませんが、これは睡眠中の深いNREM第3段階である徐波睡眠（Slow-wave Sleep）の時期に極大化されます。就寝直前に手で直接文字を書き学習するシャルルマーニュのルーティンは、高濃度の新規認知データを海馬に睡眠直前負荷（Pre-sleep Loading）させる行動です。睡眠が始まると、脳は徐波睡眠波形（Non-REM Oscillation）と海馬脳波放出（Sharp-wave Ripples）を通じて該当データを大脳皮質長期記憶回路へと急速にアーカイブします。
 
 ---
 
-## 注意事項＆ヒント：スマートフォン/IT機器の遮断とメラトニン睡眠衛生の保護
-
-ベッドの枕元環境をスマートフォン、タブレットなどブルーライトを放出するデジタル機器で構成すると、睡眠誘導ホルモンであるメラトニン（Melatonin）の分泌が抑制され、入眠遅延および徐波睡眠の破壊を引き起こします。寝床の枕元メモ環境は必ず「ブルーライト遮断のアナログ紙とペン」に限定しなければなりません。夜間に目を覚ました時、スマートフォンの画面を点けて確認した瞬間、ドパミン報酬回路が覚醒して睡眠構造が完全に崩壊するため、ただ暗くほのかな照明の下でアナログの筆記のみを行うルールを死守してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：スマートフォン/IT機器の遮断とメラトニン睡眠衛生の保護
+
+ベッドの枕元環境をスマートフォン、タブレットなどブルーライトを放出するデジタル機器で構成すると、睡眠誘導ホルモンであるメラトニン（Melatonin）の分泌が抑制され、入眠遅延および徐波睡眠の破壊を引き起こします。寝床の枕元メモ環境は必ず「ブルーライト遮断のアナログ紙とペン」に限定しなければなりません。夜間に目を覚ました時、スマートフォンの画面を点けて確認した瞬間、ドパミン報酬回路が覚醒して睡眠構造が完全に崩壊するため、ただ暗くほのかな照明の下でアナログの筆記のみを行うルールを死守してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>紙の手帳を枕の下やベッドの枕元に置くと、寝ている間に皺になったり危険ではありませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       現代的に実践する時は、折れ曲がりやすい薄い紙の代わりに頑丈なハードカバーのミニノートをサイドテーブルの上に置くか、クリップが付いた木製メモボードを枕元の棚に固定して破損のリスクを防ぎ、導線のみを最短で設計することが有用です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>夜中に目が覚めて筆記する時、照明が暗すぎると目に負担がかかりませんか？</span>

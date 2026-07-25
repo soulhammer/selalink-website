@@ -1,192 +1,282 @@
 {
   "tesla-toe-curling": {
-    "title": {
-      "ko": "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식",
-      "en": "A Genius Who Curled His Toes 100 Times? Nikola Tesla's Bizarre Deep Sleep Ritual",
-      "ja": "つま先を100回曲げた天才？ニコラ・テスラの奇妙な熟睡儀式",
-      "zh": "将脚趾卷曲100次的天才？尼古拉·特斯拉的奇妙熟睡仪式",
-      "es": "¿Un genio que encogía los dedos de los pies 100 veces? El extraño ritual de sueño profundo de Nikola Tesla",
-      "de": "Ein Genie, das 100 Mal die Zehen krümmte? Nikola Teslas skurriles Tiefschlaf-Ritual",
-      "fr": "Un génie qui crispait ses orteils 100 fois ? Le rituel de sommeil profond bizarre de Nikola Tesla",
-      "pt": "Um gênio que curvava os dedos dos pés 100 vezes? O estranho ritual de sono profundo de Nikola Tesla",
-      "id": "Jenius yang Mengerutkan Jari Kaki 100 Kali? Ritual Tidur Nyenyak Ajaib Nikola Tesla"
-    },
-    "description": {
-      "ko": "매일 밤 침대에 누워 발가락을 오므렸던 천재 발명가 니콜라 테슬라. 그의 독특한 루틴 속에 숨겨진 뇌과학적 비밀과 현대인을 위한 3단계 실천법을 소개합니다.",
-      "en": "Genius inventor Nikola Tesla curled his toes in bed every night. Discover the brain science secrets hidden in his unique routine and a 3-step practical guide for modern individuals.",
-      "ja": "毎晩ベッドに横になってつま先を曲げていた天才発明家ニコラ・テスラ。彼のユニークなルーティンに隠された脳科学の秘密と現代人のための3ステップ実践法を紹介します。",
-      "zh": "天才发明家尼古拉·特斯拉每晚躺在床上都会卷曲脚趾。探索隐藏在他独特习惯中的大脑科学秘密，以及适合现代人的3步实践指南。",
-      "es": "El genio inventor Nikola Tesla encogía los dedos de los pies en la cama todas las noches. Descubra los secretos de la neurociencia ocultos en su rutina única y una guía práctica de 3 pasos.",
-      "de": "Genie und Erfinder Nikola Tesla krümmte jeden Abend im Bett seine Zehen. Entdecken Sie die neurowissenschaftlichen Geheimnisse hinter seiner einzigartigen Routine und eine 3-Schritte-Anleitung.",
-      "fr": "L'inventeur de génie Nikola Tesla crispait ses orteils au lit chaque nuit. Découvrez les secrets neuroscientifiques cachés dans sa routine unique et un guide pratique en 3 étapes.",
-      "pt": "O inventor genial Nikola Tesla curvava os dedos dos pés na cama todas as noites. Descubra os segredos da neurociência escondidos em sua rotina única e um guia prático de 3 passos.",
-      "id": "Penemu jenius Nikola Tesla mengerutkan jari kakinya di tempat tidur setiap malam. Temukan rahasia sains otak yang tersembunyi dalam rutinitas uniknya dan panduan praktis 3 langkah."
-    },
-    "authority": {
-      "ko": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
-      "en": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
-      "ja": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
-      "zh": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
-      "es": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
-      "de": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
-      "fr": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
-      "pt": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
-      "id": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*"
-    },
-    "intro": {
-      "ko": "에디슨과 함께 세상을 밝힌 천재 과학자이자, 교류(AC) 전기 시스템과 무선 통신 기술의 초석을 다진 니콜라 테슬라(Nikola Tesla, 1856~1943). 그가 매일 밤 침대에 누워 아주 기묘한 행동을 반복했다는 사실을 아시나요? ⚡\n\n테슬라는 평소 하루에 단 2시간만 자는 극단적인 수면 패턴을 고수하면서도 지치지 않고 수많은 혁신적 발명을 이어나갔습니다. 그 비결 중 하나는 바로 매일 밤 침대에 누워 양쪽 발가락을 각각 100번씩 꽉 쥐었다 펴는 독특한 수면 리추얼이었습니다.\n\n오늘 포스트에서는 역사적인 천재의 기상천외한 습관 속에 담긴 과학적 원리와, 이를 우리 일상에 적용하는 방법을 소개합니다.",
-      "en": "Did you know that Nikola Tesla (1856–1943), the genius scientist who illuminated the world alongside Edison and laid the foundation for alternating current (AC) power systems and wireless communication, repeated a bizarre ritual every night in bed? ⚡\n\nWhile maintaining an extreme sleep pattern of sleeping just 2 hours a day, Tesla continuously produced groundbreaking inventions without fatigue. One secret to his stamina was his unique bedtime ritual: squeezing and extending his toes 100 times on each foot every night.\n\nIn this post, we explore the scientific principles behind this historic genius's eccentric habit and how you can apply it to your daily life.",
-      "ja": "エジソンと共に世界を照らした天才科学者であり、交流（AC）電気システムと無線通信技術の礎を築いたニコラ・テスラ（Nikola Tesla、1856〜1943）。彼が毎晩ベッドに横になって奇妙な行動を繰り返していたことをご存知ですか？ ⚡\n\nテスラは普段、1日にわずか2時間しか眠らない極端な睡眠パターンを維持しながらも、疲れることなく数多くの革新的な発明を続けました。その秘訣の一つが、毎晩ベッドで両足のつま先をそれぞれ100回ずつ力強く曲げて伸ばすユニークな睡眠リチュアルでした。\n\n本記事では、歴史的天才の奇天烈な習慣に込められた科学的原理と、それを日常生活に応用する方法をご紹介します。",
-      "zh": "您知道与爱迪生一起照亮世界的天才科学家、为交流电（AC）电力系统和无线通信技术奠定基础的尼古拉·特斯拉（Nikola Tesla，1856-1943）每晚躺在床上都会重复一个奇特的习惯吗？⚡\n\n虽然特斯拉维持着每天仅睡2小时的极端睡眠模式，但他依然不知疲倦地推陈出新，做出了无数革命性发明。他的精力秘诀之一，就是每晚躺在床上将每只脚的脚趾紧握并伸展100次。\n\n在本文中，我们将探讨这位历史天才古怪习惯背后的科学原理，以及如何将其应用到我们的日常生活中。",
-      "es": "¿Sabías que Nikola Tesla (1856–1943), el genio científico que iluminó el mundo junto a Edison y sentó las bases de la corriente alterna (CA) y las comunicaciones inalámbricas, repetía un extraño ritual cada noche en la cama? ⚡\n\nA pesar de mantener un patrón de sueño extremo de tan solo 2 horas al día, Tesla creó continuamente invenciones revolucionarias sin agotamiento. Uno de los secretos de su vitalidad era su ritual nocturno: apretar y estirar los dedos de cada pie 100 veces todas las noches.\n\nEn este artículo, exploramos los principios científicos detrás de este hábito excéntrico del genio histórico y cómo puedes aplicarlo a tu vida diaria.",
-      "de": "Wussten Sie, dass Nikola Tesla (1856–1943), das wissenschaftliche Genie, das zusammen mit Edison die Welt erleuchtete und die Grundlagen für Wechselstromsysteme (AC) und drahtlose Kommunikation legte, jeden Abend im Bett ein skurriles Ritual wiederholte? ⚡\n\nObwohl er ein extremes Schlafmuster von nur 2 Stunden pro Tag pflegte, erfand Tesla unermüdlich bahnbrechende Innovationen. Ein Geheimnis seiner Ausdauer war sein nächtliches Ritual: Er krümmte und streckte jeden Abend an jedem Fuß 100 Mal die Zehen.\n\nIn diesem Beitrag untersuchen wir die wissenschaftlichen Prinzipien hinter der eigenartigen Angewohnheit dieses historischen Genies und wie Sie sie in Ihren Alltag integrieren können.",
-      "fr": "Saviez-vous que Nikola Tesla (1856–1943), le scientifique de génie qui a illuminé le monde aux côtés d'Edison et posé les bases du courant alternatif (CA) et de la communication sans fil, répétait un rituel étrange chaque nuit au lit ? ⚡\n\nTout en conservant un rythme de sommeil extrême de seulement 2 heures par jour, Tesla a produit sans relâche des inventions révolutionnaires. Un des secrets de son endurance résidait dans son rituel nocturne : crisper et détendre ses orteils 100 fois sur chaque pied chaque soir.\n\nDans cet article, nous explorons les principes scientifiques derrière l'habitude excentrique de ce génie historique et comment l'appliquer dans votre vie quotidienne.",
-      "pt": "Você sabia que Nikola Tesla (1856–1943), o cientista genial que iluminou o mundo ao lado de Edison e lançou as bases do sistema elétrico de corrente alternada (CA) e das comunicações sem fio, repetia um estranho ritual todas as noites na cama? ⚡\n\nMesmo mantendo um padrão de sono extremo de apenas 2 horas por dia, Tesla continuou criando invenções revolucionárias sem se esgotar. Um dos segredos de sua estamina era seu ritual noturno: apertar e esticar os dedos de cada pé 100 vezes todas as noites.\n\nNeste post, exploramos os princípios científicos por trás desse hábito excéntrico do gênio histórico e como você pode aplicá-lo ao seu dia a dia.",
-      "id": "Tahukah Anda bahwa Nikola Tesla (1856–1943), ilmuwan jenius yang menerangi dunia bersama Edison dan meletakkan dasar bagi sistem listrik arus bolak-balik (AC) serta komunikasi nirkabel, mengulangi ritual ajaib setiap malam di tempat tidur? ⚡\n\nMeskipun menjaga pola tidur ekstrem hanya 2 jam sehari, Tesla terus menghasilkan penemuan revolusioner tanpa kenal lelah. Salah satu rahasia staminanya adalah ritual sebelum tidur yang unik: mengepal dan merenggangkan jari-jari di setiap kakinya sebanyak 100 kali setiap malam.\n\nDalam postingan ini, kami mengeksplorasi prinsip-prinsip ilmiah di balik kebiasaan eksentrik jenius bersejarah ini dan bagaimana Anda dapat menerapkannya dalam kehidupan sehari-hari."
-    },
-    "whyTitle": {
-      "ko": "뇌세포를 깨우는 신경 스위치, 발가락",
-      "en": "Toes: The Neural Switch That Awakens Brain Cells",
-      "ja": "脳細胞を呼び醒ます神経スイッチ、つま先",
-      "zh": "唤醒脑细胞的神经开关：脚趾",
-      "es": "Los dedos de los pies: El interruptor neuronal que despierta las células cerebrales",
-      "de": "Zehen: Der neuronale Schalter, der Gehirnzellen weckt",
-      "fr": "Les orteils : L'interrupteur neuronal qui éveille les cellules cérébrales",
-      "pt": "Dedos dos pés: O interruptor neural que desperta as células cerebrais",
-      "id": "Jari Kaki: Sakelar Saraf yang Membangunkan Sel-Sel Otak"
-    },
-    "whyDesc": {
-      "ko": "테슬라는 발가락을 반복적으로 오므리는 사소해 보이는 운동이 발끝에 집중된 수많은 신경을 자극해 뇌세포를 활성화하고, 하루 동안 쌓인 두뇌의 피로를 리셋해 준다고 믿었습니다.\n\n실제로 뇌의 체감각 피질(Somatosensory Cortex)에서 발과 발가락이 차지하는 영역은 손만큼이나 넓습니다. 하루 종일 양말과 신발에 갇혀 무뎌진 발가락을 의도적으로 움직이는 것은 잠자고 있던 신경망을 자극하는 훌륭한 방법입니다.",
-      "en": "Tesla believed that the seemingly trivial motion of repeatedly curling his toes stimulated the numerous nerve endings concentrated at his feet, activating brain cells and resetting accumulated fatigue.\n\nIn reality, the area occupied by the feet and toes in the brain's somatosensory cortex is surprisingly vast—almost as large as that of the hands. Intentionally moving toes that have been trapped in socks and shoes all day is an excellent way to stimulate dormant neural networks.",
-      "ja": "テスラは、つま先を繰り返し曲げる一見ささやかな運動が、足下に集中する多数の神経を刺激して脳細胞を活性化し、一日の脳の疲労をリセットすると信じていました。\n\n実際、脳の体性感覚野（Somatosensory Cortex）において足とつま先が占める領域は、手と同じくらい広いのです。一日中靴下や靴の中に閉じ込められて鈍くなったつま先を意識的に動かすことは、眠っていた神経回路を刺激する優れた方法です。",
-      "zh": "特斯拉相信，这种看似微不足道的反复卷曲脚趾的运动，能刺激集中在脚尖的众多神经，激活脑细胞并重置累积的大脑疲劳。\n\n实际上，在大脑的躯体感觉皮层（Somatosensory Cortex）中，脚和脚趾所占的区域与手部几乎一样广阔。刻意活动整天束缚在袜子和鞋子里的脚趾，是刺激休眠神经网络的绝佳方法。",
-      "es": "Tesla creía que el movimiento aparentemente trivial de encoger repetidamente los dedos de los pies estimulaba las numerosas terminaciones nerviosas concentradas en los pies, activando las células cerebrales y reiniciando la fatiga acumulada.\n\nEn realidad, el área que ocupan los pies y los dedos en la corteza somatosensorial del cerebro es sorprendentemente amplia. Mover intencionadamente los dedos de los pies tras haber estado encerrados todo el día es una forma excelente de estimular las redes neuronales inactivas.",
-      "de": "Tesla glaubte, dass die scheinbar unbedeutende Bewegung des wiederholten Zehenkrümmens die zahlreichen Nervenenden an den Füßen stimulierte, Gehirnzellen aktivierte und die mentale Ermüdung zurücksetzte.\n\nTatsächlich ist der Bereich, den Füße und Zehen im somatosensorischen Kortex des Gehirns einnehmen, erstaunlich groß. Das bewusste Bewegen der Zehen nach einem langen Tag in Socken und Schuhen ist eine hervorragende Methode, um ruhende neuronale Netzwerke zu stimulieren.",
-      "fr": "Tesla pensait que le mouvement en apparence anodin de crisper ses orteils stimulait les nombreuses terminaisons nerveuses concentrées dans les pieds, activant les cellules cérébrales et réinitialisant la fatigue cumulative.\n\nEn réalité, la zone occupée par les pieds et les orteils dans le cortex somatosensoriel du cerveau est étonnamment vaste. Bouger intentionnellement les orteils restés enfermés toute la journée est un moyen parfait de stimuler les réseaux neuronaux dormants.",
-      "pt": "Tesla acreditava que o movimento aparentemente trivial de curvar repetidamente os dedos dos pés estimulava as numerosas terminações nervosas concentradas nos pés, ativando as células cerebrais e reiniciando a fadiga mental.\n\nNa realidade, a área ocupada pelos pés e dedos no córtex somatossensorial do cérebro é surpreendentemente ampla. Mover intencionalmente os dedos dos pés após passarem o dia presos em meias e sapatos é uma excelente maneira de estimular redes neurais adormecidas.",
-      "id": "Tesla percaya bahwa gerakan sederhana mengerutkan jari kaki secara berulang merangsang banyak ujung saraf di kaki, mengaktifkan sel-sel otak, dan memulihkan kelelahan mental.\n\nFaktanya, area yang ditempati oleh kaki dan jari kaki di korteks somatosensori otak sangat luas. Menggerakkan jari kaki secara sengaja setelah seharian terkurung dalam kaus kaki dan sepatu adalah cara luar biasa untuk merangsang jaringan saraf yang tertidur."
-    },
-    "cautionTitle": {
-      "ko": "성공적인 루틴을 위한 뇌과학적 한마디",
-      "en": "A Neuroscientific Tip for a Successful Routine",
-      "ja": "成功するルーティンのための脳科学的アドバイス",
-      "zh": "成功习惯的神经科学建议",
-      "es": "Un consejo neurocientífico para una rutina exitosa",
-      "de": "Ein neurowissenschaftlicher Tipp für eine erfolgreiche Routine",
-      "fr": "Un conseil neuroscientifique pour une routine réussie",
-      "pt": "Uma dica neurocientífica para uma rotina de sucesso",
-      "id": "Tip Neurosains untuk Rutinitas yang Sukses"
-    },
-    "cautionDesc": {
-      "ko": "발가락 운동은 심장에서 가장 먼 곳의 혈액 순환을 도와 체온을 균일하게 만들고, 부교감 신경을 활성화합니다. 매일 밤 같은 타이밍(이불을 덮은 직후)에 이 행동을 반복하면 뇌는 이를 '잠잘 시간'이라는 강력한 조건반사적 신호로 인식하게 됩니다.",
-      "en": "Toe exercises promote blood circulation at the furthest point from the heart, evening out body temperature and stimulating the parasympathetic nervous system. Repeating this action at the exact same moment every night (right after getting under the blanket) trains your brain to recognize it as a powerful conditioned signal for sleep.",
-      "ja": "つま先の運動は、心臓から最も遠い場所の血液循環を助けて体温を均一にし、副交感神経を活性化します。毎晩同じタイミング（布団に入った直後）にこの行動を繰り返すと、脳はそれを「眠る時間」という強力な条件反射的シグナルとして認識するようになります。",
-      "zh": "脚趾运动有助于促进远离心脏部位的血液循环，使体温保持均匀，并激活副交感神经。每天晚上在相同的时间（刚盖上被子后）重复这一动作，大脑就会将其识别为强有力的条件反射“睡眠信号”。",
-      "es": "Los ejercicios para los dedos de los pies mejoran la circulación sanguínea en la zona más distante del corazón, equilibrando la temperatura corporal y activando el sistema nervioso parasimpático. Repetir esta acción cada noche al mismo tiempo (justo después de cubrirse con la manta) entrena a tu cerebro para reconocerla como una señal condicionada para dormir.",
-      "de": "Zehenübungen fördern die Blutzirkulation am entferntesten Punkt vom Herzen, gleichen die Körpertemperatur aus und aktivieren das parasympathische Nervensystem. Wenn Sie diese Handlung jeden Abend im selben Moment wiederholen (direkt nach dem Zudecken), erkennt Ihr Gehirn dies als ein starkes konditioniertes Signal zum Schlafengehen.",
-      "fr": "Les exercices d'orteils favorisent la circulation sanguine au point le plus éloigné du cœur, harmonisant la température corporelle et activant le système nerveux parasympathique. Répéter cette action chaque soir au même moment (juste après s'être couvert) entraîne le cerveau à la reconnaître comme un signal conditionné puissant pour le sommeil.",
-      "pt": "Os exercícios para os dedos dos pés auxiliam a circulação sanguínea no ponto mais distante do coração, equilibrando a temperatura corporal e ativando o sistema nervoso parassimpático. Repetir essa ação todas as noites no mesmo momento (logo após se cobrir) treina seu cérebro para reconhecê-la como um poderoso sinal condicionado para dormir.",
-      "id": "Latihan jari kaki membantu sirkulasi darah di area terjauh dari jantung, meratakan suhu tubuh, dan mengaktifkan sistem saraf parasimpatis. Mengulangi tindakan ini setiap malam pada waktu yang sama (segera setelah memakai selimut) melatih otak Anda untuk mengenalinya sebagai sinyal terkondisi untuk tidur."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 수면 준비 및 이불 속 자세 정돈",
-          "en": "Step 1: Sleep Preparation & Position Alignment Under Blankets",
-          "ja": "ステップ1：睡眠準備と布団の中での姿勢の調整",
-          "zh": "步骤1：准备睡眠与被窝里的姿势调整",
-          "es": "Paso 1: Preparación para el sueño y ajuste de postura bajo las mantas",
-          "de": "Schritt 1: Schlafvorbereitung & Haltung unter der Decke",
-          "fr": "Étape 1 : Préparation au sommeil et ajustement de la posture sous les couvertures",
-          "pt": "Passo 1: Preparação para o sono e ajuste de postura sob as cobertas",
-          "id": "Langkah 1: Persiapan Tidur & Pengaturan Posisi di Bawah Selimut"
-        },
-        "text": {
-          "ko": "잠들기 전 침대에 누워 이불을 덮은 직후, 몸의 긴장을 풀고 발 끝의 감각과 신경에 온전히 집중합니다.",
-          "en": "Lie down in bed before sleeping and right after getting under the blanket, relax your body, and focus entirely on the sensations and nerve endings in your feet.",
-          "ja": "就寝前にベッドに横になり、布団に入った直後、全身の力を抜いて足先の感覚と神経に意識を集中させます。",
-          "zh": "睡前躺在床上盖上被子后，放松全身，将注意力完全集中在脚尖的感觉和神经上。",
-          "es": "Acuéstate en la cama antes de dormir e inmediatamente después de cubrirte con la manta, relaja tu cuerpo y concéntrate por completo en las sensaciones de tus pies.",
-          "de": "Legen Sie sich vor dem Schlafen ins Bett, entspannen Sie Ihren Körper direkt nach dem Zudecken und konzentrieren Sie sich ganz auf das Gefühl in Ihren Füßen.",
-          "fr": "Allongez-vous dans votre lit avant de dormir et juste après vous être couvert, détendez votre corps et concentrez-vous pleinement sur les sensations de vos pieds.",
-          "pt": "Deite-se na cama antes de dormir e, logo após se cobrir, relaxe o corpo e concentre-se totalmente nas sensações e nervos dos pés.",
-          "id": "Berbaringlah di tempat tidur sebelum tidur dan segera setelah memakai selimut, rilekskan tubuh Anda, dan fokuskan perhatian pada sensasi di jari kaki."
-        }
+    "pubDate": "2026-04-28",
+    "updatedDate": "2026-04-28",
+    "heroImage": "/images/blog/tesla_sleep_hack.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "발가락을 100번 오므린 천재? 니콜라 테슬라의 기묘한 숙면 의식",
+        "description": "매일 밤 침대에 누워 발가락을 오므렸던 천재 발명가 니콜라 테슬라. 그의 독특한 루틴 속에 숨겨진 뇌과학적 비밀과 현대인을 위한 3단계 실천법을 소개합니다.",
+        "authority": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
+        "intro": "에디슨과 함께 세상을 밝힌 천재 과학자이자, 교류(AC) 전기 시스템과 무선 통신 기술의 초석을 다진 니콜라 테슬라(Nikola Tesla, 1856~1943). 그가 매일 밤 침대에 누워 아주 기묘한 행동을 반복했다는 사실을 아시나요? ⚡\n\n테슬라는 평소 하루에 단 2시간만 자는 극단적인 수면 패턴을 고수하면서도 지치지 않고 수많은 혁신적 발명을 이어나갔습니다. 그 비결 중 하나는 바로 매일 밤 침대에 누워 양쪽 발가락을 각각 100번씩 꽉 쥐었다 펴는 독특한 수면 리추얼이었습니다.\n\n오늘 포스트에서는 역사적인 천재의 기상천외한 습관 속에 담긴 과학적 원리와, 이를 우리 일상에 적용하는 방법을 소개합니다.",
+        "whyTitle": "뇌세포를 깨우는 신경 스위치, 발가락",
+        "whyDesc": "테슬라는 발가락을 반복적으로 오므리는 사소해 보이는 운동이 발끝에 집중된 수많은 신경을 자극해 뇌세포를 활성화하고, 하루 동안 쌓인 두뇌의 피로를 리셋해 준다고 믿었습니다.\n\n실제로 뇌의 체감각 피질(Somatosensory Cortex)에서 발과 발가락이 차지하는 영역은 손만큼이나 넓습니다. 하루 종일 양말과 신발에 갇혀 무뎌진 발가락을 의도적으로 움직이는 것은 잠자고 있던 신경망을 자극하는 훌륭한 방법입니다.",
+        "cautionTitle": "성공적인 루틴을 위한 뇌과학적 한마디",
+        "cautionDesc": "발가락 운동은 심장에서 가장 먼 곳의 혈액 순환을 도와 체온을 균일하게 만들고, 부교감 신경을 활성화합니다. 매일 밤 같은 타이밍(이불을 덮은 직후)에 이 행동을 반복하면 뇌는 이를 '잠잘 시간'이라는 강력한 조건반사적 신호로 인식하게 됩니다.",
+        "steps": [
+          {
+            "title": "1단계: 수면 준비 및 이불 속 자세 정돈",
+            "desc": "잠들기 전 침대에 누워 이불을 덮은 직후, 몸의 긴장을 풀고 발 끝의 감각과 신경에 온전히 집중합니다."
+          },
+          {
+            "title": "2단계: 발가락 100회 오므리기 리추얼",
+            "desc": "양쪽 발가락을 동시에 꽉 오므렸다가 펴는 동작을 리드미컬하게 각각 100회 반복하며 자율신경을 자극합니다."
+          },
+          {
+            "title": "3단계: 부교감 신경 이완 및 숙면 이행",
+            "desc": "발가락 운동 후 일어나는 온몸의 미세한 온기와 이완감을 느끼며 '잠잘 시간'이라는 뇌의 신호에 따라 자연스럽게 숙면에 빠져듭니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "발가락을 꼼지락거리는 행위가 정말 뇌 활성화에 도움이 되나요?",
+            "answer": "네, 발가락 영역은 전두엽 피질의 신체 감각 지도상에서 뇌 중심부에 위치하고 있어, 발가락 미세 근육을 자극하는 것은 말초 신경을 통해 전두엽을 미세 자극하는 효과가 있습니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 발가락 100회 오므리기 리추얼",
-          "en": "Step 2: The 100-Time Toe Curling Ritual",
-          "ja": "ステップ2：つま先100回曲げ伸ばしリチュアル",
-          "zh": "步骤2：脚趾卷曲100次仪式",
-          "es": "Paso 2: Ritual de encoger los dedos de los pies 100 veces",
-          "de": "Schritt 2: Das Ritual des 100-maligen Zehenkrümmens",
-          "fr": "Étape 2 : Le rituel de crispation des orteils 100 fois",
-          "pt": "Passo 2: O ritual de curvar os dedos dos pés 100 vezes",
-          "id": "Langkah 2: Ritual Mengerutkan Jari Kaki 100 Kali"
-        },
-        "text": {
-          "ko": "양쪽 발가락을 동시에 꽉 오므렸다가 펴는 동작을 리드미컬하게 각각 100회 반복하며 자율신경을 자극합니다.",
-          "en": "Rhythmically flex and extend the toes of both feet simultaneously 100 times, stimulating autonomic nerve pathways.",
-          "ja": "両足のつま先を同時に力強く曲げて伸ばす動作をリズムよく100回繰り返し、自律神経を刺激します。",
-          "zh": "有节奏地同时紧握并伸展双脚脚趾，重复100次，以刺激自主神经。",
-          "es": "Flexiona y extiende rítmicamente los dedos de ambos pies al mismo tiempo 100 veces, estimulando el sistema nervioso autónomo.",
-          "de": "Beugen und strecken Sie rhythmisch und gleichzeitig die Zehen beider Füße 100 Mal, um das autonome Nervensystem zu stimulieren.",
-          "fr": "Contractez et détendez de manière rythmique les orteils des deux pieds simultanément 100 fois, stimulant le système nerveux autonome.",
-          "pt": "Flexione e estenda ritmicamente os dedos de ambos os pés simultaneamente 100 vezes, estimulando o sistema nervoso autônomo.",
-          "id": "Kerutkan dan renggangkan jari-jari kedua kaki secara bersamaan secara ritmis sebanyak 100 kali untuk merangsang saraf otonom."
-        }
+      "en": {
+        "title": "A Genius Who Curled His Toes 100 Times? Nikola Tesla's Bizarre Deep Sleep Ritual",
+        "description": "Genius inventor Nikola Tesla curled his toes in bed every night. Discover the brain science secrets hidden in his unique routine and a 3-step practical guide for modern individuals.",
+        "authority": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
+        "intro": "Did you know that Nikola Tesla (1856–1943), the genius scientist who illuminated the world alongside Edison and laid the foundation for alternating current (AC) power systems and wireless communication, repeated a bizarre ritual every night in bed? ⚡\n\nWhile maintaining an extreme sleep pattern of sleeping just 2 hours a day, Tesla continuously produced groundbreaking inventions without fatigue. One secret to his stamina was his unique bedtime ritual: squeezing and extending his toes 100 times on each foot every night.\n\nIn this post, we explore the scientific principles behind this historic genius's eccentric habit and how you can apply it to your daily life.",
+        "whyTitle": "Toes: The Neural Switch That Awakens Brain Cells",
+        "whyDesc": "Tesla believed that the seemingly trivial motion of repeatedly curling his toes stimulated the numerous nerve endings concentrated at his feet, activating brain cells and resetting accumulated fatigue.\n\nIn reality, the area occupied by the feet and toes in the brain's somatosensory cortex is surprisingly vast—almost as large as that of the hands. Intentionally moving toes that have been trapped in socks and shoes all day is an excellent way to stimulate dormant neural networks.",
+        "cautionTitle": "A Neuroscientific Tip for a Successful Routine",
+        "cautionDesc": "Toe exercises promote blood circulation at the furthest point from the heart, evening out body temperature and stimulating the parasympathetic nervous system. Repeating this action at the exact same moment every night (right after getting under the blanket) trains your brain to recognize it as a powerful conditioned signal for sleep.",
+        "steps": [
+          {
+            "title": "Step 1: Sleep Preparation & Position Alignment Under Blankets",
+            "desc": "Lie down in bed before sleeping and right after getting under the blanket, relax your body, and focus entirely on the sensations and nerve endings in your feet."
+          },
+          {
+            "title": "Step 2: The 100-Time Toe Curling Ritual",
+            "desc": "Rhythmically flex and extend the toes of both feet simultaneously 100 times, stimulating autonomic nerve pathways."
+          },
+          {
+            "title": "Step 3: Parasympathetic Relaxation & Transition to Deep Sleep",
+            "desc": "Feel the subtle warmth and relaxation spreading through your body after the exercise, allowing yourself to naturally drift into deep sleep upon receiving your brain's sleep signal."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does wiggling or curling toes really help activate the brain?",
+            "answer": "Yes! On the somatosensory cortex map of the brain, the toe area is located near the central region. Stimulating the fine muscles of the toes subtly activates the frontal lobe via peripheral nerves."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 부교감 신경 이완 및 숙면 이행",
-          "en": "Step 3: Parasympathetic Relaxation & Transition to Deep Sleep",
-          "ja": "ステップ3：副交感神経の弛緩と熟睡への移行",
-          "zh": "步骤3：副交感神经放松与进入深度睡眠",
-          "es": "Paso 3: Relajación parasimpática y transición al sueño profundo",
-          "de": "Schritt 3: Parasympathische Entspannung & Übergang in den Tiefschlaf",
-          "fr": "Étape 3 : Relaxation parasympathique et transition vers le sommeil profond",
-          "pt": "Passo 3: Relaxamento parassimpático e transição para o sono profundo",
-          "id": "Langkah 3: Relaksasi Parasimpatis & Transisi ke Tidur Nyenyak"
-        },
-        "text": {
-          "ko": "발가락 운동 후 일어나는 온몸의 미세한 온기와 이완감을 느끼며 '잠잘 시간'이라는 뇌의 신호에 따라 자연스럽게 숙면에 빠져듭니다.",
-          "en": "Feel the subtle warmth and relaxation spreading through your body after the exercise, allowing yourself to naturally drift into deep sleep upon receiving your brain's sleep signal.",
-          "ja": "つま先運動の後に訪れる全身の微かな温もりとリラックス感を感じながら、「眠る時間」という脳のサインに従って自然に熟睡へと入ります。",
-          "zh": "感受脚趾运动后遍布全身的微温与放松感，跟随大脑“睡眠”的信号自然沉沉入睡。",
-          "es": "Siente el sutil calor y la relajación que se extienden por tu cuerpo tras el ejercicio, dejándote llevar de forma natural hacia un sueño profundo tras la señal cerebral.",
-          "de": "Spüren Sie die feine Wärme und Entspannung, die sich nach der Übung im Körper ausbreitet, und gleiten Sie nach dem Schlafsignal Ihres Gehirns natürlich in den Tiefschlaf.",
-          "fr": "Ressentez la douce chaleur et la relaxation se diffuser dans votre corps après l'exercice, et laissez-vous glisser naturellement vers un sommeil profond.",
-          "pt": "Sinta o suave calor e relaxamento se espalhando pelo corpo após o exercício, permitindo-se adormecer naturalmente ao receber o sinal do cérebro.",
-          "id": "Rasakan kehangatan dan relaksasi lembut yang menyebar ke seluruh tubuh setelah latihan, lalu biarkan diri Anda tertidur nyenyak mengikuti sinyal tidur dari otak."
-        }
+      "zh": {
+        "title": "将脚趾卷曲100次的天才？尼古拉·特斯拉的奇妙熟睡仪式",
+        "description": "天才发明家尼古拉·特斯拉每晚躺在床上都会卷曲脚趾。探索隐藏在他独特习惯中的大脑科学秘密，以及适合现代人的3步实践指南。",
+        "authority": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
+        "intro": "您知道与爱迪生一起照亮世界的天才科学家、为交流电（AC）电力系统和无线通信技术奠定基础的尼古拉·特斯拉（Nikola Tesla，1856-1943）每晚躺在床上都会重复一个奇特的习惯吗？⚡\n\n虽然特斯拉维持着每天仅睡2小时的极端睡眠模式，但他依然不知疲倦地推陈出新，做出了无数革命性发明。他的精力秘诀之一，就是每晚躺在床上将每只脚的脚趾紧握并伸展100次。\n\n在本文中，我们将探讨这位历史天才古怪习惯背后的科学原理，以及如何将其应用到我们的日常生活中。",
+        "whyTitle": "唤醒脑细胞的神经开关：脚趾",
+        "whyDesc": "特斯拉相信，这种看似微不足道的反复卷曲脚趾的运动，能刺激集中在脚尖的众多神经，激活脑细胞并重置累积的大脑疲劳。\n\n实际上，在大脑的躯体感觉皮层（Somatosensory Cortex）中，脚和脚趾所占的区域与手部几乎一样广阔。刻意活动整天束缚在袜子和鞋子里的脚趾，是刺激休眠神经网络的绝佳方法。",
+        "cautionTitle": "成功习惯的神经科学建议",
+        "cautionDesc": "脚趾运动有助于促进远离心脏部位的血液循环，使体温保持均匀，并激活副交感神经。每天晚上在相同的时间（刚盖上被子后）重复这一动作，大脑就会将其识别为强有力的条件反射“睡眠信号”。",
+        "steps": [
+          {
+            "title": "步骤1：准备睡眠与被窝里的姿势调整",
+            "desc": "睡前躺在床上盖上被子后，放松全身，将注意力完全集中在脚尖的感觉和神经上。"
+          },
+          {
+            "title": "步骤2：脚趾卷曲100次仪式",
+            "desc": "有节奏地同时紧握并伸展双脚脚趾，重复100次，以刺激自主神经。"
+          },
+          {
+            "title": "步骤3：副交感神经放松与进入深度睡眠",
+            "desc": "感受脚趾运动后遍布全身的微温与放松感，跟随大脑“睡眠”的信号自然沉沉入睡。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "动脚趾真的有助于激活大脑吗？",
+            "answer": "是的！在大脑躯体感觉皮层地图上，脚趾区域位于中心附近。刺激脚趾的微小肌肉可以通过外周神经微妙地刺激前额叶。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "つま先を100回曲げた天才？ニコラ・テスラの奇妙な熟睡儀式",
+        "description": "毎晩ベッドに横になってつま先を曲げていた天才発明家ニコラ・テスラ。彼のユニークなルーティンに隠された脳科学の秘密と現代人のための3ステップ実践法を紹介します。",
+        "authority": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
+        "intro": "エジソンと共に世界を照らした天才科学者であり、交流（AC）電気システムと無線通信技術の礎を築いたニコラ・テスラ（Nikola Tesla、1856〜1943）。彼が毎晩ベッドに横になって奇妙な行動を繰り返していたことをご存知ですか？ ⚡\n\nテスラは普段、1日にわずか2時間しか眠らない極端な睡眠パターンを維持しながらも、疲れることなく数多くの革新的な発明を続けました。その秘訣の一つが、毎晩ベッドで両足のつま先をそれぞれ100回ずつ力強く曲げて伸ばすユニークな睡眠リチュアルでした。\n\n本記事では、歴史的天才の奇天烈な習慣に込められた科学的原理と、それを日常生活に応用する方法をご紹介します。",
+        "whyTitle": "脳細胞を呼び醒ます神経スイッチ、つま先",
+        "whyDesc": "テスラは、つま先を繰り返し曲げる一見ささやかな運動が、足下に集中する多数の神経を刺激して脳細胞を活性化し、一日の脳の疲労をリセットすると信じていました。\n\n実際、脳の体性感覚野（Somatosensory Cortex）において足とつま先が占める領域は、手と同じくらい広いのです。一日中靴下や靴の中に閉じ込められて鈍くなったつま先を意識的に動かすことは、眠っていた神経回路を刺激する優れた方法です。",
+        "cautionTitle": "成功するルーティンのための脳科学的アドバイス",
+        "cautionDesc": "つま先の運動は、心臓から最も遠い場所の血液循環を助けて体温を均一にし、副交感神経を活性化します。毎晩同じタイミング（布団に入った直後）にこの行動を繰り返すと、脳はそれを「眠る時間」という強力な条件反射的シグナルとして認識するようになります。",
+        "steps": [
+          {
+            "title": "ステップ1：睡眠準備と布団の中での姿勢の調整",
+            "desc": "就寝前にベッドに横になり、布団に入った直後、全身の力を抜いて足先の感覚と神経に意識を集中させます。"
+          },
+          {
+            "title": "ステップ2：つま先100回曲げ伸ばしリチュアル",
+            "desc": "両足のつま先を同時に力強く曲げて伸ばす動作をリズムよく100回繰り返し、自律神経を刺激します。"
+          },
+          {
+            "title": "ステップ3：副交感神経の弛緩と熟睡への移行",
+            "desc": "つま先運動の後に訪れる全身の微かな温もりとリラックス感を感じながら、「眠る時間」という脳のサインに従って自然に熟睡へと入ります。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "つま先を曲げたり動かしたりする行為は本当に脳の活性化に役立ちますか？",
+            "answer": "はい、体性感覚野の身体マップにおいてつま先領域は脳の中心近くに位置しており、つま先の微小な筋肉を刺激することは末梢神経を通じて前頭葉を刺激する効果があります。"
+          }
+        ]
+      },
+      "es": {
+        "title": "¿Un genio que encogía los dedos de los pies 100 veces? El extraño ritual de sueño profundo de Nikola Tesla",
+        "description": "El genio inventor Nikola Tesla encogía los dedos de los pies en la cama todas las noches. Descubra los secretos de la neurociencia ocultos en su rutina única y una guía práctica de 3 pasos.",
+        "authority": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
+        "intro": "¿Sabías que Nikola Tesla (1856–1943), el genio científico que iluminó el mundo junto a Edison y sentó las bases de la corriente alterna (CA) y las comunicaciones inalámbricas, repetía un extraño ritual cada noche en la cama? ⚡\n\nA pesar de mantener un patrón de sueño extremo de tan solo 2 horas al día, Tesla creó continuamente invenciones revolucionarias sin agotamiento. Uno de los secretos de su vitalidad era su ritual nocturno: apretar y estirar los dedos de cada pie 100 veces todas las noches.\n\nEn este artículo, exploramos los principios científicos detrás de este hábito excéntrico del genio histórico y cómo puedes aplicarlo a tu vida diaria.",
+        "whyTitle": "Los dedos de los pies: El interruptor neuronal que despierta las células cerebrales",
+        "whyDesc": "Tesla creía que el movimiento aparentemente trivial de encoger repetidamente los dedos de los pies estimulaba las numerosas terminaciones nerviosas concentradas en los pies, activando las células cerebrales y reiniciando la fatiga acumulada.\n\nEn realidad, el área que ocupan los pies y los dedos en la corteza somatosensorial del cerebro es sorprendentemente amplia. Mover intencionadamente los dedos de los pies tras haber estado encerrados todo el día es una forma excelente de estimular las redes neuronales inactivas.",
+        "cautionTitle": "Un consejo neurocientífico para una rutina exitosa",
+        "cautionDesc": "Los ejercicios para los dedos de los pies mejoran la circulación sanguínea en la zona más distante del corazón, equilibrando la temperatura corporal y activando el sistema nervioso parasimpático. Repetir esta acción cada noche al mismo tiempo (justo después de cubrirse con la manta) entrena a tu cerebro para reconocerla como una señal condicionada para dormir.",
+        "steps": [
+          {
+            "title": "Paso 1: Preparación para el sueño y ajuste de postura bajo las mantas",
+            "desc": "Acuéstate en la cama antes de dormir e inmediatamente después de cubrirte con la manta, relaja tu cuerpo y concéntrate por completo en las sensaciones de tus pies."
+          },
+          {
+            "title": "Paso 2: Ritual de encoger los dedos de los pies 100 veces",
+            "desc": "Flexiona y extiende rítmicamente los dedos de ambos pies al mismo tiempo 100 veces, estimulando el sistema nervioso autónomo."
+          },
+          {
+            "title": "Paso 3: Relajación parasimpática y transición al sueño profundo",
+            "desc": "Siente el sutil calor y la relajación que se extienden por tu cuerpo tras el ejercicio, dejándote llevar de forma natural hacia un sueño profundo tras la señal cerebral."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Realmente ayuda mover o encoger los dedos de los pies a activar el cerebro?",
+            "answer": "¡Sí! En el mapa de la corteza somatosensorial del cerebro, el área de los dedos de los pies está cerca de la región central. Estimular sus pequeños músculos activa el lóbulo frontal a través de los nervios periféricos."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Un génie qui crispait ses orteils 100 fois ? Le rituel de sommeil profond bizarre de Nikola Tesla",
+        "description": "L'inventeur de génie Nikola Tesla crispait ses orteils au lit chaque nuit. Découvrez les secrets neuroscientifiques cachés dans sa routine unique et un guide pratique en 3 étapes.",
+        "authority": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
+        "intro": "Saviez-vous que Nikola Tesla (1856–1943), le scientifique de génie qui a illuminé le monde aux côtés d'Edison et posé les bases du courant alternatif (CA) et de la communication sans fil, répétait un rituel étrange chaque nuit au lit ? ⚡\n\nTout en conservant un rythme de sommeil extrême de seulement 2 heures par jour, Tesla a produit sans relâche des inventions révolutionnaires. Un des secrets de son endurance résidait dans son rituel nocturne : crisper et détendre ses orteils 100 fois sur chaque pied chaque soir.\n\nDans cet article, nous explorons les principes scientifiques derrière l'habitude excentrique de ce génie historique et comment l'appliquer dans votre vie quotidienne.",
+        "whyTitle": "Les orteils : L'interrupteur neuronal qui éveille les cellules cérébrales",
+        "whyDesc": "Tesla pensait que le mouvement en apparence anodin de crisper ses orteils stimulait les nombreuses terminaisons nerveuses concentrées dans les pieds, activant les cellules cérébrales et réinitialisant la fatigue cumulative.\n\nEn réalité, la zone occupée par les pieds et les orteils dans le cortex somatosensoriel du cerveau est étonnamment vaste. Bouger intentionnellement les orteils restés enfermés toute la journée est un moyen parfait de stimuler les réseaux neuronaux dormants.",
+        "cautionTitle": "Un conseil neuroscientifique pour une routine réussie",
+        "cautionDesc": "Les exercices d'orteils favorisent la circulation sanguine au point le plus éloigné du cœur, harmonisant la température corporelle et activant le système nerveux parasympathique. Répéter cette action chaque soir au même moment (juste après s'être couvert) entraîne le cerveau à la reconnaître comme un signal conditionné puissant pour le sommeil.",
+        "steps": [
+          {
+            "title": "Étape 1 : Préparation au sommeil et ajustement de la posture sous les couvertures",
+            "desc": "Allongez-vous dans votre lit avant de dormir et juste après vous être couvert, détendez votre corps et concentrez-vous pleinement sur les sensations de vos pieds."
+          },
+          {
+            "title": "Étape 2 : Le rituel de crispation des orteils 100 fois",
+            "desc": "Contractez et détendez de manière rythmique les orteils des deux pieds simultanément 100 fois, stimulant le système nerveux autonome."
+          },
+          {
+            "title": "Étape 3 : Relaxation parasympathique et transition vers le sommeil profond",
+            "desc": "Ressentez la douce chaleur et la relaxation se diffuser dans votre corps après l'exercice, et laissez-vous glisser naturellement vers un sommeil profond."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bouger ou crisper les orteils aide-t-il vraiment à activer le cerveau ?",
+            "answer": "Oui ! Sur la carte du cortex somatosensoriel, la zone des orteils est située près du centre. Stimuler les muscles fins des orteils active le lobe frontal via les nerfs périphériques."
+          }
+        ]
+      },
+      "de": {
+        "title": "Ein Genie, das 100 Mal die Zehen krümmte? Nikola Teslas skurriles Tiefschlaf-Ritual",
+        "description": "Genie und Erfinder Nikola Tesla krümmte jeden Abend im Bett seine Zehen. Entdecken Sie die neurowissenschaftlichen Geheimnisse hinter seiner einzigartigen Routine und eine 3-Schritte-Anleitung.",
+        "authority": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
+        "intro": "Wussten Sie, dass Nikola Tesla (1856–1943), das wissenschaftliche Genie, das zusammen mit Edison die Welt erleuchtete und die Grundlagen für Wechselstromsysteme (AC) und drahtlose Kommunikation legte, jeden Abend im Bett ein skurriles Ritual wiederholte? ⚡\n\nObwohl er ein extremes Schlafmuster von nur 2 Stunden pro Tag pflegte, erfand Tesla unermüdlich bahnbrechende Innovationen. Ein Geheimnis seiner Ausdauer war sein nächtliches Ritual: Er krümmte und streckte jeden Abend an jedem Fuß 100 Mal die Zehen.\n\nIn diesem Beitrag untersuchen wir die wissenschaftlichen Prinzipien hinter der eigenartigen Angewohnheit dieses historischen Genies und wie Sie sie in Ihren Alltag integrieren können.",
+        "whyTitle": "Zehen: Der neuronale Schalter, der Gehirnzellen weckt",
+        "whyDesc": "Tesla glaubte, dass die scheinbar unbedeutende Bewegung des wiederholten Zehenkrümmens die zahlreichen Nervenenden an den Füßen stimulierte, Gehirnzellen aktivierte und die mentale Ermüdung zurücksetzte.\n\nTatsächlich ist der Bereich, den Füße und Zehen im somatosensorischen Kortex des Gehirns einnehmen, erstaunlich groß. Das bewusste Bewegen der Zehen nach einem langen Tag in Socken und Schuhen ist eine hervorragende Methode, um ruhende neuronale Netzwerke zu stimulieren.",
+        "cautionTitle": "Ein neurowissenschaftlicher Tipp für eine erfolgreiche Routine",
+        "cautionDesc": "Zehenübungen fördern die Blutzirkulation am entferntesten Punkt vom Herzen, gleichen die Körpertemperatur aus und aktivieren das parasympathische Nervensystem. Wenn Sie diese Handlung jeden Abend im selben Moment wiederholen (direkt nach dem Zudecken), erkennt Ihr Gehirn dies als ein starkes konditioniertes Signal zum Schlafengehen.",
+        "steps": [
+          {
+            "title": "Schritt 1: Schlafvorbereitung & Haltung unter der Decke",
+            "desc": "Legen Sie sich vor dem Schlafen ins Bett, entspannen Sie Ihren Körper direkt nach dem Zudecken und konzentrieren Sie sich ganz auf das Gefühl in Ihren Füßen."
+          },
+          {
+            "title": "Schritt 2: Das Ritual des 100-maligen Zehenkrümmens",
+            "desc": "Beugen und strecken Sie rhythmisch und gleichzeitig die Zehen beider Füße 100 Mal, um das autonome Nervensystem zu stimulieren."
+          },
+          {
+            "title": "Schritt 3: Parasympathische Entspannung & Übergang in den Tiefschlaf",
+            "desc": "Spüren Sie die feine Wärme und Entspannung, die sich nach der Übung im Körper ausbreitet, und gleiten Sie nach dem Schlafsignal Ihres Gehirns natürlich in den Tiefschlaf."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Hilft das Bewegen oder Krümmen der Zehen wirklich, das Gehirn zu aktivieren?",
+            "answer": "Ja! Auf der Karte des somatosensorischen Kortex liegt der Zehenbereich nahe der Mitte. Die Stimulation der feinen Zehenmuskeln aktiviert über periphere Nerven leicht den Frontallappen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Um gênio que curvava os dedos dos pés 100 vezes? O estranho ritual de sono profundo de Nikola Tesla",
+        "description": "O inventor genial Nikola Tesla curvava os dedos dos pés na cama todas as noites. Descubra os segredos da neurociência escondidos em sua rotina única e um guia prático de 3 passos.",
+        "authority": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
+        "intro": "Você sabia que Nikola Tesla (1856–1943), o cientista genial que iluminou o mundo ao lado de Edison e lançou as bases do sistema elétrico de corrente alternada (CA) e das comunicações sem fio, repetia um estranho ritual todas as noites na cama? ⚡\n\nMesmo mantendo um padrão de sono extremo de apenas 2 horas por dia, Tesla continuou criando invenções revolucionárias sem se esgotar. Um dos segredos de sua estamina era seu ritual noturno: apertar e esticar os dedos de cada pé 100 vezes todas as noites.\n\nNeste post, exploramos os princípios científicos por trás desse hábito excéntrico do gênio histórico e como você pode aplicá-lo ao seu dia a dia.",
+        "whyTitle": "Dedos dos pés: O interruptor neural que desperta as células cerebrais",
+        "whyDesc": "Tesla acreditava que o movimento aparentemente trivial de curvar repetidamente os dedos dos pés estimulava as numerosas terminações nervosas concentradas nos pés, ativando as células cerebrais e reiniciando a fadiga mental.\n\nNa realidade, a área ocupada pelos pés e dedos no córtex somatossensorial do cérebro é surpreendentemente ampla. Mover intencionalmente os dedos dos pés após passarem o dia presos em meias e sapatos é uma excelente maneira de estimular redes neurais adormecidas.",
+        "cautionTitle": "Uma dica neurocientífica para uma rotina de sucesso",
+        "cautionDesc": "Os exercícios para os dedos dos pés auxiliam a circulação sanguínea no ponto mais distante do coração, equilibrando a temperatura corporal e ativando o sistema nervoso parassimpático. Repetir essa ação todas as noites no mesmo momento (logo após se cobrir) treina seu cérebro para reconhecê-la como um poderoso sinal condicionado para dormir.",
+        "steps": [
+          {
+            "title": "Passo 1: Preparação para o sono e ajuste de postura sob as cobertas",
+            "desc": "Deite-se na cama antes de dormir e, logo após se cobrir, relaxe o corpo e concentre-se totalmente nas sensações e nervos dos pés."
+          },
+          {
+            "title": "Passo 2: O ritual de curvar os dedos dos pés 100 vezes",
+            "desc": "Flexione e estenda ritmicamente os dedos de ambos os pés simultaneamente 100 vezes, estimulando o sistema nervoso autônomo."
+          },
+          {
+            "title": "Passo 3: Relaxamento parassimpático e transição para o sono profundo",
+            "desc": "Sinta o suave calor e relaxamento se espalhando pelo corpo após o exercício, permitindo-se adormecer naturalmente ao receber o sinal do cérebro."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mover ou curvar os dedos dos pés realmente ajuda a ativar o cérebro?",
+            "answer": "Sim! No mapa do córtex somatossensorial, a área dos dedos dos pés fica próxima ao centro. Estimular os pequenos músculos dos pés ativa suavemente o lobo frontal através dos nervos periféricos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Jenius yang Mengerutkan Jari Kaki 100 Kali? Ritual Tidur Nyenyak Ajaib Nikola Tesla",
+        "description": "Penemu jenius Nikola Tesla mengerutkan jari kakinya di tempat tidur setiap malam. Temukan rahasia sains otak yang tersembunyi dalam rutinitas uniknya dan panduan praktis 3 langkah.",
+        "authority": "Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*",
+        "intro": "Tahukah Anda bahwa Nikola Tesla (1856–1943), ilmuwan jenius yang menerangi dunia bersama Edison dan meletakkan dasar bagi sistem listrik arus bolak-balik (AC) serta komunikasi nirkabel, mengulangi ritual ajaib setiap malam di tempat tidur? ⚡\n\nMeskipun menjaga pola tidur ekstrem hanya 2 jam sehari, Tesla terus menghasilkan penemuan revolusioner tanpa kenal lelah. Salah satu rahasia staminanya adalah ritual sebelum tidur yang unik: mengepal dan merenggangkan jari-jari di setiap kakinya sebanyak 100 kali setiap malam.\n\nDalam postingan ini, kami mengeksplorasi prinsip-prinsip ilmiah di balik kebiasaan eksentrik jenius bersejarah ini dan bagaimana Anda dapat menerapkannya dalam kehidupan sehari-hari.",
+        "whyTitle": "Jari Kaki: Sakelar Saraf yang Membangunkan Sel-Sel Otak",
+        "whyDesc": "Tesla percaya bahwa gerakan sederhana mengerutkan jari kaki secara berulang merangsang banyak ujung saraf di kaki, mengaktifkan sel-sel otak, dan memulihkan kelelahan mental.\n\nFaktanya, area yang ditempati oleh kaki dan jari kaki di korteks somatosensori otak sangat luas. Menggerakkan jari kaki secara sengaja setelah seharian terkurung dalam kaus kaki dan sepatu adalah cara luar biasa untuk merangsang jaringan saraf yang tertidur.",
+        "cautionTitle": "Tip Neurosains untuk Rutinitas yang Sukses",
+        "cautionDesc": "Latihan jari kaki membantu sirkulasi darah di area terjauh dari jantung, meratakan suhu tubuh, dan mengaktifkan sistem saraf parasimpatis. Mengulangi tindakan ini setiap malam pada waktu yang sama (segera setelah memakai selimut) melatih otak Anda untuk mengenalinya sebagai sinyal terkondisi untuk tidur.",
+        "steps": [
+          {
+            "title": "Langkah 1: Persiapan Tidur & Pengaturan Posisi di Bawah Selimut",
+            "desc": "Berbaringlah di tempat tidur sebelum tidur dan segera setelah memakai selimut, rilekskan tubuh Anda, dan fokuskan perhatian pada sensasi di jari kaki."
+          },
+          {
+            "title": "Langkah 2: Ritual Mengerutkan Jari Kaki 100 Kali",
+            "desc": "Kerutkan dan renggangkan jari-jari kedua kaki secara bersamaan secara ritmis sebanyak 100 kali untuk merangsang saraf otonom."
+          },
+          {
+            "title": "Langkah 3: Relaksasi Parasimpatis & Transisi ke Tidur Nyenyak",
+            "desc": "Rasakan kehangatan dan relaksasi lembut yang menyebar ke seluruh tubuh setelah latihan, lalu biarkan diri Anda tertidur nyenyak mengikuti sinyal tidur dari otak."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah mengerutkan jari kaki benar-benar membantu mengaktifkan otak?",
+            "answer": "Ya! Pada peta korteks somatosensori otak, area jari kaki terletak di dekat bagian tengah. Merangsang otot-otot halus jari kaki secara halus mengaktifkan lobus frontal melalui saraf tepi."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "발가락을 꼼지락거리는 행위가 정말 뇌 활성화에 도움이 되나요?",
-          "en": "Does wiggling or curling toes really help activate the brain?",
-          "ja": "つま先を曲げたり動かしたりする行為は本当に脳の活性化に役立ちますか？",
-          "zh": "动脚趾真的有助于激活大脑吗？",
-          "es": "¿Realmente ayuda mover o encoger los dedos de los pies a activar el cerebro?",
-          "de": "Hilft das Bewegen oder Krümmen der Zehen wirklich, das Gehirn zu aktivieren?",
-          "fr": "Bouger ou crisper les orteils aide-t-il vraiment à activer le cerveau ?",
-          "pt": "Mover ou curvar os dedos dos pés realmente ajuda a ativar o cérebro?",
-          "id": "Apakah mengerutkan jari kaki benar-benar membantu mengaktifkan otak?"
-        },
-        "answer": {
-          "ko": "네, 발가락 영역은 전두엽 피질의 신체 감각 지도상에서 뇌 중심부에 위치하고 있어, 발가락 미세 근육을 자극하는 것은 말초 신경을 통해 전두엽을 미세 자극하는 효과가 있습니다.",
-          "en": "Yes! On the somatosensory cortex map of the brain, the toe area is located near the central region. Stimulating the fine muscles of the toes subtly activates the frontal lobe via peripheral nerves.",
-          "ja": "はい、体性感覚野の身体マップにおいてつま先領域は脳の中心近くに位置しており、つま先の微小な筋肉を刺激することは末梢神経を通じて前頭葉を刺激する効果があります。",
-          "zh": "是的！在大脑躯体感觉皮层地图上，脚趾区域位于中心附近。刺激脚趾的微小肌肉可以通过外周神经微妙地刺激前额叶。",
-          "es": "¡Sí! En el mapa de la corteza somatosensorial del cerebro, el área de los dedos de los pies está cerca de la región central. Estimular sus pequeños músculos activa el lóbulo frontal a través de los nervios periféricos.",
-          "de": "Ja! Auf der Karte des somatosensorischen Kortex liegt der Zehenbereich nahe der Mitte. Die Stimulation der feinen Zehenmuskeln aktiviert über periphere Nerven leicht den Frontallappen.",
-          "fr": "Oui ! Sur la carte du cortex somatosensoriel, la zone des orteils est située près du centre. Stimuler les muscles fins des orteils active le lobe frontal via les nerfs périphériques.",
-          "pt": "Sim! No mapa do córtex somatossensorial, a área dos dedos dos pés fica próxima ao centro. Estimular os pequenos músculos dos pés ativa suavemente o lobo frontal através dos nervos periféricos.",
-          "id": "Ya! Pada peta korteks somatosensori otak, area jari kaki terletak di dekat bagian tengah. Merangsang otot-otot halus jari kaki secara halus mengaktifkan lobus frontal melalui saraf tepi."
-        }
-      }
-    ]
+    }
   }
 }

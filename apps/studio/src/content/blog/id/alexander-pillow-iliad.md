@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "'Iliad di Bawah Bantal' Alexander Agung: Membaca Visi Malam Hari yang Menopang Tantangan Besar"
 description: "Alexander Agung tidak pernah kehilangan keberanian di medan perang, menyimpan belati dan Iliad di bawah bantalnya setiap malam. Pelajari kekuatan membaca visi yang merangsang alam bawah sadar."
 pubDate: "2026-01-23"
@@ -35,17 +36,17 @@ Dalam postingan hari ini, kami memperkenalkan landasan ilmiah dari rutinitas 'Il
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai alexander-pillow-iliad didasarkan pada <strong>Verifikasi Historis dari *Life of Alexander* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Life of Alexander* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Membaca Berorientasi Nilai yang Mendorong Penyelarasan Alam Bawah Sadar
+## 1. Membaca Berorientasi Nilai yang Mendorong Penyelarasan Alam Bawah Sadar
 
 Saat otak mulai tertidur, gelombang otak beralih ke gelombang alfa dan teta, dan informasi yang masuk selama waktu ini mencapai hipokampus (penyimpanan memori jangka panjang) serta bagian dalam korteks serebral (yang membentuk alam bawah sadar) jauh lebih mudah daripada biasanya.
 
@@ -53,9 +54,7 @@ Iliad yang dibaca Alexander Agung sebelum tidur bukan sekadar pengisi waktu luan
 
 ---
 
-## Teks yang Anda Baca Menentukan Alam Bawah Sadar Anda
-
-Mengonsumsi konten larut malam yang memicu rasa takut, cemburu, atau kritik—seperti media sosial atau berita—akan menyelaraskan alam bawah sadar Anda dengan stimulasi negatif, yang mengganggu tidur nyenyak dan membuat Anda terbangun dalam kondisi lelah di pagi hari. Letakkan buku-buku klasik yang luhur atau buku yang meningkatkan nilai diri Anda di samping tempat tidur secara sengaja.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Mengonsumsi konten larut malam yang memicu rasa takut, cemburu, atau kritik—se
   </p>
 </div>
 
+---
+
+## 3. Teks yang Anda Baca Menentukan Alam Bawah Sadar Anda
+
+Mengonsumsi konten larut malam yang memicu rasa takut, cemburu, atau kritik—seperti media sosial atau berita—akan menyelaraskan alam bawah sadar Anda dengan stimulasi negatif, yang mengganggu tidur nyenyak dan membuat Anda terbangun dalam kondisi lelah di pagi hari. Letakkan buku-buku klasik yang luhur atau buku yang meningkatkan nilai diri Anda di samping tempat tidur secara sengaja.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah membaca novel atau komik sebelum tidur memiliki efek yang sama dengan rutinitas membaca klasik visi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Mengonsumsi konten larut malam yang memicu rasa takut, cemburu, atau kritik—se
       Fiksi ringan juga menawarkan efek mendinginkan yang meredakan stres otak, tetapi untuk mencapai efek 'motivasi berorientasi nilai' yang menyelaraskan identitas diri dan menginspirasi kekuatan kehendak eksekusi seperti rutinitas Alexander, jauh lebih baik memilih epik klasik, buku filsafat, atau biografi tokoh-tokoh besar yang memberikan resonansi dan refleksi mendalam.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah boleh membaca buku menggunakan e-book reader sambil berbaring?</span>

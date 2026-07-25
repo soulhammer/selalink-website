@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Perdana Menteri yang Membagi Harinya Menjadi Dua: Rutinitas Tidur Siang dan Pembersihan Adenosin ala Winston Churchill"
 description: "Pelajari bagaimana Perdana Menteri Inggris Winston Churchill, yang memimpin Sekutu menuju kemenangan dalam Perang Dunia II, melakukan tidur siang harian selama 1,5 jam di tempat tidur. Temukan neurosains kognitif tentang pembersihan adenosin yang terakumulasi dan pemulihan kewaspadaan otak."
 pubDate: "2026-04-24"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'tidur
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai churchill-afternoon-nap didasarkan pada <strong>Verifikasi Historis dari Biografi Martin Gilbert *Winston S. Churchill* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Martin Gilbert *Winston S. Churchill* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pembersihan Adenosin dan Pemulihan Kewaspadaan Kognitif Tanpa Inersia Tidur
+## 1. Pembersihan Adenosin dan Pemulihan Kewaspadaan Kognitif Tanpa Inersia Tidur
 
 Selama jam-jam bangun, produk sampingan neurokimia 'adenosin' secara terus menerus terakumulasi di otak, menghasilkan tekanan tidur. Ketika adenosin berikatan dengan reseptor prefrontal, pemrosesan eksekutif melambat dan pengambilan keputusan memburuk. Tidur siang singkat (power nap 20 menit atau siklus tidur 90 menit penuh) dengan cepat mendegradasi adenosin yang terakumulasi. Khususnya, tidur siang 20 menit memicu terbangun sebelum otak memasuki tidur gelombang lambat NREM Tahap 3, mencegah 'Inersia Tidur' (pusing pasca-terbangun) sambil secara instan memulihkan kewaspadaan prefrontal.
 
 ---
 
-## Perhatian & Tip: Mencegah Gangguan Tidur Malam & Membatasi Durasi Tidur Siang
-
-Aturan utama dari rutinitas tidur siang adalah meredakan kelelahan tengah hari tanpa menguras tekanan tidur malam hari. Tidur siang setelah pukul 15.00 atau tidur terlalu lama mengganggu awalan tidur malam, memicu siklus insomnia. Bagi pekerja pengetahuan modern, 'Power Nap' 15 hingga 20 menit adalah yang paling optimal. Tidur siang lebih dari 30 menit mendorong otak ke dalam tidur NREM Tahap 3 yang dalam, menghasilkan inersia tidur yang parah saat terbangun.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Aturan utama dari rutinitas tidur siang adalah meredakan kelelahan tengah hari t
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mencegah Gangguan Tidur Malam & Membatasi Durasi Tidur Siang
+
+Aturan utama dari rutinitas tidur siang adalah meredakan kelelahan tengah hari tanpa menguras tekanan tidur malam hari. Tidur siang setelah pukul 15.00 atau tidur terlalu lama mengganggu awalan tidur malam, memicu siklus insomnia. Bagi pekerja pengetahuan modern, 'Power Nap' 15 hingga 20 menit adalah yang paling optimal. Tidur siang lebih dari 30 menit mendorong otak ke dalam tidur NREM Tahap 3 yang dalam, menghasilkan inersia tidur yang parah saat terbangun.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa perbedaan antara tidur siang 1,5 jam di tempat tidur ala Churchill saat Perang Dunia II dan power nap 20 menit modern?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Aturan utama dari rutinitas tidur siang adalah meredakan kelelahan tengah hari t
       Tidur siang 1,5 jam ala Churchill mengompensasi tidur malam yang terbatas (4–5 jam) dengan mencakup siklus 90 menit penuh yang mencakup tahap NREM dan REM. Sebaliknya, power nap 20 menit modern mempertahankan tidur malam normal 7 jam, tetap berada dalam tahap NREM 1–2 yang ringan untuk membersihkan adenosin secara instan tanpa inersia tidur.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah tidur siang 20 menit tidak berguna jika saya memejamkan mata tetapi gagal untuk benar-benar tertidur?</span>

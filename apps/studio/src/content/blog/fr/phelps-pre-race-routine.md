@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Éliminer la pression : La routine hyper-cognitive de 2 heures avant-course de Michael Phelps"
 description: "La routine comportementale ultra-précise exécutée juste avant la course par Michael Phelps, l'athlète le plus titré des Jeux olympiques. Découvrez les principes scientifiques démontrant comment des procédures contrôlées préviennent la tension et l'anxiété."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ Dans cet article, nous décryptons les mécanismes neuroscientifiques de la 'Rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant phelps-pre-race-routine est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques de Michael Phelps et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques de Michael Phelps et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La science démontrant comment les routines préalables apaisent l'anxiété
+## 1. La science démontrant comment les routines préalables apaisent l'anxiété
 
 Avant une compétition ou une présentation, l'état le plus risqué pour le cerveau est 'l'incertitude' et l'anxiété qui l'accompagne. Face à l'imprévisible, l'<strong>amygdale</strong>, centre d'alerte émotionnel du cerveau, s'échauffe et libère des hormones de stress. Toutefois, exécuter une série d'actions physiques parfaitement maîtrisées et répétées des centaines de fois amène le cerveau à percevoir qu'il contrôle la situation, réduisant l'hyperactivité de l'amygdale et optimisant la sécrétion d'adrénaline.
 
 ---
 
-## Précautions et conseils
-
-Notez que cette routine n'est ni une superstition ni un talisman magique. Michael Phelps a construit des connexions synaptiques solides entre sa routine et la relaxation physique grâce à un entraînement <strong>mécanique et répété</strong> à long terme. Ne vous découragez donc pas en cas d'échec initial ; une pratique régulière est essentielle pour ancrer votre routine.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Notez que cette routine n'est ni une superstition ni un talisman magique. Michae
     Après les actions physiques, visualisez mentalement un scénario de réussite parfaite pour apaiser le centre de l'anxiété et atteindre un état de préparation totale.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Notez que cette routine n'est ni une superstition ni un talisman magique. Michael Phelps a construit des connexions synaptiques solides entre sa routine et la relaxation physique grâce à un entraînement <strong>mécanique et répété</strong> à long terme. Ne vous découragez donc pas en cas d'échec initial ; une pratique régulière est essentielle pour ancrer votre routine.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

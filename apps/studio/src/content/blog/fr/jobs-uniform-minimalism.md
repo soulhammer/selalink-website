@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le génie qui portait toujours les mêmes vêtements : La routine de minimalisme décisionnel et de préservation des ressources cognitives préfrontales de Steve Jobs"
 description: "Découvrez comment le cofondateur d'Apple, Steve Jobs, préservait son énergie cognitive en portant chaque jour un uniforme identique composé d'un col roulé noir et d'un jean. Explorez la neuroscience de la fatigue décisionnelle et de l'allocation des ressources préfrontales."
 pubDate: "2026-06-25"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la psychologie cognitive et la neuroscience sou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant jobs-uniform-minimalism est basée sur <strong>Vérification Historique issue de la biographie *Steve Jobs* (2011) de Walter Isaacson, des archives d'Apple & de la Recherche en Psychologie Cognitives et Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie *Steve Jobs* (2011) de Walter Isaacson, des archives d'Apple & de la Recherche en Psychologie Cognitives et Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Élimination de la fatigue décisionnelle et préservation des ressources cognitives préfrontales
+## 1. Élimination de la fatigue décisionnelle et préservation des ressources cognitives préfrontales
 
 Le cortex préfrontal humain dispose d'un capital d'énergie quotidienne limité. Consommer des ressources cognitives dès le matin pour choisir ses vêtements induit la <strong>Fatigue décisionnelle (Decision Fatigue)</strong>. L'habitude de Steve Jobs de porter un uniforme fixe supprimait les micro-décisions matinales. En libérant de la bande passante dans le <strong>Cortex Préfrontal</strong>, il préservait toute son attention pour l'innovation et la stratégie.
 
 ---
 
-## Mise en garde : Transformer les choix quotidiens en constantes pour économiser l'énergie
-
-L'essence du minimalisme vestimentaire ne réside pas dans la monotonie, mais dans l'élimination des micro-décisions inutiles. Transformer les choix répétés (petit-déjeuner, tenue, trajet) en constantes fixes préserve l'énergie préfrontale, clé d'una productivité maximale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'essence du minimalisme vestimentaire ne réside pas dans la monotonie, mais da
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Transformer les choix quotidiens en constantes pour économiser l'énergie
+
+L'essence du minimalisme vestimentaire ne réside pas dans la monotonie, mais dans l'élimination des micro-décisions inutiles. Transformer les choix répétés (petit-déjeuner, tenue, trajet) en constantes fixes préserve l'énergie préfrontale, clé d'una productivité maximale.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Steve Jobs tenait-il à porter exactement la même tenue chaque jour ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'essence du minimalisme vestimentaire ne réside pas dans la monotonie, mais da
       Jobs supprimait le choix de tenue pour éviter la Fatigue décisionnelle et préserver l'énergie du cortex préfrontal, consacrant 100 % de sa capacité cognitive a la direction d'Apple.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quelle est una alternative pratique si porter una tenue identique semble irréaliste ?</span>

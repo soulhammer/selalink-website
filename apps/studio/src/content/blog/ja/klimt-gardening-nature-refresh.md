@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "青いローブを着て朝のバラを観察した画家：グスタフ・クリムトの庭園散歩ルーティンと「柔らかい魅了（Soft Fascination）」"
 description: "黄金様式の巨匠グスタフ・クリムト。毎日朝オーストリアのアッター湖畔の庭園を散歩し、花や自然のフラクタル模様を観察した注意力回復理論（ART）に基づくルーティン、前頭前野リセットの原理および3段階実践ガイドを解き明かします。"
 pubDate: "2026-07-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「klimt-gardening-nature-refresh」は <strong>グスタフ・クリムト評伝およびアッター湖アーカイブ（Attersee Archive）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>グスタフ・クリムト評伝およびアッター湖アーカイブ（Attersee Archive）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自然フラクタル観察と注意力回復理論（Attention Restoration Theory, ART）
+## 1. 自然フラクタル観察と注意力回復理論（Attention Restoration Theory, ART）
 
 複雑なモニター画面や人工構造物に囲まれて働く時、脳の前頭葉は特定の対象に無理に集中するために<strong>指向性注意力（Directed Attention）</strong>資源を消耗し、極度な<strong>注意力疲労（Attention Fatigue）</strong>を感じます。環境心理学の<strong>注意力回復理論（Attention Restoration Theory, ART）</strong>によると、花びらや木の葉のような自然のフラクタル（Fractal）構造は、脳の抑制的エネルギーを要求しない<strong>「柔らかい魅了（Soft Fascination）」</strong>状態を誘発します。クリムトのように朝の庭園の自然の形状と光を黙々と観察すれば、枯渇していた<strong>前頭前野（Prefrontal Cortex）</strong>の注意力資源が即座に復元され、創造的感覚の再充電が完結します。
 
 ---
 
-## 注意事項：スマートフォンカメラのフレームを排除し肉眼観察に没頭するルール
-
-庭園を散歩しながら「SNSにアップする写真を上手く撮ろう」とスマートフォンカメラを差し向ける瞬間、脳は再び他人の評価と人工的フレームに閉じ込められ、注意力回復効果を逃すことになります。クリムトのようにレンズではなく自分の肉眼で自然の深みと微細パターンを完全に観照することが核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：スマートフォンカメラのフレームを排除し肉眼観察に没頭するルール
+
+庭園を散歩しながら「SNSにアップする写真を上手く撮ろう」とスマートフォンカメラを差し向ける瞬間、脳は再び他人の評価と人工的フレームに閉じ込められ、注意力回復効果を逃すことになります。クリムトのようにレンズではなく自分の肉眼で自然の深みと微細パターンを完全に観照することが核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>周囲に庭園や公園がない場合、どのようにこのルーティンを適用しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       室内にある観葉植物の鉢植え、あるいは窓の外の街路樹や空の雲を3分間近くで覗き込むだけでも、同じ注意力回復（ART）効果を享受することができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>雨が降ったり天気が悪い日には庭園散歩をどのように代替しますか？</span>

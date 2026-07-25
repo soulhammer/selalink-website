@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "本を声に出して大きく 読んだ大統領：リンカーンの前頭葉活性読書習慣と生産効果（Production Effect）"
 description: "目と耳を同時に使用して記憶力を極大化させたエイブラハム・リンカーン。音読を通じてブローカ野を刺激し、生産効果（Production Effect）および二重表象（Dual Representation）を形成して情報記憶度を向上させた脳科学的原理と5分音読実践法を公開します。"
 pubDate: "2026-04-26"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「lincoln-reading-aloud」は <strong>デイヴィッド・ドナルド『リンカーン評伝（Lincoln）』およびウィリアム・ハーンダン回顧録史料考証＆認知神経科学（Cognitive Neuroscience）および言語心理学（Psycholinguistics）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>デイヴィッド・ドナルド『リンカーン評伝（Lincoln）』およびウィリアム・ハーンダン回顧録史料考証＆認知神経科学（Cognitive Neuroscience）および言語心理学（Psycholinguistics）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 生産効果（Production Effect）と二重表象（Dual Representation）の脳科学
+## 1. 生産効果（Production Effect）と二重表象（Dual Representation）の脳科学
 
 文章を単純に目で追う行為は、脳の知的構造において情報処理段階を最小化する受動的な読書です。一方、テキストを声帯で発声し自分の耳で再び受け取る精巧な言語運動の過程は、脳科学で<strong>生産効果（Production Effect）</strong>と呼ばれる強力な記憶補強メカニズムを作動させます。声に出して読む瞬間、脳は<strong>ブローカ野（Broca's Area）</strong>と運動皮質、聴覚皮質を同時に稼働させ、<strong>前頭前野（Prefrontal Cortex）</strong>の<strong>作業記憶（Working Memory）</strong>領域に強固な<strong>二重表象（Dual Representation）</strong>を形成して、情報が<strong>長期記憶（Long-Term Memory）</strong>へ定着する知的ハードルを大幅に下げます。
 
 ---
 
-## 注意事項：速読への執着を排除し明瞭な声帯発写に集中するルール
-
-文章を単純に目で素早く追う速読に執着すると、生産効果（Production Effect）の神経学的メリットが消失します。朗読リチュアルでは、速さよりも声帯の微細な振動、明確な音節の発音、そして自分の声が耳へと再入力される逆フィードバック感覚自体に完全に没頭することが、前頭前野の知的回路を正しく覚醒させる核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：速読への執着を排除し明瞭な声帯発写に集中するルール
+
+文章を単純に目で素早く追う速読に執着すると、生産効果（Production Effect）の神経学的メリットが消失します。朗読リチュアルでは、速さよりも声帯の微細な振動、明確な音節の発音、そして自分の声が耳へと再入力される逆フィードバック感覚自体に完全に没頭することが、前頭前野の知的回路を正しく覚醒させる核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>どのような本を朗読することが脳の覚醒に最も効果的ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       小説や単純なエッセイよりは、文章が精密で論理的濃度の高い人文学的テキスト、あるいは専門書籍や業務用報告書の一部を朗読することが、前頭前野の認知可塑性向上に最も効果的です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>オフィスや図書館のように大きな声を出せない環境ではどのようにすればよいですか？</span>

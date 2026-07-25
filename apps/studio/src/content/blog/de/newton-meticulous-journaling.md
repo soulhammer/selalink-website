@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ordnung im Chaos festhalten: Sir Isaac Newtons Forschungstagebuch-Gewohnheit"
 description: "Sir Isaac Newton, einer der größten Wissenschaftler der Menschheit. Entdecken Sie seine Gewohnheit, jede Erkenntnis in einem ledergebundenen Buch festzuhalten, und die Neurowissenschaft des Handschreibens."
 pubDate: "2026-03-30"
@@ -33,17 +34,17 @@ In diesem Beitrag untersuchen wir die neurowissenschaftlichen Grundlagen von New
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu newton-meticulous-journaling basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Sir Isaac Newton & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Sir Isaac Newton & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Cognitive Offloading': Entlastung des Arbeitsgedächtnisses
+## 1. 'Cognitive Offloading': Entlastung des Arbeitsgedächtnisses
 
 Die Kapazität unseres Arbeitsgedächtnisses ist stark begrenzt. Bei komplexen Denkprozessen gerät das Gehirn schnell in eine kognitive Überlastung. Newtons akribische Handschrift und Visualisierung aktivierten den Mechanismus des <strong>'Cognitive Offloading'</strong> (kognitive Auslagerung).
 
@@ -51,9 +52,7 @@ Durch das Sichern von Gedanken auf Papier wird das Arbeitsgedächtnis entlastet 
 
 ---
 
-## Trainieren Sie visuelle Strukturierung statt bloßem Notieren
-
-Das mechanische Tippen von Texten auf Smartphones bietet eine geringere taktile Stimulation und schwächere Gedächtnisverankerung. Der Schlüssel liegt darin, einen Stift zu greifen und Gedanken durch Pfeile, Diagramme und Tabellen visuell zu verknüpfen. Wenn Sie digitale Notizen nutzen, verwenden Sie einen Eingabestift für manuelles Skizzieren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Das mechanische Tippen von Texten auf Smartphones bietet eine geringere taktile 
     Belassen Sie es nicht bei Fließtext; verbinden Sie Ideen mit Pfeilen und zeichnen Sie Flussdiagramme oder Tabellen per Hand, um die Logik visuell darzustellen.
   </p>
 </div>
+
+---
+
+## 3. Trainieren Sie visuelle Strukturierung statt bloßem Notieren
+
+Das mechanische Tippen von Texten auf Smartphones bietet eine geringere taktile Stimulation und schwächere Gedächtnisverankerung. Der Schlüssel liegt darin, einen Stift zu greifen und Gedanken durch Pfeile, Diagramme und Tabellen visuell zu verknüpfen. Wenn Sie digitale Notizen nutzen, verwenden Sie einen Eingabestift für manuelles Skizzieren.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

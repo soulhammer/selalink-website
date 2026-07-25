@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Completando a Teoria da Evolução Caminhando: A Rotina do 'Sandwalk' e a Incubação Cognitiva de Charles Darwin"
 description: "Descubra como o naturalista Charles Darwin percorria seu caminho de cascalho 'Sandwalk', chutando pedras para contar voltas enquanto desvendava a teoria da evolução. Explore a neurociência cognitiva da ativação da Rede de Modo Padrão (DMN) e da Incubação Cognitiva."
 pubDate: "2026-06-14"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina do 'Sandwa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre darwin-sandwalk é baseada em <strong>Verificação Histórica da Autobiografia de Charles Darwin *A Autobiografia de Charles Darwin (The Autobiography of Charles Darwin)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Charles Darwin *A Autobiografia de Charles Darwin (The Autobiography of Charles Darwin)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ativação da Rede de Modo Padrão (DMN) e Incubação Cognitiva Via Ancoragem Física
+## 1. Ativação da Rede de Modo Padrão (DMN) e Incubação Cognitiva Via Ancoragem Física
 
 Realizar uma caminhada aeróbica leve utilizando uma ancoragem física simples (chutar pedras para contar voltas) desacopla a Rede Executiva Central (CEN) e ativa a Rede de Modo Padrão (DMN). Terceirizar a contagem de voltas para pedras físicas economiza a memória de trabalho (RAM). Como resultado, o cérebro passa pela 'Incubação Cognitiva': um processo no qual observações dispersas se recombinam espontaneamente no subconsciente.
 
 ---
 
-## Precauções e Dicas: Isolar Estímulos Digitais e Bloquear Loops de Ruminação
-
-Durante uma caminhada de reflexão, evite que seu cérebro caia em loops de ansiedade ou ruminação emocional. Estabeleça uma ancoragem física mínima — como chutar uma pedra ou dobrar um dedo por volta — para vincular sua atenção. Silencie completamente os celulares. Direcionar a atenção aos passos e ao ambiente natural permite que a DMN e a incubação funcionem sem obstáculos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Durante uma caminhada de reflexão, evite que seu cérebro caia em loops de ansi
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Isolar Estímulos Digitais e Bloquear Loops de Ruminação
+
+Durante uma caminhada de reflexão, evite que seu cérebro caia em loops de ansiedade ou ruminação emocional. Estabeleça uma ancoragem física mínima — como chutar uma pedra ou dobrar um dedo por volta — para vincular sua atenção. Silencie completamente os celulares. Direcionar a atenção aos passos e ao ambiente natural permite que a DMN e a incubação funcionem sem obstáculos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Em que consistia exatamente a rotina do 'Sandwalk' de Charles Darwin?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Durante uma caminhada de reflexão, evite que seu cérebro caia em loops de ansi
       O Sandwalk era um percurso circular de cascalho e terra construído por Darwin em sua propriedade em Kent. Ele o percorria diariamente, usando pequenas pedras para contar voltas automaticamente e reduzir a carga da memória de trabalho enquanto organizava 'A Origem das Espécies'.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Devo forçar ativamente minha mente a pensar no problema enquanto caminho?</span>

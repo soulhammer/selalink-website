@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "대영박물관 돔 아래의 10시간? 카를 마르크스의 연합 피질 독서법"
 description: "사회의 감춰진 작동 원리를 경제학적으로 해부했던 카를 마르크스. 런던 망명 시절 대영박물관 열람실에서 매일 10시간씩 방대한 문헌을 읽고 기록한 집요한 독서 습관과 뇌과학적 원리를 알아봅니다."
 pubDate: "2026-03-17"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>카를 마르크스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 marx-reading-room 루틴을 다룹니다.
+      본 콘텐츠는 <strong>카를 마르크스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 왜 대영박물관의 10시간 딥 리딩은 지적 재구성을 가능케 했는가?
+## 1. 왜 대영박물관의 10시간 딥 리딩은 지적 재구성을 가능케 했는가?
 
 뇌과학 연구에 따르면, 수많은 이종 분야의 단편적 지식을 고차원적으로 통합하는 능력은 뇌의 '연합 피질(Association Cortex)'과 전두엽 활성화에서 비롯됩니다. 마르크스가 대영박물관에서 매일 10시간 동안 외부 자극을 완전히 차단한 채 아날로그 텍스트에 몰입하고 직접 손으로 초록 노트(Exzerpiorhefte)를 엮어간 과정은, 뇌의 신경망을 다차원적으로 재구성하고 정교한 지적 연쇄 반응을 일으킨 신경학적 딥 워크(Deep Work) 과정이었습니다.
 
 ---
 
-## 수동적 읽기와 디지털 수집의 착각 경계하기
-
-단순히 수많은 기사나 PDF 자료를 저장하고 눈으로 훑는 행위는 뇌의 얕은 자극만 남길 뿐 장기 기억이나 고차원적 개념 결합으로 이어지지 않습니다. 마르크스처럼 직접 손으로 초록 노트를 적고 텍스트에 비판적 질문을 던지는 주도적 주석 작업이 수반되지 않으면 진정한 지적 자산이 되지 못합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 수동적 읽기와 디지털 수집의 착각 경계하기
+
+단순히 수많은 기사나 PDF 자료를 저장하고 눈으로 훑는 행위는 뇌의 얕은 자극만 남길 뿐 장기 기억이나 고차원적 개념 결합으로 이어지지 않습니다. 마르크스처럼 직접 손으로 초록 노트를 적고 텍스트에 비판적 질문을 던지는 주도적 주석 작업이 수반되지 않으면 진정한 지적 자산이 되지 못합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Q1. 대영박물관 10시간 독서를 현대 직장인이나 학생이 적용하려면 어떻게 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,8 +104,8 @@ faqs:
       현대인은 하루 10시간을 지속하기 어렵기 때문에 '시간 분량'이 아닌 '집중 밀도'를 복제해야 합니다. 주말이나 아침 일찍 60분 - 90분 동안 스마트폰을 끄고 도서관이나 조용한 공간에서 하나의 원전 아날로그 텍스트에 완전히 몰입하는 '마이크로 딥 리딩 세션'으로 적용할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
-  <details class="group cursor-pointer">
+
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Q2. 디지털 노트를 사용하는 현대인이 손글씨 초록 노트를 작성할 때의 뇌과학적 이점은 무엇인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -109,7 +114,7 @@ faqs:
       초록 노트(Exzerpiorhefte)는 단순 필사가 아니라 텍스트와의 능동적 대화입니다. 텍스트의 핵심 주장과 데이터를 인용한 후, 그 밑에 자신의 언어로 해설하고 의문점이나 기존 이론과의 연결고리를 기록할 때 전두엽과 연합 피질이 강력하게 활성화됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Q3. 딥 리딩 도중 집중력이 흐려지거나 복잡한 개념에 막혔을 때 어떻게 극복하나요?</span>

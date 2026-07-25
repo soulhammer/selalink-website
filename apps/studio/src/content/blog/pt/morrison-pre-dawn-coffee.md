@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ritual ao amanhecer para despertar a criatividade: A rotina de preparação para a escrita às 5h da manhã de Toni Morrison"
 description: "A vencedora do Nobel Toni Morrison reiniciava seus pensamentos e entrava no foco da escrita contemplando a luz do amanhecer às 5h todas as manhãs. Descubra seus segredos de concentração e seu valor neurocientífico."
 pubDate: "2026-02-27"
@@ -35,17 +36,17 @@ Ela descrevia isso como 'observar a chegada da luz', confessando que esse moment
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre morrison-pre-dawn-coffee é baseada em <strong>Biografias históricas e registros autobiográficos de Toni Morrison e pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Toni Morrison e pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Despertar do relógio biológico circadiano e estimulação dos fotorreceptores retinianos
+## 1. Despertar do relógio biológico circadiano e estimulação dos fotorreceptores retinianos
 
 Expor o cérebro à luz azul intensa do smartphone assim que se acorda em um quarto escuro provoca um pico de cortisol, elevando os níveis de ansiedade.
 
@@ -53,9 +54,7 @@ A observação do alvorecer de Toni Morrison permite que a luz natural atinja a 
 
 ---
 
-## Não toque em nenhum dispositivo eletrônico enquanto a luz natural atinge seus olhos
-
-O maior destruidor das rotinas ao amanhecer são as mensagens e notificações de notícias no smartphone. Durante os 5 minutos dedicados à observação da luz, nunca ligue telas digitais. Não jogue ruído visual sobre sua retina e células cerebrais em despertar; permita que a luz natural entre serenamente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ O maior destruidor das rotinas ao amanhecer são as mensagens e notificações d
   </p>
 </div>
 
+---
+
+## 3. Não toque em nenhum dispositivo eletrônico enquanto a luz natural atinge seus olhos
+
+O maior destruidor das rotinas ao amanhecer são as mensagens e notificações de notícias no smartphone. Durante os 5 minutos dedicados à observação da luz, nunca ligue telas digitais. Não jogue ruído visual sobre sua retina e células cerebrais em despertar; permita que a luz natural entre serenamente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O nascer do sol varia conforme a estação; devo ajustar meu horário de acordar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ O maior destruidor das rotinas ao amanhecer são as mensagens e notificações d
       Não é necessário alinhar rigorosamente com o momento exato do nascer do sol. Vivenciar a atmosfera tranquila e tênue pouco antes do amanhecer, independentemente da estação (geralmente entre 5h00 e 6h00), traz amplos benefícios.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Não sou uma pessoa matutina e me sinto exausto ao acordar cedo; o que devo fazer?</span>

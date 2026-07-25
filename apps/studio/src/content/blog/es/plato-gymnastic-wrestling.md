@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Un filósofo que entrenó sus hombros antes de buscar las Ideas? El calentamiento físico de alta intensidad de Platón"
 description: "El antiguo filósofo griego Platón era conocido por su apodo de luchador 'hombros anchos' en lugar de su nombre real. Descubra los principios neurocientíficos y los métodos modernos de entrenamiento en casa detrás de su rutina matutina de entrenamiento intenso antes de los debates intelectuales."
 pubDate: "2026-03-05"
@@ -32,22 +33,20 @@ Platón, el gran filósofo que sentó las bases de la filosofía occidental, for
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre plato-gymnastic-wrestling se basa en <strong>Biografías históricas y escritos sobre Platón e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y escritos sobre Platón e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Maximización del flujo sanguíneo cerebral y liberación de BDNF mediante el entrenamiento de resistencia
+## 1. Maximización del flujo sanguíneo cerebral y liberación de BDNF mediante el entrenamiento de resistencia
 
 Según la fisiología del ejercicio y la ciencia cognitiva modernas, el entrenamiento de resistencia de alta intensidad (como sentadillas o flexiones) aumenta de inmediato el flujo sanguíneo cerebral y la saturación de oxígeno en la corteza. Esta excitación fisiológica desencadena una rápida liberación del Factor Neurotrófico Derivado del Cerebro (BDNF), una proteína clave que promueve la neurogénesis y la plasticidad sináptica. Al mismo tiempo, aumenta los neurotransmisores como la dopamina y la norepinefrina, creando un entorno óptimo para la memoria a largo plazo y el razonamiento abstracto.
 
 ---
 
-## Consejos para la prevención de lesiones y sincronización de la transición mental
-
-Comenzar un ejercicio de alta intensidad inmediatamente después de despertarse sin calentar puede sobrecargar las articulaciones y los ligamentos. Siempre caliente sus articulaciones con estiramientos suaves antes de realizar ejercicios con el peso corporal. Además, descansar más de 15 minutos después del ejercicio reduce los beneficios del pico de flujo sanguíneo cerebral, por lo que se recomienda pasar al trabajo mental complejo dentro de los 5 minutos posteriores a la recuperación de la respiración.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ Comenzar un ejercicio de alta intensidad inmediatamente después de despertarse 
   </p>
 </div>
 
+---
+
+## 3. Consejos para la prevención de lesiones y sincronización de la transición mental
+
+Comenzar un ejercicio de alta intensidad inmediatamente después de despertarse sin calentar puede sobrecargar las articulaciones y los ligamentos. Siempre caliente sus articulaciones con estiramientos suaves antes de realizar ejercicios con el peso corporal. Además, descansar más de 15 minutos después del ejercicio reduce los beneficios del pico de flujo sanguíneo cerebral, por lo que se recomienda pasar al trabajo mental complejo dentro de los 5 minutos posteriores a la recuperación de la respiración.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es apta esta rutina para principiantes con articulaciones débiles o sin experiencia en ejercicios de resistencia?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ Comenzar un ejercicio de alta intensidad inmediatamente después de despertarse 
       Sí, no es necesario levantar pesas pesadas ni hacer ejercicios de alto riesgo. Puede reducir la intensidad haciendo flexiones contra la pared, sentadillas lentas o planchas suaves. El indicador fisiológico para aumentar el flujo sanguíneo cerebral es 'respirar con dificultad y sudar ligeramente', así que adapte la intensidad de forma segura.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo sustituir el entrenamiento de fuerza con ejercicio aeróbico ligero como trotar o correr?</span>

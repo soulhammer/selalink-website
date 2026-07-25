@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Erfinder, die die Rollen beim Debattieren tauschten: Die Umkehr-Debattier-Methode der Brüder Wright"
 description: "Die Brüder Wright erfanden das erste motorbetriebene Flugzeug. Entdecken Sie ihre metakognitive Methode des Rollentauschs beim Debattieren und deren moderne Anwendung."
 pubDate: "2026-03-04"
@@ -35,25 +36,23 @@ Dieser Beitrag erklärt, wie die Methode der Brüder Wright kognitive Verzerrung
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu wright-reverse-debate basiert auf <strong>Historische Biografien & Aufzeichnungen zu den Brüdern Wright & kognitive Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien & Aufzeichnungen zu den Brüdern Wright & kognitive Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Metakognitive Umstrukturierung' zur Überwindung der Bestätigungsfehler
+## 1. 'Metakognitive Umstrukturierung' zur Überwindung der Bestätigungsfehler
 
 Sobald eine Idee steht, neigt das Gehirn dazu, nur unterstützende Informationen zu suchen und Mängel zu ignorieren – ein Phänomen namens Bestätigungsfehler (Confirmation Bias). Das Umkehr-Debattieren der Brüder Wright diente der kognitiven Umstrukturierung. Indem sie die Gegenseite vertraten, löste sich der präfrontale Kortex von emotionaler Bindung an eigene Hypothesen und aktivierte metakognitive Netzwerke zur objektiven Fehleranalyse.
 
 ---
 
-## Hinterfragen Sie Ihre eigenen Argumente für echte Erkenntnisse
-
-Um eine hervorragende Idee zu perfektionieren, müssen Sie die emotionale Bindung an sie aufgeben. Die Brüder Wright schafften das Wunder des Fliegens, indem sie jeden Abend die Perspektive des anderen einnahmen und sich streng hinterfragten. Wenn Ihre Sicht eng wird, drehen Sie Ihre Position um 180 Grad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Um eine hervorragende Idee zu perfektionieren, müssen Sie die emotionale Bindun
   </p>
 </div>
 
+---
+
+## 3. Hinterfragen Sie Ihre eigenen Argumente für echte Erkenntnisse
+
+Um eine hervorragende Idee zu perfektionieren, müssen Sie die emotionale Bindung an sie aufgeben. Die Brüder Wright schafften das Wunder des Fliegens, indem sie jeden Abend die Perspektive des anderen einnahmen und sich streng hinterfragten. Wenn Ihre Sicht eng wird, drehen Sie Ihre Position um 180 Grad.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann ich diese Routine auch alleine anwenden, wenn ich keinen Debattierpartner habe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Um eine hervorragende Idee zu perfektionieren, müssen Sie die emotionale Bindun
       Absolut. Schreiben Sie Ihre These auf und verfassen Sie in der Rolle des 'Devil's Advocate' einen kritischen Bericht, als wären Sie Ihr eigener schärfster Konkurrent.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie führt man ein Umkehr-Debattieren durch, ohne die Gefühle des anderen zu verletzen?</span>

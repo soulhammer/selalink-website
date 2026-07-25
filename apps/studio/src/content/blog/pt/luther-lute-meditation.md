@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "As Ondas da Regulação Mental: A Rotina Matinal do Alaúde de Martinho Lutero e a Sintonização Neuronal"
 description: "Descubra como Martinho Lutero, sob a intensa pressão da Reforma Protestante, meditava todas as manhãs tocando alaúde. Explore a neurociência da integração auditivo-motora, a estimulação do nervo vago, a estabilização autonômica e um guia prático de 3 passos."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos os princípios neurológicos por trás da rotina d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre luther-lute-meditation é baseada em <strong>Verificação Histórica dos Arquivos de Lutero, *Tischreden* (Conversas de Mesa, 1566) e Pesquisa em Neurociência Cognitiva e Musicoterapia</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica dos Arquivos de Lutero, *Tischreden* (Conversas de Mesa, 1566) e Pesquisa em Neurociência Cognitiva e Musicoterapia</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## A Neurociência da Integração Auditivo-Motora e da Estimulação do Nervo Vago
+## 1. A Neurociência da Integração Auditivo-Motora e da Estimulação do Nervo Vago
 
 A manipulação precisa de um instrumento ativa o córtex motor através da via de <strong>Integração Auditivo-Motora</strong>. Ancorar a atenção nas vibrações físicas acalma o ruído pré-frontal associado à ansiedade. Além disso, a execução rítmica estimula o <strong>Nervo Vago</strong>, elevando a <strong>Variabilidade da Frecuência Cardíaca (HRV)</strong> e ativando o <strong>Sistema Parassimpático</strong>.
 
 ---
 
-## Precaução: Elimine a Ansiedade de Desempenho para Mergulhar na Sensação Táctil
-
-O maior obstáculo na meditação musical é a obsessão com a perfeição técnica. Preocupar-se com erros causa estresse de avaliação, ativando a <strong>Amígdala</strong>. Use instrumentos simples como kalimba, ukulele ou tongue drum, libertando-se de expectativas para desfrutar de 5 minutos de ressonância sensorial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O maior obstáculo na meditação musical é a obsessão com a perfeição técn
   </p>
 </div>
 
+---
+
+## 3. Precaução: Elimine a Ansiedade de Desempenho para Mergulhar na Sensação Táctil
+
+O maior obstáculo na meditação musical é a obsessão com a perfeição técnica. Preocupar-se com erros causa estresse de avaliação, ativando a <strong>Amígdala</strong>. Use instrumentos simples como kalimba, ukulele ou tongue drum, libertando-se de expectativas para desfrutar de 5 minutos de ressonância sensorial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Iniciantes sem conhecimento musical podem se beneficiar dessa rotina?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O maior obstáculo na meditação musical é a obsessão com a perfeição técn
       Sim, com certeza! O segredo não está na técnica, mas na 'estimulação tátil motora fina e na percepção da ressonância'. Usar instrumentos simples como kalimba ou tongue drum por 5 minutos oferece o mesmo benefício.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ouvir música passivamente pode substituir a prática ativa do instrumento?</span>

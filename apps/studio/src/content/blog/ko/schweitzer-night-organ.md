@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "노벨 평화상 수상자의 야간 리셋? 알베르트 슈바이처의 밤 오르간 루틴"
 description: "아프리카 밀림 병원에서 매일 밤 바흐의 오르간을 연주하며 극심한 피로를 극복한 알베르트 슈바이처 박사의 자율신경계 리셋 습관과 실천 가이드."
 pubDate: "2026-01-29"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>알베르트 슈바이처 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 schweitzer-night-organ 루틴을 다룹니다.
+      본 콘텐츠는 <strong>알베르트 슈바이처 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 구조화된 클래식 음률이 유도하는 부교감 신경 활성화
+## 1. 구조화된 클래식 음률이 유도하는 부교감 신경 활성화
 
 낮 동안의 과도한 스트레스는 교감 신경(Sympathetic Nervous System)을 지속적으로 과활성화하여 코르티솔 수치를 높이고 자율신경계 균형을 무너뜨립니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 취침 전 격렬한 스크린 대신 이완 음악을 선택하세요
-
-밤 늦게까지 자극적인 영상이나 텍스트를 소비하면 뇌는 휴식 모드로 전환되지 못합니다. 슈바이처 박사처럼 조용한 음악적 몰입을 통해 뇌에 자율신경계 이완 신호를 보내세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 취침 전 격렬한 스크린 대신 이완 음악을 선택하세요
+
+밤 늦게까지 자극적인 영상이나 텍스트를 소비하면 뇌는 휴식 모드로 전환되지 못합니다. 슈바이처 박사처럼 조용한 음악적 몰입을 통해 뇌에 자율신경계 이완 신호를 보내세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>클래식 음악 대신 가사가 있는 발라드를 들어도 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       가사가 있는 음악은 뇌의 언어 처리 영역(언어 피질)을 재가동하므로 완전한 휴식을 방해합니다. 가사 없는 순수 연주곡(클래식, 재즈, 로파이)이 자율신경계 이완에 훨씬 효과적입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>음악을 들으며 자는 것도 도움이 되나요?</span>

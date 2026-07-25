@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Filosofi Manajemen di Ujung Kuas: Ritual Kaligrafi Pagi dan Aktivasi Korteks Motorik Primer Lee Byung-chul"
 description: "Pelajari bagaimana Lee Byung-chul, pendiri Samsung, mempertajam kejernihan strategis melalui ritual kaligrafi kuas pagi harinya. Temukan sains kontrol motorik halus, keterlibatan korteks motorik primer, relaksasi sistem saraf otonom, dan panduan 3 langkah."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ Setiap pagi setelah bangun tidur, Lee menyendiri ke ruang belajarnya yang tenang
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai lee-morning-calligraphy didasarkan pada <strong>Verifikasi Historis dari Autobiografi Ho-Am *Ho-Am Jajeon*, Arsip Grup Samsung & Penelitian Neurosains Kognitif serta Sains Kontrol Motorik</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Ho-Am *Ho-Am Jajeon*, Arsip Grup Samsung & Penelitian Neurosains Kognitif serta Sains Kontrol Motorik</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Keterlibatan Korteks Motorik Primer dan Relaksasi Sistem Saraf Otonom Prefrontal
+## 1. Keterlibatan Korteks Motorik Primer dan Relaksasi Sistem Saraf Otonom Prefrontal
 
 Tidak seperti pena logam yang kaku, kaligrafi kuas menuntut penyesuaian presisi mikro dari ketegangan bulu kuas, kecepatan goresan, dan gradien tekanan. Tugas rumit ini secara intensif melibatkan jaringan saraf di dalam <strong>Korteks Motorik Primer</strong> dan <strong>Otak Kecil (Cerebellum)</strong>, secara fisiologis menekan obrolan emosional. Selain itu, umpan balik multi-sensorik menenangkan <strong>Sistem Saraf Otonom</strong> dan mengaktifkan kontrol eksekutif di <strong>Korteks Prefrontal</strong>.
 
 ---
 
-## Perhatian: Mengecualikan Penilaian Kaligrafi Perfeksionis untuk Terbenam dalam Alur Sensorimotor
-
-Terobsesi dengan kesempurnaan estetika atau kualitas artistik dari tulisan tangan Anda mengaktifkan jaringan evaluasi kritis diri, merusak relaksasi neurobiologis. Rutinitas ini bukanlah pertunjukan artistik, melainkan proses kesadaran sensorimotor yang berfokus pada modulasi tekanan halus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Terobsesi dengan kesempurnaan estetika atau kualitas artistik dari tulisan tanga
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengecualikan Penilaian Kaligrafi Perfeksionis untuk Terbenam dalam Alur Sensorimotor
+
+Terobsesi dengan kesempurnaan estetika atau kualitas artistik dari tulisan tangan Anda mengaktifkan jaringan evaluasi kritis diri, merusak relaksasi neurobiologis. Rutinitas ini bukanlah pertunjukan artistik, melainkan proses kesadaran sensorimotor yang berfokus pada modulasi tekanan halus.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Alat rumah tangga apa yang dapat saya gunakan sebagai pengganti jika saya tidak memiliki peralatan kaligrafi tradisional?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Terobsesi dengan kesempurnaan estetika atau kualitas artistik dari tulisan tanga
       Pena fountain, pena dip, atau pensil grafit yang dipadukan dengan kertas tebal berfungsi sebagai pengganti yang ideal. Mekanisme utamanya adalah kesadaran sensorik real-time dari gesekan taktil dan modulasi tekanan jari.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Mengapa lebih baik mempraktikkan rutinitas kaligrafi ini segera setelah bangun tidur daripada di malam hari?</span>

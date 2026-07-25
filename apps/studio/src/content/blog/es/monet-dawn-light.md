@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El maestro de la luz que creó arte en los primeros rayos del amanecer: La rutina de precalentamiento visual de Claude Monet"
 description: "El maestro impresionista Claude Monet se levantaba a las 3:30 AM todos los días para contemplar las sutiles longitudes de onda de la luz natural, elevando la sensibilidad al color en su corteza visual. Explore su rutina de 'observación del amanecer' y métodos neurocientíficos de activación del nervio óptico."
 pubDate: "2026-03-31"
@@ -38,22 +39,20 @@ En la entrada de hoy, examinamos los mecanismos de activación del nervio óptic
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre monet-dawn-light se basa en <strong>Biografía histórica de Claude Monet e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía histórica de Claude Monet e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Despertar de las células ganglionares retinianas intrínsecamente fotosensibles (ipRGCs) y sensibilidad al contraste visual
+## 1. Despertar de las células ganglionares retinianas intrínsecamente fotosensibles (ipRGCs) y sensibilidad al contraste visual
 
 La luz natural de longitud de onda azul que se despliega en el cielo justo antes del amanecer estimula fuertemente las células ganglionares retinianas intrínsecamente fotosensibles (ipRGCs) en la retina. Esto despierta el núcleo supraquiasmático (NSQ) en el cerebro, suprimiendo la melatonina e induciendo la liberación de cortisol para despertar la mente. Al mismo tiempo, observar sutiles cambios tonales en luz tenue maximiza la sensibilidad al contraste en la corteza visual. Un cerebro preparado con esta rutina alcanza su máximo nivel de discriminación cognitiva y creatividad estructural.
 
 ---
 
-## Efecto de filtro del cristal de las ventanas y consejos de exposición al aire libre
-
-Los cristales con revestimiento múltiple modernos reflejan y bloquean hasta el 80% de las longitudes de onda de luz natural clave necesarias para despertar el cerebro. Por lo tanto, en lugar de quedarse adentro tras ventanas cerradas, abra completamente las ventanas o salga al patio o jardín para exponer su cuerpo al aire fresco matutino y a la luz del amanecer.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Los cristales con revestimiento múltiple modernos reflejan y bloquean hasta el 
   </p>
 </div>
 
+---
+
+## 3. Efecto de filtro del cristal de las ventanas y consejos de exposición al aire libre
+
+Los cristales con revestimiento múltiple modernos reflejan y bloquean hasta el 80% de las longitudes de onda de luz natural clave necesarias para despertar el cerebro. Por lo tanto, en lugar de quedarse adentro tras ventanas cerradas, abra completamente las ventanas o salga al patio o jardín para exponer su cuerpo al aire fresco matutino y a la luz del amanecer.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Observar el amanecer a través del cristal de una ventana cerrada produce el mismo efecto?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Los cristales con revestimiento múltiple modernos reflejan y bloquean hasta el 
       Cuando las ventanas están cerradas, los revestimientos del cristal moderno filtran y reflejan hasta el 80% de las longitudes de onda de luz azul y UV naturales esenciales para la activación cerebral. Por lo tanto, para estimular plenamente las células ipRGC en la retina y suprimir la melatonina, abrir las ventanas por completo para recibir luz solar directa proporciona beneficios fisiológicos muy superiores.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿La observación del amanecer sigue siendo efectiva en mañanas nubladas o lluviosas?</span>

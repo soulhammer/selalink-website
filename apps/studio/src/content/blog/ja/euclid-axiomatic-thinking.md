@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ユークリッドの公理的思考：第一原理の連鎖論理で複雑な意思決定の麻痺を打破する方法"
 description: "古代ギリシャの大数学者ユークリッドが、複雑な難題を疑う余地のない公理（Axiom）へと解体して解決した第一原理思考法の歴史と認知科学を解き明かします。"
 pubDate: "2026-02-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「euclid-axiomatic-thinking」は <strong>ユークリッド『原論（Elements）』およびプロクロス『原論注釈書（Commentary on Euclid's Elements）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ユークリッド『原論（Elements）』およびプロクロス『原論注釈書（Commentary on Euclid's Elements）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 公理的再結合が脳の認知過負荷と偏向を防止する理由
+## 1. 公理的再結合が脳の認知過負荷と偏向を防止する理由
 
 認知心理学の研究によると、人間の脳は既存の慣習や経験的直感であるヒューリスティクス（Heuristics）に汚染され、判断エラーを犯しやすい傾向があります。ユークリッドの公理的思考は、これ以上解体不可能な<strong>「第一原理（First Principles）」</strong>と自明の事実（Axiom）のみを導き出し、判断の出発点とします。このような公理的再結合メカニズムは、不確実な仮定を事前に除去することで、前頭前野皮質（Prefrontal Cortex）の認知過負荷を即座に軽減させます。また、頭頂葉の視空間スケッチパッドと論理演算回路を極大化し、複雑な難題を本質から一目瞭然に構造化できるよう助けます。
 
 ---
 
-## 注意事項：検証されていない仮定を「公理」と錯覚しないルール
-
-証明されていない経験や他人の主張を「基本事実」と錯覚してはなりません。解決策を導き出す前に、必ずこれ以上分解できない100%明白な本質的事実（公理）のみを分離しなければならず、前提条件が間違っていればその後の演繹的結論もドミノのように崩れ去るという点を心に銘記しなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：検証されていない仮定を「公理」と錯覚しないルール
+
+証明されていない経験や他人の主張を「基本事実」と錯覚してはなりません。解決策を導き出す前に、必ずこれ以上分解できない100%明白な本質的事実（公理）のみを分離しなければならず、前提条件が間違っていればその後の演繹的結論もドミノのように崩れ去るという点を心に銘記しなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ビジネスや複雑な業務の意思決定にどのように適用できますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       プロジェクトの物理的制約、実際の予算、ユーザーの根本的ニーズのように「これ以上細分化できない基本事実」3つをまず定義した後、その基盤の上で戦略を最初から再設計する方式で適用できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>一般的な論理的思考とユークリッドの第一原理思考は何が違うのですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le pouvoir d'éveiller les circuits cérébraux positifs : La routine de sourire devant le miroir et de propreté de Dosan Ahn Chang-ho"
 description: "Le pouvoir du « sourire » et de la « propreté » souligné par l'indépendantiste Dosan Ahn Chang-ho. Découvrez les raisons scientifiques pour lesquelles un sourire forcé libère de la sérotonine dans le cerveau et un espace rangé réduit la charge cognitive visuelle."
 pubDate: "2026-01-19"
@@ -33,17 +34,17 @@ Dans l'article d'aujourd'hui, nous analysons les principes de l'hypothèse de r�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant anchangho-mirror-smile est basée sur <strong>Vérification Historique issue de la biographie de Dosan Ahn Chang-ho, des archives de la Young Korean Academy (Hung Sah Dahn) & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Dosan Ahn Chang-ho, des archives de la Young Korean Academy (Hung Sah Dahn) & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Effets thérapeutiques cognitifs de l'hypothèse de rétroaction faciale et du rangement de l'espace physique
+## 1. Effets thérapeutiques cognitifs de l'hypothèse de rétroaction faciale et du rangement de l'espace physique
 
 Selon l'hypothèse de rétroaction faciale (Facial Feedback Hypothesis) en physiologie, le cerveau ne se contente pas de mouvoir les muscles faciaux en fonction des émotions ; inversement, il détecte l'état de contraction des muscles faciaux pour déterminer l'état émotionnel actuel. Le simple fait de forcer un sourire le matin amène le cerveau à le percevoir comme un stimulus de joie, favorisant la sécrétion de neurotransmetteurs positifs comme la sérotonine et la dopamine, et diminuant le niveau de cortisol, l'hormone du stress.
 
@@ -51,9 +52,7 @@ De plus, le fait de nettoyer et d'ordonner l'espace environnant bloque considér
 
 ---
 
-## Un mot de Dosan pour ordonner l'esprit et l'espace
-
-Lorsque votre esprit est dispersé, plutôt que de vous efforcer de rassembler vos pensées avec force, commencez par vous adresser un sourire dans le miroir et par ramasser un déchet juste devant vos yeux. Le sourire dissipe les ténèbres intérieures, et la propreté corrige le désordre extérieur, vous guidant sur le bon chemin.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Lorsque votre esprit est dispersé, plutôt que de vous efforcer de rassembler v
     Même si vous ne sortez pas de chez vous, lavez-vous le visage, peignez-vous soigneusement, évitez les vêtements froissés ou sales et maintenez une tenue propre pour susciter une vigilance cognitive.
   </p>
 </div>
+
+---
+
+## 3. Un mot de Dosan pour ordonner l'esprit et l'espace
+
+Lorsque votre esprit est dispersé, plutôt que de vous efforcer de rassembler vos pensées avec force, commencez par vous adresser un sourire dans le miroir et par ramasser un déchet juste devant vos yeux. Le sourire dissipe les ténèbres intérieures, et la propreté corrige le désordre extérieur, vous guidant sur le bon chemin.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

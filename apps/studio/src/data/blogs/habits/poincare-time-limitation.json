@@ -1,192 +1,282 @@
 {
   "poincare-time-limitation": {
-    "title": {
-      "ko": "천재 수학자의 답은 휴식 중에 나왔다? 앙리 푸앵카레의 4시간 집중 제한 루틴",
-      "en": "A Genius Mathematician's Breakthrough Came During Rest? Henri Poincaré's 4-Hour Focus Limit Routine",
-      "ja": "天才数学者の答えは休息中に出た？アンリ・ポアンカレの4時間集中制限ルーティン",
-      "zh": "天才数学家的答案出在休息时？昂利·庞加莱的4小时专注限制习惯",
-      "es": "¿La gran respuesta del matemático genio surgió durante el descanso? La rutina de límite de enfoque de 4 horas de Henri Poincaré",
-      "de": "Die Lösung des genialen Mathematikers kam in der Ruhephase? Henri Poincarés 4-Stunden-Fokuslimit-Routine",
-      "fr": "L'illumination du mathématicien de génie est venue pendant le repos ? La routine de limite de focalisation de 4 heures d'Henri Poincaré",
-      "pt": "A revelação do matemático gênio veio durante o descanso? A rotina de limite de foco de 4 horas de Henri Poincaré",
-      "id": "Jawaban Matematikus Jenius Muncul Saat Istirahat? Rutinitas Batas Fokus 4 Jam Henri Poincaré"
-    },
-    "description": {
-      "ko": "천재 과학자 앙리 푸앵카레의 성공 공식인 하루 4시간 집중 한계 설정법. 뇌의 집중 모드와 분산 모드를 활용해 무의식적으로 창의적 영감을 얻는 3단계 가이드를 소개합니다.",
-      "en": "Henri Poincaré's success formula of capping focused work at 4 hours a day. Discover a 3-step guide utilizing focused and diffuse brain modes to unconsciously unlock creative inspiration.",
-      "ja": "天才科学者アンリ・ポアンカレの成功方程式である1日4時間集中限界設定法。脳の集中モードと分散モードを活用して無意識に創造的ひらめきを得る3ステップガイドを紹介します。",
-      "zh": "介绍天才科学家昂利·庞加莱将每日工作限制在4小时的成功法则。探索利用大脑专注模式与发散模式在无意识中获取创造性灵感的3步骤指南。",
-      "es": "La fórmula de éxito de Henri Poincaré de limitar el trabajo concentrado a 4 horas al día. Descubra una guía de 3 pasos que utiliza los modos enfocado y difuso del cerebro para desbloquear la inspiración creativa.",
-      "de": "Henri Poincarés Erfolgsformel: Das konzentrierte Arbeiten auf 4 Stunden täglich zu begrenzen. Entdecken Sie eine 3-Schritte-Anleitung zur Nutzung des fokussierten und diffusen Hirnmodus für kreative Inspiration.",
-      "fr": "La formule de succès d'Henri Poincaré consistant à limiter le travail concentré à 4 heures par jour. Découvrez un guide en 3 étapes utilisant les modes concentré et diffus du cerveau pour libérer l'inspiration créative.",
-      "pt": "A fórmula de sucesso de Henri Poincaré de limitar o trabalho focado a 4 horas por dia. Descubra um guia de 3 etapas utilizando os modos focado e difuso do cérebro para desbloquear a inspiração criativa.",
-      "id": "Formula sukses Henri Poincaré dengan membatasi kerja terfokus 4 jam sehari. Pelajari panduan 3 langkah yang memanfaatkan mode terfokus dan mode menyebar pada otak untuk membuka inspirasi kreatif."
-    },
-    "authority": {
-      "ko": "앙리 푸앵카레 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical Biographies and Writings on Henri Poincaré & Cognitive Neuroscience Research",
-      "ja": "アンリ・ポアンカレ歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "昂利·庞加莱历史传记与著作考证 & 认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Biografías históricas y escritos sobre Henri Poincaré e investigación en neurociencia cognitiva",
-      "de": "Historische Biografien und Schriften über Henri Poincaré & Kognitive Neurowissenschaften",
-      "fr": "Biographies historiques et écrits sur Henri Poincaré & recherche en neurosciences cognitives",
-      "pt": "Biografias históricas e escritos sobre Henri Poincaré & pesquisa em neurociência cognitiva",
-      "id": "Biografi Historis dan Catatan tentang Henri Poincaré & Penelitian Neurosains Kognitif"
-    },
-    "intro": {
-      "ko": "\"갑작스러운 영감은 항상 며칠간의 자발적인 노력 이후에 찾아오는 무의식적 작업의 명백한 징표입니다.\" 프랑스의 삼체문제 해결자이자 카오스 이론의 선구자이며, 현대 수학사상 가장 위대한 천재 중 한 명으로 꼽히는 앙리 푸앵카레(Henri Poincaré). 그는 놀랍게도 평생 하루에 딱 4시간만 책상 앞에 앉아 연구하는 엄격한 한계를 두었습니다. 그는 오전 10시부터 12시까지, 그리고 오후 5시부터 7시까지 오직 4시간만 깊게 일했고, 나머지 시간에는 산책을 하거나 사교 활동을 하며 뇌를 완전히 오프라인 상태로 쉬게 했습니다. 흥미롭게도 푸앵카레는 풀리지 않던 수학 난제(푸시안 함수)들의 핵심 공식이 연구실 책상이 아니라, 지질학 답사 여행 도중 쿠탕스(Coutances)에서 옴니버스(마차 버스) 발판에 올라타는 그 순간에 불현듯 완성된 형태로 머릿속에 번뜩이며 솟구쳤다고 회고했습니다. 그는 수일간의 치열한 전두엽 집중 뒤에 오는 완전한 휴식(인큐베이션 기간)만이 무의식의 뇌 신경망을 활성화해 유기적인 창의적 결합을 만들어낸다고 강조했습니다. 오늘 포스트에서는 천재 수학자 앙리 푸앵카레의 '4시간 집중 제한' 루틴에 숨겨진 뇌의 집중 모드와 분산 모드의 상호작용 원리를 밝히고, 현대인들이 창의적 문제 해결을 위해 이를 활용하는 3단계 실천 방안을 제안합니다.",
-      "en": "\"Sudden illumination is a manifest sign of long, unconscious prior work, preceded by voluntary conscious effort.\" Henri Poincaré, the polymath, solver of the three-body problem, and pioneer of chaos theory, was one of the greatest mathematicians in history. Remarkably, Poincaré enforced a strict boundary of working only 4 hours a day at his desk. He focused deeply from 10:00 AM to 12:00 PM and 5:00 PM to 7:00 PM, spending the rest of the day walking, relaxing, or conversing to let his brain recharge offline. Crucially, Poincaré recalled that the breakthroughs to his most complex mathematical challenges—such as Fuchsian functions—did not occur while staring at equations, but suddenly flashed into his mind the moment he stepped onto an omnibus during a geological excursion in Coutances. He realized that intensive conscious effort followed by complete rest (an incubation phase) allows the brain's subconscious networks to combine ideas creatively. This post explores the neuroscientific interaction between the focused and diffuse modes of the brain in Poincaré's 4-hour routine and offers a 3-step actionable guide.",
-      "ja": "「突然のひらめきは、常に数日間の自発的な努力の後に訪れる無意識の作業の明白な兆候です。」フランスの三体問題の解決者でありカオス理論の先駆者、現代数学史上最も偉大な天才の一人に数えられるアンリ・ポアンカレ（Henri Poincaré）。彼は驚くべきことに、生涯1日にたった4時間だけ机に向かって研究するという厳格な限界を設けていました。彼は午前10時から12時、利益午後5時から7時までのわずか4時間だけ深く働き、残りの時間は散歩や社交活動をして脳を完全にオフライン状態で休ませました。興味深いことに、ポアンカレは解けなかった数学の難題（フックス関数）の核心公式が研究室の机ではなく、地質調査旅行中にクータンス（Coutances）でオムニバス（乗合馬車）のステップに足をかけたその瞬間に、突然完成された形で頭の中に閃いたと回想しています。彼は数日間の熾烈な前頭葉の集中の後に訪れる完全な休息（インキュベーション期間）こそが、無意識の脳神経系を活性化させて有機的な創造的結合を生み出すと強調しました。本記事では、アンリ・ポアンカレの「4時間集中制限」ルーティンに隠された脳の集中モードと分散モードの相互作用原理を明かし、現代人が創造的問題解決のためにこれを活用する3ステップの実践方法を提案します。",
-      "zh": "\"突然的灵感始终是经过数天自觉努力后无意识工作的明确标志。\" 法国三体问题解决者、混沌理论先驱、被誉为现代数学史上最伟大的天才之一的昂利·庞加莱（Henri Poincaré）。令人惊讶的是，他一生严格规定每天只在书桌前研究4个小时。他只在上午10点至12点以及下午5点至7点这两个时间段高度专注工作，其余时间则通过散步或社交活动让大脑完全处于离线休息状态。有趣的是，庞加莱回忆称，困扰他许久的数学难题（福克斯函数）的核心公式并非诞生于研究室的书桌前，而是在他去库唐斯（Coutances）进行地质考察时踏上公共马车踏板的那一瞬间，以完美的形式在脑海中闪现。他强调，在经历数天炽热的前头叶专注后迎来的彻底休息（孕育期），才能激活大脑无意识神经网络并创造出有机的创造性结合。本篇文章将揭示昂利·庞加莱“4小时专注限制”习惯中蕴含的大脑专注模式与发散模式的相互作用原理，并为现代人提供3步骤实用指南。",
-      "es": "\"La iluminación repentina es un sign habitual de un largo trabajo inconsciente previo.\" Henri Poincaré, el polímata francés, resolutor del problema de los tres cuerpos y pionero de la teoría del caos, fue uno de los matemáticos más grandes de la historia. Asombrosamente, Poincaré mantenía el límite estricto de trabajar solo 4 horas al día en su escritorio. Se concentraba de 10:00 a 12:00 y de 17:00 a 19:00, pasando el resto del día paseando o descansando. Poincaré recordaba que sus descubrimientos más importantes (como las funciones fuchsianas) no surgían frente a las ecuaciones, sino que aparecían en su mente al subir al estribo de un ómnibus durante una excursión en Coutances. Comprendió que tras un esfuerzo consciente intenso, un período de descanso completo permite al cerebro subconsciente conectar ideas de forma creativa. Este artículo analiza la interacción entre el modo enfocado y el modo difuso en la rutina de Poincaré y brinda una guía práctica.",
-      "de": "\"Die plötzliche Eingebung ist ein klares Zeichen für eine lange, unbewusste Vorarbeit.\" Henri Poincaré, der französische Universalgelehrte, Löser des Dreikörperproblems und Pionier der Chaostheorie, galt als eines der größten Genies der Mathematik. Erstaunlicherweise begrenzte er seine Arbeit am Schreibtisch strikt auf 4 Stunden täglich: von 10:00 bis 12:00 Uhr und von 17:00 bis 19:00 Uhr. Den Rest des Tages verbrachte er mit Spaziergängen oder Entspannung. Poincaré erinnerte sich, dass ihm die Lösung für komplexe mathematische Probleme (wie die Fuchsschen Funktionen) nicht am Schreibtisch kam, sondern plötzlich beim Einsteigen in einen Omnibus während einer Reise in Coutances einfiel. Er erkannte, dass auf intensive Konzentration eine Inkubationsphase der Ruhe folgen muss, damit das Unterbewusstsein Ideen verknüpfen kann. Dieser Beitrag beschreibt das Zusammenspiel von fokussiertem und diffusem Denken in Poincarés 4-Stunden-Routine.",
-      "fr": "\"L'illumination soudaine est le signe manifeste d'un long travail inconscient préalable.\" Henri Poincaré, l'érudit français qui a résolu le problème des trois corps et pionnier de la théorie du chaos, était l'un des plus grands mathématiciens de l'histoire. Curieusement, Poincaré s'imposait la règle stricte de ne travailler que 4 heures par jour à son bureau (de 10h à 12h et de 17h à 19h), consacrant le reste de son temps à se promener ou à se détendre. Poincaré s'est souvenu que la solution à ses problèmes mathématiques les plus ardus (comme les fonctions fuchsiennes) ne lui est pas venue devant ses papiers, mais a surgi dans son esprit au moment d'monter sur le marchepied d'un omnibus à Coutances. Il a compris qu'un effort conscient intense suivi d'un repos complet (phase d'incubation) permet au réseau inconscient du cerveau d'associer les idées de manière créative. Cet article analyse la dynamique entre les modes concentré et diffus dans la routine de Poincaré.",
-      "pt": "\"A iluminação repentina é um sinal manifesto de um longo trabalho inconsciente prévio.\" Henri Poincaré, polímata francês, resolvedor do problema dos três corpos e pioneiro da teoria do caos, foi um dos maiores matemáticos da história. Incrivelmente, Poincaré mantinha a regra rígida de trabalhar apenas 4 horas por dia em sua escrivaninha (das 10h às 12h e das 17h às 19h), passando o resto do dia caminhando ou descansando. Ele se lembrava de que as soluções para seus desafios matemáticos mais complexos (como as funções fuchsianas) não surgiam diante das equações, mas apareciam em sua mente no momento em que subia o estribo de um ônibus em Coutances. Ele percebeu que um esforço consciente intenso seguido de repouso completo (fase de incubação) permite que o cérebro subconsciente conecte ideias de forma criativa. Este artigo analisa essa interação entre modo focado e modo difuso na rotina de Poincaré.",
-      "id": "\"Pencerahan mendadak adalah tanda nyata dari kerja tak sadar yang panjang sebelumnya.\" Henri Poincaré, matematikawan Prancis, penyelesai masalah tiga benda dan pelopor teori kaos, adalah salah satu jenius terbesar dalam sejarah. Yang mengejutkan, Poincaré secara ketat membatasi waktu kerjanya hanya 4 jam sehari di meja kerja (pukul 10.00–12.00 dan 17.00–19.00), menghabiskan sisa waktunya dengan berjalan-jalan atau bersantai. Poincaré mengenang bahwa terobosan untuk masalah matematika tersulitnya (seperti fungsi Fuchsian) tidak muncul saat menatap rumus, melainkan mendadak melintas di pikirannya saat ia menaiki pijakan bus omnibus di Coutances. Ia menyadari bahwa usaha sadar yang intensif diikuti oleh istirahat total (fase inkubasi) memungkinkan jaringan otak bawah sadar menghubungkan ide-ide secara kreatif. Artikel ini mengulas interaksi antara mode terfokus dan mode menyebar dalam rutinitas 4 jam Poincaré."
-    },
-    "whyTitle": {
-      "ko": "집중 모드와 분산 모드: 무의식의 문제 해결 능력",
-      "en": "Focused Mode vs. Diffuse Mode: Subconscious Problem Solving",
-      "ja": "集中モードと分散モード：無意識の問題解決能力",
-      "zh": "专注模式与发散模式：无意识的解题能力",
-      "es": "Modo enfocado vs. modo difuso: La capacidad subconsciente para resolver problemas",
-      "de": "Fokussierter vs. diffuser Modus: Die unbewusste Problemlösungskompetenz",
-      "fr": "Mode concentré vs mode diffus : La résolution subconsciente de problèmes",
-      "pt": "Modo focado vs. modo difuso: A capacidade subconsciente de resolução de problemas",
-      "id": "Mode Terfokus vs Mode Menyebar: Kemampuan Memecahkan Masalah Bawah Sadar"
-    },
-    "whyDesc": {
-      "ko": "학습 과학 및 신경 생리학에 따르면, 우리 뇌의 인지 기능은 '집중 모드(Focused Mode)'와 '분산 모드(Diffuse Mode)'의 두 가지 시스템으로 작동합니다. 책상 앞에 앉아 온 힘을 다해 연산하는 집중 모드에서는 전두엽의 기능이 조여져 좁고 특정한 영역의 회로망만 활성화됩니다. 하지만 집중을 풀고 가벼운 산책이나 휴식을 취하는 분산 모드가 되면, 뇌의 전반적인 영역이 연결되는 디폴트 모드 네트워크(DMN)가 깨어납니다.\n\n이 분산 모드 동안 뇌는 무의식적으로 기존 지식 조각들을 무작위로 결합하는 '인큐베이션(Incubation)' 과정을 수행합니다. 풀리지 않던 어려운 수학 공식의 답이 휴식 중에 불현듯 스쳐 지나간 것은, 뇌가 편안한 분산 모드로 진입하며 전두엽의 방어 장벽을 허물고 완전히 새로운 신경 통로를 연결했기 때문입니다.",
-      "en": "According to cognitive science and neurophysiology, the brain operates in two distinct modes: 'Focused Mode' and 'Diffuse Mode'. In Focused Mode, as when working intently at a desk, the prefrontal cortex narrows its scope to highly specific neural pathways. However, when you step away and rest or walk, the brain transitions into Diffuse Mode, activating the Default Mode Network (DMN) which connects widespread regions across the brain.\n\nDuring Diffuse Mode, the subconscious mind engages in 'Incubation'—randomly recombining disparate pieces of information. Breakthrough solutions to unsolvable mathematical equations flash into mind during rest because Diffuse Mode lowers executive control barriers, forming novel neural connections that were blocked during intense focus.",
-      "ja": "学習科学および神経生理学によると、私たちの脳の認知機能は「集中モード（Focused Mode）」と「分散モード（Diffuse Mode）」の2つのシステムで作動します。机に向かって全力で演算する集中モードでは前頭葉の機能が絞られ、狭く特定の領域の回路網だけが活性化します。しかし集中を解いて軽い散歩や休息をとる分散モードになると、脳の全般的な領域が連結されるデフォルト・モード・ネットワーク（DMN）が目覚めます。\n\nこの分散モードの間、脳は無意識に既存の知識の破片を無作為に結合する「インキュベーション（Incubation）」過程を実行します。解けなかった難しい数学公式の答えが休息中に突然かすめて通り過ぎたのは、脳がリラックスした分散モードに進入して前頭葉の防衛障壁を崩し、完全に新しい神経通路を連結したからです。",
-      "zh": "根据学习科学与神经生理学，我们大脑的认知功能通过“专注模式（Focused Mode）”与“发散模式（Diffuse Mode）”这两种系统工作。在书桌前全力进行运算的专注模式下，前额叶皮层的功能收紧，仅激活狭窄且特定区域的网络。然而，当放下专注进行轻松散步或休息进入发散模式时，连接大脑全局区域的默认模式网络（DMN）随之被唤醒。\n\n在发散模式期间，大脑会在无意识中进行随机组合已有知识碎片的“孕育（Incubation）”过程。困扰许久的数学难题之解之所以在休息时闪现，是因为大脑进入了放松的发散模式，破除了前额叶的控制壁垒，建立起了全新的神经通道。",
-      "es": "Según la ciencia cognitiva, el cerebro funciona en dos modos: 'Modo Enfocado' y 'Modo Difuso'. En el Modo Enfocado, al trabajar intensamente en un escritorio, la corteza prefrontal reduce su alcance a vías neuronales específicas. Sin embargo, al descansar o pasear, el cerebro pasa al Modo Difuso, activando la Red Neuronal por Defecto (DMN).\n\nDurante el Modo Difuso, el subconsciente realiza la 'Incubación': reorganizando aleatoriamente piezas de información. Las soluciones a ecuaciones complejas surgen durante el descanso porque el Modo Difuso derriba las barreras de control cognitivo, formando conexiones neuronales novedosas que estaban bloqs durante la concentración intensa.",
-      "de": "Laut Kognitionswissenschaft arbeitet das Gehirn in zwei Modi: dem 'fokussierten Modus' und dem 'diffusen Modus'. Im fokussierten Modus konzentriert sich der präfrontale Kortex auf eng umgrenzte Netzwerke. Wenn Sie pausieren oder spazieren gehen, wechselt das Gehirn in den diffusen Modus und aktiviert das Ruhezustandsnetzwerk (DMN).\n\nIn diesem diffusen Modus betreibt das Unterbewusstsein 'Inkubation' – das freie Verknüpfen von Wissensbausteinen. Durchbrüche bei schwierigen Matheaufgabe geschehen in Ruhephasen, weil der diffuse Modus kognitive Kontrollbarrieren abbaut und völlig neue neuronale Pfade verbindet.",
-      "fr": "Selon les sciences cognitives, le cerveau fonctionne selon deux modes : le 'mode concentré' et le 'mode diffus'. En mode concentré, lorsque l'on travaille au bureau, le cortex préfrontal cible des réseaux très précis. Mais dès que l'on fait une pause ou une marche, le cerveau passe en mode diffus, activant le Réseau par Défaut (DMN).\n\nPendant ce mode diffus, le subconscient procède à 'l'incubation' : il réassocie librement des éléments d'information. Les réponses aux équations complexes surgissent au repos car le mode diffus lève les barrières de contrôle, formant de nouvelles connexions neuronales.",
-      "pt": "Segundo a ciência cognitiva, o cérebro opera em dois modos: 'Modo Focado' e 'Modo Difuso'. No Modo Focado, ao trabalhar intensamente, o córtex pré-frontal restringe seu escopo a caminhos específicos. Contudo, ao caminhar ou descansar, o cérebro passa para o Modo Difuso, ativando a Rede de Modo Padrão (DMN).\n\nDurante o Modo Difuso, o subconsciente realiza a 'Incubação' — recombinando aleatoriamente pedaços de conhecimento. As soluções para equações difíceis surgem durante o descanso porque o Modo Difuso derruba as barreiras de controle, formando novas conexões neurais que estavam bloqs durante o foco intenso.",
-      "id": "Menurut sains kognitif, otak bekerja dalam dua mode: 'Mode Terfokus' dan 'Mode Menyebar'. Dalam Mode Terfokus, saat bekerja keras di meja, korteks prafrontal mempersempit cakupannya ke jalur saraf yang sangat spesifik. Namun, saat Anda istirahat atau berjalan-jalan, otak beralih ke Mode Menyebar, mengaktifkan Default Mode Network (DMN).\n\nSelama Mode Menyebar, pikiran bawah sadar melakukan 'Inkubasi'—mengombinasikan kembali potongan-potongan informasi secara acak. Solusi untuk persamaan matematika yang rumit muncul saat istirahat karena Mode Menyebar menurunkan hambatan kendali eksekutif, membentuk koneksi saraf baru yang sebelumnya terhambat."
-    },
-    "cautionTitle": {
-      "ko": "지속가능한 몰입을 위한 뇌과학적 한마디",
-      "en": "A Neuroscientific Insight for Sustainable Focus",
-      "ja": "持続可能な没頭のための脳科学的アドバイス",
-      "zh": "实现可持续专注的脑科学忠告",
-      "es": "Un consejo neurocientífico para un enfoque sostenible",
-      "de": "Ein neurowissenschaftlicher Rat für nachhaltigen Fokus",
-      "fr": "Un conseil neuroscientifique pour une concentration durable",
-      "pt": "Um conselho neurocientífico para um foco sustentável",
-      "id": "Saran Neurosains untuk Fokus yang Berkelanjutan"
-    },
-    "cautionDesc": {
-      "ko": "창의적인 생각은 억지로 쥐어짜 낼 때 나오는 것이 아닙니다. 뇌의 집중 한계 시간을 명확히 설정하고, 풀리지 않는 문제가 있다면 과감하게 자리에서 일어나 산책을 하며 뇌에 '분산 모드'의 휴식을 선사하세요. 무의식이 당신 대신 해답을 찾아 줄 것입니다.",
-      "en": "Creative breakthroughs do not happen by forcing yourself. Set a firm limit on your focused work time, and when stuck on a tough problem, step away and take a walk to grant your brain Diffuse Mode rest. Your subconscious mind will process the answer for you.",
-      "ja": "合創造的な考えは無理に絞り出そうとするときに出るものではありません。脳の集中限界時間を明確に設定し、解けない問題があれば思い切って席を立って散歩をし、脳に「分散モード」の休息を与えてください。無意識があなたに代わって解答を見つけてくれるはずです。",
-      "zh": "创造性的灵感绝非强行挤压出来的。请明确设定大脑的专注极限时间，遇到难以解决的问题时，果断离开书桌去散散步，给大脑送上一份“发散模式”的休息。潜意识会替您找到答案。",
-      "es": "Las ideas creativas no surgen al forzarlas. Establezca un límite claro de tiempo de enfoque, y cuando se sienta atascado, levántese y dé un paseo para dar a su cerebro descanso en Modo Difuso. Su subconsciente buscará la respuesta por usted.",
-      "de": "Kreative Ideen lassen sich nicht erzwingen. Setzen Sie ein klares Limit für Ihre fokussierte Arbeitszeit. Wenn Sie feststecken, stehen Sie auf und machen Sie einen Spaziergang, um dem Gehirn Erholung im diffusen Modus zu gönnen. Das Unterbewusstsein arbeitet für Sie.",
-      "fr": "Les idées créatives ne naissent pas sous la contrainte. Fixez une limite claire à votre temps de travail concentré, et si vous bloquez, levez-vous et allez marcher pour offrir à votre cerveau un repos en mode diffus. Le subconscient trouvera la solution pour vous.",
-      "pt": "Ideias criativas não surgem forçando a mente. Estabeleça um limite claro para o tempo de trabalho focado e, quando estiver empacado, levante-se e caminhe para dar ao seu cérebro um descanso no Modo Difuso. Seu subconsciente encontrará a resposta.",
-      "id": "Gagasan kreatif tidak muncul dari paksaan. Tetapkan batas yang jelas untuk waktu kerja terfokus Anda, dan saat menemui jalan buntu, berdirilah dan jalan-jalan untuk memberi otak Anda istirahat dalam Mode Menyebar. Pikiran bawah sadar akan menemukan jawabannya untuk Anda."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "일일 고정식 '집중 한계 시간' 설정하기",
-          "en": "Set a Daily Fixed 'Focus Time Limit'",
-          "ja": "毎日の固定式「集中限界時間」の設定",
-          "zh": "设定每日固定“专注时间上限”",
-          "es": "Establezca un 'límite de tiempo de enfoque' diario fijo",
-          "de": "Ein tägliches 'Fokus-Zeitlimit' festlegen",
-          "fr": "Définir une 'limite de temps de concentration' quotidienne fixe",
-          "pt": "Defina um 'limite de tempo de foco' diário fixo",
-          "id": "Tetapkan 'Batas Waktu Fokus' Harian yang Tetap"
-        },
-        "text": {
-          "ko": "하루 8시간 내내 초집중하겠다는 계획은 생리학적으로 불가능합니다. 앙리 푸앵카레처럼 하루 4시간 또는 2시간씩 자신이 고도로 몰입할 수 있는 타임 블록을 타이머와 함께 엄격히 지정해두고 일을 집중 실행합니다.",
-          "en": "Planning to maintain hyper-focus for 8 hours straight is physiologically impossible. Like Henri Poincaré, set strict time blocks—such as two 2-hour blocks totaling 4 hours—with a timer and execute your core work during these windows.",
-          "ja": "1日8時間ずっと超集中するという計画は生理学的に不可能です。アンリ・ポアンカレのように1日4時間、あるいは2時間ずつ自分が高度に没頭できるタイムブロックをタイマーとともに厳格に指定し、仕事を集中して実行します。",
-          "zh": "想要整整8小时保持超强专注在生理上是不可能的。像昂利·庞加莱那样，利用计时器严格设定每日4小时（或分阶段每次2小时）的高效专注时间块，并在该时段内集中执行核心工作。",
-          "es": "Mantener una superconcentración durante 8 horas seguidas es imposible. Como Poincaré, establezca bloques estritos (como dos bloques de 2 horas) con un temporizador y realice su trabajo principal durante ese tiempo.",
-          "de": "8 Stunden lang ununterbrochen hochkonzentriert zu arbeiten, ist physiologisch unmöglich. Setzen Sie sich wie Poincaré feste Blöcke (z. B. zwei 2-Stunden-Blöcke) mit einem Timer und arbeiten Sie darin hochfokussiert.",
-          "fr": "Planifier 8 heures de concentration intense est physiologiquement impossible. Comme Poincaré, définissez des blocs stricts (ex. deux blocs de 2 heures) avec un minuteur et consacrez-vous entièrement à votre travail pendant ces créneaux.",
-          "pt": "Manter o foco máximo durante 8 horas seguidas é fisiologicamente impossível. Como Poincaré, estabeleça blocos rígidos (como dois blocos de 2 horas) com timer e trabalhe focadamente nesses intervalos.",
-          "id": "Berencana untuk mempertahankan fokus tinggi selama 8 jam berturut-turut secara fisiologis tidak mungkin dilakukan. Seperti Henri Poincaré, tetapkan blok waktu yang ketat (seperti dua blok 2 jam) menggunakan timer dan kerjakan tugas utama Anda dalam jendela waktu tersebut."
-        }
+    "pubDate": "2026-04-19",
+    "updatedDate": "2026-04-19",
+    "heroImage": "/images/blog/poincare_time_limitation.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "천재 수학자의 답은 휴식 중에 나왔다? 앙리 푸앵카레의 4시간 집중 제한 루틴",
+        "description": "천재 과학자 앙리 푸앵카레의 성공 공식인 하루 4시간 집중 한계 설정법. 뇌의 집중 모드와 분산 모드를 활용해 무의식적으로 창의적 영감을 얻는 3단계 가이드를 소개합니다.",
+        "authority": "앙리 푸앵카레 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"갑작스러운 영감은 항상 며칠간의 자발적인 노력 이후에 찾아오는 무의식적 작업의 명백한 징표입니다.\" 프랑스의 삼체문제 해결자이자 카오스 이론의 선구자이며, 현대 수학사상 가장 위대한 천재 중 한 명으로 꼽히는 앙리 푸앵카레(Henri Poincaré). 그는 놀랍게도 평생 하루에 딱 4시간만 책상 앞에 앉아 연구하는 엄격한 한계를 두었습니다. 그는 오전 10시부터 12시까지, 그리고 오후 5시부터 7시까지 오직 4시간만 깊게 일했고, 나머지 시간에는 산책을 하거나 사교 활동을 하며 뇌를 완전히 오프라인 상태로 쉬게 했습니다. 흥미롭게도 푸앵카레는 풀리지 않던 수학 난제(푸시안 함수)들의 핵심 공식이 연구실 책상이 아니라, 지질학 답사 여행 도중 쿠탕스(Coutances)에서 옴니버스(마차 버스) 발판에 올라타는 그 순간에 불현듯 완성된 형태로 머릿속에 번뜩이며 솟구쳤다고 회고했습니다. 그는 수일간의 치열한 전두엽 집중 뒤에 오는 완전한 휴식(인큐베이션 기간)만이 무의식의 뇌 신경망을 활성화해 유기적인 창의적 결합을 만들어낸다고 강조했습니다. 오늘 포스트에서는 천재 수학자 앙리 푸앵카레의 '4시간 집중 제한' 루틴에 숨겨진 뇌의 집중 모드와 분산 모드의 상호작용 원리를 밝히고, 현대인들이 창의적 문제 해결을 위해 이를 활용하는 3단계 실천 방안을 제안합니다.",
+        "whyTitle": "집중 모드와 분산 모드: 무의식의 문제 해결 능력",
+        "whyDesc": "학습 과학 및 신경 생리학에 따르면, 우리 뇌의 인지 기능은 '집중 모드(Focused Mode)'와 '분산 모드(Diffuse Mode)'의 두 가지 시스템으로 작동합니다. 책상 앞에 앉아 온 힘을 다해 연산하는 집중 모드에서는 전두엽의 기능이 조여져 좁고 특정한 영역의 회로망만 활성화됩니다. 하지만 집중을 풀고 가벼운 산책이나 휴식을 취하는 분산 모드가 되면, 뇌의 전반적인 영역이 연결되는 디폴트 모드 네트워크(DMN)가 깨어납니다.\n\n이 분산 모드 동안 뇌는 무의식적으로 기존 지식 조각들을 무작위로 결합하는 '인큐베이션(Incubation)' 과정을 수행합니다. 풀리지 않던 어려운 수학 공식의 답이 휴식 중에 불현듯 스쳐 지나간 것은, 뇌가 편안한 분산 모드로 진입하며 전두엽의 방어 장벽을 허물고 완전히 새로운 신경 통로를 연결했기 때문입니다.",
+        "cautionTitle": "지속가능한 몰입을 위한 뇌과학적 한마디",
+        "cautionDesc": "창의적인 생각은 억지로 쥐어짜 낼 때 나오는 것이 아닙니다. 뇌의 집중 한계 시간을 명확히 설정하고, 풀리지 않는 문제가 있다면 과감하게 자리에서 일어나 산책을 하며 뇌에 '분산 모드'의 휴식을 선사하세요. 무의식이 당신 대신 해답을 찾아 줄 것입니다.",
+        "steps": [
+          {
+            "title": "일일 고정식 '집중 한계 시간' 설정하기",
+            "desc": "하루 8시간 내내 초집중하겠다는 계획은 생리학적으로 불가능합니다. 앙리 푸앵카레처럼 하루 4시간 또는 2시간씩 자신이 고도로 몰입할 수 있는 타임 블록을 타이머와 함께 엄격히 지정해두고 일을 집중 실행합니다."
+          },
+          {
+            "title": "정체기에 직면할 때 즉시 자리에서 일어나기",
+            "desc": "풀리지 않는 문제로 인해 15분 이상 진전이 없다면 억지로 물고 늘어지는 대신 과감히 책상을 떠납니다. 뇌의 집중 모드 연결망을 강제로 차단하고 15~20분간 산책이나 다른 사소한 활동을 거쳐 뇌를 '분산 모드'로 활성화시킵니다."
+          },
+          {
+            "title": "무의식이 내놓은 영감의 즉각적인 메모",
+            "desc": "휴식 중에 무의식이 돌려보낸 답은 찰나의 전구빛과 같아서 붙잡지 않으면 순식간에 휘발됩니다. 앙리 푸앵카레의 메모지나 소형 스마트폰 녹음 기능을 사용해 휴식 중에 갑자기 튀어나온 창의적 영감을 즉각 포착하여 저장합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "앙리 푸앵카레는 왜 하루 4시간만 연구했나요?",
+            "answer": "오랜 시간 억지로 집중하면 뇌의 인지적 시야가 협소해져 오히려 창의성이 떨어지므로, 4시간의 집중 모드가 끝나면 산책과 휴식을 통한 분산 모드를 활성화해 뇌의 무의식적 영감을 이끌어내기 위함이었습니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "정체기에 직면할 때 즉시 자리에서 일어나기",
-          "en": "Step Away Immediately When Hitting a Plateau",
-          "ja": "停滞期に直面したとき即座に席を立つ",
-          "zh": "遇到思维瓶颈时立即离开书桌",
-          "es": "Levántese de inmediato al alcanzar un bloqueo mental",
-          "de": "Bei mentaler Blockade sofort aufstehen",
-          "fr": "S'éloigner immédiatement en cas de blocage mental",
-          "pt": "Afaste-se imediatamente ao atingir um bloqueio mental",
-          "id": "Segera Berdiri dan Pergi Saat Menemui Jalan Buntu"
-        },
-        "text": {
-          "ko": "풀리지 않는 문제로 인해 15분 이상 진전이 없다면 억지로 물고 늘어지는 대신 과감히 책상을 떠납니다. 뇌의 집중 모드 연결망을 강제로 차단하고 15~20분간 산책이나 다른 사소한 활동을 거쳐 뇌를 '분산 모드'로 활성화시킵니다.",
-          "en": "If you make no progress on a problem for 15 minutes, step away from your desk instead of forcing it. Sever the focused network and activate Diffuse Mode by taking a 15–20 minute walk or doing light non-mental tasks.",
-          "ja": "解けない問題によって15分以上進展がない場合は、無理にしがみつくのではなく思い切ってデスクを離れます。脳の集中モードネットワークを強制的に遮断し、15〜20分間散歩やその他の軽い活動をして脳を「分散モード」に活性化させます。",
-          "zh": "若因遇到卡壳问题超过15分钟没有任何进展，切勿僵持。果断离开书桌，切断大脑的专注网络，通过15~20分钟的散步或轻微活动激活“发散模式”。",
-          "es": "Si lleva 15 minutos sin avanzar en un problema, levántese en lugar de forzarlo. Desconecte la red enfocada e active el Modo Difuso dando una caminata de 15 a 20 minutos o realizando una tarea ligera.",
-          "de": "Wenn Sie 15 Minuten lang bei einem Problem feststecken, verlassen Sie den Schreibtisch. Unterbrechen Sie den fokussierten Modus und aktivieren Sie den diffusen Modus durch einen 15–20-minütigen Spaziergang.",
-          "fr": "Si vous n'avancez pas sur un problème depuis 15 minutes, levez-vous plutôt que de forcer. Coupez le réseau concentré et activez le mode diffus en allant marcher 15 à 20 minutes ou en faisant une activité légère.",
-          "pt": "Se passar 15 minutos sem progresso em um problema, afaste-se da mesa. Interrompa o modo focado e ative o Modo Difuso fazendo uma caminhada de 15 a 20 minutos ou realizando tarefas leves.",
-          "id": "Jika Anda tidak mengalami kemajuan dalam suatu masalah selama 15 menit, tinggalkan meja Anda daripada memaksakannya. Putuskan jaringan terfokus dan aktifkan Mode Menyebar dengan berjalan-jalan selama 15–20 menit."
-        }
+      "en": {
+        "title": "A Genius Mathematician's Breakthrough Came During Rest? Henri Poincaré's 4-Hour Focus Limit Routine",
+        "description": "Henri Poincaré's success formula of capping focused work at 4 hours a day. Discover a 3-step guide utilizing focused and diffuse brain modes to unconsciously unlock creative inspiration.",
+        "authority": "Historical Biographies and Writings on Henri Poincaré & Cognitive Neuroscience Research",
+        "intro": "\"Sudden illumination is a manifest sign of long, unconscious prior work, preceded by voluntary conscious effort.\" Henri Poincaré, the polymath, solver of the three-body problem, and pioneer of chaos theory, was one of the greatest mathematicians in history. Remarkably, Poincaré enforced a strict boundary of working only 4 hours a day at his desk. He focused deeply from 10:00 AM to 12:00 PM and 5:00 PM to 7:00 PM, spending the rest of the day walking, relaxing, or conversing to let his brain recharge offline. Crucially, Poincaré recalled that the breakthroughs to his most complex mathematical challenges—such as Fuchsian functions—did not occur while staring at equations, but suddenly flashed into his mind the moment he stepped onto an omnibus during a geological excursion in Coutances. He realized that intensive conscious effort followed by complete rest (an incubation phase) allows the brain's subconscious networks to combine ideas creatively. This post explores the neuroscientific interaction between the focused and diffuse modes of the brain in Poincaré's 4-hour routine and offers a 3-step actionable guide.",
+        "whyTitle": "Focused Mode vs. Diffuse Mode: Subconscious Problem Solving",
+        "whyDesc": "According to cognitive science and neurophysiology, the brain operates in two distinct modes: 'Focused Mode' and 'Diffuse Mode'. In Focused Mode, as when working intently at a desk, the prefrontal cortex narrows its scope to highly specific neural pathways. However, when you step away and rest or walk, the brain transitions into Diffuse Mode, activating the Default Mode Network (DMN) which connects widespread regions across the brain.\n\nDuring Diffuse Mode, the subconscious mind engages in 'Incubation'—randomly recombining disparate pieces of information. Breakthrough solutions to unsolvable mathematical equations flash into mind during rest because Diffuse Mode lowers executive control barriers, forming novel neural connections that were blocked during intense focus.",
+        "cautionTitle": "A Neuroscientific Insight for Sustainable Focus",
+        "cautionDesc": "Creative breakthroughs do not happen by forcing yourself. Set a firm limit on your focused work time, and when stuck on a tough problem, step away and take a walk to grant your brain Diffuse Mode rest. Your subconscious mind will process the answer for you.",
+        "steps": [
+          {
+            "title": "Set a Daily Fixed 'Focus Time Limit'",
+            "desc": "Planning to maintain hyper-focus for 8 hours straight is physiologically impossible. Like Henri Poincaré, set strict time blocks—such as two 2-hour blocks totaling 4 hours—with a timer and execute your core work during these windows."
+          },
+          {
+            "title": "Step Away Immediately When Hitting a Plateau",
+            "desc": "If you make no progress on a problem for 15 minutes, step away from your desk instead of forcing it. Sever the focused network and activate Diffuse Mode by taking a 15–20 minute walk or doing light non-mental tasks."
+          },
+          {
+            "title": "Capture Subconscious Inspirations Instantly",
+            "desc": "Answers surfaced by the subconscious during rest evaporate quickly like a flashing light. Use a notepad or voice memos on your phone to instantly record and save creative epiphanies as soon as they strike."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why did Henri Poincaré only research for 4 hours a day?",
+            "answer": "Forcing prolonged focus narrows the brain's cognitive vision and reduces creativity. Limiting conscious work to 4 hours allowed Poincaré to activate Diffuse Mode through rest and walking, unlocking subconscious creative inspiration."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "무의식이 내놓은 영감의 즉각적인 메모",
-          "en": "Capture Subconscious Inspirations Instantly",
-          "ja": "無意識が出したひらめきの即座のメモ",
-          "zh": "立即记录无意识产出的灵感",
-          "es": "Anote las inspiraciones subconscientes al instante",
-          "de": "Unterbewusste Eingebungen sofort festhalten",
-          "fr": "Capturer immédiatement les inspirations du subconscient",
-          "pt": "Anote as inspirações subconscientes instantaneamente",
-          "id": "Catat Inspirasi Bawah Sadar Secara Langsung"
-        },
-        "text": {
-          "ko": "휴식 중에 무의식이 돌려보낸 답은 찰나의 전구빛과 같아서 붙잡지 않으면 순식간에 휘발됩니다. 앙리 푸앵카레의 메모지나 소형 스마트폰 녹음 기능을 사용해 휴식 중에 갑자기 튀어나온 창의적 영감을 즉각 포착하여 저장합니다.",
-          "en": "Answers surfaced by the subconscious during rest evaporate quickly like a flashing light. Use a notepad or voice memos on your phone to instantly record and save creative epiphanies as soon as they strike.",
-          "ja": "休息中に無意識が返してくれた答えは一瞬の電球の光のようなもので、捉えないと一瞬で蒸発してしまいます。アンリ・ポアンカレのメモ帳や小型スマートフォンの録音機能を使用して、休息中に突如飛び出した創造的ひらめきを即座に捉えて保存します。",
-          "zh": "休息期间无意识反馈的答案如闪电般稍纵即逝。请使用便签本或手机录音功能，在休息时突发灵感的那一刻立即记录下来。",
-          "es": "Las respuestas enviadas por el subconsciente durante el descanso se desvanecen rápidamente. Use una libreta o notas de voz en su teléfono para registrar al instante las epifanías creativas cuando aparezcan.",
-          "de": "Antworten, die das Unterbewusstsein in Ruhephasen liefert, verfliegen schnell. Nutzen Sie ein Notizbuch oder Sprachmemos, um kreative Geistesblitze sofort festzuhalten.",
-          "fr": "Les réponses du subconscient pendant le repos s'évaporent très vite. Utilisez un carnet ou des notes vocales pour enregistrer immédiatement vos illuminations créatives dès qu'elles surviennent.",
-          "pt": "As respostas enviadas pelo subconsciente durante o descanso somem rapidamente. Use um bloco de notas ou gravação de voz no celular para registrar instantaneamente as inspirações criativas assim que surgirem.",
-          "id": "Jawaban yang dimunculkan oleh pikiran bawah sadar saat istirahat dapat menguap dengan cepat. Gunakan buku catatan atau perekam suara ponsel untuk segera mencatat inspirasi kreatif saat melintas di pikiran Anda."
-        }
+      "zh": {
+        "title": "天才数学家的答案出在休息时？昂利·庞加莱的4小时专注限制习惯",
+        "description": "介绍天才科学家昂利·庞加莱将每日工作限制在4小时的成功法则。探索利用大脑专注模式与发散模式在无意识中获取创造性灵感的3步骤指南。",
+        "authority": "昂利·庞加莱历史传记与著作考证 & 认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "\"突然的灵感始终是经过数天自觉努力后无意识工作的明确标志。\" 法国三体问题解决者、混沌理论先驱、被誉为现代数学史上最伟大的天才之一的昂利·庞加莱（Henri Poincaré）。令人惊讶的是，他一生严格规定每天只在书桌前研究4个小时。他只在上午10点至12点以及下午5点至7点这两个时间段高度专注工作，其余时间则通过散步或社交活动让大脑完全处于离线休息状态。有趣的是，庞加莱回忆称，困扰他许久的数学难题（福克斯函数）的核心公式并非诞生于研究室的书桌前，而是在他去库唐斯（Coutances）进行地质考察时踏上公共马车踏板的那一瞬间，以完美的形式在脑海中闪现。他强调，在经历数天炽热的前头叶专注后迎来的彻底休息（孕育期），才能激活大脑无意识神经网络并创造出有机的创造性结合。本篇文章将揭示昂利·庞加莱“4小时专注限制”习惯中蕴含的大脑专注模式与发散模式的相互作用原理，并为现代人提供3步骤实用指南。",
+        "whyTitle": "专注模式与发散模式：无意识的解题能力",
+        "whyDesc": "根据学习科学与神经生理学，我们大脑的认知功能通过“专注模式（Focused Mode）”与“发散模式（Diffuse Mode）”这两种系统工作。在书桌前全力进行运算的专注模式下，前额叶皮层的功能收紧，仅激活狭窄且特定区域的网络。然而，当放下专注进行轻松散步或休息进入发散模式时，连接大脑全局区域的默认模式网络（DMN）随之被唤醒。\n\n在发散模式期间，大脑会在无意识中进行随机组合已有知识碎片的“孕育（Incubation）”过程。困扰许久的数学难题之解之所以在休息时闪现，是因为大脑进入了放松的发散模式，破除了前额叶的控制壁垒，建立起了全新的神经通道。",
+        "cautionTitle": "实现可持续专注的脑科学忠告",
+        "cautionDesc": "创造性的灵感绝非强行挤压出来的。请明确设定大脑的专注极限时间，遇到难以解决的问题时，果断离开书桌去散散步，给大脑送上一份“发散模式”的休息。潜意识会替您找到答案。",
+        "steps": [
+          {
+            "title": "设定每日固定“专注时间上限”",
+            "desc": "想要整整8小时保持超强专注在生理上是不可能的。像昂利·庞加莱那样，利用计时器严格设定每日4小时（或分阶段每次2小时）的高效专注时间块，并在该时段内集中执行核心工作。"
+          },
+          {
+            "title": "遇到思维瓶颈时立即离开书桌",
+            "desc": "若因遇到卡壳问题超过15分钟没有任何进展，切勿僵持。果断离开书桌，切断大脑的专注网络，通过15~20分钟的散步或轻微活动激活“发散模式”。"
+          },
+          {
+            "title": "立即记录无意识产出的灵感",
+            "desc": "休息期间无意识反馈的答案如闪电般稍纵即逝。请使用便签本或手机录音功能，在休息时突发灵感的那一刻立即记录下来。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "昂利·庞加莱为何每天只研究4个小时？",
+            "answer": "长时间强行集中精力会使大脑的认知视野变狭窄，反而降低创造力。在结束4小时的专注模式后，通过散步与休息激活发散模式，从而打通潜意识以获得创造性灵感。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "天才数学者の答えは休息中に出た？アンリ・ポアンカレの4時間集中制限ルーティン",
+        "description": "天才科学者アンリ・ポアンカレの成功方程式である1日4時間集中限界設定法。脳の集中モードと分散モードを活用して無意識に創造的ひらめきを得る3ステップガイドを紹介します。",
+        "authority": "アンリ・ポアンカレ歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「突然のひらめきは、常に数日間の自発的な努力の後に訪れる無意識の作業の明白な兆候です。」フランスの三体問題の解決者でありカオス理論の先駆者、現代数学史上最も偉大な天才の一人に数えられるアンリ・ポアンカレ（Henri Poincaré）。彼は驚くべきことに、生涯1日にたった4時間だけ机に向かって研究するという厳格な限界を設けていました。彼は午前10時から12時、利益午後5時から7時までのわずか4時間だけ深く働き、残りの時間は散歩や社交活動をして脳を完全にオフライン状態で休ませました。興味深いことに、ポアンカレは解けなかった数学の難題（フックス関数）の核心公式が研究室の机ではなく、地質調査旅行中にクータンス（Coutances）でオムニバス（乗合馬車）のステップに足をかけたその瞬間に、突然完成された形で頭の中に閃いたと回想しています。彼は数日間の熾烈な前頭葉の集中の後に訪れる完全な休息（インキュベーション期間）こそが、無意識の脳神経系を活性化させて有機的な創造的結合を生み出すと強調しました。本記事では、アンリ・ポアンカレの「4時間集中制限」ルーティンに隠された脳の集中モードと分散モードの相互作用原理を明かし、現代人が創造的問題解決のためにこれを活用する3ステップの実践方法を提案します。",
+        "whyTitle": "集中モードと分散モード：無意識の問題解決能力",
+        "whyDesc": "学習科学および神経生理学によると、私たちの脳の認知機能は「集中モード（Focused Mode）」と「分散モード（Diffuse Mode）」の2つのシステムで作動します。机に向かって全力で演算する集中モードでは前頭葉の機能が絞られ、狭く特定の領域の回路網だけが活性化します。しかし集中を解いて軽い散歩や休息をとる分散モードになると、脳の全般的な領域が連結されるデフォルト・モード・ネットワーク（DMN）が目覚めます。\n\nこの分散モードの間、脳は無意識に既存の知識の破片を無作為に結合する「インキュベーション（Incubation）」過程を実行します。解けなかった難しい数学公式の答えが休息中に突然かすめて通り過ぎたのは、脳がリラックスした分散モードに進入して前頭葉の防衛障壁を崩し、完全に新しい神経通路を連結したからです。",
+        "cautionTitle": "持続可能な没頭のための脳科学的アドバイス",
+        "cautionDesc": "合創造的な考えは無理に絞り出そうとするときに出るものではありません。脳の集中限界時間を明確に設定し、解けない問題があれば思い切って席を立って散歩をし、脳に「分散モード」の休息を与えてください。無意識があなたに代わって解答を見つけてくれるはずです。",
+        "steps": [
+          {
+            "title": "毎日の固定式「集中限界時間」の設定",
+            "desc": "1日8時間ずっと超集中するという計画は生理学的に不可能です。アンリ・ポアンカレのように1日4時間、あるいは2時間ずつ自分が高度に没頭できるタイムブロックをタイマーとともに厳格に指定し、仕事を集中して実行します。"
+          },
+          {
+            "title": "停滞期に直面したとき即座に席を立つ",
+            "desc": "解けない問題によって15分以上進展がない場合は、無理にしがみつくのではなく思い切ってデスクを離れます。脳の集中モードネットワークを強制的に遮断し、15〜20分間散歩やその他の軽い活動をして脳を「分散モード」に活性化させます。"
+          },
+          {
+            "title": "無意識が出したひらめきの即座のメモ",
+            "desc": "休息中に無意識が返してくれた答えは一瞬の電球の光のようなもので、捉えないと一瞬で蒸発してしまいます。アンリ・ポアンカレのメモ帳や小型スマートフォンの録音機能を使用して、休息中に突如飛び出した創造的ひらめきを即座に捉えて保存します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "アンリ・ポアンカレはなぜ1日4時間しか研究しなかったのですか？",
+            "answer": "長時間無理に集中すると脳の認知的視野が狭まり、かえって創造性が低下するためです。4時間の集中モードが終わった後は散歩や休息を通じた分散モードを活性化させ、脳の無意識のひらめきを引き出すためでした。"
+          }
+        ]
+      },
+      "es": {
+        "title": "¿La gran respuesta del matemático genio surgió durante el descanso? La rutina de límite de enfoque de 4 horas de Henri Poincaré",
+        "description": "La fórmula de éxito de Henri Poincaré de limitar el trabajo concentrado a 4 horas al día. Descubra una guía de 3 pasos que utiliza los modos enfocado y difuso del cerebro para desbloquear la inspiración creativa.",
+        "authority": "Biografías históricas y escritos sobre Henri Poincaré e investigación en neurociencia cognitiva",
+        "intro": "\"La iluminación repentina es un sign habitual de un largo trabajo inconsciente previo.\" Henri Poincaré, el polímata francés, resolutor del problema de los tres cuerpos y pionero de la teoría del caos, fue uno de los matemáticos más grandes de la historia. Asombrosamente, Poincaré mantenía el límite estricto de trabajar solo 4 horas al día en su escritorio. Se concentraba de 10:00 a 12:00 y de 17:00 a 19:00, pasando el resto del día paseando o descansando. Poincaré recordaba que sus descubrimientos más importantes (como las funciones fuchsianas) no surgían frente a las ecuaciones, sino que aparecían en su mente al subir al estribo de un ómnibus durante una excursión en Coutances. Comprendió que tras un esfuerzo consciente intenso, un período de descanso completo permite al cerebro subconsciente conectar ideas de forma creativa. Este artículo analiza la interacción entre el modo enfocado y el modo difuso en la rutina de Poincaré y brinda una guía práctica.",
+        "whyTitle": "Modo enfocado vs. modo difuso: La capacidad subconsciente para resolver problemas",
+        "whyDesc": "Según la ciencia cognitiva, el cerebro funciona en dos modos: 'Modo Enfocado' y 'Modo Difuso'. En el Modo Enfocado, al trabajar intensamente en un escritorio, la corteza prefrontal reduce su alcance a vías neuronales específicas. Sin embargo, al descansar o pasear, el cerebro pasa al Modo Difuso, activando la Red Neuronal por Defecto (DMN).\n\nDurante el Modo Difuso, el subconsciente realiza la 'Incubación': reorganizando aleatoriamente piezas de información. Las soluciones a ecuaciones complejas surgen durante el descanso porque el Modo Difuso derriba las barreras de control cognitivo, formando conexiones neuronales novedosas que estaban bloqs durante la concentración intensa.",
+        "cautionTitle": "Un consejo neurocientífico para un enfoque sostenible",
+        "cautionDesc": "Las ideas creativas no surgen al forzarlas. Establezca un límite claro de tiempo de enfoque, y cuando se sienta atascado, levántese y dé un paseo para dar a su cerebro descanso en Modo Difuso. Su subconsciente buscará la respuesta por usted.",
+        "steps": [
+          {
+            "title": "Establezca un 'límite de tiempo de enfoque' diario fijo",
+            "desc": "Mantener una superconcentración durante 8 horas seguidas es imposible. Como Poincaré, establezca bloques estritos (como dos bloques de 2 horas) con un temporizador y realice su trabajo principal durante ese tiempo."
+          },
+          {
+            "title": "Levántese de inmediato al alcanzar un bloqueo mental",
+            "desc": "Si lleva 15 minutos sin avanzar en un problema, levántese en lugar de forzarlo. Desconecte la red enfocada e active el Modo Difuso dando una caminata de 15 a 20 minutos o realizando una tarea ligera."
+          },
+          {
+            "title": "Anote las inspiraciones subconscientes al instante",
+            "desc": "Las respuestas enviadas por el subconsciente durante el descanso se desvanecen rápidamente. Use una libreta o notas de voz en su teléfono para registrar al instante las epifanías creativas cuando aparezcan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué Henri Poincaré solo investigaba 4 horas al día?",
+            "answer": "Forzar una concentración prolongada estrecha la visión cognitiva y reduce la creatividad. Al limitar el trabajo a 4 horas, Poincaré podía activar el Modo Difuso con paseos y descanso, liberando la inspiración subconsciente."
+          }
+        ]
+      },
+      "fr": {
+        "title": "L'illumination du mathématicien de génie est venue pendant le repos ? La routine de limite de focalisation de 4 heures d'Henri Poincaré",
+        "description": "La formule de succès d'Henri Poincaré consistant à limiter le travail concentré à 4 heures par jour. Découvrez un guide en 3 étapes utilisant les modes concentré et diffus du cerveau pour libérer l'inspiration créative.",
+        "authority": "Biographies historiques et écrits sur Henri Poincaré & recherche en neurosciences cognitives",
+        "intro": "\"L'illumination soudaine est le signe manifeste d'un long travail inconscient préalable.\" Henri Poincaré, l'érudit français qui a résolu le problème des trois corps et pionnier de la théorie du chaos, était l'un des plus grands mathématiciens de l'histoire. Curieusement, Poincaré s'imposait la règle stricte de ne travailler que 4 heures par jour à son bureau (de 10h à 12h et de 17h à 19h), consacrant le reste de son temps à se promener ou à se détendre. Poincaré s'est souvenu que la solution à ses problèmes mathématiques les plus ardus (comme les fonctions fuchsiennes) ne lui est pas venue devant ses papiers, mais a surgi dans son esprit au moment d'monter sur le marchepied d'un omnibus à Coutances. Il a compris qu'un effort conscient intense suivi d'un repos complet (phase d'incubation) permet au réseau inconscient du cerveau d'associer les idées de manière créative. Cet article analyse la dynamique entre les modes concentré et diffus dans la routine de Poincaré.",
+        "whyTitle": "Mode concentré vs mode diffus : La résolution subconsciente de problèmes",
+        "whyDesc": "Selon les sciences cognitives, le cerveau fonctionne selon deux modes : le 'mode concentré' et le 'mode diffus'. En mode concentré, lorsque l'on travaille au bureau, le cortex préfrontal cible des réseaux très précis. Mais dès que l'on fait une pause ou une marche, le cerveau passe en mode diffus, activant le Réseau par Défaut (DMN).\n\nPendant ce mode diffus, le subconscient procède à 'l'incubation' : il réassocie librement des éléments d'information. Les réponses aux équations complexes surgissent au repos car le mode diffus lève les barrières de contrôle, formant de nouvelles connexions neuronales.",
+        "cautionTitle": "Un conseil neuroscientifique pour une concentration durable",
+        "cautionDesc": "Les idées créatives ne naissent pas sous la contrainte. Fixez une limite claire à votre temps de travail concentré, et si vous bloquez, levez-vous et allez marcher pour offrir à votre cerveau un repos en mode diffus. Le subconscient trouvera la solution pour vous.",
+        "steps": [
+          {
+            "title": "Définir une 'limite de temps de concentration' quotidienne fixe",
+            "desc": "Planifier 8 heures de concentration intense est physiologiquement impossible. Comme Poincaré, définissez des blocs stricts (ex. deux blocs de 2 heures) avec un minuteur et consacrez-vous entièrement à votre travail pendant ces créneaux."
+          },
+          {
+            "title": "S'éloigner immédiatement en cas de blocage mental",
+            "desc": "Si vous n'avancez pas sur un problème depuis 15 minutes, levez-vous plutôt que de forcer. Coupez le réseau concentré et activez le mode diffus en allant marcher 15 à 20 minutes ou en faisant une activité légère."
+          },
+          {
+            "title": "Capturer immédiatement les inspirations du subconscient",
+            "desc": "Les réponses du subconscient pendant le repos s'évaporent très vite. Utilisez un carnet ou des notes vocales pour enregistrer immédiatement vos illuminations créatives dès qu'elles surviennent."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi Henri Poincaré ne travaillait-il que 4 heures par jour ?",
+            "answer": "Forcer une concentration prolongée rétrécit la vision kognitive et réduit la créativité. En limitant son travail à 4 heures, Poincaré activait le mode diffus par la marche et le repos pour libérer le subconscient."
+          }
+        ]
+      },
+      "de": {
+        "title": "Die Lösung des genialen Mathematikers kam in der Ruhephase? Henri Poincarés 4-Stunden-Fokuslimit-Routine",
+        "description": "Henri Poincarés Erfolgsformel: Das konzentrierte Arbeiten auf 4 Stunden täglich zu begrenzen. Entdecken Sie eine 3-Schritte-Anleitung zur Nutzung des fokussierten und diffusen Hirnmodus für kreative Inspiration.",
+        "authority": "Historische Biografien und Schriften über Henri Poincaré & Kognitive Neurowissenschaften",
+        "intro": "\"Die plötzliche Eingebung ist ein klares Zeichen für eine lange, unbewusste Vorarbeit.\" Henri Poincaré, der französische Universalgelehrte, Löser des Dreikörperproblems und Pionier der Chaostheorie, galt als eines der größten Genies der Mathematik. Erstaunlicherweise begrenzte er seine Arbeit am Schreibtisch strikt auf 4 Stunden täglich: von 10:00 bis 12:00 Uhr und von 17:00 bis 19:00 Uhr. Den Rest des Tages verbrachte er mit Spaziergängen oder Entspannung. Poincaré erinnerte sich, dass ihm die Lösung für komplexe mathematische Probleme (wie die Fuchsschen Funktionen) nicht am Schreibtisch kam, sondern plötzlich beim Einsteigen in einen Omnibus während einer Reise in Coutances einfiel. Er erkannte, dass auf intensive Konzentration eine Inkubationsphase der Ruhe folgen muss, damit das Unterbewusstsein Ideen verknüpfen kann. Dieser Beitrag beschreibt das Zusammenspiel von fokussiertem und diffusem Denken in Poincarés 4-Stunden-Routine.",
+        "whyTitle": "Fokussierter vs. diffuser Modus: Die unbewusste Problemlösungskompetenz",
+        "whyDesc": "Laut Kognitionswissenschaft arbeitet das Gehirn in zwei Modi: dem 'fokussierten Modus' und dem 'diffusen Modus'. Im fokussierten Modus konzentriert sich der präfrontale Kortex auf eng umgrenzte Netzwerke. Wenn Sie pausieren oder spazieren gehen, wechselt das Gehirn in den diffusen Modus und aktiviert das Ruhezustandsnetzwerk (DMN).\n\nIn diesem diffusen Modus betreibt das Unterbewusstsein 'Inkubation' – das freie Verknüpfen von Wissensbausteinen. Durchbrüche bei schwierigen Matheaufgabe geschehen in Ruhephasen, weil der diffuse Modus kognitive Kontrollbarrieren abbaut und völlig neue neuronale Pfade verbindet.",
+        "cautionTitle": "Ein neurowissenschaftlicher Rat für nachhaltigen Fokus",
+        "cautionDesc": "Kreative Ideen lassen sich nicht erzwingen. Setzen Sie ein klares Limit für Ihre fokussierte Arbeitszeit. Wenn Sie feststecken, stehen Sie auf und machen Sie einen Spaziergang, um dem Gehirn Erholung im diffusen Modus zu gönnen. Das Unterbewusstsein arbeitet für Sie.",
+        "steps": [
+          {
+            "title": "Ein tägliches 'Fokus-Zeitlimit' festlegen",
+            "desc": "8 Stunden lang ununterbrochen hochkonzentriert zu arbeiten, ist physiologisch unmöglich. Setzen Sie sich wie Poincaré feste Blöcke (z. B. zwei 2-Stunden-Blöcke) mit einem Timer und arbeiten Sie darin hochfokussiert."
+          },
+          {
+            "title": "Bei mentaler Blockade sofort aufstehen",
+            "desc": "Wenn Sie 15 Minuten lang bei einem Problem feststecken, verlassen Sie den Schreibtisch. Unterbrechen Sie den fokussierten Modus und aktivieren Sie den diffusen Modus durch einen 15–20-minütigen Spaziergang."
+          },
+          {
+            "title": "Unterbewusste Eingebungen sofort festhalten",
+            "desc": "Antworten, die das Unterbewusstsein in Ruhephasen liefert, verfliegen schnell. Nutzen Sie ein Notizbuch oder Sprachmemos, um kreative Geistesblitze sofort festzuhalten."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum forschte Henri Poincaré nur 4 Stunden am Tag?",
+            "answer": "Erzwungene lange Konzentration verengt die kognitive Perspektive und mindert die Kreativität. Nach 4 Stunden fokussierter Arbeit aktivierte Poincaré durch Spaziergänge den diffusen Modus für unbewusste Eingebungen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "A revelação do matemático gênio veio durante o descanso? A rotina de limite de foco de 4 horas de Henri Poincaré",
+        "description": "A fórmula de sucesso de Henri Poincaré de limitar o trabalho focado a 4 horas por dia. Descubra um guia de 3 etapas utilizando os modos focado e difuso do cérebro para desbloquear a inspiração criativa.",
+        "authority": "Biografias históricas e escritos sobre Henri Poincaré & pesquisa em neurociência cognitiva",
+        "intro": "\"A iluminação repentina é um sinal manifesto de um longo trabalho inconsciente prévio.\" Henri Poincaré, polímata francês, resolvedor do problema dos três corpos e pioneiro da teoria do caos, foi um dos maiores matemáticos da história. Incrivelmente, Poincaré mantinha a regra rígida de trabalhar apenas 4 horas por dia em sua escrivaninha (das 10h às 12h e das 17h às 19h), passando o resto do dia caminhando ou descansando. Ele se lembrava de que as soluções para seus desafios matemáticos mais complexos (como as funções fuchsianas) não surgiam diante das equações, mas apareciam em sua mente no momento em que subia o estribo de um ônibus em Coutances. Ele percebeu que um esforço consciente intenso seguido de repouso completo (fase de incubação) permite que o cérebro subconsciente conecte ideias de forma criativa. Este artigo analisa essa interação entre modo focado e modo difuso na rotina de Poincaré.",
+        "whyTitle": "Modo focado vs. modo difuso: A capacidade subconsciente de resolução de problemas",
+        "whyDesc": "Segundo a ciência cognitiva, o cérebro opera em dois modos: 'Modo Focado' e 'Modo Difuso'. No Modo Focado, ao trabalhar intensamente, o córtex pré-frontal restringe seu escopo a caminhos específicos. Contudo, ao caminhar ou descansar, o cérebro passa para o Modo Difuso, ativando a Rede de Modo Padrão (DMN).\n\nDurante o Modo Difuso, o subconsciente realiza a 'Incubação' — recombinando aleatoriamente pedaços de conhecimento. As soluções para equações difíceis surgem durante o descanso porque o Modo Difuso derruba as barreiras de controle, formando novas conexões neurais que estavam bloqs durante o foco intenso.",
+        "cautionTitle": "Um conselho neurocientífico para um foco sustentável",
+        "cautionDesc": "Ideias criativas não surgem forçando a mente. Estabeleça um limite claro para o tempo de trabalho focado e, quando estiver empacado, levante-se e caminhe para dar ao seu cérebro um descanso no Modo Difuso. Seu subconsciente encontrará a resposta.",
+        "steps": [
+          {
+            "title": "Defina um 'limite de tempo de foco' diário fixo",
+            "desc": "Manter o foco máximo durante 8 horas seguidas é fisiologicamente impossível. Como Poincaré, estabeleça blocos rígidos (como dois blocos de 2 horas) com timer e trabalhe focadamente nesses intervalos."
+          },
+          {
+            "title": "Afaste-se imediatamente ao atingir um bloqueio mental",
+            "desc": "Se passar 15 minutos sem progresso em um problema, afaste-se da mesa. Interrompa o modo focado e ative o Modo Difuso fazendo uma caminhada de 15 a 20 minutos ou realizando tarefas leves."
+          },
+          {
+            "title": "Anote as inspirações subconscientes instantaneamente",
+            "desc": "As respostas enviadas pelo subconsciente durante o descanso somem rapidamente. Use um bloco de notas ou gravação de voz no celular para registrar instantaneamente as inspirações criativas assim que surgirem."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que Henri Poincaré pesquisava apenas 4 horas por dia?",
+            "answer": "Forçar o foco prolongado afunila a visão cognitiva e reduz a criatividade. Ao limitar o trabalho a 4 horas, Poincaré ativava o Modo Difuso com caminhadas e descanso, liberando a inspiração subconsciente."
+          }
+        ]
+      },
+      "id": {
+        "title": "Jawaban Matematikus Jenius Muncul Saat Istirahat? Rutinitas Batas Fokus 4 Jam Henri Poincaré",
+        "description": "Formula sukses Henri Poincaré dengan membatasi kerja terfokus 4 jam sehari. Pelajari panduan 3 langkah yang memanfaatkan mode terfokus dan mode menyebar pada otak untuk membuka inspirasi kreatif.",
+        "authority": "Biografi Historis dan Catatan tentang Henri Poincaré & Penelitian Neurosains Kognitif",
+        "intro": "\"Pencerahan mendadak adalah tanda nyata dari kerja tak sadar yang panjang sebelumnya.\" Henri Poincaré, matematikawan Prancis, penyelesai masalah tiga benda dan pelopor teori kaos, adalah salah satu jenius terbesar dalam sejarah. Yang mengejutkan, Poincaré secara ketat membatasi waktu kerjanya hanya 4 jam sehari di meja kerja (pukul 10.00–12.00 dan 17.00–19.00), menghabiskan sisa waktunya dengan berjalan-jalan atau bersantai. Poincaré mengenang bahwa terobosan untuk masalah matematika tersulitnya (seperti fungsi Fuchsian) tidak muncul saat menatap rumus, melainkan mendadak melintas di pikirannya saat ia menaiki pijakan bus omnibus di Coutances. Ia menyadari bahwa usaha sadar yang intensif diikuti oleh istirahat total (fase inkubasi) memungkinkan jaringan otak bawah sadar menghubungkan ide-ide secara kreatif. Artikel ini mengulas interaksi antara mode terfokus dan mode menyebar dalam rutinitas 4 jam Poincaré.",
+        "whyTitle": "Mode Terfokus vs Mode Menyebar: Kemampuan Memecahkan Masalah Bawah Sadar",
+        "whyDesc": "Menurut sains kognitif, otak bekerja dalam dua mode: 'Mode Terfokus' dan 'Mode Menyebar'. Dalam Mode Terfokus, saat bekerja keras di meja, korteks prafrontal mempersempit cakupannya ke jalur saraf yang sangat spesifik. Namun, saat Anda istirahat atau berjalan-jalan, otak beralih ke Mode Menyebar, mengaktifkan Default Mode Network (DMN).\n\nSelama Mode Menyebar, pikiran bawah sadar melakukan 'Inkubasi'—mengombinasikan kembali potongan-potongan informasi secara acak. Solusi untuk persamaan matematika yang rumit muncul saat istirahat karena Mode Menyebar menurunkan hambatan kendali eksekutif, membentuk koneksi saraf baru yang sebelumnya terhambat.",
+        "cautionTitle": "Saran Neurosains untuk Fokus yang Berkelanjutan",
+        "cautionDesc": "Gagasan kreatif tidak muncul dari paksaan. Tetapkan batas yang jelas untuk waktu kerja terfokus Anda, dan saat menemui jalan buntu, berdirilah dan jalan-jalan untuk memberi otak Anda istirahat dalam Mode Menyebar. Pikiran bawah sadar akan menemukan jawabannya untuk Anda.",
+        "steps": [
+          {
+            "title": "Tetapkan 'Batas Waktu Fokus' Harian yang Tetap",
+            "desc": "Berencana untuk mempertahankan fokus tinggi selama 8 jam berturut-turut secara fisiologis tidak mungkin dilakukan. Seperti Henri Poincaré, tetapkan blok waktu yang ketat (seperti dua blok 2 jam) menggunakan timer dan kerjakan tugas utama Anda dalam jendela waktu tersebut."
+          },
+          {
+            "title": "Segera Berdiri dan Pergi Saat Menemui Jalan Buntu",
+            "desc": "Jika Anda tidak mengalami kemajuan dalam suatu masalah selama 15 menit, tinggalkan meja Anda daripada memaksakannya. Putuskan jaringan terfokus dan aktifkan Mode Menyebar dengan berjalan-jalan selama 15–20 menit."
+          },
+          {
+            "title": "Catat Inspirasi Bawah Sadar Secara Langsung",
+            "desc": "Jawaban yang dimunculkan oleh pikiran bawah sadar saat istirahat dapat menguap dengan cepat. Gunakan buku catatan atau perekam suara ponsel untuk segera mencatat inspirasi kreatif saat melintas di pikiran Anda."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa Henri Poincaré hanya meneliti selama 4 jam sehari?",
+            "answer": "Memaksa fokus berlarut-larut mempersempit pandangan kognitif otak dan mengurangi kreativitas. Membatasi kerja sadar 4 jam memungkinkan Poincaré mengaktifkan Mode Menyebar melalui istirahat dan berjalan-jalan untuk memicu inspirasi."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "앙리 푸앵카레는 왜 하루 4시간만 연구했나요?",
-          "en": "Why did Henri Poincaré only research for 4 hours a day?",
-          "ja": "アンリ・ポアンカレはなぜ1日4時間しか研究しなかったのですか？",
-          "zh": "昂利·庞加莱为何每天只研究4个小时？",
-          "es": "¿Por qué Henri Poincaré solo investigaba 4 horas al día?",
-          "de": "Warum forschte Henri Poincaré nur 4 Stunden am Tag?",
-          "fr": "Pourquoi Henri Poincaré ne travaillait-il que 4 heures par jour ?",
-          "pt": "Por que Henri Poincaré pesquisava apenas 4 horas por dia?",
-          "id": "Mengapa Henri Poincaré hanya meneliti selama 4 jam sehari?"
-        },
-        "answer": {
-          "ko": "오랜 시간 억지로 집중하면 뇌의 인지적 시야가 협소해져 오히려 창의성이 떨어지므로, 4시간의 집중 모드가 끝나면 산책과 휴식을 통한 분산 모드를 활성화해 뇌의 무의식적 영감을 이끌어내기 위함이었습니다.",
-          "en": "Forcing prolonged focus narrows the brain's cognitive vision and reduces creativity. Limiting conscious work to 4 hours allowed Poincaré to activate Diffuse Mode through rest and walking, unlocking subconscious creative inspiration.",
-          "ja": "長時間無理に集中すると脳の認知的視野が狭まり、かえって創造性が低下するためです。4時間の集中モードが終わった後は散歩や休息を通じた分散モードを活性化させ、脳の無意識のひらめきを引き出すためでした。",
-          "zh": "长时间强行集中精力会使大脑的认知视野变狭窄，反而降低创造力。在结束4小时的专注模式后，通过散步与休息激活发散模式，从而打通潜意识以获得创造性灵感。",
-          "es": "Forzar una concentración prolongada estrecha la visión cognitiva y reduce la creatividad. Al limitar el trabajo a 4 horas, Poincaré podía activar el Modo Difuso con paseos y descanso, liberando la inspiración subconsciente.",
-          "de": "Erzwungene lange Konzentration verengt die kognitive Perspektive und mindert die Kreativität. Nach 4 Stunden fokussierter Arbeit aktivierte Poincaré durch Spaziergänge den diffusen Modus für unbewusste Eingebungen.",
-          "fr": "Forcer une concentration prolongée rétrécit la vision kognitive et réduit la créativité. En limitant son travail à 4 heures, Poincaré activait le mode diffus par la marche et le repos pour libérer le subconscient.",
-          "pt": "Forçar o foco prolongado afunila a visão cognitiva e reduz a criatividade. Ao limitar o trabalho a 4 horas, Poincaré ativava o Modo Difuso com caminhadas e descanso, liberando a inspiração subconsciente.",
-          "id": "Memaksa fokus berlarut-larut mempersempit pandangan kognitif otak dan mengurangi kreativitas. Membatasi kerja sadar 4 jam memungkinkan Poincaré mengaktifkan Mode Menyebar melalui istirahat dan berjalan-jalan untuk memicu inspirasi."
-        }
-      }
-    ]
+    }
   }
 }

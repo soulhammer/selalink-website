@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eliminar a fadiga de decisão: A rotina de almoço único de Charles Schulz"
 description: "Charles Schulz fixou suas refeições diárias e ambiente de trabalho para desenhar as tirinhas do Snoopy sem parar por 50 anos. Exploramos seu ritual automatizado de comer o mesmo hambúrguer diariamente para evitar a fadiga cognitiva pré-frontal e maximizar a criatividade."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Neste post, investigamos como a rotina de minimização de decisões de Charles 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre schulz-routine-hamburger é baseada em <strong>Biografias históricas, registros autobiográficos da rotina do hambúrguer de Schulz e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas, registros autobiográficos da rotina do hambúrguer de Schulz e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prevenção do esgotamento do ego e preservação da energia pré-frontal
+## 1. Prevenção do esgotamento do ego e preservação da energia pré-frontal
 
 O córtex pré-frontal é o centro cerebral de planejamento, controle emocional e tomada de decisões. Estudos neurocientíficos mostram que cada escolha — até escolher o almoço — consome recursos executivos, estado conhecido como 'Fadiga de Decisão' ou 'Esgotamento do Ego'. Ao fixar opções diárias triviais como roupas e refeições como Schulz fazia, você elimina a perda de energia neural e canaliza a potência cognitiva máxima no trabalho criativo principal.
 
 ---
 
-## Precauções e dicas
-
-Se você forçar a rotina com muita rigidez e eliminar 100% da variabilidade, o cérebro pode cair na monotonia e sofrer embotamento cognitivo. Portanto, aplique a automação de decisões estritamente a áreas não essenciais (refeições, vestuário, ambiente), deixando espaço para variação e exploração nas tarefas criativas e momentos de lazer.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Se você forçar a rotina com muita rigidez e eliminar 100% da variabilidade, o 
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Se você forçar a rotina com muita rigidez e eliminar 100% da variabilidade, o cérebro pode cair na monotonia e sofrer embotamento cognitivo. Portanto, aplique a automação de decisões estritamente a áreas não essenciais (refeições, vestuário, ambiente), deixando espaço para variação e exploração nas tarefas criativas e momentos de lazer.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

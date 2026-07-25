@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Entrenamiento de inmunidad al ruido de Von Neumann: Mantener la concentración en bancos ruidosos de estaciones de tren"
 description: "El matemático genio que diseñó la arquitectura de computadoras y la teoría de juegos, manteniendo rutinas de enfoque ante el ruido e ideas junto a la cama."
 pubDate: "2026-06-28"
@@ -36,22 +37,20 @@ En la publicación de hoy, presentamos los principios de la ciencia cognitiva de
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre von-neumann se basa en <strong>Biografías históricas y registros autobiográficos de John von Neumann e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de John von Neumann e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Filtrado Sensorial' y control de atención para enfocarse entre el ruido
+## 1. 'Filtrado Sensorial' y control de atención para enfocarse entre el ruido
 
 Mantener la concentración bajo un nivel de ruido controlable maximiza el mecanismo cognitivo superior conocido como <strong>'Filtrado Sensorial (Sensory Gating)'</strong>. Cuando el cerebro filtra los estímulos externos convirtiéndolos en ruido blanco y activa la Red Ejecutiva Central en el lóbulo frontal, mejora la flexibilidad atencional, entrenando una inmunidad al ruido para lograr la inmersión instantánea.
 
 ---
 
-## Consejo de ciencia conductual para una adopción exitosa
-
-Evite el ruido de obras o decibelios ensordecedores, ya que dañan la salud cerebral. La clave es filtrar sonidos ambientales suaves o música instrumental a través de su filtro cognitivo. En lugar de depender únicamente de la fuerza de voluntad, diseñe su entorno y señales de hábito para que el enfoque surja de forma natural.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Evite el ruido de obras o decibelios ensordecedores, ya que dañan la salud cere
   </p>
 </div>
 
+---
+
+## 3. Consejo de ciencia conductual para una adopción exitosa
+
+Evite el ruido de obras o decibelios ensordecedores, ya que dañan la salud cerebral. La clave es filtrar sonidos ambientales suaves o música instrumental a través de su filtro cognitivo. En lugar de depender únicamente de la fuerza de voluntad, diseñe su entorno y señales de hábito para que el enfoque surja de forma natural.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo ejecutar esta rutina de enfoque antes de abordar tareas difíciles todos los días?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Evite el ruido de obras o decibelios ensordecedores, ya que dañan la salud cere
       Sí, utilizar un nivel moderado de ruido blanco ambiental o música ayuda a reducir su campo de atención cognitiva, permitiéndole entrar en un enfoque analítico complejo mucho más rápido.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo reemplazar los generadores de ruido si no tengo equipo dedicado?</span>

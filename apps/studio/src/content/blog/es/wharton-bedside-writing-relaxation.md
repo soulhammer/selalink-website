@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El flujo creativo guiado por la relajación: El hábito matutino de escritura en la cama de Edith Wharton"
 description: "Edith Wharton, la gran autora que se convirtió en la primera mujer en ganar el Premio Pulitzer de Ficción. Descubra su secreto neurofisiológico de escribir cómodamente en la cama con sus perros sin levantarse por la mañana."
 pubDate: "2026-06-21"
@@ -32,22 +33,20 @@ Edith Wharton se erigió como una maestra sin igual en la historia literaria est
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre wharton-bedside-writing-relaxation se basa en <strong>Examen de biografías históricas y registros autobiográficos de Edith Wharton e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Examen de biografías históricas y registros autobiográficos de Edith Wharton e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relajación física y acción cognitiva del modo de dominancia parasimpática
+## 1. Relajación física y acción cognitiva del modo de dominancia parasimpática
 
 Al crear o generar ideas complejas, el cuello de botella que muchos enfrentan es el rigidez de los circuitos de razonamiento del lóbulo frontal debido a la ansiedad de 'escribir bien'. Mantener un estado físico totalmente relajado en la cama mientras se apoya la espalda y se acaricia a las mascotas activa fuertemente el Sistema Nervioso Parasimpático. En este estado, la sensación de seguridad reduce el cortisol y libera Ondas Alfa aptas para una inmersión confortable, conectando de forma fluida trozos de ideas y palabras dispersas en la corteza cerebral.
 
 ---
 
-## Precauciones y consejos
-
-Un error común al aplicar la escritura relajada en la cama es volverse a dormir. Si el cerebro se relaja demasiado en ondas delta, el sopor improductivo reemplaza la creatividad. Evite tumbarse por completo; use cojines para mantener una posición de Semi-Fowler con la columna inclinada entre 45 y 60 grados. Mantenga la habitación fresca para que la mente permanezca despierta mientras el cuerpo se relaja.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Un error común al aplicar la escritura relajada en la cama es volverse a dormir
     Escriba durante 30 minutos en un estado de profunda calma. Descarte la censura perfeccionista y deje fluir las ideas suavemente sobre el papel.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Un error común al aplicar la escritura relajada en la cama es volverse a dormir. Si el cerebro se relaja demasiado en ondas delta, el sopor improductivo reemplaza la creatividad. Evite tumbarse por completo; use cojines para mantener una posición de Semi-Fowler con la columna inclinada entre 45 y 60 grados. Mantenga la habitación fresca para que la mente permanezca despierta mientras el cuerpo se relaja.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

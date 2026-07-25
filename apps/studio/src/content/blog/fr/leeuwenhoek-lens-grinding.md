@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La routine de polissage de lentilles sphériques d'Antonie van Leeuwenhoek : Percer l'essence par la micro-patience, l'observation et la relaxation cérébelleuse"
 description: "Découvrez comment Antonie van Leeuwenhoek, le Père de la microbiologie, a poli a la main des lentilles sphériques grossissant 500 fois pour découvrir les bactéries. Explorez la neuroscience de l'immersion tactilo-visuelle, la relaxation cérébelleuse, le flow en ondes alfa et un guide en 3 étapes."
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant leeuwenhoek-lens-grinding est basée sur <strong>Vérification Historique issue des biographies d'Antonie van Leeuwenhoek, des archives de la Royal Society & de la Recherche en Neurosciences Cognitives et Sciences du Contrôle Moteur</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies d'Antonie van Leeuwenhoek, des archives de la Royal Society & de la Recherche en Neurosciences Cognitives et Sciences du Contrôle Moteur</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaxation du cervelet et des ganglions de la base et activation du flow en ondes alfa
+## 1. Relaxation du cervelet et des ganglions de la base et activation du flow en ondes alfa
 
 Des études neuroscientifiques montrent qu'associer un contrôle moteur fin a una concentration visuelle minutieuse fait basculer les ondes cérébrales des ondes Bêta vers les <strong>Ondes Alfa</strong> et <strong>Ondes Thêta</strong>. Ce processus apaise l'hyper-stimulation du <strong>Cervelet</strong> et des <strong>Ganglions de la base</strong>. Parallèlement, il réduit les interférences dans le <strong>Cortex Préfrontal</strong>, plongeant le cerveau dans un état de <strong>Flow</strong>.
 
 ---
 
-## Mise en garde : Éliminer l'impatience du résultat pour développer la micro-patience
-
-Évitez d'exiger des résultats immédiats. Les découvertes majeures se révèlent naturellement au fil d'une <strong>Micro-patience (Micro-Patience)</strong> constante et d'observations répétées. Plutôt que de compter sur una volonté fluctuante, préparez un environnement analogique capable de maintenir le focus visuo-moteur pendant 20 minutes ininterrompues.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Des études neuroscientifiques montrent qu'associer un contrôle moteur fin a un
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer l'impatience du résultat pour développer la micro-patience
+
+Évitez d'exiger des résultats immédiats. Les découvertes majeures se révèlent naturellement au fil d'une <strong>Micro-patience (Micro-Patience)</strong> constante et d'observations répétées. Plutôt que de compter sur una volonté fluctuante, préparez un environnement analogique capable de maintenir le focus visuo-moteur pendant 20 minutes ininterrompues.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Cette routine est-elle efficace pour les personnes sujettes a l'anxiété ou a la distraction ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Des études neuroscientifiques montrent qu'associer un contrôle moteur fin a un
       Oui, c'est extrêmement efficace ! Synchroniser le contrôle moteur fin avec la concentration visuelle apaise l'hyper-activation de l'amygdale et des réseaux de stress, réduisant l'anxiété et restaurant le calme intérieur.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>À quelle fréquence et a quel moment de la journée convient-il de pratiquer cette routine de micro-immersion ?</span>

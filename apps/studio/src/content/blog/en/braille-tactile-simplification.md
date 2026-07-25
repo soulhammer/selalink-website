@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Intuition at the Fingertips and the 6-Dot Innovation: Louis Braille's Essential Simplification and Chunking Routine"
 description: "Discover how Louis Braille simplified the complex 12-dot military night writing into a 6-dot tactile system fitting under a single fingertip, sparking a revolution in knowledge accessibility, and explore the neuroscientific principles of tactile working memory chunking."
 pubDate: "2026-05-04"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science behind Louis Braille's '6-dot simp
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding braille-tactile-simplification is based on <strong>Historical Verification from C. Michael Mellor's Biography *Louis Braille: A Touch of Genius* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from C. Michael Mellor's Biography *Louis Braille: A Touch of Genius* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscience of Working Memory Chunking and Tactile Spatial Acuity Limits
+## 1. Neuroscience of Working Memory Chunking and Tactile Spatial Acuity Limits
 
 Human working memory and the somatosensory cortex face clear physical and cognitive limitations regarding high-resolution information processed in a single instance. The 12-dot system exceeded the spatial resolution of tactile receptors on fingertips, placing unnecessary spatiotemporal scanning overload on the brain. Conversely, Braille's 6-dot cell aligns perfectly with the brain's 'Chunking' mechanism—grouping raw inputs into single recognizable units. Chunking complex workflows into 3 to 5 core units drastically reduces prefrontal cognitive load and accelerates information processing speed.
 
 ---
 
-## Caution & Tips: Ruthless Elimination of Redundant Elements & Preserving the Core
-
-The biggest hurdle in simplification is keeping unnecessary steps out of fear that 'they might be needed later'. Attempting to accommodate every edge case or secondary option makes systems complex again and degrades cognitive flexibility. Just like the 6-dot cell captured instantly under a single fingertip, aggressively prune away secondary elements, leaving only the vital essence that drives 80% of results.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The biggest hurdle in simplification is keeping unnecessary steps out of fear th
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Ruthless Elimination of Redundant Elements & Preserving the Core
+
+The biggest hurdle in simplification is keeping unnecessary steps out of fear that 'they might be needed later'. Attempting to accommodate every edge case or secondary option makes systems complex again and degrades cognitive flexibility. Just like the 6-dot cell captured instantly under a single fingertip, aggressively prune away secondary elements, leaving only the vital essence that drives 80% of results.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What should I do if I fear omitting important information during simplification?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The biggest hurdle in simplification is keeping unnecessary steps out of fear th
       Utilize a two-tier strategy: archive secondary information in an 'appendix' or backup folder while exposing only the core 3 to 5 units in your main workspace, which secures cognitive peace of mind.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can this simplification and chunking framework be applied to team workflows?</span>

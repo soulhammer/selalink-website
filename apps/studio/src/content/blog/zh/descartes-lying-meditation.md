@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "赖床至正午的天才：勒内·笛卡尔的卧床沉思与阿尔法波松弛习惯"
 description: "探索现代哲学之父兼数学家勒内·笛卡尔每天清晨卧床沉思与冥想至正午以解锁数学图景的习惯，揭示保持水平体位带来的低皮质醇状态与阿尔法波（Alpha Wave）诱导的神经科学原理。"
 pubDate: "2026-01-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 descartes-lying-meditation 的内容基于 <strong>勒内·笛卡尔《谈谈方法（Discourse on the Method）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>勒内·笛卡尔《谈谈方法（Discourse on the Method）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 保持水平姿态诱导低皮质醇（Low Cortisol）松弛与阿尔法波（Alpha Wave）机制
+## 1. 保持水平姿态诱导低皮质醇（Low Cortisol）松弛与阿尔法波（Alpha Wave）机制
 
 清晨醒来后立即猛然起身开展活动，大脑会引发过度的皮质醇觉醒反应（CAR，Cortisol Awakening Response），导致交感神经兴奋并切入高频贝塔波（Beta Waves）应激状态。而若像笛卡尔那样在醒后维持水平体位（Horizontal Posture），便能压制皮质醇的急速飙升，将脑波平稳在舒缓的8-12Hz“阿尔法波（Alpha Wave）”状态中。在肉体完全平躺松弛的状态下，骨骼肌运动引发的感官输入负荷被大幅削减，前额叶皮层得以将100%的认知资源全数灌注于高阶的演绎逻辑推演与概念结构化中。
 
 ---
 
-## 注意事项与提示：避免流于回笼觉与设定单一清晰任务
-
-务必警惕避免卧床沉思流于单纯的懒床与回笼觉（二次入眠）。醒来后当即翻看手机刷社交媒体的“吸糖”行为，会破坏自然的脑波状态。在醒后的5-10分钟里，请保持清醒觉知而仅让肉体保持平躺，将注意力精准绑定于今天亟待攻克的唯一核心难题或逻辑框架梳理中，如此方能展现笛卡尔式冥想的威力。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：避免流于回笼觉与设定单一清晰任务
+
+务必警惕避免卧床沉思流于单纯的懒床与回笼觉（二次入眠）。醒来后当即翻看手机刷社交媒体的“吸糖”行为，会破坏自然的脑波状态。在醒后的5-10分钟里，请保持清醒觉知而仅让肉体保持平躺，将注意力精准绑定于今天亟待攻克的唯一核心难题或逻辑框架梳理中，如此方能展现笛卡尔式冥想的威力。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>清晨卧床冥想在脑科学层面是否真的具备确凿的认知提升成效？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，其神经生理学机制早已获得深厚论证。醒后维持水平姿态能够阻断皮质醇的抛物线式飙升，平稳自律神经系统张力。而将脑波锚定于阿尔法波（8-12Hz）状态，则能卸下体感噪点，飞跃式拉升前额叶皮层的直觉演绎能力与理性清晰度。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若在卧床沉思期间不小心再次沉沉睡去导致上班迟到该如何防范？</span>

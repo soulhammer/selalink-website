@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O escritor que corre 10 km todas as manhãs: A rotina de resistência física de Haruki Murakami"
 description: "O renomado romancista Haruki Murakami. Descubra os princípios neurocientíficos em sua rotina matinal disciplinada de corrida de 10 km e um guia prático de 3 etapas."
 pubDate: "2026-06-26"
@@ -31,17 +32,17 @@ Após fechar seu bar de jazz em 1982 para se dedicar exclusivamente à escrita, 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre murakami-running é baseada em <strong>Biografias históricas e registros autobiográficos de Haruki Murakami e pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Haruki Murakami e pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociência da corrida para manter a juventude cerebral
+## 1. Neurociência da corrida para manter a juventude cerebral
 
 Escrever romances consome imensa energia mental. Murakami treinou seu cérebro através da corrida para suportar a árdua rotina diária de escrita.
 
@@ -49,11 +50,7 @@ O exercício aeróbico contínuo supre o hipocampo com oxigênio e nutrientes, a
 
 ---
 
-## Conselho neurocientífico para construir rotinas de sucesso
-
-<strong>A repetição constante cria ritmos neuronais</strong>
-
-A atividade física diária se transforma em uma 'rotina automatizada' que não esgota a vontade. Uma vez gravado esse ritmo no cérebro, cria-se um escudo físico capaz de suportar intensas cargas cognitivas. Priorize o exercício regular como Murakami e mantenha seu ritmo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +82,17 @@ A atividade física diária se transforma em uma 'rotina automatizada' que não 
   </p>
 </div>
 
+---
+
+## 3. Conselho neurocientífico para construir rotinas de sucesso
+
+<strong>A repetição constante cria ritmos neuronais</strong>
+
+A atividade física diária se transforma em uma 'rotina automatizada' que não esgota a vontade. Uma vez gravado esse ritmo no cérebro, cria-se um escudo físico capaz de suportar intensas cargas cognitivas. Priorize o exercício regular como Murakami e mantenha seu ritmo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

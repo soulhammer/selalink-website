@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Macet Saat Menulis? Ganti Mesin Tik! Rutinitas Beralih Multitasking Isaac Asimov"
 description: "Rutinitas beralih multitasking dari maestro fiksi ilmiah Isaac Asimov, yang meninggalkan lebih dari 500 buku. Pelajari rahasia 3 langkah untuk mengatasi kelelahan fokus tunggal dan mendapatkan efek kebaruan."
 pubDate: "2026-05-26"
@@ -33,17 +34,17 @@ Dalam postingan hari ini, kami menyajikan prinsip-prinsip sains kognitif yang te
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai asimov-project-switching didasarkan pada <strong>Verifikasi Historis dari Autobiografi Isaac Asimov *I, Asimov: A Memoir* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Isaac Asimov *I, Asimov: A Memoir* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Peralihan Konteks dan Efek Kebaruan: Pemulihan Kelelahan Otak Berdasarkan Area
+## 1. Peralihan Konteks dan Efek Kebaruan: Pemulihan Kelelahan Otak Berdasarkan Area
 
 Menurut penelitian dalam psikologi kognitif dan memori kerja, terpaku pada satu tugas dalam waktu lama menyebabkan otak mengaktifkan jaringan saraf tertentu secara berlebihan, yang memicu kebuntuan kognitif. Saat memaksakan otak di tengah kebingungan menulis (Writer's Block), kortisol akan disekresikan, merosotkan efisiensi kognitif secara drastis.
 
@@ -51,9 +52,7 @@ Pada saat ini, jika Anda beralih konteks (Context Switching) ke tugas dengan sif
 
 ---
 
-## Saran Neurosains untuk Peralihan Fokus yang Efektif
-
-Saat macet pada satu tugas, bertahan secara membabi buta hingga akhir bukanlah satu-satunya kebaikan. Neuron-neuron otak juga membutuhkan kerja bergantian di berbagai area. Atasi masa kebuntuan kerja secara fleksibel melalui peralihan konteks yang cerdas antara menulis email ringan atau menyusun proposal yang sama sekali berbeda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Saat macet pada satu tugas, bertahan secara membabi buta hingga akhir bukanlah s
     Blokir kelelahan dari pekerjaan sebelumnya secara kognitif melalui efek kebaruan dari tugas yang baru dialihkan. Otak menikmati efek istirahat yang cukup dan mempertahankan fokus secara lancar tidak hanya dengan menghentikan pekerjaan, tetapi cukup dengan 'mengaktifkan area yang berbeda'.
   </p>
 </div>
+
+---
+
+## 3. Saran Neurosains untuk Peralihan Fokus yang Efektif
+
+Saat macet pada satu tugas, bertahan secara membabi buta hingga akhir bukanlah satu-satunya kebaikan. Neuron-neuron otak juga membutuhkan kerja bergantian di berbagai area. Atasi masa kebuntuan kerja secara fleksibel melalui peralihan konteks yang cerdas antara menulis email ringan atau menyusun proposal yang sama sekali berbeda.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

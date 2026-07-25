@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Surmonter un passé tragique pour devenir la reine des talk-shows : La routine du journal de gratitude d'Oprah Winfrey"
 description: "Oprah Winfrey, l'une des femmes les plus influentes au monde. Découvrez sa routine scientifique consistant à écrire 5 lignes de gratitude au réveil pour reconfigurer le réseau mode par défaut du cerveau."
 pubDate: "2026-05-24"
@@ -33,25 +34,23 @@ Cet article étudie les neurosciences derrière le journal de gratitude matinal 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant winfrey-gratitude-journaling est basée sur <strong>Biographies historiques et récits autobiographiques sur Oprah Winfrey et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques sur Oprah Winfrey et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation de la voie dopaminergique mésolimbique et neuroplasticité
+## 1. Activation de la voie dopaminergique mésolimbique et neuroplasticité
 
 Se remémorer et réactiver par écrit des événements positifs stimule fortement la voie dopaminergique mésolimbique et le système sérotoninergique, plaçant le cerveau dans un état d'éveil agréable. Cela interrompt le Réseau Mode par Défaut (DMN)—qui amplifie l'anxiété matinale—et reconfigure les synapses par neuroplasticité pour renforcer la résilience au stress.
 
 ---
 
-## Pièges de l'écriture mécanique et conseils de spécificité
-
-Dans un journal de gratitude, des formules vagues comme 'Reconnaissant pour le beau temps' ne stimulent pas le cerveau et ne libèrent pas de dopamine. La clé est une spécificité extrême. Décrire des détails sensoriels précis—comme 'Reconnaissant que mon ami ait ri à ma blague hier'—permet de réactiver les circuits de plasticité positive.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Dans un journal de gratitude, des formules vagues comme 'Reconnaissant pour le b
   </p>
 </div>
 
+---
+
+## 3. Pièges de l'écriture mécanique et conseils de spécificité
+
+Dans un journal de gratitude, des formules vagues comme 'Reconnaissant pour le beau temps' ne stimulent pas le cerveau et ne libèrent pas de dopamine. La clé est une spécificité extrême. Décrire des détails sensoriels précis—comme 'Reconnaissant que mon ami ait ri à ma blague hier'—permet de réactiver les circuits de plasticité positive.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que devrais-je écrire les jours sombres où je ne trouve rien pour quoi être reconnaissant ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Dans un journal de gratitude, des formules vagues comme 'Reconnaissant pour le b
       C'est précisément ces jours-là que cette routine est la plus précieuse. Ne cherchez pas de grands événements ; inscrivez des faits physiques liés à la survie, comme 'Le thé était chaud' ou 'Je respire calmement ce matin'. Noter ces micro-repères de sécurité aide le cerveau à sortir du mode de menace.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Qu'en est-il d'utiliser des applications de journal de smartphone ou des publications sur les réseaux sociaux ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo borrar la presión: La rutina hipercognitiva de 2 horas previas a la carrera de Michael Phelps"
 description: "La rutina conductual ultraprecisa ejecutada antes de cada carrera por Michael Phelps, el olímpico más condecorado de la historia. Descubra los principios científicos de cómo los procedimientos totalmente controlados previenen la tensión y la ansiedad cerebrales."
 pubDate: "2026-03-14"
@@ -36,22 +37,20 @@ En este artículo, exploramos la neurociencia de la 'Rutina Hipercognitiva de 2 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre phelps-pre-race-routine se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Michael Phelps e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Michael Phelps e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La ciencia de cómo las rutinas previas ultraprecisas calman la ansiedad cerebral
+## 1. La ciencia de cómo las rutinas previas ultraprecisas calman la ansiedad cerebral
 
 Antes de una competición o presentación, el estado más peligroso para el cerebro es la 'incertidumbre' y la ansiedad consecuente. En entornos impredecibles, la <strong>amígdala</strong>, el centro de alerta emocional del cerebro, se sobrecalienta y libera hormonas del estrés. Sin embargo, ejecutar un conjunto de acciones físicas totalmente controlable y repetido cientos de veces lleva al cerebro a percibir que tiene el control total, reduciendo la hiperactividad de la amígdala y optimizando la secreción de adrenalina.
 
 ---
 
-## Precauciones y consejos
-
-Tenga en cuenta que esta rutina no es una superstición ni un amuleto mágico. Michael Phelps construyó conexiones sinápticas sólidas entre su rutina y la relajación física mediante un largo <strong>entrenamiento mecánico y repetición</strong>. Por lo tanto, no se impaciente si falla al principio; la práctica constante es esencial para consolidar su rutina personal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Tenga en cuenta que esta rutina no es una superstición ni un amuleto mágico. M
     Tras completar las acciones físicas, visualice mentalmente un escenario de éxito impecable para calmar los centros de ansiedad y alcanzar una preparación total.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Tenga en cuenta que esta rutina no es una superstición ni un amuleto mágico. Michael Phelps construyó conexiones sinápticas sólidas entre su rutina y la relajación física mediante un largo <strong>entrenamiento mecánico y repetición</strong>. Por lo tanto, no se impaciente si falla al principio; la práctica constante es esencial para consolidar su rutina personal.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

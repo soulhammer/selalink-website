@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "每天清晨跑步10公里的作家：村上春树的基础体能习惯"
 description: "享誉世界的畅销书作家村上春树。探索他严律清晨10公里跑步习惯中蕴含的脑科学原理，以及适合现代人的三步实践指南。"
 pubDate: "2026-06-26"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 murakami-running 的内容基于 <strong>村上春树历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>村上春树历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 保持大脑年轻活力的跑步脑科学
+## 1. 保持大脑年轻活力的跑步脑科学
 
 撰写小说是一项极其消耗精神能量的工作。村上春树通过跑步锻炼大脑，以支撑每天输出定量原稿的繁重脑力劳动。
 
@@ -51,11 +52,7 @@ faqs:
 
 ---
 
-## 构建成功习惯的脑科学忠告
-
-<strong>持之以恒的重复塑造大脑的节律</strong>
-
-每天重复进行的简单身体活动会转化为不消耗意志力的“自动化习惯”。一旦这种节奏在大脑中形成刻印，就能筑起一道坚固的基础体能防线，抵御工作或创作中产生的剧烈精神负荷。不妨像村上春树一样，将规律运动置于生活的最高优先级，保持良好的生活节奏。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,6 +83,14 @@ faqs:
     跑步过程中切勿查看手机上的复杂消息或邮件，专心感受呼吸的频率与脚掌触地的感知。这种正念跑步是理清繁杂思绪、实现精神解毒的极佳途径。
   </p>
 </div>
+
+---
+
+## 3. 构建成功习惯的脑科学忠告
+
+<strong>持之以恒的重复塑造大脑的节律</strong>
+
+每天重复进行的简单身体活动会转化为不消耗意志力的“自动化习惯”。一旦这种节奏在大脑中形成刻印，就能筑起一道坚固的基础体能防线，抵御工作或创作中产生的剧烈精神负荷。不妨像村上春树一样，将规律运动置于生活的最高优先级，保持良好的生活节奏。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

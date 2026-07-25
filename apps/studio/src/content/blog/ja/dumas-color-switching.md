@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "原稿用紙の色をジャンル別に変えた天才：アレクサンドル・デュマのカラーリセットルーティンと視覚的プライミング"
 description: "『モンテ・クリスト伯』の著者アレクサンドル・デュマが毎日複数のジャンルを書く中で原稿用紙の色を変えたルーティン。切り替えの認知疲労（Switching Cost）を相殺し作業記憶（Working Memory）を保護する視覚的プライミング（Color Priming）の認知神経科学原理を解き明かします。"
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「dumas-color-switching」は <strong>アレクサンドル・デュマ自伝『Mes Mémoires（我が回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アレクサンドル・デュマ自伝『Mes Mémoires（我が回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 切り替えの認知疲労（Switching Cost）を相殺する「色彩プライミング効果（Color Priming Effect）」
+## 1. 切り替えの認知疲労（Switching Cost）を相殺する「色彩プライミング効果（Color Priming Effect）」
 
 私たちが複数の課業（例：戦略企画書の作成、定量的な予算検討、感性的なアイデア構想）を交互に遂行する時、脳は前の作業で使用していた「認知的残余物（Cognitive Residue）」を処理し、新しい作業の文脈に適応しようと相当な量の切り替え障害コスト（Switching Cost）を支払わなければなりません。これは前頭前野皮質の作業記憶（Working Memory）容量を低下させ、生産性を深刻に落とします。アレクサンドル・デュマの色彩区分法は、「色彩連想（Color Association）」と「視覚的プライミング（Visual Priming）」を結合させた認知科学的ソリューションでした。特定の課業文脈に指定された色が目の視覚皮質に入ってきた瞬間、脳は以前の残余神経活性を迅速に終了させ、該当作業に最適化された連合領域の神経回路網を自発的に稼働させて課業切り替えの負荷を最小化します。
 
 ---
 
-## 注意事項＆ヒント：明確な視覚的境界線の設定とカテゴリーの単純化
-
-デュマにとって色のついた紙は単なる鑑賞用の小道具ではなく、脳に明確な認知的境界線を引いて切り替えの障害を崩す知的な神経補助道具でした。カテゴリーを過度に細分化して5つ以上の色を使用すると、脳が色と作業状態を連合学習（Associative Learning）できず、かえって認知過負荷が発生します。核心的課業領域を最大3つ以下の大分類に定めておき、各専用のカラーテーマを一定期間変わることなく一貫して維持してこそ、強力なプライミング条件反射が完成します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：明確な視覚的境界線の設定とカテゴリーの単純化
+
+デュマにとって色のついた紙は単なる鑑賞用の小道具ではなく、脳に明確な認知的境界線を引いて切り替えの障害を崩す知的な神経補助道具でした。カテゴリーを過度に細分化して5つ以上の色を使用すると、脳が色と作業状態を連合学習（Associative Learning）できず、かえって認知過負荷が発生します。核心的課業領域を最大3つ以下の大分類に定めておき、各専用のカラーテーマを一定期間変わることなく一貫して維持してこそ、強力なプライミング条件反射が完成します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>アナログの紙や筆記具ではなくデジタルアプリ（Notion、筆記アプリ、ブラウザ）でも同じプライミング効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、完全に同じです。核心的メカニズムは紙の材質ではなく「視覚皮質へと流入する色彩信号と特定の認知状態の間の連合条件づけ」にあります。筆記アプリの中身の背景色、Notionのワークスペーステーマ、Chromeのプロファイルの色を用途別に完全に異なるようにセットするだけでも、前頭前野は同じようにプライミング信号を受容します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>色彩を過度に細分化して頻繁に変えると、かえって脳に逆効果や認知過負荷が発生しませんか？</span>

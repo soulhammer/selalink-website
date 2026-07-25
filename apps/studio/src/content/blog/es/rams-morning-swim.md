@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Menos, pero mejor? La rutina de natación matutina y observación de Dieter Rams"
 description: "La leyenda del diseño minimalista Dieter Rams. Descubra su hábito de despertar el cerebro nadando por la mañana y cuidando el jardín, junto con técnicas de restauración de la atención matutina para las personas modernas."
 pubDate: "2026-05-20"
@@ -38,14 +39,14 @@ La publicación de hoy examina la ciencia cognitiva detrás de la rutina de nata
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre rams-morning-swim se basa en <strong>Investigación basada en biografías históricas y autobiografías de Dieter Rams y estudios de Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación basada en biografías históricas y autobiografías de Dieter Rams y estudios de Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La 'Teoría de restauración de la atención' que purifica la corteza visual
+## 1. La 'Teoría de restauración de la atención' que purifica la corteza visual
 
 Al despertar, las personas modernas se exponen a estímulos visuales artificiales masivos. Esto agota rápidamente la capacidad de atención dirigida de la corteza prefrontal, causando fatiga cognitiva antes del mediodía.
 
@@ -53,9 +54,7 @@ La rutina matutina de Dieter Rams combinó ejercicio aeróbico con la Teoría de
 
 ---
 
-## Vaciar los estímulos visuales artificiales llena su mente de ideas
-
-El buen diseño significa un estado esencial sin elementos innecesarios. Dieter Rams cuidaba bonsáis y observaba la naturaleza cada mañana para vaciar su cerebro de estímulos artificiales y crear espacio para pensamientos esenciales. Limpie su filtro de atención con una breve observación matutina de la naturaleza.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ El buen diseño significa un estado esencial sin elementos innecesarios. Dieter 
   </p>
 </div>
 
+---
+
+## 3. Vaciar los estímulos visuales artificiales llena su mente de ideas
+
+El buen diseño significa un estado esencial sin elementos innecesarios. Dieter Rams cuidaba bonsáis y observaba la naturaleza cada mañana para vaciar su cerebro de estímulos artificiales y crear espacio para pensamientos esenciales. Limpie su filtro de atención con una breve observación matutina de la naturaleza.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es strictly necesario nadar por la mañana para que funcione?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ El buen diseño significa un estado esencial sin elementos innecesarios. Dieter 
       No. Nadar era simplemente el ejercicio aeróbico preferido de Dieter Rams. Cualquier actividad aeróbica ligera que active el flujo sanguíneo cerebral, como trotar en interiores, estiramientos o caminar a paso ligero durante 10 minutos, funciona perfectamente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo observar edificios urbanos o diseños de interiores elegantes en lugar de objetos naturales?</span>

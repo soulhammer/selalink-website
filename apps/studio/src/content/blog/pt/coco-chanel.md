@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eliminando Corsets e Adornos Excessivos: O Corte Minimalista Essencial de Coco Chanel e a Filtragem de Supressão Pré-Frontal"
 description: "Descubra como a lendária estilista Coco Chanel revolucionou a moda feminina drapeando tecidos em modelos e cortando corsets e babados. Explore a neurociência cognitiva da Filtragem de Supressão Pré-Frontal para eliminar ruídos e isolar a essência."
 pubDate: "2026-05-17"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'drapea
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre coco-chanel é baseada em <strong>Verificação Histórica da Biografia de Edmonde Charles-Roux *Chanel e Seu Mundo (Chanel and Her World)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Edmonde Charles-Roux *Chanel e Seu Mundo (Chanel and Her World)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociência da Filtragem de Supressão Pré-Frontal e Extração Intuitiva da Essência
+## 1. Neurociência da Filtragem de Supressão Pré-Frontal e Extração Intuitiva da Essência
 
 Eliminar fisicamente o ruído visual supérfluo aciona as vias de 'Filtragem de Supressão' nos córtex pré-frontais dorsolateral e ventromedial. Quando o cérebro suprime ativamente estímulos dispersos e não essenciais, conserva glicose e fixa a atenção na geometria funcional central. Praticar a subtração em três dimensões aprimora a poda metacognitiva, permitindo eliminar variáveis desnecessárias em propostas estratégicas.
 
 ---
 
-## Precauções e Dicas: Evitar a Eliminação Indiscriminada e Preservar o Valor Funcional Central
-
-A essência do corte minimalista de Chanel não é a eliminação destrutiva por si só. O objetivo central é dedicar recursos cognitivos para isolar o 'esquema estrutural' que eleva a utilidade funcional. Para evitar destruir o propósito central ao recortar, pergunte-se continuamente: 'Se este elemento for removido, a mensagem principal permanece intacta e amplificada?'
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A essência do corte minimalista de Chanel não é a eliminação destrutiva por
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar a Eliminação Indiscriminada e Preservar o Valor Funcional Central
+
+A essência do corte minimalista de Chanel não é a eliminação destrutiva por si só. O objetivo central é dedicar recursos cognitivos para isolar o 'esquema estrutural' que eleva a utilidade funcional. Para evitar destruir o propósito central ao recortar, pergunte-se continuamente: 'Se este elemento for removido, a mensagem principal permanece intacta e amplificada?'
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como posso distinguir entre o excesso não essencial e o valor central ao enxugar documentos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A essência do corte minimalista de Chanel não é a eliminação destrutiva por
       Isole o objetivo principal e pergunte: 'Se esta seção ou gráfico for removido, o problema fundamental resolvido continua claro?' Se sim, o elemento é apenas ornamento. Eliminá-lo amplia a clareza e o impacto.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>A metodologia de corte de Chanel pode ser aplicada ao espaço de trabalho pessoal e à organização diária?</span>

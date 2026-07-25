@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rutinitas Komposisi Langsung Schubert: Langsung ke Kertas Musik dengan Kacamata Begitu Bangun Tidur"
 description: "Raja Lagu yang meninggalkan lebih dari 600 lagu dalam 31 tahun usianya, Franz Schubert menangkap jejak mimpi ke kertas musik begitu bangun dengan kacamata terpasang."
 pubDate: "2026-07-08"
@@ -31,25 +32,23 @@ Dalam artikel hari ini, kami memperkenalkan prinsip sains saraf kognitif di bali
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai schubert didasarkan pada <strong>Riset Berdasarkan Biografi Historis dan Catatan Autobiografi Schubert & Sains Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Berdasarkan Biografi Historis dan Catatan Autobiografi Schubert & Sains Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analisis Prinsip Sains Saraf yang Mendorong Keberhasilan
+## 1. Analisis Prinsip Sains Saraf yang Mendorong Keberhasilan
 
 Segera setelah bangun tidur, otak manusia berada dalam kondisi gelombang Theta kreatif sebelum filter kognitif logis dan pikiran mengganggu masuk. Seperti Schubert, dengan memblokir penuh langkah persiapan antara bangun dan tindakan kreatif utama (memeriksa ponsel, mencuci muka, merapikan meja) untuk menurunkan gesekan tindakan ke nol, seseorang dapat langsung menangkap ide-ide intuitif cemerlang yang tersembunyi di alam bawah sadar ke atas kertas.
 
 ---
 
-## Saran Sains Perilaku untuk Penerapan yang Berhasil
-
-Harap berhati-hati: begitu Anda memeriksa notifikasi ponsel atau pesan bahkan hanya selama 10 detik setelah bangun tidur, otak akan dibanjiri stres informasi dari orang lain dan kehilangan kondisi alam bawah sadar gelombang Theta.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Harap berhati-hati: begitu Anda memeriksa notifikasi ponsel atau pesan bahkan ha
   </p>
 </div>
 
+---
+
+## 3. Saran Sains Perilaku untuk Penerapan yang Berhasil
+
+Harap berhati-hati: begitu Anda memeriksa notifikasi ponsel atau pesan bahkan hanya selama 10 detik setelah bangun tidur, otak akan dibanjiri stres informasi dari orang lain dan kehilangan kondisi alam bawah sadar gelombang Theta.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika saya merasa sangat mengantuk lagi setelah menuliskan catatan bawah sadar pagi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Harap berhati-hati: begitu Anda memeriksa notifikasi ponsel atau pesan bahkan ha
       Tidak apa-apa. Dalam 2 menit menuliskan pikiran tersebut, misi menangkap gelombang Theta sudah berhasil. Minum air atau meregangkan tubuh sesudah menulis akan mengirim sinyal bangun ke otak sehingga rasa kantuk cepat hilang.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus dilakukan jika tidak ada yang terlintas di pikiran begitu bangun tidur?</span>

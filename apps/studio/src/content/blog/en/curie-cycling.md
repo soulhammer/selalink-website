@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Secret to Overcoming Radium Research Stress: Marie Curie's Evening Cycling and BDNF Induction Routine"
 description: "Discover how Marie Curie, the first woman to win a Nobel Prize and the only person honored in two scientific fields, protected her cognitive health amidst radium research stress. Explore the cognitive neuroscience of BDNF secretion and prefrontal oxygenation via evening cycling."
 pubDate: "2026-02-28"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Marie Curie's 'evening 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding curie-cycling is based on <strong>Historical Verification from Ève Curie's Biography *Madame Curie* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Ève Curie's Biography *Madame Curie* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurophysiology of Rhythmic Pedaling, BDNF Secretion, and Prefrontal Reset
+## 1. Neurophysiology of Rhythmic Pedaling, BDNF Secretion, and Prefrontal Reset
 
 Aerobic exercise involving rhythmic cycling dramatically increases cerebral blood flow and triggers the release of Brain-Derived Neurotrophic Factor (BDNF). BDNF enhances neural plasticity and rapidly lowers cortisol levels elevated by high-intensity cognitive stress. Delivering fresh oxygen and glucose to fatigued prefrontal networks, this evening cycling routine serves as a powerful neuro-restorative mechanism that simultaneously provides emotional relaxation and cognitive reset.
 
 ---
 
-## Caution & Tips: Blocking Work Rumination During Exercise & Focusing on Sensory Input
-
-During cycling or exercise breaks, strictly avoid mentally rehearsing complex work problems or research formulas. Engaging working memory during exercise prevents the prefrontal cortex from transitioning into a restorative state, halving the neurological recovery benefits of BDNF. During your ride, direct 100% of your sensory awareness to the feeling of the wind, passing scenery, and physical pedaling rhythms to release prefrontal overload.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ During cycling or exercise breaks, strictly avoid mentally rehearsing complex wo
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Blocking Work Rumination During Exercise & Focusing on Sensory Input
+
+During cycling or exercise breaks, strictly avoid mentally rehearsing complex work problems or research formulas. Engaging working memory during exercise prevents the prefrontal cortex from transitioning into a restorative state, halving the neurological recovery benefits of BDNF. During your ride, direct 100% of your sensory awareness to the feeling of the wind, passing scenery, and physical pedaling rhythms to release prefrontal overload.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Marie and Pierre Curie specifically request bicycles as a wedding gift?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ During cycling or exercise breaks, strictly avoid mentally rehearsing complex wo
       Rather than elaborate ceremonies or luxury home items, bicycles provided a practical, healthy tool to explore the French countryside, contemplate ideas, and release research stress together. These bicycles served both as their honeymoon transportation and lifelong mental anchor.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Are there alternative aerobic routines if I do not own a bicycle or lack cycling trails?</span>

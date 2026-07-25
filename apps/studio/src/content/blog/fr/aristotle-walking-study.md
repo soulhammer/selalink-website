@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le sommet de l'immersion : L'habitude de croquis géométriques sur sable d'Archimède"
 description: "Archimède dessinait continuellement des figures sur le sable ou le sol pour visualiser de complexes inspirations scientifiques. Découvrez comment les croquis visuels manuels réduisent la surcharge cognitive de la mémoire de travail et induisent un état d'hyperfocalisation."
 pubDate: "2026-03-25"
@@ -29,25 +30,23 @@ Archimède, le mathématicien et physicien qui a éclairé l'aube de la science 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant aristotle-walking-study est basée sur <strong>Vérification Historique issue de *La Vie de Marcellus* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *La Vie de Marcellus* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Blocage de la surcharge de la mémoire de travail et effet cognitif du double codage
+## 1. Blocage de la surcharge de la mémoire de travail et effet cognitif du double codage
 
 La mémoire de travail humaine a des limites strictes quant à la quantité d'informations qu'elle peut traiter simultanément. Tenter de calculer des formules mathématiques ou des lois physiques abstraites uniquement de tête fatigue rapidement le cerveau et rompt la concentration. C'est alors que le fait de tracer des lignes autour de soi en bougeant les mains induit une « cognition distribuée (Distributed Cognition) », transférant la charge cognitive du cerveau vers l'environnement extérieur. De plus, grâce à l'effet de double codage où les images visuelles et les mouvements tactiles s'activent conjointement, il stimule les cellules de la mémoire spatiale et favorise un traitement élaboré des informations.
 
 ---
 
-## Précautions et conseils
-
-Le point essentiel à surveiller lors de l'application de l'habitude du croquis géométrique est de ne pas tomber dans le perfectionnisme visant à réaliser un croquis impeccable et esthétique. Porter une attention excessive à la forme des lignes ou à la précision entraîne un phénomène inverse où les ressources cognitives du cerveau sont gaspillées dans le talent de dessin lui-même. Par conséquent, le croquis géométrique ne doit servir que de guide pour organiser les informations et soutenir la concentration du cerveau, l'essentiel étant de dessiner de manière légère sous forme de gribouillage désordonné et inachevé.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Le point essentiel à surveiller lors de l'application de l'habitude du croquis 
     Reliez des flèches ou des lignes entre les figures pour étendre visuellement les relations de cause à effet, de classification et d'interaction tout en réfléchissant pendant 5 minutes.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Le point essentiel à surveiller lors de l'application de l'habitude du croquis géométrique est de ne pas tomber dans le perfectionnisme visant à réaliser un croquis impeccable et esthétique. Porter une attention excessive à la forme des lignes ou à la précision entraîne un phénomène inverse où les ressources cognitives du cerveau sont gaspillées dans le talent de dessin lui-même. Par conséquent, le croquis géométrique ne doit servir que de guide pour organiser les informations et soutenir la concentration du cerveau, l'essentiel étant de dessiner de manière légère sous forme de gribouillage désordonné et inachevé.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

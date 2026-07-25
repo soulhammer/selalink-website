@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "옷차림의 심리학: 르네 마그리트의 정장 작업 루틴"
 description: "매일 정장을 단정하게 입고 거실 이젤 앞에서 흐트러짐 없이 그림을 그렸던 초현실주의 화가 르네 마그리트. 입는 옷이 뇌에 미치는 인지적 피드백 효과인 착의 인지(Enclothed Cognition)를 밝힙니다."
 pubDate: "2026-05-25"
@@ -37,17 +38,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>르네 마그리트 평전 및 벨기에 왕립 미술관(Royal Museums of Fine Arts of Belgium) 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 근거하여 magritte-suit-painting 루틴을 다룹니다.
+      본 콘텐츠는 <strong>르네 마그리트 평전 및 벨기에 왕립 미술관(Royal Museums of Fine Arts of Belgium) 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 착의 인지(Enclothed Cognition) 효과와 전전두엽(Prefrontal Cortex) 인지 제어의 뇌과학
+## 1. 착의 인지(Enclothed Cognition) 효과와 전전두엽(Prefrontal Cortex) 인지 제어의 뇌과학
 
 인간의 뇌는 환경뿐만 아니라 신체와 접촉하는 의복의 상징적 의미로부터 인지적 영향을 받는 <strong>착의 인지(Enclothed Cognition)</strong> 현상을 겪습니다.
 
@@ -57,9 +58,7 @@ faqs:
 
 ---
 
-## 신체적 통증을 유발하는 무리한 정장을 배제하고 단정한 작업 의복 밸런스에 몰입하는 수칙
-
-착의 인지 효과를 얻고자 신체를 지나치게 압박하거나 통증을 유발하는 옷을 입는 것은 경계해야 합니다. 신체적 불편함은 <strong>전전두엽(Prefrontal Cortex)</strong>에 피로 신호를 전달하여 집중력을 해칩니다. 단정함을 유지하되 장시간 편안하게 몰입할 수 있는 슬랙스나 셔츠 등 적절한 활동복 밸런스를 구축하는 것이 본질입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -91,12 +90,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 신체적 통증을 유발하는 무리한 정장을 배제하고 단정한 작업 의복 밸런스에 몰입하는 수칙
+
+착의 인지 효과를 얻고자 신체를 지나치게 압박하거나 통증을 유발하는 옷을 입는 것은 경계해야 합니다. 신체적 불편함은 <strong>전전두엽(Prefrontal Cortex)</strong>에 피로 신호를 전달하여 집중력을 해칩니다. 단정함을 유지하되 장시간 편안하게 몰입할 수 있는 슬랙스나 셔츠 등 적절한 활동복 밸런스를 구축하는 것이 본질입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>재택근무를 할 때 실내화나 전용 신발을 신는 것도 착의 인지에 도움이 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -105,7 +110,7 @@ faqs:
       네, 매우 뛰어난 효과를 냅니다! 발바닥에 전달되는 실내화의 단단한 질감과 촉각 자극은 <strong>체성감각 피질(Somatosensory Cortex)</strong>에 '외부 활동 모드'라는 신호를 보냅니다. 이는 소파나 침대에 누우려는 욕구를 억제하고 작업 기어로 전환하는 훌륭한 신체적 스위치가 됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>화가나 크리에이터처럼 창의적인 일을 할 때도 단정하게 입는 것이 도움이 되나요?</span>

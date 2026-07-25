@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O poder por trás da liderança de ferro da moda: a rotina de tênis às 5 da manhã de Anna Wintour"
 description: "A editora-chefe da Vogue, Anna Wintour, acorda às 5 da manhã todos os dias para correr na quadra por uma hora. Descubra os fundamentos científicos e o guia prático moderno em 3 etapas dessa rotina de tênis que desperta o cérebro."
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ Neste artigo, examinamos os benefícios neurofisiológicos dessa rotina matinal 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre wintour-morning-tennis é baseada em <strong>Registros históricos e biográficos de Anna Wintour e pesquisas em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Registros históricos e biográficos de Anna Wintour e pesquisas em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Elevação da temperatura corporal e estimulação de neurotransmissores de alerta
+## 1. Elevação da temperatura corporal e estimulação de neurotransmissores de alerta
 
 Imediatamente após acordar, o cérebro passa por uma inércia do sono e lentidão cognitiva. Enfrentar reuniões intensas ou e-mails estressantes nesse estado sem despertar o cérebro pode paralisar o córtex pré-frontal, levando a decisões impulsivas ou emotivas.
 
@@ -53,9 +54,7 @@ Praticar exercício cardiovascular intenso como o tênis pela manhã aumenta rap
 
 ---
 
-## Não se esqueça de reservar tempo e fazer um aquecimento cardíaco suave
-
-Logo após acordar, o coração está contraído e a pressão vascular está alta. Começar um sprint máximo logo ao abrir os olhos coloca uma grande sobrecarga no sistema cardiovascular. Faça 3 minutos de aquecimento gradual, como alongamentos dinâmicos leves, antes de aumentar a intensidade.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Logo após acordar, o coração está contraído e a pressão vascular está alt
   </p>
 </div>
 
+---
+
+## 3. Não se esqueça de reservar tempo e fazer um aquecimento cardíaco suave
+
+Logo após acordar, o coração está contraído e a pressão vascular está alta. Começar um sprint máximo logo ao abrir os olhos coloca uma grande sobrecarga no sistema cardiovascular. Faça 3 minutos de aquecimento gradual, como alongamentos dinâmicos leves, antes de aumentar a intensidade.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Preciso acordar e me exercitar exatamente às 5 da manhã para ter resultados?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Logo após acordar, o coração está contraído e a pressão vascular está alt
       Não há razão científica para ser exatamente às 5 da manhã. O ponto principal é acordar pelo menos 1 hora antes de iniciar o trabalho para despertar o cérebro com exercícios físicos. É essencial criar uma rotina nos primeiros 30 minutos após acordar de acordo com seus horários.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que fazer se treinos de alta intensidade forem pesados devido a articulações fracas ou baixa resistência?</span>

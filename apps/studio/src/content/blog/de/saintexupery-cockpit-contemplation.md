@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Saint-Exupérys Cockpit-Notizmethode: Essenz durch Einsamkeit und Reduktion auf das Wesentliche"
 description: "Erkunden Sie die Schreibgewohnheit von Antoine de Saint-Exupéry, Autor von 'Der kleine Prinz' und Pilot, der in der Einsamkeit des Cockpits Ideen entwickelte und durch das Weglassen unnötiger Rhetorik das Wesentliche erreichte."
 pubDate: "2026-07-18"
@@ -35,25 +36,23 @@ Nach der Landung übertrug er diese Notizen in Manuskripte und perfektionierte d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu saintexupery-cockpit-contemplation basiert auf <strong>Historische Biografie- und Autobiografieforschung zu Saint-Exupérys Cockpit-Kontemplation & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und Autobiografieforschung zu Saint-Exupérys Cockpit-Kontemplation & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Warum Einsamkeit und die Reduktionsgewohnheit die präfrontale Metakognition maximieren
+## 1. Warum Einsamkeit und die Reduktionsgewohnheit die präfrontale Metakognition maximieren
 
 Neurowissenschaftliche Forschungen zeigen, dass Einsamkeit frei von externem Lärm das Default Mode Network (DMN) des Gehirns aktiviert und kreative Wahrnehmung fördert. Das anschließende Weglassen unnötiger Elemente oder Rhetorik stimuliert die präfrontale Metakognition und steigert die Denkpräzision.
 
 ---
 
-## Vorsichtsmaßnahmen und Verfeinerungstipps für die Saint-Exupéry-Gewohnheit
-
-Zensieren oder bearbeiten Sie Ideen nicht in der Entstehungsphase. Lassen Sie Gedanken in der Einsamkeit frei fließen und folgen Sie in der Überarbeitungsphase einem Zwei-Stufen-Prozess, indem Sie mutig über 30 % unnötiger Adjektive streichen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Zensieren oder bearbeiten Sie Ideen nicht in der Entstehungsphase. Lassen Sie Ge
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen und Verfeinerungstipps für die Saint-Exupéry-Gewohnheit
+
+Zensieren oder bearbeiten Sie Ideen nicht in der Entstehungsphase. Lassen Sie Gedanken in der Einsamkeit frei fließen und folgen Sie in der Überarbeitungsphase einem Zwei-Stufen-Prozess, indem Sie mutig über 30 % unnötiger Adjektive streichen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann dieses Reduktionsprinzip auch auf Geschäftsberichte oder Konzepte angewendet werden?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Zensieren oder bearbeiten Sie Ideen nicht in der Entstehungsphase. Lassen Sie Ge
       Ja! Wenn Sie den Entwurf frei schreiben und beim zweiten Durchsehen unnötige Floskeln, Fachjargon und lange Sätze streichen, verdoppelt sich die Überzeugungskraft.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was ist, wenn durch zu starkes Kürzen der Kontext verloren geht?</span>

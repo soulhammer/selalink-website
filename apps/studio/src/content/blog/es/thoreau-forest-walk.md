@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Caminar 4 horas al día en el bosque: La rutina de paseos de restauración natural de Henry David Thoreau"
 description: "Presentamos la rutina diaria de caminata de 4 horas de Henry David Thoreau alrededor de la laguna Walden. Explica los principios neurocientíficos de cómo caminar en la naturaleza restaura la atención y despierta la creatividad."
 pubDate: "2026-04-30"
@@ -32,22 +33,20 @@ Henry David Thoreau, el eminente pensador y escritor estadounidense que practic�
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre thoreau-forest-walk se basa en <strong>Biografías históricas y registros autobiográficos de Henry David Thoreau e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Henry David Thoreau e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teoría de la Restauración de la Atención (ART): El efecto curativo de caminar en la naturaleza sobre la corteza prefrontal fatigada
+## 1. Teoría de la Restauración de la Atención (ART): El efecto curativo de caminar en la naturaleza sobre la corteza prefrontal fatigada
 
 Según la 'Teoría de Restauración de la Atención (ART)' de la ciencia cognitiva, los entornos urbanos llenos de estímulos artificiales complejos (semáforos, pantallas) agotan constantemente la atención dirigida del cerebro. En cambio, los entornos naturales como bosques o parques brindan estímulos de 'Fascinación Suave (Soft Fascination)', como árboles mecidos por el viento o el susurro de las hojas, permitiendo descansar a la corteza prefrontal fatigada. Además, caminar activa la Red Neuronal por Defecto (DMN) del cerebro, combinando pensamientos dispersos e impulsando nuevos hallazgos intelectuales.
 
 ---
 
-## Desconéctese por completo del ruido digital durante la caminata
-
-Para Henry David Thoreau, caminar en la naturaleza era un ritual sagrado de diálogo en soledad con el mundo natural. Si camina mirando la pantalla del teléfono o respondiendo notificaciones en tiempo real, la función de restauración de atención del cerebro no funcionará. Durante la caminata, permanezca desconectado de dispositivos y redes, y abra todos sus sentidos a las plantas y a los cambios de estación.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Para Henry David Thoreau, caminar en la naturaleza era un ritual sagrado de diá
     Lleve consigo una pequeña libreta analógica y un bolígrafo. En esos momentos en que el cerebro se relaja y emergen ideas brillantes, regístrelas de inmediato en papel en lugar de encender el teléfono.
   </p>
 </div>
+
+---
+
+## 3. Desconéctese por completo del ruido digital durante la caminata
+
+Para Henry David Thoreau, caminar en la naturaleza era un ritual sagrado de diálogo en soledad con el mundo natural. Si camina mirando la pantalla del teléfono o respondiendo notificaciones en tiempo real, la función de restauración de atención del cerebro no funcionará. Durante la caminata, permanezca desconectado de dispositivos y redes, y abra todos sus sentidos a las plantas y a los cambios de estación.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

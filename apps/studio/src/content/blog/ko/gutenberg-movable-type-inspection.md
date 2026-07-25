@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "인쇄 혁명의 거장: 구텐베르크의 아침 금속 활자 정밀 오차 검수 루틴과 ERN 오류 감지 메커니즘"
 description: "금속 활자의 발명가 구텐베르크가 매일 아침 활자 수평 오차를 손과 눈으로 검수하며 시스템 표준과 품질을 지켜낸 뇌과학적 습관과 전대상피질(ACC) ERN 자극 메커니즘을 탐구합니다."
 pubDate: "2026-06-04"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>요하네스 구텐베르크 평전 및 메인츠 구텐베르크 박물관(Gutenberg Museum Mainz) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 gutenberg-movable-type-inspection 루틴을 다룹니다.
+      본 콘텐츠는 <strong>요하네스 구텐베르크 평전 및 메인츠 구텐베르크 박물관(Gutenberg Museum Mainz) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## ERN(오류 관련 음성 전위) 자극과 시스템 오차 감지 메커니즘
+## 1. ERN(오류 관련 음성 전위) 자극과 시스템 오차 감지 메커니즘
 
 작업 시스템에 조그마한 유격이나 미세 오류를 방지하지 못하면 실수가 누적되어 결국 전체 대형 시스템 부실로 이어집니다. 구텐베르크처럼 본 작업 직전 5분간 시스템 정렬 상태를 수작업으로 확인하는 <strong>'오차 점검 루틴'</strong>은 뇌의 대뇌 <strong>전대상피질(Anterior Cingulate Cortex, ACC)</strong>에서 발생하는 <strong>ERN(Error-Related Negativity, 오류 관련 음성 전위)</strong> 회로의 감도를 정밀하게 훈련시킵니다. 미세한 오차나 비대칭도 뇌가 즉시 인지하여 정정하도록 유도함으로써 결함 없는 최고 품질을 보장합니다.
 
 ---
 
-## 직관과 어림짐작에 의존하는 방심을 깨는 시스템 정렬 검수 수칙
-
-'이 정도면 대충 맞겠지'라는 대략적인 직관(Heuristics)에 의존하는 방심이 치명적인 대형 시스템 사고를 유발합니다. 무리하게 의지력에만 의존하려 하지 말고, 매일 아침 본 작업 전 5분간 시스템 정렬과 주요 오차 지점 3곳을 눈과 손으로 직접 확인하는 직관적 검수 절차를 물리적 환경 속에 고정해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 직관과 어림짐작에 의존하는 방심을 깨는 시스템 정렬 검수 수칙
+
+'이 정도면 대충 맞겠지'라는 대략적인 직관(Heuristics)에 의존하는 방심이 치명적인 대형 시스템 사고를 유발합니다. 무리하게 의지력에만 의존하려 하지 말고, 매일 아침 본 작업 전 5분간 시스템 정렬과 주요 오차 지점 3곳을 눈과 손으로 직접 확인하는 직관적 검수 절차를 물리적 환경 속에 고정해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>소프트웨어 자동 테스트가 있는데 수동 점검을 왜 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       자동 테스트는 로직 오류를 잡지만, 사람이 느끼는 레이아웃 어색함이나 시각적 미세 불균형은 잡지 못합니다. 5분 사람 눈 검수가 완벽함을 완성합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>매일 아침 점검하다가 시간이 지연되면 어떻게 하나요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "30 Minutos de Silêncio e o Memo de 6 Páginas: O Método de Reunião da Amazon de Jeff Bezos e a Neurociência da Leitura"
 description: "Descubra o segredo de tomada de decisão de Jeff Bezos ao proibir apresentações em PPT na Amazon e exigir 30 minutos de leitura silenciosa de memos narrativos de 6 páginas no início das reuniões, e explore os princípios neurocientíficos de como a leitura narrativa estimula o córtex pré-frontal para maximizar o julgamento."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás do método de 'leitu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre bezos-six-page-memo é baseada em <strong>Verificação Histórica das Cartas aos Acionistas de Jeff Bezos e do Livro de Colin Bryar *Working Backwards* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Cartas aos Acionistas de Jeff Bezos e do Livro de Colin Bryar *Working Backwards* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Como a Leitura Narrativa Maximiza o Julgamento do Córtex Pré-Frontal
+## 1. Como a Leitura Narrativa Maximiza o Julgamento do Córtex Pré-Frontal
 
 Tópicos fragmentados (Bullet Points) oferecem uma ilusão de clareza, mas na realidade costumam esconder lacunas lógicas e obscurecer relações de causa e efeito complexas. Por outro lado, a leitura profunda de textos narrativos completos ativa fortemente o córtex pré-frontal do cérebro. O córtex pré-frontal é o centro de controle executivo de mais alto nível, responsável por analisar a causalidade, utilizar a memória de trabalho e ponderar prós e contras. A leitura silenciosa aumenta a densidade do processamento de informações no córtex pré-frontal, prevenindo erros de julgamento e permitindo uma sincronização cognitiva perfeita entre os participantes.
 
 ---
 
-## Precauções e Dicas: Evitar Meras Listas de Tópicos e Estabelecer Causalidade Clara
-
-Ao redigir um memo narrativo de 6 páginas, evite simplesmente transformar tópicos curtos em frases completas. O texto deve articular relações claras de causa e efeito (ex.: o Problema A gera o Resultado B, que é resolvido pela Solução C para gerar o Valor de Negócio D). A escrita que apenas lista fatos sem conexões lógicas aumenta a fadiga cognitiva; portanto, mantenha uma estrutura lógica rigorosa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ao redigir um memo narrativo de 6 páginas, evite simplesmente transformar tópi
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar Meras Listas de Tópicos e Estabelecer Causalidade Clara
+
+Ao redigir um memo narrativo de 6 páginas, evite simplesmente transformar tópicos curtos em frases completas. O texto deve articular relações claras de causa e efeito (ex.: o Problema A gera o Resultado B, que é resolvido pela Solução C para gerar o Valor de Negócio D). A escrita que apenas lista fatos sem conexões lógicas aumenta a fadiga cognitiva; portanto, mantenha uma estrutura lógica rigorosa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que reservar um tempo de leitura silenciosa durante a reunião em vez de pedir para lerem com antecedência?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ao redigir um memo narrativo de 6 páginas, evite simplesmente transformar tópi
       Quando se pede para ler com antecedência, agendas corridas frequentemente fazem com que as pessoas apenas passem os olhos ou não leiam. Ao impor uma sessão de leitura silenciosa de 30 minutos na reunião, Bezos garantiu uma sincronização cognitiva completa entre todos os presentes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Redigir um memo narrativo de 6 páginas não exige tempo e esforço excessivos?</span>

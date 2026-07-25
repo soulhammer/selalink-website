@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Caçando a Inspiração Fugaz: A Rotina de Captura Imadiata com Caderno de Bolso de Bruce Lee"
 description: "Descubra como o marcialista e ícone do cinema do século XX Bruce Lee carregava um caderno de bolso para capturar percepções filosóficas e conceitos de artes marciais em tempo real, e explore os mecanismos cognitivos de estimulação do SRA."
 pubDate: "2026-04-06"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'regist
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre brucelee-pocket-notebook é baseada em <strong>Verificação Histórica da Biografia de John Little *Bruce Lee: Artista da Vida (Bruce Lee: Artist of Life)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de John Little *Bruce Lee: Artista da Vida (Bruce Lee: Artist of Life)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação do Sistema de Ativação Reticular (SRA) e Processamento Seletivo de Informações
+## 1. Estimulação do Sistema de Ativação Reticular (SRA) e Processamento Seletivo de Informações
 
 O cérebro humano processa milhões de dados sensoriais diariamente, mas os filtros cognitivos apagam a maioria das informações não vinculadas à sobrevivência ou interesses centrais. Escrever uma inspiração em um caderno de bolso em até 5 segundos — como fazia Bruce Lee — desperta fortemente o Sistema de Ativação Reticular (SRA) no tronco cerebral. Atuando como um guardião que atribui prioridade aos sinais que chegam ao córtex cerebral, o ato físico de registrar sinaliza: 'Esta ideia é vital para o alcance de metas.' Consequentemente, o cérebro entra num estado de 'Percepção Seletiva', varrendo o ambiente em busca de oportunidades e pistas associadas a essa nota.
 
 ---
 
-## Precauções e Dicas: Priorizar a Velocidade e o Momento em Vez de uma Estructura Polida
-
-A regra de ouro do caderno de bolso é a rapidez: encostar a caneta no papel em até 5 segundos após o surgimento de uma inspiração. Não hesite tentando formatar parágrafos ou caprichar na caligrafia. No momento em que você se preocupa com a organização formal, a censura pré-frontal intervém e a centelha se evapora. Algumas palavras rabiscadas ou frases incompletas bastam para ancorar a centelha mental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A regra de ouro do caderno de bolso é a rapidez: encostar a caneta no papel em 
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Priorizar a Velocidade e o Momento em Vez de uma Estructura Polida
+
+A regra de ouro do caderno de bolso é a rapidez: encostar a caneta no papel em até 5 segundos após o surgimento de uma inspiração. Não hesite tentando formatar parágrafos ou caprichar na caligrafia. No momento em que você se preocupa com a organização formal, a censura pré-frontal intervém e a centelha se evapora. Algumas palavras rabiscadas ou frases incompletas bastam para ancorar a centelha mental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Gravar notas de voz no celular produz os mesmos benefícios cognitivos que um caderno de papel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A regra de ouro do caderno de bolso é a rapidez: encostar a caneta no papel em 
       Sim, a gravação de voz é um método excelente para descarregar rapidamente a memória de trabalho. No entanto, o formato em texto é superior para a revisão visual e estruturação posterior. Se usar notas de voz, recomendamos combiná-las com a funcionalidade de voz para texto (STT) para arquivá-las como texto.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Eu faço anotações, mas frequentemente me esqueço de revisá-las mais tarde. Como posso resolver isso?</span>

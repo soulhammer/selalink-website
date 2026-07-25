@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "현대 유아교육 혁명가: 마리아 몽테소리의 객관적 관찰 일지 루틴"
 description: "이탈리아 최초의 여성 의사이자 교육학자 마리아 몽테소리. 주관적 편견을 차단하고 본질을 파악했던 그녀의 객관적 관찰 기술과 3단계 가이드."
 pubDate: "2026-02-17"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>마리아 몽테소리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 montessori-observation-log 루틴을 다룹니다.
+      본 콘텐츠는 <strong>마리아 몽테소리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 확증 편향을 극복하고 본질을 직시하는 인지적 객관화
+## 1. 확증 편향을 극복하고 본질을 직시하는 인지적 객관화
 
 우리는 종종 자신의 경험이나 감정에 기반한 주관적 억측으로 문제의 원인을 단정 짓는 '확증 편향'에 빠집니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 평가나 감정 형용사 없이 오직 사실만 기록하세요
-
-'피곤해 보인다' 대신 '10분 동안 눈을 30회 감았다'처럼 주관적 해석을 빼고 감각적으로 관찰된 사실 자체만을 기술하는 것이 몽테소리 관찰의 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 평가나 감정 형용사 없이 오직 사실만 기록하세요
+
+'피곤해 보인다' 대신 '10분 동안 눈을 30회 감았다'처럼 주관적 해석을 빼고 감각적으로 관찰된 사실 자체만을 기술하는 것이 몽테소리 관찰의 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>자기 자신의 습관을 관찰할 때도 이 루틴을 쓸 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       네, 셀프 타임 트래킹이나 업무 일지를 쓸 때 '자책 감정'을 빼고 시간대별 실제 작업한 팩트만 기재하는 방식으로 완벽히 적용할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>주관적 감정과 객관적 팩트를 구분하기가 어렵다면 어떻게 해야 하나요?</span>

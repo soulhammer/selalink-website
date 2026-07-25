@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pikiran Bagaikan Kanvas Kosong: Rutinitas Menunggu Hening Agnes Martin"
 description: "Pelukis Agnes Martin duduk di kursi di depan kanvas dan menunggu hingga seluruh pikiran pengganggu hilang sebelum melukis. Pelajari ilmu kognitif meditasi yang membersihkan kebisingan otak untuk memicu inspirasi."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ Dalam artikel hari ini, kami mengulas bagaimana ritual menunggu di kursi ala Agn
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai martin-silent-waiting didasarkan pada <strong>Verifikasi Biografi Historis Agnes Martin & Riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Biografi Historis Agnes Martin & Riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pengurangan Kebisingan Kognitif dan Sinkronisasi Gelombang Alfa-Teta
+## 1. Pengurangan Kebisingan Kognitif dan Sinkronisasi Gelombang Alfa-Teta
 
 Otak manusia modern terus memancarkan Gelombang Beta yang cepat akibat tekanan untuk menyelesaikan masalah. Kondisi ini memperbesar kebisingan kognitif dan menghambat intuisi kreatif. Ketika Anda dengan sadar menghentikan tindakan dan berfokus pada keheningan batin, otak berganti gigi dari <strong>Gelombang Alfa (Alpha Waves)</strong> menuju <strong>Gelombang Teta (Theta Waves)</strong> yang reflektif. Sinkronisasi gelombang otak ini mengangkat filter logika pertahanan diri, mengaktifkan ide-ide segar di memori jangka panjang.
 
 ---
 
-## Perhatian dan Tips
-
-Berhati-hatilah agar tidak terjebak dalam 'perang melawan pikiran' saat berusaha mengosongkan otak. Menekan pikiran secara paksa (Suppression) justru membuat otak semakin terobsesi dengannya—fenomena psikologis yang disebut 'Efek Membal (Rebound Effect)'. Saat pikiran muncul, amati seperti awan yang melintas, akui secara netral, lalu kembalikan perhatian ke helaan napas melalui kesadaran penuh (Mindfulness).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Berhati-hatilah agar tidak terjebak dalam 'perang melawan pikiran' saat berusaha
     Setelah kabut mental sirna dan fokus yang jernih tercapai, bukalah hanya satu tugas inti yang paling esensial dan mulailah bekerja.
   </p>
 </div>
+
+---
+
+## 3. Perhatian dan Tips
+
+Berhati-hatilah agar tidak terjebak dalam 'perang melawan pikiran' saat berusaha mengosongkan otak. Menekan pikiran secara paksa (Suppression) justru membuat otak semakin terobsesi dengannya—fenomena psikologis yang disebut 'Efek Membal (Rebound Effect)'. Saat pikiran muncul, amati seperti awan yang melintas, akui secara netral, lalu kembalikan perhatian ke helaan napas melalui kesadaran penuh (Mindfulness).
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

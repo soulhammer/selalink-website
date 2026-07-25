@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Master yang Mengubah Imajinasi Besar menjadi Kenyataan dengan Menyentuh Mainan: Metode Stimulasi Taktil Steven Spielberg"
 description: "Steven Spielberg, sutradara paling sukses dalam sejarah perfilman modern. Kami mengeksplorasi rutinitas stimulasi otak kanan miliknya yang menyempitkan pandangan melalui lensa viewfinder dan menyentuh mainan model setiap kali mengalami kebuntuan skenario atau sudut kamera, serta cara modern memanfaatkan alat fidget."
 pubDate: "2026-04-20"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kita akan mempelajari akar sains saraf dari rutinitas 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai spielberg-viewfinder-tactile didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Steven Spielberg & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Steven Spielberg & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Korteks Somatosensorik dan Akselerasi Komputasi Spasial Lobus Parietal
+## 1. Stimulasi Korteks Somatosensorik dan Akselerasi Komputasi Spasial Lobus Parietal
 
 Umpan balik haptik yang canggih dari sentuhan halus pada kontur 3D rumit dari sebuah model dengan ujung jari sangat merangsang korteks somatosensorik otak. Hal ini secara bersamaan menstimulasi area asosiasi lobus parietal otak kanan, yang bertanggung jawab atas penalaran spasial dan komposisi tiga dimensi dari sebuah adegan. Selain itu, pembingkaian ulang visual—memblokir bidang pandang melalui lensa viewfinder analog atau celah sempit dan berfokus pada satu objek—menyaring kebisingan visual berlebih yang menuju lobus frontal, mengonsentrasikan sumber daya kognitif pada komputasi komposisi struktural target.
 
 ---
 
-## Jebakan Alat Taktil Berlebihan dan Tips Menghubungkannya dengan Perencanaan
-
-Saat menyentuh alat fidget untuk merangsang ujung jari, jika alat tersebut terlalu mencolok atau memiliki mekanisme yang rumit, dispersi kognitif akan terjadi karena otak justru terpesona oleh kesenangan mengoperasikan alat itu sendiri. Oleh karena itu, untuk tujuan stimulasi otak, menggunakan bentuk-bentuk sederhana dan bahan yang kokoh seperti model logam dingin atau mainan kayu jauh lebih menguntungkan untuk pengalihan beban kognitif (cognitive offloading). Selain itu, batasi waktu menyentuh tidak lebih dari 10 menit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Saat menyentuh alat fidget untuk merangsang ujung jari, jika alat tersebut terla
   </p>
 </div>
 
+---
+
+## 3. Jebakan Alat Taktil Berlebihan dan Tips Menghubungkannya dengan Perencanaan
+
+Saat menyentuh alat fidget untuk merangsang ujung jari, jika alat tersebut terlalu mencolok atau memiliki mekanisme yang rumit, dispersi kognitif akan terjadi karena otak justru terpesona oleh kesenangan mengoperasikan alat itu sendiri. Oleh karena itu, untuk tujuan stimulasi otak, menggunakan bentuk-bentuk sederhana dan bahan yang kokoh seperti model logam dingin atau mainan kayu jauh lebih menguntungkan untuk pengalihan beban kognitif (cognitive offloading). Selain itu, batasi waktu menyentuh tidak lebih dari 10 menit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah memutar fidget spinner atau pulpen biasa dengan jari memberikan efek yang sama?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Saat menyentuh alat fidget untuk merangsang ujung jari, jika alat tersebut terla
       Tindakan memutar spinner atau pulpen secara berulang diklasifikasikan sebagai kebiasaan motorik bawah sadar yang hanya merangsang sirkuit ganglia basalis otak, dan menghasilkan intensitas stimulasi korteks somatosensorik (umpan balik haptik) yang sangat rendah untuk menginduksi komputasi spasial tingkat tinggi di lobus parietal. Oleh karena itu, menyentuh langsung mainan model analog atau kubus—di mana bentuk dan kontur geometris yang jelas memaksa otak mengoordinasikan gerakan halus ujung jari untuk mengenali bentuk—menghasilkan efek gugahan intelektual yang jauh lebih unggul.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ada tips lain untuk menyempitkan bidang pandang dalam kehidupan sehari-hari ketika tidak ada lensa viewfinder optik?</span>

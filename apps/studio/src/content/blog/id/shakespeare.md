@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rutinitas Mendengarkan Shakespeare: Mengumpulkan Bahasa Orang Lain di Sudut Ruang Latihan"
 description: "William Shakespeare, dramawan terbesar dalam sejarah sastra. Ia memaksimalkan sirkuit emosional neuron cermin dengan mengumpulkan dialog dan intonasi di sudut latihan serta membaca dialog dengan lantang."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ Dalam artikel ini, kami memperkenalkan prinsip ilmu saraf di balik kebiasaannya 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai shakespeare didasarkan pada <strong>Riset biografi historis Shakespeare & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi historis Shakespeare & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analisis Prinsip Ilmu Saraf yang Mendorong Keberhasilan
+## 1. Analisis Prinsip Ilmu Saraf yang Mendorong Keberhasilan
 
 Melacak ritme bicara dan kondisi emosional orang lain secara cermat untuk dicatat ke dalam struktur dialog sangat menstimulasi hubungan antara area asosiasi bahasa otak dan Neuron Cermin (Mirror Neurons). Ini bekerja sebagai mekanisme ampuh yang meningkatkan empati kognitif dan komunikasi.
 
 ---
 
-## Saran Ilmu Perilaku untuk Penerapan Kebiasaan yang Sukses
-
-Ini bukan tentang mengintip percakapan orang. Kuncinya adalah mengamati pola universal ekspresi manusia dan umpan balik sosial dari sudut pandang kognitif. Rancang lingkungan fisik dan isyarat kebiasaan yang memicu pengamatan secara alami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Ini bukan tentang mengintip percakapan orang. Kuncinya adalah mengamati pola uni
   </p>
 </div>
 
+---
+
+## 3. Saran Ilmu Perilaku untuk Penerapan Kebiasaan yang Sukses
+
+Ini bukan tentang mengintip percakapan orang. Kuncinya adalah mengamati pola universal ekspresi manusia dan umpan balik sosial dari sudut pandang kognitif. Rancang lingkungan fisik dan isyarat kebiasaan yang memicu pengamatan secara alami.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara mempraktikkannya di lingkungan di mana saya tidak dapat mendengar percakapan orang lain dengan baik?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Ini bukan tentang mengintip percakapan orang. Kuncinya adalah mengamati pola uni
       Menonton siaran berita atau video wawancara dan mencatat pola kata keterangan pembicara atau percepatan tempo bicara saat bersemangat berfungsi sebagai latihan keselarasan bahasa yang sangat baik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah latihan pengumpulan bahasa ini dapat diterapkan pada negosiasi bisnis atau penulisan proposal?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Playwright Inspired by the Smell of Rotten Apples? Friedrich Schiller's Peculiar Deep Focus Routine"
 description: "German literary giant Friedrich Schiller immersed himself in creation while smelling stimulating rotten apples in his desk drawer. Discover the scientific principles of how olfactory stimulation awakens the brain and practical modern aroma anchoring techniques."
 pubDate: "2026-05-05"
@@ -36,14 +37,14 @@ Here we examine the scientific basis behind Schiller's unique 'olfactory reset' 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding schiller-rotten-apple is based on <strong>Historical biographies and autobiographical records of Friedrich Schiller & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Friedrich Schiller & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurological Connection Between Smell and Cognitive Arousal
+## 1. Neurological Connection Between Smell and Cognitive Arousal
 
 Among all human senses, smell is the only one that bypasses the thalamus—the brain's sensory relay hub—and reaches the limbic system's amygdala and hippocampus directly, which govern emotion and memory. Because of this, olfactory cues offer the fastest pathway to alter cognitive states.
 
@@ -51,9 +52,7 @@ The fermented gases (such as acetaldehyde and ethanol) from Schiller's rotten ap
 
 ---
 
-## Safe and Effective Modern Olfactory Anchoring
-
-Schiller's rotten apple method can cause headaches due to carbon dioxide and acetaldehyde toxicity, making it a dangerous technique that modern individuals should not replicate. Instead, safely awaken your focus through modern anchoring by intentionally using proven, harmless natural essential oils (such as rosemary or peppermint) exclusively before starting work or study.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Schiller's rotten apple method can cause headaches due to carbon dioxide and ace
   </p>
 </div>
 
+---
+
+## 3. Safe and Effective Modern Olfactory Anchoring
+
+Schiller's rotten apple method can cause headaches due to carbon dioxide and acetaldehyde toxicity, making it a dangerous technique that modern individuals should not replicate. Instead, safely awaken your focus through modern anchoring by intentionally using proven, harmless natural essential oils (such as rosemary or peppermint) exclusively before starting work or study.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Did Schiller's rotten apple smell truly have a brain-stimulating effect?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Schiller's rotten apple method can cause headaches due to carbon dioxide and ace
       Yes. Acetaldehyde released during fermentation briefly lowers oxygen concentration and alters breathing to deliver a unique physiological jolt, while the olfactory signals sent immediate awakening cues to the brain's limbic system.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What scents are recommended for modern aroma anchoring?</span>

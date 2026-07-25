@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le secret d'inspiration de « Clair de Lune » : L'écoute des sons de la nature à l'aube et l'induction d'ondes alpha de Claude Debussy"
 description: "Découvrez comment le maître impressionniste Claude Debussy écoutait la brise et l'eau à l'aube pour composer des mélodies immortelles. Explorez la neuroscience cognitive montrant comment le bruit rose naturel induit des ondes alpha."
 pubDate: "2026-03-27"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant debussy-nature-listening est basée sur <strong>Vérification Historique issue de la biographie de François Lesure *Claude Debussy* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de François Lesure *Claude Debussy* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Induction d'ondes alpha corticales et relaxation parasympathique via le bruit rose naturel
+## 1. Induction d'ondes alpha corticales et relaxation parasympathique via le bruit rose naturel
 
 Le bruit urbain artificiel surstimule le cortex auditif, maintenant le cerveau dans des états d'Ondes Bêta à haute fréquence. À l'inverse, porter son attention sur le « Bruit Rose » naturel — caractérisé par une distribution d'énergie spectrale en $1/f$, comme le vent dans le feuillage ou le ruissellement de l'eau — fait basculer les rythmes cérébraux vers des Ondes Alpha relaxantes de 8 à 12 Hz. Cette relaxation auditive favorise les connexions associatives.
 
 ---
 
-## Précautions & Conseils : Élimination des sons artificiels & Concentration sur la texture acoustique
-
-Pour bénéficier des bienfaits de l'écoute de la nature, éliminez les contenus audio artificiels (musique, podcasts, informations). Ne laissez pas les sons vous traverser passivement. Pratiquez une « Écoute Sensorielle Active » : consacrez 5 minutes à isoler et différencier les textures acoustiques subtiles (le timbre du vent, le rythme des gouttes d'eau). Cela libère le cortex préfrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour bénéficier des bienfaits de l'écoute de la nature, éliminez les contenu
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Élimination des sons artificiels & Concentration sur la texture acoustique
+
+Pour bénéficier des bienfaits de l'écoute de la nature, éliminez les contenus audio artificiels (musique, podcasts, informations). Ne laissez pas les sons vous traverser passivement. Pratiquez une « Écoute Sensorielle Active » : consacrez 5 minutes à isoler et différencier les textures acoustiques subtiles (le timbre du vent, le rythme des gouttes d'eau). Cela libère le cortex préfrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si je vis dans un centre-ville sans parcs ni forêts à proximité ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour bénéficier des bienfaits de l'écoute de la nature, éliminez les contenu
       Si l'accès à l'extérieur est limité, ouvrez une fenêtre tôt le matin pour vous concentrer sur le vent et le calme, ou utilisez un casque pour écouter du Bruit Rose $1/f$ de haute qualité (pluie, forêt ou mer) pendant 5 minutes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Cette routine est-elle efficace si elle est pratiquée l'après-midi pendant le travail ?</span>

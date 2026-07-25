@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "100回連続成功するまで：タイガー・ウッズの4mパッティング没頭法"
 description: "ゴルフの皇帝タイガー・ウッズが練習前に行った「100回連続パッティング成功」ルーティン。妥協のない達成体験がいかに脳にドパミンを供給し、極限の没頭に導くかを解説します。"
 pubDate: "2026-04-01"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「woods-hundred-putts」は <strong>タイガー・ウッズの100回パッティングに関する歴史的評伝・記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>タイガー・ウッズの100回パッティングに関する歴史的評伝・記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 妥協のない達成体験がもたらす極限の没頭
+## 1. 妥協のない達成体験がもたらす極限の没頭
 
 脳が高度の集中力を要求される作業を行う際、最も重要な触媒となるのが報酬予測物質であるドパミン（Dopamine）です。途中で失敗すると最初に戻るという厳格なルールのもとで課題を成功させる体験は、脳の快楽および行動制御中枢を強力に活性化します。これにより雑念が遮断され、ターゲット作業だけに全力を注ぐ最適な没頭状態が活性化されます。
 
 ---
 
-## 注意事項とアドバイス
-
-ドパミン報酬を効果的に利用するには、課題が簡単すぎたり退屈であったりしてはならず、逆に成功の可能性が低すぎてもいけません。個人の認知能力に応じて緊張感を保てる適度な難易度の挑戦課題を設定することが重要であり、初期に失敗が続いて苛立ちが生じる場合は難易度を調整する賢明さが必要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     目標達成によりドパミンと高次元の集中力がセットされた状態を引き継ぎ、直ちに企画書の作成などの核心業務に取りかかります。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とアドバイス
+
+ドパミン報酬を効果的に利用するには、課題が簡単すぎたり退屈であったりしてはならず、逆に成功の可能性が低すぎてもいけません。個人の認知能力に応じて緊張感を保てる適度な難易度の挑戦課題を設定することが重要であり、初期に失敗が続いて苛立ちが生じる場合は難易度を調整する賢明さが必要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

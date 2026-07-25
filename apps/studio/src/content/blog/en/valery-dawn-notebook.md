@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cahiers at 4 AM: Paul Valéry's Consciousness Journaling Method"
 description: "Poet Paul Valéry woke up at 4 AM every day for 51 years to fill his handwritten notebook 'Cahiers.' Covering the scientific reasons why early morning silence, shielded from external stimuli, awakens the prefrontal cortex's reflective and analytical intelligence to its peak."
 pubDate: "2026-04-19"
@@ -36,22 +37,20 @@ In today's post, we interpret Paul Valéry's self-tuning mechanism through early
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding valery-dawn-notebook is based on <strong>Valéry Dawn Notebook historical biographies & autobiographical records validation & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Valéry Dawn Notebook historical biographies & autobiographical records validation & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Noise Blockage & Awakening Hormone Action Provided by Dawn Silence
+## 1. Cognitive Noise Blockage & Awakening Hormone Action Provided by Dawn Silence
 
 During normal daytime hours, the brain faces countless external stimuli like noise, emails, and instant messages, wasting cognitive resources. However, at 4 AM, the surrounding world is completely still, bringing the energy spent filtering external stimuli close to zero. Simultaneously, the gradual rise in cortisol levels as one wakes calmly awakens the brain without stress, creating perfect physiological conditions for prefrontal cortex-led deep reflective writing and self-contemplation.
 
 ---
 
-## Cautions and Tips
-
-Diving straight into complex mechanical tasks or numerical calculations in a groggy state before the brain fully awakens lowers productivity. In this time block, arranging intuitive note-taking, free writing, or philosophical reading is most suitable for cognitive efficiency over logical computation. Additionally, to keep early morning hours undisturbed, establishing a disconnect wall where you never check smartphones or emails for 1 hour after waking is essential.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Diving straight into complex mechanical tasks or numerical calculations in a gro
     Open your notebook and quietly write down your thoughts, emotions, and emerging intellectual ideas with a pen for 30 minutes without form constraint, refining your thinking.
   </p>
 </div>
+
+---
+
+## 3. Cautions and Tips
+
+Diving straight into complex mechanical tasks or numerical calculations in a groggy state before the brain fully awakens lowers productivity. In this time block, arranging intuitive note-taking, free writing, or philosophical reading is most suitable for cognitive efficiency over logical computation. Additionally, to keep early morning hours undisturbed, establishing a disconnect wall where you never check smartphones or emails for 1 hour after waking is essential.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

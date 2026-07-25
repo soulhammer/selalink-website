@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在思维死胡同拉响小提琴的天才：阿尔伯特·爱因斯坦的重置习惯与认知切换法"
 description: "探索改变物理学范式的阿尔伯特·爱因斯坦在研究陷入死胡同时通过拉小提琴重置大脑的独特习惯，揭示适用于现代人的3步骤认知切换实践方案。"
 pubDate: "2026-03-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 einstein-violin-thinking 的内容基于 <strong>阿尔伯特·爱因斯坦随笔集《我的晚年（Out of My Later Years）》与沃尔特·艾萨克森传记《爱因斯坦：伟大的生涯》考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>阿尔伯特·爱因斯坦随笔集《我的晚年（Out of My Later Years）》与沃尔特·艾萨克森传记《爱因斯坦：伟大的生涯》考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过“认知切换（Cognitive Shifting）”与预设模式网络唤醒大脑不同区域
+## 1. 通过“认知切换（Cognitive Shifting）”与预设模式网络唤醒大脑不同区域
 
 当人类过度执念于某项复杂难题时，大脑便会陷入思维陷阱，反复绞杀于同一条特定的神经通路上——这在认知心理学中被称为“隧道视野（Tunnel Vision）”或认知过载状态。爱迪生与爱因斯坦拉响小提琴的举动，恰是一套即时切断过载神经回路、激活其他大脑区域的完美“认知切换（Cognitive Shifting）”工具。演奏乐器的行为能同时刺激视觉、听觉与触觉运动皮层，极其强烈地拉动连接左右半脑的脑梁（Corpus Callosum）。从执念的问题中在物理与精神层面抽身退后、将注意力全然交付给音乐的当下，大脑便会滑入预设模式网络（Default Mode Network），在潜意识层面对散落的信息进行跨界重组，从而诱发破解困局的“顿悟时刻（Aha! Moment）”。
 
 ---
 
-## 懂得放手，方能洞见全新灵感
-
-爱因斯坦不仅是一位杰出的物理学家，更是一位优秀的小提琴演奏者。对他而言，音乐绝非与物理研究毫无干系的的闲暇嗜好，而是防止大脑耗竭、唤醒创造力灵感的最强润滑剂。当思绪卡壳时，切勿死磕硬拽，不妨像爱因斯坦那样彻底切换感官刺激对象，给大脑一次深度重置的机会。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 懂得放手，方能洞见全新灵感
+
+爱因斯坦不仅是一位杰出的物理学家，更是一位优秀的小提琴演奏者。对他而言，音乐绝非与物理研究毫无干系的的闲暇嗜好，而是防止大脑耗竭、唤醒创造力灵感的最强润滑剂。当思绪卡壳时，切勿死磕硬拽，不妨像爱因斯坦那样彻底切换感官刺激对象，给大脑一次深度重置的机会。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>除了拉小提琴，爱因斯坦还会通过其他方式重置大脑吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的。爱因斯坦在科研之余会定期驾驶帆船出海，在微风拂面中冥想；此外，他每天坚持保障10小时以上的充足睡眠，以便潜意识能充分梳理并解决棘手问题。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>完全不会演奏任何乐器的人也能复刻这套习惯吗？</span>

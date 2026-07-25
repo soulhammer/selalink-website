@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Genius yang Tidur Siang Memegang Bola Baja: Teknik Tidur Siang Hipnagogia Thomas Edison & Rutinitas Kreativitas Setengah Tidur"
 description: "Temukan rutinitas tidur siang bola baja legendaris Thomas Edison untuk mengatasi hambatan kreatif. Pelajari neurosains kognitif tentang hipnagogia (tahap tidur N1) dan penangkapan ide secara instan."
 pubDate: "2026-04-02"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai edison-nap didasarkan pada <strong>Verifikasi Historis dari Biografi Paul Israel *Edison: A Life of Invention*, Arsip Taman Nasional Bersejarah Thomas Edison & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Paul Israel *Edison: A Life of Invention*, Arsip Taman Nasional Bersejarah Thomas Edison & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Membuka Wawasan Eureka Melalui Hipnagogia dan Teknik Jatuhnya Bola Baja
+## 1. Membuka Wawasan Eureka Melalui Hipnagogia dan Teknik Jatuhnya Bola Baja
 
 Memasuki kondisi hipnagogia (tahap tidur N1) menyebabkan gelombang otak beralih ke gelombang teta (Theta Waves). Ini melonggarkan kontrol eksekutif dari korteks prefrontal, memungkinkan fragmen memori dan konsep abstrak berpadu secara bebas. Teknik jatuhnya bola baja bertindak sebagai sakelar neurologis yang tepat: menghentikan otak tepat sebelum memasuki tidur N2 yang lebih dalam dan mengalami inersia tidur, memungkinkan Edison menangkap ide-ide eureka dengan cepat.
 
 ---
 
-## Perhatian & Protokol: Transisi Instan ke Transkripsi Setelah Terbangun
-
-Anda harus melatih urutan perilaku segera: tuliskan bayangan hipnagogia di buku catatan terdekat pada detik Anda terkejut bangun. Ragu-ragu bahkan selama beberapa detik membuat ide setengah tidur hilang sepenuhnya dari memori kerja.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Anda harus melatih urutan perilaku segera: tuliskan bayangan hipnagogia di buku 
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Protokol: Transisi Instan ke Transkripsi Setelah Terbangun
+
+Anda harus melatih urutan perilaku segera: tuliskan bayangan hipnagogia di buku catatan terdekat pada detik Anda terkejut bangun. Ragu-ragu bahkan selama beberapa detik membuat ide setengah tidur hilang sepenuhnya dari memori kerja.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Thomas Edison tidur siang sambil memegang bola baja di tangannya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Anda harus melatih urutan perilaku segera: tuliskan bayangan hipnagogia di buku 
       Saat ia tertidur, relaksasi otot menyebabkan bola berat jatuh, membangunkan seketika agar ia dapat menangkap ide-ide dari kondisi hipnagogia sebelum tertidur lelap.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ada alternatif untuk teknik tidur siang Edison di lingkungan kantor di mana kebisingan dibatasi?</span>

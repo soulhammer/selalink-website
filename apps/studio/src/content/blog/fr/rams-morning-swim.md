@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Moins, mais mieux ? La routine de natation matinale et d'observation de Dieter Rams"
 description: "La légende du design minimaliste Dieter Rams. Découvrez son habitude d'éveiller son cerveau par la natation matinale et l'entretien du jardin, ainsi que des méthodes de restauration de l'attention pour l'homme moderne."
 pubDate: "2026-05-20"
@@ -35,25 +36,23 @@ L'article d'aujourd'hui examine la science cognitive sous-jacente à la routine 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant rams-morning-swim est basée sur <strong>Étude basée sur la biographie historique et l'autobiographie de Dieter Rams et les recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude basée sur la biographie historique et l'autobiographie de Dieter Rams et les recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La « Théorie de la restauration de l'attention » qui purifie le cortex visuel
+## 1. La « Théorie de la restauration de l'attention » qui purifie le cortex visuel
 
 Dès le réveil, l'homme moderne est exposé à d'immenses stimuli visuels artificiels. Cela épuise l'attention dirigée du cortex préfrontal. La routine de Dieter Rams combinait exercice aérobie et théorie de la restauration de l'attention (ART) par l'observation de la nature.
 
 ---
 
-## Faire le vide visuel artificiel remplit l'esprit d'idées
-
-Un bon design signifie un état essentiel débarrassé du superflu. Dieter Rams taillait des bonsaïs et observait la nature chaque matin pour faire le vide dans son cerveau et libérer de l'espace pour des pensées essentielles. Purifiez votre filtre d'attention grâce à une brève observation matinale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Un bon design signifie un état essentiel débarrassé du superflu. Dieter Rams 
   </p>
 </div>
 
+---
+
+## 3. Faire le vide visuel artificiel remplit l'esprit d'idées
+
+Un bon design signifie un état essentiel débarrassé du superflu. Dieter Rams taillait des bonsaïs et observait la nature chaque matin pour faire le vide dans son cerveau et libérer de l'espace pour des pensées essentielles. Purifiez votre filtre d'attention grâce à une brève observation matinale.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il strictement nécessaire de nager le matin pour que la routine fonctionne ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Un bon design signifie un état essentiel débarrassé du superflu. Dieter Rams 
       Non. La natation était simplement l'exercice aérobie préféré de Dieter Rams. Toute activité aérobie légère stimulant le flux sanguin cérébral — comme le jogging d'intérieur, les étirements ou une marche rapide de 10 minutes — convient parfaitement.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je observer des bâtiments urbains ou un design d'intérieur élégant au lieu d'éléments naturels ?</span>

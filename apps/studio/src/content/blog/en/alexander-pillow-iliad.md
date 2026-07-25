@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Alexander the Great's 'Iliad Under the Pillow': Nighttime Vision Reading That Sustained Immense Challenges"
 description: "Alexander the Great never lost courage on the battlefield, keeping a dagger and the Iliad under his pillow every night. Explore the power of vision reading that stimulates the subconscious."
 pubDate: "2026-01-23"
@@ -38,14 +39,14 @@ In today's post, we introduce the scientific grounds of Alexander's 'Iliad Under
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding alexander-pillow-iliad is based on <strong>Historical Verification from Plutarch's *Life of Alexander* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Plutarch's *Life of Alexander* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Value-Oriented Reading That Induces Subconscious Alignment
+## 1. Value-Oriented Reading That Induces Subconscious Alignment
 
 When the brain begins to fall asleep, brainwaves transition to alpha and theta waves, and information introduced during this time reaches the hippocampus (the long-term memory storehouse) and deep within the cerebral cortex (which forms the subconscious) much more easily than usual.
 
@@ -53,9 +54,7 @@ The Iliad that Alexander the Great read before sleeping was not merely to pass t
 
 ---
 
-## The Text You Read Determines Your Subconscious
-
-Consuming content late at night that stimulates fear, jealousy, or criticism—such as social media or news articles—aligns your subconscious with negative stimuli, disrupting deep sleep and causing you to wake up exhausted in the morning. Intentionally place noble classics or books that elevate your value by your bedside.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Consuming content late at night that stimulates fear, jealousy, or criticism—s
   </p>
 </div>
 
+---
+
+## 3. The Text You Read Determines Your Subconscious
+
+Consuming content late at night that stimulates fear, jealousy, or criticism—such as social media or news articles—aligns your subconscious with negative stimuli, disrupting deep sleep and causing you to wake up exhausted in the morning. Intentionally place noble classics or books that elevate your value by your bedside.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does reading novels or comic books before bed have the same effect as the vision classic reading routine?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Consuming content late at night that stimulates fear, jealousy, or criticism—s
       Light fiction also offers a cooling effect that relieves brain stress, but to achieve a 'value-oriented motivational' effect that aligns self-identity and inspires execution willpower like Alexander's routine, it is far better to choose classic epics, philosophy books, or biographies of great people that provide inner resonance and reflection.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it okay to read books using an e-book reader while lying down?</span>

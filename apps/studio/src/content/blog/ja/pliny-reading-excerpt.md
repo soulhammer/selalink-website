@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "大プリニウスの絶え間ない筆記法：手書きで脳を呼び覚まし記憶を所有する方法"
 description: "ローマの学者・大プリニウスが食事中や移動の瞬間さえ秘書に本を読ませメモを取りながら膨大な知識を大成した筆記の秘訣を共有します。"
 pubDate: "2026-05-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「pliny-reading-excerpt」は <strong>大プリニウスの読書・抜粋記録に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>大プリニウスの読書・抜粋記録に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 単純な読書より抜粋筆記が認知に優れている理由
+## 1. 単純な読書より抜粋筆記が認知に優れている理由
 
 目だけでテキストを読む単純な受容的態度は、脳が情報を短期記憶保管場所から簡単に漏れ出させてしまいます。一方、テキストの中核を要約して直接物理的な手書きで筆記する時、指の繊細な動きは脳幹の網様体賦活系（RAS）を刺激し、脳全体を強力に活性化します。この過程で脳は情報をろ過し再構成しなければならないため、記憶に強力な引き出しの手がかりが植え付けられ、長期記憶へと安定して定着します。
 
 ---
 
-## 賢い抜粋筆記のためのガイド
-
-本全体の文章をひたすら書き写す転写（Transcription）行為は避けるべきです。これは脳を経由しない単純労働に近く、認知的な疲労だけを誘発します。インスピレーションを与えるフレーズや中核キーワードだけを選択的に抽出して手で書いてください。また、抜粋した知識を後で追跡できるよう、本の出所とページ番号を必ず括弧内に併記する習慣をつけることが望ましいです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 賢い抜粋筆記のためのガイド
+
+本全体の文章をひたすら書き写す転写（Transcription）行為は避けるべきです。これは脳を経由しない単純労働に近く、認知的な疲労だけを誘発します。インスピレーションを与えるフレーズや中核キーワードだけを選択的に抽出して手で書いてください。また、抜粋した知識を後で追跡できるよう、本の出所とページ番号を必ず括弧内に併記する習慣をつけることが望ましいです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>タブレットにペンで筆記したりキーボードでタイピングするのも効果は同じですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       タブレットに電子ペンで直接書く筆記は、物理的なペンとかなり類似した効果をもたらします。しかしキーボードでタイピングすることは、認知的な加工をほとんど伴わない自動化された入力動作です。手書きの遅い速度は脳に情報を強制的に要約・消化させることで、記憶の保持率を有意に向上させます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>抜粋したメモが多くなりすぎて紛失しないように整理する方法はありますか？</span>

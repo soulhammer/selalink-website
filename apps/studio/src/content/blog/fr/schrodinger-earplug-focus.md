@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mettre le volume du monde à zéro : La méthode de concentration anti-bruit du Prix Nobel Schrödinger"
 description: "Découvrez l'habitude d'utiliser des bouchons d'oreilles du titan de la physique quantique Erwin Schrödinger. Une méthode en 3 étapes pour optimiser l'efficacité cérébrale."
 pubDate: "2026-04-25"
@@ -33,25 +34,23 @@ Dans cet article, nous explorons les principes scientifiques de la routine de Sc
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant schrodinger-earplug-focus est basée sur <strong>Étude basée sur la biographie historique et les récits autobiographiques de Schrödinger & les Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude basée sur la biographie historique et les récits autobiographiques de Schrödinger & les Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Effet du silence évitant le gaspillage d'énergie du filtrage sensoriel
+## 1. Effet du silence évitant le gaspillage d'énergie du filtrage sensoriel
 
 L'ouïe est l'organe le plus sensible, actif même pendant le sommeil. À chaque bruit ambiant, le cerveau active le filtrage sensoriel pour vérifier la sécurité, consommant l'énergie du cortex préfrontal. Bloquer l'entrée auditive stoppe la consommation inutile d'oxygène et de glucose, réorientant 100 % de l'énergie vers la tâche.
 
 ---
 
-## Prévention des acouphènes & hygiène auriculaire
-
-Porter des bouchons trop profondément ou trop longtemps peut modifier la pression auriculaire ou causer des otites. Limitez les sessions à 50 minutes et retirez les bouchons lors des pauses. Gardez-les propres.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Porter des bouchons trop profondément ou trop longtemps peut modifier la pressi
     Réglez un minuteur pour 50 minutes d'étude dans le silence. Quand il sonne, retirez les bouchons, laissez sécher vos oreilles et faites 10 minutes de pause.
   </p>
 </div>
+
+---
+
+## 3. Prévention des acouphènes & hygiène auriculaire
+
+Porter des bouchons trop profondément ou trop longtemps peut modifier la pression auriculaire ou causer des otites. Limitez les sessions à 50 minutes et retirez les bouchons lors des pauses. Gardez-les propres.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎日2時間の散歩がもたらす霊感：チャイコフスキーの創造的歩行習慣"
 description: "ロシアの偉大な作曲家ピョートル・チャイコフスキーは、音楽的アイデアを思い浮かべるために毎日正確に2時間歩きました。持続的な歩行とデフォルト・モード・ネットワーク（DMN）の脳科学的原理を扱います。"
 pubDate: "2026-06-01"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「tchaikovsky-two-hour-walk」は <strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) および認知神経科学研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) および認知神経科学研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 毎日正確に2時間の規律ある散歩がもたらす脳波リズムの安定
+## 1. 毎日正確に2時間の規律ある散歩がもたらす脳波リズムの安定
 
 毎日決まった時間に正確に2時間、外の空気を吸いながら歩くチャイコフスキーの原則的な散歩習慣は、脳の視空間皮質と海馬の血流量を高め、大曲交響曲の美しい旋律を頭の中で孵化させる動力となりました。持続的な歩行は大脳のデフォルト・モード・ネットワーク（DMN）を活性化し、無意識の中に眠っていた記憶と感情の旋律の結合を促進します。
 
 ---
 
-## 散歩の規律時間を遵守することの重要性
-
-チャイコフスキーが散歩時間を厳格に守ったように、インスピレーションを得るための歩行時間中は、スマートフォンや業務の通知などの外部の妨害要因を完全に遮断する必要があります。決められた歩行ルーティンを完全にやり遂げ、脳が情緒的な平穏と創造的没頭状態に到達できるように環境を整えてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     途中で諦めずに2時間の歩行ルーティンを完全にやり遂げ、脳の血流量を高めて神経系を弛緩させた後、すぐに書斎や作業台に戻って構想した内容を整理します。
   </p>
 </div>
+
+---
+
+## 3. 散歩の規律時間を遵守することの重要性
+
+チャイコフスキーが散歩時間を厳格に守ったように、インスピレーションを得るための歩行時間中は、スマートフォンや業務の通知などの外部の妨害要因を完全に遮断する必要があります。決められた歩行ルーティンを完全にやり遂げ、脳が情緒的な平穏と創造的没頭状態に到達できるように環境を整えてください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

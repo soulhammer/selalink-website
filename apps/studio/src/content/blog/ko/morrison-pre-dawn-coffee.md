@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "창의성이 깨어나는 여명의 의식: 토니 모리슨의 새벽 5시 글쓰기 준비 루틴"
 description: "노벨 문학상 수상 작가 토니 모리슨. 매일 새벽 5시 여명을 응시하며 생각을 리셋하고 집필에 돌입한 그녀의 새벽 집중 비법과 인지과학적 가치를 소개합니다."
 pubDate: "2026-02-27"
@@ -18,7 +19,7 @@ steps:
     text: "여명의 의식을 통해 주의력이 평화롭게 정돈되면 즉시 노트나 기획 서류를 열고 30분간 방해 없이 첫 번째 창의적 작업이나 일기 쓰기를 실행합니다."
 faqs:
   - question: "해뜨는 시간이 계절에 따라 다른데 기상 시간을 조정해야 하나요?"
-    answer: "꼭 완벽히 해가 뜨는 순간에 맞출 필요는 없습니다. 계절에 관계없이 해가 뜨기 직전의 어스름하고 고요한 공기가 충만한 시점(통상 오전 5시~6시 사이)이면 충분한 뇌의 인지 리셋 효과를 얻을 수 있습니다."
+    answer: "꼭 완벽히 해가 뜨는 순간에 맞출 필요는 없습니다. 계절에 관계없이 해가 뜨기 직전의 어스름하고 고요한 공기가 충만한 시점(통상 오전 5시 ~ 6시 사이)이면 충분한 뇌의 인지 리셋 효과를 얻을 수 있습니다."
   - question: "아침형 인간이 아니라서 새벽에 일어나면 너무 피곤한데 어떻게 하죠?"
     answer: "처음에는 무리해서 5시 기상을 시도하기보다, 본인의 평균 기상 시간에서 20분만 앞당겨 실행해 봅니다. 일어나서 스마트폰을 바로 보지 않고 창밖을 보며 따뜻한 차를 마시는 5분의 정돈 의식 자체가 핵심입니다."
 ---
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>토니 모리슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 morrison-pre-dawn-coffee 루틴을 다룹니다.
+      본 콘텐츠는 <strong>토니 모리슨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 생체 시계 각성과 망막 광수용체의 자극
+## 1. 생체 시계 각성과 망막 광수용체의 자극
 
 어두운 방에서 눈을 뜨자마자 스마트폰의 강력한 청색광(Blue Light)에 뇌를 노출하면 뇌는 스트레스 신호인 코르티솔을 비정상적으로 급증시켜 불안지수를 높입니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 자연광이 눈에 닿는 동안 어떤 전자기기도 터치하지 마세요
-
-새벽 루틴의 가장 큰 파괴자는 스마트폰 메시지와 뉴스 알림입니다. 눈을 뜨고 여명을 관찰하는 5분 동안은 절대 디지털 기기의 화면을 켜지 않아야 합니다. 차분히 깨어나는 망막과 뇌세포에 시각적 소음을 끼얹지 않고 자연스러운 햇빛의 흐름을 뇌에 입력하십시오.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 자연광이 눈에 닿는 동안 어떤 전자기기도 터치하지 마세요
+
+새벽 루틴의 가장 큰 파괴자는 스마트폰 메시지와 뉴스 알림입니다. 눈을 뜨고 여명을 관찰하는 5분 동안은 절대 디지털 기기의 화면을 켜지 않아야 합니다. 차분히 깨어나는 망막과 뇌세포에 시각적 소음을 끼얹지 않고 자연스러운 햇빛의 흐름을 뇌에 입력하십시오.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>해뜨는 시간이 계절에 따라 다른데 기상 시간을 조정해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       꼭 완벽히 해가 뜨는 순간에 맞출 필요는 없습니다. 계절에 관계없이 해가 뜨기 직전의 어스름하고 고요한 공기가 충만한 시점(통상 오전 5시 ~ 6시 사이)이면 충분한 뇌의 인지 리셋 효과를 얻을 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>아침형 인간이 아니라서 새벽에 일어나면 너무 피곤한데 어떻게 하죠?</span>

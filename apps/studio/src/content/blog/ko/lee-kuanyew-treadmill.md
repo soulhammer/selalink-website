@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "건국의 스트레스를 비우는 땀방울: 리콴유의 운동 후 명상과 자율신경계 항상성 복원"
 description: "싱가포르 건국의 성웅 리콴유 총리. 매일 퇴근 후 30분 트레드밀을 달린 직후 20분 호흡 명상을 통해 결정을 정비하고 뇌를 회복했던 자율신경계 스위칭 원리, 코르티솔 소거 및 3단계 실천 가이드를 알아봅니다."
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>리콴유 자서전 『리콴유 회고록(The Singapore Story)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동생리학(Exercise Physiology) 연구</strong>에 근거하여 lee-kuanyew-treadmill 루틴을 다룹니다.
+      본 콘텐츠는 <strong>리콴유 자서전 『리콴유 회고록(The Singapore Story)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동생리학(Exercise Physiology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 유산소 자극을 통한 코르티솔(Cortisol) 소거와 부교감 신경계(Parasympathetic Nervous System) 전환
+## 1. 유산소 자극을 통한 코르티솔(Cortisol) 소거와 부교감 신경계(Parasympathetic Nervous System) 전환
 
 땀을 흘릴 정도의 고강도 유산소 운동은 뇌 내 노폐물 배출을 촉진하고 인지 피로 물질을 씻어냅니다. 운동 직후 연이어 실시하는 호흡 명상은 고도로 활성화된 <strong>교감 신경계(Sympathetic Nervous System)</strong> 상태를 이완을 관장하는 <strong>부교감 신경계(Parasympathetic Nervous System)</strong> 상태로 급격히 전환합니다. 이 급격한 자율신경계 스위칭 과정은 스트레스 호르몬인 <strong>코르티솔(Cortisol)</strong> 농도를 최단 시간 내에 낮추어 뇌의 <strong>항상성(Homeostasis)</strong>을 최고조로 이끌며, <strong>전전두엽(Prefrontal Cortex)</strong>의 인지 피로를 회복시키고 정서적 평정심을 복원합니다.
 
 ---
 
-## 운동 직후 심장 박동 각성 상태에서 즉시 명상에 안착하는 골든타임 수칙
-
-리콴유식 루틴의 핵심은 운동 후 샤워나 다른 작업으로 넘어가기 전 즉시 조용한 명상에 들어가는 것입니다. 심장 박동이 크게 각성된 직후에 호흡을 가다듬어야 뇌의 자율신경계 전환 기제가 가장 강력하게 작동하여 코르티솔(Cortisol) 농도를 급격히 낮출 수 있습니다. 휴식 시간 간격을 길게 두지 않는 것이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 운동 직후 심장 박동 각성 상태에서 즉시 명상에 안착하는 골든타임 수칙
+
+리콴유식 루틴의 핵심은 운동 후 샤워나 다른 작업으로 넘어가기 전 즉시 조용한 명상에 들어가는 것입니다. 심장 박동이 크게 각성된 직후에 호흡을 가다듬어야 뇌의 자율신경계 전환 기제가 가장 강력하게 작동하여 코르티솔(Cortisol) 농도를 급격히 낮출 수 있습니다. 휴식 시간 간격을 길게 두지 않는 것이 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>샤워를 한 후에 깨끗한 상태에서 명상을 하면 안 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       안 됩니다. 뇌의 자율신경계 교정 시너지를 얻기 위한 생리학적 골든타임은 '심장 박동이 최고조에 달한 직후'입니다. 샤워를 하는 동안 심장 박동이 이미 정상 수준으로 돌아가 버리면 교감 신경에서 부교감 신경으로의 급격한 전환에 따른 코르티솔 소거 및 항상성 회복 효과가 크게 감소합니다. 반드시 땀을 흘린 직후 앉아야 합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>명상 중에 계속 잡념이 떠오르면 실패한 것인가요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毒舌哲学家为何每天早晨吹笛子冷却大脑？叔本华的认知重置法"
 description: "德国伟大的厌世主义哲学家阿图尔·叔本华。介绍他每天早晨冷水擦洗后沉浸于30分钟笛子演奏与呼吸控制以诱导Alpha波的生理学习惯与重置技巧。"
 pubDate: "2026-02-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 schopenhauer-flute-refocus 的内容基于 <strong>叔本华历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>叔本华历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 三叉神经刺激与腹式呼吸对Alpha波的调节效应
+## 1. 三叉神经刺激与腹式呼吸对Alpha波的调节效应
 
 当冷水接触面部时激活的三叉神经与迷走神经刺激会诱发潜水反射（Diving Reflex）。这能暂时降低心率并调节大脑氧气消耗，平息交感神经的过度兴奋。随后吹奏笛子所需的精细手指按键运动与长而深沉的呼气控制，可将脑波调整至最稳定且认知效率极高的Alpha波（Alpha Waves）状态。
 
 ---
 
-## 面部刺激注意事项与呼吸控制技巧
-
-为了醒脑而长时间将面部浸泡在冷水中可能会刺激皮肤或引起血压剧烈波动。将冷水泼脸控制在15 ~ 30秒即可。在吹奏乐器或练习呼吸时，保持1:1的吸气与呼气比例以防止头晕。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 面部刺激注意事项与呼吸控制技巧
+
+为了醒脑而长时间将面部浸泡在冷水中可能会刺激皮肤或引起血压剧烈波动。将冷水泼脸控制在15 ~ 30秒即可。在吹奏乐器或练习呼吸时，保持1:1的吸气与呼气比例以防止头晕。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>不会弹奏任何乐器的初学者也能获得效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       当然可以。并不要求完成精妙的演奏。可以用播放古典乐替代亲自演奏，同时有意识地控制5秒吸气与5秒呼气的呼吸节奏，同样能取得Alpha波神经重置效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>为什么冷水洗脸能刺激迷走神经并唤醒大脑？</span>

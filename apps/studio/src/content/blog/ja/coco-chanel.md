@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "煩わしいコルセットと装飾を果敢に削ぎ落としたシャネルの本質ミニマリズム裁断法と前頭葉抑制フィルタリング"
 description: "女性ファッションの革命を成し遂げた伝説的デザイナーのココ・シャネル。スケッチの代わりに生きているモデルの体に生地を当て、ハサミで不要な装飾を削ぎ落としたリアルタイム・ミニマリズム裁断ルーティンと、大脳前頭葉抑制フィルタリング（Suppression Filtering）の認知神経科学的原理を解き明かします。"
 pubDate: "2026-05-17"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「coco-chanel」は <strong>エドモンド・シャルル＝ルー伝記『Chanel and Her World』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エドモンド・シャルル＝ルー伝記『Chanel and Her World』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 前頭葉抑制フィルタリング（Suppression Filtering）と本質直感抽出の神経学
+## 1. 前頭葉抑制フィルタリング（Suppression Filtering）と本質直感抽出の神経学
 
 不要な過剰情報と視覚的ノイズを削ぎ落とし、ただ核心的本質のみを残す物理的・認知的裁断行為は、大脳前頭前野皮質（Prefrontal Cortex）の「装飾抑制フィルタリング（Suppression Filtering）」回路を強力に稼働させます。外部の散漫で無意味な付加要素を脳が自ら遮断する時、前頭前野のブドウ糖消費が減少し、最も効率的な核心的形態に注意力が固定されます。リアルタイムで3次元空間から引き算する訓練は、ビジネスプロセス、企画文書、あるいは日常の意思決定において不要な余計な変数を一瞬で間引く高度なメタ認知的「直感精製能力」を発達させます。
 
 ---
 
-## 注意事項＆ヒント：無条件の無差別削除の排除と核心的本質価値の保存
-
-シャネル的ミニマリズム裁断法の核心は、無条件に量を減らしたり破壊したりする極端な削除ではありません。本質的な機能と美学を最も輝かせる「核心的骨組み」を残すために認知リソースを投入することこそが本質です。無作為に要素を切り落とすうちに本来の機能やメッセージまで損なわないよう、「この要素を除去しても、このプロジェクトの本来の目的とメッセージが明確に伝わるか？」を常に問いかけながら慎重に精製しなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：無条件の無差別削除の排除と核心的本質価値の保存
+
+シャネル的ミニマリズム裁断法の核心は、無条件に量を減らしたり破壊したりする極端な削除ではありません。本質的な機能と美学を最も輝かせる「核心的骨組み」を残すために認知リソースを投入することこそが本質です。無作為に要素を切り落とすうちに本来の機能やメッセージまで損なわないよう、「この要素を除去しても、このプロジェクトの本来の目的とメッセージが明確に伝わるか？」を常に問いかけながら慎重に精製しなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>企画書や業務で要素を削ぎ落とす時、核心的価値まで損なわれないか不安ですが、どのように区別しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       ただ一つの最大の目的だけを残して質問してみてください。「この修飾語、表、あるいは段落が抜けても、本文書が顧客に解決する問題の本質が伝わるか？」もし依然として伝わるなら、それは本質を包装するための装飾です。果敢に切り落とす時、かえって伝達力と直感性が極大化されます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>シャネルのミニマリズム裁断法を個人の日常空間や整理整頓にも応用できますか？</span>

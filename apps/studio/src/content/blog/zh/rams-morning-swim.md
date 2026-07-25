@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "少，却更好？迪特·拉姆斯的大早游泳与观察常规"
 description: "极简主义设计传奇迪特·拉姆斯。介绍他在每天早晨游泳后整理花园以唤醒大脑的习惯，以及适合现代人的早晨注意力恢复法。"
 pubDate: "2026-05-20"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rams-morning-swim 的内容基于 <strong>迪特·拉姆斯历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>迪特·拉姆斯历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 净化视觉皮层的“注意力恢复理论”
+## 1. 净化视觉皮层的“注意力恢复理论”
 
 现代人一清早醒来就会大量暴露在手机文本、消息通知、通勤路上复杂的路标等人工视觉刺激中。这会瞬间消耗前额叶皮层的定向注意力（Directed Attention）能力，导致尚未到中午就经历强烈的认知疲劳。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 排空人工视觉刺激才能填满灵感
-
-好的设计意味着剔除所有不必要元素后的本质状态。迪特·拉姆斯每天早晨修剪盆景并观察自然，是为了排空大脑中的人工刺激，创造最本质的思考空间。通过早晨短暂的自然观察，重新洗涤你的注意力过滤器吧。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 排空人工视觉刺激才能填满灵感
+
+好的设计意味着剔除所有不必要元素后的本质状态。迪特·拉姆斯每天早晨修剪盆景并观察自然，是为了排空大脑中的人工刺激，创造最本质的思考空间。通过早晨短暂的自然观察，重新洗涤你的注意力过滤器吧。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>一定要亲自进行晨泳才能起效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       不，并非如此。游泳只是迪特·拉姆斯钟爱的顶级有氧运动。只要是能唤醒大脑血流量的有氧运动，例如室内轻慢跑、拉伸或10分钟左右的快走，任何形式都是可以的。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>可以用观察城市建筑或洗练的室内设计替代自然物吗？</span>

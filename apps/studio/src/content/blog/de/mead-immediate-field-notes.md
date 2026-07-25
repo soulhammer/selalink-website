@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Aufzeichnungen, die Verfälschungen verhindern: Margaret Meads Gewohnheit sofortiger Feldnotizen"
 description: "Die Anthropologin Margaret Mead notierte Beobachtungen sofort, bevor Erinnerungen verblassten. Behandelt die neurologischen Prinzipien des 'Cognitive Offloading' zur Überwindung von Gedächtnisgrenzen."
 pubDate: "2026-03-18"
@@ -33,25 +34,23 @@ Meads Notiz-Mechanismus entspricht dem 'Cognitive Offloading' der modernen Kogni
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu mead-immediate-field-notes basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Margaret Mead & kognitionswissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Margaret Mead & kognitionswissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Grenzen des Arbeitsgedächtnisses und Cognitive Offloading
+## 1. Grenzen des Arbeitsgedächtnisses und Cognitive Offloading
 
 Das Gehirn speichert neue Daten im 'Arbeitsgedächtnis', das nur etwa 7 Einheiten fassen kann. Mit der Zeit vervollständigt das Gehirn Lücken gemäß eigener Vorurteile. 'Cognitive Offloading' wie bei Mead (sofortiges Aufschreiben auf Papier) verhindert diese subjektive Umgestaltung.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Ein häufiger Fehler bei sofortigen Notizen ist der Versuch, perfekte Sätze zu verfassen. Die Sorge um Grammatik zwingt das Gehirn zum Filtern und Verfälschen der Rohdaten. Notieren Sie schnell Stichworte und Fakten; das Ausformulieren gehört in eine spätere Phase.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Ein häufiger Fehler bei sofortigen Notizen ist der Versuch, perfekte Sätze zu 
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Ein häufiger Fehler bei sofortigen Notizen ist der Versuch, perfekte Sätze zu verfassen. Die Sorge um Grammatik zwingt das Gehirn zum Filtern und Verfälschen der Rohdaten. Notieren Sie schnell Stichworte und Fakten; das Ausformulieren gehört in eine spätere Phase.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist es in Ordnung, eine Notiz-App auf dem Smartphone statt eines Notizbuchs zu nutzen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Ein häufiger Fehler bei sofortigen Notizen ist der Versuch, perfekte Sätze zu 
       Ja, das ist möglich. Nutzen Sie jedoch den 'Nicht stören'-Modus oder ein Widget auf dem Startbildschirm, um Ablenkungen durch Nachrichten zu vermeiden und Verzögerungen zu minimieren.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie wäre es, ein Diktiergerät mitlaufen zu lassen und später alles gesammelt aufzuschreiben?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cara Jinakkan Sang Muse: Rutinitas Penulisan 2.000 Kata Harian dan Pengondisian Fokus Stephen King"
 description: "Pelajari rutinitas penulisan legendaris dari Stephen King, salah satu penulis paling sukses di dunia. Temukan neurosains dari pembelajaran sensorimotor, pemicu pengondisian klasik, dan panduan 3 langkah untuk mempertahankan produktivitas harian."
 pubDate: "2026-05-18"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai king-writing-routine didasarkan pada <strong>Verifikasi Historis dari Memoar Stephen King *On Writing: A Memoir of the Craft* (2000), Arsip King & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Memoar Stephen King *On Writing: A Memoir of the Craft* (2000), Arsip King & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pembelajaran Sensorimotor dan Pengondisian Klasik untuk Flow Mendalam Otomatis
+## 1. Pembelajaran Sensorimotor dan Pengondisian Klasik untuk Flow Mendalam Otomatis
 
 Secara berulang memasangkan pemicu sensorik tertentu (pendengaran, rasa, spasial) dengan output perilaku target membentuk <strong>Pembelajaran Sensorimotor</strong> dan sirkuit pengondisian klasik di dalam otak. Ketika Stephen King memicu pemicu sensorik—meminum vitamin, menuangkan teh, dan memutar musik—pada jam 8:00 pagi di meja yang sama, sistem sarafnya menganggap masukan ini sebagai stimulus bersyarat untuk memulai fokus mendalam. Jalur otomatis ini meminimalkan pengeluaran kekuatan kehendak <strong>Korteks Prefrontal</strong>.
 
 ---
 
-## Perhatian: Memicu Fokus Secara Sengaja Melalui Pengondisian Lingkungan alih-alih Menunggu Inspirasi
-
-Inspirasi bukanlah sesuatu yang ditunggu secara pasif; ini adalah kondisi neurologis yang dipanggil secara sengaja melalui pemicu sensorik tetap pada waktu dan tempat khusus. Daripada mengandalkan kekuatan kehendak subjektif yang tidak dapat diandalkan, rancang pemicu sensorik awal sehingga otak Anda beralih ke mode fokus secara otomatis saat Anda duduk.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Inspirasi bukanlah sesuatu yang ditunggu secara pasif; ini adalah kondisi neurol
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Memicu Fokus Secara Sengaja Melalui Pengondisian Lingkungan alih-alih Menunggu Inspirasi
+
+Inspirasi bukanlah sesuatu yang ditunggu secara pasif; ini adalah kondisi neurologis yang dipanggil secara sengaja melalui pemicu sensorik tetap pada waktu dan tempat khusus. Daripada mengandalkan kekuatan kehendak subjektif yang tidak dapat diandalkan, rancang pemicu sensorik awal sehingga otak Anda beralih ke mode fokus secara otomatis saat Anda duduk.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Stephen King menetapkan kuota minimum harian khusus sebesar 2.000 kata?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Inspirasi bukanlah sesuatu yang ditunggu secara pasif; ini adalah kondisi neurol
       Mengandalkan suasana hati atau inspirasi subjektif menciptakan output yang tidak menentu dan tidak dapat diprediksi. Mematok output minimum yang ketat memaksa jaringan kontrol eksekutif otak beroperasi secara konsisten.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Haruskah saya mereplikasi pemicu persis Stephen King, seperti musik hard rock atau vitamin?</span>

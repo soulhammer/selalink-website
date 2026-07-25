@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Secret to Creative Governance? King Sejong the Great's Intense Dawn Reading Routine"
 description: "King Sejong the Great created Hangeul and elevated Joseon culture. Discover his morning cognitive activation routine of waking at 3 AM despite chronic illness to warm up his intellect with classical literature."
 pubDate: "2026-04-27"
@@ -38,14 +39,14 @@ Here we explore the brain science behind King Sejong's 'Dawn Reading' routine an
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding sejong-dawn-reading is based on <strong>Historical verification from the Annals of King Sejong (Joseon Dynasty Annals), biographies & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical verification from the Annals of King Sejong (Joseon Dynasty Annals), biographies & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Effects of Cognitive Warm-Up Awakening the Brain Right After Waking
+## 1. Effects of Cognitive Warm-Up Awakening the Brain Right After Waking
 
 Right after waking up, the brain is free from ambient digital clutter or sensory noise, creating an optimal state for pure deep focus.
 
@@ -53,9 +54,7 @@ Neuroscientifically, reading dense classical texts early in the morning acts as 
 
 ---
 
-## Choose Paper and Warm Lighting Over Screen Blue Light
-
-The key to dawn reading is preserving the quiet, focused state your brain possesses upon waking. Checking your smartphone immediately bombards your prefrontal cortex with blue light and reactive notifications, inducing instant cognitive fatigue. As King Sejong savored paper texts under warm lamplight, keep digital screens away and use physical books to convert early calm into cognitive wealth.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ The key to dawn reading is preserving the quiet, focused state your brain posses
   </p>
 </div>
 
+---
+
+## 3. Choose Paper and Warm Lighting Over Screen Blue Light
+
+The key to dawn reading is preserving the quiet, focused state your brain possesses upon waking. Checking your smartphone immediately bombards your prefrontal cortex with blue light and reactive notifications, inducing instant cognitive fatigue. As King Sejong savored paper texts under warm lamplight, keep digital screens away and use physical books to convert early calm into cognitive wealth.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>I'm not a morning person; do I really have to wake up at 3 or 4 AM?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ The key to dawn reading is preserving the quiet, focused state your brain posses
       No. The core lesson of King Sejong is securing uninterrupted cognitive focus right after waking. Simply waking up 30 minutes earlier than your usual routine and reading quietly without smartphone distractions yields the exact same benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it okay to read web novels or social media articles instead?</span>

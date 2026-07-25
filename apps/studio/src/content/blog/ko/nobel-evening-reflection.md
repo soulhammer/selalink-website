@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "355개 특허 발명가의 정리법? 알프레드 노벨의 저녁 일지 복기 루틴"
 description: "노벨상 창설자 알프레드 노벨. 낮 동안의 실험을 밤마다 다국어 일지로 복기하며 355개 특허를 만들어낸 그의 저녁 메타인지 루틴과 실천법."
 pubDate: "2026-04-15"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>알프레드 노벨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 nobel-evening-reflection 루틴을 다룹니다.
+      본 콘텐츠는 <strong>알프레드 노벨 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 해마의 장기 기억 재압축과 메타인지 회로 자극
+## 1. 해마의 장기 기억 재압축과 메타인지 회로 자극
 
 낮 동안 수집된 단기 정보는 정리되지 않으면 수면 중 소실되기 쉽습니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 감정적 반성이 아닌 팩트와 개선점 중심 복기
-
-하루 동안의 실패나 오답에 자책감을 가질 필요가 없습니다. 노벨의 발명 일지처럼 어떤 시도가 있었고 무엇을 고치면 될지 냉정한 데이터로 다루세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 감정적 반성이 아닌 팩트와 개선점 중심 복기
+
+하루 동안의 실패나 오답에 자책감을 가질 필요가 없습니다. 노벨의 발명 일지처럼 어떤 시도가 있었고 무엇을 고치면 될지 냉정한 데이터로 다루세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>반드시 5개 국어나 외국어로 써야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       아닙니다. 모국어로 작성하되 '자신의 언어로 표현을 다듬는 행위' 자체가 핵심입니다. 여유가 있다면 익히고 있는 외국어로 1줄 적어보는 것도 뇌 자극에 좋습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>매일 일지를 쓰다가 지치면 어떻게 해야 하나요?</span>

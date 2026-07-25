@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Scissor Work That Heals Depression? Andersen's Paper-Cutting Routine"
 description: "World-renowned fairy tale author Hans Christian Andersen. Discover the psychiatric healing principles and 3-step guide to 'Paper Cutting'—the secret behind blossoming beautiful imagination despite a lifetime of depression and emotional deprivation."
 pubDate: "2026-05-07"
@@ -38,22 +39,20 @@ In today's post, we introduce the psychiatric healing benefits of Andersen's 'Pa
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding andersen-paper-cutting is based on <strong>Historical Verification from the Paper Archives of the Hans Christian Andersen Museum in Odense, Denmark & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from the Paper Archives of the Hans Christian Andersen Museum in Odense, Denmark & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stabilization of the Default Mode Network (DMN) via Delicate Manual Work
+## 1. Stabilization of the Default Mode Network (DMN) via Delicate Manual Work
 
 The <strong>'Default Mode Network (DMN)'</strong>, which operates when the brain rests without performing a specific task, amplifies unnecessary overthinking such as past regrets and future anxieties in modern individuals. According to occupational therapy and neuroscience research, <strong>'delicate manual work'</strong> like scissor-cutting or drawing, which delicately controls the fingertips, broadly warms up the brain's motor cortex while immediately deactivating the hyperactive, overloaded DMN. The simple, symmetrical tactile stimulation of folding and cutting paper right before your eyes stops overthinking and provides deep cognitive rest to the brain.
 
 ---
 
-## Focus on the Trajectory of Your Fingertips and the Cutting Sound, Not Perfect Design
-
-To enjoy the brain-resting effects of the scissor-cutting routine, you must let go of the obsession to create a wonderful output. If you start mentally designing a pattern thinking 'I must complete a pretty pattern', the planning and control areas of the prefrontal cortex overheat, making it difficult to achieve the DMN deactivation effect. Just as Andersen closed his eyes and cut as his hands moved, entirely entrusting your attention solely to the crisp friction sound of the scissors cutting paper and the analog vibration at your fingertips is the first step toward relaxation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ To enjoy the brain-resting effects of the scissor-cutting routine, you must let 
   </p>
 </div>
 
+---
+
+## 3. Focus on the Trajectory of Your Fingertips and the Cutting Sound, Not Perfect Design
+
+To enjoy the brain-resting effects of the scissor-cutting routine, you must let go of the obsession to create a wonderful output. If you start mentally designing a pattern thinking 'I must complete a pretty pattern', the planning and control areas of the prefrontal cortex overheat, making it difficult to achieve the DMN deactivation effect. Just as Andersen closed his eyes and cut as his hands moved, entirely entrusting your attention solely to the crisp friction sound of the scissors cutting paper and the analog vibration at your fingertips is the first step toward relaxation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it okay if I lack artistic sense and am not good at cutting?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ To enjoy the brain-resting effects of the scissor-cutting routine, you must let 
       Of course. In fact, cutting randomly without a design is more effective in reducing DMN activity. The brain does not care at all whether the completed pattern looks strange or crooked. What matters is not the precision of the shape, but the delicate movement of fingertip muscles and the auditory stimulation itself. Since this is a fail-safe, value-free creative activity, enjoy cutting comfortably.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does generating paper scraps after cutting disrupt the relaxation during cleanup?</span>

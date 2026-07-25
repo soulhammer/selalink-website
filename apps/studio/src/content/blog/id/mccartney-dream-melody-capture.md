@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Karya Agung yang Diselamatkan dari Sisa Mimpi: Kebiasaan Paul McCartney Merekam Alam Bawah Sadar Secara Seketika"
 description: "Paul McCartney menyelamatkan lagu klasik The Beatles 'Yesterday' dari ingatan mimpi saat bangun tidur. Bagikan rahasia menangkap kreativitas memanfaatkan otak moda difus saat kondisi hipnagogia."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ Otak manusia mengalami kondisi yang sangat kreatif tepat saat bangun tidur di pe
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai mccartney-dream-melody-capture didasarkan pada <strong>Riset Biografi Historis & Catatan Autobiografi Paul McCartney & Studi Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis & Catatan Autobiografi Paul McCartney & Studi Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hipnagogia dan Moda Difus Otak
+## 1. Hipnagogia dan Moda Difus Otak
 
 Selama beberapa menit setelah bangun tidur, manusia berada dalam kondisi 'hipnagogia', di mana korteks prefrontal dorsolateral (DLPFC) belum sepenuhnya aktif. Otak memasuki moda difus, membebaskan sensor diri dan memungkinkan ingatan bawah sadar berbaur secara bebas. Namun, begitu terbangun sepenuhnya, otak beralih ke moda terfokus dan memformat ingatan jangka pendek. Mencatatnya dalam 30 detik pertama mencegah hilangnya inspirasi.
 
 ---
 
-## Peringatan dan Tips
-
-Kesalahan paling krusial saat menjalankan kebiasaan ini adalah langsung memeriksa media sosial atau membaca email berita di ponsel saat bangun tidur. Ketika informasi ekternal yang terstruktur mendominasi korteks visual dan ingatan kerja, otak seketika beralih ke moda ketegangan kognitif dan menghapus ingatan mimpi. Simpanlah hanya pulpen dan buku catatan analog di dekat tempat tidur dan hindari media eksternal minimal selama 3 menit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Kesalahan paling krusial saat menjalankan kebiasaan ini adalah langsung memeriks
     Saat mencatat, hilangkan penilaian seperti 'Apakah ini masuk akal?' atau 'Apakah ini aneh?'. Berfokuslah hanya untuk mencurahkan data mentah alam bawah sadar ke atas kertas; simpan analisis dan penyempurnaan untuk sore hari.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Kesalahan paling krusial saat menjalankan kebiasaan ini adalah langsung memeriksa media sosial atau membaca email berita di ponsel saat bangun tidur. Ketika informasi ekternal yang terstruktur mendominasi korteks visual dan ingatan kerja, otak seketika beralih ke moda ketegangan kognitif dan menghapus ingatan mimpi. Simpanlah hanya pulpen dan buku catatan analog di dekat tempat tidur dan hindari media eksternal minimal selama 3 menit.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

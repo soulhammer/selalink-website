@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "漫步山径高声吟咏的诗人：威廉·华兹华斯的步行构思法"
 description: "浪漫主义诗人威廉·华兹华斯在大自然中漫步，将语句的呼吸与步伐节奏相调和，以此创作诗篇。探讨节律运动与小脑激活唤醒语言感官的科学原理。"
 pubDate: "2026-02-06"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 wordsworth-outdoor-recitation 的内容基于 <strong>威廉·华兹华斯历史传记与自传文献考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>威廉·华兹华斯历史传记与自传文献考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 节奏步行与发音听觉回路（Phonological Loop）的协同效应
+## 1. 节奏步行与发音听觉回路（Phonological Loop）的协同效应
 
 步行时脚掌接触地面产生的节律性运动信号，能够强烈激活负责运动回路与节律控制的<strong>小脑（Cerebellum）</strong>。小脑的运动节律信号与大脑皮层的语言联想区域实时同步，物理性地调谐语句的韵律（Prosody）与抑扬顿挫。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 出声朗读的力量
-
-仅凭目测书写的习惯让人难以感知文字读起来的音韵节奏，容易使文章变得枯燥僵硬。在撰写演讲稿、提案或面试答卷时，建议在安静的地方踱步并大声吟咏修饰，从而最大化文章的感染力与表达效果。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 出声朗读的力量
+
+仅凭目测书写的习惯让人难以感知文字读起来的音韵节奏，容易使文章变得枯燥僵硬。在撰写演讲稿、提案或面试答卷时，建议在安静的地方踱步并大声吟咏修饰，从而最大化文章的感染力与表达效果。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>华兹华斯的妹妹多萝西是如何记录他的步行构思法的？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       她在日记中生动地写道：“威廉今天早晨在花园小径上来回走了数百趟，口中不停吟咏诗句”，并详细记录了他的步行速度与朗诵声调的节奏呈现出精准的同步变化。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在室内的跑步机上漫步并出声吟咏也有同样的效果吗？</span>

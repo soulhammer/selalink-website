@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'âme derrière le maquillage : L'habitude de lecture et de réflexion nocturne de Marilyn Monroe"
 description: "Derrière son image publique de sex-symbol, Marilyn Monroe était une passionnée de lecture possédant une bibliothèque de plus de 400 livres. Découvrez comment sa lecture nocturne et son journal ont réduit les hormones de stress et préservé son identité."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant monroe-night-reading est basée sur <strong>Biographies historiques et récits autobiographiques de Marilyn Monroe et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Marilyn Monroe et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaxation du système nerveux autonome et consolidation de la mémoire hippocampique par la lecture littéraire
+## 1. Relaxation du système nerveux autonome et consolidation de la mémoire hippocampique par la lecture littéraire
 
 Lorsque le cerveau est exposé à une évaluation externe prolongée et au stress de la surexposition, l'hyperactivation du système nerveux sympathique entraîne une fatigue chronique et des troubles du sommeil. Selon des études cognitives britanniques, la lecture silencieuse d'œuvres littéraires pendant seulement 6 minutes détend les tensions musculaires et ralentit le rythme cardiaque, réduisant le niveau de stress jusqu'à 68 %. En s'immergeant dans des récits classiques, le cerveau se détache de son propre ego et atteint un état réparateur grâce à l'empathie narrative. De plus, la tenue d'un journal après la lecture incite l'hippocampe à consolider paisiblement les souvenirs anxieux, optimisant le nettoyage cérébral nocturne.
 
 ---
 
-## Précautions et conseils pratiques
-
-Le comportement le plus important à éviter lors de la lecture réflexive nocturne est de lire sous une lumière fluorescente vive ou de regarder des écrans de smartphones. La lumière bleue artificielle vive bloque la sécrétion de mélatonine, l'hormone favorisant le sommeil, ce qui aggrave l'insomnie. Par conséquent, pour la lecture nocturne, utilisez uniquement une lampe indirecte à lumière jaune chaude afin d'assurer un contrôle environnemental permettant à votre cerveau de glisser en toute sécurité vers le sommeil.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le comportement le plus important à éviter lors de la lecture réflexive noctu
   </p>
 </div>
 
+---
+
+## 3. Précautions et conseils pratiques
+
+Le comportement le plus important à éviter lors de la lecture réflexive nocturne est de lire sous une lumière fluorescente vive ou de regarder des écrans de smartphones. La lumière bleue artificielle vive bloque la sécrétion de mélatonine, l'hormone favorisant le sommeil, ce qui aggrave l'insomnie. Par conséquent, pour la lecture nocturne, utilisez uniquement une lampe indirecte à lumière jaune chaude afin d'assurer un contrôle environnemental permettant à votre cerveau de glisser en toute sécurité vers le sommeil.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>La lecture avant de dormir stimule-t-elle le cerveau et perturbe-t-elle le sommeil ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le comportement le plus important à éviter lors de la lecture réflexive noctu
       Lire des livres papier au lieu de smartphones émetteurs de lumière bleue — en particulier des ouvrages de sciences humaines, des recueils de poésie ou des essais calmes sous une lumière indirecte douce — induit des ondes alpha cérébrales qui favorisent un sommeil profond.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment puis-je noter mes passages préférés lors de la lecture nocturne sans perturber le sommeil ?</span>

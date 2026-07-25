@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "光の幾何学を感知する：ポール・セザンヌの朝の自然光観察とSCN覚醒ルーティン"
 description: "毎日午前6時にサント・ヴィクトワール山に向かって歩き、光と構図の変化を鋭く感知した現代美術の父ポール・セザンヌ。朝の屋外自然光への露出が視交叉上核（SCN）を刺激し、視覚皮質の認知感度を引き上げる神経科学的原理を解き明かします。"
 pubDate: "2026-04-06"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「cezanne-dawn-mountain-observation」は <strong>アレックス・ダンチェフ伝記『Cézanne: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アレックス・ダンチェフ伝記『Cézanne: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 朝の自然光露出と視交叉上核（SCN）覚醒および視覚皮質の認知神経学
+## 1. 朝の自然光露出と視交叉上核（SCN）覚醒および視覚皮質の認知神経学
 
 朝6時から8時の間に放出される自然光は青色波長帯域（Blue-light spectrum、460〜480nm）が豊富で、網膜の光受容体細胞（ipRGCs）を強力に刺激します。この信号は視床下部の体内時計中枢である「視交叉上核（SCN、Suprachiasmatic Nucleus）」へと直通伝達され、睡眠ホルモンであるメラトニンの分泌を完全抑制し、覚醒ホルモンであるコルチゾールの分泌を正常化します。さらにセザンヌのように自然物の幾何学的パターニング、光と影の明度対比を執拗に凝視する観察行為は、視覚皮質（Visual Cortex）のV1、V4領域のニューロンを精緻に活性化させます。この視覚的覚醒状態は認知疲労を洗浄し、対象を感覚する認知感度（Perceptual Sensitivity）を極大化して創造的なアイデアの連想を促進します。
 
 ---
 
-## 注意事項＆ヒント：裸眼自然光流入の維持と人工スクリーンの遮断
-
-朝の観察習慣を行う際、必ず避けなければならないのはサングラスを着用したり、スマートフォンの画面を見ながら歩くことです。サングラスのレンズは網膜のipRGCsへと流入する特定波長の青色光を遮断し、視交叉上核（SCN）の体内リズムリセット作用を阻害します。また歩行中スマートフォンの人工的な光と表面的なテキストに視線を奪われると、視覚皮質が狭い領域に閉じ込められる認知トンネリング（Cognitive Tunneling）現象が発生し、弛緩覚醒効果が完全に消失します。朝の観察時には裸眼で視野を広く開き、自然の光を直接受容しなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：裸眼自然光流入の維持と人工スクリーンの遮断
+
+朝の観察習慣を行う際、必ず避けなければならないのはサングラスを着用したり、スマートフォンの画面を見ながら歩くことです。サングラスのレンズは網膜のipRGCsへと流入する特定波長の青色光を遮断し、視交叉上核（SCN）の体内リズムリセット作用を阻害します。また歩行中スマートフォンの人工的な光と表面的なテキストに視線を奪われると、視覚皮質が狭い領域に閉じ込められる認知トンネリング（Cognitive Tunneling）現象が発生し、弛緩覚醒効果が完全に消失します。朝の観察時には裸眼で視野を広く開き、自然の光を直接受容しなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>微小粒子状物質（PM2.5）が酷かったり雨が降って曇った日でも屋外に出て観察すべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       曇りの日でも屋外の光量は平均1,000〜2,000ルクス（lux）以上で、一般的な室内照明（300〜500ルクス）よりはるかに明るいです。したがって、曇りの日でも外を歩くだけでメラトニン遮断と覚醒効果を十分に得ることができます。ただし、大気の状態が極端に悪い時は、屋外散歩の代わりにベランダや大きな窓のすぐ前に立って外を凝視する窓辺観察で代替してください。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>画家ではない一般の会社員や知的労働者も、セザンヌの視覚観察ルーティンの効果を得ることができますか？</span>

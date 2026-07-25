@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在彩排室角落采集他人语言的莎士比亚倾听惯例"
 description: "世界文学史上最伟大的剧作家威廉·莎士比亚。他在剧场彩排室角落采集成人们的对话与抑扬顿挫，并通过朗读台词最大化刺激镜像神经元的元情感回路。"
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 shakespeare 的内容基于 <strong>莎士比亚历史评传考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>莎士比亚历史评传考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 驱动成功的脑科学原理分析
+## 1. 驱动成功的脑科学原理分析
 
 精密追踪他人的语言节奏与情感状态并将其记录为句子与台词结构的训练，能剧烈刺激大脑皮层的语言联络区与镜像神经元（Mirror Neurons）的协同联动。这种机制能显著提升认知共情、上下文解析以及在谈判与沟通中的协调调控能力。
 
 ---
 
-## 确保习得成功例程的行为科学建议
-
-这不是在搜集情报偷听旁人隐私。核心在于用认知科学的视角去观察日常生活中展现出的人类语言表达与社会反馈的普遍模式。与其单凭意志力，不如预先设计能够自然诱发观察行为的物理环境与习惯触发信号。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 确保习得成功例程的行为科学建议
+
+这不是在搜集情报偷听旁人隐私。核心在于用认知科学的视角去观察日常生活中展现出的人类语言表达与社会反馈的普遍模式。与其单凭意志力，不如预先设计能够自然诱发观察行为的物理环境与习惯触发信号。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在听不清他人对话声音的环境中该如何践行？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       可以利用新闻报道或深度访谈节目视频，分析并记录演讲者常用的副词模式、情绪激动时变快的语速节奏等，这同样是绝佳的语言同频训练。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>这种语言采集训练能否应用于商务谈判或提案撰写？</span>

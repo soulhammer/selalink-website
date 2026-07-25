@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le secret pour prendre d'excellentes décisions ? La routine de simplification décisionnelle de Barack Obama"
 description: "Découvrez la routine de simplification des choix pratiquée par Barack Obama pendant sa présidence. Un guide en 3 étapes pour préserver l'énergie préfrontale et optimiser les décisions."
 pubDate: "2026-01-06"
@@ -33,17 +34,17 @@ Dans cet article, nous décryptons la science cognitive derrière la routine d'O
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant obama-decision-simplification est basée sur <strong>Biographies historiques et écrits autobiographiques de Barack Obama & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et écrits autobiographiques de Barack Obama & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Fatigue décisionnelle et épuisement de l'ego : Limites préfrontales
+## 1. Fatigue décisionnelle et épuisement de l'ego : Limites préfrontales
 
 La recherche démontre que la capacité de décision fonctionne comme une batterie limitée. Des choix anodins le matin consomment de la volonté préfrontale. Ce phénomène s'appelle l'<strong>« Épuisement de l'ego » (Ego Depletion)</strong> ou la <strong>« Fatigue décisionnelle »</strong>.
 
@@ -51,9 +52,7 @@ Quand la fatigue s'accumule, le contrôle cognitif s'effondre. En automatisant s
 
 ---
 
-## Conseil neuroscientifique pour optimiser vos choix
-
-Moins de choix futiles garantit une plus grande concentration. Simplifiez vos dilemmes quotidiens pour préserver votre énergie cérébrale pour l'essentiel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Moins de choix futiles garantit une plus grande concentration. Simplifiez vos di
     Profitez de l'énergie préfrontale économisée. Ne la gâchez pas en répondant à des e-mails anodins ; commencez par la décision la plus complexe.
   </p>
 </div>
+
+---
+
+## 3. Conseil neuroscientifique pour optimiser vos choix
+
+Moins de choix futiles garantit une plus grande concentration. Simplifiez vos dilemmes quotidiens pour préserver votre énergie cérébrale pour l'essentiel.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

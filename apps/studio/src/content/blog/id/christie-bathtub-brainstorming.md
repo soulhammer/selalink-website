@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wanita yang Merencanakan Pembunuhan Sambil Makan Apel di Bak Mandi: Brainstorming Air Hangat dan Relaksasi DMN ala Agatha Christie"
 description: "Pelajari bagaimana Ratu Kejahatan Agatha Christie merancang alibi rumit dan plot pembunuhan sambil makan apel di bak mandi air hangat, serta temukan neurosains kognitif tentang aktivasi Default Mode Network (DMN) dan gerakan mengunyah."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'mandi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai christie-bathtub-brainstorming didasarkan pada <strong>Verifikasi Historis dari Autobiografi Agatha Christie *An Autobiography* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Agatha Christie *An Autobiography* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Default Mode Network (DMN) Melalui Mandi Air Hangat dan Stimulasi Mengunyah
+## 1. Aktivasi Default Mode Network (DMN) Melalui Mandi Air Hangat dan Stimulasi Mengunyah
 
 Merendam tubuh dalam air hangat (38°C–40°C) melebarkan pembuluh darah, meningkatkan aliran darah sistemik, dan mengaktifkan sistem saraf parasimpatis, menurunkan denyut jantung dan ketegangan otot. Dalam kondisi relaksasi fisiologis ini, otak menonaktifkan Central Executive Network (CEN) dan mengaktifkan Default Mode Network (DMN), yang beroperasi selama istirahat. Di bawah aktivasi DMN, otak secara spontan menggabungkan kembali jejak memori yang terpisah, memunculkan solusi kreatif yang baru. Memadukan ini dengan gerakan mengunyah apel yang renyah mengirimkan sinyal sensorik melalui saraf trigeminal ke korteks prefrontal, meredam kadar kortisol.
 
 ---
 
-## Perhatian & Tip: Melepaskan Ketegangan Obsesif & Mendorong Relaksasi Fisik Total
-
-Tujuan dari rutinitas relaksasi ini bukanlah secara paksa memeras jawaban. Jika Anda memegang tekanan obsesif untuk 'menghasilkan ide' saat mandi, sistem saraf simpatis Anda terlibat kembali dan menghentikan pemrosesan DMN. Lepaskan masalah Anda di bawah kesadaran sadar, berfokus sepenuhnya pada kehangatan air dan tekstur renyah buah untuk melepaskan ketegangan eksekutif prefrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tujuan dari rutinitas relaksasi ini bukanlah secara paksa memeras jawaban. Jika 
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Melepaskan Ketegangan Obsesif & Mendorong Relaksasi Fisik Total
+
+Tujuan dari rutinitas relaksasi ini bukanlah secara paksa memeras jawaban. Jika Anda memegang tekanan obsesif untuk 'menghasilkan ide' saat mandi, sistem saraf simpatis Anda terlibat kembali dan menghentikan pemrosesan DMN. Lepaskan masalah Anda di bawah kesadaran sadar, berfokus sepenuhnya pada kehangatan air dan tekstur renyah buah untuk melepaskan ketegangan eksekutif prefrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa brainstorming saat makan apel di bak mandi air hangat bekerja secara sangat efektif?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tujuan dari rutinitas relaksasi ini bukanlah secara paksa memeras jawaban. Jika 
       Perendaman air hangat menurunkan denyut jantung dan merekrut dominasi parasimpatis untuk memicu DMN, sementara gerakan mengunyah apel yang renyah mengirimkan masukan sensorik melalui saraf trigeminal untuk merangsang korteks prefrontal secara halus. Kombinasi ini menyatukan relaksasi fisik yang mendalam dengan kejernihan mental yang terfokus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ada metode relaksasi fisik alternatif untuk melibatkan DMN jika saya tidak memiliki bak mandi?</span>

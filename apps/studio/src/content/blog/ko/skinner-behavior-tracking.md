@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "스스로를 디자인하다: 행동주의 거장 스키너의 시각 피드백 기록 습관"
 description: "행동 심리학의 거장 B. F. 스키너의 데일리 행동 수량화 기록 습관을 소개합니다. 실시간 수치 피드백을 통해 뇌의 행동 기제를 강화하는 3단계 실천 가이드."
 pubDate: "2026-05-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Skinner Behavior Tracking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 skinner-behavior-tracking 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Skinner Behavior Tracking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 도파민 회로를 자극하는 '시각 피드백 효과'
+## 1. 도파민 회로를 자극하는 '시각 피드백 효과'
 
 행동주의 심리학에 따르면, 인간의 뇌는 행동 직후 즉각적인 보상이나 긍정적 반응을 체감할 때 그 행동을 다시 반복하려는 성향이 강력해집니다. 이를 조작적 조건형성의 <strong>'행동 강화(Reinforcement)'</strong>라고 합니다. 내가 몇 단어를 썼고 몇 분 동안 몰입했는지를 수치로 확인하고, 이를 그래프로 확인하는 시각 피드백(Visual Feedback)은 뇌의 보상 예측 시스템에 도파민(Dopamine)을 방출시키는 훌륭한 비물질적 보상입니다. 이 기록 습관은 막연한 의지력이 아닌, 데이터 피드백 루프를 통해 몰입 행동의 발생 빈도를 자발적으로 자극하고 고정시킵니다.
 
 ---
 
-## 측정치 조작과 수단-목적 전도 경계하기
-
-기록 습관을 유지할 때 쉽게 저지르는 실수는, 단순히 기록 그래프의 수치나 작성한 단어 수 자체를 늘리기 위해 글의 퀄리티를 타협하거나 무의미한 타이머 켜두기를 하는 것입니다. 이른바 굿하트의 법칙(Goodhart's Law)처럼 측정치가 목적이 되는 순간 그것은 더 이상 좋은 측정치가 아닙니다. 기록은 생산성의 흐름을 객관적으로 비춰주는 거울이어야 하며, 결코 숫자 자체가 본질인 지식 노동의 최종 목적이 되어서는 안 됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     매일 얻은 생산성 데이터를 선 그래프로 그리고, 눈에 잘 띄는 곳이나 즐겨찾기 폴더에 업데이트하여 스스로의 성과를 감각적으로 모니터링해 동기를 강화합니다.
   </p>
 </div>
+
+---
+
+## 3. 측정치 조작과 수단-목적 전도 경계하기
+
+기록 습관을 유지할 때 쉽게 저지르는 실수는, 단순히 기록 그래프의 수치나 작성한 단어 수 자체를 늘리기 위해 글의 퀄리티를 타협하거나 무의미한 타이머 켜두기를 하는 것입니다. 이른바 굿하트의 법칙(Goodhart's Law)처럼 측정치가 목적이 되는 순간 그것은 더 이상 좋은 측정치가 아닙니다. 기록은 생산성의 흐름을 객관적으로 비춰주는 거울이어야 하며, 결코 숫자 자체가 본질인 지식 노동의 최종 목적이 되어서는 안 됩니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

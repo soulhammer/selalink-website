@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Secret to Absolute Attention: Philosopher Simone Weil's Morning Classical Recitation Routine"
 description: "Discover the morning Greek classical recitation routine practiced by French philosopher Simone Weil to train absolute attention. Learn the cognitive neuroscience behind aloud recitation and prefrontal activation."
 pubDate: "2026-07-11"
@@ -36,22 +37,20 @@ In this post, we examine the neuroscientific foundation of Weil's morning recita
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding weil-classical-recitation is based on <strong>Historical and Biographical Records of Simone Weil & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical and Biographical Records of Simone Weil & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Impact of Aloud Reading and Recitation on the Prefrontal Cortex
+## 1. Impact of Aloud Reading and Recitation on the Prefrontal Cortex
 
 Reciting complex classical sentences written in ancient or foreign scripts aloud intensely stimulates the Dorsolateral Prefrontal Cortex, which governs cognitive control and executive functioning. Unlike silent reading, reading aloud is a multi-sensory process simultaneously activating visual, motor, and auditory cortices. This multi-sensory synchronization maximizes prefrontal executive focus, clearing away morning brain fog.
 
 ---
 
-## Focus on the Process of Resonating Sound and Text Itself
-
-For Simone Weil, morning recitation was an active meditation and intellectual training. It need not be Ancient Greek. Spend 5 minutes every morning reading aloud a short inspirational poem or philosophical quote. When you fix your attention completely on your voice's resonance and rhythm, your brain charges into a powerful state of focus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ For Simone Weil, morning recitation was an active meditation and intellectual tr
     Upon finishing reading aloud, sit upright at your desk, close your eyes, and breathe deeply for 2 minutes. Confirm your brain's quiet readiness before tackling your first task.
   </p>
 </div>
+
+---
+
+## 3. Focus on the Process of Resonating Sound and Text Itself
+
+For Simone Weil, morning recitation was an active meditation and intellectual training. It need not be Ancient Greek. Spend 5 minutes every morning reading aloud a short inspirational poem or philosophical quote. When you fix your attention completely on your voice's resonance and rhythm, your brain charges into a powerful state of focus.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Un programador en un lavadero bloqueando la luz y el ruido? La rutina de enfoque en habitación oscura de Linus Torvalds"
 description: "Linus Torvalds, creador de Linux y Git. Explora cómo logró una hiperconcentración en un cuarto aislado, libre de estímulos visuales externos y decoraciones electrónicas, y cómo construir su entorno de trabajo silencioso."
 pubDate: "2026-06-30"
@@ -38,14 +39,14 @@ En la publicación de hoy, compartimos un análisis de ciencia cognitiva sobre c
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre torvalds-darkroom-focus se basa en <strong>Biografías históricas y registros autobiográficos de Linus Torvalds e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Linus Torvalds e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Filtración Cognitiva': Preservar la atención mediante el control de estímulos visuales
+## 1. 'Filtración Cognitiva': Preservar la atención mediante el control de estímulos visuales
 
 Nuestra corteza visual calcula de forma constante e inconsciente la información de profundidad, color y forma de cada objeto a la vista (juguetes en el escritorio, marcos de fotos coloridos, movimiento de personas que pasan, etc.). La visión impone la carga cognitiva más pesada en el cerebro, consumiendo aproximadamente el 30% de la energía total de la corteza cerebral.
 
@@ -53,9 +54,7 @@ La rutina de enfoque en habitación oscura de Linus Torvalds fue una máxima exp
 
 ---
 
-## En la oscuridad, la lógica del programador se vuelve cristalina
-
-Para Linus Torvalds, la habitación oscura del lavadero era una fortaleza cognitiva que bloq tentaciones externas y estímulos menores en su fuente. Si su hogar es una distracción y le cuesta profundizar en su trabajo malgastando su atención, intente despejar el área de su escritorio de toda decoración visual y atenuar la iluminación circundante antes de culpar a su concentración. Experimentará una inmersión sorprendente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Para Linus Torvalds, la habitación oscura del lavadero era una fortaleza cognit
   </p>
 </div>
 
+---
+
+## 3. En la oscuridad, la lógica del programador se vuelve cristalina
+
+Para Linus Torvalds, la habitación oscura del lavadero era una fortaleza cognitiva que bloq tentaciones externas y estímulos menores en su fuente. Si su hogar es una distracción y le cuesta profundizar en su trabajo malgastando su atención, intente despejar el área de su escritorio de toda decoración visual y atenuar la iluminación circundante antes de culpar a su concentración. Experimentará una inmersión sorprendente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Mirar solo el monitor en un cuarto oscuro daña la vista?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Para Linus Torvalds, la habitación oscura del lavadero era una fortaleza cognit
       Un contraste excesivamente alto en la oscuridad total causa fatiga visual. Por lo tanto, reducir el brillo del monitor para adaptarlo al entorno o instalar una luz de fondo suave (como tiras LED indirectas) detrás del monitor previene el cansancio del nervio óptico manteniendo una alta inmersión.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si no tengo un lavadero o un cuarto aislado en casa?</span>

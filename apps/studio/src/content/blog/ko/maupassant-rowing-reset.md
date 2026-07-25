@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "단편소설 거장의 머리 식히기: 기 드 모파상의 노젓기·수영 리셋 루틴"
 description: "프랑스 단편 소설의 거장 기 드 모파상. 글쓰기로 지친 뇌를 센강 노젓기와 수영 운동으로 완벽하게 리셋한 강렬한 운동 루틴."
 pubDate: "2026-06-11"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>기 드 모파상 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 maupassant-rowing-reset 루틴을 다룹니다.
+      본 콘텐츠는 <strong>기 드 모파상 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 전신 유산소 운동이 유도하는 BDNF 분비와 뇌 혈류 분산
+## 1. 전신 유산소 운동이 유도하는 BDNF 분비와 뇌 혈류 분산
 
 집중적인 뇌 활동이 지속되면 전두엽 혈류 집중으로 오버히트와 신경계 상기 현상이 나타납니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 운동 중에는 업무 생각을 끄고 호흡과 동작에만 몰입하세요
-
-운동하면서도 오늘 해야 할 일이나 번민을 곱씹으면 뇌 혈류 분산 효과가 반감됩니다. 근육의 수축과 호흡의 박자에만 인지를 두세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 운동 중에는 업무 생각을 끄고 호흡과 동작에만 몰입하세요
+
+운동하면서도 오늘 해야 할 일이나 번민을 곱씹으면 뇌 혈류 분산 효과가 반감됩니다. 근육의 수축과 호흡의 박자에만 인지를 두세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>노젓기나 수영을 하지 못할 경우 어떤 운동으로 대체 가능한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       상체와 하체를 동시에 쓰는 로잉 머신, 사이클, 엘립티컬, 인터벌 조깅, 버피 테스트 등 전신 대근육 유산소 운동이라면 똑같은 신경계 샤워 효과를 얻을 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>매일 고강도 운동을 하면 몸에 무리가 가지 않나요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cultivo de la salud matutino de un erudito: la rutina de ejercicios Hwalinsimbang de Toegye Yi Hwang"
 description: "Toegye Yi Hwang fue enfermizo toda su vida, pero cultivó la excelencia académica hasta los 70 años mediante ejercicios matutinos Daoyin y control respiratorio. Conozca los mecanismos fisiológicos de esta sintonización de baja intensidad para activar el sistema parasimpático y lograr un enfoque sereno."
 pubDate: "2026-06-12"
@@ -36,22 +37,20 @@ En este artículo, validamos los beneficios fisiológicos de la práctica Hwalin
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre yihwang-hwalinsimbang-exercise se basa en <strong>Registros históricos y biográficos de Hwalinsimbang de Toegye Yi Hwang e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Registros históricos y biográficos de Hwalinsimbang de Toegye Yi Hwang e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cómo los ejercicios de baja intensidad y el control respiratorio equilibran el sistema nervioso autónomo
+## 1. Cómo los ejercicios de baja intensidad y el control respiratorio equilibran el sistema nervioso autónomo
 
 Al despertar, el cuerpo experimenta un aumento de cortisol (Respuesta de Despertar del Cortisol) para pasar al estado activo, lo que puede causar aumento de pulso y leve ansiedad. Realizar actividades bruscas o consultar medios digitales en este punto sobreactiva los circuitos de ansiedad del cerebro. En cambio, combinar estiramientos suaves con exhalaciones abdominales prolongadas, como en Hwalinsimbang, estimula el nervio vago y activa el sistema parasimpático, estabilizando la variabilidad del ritmo cardíaco (HRV) para una inmersión serena.
 
 ---
 
-## Precauciones y consejos
-
-Al despertar, la columna y las fibras musculares están extremadamente rígidas. Forzar movimientos de alto impacto o estiramientos extremos en este estado puede causar lesiones en los discos intervertebrales. Limite los ejercicios matutinos Daoyin a estiramientos suaves sin rebotar, manteniéndose dentro de un rango sin dolor mientras se concentra en la respiración.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Al despertar, la columna y las fibras musculares están extremadamente rígidas.
     Inhale oxígeno puro por la nariz, luego contraiga el abdomen inferior mientras exhala lenta y silenciosamente por la boca. Realice 10 respiraciones abdominales profundas para activar el sistema parasimpático.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Al despertar, la columna y las fibras musculares están extremadamente rígidas. Forzar movimientos de alto impacto o estiramientos extremos en este estado puede causar lesiones en los discos intervertebrales. Limite los ejercicios matutinos Daoyin a estiramientos suaves sin rebotar, manteniéndose dentro de un rango sin dolor mientras se concentra en la respiración.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

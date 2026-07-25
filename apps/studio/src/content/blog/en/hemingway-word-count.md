@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Tracking Daily Word Count on a Progress Chart: Ernest Hemingway's Quantitative Writing Chart and Dopamine Reward Routine"
 description: "Discover how Nobel laureate Ernest Hemingway tracked his daily writing word counts on a wall chart. Explore the neuroscience of self-monitoring, dopamine reward circuits, and prefrontal cortex activation."
 pubDate: "2026-02-05"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Ernest Hemingway's 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding hemingway-word-count is based on <strong>Historical Verification from Ernest Hemingway's *A Moveable Feast*, George Plimpton's 1958 *Paris Review* Interview & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Ernest Hemingway's *A Moveable Feast*, George Plimpton's 1958 *Paris Review* Interview & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Self-Monitoring and the Neuroscience of the Dopamine Reward Circuit
+## 1. Self-Monitoring and the Neuroscience of the Dopamine Reward Circuit
 
 Quantitatively recording and monitoring target behaviors is recognized in behavioral psychology as <strong>Self-Monitoring</strong>. When behavioral progress is visually quantified, the brain receives immediate empirical feedback, firing the <strong>Dopamine Reward Circuit</strong> across the striatum and nucleus accumbens. Honest daily output tracking converts abstract effort into visible achievement, signaling the <strong>Prefrontal Cortex</strong> to generate strong intrinsic motivation for subsequent execution. Hemingway intuitively leveraged this dopamine feedback loop to sustain unshakeable daily writing momentum.
 
 ---
 
-## Caution: Prioritize the Act of Daily Honest Logging Over the Output Volume
-
-Vague effort leads directly to vague results. The prefrontal cortex engages self-control only when performance is observed through exact numerical figures. Regardless of whether daily numbers are high or low, focus on leaving an honest mark on your progress chart every single day to maintain cognitive momentum.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Vague effort leads directly to vague results. The prefrontal cortex engages self
   </p>
 </div>
 
+---
+
+## 3. Caution: Prioritize the Act of Daily Honest Logging Over the Output Volume
+
+Vague effort leads directly to vague results. The prefrontal cortex engages self-control only when performance is observed through exact numerical figures. Regardless of whether daily numbers are high or low, focus on leaving an honest mark on your progress chart every single day to maintain cognitive momentum.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Ernest Hemingway log his daily word count on a progress chart?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Vague effort leads directly to vague results. The prefrontal cortex engages self
       Hemingway tracked his output to avoid self-deception and visually monitor his true progress, forcing a disciplined rhythm into his creative process. Visually confirmed figures activated his dopamine reward system, inviting focus for the next session.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is this logging routine effective for general business tasks or academic study beyond writing?</span>

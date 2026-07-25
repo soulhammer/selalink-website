@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Melodias moldadas em cores? A rotina matinal de aquarela de Felix Mendelssohn"
 description: "O genial compositor Felix Mendelssohn despertava sua inspiração musical todas as manhãs pintando aquarelas de paisagens. Descubra a estimulação cruzada neurocientífica entre arte e música."
 pubDate: "2026-01-20"
@@ -35,17 +36,17 @@ Neste artigo, apresentamos a ciência cognitiva da alternância sensorial e a at
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre mendelssohn-watercolor-sketch é baseada em <strong>Pesquisa de biografias históricas e registros autobiográficos de Felix Mendelssohn & estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de biografias históricas e registros autobiográficos de Felix Mendelssohn & estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O efeito de 'associação intermodal' que conecta os sentidos
+## 1. O efeito de 'associação intermodal' que conecta os sentidos
 
 Quando pintamos, o cérebro engaja intensamente o córtex visual e as regiões de cognição espacial para perceber as formas com precisão. De acordo com pesquisas em neurociência cognitiva, o fenômeno em que a ativação de um domínio sensorial melhora a criatividade em outro é chamado de <strong>'associação intermodal' (Cross-modal Association)</strong>.
 
@@ -53,9 +54,7 @@ Enquanto Felix Mendelssohn observava as paisagens todas as manhãs e registrava 
 
 ---
 
-## Aprimorar a habilidade não é o objetivo; o relaxamento simples e a renovação sensorial são o mais importante
-
-A razão de esboçar não é se tornar um pintor profissional. É dar um descanso ao lobo frontal fatigado por textos, números e lógica, e restaurar com flexibilidade as conexões neurais entre as redes sensoriais por meio de um movimento artístico não verbal e viso-tátil. Não se preocupe com linhas tortas; concentre-se apenas na experiência sensorial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ A razão de esboçar não é se tornar um pintor profissional. É dar um descans
   </p>
 </div>
 
+---
+
+## 3. Aprimorar a habilidade não é o objetivo; o relaxamento simples e a renovação sensorial são o mais importante
+
+A razão de esboçar não é se tornar um pintor profissional. É dar um descanso ao lobo frontal fatigado por textos, números e lógica, e restaurar com flexibilidade as conexões neurais entre as redes sensoriais por meio de um movimento artístico não verbal e viso-tátil. Não se preocupe com linhas tortas; concentre-se apenas na experiência sensorial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Alguém que não sabe desenhar nada pode se beneficiar do esboço matinal?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ A razão de esboçar não é se tornar um pintor profissional. É dar um descans
       Com certeza. O objetivo não é exibir habilidade artística, mas enviar sinais de observação visual e coordenação motora das mãos para o cérebro. Mesmo que a composição seja simples ou as linhas sejam imperfeitas, a estimulação das áreas cerebrais intermodais e o relaxamento acontecem da mesma forma.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Desenhar com lápis ou caneta é suficiente para a estimulação intermodal no lugar da aquarela?</span>

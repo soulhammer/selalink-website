@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Arar campos antes de escribir a pesar de su estatus aristocrático? La rutina de despertar físico de León Tolstói"
 description: "¿De dónde obtuvo el gigante literario León Tolstói la energía para escribir novelas monumentales como Guerra y paz? Explore su rutina de salud para despertar la función cerebral mediante el trabajo físico y la gimnasia cada mañana antes de escribir."
 pubDate: "2026-05-11"
@@ -36,14 +37,14 @@ En esta publicación, examinamos la verdad neurocientífica detrás de los hábi
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre tolstoy-physical-labor se basa en <strong>Biografías históricas y registros autobiográficos de León Tolstói e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de León Tolstói e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Factor Neurotrófico Derivado del Cerebro (BDNF) y los efectos cognitivos del aumento de la frecuencia cardíaca
+## 1. Factor Neurotrófico Derivado del Cerebro (BDNF) y los efectos cognitivos del aumento de la frecuencia cardíaca
 
 Según investigaciones neurocientíficas, los ejercicios matutinos breves con grandes grupos musculares que elevan la frecuencia cardíaca dilatan los vasos sanguíneos cerebrales y mejoran el flujo sanguíneo en la corteza cerebral. Esto aumenta el aporte de oxígeno, potenciando de inmediato la velocidad de procesamiento cognitivo de la corteza prefrontal y la memoria.
 
@@ -51,11 +52,7 @@ En particular, el entrenamiento de fuerza de cuerpo completo y la gimnasia maxim
 
 ---
 
-## Un consejo neurocientífico para una rutina exitosa
-
-Mueva su cuerpo para encender una potente chispa de calentamiento en su cerebro.
-
-Sentarse a la fuerza en el escritorio mirando el monitor estando medio dormido solo hace perder el tiempo. Al igual que Tolstói entrenaba vigorosamente su cuerpo antes de escribir para despertar por completo su cerebro, dedique al menos 15 minutos a liberar energía hasta sudar. La concentración matutina alcanzada en un estado despierto rinde varias veces más productividad que de costumbre.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,6 +83,14 @@ Sentarse a la fuerza en el escritorio mirando el monitor estando medio dormido s
     Después de ducharse, aproveche las primeras 1 a 2 horas de mayor alerta inducida por el aumento del flujo sanguíneo cerebral y la liberación de BDNF para comenzar las tareas principales más exigentes a nivel cognitivo o estratégico.
   </p>
 </div>
+
+---
+
+## 3. Un consejo neurocientífico para una rutina exitosa
+
+Mueva su cuerpo para encender una potente chispa de calentamiento en su cerebro.
+
+Sentarse a la fuerza en el escritorio mirando el monitor estando medio dormido solo hace perder el tiempo. Al igual que Tolstói entrenaba vigorosamente su cuerpo antes de escribir para despertar por completo su cerebro, dedique al menos 15 minutos a liberar energía hasta sudar. La concentración matutina alcanzada en un estado despierto rinde varias veces más productividad que de costumbre.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

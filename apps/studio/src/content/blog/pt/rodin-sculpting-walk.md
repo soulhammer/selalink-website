@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O mestre de 'O Pensador'? A rotina matinal de caminhada e amassamento de argila de Auguste Rodin"
 description: "Auguste Rodin, o mestre da escultura moderna. Descubra sua rotina sensorial de caminhar todas as manhãs amassando argila para despertar a inspiração tátil, junto com um guia de 3 passos."
 pubDate: "2026-01-10"
@@ -33,25 +34,23 @@ No post de hoje, examinamos a neurociência sensorial por trás da rotina de Rod
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre rodin-sculpting-walk é baseada em <strong>Verificação de biografias históricas e registros autobiográficos de Auguste Rodin e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas e registros autobiográficos de Auguste Rodin e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ativação espacial tátil por meio da estimulação do córtex somatossensorial
+## 1. Ativação espacial tátil por meio da estimulação do córtex somatossensorial
 
 A vida moderna depende em mais de 90% de telas planas, o que reduz a percepção espacial. O amassamento de argila de Rodin é um <strong>'estímulo cognitivo tátil'</strong> poderoso que ativa o córtex somatossensorial e motor por meio dos nervos dos dedos, aliviando a fadiga visual e ativando a DMN para conectar insights espaciais intuitivos.
 
 ---
 
-## Desconecte o foco visual e mergulhe na sensação tátil das pontas dos dedos
-
-Para Rodin, a argila era uma antena para despertar a sensibilidade tátil antes de ser material de escultura. Não tente criar uma forma acabada; concentre-se apenas na textura e elasticidade sentidas pelos dedos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Para Rodin, a argila era uma antena para despertar a sensibilidade tátil antes 
   </p>
 </div>
 
+---
+
+## 3. Desconecte o foco visual e mergulhe na sensação tátil das pontas dos dedos
+
+Para Rodin, a argila era uma antena para despertar a sensibilidade tátil antes de ser material de escultura. Não tente criar uma forma acabada; concentre-se apenas na textura e elasticidade sentidas pelos dedos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quais objetos modernos podem ser usados em vez de argila?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Para Rodin, a argila era uma antena para despertar a sensibilidade tátil antes 
       Bolas antiestresse de silicone, fidget cubes, mini kalimbas, peças de madeira lisa ou pedras polidas são excelentes alternativas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como a estimulação tátil das pontas dos dedos aumenta a criatividade?</span>

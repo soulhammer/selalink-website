@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sedikit, Tetapi Lebih Baik? Rutinitas Renang Pagi dan Pengamatan Dieter Rams"
 description: "Legenda desain minimalis Dieter Rams. Pelajari kebiasaannya membangunkan otak lewat renang pagi dan merawat taman, beserta metode pemulihan perhatian pagi hari untuk masyarakat modern."
 pubDate: "2026-05-20"
@@ -35,25 +36,23 @@ Artikel hari ini membahas sains kognitif di balik rutinitas renang pagi dan peng
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai rams-morning-swim didasarkan pada <strong>Penelitian berdasarkan biografi historis dan catatan autobiografi Dieter Rams & riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Penelitian berdasarkan biografi historis dan catatan autobiografi Dieter Rams & riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Teori Pemulihan Perhatian' yang Membersihkan Korteks Visual
+## 1. 'Teori Pemulihan Perhatian' yang Membersihkan Korteks Visual
 
 Begitu bangun tidur, masyarakat modern terpapar stimulasi visual buatan secara masif. Ini menguras perhatian terarah korteks prefrontal. Rutinitas pagi Dieter Rams menggabungkan olahraga aerobik dengan Teori Pemulihan Perhatian (ART) lewat pengamatan alam.
 
 ---
 
-## Mengosongkan Stimulasi Visual Buatan Mengisi Pikiran Anda dengan Ide
-
-Desain yang baik berarti kondisi esensial yang bebas dari hal tak perlu. Dieter Rams merawat bonsai dan mengamati alam setiap pagi untuk mengosongkan stimulasi buatan dari otaknya dan memberi ruang bagi pemikiran esensial. Bersihkan filter perhatian Anda dengan pengamatan alam singkat di pagi hari.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Desain yang baik berarti kondisi esensial yang bebas dari hal tak perlu. Dieter 
   </p>
 </div>
 
+---
+
+## 3. Mengosongkan Stimulasi Visual Buatan Mengisi Pikiran Anda dengan Ide
+
+Desain yang baik berarti kondisi esensial yang bebas dari hal tak perlu. Dieter Rams merawat bonsai dan mengamati alam setiap pagi untuk mengosongkan stimulasi buatan dari otaknya dan memberi ruang bagi pemikiran esensial. Bersihkan filter perhatian Anda dengan pengamatan alam singkat di pagi hari.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya harus berenang pagi secara langsung agar rutinitas ini efektif?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Desain yang baik berarti kondisi esensial yang bebas dari hal tak perlu. Dieter 
       Tidak. Berenang hanyalah olahraga aerobik favorit Dieter Rams. Aktivitas aerobik ringan apa pun yang membangunkan aliran darah otak—seperti jalan cepat 10 menit, peregangan, atau jogging ringan—bisa digunakan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bolehkah saya mengamati bangunan kota atau desain interior modern alih-alih objek alam?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Genius yang Memainkan Biola di Jalan Buntu Pikiran: Rutinitas Reset dan Metode Peralihan Kognitif ala Albert Einstein"
 description: "Pelajari bagaimana Albert Einstein, yang merevolusi fisika, memainkan biola untuk mereset otaknya saat buntu, dan temukan panduan praktis peralihan kognitif 3 langkah untuk profesional modern."
 pubDate: "2026-03-05"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai einstein-violin-thinking didasarkan pada <strong>Verifikasi Historis dari Kumpulan Esai Albert Einstein *Out of My Later Years*, Biografi Walter Isaacson *Einstein: His Life and Universe* & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Kumpulan Esai Albert Einstein *Out of My Later Years*, Biografi Walter Isaacson *Einstein: His Life and Universe* & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Membangunkan Wilayah Otak yang Berbeda Melalui 'Peralihan Kognitif' dan Default Mode Network
+## 1. Membangunkan Wilayah Otak yang Berbeda Melalui 'Peralihan Kognitif' dan Default Mode Network
 
 Saat kita terlalu fokus pada masalah yang rumit, otak terjebak dalam ikatan kognitif, berulang kali mengaktifkan jalur saraf yang sama persis—kondisi yang disebut psikologi kognitif sebagai 'Tunnel Vision' atau kelebihan beban kognitif. Permainan biola Einstein berfungsi sebagai alat 'Peralihan Kognitif' yang sempurna, dengan cepat memutuskan sirkuit saraf yang terstimulasi secara berlebihan dan mengaktifkan area otak yang dorman. Memainkan alat musik melibatkan indra penglihatan, pendengaran, dan motorik secara bersamaan, sangat menstimulasi korpus kalosum yang menghubungkan belahan otak kiri dan kanan. Melangkah mundur secara fisik dan mental untuk mendedikasikan diri pada musik mengalihkan otak ke Default Mode Network (DMN), memungkinkan pemrosesan bawah sadar merekonstruksi informasi yang tersebar dan menginduksi 'Aha! Moment'.
 
 ---
 
-## Mengetahui Cara Melepaskan Membuka Wawasan Baru
-
-Einstein bukan hanya seorang fisikawan yang brilian, tetapi juga seorang pemain biola yang ulung. Baginya, musik bukanlah hobi yang tidak berhubungan, melainkan pelumas kognitif paling ampuh untuk mencegah kelelahan mental dan menyalakan inspirasi kreatif. Saat ide Anda buntu, alih-alih memaksakan diri, ubah stimulus sensorik Anda sepenuhnya seperti Einstein untuk memberi otak Anda kesempatan reset yang nyata.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Einstein bukan hanya seorang fisikawan yang brilian, tetapi juga seorang pemain 
   </p>
 </div>
 
+---
+
+## 3. Mengetahui Cara Melepaskan Membuka Wawasan Baru
+
+Einstein bukan hanya seorang fisikawan yang brilian, tetapi juga seorang pemain biola yang ulung. Baginya, musik bukanlah hobi yang tidak berhubungan, melainkan pelumas kognitif paling ampuh untuk mencegah kelelahan mental dan menyalakan inspirasi kreatif. Saat ide Anda buntu, alih-alih memaksakan diri, ubah stimulus sensorik Anda sepenuhnya seperti Einstein untuk memberi otak Anda kesempatan reset yang nyata.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah Albert Einstein mereset otaknya dengan metode lain selain memainkan biola?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Einstein bukan hanya seorang fisikawan yang brilian, tetapi juga seorang pemain 
       Ya. Einstein secara teratur pergi berlayar dengan kapal pesiar untuk merasakan angin dan bermeditasi di sela-sela penelitiannya. Ia juga memprioritaskan tidur lebih dari 10 jam sehari agar pikiran bawah sadarnya dapat mengorganisasi dan menyelesaikan masalah rumit.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah orang yang tidak bisa memainkan alat musik sama sekali dapat mengikuti rutinitas ini?</span>

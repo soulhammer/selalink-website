@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le génie qui jouait du violon dans les impasses de sa pensée : La routine de réinitialisation et la méthode de bascule cognitive d'Albert Einstein"
 description: "Découvrez comment Albert Einstein, qui a révolutionné la physique, jouait du violon pour réinitialiser son cerveau lors de blocages créatifs, et explorez un guide pratique de bascule cognitive en 3 étapes."
 pubDate: "2026-03-05"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la neuroscience cognitive sous-jace
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant einstein-violin-thinking est basée sur <strong>Vérification Historique issue du recueil d'essais d'Albert Einstein *Out of My Later Years*, de la biographie de Walter Isaacson *Einstein : Sa vie et son univers* & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue du recueil d'essais d'Albert Einstein *Out of My Later Years*, de la biographie de Walter Isaacson *Einstein : Sa vie et son univers* & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Éveiller différentes régions cérébrales via la « Bascule Cognitive » et le Réseau du Mode par Défaut
+## 1. Éveiller différentes régions cérébrales via la « Bascule Cognitive » et le Réseau du Mode par Défaut
 
 Lorsqu'on se concentre à l'excès sur un problème complexe, le cerveau s'enferme dans una boucle cognitive, activant en boucle les mêmes circuits neuronaux — un état appelé « Vision en Tunnel » ou surcharge cognitive. Le violon d'Einstein servait d'outil de « Bascule Cognitive », désengageant les circuits surstimulés et activant d'autres zones du cerveau. Jouer d'un instrument stimule simultanément la vue, l'ouïe et le toucher, stimulant fortement le corps calleux qui relie les hémisphères. En prenant du recul pour s'immerger dans la musique, le cerveau passe en Réseau du Mode par Défaut (DMN), permettant de combiner les informations pour créer un « Moment Eurêka ! ».
 
 ---
 
-## Savoir lâcher prise pour faire émerger de nouvelles idées
-
-Einstein n'était pas seulement un physicien brillant, mais aussi un excellent violoniste. Pour lui, la musique n'était pas un loisir secondaire, mais le lubrifiant cognitif le plus puissant pour prévenir la fatigue et éveiller l'inspiration. Lorsque vos idées bloquent, changez de stimulus sensoriell comme Einstein pour offrir à votre cerveau una réelle réinitialisation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Einstein n'était pas seulement un physicien brillant, mais aussi un excellent v
   </p>
 </div>
 
+---
+
+## 3. Savoir lâcher prise pour faire émerger de nouvelles idées
+
+Einstein n'était pas seulement un physicien brillant, mais aussi un excellent violoniste. Pour lui, la musique n'était pas un loisir secondaire, mais le lubrifiant cognitif le plus puissant pour prévenir la fatigue et éveiller l'inspiration. Lorsque vos idées bloquent, changez de stimulus sensoriell comme Einstein pour offrir à votre cerveau una réelle réinitialisation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Albert Einstein réinitialisait-il son cerveau par d'autres méthodes que le violon ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Einstein n'était pas seulement un physicien brillant, mais aussi un excellent v
       Oui. Einstein faisait régulièrement du voilier pour ressentir le vent et méditer lors de ses pauses. Il dormait aussi plus de 10 heures par jour pour laisser son subconscient structurer les problèmes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Les personnes ne jouant d'aucun instrument peuvent-elles suivre cette routine ?</span>

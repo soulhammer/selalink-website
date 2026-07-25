@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Overcoming Slumps Through Forced Practice: Natsume Soseki's Morning Writing Routine"
 description: "The morning writing rule behind Natsume Soseki's literary masterpieces. Explaining the cognitive value of awakening brain action excitation without waiting for inspiration."
 pubDate: "2026-04-19"
@@ -36,22 +37,20 @@ In this article, we examine the cognitive science mechanisms behind the forced w
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding soseki-forced-writing is based on <strong>Historical biographies, autobiographical records of Soseki's forced writing & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies, autobiographical records of Soseki's forced writing & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Action Excitation Effect: How Action Generates Motivation
+## 1. The Action Excitation Effect: How Action Generates Motivation
 
 The brain does not release motivational hormones while sitting idle. Only when you begin physical action do the prefrontal cortex and nucleus accumbens become stimulated to drive motivation. Neuroscientific research shows that taking action suppresses unnecessary anxiety in the amygdala and activates working memory circuits, drastically enhancing executive function.
 
 ---
 
-## Master's Advice for Prompting Immediate Action
-
-Do not wait for the right mood or perfect environment; sit at your desk and write even a single character. Action alone awakens the brain. Rather than over-relying on willpower, pre-design physical cues and environment where action happens naturally to ensure consistency.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Do not wait for the right mood or perfect environment; sit at your desk and writ
     Once you hit your designated 30-minute target or minimum word count, pack up your desk and conclude the session with a clear sense of accomplishment.
   </p>
 </div>
+
+---
+
+## 3. Master's Advice for Prompting Immediate Action
+
+Do not wait for the right mood or perfect environment; sit at your desk and write even a single character. Action alone awakens the brain. Rather than over-relying on willpower, pre-design physical cues and environment where action happens naturally to ensure consistency.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

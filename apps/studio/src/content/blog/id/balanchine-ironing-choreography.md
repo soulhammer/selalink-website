@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Tarian Alam Bawah Sadar: Metode Koreografi George Balanchine Melalui Pekerjaan Rumah Tangga Sederhana"
 description: "Pelajari bagaimana koreografer George Balanchine melakukan pekerjaan rumah tangga yang sederhana dan berulang seperti menyetrika saat mengalami kebuntuan kreatif, serta temukan mekanisme saraf di mana aktivitas fisik ringan mematikan sensor prefrontal untuk mengaktifkan Default Mode Network (DMN)."
 pubDate: "2026-04-01"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami menganalisis bagaimana rutinitas tugas motorik se
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai balanchine-ironing-choreography didasarkan pada <strong>Verifikasi Historis dari Biografi George Balanchine *By George Balanchine* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi George Balanchine *By George Balanchine* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pelonggaran Sensor Prefrontal dan Aktivasi Sirkuit Asosiatif DMN
+## 1. Pelonggaran Sensor Prefrontal dan Aktivasi Sirkuit Asosiatif DMN
 
 Ketika kita berfokus secara intens untuk menyelesaikan masalah, korteks prefrontal otak secara kuat mengaktifkan kontrol analitis top-down (Top-down Control), secara tanpa ampun menyaring ide-ide tak biasa yang tampak tidak logis. Kondisi 'sensor prefrontal' ini mengurung kreativitas. Sebaliknya, melakukan tugas motorik sederhana yang monoton (Monotonous Motor Task) seperti menyetrika atau membersihkan rumah akan merelaksasi hiperaktivitas prefrontal. Memanfaatkan celah ini, Default Mode Network (DMN) otak menyala, memungkinkan berbagai fragmen ingatan yang tersebar di alam bawah sadar untuk secara bebas dan tak terduga bergabung kembali (Combinatorial Play). Hasilnya, gerakan koreografi yang tersumbat muncul secara alami di tengah ritme menyetrika yang berulang.
 
 ---
 
-## Perhatian & Tip: Mengesampingkan Aktivitas yang Membutuhkan Beban Kognitif
-
-Saat menjernihkan pikiran dengan pekerjaan rumah tangga ringan atau gerakan tubuh, hindari aktivitas yang membutuhkan perhatian tinggi atau pemrosesan kognitif. Misalnya, mencoba memasak resep yang rumit atau mendengarkan berita ekonomi saat membersihkan rumah merupakan bentuk 'multitasking', yang mencegah otak memasuki kondisi DMN dan hanya meningkatkan kelelahan kognitif. Kuncinya adalah secara santai mengarahkan perhatian Anda hanya pada sentuhan tangan dan gerakan ritmis tubuh, membiarkan pikiran berkeliaran secara bebas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Saat menjernihkan pikiran dengan pekerjaan rumah tangga ringan atau gerakan tubu
     Catat ide perencanaan atau kata kunci yang tiba-tiba muncul dari alam bawah sadar selama pekerjaan sederhana agar tidak lupa, lalu segera kembali ke meja kerja utama Anda untuk melanjutkan momentum.
   </p>
 </div>
+
+---
+
+## 3. Perhatian & Tip: Mengesampingkan Aktivitas yang Membutuhkan Beban Kognitif
+
+Saat menjernihkan pikiran dengan pekerjaan rumah tangga ringan atau gerakan tubuh, hindari aktivitas yang membutuhkan perhatian tinggi atau pemrosesan kognitif. Misalnya, mencoba memasak resep yang rumit atau mendengarkan berita ekonomi saat membersihkan rumah merupakan bentuk 'multitasking', yang mencegah otak memasuki kondisi DMN dan hanya meningkatkan kelelahan kognitif. Kuncinya adalah secara santai mengarahkan perhatian Anda hanya pada sentuhan tangan dan gerakan ritmis tubuh, membiarkan pikiran berkeliaran secara bebas.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

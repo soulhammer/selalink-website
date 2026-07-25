@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "自分をデザインする：行動主義の巨匠スキナーの視覚的フィードバック記録習慣"
 description: "行動心理学の巨匠B.F.スキナーのデイリー行動定量化記録習慣を紹介します。リアルタイムな数値フィードバックを通じて脳の行動メカニズムを強化する3段階の実ガイド。"
 pubDate: "2026-05-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「skinner-behavior-tracking」は <strong>スキナーの行動追跡に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>スキナーの行動追跡に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## ドーパミン回路を刺激する「視覚的フィードバック効果」
+## 1. ドーパミン回路を刺激する「視覚的フィードバック効果」
 
 行動主義心理学によれば、人間脳は行動の直後に即座の報酬や肯定的な反応を体感したとき、その行動を再び繰り返そうとする傾向が強力になります。これを道具的条件づけの<strong>「行動強化（Reinforcement）」</strong>と呼びます。自分が何単語書き、何分間没頭したかを数値で確認し、それをグラフで確認する視覚的フィードバック（Visual Feedback）は、脳の報酬予測システムにドーパミン（Dopamine）を放出させる優れた非物質的報酬です。この記録習慣は曖昧な意志力ではなく、データフィードバックループを通じて没頭行動の発生頻度を自発的に刺激し、定着させます。
 
 ---
 
-## 測定値の操作手段と目的の逆転を me 警戒する
-
-記録習慣を維持する際に陥りがちな失敗は、単にグラフの数値や執筆単語数自体を増やすために文章の質を犠牲にしたり、無意味にタイマーを回し続けたりすることです。いわゆる「グッドハートの法則（Goodhart's Law）」のように、測定値が目的になった瞬間、それはもはや良い測定値ではありません。記録は生産性の流れを客観的に映し出す鏡であるべきであり、決して数字そのものが知識労働の最終目的になってはなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     毎日得られた生産性データを折れ線グラフで描き、目立つ場所やブックマークフォルダに更新して、自分の成果を感覚的にモニタリングし動機を強化します。
   </p>
 </div>
+
+---
+
+## 3. 測定値の操作手段と目的の逆転を me 警戒する
+
+記録習慣を維持する際に陥りがちな失敗は、単にグラフの数値や執筆単語数自体を増やすために文章の質を犠牲にしたり、無意味にタイマーを回し続けたりすることです。いわゆる「グッドハートの法則（Goodhart's Law）」のように、測定値が目的になった瞬間、それはもはや良い測定値ではありません。記録は生産性の流れを客観的に映し出す鏡であるべきであり、決して数字そのものが知識労働の最終目的になってはなりません。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

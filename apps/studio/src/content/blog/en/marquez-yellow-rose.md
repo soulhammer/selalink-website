@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Nobel Laureate's Desk Secret: Márquez's Yellow Rose Writing Routine"
 description: "Why Gabriel García Márquez, author of One Hundred Years of Solitude, kept a yellow rose on his desk every morning. Explores how a visual ritual aids brain relaxation and stimulates creativity."
 pubDate: "2026-02-06"
@@ -36,22 +37,20 @@ In today's post, we examine the scientific mechanisms behind Márquez's 'yellow 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding marquez-yellow-rose is based on <strong>Historical Verification of Gabriel García Márquez's Biographies & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification of Gabriel García Márquez's Biographies & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why Visual Rituals Foster Creativity and Emotional Stability
+## 1. Why Visual Rituals Foster Creativity and Emotional Stability
 
 Visually fixing and observing a specific color or natural object (like a yellow rose) sends a 'safe and emotionally comfortable signal' to the brain. Once relaxed, the brain emits <strong>Alpha Waves</strong> that enhance cognitive activity and focus, accelerating spontaneous associations and elevating creative, multi-dimensional thinking.
 
 ---
 
-## Precautions and Tips
-
-Avoid cluttering your desk with overly flashy or distracting decorations. Excessive coloration causes <strong>visual fatigue</strong> in the brain and hinders focus; choose a minimalist approach with a single, simple, and clear object.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Avoid cluttering your desk with overly flashy or distracting decorations. Excess
     Gaze lightly at the object for 10–20 seconds while regulating your breath, gently guiding your brain into a relaxed yet immersive state.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+Avoid cluttering your desk with overly flashy or distracting decorations. Excessive coloration causes <strong>visual fatigue</strong> in the brain and hinders focus; choose a minimalist approach with a single, simple, and clear object.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

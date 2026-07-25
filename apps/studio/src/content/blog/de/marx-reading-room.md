@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "10 Stunden unter der Kuppel des British Museum? Karl Marx' Assoziationskortex-Lesemethode"
 description: "Karl Marx sezierte die verborgenen Mechanismen der Gesellschaft durch die Ökonomie. Entdecken Sie seine hartnäckige Leseroutine, im Londoner Exil täglich 10 Stunden im Lesesaal des British Museum umfassende Literatur zu studieren und zu exzerpieren, sowie die neurowissenschaftlichen Grundlagen."
 pubDate: "2026-03-17"
@@ -35,25 +36,23 @@ In diesem Beitrag untersuchen wir die neurowissenschaftliche Bedeutung von Karl 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu marx-reading-room basiert auf <strong>Historische Biografien, autobiografische Aufzeichnungen zu Karl Marx & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien, autobiografische Aufzeichnungen zu Karl Marx & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Warum ermöglichte das 10-stündige Deep Reading unter der Kuppel eine intellektuelle Rekonstruktion?
+## 1. Warum ermöglichte das 10-stündige Deep Reading unter der Kuppel eine intellektuelle Rekonstruktion?
 
 Gemäß der neurowissenschaftlichen Forschung stammt die Fähigkeit, fragmentiertes Wissen aus verschiedenen Disziplinen auf hohem Niveau zu integrieren, aus der Aktivierung des Assoziationskortex und des Frontallappens. Marx' tägliche 10-stündige Vertiefung in analoge Texte im British Museum – bei vollständiger Abschirmung von Ablenkungen – war ein neurologischer Deep-Work-Prozess.
 
 ---
 
-## Vorsicht vor passivem Lesen und der Illusion digitaler Sammlung
-
-Das bloße Speichern zahlreicher digitaler Artikel oder PDFs und deren visuelles Überfliegen hinterlässt nur oberflächliche Gehirnreize. Ohne aktive Anmerkungen – wie das handschriftliche Exzerpieren bei Marx – wird Information niemals zu echtem intellektuellem Kapital.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das bloße Speichern zahlreicher digitaler Artikel oder PDFs und deren visuelles
   </p>
 </div>
 
+---
+
+## 3. Vorsicht vor passivem Lesen und der Illusion digitaler Sammlung
+
+Das bloße Speichern zahlreicher digitaler Artikel oder PDFs und deren visuelles Überfliegen hinterlässt nur oberflächliche Gehirnreize. Ohne aktive Anmerkungen – wie das handschriftliche Exzerpieren bei Marx – wird Information niemals zu echtem intellektuellem Kapital.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie können moderne Berufstätige oder Studierende die 10-stündige Leseroutine des British Museum anwenden?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,8 +104,8 @@ Das bloße Speichern zahlreicher digitaler Artikel oder PDFs und deren visuelles
       Replizieren Sie eher die 'Konzentrationsdichte' als die Dauer. Wenden Sie dies als 'Mikro-Deep-Reading-Sitzung' an, indem Sie Ihr Smartphone morgens oder am Wochenende in einer Bibliothek für 60 - 90 Minuten ausschalten.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
-  <details class="group cursor-pointer">
+
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was ist der neurowissenschaftliche Vorteil handschriftlicher Exzerptbücher gegenüber digitalen Notizen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -109,7 +114,7 @@ Das bloße Speichern zahlreicher digitaler Artikel oder PDFs und deren visuelles
       Exzerptbücher sind kein passives Abschreiben, sondern aktive Dialoge mit dem Text. Das Transkribieren von Schlüsselaussagen und das anschließende Schreiben eigener Interpretationen aktiviert den Frontallappen und den Assoziationskortex stark.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie kann man nachlassende Konzentration oder mentale Blockaden beim Deep Reading überwinden?</span>

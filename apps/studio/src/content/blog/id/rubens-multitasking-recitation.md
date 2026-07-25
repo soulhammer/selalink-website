@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Karya Klasik Bergema di Atelier Pelukis: Rahasia Produktivitas Multi-Kognitif Rubens"
 description: "Maestro Barok Peter Paul Rubens mempelajari sejarah dan sastra melalui telinganya saat melukis. Pelajari bagaimana memanfaatkan pemrosesan otak multi-saluran untuk mencegah pikiran melayang dan memaksimalkan produktivitas."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dalam artikel hari ini, kami memperkenalkan prinsip-prinsip interaksi indrawi da
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai rubens-multitasking-recitation didasarkan pada <strong>Riset biografi sejarah dan autobiografi tentang Peter Paul Rubens & studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi sejarah dan autobiografi tentang Peter Paul Rubens & studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Kanalisasi Kognitif' yang Memblokir Pikiran Melayang
+## 1. 'Kanalisasi Kognitif' yang Memblokir Pikiran Melayang
 
 Saat melakukan tugas manual atau rutin, sebagian otak mengontrol tindakan fisik sementara area pemrosesan bahasa tetap luang. Pemikiran tak terkontrol mengaktifkan Default Mode Network (DMN), memicu pikiran melayang dan menurunkan fokus. Rubens secara intelektual mengisi saluran bahasa auditori dengan menggabungkan pembacaan klasik saat melukis, yang dikenal sebagai <strong>'Kanalisasi Kognitif'</strong>. Sementara tangan mengendalikan kuas, informasi audio mengisi korteks bahasa, mencegah lamunan dan mempertahankan kewaspadaan puncak.
 
 ---
 
-## Waspadai Interferensi Kognitif Selama Tugas Bahasa/Logika
-
-Untuk tugas utama yang membutuhkan pemrosesan bahasa atau logika tingkat tinggi seperti menyusun proposal atau koding, mendengarkan pembacaan teks menciptakan Interferensi Kognitif antar saluran bahasa, merusak kecepatan dan akurasi. Rutinitas ini memberikan hasil optimal hanya selama tugas fisik, visual, atau tugas mekanis yang terlatih.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Untuk tugas utama yang membutuhkan pemrosesan bahasa atau logika tingkat tinggi 
   </p>
 </div>
 
+---
+
+## 3. Waspadai Interferensi Kognitif Selama Tugas Bahasa/Logika
+
+Untuk tugas utama yang membutuhkan pemrosesan bahasa atau logika tingkat tinggi seperti menyusun proposal atau koding, mendengarkan pembacaan teks menciptakan Interferensi Kognitif antar saluran bahasa, merusak kecepatan dan akurasi. Rutinitas ini memberikan hasil optimal hanya selama tugas fisik, visual, atau tugas mekanis yang terlatih.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah mendengarkan musik populer atau radio menghasilkan efek yang sama seperti rutinitas Rubens?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Untuk tugas utama yang membutuhkan pemrosesan bahasa atau logika tingkat tinggi 
       Tidak. Musik populer atau siaran radio merangsang emosi tanpa mengisi saluran bahasa secara padat; iklan radio merusak fokus. Pembacaan akademis atau kuliah yang melibatkan logika dan pengetahuan adalah yang paling ideal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Berapa volume yang tepat saat menjalankan rutinitas mendengarkan pembacaan ini?</span>

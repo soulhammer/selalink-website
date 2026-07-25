@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un auteur de romans policiers qui collait ses manuscrits en rouleaux ? La méthode d'écriture ultra-focalisée d'Edgar Allan Poe"
 description: "Edgar Allan Poe, pionnier du roman policier moderne, écrivait sur d'étroites bandes de papier qu'il collait en rouleaux continus. Découvrez la science cérébrale qui bloque les distractions visuelles latérales pour déclencher un tunnel cognitif."
 pubDate: "2026-01-03"
@@ -33,17 +34,17 @@ Dans l'article d'aujourd'hui, nous examinons les principes de régulation de la 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant poe-scroll-writing est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques d'Edgar Allan Poe et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques d'Edgar Allan Poe et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Tunnelisation cognitive et suppression du circuit d'auto-surveillance
+## 1. Tunnelisation cognitive et suppression du circuit d'auto-surveillance
 
 Restreindre le champ de vision à une bande extrêmement étroite réduit les mouvements saccadiques inutiles des yeux, évitant ainsi au lobe frontal de gaspiller son attention visuelle. La neuroscience qualifie cet état de <strong>'Tunnelisation Cognitive (Cognitive Tunneling)'</strong>, limitant l'afflux d'informations visuelles pour favoriser une immersion profonde.
 
@@ -51,9 +52,7 @@ En même temps, la structure en rouleau s'étendant continuellement vers le bas 
 
 ---
 
-## Isolation de l'auto-édition
-
-L'habitude de corriger phrase par phrase pendant la rédaction provoque un conflit perpétuel entre les circuits créatifs de l'hémisphère droit et les circuits critiques de l'hémisphère gauche, engendrant une fatigue cognitive. Comme Poe écrivant sur un rouleau continu, désactivez le mode d'édition critique pendant le premier jet et réservez la révision pour plus tard.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'habitude de corriger phrase par phrase pendant la rédaction provoque un confl
   </p>
 </div>
 
+---
+
+## 3. Isolation de l'auto-édition
+
+L'habitude de corriger phrase par phrase pendant la rédaction provoque un conflit perpétuel entre les circuits créatifs de l'hémisphère droit et les circuits critiques de l'hémisphère gauche, engendrant une fatigue cognitive. Comme Poe écrivant sur un rouleau continu, désactivez le mode d'édition critique pendant le premier jet et réservez la révision pour plus tard.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les manuscrits en rouleau d'Edgar Allan Poe existent-ils encore aujourd'hui ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'habitude de corriger phrase par phrase pendant la rédaction provoque un confl
       Oui, certains de ses manuscrits (tels que des essais ou des critiques) sont conservés sous forme de rouleaux étroits collés à la colle dans des institutions comme la Free Library de Philadelphie.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe-t-il des logiciels empêchant l'habitude de corriger en tapant sur écran ?</span>

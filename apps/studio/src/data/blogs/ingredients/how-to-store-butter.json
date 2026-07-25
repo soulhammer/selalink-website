@@ -1,0 +1,454 @@
+{
+  "how-to-store-butter": {
+    "ingId": "butter",
+    "pubDate": "2026-06-03",
+    "updatedDate": "2026-06-03",
+    "heroImage": "/images/blog/butter_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "버터 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 버터의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "버터를 냉장고 문 쪽에 두었다가 노랗게 마르고 퀴퀴한 냉장고 잡내를 잔뜩 들이마셔 쓸모없게 된 경험 있으시죠? 오늘 FreshSnap에서는 미국 농무부(USDA)의 공인 가이드를 기반으로, 버터의 산패와 탈취 오염을 철저히 예방하는 과학적 보관법을 전합니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "버터",
+          "과학적으로 검증된 보관 가이드",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Do not store butter in the refrigerator door ⚠️",
+            "desc": "The door is the warmest part and has constant temperature changes, which breaks down the butter structure."
+          },
+          {
+            "title": "Avoid cross-contamination during slicing 🧈",
+            "desc": "Using a wet or dirty knife introduces moisture and bacteria, causing early spoilage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "알루미늄 오리지널 호일 포장 유지하기 — 빛과 산소 차단 📦",
+            "text": "버터의 오리지널 은박(알루미늄) 포장지는 빛과 공기를 강력하게 차단해 산패를 막아주는 매우 우수한 보호재입니다. 이를 버리고 일반 비닐 랩이나 투명 용기에 옮겨 담으면 산화 속도가 훨씬 빨라집니다."
+          },
+          {
+            "name": "밀폐 지퍼백이나 용기에 담아 이중 밀봉하기 — 냉장고 탈취 방지 📰",
+            "text": "호일로 감싼 버터를 그대로 냉장실에 넣으면 주변 음식 냄새를 다 흡수합니다. 반드시 오리지널 포장 상태 그대로 밀폐 지퍼백이나 불투명 밀폐 용기에 담아 2중으로 밀봉하여 보관해야 품미를 온전히 지킬 수 있습니다."
+          },
+          {
+            "name": "소분하여 종이 호일로 감싸 냉동하기 — 냉동 보관 (90일) ❄️",
+            "text": "장기 보관을 원할 때는 1회분(예: 10g~20g)씩 칼로 미리 소분한 뒤 종이 호일로 각각 격리 감싸 지퍼백에 넣어 냉동합니다. 이 방식은 필요할 때마다 한 알씩 꺼내어 상온 해동 후 신속하게 요리에 사용할 수 있어 간편합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
+            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+          },
+          {
+            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
+            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Butter Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Butter based on official safety guidelines.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Have you ever left butter in the fridge door only to have it turn yellow and absorb food odors? Today, FreshSnap shares USDA-verified storage tips to protect its flavor.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Butter",
+          "Scientifically Proven Storage Guide",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Do not store butter in the refrigerator door ⚠️",
+            "desc": "The door is the warmest part and has constant temperature changes, which breaks down the butter structure."
+          },
+          {
+            "title": "Avoid cross-contamination during slicing 🧈",
+            "desc": "Using a wet or dirty knife introduces moisture and bacteria, causing early spoilage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Keep the original aluminum foil wrapper — Block light & oxygen 📦",
+            "text": "The original aluminum foil wrapper of butter is a great barrier that blocks light and air. Throwing it away and moving the butter to transparent containers or plastic wrap speeds up oxidation."
+          },
+          {
+            "name": "Store in a sealed bag or container — Prevent odor absorption 📰",
+            "text": "If you put foil-wrapped butter directly into the fridge, it will absorb surrounding food odors. Always place the foil-wrapped butter inside a Ziploc bag or airtight container for double protection."
+          },
+          {
+            "name": "Slice and wrap in parchment paper to freeze — Freezer storage (90 Days) ❄️",
+            "text": "For long-term storage, cut the butter into single portions (e.g., 10g-20g) and wrap each piece in parchment paper, then place them in a freezer bag. You can quickly thaw one piece at room temp."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
+            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+          },
+          {
+            "question": "How should I handle and store bruised or damaged parts?",
+            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+          }
+        ]
+      },
+      "ja": {
+        "title": "バターの鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくバターの最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+        "intro": "バターを冷蔵庫のドアポケットに入れておいたら、黄色く乾燥したり冷蔵庫のにおいを吸ってしまったりしたことはありませんか？本日, FreshSnapではバターの風味を保つ保存法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "バター",
+          "科学的に検証された保存ガイド",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "冷蔵庫のドアポケットでの保存は避けてください ⚠️",
+            "desc": "ドアポケットは冷蔵庫の開閉で温度変化が最も激しい場所です。温度が頻繁に変わると、バターの組織が緩んで劣化が早まります。"
+          },
+          {
+            "title": "カットする際の二次汚染を防いでください 🧈",
+            "desc": "水気が残ったナイフや他の食材を切った包丁を使うと、断面に雑菌や水分が移り, カビや酸敗の原因になります。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "アルミのオリジナル包装紙のまま保管する —  光と酸素の遮断 📦",
+            "text": "バターの銀紙包装は、光や空気を強力に遮断して酸化を防ぎます。"
+          },
+          {
+            "name": "密閉袋や容器に入れて二重に密閉する — におい移り防止 📰",
+            "text": "アルミで包んだバターをさらに密閉袋に入れ、におい移りを防ぎます。"
+          },
+          {
+            "name": "小分けにしてオーブンシートで包み冷凍する —  冷凍保存 (90日間) ❄️",
+            "text": "バターを1回分ずつ切り、オーブンシートで包んで冷凍保管します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
+            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+          },
+          {
+            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
+            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存黄油：科学储存指南",
+        "description": "根据官方食品安全指南，了解黄油的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+        "intro": "您是否曾把黄油放在冰箱门架上，却发现它发黄干燥且吸附了食物异味？今天，FreshSnap为您分享经验证的黄油保鲜储存诀窍。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "黄油",
+          "科学验证的储存指南",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "切勿将黄油存放在冰箱门架上 ⚠️",
+            "desc": "冰箱门架是温度最高且温度变化最频繁的区域，这会破坏黄油的物理结构并加速变质。"
+          },
+          {
+            "title": "切块时请避免交叉污染 🧈",
+            "desc": "使用潮湿或不洁的刀具会引入水分和细菌，导致黄油过早变质。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "保持原厂铝箔纸包装 — 阻绝光线与氧气 📦",
+            "text": "保持原厂铝箔包装以防氧化。"
+          },
+          {
+            "name": "双重密封 — 防止吸附冰箱异味 📰",
+            "text": "装入密封袋以防异味吸附。"
+          },
+          {
+            "name": "小份切割并用烘焙纸包裹后冷冻 —  冷冻保存 (90天) ❄️",
+            "text": "切小块用纸包好冷冻保存。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "把食材放进冰箱前一定要用水洗吗？",
+            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+          },
+          {
+            "question": "碰伤或腐烂的部分应该如何处理和保存？",
+            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Mantequilla fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Mantequilla según las directrices oficiales de seguridad.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "¿Alguna vez dejó la mantequilla en la puerta del refrigerador y vio que se puso amarilla y absorbió olores? Hoy, FreshSnap comparte consejos de almacenamiento.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Mantequilla",
+          "Guía de almacenamiento científicamente probada",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "No guarde en la puerta del refrigerador ⚠️",
+            "desc": "La puerta es la zona más cálida y tiene fluctuaciones constantes de temperatura, lo que daña la estructura de la mantequilla."
+          },
+          {
+            "title": "Evite la contaminación cruzada al cortar 🧈",
+            "desc": "Usar un cuchillo húmedo o sucio introduce humedad y bacterias, acelerando su descomposición."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Mantener el papel de aluminio original 📦",
+            "text": "El envoltorio original de aluminio es excelente para bloquear la luz y el aire, evitando que se oxide."
+          },
+          {
+            "name": "Doble sellado para evitar olores 📰",
+            "text": "Coloque la mantequilla en una bolsa hermética o recipiente para que no absorba olores de otros alimentos."
+          },
+          {
+            "name": "Cortar en porciones y congelar ❄️",
+            "text": "Para conservar a largo plazo, corte la mantequilla en cubos, envuélvalos en papel encerado y congélelos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
+            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+          },
+          {
+            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
+            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Beurre frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Beurre selon les directives de sécurité officielles.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Avez-vous déjà laissé du beurre dans la porte du frigo pour le retrouver jauni et imprégné d'odeurs ? Aujourd'hui, FreshSnap partage des conseils de stockage.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Beurre",
+          "Guide de conservation scientifiquement prouvé",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Ne stockez pas dans la porte du réfrigérateur ⚠️",
+            "desc": "La porte est la zone la plus chaude et subit des variations constantes de température, ce qui altère la structure du beurre."
+          },
+          {
+            "title": "Évitez la contamination croisée lors de la découpe 🧈",
+            "desc": "Utiliser un couteau humide ou sale introduit de l'humidité et des bactéries, provoquant..."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver l'aluminium d'origine 📦",
+            "text": "L'emballage d'origine en aluminium bloque parfaitement la lumière et l'air, évitant l'oxydation."
+          },
+          {
+            "name": "Double scellage pour éviter les odeurs 📰",
+            "text": "Placez le beurre dans un sac hermétique ou une boîte pour éviter qu'il n'absorbe les odeurs des autres aliments."
+          },
+          {
+            "name": "Couper en portions et congeler ❄️",
+            "text": "Pour conserver à long terme, coupez le beurre en dés, enveloppez-les de papier cuisson et congelez."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
+            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+          },
+          {
+            "question": "Comment gérer et conserver les parties abîmées ?",
+            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Butter frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Butter basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Haben Sie schon einmal Butter in der Kühlschranktür gelassen, nur um festzustellen, dass sie gelb wurde und Gerüche annahm? Heute teilt FreshSnap Tipps.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Butter",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Nicht in der Kühlschranktür lagern ⚠️",
+            "desc": "Die Tür ist der wärmste Ort mit ständigen Temperaturschwankungen, was die Struktur der Butter beeinträchtigt."
+          },
+          {
+            "title": "Kreuzkontamination beim Schneiden vermeiden 🧈",
+            "desc": "Using a wet or dirty knife introduces moisture and bacteria, causing early spoilage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Original-Alufolie behalten 📦",
+            "text": "Die Original-Alufolie schützt hervorragend vor Licht und Luft und verhindert Oxidation."
+          },
+          {
+            "name": "Zweifach versiegeln gegen Gerüche 📰",
+            "text": "Legen Sie die Butter in einen dichten Beutel oder Behälter, damit sie keine Fremdgerüche annimmt."
+          },
+          {
+            "name": "Portionieren und einfrieren ❄️",
+            "text": "Zur langfristigen Lagerung schneiden Sie die Butter in Würfel, wickeln sie in Backpapier und frieren sie ein."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
+            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+          },
+          {
+            "question": "Wie lagert man beschädigte Stellen?",
+            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Manteiga fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Manteiga com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Você já deixou a manteiga na porta da geladeira e viu que ela ficou amarelada e absorveu odores? Hoje, o FreshSnap compartilha dicas de conservação.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Manteiga",
+          "Guia de armazenamento comprovado cientificamente",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Não guarde na porta da geladeira ⚠️",
+            "desc": "A porta é a parte mais quente e tem constantes mudanças de temperatura, o que estraga a estrutura..."
+          },
+          {
+            "title": "Evite a contaminação cruzada ao cortar 🧈",
+            "desc": "Using a wet or dirty knife introduces moisture and bacteria, causing early spoilage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Manter o papel alumínio original 📦",
+            "text": "A embalagem de alumínio original é excelente para bloquear a luz e o ar, evitando a oxidação."
+          },
+          {
+            "name": "Dupla selagem para evitar cheiros 📰",
+            "text": "Coloque a manteiga em um saco hermético ou pote para que não absorva odores de outros alimentos."
+          },
+          {
+            "name": "Cortar em porções e congelar ❄️",
+            "text": "Para conservar a longo prazo, corte a manteiga em cubos, embrulhe em papel manteiga e congele."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
+            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+          },
+          {
+            "question": "Como tratar e guardar partes machucadas?",
+            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Mentega agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Mentega berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Pernahkah Anda menyimpan mentega di pintu kulkas...",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Mentega",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Jangan simpan mentega di pintu kulkas ⚠️",
+            "desc": "The door is the warmest part and has constant temperature changes, which breaks down the butter structure."
+          },
+          {
+            "title": "Hindari kontaminasi silang saat memotong 🧈",
+            "desc": "Using a wet or dirty knife introduces moisture and bacteria, causing early spoilage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pertahankan kertas aluminium asli 📦",
+            "text": "Pembungkus aluminium asli sangat baik untuk menghalangi cahaya dan udara, mencegah oksidasi."
+          },
+          {
+            "name": "Segel ganda untuk mencegah bau 📰",
+            "text": "Masukkan mentega ke dalam kantong atau wadah kedap udara agar tidak menyerap bau makanan lain."
+          },
+          {
+            "name": "Potong menjadi beberapa bagian dan bekukan ❄️",
+            "text": "Untuk penyimpanan jangka panjang, potong mentega menjadi dadu, bungkus dengan kertas roti, lalu bekukan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
+            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+          },
+          {
+            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
+            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+          }
+        ]
+      }
+    }
+  }
+}

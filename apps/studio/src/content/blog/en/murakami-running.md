@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Writer Who Runs 10km Every Morning: Haruki Murakami's Physical Stamina Routine"
 description: "Globally bestselling novelist Haruki Murakami. Discover the neuroscientific principles embedded in his disciplined 10km morning running routine and a 3-step practical guide for modern individuals."
 pubDate: "2026-06-26"
@@ -36,14 +37,14 @@ In today's post, we examine the neuroscientific principles behind Murakami's run
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding murakami-running is based on <strong>Historical critical biographies and autobiographical records of Haruki Murakami & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical critical biographies and autobiographical records of Haruki Murakami & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Neurobiology of Running Maintaining Brain Youthfulness
+## 1. The Neurobiology of Running Maintaining Brain Youthfulness
 
 Writing novels consumes immense amounts of mental energy. Haruki Murakami trained his brain through running to support the arduous mental work of churning out drafts daily.
 
@@ -51,11 +52,7 @@ Sustained aerobic exercise like long-distance running supplies rich oxygen and n
 
 ---
 
-## Neuroscientific Advice for Successful Routine Building
-
-<strong>Consistent repetition builds neural rhythms</strong>
-
-Simple physical activity repeated daily settles into an 'automated routine' that no longer drains willpower. Once this rhythm is ingrained in the brain, it builds a solid physical shield capable of enduring immense cognitive loads during work or writing. Elevate regular exercise to top priority in your life, just like Murakami, and protect your momentum.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,6 +83,14 @@ Simple physical activity repeated daily settles into an 'automated routine' that
     Avoid checking emails or notifications while running. Focus solely on your breathing cadence and the sensation of your feet striking the ground. This mindful run acts as a supreme mental detox, decluttering a crowded mind.
   </p>
 </div>
+
+---
+
+## 3. Neuroscientific Advice for Successful Routine Building
+
+<strong>Consistent repetition builds neural rhythms</strong>
+
+Simple physical activity repeated daily settles into an 'automated routine' that no longer drains willpower. Once this rhythm is ingrained in the brain, it builds a solid physical shield capable of enduring immense cognitive loads during work or writing. Elevate regular exercise to top priority in your life, just like Murakami, and protect your momentum.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

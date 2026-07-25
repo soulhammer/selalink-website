@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le maître de la lumière qui façonnait l'art dans les premiers rayons de l'aube : La routine d'échauffement visuel de Claude Monet"
 description: "Le maître impressionniste Claude Monet se levait à 3h30 chaque matin pour contempler les longueurs d'onde subtiles de la lumière naturelle, stimulant la sensibilité aux couleurs de son cortex visuel. Découvrez sa routine d'« observation de l'aube » et des méthodes neuroscientifiques d'éveil du nerf optique."
 pubDate: "2026-03-31"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons les mécanismes d'activation du ner
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant monet-dawn-light est basée sur <strong>Biographies historiques et récits autobiographiques de Claude Monet et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Claude Monet et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Éveil des cellules ganglionnaires rétiniennes intrinsèquement photosensibles (ipRGCs) et sensibilité au contraste visuel
+## 1. Éveil des cellules ganglionnaires rétiniennes intrinsèquement photosensibles (ipRGCs) et sensibilité au contraste visuel
 
 La lumière naturelle aux longueurs d'onde bleues qui s'étend dans le ciel juste avant le lever du soleil stimule fortement les cellules ganglionnaires rétiniennes intrinsèquement photosensibles (ipRGCs). Cela éveille le noyau suprachiasmatique (NSQ) du cerveau, réprimant la sécrétion de mélatonine et déclenchant la libération de cortisol pour éveiller l'esprit. Simultanément, l'observation de subtiles nuances dans la pénombre maximise la sensibilité au contraste dans le cortex visuel. Un cerveau ainsi préparé atteint un niveau optimal de discrimination cognitive et de créativité.
 
 ---
 
-## Effet de filtre du verre des fenêtres et conseils d'exposition en extérieur
-
-Le verre feuilleté ou à double vitrage moderne réfléchit et bloque jusqu'à 80 % des longueurs d'onde de la lumière naturelle nécessaires pour éveiller le cerveau. Par conséquent, plutôt que de rester derrière des fenêtres fermées, ouvrez complètement la fenêtre ou sortez dans un jardin ou sur un balcon pour exposer votre corps à l'air frais du matin et à la lumière naturelle.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le verre feuilleté ou à double vitrage moderne réfléchit et bloque jusqu'à 
   </p>
 </div>
 
+---
+
+## 3. Effet de filtre du verre des fenêtres et conseils d'exposition en extérieur
+
+Le verre feuilleté ou à double vitrage moderne réfléchit et bloque jusqu'à 80 % des longueurs d'onde de la lumière naturelle nécessaires pour éveiller le cerveau. Par conséquent, plutôt que de rester derrière des fenêtres fermées, ouvrez complètement la fenêtre ou sortez dans un jardin ou sur un balcon pour exposer votre corps à l'air frais du matin et à la lumière naturelle.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'observation de l'aube à travers le verre d'une fenêtre fermée a-t-elle le même effet ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le verre feuilleté ou à double vitrage moderne réfléchit et bloque jusqu'à 
       Lorsque les fenêtres sont fermées, le traitement du verre moderne filtre et réfléchit jusqu'à 80 % des longueurs d'onde bleues et UV essentielles à l'éveil cérébral. Par conséquent, pour stimuler pleinement les cellules ipRGCs rétiniennes et bloquer la mélatonine, ouvrir complètement la fenêtre pour recevoir directement la lumière naturelle offre des bienfaits physiologiques nettement supérieurs.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>L'observation de l'aube est-elle effective les matins nuageux ou pluvieux ?</span>

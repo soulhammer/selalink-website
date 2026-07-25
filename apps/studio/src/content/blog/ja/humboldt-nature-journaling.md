@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "地球全体を有機体と見なした大探検家：アレクサンダー・フォン・フンボルトの現場観察記録ルーティンとリアルタイム作業記憶同期"
 description: "近代生態学と地理学の父アレクサンダー・フォン・フンボルト。南米チンボラソ山を登る過酷な探検現場で、気圧と植物データを即座にノートへ記録し『コスモス』を完成させた彼の認知精密化ルーティンと3段階実践法を紹介します。"
 pubDate: "2026-02-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「humboldt-nature-journaling」は <strong>アンドレア・ウルフ『自然の補完（The Invention of Nature）』史料考証＆認知神経科学（Cognitive Neuroscience）および生態学（Ecology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アンドレア・ウルフ『自然の補完（The Invention of Nature）』史料考証＆認知神経科学（Cognitive Neuroscience）および生態学（Ecology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## リアルタイム感覚入力と作業記憶（Working Memory）の精密同期
+## 1. リアルタイム感覚入力と作業記憶（Working Memory）の精密同期
 
 人間の脳と記憶は時間の経過に伴い、自分が既存の先入観や偏見で収集されたデータを事後合理化し再構成する傾向が強く現れます。フンボルトのリアルタイム現場観察記録法は、外部から入ってくる<strong>「感覚情報（Sensory Input）」</strong>を遅延なく<strong>作業記憶（Working Memory）</strong>とリアルタイムに同期させます。観察した情報と数値を歪みなく現場でテキストとスケッチに構造化すれば、脳は断片的な現象の間に隠された媒介変数と相関関係を捉える<strong>「統合的パターン認知（Pattern Recognition）」</strong>能力を最高水準に維持できるようになります。
 
 ---
 
-## 注意事項：観察と記録のタイムギャップを縮め事後偏向を防止するルール
-
-「後でオフィスに戻ってからまとめて書こう」と観察記録を先延ばしにすると、脳はわずか数時間のうちに核心の細部数値を歪めたり偏向した錯覚へと加工してしまいます。フンボルトの法則のように観察と記録の間のタイムギャップを5分以内に縮める習慣こそが、最も正確な認知地図を作る秘訣です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：観察と記録のタイムギャップを縮め事後偏向を防止するルール
+
+「後でオフィスに戻ってからまとめて書こう」と観察記録を先延ばしにすると、脳はわずか数時間のうちに核心の細部数値を歪めたり偏向した錯覚へと加工してしまいます。フンボルトの法則のように観察と記録の間のタイムギャップを5分以内に縮める習慣こそが、最も正確な認知地図を作る秘訣です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>現場で急いで字を書くため乱筆（悪筆）になっても効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、完璧に効果があります！本ルーティンの核心は整った書体ではなく「感覚入力と作業記憶の即座のテキスト連結」にあります。綺麗な再整理は午後の整理段階で遂行されても十分です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>手で直接書く代わりにデジタル録音や音声メモを使ってもよいですか？</span>

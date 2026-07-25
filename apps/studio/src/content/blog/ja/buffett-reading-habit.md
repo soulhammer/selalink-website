@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "知識の複利効果：ウォーレン・バフェットの1日500ページ読書習慣と認知予備能"
 description: "世界最高の投資家ウォーレン・バフェットの核心的な成功の秘訣である1日500ページの読書習慣。神経回路の結合性強化、認知予備能の構築、パターン認識速度を引き上げる認知神経科学的原理と3ステップの実践法を解き明かします。"
 pubDate: "2026-06-10"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「buffett-reading-habit」は <strong>アリス・シュローダー伝記『The Snowball: Warren Buffett and the Business of Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アリス・シュローダー伝記『The Snowball: Warren Buffett and the Business of Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳の可塑性と白質（White Matter）結合性の強化：知識の複利の認知神経科学
+## 1. 脳の可塑性と白質（White Matter）結合性の強化：知識の複利の認知神経科学
 
 神経科学的研究によると、熟読行為は脳の体性感覚皮質と前頭葉をつなぐ白質（White Matter）神経回路の髄鞘化（Myelination）を促進し、信号伝達効率を極大化します。毎日一定量の長文書籍を継続して読むと、神経可塑性（Neuroplasticity）によって認知予備能（Cognitive Reserve）が蓄積され、加齢による認知機能低下を防止し、新しい高度な情報の処理速度を飛躍的に高めます。また長期記憶に保存された既存の知識シェマ（Schema）と新しく流入する情報が有機的に結合すると、脳は少ない認知的努力だけで複雑な問題の本質的パターンを精密に抽出する「直感的パターン認識」能力を発揮するようになります。
 
 ---
 
-## 注意事項＆ヒント：表面的な受動的読書の排除と長期的持続性の維持
-
-バフェット的知識の複利ルーティンの核心は、目だけでページを素早く目を通すだけの「表面的な速読」ではありません。批判的思索なしに文字を機械的にめくる受動的な読書は、神経回路の結合を促進することができません。たとえ10ページしか読まなくとも、文章の論理的因果関係を深層検証し理解する精読の習慣が要求されます。また、一朝一夕にドカ読みするよりも、毎日決められた時間にスマートフォンを隔離したまま一定量の活字に集中する小さな反復を数年間継続することこそが、知識の複利を発動させる核心条件です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：表面的な受動的読書の排除と長期的持続性の維持
+
+バフェット的知識の複利ルーティンの核心は、目だけでページを素早く目を通すだけの「表面的な速読」ではありません。批判的思索なしに文字を機械的にめくる受動的な読書は、神経回路の結合を促進することができません。たとえ10ページしか読まなくとも、文章の論理的因果関係を深層検証し理解する精読の習慣が要求されます。また、一朝一夕にドカ読みするよりも、毎日決められた時間にスマートフォンを隔離したまま一定量の活字に集中する小さな反復を数年間継続することこそが、知識の複利を発動させる核心条件です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>忙しい社会人がウォーレン・バフェットのように1日500ページの読書量を達成できる現実的な方法はありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       最初から500ページを読むことは不可能です。バフェットもまた数十年間にわたり形成された読書神経回路が構築されているからこそ可能な数値です。重要なのは「ページ数」という数字自体ではなく、毎日20〜30ページずつでもコツコツと活字を熟読し思考する認知的習慣の持続性にあります。通勤時間や起床直後の30分を読書に固定投入するだけでも、数年後には強力な知識の複利効果を得ることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>紙の本の代わりに電子書籍（E-Book）やオーディオブックを活用しても、知識の複利効果は同様に作動しますか？</span>

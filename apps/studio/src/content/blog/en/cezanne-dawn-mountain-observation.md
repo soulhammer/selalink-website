@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sensing the Geometry of Light: Paul Cézanne's Morning Natural Light Observation and SCN Arousal Routine"
 description: "Discover how Paul Cézanne, father of modern art, walked toward Mount Sainte-Victoire at 6 AM daily to observe shifting light and form. Explore the neuroscientific principles of morning light stimulating the suprachiasmatic nucleus (SCN) and visual cortex sensitivity."
 pubDate: "2026-04-06"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Paul Cézanne's 'mornin
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding cezanne-dawn-mountain-observation is based on <strong>Historical Verification from Alex Danchev's Biography *Cézanne: A Life* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Alex Danchev's Biography *Cézanne: A Life* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Morning Natural Light Exposure, SCN Arousal, and Visual Cortex Cognitive Neurology
+## 1. Morning Natural Light Exposure, SCN Arousal, and Visual Cortex Cognitive Neurology
 
 Natural light emitted between 6 AM and 8 AM is rich in the blue-light spectrum (460–480 nm), which strongly stimulates intrinsically photosensitive retinal ganglion cells (ipRGCs). Signals travel directly to the master circadian pacemaker—the Suprachiasmatic Nucleus (SCN) in the hypothalamus—suppressing melatonin secretion while promoting healthy cortisol production to wake the brain fully. Furthermore, obsessively tracking geometric patterns, shadow boundaries, and luminance contrasts—as Cézanne did—selectively fires neurons in the V1 and V4 regions of the visual cortex. This state of visual arousal clears cognitive fatigue, elevates perceptual sensitivity, and fosters creative associative synthesis.
 
 ---
 
-## Caution & Tips: Preserving Unshielded Natural Light Input & Blocking Artificial Screens
-
-When performing this morning observation routine, avoid wearing sunglasses or staring at smartphone screens while walking. Sunglasses block the specific blue-wavelength light required by ipRGCs to trigger SCN circadian resets. Furthermore, looking at artificial light and distracting text on smartphones induces 'Cognitive Tunneling', trapping your visual cortex in a narrow focus and destroying the restorative arousal effect. Keep your eyes unshielded and gaze broadly across natural vistas to absorb pure sunlight directly.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When performing this morning observation routine, avoid wearing sunglasses or st
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Preserving Unshielded Natural Light Input & Blocking Artificial Screens
+
+When performing this morning observation routine, avoid wearing sunglasses or staring at smartphone screens while walking. Sunglasses block the specific blue-wavelength light required by ipRGCs to trigger SCN circadian resets. Furthermore, looking at artificial light and distracting text on smartphones induces 'Cognitive Tunneling', trapping your visual cortex in a narrow focus and destroying the restorative arousal effect. Keep your eyes unshielded and gaze broadly across natural vistas to absorb pure sunlight directly.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Should I go outdoors to observe even on overcast, rainy, or polluted days?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When performing this morning observation routine, avoid wearing sunglasses or st
       Even on overcast days, outdoor light levels range between 1,000 and 2,000 lux—far brighter than typical indoor lighting (300–500 lux). Thus, walking outside on cloudy days still effectively suppresses melatonin and triggers SCN arousal. However, during extreme air pollution, substitute with window observation, standing right by an open window or balcony looking outside.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can non-artists or office knowledge workers benefit from Cézanne's visual observation routine?</span>

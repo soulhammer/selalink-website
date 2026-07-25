@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El milagro de las tijeras en la cama: El método de recortes de Henri Matisse para superar el dolor"
 description: "Henri Matisse, referente de la historia del arte. Descubra cómo superó el dolor y creó obras maestras desde la cama tras una cirugía de cáncer en su vejez usando tijeras para cortar papel, y conozca la ciencia cognitiva detrás de la curación visuotáctil."
 pubDate: "2026-05-17"
@@ -38,14 +39,14 @@ En la publicación de hoy, exploramos la ciencia de la relajación visuotáctil 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre matisse-paper-cutout se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Henri Matisse e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Henri Matisse e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Retroalimentación visuotáctil para mitigar el dolor y estimular la neuroplasticidad
+## 1. Retroalimentación visuotáctil para mitigar el dolor y estimular la neuroplasticidad
 
 Cuando el cerebro experimenta dolor físico o estrés agudo, descansar pasivamente mantiene la atención fija en los circuitos del dolor.
 
@@ -53,9 +54,7 @@ Actividades de motricidad fina como recortar papel con tijeras —como hacía Ma
 
 ---
 
-## La creación al alcance de la mano cura el cerebro fatigado
-
-En la actualidad, acumulamos fatiga visual con la navegación pasiva en redes sociales. Adopte un ritual táctil como el de Matisse —aunque sea una vez por semana— usando tijeras para cortar papel de colores en formas libres y organizándolas en una libreta o pared. Es un método excelente de desintoxicación mental y sensorial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ En la actualidad, acumulamos fatiga visual con la navegación pasiva en redes so
   </p>
 </div>
 
+---
+
+## 3. La creación al alcance de la mano cura el cerebro fatigado
+
+En la actualidad, acumulamos fatiga visual con la navegación pasiva en redes sociales. Adopte un ritual táctil como el de Matisse —aunque sea una vez por semana— usando tijeras para cortar papel de colores en formas libres y organizándolas en una libreta o pared. Es un método excelente de desintoxicación mental y sensorial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Pueden beneficiarse de los recortes los principiantes sin talento artístico?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ En la actualidad, acumulamos fatiga visual con la navegación pasiva en redes so
       Sí. La calidad artística del resultado no importa. El beneficio real reside en la estimulación táctil de las tijeras y la entrada visual de los colores deslumbrantes. Este proceso distrae el dolor e impulsa la neuroplasticidad, sin importar cuán toscas sean las formas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué tal usar plastilina o una aplicación de dibujo en lugar de recortar papel?</span>

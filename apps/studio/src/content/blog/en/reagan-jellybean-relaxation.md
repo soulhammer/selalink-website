@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "White House Secret Candy? Ronald Reagan's Jellybean Mastication Stress Relief"
 description: "Ronald Reagan, the 40th President of the United States, ate jellybeans in the Oval Office to quit smoking and manage stress. Learn the neuroscientific principles of how mastication affects emotion."
 pubDate: "2026-04-25"
@@ -36,14 +37,14 @@ Today's post introduces the science behind President Reagan's jellybean cognitiv
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding reagan-jellybean-relaxation is based on <strong>Historical biography and autobiographical records of Ronald Reagan & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography and autobiographical records of Ronald Reagan & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mastication and Sensory Substitution for Calming the Amygdala
+## 1. Mastication and Sensory Substitution for Calming the Amygdala
 
 Repetitive mastication (chewing) activates the trigeminal nerve in the brain, inhibiting the amygdala, which governs fear and stress. This stabilizes the pulse and rapidly lowers cortisol secretion.
 
@@ -51,9 +52,7 @@ At the same time, when a strong addictive craving strikes—such as the urge to 
 
 ---
 
-## Be Mindful of Sugar Intake for Dental Health
-
-Eating too many jellybeans like Reagan did can harm health through tooth decay or excessive sugar intake. It is recommended to use sugar-free gum, sugar-free gummies, or nuts (almonds, walnuts) as alternatives to safely enjoy only the relaxation effect of chewing.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Eating too many jellybeans like Reagan did can harm health through tooth decay o
   </p>
 </div>
 
+---
+
+## 3. Be Mindful of Sugar Intake for Dental Health
+
+Eating too many jellybeans like Reagan did can harm health through tooth decay or excessive sugar intake. It is recommended to use sugar-free gum, sugar-free gummies, or nuts (almonds, walnuts) as alternatives to safely enjoy only the relaxation effect of chewing.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How long do I need to chew for mastication to effectively reduce stress?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Eating too many jellybeans like Reagan did can harm health through tooth decay o
       Neurophysiological research shows that cortisol levels begin to decrease and brainwaves start shifting to relaxing alpha waves about 2 to 3 minutes after chewing begins. Therefore, maintaining calm focus on chewing for at least 2 to 3 minutes is key to seeing benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is there a scientific mechanism behind mastication helping to suppress smoking urges or binge eating?</span>

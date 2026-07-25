@@ -1,216 +1,318 @@
 {
   "rockefeller-red-notebook": {
-    "title": {
-      "ko": "1센트의 낭비도 허용하지 않은 석유왕? 존 D. 록펠러의 실시간 미세 기록법",
-      "en": "The Oil Tycoon Who Allowed Not Even a 1-Cent Waste? John D. Rockefeller's Real-time Micro-tracking Method",
-      "ja": "1セントの無駄も許さなかった石油王？ジョン・D・ロックフェラーのリアルタイム微細記録法",
-      "zh": "1美分浪费也不允许的石油大王？约翰·D·洛克菲勒的实时微观记录法",
-      "es": "¿El magnate del petróleo que no permitía ni un centavo de desperdicio? El método de microregistro en tiempo real de John D. Rockefeller",
-      "de": "Der Ölbaron, der nicht einen Cent Verschwendung duldete? John D. Rockefellers Echtzeit-Mikro-Tracking-Methode",
-      "fr": "Le magnat du pétrole qui ne tolérait pas le moindre centime de gaspillage ? La méthode de micro-enregistrement en temps réel de John D. Rockefeller",
-      "pt": "O magnata do petróleo que não permitia nem 1 centavo de desperdício? O método de micro-registro em tempo real de John D. Rockefeller",
-      "id": "Raja Minyak yang Tidak Mengizinkan Pemborosan 1 Sen Pun? Metode Catatan Mikro Real-time John D. Rockefeller"
-    },
-    "description": {
-      "ko": "세계 역사상 최고의 부자로 꼽히는 존 D. 록펠러. 지갑 속에 빨간 미니 수첩을 지니며 소소한 소비와 계획을 즉시 기록했던 그의 전두엽 실행 제어망 각성 원리와 아날로그 수첩 활용법을 배워봅니다.",
-      "en": "John D. Rockefeller, considered the wealthiest individual in world history. Learn how carrying a small red notebook in his pocket to immediately log minor expenses and plans awakened his prefrontal executive control network, and how to utilize analog notebooks.",
-      "ja": "世界史上最高の富豪とされるジョン・D・ロックフェラー。ポケットの中に赤いミニ手帳を忍ばせ、些細な出費や計画を即座に記録した彼の前頭葉実行制御ネットワークの覚醒原理と、アナログ手帳の活用法を学びます。",
-      "zh": "被视为世界史上首富的约翰·D·洛克菲勒。了解他在口袋里随身携带一本红色小手册、随时记录微小开销与计划以唤醒前额叶执行控制网络的原理，以及纸质手册的使用技巧。",
-      "es": "John D. Rockefeller, considerado la persona más rica de la historia. Aprenda cómo llevar una libreta roja en su bolsillo para registrar de inmediato pequeños gastos y planes activaba su red de control ejecutivo prefrontal, y cómo utilizar cuadernos analógicos.",
-      "de": "John D. Rockefeller, der als reichste Person der Weltgeschichte gilt. Erfahren Sie, wie das Mitführen eines kleinen roten Notizbuchs zur sofortigen Erfassung kleiner Ausgaben das präfrontale exekutive Kontrollnetzwerk stimulierte.",
-      "fr": "John D. Rockefeller, considéré comme l'homme le plus riche de l'histoire. Découvrez comment le fait de garder un petit carnet rouge en poche pour noter immédiatement la moindre dépense stimulait son réseau de contrôle exécutif préfrontal.",
-      "pt": "John D. Rockefeller, considerado o homem mais rico da história. Aprenda como carregar um pequeno caderno vermelho no bolso para registrar imediatamente pequenas despesas e planos ativava sua rede de controle executivo pré-frontal.",
-      "id": "John D. Rockefeller, yang dianggap sebagai orang terkaya sepanjang sejarah dunia. Pelajari bagaimana membawa buku catatan kecil berwarna merah di saku untuk langsung mencatat pengeluaran kecil dan rencana mampu membangunkan jaringan kontrol eksekutif prefrontal."
-    },
-    "authority": {
-      "ko": "존 D. 록펠러 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical biography and autobiographical records of John D. Rockefeller & Cognitive Neuroscience research",
-      "ja": "ジョン・D・ロックフェラーの歴史的評伝および自伝的記録の考証と認知神経科学（Cognitive Neuroscience）の研究",
-      "zh": "约翰·D·洛克菲勒历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Investigación basada en biografías históricas y autobiografías de John D. Rockefeller y estudios de Neurociencia Cognitiva",
-      "de": "Historische Biografie und autobiografische Aufzeichnungen von John D. Rockefeller & Forschung der kognitiven Neurowissenschaften",
-      "fr": "Étude basée sur la biographie historique et l'autobiographie de John D. Rockefeller et les recherches en neurosciences cognitives",
-      "pt": "Pesquisa baseada na biografia histórica e autobiografia de John D. Rockefeller e estudos de Neurociência Cognitiva",
-      "id": "Penelitian berdasarkan biografi historis dan catatan autobiografi John D. Rockefeller & riset Neurosains Kognitif"
-    },
-    "intro": {
-      "ko": "스탠더드 오일을 설립하여 전무후무한 대기업을 일구고, 인류 역사상 가장 막대한 개인 재산을 축적한 전설적인 기업가이자 미국 석유 산업의 거인 존 D. 록펠러(John D. Rockefeller). 철저한 경영 시스템과 현대식 자선 재단의 기틀을 마련한 그의 철두철미한 계획성과 추진력은 과연 어디서 출발했을까요? 📕\n\n록펠러는 어린 시절 어머니로부터 선물 받은 빨간색 소형 장부 수첩(Ledger A)을 평생 호주머니에 소지하고 다녔습니다. 그는 1센트의 소액 지출, 누군가에게 건넨 기부금, 그리고 비즈니스 미팅 시간이나 당일 완수해야 할 목표 목록들을 현장 상황이 발생하는 즉시 그 자리에서 수첩을 꺼내 한 땀 한 땀 기록했습니다. 록펠러는 위대한 부와 흔들리지 않는 주의력은 이처럼 미세한 자원의 흐름을 실시간으로 인지 통제하는 일상 습관에서 만들어진다고 확신했습니다. 이 실시간 기록법은 그가 수많은 대외 스트레스 속에서도 뇌를 명료하게 유지하고 실수를 원천 차단하는 방패가 되었습니다.\n\n오늘 포스트에서는 록펠러가 실천했던 '실시간 아날로그 미세 기록' 루틴의 인지과학적 가치와 현대인을 위한 실천 가이드를 알아봅니다.",
-      "en": "John D. Rockefeller, the legendary entrepreneur who founded Standard Oil, built an unprecedented enterprise, and accumulated the largest personal fortune in human history. Where did his flawless planning and drive, which laid the foundations for modern management systems and philanthropic foundations, originate? 📕\n\nThroughout his life, Rockefeller carried in his pocket a small red ledger notebook ('Ledger A') given to him by his mother in his youth. The instant a transaction or event occurred, he pulled out his notebook to record every 1-cent expense, donation, meeting time, or daily goal. Rockefeller was convinced that immense wealth and unwavering focus were built on daily habits of real-time cognitive control over resource flows. This real-time tracking method served as his shield, keeping his mind crystal clear and preventing errors amid overwhelming stress.\n\nToday's post explores the cognitive science value of Rockefeller's real-time analog micro-tracking routine and provides a practical guide for modern individuals.",
-      "ja": "スタンダード・オイルを設立して空前絶大の大企業を育て上げ、人類史上最も莫大な個人財産を蓄積した伝説的起業家であり、アメリカ石油産業の巨人ジョン・D・ロックフェラー（John D. Rockefeller）。徹底した経営システムと現代的慈善財団の基礎を築いた彼の徹底した計画性と推進力は、一体どこから出発したのでしょうか？ 📕\n\nロックフェラーは幼少期に母親からプレゼントされた赤い小型帳簿手帳（Ledger A）を生涯ポケットに入れて持ち歩きました。彼は1セントの些細な支出、誰かに渡した寄付金、そしてビジネスミーティングの時間や当日完遂すべき目標リストを、状況が発生したその場で手帳を取り出して1つ1つ丁寧に記録しました。ロックフェラーは、偉大な富と揺るぎない注意力は、このように微細なリソースの流出入をリアルタイムで認知制御する日常習慣から作られると確信していました。このリアルタイム記録法は、彼が数多くのストレスの中でも脳を明瞭に保ち、ミスを根本遮断する盾となりました。\n\n本記事では、ロックフェラーが実践した「リアルタイム・アナログ微細記録」ルーティンの認知科学的価値と現代人のための実践ガイドを解説します。",
-      "zh": "约翰·D·洛克菲勒（John D. Rockefeller）建立了标准石油公司，创办了前所未有的超级大企业，并积累了人类历史上最庞大的个人财富。他开创了严密的管理体系与现代慈善基金会的雏形，其滴水不漏的计划力与推进力究竟源自何处？ 📕\n\n洛克菲勒终生随身口袋里都装着年幼时母亲赠送的一本红色小型账簿手册（Ledger A）。无论是一美分的微小开支、捐赠给某人的善款，还是商务会议的时间与当天必须完成的目标清单，一旦事件发生，他都会当场掏手册一笔一划地记录下来。洛克菲勒坚信，宏大的财富与不可动摇的专注力正是源自这种实时认知并控制微观资源流向的日常习惯。这种实时记录法成了他在巨大的外部压力下依然保持大脑清醒、从源头杜绝失误的坚固盾牌。\n\n今天的文章将深入探讨洛克菲勒所实践的“实时纸质微观记录”常规的认知科学价值，并为现代人提供实操指南。",
-      "es": "John D. Rockefeller, el legendario empresario que fundó Standard Oil, construyó una empresa sin precedentes y acumuló la mayor fortuna personal de la historia de la humanidad. ¿De dónde surgieron su impecable planificación y empuje? 📕\n\nDurante toda su vida, Rockefeller llevó en su bolsillo un pequeño libro de contabilidad rojo ('Ledger A') que le regaló su madre en su juventud. Registraba de inmediato cada gasto de 1 centavo, donaciones, horarios de reuniones y metas del día. Rockefeller estaba convencido de que la gran riqueza y la concentración inquebrantable se construían a partir de hábitos diarios de control cognitivo en tiempo real sobre los recursos. Este método de registro en tiempo real le sirvió de escudo para mantener la mente despejada y evitar errores.\n\nLa publicación de hoy explora el valor neurocientífico de la rutina de microregistro analógico en tiempo real de Rockefeller.",
-      "de": "John D. Rockefeller, der legendäre Unternehmer, der Standard Oil gründete und das größte Privatvermögen der Menschheitsgeschichte anhäufte. Woher stammte seine makellose Planung? 📕\n\nSein ganzes Leben lang trug Rockefeller ein kleines rotes Hauptbuch ('Ledger A') in der Tasche, das ihm seine Mutter in der Jugend geschenkt hatte. Er trug jeden 1-Cent-Betrag, jede Spende und jedes Tagesziel sofort vor Ort ein. Rockefeller war überzeugt, dass großer Wohlstand und unerschütterlicher Fokus auf dem täglichen Echtzeit-Tracking beruhen.\n\nDer heutige Beitrag beleuchtet den kognitionswissenschaftlichen Wert von Rockefellers Echtzeit-Mikro-Tracking-Routine.",
-      "fr": "John D. Rockefeller, le légendaire entrepreneur qui a fondé Standard Oil et accumulé la plus grande fortune personnelle de l'histoire. D'où venaient sa planification sans faille et sa détermination ? 📕\n\nToute sa vie, Rockefeller a conservé dans sa poche un petit livre de comptes rouge ('Ledger A') offert par sa mère dans sa jeunesse. Il y notait sur-le-champ la moindre dépense de 1 centime, les dons et ses objectifs du jour. Rockefeller était convaincu qu'une immense richesse et une attention inébranlable reposent sur le contrôle cognitif en temps réel des ressources.\n\nL'article d'aujourd'hui explore la valeur en sciences cognitives de la routine de micro-enregistrement analogique en temps réel de Rockefeller.",
-      "pt": "John D. Rockefeller, o lendário empresário que fundou a Standard Oil e acumulou a maior fortuna pessoal da história. De onde vinham seu planejamento impecável e sua determinação? 📕\n\nAo longo da vida, Rockefeller carregou no bolso um pequeno livro de contabilidade vermelho ('Ledger A') presenteado por sua mãe na juventude. Ele anotava imediatamente cada despesa de 1 centavo, doações e metas diárias. Rockefeller estava convencido de que a grande riqueza e o foco inabalável eram construídos a partir de hábitos diários de controle cognitivo em tempo real sobre os recursos.\n\nO artigo de hoje explora o valor da neurociência por trás da rotina de micro-registro analógico em tempo real de Rockefeller.",
-      "id": "John D. Rockefeller, pengusaha legendaris yang mendirikan Standard Oil dan mengumpulkan kekayaan pribadi terbesar sepanjang sejarah manusia. Dari mana datangnya perencanaan dan dorongan tanpa celahnya? 📕\n\nSepanjang hidupnya, Rockefeller membawa buku catatan akuntansi kecil berwarna merah ('Ledger A') hadiah dari ibunya sewaktu muda. Ia mencatat setiap pengeluaran 1 sen, donasi, dan target harian secara langsung di tempat. Rockefeller yakin bahwa kekayaan besar dan fokus tak tergoyahkan dibangun dari kebiasaan kontrol kognitif real-time terhadap sumber daya.\n\nArtikel hari ini membahas nilai sains kognitif dari rutinitas catatan mikro analog real-time Rockefeller."
-    },
-    "whyTitle": {
-      "ko": "실시간 기록(Real-time Tracking)과 전두엽 실행 제어망 활성화",
-      "en": "Real-time Tracking and Activation of the Prefrontal Executive Control Network",
-      "ja": "リアルタイム記録（Real-time Tracking）と前頭葉実行制御ネットワークの活性化",
-      "zh": "实时记录（Real-time Tracking）与前额叶执行控制网络的激活",
-      "es": "Registro en tiempo real (Real-time Tracking) y activación de la red de control ejecutivo prefrontal",
-      "de": "Echtzeit-Tracking (Real-time Tracking) und Aktivierung des präfrontalen exekutiven Kontrollnetzwerks",
-      "fr": "Suivi en temps réel (Real-time Tracking) et activation du réseau de contrôle exécutif préfrontal",
-      "pt": "Registro em tempo real (Real-time Tracking) e ativação da rede de controle executivo pré-frontal",
-      "id": "Pencatatan Real-time (Real-time Tracking) dan Aktivasi Jaringan Kontrol Eksekutif Prefrontal"
-    },
-    "whyDesc": {
-      "ko": "행동이나 지출이 일어난 즉시 그 자리에서 수치와 내용을 수동으로 수첩에 기록(Real-time Micro-tracking)하는 행위는 뇌의 전두엽 인지 실행 제어망(Executive Control Network)을 강하게 자극합니다. 이는 자극에 즉각적이고 충동적으로 반응하지 않도록 지연시키는 자기 조절력(Self-Regulation)을 활성화하며, 장기적으로 행동 제어를 조율하는 뇌 가소성을 대폭 강화하여 주의 집중력과 충동 억제 능력을 영구적으로 극대화해 줍니다.",
-      "en": "Manually logging numbers and details in a notebook the moment a behavior or expense occurs (real-time micro-tracking) strongly stimulates the brain's prefrontal executive control network. This activates self-regulation, delaying impulsive reactions to stimuli, and significantly enhances brain plasticity for long-term behavioral control and impulse suppression.",
-      "ja": "行動や支出が発生した即座にその場で数値と内容を手動で手帳に記録する（Real-time Micro-tracking）行為は、脳の前頭葉認知実行制御ネットワーク（Executive Control Network）を強力に刺激します。これは刺激に即座かつ衝動的に反応しないよう遅延させる自己調節力（Self-Regulation）を活性化し、長期的に行動制御を調整する脳可塑性を大幅に強化して注意力と衝動抑制能力を極大化させます。",
-      "zh": "在行为或开支发生的当下立即手动将数字和内容记录在手册中（Real-time Micro-tracking），能够强烈刺激大脑前额叶的认知执行控制网络（Executive Control Network）。这会激活延迟对刺激做出即时冲动反应的自我调节能力（Self-Regulation），并大幅增强长期调节行为控制的大脑可塑性，使注意力与冲动抑制能力得到极大提升。",
-      "es": "Registrar manualmente números y detalles en un cuaderno inmediatamente después de que ocurra una acción o gasto estimula fuertemente la red de control ejecutivo prefrontal del cerebro. Esto activa la autorregulación, frenando reacciones impulsivas y mejorando la neuroplasticidad para el control del comportamiento a largo plazo.",
-      "de": "Das manuelle Erfassen von Zahlen und Details in einem Notizbuch unmittelbar nach einer Handlung oder Ausgabe stimuliert das präfrontale exekutive Kontrollnetzwerk des Gehirns stark. Dies aktiviert die Selbstregulierung, verzögert impulsive Reaktionen und stärkt die Gehirnplastizität für Verhaltenskontrolle.",
-      "fr": "Consigner manuellement des chiffres et détails dans un carnet dès qu'une action ou dépense survient stimule fortement le réseau de contrôle exécutif préfrontal du cerveau. Cela active l'autorégulation, retardant les réactions impulsives et renforçant la plasticité cérébrale pour le contrôle du comportement.",
-      "pt": "Registrar manualmente números e detalhes em um caderno no momento em que ocorrem estimula fortemente a rede de controle executivo pré-frontal do cérebro. Isso ativa a autorregulação, retardando reações impulsivas e aumentando a plasticidade cerebral para controle comportamental.",
-      "id": "Mencatat angka dan detail secara manual di buku catatan saat tindakan atau pengeluaran terjadi secara langsung menstimulasi jaringan kontrol eksekutif prefrontal otak. Ini mengaktifkan regulasi diri, menunda reaksi impulsif, dan meningkatkan plastisitas otak untuk kontrol perilaku."
-    },
-    "cautionTitle": {
-      "ko": "디지털 기록의 함정과 아날로그 즉시 기록의 팁",
-      "en": "Pitfalls of Digital Logging vs. Tips for Analog Real-time Micro-tracking",
-      "ja": "デジタル記録の落とし穴とアナログ即時記録のコツ",
-      "zh": "数字记录的陷阱与纸质即时记录的技巧",
-      "es": "Peligros del registro digital frente a consejos para el microregistro analógico en tiempo real",
-      "de": "Fallen der digitalen Erfassung vs. Tipps für analoges Echtzeit-Mikro-Tracking",
-      "fr": "Pièges du suivi numérique et conseils pour le micro-enregistrement analogique en temps réel",
-      "pt": "Armadilhas do registro digital vs. dicas para o micro-registro analógico em tempo real",
-      "id": "Jebakan Catatan Digital vs Tips Catatan Mikro Analog Real-time"
-    },
-    "cautionDesc": {
-      "ko": "스마트폰의 메모장이나 가계부 앱에 기록할 경우, 폰을 켜는 순간 쏟아지는 수많은 소셜 미디어 알림이나 뉴스가 뇌를 인지적 스트레스에 다시 노출시킵니다. 또한 앱 기록은 미학적 느낌을 전달하기 어려워 뇌의 만족 중추를 자극하지 못합니다. 지갑 속에 쏙 들어가는 예쁜 빨간색 소형 수첩과 연필을 항시 소지하여, 앱을 켜지 않고 5초 이내에 수기로 적을 수 있는 물리적 흐름을 구성할 때 뇌가 가장 명확히 인지 오프로딩을 실현합니다.",
-      "en": "When logging in smartphone apps, the deluge of social media notifications or news upon turning on the phone exposes the brain to cognitive stress. Moreover, app entries lack tactile aesthetics that stimulate the brain's satisfaction center. Carrying a small red notebook and pencil in your wallet to write down entries by hand within 5 seconds without turning on an app enables the clearest cognitive offloading.",
-      "ja": "スマートフォンのメモ帳や家計簿アプリに記録する場合、スマホを点けた瞬間に押し寄せる多数のSNS通知やニュースが脳を認知的なストレスに再び露出させます。またアプリの記録は美学的な感覚を伝えにくく、脳の満足中枢を刺激できません。財布にすっぽり収まる小ぶりの赤い手帳と鉛筆を常時携帯し、アプリを開かずに5秒以内に手書きできる物理的フローを構成する時、脳が最も明確に認知オフローディングを実現します。",
-      "zh": "如果在手机备忘录或记账APP中进行记录，点亮屏幕瞬间涌现的大量社交媒体通知或新闻会使大脑重新暴露于认知压力之下。此外，APP记录很难传递美感触觉，无法刺激大脑的满足中枢。在钱包里随身装一本精美的红色小型手册和铅笔，构建不必打开APP即可在5秒内手写记录的物理流程时，大脑才能最清晰地实现认知卸载（Offloading）。",
-      "es": "Al registrar datos en aplicaciones de teléfonos inteligentes, la avalancha de notificaciones o noticias expone al cerebro a un estrés cognitivo inmediato. Llevar un pequeño cuaderno rojo y un lápiz en el bolsillo para anotar a mano en 5 segundos sin encender una aplicación permite la descarga cognitiva más clara.",
-      "de": "Beim Erfassen in Smartphone-Apps setzt die Flut von Benachrichtigungen das Gehirn erneut kognitivem Stress aus. Das Mitführen eines kleinen roten Notizbuchs und Stifts zur handschriftlichen Erfassung innerhalb von 5 Sekunden ermöglicht die effektivste kognitive Entlastung.",
-      "fr": "Consigner dans des applications de smartphone expose le cerveau à un stress cognitif dû au flux de notifications. Garder un petit carnet rouge et un crayon pour noter à la main en 5 secondes sans allumer d'application offre la décharge cognitive la plus nette.",
-      "pt": "Registrar em aplicativos de smartphone expõe o cérebro ao estresse cognitivo com a enxurrada de notificações. Carregar um pequeno caderno vermelho e lápis para anotar à mão em 5 segundos sem ligar um aplicativo permite o descarregamento cognitivo mais claro.",
-      "id": "Saat mencatat di aplikasi ponsel, gempuran notifikasi atau berita langsung memaparkan otak pada stres kognitif. Membawa buku catatan kecil berwarna merah dan pensil untuk mencatat tangan dalam 5 detik tanpa menyalakan aplikasi memungkinkan pelepasan beban kognitif yang paling jelas."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "빨간 포켓 아날로그 수첩 소지",
-          "en": "Carry a Small Red Pocket Notebook",
-          "ja": "赤いポケット・アナログ手帳の携帯",
-          "zh": "随身携带红色袖珍纸质手册",
-          "es": "Llevar una pequeña libreta roja de bolsillo",
-          "de": "Führen Sie ein kleines rotes Taschennotizbuch mit",
-          "fr": "Conserver un petit carnet de poche rouge",
-          "pt": "Carregar um pequeno caderno vermelho de bolso",
-          "id": "Membawa Buku Catatan Analog Merah Saku"
-        },
-        "text": {
-          "ko": "항상 스마트폰 옆이나 호주머니 속에 쏙 들어가는 한 손 크기의 아날로그 수첩(빨간색 가죽이나 커버 추천)과 미니 펜을 지니고 다닙니다. 기록을 즉시 개시하기 위한 물리적 환경을 구축하는 첫 단계입니다.",
-          "en": "Always carry a palm-sized analog notebook (red cover recommended) and a mini pen in your pocket or alongside your phone. This builds the physical setup for immediate logging.",
-          "ja": "常にスマートフォンの隣やポケットの中にすっぽり入る片手サイズのアナログ手帳（赤い革やカバーを推奨）とミニペンを持ち歩きます。記録を即座に開始するための物理的環境を構築する第一段階です。",
-          "zh": "随时在口袋里或手机旁装一本单手大小的纸质手册（推荐红色皮质或封面）和一支微型笔。这是构建即时记录物理环境的第一步。",
-          "es": "Lleve siempre una libreta analógica del tamaño de la palma de la mano (se recomienda cubierta roja) y un minibolígrafo en el bolsillo. Esto crea el entorno físico para registrar de inmediato.",
-          "de": "Tragen Sie stets ein handgroßes analoges Notizbuch (rotes Cover empfohlen) und einen Stift in der Tasche. Dies ist der erste Schritt zur Schaffung einer physischen Umgebung für sofortige Aufzeichnungen.",
-          "fr": "Conservez toujours un carnet analogique format paume (couverture rouge recommandée) et un mini-stylo dans votre poche. C'est la première étape pour créer un environnement physique favorable à la prise de note immédiate.",
-          "pt": "Carregue sempre um caderno analógico do tamanho da palma da mão (capa vermelha recomendada) e uma caneta no bolso. Essa é a primeira etapa para criar o ambiente físico para registro imediato.",
-          "id": "Selalu bawa buku catatan analog seukuran telapak tangan (disarankan sampul merah) dan pena mini di saku Anda. Ini adalah langkah pertama membangun lingkungan fisik untuk pencatatan langsung."
-        }
+    "pubDate": "2026-06-24",
+    "updatedDate": "2026-06-24",
+    "heroImage": "/images/blog/rockefeller_red_notebook.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "1센트의 낭비도 허용하지 않은 석유왕? 존 D. 록펠러의 실시간 미세 기록법",
+        "description": "세계 역사상 최고의 부자로 꼽히는 존 D. 록펠러. 지갑 속에 빨간 미니 수첩을 지니며 소소한 소비와 계획을 즉시 기록했던 그의 전두엽 실행 제어망 각성 원리와 아날로그 수첩 활용법을 배워봅니다.",
+        "authority": "존 D. 록펠러 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "스탠더드 오일을 설립하여 전무후무한 대기업을 일구고, 인류 역사상 가장 막대한 개인 재산을 축적한 전설적인 기업가이자 미국 석유 산업의 거인 존 D. 록펠러(John D. Rockefeller). 철저한 경영 시스템과 현대식 자선 재단의 기틀을 마련한 그의 철두철미한 계획성과 추진력은 과연 어디서 출발했을까요? 📕\n\n록펠러는 어린 시절 어머니로부터 선물 받은 빨간색 소형 장부 수첩(Ledger A)을 평생 호주머니에 소지하고 다녔습니다. 그는 1센트의 소액 지출, 누군가에게 건넨 기부금, 그리고 비즈니스 미팅 시간이나 당일 완수해야 할 목표 목록들을 현장 상황이 발생하는 즉시 그 자리에서 수첩을 꺼내 한 땀 한 땀 기록했습니다. 록펠러는 위대한 부와 흔들리지 않는 주의력은 이처럼 미세한 자원의 흐름을 실시간으로 인지 통제하는 일상 습관에서 만들어진다고 확신했습니다. 이 실시간 기록법은 그가 수많은 대외 스트레스 속에서도 뇌를 명료하게 유지하고 실수를 원천 차단하는 방패가 되었습니다.\n\n오늘 포스트에서는 록펠러가 실천했던 '실시간 아날로그 미세 기록' 루틴의 인지과학적 가치와 현대인을 위한 실천 가이드를 알아봅니다.",
+        "whyTitle": "실시간 기록(Real-time Tracking)과 전두엽 실행 제어망 활성화",
+        "whyDesc": "행동이나 지출이 일어난 즉시 그 자리에서 수치와 내용을 수동으로 수첩에 기록(Real-time Micro-tracking)하는 행위는 뇌의 전두엽 인지 실행 제어망(Executive Control Network)을 강하게 자극합니다. 이는 자극에 즉각적이고 충동적으로 반응하지 않도록 지연시키는 자기 조절력(Self-Regulation)을 활성화하며, 장기적으로 행동 제어를 조율하는 뇌 가소성을 대폭 강화하여 주의 집중력과 충동 억제 능력을 영구적으로 극대화해 줍니다.",
+        "cautionTitle": "디지털 기록의 함정과 아날로그 즉시 기록의 팁",
+        "cautionDesc": "스마트폰의 메모장이나 가계부 앱에 기록할 경우, 폰을 켜는 순간 쏟아지는 수많은 소셜 미디어 알림이나 뉴스가 뇌를 인지적 스트레스에 다시 노출시킵니다. 또한 앱 기록은 미학적 느낌을 전달하기 어려워 뇌의 만족 중추를 자극하지 못합니다. 지갑 속에 쏙 들어가는 예쁜 빨간색 소형 수첩과 연필을 항시 소지하여, 앱을 켜지 않고 5초 이내에 수기로 적을 수 있는 물리적 흐름을 구성할 때 뇌가 가장 명확히 인지 오프로딩을 실현합니다.",
+        "steps": [
+          {
+            "title": "빨간 포켓 아날로그 수첩 소지",
+            "desc": "항상 스마트폰 옆이나 호주머니 속에 쏙 들어가는 한 손 크기의 아날로그 수첩(빨간색 가죽이나 커버 추천)과 미니 펜을 지니고 다닙니다. 기록을 즉시 개시하기 위한 물리적 환경을 구축하는 첫 단계입니다."
+          },
+          {
+            "title": "소비 및 약속 발생 시 5초 내 기록",
+            "desc": "돈을 사용해 지출하거나, 누군가와 일정 약속이 확정된 바로 그 순간 스마트폰을 켜지 않고 즉시 수첩을 꺼내 5초 이내에 수치와 짤막한 내역을 눌러 씁니다. 충동성과 낭비를 뇌에 각성시키는 가장 확실한 방법입니다."
+          },
+          {
+            "title": "저녁 5분 데이터 검토 피드백",
+            "desc": "일과를 마친 저녁 시간, 수첩에 적은 실시간 수치들을 5분간 천천히 살펴봅니다. 뇌에 명확한 행동 피드백과 반성을 전달하여 전두엽의 인지 조율 능력을 단단히 세우고, 다음 날의 의지력을 재충전합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "스마트폰 가계부나 할 일 앱을 쓰는 것보다 아날로그 수첩이 더 나은가요?",
+            "answer": "네, 스마트폰을 켜는 행위 자체는 뇌의 인지 스위치를 디지털 잡음(SNS, 메시지)에 노출시켜 즉각적으로 집중력을 분산시킵니다. 또한 수기로 꾹꾹 눌러 적을 때 손가락 체성감각 정보가 대뇌 피질에 훨씬 강하게 입력되어, '내가 통제하고 있다'는 인지적 자각이 2배 이상 높게 일어나기 때문에 행동 조율에 아날로그가 압도적으로 효율적입니다."
+          },
+          {
+            "question": "1센트나 1분 단위처럼 너무 하찮은 정보까지 매번 다 적어야 하나요?",
+            "answer": "핵심은 금액의 크기나 행위의 가치가 아닙니다. 뇌의 즉각적인 인지 자각(Real-time Feedback)을 형성하는 훈련입니다. 아주 미세한 지출이나 낭비 일정마저 실시간으로 낚아채어 물리적으로 적어두는 행위가 반복되면, 뇌의 전두엽 억제 제어망이 견고해져 큰 규모의 선택이나 비즈니스 결정 순간에도 충동을 누르고 철저하게 이성을 유지하는 뇌 회로가 구축됩니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "소비 및 약속 발생 시 5초 내 기록",
-          "en": "Log Expenses and Commitments Within 5 Seconds",
-          "ja": "消費や約束の発生時、5秒以内に記録",
-          "zh": "产生消费或约定之时，5秒内记下",
-          "es": "Registrar gastos y compromisos en menos de 5 segundos",
-          "de": "Erfassen Sie Ausgaben und Zusagen innerhalb von 5 Sekunden",
-          "fr": "Consigner dépenses et engagements en moins de 5 secondes",
-          "pt": "Registrar despesas e compromissos em até 5 segundos",
-          "id": "Catat Pengeluaran dan Janji dalam Waktu 5 Detik"
-        },
-        "text": {
-          "ko": "돈을 사용해 지출하거나, 누군가와 일정 약속이 확정된 바로 그 순간 스마트폰을 켜지 않고 즉시 수첩을 꺼내 5초 이내에 수치와 짤막한 내역을 눌러 씁니다. 충동성과 낭비를 뇌에 각성시키는 가장 확실한 방법입니다.",
-          "en": "The instant you spend money or confirm an appointment, pull out your notebook instead of turning on your phone and jot down the numbers and a brief note within 5 seconds. This is the surest way to awaken brain awareness against impulsivity and waste.",
-          "ja": "お金を使って支出したり、誰かとスケジュールの約束が確定したまさにその瞬間、スマホを開かずに即座に手帳を取り出し、5秒以内に数値と簡単な内容を手書きします。衝動性と無駄遣いを脳に覚醒させる最も確実な方法です。",
-          "zh": "在花钱消费或与他人确定日程约定的当下，不点亮手机屏幕，立即掏出手册并在5秒内亲手书写下数值与简短明细。这是向大脑警示冲动与浪费的最有效方式。",
-          "es": "En el instante en que gaste dinero o confirme una cita, saque su libreta sin encender el teléfono y anote las cifras y una breve nota en menos de 5 segundos. Es la forma más rápida de concientizar al cerebro contra la impulsividad.",
-          "de": "In dem Moment, in dem Sie Geld ausgeben oder einen Termin vereinbaren, ziehen Sie Ihr Notizbuch heraus und tragen Sie Beträge und Stichpunkte innerhalb von 5 Sekunden ein. Das macht das Gehirn für Impulsivität und Verschwendung empfänglich.",
-          "fr": "Dès que vous dépensez de l'argent ou confirmez un rendez-vous, sortez votre carnet sans allumer votre téléphone et notez les chiffres et un court mot en moins de 5 secondes. C'est le moyen le plus sûr de sensibiliser le cerveau à l'impulsivité.",
-          "pt": "No instante em que gastar dinheiro ou confirmar um compromisso, tire seu caderno sem ligar o celular e anote os valores e um breve lembrete em até 5 segundos. Essa é a maneira mais garantida de conscientizar o cérebro contra a impulsividade.",
-          "id": "Saat Anda mengeluarkan uang atau mengonfirmasi janji, segera ambil buku catatan tanpa menyalakan ponsel dan tuliskan angka serta catatan singkat dalam waktu 5 detik. Ini cara paling ampuh membangunkan kesadaran otak terhadap impulsivitas."
-        }
+      "en": {
+        "title": "The Oil Tycoon Who Allowed Not Even a 1-Cent Waste? John D. Rockefeller's Real-time Micro-tracking Method",
+        "description": "John D. Rockefeller, considered the wealthiest individual in world history. Learn how carrying a small red notebook in his pocket to immediately log minor expenses and plans awakened his prefrontal executive control network, and how to utilize analog notebooks.",
+        "authority": "Historical biography and autobiographical records of John D. Rockefeller & Cognitive Neuroscience research",
+        "intro": "John D. Rockefeller, the legendary entrepreneur who founded Standard Oil, built an unprecedented enterprise, and accumulated the largest personal fortune in human history. Where did his flawless planning and drive, which laid the foundations for modern management systems and philanthropic foundations, originate? 📕\n\nThroughout his life, Rockefeller carried in his pocket a small red ledger notebook ('Ledger A') given to him by his mother in his youth. The instant a transaction or event occurred, he pulled out his notebook to record every 1-cent expense, donation, meeting time, or daily goal. Rockefeller was convinced that immense wealth and unwavering focus were built on daily habits of real-time cognitive control over resource flows. This real-time tracking method served as his shield, keeping his mind crystal clear and preventing errors amid overwhelming stress.\n\nToday's post explores the cognitive science value of Rockefeller's real-time analog micro-tracking routine and provides a practical guide for modern individuals.",
+        "whyTitle": "Real-time Tracking and Activation of the Prefrontal Executive Control Network",
+        "whyDesc": "Manually logging numbers and details in a notebook the moment a behavior or expense occurs (real-time micro-tracking) strongly stimulates the brain's prefrontal executive control network. This activates self-regulation, delaying impulsive reactions to stimuli, and significantly enhances brain plasticity for long-term behavioral control and impulse suppression.",
+        "cautionTitle": "Pitfalls of Digital Logging vs. Tips for Analog Real-time Micro-tracking",
+        "cautionDesc": "When logging in smartphone apps, the deluge of social media notifications or news upon turning on the phone exposes the brain to cognitive stress. Moreover, app entries lack tactile aesthetics that stimulate the brain's satisfaction center. Carrying a small red notebook and pencil in your wallet to write down entries by hand within 5 seconds without turning on an app enables the clearest cognitive offloading.",
+        "steps": [
+          {
+            "title": "Carry a Small Red Pocket Notebook",
+            "desc": "Always carry a palm-sized analog notebook (red cover recommended) and a mini pen in your pocket or alongside your phone. This builds the physical setup for immediate logging."
+          },
+          {
+            "title": "Log Expenses and Commitments Within 5 Seconds",
+            "desc": "The instant you spend money or confirm an appointment, pull out your notebook instead of turning on your phone and jot down the numbers and a brief note within 5 seconds. This is the surest way to awaken brain awareness against impulsivity and waste."
+          },
+          {
+            "title": "5-Minute Evening Data Review & Feedback",
+            "desc": "At the end of the day, spend 5 minutes slowly reviewing the real-time entries in your notebook. Delivering clear behavioral feedback and reflection to the brain solidifies prefrontal cognitive regulation and recharges willpower for the next day."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is an analog notebook really better than using smartphone budget or to-do apps?",
+            "answer": "Yes. The act of turning on a smartphone exposes your cognitive switch to digital noise (SNS, messages), immediately scattering focus. Furthermore, pressing a pen onto paper inputs somatosensory finger data far more strongly into the cerebral cortex, creating over twice the cognitive awareness of self-control compared to typing."
+          },
+          {
+            "question": "Do I really need to write down every trivial detail, like 1 cent or 1 minute?",
+            "answer": "The key is not the monetary value or the scale of the act, but training immediate real-time cognitive feedback in the brain. Repeatedly catching and logging tiny expenses or wasted moments solidifies the prefrontal inhibitory control network, building brain circuits that resist impulsivity and maintain logic during major decisions."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "저녁 5분 데이터 검토 피드백",
-          "en": "5-Minute Evening Data Review & Feedback",
-          "ja": "夜5分間のデータ検討・フィードバック",
-          "zh": "晚间5分钟数据复盘与反馈",
-          "es": "Revisión de datos y retroalimentación de 5 minutos por la noche",
-          "de": "5-minütige Datenüberprüfung und Feedback am Abend",
-          "fr": "Examen des données et bilan de 5 minutes le soir",
-          "pt": "Revisão de dados e feedback de 5 minutos à noite",
-          "id": "Tinjauan Data & Umpan Balik Malam Hari 5 Menit"
-        },
-        "text": {
-          "ko": "일과를 마친 저녁 시간, 수첩에 적은 실시간 수치들을 5분간 천천히 살펴봅니다. 뇌에 명확한 행동 피드백과 반성을 전달하여 전두엽의 인지 조율 능력을 단단히 세우고, 다음 날의 의지력을 재충전합니다.",
-          "en": "At the end of the day, spend 5 minutes slowly reviewing the real-time entries in your notebook. Delivering clear behavioral feedback and reflection to the brain solidifies prefrontal cognitive regulation and recharges willpower for the next day.",
-          "ja": "一日の日課を終えた夜の時間、手帳に書き留めたリアルタイムの数値を5分間ゆっくりと見返します。脳に明確な行動フィードバックと反省を伝えることで、前頭葉の認知調整能力をしっかり確立し、翌日の意志力を再充電します。",
-          "zh": "在一天的日程结束后，花5分钟时间缓缓审视写在手册上的实时数据。向大脑传达明确的行为反馈与反思，以此巩固前额叶的认知调节能力，并为次日重新充能意志力。",
-          "es": "Al final del día, dedique 5 minutos a revisar despacio las anotaciones de su libreta. Proporcionar esta retroalimentación clara al cerebro fortalece la regulación cognitiva prefrontal y recarga la fuerza de voluntad para el día siguiente.",
-          "de": "Gehen Sie am Abend 5 Minuten lang die Einträge in Ihrem Notizbuch durch. Diese klare Rückmeldung stärkt die kognitive Steuerung des präfrontalen Kortex und lädt die Willenskraft für den nächsten Tag wieder auf.",
-          "fr": "En fin de journée, prenez 5 minutes pour relire calmement vos notes. Offrir ce bilan clair au cerveau renforce la régulation cognitive préfrontal et recharge la volonté pour le lendemain.",
-          "pt": "No final do dia, dedique 5 minutos para revisar com calma as anotações do caderno. Fornecer esse feedback claro ao cérebro fortalece a regulação cognitiva pré-frontal e recarrega a força de vontade para o dia seguinte.",
-          "id": "Di akhir hari, luangkan waktu 5 menit untuk meninjau catatan real-time di buku Anda. Memberikan umpan balik dan refleksi perilaku yang jelas kepada otak akan mengukuhkan regulasi kognitif prefrontal dan mengisi ulang kemauan untuk esok hari."
-        }
+      "zh": {
+        "title": "1美分浪费也不允许的石油大王？约翰·D·洛克菲勒的实时微观记录法",
+        "description": "被视为世界史上首富的约翰·D·洛克菲勒。了解他在口袋里随身携带一本红色小手册、随时记录微小开销与计划以唤醒前额叶执行控制网络的原理，以及纸质手册的使用技巧。",
+        "authority": "约翰·D·洛克菲勒历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "约翰·D·洛克菲勒（John D. Rockefeller）建立了标准石油公司，创办了前所未有的超级大企业，并积累了人类历史上最庞大的个人财富。他开创了严密的管理体系与现代慈善基金会的雏形，其滴水不漏的计划力与推进力究竟源自何处？ 📕\n\n洛克菲勒终生随身口袋里都装着年幼时母亲赠送的一本红色小型账簿手册（Ledger A）。无论是一美分的微小开支、捐赠给某人的善款，还是商务会议的时间与当天必须完成的目标清单，一旦事件发生，他都会当场掏手册一笔一划地记录下来。洛克菲勒坚信，宏大的财富与不可动摇的专注力正是源自这种实时认知并控制微观资源流向的日常习惯。这种实时记录法成了他在巨大的外部压力下依然保持大脑清醒、从源头杜绝失误的坚固盾牌。\n\n今天的文章将深入探讨洛克菲勒所实践的“实时纸质微观记录”常规的认知科学价值，并为现代人提供实操指南。",
+        "whyTitle": "实时记录（Real-time Tracking）与前额叶执行控制网络的激活",
+        "whyDesc": "在行为或开支发生的当下立即手动将数字和内容记录在手册中（Real-time Micro-tracking），能够强烈刺激大脑前额叶的认知执行控制网络（Executive Control Network）。这会激活延迟对刺激做出即时冲动反应的自我调节能力（Self-Regulation），并大幅增强长期调节行为控制的大脑可塑性，使注意力与冲动抑制能力得到极大提升。",
+        "cautionTitle": "数字记录的陷阱与纸质即时记录的技巧",
+        "cautionDesc": "如果在手机备忘录或记账APP中进行记录，点亮屏幕瞬间涌现的大量社交媒体通知或新闻会使大脑重新暴露于认知压力之下。此外，APP记录很难传递美感触觉，无法刺激大脑的满足中枢。在钱包里随身装一本精美的红色小型手册和铅笔，构建不必打开APP即可在5秒内手写记录的物理流程时，大脑才能最清晰地实现认知卸载（Offloading）。",
+        "steps": [
+          {
+            "title": "随身携带红色袖珍纸质手册",
+            "desc": "随时在口袋里或手机旁装一本单手大小的纸质手册（推荐红色皮质或封面）和一支微型笔。这是构建即时记录物理环境的第一步。"
+          },
+          {
+            "title": "产生消费或约定之时，5秒内记下",
+            "desc": "在花钱消费或与他人确定日程约定的当下，不点亮手机屏幕，立即掏出手册并在5秒内亲手书写下数值与简短明细。这是向大脑警示冲动与浪费的最有效方式。"
+          },
+          {
+            "title": "晚间5分钟数据复盘与反馈",
+            "desc": "在一天的日程结束后，花5分钟时间缓缓审视写在手册上的实时数据。向大脑传达明确的行为反馈与反思，以此巩固前额叶的认知调节能力，并为次日重新充能意志力。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "使用纸质手册真的比使用手机记账或待办事项APP更好吗？",
+            "answer": "是的。点亮手机屏幕这一行为本身就会将大脑的认知开关暴露于数字噪音（社交媒体、信息）中，立刻分散注意力。此外，亲手用力书写时，手指的体感信息会更强地输入大脑皮层，产生比在屏幕上敲击高出2倍以上的“自我掌控”认知自觉，因此纸质记录在调控行为方面效率优势压倒性突出。"
+          },
+          {
+            "question": "是否每次都连1美分或1分钟这样微不足道的细节也要全部记录？",
+            "answer": "核心不在于金额的大小或行为价值的高低，而在于训练大脑产生即时认知反馈（Real-time Feedback）。当连最微小的开支或浪费的日程都被实时抓取并手写记录下来时，大脑前额叶的抑制控制网络就会变得愈发坚固，从而建立起在大规模选择或重大商务决策时刻也能压制冲动、保持绝对理性的脑回路。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "1セントの無駄も許さなかった石油王？ジョン・D・ロックフェラーのリアルタイム微細記録法",
+        "description": "世界史上最高の富豪とされるジョン・D・ロックフェラー。ポケットの中に赤いミニ手帳を忍ばせ、些細な出費や計画を即座に記録した彼の前頭葉実行制御ネットワークの覚醒原理と、アナログ手帳の活用法を学びます。",
+        "authority": "ジョン・D・ロックフェラーの歴史的評伝および自伝的記録の考証と認知神経科学（Cognitive Neuroscience）の研究",
+        "intro": "スタンダード・オイルを設立して空前絶大の大企業を育て上げ、人類史上最も莫大な個人財産を蓄積した伝説的起業家であり、アメリカ石油産業の巨人ジョン・D・ロックフェラー（John D. Rockefeller）。徹底した経営システムと現代的慈善財団の基礎を築いた彼の徹底した計画性と推進力は、一体どこから出発したのでしょうか？ 📕\n\nロックフェラーは幼少期に母親からプレゼントされた赤い小型帳簿手帳（Ledger A）を生涯ポケットに入れて持ち歩きました。彼は1セントの些細な支出、誰かに渡した寄付金、そしてビジネスミーティングの時間や当日完遂すべき目標リストを、状況が発生したその場で手帳を取り出して1つ1つ丁寧に記録しました。ロックフェラーは、偉大な富と揺るぎない注意力は、このように微細なリソースの流出入をリアルタイムで認知制御する日常習慣から作られると確信していました。このリアルタイム記録法は、彼が数多くのストレスの中でも脳を明瞭に保ち、ミスを根本遮断する盾となりました。\n\n本記事では、ロックフェラーが実践した「リアルタイム・アナログ微細記録」ルーティンの認知科学的価値と現代人のための実践ガイドを解説します。",
+        "whyTitle": "リアルタイム記録（Real-time Tracking）と前頭葉実行制御ネットワークの活性化",
+        "whyDesc": "行動や支出が発生した即座にその場で数値と内容を手動で手帳に記録する（Real-time Micro-tracking）行為は、脳の前頭葉認知実行制御ネットワーク（Executive Control Network）を強力に刺激します。これは刺激に即座かつ衝動的に反応しないよう遅延させる自己調節力（Self-Regulation）を活性化し、長期的に行動制御を調整する脳可塑性を大幅に強化して注意力と衝動抑制能力を極大化させます。",
+        "cautionTitle": "デジタル記録の落とし穴とアナログ即時記録のコツ",
+        "cautionDesc": "スマートフォンのメモ帳や家計簿アプリに記録する場合、スマホを点けた瞬間に押し寄せる多数のSNS通知やニュースが脳を認知的なストレスに再び露出させます。またアプリの記録は美学的な感覚を伝えにくく、脳の満足中枢を刺激できません。財布にすっぽり収まる小ぶりの赤い手帳と鉛筆を常時携帯し、アプリを開かずに5秒以内に手書きできる物理的フローを構成する時、脳が最も明確に認知オフローディングを実現します。",
+        "steps": [
+          {
+            "title": "赤いポケット・アナログ手帳の携帯",
+            "desc": "常にスマートフォンの隣やポケットの中にすっぽり入る片手サイズのアナログ手帳（赤い革やカバーを推奨）とミニペンを持ち歩きます。記録を即座に開始するための物理的環境を構築する第一段階です。"
+          },
+          {
+            "title": "消費や約束の発生時、5秒以内に記録",
+            "desc": "お金を使って支出したり、誰かとスケジュールの約束が確定したまさにその瞬間、スマホを開かずに即座に手帳を取り出し、5秒以内に数値と簡単な内容を手書きします。衝動性と無駄遣いを脳に覚醒させる最も確実な方法です。"
+          },
+          {
+            "title": "夜5分間のデータ検討・フィードバック",
+            "desc": "一日の日課を終えた夜の時間、手帳に書き留めたリアルタイムの数値を5分間ゆっくりと見返します。脳に明確な行動フィードバックと反省を伝えることで、前頭葉の認知調整能力をしっかり確立し、翌日の意志力を再充電します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "スマートフォンの家計簿やTo-Doアプリを使うよりアナログ手帳の方が良いのですか？",
+            "answer": "はい、そうです。スマートフォンを開く行為自体が脳の認知スイッチをデジタル雑音（SNS、メッセージ）に露出させ、即座に集中力を分散させます。また手書きでしっかり書き留める時、指の体性感覚情報が大脳皮質にずっと強く入力され、「自分がコントロールしている」という認知的自覚が2倍以上高まるため、行動調整にはアナログが圧倒的に効率的です。"
+          },
+          {
+            "question": "1セントや1分単位のような些細すぎる情報まで毎回すべて書かなければなりませんか？",
+            "answer": "ポイントは金額の大きさや行為の価値ではありません。脳の即座な認知的自覚（Real-time Feedback）を形成する訓練なのです。極めて微細な支出や無駄なスケジュールすらリアルタイムで捉えて物理的に書き留める行為が繰り返されると、脳の前頭葉抑制制御ネットワークが強固になり、大きな規模の選択やビジネス上の決定の瞬間にも衝動を抑えて徹底的に理性を維持する脳回路が構築されます。"
+          }
+        ]
+      },
+      "es": {
+        "title": "¿El magnate del petróleo que no permitía ni un centavo de desperdicio? El método de microregistro en tiempo real de John D. Rockefeller",
+        "description": "John D. Rockefeller, considerado la persona más rica de la historia. Aprenda cómo llevar una libreta roja en su bolsillo para registrar de inmediato pequeños gastos y planes activaba su red de control ejecutivo prefrontal, y cómo utilizar cuadernos analógicos.",
+        "authority": "Investigación basada en biografías históricas y autobiografías de John D. Rockefeller y estudios de Neurociencia Cognitiva",
+        "intro": "John D. Rockefeller, el legendario empresario que fundó Standard Oil, construyó una empresa sin precedentes y acumuló la mayor fortuna personal de la historia de la humanidad. ¿De dónde surgieron su impecable planificación y empuje? 📕\n\nDurante toda su vida, Rockefeller llevó en su bolsillo un pequeño libro de contabilidad rojo ('Ledger A') que le regaló su madre en su juventud. Registraba de inmediato cada gasto de 1 centavo, donaciones, horarios de reuniones y metas del día. Rockefeller estaba convencido de que la gran riqueza y la concentración inquebrantable se construían a partir de hábitos diarios de control cognitivo en tiempo real sobre los recursos. Este método de registro en tiempo real le sirvió de escudo para mantener la mente despejada y evitar errores.\n\nLa publicación de hoy explora el valor neurocientífico de la rutina de microregistro analógico en tiempo real de Rockefeller.",
+        "whyTitle": "Registro en tiempo real (Real-time Tracking) y activación de la red de control ejecutivo prefrontal",
+        "whyDesc": "Registrar manualmente números y detalles en un cuaderno inmediatamente después de que ocurra una acción o gasto estimula fuertemente la red de control ejecutivo prefrontal del cerebro. Esto activa la autorregulación, frenando reacciones impulsivas y mejorando la neuroplasticidad para el control del comportamiento a largo plazo.",
+        "cautionTitle": "Peligros del registro digital frente a consejos para el microregistro analógico en tiempo real",
+        "cautionDesc": "Al registrar datos en aplicaciones de teléfonos inteligentes, la avalancha de notificaciones o noticias expone al cerebro a un estrés cognitivo inmediato. Llevar un pequeño cuaderno rojo y un lápiz en el bolsillo para anotar a mano en 5 segundos sin encender una aplicación permite la descarga cognitiva más clara.",
+        "steps": [
+          {
+            "title": "Llevar una pequeña libreta roja de bolsillo",
+            "desc": "Lleve siempre una libreta analógica del tamaño de la palma de la mano (se recomienda cubierta roja) y un minibolígrafo en el bolsillo. Esto crea el entorno físico para registrar de inmediato."
+          },
+          {
+            "title": "Registrar gastos y compromisos en menos de 5 segundos",
+            "desc": "En el instante en que gaste dinero o confirme una cita, saque su libreta sin encender el teléfono y anote las cifras y una breve nota en menos de 5 segundos. Es la forma más rápida de concientizar al cerebro contra la impulsividad."
+          },
+          {
+            "title": "Revisión de datos y retroalimentación de 5 minutos por la noche",
+            "desc": "Al final del día, dedique 5 minutos a revisar despacio las anotaciones de su libreta. Proporcionar esta retroalimentación clara al cerebro fortalece la regulación cognitiva prefrontal y recarga la fuerza de voluntad para el día siguiente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es realmente mejor una libreta analógica que usar aplicaciones de presupuesto o tareas en el teléfono?",
+            "answer": "Sí. El acto de encender el teléfono expone el cerebro al ruido digital, dispersando la atención al instante. Además, escribir a mano transmite información somatosensorial mucho más fuerte a la corteza cerebral, aumentando al doble la conciencia cognitiva del autocontrol."
+          },
+          {
+            "question": "¿Realmente necesito anotar cada detalle insignificante, como 1 centavo o 1 minuto?",
+            "answer": "La clave no es el valor monetario, sino entrenar la retroalimentación cognitiva en tiempo real del cerebro. Registrar repetidamente gastos diminutos fortalece la red de control inhibitorio prefrontal, construyendo circuitos cerebrales que resisten la impulsividad durante decisiones importantes."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le magnat du pétrole qui ne tolérait pas le moindre centime de gaspillage ? La méthode de micro-enregistrement en temps réel de John D. Rockefeller",
+        "description": "John D. Rockefeller, considéré comme l'homme le plus riche de l'histoire. Découvrez comment le fait de garder un petit carnet rouge en poche pour noter immédiatement la moindre dépense stimulait son réseau de contrôle exécutif préfrontal.",
+        "authority": "Étude basée sur la biographie historique et l'autobiographie de John D. Rockefeller et les recherches en neurosciences cognitives",
+        "intro": "John D. Rockefeller, le légendaire entrepreneur qui a fondé Standard Oil et accumulé la plus grande fortune personnelle de l'histoire. D'où venaient sa planification sans faille et sa détermination ? 📕\n\nToute sa vie, Rockefeller a conservé dans sa poche un petit livre de comptes rouge ('Ledger A') offert par sa mère dans sa jeunesse. Il y notait sur-le-champ la moindre dépense de 1 centime, les dons et ses objectifs du jour. Rockefeller était convaincu qu'une immense richesse et une attention inébranlable reposent sur le contrôle cognitif en temps réel des ressources.\n\nL'article d'aujourd'hui explore la valeur en sciences cognitives de la routine de micro-enregistrement analogique en temps réel de Rockefeller.",
+        "whyTitle": "Suivi en temps réel (Real-time Tracking) et activation du réseau de contrôle exécutif préfrontal",
+        "whyDesc": "Consigner manuellement des chiffres et détails dans un carnet dès qu'une action ou dépense survient stimule fortement le réseau de contrôle exécutif préfrontal du cerveau. Cela active l'autorégulation, retardant les réactions impulsives et renforçant la plasticité cérébrale pour le contrôle du comportement.",
+        "cautionTitle": "Pièges du suivi numérique et conseils pour le micro-enregistrement analogique en temps réel",
+        "cautionDesc": "Consigner dans des applications de smartphone expose le cerveau à un stress cognitif dû au flux de notifications. Garder un petit carnet rouge et un crayon pour noter à la main en 5 secondes sans allumer d'application offre la décharge cognitive la plus nette.",
+        "steps": [
+          {
+            "title": "Conserver un petit carnet de poche rouge",
+            "desc": "Conservez toujours un carnet analogique format paume (couverture rouge recommandée) et un mini-stylo dans votre poche. C'est la première étape pour créer un environnement physique favorable à la prise de note immédiate."
+          },
+          {
+            "title": "Consigner dépenses et engagements en moins de 5 secondes",
+            "desc": "Dès que vous dépensez de l'argent ou confirmez un rendez-vous, sortez votre carnet sans allumer votre téléphone et notez les chiffres et un court mot en moins de 5 secondes. C'est le moyen le plus sûr de sensibiliser le cerveau à l'impulsivité."
+          },
+          {
+            "title": "Examen des données et bilan de 5 minutes le soir",
+            "desc": "En fin de journée, prenez 5 minutes pour relire calmement vos notes. Offrir ce bilan clair au cerveau renforce la régulation cognitive préfrontal et recharge la volonté pour le lendemain."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Un carnet analogique est-il vraiment préférable aux applications de budget ou de tâches sur smartphone ?",
+            "answer": "Oui. Le fait d'allumer un smartphone expose le cerveau au bruit numérique, dispersant l'attention. De plus, écrire à main levée envoie des informations somatosensorielles bien plus puissantes au cortex cérébral, doublant la conscience du contrôle de soi."
+          },
+          {
+            "question": "Faut-il vraiment noter le moindre détail insignifiant, comme 1 centime ou 1 minute ?",
+            "answer": "La clé n'est pas la valeur monétaire, mais l'entraînement du retour cognitif en temps réel du cerveau. Noter de minuscules dépenses renforce le réseau de contrôle inhibiteur préfrontal, aidant à résister aux impulsions lors de décisions majeures."
+          }
+        ]
+      },
+      "de": {
+        "title": "Der Ölbaron, der nicht einen Cent Verschwendung duldete? John D. Rockefellers Echtzeit-Mikro-Tracking-Methode",
+        "description": "John D. Rockefeller, der als reichste Person der Weltgeschichte gilt. Erfahren Sie, wie das Mitführen eines kleinen roten Notizbuchs zur sofortigen Erfassung kleiner Ausgaben das präfrontale exekutive Kontrollnetzwerk stimulierte.",
+        "authority": "Historische Biografie und autobiografische Aufzeichnungen von John D. Rockefeller & Forschung der kognitiven Neurowissenschaften",
+        "intro": "John D. Rockefeller, der legendäre Unternehmer, der Standard Oil gründete und das größte Privatvermögen der Menschheitsgeschichte anhäufte. Woher stammte seine makellose Planung? 📕\n\nSein ganzes Leben lang trug Rockefeller ein kleines rotes Hauptbuch ('Ledger A') in der Tasche, das ihm seine Mutter in der Jugend geschenkt hatte. Er trug jeden 1-Cent-Betrag, jede Spende und jedes Tagesziel sofort vor Ort ein. Rockefeller war überzeugt, dass großer Wohlstand und unerschütterlicher Fokus auf dem täglichen Echtzeit-Tracking beruhen.\n\nDer heutige Beitrag beleuchtet den kognitionswissenschaftlichen Wert von Rockefellers Echtzeit-Mikro-Tracking-Routine.",
+        "whyTitle": "Echtzeit-Tracking (Real-time Tracking) und Aktivierung des präfrontalen exekutiven Kontrollnetzwerks",
+        "whyDesc": "Das manuelle Erfassen von Zahlen und Details in einem Notizbuch unmittelbar nach einer Handlung oder Ausgabe stimuliert das präfrontale exekutive Kontrollnetzwerk des Gehirns stark. Dies aktiviert die Selbstregulierung, verzögert impulsive Reaktionen und stärkt die Gehirnplastizität für Verhaltenskontrolle.",
+        "cautionTitle": "Fallen der digitalen Erfassung vs. Tipps für analoges Echtzeit-Mikro-Tracking",
+        "cautionDesc": "Beim Erfassen in Smartphone-Apps setzt die Flut von Benachrichtigungen das Gehirn erneut kognitivem Stress aus. Das Mitführen eines kleinen roten Notizbuchs und Stifts zur handschriftlichen Erfassung innerhalb von 5 Sekunden ermöglicht die effektivste kognitive Entlastung.",
+        "steps": [
+          {
+            "title": "Führen Sie ein kleines rotes Taschennotizbuch mit",
+            "desc": "Tragen Sie stets ein handgroßes analoges Notizbuch (rotes Cover empfohlen) und einen Stift in der Tasche. Dies ist der erste Schritt zur Schaffung einer physischen Umgebung für sofortige Aufzeichnungen."
+          },
+          {
+            "title": "Erfassen Sie Ausgaben und Zusagen innerhalb von 5 Sekunden",
+            "desc": "In dem Moment, in dem Sie Geld ausgeben oder einen Termin vereinbaren, ziehen Sie Ihr Notizbuch heraus und tragen Sie Beträge und Stichpunkte innerhalb von 5 Sekunden ein. Das macht das Gehirn für Impulsivität und Verschwendung empfänglich."
+          },
+          {
+            "title": "5-minütige Datenüberprüfung und Feedback am Abend",
+            "desc": "Gehen Sie am Abend 5 Minuten lang die Einträge in Ihrem Notizbuch durch. Diese klare Rückmeldung stärkt die kognitive Steuerung des präfrontalen Kortex und lädt die Willenskraft für den nächsten Tag wieder auf."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist ein analoges Notizbuch wirklich besser als Smartphone-Budget- oder To-Do-Apps?",
+            "answer": "Ja. Das Einschalten des Smartphones setzt das Gehirn digitalem Lärm aus und lenkt ab. Das handschriftliche Schreiben übermittelt zudem stärkere somatosensorische Signale an die Großhirnrinde, was das Bewusstsein für Selbstkontrolle mehr als verdoppelt."
+          },
+          {
+            "question": "Muss man wirklich jedes winzige Detail wie 1 Cent oder 1 Minute aufschreiben?",
+            "answer": "Der Schlüssel liegt nicht im Geldbetrag, sondern im Training unmittelbarer kognitiver Rückmeldung im Gehirn. Das wiederholte Erfassen kleinster Beträge stärkt das hemmende Kontrollnetzwerk des präfrontalen Kortex und hilft, auch bei großen Entscheidungen besonnen zu bleiben."
+          }
+        ]
+      },
+      "pt": {
+        "title": "O magnata do petróleo que não permitia nem 1 centavo de desperdício? O método de micro-registro em tempo real de John D. Rockefeller",
+        "description": "John D. Rockefeller, considerado o homem mais rico da história. Aprenda como carregar um pequeno caderno vermelho no bolso para registrar imediatamente pequenas despesas e planos ativava sua rede de controle executivo pré-frontal.",
+        "authority": "Pesquisa baseada na biografia histórica e autobiografia de John D. Rockefeller e estudos de Neurociência Cognitiva",
+        "intro": "John D. Rockefeller, o lendário empresário que fundou a Standard Oil e acumulou a maior fortuna pessoal da história. De onde vinham seu planejamento impecável e sua determinação? 📕\n\nAo longo da vida, Rockefeller carregou no bolso um pequeno livro de contabilidade vermelho ('Ledger A') presenteado por sua mãe na juventude. Ele anotava imediatamente cada despesa de 1 centavo, doações e metas diárias. Rockefeller estava convencido de que a grande riqueza e o foco inabalável eram construídos a partir de hábitos diários de controle cognitivo em tempo real sobre os recursos.\n\nO artigo de hoje explora o valor da neurociência por trás da rotina de micro-registro analógico em tempo real de Rockefeller.",
+        "whyTitle": "Registro em tempo real (Real-time Tracking) e ativação da rede de controle executivo pré-frontal",
+        "whyDesc": "Registrar manualmente números e detalhes em um caderno no momento em que ocorrem estimula fortemente a rede de controle executivo pré-frontal do cérebro. Isso ativa a autorregulação, retardando reações impulsivas e aumentando a plasticidade cerebral para controle comportamental.",
+        "cautionTitle": "Armadilhas do registro digital vs. dicas para o micro-registro analógico em tempo real",
+        "cautionDesc": "Registrar em aplicativos de smartphone expõe o cérebro ao estresse cognitivo com a enxurrada de notificações. Carregar um pequeno caderno vermelho e lápis para anotar à mão em 5 segundos sem ligar um aplicativo permite o descarregamento cognitivo mais claro.",
+        "steps": [
+          {
+            "title": "Carregar um pequeno caderno vermelho de bolso",
+            "desc": "Carregue sempre um caderno analógico do tamanho da palma da mão (capa vermelha recomendada) e uma caneta no bolso. Essa é a primeira etapa para criar o ambiente físico para registro imediato."
+          },
+          {
+            "title": "Registrar despesas e compromissos em até 5 segundos",
+            "desc": "No instante em que gastar dinheiro ou confirmar um compromisso, tire seu caderno sem ligar o celular e anote os valores e um breve lembrete em até 5 segundos. Essa é a maneira mais garantida de conscientizar o cérebro contra a impulsividade."
+          },
+          {
+            "title": "Revisão de dados e feedback de 5 minutos à noite",
+            "desc": "No final do dia, dedique 5 minutos para revisar com calma as anotações do caderno. Fornecer esse feedback claro ao cérebro fortalece a regulação cognitiva pré-frontal e recarrega a força de vontade para o dia seguinte."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Um caderno analógico é realmente melhor do que usar aplicativos de orçamento ou tarefas no celular?",
+            "answer": "Sim. O ato de ligar o celular expõe o cérebro ao ruído digital, dispersando o foco imediatamente. Além disso, escrever à mão envia dados somatossensoriais muito mais fortes ao córtex cerebral, aumentando em mais de duas vezes a consciência do autocontrole."
+          },
+          {
+            "question": "É realmente necessário anotar cada detalhe insignificante, como 1 centavo ou 1 minuto?",
+            "answer": "A chave não é o valor monetário, mas o treinamento do feedback cognitivo em tempo real no cérebro. Registrar minúsculas despesas fortalece a rede de controle inibitório pré-frontal, construindo circuitos cerebrais que resistem à impulsividade em decisões importantes."
+          }
+        ]
+      },
+      "id": {
+        "title": "Raja Minyak yang Tidak Mengizinkan Pemborosan 1 Sen Pun? Metode Catatan Mikro Real-time John D. Rockefeller",
+        "description": "John D. Rockefeller, yang dianggap sebagai orang terkaya sepanjang sejarah dunia. Pelajari bagaimana membawa buku catatan kecil berwarna merah di saku untuk langsung mencatat pengeluaran kecil dan rencana mampu membangunkan jaringan kontrol eksekutif prefrontal.",
+        "authority": "Penelitian berdasarkan biografi historis dan catatan autobiografi John D. Rockefeller & riset Neurosains Kognitif",
+        "intro": "John D. Rockefeller, pengusaha legendaris yang mendirikan Standard Oil dan mengumpulkan kekayaan pribadi terbesar sepanjang sejarah manusia. Dari mana datangnya perencanaan dan dorongan tanpa celahnya? 📕\n\nSepanjang hidupnya, Rockefeller membawa buku catatan akuntansi kecil berwarna merah ('Ledger A') hadiah dari ibunya sewaktu muda. Ia mencatat setiap pengeluaran 1 sen, donasi, dan target harian secara langsung di tempat. Rockefeller yakin bahwa kekayaan besar dan fokus tak tergoyahkan dibangun dari kebiasaan kontrol kognitif real-time terhadap sumber daya.\n\nArtikel hari ini membahas nilai sains kognitif dari rutinitas catatan mikro analog real-time Rockefeller.",
+        "whyTitle": "Pencatatan Real-time (Real-time Tracking) dan Aktivasi Jaringan Kontrol Eksekutif Prefrontal",
+        "whyDesc": "Mencatat angka dan detail secara manual di buku catatan saat tindakan atau pengeluaran terjadi secara langsung menstimulasi jaringan kontrol eksekutif prefrontal otak. Ini mengaktifkan regulasi diri, menunda reaksi impulsif, dan meningkatkan plastisitas otak untuk kontrol perilaku.",
+        "cautionTitle": "Jebakan Catatan Digital vs Tips Catatan Mikro Analog Real-time",
+        "cautionDesc": "Saat mencatat di aplikasi ponsel, gempuran notifikasi atau berita langsung memaparkan otak pada stres kognitif. Membawa buku catatan kecil berwarna merah dan pensil untuk mencatat tangan dalam 5 detik tanpa menyalakan aplikasi memungkinkan pelepasan beban kognitif yang paling jelas.",
+        "steps": [
+          {
+            "title": "Membawa Buku Catatan Analog Merah Saku",
+            "desc": "Selalu bawa buku catatan analog seukuran telapak tangan (disarankan sampul merah) dan pena mini di saku Anda. Ini adalah langkah pertama membangun lingkungan fisik untuk pencatatan langsung."
+          },
+          {
+            "title": "Catat Pengeluaran dan Janji dalam Waktu 5 Detik",
+            "desc": "Saat Anda mengeluarkan uang atau mengonfirmasi janji, segera ambil buku catatan tanpa menyalakan ponsel dan tuliskan angka serta catatan singkat dalam waktu 5 detik. Ini cara paling ampuh membangunkan kesadaran otak terhadap impulsivitas."
+          },
+          {
+            "title": "Tinjauan Data & Umpan Balik Malam Hari 5 Menit",
+            "desc": "Di akhir hari, luangkan waktu 5 menit untuk meninjau catatan real-time di buku Anda. Memberikan umpan balik dan refleksi perilaku yang jelas kepada otak akan mengukuhkan regulasi kognitif prefrontal dan mengisi ulang kemauan untuk esok hari."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah buku catatan analog benar-benar lebih baik daripada aplikasi keuangan atau to-do di ponsel?",
+            "answer": "Ya. Tindakan menyalakan ponsel memaparkan sakelar kognitif Anda pada bising digital, membuat fokus langsung buyar. Selain itu, menulis tangan mengirimkan data somatosensori yang jauh lebih kuat ke korteks serebral, memicu kesadaran kognitif akan kontrol diri dua kali lipat lebih tinggi."
+          },
+          {
+            "question": "Apakah saya benar-benar harus mencatat setiap detail sepele seperti 1 sen atau 1 menit?",
+            "answer": "Kuncinya bukan pada nilai uang atau besarnya tindakan, melainkan melatih umpan balik kognitif real-time di otak. Mencatat pengeluaran sekecil apa pun memperkuat jaringan kontrol inhibisi prefrontal, membangun sirkuit otak yang menolak impulsivitas saat keputusan besar."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "스마트폰 가계부나 할 일 앱을 쓰는 것보다 아날로그 수첩이 더 나은가요?",
-          "en": "Is an analog notebook really better than using smartphone budget or to-do apps?",
-          "ja": "スマートフォンの家計簿やTo-Doアプリを使うよりアナログ手帳の方が良いのですか？",
-          "zh": "使用纸质手册真的比使用手机记账或待办事项APP更好吗？",
-          "es": "¿Es realmente mejor una libreta analógica que usar aplicaciones de presupuesto o tareas en el teléfono?",
-          "de": "Ist ein analoges Notizbuch wirklich besser als Smartphone-Budget- oder To-Do-Apps?",
-          "fr": "Un carnet analogique est-il vraiment préférable aux applications de budget ou de tâches sur smartphone ?",
-          "pt": "Um caderno analógico é realmente melhor do que usar aplicativos de orçamento ou tarefas no celular?",
-          "id": "Apakah buku catatan analog benar-benar lebih baik daripada aplikasi keuangan atau to-do di ponsel?"
-        },
-        "answer": {
-          "ko": "네, 스마트폰을 켜는 행위 자체는 뇌의 인지 스위치를 디지털 잡음(SNS, 메시지)에 노출시켜 즉각적으로 집중력을 분산시킵니다. 또한 수기로 꾹꾹 눌러 적을 때 손가락 체성감각 정보가 대뇌 피질에 훨씬 강하게 입력되어, '내가 통제하고 있다'는 인지적 자각이 2배 이상 높게 일어나기 때문에 행동 조율에 아날로그가 압도적으로 효율적입니다.",
-          "en": "Yes. The act of turning on a smartphone exposes your cognitive switch to digital noise (SNS, messages), immediately scattering focus. Furthermore, pressing a pen onto paper inputs somatosensory finger data far more strongly into the cerebral cortex, creating over twice the cognitive awareness of self-control compared to typing.",
-          "ja": "はい、そうです。スマートフォンを開く行為自体が脳の認知スイッチをデジタル雑音（SNS、メッセージ）に露出させ、即座に集中力を分散させます。また手書きでしっかり書き留める時、指の体性感覚情報が大脳皮質にずっと強く入力され、「自分がコントロールしている」という認知的自覚が2倍以上高まるため、行動調整にはアナログが圧倒的に効率的です。",
-          "zh": "是的。点亮手机屏幕这一行为本身就会将大脑的认知开关暴露于数字噪音（社交媒体、信息）中，立刻分散注意力。此外，亲手用力书写时，手指的体感信息会更强地输入大脑皮层，产生比在屏幕上敲击高出2倍以上的“自我掌控”认知自觉，因此纸质记录在调控行为方面效率优势压倒性突出。",
-          "es": "Sí. El acto de encender el teléfono expone el cerebro al ruido digital, dispersando la atención al instante. Además, escribir a mano transmite información somatosensorial mucho más fuerte a la corteza cerebral, aumentando al doble la conciencia cognitiva del autocontrol.",
-          "de": "Ja. Das Einschalten des Smartphones setzt das Gehirn digitalem Lärm aus und lenkt ab. Das handschriftliche Schreiben übermittelt zudem stärkere somatosensorische Signale an die Großhirnrinde, was das Bewusstsein für Selbstkontrolle mehr als verdoppelt.",
-          "fr": "Oui. Le fait d'allumer un smartphone expose le cerveau au bruit numérique, dispersant l'attention. De plus, écrire à main levée envoie des informations somatosensorielles bien plus puissantes au cortex cérébral, doublant la conscience du contrôle de soi.",
-          "pt": "Sim. O ato de ligar o celular expõe o cérebro ao ruído digital, dispersando o foco imediatamente. Além disso, escrever à mão envia dados somatossensoriais muito mais fortes ao córtex cerebral, aumentando em mais de duas vezes a consciência do autocontrole.",
-          "id": "Ya. Tindakan menyalakan ponsel memaparkan sakelar kognitif Anda pada bising digital, membuat fokus langsung buyar. Selain itu, menulis tangan mengirimkan data somatosensori yang jauh lebih kuat ke korteks serebral, memicu kesadaran kognitif akan kontrol diri dua kali lipat lebih tinggi."
-        }
-      },
-      {
-        "question": {
-          "ko": "1센트나 1분 단위처럼 너무 하찮은 정보까지 매번 다 적어야 하나요?",
-          "en": "Do I really need to write down every trivial detail, like 1 cent or 1 minute?",
-          "ja": "1セントや1分単位のような些細すぎる情報まで毎回すべて書かなければなりませんか？",
-          "zh": "是否每次都连1美分或1分钟这样微不足道的细节也要全部记录？",
-          "es": "¿Realmente necesito anotar cada detalle insignificante, como 1 centavo o 1 minuto?",
-          "de": "Muss man wirklich jedes winzige Detail wie 1 Cent oder 1 Minute aufschreiben?",
-          "fr": "Faut-il vraiment noter le moindre détail insignifiant, comme 1 centime ou 1 minute ?",
-          "pt": "É realmente necessário anotar cada detalhe insignificante, como 1 centavo ou 1 minuto?",
-          "id": "Apakah saya benar-benar harus mencatat setiap detail sepele seperti 1 sen atau 1 menit?"
-        },
-        "answer": {
-          "ko": "핵심은 금액의 크기나 행위의 가치가 아닙니다. 뇌의 즉각적인 인지 자각(Real-time Feedback)을 형성하는 훈련입니다. 아주 미세한 지출이나 낭비 일정마저 실시간으로 낚아채어 물리적으로 적어두는 행위가 반복되면, 뇌의 전두엽 억제 제어망이 견고해져 큰 규모의 선택이나 비즈니스 결정 순간에도 충동을 누르고 철저하게 이성을 유지하는 뇌 회로가 구축됩니다.",
-          "en": "The key is not the monetary value or the scale of the act, but training immediate real-time cognitive feedback in the brain. Repeatedly catching and logging tiny expenses or wasted moments solidifies the prefrontal inhibitory control network, building brain circuits that resist impulsivity and maintain logic during major decisions.",
-          "ja": "ポイントは金額の大きさや行為の価値ではありません。脳の即座な認知的自覚（Real-time Feedback）を形成する訓練なのです。極めて微細な支出や無駄なスケジュールすらリアルタイムで捉えて物理的に書き留める行為が繰り返されると、脳の前頭葉抑制制御ネットワークが強固になり、大きな規模の選択やビジネス上の決定の瞬間にも衝動を抑えて徹底的に理性を維持する脳回路が構築されます。",
-          "zh": "核心不在于金额的大小或行为价值的高低，而在于训练大脑产生即时认知反馈（Real-time Feedback）。当连最微小的开支或浪费的日程都被实时抓取并手写记录下来时，大脑前额叶的抑制控制网络就会变得愈发坚固，从而建立起在大规模选择或重大商务决策时刻也能压制冲动、保持绝对理性的脑回路。",
-          "es": "La clave no es el valor monetario, sino entrenar la retroalimentación cognitiva en tiempo real del cerebro. Registrar repetidamente gastos diminutos fortalece la red de control inhibitorio prefrontal, construyendo circuitos cerebrales que resisten la impulsividad durante decisiones importantes.",
-          "de": "Der Schlüssel liegt nicht im Geldbetrag, sondern im Training unmittelbarer kognitiver Rückmeldung im Gehirn. Das wiederholte Erfassen kleinster Beträge stärkt das hemmende Kontrollnetzwerk des präfrontalen Kortex und hilft, auch bei großen Entscheidungen besonnen zu bleiben.",
-          "fr": "La clé n'est pas la valeur monétaire, mais l'entraînement du retour cognitif en temps réel du cerveau. Noter de minuscules dépenses renforce le réseau de contrôle inhibiteur préfrontal, aidant à résister aux impulsions lors de décisions majeures.",
-          "pt": "A chave não é o valor monetário, mas o treinamento do feedback cognitivo em tempo real no cérebro. Registrar minúsculas despesas fortalece a rede de controle inibitório pré-frontal, construindo circuitos cerebrais que resistem à impulsividade em decisões importantes.",
-          "id": "Kuncinya bukan pada nilai uang atau besarnya tindakan, melainkan melatih umpan balik kognitif real-time di otak. Mencatat pengeluaran sekecil apa pun memperkuat jaringan kontrol inhibisi prefrontal, membangun sirkuit otak yang menolak impulsivitas saat keputusan besar."
-        }
-      }
-    ]
+    }
   }
 }

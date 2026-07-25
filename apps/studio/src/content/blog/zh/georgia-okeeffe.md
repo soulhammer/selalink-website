@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "放大镜下凝视沙漠动物骸骨：乔治亚·欧姬芙的极限特写观察与视觉注意力引导习惯"
 description: "探索“美国现代主义之母”乔治亚·欧姬芙如何通过将沙漠动物骸骨与花瓣放大十倍观察，拉满大脑的选择性视觉注意力。揭示视觉联合皮层与特写观察习惯的神经科学原理。"
 pubDate: "2026-02-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 georgia-okeeffe 的内容基于 <strong>乔治亚·欧姬芙自传《乔治亚·欧姬芙（Georgia O'Keeffe）》与圣菲欧姬芙博物馆史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>乔治亚·欧姬芙自传《乔治亚·欧姬芙（Georgia O'Keeffe）》与圣菲欧姬芙博物馆史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 刺激视觉联合皮层与选择性视觉注意力（Visual Selective Attention）机制
+## 1. 刺激视觉联合皮层与选择性视觉注意力（Visual Selective Attention）机制
 
 将注意力极度收窄定格于物体或自然生灵极微小的某个局部，能大幅拉升大脑<strong>视觉联合皮层（Visual Association Cortex）</strong>中<strong>“选择性视觉注意力（Visual Selective Attention）”</strong>的分辨率。该训练有助于大脑在日常复杂环境中有效过滤无关的感知杂音，升华<strong>元认知（Metacognition）</strong>辨析力，在第一时间抓牢隐藏于微观中的本质与独特图案。
 
 ---
 
-## 注意事项：规避眼肌疲劳与维持温和感官专注指南
-
-须注意切勿长时间紧盯微小物体，以免导致眼部睫状肌与视神经承受过重负担。每天进行2-3分钟温和短小的观察训练——在平稳呼吸中探查微观细节，便完全足以获得充分的神经科学效益。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：规避眼肌疲劳与维持温和感官专注指南
+
+须注意切勿长时间紧盯微小物体，以免导致眼部睫状肌与视神经承受过重负担。每天进行2-3分钟温和短小的观察训练——在平稳呼吸中探查微观细节，便完全足以获得充分的神经科学效益。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>身处缺乏沙漠骨骸或特殊自然物件的普通室内环境中，依然奏效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       完全有效，物象种类并不关键。无论是案头的铅笔芯、盆栽叶片脉络，还是陶杯上的微小裂痕，只要对任何日常微观细节开展2分钟的精细凝视，行动本身便能激活完全相同的选择性视觉注意力网络。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>必须在现实中配合使用放大镜或显微镜工具吗？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Est-il dangereux de sortir du lit ? La routine d'écriture au lit de Mark Twain pour créer des chefs-d'œuvre"
 description: "Découvrez l'habitude d'écriture unique de Mark Twain, géant de la littérature américaine, qui a créé des chefs-d'œuvre incliné dans son lit après le petit-déjeuner, et découvrez les bienfaits neuroscientifiques et créatifs de la relaxation physique."
 pubDate: "2026-05-20"
@@ -31,17 +32,17 @@ Chaque matin, après un copieux petit-déjeuner, au lieu de se rendre dans son b
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant twain-lying-writing est basée sur <strong>Biographies historiques et données autobiographiques sur l'écriture au lit de Mark Twain et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et données autobiographiques sur l'écriture au lit de Mark Twain et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Le 'pensée associative' qui détend le cerveau et relie les idées
+## 1. Le 'pensée associative' qui détend le cerveau et relie les idées
 
 Lorsque nous nous allongeons horizontalement ou nous inclinons, la charge du cœur pour pomper le sang dans tout le corps est nettement réduite par rapport à la position debout ou assise. Cela augmente le flux sanguin cérébral, stabilise la fréquence cardiaque et stimule fortement le système nerveux parasympathique. Lorsque le corps est complètement détendu, le cerveau supprime la sécrétion de cortisol, l'hormone du stress.
 
@@ -49,9 +50,7 @@ Le cerveau détendu s'éloigne de l'état de tension (ondes bêta) et émet d'ab
 
 ---
 
-## Soutenez votre posture et évitez les distractions du smartphone
-
-S'allonger en position inclinée dans son lit peut exercer une forte pression sur la colonne vertébrale ou le cou. Placez donc plusieurs oreillers fermes derrière votre dos pour soutenir fermement votre colonne et la maintenir droite. De plus, pour éviter que le confort du lit ne devienne un refuge pour consulter les réseaux sociaux, placez votre smartphone hors de portée avant de vous allonger.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ S'allonger en position inclinée dans son lit peut exercer une forte pression su
     Calmez votre respiration dans cette posture détendue et notez les pensées qui vous traversent l'esprit sous leur forme brute, sans les censurer logiquement. Tout format (phrases, dessins, cartes mentales) convient. Externalisez librement vos pensées pendant au moins 15 minutes.
   </p>
 </div>
+
+---
+
+## 3. Soutenez votre posture et évitez les distractions du smartphone
+
+S'allonger en position inclinée dans son lit peut exercer une forte pression sur la colonne vertébrale ou le cou. Placez donc plusieurs oreillers fermes derrière votre dos pour soutenir fermement votre colonne et la maintenir droite. De plus, pour éviter que le confort du lit ne devienne un refuge pour consulter les réseaux sociaux, placez votre smartphone hors de portée avant de vous allonger.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

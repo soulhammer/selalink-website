@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Louis Daguerres Silberplatten-Belichtungsmethode: Wie man flüchtige Momente in ewige Inspiration verwandelt"
 description: "Erkunden Sie, wie der französische Erfinder Louis Daguerre im 19. Jahrhundert die erste praktische Fotografie erfand, und entdecken Sie die kognitiven Neurowissenschaften der visuellen Fixierung."
 pubDate: "2026-01-31"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Louis Daguerres
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu daguerre-silver-plate basiert auf <strong>Historische Überprüfung aus Louis Daguerres *Historique et description des procédés du Daguerréotype (Geschichte und Beschreibung des Daguerreotypie-Verfahrens)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Louis Daguerres *Historique et description des procédés du Daguerréotype (Geschichte und Beschreibung des Daguerreotypie-Verfahrens)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Wie visuelle Fixierung flüchtige Ideen im Langzeitgedächtnis verankert
+## 1. Wie visuelle Fixierung flüchtige Ideen im Langzeitgedächtnis verankert
 
 Neurowissenschaftliche Studien zeigen, dass das mentale Einrahmen eines flüchtigen Gedankens für 3 Sekunden ein neuronales Ankerzentrum im visuellen Kortex und Hippocampus schafft. Das 3-sekündige 'Belichtungsfenster' stabilisiert Rohdaten im Arbeitsgedächtnis vor dem Zerfall und sichert den späteren Zugriff auf den Kontext.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Sofortige Belichtung & Vermeidung von Prokrastination
-
-Verschieben Sie das Festhalten von Ideen nicht auf später. Flüchtige Impulse zerfallen innerhalb weniger Sekunden im Arbeitsgedächtnis. Frieren Sie den Einfall im Moment des Entstehens als mentale Momentaufnahme ein, belichten Sie ihn 3 Sekunden lang und übertragen Sie ihn direkt in eine Notiz.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Verschieben Sie das Festhalten von Ideen nicht auf später. Flüchtige Impulse z
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Sofortige Belichtung & Vermeidung von Prokrastination
+
+Verschieben Sie das Festhalten von Ideen nicht auf später. Flüchtige Impulse zerfallen innerhalb weniger Sekunden im Arbeitsgedächtnis. Frieren Sie den Einfall im Moment des Entstehens als mentale Momentaufnahme ein, belichten Sie ihn 3 Sekunden lang und übertragen Sie ihn direkt in eine Notiz.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie unterscheidet sich Daguerres 3-Sekunden-Belichtungsmethode vom normalen Notieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Verschieben Sie das Festhalten von Ideen nicht auf später. Flüchtige Impulse z
       Normales Notieren erfasst Wörter passiv. Daguerres Methode hingegen 'belichtet' die Idee 3 Sekunden lang im visuellen Kortex vor dem Aufschreiben. Dies erzeugt eine sensorische Momentaufnahme, sodass das spätere Lesen eines Stichworts den gesamten Kontext rekonstruiert.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was sollte ich tun, wenn ich unterwegs bin und nicht sofort schreiben oder skizzieren kann?</span>

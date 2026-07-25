@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Uhr von Königsberg: Immanuel Kants täglicher Spaziergang um 15:30 Uhr und zirkadiane Präzision"
 description: "Erfahren Sie, wie der Philosophie-Gigant Immanuel Kant durch seinen täglichen Spaziergang um 15:30 Uhr in Königsberg geistige Klarheit bewahrte. Entdecken Sie die Neurowissenschaften der SCN-Stimulation und Nasenatmung."
 pubDate: "2026-03-18"
@@ -37,25 +38,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften und Chronobiologie h
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu kant-walk basiert auf <strong>Historische Überprüfung aus Manfred Kuehns *Kant: Eine Biographie*, Königsberger Archiven & Forschung der Hirnforschung und kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Manfred Kuehns *Kant: Eine Biographie*, Königsberger Archiven & Forschung der Hirnforschung und kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Präzision des zirkadianen Rhythmus und Stimulation des suprachiasmatischen Kerns (SCN)
+## 1. Präzision des zirkadianen Rhythmus und Stimulation des suprachiasmatischen Kerns (SCN)
 
 Das tägliche Gehen derselben Strecke um Punkt 15:30 Uhr liefert dem Gehirn einen Zeitgeber, der den <strong>suprachiasmatischen Kern (SCN)</strong> im Hypothalamus stimuliert und den <strong>zirkadianen Rhythmus</strong> stabilisiert. Die regelmäßige Bewegung an der frischen Luft bringt das <strong>autonome Nervensystem</strong> ins Gleichgewicht und verringert körperlichen Stress. Zudem regeneriert sie die im <strong>präfrontalen Kortex</strong> gebündelte Energie nach anstrengender Denkarbeit.
 
 ---
 
-## Vorsichtsmaßnahme: Konsequente Nasenatmung einhalten und äußere Gespräche vermeiden
-
-Kant schwieg während seiner Spaziergänge, da er glaubte, dass Sprechen an der kalten Luft das Nervensystem belaste. Entscheidend ist das Ausschalten von Ablenkungen und Smartphones – bündeln Sie Ihre Aufmerksamkeit ganz auf die Nasenatmung und den Rhythmus Ihrer Schritte.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Kant schwieg während seiner Spaziergänge, da er glaubte, dass Sprechen an der 
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Konsequente Nasenatmung einhalten und äußere Gespräche vermeiden
+
+Kant schwieg während seiner Spaziergänge, da er glaubte, dass Sprechen an der kalten Luft das Nervensystem belaste. Entscheidend ist das Ausschalten von Ablenkungen und Smartphones – bündeln Sie Ihre Aufmerksamkeit ganz auf die Nasenatmung und den Rhythmus Ihrer Schritte.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum ging Immanuel Kant jeden Nachmittag um Punkt 15:30 Uhr spazieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Kant schwieg während seiner Spaziergänge, da er glaubte, dass Sprechen an der 
       Um jahrzehntelang abstrakte Philosophie zu betreiben, pflegte Kant eine feste Routine. Sie stabilisierte sein autonomes Nervensystem, bewahrte den zirkadianen Rhythmus und baute kognitive Erschöpfung im präfrontalen Kortex ab.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Muss man beim Spazierengehen wie Kant schweigen und ausschließlich durch die Nase atmen?</span>

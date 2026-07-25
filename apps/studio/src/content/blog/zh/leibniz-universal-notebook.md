@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "汇通全能知识的单本笔记手册：莱布尼茨的“基项簿”笔记习惯与突触长时程增强（LTP）"
 description: "深度剖析发明微积分的千古奇才莱布尼茨如何将浩瀚知识与灵感统合归于单本分类笔记手册（Commonplace Book）。揭示语意网络（Semantic Network）、突触长时程增强（LTP）与跨界创意融汇的神经科学原理与3步骤指南。"
 pubDate: "2026-02-27"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 leibniz-universal-notebook 的内容基于 <strong>戈特弗里德·威廉·莱布尼茨传记与莱布尼茨档案馆（Leibniz-Archiv）史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong> 撰写。
+      本内容基于 <strong>戈特弗里德·威廉·莱布尼茨传记与莱布尼茨档案馆（Leibniz-Archiv）史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 突触长时程增强（LTP）与语意网络（Semantic Network）神经科学原理
+## 1. 突触长时程增强（LTP）与语意网络（Semantic Network）神经科学原理
 
 当在脑内编织与既有知识索引有机勾连的<strong>“语意网络（Semantic Network）”</strong>之际，大脑皮层提取信息的效率会呈指数级飙升。将知识统合归置于同一本笔记、并手动打上分类标签的操作，能持续刺激神经突触，诱发大幅提升神经传导效率的<strong>突触长时程增强（Long-Term Potentiation，LTP）</strong>现象。在此统合空间中，来自异质学科领域的信息展开跨界撞击，进而驱动<strong>前额叶皮层（Prefrontal Cortex）</strong>爆发出高阶洞见与独到创见的融汇。
 
 ---
 
-## 注意事项：剔除笔记碎裂化，坚守单本统合系统（Single Notebook）指南
-
-践行“基项簿”笔记时极易陷入的重磅陷阱，乃是按用途切分设立多本笔记（如：读书笔记、工作笔记、日常随笔）。将信息载体碎片化，会促使大脑在知识提取进程中遭遇严重的<strong>认知瓶颈（Cognitive Bottleneck）</strong>，彻底丧失跨界融合的契机。务必将一切思绪与知识全额沉淀进唯一一本永久笔记中，仅靠类别标签（Tag）进行标记归类，信息间语意网络的协同效能方能拉满。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：剔除笔记碎裂化，坚守单本统合系统（Single Notebook）指南
+
+践行“基项簿”笔记时极易陷入的重磅陷阱，乃是按用途切分设立多本笔记（如：读书笔记、工作笔记、日常随笔）。将信息载体碎片化，会促使大脑在知识提取进程中遭遇严重的<strong>认知瓶颈（Cognitive Bottleneck）</strong>，彻底丧失跨界融合的契机。务必将一切思绪与知识全额沉淀进唯一一本永久笔记中，仅靠类别标签（Tag）进行标记归类，信息间语意网络的协同效能方能拉满。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>能否借助数字笔记工具（如 Notion、Obsidian 等）来践行“基项簿”单本化笔记法？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可以！数字工具在全文检索与双向链接层面具备绝对优势。然而机制的核心在于避免将页面与文件夹滥拆散置于多处，而应建立单一且统合的数据库或大看板，附上日期与类别标签统一沉淀，以此忠实复刻莱布尼茨式的单本统合系统。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若将所有碎屑信息悉数誊录于同一本笔记中，内容是否会过于混乱无序？</span>

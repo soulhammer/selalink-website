@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "目标可视化与深度休息：大谷翔平的曼陀罗计划表与10小时睡眠习惯"
 description: "改写现代棒球历史的大谷翔平。揭示他在高中时期亲设的81格曼陀罗计划表，以及为最大化身体恢复而保持的每日10小时睡眠习惯背后的神经科学机制。"
 pubDate: "2026-02-06"
@@ -18,7 +19,7 @@ steps:
     text: "夜间保持8小时以上的睡眠，并在下午注意力下降时结合20 ~ 30分钟以内的短时午睡，以填满每日总计10小时的身体充电时间。"
 faqs:
   - question: "10小时睡眠对于忙碌的现代人来说不太现实，可以减少吗？"
-    answer: "10小时是针对高强度运动的顶尖职业运动员的标准，对于日常工作生活，保证7~8小时的高质量睡眠就足够了。核心不在于拘泥于时间长短，而在于通过规律的作息与卧室环境调节，最大化深度睡眠（慢波睡眠）的比例。"
+    answer: "10小时是针对高强度运动的顶尖职业运动员的标准，对于日常工作生活，保证7 ~ 8小时的高质量睡眠就足够了。核心不在于拘泥于时间长短，而在于通过规律的作息与卧室环境调节，最大化深度睡眠（慢波睡眠）的比例。"
 ---
 
 “写下清单就能明确任务，补足10小时睡眠，身体就能做好迎战任何投球的准备。” 💤
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 ohtani-mandalart-sleep 的内容基于 <strong>大谷翔平历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>大谷翔平历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 曼陀罗计划表的目标具体化效果与长睡眠的神经科学恢复机制
+## 1. 曼陀罗计划表的目标具体化效果与长睡眠的神经科学恢复机制
 
 将抽象目标拆解为具体行动的曼陀罗计划表能阻断认知过载，刺激大脑的执行回路。另一方面，大谷翔平核心的10小时充足睡眠能促进大脑的类淋巴系统（Glymphatic System）。脑脊液在此期间清除白天代谢活动积累的废物，恢复前额叶的认知能量。此外，睡眠还能将当天练习的投球与击球肌肉动作记忆安全地巩固到小脑的长期运动记忆库中。
 
 ---
 
-## 注意事项与 Tip
-
-如果突然过度增加睡眠时间，可能会导致身体反而感到倦怠。建议结合个人新陈代谢，将7 ~ 8小时的基础睡眠量循序渐进地增加；若夜间睡眠不足，可在白天结合20 ~ 30分钟以内的短时高效午睡（Power Nap），以弥补总恢复时间并保持平衡。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     夜间保持8小时以上的睡眠，并在下午注意力下降时结合20 ~ 30分钟以内的短时午睡，以填满每日总计10小时的身体充电时间。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与 Tip
+
+如果突然过度增加睡眠时间，可能会导致身体反而感到倦怠。建议结合个人新陈代谢，将7 ~ 8小时的基础睡眠量循序渐进地增加；若夜间睡眠不足，可在白天结合20 ~ 30分钟以内的短时高效午睡（Power Nap），以弥补总恢复时间并保持平衡。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

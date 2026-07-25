@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Programmiererin, die mathematische Formeln zeichnete: Ada Lovelaces visuelles Diagrammieren und Dual-Coding-Netzwerke"
 description: "Erfahren Sie, wie die erste Programmiererin der Welt, Ada Lovelace, komplexe mathematische Abläufe der Analytical Engine in strukturierte Diagramme übersetzte. Entdecken Sie, wie ihr visuelles Arbeiten die Grenzen des Arbeitsgedächtnisses durch Dual-Coding erweiterte."
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Ada Lovelaces
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu lovelace-visual-mapping basiert auf <strong>Historische Überprüfung aus Ada Lovelaces *Notes on the Analytical Engine* (1843), Lovelace-Archiven & Forschung der kognitiven Neurowissenschaften und Psychologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Ada Lovelaces *Notes on the Analytical Engine* (1843), Lovelace-Archiven & Forschung der kognitiven Neurowissenschaften und Psychologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Überwindung von Grenzen des Arbeitsgedächtnisses durch die Theorie der dualen Kodierung
+## 1. Überwindung von Grenzen des Arbeitsgedächtnisses durch die Theorie der dualen Kodierung
 
 Das <strong>Arbeitsgedächtnis</strong> kann nur wenige Informationen gleichzeitig verarbeiten. Reine Formeln führen schnell zu <strong>kognitiver Überlastung</strong>. Lovelaces Diagrammierung nutzte die <strong>Theorie der dualen Kodierung</strong>. Durch die getrennte Vergleicung von Sprache und visueller Anordnung entlastet der <strong>visuelle Kortex</strong> den <strong>präfrontalen Kortex</strong>.
 
 ---
 
-## Vorsichtsmaßnahme: Lineare Textnotizen vermeiden und sich auf visuelle Netzwerke konzentrieren
-
-Das Verharren in linearen Notizen bei komplexen Problemen engt das Denken ein. Stoppen Sie bei Denkblockaden das Schreiben und nutzen Sie Pfeile und Formen auf großem Papier, um Zusammenhänge zu veranschaulichen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das Verharren in linearen Notizen bei komplexen Problemen engt das Denken ein. S
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Lineare Textnotizen vermeiden und sich auf visuelle Netzwerke konzentrieren
+
+Das Verharren in linearen Notizen bei komplexen Problemen engt das Denken ein. Stoppen Sie bei Denkblockaden das Schreiben und nutzen Sie Pfeile und Formen auf großem Papier, um Zusammenhänge zu veranschaulichen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie unterscheidet sich Lovelaces Diagrammierung von einfachen Mindmaps?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das Verharren in linearen Notizen bei komplexen Problemen engt das Denken ein. S
       Mindmaps dienen dem freien Brainstorming. Lovelaces Methode hingegen modelliert die operative Logik eines Systems – Datenflüsse, Kontrollschleifen und kausale Strukturen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Muss man dafür komplizierte Software wie UML oder Figma nutzen?</span>

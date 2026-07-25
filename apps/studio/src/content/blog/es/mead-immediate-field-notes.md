@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Registros que evitan la distorsión de la memoria: El hábito de notas de campo inmediatas de Margaret Mead"
 description: "La antropóloga Margaret Mead anotaba inmediatamente las observaciones en su cuaderno antes de que la memoria se distorsionara. Cubre los principios neurológicos del 'descargo cognitivo' para superar los límites de la memoria de trabajo."
 pubDate: "2026-03-18"
@@ -36,22 +37,20 @@ El mecanismo de anotación inmediata de Mead se alinea perfectamente con el 'des
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mead-immediate-field-notes se basa en <strong>Investigación biográfica e histórica de Margaret Mead y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica de Margaret Mead y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Límites de la memoria de trabajo y descargo cognitivo
+## 1. Límites de la memoria de trabajo y descargo cognitivo
 
 El cerebro guarda la información en una 'memoria de trabajo' temporal con capacidad reducida para unos 7 elementos. Con el tiempo, altera los detalles según sus esquemas y prejuicios. Practicar el 'descargo cognitivo' como Mead (transferir datos al papel al instante) evita la reconstrucción subjetiva y preserva la precisión.
 
 ---
 
-## Precauciones y consejos
-
-Un error común al tomar notas de inmediato es intentar escribir frases perfectas o informes pulidos. Preocuparse por la gramática obliga al cerebro a editar y modificar los datos crudos. Al tomar notas inmediatas, garabatee palabras clave y hechos; deje la redacción pulida para una etapa posterior.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Un error común al tomar notas de inmediato es intentar escribir frases perfecta
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos
+
+Un error común al tomar notas de inmediato es intentar escribir frases perfectas o informes pulidos. Preocuparse por la gramática obliga al cerebro a editar y modificar los datos crudos. Al tomar notas inmediatas, garabatee palabras clave y hechos; deje la redacción pulida para una etapa posterior.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es correcto usar una aplicación de notas en el teléfono en lugar de un cuaderno?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Un error común al tomar notas de inmediato es intentar escribir frases perfecta
       Sí, es posible. Sin embargo, al usar el teléfono, active el modo 'No molestar' o configure un widget en la pantalla principal para que las notificaciones no lo distraigan, minimizando los retrasos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué opina de dejar una grabadora encendida y tomar notas más tarde acumulando el audio?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "インスピレーションを飼い慣らす方法：スティーブン・キングの毎日2,000単語執筆ルーティンと没頭条件づけ"
 description: "世界で最も成功した作家スティーブン・キングの執筆ルーティン。感覚運動学習（Sensorimotor Learning）と条件づけトリガーを活用し、前頭前野の意志力消耗なしに毎日一定の生産性を維持する3段階の秘密を解き明かします。"
 pubDate: "2026-05-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「king-writing-routine」は <strong>スティーブン・キング自伝『スティーブン・キングの書籍執筆術（On Writing: A Memoir of the Craft, 2000）』史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>スティーブン・キング自伝『スティーブン・キングの書籍執筆術（On Writing: A Memoir of the Craft, 2000）』史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 感覚運動学習（Sensorimotor Learning）と条件づけを通じた没頭の自動化
+## 1. 感覚運動学習（Sensorimotor Learning）と条件づけを通じた没頭の自動化
 
 特定の感覚的刺激（聴覚、味覚、環境）と特定の行動（執筆、業務）を反復的に連結する<strong>「感覚運動学習（Sensorimotor Learning）」</strong>は、脳に高度に条件づけられた自動化神経回路を形成します。スティーブン・キングのように毎日同じ時間、同じ場所でビタミン剤の服用と音楽再生という感覚的トリガーを作動させると、脳はこれを集中開始信号として認識し、即座に没頭モードへと転換されます。この条件反応は<strong>前頭前野（Prefrontal Cortex）</strong>の意志力エネルギー消耗を最小限に抑え、毎日気分に揺らぐことなく均一な生産性を発揮するよう誘導します。
 
 ---
 
-## 注意事項：インスピレーションを待たず意図的に誘発する環境条件づけルール
-
-インスピレーションは偶然訪れるのを待つものではなく、固定された時間と場所で特定の感覚トリガーを通じて意図的に呼び出すものです。主観的な意志力だけに依存せず、席に座れば脳が自動的に集中状態へと突入するよう、固定された身体・感覚信号を事前に設計してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：インスピレーションを待たず意図的に誘発する環境条件づけルール
+
+インスピレーションは偶然訪れるのを待つものではなく、固定された時間と場所で特定の感覚トリガーを通じて意図的に呼び出すものです。主観的な意志力だけに依存せず、席に座れば脳が自動的に集中状態へと突入するよう、固定された身体・感覚信号を事前に設計してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>スティーブン・キングはなぜ毎日2,000単語という具体的な下限線を定めたのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       気分や主観的インスピレーションに依存すると、生産性が不規則になるからです。一定の定量的な生産下限線を定めておくと、脳が決められた時間の間、実行機能を継続稼働させるよう強制し、情緒的スランプに陥るのを防いでくれます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>スティーブン・キングのようにハードロック音楽やビタミン剤のような特定のトリガーをそのまま真似しなければなりませんか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Estátua do conhecimento às 5h: O hábito de recortes de Júlio Verne para desenhar detalhes"
 description: "Explore o hábito de recortes de fichas de informação executado todas as manhãs às 5h por Júlio Verne, pioneiro da ficção científica. Um guia prático moderno em 3 etapas para categorizar informações e fortalecer a memória semântica."
 pubDate: "2026-06-02"
@@ -33,25 +34,23 @@ No post de hoje, exploramos os princípios científicos por trás do hábito de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre verne-morning-scrap é baseada em <strong>Biografias históricas e registros autobiográficos de Júlio Verne e pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Júlio Verne e pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Arquivamento Categorizado Elaborativo': Fortalecimiento da memória semântica
+## 1. 'Arquivamento Categorizado Elaborativo': Fortalecimiento da memória semântica
 
 Em vez de apenas folhear o conhecimento adquirido, o processo de condensar manualmente as informações em fichas principais e categorizá-las fortalece dramaticamente a rede de memória semântica do cérebro. Na psicologia cognitiva, isso é conhecido como <strong>'Ensaio Elaborativo'</strong>, uma técnica que entrelaça fortemente novas informações nas estruturas cognitivas existentes para retenção a longo prazo. A classificação física das fichas estimula vias visuais e motoras no cérebro, reconhecendo conexões estruturais. Esse hábito ativa as vias de recuperação da memória associativa, facilitando a montagem fluida de ideias criativas.
 
 ---
 
-## Prevenir a falácia do colecionador e maximizar a utilidade prática
-
-A principal armadilha de uma rotina de recortes é cair na 'Falácia do Colecionador', sentindo uma falsa sensação de realização apenas ao coletar e armazenar conhecimento. Criar fichas deve servir como um meio para vincular profundamente e aplicar o conhecimento no cérebro. Os resumos devem ser redigidos com suas próprias palavras, e você deve revisar periodicamente seu arquivo de fichas para conectar e aplicar esses aprendizados na escrita ou em discussões.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ A principal armadilha de uma rotina de recortes é cair na 'Falácia do Colecion
   </p>
 </div>
 
+---
+
+## 3. Prevenir a falácia do colecionador e maximizar a utilidade prática
+
+A principal armadilha de uma rotina de recortes é cair na 'Falácia do Colecionador', sentindo uma falsa sensação de realização apenas ao coletar e armazenar conhecimento. Criar fichas deve servir como um meio para vincular profundamente e aplicar o conhecimento no cérebro. Os resumos devem ser redigidos com suas próprias palavras, e você deve revisar periodicamente seu arquivo de fichas para conectar e aplicar esses aprendizados na escrita ou em discussões.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A manhã clara do mestre do Studio Ghibli: A caminhada de limpeza do rio de Hayao Miyazaki"
 description: "Descubra por que o diretor do Studio Ghibli, Hayao Miyazaki, recolhe lixo no bairro todas as manhãs. Veja como caminhar e arrumar estimulam a criatividade genial e a reflexão."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ Neste artigo, exploramos os princípios científicos da 'Caminhada de Limpeza' d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre miyazaki-river-cleanup é baseada em <strong>Pesquisa de biografias históricas e entrevistas de Hayao Miyazaki & estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de biografias históricas e entrevistas de Hayao Miyazaki & estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## A renovação criativa proporcionada ao cérebro pela caminhada altruísta
+## 1. A renovação criativa proporcionada ao cérebro pela caminhada altruísta
 
 Caminhar levemente enquanto se organiza o ambiente ao redor ativa suavemente a <strong>Rede de Modo Padrão (DMN)</strong> do cérebro. Essa rede opera quando o cérebro repousa de tarefas cognitivas direcionadas, conectando ideias dispersas para gerar novas intuições. Além disso, o trabalho físico de limpeza estimula a liberação matinal de serotonina, melhorando o humor.
 
 ---
 
-## Precauções e dicas
-
-Se você checar o celular ou se absorver em pensamentos complexos durante a caminhada, seu cérebro não atingirá o estado de relaxamento da DMN. Desconectar-se de aparelhos, <strong>apreciar a natureza ao redor</strong> e focar em organizar os objetos físicos à sua frente são as chaves para maximizar os benefícios.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Se você checar o celular ou se absorver em pensamentos complexos durante a cami
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Se você checar o celular ou se absorver em pensamentos complexos durante a caminhada, seu cérebro não atingirá o estado de relaxamento da DMN. Desconectar-se de aparelhos, <strong>apreciar a natureza ao redor</strong> e focar em organizar os objetos físicos à sua frente são as chaves para maximizar os benefícios.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

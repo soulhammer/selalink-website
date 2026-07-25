@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pagi Cerah Sang Maestro Ghibli: Jalan Kaki Membersihkan Sungai Hayao Miyazaki"
 description: "Pelajari mengapa sutradara Studio Ghibli Hayao Miyazaki memunguti sampah di sepanjang jalan setiap pagi. Temukan bagaimana berjalan dan merapikan menstimulasi kreativitas jenius."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ Dalam artikel ini, kita mempelajari prinsip ilmiah di balik 'Jalan Kaki Membersi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai miyazaki-river-cleanup didasarkan pada <strong>Riset Biografi Historis dan Catatan Wawancara Hayao Miyazaki & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Wawancara Hayao Miyazaki & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Penyegaran Kreatif yang Diberikan kepada Otak Melalui Jalan Kaki Altruistis
+## 1. Penyegaran Kreatif yang Diberikan kepada Otak Melalui Jalan Kaki Altruistis
 
 Tindakan berjalan ringan sambil merapikan lingkungan sekitar mengaktifkan secara lembut <strong>Default Mode Network (DMN)</strong> otak. Jaringan ini bekerja saat otak beristirahat nyaman dari tugas kognitif berarah, menghubungkan gagasan yang tersebar untuk memicu intuisi segar. Selain itu, kerja pembersihan fisik mendorong pelepasan serotonin pagi hari, menyegarkan suasana hati dan kejernihan mental.
 
 ---
 
-## Tindakan Pencegahan dan Tips
-
-Jika Anda memeriksa smartphone atau terlarut dalam pemikiran rumit selama berjalan, otak Anda tidak dapat mencapai kondisi relaksasi DMN. Mematikan perangkat elektronik secara sadar, <strong>menikmati lingkungan alam sekitar</strong>, dan berfokus hanya pada merapikan objek fisik di depan mata adalah kunci untuk memaksimalkan manfaat kebiasaan ini.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Jika Anda memeriksa smartphone atau terlarut dalam pemikiran rumit selama berjal
     Kembali dari jalan kaki dan manfaatkan kondisi lobus frontal yang rileks, jernih, dan terisi serotonin untuk langsung memulai tugas perencanaan kreatif pertama Anda.
   </p>
 </div>
+
+---
+
+## 3. Tindakan Pencegahan dan Tips
+
+Jika Anda memeriksa smartphone atau terlarut dalam pemikiran rumit selama berjalan, otak Anda tidak dapat mencapai kondisi relaksasi DMN. Mematikan perangkat elektronik secara sadar, <strong>menikmati lingkungan alam sekitar</strong>, dan berfokus hanya pada merapikan objek fisik di depan mata adalah kunci untuk memaksimalkan manfaat kebiasaan ini.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

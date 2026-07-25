@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le roi de l'automobile qui esquissait l'innovation en arpentant la chaîne : Le schéma de flux et la routine d'externalisation cognitive de Henry Ford"
 description: "Découvrez comment Henry Ford, pionnier de la chaîne de montage mobile, réduisait sa charge préfrontale en arpentant l'usine et en dessinant des schémas de flux dans ses carnets. Explorez la neuroscience de la poursuite visuelle et de l'externalisation cognitive."
 pubDate: "2026-06-23"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons les principes physiologiques sous-jacents à la
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant ford-line-walking est basée sur <strong>Vérification Historique issue de l'autobiographie de Henry Ford *Ma vie et mon œuvre (My Life and Work)*, des biographies historiques & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Henry Ford *Ma vie et mon œuvre (My Life and Work)*, des biographies historiques & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Poursuite visuelle continue et neuroscience de l'externalisation cognitive
+## 1. Poursuite visuelle continue et neuroscience de l'externalisation cognitive
 
 Le suivi visuel d'un <strong>mouvement mécanique ordonné (Smooth Pursuit)</strong>, comme celui d'une chaîne de montage, synchronise le cortex visuel avec les circuits du cervelet, apaisant le bruit neuronal et centrant l'attention. De plus, traduire des processus complexes en formes géométriques et flèches (Schéma Spatial) déclenche une puissante <strong>Externalisation Cognitive (Cognitive Offloading)</strong>. Transférer la mémoire de travail sur le papier préserve le cortex préfrontal pour la prise de décision.
 
 ---
 
-## Mise en garde : Exploiter le retour de friction tactile et la concentration analogique
-
-Utiliser des écrans tactiles pour schématiser des concepts expose le cerveau aux notifications et à la lumière bleue. Les surfaces en verre lisses réduisent la stimulation somatosensorielle de plus de 50 %. Pour maximiser la compréhension, utilisez un crayon sur un carnet papier ; la résistance tactile fournit un retour sensoriel qui renforce la clarté.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Utiliser des écrans tactiles pour schématiser des concepts expose le cerveau a
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Exploiter le retour de friction tactile et la concentration analogique
+
+Utiliser des écrans tactiles pour schématiser des concepts expose le cerveau aux notifications et à la lumière bleue. Les surfaces en verre lisses réduisent la stimulation somatosensorielle de plus de 50 %. Pour maximiser la compréhension, utilisez un crayon sur un carnet papier ; la résistance tactile fournit un retour sensoriel qui renforce la clarté.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Peut-on remplacer le papier en dessinant avec un stylet sur une tablette ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Utiliser des écrans tactiles pour schématiser des concepts expose le cerveau a
       Les écrans numériques manquent de friction physique, ce qui réduit le retour somatosensoriel et introduit des distractions. Le papier physique offre une résistance sous la pointe du crayon qui stimule plus profondément le cerveau. L'utilisation du papier est recommandée.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Le fait de schématiser assis est-il aussi efficace qu'en marchant ?</span>

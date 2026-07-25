@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinais Ambientais que Protegem a Imersão: O Hábito da Porta Rangendo de Jane Austen"
 description: "Jane Austen deixou intencionalmente sem conserto uma porta rangendo para detectar antecipadamente as distrações que chegavam. Explore os princípios do projeto de limites de concentração."
 pubDate: "2026-03-27"
@@ -37,17 +38,17 @@ No artigo de hoje, examinamos os princípios da ciência cognitiva do firewall d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre austen-creaky-door é baseada em <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) e Pesquisa do *Neuropsychologia*</strong>.
+      Este conteúdo baseia-se em <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) e Pesquisa do *Neuropsychologia*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Proteção Contra Fricção de Alternância de Tarefas Fornecida pelo Som da Porta Rangendo
+## 1. Proteção Contra Fricção de Alternância de Tarefas Fornecida pelo Som da Porta Rangendo
 
 Intrusões externas repentinas e sem aviso causam <strong>'Fricção de Alternância de Tarefa (Task-Switching Friction)'</strong> no cérebro e maximizam a perda de <strong>'Resíduo de Atenção (Attention Residue)'</strong>, onde o foco permanece preso à tarefa anterior.
 
@@ -55,9 +56,7 @@ O som da porta rangendo utilizado por Jane Austen funcionou como um Sinal de Ale
 
 ---
 
-## Guia de Manutenção da Imersão para Lidar com Ruídos Intrusivos Externos
-
-Em vez de confiar apenas na força de vontade, projete restrições ambientais para criar um estado em que o cérebro não tenha escolha a não ser manter o foco. A chave é construir um sinal sensorial de alerta precoce, como o som de uma dobradiça rangendo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Em vez de confiar apenas na força de vontade, projete restrições ambientais p
   </p>
 </div>
 
+---
+
+## 3. Guia de Manutenção da Imersão para Lidar com Ruídos Intrusivos Externos
+
+Em vez de confiar apenas na força de vontade, projete restrições ambientais para criar um estado em que o cérebro não tenha escolha a não ser manter o foco. A chave é construir um sinal sensorial de alerta precoce, como o som de uma dobradiça rangendo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que Jane Austen escrevia em uma sala de estar com uma porta rangendo em vez de um escritório privado?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Em vez de confiar apenas na força de vontade, projete restrições ambientais p
       Na Grã-Bretanha do século XIX, raramente se fornecia um escritório independente para escritoras. Austen também teve que escrever no espaço compartilhado da sala de estar, por isso utilizou a porta rangendo para perceber as visitas repentinas de sua família e ganhar tempo para esconder seus manuscritos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como este método pode ser aplicado em um ambiente digital moderno?</span>

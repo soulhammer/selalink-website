@@ -507,6 +507,10 @@
           "소형견 훈련"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/yorkshire_care.png"
   }
 }

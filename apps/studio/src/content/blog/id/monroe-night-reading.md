@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jiwa di Balik Tata Rias: Kebiasaan Membaca dan Refleksi Malam Hari Marilyn Monroe"
 description: "Di balik citra publiknya sebagai simbol seks, Marilyn Monroe adalah seorang pencinta buku yang memiliki perpustakaan pribadi berisi lebih dari 400 buku. Pelajari prinsip ilmiah bagaimana membaca literatur dan menulis diari di malam hari mengurangi hormon stres dan menjaga identitas dirinya."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kita menguji mekanisme neurosains dari relaksasi siste
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai monroe-night-reading didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi Marilyn Monroe & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi Marilyn Monroe & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaksasi Sistem Saraf Otonom dan Konsolidasi Memori Hipokampus Melalui Membaca Literatur
+## 1. Relaksasi Sistem Saraf Otonom dan Konsolidasi Memori Hipokampus Melalui Membaca Literatur
 
 Ketika otak terpapar evaluasi eksternal dan stres performa dalam jangka panjang, hiper-arousal sistem saraf simpatik menyebabkan kelelahan kronis dan gangguan tidur. Menurut studi kognitif di Inggris, membaca karya sastra dengan tenang hanya selama 6 menit mengurangi ketegangan otot dan memperlambat detak jantung, memangkas tingkat stres hingga 68%. Tenggelam dalam narasi klasik memungkinkan otak lepas dari egonya sendiri dan mencapai keadaan pemulihan melalui empati naratif. Selain itu, menulis diari setelah membaca mendorong hipokampus di korteks serebral untuk mengkonsolidasikan memori stres secara damai, mengoptimalkan pembersihan otak selama tidur.
 
 ---
 
-## Tindakan Pencegahan dan Tips Praktis
-
-Tindakan paling penting yang harus dihindari saat membaca reflektif di malam hari adalah membaca di bawah cahaya fluoresens yang terang atau menatap layar smartphone. Cahaya biru buatan yang terang memblokir sekresi melatonin, hormon pemicu tidur, yang memperburuk insomnia. Oleh karena itu, saat membaca di malam hari, gunakan hanya satu lampu tak langsung ber nada kuning hangat, menjaga kontrol lingkungan agar otak Anda dapat beralih ke mode tidur secara aman.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tindakan paling penting yang harus dihindari saat membaca reflektif di malam har
   </p>
 </div>
 
+---
+
+## 3. Tindakan Pencegahan dan Tips Praktis
+
+Tindakan paling penting yang harus dihindari saat membaca reflektif di malam hari adalah membaca di bawah cahaya fluoresens yang terang atau menatap layar smartphone. Cahaya biru buatan yang terang memblokir sekresi melatonin, hormon pemicu tidur, yang memperburuk insomnia. Oleh karena itu, saat membaca di malam hari, gunakan hanya satu lampu tak langsung ber nada kuning hangat, menjaga kontrol lingkungan agar otak Anda dapat beralih ke mode tidur secara aman.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah membaca sebelum tidur merangsang otak dan mengganggu tidur?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tindakan paling penting yang harus dihindari saat membaca reflektif di malam har
       Membaca buku kertas daripada smartphone yang memancarkan cahaya biru — terutama karya humaniora, puisi, atau esai yang tenang di bawah pencahayaan tak langsung yang lembut — menginduksi gelombang otak alfa yang justru membantu tidur nyenyak.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mencatat kutipan favorit saat membaca di malam hari tanpa mengganggu tidur?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Antidote to Solitary Speculation: David Hume's Evening Socializing and Backgammon Routine for Emotional Reset"
 description: "Discover how Scottish philosopher David Hume combated intellectual melancholy by dining with friends and playing backgammon every evening. Learn the neuroscience of oxytocin, serotonin, and prefrontal cognitive overload prevention."
 pubDate: "2026-03-18"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind David Hume's 'eveni
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding hume-social-refresh is based on <strong>Historical Verification from David Hume's *A Treatise of Human Nature* (1739), Autobiography *My Own Life* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from David Hume's *A Treatise of Human Nature* (1739), Autobiography *My Own Life* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Oxytocin and Serotonin Secretion: Relieving Prefrontal Cognitive Overload
+## 1. Oxytocin and Serotonin Secretion: Relieving Prefrontal Cognitive Overload
 
 Sustaining intense problem-solving late into the evening after draining executive resources in the <strong>Prefrontal Cortex</strong> traps the central nervous system in chronic sympathetic arousal. Engaging in playful, lighthearted social interaction during dinner stimulates the release of <strong>serotonin</strong> and <strong>oxytocin</strong>, instantly soothing <strong>amygdala</strong> threat-detection loops. Furthermore, engaging in rule-bound casual games like chess or backgammon gently activates the <strong>Default Mode Network (DMN)</strong>, allowing subconscious consolidation of complex daytime memories and restoring prefrontal clarity for the next day.
 
 ---
 
-## Caution: Excluding Professional Business or Heated Ideological Debates During Social Reset
-
-The neuroscientific intent of Hume's evening socializing is emotional relaxation and stress recovery. Engaging in high-stakes professional negotiations or intense ideological arguments during evening gatherings re-taxes the prefrontal cortex, exacerbating cognitive burnout. Filling social gatherings with light humor, casual banter, and playful interactions is essential to construct a parasympathetic relaxation environment.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The neuroscientific intent of Hume's evening socializing is emotional relaxation
   </p>
 </div>
 
+---
+
+## 3. Caution: Excluding Professional Business or Heated Ideological Debates During Social Reset
+
+The neuroscientific intent of Hume's evening socializing is emotional relaxation and stress recovery. Engaging in high-stakes professional negotiations or intense ideological arguments during evening gatherings re-taxes the prefrontal cortex, exacerbating cognitive burnout. Filling social gatherings with light humor, casual banter, and playful interactions is essential to construct a parasympathetic relaxation environment.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if I live alone or have no one to meet offline in the evening?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The neuroscientific intent of Hume's evening socializing is emotional relaxation
       Voice calls with close friends or participating in casual online multiplayer games serve as great substitutes. The core requirement is receiving warm, low-stakes social feedback while relaxed. However, passively scrolling through social media feeds should be avoided, as it increases prefrontal fatigue.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it fine to substitute chess with other board games, cards, or casual play if I don't play chess?</span>

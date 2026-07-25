@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "성공적인 결정을 만드는 비결? 버락 오바마의 의사결정 단순화 루틴"
 description: "미국 제44대 대통령 버락 오바마가 재임 시절 실천한 의사결정 단순화 루틴. 전두엽의 결정 피로를 줄여 중대 업무 효율을 극대화하는 3단계 비결을 알아봅니다."
 pubDate: "2026-01-06"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>버락 오바마 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 obama-decision-simplification 루틴을 다룹니다.
+      본 콘텐츠는 <strong>버락 오바마 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 의사결정 피로와 자아 고갈: 전두엽의 에너지 한계
+## 1. 의사결정 피로와 자아 고갈: 전두엽의 에너지 한계
 
 심리학과 뇌과학 분야의 실증 연구에 따르면, 의사결정 능력은 무한한 자원이 아닌 한정된 배터리와 같습니다. 아침에 일어나 어떤 양말을 신을지, 어떤 음식을 먹을지 고민하는 미세한 선택들도 전두엽의 인지적 자원(Willpower)을 소모합니다. 이 자원이 점차 바닥나는 현상을 '자아 고갈(Ego Depletion)' 또는 '결정 피로(Decision Fatigue)'라고 부릅니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 효율적인 판단 관리를 위한 뇌과학적 한마디
-
-더 적은 사소한 선택은 더 깊은 집중을 의미합니다. 일상에서 무엇을 고를지 고민하는 과정을 간소화해 보세요. 뇌의 낭비되는 인지 누수를 막아 당신이 정말 성공시키고 싶은 중요한 분야에 폭발적인 추진력을 더해줄 것입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     단순화된 아침 준비 과정 덕분에 보존된 아침 시간대의 인지 에너지를 확인합니다. 출근 후 가벼운 이메일 확인이나 사소한 회의로 이 에너지를 흘려보내지 말고, 오늘 처리해야 할 업무 중 가장 핵심적이고 어려운 의사결정을 첫 업무로 처리합니다.
   </p>
 </div>
+
+---
+
+## 3. 효율적인 판단 관리를 위한 뇌과학적 한마디
+
+더 적은 사소한 선택은 더 깊은 집중을 의미합니다. 일상에서 무엇을 고를지 고민하는 과정을 간소화해 보세요. 뇌의 낭비되는 인지 누수를 막아 당신이 정말 성공시키고 싶은 중요한 분야에 폭발적인 추진력을 더해줄 것입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

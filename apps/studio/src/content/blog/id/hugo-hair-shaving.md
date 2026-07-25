@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Memaksa Fokus dengan Memblokir Keluar Rumah: Kebiasaan Isolasi Mencukur Cukur Rambut Victor Hugo dan Strategi Pra-komitmen"
 description: "Pelajari bagaimana Victor Hugo mencukur separuh rambut dan jenggotnya untuk mencegah dirinya keluar rumah dan mengejar tenggat waktu penerbit. Temukan neurosains tentang hambatan fisik lingkungan dan pencegahan kelelahan kehendak prefrontal."
 pubDate: "2026-06-29"
@@ -33,25 +34,23 @@ Untuk mematahkan penundaannya, Hugo merancang solusi yang luar biasa: ia mencuku
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai hugo-hair-shaving didasarkan pada <strong>Verifikasi Historis dari *Victor Hugo: A Biography* karya Graham Robb, Terapi Perilaku & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Victor Hugo: A Biography* karya Graham Robb, Terapi Perilaku & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Strategi Pra-komitmen dan Pencegahan Kelelahan Kehendak Prefrontal
+## 1. Strategi Pra-komitmen dan Pencegahan Kelelahan Kehendak Prefrontal
 
 Kapasitas manusia untuk menolak godaan bergantung pada sumber daya eksekutif yang terbatas di <strong>Korteks Prefrontal</strong>. Menggunakan kendali diri secara terus-menerus saat terpapar gangguan menyebabkan <strong>Kelelahan Kehendak (Willpower Fatigue)</strong>. Metode Victor Hugo yang secara fisik menghilangkan kemungkinan menyerah pada godaan diakui dalam ekonomi perilaku sebagai <strong>Strategi Pra-komitmen (Precommitment Strategy)</strong>. Dengan mengunci pakaian formalnya, ia memusatkan 100% energi otak pada tugasnya.
 
 ---
 
-## Perhatian: Melakukan Pra-komitmen Lingkungan Fisik Daripada Mengandalkan Kehendak
-
-Jangan mencoba mengatasi notifikasi digital atau godaan hanya dengan mengandalkan kehendak murni. Sama seperti isolasi radikal Hugo, kunci keberhasilan terletak pada mengatur hambatan lingkungan fisik yang tidak dapat dilalui terlebih dahulu—seperti menggunakan kotak kunci telepon berbatas waktu atau pemblokir situs web.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Jangan mencoba mengatasi notifikasi digital atau godaan hanya dengan mengandalka
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Melakukan Pra-komitmen Lingkungan Fisik Daripada Mengandalkan Kehendak
+
+Jangan mencoba mengatasi notifikasi digital atau godaan hanya dengan mengandalkan kehendak murni. Sama seperti isolasi radikal Hugo, kunci keberhasilan terletak pada mengatur hambatan lingkungan fisik yang tidak dapat dilalui terlebih dahulu—seperti menggunakan kotak kunci telepon berbatas waktu atau pemblokir situs web.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah Victor Hugo benar-benar mencukur separuh rambut dan jenggotnya untuk menulis novelnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Jangan mencoba mengatasi notifikasi digital atau godaan hanya dengan mengandalka
       Ya, benar sekali. Pada akhir tahun 1830, menghadapi tenggat waktu penerbit yang ketat untuk *The Hunchback of Notre-Dame*, Hugo mencukur separuh kepala dan jenggotnya serta mengunci pakaian luarnya untuk memaksakan isolasi mandiri total.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Metode isolasi pra-komitmen modern apa yang dapat saya gunakan tanpa mencukur rambut saya?</span>

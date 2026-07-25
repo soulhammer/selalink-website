@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La 'calisthenics du lever du soleil' de Nelson Mandela : Protéger le corps et l'esprit derrière les barreaux"
 description: "Nelson Mandela a préservé sa force physique et son endurance mentale en pratiquant la callisthénie tous les matins à 5h00 pendant 27 ans d'emprisonnement. Découvrez sa routine du lever du soleil pour restaurer l'autonomie et la résilience psychologique."
 pubDate: "2026-01-13"
@@ -35,17 +36,17 @@ Dans l'article d'aujourd'hui, nous analysons les fondements scientifiques de la 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant nelson-mandela-sunrise-workout est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques sur l'entraînement au lever du soleil de Nelson Mandela & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques sur l'entraînement au lever du soleil de Nelson Mandela & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscience du maintien de l'autonomie sous un contrôle extrême
+## 1. Neuroscience du maintien de l'autonomie sous un contrôle extrême
 
 Lorsque l'environnement extérieur est rigoureusement contrôlé et qu'aucune liberté n'est accordée, le cerveau perçoit une perte de contrôle comportemental et glisse vers un état d'impuissance apprise (Learned Helplessness), menant à la dépression et au déclin cognitif.
 
@@ -53,9 +54,7 @@ L'entraînement matinal de Mandela était un mécanisme de rétroaction comporte
 
 ---
 
-## Le premier mouvement du matin détermine l'esprit de la journée
-
-Ne consommez pas passivement des stimuli externes en restant allongé au lit à regarder votre smartphone dès que vous ouvrez les yeux. Comme Nelson Mandela, étirez votre corps et engagez un mouvement physique actif pour signaler à votre cerveau que vous détenez la pleine maîtrise de votre corps et de votre journée.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Ne consommez pas passivement des stimuli externes en restant allongé au lit à 
   </p>
 </div>
 
+---
+
+## 3. Le premier mouvement du matin détermine l'esprit de la journée
+
+Ne consommez pas passivement des stimuli externes en restant allongé au lit à regarder votre smartphone dès que vous ouvrez les yeux. Comme Nelson Mandela, étirez votre corps et engagez un mouvement physique actif pour signaler à votre cerveau que vous détenez la pleine maîtrise de votre corps et de votre journée.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Dois-je me forcer à me réveiller à 5h00 pour faire de l'exercice même si je manque de sommeil ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Ne consommez pas passivement des stimuli externes en restant allongé au lit à 
       Les jours d'extrême fatigue physique, il est préférable de remplacer l'entraînement intense par 5 à 10 minutes d'étirements doux et de respiration profonde. L'essence de la routine de Mandela ne consiste pas à surmener son corps, mais à amorcer l'autonomie de la journée par sa propre volonté consciente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment les débutants ayant une faible endurance physique doivent-ils commencer ?</span>

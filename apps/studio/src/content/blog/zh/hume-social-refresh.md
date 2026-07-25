@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "孤独沉思的解毒剂：大卫·休谟的晚间社交与西洋双陆棋复位习惯"
 description: "深度剖析现代认知科学先驱大卫·休谟如何在白天进行严苛思考后，于晚间通过与友人共进晚餐、下西洋双陆棋与国际象棋来消除理性抑郁。揭示催产素、血清素与防止前额叶认知过载的神经科学原理。"
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 hume-social-refresh 的内容基于 <strong>大卫·休谟著作集《人性论（A Treatise of Human Nature, 1739）》与自传《我的生平（My Own Life）》史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>大卫·休谟著作集《人性论（A Treatise of Human Nature, 1739）》与自传《我的生平（My Own Life）》史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 催产素与血清素分泌及纾解前额叶认知过载机制
+## 1. 催产素与血清素分泌及纾解前额叶认知过载机制
 
 在白天榨干了<strong>前额叶皮层（Prefrontal Cortex）</strong>有限的认知能量后，若于晚间依然维持对问题破解的死磕与执念，大脑将陷于慢性应激交感神经高压状态。与友人共进晚餐并展开风趣的社交对谈，能有效拉动<strong>血清素（Serotonin）</strong>与<strong>催产素（Oxytocin）</strong>的分泌，瞬间抚平<strong>杏仁核（Amygdala）</strong>的警报与压力反应。此外，参与如西洋双陆棋或国际象棋这般规则明确而轻松的游乐博弈，能柔和拉动<strong>预设模式网络（Default Mode Network，DMN）</strong>运转，促使昼间沉淀的复杂思绪碎片在潜意识中完成沉淀归位，进而赋予次日极其清明的执行力。
 
 ---
 
-## 注意事项：规避商业事务与激进争辩，专注情感松弛指南
-
-休谟践行晚间社交的核心宗旨在于消解大脑压力与达至情感松弛。若在聚会餐桌上重新挑起繁重的商业洽谈或剧烈的思想论辩，前额叶皮层将被再次过度耗损，加剧认知过载。以轻松的幽默风趣、家常闲聊与游戏互动充盈社交气场，乃是营造神经科学放松微环境的根基。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：规避商业事务与激进争辩，专注情感松弛指南
+
+休谟践行晚间社交的核心宗旨在于消解大脑压力与达至情感松弛。若在聚会餐桌上重新挑起繁重的商业洽谈或剧烈的思想论辩，前额叶皮层将被再次过度耗损，加剧认知过载。以轻松的幽默风趣、家常闲聊与游戏互动充盈社交气场，乃是营造神经科学放松微环境的根基。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>若晚间身处独居或无法在线下找到亲友聚会，该如何等效替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       与亲友进行语音通话或参与低压力的线上多人群体游戏均是绝佳替代。机制的核心在于在解除认知紧绷的状态下，接受温情且风趣的社交情绪反馈。然而，须切记严格摒弃被动刷社交媒体动态的行为，因其会进一步加剧前额叶疲劳。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若我不擅长国际象棋，替换为围棋、象棋或其它桌游也具备同等效果吗？</span>

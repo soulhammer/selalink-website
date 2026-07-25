@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "거꾸로 서는 영감: 스트라빈스키의 물구나무 창의법"
 description: "작곡 중 슬럼프가 올 때마다 물구나무를 섰던 음악가 이고르 스트라빈스키. 물리적 자세 변화가 뇌 혈류량을 늘리고 창의적 돌파구를 만드는 과학적 원리를 알아봅니다."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Igor Stravinsky 자서전 및 음악 평전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 stravinsky-headstand-composition 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Igor Stravinsky 자서전 및 음악 평전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 물구나무서기가 뇌의 혈류와 전정 감각을 리셋하는 원리
+## 1. 물구나무서기가 뇌의 혈류와 전정 감각을 리셋하는 원리
 
 뇌가 한 가지 생각에 갇혀 있을 때 물리적인 신체 자세를 수직으로 역전시키면 두 가지 뇌과학적 변화가 일어납니다. 첫째, 중력의 영향으로 혈류가 두부로 몰려 전두엽에 산소와 영양 공급이 즉각적으로 촉발됩니다. 둘째, 내이의 전정 기관에 평소와 다른 강한 중력 신호가 감지되면서 소뇌와 대뇌 피질의 공간 정향 신경망이 강력히 각성됩니다. 이는 기존의 경직된 주의 필터를 해제하여 창의적인 연상 작용을 유도합니다.
 
 ---
 
-## 주의사항 및 팁
-
-경추나 혈압 문제가 있는 경우 완벽한 물구나무서기 대신 벽에 등을 대거나 의자에 다리를 올리는 부드러운 하프 인버전으로 대체하십시오. 또한 뇌의 혈압이 적응할 수 있도록 1분 이내로 짧게 수행하고, 물구나무서기가 끝난 후에는 갑자기 일어나지 말고 30초 정도 엎드린 상태를 유지하며 서서히 자세를 회복하는 것이 필수적입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     조심스럽게 발을 내린 후 곧장 일어서지 않고 30초간 엎드려 안정을 취한 뒤, 의자에 앉아 머리가 맑아지고 생각이 다르게 전환되는 감각에 집중합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+경추나 혈압 문제가 있는 경우 완벽한 물구나무서기 대신 벽에 등을 대거나 의자에 다리를 올리는 부드러운 하프 인버전으로 대체하십시오. 또한 뇌의 혈압이 적응할 수 있도록 1분 이내로 짧게 수행하고, 물구나무서기가 끝난 후에는 갑자기 일어나지 말고 30초 정도 엎드린 상태를 유지하며 서서히 자세를 회복하는 것이 필수적입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

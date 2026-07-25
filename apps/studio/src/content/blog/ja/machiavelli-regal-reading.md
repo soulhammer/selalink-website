@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "聖賢との対話：マキアヴェッリの格調高き読書ルーティン"
 description: "流刑地にあっても毎晩、宮廷衣裳に着替えて歴史書を読んだ政治家ニコロ・マキアヴェッリ。服装の格調が脳の覚醒とマインドセットを切り替える「着衣認知（Enclothed Cognition）」効果の科学的原理を解説します。"
 pubDate: "2026-04-01"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「machiavelli-regal-reading」は <strong>ニコロ・マキアヴェッリの書簡史料『マキアヴェッリ書簡集（Letters of Machiavelli）』の考証および認知神経科学（Cognitive Neuroscience）・認知心理学（Cognitive Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ニコロ・マキアヴェッリの書簡史料『マキアヴェッリ書簡集（Letters of Machiavelli）』の考証および認知神経科学（Cognitive Neuroscience）・認知心理学（Cognitive Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 着衣認知（Enclothed Cognition）効果と執行制御ネットワーク（Executive Control Network）の活性化
+## 1. 着衣認知（Enclothed Cognition）効果と執行制御ネットワーク（Executive Control Network）の活性化
 
 人間の認知システムは、着用する衣類の象徴的意味に強く同調する<strong>着衣認知（Enclothed Cognition）</strong>現象を経験します。
 
@@ -55,9 +56,7 @@ faqs:
 
 ---
 
-## 休息着のリラックス信号を遮断し、きちんとした服装への切り替えで没頭するための極意
-
-単に高価で堅苦しい服を着る必要はなく、服装を通じて脳が「没頭・作業モード」という固有の役割アイデンティティを自覚することが本質です。身体を過度に締め付けたり痛みを生じさせる無理なスーツは認知リソースを奪うため、休息着と明確に区別されつつも快適に集中できる清潔感のある活動着レベルを設定するのが最も理想的です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 休息着のリラックス信号を遮断し、きちんとした服装への切り替えで没頭するための極意
+
+単に高価で堅苦しい服を着る必要はなく、服装を通じて脳が「没頭・作業モード」という固有の役割アイデンティティを自覚することが本質です。身体を過度に締め付けたり痛みを生じさせる無理なスーツは認知リソースを奪うため、休息着と明確に区別されつつも快適に集中できる清潔感のある活動着レベルを設定するのが最も理想的です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在宅勤務や自宅学習の際、パジャマの代わりに外出着を着ることは本当に効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ faqs:
       はい、認知心理学の着衣認知（Enclothed Cognition）研究がこれを強力に立証しています。パジャマやホームウェアの代わりにスラックスやシャツなど整った服に着替える行動だけでも、脳は「休息文脈」から「作業文脈」へと象徴的モードを切り替え、先延ばし癖を減らし没頭初期のウォーミングアップ時間を劇的に短縮させます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>スーツや外出着全体に着替えるのが難しい場合、眼鏡や時計のような単一のアイテムだけでも効果を得られますか？</span>

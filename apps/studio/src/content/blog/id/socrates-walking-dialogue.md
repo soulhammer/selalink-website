@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Filsuf yang Mengajukan Pertanyaan Sambil Telanjang Kaki: Kebiasaan Jalan Kaki Kognitif Socrates"
 description: "Socrates, kearifan Yunani kuno yang memperluas pemikiran melalui jalan kaki tanpa henti. Jelajahi prinsip ilmu saraf tentang jalan kaki yang menstimulasi hipokampus dan fleksibilitas kognitif."
 pubDate: "2026-03-06"
@@ -31,25 +32,23 @@ Dalam artikel ini, kami menjelajahi prinsip ilmu saraf ritual jalan kaki Socrate
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai socrates-walking-dialogue didasarkan pada <strong>Riset biografi historis Socrates & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi historis Socrates & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroplastisitas Hipokampus dan Fleksibilitas Aerobik
+## 1. Neuroplastisitas Hipokampus dan Fleksibilitas Aerobik
 
 Berjalan kaki berfungsi sebagai pompa fisiologis yang mendorong oksigen dan aliran darah ke seluruh otak. Berjalan kaki meningkatkan detak jantung dan memicu sekresi Brain-Derived Neurotrophic Factor (BDNF). BDNF membentuk kembali koneksi sinapsis di hipokampus, berfungsi sebagai pelumas utama neuroplastisitas. Selain itu, tekanan ritmis pada telapak kaki menekan perulangan DMN yang berlebihan, memupuk fleksibilitas kognitif.
 
 ---
 
-## Tips Ilmu Saraf untuk Rutinitas yang Sukses
-
-Tubuh yang berjalan menyambungkan kembali sekering otak. Menatap layar monitor tidak akan menyelesaikan masalah rumit ketika memori kerja sudah jenuh. Melangkah keluar seperti Socrates dan berjalanlah selama 15 menit untuk meningkatkan aliran darah otak. Otak Anda akan mensintesis terobosan logika baru seirama dengan langkah kaki Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Tubuh yang berjalan menyambungkan kembali sekering otak. Menatap layar monitor t
     Tentukan satu pertanyaan utama untuk hari ini. Saat berjalan, ajukan pertanyaan 'Mengapa?' kepada diri sendiri dan jawablah, ulangi siklus tersebut untuk memunculkan wawasan yang tidak terduga.
   </p>
 </div>
+
+---
+
+## 3. Tips Ilmu Saraf untuk Rutinitas yang Sukses
+
+Tubuh yang berjalan menyambungkan kembali sekering otak. Menatap layar monitor tidak akan menyelesaikan masalah rumit ketika memori kerja sudah jenuh. Melangkah keluar seperti Socrates dan berjalanlah selama 15 menit untuk meningkatkan aliran darah otak. Otak Anda akan mensintesis terobosan logika baru seirama dengan langkah kaki Anda.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

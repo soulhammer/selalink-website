@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pemeriksaan Diri Malam Hari Seneca: Cara Mendapatkan Tidur Nyenyak dan Memperbaiki Kesalahan Kemarin"
 description: "Pelajari bagaimana filsuf Stoa Seneca memeriksa dan menilai tindakannya di kamar gelap sebelum tidur, meredakan ketegangan otak dan meningkatkan kualitas tidur."
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ Ritual refleksi kuno yang mencapai penutupan kognitif ini divalidasi oleh fisiol
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai seneca-evening-review didasarkan pada <strong>Verifikasi tekstual 'De Ira' (Tentang Kemarahan) karya Seneca, literatur Stoa & penelitian fisiologi tidur Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi tekstual 'De Ira' (Tentang Kemarahan) karya Seneca, literatur Stoa & penelitian fisiologi tidur Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Alasan Fisiologis Refleksi Malam Mengubah Otak ke Mode Tidur
+## 1. Alasan Fisiologis Refleksi Malam Mengubah Otak ke Mode Tidur
 
 Tidur dengan membawa kecemasan membuat sistem saraf simpatik tetap aktif dan mengganggu tidur nyenyak.
 
@@ -51,9 +52,7 @@ Sebaliknya, refleksi malam menginduksi 'Penutupan Kognitif'. Meninjau tindakan d
 
 ---
 
-## Hindari Jebakan Menyalahkan Diri Sendiri dan Penyesalan
-
-Inti refleksi malam adalah perbaikan rasional, bukan menyalahkan diri secara emosional. Mengkritik diri sendiri sebelum tidur memicu hormon stres. Maafkan diri Anda dengan tenang: "Saya berbuat salah, tapi saya paham alasannya dan akan memperbaikinya besok."
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Inti refleksi malam adalah perbaikan rasional, bukan menyalahkan diri secara emo
     Pilih satu momen penyesalan hari ini dan tetapkan satu tindakan perbaikan konkret untuk esok hari. Setelah itu, nyatakan: "Tugas hari ini sudah selesai," dan lepaskan semua pikiran.
   </p>
 </div>
+
+---
+
+## 3. Hindari Jebakan Menyalahkan Diri Sendiri dan Penyesalan
+
+Inti refleksi malam adalah perbaikan rasional, bukan menyalahkan diri secara emosional. Mengkritik diri sendiri sebelum tidur memicu hormon stres. Maafkan diri Anda dengan tenang: "Saya berbuat salah, tapi saya paham alasannya dan akan memperbaikinya besok."
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

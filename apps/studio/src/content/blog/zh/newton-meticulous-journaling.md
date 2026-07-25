@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在混乱中记录秩序：艾萨克·牛顿爵士的研究日志习惯"
 description: "人类伟大的科学巨匠艾萨克·牛顿爵士。探索他终身在巨型皮革笔记本中精准记录每项洞察与计算的习惯，以及手写带来的脑科学原理。"
 pubDate: "2026-03-30"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 newton-meticulous-journaling 的内容基于 <strong>艾萨克·牛顿爵士历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>艾萨克·牛顿爵士历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 释放工作记忆过载的“认知外置”
+## 1. 释放工作记忆过载的“认知外置”
 
 负责处理短期信息的“工作记忆（Working Memory）”容量极其有限。当在脑海中复杂地盘旋无数演算与洞察时，大脑易陷入认知过载并暂停创造性思维。牛顿在笔记本上精细手写与视觉化的行为，正是触发了大脑的<strong>“认知外置（Cognitive Offloading）”</strong>机制。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 进行视觉结构化训练，而非机械记录
-
-在手机或数字记事本上机械输入文本带来的触觉刺激较少，巩固记忆的效果也较弱。核心在于手握笔向大脑传递模拟反馈，并利用箭头、示意图、图表等将思考进行视觉化交织。即便使用数字笔记，也请配合手写笔亲自绘制图表与连接线，进行视觉结构化训练。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     不要局限于线性文本；用箭头连接点子，亲绘流程图、概念图或表格，将复杂的逻辑进行视觉化交织与梳理。
   </p>
 </div>
+
+---
+
+## 3. 进行视觉结构化训练，而非机械记录
+
+在手机或数字记事本上机械输入文本带来的触觉刺激较少，巩固记忆的效果也较弱。核心在于手握笔向大脑传递模拟反馈，并利用箭头、示意图、图表等将思考进行视觉化交织。即便使用数字笔记，也请配合手写笔亲自绘制图表与连接线，进行视觉结构化训练。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

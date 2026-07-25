@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "プレッシャーを消し去る方法：マイケル・フェルプスの2時間前超認知ルーティン"
 description: "オリンピック最多金メダリストのマイケル・フェルプスが試合直前に実行した超精密な行動ルーティン。完全にコントロールされた手順が脳の極度な緊張と不安を予防する科学的原理を解明します。"
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「phelps-pre-race-routine」は <strong>マイケル・フェルプスの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マイケル・フェルプスの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 超精密な事前ルーティンが脳の不安を鎮める科学
+## 1. 超精密な事前ルーティンが脳の不安を鎮める科学
 
 試合や発表の直前、脳が直面する最も危険な状態は「不確実性」とそれに伴う不安です。予測不可能な環境に置かれると、脳の感情および警戒センターである<strong>扁桃体（Amygdala）</strong>が過熱し、ストレスホルモンを大量に放出します。しかし、既に数百回以上反復され完全にコントロール可能な物理的行動セットを作動させると、脳は状況を制御していると判断して扁桃体の活性を下げ、アドレナリン分泌を最適化します。
 
 ---
 
-## 注意事項とヒント
-
-注意すべき点は、このルーティンが単なる迷信や魔法のお守りではないという点です。マイケル・フェルプスも長年の<strong>機械的な訓練と反復</strong>を通じて、ルーティンと身体のリラクゼーションとの間の強固なシナプス結合を構築しました。したがって、初期に失敗しても焦らず、地道に自分のルーティンを定着させていく訓練が不可欠です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     行動完了後、頭の中で自分が臨む本番の完璧な成功シナリオをイメージトレーニングし、不安中枢を鎮めて準備状態を完了させます。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+注意すべき点は、このルーティンが単なる迷信や魔法のお守りではないという点です。マイケル・フェルプスも長年の<strong>機械的な訓練と反復</strong>を通じて、ルーティンと身体のリラクゼーションとの間の強固なシナプス結合を構築しました。したがって、初期に失敗しても焦らず、地道に自分のルーティンを定着させていく訓練が不可欠です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

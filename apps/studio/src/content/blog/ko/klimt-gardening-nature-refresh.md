@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "푸른 로브를 입고 아침 장미를 관찰한 화가: 구스타프 클림트의 정원 산책 루틴과 부드러운 매료(Soft Fascination)"
 description: "황금빛 화풍의 거장 구스타프 클림트. 매일 아침 오스트리아 아터제 호숫가 정원을 산책하며 꽃과 자연의 프랙탈 문양을 관찰했던 주의력 회복 이론(ART) 기반의 루틴, 전전두엽 리셋 원리 및 3단계 실천 가이드를 알아봅니다."
 pubDate: "2026-07-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>구스타프 클림트 평전 및 아터제 아카이브(Attersee Archive) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구</strong>에 근거하여 klimt-gardening-nature-refresh 루틴을 다룹니다.
+      본 콘텐츠는 <strong>구스타프 클림트 평전 및 아터제 아카이브(Attersee Archive) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 자연 프랙탈 관찰과 주의력 회복 이론(Attention Restoration Theory, ART)
+## 1. 자연 프랙탈 관찰과 주의력 회복 이론(Attention Restoration Theory, ART)
 
 복잡한 모니터 화면과 인공 구조물에 둘러싸여 일할 때, 뇌의 전두엽은 특정 대상에 억지로 집중하느라 <strong>지향성 주의력(Directed Attention)</strong> 자원을 소모하여 극심한 <strong>주의력 피로(Attention Fatigue)</strong>를 느낍니다. 환경심리학의 <strong>주의력 회복 이론(Attention Restoration Theory, ART)</strong>에 따르면, 꽃잎이나 나뭇잎 같은 자연의 프랙탈(Fractal) 구조는 뇌의 억제적 에너지를 요구하지 않는 <strong>'부드러운 매료(Soft Fascination)'</strong> 상태를 유발합니다. 클림트처럼 아침 정원의 자연 형상과 빛을 묵묵히 관찰하면 고갈되었던 <strong>전전두엽(Prefrontal Cortex)</strong>의 주의력 자원이 즉각 복원되어 창의적 감각 재충전이 완결됩니다.
 
 ---
 
-## 스마트폰 카메라 프레임을 배제하고 육안 관찰에 몰입하는 수칙
-
-정원을 산책하며 'SNS에 올릴 사진을 잘 찍어야지' 하고 스마트폰 카메라를 들이대는 순간, 뇌는 다시 타인의 평가와 인공적 프레임에 갇혀 주의력 회복 효과를 놓치게 됩니다. 클림트처럼 렌즈가 아닌 자신의 육안으로 자연의 깊이와 미세 패턴을 온전히 관조하는 것이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 스마트폰 카메라 프레임을 배제하고 육안 관찰에 몰입하는 수칙
+
+정원을 산책하며 'SNS에 올릴 사진을 잘 찍어야지' 하고 스마트폰 카메라를 들이대는 순간, 뇌는 다시 타인의 평가와 인공적 프레임에 갇혀 주의력 회복 효과를 놓치게 됩니다. 클림트처럼 렌즈가 아닌 자신의 육안으로 자연의 깊이와 미세 패턴을 온전히 관조하는 것이 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>주변에 정원이나 공원이 없을 때는 어떻게 이 루틴을 적용하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       실내에 있는 반려식물, 관엽식물 화분, 혹은 창밖의 가로수나 하늘 구름을 3분간 가까이 들여다보는 것만으로도 동일한 주의력 회복(ART) 효과를 누릴 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>비가 오거나 날씨가 나쁜 날에는 정원 산책을 어떻게 대체하나요?</span>

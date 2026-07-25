@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "기억을 깨우는 고요의 방? 마르셀 프루스트의 코르크 감각 차단법"
 description: "자전적 명작 '잃어버린 시간을 찾아서'를 집필한 프루스트. 침실에 코르크를 대어 빛과 소리를 막고 기억을 더듬었던 그의 감각 통제 루틴과 신경과학적 근거를 소개합니다."
 pubDate: "2026-01-29"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>마르셀 프루스트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 proust-cork-isolation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>마르셀 프루스트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 무작위 정보 과부하를 막는 '시상 차단'의 효과
+## 1. 무작위 정보 과부하를 막는 '시상 차단'의 효과
 
 우리 뇌에서 감각 정보를 의식으로 전달하는 관문인 <strong>시상(Thalamus)</strong>은 주변의 소음이나 스마트폰 빛이 유입될 때마다 정보를 분류하느라 상당한 에너지를 소모합니다. 이는 전두엽의 인지적 실행 자원을 소모시켜 주의 분산을 유발합니다.
 
@@ -47,9 +48,7 @@ faqs:
 
 ---
 
-## 완벽한 고립이 주는 몰입도 상승의 비밀
-
-프루스트의 감각 통제 루틴의 핵심은 '방해 요소가 원천적으로 불가능한 환경을 강제하는 것'입니다. 카페나 열린 거실처럼 사소한 소음이나 지나가는 사람의 움직임에 노출되는 환경에서는, 뇌가 무의식적으로 감각 정보를 처리하느라 에너지를 지속 소모합니다. 소음차단 헤드폰을 쓰거나 방의 불을 낮춰 인지적 유입 정보를 원천 봉쇄해야 깊은 기억 인출이 가능해집니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 완벽한 고립이 주는 몰입도 상승의 비밀
+
+프루스트의 감각 통제 루틴의 핵심은 '방해 요소가 원천적으로 불가능한 환경을 강제하는 것'입니다. 카페나 열린 거실처럼 사소한 소음이나 지나가는 사람의 움직임에 노출되는 환경에서는, 뇌가 무의식적으로 감각 정보를 처리하느라 에너지를 지속 소모합니다. 소음차단 헤드폰을 쓰거나 방의 불을 낮춰 인지적 유입 정보를 원천 봉쇄해야 깊은 기억 인출이 가능해집니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>완벽한 소음 차단이 오히려 심리적 불안을 유발하지는 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       개인 성향에 따라 적막감이 차단된 뇌에 이명이나 불안을 유발할 수 있습니다. 이럴 때는 무소음 대신 빗소리나 나뭇잎 흔들리는 소리 같은 자연의 백색소음(Pink noise)을 작게 틀어두는 것이 좋습니다. 인위적 의미가 배제된 자연의 소리는 시상의 주의력을 뺏지 않으면서도 편안한 이완 효과를 줍니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>침대에 누워서 일하는 것도 집중이 잘 되나요?</span>

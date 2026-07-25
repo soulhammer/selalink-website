@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "知识的复利效应：沃伦·巴菲特每天500页的阅读习惯与认知储备"
 description: "探索全球顶尖投资者沃伦·巴菲特的核心成功秘诀——每天阅读500页的习惯，揭示强化神经网络连接性、构建认知储备以及提升模式识别速度的认知神经科学原理与3步骤实践法。"
 pubDate: "2026-06-10"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 buffett-reading-habit 的内容基于 <strong>艾丽斯·施罗德传记《滚雪球（The Snowball: Warren Buffett and the Business of Life）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>艾丽斯·施罗德传记《滚雪球（The Snowball: Warren Buffett and the Business of Life）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 大脑可塑性与白质（White Matter）连接性强化：知识复利的认知神经科学
+## 1. 大脑可塑性与白质（White Matter）连接性强化：知识复利的认知神经科学
 
 神经科学研究表明，深度精读能促进连接体感皮层与前额叶皮层的白质（White Matter）神经纤维束的髓鞘化（Myelination），从而将神经信号传导效率提升至极致。每日持续阅读长篇书目，能通过大脑可塑性（Neuroplasticity）不断积累“认知储备（Cognitive Reserve）”，在延缓衰老引发的认知退化的同时，飞跃式提升处理全新复杂信息的吞吐速度。此外，当新输入的信息与长期记忆中既有的知识图谱（Schema）发生深度有机构建时，大脑仅需极少的认知摩擦，便能展现出精准提取复杂难题本质框架的“直觉性模式识别”能力。
 
 ---
 
-## 注意事项与提示：避免流于表面的被动阅读与保持长期持续性
-
-巴菲特式知识复利习惯的核心，绝非走马观花式的“表面速读”。缺乏批判性思考而机械翻阅文字的被动阅读，无法起到重构神经网络的作用。即便是每天仅阅读10页，也需要深度精读，对其逻辑因果链条展开深度验证与理解。此外，相较于一曝十寒式的暴饮暴食式阅读，在每天固定的时间远离数字干扰、将注意力聚焦于印刷文本并坚持数年，才是真正开启知识复利的关键所在。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：避免流于表面的被动阅读与保持长期持续性
+
+巴菲特式知识复利习惯的核心，绝非走马观花式的“表面速读”。缺乏批判性思考而机械翻阅文字的被动阅读，无法起到重构神经网络的作用。即便是每天仅阅读10页，也需要深度精读，对其逻辑因果链条展开深度验证与理解。此外，相较于一曝十寒式的暴饮暴食式阅读，在每天固定的时间远离数字干扰、将注意力聚焦于印刷文本并坚持数年，才是真正开启知识复利的关键所在。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>忙碌的上班族是否有切实可行的方法达成像沃伦·巴菲特那样每天阅读500页的阅读量？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       起步便追求500页是不切实际的。巴菲特庞大的阅读吞吐量源于其跨越数十年建立起来的神经网络神经重构。核心不在于“页数”这一绝对数字，而在于每天哪怕坚持精读并深思20-30页的认知习惯持续性。只需在通勤途中或清晨起床后固定划出30分钟用于专注阅读，数年后便能获得极其惊人的知识复利效应。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>以此取代纸质书，阅读电子书（E-Book）或听有声书能产生同等的知识复利效应吗？</span>

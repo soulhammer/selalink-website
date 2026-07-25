@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Torre do Silêncio: O Design de Ambiente de Controle de Estímulos do Prêmio Nobel Pavlov"
 description: "Descubra a rotina de bloqueio de estímulos do fundador do condicionamento clássico, Ivan Pavlov. Um método de controle de estímulos em 3 etapas para eliminar o desperdício cognitivo gerando variáveis ambientais externas."
 pubDate: "2026-02-27"
@@ -33,25 +34,23 @@ Neste artigo, examinamos os princípios científicos da rotina de isolamento de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre pavlov-stimulus-control é baseada em <strong>Pesquisa de Registros Biográficos e Históricos de Pavlov Stimulus Control & Estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de Registros Biográficos e Históricos de Pavlov Stimulus Control & Estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## A 'Teoria do Controle de Estímulos' Que Revitaliza a Função Executiva
+## 1. A 'Teoria do Controle de Estímulos' Que Revitaliza a Função Executiva
 
 Neurocientificamente, nosso Lobo Frontal gerencia a Função Executiva. Contudo, quando estímulos visuais e auditivos estão dispersos, o cérebro gasta energia filtrando-os. A teoria do <strong>'Controle de Estímulos'</strong> minimiza o atrito neural ao bloquear gatilhos ambientais.
 
 ---
 
-## Garantir a Flexibilidade na Rotina de Controle de Estímulos
-
-O efeito colateral de insistir estritamente em um ambiente livre de estímulos é desenvolver hipersensibilidade e não conseguir se concentrar em locais ruidosos. Aplique o treino de controle de estímulos apenas durante seu bloco principal de foco (1 a 2 horas), mantendo a flexibilidade em tarefas simples.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ O efeito colateral de insistir estritamente em um ambiente livre de estímulos �
   </p>
 </div>
 
+---
+
+## 3. Garantir a Flexibilidade na Rotina de Controle de Estímulos
+
+O efeito colateral de insistir estritamente em um ambiente livre de estímulos é desenvolver hipersensibilidade e não conseguir se concentrar em locais ruidosos. Aplique o treino de controle de estímulos apenas durante seu bloco principal de foco (1 a 2 horas), mantendo a flexibilidade em tarefas simples.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

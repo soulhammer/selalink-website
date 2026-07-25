@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Poder de Focar no que Importa: O Hábito de Decisão em 4 Quadrantes de Dwight D. Eisenhower"
 description: "O presidente Eisenhower suportou o enorme peso de decisões durante a guerra e a governança nacional. Analisamos seu segredo de gestão do tempo para alocar energia mental ao que é essencial sem se deixar levar por urgências menores, sob a ótica da neurociência cognitiva."
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ Dwight D. Eisenhower (1890–1969) foi Comandante Supremo das Forças Aliadas na
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre eisenhower-matrix-decision é baseada em <strong>Verificação Histórica da Autobiografia de Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prevenção da Fadiga de Decisão e Controle Cognitivo Pré-frontal
+## 1. Prevenção da Fadiga de Decisão e Controle Cognitivo Pré-frontal
 
 O córtex pré-frontal humano governa as funções executivas e decisões, mas sua reserva diária de energia (largura de banda cognitiva) é estritamente limitada. A exposição repetida a tarefas triviais, mas urgentes, afunda o cérebro na 'fadiga de decisão', comprometendo o julgamento. A Matriz de Eisenhower organiza as prioridades visualmente, reduzindo drasticamente a paralisia de escolha e a carga cognitiva. Isso preserva a energia pré-frontal, permitindo ao cérebro manter um foco relaxado e executar pensamentos estratégicos elevados.
 
 ---
 
-## Regra de Reserva de Tempo para o Quadrante 2 (Importante, mas Não Urgente)
-
-Um erro comum ao classificar prioridades é passar o dia todo no Quadrante 1 (Urgente e Importante). Apagar incêndios constantemente sobreestimula o córtex adrenal, inundando o cérebro com cortisol e gerando estresse crônico. O segredo é reservar intencionalmente pelo menos 20% da sua capacidade mental diária para o Quadrante 2 (Não Urgente, mas Importante) — como planejamento, leitura, saúde e relacionamentos. Priorizar o Quadrante 2 garante o crescimento a longo prazo e reduz drasticamente o surgimento de crises futuras no Quadrante 1.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Um erro comum ao classificar prioridades é passar o dia todo no Quadrante 1 (Ur
   </p>
 </div>
 
+---
+
+## 3. Regra de Reserva de Tempo para o Quadrante 2 (Importante, mas Não Urgente)
+
+Um erro comum ao classificar prioridades é passar o dia todo no Quadrante 1 (Urgente e Importante). Apagar incêndios constantemente sobreestimula o córtex adrenal, inundando o cérebro com cortisol e gerando estresse crônico. O segredo é reservar intencionalmente pelo menos 20% da sua capacidade mental diária para o Quadrante 2 (Não Urgente, mas Importante) — como planejamento, leitura, saúde e relacionamentos. Priorizar o Quadrante 2 garante o crescimento a longo prazo e reduz drasticamente o surgimento de crises futuras no Quadrante 1.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como posso proteger o Quadrante 2 (Importante, mas Não Urgente) quando o trabalho urgente não para de chegar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Um erro comum ao classificar prioridades é passar o dia todo no Quadrante 1 (Ur
       Se tudo parece urgente, as demandas externas estão se sobrepondo às suas prioridades. Crie um bloco estrito de 'Não Perturbe' nos primeiros 30 minutos do dia sem abrir e-mails ou aplicativos de mensagem, dedicando esse tempo ao Quadrante 2. Garantir esse pequeno bloco é o catalisador para reduzir incêndios no futuro.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Qual é o critério objetivo para distinguir entre tarefas 'Importantes' e 'Urgentes'?</span>

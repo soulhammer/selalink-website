@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pandangan Cermin yang Meniru Langkah Orang Lain: Rutinitas Peniruan Fisik dan Analisis Manusia ala Charlie Chaplin"
 description: "Pelajari bagaimana ikon film bisu Charlie Chaplin mengamati dan meniru langkah kaki serta gerakan fisik orang asing di jalanan, serta temukan prinsip neurosains dari mengaktifkan neuron cermin premotorik untuk memperluas skema tubuh dan memaksimalkan empati antarpribadi."
 pubDate: "2026-03-01"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'penir
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai charlie-chaplin didasarkan pada <strong>Verifikasi Historis dari Autobiografi Charlie Chaplin *My Autobiography* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Charlie Chaplin *My Autobiography* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Neuron Cermin Premotorik dan Ekspansi Skema Tubuh (Body Schema)
+## 1. Aktivasi Neuron Cermin Premotorik dan Ekspansi Skema Tubuh (Body Schema)
 
 Mreplikasikan kinematika orang lain secara fisik mengaktifkan sistem 'Neuron Cermin' di seluruh korteks premotorik dan lobulus parietal inferior. Praktik peniruan motorik ini memperluas resolusi spasial dari 'Skema Tubuh (Body Schema)'—peta saraf internal dari postur fisik yang terukir di korteks somatosensori. Lebih jauh lagi, melalui Kognisi Terembodi (Embodied Cognition), meniru ketegangan otot dan ritme gerakan melibatkan sistem limbik, memungkinkan otak mendekode isyarat emosional non-verbal (kecemasan, kelelahan, kesombongan) dengan presisi lebih dari 70% lebih tinggi. Ini meningkatkan metakognisi dan empati intuitif.
 
 ---
 
-## Perhatian & Tip: Memanfaatkan Penglihatan Perifer Terselubung & Memastikan Keamanan dan Penghormatan
-
-Saat mempraktikkan pengamatan dan peniruan fisik, waspadailah menatap orang secara langsung, yang menyebabkan ketidaknyamanan atau risiko keamanan. Daripada mengunci mata dalam tatapan fokal yang kaku, manfaatkan 'Penglihatan Perifer' yang luas untuk melacak lintasan siluet secara lembut. Saat meniru langkah, jaga jarak yang aman dan hindari gestur yang berlebihan; berfokuslah secara ketat pada internalisasi geometri keseimbangan otot.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Saat mempraktikkan pengamatan dan peniruan fisik, waspadailah menatap orang seca
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Memanfaatkan Penglihatan Perifer Terselubung & Memastikan Keamanan dan Penghormatan
+
+Saat mempraktikkan pengamatan dan peniruan fisik, waspadailah menatap orang secara langsung, yang menyebabkan ketidaknyamanan atau risiko keamanan. Daripada mengunci mata dalam tatapan fokal yang kaku, manfaatkan 'Penglihatan Perifer' yang luas untuk melacak lintasan siluet secara lembut. Saat meniru langkah, jaga jarak yang aman dan hindari gestur yang berlebihan; berfokuslah secara ketat pada internalisasi geometri keseimbangan otot.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara menangani momen canggung jika pejalan kaki memergoki saya sedang mengamati mereka?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Saat mempraktikkan pengamatan dan peniruan fisik, waspadailah menatap orang seca
       Hindari kontak mata langsung yang keras. Gunakan kacamata hitam atau pegang minuman untuk mengalihkan pandangan Anda secara alami sambil mempraktikkan pemindaian 'Penglihatan Perifer' yang luas, berfokus secara lembut pada dinamika siluet alih-alih fitur wajah.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah peniruan fisik secara nyata meningkatkan kapasitas kita untuk mendekode kondisi emosional orang lain?</span>

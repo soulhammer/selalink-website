@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "漫步巴塞罗那4公里的巨匠：安东尼·高迪的创造性散步法与有机建筑灵感习惯"
 description: "深度剖析天才建筑师安东尼·高迪每天漫步巴塞罗那4公里、将自然界结构无缝移植于建筑中的散步习惯。揭示通过步行激发创意的神经科学与环境心理学原理。"
 pubDate: "2026-04-13"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 gaudi-nature-walk 的内容基于 <strong>希斯·范·亨斯伯根传记《高迪传（Gaudí: The Biography）》考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong> 撰写。
+      本内容基于 <strong>希斯·范·亨斯伯根传记《高迪传（Gaudí: The Biography）》考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 激活大脑海马体与创造力的“躯体散步”与认知灵活性原理
+## 1. 激活大脑海马体与创造力的“躯体散步”与认知灵活性原理
 
 长时间久坐并死磕某项复杂难题，会使大脑前额叶皮层陷于高压紧绷状态，导致认知灵活性断崖式下跌，神经回路固化于重复推演的死胡同中。高迪的4公里散步习惯向大脑同步输送“躯体激活”与“视觉刺激”，构成了破除思维凝滞的最自然解法。踱步运动可有效拉升心率，向大脑<strong>海马体（Hippocampus）</strong>与前额叶强力输送充氧血流，从而拓宽神经可塑性。斯坦福大学的研究证实，单纯的步行行为便能将创造性思维产出较静坐状态平均拉升60%。此外，漫步途中凝视的自然物象与城市建筑轮廓，可多维度刺激<strong>视觉皮层（Visual Cortex）</strong>的神经元，促使大脑深处散落的碎片化记忆以全新视角完成有机跨界重组。
 
 ---
 
-## 注意事项：区分剧烈体能训练，聚焦“有机结构化观察”
-
-对于天才建筑师高迪而言，漫步并非旨在刷热量消耗或锻炼肌肉的剧烈有氧拉练，而是一场扫描自然造型、将脑海中的几何公式有机联结的精致精神设计过程。切勿死磕步速与赶路目的地，须从容调控跨步节奏，留出充分的认知带宽去审慎观照眼前的自然与建筑物图案结构。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：区分剧烈体能训练，聚焦“有机结构化观察”
+
+对于天才建筑师高迪而言，漫步并非旨在刷热量消耗或锻炼肌肉的剧烈有氧拉练，而是一场扫描自然造型、将脑海中的几何公式有机联结的精致精神设计过程。切勿死磕步速与赶路目的地，须从容调控跨步节奏，留出充分的认知带宽去审慎观照眼前的自然与建筑物图案结构。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>必须在拥有植被与泥土小径的公园散步才有效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       自然风光在舒缓压力与修复注意力（Attention Restoration）层面固然表现卓著；然而漫步于城市非规则巷弄、观照各具特色的建筑群，同样能丰富地刺激大脑视觉皮层，因而是极佳的城市替代方案。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>可以用高步速路跑或跑步机拉练替代散步吗？</span>

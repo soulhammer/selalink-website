@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "スラム街の苦しみの中で平静さを保った盾？ マザー・テレサの朝の沈黙ルーティン"
 description: "インド・カルカッタのスラム街で一生涯奉仕したマザー・テレサ。他者の苦痛な感情に流されず、脳の共感ネットワークと感情調節力を予熱した彼女の「午前4:30の沈黙」ルーティンの科学的効果と15分実践チップを紹介します。"
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「teresa-silent-contemplation」は <strong>マザー・テレサの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マザー・テレサの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 感情共感ネットワークの予熱と扁桃体活性の抑制
+## 1. 感情共感ネットワークの予熱と扁桃体活性の抑制
 
 早朝の沈黙瞑想（Silent Contemplation）は交感神経の過度な興奮を抑え、ストレスホルモンを調節するHPA軸（視床下部-下垂体-副腎系）を安定させます。これは脳の感情反応を司る扁桃体（Amygdala）の過剰活性化を物理的に抑制する結果をもたらします。同時に前頭葉皮質と感情領域間の機能的結合性を強化し、他者の悲しみやストレス状況に脳が圧倒されることなく平静さを維持できるよう、共感ネットワークと感情統制力を最高水準に予熱します。
 
 ---
 
-## 沈黙の中の思考抑制の誤りと受け流すコツ
-
-沈黙を実践する際、頭に浮かぶ心配事ややるべきことのリストを「考えてはいけない」と無理に抑え込もうとすると、かえってその雑念が脳裏を大きく巡る跳ね返り効果（Rebound Effect）が現れます。思考が浮かんだらそれをコントロールしようと戦わず、流れる雲を眺めるように意識の背景へ受け流し、息の出入りにだけ意図的に集中を維持することが脳の生理的安定に効果的です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 沈黙の中の思考抑制の誤りと受け流すコツ
+
+沈黙を実践する際、頭に浮かぶ心配事ややるべきことのリストを「考えてはいけない」と無理に抑え込もうとすると、かえってその雑念が脳裏を大きく巡る跳ね返り効果（Rebound Effect）が現れます。思考が浮かんだらそれをコントロールしようと戦わず、流れる雲を眺めるように意識の背景へ受け流し、息の出入りにだけ意図的に集中を維持することが脳の生理的安定に効果的です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>瞑想中に本日行うべきことや心配事が次々と浮かんでくるときはどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       それは脳が完全に停止できず、演算装置を稼働させようとする自然な現象です。思考が浮かぶことと戦わず、「あ、今日の仕事のことを考えているな」と頭の中の雲が流れるように無心に一歩引いて観察してください。そして再び意識を鼻先の呼気の温度変化や吸気の感覚へと軽く戻す行為を繰り返すことが、脳波の整頓に素晴らしい解決策となります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>マザー・テレサは1時間行ったそうですが、10〜15分程度に縮小して行っても脳に効果がありますか？</span>

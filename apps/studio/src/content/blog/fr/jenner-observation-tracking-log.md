@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le père de la vaccination qui a vaincu la variole : La routine de journal de terrain et la neuroscience du Grit d'Edward Jenner"
 description: "Découvrez comment le médecin de campagne Edward Jenner a conçu le vaccin contre la variole en accumulant des années de notes de terrain. Explorez la neuroscience des circuits de récompense dopaminergiques axés sur le processus et la ténacité préfrontale (Grit)."
 pubDate: "2026-07-14"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant jenner-observation-tracking-log est basée sur <strong>Vérification Historique issue du traité d'Edward Jenner *Recherche sur les causes et effets de la variole vaccine* (1798), des archives de la Royal Society & de la Recherche en Neurosciences Cognitives et Histoire de la Médecine</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue du traité d'Edward Jenner *Recherche sur les causes et effets de la variole vaccine* (1798), des archives de la Royal Society & de la Recherche en Neurosciences Cognitives et Histoire de la Médecine</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Réorientation axée sur le processus du circuit de récompense dopaminergique et neuroscience du Grit
+## 1. Réorientation axée sur le processus du circuit de récompense dopaminergique et neuroscience du Grit
 
 S'obséder uniquement sur les résultats à court terme entraîne une démotivation rapide en cas d'échec initial. La pratique du <strong>Journal d'observation de terrain à long terme</strong> de Jenner déplace l'axe du <strong>Circuit de récompense dopaminergique</strong> du résultat immédiat vers l'acte d'observer et de consigner lui-même. Cette réorientation stimule les réseaux de planification du <strong>Cortex Préfrontal</strong>, développant une ténacité (<strong>Grit</strong>) exceptionnelle.
 
 ---
 
-## Mise en garde : Éliminer le biais de confirmation pour accueillir les contre-exemples objectifs
-
-La grandeur d'Edward Jenner résidait dans son refus de ne collecter que les données favorables a ses hypothèses ; il consignait scrupuleusement les contre-exemples et exceptions. Pour éviter le biais de confirmation, inscrivez les faits bruts et les chiffres exacts avec honnêteté, permettant a votre cerveau d'identifier la vérité sans fard.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La grandeur d'Edward Jenner résidait dans son refus de ne collecter que les don
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer le biais de confirmation pour accueillir les contre-exemples objectifs
+
+La grandeur d'Edward Jenner résidait dans son refus de ne collecter que les données favorables a ses hypothèses ; il consignait scrupuleusement les contre-exemples et exceptions. Pour éviter le biais de confirmation, inscrivez les faits bruts et les chiffres exacts avec honnêteté, permettant a votre cerveau d'identifier la vérité sans fard.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si aucun motif significatif n'émerge malgré un suivi quotidien ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La grandeur d'Edward Jenner résidait dans son refus de ne collecter que les don
       Des données sans motif immédiat servent a éliminer le bruit. Une fois les chiffres accumulés sur plus de 30 jours, le cortex préfrontal fait des liens et révèle automatiquement des structures cachées.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Les employés de bureau modernes ou non-médicaux peuvent-ils mener des observations de terrain à l'image de Jenner ?</span>

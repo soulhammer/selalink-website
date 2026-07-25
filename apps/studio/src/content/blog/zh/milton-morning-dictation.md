@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "凌晨4点，失明诗人如何口述《失乐园》：约翰·弥尔顿的清晨沉思习惯"
 description: "介绍在双目失明的情况下仍创作出史诗巨作的约翰·弥尔顿的凌晨4点冥想习惯。了解阻断视觉输入如何最大化大脑的工作记忆与语言组装认知能力。"
 pubDate: "2026-04-09"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 milton-morning-dictation 的内容基于 <strong>约翰·弥尔顿历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>约翰·弥尔顿历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 静谧专注的认知力：通过阻断视觉最大化大脑容量
+## 1. 静谧专注的认知力：通过阻断视觉最大化大脑容量
 
 脑科学研究表明，视觉信息处理占据了大脑感官资源的50%以上。当视觉刺激被彻底切断时，大脑会将这些未使用的神经网络重新分配至短期记忆提取与语言组装区域。弥尔顿在昏暗的黎明前躺在床上于脑海中构思诗句的习惯，极大地扩展了前额叶的工作记忆容量，为其毫无偏差地固定复杂隐喻与长句提供了完美的脑力环境。
 
 ---
 
-## 控制清晨的外部刺激以获得深度专注
-
-对约翰·弥尔顿而言，黎明前的黑暗并非局限，而是用于创作的神圣画布。通过推迟外部刺激与琐碎杂务、全神贯注于内心深处的声音，他得以创作出永垂不朽的史诗名篇。与其在早晨睁开眼就立刻查看邮件或社交媒体，不如先为你的大脑奉上一段能够进行深度思考的宁静时光。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     构思一结束，立刻提笔记录，或使用语音录音功能口述将其转换为文字。将脑海中的创意转移至物理介质上，以此腾出内存空间。
   </p>
 </div>
+
+---
+
+## 3. 控制清晨的外部刺激以获得深度专注
+
+对约翰·弥尔顿而言，黎明前的黑暗并非局限，而是用于创作的神圣画布。通过推迟外部刺激与琐碎杂务、全神贯注于内心深处的声音，他得以创作出永垂不朽的史诗名篇。与其在早晨睁开眼就立刻查看邮件或社交媒体，不如先为你的大脑奉上一段能够进行深度思考的宁静时光。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

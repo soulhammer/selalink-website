@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El poeta que recitaba en voz alta caminando por senderos: La rutina de composición en marcha de William Wordsworth"
 description: "El poeta romántico William Wordsworth caminaba al aire libre, ajustando la respiración de sus versos al ritmo de sus pasos. Explora la activación del cerebelo y el ritmo corporal para despertar la sensibilidad lingüística."
 pubDate: "2026-02-06"
@@ -38,14 +39,14 @@ Este artículo analiza los mecanismos neurológicos de la 'recitación en marcha
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre wordsworth-outdoor-recitation se basa en <strong>Biografías y registros autobiográficos de William Wordsworth junto con investigaciones en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías y registros autobiográficos de William Wordsworth junto con investigaciones en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergia entre la marcha rítmica y el bucle articulatorio-auditivo
+## 1. Sinergia entre la marcha rítmica y el bucle articulatorio-auditivo
 
 Durante la marcha, los impactos rítmicos de los pies activan con fuerza el <strong>Cerebelo</strong>, encargado del ritmo y la temporización. Estas señales de movimiento se sincronizan con las áreas del lenguaje, modulando la prosodia y acentuación de las frases.
 
@@ -53,9 +54,7 @@ Asimismo, recitar en voz alta activa el <strong>Bucle Fonológico/Auditivo</stro
 
 ---
 
-## El poder de la lectura en voz alta
-
-Escribir solo con la vista impide percibir cómo resonará el texto en el lector, volviendo la prosa seca e inflexible. Al redactar discursos o guiones de presentación, camina en un sitio tranquilo y recítalos en voz alta para maximizar el impacto.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Escribir solo con la vista impide percibir cómo resonará el texto en el lector
   </p>
 </div>
 
+---
+
+## 3. El poder de la lectura en voz alta
+
+Escribir solo con la vista impide percibir cómo resonará el texto en el lector, volviendo la prosa seca e inflexible. Al redactar discursos o guiones de presentación, camina en un sitio tranquilo y recítalos en voz alta para maximizar el impacto.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo describió Dorothy, la hermana de Wordsworth, su método de composición caminando?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Escribir solo con la vista impide percibir cómo resonará el texto en el lector
       En sus diarios escribió: 'William caminó por el sendero del jardín cientos de veces esta mañana recitando poesía', detallando cómo la velocidad de sus pasos variaba en directa proporción con el ritmo de su recitación.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Tiene el mismo efecto caminar y recitar sobre una cinta de correr en interiores?</span>

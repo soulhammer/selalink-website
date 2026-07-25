@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "原稿を巻物のように貼り合わせて書いた推理小説家？エドガー・アラン・ポーの超集中筆記法"
 description: "近代推理小説の始祖エドガー・アラン・ポーは、狭い紙の帯に文字を書き、それを繋ぎ合わせて巻物を作りました。左右の視線移動を遮断し、認知トンネリング効果を引き起こす脳科学的原理を解明します。"
 pubDate: "2026-01-03"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「poe-scroll-writing」は <strong>エドガー・アラン・ポーの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エドガー・アラン・ポーの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 認知のトンネリングと自己監視回路の抑制
+## 1. 認知のトンネリングと自己監視回路の抑制
 
 視野の幅を極端に狭い帯状に制御すると、脳の不要な視線探索移動（サッカード運動）が減少し、前頭葉の視覚的注意力の浪費が画期的に遮断されます。脳科学ではこの状態を、視覚情報の流入幅を強制的に制限して没頭を助ける<strong>「認知的トンネリング（Cognitive Tunneling）」</strong>と呼びます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 自己編集（Editing）からの隔離
-
-文章を書く際に一文単位で修正する習慣は、右脳の創造的回路と左脳の批判的回路を絶えず衝突させ、脳に深刻な疲労を与えます。ポーがスクロールをひたすら下へと書き繋いだように、執筆段階では批判的な編集回路を強制的にオフにし、アイデアを吐き出すことだけに脳のエネルギーを使用し、修正は完全に後から行うのが原則です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 自己編集（Editing）からの隔離
+
+文章を書く際に一文単位で修正する習慣は、右脳の創造的回路と左脳の批判的回路を絶えず衝突させ、脳に深刻な疲労を与えます。ポーがスクロールをひたすら下へと書き繋いだように、執筆段階では批判的な編集回路を強制的にオフにし、アイデアを吐き出すことだけに脳のエネルギーを使用し、修正は完全に後から行うのが原則です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>エドガー・アラン・ポーの巻物原稿は今日でも存在しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、彼が書いた一部の原稿（批判記事や短編など）は、実際に糊で貼り合わされた狭い巻物の形態で、アメリカのフィラデルフィア・フリー・ライブラリー（Free Library of Philadelphia）などの博物館に保存されています。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>デジタル画面で「文章を修正する癖」を防ぐプログラムはありますか？</span>

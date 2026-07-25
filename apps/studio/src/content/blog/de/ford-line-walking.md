@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Automobilkönig, der Innovationen beim Abgehen der Fertigungsstraße skizzierte: Henry Fords Ablauf-Skizzierung und kognitive Entlastung"
 description: "Erfahren Sie, wie Henry Ford, Pionier des fließenden Fließbands, die Stirnhirnbelastung senkte, indem er Fabrikhallen abging, Bewegungen beobachtete und Prozessdiagramme skizzierte. Entdecken Sie die Neurowissenschaften der visuellen Verfolgung."
 pubDate: "2026-06-23"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die physiologischen Grundlagen hinter Henry 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu ford-line-walking basiert auf <strong>Historische Überprüfung aus Henry Fords Autobiografie *Mein Leben und Werk (My Life and Work)*, historischen Biografien & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Henry Fords Autobiografie *Mein Leben und Werk (My Life and Work)*, historischen Biografien & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Visuelle Verfolgung und die Neurowissenschaften des kognitiven Offloadings
+## 1. Visuelle Verfolgung und die Neurowissenschaften des kognitiven Offloadings
 
 Das visuelle Verfolgen geordneter <strong>mechanischer Abläufe (Smooth Pursuit)</strong> auf einem Fließband synchronisiert den visuellen Kortex mit den zeitlichen Steuerungsschaltkreisen des Kleinhirns und schärft die Aufmerksamkeit. Zudem erzeugt das Zeichnen komplexer Logikprozesse mit Pfeilen und Formen (räumliches Skizzieren) einen Effekt des <strong>kognitiven Offloadings</strong>. Das Auslagern von Daten auf Papier schont das Arbeitsgedächtnis im Präfrontalkortex.
 
 ---
 
-## Vorsichtsmaßnahme: Nutzen von taktilem Reibungs-Feedback und analogem Fokus
-
-Das Nutzen von Touchscreens beim Zeichnen setzt das Gehirn Benachrichtigungen und Lichtreizen aus. Glatte Glasflächen reduzieren die somatosensorische Stimulation um über 50 %. Um die Wirkung zu maximieren, zeichnen Sie mit dem Stift auf Papier; der spürbare Widerstand liefert sensorisches Feedback, das die Gedanken schärft.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das Nutzen von Touchscreens beim Zeichnen setzt das Gehirn Benachrichtigungen un
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Nutzen von taktilem Reibungs-Feedback und analogem Fokus
+
+Das Nutzen von Touchscreens beim Zeichnen setzt das Gehirn Benachrichtigungen und Lichtreizen aus. Glatte Glasflächen reduzieren die somatosensorische Stimulation um über 50 %. Um die Wirkung zu maximieren, zeichnen Sie mit dem Stift auf Papier; der spürbare Widerstand liefert sensorisches Feedback, das die Gedanken schärft.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann man das Papier durch das Zeichnen mit einem Stift auf einem iPad ersetzen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das Nutzen von Touchscreens beim Zeichnen setzt das Gehirn Benachrichtigungen un
       Digitale Bildschirme bieten keine spürbare Reibung, was das sensorische Feedback verringert und zu Ablenkungen führt. Echtes Papier erzeugt Stiftwiderstand, der das Gehirn tiefer stimuliert und kognitives Offloading verbessert. Papier wird dringend empfohlen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist das Skizzieren im Sitzen genauso effektiv wie beim Gehen?</span>

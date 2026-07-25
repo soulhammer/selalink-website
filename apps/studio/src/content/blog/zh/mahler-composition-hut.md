@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "绝对倾听与孤立的力量：古斯塔夫·马勒的作曲小屋习惯"
 description: "每年夏天隐居于阿尔卑斯山林小屋创作宏伟交响曲的作曲家古斯塔夫·马勒。探讨通过阻断外部刺激使大脑进入“深度工作（Deep Work）”状态的沉浸空间心理学。"
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mahler-composition-hut 的内容基于 <strong>古斯塔夫·马勒作曲小屋（Composition Hut）历史文献考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>古斯塔夫·马勒作曲小屋（Composition Hut）历史文献考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过阻断不必要的刺激最大化前额叶皮层可用容量
+## 1. 通过阻断不必要的刺激最大化前额叶皮层可用容量
 
 现代人在工作中遭受数字通知、噪音和谈话等严重的信息过载。前额叶皮层消耗大量认知能量来抑制和过滤这些不必要的刺激。马勒建立的物理隔离从根本上消除了这种“抑制性认知负荷（Inhibitory Cognitive Load）”。宁静的自然环境稳定了大脑的多巴胺系统，降低了压力，并使前额叶皮层的工作记忆（Working Memory）资源能够100%集中于复杂的结构构思和艺术直觉上。
 
 ---
 
-## 注意事项与技巧
-
-完全隔离可能带来的副作用是社会孤立感及随之而来的思维停滞。如果在没有与他人沟通的情况下长期孤立，会导致视野狭隘并引发情绪低落。因此，隔离沉浸工作应限制在每天最多3-4小时，用于高强度的“深度工作”，并在工作结束后恢复日常社交与交流，保持情绪平衡（Integration）。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     结束隔离沉浸后，立即散步或休息，引导大脑切换到默认模式网络（DMN）状态，让灵感与创意自然重组。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与技巧
+
+完全隔离可能带来的副作用是社会孤立感及随之而来的思维停滞。如果在没有与他人沟通的情况下长期孤立，会导致视野狭隘并引发情绪低落。因此，隔离沉浸工作应限制在每天最多3-4小时，用于高强度的“深度工作”，并在工作结束后恢复日常社交与交流，保持情绪平衡（Integration）。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

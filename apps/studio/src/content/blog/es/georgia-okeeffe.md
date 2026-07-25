@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Examinando Huesos de Animales del Desierto Bajo una Lupa: La Observación en Gran Primer Plano y la Atención Visual de Georgia O'Keeffe"
 description: "Descubra cómo Georgia O'Keeffe, la 'Madre del Modernismo Estadounidense', maximizó la atención visual selectiva ampliando diez veces huesos del desierto y pétalos. Explore la neurociencia de la corteza de asociación visual."
 pubDate: "2026-02-25"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre georgia-okeeffe se basa en <strong>Verificación Histórica de la Autobiografía *Georgia O'Keeffe*, Archivos del Museo Georgia O'Keeffe (Santa Fe) e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía *Georgia O'Keeffe*, Archivos del Museo Georgia O'Keeffe (Santa Fe) e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación de la Corteza de Asociación Visual y Atención Visual Selectiva
+## 1. Estimulación de la Corteza de Asociación Visual y Atención Visual Selectiva
 
 Reducir la atención a un detalle de un objeto o forma natural perfecciona la resolución de la <strong>Atención Visual Selectiva</strong> en la <strong>Corteza de Asociación Visual</strong>. Esta calibración cognitiva ayuda al cerebro a filtrar el ruido ambiental, mejorando la resolución <strong>Metacognitiva</strong> para detectar patrones y la esencia.
 
 ---
 
-## Precaución: Evite la Fatiga del Músculo Ciliar y Mantenga un Enfoque Suave
-
-Tenga cuidado de no fatigar los músculos ciliares y nervios ópticos al fijar la vista durante periodos prolongados. Practicar una mini-rutina de 2 a 3 minutos diarios —observando detalles con una respiración suave— es suficiente para obtener los beneficios cognitivos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tenga cuidado de no fatigar los músculos ciliares y nervios ópticos al fijar l
   </p>
 </div>
 
+---
+
+## 3. Precaución: Evite la Fatiga del Músculo Ciliar y Mantenga un Enfoque Suave
+
+Tenga cuidado de no fatigar los músculos ciliares y nervios ópticos al fijar la vista durante periodos prolongados. Practicar una mini-rutina de 2 a 3 minutos diarios —observando detalles con una respiración suave— es suficiente para obtener los beneficios cognitivos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es efectivo este método en interiores comunes sin huesos del desierto u objetos raros?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tenga cuidado de no fatigar los músculos ciliares y nervios ópticos al fijar l
       Sí, el objeto exacto es irrelevante. Concentrarse intensamente durante 2 minutos en los detalles de cualquier objeto cotidiano (la mina del lápiz, las venas de una hoja, una grieta de cerámica) activa las mismas redes de atención.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es necesario usar una lupa o lente real?</span>

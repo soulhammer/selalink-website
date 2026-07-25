@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Kaiser, der mit 12 Stunden Schlaf Dutzende Trophäen gewann: Roger Federers Schlaf-Regenerationsroutine und Gehirn-Reinigungssystem"
 description: "Erfahren Sie das Geheimnis von Tennislegende Roger Federer, der bis über seinen 40. Geburtstag hinaus Höchstleistungen erbrachte: 10 bis 12 Stunden Schlaf pro Tag. Entdecken Sie die Neurowissenschaften des glymphatischen Systems, des REM-Schlafs und einen 3-Schritte-Plan."
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Roger Federer
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu federer-sleep-recovery basiert auf <strong>Historische Überprüfung aus Chris Bowers' Biografie *Roger Federer: The Greatest*, offiziellen ATP-Archiven & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Chris Bowers' Biografie *Roger Federer: The Greatest*, offiziellen ATP-Archiven & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Glymphatische Gehirnreinigung und Neuroplastizitäts-Regeneration im REM-Schlaf
+## 1. Glymphatische Gehirnreinigung und Neuroplastizitäts-Regeneration im REM-Schlaf
 
 Im tiefen Langsamwellenschlaf aktiviert sich das <strong>glymphatische System</strong> des Gehirns und spült neurotoxische Abfallprodukte wie Beta-Amyloid aus. Der <strong>REM-Schlaf</strong> in späten Schlafzyklen fördert zudem die Neuroplastizität und festigt komplexe Bewegungsabläufe sowie kognitive Reaktionen. Ausreichend Schlaf senkt das Stresshormon Cortisol und steigert die Ausschüttung von Wachstumshormonen, was Muskeln und Fokus regeneriert.
 
 ---
 
-## Vorsichtsmaßnahme: Warnung vor der Illusion, Schlaf durch Willenskraft zu ersetzen
-
-Arbeiten bei Schlafmangel führt zu kognitiven Leistungseinbußen, die Fahren unter Alkoholeinfluss entsprechen. Wie Federer betonte, entsteht Höchstleistung nicht durch Erschöpfung, sondern durch die Klarheit einer Regenerationsphase.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Arbeiten bei Schlafmangel führt zu kognitiven Leistungseinbußen, die Fahren un
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Warnung vor der Illusion, Schlaf durch Willenskraft zu ersetzen
+
+Arbeiten bei Schlafmangel führt zu kognitiven Leistungseinbußen, die Fahren unter Alkoholeinfluss entsprechen. Wie Federer betonte, entsteht Höchstleistung nicht durch Erschöpfung, sondern durch die Klarheit einer Regenerationsphase.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was kann ich tun, wenn ich unter Schlafstörungen leide und nicht einschlafen kann?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Arbeiten bei Schlafmangel führt zu kognitiven Leistungseinbußen, die Fahren un
       Zwingen Sie sich nicht zum Schlafen. Wenn Sie nach 20 Minuten wach sind, nutzen Sie die Stimulus-Kontroll-Therapie: Stehen Sie auf, gehen Sie in einen gedimmten Raum, lesen Sie ein Buch und kehren Sie erst ins Bett zurück, wenn Sie müde sind.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Warum fühle ich mich nach einem Nickerchen oft gerädert und müde?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "大英博物馆穹顶下的10小时？卡尔·马克思的联合皮层阅读法"
 description: "卡尔·马克思用经济学精细解剖社会的隐藏运行机制。本文探讨他在伦敦流亡期间于大英博物馆阅览室每天阅读与记录庞大文献长达10小时的执着阅读习惯及其脑科学原理。"
 pubDate: "2026-03-17"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 marx-reading-room 的内容基于 <strong>卡尔·马克思历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>卡尔·马克思历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 为什么大英博物馆的10小时深度阅读能够实现知识重构？
+## 1. 为什么大英博物馆的10小时深度阅读能够实现知识重构？
 
 脑科学研究表明，将跨学科的零碎知识进行高维融合的能力，源于大脑“联合皮层（Association Cortex）”与额叶的深度激活。马克思在长达10小时的时间里彻底隔绝外界干扰，全神贯注于纸质文献，并手写撰写摘录笔记（Exzerpiorhefte），这一过程是大脑神经元网络发生高维重构的神经学深度工作（Deep Work）体验。
 
 ---
 
-## 警惕被动阅读与数字收集带来的知识错觉
-
-仅仅保存海量数字文章或PDF文件并用眼睛扫视，只会在大脑中留下浅层刺激，无法形成长期记忆或复杂的概念链接。如果没有像马克思那样手写摘录并提出批判性质疑的主动标注，信息永远无法转化为真正的智慧资本。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 警惕被动阅读与数字收集带来的知识错觉
+
+仅仅保存海量数字文章或PDF文件并用眼睛扫视，只会在大脑中留下浅层刺激，无法形成长期记忆或复杂的概念链接。如果没有像马克思那样手写摘录并提出批判性质疑的主动标注，信息永远无法转化为真正的智慧资本。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Q1. 现代职场人或学生如何借鉴大英博物馆的10小时阅读习惯？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,8 +104,8 @@ faqs:
       现代人很难每天 allocated 10小时，因此重点在于复制其“专注密度”而非“时长”。可以在周末或清晨抽出60 - 90分钟，关闭手机，在图书馆或安静空间里全神贯注研读一本纸质原著，建立“微型深度阅读单元”。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
-  <details class="group cursor-pointer">
+
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Q2. 习惯使用数字笔记的现代人，手写摘录笔记在脑科学上有何独特优势？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -109,7 +114,7 @@ faqs:
       摘录笔记（Exzerpiorhefte）绝非机械抄写，而是与文本的深度对话。抄录核心观点与数据后，在下方用自己的语言写下解读、质疑以及与已有知识的连接，这种重构过程能极大地激活大脑额叶与联合皮层。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Q3. 深度阅读中遇到注意力无法集中或难以理解的复杂概念时该如何克服？</span>

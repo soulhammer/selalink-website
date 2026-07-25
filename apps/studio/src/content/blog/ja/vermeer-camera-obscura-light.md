@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "『真珠の耳飾りの少女』の巨匠？フェルメールの朝の窓辺の光観察ルーティン"
 description: "光の巨匠ヨハネス・フェルメールがカメラ・オブスキュラで光の陰影を精密観察し、情緒的静寂と立体的なインスピレーションを得た朝の光観照習慣。"
 pubDate: "2026-04-05"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「vermeer-camera-obscura-light」は <strong>フェルメール歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>フェルメール歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 視覚の対比感度向上と自律神経系の静寂がもたらす高次元の認知回復
+## 1. 視覚の対比感度向上と自律神経系の静寂がもたらす高次元の認知回復
 
 現代人の目と脳はモニターのちらつく人工的刺激と速いフレームに晒され、持続的に疲労が蓄積されています。フェルメールのように朝の自然の光と物体の奥深い影を静かに観照する行為は、脳の視覚野の対比感度を刺激しながら副交感神経系を活性化する<strong>「視覚的ミニ瞑想」</strong>です。視覚的ノイズが遮断され、脳の認知リセットが行われることで、本質的な形態やインスピレーションに気づくようになります。
 
 ---
 
-## スマートフォンを片付け、手に触れていない純粋な照度を観察してください
-
-カメラ・オブスキュラの核心は、物体をあせって解釈しようとせず、レンズに投影された光をあるがままに受け入れることです。5分間いかなるデジタル機器も手に取らず、光の粒子をあるがままに鑑賞してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. スマートフォンを片付け、手に触れていない純粋な照度を観察してください
+
+カメラ・オブスキュラの核心は、物体をあせって解釈しようとせず、レンズに投影された光をあるがままに受け入れることです。5分間いかなるデジタル機器も手に取らず、光の粒子をあるがままに鑑賞してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>雨が降ったり曇ったりしている日にはこのルーティンをどのように行いますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       曇りの日のほのかで柔らかい乳白色の光でさえ、素晴らしい照度鑑賞の対象です。雨粒がガラス窓に結ばれる光の屈折を観察してもよいでしょう。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>実際にフェルメールのように美術やデザインの仕事をしていなくても効果はありますか？</span>

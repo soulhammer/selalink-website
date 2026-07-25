@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "おもちゃに触れて壮大な想像を現実へと変えた巨匠、スティーヴン・スピルバーグの触覚刺激法"
 description: "現代映画史上最も成功した監督、スティーヴン・スピルバーグ。脚本やカメラのアングルに行き詰まるたびにビューファインダーレンズで視野を狭め、模型のおもちゃを手に取って触れた彼の右脳刺激ルーティンと、現代的なフィジェット活用法をひも解きます。"
 pubDate: "2026-04-20"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「spielberg-viewfinder-tactile」は <strong>スティーヴン・スピルバーグの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>スティーヴン・スピルバーグの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 体性感覚野の刺激と頂頭葉（Parietal Lobe）空間演算の加速化
+## 1. 体性感覚野の刺激と頂頭葉（Parietal Lobe）空間演算の加速化
 
 指先で模型の複雑な3次元の起伏を繊細に触る精緻な触フィードバック（Haptic Feedback）は、脳の体性感覚野を強く刺激します。これは空間推論と場面の立体的な構成を担う右脳の頂頭葉（Parietal Lobe）連合領域を同時に刺激します。また、アナログビューファインダーのレンズや狭い隙間を通して視野を遮断し、一つの対象に焦点を合わせる視覚的リフレーミング（Visual Reframing）は、前頭葉へ向かう無数の視覚的ノイズをフィルタリングし、認知リソースを対象の構造的結合演算に集中させます。
 
 ---
 
-## 過度な触覚ツールの落とし穴と企画への応用チップス
-
-指先を刺激するためにフィジェットツール（Fidget Toy）に触れる際、ツールが過度に派手であったり複雑なギミックが含まれていると、かえって脳がツール自体の操作の面白さに囚われる認知分散現象が起こります。したがって、脳刺激用途としては、単純な形状と硬い素材を持つ冷たい金属模型や木製のおもちゃを使用する方が、認知オフローディング（負担軽減）において圧倒的に有利です。また、触れる時間は10分を超えないように制限してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 過度な触覚ツールの落とし穴と企画への応用チップス
+
+指先を刺激するためにフィジェットツール（Fidget Toy）に触れる際、ツールが過度に派手であったり複雑なギミックが含まれていると、かえって脳がツール自体の操作の面白さに囚われる認知分散現象が起こります。したがって、脳刺激用途としては、単純な形状と硬い素材を持つ冷たい金属模型や木製のおもちゃを使用する方が、認知オフローディング（負担軽減）において圧倒的に有利です。また、触れる時間は10分を超えないように制限してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ハンドスピナーや普通のボールペン指で回すことでも同じ効果が得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       スピナーやボールペンを単に反復回転させる動作は一種の無意識運動（習慣的な癖）に分類され、脳の基底核回路のみを刺激するため、頂頭葉の高度な空間演算を誘導する体性感覚野刺激（Haptic Feedback）の強度が非常に低くなります。したがって、幾何学的かつ明確な立体起伏があり、脳が形態を認識するために指先の細胞の精密な動きを調整しなければならないアナログの模型玩具やキューブを直接触る方が、遥かに優れた知的覚醒効果を発揮します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>光学ビューファインダーレンズがない場合、日常で視野を狭める他のコツはありますか？</span>

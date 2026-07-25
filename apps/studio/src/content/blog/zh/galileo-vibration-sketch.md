@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "伽利略的摆动草图：解构复杂结构的空间认知简化术与视空间草图习惯"
 description: "探索现代科学之父伽利略·伽利略如何通过绘制摆灯与单摆的几何草图构建直观的物理定律。深度剖析激活大脑视空间草图（Visuospatial Sketchpad）与双重编码理论的神经科学原理。"
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 galileo-vibration-sketch 的内容基于 <strong>伽利略·伽利略著作集《关于两门新科学的谈话（Two New Sciences）》与《试金者（Il Saggiatore）》、比萨大学史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>伽利略·伽利略著作集《关于两门新科学的谈话（Two New Sciences）》与《试金者（Il Saggiatore）》、比萨大学史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 刺激视空间草图与双重编码理论的神经科学原理
+## 1. 刺激视空间草图与双重编码理论的神经科学原理
 
 将抽象概念描绘为几何图块的过程，能强力拉动位于大脑<strong>顶叶与枕叶</strong>交界处的视空间信息处理中枢——<strong>视空间草图（Visuospatial Sketchpad）</strong>。依据阿兰·白比奥的<strong>双重编码理论（Dual-Coding Theory）</strong>，将文本语言与非语言视觉意象高度融合，可在脑海中建构起极其坚固的心智模型，大幅摊薄前额叶皮层的认知负荷。通过在纸面上绘制关联距离与矢量流向，大脑能瞬间辨识出单纯被动阅读文本时难以察觉的逻辑死角与结构瓶颈，从而提炼出极简明快的破局方案。
 
 ---
 
-## 注意事项：聚焦结构极简主义，摒弃无谓艺术美化
-
-切勿将宝贵脑力浪掷于绘制华丽精细的工笔画或艺术描摹上。须如伽利略的质朴图解一般，牢牢定格于本质的“结构化表达”。仅凭简易圆形、矩形、连线与方向矢量箭头，快速将逻辑节点与关联图解化。过于纠结画面美观，反倒会掏空原本应倾注于逻辑推演上的前额叶能量。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：聚焦结构极简主义，摒弃无谓艺术美化
+
+切勿将宝贵脑力浪掷于绘制华丽精细的工笔画或艺术描摹上。须如伽利略的质朴图解一般，牢牢定格于本质的“结构化表达”。仅凭简易圆形、矩形、连线与方向矢量箭头，快速将逻辑节点与关联图解化。过于纠结画面美观，反倒会掏空原本应倾注于逻辑推演上的前额叶能量。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>丝毫没有绘画基础或艺术细胞的人也能践行这套几何草图习惯吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可以！这套习惯绝非讲求精妙画工的艺术创作，而是一场仅需动用“圆形、矩形、线条与箭头”4种基础几何元素的认知架构训练。即便是寥寥数笔勾勒出的简陋草图，也完全足以强力拉动大脑的视空间草图。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在平板电脑上使用数字绘图应用进行草图描绘能斩获同等效益吗？</span>

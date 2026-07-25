@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rafraîchir l'esprit d'un maître de la nouvelle : La routine d'aviron et de natation de Guy de Maupassant"
 description: "Guy de Maupassant, le maître de la nouvelle française. Une routine d'exercice intense qui réinitialisait complètement son cerveau épuisé par l'écriture grâce à l'aviron et la natation sur la Seine."
 pubDate: "2026-06-11"
@@ -35,17 +36,17 @@ Dans l'article d'aujourd'hui, nous analysons la sécrétion du facteur neurotrop
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant maupassant-rowing-reset est basée sur <strong>Recherche biographique et historique sur Guy de Maupassant & études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique et historique sur Guy de Maupassant & études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sécrétion de BDNF et redistribution du flux sanguin cérébral par l'exercice aérobie complet
+## 1. Sécrétion de BDNF et redistribution du flux sanguin cérébral par l'exercice aérobie complet
 
 Une activité cérébrale intense et prolongée concentre le flux sanguin dans le cortex préfrontal, entraînant une surchauffe et une hyperactivation.
 
@@ -53,9 +54,7 @@ Un exercice aérobie intense mobilisant les grands muscles comme l'aviron de Mau
 
 ---
 
-## Mettez de côté vos pensées professionnelles pendant l'exercice et concentrez-vous uniquement sur le souffle et le mouvement
-
-Ruminer ses tâches en faisant du sport réduit de moitié la redistribution du flux sanguin. Portez votre attention uniquement sur le rythme respiratoire et le mouvement. Ne comptez pas uniquement sur la volonté ; aménager un environnement propice est essentiel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Ruminer ses tâches en faisant du sport réduit de moitié la redistribution du 
   </p>
 </div>
 
+---
+
+## 3. Mettez de côté vos pensées professionnelles pendant l'exercice et concentrez-vous uniquement sur le souffle et le mouvement
+
+Ruminer ses tâches en faisant du sport réduit de moitié la redistribution du flux sanguin. Portez votre attention uniquement sur le rythme respiratoire et le mouvement. Ne comptez pas uniquement sur la volonté ; aménager un environnement propice est essentiel.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Si je ne peux ni ramer ni nager, quels exercices peuvent les remplacer ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Ruminer ses tâches en faisant du sport réduit de moitié la redistribution du 
       Tout exercice aérobie complet sollicitant le haut et le bas du corps (rameur, vélo d'appartement, elliptique, course fractionnée, burpees) procurera le même effet.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Faire de l'exercice intense tous les jours ne risque-t-il pas de surcharger le corps ?</span>

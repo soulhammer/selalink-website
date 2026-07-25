@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A CEO Waking Up at 3:45 AM to Read 100 Emails? Tim Cook's Morning Control Routine"
 description: "Tim Cook, the head of Apple, the world's largest IT company. Discover his daily routine of waking up at 3:45 AM to read user feedback emails and workout at 5:00 AM to secure daily autonomy, along with a 3-step guide."
 pubDate: "2026-02-24"
@@ -36,14 +37,14 @@ In today's post, we reveal the neuroscientific working principles behind Tim Coo
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding tim-cook-early-morning-routine is based on <strong>Historical biographies and autobiographical records of Tim Cook & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Tim Cook & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prefrontal Glucose Budget Protection and Ego Depletion Prevention Mechanism
+## 1. Prefrontal Glucose Budget Protection and Ego Depletion Prevention Mechanism
 
 The energy resources used by the human brain, particularly the Prefrontal Cortex, during decision-making are finite. If you are dragged around during the day by others' requests and reactive emails, your brain falls into a state of <strong>Ego Depletion</strong> when it comes time to make truly important strategic judgments.
 
@@ -51,9 +52,7 @@ The quiet morning autonomy at 3:45 AM preserves 100% of the brain's glucose and 
 
 ---
 
-## Beware of Brain Fatigue Accumulation from Sleep Reduction
-
-If you force yourself to wake up early at dawn while staying up late to mimic Tim Cook's routine, chronic fatigue will accumulate in prefrontal cells, impairing judgment. Remember that the essence of an early bird routine is not the wake-up time itself, but 'sleeping early and waking early to take control'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ If you force yourself to wake up early at dawn while staying up late to mimic Ti
   </p>
 </div>
 
+---
+
+## 3. Beware of Brain Fatigue Accumulation from Sleep Reduction
+
+If you force yourself to wake up early at dawn while staying up late to mimic Tim Cook's routine, chronic fatigue will accumulate in prefrontal cells, impairing judgment. Remember that the essence of an early bird routine is not the wake-up time itself, but 'sleeping early and waking early to take control'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Should night owls also follow this early morning routine?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ If you force yourself to wake up early at dawn while staying up late to mimic Ti
       If your genetic sleep chronotype is strictly nocturnal, you do not need to force yourself to wake up at 3:00–4:00 AM. The key lesson of this routine is 'securing 1 hour of proactive uninterrupted time', so replacing it with 1 hour after work or late at night produces the same effect.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I overcome afternoon fatigue when I wake up early in the morning?</span>

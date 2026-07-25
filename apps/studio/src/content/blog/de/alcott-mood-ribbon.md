@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bitte nicht stören, wenn das Kissen aufrecht steht: Louisa May Alcotts Fokus-Signal"
 description: "Wir stellen das 'Mood Pillow' (Stimmungskissen) vor, ein Fokus-Signal von Louisa May Alcott, der Autorin von 'Little Women'. Entdecken Sie eine 3-Schritte-Anleitung zur Reduzierung kognitiver Aufgabenwechselkosten durch das Blockieren von Ablenkungen."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ Im heutigen Beitrag untersuchen wir die kognitiven Wirkungsweisen der von Alcott
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu alcott-mood-ribbon basiert auf <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & *Journal of Personality and Social Psychology*</strong>.
+      Dieser Inhalt basiert auf <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & *Journal of Personality and Social Psychology*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Ablenkungsschutz' zur Vermeidung verschwenderischer kognitiver Neustarts
+## 1. 'Ablenkungsschutz' zur Vermeidung verschwenderischer kognitiver Neustarts
 
 Wenn der Arbeitsfluss während eines Zustands hoher Konzentration durch Außenlärm oder die Frage von jemandem unterbrochen wird, schaltet das Gehirn sofort in den Multitasking-Modus und verbraucht enorm viel Energie. Die Neurowissenschaft nennt dies <strong>'Aufgabenwechselkosten (Task-Switching Cost)'</strong> und berichtet, dass es durchschnittlich 23 Minuten dauert, um eine zerstreute Aufmerksamkeitsspanne wieder in den ursprünglichen Zustand zu versetzen. Das von Alcott verwendete Mood Pillow war ein perfekter <strong>'Ablenkungsschutz (Distraction Shielding)'</strong>, der störende Reize vorab eliminierte, indem er der Umgebung zuerst ein Signal der Unerreichbarkeit sendete. Diese visuelle Benachrichtigung schützt den Arbeitsfluss ohne Konflikte mit Mitmenschen und hilft dabei, die kognitiven Ressourcen des Arbeitsgedächtnisses (Working Memory) voll und ganz für eine einzige Aufgabe einzusetzen.
 
 ---
 
-## Schaffung eines vereinbarten Fokus-Signals auf Grundlage gegenseitigen Respekts
-
-Bei der Verwendung von Fokus-Signalanzeigen ist die vorherige Absprache mit Familienmitgliedern oder Kollegen der wichtigste Aspekt. Das plötzliche Verschließen der Kommunikation ohne Vorankündigung kann bei anderen Ablehnung hervorrufen. Eine positive Routine entsteht, wenn klare Regeln – wie 'Bitte verschieben Sie dringliche Kontaktaufnahmen nur während der 1 Stunde, in der diese Anzeige sichtbar ist' – wechselseitig anerkannt werden und die Anzeige nach Ablauf der vereinbarten Zeit sofort deaktiviert wird, um die Kommunikation wiederherzustellen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Bei der Verwendung von Fokus-Signalanzeigen ist die vorherige Absprache mit Fami
     Wenn der Timer ertönt, halten Sie die Arbeit an und deaktivieren Sie das Signalobjekt sofort (z. B. das Kissen wieder flach hinlegen). Öffnen Sie die geschlossenen Kommunikationskanäle und treten Sie wieder mit den Wartenden in Kontakt, indem Sie den Blick kontaktieren oder leichtes Feedback austauschen.
   </p>
 </div>
+
+---
+
+## 3. Schaffung eines vereinbarten Fokus-Signals auf Grundlage gegenseitigen Respekts
+
+Bei der Verwendung von Fokus-Signalanzeigen ist die vorherige Absprache mit Familienmitgliedern oder Kollegen der wichtigste Aspekt. Das plötzliche Verschließen der Kommunikation ohne Vorankündigung kann bei anderen Ablehnung hervorrufen. Eine positive Routine entsteht, wenn klare Regeln – wie 'Bitte verschieben Sie dringliche Kontaktaufnahmen nur während der 1 Stunde, in der diese Anzeige sichtbar ist' – wechselseitig anerkannt werden und die Anzeige nach Ablauf der vereinbarten Zeit sofort deaktiviert wird, um die Kommunikation wiederherzustellen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

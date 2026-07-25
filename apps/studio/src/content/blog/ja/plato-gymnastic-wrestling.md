@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "イデアを探す前に肩を鍛えた哲学者？プラトンの高強度身体ウォーミングアップ"
 description: "古代ギリシャの哲学者プラトン。本名ではなく「広い肩」というレスラー時代のニックネームで呼ばれた彼が、毎朝の知的討論の前に激しく身体を鍛えた脳科学的原理と現代的なホームトレーニングへの応用方法を紹介します。"
 pubDate: "2026-03-05"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「plato-gymnastic-wrestling」は <strong>プラトンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>プラトンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 抵抗運動が引き起こす脳血流の最大化とBDNF放出効果
+## 1. 抵抗運動が引き起こす脳血流の最大化とBDNF放出効果
 
 現代の運動生理学および認知科学の研究によると、スクワットやプッシュアップのような高強度の身体抵抗運動（Resistance Training）は、大脳皮質への血流量と酸素飽和度を即座に引き上げます。この生理的覚醒は、脳神経細胞の生成とシナプス可塑性を促進する中核物質である脳由来神経栄養因子（BDNF）の急激な放出を誘導します。同時に神経伝達物質であるドパミンとノルアドレナリンを大量に分泌させ、運動直後に脳が最高レベルの長期記憶形成および高度な抽象的論理演算に集中できる環境を作ります。
 
 ---
 
-## 怪我の予防と学習進入タイミングの調整のコツ
-
-朝起きてすぐ、体がほぐれていない状態で急に高強度運動を始めると、関節や靭帯に負担がかかる可能性があります。そのため、本格的な自重トレーニングを始める前に、軽いストレッチやその場歩きで関節をほぐしてください。また、運動終了後に15分以上休んでしまうと運動で得られた脳血流ピークの恩恵が失われるため、呼吸が整った直後（5分以内）に最も複雑な頭脳 me 作業に入ることが望ましいです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 怪我の予防と学習進入タイミングの調整のコツ
+
+朝起きてすぐ、体がほぐれていない状態で急に高強度運動を始めると、関節や靭帯に負担がかかる可能性があります。そのため、本格的な自重トレーニングを始める前に、軽いストレッチやその場歩きで関節をほぐしてください。また、運動終了後に15分以上休んでしまうと運動で得られた脳血流ピークの恩恵が失われるため、呼吸が整った直後（5分以内）に最も複雑な頭脳 me 作業に入ることが望ましいです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>関節が弱い人や抵抗運動の経験がない初心者でも可能ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ faqs:
       はい、無理に重いバーベルを持ち上げたり怪我のリスクが高い運動をしたりする必要はありません。自分の体力に合わせて壁を使ったプッシュアップ、スロースクワット、または軽いプランクなどで強度を下げて実践できます。脳血流を高めるための生理的 me 指標は「呼吸が上がり軽い汗が出る程度の強度」ですので、怪我のない安全な範囲で強度を調整してください。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>筋力運動の代わりに軽いジョギングやランニングなどの有酸素運動に代替してもいいですか？</span>

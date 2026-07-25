@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "凌晨2点在文件上用荧光笔标记以筛选政策争端：撒切尔的信息提炼习惯"
 description: "作为被称为“铁娘子”的英国首相，她每天清晨阅读成堆的官方文件与文章，精细地标注批判性意见，以掌握认知主导权。"
 pubDate: "2026-04-05"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 thatcher 的内容基于 <strong>玛格丽特·撒切尔历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>玛格丽特·撒切尔历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 缔造成功的神经科学原理分析
+## 1. 缔造成功的神经科学原理分析
 
 从海量数据中提取核心信息轴并使用荧光笔或笔记进行视觉门控（Visual Gating）处理，能够强力激活大脑的“信息抽象（Information Abstraction）”回路。这提高了前额叶皮层认知过滤器的分辨率，训练出在复杂的业务争端中不被枝节信息分散注意力、瞬间洞察本质风险与价值的高超战略判断力。
 
 ---
 
-## 确保习惯成功的行为科学建议
-
-请勿划出所有句子。核心在于精精准准地仅在全文10%以内的关键处划线，给大脑施加清晰的“视觉对比感”。与其强行依赖意志力，不如预先设计能够自然引发该行为的物理环境与习惯信号，这是持之以恒的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 确保习惯成功的行为科学建议
+
+请勿划出所有句子。核心在于精精准准地仅在全文10%以内的关键处划线，给大脑施加清晰的“视觉对比感”。与其强行依赖意志力，不如预先设计能够自然引发该行为的物理环境与习惯信号，这是持之以恒的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>每天早晨都需要进行日程简报例程吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       是的，在开始高强度工作前30分钟大声确认日程优先级，能先发制人地激活前额叶皮层的执行控制能力。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果没有专用便签板或简报设施，该如何替代？</span>

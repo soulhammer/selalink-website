@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Filsuf yang Menarik Catatan Masa Lalu dalam Waktu Kurang dari Satu Menit: Rutinitas Pengindeksan Commonplace Book John Locke"
 description: "Pelajari bagaimana filsuf empiris John Locke secara sistematis mengindeks pengetahuan yang luas menggunakan sistem kisi vokal yang unik. Temukan neurosains dari jaringan memori asosiatif, mengurasi jarak semantik, meredakan beban penarikan prefrontal, dan panduan 3 langkah."
 pubDate: "2026-03-19"
@@ -33,25 +34,23 @@ Untuk mengelola catatan bacaan, pengamatan medis, dan refleksi filosofisnya yang
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai locke-commonplace-book didasarkan pada <strong>Verifikasi Historis dari Traktat John Locke *A New Method of a Commonplace-Book* (1686), Arsip Locke & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Traktat John Locke *A New Method of a Commonplace-Book* (1686), Arsip Locke & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Jaringan Memori Asosiatif dan Meredakan Beban Penarikan Prefrontal
+## 1. Stimulasi Jaringan Memori Asosiatif dan Meredakan Beban Penarikan Prefrontal
 
 Arsitektur memori otak bukanlah serangkaian wadah terisolasi, melainkan jaringan <strong>Memori Asosiatif</strong> yang saling terhubung. Metode pengindeksan John Locke secara buatan menanamkan tautan asosiatif organik selama tahap pengodean awal. Memetakan alamat kategori saat mengumpulkan informasi mengurangikan <strong>Jarak Semantik</strong> di antara ide-ide. Pengetahuan yang dikodekan mempertahankan kondisi siaga, meredakan ketegangan penarikan pada <strong>Korteks Prefrontal</strong> untuk memungkinkan <strong>Penarikan Kembali (Recall)</strong> instan.
 
 ---
 
-## Perhatian: Mengeliminasi Pengumpulan Data Tanpa Berpikir untuk Mengeksekusi Pemetaan Indeks Secara Sadar
-
-Menyalin informasi secara tanpa berpikir ke dalam buku catatan tanpa pengindeksan menciptakan ilusi penguasaan yang palsu, mempercepat <strong>Lupa (Forgetting)</strong>. Untuk menambatkan pengetahuan ke dalam jaringan asosiatif otak, Anda harus menyertai setiap entri dengan <strong>Pemetaan Indeks (Index Mapping)</strong> yang disengaja.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Menyalin informasi secara tanpa berpikir ke dalam buku catatan tanpa pengindeksa
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengeliminasi Pengumpulan Data Tanpa Berpikir untuk Mengeksekusi Pemetaan Indeks Secara Sadar
+
+Menyalin informasi secara tanpa berpikir ke dalam buku catatan tanpa pengindeksan menciptakan ilusi penguasaan yang palsu, mempercepat <strong>Lupa (Forgetting)</strong>. Untuk menambatkan pengetahuan ke dalam jaringan asosiatif otak, Anda harus menyertai setiap entri dengan <strong>Pemetaan Indeks (Index Mapping)</strong> yang disengaja.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana mekanika spesifik di balik indeks dua dimensi commonplace book John Locke?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Menyalin informasi secara tanpa berpikir ke dalam buku catatan tanpa pengindeksa
       Locke menggambar kisi yang menggabungkan 26 huruf alfabet dengan 5 huruf vokal (a, e, i, o, u) pada halaman pertama jurnalnya. Ia mencatat nomor halaman pada persimpangan kisi yang sesuai dengan huruf awal dan vokal pertama kata kunci (misalnya, 'Epistola' di bawah baris E, kolom i).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah mencatat di kertas analog lebih unggul daripada perangkat lunak manajemen pengetahuan digital modern?</span>

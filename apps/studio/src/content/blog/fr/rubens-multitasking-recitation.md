@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Des classiques résonnant dans l'atelier du peintre : Le secret de productivité multi-cognitive de Rubens"
 description: "Le maître baroque Pierre Paul Rubens étudiait l'histoire et la littérature par l'ouïe tout en peignant. Découvrez comment l'exploitation des canaux cérébraux multiples empêche les distractions et maximise la productivité."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dans cet article, nous présentons les principes d'interaction sensorielle et d'
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant rubens-multitasking-recitation est basée sur <strong>Recherche biographique et autobiographique historique sur Pierre Paul Rubens et études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique et autobiographique historique sur Pierre Paul Rubens et études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La « canalisation cognitive » bloquant les distractions mentales
+## 1. La « canalisation cognitive » bloquant les distractions mentales
 
 Lors de tâches manuelles ou routinières, certaines zones cérébrales contrôlent l'action physique tandis que le traitement linguistique reste disponible. Ces pensées vagabondes activent le réseau par défaut (DMN), réduisant la concentration. Rubens a occupé intelligemment le canal auditif linguistique en associant récitations classiques et peinture, un phénomène appelé <strong>« canalisation cognitive »</strong>. Pendant que les mains guident le pinceau, les informations auditives remplissent le cortex linguistique, bloquant les rêveries inutiles.
 
 ---
 
-## Attention à l'interférence cognitive lors des tâches linguistiques/logiques
-
-Pour les tâches principales nécessitant un traitement linguistique ou logique élevé, comme la rédaction ou le codage, l'écoute d'un récit crée une interférence cognitive entre canaux linguistiques, réduisant la précision. Cette routine offre des résultats optimaux uniquement lors de tâches physiques, visuelles ou familières.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour les tâches principales nécessitant un traitement linguistique ou logique 
   </p>
 </div>
 
+---
+
+## 3. Attention à l'interférence cognitive lors des tâches linguistiques/logiques
+
+Pour les tâches principales nécessitant un traitement linguistique ou logique élevé, comme la rédaction ou le codage, l'écoute d'un récit crée une interférence cognitive entre canaux linguistiques, réduisant la précision. Cette routine offre des résultats optimaux uniquement lors de tâches physiques, visuelles ou familières.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Écouter de la musique pop ou la radio produit-il le même effet que la routine de Rubens ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour les tâches principales nécessitant un traitement linguistique ou logique 
       Non. La musique pop ou la radio stimulent les émotions sans occuper le canal linguistique de manière dense ; les publicités dérangent l'attention. Les récitations académiques engageant la logique et la connaissance sont idéales.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quel volume est approprié pour suivre cette routine d'écoute ?</span>

@@ -1,0 +1,454 @@
+{
+  "how-to-store-perilla-oil": {
+    "ingId": "perilla-oil",
+    "pubDate": "2026-06-03",
+    "updatedDate": "2026-06-03",
+    "heroImage": "/images/blog/perilla_oil_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "들기름 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 들기름의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>RDA & MFDS</strong>",
+        "intro": "참기름과 들기름을 나란히 가스레인지 옆 실온에 보관하셨나요? 오늘 FreshSnap에서는 농촌진흥청(RDA)의 들기름 보관 연구 결과를 토대로, 산패를 막고 맛을 유지하는 들기름 보관 비법을 알려드립니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "들기름",
+          "과학적으로 검증된 보관 가이드",
+          "condiment"
+        ],
+        "cautions": [
+          {
+            "title": "쩐내가 나면 즉시 버려야 합니다 ⚠️",
+            "desc": "들기름 뚜껑을 열었을 때 고소한 향 대신 시큼하거나 찌든 쩐내가 난다면 이미 완전히 산패된 상태입니다. 산패된 들기름은 암과 노화를 유발하는 유독 물질이므로 절대 먹지 말고 버려야 합니다."
+          },
+          {
+            "title": "참기름은 냉장고에 넣지 마세요 ❌",
+            "desc": "참기름은 자체 항산화 물질 덕에 실온 보관 시 산패가 잘 되지 않으며, 냉장 보관 시 오히려 고소한 맛 성분이 굳고 향이 날아가므로 참기름은 그늘진 실온 찬장에 둡니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "무조건 냉장실 0~4℃ 보관하기 — 냉장 보관 (30일)",
+            "text": "들기름은 참기름과 달리 산패를 막아주는 세사몰 성분이 없고 오메가-3 지방산이 60% 이상 함유되어 있어 상온에 두면 금방 상합니다. 무조건 0~4℃ 냉장고에 보관하세요."
+          },
+          {
+            "name": "갈색 차광병에 담고 공기 노출 제한 — 산소 및 자외선 차단 🫙",
+            "text": "빛과 산소는 오메가-3의 산화를 촉진합니다. 들기름은 갈색이나 초록색 유리병에 담아야 하며, 사용 후에는 뚜껑을 꼭 닫아 공기 접촉을 최소화해야 합니다."
+          },
+          {
+            "name": "들기름과 참기름을 8:2 비율로 혼합하여 보관 — 천연 보존제 효과 🫒",
+            "text": "들기름에 참기름을 20% 비율로 섞어 보관해 보세요. 참기름 속 천연 항산화 물질(리그난 등)이 들기름의 산화를 강력하게 막아주어 보관 수명이 2배 이상 늘어납니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "들기름과 참기름을 섞어서 보관하면 보관 기간이 늘어나나요?",
+            "answer": "네, 참기름에는 강력한 항산화 물질인 세사몰이 함유되어 있어, 산패되기 쉬운 들기름과 8:2 비율로 섞어서 보관하면 들기름의 보존 기간이 2배 이상 향상됩니다."
+          },
+          {
+            "question": "참기름도 냉장 보관을 해야 하나요?",
+            "answer": "아닙니다. 참기름은 항산화 성분이 풍부해 상온의 어두운 곳에 두는 것이 맛과 향을 지키는 최선입니다. 냉장 보관 시 침전물이 생기거나 향이 옅어질 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Perilla Oil Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Perilla Oil based on official safety guidelines.",
+        "authority": "<strong>RDA & MFDS</strong>",
+        "intro": "Did you store perilla oil in a kitchen cabinet or room temp pantry like olive or sesame oil? Perilla oil contains over 60% omega-3 fatty acids, causing it to oxidize rapidly, rancidify, and generate harmful carcinogens at room temp. Today, FreshSnap shares cold storage hacks.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Perilla Oil",
+          "Scientifically Proven Storage Guide",
+          "condiment"
+        ],
+        "cautions": [
+          {
+            "title": "Always store perilla oil in the refrigerator",
+            "desc": "Exposure to oxygen and light causes perilla oil to spoil fast. Keep it sealed in dark bottles inside the fridge."
+          },
+          {
+            "title": "Mix with 20% sesame oil to double the shelf life",
+            "desc": "Sesame oil is rich in sesamol and sesamolin, natural antioxidants that prevent perilla oil from rancidifying."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Always store in the refrigerator at 0–4°C — Refrigerated Storage (30Days)",
+            "text": "Unlike sesame oil, perilla oil lacks sesamol, a natural preservative, and contains over 60% omega-3 fatty acids, making it highly susceptible to rancidity at room temperature. Always store it in the refrigerator at 0–4°C."
+          },
+          {
+            "name": "Use dark glass bottles and limit air exposure — Block oxygen 🫙",
+            "text": "Light and oxygen accelerate the oxidation of omega-3. Perilla oil must be kept in brown or green glass bottles, and the cap must be closed tightly after each use to minimize contact with air."
+          },
+          {
+            "name": "Mix perilla oil and sesame oil at an 8:2 ratio — Natural preservative 🫒",
+            "text": "Try mixing perilla oil with sesame oil at a 20% ratio. Natural antioxidants in sesame oil, such as lignan, powerfully block the oxidation of perilla oil, doubling its shelf life."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does mixing perilla oil with sesame oil increase its shelf life?",
+            "answer": "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
+          },
+          {
+            "question": "Should sesame oil be refrigerated too?",
+            "answer": "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
+          }
+        ]
+      },
+      "ja": {
+        "title": "エゴマ油の鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくエゴマ油の最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>",
+        "intro": "オリーブオイルやごま油のように、エゴマ油もシンクの下や常温のパントリーに保管していませんか？エゴマ油はオメガ3脂肪酸の含有量が60%以上と非常に高いため、常温に置くと数日で酸化が進み、油臭くなって体に有害な物質が発生してしまいます。正しい冷蔵保存方法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "エゴマ油",
+          "科学的に検証された保存ガイド",
+          "condiment"
+        ],
+        "cautions": [
+          {
+            "title": "エゴマ油は必ず冷蔵庫で保存してください",
+            "desc": "酸素や光にさらされると非常に傷みやすいです。遮光瓶に入れ、しっかりと蓋を閉めて冷蔵庫で保管してください。"
+          },
+          {
+            "title": "ごま油を20%混ぜると保存期間が2倍に延びます",
+            "desc": "ごま油に含まれるセサモールなどの天然抗酸化成分が、エゴマ油の酸化を強力に抑制し、保存期間を延ばしてくれます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "必ず0〜4℃の冷蔵室に保存する — 冷蔵保存 (30日間)",
+            "text": "エゴマ油はごま油とは異なり, 酸化を防ぐセサモール成分が含まれておらず, オメガ3脂肪酸が60%以上も含まれているため, 常温に置くとすぐに傷んでしまいます。必ず0〜4℃の冷蔵庫で保存してください。"
+          },
+          {
+            "name": "遮光瓶（茶）に入れ、空気との接触を防ぐ — 酸素と紫外線の遮断 🫙",
+            "text": "光や酸素はオメガ3の酸化を急激に促します。エゴマ油は茶色や緑色の遮光ガラス瓶に入れ, 使用後はしっかりと蓋を閉めて空気との接触を最小限に抑えてください。"
+          },
+          {
+            "name": "エゴマ油とごま油を8:2の割合で混ぜる — 天然の防腐効果 🫒",
+            "text": "エゴマ油にごま油を20%混ぜて保存してみてください。ごま油に含まれる天然の抗酸化物質（リグナンなど）がエゴマ油の酸化を防ぎ, 保存期間が2倍以上に延びます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "エゴマ油とごま油を混ぜて保存すると保存期間が延びますか？",
+            "answer": "はい、ごま油には強力な抗酸化物質であるセサモールが含まれています。エゴマ油とごま油を8:2の比率で混ぜて保存すると、エゴマ油の保存期間が2倍以上に延びます。"
+          },
+          {
+            "question": "ごま油も冷蔵保存すべきですか？",
+            "answer": "いいえ、ごま油は抗酸化成分が豊富であるため、常温の暗い場所に保管するのが風味を維持する最善の方法です。冷蔵すると沈殿物が生じたり香りが弱まったりすることがあります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存苏子油：科学储存指南",
+        "description": "根据官方食品安全指南，了解苏子油的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>",
+        "intro": "您是否像对待橄榄油或芝麻油一样，将紫苏油随手存放在灶台下的橱柜或常温储藏室中？紫苏油的欧米伽-3脂肪酸含量极高（超过60%），常温下极易迅速氧化酸败，产生有害致癌物。今天，FreshSnap为您分享科学的冷藏保鲜妙招。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "苏子油",
+          "科学验证的储存指南",
+          "condiment"
+        ],
+        "cautions": [
+          {
+            "title": "紫苏油请务必放入冰箱冷藏保存",
+            "desc": "接触氧气和光线会导致紫苏油迅速变质。请用避光瓶装好并密封放入冰箱冷藏。"
+          },
+          {
+            "title": "掺入20%的芝麻油可使保鲜期翻倍",
+            "desc": "芝麻油富含芝麻酚和芝麻素，这些天然抗氧化剂能有效防止紫苏油酸败变质。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "务必存放在0-4℃的冷藏室中 — 冷藏储存 (30天)",
+            "text": "与芝麻油不同，苏子油中不含能防止变质的芝麻酚成分，且含有60%以上的欧米伽-3脂肪酸，放在常温下极易氧化酸败。请务必存放在0-4℃的冰箱中。"
+          },
+          {
+            "name": "使用深色避光瓶并减少空气接触 — 阻断氧气与紫外线 🫙",
+            "text": "光照和氧气会加速欧米伽-3的氧化。苏子油应装在褐色或绿色的玻璃瓶中，使用后须盖紧瓶盖，以尽量减少与空气接触。"
+          },
+          {
+            "name": "将苏子油与芝麻油以8:2比例混合存放 — 天然防腐剂 🫒",
+            "text": "可以尝试在苏子油中掺入20%比例的芝麻油。芝麻油中含有的天然抗氧化物质（木脂素等）能强力阻碍苏子油的氧化，从而使保质期延长2倍以上。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "将苏子油和芝麻油混合存放会延长保质期吗？",
+            "answer": "是的，芝麻油含有强效抗氧化剂芝麻酚。将苏子油与芝麻油按 8:2 的比例混合储存，可使苏子油的保质期延长两倍以上。"
+          },
+          {
+            "question": "芝麻油也需要冷藏吗？",
+            "answer": "不需要，芝麻油富含抗氧化成分，存放在室温避光处是保持其风味和香气的最佳方式。冷藏可能会产生沉淀物并减弱香气。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Aceite de perilla fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Aceite de perilla según las directrices oficiales de seguridad.",
+        "authority": "<strong>RDA & MFDS</strong>",
+        "intro": "¿Guardó el aceite de perilla en la alacena a temp. ambiente como el de oliva o sésamo? Al tener más de 60% de omega-3, se oxida rápido al aire y crea toxinas. Hoy, FreshSnap comparte trucos de refrigeración.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Aceite de perilla",
+          "Guía de almacenamiento científicamente probada",
+          "condiment"
+        ],
+        "cautions": [
+          {
+            "title": "Guarde el aceite de perilla en el refrigerador sin excepción",
+            "desc": "La exposición al oxígeno y la luz hace que se dañe rápido. Guárdelo sellado en botellas oscuras dentro del refrigerador."
+          },
+          {
+            "title": "Mezclar con 20% de aceite de sésamo duplica su duración",
+            "desc": "El aceite de sésamo es rico en sesamol y sesamolina, antioxidantes naturales que evitan que el aceite de perilla se rancie."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Almacene siempre en el refrigerador a 0–4 °C — Almacenamiento Refrigerado (30Días)",
+            "text": "A diferencia del aceite de sésamo, el aceite de linaza (perilla) carece de sesamol, un conservante natural, y tiene más de 60% de ácidos grasos omega-3, por lo que se rancia rápido a temp. ambiente. Guárdelo siempre en frío (0-4 °C)."
+          },
+          {
+            "name": "Use botellas de vidrio oscuro y limite el aire — Evite oxígeno y UV 🫙",
+            "text": "La luz y el oxígeno aceleran la oxidación de los ácidos grasos omega-3. El aceite de linaza debe envasarse en botellas de vidrio marrón o verde, cerrando bien la tapa después de cada uso."
+          },
+          {
+            "name": "Mezcle aceite de linaza y de sésamo en proporción 8:2 — Conservante natural 🫒",
+            "text": "Pruebe mezclando un 20% de aceite de sésamo con el aceite de linaza. Los antioxidantes naturales del sésamo, como el lignano, previenen la oxidación, duplicando la vida útil del aceite."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does mixing perilla oil with sesame oil increase its shelf life?",
+            "answer": "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
+          },
+          {
+            "question": "Should sesame oil be refrigerated too?",
+            "answer": "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Huile de pérille frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Huile de pérille selon les directives de sécurité officielles.",
+        "authority": "<strong>RDA & MFDS</strong>",
+        "intro": "Avez-vous stocké votre huile de périlla dans un placard à température ambiante comme l'huile d'olive ou de sésame ? Elle contient plus de 60 % d'acides gras oméga-3, ce qui la fait s'oxyder très vite à l'air libre. Aujourd'hui, FreshSnap vous montre comment la conserver au frais.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Huile de pérille",
+          "Guide de conservation scientifiquement prouvé",
+          "condiment"
+        ],
+        "cautions": [
+          {
+            "title": "Conservez impérativement l'huile de périlla au réfrigérateur",
+            "desc": "L'exposition à l'oxygène et à la lumière la fait rancir très vite. Gardez-la scellée dans des bouteilles sombres au réfrigérateur."
+          },
+          {
+            "title": "Mélanger avec 20 % d'huile de sésame double la durée de conservation",
+            "desc": "L'huile de sésame est riche en sésamol et sésamoline, des antioxydants naturels qui empêchent l'huile de périlla de rancir."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Toujours conserver au réfrigérateur entre 0 et 4 °C — Stockage Réfrigéré (30Jours)",
+            "text": "Contrairement à l'huile de sésame, l'huile de pérille ne contient pas de sésamol (conservateur naturel) et possède plus de 60 % d'acides gras oméga-3, ce qui la fait rancir très vite à l'air. Conservez-la obligatoirement au frais (0-4 °C)."
+          },
+          {
+            "name": "Utiliser des flacons en verre teinté et limiter l'air — Oxygène et UV 🫙",
+            "text": "La lumière et l'oxygène accélèrent fortement l'oxydation des oméga-3. L'huile de pérille doit être conservée en bouteille en verre brun ou vert, en refermant bien le bouchon après usage."
+          },
+          {
+            "name": "Mélanger l'huile de pérille et de sésame au ratio 8:2 — Conservateur naturel 🫒",
+            "text": "Mélangez 20 % d'huile de sésame à l'huile de pérille. Les antioxydants naturels du sésame (lignanes) bloquent l'oxydation de l'huile de pérille, ce qui double sa durée de conservation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does mixing perilla oil with sesame oil increase its shelf life?",
+            "answer": "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
+          },
+          {
+            "question": "Should sesame oil be refrigerated too?",
+            "answer": "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Perillaöl frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Perillaöl basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>RDA & MFDS</strong>",
+        "intro": "Lagern Sie Perillaöl im Küchenschrank oder der Vorratskammer wie Oliven- oder Sesamöl? Perillaöl enthält über 60 % Omega-3-Fettsäuren, weshalb es bei Raumtemperatur extrem schnell oxidiert. Heute teilt FreshSnap Tipps zur Kühllagerung.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Perillaöl",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "condiment"
+        ],
+        "cautions": [
+          {
+            "title": "Perillaöl ausnahmslos im Kühlschrank lagern",
+            "desc": "Sauerstoff und Licht lassen Perillaöl schnell verderben. Gut verschlossen in dunklen Flaschen im Kühlschrank aufbewahren."
+          },
+          {
+            "title": "Mischung mit 20 % Sesamöl verdoppelt die Haltbarkeit",
+            "desc": "Sesamöl ist reich an Sesamol und Sesamolin, natürlichen Antioxidantien, die das Perillaöl vor Ranzigkeit schützen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Immer im Kühlschrank bei 0–4 °C lagern — Kühllagerung (30Tage)",
+            "text": "Im Gegensatz zu Sesamöl enthält Perillaöl kein Sesamol (ein natürliches Antioxidans) und besteht zu über 60 % aus Omega-3-Fettsäuren, weshalb es bei Raumtemperatur rasch verdirbt. Stets im Kühlschrank (0–4 °C) lagern."
+          },
+          {
+            "name": "Dunkle Glasflaschen nutzen und Luftkontakt minimieren — Sauerstoff- und UV-Schutz 🫙",
+            "text": "Licht und Sauerstoff beschleunigen die Oxidation von Omega-3. Perillaöl sollte in braunen oder grünen Glasflaschen gelagert werden. Nach Gebrauch den Deckel stets fest verschließen."
+          },
+          {
+            "name": "Perillaöl und Sesamöl im Verhältnis 8:2 mischen — Natürliches Konservierungsmittel 🫒",
+            "text": "Mischen Sie Perillaöl mit 20 % Sesamöl. Die im Sesamöl enthaltenen natürlichen Antioxidantien (wie Lignane) schützen das Perillaöl vor Oxidation und verdoppeln die Haltbarkeit."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does mixing perilla oil with sesame oil increase its shelf life?",
+            "answer": "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
+          },
+          {
+            "question": "Should sesame oil be refrigerated too?",
+            "answer": "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Óleo de perila fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Óleo de perila com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>RDA & MFDS</strong>",
+        "intro": "Você guardou o óleo de perila no armário em temp. ambiente como o azeite ou óleo de gergelim? Ele tem mais de 60% de ômega-3, oxidando rápido com ar e criando toxinas. Hoje, o FreshSnap ensina a guardar na geladeira.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Óleo de perila",
+          "Guia de armazenamento comprovado cientificamente",
+          "condiment"
+        ],
+        "cautions": [
+          {
+            "title": "Guarde o óleo de perila na geladeira sem exceção",
+            "desc": "A exposição ao oxigênio e à luz faz o óleo estragar rápido. Guarde-o fechado em garrafas escuras na geladeira."
+          },
+          {
+            "title": "Misturar com 20% de óleo de gergelim dobra a conservação",
+            "desc": "O óleo de gergelim é rico em sesamol e sesamolina, antioxidantes naturais que evitam que o óleo de perila fique ranço."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Armazene sempre na geladeira a 0–4 °C — Armazenamento Refrigerado (30Dias)",
+            "text": "Ao contrário do óleo de gergelim, o óleo de linhaça/perila não possui sesamol, um antioxidante natural, e contém mais de 60% de ômega-3, tornando-o propício à rancificação em temp. ambiente. Guarde sempre na geladeira (0-4 °C)."
+          },
+          {
+            "name": "Use garrafas de vidro escuro e evite o ar — Proteção contra oxigênio e UV 🫙",
+            "text": "A luz e o oxigênio aceleram a oxidação do ômega-3. O óleo de perila deve ser mantido em garrafas de vidro marrom ou verde, fechando muito bem a tampa após o uso para diminuir o contato com o ar."
+          },
+          {
+            "name": "Misture óleo de perila e óleo de gergelim na proporção 8:2 — Conservante natural 🫒",
+            "text": "Experimente misturar 20% de óleo de gergelim ao óleo de perila. Os antioxidantes naturais do óleo de gergelim (lignanos) impedem a oxidação, dobrando a vida útil do óleo de perila."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does mixing perilla oil with sesame oil increase its shelf life?",
+            "answer": "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
+          },
+          {
+            "question": "Should sesame oil be refrigerated too?",
+            "answer": "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Minyak perila agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Minyak perila berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>RDA & MFDS</strong>",
+        "intro": "Apakah Anda menyimpan minyak perilla di kabinet dapur atau pantry suhu ruang seperti minyak zaitun? Minyak perilla mengandung lebih dari 60% asam lemak omega-3, membuatnya cepat teroksidasi di suhu ruang. Hari ini, FreshSnap membagikan panduan penyimpanan kulkas.",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Minyak perila",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "condiment"
+        ],
+        "cautions": [
+          {
+            "title": "Selalu simpan minyak perilla di dalam kulkas",
+            "desc": "Paparan oksigen dan cahaya membuat minyak perilla cepat rusak. Simpan rapat dalam botol gelap di kulkas."
+          },
+          {
+            "title": "Campur dengan 20% minyak gergelim untuk melipatgandakan masa simpan",
+            "desc": "Minyak gergelim kaya akan sesamol dan sesamolin, antioksidan alami yang mencegah minyak perilla menjadi tengik."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Selalu simpan di kulkas pada suhu 0–4°C — Penyimpanan Dingin (30Hari)",
+            "text": "Berbeda dengan minyak wijen, minyak perilla tidak memiliki kandungan sesamol yang mencegah ketengikan dan mengandung lebih dari 60% asam lemak omega-3, membuatnya cepat rusak di suhu ruang. Selalu simpan di kulkas."
+          },
+          {
+            "name": "Gunakan botol kaca gelap dan kurangi paparan udara — Menahan oksigen & UV 🫙",
+            "text": "Cahaya dan oksigen mempercepat oksidasi omega-3. Minyak perilla harus disimpan dalam botol kaca cokelat atau hijau, dan tutupnya harus rapat setelah digunakan untuk mengurangi kontak udara."
+          },
+          {
+            "name": "Campurkan minyak perilla dan minyak wijen dengan rasio 8:2 — Pengawet alami 🫒",
+            "text": "Cobalah mencampur minyak perilla dengan minyak wijen sebanyak 20%. Antioksidan alami dalam minyak wijen, seperti lignan, menahan oksidasi minyak perilla, menggandakan masa simpannya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does mixing perilla oil with sesame oil increase its shelf life?",
+            "answer": "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
+          },
+          {
+            "question": "Should sesame oil be refrigerated too?",
+            "answer": "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
+          }
+        ]
+      }
+    }
+  }
+}

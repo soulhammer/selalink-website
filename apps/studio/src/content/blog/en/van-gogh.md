@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Van Gogh's Epistolary Reflection: Purifying Despair by Writing Letters to His Brother Theo Every Night"
 description: "Discover the emotional verbalization habit of Vincent van Gogh, the immortal painter who burned with vivid colors and purified his mind through hundreds of letters to his brother Theo amid intense psychological torment."
 pubDate: "2026-04-21"
@@ -34,22 +35,20 @@ In today's post, we introduce the cognitive scientific principles behind his hab
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding van-gogh is based on <strong>Historical biographies and autobiographical records of Vincent van Gogh & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Vincent van Gogh & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscientific Analysis of Emotional Purification and Focus
+## 1. Neuroscientific Analysis of Emotional Purification and Focus
 
 Epistolary reflection that objectifies and records emotions through writing strengthens prefrontal cognitive control and regulates excessive anxiety in the amygdala. Translating emotions into sophisticated language suppresses limbic system arousal in a top-down manner, enhancing metacognitive resolution to restore mental clarity and psychological resilience.
 
 ---
 
-## Behavioral Science Advice for Successful Habit Formation
-
-Do not try to exhaustively write about every emotional wound experienced during the day in a lengthy diary. A light 3-minute exercise of noting emotional cues to objectify them is sufficient. Rather than relying solely on willpower, designing a physical environment and habit cues that naturally trigger action is key to sustainability.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Do not try to exhaustively write about every emotional wound experienced during 
   </p>
 </div>
 
+---
+
+## 3. Behavioral Science Advice for Successful Habit Formation
+
+Do not try to exhaustively write about every emotional wound experienced during the day in a lengthy diary. A light 3-minute exercise of noting emotional cues to objectify them is sufficient. Rather than relying solely on willpower, designing a physical environment and habit cues that naturally trigger action is key to sustainability.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it necessary to have an imaginary recipient like Theo for the letter?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Do not try to exhaustively write about every emotional wound experienced during 
       Yes. Writing as if addressing someone who will listen without judgment, like an imaginary Theo, maximizes the honest verbalization of emotions and the brain detoxification effect.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can I use a digital note app instead of handwriting?</span>

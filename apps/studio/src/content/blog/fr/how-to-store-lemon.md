@@ -21,6 +21,7 @@ faqs:
     answer: "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
   - question: "Comment gérer et conserver les parties abîmées ?"
     answer: "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+
 ---
 
 Avez-vous déjà laissé des citrons sur le comptoir pour les retrouver secs et durs ? Aujourd'hui, FreshSnap vous donne des astuces pour les garder juteux.
@@ -29,10 +30,10 @@ Avez-vous déjà laissé des citrons sur le comptoir pour les retrouver secs et 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autorité Scientifique Vérifiée
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce guide de conservation est basé sur les directives officielles de : <strong>USDA & FSA</strong>.
+      Based on official storage standards. <strong>USDA & FSA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sécher l'humidité de surface 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Placer dans un sac hermétique et sceller 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stocker sur l'étagère du milieu ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

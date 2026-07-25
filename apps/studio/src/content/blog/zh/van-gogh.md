@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "凡·高每晚给弟弟提奥写信净化绝望的书信体反思"
 description: "探索用强烈色彩燃烧情感的永恒画家文森特·梵高，在极度精神痛苦中通过给弟弟提奥寄出的数百封信净化心灵的情感语言化习惯。"
 pubDate: "2026-04-21"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 van-gogh 的内容基于 <strong>文森特·梵高历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>文森特·梵高历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 引发情感净化与专注的脑科学原理分析
+## 1. 引发情感净化与专注的脑科学原理分析
 
 通过文字将情感客观化记录的书信体反思，能够增强前额叶的认知控制，抑制杏仁核过度的焦虑刺激。将情绪转化为精细语言表达的过程，能够自上而下（Top-down）抑制大脑边缘系统的过度兴奋，提高元认知分辨率，从而恢复高度的精神觉醒与心理复原力。
 
 ---
 
-## 习惯建立的行动科学建议
-
-不要试图在冗长的日记里详尽记录一天中经历的每一次情绪伤痛。只需花3分钟简要写下情绪线索进行客观化便已足够。与其单纯依赖意志力，不如预先设计能够自然引发行动的物理环境与习惯信号，这是持之以恒的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 习惯建立的行动科学建议
+
+不要试图在冗长的日记里详尽记录一天中经历的每一次情绪伤痛。只需花3分钟简要写下情绪线索进行客观化便已足够。与其单纯依赖意志力，不如预先设计能够自然引发行动的物理环境与习惯信号，这是持之以恒的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>必须要有一个像提奥那样的虚拟收信人吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       是的。像给能够无偏见倾听自己真心话的虚拟提奥写信那样倾诉时，能够最大化实现情感的坦诚语言化与大脑排毒效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>可以使用数字笔记软件代替手写吗？</span>

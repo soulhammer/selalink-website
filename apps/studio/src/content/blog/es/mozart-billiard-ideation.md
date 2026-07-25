@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El genio que jugaba al billar cuando se atascaba al componer? El hábito de activación del modo por defecto de Mozart"
 description: "Wolfgang Amadeus Mozart activaba su cerebro subconsciente (DMN) jugando al billar cuando la inspiración musical se estancaba. Descubra el secreto científico de cómo el descanso cognitivo genera avances creativos y una rutina de juego visoespacial de 15 minutos."
 pubDate: "2026-05-01"
@@ -34,14 +35,14 @@ En esta publicación, exploramos los mecanismos neurocientíficos tras el ritual
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mozart-billiard-ideation se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Mozart y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Mozart y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El cerebro subconsciente y la 'Red por Defecto'
+## 1. El cerebro subconsciente y la 'Red por Defecto'
 
 Mirar fijamente una pantalla para resolver un problema complejo sobresatura la memoria de trabajo en la corteza prefrontal, atrapando al cerebro en el estancamiento mental. Por el contrario, desviar la atención hacia un juego físico ligero que involucre la predicción de trayectorias visoespaciales —como el billar— activa la Red por Defecto (DMN).
 
@@ -49,11 +50,7 @@ La DMN es un mecanismo de síntesis inconsciente que opera cuando la mente consc
 
 ---
 
-## Un consejo neurocientífico para una rutina exitosa
-
-<strong>La creatividad surge de la alternancia, no de la concentración forzada</strong>
-
-Un cerebro obsesionado con una sola idea queda atrapado en una visión de túnel, bloqueando nuevas conexiones. Permanece sentado por la fuerza cuando se está agotado solo carcome la energía cognitiva. Así como Mozart activaba su mente subconsciente junto a la mesa de billar para extraer trayectorias musicales inmortales, levántese de inmediato cuando se bloquee y active su DMN con un juego espacial ligero.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Un cerebro obsesionado con una sola idea queda atrapado en una visión de túnel
     Vuelva a sentarse y examine su proyecto. A menudo, un nuevo camino o avance creativo sintetizado durante el descanso emergerá de forma natural a la conciencia.
   </p>
 </div>
+
+---
+
+## 3. Un consejo neurocientífico para una rutina exitosa
+
+<strong>La creatividad surge de la alternancia, no de la concentración forzada</strong>
+
+Un cerebro obsesionado con una sola idea queda atrapado en una visión de túnel, bloqueando nuevas conexiones. Permanece sentado por la fuerza cuando se está agotado solo carcome la energía cognitiva. Así como Mozart activaba su mente subconsciente junto a la mesa de billar para extraer trayectorias musicales inmortales, levántese de inmediato cuando se bloquee y active su DMN con un juego espacial ligero.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

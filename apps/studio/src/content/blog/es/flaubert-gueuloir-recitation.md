@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Sonido que Engendra Frases Perfectas: La Rutina de Recitación del 'Gueuloir' y Retroalimentación Auditiva de Gustave Flaubert"
 description: "Descubra cómo el novelista Gustave Flaubert, obsesionado con 'le mot juste' (la palabra exacta), lograba la perfección estilística. Explore la neurociencia cognitiva del 'Gueuloir', la teoría de la codificación dual y la retroalimentación auditiva."
 pubDate: "2026-01-20"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás del 'Gue
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre flaubert-gueuloir-recitation se basa en <strong>Verificación Histórica de la *Correspondance* de Gustave Flaubert, Biografías Literarias e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la *Correspondance* de Gustave Flaubert, Biografías Literarias e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teoría de la Codificación Dual y Neurociencia de la Retroalimentación Auditiva
+## 1. Teoría de la Codificación Dual y Neurociencia de la Retroalimentación Auditiva
 
 Leer en silencio activa solo una parte de la corteza visual, pero vocalizar obliga a la <strong>Corteza Motora</strong> y a los sistemas de monitoreo cognitivo a colaborar. Según la <strong>Teoría de la Codificación Dual</strong>, procesar información simultáneamente por vías visuales y auditivas amplía el ancho de banda cognitivo. Además, escuchar la propia voz activa una <strong>Bucle de Retroalimentación Auditiva</strong>, permitiendo al cerebro detectar fallos gramaticales, sintaxis incómoda o pérdida de ritmo. Vocalizar actúa como un filtro neuronal instantáneo para la claridad.
 
 ---
 
-## Precaución: Prevenga la Lectura Rápida y el Autoengaño Mediante la Recitación de Precisión
-
-Un error grave al revisar mediante recitación es leer demasiado rápido. Si el cerebro vocaliza rápidamente un texto familiar, auto-corrige mentalmente las erratas y sintaxis defectuosa, percibiendo frases incorrectas como válidas. Para evitarlo, recite despacio, siguiendo el texto con el dedo. Exagere las pausas en puntos y comas; forzar pausas físicas de respiración aporta datos sensoriales objetivos para evaluar el ritmo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Un error grave al revisar mediante recitación es leer demasiado rápido. Si el 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Prevenga la Lectura Rápida y el Autoengaño Mediante la Recitación de Precisión
+
+Un error grave al revisar mediante recitación es leer demasiado rápido. Si el cerebro vocaliza rápidamente un texto familiar, auto-corrige mentalmente las erratas y sintaxis defectuosa, percibiendo frases incorrectas como válidas. Para evitarlo, recite despacio, siguiendo el texto con el dedo. Exagere las pausas en puntos y comas; forzar pausas físicas de respiración aporta datos sensoriales objetivos para evaluar el ritmo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo leer en voz alta incluso si trabajo en una oficina silenciosa o cafetería?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Un error grave al revisar mediante recitación es leer demasiado rápido. Si el 
       Como hablar alto en público es inconveniente, adopte un 'sub-suspiro' o susurro bajo, articulando las palabras con los labios y la lengua. Mover los órganos de articulación activa la corteza motora en comparación con la lectura silenciosa, detectando errores.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es efectiva la recitación para propuestas de negocios o informes no literarios?</span>

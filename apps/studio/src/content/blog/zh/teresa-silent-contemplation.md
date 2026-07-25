@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "贫民窟苦难中守卫平静的盾牌？特蕾莎修女的早晨沉默习惯"
 description: "特蕾莎修女一生在印度加尔各答的贫民窟奉献。了解她通过“凌晨4:30的静默”习惯预热大脑共情网络与情绪调节能力、不被他人的痛苦情绪淹没的科学效果与15分钟实践技巧。"
 pubDate: "2026-04-19"
@@ -19,7 +20,7 @@ steps:
 faqs:
   - question: "如果在冥想过程中不断浮现今天要做的事情和顾虑，该怎么办？"
     answer: "这是大脑无法完全停歇、试图启动运算机制的自然现象。不要与涌现的想法对抗，而是跳脱出来淡淡注视：“啊，我在想着今天要做的事呢”，宛如看着脑海中的云朵漂过。随后轻轻地将意识重新带回到鼻尖呼气的温度变化与吸气的感官上，这是整理脑波的绝佳解法。"
-  - question: "特蕾莎修女会进行1小时，缩短为10~15分钟对大脑依然有效吗？"
+  - question: "特蕾莎修女会进行1小时，缩短为10 ~ 15分钟对大脑依然有效吗？"
     answer: "是的，根据临床脑科学与压力研究，在完全黑暗或无声的状态下，即使仅专注坚持10分钟的静默冥想，也能抑制植物神经系统交感神经的兴奋，降低皮质醇分泌，产生显著的生理放松效果。如果时间充裕不足，每天早晨坚持哪怕10分钟关掉手机保持静默的习惯，对长期提升情绪控制能力大有裨益。"
 ---
 
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 teresa-silent-contemplation 的内容基于 <strong>特蕾莎修女历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>特蕾莎修女历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 预热情感共情网络与抑制杏仁核过度过度激活
+## 1. 预热情感共情网络与抑制杏仁核过度过度激活
 
 清晨的静默冥想（Silent Contemplation）能够抑制交感神经的过度兴奋，稳定调节压力激素的HPA轴（下丘脑-垂体-肾上腺轴）。这在物理上抑制了主管情感反应的杏仁核（Amygdala）的过度激活。同时，它增强了前额叶皮层与情绪区域之间的功能连接，使大脑能够预热共情网络（Empathy Network）与情绪控制力，从而在面对他人的悲伤或压力境遇时不至于被压垮，始终保持内心平静。
 
 ---
 
-## 静默中压抑想法的误区与顺其自然技巧
-
-在进行静默时，如果试图通过强想“我不应该去想这个”来抑制脑海中浮现的担忧或待办事项，反而会导致杂念更加强烈地缭绕在大脑里的“反弹效应（Rebound Effect）”。因此，当想法浮现时，不要强行控制，而是像看流云一样平淡地让其流向意识背景，意图性地仅将注意力集中在呼吸的气流出入上，这对大脑的生理稳定大有裨益。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 静默中压抑想法的误区与顺其自然技巧
+
+在进行静默时，如果试图通过强想“我不应该去想这个”来抑制脑海中浮现的担忧或待办事项，反而会导致杂念更加强烈地缭绕在大脑里的“反弹效应（Rebound Effect）”。因此，当想法浮现时，不要强行控制，而是像看流云一样平淡地让其流向意识背景，意图性地仅将注意力集中在呼吸的气流出入上，这对大脑的生理稳定大有裨益。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果在冥想过程中不断浮现今天要做的事情和顾虑，该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,10 +102,10 @@ faqs:
       这是大脑无法完全停歇、试图启动运算机制的自然现象。不要与涌现的想法对抗，而是跳脱出来淡淡注视：“啊，我在想着今天要做的事呢”，宛如看着脑海中的云朵漂过。随后轻轻地将意识重新带回到鼻尖呼气的温度变化与吸气的感官上，这是整理脑波的绝佳解法。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>特蕾莎修女会进行1小时，缩短为10~15分钟对大脑依然有效吗？</span>
+      <span>特蕾莎修女会进行1小时，缩短为10 ~ 15分钟对大脑依然有效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

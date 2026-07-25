@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ritual Fajar Pembawa Kreativitas: Rutinitas Persiapan Menulis Jam 5 Pagi Toni Morrison"
 description: "Pemenang Nobel Toni Morrison mereset pikirannya dan memulai fokus menulis dengan menatap cahaya fajar jam 5 pagi setiap hari. Temukan rahasia konsentrasi fajar dan nilai ilmu saraf kognitifnya."
 pubDate: "2026-02-27"
@@ -35,17 +36,17 @@ Ia menggambarkan hal ini sebagai 'menyaksikan datangnya cahaya', mengaku bahwa m
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai morrison-pre-dawn-coffee didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi Toni Morrison & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi Toni Morrison & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pembangkitan Jam Biologis Sirkadian dan Stimulasi Fotoreseptor Retina
+## 1. Pembangkitan Jam Biologis Sirkadian dan Stimulasi Fotoreseptor Retina
 
 Mengekspos otak ke cahaya biru smartphone yang terang segera setelah bangun di kamar gelap memicu lonjakan kortisol, meningkatkan tingkat kecemasan.
 
@@ -53,9 +54,7 @@ Pengamatan fajar Toni Morrison memungkinkan cahaya alami yang bertahap terang me
 
 ---
 
-## Jangan Menyentuh Perangkat Elektronik Apa Pun Saat Cahaya Alami Menyentuh Mata Anda
-
-Peredam terbesar dari rutinitas fajar adalah pesan smartphone dan notifikasi berita. Selama 5 menit menatap cahaya fajar, jangan pernah menyalakan layar digital. Jangan menyiramkan bising visual ke retina dan sel otak yang baru terbangun; biarkan aliran cahaya matahari alami masuk ke dalam pikiran Anda secara damai.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Peredam terbesar dari rutinitas fajar adalah pesan smartphone dan notifikasi ber
   </p>
 </div>
 
+---
+
+## 3. Jangan Menyentuh Perangkat Elektronik Apa Pun Saat Cahaya Alami Menyentuh Mata Anda
+
+Peredam terbesar dari rutinitas fajar adalah pesan smartphone dan notifikasi berita. Selama 5 menit menatap cahaya fajar, jangan pernah menyalakan layar digital. Jangan menyiramkan bising visual ke retina dan sel otak yang baru terbangun; biarkan aliran cahaya matahari alami masuk ke dalam pikiran Anda secara damai.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Waktu matahari terbit bervariasi menurut musim; haruskah saya menyesuaikan waktu bangun saya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Peredam terbesar dari rutinitas fajar adalah pesan smartphone dan notifikasi ber
       Anda tidak perlu menyelaraskan secara ketat dengan momen matahari terbit yang tepat. Merasakan suasana tenang dan temaram tepat sebelum fajar tanpa memandang musim (biasanya antara jam 5:00 hingga 6:00 pagi) sudah memberikan manfaat reset kognitif yang memadai.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Saya bukan tipe orang pagi dan merasa sangat lelah saat bangun awal; apa yang harus saya lakukan?</span>

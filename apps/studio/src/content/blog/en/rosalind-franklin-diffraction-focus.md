@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Female Scientist Who Unlocked DNA's Secret? Rosalind Franklin's 0.1-Degree Precision Checking Routine"
 description: "Rosalind Franklin created 'Photo 51', crucial to unlocking the DNA double helix. Explore her uncompromising 0.1-degree error-checking habit and a precision enhancement guide for modern professionals."
 pubDate: "2026-02-24"
@@ -36,14 +37,14 @@ In this post, we explore Rosalind Franklin's 0.1-degree precision checking routi
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding rosalind-franklin-diffraction-focus is based on <strong>Historical Biography & Autobiographical Verification of Rosalind Franklin & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biography & Autobiographical Verification of Rosalind Franklin & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Blocking Cognitive Errors via Parietal Spatial Numerical Matching
+## 1. Blocking Cognitive Errors via Parietal Spatial Numerical Matching
 
 When performing familiar tasks, the brain falls prey to heuristics ('it's probably fine'), easily overlooking critical typos or numerical errors.
 
@@ -51,9 +52,7 @@ Hand-checking values 1-to-1 against raw source data—like Franklin's <strong>'Q
 
 ---
 
-## Prioritize Certainty Over Speed in the Final Phase
-
-Rushing at the last moment allows typos or calculation mistakes to ruin the credibility of your entire work. Slow down during the 10-minute check phase and focus entirely on thoroughness. Rather than relying solely on willpower, build environmental cues that make precision automatic.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Rushing at the last moment allows typos or calculation mistakes to ruin the cred
   </p>
 </div>
 
+---
+
+## 3. Prioritize Certainty Over Speed in the Final Phase
+
+Rushing at the last moment allows typos or calculation mistakes to ruin the credibility of your entire work. Slow down during the 10-minute check phase and focus entirely on thoroughness. Rather than relying solely on willpower, build environmental cues that make precision automatic.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Doesn't thoroughly checking every time take too much time?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Rushing at the last moment allows typos or calculation mistakes to ruin the cred
       The time spent fixing typos, apologizing, and reworking errors later is 10 times greater. Spending 10 minutes checking upfront is ultimately the fastest route.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can quantitative matching be applied to general text or non-scientific roles?</span>

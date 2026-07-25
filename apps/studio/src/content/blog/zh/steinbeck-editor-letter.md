@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "消除开始的恐惧：斯坦贝克的热身信件习惯"
 description: "小说家约翰·斯坦贝克每天给编辑写信，以消除写作开头的拖延与心理阻力。探索轻松的自由书写如何激活大脑语言运动皮层并克服心理惯性。"
 pubDate: "2026-05-07"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 steinbeck-editor-letter 的内容基于 <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong> 撰写。
+      本内容基于 <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 克服完美主义阻力与抑制杏仁核焦虑的神经路径
+## 1. 克服完美主义阻力与抑制杏仁核焦虑的神经路径
 
 当大脑意识到必须产出重要且高水准的成果时，杏仁核就会发出对失败的无意识警报，从而引发拖延。此时，如果先进行不受评估的轻松书写，向大脑传递“安全无风险”的反馈，杏仁核的过度活跃就会平静下来。同时，语言运动皮层被温和激活，大幅降低了进入核心深度工作时的心理阻力。
 
 ---
 
-## 注意事项与技巧
-
-撰写热身信件时最大的陷阱是让热身本身演变成另一种形式的拖延。如果信写得太长或耗时超过30分钟，就会消耗核心专注力。因此，请严格将热身书写限制在最多5分钟或半页纸内，时间一到就果断切换至主要工作。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     在手指与语言皮层已经变得灵活顺畅的状态下，毫不犹豫地立即切换至主要工作（报告、文稿、学习）界面。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与技巧
+
+撰写热身信件时最大的陷阱是让热身本身演变成另一种形式的拖延。如果信写得太长或耗时超过30分钟，就会消耗核心专注力。因此，请严格将热身书写限制在最多5分钟或半页纸内，时间一到就果断切换至主要工作。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

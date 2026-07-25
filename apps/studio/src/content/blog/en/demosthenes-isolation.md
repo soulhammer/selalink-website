@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Orator Who Shaved Half His Head: Demosthenes's Extreme Environmental Control and Hard Commitment Device Routine"
 description: "Discover how Demosthenes, master orator of ancient Greece, overcame physical limitations by shaving half his head and isolating in a cave. Explore the cognitive neuroscience of how Hard Commitment Devices protect prefrontal cortex executive functions."
 pubDate: "2026-01-28"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Demosthenes's 'half-sha
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding demosthenes-isolation is based on <strong>Historical Verification from Plutarch's *Parallel Lives (Life of Demosthenes)* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Plutarch's *Parallel Lives (Life of Demosthenes)* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hard Commitment Devices and Prefrontal Cortex Executive Function Preservation
+## 1. Hard Commitment Devices and Prefrontal Cortex Executive Function Preservation
 
 Relying on momentary internal willpower to resist distractions rapidly depletes glucose in the prefrontal cortex (PFC), exhausting executive function resources. As long as a temptation remains accessible, the anterior cingulate cortex continually engages in 'Conflict Processing' (deciding whether to indulge or resist), generating high cognitive load. In behavioral economics and cognitive neuroscience, erecting physical barriers that render temptation impossible—such as Demosthenes shaving half his head—is known as a 'Hard Commitment Device'. This strict environmental restriction reduces prefrontal conflict processing load to zero, preserving 100% of executive bandwidth solely for deep focus on target tasks.
 
 ---
 
-## Caution & Tips: Rejecting the Willpower Myth & Constructing Environmental Barriers
-
-Abandon the illusion that unassisted willpower alone can overcome procrastination and digital distractions. Human self-control is a strictly finite biological resource. To achieve sustained deep work like Demosthenes, proactively install external, physical commitment devices before you begin—rendering non-task behaviors physically impossible or high-cost.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Abandon the illusion that unassisted willpower alone can overcome procrastinatio
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Rejecting the Willpower Myth & Constructing Environmental Barriers
+
+Abandon the illusion that unassisted willpower alone can overcome procrastination and digital distractions. Human self-control is a strictly finite biological resource. To achieve sustained deep work like Demosthenes, proactively install external, physical commitment devices before you begin—rendering non-task behaviors physically impossible or high-cost.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Demosthenes specifically shave half his head before entering the cave?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Abandon the illusion that unassisted willpower alone can overcome procrastinatio
       To construct an inescapable social barrier that made going out into public socially unbearable due to his ridiculous appearance. This eliminated the willpower energy required to resist temptations, locking 100% of his prefrontal executive resources onto speech training.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What practical Hard Commitment Devices can modern people use without shaving their heads?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Marcus Aurelius' morgendliches Journaling: Die Seele mit stoischer Philosophie beruhigen"
 description: "Erfahren Sie, wie der römische Kaiser Marcus Aurelius kurz vor Sonnenaufgang Tagebuch schrieb, um extremen Stress abzubauen und innere Resilienz zu entwickeln."
 pubDate: "2026-05-22"
@@ -33,25 +34,23 @@ Diese morgendliche Schreibgewohnheit, die ihn durch Schlachten, Seuchen und poli
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu marcus-aurelius-morning-journaling basiert auf <strong>Historische Prüfung von Marcus Aurelius' 'Selbstbetrachtungen', biografischen Aufzeichnungen & kognitionswissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Prüfung von Marcus Aurelius' 'Selbstbetrachtungen', biografischen Aufzeichnungen & kognitionswissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Warum morgendliches reflektierendes Journaling Stress blockiert
+## 1. Warum morgendliches reflektierendes Journaling Stress blockiert
 
 Das Schreiben unmittelbar nach dem Aufstehen wirkt wie ein kognitiver Filter für das Gehirn. Das Zupapierbringen vager Ängste und emotionaler Sorgen aktiviert den für die Logik zuständigen präfrontalen Kortex und beruhigt gleichzeitig die übermäßige Angstreaktion der Amygdala. Diese kognitive Neuausrichtung normalisiert die Cortisolausschüttung und stärkt die mentale Kontrolle.
 
 ---
 
-## Regeln für ein effektives stoisches Journaling
-
-Verzichten Sie auf geschliffene Rhetorik für andere; dieses Schreiben muss absolut ehrlich und nur für Sie selbst sein. Halten Sie Schwächen oder Fehler objektiv fest und nutzen Sie die Anrede in der zweiten Person ('du'). Dies schafft eine kognitive Distanz (Cognitive Distance), die hilft, das eigene Handeln wie ein externer Beobachter zu bewerten.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Verzichten Sie auf geschliffene Rhetorik für andere; dieses Schreiben muss abso
   </p>
 </div>
 
+---
+
+## 3. Regeln für ein effektives stoisches Journaling
+
+Verzichten Sie auf geschliffene Rhetorik für andere; dieses Schreiben muss absolut ehrlich und nur für Sie selbst sein. Halten Sie Schwächen oder Fehler objektiv fest und nutzen Sie die Anrede in der zweiten Person ('du'). Dies schafft eine kognitive Distanz (Cognitive Distance), die hilft, das eigene Handeln wie ein externer Beobachter zu bewerten.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was soll ich tun, wenn ich morgens aus Zeitmangel nicht täglich schreiben kann?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Verzichten Sie auf geschliffene Rhetorik für andere; dieses Schreiben muss abso
       Es gibt keinen Grund für Schuldgefühle, wenn Sie einen Tag auslassen. Selbstvorwürfe sind nach der stoischen Philosophie unnötiges Leid. Wenn die Zeit knapp ist, reicht ein einziger Satz im Smartphone wie 'Ich lasse mich von heutigen Hürden nicht aus der Ruhe bringen'. Entscheidend ist die Beständigkeit der inneren Haltung.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie unterscheidet sich dies von einem normalen Dankbarkeitstagebuch oder Morgentagebuch?</span>

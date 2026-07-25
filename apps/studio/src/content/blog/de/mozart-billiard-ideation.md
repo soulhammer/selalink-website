@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Genie, das Billard spielte, wenn das Komponieren ins Stocken geriet: Mozarts Default-Mode-Aktivierungsgewohnheit"
 description: "Wolfgang Amadeus Mozart aktivierte sein unterbewusstes Gehirn (DMN) durch Billardspielen, wann immer die musikalische Inspiration ins Stocken geriet. Entdecken Sie das wissenschaftliche Geheimnis, wie kognitive Pause kreative Durchbrüche erzeugt, und ein 15-minütiges visuell-räumliches Spiel."
 pubDate: "2026-05-01"
@@ -31,17 +32,17 @@ In diesem Beitrag untersuchen wir die neurowissenschaftlichen Grundlagen von Moz
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu mozart-billiard-ideation basiert auf <strong>Historische Biografien & Aufzeichnungen zu Mozart & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien & Aufzeichnungen zu Mozart & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Das unterbewusste Gehirn und das 'Default Mode Network'
+## 1. Das unterbewusste Gehirn und das 'Default Mode Network'
 
 Das stundenlange Strenzen auf einen Bildschirm zur Lösung eines schwierigen Problems übersättigt das Arbeitsgedächtnis im präfrontalen Kortex und führt zu geistiger Stagnation. Das Ablenken der Aufmerksamkeit auf eine leichte physische Aktivität mit räumlichen Trajektorien – wie Billard – aktiviert hingegen das Default Mode Network (DMN).
 
@@ -49,11 +50,7 @@ Das DMN ist ein unterbewusster Synthesemachaniusmus, der arbeitet, wenn das Gehi
 
 ---
 
-## Ein neurowissenschaftlicher Tipp für eine erfolgreiche Routine
-
-<strong>Kreativität entsteht durch Abwechslung, nicht durch erzwungene Konzentration</strong>
-
-Ein Gehirn, das auf eine Idee fixiert ist, gerät in einen Tunnelblick und blockiert neue neuronale Verknüpfungen. Bei geistiger Erschöpfung erzwungen sitzen zu bleiben, zehrt nur an den kognitiven Reserven. So wie Mozart am Billardtisch sein Unterbewusstsein aktivierte, um unsterbliche musikalische Strukturen zu erschaffen: Stehen Sie bei Blockaden sofort auf und aktivieren Sie Ihr DMN durch ein leichtes räumliches Spiel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Ein Gehirn, das auf eine Idee fixiert ist, gerät in einen Tunnelblick und block
     Setzen Sie sich wieder an Ihren Platz und betrachten Sie die Aufgabe. Oft steigt ein im Unterbewusstsein entwickelter Durchbruch ganz von selbst in das Bewusstsein auf.
   </p>
 </div>
+
+---
+
+## 3. Ein neurowissenschaftlicher Tipp für eine erfolgreiche Routine
+
+<strong>Kreativität entsteht durch Abwechslung, nicht durch erzwungene Konzentration</strong>
+
+Ein Gehirn, das auf eine Idee fixiert ist, gerät in einen Tunnelblick und blockiert neue neuronale Verknüpfungen. Bei geistiger Erschöpfung erzwungen sitzen zu bleiben, zehrt nur an den kognitiven Reserven. So wie Mozart am Billardtisch sein Unterbewusstsein aktivierte, um unsterbliche musikalische Strukturen zu erschaffen: Stehen Sie bei Blockaden sofort auf und aktivieren Sie Ihr DMN durch ein leichtes räumliches Spiel.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

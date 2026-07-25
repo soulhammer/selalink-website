@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Überhitzte Gehirne abkühlen: Ludwig Wittgensteins Western-Film-Detox-Routine"
 description: "Ludwig Wittgenstein schaute in der ersten Reihe des Kinos Westernfilme, um sein überhitztes Gehirn bei der Arbeit an der Sprachphilosophie zu entlasten. Beleuchtet, wie visuelle Immersion den präfrontalen Kortex entlastet."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Dieser Beitrag analysiert Wittgensteins Western-Detox-Routine und zeigt ein 3-Sc
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu wittgenstein-movie-detox basiert auf <strong>Historische Biografien und Dokumente zu Ludwig Wittgenstein sowie Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und Dokumente zu Ludwig Wittgenstein sowie Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Gehirnkreis-Reset und Inkubation durch erzwungene Aufmerksamkeitsumlenkung
+## 1. Gehirnkreis-Reset und Inkubation durch erzwungene Aufmerksamkeitsumlenkung
 
 Wenn der präfrontale Kortex stundenlang auf ein schwieriges Thema fixiert ist, leidet er unter kognitiver Erschöpfung. Passives Ausruhen führt oft zu unbewusstem Grübeln. Wittgensteins Kinoroutine bewirkt eine 'erzwungene Aufmerksamkeitsumlenkung'. Durch die optische Fesselung schaltet der präfrontale Kortex ab, und das Default Mode Network (DMN) übernimmt, um ungelöste Fragen unbewusst zu verarbeiten.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Vermeiden Sie bei der Medienauswahl für den Gehirn-Detox anspruchsvolle Thriller, Kunstfilme oder schwere Dramen. Inhalte, die Analyse erfordern, rauben kognitive Energie. Wählen Sie einfache Unterhaltung wie leichte Actionfilme oder Naturdokumentationen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Vermeiden Sie bei der Medienauswahl für den Gehirn-Detox anspruchsvolle Thrille
     Bewerten Sie den Film nicht kritisch, sondern lassen Sie den Blick 30–60 Minuten über das Bild gleiten und gehen Sie danach direkt schlafen.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Vermeiden Sie bei der Medienauswahl für den Gehirn-Detox anspruchsvolle Thriller, Kunstfilme oder schwere Dramen. Inhalte, die Analyse erfordern, rauben kognitive Energie. Wählen Sie einfache Unterhaltung wie leichte Actionfilme oder Naturdokumentationen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

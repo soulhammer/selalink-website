@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Laboutir les champs avant d'écrire malgré son statut d'aristocrate ? La routine d'éveil physique de Léon Tolstoï"
 description: "D'où le géant littéraire Léon Tolstoï tirait-il l'énergie d'écrire des romans monumentaux comme Guerre et Paix ? Explorez sa routine de santé consistant à éveiller les fonctions cérébrales par le travail physique et la gymnastique chaque matin avant d'écrire."
 pubDate: "2026-05-11"
@@ -33,17 +34,17 @@ Dans cet article, nous examinons la vérité neuroscientifique cachée derrière
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant tolstoy-physical-labor est basée sur <strong>Biographies historiques et récits autobiographiques de Léon Tolstoï & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Léon Tolstoï & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Facteur Neurotrophique Dérivé du Cerveau (BDNF) et effets cognitifs de l'augmentation du rythme cardiaque
+## 1. Facteur Neurotrophique Dérivé du Cerveau (BDNF) et effets cognitifs de l'augmentation du rythme cardiaque
 
 Selon des recherches neuroscientifiques, de brefs exercices matinaux sollicitant de grands groupes musculaires pour élever le rythme cardiaque dilatent les vaisseaux sanguins cérébraux et améliorent l'apport sanguin à travers le cortex. Cela augmente l'apport en oxygène, stimulant immédiatement la vitesse de traitement cognitif du cortex préfrontal et la mémoire.
 
@@ -51,11 +52,7 @@ En particulier, l'entraînement musculaire global et la gymnastique maximisent l
 
 ---
 
-## Un conseil neuroscientifique pour une routine réussie
-
-Bougez votre corps pour allumer une puissante étincelle d'échauffement dans votre cerveau.
-
-S'asseoir de force à son bureau en regardant l'écran à demi endormi ne fait que faire perdre du temps. Tout comme Tolstoï entraînaît vigoureusement son corps avant d'écrire pour réveiller complètement son cerveau, dépensez de l'énergie pendant seulement 15 minutes jusqu'à transpirer. La concentration matinale obtenue dans un état d'éveil offre une productivité bien supérieure à la normale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,6 +83,14 @@ S'asseoir de force à son bureau en regardant l'écran à demi endormi ne fait q
     Après la douche, profitez des 1 à 2 premières heures d'éveil maximal induit par l'augmentation du flux sanguin cérébral et la libération de BDNF pour commencer les tâches stratégiques ou logiques les plus exigeantes.
   </p>
 </div>
+
+---
+
+## 3. Un conseil neuroscientifique pour une routine réussie
+
+Bougez votre corps pour allumer une puissante étincelle d'échauffement dans votre cerveau.
+
+S'asseoir de force à son bureau en regardant l'écran à demi endormi ne fait que faire perdre du temps. Tout comme Tolstoï entraînaît vigoureusement son corps avant d'écrire pour réveiller complètement son cerveau, dépensez de l'énergie pendant seulement 15 minutes jusqu'à transpirer. La concentration matinale obtenue dans un état d'éveil offre une productivité bien supérieure à la normale.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

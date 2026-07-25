@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "画布般的心境：阿格尼斯·马丁的静默等待习惯"
 description: "画家阿格尼斯·马丁在开笔前会静坐在画布前的椅子上，直到所有杂念彻底沉淀。深入探索清洗大脑噪音、激发高阶洞察力与灵感的冥想认知科学。"
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 martin-silent-waiting 的内容基于 <strong>阿格尼斯·马丁历史传记与考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>阿格尼斯·马丁历史传记与考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 减少认知噪音（Cognitive Noise）与阿尔法-西塔脑波同步
+## 1. 减少认知噪音（Cognitive Noise）与阿尔法-西塔脑波同步
 
 现代人的大脑长期处于“必须不断计算与解决问题”的紧绷状态之下，过量释放着高频的贝塔脑波（Beta Waves）。这种状态会放大认知噪音，阻碍深度洞察与直觉创造力。像阿格尼斯·马丁那样有意识地暂停行动、专注于内在的沉静与安宁，大脑就会从平息焦虑的<strong>阿尔法波（Alpha Waves）</strong>切入深度沉思的<strong>西塔脑波（Theta Waves）</strong>状态。这种脑波同步能卸下前额叶皮层的防御性逻辑屏障，清晰地唤醒沉睡于长期记忆与潜意识深处的最佳解决方案与全新创意。
 
 ---
 
-## 注意事项与使用建议
-
-在静默等待的过程中，切忌刻意强求“清空大脑”，以免跌入与“杂念对抗”的陷阱。强行压抑（Suppression）脑海中浮现的想法，反而会导致大脑对其产生更强烈的执念，这在心理学上被称为“反弹效应（Rebound Effect）”。当想法冒出时，无需强行抹去，而是应当像观望云卷云舒般，平静地承认“原来我产生了这样的想法”，随后运用正念（Mindfulness）将注意力温柔地重新锚定于呼吸之上。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     当脑海迷雾散去、迎来轻盈的专注状态时，仅打开最为核心的那一项关键任务，开始高效工作。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与使用建议
+
+在静默等待的过程中，切忌刻意强求“清空大脑”，以免跌入与“杂念对抗”的陷阱。强行压抑（Suppression）脑海中浮现的想法，反而会导致大脑对其产生更强烈的执念，这在心理学上被称为“反弹效应（Rebound Effect）”。当想法冒出时，无需强行抹去，而是应当像观望云卷云舒般，平静地承认“原来我产生了这样的想法”，随后运用正念（Mindfulness）将注意力温柔地重新锚定于呼吸之上。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

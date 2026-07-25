@@ -1,216 +1,318 @@
 {
   "saintexupery-cockpit-contemplation": {
-    "title": {
-      "ko": "생텍쥐페리의 조종석 메모법: 고도의 고독과 군더더기 정제로 본질을 뽑아내는 법",
-      "en": "Saint-Exupéry's Cockpit Note-Taking Method: Extracting Essence Through Solitude and Refining Excess",
-      "ja": "サン＝テグジュペリの操縦席メモ術：高度 孤独と削ぎ落としで本質を抽出する方法",
-      "zh": "圣埃克苏佩里的驾驶舱笔记法：通过高度孤独与剪裁沉淀提炼本质",
-      "es": "El método de notas en la cabina de Saint-Exupéry: Extraer la esencia a través de la soledad y la refinación",
-      "de": "Saint-Exupérys Cockpit-Notizmethode: Essenz durch Einsamkeit und Reduktion auf das Wesentliche",
-      "fr": "La méthode de prise de notes en cockpit de Saint-Exupéry : Extraire l'essence par la solitude et l'épuration",
-      "pt": "O método de anotações no cockpit de Saint-Exupéry: Extrair a essência através da solidão e do refino",
-      "id": "Metode Catatan Kokpit Saint-Exupéry: Mengekstrak Esensi Melalui Kesendirian dan Penyaringan Suplemen"
-    },
-    "description": {
-      "ko": "《어린 왕자》의 저자이자 비행사인 생텍쥐페리가 상공 조종석의 고독 속에서 구상하고 불필요한 미사여구를 깎아내며 본질에 도달한 글쓰기 습관을 살펴봅니다.",
-      "en": "Explore the writing routine of Antoine de Saint-Exupéry, author of 'The Little Prince' and aviator, who conceived ideas in the solitude of the cockpit and reached the essence by trimming unnecessary rhetoric.",
-      "ja": "『星の王子さま』の著者であり飛行士のサン＝テグジュペリが、上空の操縦席という孤独の中で構想し、不要な修飾語を削ぎ落として本質に到達した執筆習慣を探ります。",
-      "zh": "探讨《小王子》作者兼飞行员圣埃克苏佩里的写作习惯：在驾驶舱的高度孤独中构思，削去不必要的修饰，直达本质。",
-      "es": "Explore el hábito de escritura de Antoine de Saint-Exupéry, autor de 'El Principito' y aviador, quien concibió ideas en la soledad de la cabina y alcanzó la esencia eliminando la retórica innecesaria.",
-      "de": "Erkunden Sie die Schreibgewohnheit von Antoine de Saint-Exupéry, Autor von 'Der kleine Prinz' und Pilot, der in der Einsamkeit des Cockpits Ideen entwickelte und durch das Weglassen unnötiger Rhetorik das Wesentliche erreichte.",
-      "fr": "Découvrez l'habitude d'écriture d'Antoine de Saint-Exupéry, auteur du 'Petit Prince' et aviateur, qui concevait ses idées dans la solitude du cockpit et atteignait l'essence en épurant la rhétorique inutile.",
-      "pt": "Explore o hábito de escrita de Antoine de Saint-Exupéry, autor de 'O Pequeno Príncipe' e aviador, que concebeu ideias na solidão do cockpit e alcançou a essência eliminando retóricas desnecessárias.",
-      "id": "Jelajahi kebiasaan menulis Antoine de Saint-Exupéry, penulis 'Pangeran Kecil' dan penerbang, yang merancang ide dalam kesendirian kokpit dan mencapai esensi dengan memangkas retorika yang tidak perlu."
-    },
-    "authority": {
-      "ko": "Saintexupery Cockpit Contemplation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical biography and autobiographical research on Saint-Exupéry's Cockpit Contemplation & Cognitive Neuroscience studies",
-      "ja": "サン＝テグジュペリの操縦席での瞑想に関する歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "圣埃克苏佩里驾驶舱沉思的历史评传及自传考证与认知神经科学研究",
-      "es": "Investigación biográfica e histórica sobre la contemplación en la cabina de Saint-Exupéry y estudios de neurociencia cognitiva",
-      "de": "Historische Biografie- und Autobiografieforschung zu Saint-Exupérys Cockpit-Kontemplation & Kognitive Neurowissenschaften",
-      "fr": "Recherche biographique et autobiographique historique sur la contemplation en cockpit de Saint-Exupéry et études en neurosciences cognitives",
-      "pt": "Pesquisa biográfica e autobiográfica histórica sobre a contemplação no cockpit de Saint-Exupéry e estudos de neurociência cognitiva",
-      "id": "Riset biografi sejarah dan autobiografi tentang Kontemplasi Kokpit Saint-Exupéry & studi Neurosains Kognitif"
-    },
-    "intro": {
-      "ko": "\"완벽함이란 더 이상 보탤 것이 없을 때가 아니라, 더 이상 뺄 것이 없을 때 완성된다.\" ✈️\n\n20세기 프랑스 문학의 거장이자 전설적인 민간 항공 우편 비행사 앙투안 드 생텍쥐페리(Antoine de Saint-Exupéry, 1900–1944). 그는 1, 2차 세계대전의 격랑 속에서 사하라 사막과 안데스 산맥을 넘나들며 우편기를 조종했고, 《어린 왕자(The Little Prince)》, 《야간 비행(Night Flight)》, 《인간의 대지(Wind, Sand and Stars)》 등 세계 문학사에 영원히 남을 감동적인 고전을 써냈습니다.\n\n1930년대 비행기 조종석은 소음과 진동, 얼어붙는 추위 속에서 홀로 사투를 벌이는 극도의 고독 공간이었습니다. 하지만 생텍쥐페리에게 상공의 조종석은 무한한 밤하늘과 별, 구름을 바라보며 영혼을 정화하는 가장 고귀한 창의적 안식처였습니다. 그는 비행 도중 솟구치는 사상과 문장을 작은 가죽 수첩에 친필로 빽빽하게 적어 내려갔습니다.\n\n지상에 내려온 그는 수첩의 문장들을 원고로 옮길 때, 불필요한 미사여구와 감정적 형용사를 무자비하게 깎아내는 정제 습관에 매료되었습니다. '완벽함이란 더 이상 보탤 것이 없을 때가 아니라, 더 이상 뺄 것이 없을 때 완성된다'는 그의 위대한 금언은 상공에서의 고독한 관찰과 지상에서의 군더더기 뺄셈 습관이 빚어낸 뇌 메타인지의 결실이었습니다.",
-      "en": "\"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) was a master of 20th-century French literature and a legendary pioneer of airmail aviation. Amidst the turmoil of World Wars I and II, he piloted mail planes across the Sahara Desert and the Andes Mountains, writing timeless classics such as 'The Little Prince', 'Night Flight', and 'Wind, Sand and Stars'.\n\nIn the 1930s, an airplane cockpit was a space of extreme solitude, filled with noise, vibration, and freezing cold. Yet for Saint-Exupéry, high above the earth, the cockpit served as a noble creative sanctuary where he gazed at the vast night sky, stars, and clouds to purify his soul. During flights, he densely recorded surging thoughts and sentences in a small leather notebook.\n\nUpon landing, as he transferred his notes into manuscripts, he became captivated by the habit of mercilessly paring away unnecessary embellishments and emotional adjectives. His legendary maxim—'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away'—was the fruit of brain metacognition born from high-altitude solitude and ground-level subtraction.",
-      "ja": "「完璧さとは、これ以上付け加えるものがなくなったときではなく、これ以上削るものがなくなったときに達成される。」 ✈️\n\n20世紀フランス文学の巨匠であり、伝説的な民間航空郵便 パイロットであったアントワーヌ・ド・サン＝テグジュペリ（Antoine de Saint-Exupéry, 1900–1944）。彼は二つの世界大戦の激動の中でサハラ砂漠やアンデス山脈を越えて郵便機を操縦し、『星の王子さま』『夜間飛行』『人間の土地』など世界文学史に永遠に残る感動的な古典を書き上げました。\n\n1930年代の飛行機操縦席は、騒音と振動、凍てつく寒さの中で一人闘う極度の孤独な空間でした。しかしサン＝テグジュペリにとって、上空の操縦席は無限の夜空や星、雲を眺めながら魂を浄化する最も高貴で創造的な聖域でした。彼は飛行中に湧き上がる思想や文章を小さな革の手帳に自筆でぎっしりと書き留めました。\n\n地上に降りた彼は、手帳の文章を原稿に移す際、不要な修飾語や感情 形容詞を容赦なく削ぎ落とす精製習慣に魅料されました。「完璧さとは、これ以上付け加えるものがなくなったときではなく、これ以上削るものがなくなったときに達成される」という彼の偉大な名言は、上空での孤独な観察と地上での引き算の習慣が生み出した脳のメタ認知の結実でした。",
-      "zh": "“完美不是在不能再添加任何东西时达到的，而是在不能再减少任何东西时达到的。” ✈️\n\n安托万·德·圣埃克苏佩里（Antoine de Saint-Exupéry，1900–1944）是20世纪法国文学巨匠，也是传奇的民用航空邮政飞行员。在两次世界大战的动荡岁月里，他驾驶邮政飞机穿越撒哈拉沙漠和安第斯山脉，创作了《小王子》、《夜航》、《人的大地》等不朽的高雅经典。\n\n20世纪30年代的飞机驾驶舱是一个在噪音、震动和刺骨严寒中独自拼搏的极度孤独空间。但对圣埃克苏佩里而言，万米高空的驾驶舱却是凝视无垠夜空、繁星与云海、净化灵魂的最崇高创意避风港。他在飞行途中将涌现的思想与句段密密麻麻地手写在小皮质笔记本上。\n\n回到地面后，在将笔记整理成文稿时，他极其推崇无情削去多余修饰与情感形容词的精炼习惯。他那句伟大的格言——“完美不是在不能再添加任何东西时达到的，而是在不能再减少任何东西时达到的”——正是高空孤独观察与地面减法习惯相结合所缔造的脑元认知结晶。",
-      "es": "\"La perfección no se alcanza cuando no hay nada más que añadir, sino cuando no queda nada más que quitar.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) fue un maestro de la literatura francesa del siglo XX y un virtuoso pionero de la aviación postal. Entre las turbulencias de las Guerras Mundiales, pilotó aviones de correo sobre el desierto del Sahara y los Andes, legando clásicos imperecederos como 'El Principito', 'Vuelo nocturno' y 'Tierra de hombres'.\n\nEn la década de 1930, la cabina de un avión era un espacio de extrema soledad, ruido, vibración y frío glacial. Sin embargo, para Saint-Exupéry, la cabina en las alturas constituía un refugio creativo sublime desde el cual contemplaba las estrellas y las nubes para purificar su alma. Durante el vuelo, anotaba febrilmente sus pensamientos en un pequeño libreta de cuero.\n\nAl aterrizar, al trasvasar sus notas a manuscritos, adoptó el hábito de podar despiadadamente la retórica vana y los adjetivos emocionales. Su inmortal máxima —'La perfección no se alcanza cuando no hay nada más que añadir, sino cuando no queda nada más que quitar'— fue el fruto de la metacognición cerebral nacida de la soledad en las alturas y la sustracción en tierra.",
-      "de": "\"Perfektion ist nicht dann erreicht, wenn es nichts mehr hinzuzufügen gibt, sondern wenn man nichts mehr wegnehmen kann.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) war ein Meister der französischen Literatur des 20. Jahrhunderts und ein legendärer Pionier der Luftpostfliegerei. In den Wirren der Weltkriege steuerte er Postflugzeuge über die Sahara und die Anden und verfasste unvergängliche Klassiker wie 'Der kleine Prinz', 'Nachtflug' und 'Wind, Sand und Sterne'.\n\nIn den 1930er Jahren war das Flugzeugcockpit ein Ort extremer Einsamkeit, geprägt von Lärm, Vibrationen und eiskalter Kälte. Für Saint-Exupéry war das Cockpit hoch oben jedoch ein erhabenes kreatives Refugium, in dem er den Sternenhimmel betrachtete und seine Seele reinigte. Während des Fluges notierte er seine Gedanken dicht in ein kleines Ledernotizbuch.\n\nNach der Landung übertrug er diese Notizen in Manuskripte und perfektionierte die Gewohnheit, unbarmherzig alle unnötigen Ausschmückungen und emotionalen Adjektive zu streichen. Sein berühmter Leitsatz – 'Perfektion ist nicht dann erreicht, wenn es nichts mehr hinzuzufügen gibt, sondern wenn man nichts mehr wegnehmen kann' – war die Frucht der kognitiven Metakognition aus Einsamkeit in der Luft und Reduktion am Boden.",
-      "fr": "« La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer. » ✈️\n\nAntoine de Saint-Exupéry (1900–1944) était un grand maître de la littérature française du XXe siècle et un pionnier légendaire de l'Aéropostale. Dans les tourmentes des guerres mondiales, il a piloté des avions postaux au-dessus du Sahara et des Andes, rédigeant des chefs-d'œuvre éternels comme 'Le Petit Prince', 'Vol de nuit' et 'Terre des hommes'.\n\nDans les années 1930, le cockpit d'un avion était un espace de solitude extrême, fait de bruit, de vibrations et de froid glacial. Pourtant, pour Saint-Exupéry, le cockpit en altitude représentait un sanctuaire créatif noble où il contemplait le ciel nocturne et les étoiles pour purifier son âme. Pendant les vols, il consignait frénétiquement ses pensées dans un petit carnet de cuir.\n\nUne fois revenu au sol, lors de la retranscription de ses notes en manuscrits, il s'est passionné pour l'habitude d'élaguer impitoyablement la rhétorique inutile et les adjectifs superflus. Son célèbre précepte — « La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer » — était le fruit d'une métacognition cérébrale façonnée par la solitude céleste et la soustraction terrestre.",
-      "pt": "\"A perfeição não é alcançada quando não há mais nada a acrescentar, mas sim quando não há mais nada a retirar.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) foi um mestre da literatura francesa do século XX e um lendário pioneiro do correio aéreo. Em meio às turbulências das Guerras Mundiais, pilotou aviões postais sobre o Deserto do Saara e os Andes, escrevendo clássicos imortais como 'O Pequeno Príncipe', 'Voo Noturno' e 'Terra dos Homens'.\n\nNa década de 1930, o cockpit de um avião era um espaço de extrema solidão, repleto de ruído, vibração e frio congelante. No entanto, para Saint-Exupéry, a cabine nas alturas era um santuário criativo sublime, de onde contemplava o céu noturno, as estrelas e as nuvens para purificar a alma. Durante o voo, anotava densamente seus pensamentos em um pequeno caderno de couro.\n\nAo pousar, ao transferir suas anotações para os manuscritos, fascinou-se pelo hábito de podar impiedosamente floreios desnecessários e adjetivos emocionais. Sua famosa máxima — 'A perfeição é alcançada não quando não há mais nada a acrescentar, mas quando não há mais nada a retirar' — foi o fruto da metacognição cerebral gerada pela solidão nas alturas e pela subtração em terra.",
-      "id": "\"Kesempurnaan dicapai bukan saat tidak ada lagi yang bisa ditambahkan, melainkan saat tidak ada lagi yang bisa dikurangi.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) adalah maestro sastra Prancis abad ke-20 dan pelopor penerbangan pos udara yang legendaris. Di tengah gejolak Perang Dunia, ia mengemudikan pesawat pos melintasi Gurun Sahara dan Pegunungan Andes, menghasilkan karya klasik abadi seperti 'Pangeran Kecil', 'Penerbangan Malam', dan 'Bumi Manusia'.\n\nPada tahun 1930-an, kokpit pesawat adalah ruang kesendirian ekstrem yang penuh kebisingan, getaran, dan dingin yang membekukan. Namun bagi Saint-Exupéry, kokpit di angkasa adalah tempat perlindungan kreatif yang luhur tempat ia menatap langit malam, bintang-bintang, dan awan untuk menyucikan jiwanya. Selama penerbangan, ia mencatat pemikiran dan kalimat yang bergelora dalam buku catatan kulit kecil.\n\nSaat mendarat, ketika menyalin catatannya menjadi naskah, ia sangat menyukai kebiasaan memangkas retorika yang tidak perlu dan kata sifat emosional tanpa ampun. Pepatah agungnya—'Kesempurnaan dicapai bukan saat tidak ada lagi yang bisa ditambahkan, melainkan saat tidak ada lagi yang bisa dikurangi'—adalah buah metakognisi otak yang lahir dari kesendirian di angkasa dan kebiasaan pengurangan di darat."
-    },
-    "whyTitle": {
-      "ko": "고독과 뺄셈 습관이 전전두엽 메타인지를 극대화하는 이유",
-      "en": "Why Solitude and the Subtraction Habit Maximize Prefrontal Metacognition",
-      "ja": "孤独と引き算の習慣が前頭前野のメタ認知を最大化する理由",
-      "zh": "孤独与减法习惯如何最大化前额叶元认知",
-      "es": "Por qué la soledad y el hábito de sustracción maximizan la metacognición prefrontal",
-      "de": "Warum Einsamkeit und die Reduktionsgewohnheit die präfrontale Metakognition maximieren",
-      "fr": "Pourquoi la solitude et la soustraction maximisent la métacognition préfrontale",
-      "pt": "Por que a solidão e o hábito de subtração maximizam a metacognição pré-frontal",
-      "id": "Mengapa Kesendirian dan Kebiasaan Pengurangan Memaksimalkan Metakognisi Prefrontal"
-    },
-    "whyDesc": {
-      "ko": "신경과학 연구에 따르면 외부 소음이 차단된 고독 상태는 뇌의 디폴트 모드 네트워크(DMN)를 가동하여 창의적 인식을 돕습니다. 이후 불필요한 요소나 미사여구를 깎아내는 뺄셈 작업은 전전두엽 메타인지를 자극하여 사고의 정밀도를 완벽히 끌어올립니다.",
-      "en": "Neuroscience research shows that a state of solitude isolated from external noise activates the brain's Default Mode Network (DMN), facilitating creative perception. Subsequently, the act of paring away unnecessary elements or rhetoric stimulates prefrontal metacognition, elevating thought precision.",
-      "ja": "神経科学の研究によると、外部の騒音が遮断された孤独状態は脳のデフォルト・モード・ネットワーク（DMN）を作動させ、創造的な認識を助けます。その後、不要な要素や修飾語を削ぎ落とす引き算の作業は前頭前野のメタ認知を刺激し、思考の精密さを高めます。",
-      "zh": "神经科学研究表明，隔绝外部噪音的孤独状态能激活大脑的默认模式网络（DMN），促进创意感知。随后，剪裁多余元素或修饰词的减法工作会刺激前额叶元认知，显著提升思考的精确度。",
-      "es": "La investigación neurocientífica muestra que la soledad aislada del ruido externo activa la Red Neuronal por Defecto (DMN) del cerebro, facilitando la percepción creativa. Posteriormente, el acto de podar elementos o retórica innecesarios estimula la metacognición prefrontal, elevando la precisión del pensamiento.",
-      "de": "Neurowissenschaftliche Forschungen zeigen, dass Einsamkeit frei von externem Lärm das Default Mode Network (DMN) des Gehirns aktiviert und kreative Wahrnehmung fördert. Das anschließende Weglassen unnötiger Elemente oder Rhetorik stimuliert die präfrontale Metakognition und steigert die Denkpräzision.",
-      "fr": "Les recherches en neurosciences montrent qu'un état de solitude coupé du bruit extérieur active le réseau par défaut (DMN) du cerveau, favorisant la perception créative. Ensuite, l'action d'élaguer les éléments superflus ou la rhétorique stimule la métacognition préfrontale, élevant la précision de la pensée.",
-      "pt": "Pesquisas neurocientíficas mostram que o estado de solidão isolado de ruídos externos ativa a Rede de Modo Padrão (DMN) do cérebro, facilitando a percepção criativa. Subsequente, o ato de podar elementos ou retórica desnecessários estimula a metacognição pré-frontal, elevando a precisão do pensamento.",
-      "id": "Riset neurosains menunjukkan bahwa kondisi kesendirian yang terbebas dari kebisingan luar mengaktifkan Default Mode Network (DMN) otak, membantu persepsi kreatif. Selanjutnya, tindakan memangkas elemen atau retorika yang tidak perlu menstimulasi metakognisi prefrontal, meningkatkan presisi pemikiran."
-    },
-    "cautionTitle": {
-      "ko": "생텍쥐페리 습관 주의사항 및 정제 팁",
-      "en": "Saint-Exupéry Habit Cautions and Refining Tips",
-      "ja": "サン＝テグジュペリ流習慣の注意事項と精製ヒント",
-      "zh": "圣埃克苏佩里习惯注意事项与精炼技巧",
-      "es": "Precauciones y consejos de refinación del hábito de Saint-Exupéry",
-      "de": "Vorsichtsmaßnahmen und Verfeinerungstipps für die Saint-Exupéry-Gewohnheit",
-      "fr": "Précautions et conseils d'épuration pour l'habitude de Saint-Exupéry",
-      "pt": "Precauções e dicas de refino do hábito de Saint-Exupéry",
-      "id": "Peringatan dan Tips Penyaringan Kebiasaan Saint-Exupéry"
-    },
-    "cautionDesc": {
-      "ko": "아이디어를 떠올리는 단계에서 검열하거나 수정하지 마세요. 고독 속에서 자유롭게 발산한 뒤, 검토 단계에서 불필요한 수식어를 30% 이상 과감하게 자르는 2단계 프로세스를 지켜야 합니다.",
-      "en": "Do not censor or edit during the idea generation phase. Allow ideas to flow freely in solitude first, then follow a two-step process in the review phase by boldly trimming over 30% of unnecessary modifiers.",
-      "ja": "アイデアを出す段階で検閲したり修正したりしないでください。孤独の中で自由に発想を出した後、見直し段階で不要な修飾語を30%以上思い切って削る2段階のプロセスを守る必要があります。",
-      "zh": "在构思阶段不要自行审查或修改。先在孤独中自由发散，然后在复盘阶段果断削去30%以上不必要的修饰词，遵循这两步流程。",
-      "es": "No censure ni edite durante la fase de generación de ideas. Permita que las ideas fluyan libremente en la soledad primero, y luego siga un proceso de dos pasos en la revisión recortando audazmente más del 30% de los modificadores innecesarios.",
-      "de": "Zensieren oder bearbeiten Sie Ideen nicht in der Entstehungsphase. Lassen Sie Gedanken in der Einsamkeit frei fließen und folgen Sie in der Überarbeitungsphase einem Zwei-Stufen-Prozess, indem Sie mutig über 30 % unnötiger Adjektive streichen.",
-      "fr": "Ne censurez ni ne modifiez rien pendant la phase de génération d'idées. Laissez vos idées jaillir librement dans la solitude, puis suivez un processus en deux étapes lors de la révision en coupant audacieusement plus de 30 % des qualificatifs inutiles.",
-      "pt": "Não censure nem edite durante a fase de geração de ideias. Permita que as ideias fluam livremente na solidão primeiro e, em seguida, siga um processo de duas etapas na revisão, cortando corajosamente mais de 30% dos modificadores desnecessários.",
-      "id": "Jangan mensensor atau mengedit pada tahap pembuatan ide. Biarkan ide mengalir bebas dalam kesendirian terlebih dahulu, lalu ikuti proses dua langkah pada tahap peninjauan dengan memangkas lebih dari 30% kata sifat/penjelas yang tidak perlu."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "소음 없는 1인 고독 공간 확보",
-          "en": "Secure a Noise-Free Solitary Space",
-          "ja": "騒音のない1人用の孤独空間を確保",
-          "zh": "无噪音的独处空间",
-          "es": "Asegurar un espacio de soledad libre de ruido",
-          "de": "Einen lärmfreien Raum für sich allein sichern",
-          "fr": "Sécuriser un espace de solitude sans bruit",
-          "pt": "Garantir um espaço solitário e sem ruídos",
-          "id": "Amankan Ruang Kesendirian Bebas Kebisingan"
-        },
-        "text": {
-          "ko": "모든 디지털 알림과 외부 소음이 차단된 조용한 1인 공간을 20분간 확보합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.",
-          "en": "Secure a quiet solitary space isolated from all digital notifications and external noise for 20 minutes. Thoroughly block external distractions and fully focus on establishing clear execution goals and frameworks in the frontal lobe.",
-          "ja": "すべてのデジタル通知と外部の騒音が遮断された静かな1人空間を20分間確保します。外部の気を散らす要素を徹底的に遮断し、脳の前頭葉に明確な実行目標とフレームを確立することに専念します。",
-          "zh": "确保一个无数字通知和外部噪音干扰的安静独处空间20分钟。彻底隔绝外部干扰，完全专注于在大脑额叶建立明确的执行目标与框架。",
-          "es": "Asegure un espacio tranquilo y solitario aislado de todas las notificaciones digitales y el ruido externo durante 20 minutos. Bloquee minuciosamente las distracciones externas y concéntrese en establecer metas y marcos claros en el lóbulo frontal.",
-          "de": "Sichern Sie sich für 20 Minuten einen ruhigen Raum für sich allein, isoliert von digitalen Benachrichtigungen und externem Lärm. Blockieren Sie Ablenkungen und konzentrieren Sie sich darauf, im Frontallappen klare Ziele zu verankern.",
-          "fr": "Sécurisez un espace calme et solitaire, coupé de toutes les notifications numériques et du bruit extérieur pendant 20 minutes. Bloquez les distractions et concentrez-vous sur l'établissement d'objectifs clairs dans le lobe frontal.",
-          "pt": "Garanta um espaço silencioso e solitário, isolado de notificações digitais e ruídos externos por 20 minutos. Bloqueie as distrações e concentre-se inteiramente em estabelecer metas e estruturas claras no lobo frontal.",
-          "id": "Amankan ruang tenang tanpa gangguan notifikasi digital dan kebisingan luar selama 20 menit. Blokir gangguan luar secara menyeluruh dan fokus penuh untuk menetapkan tujuan pelaksanaan yang jelas di lobus frontal."
-        }
+    "pubDate": "2026-07-18",
+    "updatedDate": "2026-07-18",
+    "heroImage": "/images/blog/saintexupery_cockpit_contemplation.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "생텍쥐페리의 조종석 메모법: 고도의 고독과 군더더기 정제로 본질을 뽑아내는 법",
+        "description": "《어린 왕자》의 저자이자 비행사인 생텍쥐페리가 상공 조종석의 고독 속에서 구상하고 불필요한 미사여구를 깎아내며 본질에 도달한 글쓰기 습관을 살펴봅니다.",
+        "authority": "Saintexupery Cockpit Contemplation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"완벽함이란 더 이상 보탤 것이 없을 때가 아니라, 더 이상 뺄 것이 없을 때 완성된다.\" ✈️\n\n20세기 프랑스 문학의 거장이자 전설적인 민간 항공 우편 비행사 앙투안 드 생텍쥐페리(Antoine de Saint-Exupéry, 1900–1944). 그는 1, 2차 세계대전의 격랑 속에서 사하라 사막과 안데스 산맥을 넘나들며 우편기를 조종했고, 《어린 왕자(The Little Prince)》, 《야간 비행(Night Flight)》, 《인간의 대지(Wind, Sand and Stars)》 등 세계 문학사에 영원히 남을 감동적인 고전을 써냈습니다.\n\n1930년대 비행기 조종석은 소음과 진동, 얼어붙는 추위 속에서 홀로 사투를 벌이는 극도의 고독 공간이었습니다. 하지만 생텍쥐페리에게 상공의 조종석은 무한한 밤하늘과 별, 구름을 바라보며 영혼을 정화하는 가장 고귀한 창의적 안식처였습니다. 그는 비행 도중 솟구치는 사상과 문장을 작은 가죽 수첩에 친필로 빽빽하게 적어 내려갔습니다.\n\n지상에 내려온 그는 수첩의 문장들을 원고로 옮길 때, 불필요한 미사여구와 감정적 형용사를 무자비하게 깎아내는 정제 습관에 매료되었습니다. '완벽함이란 더 이상 보탤 것이 없을 때가 아니라, 더 이상 뺄 것이 없을 때 완성된다'는 그의 위대한 금언은 상공에서의 고독한 관찰과 지상에서의 군더더기 뺄셈 습관이 빚어낸 뇌 메타인지의 결실이었습니다.",
+        "whyTitle": "고독과 뺄셈 습관이 전전두엽 메타인지를 극대화하는 이유",
+        "whyDesc": "신경과학 연구에 따르면 외부 소음이 차단된 고독 상태는 뇌의 디폴트 모드 네트워크(DMN)를 가동하여 창의적 인식을 돕습니다. 이후 불필요한 요소나 미사여구를 깎아내는 뺄셈 작업은 전전두엽 메타인지를 자극하여 사고의 정밀도를 완벽히 끌어올립니다.",
+        "cautionTitle": "생텍쥐페리 습관 주의사항 및 정제 팁",
+        "cautionDesc": "아이디어를 떠올리는 단계에서 검열하거나 수정하지 마세요. 고독 속에서 자유롭게 발산한 뒤, 검토 단계에서 불필요한 수식어를 30% 이상 과감하게 자르는 2단계 프로세스를 지켜야 합니다.",
+        "steps": [
+          {
+            "title": "소음 없는 1인 고독 공간 확보",
+            "desc": "모든 디지털 알림과 외부 소음이 차단된 조용한 1인 공간을 20분간 확보합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
+          },
+          {
+            "title": "검열 없이 날것의 생각 기록하기",
+            "desc": "수첩에 떠오르는 아이디어, 감정, 사상을 스스로 평가하지 않고 날것 그대로 거침없이 적습니다."
+          },
+          {
+            "title": "30% 이상 군더더기 깎아내기",
+            "desc": "작성한 글을 검토하며 불필요한 미사여구와 형용사를 30% 이상 깎아내어 더 이상 뺄 것이 없는 본질만 남깁니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "이 뺄셈 법칙을 업무 보고서나 기획안 작성에도 적용할 수 있나요?",
+            "answer": "네! 초안을 솔직하게 자유롭게 쓴 후, 두 번째 검토에서 불필요한 수식어, 전문 용어, 늘어지는 문장을 과감히 깎아내면 전달력이 2배 높아집니다."
+          },
+          {
+            "question": "너무 많이 깎아내어 문맥이 손실되면 어떻게 하나요?",
+            "answer": "핵심 명사와 동사는 유지하고, 감정적인 수식어나 중복된 설명 위주로 깎아내면 본질적 문맥은 또렷해집니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "검열 없이 날것의 생각 기록하기",
-          "en": "Record Raw Thoughts Without Censorship",
-          "ja": "検閲なしで生の思考を記録する",
-          "zh": "未经审查无拘无束地记录原始想法",
-          "es": "Registrar pensamientos primarios sin censura",
-          "de": "Ungefilterte Gedanken ohne Zensur aufschreiben",
-          "fr": "Consigner les pensées brutes sans censure",
-          "pt": "Registrar pensamentos brutos sem censura",
-          "id": "Catat Pemikiran Mentah Tanpa Sensor"
-        },
-        "text": {
-          "ko": "수첩에 떠오르는 아이디어, 감정, 사상을 스스로 평가하지 않고 날것 그대로 거침없이 적습니다.",
-          "en": "Write down emerging ideas, emotions, and thoughts in a notebook freely without self-judgment or evaluation.",
-          "ja": "手帳に浮かぶアイデア、感情、思想を自分で評価することなく、生のまたまためらわずに書き留めます。",
-          "zh": "在手账上把浮现的创意、情感与思想毫无顾忌地原始记录下来，不对其进行自我评估。",
-          "es": "Escriba libremente las ideas, emociones y pensamientos emergentes en una libreta sin autoevaluarse ni juzgarse.",
-          "de": "Schreiben Sie aufsteigende Ideen, Gefühle und Gedanken ungehemmt in ein Notizbuch, ohne sie selbst zu bewerten.",
-          "fr": "Inscrivez librement les idées, émotions et pensées émergentes dans un carnet, sans porter de jugement.",
-          "pt": "Escreva livremente as ideias, emoções e pensamentos emergentes em um caderno, sem autojulgamento.",
-          "id": "Tuliskan ide, emosi, dan pemikiran yang muncul di buku catatan secara bebas tanpa menghakimi diri sendiri."
-        }
+      "en": {
+        "title": "Saint-Exupéry's Cockpit Note-Taking Method: Extracting Essence Through Solitude and Refining Excess",
+        "description": "Explore the writing routine of Antoine de Saint-Exupéry, author of 'The Little Prince' and aviator, who conceived ideas in the solitude of the cockpit and reached the essence by trimming unnecessary rhetoric.",
+        "authority": "Historical biography and autobiographical research on Saint-Exupéry's Cockpit Contemplation & Cognitive Neuroscience studies",
+        "intro": "\"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) was a master of 20th-century French literature and a legendary pioneer of airmail aviation. Amidst the turmoil of World Wars I and II, he piloted mail planes across the Sahara Desert and the Andes Mountains, writing timeless classics such as 'The Little Prince', 'Night Flight', and 'Wind, Sand and Stars'.\n\nIn the 1930s, an airplane cockpit was a space of extreme solitude, filled with noise, vibration, and freezing cold. Yet for Saint-Exupéry, high above the earth, the cockpit served as a noble creative sanctuary where he gazed at the vast night sky, stars, and clouds to purify his soul. During flights, he densely recorded surging thoughts and sentences in a small leather notebook.\n\nUpon landing, as he transferred his notes into manuscripts, he became captivated by the habit of mercilessly paring away unnecessary embellishments and emotional adjectives. His legendary maxim—'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away'—was the fruit of brain metacognition born from high-altitude solitude and ground-level subtraction.",
+        "whyTitle": "Why Solitude and the Subtraction Habit Maximize Prefrontal Metacognition",
+        "whyDesc": "Neuroscience research shows that a state of solitude isolated from external noise activates the brain's Default Mode Network (DMN), facilitating creative perception. Subsequently, the act of paring away unnecessary elements or rhetoric stimulates prefrontal metacognition, elevating thought precision.",
+        "cautionTitle": "Saint-Exupéry Habit Cautions and Refining Tips",
+        "cautionDesc": "Do not censor or edit during the idea generation phase. Allow ideas to flow freely in solitude first, then follow a two-step process in the review phase by boldly trimming over 30% of unnecessary modifiers.",
+        "steps": [
+          {
+            "title": "Secure a Noise-Free Solitary Space",
+            "desc": "Secure a quiet solitary space isolated from all digital notifications and external noise for 20 minutes. Thoroughly block external distractions and fully focus on establishing clear execution goals and frameworks in the frontal lobe."
+          },
+          {
+            "title": "Record Raw Thoughts Without Censorship",
+            "desc": "Write down emerging ideas, emotions, and thoughts in a notebook freely without self-judgment or evaluation."
+          },
+          {
+            "title": "Trim Excess by More Than 30%",
+            "desc": "Review the written text and trim away over 30% of unnecessary rhetoric and adjectives, leaving only the essence with nothing left to subtract."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can this subtraction rule be applied to business reports or proposals?",
+            "answer": "Yes! After writing the draft freely and honestly, boldly trim unnecessary modifiers, jargon, and rambling sentences during the second review to double the impact of your message."
+          },
+          {
+            "question": "What if context is lost because too much was trimmed away?",
+            "answer": "Keep key nouns and verbs, and focus trimming primarily on emotional modifiers or redundant explanations; the essential context will become clearer."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "30% 이상 군더더기 깎아내기",
-          "en": "Trim Excess by More Than 30%",
-          "ja": "無駄な部分を30%以上削ぎ落とす",
-          "zh": "剪裁削去30%以上的沉淀冗余",
-          "es": "Recortar el exceso en más del 30%",
-          "de": "Unnötiges um mehr als 30 % reduzieren",
-          "fr": "Élaguer plus de 30 % du superflu",
-          "pt": "Podar o excesso em mais de 30%",
-          "id": "Pangkas Hal yang Tidak Perlu Lebih dari 30%"
-        },
-        "text": {
-          "ko": "작성한 글을 검토하며 불필요한 미사여구와 형용사를 30% 이상 깎아내어 더 이상 뺄 것이 없는 본질만 남깁니다.",
-          "en": "Review the written text and trim away over 30% of unnecessary rhetoric and adjectives, leaving only the essence with nothing left to subtract.",
-          "ja": "書いた文章を見直し、不要な修飾語や形容詞を30%以上削ぎ落として、これ以上削るもののない本質だけを残します。",
-          "zh": "审查撰写的文字，无情剪裁去30%以上不必要的华丽修饰与形容词，仅留下无可再减的本质。",
-          "es": "Revise el texto escrito y recorte más del 30% de la retórica y adjetivos innecesarios, dejando solo la esencia sin nada más que sustraer.",
-          "de": "Überprüfen Sie den geschriebenen Text und streichen Sie über 30 % unnötiger Rhetorik und Adjektive, sodass nur das Wesentliche übrig bleibt.",
-          "fr": "Révisez le texte écrit et coupez plus de 30 % de la rhétorique et des adjectifs superflus, ne laissant que l'essence pure.",
-          "pt": "Revise o texto escrito e corte mais de 30% da retórica e adjetivos desnecessários, deixando apenas a essência sem nada mais a subtrair.",
-          "id": "Tinjau teks yang telah ditulis dan pangkas lebih dari 30% retorika dan kata sifat yang tidak perlu, menyisakan hanya esensi murni."
-        }
+      "zh": {
+        "title": "圣埃克苏佩里的驾驶舱笔记法：通过高度孤独与剪裁沉淀提炼本质",
+        "description": "探讨《小王子》作者兼飞行员圣埃克苏佩里的写作习惯：在驾驶舱的高度孤独中构思，削去不必要的修饰，直达本质。",
+        "authority": "圣埃克苏佩里驾驶舱沉思的历史评传及自传考证与认知神经科学研究",
+        "intro": "“完美不是在不能再添加任何东西时达到的，而是在不能再减少任何东西时达到的。” ✈️\n\n安托万·德·圣埃克苏佩里（Antoine de Saint-Exupéry，1900–1944）是20世纪法国文学巨匠，也是传奇的民用航空邮政飞行员。在两次世界大战的动荡岁月里，他驾驶邮政飞机穿越撒哈拉沙漠和安第斯山脉，创作了《小王子》、《夜航》、《人的大地》等不朽的高雅经典。\n\n20世纪30年代的飞机驾驶舱是一个在噪音、震动和刺骨严寒中独自拼搏的极度孤独空间。但对圣埃克苏佩里而言，万米高空的驾驶舱却是凝视无垠夜空、繁星与云海、净化灵魂的最崇高创意避风港。他在飞行途中将涌现的思想与句段密密麻麻地手写在小皮质笔记本上。\n\n回到地面后，在将笔记整理成文稿时，他极其推崇无情削去多余修饰与情感形容词的精炼习惯。他那句伟大的格言——“完美不是在不能再添加任何东西时达到的，而是在不能再减少任何东西时达到的”——正是高空孤独观察与地面减法习惯相结合所缔造的脑元认知结晶。",
+        "whyTitle": "孤独与减法习惯如何最大化前额叶元认知",
+        "whyDesc": "神经科学研究表明，隔绝外部噪音的孤独状态能激活大脑的默认模式网络（DMN），促进创意感知。随后，剪裁多余元素或修饰词的减法工作会刺激前额叶元认知，显著提升思考的精确度。",
+        "cautionTitle": "圣埃克苏佩里习惯注意事项与精炼技巧",
+        "cautionDesc": "在构思阶段不要自行审查或修改。先在孤独中自由发散，然后在复盘阶段果断削去30%以上不必要的修饰词，遵循这两步流程。",
+        "steps": [
+          {
+            "title": "无噪音的独处空间",
+            "desc": "确保一个无数字通知和外部噪音干扰的安静独处空间20分钟。彻底隔绝外部干扰，完全专注于在大脑额叶建立明确的执行目标与框架。"
+          },
+          {
+            "title": "未经审查无拘无束地记录原始想法",
+            "desc": "在手账上把浮现的创意、情感与思想毫无顾忌地原始记录下来，不对其进行自我评估。"
+          },
+          {
+            "title": "剪裁削去30%以上的沉淀冗余",
+            "desc": "审查撰写的文字，无情剪裁去30%以上不必要的华丽修饰与形容词，仅留下无可再减的本质。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "这种“减法法则”可以应用于工作报告或策划案撰写吗？",
+            "answer": "是的！在坦诚自由地写完初稿后，在第二次复盘中果断削去不必要的修饰词、晦涩术语和拖沓句段，信息的传递力将翻倍。"
+          },
+          {
+            "question": "如果剪裁过头导致上下文意思丢失怎么办？",
+            "answer": "保留核心名词和动词，主要削去情绪化的修饰词与重复性解释，本质上下文反而会更加清晰明确。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "サン＝テグジュペリの操縦席メモ術：高度 孤独と削ぎ落としで本質を抽出する方法",
+        "description": "『星の王子さま』の著者であり飛行士のサン＝テグジュペリが、上空の操縦席という孤独の中で構想し、不要な修飾語を削ぎ落として本質に到達した執筆習慣を探ります。",
+        "authority": "サン＝テグジュペリの操縦席での瞑想に関する歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「完璧さとは、これ以上付け加えるものがなくなったときではなく、これ以上削るものがなくなったときに達成される。」 ✈️\n\n20世紀フランス文学の巨匠であり、伝説的な民間航空郵便 パイロットであったアントワーヌ・ド・サン＝テグジュペリ（Antoine de Saint-Exupéry, 1900–1944）。彼は二つの世界大戦の激動の中でサハラ砂漠やアンデス山脈を越えて郵便機を操縦し、『星の王子さま』『夜間飛行』『人間の土地』など世界文学史に永遠に残る感動的な古典を書き上げました。\n\n1930年代の飛行機操縦席は、騒音と振動、凍てつく寒さの中で一人闘う極度の孤独な空間でした。しかしサン＝テグジュペリにとって、上空の操縦席は無限の夜空や星、雲を眺めながら魂を浄化する最も高貴で創造的な聖域でした。彼は飛行中に湧き上がる思想や文章を小さな革の手帳に自筆でぎっしりと書き留めました。\n\n地上に降りた彼は、手帳の文章を原稿に移す際、不要な修飾語や感情 形容詞を容赦なく削ぎ落とす精製習慣に魅料されました。「完璧さとは、これ以上付け加えるものがなくなったときではなく、これ以上削るものがなくなったときに達成される」という彼の偉大な名言は、上空での孤独な観察と地上での引き算の習慣が生み出した脳のメタ認知の結実でした。",
+        "whyTitle": "孤独と引き算の習慣が前頭前野のメタ認知を最大化する理由",
+        "whyDesc": "神経科学の研究によると、外部の騒音が遮断された孤独状態は脳のデフォルト・モード・ネットワーク（DMN）を作動させ、創造的な認識を助けます。その後、不要な要素や修飾語を削ぎ落とす引き算の作業は前頭前野のメタ認知を刺激し、思考の精密さを高めます。",
+        "cautionTitle": "サン＝テグジュペリ流習慣の注意事項と精製ヒント",
+        "cautionDesc": "アイデアを出す段階で検閲したり修正したりしないでください。孤独の中で自由に発想を出した後、見直し段階で不要な修飾語を30%以上思い切って削る2段階のプロセスを守る必要があります。",
+        "steps": [
+          {
+            "title": "騒音のない1人用の孤独空間を確保",
+            "desc": "すべてのデジタル通知と外部の騒音が遮断された静かな1人空間を20分間確保します。外部の気を散らす要素を徹底的に遮断し、脳の前頭葉に明確な実行目標とフレームを確立することに専念します。"
+          },
+          {
+            "title": "検閲なしで生の思考を記録する",
+            "desc": "手帳に浮かぶアイデア、感情、思想を自分で評価することなく、生のまたまためらわずに書き留めます。"
+          },
+          {
+            "title": "無駄な部分を30%以上削ぎ落とす",
+            "desc": "書いた文章を見直し、不要な修飾語や形容詞を30%以上削ぎ落として、これ以上削るもののない本質だけを残します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "この引き算の法則を業務報告書や企画書の作成にも適用できますか？",
+            "answer": "はい！初稿を素直に自由に書いた後、2回目の見直しで不要な修飾語、専門用語、冗長な文章と思い切って削ぎ落とせば、伝達力が2倍に高まります。"
+          },
+          {
+            "question": "削りすぎて文脈が損なわれた場合はどうすればよいですか？",
+            "answer": "核心となる名詞と動詞は維持し、感情的な修飾語や重複した説明を中心に削ぎ落とせば、本質的な文脈はより鮮明になります。"
+          }
+        ]
+      },
+      "es": {
+        "title": "El método de notas en la cabina de Saint-Exupéry: Extraer la esencia a través de la soledad y la refinación",
+        "description": "Explore el hábito de escritura de Antoine de Saint-Exupéry, autor de 'El Principito' y aviador, quien concibió ideas en la soledad de la cabina y alcanzó la esencia eliminando la retórica innecesaria.",
+        "authority": "Investigación biográfica e histórica sobre la contemplación en la cabina de Saint-Exupéry y estudios de neurociencia cognitiva",
+        "intro": "\"La perfección no se alcanza cuando no hay nada más que añadir, sino cuando no queda nada más que quitar.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) fue un maestro de la literatura francesa del siglo XX y un virtuoso pionero de la aviación postal. Entre las turbulencias de las Guerras Mundiales, pilotó aviones de correo sobre el desierto del Sahara y los Andes, legando clásicos imperecederos como 'El Principito', 'Vuelo nocturno' y 'Tierra de hombres'.\n\nEn la década de 1930, la cabina de un avión era un espacio de extrema soledad, ruido, vibración y frío glacial. Sin embargo, para Saint-Exupéry, la cabina en las alturas constituía un refugio creativo sublime desde el cual contemplaba las estrellas y las nubes para purificar su alma. Durante el vuelo, anotaba febrilmente sus pensamientos en un pequeño libreta de cuero.\n\nAl aterrizar, al trasvasar sus notas a manuscritos, adoptó el hábito de podar despiadadamente la retórica vana y los adjetivos emocionales. Su inmortal máxima —'La perfección no se alcanza cuando no hay nada más que añadir, sino cuando no queda nada más que quitar'— fue el fruto de la metacognición cerebral nacida de la soledad en las alturas y la sustracción en tierra.",
+        "whyTitle": "Por qué la soledad y el hábito de sustracción maximizan la metacognición prefrontal",
+        "whyDesc": "La investigación neurocientífica muestra que la soledad aislada del ruido externo activa la Red Neuronal por Defecto (DMN) del cerebro, facilitando la percepción creativa. Posteriormente, el acto de podar elementos o retórica innecesarios estimula la metacognición prefrontal, elevando la precisión del pensamiento.",
+        "cautionTitle": "Precauciones y consejos de refinación del hábito de Saint-Exupéry",
+        "cautionDesc": "No censure ni edite durante la fase de generación de ideas. Permita que las ideas fluyan libremente en la soledad primero, y luego siga un proceso de dos pasos en la revisión recortando audazmente más del 30% de los modificadores innecesarios.",
+        "steps": [
+          {
+            "title": "Asegurar un espacio de soledad libre de ruido",
+            "desc": "Asegure un espacio tranquilo y solitario aislado de todas las notificaciones digitales y el ruido externo durante 20 minutos. Bloquee minuciosamente las distracciones externas y concéntrese en establecer metas y marcos claros en el lóbulo frontal."
+          },
+          {
+            "title": "Registrar pensamientos primarios sin censura",
+            "desc": "Escriba libremente las ideas, emociones y pensamientos emergentes en una libreta sin autoevaluarse ni juzgarse."
+          },
+          {
+            "title": "Recortar el exceso en más del 30%",
+            "desc": "Revise el texto escrito y recorte más del 30% de la retórica y adjetivos innecesarios, dejando solo la esencia sin nada más que sustraer."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Se puede aplicar esta regla de sustracción a informes de trabajo o propuestas?",
+            "answer": "¡Sí! Después de escribir el borrador con libertad, recorte audazmente los modificadores innecesarios, la jerga y las frases meandrosas en la segunda revisión para duplicar el impacto."
+          },
+          {
+            "question": "¿Qué pasa si se pierde el contexto por recortar demasiado?",
+            "answer": "Mantenga los sustantivos y verbos clave, y enfoque el recorte principalmente en modificadores emocionales o explicaciones redundantes; el contexto esencial se volverá más claro."
+          }
+        ]
+      },
+      "fr": {
+        "title": "La méthode de prise de notes en cockpit de Saint-Exupéry : Extraire l'essence par la solitude et l'épuration",
+        "description": "Découvrez l'habitude d'écriture d'Antoine de Saint-Exupéry, auteur du 'Petit Prince' et aviateur, qui concevait ses idées dans la solitude du cockpit et atteignait l'essence en épurant la rhétorique inutile.",
+        "authority": "Recherche biographique et autobiographique historique sur la contemplation en cockpit de Saint-Exupéry et études en neurosciences cognitives",
+        "intro": "« La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer. » ✈️\n\nAntoine de Saint-Exupéry (1900–1944) était un grand maître de la littérature française du XXe siècle et un pionnier légendaire de l'Aéropostale. Dans les tourmentes des guerres mondiales, il a piloté des avions postaux au-dessus du Sahara et des Andes, rédigeant des chefs-d'œuvre éternels comme 'Le Petit Prince', 'Vol de nuit' et 'Terre des hommes'.\n\nDans les années 1930, le cockpit d'un avion était un espace de solitude extrême, fait de bruit, de vibrations et de froid glacial. Pourtant, pour Saint-Exupéry, le cockpit en altitude représentait un sanctuaire créatif noble où il contemplait le ciel nocturne et les étoiles pour purifier son âme. Pendant les vols, il consignait frénétiquement ses pensées dans un petit carnet de cuir.\n\nUne fois revenu au sol, lors de la retranscription de ses notes en manuscrits, il s'est passionné pour l'habitude d'élaguer impitoyablement la rhétorique inutile et les adjectifs superflus. Son célèbre précepte — « La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer » — était le fruit d'une métacognition cérébrale façonnée par la solitude céleste et la soustraction terrestre.",
+        "whyTitle": "Pourquoi la solitude et la soustraction maximisent la métacognition préfrontale",
+        "whyDesc": "Les recherches en neurosciences montrent qu'un état de solitude coupé du bruit extérieur active le réseau par défaut (DMN) du cerveau, favorisant la perception créative. Ensuite, l'action d'élaguer les éléments superflus ou la rhétorique stimule la métacognition préfrontale, élevant la précision de la pensée.",
+        "cautionTitle": "Précautions et conseils d'épuration pour l'habitude de Saint-Exupéry",
+        "cautionDesc": "Ne censurez ni ne modifiez rien pendant la phase de génération d'idées. Laissez vos idées jaillir librement dans la solitude, puis suivez un processus en deux étapes lors de la révision en coupant audacieusement plus de 30 % des qualificatifs inutiles.",
+        "steps": [
+          {
+            "title": "Sécuriser un espace de solitude sans bruit",
+            "desc": "Sécurisez un espace calme et solitaire, coupé de toutes les notifications numériques et du bruit extérieur pendant 20 minutes. Bloquez les distractions et concentrez-vous sur l'établissement d'objectifs clairs dans le lobe frontal."
+          },
+          {
+            "title": "Consigner les pensées brutes sans censure",
+            "desc": "Inscrivez librement les idées, émotions et pensées émergentes dans un carnet, sans porter de jugement."
+          },
+          {
+            "title": "Élaguer plus de 30 % du superflu",
+            "desc": "Révisez le texte écrit et coupez plus de 30 % de la rhétorique et des adjectifs superflus, ne laissant que l'essence pure."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Cette règle de soustraction peut-elle s'appliquer aux rapports professionnels ou propositions ?",
+            "answer": "Oui ! Après avoir rédigé le brouillon librement, coupez audacieusement les qualificatifs inutiles, le jargon et les phrases à rallonge lors de la seconde relecture pour doubler la clarté."
+          },
+          {
+            "question": "Que faire si le contexte est perdu à cause d'un élagage trop important ?",
+            "answer": "Conservez les noms et verbes clés, et concentrez la coupe sur les adjectifs émotionnels ou les explications redondantes ; le contexte essentiel deviendra plus net."
+          }
+        ]
+      },
+      "de": {
+        "title": "Saint-Exupérys Cockpit-Notizmethode: Essenz durch Einsamkeit und Reduktion auf das Wesentliche",
+        "description": "Erkunden Sie die Schreibgewohnheit von Antoine de Saint-Exupéry, Autor von 'Der kleine Prinz' und Pilot, der in der Einsamkeit des Cockpits Ideen entwickelte und durch das Weglassen unnötiger Rhetorik das Wesentliche erreichte.",
+        "authority": "Historische Biografie- und Autobiografieforschung zu Saint-Exupérys Cockpit-Kontemplation & Kognitive Neurowissenschaften",
+        "intro": "\"Perfektion ist nicht dann erreicht, wenn es nichts mehr hinzuzufügen gibt, sondern wenn man nichts mehr wegnehmen kann.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) war ein Meister der französischen Literatur des 20. Jahrhunderts und ein legendärer Pionier der Luftpostfliegerei. In den Wirren der Weltkriege steuerte er Postflugzeuge über die Sahara und die Anden und verfasste unvergängliche Klassiker wie 'Der kleine Prinz', 'Nachtflug' und 'Wind, Sand und Sterne'.\n\nIn den 1930er Jahren war das Flugzeugcockpit ein Ort extremer Einsamkeit, geprägt von Lärm, Vibrationen und eiskalter Kälte. Für Saint-Exupéry war das Cockpit hoch oben jedoch ein erhabenes kreatives Refugium, in dem er den Sternenhimmel betrachtete und seine Seele reinigte. Während des Fluges notierte er seine Gedanken dicht in ein kleines Ledernotizbuch.\n\nNach der Landung übertrug er diese Notizen in Manuskripte und perfektionierte die Gewohnheit, unbarmherzig alle unnötigen Ausschmückungen und emotionalen Adjektive zu streichen. Sein berühmter Leitsatz – 'Perfektion ist nicht dann erreicht, wenn es nichts mehr hinzuzufügen gibt, sondern wenn man nichts mehr wegnehmen kann' – war die Frucht der kognitiven Metakognition aus Einsamkeit in der Luft und Reduktion am Boden.",
+        "whyTitle": "Warum Einsamkeit und die Reduktionsgewohnheit die präfrontale Metakognition maximieren",
+        "whyDesc": "Neurowissenschaftliche Forschungen zeigen, dass Einsamkeit frei von externem Lärm das Default Mode Network (DMN) des Gehirns aktiviert und kreative Wahrnehmung fördert. Das anschließende Weglassen unnötiger Elemente oder Rhetorik stimuliert die präfrontale Metakognition und steigert die Denkpräzision.",
+        "cautionTitle": "Vorsichtsmaßnahmen und Verfeinerungstipps für die Saint-Exupéry-Gewohnheit",
+        "cautionDesc": "Zensieren oder bearbeiten Sie Ideen nicht in der Entstehungsphase. Lassen Sie Gedanken in der Einsamkeit frei fließen und folgen Sie in der Überarbeitungsphase einem Zwei-Stufen-Prozess, indem Sie mutig über 30 % unnötiger Adjektive streichen.",
+        "steps": [
+          {
+            "title": "Einen lärmfreien Raum für sich allein sichern",
+            "desc": "Sichern Sie sich für 20 Minuten einen ruhigen Raum für sich allein, isoliert von digitalen Benachrichtigungen und externem Lärm. Blockieren Sie Ablenkungen und konzentrieren Sie sich darauf, im Frontallappen klare Ziele zu verankern."
+          },
+          {
+            "title": "Ungefilterte Gedanken ohne Zensur aufschreiben",
+            "desc": "Schreiben Sie aufsteigende Ideen, Gefühle und Gedanken ungehemmt in ein Notizbuch, ohne sie selbst zu bewerten."
+          },
+          {
+            "title": "Unnötiges um mehr als 30 % reduzieren",
+            "desc": "Überprüfen Sie den geschriebenen Text und streichen Sie über 30 % unnötiger Rhetorik und Adjektive, sodass nur das Wesentliche übrig bleibt."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann dieses Reduktionsprinzip auch auf Geschäftsberichte oder Konzepte angewendet werden?",
+            "answer": "Ja! Wenn Sie den Entwurf frei schreiben und beim zweiten Durchsehen unnötige Floskeln, Fachjargon und lange Sätze streichen, verdoppelt sich die Überzeugungskraft."
+          },
+          {
+            "question": "Was ist, wenn durch zu starkes Kürzen der Kontext verloren geht?",
+            "answer": "Behalten Sie kernrelevante Substantive und Verben bei und kürzen Sie hauptsächlich emotionale Adjektive oder redundante Erklärungen; der wesentliche Kontext wird dadurch deutlicher."
+          }
+        ]
+      },
+      "pt": {
+        "title": "O método de anotações no cockpit de Saint-Exupéry: Extrair a essência através da solidão e do refino",
+        "description": "Explore o hábito de escrita de Antoine de Saint-Exupéry, autor de 'O Pequeno Príncipe' e aviador, que concebeu ideias na solidão do cockpit e alcançou a essência eliminando retóricas desnecessárias.",
+        "authority": "Pesquisa biográfica e autobiográfica histórica sobre a contemplação no cockpit de Saint-Exupéry e estudos de neurociência cognitiva",
+        "intro": "\"A perfeição não é alcançada quando não há mais nada a acrescentar, mas sim quando não há mais nada a retirar.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) foi um mestre da literatura francesa do século XX e um lendário pioneiro do correio aéreo. Em meio às turbulências das Guerras Mundiais, pilotou aviões postais sobre o Deserto do Saara e os Andes, escrevendo clássicos imortais como 'O Pequeno Príncipe', 'Voo Noturno' e 'Terra dos Homens'.\n\nNa década de 1930, o cockpit de um avião era um espaço de extrema solidão, repleto de ruído, vibração e frio congelante. No entanto, para Saint-Exupéry, a cabine nas alturas era um santuário criativo sublime, de onde contemplava o céu noturno, as estrelas e as nuvens para purificar a alma. Durante o voo, anotava densamente seus pensamentos em um pequeno caderno de couro.\n\nAo pousar, ao transferir suas anotações para os manuscritos, fascinou-se pelo hábito de podar impiedosamente floreios desnecessários e adjetivos emocionais. Sua famosa máxima — 'A perfeição é alcançada não quando não há mais nada a acrescentar, mas quando não há mais nada a retirar' — foi o fruto da metacognição cerebral gerada pela solidão nas alturas e pela subtração em terra.",
+        "whyTitle": "Por que a solidão e o hábito de subtração maximizam a metacognição pré-frontal",
+        "whyDesc": "Pesquisas neurocientíficas mostram que o estado de solidão isolado de ruídos externos ativa a Rede de Modo Padrão (DMN) do cérebro, facilitando a percepção criativa. Subsequente, o ato de podar elementos ou retórica desnecessários estimula a metacognição pré-frontal, elevando a precisão do pensamento.",
+        "cautionTitle": "Precauções e dicas de refino do hábito de Saint-Exupéry",
+        "cautionDesc": "Não censure nem edite durante a fase de geração de ideias. Permita que as ideias fluam livremente na solidão primeiro e, em seguida, siga um processo de duas etapas na revisão, cortando corajosamente mais de 30% dos modificadores desnecessários.",
+        "steps": [
+          {
+            "title": "Garantir um espaço solitário e sem ruídos",
+            "desc": "Garanta um espaço silencioso e solitário, isolado de notificações digitais e ruídos externos por 20 minutos. Bloqueie as distrações e concentre-se inteiramente em estabelecer metas e estruturas claras no lobo frontal."
+          },
+          {
+            "title": "Registrar pensamentos brutos sem censura",
+            "desc": "Escreva livremente as ideias, emoções e pensamentos emergentes em um caderno, sem autojulgamento."
+          },
+          {
+            "title": "Podar o excesso em mais de 30%",
+            "desc": "Revise o texto escrito e corte mais de 30% da retórica e adjetivos desnecessários, deixando apenas a essência sem nada mais a subtrair."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Esta regra de subtração pode ser aplicada a relatórios de trabalho ou propostas?",
+            "answer": "Sim! Após escrever o rascunho livremente, corte corajosamente modificadores desnecessários, jargões e frases longas na segunda revisão para dobrar o impacto."
+          },
+          {
+            "question": "E se o contexto for perdido por ter cortado demais?",
+            "answer": "Mantenha os substantivos e verbos essenciais e foque os cortes em modificadores emocionais ou explicações redundantes; o contexto essencial ficará mais nítido."
+          }
+        ]
+      },
+      "id": {
+        "title": "Metode Catatan Kokpit Saint-Exupéry: Mengekstrak Esensi Melalui Kesendirian dan Penyaringan Suplemen",
+        "description": "Jelajahi kebiasaan menulis Antoine de Saint-Exupéry, penulis 'Pangeran Kecil' dan penerbang, yang merancang ide dalam kesendirian kokpit dan mencapai esensi dengan memangkas retorika yang tidak perlu.",
+        "authority": "Riset biografi sejarah dan autobiografi tentang Kontemplasi Kokpit Saint-Exupéry & studi Neurosains Kognitif",
+        "intro": "\"Kesempurnaan dicapai bukan saat tidak ada lagi yang bisa ditambahkan, melainkan saat tidak ada lagi yang bisa dikurangi.\" ✈️\n\nAntoine de Saint-Exupéry (1900–1944) adalah maestro sastra Prancis abad ke-20 dan pelopor penerbangan pos udara yang legendaris. Di tengah gejolak Perang Dunia, ia mengemudikan pesawat pos melintasi Gurun Sahara dan Pegunungan Andes, menghasilkan karya klasik abadi seperti 'Pangeran Kecil', 'Penerbangan Malam', dan 'Bumi Manusia'.\n\nPada tahun 1930-an, kokpit pesawat adalah ruang kesendirian ekstrem yang penuh kebisingan, getaran, dan dingin yang membekukan. Namun bagi Saint-Exupéry, kokpit di angkasa adalah tempat perlindungan kreatif yang luhur tempat ia menatap langit malam, bintang-bintang, dan awan untuk menyucikan jiwanya. Selama penerbangan, ia mencatat pemikiran dan kalimat yang bergelora dalam buku catatan kulit kecil.\n\nSaat mendarat, ketika menyalin catatannya menjadi naskah, ia sangat menyukai kebiasaan memangkas retorika yang tidak perlu dan kata sifat emosional tanpa ampun. Pepatah agungnya—'Kesempurnaan dicapai bukan saat tidak ada lagi yang bisa ditambahkan, melainkan saat tidak ada lagi yang bisa dikurangi'—adalah buah metakognisi otak yang lahir dari kesendirian di angkasa dan kebiasaan pengurangan di darat.",
+        "whyTitle": "Mengapa Kesendirian dan Kebiasaan Pengurangan Memaksimalkan Metakognisi Prefrontal",
+        "whyDesc": "Riset neurosains menunjukkan bahwa kondisi kesendirian yang terbebas dari kebisingan luar mengaktifkan Default Mode Network (DMN) otak, membantu persepsi kreatif. Selanjutnya, tindakan memangkas elemen atau retorika yang tidak perlu menstimulasi metakognisi prefrontal, meningkatkan presisi pemikiran.",
+        "cautionTitle": "Peringatan dan Tips Penyaringan Kebiasaan Saint-Exupéry",
+        "cautionDesc": "Jangan mensensor atau mengedit pada tahap pembuatan ide. Biarkan ide mengalir bebas dalam kesendirian terlebih dahulu, lalu ikuti proses dua langkah pada tahap peninjauan dengan memangkas lebih dari 30% kata sifat/penjelas yang tidak perlu.",
+        "steps": [
+          {
+            "title": "Amankan Ruang Kesendirian Bebas Kebisingan",
+            "desc": "Amankan ruang tenang tanpa gangguan notifikasi digital dan kebisingan luar selama 20 menit. Blokir gangguan luar secara menyeluruh dan fokus penuh untuk menetapkan tujuan pelaksanaan yang jelas di lobus frontal."
+          },
+          {
+            "title": "Catat Pemikiran Mentah Tanpa Sensor",
+            "desc": "Tuliskan ide, emosi, dan pemikiran yang muncul di buku catatan secara bebas tanpa menghakimi diri sendiri."
+          },
+          {
+            "title": "Pangkas Hal yang Tidak Perlu Lebih dari 30%",
+            "desc": "Tinjau teks yang telah ditulis dan pangkas lebih dari 30% retorika dan kata sifat yang tidak perlu, menyisakan hanya esensi murni."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah aturan pengurangan ini dapat diterapkan pada laporan kerja atau proposal?",
+            "answer": "Ya! Setelah menulis draf secara bebas dan jujur, pangkas kata penjelas yang tidak perlu, jargon, dan kalimat yang bertele-tele pada peninjauan kedua untuk menggandakan daya penyampaian."
+          },
+          {
+            "question": "Bagaimana jika konteks hilang karena terlalu banyak dipangkas?",
+            "answer": "Pertahankan kata benda dan kata kerja kunci, lalu fokuskan pemangkasan pada kata sifat emosional atau penjelasan yang berulang; konteks esensial justru akan menjadi lebih jelas."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "이 뺄셈 법칙을 업무 보고서나 기획안 작성에도 적용할 수 있나요?",
-          "en": "Can this subtraction rule be applied to business reports or proposals?",
-          "ja": "この引き算の法則を業務報告書や企画書の作成にも適用できますか？",
-          "zh": "这种“减法法则”可以应用于工作报告或策划案撰写吗？",
-          "es": "¿Se puede aplicar esta regla de sustracción a informes de trabajo o propuestas?",
-          "de": "Kann dieses Reduktionsprinzip auch auf Geschäftsberichte oder Konzepte angewendet werden?",
-          "fr": "Cette règle de soustraction peut-elle s'appliquer aux rapports professionnels ou propositions ?",
-          "pt": "Esta regra de subtração pode ser aplicada a relatórios de trabalho ou propostas?",
-          "id": "Apakah aturan pengurangan ini dapat diterapkan pada laporan kerja atau proposal?"
-        },
-        "answer": {
-          "ko": "네! 초안을 솔직하게 자유롭게 쓴 후, 두 번째 검토에서 불필요한 수식어, 전문 용어, 늘어지는 문장을 과감히 깎아내면 전달력이 2배 높아집니다.",
-          "en": "Yes! After writing the draft freely and honestly, boldly trim unnecessary modifiers, jargon, and rambling sentences during the second review to double the impact of your message.",
-          "ja": "はい！初稿を素直に自由に書いた後、2回目の見直しで不要な修飾語、専門用語、冗長な文章と思い切って削ぎ落とせば、伝達力が2倍に高まります。",
-          "zh": "是的！在坦诚自由地写完初稿后，在第二次复盘中果断削去不必要的修饰词、晦涩术语和拖沓句段，信息的传递力将翻倍。",
-          "es": "¡Sí! Después de escribir el borrador con libertad, recorte audazmente los modificadores innecesarios, la jerga y las frases meandrosas en la segunda revisión para duplicar el impacto.",
-          "de": "Ja! Wenn Sie den Entwurf frei schreiben und beim zweiten Durchsehen unnötige Floskeln, Fachjargon und lange Sätze streichen, verdoppelt sich die Überzeugungskraft.",
-          "fr": "Oui ! Après avoir rédigé le brouillon librement, coupez audacieusement les qualificatifs inutiles, le jargon et les phrases à rallonge lors de la seconde relecture pour doubler la clarté.",
-          "pt": "Sim! Após escrever o rascunho livremente, corte corajosamente modificadores desnecessários, jargões e frases longas na segunda revisão para dobrar o impacto.",
-          "id": "Ya! Setelah menulis draf secara bebas dan jujur, pangkas kata penjelas yang tidak perlu, jargon, dan kalimat yang bertele-tele pada peninjauan kedua untuk menggandakan daya penyampaian."
-        }
-      },
-      {
-        "question": {
-          "ko": "너무 많이 깎아내어 문맥이 손실되면 어떻게 하나요?",
-          "en": "What if context is lost because too much was trimmed away?",
-          "ja": "削りすぎて文脈が損なわれた場合はどうすればよいですか？",
-          "zh": "如果剪裁过头导致上下文意思丢失怎么办？",
-          "es": "¿Qué pasa si se pierde el contexto por recortar demasiado?",
-          "de": "Was ist, wenn durch zu starkes Kürzen der Kontext verloren geht?",
-          "fr": "Que faire si le contexte est perdu à cause d'un élagage trop important ?",
-          "pt": "E se o contexto for perdido por ter cortado demais?",
-          "id": "Bagaimana jika konteks hilang karena terlalu banyak dipangkas?"
-        },
-        "answer": {
-          "ko": "핵심 명사와 동사는 유지하고, 감정적인 수식어나 중복된 설명 위주로 깎아내면 본질적 문맥은 또렷해집니다.",
-          "en": "Keep key nouns and verbs, and focus trimming primarily on emotional modifiers or redundant explanations; the essential context will become clearer.",
-          "ja": "核心となる名詞と動詞は維持し、感情的な修飾語や重複した説明を中心に削ぎ落とせば、本質的な文脈はより鮮明になります。",
-          "zh": "保留核心名词和动词，主要削去情绪化的修饰词与重复性解释，本质上下文反而会更加清晰明确。",
-          "es": "Mantenga los sustantivos y verbos clave, y enfoque el recorte principalmente en modificadores emocionales o explicaciones redundantes; el contexto esencial se volverá más claro.",
-          "de": "Behalten Sie kernrelevante Substantive und Verben bei und kürzen Sie hauptsächlich emotionale Adjektive oder redundante Erklärungen; der wesentliche Kontext wird dadurch deutlicher.",
-          "fr": "Conservez les noms et verbes clés, et concentrez la coupe sur les adjectifs émotionnels ou les explications redondantes ; le contexte essentiel deviendra plus net.",
-          "pt": "Mantenha os substantivos e verbos essenciais e foque os cortes em modificadores emocionais ou explicações redundantes; o contexto essencial ficará mais nítido.",
-          "id": "Pertahankan kata benda dan kata kerja kunci, lalu fokuskan pemangkasan pada kata sifat emosional atau penjelasan yang berulang; konteks esensial justru akan menjadi lebih jelas."
-        }
-      }
-    ]
+    }
   }
 }

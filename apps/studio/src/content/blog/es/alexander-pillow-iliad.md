@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La 'Ilíada Bajo la Almohada' de Alejandro Magno: Lectura Nocturna de Visión que Sostuvo Grandes Desafíos"
 description: "Alejandro Magno nunca perdió el valor en el campo de batalla, guardando una daga y la Ilíada bajo su almohada cada noche. Explore el poder de la lectura de visión que estimula el subconsciente."
 pubDate: "2026-01-23"
@@ -38,14 +39,14 @@ En la publicación de hoy, presentamos los fundamentos científicos de la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre alexander-pillow-iliad se basa en <strong>Verificación Histórica de *Vidas Paralelas (Life of Alexander)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Vidas Paralelas (Life of Alexander)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Lectura Orientada a Valores que Induce la Alineación Subconsciente
+## 1. Lectura Orientada a Valores que Induce la Alineación Subconsciente
 
 Cuando el cerebro comienza a quedarse dormido, las ondas cerebrales se transicionan a ondas alfa y teta, y la información introducida durante este tiempo llega al hipocampo (el almacén de memoria a largo plazo) y a lo profundo de la corteza cerebral (que forma el subconsciente) con mucha más facilidad que de costumbre.
 
@@ -53,9 +54,7 @@ La Ilíada que leía Alejandro Magno antes de dormir no era para simplemente pas
 
 ---
 
-## El Texto que Lee Determina su Subconsciente
-
-Consumir contenido a altas horas de la noche que estimule el miedo, los celos o la crítica (como las redes sociales o los artículos de noticias) alinea su subconsciente con estímulos negativos, lo que interrumpe el sueño profundo y hace que se despierte fatigado por la mañana. Coloque intencionadamente en su mesita de noche clásicos nobles o libros que eloven su valor.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Consumir contenido a altas horas de la noche que estimule el miedo, los celos o 
   </p>
 </div>
 
+---
+
+## 3. El Texto que Lee Determina su Subconsciente
+
+Consumir contenido a altas horas de la noche que estimule el miedo, los celos o la crítica (como las redes sociales o los artículos de noticias) alinea su subconsciente con estímulos negativos, lo que interrumpe el sueño profundo y hace que se despierte fatigado por la mañana. Coloque intencionadamente en su mesita de noche clásicos nobles o libros que eloven su valor.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Leer novelas o cómics antes de dormir tiene el mismo efecto que la rutina de lectura de clásicos de visión?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Consumir contenido a altas horas de la noche que estimule el miedo, los celos o 
       La ficción ligera también ofrece un efecto refrescante que alivia el estrés cerebral, pero para lograr un efecto de 'motivación orientada a valores' que alinee la autoidentidad e inspire la fuerza de voluntad de ejecución como en la rutina de Alejandro, es mucho mejor elegir epopeyas clásicas, libros de filosofía o biografías que brinden una resonancia e introspección profundas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Está bien leer libros con un lector de libros electrónicos mientras se está acostado?</span>

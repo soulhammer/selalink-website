@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le romancier qui découpait les journaux aux ciseaux chaque matin ? La méthode de construction de schéma de connaissances de George Orwell"
 description: "Le romancier George Orwell lisait plusieurs journaux chaque matin et découpait les articles aux ciseaux pour les classer dans des cahiers de coupures. Découvrez les principes du cortex préfrontal pour élaborer des schémas d'information organiques et des routines modernes de découpage numérique."
 pubDate: "2026-03-13"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons les mécanismes neuroscientifiques de la routin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant orwell-newspaper-clipping est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques de George Orwell et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques de George Orwell et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Science cérébrale de l'encodage de l'information et des schémas
+## 1. Science cérébrale de l'encodage de l'information et des schémas
 
 Le simple survol d'articles numériques ne laisse les informations que de façon éphémère dans la mémoire à court terme. En revanche, sélectionner activement des articles, les 'découper' (action physique ou numérique) et les classer déclenche un processus d'<strong>'encodage profond (Deep Encoding)'</strong> dans le cerveau. Cette structuration fixe les données dans le stockage cortical à long terme et édifie un <strong>'réseau de schémas (Schema)'</strong> relié aux connaissances existantes. Un cerveau doté de schémas développés saisit plus rapidement les nouveaux contextes, identifie le cœur des problèmes et fait preuve d'une grande intelligence fluide lors du rappel de connaissances pour la rédaction ou la prise de décision.
 
 ---
 
-## Le piège de l'accumulation aveugle
-
-Le simple fait de sauvegarder des liens ou des articles d'un clic dans un dossier relève du 'Sophisme du collectionneur (Collector's Fallacy)', faisant croire au cerveau qu'il possède le savoir. C'est uniquement en résumant l'information vous-même ou en y ajoutant une note personnelle que les données stimulent le traitement cognitif et deviennent un véritable schéma de connaissances.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le simple fait de sauvegarder des liens ou des articles d'un clic dans un dossie
   </p>
 </div>
 
+---
+
+## 3. Le piège de l'accumulation aveugle
+
+Le simple fait de sauvegarder des liens ou des articles d'un clic dans un dossier relève du 'Sophisme du collectionneur (Collector's Fallacy)', faisant croire au cerveau qu'il possède le savoir. C'est uniquement en résumant l'information vous-même ou en y ajoutant une note personnelle que les données stimulent le traitement cognitif et deviennent un véritable schéma de connaissances.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les véritables cahiers de coupures de George Orwell sont-ils conservés aujourd'hui ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le simple fait de sauvegarder des liens ou des articles d'un clic dans un dossie
       Oui, les articles rassemblés par George Orwell, les copies de ses cahiers de coupures et ses notes de travail sont conservés comme précieux archives historiques à l'University College de Londres (UCL).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quelles applications sont recommandées pour pratiquer cette routine de découpage au format numérique ?</span>

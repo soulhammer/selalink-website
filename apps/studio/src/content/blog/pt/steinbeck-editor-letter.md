@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eliminar o medo de começar: A rotina de cartas de aquecimento de John Steinbeck"
 description: "O romancista John Steinbeck escrevia cartas diárias ao seu editor para dissolver a procrastinação. Descubra como a escrita livre ativa o córtex motor da linguagem e supera a inércia."
 pubDate: "2026-05-07"
@@ -33,25 +34,23 @@ Neste post, examinamos como a rotina de cartas de Steinbeck acalma o cérebro e 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre steinbeck-editor-letter é baseada em <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
+      Este conteúdo baseia-se em <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Caminhos neurais para superar o perfeccionismo e a ansiedade da amígdala
+## 1. Caminhos neurais para superar o perfeccionismo e a ansiedade da amígdala
 
 Quando o cérebro percebe que uma tarefa é importante, a amígdala dispara um alarme que causa procrastinação. Praticar uma escrita livre e descompromissada primeiro envia o feedback de 'ambiente seguro', acalmando a amígdala e preparando as áreas motoras.
 
 ---
 
-## Precauções e dicas
-
-A principal armadilha de uma carta de aquecimento é deixá-la se tornar outra forma de procrastinação. Passar mais de 30 minutos na carta esgotará sua energia. Limite estritamente o aquecimento a no máximo 5 minutos e mude imediatamente para a tarefa principal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ A principal armadilha de uma carta de aquecimento é deixá-la se tornar outra f
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+A principal armadilha de uma carta de aquecimento é deixá-la se tornar outra forma de procrastinação. Passar mais de 30 minutos na carta esgotará sua energia. Limite estritamente o aquecimento a no máximo 5 minutos e mude imediatamente para a tarefa principal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

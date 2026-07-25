@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metode Inskripsi Balok Kayu Montaigne: Mengguncang Prasangka dan Mengaktifkan Metakognisi dengan Stimulus Visual"
 description: "Pelajari bagaimana filsuf Prancis Michel de Montaigne mengukir 57 pepatah filsafat kuno pada balok kayu perpustakaannya, menggunakan pemantik visual untuk mematahkan dogma dan memperluas sudut pandang."
 pubDate: "2026-03-10"
@@ -33,25 +34,23 @@ Dalam artikel ini, kita mempelajari mekanisme pemantik visual inskripsi balok ka
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai montaigne-beam-inscription didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Montaigne & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Montaigne & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prinsip Neurosains Teks Inskripsi yang Mengaktifkan Metakognisi
+## 1. Prinsip Neurosains Teks Inskripsi yang Mengaktifkan Metakognisi
 
 Menatap secara sengaja pepatah visual yang ditempatkan sesuai dengan teori psikologi 'Visual Priming'. Korteks serebral secara tidak sadar memproses teks yang masuk, memperluas jaringan asosiatif dan memanggil memori jangka panjang. Selain itu, mendongakkan dagu ke atas untuk melihat inskripsi melibatkan gerakan mata vertikal yang merangsang korteks prefrontal—pusat kendali metakognisi—sehingga memperluas pandangan dan mendorong refleksi diri tingkat tinggi.
 
 ---
 
-## Mencegah Habituasi Visual (Desensitisasi)
-
-Sehebat apa pun suatu kutipan, mengaturnya tanpa perubahan di sudut monitor atau dinding membuat otak menganggapnya sebagai latar belakang dan mengabaikannya. Untuk mencegah habituasi visual, ubahlah warna catatan, pindahkan lokasinya, atau ganti kutipan secara berkala. Menjaga kebaruan sangat penting untuk memicu refleks metakognitif.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Sehebat apa pun suatu kutipan, mengaturnya tanpa perubahan di sudut monitor atau
     Saat buntu atau meragukan suatu asumsi, dongakkan kepala Anda dan baca teks secara senyap selama 15 detik. Memindahkan pandangan ke atas mengaktifkan perspektif metakognitif.
   </p>
 </div>
+
+---
+
+## 3. Mencegah Habituasi Visual (Desensitisasi)
+
+Sehebat apa pun suatu kutipan, mengaturnya tanpa perubahan di sudut monitor atau dinding membuat otak menganggapnya sebagai latar belakang dan mengabaikannya. Untuk mencegah habituasi visual, ubahlah warna catatan, pindahkan lokasinya, atau ganti kutipan secara berkala. Menjaga kebaruan sangat penting untuk memicu refleks metakognitif.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

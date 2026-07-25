@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Novelis yang Menggunting Berita Pagi Setiap Hari? Metode Membangun Skema Pengetahuan George Orwell"
 description: "Novelis George Orwell membaca beberapa surat kabar setiap pagi dan menggunting artikel untuk diklasifikasikan ke dalam kliping. Pelajari prinsip korteks prefrontal dalam membangun skema informasi organik dan rutinitas kliping digital modern."
 pubDate: "2026-03-13"
@@ -35,25 +36,23 @@ Dalam artikel ini, kami mengulas prinsip neurosains di balik rutinitas menggunti
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai orwell-newspaper-clipping didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi George Orwell & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi George Orwell & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ilmu Saraf Pengodean Informasi dan Skema Kognitif
+## 1. Ilmu Saraf Pengodean Informasi dan Skema Kognitif
 
 Membaca sekilas artikel digital hanya meninggalkan informasi di memori jangka pendek sebelum sebagian besar hilang. Sebaliknya, memilih artikel secara aktif, 'mengguntingnya' (tindakan fisik atau digital), dan mengelompokkannya memicu proses <strong>'pengodean mendalam (Deep Encoding)'</strong> di otak. Penataan informasi ini menempatkan data ke dalam penyimpanan kortikal jangka panjang dan membangun <strong>'jaringan skema (Schema)'</strong> yang terhubung dengan pengetahuan yang ada. Otak dengan jaringan skema yang kaya dapat memahami konteks baru lebih cepat, menemukan inti masalah, dan menunjukkan kecerdasan fluida yang tinggi saat memanggil pengetahuan latar belakang untuk menulis atau mengambil keputusan.
 
 ---
 
-## Jebakan Kecanduan Mengumpulkan Informasi Secara Buta
-
-Sekadar menyimpan tautan atau artikel bagus ke folder penyimpanan hanya dengan satu klik dapat menjerumuskan Anda ke dalam 'Mitos Pengumpul (Collector's Fallacy)'—menipu otak seolah-olah telah menguasai pengetahuan tersebut. Hanya ketika Anda merangkumnya sendiri atau menambahkan refleksi satu kalimat dalam bahasa Anda sendiri, data tersebut menstimulasi pemrosesan kognitif dan berubah menjadi skema pengetahuan sejati.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Sekadar menyimpan tautan atau artikel bagus ke folder penyimpanan hanya dengan s
   </p>
 </div>
 
+---
+
+## 3. Jebakan Kecanduan Mengumpulkan Informasi Secara Buta
+
+Sekadar menyimpan tautan atau artikel bagus ke folder penyimpanan hanya dengan satu klik dapat menjerumuskan Anda ke dalam 'Mitos Pengumpul (Collector's Fallacy)'—menipu otak seolah-olah telah menguasai pengetahuan tersebut. Hanya ketika Anda merangkumnya sendiri atau menambahkan refleksi satu kalimat dalam bahasa Anda sendiri, data tersebut menstimulasi pemrosesan kognitif dan berubah menjadi skema pengetahuan sejati.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah buku kliping asli George Orwell masih tersimpan hingga saat ini?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Sekadar menyimpan tautan atau artikel bagus ke folder penyimpanan hanya dengan s
       Ya, artikel yang dikumpulkan George Orwell, salinan kliping guntingan tangannya, serta catatan kerja terkait tersimpan sebagai arsip sejarah berharga di University College London (UCL).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Aplikasi apa yang direkomendasikan untuk menjalankan rutinitas kliping ini secara digital?</span>

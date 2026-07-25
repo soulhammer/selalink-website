@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "坚如磐石的精神锚点：圣女贞德的晨间沉寂习惯与杏仁核平抚指南"
 description: "探索法国救国圣女贞德如何在百年战争的惊涛骇浪与死亡阴影中维系不屈意志。揭示“晨间静默祈祷”平抚杏仁核应激、重塑神经心理稳定性与3步骤认知对齐习惯。"
 pubDate: "2026-02-12"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 joan-silent-reflection 的内容基于 <strong>圣女贞德审判案卷史料（Procès de Condamnation et de Réhabilitation）考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>圣女贞德审判案卷史料（Procès de Condamnation et de Réhabilitation）考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过降噪阻断达成平抚杏仁核（Amygdala）与心智认知对齐（Cognitive Alignment）机制
+## 1. 通过降噪阻断达成平抚杏仁核（Amygdala）与心智认知对齐（Cognitive Alignment）机制
 
 当饱受繁杂的视觉与听觉噪点轰炸时，作为大脑情绪与警报枢纽的<strong>杏仁核（Amygdala）</strong>极易处于敏感状态，诱发慢性焦虑应激。在全天启幕之际有意识地切断外界噪音、保持10分钟静默沉寂，能有效抚平过载的杏仁核警报，沉淀交感神经系统的异常兴奋。此外，在寂静中反刍个人所笃信的核心价值观与信念（即<strong>“认知对齐 Cognitive Alignment”</strong>），能消解内心的认知失调，强效唤醒前额叶自我肯定神经回路，构筑起抵御外界压力的坚固心理防线。
 
 ---
 
-## 注意事项：切断外界杂音，全情聚焦内核核心价值指南
-
-欲斩获晨间静默习惯真正的神经生物学效益，思维的箭头须死死指向内心深处。若合上双眼后依然在对言路评价或过往憾事展开反刍拉扯，杏仁核将持续处于高压应激状态。正如圣女贞德在离乱乱世中将频段死死锁定于内心召命与信念般，借由静默将他人的噪音扫荡一空，仅将全副精神对齐于“对自己最为重要的某一项核心信念”中，内在心理韧性方能全面运转。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：切断外界杂音，全情聚焦内核核心价值指南
+
+欲斩获晨间静默习惯真正的神经生物学效益，思维的箭头须死死指向内心深处。若合上双眼后依然在对言路评价或过往憾事展开反刍拉扯，杏仁核将持续处于高压应激状态。正如圣女贞德在离乱乱世中将频段死死锁定于内心召命与信念般，借由静默将他人的噪音扫荡一空，仅将全副精神对齐于“对自己最为重要的某一项核心信念”中，内在心理韧性方能全面运转。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>我并非早起型作息者，是否必须在黎明破晓前强行起床践行？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       绝非如此。本习惯的神经科学内核在于在醒来瞬间、趁手机弹窗与外界数据噪音涌入前去厘清脑力。只需在您平素习惯的起床节点醒来并投入短短10分钟，便可获得完全等同的神经心理效益。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>非宗教信仰人士进行静默祈祷，是否具备同等的神经科学效能？</span>

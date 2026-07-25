@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "산길을 걸으며 큰 소리로 시를 외친 시인: 윌리엄 워즈워스의 보행 작시법"
 description: "낭만주의 시인 윌리엄 워즈워스는 야외를 걸으며 발걸음 속도에 문장의 호흡을 맞춰 시를 완성했습니다. 리듬 운동과 소뇌 활성화가 언어 감각을 깨우는 과학적 원리를 알아봅니다."
 pubDate: "2026-02-06"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>윌리엄 워즈워스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 wordsworth-outdoor-recitation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>윌리엄 워즈워스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 리듬 보행과 조음 청각 루프의 시너지
+## 1. 리듬 보행과 조음 청각 루프의 시너지
 
 걷기 운동 시 발바닥 접촉에 의해 발생하는 규칙적인 움직임 신호는 뇌의 모터 루프이자 주기를 다루는 <strong>소뇌(Cerebellum)</strong>를 강력하게 활성화합니다. 이 소뇌의 운동 리듬 신호는 대뇌 피질의 언어 연상 영역과 즉각 동기화하여 문장의 운율(Prosody)과 말의 강약을 다루는 조음 처리 능력을 물리적으로 조율합니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 소리 내어 읽기의 힘
-
-눈으로만 글을 쓰는 습관은 작성된 글이 독자에게 어떻게 읽힐지(조음적 리듬)를 온전히 파악하지 못하게 만들어 문장을 건조하고 딱딱하게 만듭니다. 특히 기획서의 스피치 대본이나 면접 답변서 등을 작성할 때는 조용한 곳에서 발걸음을 떼며 큰 소리로 직접 읊조려 가며 교정해야 문장의 뇌 전달력이 극대화됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 소리 내어 읽기의 힘
+
+눈으로만 글을 쓰는 습관은 작성된 글이 독자에게 어떻게 읽힐지(조음적 리듬)를 온전히 파악하지 못하게 만들어 문장을 건조하고 딱딱하게 만듭니다. 특히 기획서의 스피치 대본이나 면접 답변서 등을 작성할 때는 조용한 곳에서 발걸음을 떼며 큰 소리로 직접 읊조려 가며 교정해야 문장의 뇌 전달력이 극대화됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>워즈워스의 여동생 도로시는 보행 작시법을 어떻게 기록했나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       그녀는 일기에서 '윌리엄은 오늘 아침 정원 산책로를 수백 번 왕복하며 시를 읊조렸다'며, 그의 보행 속도와 그가 암송하는 소리가 정확히 비례하여 변화했다고 생생하게 묘사했습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>실내 러닝머신 위를 걸으면서 낭독해도 효과가 있나요?</span>

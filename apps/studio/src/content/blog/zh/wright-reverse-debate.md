@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "互换立场辩论的发明家？莱特兄弟的逆向辩论法"
 description: "发明第一架有动力飞机的莱特兄弟。探究他们为了突破瓶颈而互换观点进行反驳的元认知辩论法及其现代应用。"
 pubDate: "2026-03-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 wright-reverse-debate 的内容基于 <strong>莱特兄弟历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>莱特兄弟历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 瓦解确认偏误的“元认知重构”
+## 1. 瓦解确认偏误的“元认知重构”
 
 人类的大脑一旦确立了某种想法或计划，就容易陷入只搜集支持性信息而无视缺陷与反面证据的确认偏误（Confirmation Bias）之中。这是无数商业策划和研发项目失败的决定性原因。莱特兄弟的逆向辩论例行程序正是强制瓦解这一偏误的元认知重构（Cognitive Restructuring）工具。站在先前反对的立场上去组织逻辑和阐述观点，能够迫使大脑前额叶皮层放下对已有假设的情感执念，使元认知电路立刻运转起来，冷静地发现自身主张中隐藏的逻辑谬误与盲区，从而构建出更完善无缺的最佳解决方案。
 
 ---
 
-## 唯有怀疑自己的主张，方能开启真理
-
-要打造最出色的创意，必须首先学会放下对自身想法的执念。莱特兄弟每天晚上化身为对方的大脑对自己进行极其严苛的检验，从而创造了人类首次飞行的奇迹。当陷入固执己见而导致视野狭隘时，不妨将自己的立场旋转180度重新审视。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 唯有怀疑自己的主张，方能开启真理
+
+要打造最出色的创意，必须首先学会放下对自身想法的执念。莱特兄弟每天晚上化身为对方的大脑对自己进行极其严苛的检验，从而创造了人类首次飞行的奇迹。当陷入固执己见而导致视野狭隘时，不妨将自己的立场旋转180度重新审视。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在没有搭档独自工作时，也可以使用这个例行程序吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       当然可以。在纸上写下“我的主张”，然后假装自己是最严酷的反对者或竞争对手的战略分析团队，以“恶魔代言人（Devil's Advocate）”的身份一人分饰两角撰写一份批判报告，即可达到相同的效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如何在逆向辩论中避免伤害对方的情感？</span>

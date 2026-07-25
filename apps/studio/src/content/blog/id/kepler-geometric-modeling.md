@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mata Pahat Model 3D alih-alih Rumus: Rutinitas 'Visualisasi Spasial Haptik' dan Aktivasi Lobus Parietal Johannes Kepler"
 description: "Pelajari bagaimana astronom abad ke-17 Johannes Kepler memahami orbit planet dengan memahat model geometris 3D dengan tangannya sendiri. Temukan neurosains visualisasi spasial haptik, stimulasi lobus parietal, dan pengurangan beban kognitif berlebih."
 pubDate: "2026-06-24"
@@ -33,25 +34,23 @@ Setiap kali kemajuannya terhenti di tengah rumus dua dimensi yang rumit, Kepler 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai kepler-geometric-modeling didasarkan pada <strong>Verifikasi Historis dari *Mysterium Cosmographicum* (1596) karya Johannes Kepler, Arsip Kepler & Penelitian Neurosains Kognitif serta Kognisi Spasial</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Mysterium Cosmographicum* (1596) karya Johannes Kepler, Arsip Kepler & Penelitian Neurosains Kognitif serta Kognisi Spasial</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Spasial Lobus Parietal dan Meredakan Beban Kognitif Berlebih Prefrontal
+## 1. Stimulasi Spasial Lobus Parietal dan Meredakan Beban Kognitif Berlebih Prefrontal
 
 Mencoba memproses hukum spasial yang rumit atau arsitektur sistem murni melalui rumus mental abstrak menuntut memori kerja secara berlebihan, memicu <strong>Kelelahan Kognitif Berlebih (Cognitive Overload)</strong>. Memanipulasi objek 3D secara fisik menstimulasi <strong>Lobus Parietal</strong>. Memproses <strong>Masukan Haptik (Haptic Input)</strong> bersama dengan umpan balik visual mengubah data abstrak menjadi struktur spasial intuitif, meningkatkan <strong>Penalaran Spasial</strong>.
 
 ---
 
-## Perhatian: Beralih dari Hambatan Mental Abstrak ke Manipulasi Objek Fisik Multi-Sensorik
-
-Saat menghadapi hambatan mental saat memetakan arsitektur perangkat lunak yang rumit, pipa bisnis, atau desain sistem, hindari memaksakan penalaran abstrak. Matikan monitor dan manipulasi catatan tempel, blok fisik, atau kartu indeks langsung di meja Anda; mengubah dimensi spasial membuka pemecahan masalah intuitif.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Saat menghadapi hambatan mental saat memetakan arsitektur perangkat lunak yang r
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Beralih dari Hambatan Mental Abstrak ke Manipulasi Objek Fisik Multi-Sensorik
+
+Saat menghadapi hambatan mental saat memetakan arsitektur perangkat lunak yang rumit, pipa bisnis, atau desain sistem, hindari memaksakan penalaran abstrak. Matikan monitor dan manipulasi catatan tempel, blok fisik, atau kartu indeks langsung di meja Anda; mengubah dimensi spasial membuka pemecahan masalah intuitif.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Struktur geometris spesifik apa yang dipahat Johannes Kepler untuk modelnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Saat menghadapi hambatan mental saat memetakan arsitektur perangkat lunak yang r
       Kepler memahat model dari lima Platonic solids (tetrahedron, kubus, oktahedron, dodekahedron, ikosahedron) yang bersarang secara berurutan di dalam cangkang bola konsentris yang mewakili orbit planet. Model fisik ini memungkinkannya memverifikasi proporsi spasial di antara jarak planet.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara melatih rutinitas ini dengan mudah jika saya tidak memiliki blok 3D atau model fisik?</span>

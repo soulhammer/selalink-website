@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Filosofía de Gestión en la Punta del Pincel: El Ritual de Caligrafía Matutina y Activación Motora de Lee Byung-chul"
 description: "Descubra cómo Lee Byung-chul, fundador de Samsung, afinaba su claridad estratégica con su ritual de caligrafía matutina. Explore la ciencia del control motor fino, la activación de la corteza motora primaria, la relajación autonómica y un guía de 3 pasos."
 pubDate: "2026-05-25"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia del control motor y la neurocie
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre lee-morning-calligraphy se basa en <strong>Verificación Histórica de la Autobiografía de Ho-Am *Ho-Am Jajeon*, Archivos del Grupo Samsung e Investigación en Neurociencia Cognitiva y Ciencia del Control Motor</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Ho-Am *Ho-Am Jajeon*, Archivos del Grupo Samsung e Investigación en Neurociencia Cognitiva y Ciencia del Control Motor</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación de la Corteza Motora Primaria y Relajación del Sistema Nervioso Autónomo Prefrontal
+## 1. Activación de la Corteza Motora Primaria y Relajación del Sistema Nervioso Autónomo Prefrontal
 
 A diferencia de un bolígrafo rígido, la caligrafía requiere un ajuste de precisión de la tensión de las cerdas, la velocidad y la presión. Esta tarea involucra intensamente las redes de la <strong>Corteza Motora Primaria</strong> y el <strong>Cerebelo</strong>, suprimiendo las distracciones cognitivas. Además, la retroalimentación multisensorial (fricción táctil y visión del trazo) calma el <strong>Sistema Nervioso Autónomo</strong> y activa el control ejecutivo en la <strong>Corteza Prefrontal</strong>, permitiendo estructurar decisiones estratégicas con serenidad.
 
 ---
 
-## Precaución: Elimine el Perfeccionismo Caligráfico para Centrarse en el Flujo Sensoriomotor
-
-Preocuparse por la perfección estética o la calidad artística de los trazos activa redes de autocrítica, reduciendo la relajación neurobiológica. Esta rutina no es un examen artístico, sino un proceso de atención plena sensoriomotora centrado en la presión del pincel. Ignore pequeñas imperfecciones y sumerja su conciencia en la sensación física del trazo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Preocuparse por la perfección estética o la calidad artística de los trazos a
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine el Perfeccionismo Caligráfico para Centrarse en el Flujo Sensoriomotor
+
+Preocuparse por la perfección estética o la calidad artística de los trazos activa redes de autocrítica, reduciendo la relajación neurobiológica. Esta rutina no es un examen artístico, sino un proceso de atención plena sensoriomotora centrado en la presión del pincel. Ignore pequeñas imperfecciones y sumerja su conciencia en la sensación física del trazo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué herramientas domésticas puedo utilizar si no tengo equipo de caligrafía tradicional?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Preocuparse por la perfección estética o la calidad artística de los trazos a
       Las plumas estilográficas, plumas de inmersión o un lápiz de grafito con papel grueso son sustitutos ideales. La clave es la percepción en tiempo real de la fricción táctil y la modulación de la presión. Cualquier instrumento con retroalimentación haptíca clara ofrece los mismos beneficios.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Por qué es mejor practicar esta rutina de caligrafía justo al despertar por la mañana en lugar de por la noche?</span>

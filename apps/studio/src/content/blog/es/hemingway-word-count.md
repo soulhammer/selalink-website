@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Registrar el Recuento Diario de Palabras en un Gráfico: La Rutina de Registro Cuantitativo y Recompensa de Dopamina de Ernest Hemingway"
 description: "Descubra cómo el premio Nobel Ernest Hemingway registraba el recuento diario de palabras en un gráfico de pared. Explore la neurociencia del automonitoreo, los circuitos de recompensa de dopamina y la activación prefrontal."
 pubDate: "2026-02-05"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás del 'reg
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre hemingway-word-count se basa en <strong>Verificación Histórica de *París era una fiesta (A Moveable Feast)* de Ernest Hemingway, Entrevista de George Plimpton (*Paris Review*, 1958) e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *París era una fiesta (A Moveable Feast)* de Ernest Hemingway, Entrevista de George Plimpton (*Paris Review*, 1958) e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Automonitoreo y Neurociencia del Circuito de Recompensa de Dopamina
+## 1. Automonitoreo y Neurociencia del Circuito de Recompensa de Dopamina
 
 Registrar y monitorear cuantitativamente los comportamientos se conoce como <strong>Automonitoreo (Self-Monitoring)</strong>. Cuando el progreso se cuantifica visualmente, el cerebro recibe retroalimentación inmediata, activando el <strong>Circuito de Recompensa de Dopamina</strong>. Registrar el rendimiento diario convierte el esfuerzo abstracto en un logro visible, indicando a la <strong>Corteza Prefrontal</strong> que genere motivación intrínseca para continuar. Hemingway aprovechó este bucle de dopamina para mantener un ritmo de escritura inquebrantable.
 
 ---
 
-## Precaución: Priorice el Acto de Registrar Diariamente con Honestidad sobre el Volumen
-
-El esfuerzo vago conduce a resultados vagos. La corteza prefrontal activa el autocontrol solo cuando observa el rendimiento con cifras exactas. Sin importar si los números son altos o bajos, concéntrese en dejar una marca honesta en su gráfico cada día para mantener el impulso.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El esfuerzo vago conduce a resultados vagos. La corteza prefrontal activa el aut
   </p>
 </div>
 
+---
+
+## 3. Precaución: Priorice el Acto de Registrar Diariamente con Honestidad sobre el Volumen
+
+El esfuerzo vago conduce a resultados vagos. La corteza prefrontal activa el autocontrol solo cuando observa el rendimiento con cifras exactas. Sin importar si los números son altos o bajos, concéntrese en dejar una marca honesta en su gráfico cada día para mantener el impulso.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Ernest Hemingway registraba su recuento diario de palabras en un gráfico?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El esfuerzo vago conduce a resultados vagos. La corteza prefrontal activa el aut
       Hemingway registraba su producción para evitar el autoengaño y monitorear visualmente su progreso real, imponiendo disciplina en su trabajo. Las cifras visibles activaban su sistema de dopamina, facilitando el enfoque para la siguiente sesión.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Esta rutina de registro es efectiva para tareas laborales o estudio académico más allá de la escritura?</span>

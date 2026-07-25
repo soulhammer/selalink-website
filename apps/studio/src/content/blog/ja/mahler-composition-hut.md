@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "完璧な 孤立の力：グスタフ・マーラーの作曲小屋ルーティン"
 description: "毎年夏、アルプスの森の小屋身を隔離し、壮大な交響曲を創作した作曲家グスタフ・マーラー。 外部の刺激を遮断し、脳を「ディープ・ワーク（Deep Work）」状態へ導く没入の空間心理学を紐解きます。"
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「mahler-composition-hut」は <strong>グスタフ・マーラーの作曲小屋（Composition Hut）に関する歴史的記録の考証および認知神経科学研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>グスタフ・マーラーの作曲小屋（Composition Hut）に関する歴史的記録の考証および認知神経科学研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 不要な刺激の遮断による前頭葉の利用可能容量の極大化
+## 1. 不要な刺激の遮断による前頭葉の利用可能容量の極大化
 
 現代人はデジタル通知、騒音、会話など極端な情報過多に悩まされています。前頭葉は these 不必要な刺激を抑制・ろ過するために莫大な認知エネルギーを消費します。マーラーが構築した物理的隔離は、この「抑制的認知負荷（Inhibitory Cognitive Load）」を根本的に除去します。静寂な自然環境は脳のドパミン系を安定させてストレスを軽減し、前頭葉の作業記憶（Working Memory）リソースを複雑な構造構想と直感へ100%集中させます。
 
 ---
 
-## 注意事項およびヒント
-
-完全な隔離がもたらす副作用は、社会的孤立感とそれに伴う思考の停滞です。他者とのコミュニケーションがないまま長期間孤立すると、視野が狭くなり鬱感を引き起こす可能性があります。そのため、隔離作業は1日最大3〜4時間程度に制限して高密度のディープ・ワーク時間として活用し、作業終了後は日常の社会関係や会話へ戻る感情的バランス（Integration）を維持すべきです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     隔離没入が終わったらすぐに軽い散歩や休憩をとり、脳がデフォルト・モード・ネットワーク（DMN）状態に切り替わりアイデアが整理されるよう誘導します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびヒント
+
+完全な隔離がもたらす副作用は、社会的孤立感とそれに伴う思考の停滞です。他者とのコミュニケーションがないまま長期間孤立すると、視野が狭くなり鬱感を引き起こす可能性があります。そのため、隔離作業は1日最大3〜4時間程度に制限して高密度のディープ・ワーク時間として活用し、作業終了後は日常の社会関係や会話へ戻る感情的バランス（Integration）を維持すべきです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

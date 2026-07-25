@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "극도의 침묵 속에서 걸작을 낳다: 프란츠 카프카의 한밤중 집필 루틴과 전두엽 하향 조절"
 description: "20세기 문학의 거장 프란츠 카프카. 낮의 소음과 피로를 피해 밤 11시부터 새벽까지 창작에 몰입했던 그의 집필 습관과 전두엽 하향 조절(Frontal Down-regulation), 작업 기억 몰입의 뇌과학적 원리를 소개합니다."
 pubDate: "2026-04-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>막스 브로트 『프란츠 카프카 평전(Franz Kafka: Eine Biographie)』 및 일기 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 kafka-late-night-writing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>막스 브로트 『프란츠 카프카 평전(Franz Kafka: Eine Biographie)』 및 일기 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 전두엽 하향 조절(Frontal Down-regulation)과 극단적 정적의 몰입 뇌과학
+## 1. 전두엽 하향 조절(Frontal Down-regulation)과 극단적 정적의 몰입 뇌과학
 
 낮 동안 우리의 전두엽은 사회적 규범과 논리적 이성, 그리고 주의 집중에 필요한 인지 에너지를 활발히 소모합니다. 그러나 에너지가 고갈된 늦은 밤이 되면 전두엽의 강력한 통제 필터가 일시적으로 약화되는데, 이를 인지과학에서는 <strong>'전두엽 하향 조절(Frontal Down-regulation)'</strong> 상태라고 합니다. 통제가 풀린 뇌는 이성적인 억압에서 벗어나 평소에는 접근하기 힘들었던 감정의 심연, 무의식적 연상, 독창적인 창의성을 거침없이 뿜어냅니다. 카프카가 어두운 밤에 기괴하면서도 깊은 울림을 주는 명작들을 쓸 수 있었던 생리적 원동력이 바로 여기에 있습니다. 또한, 한밤중의 완벽한 물리적 침묵은 <strong>작업 기억(Working Memory)</strong>을 교란하는 외부 소음 자극을 원천 차단하여, 뇌가 단 하나의 화두에 극도로 몰입할 수 있는 최적의 신경화학적 환경을 조성합니다.
 
 ---
 
-## 수면 패턴 파괴 없이 정적 골든아워를 확보하는 수칙
-
-카프카처럼 늦은 밤에 무작정 깨어있는 행동은 만성 수면 부족과 건강 악화를 초래할 수 있습니다. 본 루틴의 핵심은 밤샘이 아니라, 단 1시간이라도 외부 소음과 시각적 자극이 완벽히 차단된 정적의 환경을 의도적으로 만드는 데 있습니다. 무리하게 밤을 새우기보다 소음 차단 헤드폰을 사용하거나 기상 직후 이른 아침 시간을 활용해 자신만의 정적 골든아워를 설계하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 수면 패턴 파괴 없이 정적 골든아워를 확보하는 수칙
+
+카프카처럼 늦은 밤에 무작정 깨어있는 행동은 만성 수면 부족과 건강 악화를 초래할 수 있습니다. 본 루틴의 핵심은 밤샘이 아니라, 단 1시간이라도 외부 소음과 시각적 자극이 완벽히 차단된 정적의 환경을 의도적으로 만드는 데 있습니다. 무리하게 밤을 새우기보다 소음 차단 헤드폰을 사용하거나 기상 직후 이른 아침 시간을 활용해 자신만의 정적 골든아워를 설계하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>카프카처럼 밤늦게 일하는 것이 수면 주기를 깨뜨리지 않을까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 무리한 밤샘은 건강을 해칠 수 있습니다. 이 루틴의 핵심은 '늦은 밤'이라는 시간대 자체보다 외부의 방해가 완전히 사라진 '극단적 정적의 1시간'을 확보하는 것입니다. 이를 위해 소음 차단 장치를 활용하거나 이른 아침 시간을 대신 활용하는 것을 권장합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>밤시간이 아닌 낮에 이 카프카식 정적 몰입법을 실천하려면 어떻게 하나요?</span>

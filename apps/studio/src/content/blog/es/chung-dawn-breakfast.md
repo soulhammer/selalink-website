@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Emoción de la Madrugada: La Rutina de Desayuno Familiar a las 5 AM y Caminata del Presidente Ju-Yung Chung"
 description: "Descubra cómo el fundador del Grupo Hyundai, Ju-Yung Chung, mantuvo el hábito de despertarse a las 4 AM y compartir el desayuno en familia. Explore los principios neurocientíficos de la actividad aeróbica matutina y el vínculo emocional para estabilizar el cortisol."
 pubDate: "2026-06-12"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre chung-dawn-breakfast se basa en <strong>Verificación Histórica de la Autobiografía de Ju-Yung Chung *Pruebas sí, derrotas no (Born of this Land)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Ju-Yung Chung *Pruebas sí, derrotas no (Born of this Land)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurofisiología de la Luz Matutina y la Caminata Combinada con la Regulación Emocional Social
+## 1. Neurofisiología de la Luz Matutina y la Caminata Combinada con la Regulación Emocional Social
 
 Despertarse a una hora constante y caminar al aire libre estimula las ipRGCs retinianas, suprimiendo la melatonina y normalizando la serotonina y el cortisol para eliminar la inercia del sueño. Al mismo tiempo, de 15 a 30 minutos de caminata aeróbica aumentan el flujo sanguíneo cerebral, activando la función ejecutiva prefrontal. Además, compartir el desayuno en familia activa la regulación emocional social, liberando oxitocina y equilibrando el sistema nervioso autónomo.
 
 ---
 
-## Precauciones y Consejos: Evitar Madrugar de Forma Obsesiva Sin Garantizar Horas de Sueño
-
-Madrugar de forma obsesiva no garantiza el éxito. Forzar un despertar temprano sin garantizar de 7 a 8 horas de sueño provoca agotamiento del sistema nervioso central y deterioro ejecutivo. Antes de adelantar su alarma matutina, controle estrictamente su horario nocturno para asegurar horas de sueño suficientes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Madrugar de forma obsesiva no garantiza el éxito. Forzar un despertar temprano 
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Evitar Madrugar de Forma Obsesiva Sin Garantizar Horas de Sueño
+
+Madrugar de forma obsesiva no garantiza el éxito. Forzar un despertar temprano sin garantizar de 7 a 8 horas de sueño provoca agotamiento del sistema nervioso central y deterioro ejecutivo. Antes de adelantar su alarma matutina, controle estrictamente su horario nocturno para asegurar horas de sueño suficientes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Las personas nocturnas deben despertarse estrictamente a las 4 AM o 5 AM como el presidente Chung?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Madrugar de forma obsesiva no garantiza el éxito. Forzar un despertar temprano 
       No. El pilar de esta rutina no es la cifra exacta de las 4 AM, sino aplicar la secuencia de 3 pasos —evitar la sobrecarga digital al despertar, tener interacciones positivas y caminar con luz natural— de forma constante según su propio horario (p. ej., 6:00 AM o 7:00 AM).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo adaptar esta rutina si vivo solo y no tengo familia con quien desayunar?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "马可·奥勒留的晨间日记：用斯多葛哲学平息杂念"
 description: "探索罗马皇帝马可·奥勒留如何在日出前撰写日记，从而化解极大压力并培养内心复原力的秘诀。"
 pubDate: "2026-05-22"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 marcus-aurelius-morning-journaling 的内容基于 <strong>马可·奥勒留《沉思录》与历史传记考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>马可·奥勒留《沉思录》与历史传记考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 晨间反思日记能够阻断压力的科学原理
+## 1. 晨间反思日记能够阻断压力的科学原理
 
 清晨醒来后立即书写能充当大脑的“认知过滤器”。将模糊的焦虑与对当天琐事的心情担忧倾倒于纸上，能够在激活主导理性的前额叶皮层的同时，迅速平息主导情绪与生存本能的杏仁核的过度焦虑反应。这种认知重塑有助于使皮质醇分泌恢复正常，提升大脑的掌控力，让您以沉着冷静的心态担负起当天的职责。
 
 ---
 
-## 开展有效斯多葛日记书写的准则
-
-请摒弃给他人看的华丽修辞，书写必须彻底做到面向自我的真实与坦诚。对自己的软弱或过失进行客观记录，同时建议使用第二人称（称呼自己为“你”）。这种表达方式能创造出“认知心理距离（Cognitive Distance）”，助您以第三者的视角更加冷静客观地审视自身行为。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 开展有效斯多葛日记书写的准则
+
+请摒弃给他人看的华丽修辞，书写必须彻底做到面向自我的真实与坦诚。对自己的软弱或过失进行客观记录，同时建议使用第二人称（称呼自己为“你”）。这种表达方式能创造出“认知心理距离（Cognitive Distance）”，助您以第三者的视角更加冷静客观地审视自身行为。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>早上时间太紧没空写日记怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       即便偶尔遗漏一天，也完全不必自责。内疚与自责是斯多葛哲学主张避开的无谓痛苦。若时间实在紧迫，在手机备忘录里写下一句“绝不为今日的难关所动摇”便已足够。核心在于心态上的连贯性。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>这与普通的感恩日记或晨间日记有何不同？</span>

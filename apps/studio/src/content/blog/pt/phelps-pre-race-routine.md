@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como apagar a pressão: A rotina hipercognitiva de 2 horas pré-prova de Michael Phelps"
 description: "A rotina comportamental ultraprecisa executada antes de cada prova por Michael Phelps, o atleta olímpico mais decorado da história. Descubra os princípios científicos de como procedimentos controlados previnem a tensão e a ansiedade cerebrais."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ Neste artigo, exploramos a neurociência por trás da 'Rotina Hipercognitiva de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre phelps-pre-race-routine é baseada em <strong>Verificação de biografias históricas e registros autobiográficos de Michael Phelps e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas e registros autobiográficos de Michael Phelps e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## A ciência de como rotinas prévias ultraprecisas acalmam a ansiedade cerebral
+## 1. A ciência de como rotinas prévias ultraprecisas acalmam a ansiedade cerebral
 
 Antes de uma competição ou apresentação, o estado mais perigoso para o cérebro é a 'incerteza' e a ansiedade decorrente. Em ambientes imprevisíveis, a <strong>amígdala</strong>, centro de alerta emocional do cérebro, superaquece e libera hormônios do estresse. Contudo, executar um conjunto de ações físicas totalmente controlável e repetido centenas de vezes faz o cérebro perceber que está no controle, reduzindo a hiperatividade da amígdala e otimizando a secreção de adrenalina.
 
 ---
 
-## Precauções e dicas
-
-Observe que esta rotina não é uma superstição ou amuleto mágico. Michael Phelps construiu conexões sinápticas sólidas entre sua rotina e o relaxamento físico por meio de um longo <strong>treinamento mecânico e repetição</strong>. Portanto, não desanime se falhar no início; a prática consistente é essencial para consolidar sua rotina pessoal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Observe que esta rotina não é uma superstição ou amuleto mágico. Michael Ph
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Observe que esta rotina não é uma superstição ou amuleto mágico. Michael Phelps construiu conexões sinápticas sólidas entre sua rotina e o relaxamento físico por meio de um longo <strong>treinamento mecânico e repetição</strong>. Portanto, não desanime se falhar no início; a prática consistente é essencial para consolidar sua rotina pessoal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

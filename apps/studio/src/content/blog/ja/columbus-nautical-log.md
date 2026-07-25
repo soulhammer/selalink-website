@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "大航海時代を開いた船長：コロンブスの夜間航海日誌記録と扁桃体鎮静ルーティン"
 description: "未知の大西洋を越えた探検家コロンブスが嵐と恐怖の中でも毎日夜航海日誌を記録し極度の理性的安定を維持したルーティン。夜間の定量日誌作成が扁桃体（Amygdala）を鎮静させ前頭前野制御網を稼働させる認知神経科学的原理を解き明かします。"
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「columbus-nautical-log」は <strong>バルトロメ・デ・ラス・カサス編纂『The Diario of Christopher Columbus』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>バルトロメ・デ・ラス・カサス編纂『The Diario of Christopher Columbus』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 夜間定量日誌作成による扁桃体（Amygdala）鎮静と前頭前野転換
+## 1. 夜間定量日誌作成による扁桃体（Amygdala）鎮静と前頭前野転換
 
 曖昧で統制不可能な未来に対する不安感は、大脳辺縁系の恐怖中枢である扁桃体（Amygdala）を過剰活性化させ、交感神経を刺激して心拍数の増加、不眠症、パニック（Panic）状態を引き起こします。コロンブスのようにその日発生した具体的なファクトと集量的数値データ（完了項目、残余課題、方向指標）を手書きで直接記録する「夜間航海日誌」作成は、脳の主導権を感情脳（辺縁系）から理性脳である外側前頭前野皮質（DLPFC）へと強制移管する最高効率の神経学的スイッチです。不安の対象を明確な可視的数値へと加工する過程で扁桃体の信号が遮断されて心理的安定感が訪れ、睡眠中の大脳記憶整理がスムーズになります。
 
 ---
 
-## 注意事項＆ヒント：感情的な愚痴の排除と客観的指標・数値の記載
-
-夜間航海日誌ルーティンの核心は、感情の主観性を徹底的に「客観化」することにあります。就寝前に手帳に「今日とても辛くて不安だった」というような主観的な愚痴や否定的な感情を繰り返し書くと、脳は扁桃体を再刺激して否定的な脳波を浮き上がらせ、不眠症を悪化させます。感情的な描写は排除し、「今日の目標量5個のうち4個完了」、「進捗率80％」、「明日開始する優先課題1個」のように、ただ数値化されたファクトと指標のみを記載してこそ、前頭前野制御回路が稼働します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：感情的な愚痴の排除と客観的指標・数値の記載
+
+夜間航海日誌ルーティンの核心は、感情の主観性を徹底的に「客観化」することにあります。就寝前に手帳に「今日とても辛くて不安だった」というような主観的な愚痴や否定的な感情を繰り返し書くと、脳は扁桃体を再刺激して否定的な脳波を浮き上がらせ、不眠症を悪化させます。感情的な描写は排除し、「今日の目標量5個のうち4個完了」、「進捗率80％」、「明日開始する優先課題1個」のように、ただ数値化されたファクトと指標のみを記載してこそ、前頭前野制御回路が稼働します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>スマートフォンのメモアプリやデジタルプランナーに書いても、コロンブスの扁桃体鎮静効果は同じですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ。紙に直接手書きで書く物理的な触覚刺激は、大脳運動皮質と体性感覚皮質を同時に刺激し、前頭前野の認知統制力をはるかに強力に稼働させます。また、スマートフォンの画面のブルーライトはメラトニン分泌を抑制して睡眠を妨げるため、アナログの紙の手帳を使用することが不可欠です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>あまりにも疲れていて夜に日誌を書けずにすぐ寝てしまいそうな日にはどうしますか？</span>

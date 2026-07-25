@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Morning Mirror Secret for Recharging Confidence: Muhammad Ali's Positive Affirmation Routine"
 description: "Muhammad Ali, the greatest boxer of the century. Discover the neuroscientific effects and 3-step mindset routine of mirror positive affirmations—the secret behind overcoming severe performance anxiety before fights to become a champion."
 pubDate: "2026-01-26"
@@ -38,22 +39,20 @@ In today's post, we introduce the sports psychological principles behind Muhamma
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding ali-positive-affirmation is based on <strong>Verification from Muhammad Ali's Autobiography *The Greatest: My Own Story* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Verification from Muhammad Ali's Autobiography *The Greatest: My Own Story* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Power of Self-Declaration That Activates the Brain's Reward System
+## 1. The Power of Self-Declaration That Activates the Brain's Reward System
 
 When we feel anxious or lack confidence, the brain secretes excess cortisol—a stress hormone—reducing our ability to cope with crises. According to neuroscience, shouting positive affirmations aloud while looking in the mirror stimulates the brain's <strong>'Medial Prefrontal Cortex'</strong> and reward system. This self-affirmation declaration tunes the brain to be less sensitive to threatening information, awakens self-efficacy, and increases stress resilience. The moment you call yourself the greatest, your brain actually begins preparing to activate physical and mental energy aligned with that value.
 
 ---
 
-## Declare Firmly in the Present Tense, Not as a Mere Wish
-
-For positive affirmations to stimulate the brain's subconscious, linguistic structure is key. A wishing tone such as 'I want to become...' can highlight a state of deficiency to the brain. Just as Muhammad Ali asserted 'I am the greatest,' you must firmly declare to yourself in present-tense sentences that define an accomplished state or clear capacity—such as 'I have the ability to achieve my goals'—for true cognitive transformation to occur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ For positive affirmations to stimulate the brain's subconscious, linguistic stru
   </p>
 </div>
 
+---
+
+## 3. Declare Firmly in the Present Tense, Not as a Mere Wish
+
+For positive affirmations to stimulate the brain's subconscious, linguistic structure is key. A wishing tone such as 'I want to become...' can highlight a state of deficiency to the brain. Just as Muhammad Ali asserted 'I am the greatest,' you must firmly declare to yourself in present-tense sentences that define an accomplished state or clear capacity—such as 'I have the ability to achieve my goals'—for true cognitive transformation to occur.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>It feels awkward because it feels like lying to myself that I am the greatest.</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ For positive affirmations to stimulate the brain's subconscious, linguistic stru
       It is natural to feel awkward at first due to Cognitive Dissonance. The key is not verifying current factual truth, but opening new possibilities for your brain. As you repeat this, neuroplasticity will reorganize neural circuits, causing the awkwardness to vanish and solidify into belief.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it effective only if I shout it loudly out loud?</span>

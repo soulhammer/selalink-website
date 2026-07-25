@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bloqué dans l'écriture ? Changez de machine à écrire ! La routine de basculement multitâche d'Isaac Asimov"
 description: "La routine de basculement multitâche du maître de la science-fiction Isaac Asimov, auteur de plus de 500 livres. Découvrez le secret en 3 étapes pour surmonter la fatigue de la focalisation unique et bénéficier de l'effet de nouveauté."
 pubDate: "2026-05-26"
@@ -33,17 +34,17 @@ Dans l'article d'aujourd'hui, nous vous proposons de découvrir les principes de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant asimov-project-switching est basée sur <strong>Vérification Historique issue de l'autobiographie d'Isaac Asimov *I, Asimov: A Memoir* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie d'Isaac Asimov *I, Asimov: A Memoir* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Changement de Contexte et Effet de Nouveauté : Récupération de la Fatigue par Région Cérébrale
+## 1. Changement de Contexte et Effet de Nouveauté : Récupération de la Fatigue par Région Cérébrale
 
 Selon les recherches en psychologie cognitive et en mémoire de travail, s'attarder longtemps sur une seule tâche amène le cerveau à suractiver uniquement des réseaux neuronaux spécifiques, provoquant une stagnation cognitive. Si vous forcez le cerveau pendant le blocage de l'écrivain (Writer's Block) qui en résulte, du cortisol est sécrété, diminuant drastiquement l'efficacité cognitive.
 
@@ -51,9 +52,7 @@ En revanche, si vous effectuez un changement de contexte (Context Switching) ver
 
 ---
 
-## Conseil neuroscientifique pour un basculement d'attention efficace
-
-Lorsque vous bloquez sur une tâche, s'y accrocher inconditionnellement jusqu'au bout n'est pas la seule vertu. Les neurones du cerveau ont également besoin d'un travail en équipe selon les régions. Surmontez avec souplesse les périodes de stagnation grâce à un changement de contexte intelligent en alternant entre la rédaction d'e-mails secondaires ou la création d'un projet totalement différent.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Lorsque vous bloquez sur une tâche, s'y accrocher inconditionnellement jusqu'au
     Bloquez cognitivement la fatigue du travail antérieur grâce à l'effet de nouveauté de la tâche nouvellement abordée. Le cerveau bénéficie d'un effet de repos suffisant et maintient une immersion fluide non seulement en s'arrêtant de travailler, mais simplement en « activant une zone différente ».
   </p>
 </div>
+
+---
+
+## 3. Conseil neuroscientifique pour un basculement d'attention efficace
+
+Lorsque vous bloquez sur une tâche, s'y accrocher inconditionnellement jusqu'au bout n'est pas la seule vertu. Les neurones du cerveau ont également besoin d'un travail en équipe selon les régions. Surmontez avec souplesse les périodes de stagnation grâce à un changement de contexte intelligent en alternant entre la rédaction d'e-mails secondaires ou la création d'un projet totalement différent.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

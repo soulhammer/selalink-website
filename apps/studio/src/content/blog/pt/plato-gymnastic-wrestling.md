@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Um filósofo que treinou os ombros antes de buscar as Ideias? O aquecimento físico de alta intensidade de Platão"
 description: "O antigo filósofo grego Platão era conhecido por seu apelido de lutador 'ombros largos' em vez de seu nome verdadeiro. Descubra os princípios neurocientíficos e os métodos modernos de treino em casa por trás de sua rotina diária de exercícios intensos antes das discussões intelectuais."
 pubDate: "2026-03-05"
@@ -29,25 +30,23 @@ Platão, o grande filósofo que lançou as bases da filosofia ocidental, articul
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre plato-gymnastic-wrestling é baseada em <strong>Biografias históricas e escritos sobre Platão & pesquisa em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e escritos sobre Platão & pesquisa em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Maximização do fluxo sanguíneo cerebral e liberação de BDNF através do treino de resistência
+## 1. Maximização do fluxo sanguíneo cerebral e liberação de BDNF através do treino de resistência
 
 De acordo com a fisiologia do exercício e a ciência cognitiva modernas, o treino de resistência de alta intensidade (como agachamentos ou flexões) aumenta imediatamente o fluxo sanguíneo cerebral e a saturação de oxigênio. Essa ativação fisiológica desencadeia uma rápida liberação do Fator Neurotrófico Derivado do Cérebro (BDNF), uma proteína essencial que promove a neurogênese e a plasticidade sináptica. Simultaneamente, libera dopamina e noradrenalina, criando um ambiente ideal logo após o exercício para formação de memória e raciocínio abstrato.
 
 ---
 
-## Dicas para prevenção de lesões e tempo de transição
-
-Iniciar um exercício de alta intensidade logo após acordar sem aquecer pode sobrecarregar as articulações e os ligamentos. Sempre aqueça as articulações com alongamentos leves antes de exercícios com o peso do corpo. Além disso, descansar mais de 15 minutos após o exercício diminui os benefícios do pico de fluxo sanguíneo cerebral; por isso, transite para o trabalho mental complexo dentro de 5 minutos após a respiração normalizar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ Iniciar um exercício de alta intensidade logo após acordar sem aquecer pode so
   </p>
 </div>
 
+---
+
+## 3. Dicas para prevenção de lesões e tempo de transição
+
+Iniciar um exercício de alta intensidade logo após acordar sem aquecer pode sobrecarregar as articulações e os ligamentos. Sempre aqueça as articulações com alongamentos leves antes de exercícios com o peso do corpo. Além disso, descansar mais de 15 minutos após o exercício diminui os benefícios do pico de fluxo sanguíneo cerebral; por isso, transite para o trabalho mental complexo dentro de 5 minutos após a respiração normalizar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Esta rotina é adequada para iniciantes com articulações fracas ou sem experiência em exercícios de resistência?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ Iniciar um exercício de alta intensidade logo após acordar sem aquecer pode so
       Sim, não há necessidade de levantar pesos pesados. Adapte os exercícios ao seu nível usando flexões na parede, agachamentos lentos ou pranchas suaves. O indicador fisiológico para aumentar o fluxo sanguíneo cerebral é 'respiração acelerada e leve suor', portanto ajuste a intensidade com segurança.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Posso substituir o treino de força por exercício aeróbico leve como corrida ou trote?</span>

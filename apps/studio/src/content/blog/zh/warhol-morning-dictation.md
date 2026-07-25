@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "创作的置空与白纸化：安迪·沃霍尔每日清晨口述日记习惯"
 description: "安迪·沃霍尔每天早晨给秘书打电话，口述昨天的日程与细致到分钱的开销。揭示清晨口述倾倒如何卸下认知重担并重置注意力焦点的科学机制。"
 pubDate: "2026-05-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 warhol-morning-dictation 的内容基于 <strong>安迪·沃霍尔历史传记与考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>安迪·沃霍尔历史传记与考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过言语倾倒重置工作记忆与认知负荷外化
+## 1. 通过言语倾倒重置工作记忆与认知负荷外化
 
 大脑的工作记忆（Working Memory）在短时间内处理信息的容量是极其有限的。如果昨天的未决琐事、对话残音或小额花销挂念留在脑海中，就会侵占今天的认知资源。像沃霍尔那样在清晨“口述并记录于外部介质”的行为，完美地促进了认知科学中的<strong>认知负荷外化（Cognitive Offloading）</strong>。在言语叙述的过程中，记忆被系统化并物理转移至外部存储中，使大脑能够将剩余的认知容量完全保留给今天面对的新艺术创作。
 
 ---
 
-## 注意事项与提示
-
-进行口述日记 routines 时应避免的误区是试图表达得像演讲或文章一样精炼严密。一旦把注意力集中在语法或流畅度上，大脑就会将其视作另一项复杂的工作任务，从而丧失认知倾倒效果。关键在于保持头脑风暴倾倒（Brain Dump）的态度，像自言自语一样无拘无束、快速倾吐。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示
+
+进行口述日记 routines 时应避免的误区是试图表达得像演讲或文章一样精炼严密。一旦把注意力集中在语法或流畅度上，大脑就会将其视作另一项复杂的工作任务，从而丧失认知倾倒效果。关键在于保持头脑风暴倾倒（Brain Dump）的态度，像自言自语一样无拘无束、快速倾吐。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>没有私人秘书的现代人该如何践行每日清晨的电话式口述？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       建议开启手机的“语音转文字（STT）”功能或AI笔记应用，用5分钟时间将昨天的经历或今天的心理负担像“大脑倾倒（Brain Dumping）”一样大声说出来并自动转为文字。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>口述时主要倾诉哪些内容最有助于提升生产力？</span>

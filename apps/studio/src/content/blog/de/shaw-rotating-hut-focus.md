@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Isolierung für perfekte Immersion: George Bernard Shaws Gewohnheit der rotierenden Schreibhütte"
 description: "Der Dramatiker Bernard Shaw gewann sowohl den Nobelpreis als auch den Oscar. Entdecken Sie sein Geheimnis für tiefe Konzentration: Er schloss sich täglich 6 Stunden in einer kleinen rotierenden Gartenhütte ein, nutzte das Tageslicht und blockierte jede Ablenkung."
 pubDate: "2026-02-27"
@@ -29,25 +30,23 @@ George Bernard Shaw, der Nobelpreisträger und Dramatiker, der für Werke wie 'P
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu shaw-rotating-hut-focus basiert auf <strong>Historische Biografien, autobiografische Aufzeichnungen zu Shaws rotierender Hütte & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien, autobiografische Aufzeichnungen zu Shaws rotierender Hütte & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Tageslichtexposition und Minimierung kognitiver Wechselkosten (Switching Cost)
+## 1. Tageslichtexposition und Minimierung kognitiver Wechselkosten (Switching Cost)
 
 Die kontinuierliche Exposition gegenüber natürlichem Tageslicht stimuliert die Sehnervenzellen der Netzhaut und maximiert die Serotoninsynthese, die die Wachheit fördert – ein Effekt, den künstliche Innenbeleuchtung nicht erzeugen kann. Wenn das Gehirn durch kleine Störungen (Fragen, Anrufe, Klopfen) unterbrochen wird, verbraucht es erhebliche Energie (Wechselkosten), um den Kontext des Arbeitsgedächtnisses neu auszurichten. Die Unterbringung des Gehirns in einem physisch isolierten Raum wie Shaws rotierender Hütte eliminiert kognitive Störungen an der Quelle, verhindert den Verlust des Arbeitsgedächtnisses und ermöglicht stundenlanges tiefes Arbeiten (Deep Work).
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Wichtig beim physischen Rückzug ist, dass Sie keine Smartphones oder Social-Media-Benachrichtigungen in den isolierten Bereich mitnehmen. Selbst wenn physische Barrieren externe Störungen abhalten, bleibt das Gehirn durch digitale Reize in der Hand gefangen und verfällt in den Zwang zum ständigen Prüfen von Nachrichten. Schalten Sie beim Betreten der Fokuszone alle Benachrichtigungen aus (Nicht-Stören-Modus) oder arbeiten Sie offline. Nur ein echter digitaler Detox in Kombination mit physischer Isolation brings den vollen Effekt der rotierenden Schreibhütte.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Wichtig beim physischen Rückzug ist, dass Sie keine Smartphones oder Social-Med
     Positionieren Sie Ihren Schreibtisch an einem Fenster, um volles Tageslicht zu nutzen. Natürliches Licht im Blickfeld fördert früh am Tag die Serotoninsynthese und gibt dem Gehirn Energie für anspruchsvolle Aufgaben.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Wichtig beim physischen Rückzug ist, dass Sie keine Smartphones oder Social-Media-Benachrichtigungen in den isolierten Bereich mitnehmen. Selbst wenn physische Barrieren externe Störungen abhalten, bleibt das Gehirn durch digitale Reize in der Hand gefangen und verfällt in den Zwang zum ständigen Prüfen von Nachrichten. Schalten Sie beim Betreten der Fokuszone alle Benachrichtigungen aus (Nicht-Stören-Modus) oder arbeiten Sie offline. Nur ein echter digitaler Detox in Kombination mit physischer Isolation brings den vollen Effekt der rotierenden Schreibhütte.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

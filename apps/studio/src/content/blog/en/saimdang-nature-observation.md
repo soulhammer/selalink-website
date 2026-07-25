@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Discovery of Creative Vision: Shin Saimdang's Ultra-Precise Nature Observation Routine"
 description: "The creativity training method of Joseon's top female artist Shin Saimdang through nature observation. Explains scientific grounds for how morning nature observation recovers attention and develops creative visual networks."
 pubDate: "2026-02-24"
@@ -36,22 +37,20 @@ In today's post, we examine Attention Restoration Theory and the scientific prin
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding saimdang-nature-observation is based on <strong>Historical biography and research on Shin Saimdang's Nature Observation & Cognitive Neuroscience studies</strong>.
+      This content is based on <strong>Historical biography and research on Shin Saimdang's Nature Observation & Cognitive Neuroscience studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Attention Restoration Theory and Brain Healing of 'Soft Fascination'
+## 1. Attention Restoration Theory and Brain Healing of 'Soft Fascination'
 
 According to Attention Restoration Theory in environmental psychology, 'Directed Attention' used in urban environments or on digital screens causes severe cognitive drain in the prefrontal cortex, leading to fatigue. Conversely, comfortably observing natural elements like blades of grass, flowers, or breeze enters a state of 'Soft Fascination'. This recharges the frontal lobe's cognitive battery and activates the creative visualization network, drawing fresh inspirations.
 
 ---
 
-## Saimdang's Advice for Recharging Inspiration and Mind
-
-Wise creativity does not spring forth by forcing your brain. Step away from your desk for a moment, quietly observe a blade of wild grass or a creeping insect, and give your brain a rest. In natural relaxation, the brain refills depleted energy and returns fresh inspiration.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Wise creativity does not spring forth by forcing your brain. Step away from your
     Return indoors and record the observed subject at least once a day using analog media—pencil sketches, brief written descriptions, or doodles—to internalize visual thinking.
   </p>
 </div>
+
+---
+
+## 3. Saimdang's Advice for Recharging Inspiration and Mind
+
+Wise creativity does not spring forth by forcing your brain. Step away from your desk for a moment, quietly observe a blade of wild grass or a creeping insect, and give your brain a rest. In natural relaxation, the brain refills depleted energy and returns fresh inspiration.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

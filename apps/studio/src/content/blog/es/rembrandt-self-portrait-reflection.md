@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El momento contemplándome en el espejo: La rutina de reflexión visual del autorretrato de Rembrandt"
 description: "Rembrandt van Rijn observó profundamente su proceso de envejecimiento de manera visual al pintar más de 80 autorretratos a lo largo de su vida. Revela los mecanismos neurológicos donde la reflexión visual, contemplando profundamente sus ojos y arrugas en el espejo, mejora la autoobjetivación y activa la red de regulación emocional del cerebro."
 pubDate: "2026-04-25"
@@ -34,22 +35,20 @@ Rembrandt van Rijn, un maestro pintor de la Edad de Oro holandesa, a menudo acla
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre rembrandt-self-portrait-reflection se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre la reflexión del autorretrato de Rembrandt e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre la reflexión del autorretrato de Rembrandt e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Auto-contemplación en el espejo y efecto autorreferencial de la Corteza Prefrontal Medial (mPFC)
+## 1. Auto-contemplación en el espejo y efecto autorreferencial de la Corteza Prefrontal Medial (mPFC)
 
 Contemplar profundamente los propios ojos en el espejo durante más de 3 minutos activa fuertemente la 'corteza prefrontal medial (mPFC)' del cerebro. Esta región rige el procesamiento autorreferencial, lo que permite percibir el 'yo puro' oculto detrás de las evaluaciones de otros o las máscaras sociales (personas). La imagen física de uno mismo que entra a través de la corteza visual reajusta el modelo de predicción emocional del cerebro, calmando las secreciones de neurotransmisores de estrés y sirviendo como una poderosa herramienta para restaurar la autocompasión y la homeostasia psicológica.
 
 ---
 
-## Precauciones y consejos
-
-Lo que más debe evitarse al realizar la reflexión en el espejo es 'evaluar y obsesionarse' con los defectos físicos (problemas de piel, arrugas, simetría, etc.). Comenzar a evaluar los defectos faciales activa nuevamente el filtro emocional negativo del cerebro, causando estrés. Al igual que Rembrandt, debe observar la luz y la sombra de todo el rostro, el brillo en sus ojos y el flujo de las expresiones faciales de manera imparcial y basada en hechos visuales, como si estuviera viendo la pintura de otra persona, para lograr una verdadera autoobjetivación.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Lo que más debe evitarse al realizar la reflexión en el espejo es 'evaluar y o
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos
+
+Lo que más debe evitarse al realizar la reflexión en el espejo es 'evaluar y obsesionarse' con los defectos físicos (problemas de piel, arrugas, simetría, etc.). Comenzar a evaluar los defectos faciales activa nuevamente el filtro emocional negativo del cerebro, causando estrés. Al igual que Rembrandt, debe observar la luz y la sombra de todo el rostro, el brillo en sus ojos y el flujo de las expresiones faciales de manera imparcial y basada en hechos visuales, como si estuviera viendo la pintura de otra persona, para lograr una verdadera autoobjetivación.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo parar si me siento extraño o deprimido al mirar el espejo continuamente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Lo que más debe evitarse al realizar la reflexión en el espejo es 'evaluar y o
       Sí. Si la distorsión del estado de ánimo o los sentimientos de depresión se intensifican, es posible que haya caído en un bucle de autocrítica, así que deténgase de inmediato. En su lugar, desvíese a un entrenamiento que verifique primero las sensaciones de conexión física a tierra (earthing) mirando la línea de los hombros o la forma de las manos en lugar de las pupilas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuál es el mejor momento del día para hacer la autorreflexión en el espejo?</span>

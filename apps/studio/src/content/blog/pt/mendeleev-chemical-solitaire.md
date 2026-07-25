@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O paciência dos elementos: A rotina de ordenação de cartas químicas de Mendeleiev"
 description: "Dmitri Mendeleiev completou a Tabela Periódica organizando cartas com propriedades químicas como um jogo de paciência. Descubra como a manipulação espacial física ativa o reconhecimento de padrões no cérebro."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ Neste artigo, analisamos a utilidade neurocientífica da rotina de paciência de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre mendeleev-chemical-solitaire é baseada em <strong>Pesquisa de biografias históricas e registros autobiográficos de Mendeleiev & estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de biografias históricas e registros autobiográficos de Mendeleiev & estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por que a disposição espacial e a manipulação física ativam o reconhecimento de padrões
+## 1. Por que a disposição espacial e a manipulação física ativam o reconhecimento de padrões
 
 Textos planos em telas são processados como dados bidimensionais, criando gargalos analíticos. Em contrapartida, dividir informações em cartas e disprô-las espacialmente ativa os lóbulos parietais responsáveis pelo posicionamento espacial. Por meio do tato e do feedback visual em 3D, o cérebro percebe distâncias relativas entre conceitos, detectando padrões ocultos.
 
 ---
 
-## Precauções e dicas
-
-Evite sobrecarregar uma única carta com detalhes excessivos; isso transforma a ferramenta em um texto denso, anulando o benefício espacial. Escreva apenas uma palavra-chave por carta para maximizar o bloco de rascunho viso-espacial do cérebro. Limite o conjunto de trabalho a 10–20 cartas por vez.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Evite sobrecarregar uma única carta com detalhes excessivos; isso transforma a 
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Evite sobrecarregar uma única carta com detalhes excessivos; isso transforma a ferramenta em um texto denso, anulando o benefício espacial. Escreva apenas uma palavra-chave por carta para maximizar o bloco de rascunho viso-espacial do cérebro. Limite o conjunto de trabalho a 10–20 cartas por vez.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

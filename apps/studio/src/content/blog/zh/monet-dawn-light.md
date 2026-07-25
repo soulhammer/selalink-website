@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在晨曦微光中雕琢艺术的光影大师：克劳德·莫奈的视觉预热习惯"
 description: "印象派绘画大师克劳德·莫奈每天凌晨3:30起床，凝视自然光的细微波长，以此提升视觉皮层色彩敏感度。探索他的“晨曦观察”习惯以及适合现代人的脑科学视神经唤醒法。"
 pubDate: "2026-03-31"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 monet-dawn-light 的内容基于 <strong>克劳德·莫奈历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>克劳德·莫奈历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 视网膜自感光神经节细胞（ipRGCs）与视觉对比敏感度（Contrast Sensitivity）的唤醒
+## 1. 视网膜自感光神经节细胞（ipRGCs）与视觉对比敏感度（Contrast Sensitivity）的唤醒
 
 日出前天空展现的蓝色波长自然光线强烈刺激着视网膜上的自感光神经节细胞（ipRGCs）。这会唤醒大脑中的视交叉上核（SCN），抑制褪黑素分泌并促使皮质醇正常释放，从而使大脑彻底清醒。同时，在微光中观察细微色调变化的视觉训练能极大提升视觉皮层的对比敏感度（Contrast Sensitivity）。经过此番预热的大脑将处于最佳状态，以最高水平发挥认知辨析力与结构化规划的创造力。
 
 ---
 
-## 玻璃窗过滤效应与户外暴露建议
-
-现代的多层涂层玻璃窗会反射并阻挡高达80%用于唤醒大脑的关键自然光波长。因此，与其隔着封闭的窗户待在室内，不如完全打开阳台的窗户接收直接光线，或者走进庭院或阳台，将身体完全置于清凉的晨气与日出光线之中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 玻璃窗过滤效应与户外暴露建议
+
+现代的多层涂层玻璃窗会反射并阻挡高达80%用于唤醒大脑的关键自然光波长。因此，与其隔着封闭的窗户待在室内，不如完全打开阳台的窗户接收直接光线，或者走进庭院或阳台，将身体完全置于清凉的晨气与日出光线之中。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>隔着房间里关闭的玻璃窗凝视室外晨曦是否具有相同效果？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       当玻璃窗关闭时，现代玻璃的涂层会过滤并反射高达80%用于唤醒大脑的关键蓝光与紫外线自然光波长。因此，为了充分刺激视网膜中的ipRGCs细胞并切实抑制褪黑素分泌，最好完全打开窗户接收直接穿透进来的光波，这能确保产生远为出色的生理效应。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在阴天或下雨的早晨观察晨曦是否依然有效？</span>

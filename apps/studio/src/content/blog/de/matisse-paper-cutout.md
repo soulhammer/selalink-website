@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Wunder der Schere im Bett: Henri Matisses Papierschnitt-Methode zur Schmerzlinderung"
 description: "Henri Matisse, einer der größten Meister der Kunstgeschichte. Entdecken Sie, wie er nach einer Krebsoperation im Alter vom Bett aus mit einer Schere Buntpapier schnitt, den Schmerz bezwang und Meisterwerke schuf, sowie die Neurowissenschaft hinter der visuell-taktilen Heilung."
 pubDate: "2026-05-17"
@@ -35,17 +36,17 @@ Im heutigen Beitrag untersuchen wir die Wissenschaft der visuell-taktilen Entspa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu matisse-paper-cutout basiert auf <strong>Historische Prüfung von Henri Matisses Biografien & kognitionswissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Prüfung von Henri Matisses Biografien & kognitionswissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Visuell-taktiles Feedback zur Schmerzablenkung und Förderung der Neuroplastizität
+## 1. Visuell-taktiles Feedback zur Schmerzablenkung und Förderung der Neuroplastizität
 
 Bei starken körperlichen Schmerzen oder geistigem Stress hält bloßes Ausruhen die Aufmerksamkeit auf Schmerznetzwerke gerichtet.
 
@@ -53,9 +54,7 @@ Feinmotorische Aktivitäten wie das präzise Schneiden von Papier – wie bei Ma
 
 ---
 
-## Schaffen mit den Fingerspitzen heilt das müde Gehirn
-
-Wir anhäufen täglich visuelle Ermüdung durch passives Surfen im Web oder soziale Medien. Gönnen Sie sich wie Matisse – selbst einmal pro Woche – ein taktiles Ritual: Schneiden Sie buntes Papier mit einer echten Schere in freie Formen und arrangieren Sie diese. Das ist eine künstlerische Gehirn-Detox-Therapie zur Erneuerung sensorischer Netzwerke.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Wir anhäufen täglich visuelle Ermüdung durch passives Surfen im Web oder sozi
   </p>
 </div>
 
+---
+
+## 3. Schaffen mit den Fingerspitzen heilt das müde Gehirn
+
+Wir anhäufen täglich visuelle Ermüdung durch passives Surfen im Web oder soziale Medien. Gönnen Sie sich wie Matisse – selbst einmal pro Woche – ein taktiles Ritual: Schneiden Sie buntes Papier mit einer echten Schere in freie Formen und arrangieren Sie diese. Das ist eine künstlerische Gehirn-Detox-Therapie zur Erneuerung sensorischer Netzwerke.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Können Anfänger ohne künstlerisches Talent von Papierschnitten profitieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Wir anhäufen täglich visuelle Ermüdung durch passives Surfen im Web oder sozi
       Ja. Es geht nicht um ein Kunstwerk. Der Kern liegt in der taktilen Stimulation der Schere und den visuellen Eindrücken der leuchtenden Farben. Dies lenkt das Gehirn ab und regt die Neuroplastizität an, ganz gleich wie unperfekt die Formen sind.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie wäre es mit Knete oder einer Zeichen-App anstelle von Papierschnitten?</span>

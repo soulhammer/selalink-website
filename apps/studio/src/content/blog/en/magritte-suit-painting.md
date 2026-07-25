@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Psychology of Attire: René Magritte's Suit Painting Routine"
 description: "René Magritte, the surrealist painter who wore a neat suit every day in front of his living room easel. Unveils 'Enclothed Cognition'—the cognitive feedback effect that clothing exerts on the brain."
 pubDate: "2026-05-25"
@@ -40,14 +41,14 @@ This post analyzes how Magritte's suit painting routine controls brain waves and
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding magritte-suit-painting is based on <strong>Historical records from René Magritte biographies & Royal Museums of Fine Arts of Belgium archives, alongside Cognitive Neuroscience and Cognitive Psychology research</strong>.
+      This content is based on <strong>Historical records from René Magritte biographies & Royal Museums of Fine Arts of Belgium archives, alongside Cognitive Neuroscience and Cognitive Psychology research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Enclothed Cognition Effect and Brain Science of Prefrontal Cortex Cognitive Control
+## 1. Enclothed Cognition Effect and Brain Science of Prefrontal Cortex Cognitive Control
 
 Human brains experience <strong>Enclothed Cognition</strong>, where clothing's symbolic meaning and physical sensation directly influence cognitive processes.
 
@@ -57,9 +58,7 @@ This psychological setup stimulates the cognitive control system of the <strong>
 
 ---
 
-## Rule for Avoiding Overly Constricting Suits and Finding the Right Neat Workwear Balance
-
-Avoid wearing clothes that overly constrict the body or cause pain just to achieve Enclothed Cognition. Physical discomfort sends fatigue signals to the <strong>Prefrontal Cortex</strong>, impairing concentration. The essence is to maintain neatness while establishing a comfortable balance (such as neat slacks or collared shirts) suitable for prolonged immersion.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -91,12 +90,18 @@ Avoid wearing clothes that overly constrict the body or cause pain just to achie
   </p>
 </div>
 
+---
+
+## 3. Rule for Avoiding Overly Constricting Suits and Finding the Right Neat Workwear Balance
+
+Avoid wearing clothes that overly constrict the body or cause pain just to achieve Enclothed Cognition. Physical discomfort sends fatigue signals to the <strong>Prefrontal Cortex</strong>, impairing concentration. The essence is to maintain neatness while establishing a comfortable balance (such as neat slacks or collared shirts) suitable for prolonged immersion.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does wearing indoor shoes or dedicated work shoes while working from home help Enclothed Cognition?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -105,7 +110,7 @@ Avoid wearing clothes that overly constrict the body or cause pain just to achie
       Yes, it produces an exceptional effect! The firm texture and tactile stimulation delivered to the soles send an 'outdoor activity mode' signal to the <strong>Somatosensory Cortex</strong>. This suppresses the urge to lie on the couch or bed and serves as a physical switch for work mode.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does dressing neatly help even when engaged in creative work like painting or content creation?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rahasia Cermin Pagi Hari untuk Mengisi Ulang Kepercayaan Diri: Rutin Afirmasi Positif Muhammad Ali"
 description: "Muhammad Ali, petinju terhebat abad ini. Pelajari efek neurosains dan rutinitas mindset 3 langkah dari afirmasi positif di depan cermin—rahasia di balik keberhasilannya mengatasi kecemasan performa yang parah sebelum bertanding hingga menjadi juara."
 pubDate: "2026-01-26"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami memperkenalkan prinsip-prinsip psikologi olahraga
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai ali-positive-affirmation didasarkan pada <strong>Verifikasi dari Autobiografi Muhammad Ali *The Greatest: My Own Story* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi dari Autobiografi Muhammad Ali *The Greatest: My Own Story* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kekuatan Deklarasi Diri yang Mengaktifkan Sistem Imbalan Otak
+## 1. Kekuatan Deklarasi Diri yang Mengaktifkan Sistem Imbalan Otak
 
 Ketika kita merasa cemas atau kurang percaya diri, otak mengeluarkan hormon stres kortisol secara berlebihan, yang menurunkan kemampuan kita dalam mengatasi krisis. Menurut neurosains, tindakan menyuarakan afirmasi positif dengan lantang sambil menatap cermin merangsang <strong>'Korteks Prefrontal Medial (Medial Prefrontal Cortex)'</strong> dan sistem imbalan otak. Deklarasi kepercayaan diri ini mengatur otak agar tidak terlalu sensitif dalam menerima informasi yang mengancam, membangkitkan efikasi diri, dan meningkatkan ketahanan terhadap stres. Saat Anda menyebut diri Anda terhebat, otak Anda sebenarnya mulai bersiap untuk mengaktifkan energi fisik dan mental yang selaras dengan nilai tersebut.
 
 ---
 
-## Deklarasikan dengan Tegas dalam Bentuk Present Tense, Bukan Sekadar Harapan
-
-Agar afirmasi positif dapat merangsang alam bawah sadar otak, struktur bahasa adalah kuncinya. Nada mengharap seperti "Saya ingin menjadi..." dapat menyoroti kondisi kekurangan pada otak. Sebagaimana Muhammad Ali menegaskan "Saya adalah yang terhebat," Anda harus mendeklarasikan kepada diri sendiri secara mantap dalam kalimat present tense yang mendefinisikan kondisi terwujud atau kemampuan yang jelas—seperti "Saya memiliki kemampuan untuk mencapai tujuan saya"—agar perubahan kognitif sejati dapat terjadi.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Agar afirmasi positif dapat merangsang alam bawah sadar otak, struktur bahasa ad
   </p>
 </div>
 
+---
+
+## 3. Deklarasikan dengan Tegas dalam Bentuk Present Tense, Bukan Sekadar Harapan
+
+Agar afirmasi positif dapat merangsang alam bawah sadar otak, struktur bahasa adalah kuncinya. Nada mengharap seperti "Saya ingin menjadi..." dapat menyoroti kondisi kekurangan pada otak. Sebagaimana Muhammad Ali menegaskan "Saya adalah yang terhebat," Anda harus mendeklarasikan kepada diri sendiri secara mantap dalam kalimat present tense yang mendefinisikan kondisi terwujud atau kemampuan yang jelas—seperti "Saya memiliki kemampuan untuk mencapai tujuan saya"—agar perubahan kognitif sejati dapat terjadi.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Terasa canggung karena rasanya seperti membohongi diri sendiri bahwa saya adalah yang terhebat.</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Agar afirmasi positif dapat merangsang alam bawah sadar otak, struktur bahasa ad
       Merasa canggung di awal adalah hal yang alami karena adanya disonansi kognitif (Cognitive Dissonance). Yang terpenting bukanlah memverifikasi kebenaran fakta saat ini, melainkan membuka kemungkinan-kemungkinan baru bagi otak. Semakin sering Anda mengulangnya, neuroplastisitas (Neuroplasticity) otak akan mengorganisasi ulang sirkuit saraf sehingga rasa canggung menghilang dan memadat menjadi sebuah keyakinan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah baru efektif jika saya berteriak dengan lantang?</span>

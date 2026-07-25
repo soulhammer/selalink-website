@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Penulis yang Berlari 10km Setiap Pagi: Rutinitas Ketahanan Fisik Haruki Murakami"
 description: "Novelis laris dunia Haruki Murakami. Pelajari prinsip-prinsip neurosains yang tertanam dalam rutinitas lari pagi 10km-nya dan panduan praktis 3 langkah untuk manusia modern."
 pubDate: "2026-06-26"
@@ -31,17 +32,17 @@ Setelah menutup bar jazz-nya pada tahun 1982 untuk menulis sepenuh waktu, Muraka
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai murakami-running didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi Haruki Murakami & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi Haruki Murakami & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurosains Olahraga Lari untuk Menjaga Mujiwa Muda Otak
+## 1. Neurosains Olahraga Lari untuk Menjaga Mujiwa Muda Otak
 
 Menulis novel mengonsumsi energi mental yang sangat besar. Murakami melatih otaknya melalui lari untuk menopang kerja mental yang berat menghasilkan draft setiap hari.
 
@@ -49,11 +50,7 @@ Olahraga aerobik berkelanjutan seperti lari jarak jauh menyuplai oksigen dan nut
 
 ---
 
-## Saran Neurosains untuk Membangun Rutinitas Sukses
-
-<strong>Pengulangan konsisten membangun ritme saraf</strong>
-
-Aktivitas fisik harian berkembang menjadi 'rutinitas otomatis' yang tidak lagi menguras kemauan. Begitu ritme ini terpatri di otak, ia membangun perisai fisik yang kuat untuk menahan beban kognitif tinggi saat bekerja. Jadikan olahraga teratur sebagai prioritas utama seperti Murakami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Aktivitas fisik harian berkembang menjadi 'rutinitas otomatis' yang tidak lagi m
     Hindari memeriksa pesan atau email saat berlari. Berfokuslah hanya pada irama pernapasan Anda dan sensasi kaki yang menyentuh tanah. Lari penuh kesadaran ini berfungsi sebagai detoks mental terbaik untuk merapikan pikiran.
   </p>
 </div>
+
+---
+
+## 3. Saran Neurosains untuk Membangun Rutinitas Sukses
+
+<strong>Pengulangan konsisten membangun ritme saraf</strong>
+
+Aktivitas fisik harian berkembang menjadi 'rutinitas otomatis' yang tidak lagi menguras kemauan. Begitu ritme ini terpatri di otak, ia membangun perisai fisik yang kuat untuk menahan beban kognitif tinggi saat bekerja. Jadikan olahraga teratur sebagai prioritas utama seperti Murakami.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

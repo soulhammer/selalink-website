@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Um Mestre que Transcrevia Partituras Sob a Luz da Lua? O Hábito de Transcrição de Bach para Estimular o Lóbulo Parietal"
 description: "Johann Sebastian Bach encarnou regras matemáticas ao longo de sua vida copiando partituras de compositores veteranos. Descubra os princípios científicos de como a manipulação das pontas dos dedos estimula as regiões lógicas do cérebro e uma rotina moderna de transcrição."
 pubDate: "2026-06-19"
@@ -31,17 +32,17 @@ No artigo de hoje, analisamos os princípios neurocientíficos ocultos no hábit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre bach-pattern-transcription é baseada em <strong>Verificação Histórica de *Johann Sebastian Bach: Sua Vida, Arte e Obras (1802)* de Johann Nikolaus Forkel e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Johann Sebastian Bach: Sua Vida, Arte e Obras (1802)* de Johann Nikolaus Forkel e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Controle Motor Fino dos Dedos e Associação do Lóbulos Parietal
+## 1. Controle Motor Fino dos Dedos e Associação do Lóbulos Parietal
 
 A aprendizagem digital moderna, como digitar no teclado do computador ou em uma tela, é uma atividade cognitiva de baixa densidade que apenas roça uma área muito pequena do córtex motor do cérebro. Por outro lado, a transcrição analógica — segurar uma caneta e pressionar textos ou símbolos complexos sobre o papel — exige um controle delicado de motricidade fina (Fine Motor).
 
@@ -49,11 +50,7 @@ Nesse processo, o cérebro ativa intensamente não apenas as regiões de planeja
 
 ---
 
-## Uma Palavra Neurocientífica para uma Rotina Bem-Sucedida
-
-<strong>A mão é o cérebro externalizado.</strong>
-
-Informações lidas com os olhos em uma tela de monitor ou arrastadas com o mouse fluem muito superficialmente pelo cérebro e desaparecem. Se você deseja fortalecer os circuitos lógicos do seu cérebro, tente pegar uma caneta e transcrever por apenas 10 minutos. Assim como Bach dominou as fórmulas perfeitas da música barroca copiando complexos padrões de fuga com as pontas dos dedos, seu cérebro possuirá totalmente conhecimentos difíceis ao passar pela transcrição analógica.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +82,17 @@ Informações lidas com os olhos em uma tela de monitor ou arrastadas com o mous
   </p>
 </div>
 
+---
+
+## 3. Uma Palavra Neurocientífica para uma Rotina Bem-Sucedida
+
+<strong>A mão é o cérebro externalizado.</strong>
+
+Informações lidas com os olhos em uma tela de monitor ou arrastadas com o mouse fluem muito superficialmente pelo cérebro e desaparecem. Se você deseja fortalecer os circuitos lógicos do seu cérebro, tente pegar uma caneta e transcrever por apenas 10 minutos. Assim como Bach dominou as fórmulas perfeitas da música barroca copiando complexos padrões de fuga com as pontas dos dedos, seu cérebro possuirá totalmente conhecimentos difíceis ao passar pela transcrição analógica.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

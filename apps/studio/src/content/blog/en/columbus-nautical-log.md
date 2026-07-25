@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Captain Who Opened the Age of Discovery: Christopher Columbus's Nightly Nautical Log and Amygdala Calming Routine"
 description: "Discover how explorer Christopher Columbus maintained rational composure amidst ocean storms by keeping a nightly quantitative log. Explore the cognitive neuroscience of how nighttime quantitative journaling calms the amygdala and recruits prefrontal control networks."
 pubDate: "2026-04-25"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Christopher Columbus's 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding columbus-nautical-log is based on <strong>Historical Verification from Bartolomé de las Casas's *The Diario of Christopher Columbus* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Bartolomé de las Casas's *The Diario of Christopher Columbus* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Amygdala Deactivation and Prefrontal Switch via Nightly Quantitative Journaling
+## 1. Amygdala Deactivation and Prefrontal Switch via Nightly Quantitative Journaling
 
 Vague, uncontrollable anxiety overstimulates the limbic system's fear center—the amygdala—triggering sympathetic arousal, elevated heart rate, insomnia, and panic states. Keeping a 'nightly nautical log' that handwrites concrete facts and quantitative metrics (completed outputs, remaining tasks, tomorrow's vectors) acts as a high-leverage neurological switch. It transfers active processing away from emotional limbic structures to the rational dorsolateral prefrontal cortex (DLPFC). Converting existential dread into visible numbers dampens amygdala reactivity, inducing physiological calm and facilitating sleep-dependent memory consolidation.
 
 ---
 
-## Caution & Tips: Avoiding Emotional Rumination & Logging Objective Metrics
-
-The foundation of a nautical log routine is converting subjective feelings into objective data. Writing emotional grievances or repeating phrases like 'I felt so stressed today' before bed re-triggers the amygdala, amplifying negative neural loops and worsening insomnia. Exclude subjective venting. Instead, log strictly quantified facts and metrics: 'Completed 4 out of 5 targets', 'Progress rate: 80%', 'Top priority for tomorrow: 1 item'. This objective focus recruits prefrontal networks to quiet emotional reactivity.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The foundation of a nautical log routine is converting subjective feelings into 
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Avoiding Emotional Rumination & Logging Objective Metrics
+
+The foundation of a nautical log routine is converting subjective feelings into objective data. Writing emotional grievances or repeating phrases like 'I felt so stressed today' before bed re-triggers the amygdala, amplifying negative neural loops and worsening insomnia. Exclude subjective venting. Instead, log strictly quantified facts and metrics: 'Completed 4 out of 5 targets', 'Progress rate: 80%', 'Top priority for tomorrow: 1 item'. This objective focus recruits prefrontal networks to quiet emotional reactivity.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does recording in a smartphone note app or digital planner yield the same amygdala-calming effect?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The foundation of a nautical log routine is converting subjective feelings into 
       No. Physical handwriting provides tactile sensory feedback that broadly recruits motor and somatosensory cortices, engaging prefrontal cognitive control much more strongly. Furthermore, smartphone blue light suppresses nighttime melatonin secretion, disrupting sleep architecture. Using a physical paper notebook is strongly recommended.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What should I do on days when I am too exhausted to write a full log before sleeping?</span>

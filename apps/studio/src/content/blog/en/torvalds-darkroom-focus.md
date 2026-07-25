@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Coder in a Utility Room Blocking Light and Noise? Linus Torvalds' Darkroom Focus Routine"
 description: "Linus Torvalds, creator of Linux and Git. Explores how he achieved hyper-focus in a secluded room free from external visual stimuli and electronic decorations, and how to build his noiseless work environment."
 pubDate: "2026-06-30"
@@ -38,14 +39,14 @@ In today's post, we share a cognitive science analysis of how Linus Torvalds' 's
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding torvalds-darkroom-focus is based on <strong>Historical biographies and autobiographical records of Linus Torvalds & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Linus Torvalds & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Cognitive Filtration': Preserving Attention by Controlling Visual Stimuli
+## 1. 'Cognitive Filtration': Preserving Attention by Controlling Visual Stimuli
 
 Our visual cortex constantly and unconsciously calculates depth, color, and shape information for every object in view (toys on desks, colorful picture frames, movements of people passing by, etc.). Vision imposes the heaviest cognitive load on the brain, consuming roughly 30% of the cerebral cortex's total energy.
 
@@ -53,9 +54,7 @@ Linus Torvalds' darkroom focus routine was a peak implementation of <strong>'Cog
 
 ---
 
-## In the Dark, a Coder's Logic Becomes Crystal Clear
-
-For Linus Torvalds, the laundry room darkroom was a cognitive fortress that blocked external temptations and minor stimuli at the source. If your home is distracting and you struggle to penetrate deeply into your work, wasting attention, try stripping your desk area of all visual decor and lowering the surrounding lighting before blaming your brain's focus. You will experience remarkable immersion.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ For Linus Torvalds, the laundry room darkroom was a cognitive fortress that bloc
   </p>
 </div>
 
+---
+
+## 3. In the Dark, a Coder's Logic Becomes Crystal Clear
+
+For Linus Torvalds, the laundry room darkroom was a cognitive fortress that blocked external temptations and minor stimuli at the source. If your home is distracting and you struggle to penetrate deeply into your work, wasting attention, try stripping your desk area of all visual decor and lowering the surrounding lighting before blaming your brain's focus. You will experience remarkable immersion.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does looking at a monitor in a dark room damage your eyesight?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ For Linus Torvalds, the laundry room darkroom was a cognitive fortress that bloc
       Excessively high contrast ratios in total darkness cause eye fatigue. Therefore, dimming the monitor's brightness to match the dark environment or installing a soft backlight (such as indirect LED strips) behind the monitor wall prevents optic nerve strain while maintaining deep immersion.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What should I do if I don't have a laundry room or an isolated room at home?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Orator yang Mencukur Separuh Kepalanya: Rutinitas Kontrol Lingkungan Ekstrem dan Perangkat Komitmen ala Demosthenes"
 description: "Pelajari bagaimana Demosthenes, orator ulung Yunani kuno, mengatasi keterbatasan fisik dengan mencukur separuh kepalanya dan mengisolasi diri di gua. Temukan neurosains kognitif tentang bagaimana Perangkat Komitmen melindungi fungsi eksekutif korteks prefrontal."
 pubDate: "2026-01-28"
@@ -33,25 +34,23 @@ Untuk menaklukkan kecenderungan batinnya terhadap gangguan dan godaan sosial, De
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai demosthenes-isolation didasarkan pada <strong>Verifikasi Historis dari *Parallel Lives (Kisah Demosthenes)* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Parallel Lives (Kisah Demosthenes)* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Perangkat Komitmen dan Perlindungan Fungsi Eksekutif Korteks Prefrontal
+## 1. Perangkat Komitmen dan Perlindungan Fungsi Eksekutif Korteks Prefrontal
 
 Mengandalkan kemauan internal sesaat untuk melawan gangguan dengan cepat menguras glukosa di korteks prefrontal (PFC), melelahkan sumber daya fungsi eksekutif. Selama godaan tetap dapat diakses, otak terus-menerus terlibat dalam 'Pemrosesan Konflik' (memutuskan apakah akan menuruti atau melawan), menghasilkan beban kognitif yang tinggi. Mengirimkan batasan fisik yang membuat godaan menjadi tidak mungkin—seperti Demosthenes mencukur separuh kepalanya—dikenal sebagai 'Perangkat Komitmen'. Pembatasan lingkungan yang ketat ini mengurangi beban pemrosesan konflik prefrontal menjadi nol.
 
 ---
 
-## Perhatian & Tip: Menolak Mitos Kemauan & Membangun Batasan Lingkungan
-
-Tinggalkan ilusi bahwa kemauan tanpa bantuan dapat mengatasi penundaan dan gangguan digital. Kontrol diri manusia adalah sumber daya biologis yang terbatas. Untuk mencapai kerja mendalam yang berkelanjutan seperti Demosthenes, pasang perangkat komitmen fisik secara proaktif sebelum Anda mulai—membuat perilaku non-tugas menjadi tidak mungkin dilakukan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Tinggalkan ilusi bahwa kemauan tanpa bantuan dapat mengatasi penundaan dan gangg
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menolak Mitos Kemauan & Membangun Batasan Lingkungan
+
+Tinggalkan ilusi bahwa kemauan tanpa bantuan dapat mengatasi penundaan dan gangguan digital. Kontrol diri manusia adalah sumber daya biologis yang terbatas. Untuk mencapai kerja mendalam yang berkelanjutan seperti Demosthenes, pasang perangkat komitmen fisik secara proaktif sebelum Anda mulai—membuat perilaku non-tugas menjadi tidak mungkin dilakukan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Demosthenes secara khusus mencukur separuh kepalanya sebelum mengisolasi diri?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Tinggalkan ilusi bahwa kemauan tanpa bantuan dapat mengatasi penundaan dan gangg
       Untuk membangun batasan sosial yang tak terelakkan yang membuat keluar ke depan umum menjadi tidak tertahankan secara sosial karena penampilannya yang aneh. Ini mengeliminasi energi kemauan yang diperlukan untuk melawan godaan, mengunci 100% sumber daya eksekutif prefrontal-nya pada pelatihan pidato.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Perangkat Komitmen praktis apa yang dapat digunakan masyarakat modern tanpa harus mencukur kepala mereka?</span>

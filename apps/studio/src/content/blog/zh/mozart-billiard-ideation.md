@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "灵感枯竭时打桌球的天才？莫扎特的默认模式网络激活习惯"
 description: "沃尔夫冈·阿玛多伊斯·莫扎特在构思乐曲受阻时通过打桌球来启动潜意识大脑（DMN）。本文介绍认知休息产生创意突破的科学奥秘以及15分钟时空游戏设计法。"
 pubDate: "2026-05-01"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mozart-billiard-ideation 的内容基于 <strong>莫扎特历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>莫扎特历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 潜意识大脑与“默认模式网络”
+## 1. 潜意识大脑与“默认模式网络”
 
 为了解决棘手难题而长时间死盯屏幕的行为会让前额叶皮层的工作记忆过度饱和，导致大脑陷入思维停滞（Mental Stagnation）。相反，将注意力彻底转移到包含时空轨迹预测的轻松身体活动（如桌球）上时，大脑便会启动“默认模式网络（DMN）”。
 
@@ -49,11 +50,7 @@ DMN是大脑在休息时运转的潜意识联想机制。在此过程中，大�
 
 ---
 
-## 成功践行此习惯的脑科学忠告
-
-<strong>创意源于交替轮换，而非强行专注</strong>
-
-执着于单一想法的大脑会陷入隧道视野（Tunnel Vision），切断新的思维关联。在头脑疲惫时强迫自己坐着只会白白消耗认知能量。正如莫扎特在桌球台旁激活潜意识大脑以谱写不朽乐章一样，一旦思维受阻，请立即站起身，通过轻松的时空游戏启动DMN。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ DMN是大脑在休息时运转的潜意识联想机制。在此过程中，大�
     重新回到桌前审视任务。在休息期间由潜意识合成的新思路与创意突破往往会自然而然地浮现到意识表面。
   </p>
 </div>
+
+---
+
+## 3. 成功践行此习惯的脑科学忠告
+
+<strong>创意源于交替轮换，而非强行专注</strong>
+
+执着于单一想法的大脑会陷入隧道视野（Tunnel Vision），切断新的思维关联。在头脑疲惫时强迫自己坐着只会白白消耗认知能量。正如莫扎特在桌球台旁激活潜意识大脑以谱写不朽乐章一样，一旦思维受阻，请立即站起身，通过轻松的时空游戏启动DMN。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

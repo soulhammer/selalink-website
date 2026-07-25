@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "16.000 Entradas Numeradas: A Rotina de Caderno de Precisão e Externalização Cognitiva de Michael Faraday"
 description: "Descubra como o físico Michael Faraday catalogou mais de 16.000 entradas de experimentos numeradas. Explore a neurociência cognitiva da externalização do conhecimento e preservação da memória de trabalho."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ No artigo de hoje, examinamos a neurociência cognitiva por trás da técnica de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre faraday-numbered-notebook é baseada em <strong>Verificação Histórica de *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Como a Indexação e a Externalização Cognitiva Preservam a Memória de Trabalho
+## 1. Como a Indexação e a Externalização Cognitiva Preservam a Memória de Trabalho
 
 A <strong>Memória de Trabalho</strong> do cérebro possui capacidade limitada. Manter informações desestruturadas gera sobrecarga cognitiva. Adotar o sistema de numeração e indexação de Faraday — exemplo de <strong>'Externalização Cognitiva (Cognitive Offloading)'</strong> — economiza energia mental de busca. Ao transferir o conhecimento estático para um suporte externo, os recursos pré-frontais ficam livres para o raciocínio complexo.
 
 ---
 
-## Precaução: Priorize a Buscabilidade em Vez do Volume de Notas
-
-Aumentar o volume de notas é contraproducente sem garantir a buscabilidade. Transcrever dados sem indexar gera desordem digital ou física, aumentando a confusão. Para replicar o sucesso de Faraday, crie um índice na primeira página ou identifique as entradas com tags para recuperá-las em 3 segundos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Aumentar o volume de notas é contraproducente sem garantir a buscabilidade. Tra
   </p>
 </div>
 
+---
+
+## 3. Precaução: Priorize a Buscabilidade em Vez do Volume de Notas
+
+Aumentar o volume de notas é contraproducente sem garantir a buscabilidade. Transcrever dados sem indexar gera desordem digital ou física, aumentando a confusão. Para replicar o sucesso de Faraday, crie um índice na primeira página ou identifique as entradas com tags para recuperá-las em 3 segundos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>A numeração sequencial é útil se eu usar aplicativos de notas digitais?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Aumentar o volume de notas é contraproducente sem garantir a buscabilidade. Tra
       Sim, com certeza. Atribuir números únicos no ambiente digital oferece grandes vantagens. Embora a busca por palavras-chave possa falhar se você esquecer os termos, um ID único (ex.: #042) cria uma âncora para links de retrocesso (backlinks) e referências cruzadas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como devo gerenciar a numeração ao misturar diários, projetos de trabalho e inspirações?</span>

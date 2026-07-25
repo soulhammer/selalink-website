@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "沈黙のタワー：ノーベル賞受賞者パブロフの刺激統制環境設計法"
 description: "条件反射の創始者イワン・パブロフの刺激遮断ルーティンを紹介します。外的環境変数を制御して認知の浪費を排除する3段階の刺激統制実践法。"
 pubDate: "2026-02-27"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「pavlov-stimulus-control」は <strong>Pavlov Stimulus Control 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Pavlov Stimulus Control 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 実行機能を活かす「刺激統制理論」
+## 1. 実行機能を活かす「刺激統制理論」
 
 脳科学的に私たちの前頭葉は、新しい情報を計画し実行する実行機能（Executive Function）を担っています。しかし周辺環境に視覚的・聴覚的刺激が散らばっていると、脳は意志力と認知リソースをそれらのフィルタリングに分散させてしまいます。行動心理学の<strong>「刺激統制（Stimulus Control）」</strong>理論は、特定の空間の環境刺激を固定または遮断し、脳の神経作動摩擦を最小化する技法です。
 
 ---
 
-## 刺激統制ルーティンの柔軟性を確保する
-
-刺激遮断環境にこだわりすぎると、少しでも環境が散らかっていたり騒音が発生する場所で全く集中力を発揮できない過敏な脳（Hyper-sensitivity）になるリスクがあります。そのため、刺激統制訓練は1日のうち最も重要な集中時間（例：1〜2時間）にのみ適用し、日常的な単純作業では多少の騒音がある空間でもこなせる柔軟性を養う必要があります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     毎日同じ空間、同じように整頓されたデスク構造で集中ルーティンを開始し、脳がその環境に入った瞬間に没頭回路を活性化させるようプライミング（Priming）します。
   </p>
 </div>
+
+---
+
+## 3. 刺激統制ルーティンの柔軟性を確保する
+
+刺激遮断環境にこだわりすぎると、少しでも環境が散らかっていたり騒音が発生する場所で全く集中力を発揮できない過敏な脳（Hyper-sensitivity）になるリスクがあります。そのため、刺激統制訓練は1日のうち最も重要な集中時間（例：1〜2時間）にのみ適用し、日常的な単純作業では多少の騒音がある空間でもこなせる柔軟性を養う必要があります。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

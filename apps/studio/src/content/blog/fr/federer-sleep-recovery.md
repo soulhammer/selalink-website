@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'empereur qui a remporté des dizaines de trophées en dormant 12 heures par jour : La routine de sommeil et de nettoyage cérébral de Roger Federer"
 description: "Découvrez le secret du roi du tennis Roger Federer pour maintenir des performances exceptionnelles passé 40 ans : dormir 10 à 12 heures par jour. Explorez la neuroscience du système glymphatique, du sommeil REM et un guide pratique en 3 étapes."
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience sous-jacente a la routine de «
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant federer-sleep-recovery est basée sur <strong>Vérification Historique issue de la biographie de Chris Bowers *Roger Federer: The Greatest*, des archives officielles de l'ATP & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Chris Bowers *Roger Federer: The Greatest*, des archives officielles de l'ATP & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Nettoyage cérébral glymphatique et mécanismes de neuroplasticité du sommeil REM
+## 1. Nettoyage cérébral glymphatique et mécanismes de neuroplasticité du sommeil REM
 
 Pendant le sommeil profond, le <strong>Système Glymphatique</strong> du cerveau s'active, éliminant les déchets neurotoxiques comme la bêta-amyloïde accumulés durant la journée. De plus, le <strong>sommeil REM</strong> favorise la neuroplasticité, consolidant les séquences motrices complexes et la vivacité cognitive. Garantir un sommeil suffisant diminue le cortisol et stimule l'hormone de croissance, restaurant muscles et concentration.
 
 ---
 
-## Mise en garde : Mfiez-vous de l'illusion de sacrifier le sommeil au profit de la volonté
-
-Travailler en état de privation de sommeil génère des erreurs de jugement équivalentes à la conduite en état d'ivresse. Comme le soulignait Federer, les meilleures performances ne naissent pas de l'épuisement, mais de la clarté offerte par une vraie récupération.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Travailler en état de privation de sommeil génère des erreurs de jugement éq
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Mfiez-vous de l'illusion de sacrifier le sommeil au profit de la volonté
+
+Travailler en état de privation de sommeil génère des erreurs de jugement équivalentes à la conduite en état d'ivresse. Comme le soulignait Federer, les meilleures performances ne naissent pas de l'épuisement, mais de la clarté offerte par une vraie récupération.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire en cas d'insomnie et de difficultés a s'endormir ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Travailler en état de privation de sommeil génère des erreurs de jugement éq
       Ne vous forcez pas à dormir. Si vous ne dormez pas après 20 minutes, appliquez la thérapie de contrôle des stimulations : levez-vous, allez dans une pièce sombre, lisez un livre papier et ne retournez au lit que lorsque le sommeil arrive.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Pourquoi me sens-je vaseux et lourd après une sieste ?</span>

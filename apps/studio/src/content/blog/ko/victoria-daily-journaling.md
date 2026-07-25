@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "제국의 무게와 성찰: 빅토리아 여왕의 매일 저녁 일기 쓰기 습관"
 description: "대영제국 전성기를 통치한 빅토리아 여왕이 평생 122권의 일기를 쓴 성찰 습관. 손으로 쓰는 표현적 글쓰기가 부교감 신경을 활성화하고 전두엽을 정돈하는 과학적 기전을 살펴봅니다."
 pubDate: "2026-05-07"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>빅토리아 여왕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 victoria-daily-journaling 루틴을 다룹니다.
+      본 콘텐츠는 <strong>빅토리아 여왕 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 표현적 글쓰기의 감정 레이블링과 전두엽 활성화
+## 1. 표현적 글쓰기의 감정 레이블링과 전두엽 활성화
 
 불안이나 우울 같은 원인 모를 부정적 감정이 뇌 속에 가득할 때, 뇌의 변연계(Limbic System)는 비상 상황으로 인지하여 인지 통제력을 약화시킵니다. 손글씨를 이용한 일기 쓰기는 인지과학에서 말하는 '표현적 글쓰기(Expressive Writing)' 및 '감정 레이블링(Affect Labeling)'을 촉진합니다. 머릿속의 복잡한 감정들을 물리적 단어로 명명하고 지면에 써내려갈 때, 과열되었던 우측 편도체의 활성은 둔화되는 반면 이성적 판단을 돕는 좌측 전두엽 피질이 활성화됩니다. 이는 뇌에게 '상황이 통제되고 있다'는 강력한 신호를 주어 정서적 소용돌이를 진정시킵니다.
 
 ---
 
-## 주의사항 및 팁
-
-표현적 글쓰기 루틴을 수행할 때 피해야 할 행동은 맞춤법이나 글의 문장력 등 기교에 집착하는 것입니다. 글을 잘 써야 하거나 논리정연해야 한다는 압박감을 느끼게 되면, 뇌는 이를 평가를 받는 작업으로 해석하여 도리어 피로도를 높이게 됩니다. 따라서 문장의 완성도나 타인의 시선은 완전히 잊고, 머릿속에 떠오르는 감정의 흐름을 날것 그대로 지면에 거침없이 쏟아내는 자유 집필의 형태를 취하는 것이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     일기장을 덮으면서 '오늘의 모든 고민은 이 지면에 보관되었다'고 스스로 선언하며 뇌에 인지적 종료 신호를 주고 수면에 들어갑니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+표현적 글쓰기 루틴을 수행할 때 피해야 할 행동은 맞춤법이나 글의 문장력 등 기교에 집착하는 것입니다. 글을 잘 써야 하거나 논리정연해야 한다는 압박감을 느끼게 되면, 뇌는 이를 평가를 받는 작업으로 해석하여 도리어 피로도를 높이게 됩니다. 따라서 문장의 완성도나 타인의 시선은 완전히 잊고, 머릿속에 떠오르는 감정의 흐름을 날것 그대로 지면에 거침없이 쏟아내는 자유 집필의 형태를 취하는 것이 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

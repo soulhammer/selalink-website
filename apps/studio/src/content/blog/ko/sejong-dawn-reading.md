@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "창의적 국정의 비결? 세종대왕의 지독한 새벽 독서 루틴"
 description: "한글을 창제한 조선의 최고 성군 세종대왕. 만성 질환 속에서도 매일 새벽 3시에 일어나 고전을 읽으며 머리를 예열했던 그의 아침 인지 활성화 루틴을 소개합니다."
 pubDate: "2026-04-27"
@@ -17,7 +18,7 @@ steps:
   - name: "핵심 구절 필사 및 생각 정리"
     text: "가장 인상 깊었던 문장을 노트에 손글씨로 적어봅니다. 이와 함께 오늘 하루 해야 할 가장 중요한 일 한 가지를 떠올리며 마인드셋을 조율합니다."
 faqs:
-  - question: "아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?"
+  - question: "아침형 인간이 아닌데, 새벽 3 ~ 4시에 일어나야 하나요?"
     answer: "아닙니다. 세종대왕의 핵심은 '기상 직후 외부 방해 없는 나만의 인지 자산 확보'에 있습니다. 본인의 평소 기상 시간보다 단 30분만 일찍 일어나 스마트폰 차단 하에 조용히 독서하는 것만으로도 충분히 동일한 효과를 냅니다."
   - question: "웹소설이나 소셜 미디어 아티클을 읽는 것도 괜찮나요?"
     answer: "아침의 뇌를 예열하기 위해서는 단편적이고 시각적 자극이 강한 온라인 텍스트보다, 논리 전개가 깊고 구조적인 종이책을 정독하는 것이 좋습니다. 철학, 인문학, 고전 에세이, 역사서처럼 뇌가 서사를 따라 적극적으로 사유하게 만드는 활자가 인지 기능 활성화에 훨씬 유익합니다."
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>조선왕조실록(朝鮮王朝實錄) 세종실록 고증 및 세종대왕 평전 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 sejong-dawn-reading 루틴을 다룹니다.
+      본 콘텐츠는 <strong>조선왕조실록(朝鮮王朝實錄) 세종실록 고증 및 세종대왕 평전 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 기상 직후 뇌를 깨우는 인지 예열의 효과
+## 1. 기상 직후 뇌를 깨우는 인지 예열의 효과
 
 아침에 잠에서 깨어난 직후의 뇌는 외부 소음이나 불필요한 시각적 자극에 시달리지 않아 고도의 순수한 몰입을 발휘할 수 있는 상태입니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 스크린의 블루라이트 대신 종이와 은은한 등불을 택하세요
-
-새벽 독서의 핵심은 기상 직후 뇌가 갖는 고요한 집중 상태를 유지하는 것입니다. 일어나자마자 스마트폰 스크린을 켜는 순간, 쏟아지는 블루라이트와 단편적인 알림 정보들은 전두엽을 순식간에 피로하게 만듭니다. 세종대왕이 은은한 등불 아래에서 한 글자씩 종이책을 음미했듯, 여러분도 디지털 화면을 배제하고 아날로그 종이책을 활용하여 새벽의 평온함을 인지 자산으로 전환해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,21 +86,27 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 스크린의 블루라이트 대신 종이와 은은한 등불을 택하세요
+
+새벽 독서의 핵심은 기상 직후 뇌가 갖는 고요한 집중 상태를 유지하는 것입니다. 일어나자마자 스마트폰 스크린을 켜는 순간, 쏟아지는 블루라이트와 단편적인 알림 정보들은 전두엽을 순식간에 피로하게 만듭니다. 세종대왕이 은은한 등불 아래에서 한 글자씩 종이책을 음미했듯, 여러분도 디지털 화면을 배제하고 아날로그 종이책을 활용하여 새벽의 평온함을 인지 자산으로 전환해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>아침형 인간이 아닌데, 새벽 3~4시에 일어나야 하나요?</span>
+      <span>아침형 인간이 아닌데, 새벽 3 ~ 4시에 일어나야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
       아닙니다. 세종대왕의 핵심은 '기상 직후 외부 방해 없는 나만의 인지 자산 확보'에 있습니다. 본인의 평소 기상 시간보다 단 30분만 일찍 일어나 스마트폰 차단 하에 조용히 독서하는 것만으로도 충분히 동일한 효과를 냅니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>웹소설이나 소셜 미디어 아티클을 읽는 것도 괜찮나요?</span>

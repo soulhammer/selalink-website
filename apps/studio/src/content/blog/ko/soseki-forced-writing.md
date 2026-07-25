@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "슬럼프를 이기는 강제의 힘: 나쓰메 소세키의 아침 집필 루틴"
 description: "나쓰메 소세키가 명작을 남긴 아침 집필 규칙. 영감을 기다리지 않고 뇌의 작동 흥분을 깨우는 루틴의 가치를 설명합니다."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Soseki Forced Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 soseki-forced-writing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Soseki Forced Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 시작이 동기를 만드는 작동 흥분 효과
+## 1. 시작이 동기를 만드는 작동 흥분 효과
 
 뇌는 가만히 앉아 있을 때 동기부여 호르몬을 내보내지 않습니다. 움직이기 시작해야 비로소 전두엽과 측좌핵이 자극을 받아 행동력을 부여합니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다.
 
 ---
 
-## 행동을 바로 이끌기 위한 거장의 조언
-
-기분이나 환경의 조성을 기다리지 말고, 일단 원고지 앞에 앉아 한 글자라도 적기 시작하십시오. 행동만이 뇌를 깨웁니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     지정해 둔 30분 시간 혹은 최소 글자 수를 달성하면 자리를 정리하고 성취감을 안고 종료합니다.
   </p>
 </div>
+
+---
+
+## 3. 행동을 바로 이끌기 위한 거장의 조언
+
+기분이나 환경의 조성을 기다리지 말고, 일단 원고지 앞에 앉아 한 글자라도 적기 시작하십시오. 행동만이 뇌를 깨웁니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

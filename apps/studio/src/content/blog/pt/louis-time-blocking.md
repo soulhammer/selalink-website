@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Arte de Dominar o Tempo: A Rotina de Mapeamento do Tempo de Luís XIV e a Prevenção da Fadiga de Decisão"
 description: "Descubra como o Rei Sol Luís XIV governou a França dividindo rigorosamente suas 24 horas diárias ao minuto. Explore a neurociência da prevenção da fadiga de decisão, as intenções de implementação e um guia de 3 passos."
 pubDate: "2026-04-11"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência por trás da rotina de Luís XIV e
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre louis-time-blocking é baseada em <strong>Verificação Histórica das *Memórias para a Instrução do Delfim* de Luís XIV (1670) e Memórias do Duque de Saint-Simon, Arquivos de Versalhes e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das *Memórias para a Instrução do Delfim* de Luís XIV (1670) e Memórias do Duque de Saint-Simon, Arquivos de Versalhes e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bloqueando a Fadiga de Decisão e Ativando as Intenções de Implementação
+## 1. Bloqueando a Fadiga de Decisão e Ativando as Intenções de Implementação
 
 Escolher constantemente 'o que fazer a seguir' esgota o <strong>Córtex Pré-frontal</strong>, causando <strong>Fadiga de Decisão</strong>. Pré-alocar ações em blocos de tempo ativa as <strong>Intenções de Implementação</strong>, prevenindo a procrastinação e focando a atenção.
 
 ---
 
-## Precaução: Evite Agendas Saturadas e Garanta Tempo de Margem
-
-O maior perigo é uma agenda rígida sem margem de erro. Imprevistos geram pânico perfeccionista. Insira de 10 a 15 minutos de <strong>Tempo de Margem</strong> entre os blocos para manter a <strong>Flexibilidade Cognitiva</strong>.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O maior perigo é uma agenda rígida sem margem de erro. Imprevistos geram pâni
   </p>
 </div>
 
+---
+
+## 3. Precaução: Evite Agendas Saturadas e Garanta Tempo de Margem
+
+O maior perigo é uma agenda rígida sem margem de erro. Imprevistos geram pânico perfeccionista. Insira de 10 a 15 minutos de <strong>Tempo de Margem</strong> entre os blocos para manter a <strong>Flexibilidade Cognitiva</strong>.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O mapeamento de tempo funciona para funções com interrupções frequentes?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O maior perigo é uma agenda rígida sem margem de erro. Imprevistos geram pâni
       Sim, com certeza! Agende de 2 a 3 blocos para 'Atendimento de Emergências e Respostas em Lote'. Mantenha o foco absoluto nos blocos de trabalho profundo.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como superar a culpa ao não cumprir rigorosamente a agenda?</span>

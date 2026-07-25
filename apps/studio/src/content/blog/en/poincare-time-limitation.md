@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Genius Mathematician's Breakthrough Came During Rest? Henri Poincaré's 4-Hour Focus Limit Routine"
 description: "Henri Poincaré's success formula of capping focused work at 4 hours a day. Discover a 3-step guide utilizing focused and diffuse brain modes to unconsciously unlock creative inspiration."
 pubDate: "2026-04-19"
@@ -30,14 +31,14 @@ faqs:
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding poincare-time-limitation is based on <strong>Historical Biographies and Writings on Henri Poincaré & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies and Writings on Henri Poincaré & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Focused Mode vs. Diffuse Mode: Subconscious Problem Solving
+## 1. Focused Mode vs. Diffuse Mode: Subconscious Problem Solving
 
 According to cognitive science and neurophysiology, the brain operates in two distinct modes: 'Focused Mode' and 'Diffuse Mode'. In Focused Mode, as when working intently at a desk, the prefrontal cortex narrows its scope to highly specific neural pathways. However, when you step away and rest or walk, the brain transitions into Diffuse Mode, activating the Default Mode Network (DMN) which connects widespread regions across the brain.
 
@@ -45,9 +46,7 @@ During Diffuse Mode, the subconscious mind engages in 'Incubation'—randomly re
 
 ---
 
-## A Neuroscientific Insight for Sustainable Focus
-
-Creative breakthroughs do not happen by forcing yourself. Set a firm limit on your focused work time, and when stuck on a tough problem, step away and take a walk to grant your brain Diffuse Mode rest. Your subconscious mind will process the answer for you.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Creative breakthroughs do not happen by forcing yourself. Set a firm limit on yo
     Answers surfaced by the subconscious during rest evaporate quickly like a flashing light. Use a notepad or voice memos on your phone to instantly record and save creative epiphanies as soon as they strike.
   </p>
 </div>
+
+---
+
+## 3. A Neuroscientific Insight for Sustainable Focus
+
+Creative breakthroughs do not happen by forcing yourself. Set a firm limit on your focused work time, and when stuck on a tough problem, step away and take a walk to grant your brain Diffuse Mode rest. Your subconscious mind will process the answer for you.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

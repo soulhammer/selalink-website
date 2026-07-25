@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "建国のストレスを空ける汗の滴：リー・クアンユーの運動後瞑想と自律神経系恒常性の復元"
 description: "シンガポール建国の英雄リー・クアンユー首相。毎日退勤後30分トレッドミルを走った直後、20分間の呼吸瞑想を通じて決定を整え脳を回復させた自律神経系スイッチングの原理、コルチゾール消去および3段階実践ガイドを解き明かします。"
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「lee-kuanyew-treadmill」は <strong>リー・クアンユー自伝『リー・クアンユー回顧録（The Singapore Story）』史料考証＆認知神経科学（Cognitive Neuroscience）および運動生理学（Exercise Physiology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>リー・クアンユー自伝『リー・クアンユー回顧録（The Singapore Story）』史料考証＆認知神経科学（Cognitive Neuroscience）および運動生理学（Exercise Physiology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 有酸素刺激を通じたコルチゾール（Cortisol）消去と副交感神経系（Parasympathetic Nervous System）転換
+## 1. 有酸素刺激を通じたコルチゾール（Cortisol）消去と副交感神経系（Parasympathetic Nervous System）転換
 
 汗を流すほどの高強度有酸素運動は、脳内の老廃物排出を促進し認知疲労物質を洗い流します。運動直後に連続して実施する呼吸瞑想は、高度に活性化された<strong>交感神経系（Sympathetic Nervous System）</strong>状態を、リラックスを掌る<strong>副交感神経系（Parasympathetic Nervous System）</strong>状態へと急激に転換させます。この急激な自律神経系スイッチングの過程は、ストレスホルモンである<strong>コルチゾール（Cortisol）</strong>濃度を最短時間で低下させて脳の<strong>恒常性（Homeostasis）</strong>を最高潮へと導き、<strong>前頭前野（Prefrontal Cortex）</strong>の認知疲労を回復させ情緒的平静さを復元します。
 
 ---
 
-## 注意事項：運動直後の心拍数覚醒状態で即座に瞑想に安着するゴールデンタイムルール
-
-リー・クアンユー式ルーティンの核心は、運動後シャワーや他の作業へと移行する前に、即座に静かな瞑想に入ることです。心拍数が大きく覚醒した直後に呼吸を整えてこそ、脳の自律神経系転換メカニズムが最も強力に作動し、コルチゾール（Cortisol）濃度を急激に下げることができます。休息時間の感覚を長く開けないことが核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：運動直後の心拍数覚醒状態で即座に瞑想に安着するゴールデンタイムルール
+
+リー・クアンユー式ルーティンの核心は、運動後シャワーや他の作業へと移行する前に、即座に静かな瞑想に入ることです。心拍数が大きく覚醒した直後に呼吸を整えてこそ、脳の自律神経系転換メカニズムが最も強力に作動し、コルチゾール（Cortisol）濃度を急激に下げることができます。休息時間の感覚を長く開けないことが核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>シャワーを浴びた後に綺麗な状態で瞑想をしてはいけませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いけません。脳の自律神経系矯正シナジーを得るための生理学的ゴールデンタイムは「心拍数が最高潮に達した直後」です。シャワーを浴びる間に心拍数がすでに正常レベルに戻ってしまうと、交感神経から副交感神経への急激な転換に伴うコルチゾール消去および恒常性回復効果が大きく減少します。必ず汗を流した直後に座らなければなりません。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>瞑想中に絶えず雑念が浮かんでくる場合、失敗なのでしょうか？</span>

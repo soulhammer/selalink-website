@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "청바지 뒷주머니의 억만장자 비결: 리처드 브랜슨의 아날로그 수첩과 RAS 자극법"
 description: "버진 그룹 창업자 리처드 브랜슨 회장이 청바지 뒷주머니의 아날로그 수첩에 영감을 실시간 기록해 400여 개 기업을 일군 습관. 손필기가 망상활성계(RAS)를 자극하여 아이디어를 즉각적 실행으로 연결하는 신경과학적 원리를 밝힙니다."
 pubDate: "2026-03-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>리처드 브랜슨 자서전 『내가 버진을 이끄는 방식(Like a Virgin: Secrets They Don't Teach You at Business School)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 branson-notebook-writing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>리처드 브랜슨 자서전 『내가 버진을 이끄는 방식(Like a Virgin: Secrets They Don't Teach You at Business School)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 망상활성계(RAS) 자극과 선택적 지각(Selective Perception)을 통한 실행력 전환
+## 1. 망상활성계(RAS) 자극과 선택적 지각(Selective Perception)을 통한 실행력 전환
 
 뇌간 부위에 위치한 망상활성계(RAS, Reticular Activating System)는 수많은 감각 정보 중 대뇌 피질로 보낼 핵심 신호만을 가려내는 중요성 정보 필터입니다. 펜을 쥐고 종이에 압력을 가해 직접 쓰는 물리적 손필기는 뇌에 '이 정보는 내 생존과 성공에 결정적이다'라는 강력한 생체 각인 신호를 전달합니다. 손필기로 자극된 RAS는 뇌의 주의 집중 조절 장치를 즉각 기동시키며, 이후 무의식 상태에서도 해당 메모와 연관된 기회, 자원, 사람, 해결책만을 사전에 탐색하고 감지하는 '적극적 선택 지각(Selective Perception)' 상태로 뇌를 전환시킵니다. 이는 단순 머릿속 상상이나 기계적 키보드 타이핑에 비해 아이디어를 실제 성과와 비즈니스 실행력으로 성사시키는 확률을 기하급수적으로 높입니다.
 
 ---
 
-## 주의사항 및 팁: 정리가 아닌 날것(Raw) 형태의 즉각적 기록 보존
-
-리처드 브랜슨식 메모 루틴의 핵심은 대화나 생각의 순간에 예쁜 문장으로 가다듬지 않고 즉시 펜으로 포획하는 '날것의 즉각성'에 있습니다. 글씨체를 깔끔하게 다듬거나 정갈하게 요약하려 머뭇거리는 순간 전두엽의 검열 필터가 작동하여 무의식적 영감의 꼬리는 소실됩니다. 상대방의 실제 어휘나 내 아이디어를 가공 없이 날것(Raw Data) 그대로 빠르게 적어두는 것이 RAS를 깨우는 핵심 포인트입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 정리가 아닌 날것(Raw) 형태의 즉각적 기록 보존
+
+리처드 브랜슨식 메모 루틴의 핵심은 대화나 생각의 순간에 예쁜 문장으로 가다듬지 않고 즉시 펜으로 포획하는 '날것의 즉각성'에 있습니다. 글씨체를 깔끔하게 다듬거나 정갈하게 요약하려 머뭇거리는 순간 전두엽의 검열 필터가 작동하여 무의식적 영감의 꼬리는 소실됩니다. 상대방의 실제 어휘나 내 아이디어를 가공 없이 날것(Raw Data) 그대로 빠르게 적어두는 것이 RAS를 깨우는 핵심 포인트입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스마트폰 메모장 앱을 사용하는 것과 아날로그 종이 수첩은 기능적으로 어떻게 다른가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       스마트폰은 화면 잠금을 해제하고 앱을 찾는 과정에서 SNS 알림, 메시지, 메일 등 수많은 주의 분산 자극에 노출되어 영감을 놓치기 쉽습니다. 반면 아날로그 수첩은 펼치는 즉시 필기가 가능하며, 펜의 물리적 압력과 촉각 피질 자극을 통해 뇌의 중요성 필터인 망상활성계(RAS)를 강력하게 각성시킨다는 결정적 차이가 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>수첩에 적어둔 사소한 아이디어가 실제로 거대한 사업 성과로 연결된 실제 사례가 있나요?</span>

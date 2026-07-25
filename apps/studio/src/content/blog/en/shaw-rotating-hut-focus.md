@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Isolation for Perfect Immersion: George Bernard Shaw's Rotating Writing Hut Habit"
 description: "Playwright Bernard Shaw won both the Nobel Prize and an Academy Award. Discover his secret to deep focus: locking himself in a small rotating garden hut for 6 hours daily, chasing daylight and completely blocking distractions."
 pubDate: "2026-02-27"
@@ -32,22 +33,20 @@ George Bernard Shaw, the Nobel laureate playwright famous for works such as 'Pyg
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding shaw-rotating-hut-focus is based on <strong>Historical biographies, autobiographical records of Shaw's rotating hut focus & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies, autobiographical records of Shaw's rotating hut focus & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Daylight Exposure and Minimizing Cognitive Switching Costs
+## 1. Daylight Exposure and Minimizing Cognitive Switching Costs
 
 Continuous exposure to natural daylight stimulates retinal ganglion cells, maximizing serotonin synthesis that drives alertness—an effect indoor artificial lighting cannot replicate. Furthermore, whenever the brain faces minor external interruptions (e.g., questions, knocks, phone chimes), it consumes substantial energy (switching costs) to realign working memory context. Placing the brain in a physically isolated environment like Shaw's rotating hut eliminates external cognitive interference at the source, preventing working memory loss and allowing hours of sustained deep work.
 
 ---
 
-## Precautions and Tips
-
-A key caveat when applying physical isolation is bringing smartphones and social media notifications into the isolated space. Even if physical blockades prevent external intruders, carrying digital distractions inside leaves the brain trapped in unconscious impulses to check notifications, triggering multitasking fatigue. Therefore, upon entering your focus zone, turn off all device notifications (Do Not Disturb) or work offline. True digital detox combined with physical isolation is necessary to experience the full benefit of the rotating hut effect.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ A key caveat when applying physical isolation is bringing smartphones and social
     Arrange your desk near a window to receive full natural sunlight. Allowing sunlight into your field of vision early in the day boosts serotonin synthesis, energizing the brain for challenging long-term tasks.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+A key caveat when applying physical isolation is bringing smartphones and social media notifications into the isolated space. Even if physical blockades prevent external intruders, carrying digital distractions inside leaves the brain trapped in unconscious impulses to check notifications, triggering multitasking fatigue. Therefore, upon entering your focus zone, turn off all device notifications (Do Not Disturb) or work offline. True digital detox combined with physical isolation is necessary to experience the full benefit of the rotating hut effect.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

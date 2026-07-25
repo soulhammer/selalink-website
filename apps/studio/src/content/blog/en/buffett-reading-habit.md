@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Compound Effect of Knowledge: Warren Buffett's 500-Page Daily Reading Habit and Cognitive Reserve"
 description: "Explore Warren Buffett's core success secret—reading 500 pages daily—and discover the cognitive neuroscience behind neural network connectivity, cognitive reserve accumulation, and accelerated pattern recognition."
 pubDate: "2026-06-10"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Warren Buffett's '500-p
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding buffett-reading-habit is based on <strong>Historical Verification from Alice Schroeder's Biography *The Snowball: Warren Buffett and the Business of Life* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Alice Schroeder's Biography *The Snowball: Warren Buffett and the Business of Life* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Brain Plasticity & White Matter Connectivity Enhancement: Cognitive Neuroscience of Knowledge Compounding
+## 1. Brain Plasticity & White Matter Connectivity Enhancement: Cognitive Neuroscience of Knowledge Compounding
 
 Neuroscientific studies reveal that deep reading accelerates myelination across white matter tracts connecting the somatosensory and prefrontal cortices, maximizing signal transmission efficiency. Sustained daily reading of long-form text builds 'Cognitive Reserve' via neuroplasticity, staving off age-related cognitive decline while accelerating processing speed for complex new inputs. Furthermore, as incoming data continuously integrates into existing long-term memory schemas, the brain achieves 'Intuitive Pattern Recognition'—effortlessly identifying core structures in complex scenarios with minimal cognitive friction.
 
 ---
 
-## Caution & Tips: Rejecting Passive Skimming and Maintaining Long-Term Consistency
-
-The essence of Buffett's knowledge compounding routine is not passive skimming aimed at speed. Speed-reading without critical reflection fails to stimulate neural rewiring. Even if you read only 10 pages, deep reading that critically evaluates cause-and-effect logic is paramount. Furthermore, rather than binge-reading sporadically, maintaining a daily habit of setting aside digital distractions to focus on printed text for years is the fundamental catalyst that triggers the compound interest of knowledge.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The essence of Buffett's knowledge compounding routine is not passive skimming a
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Rejecting Passive Skimming and Maintaining Long-Term Consistency
+
+The essence of Buffett's knowledge compounding routine is not passive skimming aimed at speed. Speed-reading without critical reflection fails to stimulate neural rewiring. Even if you read only 10 pages, deep reading that critically evaluates cause-and-effect logic is paramount. Furthermore, rather than binge-reading sporadically, maintaining a daily habit of setting aside digital distractions to focus on printed text for years is the fundamental catalyst that triggers the compound interest of knowledge.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is there a realistic way for a busy professional to achieve Warren Buffett's 500-page daily volume?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The essence of Buffett's knowledge compounding routine is not passive skimming a
       Starting with 500 pages right away is impractical. Buffett's volume is built on decades of neuroplastic adaptation. The goal is not the raw number of pages, but the consistency of the cognitive habit—reading deeply for 20 to 30 pages daily. Committing 30 minutes right after waking or during commutes compounds into massive intellectual leverage over several years.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Do e-books or audiobooks produce the same knowledge compounding effect as physical paper books?</span>

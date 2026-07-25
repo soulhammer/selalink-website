@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "将稿纸粘连成卷轴写作的推理小说家？爱伦·坡的高能专注书写 routines"
 description: "现代推理小说鼻祖爱伦·坡在狭长的纸条上写作，并将其不断拼接成卷轴。探索阻断左右视角干扰以产生“认知隧道效应”的大脑科学原理。"
 pubDate: "2026-01-03"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 poe-scroll-writing 的内容基于 <strong>爱伦·坡历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>爱伦·坡历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 认知隧道效应与自我监视回路的抑制
+## 1. 认知隧道效应与自我监视回路的抑制
 
 将视野范围限制在极窄的带状区域，可减少大脑不必要的眼跳运动（Saccadic movement），从而大幅减少前额叶在视觉注意力上的浪费。脑科学将这种通过强制限制视觉信息输入宽度来促成专注的状态称为<strong>“认知隧道效应（Cognitive Tunneling）”</strong>。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 隔离自我编辑（Editing）
-
-边写边逐句修改的习惯会导致右脑的创意回路与左脑的批判回路不断发生冲突，造成严重的大脑疲劳。正如爱伦·坡将纸条连成卷轴向下书写一样，在初稿阶段应强制关闭批判性的编辑回路，将大脑精力全部用于倾倒创意，修稿则完全留待之后进行。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 隔离自我编辑（Editing）
+
+边写边逐句修改的习惯会导致右脑的创意回路与左脑的批判回路不断发生冲突，造成严重的大脑疲劳。正如爱伦·坡将纸条连成卷轴向下书写一样，在初稿阶段应强制关闭批判性的编辑回路，将大脑精力全部用于倾倒创意，修稿则完全留待之后进行。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>爱伦·坡的卷轴手稿保存至今吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，他撰写的一部分手稿（如评论和短篇作品）至今仍以用胶水拼接的窄卷轴形式保存于美国费城免费图书馆（Free Library of Philadelphia）等机构中。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>有可以在数字屏幕上防止“边写边改”习惯的程序吗？</span>

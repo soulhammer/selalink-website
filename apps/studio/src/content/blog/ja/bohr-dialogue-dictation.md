@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "対話で織りなす物理学：ニールス・ボーアの口述討論とメタ認知執筆法"
 description: "量子力学の巨匠ニールス・ボーアが同僚たちとの口述討論と口述筆記を通じて複雑な物理論文を完成させた独自のルーティン。内面のアイデアを外的言語として客観化しメタ認知を活性化させる神経科学的原理を解き明かします。"
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「bohr-dialogue-dictation」は <strong>アブラハム・パイス伝記『Niels Bohr's Times: In Physics, Philosophy, and Polity』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アブラハム・パイス伝記『Niels Bohr's Times: In Physics, Philosophy, and Polity』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 内的言語の外在化とメタ認知活性化の神経メカニズム
+## 1. 内的言語の外在化とメタ認知活性化の神経メカニズム
 
 頭の中だけで考える「内的言語（Inner Speech）」は論理的な飛躍や曖昧さが隠されており、複雑な問題を解決する際に錯覚を引き起こしがちです。これを声に出して外へ表現する「外的言語（External Speech）」に置換した瞬間、脳は自分のアイデアを第三者の視点から客観的に聴取し加工するメタ認知（Metacognition）回路を作動させます。特にボーアのように相手の反応や即座の質疑応答という社会的刺激を組み合わせると、左右の脳の言語皮質と執行制御ネットワークが強く連鎖稼働し、散らばっていた無意識的直感を明瞭な論理体系へと精緻に再重合させます。
 
 ---
 
-## 注意事項＆ヒント：非目的的雑談の警戒と構造化された時間規格の設定
-
-口述会話ルーティンを適用する際の最大の落とし穴は、論点がぼやけた雑談へと会話が流れてしまうことです。明確な問題ガイドラインなしに討論を始めると、認知的エネルギーと時間だけが消費され、本来の具体化の目的を見失いがちです。口述会話を始める時は、解決したい「たった一つの明確な質問」を相手に宣言してから議論に入り、15〜20分程度の集中した会話タイムブロックを設定して緊張感を維持すべきです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：非目的的雑談の警戒と構造化された時間規格の設定
+
+口述会話ルーティンを適用する際の最大の落とし穴は、論点がぼやけた雑談へと会話が流れてしまうことです。明確な問題ガイドラインなしに討論を始めると、認知的エネルギーと時間だけが消費され、本来の具体化の目的を見失いがちです。口述会話を始める時は、解決したい「たった一つの明確な質問」を相手に宣言してから議論に入り、15〜20分程度の集中した会話タイムブロックを設定して緊張感を維持すべきです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>対話するパートナーや同僚がいない1人環境ではどのように実践しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       スマートフォンの音声メモやAI録音アプリを起動し、仮想の聴手に説明するように声に出して話すことで代替できます。重要なのは聴手の実際の有無ではなく、内面の考えを声（外的言語）へと変換し脳で再び聴取する認知刺激プロセスにあります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>口述討論中に出た会話内容をどのように生産的な文書成果物へと接続しますか？</span>

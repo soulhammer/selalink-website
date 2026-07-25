@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspiração de cabeça para baixo: A rotina de criatividade em parada de cabeça de Igor Stravinsky"
 description: "O músico Igor Stravinsky fazia parada de cabeça sempre que enfrentava um bloqueio ao compor. Descubra os princípios científicos de como a mudança de postura aumenta o fluxo sanguíneo cerebral."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ Neste post, revelamos a mecânica da rotina de Stravinsky e oferecemos um guia p
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre stravinsky-headstand-composition é baseada em <strong>Autobiografia histórica de Igor Stravinsky e estudos em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Autobiografia histórica de Igor Stravinsky e estudos em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Como a parada de cabeça reinicia o fluxo sanguíneo cerebral e os sentidos vestibulares
+## 1. Como a parada de cabeça reinicia o fluxo sanguíneo cerebral e os sentidos vestibulares
 
 Quando o cérebro fica preso em um único pensamento, inverter a postura desencadeia duas mudanças neurocientíficas: Primeiro, a gravidade direciona maior fluxo sanguíneo para a cabeça, fornecendo oxigênio e nutrientes ao lobo frontal. Segundo, o sistema vestibular do ouvido interno detecta um sinal gravitacional incomum, despertando as redes de orientação espacial no cerebelo e córtex cerebral. Isso libera filtros rígidos de atenção e promove associações criativas.
 
 ---
 
-## Precauções e dicas
-
-Se você tiver problemas no pescoço ou de pressão arterial, substitua a parada de cabeça completa por uma meia-inversão suave (como apoiar as pernas em uma cadeira). Mantenha a duração abaixo de 1 minuto e, ao terminar, deite-se de bruços por 30 segundos antes de se levantar devagar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Se você tiver problemas no pescoço ou de pressão arterial, substitua a parada
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Se você tiver problemas no pescoço ou de pressão arterial, substitua a parada de cabeça completa por uma meia-inversão suave (como apoiar as pernas em uma cadeira). Mantenha a duração abaixo de 1 minuto e, ao terminar, deite-se de bruços por 30 segundos antes de se levantar devagar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Imersi Menaklukkan Keterbatasan: Rutinitas Menggambar di Kertas Timah Lee Jung-seob dan Aktivasi Somatosensori"
 description: "Pelajari bagaimana pelukis Lee Jung-seob mempertahankan fokus artistiknya di tengah kemiskinan ekstrem dengan mengukir di atas kertas timah bungkus rokok (Eunjihwa). Temukan neurosains umpan balik multisensorik, keterlibatan korteks somatosensori, dan panduan 3 langkah."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ Sama sekali tidak mampu membeli kanvas atau tabung cat minyak, Lee menolak untuk
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai leejungseob-tin-foil-drawing didasarkan pada <strong>Verifikasi Historis dari Biografi Lee Jung-seob, Arsip National Museum of Modern and Contemporary Art (MMCA) & Penelitian Neurosains Kognitif serta Terapi Seni</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Lee Jung-seob, Arsip National Museum of Modern and Contemporary Art (MMCA) & Penelitian Neurosains Kognitif serta Terapi Seni</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Umpan Balik Multisensorik Visual-Taktil dan Aktivasi Korteks Somatosensori
+## 1. Umpan Balik Multisensorik Visual-Taktil dan Aktivasi Korteks Somatosensori
 
 Dalam neurosains, stimulasi haptik dan taktil secara kuat melibatkan <strong>Korteks Somatosensori</strong>. Mengukir garis ke kertas timah logam menggunakan stylus tajam menstimulasi mekanoreseptor di ujung jari, menginduksi <strong>Gairah Taktil (Tactile Arousal)</strong> instan yang membangunkan jaringan prefrontal eksekutif. Kombinasi resistensi haptik, umpan balik pendengaran, dan kedalaman visual ini membentuk <strong>Umpan Balik Multisensorik</strong>. Ini memenuhi penyangga <strong>Memori Kerja</strong> dan memicu <strong>Mindfulness</strong>.
 
 ---
 
-## Perhatian: Mengecualikan Keinginan Menunggu Alat Sempurna untuk Segera Terbenam dalam Umpan Balik Taktil
-
-Hindari menunda tindakan dengan menyalahkan alat yang buruk atau menunggu kondisi kerja yang sempurna. Kapasitas neurobiologis untuk imersi haptik ada di dalam diri Anda tanpa memandang media—bahkan pada selembar kertas timah bekas atau potongan kertas. Pasrahkan kecemasan internal pada sensasi fisik gesekan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Hindari menunda tindakan dengan menyalahkan alat yang buruk atau menunggu kondis
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengecualikan Keinginan Menunggu Alat Sempurna untuk Segera Terbenam dalam Umpan Balik Taktil
+
+Hindari menunda tindakan dengan menyalahkan alat yang buruk atau menunggu kondisi kerja yang sempurna. Kapasitas neurobiologis untuk imersi haptik ada di dalam diri Anda tanpa memandang media—bahkan pada selembar kertas timah bekas atau potongan kertas. Pasrahkan kecemasan internal pada sensasi fisik gesekan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana mengukir garis di atas kertas timah secara ilmiah menurunkan stres emosional?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Hindari menunda tindakan dengan menyalahkan alat yang buruk atau menunggu kondis
       Resistensi taktil dan akustik goresan yang dihasilkan saat mengukir foil logam memenuhi penyangga pemrosesan somatosensori di otak. Ini secara fisik menekan sinyal ancaman di amigdala dan mencegah pemikiran negatif.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bisakah saya mengganti kertas timah dan paku dengan kertas standar dan pulpen?</span>

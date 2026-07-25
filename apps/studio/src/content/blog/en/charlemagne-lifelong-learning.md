@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Writing Tablet at the Bedside: Charlemagne's Sleep Memory Consolidation Routine"
 description: "Discover how Charlemagne, founder of Western Europe, kept wax tablets by his bedside to master writing, and explore the cognitive neuroscience of maximizing long-term memory consolidation and hippocampal strengthening during slow-wave sleep."
 pubDate: "2026-01-20"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Charlemagne's 'bedside 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding charlemagne-lifelong-learning is based on <strong>Historical Verification from Einhard's Biography *Vita Karoli Magni (Life of Charlemagne)* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Einhard's Biography *Vita Karoli Magni (Life of Charlemagne)* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mechanism of Sleep-Dependent Memory Consolidation During Slow-Wave Sleep
+## 1. Mechanism of Sleep-Dependent Memory Consolidation During Slow-Wave Sleep
 
 Neurophysiologically, short-term information gathered during the day is temporarily buffered in the hippocampus. For this raw data to stabilize into permanent knowledge, it must undergo 'Memory Consolidation'—a systemic transfer from the hippocampus to the neocortex. This process peaks during Slow-Wave Sleep (NREM Stage 3). Charlemagne's routine of writing and studying immediately before sleep acts as a 'pre-sleep loading' strategy that charges the hippocampus with high-density target data. Once sleep ensues, non-REM oscillations and hippocampal sharp-wave ripples replay and transfer these newly encoded traces into the cortical long-term memory architecture.
 
 ---
 
-## Caution & Tips: Blocking Smartphones/IT Devices & Protecting Melatonin Sleep Hygiene
-
-Structuring a bedside environment with blue-light-emitting digital devices (smartphones, tablets) suppresses melatonin secretion, delaying sleep onset and disrupting slow-wave sleep. Bedside writing setups must be strictly restricted to 'blue-light-free analog paper and pen'. Unlocking a smartphone screen if you awaken at night activates dopaminergic reward pathways and shatters sleep architecture; thus, strictly maintain the rule of using only analog tools under dim, warm lighting.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Structuring a bedside environment with blue-light-emitting digital devices (smar
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Blocking Smartphones/IT Devices & Protecting Melatonin Sleep Hygiene
+
+Structuring a bedside environment with blue-light-emitting digital devices (smartphones, tablets) suppresses melatonin secretion, delaying sleep onset and disrupting slow-wave sleep. Bedside writing setups must be strictly restricted to 'blue-light-free analog paper and pen'. Unlocking a smartphone screen if you awaken at night activates dopaminergic reward pathways and shatters sleep architecture; thus, strictly maintain the rule of using only analog tools under dim, warm lighting.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Won't keeping paper notebooks under a pillow or bedside get crumpled or damaged during sleep?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Structuring a bedside environment with blue-light-emitting digital devices (smar
       For modern practice, avoid loose thin paper. Instead, place a rigid hard-cover mini notebook on your nightstand, or mount a small wooden clipboard to a bedside shelf. This prevents damage while keeping the access loop friction-free.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Will writing in dim lighting during night awakenings strain my eyes?</span>

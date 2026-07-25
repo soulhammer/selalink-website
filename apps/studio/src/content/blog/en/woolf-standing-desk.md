@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Novelist Who Wrote Standing Every Morning? Virginia Woolf's High-Immersion Habit"
 description: "20th-century literary giant Virginia Woolf. Explore the science of focus gained by writing standing up—inspired by her painter sister's easel—and modern standing work habits."
 pubDate: "2026-06-06"
@@ -36,22 +37,20 @@ In today's post, we share the scientific benefits behind Virginia Woolf's standi
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding woolf-standing-desk is based on <strong>Virginia Woolf historical biography & record examination & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Virginia Woolf historical biography & record examination & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Whole-Body Proprioceptive Stimulation Induced by Standing Desks and Standing Writing
+## 1. Whole-Body Proprioceptive Stimulation Induced by Standing Desks and Standing Writing
 
 Virginia Woolf's habit of writing as if painting at a 105cm tall standing desk stimulates whole-body proprioceptive senses, neutralizing psychological resistance barriers to writing and running executive brain functions at peak levels.
 
 ---
 
-## Posture Maintenance Advice When Setting Up a Standing Work Environment
-
-It is important to maintain physical balance by putting down a anti-fatigue cushion mat to prevent load shifting to one side and taking 5 minutes of relaxation after 40 minutes of work.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ It is important to maintain physical balance by putting down a anti-fatigue cush
     After 40 minutes of focused writing, take a light 5-minute stretch or break to prevent uneven weight on one foot and maintain physical and mental balance.
   </p>
 </div>
+
+---
+
+## 3. Posture Maintenance Advice When Setting Up a Standing Work Environment
+
+It is important to maintain physical balance by putting down a anti-fatigue cushion mat to prevent load shifting to one side and taking 5 minutes of relaxation after 40 minutes of work.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

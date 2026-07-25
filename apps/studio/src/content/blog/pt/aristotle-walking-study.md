@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Ápice da Imersão: O Hábito de Esboço Geométrico na Areia de Arquimedes"
 description: "Arquimedes desenhava continuamente figuras na areia ou no chão para visualizar inspirações científicas complexas. Investigue como o esboço visual manual reduz a sobrecarga cognitiva na memória de trabalho e induz um estado de hiperfoco."
 pubDate: "2026-03-25"
@@ -29,25 +30,23 @@ Arquimedes, o matemático e físico que iluminou a alvorada da ciência antiga c
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre aristotle-walking-study é baseada em <strong>Verificação Histórica das *Vidas Paralelas (Life of Marcellus)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das *Vidas Paralelas (Life of Marcellus)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prevenção da Sobrecarga da Memória de Trabalho e Efeito Cognitivo da Dupla Codificação
+## 1. Prevenção da Sobrecarga da Memória de Trabalho e Efeito Cognitivo da Dupla Codificação
 
 A memória de trabalho humana tem limites estritos na quantidade de informações que pode processar de uma vez. Tentar calcular fórmulas matemáticas ou leis físicas abstratas puramente na cabeça faz o cérebro se fatigar rapidamente e quebra o foco. Nesse momento, o ato de traçar linhas ao redor movendo as mãos induz a 'Cognição Distribuída (Distributed Cognition)', transferindo a carga cognitiva do cérebro para o ambiente externo. Além disso, por meio do efeito de dupla codificação, no qual imagens visuais e movimentos táteis são ativados juntos, estimula as células de memória espacial e promove um processamento sofisticado das informações.
 
 ---
 
-## Precauções e Dicas
-
-O ponto principal a ter em mente ao aplicar o hábito do esboço geométrico é não cair no perfeccionismo de tentar desenhar um esboço impecável e bonito. Prestar atenção excessiva à forma das linhas ou à precisão causa um fenômeno inverso em que os recursos cognitivos do cérebro são desperdiçados na própria habilidade de desenho. Portanto, o esboço geométrico deve ser usado apenas como um guia para organizar informações e ajudar no foco cerebral, sendo o segredo desenhar levemente em nível de rabisco desorganizado e inacabado.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,9 +78,15 @@ O ponto principal a ter em mente ao aplicar o hábito do esboço geométrico é 
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas
+
+O ponto principal a ter em mente ao aplicar o hábito do esboço geométrico é não cair no perfeccionismo de tentar desenhar um esboço impecável e bonito. Prestar atenção excessiva à forma das linhas ou à precisão causa um fenômeno inverso em que os recursos cognitivos do cérebro são desperdiçados na própria habilidade de desenho. Portanto, o esboço geométrico deve ser usado apenas como um guia para organizar informações e ajudar no foco cerebral, sendo o segredo desenhar levemente em nível de rabisco desorganizado e inacabado.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

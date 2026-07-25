@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le génie qui adaptait la couleur de son papier au genre littéraire : La routine de réinitialisation par la couleur et le primage visuel d'Alexandre Dumas"
 description: "Découvrez comment Alexandre Dumas, auteur du 'Comte de Monte-Cristo', utilisait du papier de couleur différente pour chaque genre afin d'éviter la fatigue mentale. Explorez la neuroscience cognitive du primage par la couleur."
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant dumas-color-switching est basée sur <strong>Vérification Historique issue de l'autobiographie d'Alexandre Dumas *Mes Mémoires* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie d'Alexandre Dumas *Mes Mémoires* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Compensation des coûts de changement de tâche via l'« Effet de Primage par la Couleur »
+## 1. Compensation des coûts de changement de tâche via l'« Effet de Primage par la Couleur »
 
 Lorsqu'il passe d'una tâche cognitive à una autre — comme la rédaction stratégique, l'analyse chiffrée ou la création —, le cerveau subit des « Coûts de Changement de Tâche ». Ce retard survient car le « Résidu Cognitif » de la tâche précédente occupe la mémoire de travail dans le cortex préfrontal, réduisant l'efficacité. La méthode de codage par couleur d'Alexandre Dumas constitue un exemple de « Primage Visuel par la Couleur ». Dès que le cortex visuel détecte una couleur associée à un domaine précis, il signale au cortex préfrontal d'éliminer le résidu cognitif.
 
 ---
 
-## Précautions & Conseils : Établir des frontières visuelles nettes & Simplifier les catégories
-
-Pour Dumas, le papier de couleur n'était pas un artifice décoratif, mais un signal neuronal définissant des frontières cognitives pour éliminer les frictions. Évitez de complexifier le système avec trop de couleurs : utiliser plus de 3 thèmes empêche le cerveau d'établir un apprentissage associatif solide. Limitez vos catégories à 3 au maximum et conservez les couleurs pour créer un conditionnement efficace.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour Dumas, le papier de couleur n'était pas un artifice décoratif, mais un si
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Établir des frontières visuelles nettes & Simplifier les catégories
+
+Pour Dumas, le papier de couleur n'était pas un artifice décoratif, mais un signal neuronal définissant des frontières cognitives pour éliminer les frictions. Évitez de complexifier le système avec trop de couleurs : utiliser plus de 3 thèmes empêche le cerveau d'établir un apprentissage associatif solide. Limitez vos catégories à 3 au maximum et conservez les couleurs pour créer un conditionnement efficace.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Le codage par couleur numérique (thèmes Notion, applications de tablette) procure-t-il le même effet de primage que le papier analogique ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour Dumas, le papier de couleur n'était pas un artifice décoratif, mais un si
       Oui, tout à fait. Le mécanisme repose sur le conditionnement entre le signal visuel de la couleur et les états cognitifs. Définir des thèmes de fond distincts dans vos applications de notes, des couleurs de dossiers dans Notion ou des thèmes d'interface procure des signaux de primage identiques.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>L'attribution d'un trop grand nombre de couleurs risque-t-elle de provoquer una surcharge cognitive ou de la confusion ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El académico que caminó 15 millas en bata de noche: El hábito de caminata contemplativa de Adam Smith"
 description: "Adam Smith disfrutaba de largas caminatas en inmersión profunda para ensamblar ideas complejas en su mente. Analizamos los principios neurocientíficos de cómo caminar sin estímulos digitales activa la Red por Defecto (DMN) para maximizar la creatividad y la concentración."
 pubDate: "2026-06-02"
@@ -34,22 +35,20 @@ Adam Smith, el pensador que sentó las bases teóricas de la economía moderna e
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre smith-contemplative-walking se basa en <strong>Biografías históricas, registros autobiográficos de las caminatas contemplativas de Smith e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas, registros autobiográficos de las caminatas contemplativas de Smith e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergia entre caminar sin estímulos digitales y la Red por Defecto (DMN)
+## 1. Sinergia entre caminar sin estímulos digitales y la Red por Defecto (DMN)
 
 Caminar mientras se miran pantallas digitales consume rápidamente los recursos cerebrales procesando información visual. Por el contrario, caminar a un ritmo constante sin dispositivos digitales reduce la carga sobre la corteza visual y activa en alto grado la 'Red por Defecto (DMN)', responsable de las intuiciones creativas. Un estudio de la Universidad de Stanford revela que la generación de ideas creativas aumenta un 60% al caminar en comparación con estar sentado. El flujo sanguíneo cardiovascular impulsado al caminar aporta oxígeno fresco a la corteza prefrontal.
 
 ---
 
-## Precauciones y consejos
-
-La mayor trampa de la caminata contemplativa es mirar el teléfono inteligente o escuchar música o pódcasts mientras camina. Los estímulos auditivos o visuales continuos impiden que el cerebro cambie al modo DMN. Por lo tanto, durante una caminata contemplativa, quítese los auriculares y evite estímulos artificiales para lograr una verdadera reorganización cognitiva.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ La mayor trampa de la caminata contemplativa es mirar el teléfono inteligente o
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos
+
+La mayor trampa de la caminata contemplativa es mirar el teléfono inteligente o escuchar música o pódcasts mientras camina. Los estímulos auditivos o visuales continuos impiden que el cerebro cambie al modo DMN. Por lo tanto, durante una caminata contemplativa, quítese los auriculares y evite estímulos artificiales para lograr una verdadera reorganización cognitiva.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cuál es la duración o distancia recomendada para una caminata contemplativa?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ La mayor trampa de la caminata contemplativa es mirar el teléfono inteligente o
       No necesita caminar 15 millas como Smith. Las recomendaciones clínicas sugieren de 20 a 40 minutos para mejorar el flujo sanguíneo cerebral y la activación del DMN. Lo más vital es mantener la concentración sin estímulos digitales, no la distancia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo caminar en una cinta de correr en interiores si no puedo salir?</span>

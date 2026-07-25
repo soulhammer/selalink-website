@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "침묵의 타워: 노벨상 수상자 파블로프의 자극 통제 환경 설계법"
 description: "조건반사의 창시자 이반 파블로프의 자극 차단 루틴을 소개합니다. 외적 환경 변수를 제어해 인지 낭비를 제거하는 3단계 자극 통제 실천법."
 pubDate: "2026-02-27"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Pavlov Stimulus Control 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 pavlov-stimulus-control 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Pavlov Stimulus Control 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 집행 기능을 살리는 '자극 통제 이론'
+## 1. 집행 기능을 살리는 '자극 통제 이론'
 
 뇌과학적으로 우리의 전두엽은 새로운 정보를 계획하고 실행하는 집행 기능(Executive Function)을 담당합니다. 하지만 주변 환경에 시각적, 청각적 자극이 흩어져 있으면, 뇌는 의지력과 인지 자원을 이 자극들을 필터링하고 억제하는 데 분산시킵니다. 행동 심리학의 <strong>'자극 통제(Stimulus Control)'</strong> 이론은 특정 공간의 환경 자극을 고정하거나 차단하여 뇌의 신경 작동 마찰을 최소화하는 기법입니다. 파블로프처럼 외적 변수를 제거하고 데스크 환경을 단순화하면, 뇌는 억제 필터를 가동하는 스트레스에서 해방되어 핵심 과제에 주의 전전두엽 네트워크를 전격 투입하는 고도의 인지 몰입 모드를 경험합니다.
 
 ---
 
-## 자극 통제 루틴의 유연성 확보하기
-
-자극 차단 환경을 고집할 때 겪는 부작용은, 조금이라도 환경이 어수선하거나 소음이 발생하는 외부 장소에서 전혀 주의력을 발휘하지 못하는 예민한 뇌(Hyper-sensitivity)가 될 수 있다는 점입니다. 따라서 자극 통제 훈련은 하루 중 가장 복잡하고 어려운 메인 집중 시간(예: 1 ~ 2시간)에만 적용하고, 일상적인 단순 업무 시에는 약간의 소음이나 환경 변화가 있는 열린 공간에서도 수행하는 유연성을 반드시 길러야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     매일 같은 공간, 동일하게 정돈된 책상 구조에서 집중 루틴을 시작하여, 뇌가 그 환경에 들어서는 즉시 몰입 회로를 활성화하도록 점화(Priming)시킵니다.
   </p>
 </div>
+
+---
+
+## 3. 자극 통제 루틴의 유연성 확보하기
+
+자극 차단 환경을 고집할 때 겪는 부작용은, 조금이라도 환경이 어수선하거나 소음이 발생하는 외부 장소에서 전혀 주의력을 발휘하지 못하는 예민한 뇌(Hyper-sensitivity)가 될 수 있다는 점입니다. 따라서 자극 통제 훈련은 하루 중 가장 복잡하고 어려운 메인 집중 시간(예: 1 ~ 2시간)에만 적용하고, 일상적인 단순 업무 시에는 약간의 소음이나 환경 변화가 있는 열린 공간에서도 수행하는 유연성을 반드시 길러야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

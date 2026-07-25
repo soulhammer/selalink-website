@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Night Restoring Order to the Soul: Pythagoras's Evening Self-Examination Routine"
 description: "Pythagoras reflected on his daily words and actions three times every night before sleeping. Explores the neurophysiological effects of his 3 self-inquiry rituals that awaken metacognition before sleep, strengthening episodic memory and enhancing emotional regulation."
 pubDate: "2026-04-06"
@@ -34,22 +35,20 @@ Pythagoras, the ancient Greek philosopher and master of mathematics and geometry
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding pythagoras-evening-examination is based on <strong>Historical critical biography and autobiographical records of Pythagoras Evening Examination & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical critical biography and autobiographical records of Pythagoras Evening Examination & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Brain Science Principles of Pre-Sleep Memory Consolidation and Emotional Stability
+## 1. Brain Science Principles of Pre-Sleep Memory Consolidation and Emotional Stability
 
 Sleep is a vital period when short-term memories stored in the hippocampus during the day are transferred to the cerebral cortex and fixed into long-term memory (Memory Consolidation). Intentionally reviewing the day's actions right before sleeping provides the brain with a roadmap of 'which episodes to process and store with priority.' Furthermore, the 'self-monitoring' process of evaluating one's actions morally and cognitively strengthens inhibitory circuits in the frontal lobe, purifying emotional dregs (catharsis) and activating the parasympathetic nervous system to induce deep slow-wave sleep.
 
 ---
 
-## Precautions and Tips
-
-The biggest risk of evening reflection is allowing reflection to deteriorate into self-blame or rumination. Becoming emotionally immersed in bad events that occurred today and repeating rumination triggers the secretion of cortisol, a stress hormone that actually causes insomnia. When conducting reflection, maintain 'Cognitive Distance' by observing events objectively strictly from a third-person perspective, focusing on behavioral alternatives like 'I will improve like this next time' instead of self-blame.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ The biggest risk of evening reflection is allowing reflection to deteriorate int
   </p>
 </div>
 
+---
+
+## 3. Precautions and Tips
+
+The biggest risk of evening reflection is allowing reflection to deteriorate into self-blame or rumination. Becoming emotionally immersed in bad events that occurred today and repeating rumination triggers the secretion of cortisol, a stress hormone that actually causes insomnia. When conducting reflection, maintain 'Cognitive Distance' by observing events objectively strictly from a third-person perspective, focusing on behavioral alternatives like 'I will improve like this next time' instead of self-blame.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if I am too busy and tired all day that I fall asleep while reflecting?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ The biggest risk of evening reflection is allowing reflection to deteriorate int
       Falling asleep when exhausted is natural. However, sitting at a desk and making a brief 5-minute record like writing a journal instead of lying in bed helps prevent premature sleep onset and sleep inertia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What should I do if self-blame keeps me awake at night?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "哲学沉思的档案馆：黑格尔的辩证法卡片索引记录术与认知支架习惯"
 description: "在黑格尔集大成德国唯心主义哲学背后，藏着数万张知识卡片与严苛的提箱分类归档系统。揭示突破工作记忆瓶颈的“认知支架（Cognitive Scaffolding）”与3步骤实践指南。"
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 hegel-card-index 的内容基于 <strong>格奥尔格·威廉·弗里德里希·黑格尔传记与黑格尔著作集《精神现象学（Phänomenologie des Geistes）》考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>格奥尔格·威廉·弗里德里希·黑格尔传记与黑格尔著作集《精神现象学（Phänomenologie des Geistes）》考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 突破工作记忆瓶颈的“认知支架（Cognitive Scaffolding）”机制
+## 1. 突破工作记忆瓶颈的“认知支架（Cognitive Scaffolding）”机制
 
 人类大脑前额叶皮层受制于极度有限的<strong>工作记忆（Working Memory）</strong>容量——同时仅能处理寥寥数个信息块。若将纷繁复杂的逻辑体系纯粹存留在脑海中，极易诱发认知过载，导致高阶创造力走向崩塌。黑格尔的卡片索引系统构成了极为完美的<strong>“认知支架（Cognitive Scaffolding）”</strong>。将独立的知识外置于实体卡片上，能极大地腾出大脑中央执行网络的算力空间。在物理空间中铺陈、组装与重组这些卡片的过程，能强力激活连带神经回路，促使原本孤立的断片概念化为有机融通的辩证法合一（Synthesis）。
 
 ---
 
-## 注意事项：超越单纯的无序堆砌，导向信息交织的有机联结
-
-黑格尔的卡片索引箱决非死板的资料堆放仓库，而是其推演辩证沉思的思维延伸。切勿止步于“誊录文字”的微观动作本身；赋予信息严格的范畴秩序与标签，使其能随时被轻松抽调、并与其它信息板块展开无缝联结重组，方为“认知支架”的绝对核心。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：超越单纯的无序堆砌，导向信息交织的有机联结
+
+黑格尔的卡片索引箱决非死板的资料堆放仓库，而是其推演辩证沉思的思维延伸。切勿止步于“誊录文字”的微观动作本身；赋予信息严格的范畴秩序与标签，使其能随时被轻松抽调、并与其它信息板块展开无缝联结重组，方为“认知支架”的绝对核心。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>能否使用数字软件工具完美替代这套模拟卡片索引习惯？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可以！可借助 Notion、Obsidian 或普通笔记应用中的标签分类功能重塑卡片索引体系。尤其是调用其双向链接（Backlinks）网络，能高度复刻甚至进一步强化黑格尔式的思想辩证交织。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>为何短小精罕的原子化卡片比在笔记本上长篇大论誊录更为高效？</span>

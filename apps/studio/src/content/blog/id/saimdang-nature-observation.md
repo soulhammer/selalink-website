@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Penemuan Visi Kreatif: Rutinitas Pengamatan Alam Sangat Presisi Shin Saimdang"
 description: "Metode pelatihan kreativitas seniman wanita ternama era Joseon, Shin Saimdang, melalui pengamatan alam. Menjelaskan dasar ilmiah bagaimana pengamatan alam di pagi hari memulihkan perhatian dan mengembangkan jaringan visual kreatif."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ Dalam artikel hari ini, kami meneliti Teori Pemulihan Perhatian dan prinsip ilmi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai saimdang-nature-observation didasarkan pada <strong>Riset biografi sejarah tentang Pengamatan Alam Shin Saimdang & studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi sejarah tentang Pengamatan Alam Shin Saimdang & studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teori Pemulihan Perhatian dan Penyembuhan Otak dari 'Pesona Lembut'
+## 1. Teori Pemulihan Perhatian dan Penyembuhan Otak dari 'Pesona Lembut'
 
 Menurut Teori Pemulihan Perhatian, 'Perhatian Terarah' yang digunakan pada layar digital menyebabkan pengurasan energi kognitif di korteks prefrontal. Sebaliknya, mengamati elemen alam dengan santai membawa otak ke kondisi 'Pesona Lembut', mengisi ulang baterai kognitif lobus frontal dan mengaktifkan jaringan visualisasi kreatif.
 
 ---
 
-## Nasihat Saimdang untuk Mengisi Ulang Inspirasi dan Pikiran
-
-Kreativitas yang bijak tidak akan muncul dengan memaksakan otak. Melangkah sejenak dari meja kerja, amati helai rumput liar atau serangga yang merayap, dan berikan istirahat pada otak Anda. Dalam relaksasi alami, otak akan mengisi ulang energinya dan memberi Anda inspirasi segar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Kreativitas yang bijak tidak akan muncul dengan memaksakan otak. Melangkah sejen
     Kembali ke ruangan dan catat objek yang diamati setidaknya sekali sehari menggunakan media analog—sketsa pensil, deskripsi singkat, atau coretan—untuk menginternalisasi kemampuan visualisasi.
   </p>
 </div>
+
+---
+
+## 3. Nasihat Saimdang untuk Mengisi Ulang Inspirasi dan Pikiran
+
+Kreativitas yang bijak tidak akan muncul dengan memaksakan otak. Melangkah sejenak dari meja kerja, amati helai rumput liar atau serangga yang merayap, dan berikan istirahat pada otak Anda. Dalam relaksasi alami, otak akan mengisi ulang energinya dan memberi Anda inspirasi segar.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

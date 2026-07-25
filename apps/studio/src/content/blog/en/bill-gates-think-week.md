@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Week of Disconnection: Bill Gates's 'Think Week' and Silent Deep Work"
 description: "Explore Bill Gates's cottage isolation reading routine, 'Think Week', which propelled Microsoft's massive leaps forward, and uncover the neuroscientific principles of eliminating attention residue and maximizing long-term brain insight through total sensory control."
 pubDate: "2026-01-08"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Bill Gates's 'Think Wee
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bill-gates-think-week is based on <strong>Historical Verification from Walter Isaacson's Biography & Microsoft Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Walter Isaacson's Biography & Microsoft Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Forming High-Level Insight Through Elimination of Attention Residue and Long-Term Memory Consolidation
+## 1. Forming High-Level Insight Through Elimination of Attention Residue and Long-Term Memory Consolidation
 
 Modern individuals constantly suffer from 'Attention Residue', where frequent task-switching between digital notifications and emails leaves residual mental clutter that exhausts the cerebrum. Rapidly shifting tasks severs the prefrontal cortex's deep reasoning circuits. When external information input is totally controlled and long-duration focus is dedicated to a single theme—as in Bill Gates's Think Week—the prefrontal cortex's executive functions clear away this residue and optimize for high-order processing. Neuroscientifically, extended reading and contemplation stimulate long-term memory consolidation between the hippocampus and cerebral cortex, enabling the synthesis of fragmented knowledge into a sweeping long-term master plan.
 
 ---
 
-## Caution & Tips: Establishing a Purely Analog Information Input Environment
-
-When practicing a Think Week routine, the biggest hazard to guard against is information input via digital devices. Reading on laptops or tablets easily exposes you to the temptation of emails, web browsing, and instant messages, dismantling the brain's focus network. Whenever possible, prepare paper-printed documents or physical books, and take notes by hand on paper notebooks to maintain tactile sensory stimulation and a state of deep immersion.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When practicing a Think Week routine, the biggest hazard to guard against is inf
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Establishing a Purely Analog Information Input Environment
+
+When practicing a Think Week routine, the biggest hazard to guard against is information input via digital devices. Reading on laptops or tablets easily exposes you to the temptation of emails, web browsing, and instant messages, dismantling the brain's focus network. Whenever possible, prepare paper-printed documents or physical books, and take notes by hand on paper notebooks to maintain tactile sensory stimulation and a state of deep immersion.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Do I need to retreat to a cabin in the woods for several days to hold a Think Week?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When practicing a Think Week routine, the biggest hazard to guard against is inf
       No. The essence lies in 'cutting external information input' and 'attentional isolation', not the location itself. Visiting a quiet local library or dedicated space over the weekend, or locking your smartphone in another room for just a single day while focusing exclusively on physical books and notebooks, provides a powerful brain reset effect.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it acceptable to use laptops or tablets when reading materials?</span>

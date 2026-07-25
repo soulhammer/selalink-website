@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "跨越匮乏的深度沉浸：李仲燮的银纸画素描习惯与体感皮层激活指南"
 description: "深度剖析韩国野兽派画擘李仲燮如何在极度贫困战乱中借由香烟盒银纸刻画（银纸画）坚守艺术真谛。揭示金属箔雕刻触觉刺激激活体感皮层、多感官反馈诱发正念的神经科学原理与3步骤指南。"
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 leejungseob-tin-foil-drawing 的内容基于 <strong>李仲燮传记与国立现代美术馆（MMCA）档案史料考证及认知神经科学（Cognitive Neuroscience）与艺术治疗学（Art Therapy）研究</strong> 撰写。
+      本内容基于 <strong>李仲燮传记与国立现代美术馆（MMCA）档案史料考证及认知神经科学（Cognitive Neuroscience）与艺术治疗学（Art Therapy）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 视觉-触觉多感官反馈（Multisensory Feedback）与体感皮层激活机制
+## 1. 视觉-触觉多感官反馈（Multisensory Feedback）与体感皮层激活机制
 
 在神经科学层面，触觉（Tactile）刺激能比视听觉更为强效地激活原始注意力中枢——<strong>体感皮层（Somatosensory Cortex）</strong>。手持尖锐工具在金属铝箔表面划刻沟槽的行为，可剧烈刺激指尖末梢神经感受器，诱发即刻唤醒前额叶皮层的<strong>“触觉觉醒（Tactile Arousal）”</strong>。划刻摩擦阻力感、沙沙摩擦声与凹刻视线条深度相融而成的<strong>多感官反馈闭环（Multisensory Feedback Loop）</strong>，能饱满填充大脑<strong>工作记忆（Working Memory）</strong>缓冲区，物理性切断诱发焦虑与负面反刍的神经网络，赋予人沉静的<strong>正念（Mindfulness）</strong>状态。
 
 ---
 
-## 注意事项：拒绝等候完美条件，即刻沉浸于指尖触觉反馈指南
-
-切勿以工具匮乏或环境差强人意为借口拖延行动，亦勿被动等候所谓的“完美准备”。即便是废弃的小块银纸或碎纸片，全情投入的触觉心流能量早已潜藏于您的体内。将心中的焦虑与噪点，完全托付给沿着指尖物理摩擦力蔓延舒展的线条中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：拒绝等候完美条件，即刻沉浸于指尖触觉反馈指南
+
+切勿以工具匮乏或环境差强人意为借口拖延行动，亦勿被动等候所谓的“完美准备”。即便是废弃的小块银纸或碎纸片，全情投入的触觉心流能量早已潜藏于您的体内。将心中的焦虑与噪点，完全托付给沿着指尖物理摩擦力蔓延舒展的线条中。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在银纸铝箔上刻画线条在科学原理上究竟如何平抚情绪压力？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       因划刻金属箔纸表层时传导至大脑的独特物理摩擦感与声响，能饱满填充体感皮层反馈。这能于物理层面抑止杏仁核警报与无谓杂念反刍，将注意力死锁定格于当下眼前的视触觉感官中。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若缺乏银纸铝箔与铁钉，使用普通纸张与圆珠笔能否等效替代？</span>

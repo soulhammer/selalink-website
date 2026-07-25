@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Secret Inspiration Behind 'Clair de Lune': Claude Debussy's Dawn Nature Listening and Pink Noise Alpha-Wave Induction"
 description: "Explore how Impressionist master Claude Debussy listened to forest breezes and water at dawn to craft immortal melodies. Discover the cognitive neuroscience of how natural pink noise transitions brainwaves to alpha waves and boosts intuitive creativity."
 pubDate: "2026-03-27"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Claude Debussy's 'dawn 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding debussy-nature-listening is based on <strong>Historical Verification from François Lesure's Biography *Claude Debussy* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from François Lesure's Biography *Claude Debussy* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cortical Alpha Wave Induction and Parasympathetic Relaxation via Natural Pink Noise
+## 1. Cortical Alpha Wave Induction and Parasympathetic Relaxation via Natural Pink Noise
 
 Complex, artificial urban noise overstimulates the auditory cortex, locking the brain into high-frequency Beta Wave states and sympathetic arousal. Conversely, immersing attention in natural 'Pink Noise'—characterized by a $1/f$ spectral energy distribution, such as wind rustling through foliage or trickling water—rapidly shifts EEG rhythms into relaxed 8–12 Hz Alpha Waves. This auditory relaxation lowers cortisol, reduces sympathetic tone, and promotes uninhibited cross-cortical associative firing, unlocking intuitive musical motifs and creative flexibility.
 
 ---
 
-## Caution & Tips: Cutting Artificial Sounds & Focusing Strictly on Acoustic Texture
-
-To fully experience the benefits of nature listening, completely remove linguistic or artificial audio—such as music, podcasts, or spoken news. Do not passively let background sounds wash over you. Instead, engage in 'Active Sensory Listening': spend 5 minutes isolating and differentiating subtle acoustic textures—such as the pitch of wind through leaves or the rhythm of water drops. This active auditory focus clears prefrontal overload and induces alpha waves.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ To fully experience the benefits of nature listening, completely remove linguist
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Cutting Artificial Sounds & Focusing Strictly on Acoustic Texture
+
+To fully experience the benefits of nature listening, completely remove linguistic or artificial audio—such as music, podcasts, or spoken news. Do not passively let background sounds wash over you. Instead, engage in 'Active Sensory Listening': spend 5 minutes isolating and differentiating subtle acoustic textures—such as the pitch of wind through leaves or the rhythm of water drops. This active auditory focus clears prefrontal overload and induces alpha waves.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if I live in a dense city center without nearby parks or woods?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ To fully experience the benefits of nature listening, completely remove linguist
       If outdoor access is constrained, open an early morning window to focus on wind and ambient quiet, or use noise-canceling headphones to play high-quality $1/f$ Pink Noise audio (rain, forest, or ocean sounds) for 5 minutes of focused sensory listening.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is this routine effective if practiced during afternoon work hours rather than early dawn?</span>

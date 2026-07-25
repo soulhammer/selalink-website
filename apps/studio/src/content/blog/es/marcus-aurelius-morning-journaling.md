@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Diario mañanero de Marco Aurelio: Cómo calmar la mente con la filosofía estoica"
 description: "Descubra cómo el emperador romano Marco Aurelio escribía en su diario justo antes del amanecer para aliviar el estrés extremo y cultivar su resiliencia interior."
 pubDate: "2026-05-22"
@@ -36,22 +37,20 @@ Este hábito de escritura matutina, que lo sostuvo entre batallas, epidemias y t
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre marcus-aurelius-morning-journaling se basa en <strong>Verificación histórica de las 'Meditaciones' de Marco Aurelio, registros biográficos e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación histórica de las 'Meditaciones' de Marco Aurelio, registros biográficos e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por qué el diario reflexivo matutino frena el estrés
+## 1. Por qué el diario reflexivo matutino frena el estrés
 
 Escribir inmediatamente después de despertar actúa como un filtro cognitivo para el cerebro. Verter ansiedades vagas y preocupaciones emocionales sobre el papel activa la corteza prefrontal responsable del razonamiento, mientras calma instantáneamente las respuestas hiperactivas de la amígdala. Esta reestructuración cognitiva normaliza la secreción de cortisol y mejora el control ejecutivo, preparándole para cumplir con sus deberes con serenidad.
 
 ---
 
-## Reglas para un diario estoico eficaz
-
-Deseche la retórica elegante pensada para otros; esta escritura debe ser estrictamente honesta y solo para usted. Registre sus debilidades o errores de forma objetiva y considere usar la segunda persona ('tú'). Esta forma de expresión crea una Distancia Cognitiva que le ayuda a observar sus acciones con mayor neutralidad desde una perspectiva externa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Deseche la retórica elegante pensada para otros; esta escritura debe ser estric
   </p>
 </div>
 
+---
+
+## 3. Reglas para un diario estoico eficaz
+
+Deseche la retórica elegante pensada para otros; esta escritura debe ser estrictamente honesta y solo para usted. Registre sus debilidades o errores de forma objetiva y considere usar la segunda persona ('tú'). Esta forma de expresión crea una Distancia Cognitiva que le ayuda a observar sus acciones con mayor neutralidad desde una perspectiva externa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo hacer si me resulta difícil escribir un diario todas las mañanas debido a la prisa?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Deseche la retórica elegante pensada para otros; esta escritura debe ser estric
       No hay necesidad de culparse si se salta un día. La autocompasión y evitar el arrepentimiento son principios estoicos. Si el tiempo es escaso, escribir una sola frase en las notas del móvil como 'No me dejaré perturbar por los problemas de hoy' es suficiente. Lo importante es la constancia de espíritu.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿En qué se diferencia esto de un diario de gratitud convencional o un diario matutino?</span>

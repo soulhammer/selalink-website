@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "写作卡壳就更换打字机？艾萨克·阿西莫夫的多任务切换习惯"
 description: "留下500多部著作的科幻大师艾萨克·阿西莫夫的多任务切换习惯。探索克服单一沉浸疲劳并获得新鲜感效应的3步骤秘诀。"
 pubDate: "2026-05-26"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 asimov-project-switching 的内容基于 <strong>艾萨克·阿西莫夫自传《I, Asimov: A Memoir》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>艾萨克·阿西莫夫自传《I, Asimov: A Memoir》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 上下文切换与新鲜感效应：大脑按区域恢复疲劳
+## 1. 上下文切换与新鲜感效应：大脑按区域恢复疲劳
 
 根据认知心理学与工作记忆（Working Memory）的研究，长期死嗑一项任务时，大脑只会过度激活特定的神经网络，从而导致认知停滞。在此时发生的写作障碍（Writer's Block）状态下强行榨取大脑，会分泌皮质醇，使认知效率急剧下降。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 有助于高效切换注意力的脑科学建议
-
-在某项工作中遇到瓶颈时，一味硬抗到底绝非唯一的美德。大脑的神经元同样需要分区域轮班工作。通过在撰写琐碎电子邮件与撰写完全不同的策划案之间进行聪明的上下文切换，灵活打破工作停滞期吧。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     通过新切换工作的本质新鲜感效应，在认知上阻断上一项工作的疲劳。大脑不仅可以通过停止工作来休息，仅仅通过“激活其他区域”，就能充分享受到休息效果，并流畅地保持沉浸状态。
   </p>
 </div>
+
+---
+
+## 3. 有助于高效切换注意力的脑科学建议
+
+在某项工作中遇到瓶颈时，一味硬抗到底绝非唯一的美德。大脑的神经元同样需要分区域轮班工作。通过在撰写琐碎电子邮件与撰写完全不同的策划案之间进行聪明的上下文切换，灵活打破工作停滞期吧。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

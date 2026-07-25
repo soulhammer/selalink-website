@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Genio que Permanecía en Cama Hasta el Mediodía: La Rutina de Meditación en Cama y Relajación Alfa de René Descartes"
 description: "Descubra cómo el matemático y filósofo René Descartes pasaba las mañanas meditando en cama hasta el mediodía. Explore la neurociencia cognitiva de la postura horizontal, la respuesta reducida de cortisol y la inducción de ondas alfa."
 pubDate: "2026-01-25"
@@ -36,22 +37,20 @@ Desde niño, Descartes tuvo una salud frágil, lo que hacía que madrugar fuera 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre descartes-lying-meditation se basa en <strong>Verificación Histórica del *Discurso del método (Discourse on the Method)* de René Descartes e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica del *Discurso del método (Discourse on the Method)* de René Descartes e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relajación con Cortisol Bajo e Inducción de Ondas Alfa Mediante la Postura Horizontal
+## 1. Relajación con Cortisol Bajo e Inducción de Ondas Alfa Mediante la Postura Horizontal
 
 Levantarse de golpe al despertar desencadena una marcada Respuesta de Despertar del Cortisol (CAR), elevando la activación simpática y cambiando las ondas cerebrales a un patrón beta de estrés. Mantener una postura horizontal relajada tras despertar —como hacía Descartes— frena las de cortisol, conservando Ondas Alfa de 8–12 Hz. En posición acostada, la carga somatosensorial disminuye, permitiendo a la corteza prefrontal dirigir el 100% de su energía a la lógica deductiva.
 
 ---
 
-## Precauciones y Consejos: Evitar la Procrastinación del Sueño y Definir un Enfoque Único
-
-Asegúrese de que la meditación en cama no se degrade en dormitar o volver a dormirse. Evite coger el teléfono inmediatamente al despertar, ya que las distracciones interrumpe el estado alfa. Mantenga la mente despierta mientras permanece acostado durante 5 a 10 minutos, dirigiendo el enfoque prefrontal exclusivamente a un problema principal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Asegúrese de que la meditación en cama no se degrade en dormitar o volver a do
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Evitar la Procrastinación del Sueño y Definir un Enfoque Único
+
+Asegúrese de que la meditación en cama no se degrade en dormitar o volver a dormirse. Evite coger el teléfono inmediatamente al despertar, ya que las distracciones interrumpe el estado alfa. Mantenga la mente despierta mientras permanece acostado durante 5 a 10 minutos, dirigiendo el enfoque prefrontal exclusivamente a un problema principal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿La meditación matutina en cama ofrece realmente beneficios cognitivos demostrados científicamente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Asegúrese de que la meditación en cama no se degrade en dormitar o volver a do
       Sí, sus mecanismos neurofisiológicos están bien documentados. Mantener la postura recostada tras despertar previene picos bruscos de cortisol, estabilizando el sistema nervioso autónomo. Preservar las Ondas Alfa de 8–12 Hz reduce el ruido sensorial, potenciando la deducción intuitiva prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si me quedo dormido accidentalmente mientras medito en cama?</span>

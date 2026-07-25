@@ -8,16 +8,16 @@
   "scripts": {
     "predev": "lsof -t -i:4321 | xargs kill -9 2>/dev/null || true",
     "dev": "astro dev",
-    "build": "node src/compile_all_blogs.js && astro build && node src/generate_fast_sitemap.js && node src/submit_google_indexing.js",
+    "build": "node src/scripts/compilers/compile_all_blogs.js && astro build && node src/scripts/tools/generate_fast_sitemap.js && node src/scripts/tools/submit_google_indexing.js",
     "preview": "astro preview",
     "astro": "astro",
-    "test": "node src/check_master_json_integrity.js && vitest run && node src/check_blog_integrity.js && node src/check_translation_integrity.js",
-    "test:all": "node src/check_master_json_integrity.js && vitest run && playwright test && node src/check_blog_integrity.js && node src/check_translation_integrity.js",
-    "test:fast": "node src/check_master_json_integrity.js && vitest run && node src/check_blog_integrity.js && node src/check_translation_integrity.js",
+    "test": "node src/scripts/validators/check_master_json_integrity.js && vitest run && node src/scripts/validators/check_blog_integrity.js && node src/scripts/validators/check_translation_integrity.js",
+    "test:all": "node src/scripts/validators/check_master_json_integrity.js && vitest run && playwright test && node src/scripts/validators/check_blog_integrity.js && node src/scripts/validators/check_translation_integrity.js",
+    "test:fast": "node src/scripts/validators/check_master_json_integrity.js && vitest run && node src/scripts/validators/check_blog_integrity.js && node src/scripts/validators/check_translation_integrity.js",
     "test:unit": "vitest run",
     "test:e2e": "playwright test",
-    "generate-blog": "node src/generate_blog_autonomous.js",
-    "distribute-blog-dates": "node src/distribute_blog_dates.js"
+    "generate-blog": "node src/scripts/tools/generate_blog_autonomous.js",
+    "distribute-blog-dates": "node src/scripts/tools/distribute_blog_dates.js"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",

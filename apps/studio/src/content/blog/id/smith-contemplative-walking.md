@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cendekiawan yang Berjalan 15 Mil Berjubah Tidur: Kebiasaan Jalan Santai Kontemplatif Adam Smith"
 description: "Adam Smith menikmati jalan santai jarak jauh dengan fokus penuh untuk merangkai ide-ide rumit di kepalanya. Kami mengupas prinsip neurosains tentang bagaimana tindakan berjalan tanpa gangguan digital mengaktifkan Default Mode Network untuk memaksimalkan kreativitas dan fokus."
 pubDate: "2026-06-02"
@@ -31,25 +32,23 @@ Adam Smith, pemikir yang meletakkan dasar teori ekonomi modern dan merumuskan ko
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai smith-contemplative-walking didasarkan pada <strong>Biografi historis, catatan autobiografi jalan kontemplatif Smith & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis, catatan autobiografi jalan kontemplatif Smith & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergi Antara Jalan Tanpa Gangguan Digital dan Default Mode Network
+## 1. Sinergi Antara Jalan Tanpa Gangguan Digital dan Default Mode Network
 
 Berjalan sambil menatap layar digital menguras sumber daya otak untuk memproses informasi visual. Sebaliknya, berjalan dengan tempo stabil tanpa perangkat digital menurunkan beban korteks visual dan mengaktifkan 'Default Mode Network (DMN)' yang memicu gagasan kreatif. Menurut penelitian Stanford University, kemampuan berpikir kreatif meningkat rata-rata 60% saat berjalan dibandingkan saat duduk. Peningkatan sirkulasi darah kardiovaskular saat berjalan menyuplai oksigen segar ke korteks prefrontal.
 
 ---
 
-## Tindakan Pencegahan dan Tips
-
-Jebakan terbesar dari jalan santai kontemplatif adalah memeriksa ponsel pintar atau mendengarkan musik/podcast saat berjalan. Masukan auditori atau visual secara terus-menerus mencegah otak beralih ke mode DMN. Oleh karena itu, lepaskan earphone dan hindari rangsangan buatan untuk memberikan kesegaran kognitif sejati.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Jebakan terbesar dari jalan santai kontemplatif adalah memeriksa ponsel pintar a
   </p>
 </div>
 
+---
+
+## 3. Tindakan Pencegahan dan Tips
+
+Jebakan terbesar dari jalan santai kontemplatif adalah memeriksa ponsel pintar atau mendengarkan musik/podcast saat berjalan. Masukan auditori atau visual secara terus-menerus mencegah otak beralih ke mode DMN. Oleh karena itu, lepaskan earphone dan hindari rangsangan buatan untuk memberikan kesegaran kognitif sejati.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Berapa jarak atau durasi yang ideal untuk jalan santai kontemplatif?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Jebakan terbesar dari jalan santai kontemplatif adalah memeriksa ponsel pintar a
       Anda tidak perlu berjalan sejauh 15 mil seperti Smith. Durasi klinis yang direkomendasikan untuk meningkatkan aliran darah otak dan aktivasi DMN adalah 20 hingga 40 menit. Yang terpenting adalah durasi fokus tanpa gangguan digital, bukan jaraknya.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya boleh berjalan di atas treadmill dalam ruangan jika tidak bisa keluar rumah?</span>

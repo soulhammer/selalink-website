@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Grave la lumière dans le cerveau ? La méthode d'observation de la sensibilité au contraste au lever du soleil de Turner"
 description: "L'expression chromatique unique du 'peintre de la lumière' J.M.W. Turner est née de son habitude quotidienne de contempler le lever du soleil. Découvrez la méthode de contemplation des couleurs de Turner qui active la cognition visuelle."
 pubDate: "2026-02-27"
@@ -33,17 +34,17 @@ Cette routine repose sur un mécanisme scientifique rigoureux qui réduit la sur
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant turner-dawn-observation est basée sur <strong>Biographies historiques et données autobiographiques sur J.M.W. Turner et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et données autobiographiques sur J.M.W. Turner et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Changements progressifs de lumière stimulant le cortex visuel
+## 1. Changements progressifs de lumière stimulant le cortex visuel
 
 Le ciel au lever du soleil subit un changement rapide de température de couleur en peu de temps, passant d'une lumière bleue douce à une lumière naturelle vive. Cette stimulation visuelle progressive entraîne intensément la sensibilité au contraste du cortex visuel.
 
@@ -51,9 +52,7 @@ S'entraîner à élaborer les informations visuelles dans son esprit et à les g
 
 ---
 
-## Attention : Ne fixez pas directement la lumière intense du soleil
-
-Le cœur de la routine de Turner n'est pas de regarder directement la source de lumière intense du soleil. Il s'agit d'observer la douce lumière diffusée par le ciel pâle, la brume ou les nuages juste avant le lever du soleil. Pour éviter les dommages rétiniens, évitez de fixer le soleil.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le cœur de la routine de Turner n'est pas de regarder directement la source de 
   </p>
 </div>
 
+---
+
+## 3. Attention : Ne fixez pas directement la lumière intense du soleil
+
+Le cœur de la routine de Turner n'est pas de regarder directement la source de lumière intense du soleil. Il s'agit d'observer la douce lumière diffusée par le ciel pâle, la brume ou les nuages juste avant le lever du soleil. Pour éviter les dommages rétiniens, évitez de fixer le soleil.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Dois-je pratiquer cette routine même par temps nuageux ou brumeux ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le cœur de la routine de Turner n'est pas de regarder directement la source de 
       C'est même encore mieux. Turner préférait observer la lumière atmosphérique diffusée les jours nuageux, neigeux ou brumeux plutôt que les jours ensoleillés. Par temps couvert, on capte beaucoup mieux les transitions d'ombre créées par la lumière et l'humidité.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je observer la lumière pendant la journée s'il m'est difficile de me lever à l'aube ?</span>

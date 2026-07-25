@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "不遇な過去を乗り越えトークショーの女王となった秘訣？オプラ・ウィンフリーの感謝日記ルーティン"
 description: "世界で最も影響力のある女性リーダーの一人であるオプラ・ウィンフリー。起床直後にスマホの代わりに感謝日記5行を手書きし、脳のデフォルト・モード・ネットワークを前向きに再配線した彼女の科学的ルーティンと実践ガイドを解説します。"
 pubDate: "2026-05-24"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「winfrey-gratitude-journaling」は <strong>オプラ・ウィンフリーに関する歴史的評伝・記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>オプラ・ウィンフリーに関する歴史的評伝・記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 中脳辺縁系ドパミン経路（Mesolimbic Dopamine Pathway）の活性化と脳可塑性
+## 1. 中脳辺縁系ドパミン経路（Mesolimbic Dopamine Pathway）の活性化と脳可塑性
 
 ポジティブな体験を回想し手書きで記録（Gratitude Journaling）する行為は、脳の中脳辺縁系ドパミン経路（Mesolimbic Dopamine Pathway）とセロトニンシステムを強力に活性化します。これにより報酬中心の生理作用が調整され、脳が心地よい覚醒状態になります。また、朝の目覚め時に不安を増幅させやすいデフォルト・モード・ネットワーク（DMN）を遮断し、脳可塑性（Neuroplasticity）によりシナプスを再配線してストレス耐性と回復力を永続的に強化します。
 
 ---
 
-## 形式的な記述の陥し穴と具体性獲得のコツ
-
-感謝日記を書く際、単に「天気がよくて感謝」「起きられて感謝」といった漠然とした形式的なテンプレートを繰り返すと、脳はこれを学習刺激とみなさずドパミン分泌が止まります。重要なのは具体性です。「昨日言った冗談に友人が大笑いしてくれて嬉しかった」のように、場面の音や風景を脳に思い浮かべられるほど具体的に描写して書いてこそ、脳のポジティブ可塑性回路が目覚めます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 形式的な記述の陥し穴と具体性獲得のコツ
+
+感謝日記を書く際、単に「天気がよくて感謝」「起きられて感謝」といった漠然とした形式的なテンプレートを繰り返すと、脳はこれを学習刺激とみなさずドパミン分泌が止まります。重要なのは具体性です。「昨日言った冗談に友人が大笑いしてくれて嬉しかった」のように、場面の音や風景を脳に思い浮かべられるほど具体的に描写して書いてこそ、脳のポジティブ可塑性回路が目覚めます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>どうしても感謝することが思い浮かばない憂鬱な日には、何を書き込めばよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       そうした日こそ、このルーティンが最も強力に必要な瞬間です。大げさなことを書こうとせず、「昨日飲んだお茶が温かかった」「無事に帰宅できた」「今朝目が覚めて息ができている」といった、生存に直結する極めて些細な物理的状態を書いてください。脳はこれらの微細な安全指標を書き記すだけで危機状況から脱する覚醒を開始します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>スマホの日記アプリやSNS投稿で感謝の記録を残すのはどうですか？</span>

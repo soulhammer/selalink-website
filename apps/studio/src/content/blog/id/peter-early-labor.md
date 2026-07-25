@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pengetahuan yang Dipelajari dengan Tangan Tidak Akan Pernah Dilupakan: Pelatihan Memori Prosedural Peter yang Agung"
 description: "Pelajari kebiasaan praktik keterampilan subuh Peter yang Agung, raja reformator yang menjadi tukang kayu kapal. Panduan tindakan 3 langkah untuk menguasai keterampilan secara permanen dengan merangsang memori prosedural."
 pubDate: "2026-03-18"
@@ -33,25 +34,23 @@ Dalam postingan ini, kita akan menjelajahi prinsip ilmiah rutinitas praktis Pete
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai peter-early-labor didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Peter Early Labor & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Peter Early Labor & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Mekanisme Memori Prosedural' yang Mengaktifkan Memori Permanen
+## 1. 'Mekanisme Memori Prosedural' yang Mengaktifkan Memori Permanen
 
 Dalam neurosains kognitif, memori dibagi menjadi Deklaratif dan Prosedural. Rutinitas Peter yang Agung mengaktifkan serebelum dan ganglia basalis untuk mengodekan keterampilan secara permanen.
 
 ---
 
-## Koordinasi Seimbang Antara Teori dan Praktik
-
-Abaikan teori sama sekali hanya demi latihan fisik tanpa arah justru menghambat kemajuan. Seimbangkan latihan fisik dengan pemahaman teori: 20% waktu untuk memahami konsep dasar, dan 80% untuk praktik langsung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Abaikan teori sama sekali hanya demi latihan fisik tanpa arah justru menghambat 
     Gunakan sisa waktu 20 hingga 30 menit untuk mengkoordinasikan jari dan mata guna mengukir pengetahuan ke sirkuit serebelum. Tetap lanjutkan alur kerja tanpa berhenti meskipun ada kesalahan.
   </p>
 </div>
+
+---
+
+## 3. Koordinasi Seimbang Antara Teori dan Praktik
+
+Abaikan teori sama sekali hanya demi latihan fisik tanpa arah justru menghambat kemajuan. Seimbangkan latihan fisik dengan pemahaman teori: 20% waktu untuk memahami konsep dasar, dan 80% untuk praktik langsung.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

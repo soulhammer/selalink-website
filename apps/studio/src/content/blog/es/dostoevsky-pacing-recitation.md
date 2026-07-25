@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Voz que Resuena en la Habitación: La Rutina de Recitación en Marcha y Dictado de Fiódor Dostoyevski"
 description: "Descubra cómo Fiódor Dostoyevski, autor de 'Crimen y castigo', recorría su habitación interpretando diálogos antes de dictarlos. Explore la neurociencia cognitiva del estímulo de la corteza motora, las áreas de Broca y Wernicke, y las neuronas espejo."
 pubDate: "2026-05-25"
@@ -36,22 +37,20 @@ Según las memorias de su esposa y taquígrafa, Anna Grigórievna, Dostoyevski n
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre dostoevsky-pacing-recitation se basa en <strong>Verificación Histórica de las Memorias de Anna Dostoyévskaya *Memorias (Reminiscences)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Memorias de Anna Dostoyévskaya *Memorias (Reminiscences)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociencia de Vincular el Paso Físico y la Recitación Oral para Activar Redes del Habla y Neuronas Espejo
+## 1. Neurociencia de Vincular el Paso Físico y la Recitación Oral para Activar Redes del Habla y Neuronas Espejo
 
 Recorrer la habitación estimula la corteza motora, aumentando el flujo sanguíneo cerebral y la oxigenación de las redes prefrontales. Al mismo tiempo, la recitación oral (Cognición Oral) establece un Bucle de Retroalimentación Auditivo-Motor, activando el área de Broca (producción del habla) y el área de Wernicke (comprensión). Además, interpretar físicamente a los personajes recluta el sistema de Neuronas Espejo, infundiendo profundidad psicológica a la escritura.
 
 ---
 
-## Precauciones y Consejos: Garantizar un Espacio Privado Seguro y Evitar Interferencias Sociales
-
-Debido a que la recitación oral implica vocalización, practicar en oficinas abiertas o espacios públicos desencadena Ansiedad de Evaluación Social, activando la amígdala y alterando el flujo cognitivo. Para obtener todos los beneficios, ejecute esta rutina en un espacio privado seguro —como un estudio personal, una oficina cerrada o un vehículo privado—.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Debido a que la recitación oral implica vocalización, practicar en oficinas ab
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Garantizar un Espacio Privado Seguro y Evitar Interferencias Sociales
+
+Debido a que la recitación oral implica vocalización, practicar en oficinas abiertas o espacios públicos desencadena Ansiedad de Evaluación Social, activando la amígdala y alterando el flujo cognitivo. Para obtener todos los beneficios, ejecute esta rutina en un espacio privado seguro —como un estudio personal, una oficina cerrada o un vehículo privado—.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Murmurar o leer en silencio produce los mismos beneficios cognitivos que hablar en voz alta?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Debido a que la recitación oral implica vocalización, practicar en oficinas ab
       No. Murmurar o la subvocalización no logra activar los músculos articulatorios ni genera suficiente retroalimentación auditiva. Debe articular con claridad para completar el Bucle de Retroalimentación Auditivo-Motor que activa conjuntamente las áreas de Broca y Wernicke.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es efectivo registrar los pensamientos hablados con mementos de voz o aplicaciones de voz a texto (STT) mientras se camina?</span>

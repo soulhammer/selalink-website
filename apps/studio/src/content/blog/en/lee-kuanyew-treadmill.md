@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sweating Out the Stress of Nation-Building: Lee Kuan Yew's Post-Workout Meditation and Autonomic Homeostasis"
 description: "Discover how Lee Kuan Yew, founding Prime Minister of Singapore, managed high-stakes governance stress by combining a 30-minute treadmill run with 20 minutes of breathing meditation. Explore autonomic nervous system switching, cortisol clearance, and a 3-step guide."
 pubDate: "2026-04-05"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience and exercise physiology b
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding lee-kuanyew-treadmill is based on <strong>Historical Verification from Lee Kuan Yew's Autobiography *The Singapore Story*, Singapore National Archives & Cognitive Neuroscience and Exercise Physiology Research</strong>.
+      This content is based on <strong>Historical Verification from Lee Kuan Yew's Autobiography *The Singapore Story*, Singapore National Archives & Cognitive Neuroscience and Exercise Physiology Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cortisol Clearance via Aerobic Stimulation and Parasympathetic Nervous System Transition
+## 1. Cortisol Clearance via Aerobic Stimulation and Parasympathetic Nervous System Transition
 
 High-intensity aerobic exercise flushes metabolic waste and clears fatigue substances from the brain. Following exercise immediately with breathing meditation abruptly transitions the body from a hyper-aroused <strong>Sympathetic Nervous System</strong> state into a <strong>Parasympathetic Nervous System</strong> dominant state. This rapid autonomic nervous system switching lowers circulating <strong>cortisol</strong> concentrations in record time, elevating biological <strong>Homeostasis</strong> to its peak, restoring executive capacity in the <strong>Prefrontal Cortex</strong>, and re-establishing deep emotional equilibrium.
 
 ---
 
-## Caution: Immediate Post-Workout Meditation Protocol to Harness the Physiological Golden Hour
-
-The essence of Lee Kuan Yew's routine is entering silent meditation immediately after exercise, prior to showering or engaging in other tasks. Regulating respiration while your heart rate is still elevated triggers the vagal nerve to switch autonomic states, driving a rapid drop in cortisol. Avoid inserting long breaks between cardio and meditation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The essence of Lee Kuan Yew's routine is entering silent meditation immediately 
   </p>
 </div>
 
+---
+
+## 3. Caution: Immediate Post-Workout Meditation Protocol to Harness the Physiological Golden Hour
+
+The essence of Lee Kuan Yew's routine is entering silent meditation immediately after exercise, prior to showering or engaging in other tasks. Regulating respiration while your heart rate is still elevated triggers the vagal nerve to switch autonomic states, driving a rapid drop in cortisol. Avoid inserting long breaks between cardio and meditation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can I take a clean shower before sitting down for meditation?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The essence of Lee Kuan Yew's routine is entering silent meditation immediately 
       No. The neurophysiological golden window for autonomic nervous system switching occurs 'immediately when heart rate reaches its peak'. If heart rate normalizes while taking a shower, the drastic shift from sympathetic to parasympathetic dominance diminishes, reducing rapid cortisol clearance. You must sit down right after sweating.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is the meditation session a failure if random stray thoughts keep popping up?</span>

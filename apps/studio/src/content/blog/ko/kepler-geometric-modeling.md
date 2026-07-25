@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "수식 대신 입체 모형을 깎다: 요하네스 케플러의 '촉각적 공간 시각화' 루틴과 두정엽 자극"
 description: "천문학자 요하네스 케플러가 행성의 타원 궤도를 이해하기 위해 손으로 직접 기하학 모형을 깎아 만들던 입체 시각화 습관의 뇌과학적 원리와 두정엽(Parietal Lobe) 자극, 인지적 과부하 경감 및 3단계 실천법을 설명합니다."
 pubDate: "2026-06-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>요하네스 케플러 저작집 『우주의 신비(Mysterium Cosmographicum, 1596)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 공간지각학(Spatial Cognition) 연구</strong>에 근거하여 kepler-geometric-modeling 루틴을 다룹니다.
+      본 콘텐츠는 <strong>요하네스 케플러 저작집 『우주의 신비(Mysterium Cosmographicum, 1596)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 공간지각학(Spatial Cognition) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 두정엽(Parietal Lobe) 공간지각 자극과 인지적 과부하(Cognitive Overload) 경감
+## 1. 두정엽(Parietal Lobe) 공간지각 자극과 인지적 과부하(Cognitive Overload) 경감
 
 추상적인 공간 법칙이나 아키텍처 구조를 머릿속 수식으로만 계산하려 하면, 뇌의 전전두엽은 급격한 <strong>인지적 과부하(Cognitive Overload)</strong>를 겪게 됩니다. 케플러처럼 3차원 실물 도구를 손으로 조작하는 수공 행위는 뇌의 <strong>두정엽(Parietal Lobe)</strong>과 공간지각 연합 피질을 직접 자극합니다. 손가락 끝의 <strong>촉각 감각 정보(Haptic Input)</strong>와 시각 정보가 뇌로 동시에 유입되면, 뇌는 추상적 데이터 구조를 훨씬 단순하고 입체적으로 인지하게 되어 <strong>공간 추론(Spatial Reasoning)</strong> 능력과 문제 해결력을 비약적으로 끌어올립니다.
 
 ---
 
-## 추상적 사유의 한계에서 실물 오감 조작으로 전환하는 수칙
-
-복잡한 소프트웨어 아키텍처, 비즈니스 파이프라인 구상 등 추상적 생각만으로 막힘이 발생할 때는 무리하게 머리를 쓰지 마세요. 모니터를 잠시 끄고 포스트잇, 블록, 혹은 아날로그 카드를 책상 위에서 직접 손으로 배치해 보는 차원 전환이 뇌의 직관을 깨우는 비결입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 추상적 사유의 한계에서 실물 오감 조작으로 전환하는 수칙
+
+복잡한 소프트웨어 아키텍처, 비즈니스 파이프라인 구상 등 추상적 생각만으로 막힘이 발생할 때는 무리하게 머리를 쓰지 마세요. 모니터를 잠시 끄고 포스트잇, 블록, 혹은 아날로그 카드를 책상 위에서 직접 손으로 배치해 보는 차원 전환이 뇌의 직관을 깨우는 비결입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>케플러가 실제로 깎았던 기하학 입체 모형은 어떤 형태였나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       케플러는 정다면체 5가지(정사면체, 정육면체, 정팔면체, 정십이면체, 정이십면체)가 구(Sphere)와 번갈아 맞물리는 '플라톤의 다면체 우주 모형'을 직접 조각했습니다. 이를 통해 행성 간의 거리 비율과 궤도 구조를 시각적·촉각적으로 검증하고자 했습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>실제 블록이나 입체 모형이 없을 때 손쉬운 대체 방법이 있나요?</span>

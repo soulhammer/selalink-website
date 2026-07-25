@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Superar um passado trágico para se tornar a rainha dos talk shows: A rotina do diário de gratidão de Oprah Winfrey"
 description: "Oprah Winfrey, uma das líderes mais influentes do mundo. Descubra sua rotina científica de escrever à mão 5 linhas de gratidão ao acordar para reconfigurar a rede neural por padrão do cérebro."
 pubDate: "2026-05-24"
@@ -33,25 +34,23 @@ Este artigo examina a ciência por trás do hábito de Oprah Winfrey e oferece u
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre winfrey-gratitude-journaling é baseada em <strong>Biografias históricas e registros autobiográficos sobre Oprah Winfrey e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos sobre Oprah Winfrey e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ativação da via dopaminérgica mesolímbica e neuroplasticidade
+## 1. Ativação da via dopaminérgica mesolímbica e neuroplasticidade
 
 Relembrar e escrever a mão experiências positivas estimula a via dopaminérgica mesolímbica e o sistema de serotonina, ajustando o cérebro a um estado de alerta agradável. Isso interrompe a Rede Neural por Padrão (DMN)—que amplia a ansiedade matinal—e reconfigura sinapses por meio da neuroplasticidade, fortalecendo a resiliência ao estresse.
 
 ---
 
-## Erros da escrita mecânica e dicas para especificidade
-
-Frases vagas como 'Grato pelo dia' não geram estímulo de aprendizado nem liberam dopamina. O segredo é a especificidade extrema. Descrever detalhes sensoriais concretos—como 'Grato pelo meu amigo ter rido da minha piada ontem'—permite que o cérebro evoque imagens que ativam a plasticidade positiva.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Frases vagas como 'Grato pelo dia' não geram estímulo de aprendizado nem liber
   </p>
 </div>
 
+---
+
+## 3. Erros da escrita mecânica e dicas para especificidade
+
+Frases vagas como 'Grato pelo dia' não geram estímulo de aprendizado nem liberam dopamina. O segredo é a especificidade extrema. Descrever detalhes sensoriais concretos—como 'Grato pelo meu amigo ter rido da minha piada ontem'—permite que o cérebro evoque imagens que ativam a plasticidade positiva.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que devo escrever em dias desanimados quando não consigo pensar em nada pelo qual ser grato?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Frases vagas como 'Grato pelo dia' não geram estímulo de aprendizado nem liber
       Nesses dias é quando a rotina se faz mais necessária. Não procure grandes feitos; escreva fatos físicos ligados à sobrevivência, como 'O chá estava quente' ou 'Estou respirando com calma esta manhã'. Anotar pequenos indicadores de segurança tira o cérebro do modo de ameaça.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que tal usar aplicativos de diário no celular ou postagens em redes sociais para registrar a gratidão?</span>

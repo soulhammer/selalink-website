@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Menyelaraskan Kekacauan Pikiran: Rutinitas Olah Diri Guqin dan Penyelarasan Pendengaran ala Konfusius"
 description: "Pelajari bagaimana Konfusius, maestro filsafat Timur, menyelaraskan dan memainkan guqin setiap hari selama 14 tahun pengasingan untuk mempertahankan ketenangan mental. Temukan neurosains kognitif tentang keterlibatan pendengaran aktif dan aktivasi parasimpatis."
 pubDate: "2026-06-19"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'penye
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai confucius-guqin-harmony didasarkan pada <strong>Verifikasi Historis dari *Catatan Sejarawan Agung (Shiji: Keluarga Konfusius)* karya Sima Qian & *Analek (Lunyu)* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Catatan Sejarawan Agung (Shiji: Keluarga Konfusius)* karya Sima Qian & *Analek (Lunyu)* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Parasimpatis Melalui Penyelarasan Mikro Senar dan Keterlibatan Pendengaran Aktif
+## 1. Aktivasi Parasimpatis Melalui Penyelarasan Mikro Senar dan Keterlibatan Pendengaran Aktif
 
 Kelebihan beban informasi harian merangsang sistem saraf simpatis secara berlebihan, meningkatkan denyut jantung dan menyempitkan fokus kognitif. Neurosains kognitif menunjukkan bahwa 'keterlibatan pendengaran aktif'—mendengarkan secara cermat sambil menyesuaikan frekuensi getaran senar secara fisik—mempromosikan tonus parasimpatis dalam sistem saraf otonom (ANS). Mendeteksi penyimpangan nada mikroskopis dengan telinga saat melakukan penyesuaian menstabilkan Variabilitas Denyut Jantung (HRV) dan menenangkan ketegangan prefrontal.
 
 ---
 
-## Perhatian & Tip: Menghindari Ketergantungan pada Layar Visual & Merasakan Getaran Akustik secara Langsung
-
-Untuk mengalami relaksasi neurologis sejati, hindari hanya mengandalkan layar tuner digital. Menatap layar secara terus menerus membuat korteks visual tetap terlibat dalam pemrosesan aktif. Sebaliknya, pejamkan mata Anda atau tundukkan pandangan Anda, mengarahkan 100% kesadaran Anda pada resonansi akustik dan getaran taktil halus yang dirasakan di ujung jari Anda saat memetik senar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Untuk mengalami relaksasi neurologis sejati, hindari hanya mengandalkan layar tu
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menghindari Ketergantungan pada Layar Visual & Merasakan Getaran Akustik secara Langsung
+
+Untuk mengalami relaksasi neurologis sejati, hindari hanya mengandalkan layar tuner digital. Menatap layar secara terus menerus membuat korteks visual tetap terlibat dalam pemrosesan aktif. Sebaliknya, pejamkan mata Anda atau tundukkan pandangan Anda, mengarahkan 100% kesadaran Anda pada resonansi akustik dan getaran taktil halus yang dirasakan di ujung jari Anda saat memetik senar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah pemula tanpa latar belakang musik dapat mempraktikkan rutinitas ini?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Untuk mengalami relaksasi neurologis sejati, hindari hanya mengandalkan layar tu
       Ya, tentu saja. Tujuan dari rutinitas ini bukanlah pertunjukan artistik atau kemahiran teknis, melainkan stabilisasi sistem saraf melalui penyelarasan dan resonansi akustik. Instrumen sederhana dan mudah diakses seperti Kalimba atau Ukulele memungkinkan Anda menyelaraskan dan memetik nada dalam 10 menit, memberikan manfaat relaksasi parasimpatis secara penuh.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah menggunakan aplikasi tuner smartphone efektif untuk rutinitas ini?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'illumination du mathématicien de génie est venue pendant le repos ? La routine de limite de focalisation de 4 heures d'Henri Poincaré"
 description: "La formule de succès d'Henri Poincaré consistant à limiter le travail concentré à 4 heures par jour. Découvrez un guide en 3 étapes utilisant les modes concentré et diffus du cerveau pour libérer l'inspiration créative."
 pubDate: "2026-04-19"
@@ -27,17 +28,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant poincare-time-limitation est basée sur <strong>Biographies historiques et écrits sur Henri Poincaré & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et écrits sur Henri Poincaré & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mode concentré vs mode diffus : La résolution subconsciente de problèmes
+## 1. Mode concentré vs mode diffus : La résolution subconsciente de problèmes
 
 Selon les sciences cognitives, le cerveau fonctionne selon deux modes : le 'mode concentré' et le 'mode diffus'. En mode concentré, lorsque l'on travaille au bureau, le cortex préfrontal cible des réseaux très précis. Mais dès que l'on fait une pause ou une marche, le cerveau passe en mode diffus, activant le Réseau par Défaut (DMN).
 
@@ -45,9 +46,7 @@ Pendant ce mode diffus, le subconscient procède à 'l'incubation' : il réassoc
 
 ---
 
-## Un conseil neuroscientifique pour une concentration durable
-
-Les idées créatives ne naissent pas sous la contrainte. Fixez une limite claire à votre temps de travail concentré, et si vous bloquez, levez-vous et allez marcher pour offrir à votre cerveau un repos en mode diffus. Le subconscient trouvera la solution pour vous.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Les idées créatives ne naissent pas sous la contrainte. Fixez une limite clair
     Les réponses du subconscient pendant le repos s'évaporent très vite. Utilisez un carnet ou des notes vocales pour enregistrer immédiatement vos illuminations créatives dès qu'elles surviennent.
   </p>
 </div>
+
+---
+
+## 3. Un conseil neuroscientifique pour une concentration durable
+
+Les idées créatives ne naissent pas sous la contrainte. Fixez une limite claire à votre temps de travail concentré, et si vous bloquez, levez-vous et allez marcher pour offrir à votre cerveau un repos en mode diffus. Le subconscient trouvera la solution pour vous.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

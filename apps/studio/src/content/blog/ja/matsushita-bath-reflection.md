@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "一日の終わり、完全なる空: 松下幸之助の浴槽省察ルーティン"
 description: "「経営の神様」松下幸之助が毎夜実践した温水入浴思索。副交感神経の活性化と脳のデフォルト・モード・ネットワーク（DMN）整列効果を解剖します。"
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「matsushita-bath-reflection」は <strong>松下幸之助歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>松下幸之助歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 温水リラクゼーションとデフォルト・モード・ネットワークのシナジー
+## 1. 温水リラクゼーションとデフォルト・モード・ネットワークのシナジー
 
 温かいお湯での入浴は深部体温を上げ、副交感神経を活性化させてコルチゾールを減少させます。外部刺激が遮断されたリラックス状態は脳のデフォルト・モード・ネットワーク（DMN）を刺激し、創造的な洞察をもたらします。神経科学的研究によると、この行動は扁桃体の不要な不安反応を抑制し、視空間スケッチパッド回路を活性化して長期的な実行機能を飛躍的に向上させます。
 
 ---
 
-## 脳の空虚化を助ける巨匠の一言
-
-賢明な判断を下したいのであれば、まず脳を完全に空にしてください。浴室でのデジタル遮断と15分間の心身のリラクゼーションがその近道です。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の鍵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     軽く水分を拭き取り、水分を補給します。上昇した体温が下がることで、自然と熟睡を促します。
   </p>
 </div>
+
+---
+
+## 3. 脳の空虚化を助ける巨匠の一言
+
+賢明な判断を下したいのであれば、まず脳を完全に空にしてください。浴室でのデジタル遮断と15分間の心身のリラクゼーションがその近道です。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の鍵です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

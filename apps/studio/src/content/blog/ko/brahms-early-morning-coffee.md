@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "새벽 5시 커피와 아침 산책의 조화: 요하네스 브람스의 강력한 아침 각성 루틴"
 description: "독일 클래식 음악의 거장 요하네스 브람스가 매일 새벽 5시에 직접 블랙커피를 내려 마시고 숲길을 활기차게 산책했던 루틴. 카페인과 유산소 운동이 결합할 때 나타나는 BDNF 분비 및 작업 기억 강화의 신경과학적 메커니즘을 밝힙니다."
 pubDate: "2026-06-13"
@@ -14,7 +15,7 @@ steps:
     text: "기상 직후 미지근한 물 한 잔을 마셔 체내 수분을 채우고, 30분간 자연스러운 코르티솔 분비 감소와 수면 관성(Sleep Inertia) 해소를 기다립니다."
   - name: "2단계: 정성껏 내린 블랙커피의 카페인 주입"
     text: "당분이 첨가되지 않은 깔끔한 에스프레소나 드립 커피 한 잔을 추출해 음미하며 마십니다. 카페인이 뇌 수용체에 도달하는 데 소요되는 시간은 약 15 ~ 20분입니다."
-  - name: "3단계: 15~20분간의 활기찬 구상 산책 수행"
+  - name: "3단계: 15 ~ 20분간의 활기찬 구상 산책 수행"
     text: "커피를 마신 후 야외로 나아가 약간 숨이 가쁜 속도로 15 ~ 20분간 활기차게 걷습니다. 두뇌 혈류와 BDNF가 유입될 때 그날 해결할 주요 문제의 인지적 구조를 머릿속으로 설계합니다."
 faqs:
   - question: "브람스는 왜 커피를 타인의 손에 맡기지 않고 직접 고집스럽게 내려 마셨나요?"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>맥스 칼벡 평전 『브람스 평전(Johannes Brahms)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 brahms-early-morning-coffee 루틴을 다룹니다.
+      본 콘텐츠는 <strong>맥스 칼벡 평전 『브람스 평전(Johannes Brahms)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 카페인 각성과 보행 운동의 BDNF 분비 및 작업 기억(Working Memory) 결합 효과
+## 1. 카페인 각성과 보행 운동의 BDNF 분비 및 작업 기억(Working Memory) 결합 효과
 
 모닝커피 속 카페인은 체내 아데노신(Adenosine) 수용체 결합을 차단하여 뇌 피로 신호를 차단하고, 각성을 촉진하는 노르에피네프린(Norepinephrine)과 도파민(Dopamine) 분비를 유도합니다. 뇌가 생리적으로 일깨워진 상태에서 곧바로 수행하는 보행 운동은 두뇌 혈류량을 증가시키고 뇌유래신경영양인자(BDNF)의 방출을 촉진합니다. BDNF는 신경세포를 보호하고 시냅스 가소성(Neuroplasticity)을 활성화합니다. 결과적으로 브람스의 새벽 루틴은 카페인의 중추신경 자극과 산책의 산소 공급이 시너지를 일으켜, 고도의 정보 조작을 담당하는 작업 기억(Working Memory)과 창의적 기획력을 인위적으로 최상으로 끌어올린 강력한 뇌 자극법이었습니다.
 
 ---
 
-## 주의사항 및 팁: 코르티솔 분비 주기 고려 및 기상 후 커피 서빙 시점
-
-카페인의 강렬한 각성 효과는 기상 직후 코르티솔(Cortisol) 호르몬 수치가 최고조일 때 바로 마시면 효과가 반감되고 위장 장애를 유발할 수 있습니다. 기상 후 미지근한 물로 수분을 먼저 공급하고 최소 30분에서 1시간 뒤에 커피를 섭취하여, 코르티솔 수치가 완만해진 시점에 카페인을 흡수시키는 것이 뇌과학적으로 가장 건강하고 효과적인 리추얼 앵커링 방법입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,19 +77,25 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">3단계: 15~20분간의 활기찬 구상 산책 수행</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">3단계: 15 ~ 20분간의 활기찬 구상 산책 수행</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     커피를 마신 후 야외로 나아가 약간 숨이 가쁜 속도로 15 ~ 20분간 활기차게 걷습니다. 두뇌 혈류와 BDNF가 유입될 때 그날 해결할 주요 문제의 인지적 구조를 머릿속으로 설계합니다.
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 코르티솔 분비 주기 고려 및 기상 후 커피 서빙 시점
+
+카페인의 강렬한 각성 효과는 기상 직후 코르티솔(Cortisol) 호르몬 수치가 최고조일 때 바로 마시면 효과가 반감되고 위장 장애를 유발할 수 있습니다. 기상 후 미지근한 물로 수분을 먼저 공급하고 최소 30분에서 1시간 뒤에 커피를 섭취하여, 코르티솔 수치가 완만해진 시점에 카페인을 흡수시키는 것이 뇌과학적으로 가장 건강하고 효과적인 리추얼 앵커링 방법입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>브람스는 왜 커피를 타인의 손에 맡기지 않고 직접 고집스럽게 내려 마셨나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       브람스는 완벽주의적 성향이 강했으며, 커피의 진함과 원두 비율이 아침의 각성 상태에 직결된다고 보았습니다. 원두를 그라인딩하고 수동으로 커피를 내리는 정밀한 손동작 자체가 뇌의 주의력을 집약시키는 강력한 각성 의식(Mental Anchor)으로 작동했기 때문입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>아침 보행 운동이 뇌 자극과 창의성에 구체적으로 어떤 기여를 하나요?</span>

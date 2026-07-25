@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "午前2時に書類へ蛍光ペンを走りさせ政策争点をフィルタリングしたサッチャーの情報精製習慣"
 description: "「鉄の女」と呼ばれた英国首相として、毎朝未明に公文書や記事の山を読み込み、精巧で批判的な意見をメモして認知的主導権を確保しました。"
 pubDate: "2026-04-05"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「thatcher」は <strong>マーガレット・サッチャーの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マーガレット・サッチャーの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 成功をもたらす脳科学的原理の分析
+## 1. 成功をもたらす脳科学的原理の分析
 
 膨大なデータから核心的な情報軸を抽出し、蛍光ペンやメモで視覚的ゲーティング（Visual Gating）処理を行う行為は、脳の「情報抽象化（Information Abstraction）」回路を強力に覚醒させます。これにより前頭葉皮質の認知フィルター解像度が高まり、複雑な争点の中で枝葉の情報に気を取られることなく、本質的なリスクと価値を瞬時に見抜く高度な戦略的判断力を鍛えます。
 
 ---
 
-## 定着させるための行動科学的アドバイス
-
-すべての文章に蛍光ペンを引かないでください。全体テキストの10％未満だけに鋭くペンを入れ、脳に明確な「視覚的対比感」を与えることがポイントです。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のトリガーを事前に設計することが継続性の鍵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 定着させるための行動科学的アドバイス
+
+すべての文章に蛍光ペンを引かないでください。全体テキストの10％未満だけに鋭くペンを入れ、脳に明確な「視覚的対比感」を与えることがポイントです。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のトリガーを事前に設計することが継続性の鍵です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>毎朝スケジュールブリーフィングルーティンを行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       はい、激務の開始30分前にスケジュール優先順位を声に出して確認する儀式が、前頭葉の実行制御機能を先制的に活性化します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>専用のメモボードやブリーフィング設備がない場合はどう代用すればよいですか？</span>

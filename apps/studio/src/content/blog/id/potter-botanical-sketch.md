@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rahasia Penulis 'Peter Rabbit'? Rutinitas Pengamatan Alam Mikroskopis Pagi Hari ala Beatrix Potter"
 description: "Beatrix Potter, penulis 'Peter Rabbit', mengamati struktur halus tanaman dan lumut dengan kaca pembesar setiap pagi untuk mengheningkan gangguan dan menumbuhkan inspirasi seni."
 pubDate: "2026-05-15"
@@ -33,17 +34,17 @@ Dalam artikel hari ini, kita mempelajari neurosains kognitif di balik rutinitas 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai potter-botanical-sketch didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Beatrix Potter & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Beatrix Potter & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mencegah Pikiran Melantur DMN dan Mengaktifkan Kontrol Eksekutif Melalui Perhatian Terfokus Mikroskopis
+## 1. Mencegah Pikiran Melantur DMN dan Mengaktifkan Kontrol Eksekutif Melalui Perhatian Terfokus Mikroskopis
 
 Saat otak terganggu oleh penyesalan masa lalu atau kecemasan masa depan, itu terjadi karena Default Mode Network (DMN) mengalami overheat dan melantur.
 
@@ -51,9 +52,7 @@ Saat otak terganggu oleh penyesalan masa lalu atau kecemasan masa depan, itu ter
 
 ---
 
-## Jangan Melihat Faraway, Tenggelamlah dalam Tekstur Halus Tepat di Depan Anda
-
-Inti dari rutinitas pengamatan ini bukanlah membuat sketsa seni yang megah. Daya pemulihannya terletak pada proses mengeksplorasi secara mikroskopis satu helai daun, ujung pensil, atau tekstur kulit tangan Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Inti dari rutinitas pengamatan ini bukanlah membuat sketsa seni yang megah. Daya
   </p>
 </div>
 
+---
+
+## 3. Jangan Melihat Faraway, Tenggelamlah dalam Tekstur Halus Tepat di Depan Anda
+
+Inti dari rutinitas pengamatan ini bukanlah membuat sketsa seni yang megah. Daya pemulihannya terletak pada proses mengeksplorasi secara mikroskopis satu helai daun, ujung pensil, atau tekstur kulit tangan Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya harus membuat sketsa meskipun tidak pandai menggambar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Inti dari rutinitas pengamatan ini bukanlah membuat sketsa seni yang megah. Daya
       Tidak! Menuliskan fitur yang diamati dalam bentuk teks alih-alih menggambar memberikan efek fokus 100% yang persis sama bagi otak.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ini bisa diterapkan di dalam ruangan atau kantor dengan objek buatan alih-alih benda alam?</span>

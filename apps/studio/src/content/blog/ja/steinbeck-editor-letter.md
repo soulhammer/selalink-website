@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "開始の恐れをなくす：スタインベックのウォーミングアップ手紙ルーティン"
 description: "小説執筆の開始に伴う漠然とした抵抗感を解消するため、毎日編集者に手紙を書いた小説家ジョン・スタインベック。気軽な自由執筆が脳の言語運動野を活性化し先延ばしを克服する原理を探ります。"
 pubDate: "2026-05-07"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「steinbeck-editor-letter」は <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong> に基づいて作成されました。
+      本コンテンツは、<strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 完璧主義の抵抗感解消と扁桃体不安抑制の神経経路
+## 1. 完璧主義の抵抗感解消と扁桃体不安抑制の神経経路
 
 脳が重要で完成度の高い成果物を作らなければならないと認識すると、扁桃体が失敗への無意識の警報を発令して先延ばしを引き起こします。この時、評価を受けない無価値でささやかな執筆を先に行うことで脳に「安全な状態」というフィードバックを与えると、扁桃体の過剰活動が静まります。同時に言語運動野が活性化し、本作業開始時の抵抗を劇的に下げます。
 
 ---
 
-## 注意事項とヒント
-
-ウォーミングアップ手紙を書く際の最大の落とし穴は、それ自体が新たな先延ばしの手段に変質してしまうことです。手紙を長く書きすぎて疲れたり30分以上費やしたりすると、本作業の時間が不足します。手紙は最大5分、ノート半ページ分に厳格に制限し、終わったら即座に本作業へ切り替える実行力が必要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     指と言語野がほぐれた状態で、迷わず即座に本作業（レポート、原稿、勉強）の画面に切り替えます。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+ウォーミングアップ手紙を書く際の最大の落とし穴は、それ自体が新たな先延ばしの手段に変質してしまうことです。手紙を長く書きすぎて疲れたり30分以上費やしたりすると、本作業の時間が不足します。手紙は最大5分、ノート半ページ分に厳格に制限し、終わったら即座に本作業へ切り替える実行力が必要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

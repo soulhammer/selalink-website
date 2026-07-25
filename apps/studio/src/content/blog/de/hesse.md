@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Erde pflegen und Unkraut jäten im ländlichen Garten: Hermann Hesses Naturkontemplations-Methode und DMN-Entspannungsroutine"
 description: "Erfahren Sie, wie der Literaturnobelpreisträger und naturverbundene Pazifist Hermann Hesse nervöse Erschöpfung bewältigte, indem er täglich Gartenerde berührte und Zweige schnitt. Untersuchen Sie die Neurowissenschaften seiner Gärtner-Routine."
 pubDate: "2026-02-16"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Kognitionswissenschaft hinter Hermann He
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu hesse basiert auf <strong>Historische Überprüfung aus Hermann Hesses Essay *Freude am Garten* & Briefen, sowie Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Hermann Hesses Essay *Freude am Garten* & Briefen, sowie Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hemmung der Hyperaktivierung des Default Mode Network (DMN) und Entspannung des Nervensystems
+## 1. Hemmung der Hyperaktivierung des Default Mode Network (DMN) und Entspannung des Nervensystems
 
 Einfache körperliche Arbeit bei gleichzeitiger Konzentration auf Erde, Wald und multisensorische Reize unterdrückt die Hyperaktivierung des <strong>Default Mode Network (DMN)</strong>, das für Grübeleien (Rumination) und ständiges Nachdenken verantwortlich ist. Dies führt zu einem drastischen Abfall des Stresshormons <strong>Cortisol</strong> und aktiviert das <strong>parasympathische Nervensystem</strong>, wodurch chronische Ängste und kognitive Erschöpfung abgebaut werden.
 
 ---
 
-## Vorsichtsmaßnahme: Arbeitsbezogenes Grübeln ausschalten und ganz in analoge Sinnesreize eintauchen
-
-Nehmen Sie beim Spaziergang oder bei der Gartenarbeit keine Arbeits- oder Stressgedanken mit. Konzentrieren Sie sich 10 bis 15 Minuten lang ausschließlich auf die passiven analogen Sinnesreize – das Gefühl von Erde an den Fingerspitzen, Windgeräusche und Blätterduft –, damit sich Ihr Gehirn vollständig erholen kann.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Nehmen Sie beim Spaziergang oder bei der Gartenarbeit keine Arbeits- oder Stress
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Arbeitsbezogenes Grübeln ausschalten und ganz in analoge Sinnesreize eintauchen
+
+Nehmen Sie beim Spaziergang oder bei der Gartenarbeit keine Arbeits- oder Stressgedanken mit. Konzentrieren Sie sich 10 bis 15 Minuten lang ausschließlich auf die passiven analogen Sinnesreize – das Gefühl von Erde an den Fingerspitzen, Windgeräusche und Blätterduft –, damit sich Ihr Gehirn vollständig erholen kann.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Muss man körperliche Arbeit wie Unkrautjäten oder Holzsägen mit echtem Bodenkontakt ausführen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Nehmen Sie beim Spaziergang oder bei der Gartenarbeit keine Arbeits- oder Stress
       Körperliche Arbeit wie das Berühren von Erde und das Jäten von Unkraut signalisiert dem ermüdeten Stirnhirn Entlastung von der 'gerichteten Aufmerksamkeit'. Sollten Sie keinen Garten haben, bietet ein Spaziergang im Wald mit dem Berühren von Ästen denselben Entspannungseffekt.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie lässt sich dies in einer Stadtwohnung ohne eigenen Garten oder Erde ersetzen?</span>

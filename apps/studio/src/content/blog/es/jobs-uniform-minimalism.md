@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Genio que Vestía la Misma Ropa Todos los Días: La Rutina de Minimalismo Decisional y Preservación de Recursos Cognitivos Prefrontales de Steve Jobs"
 description: "Descubra cómo el cofundador de Apple, Steve Jobs, preservaba su energía cognitiva vistiendo un uniforme diario de camiseta de cuello alto negra y vaqueros. Explore la neurociencia de la fatiga de decisión, los recursos prefrontales y un marco de 3 pasos."
 pubDate: "2026-06-25"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la psicología cognitiva y la neurociencia
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre jobs-uniform-minimalism se basa en <strong>Verificación Histórica de *Steve Jobs* (2011) de Walter Isaacson, Archivos de Apple e Investigación en Psicología Cognitiva y Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Steve Jobs* (2011) de Walter Isaacson, Archivos de Apple e Investigación en Psicología Cognitiva y Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Eliminación de la Fatiga de Decisión y Preservación de Recursos Cognitivos Prefrontales
+## 1. Eliminación de la Fatiga de Decisión y Preservación de Recursos Cognitivos Prefrontales
 
 El rendimiento de la corteza prefrontal humana depende de una reserva limitada de energía diaria. Gastar recursos cognitivos temprano seleccionando ropa provoca <strong>Fatiga de Decisión (Decision Fatigue)</strong>. El hábito de Steve Jobs de vestir un uniforme fijo eliminaba las microdecisiones matutinas. Al liberar capacidad ejecutiva, preservaba el máximo ancho de banda de la <strong>Corteza Prefrontal</strong> para el diseño de productos y el liderazgo estratégico.
 
 ---
 
-## Precaución: Convierta las Elecciones Diarias en Constantes para Ahorrar Energía
-
-La clave del minimalismo en el vestir no es la monotonía estética, sino la eliminación sistemática de microdecisiones triviales. Convertir elecciones repetitivas (desayuno, atuendo, ruta de viaje) en constantes fijas ahorra energía prefrontal, siendo la clave para maximizar el rendimiento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La clave del minimalismo en el vestir no es la monotonía estética, sino la eli
   </p>
 </div>
 
+---
+
+## 3. Precaución: Convierta las Elecciones Diarias en Constantes para Ahorrar Energía
+
+La clave del minimalismo en el vestir no es la monotonía estética, sino la eliminación sistemática de microdecisiones triviales. Convertir elecciones repetitivas (desayuno, atuendo, ruta de viaje) en constantes fijas ahorra energía prefrontal, siendo la clave para maximizar el rendimiento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Steve Jobs insistía en vestir exactamente la misma ropa todos los días?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La clave del minimalismo en el vestir no es la monotonía estética, sino la eli
       Jobs eliminó la selección de ropa matutina para evitar la Fatiga de Decisión y conservar la energía de su corteza prefrontal, dedicando el 100% de su capacidad a la gestión de Apple.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuál es una alternativa práctica si vestir un outfit idéntico resulta irrealista?</span>

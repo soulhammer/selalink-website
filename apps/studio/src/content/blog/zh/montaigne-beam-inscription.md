@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "蒙田的梁柱沉思法：通过视觉刺激打破偏见并开启元认知"
 description: "探讨法国哲学家米歇尔·德·蒙田在其塔楼书房的大梁上镌刻57条古代哲学格言、借此打破固化思维并激发创意沉思的科学奥秘。"
 pubDate: "2026-03-10"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 montaigne-beam-inscription 的内容基于 <strong>蒙田历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>蒙田历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 铭刻文本重塑元认知的脑科学原理
+## 1. 铭刻文本重塑元认知的脑科学原理
 
 目光注视精心布置的视觉格言符合认知心理学中的“视觉点火（Visual Priming）”理论。大脑皮层会在无意识中分析传入的文字，拓宽联想网络并提取相关的长期记忆。特别是，抬起下巴仰望天花板文字的垂直眼球运动与向上视线调整，能物理性地刺激主管元认知的“前额叶皮层（Prefrontal Cortex）”。这打破了局限于眼前任务的狭隘视野，引导人们从更高维度审视自身的逻辑是否严密与合理。
 
 ---
 
-## 防止环境适应（视觉习惯化）
-
-无论多么绝妙的名言，如果长年累月以相同的形式挂在天花板或显示器旁，大脑就会将其归类为无害背景而自动无视。为了防止这种视觉适应（Habituation），需要每隔几个月更换便签的颜色、改变摆放位置或换上新的格言。唯有保持带给大脑的新鲜感（Novelty），元认知反射才能被持续激活。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     当思路陷入僵局或怀疑假设前提时，有意识地抬头仰望悬挂的字句静默阅读15秒。通过暂时的视角重置，促使前额叶皮层从宏观维度开启元认知。
   </p>
 </div>
+
+---
+
+## 3. 防止环境适应（视觉习惯化）
+
+无论多么绝妙的名言，如果长年累月以相同的形式挂在天花板或显示器旁，大脑就会将其归类为无害背景而自动无视。为了防止这种视觉适应（Habituation），需要每隔几个月更换便签的颜色、改变摆放位置或换上新的格言。唯有保持带给大脑的新鲜感（Novelty），元认知反射才能被持续激活。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

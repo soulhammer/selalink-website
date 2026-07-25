@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Prime Minister Who Split His Day in Two: Winston Churchill's Afternoon Nap and Adenosine Clearance Routine"
 description: "Discover how British Prime Minister Winston Churchill, who led the Allies to victory in WWII, took daily 1.5-hour bed naps to double his productivity. Explore the cognitive neuroscience of clearing accumulated adenosine and restoring brain arousal via power naps without sleep inertia."
 pubDate: "2026-04-24"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Winston Churchill's 'af
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding churchill-afternoon-nap is based on <strong>Historical Verification from Martin Gilbert's Biography *Winston S. Churchill* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Martin Gilbert's Biography *Winston S. Churchill* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Adenosine Clearance and Cognitive Arousal Recovery Without Sleep Inertia
+## 1. Adenosine Clearance and Cognitive Arousal Recovery Without Sleep Inertia
 
 During waking hours, the neurochemical byproduct 'adenosine' continuously accumulates in the brain, generating sleep pressure. When adenosine binds to prefrontal receptors, executive processing slows and decision-making deteriorates. A brief afternoon nap (a 20-minute power nap or a full 90-minute sleep cycle) rapidly degrades accumulated adenosine. Specifically, a 20-minute nap prompts waking before the brain enters NREM Stage 3 slow-wave sleep, preventing 'Sleep Inertia' (post-awakening grogginess) while immediately restoring prefrontal alertness. Churchill's 90-minute bed nap leveraged a full sleep cycle containing both NREM and REM phases, thoroughly resetting cortical architecture for nighttime governance.
 
 ---
 
-## Caution & Tips: Preventing Nighttime Sleep Disruption & Strictly Timing Naps
-
-The core rule of a nap routine is relieving midday fatigue without draining nighttime sleep pressure. Napping after 3:00 PM or sleeping too long in the late afternoon impairs nighttime sleep onset, triggering an insomniac loop. For modern knowledge workers, a 15-to-20-minute 'Power Nap' is optimal. Napping longer than 30 minutes pushes the brain into deep NREM Stage 3 sleep, resulting in severe sleep inertia upon waking. Use a strict timer to control wake-up timing.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The core rule of a nap routine is relieving midday fatigue without draining nigh
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Preventing Nighttime Sleep Disruption & Strictly Timing Naps
+
+The core rule of a nap routine is relieving midday fatigue without draining nighttime sleep pressure. Napping after 3:00 PM or sleeping too long in the late afternoon impairs nighttime sleep onset, triggering an insomniac loop. For modern knowledge workers, a 15-to-20-minute 'Power Nap' is optimal. Napping longer than 30 minutes pushes the brain into deep NREM Stage 3 sleep, resulting in severe sleep inertia upon waking. Use a strict timer to control wake-up timing.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What is the difference between Churchill's 1.5-hour bed nap during WWII and a modern 20-minute power nap?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The core rule of a nap routine is relieving midday fatigue without draining nigh
       Churchill's 1.5-hour nap compensated for restricted nighttime sleep (4–5 hours) by covering a full 90-minute cycle including both NREM and REM stages. In contrast, a modern 20-minute power nap preserves a normal 7-hour night sleep, remaining within light NREM Stages 1–2 to clear adenosine instantly without sleep inertia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is a 20-minute nap useless if I close my eyes but fail to actually fall asleep?</span>

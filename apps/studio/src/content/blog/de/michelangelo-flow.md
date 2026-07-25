@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Bildhauer, der wochenlang seine Kleidung nicht auszog? Michelangelos extremes Flow-Gewohnheit"
 description: "Michelangelo Buonarroti, der höchste Meister der Renaissance. Entdecken Sie seine kognitive Gewohnheit der Energieersparnis, beim Meißeln des David und der Sixtinischen Decke in Kleidung und Stiefeln zu schlafen, und lernen Sie moderne Methoden für tiefen Flow."
 pubDate: "2026-03-22"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir die kognitionswissenschaftlichen Prinzipien hi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu michelangelo-flow basiert auf <strong>Historische Biografien & Aufzeichnungen zu Michelangelo & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien & Aufzeichnungen zu Michelangelo & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Entscheidungsmüdigkeit minimieren und kognitive Ressourcen schonen
+## 1. Entscheidungsmüdigkeit minimieren und kognitive Ressourcen schonen
 
 Die moderne Verhaltenswissenschaft beschreibt die Erschöpfung der mentalen Selbstregulierungsenergie durch alltägliche Bagatellentscheidungen als 'Ego Depletion' oder 'Entscheidungsmüdigkeit'. Das morgendliche Auswählen von Kleidung oder Essen ermüdet das exekutive Kontrollzentrum des Gehirns. Indem Michelangelo sich isolierte und alltägliche Entscheidungen minimierte, bewahrte er seine geistige Energie vollkommen für das künstlerische Schaffen.
 
 ---
 
-## Genialität entfaltet sich, wenn die Energie ganz auf das Wesentliche gerichtet ist
-
-Michelangelo trieb sich an die Grenzen, um seinen geistigen Schwung bis zur Vollendung der Skulptur aufrechtzuerhalten. Bauen Sie in der heutigen Informationsflut kognitive Schutzwälle auf, um Ihre Energie auf die wichtigste Aufgabe zu bündeln, anstatt sie in unzähligen Alltagsentscheidungen zu vergeuden.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Michelangelo trieb sich an die Grenzen, um seinen geistigen Schwung bis zur Voll
   </p>
 </div>
 
+---
+
+## 3. Genialität entfaltet sich, wenn die Energie ganz auf das Wesentliche gerichtet ist
+
+Michelangelo trieb sich an die Grenzen, um seinen geistigen Schwung bis zur Vollendung der Skulptur aufrechtzuerhalten. Bauen Sie in der heutigen Informationsflut kognitive Schutzwälle auf, um Ihre Energie auf die wichtigste Aufgabe zu bündeln, anstatt sie in unzähligen Alltagsentscheidungen zu vergeuden.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum schlief Michelangelo, ohne Kleidung oder Stiefel auszuziehen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Michelangelo trieb sich an die Grenzen, um seinen geistigen Schwung bis zur Voll
       Weil er seinen hochsensiblen Flow-Zustand nicht unterbrechen wollte. Durch das Vermeiden alltäglicher Übergänge (Umziehen, Duschen, langer Schlaf) lenkte er den kontinuierlichen Fluss seiner künstlerischen Eingebung ohne Unterbrechung in die Skulpturen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was sind praktische Tipps zur Reduzierung von Entscheidungsmüdigkeit im modernen Alltag?</span>

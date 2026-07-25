@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "罗伯特·胡克的微观素描法：借0.01毫米精细观察唤醒前额叶超专注与手眼同步习惯"
 description: "探索17世纪英国科学奇才罗伯特·胡克如何通过复式显微镜精细素描发现人类首个“细胞（Cell）”。揭示手眼同步观察与视空间草图激活的神经科学原理。"
 pubDate: "2026-04-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 hooke-microscopic-sketching 的内容基于 <strong>罗伯特·胡克著作集《显微图谱（Micrographia，1665）》与英国皇家学会（Royal Society）档案考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>罗伯特·胡克著作集《显微图谱（Micrographia，1665）》与英国皇家学会（Royal Society）档案考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 视觉-运动皮层的手眼同步与高密度专注（Fine Focus）机制
+## 1. 视觉-运动皮层的手眼同步与高密度专注（Fine Focus）机制
 
 将目测观照到的微观细节以双绘于纸上的手工观察习惯，能同步唤醒大脑的<strong>视觉皮层（Visual Cortex）</strong>与<strong>运动皮层（Motor Cortex）</strong>。这种手眼同步刺激能强力拉动大脑<strong>视空间草图（Visuospatial Sketchpad）</strong>回路，彻底屏蔽杂念，诱发<strong>前额叶皮层（Prefrontal Cortex）</strong>切入<strong>高密度专注（Fine Focus）</strong>状态，极大化升华问题破解力与信息解译分辨率。
 
 ---
 
-## 注意事项：聚焦微观结构的精细观照，摒弃无谓艺术美化
-
-切勿死磕草图的艺术美感或绘画完成度。机制的核心在于运用眼与手客观精细地捕获观察目标的微观结构、元件连结关系与微小误差图样。比起刻意追求画面美观，全神贯注于将微观关联誊录于纸上的观察行为本身，方能维系前额叶的高密度专注。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：聚焦微观结构的精细观照，摒弃无谓艺术美化
+
+切勿死磕草图的艺术美感或绘画完成度。机制的核心在于运用眼与手客观精细地捕获观察目标的微观结构、元件连结关系与微小误差图样。比起刻意追求画面美观，全神贯注于将微观关联誊录于纸上的观察行为本身，方能维系前额叶的高密度专注。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>能否使用数字思维导图或平板电脑触控笔替代纸质手绘？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可以！无论载体是实体纸笔还是平板电脑触控笔，只要能将精细的微观手部运动与视觉跟踪进行同步、图解架构关联，便能获得完全相同的神经专注效益。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>缺乏绘画天赋或手作功底的人也能从中获益吗？</span>

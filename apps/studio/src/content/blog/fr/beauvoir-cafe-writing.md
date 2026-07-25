@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Immersion au cœur du bruit : La routine de bruit blanc en café et de simplification de l'environnement de Simone de Beauvoir"
 description: "Découvrez la routine d'écriture que la philosophe existentialiste et romancière Simone de Beauvoir pratiquait quotidiennement dans son café parisien préféré autour d'une tasse de thé, et explorez les mécanismes neurologiques du bruit blanc doux ainsi que les méthodes pour créer votre propre Zone de Focalisation."
 pubDate: "2026-06-08"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant beauvoir-cafe-writing est basée sur <strong>Vérification Historique issue de l'autobiographie de Simone de Beauvoir *La Force des choses* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Simone de Beauvoir *La Force des choses* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mécanisme de fonctionnement du bruit blanc et des scripts cognitifs
+## 1. Mécanisme de fonctionnement du bruit blanc et des scripts cognitifs
 
 Sur le plan neuroscientifique, retrouver quotidiennement le même environnement physique (une table attitrée, une boisson précise) déclenche un « Script Cognitif (Cognitive Script) » qui réduit la fatigue décisionnelle et fait basculer le cerveau en hyperfocus. De plus, le doux bruit blanc de 50 à 70 décibels (dB) typique des cafés stimule les ondes cérébrales pour activer les ondes alpha (Alpha), favorisant la créativité et la résolution de problèmes. L'activité dynamique modérée aux alentours sollicite le système des neurones miroirs, offrant un sentiment de sécurité psychologique qui atténue l'isolement et maximise l'efficacité du Travail Profond (Deep Work).
 
 ---
 
-## Précautions & Conseils : Mise en garde contre le bruit social et le bruit de la parole
-
-Tous les bruits ne sont pas bénéfiques pour le cerveau. Une musique forte dépassant 70 décibels ou des conversations clairement audibles (Bruit de la parole, Speech Noise) interfèrent avec la boucle phonologique (Phonological Loop) du cerveau, diminuant la compréhension écrite et les capacités de rédaction logique. Choisissez un lieu où règne un niveau sonore calme, ou si les conversations sont trop distinctes, utilisez un casque à réduction de bruit pour contourner les interférences cognitives.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tous les bruits ne sont pas bénéfiques pour le cerveau. Une musique forte dép
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Mise en garde contre le bruit social et le bruit de la parole
+
+Tous les bruits ne sont pas bénéfiques pour le cerveau. Une musique forte dépassant 70 décibels ou des conversations clairement audibles (Bruit de la parole, Speech Noise) interfèrent avec la boucle phonologique (Phonological Loop) du cerveau, diminuant la compréhension écrite et les capacités de rédaction logique. Choisissez un lieu où règne un niveau sonore calme, ou si les conversations sont trop distinctes, utilisez un casque à réduction de bruit pour contourner les interférences cognitives.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Simone de Beauvoir a-t-elle choisi le Café de Flore comme espace d'écriture ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tous les bruits ne sont pas bénéfiques pour le cerveau. Une musique forte dép
       Pendant le froid rigoureux du Paris des années 1940, le Café de Flore maintenait son poêle chaud et offrait une atmosphère accueillante pour les artistes, où les intellectuels pouvaient rester des heures sans pression, en faisant un espace de création idéal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je mettre en œuvre un Script Cognitif similaire dans un environnement de télétravail ou à domicile ?</span>

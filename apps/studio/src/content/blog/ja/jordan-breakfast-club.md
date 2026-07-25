@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "朝6時百戦百勝のメンタルセットアップ：マイケル・ジョーダンのブレックファスト・クラブと勝者効果"
 description: "バスケットボールの神様マイケル・ジョーダンのフィジカルとメンタルの限界を突破した朝6時トレーニングルーティン「ブレックファスト・クラブ」。勝者効果（Winner Effect）、ドパミン・テストステロン分泌および朝のメンタルセットアップ3段階ガイドを解き明かします。"
 pubDate: "2026-01-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「jordan-breakfast-club」は <strong>マイケル・ジョーダン自伝『Driven from Within』および評伝史料考証＆認知神経科学（Cognitive Neuroscience）および運動生理学（Exercise Physiology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マイケル・ジョーダン自伝『Driven from Within』および評伝史料考証＆認知神経科学（Cognitive Neuroscience）および運動生理学（Exercise Physiology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 勝者効果（Winner Effect）とドパミン・テストステロンの脳科学
+## 1. 勝者効果（Winner Effect）とドパミン・テストステロンの脳科学
 
 1日の中で最も早い早朝に自分の限界を突破する身体活動を完遂すると、脳は即座に<strong>ドパミン（Dopamine）</strong>と<strong>テストステロン（Testosterone）</strong>を分泌し、高い達成感を感じます。これは認知科学的に<strong>「勝者効果（Winner Effect）」</strong>を誘導し、1日全体を通じて挑戦的な課題に直面した際、高い主導性と自信を発揮するよう助けます。また、仲間たちと共に集まってトレーニングし食事を共にする過程は、社会的ホルモンである<strong>オキシトシン（Oxytocin）</strong>を刺激して情緒的結束力を形成し、ルーティン維持率を飛躍的に向上させます。
 
 ---
 
-## 注意事項：気分に依存せず前頭前野の認知摩擦を減らすルール
-
-朝のトレーニングルーティンの核心は、毎朝の気分に依存せず決められた時間に身体を起動することです。起床直後に脳が「もう少し寝ようか、起きようか」と悩む隙を与えず即座に起き上がり運動空間へと移動してこそ、前頭前野（Prefrontal Cortex）の認知的摩擦とエネルギー消耗を最小限に抑えることができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：気分に依存せず前頭前野の認知摩擦を減らすルール
+
+朝のトレーニングルーティンの核心は、毎朝の気分に依存せず決められた時間に身体を起動することです。起床直後に脳が「もう少し寝ようか、起きようか」と悩む隙を与えず即座に起き上がり運動空間へと移動してこそ、前頭前野（Prefrontal Cortex）の認知的摩擦とエネルギー消耗を最小限に抑えることができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>早朝に起きるのが特に辛い夜型人間はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       核心は時間の絶対値ではなく「起床直後の限界突破トレーニング」にあります。必ずしも6時でなくても、ご自身が起床する最初の時間に身体に知的・身体的負荷を加える方式をとれば、同じホルモン分泌と心理的優位効果を享受できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>毎日高強度の運動をすると身体に無理がかかりませんか？</span>

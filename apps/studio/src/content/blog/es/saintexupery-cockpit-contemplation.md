@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El método de notas en la cabina de Saint-Exupéry: Extraer la esencia a través de la soledad y la refinación"
 description: "Explore el hábito de escritura de Antoine de Saint-Exupéry, autor de 'El Principito' y aviador, quien concibió ideas en la soledad de la cabina y alcanzó la esencia eliminando la retórica innecesaria."
 pubDate: "2026-07-18"
@@ -38,22 +39,20 @@ Al aterrizar, al trasvasar sus notas a manuscritos, adoptó el hábito de podar 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre saintexupery-cockpit-contemplation se basa en <strong>Investigación biográfica e histórica sobre la contemplación en la cabina de Saint-Exupéry y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica sobre la contemplación en la cabina de Saint-Exupéry y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por qué la soledad y el hábito de sustracción maximizan la metacognición prefrontal
+## 1. Por qué la soledad y el hábito de sustracción maximizan la metacognición prefrontal
 
 La investigación neurocientífica muestra que la soledad aislada del ruido externo activa la Red Neuronal por Defecto (DMN) del cerebro, facilitando la percepción creativa. Posteriormente, el acto de podar elementos o retórica innecesarios estimula la metacognición prefrontal, elevando la precisión del pensamiento.
 
 ---
 
-## Precauciones y consejos de refinación del hábito de Saint-Exupéry
-
-No censure ni edite durante la fase de generación de ideas. Permita que las ideas fluyan libremente en la soledad primero, y luego siga un proceso de dos pasos en la revisión recortando audazmente más del 30% de los modificadores innecesarios.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ No censure ni edite durante la fase de generación de ideas. Permita que las ide
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos de refinación del hábito de Saint-Exupéry
+
+No censure ni edite durante la fase de generación de ideas. Permita que las ideas fluyan libremente en la soledad primero, y luego siga un proceso de dos pasos en la revisión recortando audazmente más del 30% de los modificadores innecesarios.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Se puede aplicar esta regla de sustracción a informes de trabajo o propuestas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ No censure ni edite durante la fase de generación de ideas. Permita que las ide
       ¡Sí! Después de escribir el borrador con libertad, recorte audazmente los modificadores innecesarios, la jerga y las frases meandrosas en la segunda revisión para duplicar el impacto.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué pasa si se pierde el contexto por recortar demasiado?</span>

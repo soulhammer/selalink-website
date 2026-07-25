@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ブレーズ・パスカルの幾何学没頭：高難度タスクで痛みとストレスを脳から消す方法"
 description: "17世紀の天才ブレーズ・パスカルが激しい歯痛と頭痛を高難度の数学的没頭で克服した歴史的事実と、注意ゲート制御（Attentional Gating）の科学的原理を探ります。"
 pubDate: "2026-06-06"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「pascal-math-focus」は <strong>Pascal Math Focus 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Pascal Math Focus 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 高難度の知的没頭が身体的・精神的不快感を相殺する科学理由
+## 1. 高難度の知的没頭が身体的・精神的不快感を相殺する科学理由
 
 現代の脳科学はこれを「注意ゲート制御理論（Attentional Gating Theory）」で説明します。人間の前頭前野が難易度の高い知的タスクに100%没頭すると、視床（Thalamus）の神経回路が下位の痛みやストレス感覚信号を積極的にゲート（遮断）し、感知できなくさせます。
 
 ---
 
-## パスカルの没頭における注意事項と脳科学的ヒント
-
-雑念やストレスが押し寄せてきたとき、無理に耐えようとしないでください。直ちに作業記憶（Working Memory）を100%使う高難度のクイズや読書タスクに切り替え、15〜20分間脳の感覚遮断バルブを稼働させる必要があります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. パスカルの没頭における注意事項と脳科学的ヒント
+
+雑念やストレスが押し寄せてきたとき、無理に耐えようとしないでください。直ちに作業記憶（Working Memory）を100%使う高難度のクイズや読書タスクに切り替え、15〜20分間脳の感覚遮断バルブを稼働させる必要があります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>この方法は日常的な仕事のストレスや不安にも効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、効果的です。脳の視床（Thalamus）のゲーティングメカニズムは、身体的な痛み 心理的な不安やストレス信号も同様に遮断してくれます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>高難度の没頭スプリントはどれくらいの時間維持するのが理想的ですか？</span>

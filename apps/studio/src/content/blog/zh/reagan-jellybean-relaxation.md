@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "白宫的秘密糖果？罗纳德·里根的软软豆咀嚼减压法"
 description: "美国第40任总统罗纳德·里根在白宫椭圆形办公室吃软软豆，以戒烟并缓解压力。了解咀嚼运动影响情绪的脑科学原理。"
 pubDate: "2026-04-25"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 reagan-jellybean-relaxation 的内容基于 <strong>罗纳德·里根历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>罗纳德·里根历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 稳定杏仁核的咀嚼运动与感官替代
+## 1. 稳定杏仁核的咀嚼运动与感官替代
 
 通过移动下巴重复咀嚼（Mastication）可以激活脑部的三叉神经，从而抑制主导恐惧和压力的杏仁核（Amygdala）活动。这能稳定脉搏并迅速降低皮质醇的分泌。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 为了牙齿健康，请注意糖分摄入量
-
-如果像里根那样吃太多软软豆，可能会因蛀牙或摄入过量糖分而损害健康。建议选择无糖口香糖、无糖软糖或坚果（杏仁、核桃等）作为替代品，安全地享受咀嚼带来的放松效果。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 为了牙齿健康，请注意糖分摄入量
+
+如果像里根那样吃太多软软豆，可能会因蛀牙或摄入过量糖分而损害健康。建议选择无糖口香糖、无糖软糖或坚果（杏仁、核桃等）作为替代品，安全地享受咀嚼带来的放松效果。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>咀嚼运动降低压力的效果需要咀嚼多久才会显现？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       神经生理学研究表明，开始咀嚼大约2至3分钟后，皮质醇水平就会开始下降，脑电波也会开始转变为代表放松状态的阿尔法波（Alpha wave）。因此，保持平静并专注于咀嚼至少2到3分钟是发挥效果的关键。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>咀嚼运动确实存在抑制戒烟欲望或暴饮暴食的科学原理吗？</span>

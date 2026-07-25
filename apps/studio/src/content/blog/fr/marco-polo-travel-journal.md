@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode de prise de notes de l'explorateur : Le journal sensoriel nocturne de Marco Polo"
 description: "Marco Polo, auteur des Voyages de Marco Polo. Découvrez sa routine de journal de terrain consistant à consigner chaque nuit des impressions sensorielles inédites lors de son expédition de 24 ans sur la Route de la Soie."
 pubDate: "2026-06-30"
@@ -33,17 +34,17 @@ Dans l'article d'aujourd'hui, nous présentons la routine du journal sensoriel n
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant marco-polo-travel-journal est basée sur <strong>Biographie historique de Marco Polo, vérification textuelle des 'Voyages de Marco Polo' & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographie historique de Marco Polo, vérification textuelle des 'Voyages de Marco Polo' & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Consignation sensorielle fine renforçant les circuits neuronaux de la mémoire épisodique
+## 1. Consignation sensorielle fine renforçant les circuits neuronaux de la mémoire épisodique
 
 Dans la routine quotidienne, le cerveau efface machinalement les informations familières.
 
@@ -51,9 +52,7 @@ Prendre l'habitude de consigner chaque soir des détails visuels, auditifs et gu
 
 ---
 
-## Consignez des descriptions sensorielles concrètes plutôt que des évaluations abstraites
-
-Au lieu d'évaluations floues comme 'c'était bien/étonnant', notez des détails sensoriels précis comme 'l'arôme piquant des épices et le crissement du parchemin rouge' pour stimuler vivement l'hippocampe. Plutôt que de compter uniquement sur la volonté, concevoir un environnement physique et des déclencheurs qui provoquent naturellement l'action est la clé de la régularité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Au lieu d'évaluations floues comme 'c'était bien/étonnant', notez des détail
   </p>
 </div>
 
+---
+
+## 3. Consignez des descriptions sensorielles concrètes plutôt que des évaluations abstraites
+
+Au lieu d'évaluations floues comme 'c'était bien/étonnant', notez des détails sensoriels précis comme 'l'arôme piquant des épices et le crissement du parchemin rouge' pour stimuler vivement l'hippocampe. Plutôt que de compter uniquement sur la volonté, concevoir un environnement physique et des déclencheurs qui provoquent naturellement l'action est la clé de la régularité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment trouver des sensations nouvelles quand ma routine quotidienne se résume au trajet domicile-travail ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Au lieu d'évaluations floues comme 'c'était bien/étonnant', notez des détail
       De petites micro-variations — comme emprunter une ruelle différente en rentrant du travail, goûter un nouvel ingrédient ou se concentrer 5 secondes sur le parfum d'une fleur — suffisent amplement à créer des stimulations sensorielles inédites.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Y a-t-il une astuce pour réduire le temps passé si le journal a tendance à rallonger ?</span>

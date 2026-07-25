@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "바위에 칙령을 새기고 성찰한 정복왕? 아쇼카 대왕의 일일 윤리 성찰 루틴"
 description: "인도 마우리아 제국의 아쇼카 대왕. 칼링가 전쟁의 참상을 반성하고 석주 칙령을 세워 매일 윤리적 자아를 성찰했던 그의 외부 닻 내리기 루틴과 3단계 실천법을 알아봅니다."
 pubDate: "2026-06-04"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>아쇼카 대왕 석주 칙령(Edicts of Ashoka) 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ashoka-edict-inscribed-reflection 루틴을 다룹니다.
+      본 콘텐츠는 <strong>아쇼카 대왕 석주 칙령(Edicts of Ashoka) 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 외부 가치관 닻(Visual Anchor)과 전전두엽 자아 정체성 강화 메커니즘
+## 1. 외부 가치관 닻(Visual Anchor)과 전전두엽 자아 정체성 강화 메커니즘
 
 사람의 감정과 순간적 욕망은 뇌의 시상하부와 변연계의 영향을 받아 수시로 변덕을 부립니다. 아쇼카 대왕처럼 자신의 핵심 신념을 눈에 보이는 물리적 구조물로 외재화(Externalization)하면, 뇌는 물리적 텍스트를 인식하는 즉시 <strong>'시각적 닻 내리기(Visual Anchoring)'</strong> 효과를 발동시킵니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 가치관 선언의 일회성 이벤트화 및 형식주의 주의
-
-가치관 카드를 예쁘게 적어 붙여놓고 다시는 읽지 않는다면 아무런 뇌과학적 닻 효과가 일어나지 않습니다. 아쇼카 대왕이 석주 비문을 매일 되새긴 것처럼, 핵심은 '매일 눈으로 확인하고 낭송하는 일상적 반복'에 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 가치관 선언의 일회성 이벤트화 및 형식주의 주의
+
+가치관 카드를 예쁘게 적어 붙여놓고 다시는 읽지 않는다면 아무런 뇌과학적 닻 효과가 일어나지 않습니다. 아쇼카 대왕이 석주 비문을 매일 되새긴 것처럼, 핵심은 '매일 눈으로 확인하고 낭송하는 일상적 반복'에 있습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>가치관 단어가 3개보다 많아도 괜찮나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       가급적 3개 이내로 제한하는 것을 강력히 권장합니다. 가치관 숫자가 5개 이상으로 늘어나면 작업 기억(Working Memory)에 부하가 걸려 닻 내리기 효과가 급격히 약화됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>시간이 지나 가치관 단어를 바꿔도 되나요?</span>

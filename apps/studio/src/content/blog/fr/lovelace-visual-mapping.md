@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La programmeuse qui dessinait les formules mathématiques : Le cartographie visuelle d'Ada Lovelace et les réseaux de double codage"
 description: "Découvrez comment Ada Lovelace, première programmeuse de l'histoire, a visualisé les flux de contrôle algorithmiques complexes de la Machine Analytique sous forme de schémas structurés. Explorez la théorie du double codage pour dépasser les limites de la mémoire de travail."
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ Dans cet article, nous décryptons la neuroscience sous-jacente à la cartograph
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant lovelace-visual-mapping est basée sur <strong>Vérification Historique issue du mémoire d'Ada Lovelace *Notes on the Analytical Engine* (1843), des archives Lovelace & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue du mémoire d'Ada Lovelace *Notes on the Analytical Engine* (1843), des archives Lovelace & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Dépasser les limites de la mémoire de travail grâce à la théorie du double codage
+## 1. Dépasser les limites de la mémoire de travail grâce à la théorie du double codage
 
 La <strong>Mémoire de Travail</strong> a una capacité limitée. Un flux continu de texte entraîne una <strong>Surcharge Cognitive</strong>. La méthode de Lovelace a maximisé la <strong>Théorie du double codage</strong>. En traitant les symboles et l'espace via des voies neuronales distinctes, le <strong>Cortex Visuel</strong> soulage le <strong>Cortex Préfrontal</strong>.
 
 ---
 
-## Mise en garde : Éliminer la prise de notes linéaire pour s'immerger dans la cartographie visuelle
-
-S'obstiner dans una prise de notes linéaire face à des systèmes complexes enferme le cerveau. En cas de blocage, cessez d'écrire du texte et utilisez des flèches et des formes sur una large feuille pour visualiser les relations.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ S'obstiner dans una prise de notes linéaire face à des systèmes complexes enf
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer la prise de notes linéaire pour s'immerger dans la cartographie visuelle
+
+S'obstiner dans una prise de notes linéaire face à des systèmes complexes enferme le cerveau. En cas de blocage, cessez d'écrire du texte et utilisez des flèches et des formes sur una large feuille pour visualiser les relations.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>En quoi la cartographie visuelle d'Ada Lovelace diffère-t-elle d'una carte mentale classique ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ S'obstiner dans una prise de notes linéaire face à des systèmes complexes enf
       Les cartes mentales favorisent le remue-méninges libre. La cartographie de Lovelace modélise la logique opérationnelle : flux de données, boucles de contrôle et liens de cause à effet.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Faut-il utiliser des logiciels complexes comme UML ou Figma ?</span>

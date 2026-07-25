@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Isolasi untuk Fokus Sempurna: Kebiasaan Menulis di Pondok Putar George Bernard Shaw"
 description: "Drama komedi pemenang Hadiah Nobel dan Oscar, Bernard Shaw. Temukan rahasia fokus mendalamnya: mengurung diri selama 6 jam sehari di pondok putar kecil di taman, memanfaatkan cahaya alami, dan memblokir gangguan secara total."
 pubDate: "2026-02-27"
@@ -29,25 +30,23 @@ George Bernard Shaw, pengarang drama pemenang Hadiah Nobel yang terkenal dengan 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai shaw-rotating-hut-focus didasarkan pada <strong>Biografi historis, catatan autobiografi fokus pondok putar Shaw & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis, catatan autobiografi fokus pondok putar Shaw & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Paparan Cahaya Alami dan Meminimalkan Biaya Beralih Kognitif (Switching Cost)
+## 1. Paparan Cahaya Alami dan Meminimalkan Biaya Beralih Kognitif (Switching Cost)
 
 Paparan cahaya alami yang berkelanjutan merangsang sel ganglion retina, memaksimalkan sintesis serotonin yang memicu kewaspadaan—efek yang tidak dapat dihasilkan oleh pencahayaan buatan dalam ruangan. Selain itu, setiap kali otak mengalami gangguan kecil dari luar (seperti pertanyaan, ketukan pintu, nada dering ponsel), otak mengonsumsi energi dalam jumlah besar (biaya beralih) untuk menyesuaikan kembali konteks memori kerja (Working Memory). Menempatkan otak di ruang yang terisolasi secara fisik seperti pondok putar Shaw menghilangkan interferensi kognitif dari sumbernya, mencegah hilangnya memori kerja dan memungkinkan fokus mendalam (Deep Work) selama berjam-jam.
 
 ---
 
-## Tindakan Pencegahan dan Tips
-
-Tindakan pencegahan utama saat menerapkan isolasi fisik adalah membawa ponsel pintar dan notifikasi media sosial ke dalam ruang terisolasi. Meskipun isolasi fisik berhasil mencegah gangguan dari luar, membawa gangguan digital ke dalam membuat otak tetap terjebak dalam dorongan tak sadar untuk memeriksa notifikasi. Oleh karena itu, saat memasuki zona fokus Anda, matikan semua notifikasi perangkat (Mode Jangan Ganggu) atau belajarlah bekerja secara luring (offline). Detoks digital sejati yang digabungkan dengan isolasi fisik sangat diperlukan untuk merasakan efek pondok putar secara penuh.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Tindakan pencegahan utama saat menerapkan isolasi fisik adalah membawa ponsel pi
     Posisikan meja kerja Anda dekat jendela agar mendapatkan sinar matahari alami secara maksimal. Membiarkan pencahayaan alami masuk ke dalam bidang pandang sejak pagi mendorong sintesis serotonin otak untuk menghadapi tugas-tugas penting.
   </p>
 </div>
+
+---
+
+## 3. Tindakan Pencegahan dan Tips
+
+Tindakan pencegahan utama saat menerapkan isolasi fisik adalah membawa ponsel pintar dan notifikasi media sosial ke dalam ruang terisolasi. Meskipun isolasi fisik berhasil mencegah gangguan dari luar, membawa gangguan digital ke dalam membuat otak tetap terjebak dalam dorongan tak sadar untuk memeriksa notifikasi. Oleh karena itu, saat memasuki zona fokus Anda, matikan semua notifikasi perangkat (Mode Jangan Ganggu) atau belajarlah bekerja secara luring (offline). Detoks digital sejati yang digabungkan dengan isolasi fisik sangat diperlukan untuk merasakan efek pondok putar secara penuh.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

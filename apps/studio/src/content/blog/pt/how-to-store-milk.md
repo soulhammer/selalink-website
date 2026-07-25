@@ -21,6 +21,7 @@ faqs:
     answer: "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
   - question: "Can unopened milk be consumed after the expiration date?"
     answer: "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
+
 ---
 
 Você guarda as caixas de leite alinhadas nas prateleiras da porta da geladeira? A porta sofre variações diretas de temperatura a cada abertura, sendo o pior lugar para o leite. Hoje, o FreshSnap compartilha orientações seguras.
@@ -29,10 +30,10 @@ Você guarda as caixas de leite alinhadas nas prateleiras da porta da geladeira?
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autoridade Científica Verificada
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Este guia de conservação segue as diretrizes oficiais de: <strong>MFDS & USDA & FDA</strong>.
+      Based on official storage standards. <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Não guarde na porta da geladeira — Armazenamento Refrigerado (7Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Consuma em até 7 dias após aberto — Limite bactérias 🥛</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ Comprender as características únicas de cada ingrediente e seguir o método de
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mantenha longe de alimentos com cheiro forte — Evite absorção de odores 🧅</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

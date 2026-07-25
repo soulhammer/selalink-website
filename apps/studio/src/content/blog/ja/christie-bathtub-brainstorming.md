@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "浴槽でリンゴを食べながら殺人を計画した女性：アガサ・クリスティの温水ブレインストーミングとDMNリラックス法"
 description: "推理小説の女王アガサ・クリスティが温水浴槽でリンゴをかじりながら緻密なアリバイとトリックを構想したリラックスルーティン。デフォルト・モード・ネットワーク（DMN）活性化と咀嚼運動の認知神経科学的原理を解き明かします。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「christie-bathtub-brainstorming」は <strong>アガサ・クリスティ自伝『An Autobiography』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アガサ・クリスティ自伝『An Autobiography』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 温水入浴によるデフォルト・モード・ネットワーク（DMN）稼働と咀嚼運動刺激
+## 1. 温水入浴によるデフォルト・モード・ネットワーク（DMN）稼働と咀嚼運動刺激
 
 38℃〜40℃の温かいお湯に身体を沈める全身入浴は、血管を拡張して血流を改善し、副交感神経系（Parasympathetic Nervous System）を優位にして心拍数を安定させます。この生理的リラックス状態で脳は、意図的な集中を誘導する「中央執行ネットワーク（CEN）」をオフにし、ぼんやりと休息する時に稼働する「デフォルト・モード・ネットワーク（DMN）」へと切り替わります。DMNが活性化すると、脳は長期記憶の中に断片化されていた無関連な情報を無意識に組み合わせ、思いがけない創造的解決策を導き出します。ここにリンゴをサクサクとかじる咀嚼（Mastication）運動が加わると、三叉神経（Trigeminal Nerve）を通じて前頭葉へと微細な心地よい覚醒信号が伝達され、コルチゾール値が下がり情緒的調和状態の中でアイデアが統合されます。
 
 ---
 
-## 注意事項＆ヒント：強迫的義務感の解除と完全な身体的リラックスの誘導
-
-このリラックスルーティンの目的は、答えを強制的に絞り出すことではありません。浴槽の中でも「必ずアイデアを思い浮かべなければならない」という強迫観念を持つと、交感神経が再び覚醒してDMNの稼働が停止します。頭の中の悩みを意識の表面下に投げ捨て、ひたすら温水の感触、リンゴの食感と香りに集中して前頭前野の執行ストレスを完全解除してこそ、無意識的な連想作用がスムーズに作動します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：強迫的義務感の解除と完全な身体的リラックスの誘導
+
+このリラックスルーティンの目的は、答えを強制的に絞り出すことではありません。浴槽の中でも「必ずアイデアを思い浮かべなければならない」という強迫観念を持つと、交感神経が再び覚醒してDMNの稼働が停止します。頭の中の悩みを意識の表面下に投げ捨て、ひたすら温水の感触、リンゴの食感と香りに集中して前頭前野の執行ストレスを完全解除してこそ、無意識的な連想作用がスムーズに作動します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>なぜよりによって温水浴槽の中でリンゴを食べている時にアイデアが浮かびやすいのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       温水入浴が心拍数を下げ副交感神経を強化してDMN（デフォルト・モード・ネットワーク）を稼働させる一方で、リンゴのサクサクとした咀嚼（かむ）運動が三叉神経を刺激し、脳の前頭葉に微細な快適な覚醒を起こします。この最適な情緒的バランスの中で無意識的なインスピレーションが結合するのです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>家に浴槽がない時、代替できる身体リラックスおよびDMN稼働法はありますか？</span>

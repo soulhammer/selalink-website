@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "驯服缪斯灵感的法门：史蒂芬·金每日2,000词写作习惯与深度专注条件反射"
 description: "探索全球最成功的作家史蒂芬·金的每日写作习惯。揭示借助感官运动学习（Sensorimotor Learning）与条件反射触点、在零挥霍前额叶意志力的前提下持续输出高产力的3步骤秘诀。"
 pubDate: "2026-05-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 king-writing-routine 的内容基于 <strong>史蒂芬·金自传《写作这回事（On Writing: A Memoir of the Craft，2000）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong> 撰写。
+      本内容基于 <strong>史蒂芬·金自传《写作这回事（On Writing: A Memoir of the Craft，2000）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 感官运动学习（Sensorimotor Learning）与条件反射驱动的自动心流机制
+## 1. 感官运动学习（Sensorimotor Learning）与条件反射驱动的自动心流机制
 
 将特定的感官刺激（听觉、味觉、环境场域）与特定的重磅行为（写作、攻坚工作）进行高频重复绑定，可在脑内固化出高阶条件反射式的<strong>“感官运动学习（Sensorimotor Learning）”</strong>神经电路。如史蒂芬·金般每天在同一节点、同一桌案触发服食维生素片与播放摇滚乐等感官触点，大脑便会将此类信号判定为“启动专注”的指令，瞬时平滑切入深度心流状态。此条件反射能极小化<strong>前额叶皮层（Prefrontal Cortex）</strong>的意志力能量消耗，诱发不被主观情绪左右的稳健长效高产力。
 
 ---
 
-## 注意事项：绝不被动等候灵感，借助环境条件反射主动诱发专注指南
-
-灵感决非靠被动守株待兔去苦等，而是需要在固定的场域与节点、借由特定感官触点有意识去唤醒的高阶神经状态。切勿过度羁绊于脆弱的主观意志力，务必预先设计好成套的躯体与感官信号，确保身体落座的瞬间，大脑便能自发切入极精专注状态。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：绝不被动等候灵感，借助环境条件反射主动诱发专注指南
+
+灵感决非靠被动守株待兔去苦等，而是需要在固定的场域与节点、借由特定感官触点有意识去唤醒的高阶神经状态。切勿过度羁绊于脆弱的主观意志力，务必预先设计好成套的躯体与感官信号，确保身体落座的瞬间，大脑便能自发切入极精专注状态。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>史蒂芬·金为何严苛设定单日最低2,000词的具象硬性指标？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       因若妥协于心情或主观感悟，产出效率必将极其剧烈波动。锁死一套可量化的最低产出底线，能倒逼大脑执掌控制网络在既定时间内恒速运转，屏蔽情绪低谷与创作倦怠期。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>是否必须死板照搬史蒂芬·金服食维生素片或播放重金属摇滚乐等具体触点？</span>

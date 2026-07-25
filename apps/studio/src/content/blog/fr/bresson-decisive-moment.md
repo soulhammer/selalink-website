@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La géométrie de l'instant et le regard concentré : La routine d'observation de « l'instant décisif » d'Henri Cartier-Bresson"
 description: "Découvrez comment Henri Cartier-Bresson, maître du photojournalisme moderne, pratiquait l'immersion visuelle en attendant l'harmonie géométrique parfaite et l'instant fugace. Explorez les mécanismes neuroscientifiques contournant les filtres du codage prédictif pour activer le cortex visuel et les réseaux d'attention préfrontaux."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant bresson-decisive-moment est basée sur <strong>Vérification Historique issue du livre de photographies d'Henri Cartier-Bresson *Images à la sauvette / The Decisive Moment* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue du livre de photographies d'Henri Cartier-Bresson *Images à la sauvette / The Decisive Moment* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Désactivation des filtres du codage prédictif et activation des réseaux attentionnels du cortex visuel
+## 1. Désactivation des filtres du codage prédictif et activation des réseaux attentionnels du cortex visuel
 
 Les rues familières du quotidien sont largement filtrées par le système de « Codage Prédictif (Predictive Coding) » du cerveau afin d'économiser l'énergie, rendant invisibles les détails ambiants. Observer activement la disposition géométrique, les alignements spatiaux et les jeux de lumière changeants — à la manière de Cartier-Bresson — court-circuite ce filtre prédictif. Ce processus stimule le cortex visuel et les réseaux de contrôle attentionnel préfrontaux, augmentant considérablement la résolution sensorielle et activant les circuits d'association créative.
 
 ---
 
-## Précautions & Conseils : Se concentrer sur la synchronisation cognitive avec l'instant, non sur l'enregistrement brut
-
-L'objectif de cet exercice d'observation n'est pas d'accumuler de jolies photos pour les réseaux sociaux. Il s'agit d'entraîner l'« Attention Différée (Delayed Attention) » — c'est-à-dire aligner l'architecture géométrique face à vous avec votre calme mental intérieur. Résistez à la tentation de mitrailler en rafale. Entraînez-vous plutôt à l'immobilité soutenue, en retenant votre souffle pendant 5 secondes ou plus jusqu'à ce que les éléments visuels fusionnent en un alignement parfait.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'objectif de cet exercice d'observation n'est pas d'accumuler de jolies photos 
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Se concentrer sur la synchronisation cognitive avec l'instant, non sur l'enregistrement brut
+
+L'objectif de cet exercice d'observation n'est pas d'accumuler de jolies photos pour les réseaux sociaux. Il s'agit d'entraîner l'« Attention Différée (Delayed Attention) » — c'est-à-dire aligner l'architecture géométrique face à vous avec votre calme mental intérieur. Résistez à la tentation de mitrailler en rafale. Entraînez-vous plutôt à l'immobilité soutenue, en retenant votre souffle pendant 5 secondes ou plus jusqu'à ce que les éléments visuels fusionnent en un alignement parfait.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les figures humaines doivent-elles obligatoirement figurer dans le cadre lors de cet entraînement ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'objectif de cet exercice d'observation n'est pas d'accumuler de jolies photos 
       Non. L'observation de formes géométriques inanimées et de contrastes lumineux — comme l'ombre d'un poteau sur un mur ou des rayons de lumière traversant un verre d'eau — est tout aussi efficace pour activer le cortex visuel.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Peut-on recadrer ou appliquer des filtres numériques aux photos après le déclenchement ?</span>

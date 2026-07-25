@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Seele hinter dem Make-up: Marilyn Monroes nächtliche Lese- und Reflexionsgewohnheit"
 description: "Hinter ihrer öffentlichen Rolle als Sexsymbol war Marilyn Monroe eine leidenschaftliche Buchliebhaberin mit über 400 Büchern. Entdecken Sie die wissenschaftlichen Prinzipien, wie nächtliches Lesen und Tagebuchschreiben Stresshormone reduzierten und ihre Identität bewahrten."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die neurowissenschaftlichen Prinzipien der N
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu monroe-night-reading basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Marilyn Monroe & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Marilyn Monroe & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Entspannung des vegetativen Nervensystems und hippocampale Gedächtniskonsolidierung durch literarisches Lesen
+## 1. Entspannung des vegetativen Nervensystems und hippocampale Gedächtniskonsolidierung durch literarisches Lesen
 
 Wenn das Gehirn längerer externer Bewertung und Expositionsstress ausgesetzt ist, führt eine Übererregung des Sympathikus zu chronischer Ermüdung und Schlafstörungen. Britischen kognitiven Studien zufolge reduziert das leise Lesen literarischer Werke für nur 6 Minuten Muskelverspannungen und senkt die Herzfrequenz, wodurch das Stressniveau um bis zu 68 % gesenkt wird. Das Eintauchen in klassische Erzählungen ermöglicht es dem Gehirn, sich vom eigenen Ego zu lösen und durch erzählerische Empathie einen erholsamen Zustand zu erreichen. Darüber hinaus regt das Führen eines Tagebuchs nach dem Lesen den Hippocampus an, belastende Erinnerungen friedlich zu konsolidieren, was die Gehirnreinigung im Schlaf optimiert.
 
 ---
 
-## Vorsichtsmaßnahmen und praktische Tipps
-
-Das wichtigste Verhalten, das Sie bei der nächtlichen reflektierenden Lektüre vermeiden sollten, ist das Lesen unter hellem Leuchtstoffröhrenlicht oder das Blicken auf Smartphone-Bildschirme. Helles künstliches Blaulicht blockiert die Ausschüttung des schlafinduzierenden Hormons Melatonin und verschlimmert Schlaflosigkeit. Verwenden Sie daher beim nächtlichen Lesen nur eine einzige indirekte Lampe mit warmem gelbem Licht, um die Umgebung so zu steuern, dass Ihr Gehirn sicher in den Schlafmodus wechseln kann.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das wichtigste Verhalten, das Sie bei der nächtlichen reflektierenden Lektüre 
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen und praktische Tipps
+
+Das wichtigste Verhalten, das Sie bei der nächtlichen reflektierenden Lektüre vermeiden sollten, ist das Lesen unter hellem Leuchtstoffröhrenlicht oder das Blicken auf Smartphone-Bildschirme. Helles künstliches Blaulicht blockiert die Ausschüttung des schlafinduzierenden Hormons Melatonin und verschlimmert Schlaflosigkeit. Verwenden Sie daher beim nächtlichen Lesen nur eine einzige indirekte Lampe mit warmem gelbem Licht, um die Umgebung so zu steuern, dass Ihr Gehirn sicher in den Schlafmodus wechseln kann.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Regt das Lesen vor dem Schlafengehen das Gehirn an und stört den Schlaf?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das wichtigste Verhalten, das Sie bei der nächtlichen reflektierenden Lektüre 
       Das Lesen gedruckter Bücher anstelle blaues Licht ausstrahlender Smartphones – insbesondere geisteswissenschaftliche Werke, Lyrik oder ruhige Essays unter sanfter indirekter Beleuchtung – erzeugt Alpha-Wellen im Gehirn, die einen tiefen Schlaf fördern.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie kann ich Lieblingsstellen beim nächtlichen Lesen aufzeichnen, ohne den Schlaf zu stören?</span>

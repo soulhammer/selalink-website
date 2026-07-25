@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Merender Ruang Angkasa di Tengah Kelumpuhan Total: Pelatihan Papan Tulis Virtual Stephen Hawking"
 description: "Fisikawan teoritis ternama dunia yang mengatasi ALS. Tanpa mampu memegang pena karena kelumpuhan, Hawking mengaktifkan papan tulis virtual di pikirannya untuk memetakan ruang multidimensi secara matematis."
 pubDate: "2026-06-23"
@@ -33,25 +34,23 @@ Dalam postingan ini, kami mengeksplorasi sains kognitif di balik papan tulis vir
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai stephen-hawking didasarkan pada <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
+      Konten ini didasarkan pada <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analisis Neurosains tentang Bagaimana Visualisasi Mendorong Keberhasilan
+## 1. Analisis Neurosains tentang Bagaimana Visualisasi Mendorong Keberhasilan
 
 Merender secara 3D dan memutar bentuk abstrak atau variabel kompleks di pikiran merangsang 'Papan Sketsa Visuospasial', komponen inti dari memori kerja. Ini memperkuat koneksi sinaptik antara lobus parietal dan korteks prefrontal, meningkatkan kapasitas otak untuk mengoperasikan konsep multidimensi.
 
 ---
 
-## Saran Sains Perilaku untuk Membangun Kebiasaan yang Sukses
-
-Jangan memaksakan gambaran mental beresolusi tinggi hingga menyebabkan sakit kepala. Memproyeksikan garis bentuk sederhana ke papan tulis virtual sambil bernapas perlahan sudah sangat cukup. Alih-alih hanya mengandalkan kemauan, rancanglah isyarat lingkungan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Jangan memaksakan gambaran mental beresolusi tinggi hingga menyebabkan sakit kep
   </p>
 </div>
 
+---
+
+## 3. Saran Sains Perilaku untuk Membangun Kebiasaan yang Sukses
+
+Jangan memaksakan gambaran mental beresolusi tinggi hingga menyebabkan sakit kepala. Memproyeksikan garis bentuk sederhana ke papan tulis virtual sambil bernapas perlahan sudah sangat cukup. Alih-alih hanya mengandalkan kemauan, rancanglah isyarat lingkungan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Saat saya memejamkan mata, saya hanya melihat layar gelap. Apa yang harus saya lakukan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Jangan memaksakan gambaran mental beresolusi tinggi hingga menyebabkan sakit kep
       Ini adalah respons yang sangat normal. Jangan memaksakan bentuk 3D definisi tinggi; mulailah dengan menahan bentuk 2D sederhana seperti persegi oranye atau segitiga putih secara stabil selama 3 detik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah meningkatkan kemampuan papan sketsa mental ini membantu mengatur alur kerja yang kompleks dan menetapkan prioritas?</span>

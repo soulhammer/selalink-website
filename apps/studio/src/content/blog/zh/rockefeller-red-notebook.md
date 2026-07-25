@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "1美分浪费也不允许的石油大王？约翰·D·洛克菲勒的实时微观记录法"
 description: "被视为世界史上首富的约翰·D·洛克菲勒。了解他在口袋里随身携带一本红色小手册、随时记录微小开销与计划以唤醒前额叶执行控制网络的原理，以及纸质手册的使用技巧。"
 pubDate: "2026-06-24"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rockefeller-red-notebook 的内容基于 <strong>约翰·D·洛克菲勒历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>约翰·D·洛克菲勒历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 实时记录（Real-time Tracking）与前额叶执行控制网络的激活
+## 1. 实时记录（Real-time Tracking）与前额叶执行控制网络的激活
 
 在行为或开支发生的当下立即手动将数字和内容记录在手册中（Real-time Micro-tracking），能够强烈刺激大脑前额叶的认知执行控制网络（Executive Control Network）。这会激活延迟对刺激做出即时冲动反应的自我调节能力（Self-Regulation），并大幅增强长期调节行为控制的大脑可塑性，使注意力与冲动抑制能力得到极大提升。
 
 ---
 
-## 数字记录的陷阱与纸质即时记录的技巧
-
-如果在手机备忘录或记账APP中进行记录，点亮屏幕瞬间涌现的大量社交媒体通知或新闻会使大脑重新暴露于认知压力之下。此外，APP记录很难传递美感触觉，无法刺激大脑的满足中枢。在钱包里随身装一本精美的红色小型手册和铅笔，构建不必打开APP即可在5秒内手写记录的物理流程时，大脑才能最清晰地实现认知卸载（Offloading）。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 数字记录的陷阱与纸质即时记录的技巧
+
+如果在手机备忘录或记账APP中进行记录，点亮屏幕瞬间涌现的大量社交媒体通知或新闻会使大脑重新暴露于认知压力之下。此外，APP记录很难传递美感触觉，无法刺激大脑的满足中枢。在钱包里随身装一本精美的红色小型手册和铅笔，构建不必打开APP即可在5秒内手写记录的物理流程时，大脑才能最清晰地实现认知卸载（Offloading）。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>使用纸质手册真的比使用手机记账或待办事项APP更好吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       是的。点亮手机屏幕这一行为本身就会将大脑的认知开关暴露于数字噪音（社交媒体、信息）中，立刻分散注意力。此外，亲手用力书写时，手指的体感信息会更强地输入大脑皮层，产生比在屏幕上敲击高出2倍以上的“自我掌控”认知自觉，因此纸质记录在调控行为方面效率优势压倒性突出。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>是否每次都连1美分或1分钟这样微不足道的细节也要全部记录？</span>

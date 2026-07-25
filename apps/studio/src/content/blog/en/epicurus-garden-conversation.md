@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Intellectual Solidarity in a Modest Garden: Epicurus's Conversation and Frugal Dining Routine for Mental Tranquility"
 description: "Discover how Epicurus built 'The Garden' outside Athens to share frugal meals and deep reflection with trusted friends. Explore the neuroscience of psychological safety, oxytocin, and dopamine regulation that induce profound tranquility."
 pubDate: "2026-01-20"
@@ -36,22 +37,20 @@ Outside Athens, Epicurus established 'The Garden' (Kepos), an egalitarian commun
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding epicurus-garden-conversation is based on <strong>Historical Verification from Diogenes Laertius's *Lives and Opinions of Eminent Philosophers*, Epicurus's Letters & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Diogenes Laertius's *Lives and Opinions of Eminent Philosophers*, Epicurus's Letters & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Psychological Safety and the Bonding Effects of Oxytocin and Serotonin
+## 1. Psychological Safety and the Bonding Effects of Oxytocin and Serotonin
 
 A small, trusted group where thoughts can be shared without judgment provides profound 'Psychological Safety' to the brain. Engaging in meaningful conversations within this secure circle triggers the hypothalamus to release oxytocin, the hormone responsible for emotional bonding and stress alleviation. Oxytocin dampens hyper-reactivity in the amygdala and reduces cortisol levels, mitigating cognitive fatigue and enhancing emotional stability.
 
 ---
 
-## Caution: Excluding Artificial Stimuli to Focus on Authentic Conversation
-
-A common mistake when hosting social gatherings is over-indulging in lavish meals or alcohol, which creates artificial excitement. While alcohol and gluttony cause sudden dopamine spikes, they are rapidly followed by depletion, amplifying chronic anxiety. Just as Epicurus set his table with basic bread and water, keeping gatherings frugal clears dopamine receptor clutter, allowing the brain to perceive gentle, lasting serenity (Ataraxia).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ A common mistake when hosting social gatherings is over-indulging in lavish meal
   </p>
 </div>
 
+---
+
+## 3. Caution: Excluding Artificial Stimuli to Focus on Authentic Conversation
+
+A common mistake when hosting social gatherings is over-indulging in lavish meals or alcohol, which creates artificial excitement. While alcohol and gluttony cause sudden dopamine spikes, they are rapidly followed by depletion, amplifying chronic anxiety. Just as Epicurus set his table with basic bread and water, keeping gatherings frugal clears dopamine receptor clutter, allowing the brain to perceive gentle, lasting serenity (Ataraxia).
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How should I handle conversations that devolve into stressful political or economic debates?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ A common mistake when hosting social gatherings is over-indulging in lavish meal
       Controversial debates trigger adrenaline and cortisol, causing cognitive fatigue. Establishing a ground rule beforehand—such as 'Today, let's talk about our inner experiences or books we've read rather than current news'—serves as the ultimate shield to protect your group's Ataraxia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What if scheduling weekly face-to-face meetings with friends is too difficult?</span>

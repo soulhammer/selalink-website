@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jangkar Keyakinan yang Tak Tergoyahkan: Rutinitas Hening Pagi dan Stabilisasi Amigdala Joan of Arc"
 description: "Pelajari bagaimana pahlawan wanita Prancis Joan of Arc mempertahankan keyakinan yang tak tergoyahkan selama Perang Seratus Tahun melalui doa hening pagi. Temukan neuropsikologi penekanan kebisingan, stabilisasi amigdala, dan penyelarasan kognitif."
 pubDate: "2026-02-12"
@@ -33,25 +34,23 @@ Seperti yang dicatat dalam naskah persidangannya tahun 1431 (*Procès de Condamn
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai joan-silent-reflection didasarkan pada <strong>Verifikasi Historis dari Catatan Persidangan Joan of Arc (*Procès de Condamnation et de Réhabilitation*) & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Catatan Persidangan Joan of Arc (*Procès de Condamnation et de Réhabilitation*) & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stabilisasi Amigdala dan Penyelarasan Kognitif Melalui Penekanan Kebisingan Eksternal
+## 1. Stabilisasi Amigdala dan Penyelarasan Kognitif Melalui Penekanan Kebisingan Eksternal
 
 Paparan terus-menerus terhadap masukan visual dan auditori yang kacau menyebabkan hiper-reaktivitas di <strong>Amigdala</strong>—pusat ancaman dan alarm otak—mendorong gairah stres. Sengaja menyisihkan 10 menit keheningan di awal hari menenangkan hiper-gairah amigdala. Selain itu, merenungkan nilai-nilai pribadi selama keheningan mencapai <strong>Penyelarasan Kognitif</strong>.
 
 ---
 
-## Perhatian: Memblokir Gangguan Eksternal untuk Berfokus Secara Eksklusif pada Nilai-Nilai Inti Internal
-
-Untuk memperoleh manfaat neurobiologis dari keheningan pagi, arahkan fokus mental Anda secara ketat ke dalam diri. Merenungkan penilaian sosial atau penyesalan masa lalu saat mata terpejam membuat amigdala tetap waspada. Sama seperti Joan of Arc yang memfokuskan frekuensinya secara eksklusif pada panggilan batinnya, hilangkan kebisingan eksternal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Untuk memperoleh manfaat neurobiologis dari keheningan pagi, arahkan fokus menta
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Memblokir Gangguan Eksternal untuk Berfokus Secara Eksklusif pada Nilai-Nilai Inti Internal
+
+Untuk memperoleh manfaat neurobiologis dari keheningan pagi, arahkan fokus mental Anda secara ketat ke dalam diri. Merenungkan penilaian sosial atau penyesalan masa lalu saat mata terpejam membuat amigdala tetap waspada. Sama seperti Joan of Arc yang memfokuskan frekuensinya secara eksklusif pada panggilan batinnya, hilangkan kebisingan eksternal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Haruskah saya bangun sebelum fajar untuk mempraktikkan rutinitas ini jika saya bukan tipe orang pagi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Untuk memperoleh manfaat neurobiologis dari keheningan pagi, arahkan fokus menta
       Tidak. Persyaratan utama dari rutinitas ini adalah mengalibrasi ulang otak Anda segera setelah bangun tidur sebelum kebisingan digital membanjiri kesadaran Anda. Meluangkan waktu 10 menit pada waktu bangun biasa memberikan manfaat yang identik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah rutinitas ini efektif bagi individu non-religius yang tidak mempraktikkan doa formal?</span>

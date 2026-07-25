@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Tagesende, vollständiges Entleeren: Konosuke Matsushitas Bad-Reflexionsroutine"
 description: "Das vertiefte Nachdenken im warmen Bad, das Konosuke Matsushita, der 'Gott des Managements', jeden Abend praktizierte. Analysiert die Aktivierung des Parasympathikus und die Ausrichtung des Default Mode Networks (DMN) im Gehirn."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft des vegetativen Nerven
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu matsushita-bath-reflection basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Konosuke Matsushita & kognitionswissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Konosuke Matsushita & kognitionswissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergie von Warmwasser-Entspannung und Default Mode Network
+## 1. Synergie von Warmwasser-Entspannung und Default Mode Network
 
 Ein warmes Bad erhöht die Kernkörpertemperatur und aktiviert den Parasympathikus, was den Cortisolspiegel senkt. Ein von äußeren Reizen abgeschirmter Entspannungszustand stimuliert das Default Mode Network (DMN) des Gehirns und fördert kreative Erkenntnisse. Neurowissenschaftlichen Studien zufolge unterdrückt dieses Verhalten unnötige Angstreaktionen in der Amygdala und aktiviert visuell-räumliche Schaltkreise, was die kognitive Exekutivfunktion deutlich steigert.
 
 ---
 
-## Ein Wort des Meisters über das Entleeren des Geistes
-
-Wenn Sie weise Entscheidungen treffen wollen, leeren Sie zuerst Ihren Geist vollständig. Ein digitaler Detox im Badezimmer und 15 Minuten geistige und körperliche Entspannung sind der beste Weg. Verlassen Sie sich nicht nur auf Willenskraft; das Gestalten einer physischen Umgebung und von Gewohnheitssignalen, die Handlungen natürlich auslösen, ist der Schlüssel zur Nachhaltigkeit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Wenn Sie weise Entscheidungen treffen wollen, leeren Sie zuerst Ihren Geist voll
     Trocknen Sie sich sanft ab und trinken Sie etwas Wasser. Das anschließende Absinken der Körpertemperatur fördert das natürliche Einschlafen.
   </p>
 </div>
+
+---
+
+## 3. Ein Wort des Meisters über das Entleeren des Geistes
+
+Wenn Sie weise Entscheidungen treffen wollen, leeren Sie zuerst Ihren Geist vollständig. Ein digitaler Detox im Badezimmer und 15 Minuten geistige und körperliche Entspannung sind der beste Weg. Verlassen Sie sich nicht nur auf Willenskraft; das Gestalten einer physischen Umgebung und von Gewohnheitssignalen, die Handlungen natürlich auslösen, ist der Schlüssel zur Nachhaltigkeit.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

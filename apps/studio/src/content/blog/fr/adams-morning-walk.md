@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Une marche pour stimuler la santé cérébrale : La routine de marche rapide et de journal de réflexion de John Quincy Adams"
 description: "John Quincy Adams, 6e président des États-Unis, s'en tenait à une marche rapide quotidienne de 5 miles et à la rédaction d'un journal le soir. Découvrez les habitudes cérébrales saines qui stimulent la sécrétion de BDNF."
 pubDate: "2026-04-06"
@@ -33,17 +34,17 @@ Dans l'article d'aujourd'hui, nous présentons la science de la libération du f
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant adams-morning-walk est basée sur <strong>Analyse Historique des Biographies et Autobiographies de John Quincy Adams & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Analyse Historique des Biographies et Autobiographies de John Quincy Adams & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergie du BDNF induit par l'exercice et de la réflexion cognitive
+## 1. Synergie du BDNF induit par l'exercice et de la réflexion cognitive
 
 Une marche rapide à un rythme qui vous laisse légèrement essoufflé augmente la fréquence cardiaque et irrigue l'hippocampe, stimulant directement la libération du BDNF (Brain-Derived Neurotrophic Factor), un facteur de croissance nerveuse. Ce facteur répare les connexions synaptiques entre les cellules cérébrales et favorise leur création.
 
@@ -51,9 +52,7 @@ En rédigeant un journal ou des notes de lecture à la main le soir, alors que l
 
 ---
 
-## Adaptez votre vitesse à vos articulations du genou et à votre condition physique
-
-Adams effectuait chaque jour une marche très rapide de 5 miles, mais cela reposait sur une endurance physique entraînée au fil du temps. Si un individu moderne commence soudainement une marche à haute intensité, cela peut solliciter excessivement les articulations du genou ou la colonne vertébrale. Commencer par 15 minutes de marche rapide légère adaptée à votre condition physique de base et augmenter progressivement la durée et la foulée est le meilleur moyen d'éviter les blessures.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Adams effectuait chaque jour une marche très rapide de 5 miles, mais cela repos
   </p>
 </div>
 
+---
+
+## 3. Adaptez votre vitesse à vos articulations du genou et à votre condition physique
+
+Adams effectuait chaque jour une marche très rapide de 5 miles, mais cela reposait sur une endurance physique entraînée au fil du temps. Si un individu moderne commence soudainement une marche à haute intensité, cela peut solliciter excessivement les articulations du genou ou la colonne vertébrale. Commencer par 15 minutes de marche rapide légère adaptée à votre condition physique de base et augmenter progressivement la durée et la foulée est le meilleur moyen d'éviter les blessures.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Puis-je remplacer la marche matinale par de la course rapide sur un tapis roulant en intérieur ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Adams effectuait chaque jour une marche très rapide de 5 miles, mais cela repos
       Du point de vue de la libération de BDNF par l'exercice aérobique, cela reste efficace. Cependant, la marche en extérieur est fortement recommandée car le traitement des stimuli visuels extérieurs (lumière naturelle, changements de saison, sol irrégulier) stimule beaucoup plus le cortex visuel et les réseaux synaptiques préfrontaux liés à l'équilibre qu'un environnement intérieur fixe.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>L'effet sera-t-il le même si j'écris le journal de réflexion du soir dans une application de notes sur smartphone ?</span>

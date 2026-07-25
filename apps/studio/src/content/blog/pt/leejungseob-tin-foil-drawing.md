@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Imersão Superando a Privação: A Rotina de Desenho em Papel de Alumínio de Lee Jung-seob e Ativação Somatossensorial"
 description: "Descubra como o pintor Lee Jung-seob manteve o foco artístico em meio à extrema pobreza gravando no papel de alumínio de maços de cigarro. Explore a neurociência do feedback multissensorial, ativação do córtex somatossensorial e um guia de 3 passos."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva e os princípios de arte
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre leejungseob-tin-foil-drawing é baseada em <strong>Verificação Histórica das Biografias de Lee Jung-seob, Arquivos do Museu Nacional de Arte Moderna e Contemporânea (MMCA) e Pesquisa em Neurociência Cognitiva e Arteterapia</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Biografias de Lee Jung-seob, Arquivos do Museu Nacional de Arte Moderna e Contemporânea (MMCA) e Pesquisa em Neurociência Cognitiva e Arteterapia</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Feedback Multissensorial Visotátil e Ativação do Córtex Somatossensorial
+## 1. Feedback Multissensorial Visotátil e Ativação do Córtex Somatossensorial
 
 A estimulação tátil ativa com intensidade o <strong>Córtex Somatossensorial</strong>. Gravar linhas em papel de alumínio estimula os mecanorreceptores dos dedos, promovendo o <strong>Alerta Tátil (Tactile Arousal)</strong> que desperta as redes pré-frontais. A combinação de resistência tátil, som do rascunho e profundidade visual forma um <strong>Circuito de Feedback Multissensorial</strong>. Ao preencher a <strong>Memória de Trabalho</strong>, bloqueiam-se a ansiedade e pensamentos recorrentes, proporcionando <strong>Atenção Plena (Mindfulness)</strong>.
 
 ---
 
-## Precaução: Evite Esperar pelas Condições Perfeitas para Imergir na Estimulação Tátil
-
-Evite adiar ações culpando ferramentas imperfeitas ou esperando por condições ideais. A capacidade neurobiológica para a imersão tátil existe dentro de você, independentemente do meio — mesmo em um pedaço de papel ou alumínio descartado. Entregue a ansiedade à sensação física da fricção ao traçar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Evite adiar ações culpando ferramentas imperfeitas ou esperando por condiçõe
   </p>
 </div>
 
+---
+
+## 3. Precaução: Evite Esperar pelas Condições Perfeitas para Imergir na Estimulação Tátil
+
+Evite adiar ações culpando ferramentas imperfeitas ou esperando por condições ideais. A capacidade neurobiológica para a imersão tátil existe dentro de você, independentemente do meio — mesmo em um pedaço de papel ou alumínio descartado. Entregue a ansiedade à sensação física da fricção ao traçar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Qual é o princípio científico pelo qual gravar em papel de alumínio reduz o estresse?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Evite adiar ações culpando ferramentas imperfeitas ou esperando por condiçõe
       A resistência tátil e o som produzidos ao gravar o metal preenchem os canais somatossensoriais do cérebro. Isso reduz os sinais de ameaça na amígdala e evita pensamentos negativos, ancorando a atenção no presente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Posso substituir o papel de alumínio e o prego por papel comum e caneta esferográfica?</span>

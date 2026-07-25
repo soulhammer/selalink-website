@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le carnet unique du savoir universel : La routine du livre de lieux communs et la Potentiation à Long Terme de Gottfried Wilhelm Leibniz"
 description: "Découvrez comment le mathématicien Gottfried Wilhelm Leibniz a consolidé tout son savoir dans un unique carnet classé (Commonplace Book). Explorez la neuroscience des réseaux sémantiques, la Potentiation à Long Terme (LTP), la synthèse d'idées interdisciplinaires et un guide en 3 étapes."
 pubDate: "2026-02-27"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant leibniz-universal-notebook est basée sur <strong>Vérification Historique issue des biographies de Gottfried Wilhelm Leibniz, des Archives Leibniz (Hanovre) & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies de Gottfried Wilhelm Leibniz, des Archives Leibniz (Hanovre) & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Potentiation à Long Terme (LTP) synaptique et neuroscience des réseaux sémantiques
+## 1. Potentiation à Long Terme (LTP) synaptique et neuroscience des réseaux sémantiques
 
 Le cortex cérébral extrait les informations plus rapidement lorsqu'il structure un <strong>Réseau Sémantique (Semantic Network)</strong> relié aux connaissances existantes, plutôt que d'accumuler des données isolées. Consolider le savoir dans un carnet unique et numéroter les entrées entretient la stimulation synaptique, déclenchant la <strong>Potentiation à Long Terme (LTP)</strong>. Dans cet espace centralisé, les idées issues de disciplines variées se croisent, permettant au <strong>Cortex Préfrontal</strong> de susciter des intuitions créatives.
 
 ---
 
-## Mise en garde : Éliminer la fragmentation des carnets pour adopter un système unique centralisé
-
-Le piège principal du livre de lieux communs consiste a éparpiller ses pensées dans plusieurs carnets (notes de lecture, travail, journal personnel). La fragmentation crée un <strong>Goulot d'Étranglement Cognitif (Cognitive Bottleneck)</strong> lors de la recherche et détruit les opportunités de croiser les idées. Accumulez toutes vos réflexions dans un carnet unique en utilisant des mots-clés.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le piège principal du livre de lieux communs consiste a éparpiller ses pensée
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer la fragmentation des carnets pour adopter un système unique centralisé
+
+Le piège principal du livre de lieux communs consiste a éparpiller ses pensées dans plusieurs carnets (notes de lecture, travail, journal personnel). La fragmentation crée un <strong>Goulot d'Étranglement Cognitif (Cognitive Bottleneck)</strong> lors de la recherche et détruit les opportunités de croiser les idées. Accumulez toutes vos réflexions dans un carnet unique en utilisant des mots-clés.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Puis-je appliquer la méthode du Livre de lieux communs avec des outils numériques comme Notion ou Obsidian ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le piège principal du livre de lieux communs consiste a éparpiller ses pensée
       Oui ! Les outils numériques sont idéaux pour la recherche et les hyperliens. L'important est d'éviter de multiplier les dossiers séparés ; créez plutôt una base de données unique indexée par dates et mots-clés pour reproduire le système unifié de Leibniz.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Consigner toutes les informations dans un carnet unique ne risque-t-il pas de créer un désordre ?</span>

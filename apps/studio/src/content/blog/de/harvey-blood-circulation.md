@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "William Harveys quantitative Blutkreislauf-Verifizierung: Wie man blinde Vorurteile durch objektive Zahlenberechnung bricht"
 description: "Erfahren Sie, wie der Arzt William Harvey im 17. Jahrhundert 2.000 Jahre alte Lehren umstieß, indem er das Schlagvolumen des Herzens mathematisch berechnete. Entdecken Sie die Neurowissenschaften der Zahlenprüfung."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaften hinter William Harve
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu harvey-blood-circulation basiert auf <strong>Historische Überprüfung aus William Harveys *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus William Harveys *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mathematische Quantifizierung und logische Steuerung im linken Scheitellappen
+## 1. Mathematische Quantifizierung und logische Steuerung im linken Scheitellappen
 
 Das Verarbeiten präziser Zahlen anstelle vager Intuitionen stimuliert die Rechennetzwerke im <strong>linken Scheitellappen</strong> und im <strong>präfrontalen Kortex</strong>. Diese <strong>mathematische Quantifizierung</strong> beseitigt Vorurteile und alte Fehlschlüsse. Indem sie emotionale Fehlurteile der Amygdala unterdrückt, aktiviert sie logische Exekutivfunktionen auf höchstem Niveau.
 
 ---
 
-## Vorsichtsmaßnahme: Regel zum Ersetzen vager Gewohnheiten durch quantitative Kennzahlen
-
-Akzeptieren Sie Betriebsabläufe nicht unkritisch aus Tradition oder Autorität. Das Gehirn erkennt Fehler und falsche Annahmen erst dann, wenn vage qualitative Beschreibungen in messbare mathematische Einheiten übersetzt werden.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Akzeptieren Sie Betriebsabläufe nicht unkritisch aus Tradition oder Autorität.
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Regel zum Ersetzen vager Gewohnheiten durch quantitative Kennzahlen
+
+Akzeptieren Sie Betriebsabläufe nicht unkritisch aus Tradition oder Autorität. Das Gehirn erkennt Fehler und falsche Annahmen erst dann, wenn vage qualitative Beschreibungen in messbare mathematische Einheiten übersetzt werden.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie lässt sich diese quantitative Methode auf Kennzahlen im Beruf anwenden?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Akzeptieren Sie Betriebsabläufe nicht unkritisch aus Tradition oder Autorität.
       Ersetzen Sie Aussagen wie 'Kunden mögen das Produkt' durch messbare Kennzahlen: Nutzerzuwachs, Verweildauer und Abwanderungsquote.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was tun, wenn quantitative Kennzahlen der eigenen Intuition widersprechen?</span>

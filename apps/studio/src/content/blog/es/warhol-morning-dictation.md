@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Limpiar el lienzo para la creación: el hábito de dictado matutino de Andy Warhol"
 description: "Andy Warhol llamaba a su asistente cada mañana para dictar los eventos e itinerarios del día anterior. Descubra cómo la descarga verbal matutina elimina la sobrecarga cognitiva y reinicia el enfoque."
 pubDate: "2026-05-25"
@@ -38,22 +39,20 @@ En este artículo, exploramos la descarga cognitiva del hábito de Warhol y pres
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre warhol-morning-dictation se basa en <strong>Registros históricos y biográficos de Andy Warhol e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Registros históricos y biográficos de Andy Warhol e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reinicio de la memoria de trabajo y descarga cognitiva mediante la expresión verbal
+## 1. Reinicio de la memoria de trabajo y descarga cognitiva mediante la expresión verbal
 
 La memoria de trabajo del cerebro tiene una capacidad limitada. Los pensamientos no resueltos o preocupaciones del día anterior ocupan un ancho de banda valioso. Dictarlos verbalmente por la mañana a un medio externo facilita la <strong>Descarga Cognitiva (Cognitive Offloading)</strong>. Hablar sintetiza y transfiere las memorias a un almacenamiento externo, liberando capacidad mental para enfocarse en las tareas creativas de hoy.
 
 ---
 
-## Precauciones y consejos
-
-Evite tratar de hablar de manera muy estructurada. Si se enfoca en la gramática o dicción, el cerebro lo percibe como otra tarea mental compleja en lugar de una descarga mental. Mantenga el dictado fluido y rápido como un monólogo personal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Evite tratar de hablar de manera muy estructurada. Si se enfoca en la gramática
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos
+
+Evite tratar de hablar de manera muy estructurada. Si se enfoca en la gramática o dicción, el cerebro lo percibe como otra tarea mental compleja en lugar de una descarga mental. Mantenga el dictado fluido y rápido como un monólogo personal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo pueden los profesionales sin asistente practicar el dictado telefónico matutino?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Evite tratar de hablar de manera muy estructurada. Si se enfoca en la gramática
       Utilice la función de voz a texto de su teléfono o una app de notas con IA para realizar un 'brain dump' verbal de 5 minutos sobre los eventos y emociones de ayer.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué temas se deben cubrir durante el dictado para maximizar la productividad?</span>

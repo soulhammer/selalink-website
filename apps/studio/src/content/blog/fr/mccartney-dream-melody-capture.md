@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un chef-d'œuvre sauvé des vestiges du rêve : L'habitude de capture immédiate du subconscient de Paul McCartney"
 description: "Paul McCartney a sauvé le classique des Beatles « Yesterday » d'un rêve au réveil. Partage le secret pour capturer la créativité grâce au mode diffus pendant l'hypnagogie."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ Le cerveau humain vit un état de haute créativité dès le réveil, à la fron
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant mccartney-dream-melody-capture est basée sur <strong>Recherche biographique et historique sur Paul McCartney & études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique et historique sur Paul McCartney & études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'hypnagogie et le mode diffus du cerveau
+## 1. L'hypnagogie et le mode diffus du cerveau
 
 Pendant quelques minutes après le réveil, nous restons en état d'« hypnagogie », où le cortex préfrontal dorsolatéral (DLPFC) n'est pas totalement actif. Le cerveau entre en mode diffus, relâchant l'autocensure et permettant aux souvenirs subconscients de se mélanger. Cependant, dès le réveil complet, le cerveau passe en mode focalisé et efface la mémoire à court terme. Noter ses idées dans les 30 secondes évite cette perte.
 
 ---
 
-## Précautions et conseils
-
-L'erreur majeure lors de cette pratique consiste à consulter les réseaux sociaux ou ses e-mails dès le réveil. Lorsque des informations externes structurées envahissent la mémoire de travail, le cerveau passe en tension cognitive et efface les souvenirs du rêve. Gardez uniquement un carnet et un stylo près du lit et évitez les médias pendant au moins 3 minutes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ L'erreur majeure lors de cette pratique consiste à consulter les réseaux socia
     Pendant la rédaction, bannissez les jugements du type « Est-ce logique ? » ou « Est-ce bizarre ? ». Concentrez-vous uniquement sur l'extraction des données brutes ; l'analyse se fera dans l'après-midi.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+L'erreur majeure lors de cette pratique consiste à consulter les réseaux sociaux ou ses e-mails dès le réveil. Lorsque des informations externes structurées envahissent la mémoire de travail, le cerveau passe en tension cognitive et efface les souvenirs du rêve. Gardez uniquement un carnet et un stylo près du lit et évitez les médias pendant au moins 3 minutes.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

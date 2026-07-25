@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "노벨상 수상자의 초고속 학습법: 리처드 파인만의 가르치기 습관과 메타인지 극대화 루틴"
 description: "어려운 양자역학을 10세 어린이도 이해할 수 있게 가르쳤던 리처드 파인만의 비결. 메타인지를 극대화하여 지식을 완전히 내 것으로 만드는 파인만 테크닉 루틴과 능동적 인출의 뇌과학적 메커니즘을 알아봅니다."
 pubDate: "2026-02-11"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>리처드 파인만 자서전 『파인만 씨, 농담도 잘하시네!(Surely You're Joking, Mr. Feynman!)』 및 칼텍 강의록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 feynman-explanation-technique 루틴을 다룹니다.
+      본 콘텐츠는 <strong>리처드 파인만 자서전 『파인만 씨, 농담도 잘하시네!(Surely You're Joking, Mr. Feynman!)』 및 칼텍 강의록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 앎의 한계를 파악하는 메타인지와 능동적 인출
+## 1. 앎의 한계를 파악하는 메타인지와 능동적 인출
 
 새로운 정보를 단순히 읽거나 듣는 수동적인 학습법은 뇌에 기억을 장기적으로 각인시키지 못합니다. 반면, 자신이 습득한 내용을 소리 내어 가르치거나 쉬운 단어로 요약하는 것은 뇌의 <strong>능동적 인출(Active Retrieval)</strong> 작용을 활용해 지식을 인지 시스템에 깊이 고정시킵니다. 특히 초등학생도 알아들을 수 있을 만큼 쉽고 직관적인 비유를 동원해 설명하는 훈련은 뇌의 <strong>메타인지(Metacognition)</strong>를 강력하게 활성화합니다. 전문 용어를 걷어내면 자신이 진정으로 완벽히 아는 것과, 단지 책에 적힌 어휘를 외워 아는 척했던 부분이 단번에 드러나기 때문입니다. 이 과정을 통해 뇌의 전두엽과 기억 센터인 해마는 시냅스를 재구성하고, 가르치기 학습을 거친 지식을 <strong>장기 기억(Long-term Memory)</strong>으로 안전하게 이관합니다.
 
 ---
 
-## 아는 척하는 지식의 덫을 깨는 능동적 인출 수칙
-
-눈으로 훑어보는 독서와 단순 강의 시청은 지식을 소유했다는 '가짜 안도감'을 제공하지만, 실제 메타인지 회로를 작동시키지는 못합니다. 파인만처럼 학습 후 단 10분만이라도 흰 종이를 펼치고 손과 입을 움직여 소리 내어 설명해 보세요. 스스로 설명할 수 없는 모든 것은 아직 당신의 지식이 아닙니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 아는 척하는 지식의 덫을 깨는 능동적 인출 수칙
+
+눈으로 훑어보는 독서와 단순 강의 시청은 지식을 소유했다는 '가짜 안도감'을 제공하지만, 실제 메타인지 회로를 작동시키지는 못합니다. 파인만처럼 학습 후 단 10분만이라도 흰 종이를 펼치고 손과 입을 움직여 소리 내어 설명해 보세요. 스스로 설명할 수 없는 모든 것은 아직 당신의 지식이 아닙니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>설명해 줄 진짜 어린아이가 주변에 없는데 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       현역 대학생이나 직장 동료, 혹은 책상 위에 있는 가상의 인형이나 10세 수준의 인공지능 챗봇을 대상으로 삼아도 좋으며, 핵심은 '전문 용어를 제외하고 초등학생도 이해할 단어 수준으로 본인의 말과 글을 검열하는 필터링 과정'을 거치는 것입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>전문 용어나 어려운 한자어를 완전히 빼고 설명하려니 문장이 너무 길어지고 어색해지는데 괜찮나요?</span>

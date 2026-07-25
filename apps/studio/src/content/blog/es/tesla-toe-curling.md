@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Un genio que encogía los dedos de los pies 100 veces? El extraño ritual de sueño profundo de Nikola Tesla"
 description: "El genio inventor Nikola Tesla encogía los dedos de los pies en la cama todas las noches. Descubra los secretos de la neurociencia ocultos en su rutina única y una guía práctica de 3 pasos."
 pubDate: "2026-04-28"
@@ -34,14 +35,14 @@ En este artículo, exploramos los principios científicos detrás de este hábit
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre tesla-toe-curling se basa en <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
+      Este contenido se basa en <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Los dedos de los pies: El interruptor neuronal que despierta las células cerebrales
+## 1. Los dedos de los pies: El interruptor neuronal que despierta las células cerebrales
 
 Tesla creía que el movimiento aparentemente trivial de encoger repetidamente los dedos de los pies estimulaba las numerosas terminaciones nerviosas concentradas en los pies, activando las células cerebrales y reiniciando la fatiga acumulada.
 
@@ -49,9 +50,7 @@ En realidad, el área que ocupan los pies y los dedos en la corteza somatosensor
 
 ---
 
-## Un consejo neurocientífico para una rutina exitosa
-
-Los ejercicios para los dedos de los pies mejoran la circulación sanguínea en la zona más distante del corazón, equilibrando la temperatura corporal y activando el sistema nervioso parasimpático. Repetir esta acción cada noche al mismo tiempo (justo después de cubrirse con la manta) entrena a tu cerebro para reconocerla como una señal condicionada para dormir.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Los ejercicios para los dedos de los pies mejoran la circulación sanguínea en 
     Siente el sutil calor y la relajación que se extienden por tu cuerpo tras el ejercicio, dejándote llevar de forma natural hacia un sueño profundo tras la señal cerebral.
   </p>
 </div>
+
+---
+
+## 3. Un consejo neurocientífico para una rutina exitosa
+
+Los ejercicios para los dedos de los pies mejoran la circulación sanguínea en la zona más distante del corazón, equilibrando la temperatura corporal y activando el sistema nervioso parasimpático. Repetir esta acción cada noche al mismo tiempo (justo después de cubrirse con la manta) entrena a tu cerebro para reconocerla como una señal condicionada para dormir.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

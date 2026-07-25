@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La constante toma de notas de Plinio el Viejo: Cómo la escritura a mano despierta el cerebro y adueña la memoria"
 description: "Comparte los secretos de la toma de notas del erudito romano Plinio el Viejo, quien compiló un vasto conocimiento pidiendo a sus secretarios que le leyeran libros y tomando notas incluso mientras comía o viajaba."
 pubDate: "2026-05-12"
@@ -36,22 +37,20 @@ Su pasión por aprender sin soltar jamás la pluma ha demostrado ser, incluso de
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre pliny-reading-excerpt se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre los extractos de lectura de Plinio e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre los extractos de lectura de Plinio e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por qué tomar notas de extractos es cognitivamente superior a la mera lectura
+## 1. Por qué tomar notas de extractos es cognitivamente superior a la mera lectura
 
 Una postura receptiva pasiva de leer texto solo con los ojos hace que el cerebro vierta fácilmente la información fuera del almacenamiento de memoria a corto plazo. En cambio, al resumir el núcleo del texto y tomar notas manuscritas físicas, los movimientos finos de los dedos estimulan el sistema de activación reticular (SAR) en el tronco encefálico, activando con fuerza todo el cerebro. Debido a que el cerebro debe filtrar y reconstruir la información durante este proceso, se incrustan poderosas pistas de recuperación que se asientan de manera estable en la memoria a largo plazo.
 
 ---
 
-## Guía para una inteligente toma de notas de extractos
-
-Debe evitar la copia ciega de párrafos enteros de un libro (transcripción). Esto es cercano a un trabajo simple que ignora el cerebro, causando solo fatiga cognitiva. Extraiga y escriba a mano selectivamente solo frases inspiradoras o palabras clave centrales. Además, desarrolle el hábito de escribir siempre la fuente del libro y el número de página entre paréntesis para poder rastrear el conocimiento extractado más tarde.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Debe evitar la copia ciega de párrafos enteros de un libro (transcripción). Es
   </p>
 </div>
 
+---
+
+## 3. Guía para una inteligente toma de notas de extractos
+
+Debe evitar la copia ciega de párrafos enteros de un libro (transcripción). Esto es cercano a un trabajo simple que ignora el cerebro, causando solo fatiga cognitiva. Extraiga y escriba a mano selectivamente solo frases inspiradoras o palabras clave centrales. Además, desarrolle el hábito de escribir siempre la fuente del libro y el número de página entre paréntesis para poder rastrear el conocimiento extractado más tarde.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Escribir con un lápiz óptico en una tableta o teclear en un teclado es igualmente efectivo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Debe evitar la copia ciega de párrafos enteros de un libro (transcripción). Es
       Escribir directamente con un lápiz digital en una tableta produce efectos muy similares a los de un bolígrafo físico. Sin embargo, teclear en un teclado es una acción de entrada automatizada acompañada de casi ningún procesamiento cognitivo. La velocidad más lenta de la escritura a mano obliga al cerebro a resumir y digerir información, mejorando significativamente las tasas de retención de memoria.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Hay alguna manera de organizar las notas extractadas para que no se pierdan a medida que se acumulan?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El filósofo que hacía preguntas descalzo: El hábito de caminar cognitivo de Sócrates"
 description: "Sócrates, la sabiduría de la antigua Grecia que amplió el pensamiento caminando continuamente. Explore los principios neurocientíficos de caminar para estimular el hipocampo y la flexibilidad cognitiva."
 pubDate: "2026-03-06"
@@ -34,22 +35,20 @@ En este artículo, exploramos los principios neurocientíficos del ritual de cam
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre socrates-walking-dialogue se basa en <strong>Investigación biográfica histórica sobre Sócrates e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica histórica sobre Sócrates e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroplasticidad del Hipocampo y Flexibilidad Aeróbica
+## 1. Neuroplasticidad del Hipocampo y Flexibilidad Aeróbica
 
 Caminar sirve como una potente bomba fisiológica que empuja oxígeno y flujo sanguíneo a todo el cerebro. Aumenta la frecuencia cardíaca e incrementa la secreción del Factor Neurotrófico Derivado del Cerebro (BDNF). El BDNF remodela las conexiones sinápticas en el hipocampo, actuando como lubricante para la neuroplasticidad. Además, la presión rítmica en las plantas de los pies suprime el bucle excesivo de la Red por Defecto (DMN), fomentando la flexibilidad cognitiva.
 
 ---
 
-## Un Consejo Neurocientífico para una Rutina Exitosa
-
-El cuerpo en movimiento reconecta los fusibles del cerebro. Fruncir el ceño frente a un monitor no resolverá problemas difíciles cuando la memoria de trabajo esté saturada. Salga a caminar durante 15 minutos como Sócrates para aumentar el flujo sanguíneo cerebral. Su cerebro sintetizará avances lógicos al ritmo de sus pasos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ El cuerpo en movimiento reconecta los fusibles del cerebro. Fruncir el ceño fre
     Establezca una pregunta o desafío principal para el día. Mientras camina, pregúntese '¿Por qué?' y respóndase, repitiendo el ciclo para obtener perspicacias inesperadas.
   </p>
 </div>
+
+---
+
+## 3. Un Consejo Neurocientífico para una Rutina Exitosa
+
+El cuerpo en movimiento reconecta los fusibles del cerebro. Fruncir el ceño frente a un monitor no resolverá problemas difíciles cuando la memoria de trabajo esté saturada. Salga a caminar durante 15 minutos como Sócrates para aumentar el flujo sanguíneo cerebral. Su cerebro sintetizará avances lógicos al ritmo de sus pasos.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

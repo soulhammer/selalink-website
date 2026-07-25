@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Painting Her Reflection from a Canopy Bed Mirror: Frida Kahlo's Self-Portrait Routine and Mirror-Gazing Resilience"
 description: "Discover how legendary Mexican painter Frida Kahlo transformed physical agony into art by painting self-portraits using a canopy bed mirror. Explore the clinical psychology of mirror-gazing, self-acceptance, and resilience building."
 pubDate: "2026-06-07"
@@ -38,22 +39,20 @@ In today's post, we unpack the clinical psychology and neuroscience behind Frida
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding kahlo-mirror-painting is based on <strong>Historical Verification from *The Diary of Frida Kahlo*, Hayden Herrera's *Frida: A Biography of Frida Kahlo* & Clinical Psychology and Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from *The Diary of Frida Kahlo*, Hayden Herrera's *Frida: A Biography of Frida Kahlo* & Clinical Psychology and Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mirror-Gazing Technique and Clinical Psychology of Resilience
+## 1. Mirror-Gazing Technique and Clinical Psychology of Resilience
 
 Gazing quietly at one's own reflection is known in clinical psychology as the <strong>Mirror-Gazing Technique</strong>. Under severe physical pain or emotional trauma, the brain easily falls prey to catastrophic emotional drowning. A mirror acts as a powerful cognitive isolation tool, allowing you to observe your physical body and emotional state objectively from a third-person perspective. This objective distance restores executive agency and prefrontal self-soothing circuits. Frida Kahlo's intense daily self-facing was not mere portraiture; it was the neurobiological manifestation of <strong>Resilience</strong> and <strong>Self-Acceptance</strong>, stabilizing emotional distress and rebuilding psychological wholeness.
 
 ---
 
-## Caution: Excluding Subjective Judgment and Aesthetic Evaluation to Embrace Presence
-
-The most critical rule when practicing mirror-gazing is refraining from searching for physical flaws or making hyper-critical judgments. Gazing into the mirror is not an aesthetic performance evaluation, but a compassionate observation period designed to acknowledge and soothe yourself through exhaustion or stress without judgment.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The most critical rule when practicing mirror-gazing is refraining from searchin
   </p>
 </div>
 
+---
+
+## 3. Caution: Excluding Subjective Judgment and Aesthetic Evaluation to Embrace Presence
+
+The most critical rule when practicing mirror-gazing is refraining from searching for physical flaws or making hyper-critical judgments. Gazing into the mirror is not an aesthetic performance evaluation, but a compassionate observation period designed to acknowledge and soothe yourself through exhaustion or stress without judgment.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What should I do if looking in the mirror causes stress by highlighting wrinkles or physical flaws?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The most critical rule when practicing mirror-gazing is refraining from searchin
       This is a completely natural reaction. In initial sessions, evaluative instincts trigger easily. Instead of scanning your entire face, anchor your focus strictly onto your pupil. Center your attention on making direct contact with the core of your conscious awareness rather than analyzing facial features.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is mirror-gazing therapeutically effective even if I do not paint or draw self-portraits?</span>

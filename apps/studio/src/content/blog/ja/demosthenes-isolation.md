@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "頭の半分を剃り上げた雄弁家：デモステネスの極限環境統制と強制履行装置ルーティン"
 description: "先天的身体的限界を克服し古代ギリシャ最高の雄弁家となったデモステネス。誘惑を遮断するため自ら頭の半分を剃り上げ洞窟に入ったルーティン。強制履行装置（Hard Commitment Device）が前頭前野皮質の執行機能を保護する認知神経科学的原理を解き明かします。"
 pubDate: "2026-01-28"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「demosthenes-isolation」は <strong>プルタルコス伝記『Parallel Lives（デモステネス篇）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>プルタルコス伝記『Parallel Lives（デモステネス篇）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 強制履行装置（Hard Commitment Device）と前頭前野執行機能（PFC Executive Function）の保護
+## 1. 強制履行装置（Hard Commitment Device）と前頭前野執行機能（PFC Executive Function）の保護
 
 単に「耐えよう」という内面の瞬間的な意志力に依存する行為は、大脳前頭前野皮質（Prefrontal Cortex）の執行機能（Executive Function）エネルギーを極度に消耗させます。誘惑要素が目の前に存在する限り、脳は絶えず「やるべきかやめるべきか」の「因果的葛藤（Conflict Processing）」を経験し、ブドウ糖を使い果たします。デモステネスの半頭剃髪のように物理的・環境的に誘惑に接近できないよう事前に行動の選択肢を遮断するメカニズムを、行動経済学と認知神経科学では「強制履行装置（Hard Commitment Device）」と呼びます。この完璧な環境統制は前頭前野の葛藤処理負荷をゼロにし、完全な認知リソースを目標課題の深度ある没頭にのみ100％集中させます。
 
 ---
 
-## 注意事項＆ヒント：意志力神話からの脱却と環境的背水の陣（Commitment）の構築
-
-自分の意志力だけで先延ばしやデジタルな無駄な行動を克服できるという幻想を捨てなければなりません。人間の自己統制力は限られたリソースです。デモステネスのように無駄な行動をするために外へ出たりスマートフォンを点けたりできないようにする強制力的で物理的な背水の陣（Hard Commitment Device）を作業前に先制的にセットして初めて、持続可能な孤立没頭が可能になります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：意志力神話からの脱却と環境的背水の陣（Commitment）の構築
+
+自分の意志力だけで先延ばしやデジタルな無駄な行動を克服できるという幻想を捨てなければなりません。人間の自己統制力は限られたリソースです。デモステネスのように無駄な行動をするために外へ出たりスマートフォンを点けたりできないようにする強制力的で物理的な背水の陣（Hard Commitment Device）を作業前に先制的にセットして初めて、持続可能な孤立没頭が可能になります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>デモステネスはなぜよりによって頭の半分を剃り上げて洞窟に入ったのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       自分の滑稽な外見のせいで他人の目が怖くなり自ら外へ出ることができないよう、物理的・社会的背水の陣を敷くためでした。これにより誘惑を耐え抜こうとする意志力エネルギーの消耗をなくし、ただ洞窟の中の発声と雄弁修練にのみ脳のすべての執行リソースを固定させました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>剃髪をせずに現代人が実生活で直ちに適用できる強制履行装置には何がありますか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Menghapus Tekanan: Rutinitas Hiper-Kognitif 2 Jam Sebelum Lomba ala Michael Phelps"
 description: "Rutinitas perilaku sangat presisi yang dijalankan tepat sebelum lomba oleh Michael Phelps, peraih medali Olimpiade terbanyak dalam sejarah. Pelajari prinsip ilmiah bagaimana prosedur terkontrol mencegah ketegangan dan kecemasan otak."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ Dalam artikel ini, kami mengulas mekanisme ilmu saraf di balik 'Rutinitas Hiper-
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai phelps-pre-race-routine didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Michael Phelps & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Michael Phelps & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sains di Balik Rutinitas Pra-Acara Sangat Presisi dalam Meredakan Kecemasan Otak
+## 1. Sains di Balik Rutinitas Pra-Acara Sangat Presisi dalam Meredakan Kecemasan Otak
 
 Sebelum kompetisi atau presentasi, kondisi paling berbahaya bagi otak adalah 'ketidakpastian' dan kecemasan yang menyertainya. Dalam lingkungan yang tak terduga, <strong>amigdala</strong> (pusat peringatan emosional otak) menjadi terlalu aktif dan memicu hormon stres. Namun, menjalankan serangkaian tindakan fisik terencana yang diulang ratusan kali membuat otak merasa memegang kendali penuh, menurunkan hiperaktivitas amigdala, dan mengoptimalkan sekresi adrenalin.
 
 ---
 
-## Peringatan dan Tip
-
-Perlu diingat bahwa rutinitas ini bukanlah sekadar mitos atau jimat ajaib. Michael Phelps membangun koneksi sinapsis yang kuat antara rutinitas dan relaksasi fisik melalui <strong>latihan mekanis dan pengulangan</strong> bertahun-tahun. Oleh karena itu, jangan berkecil hati jika gagal di awal; latihan yang konsisten sangat penting untuk memantapkan rutinitas pribadi Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Perlu diingat bahwa rutinitas ini bukanlah sekadar mitos atau jimat ajaib. Micha
     Setelah rutinitas fisik selesai, bayangkan skenario sukses sempurna untuk acara yang akan dihadapi untuk menenangkan pusat kecemasan dan mencapai kesiapan penuh.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tip
+
+Perlu diingat bahwa rutinitas ini bukanlah sekadar mitos atau jimat ajaib. Michael Phelps membangun koneksi sinapsis yang kuat antara rutinitas dan relaksasi fisik melalui <strong>latihan mekanis dan pengulangan</strong> bertahun-tahun. Oleh karena itu, jangan berkecil hati jika gagal di awal; latihan yang konsisten sangat penting untuk memantapkan rutinitas pribadi Anda.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

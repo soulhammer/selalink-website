@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Théorie générale rédigée sous la couette : La routine de travail matinal au lit de John Maynard Keynes et l'activation CAR"
 description: "Découvrez comment le macroéconomiste John Maynard Keynes, qui a surmonté la Grande Dépression, a rédigé ses manuscrits au lit pendant deux heures au réveil. Explorez la neuroscience de la Réponse d'éveil du cortisol (CAR) et un guide en 3 étapes."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant keynes-morning-bed-work est basée sur <strong>Vérification Historique issue de la biographie de Robert Skidelsky *John Maynard Keynes*, des archives de Keynes & de la Recherche en Neurosciences Cognitives et Sciences Neuromusculaires</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Robert Skidelsky *John Maynard Keynes*, des archives de Keynes & de la Recherche en Neurosciences Cognitives et Sciences Neuromusculaires</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Réponse d'éveil du cortisol (CAR) et l'heure dorée des ressources préfrontales
+## 1. Réponse d'éveil du cortisol (CAR) et l'heure dorée des ressources préfrontales
 
 Pendant les 30 a 45 premières minutes suivant le réveil, l'organisme enclenche la <strong>Réponse d'éveil du cortisol (Cortisol Awakening Response, CAR)</strong>, augmentant le niveau de cortisol pour stimuler le cerveau. Cette période constitue una heure dorée cognitive où le <strong>Cortex Préfrontal</strong> est libéré de toute fatigue décisionnelle, favorisant la logique et la synthèse créative. Travailler au lit permet de canaliser 100 % de la bande passante exécutive.
 
 ---
 
-## Mise en garde : Redresser le buste pour prévenir l'inertie du sommeil et maintenir l'éveil
-
-Le risque principal lors du travail au lit est de se rendormir en raison de l'<strong>Inertie du Sommeil (Sleep Inertia)</strong>. S'allonger à plat ou baisser la tête ramène les ondes cérébrales vers les <strong>Ondes Thêta</strong>, provoquant la somnolence. Redressez votre dos et votre tête à 45 degrés au moins a l'aide d'oreillers pour transmettre un signal d'éveil clair au cerveau, et limitez l'effort à 20 ou 30 minutes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le risque principal lors du travail au lit est de se rendormir en raison de l'<s
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Redresser le buste pour prévenir l'inertie du sommeil et maintenir l'éveil
+
+Le risque principal lors du travail au lit est de se rendormir en raison de l'<strong>Inertie du Sommeil (Sleep Inertia)</strong>. S'allonger à plat ou baisser la tête ramène les ondes cérébrales vers les <strong>Ondes Thêta</strong>, provoquant la somnolence. Redressez votre dos et votre tête à 45 degrés au moins a l'aide d'oreillers pour transmettre un signal d'éveil clair au cerveau, et limitez l'effort à 20 ou 30 minutes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Travailler au lit est-il nocif pour la colonne vertébrale, le cou ou les articulations ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le risque principal lors du travail au lit est de se rendormir en raison de l'<s
       Rester allongé a plat en penchant le cou vers l'avant provoque una forte tension cervicale. Pour protéger votre colonne, soutenez votre buste à 45 degrés au moins avec des coussins fermes et limitez la séance a 20 ou 30 minutes pour préserver votre santé.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je consulter mes e-mails ou messages pendant seulement 5 minutes au réveil ?</span>

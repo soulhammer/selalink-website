@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "백악관의 비밀 사탕? 로널드 레이건의 젤리빈 저작 스트레스 완화법"
 description: "미국 제40대 대통령 로널드 레이건은 담배를 끊고 스트레스를 다스리기 위해 백악관 집무실에서 젤리빈을 먹었습니다. 저작 운동이 정서에 미치는 뇌과학적 원리를 알아봅니다."
 pubDate: "2026-04-25"
@@ -18,7 +19,7 @@ steps:
     text: "씹는 행위를 2분간 유지하며 깊은 호흡을 병행합니다. 뇌가 자극을 처리하고 정서적인 평정을 되찾을 수 있도록 몸의 긴장을 이완합니다."
 faqs:
   - question: "저작 운동이 스트레스를 낮추는 효과는 얼마나 오래 씹어야 나타나나요?"
-    answer: "신경생리학 연구에 따르면 저작 운동을 시작하고 약 2~3분 이후부터 코르티솔 수치가 감소하고 뇌파가 이완성인 알파파(Alpha wave)로 전환되기 시작합니다. 따라서 최소한 2~3분 이상은 차분히 저작 운동에 집중해 주는 것이 효과를 보는 열쇠입니다."
+    answer: "신경생리학 연구에 따르면 저작 운동을 시작하고 약 2 ~ 3분 이후부터 코르티솔 수치가 감소하고 뇌파가 이완성인 알파파(Alpha wave)로 전환되기 시작합니다. 따라서 최소한 2 ~ 3분 이상은 차분히 저작 운동에 집중해 주는 것이 효과를 보는 열쇠입니다."
   - question: "저작 운동이 실제로 금연이나 폭식을 억제하는 과학적인 원리가 맞나요?"
     answer: "맞습니다. 뇌는 강력한 충동(담배, 음식)이 들 때 도파민의 급격한 공급을 원합니다. 이때 구강에 씹는 대체 자극을 제공하면 뇌는 보상 욕구를 부분적으로 자족하게 되어(도파민 우회 방출) 충동의 급격한 피크를 통제할 수 있게 돕습니다. 행동 과학에서는 이를 '대안 행동 형성'이라고 합니다."
 ---
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>로널드 레이건 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 reagan-jellybean-relaxation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>로널드 레이건 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 편도체를 안정시키는 저작 운동과 감각 대체
+## 1. 편도체를 안정시키는 저작 운동과 감각 대체
 
 턱을 움직여 무언가를 반복적으로 씹는 저작(Mastication) 운동은 뇌의 삼차 신경을 활성화하여 공포와 스트레스를 주관하는 편도체(Amygdala)의 활동을 억제합니다. 이는 맥박을 안정시키고 코르티솔 분비를 즉각 떨어뜨립니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 치아 건강을 위해 당류 섭취량에 유의하세요
-
-레이건처럼 젤리빈을 너무 많이 먹으면 치아 우식(충치)이나 과도한 당 섭취로 건강을 해칠 수 있습니다. 설탕이 함유되지 않은 무설탕 껌이나 무당 젤리, 혹은 견과류(아몬드, 호두 등)를 대안으로 활용하여 저작 운동의 이완 효과만을 안전하게 취하는 것이 권장됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 치아 건강을 위해 당류 섭취량에 유의하세요
+
+레이건처럼 젤리빈을 너무 많이 먹으면 치아 우식(충치)이나 과도한 당 섭취로 건강을 해칠 수 있습니다. 설탕이 함유되지 않은 무설탕 껌이나 무당 젤리, 혹은 견과류(아몬드, 호두 등)를 대안으로 활용하여 저작 운동의 이완 효과만을 안전하게 취하는 것이 권장됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>저작 운동이 스트레스를 낮추는 효과는 얼마나 오래 씹어야 나타나나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       신경생리학 연구에 따르면 저작 운동을 시작하고 약 2 ~ 3분 이후부터 코르티솔 수치가 감소하고 뇌파가 이완성인 알파파(Alpha wave)로 전환되기 시작합니다. 따라서 최소한 2 ~ 3분 이상은 차분히 저작 운동에 집중해 주는 것이 효과를 보는 열쇠입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>저작 운동이 실제로 금연이나 폭식을 억제하는 과학적인 원리가 맞나요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gespräch mit den Weisen: Machiavellis formelle Leseroutine"
 description: "Niccolò Machiavelli, der Staatsmann, der sich selbst im Exil jeden Abend in hofgemäße Gewänder kleidete, um Geschichtsbücher zu lesen. Dieser Beitrag behandelt die wissenschaftlichen Prinzipien der gekleideten Kognition und zeigt, wie formelle Kleidung die neuronale Aktivierung auslöst und die Denkweise umstellt."
 pubDate: "2026-04-01"
@@ -35,17 +36,17 @@ Im heutigen Beitrag interpretieren wir den kognitiven Nutzen von Machiavellis Kl
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu machiavelli-regal-reading basiert auf <strong>Historische Evidenz aus Niccolò Machiavellis Briefwechsel 『Briefe des Machiavelli』 sowie Forschung in kognitiver Neurowissenschaft und kognitiver Psychologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Evidenz aus Niccolò Machiavellis Briefwechsel 『Briefe des Machiavelli』 sowie Forschung in kognitiver Neurowissenschaft und kognitiver Psychologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Der Effekt der gekleideten Kognition (Enclothed Cognition) und die Aktivierung des Exekutiven Kontrollnetzwerks (Executive Control Network)
+## 1. Der Effekt der gekleideten Kognition (Enclothed Cognition) und die Aktivierung des Exekutiven Kontrollnetzwerks (Executive Control Network)
 
 Das kognitive System des Menschen unterliegt dem Phänomen der <strong>gekleideten Kognition (Enclothed Cognition)</strong>, bei dem mentale Prozesse stark auf die symbolische Bedeutung der getragenen Kleidung abgestimmt werden.
 
@@ -55,9 +56,7 @@ Feine taktile Reize gepflegter Kleidung unterdrücken unnötiges Tagträumen im 
 
 ---
 
-## Regeln zum Blockieren von Entspannungssignalen der Freizeitkleidung und zum Wechsel in gepflegte Kleidung für optimale Konzentration
-
-Es geht nicht darum, teure oder steife Kleidung zu tragen, sondern darum, dass das Gehirn durch die Kleidung die spezifische Rollenidentität des 'Fokus- und Arbeitsmodus' erkennt. Zu enge Anzüge, die körperliches Unbehagen verursachen, rauben kognitive Ressourcen. Daher ist es am idealsten, eine gepflegte Alltagskleidung zu wählen, die sich klar von Freizeitkleidung unterscheidet und dennoch bequemes Konzentrieren ermöglicht.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Es geht nicht darum, teure oder steife Kleidung zu tragen, sondern darum, dass d
   </p>
 </div>
 
+---
+
+## 3. Regeln zum Blockieren von Entspannungssignalen der Freizeitkleidung und zum Wechsel in gepflegte Kleidung für optimale Konzentration
+
+Es geht nicht darum, teure oder steife Kleidung zu tragen, sondern darum, dass das Gehirn durch die Kleidung die spezifische Rollenidentität des 'Fokus- und Arbeitsmodus' erkennt. Zu enge Anzüge, die körperliches Unbehagen verursachen, rauben kognitive Ressourcen. Daher ist es am idealsten, eine gepflegte Alltagskleidung zu wählen, die sich klar von Freizeitkleidung unterscheidet und dennoch bequemes Konzentrieren ermöglicht.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Hilft es wirklich, beim Homeoffice oder Lernen zu Hause Straßenkleidung statt eines Schlafanzugs zu tragen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Es geht nicht darum, teure oder steife Kleidung zu tragen, sondern darum, dass d
       Ja, Forschungen zur gekleideten Kognition (Enclothed Cognition) in der kognitiven Psychologie belegen dies eindrücklich. Allein das Umziehen von Schlafanzug oder Hauskleidung in gepflegte Kleidung wie Stoffhosen oder Hemden veranlasst das Gehirn, seinen symbolischen Modus vom 'Ruhekontext' in den 'Arbeitskontext' umzuschalten. Dies verringert Prokrastination und verkürzt die Aufwärmzeit für tiefe Konzentration drastisch.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kann man auch mit einem einzelnen Gegenstand wie einer Brille oder einer Uhr eine Wirkung erzielen, wenn es schwierig ist, sich komplett umzuziehen?</span>

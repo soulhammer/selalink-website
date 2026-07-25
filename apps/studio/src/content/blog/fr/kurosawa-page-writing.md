@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le grand commencement du maître : La routine de scénario de 2 pages par jour d'Akira Kurosawa et la stabilisation de l'amygdale"
 description: "Découvrez comment le légendaire réalisateur Akira Kurosawa a créé des chefs-d'œuvre en rédigeant 2 pages de scénario chaque jour. Explorez la neuroscience des micro-objectifs, la suppression de la réponse de menace de l'amygdale et un guide en 3 étapes."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la psychologie comportementale et la neuroscien
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant kurosawa-page-writing est basée sur <strong>Vérification Historique issue de l'autobiographie d'Akira Kurosawa *Quelque chose comme una autobiographie*, des archives de Kurosawa & de la Recherche en Neurosciences Cognitives et Psychologie Comportementale</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie d'Akira Kurosawa *Quelque chose comme una autobiographie*, des archives de Kurosawa & de la Recherche en Neurosciences Cognitives et Psychologie Comportementale</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Suppression de la réponse de menace de l'amygdale et neuroscience des micro-objectifs
+## 1. Suppression de la réponse de menace de l'amygdale et neuroscience des micro-objectifs
 
 Lorsqu'un objectif paraît trop vaste, l'<strong>Amygdale</strong> — le centre émotionnel du cerveau — le perçoit comme una menace, déclenchant l'évitement et la procrastination. Réduire le quota quotidien a una unité minime, comme rédiger 2 pages, maintient la tâche sous le seuil d'alerte de l'amygdale. Cette stratégie de <strong>Micro-objectifs (Micro-Goal)</strong> neutralise la résistance cognitive, permettant au <strong>Cortex Préfrontal</strong> d'activer sa <strong>Fonction Exécutive (Executive Function)</strong> pour mener à bien des projets au long cours.
 
 ---
 
-## Mise en garde : Éliminer la pression globale pour se concentrer sur l'accomplissement du micro-objectif quotidien
-
-Fixer son esprit sur l'ampleur totale d'un projet génère una surcharge cognitive qui pousse à l'abandon avant même de commencer. Limitez votre attention au seul micro-objectif du jour (ex. : rédiger 2 pages). Plutôt que de compter sur una volonté fluctuante, instaurer la règle quotidienne d'écrire 2 pages est la clé pour accomplir des œuvres majeures.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Fixer son esprit sur l'ampleur totale d'un projet génère una surcharge cogniti
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer la pression globale pour se concentrer sur l'accomplissement du micro-objectif quotidien
+
+Fixer son esprit sur l'ampleur totale d'un projet génère una surcharge cognitive qui pousse à l'abandon avant même de commencer. Limitez votre attention au seul micro-objectif du jour (ex. : rédiger 2 pages). Plutôt que de compter sur una volonté fluctuante, instaurer la règle quotidienne d'écrire 2 pages est la clé pour accomplir des œuvres majeures.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Un objectif quotidien de seulement 2 pages n'est-il pas trop modeste pour obtenir des résultats significatifs ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Fixer son esprit sur l'ampleur totale d'un projet génère una surcharge cogniti
       Absolument pas. Lorsque les objectifs sont trop ambitieux, la peur de démarrer entraîne una procrastination systématique et un résultat nul. Consacrer chaque jour un petit effort se traduit au bout d'un an par plus de 700 pages, soit deux a trois scénarios complets.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je appliquer cette routine de 2 pages au travail de bureau, a la programmation ou aux révisions ?</span>

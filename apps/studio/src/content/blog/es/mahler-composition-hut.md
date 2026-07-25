@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El poder del aislamiento absoluto: La rutina de la cabaña de composición de Gustav Mahler"
 description: "Gustav Mahler, el compositor que se aislaba cada verano en una cabaña en los Alpes para crear sinfonías monumentales. Explora la psicología espacial de la inmersión que bloquea los estímulos externos para entrar en un estado de 'Trabajo Profundo'."
 pubDate: "2026-01-19"
@@ -38,22 +39,20 @@ Este artículo examina cómo la rutina de la cabaña de composición de Mahler c
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mahler-composition-hut se basa en <strong>Investigación de registros históricos sobre la cabaña de composición de Gustav Mahler y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de registros históricos sobre la cabaña de composición de Gustav Mahler y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Maximización de la capacidad prefrontal mediante el bloqueo de estímulos innecesarios
+## 1. Maximización de la capacidad prefrontal mediante el bloqueo de estímulos innecesarios
 
 Los trabajadores modernos sufren una sobrecarga de información extrema por notificaciones digitales, ruido y conversaciones. El cortex prefrontal consume enorme energía cognitiva para inhibir y filtrar estos estímulos innecesarios. El aislamiento físico de Mahler elimina fundamentalmente esta 'carga cognitiva inhibitoria'. El entorno natural tranquilo estabiliza el sistema de dopamina, reduce el estrés y permite dedicar el 100% de la memoria de trabajo a la arquitectura compleja y la intuición artística.
 
 ---
 
-## Precauciones y consejos
-
-El efecto secundario del aislamiento absoluto es la soledad social y el estancamiento cognitivo. Aislarse demasiado tiempo sin interacción acorta la perspectiva e induce depresión. Por lo tanto, limite las sesiones de aislamiento a un máximo de 3–4 horas al día para 'Trabajo Profundo' y mantenga un equilibrio emocional reintegrándose a sus relaciones sociales tras el trabajo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ El efecto secundario del aislamiento absoluto es la soledad social y el estancam
     Inmediatamente después del enfoque aislado, da un paseo ligero o descansa para permitir que el cerebro active la Red Neuronal por Defecto (DMN) y reorganice las ideas.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+El efecto secundario del aislamiento absoluto es la soledad social y el estancamiento cognitivo. Aislarse demasiado tiempo sin interacción acorta la perspectiva e induce depresión. Por lo tanto, limite las sesiones de aislamiento a un máximo de 3–4 horas al día para 'Trabajo Profundo' y mantenga un equilibrio emocional reintegrándose a sus relaciones sociales tras el trabajo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

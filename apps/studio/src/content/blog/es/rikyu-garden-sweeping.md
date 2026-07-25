@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Barriendo el polvo de la mente: La rutina matutina de barrido del jardín de Sen no Rikyu"
 description: "Una anécdota del gran maestro del té Sen no Rikyu purificando su mente mientras barría el jardín. Explica los principios de la ciencia cognitiva de la meditación cinestésica que elimina el ruido cognitivo cerebral a través de movimientos repetitivos simples."
 pubDate: "2026-06-12"
@@ -36,22 +37,20 @@ Este artículo analiza la conexión científica entre la actividad física repet
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre rikyu-garden-sweeping se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre el barrido del jardín de Rikyu e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre el barrido del jardín de Rikyu e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efecto de anclaje del sonido de la escoba y el ruido cognitivo cerebral
+## 1. Efecto de anclaje del sonido de la escoba y el ruido cognitivo cerebral
 
 El barrido rítmico transmite una retroalimentación física inmediata y simple al cerebro, anclando la atención al presente. Este enfoque sensorial estabiliza eficazmente las señales de ruido cognitivo en la corteza cerebral que fomentan la ansiedad y la distracción. Según investigaciones neurocientíficas, esta acción suprime las respuestas de ansiedad innecesarias en la amígdala y activa los circuitos de la agenda visoespacial, mejorando drásticamente la función ejecutiva a largo plazo.
 
 ---
 
-## Consejo del gran maestro del té para vaciar el polvo de la mente
-
-El verdadero polvo que se debe barrer está en la mente, no en el suelo. Regale a su cerebro tranquilidad y espacio libre cada mañana a través de una actividad física repetitiva ligera. No dependa únicamente de la fuerza de voluntad; diseñar de antemano un entorno físico y señales de hábitos que desencadenen la acción de forma natural es la clave de la sostenibilidad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ El verdadero polvo que se debe barrer está en la mente, no en el suelo. Regale 
     Después de finalizar 5 minutos de actividad, observe en silencio la zona ordenada junto con sus sutiles imperfecciones naturales, saboreando la quietud interior.
   </p>
 </div>
+
+---
+
+## 3. Consejo del gran maestro del té para vaciar el polvo de la mente
+
+El verdadero polvo que se debe barrer está en la mente, no en el suelo. Regale a su cerebro tranquilidad y espacio libre cada mañana a través de una actividad física repetitiva ligera. No dependa únicamente de la fuerza de voluntad; diseñar de antemano un entorno físico y señales de hábitos que desencadenen la acción de forma natural es la clave de la sostenibilidad.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

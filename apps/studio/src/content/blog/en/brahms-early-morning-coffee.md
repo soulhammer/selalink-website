@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Harmony of 5 AM Coffee and Morning Walk: Johannes Brahms's Powerful Morning Arousal Routine"
 description: "Discover how German classical master Johannes Brahms brewed black coffee at 5 AM every morning and walked briskly through forest paths, and explore the neuroscientific mechanism of BDNF secretion and working memory enhancement when caffeine combines with aerobic exercise."
 pubDate: "2026-06-13"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Johannes Brahms's 'dawn
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding brahms-early-morning-coffee is based on <strong>Historical Verification from Max Kalbeck's Biography *Johannes Brahms* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Max Kalbeck's Biography *Johannes Brahms* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Synergy of Caffeine Arousal, Post-Exercise BDNF Release, and Working Memory
+## 1. Cognitive Synergy of Caffeine Arousal, Post-Exercise BDNF Release, and Working Memory
 
 Caffeine in morning coffee blocks adenosine receptor binding, cutting off brain fatigue signals while stimulating norepinephrine and dopamine release to promote alertness. When brisk walking immediately follows this physiological activation, cerebral blood flow increases and Brain-Derived Neurotrophic Factor (BDNF) is released. BDNF protects neurons and reinforces synaptic neuroplasticity. Consequently, Brahms's dawn routine combined central nervous system stimulation from caffeine with increased oxygen delivery from walking, artificially elevating working memory capacity and creative planning to their absolute peaks.
 
 ---
 
-## Caution & Tips: Considering Cortisol Rhythms and Coffee Timing After Waking
-
-If caffeine is consumed immediately upon waking when cortisol levels are naturally at their peak, its stimulating effect is reduced and gastrointestinal discomfort can occur. Hydrate first with lukewarm water upon waking and wait 30 minutes to an hour before drinking coffee, absorbing caffeine as natural cortisol levels subside—a approach that is healthier and more effective for cognitive anchoring.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ If caffeine is consumed immediately upon waking when cortisol levels are natural
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Considering Cortisol Rhythms and Coffee Timing After Waking
+
+If caffeine is consumed immediately upon waking when cortisol levels are naturally at their peak, its stimulating effect is reduced and gastrointestinal discomfort can occur. Hydrate first with lukewarm water upon waking and wait 30 minutes to an hour before drinking coffee, absorbing caffeine as natural cortisol levels subside—a approach that is healthier and more effective for cognitive anchoring.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Brahms stubbornly insist on personally brewing his coffee instead of letting others do it?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ If caffeine is consumed immediately upon waking when cortisol levels are natural
       Brahms was a perfectionist who believed coffee strength directly impacted his morning state of alertness. The fine motor activity of grinding beans and manually brewing acted as a powerful mental anchor, focusing his brain's attention for the day ahead.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How specifically does morning walking contribute to brain stimulation and creativity?</span>

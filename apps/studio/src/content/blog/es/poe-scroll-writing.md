@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Un novelista detectivesco que pegaba sus manuscritos en pergaminos? El método de escritura hiperenfocado de Edgar Allan Poe"
 description: "Edgar Allan Poe, pionero de la novela detectivesca moderna, escribía en estrechas tiras de papel y las pegaba continuamente en pergaminos. Descubra la ciencia cerebral detrás del bloqueo de distracciones visuales laterales para activar la tunelización cognitiva."
 pubDate: "2026-01-03"
@@ -36,14 +37,14 @@ En la entrada de hoy, examinamos los principios de ajuste de retroalimentación 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre poe-scroll-writing se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Edgar Allan Poe e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Edgar Allan Poe e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Tunelización cognitiva y supresión del circuito de automonitoreo
+## 1. Tunelización cognitiva y supresión del circuito de automonitoreo
 
 Controlar el campo visual en una franja extremadamente estrecha reduce los movimientos sacádicos innecesarios de los ojos, evitando que el lóbulo frontal desperdicie atención visual. La neurociencia denomina a este estado <strong>'Tunelización Cognitiva (Cognitive Tunneling)'</strong>, restringiendo la entrada de información visual para inducir una inmersión profunda.
 
@@ -51,9 +52,7 @@ Al mismo tiempo, la estructura del pergamino que se extiende continuamente hacia
 
 ---
 
-## Aislamiento de la autoedición
-
-El hábito de corregir frase por frase al escribir genera un conflicto constante entre los circuitos creativos del hemisferio derecho y los circuitos críticos del hemisferio izquierdo, provocando fatiga mental. Tal como Poe redactaba en un pergamino continuo, apague los circuitos de edición durante el borrador inicial y reserve la revisión para después.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El hábito de corregir frase por frase al escribir genera un conflicto constante
   </p>
 </div>
 
+---
+
+## 3. Aislamiento de la autoedición
+
+El hábito de corregir frase por frase al escribir genera un conflicto constante entre los circuitos creativos del hemisferio derecho y los circuitos críticos del hemisferio izquierdo, provocando fatiga mental. Tal como Poe redactaba en un pergamino continuo, apague los circuitos de edición durante el borrador inicial y reserve la revisión para después.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Existen aún en la actualidad los manuscritos en pergamino de Edgar Allan Poe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El hábito de corregir frase por frase al escribir genera un conflicto constante
       Sí, algunos de sus manuscritos sobrevivientes (como ensayos y críticas) se conservan en forma de pergaminos estrechos unidos con pegamento en instituciones como la Free Library de Filadelfia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Existen programas para evitar la costumbre de editar mientras se escribe en pantallas digitales?</span>

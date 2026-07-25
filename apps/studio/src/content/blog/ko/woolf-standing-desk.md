@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "매일 아침 서서 글을 쓴 소설가? 버지니아 울프의 고도 몰입 습관"
 description: "20세기 문학 거장 버지니아 울프. 화가였던 언니의 이젤에서 영감을 받아 서서 집필함으로써 얻은 집중의 과학과 현대적인 입식 습관을 다룹니다."
 pubDate: "2026-06-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>버지니아 울프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 woolf-standing-desk 루틴을 다룹니다.
+      본 콘텐츠는 <strong>버지니아 울프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 입식 책상과 서서 쓰는 글쓰기가 유도하는 전신 고유수용성 자극
+## 1. 입식 책상과 서서 쓰는 글쓰기가 유도하는 전신 고유수용성 자극
 
 105cm 높이의 입식 책상에 서서 그림을 그리듯 글을 쓰던 버지니아 울프의 습관은 전신 고유수용성 감각을 자극하여 글쓰기의 심리적 저항 장벽을 무력화하고 뇌의 집행 기능을 최고 상태로 가동해 줍니다.
 
 ---
 
-## 서서 일하는 환경 세팅 시 자세 유지 조언
-
-발바닥 하중이 한쪽으로 쏠리지 않도록 쿠션 매트를 깔고 40분 작업 후 5분 이완하는 신체 밸런스를 유지하는 것이 중요합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     40분 집중 집필 후에는 5분간 가벼운 스트레칭이나 휴식을 취하여 한쪽 발로 하중이 쏠리는 것을 방지하고 신체적·정신적 균형을 유지합니다.
   </p>
 </div>
+
+---
+
+## 3. 서서 일하는 환경 세팅 시 자세 유지 조언
+
+발바닥 하중이 한쪽으로 쏠리지 않도록 쿠션 매트를 깔고 40분 작업 후 5분 이완하는 신체 밸런스를 유지하는 것이 중요합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

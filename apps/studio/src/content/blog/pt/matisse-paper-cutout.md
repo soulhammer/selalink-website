@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O milagre das tesouras na cama: O método de recortes de Henri Matisse para aliviar a dor"
 description: "Henri Matisse, um dos maiores mestres da história da arte. Descubra como ele superou a dor e criou obras-primas da cama após uma cirurgia de câncer na velhice usando tesouras para cortar papéis coloridos, e entenda a neurociência por trás da cura visotátil."
 pubDate: "2026-05-17"
@@ -35,17 +36,17 @@ No post de hoje, exploramos a ciência do relaxamento visotátil na rotina de re
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre matisse-paper-cutout é baseada em <strong>Verificação de biografias históricas de Henri Matisse e pesquisas em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas de Henri Matisse e pesquisas em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Feedback visotátil para dispersar a dor e estimular a neuroplasticidade
+## 1. Feedback visotátil para dispersar a dor e estimular a neuroplasticidade
 
 Quando o cérebro enfrenta dor física intensa ou estresse, o repouso passivo mantém a atenção presa às redes de dor e ansiedade.
 
@@ -53,9 +54,7 @@ Atividades de motricidade fina como cortar papel com precisão — como fazia Ma
 
 ---
 
-## A criação na ponta dos dedos cura o cérebro cansado
-
-Acumulamos fadiga visual todos os dias navegando passivamente pelas redes sociais. Adote um ritual tátil como o de Matisse — mesmo uma vez por semana — usando tesouras para cortar papéis coloridos em formas livres e organizando-os em um caderno ou parede. É uma excelente terapia de detox mental e sensorial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Acumulamos fadiga visual todos os dias navegando passivamente pelas redes sociai
   </p>
 </div>
 
+---
+
+## 3. A criação na ponta dos dedos cura o cérebro cansado
+
+Acumulamos fadiga visual todos os dias navegando passivamente pelas redes sociais. Adote um ritual tátil como o de Matisse — mesmo uma vez por semana — usando tesouras para cortar papéis coloridos em formas livres e organizando-os em um caderno ou parede. É uma excelente terapia de detox mental e sensorial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Iniciantes sem talento artístico podem se beneficiar dos recortes?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Acumulamos fadiga visual todos os dias navegando passivamente pelas redes sociai
       Sim. O resultado artístico é irrelevante. O benefício reside no estímulo tátil de manusear a tesoura e na entrada visual das cores vibrantes. Esse processo desacopla a dor e estimula a neuroplasticidade, independentemente da perfeição das formas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>E quanto a usar argila ou um aplicativo de desenho em vez de cortar papel?</span>

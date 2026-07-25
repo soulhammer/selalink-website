@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un codeur dans une buanderie coupée de la lumière et du bruit ? La routine de concentration en chambre noire de Linus Torvalds"
 description: "Linus Torvalds, créateur de Linux et Git. Découvrez comment il a atteint une hyper-concentration dans une pièce isolée, exempte de stimulations visuelles externes et de décorations électroniques, et comment créer son environnement de travail silencieux."
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ Dans l'article d'aujourd'hui, nous partageons une analyse en sciences cognitives
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant torvalds-darkroom-focus est basée sur <strong>Biographies historiques et récits autobiographiques de Linus Torvalds et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Linus Torvalds et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## « Filtration cognitive » : préserver l'attention en contrôlant les stimulations visuelles
+## 1. « Filtration cognitive » : préserver l'attention en contrôlant les stimulations visuelles
 
 Notre cortex visuel calcule constamment et inconsciemment la profondeur, la couleur et la forme de chaque objet visible (jouets sur le bureau, cadres photo colorés, mouvements des passants, etc.). La vision impose la charge cognitive la plus lourde au cerveau, consommant environ 30 % de l'énergie totale du cortex cérébral.
 
@@ -53,9 +54,7 @@ La routine de concentration en chambre noire de Linus Torvalds constituait une a
 
 ---
 
-## Dans l'obscurité, la logique du codeur devient limpide
-
-Pour Linus Torvalds, la chambre noire de la buanderie était une forteresse cognitive bloquant les tentations extérieures et les petites stimulations à la source. Si votre domicile est source de distractions et que vous peinez à vous immerger profondément dans votre travail, essayez de désencombrer votre bureau de toute décoration visuelle et de réduire la luminosité ambiante avant de blâmer votre capacité de concentration. Vous ferez l'expérience d'une immersion remarquable.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Pour Linus Torvalds, la chambre noire de la buanderie était une forteresse cogn
   </p>
 </div>
 
+---
+
+## 3. Dans l'obscurité, la logique du codeur devient limpide
+
+Pour Linus Torvalds, la chambre noire de la buanderie était une forteresse cognitive bloquant les tentations extérieures et les petites stimulations à la source. Si votre domicile est source de distractions et que vous peinez à vous immerger profondément dans votre travail, essayez de désencombrer votre bureau de toute décoration visuelle et de réduire la luminosité ambiante avant de blâmer votre capacité de concentration. Vous ferez l'expérience d'une immersion remarquable.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Regarder un écran dans une pièce sombre abîme-t-il la vue ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Pour Linus Torvalds, la chambre noire de la buanderie était une forteresse cogn
       Un contraste trop élevé dans l'obscurité totale provoque de la fatigue oculaire. Par conséquent, réduire la luminosité de l'écran pour l'adapter à l'environnement ou installer un rétroéclairage doux (comme des LED indirectes) derrière le moniteur prévient la fatigue du nerf optique tout en maintenant une forte immersion.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si je n'ai pas de buanderie ou de pièce isolée chez moi ?</span>

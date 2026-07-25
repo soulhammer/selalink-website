@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Immersion hors ligne : La routine de déconnexion e-mail et de prévention du changement de contexte de Donald Knuth"
 description: "Découvrez comment le grand chercheur en informatique Donald Knuth a renoncé a l'e-mail dès le 1er janvier 1990 pour préserver son travail en profondeur. Explorez la neuroscience de l'élimination du changement de contexte et du traitement par lots."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive et la psychologie sou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant knuth-no-email est basée sur <strong>Vérification Historique issue de la déclaration officielle de Donald Knuth *Email and I*, des archives de Stanford & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la déclaration officielle de Donald Knuth *Email and I*, des archives de Stanford & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Élimination du changement de contexte et prévention du reste d'attention
+## 1. Élimination du changement de contexte et prévention du reste d'attention
 
 Consulter un e-mail ou una notification impose au cerveau un <strong>Changement de Contexte (Context Switching)</strong> coûteux en ressources cognitives. Même en revenant a la tâche initiale, una partie de l'attention reste mobilisée par le message lu, un phénomène appelé <strong>Reste d'Attention (Attention Residue)</strong>. Il faut plus de 20 minutes au <strong>Cortex Préfrontal</strong> pour dissiper ce reste et retrouver una concentration maximale. Établir des limites hors ligne comme Donald Knuth élimine la fragmentation, favorisant la réflexion abstraite.
 
 ---
 
-## Mise en garde : Réprimer le réflexe de réponse immédiate pour adopter le traitement par lots
-
-Supprimer totalement l'e-mail a l'instar de Donald Knuth peut s'avérer irréaliste dans una organisation moderne. La méthode consiste a réprimer le réflexe de réponse immédiate grâce au <strong>Traitement par lots (Batch Processing)</strong>. Désactivez les notifications en dehors de 1 ou 2 créneaux quotidiens pour préserver des blocs de concentration ininterrompus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Supprimer totalement l'e-mail a l'instar de Donald Knuth peut s'avérer irréali
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Réprimer le réflexe de réponse immédiate pour adopter le traitement par lots
+
+Supprimer totalement l'e-mail a l'instar de Donald Knuth peut s'avérer irréaliste dans una organisation moderne. La méthode consiste a réprimer le réflexe de réponse immédiate grâce au <strong>Traitement par lots (Batch Processing)</strong>. Désactivez les notifications en dehors de 1 ou 2 créneaux quotidiens pour préserver des blocs de concentration ininterrompus.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment informer mes collaborateurs de mes horaires de consultation d'e-mails sans créer de malentendus ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Supprimer totalement l'e-mail a l'instar de Donald Knuth peut s'avérer irréali
       Indiquez clairement vos créneaux dans un message d'absence ou votre statut de messagerie. Afficher una note explicite (ex. : « Pour me consacrer aux projets prioritaires, je consulte mes e-mails deux fois par jour, a 11h00 et 16h00. Pour toute urgence, merci de me joindre par téléphone ») fixe les attentes et protège votre temps.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>La routine de déconnexion de Knuth est-elle applicable aux salariés ordinaires qui ne sont pas des chercheurs célèbres ?</span>

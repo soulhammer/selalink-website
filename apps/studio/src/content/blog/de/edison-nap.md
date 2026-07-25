@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Genie, das mit Stahlkugeln in der Hand schief: Thomas Edisons Hypnagogie-Nickerchen-Technik & Halbschlaf-Kreativitätsroutine"
 description: "Entdecken Sie Thomas Edisons legendäre Stahlkugel-Nickerchen-Routine zur Überwindung kreativer Blockaden. Erfahren Sie mehr über die kognitiven Neurowissenschaften der Hypnagogie (N1-Schlafphase) und die sofortige Ideenerfassung."
 pubDate: "2026-04-02"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaften hinter Thomas Edison
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu edison-nap basiert auf <strong>Historische Überprüfung aus Paul Israels Biografie *Edison: A Life of Invention*, Archiven des Thomas Edison National Historical Park & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Paul Israels Biografie *Edison: A Life of Invention*, Archiven des Thomas Edison National Historical Park & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Eureka-Erkenntnisse durch Hypnagogie und die Stahlkugel-Falltechnik
+## 1. Eureka-Erkenntnisse durch Hypnagogie und die Stahlkugel-Falltechnik
 
 Beim Eintritt in den hypnagogischen Zustand (N1-Schlafphase) wechseln die Gehirnwellen in Theta-Wellen. Dies lockert das exekutive Kontrollnetzwerk und ermöglicht das freie Kombinieren von Erinnerungen und Konzepten. Die Stahlkugel-Falltechnik fungierte als präziser neurologischer Schalter: Sie riss das Gehirn kurz vor dem tiefen Schlaf und der Schlafschwere wach, sodass Edison flüchtige Eureka-Ideen sofort festhalten konnte.
 
 ---
 
-## Vorsichtsmaßnahmen & Protokoll: Sofortige Aufzeichnung nach dem Aufwachen
-
-Sie müssen eine sofortige Verhaltenskette trainieren: Schreiben Sie hypnagogische Bilder in der Sekunde auf, in der Sie aufwachen. Zögern Sie auch nur wenige Sekunden, verfliegen die Gedanken des Halbschlafs spurlos aus dem Kurzzeitgedächtnis.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Sie müssen eine sofortige Verhaltenskette trainieren: Schreiben Sie hypnagogisc
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Protokoll: Sofortige Aufzeichnung nach dem Aufwachen
+
+Sie müssen eine sofortige Verhaltenskette trainieren: Schreiben Sie hypnagogische Bilder in der Sekunde auf, in der Sie aufwachen. Zögern Sie auch nur wenige Sekunden, verfliegen die Gedanken des Halbschlafs spurlos aus dem Kurzzeitgedächtnis.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum hielt Thomas Edison beim Nickerchen Stahlkugeln in der Hand?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Sie müssen eine sofortige Verhaltenskette trainieren: Schreiben Sie hypnagogisc
       Beim Einschlafen erschlafften seine Muskeln, wodurch die Kugeln fielen und ihn weckten, damit er flüchtige Gedanken des Halbschlafs sofort festhalten konnte.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Gibt es Alternativen zu Edisons Technik für Büroumgebungen, in denen Lärm vermieden werden muss?</span>

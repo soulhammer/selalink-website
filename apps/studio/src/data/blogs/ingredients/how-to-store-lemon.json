@@ -1,0 +1,454 @@
+{
+  "how-to-store-lemon": {
+    "ingId": "lemon",
+    "pubDate": "2026-02-13",
+    "updatedDate": "2026-02-13",
+    "heroImage": "/images/blog/lemon_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "레몬 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 레몬의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "레몬을 실온 바구니에 담아두었다가 돌멩이처럼 굳어버렸거나, 냉장고에서 푸른 곰팡이가 피어 버린 적 있으시죠? 오늘 FreshSnap에서는 미국 농무부(USDA)의 가이드를 기반으로, 레몬의 수분 소실을 완전히 봉쇄하여 한 달 넘게 싱싱한 즙을 짜낼 수 있는 보관법을 전합니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "레몬",
+          "과학적으로 검증된 보관 가이드",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Isolate damaged lemons immediately ⚠️",
+            "desc": "Mold can quickly spread from one damaged lemon to others in a sealed container."
+          },
+          {
+            "title": "Do not wash lemons before storage 🍋",
+            "desc": "Washing and scrubbing breaks the protective peel layer, making lemons rot much faster."
+          }
+        ],
+        "steps": [
+          {
+            "name": "표면의 잔여 물기 완벽하게 제거하기 — 수분 통제 🍋",
+            "text": "레몬 껍질은 두껍지만 물기가 남아있으면 곰팡이가 쉽게 증식하여 녹색 또는 흰색 곰팡이가 레몬 전체를 망쳐버립니다. 냉장고에 넣기 전 키친타월로 표면의 습기를 완벽하게 닦아 건조해야 합니다."
+          },
+          {
+            "name": "지퍼백에 넣어 공기를 빼고 밀봉하기 — 수분 유실 및 차단 📦",
+            "text": "물기를 닦은 레몬을 지퍼백에 나란히 넣고, 가급적 내부의 공기를 최대한 빼내어 진공에 가까운 상태로 지퍼백을 잠급니다. 공기 접촉을 통제해야 레몬 껍질을 통한 수분 방출을 억제할 수 있습니다."
+          },
+          {
+            "name": "냉장고 중간 칸에 냉장 보관하기 — 저온 신선 보관 (30일) ❄️",
+            "text": "밀봉된 레몬 지퍼백은 냉장고 중간 칸(약 4℃)에 보관합니다. 이 방식은 레몬을 껍질째 그대로 보관하는 것보다 무려 4배 이상 수축 현상과 껍질 딱딱해짐을 예방하여 한 달 내내 레몬즙을 가득 머금게 해줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
+            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+          },
+          {
+            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
+            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Lemon Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Lemon based on official safety guidelines.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Have you ever left lemons on the counter only to have them dry out and harden? Today, FreshSnap shares USDA-verified storage hacks to keep lemons juicy.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Lemon",
+          "Scientifically Proven Storage Guide",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Isolate damaged lemons immediately ⚠️",
+            "desc": "Mold can quickly spread from one damaged lemon to others in a sealed container."
+          },
+          {
+            "title": "Do not wash lemons before storage 🍋",
+            "desc": "Washing and scrubbing breaks the protective peel layer, making lemons rot much faster."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Remove all surface moisture completely — Moisture control 🍋",
+            "text": "Although lemons have a thick peel, any moisture left on them encourages green or white mold to grow. Always wipe them completely dry with a paper towel before refrigerating."
+          },
+          {
+            "name": "Place in a Ziploc bag and squeeze out air — Airtight seal 📦",
+            "text": "Put the dried lemons in a Ziploc bag, squeeze out as much air as possible, and seal it. Restricting air contact prevents moisture from evaporating through the peel."
+          },
+          {
+            "name": "Store in the middle shelf of the fridge — Low temperature (30 Days) ❄️",
+            "text": "Keep the sealed bag in the middle shelf of the refrigerator (approx. 4°C). This method preserves lemons up to 4 times longer than leaving them loose, preventing them from shrinking and hardening."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
+            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+          },
+          {
+            "question": "How should I handle and store bruised or damaged parts?",
+            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+          }
+        ]
+      },
+      "ja": {
+        "title": "レモンの鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくレモンの最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>米国農務省(USDA) & FSA</strong>",
+        "intro": "レモンを常温に放置して、皮がカチカチに乾いてしまったことはありませんか？本日, FreshSnapではレモンの果汁をたっぷり残す保存方法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "レモン",
+          "科学的に検証された保存ガイド",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "傷のあるレモンはすぐに分けてください ⚠️",
+            "desc": "密閉容器の中で傷のあるレモンがあると、そこからカビ胞子が発生し、他のレモンも一気に傷んでしまいます。"
+          },
+          {
+            "title": "保存前にレモンを水洗いしないでください 🍋",
+            "desc": "洗ってワックスや皮の油分を落としてしまうと, 皮の保護層が壊れ, カビが発生しやすくなります。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "表面の水分を完全に拭き取る — カビ対策 🍋",
+            "text": "レモンの皮は厚いですが、水分がついたままだと緑色や白色のカビが発生しやすくなります。冷蔵庫に入れる前に、ペーパーで湿気を完全に拭き取ってください。"
+          },
+          {
+            "name": "ジッパーバッグに入れ、空気を抜いて密閉する — 密封保存 📦",
+            "text": "乾いたレモンをジッパーバッグに入れ、中の空気をできるだけ抜いて密閉します。空気との接触を減らすことで、皮から水分が抜けるのを防ぎます。"
+          },
+          {
+            "name": "冷蔵室の中段で冷蔵保存する —  低温保存 (30日間) ❄️",
+            "text": "密閉した袋を冷蔵室の中段（約4℃）に置きます。この方法は、そのまま置くより4倍以上も皮の乾燥や硬化を防ぎ, 1ヶ月後でもジューシーな果汁をキープできます."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
+            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+          },
+          {
+            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
+            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存柠檬：科学储存指南",
+        "description": "根据官方食品安全指南，了解柠檬的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>美国农务部(USDA) & FSA</strong>",
+        "intro": "您是否曾把柠檬放在台面上，却发现它们很快变干变硬？今天，FreshSnap为您分享保住柠檬果汁的科学储存秘诀。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "柠檬",
+          "科学验证的储存指南",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "请立即隔离有破损的柠檬 ⚠️",
+            "desc": "在密封容器中，霉菌会迅速从一颗受损的柠檬扩散到其他完好的柠檬上。"
+          },
+          {
+            "title": "储存前切勿清洗柠檬 🍋",
+            "desc": "清洗和刷洗会破坏柠檬表皮的保护层，导致柠檬腐烂得更快。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "彻底擦干表面的残留水分 — 控水防霉 🍋",
+            "text": "擦干柠檬表面水分以防发霉。"
+          },
+          {
+            "name": "放入密封袋并排尽空气 — 密封阻干 📦",
+            "text": "将柠檬装入密封袋中并排尽空气。"
+          },
+          {
+            "name": "将密封好的袋子存放在冰箱中层（约4℃）。这种方法比将柠檬直接散放在冰箱里能多延长数倍的保鲜期，防止果皮皱缩硬化，保住充沛果汁。",
+            "text": "放在冰箱中层以保持多汁。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "把食材放进冰箱前一定要用水洗吗？",
+            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+          },
+          {
+            "question": "碰伤或腐烂的部分应该如何处理和保存？",
+            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Limón fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Limón según las directrices oficiales de seguridad.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "¿Alguna vez dejó limones en el mostrador y se secaron y endurecieron? Hoy, FreshSnap comparte trucos para mantenerlos jugosos.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Limón",
+          "Guía de almacenamiento científicamente probada",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Aísle los limones dañados de inmediato ⚠️",
+            "desc": "El moho puede propagarse rápidamente de un limón dañado a otros en un recipiente cerrado."
+          },
+          {
+            "title": "No lave los limones antes de almacenarlos 🍋",
+            "desc": "Lavar y fregar rompe la capa protectora de la piel, haciendo que los limones se pudran mucho más rápido."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Secar la humedad de la superficie 🍋",
+            "text": "Seque completamente la humedad con una toalla de papel antes de refrigerar."
+          },
+          {
+            "name": "Colocar en bolsa hermética y sellar 📦",
+            "text": "Ponga los limones en una bolsa Ziploc, retire todo el aire posible y séllela."
+          },
+          {
+            "name": "Almacenar en estante medio ❄️",
+            "text": "Conserve la bolsa en el estante medio a unos 4°C para evitar que la piel se seque."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
+            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+          },
+          {
+            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
+            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Citron frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Citron selon les directives de sécurité officielles.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Avez-vous déjà laissé des citrons sur le comptoir pour les retrouver secs et durs ? Aujourd'hui, FreshSnap vous donne des astuces pour les garder juteux.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Citron",
+          "Guide de conservation scientifiquement prouvé",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Isolez immédiatement les citrons abîmés ⚠️",
+            "desc": "La moisissure peut rapidement se propager d'un citron abîmé aux autres dans un récipient fermé."
+          },
+          {
+            "title": "Ne lavez pas les citrons avant le stockage 🍋",
+            "desc": "Laver et frotter rompt la couche protectrice de la peau, ce qui fait pourrir les citrons beaucoup plus vite."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sécher l'humidité de surface 🍋",
+            "text": "Essuyez complètement l'humidité avec un papier absorbant avant de réfrigérer."
+          },
+          {
+            "name": "Placer dans un sac hermétique et sceller 📦",
+            "text": "Mettez les citrons dans un sac Ziploc, videz l'air au maximum et fermez."
+          },
+          {
+            "name": "Stocker sur l'étagère du milieu ❄️",
+            "text": "Conservez le sac sur l'étagère du milieu à environ 4°C pour éviter que la peau ne se dessèche."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
+            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+          },
+          {
+            "question": "Comment gérer et conserver les parties abîmées ?",
+            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Zitrone frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Zitrone basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Haben Sie schon einmal Zitronen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie austrockneten und hart wurden? Heute teilt FreshSnap Tipps.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Zitrone",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Beschädigte Zitronen sofort aussortieren ⚠️",
+            "desc": "In einem geschlossenen Behälter kann sich Schimmel schnell von einer beschädigten Zitrone auf andere ausbreiten."
+          },
+          {
+            "title": "Zitronen vor dem Lagern nicht waschen 🍋",
+            "desc": "Waschen beschädigt die schützende Schalenschicht, wodurch Zitronen viel schneller verfaulen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Oberflächenfeuchtigkeit trocknen 🍋",
+            "text": "Wischen Sie die Feuchtigkeit vor dem Kühlen vollständig mit einem Papiertuch ab."
+          },
+          {
+            "name": "In einen Beutel legen und versiegeln 📦",
+            "text": "Zitronen in einen Ziploc-Beutel legen, Luft möglichst vollständig herausdrücken und schließen."
+          },
+          {
+            "name": "Auf mittlerem Regal lagern ❄️",
+            "text": "Bewahren Sie den Beutel auf dem mittleren Regal bei ca. 4°C auf, damit die Schale nicht austrocknet."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
+            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+          },
+          {
+            "question": "Wie lagert man beschädigte Stellen?",
+            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Limão fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Limão com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Você já deixou limões na bancada e eles secaram e endureceram? Hoje, o FreshSnap compartilha dicas para mantê-los suculentos.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Limão",
+          "Guia de armazenamento comprovado cientificamente",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Isole os limões danificados imediatamente ⚠️",
+            "desc": "O mofo pode se espalhar rapidamente de um limão danificado para os outros em um pote fechado."
+          },
+          {
+            "title": "Não lave os limões antes de guardar 🍋",
+            "desc": "Lavar e esfregar remove a camada protetora da casca, fazendo com que los limões apodreçam muito mais rápido."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Secar umidade da superfície 🍋",
+            "text": "Seque completamente a umidade com papel-toalha antes de refrigerar."
+          },
+          {
+            "name": "Colocar em saco hermético e selar 📦",
+            "text": "Coloque os limões em um saco Ziploc, retire todo o ar possível e sele."
+          },
+          {
+            "name": "Guardar na prateleira média ❄️",
+            "text": "Conserve o saco na prateleira média a cerca de 4°C para evitar que a casca resseque."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
+            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+          },
+          {
+            "question": "Como tratar e guardar partes machucadas?",
+            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Lemon agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Lemon berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Pernahkah Anda membiarkan lemon di meja dapur lalu menjadi kering dan keras? Hari ini, FreshSnap membagikan tips penyimpanan lemon.",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Lemon",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Segera pisahkan lemon yang rusak ⚠️",
+            "desc": "Jamur dapat menyebar dengan cepat dari satu lemon yang rusak ke lemon lainnya di dalam wadah tertutup."
+          },
+          {
+            "title": "Jangan cuci lemon sebelum disimpan 🍋",
+            "desc": "Mencuci lemon akan merusak lapisan pelindung alami pada kulitnya, membuat lemon lebih cepat busuk."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Keringkan kelembapan permukaan 🍋",
+            "text": "Lap kelembapan hingga benar-benar kering dengan tisu dapur sebelum disimpan di kulkas."
+          },
+          {
+            "name": "Masukkan ke kantong Ziploc dan segel 📦",
+            "text": "Masukkan lemon ke kantong Ziploc, buang udara sebanyak mungkin, lalu segel."
+          },
+          {
+            "name": "Simpan di rak tengah kulkas ❄️",
+            "text": "Simpan kantong di rak tengah (sekitar 4°C) untuk mencegah kulitnya mengering dan mengeras."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
+            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+          },
+          {
+            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
+            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+          }
+        ]
+      }
+    }
+  }
+}

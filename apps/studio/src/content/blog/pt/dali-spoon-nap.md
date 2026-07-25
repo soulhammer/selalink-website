@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Gênio que Pintou o Universo com uma Colher: A Rotina de Sesta de Reinício Cerebral e Captura de Hipnagogia de Salvador Dalí"
 description: "Descubra como o mestre surrealista Salvador Dalí sentava-se numa cadeira segurando uma colher metálica para capturar ideias artísticas ao acordar. Explore a neurociência cognitiva da hipnagogia e ondas theta."
 pubDate: "2026-03-07"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina da 'sesta 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre dali-spoon-nap é baseada em <strong>Verificação Histórica da Autobiografia de Salvador Dalí *A Vida Secreta de Salvador Dalí (The Secret Life of Salvador Dalí)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Salvador Dalí *A Vida Secreta de Salvador Dalí (The Secret Life of Salvador Dalí)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ativação de Ondas Theta Durante a Hipnagogia e Síntese Associativa Subconsciente
+## 1. Ativação de Ondas Theta Durante a Hipnagogia e Síntese Associativa Subconsciente
 
 Entrar no limite entre a vigília e o sono — a 'Hipnagogia' (NREM Estágio 1) — altera as ondas cerebrais para Ondas Theta (4–8 Hz). Durante essa transição, a censura executiva pré-frontal é temporariamente silenciada. Disparos sinápticos sem restrições permitem que conceitos díspares se combinem em sínteses criativas. O mecanismo da colher de Dalí funcionou como um disjuntor que interrompeu a descida para o sono profundo (NREM Estágio 3), evitando a 'Inércia do Sono' e capturando as imagens da hipnagogia.
 
 ---
 
-## Precauções e Dicas: Externalização Imediata em Menos de 5 Segundos e Eliminação de Atrasos
-
-Se você hesitar com a mente confusa após acordar com o barulho, as imagens da hipnagogia desvanecerão em questão de segundos. O fator decisivo desta rotina é a velocidade: no instante em que escutar o estalo metálico, abra os olhos e desenhe ou anote as imagens no caderno em menos de 5 segundos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Se você hesitar com a mente confusa após acordar com o barulho, as imagens da 
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Externalização Imediata em Menos de 5 Segundos e Eliminação de Atrasos
+
+Se você hesitar com a mente confusa após acordar com o barulho, as imagens da hipnagogia desvanecerão em questão de segundos. O fator decisivo desta rotina é a velocidade: no instante em que escutar o estalo metálico, abra os olhos e desenhe ou anote as imagens no caderno em menos de 5 segundos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que Salvador Dalí escolheu especificamente uma colher de metal para segurar durante suas sestas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Se você hesitar com a mente confusa após acordar com o barulho, as imagens da 
       Segurar uma colher convertia o relaxamento muscular do início do sono num sinal sonoro que o despertava instantaneamente. Isso impedia que seu cérebro entrasse no sono profundo NREM Estágio 3 — evitando a inércia do sono — enquanto capturava as imagens da hipnagogia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como posso adaptar esta rotina em ambientes silenciosos como escritórios ou bibliotecas?</span>

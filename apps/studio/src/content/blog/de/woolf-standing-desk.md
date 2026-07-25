@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Romanautorin, die jeden Morgen im Stehen schrieb? Virginia Woolfs Hochfokus-Gewohnheit"
 description: "Die Literatur-Gigantin des 20. Jahrhunderts Virginia Woolf. Entdecken Sie die Wissenschaft der Konzentration durch das Schreiben im Stehen – inspiriert von der Staffelei ihrer Schwester – und moderne Steharbeitsgewohnheiten."
 pubDate: "2026-06-06"
@@ -33,25 +34,23 @@ Im heutigen Beitrag teilen wir die wissenschaftlichen Vorteile von Virginia Wool
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu woolf-standing-desk basiert auf <strong>Untersuchung historischer Biografien und Aufzeichnungen von Virginia Woolf & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Untersuchung historischer Biografien und Aufzeichnungen von Virginia Woolf & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ganzkörper-propriozeptive Stimulation durch Stehpulte und Schreiben im Stehen
+## 1. Ganzkörper-propriozeptive Stimulation durch Stehpulte und Schreiben im Stehen
 
 Virginia Woolfs Gewohnheit, an einem 105 cm hohen Stehpult wie eine Malerin zu schreiben, stimuliert die Ganzkörper-Propriozeption, baut psychologische Schreibbarrieren ab und bringt die exekutiven Gehirnfunktionen auf Höchstleistung.
 
 ---
 
-## Ratschläge zur Haltung bei der Einrichtung einer Steharbeitsumgebung
-
-Es ist wichtig, das körperliche Gleichgewicht zu halten, indem Sie eine Dämpfungsmatte auslegen, um eine einseitige Belastung zu vermeiden, und nach 40 Minuten Arbeit 5 Minuten Pause machen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Es ist wichtig, das körperliche Gleichgewicht zu halten, indem Sie eine Dämpfu
     Machen Sie nach 40 Minuten fokussiertem Schreiben 5 Minuten lang leichte Dehnübungen oder Pause, um eine einseitige Gewichtsverlagerung zu vermeiden und das Gleichgewicht zu halten.
   </p>
 </div>
+
+---
+
+## 3. Ratschläge zur Haltung bei der Einrichtung einer Steharbeitsumgebung
+
+Es ist wichtig, das körperliche Gleichgewicht zu halten, indem Sie eine Dämpfungsmatte auslegen, um eine einseitige Belastung zu vermeiden, und nach 40 Minuten Arbeit 5 Minuten Pause machen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

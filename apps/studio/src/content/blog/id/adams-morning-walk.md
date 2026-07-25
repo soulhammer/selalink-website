@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Langkah Kaki untuk Membangunkan Kesehatan Otak: Rutinitas Jalan Cepat dan Jurnal Refleksi John Quincy Adams"
 description: "Presiden ke-6 AS John Quincy Adams rutin berjalan cepat 5 mil setiap hari dan menulis refleksi di malam hari. Pelajari kebiasaan otak sehat yang merangsang sekresi BDNF."
 pubDate: "2026-04-06"
@@ -33,17 +34,17 @@ Dalam postingan hari ini, kami memperkenalkan ilmu di balik pelepasan Brain-Deri
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai adams-morning-walk didasarkan pada <strong>Verifikasi Biografi Historis dan Catatan Autobiografi John Quincy Adams & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Biografi Historis dan Catatan Autobiografi John Quincy Adams & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergi BDNF yang Dihasilkan dari Olahraga dan Refleksi Kognitif
+## 1. Sinergi BDNF yang Dihasilkan dari Olahraga dan Refleksi Kognitif
 
 Jalan cepat dengan tempo yang membuat Anda sedikit terengah-engah dapat meningkatkan detak jantung dan memasok aliran darah ke area hipokampus, secara langsung merangsang pelepasan Brain-Derived Neurotrophic Factor (BDNF). Faktor ini memperbaiki koneksi sinapsis antar sel otak dan mendorong pembentukannya.
 
@@ -51,9 +52,7 @@ Ketika Anda menulis jurnal atau catatan bacaan secara manual di malam hari saat 
 
 ---
 
-## Sesuaikan Kecepatan dengan Sendi Lutut dan Kondisi Fisik Anda
-
-Adams melakukan jalan cepat 5 mil setiap hari, namun hal ini didasarkan pada ketahanan fisik yang terlatih dalam jangka panjang. Jika orang modern tiba-tiba memulai jalan kaki intensitas tinggi, hal itu dapat membebani sendi lutut atau tulang belakang. Memulai dengan 15 menit jalan cepat ringan yang disesuaikan dengan stamina dasar Anda dan secara bertahap menambah durasi serta lebar langkah adalah cara terbaik untuk menghindari cedera.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Adams melakukan jalan cepat 5 mil setiap hari, namun hal ini didasarkan pada ket
   </p>
 </div>
 
+---
+
+## 3. Sesuaikan Kecepatan dengan Sendi Lutut dan Kondisi Fisik Anda
+
+Adams melakukan jalan cepat 5 mil setiap hari, namun hal ini didasarkan pada ketahanan fisik yang terlatih dalam jangka panjang. Jika orang modern tiba-tiba memulai jalan kaki intensitas tinggi, hal itu dapat membebani sendi lutut atau tulang belakang. Memulai dengan 15 menit jalan cepat ringan yang disesuaikan dengan stamina dasar Anda dan secara bertahap menambah durasi serta lebar langkah adalah cara terbaik untuk menghindari cedera.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bisakah saya mengganti jalan pagi di luar ruangan dengan berlari cepat di treadmill dalam ruangan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Adams melakukan jalan cepat 5 mil setiap hari, namun hal ini didasarkan pada ket
       Dari segi pelepasan BDNF melalui olahraga aerobik, hal itu memang efektif. Namun, berjalan di luar ruangan sangat direkomendasikan karena memproses stimulasi visual luar ruangan (cahaya alami, perubahan musim, permukaan jalan yang tidak rata) memberikan efek aktivasi yang jauh lebih besar pada korteks visual dan jaringan sinapsis prefrontal di area keseimbangan dibandingkan lingkungan dalam ruangan yang statis.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah efeknya sama jika saya menulis jurnal refleksi malam di aplikasi catatan smartphone?</span>

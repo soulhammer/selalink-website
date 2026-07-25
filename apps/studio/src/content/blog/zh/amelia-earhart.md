@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "即便在风暴驾驶舱中也沉浸于仪表盘数值：埃尔哈特的认知控制训练"
 description: "作为成功独自飞越大西洋的首位女性飞行员，她通过每天早晨精细整理气象数据与风向变化，平息了飞行焦虑。"
 pubDate: "2026-01-31"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 amelia-earhart 的内容基于 <strong>阿梅莉亚·埃尔哈特自传《The Fun of It》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>阿梅莉亚·埃尔哈特自传《The Fun of It》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 驱动成功的脑科学原理分析
+## 1. 驱动成功的脑科学原理分析
 
 在危机状况或令人不安的工作环境中，抑制大脑情绪脑（杏仁核）的觉醒，并将判断锚定于物理指标上的行为，能大幅激活大脑前额叶的认知控制（Cognitive Control）神经网络。将收集到的仪表数据迅速转化为文本并进行元分析的过程，可以控制皮质醇激素的分泌，是在复杂的商业环境中避免陷入恐慌并引导做出最佳无误决策的强大机制。
 
 ---
 
-## 有助于成功落地锚定的行为科学建议
-
-请勿过于执着于数值分析而将每日目标制定得过于冗长繁琐。请仅仅专注于凝视3个冷静的仪表数值，以此向大脑覆盖一张清晰的事实信息地图。不要盲目依赖意志力，预先设计好必然会自然引发行动的物理环境与习惯提示，才是保持持续性的核心。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 有助于成功落地锚定的行为科学建议
+
+请勿过于执着于数值分析而将每日目标制定得过于冗长繁琐。请仅仅专注于凝视3个冷静的仪表数值，以此向大脑覆盖一张清晰的事实信息地图。不要盲目依赖意志力，预先设计好必然会自然引发行动的物理环境与习惯提示，才是保持持续性的核心。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>当工作非常卡顿、焦虑急躁时，仪表盘训练也能立即生效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       是的，立即生效。当焦虑急躁产生时，大脑会过度激活杏仁核。此时，将剩余的未读消息数、距离截止时间的分钟数等物理数值冷静地写在白纸上，大脑的认知控制网络就会自上而下（Top-down）地运作，从而稳定情绪。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>最推荐将哪些数值指定为飞行仪表盘变量？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "手握钢球入睡的天才：托马斯·爱迪生入睡前幻觉（Hypnagogia）半睡眠创意法"
 description: "探索发明家托马斯·爱迪生在遭遇难题时使用的钢球午睡法。揭示在意识与睡眠交界处（入睡前幻觉/N1阶段）捕获灵感的神经科学原理与实践指南。"
 pubDate: "2026-04-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 edison-nap 的内容基于 <strong>保罗·伊斯雷尔《爱迪生传（Edison: A Life of Invention）》与爱迪生国家历史公园档案考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>保罗·伊斯雷尔《爱迪生传（Edison: A Life of Invention）》与爱迪生国家历史公园档案考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 钢球坠落法引发的入睡前幻觉与顿悟发想
+## 1. 钢球坠落法引发的入睡前幻觉与顿悟发想
 
 进入意识与睡眠边界的入睡前幻觉状态（Hypnagogia，N1非快速眼动睡眠期）时，脑电波转为慢速西塔波（Theta Waves），大脑的前额叶逻辑控制网放宽，记忆碎片与抽象概念得以自由碰撞组合。爱迪生采用的钢球坠落法是一套精准的神经学开关：在即将滑入深层睡眠并引发“睡眠惯性（Sleep Inertia）”前的临界点将其惊醒，从而毫无遗漏地捕获闪现的惊人顿悟残像。
 
 ---
 
-## 注意事项与准则：醒来后瞬间切换至记录模式
-
-必须训练一套极为强悍的即时行为连锁反应：在被钢球撞击声惊醒的微秒间，毫不犹豫地抓起手边的纸笔记录头脑中的梦幻意象。哪怕睁眼后稍加犹豫数秒，半睡眠状态下的创意残像便会彻底从短期记忆中挥发殆尽。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与准则：醒来后瞬间切换至记录模式
+
+必须训练一套极为强悍的即时行为连锁反应：在被钢球撞击声惊醒的微秒间，毫不犹豫地抓起手边的纸笔记录头脑中的梦幻意象。哪怕睁眼后稍加犹豫数秒，半睡眠状态下的创意残像便会彻底从短期记忆中挥发殆尽。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>爱迪生为什么要手握钢球入睡？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       当入睡瞬间肌肉松弛时，沉重的钢球掉落发出的巨响会将其即刻惊醒，从而在坠入深层睡眠之前，抓牢清醒与梦境交界处闪现的灵感残像。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在办公室或不宜制造噪音的环境中，有什么方法可以替代爱迪生午睡法？</span>

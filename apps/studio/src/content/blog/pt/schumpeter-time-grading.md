@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metacognição do tempo: a rotina de boletim diário de Joseph Schumpeter"
 description: "O economista Joseph Schumpeter avaliava suas horas de estudo e foco em seu diário todas as noites e atribuía notas (A–F). Explore os efeitos metacognitivos de um loop de feedback quantitativo."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Neste artigo, analisamos o ritual diário de Schumpeter e apresentamos um guia d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre schumpeter-time-grading é baseada em <strong>Pesquisa baseada na biografia histórica e registros autobiográficos de Schumpeter e Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa baseada na biografia histórica e registros autobiográficos de Schumpeter e Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ajuste da metacognição e rede de recompensa de dopamina via loop de feedback quantitativo
+## 1. Ajuste da metacognição e rede de recompensa de dopamina via loop de feedback quantitativo
 
 A maioria das pessoas avalia seu dia de forma subjetiva e emocional. Essa reflexão vaga favorece a auto-justificativa. O ritual de Schumpeter ativa a metacognição. Ao quantificar o tempo e atribuir notas, observa-se o comportamento de forma objetiva a partir de uma perspectiva de terceiros. Essa auto-objetivação honesta ajuda o cérebro a superar distorções cognitivas e motiva os circuitos de dopamina para obter uma nota melhor (A) no dia seguinte.
 
 ---
 
-## Precauções e Dicas
-
-Tome cuidado para que o boletim não se torne autocrítica destrutiva ou obsessão perfeccionista. Cair na desamparo aprendido por notas baixas aumentará o estresse e paralisará a ação. Trate a nota estritamente como coleta de dados sem emoção e use-a com mentalidade de crescimento para melhorar 10% no dia seguinte.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Tome cuidado para que o boletim não se torne autocrítica destrutiva ou obsess�
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas
+
+Tome cuidado para que o boletim não se torne autocrítica destrutiva ou obsessão perfeccionista. Cair na desamparo aprendido por notas baixas aumentará o estresse e paralisará a ação. Trate a nota estritamente como coleta de dados sem emoção e use-a com mentalidade de crescimento para melhorar 10% no dia seguinte.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

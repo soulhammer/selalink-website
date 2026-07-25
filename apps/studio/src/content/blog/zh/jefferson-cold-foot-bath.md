@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "托马斯·杰斐逊的冷水足浴法：坚持60年的清晨唤醒习惯与去甲肾上腺素神经调控"
 description: "探索《美国独立宣言》主要起草人托马斯·杰斐逊60年如一日在清晨用冷水泡脚唤醒大脑的历史真相。揭示自主神经系统刺激、去甲肾上腺素与消除前额叶脑雾的神经科学原理。"
 pubDate: "2026-04-17"
@@ -37,25 +38,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 jefferson-cold-foot-bath 的内容基于 <strong>托马斯·杰斐逊书信集《托马斯·杰斐逊书信集（The Writings of Thomas Jefferson）》史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>托马斯·杰斐逊书信集《托马斯·杰斐逊书信集（The Writings of Thomas Jefferson）》史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 自主神经系统刺激与去甲肾上腺素（Noradrenaline）大脑觉醒机制
+## 1. 自主神经系统刺激与去甲肾上腺素（Noradrenaline）大脑觉醒机制
 
 双足末梢神经接触冷水的局部冷刺激，能强力撬动<strong>自主神经系统（Autonomic Nervous System）</strong>交感神经电路，倒逼大脑蓝斑核即刻大量分泌<strong>去甲肾上腺素（Noradrenaline）</strong>。这一核心神经递质能呈跨越式拉升皮层觉醒度，瞬间扫除清晨残留的昏沉<strong>脑雾（Brain Fog）</strong>，并快速修复<strong>前额叶皮层（Prefrontal Cortex）</strong>的高阶执掌专注力。
 
 ---
 
-## 注意事项：规避血压骤升与实现安全觉醒指南
-
-突如其来的剧烈冰水刺激可能会对心血管系统施加过重负担或诱发暂时性血压飙升。若患有高血压或心血管疾患，须从微凉冷水起步而非直接使用冰水，并将局部足浴时长严苛限定于2-3分钟内，向自主神经系统输送平缓而安全的觉醒信号，乃是绝对关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：规避血压骤升与实现安全觉醒指南
+
+突如其来的剧烈冰水刺激可能会对心血管系统施加过重负担或诱发暂时性血压飙升。若患有高血压或心血管疾患，须从微凉冷水起步而非直接使用冰水，并将局部足浴时长严苛限定于2-3分钟内，向自主神经系统输送平缓而安全的觉醒信号，乃是绝对关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>托马斯·杰斐逊真的每天清晨都践行这项冷水足浴吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       史实确凿！在1819年3月写给巴因·阿特利医师的信函中，杰斐逊亲笔撰文证实自己已连续60年如一日在清晨进行冷水足浴，并将自己极少患感冒、保持强健体魄归功于此习惯。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>洗澡时直接洗冷水澡是否比单纯冷水足浴更为高效？</span>

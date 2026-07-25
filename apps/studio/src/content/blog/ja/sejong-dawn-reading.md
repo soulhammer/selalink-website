@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "独創国政の秘訣？世宗大王の凄まじい早朝読書ルーティン"
 description: "ハングルを創制した朝鮮最高の名君、世宗大王。慢性疾患に悩まされながらも毎日午前3時に起きて古典を読み頭をウォーミングアップした、彼の朝の認知活性化ルーティンを紹介します。"
 pubDate: "2026-04-27"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「sejong-dawn-reading」は <strong>『朝鮮王朝実録』世宗実録の考証および世宗大王評伝＆認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>『朝鮮王朝実録』世宗実録の考証および世宗大王評伝＆認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 起床直後に脳を目覚めさせる認知ウォーミングアップの効果
+## 1. 起床直後に脳を目覚めさせる認知ウォーミングアップの効果
 
 朝目覚めた直後の脳は、外部の騒音や不要な視覚的刺激に晒されていないため、高度で純粋な没頭を発揮できる状態です。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## スクリーンのブルーライトの代わりに紙とほのかな灯りを選びましょう
-
-早朝読書の核心は、起床直後に脳が持つ静かな集中状態を維持することです。起きてすぐスマートフォン画面をつける瞬間、降り注ぐブルーライトと断片的な通知情報は前頭葉を一瞬で疲弊させます。世宗大王がほのかな灯りの下で一文字ずつ紙の本を吟味したように、デジタル画面を排除しアナログの紙の本を活用して早朝の平穏を認知資産へ転換してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. スクリーンのブルーライトの代わりに紙とほのかな灯りを選びましょう
+
+早朝読書の核心は、起床直後に脳が持つ静かな集中状態を維持することです。起きてすぐスマートフォン画面をつける瞬間、降り注ぐブルーライトと断片的な通知情報は前頭葉を一瞬で疲弊させます。世宗大王がほのかな灯りの下で一文字ずつ紙の本を吟味したように、デジタル画面を排除しアナログの紙の本を活用して早朝の平穏を認知資産へ転換してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>朝型人間ではないのですが、必ず早朝3〜4時に起きなければなりませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       いいえ。世宗大王の核心は「起床直後の外部の邪魔がない自分だけの認知資産の確保」にあります。ご自身の普段の起床時間よりわずか30分早く起き、スマートフォンを遮断して静かに読書するだけで十分に同等の効果を得られます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ウェブ小説やSNSの記事を読むことでも大丈夫ですか？</span>

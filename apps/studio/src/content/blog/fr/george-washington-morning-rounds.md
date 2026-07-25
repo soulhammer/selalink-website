@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le journal agricole de George Washington : La routine d'inspection et de consignation à l'aube qui a forgé la gouvernance présidentielle"
 description: "Découvrez comment George Washington, qui se levait à 4h00 pour inspecter Mount Vernon et consigner des données agricoles précises, a bâti les fondations administratives d'une nation. Explorez la neuroscience de la métacognition."
 pubDate: "2026-07-04"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente a la rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant george-washington-morning-rounds est basée sur <strong>Vérification Historique issue des biographies de George Washington, des archives du domaine de Mount Vernon & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies de George Washington, des archives du domaine de Mount Vernon & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Comment la consignation quantitative de précision éveille la métacognition et active le cortex préfrontal latéral
+## 1. Comment la consignation quantitative de précision éveille la métacognition et active le cortex préfrontal latéral
 
 La <strong>Métacognition</strong> désigne la capacité a évaluer objectivement ses propres connaissances et son efficacité. Une métacognition faible conduit a se fier a des impressions superficielles, entraînant des erreurs de jugement. L'habitude de George Washington de consignes manuellement des données chiffrées précises stimule fortement le <strong>Cortex Préfrontal Latéral</strong>. En remplaçant les hypothèses floues par des données empiriques, ce système dissipe les <strong>Illusions Cognitives</strong> et sécurise la prise de décision.
 
 ---
 
-## Mise en garde : Éliminer les impressions émotionnelles subjectives pour se concentrer strictement sur des indicateurs quantitatifs
-
-Les impressions émotionnelles vagues comme « je me sentais fatigué aujourd'hui » n'activent pas les circuits métacognitifs. La métacognition s'enclenche uniquement lors de la consignation de données numériques objectives : heure du réveil, nombre de pages lues, heures de travail intense. Consigner des données brutes permet d'éliminer les inefficacités.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Les impressions émotionnelles vagues comme « je me sentais fatigué aujourd'hu
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer les impressions émotionnelles subjectives pour se concentrer strictement sur des indicateurs quantitatifs
+
+Les impressions émotionnelles vagues comme « je me sentais fatigué aujourd'hui » n'activent pas les circuits métacognitifs. La métacognition s'enclenche uniquement lors de la consignation de données numériques objectives : heure du réveil, nombre de pages lues, heures de travail intense. Consigner des données brutes permet d'éliminer les inefficacités.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si je me sens découragé et répugne a remplir mon journal les jours de faible performance ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Les impressions émotionnelles vagues comme « je me sentais fatigué aujourd'hu
       Le cœur de la métacognition n'est pas la perfection, mais un « auto-contrôle précis ». Confronter et consigner honnêtement des chiffres bas élimine le déni cognitif et renforce la résilience pour ajuster la stratégie.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il totalement efficace de gérer tous les indicateurs uniquement via des outils numériques comme Notion ou Excel ?</span>

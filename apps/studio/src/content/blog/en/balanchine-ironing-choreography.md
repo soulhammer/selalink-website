@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Dance of the Unconscious: George Balanchine's Choreography Through Simple Household Chores"
 description: "Explore how choreographer George Balanchine used simple, repetitive household chores like ironing to unlock dance ideas during creative blocks, and discover the neural mechanism where light motor activity turns off prefrontal censorship to activate the Default Mode Network."
 pubDate: "2026-04-01"
@@ -36,22 +37,20 @@ In today's post, we examine how George Balanchine's routine of simple motor task
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding balanchine-ironing-choreography is based on <strong>Historical Verification from George Balanchine's Biography *By George Balanchine* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from George Balanchine's Biography *By George Balanchine* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaxation of Prefrontal Censorship and Activation of DMN Associative Circuits
+## 1. Relaxation of Prefrontal Censorship and Activation of DMN Associative Circuits
 
 When we focus intensely to solve a problem, the brain's prefrontal cortex strongly activates top-down analytical control, mercilessly filtering out unconventional ideas that seem illogical. This 'prefrontal censorship' traps creativity. Conversely, performing simple, monotonous motor tasks like ironing or cleaning relaxes prefrontal hyper-activity. Taking advantage of this gap, the brain's Default Mode Network (DMN) switches on, allowing diverse memory fragments scattered in the subconscious to freely and unexpectedly recombine (Combinatorial Play). As a result, blocked choreographic movements naturally emerge amid the repetitive rhythm of the iron.
 
 ---
 
-## Caution & Tips: Excluding Cognitively Demanding Activities
-
-When clearing your mind using light chores or body movements, avoid activities that demand high attention or cognitive processing. For instance, attempting to cook a complex recipe or listening to financial news while cleaning constitutes 'multitasking', which prevents the brain from entering the DMN state and only increases cognitive fatigue. The key is to loosely rest your attention solely on the touch of your hands and the rhythmic motion of your body, allowing your mind to wander freely.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ When clearing your mind using light chores or body movements, avoid activities t
     Jot down planning ideas or key words that suddenly emerge from the subconscious during simple labor so as not to forget them, then return immediately to your main workspace to build momentum.
   </p>
 </div>
+
+---
+
+## 3. Caution & Tips: Excluding Cognitively Demanding Activities
+
+When clearing your mind using light chores or body movements, avoid activities that demand high attention or cognitive processing. For instance, attempting to cook a complex recipe or listening to financial news while cleaning constitutes 'multitasking', which prevents the brain from entering the DMN state and only increases cognitive fatigue. The key is to loosely rest your attention solely on the touch of your hands and the rhythmic motion of your body, allowing your mind to wander freely.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

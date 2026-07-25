@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "無意識のダンス：ジョージ・バランシンの単純家事労働振付法"
 description: "振付のインスピレーションが行き詰まった時、アイロンがけや洗濯などの単純な反復家事を行いながらアイデアを構想した振付家ジョージ・バランシン。単純な身体活動が前頭葉の検閲をオフにし、デフォルト・モード・ネットワークを呼び醒ます神経メカニズムを解き明かします。"
 pubDate: "2026-04-01"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「balanchine-ironing-choreography」は <strong>ジョージ・バランシン伝記『By George Balanchine』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョージ・バランシン伝記『By George Balanchine』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 前頭葉の検閲の緩和とDMN結合回路の点火
+## 1. 前頭葉の検閲の緩和とDMN結合回路の点火
 
 私たちが問題を無理に解決しようと集中する時、脳の前頭葉は分析的なトップダウン制御（Top-down Control）回路を強く活性化させ、論理に合わない些細なアイデアを容赦なく振り落とします。この「前頭葉の検閲」状態は創造性を閉じ込めさせます。一方、アイロンがけや掃除のように脳がほとんど悩む必要のない単純反復運動（Monotonous Motor Task）を行うと、前頭葉の過剰活動が緩みます。この隙に脳の「デフォルト・モード・ネットワーク（DMN）」が起動し、無意識の領域に散らばっていた多彩な記憶の断片が自由で思いがけない結合（Combinatorial Play）を始めます。その結果、アイロンの反復的なリズムの中で行き詰まっていた振付の動線が自然と連想され、引き出されるのです。
 
 ---
 
-## 注意事項＆ヒント：認知負担活動の除外
-
-軽い家事や身体の動きを活用して頭を冷やす時、注意を過剰に要求したり認知能力を使わなければならない行動は禁物です。例えばインスピレーションを得ようと複雑なレシピの料理を作ったり、掃除をしながら同時に経済ニュースを聞くなどの「マルチタスク」を行うと、脳は決してDMN状態に入れず認知疲労が増すだけです。ひたすら指先の感覚と身体の一定のリズムにだけ注意を大まかに向けておき、頭の中を放牧するゆるやかさがポイントです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     単純労働の中で無意識の隙間からふと浮かんだ企画やキーワードを忘れないようにメモし、直ちに本来の作業デスクに戻ってその勢いを維持します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項＆ヒント：認知負担活動の除外
+
+軽い家事や身体の動きを活用して頭を冷やす時、注意を過剰に要求したり認知能力を使わなければならない行動は禁物です。例えばインスピレーションを得ようと複雑なレシピの料理を作ったり、掃除をしながら同時に経済ニュースを聞くなどの「マルチタスク」を行うと、脳は決してDMN状態に入れず認知疲労が増すだけです。ひたすら指先の感覚と身体の一定のリズムにだけ注意を大まかに向けておき、頭の中を放牧するゆるやかさがポイントです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

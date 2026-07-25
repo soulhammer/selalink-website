@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "윌리엄 하비의 혈액 순환 정량 검증법: 객관적 수치 계산으로 맹목적 편견을 부수는 법"
 description: "17세기 영국의 의사 윌리엄 하비가 심장 박동량의 수학적 정량 계산으로 2000년간 서양을 지배한 맹목적 통념을 깨뜨린 역사적 사실과 수치 검증의 뇌과학을 다룹니다."
 pubDate: "2026-03-14"
@@ -37,25 +38,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>윌리엄 하비 저작집 『동물의 심장과 혈액의 운동에 관하여(De Motu Cordis)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 harvey-blood-circulation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>윌리엄 하비 저작집 『동물의 심장과 혈액의 운동에 관하여(De Motu Cordis)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 수학적 정량화와 대뇌 좌측 두정엽의 논리 통제 메커니즘
+## 1. 수학적 정량화와 대뇌 좌측 두정엽의 논리 통제 메커니즘
 
 막연한 감정이나 직관이 아닌 구체적인 수치 데이터와 양적 계산을 다루는 습관은 대뇌 <strong>좌측 두정엽(Left Parietal Lobe)</strong> 및 <strong>전전두엽 피질(Prefrontal Cortex)</strong>의 인과 연산 회로를 강력하게 자극합니다. 이러한 <strong>수학적 정량화(Mathematical Quantification)</strong> 행동은 주관적 편견과 2,000년 묵은 고정관념의 오류를 단번에 파악하도록 도우며, 대뇌 편도체의 불필요한 직관적 착각과 불안 반응을 억제하여 최고 수준의 논리적 집행 기능을 작동시킵니다.
 
 ---
 
-## 막연한 통념과 직관을 부수는 수학적 정량 검수 수칙
-
-오래된 전통이나 상급자의 권위라는 이유만으로 무비판적으로 수용하지 마세요. 주관적 어휘로 표현된 모호한 현상이나 가설을 입출력이 분명한 '측정 가능한 수치 단위'로 환산할 때만 뇌는 비로소 오류와 가짜 통념을 시각적으로 식별할 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 막연한 통념과 직관을 부수는 수학적 정량 검수 수칙
+
+오래된 전통이나 상급자의 권위라는 이유만으로 무비판적으로 수용하지 마세요. 주관적 어휘로 표현된 모호한 현상이나 가설을 입출력이 분명한 '측정 가능한 수치 단위'로 환산할 때만 뇌는 비로소 오류와 가짜 통념을 시각적으로 식별할 수 있습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>비즈니스 지표 분석이나 기획 의사결정에 어떻게 적용하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       '사용자가 좋아한다'는 모호한 표현 대신, 사용자 유입량, 머무른 시간, 이탈률이라는 닫힌 정량 수치 순환 고리로 검증하세요.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>정량적 수치가 내 직관이나 기존 지식과 상충하면 어떻게 하나요?</span>

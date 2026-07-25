@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "30 minutes de silence et le mémo de 6 pages : La méthode de réunion Amazon de Jeff Bezos et la neuroscience de la lecture"
 description: "Découvrez le secret de prise de décision de Jeff Bezos consistant à interdire les présentations PPT chez Amazon et à exiger 30 minutes de lecture silencieuse de mémos narratifs de 6 pages en début de réunion, et percez les principes neuroscientifiques montrant comment la lecture narrative stimule le cortex préfrontal pour maximiser le jugement."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant bezos-six-page-memo est basée sur <strong>Vérification Historique issue des lettres aux actionnaires de Jeff Bezos & du livre de Colin Bryar *Working Backwards* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des lettres aux actionnaires de Jeff Bezos & du livre de Colin Bryar *Working Backwards* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Comment la lecture narrative maximise le jugement du cortex préfrontal
+## 1. Comment la lecture narrative maximise le jugement du cortex préfrontal
 
 Les puces fragmentées (Bullet Points) offrent une illusion de clarté, mais masquent en réalité les failles logiques et obscurcissent les liens de cause à effet. À l'inverse, la lecture approfondie d'un texte narratif rédigé active puissamment le cortex préfrontal du cerveau. Le cortex préfrontal est le centre de contrôle exécutif suprême responsable de l'analyse de la causalité, de l'utilisation de la mémoire de travail et de la pesée logique des arguments. La lecture silencieuse augmente la densité de traitement de l'information dans le cortex préfrontal, prévenant les erreurs de jugement et permettant une synchronisation cognitive parfaite entre les participants.
 
 ---
 
-## Précautions & Conseils : Éviter les simples listes à puces & Établir une causalité claire
-
-Lors de la rédaction d'un mémo narratif de 6 pages, évitez de simplement transformer de courtes puces en phrases complètes. Le texte doit articuler des liens de cause à effet clairs (ex. le problème A entraîne la conséquence B, résolue par la solution C pour créer la valeur commerciale D). Une rédaction se contentant d'énumérer des faits sans liens logiques accroît la fatigue cognitive ; veillez donc à maintenir une structure logique rigoureuse.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lors de la rédaction d'un mémo narratif de 6 pages, évitez de simplement tran
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter les simples listes à puces & Établir une causalité claire
+
+Lors de la rédaction d'un mémo narratif de 6 pages, évitez de simplement transformer de courtes puces en phrases complètes. Le texte doit articuler des liens de cause à effet clairs (ex. le problème A entraîne la conséquence B, résolue par la solution C pour créer la valeur commerciale D). Une rédaction se contentant d'énumérer des faits sans liens logiques accroît la fatigue cognitive ; veillez donc à maintenir une structure logique rigoureuse.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi prévoir un temps de lecture silencieuse pendant la réunion plutôt que de demander de lire au préalable ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lors de la rédaction d'un mémo narratif de 6 pages, évitez de simplement tran
       Lorsque l'on demande de lire au préalable, les emplois du temps chargés font que les participants ne font que survoler ou ne lisent pas du tout. En imposant une séance de lecture silencieuse de 30 minutes en réunion, Bezos garantissait une synchronisation cognitive totale de l'ensemble des participants.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>La rédaction d'un mémo narratif de 6 pages ne demande-t-elle pas trop de temps et d'efforts ?</span>

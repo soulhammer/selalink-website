@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Primer Ministro que Dividió su Día en Dos: La Rutina de Siesta Por la Tarde y Limpieza de Adenosina de Winston Churchill"
 description: "Descubra cómo el primer ministro británico Winston Churchill, quien lideró la victoria aliada en la Segunda Guerra Mundial, tomaba siestas diarias de 1,5 horas en cama. Explore la neurociencia cognitiva de eliminar la adenosina acumulada y restaurar la alerta cerebral sin inercia del sueño."
 pubDate: "2026-04-24"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre churchill-afternoon-nap se basa en <strong>Verificación Histórica de la Biografía de Martin Gilbert *Winston S. Churchill* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Martin Gilbert *Winston S. Churchill* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Limpieza de Adenosina y Recuperación de la Alerta Cerebral Sin Inercia del Sueño
+## 1. Limpieza de Adenosina y Recuperación de la Alerta Cerebral Sin Inercia del Sueño
 
 Durante las horas de vigilia, el subproducto neuroquímico 'adenosina' se acumula en el cerebro, generando presión de sueño. Cuando la adenosina se une a los receptores prefrontales, el procesamiento ejecutivo se ralentiza. Una breve siesta (una siesta corta de 20 minutos o un ciclo de 90 minutos) degrada rápidamente la adenosina. Una siesta de 20 minutos permite despertar antes de entrar en la fase 3 NREM de sueño de ondas lentas, evitando la 'Inercia del Sueño' (atontamiento posterior) mientras restaura la alerta prefrontal. La siesta de 90 minutos de Churchill aprovechó un ciclo completo de sueño para reiniciar la arquitectura cortical.
 
 ---
 
-## Precauciones y Consejos: Prevenir la Alteración del Sueño Nocturno y Controlar el Tiempo
-
-La regla clave de la siesta es aliviar la fatiga matutina sin agotar la presión del sueño nocturno. Dormir después de las 3:00 PM o prolongar la siesta altera el sueño nocturno. Para los trabajadores del conocimiento, lo ideal es una 'Siesta Corta' de 15 a 20 minutos. Dormir más de 30 minutos empuja al cerebro al sueño profundo NREM Fase 3, provocando inercia del sueño al despertar. Use un temporizador.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La regla clave de la siesta es aliviar la fatiga matutina sin agotar la presión
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Prevenir la Alteración del Sueño Nocturno y Controlar el Tiempo
+
+La regla clave de la siesta es aliviar la fatiga matutina sin agotar la presión del sueño nocturno. Dormir después de las 3:00 PM o prolongar la siesta altera el sueño nocturno. Para los trabajadores del conocimiento, lo ideal es una 'Siesta Corta' de 15 a 20 minutos. Dormir más de 30 minutos empuja al cerebro al sueño profundo NREM Fase 3, provocando inercia del sueño al despertar. Use un temporizador.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cuál es la diferencia entre la siesta en cama de 1,5 horas de Churchill y una siesta corta moderna de 20 minutos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La regla clave de la siesta es aliviar la fatiga matutina sin agotar la presión
       La siesta de 1,5 horas de Churchill compensaba un sueño nocturno reducido (4-5 horas) cubriendo un ciclo completo de 90 minutos con fases NREM y REM. En cambio, una siesta corta moderna de 20 minutos preserva el sueño nocturno normal de 7 horas, manteniéndose en fases ligeras NREM 1-2 para eliminar la adenosina de inmediato sin inercia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Una siesta de 20 minutos no sirve de nada si cierro los ojos pero no logro dormirme?</span>

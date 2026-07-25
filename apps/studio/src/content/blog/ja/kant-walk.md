@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ケーニヒスベルクの時計：イマヌエル・カントの毎日午後3時30分の散歩とサーカディアンリズムの精密化"
 description: "近代哲学の巨匠イマヌエル・カント。近隣住民が見て時計を合わせたほど正確だった彼の一定の散歩ルーティンの中に隠された脳科学的メリットと視床下部視交差上核（SCN）刺激、鼻呼吸（Nasal Breathing）の原理および3段階実践法を紹介します。"
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「kant-walk」は <strong>マンフレート・キューン『カント評伝（Kant: A Biography）』史料考証＆脳神経科学（Brain Research）および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マンフレート・キューン『カント評伝（Kant: A Biography）』史料考証＆脳神経科学（Brain Research）および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## サーカディアンリズム（Circadian Rhythm）の精密化と視床下部視交差上核（SCN）刺激
+## 1. サーカディアンリズム（Circadian Rhythm）の精密化と視床下部視交差上核（SCN）刺激
 
 毎日午後3時30分正刻に同じコースを歩くイマヌエル・カントの厳格な散歩習慣は、脳の<strong>視床下部視交差上核（SCN, Suprachiasmatic Nucleus）</strong>を精密に刺激し、生体<strong>サーカディアンリズム（Circadian Rhythm）</strong>を最高の状態に固定します。規則的な屋外散歩の刺激は<strong>自律神経系（Autonomic Nervous System）</strong>のバランスを静かに整えて身体的ストレスを緩和し、高度な抽象的研究で疲労した<strong>前頭前野（Prefrontal Cortex）</strong>の実行機能を回復させ、演繹的思索を継続できる脳神経学的基盤を提供します。
 
 ---
 
-## 注意事項：口を閉ざして鼻呼吸（Nasal Breathing）に集中し外部騒音遮断するルール
-
-カントは散歩中に口を開けて話す行動が神経系を乱し免疫力を落とすと信じ、散歩中ずっと口を固く閉ざしてただ鼻でのみ静かに呼吸しました。散歩時には他者との雑談やスマートフォンの刺激を排除し、鼻呼吸と足取りの一定のリズムに完全に没頭することが核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：口を閉ざして鼻呼吸（Nasal Breathing）に集中し外部騒音遮断するルール
+
+カントは散歩中に口を開けて話す行動が神経系を乱し免疫力を落とすと信じ、散歩中ずっと口を固く閉ざしてただ鼻でのみ静かに呼吸しました。散歩時には他者との雑談やスマートフォンの刺激を排除し、鼻呼吸と足取りの一定のリズムに完全に没頭することが核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>カントはなぜ毎日午後3時30分に散歩に出かけたのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       高度な抽象的哲学研究を長期的に継続するため、生体リズムを厳格に維持して自律神経系を安定させ、脳の前頭前野の認知疲労を回復して明瞭な思考力を維持するためでした。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>散歩時に必ずカントのように何も話さず鼻でのみ息を吸わなければなりませんか？</span>

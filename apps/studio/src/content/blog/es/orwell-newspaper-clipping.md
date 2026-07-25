@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El novelista que recortaba periódicos con tijeras cada mañana? El método de construcción de esquemas de conocimiento de George Orwell"
 description: "El novelista George Orwell leía varios periódicos cada mañana y recortaba artículos con tijeras para clasificarlos en álbumes de recortes. Descubra los principios de la corteza prefrontal para construir esquemas de información orgánicos y rutinas modernas de recortes digitales."
 pubDate: "2026-03-13"
@@ -38,22 +39,20 @@ En este artículo, exploramos la neurociencia detrás de la rutina de recortes d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre orwell-newspaper-clipping se basa en <strong>Verificación de biografías históricas y registros autobiográficos de George Orwell e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de George Orwell e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ciencia cerebral de la codificación de información y esquemas
+## 1. Ciencia cerebral de la codificación de información y esquemas
 
 Hojeando artículos digitales rápidamente, la información solo permanece en la memoria a corto plazo antes de desaparecer. En cambio, seleccionar activamente artículos, 'recortarlos' (acción física o digital) y categorizarlos activa el proceso de <strong>'codificación profunda (Deep Encoding)'</strong> del cerebro. Esta estructuración asienta los datos en el almacenamiento cortical a largo plazo y construye una <strong>'red de esquemas (Schema)'</strong> conectada con el conocimiento existente. Un cerebro con esquemas ricos capta nuevos contextos con mayor rapidez, identifica problemas clave y demuestra una alta inteligencia fluida al recuperar conocimientos para redactar o tomar decisiones.
 
 ---
 
-## La trampa de la adicción a la recopilación ciega
-
-Simplemente guardar enlaces o artículos en una carpeta con un solo clic conduce a la 'Falacia del coleccionista', haciendo que el cerebro crea falsamente que posee el conocimiento. Solo cuando resume la información usted mismo o añade un comentario en sus propias palabras, los datos estimulan el procesamiento cognitivo e integran su esquema real de conocimiento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Simplemente guardar enlaces o artículos en una carpeta con un solo clic conduce
   </p>
 </div>
 
+---
+
+## 3. La trampa de la adicción a la recopilación ciega
+
+Simplemente guardar enlaces o artículos en una carpeta con un solo clic conduce a la 'Falacia del coleccionista', haciendo que el cerebro crea falsamente que posee el conocimiento. Solo cuando resume la información usted mismo o añade un comentario en sus propias palabras, los datos estimulan el procesamiento cognitivo e integran su esquema real de conocimiento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Se conservan actualmente los álbumes de recortes reales de George Orwell?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Simplemente guardar enlaces o artículos en una carpeta con un solo clic conduce
       Sí, los artículos recopilados por George Orwell, las copias de sus cuadernos de recortes y sus notas de trabajo se conservan como valiosos archivos históricos en el University College de Londres (UCL).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué aplicaciones recomienda para realizar esta rutina de recortes digitalmente?</span>

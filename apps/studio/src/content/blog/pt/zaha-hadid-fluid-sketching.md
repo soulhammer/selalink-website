@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Mestra da Arquitetura que Quebrou as Linhas Retas: A Rotina de Esboços Curvos de Zaha Hadid"
 description: "Zaha Hadid, arquiteta vencedora do Prêmio Pritzker. Apresenta seu método de estimulação cerebral para desenhar curvas orgânicas à mão e conceber espaços 3D, com um guia prático de 3 etapas."
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ Este artigo explora a rotina de 'esboços em curvas livres' de Zaha Hadid e traz
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre zaha-hadid-fluid-sketching é baseada em <strong>Registros históricos de biografias e materiais autobiográficos de Zaha Hadid com pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Registros históricos de biografias e materiais autobiográficos de Zaha Hadid com pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação dos circuitos visuoespaciais do hemisfério direito
+## 1. Estimulação dos circuitos visuoespaciais do hemisfério direito
 
 Apoiar-se apenas em linhas retas e grades rígidas faz o hemisfério esquerdo dominar, reforçando estigmas. Desenhar <strong>esboços orgânicos manuais</strong> sem restrições ativa o processamento visuoespacial do lado direito, maximizando ideias visuais inovadoras.
 
 ---
 
-## Cuidado com a obsessão inicial por precisão e perfeição
-
-Se tentar 'fazer um desenho bonito' usando réguas ou corrigindo assimetrias no início, o circuito de ideação se fecha. Nos primeiros 5 minutos, foque apenas no fluxo das linhas. Em vez de depender só de força de vontade, crie um ambiente propício à prática.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Se tentar 'fazer um desenho bonito' usando réguas ou corrigindo assimetrias no 
   </p>
 </div>
 
+---
+
+## 3. Cuidado com a obsessão inicial por precisão e perfeição
+
+Se tentar 'fazer um desenho bonito' usando réguas ou corrigindo assimetrias no início, o circuito de ideação se fecha. Nos primeiros 5 minutos, foque apenas no fluxo das linhas. Em vez de depender só de força de vontade, crie um ambiente propício à prática.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Posso usar esta rotina mesmo sem nenhuma habilidade para desenhar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Se tentar 'fazer um desenho bonito' usando réguas ou corrigindo assimetrias no 
       Sim, com certeza! O objetivo não é criar arte, mas realizar um treino cognitivo para estimular circuitos do lado direito do cérebro. Rabiscos simples funcionam perfeitamente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Usar uma caneta digital em um tablet produz o mesmo efeito?</span>

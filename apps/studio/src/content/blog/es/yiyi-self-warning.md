@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Estableciendo una autonomía inquebrantable: La rutina de declaración matutina del Jagyeongmun de Yi I (Yulgok)"
 description: "La autodisciplina a través del 'Jagyeongmun' establecido a los 20 años por Yi I (Yulgok), el sabio más destacado de Joseon. Analizamos el entrenamiento cognitivo que activa la retroalimentación orientada a objetivos al recitar resoluciones matutinas."
 pubDate: "2026-01-01"
@@ -34,22 +35,20 @@ Aunque muchos establecen propósitos matutinos, fácilmente los olvidan ante las
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre yiyi-self-warning se basa en <strong>Biografías históricas y registros autobiográficos sobre las advertencias de Yi I e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos sobre las advertencias de Yi I e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La ciencia cerebral del efecto de autorreferencia y las declaraciones orientadas a objetivos
+## 1. La ciencia cerebral del efecto de autorreferencia y las declaraciones orientadas a objetivos
 
 El efecto de autorreferencia (Self-Reference Effect) ocurre cuando procesar información en relación con uno mismo activa la corteza prefrontal medial (mPFC), fortaleciendo la memoria a largo plazo y la internalización de valores. Recitar reglas personales cada mañana fortalece continuamente esta vía neuronal. Imbuir estos principios matutinos activa las redes de control cognitivo, actuando como un GPS interno para controlar impulsos y alinear decisiones con metas a largo plazo.
 
 ---
 
-## Una palabra sobre la autovigilancia y la preservación de la autonomía
-
-Más importante que establecer principios es la honestidad de recordártelos cada mañana. Solo los estándares con los que estás de acuerdo y declaras personalmente—no las reglas impuestas por otros—motivaràn tu cerebro y te darán el control de tu día.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Más importante que establecer principios es la honestidad de recordártelos cad
     Antes de dormir, reflexiona brevemente sobre qué tan bien cumpliste tus principios. Registra 1 o 2 líneas en un diario o aplicación sobre lo que debes mejorar mañana.
   </p>
 </div>
+
+---
+
+## 3. Una palabra sobre la autovigilancia y la preservación de la autonomía
+
+Más importante que establecer principios es la honestidad de recordártelos cada mañana. Solo los estándares con los que estás de acuerdo y declaras personalmente—no las reglas impuestas por otros—motivaràn tu cerebro y te darán el control de tu día.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

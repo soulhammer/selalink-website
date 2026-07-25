@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Schritte zur Erweckung der Gehirngesundheit: John Quincy Adams' stramme Geh- und Reflexionsroutine"
 description: "Der 6. US-Präsident John Quincy Adams hielt an einem täglichen 5-Meilen-Gehmarsch und abendlicher Reflexion fest. Entdecken Sie gesunde Gehirngewohnheiten, die die BDNF-Ausschüttung anregen."
 pubDate: "2026-04-06"
@@ -33,17 +34,17 @@ Im heutigen Beitrag stellen wir die Neurowissenschaft hinter der Ausschüttung d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu adams-morning-walk basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen von John Quincy Adams & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen von John Quincy Adams & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergie von sportinduziertem BDNF und kognitiver Reflexion
+## 1. Synergie von sportinduziertem BDNF und kognitiver Reflexion
 
 Zügiges Gehen bei leicht erhöhtem Puls steigert die Herzfrequenz und versorgt die Hippocampus-Region mit Blut, was direkt die Ausschüttung des neurotrophen Faktors BDNF (Brain-Derived Neurotrophic Factor) anregt. Dieser Faktor repariert synaptische Verbindungen zwischen den Gehirnzellen und fördert deren Neubildung.
 
@@ -51,9 +52,7 @@ Wenn Sie abends, während das Gehirn optimal auf das Lernen vorbereitet ist, han
 
 ---
 
-## Passen Sie das Tempo an Ihre Kniegelenke und Ihre Fitness an
-
-Adams absolvierte jeden Tag einen sehr schnellen 5-Meilen-Gehmarsch, dies basierte jedoch auf jahrelang trainierter Ausdauer. Wenn moderne Menschen plötzlich mit hochintensivem Gehen beginnen, kann dies die Kniegelenke oder die Wirbelsäule belasten. Es ist am besten, mit 15 Minuten leichtem Gehen entsprechend der eigenen Grundfitness zu beginnen und Zeit sowie Schrittlänge allmählich zu steigern, um Überlastungen zu vermeiden.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Adams absolvierte jeden Tag einen sehr schnellen 5-Meilen-Gehmarsch, dies basier
   </p>
 </div>
 
+---
+
+## 3. Passen Sie das Tempo an Ihre Kniegelenke und Ihre Fitness an
+
+Adams absolvierte jeden Tag einen sehr schnellen 5-Meilen-Gehmarsch, dies basierte jedoch auf jahrelang trainierter Ausdauer. Wenn moderne Menschen plötzlich mit hochintensivem Gehen beginnen, kann dies die Kniegelenke oder die Wirbelsäule belasten. Es ist am besten, mit 15 Minuten leichtem Gehen entsprechend der eigenen Grundfitness zu beginnen und Zeit sowie Schrittlänge allmählich zu steigern, um Überlastungen zu vermeiden.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann ich den morgendlichen Spaziergang durch schnelles Laufen auf einem Laufband in Innenräumen ersetzen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Adams absolvierte jeden Tag einen sehr schnellen 5-Meilen-Gehmarsch, dies basier
       Hinsichtlich der BDNF-Ausschüttung durch Ausdauertraining ist dies wirksam. Dennoch wird das Gehen im Freien dringend empfohlen, da die Verarbeitung von visuellen Reizen im Freien (Naturlicht, jahreszeitliche Veränderungen, unebene Straßen) die Sehrinde und die synaptischen Netzwerke des Präfrontalkortex im Bereich des Gleichgewichtssinns weitaus stärker aktiviert als eine statische Innenraumumgebung.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Hat es die gleiche Wirkung, wenn ich das abendliche Reflexionstagebuch in eine Smartphone-Notizen-App schreibe?</span>

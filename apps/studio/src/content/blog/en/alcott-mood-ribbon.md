@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Do Not Disturb When the Pillow Is Upright: Louisa May Alcott's Focus Signal"
 description: "Introducing the 'Mood Pillow', a focus signal used by Louisa May Alcott, author of 'Little Women'. Discover a 3-step guide to reducing cognitive task-switching costs by blocking surrounding distractions."
 pubDate: "2026-01-01"
@@ -36,22 +37,20 @@ In today's post, we examine the cognitive working mechanisms of the focus signal
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding alcott-mood-ribbon is based on <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & *Journal of Personality and Social Psychology*</strong>.
+      This content is based on <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & *Journal of Personality and Social Psychology*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Distraction Shielding' to Eliminate Wasteful Cognitive Reboots
+## 1. 'Distraction Shielding' to Eliminate Wasteful Cognitive Reboots
 
 When your flow is interrupted by external noise or someone's question during a state of deep concentration, the brain immediately switches to multitasking mode and consumes immense energy. In neuroscience, this is called <strong>'Task-Switching Cost'</strong>, and research reports that it takes an average of 23 minutes to reboot scattered attention back to its original state. The Mood Pillow used by Alcott was a perfect form of <strong>'Distraction Shielding'</strong>, preemptively removing distracting stimuli by first sending an unavailable signal to the surrounding environment. This visual notification protects your workflow without causing friction with people around you, helping allocate the cognitive resources of working memory entirely to a single focus.
 
 ---
 
-## Creating an Agreed-Upon Focus Signal Based on Mutual Respect
-
-When using focus signal indicators, the most important aspect is prior agreement with family members or colleagues. Suddenly shutting the door to communication without advance notice can cause aversion in others. A positive routine is established when clear rules—such as 'Please hold non-urgent contact only during the 1 hour this indicator is displayed'—are mutually acknowledged, and the indicator is immediately deactivated once the agreed time ends to restore open communication.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ When using focus signal indicators, the most important aspect is prior agreement
     When the timer rings, stop working and immediately deactivate the signal object (such as laying the pillow flat). Open the closed communication channels and restore connection with those who waited by exchanging light nods or feedback.
   </p>
 </div>
+
+---
+
+## 3. Creating an Agreed-Upon Focus Signal Based on Mutual Respect
+
+When using focus signal indicators, the most important aspect is prior agreement with family members or colleagues. Suddenly shutting the door to communication without advance notice can cause aversion in others. A positive routine is established when clear rules—such as 'Please hold non-urgent contact only during the 1 hour this indicator is displayed'—are mutually acknowledged, and the indicator is immediately deactivated once the agreed time ends to restore open communication.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

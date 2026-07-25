@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "인내와 평정심을 기르는 리듬: 도쿠가와 이에야스의 생약 조제 루틴과 세로토닌 신경조절"
 description: "도쿠가와 이에야스의 정신 수양법. 매일 생약을 직접 약사발에 가던 리듬 운동의 세로토닌 신경조절 효과, 편도체 안정화 및 3단계 실천법을 다룹니다."
 pubDate: "2026-04-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>도쿠가와 이에야스 평전 및 도쿠가와 미술관(Tokugawa Art Museum) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ieyasu-herb-grinding 루틴을 다룹니다.
+      본 콘텐츠는 <strong>도쿠가와 이에야스 평전 및 도쿠가와 미술관(Tokugawa Art Museum) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 세로토닌(Serotonin) 활성화와 편도체 안정화의 리듬 운동 뇌과학
+## 1. 세로토닌(Serotonin) 활성화와 편도체 안정화의 리듬 운동 뇌과학
 
 생리학적으로 일정한 속도와 압력으로 반복되는 신체 활동인 <strong>'리듬 운동(Rhythmic Movement)'</strong>은 대뇌 신경계의 감정 조절 신경전달물질인 <strong>세로토닌(Serotonin)</strong> 분비를 극대화합니다. 이러한 정속 수공 자극은 충동성과 공포를 관장하는 <strong>편도체(Amygdala)</strong>의 불필요한 과활성을 억제하고 <strong>전전두엽(Prefrontal Cortex)</strong>의 이성적 통제력을 회복시켜, 극심한 스트레스 상황 속에서도 흔들리지 않는 평정심과 인내력을 유지하도록 이끕니다.
 
 ---
 
-## 조급함을 배제하고 일정한 수공 리듬에 몰입하는 수칙
-
-마음이 조급하고 불안할수록 무리하게 의지력으로 감정을 억누르려 하지 마세요. 절구나 약사발, 혹은 원두 그라인더를 일정한 속도로 갈아내는 단순한 수공 리듬에 손끝의 초점을 맞추어 뇌 신경계의 세로토닌 스위치를 켜는 것이 평정심 회복의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 조급함을 배제하고 일정한 수공 리듬에 몰입하는 수칙
+
+마음이 조급하고 불안할수록 무리하게 의지력으로 감정을 억누르려 하지 마세요. 절구나 약사발, 혹은 원두 그라인더를 일정한 속도로 갈아내는 단순한 수공 리듬에 손끝의 초점을 맞추어 뇌 신경계의 세로토닌 스위치를 켜는 것이 평정심 회복의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스스로 약을 갈아 만드는 행위가 정서 안정에 어떤 도움을 주나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       일정한 속도로 반복되는 움직임은 뇌의 세로토닌 신경계를 자극하여 편도체의 과도한 경계 반응을 잠재우고 전전두엽의 이성적 통제력을 원상 복구하기 때문입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>실제 약사발이나 절구가 없는데 현대 일상에서는 어떻게 대체할 수 있나요?</span>

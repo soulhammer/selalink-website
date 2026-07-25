@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "全身麻痺の中でも宇宙空間をレンダリングしたホーキングの脳内仮想黒板トレーニング"
 description: "筋萎縮性側索硬化症（ALS）を克服した世界的な理論物理学者。全身麻痺でペンを持てない状況で脳内の仮想黒板を活性化し、宇宙の多次元構造を数学的に俯瞰しました。"
 pubDate: "2026-06-23"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「stephen-hawking」は <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 成功をもたらす脳科学的原理の分析
+## 1. 成功をもたらす脳科学的原理の分析
 
 目に見えない抽象的な幾何学図形や複雑なビジネスの変数を頭の中で鮮明に立体レンダリングして回転させるイメージ作業は、作業記憶システムの核心である「視空間スケッチパッド（Visuospatial Sketchpad）」を刺激します。これは頂頭葉と前頭前野間のシナプス結合を強化し、多次元的な構造や設計課題を頭の中で完璧に構造化して見通す脳の企画演算力を高めます。
 
 ---
 
-## 定着させるための行動科学的アドバイス
-
-画像を無理に鮮明に描こうとして頭痛を引き起こさないでください。呼吸を穏やかに保ちながら、軽い線や面の残像を仮想の黒板に浮かべるトレーニングだけで十分です。意志の力だけに頼るのではなく、行動が自然に誘発される物理的環境や習慣のシグナルをあらかじめ設計することが継続の鍵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 定着させるための行動科学的アドバイス
+
+画像を無理に鮮明に描こうとして頭痛を引き起こさないでください。呼吸を穏やかに保ちながら、軽い線や面の残像を仮想の黒板に浮かべるトレーニングだけで十分です。意志の力だけに頼るのではなく、行動が自然に誘発される物理的環境や習慣のシグナルをあらかじめ設計することが継続の鍵です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>目を閉じてもただ真っ暗な画面しか見えません。</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       非常に正常な反応です。3D球体を無理に見ようとせず、オレンジ色の正方形や白い三角形のようなささやかな2D平面の色彩や形の残像を3秒間ブレずに維持することから始めてください。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>脳のスケッチパッド能力を高めると、複雑なタスクや優先順位の整理にも効果がありますか？</span>

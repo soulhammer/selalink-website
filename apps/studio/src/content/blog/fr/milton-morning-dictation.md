@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "À 4h du matin, comment un poète aveugle a dicté « Le Paradis perdu » : La méditation matinale silencieuse de John Milton"
 description: "Découvrez la routine de méditation à 4 heures du matin de John Milton, qui a composé une poésie épique malgré une cécité totale. Voyez comment l'absence de stimuli visuels optimise la mémoire de travail."
 pubDate: "2026-04-09"
@@ -33,25 +34,23 @@ Dans cet article, nous analysons les principes neuroscientifiques du blocage sen
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant milton-morning-dictation est basée sur <strong>Recherche sur les biographies historiques et récits autobiographiques de John Milton & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche sur les biographies historiques et récits autobiographiques de John Milton & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Puissance cognitive de la concentration silencieuse : Maximiser la capacité cérébrale par le blocage visuel
+## 1. Puissance cognitive de la concentration silencieuse : Maximiser la capacité cérébrale par le blocage visuel
 
 Selon les recherches en neurosciences, le traitement des informations visuelles monopolise plus de 50 % des ressources sensorielles du cerveau. Lorsque les stimuli visuels sont coupés, le cerveau réaffecte ces réseaux neuronaux vers la mémoire à court terme et le langage. La routine de Milton au lit dans l'obscurité maximisait la mémoire de travail du lobe frontal.
 
 ---
 
-## Contrôler les stimulations extérieures du matin pour une immersion profonde
-
-Pour John Milton, l'obscurité de l'aube n'était pas un obstacle, mais une toile sacrée pour la création. En différant les sollicitations extérieures pour écouter sa voix intérieure, il a écrit des chefs-d'œuvre immortels. Au lieu de consulter vos e-mails dès le réveil, offrez d'abord à votre cerveau un moment de calme pour penser en profondeur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Pour John Milton, l'obscurité de l'aube n'était pas un obstacle, mais une toil
     Dès que votre réflexion est structurée, prenez un stylo pour la noter ou dictez-la dans un enregistreur vocal. Transférez vos idées sur un support physique pour libérer de l'espace mental.
   </p>
 </div>
+
+---
+
+## 3. Contrôler les stimulations extérieures du matin pour une immersion profonde
+
+Pour John Milton, l'obscurité de l'aube n'était pas un obstacle, mais une toile sacrée pour la création. En différant les sollicitations extérieures pour écouter sa voix intérieure, il a écrit des chefs-d'œuvre immortels. Au lieu de consulter vos e-mails dès le réveil, offrez d'abord à votre cerveau un moment de calme pour penser en profondeur.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

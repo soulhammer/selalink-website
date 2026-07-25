@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Kekuatan Isolasi Mutlak: Rutinitas Pondok Komposisi Gustav Mahler"
 description: "Gustav Mahler, komposer yang mengisolasi diri di pondok hutan Alpen setiap musim panas untuk menciptakan simfoni monumental. Mempelajari psikologi ruang perendaman yang memblokir rangsangan eksternal untuk memasuki status 'Deep Work'."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Artikel ini membahas bagaimana rutinitas pondok komposisi Mahler mengendalikan k
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai mahler-composition-hut didasarkan pada <strong>Penelitian rekam sejarah tentang Pondok Komposisi Gustav Mahler & penelitian neurosains kognitif</strong>.
+      Konten ini didasarkan pada <strong>Penelitian rekam sejarah tentang Pondok Komposisi Gustav Mahler & penelitian neurosains kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Memaksimalkan Kapasitas Prafrontal dengan Memblokir Rangsangan yang Tidak Perlu
+## 1. Memaksimalkan Kapasitas Prafrontal dengan Memblokir Rangsangan yang Tidak Perlu
 
 Pekerja modern menderita kelebihan informasi ekstrem dari notifikasi digital, kebisingan, dan percakapan. Korteks prafrontal kita mengonsumsi energi kognitif yang besar untuk menekan dan menyaring rangsangan ini. Isolasi fisik Mahler menghilangkan 'beban kognitif inhibitoris' ini. Lingkungan alam yang tenang menstabilkan sistem dopamin otak, mengurangi stres, dan memungkinkan 100% sumber daya memori kerja difokuskan pada arsitektur kompleks dan intuisi seni.
 
 ---
 
-## Peringatan dan Tips
-
-Efek samping isolasi mutlak adalah rasa kesepian sosial dan stagnasi pikiran. Isolasi yang terlalu lama tanpa komunikasi mempersempit pandangan dan memicu depresi. Batasi sesi isolasi mendalam maksimal 3–4 jam sehari untuk 'Deep Work', dan jaga keseimbangan emosional dengan kembali ke hubungan sosial dan percakapan setelah selesai bekerja.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Efek samping isolasi mutlak adalah rasa kesepian sosial dan stagnasi pikiran. Is
     Segera setelah sesi fokus terisolasi selesai, lakukan jalan santai atau istirahat agar otak beralih ke Default Mode Network (DMN) dan mengorganisasi ide secara alami.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Efek samping isolasi mutlak adalah rasa kesepian sosial dan stagnasi pikiran. Isolasi yang terlalu lama tanpa komunikasi mempersempit pandangan dan memicu depresi. Batasi sesi isolasi mendalam maksimal 3–4 jam sehari untuk 'Deep Work', dan jaga keseimbangan emosional dengan kembali ke hubungan sosial dan percakapan setelah selesai bekerja.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ahli Strategi Abad Ini? Rutinitas Bermain Guqin di Fajar Hari dan Strategi Astronomi Zhuge Liang"
 description: "Pelajari bagaimana Zhuge Liang, Perdana Menteri Shu Han pada Era Tiga Kerajaan, mencapai kendali pikiran tingkat tinggi melalui permainan guqin di fajar hari dan pengamatan astronomi malam hari di tengah situasi politik yang rumit."
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ Dalam postingan hari ini, kami mengeksplorasi prinsip ilmu kognitif di balik per
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai zhuge-liang-guqin-strategy didasarkan pada <strong>Pemeriksaan biografi historis & catatan tentang Zhuge Liang & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Pemeriksaan biografi historis & catatan tentang Zhuge Liang & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mencegah Overload Emosional dan Meningkatkan Pertimbangan Spasial Makro melalui Induksi Gelombang Alfa
+## 1. Mencegah Overload Emosional dan Meningkatkan Pertimbangan Spasial Makro melalui Induksi Gelombang Alfa
 
 Saat dihadapkan pada tugas krusial atau kecemasan tinggi, <strong>Amigdala</strong> otak menjadi hiperaktif, menyempitkan pandangan dan menyebabkan keraguan.
 
@@ -51,9 +52,7 @@ Permainan guqin dan pengamatan bintang yang tenang oleh Zhuge Liang berfungsi se
 
 ---
 
-## Kurangi Kebisingan dan Stimulus untuk Menjaga Ketenangan Batin
-
-Seperti pepatah terkenal Zhuge Liang, tanpa ketenangan batin seseorang tidak dapat meraih tujuan yang jauh. Blokir berita bising atau notifikasi media sosial dan sediakan waktu 10 menit untuk relaksasi dan keheningan yang disengaja. Jangan hanya mengandalkan kemauan; merancang lingkungan fisik dan sinyal kebiasaan secara awal adalah kunci keberlanjutan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Seperti pepatah terkenal Zhuge Liang, tanpa ketenangan batin seseorang tidak dap
   </p>
 </div>
 
+---
+
+## 3. Kurangi Kebisingan dan Stimulus untuk Menjaga Ketenangan Batin
+
+Seperti pepatah terkenal Zhuge Liang, tanpa ketenangan batin seseorang tidak dapat meraih tujuan yang jauh. Blokir berita bising atau notifikasi media sosial dan sediakan waktu 10 menit untuk relaksasi dan keheningan yang disengaja. Jangan hanya mengandalkan kemauan; merancang lingkungan fisik dan sinyal kebiasaan secara awal adalah kunci keberlanjutan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah tetap efektif meskipun tidak bisa memainkan alat musik sendiri?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Seperti pepatah terkenal Zhuge Liang, tanpa ketenangan batin seseorang tidak dap
       Ya, perendaman pendengaran yang terfokus pada musik orkestra atau petik akustik dengan resonansi khas saja sudah cukup untuk menginduksi gelombang alfa yang sama.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Mengapa harus memilih hanya 1 tugas di antara banyak daftar pekerjaan?</span>

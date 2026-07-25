@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "沉默之塔：诺贝尔奖得主巴甫洛夫的刺激控制环境设计法"
 description: "介绍经典条件反射创始人伊万·巴甫洛夫的刺激阻断例程。通过控制外部环境变量消除认知浪费的三步刺激控制实践法。"
 pubDate: "2026-02-27"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 pavlov-stimulus-control 的内容基于 <strong>Pavlov Stimulus Control 历史传记与自传记录考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>Pavlov Stimulus Control 历史传记与自传记录考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 激活执行功能的“刺激控制理论”
+## 1. 激活执行功能的“刺激控制理论”
 
 从脑科学来看，我们的前额叶负责计划和执行新信息的执行功能（Executive Function）。然而，当周围环境充斥着视觉和听觉刺激时，大脑会将意志力和认知资源分散在过滤这些刺激上。行为心理学的<strong>“刺激控制（Stimulus Control）”</strong>理论是一种通过固定或阻断特定空间的环境刺激来最大程度减少大脑神经运作摩擦的技术。
 
 ---
 
-## 确保刺激控制例程的灵活性
-
-过于坚持刺激阻断环境的副作用是可能形成过度敏感的大脑（Hyper-sensitivity），在稍微杂乱或有噪音的外部场所便完全无法集中注意力。因此，刺激控制训练应仅应用于一天中最复杂困难的核心专注时间（如1 ~ 2小时），在进行日常简单工作时，务必培养在有微弱噪音或环境变化的空间中工作的灵活性。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     每天在相同的空间和相同整洁的桌面结构中开启专注例程，预激（Priming）大脑在进入该环境的瞬间即刻激活沉浸回路。
   </p>
 </div>
+
+---
+
+## 3. 确保刺激控制例程的灵活性
+
+过于坚持刺激阻断环境的副作用是可能形成过度敏感的大脑（Hyper-sensitivity），在稍微杂乱或有噪音的外部场所便完全无法集中注意力。因此，刺激控制训练应仅应用于一天中最复杂困难的核心专注时间（如1 ~ 2小时），在进行日常简单工作时，务必培养在有微弱噪音或环境变化的空间中工作的灵活性。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

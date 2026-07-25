@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La rutina de micro-siesta de Napoleón Bonaparte"
 description: "Presenta el mecanismo científico de siesta del emperador Napoleón, quien reiniciaba rápidamente la energía cerebral con siestas de 15 minutos en medio de intensas cargas de trabajo."
 pubDate: "2026-06-02"
@@ -38,22 +39,20 @@ En la publicación de hoy, examinamos el mecanismo científico detrás de la rut
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre napoleon-micro-nap se basa en <strong>Biografía crítica histórica y verificación de registros autobiográficos de la micro-siesta de Napoleón e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía crítica histórica y verificación de registros autobiográficos de la micro-siesta de Napoleón e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Recuperación cognitiva mediante micro-siestas y optimización de ondas cerebrales
+## 1. Recuperación cognitiva mediante micro-siestas y optimización de ondas cerebrales
 
 Una micro-siesta de 10 a 15 minutos limita el sueño a las etapas NREM 1 y 2, evitando la inercia del sueño aturdido mientras elimina la adenosina acumulada para restaurar instantáneamente la alerta. Según investigaciones neurocientíficas, esta práctica suprime las respuestas innecesarias de ansiedad en la amígdala y activa el circuito de la libreta visuoespacial, mejorando drásticamente la función ejecutiva a largo plazo.
 
 ---
 
-## Precauciones de tiempo para hábitos de siesta saludables
-
-Dormir más de 20 a 30 minutos ingresa en un sueño profundo, provocando una pesada somnolencia al despertar. Respete estrictamente un temporizador y evite las siestas después de las 4:00 PM. No confíe únicamente en la fuerza de voluntad; diseñar de antemano el entorno físico y las señales de hábitos para desencadenar la acción de forma natural es la clave de la sostenibilidad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Dormir más de 20 a 30 minutos ingresa en un sueño profundo, provocando una pes
     Tan pronto como suene la alarma, levántese de inmediato, expóngase a luz brillante y lávese la cara con agua fría para despertar el sistema nervioso autónomo.
   </p>
 </div>
+
+---
+
+## 3. Precauciones de tiempo para hábitos de siesta saludables
+
+Dormir más de 20 a 30 minutos ingresa en un sueño profundo, provocando una pesada somnolencia al despertar. Respete estrictamente un temporizador y evite las siestas después de las 4:00 PM. No confíe únicamente en la fuerza de voluntad; diseñar de antemano el entorno físico y las señales de hábitos para desencadenar la acción de forma natural es la clave de la sostenibilidad.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Dúo de Divergencia y Convergencia: Las Notas de Paseo y la Rutina Nocturna de Diario de Ralph Waldo Emerson"
 description: "Descubra cómo Ralph Waldo Emerson transformó chispas fugaces en sistemas filosóficos orgánicos al unir las notas de paseo diurnas (pensamiento divergente) con el diario nocturno (pensamiento convergente)."
 pubDate: "2026-06-02"
@@ -36,22 +37,20 @@ El motor detrás de su vasta obra fue una disciplina en dos etapas: combinar los
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre emerson-walking-journal-integration se basa en <strong>Verificación Histórica de *The Journals of Ralph Waldo Emerson* e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *The Journals of Ralph Waldo Emerson* e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Funcionamiento Cíclico de los Modos Difuso y Convergente
+## 1. Funcionamiento Cíclico de los Modos Difuso y Convergente
 
 La neurociencia demuestra que la resolución creativa de problemas se maximiza cuando el cerebro alterna entre el 'Modo Difuso' —donده el estado de relajación permite asociar ideas de forma aleatoria mediante la Red por Defecto— y el 'Modo Convergente (Enfocado)', que verifica la coherencia lógica. Los paseos diurnos de Emerson estimulaban el movimiento e interrumpían el enfoque rígido, activando el Modo Difuso. Por la noche, sentarse a estructurar sus notas en el diario activaba el Modo Convergente. Esta rutina de 2 etapas transforma chispas volátiles en conocimiento estructurado.
 
 ---
 
-## Regla de Consolidación en el Mismo Día: Pulir las Ideas Diurnas Antes de Dormir
-
-El error crucial al practicar esta rutina es dejar las notas diurnas sin organizar durante días. El índice de memoria episódica se desvanece rápidamente con los días; posponer la revisión elimina los matices sensoriales y el contexto cognitivo del momento, convirtiendo las notas en fragmentos incomprensibles. Por lo tanto, cumpla la regla del mismo día: transfiera y pula las notas en su diario dentro de las 12 horas, esa misma noche.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ El error crucial al practicar esta rutina es dejar las notas diurnas sin organiz
   </p>
 </div>
 
+---
+
+## 3. Regla de Consolidación en el Mismo Día: Pulir las Ideas Diurnas Antes de Dormir
+
+El error crucial al practicar esta rutina es dejar las notas diurnas sin organizar durante días. El índice de memoria episódica se desvanece rápidamente con los días; posponer la revisión elimina los matices sensoriales y el contexto cognitivo del momento, convirtiendo las notas en fragmentos incomprensibles. Por lo tanto, cumpla la regla del mismo día: transfiera y pula las notas en su diario dentro de las 12 horas, esa misma noche.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Puedo registrar las ideas usando notas de voz o aplicaciones móviles en lugar de un cuaderno de papel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ El error crucial al practicar esta rutina es dejar las notas diurnas sin organiz
       Sí. Usar un teléfono es una alternativa válida si utiliza una aplicación sin conexión y con notificaciones desactivadas. El factor crítico no es el soporte, sino mantener el cerebro en 'Modo Difuso' al caminar y ejecutar la transferencia al diario esa misma noche.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si una nota diurna es demasiado incipiente para expandirla en una entrada completa por la noche?</span>

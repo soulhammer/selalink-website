@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Uma obra-prima resgatada dos resquícios do sonho: O hábito de captura imediata do subconsciente de Paul McCartney"
 description: "Paul McCartney resgatou o clássico dos Beatles 'Yesterday' de um sonho ao acordar. Compartilha o segredo para capturar a criatividade usando o modo difuso durante a hipnagogia."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ O cérebro humano experimenta um estado altamente criativo ao acordar, na fronte
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre mccartney-dream-melody-capture é baseada em <strong>Pesquisa biográfica e histórica de Paul McCartney & estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa biográfica e histórica de Paul McCartney & estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## A hipnagogia e o modo difuso do cérebro
+## 1. A hipnagogia e o modo difuso do cérebro
 
 Durante alguns minutos após acordar, permanecemos na 'hipnagogia', onde o córtex pré-frontal dorsolateral (DLPFC) não está totalmente ativo. O cérebro entra no modo difuso, relaxando a autocensura e permitindo que as memórias se misturem. No entanto, ao despertar completamente, o cérebro muda para o modo focado e limpa a memória de curto prazo. Registrar as ideias em 30 segundos previne essa perda.
 
 ---
 
-## Precauções e dicas
-
-O maior erro ao praticar este hábito é checar redes sociais ou e-mails no smartphone logo ao acordar. Quando informações externas estruturadas dominam a memória de trabalho, o cérebro entra em tensão cognitiva e apaga as memórias do sonho. Mantenha apenas papel e caneta ao lado da cama e evite mídias por pelo menos 3 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,9 +80,15 @@ O maior erro ao praticar este hábito é checar redes sociais ou e-mails no smar
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+O maior erro ao praticar este hábito é checar redes sociais ou e-mails no smartphone logo ao acordar. Quando informações externas estruturadas dominam a memória de trabalho, o cérebro entra em tensão cognitiva e apaga as memórias do sonho. Mantenha apenas papel e caneta ao lado da cama e evite mídias por pelo menos 3 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

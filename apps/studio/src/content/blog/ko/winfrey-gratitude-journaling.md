@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "불우한 과거를 이겨내고 토크쇼 여왕이 된 비결? 오프라 윈프리의 감사 일기 루틴"
 description: "세계에서 가장 영향력 있는 여성 리더 중 한 명인 오프라 윈프리. 기상 직후 스마트폰 대신 감사 일기 5줄을 손글씨로 적어 뇌의 기본 모드 네트워크를 긍정적으로 재배선했던 그녀의 과학적 루틴과 실천 가이드를 알아봅니다."
 pubDate: "2026-05-24"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>오프라 윈프리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 winfrey-gratitude-journaling 루틴을 다룹니다.
+      본 콘텐츠는 <strong>오프라 윈프리 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 중변연계 도파민 경로(Mesolimbic Dopamine Pathway) 활성화와 뇌 가소성
+## 1. 중변연계 도파민 경로(Mesolimbic Dopamine Pathway) 활성화와 뇌 가소성
 
 긍정적인 경험을 회상하고 수동으로 기록(Gratitude Journaling)하는 행위는 뇌의 중변연계 도파민 경로(Mesolimbic Dopamine Pathway)와 세로토닌 시스템을 강하게 활성화합니다. 이는 보상 중심의 생리 작용을 조율하여 뇌를 기분 좋은 각성 상태로 만듭니다. 또한 아침 기상 시 어제의 걱정거리를 되짚으며 우울감을 증폭시키기 쉬운 기본 모드 네트워크(DMN)를 강제로 차단하고 긍정적인 방향으로 뇌 가소성(Neuroplasticity)의 시냅스를 재배선하여, 장기적으로 스트레스 대처력과 인지적 회복 탄력성을 영구적으로 강화해 줍니다.
 
 ---
 
-## 형식적인 쓰기의 오류와 구체성 획득 팁
-
-감사 일기를 적을 때 단순히 '날씨가 좋아서 감사하다' 혹은 '일어날 수 있어 감사하다'처럼 막연하고 기계적인 템플릿 형태로 반복하면, 뇌는 이를 학습 자극으로 받아들이지 않고 도파민 분비가 중단됩니다. 핵심은 구체성입니다. '어제 건넨 농담에 친구가 크게 웃어주어 고마웠다'처럼 사건의 물리적인 소리와 풍경을 뇌에 연상할 수 있을 정도로 구체적으로 묘사하여 적어야 뇌의 긍정 가소성 회로가 각성하여 재배선됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 형식적인 쓰기의 오류와 구체성 획득 팁
+
+감사 일기를 적을 때 단순히 '날씨가 좋아서 감사하다' 혹은 '일어날 수 있어 감사하다'처럼 막연하고 기계적인 템플릿 형태로 반복하면, 뇌는 이를 학습 자극으로 받아들이지 않고 도파민 분비가 중단됩니다. 핵심은 구체성입니다. '어제 건넨 농담에 친구가 크게 웃어주어 고마웠다'처럼 사건의 물리적인 소리와 풍경을 뇌에 연상할 수 있을 정도로 구체적으로 묘사하여 적어야 뇌의 긍정 가소성 회로가 각성하여 재배선됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>아무리 생각해도 감사한 일이 도무지 떠오르지 않는 우울한 날에는 무엇을 적어야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       그런 날이 바로 이 루틴이 가장 강력하게 필요한 시점입니다. 거창한 것을 적으려 하지 말고, '어제 마신 차가 따뜻했다', '어제 사고 없이 무사히 귀가했다', 혹은 '오늘 아침 기상해 숨을 쉴 수 있다'처럼 생존과 직결된 극히 사소하고 당연한 신체적 물리적 상태를 적으세요. 뇌는 이러한 미세한 안전 지표를 물리적으로 적는 것만으로도 위기 상황에서 벗어나는 긍정 각성을 가동합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>스마트폰 일기 앱이나 SNS 포스팅으로 감사 기록을 남기는 것은 어떤가요?</span>

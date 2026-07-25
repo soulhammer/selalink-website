@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Des notes qui empêchent la déformation de la mémoire : L'habitude de notes de terrain immédiates de Margaret Mead"
 description: "L'anthropologue Margaret Mead notait immédiatement ses observations avant que la mémoire ne les déforme. Aborde les principes neurologiques de la « décharge cognitive » pour dépasser les limites de la mémoire de travail."
 pubDate: "2026-03-18"
@@ -33,25 +34,23 @@ Le mécanisme de note immédiate de Mead rejoint la « décharge cognitive » de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant mead-immediate-field-notes est basée sur <strong>Recherche biographique et historique sur Margaret Mead & études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique et historique sur Margaret Mead & études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Limites de la mémoire de travail et décharge cognitive
+## 1. Limites de la mémoire de travail et décharge cognitive
 
 Le cerveau conserve les nouvelles informations dans une « mémoire de travail » limitée à environ 7 éléments. Au fil du temps, le cerveau comble les manques selon ses propres préjugés. Appliquer la « décharge cognitive » comme Mead empêche la réécriture subjective des souvenirs.
 
 ---
 
-## Précautions et conseils
-
-L'erreur classique lors de la prise de note immédiate consiste à vouloir rédiger des phrases parfaites. Veiller à la grammaire force le cerveau à filtrer et déformer les données brutes. Notez rapidement des mots-clés et faits bruts ; la rédaction soignée se fera dans une étape ultérieure.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ L'erreur classique lors de la prise de note immédiate consiste à vouloir rédi
   </p>
 </div>
 
+---
+
+## 3. Précautions et conseils
+
+L'erreur classique lors de la prise de note immédiate consiste à vouloir rédiger des phrases parfaites. Veiller à la grammaire force le cerveau à filtrer et déformer les données brutes. Notez rapidement des mots-clés et faits bruts ; la rédaction soignée se fera dans une étape ultérieure.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Peut-on utiliser une application de notes sur smartphone à la place d'un carnet ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ L'erreur classique lors de la prise de note immédiate consiste à vouloir rédi
       Oui, c'est tout à fait possible. Cependant, activez le mode « Ne pas déranger » ou utilisez un widget sur l'écran d'accueil pour éviter d'être distrait par d'autres notifications.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que pensez-vous du fait de laisser un enregistreur allumé pour tout noter plus tard ?</span>

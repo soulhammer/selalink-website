@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Overcoming a Tragic Past to Become the Queen of Talk Shows: Oprah Winfrey's Gratitude Journal Routine"
 description: "Oprah Winfrey, one of the world's most influential female leaders. Discover her scientific routine of handwriting 5 gratitude lines upon waking instead of checking her smartphone to rewire the brain's default mode network."
 pubDate: "2026-05-24"
@@ -36,22 +37,20 @@ This post explores the brain science behind Oprah Winfrey's morning gratitude jo
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding winfrey-gratitude-journaling is based on <strong>Historical Biographies & Autobiographical Records of Oprah Winfrey & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies & Autobiographical Records of Oprah Winfrey & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation of the Mesolimbic Dopamine Pathway and Neuroplasticity
+## 1. Activation of the Mesolimbic Dopamine Pathway and Neuroplasticity
 
 Recalling and manually writing down positive experiences strongly stimulates the brain's Mesolimbic Dopamine Pathway and serotonin system, tuning reward circuitry into a pleasant state of alertness. It interrupts the Default Mode Network (DMN)—which often amplifies morning anxiety—and rewires synapses through Neuroplasticity, permanently fortifying stress resilience and cognitive agility.
 
 ---
 
-## Pitfalls of Rote Writing & Tips for Specificity
-
-When keeping a gratitude journal, vague, repetitive phrases like 'Grateful for good weather' won't trigger learning stimulation or dopamine release. The key is extreme specificity. Describing moments vividly—such as 'Grateful that my friend laughed out loud at my joke yesterday'—allows the brain to recall sensory details, awakening positive neuroplasticity circuits.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ When keeping a gratitude journal, vague, repetitive phrases like 'Grateful for g
   </p>
 </div>
 
+---
+
+## 3. Pitfalls of Rote Writing & Tips for Specificity
+
+When keeping a gratitude journal, vague, repetitive phrases like 'Grateful for good weather' won't trigger learning stimulation or dopamine release. The key is extreme specificity. Describing moments vividly—such as 'Grateful that my friend laughed out loud at my joke yesterday'—allows the brain to recall sensory details, awakening positive neuroplasticity circuits.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What should I write on depressed days when I can't think of anything to be grateful for?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ When keeping a gratitude journal, vague, repetitive phrases like 'Grateful for g
       Those days are when this routine is needed most. Don't look for grand events; write basic physical facts tied to survival, such as 'The tea yesterday was warm' or 'I am breathing safely this morning.' Writing down micro safety cues triggers positive alertness to pull the brain out of threat mode.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How about keeping gratitude records using smartphone journal apps or social media posts?</span>

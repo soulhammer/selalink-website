@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jalan-Jalan 3 Mil yang Membangunkan Alam Bawah Sadar: Rutinitas Jalan Cepat Malam dan Jurnal Alam Bawah Sadar Sigmund Freud"
 description: "Pelajari bagaimana Sigmund Freud, bapak psikoanalisis, memulihkan keseimbangan otak dan mengakses alam bawah sadar dengan berjalan cepat sejauh 3 mil melintasi Wina setiap malam setelah sesi klinis. Temukan neurosains stimulasi bilateral."
 pubDate: "2026-07-09"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai freud-evening-walk didasarkan pada <strong>Verifikasi Historis dari *An Autobiographical Study* karya Sigmund Freud, Arsip Museum Sigmund Freud Wina & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *An Autobiographical Study* karya Sigmund Freud, Arsip Museum Sigmund Freud Wina & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Sensori Bilateral dan Regulasi Emosional Prefrontal
+## 1. Stimulasi Sensori Bilateral dan Regulasi Emosional Prefrontal
 
 Langkah kaki yang bergantian dengan ritme cepat memberikan masukan sensorik dan motorik bergantian ke belahan otak kiri dan kanan—sebuah fenomena yang dikenal sebagai <strong>Stimulasi Bilateral</strong>. Digunakan dalam terapi trauma (seperti EMDR), pemrosesan ini menurunkan hiperaktivasi pada <strong>Amigdala</strong>, meredakan reaktivitas emosional. Selain itu, mempraktikkan <strong>jurnal tulisan tangan</strong> setelah berjalan mengembalikan kapasitas <strong>Memori Kerja</strong>.
 
 ---
 
-## Perhatian: Mencegah Beban Aerobik Berlebihan untuk Mendorong Relaksasi Sebelum Tidur
-
-Rutinitas malam ini bukanlah latihan fisik intensif untuk membakar kalori berat. Berlari hingga terengah-engah menstimulasi sistem saraf simpatis secara berlebihan. Pertahankan jalan cepat di mana Anda masih dapat berbicara tetapi napas sedikit dipercepat. Untuk menjaga kualitas tidur, selesaikan jalan cepat Anda setidaknya 3 jam sebelum tidur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Rutinitas malam ini bukanlah latihan fisik intensif untuk membakar kalori berat.
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mencegah Beban Aerobik Berlebihan untuk Mendorong Relaksasi Sebelum Tidur
+
+Rutinitas malam ini bukanlah latihan fisik intensif untuk membakar kalori berat. Berlari hingga terengah-engah menstimulasi sistem saraf simpatis secara berlebihan. Pertahankan jalan cepat di mana Anda masih dapat berbicara tetapi napas sedikit dipercepat. Untuk menjaga kualitas tidur, selesaikan jalan cepat Anda setidaknya 3 jam sebelum tidur.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah berjalan-jalan di pagi atau siang hari memberikan manfaat yang sama dengan jalan malam?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Rutinitas malam ini bukanlah latihan fisik intensif untuk membakar kalori berat.
       Ya. Stimulasi bilateral terjadi kapan saja sepanjang hari. Namun, jika berjalan-jalan di pagi hari meningkatkan gairah untuk membangunkan otak, jalan malam Freud secara unik membersihkan hambatan mental dan ketegangan emosional yang terakumulasi dari tuntutan kerja sepanjang hari.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bisakah saya mengetik jurnal alam bawah sadar di aplikasi ponsel pintar atau papan ketik alih-alih menulis dengan tangan?</span>

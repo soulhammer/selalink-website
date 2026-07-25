@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Matinée sereine du maître de Ghibli : La marche de nettoyage de rivière d'Hayao Miyazaki"
 description: "Découvrez pourquoi le réalisateur du Studio Ghibli, Hayao Miyazaki, ramasse les déchets le matin. Explorez comment la marche et le rangement stimulent la créativité."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ Dans cet article, nous explorons les principes scientifiques de la « marche de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant miyazaki-river-cleanup est basée sur <strong>Recherche sur les biographies historiques et entretiens d'Hayao Miyazaki & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche sur les biographies historiques et entretiens d'Hayao Miyazaki & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Le rafraîchissement créatif apporté au cerveau par la marche altruiste
+## 1. Le rafraîchissement créatif apporté au cerveau par la marche altruiste
 
 Marcher d'un pas léger tout en rangeant l'environnement immédiat active en douceur le <strong>réseau du mode par défaut (DMN)</strong> du cerveau. Ce réseau fonctionne lorsque l'esprit se repose des tâches cognitives dirigées, reliant des idées éparses pour susciter des intuitions nouvelles. De plus, le nettoyage physique stimule la sécrétion matinale de sérotonine, favorisant la clarté mentale.
 
 ---
 
-## Précautions et conseils
-
-Si vous consultez votre smartphone ou vous laissez absorber par des pensées complexes pendant la marche, votre cerveau ne pourra pas atteindre l'état de relaxation du DMN. Se déconnecter des appareils, <strong>apprécier la nature environnante</strong> et se concentrer sur le rangement des objets physiques devant soi sont les clés pour maximiser les bienfaits.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Si vous consultez votre smartphone ou vous laissez absorber par des pensées com
     De retour de votre marche, profitez de cet état de clarté mentale et de détente du lobe frontal stimulé par la sérotonine pour vous lancer directement dans votre première tâche de création.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Si vous consultez votre smartphone ou vous laissez absorber par des pensées complexes pendant la marche, votre cerveau ne pourra pas atteindre l'état de relaxation du DMN. Se déconnecter des appareils, <strong>apprécier la nature environnante</strong> et se concentrer sur le rangement des objets physiques devant soi sont les clés pour maximiser les bienfaits.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Pensamiento Axiomático de Euclides: Cómo Romper la Parálisis de Decisión Mediante Cadenas Deductivas de Primeros Principios"
 description: "Explore cómo el matemático griego Euclides resolvió dilemas complejos descomponiéndolos en axiomas indudables, analizando la historia y la neurociencia cognitiva detrás de los Primeros Principios."
 pubDate: "2026-02-21"
@@ -38,22 +39,20 @@ En su lugar, eliminaba las suposiciones inciertas y establecía cinco axiomas fu
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre euclid-axiomatic-thinking se basa en <strong>Verificación Histórica de los *Elementos* de Euclides, el *Comentario sobre los Elementos de Euclides* de Proclo e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de los *Elementos* de Euclides, el *Comentario sobre los Elementos de Euclides* de Proclo e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por Qué la Recombinación Axiomática Previene la Sobrecarga Cognitiva y los Sesgos
+## 1. Por Qué la Recombinación Axiomática Previene la Sobrecarga Cognitiva y los Sesgos
 
 Según la psicología cognitiva, el cerebro humano comete errores de juicio cuando se contamina por convencionalismos o atajos mentales (heurísticas). El pensamiento axiomático de Euclides extrae <strong>'Primeros Principios'</strong> irrestrictores y axiomas evidentes como única base de razonamiento. Este mecanismo de recombinación axiomática elimina las suposiciones inciertas, reduciendo la sobrecarga cognitiva en la corteza prefrontal (PFC). Además, optimiza la memoria visoespacial y los circuitos lógicos del lóbulo parietal para estructurar problemas complejos desde su esencia.
 
 ---
 
-## Precaución: Nunca Confunda Suposiciones No Verificadas con Axiomas
-
-Nunca confunda experiencias no probadas o afirmaciones ajenas con hechos fundamentales. Antes de formular soluciones, aísle verdades indudables y esenciales (axiomas). Recuerde que si las premisas iniciales son erróneas, todas las conclusiones deductivas posteriores colapsarán como fichas de dominó.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Nunca confunda experiencias no probadas o afirmaciones ajenas con hechos fundame
   </p>
 </div>
 
+---
+
+## 3. Precaución: Nunca Confunda Suposiciones No Verificadas con Axiomas
+
+Nunca confunda experiencias no probadas o afirmaciones ajenas con hechos fundamentales. Antes de formular soluciones, aísle verdades indudables y esenciales (axiomas). Recuerde que si las premisas iniciales son erróneas, todas las conclusiones deductivas posteriores colapsarán como fichas de dominó.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo puedo aplicar el pensamiento axiomático a las decisiones de negocios?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Nunca confunda experiencias no probadas o afirmaciones ajenas con hechos fundame
       Primero defina 3 'hechos básicos irreducibles', como las limitaciones físicas del proyecto, el presupuesto real y las necesidades del usuario. Luego, rediseñe su estrategia desde cero sobre esa base.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿En qué se diferencia el pensamiento lógico convencional del razonamiento de Primeros Principios de Euclides?</span>

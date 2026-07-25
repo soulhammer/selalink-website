@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ベッドの上のハサミ使いの奇跡：アンリ・マティスのカットアウト痛みの治癒法"
 description: "美術史の巨匠アンリ・マティス。晩年の深刻ながん手術後、ベッドの上で長いハサミで色紙を切り抜き、苦痛を乗り越えて傑作を創り出した秘訣と、視覚・触覚刺激がもたらす脳科学的ヒーリング効果を探ります。"
 pubDate: "2026-05-17"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「matisse-paper-cutout」は <strong>アンリ・マティスの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アンリ・マティスの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 痛みを分散させ脳の可塑性を刺激する視覚・触覚フィードバック
+## 1. 痛みを分散させ脳の可塑性を刺激する視覚・触覚フィードバック
 
 脳が強力な肉体的苦痛や精神的ストレスを受けている時、単に横になって休むだけでは、脳が痛みと不安のネットワークに注意を集中させ続けてしまいます。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 指先の創造が疲れた脳を治療します
-
-現代人は毎日受動的なウェブサーフィンやSNSの閲覧で視覚的疲労を蓄積し、脳を疲弊したまま放置しがちです。マティスのように週に一度でも鮮やかな紙を実際のハサミで切り抜き自由な形を作り、それを壁面や空のノートに直接配置する指先のリチュアルを取り入れてみてください。これは脳の感覚ネットワークを回復させる素晴らしい芸術的脳デトックス療法です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 指先の創造が疲れた脳を治療します
+
+現代人は毎日受動的なウェブサーフィンやSNSの閲覧で視覚的疲労を蓄積し、脳を疲弊したまま放置しがちです。マティスのように週に一度でも鮮やかな紙を実際のハサミで切り抜き自由な形を作り、それを壁面や空のノートに直接配置する指先のリチュアルを取り入れてみてください。これは脳の感覚ネットワークを回復させる素晴らしい芸術的脳デトックス療法です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>美的センスのない初心者でもカットアウトで効果を得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       はい、その通りです。美的に素晴らしい作品を完成させる必要はありません。ただ「ハサミで手指を精密に動かす行動（触覚）」と「鮮やかな色を切り抜く過程（視覚）」の刺激が脳に入り込むプロセス自体が、認知的苦痛を分散させ脳の可塑性を刺激する本質であるため、形が歪んだり拙くても全く問題ありません。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ハサミの代わりに粘土やドローイングアプリを使うのはどうですか？</span>

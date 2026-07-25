@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La gestion du stress d'un physicien quantique ? La routine nocturne de lecture de poésie de J. Robert Oppenheimer"
 description: "J. Robert Oppenheimer, directeur du projet Manhattan. Découvrez comment la lecture de poésie classique en sanskrit sous une pression extrême a restauré son équilibre cognitif."
 pubDate: "2026-03-08"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons les mécanismes neuroscientifiques de la routin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant oppenheimer-poetry-balance est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques de J. Robert Oppenheimer et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques de J. Robert Oppenheimer et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Basculement hétérogène stimulant les circuits émotionnels de l'hémisphère droit après une intense cognition numérique
+## 1. Basculement hétérogène stimulant les circuits émotionnels de l'hémisphère droit après une intense cognition numérique
 
 Une exposition prolongée aux chiffres et aux algorithmes entraîne une surcharge de l'hémisphère gauche, réduisant fortement la flexibilité cognitive. Lire de la littérature ou de la poésie d'une nature totalement différente, comme le faisait Oppenheimer, induit une <strong>'transition cognitive hétérogène'</strong> dans le cerveau. La surcharge du cortex mathématique s'arrête et le cortex émotionnel droit s'active, diminuant les niveaux d'hormones du stress.
 
 ---
 
-## Évitez d'analyser et laissez-vous porter par la sensibilité poétique du texte
-
-Tenter d'analyser la grammaire ou la logique réenclenche le mode analytique du cerveau. Ressentez sereinement les images et le rythme. Plutôt que de compter uniquement sur la volonté, organisez un environnement physique et des déclencheurs d'habitudes qui incitent naturellement à l'action.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tenter d'analyser la grammaire ou la logique réenclenche le mode analytique du 
   </p>
 </div>
 
+---
+
+## 3. Évitez d'analyser et laissez-vous porter par la sensibilité poétique du texte
+
+Tenter d'analyser la grammaire ou la logique réenclenche le mode analytique du cerveau. Ressentez sereinement les images et le rythme. Plutôt que de compter uniquement sur la volonté, organisez un environnement physique et des déclencheurs d'habitudes qui incitent naturellement à l'action.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Lire des romans ou des essais au lieu de la poésie produit-il le même effet ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tenter d'analyser la grammaire ou la logique réenclenche le mode analytique du 
       Oui, les nouvelles courtes au ton lyrique prononcé, la poésie ou les essais réflexifs sont bien plus efficaces pour soulager la fatigue cognitive numérique que les longs romans axés sur l'intrigue.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il possible de lire sur une liseuse électronique (e-book) ?</span>

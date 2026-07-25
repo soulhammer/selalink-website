@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Filsuf yang Memasang Botol Tinta di Tongkat Jalan: Metode Pencatatan Langsung dan Rutinitas Eksternalisasi Kognitif Thomas Hobbes"
 description: "Pelajari bagaimana pemikir Thomas Hobbes memasang botol tinta di tongkat jalannya untuk merekam ide-ide yang muncul secara langsung. Temukan neurosains perluasan memori kerja, Default Mode Network (DMN), dan eksternalisasi kognitif."
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik metode 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai hobbes-cane-inkwell didasarkan pada <strong>Verifikasi Historis dari *Brief Lives* karya John Aubrey, Arsip Thomas Hobbes & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Brief Lives* karya John Aubrey, Arsip Thomas Hobbes & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mencegah Degradasi Memori Kerja dan Neurosains Eksternalisasi Kognitif
+## 1. Mencegah Degradasi Memori Kerja dan Neurosains Eksternalisasi Kognitif
 
 Saat otak memasuki kondisi berjalan yang santai, <strong>Default Mode Network (DMN)</strong> aktif, memicu percikan asosiatif yang kreatif. Namun, karena kilatan ini berada di dalam buffer jangka pendek dari <strong>Memori Kerja</strong>, ide-ide tersebut mudah memudar dalam waktu 10 hingga 15 detik kecuali dicatat secara langsung. Botol tinta tongkat Hobbes berfungsi sebagai alat utama untuk <strong>Eksternalisasi Kognitif</strong>.
 
 ---
 
-## Perhatian: Protokol Pencatatan dalam Jendela Peluruhan Memori 10 Detik
-
-Menunda dengan berpikir 'saya akan mencatatnya saat tiba di rumah' sangat meremehkan degradasi memori kerja. Sebagian besar pemikiran yang dihasilkan saat berjalan di-overwrite di hipokampus oleh masukan sensorik baru pada saat Anda duduk di meja. Untuk mempertahankan nilainya, eksternalisasikan kilatan ide dalam jendela emas 10 detik.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Menunda dengan berpikir 'saya akan mencatatnya saat tiba di rumah' sangat mereme
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Protokol Pencatatan dalam Jendela Peluruhan Memori 10 Detik
+
+Menunda dengan berpikir 'saya akan mencatatnya saat tiba di rumah' sangat meremehkan degradasi memori kerja. Sebagian besar pemikiran yang dihasilkan saat berjalan di-overwrite di hipokampus oleh masukan sensorik baru pada saat Anda duduk di meja. Untuk mempertahankan nilainya, eksternalisasikan kilatan ide dalam jendela emas 10 detik.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah Thomas Hobbes benar-benar menggunakan tongkat yang dipasangi botol tinta secara historis?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Menunda dengan berpikir 'saya akan mencatatnya saat tiba di rumah' sangat mereme
       Ya, tentu saja. Biografer sezaman dan teman pribadinya John Aubrey mencatat dalam *Brief Lives* bahwa Hobbes memasang botol tinta di kepala tongkat jalannya dan membawa kertas saku untuk mencatat pemikiran setiap kali berjalan-jalan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah perekaman suara atau mengetik teks lebih efektif untuk pencatatan saat bepergian?</span>

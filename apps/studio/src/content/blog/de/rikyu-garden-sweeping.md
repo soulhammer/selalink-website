@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Den Staub des Geistes fegen: Sen no Rikyus morgendliche Garten-Feg-Routine"
 description: "Eine Anekdote über den Teemeister Sen no Rikyu, der beim Fegen des Gartens seinen Geist reinigte. Erklärt die kognitionswissenschaftlichen Prinzipien der kinästhetischen Meditation, die kognitives Rauschen im Gehirn durch einfache, sich wiederholende Bewegungen beseitigt."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ Dieser Artikel analysiert den wissenschaftlichen Zusammenhang zwischen wiederhol
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu rikyu-garden-sweeping basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Rikyus Gartenfegen sowie kognitive neurowissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Rikyus Gartenfegen sowie kognitive neurowissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Verankerungseffekt von Besengeräuschen und kognitivem Rauschen im Gehirn
+## 1. Verankerungseffekt von Besengeräuschen und kognitivem Rauschen im Gehirn
 
 Rhythmisches Fegen liefert dem Gehirn sofortiges und einfaches physisches Feedback und verankert die Aufmerksamkeit in der Gegenwart. Dieser sensorische Fokus stabilisiert effektiv kognitive Rauschsignale in der Großhirnrinde, die Angst und Ablenkung fördern. Neurowissenschaftlichen Studien zufolge unterdrückt diese Handlung unnötige Angstreaktionen in der Amygdala und aktiviert visuell-räumliche Notizblock-Schaltkreise, was die langfristige exekutive Funktion drastisch verbessert.
 
 ---
 
-## Ratschlag des Teemeisters zum Entleeren des Geistesstaubes
-
-Der wahre Staub, der gefegt werden muss, liegt im Geist, nicht auf dem Boden. Schenken Sie Ihrem Gehirn jeden Morgen durch leichte, sich wiederholende körperliche Aktivität Ruhe und Freiraum. Verlassen Sie sich nicht nur auf Willenskraft; das vorherige Gestalten einer physischen Umgebung und von Gewohnheitssignalen, die die Handlung natürlich auslösen, ist der Schlüssel zur Nachhaltigkeit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Der wahre Staub, der gefegt werden muss, liegt im Geist, nicht auf dem Boden. Sc
     Betrachten Sie nach Abschluss der 5-minütigen Aktivität ruhig den ordentlichen Bereich zusammen mit seinen subtilen natürlichen Unvollkommenheiten und genießen Sie die innere Stille.
   </p>
 </div>
+
+---
+
+## 3. Ratschlag des Teemeisters zum Entleeren des Geistesstaubes
+
+Der wahre Staub, der gefegt werden muss, liegt im Geist, nicht auf dem Boden. Schenken Sie Ihrem Gehirn jeden Morgen durch leichte, sich wiederholende körperliche Aktivität Ruhe und Freiraum. Verlassen Sie sich nicht nur auf Willenskraft; das vorherige Gestalten einer physischen Umgebung und von Gewohnheitssignalen, die die Handlung natürlich auslösen, ist der Schlüssel zur Nachhaltigkeit.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

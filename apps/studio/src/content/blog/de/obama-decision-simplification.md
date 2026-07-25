@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Geheimnis erfolgreicher Entscheidungen? Barack Obamas Routine zur Entscheidungsvereinfachung"
 description: "Erfahren Sie mehr über Obamas Routine zur Entscheidungsvereinfachung. Ein 3-Schritte-Leitfaden zur Schonung präfrontaler Energie und zur Maximierung der Entscheidungsqualität."
 pubDate: "2026-01-06"
@@ -33,17 +34,17 @@ In diesem Beitrag analysieren wir die Kognitionswissenschaft hinter Obamas Routi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu obama-decision-simplification basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Barack Obama & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Barack Obama & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Entscheidungsmüdigkeit & Ego-Depletion: Grenzen des Gehirns
+## 1. Entscheidungsmüdigkeit & Ego-Depletion: Grenzen des Gehirns
 
 Empirische Studien zeigen, dass Entscheidungsfähigkeit wie eine begrenzte Batterie funktioniert. Kleine Alltagsentscheidungen rauben präfrontale Energie. Dieser Zustand heißt <strong>'Ego-Depletion'</strong> oder <strong>'Entscheidungsmüdigkeit'</strong>.
 
@@ -51,9 +52,7 @@ Bei hoher Entscheidungsmüdigkeit sinkt die kognitive Kontrolle. Indem Obama mor
 
 ---
 
-## Neurowissenschaftlicher Rat für effiziente Entscheidungen
-
-Weniger unwichtige Entscheidungen bedeuten tiefere Konzentration. Vereinfachen Sie Alltagsentscheidungen, um kognitive Energieverluste zu vermeiden.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Weniger unwichtige Entscheidungen bedeuten tiefere Konzentration. Vereinfachen S
     Nutzen Sie die am Morgen gesparte Energie. Verschwenden Sie sie nicht mit Mails, sondern treffen Sie die schwerste Entscheidung zuerst.
   </p>
 </div>
+
+---
+
+## 3. Neurowissenschaftlicher Rat für effiziente Entscheidungen
+
+Weniger unwichtige Entscheidungen bedeuten tiefere Konzentration. Vereinfachen Sie Alltagsentscheidungen, um kognitive Energieverluste zu vermeiden.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

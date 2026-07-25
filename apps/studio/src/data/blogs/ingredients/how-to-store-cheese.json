@@ -1,0 +1,454 @@
+{
+  "how-to-store-cheese": {
+    "ingId": "cheese",
+    "pubDate": "2026-05-12",
+    "updatedDate": "2026-05-12",
+    "heroImage": "/images/blog/cheese_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "치즈 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 치즈의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "남은 체다 치즈나 슬라이스 치즈를 냉장고에 대충 랩으로 돌돌 싸서 두었다가, 굳어서 뚝뚝 부러지거나 하얀 곰팡이가 번식해 결국 버린 경험 있으시죠? 오늘 FreshSnap에서는 미국 농무부(USDA)와 미국 식품의약국(FDA)의 가이드를 기반으로, 치즈가 '숨 쉴 수 있게' 보관하여 풍미를 한 달 넘게 살리는 보관법을 전합니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "치즈",
+          "과학적으로 검증된 보관 가이드",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Keep away from strong-smelling foods ⚠️",
+            "desc": "Cheese absorbs smells easily due to its fat content. Keep it isolated from garlic, fish, or onions."
+          },
+          {
+            "title": "Do not leave at room temperature 🧀",
+            "desc": "Leaving cheese out causes its fats to melt and separate, altering its texture and flavor."
+          }
+        ],
+        "steps": [
+          {
+            "name": "밀폐 플라스틱 비닐 포장지 제거하기 — 혐기 환경 탈피 📦",
+            "text": "치즈는 살아있는 유산균과 박테리아가 서식하는 미생물 식품입니다. 시판용 비닐 랩이나 꽉 막힌 포장지에 오래 두면 가스 교환이 안 되어 치즈 고유의 암모니아 냄새가 갇히고 표면에 쉽게 기름이 돕니다."
+          },
+          {
+            "name": "종이 호일이나 유산지로 포장하기 — 통기성 및 수분 유지 📰",
+            "text": "포장지를 벗긴 치즈는 유산지(Parchment paper)나 종이 호일로 가볍게 감싸줍니다. 종이는 외부 습기로부터 치즈를 보호하는 한편 치즈가 내뿜는 가스가 배출되게 돕고 과도하게 마르는 것을 방지하는 적절한 완충막이 됩니다."
+          },
+          {
+            "name": "지퍼백에 넣어 냉장고 야채칸 보관하기 — 적정 습도 보존 (21일) ❄️",
+            "text": "유산지로 감싸인 치즈를 지퍼백에 가볍게 넣고, 지퍼백의 밀봉을 약간 느슨하게 닫아 냉장실 야채칸(4~6℃)에 보관합니다. 이중 보호를 통해 적정 습도를 유지하여 치즈의 깊은 풍미를 지킵니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
+            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+          },
+          {
+            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
+            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Cheese Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Cheese based on official safety guidelines.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Have you ever wrapped cheese tightly in plastic wrap only to find it turn moldy and hard? Today, FreshSnap shares scientific storage tips to keep cheese flavorful.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Cheese",
+          "Scientifically Proven Storage Guide",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Keep away from strong-smelling foods ⚠️",
+            "desc": "Cheese absorbs smells easily due to its fat content. Keep it isolated from garlic, fish, or onions."
+          },
+          {
+            "title": "Do not leave at room temperature 🧀",
+            "desc": "Leaving cheese out causes its fats to melt and separate, altering its texture and flavor."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Remove tight plastic packaging — Avoid anaerobic environment 📦",
+            "text": "Cheese is a living product with active bacterial cultures. Leaving it in tight plastic wrap blocks gas exchange, trapping natural ammonia odors and making the surface oily."
+          },
+          {
+            "name": "Wrap in parchment paper or wax paper — Airflow & moisture balance 📰",
+            "text": "Wrap the cheese loosely in parchment paper or wax paper. Paper protects cheese from external moisture while allowing gases to escape, preventing it from drying out completely."
+          },
+          {
+            "name": "Place loosely in a Ziploc bag in the crisper — Humidity (21 Days) ❄️",
+            "text": "Place the paper-wrapped cheese in a Ziploc bag, leaving it slightly open, and store it in the crisper drawer (4-6°C). This retains the perfect humidity and protects its flavor."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
+            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+          },
+          {
+            "question": "How should I handle and store bruised or damaged parts?",
+            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+          }
+        ]
+      },
+      "ja": {
+        "title": "チーズの鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくチーズの最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>米国農務省(USDA) & FSA</strong>",
+        "intro": "余ったチーズをラップで密着させて包んだら、すぐにカビたり固くなったりしたことはありませんか？本日, FreshSnapではチーズの風味を最大限に残す保存方法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "チーズ",
+          "科学的に検証された保存ガイド",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "においの強い食材から離して保管してください ⚠️",
+            "desc": "チーズの脂肪分は周囲のにおいを吸収しやすい性質があります。キムチやニンニク、魚などの近くに置くのは避けてください。"
+          },
+          {
+            "title": "常温で長時間放置しないでください 🧀",
+            "desc": "常温に放置すると脂肪分が溶け出し, 分離してしまいます. 一度分離したチーズは風味が著しく損なわれます."
+          }
+        ],
+        "steps": [
+          {
+            "name": "プラスチックの密封パッケージを外す — 密閉環境の回避 📦",
+            "text": "チーズは発酵食品です。プラスチックの包装は外し、空気を通すようにします。"
+          },
+          {
+            "name": "クッキングシートやワックスペーパーで包む —  通気性と湿度 📰",
+            "text": "チーズをワックスペーパーでふんわり包みます。"
+          },
+          {
+            "name": "ジッパーバッグに入れ、野菜室で保存 — 湿度維持 (21日間) ❄️",
+            "text": "袋に入れ、密封を少し緩めて野菜室で保管します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
+            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+          },
+          {
+            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
+            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存奶酪/芝士：科学储存指南",
+        "description": "根据官方食品安全指南，了解奶酪/芝士的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>美国农务部(USDA) & FSA</strong>",
+        "intro": "您是否曾用保鲜膜紧紧包裹奶酪，却发现它发霉变硬？今天，FreshSnap为您分享保持奶酪风味的科学储存方法。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "奶酪/芝士",
+          "科学验证的储存指南",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "请远离气味强烈的食物 ⚠️",
+            "desc": "由于脂肪含量高，奶酪极易吸收周围的气味。请将其与大蒜、鱼类或洋葱等隔离开来。"
+          },
+          {
+            "title": "请勿长时间置于常温下 🧀",
+            "desc": "将奶酪置于常温下会导致其中的脂肪融化并分离，从而改变其质地和风味。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "拆除紧贴的塑料包装袋 — 摆脱缺氧环境 📦",
+            "text": "拆除塑料外包装以防缺氧变质。"
+          },
+          {
+            "name": "用烘焙纸或羊皮纸包裹 —  透气控干 📰",
+            "text": "用烘焙纸包裹以维持湿度。"
+          },
+          {
+            "name": "放入密封袋并存放在蔬菜保鲜盒 — 湿度维持 (21天) ❄️",
+            "text": "放入密封袋放蔬菜箱。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "把食材放进冰箱前一定要用水洗吗？",
+            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+          },
+          {
+            "question": "碰伤或腐烂的部分应该如何处理和保存？",
+            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Queso fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Queso según las directrices oficiales de seguridad.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "¿Alguna vez envolvió queso firmemente en film plástico y descubrió que se enmoheció y endureció? Hoy, FreshSnap comparte trucos para mantenerlo sabroso.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Queso",
+          "Guía de almacenamiento científicamente probada",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Mantenga alejado de alimentos con olores fuertes ⚠️",
+            "desc": "El queso absorbe olores fácilmente debido a su contenido de grasa. Manténgalo aislado del ajo, pescado o cebolla."
+          },
+          {
+            "title": "No deje a temperatura ambiente 🧀",
+            "desc": "Dejar el queso a temperatura ambiente hace que sus grasas se derritan y se separen, alterando su textura y sabor."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Quitar el embalaje de plástico 📦",
+            "text": "El queso necesita respirar. Retire el plástico hermético para evitar que acumule olores extraños."
+          },
+          {
+            "name": "Envolver con papel para hornear 📰",
+            "text": "Envuelva el queso con papel para hornear; este permite la salida de gases sin secar el producto."
+          },
+          {
+            "name": "Guardar en una bolsa en el cajón de verduras ❄️",
+            "text": "Coloque el queso envuelto en una bolsa Ziploc sin cerrarla del todo y déjelo en el cajón de verduras."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
+            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+          },
+          {
+            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
+            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Fromage frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Fromage selon les directives de sécurité officielles.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Avez-vous déjà enveloppé du fromage hermétiquement dans du film plastique pour le retrouver moisi et dur ? Aujourd'hui, FreshSnap vous donne des conseils.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Fromage",
+          "Guide de conservation scientifiquement prouvé",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Gardez à l'écart des aliments à forte odeur ⚠️",
+            "desc": "Le fromage absorbe facilement les odeurs en raison de sa teneur en matières grasses. Isolez-le de l'ail, du poisson ou des oignons."
+          },
+          {
+            "title": "Ne laissez pas à température ambiante 🧀",
+            "desc": "Laisser le fromage à température ambiante fait fondre et se séparer les matières grasses, ce qui altère sa texture et sa saveur."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Retirer l'emballage plastique 📦",
+            "text": "Le fromage a besoin de respirer. Retirez le plastique hermétique pour éviter l'accumulation de mauvaises odeurs."
+          },
+          {
+            "name": "Envelopper de papier cuisson 📰",
+            "text": "Enveloppez le fromage dans du papier cuisson; il permet l'évacuation des gaz sans dessécher le produit."
+          },
+          {
+            "name": "Conserver dans un sac dans le bac à légumes ❄️",
+            "text": "Placez le fromage emballé dans un sac Ziploc sans le fermer complètement et mettez-le au bac à légumes."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
+            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+          },
+          {
+            "question": "Comment gérer et conserver les parties abîmées ?",
+            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Käse frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Käse basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Haben Sie schon einmal Käse fest in Frischhaltefolie gewickelt, nur um festzustellen, dass sie schimmelig und hart wurde? Heute teilt FreshSnap Tipps.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Käse",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Von geruchsintensiven Lebensmitteln fernhalten ⚠️",
+            "desc": "Käse nimmt aufgrund seines Fettgehalts leicht Gerüche an. Halten Sie ihn von Knoblauch, Fisch oder Zwiebeln fern."
+          },
+          {
+            "title": "Nicht bei Raumtemperatur stehen lassen 🧀",
+            "desc": "Wenn Käse warm steht, schmilzt und trennt sich das Fett, was die Textur..."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Plastikverpackung entfernen 📦",
+            "text": "Käse muss atmen. Entfernen Sie das Plastik, um die Ansammlung von schlechten Gerüchen zu verhindern."
+          },
+          {
+            "name": "Mit Backpapier einwickeln 📰",
+            "text": "Wickeln Sie den Käse in Backpapier ein; dies lässt Gase entweichen, ohne das Produkt auszutrocknen."
+          },
+          {
+            "name": "Im Gemüsefach in einem Beutel lagern ❄️",
+            "text": "Legen Sie den eingewickelten Käse in einen Ziploc-Beutel, schließen Sie ihn nicht ganz und lagern Sie ihn im Gemüsefach."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
+            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+          },
+          {
+            "question": "Wie lagert man beschädigte Stellen?",
+            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Queijo fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Queijo com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Você já embrulhou queijo firmemente em filme plástico e viu que ele mofou e endureceu? Hoje, o FreshSnap compartilha dicas de conservação.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Queijo",
+          "Guia de armazenamento comprovado cientificamente",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Mantenha longe de alimentos com cheiro forte ⚠️",
+            "desc": "O queijo absorve odores facilmente devido ao teor de gordura. Mantenha-o isolado de alho, peixe..."
+          },
+          {
+            "title": "Não deixe em temperatura ambiente 🧀",
+            "desc": "Leaving cheese out causes its fats to melt and separate, altering its texture and flavor."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Remover a embalagem plástica 📦",
+            "text": "O queijo precisa respirar. Remova o plástico hermético para evitar o acúmulo de odores desagradáveis."
+          },
+          {
+            "name": "Embrulhar com papel manteiga 📰",
+            "text": "Embrulhe o queijo em papel manteiga; este permite a saída de gases sem ressecar o produto."
+          },
+          {
+            "name": "Guardar em saco na gaveta de legumes ❄️",
+            "text": "Coloque o queijo embrulhado em um saco Ziploc sem fechar totalmente e deixe na gaveta de legumes."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
+            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+          },
+          {
+            "question": "Como tratar e guardar partes machucadas?",
+            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Keju agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Keju berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>USDA & FSA</strong>",
+        "intro": "Pernahkah Anda membungkus keju rapat-rapat dengan plastik wrap lalu menjadi berjamur...",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Keju",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Jauhkan dari makanan berbau tajam ⚠️",
+            "desc": "Cheese absorbs smells easily due to its fat content. Keep it isolated from garlic, fish, or onions."
+          },
+          {
+            "title": "Jangan biarkan di suhu ruang 🧀",
+            "desc": "Leaving cheese out causes its fats to melt and separate, altering its texture and flavor."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Lepas kemasan plastik 📦",
+            "text": "Keju perlu bernapas. Lepaskan kemasan plastik rapat untuk mencegah penumpukan bau yang tidak sedap."
+          },
+          {
+            "name": "Bungkus dengan kertas roti 📰",
+            "text": "Bungkus keju dengan kertas roti; kertas ini memungkinkan gas keluar tanpa membuat keju menjadi kering."
+          },
+          {
+            "name": "Simpan di kantong laci sayur ❄️",
+            "text": "Masukkan keju yang sudah dibungkus ke kantong Ziploc tanpa menutupnya rapat, lalu simpan di laci sayur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
+            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+          },
+          {
+            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
+            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Meister, der Noten im Mondschein abschrieb? Bachs den Scheitellappen stimulierende Transkriptionsgewohnheit"
 description: "Johann Sebastian Bach verinnerlichte sein Leben lang mathematische Regeln, indem er Noten älterer Komponisten abschrieb. Entdecken Sie die wissenschaftlichen Prinzipien, wie die Steuerung der Fingerspitzen die Logikbereiche des Gehirns stimuliert, sowie eine moderne Transkriptionsroutine."
 pubDate: "2026-06-19"
@@ -31,17 +32,17 @@ Im heutigen Beitrag analysieren wir die neurowissenschaftlichen Prinzipien hinte
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu bach-pattern-transcription basiert auf <strong>Historische Überprüfung aus Johann Nikolaus Forkels *Über Johann Sebastian Bachs Leben, Kunst und Kunstwerke (1802)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Johann Nikolaus Forkels *Über Johann Sebastian Bachs Leben, Kunst und Kunstwerke (1802)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Feinmotorische Fingersteuerung und Scheitellappen-Assoziation
+## 1. Feinmotorische Fingersteuerung und Scheitellappen-Assoziation
 
 Modernes digitales Lernen wie das Tippen auf einer Computertastatur oder einem Bildschirm ist eine kognitive Aktivität geringer Dichte, die nur einen sehr kleinen Bereich des motorischen Kortex des Gehirns leicht streift. Im Gegensatz dazu erfordert das analoge Abschreiben – das Halten eines Stifts und das feste Aufdrücken komplexer Texte oder Symbole auf Papier – eine feine Feinmotoriksteuerung (Fine Motor).
 
@@ -49,11 +50,7 @@ In diesem Prozess aktiviert das Gehirn nicht nur die Planungsbereiche des Fronta
 
 ---
 
-## Ein neurowissenschaftliches Wort für eine erfolgreiche Routine
-
-<strong>Die Hand ist das nach außen getretene Gehirn.</strong>
-
-Informationen, die mit den Augen auf einem Bildschirm gelesen oder mit der Maus gezogen werden, fließen nur sehr oberflächlich durch das Gehirn und verflüchtigen sich. Wenn Sie die logischen Schaltkreise Ihres Gehirns stärken möchten, greifen Sie nur 10 Minuten lang zum Stift und schreiben Sie etwas ab. So wie Bach die perfekten Formeln der Barockmusik beherrschte, indem er komplexe Fugenmuster mit seinen Fingerspitzen abschrieb, wird auch Ihr Gehirn schwieriges Wissen vollständig besitzen, wenn es eine analoge Transkription durchläuft.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Informationen, die mit den Augen auf einem Bildschirm gelesen oder mit der Maus 
     Überfliegen Sie nach dem Abschließen des Abschreibens die auf dem Papier angeordnete Textstruktur ruhig von oben nach unten und ordnen Sie deren logische Beziehungen und Anordnung visuell neu. Dieser visuell-logische Abgleich etabliert einen festen Strukturrahmen im Frontallappen.
   </p>
 </div>
+
+---
+
+## 3. Ein neurowissenschaftliches Wort für eine erfolgreiche Routine
+
+<strong>Die Hand ist das nach außen getretene Gehirn.</strong>
+
+Informationen, die mit den Augen auf einem Bildschirm gelesen oder mit der Maus gezogen werden, fließen nur sehr oberflächlich durch das Gehirn und verflüchtigen sich. Wenn Sie die logischen Schaltkreise Ihres Gehirns stärken möchten, greifen Sie nur 10 Minuten lang zum Stift und schreiben Sie etwas ab. So wie Bach die perfekten Formeln der Barockmusik beherrschte, indem er komplexe Fugenmuster mit seinen Fingerspitzen abschrieb, wird auch Ihr Gehirn schwieriges Wissen vollständig besitzen, wenn es eine analoge Transkription durchläuft.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "冷却大脑的干燥预热：斯汤达阅读法国民法典的习惯"
 description: "斯汤达是写实主义文学大师，他抛弃华丽修辞，精细解剖人类心理本质。本文分析他在写作前每天阅读法国民法典、将大脑的客观性与逻辑性提升至极致的认知预热习惯。"
 pubDate: "2026-02-08"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 stendhal-civil-code-reading 的内容基于 <strong>斯汤达阅读民法典历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>斯汤达阅读民法典历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 语言启动效应与感伤主义认知阻断
+## 1. 语言启动效应与感伤主义认知阻断
 
 根据认知科学中的启动效应（Priming Effect），当大脑先接触特定性质的信息时，在接下来的认知任务中会自动无意识地激活相似模式。斯汤达在写作前阅读民法典刻板而客观的句子，相当于将大脑的语言调节区域设置为客观看待与逻辑导向模式。这种刺激促使大脑自发进行认知抑制（Cognitive Inhibition），主动压制主观感伤与多余修辞，从而支撑起以事实和逻辑结构为骨架的清晰写作。
 
 ---
 
-## 注意事项与技巧
-
-应用这一习惯时的注意事项是，切忌在阅读干瘪文本时过分沉溺于内容的复杂案情或逻辑分析。如果在写作前深陷法律条文的判例分析或法理解释，可能会在写作前就耗尽前额叶的认知资源（Cognitive Depletion）。这一习惯的本质不在于汲取法律知识，而在于从视觉上感知句子结构的精炼与词语组合的规范。因此，无需深究含义，轻快地如扫描般感受没有多余修饰的短句节奏即可。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     10分钟阅读结束后，在杂念侵入或查看手机之前立即合上书本，动笔撰写你的稿件或策划案。保持大脑被法典干练节奏启动的状态，流畅地挥毫疾书。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与技巧
+
+应用这一习惯时的注意事项是，切忌在阅读干瘪文本时过分沉溺于内容的复杂案情或逻辑分析。如果在写作前深陷法律条文的判例分析或法理解释，可能会在写作前就耗尽前额叶的认知资源（Cognitive Depletion）。这一习惯的本质不在于汲取法律知识，而在于从视觉上感知句子结构的精炼与词语组合的规范。因此，无需深究含义，轻快地如扫描般感受没有多余修饰的短句节奏即可。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Estadísticas de 29.000 plantas de guisante? El método de mejora de la memoria de trabajo de Gregor Mendel"
 description: "Descubra la historia de Gregor Mendel, el gran pionero de la genética. Conozca su perseverancia al registrar a diario los cambios en miles de plantas de guisante en el jardín del monasterio, y explore un método de seguimiento estadístico para entrenar la estructura cognitiva y potenciar la memoria de trabajo."
 pubDate: "2026-06-30"
@@ -38,14 +39,14 @@ En este artículo, exploramos los principios neurocientíficos integrados en la 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mendel-pea-statistics se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Gregor Mendel e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Gregor Mendel e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Entrenamiento de la memoria de trabajo que transforma el análisis de datos y la estructura cognitiva
+## 1. Entrenamiento de la memoria de trabajo que transforma el análisis de datos y la estructura cognitiva
 
 El acto de observar cambios diarios minúsculos con los propios ojos, cuantificarlos y escribirlos a mano en papel milimetrado activa de forma potente el área de la <strong>memoria de trabajo</strong> situada en el lóbulo frontal del cerebro. La memoria de trabajo funciona como la 'memoria RAM' del cerebro, reteniendo y procesando información de forma temporal.
 
@@ -53,9 +54,7 @@ Observar y clasificar grandes cantidades de datos morfológicos aparentemente ir
 
 ---
 
-## Las estadísticas analógicas afinan el filtro cognitivo del cerebro
-
-Las herramientas digitales automatizadas de análisis de datos son convenientes, pero omiten el proceso cognitivo activo en el que el cerebro recopila y clasifica los datos directamente. Hacer un seguimiento y escribir a mano tus propias estadísticas clave en formato analógico a diario, como Mendel, es un excelente ejercicio cognitivo para afinar el filtro de información del cerebro y desarrollar perseverancia.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Las herramientas digitales automatizadas de análisis de datos son convenientes,
   </p>
 </div>
 
+---
+
+## 3. Las estadísticas analógicas afinan el filtro cognitivo del cerebro
+
+Las herramientas digitales automatizadas de análisis de datos son convenientes, pero omiten el proceso cognitivo activo en el que el cerebro recopila y clasifica los datos directamente. Hacer un seguimiento y escribir a mano tus propias estadísticas clave en formato analógico a diario, como Mendel, es un excelente ejercicio cognitivo para afinar el filtro de información del cerebro y desarrollar perseverancia.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es absolutamente necesario dibujar los gráficos a mano? ¿No sería más conveniente usar Excel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Las herramientas digitales automatizadas de análisis de datos son convenientes,
       Las aplicaciones automatizadas como Excel reducen el estímulo cognitivo visual. El acto físico de sostener una regla y trazar líneas a mano para representar variaciones involucra el lóbulo parietal inferior de forma mucho más intensa, lo que ayuda a percibir intuitivamente relaciones de causa y efecto y patrones significativos detrás de los datos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es necesario seguir registrando incluso si no hay cambios significativos en las cifras?</span>

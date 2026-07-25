@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Genius Who Played the Violin at a Thought Dead End: Albert Einstein's Reset Routine and Cognitive Shifting Method"
 description: "Discover how Albert Einstein, who revolutionized physics, used violin playing to reset his brain during creative deadlocks, and explore a 3-step cognitive shifting practical guide for modern professionals."
 pubDate: "2026-03-05"
@@ -38,22 +39,20 @@ In today's post, we analyze the cognitive neuroscience underlying Albert Einstei
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding einstein-violin-thinking is based on <strong>Historical Verification from Albert Einstein's Essay Collection *Out of My Later Years*, Walter Isaacson's Biography *Einstein: His Life and Universe* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Albert Einstein's Essay Collection *Out of My Later Years*, Walter Isaacson's Biography *Einstein: His Life and Universe* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Awakening Distinct Brain Regions via 'Cognitive Shifting' and the Default Mode Network
+## 1. Awakening Distinct Brain Regions via 'Cognitive Shifting' and the Default Mode Network
 
 When we hyper-focus on a complex problem, the brain gets trapped in a cognitive loop, repeatedly activating the exact same neural pathways—a state cognitive psychology calls 'Tunnel Vision' or cognitive overload. Einstein's violin playing served as a perfect tool for 'Cognitive Shifting', immediately disengaging overstimulated neural circuits and activating dormant brain areas. Playing a musical instrument engages visual, auditory, and motor sensory inputs simultaneously, heavily stimulating the corpus callosum that connects the left and right hemispheres. Stepping back physically and mentally to immerse in music shifts the brain into its Default Mode Network (DMN), allowing unconscious processing to recombine scattered information and induce an 'Aha! Moment'.
 
 ---
 
-## Knowing How to Let Go Unlocks Fresh Insights
-
-Einstein was not only a brilliant physicist, but also an accomplished violinist. To him, music was not an unrelated hobby, but the most powerful cognitive lubricant to prevent mental fatigue and ignite creative inspiration. When your ideas stall, rather than forcing yourself to obsess further, change your sensory stimulus entirely like Einstein to give your brain a true reset opportunity.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Einstein was not only a brilliant physicist, but also an accomplished violinist.
   </p>
 </div>
 
+---
+
+## 3. Knowing How to Let Go Unlocks Fresh Insights
+
+Einstein was not only a brilliant physicist, but also an accomplished violinist. To him, music was not an unrelated hobby, but the most powerful cognitive lubricant to prevent mental fatigue and ignite creative inspiration. When your ideas stall, rather than forcing yourself to obsess further, change your sensory stimulus entirely like Einstein to give your brain a true reset opportunity.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Did Albert Einstein reset his brain using other methods besides playing the violin?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Einstein was not only a brilliant physicist, but also an accomplished violinist.
       Yes. Einstein regularly went sailing on a yacht to feel the wind and meditate during research breaks. He also prioritized sleeping over 10 hours a day to let his subconscious organize and solve complex problems.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can people who do not play any musical instrument practice this routine?</span>

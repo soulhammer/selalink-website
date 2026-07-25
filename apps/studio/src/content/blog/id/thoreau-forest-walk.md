@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Berjalan 4 Jam Sehari di Hutan: Rutinitas Jalan Santai Pemulihan Alam Henry David Thoreau"
 description: "Memperkenalkan rutinitas berjalan kaki 4 jam sehari Henry David Thoreau di sekitar Kolam Walden. Menjelaskan prinsip neurosains tentang bagaimana berjalan di alam memulihkan perhatian dan membangkitkan kreativitas."
 pubDate: "2026-04-30"
@@ -29,25 +30,23 @@ Henry David Thoreau, pemikir dan penulis terkemuka Amerika Serikat yang memprakt
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai thoreau-forest-walk didasarkan pada <strong>Biografi sejarah dan catatan autobiografi Henry David Thoreau & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi sejarah dan catatan autobiografi Henry David Thoreau & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teori Pemulihan Perhatian (ART): Efek Penyembuhan Berjalan di Alam terhadap Korteks Prefrontal yang Lelah
+## 1. Teori Pemulihan Perhatian (ART): Efek Penyembuhan Berjalan di Alam terhadap Korteks Prefrontal yang Lelah
 
 Menurut 'Teori Pemulihan Perhatian (ART)' dalam ilmu kognitif, lingkungan perkotaan yang penuh dengan stimulasi buatan yang kompleks (lampu lalu lintas, informasi layar) terus-menerus menguras sumber daya perhatian terarah otak. Sebaliknya, lingkungan alam seperti hutan atau taman memberikan stimulasi 'Pesona Lembut (Soft Fascination)'—seperti pepohonan yang bergoyang ditiup angin atau desir dedaunan—yang memungkinkan korteks prefrontal yang lelah untuk beristirahat. Selain itu, berjalan mengaktifkan Default Mode Network (DMN) otak, menggabungkan gagasan yang tersebar di bawah kesadaran dan membuka terobosan intelektual baru.
 
 ---
 
-## Lepaskan Diri Sepenuhnya dari Kebisingan Digital Saat Berjalan Santai
-
-Bagi Henry David Thoreau, berjalan di alam adalah ritual suci dialog menyendiri dengan alam. Jika Anda berjalan sambil menatap layar ponsel atau merespons notifikasi, mekanisme pemulihan perhatian otak tidak akan berfungsi. Selama berjalan, tetaplah luring dan bukalah seluruh indra Anda terhadap tanaman sekitar dan perubahan musim.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Bagi Henry David Thoreau, berjalan di alam adalah ritual suci dialog menyendiri 
     Bawalah buku catatan analog kecil dan pena. Saat otak rileks dan ide-ide cemerlang bermunculan, langsung catat di atas kertas alih-alih menyalakan ponsel pintar.
   </p>
 </div>
+
+---
+
+## 3. Lepaskan Diri Sepenuhnya dari Kebisingan Digital Saat Berjalan Santai
+
+Bagi Henry David Thoreau, berjalan di alam adalah ritual suci dialog menyendiri dengan alam. Jika Anda berjalan sambil menatap layar ponsel atau merespons notifikasi, mekanisme pemulihan perhatian otak tidak akan berfungsi. Selama berjalan, tetaplah luring dan bukalah seluruh indra Anda terhadap tanaman sekitar dan perubahan musim.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

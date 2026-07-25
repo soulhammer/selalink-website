@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le poète qui récitait à haute voix en parcourant les sentiers : La méthode de composition en marchant de William Wordsworth"
 description: "Le poète romantique William Wordsworth arpentait la nature, ajustant le souffle de ses vers au rythme de ses pas. Explore les principes scientifiques du mouvement rythmique et de l'activation du cervelet."
 pubDate: "2026-02-06"
@@ -35,17 +36,17 @@ Cet article examine les mécanismes neurologiques de la 'récitation en marchant
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant wordsworth-outdoor-recitation est basée sur <strong>Documents biographiques et autobiographiques de William Wordsworth et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Documents biographiques et autobiographiques de William Wordsworth et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergie entre la marche rythmique et la boucle phonologique/auditive
+## 1. Synergie entre la marche rythmique et la boucle phonologique/auditive
 
 Les impacts réguliers des pieds lors de la marche activent le <strong>Cervelet</strong>, qui gère le rythme et le tempo. Ces signaux moteurs se synchronisent avec les zones du langage pour ajuster la prosodie et le rythme de la phrase.
 
@@ -53,9 +54,7 @@ De plus, déclamer à haute voix active la <strong>Boucle phonologique/auditive<
 
 ---
 
-## Le pouvoir de la lecture à haute voix
-
-Rédiger uniquement du regard empêche de ressentir la cadence du texte pour le lecteur, ce qui rend le style sec. Lorsque vous préparez un discours ou un projet, marchez dans un endroit calme et récitez vos phrases à voix haute pour maximiser leur impact.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Rédiger uniquement du regard empêche de ressentir la cadence du texte pour le 
   </p>
 </div>
 
+---
+
+## 3. Le pouvoir de la lecture à haute voix
+
+Rédiger uniquement du regard empêche de ressentir la cadence du texte pour le lecteur, ce qui rend le style sec. Lorsque vous préparez un discours ou un projet, marchez dans un endroit calme et récitez vos phrases à voix haute pour maximiser leur impact.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment Dorothy, la sœur de Wordsworth, a-t-elle décrit sa méthode de composition en marchant ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Rédiger uniquement du regard empêche de ressentir la cadence du texte pour le 
       Elle a écrit dans son journal : 'William a arpenté le chemin du jardin des centaines de fois ce matin en récitant des vers', décrivant avec précision comment sa vitesse de marche variait avec le tempo de sa déclamation.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Marcher et réciter sur un tapis de course en intérieur a-t-il le même effet ?</span>

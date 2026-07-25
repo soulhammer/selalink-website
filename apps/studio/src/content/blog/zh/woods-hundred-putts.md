@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "直至连续成功100次：老虎伍兹的4米推杆沉浸法"
 description: "高尔夫巨星老虎伍兹在训练前执行的“连续100次推杆进洞”例行程序。探究不妥协的成就体验如何向大脑提供多巴胺并带来极致专注。"
 pubDate: "2026-04-01"
@@ -18,7 +19,7 @@ steps:
     text: "带着完美完成挑战后充满多巴胺与高度专注的状态，立刻转入撰写策划案等核心主线工作。"
 faqs:
   - question: "如果反而让压力变大影响专注该怎么办？"
-    answer: "这是因为初始挑战目标远超你目前的能力范围，导致大脑合成了压力激素。应适当调低任务强度，将成功概率调整在70%~80%左右。"
+    answer: "这是因为初始挑战目标远超你目前的能力范围，导致大脑合成了压力激素。应适当调低任务强度，将成功概率调整在70% ~ 80%左右。"
 ---
 
 “在第100个推杆进洞之前，我绝不离开练习果岭。” ⛳
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 woods-hundred-putts 的内容基于 <strong>老虎伍兹百推练习历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>老虎伍兹百推练习历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 不妥协的成就体验带来的极致沉浸
+## 1. 不妥协的成就体验带来的极致沉浸
 
 当大脑执行需要高度专注力的任务时，最重要的催化剂是代表奖励预期的多巴胺（Dopamine）。在“中途失败即清零重来”的严格规则下成功完成任务的体验，能强烈激活大脑的奖赏与行为控制中心。通过这一过程，大脑能够暂时彻底摒弃杂念，强制激活仅对目标任务全力以赴的最佳沉浸状态。
 
 ---
 
-## 注意事项与提示
-
-要有效地利用多巴胺奖赏机制，任务既不能过于简单乏味，也不能过于高不可攀。核心在于根据个人的认知能力设定保持适度紧张感且难度适宜的挑战任务。如果前期频繁失败导致烦躁不安，就需要明智地调低难度。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     带着完美完成挑战后充满多巴胺与高度专注的状态，立刻转入撰写策划案等核心主线工作。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与提示
+
+要有效地利用多巴胺奖赏机制，任务既不能过于简单乏味，也不能过于高不可攀。核心在于根据个人的认知能力设定保持适度紧张感且难度适宜的挑战任务。如果前期频繁失败导致烦躁不安，就需要明智地调低难度。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "歩行で完成させた進化論：チャールズ・ダーウィンの「サンドウォーク」散策習慣と認知的孵化"
 description: "偉大な生物学者チャールズ・ダーウィンが砂利道を歩きながら石で周回数を数えて複雑な理論を整理した「サンドウォーク」散策ルーティン。デフォルト・モード・ネットワーク（DMN）活性化と認知的孵化（Cognitive Incubation）の認知神経科学的原理を解き明かします。"
 pubDate: "2026-06-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「darwin-sandwalk」は <strong>チャールズ・ダーウィン自伝『The Autobiography of Charles Darwin』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>チャールズ・ダーウィン自伝『The Autobiography of Charles Darwin』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 砂道散策と物理的アンカリングが誘導するデフォルト・モード・ネットワーク（DMN）と認知的孵化
+## 1. 砂道散策と物理的アンカリングが誘導するデフォルト・モード・ネットワーク（DMN）と認知的孵化
 
 軽い有酸素歩行とともにシンプルな物理的アンカー（石を蹴り飛ばすこと）を活用する行動は、前頭前野の過度な執着的な集中（Central Executive Network）を緩和し、脳の「デフォルト・モード・ネットワーク（DMN）」を活性化させます。石を片付けて周回数を記憶する外部保存メカニズムは、作業記憶（RAM）の消費を防ぎます。その結果、昼の間に収集された観察情報と断片化された無関連知識が無意識の中で自発的に再結合する「認知的孵化（Cognitive Incubation）」現象が促進され、解けなかった複雑な難題の思索的解決策を導き出すことになります。
 
 ---
 
-## 注意事項＆ヒント：デジタル刺激の隔離と雑念の渦の遮断
-
-思索散策中、脳が無意味な職場の心配や情緒的な雑念の渦に陥らないよう注意してください。ダーウィンのように石を蹴り飛ばす回数計算ルールのようなミニマルな物理的アンカー信号をセットし、スマートフォンの通知を全面遮断したまま足取りと風景の刺激にのみ注意を委ねてこそ、認知的孵化およびDMN稼働効果を完全に得ることができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：デジタル刺激の隔離と雑念の渦の遮断
+
+思索散策中、脳が無意味な職場の心配や情緒的な雑念の渦に陥らないよう注意してください。ダーウィンのように石を蹴り飛ばす回数計算ルールのようなミニマルな物理的アンカー信号をセットし、スマートフォンの通知を全面遮断したまま足取りと風景の刺激にのみ注意を委ねてこそ、認知的孵化およびDMN稼働効果を完全に得ることができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ダーウィンの「サンドウォーク（Sandwalk）」ルーティンとは正確に何ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       ダーウィンがロンドン近郊のダウン・ハウス自邸の周りに直接造成した思索専用の砂利・土の道で、毎日午前中に歩きながら石で周回数を数えて作業記憶の負荷を減らし、『種の起源』の難題を整理した思索ルーティンです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>散策する間、継続して意図的に考えを絞り出さなければなりませんか？</span>

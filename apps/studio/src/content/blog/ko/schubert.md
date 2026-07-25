@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "기상 직후 안경을 쓴 채 작곡 오선지로 나아간 슈베르트의 즉각 집필 루틴"
 description: "31세의 짧은 생애 동안 600곡 이상의 가곡을 남긴 가곡의 왕으로, 기상 직후 안경을 쓴 채 꿈의 잔상을 오선지에 옮겨 담았습니다."
 pubDate: "2026-07-08"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Schubert 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 schubert 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Schubert 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 성공을 자아내는 뇌과학적 원리 분석
+## 1. 성공을 자아내는 뇌과학적 원리 분석
 
 기상 직후의 인간 두뇌는 논리적 인지 필터와 잡념이 들어차기 전인 창의적 쎄타파(Theta waves) 상태를 유지합니다. 슈베르트처럼 기상과 핵심 창의 행동 사이의 준비 단계(스마트폰 확인, 세수, 책상 정돈 등)를 완벽하게 차단하여 행동 마찰력(Friction)을 제로로 만들면, 뇌 속 무의식에 잠재해 있던 찬란한 직관적 아이디어를 온전히 손끝으로 길어 올려 종이 위에 고정할 수 있습니다.
 
 ---
 
-## 성공적인 안착을 위한 행동과학 조언
-
-아침 기상 후 단 10초라도 스마트폰의 알림이나 카카오톡 메시지를 확인하는 순간, 뇌는 타인의 정보 스트레스 파도에 잠식되어 고유한 쎄타파 무의식 상태를 완전히 잃어버리므로 주의하십시오.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 성공적인 안착을 위한 행동과학 조언
+
+아침 기상 후 단 10초라도 스마트폰의 알림이나 카카오톡 메시지를 확인하는 순간, 뇌는 타인의 정보 스트레스 파도에 잠식되어 고유한 쎄타파 무의식 상태를 완전히 잃어버리므로 주의하십시오.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>아침 무의식 스크랩 필기를 한 후 다시 잠이 쏟아지면 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       괜찮습니다. 펜을 쥐고 머릿속 생각을 쏟아내는 단 2분 동안 쎄타파 포착 임무는 이미 성공적으로 끝났습니다. 기록 직후 가볍게 물을 마시거나 스트레칭을 하여 신체 각성 신호를 뇌에 던지면 잠이 금방 소거됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>기상 직후 적을 내용이 전혀 떠오르지 않을 때는 어떻게 해야 하나요?</span>

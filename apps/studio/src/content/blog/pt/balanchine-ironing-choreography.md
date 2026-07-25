@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Dança do Inconsciente: O Método de Coreografia de George Balanchine Através de Tarefas Domésticas Simples"
 description: "Descubra como o coreógrafo George Balanchine realizava tarefas domésticas simples e repetitivas, como passar roupa, para conceber ideias durante bloqueios criativos, e entenda o mecanismo neural em que a atividade física leve desliga a censura pré-frontal para ativar a Rede de Modo Padrão (DMN)."
 pubDate: "2026-04-01"
@@ -33,25 +34,23 @@ No artigo de hoje, analisamos como a rotina de tarefas motoras simples de George
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre balanchine-ironing-choreography é baseada em <strong>Verificação Histórica da Biografia de George Balanchine *By George Balanchine* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de George Balanchine *By George Balanchine* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaxamento da Censura Pré-Frontal e Ativação dos Circuitos Associativos da DMN
+## 1. Relaxamento da Censura Pré-Frontal e Ativação dos Circuitos Associativos da DMN
 
 Quando nos concentramos intensamente para resolver um problema, o córtex pré-frontal do cérebro ativa fortemente o controle analítico de cima para baixo (Top-down Control), filtrando sem piedade ideias incomuns que parecem ilógicas. Esse estado de 'censura pré-frontal' aprisiona a criatividade. Por outro lado, realizar tarefas motoras simples e monótonas (Monotonous Motor Task), como passar roupa ou limpar, relaxa a hiperatividade pré-frontal. Aproveitando essa brecha, a Rede de Modo Padrão (DMN) do cérebro se ativa, permitindo que diversos fragmentos de memória dispersos no subconsciente se recombinem livre e inesperadamente (Combinatorial Play). Como resultado, os movimentos coreográficos bloqueados emergem naturalmente no ritmo repetitivo do ferro.
 
 ---
 
-## Precauções e Dicas: Exclusão de Atividades Cognitivamente Exigentes
-
-Ao espaçar a mente usando tarefas leves ou movimentos corporais, evite atividades que exijam alta atenção ou processamento cognitivo. Por exemplo, tentar cozinhar uma receita complexa ou ouvir notícias econômicas enquanto limpa constitui 'multitarefa', o que impede o cérebro de entrar no estado DMN e apenas aumenta a fadiga cognitiva. A chave é apoiar frouxamente a atenção apenas no toque das mãos e no movimento rítmico do corpo, permitindo que a mente vagueie livremente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Ao espaçar a mente usando tarefas leves ou movimentos corporais, evite atividad
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Exclusão de Atividades Cognitivamente Exigentes
+
+Ao espaçar a mente usando tarefas leves ou movimentos corporais, evite atividades que exijam alta atenção ou processamento cognitivo. Por exemplo, tentar cozinhar uma receita complexa ou ouvir notícias econômicas enquanto limpa constitui 'multitarefa', o que impede o cérebro de entrar no estado DMN e apenas aumenta a fadiga cognitiva. A chave é apoiar frouxamente a atenção apenas no toque das mãos e no movimento rítmico do corpo, permitindo que a mente vagueie livremente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

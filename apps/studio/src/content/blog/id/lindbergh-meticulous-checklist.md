@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mengeliminasi Kesalahan Kognitif Manusia Hingga Nol: Rutinitas Eksekusi Daftar Periksa Charles Lindbergh dan Perlindungan Memori Kerja"
 description: "Pelajari bagaimana pahlawan penerbangan Charles Lindbergh menyelesaikan penerbangan solo lintas Atlantik pertama dengan mengandalkan daftar periksa tertulis. Temukan perlindungan memori kerja prefrontal, pencegahan kesalahan omisi, dan panduan 3 langkah."
 pubDate: "2026-04-25"
@@ -33,25 +34,23 @@ Seperti yang didokumentasikan dalam autobiografinya yang memenangkan Penghargaan
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai lindbergh-meticulous-checklist didasarkan pada <strong>Verifikasi Historis dari Autobiografi Charles Lindbergh *The Spirit of St. Louis* (1953), Arsip Penerbangan & Penelitian Neurosains Kognitif serta Teknik Faktor Manusia</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Charles Lindbergh *The Spirit of St. Louis* (1953), Arsip Penerbangan & Penelitian Neurosains Kognitif serta Teknik Faktor Manusia</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Perlindungan Memori Kerja Korteks Prefrontal dan Mencegah Kesalahan Omisi
+## 1. Perlindungan Memori Kerja Korteks Prefrontal dan Mencegah Kesalahan Omisi
 
 Saat mengeksekusi tugas berurutan yang rumit di bawah stres atau kelelahan yang parah, <strong>Korteks Prefrontal</strong> mengeluarkan energi metabolik yang sangat besar untuk mempertahankan item di <strong>Memori Kerja</strong>. Untuk menghemat energi, jaringan eksekutif secara naluriah memotong langkah-langkah prosedural, menyebabkan <strong>Kesalahan Omisi (Omission Error)</strong> yang fatal. Secara fisik mencocokkan daftar periksa item-demi-item sepenuhnya memindahkan beban hafalan.
 
 ---
 
-## Perhatian: Mengeliminasi Pemindaian Visual Implisit untuk Berkomitmen pada Verifikasi Penunjukan Taktil Satu-per-Satu
-
-Nilai inti dari daftar periksa bergantung pada sinkronisasi sensorik fisik—menelusuri item secara individu dengan jari atau kursor. Pemindaian visual implisit yang dikombinasikan dengan menganggap 'semuanya telah diperiksa' gagal mencegah ilusi optik. Anda harus mempertahankan kebiasaan menunjuk setiap item secara fisik.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Nilai inti dari daftar periksa bergantung pada sinkronisasi sensorik fisik—men
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengeliminasi Pemindaian Visual Implisit untuk Berkomitmen pada Verifikasi Penunjukan Taktil Satu-per-Satu
+
+Nilai inti dari daftar periksa bergantung pada sinkronisasi sensorik fisik—menelusuri item secara individu dengan jari atau kursor. Pemindaian visual implisit yang dikombinasikan dengan menganggap 'semuanya telah diperiksa' gagal mencegah ilusi optik. Anda harus mempertahankan kebiasaan menunjuk setiap item secara fisik.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah daftar periksa yang lebih panjang dan lebih detail selalu lebih baik untuk mencegah kesalahan kognitif?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Nilai inti dari daftar periksa bergantung pada sinkronisasi sensorik fisik—men
       Tidak. Ketika daftar periksa menjadi terlalu panjang, otak mengalami kelelahan dan memicu perilaku lewati otomatis. Secara neurosains, membatasi daftar periksa secara ketat pada 5 hingga 9 poin pemeriksaan kritis utama adalah hal yang optimal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Jenis tugas apa yang paling diuntungkan dari menerapkan rutinitas eksekusi daftar periksa terstruktur?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎夜暗い病室の廊下4マイルを巡回したナイチンゲールの定量衛生診断ルーティン"
 description: "現代看護学の創始者であり先駆的な統計学者として、軍の衛生状態と死亡原因を図表化し革新的な改革を導きました。"
 pubDate: "2026-03-20"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「nightingale」は <strong>フローレンス・ナイチンゲールの歴史的評伝・自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>フローレンス・ナイチンゲールの歴史的評伝・自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 成功を生み出す脳科学的原理の分析
+## 1. 成功を生み出す脳科学的原理の分析
 
 環境の些細な危険要素や他者の身体的サインを綿密に注視し、データを定量化する行為は、大脳皮質のミラーニューロン（Mirror Neurons）と前頭葉の認知フィルター網を強力に刺激します。定性的な現象を定量化された数値に変換して記録するプロセスは、脳の背外側前頭前野を呼び覚まし、日常で見落とされがちな微小なビジネスリスクやシステムエラーを先制的に捉えるメタ認知的解像度を向上させます。
 
 ---
 
-## 習慣の定着に向けた行動科学のアドバイス
-
-空間を完璧に大掃除しようとする強迫観念は、かえって脳の意志力リソースを大きく消耗させ日課を台無しにします。簡単なミクロ環境の整理と状態診断を朝の3分以内に終わらせる軽やかさに焦点を当ててください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 習慣の定着に向けた行動科学のアドバイス
+
+空間を完璧に大掃除しようとする強迫観念は、かえって脳の意志力リソースを大きく消耗させ日課を台無しにします。簡単なミクロ環境の整理と状態診断を朝の3分以内に終わらせる軽やかさに焦点を当ててください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>環境の微小診断を記録する行為は自尊心にも影響を与えますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、深い関連があります。脳は周囲の極小環境（デスクの明るさ、清潔さなど）をコントロールし、その結果を視覚データとして書き留める際、前頭葉に「自己効力感」をもたらすドパミンを分泌して不安を鎮めます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Eメールやメッセンジャーのようなデジタル環境の整理にも同様に作用しますか？</span>

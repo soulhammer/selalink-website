@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Raja Mobil yang Menggambar Inovasi Saat Menyusuri Lini Produksi: Sketsa Alur Diagram dan Rutinitas Eksternalisasi Kognitif Henry Ford"
 description: "Pelajari bagaimana Henry Ford, pelopor lini perakitan bergerak, mengurangi beban prefrontal dengan menyusuri pabrik dan menggambar sketsa alur kerja di buku catatan saku. Temukan neurosains tentang pelacakan visual dan eksternalisasi kognitif."
 pubDate: "2026-06-23"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis prinsip-prinsip fisiologis di balik 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai ford-line-walking didasarkan pada <strong>Verifikasi Historis dari Biografi Henry Ford *My Life and Work*, Biografi Historis & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Henry Ford *My Life and Work*, Biografi Historis & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pelacakan Visual Halus dan Neurosains Eksternalisasi Kognitif
+## 1. Pelacakan Visual Halus dan Neurosains Eksternalisasi Kognitif
 
 Melacak secara visual <strong>gerakan mekanis yang teratur (Smooth Pursuit)</strong>, seperti komponen lini perakitan, menyinkronkan korteks visual dengan sirkuit kontrol motorik otak kecil, menenangkan kebisingan saraf dan memfokuskan perhatian. Selain itu, menerjemahkan proses logika rumit menjadi bentuk geometris dan panah di atas kertas menghasilkan <strong>Eksternalisasi Kognitif (Cognitive Offloading)</strong> yang kuat.
 
 ---
 
-## Perhatian: Memanfaatkan Umpan Balik Gesekan Taktil dan Fokus Analog
-
-Mengandalkan layar sentuh digital saat memetakan konsep membuat otak terpapar notifikasi dan gangguan cahaya biru. Permukaan kaca tanpa gesekan mengurangi stimulasi somatosensori hingga lebih dari 50%. Untuk memaksimalkan pemahaman diagram, gunakan pensil di atas buku catatan kertas; resistensi taktil memberikan umpan balik sensorik yang memperkuat kejelasan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Mengandalkan layar sentuh digital saat memetakan konsep membuat otak terpapar no
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Memanfaatkan Umpan Balik Gesekan Taktil dan Fokus Analog
+
+Mengandalkan layar sentuh digital saat memetakan konsep membuat otak terpapar notifikasi dan gangguan cahaya biru. Permukaan kaca tanpa gesekan mengurangi stimulasi somatosensori hingga lebih dari 50%. Untuk memaksimalkan pemahaman diagram, gunakan pensil di atas buku catatan kertas; resistensi taktil memberikan umpan balik sensorik yang memperkuat kejelasan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah boleh mengganti kertas dengan menggambar menggunakan stylus digital di tablet?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Mengandalkan layar sentuh digital saat memetakan konsep membuat otak terpapar no
       Layar digital tidak memiliki gesekan fisik, mengurangi umpan balik somatosensori dan menghadirkan gangguan digital. Kertas fisik memberikan resistensi ujung pena yang menstimulasi sirkuit kortikal secara lebih mendalam. Penggunaan kertas nyata sangat direkomendasikan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah menggambar sketsa diagram saat duduk diam sama efektifnya dengan berjalan?</span>

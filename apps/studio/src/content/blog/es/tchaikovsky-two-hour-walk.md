@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspiración de una caminata diaria de dos horas: El hábito creativo de caminar de Chaikovski"
 description: "El gran compositor ruso Piotr Ilich Chaikovski caminaba exactamente dos horas todos los días para generar ideas musicales. Exploramos la caminata continua y los principios neurocientíficos de la Red por Defecto (DMN)."
 pubDate: "2026-06-01"
@@ -34,22 +35,20 @@ En este artículo, examinamos las razones científicas detrás de las caminatas 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre tchaikovsky-two-hour-walk se basa en <strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estabilización de los ritmos de ondas cerebrales mediante una caminata disciplinada de dos horas
+## 1. Estabilización de los ritmos de ondas cerebrales mediante una caminata disciplinada de dos horas
 
 El hábito disciplinado de Chaikovski de caminar al aire libre durante exactamente dos horas todos los días a una hora fija aumentó el flujo sanguíneo a la corteza visoespacial y al hipocampo, incubando hermosas melodías sinfónicas en su mente. La caminata continua activa la Red por Defecto (DMN), facilitando la combinación de recuerdos inconscientes y melodías emocionales.
 
 ---
 
-## Importancia de Cumplir con la Disciplina de la Caminata
-
-Al igual que Chaikovski protegía strictly su tiempo de caminata, las distracciones externas como teléfonos o notificaciones de trabajo deben bloquearse completamente. Complete la rutina de caminata establecida para permitir que su cerebro alcance la calma emocional y la inmersión creativa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Al igual que Chaikovski protegía strictly su tiempo de caminata, las distraccio
     Complete la rutina completa de caminata de dos horas sin abandonar a la mitad para aumentar el flujo sanguíneo cerebral y relajar el sistema nervioso, luego regrese de inmediato a su escritorio para organizar sus pensamientos.
   </p>
 </div>
+
+---
+
+## 3. Importancia de Cumplir con la Disciplina de la Caminata
+
+Al igual que Chaikovski protegía strictly su tiempo de caminata, las distracciones externas como teléfonos o notificaciones de trabajo deben bloquearse completamente. Complete la rutina de caminata establecida para permitir que su cerebro alcance la calma emocional y la inmersión creativa.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

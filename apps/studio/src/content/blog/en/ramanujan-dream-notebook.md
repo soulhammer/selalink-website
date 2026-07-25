@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Genius Who Saw Mathematical Theorems in Dreams? Srinivasa Ramanujan's Post-Waking Note Routine"
 description: "Srinivasa Ramanujan, a genius in number theory and infinite series. Explore his brain reset method of transferring intuitive inspiration gained during REM sleep into a 3-minute note immediately upon waking, along with a 3-step practical routine for modern people."
 pubDate: "2026-01-15"
@@ -36,14 +37,14 @@ This article explores the scientific working mechanism of Ramanujan's lifelong '
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding ramanujan-dream-notebook is based on <strong>Historical critical biography and autobiographical records of Srinivasa Ramanujan & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical critical biography and autobiographical records of Srinivasa Ramanujan & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Coupling Mechanism of Alpha Waves and Default Mode Network Post-Waking
+## 1. Coupling Mechanism of Alpha Waves and Default Mode Network Post-Waking
 
 During the first 5 to 10 minutes immediately after waking up, the human brain flexibly remains in Alpha wave and slow Theta wave states—the boundary between consciousness and unconsciousness—before the critical logic of the frontal lobe fully activates. During this window, novel associative connections recombined overnight by the brain's Default Mode Network (DMN) smoothly surface without evaporating.
 
@@ -51,9 +52,7 @@ Most modern people check smartphone notifications or emails as soon as they open
 
 ---
 
-## Caution Against Smartphone Media Exposure Post-Waking and Forced Beta Wave Shift
-
-Checking message notifications, news, or social media immediately upon opening your eyes forces the brain into a tense high-frequency Beta wave state. At this moment, the brain begins passively responding to external stimuli, instantly evaporating the ideas and intuitions refined by the subconscious overnight. Completely block digital media access for at least 5 to 10 minutes after waking and focus on your own intuition.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Checking message notifications, news, or social media immediately upon opening y
   </p>
 </div>
 
+---
+
+## 3. Caution Against Smartphone Media Exposure Post-Waking and Forced Beta Wave Shift
+
+Checking message notifications, news, or social media immediately upon opening your eyes forces the brain into a tense high-frequency Beta wave state. At this moment, the brain begins passively responding to external stimuli, instantly evaporating the ideas and intuitions refined by the subconscious overnight. Completely block digital media access for at least 5 to 10 minutes after waking and focus on your own intuition.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What should I do if no dreams or morning inspiration come to mind?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Checking message notifications, news, or social media immediately upon opening y
       There is no need to force ideas out. Simply jotting down a word or mood lingering in your mind while groggy, or a single problem you wish to solve today, strengthens Alpha wave circuits and gradually opens the door to your subconscious.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it okay to use a memo app or voice recording on my smartphone?</span>

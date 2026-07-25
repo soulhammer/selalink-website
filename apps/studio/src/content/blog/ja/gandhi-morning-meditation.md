@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "静かな夜明けに回す糸車：マハトマ・ガンジーの早朝瞑想ルーティンとアクティブ・メディテーション"
 description: "インドの偉大な平和運動家マハトマ・ガンジー。毎日早朝4時に起きて瞑想をし糸車を回した彼の朝の習慣と、指先の反復的な動きがセロトニンを刺激する脳科学的原理を解き明かします。"
 pubDate: "2026-03-23"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「gandhi-morning-meditation」は <strong>マハトマ・ガンジー自伝『真理の実験（An Autobiography: The Story of My Experiments with Truth）』および評伝考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マハトマ・ガンジー自伝『真理の実験（An Autobiography: The Story of My Experiments with Truth）』および評伝考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 反復運動がセロトニンを刺激する「アクティブ・メディテーション（活動的瞑想）」
+## 1. 反復運動がセロトニンを刺激する「アクティブ・メディテーション（活動的瞑想）」
 
 瞑想が単にじっと座っている静的な行為であるとすれば、糸車を回すことは体を動かして集中を誘導する<strong>「アクティブ・メディテーション（Active Meditation）」</strong>です。脳科学的に指先の感覚を繊細に使いながら規則的な円形のリズムを反復する運動は、脳の感情調節物質である<strong>セロトニン（Serotonin）</strong>の分泌を促進します。セロトニンは朝に脳を清らかに呼び覚まし、不安と怒りを抑制して高度の平穏をプレゼントします。また、糸が切れないように強度を調節する高度の指先の微細な集中（Fine Focus）は、雑念を司る大脳のネットワークを即座に抑制し、注意を現在の状態に確固として繋ぎ止めます。ガンジーが巨大な歴史の渦の中でも生涯ブレないマインドを維持できた生理的源泉は、まさに毎日早朝の糸車の単純なリズムを通じて<strong>自律神経系（HRV）</strong>を整え、ストレスを掃除したおかげでした。
 
 ---
 
-## 注意事項：道具より重要な「指先の微細反復リズム」集中ルール
-
-現代人にとって本物のインド式糸車（チャルカ）を手に入れることは不可能に近いです。核心は糸車という道具ではなく「指先の刺激を伴う単純な反復リズム」にあります。手書きの書写、編み物や裁縫、お茶を道具でゆっくり淹れること、さらにはレゴブロックの組み立てなど、指先の微細な感覚を使う10分間の反復儀式で同じ脳科学的効果を享受してみてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：道具より重要な「指先の微細反復リズム」集中ルール
+
+現代人にとって本物のインド式糸車（チャルカ）を手に入れることは不可能に近いです。核心は糸車という道具ではなく「指先の刺激を伴う単純な反復リズム」にあります。手書きの書写、編み物や裁縫、お茶を道具でゆっくり淹れること、さらにはレゴブロックの組み立てなど、指先の微細な感覚を使う10分間の反復儀式で同じ脳科学的効果を享受してみてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>糸車を回す代わりに活用できる現代的な触覚瞑想活動には何がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       指先の細やかな動きを要するすべてのリズム活動が良いです。代表的には万年筆での書写、静かな編み物やかぎ針編み、お茶を淹れる茶道の行為、レゴやパズルの組み立て、フィンガードラムの演奏などが脳科学的に同じセロトニン刺激効果をもたらします。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>指先のリズム活動をしている間、雑念や考え事が頻繁に浮かぶ時はどうすればよいですか？</span>

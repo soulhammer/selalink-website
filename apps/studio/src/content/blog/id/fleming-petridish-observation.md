@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Penyelamatan Umat Manusia dari Tempat Sampah: Metode Pengamatan Kegagalan dan Rutinitas Penemuan Anomali Alexander Fleming"
 description: "Pelajari bagaimana Alexander Fleming, penemu penisilin yang legendaris, mengubah sejarah medis dengan mengamati cawan Petri yang terkontaminasi daripada membuangnya. Temukan neurosains tentang fiksasi kognitif dan pemikiran divergen."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik 'rutini
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai fleming-petridish-observation didasarkan pada <strong>Verifikasi Historis dari *The Life of Sir Alexander Fleming* karya André Maurois, Arsip Nobel & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *The Life of Sir Alexander Fleming* karya André Maurois, Arsip Nobel & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bagaimana Pemikiran Divergen Memecahkan Fiksasi Kognitif dan Membuka Serendipitas
+## 1. Bagaimana Pemikiran Divergen Memecahkan Fiksasi Kognitif dan Membuka Serendipitas
 
 Otak manusia secara alami menghemat sumber daya kognitif dengan menyaring anomali yang menyimpang dari pola, yang dikenal sebagai <strong>Fiksasi Kognitif</strong>. Inilah alasan mengapa peneliti biasa membuang cawan Petri yang terkontaminasi tanpa berpikir panjang. Membiasakan diri mengamati hasil yang 'gagal' seperti Fleming mengaktifkan <strong>Jaringan Perhatian Frontoparietal</strong>, menyetel ulang filter kognitif. Mengeksplorasi kembali detail yang diabaikan mendorong otak ke dalam <strong>Pemikiran Divergen</strong>.
 
 ---
 
-## Perhatian: Menangkap Petunjuk di Dalam Jejak Kegagalan dan Kesalahan
-
-Saat mengalami kesalahan atau kegagalan, orang cenderung bergegas menghapus atau melupakannya karena stres kognitif. Namun, seperti yang dibuktikan oleh cawan Petri Fleming, terobosan kreatif jarang muncul dari kesuksesan yang murni; terobosan tersebut bersembunyi di dalam kontaminasi dan anomali yang tidak disengaja.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Saat mengalami kesalahan atau kegagalan, orang cenderung bergegas menghapus atau
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Menangkap Petunjuk di Dalam Jejak Kegagalan dan Kesalahan
+
+Saat mengalami kesalahan atau kegagalan, orang cenderung bergegas menghapus atau melupakannya karena stres kognitif. Namun, seperti yang dibuktikan oleh cawan Petri Fleming, terobosan kreatif jarang muncul dari kesuksesan yang murni; terobosan tersebut bersembunyi di dalam kontaminasi dan anomali yang tidak disengaja.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah menganalisis kegagalan justru tidak akan memperbesar frustrasi mental?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Saat mengalami kesalahan atau kegagalan, orang cenderung bergegas menghapus atau
       Mencoba mengabaikan kesalahan justru memperpanjang kecemasan. Sebaliknya, mencatat data faktual objektif mengenai alasan terjadinya kesalahan memberi sinyal ke otak bahwa Anda telah mendapatkan kembali 'kendali' atas situasi tersebut, menurunkan kecemasan dan menyalakan kembali motivasi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ada latihan pelatihan otak khusus untuk menangkap penemuan serendipitas secara lebih baik?</span>

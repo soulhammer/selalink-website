@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "매일 4시간씩 숲속을 걷다: 헨리 데이비드 소로의 자연 회복 산책 루틴"
 description: "월든 호숫가를 매일 4시간씩 걸으며 관찰하고 기록했던 헨리 데이비드 소로의 루틴을 소개합니다. 자연 속 걷기가 뇌의 주의력을 회복하고 창의성을 깨우는 뇌과학적 원리를 설명합니다."
 pubDate: "2026-04-30"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>헨리 데이비드 소로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 thoreau-forest-walk 루틴을 다룹니다.
+      본 콘텐츠는 <strong>헨리 데이비드 소로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 주의력 회복 이론(ART): 지친 전두엽을 치유하는 자연의 걷기 효과
+## 1. 주의력 회복 이론(ART): 지친 전두엽을 치유하는 자연의 걷기 효과
 
 인지과학의 '주의력 회복 이론(Attention Restoration Theory)'에 따르면, 복잡한 인공적 자극이 가득한 도시 환경(신호등, 화면 정보 등)은 뇌의 의도적인 주의력 자원을 끊임없이 고갈시킵니다. 반면, 숲이나 공원 같은 자연환경은 바람에 흔들리는 나무나 나뭇잎 소리 등 '부드러운 매혹(Soft Fascination)' 자극을 주어 피로해진 전두엽 피질이 쉴 수 있게 만듭니다. 또한, 걷는 행위는 뇌의 디폴트 모드 네트워크(Default Mode Network, DMN)를 활성화하여 의식의 표면 아래 흩어져 있던 생각의 고리들을 결합하고 새로운 지적 돌파구를 열어줍니다.
 
 ---
 
-## 산책 중에는 디지털 노이즈에서 완전히 벗어나기
-
-헨리 데이비드 소로에게 자연 속 걷기는 자연과 고독하게 대화하는 신성한 의식이었습니다. 스마트폰 화면을 보거나 실시간 알림에 대응하며 걷는다면 뇌의 주의 회복 기능은 작동하지 않습니다. 걷는 동안만은 기기와 네트워크로부터 차단된 오프라인 상태가 되어 주변 식물과 계절의 변화에 내 온몸의 감각을 열어주세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     아날로그 소형 수첩과 펜을 휴대합니다. 뇌가 이완되어 번뜩이는 지적 아이디어가 나오는 찰나에 스마트폰을 켜기보다 종이 위에 바로 기록합니다.
   </p>
 </div>
+
+---
+
+## 3. 산책 중에는 디지털 노이즈에서 완전히 벗어나기
+
+헨리 데이비드 소로에게 자연 속 걷기는 자연과 고독하게 대화하는 신성한 의식이었습니다. 스마트폰 화면을 보거나 실시간 알림에 대응하며 걷는다면 뇌의 주의 회복 기능은 작동하지 않습니다. 걷는 동안만은 기기와 네트워크로부터 차단된 오프라인 상태가 되어 주변 식물과 계절의 변화에 내 온몸의 감각을 열어주세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

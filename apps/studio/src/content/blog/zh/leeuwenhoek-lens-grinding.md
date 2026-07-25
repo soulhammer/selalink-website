@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "安东尼·范·列文虎克的球形透镜打磨习惯：极精忍耐力与微观观察透视本质及小脑舒缓指南"
 description: "深度剖析微生物学之父列文虎克如何亲手打磨放大500倍的球形单透镜、进而首次发现细菌与微观生物。揭示触视觉沉浸、舒缓小脑与基底核、Alpha波心流与3步骤实践指南。"
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 leeuwenhoek-lens-grinding 的内容基于 <strong>安东尼·范·列文虎克传记史料与英国皇家学会（Royal Society）通信档案考证及认知神经科学（Cognitive Neuroscience）与运动控制学（Motor Control Science）研究</strong> 撰写。
+      本内容基于 <strong>安东尼·范·列文虎克传记史料与英国皇家学会（Royal Society）通信档案考证及认知神经科学（Cognitive Neuroscience）与运动控制学（Motor Control Science）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 舒缓小脑（Cerebellum）与基底核（Basal Ganglia）及Alpha波心流（Flow）机制
+## 1. 舒缓小脑（Cerebellum）与基底核（Basal Ganglia）及Alpha波心流（Flow）机制
 
 神经科学研究证实，将细腻恒速的重复性手部精细动作与高度聚焦的微观视觉沉浸完美结合时，主导脑波会由应激性 Beta 波平稳切换为舒缓的 <strong>Alpha 波</strong> 与 <strong>Theta 波</strong>。在此进程中，主责控制抑制性精细动作的<strong>小脑（Cerebellum）</strong>与<strong>基底核（Basal Ganglia）</strong>之异常过载兴奋重获平抚，强效抹去<strong>前额叶皮层（Prefrontal Cortex）</strong>的无谓焦虑噪点，引领大脑沉沉下沉至零杂念侵扰的巅峰<strong>心流（Flow）</strong>状态。
 
 ---
 
-## 注意事项：摒弃急功近利浮躁心，凭微观忍耐力（Micro-Patience）沉浸过程指南
-
-切勿急功近利地催讨即时成效或突破破局。破天荒的重磅发现与本质洞见，唯有在极精的<strong>微观忍耐力（Micro-Patience）</strong>与笃实长久的重复观照中方能破土而出。相比于单凭脆弱的主观意志力苦撑，预先搭建成套可锁定指尖与视线长达20分钟不偏离的精密模拟微环境与习惯触点，乃是持久维系的关键所在。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：摒弃急功近利浮躁心，凭微观忍耐力（Micro-Patience）沉浸过程指南
+
+切勿急功近利地催讨即时成效或突破破局。破天荒的重磅发现与本质洞见，唯有在极精的<strong>微观忍耐力（Micro-Patience）</strong>与笃实长久的重复观照中方能破土而出。相比于单凭脆弱的主观意志力苦撑，预先搭建成套可锁定指尖与视线长达20分钟不偏离的精密模拟微环境与习惯触点，乃是持久维系的关键所在。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>对于焦虑应激较高或注意力频频发散碎裂的人群，此习惯是否依然奏效？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，效果极其卓绝！将细腻的指尖微观运动与极精视觉沉浸紧密同步，能物理性强效镇平异常过载的杏仁核与应激神经网络，彻底压制焦虑与散漫，帮助大脑重获宁静沉稳。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>这项微观心流习惯宜在全天何种节点践行、每日频次如何掌控？</span>

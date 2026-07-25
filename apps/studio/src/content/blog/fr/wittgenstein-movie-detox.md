@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Refroidir un cerveau en surchauffe : La routine de détox au cinéma western de Ludwig Wittgenstein"
 description: "Ludwig Wittgenstein regardait des westerns au premier rang des cinémas pour réinitialiser son cerveau surchauffé par la philosophie analytique. Met en lumière la manière dont l'immersion visuelle éteint la surcharge préfrontale."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Cet article explique la routine de détox cinématographique de Wittgenstein et 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant wittgenstein-movie-detox est basée sur <strong>Documents biographiques et historiques de Ludwig Wittgenstein et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Documents biographiques et historiques de Ludwig Wittgenstein et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Réinitialisation des circuits cérébraux et incubation par réorientation forcée de l'attention
+## 1. Réinitialisation des circuits cérébraux et incubation par réorientation forcée de l'attention
 
 Lorsque le cortex préfrontal reste focalisé trop longtemps sur un sujet complexe, il subit une fatigue cognitive. Se reposer passivement laisse place aux ruminations. La routine de Wittgenstein réalise une 'réorientation forcée de l'attention'. En captant la vue et l'ouïe avec un écran simple et dynamique, les circuits d'analyse s'éteignent, activant le réseau par défaut (DMN) qui incube la solution aux problèmes.
 
 ---
 
-## Précautions et conseils
-
-Évitez les thrillers complexes, les films d'auteur ou les drames pèsants pour votre détox cérébrale. Les médias exigeant une analyse absorbent l'énergie cognitive. Privilégiez des contenus simples comme les films d'action légers ou les documentaires animaliers.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Lorsque le cortex préfrontal reste focalisé trop longtemps sur un sujet comple
     Sans évaluer le scénario, laissez simplement vos yeux suivre les images pendant 30 à 60 minutes, puis couchez-vous immédiatement.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Évitez les thrillers complexes, les films d'auteur ou les drames pèsants pour votre détox cérébrale. Les médias exigeant une analyse absorbent l'énergie cognitive. Privilégiez des contenus simples comme les films d'action légers ou les documentaires animaliers.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

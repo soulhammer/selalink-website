@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A polagem de lentes de Spinoza: Como o trabalho físico repetitivo elimina a fadiga cerebral"
 description: "Descubra como o filósofo panteísta Spinoza eliminou a sobrecarga cognitiva e restaurou a imersão profunda enquanto escrevia a 'Ética' por meio do trabalho manual de polir lentes ópticas."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ Sentado diante da bancada de trabalho, os movimentos manuais repetitivos e finos
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre spinoza-lens-grinding é baseada em <strong>Pesquisa histórica biográfica sobre a polagem de lentes de Spinoza & pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa histórica biográfica sobre a polagem de lentes de Spinoza & pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociência de como a motricidade fina previne o esgotamento cognitivo
+## 1. Neurociência de como a motricidade fina previne o esgotamento cognitivo
 
 O raciocínio racional contínuo de alto nível esgota os recursos cognitivos no córtex pré-frontal. Mudar para um trabalho manual fino focado no tato (como polir lentes) ativa o córtex motor e o cerebelo, suprimindo imediatamente a Rede de Modo Padrão (DMN) hiperativa e permitindo a recuperação do córtex pré-frontal.
 
 ---
 
-## Escolher um Trabalho Manual Totalmente Desdigitalizado
-
-Para obter esse efeito de relaxamento, você deve se desconectar completamente de smartphones ou teclados. O uso de dispositivos digitais ainda exige do cérebro alto cálculo lógico. Escolha atividades físicas simples que exijam apenas feedback tátil e controle viso-espacial, como lavar louça, caligrafia ou montagem artesanal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,9 +80,15 @@ Para obter esse efeito de relaxamento, você deve se desconectar completamente d
   </p>
 </div>
 
+---
+
+## 3. Escolher um Trabalho Manual Totalmente Desdigitalizado
+
+Para obter esse efeito de relaxamento, você deve se desconectar completamente de smartphones ou teclados. O uso de dispositivos digitais ainda exige do cérebro alto cálculo lógico. Escolha atividades físicas simples que exijam apenas feedback tátil e controle viso-espacial, como lavar louça, caligrafia ou montagem artesanal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

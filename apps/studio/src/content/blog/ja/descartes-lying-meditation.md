@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ベッドで昼まで起きなかった天才：ルネ・デカルテの瞑想思索ルーティンとアルファ波リラックス"
 description: "近代哲学の父であり数学者のルネ・デカルテが毎朝ベッドに横たわり思索と瞑想に没頭したルーティン。水平姿勢維持による低コルチゾール状態とアルファ波（Alpha Wave）誘導の認知神経科学的原理を解き明かします。"
 pubDate: "2026-01-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「descartes-lying-meditation」は <strong>ルネ・デカルテ『Discourse on the Method（方法序説）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ルネ・デカルテ『Discourse on the Method（方法序説）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 水平姿勢維持による低コルチゾール（Low Cortisol）リラックスとアルファ波（Alpha Wave）誘導
+## 1. 水平姿勢維持による低コルチゾール（Low Cortisol）リラックスとアルファ波（Alpha Wave）誘導
 
 朝起床直後に急激に身体を起こして活動を開始すると、脳はコルチゾール覚醒反応（CAR、Cortisol Awakening Response）を過剰に起こし、交感神経が興奮して高頻度のベータ波（Beta Waves）状態に入ります。一方、デカルテのように起床後水平姿勢（Horizontal Posture）を維持すると、急激なコルチゾールの急増を遮断し、脳波を緩やかで深い8〜12Hzの「アルファ波（Alpha Wave）」状態へと安定させます。筋肉が完全リラックスした水平状態では骨格筋刺激による感覚情報負荷が遮断されるため、前頭前野がただ高度な演繹的論理構成と構造化にのみ100％の認知リソースを没頭させることができます。
 
 ---
 
-## 注意事項＆ヒント：睡眠延長の変質遮断と単一課題の明確なセットアップ
-
-ベッドの上の思索が単なる怠惰な二度寝や睡眠延長（怠惰な再入眠）へと変質しないよう注意しなければなりません。目を覚ました直後スマートフォンのメディアを見つめてドパミンを貪る行動は、脳波を無気力に攪乱させます。起床直後5〜10分間は覚醒状態を維持しつつ身体のみを横たえたまま、今日解決すべきただ一つの核心課題や論理の構造化にのみ明確に脳の注意力をバインディングしてこそ、デカルテ的瞑想効果が現れます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：睡眠延長の変質遮断と単一課題の明確なセットアップ
+
+ベッドの上の思索が単なる怠惰な二度寝や睡眠延長（怠惰な再入眠）へと変質しないよう注意しなければなりません。目を覚ました直後スマートフォンのメディアを見つめてドパミンを貪る行動は、脳波を無気力に攪乱させます。起床直後5〜10分間は覚醒状態を維持しつつ身体のみを横たえたまま、今日解決すべきただ一つの核心課題や論理の構造化にのみ明確に脳の注意力をバインディングしてこそ、デカルテ的瞑想効果が現れます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>朝のベッドの上の瞑想が本当に脳科学的に認知能力向上に効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、非常に優れた生理学的効果が立証されています。起床直後の水平姿勢は急激なコルチゾールホルモンの急増を防ぎ、自律神経系のバランスを維持し、脳波をアルファ波（8〜12Hz）状態に固定して前頭前野の直感的な演繹能力と認知的明瞭さを飛躍的に引き上げます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ベッドと思策中に再び眠ってしまい出勤時間に遅れないか心配ですが、どうすればよいですか？</span>

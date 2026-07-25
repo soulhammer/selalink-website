@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Miracle at 4 AM: Kobe Bryant's Mamba Training Routine"
 description: "Discover how basketball icon Kobe Bryant initiated his first training session at 4 AM daily, and explore the neuroscientific and physiological principles of how consistent early-morning workouts lock circadian rhythms and peak physical performance."
 pubDate: "2026-01-19"
@@ -38,22 +39,20 @@ In today's post, we examine the physiological and neuroscientific mechanisms beh
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bryant-four-am-workout is based on <strong>Historical Verification from Kobe Bryant's Autobiography *The Mamba Mentality: How I Play* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Kobe Bryant's Autobiography *The Mamba Mentality: How I Play* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Physiological Mechanisms of Suprachiasmatic Nucleus (SCN) Realignment and Motor Neural Arousal
+## 1. Physiological Mechanisms of Suprachiasmatic Nucleus (SCN) Realignment and Motor Neural Arousal
 
 Consistently executing high-intensity movement at an identical early-morning hour aligns the hypothalamus's 'Suprachiasmatic Nucleus (SCN)' to that schedule. 1) The SCN initiates early cortisol secretion and proactively raises core body temperature and cardiovascular tone, neutralizing post-waking sleep inertia and motor deficits. 2) Regular early workout routines condition the Autonomic Nervous System (ANS) to optimize metabolic energy allocation early in the day, elevating neuromuscular responsiveness, cardiorespiratory efficiency, and executive control to daytime peaks.
 
 ---
 
-## Caution & Tips: Securing Total Sleep Quantity (7–8 Hours) & Essential Warm-Up
-
-A 4 AM wake-up routine cannot succeed on sleep deprivation. To rise at 4 AM, you must secure 7 to 8 hours of essential sleep by going to bed between 9 PM and 10 PM the night before. Executing early routines on sleep deficit induces central nervous system fatigue and immune suppression. Furthermore, because joints, ligaments, and blood vessels are rigid right after waking, performing at least 10 minutes of dynamic warm-up and joint mobilization is mandatory to prevent injury.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A 4 AM wake-up routine cannot succeed on sleep deprivation. To rise at 4 AM, you
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Securing Total Sleep Quantity (7–8 Hours) & Essential Warm-Up
+
+A 4 AM wake-up routine cannot succeed on sleep deprivation. To rise at 4 AM, you must secure 7 to 8 hours of essential sleep by going to bed between 9 PM and 10 PM the night before. Executing early routines on sleep deficit induces central nervous system fatigue and immune suppression. Furthermore, because joints, ligaments, and blood vessels are rigid right after waking, performing at least 10 minutes of dynamic warm-up and joint mobilization is mandatory to prevent injury.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Should I strictly maintain the 4 AM wake-up schedule on weekends and holidays?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A 4 AM wake-up routine cannot succeed on sleep deprivation. To rise at 4 AM, you
       For optimal circadian alignment, it is ideal to keep weekend wake-up variations within 1 hour of your weekday routine. Excessive weekend sleeping resets the SCN's internal clock, compounding Monday morning fatigue. Consistency is key to preserving circadian health.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does performing intellectual tasks (work, reading) immediately following a 4 AM workout boost brain focus?</span>

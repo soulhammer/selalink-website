@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "理清灵魂秩序的夜晚：毕达哥拉斯的晚间自我反省习惯"
 description: "毕达哥拉斯每晚睡前三次元想和反思当天的言行。探讨睡前唤醒元认知的3种自问仪式在强化情景记忆和提高情绪调节能力方面的神经生理学效果。"
 pubDate: "2026-04-06"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 pythagoras-evening-examination 的内容基于 <strong>毕达哥拉斯晚间自我反省历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>毕达哥拉斯晚间自我反省历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 睡前记忆整合与情绪稳定的大脑科学原理
+## 1. 睡前记忆整合与情绪稳定的大脑科学原理
 
 睡眠是白天存储在海马体中的短期记忆被转移到大脑皮层并固定为长期记忆（Memory Consolidation）的关键时间。在入睡前有意识地回顾一天的行为，能向大脑提供一份“优先加工并保存哪些情节”的蓝图。此外，道德和认知上评估自身行为的“自我监控”过程能够强化额叶的抑制回路，净化情绪沉淀（宣泄），并激活副交感神经系统，从而诱发深度慢波睡眠。
 
 ---
 
-## 注意事项与提示
-
-晚间反省的最大风险是让反省演变成自责或反刍（Rumination）。如果感情用事地沉溺于今天发生的坏事并反复咀嚼，就会分泌压力荷尔蒙皮质醇，反而导致失眠。进行反省时，务必保持“认知距离（Cognitive Distance）”，严格以第三者的立场客观审视事件本身，专注于“下次我会这样改进”等替代行为方案，而非自责。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示
+
+晚间反省的最大风险是让反省演变成自责或反刍（Rumination）。如果感情用事地沉溺于今天发生的坏事并反复咀嚼，就会分泌压力荷尔蒙皮质醇，反而导致失眠。进行反省时，务必保持“认知距离（Cognitive Distance）”，严格以第三者的立场客观审视事件本身，专注于“下次我会这样改进”等替代行为方案，而非自责。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>整天太忙太累，反省到一半就睡着了怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       累得睡着是很自然的事。不过，可以像写日记一样坐在书桌前简短记录5分钟，而不是躺在床上，这有助于防止因过于放松而过早入睡和睡眠惯性。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>因自责而夜不能寐时该怎么办？</span>

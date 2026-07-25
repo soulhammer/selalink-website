@@ -21,6 +21,7 @@ faqs:
     answer: "Sprouts and green skin contain solanine, a toxic glycolalkaloid. You must slice away green skin thickly and dig out sprout eyes deeply before cooking."
   - question: "Why shouldn't raw potatoes be refrigerated?"
     answer: "Cold temperatures below 4°C convert potato starch into sugar. When cooked at high heat, this sugar reacts to form acrylamide, a potential carcinogen."
+
 ---
 
 Avez-vous rangé vos pommes de terre dans le bac à légumes du frigo ? Les températures inférieures à 4 °C poussent la pomme de terre à produire de l'acrylamide, un cancérigène. Aujourd'hui, FreshSnap vous montre comment faire.
@@ -29,10 +30,10 @@ Avez-vous rangé vos pommes de terre dans le bac à légumes du frigo ? Les temp
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autorité Scientifique Vérifiée
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce guide de conservation est basé sur les directives officielles de : <strong>MFDS & RDA & FSA</strong>.
+      Based on official storage standards. <strong>MFDS & RDA & FSA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper les pommes de terre sèches de journal/sac papier — Stockage à Temp. Ambiante (45Jours) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stocker à temp. ambiante avec une pomme — Éviter la germination 🍎</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ne pas réfrigérer — Éviter l'altération de l'amidon ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

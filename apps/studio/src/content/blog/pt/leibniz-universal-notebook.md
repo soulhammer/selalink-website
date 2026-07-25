@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Caderno Único do Conhecimento Universal: A Rotina de Livro de Lugares-Comuns e Potenciação de Longo Prazo de Gottfried Wilhelm Leibniz"
 description: "Descubra como o matemático Gottfried Wilhelm Leibniz consolidou todo o seu conhecimento em um único caderno categorizado (Commonplace Book). Explore a neurociência das redes semânticas, Potenciação de Longo Prazo (LTP), síntese de ideias e um guia de 3 passos."
 pubDate: "2026-02-27"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre leibniz-universal-notebook é baseada em <strong>Verificação Histórica das Biografias de Gottfried Wilhelm Leibniz, Arquivos de Leibniz (Hannover) e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Biografias de Gottfried Wilhelm Leibniz, Arquivos de Leibniz (Hannover) e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Potenciação de Longo Prazo (LTP) Sináptica e Neurociência das Redes Semânticas
+## 1. Potenciação de Longo Prazo (LTP) Sináptica e Neurociência das Redes Semânticas
 
 O córtex cerebral recupera informações mais rapidamente quando constrói uma <strong>Rede Semântica (Semantic Network)</strong> conectada a índices de conhecimentos existentes, em vez de acumular fragmentos isolados. Consolidar o conhecimento em um único caderno e indexar as notas mantém a estimulação sináptica, desencadeando a <strong>Potenciação de Longo Prazo (LTP)</strong>. Nesse espaço unificado, ideias de diferentes áreas se cruzam, permitindo que o <strong>Córtex Pré-frontal</strong> gere insights inovadores.
 
 ---
 
-## Precaução: Elimine a Fragmentação de Cadernos para Adotar um Sistema Único Unificado
-
-O maior erro ao manter um livro de lugares-comuns é dispersar os pensamentos em vários cadernos (diário de leitura, notas de trabalho, diário pessoal). A fragmentação gera um <strong>Gargalo Cognitivo (Cognitive Bottleneck)</strong> durante a recuperação de dados e destrói a oportunidade de associar ideias. Acumule todos os pensamentos em um único caderno permanente usando etiquetas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O maior erro ao manter um livro de lugares-comuns é dispersar os pensamentos em
   </p>
 </div>
 
+---
+
+## 3. Precaução: Elimine a Fragmentação de Cadernos para Adotar um Sistema Único Unificado
+
+O maior erro ao manter um livro de lugares-comuns é dispersar os pensamentos em vários cadernos (diário de leitura, notas de trabalho, diário pessoal). A fragmentação gera um <strong>Gargalo Cognitivo (Cognitive Bottleneck)</strong> durante a recuperação de dados e destrói a oportunidade de associar ideias. Acumule todos os pensamentos em um único caderno permanente usando etiquetas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Posso praticar o método de Livro de Lugares-Comuns usando ferramentas digitais como Notion ou Obsidian?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O maior erro ao manter um livro de lugares-comuns é dispersar os pensamentos em
       Sim! As ferramentas digitais são excelentes para buscar e conectar notas. O segredo é evitar dividir páginas em várias pastas; em vez disso, crie uma base de dados única etiquetada por datas e categorias para replicar o sistema unificado de Leibniz.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Guardar todas as informações em um único caderno não gera uma desordem caótica?</span>

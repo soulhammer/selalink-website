@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le bonbon secret de la Maison-Blanche ? La méthode de relaxation par mastication de bonbons de Ronald Reagan"
 description: "Ronald Reagan, 40e président des États-Unis, mangeait des bonbons haricots au Bureau ovale pour arrêter de fumer et gérer son stress. Découvrez les principes neuroscientifiques selon lesquels la mastication influence l'état émotionnel."
 pubDate: "2026-04-25"
@@ -33,17 +34,17 @@ L'article d'aujourd'hui présente la science sous-jacente à la routine de relax
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant reagan-jellybean-relaxation est basée sur <strong>Étude basée sur la biographie historique et l'autobiographie de Ronald Reagan et les recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude basée sur la biographie historique et l'autobiographie de Ronald Reagan et les recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mastication et substitution sensorielle pour apaiser l'amygdale
+## 1. Mastication et substitution sensorielle pour apaiser l'amygdale
 
 Le mouvement répétitif de mastication active le nerf trijumeau dans le cerveau, inhibant l'amygdale qui régit la peur et le stress. Cela stabilise le pouls et réduit rapidement la sécrétion de cortisol.
 
@@ -51,9 +52,7 @@ En même temps, lorsqu'une forte envie addictive survient (comme fumer ou manger
 
 ---
 
-## Attention à la consommation de sucre pour la santé dentaire
-
-Consommer trop de bonbons haricots comme Reagan peut nuire à la santé en provoquant des caries ou une ingestion excessive de sucre. Il est recommandé d'utiliser du chewing-gum sans sucre, des gommes sans sucre ou des fruits à coque (amandes, noix) comme alternatives pour bénéficier en toute sécurité de l'effet relaxant de la mastication.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Consommer trop de bonbons haricots comme Reagan peut nuire à la santé en provo
   </p>
 </div>
 
+---
+
+## 3. Attention à la consommation de sucre pour la santé dentaire
+
+Consommer trop de bonbons haricots comme Reagan peut nuire à la santé en provoquant des caries ou une ingestion excessive de sucre. Il est recommandé d'utiliser du chewing-gum sans sucre, des gommes sans sucre ou des fruits à coque (amandes, noix) comme alternatives pour bénéficier en toute sécurité de l'effet relaxant de la mastication.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Combien de temps faut-il mâcher pour que l'effet anti-stress de la mastication se manifeste ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Consommer trop de bonbons haricots comme Reagan peut nuire à la santé en provo
       Des recherches neurophysiologiques montrent que le taux de cortisol commence à diminuer et que les ondes cérébrales passent aux ondes alpha relaxantes environ 2 à 3 minutes après le début de la mastication. Il est donc essentiel de rester concentré sereinement sur la mastication pendant au moins 2 à 3 minutes pour en ressentir les bienfaits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe-t-il vraiment un principe scientifique selon lequel la mastication aide à réprimer l'envie de fumer ou les accès de boulimie ?</span>

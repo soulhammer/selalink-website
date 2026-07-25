@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Your Brain Solves Proposals While You Sleep: Joan Didion's Manuscript-Sleeping Routine and REM Sleep Priming"
 description: "Explore how legendary American essayist Joan Didion slept in the same room as her unfinished manuscript to untangle complex narratives. Discover the cognitive neuroscience of cognitive priming and memory consolidation during REM sleep."
 pubDate: "2026-06-02"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Joan Didion's 'manuscri
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding didion-manuscript-sleeping is based on <strong>Historical Verification from Tracy Daugherty's Biography *The Last Love Song* & *The Paris Review* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Tracy Daugherty's Biography *The Last Love Song* & *The Paris Review* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Unconstrained Associative Re-Consolidation in REM Sleep and Pre-Bedtime Cognitive Priming
+## 1. Unconstrained Associative Re-Consolidation in REM Sleep and Pre-Bedtime Cognitive Priming
 
 During waking hours, the prefrontal cortex maintains strict executive control, restricting thought patterns to familiar schemas. Reviewing an unsolved problem or reading a physical manuscript immediately before sleep triggers 'Cognitive Priming'. When the brain enters Rapid Eye Movement (REM) sleep, prefrontal executive suppression lifts while the hippocampus and amygdala actively fire. During REM sleep, the brain undergoes 'Unconstrained Associative Re-Consolidation': it cross-links the primed manuscript problem with millions of distant memory nodes stored across the neocortex. This subconscious processing surfaces breakthrough narrative structures and solutions upon awakening.
 
 ---
 
-## Caution & Tips: Blocking Blue Light Stimuli & Embracing Analog Paper Priming
-
-Examining proposals or spreadsheets on smartphones or tablets immediately before bed exposes the retinas to blue light, suppressing nighttime melatonin secretion and disrupting REM sleep architecture. To preserve sleep quality for priming, strictly review physical paper printouts or analog notebooks for 5 minutes before bed. Then, close your eyes and mentally visualize the core objective before falling asleep peacefully.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Examining proposals or spreadsheets on smartphones or tablets immediately before
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Blocking Blue Light Stimuli & Embracing Analog Paper Priming
+
+Examining proposals or spreadsheets on smartphones or tablets immediately before bed exposes the retinas to blue light, suppressing nighttime melatonin secretion and disrupting REM sleep architecture. To preserve sleep quality for priming, strictly review physical paper printouts or analog notebooks for 5 minutes before bed. Then, close your eyes and mentally visualize the core objective before falling asleep peacefully.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Will thinking about unsolved problems before bed trigger insomnia or sleep disruption?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Examining proposals or spreadsheets on smartphones or tablets immediately before
       If you stressfully force a solution, yes. The key is avoiding active worrying. Simply scan paper materials passively as if reading a bedtime story, then consciously delegate the processing to your subconscious: 'My brain will handle the assembly overnight.' This relaxed mindset prevents sympathetic arousal while establishing priming.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is the routine a failure if a breakthrough idea does not appear immediately upon waking?</span>

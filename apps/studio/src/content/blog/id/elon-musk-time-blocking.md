@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "'Time Blocking 5 Menit' Elon Musk: Mikro-Perencanaan dan Rutinitas Fokus Berdensitas Tinggi"
 description: "Pelajari bagaimana Elon Musk mengelola 80-100 jam kerja seminggu dengan membagi jadwalnya menjadi mikro-blok 5 menit. Temukan neurosains kognitif tentang kelangkaan waktu, Hukum Parkinson, dan fokus terowongan."
 pubDate: "2026-06-15"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis ilmu otak di balik rutinitas 'time b
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai elon-musk-time-blocking didasarkan pada <strong>Verifikasi Historis dari Biografi Walter Isaacson *Elon Musk* & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Walter Isaacson *Elon Musk* & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hukum Parkinson dan Mekanisme Terowongan Hiper-Fokus Otak
+## 1. Hukum Parkinson dan Mekanisme Terowongan Hiper-Fokus Otak
 
 Menurut Hukum Parkinson, pekerjaan berkembang untuk mengisi waktu yang dialokasikan. Saat batas waktu dilonggarkan, intensitas kognitif melonggar. Sebaliknya, membatasi waktu ke dalam mikro-jendela yang ketat memaksa otak merasakan kelangkaan, memicu pelepasan dopamin dan epinefrin yang menginduksi 'Efek Terowongan'—memblokir gangguan. Time blocking 5 menit Elon Musk menjaga otak tetap terikat pada tenggat waktu mikro, mendorong kondisi flow yang intens. Ini mencegah Kelelahan Keputusan dan memaksimalkan hasil kognitif per menit.
 
 ---
 
-## Fokus Tunggal Ketat dan Transisi Tepat Waktu Adalah Keharusan
-
-Rutinitas ini berbeda dari sekadar bersikap sibuk sepanjang hari. Agar metode ini berhasil, Anda harus memblokir penyebaran kognitif (menahan diri dari membuka tab baru atau memeriksa notifikasi) dan berfokus pada satu tugas selama blok tersebut. Saat waktu habis, segera beralih ke blok berikutnya tanpa ragu.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Rutinitas ini berbeda dari sekadar bersikap sibuk sepanjang hari. Agar metode in
   </p>
 </div>
 
+---
+
+## 3. Fokus Tunggal Ketat dan Transisi Tepat Waktu Adalah Keharusan
+
+Rutinitas ini berbeda dari sekadar bersikap sibuk sepanjang hari. Agar metode ini berhasil, Anda harus memblokir penyebaran kognitif (menahan diri dari membuka tab baru atau memeriksa notifikasi) dan berfokus pada satu tugas selama blok tersebut. Saat waktu habis, segera beralih ke blok berikutnya tanpa ragu.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah menjadwalkan dalam blok 5 menit memicu stres berat bagi pemula?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Rutinitas ini berbeda dari sekadar bersikap sibuk sepanjang hari. Agar metode in
       Bagi pemula, mencoba memblokir sepanjang hari ke dalam kelipatan 5 menit memang akan memicu kelebihan beban kognitif. Mulailah dari yang kecil: tentukan 1 hingga 2 jam 'blok fokus' selama hari Anda, dan bagi menjadi mikro-slot 15 atau 30 menit untuk membangun kapasitas fokus Anda terlebih dahulu.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus saya lakukan jika suatu tugas tidak selesai dalam blok waktu yang ditentukan?</span>

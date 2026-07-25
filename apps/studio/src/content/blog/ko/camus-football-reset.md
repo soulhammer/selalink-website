@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "번아웃과 실존적 우울을 날리는 원초적 방법: 알베르 카뮈의 축구 리셋 습관"
 description: "프랑스의 노벨 문학상 수상 작가이자 철학자 알베르 카뮈. 창작 슬럼프와 우울이 밀려올 때 그라운드로 나가 골키퍼로 몸을 던졌던 신체 몰입 루틴. 전두엽 오프라인과 소뇌 인지 스위칭의 신경과학적 메커니즘을 밝힙니다."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>올리비에 토드 평전 『알베르 카뮈 평전(Albert Camus: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 camus-football-reset 루틴을 다룹니다.
+      본 콘텐츠는 <strong>올리비에 토드 평전 『알베르 카뮈 평전(Albert Camus: A Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 전두엽의 강제 오프라인과 소뇌(Cerebellum) 및 운동 피질의 인지 스위칭
+## 1. 전두엽의 강제 오프라인과 소뇌(Cerebellum) 및 운동 피질의 인지 스위칭
 
 고도의 사색, 글쓰기, 기획 등 복잡한 인지 작업을 수행할 때 뇌의 전전두엽 피질(Prefrontal Cortex)은 극심한 포도당을 소모하며 과열됩니다. 전전두엽의 자원이 고갈되면 판단력 마비, 실존적 피로, 우울 반응이 일어납니다. 알베르 카뮈처럼 날아오는 공에 반사적으로 몸을 던지는 고강도 스포츠에 몰입하면, 뇌는 신체 조절과 균형, 반사 신경을 담당하는 소뇌(Cerebellum) 및 운동 피질(Motor Cortex)로 활성 영역을 순식간에 이동시킵니다. 이 급격한 '인지 스위칭(Cognitive Switching)'은 전전두엽을 강제 오프라인(Forced Offline) 상태로 만들어 생리학적 휴식을 제공하고, 코르티솔 수치를 낮추며, 신경 전달 물질을 재충전해 다시 책상으로 복귀했을 때 신선한 인지 에너지를 안겨줍니다.
 
 ---
 
-## 주의사항 및 팁: 점수 경쟁 및 복잡한 전략 계산형 게임의 배제
-
-이 루틴의 목적은 전전두엽 인지 자원의 완전한 휴식과 새로 고침입니다. 만약 동호회 경기에 나아가 극단적인 승패 경쟁을 벌이거나, 과도하게 머리를 쓰며 복잡한 전략 수 싸움을 벌이는 스포츠에 집착하면 전전두엽은 쉬지 못하고 2차 인지 과부하를 겪게 됩니다. 승패 점수에 연연하기보다, 빠르게 움직이는 공에 몸을 던지고 반사 신경을 쓰는 단순하고 가벼운 신체 활동에 집중해야 전전두엽 오프라인 효과를 얻을 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 점수 경쟁 및 복잡한 전략 계산형 게임의 배제
+
+이 루틴의 목적은 전전두엽 인지 자원의 완전한 휴식과 새로 고침입니다. 만약 동호회 경기에 나아가 극단적인 승패 경쟁을 벌이거나, 과도하게 머리를 쓰며 복잡한 전략 수 싸움을 벌이는 스포츠에 집착하면 전전두엽은 쉬지 못하고 2차 인지 과부하를 겪게 됩니다. 승패 점수에 연연하기보다, 빠르게 움직이는 공에 몸을 던지고 반사 신경을 쓰는 단순하고 가벼운 신체 활동에 집중해야 전전두엽 오프라인 효과를 얻을 수 있습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>함께 축구나 스포츠를 즐길 상대가 없는 1인 환경에서는 어떻게 실천하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       혼자서도 충분히 가능합니다. 콘크리트 벽에 테니스 공이나 스쿼시 공을 때린 뒤 튕겨 나오는 공을 반사적으로 잡아내는 벽치기 훈련, 복싱 샌드백 타격, 혹은 가상의 민첩성 래더 훈련만으로도 소뇌와 운동 피질을 완벽히 자극하여 전전두엽을 오프라인 상태로 전환할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>정신적 피로도가 극심한 날 고강도 신체 운동을 하면 오히려 피로가 누적되지 않나요?</span>

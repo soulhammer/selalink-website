@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Reduzir o volume do mundo a zero: O método de foco com controle de ruído do Nobel Schrödinger"
 description: "Descubra o hábito de protetores auriculares do gigante da física quântica Erwin Schrödinger. Um método de 3 passos para maximizar a eficiência cerebral eliminando o desgaste do filtro sensorial."
 pubDate: "2026-04-25"
@@ -33,25 +34,23 @@ Neste artigo, exploramos os princípios científicos por trás da rotina de prot
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre schrodinger-earplug-focus é baseada em <strong>Pesquisa baseada na biografia histórica e registros autobiográficos de Schrödinger e Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa baseada na biografia histórica e registros autobiográficos de Schrödinger e Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efeito do silêncio para evitar o desgaste energético do filtro sensorial
+## 1. Efeito do silêncio para evitar o desgaste energético do filtro sensorial
 
 A audição é o sentido mais sensível, permanecendo ativa até durante o sono. A cada ruído ambiente, o cérebro ativa o filtro sensorial inconscientemente, gastando energia cognitiva. Bloquear a entrada auditiva com protetores interrompe o consumo de oxigênio e glicose em dados desnecessários, direcionando 100% da energia para a tarefa.
 
 ---
 
-## Prevenção de zumbido e higiene auricular
-
-Usar protetores muito fundos ou por longos períodos pode alterar a pressão do canal auditivo e causar infecções por umidade. Limite as sessões a 50 minutos e remova-os nas pausas para ventilar. Mantenha-os limpos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Usar protetores muito fundos ou por longos períodos pode alterar a pressão do 
   </p>
 </div>
 
+---
+
+## 3. Prevenção de zumbido e higiene auricular
+
+Usar protetores muito fundos ou por longos períodos pode alterar a pressão do canal auditivo e causar infecções por umidade. Limite as sessões a 50 minutos e remova-os nas pausas para ventilar. Mantenha-os limpos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

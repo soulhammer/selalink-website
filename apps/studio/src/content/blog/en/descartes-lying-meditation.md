@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Genius Who Stayed in Bed Until Noon: René Descartes's Lying Meditation and Alpha-Wave Relaxation Routine"
 description: "Discover how mathematician and philosopher René Descartes spent his mornings meditating in bed until noon to unlock mathematical clarity. Explore the cognitive neuroscience of horizontal posture, reduced cortisol response, and alpha-wave induction."
 pubDate: "2026-01-25"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying René Descartes's 'lyin
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding descartes-lying-meditation is based on <strong>Historical Verification from René Descartes's *Discourse on the Method* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from René Descartes's *Discourse on the Method* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Low-Cortisol Relaxation and Alpha-Wave Induction via Horizontal Posture Maintenance
+## 1. Low-Cortisol Relaxation and Alpha-Wave Induction via Horizontal Posture Maintenance
 
 Abruptly standing up immediately upon waking triggers a sharp Cortisol Awakening Response (CAR), spiking sympathetic arousal and shifting brainwaves into stressed high-beta patterns. Maintaining a relaxed horizontal posture after waking—as Descartes practiced—buffers against excessive cortisol surges, preserving stable 8–12 Hz Alpha Waves. In complete physical recumbency, somatosensory motor load drops dramatically, allowing the prefrontal cortex to direct 100% of its cognitive energy toward high-level deductive logic, conceptual modeling, and creative problem-solving.
 
 ---
 
-## Caution & Tips: Preventing Sleep Extension Sloth & Setting a Single Task Focus
-
-Ensure lying meditation does not degrade into lazy sleep extension or falling back asleep. Avoid picking up your smartphone immediately upon waking, as digital stimuli interrupt calm alpha states and trigger dopamine confusion. Maintain wakeful awareness while staying physically recumbent for 5 to 10 minutes, directing prefrontal focus exclusively onto a single core problem or daily strategic structure.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ensure lying meditation does not degrade into lazy sleep extension or falling ba
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Preventing Sleep Extension Sloth & Setting a Single Task Focus
+
+Ensure lying meditation does not degrade into lazy sleep extension or falling back asleep. Avoid picking up your smartphone immediately upon waking, as digital stimuli interrupt calm alpha states and trigger dopamine confusion. Maintain wakeful awareness while staying physically recumbent for 5 to 10 minutes, directing prefrontal focus exclusively onto a single core problem or daily strategic structure.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does morning lying meditation genuinely offer scientifically proven cognitive benefits?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ensure lying meditation does not degrade into lazy sleep extension or falling ba
       Yes, its neurophysiological mechanisms are well documented. Maintaining a recumbent posture post-waking buffers against abrupt cortisol spikes, stabilizing autonomic nervous tone. Preserving 8–12 Hz Alpha Waves disengages sensory motor noise, dramatically boosting prefrontal intuitive deduction and logical clarity.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What if I accidentally fall back asleep while meditating in bed and miss my schedule?</span>

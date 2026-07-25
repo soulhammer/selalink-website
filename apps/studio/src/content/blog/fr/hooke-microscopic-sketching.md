@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode de croquis microscopique de Robert Hooke : Éveiller la concentration préfrontale par la micro-observation à 0,01 mm et la synchronisation œil-main"
 description: "Découvrez comment le savant du XVIIe siècle Robert Hooke a découvert la première « cellule » biologique en dessinant au microscope composé. Explorez la neuroscience de la synchronisation œil-main et du calepin visuo-spatial."
 pubDate: "2026-04-04"
@@ -35,25 +36,23 @@ Associer l'observation optique au dessin manuel a renforcé la communication ent
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant hooke-microscopic-sketching est basée sur <strong>Vérification Historique issue de *Micrographia* (1665) de Robert Hooke, des archives de la Royal Society & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *Micrographia* (1665) de Robert Hooke, des archives de la Royal Society & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synchronisation œil-main dans les cortex visuel et moteur et concentration préfrontale
+## 1. Synchronisation œil-main dans les cortex visuel et moteur et concentration préfrontale
 
 Retranscrire à la main les micro-détails observés stimule simultanément le <strong>Cortex Visuel</strong> et le <strong>Cortex Moteur</strong>. Cette synchronisation œil-main active le <strong>Calepin Visuo-Spatial</strong> de la mémoire de travail, éliminant les distractions. En sollicitant le <strong>Cortex Préfrontal</strong>, elle induit une <strong>Concentration Intense (Fine Focus)</strong>, aiguisant la résolution d'observation et l'analyse.
 
 ---
 
-## Mise en garde : Prioriser la précision micro-structurelle sur la beauté artistique
-
-Ne vous préoccupez pas de la beauté artistique ou de la perfection du dessin. L'essentiel est de capturer objectivement la micro-structure, les liaisons entre éléments et les motifs d'erreur exactement tels qu'ils sont observés. Se concentrer sur la retranscription fidèle préserve la concentration préfrontale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ne vous préoccupez pas de la beauté artistique ou de la perfection du dessin. 
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Prioriser la précision micro-structurelle sur la beauté artistique
+
+Ne vous préoccupez pas de la beauté artistique ou de la perfection du dessin. L'essentiel est de capturer objectivement la micro-structure, les liaisons entre éléments et les motifs d'erreur exactement tels qu'ils sont observés. Se concentrer sur la retranscription fidèle préserve la concentration préfrontale.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il efficace d'utiliser le mind mapping numérique ou un stylet au lieu du papier ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ne vous préoccupez pas de la beauté artistique ou de la perfection du dessin. 
       Oui ! Que vous utilisiez du papier ou un stylet sur tablette, tant que la motricité fine et le suivi visuel sont synchronisés pour cartographier les structures, vous bénéficiez exactement des mêmes avantages.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Cette méthode est-elle utile pour les personnes sans aucun talent en dessin ?</span>

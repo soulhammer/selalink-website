@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Entrenamiento de Control Cognitivo de Earhart: Inmersa en las Lecturas de Instrumentos Incluso en la Cabina en Medio de la Tormenta"
 description: "La primera aviadora en cruzar en solitario el Atlántico con éxito; calmaba la ansiedad de vuelo recopilando con precisión los datos meteorológicos y las variaciones del viento cada mañana."
 pubDate: "2026-01-31"
@@ -34,22 +35,20 @@ En la publicación de hoy, presentamos los principios de la ciencia cognitiva de
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre amelia-earhart se basa en <strong>Verificación Histórica de la Autobiografía de Amelia Earhart *The Fun of It* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Amelia Earhart *The Fun of It* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análisis de los Principios Neurocientíficos que Impulsan el Éxito
+## 1. Análisis de los Principios Neurocientíficos que Impulsan el Éxito
 
 En situaciones de crisis o entornos de trabajo ansiosos, suprimir la excitación del cerebro emocional (amígdala) y fijar el juicio en métricas físicas activa drásticamente la red de Control Cognitivo (Cognitive Control) del lóbulo prefrontal del cerebro. El proceso de convertir rápidamente los datos recopilados de los instrumentos en texto y realizar un metaanálisis controla la secreción de la hormona cortisol y actúa como un poderoso mecanismo que induce una toma de decisiones óptima y sin errores sin entrar en pánico en entornos empresariales complejos.
 
 ---
 
-## Consejos de Ciencia Conductual para un Asentamiento Exitoso
-
-No se obsesione excesivamente con el análisis numérico estableciendo metas diarias demasiado extensas. Concéntrese únicamente en contemplar solo 3 fríos números de instrumentos para superponer un mapa claro de información factual en su cerebro. En lugar de confiar imprudentemente solo en la fuerza de voluntad, diseñar con antelación un entorno físico y señales de hábitos donde la acción se desencadene de forma natural es la clave de la sostenibilidad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ No se obsesione excesivamente con el análisis numérico estableciendo metas dia
   </p>
 </div>
 
+---
+
+## 3. Consejos de Ciencia Conductual para un Asentamiento Exitoso
+
+No se obsesione excesivamente con el análisis numérico estableciendo metas diarias demasiado extensas. Concéntrese únicamente en contemplar solo 3 fríos números de instrumentos para superponer un mapa claro de información factual en su cerebro. En lugar de confiar imprudentemente solo en la fuerza de voluntad, diseñar con antelación un entorno físico y señales de hábitos donde la acción se desencadene de forma natural es la clave de la sostenibilidad.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿El entrenamiento del panel de instrumentos funciona de inmediato incluso cuando el trabajo se estanca y surge la impaciencia?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ No se obsesione excesivamente con el análisis numérico estableciendo metas dia
       Sí, funciona de inmediato. Cuando surge la impaciencia, el cerebro hiperactiva la amígdala. En ese momento, si anota fríamente en un papel números físicos como las notificaciones de mensajes restantes o los minutos de la fecha límite, la red de control cognitivo del cerebro funciona de arriba abajo (Top-down) estabilizando sus emociones.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué números se recomiendan más para designar como variables del panel de vuelo?</span>

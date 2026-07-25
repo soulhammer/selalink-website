@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "メイクの裏にある魂：マリリン・モンローの毎夜の読書と省察習慣"
 description: "大衆のセックスシンボルの裏で400冊余りの蔵書を持つ愛書家だったマリリン・モンロー。毎夜の文学読書と日記執筆がストレスホルモンを減らし、自我同一性を保存した科学的原理を解明します。"
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「monroe-night-reading」は <strong>マリリン・モンローの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マリリン・モンローの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 文学読書による自律神経系の弛緩と海馬の記憶統合
+## 1. 文学読書による自律神経系の弛緩と海馬の記憶統合
 
 脳が長時間他人の評価や露出のストレスに晒されると、交感神経系が亢進して慢性疲労や睡眠障害を引き起こします。英国の認知研究によると、文学書を静かに読む行為はわずか6分で筋肉の緊張をほぐし心拍数を下げ、ストレスを最大68%減少させます。古典小説の叙事に没頭する時、脳は自身のエゴ（Ego）から離れて架空の人物の人生に共感し、休息状態に到達します。また読書後に日記を書き感情を記録する習慣は、大脳皮質の海馬（Hippocampus）がストレス情報を長期記憶へと穏やかに統合するよう誘導し、睡眠中の脳の浄化作業を最適化します。
 
 ---
 
-## 注意事項およびヒント
-
-夜間の省察読書を行う際、最も避けるべき行動は蛍光灯の下で読書したりスマートフォンの画面を見たりすることです。明るい人工ブルーライト照明は睡眠誘導ホルモンであるメラトニンの分泌を遮断し、むしろ不眠症を悪化させる可能性があります。したがって、読書をする際は必ず黄色いウォームトーンの間接スタンド照明を1つだけつけ、脳が睡眠誘導段階へ安全に進入するよう環境的コントロールを維持することがポイントです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項およびヒント
+
+夜間の省察読書を行う際、最も避けるべき行動は蛍光灯の下で読書したりスマートフォンの画面を見たりすることです。明るい人工ブルーライト照明は睡眠誘導ホルモンであるメラトニンの分泌を遮断し、むしろ不眠症を悪化させる可能性があります。したがって、読書をする際は必ず黄色いウォームトーンの間接スタンド照明を1つだけつけ、脳が睡眠誘導段階へ安全に進入するよう環境的コントロールを維持することがポイントです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>寝る前の読書が脳を刺激して睡眠の妨げになりませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       ブルーライトを発するスマートフォンの代わりに紙の書籍を読み、小説よりも人文学、詩集、静かなエッセイなどの本をほのかな間接照明の下で軽く読むことがアルファ波を誘導し熟睡に役立ちます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>夜の読書中にお気に入りのフレーズをどう整理すれば睡眠を妨げませんか？</span>

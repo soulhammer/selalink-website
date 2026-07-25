@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "心の目描いた迷宮：ボルヘスの時空間作業記憶視覚化ルーティン"
 description: "アルゼンチンの大文豪ホルヘ・ルイス・ボルヘスが失明後、頭の中に立体的なテキストおよび迷宮構造を設計し、口述で作品を完成させたルーティン。時空間作業記憶を極大化し、交叉可塑性を呼び醒ます神経科学的メカニズムを解き明かします。"
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「borges-mental-dictation」は <strong>エドウィン・ウィリアムソン伝記『Borges: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エドウィン・ウィリアムソン伝記『Borges: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 交叉可塑性と時空間作業記憶（Visuospatial Working Memory）拡張の原理
+## 1. 交叉可塑性と時空間作業記憶（Visuospatial Working Memory）拡張の原理
 
 外部の視覚刺激が完全に遮断されると、脳は視覚皮質（Visual Cortex）を再構築し、聴覚、触覚、空間認知情報を処理する「交叉可塑性（Cross-modal Plasticity）」を発揮します。失明状態のボルヘスが頭の中で複雑な迷宮と文章構造を組み合わせる時、視覚皮質は高度な論理設計と空間的配置を専任する連合領域へと転換稼働しました。目を閉じて抽象的な概念マップを3次元で視覚化する訓練は、海馬（Hippocampus）と前頭前野皮質（Prefrontal Cortex）間の時空間作業記憶（Working Memory）容量を画期的に拡張させ、複雑な断片情報を有機的に組み合わせる高度な直感力を与えます。
 
 ---
 
-## 注意事項＆ヒント：テキスト記号ではなく有機的相互構造への集中
-
-ボルヘス的視覚化ルーティンの核心は、文字のスペルやフォントを目の前にそのまま復元することではありません。企画やアイデアの核心要素が互いにどのように連結し結合するのか「3次元的な骨組み構造（マインドマップ、立体オルガノグラム、迷宮地形）」を描くことです。文字通りの文字復元ではなく、抽象的な因果関係や有機的構造に集中してこそ、時空間作業記憶の可塑性鍛錬効果を完全に得ることができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：テキスト記号ではなく有機的相互構造への集中
+
+ボルヘス的視覚化ルーティンの核心は、文字のスペルやフォントを目の前にそのまま復元することではありません。企画やアイデアの核心要素が互いにどのように連結し結合するのか「3次元的な骨組み構造（マインドマップ、立体オルガノグラム、迷宮地形）」を描くことです。文字通りの文字復元ではなく、抽象的な因果関係や有機的構造に集中してこそ、時空間作業記憶の可塑性鍛錬効果を完全に得ることができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>頭の中で視覚化しようとすると、イメージが崩れたりぼやけたりしますが、ヒントはありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       非常に自然な神経学的現象です。最初は詳細な絵を鮮明に描こうとするより、シンプルな箱や円2〜3個を描き、その間を線でつなぐ極めて簡単な抽象的モデルから始めてください。訓練が重なるにつれ、脳の時空間作業記憶の解像度が高まります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>目を閉じて3D視覚化をする習慣が、企画やコーディングなどの実務に実際に役立ちますか？</span>

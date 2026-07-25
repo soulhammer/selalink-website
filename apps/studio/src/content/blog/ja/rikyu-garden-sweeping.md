@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "心の塵を掃く朝：千利休の庭掃除ルーティン"
 description: "茶道の巨匠・千利休が庭を掃きながら心を磨いた逸話。単純な反復動作を通じて脳の認知ノイズを取り除く動的瞑想の認知科学的原理を解説します。"
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「rikyu-garden-sweeping」は <strong>千利休の庭掃除に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>千利休の庭掃除に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 箒の音と脳の認知ノイズのアンカリング効果
+## 1. 箒の音と脳の認知ノイズのアンカリング効果
 
 一定のリズムによる箒がけは、脳に即座で単純な物理的フィードバックを伝達し、注意力を「現在」に繋ぎ止めます。このような感覚の集中は、不安や気を散らす大脳皮質の認知ノイズ信号を効果的に安定させます。神経科学的研究によると、この行動は扁桃体の不要な不安反応を抑制し、視空間スケッチパッド回路を活性化して長期的な実行機能を飛躍的に向上させます。
 
 ---
 
-## 心の塵を空にするための茶道大宗匠のアドバイス
-
-掃くべき本当の塵は地面ではなく心の中にあります。毎朝の軽い身体的反復活動を通じて、脳に静寂と余白をプレゼントしてみてください。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣の合図を事前に設計しておくことが継続性の鍵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     5分間の活動を終了した後、整えられた区域とわずかな散らかりを静かに見つめ、内面の静寂を味わいます。
   </p>
 </div>
+
+---
+
+## 3. 心の塵を空にするための茶道大宗匠のアドバイス
+
+掃くべき本当の塵は地面ではなく心の中にあります。毎朝の軽い身体的反復活動を通じて、脳に静寂と余白をプレゼントしてみてください。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣の合図を事前に設計しておくことが継続性の鍵です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

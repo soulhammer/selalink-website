@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Penyair yang Membaca Puisi Nyaring Saat Menyusuri Jalan Setapak: Rutinitas Menggubah Puisi Sambil Berjalan William Wordsworth"
 description: "Penyair Romantik William Wordsworth berjalan di alam terbuka, menyelaraskan napas kalimat dengan irama langkah kakinya. Mempelajari prinsip sains gerak ritmis dan aktivasi serebelum yang membangkitkan kepekaan bahasa."
 pubDate: "2026-02-06"
@@ -35,17 +36,17 @@ Artikel ini mempelajari mekanisme neurologis dari kebiasaan 'membaca puisi sambi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai wordsworth-outdoor-recitation didasarkan pada <strong>Rekam sejarah biografi William Wordsworth & penelitian neurosains kognitif</strong>.
+      Konten ini didasarkan pada <strong>Rekam sejarah biografi William Wordsworth & penelitian neurosains kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergi Antara Jalan Berirama dan Lingkaran Pendengaran Artikulasi
+## 1. Sinergi Antara Jalan Berirama dan Lingkaran Pendengaran Artikulasi
 
 Saat berjalan, sentuhan kaki ke tanah menghasilkan sinyal ritmis yang mengaktifkan <strong>Serebelum (Otak Kecil)</strong> pengatur gerakan dan tempo. Sinyal ritme motorik ini tersinkronisasi dengan area bahasa di korteks otak, menyelaraskan intonasi (Prosody) dan penekanan kalimat.
 
@@ -53,9 +54,7 @@ Selain itu, membaca puisi dengan suara nyaring mengaktifkan <strong>Lingkaran Fo
 
 ---
 
-## Kekuatan Membaca dengan Suara Nyaring
-
-Menulis hanya dengan mata membuat kita sulit merasakan bagaimana teks terdengar bagi pembaca, menjadikan kalimat terasa kaku. Saat membuat naskah pidato atau presentasi, berjalannya di tempat tenang sambil membalikkan kalimat dengan suara nyaring untuk hasil maksimal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Menulis hanya dengan mata membuat kita sulit merasakan bagaimana teks terdengar 
   </p>
 </div>
 
+---
+
+## 3. Kekuatan Membaca dengan Suara Nyaring
+
+Menulis hanya dengan mata membuat kita sulit merasakan bagaimana teks terdengar bagi pembaca, menjadikan kalimat terasa kaku. Saat membuat naskah pidato atau presentasi, berjalannya di tempat tenang sambil membalikkan kalimat dengan suara nyaring untuk hasil maksimal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana Dorothy, saudara perempuan Wordsworth, mencatat metode menggubah puisi sambil berjalan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Menulis hanya dengan mata membuat kita sulit merasakan bagaimana teks terdengar 
       Di dalam harian pribadinya ia menulis: 'William berjalan bolak-balik di jalan taman ratusan kali pagi ini sambil membaca puisi,' menggambarkan bagaimana kecepatan jalannya berubah searah dengan tempo bacaan puisinya.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah berjalan dan membaca nyaring di atas treadmill dalam ruangan memberikan hasil yang sama?</span>

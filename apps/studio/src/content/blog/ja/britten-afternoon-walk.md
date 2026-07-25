@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "午後の海岸散歩で難題を解決した作曲家：ベンジャミン・ブリテンの脳解放ルーティン"
 description: "20世紀イギリス音楽の巨匠ベンジャミン・ブリテンが毎日午後に海岸の小道を散歩し、午前中に頭の中で構想した音符構造を整えたルーティン。注意力回復理論（ART）とデフォルト・モード・ネットワーク（DMN）を通じた認知的統合の神経科学的原理を解き明かします。"
 pubDate: "2026-04-22"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「britten-afternoon-walk」は <strong>ハンフリー・カーペンター伝記『Benjamin Britten: A Biography』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ハンフリー・カーペンター伝記『Benjamin Britten: A Biography』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 注意力回復理論（ART）とDMN稼働を通じた認知的統合のメカニズム
+## 1. 注意力回復理論（ART）とDMN稼働を通じた認知的統合のメカニズム
 
 午前セッションの間に高度な演算や企画を行った脳は、集中状態を維持する「中央執行ネットワーク（CEN）」を稼働させ、認知的エネルギー（ブドウ糖）を使い果たした注意力疲労（Attention Fatigue）状態に陥ります。環境心理学の「注意力回復理論（Attention Restoration Theory）」によると、波の音や木の葉のそよぎのような自然の柔らかい引き込み（Soft Fascination）要素を持つ屋外を歩く時、前頭前野の注意制御ネットワークは初めてリラックスして休息をとります。この弛緩期に脳の「デフォルト・モード・ネットワーク（DMN）」が稼働し、午前中に収集したり悩んだりした断片化された情報を長期記憶庫へと分類・移送し、無意識の中で再組み合わせる「認知的統合（Cognitive Integration）」を成し遂げます。ブリテンは午後の散歩を通じて認知疲労を掃除し、無意識的思考を稼働させて難題を解決したのです。
 
 ---
 
-## 注意事項＆ヒント：受動的スクリーン視聴と能動的神経弛緩の区別
-
-疲労を感じる時、ベッドに横になってスマートフォンのショート動画やリールを視聴することは、脳科学的に決して「休息」ではありません。たとえ身体は固定されていても、脳の視覚皮質とドパミン報酬回路は新しい映像信号を解読するのに絶えず膨大な注意力を消費し、前頭葉の疲労を増加させます。ブリテンのように視覚的・デジタル情報の流入を全面遮断し、自然の中で身体を軽く動かす歩行散歩だけが、前頭前野の認知リソースを完璧にリセットする真の科学的休息なのです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：受動的スクリーン視聴と能動的神経弛緩の区別
+
+疲労を感じる時、ベッドに横になってスマートフォンのショート動画やリールを視聴することは、脳科学的に決して「休息」ではありません。たとえ身体は固定されていても、脳の視覚皮質とドパミン報酬回路は新しい映像信号を解読するのに絶えず膨大な注意力を消費し、前頭葉の疲労を増加させます。ブリテンのように視覚的・デジタル情報の流入を全面遮断し、自然の中で身体を軽く動かす歩行散歩だけが、前頭前野の認知リソースを完璧にリセットする真の科学的休息なのです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ブリテンが毎日散歩したアルデバグの海岸道は、どのような地理的特性を持つ場所ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       イギリス東部サフォーク州に位置するアルデバグ海岸は、砂ではなく丸い砂利（Shingle）で構成されたユニークな海岸です。波が打ち寄せるたびに砂利が転がり、澄んだ清涼で軽快な音を出し、ひらかれた水平線が前頭葉に視覚的解放感を提供します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>自然の海岸がない都市部のビル群の散歩も、注意力回復効果を提供しますか？</span>

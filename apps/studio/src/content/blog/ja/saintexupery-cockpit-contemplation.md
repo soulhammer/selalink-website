@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "サン＝テグジュペリの操縦席メモ術：高度 孤独と削ぎ落としで本質を抽出する方法"
 description: "『星の王子さま』の著者であり飛行士のサン＝テグジュペリが、上空の操縦席という孤独の中で構想し、不要な修飾語を削ぎ落として本質に到達した執筆習慣を探ります。"
 pubDate: "2026-07-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「saintexupery-cockpit-contemplation」は <strong>サン＝テグジュペリの操縦席での瞑想に関する歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>サン＝テグジュペリの操縦席での瞑想に関する歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 孤独と引き算の習慣が前頭前野のメタ認知を最大化する理由
+## 1. 孤独と引き算の習慣が前頭前野のメタ認知を最大化する理由
 
 神経科学の研究によると、外部の騒音が遮断された孤独状態は脳のデフォルト・モード・ネットワーク（DMN）を作動させ、創造的な認識を助けます。その後、不要な要素や修飾語を削ぎ落とす引き算の作業は前頭前野のメタ認知を刺激し、思考の精密さを高めます。
 
 ---
 
-## サン＝テグジュペリ流習慣の注意事項と精製ヒント
-
-アイデアを出す段階で検閲したり修正したりしないでください。孤独の中で自由に発想を出した後、見直し段階で不要な修飾語を30%以上思い切って削る2段階のプロセスを守る必要があります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. サン＝テグジュペリ流習慣の注意事項と精製ヒント
+
+アイデアを出す段階で検閲したり修正したりしないでください。孤独の中で自由に発想を出した後、見直し段階で不要な修飾語を30%以上思い切って削る2段階のプロセスを守る必要があります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>この引き算の法則を業務報告書や企画書の作成にも適用できますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい！初稿を素直に自由に書いた後、2回目の見直しで不要な修飾語、専門用語、冗長な文章と思い切って削ぎ落とせば、伝達力が2倍に高まります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>削りすぎて文脈が損なわれた場合はどうすればよいですか？</span>

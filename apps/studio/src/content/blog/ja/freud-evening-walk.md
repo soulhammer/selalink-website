@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "内面の無意識を呼び覚ました3マイルの散歩：ジークムント・フロイトの夜の速歩ルーティンと無意識ジャーナリング"
 description: "精神分析学の創始者ジークムント・フロイト。過酷な臨床分析業務を終えた毎晩、ウィーンの街を速歩で歩き、左右の脳のバランスを取り戻して無意識を記録した彼の脳科学的夜のルーティンと両側性感覚刺激の原理を解き明かします。"
 pubDate: "2026-07-09"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「freud-evening-walk」は <strong>ジークムント・フロイト自伝『我が生涯と精神分析（An Autobiographical Study）』およびウィーン・フロイト博物館史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジークムント・フロイト自伝『我が生涯と精神分析（An Autobiographical Study）』およびウィーン・フロイト博物館史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 両側性感覚刺激（Bilateral Stimulation）と前頭葉の感情制御
+## 1. 両側性感覚刺激（Bilateral Stimulation）と前頭葉の感情制御
 
 早いスピードで両足を交互に踏み出して歩く行為は、左脳と右脳に交互に触覚および運動情報を提供する<strong>「両側性感覚刺激（Bilateral Stimulation）」</strong>を作り出します。これはトラウマ治療（EMDR）や認知療法でも活用される原理で、疲弊した大脳の<strong>扁桃体（Amygdala）</strong>の過活性化を抑制し、情緒的平穏をもたらします。また、散歩直後に浮かんだ無意識の思考を直接ノートに手で書きながら具体化する<strong>手書きジャーナリング</strong>は、脳の前頭葉認知領域を刺激して複雑だった感情を遮断し、<strong>作業記憶（Working Memory）</strong>能力を復旧させてくれます。
 
 ---
 
-## 注意事項：過度な有酸素刺激を避け就寝前のリラックスを図るルール
-
-この夜のルーティンはカロリー消費を目的とする激しい体力トレーニングではありません。したがって息が詰まるほど強く走ることより、隣の人と会話は可能だが呼吸が少し荒くなる程度の早い速歩状態を維持することが、脳波の安定に良いです。また睡眠に妨げを受けないよう、就寝の最低3時間前までに終えることをお勧めします。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：過度な有酸素刺激を避け就寝前のリラックスを図るルール
+
+この夜のルーティンはカロリー消費を目的とする激しい体力トレーニングではありません。したがって息が詰まるほど強く走ることより、隣の人と会話は可能だが呼吸が少し荒くなる程度の早い速歩状態を維持することが、脳波の安定に良いです。また睡眠に妨げを受けないよう、就寝の最低3時間前までに終えることをお勧めします。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>夜ではなく朝や午後に散歩をしても同じ効果が得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、1日の中のいつ歩いても両側性感覚刺激と前頭葉活性化の効果は同じように発生します。ただし朝の散歩は目を覚ます覚醒効果が大きく、フロイトのように夜に歩くことは、1日の間に患者たちとのコミュニケーションや複雑な業務によって溜まった認知的ゴミと情緒的緊張を即座にリセットしてくれる独特の感情リラックスの恵みを与えます。自分のストレスの形態に合わせて時間帯を選択してください。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>無意識日記をスマートフォンのメモ帳やキーボードでタイピングしてはダメですか？</span>

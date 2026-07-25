@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Física Tejida a Través del Diálogo: El Método de Dictado-Discusión y Escritura Metacognitiva de Niels Bohr"
 description: "Descubra cómo Niels Bohr, gigante de la mecánica cuántica, redactó complejos artículos de física mediante incesantes discusiones orales y dictados con sus colegas, y explore el principio neurocientífico donde la externalización de pensamientos hacia el lenguaje hablado activa la metacognición."
 pubDate: "2026-01-19"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral de la 'escritura por d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre bohr-dialogue-dictation se basa en <strong>Verificación Histórica de la Biografía de Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismos Neuronales de la Externalización del Lenguaje Interno y Activación de la Metacognición
+## 1. Mecanismos Neuronales de la Externalización del Lenguaje Interno y Activación de la Metacognición
 
 El 'Lenguaje Interno (Inner Speech)' meramente mental suele ocultar saltos lógicos y ambigüedades, creando ilusiones de comprensión al resolver problemas complejos. En el momento en que se convierte en 'Lenguaje Externo (External Speech)' hablado, el cerebro activa circuitos metacognitivos, permitiéndole escuchar y procesar objetivamente sus propias ideas desde una perspectiva en tercera persona. Además, combinar el habla con estímulos sociales interactivos —como las preguntas y la retroalimentación inmediata del oyente, como hacía Bohr— activa fuertemente la corteza del lenguaje y las redes de control ejecutivo, recombinando fragmentos intuitivos en marcos lógicos explícitos.
 
 ---
 
-## Precauciones y Consejos: Evitar la Charla Sin Rumbo y Establecer Límites de Tiempo Estructurados
-
-La mayor trampa al aplicar una rutina de dictado y diálogo es caer en charlas sin rumbo. Iniciar una discusión sin una pauta clara consume energía cognitiva y tiempo, desviando el objetivo de concretar ideas. Antes de hablar, declare explícitamente a su interlocutor la 'pregunta única y clara' que busca resolver, y establezca un bloque de tiempo enfocado de 15 a 20 minutos para mantener una tensión cognitiva constructiva.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La mayor trampa al aplicar una rutina de dictado y diálogo es caer en charlas s
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Evitar la Charla Sin Rumbo y Establecer Límites de Tiempo Estructurados
+
+La mayor trampa al aplicar una rutina de dictado y diálogo es caer en charlas sin rumbo. Iniciar una discusión sin una pauta clara consume energía cognitiva y tiempo, desviando el objetivo de concretar ideas. Antes de hablar, declare explícitamente a su interlocutor la 'pregunta única y clara' que busca resolver, y establezca un bloque de tiempo enfocado de 15 a 20 minutos para mantener una tensión cognitiva constructiva.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo puedo practicar esta rutina en un entorno solitario sin un compañero?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La mayor trampa al aplicar una rutina de dictado y diálogo es caer en charlas s
       Puede sustituirlo encendiendo la grabadora de voz o una aplicación de notas de voz por IA en su teléfono y hablando en voz alta como si le explicara a un oyente imaginario. El factor crucial no es la presencia física de un oyente, sino el proceso de estimulación cognitiva de convertir los pensamientos internos en lenguaje hablado externo para auditarlos nuevamente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo convertir el contenido de la discusión oral en documentación escrita productiva?</span>

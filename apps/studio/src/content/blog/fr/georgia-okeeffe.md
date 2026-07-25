@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'examen des ossements du désert à la loupe : L'observation en gros plan et la routine d'attention visuelle sélective de Georgia O'Keeffe"
 description: "Découvrez comment Georgia O'Keeffe, la « Mère du modernisme américain », a maximisé l'attention visuelle sélective en agrandissant dix fois les ossements du désert et les pétales de fleurs. Explorez la neuroscience du cortex d'association visuelle."
 pubDate: "2026-02-25"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant georgia-okeeffe est basée sur <strong>Vérification Historique issue de l'autobiographie *Georgia O'Keeffe*, des archives du Georgia O'Keeffe Museum (Santa Fe) & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie *Georgia O'Keeffe*, des archives du Georgia O'Keeffe Museum (Santa Fe) & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation du cortex d'association visuelle et attention visuelle sélective
+## 1. Stimulation du cortex d'association visuelle et attention visuelle sélective
 
 Resserrer l'attention sur un détail infime d'un objet ou d'une forme naturelle aiguise la résolution de l'<strong>Attention visuelle sélective</strong> au sein du <strong>Cortex d'association visuelle</strong>. Cet entraînement permet au cerveau de filtrer le bruit ambiant, renforçant la résolution <strong>Métacognitive</strong> pour capter l'essence des formes.
 
 ---
 
-## Mise en garde : Éviter la fatigue des muscles ciliaires et maintenir une attention douce
-
-Veillez a ne pas fatiguer les muscles ciliaires et les nerfs optiques en fixant trop longtemps des objets minuscules. Pratiquer une mini-routine de 2 a 3 minutes par jour — en observant les détails d'une respiration douce — suffit a obtenir les bénéfices cognitifs.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Veillez a ne pas fatiguer les muscles ciliaires et les nerfs optiques en fixant 
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éviter la fatigue des muscles ciliaires et maintenir une attention douce
+
+Veillez a ne pas fatiguer les muscles ciliaires et les nerfs optiques en fixant trop longtemps des objets minuscules. Pratiquer une mini-routine de 2 a 3 minutes par jour — en observant les détails d'une respiration douce — suffit a obtenir les bénéfices cognitifs.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Cette méthode est-elle efficace dans un environnement intérieur classique sans ossements ni objets rares ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Veillez a ne pas fatiguer les muscles ciliaires et les nerfs optiques en fixant 
       Oui, la nature de l'objet importe peu. Se concentrer pendant 2 minutes sur les détails d'un objet banal (mine de crayon, nervures de feuille, micro-fissure d'une tasse) stimule exactement les mêmes réseaux d'attention.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Faut-il vraiment utiliser une loupe ou une lentille ?</span>

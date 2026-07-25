@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "バーンアウトと実存的抑鬱を吹き飛ばす primitive な方法：アルベール・カミュのサッカーリセット習慣"
 description: "フランスのノーベル文学賞作家であり哲学者のアルベール・カミュ。創作のスランプや抑鬱が押し寄せるたびグラウンドに出てゴールキーパーとして身を投げ出した身体没頭ルーティン。前頭葉のオフラインと小脳認知スイッチングの神経科学的メカニズムを解き明かします。"
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「camus-football-reset」は <strong>オリヴィエ・トッド伝記『Albert Camus: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>オリヴィエ・トッド伝記『Albert Camus: A Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 前頭葉の強制オフラインと小脳（Cerebellum）および運動皮質の認知スイッチング
+## 1. 前頭葉の強制オフラインと小脳（Cerebellum）および運動皮質の認知スイッチング
 
 高度な思索、執筆、企画などの複雑な認知作業を行う時、脳の前頭前野皮質（Prefrontal Cortex）は極度なブドウ糖を消費して過熱します。前頭前野のリソースが枯渇すると、判断力麻痺、実存的疲労、抑鬱反応が起こります。アルベール・カミュのように飛んでくるボールに反射的に身を投げ出す高強度のスポーツに没頭すると、脳は身体調節とバランス、反射神経を担当する小脳（Cerebellum）および運動皮質（Motor Cortex）へと活性領域を瞬時に移動させます。この急激な「認知スイッチング（Cognitive Switching）」は前頭前野を強制オフライン（Forced Offline）状態にし、生理学的な休息を提供してコルチゾール値を下げ、神経伝達物質を再充電して再びデスクに戻った時に新鮮な認知エネルギーを与えてくれます。
 
 ---
 
-## 注意事項＆ヒント：点数競争および複雑な戦略計算型ゲームの排除
-
-このルーティンの目的は、前頭前野の認知リソースの完全な休息とリフレッシュにあります。もしサークルなどの試合に出て極端な勝敗の競争を繰り広げたり、過度に頭を使いながら複雑な戦略の駆け引きを行うスポーツに執着すると、前頭前野は休まることなく2次の認知過負荷を経験することになります。勝敗の点数にこだわらず、素早く動くボールに身体を投げ出し反射神経を使う単純で軽い身体活動に集中してこそ、前頭前野のオフライン効果が得られます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：点数競争および複雑な戦略計算型ゲームの排除
+
+このルーティンの目的は、前頭前野の認知リソースの完全な休息とリフレッシュにあります。もしサークルなどの試合に出て極端な勝敗の競争を繰り広げたり、過度に頭を使いながら複雑な戦略の駆け引きを行うスポーツに執着すると、前頭前野は休まることなく2次の認知過負荷を経験することになります。勝敗の点数にこだわらず、素早く動くボールに身体を投げ出し反射神経を使う単純で軽い身体活動に集中してこそ、前頭前野のオフライン効果が得られます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>共にサッカーやスポーツを楽しむ相手がいない1人環境ではどのように実践しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       一人でも十分に可能です。コンクリートの壁にテニスボールやスカッシュボールを当てた後、跳ね返ってくるボールを反射的に捕球する壁打ち訓練、ボクシングのサンドバッグ打撃、あるいは仮想のアジリティラダートレーニングだけでも、小脳と運動皮質を完璧に刺激して前頭前野をオフライン状態へと転換できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>精神的疲労度が極端な日に高強度の身体運動を行うと、かえって疲労が蓄されませんか？</span>

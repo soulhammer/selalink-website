@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "通篇抄写字典？麦尔坎·X的大脑重启抄写习惯"
 description: "麦尔坎·X实现了剧烈的大脑认知跃升。探讨他在狱中从第一个词至最后一个词抄写字典以求知识觉醒的坚韧笔抄习惯，以及手写对大脑神经网络产生的认知效应。"
 pubDate: "2026-07-03"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 malcolm-dictionary-transcription 的内容基于 <strong>麦尔坎·X历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>麦尔坎·X历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 手写固化大脑神经网络的神经学力量
+## 1. 手写固化大脑神经网络的神经学力量
 
 我们用眼睛阅读文本时仅有限激活视觉皮层，而用手书写笔记则开启了完全不同的认知路径。握笔与运笔的精细动作能广泛刺激大脑的<strong>运动皮层（Motor Cortex）</strong>与感觉整合区域。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 亲手落笔的笔尖能重塑注意力
-
-现代人主要通过键盘与触摸屏接收信息，导致大脑极度匮乏物理刺激，降低了向长期记忆转化的效率。像麦尔坎·X那样，每天抽出20分钟彻底关掉手机，手握纸笔将优秀的文句或词汇一笔一划誊写在纸上，是重塑注意力与促进智力增长的绝佳认知工具。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 亲手落笔的笔尖能重塑注意力
+
+现代人主要通过键盘与触摸屏接收信息，导致大脑极度匮乏物理刺激，降低了向长期记忆转化的效率。像麦尔坎·X那样，每天抽出20分钟彻底关掉手机，手握纸笔将优秀的文句或词汇一笔一划誊写在纸上，是重塑注意力与促进智力增长的绝佳认知工具。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>用电脑或平板电脑打字抄写效果是一样的吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       不，效果截然不同。打字只是用手指重复轻按按键，对大脑运动皮层的感觉刺激极其微弱。相反，用笔一笔一画控制线条轮廓的书写过程能全方位激活大脑复杂的联合区域，在记忆刻印与注意力保持方面远远优于打字。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>抄写时需要特别在意字体美观与书写规范吗？</span>

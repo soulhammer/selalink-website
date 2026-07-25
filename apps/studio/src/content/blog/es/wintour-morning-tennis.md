@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El poder detrás del liderazgo de hierro en la moda: la rutina de tenis a las 5 a. m. de Anna Wintour"
 description: "La editora en jefe de Vogue, Anna Wintour, se despierta a las 5 a. m. todas las mañanas para correr en la cancha durante una hora. Descubra la base científica y la guía práctica moderna de 3 pasos de esta rutina de tenis que despierta el cerebro."
 pubDate: "2026-05-14"
@@ -38,14 +39,14 @@ En este artículo, examinamos los beneficios neurofisiológicos de esta rutina d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre wintour-morning-tennis se basa en <strong>Investigación biográfica e histórica de Anna Wintour y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica de Anna Wintour y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aumento de la temperatura corporal y estimulación de neurotransmisores de alerta
+## 1. Aumento de la temperatura corporal y estimulación de neurotransmisores de alerta
 
 Inmediatamente después de despertar, el cerebro experimenta inercia del sueño y lentitud cognitiva. Enfrentar reuniones intensas o correos estresantes en este estado sin despertar primero el cerebro puede paralizar la corteza prefrontal, lo que lleva a decisiones impulsivas o emocionales.
 
@@ -53,9 +54,7 @@ Realizar ejercicio cardiovascular intenso como el tenis por la mañana aumenta r
 
 ---
 
-## No olvide asegurar tiempo y un calentamiento cardíaco gradual
-
-Inmediatamente después de despertar, el corazón está contraído y la presión vascular es alta. Comenzar un esprint máximo nada más abrir los ojos ejerce una gran presión sobre el sistema cardiovascular. Realice 3 minutos de calentamiento gradual, como estiramientos dinámicos suaves, antes de aumentar la intensidad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Inmediatamente después de despertar, el corazón está contraído y la presión
   </p>
 </div>
 
+---
+
+## 3. No olvide asegurar tiempo y un calentamiento cardíaco gradual
+
+Inmediatamente después de despertar, el corazón está contraído y la presión vascular es alta. Comenzar un esprint máximo nada más abrir los ojos ejerce una gran presión sobre el sistema cardiovascular. Realice 3 minutos de calentamiento gradual, como estiramientos dinámicos suaves, antes de aumentar la intensidad.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es necesario despertarse e ir a hacer ejercicio exactamente a las 5 a. m. para que funcione?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Inmediatamente después de despertar, el corazón está contraído y la presión
       No hay una razón científica para que tenga que ser exactamente a las 5 a. m. Lo fundamental es despertarse al menos 1 hora antes de comenzar su jornada laboral para activar el cerebro mediante el ejercicio físico. Lo importante es crear una rutina dentro de los primeros 30 minutos tras despertar según su horario.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué pasa si los entrenamientos de alta intensidad son demasiado pesados por articulaciones débiles o baja condición?</span>

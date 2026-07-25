@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Método de Verificação Quantitativa da Circulação de William Harvey: Destruindo Preconceitos Cegos via Cálculo Numérico Objetivo"
 description: "Descubra como o médico do século XVII William Harvey destruiu 2.000 anos de dogma ao calcular matematicamente o débito cardíaco. Explore a verdade histórica e a neurociência da verificação numérica."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de v
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre harvey-blood-circulation é baseada em <strong>Verificação Histórica de *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* de William Harvey e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* de William Harvey e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Quantificação Matemática e Mecanismos de Controle Lógico do Lobo Parietal Esquerdo
+## 1. Quantificação Matemática e Mecanismos de Controle Lógico do Lobo Parietal Esquerdo
 
 Manejar dados numéricos precisos em vez de intuições vagas estimula as redes de cálculo no <strong>Lobo Parietal Esquerdo</strong> e no <strong>Córtex Pré-frontal</strong>. Esse processo de <strong>Quantificação Matemática</strong> elimina vieses subjetivos e dogmas antigos. Ao acalmar a amígdala, ativa o controle executivo pré-frontal para alcançar clareza lógica.
 
 ---
 
-## Precaução: Protocolo para Substituir Convenções Vagas por Métricas Quantitativas
-
-Não aceite hábitos operacionais sem questionar apenas por tradição ou autoridade. O cérebro identifica falhas e hipóteses falsas apenas quando descrições vagas são convertidas em unidades numéricas mensuráveis com entradas e saídas bem definidas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Não aceite hábitos operacionais sem questionar apenas por tradição ou autori
   </p>
 </div>
 
+---
+
+## 3. Precaução: Protocolo para Substituir Convenções Vagas por Métricas Quantitativas
+
+Não aceite hábitos operacionais sem questionar apenas por tradição ou autoridade. O cérebro identifica falhas e hipóteses falsas apenas quando descrições vagas são convertidas em unidades numéricas mensuráveis com entradas e saídas bem definidas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como posso aplicar este método quantitativo à análise de indicadores de negócios?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Não aceite hábitos operacionais sem questionar apenas por tradição ou autori
       Substitua afirmações vagas como 'os usuários gostam deste recurso' por métricas quantitativas mensuráveis: volume de aquisição, tempo de permanência e taxa de rotatividade.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que fazer se as métricas quantitativas contradisserem minha intuição pessoal?</span>

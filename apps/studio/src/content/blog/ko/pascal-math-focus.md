@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "블레즈 파스칼의 기하학 몰입: 고난도 과제로 통증과 스트레스를 뇌에서 지우는 법"
 description: "17세기 천재 블레즈 파스칼이 극심한 치통과 두통을 고난도 수학 몰입으로 극복한 역사적 사실과 주의 전환 통제(Attentional Gating)의 과학적 원리를 알아봅니다."
 pubDate: "2026-06-06"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Pascal Math Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 pascal-math-focus 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Pascal Math Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 고난도 인지 몰입이 신체적·정신적 불편감을 상쇄하는 과학적 이유
+## 1. 고난도 인지 몰입이 신체적·정신적 불편감을 상쇄하는 과학적 이유
 
 현대 뇌과학은 이를 '주의 전환 통제 메커니즘(Attentional Gating Theory)'으로 설명합니다. 인간의 전전두엽 피질이 높은 난이도의 인지적 과제에 100% 몰입하면, 시상(Thalamus) 신경망이 하위 통증 및 스트레스 감각 신호를 적극적으로 게이팅(차단)하여 감지하지 못하게 됩니다.
 
 ---
 
-## 파스칼의 몰입 주의사항 및 뇌과학적 팁
-
-잡념이나 스트레스가 밀려올 때 억지로 참으려 애쓰지 마세요. 즉시 작업 기억(Working Memory)을 100% 사용하는 높은 난이도의 퀴즈나 독서 과제로 전환하여 15 - 20분간 뇌의 감각 차단 밸브를 가동해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 파스칼의 몰입 주의사항 및 뇌과학적 팁
+
+잡념이나 스트레스가 밀려올 때 억지로 참으려 애쓰지 마세요. 즉시 작업 기억(Working Memory)을 100% 사용하는 높은 난이도의 퀴즈나 독서 과제로 전환하여 15 - 20분간 뇌의 감각 차단 밸브를 가동해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>이 방법이 일상적인 업무 스트레스나 불안감에도 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 그렇습니다. 뇌 시상(Thalamus)의 게이팅 메커니즘은 신체적 통증뿐만 아니라 심리적 불안과 스트레스 신호도 동일하게 차단해 줍니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>고난도 몰입 스프린트는 얼마 동안 유지하는 것이 좋은가요?</span>

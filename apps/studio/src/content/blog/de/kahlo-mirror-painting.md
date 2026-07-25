@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das eigene Spiegelbild im Baldachin malen: Frida Kahlos Selbstporträt-Routine und Spiegel-Fokussierung"
 description: "Erfahren Sie, wie die mexikanische Malerin Frida Kahlo körperliche Schmerzen überwand, indem sie mithilfe eines Baldachinspiegels Selbstporträts malte. Entdecken Sie die klinische Psychologie der Spiegel-Betrachtung und Resilienz."
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die klinische Psychologie hinter Frida Kahlo
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu kahlo-mirror-painting basiert auf <strong>Historische Überprüfung aus *Das Tagebuch der Frida Kahlo*, Hayden Herreras Biografie & Forschung der klinischen Psychologie und kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus *Das Tagebuch der Frida Kahlo*, Hayden Herreras Biografie & Forschung der klinischen Psychologie und kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Spiegel-Betrachtungstechnik und klinische Psychologie der Resilienz
+## 1. Spiegel-Betrachtungstechnik und klinische Psychologie der Resilienz
 
 Das ruhige Betrachten des eigenen Spiegelbilds wird in der klinischen Psychologie als <strong>Spiegel-Betrachtungstechnik (Mirror-Gazing)</strong> bezeichnet. Bei starken Schmerzen oder Traumata neigt das Gehirn zu negativen Gedankenschleifen. Ein Spiegel dient hierbei als Werkzeug zur kognitiven Entkopplung, indem er es ermöglicht, den eigenen Körper und die Gefühle aus einer Beobachterperspektive zu betrachten. Dieser Vorgang stellt die Kontrolle über das eigene Selbst wieder her. Frida Kahlos tägliche Begegnung mit sich selbst war Ausdruck von <strong>Resilienz</strong> und <strong>Selbstakzeptanz (Self-Acceptance)</strong>, was emotionale Stabilität förderte.
 
 ---
 
-## Vorsichtsmaßnahme: Subjektive Urteile und äußere Bewertungen ausschließen und sich selbst annehmen
-
-Die wichtigste Regel bei der Spiegel-Betrachtung ist das Verzichten auf Kritik an äußeren Makeln oder abwertende Urteile. Der Blick in den Spiegel dient nicht der optischen Kontrolle, sondern dem wohlwollenden Wahrnehmen des eigenen Zustands ohne Bewertung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Die wichtigste Regel bei der Spiegel-Betrachtung ist das Verzichten auf Kritik a
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Subjektive Urteile und äußere Bewertungen ausschließen und sich selbst annehmen
+
+Die wichtigste Regel bei der Spiegel-Betrachtung ist das Verzichten auf Kritik an äußeren Makeln oder abwertende Urteile. Der Blick in den Spiegel dient nicht der optischen Kontrolle, sondern dem wohlwollenden Wahrnehmen des eigenen Zustands ohne Bewertung.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was kann ich tun, wenn der Blick in den Spiegel Stress erzeugt, weil ich nur Makel oder Falten sehe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Die wichtigste Regel bei der Spiegel-Betrachtung ist das Verzichten auf Kritik a
       Das ist eine natürliche Reaktion. Anfänglich werden Bewertungsmuster leicht aktiviert. Blicken Sie nicht auf das gesamte Gesicht, sondern konzentrieren Sie sich nur auf Ihre Pupillen. Der Fokus liegt auf der Verbindung mit Ihrem inneren Ich, nicht auf der Analyse von Gesichtszügen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist die Spiegel-Betrachtung auch ohne das Malen von Selbstporträts therapeutisch wirksam?</span>

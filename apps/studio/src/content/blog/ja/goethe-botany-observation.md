@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "庭園を歩きながら種を集めた大文豪：ゲーテの朝の観察習慣と注意回復ルーティン"
 description: "毎日朝、拡大鏡で植物を精密観察し自然のインスピレーションを得たヨハン・ヴォルフガング・フォン・ゲーテ。自然露出が認知疲労を劇的に下げる「注意回復理論」の秘密と、ゲーテの朝の観察散歩法、脳科学的メカニズムを解き明かします。"
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「goethe-botany-observation」は <strong>ヨハン・ヴォルフガング・フォン・ゲーテ自伝『詩と真実（Dichtung und Wahrheit）』および植物学論文『植物変態論（Metamorphose der Pflanzen）』考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ヨハン・ヴォルフガング・フォン・ゲーテ自伝『詩と真実（Dichtung und Wahrheit）』および植物学論文『植物変態論（Metamorphose der Pflanzen）』考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自然露出と「注意回復理論（ART）」の脳科学
+## 1. 自然露出と「注意回復理論（ART）」の脳科学
 
 コンピューター画面のデータ分析、緻密な文字の読書、複雑な業務企画などは、大脳前頭葉が認知エネルギーを消費し続ける<strong>「意図的注意力（Directed Attention）」</strong>状態を引き起こします。この状態が持続すると、脳は集中疲労（Directed Attention Fatigue）を経験し、注意力と創造力が急減します。環境心理学者スティーブン・カプラン（Stephen Kaplan）が提案した<strong>「注意回復理論（Attention Restoration Theory, ART）」</strong>によると、植物のフラクタル構造、舞い散る葉、種子の模様のように人為的な努力を必要としない自然物の非意図的注意力集中対象を観察する時、脳の意図的注意回復スイッチがオンになります。朝庭園を精密に観察しながら15分間ゆっくり散歩するリチュアルは、前頭葉の認知疲労を解消し、ストレスホルモンであるコルチゾール数値を下げ、終日直感と洞察の深さを維持するよう助けます。
 
 ---
 
-## 注意事項：自然のフラクタル構造の精密観察による前頭葉認知疲労回復ルール
-
-モニター内の文字やインフォグラフィックは脳に意図的注意力集中を強要し、前頭葉を容易に放電させます。人為的刺激のない自然物の葉、葉脈、種子の模様などのフラクタル構造を15分間観察するだけで、脳の注意回復スイッチがオンになります。ただし、デジタル画面を見ながら歩かず、自然の対象そのものに注意を軽やかに預けておいてこそ、完全な認知リセットが起こります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：自然のフラクタル構造の精密観察による前頭葉認知疲労回復ルール
+
+モニター内の文字やインフォグラフィックは脳に意図的注意力集中を強要し、前頭葉を容易に放電させます。人為的刺激のない自然物の葉、葉脈、種子の模様などのフラクタル構造を15分間観察するだけで、脳の注意回復スイッチがオンになります。ただし、デジタル画面を見ながら歩かず、自然の対象そのものに注意を軽やかに預けておいてこそ、完全な認知リセットが起こります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>家にある観葉植物や鉢植えの花を観察することも役に立ちますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、室内の鉢植えや観葉植物の葉脈や螺旋パターンを拡大鏡を当てるように精密観察することも、非意図的注意を刺激して前頭葉の疲労を軽減させます。ただし、日光（自然光）への露出と軽い歩行が伴う屋外観察が、総合的な認知力および神経回復に最も効果的です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ゲーテのように実際に拡大鏡や採集袋を持ち歩かなければなりませんか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Mestre da Revolução da Imprensa: A Rotina Matinal de Inspeção de Precisão de Tipos Móveis e Mecanismo ERN de Gutenberg"
 description: "Descubra como Gutenberg, inventor dos tipos móveis metálicos, preservou os padrões de impressão ao inspecionar o alinhamento dos tipos todas as manhãs. Explore a neurociência do córtex cingulado anterior (ACC) e a negatividade relacionada a erros (ERN)."
 pubDate: "2026-06-04"
@@ -33,25 +34,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de i
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre gutenberg-movable-type-inspection é baseada em <strong>Verificação Histórica das Biografias de Johannes Gutenberg, Arquivos do Museu Gutenberg de Mogúncia e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Biografias de Johannes Gutenberg, Arquivos do Museu Gutenberg de Mogúncia e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação ERN (Negatividade Relacionada a Erros) e Mecanismo de Detecção de Erros
+## 1. Estimulação ERN (Negatividade Relacionada a Erros) e Mecanismo de Detecção de Erros
 
 Deixar pequenos desajustes ou microerros sem correção em um sistema operacional permite que as falhas se acumulem, provocando o colapso do sistema. Praticar a inspeção manual prévia de 5 minutos de Gutenberg — uma <strong>'Rotina de Controle de Erros'</strong> — calibra com precisão a sensibilidade da resposta de <strong>Negatividade Relacionada a Erros (ERN)</strong> gerada no <strong>Córtex Cingulado Anterior (ACC)</strong>. Esse condicionamento permite ao cérebro detectar e corrigir desalinhamentos ao instante.
 
 ---
 
-## Precaução: Quebre a Armadilha de Confiar na Intuição Mediante a Inspeção Sistemática
-
-Confiar de forma complacente em atalhos mentais — assumindo que 'provavelmente está bom' — provoca falhas graves no sistema. Em vez de forçar a vontade, fixe um hábito físico de inspeção de 5 minutos no seu ambiente diário: verifique manualmente o alinhamento e três pontos críticos com olhos e mãos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Confiar de forma complacente em atalhos mentais — assumindo que 'provavelmente
   </p>
 </div>
 
+---
+
+## 3. Precaução: Quebre a Armadilha de Confiar na Intuição Mediante a Inspeção Sistemática
+
+Confiar de forma complacente em atalhos mentais — assumindo que 'provavelmente está bom' — provoca falhas graves no sistema. Em vez de forçar a vontade, fixe um hábito físico de inspeção de 5 minutos no seu ambiente diário: verifique manualmente o alinhamento e três pontos críticos com olhos e mãos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que realizar uma inspeção manual se existem ferramentas de teste automatizadas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Confiar de forma complacente em atalhos mentais — assumindo que 'provavelmente
       Os testes automatizados detectam erros lógicos, mas não captam desequilíbrios visuais ou imperfeições de layout. Uma inspeção humana de 5 minutos dá o toque final necessário para a perfeição.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que fazer se as inspeções matinais causarem atrasos no trabalho?</span>

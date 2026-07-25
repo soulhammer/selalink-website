@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Perfecionismo Obsessivo do Poeta do Piano: A Rotina de Iteração no Teclado e Ajuste Fino do Córtex Cingulado Anterior de Frédéric Chopin"
 description: "Descubra como o mestre romântico Frédéric Chopin tocava melodias centenas de vezes ao piano para forjar obras-primas imortais, e explore a neurociência cognitiva da detecção de erros do Córtex Cingulado Anterior (ACC) e do Microajuste Neuronal."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'itera�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre chopin-piano-refinement é baseada em <strong>Verificação Histórica da Autobiografia de George Sand *Histoire de ma vie (História da Minha Vida)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de George Sand *Histoire de ma vie (História da Minha Vida)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Loops de Iteração de Feedback e Microajuste Neuronal do Córtex Cingulado Anterior (ACC)
+## 1. Loops de Iteração de Feedback e Microajuste Neuronal do Córtex Cingulado Anterior (ACC)
 
 O Córtex Cingulado Anterior (ACC) atua como o centro de monitoramento em tempo real do cérebro que detecta discrepâncias entre os objetivos internos e a execução física real. Comparar continuamente as melodias mentais com os sons produzidos por meio de centenas de repetições ao piano — como fazia Chopin — engaja ao máximo a rede de detecção de erros do ACC. Quando esse loop de feedback é executado de forma intensa, o cérebro transita para o 'Microajuste Neuronal', reconfigurando a conectividade sináptica. Esse processo poda o ruído cognitivo e dissonâncias a nível neuronal.
 
 ---
 
-## Precauções e Dicas: Separação Estrita da Geração do Rascunho Inicial do Refinamento
-
-O principal risco ao aplicar uma rotina iterativa ao estilo de Chopin é tentar a perfeição absoluta durante a fase inicial do rascunho. Mesmo Chopin construiu suas revisões ao piano sobre esqueletos melódicos intuitivos. Durante a geração do rascunho, reprima os filtros pré-frontais e elabore a estrutura rapidamente sem editar. Apenas ao passar para a Fase 2 — Refinamento —, ative a crítica minuciosa do ACC para evitar a paralisia criativa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O principal risco ao aplicar uma rotina iterativa ao estilo de Chopin é tentar 
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Separação Estrita da Geração do Rascunho Inicial do Refinamento
+
+O principal risco ao aplicar uma rotina iterativa ao estilo de Chopin é tentar a perfeição absoluta durante a fase inicial do rascunho. Mesmo Chopin construiu suas revisões ao piano sobre esqueletos melódicos intuitivos. Durante a geração do rascunho, reprima os filtros pré-frontais e elabore a estrutura rapidamente sem editar. Apenas ao passar para a Fase 2 — Refinamento —, ative a crítica minuciosa do ACC para evitar a paralisia criativa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O perfecionismo iterativo obsessivo não atrapalha o progresso e causa o descumprimento de prazos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O principal risco ao aplicar uma rotina iterativa ao estilo de Chopin é tentar 
       Sim, é um risco real. Para evitar isso, separe o 'tempo de rascunho' do 'tempo de refinamento' e estabeleça limites quantitativos — como limitar a revisão a um máximo de 3 horas ou 5 ciclos. Aplicar o refinamento dentro de uma janela de tempo definida mantém o equilíbrio entre produtividade e qualidade.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Em que momento do refinamento iterativo deve-se parar de modificar e dar o trabalho por concluído?</span>

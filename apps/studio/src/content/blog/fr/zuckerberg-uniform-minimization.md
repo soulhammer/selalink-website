@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gérer la fatigue décisionnelle : L'habitude de l'uniforme unique de Mark Zuckerberg"
 description: "Mark Zuckerberg a réduit la fatigue décisionnelle en portant exactement le même t-shirt et le même jean tous les jours. Nous explorons les principes scientifiques visant à prévenir 'l'épuisement de l'ego'—une ressource énergétique cérébrale finie—et à se concentrer sur les décisions essentielles."
 pubDate: "2026-06-12"
@@ -31,25 +32,23 @@ Mark Zuckerberg est le fondateur et PDG de Meta, un empire mondial des médias s
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant zuckerberg-uniform-minimization est basée sur <strong>Biographies historiques et récits autobiographiques sur la minimisation de l'uniforme de Zuckerberg et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques sur la minimisation de l'uniforme de Zuckerberg et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Protection des ressources finies en glucose du cerveau et prévention de l'épuisement de l'ego
+## 1. Protection des ressources finies en glucose du cerveau et prévention de l'épuisement de l'ego
 
 L'énergie utilisée par le cortex préfrontal lors de la prise de décision est finie. À mesure que les choix s'accumulent, les cellules cérébrales consomment du glucose et de l'oxygène, ce qui entraîne une diminution du contrôle exécutif appelée 'Épuisement de l'Ego' (Ego Depletion). Des choix futiles comme 'que vais-je porter ce matin ?' épuisent la réserve exécutive du cerveau. En automatisant ces processus quotidiens grâce à un uniforme unique comme Zuckerberg, le cortex préfrontal préserve son budget glucose pour les décisions stratégiques cruciales, améliorant ainsi leur qualité.
 
 ---
 
-## Précautions et conseils
-
-Une erreur courante lors de l'adoption d'un uniforme est de stresser face à la perception des autres quant à la régularité de votre tenue. Si vous commencez à vous obséder par le style ou la perfection esthétique, cela crée une nouvelle charge psychologique pour le cerveau, augmentant la fatigue décisionnelle au lieu de la réduire. La clé est de choisir un style simple et confortable qui ne demande aucun effort mental, libérant ainsi l'esprit de tout jugement extérieur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Une erreur courante lors de l'adoption d'un uniforme est de stresser face à la 
   </p>
 </div>
 
+---
+
+## 3. Précautions et conseils
+
+Une erreur courante lors de l'adoption d'un uniforme est de stresser face à la perception des autres quant à la régularité de votre tenue. Si vous commencez à vous obséder par le style ou la perfection esthétique, cela crée une nouvelle charge psychologique pour le cerveau, augmentant la fatigue décisionnelle au lieu de la réduire. La clé est de choisir un style simple et confortable qui ne demande aucun effort mental, libérant ainsi l'esprit de tout jugement extérieur.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Si je porte les mêmes vêtements tous les jours, comment gérer les réunions importantes ou les occasions formelles ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Une erreur courante lors de l'adoption d'un uniforme est de stresser face à la 
       Mark Zuckerberg porte également un costume lors d'événements officiels ou de conseils d'administration. L'objectif principal est d'éliminer les choix futiles ; définir à l'avance une tenue formelle vous permet de la porter sans hésiter ni générer de fatigue.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je composer un uniforme avec d'autres vêtements que des t-shirts et des jeans ?</span>

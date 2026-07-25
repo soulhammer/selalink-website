@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Aislamiento para una inmersión perfecta: El hábito de escritura en la cabaña giratoria de George Bernard Shaw"
 description: "El dramaturgo Bernard Shaw, ganador del Premio Nobel y del Óscar. Descubra el secreto de su concentración profunda: encerrarse 6 horas al día en una pequeña cabaña giratoria en el jardín para aprovechar la luz natural y bloquear distracciones."
 pubDate: "2026-02-27"
@@ -32,22 +33,20 @@ George Bernard Shaw, el dramaturgo ganador del Premio Nobel famoso por obras com
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre shaw-rotating-hut-focus se basa en <strong>Biografías históricas, registros autobiográficos del enfoque en la cabaña giratoria de Shaw e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas, registros autobiográficos del enfoque en la cabaña giratoria de Shaw e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Exposición a la luz natural y minimización de los costos de cambio cognitivo (Switching Cost)
+## 1. Exposición a la luz natural y minimización de los costos de cambio cognitivo (Switching Cost)
 
 La exposición continua a la luz natural estimula las células fotosensibles de la retina, maximizando la síntesis de serotonina que induce el estado de alerta, un efecto que la iluminación artificial interior no puede replicar. Además, cada vez que el cerebro enfrenta pequeñas interrupciones externas (preguntas, llamadas, toques en la puerta), consume una cantidad considerable de energía (costos de cambio) para reajustar el contexto de la memoria de trabajo. Colocar el cerebro en un espacio físicamente aislado como la cabaña de Shaw elimina las interferencias cognitivas desde la raíz, reduciendo la pérdida de memoria de trabajo y facilitando horas de trabajo profundo continuo.
 
 ---
 
-## Precauciones y consejos
-
-Una advertencia importante al aplicar el aislamiento físico es llevar teléfonos inteligentes y notificaciones de redes sociales al espacio aislado. Aunque bloquee a las personas externas, llevar distracciones digitales adentro mantiene al cerebro atrapado en impulsos inconscientes de revisar notificaciones, desencadenando fatiga por multitarea. Por lo tanto, al ingresar a su zona de enfoque, desactive todas las notificaciones (modo No molestar) o trabaje sin conexión. Un verdadero desintoxicación digital combinado con el aislamiento físico es indispensable para experimentar plenamente el efecto de la cabaña giratoria.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Una advertencia importante al aplicar el aislamiento físico es llevar teléfono
     Situar su escritorio cerca de una ventana para recibir la luz solar natural. Permitir que la luz natural ingrese a su campo de visión desde temprano estimula la síntesis de serotonina, revitalizando el cerebro para abordar tareas complejas.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Una advertencia importante al aplicar el aislamiento físico es llevar teléfonos inteligentes y notificaciones de redes sociales al espacio aislado. Aunque bloquee a las personas externas, llevar distracciones digitales adentro mantiene al cerebro atrapado en impulsos inconscientes de revisar notificaciones, desencadenando fatiga por multitarea. Por lo tanto, al ingresar a su zona de enfoque, desactive todas las notificaciones (modo No molestar) o trabaje sin conexión. Un verdadero desintoxicación digital combinado con el aislamiento físico es indispensable para experimentar plenamente el efecto de la cabaña giratoria.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

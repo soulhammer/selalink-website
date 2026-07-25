@@ -507,6 +507,10 @@
           "대형견 케어"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/golden_retriever_care.png"
   }
 }

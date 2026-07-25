@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "塞内加的晚间自我反省：获得平静熟睡与修正昨日过失之道"
 description: "介绍斯多葛派哲学家塞内加在睡前暗室中审视与反省一天言行、舒缓大脑紧张并提升睡眠质量的秘诀。"
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 seneca-evening-review 的内容基于 <strong>塞内加著作《论愤怒》（De Ira）考证及斯多葛哲学研究与认知神经科学睡眠生理学研究</strong> 撰写。
+      本内容基于 <strong>塞内加著作《论愤怒》（De Ira）考证及斯多葛哲学研究与认知神经科学睡眠生理学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 晚间反省使大脑转换为睡眠模式的生理学原因
+## 1. 晚间反省使大脑转换为睡眠模式的生理学原因
 
 带着未解决的焦虑和压力入睡会使交感神经系统持续保持兴奋，导致大脑在睡眠中依然处于警觉状态，破坏深度睡眠。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 避开自责与后悔的陷阱
-
-晚间反省的本质是理性地寻找改进方案，而非情绪化的自责或自惩。当面对自己的失误时，歇斯底里的自我指责只会引发压力并加重失眠。请平静地宽恕自己：“虽然犯了错，但我明白了原因，明天加以改正。”保持如客观法官般的冷静分析。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     挑出今天最令人遗憾的一处处理方式，确立一项具体改进方案以备明天应对相同状况。制定好方案后，默念：“今天的事到此为止”，切断所有杂念。
   </p>
 </div>
+
+---
+
+## 3. 避开自责与后悔的陷阱
+
+晚间反省的本质是理性地寻找改进方案，而非情绪化的自责或自惩。当面对自己的失误时，歇斯底里的自我指责只会引发压力并加重失眠。请平静地宽恕自己：“虽然犯了错，但我明白了原因，明天加以改正。”保持如客观法官般的冷静分析。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

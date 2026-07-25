@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "每日两小时散步的灵感：柴可夫斯基的创意步行习惯"
 description: "俄罗斯伟大的作曲家彼得·伊里奇·柴可夫斯基为了构思音乐灵感，每天坚持精确散步两小时。本文探讨持续步行与默认模式网络（DMN）的脑科学原理。"
 pubDate: "2026-06-01"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 tchaikovsky-two-hour-walk 的内容基于 <strong>莫德斯特·柴可夫斯基《彼得·伊里奇·柴可夫斯基的书信与一生》(1904) 及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>莫德斯特·柴可夫斯基《彼得·伊里奇·柴可夫斯基的书信与一生》(1904) 及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 每日精确两小时规律散步带来的脑电波节奏稳定
+## 1. 每日精确两小时规律散步带来的脑电波节奏稳定
 
 柴可夫斯基每天在固定时间准时户外散步整整两小时的规律习惯，显著提高了大脑视空间皮层与海马体的血流量，为在脑海中孕育宏大交响乐的优美旋律提供了源源不断的动力。持续步行激活了大脑的默认模式网络（DMN），促进了潜意识中沉睡的记忆与情感旋律的融合。
 
 ---
 
-## 遵守散步纪律时间的重要性
-
-正如柴可夫斯基严格捍卫自己的散步时间一样，在旨在获取灵感的步行时间内，必须彻底屏蔽智能手机或工作通知等外部干扰因素。完整执行既定的步行例程，营造能让大脑达到情绪平静与创意沉浸状态的环境。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     不半途而废地完整完成2小时步行例程，提升脑血流量并放松神经系统，随后立即回到书房或工作台整理构思好的内容。
   </p>
 </div>
+
+---
+
+## 3. 遵守散步纪律时间的重要性
+
+正如柴可夫斯基严格捍卫自己的散步时间一样，在旨在获取灵感的步行时间内，必须彻底屏蔽智能手机或工作通知等外部干扰因素。完整执行既定的步行例程，营造能让大脑达到情绪平静与创意沉浸状态的环境。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

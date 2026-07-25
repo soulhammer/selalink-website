@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Master of 'Girl with a Pearl Earring'? Vermeer's Morning Window Light Observation Routine"
 description: "Johannes Vermeer, the master of light, obtained emotional serenity and three-dimensional inspiration by precisely observing light and shadow via camera obscura in his morning routine."
 pubDate: "2026-04-05"
@@ -34,22 +35,20 @@ In today's post, we introduce the science of soothing the Default Mode Network (
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding vermeer-camera-obscura-light is based on <strong>Vermeer historical biographies & autobiographical records validation & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Vermeer historical biographies & autobiographical records validation & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## High-Level Cognitive Recovery Provided by Visual Contrast Sensitivity & Autonomic Calm
+## 1. High-Level Cognitive Recovery Provided by Visual Contrast Sensitivity & Autonomic Calm
 
 Modern eyes and brains suffer from continuous fatigue accumulation due to exposure to flickering artificial stimuli and fast frames on monitors. Quietly contemplating morning natural sunlight and subtle shadows like Vermeer is a <strong>'visual mini-meditation'</strong> that stimulates the contrast sensitivity of the visual cortex while activating the parasympathetic nervous system. Visual noise is blocked and cognitive reset occurs, allowing one to perceive essential shapes and inspirations.
 
 ---
 
-## Put Away the Smartphone and Observe Pure Untouched Light
-
-The core of the camera obscura is receiving light projected through the lens as it is without hastily interpreting objects. For 5 minutes, refrain from holding any digital device and quietly appreciate light particles as they are.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ The core of the camera obscura is receiving light projected through the lens as 
   </p>
 </div>
 
+---
+
+## 3. Put Away the Smartphone and Observe Pure Untouched Light
+
+The core of the camera obscura is receiving light projected through the lens as it is without hastily interpreting objects. For 5 minutes, refrain from holding any digital device and quietly appreciate light particles as they are.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How do I do this routine on rainy or cloudy days?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ The core of the camera obscura is receiving light projected through the lens as 
       Even the subtle, soft milky light of a cloudy day is a wonderful subject for observing illumination. You may also observe the light refractions forming through raindrops on window panes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is this effective even if I don't work in art or design like Vermeer?</span>

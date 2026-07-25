@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "大自然赋予的不确定性灵感：海森堡的阿尔卑斯徒步习惯与DMN孵化指南"
 description: "探索为破解量子力学谜题而独游巴伐利亚阿尔卑斯山深思的维尔纳·海森堡。揭示自然漫步修复大脑注意力与拉动预设模式网络（DMN）开展创造性孵化的科学原理。"
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 heisenberg-alpine-hiking 的内容基于 <strong>维尔纳·海森堡自传《部分与整体（Der Teil und das Ganze）》与巴伐利亚科学院史料考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong> 撰写。
+      本内容基于 <strong>维尔纳·海森堡自传《部分与整体（Der Teil und das Ganze）》与巴伐利亚科学院史料考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 注意力恢复理论（ART）与预设模式网络（DMN）潜意识孵化原理
+## 1. 注意力恢复理论（ART）与预设模式网络（DMN）潜意识孵化原理
 
 长时间专注于电脑屏幕或抽象数据，会过度耗损前额叶皮层的“定向注意力（Directed Attention）”资源，引发注意力疲劳。当如海森堡这般漫步于郁郁葱葱的大自然中时，认知科学中的<strong>“注意力恢复理论（Attention Restoration Theory，ART）”</strong>被激活。自然界所赋予的<strong>“柔性吸引（Soft Fascination）”</strong>刺激——如摇曳的树叶、微风声与山峦天际，能让定向集中的大脑活动获得休息，抚平前额叶的紧绷。此刻，大脑潜意识处理通道机制——<strong>“预设模式网络（Default Mode Network，DMN）”</strong>全面运转，展开在无意识间将错综复杂的数学公式与概念碎片重新排布的<strong>“认知孵化（Cognitive Incubation）”</strong>，从而孕育出划时代的创造性洞见。
 
 ---
 
-## 注意事项：阻断数字干扰与导向潜意识深层孵化的森林徒步指南
-
-在通过森林徒步开展深思时，须严加忌讳的破坏性因素莫过于边踱步边用手机收听播客或查阅邮件。若身处自然却依然向数字屏幕持续交出有意识注意力，大脑的注意力修复与DMN潜意识孵化将被彻底阻断。请将手机切至飞行模式，将全部感官意识完全归还于自然的清风鸟鸣与双脚跨步的物理震动感中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：阻断数字干扰与导向潜意识深层孵化的森林徒步指南
+
+在通过森林徒步开展深思时，须严加忌讳的破坏性因素莫过于边踱步边用手机收听播客或查阅邮件。若身处自然却依然向数字屏幕持续交出有意识注意力，大脑的注意力修复与DMN潜意识孵化将被彻底阻断。请将手机切至飞行模式，将全部感官意识完全归还于自然的清风鸟鸣与双脚跨步的物理震动感中。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>若居于高密度都市、远离山川绿道，该如何等效替代？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       可以漫步于城市公园、植物园或林荫大道30分钟以上进行替代，全程切勿使用手机。机制的核心在于借助户外踱步激活视空间感官通路与拉升大脑充氧血流。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在徒步途中闪现灵感时，有何既能精准保留又不妨碍沉浸踱步的记录技巧？</span>

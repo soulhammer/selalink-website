@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cultiver la terre et arracher les mauvaises herbes dans un jardin rural : La méthode de contemplation de la nature et la routine de relaxation DMN d'Hermann Hesse"
 description: "Découvrez comment le prix Nobel et écrivain pacifiste Hermann Hesse gérait l'épuisement nerveux et l'anxiété en touchant la terre du jardin et en taillant des branches chaque jour. Explorez la neuroscience de sa routine de jardinier."
 pubDate: "2026-02-16"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant hesse est basée sur <strong>Vérification Historique issue de l'essai d'Hermann Hesse *Le Bonheur du jardinage (Freude am Garten)* et de sa correspondance, ainsi que de la recherche en Neurosciences Cognitives et Psychologie Environnementale</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'essai d'Hermann Hesse *Le Bonheur du jardinage (Freude am Garten)* et de sa correspondance, ainsi que de la recherche en Neurosciences Cognitives et Psychologie Environnementale</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Inhibition de l'hyperactivation du Réseau du Mode par Défaut (DMN) et relaxation du système nerveux
+## 1. Inhibition de l'hyperactivation du Réseau du Mode par Défaut (DMN) et relaxation du système nerveux
 
 S'adonner à un travail physique simple tout en se concentrant sur la terre, la forêt et les stimuli sensoriels supprime l'hyperactivation du <strong>Réseau du Mode par Défaut (DMN)</strong>, responsable de la rumination mentale. Ce basculement physiologique provoque une chute brutale de l'hormone du stress, le <strong>cortisol</strong>, et active le <strong>système nerveux parasympathique</strong>, purgeant l'anxiété chronique et la fatigue préfrontale tout en offrant une profonde sérénité.
 
 ---
 
-## Mise en garde : Bloquer la rumination professionnelle et s'immerger exclusivement dans les stimuli sensoriels analogiques
-
-En marchant ou en jardinant, évitez de trimballer vos soucis professionnels. Pendant 10 à 15 minutes, focalisez votre conscience exclusivement sur la réception de stimuli sensoriels analogiques externes — le contact de la terre, le vent et l'arôme des feuilles —, permettant à votre cerveau une récupération cognitive totale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ En marchant ou en jardinant, évitez de trimballer vos soucis professionnels. Pe
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Bloquer la rumination professionnelle et s'immerger exclusivement dans les stimuli sensoriels analogiques
+
+En marchant ou en jardinant, évitez de trimballer vos soucis professionnels. Pendant 10 à 15 minutes, focalisez votre conscience exclusivement sur la réception de stimuli sensoriels analogiques externes — le contact de la terre, le vent et l'arôme des feuilles —, permettant à votre cerveau une récupération cognitive totale.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Dois-je accomplir un travail physique comme le désherbage ou le sciage en touchant réellement la terre ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ En marchant ou en jardinant, évitez de trimballer vos soucis professionnels. Pe
       Une activité physique telle que toucher la terre et désherber constitue un signal idéal permettant à votre cortex préfrontal de se reposer de « l'attention dirigée ». Cependant, si vous n'avez pas de jardin, marcher en forêt et toucher des branches offre des bénéfices de relaxation neuronale identiques.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment puis-je remplacer cela si je vis en appartement ou en zone urbaine sans jardin ni terre ?</span>

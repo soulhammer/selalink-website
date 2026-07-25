@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Novelist Who Banned Family Access for 4 Hours Every Morning? Thomas Mann's Environmental Control Focus Method"
 description: "German Nobel laureate Thomas Mann wrote every morning from 9:00 AM to 1:00 PM in total isolation from external stimuli. Explore environmental control principles that prevent prefrontal cognitive depletion and modern stimulus-free focus protocols."
 pubDate: "2026-01-24"
@@ -36,14 +37,14 @@ In this post, we analyze the neuroscientific principles behind Thomas Mann's str
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding mann-strict-schedule is based on <strong>Historical biographies, autobiographical records of Thomas Mann & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies, autobiographical records of Thomas Mann & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Environmental Control and Prevention of Cortical Cognitive Fatigue
+## 1. Environmental Control and Prevention of Cortical Cognitive Fatigue
 
 Cognitive energy in the Prefrontal Cortex—which coordinates willpower and complex problem-solving—is highest in the morning, but its capacity is strictly limited. Minor distractions such as smartphone notifications, social media, or casual chatter drain this energy rapidly.
 
@@ -51,9 +52,7 @@ Due to the phenomenon of <strong>'Attention Residue'</strong>, which occurs when
 
 ---
 
-## The Trap of Shallow Work
-
-Checking emails, replying instantly to chat messages, or mindless web browsing give the brain a false sense of productivity without driving meaningful cognitive progress—these represent 'Shallow Work'. Like Thomas Mann, you must block out specific focus hours, ban shallow tasks during that window, and place your brain in a stimulus-free state to achieve true Deep Work and high-efficiency output.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Checking emails, replying instantly to chat messages, or mindless web browsing g
   </p>
 </div>
 
+---
+
+## 3. The Trap of Shallow Work
+
+Checking emails, replying instantly to chat messages, or mindless web browsing give the brain a false sense of productivity without driving meaningful cognitive progress—these represent 'Shallow Work'. Like Thomas Mann, you must block out specific focus hours, ban shallow tasks during that window, and place your brain in a stimulus-free state to achieve true Deep Work and high-efficiency output.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Did Thomas Mann really stop writing completely at 1:00 PM?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Checking emails, replying instantly to chat messages, or mindless web browsing g
       Yes, because he poured 100% of his mental energy into the morning session, he recognized that his cognitive capacity was depleted after 1:00 PM. Believing that writing after 1:00 PM resulted in lower quality, he reserved his afternoons for light tasks that required less energy, such as reading, walking, and editing.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can Deep Work sessions be performed at night instead of in the morning?</span>

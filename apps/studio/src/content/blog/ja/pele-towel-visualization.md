@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ロッカールームの騒音に勝つ15分？ サッカーの王様ペレのタオルイメージトレーニング"
 description: "サッカーの王様ペレの緊張克服とパフォーマンス極大化の秘密。試合前15分間、顔をタオルで覆って横になりプレーを描いたイメージトレーニングの脳科学的真実を解明します。"
 pubDate: "2026-01-30"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「pele-towel-visualization」は <strong>サッカーの王様ペレ 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>サッカーの王様ペレ 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳の運動野を刺激するイメージトレーニング
+## 1. 脳の運動野を刺激するイメージトレーニング
 
 脳内で特定の身体動作を鮮明に描くとき、脳は実際の運動時に活性化する<strong>「運動野（Motor Cortex）」</strong>を全く同じように活性化させます。タオルで光を遮断することで脳波を<strong>アルファ波（Alpha waves）</strong>へ誘導し、扁桃体の興奮を抑えます。
 
 ---
 
-## 肯定的経験によるリラックス後の詳細イメージトレーニング
-
-イメージトレーニングを行う際、緊張解消が先行する必要があります。ペレが少年時代の楽しかったストリートサッカーを思い出してリラックスしたように、アルファ波状態に先に入ることが重要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 肯定的経験によるリラックス後の詳細イメージトレーニング
+
+イメージトレーニングを行う際、緊張解消が先行する必要があります。ペレが少年時代の楽しかったストリートサッカーを思い出してリラックスしたように、アルファ波状態に先に入ることが重要です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>1人称視点と3人称視点（自分がプレーするのを外から見ること）のちちらが効果的ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       脳の運動野を模倣して神経結合を高めるには1人称視点が圧倒的に効果的です。3人称視点は全体的な 構図の把​​握に​​​​役立ちますが、身体の微細な運動感覚を調律する効果は1人称が強力です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>イメージトレーニング中に失敗するイメージ（ミスすること）が浮かんだらだうすればいいですか？</span>

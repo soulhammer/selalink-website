@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Solidaritas Intelektual di Taman Sederhana: Percakapan dan Rutinitas Makan Hemat Epicurus untuk Ketenangan Jiwa"
 description: "Pelajari bagaimana Epicurus membangun 'Taman' di luar Athena untuk berbagi makanan sederhana dan refleksi mendalam dengan teman-teman terpercaya. Temukan neurosains tentang rasa aman psikologis, oksitosin, dan serotonin yang memicu ketenangan mendalam."
 pubDate: "2026-01-20"
@@ -33,25 +34,23 @@ Di luar Athena, Epicurus mendirikan 'Taman' (Kepos), komunitas inklusif yang ter
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai epicurus-garden-conversation didasarkan pada <strong>Verifikasi Historis dari *Lives and Opinions of Eminent Philosophers* karya Diogenes Laertius, Surat-Surat Epicurus & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Lives and Opinions of Eminent Philosophers* karya Diogenes Laertius, Surat-Surat Epicurus & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Rasa Aman Psikologis dan Efek Ikatan Oksitosin serta Serotonin
+## 1. Rasa Aman Psikologis dan Efek Ikatan Oksitosin serta Serotonin
 
 Kelompok kecil terpercaya tempat berbagi pemikiran tanpa dihakimi memberikan 'Rasa Aman Psikologis' yang kuat bagi otak. Melakukan percakapan mendalam dalam lingkaran aman ini memicu hipotalamus untuk melepaskan oksitosin, hormon yang bertanggung jawab atas ikatan emosional. Oksitosin menenangkan amigdala dan menurunkan kadar kortisol.
 
 ---
 
-## Perhatian: Mencegah Stimulus Buatan untuk Berfokus pada Percakapan Autentik
-
-Kesalahan umum saat berkumpul adalah terlalu memanjakan diri dalam makanan mewah atau alkohol yang menciptakan kegembiraan buatan. Lonjakan dopamin akibat alkohol yang diikuti oleh penurunan drastis justru meningkatkan kecemasan. Dengan menjaga pertemuan tetap sederhana seperti Epicurus, otak membersihkan reseptor dopamin, memungkinkan persepsi ketenangan yang tahan lama (Ataraxia).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Kesalahan umum saat berkumpul adalah terlalu memanjakan diri dalam makanan mewah
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mencegah Stimulus Buatan untuk Berfokus pada Percakapan Autentik
+
+Kesalahan umum saat berkumpul adalah terlalu memanjakan diri dalam makanan mewah atau alkohol yang menciptakan kegembiraan buatan. Lonjakan dopamin akibat alkohol yang diikuti oleh penurunan drastis justru meningkatkan kecemasan. Dengan menjaga pertemuan tetap sederhana seperti Epicurus, otak membersihkan reseptor dopamin, memungkinkan persepsi ketenangan yang tahan lama (Ataraxia).
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara menangani percakapan yang berkembang menjadi perdebatan politik atau ekonomi yang memicu stres?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Kesalahan umum saat berkumpul adalah terlalu memanjakan diri dalam makanan mewah
       Topik kontroversial memicu adrenalin dan kortisol yang menyebabkan kelelahan kognitif. Menetapkan aturan awal—seperti 'Hari ini, mari kita bicarakan pengalaman pribadi atau buku daripada berita'—menjadi perisai untuk menjaga Ataraxia kelompok Anda.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana jika menjadwalkan pertemuan tatap muka mingguan dengan teman terlalu sulit?</span>

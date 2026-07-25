@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ファッション kingdom の鉄血リーダーシップを支える力？アナ・ウィンターの早朝5時テニスルーティン"
 description: "ヴォーグ編集長アナ・ウィンター。毎日朝5時に起床し、1時間コートを駆け抜けて 脳を覚醒させるテニス習慣の科学的根拠と3段階のモダン実践ガイドを紹介します。"
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「wintour-morning-tennis」は <strong>アナ・ウィンターの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アナ・ウィンターの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 体温上昇と神経覚醒物質の分泌促進
+## 1. 体温上昇と神経覚醒物質の分泌促進
 
 起床直後の脳は睡眠状態から抜け出す過渡期にあり、一時的な認知の鈍さを呈します。この状態で脳の覚醒を促さずに激しい会議や stressed なメールに直面すると、前頭葉の機能が麻痺し、衝動的で感情的な決定を下しやすくなります。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 時間の確保と心臓のゆるやかなウォーミングアップをお忘れなく
-
-起床直後は心臓が一日の中で最も収縮しており、血管の圧力が高くなっています。目覚めてすぐに過激なスプリントを始めることは心血管系に大きな負担をかけます。運動開始前に軽い動的ストレッチや足踏みなどで心臓が適応できるよう3分間の段階的なウォーミングアップを行ってから強度を上げてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 時間の確保と心臓のゆるやかなウォーミングアップをお忘れなく
+
+起床直後は心臓が一日の中で最も収縮しており、血管の圧力が高くなっています。目覚めてすぐに過激なスプリントを始めることは心血管系に大きな負担をかけます。運動開始前に軽い動的ストレッチや足踏みなどで心臓が適応できるよう3分間の段階的なウォーミングアップを行ってから強度を上げてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>必ず5時に起床して運動しなければ効果はありませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       時刻自体が5時でなければならない科学的理由はありません。核心は日課（出勤や本格的な業務）の開始の少なくとも1時間前に起床し、身体運動によって脳をあらかじめ覚醒させることにあります。ご自身のスケジュールに合わせて、起床後最初の30分以内に運動するルーティンを作ることが重要です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>関節や体力が弱く、高強度運動が負担になる場合はどうすればよいですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "극한 스트레스를 비우는 붓끝? 이순신 장군의 성찰 일기 루틴"
 description: "조선의 구국 영웅 이순신 장군. 전쟁터의 극한 중압감과 내면의 번민을 극복하고 불패의 신화를 이룩한 비결인 '성찰 일기(난중일기)' 쓰기의 인지 심리학적 효과와 3단계 감정 정리 루틴을 소개합니다."
 pubDate: "2026-06-29"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>이순신 장군 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 yisunshin-war-diary 루틴을 다룹니다.
+      본 콘텐츠는 <strong>이순신 장군 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 표현적 글쓰기의 감정 정화 및 편도체 진정 효과
+## 1. 표현적 글쓰기의 감정 정화 및 편도체 진정 효과
 
 극심한 두려움이나 억울함 같은 부정적인 감정에 직면했을 때, 뇌의 공포 중추인 <strong>편도체(Amygdala)</strong>는 극도로 과열됩니다. 이 상태에서는 이성적 판단과 의지력을 담당하는 전두엽 기능이 마비됩니다. 인지 심리학 연구에 따르면, 이러한 무정형의 감정 상태를 손글씨 텍스트로 옮겨 구체적으로 구조화하는 <strong>'표현적 글쓰기(Expressive Writing)'</strong>는 편도체의 이상 활성화를 강제로 진정시킵니다. 감정에 이름을 붙이고 객관적인 사실로 정렬하는 쓰기 행동을 통해, 두뇌는 통제 불가능했던 상황을 통제 가능한 범위로 인지하며 인지 자원을 즉각적으로 해방하고 스트레스 복원력을 강력히 발휘하게 됩니다.
 
 ---
 
-## 타인의 평가를 의식하지 말고 오직 나만을 위한 진실을 적으세요
-
-성찰 일기의 감정 정화 효과를 100% 누리려면 타인의 눈을 전혀 신경 쓰지 않아야 합니다. '누가 내 일기장을 보면 어떡하지'라는 우려로 문장을 다듬거나 검열하여 적기 시작하면, 편도체를 이완시키는 객관화 기제는 작동하지 않습니다. 이순신 장군이 자신의 두려움과 울화, 번민을 가감 없이 붓끝으로 표출했듯, 오직 본인만이 읽을 수 있는 가장 내밀한 기록 공간에서 스스로에게 철저히 솔직해져야만 비로소 인지적 압박이 해소됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 타인의 평가를 의식하지 말고 오직 나만을 위한 진실을 적으세요
+
+성찰 일기의 감정 정화 효과를 100% 누리려면 타인의 눈을 전혀 신경 쓰지 않아야 합니다. '누가 내 일기장을 보면 어떡하지'라는 우려로 문장을 다듬거나 검열하여 적기 시작하면, 편도체를 이완시키는 객관화 기제는 작동하지 않습니다. 이순신 장군이 자신의 두려움과 울화, 번민을 가감 없이 붓끝으로 표출했듯, 오직 본인만이 읽을 수 있는 가장 내밀한 기록 공간에서 스스로에게 철저히 솔직해져야만 비로소 인지적 압박이 해소됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>매일 쓸 내용이 없거나 쓸 시간이 부족할 때는 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       길게 쓸 필요가 없습니다. 단 세 줄만 써도 충분합니다. '오늘 나를 가장 지치게 했던 일 한 가지', '그때 느낀 내 감정', '그중 내가 내일 바로잡을 수 있는 일 한 가지'만 정렬해서 적어도 뇌의 감정 객관화 메커니즘은 동일하게 작동합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>스마트폰 일기 앱이나 타자로 작성하는 것도 효과가 동일한가요?</span>

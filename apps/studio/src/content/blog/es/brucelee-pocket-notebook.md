@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cazando la Inspiración Fugaz: La Rutina de Captura Inmediata con Cuaderno de Bolsillo de Bruce Lee"
 description: "Descubra cómo el marcialista e ícono del cine del siglo XX Bruce Lee llevaba un cuaderno de bolsillo para capturar ideas filosóficas y conceptos de artes marciales en tiempo real, y explore los mecanismos cognitivos de estimulación del SRA."
 pubDate: "2026-04-06"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre brucelee-pocket-notebook se basa en <strong>Verificación Histórica de la Biografía de John Little *Bruce Lee: El artista de la vida (Bruce Lee: Artist of Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de John Little *Bruce Lee: El artista de la vida (Bruce Lee: Artist of Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación del Sistema de Activación Reticular (SRA) y Procesamiento Selectivo de Información
+## 1. Estimulación del Sistema de Activación Reticular (SRA) y Procesamiento Selectivo de Información
 
 El cerebro humano procesa millones de datos sensoriales a diario, pero los filtros cognitivos borran la mayoría de la información no vinculada a la supervivencia o intereses centrales. Escribir una inspiración en un cuaderno de bolsillo dentro de los 5 segundos —como hacía Bruce Lee— despierta fuertemente el Sistema de Activación Reticular (SRA) en el tronco encefálico. Al actuar como un guardián que asigna prioridad a las señales que llegan a la corteza cerebral, el acto físico de registrar indica: 'Esta idea es vital para el logro de mis objetivos'. En consecuencia, el cerebro entra en un estado de 'Percepción Selectiva', rastreando el entorno en busca de oportunidades y pistas asociadas a esa nota.
 
 ---
 
-## Precauciones y Consejos: Priorizar la Velocidad y el Momento Sobre la Estructura Pulida
-
-La regla de oro del cuaderno de bolsillo es la rapidez: tocar el papel con el bolígrafo dentro de los 5 segundos de surgida una inspiración. No dude intentando dar un formato pulido, estructurar párrafos o perfeccionar la caligrafía. En el momento en que se preocupa por la organización formal, la censura prefrontal interviene y la chispas se evapora. Unas pocas palabras garabateadas o frases incompletas bastan para anclar la chispa mental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La regla de oro del cuaderno de bolsillo es la rapidez: tocar el papel con el bo
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Priorizar la Velocidad y el Momento Sobre la Estructura Pulida
+
+La regla de oro del cuaderno de bolsillo es la rapidez: tocar el papel con el bolígrafo dentro de los 5 segundos de surgida una inspiración. No dude intentando dar un formato pulido, estructurar párrafos o perfeccionar la caligrafía. En el momento en que se preocupa por la organización formal, la censura prefrontal interviene y la chispas se evapora. Unas pocas palabras garabateadas o frases incompletas bastan para anclar la chispa mental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Grabar notas de voz en un teléfono inteligente produce los mismos beneficios cognitivos que un cuaderno de papel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La regla de oro del cuaderno de bolsillo es la rapidez: tocar el papel con el bo
       Sí, la grabación de voz es un método excelente para descargar rápidamente la memoria de trabajo. Sin embargo, los formatos de texto son superiores para la revisión visual y la estructuración prefrontal posterior. Si usa notas de voz, recomendamos combinarlas con funciones de voz a texto (STT) para archivarlas como datos de texto.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Escribo notas pero a menudo olvido revisarlas más tarde. ¿Cómo puedo solucionar esto?</span>

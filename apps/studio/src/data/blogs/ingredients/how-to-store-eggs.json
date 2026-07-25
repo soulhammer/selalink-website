@@ -1,0 +1,454 @@
+{
+  "how-to-store-eggs": {
+    "ingId": "egg",
+    "pubDate": "2026-04-15",
+    "updatedDate": "2026-04-15",
+    "heroImage": "/images/blog/egg_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "계란 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 계란의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>MFDS & USDA & FDA</strong>",
+        "intro": "계란 표면의 먼지나 오염물질을 보고 물에 씻어서 보관한 적이 있으신가요? 이는 미생물 오염을 부르는 치명적인 행위입니다. 농림축산식품부 및 FDA가 권장하는 올바른 계란 보관 규칙을 전해드립니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "계란",
+          "과학적으로 검증된 보관 가이드",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "금 가거나 깨진 계란은 방치하지 마세요 🍳",
+            "desc": "미세하게 금이 간 계란은 상온뿐만 아니라 냉장실에서도 공기 중 세균이 유입되어 급속 부패합니다. 가급적 구매 즉시 파손란을 분류하여 즉시 조리해 섭취하세요."
+          },
+          {
+            "title": "냄새가 강한 식품 옆에 두지 마세요 🧄",
+            "desc": "계란 껍질 기공은 주위의 냄새를 매우 잘 흡수합니다. 양파, 마늘, 생선 등 강한 냄새를 뿜어내는 식품 근처에 밀봉 없이 두면 계란 내부에 비린 향이 고스란히 배어 맛을 버립니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "절대 세척 금지 — 냉장 보관 (45일) 💧",
+            "text": "계란 껍데기는 눈에 보이지 않는 수천 개의 기공이 있어 숨을 쉽니다. 물에 씻으면 외벽 보호막(큐티클)이 손상되어 세균(살모넬라 등)이 기공을 통해 내부로 바로 스며듭니다. 오염은 마른 수건으로 털어내기만 하세요."
+          },
+          {
+            "name": "뾰족한 곳이 아래로 가게 세워 보관하기 — 기실 방향 유지 🥚",
+            "text": "계란의 둥근 부분에는 숨구멍(기실)이 모여 있습니다. 기실이 아래로 가면 계란 노른자가 달라붙거나 난막이 찢어져 변질되기 쉽습니다. 기실이 숨을 잘 쉬게 둥근 곳이 위로 향하게 하세요."
+          },
+          {
+            "name": "냉장고 안쪽 깊숙이 배치하기 — 온도 변동 방지 ❄️",
+            "text": "냉장고 문 쪽 포켓은 열고 닫을 때 온도 변화가 크고 잦은 충격으로 흰자 밀도가 약해집니다. 우유나 계란 같은 온도 민감 식품은 항상 냉장고 본체 깊숙한 선반 안쪽에 두는 것이 핵심입니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "계란을 세척한 후 보관하면 왜 안 되나요?",
+            "answer": "계란 표면에는 큐티클이라는 천연 보호막이 감싸고 있습니다. 물로 씻으면 이 막이 파괴되어 껍질 기공을 통해 살모넬라 등 외부 유해균이 내부로 유입됩니다. 오염물은 마른 천으로만 털어내세요."
+          },
+          {
+            "question": "계란을 뾰족한 곳이 아래로 가게 두는 이유는 무엇인가요?",
+            "answer": "계란의 둥근 부분에는 기실이라는 공기 주머니가 있어 숨을 쉽니다. 기실이 아래로 가면 노른자가 기실에 닿아 막이 찢어지거나 오염이 촉진되므로 둥근 쪽을 위로 해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Egg Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Egg based on official safety guidelines.",
+        "authority": "<strong>MFDS & USDA & FDA</strong>",
+        "intro": "Do you wash fresh eggs in water and store them in the refrigerator door? This storage method can ruin egg freshness and trigger cross-contamination. Today, FreshSnap shares USDA-approved safe egg storage hacks.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Egg",
+          "Scientifically Proven Storage Guide",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Never wash eggs before storage",
+            "desc": "Washing strips off the natural protective coating (cuticle) on the shell, allowing bacteria (like Salmonella) to penetrate inside."
+          },
+          {
+            "title": "Store eggs with the blunt end pointing up",
+            "desc": "The blunt end has the air cell. Storing it up prevents the yolk from contacting the air pocket, keeping it fresh longer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Never wash eggs before storage — Refrigerated Storage (45Days) 💧",
+            "text": "Eggshells contain thousands of microscopic pores that allow respiration. Washing them strips off the natural protective barrier (cuticle), letting bacteria like Salmonella enter through these pores. Simply wipe off dirt with a dry cloth."
+          },
+          {
+            "name": "Store with the pointed end pointing down — Maintain air cell 🥚",
+            "text": "The blunt, rounded end of the egg contains the air cell (pocket of air). If this end is pointing down, the yolk is more likely to contact the shell membrane and spoil. Keep the rounded end pointing up to let the egg breathe and stay centered."
+          },
+          {
+            "name": "Place deep inside the refrigerator — Avoid temperature shifts ❄️",
+            "text": "The refrigerator door shelf undergoes severe temperature fluctuations every time it is opened and closed, which thins the egg white. Keep temperature-sensitive items like eggs and milk on the inner shelves of the main compartment."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't I wash fresh eggs before storing them?",
+            "answer": "Washing strips away the natural protective cuticle coating. This allows Salmonella and other external bacteria to penetrate the porous eggshell."
+          },
+          {
+            "question": "Why store eggs with the pointed end down?",
+            "answer": "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
+          }
+        ]
+      },
+      "ja": {
+        "title": "卵の鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく卵の最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>",
+        "intro": "新鮮な卵を保存するために、水できれいに洗ってから冷蔵庫のドアポケットに立てて置いていませんか？実はその保存方法は、卵の鮮度を落とし二次汚染を引き起こす原因になります。正しい保管方法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "卵",
+          "科学的に検証された保存ガイド",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "卵を保管する前に絶対に水で洗わないでください",
+            "desc": "水洗いすると卵殻の表面を保護している天然の被膜（クチクラ層）が剥がれ落ち、サルモネラなどの雑菌が殻の微細な孔を通って内部に侵入してしまいます。"
+          },
+          {
+            "title": "丸い側（鈍端）が上になるように立てて保存してください",
+            "desc": "卵の丸い側には「気室」と呼ばれる空気の部屋があります。こちらを上にすることで卵黄が空気に触れにくくなり、鮮度維持に役立ちます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "絶対に水洗いしない — 冷蔵保存 (45日間) 💧",
+            "text": "卵の殻には、呼吸をするための数千個の微細な穴（気孔）が開いています。水洗いすると殻の表面の天然の保護膜（クチクラ）が失われ、気孔を通じてサルモネラ菌などの細菌が内部へ侵入しやすくなります。汚れは乾いた布で拭き取る程度にしてください。"
+          },
+          {
+            "name": "尖った側を下にして立てて保存 — 気室の維持 🥚",
+            "text": "卵の丸い方の先端には、呼吸をするための空気の部屋（気室）があります。気室側を下にして置くと、黄身が気室に触れて傷みやすくなります。気室が上にくるように、丸い側を上、尖った側を下にして保存しましょう。"
+          },
+          {
+            "name": "冷蔵庫の奥深い場所に置く — 温度変化の防止 ❄️",
+            "text": "冷蔵庫のドアポケットは、ドアの開閉による温度変化が激しく, また開閉時の衝撃によって白身の弾力が失われやすくなります。卵や牛乳などの温度変化に弱い食材は, ドアポケットではなく必ず冷蔵庫の奥の棚に置いてください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "卵を洗ってから保存してはいけないのはなぜですか？",
+            "answer": "卵の表面はクチクラ層という天然の 保護膜で覆われています。水洗いするとこの膜が破壊され、殻の気孔を通じてサルモネラ等の有害菌が内部に侵入しやすくなります。"
+          },
+          {
+            "question": "卵のとがった方を下にして保存するのはなぜですか？",
+            "answer": "卵の丸い側には気室という空気の部屋があり、呼吸をしています。丸い側を下に向けると黄身が気室に触れて傷みやすくなるため、とがった方を下にします。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存鸡蛋：科学储存指南",
+        "description": "根据官方食品安全指南，了解鸡蛋的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>",
+        "intro": "为了保存新鲜的鸡蛋，您是否会将其用水清洗干净并存放在冰箱门旁的置蛋架上？这种方法会破坏鸡蛋的新鲜度并引发交叉污染。今天，FreshSnap为您分享经FDA认证的科学储存法。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "鸡蛋",
+          "科学验证的储存指南",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "储存前切勿清洗鸡蛋",
+            "desc": "清洗会洗掉蛋壳表面的天然保护膜（角质层），使沙门氏菌等外部细菌极易穿透外壳渗入内部。"
+          },
+          {
+            "title": "摆放时将大头（圆头）朝上",
+            "desc": "鸡蛋的大头一端有气室。将气室朝上摆放能防止蛋黄与气室直接接触，从而让鸡蛋保持新鲜更久。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "切勿清洗鸡蛋 — 冷藏储存 (45天) 💧",
+            "text": "蛋壳表面有数千个肉眼看不见的微小气孔以进行呼吸。用水清洗会破坏蛋壳外的天然保护膜（角质层），使沙门氏菌等外部细菌通过气孔轻易渗入蛋内。表面脏污只需用干布或纸巾擦掉即可。"
+          },
+          {
+            "name": "将尖头朝下摆放 — 保持气室在上 🥚",
+            "text": "鸡蛋的大头（圆头）端有一个气室（存积空气的地方）。如果将大头朝下摆放，蛋黄容易贴住气室导致蛋膜破裂变质。让大头朝上，气室能够正常呼吸，也能让蛋黄保持在中心位置。"
+          },
+          {
+            "name": "存放在冰箱最内侧 — 避免温度波动 ❄️",
+            "text": "冰箱门上的蛋架在冰箱门开关时会经历剧烈的温度起伏，频繁的震动也会使蛋清变稀。鸡蛋和牛奶等对温度敏感的食材应始终存放在冰箱内部深处的隔板上。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么不能洗完鸡蛋再保存？",
+            "answer": "鸡蛋表面有一层被称为角质层的天然保护膜。用水清洗会破坏这层膜，导致沙门氏菌等外部有害细菌通过蛋壳气孔渗入内部。脏污请只用干布擦拭。"
+          },
+          {
+            "question": "为什么要把鸡蛋尖头朝下摆放？",
+            "answer": "鸡蛋的圆头一端有被称为气室的空气囊。如果圆头朝下，蛋黄容易与气室接触导致变质，因此需要将圆头朝上、尖头朝下摆放。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Huevo fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Huevo según las directrices oficiales de seguridad.",
+        "authority": "<strong>MFDS & USDA & FDA</strong>",
+        "intro": "¿Lava los huevos y los pone en la puerta del refrigerador? Este método daña su frescura y causa contaminación cruzada. Hoy, FreshSnap comparte trucos científicos aprobados por la USDA.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Huevo",
+          "Guía de almacenamiento científicamente probada",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Nunca lave los huevos antes de guardarlos",
+            "desc": "Lavarlos elimina la capa protectora natural (cutícula) del cascarón, permitiendo que bacterias como la Salmonella entren al huevo."
+          },
+          {
+            "title": "Guarde los huevos con el extremo ancho hacia arriba",
+            "desc": "El extremo ancho tiene la cámara de aire. Guardarlo hacia arriba evita que la yema toque esa burbuja, manteniéndolo fresco más tiempo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Nunca lave los huevos antes de guardarlos — Almacenamiento Refrigerado (45Días) 💧",
+            "text": "El cascarón de los huevos tiene miles de poros microscópicos para respirar. Lavarlos elimina la capa protectora natural (cutícula), lo que facilita que bacterias como la Salmonella entren por esos poros. Limpie la suciedad solo con un paño seco."
+          },
+          {
+            "name": "Guarde con el extremo puntiagudo hacia abajo — Mantenga la cámara de aire 🥚",
+            "text": "El extremo ancho y redondeado del huevo contiene la cámara de aire. Si este extremo apunta hacia abajo, la yema puede pegarse al cascarón o romperse la membrana, dañando el huevo. Conserve el extremo redondo hacia arriba."
+          },
+          {
+            "name": "Coloque al fondo del refrigerador — Evite variaciones de temperatura ❄️",
+            "text": "La puerta del refrigerador sufre constantes cambios de temperatura y vibraciones que debilitan la consistencia de la clara. Los alimentos sensibles como huevos y leche deben guardarse siempre en las repisas internas del refrigerador."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't I wash fresh eggs before storing them?",
+            "answer": "Washing strips away the natural protective cuticle coating. This allows Salmonella and other external bacteria to penetrate the porous eggshell."
+          },
+          {
+            "question": "Why store eggs with the pointed end down?",
+            "answer": "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Œuf frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Œuf selon les directives de sécurité officielles.",
+        "authority": "<strong>MFDS & USDA & FDA</strong>",
+        "intro": "Est-ce que vous lavez vos œufs frais et les rangez dans la porte du frigo ? Cette méthode détruit leur fraîcheur et favorise la contamination. Aujourd'hui, FreshSnap vous montre la bonne méthode.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Œuf",
+          "Guide de conservation scientifiquement prouvé",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Ne lavez jamais les œufs avant de les stocker",
+            "desc": "Le lavage retire la pellicule protectrice naturelle (cuticule) de la coquille, ce qui permet aux bactéries (Salmonelle) de s'infiltrer à l'intérieur."
+          },
+          {
+            "title": "Stockez les œufs avec le gros bout vers le haut",
+            "desc": "Le gros bout contient la chambre à air. Le placer vers le haut empêche le jaune de toucher cette poche d'air, ce qui garde l'œuf frais plus longtemps."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ne jamais laver les œufs avant stockage — Stockage Réfrigéré (45Jours) 💧",
+            "text": "La coquille d'œuf a des milliers de pores par lesquels l'œuf respire. Le lavage dissout la cuticule, barrière protectrice naturelle, ce qui permet aux bactéries (Salmonelles) de s'infiltrer. Essuyez la saleté au chiffon sec."
+          },
+          {
+            "name": "Ranger le bout pointu vers le bas — Préserver la poche d'air 🥚",
+            "text": "Le gros bout arrondi de l'œuf abrite la chambre à air. Si ce bout est dirigé vers le bas, le jaune risque de se coller à la membrane et de s'altérer. Laissez le gros bout vers le haut pour que l'œuf respire."
+          },
+          {
+            "name": "Placer au fond du réfrigérateur — Éviter les écarts de température ❄️",
+            "text": "La porte du réfrigérateur subit de fortes variations de température à chaque ouverture, et les vibrations liquéfient le blanc. Rangez les aliments sensibles comme les œufs et le lait sur les étagères intérieures."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't I wash fresh eggs before storing them?",
+            "answer": "Washing strips away the natural protective cuticle coating. This allows Salmonella and other external bacteria to penetrate the porous eggshell."
+          },
+          {
+            "question": "Why store eggs with the pointed end down?",
+            "answer": "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Ei frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Ei basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>MFDS & USDA & FDA</strong>",
+        "intro": "Waschen Sie Eier ab und lagern sie in der Kühlschranktür? Diese Methode beeinträchtigt die Frische und führt zu Kreuzkontaminationen. Heute teilt FreshSnap offizielle USDA-Tipps.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Ei",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Eier vor dem Lagern niemals abwaschen",
+            "desc": "Das Waschen entfernt die natürliche Schutzschicht (Kutikula) auf der Schale, wodurch Bakterien (wie Salmonellen) ins Innere gelangen können."
+          },
+          {
+            "title": "Eier mit dem stumpfen Ende nach oben lagern",
+            "desc": "Das stumpfe Ende enthält die Luftkammer. Die Lagerung nach oben verhindert, dass das Eigelb mit der Lufttasche in Kontakt kommt, was die Eier länger frisch hält."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Eier vor dem Lagern niemals abwaschen — Kühllagerung (45Tage) 💧",
+            "text": "Eierschalen besitzen Tausende winzige Poren zum Atmen. Das Waschen entfernt die natürliche Schutzschicht (Kutikula), sodass Bakterien wie Salmonellen durch die Poren eindringen können. Schmutz nur trocken abreiben."
+          },
+          {
+            "name": "Mit dem spitzen Ende nach unten lagern — Lage der Luftkammer stabilisieren 🥚",
+            "text": "Das stumpfe, runde Ende des Eies enthält die Luftkammer. Liegt dieses Ende unten, kommt das Eigelb eher mit der Schalenmembran in Kontakt und verdirbt. Lagern Sie das runde Ende nach oben gerichtet."
+          },
+          {
+            "name": "Tief im Kühlschrank platzieren — Temperaturschwankungen vermeiden ❄️",
+            "text": "Die Kühlschranktür ist bei jedem Öffnen großen Temperaturschwankungen ausgesetzt, was das Eiklar verflüssigt. Lagern Sie empfindliche Lebensmittel wie Eier und Milch im Inneren des Kühlschranks."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't I wash fresh eggs before storing them?",
+            "answer": "Washing strips away the natural protective cuticle coating. This allows Salmonella and other external bacteria to penetrate the porous eggshell."
+          },
+          {
+            "question": "Why store eggs with the pointed end down?",
+            "answer": "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Ovo fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Ovo com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>MFDS & USDA & FDA</strong>",
+        "intro": "Você lava os ovos frescos e os guarda na porta da geladeira? Esse hábito destrói o frescor e causa contaminação cruzada. Hoje, o FreshSnap compartilha técnicas corretas recomendadas pela USDA.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Ovo",
+          "Guia de armazenamento comprovado cientificamente",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Nunca lave os ovos antes de guardar",
+            "desc": "Lavar os ovos remove a película protetora natural da casca (cutícula), permitindo que bactérias como a Salmonella entrem no ovo."
+          },
+          {
+            "title": "Guarde os ovos com o lado arredondado para cima",
+            "desc": "O lado arredondado possui a câmara de ar. Deixá-lo para cima evita que a gema encoste nessa bolsa de ar, mantendo o ovo fresco por mais tempo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Nunca lave os ovos antes de guardar — Armazenamento Refrigerado (45Dias) 💧",
+            "text": "A casca do ovo tem milhares de poros microscópicos pelos quais o ovo respira. Lavá-los remove a película protetora natural (cutícula), facilitando a entrada de bactérias como a Salmonella. Limpe a sujeira apenas com um pano seco."
+          },
+          {
+            "name": "Guarde com a ponta fina para baixo — Mantenha a câmara de ar no lugar 🥚",
+            "text": "O lado redondo do ovo contém a câmara de aire. Se esse lado ficar para baixo, a gema pode encostar na casca ou romper a membrana, estragando o ovo. Guarde com o lado arredondado voltado para cima."
+          },
+          {
+            "name": "Coloque no fundo da geladeira — Evite oscilações de temperatura ❄️",
+            "text": "A porta da geladeira sofre constantes oscilações de temperatura e impactos ao abrir e fechar, o que afina a clara do ovo. Alimentos sensíveis devem ser mantidos nas prateleiras internas do refrigerador."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't I wash fresh eggs before storing them?",
+            "answer": "Washing strips away the natural protective cuticle coating. This allows Salmonella and other external bacteria to penetrate the porous eggshell."
+          },
+          {
+            "question": "Why store eggs with the pointed end down?",
+            "answer": "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Telur agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Telur berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>MFDS & USDA & FDA</strong>",
+        "intro": "Apakah Anda mencuci telur segar lalu menyimpannya di rak pintu kulkas? Cara ini dapat merusak kesegaran telur dan memicu kontaminasi silang. Hari ini, FreshSnap membagikan panduan penyimpanan telur.",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Telur",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "dairy"
+        ],
+        "cautions": [
+          {
+            "title": "Jangan pernah mencuci telur sebelum disimpan",
+            "desc": "Mencuci telur akan mengikis lapisan pelindung alami (kutikula) pada cangkang, memudahkan bakteri (seperti Salmonella) masuk ke dalam."
+          },
+          {
+            "title": "Simpan telur dengan bagian tumpul menghadap ke atas",
+            "desc": "Bagian tumpul memiliki kantong udara (air cell). Menyimpannya menghadap ke atas mencegah kuning telur bersentuhan dengan kantong udara."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Jangan mencuci telur sebelum disimpan — Penyimpanan Dingin (45Hari) 💧",
+            "text": "Cangkang telur memiliki ribuan pori-pori mikroskopis untuk bernapas. Mencucinya akan mengikis lapisan pelindung alami (kutikula) pada cangkang, memudahkan bakteri masuk. Cukup lap kotoran dengan kain kering."
+          },
+          {
+            "name": "Simpan dengan bagian runcing menghadap ke bawah — Menjaga posisi kantong udara 🥚",
+            "text": "Bagian tumpul telur memiliki kantong udara (air cell). Jika bagian tumpul berada di bawah, kuning telur akan mudah menempel pada membran cangkang dan membusuk. Pastikan bagian bulat berada di atas agar telur tetap segar."
+          },
+          {
+            "name": "Taruh di rak kulkas bagian dalam — Menghindari perubahan suhu ❄️",
+            "text": "Rak pintu kulkas mengalami perubahan suhu yang ekstrem setiap kali dibuka dan ditutup, yang dapat mengencerkan putih telur. Simpan telur di rak bagian dalam kulkas demi suhu yang stabil."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't I wash fresh eggs before storing them?",
+            "answer": "Washing strips away the natural protective cuticle coating. This allows Salmonella and other external bacteria to penetrate the porous eggshell."
+          },
+          {
+            "question": "Why store eggs with the pointed end down?",
+            "answer": "The blunt (rounded) end contains the air cell (air pocket). Keeping this end pointing up prevents the yolk from touching the air cell and spoiling."
+          }
+        ]
+      }
+    }
+  }
+}

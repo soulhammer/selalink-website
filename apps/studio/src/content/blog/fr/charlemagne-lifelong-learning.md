@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La tablette d'écriture au chevet : La routine de consolidation de la mémoire pendant le sommeil de Charlemagne"
 description: "Découvrez comment Charlemagne, fondateur de l'Europe occidentale, gardait des tablettes de cire à son chevet pour maîtriser l'écriture, et explorez la neuroscience cognitive maximisant la consolidation de la mémoire à long terme pendant le sommeil à ondes lentes."
 pubDate: "2026-01-20"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant charlemagne-lifelong-learning est basée sur <strong>Vérification Historique issue de la biographie d'Éginhard *Vita Karoli Magni (Vie de Charlemagne)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Éginhard *Vita Karoli Magni (Vie de Charlemagne)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mécanisme de consolidation de la mémoire pendant le sommeil à ondes lentes
+## 1. Mécanisme de consolidation de la mémoire pendant le sommeil à ondes lentes
 
 Sur le plan neurophysiologique, les informations à court terme recueillies pendant la journée sont temporairement stockées dans l'hippocampe. Pour que ces données se stabilisent en connaissances permanentes, elles doivent subir une « Consolidation de la Mémoire » — un transfert de l'hippocampe vers le néocortex. Ce processus atteint son apogée pendant le Sommeil à Ondes Lentes (NREM Stade 3). La routine de Charlemagne consistant à écrire et étudier juste avant de s'endormir charge l'hippocampe en données cibles. Dès que le sommeil survient, les oscillations non-REM et les bouffées d'ondes hippocampiques transfèrent ces empreintes dans la mémoire à long terme.
 
 ---
 
-## Précautions & Conseils : Éviter les smartphones/appareils IT & Préserver l'hygiène du sommeil et la mélatonine
-
-Bâtir un environnement de chevet avec des appareils numériques émettant de la lumière bleue (smartphones, tablettes) réprime la mélatonine, retardant l'endormissement et perturbant le sommeil à ondes lentes. L'installation d'écriture doit être strictement limitée au « papier et stylo analogiques sans lumière bleue ». Déverrouiller un smartphone en cas de réveil nocturne active les circuits de dopamine et détruit l'architecture du sommeil ; respectez la règle des outils analogiques sous lumière douce.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Bâtir un environnement de chevet avec des appareils numériques émettant de la
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter les smartphones/appareils IT & Préserver l'hygiène du sommeil et la mélatonine
+
+Bâtir un environnement de chevet avec des appareils numériques émettant de la lumière bleue (smartphones, tablettes) réprime la mélatonine, retardant l'endormissement et perturbant le sommeil à ondes lentes. L'installation d'écriture doit être strictement limitée au « papier et stylo analogiques sans lumière bleue ». Déverrouiller un smartphone en cas de réveil nocturne active les circuits de dopamine et détruit l'architecture du sommeil ; respectez la règle des outils analogiques sous lumière douce.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Garder un carnet papier sous l'oreiller ou au chevet ne risque-t-il pas de l'abîmer pendant le sommeil ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Bâtir un environnement de chevet avec des appareils numériques émettant de la
       Pour la pratique moderne, évitez le papier fin volant. Placez plutôt un petit carnet rigide à couverture dure sur votre table de chevet, ou fixez un petit porte-bloc en bois sur une étagère près du lit.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Écrire sous un éclairage faible lors de réveils nocturnes ne risque-t-il pas de fatiguer les yeux ?</span>

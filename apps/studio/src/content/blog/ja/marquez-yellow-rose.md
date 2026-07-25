@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ノーベル賞作家のデスクの秘密：マルケスの黄色いバラの創作ルーティン"
 description: "『百年先への孤独』の著者ガブリエル・ガルシア＝マルケスが毎朝デスクに黄色いバラを置いた理由。視覚的リチュアルが脳の弛緩を助け創造性を刺激する科学的原理を紐解きます。"
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「marquez-yellow-rose」は <strong>ガブリエル・ガルシア＝マルケスの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ガブリエル・ガルシア＝マルケスの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 視覚的リチュアルが創造性と安定感をもたらす理由
+## 1. 視覚的リチュアルが創造性と安定感をもたらす理由
 
 特定の色彩や自然物（黄色いバラ）を視覚的に固定配置して観察するリチュアルは、脳に「安全で情緒的に快適なシグナル」を送ります。弛緩状態に入った脳は、認知活動と集中力を高める<strong>アルファ波（Alpha Waves）</strong>を放出し、意図しない自由な思考の結びつきを加速させ、創造的で多角的な発想力を高めます。
 
 ---
 
-## 注意事項とヒント
-
-ただし、デスクの上に派手すぎたり視線を過度に奪う複雑な装飾物を配置することは避けるべきです。色が過剰だと返って脳に<strong>視覚的疲労</strong>を誘発し集中の妨げとなるため、シンプルで明確な一粒のオブジェクトを選ぶミニマリズム的アプローチが必要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     オブジェクトを10〜20秒間静かに見つめながら息を整え、脳の認知状態をリラックスした没入可能なモードへとゆっくり誘導します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+ただし、デスクの上に派手すぎたり視線を過度に奪う複雑な装飾物を配置することは避けるべきです。色が過剰だと返って脳に<strong>視覚的疲労</strong>を誘発し集中の妨げとなるため、シンプルで明確な一粒のオブジェクトを選ぶミニマリズム的アプローチが必要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

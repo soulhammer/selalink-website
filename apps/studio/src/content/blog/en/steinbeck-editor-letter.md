@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eliminating the Fear of Starting: John Steinbeck's Warm-Up Letter Routine"
 description: "Novelist John Steinbeck wrote daily letters to his editor to dissolve procrastination and starting resistance. Discover how casual free-writing activates the motor cortex and overcomes inertia."
 pubDate: "2026-05-07"
@@ -36,22 +37,20 @@ In this post, we examine how Steinbeck's letter routine calms fear responses in 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding steinbeck-editor-letter is based on <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
+      This content is based on <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neural Pathways for Overcoming Perfectionism and Amygdala Anxiety
+## 1. Neural Pathways for Overcoming Perfectionism and Amygdala Anxiety
 
 When the brain perceives a task as high-stakes, the amygdala triggers an unconscious threat alarm that leads to procrastination. Engaging in trivial, low-stakes free writing first sends feedback to the brain that it is in an 'unevaluated, safe environment', calming amygdala hyperactivity. Simultaneously, Broca's area and motor speech cortices gently warm up, lowering the activation barrier for deep work.
 
 ---
 
-## Precautions & Tips
-
-The main pitfall of a warm-up letter is letting it become another form of procrastination. Spending over 30 minutes on the letter will exhaust your mental energy. Strictly limit warm-up writing to a maximum of 5 minutes or half a page, and transition immediately to your primary task without hesitation as soon as time is up.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ The main pitfall of a warm-up letter is letting it become another form of procra
     With your fingers limbered up and language cortex engaged, switch immediately to your primary work screen (report, draft, or study) without hesitation.
   </p>
 </div>
+
+---
+
+## 3. Precautions & Tips
+
+The main pitfall of a warm-up letter is letting it become another form of procrastination. Spending over 30 minutes on the letter will exhaust your mental energy. Strictly limit warm-up writing to a maximum of 5 minutes or half a page, and transition immediately to your primary task without hesitation as soon as time is up.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

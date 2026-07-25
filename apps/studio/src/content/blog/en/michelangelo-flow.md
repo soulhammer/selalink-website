@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Sculptor Who Didn't Take Off His Clothes for Weeks? Michelangelo's Extreme Flow Habit"
 description: "Michelangelo Buonarroti, the supreme master of the Renaissance. Discover his cognitive energy preservation habit of sleeping briefly in his clothes and boots while sculpting David and painting the Sistine Chapel ceiling, and how modern professionals can design extreme flow."
 pubDate: "2026-03-22"
@@ -36,22 +37,20 @@ In this article, we examine the cognitive science behind Michelangelo's minimiza
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding michelangelo-flow is based on <strong>Michelangelo Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Michelangelo Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Minimizing Decision Fatigue and Preserving Cognitive Resources
+## 1. Minimizing Decision Fatigue and Preserving Cognitive Resources
 
 Modern behavioral science defines the exhaustion of self-regulatory mental energy caused by trivial daily choices as 'Ego Depletion' or 'Decision Fatigue.' Deciding what to wear or eat each morning fatigues the brain's executive control center. By isolating himself and minimizing mundane decisions regarding clothing and meals, Michelangelo preserved 100% of his mental energy exclusively for creation, sustaining unprecedented artistic productivity.
 
 ---
 
-## Genius Explodes When Energy Focuses Solely on the Core
-
-Michelangelo pushed himself to the extreme to keep his momentum uninterrupted until his sculpting was complete. In today's era of information overload, rather than draining your brain on endless choices and content, build cognitive walls to protect your highest priority task.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Michelangelo pushed himself to the extreme to keep his momentum uninterrupted un
   </p>
 </div>
 
+---
+
+## 3. Genius Explodes When Energy Focuses Solely on the Core
+
+Michelangelo pushed himself to the extreme to keep his momentum uninterrupted until his sculpting was complete. In today's era of information overload, rather than draining your brain on endless choices and content, build cognitive walls to protect your highest priority task.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Michelangelo sleep without taking off his clothes or boots?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Michelangelo pushed himself to the extreme to keep his momentum uninterrupted un
       Because he refused to break his highly sensitive state of flow. By completely eliminating mundane transitions (changing clothes, showering, long sleeps), he poured the continuous current of artistic flow directly into his sculptures without disruption.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What are practical ways to reduce decision fatigue in modern daily life?</span>

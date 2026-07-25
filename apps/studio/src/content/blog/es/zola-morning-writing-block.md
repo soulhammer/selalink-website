@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El maestro francés que completó obras maestras durante 30 años? La rutina de 3 horas de trabajo profundo matutino de Émile Zola"
 description: "Los principios científicos y la guía práctica del lema 'Nulla dies sine linea' del gran escritor Émile Zola y su hábito diario de inmersión en la escritura matutina de 3 horas mantenido durante más de 30 años."
 pubDate: "2026-02-04"
@@ -36,14 +37,14 @@ En la publicación de hoy, exploramos los principios científicos de la rutina d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre zola-morning-writing-block se basa en <strong>Examen de biografías históricas y registros de Émile Zola e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Examen de biografías históricas y registros de Émile Zola e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prevención del agotamiento de la fuerza de voluntad y automatización de los ganglios basales mediante el aislamiento ambiental
+## 1. Prevención del agotamiento de la fuerza de voluntad y automatización de los ganglios basales mediante el aislamiento ambiental
 
 Debatirse constantemente '¿debería empezar a trabajar ahora?' agota la glucosa prefrontal y la fuerza de voluntad.
 
@@ -51,9 +52,7 @@ Actuar de forma constante en momentos fijos y lugares aislados como Émile Zola 
 
 ---
 
-## Concéntrese más en el bloqueo estricto del tiempo que en el volumen de producción
-
-La esencia del lema de Émile Zola es 'consistencia diaria ininterrumpida'. Priorice establecer el hábito de mantenerse aislado de distracciones externas durante la hora fijada en lugar de esforzarse por escribir perfectamente. No confíe únicamente en la fuerza de voluntad; diseñar el entorno físico y señales de hábitos es clave.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La esencia del lema de Émile Zola es 'consistencia diaria ininterrumpida'. Prio
   </p>
 </div>
 
+---
+
+## 3. Concéntrese más en el bloqueo estricto del tiempo que en el volumen de producción
+
+La esencia del lema de Émile Zola es 'consistencia diaria ininterrumpida'. Priorice establecer el hábito de mantenerse aislado de distracciones externas durante la hora fijada en lugar de esforzarse por escribir perfectamente. No confíe únicamente en la fuerza de voluntad; diseñar el entorno físico y señales de hábitos es clave.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué hago si me siento ansioso por posibles correos o llamadas urgentes por la mañana?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La esencia del lema de Émile Zola es 'consistencia diaria ininterrumpida'. Prio
       Las urgencias reales llegarán por llamada telefónica. Posponer la revisión de correos y mensajes hasta después de su hora de trabajo profundo matutino aumentará diez veces la calidad de su trabajo.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo deben aplicarlo los empleados que no pueden disponer de 3 horas seguidas?</span>

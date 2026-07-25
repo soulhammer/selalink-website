@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "生産ラインを歩きながら革新を描いた自動車の王：ヘンリー・フォードの図式フロースケッチ法と認知オフローディングルーティン"
 description: "自動車生産のコンベアベルトシステムを発明したヘンリー・フォード。毎朝組立工場の機械の動きを滑らかに追跡し、手帳にアナログ図式で記録して前頭葉の負荷を減らした彼の脳科学的スケッチルーティンと視覚的追跡原理を解き明かします。"
 pubDate: "2026-06-23"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「ford-line-walking」は <strong>ヘンリー・フォード自伝『我が生涯と事業（My Life and Work）』および歴史評伝考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ヘンリー・フォード自伝『我が生涯と事業（My Life and Work）』および歴史評伝考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 視覚追跡（Visual Smooth Pursuit）と認知オフローディング（Cognitive Offloading）
+## 1. 視覚追跡（Visual Smooth Pursuit）と認知オフローディング（Cognitive Offloading）
 
 組立工場の部品のように一定の軌道を動く整頓された<strong>機械の動き（Smooth Pursuit）</strong>をじっと追跡する視覚活動は、脳の視覚皮質と小脳の運動タイミング制御領域を同期させ、注意を静かに集中させます。また、頭の中だけで計算していた複雑な論理プロセスを直接手で矢印と図形を描く空間スケッチ（Spatial Sketching）は、脳の認知負荷を紙という外部空間に物理的に委ねる<strong>認知オフローディング（Cognitive Offloading）</strong>効果を発揮します。これにより前頭葉の実行記憶容量が保護され、より創造的で明確な意思決定が可能になります。
 
 ---
 
-## 注意事項：指先の摩擦フィードバックと集中力を極大化するアナログルール
-
-アイデアをメモする際にスマートフォンやiPadのようなデジタルタッチパッドを使用すると、絶え間ない通知と人工的なブルーライトが脳を微細に散漫にさせます。特に滑らかなガラス画面はアナログの摩擦力がなく、脳の体性感覚刺激を50%以下に低下させます。したがって、なるべくざらついた紙の手帳に鉛筆で押し付けて描き、指先の触覚抵抗を認知フィードバックとして活用する時、脳が最も鮮明に図式を認知します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：指先の摩擦フィードバックと集中力を極大化するアナログルール
+
+アイデアをメモする際にスマートフォンやiPadのようなデジタルタッチパッドを使用すると、絶え間ない通知と人工的なブルーライトが脳を微細に散漫にさせます。特に滑らかなガラス画面はアナログの摩擦力がなく、脳の体性感覚刺激を50%以下に低下させます。したがって、なるべくざらついた紙の手帳に鉛筆で押し付けて描き、指先の触覚抵抗を認知フィードバックとして活用する時、脳が最も鮮明に図式を認知します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>iPadやスマートフォンの画面にペンで描くことで代替しても大丈夫ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       デジタル画面は画面のタッチ感が滑らかで、脳の指先の体性感覚摩擦フィードバックが極度に低下し、頻繁な通知などによって注意が分散しやすくなります。アナログの紙が与える物理的なペン先の抵抗力が大脳皮質を刺激し、より深い認知オフローディングを完成させるため、なるべく実際の紙と手帳を使用することをお勧めします。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>工場を歩かずに席にじっと座って描くことも効果がありますか？</span>

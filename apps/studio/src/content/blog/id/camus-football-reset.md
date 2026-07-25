@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Obat Primitif untuk Burnout dan Depresi Eksistensial: Rutinitas Reset Sepak Bola ala Albert Camus"
 description: "Pelajari bagaimana peraih Nobel Sastra dan filsuf Prancis Albert Camus menjatuhkan dirinya sebagai kiper saat mengalami kebuntuan kreatif, serta temukan mekanisme neurosains dari kondisi offline prefrontal dan pengalihan kognitif serebelar."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas reset 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai camus-football-reset didasarkan pada <strong>Verifikasi Historis dari Biografi Olivier Todd *Albert Camus: A Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Olivier Todd *Albert Camus: A Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prefrontal Offline Terpaksa dan Pengalihan Kognitif Kortikal Motorik-Serebelar
+## 1. Prefrontal Offline Terpaksa dan Pengalihan Kognitif Kortikal Motorik-Serebelar
 
 Melakukan penalaran tingkat tinggi, penulisan, atau perencanaan menguras korteks prefrontal dengan membakar sejumlah besar glukosa. Ketika sumber daya prefrontal habis, kelumpuhan kognitif, kelelahan, dan kelelahan emosional mulai terjadi. Membenamkan diri ke dalam gerakan fisik intensitas tinggi—seperti kiper yang bereaksi terhadap tembakan—memaksa otak untuk mengalihkan pemrosesan aktif menjauh dari korteks prefrontal menuju serebelum (Cerebellum) dan korteks motorik, yang mengatur kontrol spasial, refleks motorik, dan keseimbangan. 'Pengalihan Kognitif' yang cepat ini mendorong korteks prefrontal yang bekerja terlalu keras ke dalam kondisi offline terpaksa, memberikannya jendela istirahat fisiologis, menurunkan kadar kortisol, dan memulihkan neurotransmiter.
 
 ---
 
-## Perhatian & Tip: Mengesampingkan Kompetisi yang Terobsesi pada Skor dan Game Strategi Rumit
-
-Tujuan dari rutinitas ini adalah pemulihan prefrontal penuh dan penyegaran kognitif. Jika Anda terlibat dalam pertandingan liga yang sangat kompetitif atau olahraga yang membutuhkan kalkulasi taktis yang intens, korteks prefrontal Anda tetap aktif, menderita kelebihan beban kognitif sekunder. Untuk mendapatkan efek offline prefrontal, berfokuslah pada gerakan fisik intuitif—bereaksi terhadap objek yang bergerak atau berpartisipasi dalam aktivitas luar ruangan berbasis gerakan tanpa terobsesi pada skor.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tujuan dari rutinitas ini adalah pemulihan prefrontal penuh dan penyegaran kogni
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mengesampingkan Kompetisi yang Terobsesi pada Skor dan Game Strategi Rumit
+
+Tujuan dari rutinitas ini adalah pemulihan prefrontal penuh dan penyegaran kognitif. Jika Anda terlibat dalam pertandingan liga yang sangat kompetitif atau olahraga yang membutuhkan kalkulasi taktis yang intens, korteks prefrontal Anda tetap aktif, menderita kelebihan beban kognitif sekunder. Untuk mendapatkan efek offline prefrontal, berfokuslah pada gerakan fisik intuitif—bereaksi terhadap objek yang bergerak atau berpartisipasi dalam aktivitas luar ruangan berbasis gerakan tanpa terobsesi pada skor.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara mempraktikkan rutinitas ini dalam lingkungan solo tanpa mitra untuk olahraga tim?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tujuan dari rutinitas ini adalah pemulihan prefrontal penuh dan penyegaran kogni
       Anda dapat mempraktikkannya secara solo dengan mudah. Latihan memantulkan bola ke dinding (bola tenis atau skuasy), memukul sandsack tinju, atau latihan tangga kelincahanmerangsang serebelum dan korteks motorik, secara efektif membuat korteks prefrontal offline tanpa membutuhkan mitra.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah melakukan olahraga fisik pada hari-hari dengan kelelahan mental yang ekstrem tidak memperparah kelelahan?</span>

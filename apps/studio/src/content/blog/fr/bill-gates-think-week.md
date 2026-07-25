@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Une semaine de déconnexion : La « Semaine de réflexion » de Bill Gates et le travail profond silencieux"
 description: "Découvrez la routine de lecture isolée en chalet de Bill Gates, la « Semaine de réflexion (Think Week) », qui a propulsé les grands bonds en avant de Microsoft, et percez les principes neuroscientifiques d'élimination des résidus d'attention et de maximisation des visions à long terme."
 pubDate: "2026-01-08"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant bill-gates-think-week est basée sur <strong>Vérification Historique issue de la biographie de Walter Isaacson & des archives de Microsoft & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Walter Isaacson & des archives de Microsoft & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Formation d'analyses supérieures via l'élimination des résidus d'attention et la consolidation de la mémoire à long terme
+## 1. Formation d'analyses supérieures via l'élimination des résidus d'attention et la consolidation de la mémoire à long terme
 
 Les individus modernes souffrent continuellement de « Résidus d'attention (Attention Residue) », où le basculement fréquent entre notifications numériques et e-mails laisse un encombrement mental qui épuise le cerveau. Passer rapidement d'une tâche à l'autre interrompt les circuits de raisonnement profond du cortex préfrontal. Lorsque l'entrée d'informations externes est totalement contrôlée et que la focalisation est dédiée sur la durée à un seul thème — comme lors de la Semaine de réflexion de Bill Gates —, les fonctions exécutives du cortex préfrontal éliminent ce résidu et s'optimisent pour le traitement supérieur. Sur le plan neuroscientifique, la lecture et la réflexion prolongées stimulent la consolidation de la mémoire à long terme entre l'hippocampe et le cortex cérébral, permettant de synthétiser des connaissances fragmentées en un plan directeur global.
 
 ---
 
-## Précautions & Conseils : Établissement d'un environnement d'entrée d'informations purement analogiques
-
-Lors de la pratique de la routine de la Semaine de réflexion, le plus grand danger à éviter est l'entrée d'informations via des appareils numériques. Lire sur un ordinateur ou une tablette vous expose à la tentation des e-mails, de la navigation web et des messages, détruisant le réseau de focalisation du cerveau. Préparez autant que possible des documents imprimés sur papier ou des livres physiques, et prenez des notes à la main sur un cahier en papier pour maintenir la stimulation tactile et un état d'immersion profonde.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lors de la pratique de la routine de la Semaine de réflexion, le plus grand dan
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Établissement d'un environnement d'entrée d'informations purement analogiques
+
+Lors de la pratique de la routine de la Semaine de réflexion, le plus grand danger à éviter est l'entrée d'informations via des appareils numériques. Lire sur un ordinateur ou une tablette vous expose à la tentation des e-mails, de la navigation web et des messages, détruisant le réseau de focalisation du cerveau. Préparez autant que possible des documents imprimés sur papier ou des livres physiques, et prenez des notes à la main sur un cahier en papier pour maintenir la stimulation tactile et un état d'immersion profonde.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Faut-il nécessairement se retirer dans un chalet en forêt pendant plusieurs jours pour faire une Semaine de réflexion ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lors de la pratique de la routine de la Semaine de réflexion, le plus grand dan
       Non. L'essence réside dans la « coupure de l'entrée d'informations externes » et l'« isolation de l'attention », et non dans le lieu lui-même. Se rendre dans une bibliothèque calme le week-end ou laisser son smartphone dans une autre pièce pendant une seule journée en se concentrant exclusivement sur des livres physiques et des cahiers procure un puissant effet de réinitialisation cérébrale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Peut-on utiliser un ordinateur ou une tablette pour lire des documents ?</span>

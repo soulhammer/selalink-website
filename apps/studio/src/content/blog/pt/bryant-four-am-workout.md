@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Milagre às 4h da Manhã: A Rotina de Treinamento Mamba de Kobe Bryant"
 description: "Descubra como o ícone do basquete Kobe Bryant iniciava seu primeiro treino às 4h da manhã diariamente, e explore os princípios neurocientíficos e fisiológicos de como os treinos matinais regulares fixam o ritmo circadiano e elevam o desempenho ao pico."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos os mecanismos fisiológicos e neurocientíficos po
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre bryant-four-am-workout é baseada em <strong>Verificação Histórica da Autobiografia de Kobe Bryant *Mentalidade Mamba: Como eu jogo (The Mamba Mentality: How I Play)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Kobe Bryant *Mentalidade Mamba: Como eu jogo (The Mamba Mentality: How I Play)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismos Fisiológicos de Realinhamento do Núcleo Supraquiasmático (NSQ) e Estimulação Neuronal Motora
+## 1. Mecanismos Fisiológicos de Realinhamento do Núcleo Supraquiasmático (NSQ) e Estimulação Neuronal Motora
 
 Executar de forma consistente treinos de alta intensidade em um horário matinal idêntico alinha o 'Núcleo Supraquiasmático (NSQ)' do hipotálamo a esse cronograma. 1) O NSQ inicia a secreção precoce de cortisol (Cortisol) e eleva preventivamente a temperatura corporal e o tônus cardiovascular, neutralizando a inércia do sono (Sleep Inertia) e déficits motores pós-despertar. 2) O treino matinal regular condiciona o Sistema Nervoso Autônomo (SNA) a otimizar a alocação de energia metabólica no início do dia, elevando a resposta neuromuscular, a eficiência cardiorrespiratória e o controle executivo a picos diurnos.
 
 ---
 
-## Precauções e Dicas: Garantir a Quantidade Total de Sono (7–8 Horas) e Aquecimento Essencial
-
-Uma rotina de acordar às 4h não pode funcionar sob privação de sono. Para se levantar às 4h, é indispensável ir para a cama entre 21h e 22h na noite anterior para garantir de 7 a 8 horas de sono essencial. Executar rotinas matinais sob déficit de sono induz fadiga do sistema nervoso central e queda na imunidade. Além disso, como articulações e vasos sanguíneos estão rígidos ao acordar, realizar pelo menos 10 minutos de aquecimento dinâmico é obrigatório para prevenir lesões.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Uma rotina de acordar às 4h não pode funcionar sob privação de sono. Para se
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Garantir a Quantidade Total de Sono (7–8 Horas) e Aquecimento Essencial
+
+Uma rotina de acordar às 4h não pode funcionar sob privação de sono. Para se levantar às 4h, é indispensável ir para a cama entre 21h e 22h na noite anterior para garantir de 7 a 8 horas de sono essencial. Executar rotinas matinais sob déficit de sono induz fadiga do sistema nervoso central e queda na imunidade. Além disso, como articulações e vasos sanguíneos estão rígidos ao acordar, realizar pelo menos 10 minutos de aquecimento dinâmico é obrigatório para prevenir lesões.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Devo manter estritamente o horário de acordar às 4h nos fins de semana e feriados?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Uma rotina de acordar às 4h não pode funcionar sob privação de sono. Para se
       Para um alinhamento circadiano ideal, o recomendável é manter as variações do despertar nos fins de semana em no máximo 1 hora em relação à rotina dos dias úteis. Dormir demais no fim de semana reinicia o relógio interno do NSQ, aumentando a fadiga matinal durante a semana. A consistência é fundamental.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Realizar tarefas intelectuais (trabalho, leitura) imediatamente após um treino às 4h melhora a concentração cerebral?</span>

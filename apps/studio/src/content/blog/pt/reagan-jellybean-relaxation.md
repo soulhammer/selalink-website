@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O doce secreto da Casa Branca? O método de alívio de estresse com jujubas de Ronald Reagan"
 description: "Ronald Reagan, o 40º presidente dos EUA, comia jujubas no Salão Oval para parar de fumar e controlar o estresse. Descubra os princípios neurocientíficos de como a mastigação afeta a emoção."
 pubDate: "2026-04-25"
@@ -33,17 +34,17 @@ O artigo de hoje apresenta a ciência por trás da rotina de relaxamento cogniti
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre reagan-jellybean-relaxation é baseada em <strong>Pesquisa baseada na biografia histórica e autobiografia de Ronald Reagan e estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa baseada na biografia histórica e autobiografia de Ronald Reagan e estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mastigação e substituição sensorial para acalmar a amígdala
+## 1. Mastigação e substituição sensorial para acalmar a amígdala
 
 O movimento repetitivo da mastigação ativa o nervo trigêmeo no cérebro, inibindo a amígdala, que governa o medo e o estresse. Isso estabiliza a frequência cardíaca e reduz rapidamente a secreção de cortisol.
 
@@ -51,9 +52,7 @@ Ao mesmo tempo, quando surge um forte desejo viciante (como fumar ou comer doces
 
 ---
 
-## Atenção à ingestão de açúcar para a saúde bucal
-
-Comer jujubas em excesso como Reagan pode prejudicar a saúde devido a cáries ou ingestão excessiva de açúcar. Recomenda-se usar chiclete sem açúcar, gomas sem açúcar ou nozes (amêndoas, nozes) como alternativas para aproveitar com segurança apenas o efeito relaxante da mastigação.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Comer jujubas em excesso como Reagan pode prejudicar a saúde devido a cáries o
   </p>
 </div>
 
+---
+
+## 3. Atenção à ingestão de açúcar para a saúde bucal
+
+Comer jujubas em excesso como Reagan pode prejudicar a saúde devido a cáries ou ingestão excessiva de açúcar. Recomenda-se usar chiclete sem açúcar, gomas sem açúcar ou nozes (amêndoas, nozes) como alternativas para aproveitar com segurança apenas o efeito relaxante da mastigação.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por quanto tempo preciso mastigar para que o efeito de redução do estresse apareça?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Comer jujubas em excesso como Reagan pode prejudicar a saúde devido a cáries o
       Estudos neurofisiológicos mostram que os níveis de cortisol começam a diminuir e as ondas cerebrais mudam para ondas alfa relaxantes cerca de 2 a 3 minutos após o início da mastigação. Portanto, manter o foco calmo na mastigação por pelo menos 2 a 3 minutos é essencial para obter resultados.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe realmente um princípio científico pelo qual a mastigação ajuda a suprimir o desejo de fumar ou a compulsão alimentar?</span>

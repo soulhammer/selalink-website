@@ -1,216 +1,318 @@
 {
   "keynes-morning-bed-work": {
-    "title": {
-      "ko": "이불 속에서 쓰인 일반이론: 존 메이너드 케인스의 아침 침대 작업 습관과 CAR 각성",
-      "en": "The General Theory Written Under the Covers: John Maynard Keynes's Morning Bed-Work Habit and CAR Cognitive Activation",
-      "ja": "布団の中で執筆された一般理論：ジョン・メイナード・ケインズの朝のベッド作業習慣とCAR覚醒",
-      "zh": "被窝里孕育的《就业、利息和货币通论》：约翰·梅纳德·凯恩斯的晨间卧床工作习惯与CAR觉醒机制",
-      "es": "La Teoría General Escrita Bajo las Cobijas: El Hábito de Trabajo Matutino en Cama de John Maynard Keynes y la Activación CAR",
-      "de": "Die Allgemeine Theorie aus dem Bett: John Maynard Keynes' morgendliche Arbeitsgewohnheit im Bett und CAR-Aktivierung",
-      "fr": "La Théorie générale rédigée sous la couette : La routine de travail matinal au lit de John Maynard Keynes et l'activation CAR",
-      "pt": "A Teoria Geral Escrita Debaixo das Cobertas: O Hábito de Trabalho Matinal na Cama de John Maynard Keynes e Ativação CAR",
-      "id": "Teori Umum yang Ditulis di Bawah Selimut: Kebiasaan Kerja Pagi di Tempat Tidur John Maynard Keynes dan Aktivasi CAR"
-    },
-    "description": {
-      "ko": "대공황을 극복한 거시경제학자이자 기상 직후 2시간 동안 침대 위에서 모든 원고를 집필했던 케인스. 기상 각성 반응(CAR)과 전전두엽 인지 자원 활용, 수면 관성 방지 원리 및 3단계 실천법을 소개합니다.",
-      "en": "Discover how macroeconomist John Maynard Keynes, who conquered the Great Depression, authored manuscripts in bed for two hours after waking up. Explore the neuroscience of the Cortisol Awakening Response (CAR), prefrontal focus, and a 3-step morning routine.",
-      "ja": "大恐慌を克服した巨視経済学者であり、起床直後の2時間ベッドの上で全ての原稿を執筆したケインズ。起床時コルチゾール反応（CAR）と前頭前野認知資源の活用、睡眠慣性防止の原理および3段階実践法を紹介します。",
-      "zh": "探索破局大萧条的宏观经济学泰斗约翰·梅纳德·凯恩斯如何在醒来后的2小时内斜倚于床榻撰写稿件。揭示皮质醇觉醒反应（CAR）、前额叶认知资源利用、防范睡眠惯性原理与3步骤实践指南。",
-      "es": "Descubra cómo el macroeconomista John Maynard Keynes, que superó la Gran Depresión, escribió manuscritos en la cama durante dos horas al despertar. Explore la neurociencia de la Respuesta de Despertar del Cortisol (CAR) y una rutina matutina de 3 pasos.",
-      "de": "Erfahren Sie, wie der Makroökonom John Maynard Keynes, der die Great Depression überwand, nach dem Aufstehen zwei Stunden lang im Bett Manuskripte verfasste. Entdecken Sie die Neurowissenschaften der Cortisol-Aufwachreaktion (CAR) und eine 3-Schritte-Routine.",
-      "fr": "Découvrez comment le macroéconomiste John Maynard Keynes, qui a surmonté la Grande Dépression, a rédigé ses manuscrits au lit pendant deux heures au réveil. Explorez la neuroscience de la Réponse d'éveil du cortisol (CAR) et un guide en 3 étapes.",
-      "pt": "Descubra como o macroeconomista John Maynard Keynes, que superou a Grande Depressão, escreveu manuscritos na cama por duas horas ao acordar. Explore a neurociência da Resposta de Despertar do Cortisol (CAR) e uma rotina matinal de 3 passos.",
-      "id": "Pelajari bagaimana makroekonom John Maynard Keynes, yang menaklukkan Depresi Besar, menulis naskah di tempat tidur selama dua jam setelah bangun tidur. Temukan neurosains dari Cortisol Awakening Response (CAR) dan rutinitas pagi 3 langkah."
-    },
-    "authority": {
-      "ko": "로버트 스키델스키 『케인스 평전(John Maynard Keynes)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 신경근육학(Neuromuscular Science) 연구",
-      "en": "Historical Verification from Robert Skidelsky's *John Maynard Keynes* Biography, Keynes Archives & Cognitive Neuroscience and Neuromuscular Science Research",
-      "ja": "ロバート・スキデルスキー『ケインズ評伝（John Maynard Keynes）』史料考証＆認知神経科学（Cognitive Neuroscience）および神経筋肉学（Neuromuscular Science）研究",
-      "zh": "罗伯特·斯基德尔斯基《凯恩斯传（John Maynard Keynes）》史料考证及认知神经科学（Cognitive Neuroscience）与神经肌肉学（Neuromuscular Science）研究",
-      "es": "Verificación Histórica de la Biografía *John Maynard Keynes* de Robert Skidelsky, Archivos de Keynes e Investigación en Neurociencia Cognitiva y Ciencia Neuromuscular",
-      "de": "Historische Überprüfung aus Robert Skidelskys Biografie *John Maynard Keynes*, Keynes-Archiven & Forschung der kognitiven Neurowissenschaften und Neuromuskulärwissenschaften",
-      "fr": "Vérification Historique issue de la biographie de Robert Skidelsky *John Maynard Keynes*, des archives de Keynes & de la Recherche en Neurosciences Cognitives et Sciences Neuromusculaires",
-      "pt": "Verificação Histórica da Biografia *John Maynard Keynes* de Robert Skidelsky, Arquivos de Keynes e Pesquisa em Neurociência Cognitiva e Ciência Neuromuscular",
-      "id": "Verifikasi Historis dari Biografi *John Maynard Keynes* karya Robert Skidelsky, Arsip Keynes & Penelitian Neurosains Kognitif serta Sains Neuromuskular"
-    },
-    "intro": {
-      "ko": "\"나의 가장 훌륭한 경제학 이론들은 아침 해가 뜨기 전, 따뜻한 이불 속 침대 머리맡에서 직조되었다.\" 🛏️\n\n20세기 경제학의 판도를 바꾸고 거시경제의 틀을 마련하여 역사상 최악의 세계 대공황을 타개할 열쇠를 쥐어준 인물, 존 메이너드 케인스(John Maynard Keynes, 1883–1946). 1936년 불후의 명저 『고용·이자 및 화폐에 관한 일반이론(The General Theory of Employment, Interest and Money)』을 출간한 그는 학자이자 관료, 투자가로서 살인적인 스케줄을 처리했던 엄청난 생산성의 소유자였습니다. 그러나 그의 아침 풍경은 의외로 평화롭고 나른했습니다.\n\n케인스는 잠에서 뜬 뒤 즉시 이불을 박차고 일어나 서재로 향하지 않았습니다. 아침 8시경 비서나 하인이 차와 신문, 보고서를 가져다주면, 그는 베개에 상체를 비스듬히 기댄 채 약 2시간 동안 무릎 위에 원고지를 놓고 보고서를 분석하며 서적을 집필했습니다. 그는 오전 10시가 넘어서야 비로소 옷을 차려입고 침대 밖으로 나왔습니다. 외부의 결정을 요구하는 자극이 차단된 상태에서 기상 직후의 가장 맑은 전전두엽 자원을 고스란히 집필에 쏟아부었던 케인스의 이불 속 업무 루틴은, 기상 각성 반응(CAR)의 신경호르몬을 고스란히 활용한 고도의 인지 생산성 전략이었습니다.\n\n오늘 포스트에서는 존 메이너드 케인스의 '아침 침대 집필' 루틴의 뇌과학적 원리와 현대인들이 아침 집중력을 극대화하기 위해 이를 어떻게 적용할 수 있는지 알아봅니다.",
-      "en": "\"My best economic theories were woven before the morning sun rose, propped up against pillows under a warm blanket.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) was the legendary British economist who revolutionized 20th-century macroeconomics and provided the theoretical blueprint to overcome the Great Depression with his landmark 1936 work, *The General Theory of Employment, Interest and Money*. Managing an overwhelming schedule as a Cambridge academic, government advisor, and financier, Keynes possessed extraordinary intellectual output. Yet his morning routine was surprisingly tranquil.\n\nRather than rushing out of bed upon waking, Keynes remained in bed. At around 8:00 AM, tea, newspapers, and financial correspondence were brought to his bedside. Keynes spent the next two hours propped up comfortably against large pillows, analyzing economic reports and penning manuscript drafts directly on a board resting on his knees. He rarely stepped out of bed before 10:00 AM. Immersing his freshest, fatigue-free prefrontal cortex in a sensory-controlled environment, Keynes maximized his cognitive capacity before daily distractions could interfere.\n\nIn today's post, we examine the cognitive neuroscience behind John Maynard Keynes's 'morning bed-work' routine and present a modern 3-step protocol to leverage the Cortisol Awakening Response (CAR) and conquer morning brain fog.",
-      "ja": "「私の最も素晴らしい経済学理論は、朝の太陽が昇る前、暖かい布団の中のベッドの枕元で織り上げられた。」 🛏️\n\n20世紀経済学の勢力図を変え、巨視経済の枠組みを準備して史上最悪の世界大恐慌を打開する鍵を握らせた人物、ジョン・メイナード・ケインズ（John Maynard Keynes、1883–1946）。1936年に金字塔的名著『雇用・利子および貨幣の一般理論（The General Theory of Employment, Interest and Money）』を出版した彼は、学者であり官僚、投資家として殺人的なスケジュールを処理した圧倒的な生産性の所有者でした。しかし彼の朝の風景は思いのほか平和で物憂げなものでした。\n\nケインズは目を覚ました後、直ちに布団を蹴飛ばして起き上がり書斎へと向かいませんでした。朝8時頃、秘書や召使いがお茶や新聞、報告書を持ってくると、彼は枕に上半身を斜めにもたせかけたまま約2時間、膝の上に原稿用紙を置いて報告書を分析し書籍を執筆しました。彼は午前10時を過ぎて初めて服を整えてベッドの外へと出ました。外部の決定を要求する刺激が遮断された状態で、起床直後の最も澄み切った前頭前野資源をそっくり執筆に注ぎ込んだケインズの布団の中の作業ルーティンは、起床時コルチゾール反応（CAR）の神経ホルモンをそのまま活用した高度な知的生産性戦略だったのです。\n\n本日の記事では、ジョン・メイナード・ケインズの「朝のベッド執筆」ルーティンの脳科学的原理と、現代人が朝の集中力を極大化するためにこれをどのように適用できるかを解明します。",
-      "zh": "“我至为卓绝的经济学理论，皆织就于晨曦破晓前、那温暖被窝里的床头案案旁。” 🛏️\n\n彻底颠覆20世纪经济学格局、构建宏观经济学框架并为破局人类史上至为惨烈的世界大萧条献上钥匙的泰斗——约翰·梅纳德·凯恩斯（John Maynard Keynes，1883–1946）。于1936年问世不朽名著《就业、利息和货币通论（The General Theory of Employment, Interest and Money）》的他，身为剑桥学者、政府高官与资深投资人，拥有着直面繁重日程依然游刃有余的超凡生产力。然而，他晨间的图景却意外地安详而从容。\n\n凯恩斯在醒来后绝不即刻掀开被褥冲向书房。早晨8点许，当侍者送来茶水、报章与财经报告时，他会斜倚于厚重的靠枕之上，在膝头的书板上垫起稿纸，展开长达2小时的报告研判与著作撰述。直到上午10点过后，他方才整装下床。在彻底阻断要求外部决策的杂音刺激的前提下，将醒来后至为清明的前额叶皮层算力毫无保留地倾注于创作中，凯恩斯这套被窝里的工作习惯，乃是完美借力皮质醇觉醒反应（CAR）神经激素的高阶认知生产力战略。\n\n在今天的文章中，我们将深度解构约翰·梅纳德·凯恩斯“晨间卧床写作”习惯背后的神经科学原理，并分享一套助现代人拉满晨间专注力、扫除脑雾的3步骤实践指南。",
-      "es": "\"Mis mejores teorías económicas se tejieron antes de que saliera el sol de la mañana, apoyado en almohadas bajo una cálida cobija.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) fue el legendario economista británico que revolucionó la macroeconomía del siglo XX y proporcionó el marco teórico para superar la Gran Depresión con su obra de 1936, *La teoría general del empleo, el interés y el dinero*. Manejando una agenda exigente como académico, asesor gubernamental e inversionista, Keynes poseía una productividad extraordinaria. Sin embargo, su rutina matutina era serena.\n\nEn lugar de levantarse de la cama al despertar, Keynes permanecía en ella. Hacia las 8:00 AM, le llevaban té, periódicos y correspondencia. Keynes pasaba las dos horas siguientes reclinado sobre almohadas, analizando informes y redactando borradores en una tabla apoyada sobre sus rodillas. Rara vez se levantaba antes de las 10:00 AM. Al sumergir su corteza prefrontal despejada en un entorno protegido de distracciones, Keynes maximizaba su capacidad cognitiva antes de atender compromisos diarios.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva detrás de la rutina de 'trabajo matutino en cama' de John Maynard Keynes y presentamos un protocolo práctico de 3 pasos para aprovechar la Respuesta de Despertar del Cortisol (CAR).",
-      "de": "\"Meine besten ökonomischen Theorien wurden vor Sonnenaufgang gewoben, angelehnt an Kissen unter einer warmen Decke.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) war der britische Ökonom, der die Makroökonomie des 20. Jahrhunderts revolutionierte und mit seinem Hauptwerk *Mathematische Begründung der Volkswirtschaftslehre / Die Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes* (1936) das Konzept zur Überwindung der Weltwirtschaftskrise lieferte. Trotz seines vollen Kalenders als Dozent, Regierungsberater und Investor zeichnete ihn eine enorme Produktivität aus. Seine Morgenroutine war jedoch ruhig.\n\nAnstatt nach dem Aufwachen aus dem Bett zu eilen, blieb Keynes liegen. Gegen 8:00 Uhr morgens wurden ihm Tee, Zeitungen und Berichte ans Bett gebracht. Keynes verbrachte die folgenden zwei Stunden auf Kissen gestützt, wertete Berichte aus und schrieb Kapitel seiner Bücher auf einer Unterlage auf seinen Knien. Vor 10:00 Uhr verließ er selten das Bett. Indem er seinen frischen präfrontalen Kortex in einer ablenkungsfreien Umgebung nutzte, schöpfte Keynes seine geistige Kapazität voll aus.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter John Maynard Keynes' 'Arbeitsroutine im Bett' und bieten eine 3-Schritte-Anleitung zur Nutzung der Cortisol-Aufwachreaktion (CAR).",
-      "fr": "« Mes meilleures théories économiques ont été tissées avant le lever du soleil, adossé à des coussins sous una chaude couette. » 🛏️\n\nJohn Maynard Keynes (1883–1946) fut le célèbre économiste britannique qui a révolutionné la macroéconomie du XXe siècle et fourni le cadre théorique pour surmonter la Grande Dépression avec son ouvrage majeur de 1936, *Théorie générale de l'emploi, de l'intérêt et de la monnaie*. Maintenant un rythme soutenu comme universitaire, conseiller d'État et financier, Keynes affichait una productivité impressionnante. Pourtant, sa routine matinale était paisible.\n\nAu lieu de se lever précipitamment au réveil, Keynes restait au lit. Vers 8h00, on lui apportait du thé, des journaux et des rapports. Keynes passait les deux heures suivantes adossé à des oreillers, analysant les documents et rédigeant ses manuscrits sur una planche posée sur ses genoux. Il quittait rarement le lit avant 10h00. En consacrant son cortex préfrontal disponible a un environnement préservé des stimulations, Keynes maximisait sa capacité cognitive avant les sollicitations quotidiennes.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente à la routine de « travail matinal au lit » de John Maynard Keynes et proposons un protocole en 3 étapes pour utiliser la Réponse d'éveil du cortisol (CAR).",
-      "pt": "\"Minhas melhores teorias econômicas foram tecidas antes do sol nascer, apoiado em travesseiros debaixo de um cobertor aquecido.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) foi o lendário economista britânico que revolucionou a macroeconomia do século XX e forneceu a base teórica para superar a Grande Depressão com sua obra de 1936, *A Teoria Geral do Emprego, do Juro e da Moeda*. Gerenciando uma agenda intensa como acadêmico, conselheiro governamental e investidor, Keynes demonstrava uma produtividade extraordinária. No entanto, sua rotina matinal era serena.\n\nEm vez de sair da cama ao acordar, Keynes permanecia nela. Por volta das 8h, recebia chá, jornais e relatórios no leito. Keynes passava as duas horas seguintes reclinado em travesseiros, analisando relatórios e escrevendo manuscritos sobre uma prancheta apoiada nos joelhos. Raramente saía da cama antes das 10h. Ao dedicar seu córtex pré-frontal totalmente descansado a um ambiente livre de distrações, Keynes maximizava sua capacidade cognitiva.\n\nNo artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de 'trabalho matinal na cama' de John Maynard Keynes e apresentamos um guia prático de 3 passos para utilizar a Resposta de Despertar do Cortisol (CAR).",
-      "id": "\"Teori ekonomi terbaik saya ditenun sebelum matahari pagi terbit, bersandar pada bantal di bawah selimut yang hangat.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) adalah ekonom Inggris legendaris yang merevolusi makroekonomi abad ke-20 dan menyediakan cetak biru teoritis untuk mengatasi Depresi Besar dengan karyanya pada tahun 1936, *The General Theory of Employment, Interest and Money*. Mengelola jadwal yang padat sebagai akademisi, penasihat pemerintah, dan investor, Keynes memiliki produktivitas intelektual yang luar biasa. Namun rutinitas paginya sangat tenang.\n\nDaripada terburu-buru bangun dari tempat tidur saat terbangun, Keynes tetap berada di tempat tidur. Sekitar pukul 08:00 pagi, teh, surat kabar, dan korespondensi keuangan dibawakan ke samping tempat tidurnya. Keynes menghabiskan dua jam berikutnya bersandar pada bantal, menganalisis laporan dan menulis draf naskah langsung di atas paha kakinya. Ia jarang melangkah keluar dari tempat tidur sebelum pukul 10:00 pagi.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'kerja pagi di tempat tidur' John Maynard Keynes dan menyajikan panduan praktis 3 langkah."
-    },
-    "whyTitle": {
-      "ko": "기상 각성 반응(CAR)과 전전두엽 인지 자원의 골든아워",
-      "en": "Cortisol Awakening Response (CAR) and the Golden Hour of Prefrontal Resources",
-      "ja": "起床時コルチゾール反応（CAR）と前頭前野認知資源のゴールデンアワー",
-      "zh": "皮质醇觉醒反应（CAR）与前额叶认知资源黄金1小时机制",
-      "es": "Respuesta de Despertar del Cortisol (CAR) y la Hora Dorada de los Recursos Prefrontales",
-      "de": "Cortisol-Aufwachreaktion (CAR) und die goldene Stunde präfrontaler Ressourcen",
-      "fr": "Réponse d'éveil du cortisol (CAR) et l'heure dorée des ressources préfrontales",
-      "pt": "Resposta de Despertar do Cortisol (CAR) e a Hora Dourada dos Recursos Pré-frontais",
-      "id": "Cortisol Awakening Response (CAR) dan Jam Emas Sumber Daya Prefrontal"
-    },
-    "whyDesc": {
-      "ko": "잠에서 깬 직후 30~45분 동안 인체는 <strong>기상 각성 반응(Cortisol Awakening Response, CAR)</strong>에 의해 부신에서 천연 활력 호르몬인 코르티솔 분비를 급증시킵니다. 이 시점은 하루 중 <strong>전전두엽(Prefrontal Cortex)</strong>의 피로가 전혀 없는 상태에서 최고 수준의 창의성과 논리 구조를 발휘할 수 있는 인지적 골든아워입니다. 침대 위라는 외부 노이즈가 차단된 자극 통제 환경에서 1순위 핵심 과제에 집중하면, 인지 자원 소실 없이 뇌의 집행 기능을 100% 활용할 수 있게 됩니다.",
-      "en": "During the first 30 to 45 minutes after waking, the human neuroendocrine system executes the <strong>Cortisol Awakening Response (CAR)</strong>, naturally surging cortisol levels from the adrenal glands to energize the brain. This window represents a cognitive golden hour where the <strong>Prefrontal Cortex</strong> is entirely free from decision fatigue, enabling peak logic and creative synthesis. Working on your top-priority task in a sensory-controlled bed environment channels 100% of executive bandwidth without cognitive energy loss.",
-      "ja": "目覚めた直後の30〜45分の間、人体は<strong>起床時コルチゾール反応（Cortisol Awakening Response, CAR）</strong>によって副腎から天然の活力ホルモンであるコルチゾールの分泌を急増させます。この時点は1日の中で<strong>前頭前野（Prefrontal Cortex）</strong>の疲労が全くない状態で、最高水準の創造性と論理構造を発揮できる知的ゴールデンアワーです。ベッドの上という外部ノイズが遮断された刺激統制環境で第1優先の核心課題に集中すれば、認知資源の損失なしに脳の実行機能を100％活用できるようになります。",
-      "zh": "在自清晨醒来后的30至45分钟内，人体神经内分泌系统会触发强悍的<strong>皮质醇觉醒反应（Cortisol Awakening Response，CAR）</strong>，由副肾急剧拉升天然活力激素——皮质醇的分泌。此时段堪称全天之中<strong>前额叶皮层（Prefrontal Cortex）</strong>毫无决策疲劳盘踞的绝对认知黄金期，能爆发出极高水准的逻辑构建力与创见。在斜倚床榻这般阻断外部噪点的刺激管控微环境中全情攻坚第一优先度的核心任务，便可在毫无认知能量挥霍的前提下将大脑执掌功能拉满至100%。",
-      "es": "Durante los primeros 30 a 45 minutos tras despertar, el cuerpo experimenta la <strong>Respuesta de Despertar del Cortisol (Cortisol Awakening Response, CAR)</strong>, aumentando de forma natural el cortisol para energizar el cerebro. Este periodo representa una hora dorada cognitiva donde la <strong>Corteza Prefrontal</strong> está libre de fatiga de decisión, alcanzando un pico de lógica y creatividad. Trabajar en una tarea prioritaria en la cama canaliza el 100% de la capacidad ejecutiva sin pérdidas de energía.",
-      "de": "In den ersten 30 bis 45 Minuten nach dem Aufwachen löst der Körper die <strong>Cortisol-Aufwachreaktion (Cortisol Awakening Response, CAR)</strong> aus, die den Cortisolspiegel anhebt und das Gehirn aktiviert. Dieses Zeitfenster ist eine kognitive Blütezeit, in der der <strong>präfrontale Kortex</strong> frei von Entscheidungsmüdigkeit ist und Höchstleistungen bei Logik und Kreativität erbringt. Das Arbeiten im Bett ermöglicht die uneingeschränkte Nutzung kognitiver Kapazitäten.",
-      "fr": "Pendant les 30 a 45 premières minutes suivant le réveil, l'organisme enclenche la <strong>Réponse d'éveil du cortisol (Cortisol Awakening Response, CAR)</strong>, augmentant le niveau de cortisol pour stimuler le cerveau. Cette période constitue una heure dorée cognitive où le <strong>Cortex Préfrontal</strong> est libéré de toute fatigue décisionnelle, favorisant la logique et la synthèse créative. Travailler au lit permet de canaliser 100 % de la bande passante exécutive.",
-      "pt": "Durante os primeiros 30 a 45 minutos após acordar, o corpo experimenta a <strong>Resposta de Despertar do Cortisol (Cortisol Awakening Response, CAR)</strong>, aumentando o cortisol para energizar o cérebro. Este período representa uma hora dourada cognitiva onde o <strong>Córtex Pré-frontal</strong> está livre da fadiga de decisão, alcançando o pico da lógica e criatividade. Trabalhar na cama canaliza 100% da capacidade sem perdas de energia.",
-      "id": "Selama 30 hingga 45 menit pertama setelah bangun tidur, sistem neuroendokrin manusia mengeksekusi <strong>Cortisol Awakening Response (CAR)</strong>, secara alami melonjakkan kadar kortisol dari kelenjar adrenal untuk memberi energi pada otak. Jendela ini mewakili jam emas kognitif di mana <strong>Korteks Prefrontal</strong> sepenuhnya bebas dari kelelahan keputusan, memungkinkan puncak logika dan sintesis kreatif."
-    },
-    "cautionTitle": {
-      "ko": "수면 관성(Sleep Inertia)을 방지하고 각성도를 유지하는 상체 세우기 수칙",
-      "en": "Caution: Elevating the Upper Body to Prevent Sleep Inertia and Maintain Arousal",
-      "ja": "注意事項：睡眠慣性（Sleep Inertia）を防ぎ覚醒度を維持する上半身起こしルール",
-      "zh": "注意事项：抬升上半身防范睡眠惯性（Sleep Inertia）与维系觉醒度指南",
-      "es": "Precaución: Eleve el Torso para Evitar la Inercia del Sueño y Mantener la Alerta",
-      "de": "Vorsichtsmaßnahme: Oberkörper aufrichten, um Schlafträgheit zu vermeiden und Wachheit zu halten",
-      "fr": "Mise en garde : Redresser le buste pour prévenir l'inertie du sommeil et maintenir l'éveil",
-      "pt": "Precaução: Eleve o Tronco para Evitar a Inércia do Sono e Manter o Alerta",
-      "id": "Perhatian: Meninggikan Tubuh Bagian Atas untuk Mencegah Inersia Tidur dan Mempertahankan Kebugaran"
-    },
-    "cautionDesc": {
-      "ko": "아침 침대 집중 작업 시 가장 경계해야 할 요소는 수면 관성(Sleep Inertia)으로 인한 재입면입니다. 뇌가 완전히 깨기 전에 수평으로 눕거나 고개가 낮아지면 뇌파가 세타파(Theta Wave) 상태로 되돌아가 졸음이 밀려옵니다. 머리와 등을 등받이나 쿠션에 45도 이상 세워 뇌에 명확한 각성 신호를 전달하고, 20~30분 이내로 제한해 몰입하는 것이 핵심입니다.",
-      "en": "The primary threat when working in bed is slipping back into sleep due to <strong>Sleep Inertia</strong>. Lying flat or lowering your head before full awakening reverts brainwaves into drowsiness-inducing <strong>Theta Waves</strong>. Prop your back and head up at least 45 degrees against pillows to transmit an unequivocal posture-based arousal signal to your brainstem, and strictly limit the bed sprint to 20–30 minutes.",
-      "ja": "朝のベッド集中作業の際に最も警戒すべき要素は、睡眠慣性（Sleep Inertia）による再入眠です。脳が完全に覚醒する前に水平に横たわったり頭が下がると、脳波がシータ波（Theta Wave）状態へと戻り、眠気が押し寄せてきます。頭と背中を背もたれやクッションで45度以上起こして脳に明確な覚醒信号を伝達し、20〜30分以内に制限して没頭することが核心です。",
-      "zh": "在晨间进行卧床专注工作之际需严加提防的禁忌，乃是因<strong>睡眠惯性（Sleep Inertia）</strong>而重陷昏睡。若在大脑尚未彻底苏醒前呈180度平躺或低下头颅，脑波将倒退回诱发困意的<strong>西塔波（Theta Wave）</strong>状态。务必借助靠枕将头部与后背垫高抬升45度以上，向大脑中枢输送明确的体位觉醒信号，并将此冲刺严苛限定于20-30分钟内。",
-      "es": "El mayor riesgo al trabajar en la cama es volver a dormirse debido a la <strong>Inercia del Sueño (Sleep Inertia)</strong>. Acostarse en posición horizontal o bajar la cabeza hace que las ondas cerebrales regresen a las <strong>Ondas Theta</strong>, provocando somnolencia. Apoye su espalda y cabeza a 45 grados o más con almohadas para enviar una señal de alerta clara al cerebro y limite la sesión a 20 o 30 minutos.",
-      "de": "Die größte Gefahr beim Arbeiten im Bett ist das Wiedereinschlafen durch <strong>Schlafträgheit (Sleep Inertia)</strong>. Flaches Liegen oder das Senken des Kopfes führt dazu, dass das Gehirn wieder in <strong>Theta-Wellen</strong> verfällt und Müdigkeit entsteht. Stützen Sie Rücken und Kopf im Winkel von mindestens 45 Grad mit Kissen ab, um dem Gehirn ein Aufwachsignal zu geben, und begrenzen Sie die Phase auf 20 bis 30 Minuten.",
-      "fr": "Le risque principal lors du travail au lit est de se rendormir en raison de l'<strong>Inertie du Sommeil (Sleep Inertia)</strong>. S'allonger à plat ou baisser la tête ramène les ondes cérébrales vers les <strong>Ondes Thêta</strong>, provoquant la somnolence. Redressez votre dos et votre tête à 45 degrés au moins a l'aide d'oreillers pour transmettre un signal d'éveil clair au cerveau, et limitez l'effort à 20 ou 30 minutes.",
-      "pt": "O maior risco ao trabalhar na cama é voltar a dormir devido à <strong>Inércia do Sono (Sleep Inertia)</strong>. Deitar-se em posição horizontal ou baixar a cabeça faz com que as ondas cerebrais retornem às <strong>Ondas Teta</strong>, causando sonolência. Apoie as costas e a cabeça a 45 graus ou mais com travesseiros para enviar um sinal de alerta ao cérebro e limite a sessão a 20 ou 30 minutos.",
-      "id": "Ancaman utama saat bekerja di tempat tidur adalah tertidur kembali karena <strong>Inersia Tidur (Sleep Inertia)</strong>. Berbaring datar atau menurunkan kepala Anda sebelum terbangun sepenuhnya mengembalikan gelombang otak ke <strong>Gelombang Teta</strong> yang memicu rasa kantuk. Sandarkan punggung dan kepala Anda setidaknya 45 derajat pada bantal untuk memancarkan sinyal kebugaran."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 기상 직후 외부 정보 자극 및 스마트폰 완전 차단",
-          "en": "Step 1: Complete Digital Disconnection & External Input Blocking Upon Waking",
-          "ja": "ステップ1：起床直後の外部情報刺激およびスマートフォンの完全遮断",
-          "zh": "步骤1：醒来即刻彻底切断外界信息刺激与屏断手机",
-          "es": "Paso 1: Desconexión Digital Completa y Bloqueo de Estímulos al Despertar",
-          "de": "Schritt 1: Vollständiges Abschalten digitaler Reize direkt nach dem Aufstehen",
-          "fr": "Étape 1 : Déconnexion numérique totale et blocage des stimulations au réveil",
-          "pt": "Passo 1: Desconexão Digital Completa e Bloqueio de Estímulos ao Acordar",
-          "id": "Langkah 1: Pemutusan Digital Total & Memblokir Masukan Eksternal Saat Bangun"
-        },
-        "text": {
-          "ko": "눈을 뜬 직후 스마트폰이나 메신저를 확인하지 않고, 손이 닿지 않는 곳에 물리적으로 격리하여 기상 각성 반응(CAR)의 인지 에너지를 온전히 보존합니다.",
-          "en": "Avoid checking smartphones or messaging apps immediately upon waking. Keep devices physically out of reach to preserve the high-bandwidth cognitive energy fueled by the Cortisol Awakening Response (CAR).",
-          "ja": "目を開けた直後、スマートフォンやメッセンジャーを確認せず、手に届かない場所へ物理的に隔離し、起床時コルチゾール反応（CAR）の認知エネルギーを完全に保存します。",
-          "zh": "睁眼醒来瞬间切勿翻阅手机弹窗或即时消息，将其物理隔离于手臂触及范围之外，完整保留由皮质醇觉醒反应（CAR）所赋予的高带宽认知能量。",
-          "es": "Evite revisar teléfonos o mensajes inmediatamente al despertar. Mantenga los dispositivos fuera de su alcance para preservar la energía cognitiva generada por la Respuesta de Despertar del Cortisol (CAR).",
-          "de": "Greifen Sie nach dem Aufwachen nicht zum Smartphone. Legen Sie Geräte außer Reichweite, um die durch die Cortisol-Aufwachreaktion (CAR) bereitgestellte kognitive Energie zu schonen.",
-          "fr": "Évitez de consulter votre téléphone ou vos messages dès le réveil. Éloignez les appareils hors de portée pour préserver l'énergie cognitive issue de la Réponse d'éveil du cortisol (CAR).",
-          "pt": "Evite checar celulares ou mensagens imediatamente ao acordar. Mantenha os dispositivos fora do alcance para preservar a energia cognitiva gerada pela Resposta de Despertar do Cortisol (CAR).",
-          "id": "Hindari memeriksa ponsel pintar atau aplikasi pesan segera setelah bangun tidur. Jauhkan perangkat secara fisik dari jangkauan untuk melestarikan energi kognitif yang dipicu oleh Cortisol Awakening Response (CAR)."
-        }
+    "pubDate": "2026-02-08",
+    "updatedDate": "2026-02-08",
+    "heroImage": "/images/blog/keynes_morning_bed_work.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "이불 속에서 쓰인 일반이론: 존 메이너드 케인스의 아침 침대 작업 습관과 CAR 각성",
+        "description": "대공황을 극복한 거시경제학자이자 기상 직후 2시간 동안 침대 위에서 모든 원고를 집필했던 케인스. 기상 각성 반응(CAR)과 전전두엽 인지 자원 활용, 수면 관성 방지 원리 및 3단계 실천법을 소개합니다.",
+        "authority": "로버트 스키델스키 『케인스 평전(John Maynard Keynes)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 신경근육학(Neuromuscular Science) 연구",
+        "intro": "\"나의 가장 훌륭한 경제학 이론들은 아침 해가 뜨기 전, 따뜻한 이불 속 침대 머리맡에서 직조되었다.\" 🛏️\n\n20세기 경제학의 판도를 바꾸고 거시경제의 틀을 마련하여 역사상 최악의 세계 대공황을 타개할 열쇠를 쥐어준 인물, 존 메이너드 케인스(John Maynard Keynes, 1883–1946). 1936년 불후의 명저 『고용·이자 및 화폐에 관한 일반이론(The General Theory of Employment, Interest and Money)』을 출간한 그는 학자이자 관료, 투자가로서 살인적인 스케줄을 처리했던 엄청난 생산성의 소유자였습니다. 그러나 그의 아침 풍경은 의외로 평화롭고 나른했습니다.\n\n케인스는 잠에서 뜬 뒤 즉시 이불을 박차고 일어나 서재로 향하지 않았습니다. 아침 8시경 비서나 하인이 차와 신문, 보고서를 가져다주면, 그는 베개에 상체를 비스듬히 기댄 채 약 2시간 동안 무릎 위에 원고지를 놓고 보고서를 분석하며 서적을 집필했습니다. 그는 오전 10시가 넘어서야 비로소 옷을 차려입고 침대 밖으로 나왔습니다. 외부의 결정을 요구하는 자극이 차단된 상태에서 기상 직후의 가장 맑은 전전두엽 자원을 고스란히 집필에 쏟아부었던 케인스의 이불 속 업무 루틴은, 기상 각성 반응(CAR)의 신경호르몬을 고스란히 활용한 고도의 인지 생산성 전략이었습니다.\n\n오늘 포스트에서는 존 메이너드 케인스의 '아침 침대 집필' 루틴의 뇌과학적 원리와 현대인들이 아침 집중력을 극대화하기 위해 이를 어떻게 적용할 수 있는지 알아봅니다.",
+        "whyTitle": "기상 각성 반응(CAR)과 전전두엽 인지 자원의 골든아워",
+        "whyDesc": "잠에서 깬 직후 30~45분 동안 인체는 <strong>기상 각성 반응(Cortisol Awakening Response, CAR)</strong>에 의해 부신에서 천연 활력 호르몬인 코르티솔 분비를 급증시킵니다. 이 시점은 하루 중 <strong>전전두엽(Prefrontal Cortex)</strong>의 피로가 전혀 없는 상태에서 최고 수준의 창의성과 논리 구조를 발휘할 수 있는 인지적 골든아워입니다. 침대 위라는 외부 노이즈가 차단된 자극 통제 환경에서 1순위 핵심 과제에 집중하면, 인지 자원 소실 없이 뇌의 집행 기능을 100% 활용할 수 있게 됩니다.",
+        "cautionTitle": "수면 관성(Sleep Inertia)을 방지하고 각성도를 유지하는 상체 세우기 수칙",
+        "cautionDesc": "아침 침대 집중 작업 시 가장 경계해야 할 요소는 수면 관성(Sleep Inertia)으로 인한 재입면입니다. 뇌가 완전히 깨기 전에 수평으로 눕거나 고개가 낮아지면 뇌파가 세타파(Theta Wave) 상태로 되돌아가 졸음이 밀려옵니다. 머리와 등을 등받이나 쿠션에 45도 이상 세워 뇌에 명확한 각성 신호를 전달하고, 20~30분 이내로 제한해 몰입하는 것이 핵심입니다.",
+        "steps": [
+          {
+            "title": "1단계: 기상 직후 외부 정보 자극 및 스마트폰 완전 차단",
+            "desc": "눈을 뜬 직후 스마트폰이나 메신저를 확인하지 않고, 손이 닿지 않는 곳에 물리적으로 격리하여 기상 각성 반응(CAR)의 인지 에너지를 온전히 보존합니다."
+          },
+          {
+            "title": "2단계: 상체 45도 이상 고정 및 뇌 각성 신호 유도",
+            "desc": "침대 머리맡에 베개나 쿠션을 쌓아 머리와 등을 45도 이상 세우고 앉아, 수면 관성을 방지하고 뇌 신경계에 명확한 기상 각성 신호를 전달합니다."
+          },
+          {
+            "title": "3단계: 침대 위 1순위 핵심 과제 20분 단일 몰입",
+            "desc": "가장 높은 전전두엽 인지 에너지가 필요한 기획 초안 작성이나 원고 집필 등 1순위 단일 핵심 과제를 침대 위에서 20분간 고도로 몰입하여 완수합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "침대 위에서 작업할 때 척추나 관절 건강에 해롭지 않나요?",
+            "answer": "완전히 평평하게 누워서 고개를 숙이는 자세는 경추와 척추에 나쁜 영향을 줍니다. 따라서 머리와 등이 비스듬히 45도 이상 곧추세워지도록 큰 쿠션이나 등받이를 단단히 받쳐야 하며, 최대 30분 내외로 시간을 한정해 집중해야 건강과 생산성을 모두 챙길 수 있습니다."
+          },
+          {
+            "question": "기상 직후 메일이나 메신저를 5분만 먼저 확인하고 시작하면 안 되나요?",
+            "answer": "안 됩니다. 뇌가 파편화된 외부 요구 사항에 단 5분만 노출되어도 기상 각성 반응(CAR)의 강력한 에너지가 즉각 분산 및 소실됩니다. 뇌가 가장 온전한 상태일 때 1순위 핵심 과제 하나를 끝내기 전까지는 스마트폰 전원을 켜지 않는 것이 핵심입니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 상체 45도 이상 고정 및 뇌 각성 신호 유도",
-          "en": "Step 2: Propping Upper Body Above 45 Degrees & Triggering Brain Arousal",
-          "ja": "ステップ2：上半身45度以上固定および脳覚醒信号の誘導",
-          "zh": "步骤2：垫高上半身达45度以上与诱发大脑觉醒信号",
-          "es": "Paso 2: Elevar el Torso a 45 Grados o Más para Inducir Alerta Cerebral",
-          "de": "Schritt 2: Oberkörper um mindestens 45 Grad aufrichten & Aufwachsignal auslösen",
-          "fr": "Étape 2 : Redressement du buste a 45 degrés au moins & Signal d'éveil",
-          "pt": "Passo 2: Elevar o Tronco a 45 Graus ou Mais para Induzir o Alerta Cerebral",
-          "id": "Langkah 2: Menopang Tubuh Bagian Atas Di Atas 45 Derajat & Memicu Sinyal Kebugaran"
-        },
-        "text": {
-          "ko": "침대 머리맡에 베개나 쿠션을 쌓아 머리와 등을 45도 이상 세우고 앉아, 수면 관성을 방지하고 뇌 신경계에 명확한 기상 각성 신호를 전달합니다.",
-          "en": "Stack pillows or firm cushions behind your back to sit upright at an angle of 45 degrees or higher. This posture prevents sleep inertia and transmits an unequivocal waking signal to your nervous system.",
-          "ja": "ベッドの枕元に枕やクッションを積み重ねて頭と背中を45度以上起こして座り、睡眠慣性を予防して脳神経系に明確な起床覚醒信号を伝達します。",
-          "zh": "在床头靠背处堆叠枕头或硬质靠垫，将头部与后背挺立抬升至45度以上斜卧姿态，防范睡眠惯性，向脑神经系统输送清晰的起床觉醒信号。",
-          "es": "Apile almohadas o cojines firmes detrás de su espalda para sentarse en un ángulo de 45 grados o más. Esta postura evita la inercia del sueño y transmite una clara señal de despertar al sistema nervioso.",
-          "de": "Stapeln Sie Kissen hinter Ihrem Rücken, um sich im Winkel von mindestens 45 Grad aufzurichten. Diese Haltung verhindert Schlafträgheit und sendet ein Aufwachsignal an das Nervensystem.",
-          "fr": "Empilez des oreillers ou des coussins fermes derrière votre dos pour vous asseoir à un angle de 45 degrés au moins. Cette posture prévient l'inertie du sommeil et transmet un signal d'éveil clair.",
-          "pt": "Empilhe travesseiros ou almofadas atrás das costas para sentar-se em um ângulo de 45 graus ou mais. Essa postura evita a inércia do sono e transmite um sinal claro de despertar ao sistema nervoso.",
-          "id": "Tumpuk bantal atau bantal keras di belakang punggung Anda untuk duduk tegak pada sudut 45 derajat atau lebih tinggi. Postur ini mencegah inersia tidur dan memancarkan sinyal terbangun yang jelas."
-        }
+      "en": {
+        "title": "The General Theory Written Under the Covers: John Maynard Keynes's Morning Bed-Work Habit and CAR Cognitive Activation",
+        "description": "Discover how macroeconomist John Maynard Keynes, who conquered the Great Depression, authored manuscripts in bed for two hours after waking up. Explore the neuroscience of the Cortisol Awakening Response (CAR), prefrontal focus, and a 3-step morning routine.",
+        "authority": "Historical Verification from Robert Skidelsky's *John Maynard Keynes* Biography, Keynes Archives & Cognitive Neuroscience and Neuromuscular Science Research",
+        "intro": "\"My best economic theories were woven before the morning sun rose, propped up against pillows under a warm blanket.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) was the legendary British economist who revolutionized 20th-century macroeconomics and provided the theoretical blueprint to overcome the Great Depression with his landmark 1936 work, *The General Theory of Employment, Interest and Money*. Managing an overwhelming schedule as a Cambridge academic, government advisor, and financier, Keynes possessed extraordinary intellectual output. Yet his morning routine was surprisingly tranquil.\n\nRather than rushing out of bed upon waking, Keynes remained in bed. At around 8:00 AM, tea, newspapers, and financial correspondence were brought to his bedside. Keynes spent the next two hours propped up comfortably against large pillows, analyzing economic reports and penning manuscript drafts directly on a board resting on his knees. He rarely stepped out of bed before 10:00 AM. Immersing his freshest, fatigue-free prefrontal cortex in a sensory-controlled environment, Keynes maximized his cognitive capacity before daily distractions could interfere.\n\nIn today's post, we examine the cognitive neuroscience behind John Maynard Keynes's 'morning bed-work' routine and present a modern 3-step protocol to leverage the Cortisol Awakening Response (CAR) and conquer morning brain fog.",
+        "whyTitle": "Cortisol Awakening Response (CAR) and the Golden Hour of Prefrontal Resources",
+        "whyDesc": "During the first 30 to 45 minutes after waking, the human neuroendocrine system executes the <strong>Cortisol Awakening Response (CAR)</strong>, naturally surging cortisol levels from the adrenal glands to energize the brain. This window represents a cognitive golden hour where the <strong>Prefrontal Cortex</strong> is entirely free from decision fatigue, enabling peak logic and creative synthesis. Working on your top-priority task in a sensory-controlled bed environment channels 100% of executive bandwidth without cognitive energy loss.",
+        "cautionTitle": "Caution: Elevating the Upper Body to Prevent Sleep Inertia and Maintain Arousal",
+        "cautionDesc": "The primary threat when working in bed is slipping back into sleep due to <strong>Sleep Inertia</strong>. Lying flat or lowering your head before full awakening reverts brainwaves into drowsiness-inducing <strong>Theta Waves</strong>. Prop your back and head up at least 45 degrees against pillows to transmit an unequivocal posture-based arousal signal to your brainstem, and strictly limit the bed sprint to 20–30 minutes.",
+        "steps": [
+          {
+            "title": "Step 1: Complete Digital Disconnection & External Input Blocking Upon Waking",
+            "desc": "Avoid checking smartphones or messaging apps immediately upon waking. Keep devices physically out of reach to preserve the high-bandwidth cognitive energy fueled by the Cortisol Awakening Response (CAR)."
+          },
+          {
+            "title": "Step 2: Propping Upper Body Above 45 Degrees & Triggering Brain Arousal",
+            "desc": "Stack pillows or firm cushions behind your back to sit upright at an angle of 45 degrees or higher. This posture prevents sleep inertia and transmits an unequivocal waking signal to your nervous system."
+          },
+          {
+            "title": "Step 3: 20-Minute Deep Immersion in the Top-Priority Task from Bed",
+            "desc": "Execute a single, high-leverage task demanding maximum prefrontal processing—such as drafting a proposal or writing core manuscript chapters—from bed for 20 minutes with intense focus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is working in bed harmful to spinal posture, neck alignment, or joint health?",
+            "answer": "Lying completely flat while craning your neck forward induces severe cervical and spinal strain. To safeguard your spine, support your upper body at 45 degrees or higher using firm back cushions, and strictly cap your bed session to 20–30 minutes to balance musculoskeletal health with cognitive output."
+          },
+          {
+            "question": "Can I check my emails or instant messages for just 5 minutes right after waking up?",
+            "answer": "No. Exposing your brain to fragmented external demands even for 5 minutes instantly dissipates the potent cognitive surge delivered by the Cortisol Awakening Response (CAR). To preserve prefrontal bandwidth, leave your smartphone off until you complete your single top-priority task."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 침대 위 1순위 핵심 과제 20분 단일 몰입",
-          "en": "Step 3: 20-Minute Deep Immersion in the Top-Priority Task from Bed",
-          "ja": "ステップ3：ベッドの上での第1優先核心課題への20分間単一没頭",
-          "zh": "步骤3：于床榻之上死锁第一优先度核心任务开展20分钟单点沉浸",
-          "es": "Paso 3: 20 Minutos de Inmersión Profunda en la Tarea Prioritaria Desde la Cama",
-          "de": "Schritt 3: 20 Minuten fokussierte Arbeit an der Wichtigsten Aufgabe im Bett",
-          "fr": "Étape 3 : Immersion de 20 minutes sur la tâche prioritaire depuis le lit",
-          "pt": "Passo 3: 20 Minutos de Imersão Profunda na Tarefa Prioritária na Cama",
-          "id": "Langkah 3: Imersi Mendalam 20 Menit pada Tugas Prioritas Utama dari Tempat Tidur"
-        },
-        "text": {
-          "ko": "가장 높은 전전두엽 인지 에너지가 필요한 기획 초안 작성이나 원고 집필 등 1순위 단일 핵심 과제를 침대 위에서 20분간 고도로 몰입하여 완수합니다.",
-          "en": "Execute a single, high-leverage task demanding maximum prefrontal processing—such as drafting a proposal or writing core manuscript chapters—from bed for 20 minutes with intense focus.",
-          "ja": "最も高い前頭前野の認知エネルギーを必要とする企画草案の作成や原稿執筆など、第1優先の単一核心課題をベッドの上で20分間高度に没頭して完遂します。",
-          "zh": "在床榻之上，将耗费极高前额叶皮层算力的第一优先度单一核心任务（如撰写方案初稿或核心章节文案）以极高专注力沉浸攻坚20分钟，一鼓作气达成。",
-          "es": "Ejecute una única tarea exigente que requiera máxima capacidad prefrontal (como redactar una propuesta o escribir capítulos clave) desde la cama durante 20 minutos con intensa concentración.",
-          "de": "Führen Sie im Bett 20 Minuten lang eine einzelne wichtige Aufgabe aus, die hohe Konzentration erfordert (z. B. das Entwerfen eines Konzepts oder das Schreiben von Texten).",
-          "fr": "Exécutez depuis votre lit, pendant 20 minutes et avec una concentration intense, una tâche exigeante nécessitant des ressources préfrontales (comme la rédaction d'un projet ou d'un texte clé).",
-          "pt": "Execute uma única tarefa exigente que exija máxima capacidade pré-frontal (como redigir uma proposta ou escrever capítulos essenciais) na cama por 20 minutos com foco intenso.",
-          "id": "Eksekusi satu tugas berdaya ungkit tinggi yang membutuhkan pemrosesan prefrontal puncak—seperti menyusun draf proposal atau menulis bab naskah utama—dari tempat tidur selama 20 menit."
-        }
+      "zh": {
+        "title": "被窝里孕育的《就业、利息和货币通论》：约翰·梅纳德·凯恩斯的晨间卧床工作习惯与CAR觉醒机制",
+        "description": "探索破局大萧条的宏观经济学泰斗约翰·梅纳德·凯恩斯如何在醒来后的2小时内斜倚于床榻撰写稿件。揭示皮质醇觉醒反应（CAR）、前额叶认知资源利用、防范睡眠惯性原理与3步骤实践指南。",
+        "authority": "罗伯特·斯基德尔斯基《凯恩斯传（John Maynard Keynes）》史料考证及认知神经科学（Cognitive Neuroscience）与神经肌肉学（Neuromuscular Science）研究",
+        "intro": "“我至为卓绝的经济学理论，皆织就于晨曦破晓前、那温暖被窝里的床头案案旁。” 🛏️\n\n彻底颠覆20世纪经济学格局、构建宏观经济学框架并为破局人类史上至为惨烈的世界大萧条献上钥匙的泰斗——约翰·梅纳德·凯恩斯（John Maynard Keynes，1883–1946）。于1936年问世不朽名著《就业、利息和货币通论（The General Theory of Employment, Interest and Money）》的他，身为剑桥学者、政府高官与资深投资人，拥有着直面繁重日程依然游刃有余的超凡生产力。然而，他晨间的图景却意外地安详而从容。\n\n凯恩斯在醒来后绝不即刻掀开被褥冲向书房。早晨8点许，当侍者送来茶水、报章与财经报告时，他会斜倚于厚重的靠枕之上，在膝头的书板上垫起稿纸，展开长达2小时的报告研判与著作撰述。直到上午10点过后，他方才整装下床。在彻底阻断要求外部决策的杂音刺激的前提下，将醒来后至为清明的前额叶皮层算力毫无保留地倾注于创作中，凯恩斯这套被窝里的工作习惯，乃是完美借力皮质醇觉醒反应（CAR）神经激素的高阶认知生产力战略。\n\n在今天的文章中，我们将深度解构约翰·梅纳德·凯恩斯“晨间卧床写作”习惯背后的神经科学原理，并分享一套助现代人拉满晨间专注力、扫除脑雾的3步骤实践指南。",
+        "whyTitle": "皮质醇觉醒反应（CAR）与前额叶认知资源黄金1小时机制",
+        "whyDesc": "在自清晨醒来后的30至45分钟内，人体神经内分泌系统会触发强悍的<strong>皮质醇觉醒反应（Cortisol Awakening Response，CAR）</strong>，由副肾急剧拉升天然活力激素——皮质醇的分泌。此时段堪称全天之中<strong>前额叶皮层（Prefrontal Cortex）</strong>毫无决策疲劳盘踞的绝对认知黄金期，能爆发出极高水准的逻辑构建力与创见。在斜倚床榻这般阻断外部噪点的刺激管控微环境中全情攻坚第一优先度的核心任务，便可在毫无认知能量挥霍的前提下将大脑执掌功能拉满至100%。",
+        "cautionTitle": "注意事项：抬升上半身防范睡眠惯性（Sleep Inertia）与维系觉醒度指南",
+        "cautionDesc": "在晨间进行卧床专注工作之际需严加提防的禁忌，乃是因<strong>睡眠惯性（Sleep Inertia）</strong>而重陷昏睡。若在大脑尚未彻底苏醒前呈180度平躺或低下头颅，脑波将倒退回诱发困意的<strong>西塔波（Theta Wave）</strong>状态。务必借助靠枕将头部与后背垫高抬升45度以上，向大脑中枢输送明确的体位觉醒信号，并将此冲刺严苛限定于20-30分钟内。",
+        "steps": [
+          {
+            "title": "步骤1：醒来即刻彻底切断外界信息刺激与屏断手机",
+            "desc": "睁眼醒来瞬间切勿翻阅手机弹窗或即时消息，将其物理隔离于手臂触及范围之外，完整保留由皮质醇觉醒反应（CAR）所赋予的高带宽认知能量。"
+          },
+          {
+            "title": "步骤2：垫高上半身达45度以上与诱发大脑觉醒信号",
+            "desc": "在床头靠背处堆叠枕头或硬质靠垫，将头部与后背挺立抬升至45度以上斜卧姿态，防范睡眠惯性，向脑神经系统输送清晰的起床觉醒信号。"
+          },
+          {
+            "title": "步骤3：于床榻之上死锁第一优先度核心任务开展20分钟单点沉浸",
+            "desc": "在床榻之上，将耗费极高前额叶皮层算力的第一优先度单一核心任务（如撰写方案初稿或核心章节文案）以极高专注力沉浸攻坚20分钟，一鼓作气达成。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "在床榻上展开工作，是否会对脊柱、颈椎与关节健康施加不良影响？",
+            "answer": "完全平躺并向前低头拱颈的体位会对颈椎与腰椎施加严重磨损。为庇护脊柱健康，务必使用硬质大靠垫将头部与后背稳固支撑垫高至45度以上，并将冲刺时间严苛限定于30分钟以内，方能兼顾躯体健康与极致生产力。"
+          },
+          {
+            "question": "醒来后先抽出短短5分钟查阅邮件或即时消息、随后再切入正题是否可行？",
+            "answer": "绝不可以。脑部即便仅曝露于外界纷繁撕裂的打扰诉求中短短5分钟，由皮质醇觉醒反应（CAR）所泵入的强悍认知能量便会瞬时耗散殆尽。在利用大脑至为纯粹的状态攻坚完成第一优先度核心任务之前，切勿开启手机电源，乃是绝对核心。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "布団の中で執筆された一般理論：ジョン・メイナード・ケインズの朝のベッド作業習慣とCAR覚醒",
+        "description": "大恐慌を克服した巨視経済学者であり、起床直後の2時間ベッドの上で全ての原稿を執筆したケインズ。起床時コルチゾール反応（CAR）と前頭前野認知資源の活用、睡眠慣性防止の原理および3段階実践法を紹介します。",
+        "authority": "ロバート・スキデルスキー『ケインズ評伝（John Maynard Keynes）』史料考証＆認知神経科学（Cognitive Neuroscience）および神経筋肉学（Neuromuscular Science）研究",
+        "intro": "「私の最も素晴らしい経済学理論は、朝の太陽が昇る前、暖かい布団の中のベッドの枕元で織り上げられた。」 🛏️\n\n20世紀経済学の勢力図を変え、巨視経済の枠組みを準備して史上最悪の世界大恐慌を打開する鍵を握らせた人物、ジョン・メイナード・ケインズ（John Maynard Keynes、1883–1946）。1936年に金字塔的名著『雇用・利子および貨幣の一般理論（The General Theory of Employment, Interest and Money）』を出版した彼は、学者であり官僚、投資家として殺人的なスケジュールを処理した圧倒的な生産性の所有者でした。しかし彼の朝の風景は思いのほか平和で物憂げなものでした。\n\nケインズは目を覚ました後、直ちに布団を蹴飛ばして起き上がり書斎へと向かいませんでした。朝8時頃、秘書や召使いがお茶や新聞、報告書を持ってくると、彼は枕に上半身を斜めにもたせかけたまま約2時間、膝の上に原稿用紙を置いて報告書を分析し書籍を執筆しました。彼は午前10時を過ぎて初めて服を整えてベッドの外へと出ました。外部の決定を要求する刺激が遮断された状態で、起床直後の最も澄み切った前頭前野資源をそっくり執筆に注ぎ込んだケインズの布団の中の作業ルーティンは、起床時コルチゾール反応（CAR）の神経ホルモンをそのまま活用した高度な知的生産性戦略だったのです。\n\n本日の記事では、ジョン・メイナード・ケインズの「朝のベッド執筆」ルーティンの脳科学的原理と、現代人が朝の集中力を極大化するためにこれをどのように適用できるかを解明します。",
+        "whyTitle": "起床時コルチゾール反応（CAR）と前頭前野認知資源のゴールデンアワー",
+        "whyDesc": "目覚めた直後の30〜45分の間、人体は<strong>起床時コルチゾール反応（Cortisol Awakening Response, CAR）</strong>によって副腎から天然の活力ホルモンであるコルチゾールの分泌を急増させます。この時点は1日の中で<strong>前頭前野（Prefrontal Cortex）</strong>の疲労が全くない状態で、最高水準の創造性と論理構造を発揮できる知的ゴールデンアワーです。ベッドの上という外部ノイズが遮断された刺激統制環境で第1優先の核心課題に集中すれば、認知資源の損失なしに脳の実行機能を100％活用できるようになります。",
+        "cautionTitle": "注意事項：睡眠慣性（Sleep Inertia）を防ぎ覚醒度を維持する上半身起こしルール",
+        "cautionDesc": "朝のベッド集中作業の際に最も警戒すべき要素は、睡眠慣性（Sleep Inertia）による再入眠です。脳が完全に覚醒する前に水平に横たわったり頭が下がると、脳波がシータ波（Theta Wave）状態へと戻り、眠気が押し寄せてきます。頭と背中を背もたれやクッションで45度以上起こして脳に明確な覚醒信号を伝達し、20〜30分以内に制限して没頭することが核心です。",
+        "steps": [
+          {
+            "title": "ステップ1：起床直後の外部情報刺激およびスマートフォンの完全遮断",
+            "desc": "目を開けた直後、スマートフォンやメッセンジャーを確認せず、手に届かない場所へ物理的に隔離し、起床時コルチゾール反応（CAR）の認知エネルギーを完全に保存します。"
+          },
+          {
+            "title": "ステップ2：上半身45度以上固定および脳覚醒信号の誘導",
+            "desc": "ベッドの枕元に枕やクッションを積み重ねて頭と背中を45度以上起こして座り、睡眠慣性を予防して脳神経系に明確な起床覚醒信号を伝達します。"
+          },
+          {
+            "title": "ステップ3：ベッドの上での第1優先核心課題への20分間単一没頭",
+            "desc": "最も高い前頭前野の認知エネルギーを必要とする企画草案の作成や原稿執筆など、第1優先の単一核心課題をベッドの上で20分間高度に没頭して完遂します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ベッドの上で作業する際、脊椎や関節の健康に害はありませんか？",
+            "answer": "完全に水平に横たわって頭をうつむかせる姿勢は、頸椎と脊椎に悪い影響を与えます。したがって、頭と背中が斜めに45度以上しっかりと起き上がるよう大きなクッションや背もたれを固く支え、最大30分前後に時間を限定して集中してこそ、健康と生産性の両方を手に入れることができます。"
+          },
+          {
+            "question": "起床直後にメールやメッセンジャーを5分だけ先に確認してから始めてはいけませんか？",
+            "answer": "いけません。脳が断片化された外部の要求事項にたった5分露出されるだけでも、起床時コルチゾール反応（CAR）の強力なエネルギーが即座に分散・消失してしまいます。脳が最も完全な状態である時、第1優先の核心課題を一つ終わらせるまではスマートフォンをつけないことが核心です。"
+          }
+        ]
+      },
+      "es": {
+        "title": "La Teoría General Escrita Bajo las Cobijas: El Hábito de Trabajo Matutino en Cama de John Maynard Keynes y la Activación CAR",
+        "description": "Descubra cómo el macroeconomista John Maynard Keynes, que superó la Gran Depresión, escribió manuscritos en la cama durante dos horas al despertar. Explore la neurociencia de la Respuesta de Despertar del Cortisol (CAR) y una rutina matutina de 3 pasos.",
+        "authority": "Verificación Histórica de la Biografía *John Maynard Keynes* de Robert Skidelsky, Archivos de Keynes e Investigación en Neurociencia Cognitiva y Ciencia Neuromuscular",
+        "intro": "\"Mis mejores teorías económicas se tejieron antes de que saliera el sol de la mañana, apoyado en almohadas bajo una cálida cobija.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) fue el legendario economista británico que revolucionó la macroeconomía del siglo XX y proporcionó el marco teórico para superar la Gran Depresión con su obra de 1936, *La teoría general del empleo, el interés y el dinero*. Manejando una agenda exigente como académico, asesor gubernamental e inversionista, Keynes poseía una productividad extraordinaria. Sin embargo, su rutina matutina era serena.\n\nEn lugar de levantarse de la cama al despertar, Keynes permanecía en ella. Hacia las 8:00 AM, le llevaban té, periódicos y correspondencia. Keynes pasaba las dos horas siguientes reclinado sobre almohadas, analizando informes y redactando borradores en una tabla apoyada sobre sus rodillas. Rara vez se levantaba antes de las 10:00 AM. Al sumergir su corteza prefrontal despejada en un entorno protegido de distracciones, Keynes maximizaba su capacidad cognitiva antes de atender compromisos diarios.\n\nEn la publicación de hoy, analizamos la neurociencia cognitiva detrás de la rutina de 'trabajo matutino en cama' de John Maynard Keynes y presentamos un protocolo práctico de 3 pasos para aprovechar la Respuesta de Despertar del Cortisol (CAR).",
+        "whyTitle": "Respuesta de Despertar del Cortisol (CAR) y la Hora Dorada de los Recursos Prefrontales",
+        "whyDesc": "Durante los primeros 30 a 45 minutos tras despertar, el cuerpo experimenta la <strong>Respuesta de Despertar del Cortisol (Cortisol Awakening Response, CAR)</strong>, aumentando de forma natural el cortisol para energizar el cerebro. Este periodo representa una hora dorada cognitiva donde la <strong>Corteza Prefrontal</strong> está libre de fatiga de decisión, alcanzando un pico de lógica y creatividad. Trabajar en una tarea prioritaria en la cama canaliza el 100% de la capacidad ejecutiva sin pérdidas de energía.",
+        "cautionTitle": "Precaución: Eleve el Torso para Evitar la Inercia del Sueño y Mantener la Alerta",
+        "cautionDesc": "El mayor riesgo al trabajar en la cama es volver a dormirse debido a la <strong>Inercia del Sueño (Sleep Inertia)</strong>. Acostarse en posición horizontal o bajar la cabeza hace que las ondas cerebrales regresen a las <strong>Ondas Theta</strong>, provocando somnolencia. Apoye su espalda y cabeza a 45 grados o más con almohadas para enviar una señal de alerta clara al cerebro y limite la sesión a 20 o 30 minutos.",
+        "steps": [
+          {
+            "title": "Paso 1: Desconexión Digital Completa y Bloqueo de Estímulos al Despertar",
+            "desc": "Evite revisar teléfonos o mensajes inmediatamente al despertar. Mantenga los dispositivos fuera de su alcance para preservar la energía cognitiva generada por la Respuesta de Despertar del Cortisol (CAR)."
+          },
+          {
+            "title": "Paso 2: Elevar el Torso a 45 Grados o Más para Inducir Alerta Cerebral",
+            "desc": "Apile almohadas o cojines firmes detrás de su espalda para sentarse en un ángulo de 45 grados o más. Esta postura evita la inercia del sueño y transmite una clara señal de despertar al sistema nervioso."
+          },
+          {
+            "title": "Paso 3: 20 Minutos de Inmersión Profunda en la Tarea Prioritaria Desde la Cama",
+            "desc": "Ejecute una única tarea exigente que requiera máxima capacidad prefrontal (como redactar una propuesta o escribir capítulos clave) desde la cama durante 20 minutos con intensa concentración."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Trabajar en la cama perjudica la postura espinal, el cuello o la salud articular?",
+            "answer": "Estar acostado en posición horizontal inclinando el cuello genera una tensión cervical severa. Para proteger su columna, apoye su torso a 45 grados o más con cojines firmes y limite la sesión estrictamente a 20 o 30 minutos para equilibrar la salud con la productividad."
+          },
+          {
+            "question": "¿Puedo revisar el correo o mensajes durante solo 5 minutos justo al despertar?",
+            "answer": "No. Exponer su cerebro a demandas externas fragmentadas incluso durante 5 minutos disipa de inmediato la energía generada por la Respuesta de Despertar del Cortisol (CAR). Para preservar la capacidad prefrontal, mantenga su teléfono apagado hasta terminar su tarea prioritaria."
+          }
+        ]
+      },
+      "fr": {
+        "title": "La Théorie générale rédigée sous la couette : La routine de travail matinal au lit de John Maynard Keynes et l'activation CAR",
+        "description": "Découvrez comment le macroéconomiste John Maynard Keynes, qui a surmonté la Grande Dépression, a rédigé ses manuscrits au lit pendant deux heures au réveil. Explorez la neuroscience de la Réponse d'éveil du cortisol (CAR) et un guide en 3 étapes.",
+        "authority": "Vérification Historique issue de la biographie de Robert Skidelsky *John Maynard Keynes*, des archives de Keynes & de la Recherche en Neurosciences Cognitives et Sciences Neuromusculaires",
+        "intro": "« Mes meilleures théories économiques ont été tissées avant le lever du soleil, adossé à des coussins sous una chaude couette. » 🛏️\n\nJohn Maynard Keynes (1883–1946) fut le célèbre économiste britannique qui a révolutionné la macroéconomie du XXe siècle et fourni le cadre théorique pour surmonter la Grande Dépression avec son ouvrage majeur de 1936, *Théorie générale de l'emploi, de l'intérêt et de la monnaie*. Maintenant un rythme soutenu comme universitaire, conseiller d'État et financier, Keynes affichait una productivité impressionnante. Pourtant, sa routine matinale était paisible.\n\nAu lieu de se lever précipitamment au réveil, Keynes restait au lit. Vers 8h00, on lui apportait du thé, des journaux et des rapports. Keynes passait les deux heures suivantes adossé à des oreillers, analysant les documents et rédigeant ses manuscrits sur una planche posée sur ses genoux. Il quittait rarement le lit avant 10h00. En consacrant son cortex préfrontal disponible a un environnement préservé des stimulations, Keynes maximisait sa capacité cognitive avant les sollicitations quotidiennes.\n\nDans cet article, nous analysons la neuroscience cognitive sous-jacente à la routine de « travail matinal au lit » de John Maynard Keynes et proposons un protocole en 3 étapes pour utiliser la Réponse d'éveil du cortisol (CAR).",
+        "whyTitle": "Réponse d'éveil du cortisol (CAR) et l'heure dorée des ressources préfrontales",
+        "whyDesc": "Pendant les 30 a 45 premières minutes suivant le réveil, l'organisme enclenche la <strong>Réponse d'éveil du cortisol (Cortisol Awakening Response, CAR)</strong>, augmentant le niveau de cortisol pour stimuler le cerveau. Cette période constitue una heure dorée cognitive où le <strong>Cortex Préfrontal</strong> est libéré de toute fatigue décisionnelle, favorisant la logique et la synthèse créative. Travailler au lit permet de canaliser 100 % de la bande passante exécutive.",
+        "cautionTitle": "Mise en garde : Redresser le buste pour prévenir l'inertie du sommeil et maintenir l'éveil",
+        "cautionDesc": "Le risque principal lors du travail au lit est de se rendormir en raison de l'<strong>Inertie du Sommeil (Sleep Inertia)</strong>. S'allonger à plat ou baisser la tête ramène les ondes cérébrales vers les <strong>Ondes Thêta</strong>, provoquant la somnolence. Redressez votre dos et votre tête à 45 degrés au moins a l'aide d'oreillers pour transmettre un signal d'éveil clair au cerveau, et limitez l'effort à 20 ou 30 minutes.",
+        "steps": [
+          {
+            "title": "Étape 1 : Déconnexion numérique totale et blocage des stimulations au réveil",
+            "desc": "Évitez de consulter votre téléphone ou vos messages dès le réveil. Éloignez les appareils hors de portée pour préserver l'énergie cognitive issue de la Réponse d'éveil du cortisol (CAR)."
+          },
+          {
+            "title": "Étape 2 : Redressement du buste a 45 degrés au moins & Signal d'éveil",
+            "desc": "Empilez des oreillers ou des coussins fermes derrière votre dos pour vous asseoir à un angle de 45 degrés au moins. Cette posture prévient l'inertie du sommeil et transmet un signal d'éveil clair."
+          },
+          {
+            "title": "Étape 3 : Immersion de 20 minutes sur la tâche prioritaire depuis le lit",
+            "desc": "Exécutez depuis votre lit, pendant 20 minutes et avec una concentration intense, una tâche exigeante nécessitant des ressources préfrontales (comme la rédaction d'un projet ou d'un texte clé)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Travailler au lit est-il nocif pour la colonne vertébrale, le cou ou les articulations ?",
+            "answer": "Rester allongé a plat en penchant le cou vers l'avant provoque una forte tension cervicale. Pour protéger votre colonne, soutenez votre buste à 45 degrés au moins avec des coussins fermes et limitez la séance a 20 ou 30 minutes pour préserver votre santé."
+          },
+          {
+            "question": "Puis-je consulter mes e-mails ou messages pendant seulement 5 minutes au réveil ?",
+            "answer": "Non. Exposer votre cerveau a des demandes extérieures fragmentées, même pendant 5 minutes, dissipe immédiatement l'énergie générée par la Réponse d'éveil du cortisol (CAR). Pour préserver vos ressources préfrontales, gardez votre téléphone éteint jusqu'à l'aboutissement de votre priorité."
+          }
+        ]
+      },
+      "de": {
+        "title": "Die Allgemeine Theorie aus dem Bett: John Maynard Keynes' morgendliche Arbeitsgewohnheit im Bett und CAR-Aktivierung",
+        "description": "Erfahren Sie, wie der Makroökonom John Maynard Keynes, der die Great Depression überwand, nach dem Aufstehen zwei Stunden lang im Bett Manuskripte verfasste. Entdecken Sie die Neurowissenschaften der Cortisol-Aufwachreaktion (CAR) und eine 3-Schritte-Routine.",
+        "authority": "Historische Überprüfung aus Robert Skidelskys Biografie *John Maynard Keynes*, Keynes-Archiven & Forschung der kognitiven Neurowissenschaften und Neuromuskulärwissenschaften",
+        "intro": "\"Meine besten ökonomischen Theorien wurden vor Sonnenaufgang gewoben, angelehnt an Kissen unter einer warmen Decke.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) war der britische Ökonom, der die Makroökonomie des 20. Jahrhunderts revolutionierte und mit seinem Hauptwerk *Mathematische Begründung der Volkswirtschaftslehre / Die Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes* (1936) das Konzept zur Überwindung der Weltwirtschaftskrise lieferte. Trotz seines vollen Kalenders als Dozent, Regierungsberater und Investor zeichnete ihn eine enorme Produktivität aus. Seine Morgenroutine war jedoch ruhig.\n\nAnstatt nach dem Aufwachen aus dem Bett zu eilen, blieb Keynes liegen. Gegen 8:00 Uhr morgens wurden ihm Tee, Zeitungen und Berichte ans Bett gebracht. Keynes verbrachte die folgenden zwei Stunden auf Kissen gestützt, wertete Berichte aus und schrieb Kapitel seiner Bücher auf einer Unterlage auf seinen Knien. Vor 10:00 Uhr verließ er selten das Bett. Indem er seinen frischen präfrontalen Kortex in einer ablenkungsfreien Umgebung nutzte, schöpfte Keynes seine geistige Kapazität voll aus.\n\nIm heutigen Beitrag untersuchen wir die Neurowissenschaften hinter John Maynard Keynes' 'Arbeitsroutine im Bett' und bieten eine 3-Schritte-Anleitung zur Nutzung der Cortisol-Aufwachreaktion (CAR).",
+        "whyTitle": "Cortisol-Aufwachreaktion (CAR) und die goldene Stunde präfrontaler Ressourcen",
+        "whyDesc": "In den ersten 30 bis 45 Minuten nach dem Aufwachen löst der Körper die <strong>Cortisol-Aufwachreaktion (Cortisol Awakening Response, CAR)</strong> aus, die den Cortisolspiegel anhebt und das Gehirn aktiviert. Dieses Zeitfenster ist eine kognitive Blütezeit, in der der <strong>präfrontale Kortex</strong> frei von Entscheidungsmüdigkeit ist und Höchstleistungen bei Logik und Kreativität erbringt. Das Arbeiten im Bett ermöglicht die uneingeschränkte Nutzung kognitiver Kapazitäten.",
+        "cautionTitle": "Vorsichtsmaßnahme: Oberkörper aufrichten, um Schlafträgheit zu vermeiden und Wachheit zu halten",
+        "cautionDesc": "Die größte Gefahr beim Arbeiten im Bett ist das Wiedereinschlafen durch <strong>Schlafträgheit (Sleep Inertia)</strong>. Flaches Liegen oder das Senken des Kopfes führt dazu, dass das Gehirn wieder in <strong>Theta-Wellen</strong> verfällt und Müdigkeit entsteht. Stützen Sie Rücken und Kopf im Winkel von mindestens 45 Grad mit Kissen ab, um dem Gehirn ein Aufwachsignal zu geben, und begrenzen Sie die Phase auf 20 bis 30 Minuten.",
+        "steps": [
+          {
+            "title": "Schritt 1: Vollständiges Abschalten digitaler Reize direkt nach dem Aufstehen",
+            "desc": "Greifen Sie nach dem Aufwachen nicht zum Smartphone. Legen Sie Geräte außer Reichweite, um die durch die Cortisol-Aufwachreaktion (CAR) bereitgestellte kognitive Energie zu schonen."
+          },
+          {
+            "title": "Schritt 2: Oberkörper um mindestens 45 Grad aufrichten & Aufwachsignal auslösen",
+            "desc": "Stapeln Sie Kissen hinter Ihrem Rücken, um sich im Winkel von mindestens 45 Grad aufzurichten. Diese Haltung verhindert Schlafträgheit und sendet ein Aufwachsignal an das Nervensystem."
+          },
+          {
+            "title": "Schritt 3: 20 Minuten fokussierte Arbeit an der Wichtigsten Aufgabe im Bett",
+            "desc": "Führen Sie im Bett 20 Minuten lang eine einzelne wichtige Aufgabe aus, die hohe Konzentration erfordert (z. B. das Entwerfen eines Konzepts oder das Schreiben von Texten)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Schadet das Arbeiten im Bett der Wirbelsäule, dem Nacken oder den Gelenken?",
+            "answer": "Flaches Liegen mit vorgebeugtem Nacken belastet die Halswirbelsäule stark. Um den Rücken zu schonen, stützen Sie Ihren Oberkörper im Winkel von mindestens 45 Grad mit festen Kissen ab und begrenzen Sie die Arbeitsphase auf 20 bis 30 Minuten."
+          },
+          {
+            "question": "Kann ich nach dem Aufstehen nicht zuerst 5 Minuten lang E-Mails oder Nachrichten prüfen?",
+            "answer": "Nein. Wenn das Gehirn auch nur 5 Minuten lang fremden Anforderungen ausgesetzt wird, verfliegt die kognitive Energie der Cortisol-Aufwachreaktion (CAR) sofort. Lassen Sie das Smartphone ausgeschaltet, bis Sie Ihre wichtigste Aufgabe erledigt haben."
+          }
+        ]
+      },
+      "pt": {
+        "title": "A Teoria Geral Escrita Debaixo das Cobertas: O Hábito de Trabalho Matinal na Cama de John Maynard Keynes e Ativação CAR",
+        "description": "Descubra como o macroeconomista John Maynard Keynes, que superou a Grande Depressão, escreveu manuscritos na cama por duas horas ao acordar. Explore a neurociência da Resposta de Despertar do Cortisol (CAR) e uma rotina matinal de 3 passos.",
+        "authority": "Verificação Histórica da Biografia *John Maynard Keynes* de Robert Skidelsky, Arquivos de Keynes e Pesquisa em Neurociência Cognitiva e Ciência Neuromuscular",
+        "intro": "\"Minhas melhores teorias econômicas foram tecidas antes do sol nascer, apoiado em travesseiros debaixo de um cobertor aquecido.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) foi o lendário economista britânico que revolucionou a macroeconomia do século XX e forneceu a base teórica para superar a Grande Depressão com sua obra de 1936, *A Teoria Geral do Emprego, do Juro e da Moeda*. Gerenciando uma agenda intensa como acadêmico, conselheiro governamental e investidor, Keynes demonstrava uma produtividade extraordinária. No entanto, sua rotina matinal era serena.\n\nEm vez de sair da cama ao acordar, Keynes permanecia nela. Por volta das 8h, recebia chá, jornais e relatórios no leito. Keynes passava as duas horas seguintes reclinado em travesseiros, analisando relatórios e escrevendo manuscritos sobre uma prancheta apoiada nos joelhos. Raramente saía da cama antes das 10h. Ao dedicar seu córtex pré-frontal totalmente descansado a um ambiente livre de distrações, Keynes maximizava sua capacidade cognitiva.\n\nNo artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de 'trabalho matinal na cama' de John Maynard Keynes e apresentamos um guia prático de 3 passos para utilizar a Resposta de Despertar do Cortisol (CAR).",
+        "whyTitle": "Resposta de Despertar do Cortisol (CAR) e a Hora Dourada dos Recursos Pré-frontais",
+        "whyDesc": "Durante os primeiros 30 a 45 minutos após acordar, o corpo experimenta a <strong>Resposta de Despertar do Cortisol (Cortisol Awakening Response, CAR)</strong>, aumentando o cortisol para energizar o cérebro. Este período representa uma hora dourada cognitiva onde o <strong>Córtex Pré-frontal</strong> está livre da fadiga de decisão, alcançando o pico da lógica e criatividade. Trabalhar na cama canaliza 100% da capacidade sem perdas de energia.",
+        "cautionTitle": "Precaução: Eleve o Tronco para Evitar a Inércia do Sono e Manter o Alerta",
+        "cautionDesc": "O maior risco ao trabalhar na cama é voltar a dormir devido à <strong>Inércia do Sono (Sleep Inertia)</strong>. Deitar-se em posição horizontal ou baixar a cabeça faz com que as ondas cerebrais retornem às <strong>Ondas Teta</strong>, causando sonolência. Apoie as costas e a cabeça a 45 graus ou mais com travesseiros para enviar um sinal de alerta ao cérebro e limite a sessão a 20 ou 30 minutos.",
+        "steps": [
+          {
+            "title": "Passo 1: Desconexão Digital Completa e Bloqueio de Estímulos ao Acordar",
+            "desc": "Evite checar celulares ou mensagens imediatamente ao acordar. Mantenha os dispositivos fora do alcance para preservar a energia cognitiva gerada pela Resposta de Despertar do Cortisol (CAR)."
+          },
+          {
+            "title": "Passo 2: Elevar o Tronco a 45 Graus ou Mais para Induzir o Alerta Cerebral",
+            "desc": "Empilhe travesseiros ou almofadas atrás das costas para sentar-se em um ângulo de 45 graus ou mais. Essa postura evita a inércia do sono e transmite um sinal claro de despertar ao sistema nervoso."
+          },
+          {
+            "title": "Passo 3: 20 Minutos de Imersão Profunda na Tarefa Prioritária na Cama",
+            "desc": "Execute uma única tarefa exigente que exija máxima capacidade pré-frontal (como redigir uma proposta ou escrever capítulos essenciais) na cama por 20 minutos com foco intenso."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Trabalhar na cama prejudica a postura da coluna, pescoço ou articulações?",
+            "answer": "Ficar deitado em posição horizontal inclinando o pescoço gera dor cervical grave. Para proteger a coluna, apoie o tronco a 45 graus ou mais com travesseiros firmes e limite a sessão a 20 ou 30 minutos para equilibrar a saúde com a produtividade."
+          },
+          {
+            "question": "Posso checar e-mails ou mensagens por apenas 5 minutos logo após acordar?",
+            "answer": "Não. Expor seu cérebro a demandas externas fragmentadas, mesmo por 5 minutos, dissipa imediatamente a energia gerada pela Resposta de Despertar do Cortisol (CAR). Para preservar sua capacidade pré-frontal, mantenha o celular desligado até concluir sua tarefa principal."
+          }
+        ]
+      },
+      "id": {
+        "title": "Teori Umum yang Ditulis di Bawah Selimut: Kebiasaan Kerja Pagi di Tempat Tidur John Maynard Keynes dan Aktivasi CAR",
+        "description": "Pelajari bagaimana makroekonom John Maynard Keynes, yang menaklukkan Depresi Besar, menulis naskah di tempat tidur selama dua jam setelah bangun tidur. Temukan neurosains dari Cortisol Awakening Response (CAR) dan rutinitas pagi 3 langkah.",
+        "authority": "Verifikasi Historis dari Biografi *John Maynard Keynes* karya Robert Skidelsky, Arsip Keynes & Penelitian Neurosains Kognitif serta Sains Neuromuskular",
+        "intro": "\"Teori ekonomi terbaik saya ditenun sebelum matahari pagi terbit, bersandar pada bantal di bawah selimut yang hangat.\" 🛏️\n\nJohn Maynard Keynes (1883–1946) adalah ekonom Inggris legendaris yang merevolusi makroekonomi abad ke-20 dan menyediakan cetak biru teoritis untuk mengatasi Depresi Besar dengan karyanya pada tahun 1936, *The General Theory of Employment, Interest and Money*. Mengelola jadwal yang padat sebagai akademisi, penasihat pemerintah, dan investor, Keynes memiliki produktivitas intelektual yang luar biasa. Namun rutinitas paginya sangat tenang.\n\nDaripada terburu-buru bangun dari tempat tidur saat terbangun, Keynes tetap berada di tempat tidur. Sekitar pukul 08:00 pagi, teh, surat kabar, dan korespondensi keuangan dibawakan ke samping tempat tidurnya. Keynes menghabiskan dua jam berikutnya bersandar pada bantal, menganalisis laporan dan menulis draf naskah langsung di atas paha kakinya. Ia jarang melangkah keluar dari tempat tidur sebelum pukul 10:00 pagi.\n\nDalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas 'kerja pagi di tempat tidur' John Maynard Keynes dan menyajikan panduan praktis 3 langkah.",
+        "whyTitle": "Cortisol Awakening Response (CAR) dan Jam Emas Sumber Daya Prefrontal",
+        "whyDesc": "Selama 30 hingga 45 menit pertama setelah bangun tidur, sistem neuroendokrin manusia mengeksekusi <strong>Cortisol Awakening Response (CAR)</strong>, secara alami melonjakkan kadar kortisol dari kelenjar adrenal untuk memberi energi pada otak. Jendela ini mewakili jam emas kognitif di mana <strong>Korteks Prefrontal</strong> sepenuhnya bebas dari kelelahan keputusan, memungkinkan puncak logika dan sintesis kreatif.",
+        "cautionTitle": "Perhatian: Meninggikan Tubuh Bagian Atas untuk Mencegah Inersia Tidur dan Mempertahankan Kebugaran",
+        "cautionDesc": "Ancaman utama saat bekerja di tempat tidur adalah tertidur kembali karena <strong>Inersia Tidur (Sleep Inertia)</strong>. Berbaring datar atau menurunkan kepala Anda sebelum terbangun sepenuhnya mengembalikan gelombang otak ke <strong>Gelombang Teta</strong> yang memicu rasa kantuk. Sandarkan punggung dan kepala Anda setidaknya 45 derajat pada bantal untuk memancarkan sinyal kebugaran.",
+        "steps": [
+          {
+            "title": "Langkah 1: Pemutusan Digital Total & Memblokir Masukan Eksternal Saat Bangun",
+            "desc": "Hindari memeriksa ponsel pintar atau aplikasi pesan segera setelah bangun tidur. Jauhkan perangkat secara fisik dari jangkauan untuk melestarikan energi kognitif yang dipicu oleh Cortisol Awakening Response (CAR)."
+          },
+          {
+            "title": "Langkah 2: Menopang Tubuh Bagian Atas Di Atas 45 Derajat & Memicu Sinyal Kebugaran",
+            "desc": "Tumpuk bantal atau bantal keras di belakang punggung Anda untuk duduk tegak pada sudut 45 derajat atau lebih tinggi. Postur ini mencegah inersia tidur dan memancarkan sinyal terbangun yang jelas."
+          },
+          {
+            "title": "Langkah 3: Imersi Mendalam 20 Menit pada Tugas Prioritas Utama dari Tempat Tidur",
+            "desc": "Eksekusi satu tugas berdaya ungkit tinggi yang membutuhkan pemrosesan prefrontal puncak—seperti menyusun draf proposal atau menulis bab naskah utama—dari tempat tidur selama 20 menit."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah bekerja di tempat tidur berbahaya bagi postur tulang belakang, leher, atau sendi?",
+            "answer": "Berbaring secara merata sambil menekuk leher ke depan menyebabkan ketegangan serviks dan tulang belakang yang parah. Untuk melindungi tulang belakang Anda, sangga tubuh bagian atas Anda pada sudut 45 derajat atau lebih tinggi menggunakan bantal penopang yang keras."
+          },
+          {
+            "question": "Bisakah saya memeriksa email atau pesan singkat selama 5 menit saja segera setelah bangun tidur?",
+            "answer": "Tidak. Memaparkan otak Anda pada tuntutan eksternal yang terfragmentasi bahkan selama 5 menit secara instan melenyapkan lonjakan kognitif berpotensi tinggi yang diberikan oleh Cortisol Awakening Response (CAR). Tetap matikan ponsel pintar Anda."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "침대 위에서 작업할 때 척추나 관절 건강에 해롭지 않나요?",
-          "en": "Is working in bed harmful to spinal posture, neck alignment, or joint health?",
-          "ja": "ベッドの上で作業する際、脊椎や関節の健康に害はありませんか？",
-          "zh": "在床榻上展开工作，是否会对脊柱、颈椎与关节健康施加不良影响？",
-          "es": "¿Trabajar en la cama perjudica la postura espinal, el cuello o la salud articular?",
-          "de": "Schadet das Arbeiten im Bett der Wirbelsäule, dem Nacken oder den Gelenken?",
-          "fr": "Travailler au lit est-il nocif pour la colonne vertébrale, le cou ou les articulations ?",
-          "pt": "Trabalhar na cama prejudica a postura da coluna, pescoço ou articulações?",
-          "id": "Apakah bekerja di tempat tidur berbahaya bagi postur tulang belakang, leher, atau sendi?"
-        },
-        "answer": {
-          "ko": "완전히 평평하게 누워서 고개를 숙이는 자세는 경추와 척추에 나쁜 영향을 줍니다. 따라서 머리와 등이 비스듬히 45도 이상 곧추세워지도록 큰 쿠션이나 등받이를 단단히 받쳐야 하며, 최대 30분 내외로 시간을 한정해 집중해야 건강과 생산성을 모두 챙길 수 있습니다.",
-          "en": "Lying completely flat while craning your neck forward induces severe cervical and spinal strain. To safeguard your spine, support your upper body at 45 degrees or higher using firm back cushions, and strictly cap your bed session to 20–30 minutes to balance musculoskeletal health with cognitive output.",
-          "ja": "完全に水平に横たわって頭をうつむかせる姿勢は、頸椎と脊椎に悪い影響を与えます。したがって、頭と背中が斜めに45度以上しっかりと起き上がるよう大きなクッションや背もたれを固く支え、最大30分前後に時間を限定して集中してこそ、健康と生産性の両方を手に入れることができます。",
-          "zh": "完全平躺并向前低头拱颈的体位会对颈椎与腰椎施加严重磨损。为庇护脊柱健康，务必使用硬质大靠垫将头部与后背稳固支撑垫高至45度以上，并将冲刺时间严苛限定于30分钟以内，方能兼顾躯体健康与极致生产力。",
-          "es": "Estar acostado en posición horizontal inclinando el cuello genera una tensión cervical severa. Para proteger su columna, apoye su torso a 45 grados o más con cojines firmes y limite la sesión estrictamente a 20 o 30 minutos para equilibrar la salud con la productividad.",
-          "de": "Flaches Liegen mit vorgebeugtem Nacken belastet die Halswirbelsäule stark. Um den Rücken zu schonen, stützen Sie Ihren Oberkörper im Winkel von mindestens 45 Grad mit festen Kissen ab und begrenzen Sie die Arbeitsphase auf 20 bis 30 Minuten.",
-          "fr": "Rester allongé a plat en penchant le cou vers l'avant provoque una forte tension cervicale. Pour protéger votre colonne, soutenez votre buste à 45 degrés au moins avec des coussins fermes et limitez la séance a 20 ou 30 minutes pour préserver votre santé.",
-          "pt": "Ficar deitado em posição horizontal inclinando o pescoço gera dor cervical grave. Para proteger a coluna, apoie o tronco a 45 graus ou mais com travesseiros firmes e limite a sessão a 20 ou 30 minutos para equilibrar a saúde com a produtividade.",
-          "id": "Berbaring secara merata sambil menekuk leher ke depan menyebabkan ketegangan serviks dan tulang belakang yang parah. Untuk melindungi tulang belakang Anda, sangga tubuh bagian atas Anda pada sudut 45 derajat atau lebih tinggi menggunakan bantal penopang yang keras."
-        }
-      },
-      {
-        "question": {
-          "ko": "기상 직후 메일이나 메신저를 5분만 먼저 확인하고 시작하면 안 되나요?",
-          "en": "Can I check my emails or instant messages for just 5 minutes right after waking up?",
-          "ja": "起床直後にメールやメッセンジャーを5分だけ先に確認してから始めてはいけませんか？",
-          "zh": "醒来后先抽出短短5分钟查阅邮件或即时消息、随后再切入正题是否可行？",
-          "es": "¿Puedo revisar el correo o mensajes durante solo 5 minutos justo al despertar?",
-          "de": "Kann ich nach dem Aufstehen nicht zuerst 5 Minuten lang E-Mails oder Nachrichten prüfen?",
-          "fr": "Puis-je consulter mes e-mails ou messages pendant seulement 5 minutes au réveil ?",
-          "pt": "Posso checar e-mails ou mensagens por apenas 5 minutos logo após acordar?",
-          "id": "Bisakah saya memeriksa email atau pesan singkat selama 5 menit saja segera setelah bangun tidur?"
-        },
-        "answer": {
-          "ko": "안 됩니다. 뇌가 파편화된 외부 요구 사항에 단 5분만 노출되어도 기상 각성 반응(CAR)의 강력한 에너지가 즉각 분산 및 소실됩니다. 뇌가 가장 온전한 상태일 때 1순위 핵심 과제 하나를 끝내기 전까지는 스마트폰 전원을 켜지 않는 것이 핵심입니다.",
-          "en": "No. Exposing your brain to fragmented external demands even for 5 minutes instantly dissipates the potent cognitive surge delivered by the Cortisol Awakening Response (CAR). To preserve prefrontal bandwidth, leave your smartphone off until you complete your single top-priority task.",
-          "ja": "いけません。脳が断片化された外部の要求事項にたった5分露出されるだけでも、起床時コルチゾール反応（CAR）の強力なエネルギーが即座に分散・消失してしまいます。脳が最も完全な状態である時、第1優先の核心課題を一つ終わらせるまではスマートフォンをつけないことが核心です。",
-          "zh": "绝不可以。脑部即便仅曝露于外界纷繁撕裂的打扰诉求中短短5分钟，由皮质醇觉醒反应（CAR）所泵入的强悍认知能量便会瞬时耗散殆尽。在利用大脑至为纯粹的状态攻坚完成第一优先度核心任务之前，切勿开启手机电源，乃是绝对核心。",
-          "es": "No. Exponer su cerebro a demandas externas fragmentadas incluso durante 5 minutos disipa de inmediato la energía generada por la Respuesta de Despertar del Cortisol (CAR). Para preservar la capacidad prefrontal, mantenga su teléfono apagado hasta terminar su tarea prioritaria.",
-          "de": "Nein. Wenn das Gehirn auch nur 5 Minuten lang fremden Anforderungen ausgesetzt wird, verfliegt die kognitive Energie der Cortisol-Aufwachreaktion (CAR) sofort. Lassen Sie das Smartphone ausgeschaltet, bis Sie Ihre wichtigste Aufgabe erledigt haben.",
-          "fr": "Non. Exposer votre cerveau a des demandes extérieures fragmentées, même pendant 5 minutes, dissipe immédiatement l'énergie générée par la Réponse d'éveil du cortisol (CAR). Pour préserver vos ressources préfrontales, gardez votre téléphone éteint jusqu'à l'aboutissement de votre priorité.",
-          "pt": "Não. Expor seu cérebro a demandas externas fragmentadas, mesmo por 5 minutos, dissipa imediatamente a energia gerada pela Resposta de Despertar do Cortisol (CAR). Para preservar sua capacidade pré-frontal, mantenha o celular desligado até concluir sua tarefa principal.",
-          "id": "Tidak. Memaparkan otak Anda pada tuntutan eksternal yang terfragmentasi bahkan selama 5 menit secara instan melenyapkan lonjakan kognitif berpotensi tinggi yang diberikan oleh Cortisol Awakening Response (CAR). Tetap matikan ponsel pintar Anda."
-        }
-      }
-    ]
+    }
   }
 }

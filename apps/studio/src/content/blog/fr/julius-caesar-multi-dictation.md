@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La dictée simultanée de Jules César : L'art de la commutation de tâches hautement focalisée et de l'extension de la mémoire de travail"
 description: "Découvrez comment Jules César dictait simultanément plusieurs lettres et ordres militaires a plusieurs scribes, a cheval ou en char. Explorez la neuroscience de l'extension de la mémoire de travail et de la flexibilité cognitive préfrontale."
 pubDate: "2026-01-14"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente a la rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant julius-caesar-multi-dictation est basée sur <strong>Vérification Historique issue des *Vies parallèles* de Plutarque, de l'*Histoire naturelle* de Pline l'Ancien & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des *Vies parallèles* de Plutarque, de l'*Histoire naturelle* de Pline l'Ancien & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Extension de la mémoire de travail et flexibilité cognitive préfrontale
+## 1. Extension de la mémoire de travail et flexibilité cognitive préfrontale
 
 La <strong>Mémoire de Travail</strong> constitue l'espace cognitif où le cerveau retient et manipule les informations lors des prises de décision. La dictée simultanée de César exigeait un contrôle attentionnel élevé : maintenir les données de plusieurs scribes en mémoire tampon tout en activant la logique du sujet suivant. Cet entraînement renforce le <strong>Cortex Préfrontal</strong>, élargissant la mémoire de travail et développant la <strong>Flexibilité Cognitive</strong>.
 
 ---
 
-## Mise en garde : Éliminer le multitasking désordonné au profit d'un focus séquentiel unique
-
-La vraie dictée simultanée n'est pas un multitasking désordonné où l'attention s'éparpille. Pour éviter la surcharge de la mémoire de travail, adoptez le protocole de César : concentrez 100 % de votre attention sur un seul sujet a la fois avant de passer au suivant, selon un principe de 'Focus séquentiel unique'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La vraie dictée simultanée n'est pas un multitasking désordonné où l'attent
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer le multitasking désordonné au profit d'un focus séquentiel unique
+
+La vraie dictée simultanée n'est pas un multitasking désordonné où l'attention s'éparpille. Pour éviter la surcharge de la mémoire de travail, adoptez le protocole de César : concentrez 100 % de votre attention sur un seul sujet a la fois avant de passer au suivant, selon un principe de 'Focus séquentiel unique'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>En quoi la dictée simultanée diffère-t-elle du multitasking classique ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La vraie dictée simultanée n'est pas un multitasking désordonné où l'attent
       Le multitasking classique éparpille l'attention sur plusieurs tâches en même temps (ex. : lire ses messages en rédigeant un e-mail). La dictée simultanée repose sur un 'Focus séquentiel unique' : consacrer 100 % de son attention à un seul scribe à la fois avant de passer au sujet suivant.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je pratiquer cette méthode en tapant au clavier plutôt qu'en dictant ?</span>

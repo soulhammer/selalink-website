@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Los Esbozos de Oscilación de Galileo: Cómo Estimular la Cognición Espacial para Simplificar Estructuras Complejas"
 description: "Descubra cómo Galileo Galilei, padre de la ciencia moderna, formuló leyes físicas intuitivas dibujando diagramas geométricos de lámparas en oscilación. Explore la neurociencia de la memoria visoespacial y la codificación dual."
 pubDate: "2026-02-01"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de los '
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre galileo-vibration-sketch se basa en <strong>Verificación Histórica de *Consideraciones y demostraciones matemáticas sobre dos nuevas ciencias* e *Il Saggiatore* de Galileo Galilei, Archivos de la Universidad de Pisa e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Consideraciones y demostraciones matemáticas sobre dos nuevas ciencias* e *Il Saggiatore* de Galileo Galilei, Archivos de la Universidad de Pisa e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación de la Memoria Visoespacial y Neurociencia de la Codificación Dual
+## 1. Estimulación de la Memoria Visoespacial y Neurociencia de la Codificación Dual
 
 Traducir conceptos abstractos a figuras geométricas estimula la <strong>Memoria Visoespacial (Visuospatial Sketchpad)</strong>, ubicada en los <strong>lóbulos parietal u occipital</strong>. Basado en la <strong>Teoría de la Codificación Dual</strong>, combinar texto con imágenes visuales crea modelos mentales sólidos y reduce la carga cognitiva prefrontal. Al mapear visualmente relaciones y vectores direccionales en papel, el cerebro identifica de inmediato fallos lógicos o cuellos de botella que pasan desapercibidos en el texto plano.
 
 ---
 
-## Precaución: Priorice la Simplicidad Estructural sobre la Decoración Artística
-
-No malgaste energía cognitiva intentando hacer dibujos artísticos detallados. Como los diagramas esquemáticos de Galileo, concéntrese en capturar la 'estructura esencial'. Limite su lenguaje visual a círculos, rectángulos, líneas y flechas para mapear flujos. Obsesionarse con la estética consume recursos mentales destinados a la lógica.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ No malgaste energía cognitiva intentando hacer dibujos artísticos detallados. 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Priorice la Simplicidad Estructural sobre la Decoración Artística
+
+No malgaste energía cognitiva intentando hacer dibujos artísticos detallados. Como los diagramas esquemáticos de Galileo, concéntrese en capturar la 'estructura esencial'. Limite su lenguaje visual a círculos, rectángulos, líneas y flechas para mapear flujos. Obsesionarse con la estética consume recursos mentales destinados a la lógica.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Puedo practicar la rutina de esquemas geométricos sin tener ninguna habilidad para el dibujo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ No malgaste energía cognitiva intentando hacer dibujos artísticos detallados. 
       ¡Sí, totalmente! Esta técnica no es arte, sino un ejercicio cognitivo estructurado que utiliza solo cuatro elementos: círculos, rectángulos, líneas y flechas. Incluso trazados esquemáticos rápidos son suficientes para activar la memoria visoespacial.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Dibujar en aplicaciones digitales con tabletas ofrece los mismos beneficios cognitivos?</span>

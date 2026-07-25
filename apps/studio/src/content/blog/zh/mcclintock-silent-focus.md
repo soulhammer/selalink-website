@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "面对基因的沉静：芭芭拉·麦克林托克的大默专注习惯"
 description: "诺贝尔奖获得者基因学家芭芭拉·麦克林托克在观察显微镜时，始终保持着绝对的默然与忘我之境。探讨消除杂念的感官门控（Sensory Gating）专注法。"
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mcclintock-silent-focus 的内容基于 <strong>芭芭拉·麦克林托克历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>芭芭拉·麦克林托克历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 阻断无关认知刺激的感官门控（Sensory Gating）
+## 1. 阻断无关认知刺激的感官门控（Sensory Gating）
 
 当大脑同时处理多种刺激时，精细的注意力与模式识别能力便会下降。承诺保持沉默并静默语言受体，能促使前额叶将所有认知资源集中配置于单一感官输入上。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 核心在于特定时段的集中，而非阻断日常社交沟通
-
-麦克林托克的习惯是指在需要高度专注的有限时间段内（例如30分钟至1小时）保持沉默的技术。若在日常生活整天都不与人交流而自我孤立，反而会引发情绪疲劳并损害认知功能。应仅在需要高度投入的特定时间段内策略性地实行默然专注。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 核心在于特定时段的集中，而非阻断日常社交沟通
+
+麦克林托克的习惯是指在需要高度专注的有限时间段内（例如30分钟至1小时）保持沉默的技术。若在日常生活整天都不与人交流而自我孤立，反而会引发情绪疲劳并损害认知功能。应仅在需要高度投入的特定时间段内策略性地实行默然专注。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在自习室等本身就很安静的地方，还有必要进行这种默然专注练习吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       是的，非常有必要。默然专注习惯的核心不仅在于让外部环境保持安静，更在于通过阻断手机通知与自我约束宣言，调校“心态”，促使大脑主动暂停语言区域的活动，从而提升对视觉信息接收区域的专注度。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>默然专注期间虽然不出声，但脑海中的自言自语会干扰注意力吗？</span>

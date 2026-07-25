@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "100 Prozent zuerst im Kopf vollenden: Alfred Hitchcocks visuelle Storyboard-Routine und mentale Simulation"
 description: "Erfahren Sie, wie Thriller-Meister Alfred Hitchcock vor dem Dreh detaillierte Storyboards entwarf. Entdecken Sie, wie mentale Simulation die motorische Ausführung aktiviert und Entscheidungsmüdigkeit eliminiert."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Alfred Hitchc
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu hitchcock-storyboard-visualization basiert auf <strong>Historische Überprüfung aus Alfred Hitchcock-Biografien, François Truffauts Interviews (*Mister Hitchcock, wie haben Sie das gemacht?*) & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Alfred Hitchcock-Biografien, François Truffauts Interviews (*Mister Hitchcock, wie haben Sie das gemacht?*) & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation des motorischen Ausführungsnetzwerks und Eliminierung von Entscheidungsmüdigkeit
+## 1. Stimulation des motorischen Ausführungsnetzwerks und Eliminierung von Entscheidungsmüdigkeit
 
 Die kognitionswissenschaftliche Forschung zeigt, dass beim mentalen Durchspielen eines Ablaufs vor der Ausführung das <strong>motorische Ausführungsnetzwerk</strong> im Gehirn genauso aktiviert wird wie bei der realen Handlung. Durch diese <strong>mentale Simulation</strong> konnte Hitchcock Unwägbarkeiten vorab visuell durchspielen. Dieses Vorwegnehmen beseitigt <strong>Entscheidungsmüdigkeit (Decision Fatigue)</strong> während der eigentlichen Arbeit und schützt die kognitive Kapazität des präfrontalen Kortex.
 
 ---
 
-## Vorsichtsmaßnahme: Sofortiges Übergehen zur Handlung ohne Ausuferung der Planung
-
-Vermeiden Sie es, in eine 'Planungsfalle' (Plan Indulgence) zu geraten, bei der das Storyboard zum Zeitvertreib wird und die Ausführung verzögert. Das Storyboard ist nur ein kognitives Hilfsmittel. Beschränken Sie die Skizze auf 3 bis 5 grobe Etappen. Gehen Sie direkt nach der mentalen Simulation ohne Zögern zum ersten Handlungsschritt über.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Vermeiden Sie es, in eine 'Planungsfalle' (Plan Indulgence) zu geraten, bei der 
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Sofortiges Übergehen zur Handlung ohne Ausuferung der Planung
+
+Vermeiden Sie es, in eine 'Planungsfalle' (Plan Indulgence) zu geraten, bei der das Storyboard zum Zeitvertreib wird und die Ausführung verzögert. Das Storyboard ist nur ein kognitives Hilfsmittel. Beschränken Sie die Skizze auf 3 bis 5 grobe Etappen. Gehen Sie direkt nach der mentalen Simulation ohne Zögern zum ersten Handlungsschritt über.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann man digitale Tools nutzen, wenn das Zeichnen per Hand zu aufwendig ist?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Vermeiden Sie es, in eine 'Planungsfalle' (Plan Indulgence) zu geraten, bei der 
       Ja, absolut! Es geht nicht um künstlerisches Können, sondern um die Strukturierung von Abläufen. Das Verwenden von digitalen Tools wie Figma, Miro oder Mindmap-Apps zur Anordnung von Textblöcken bietet dieselben kognitiven Vorteile.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was tun, wenn während der Ausführung unvorhergesehene Abweichungen vom Storyboard auftreten?</span>

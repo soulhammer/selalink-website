@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La rutina de escucha de Shakespeare: Recopilando el lenguaje ajeno en el rincón del ensayo"
 description: "William Shakespeare, el dramaturgo más grande de la literatura mundial. Maximizó los circuitos emocionales de las neuronas espejo recopilando diálogos e intonaciones en rincones de ensayo y recitando líneas."
 pubDate: "2026-05-25"
@@ -36,22 +37,20 @@ En esta entrada, presentamos los principios neurocientíficos detrás de su háb
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre shakespeare se basa en <strong>Investigación biográfica histórica sobre Shakespeare e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica histórica sobre Shakespeare e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análisis de los principios neurocientíficos que impulsan el éxito
+## 1. Análisis de los principios neurocientíficos que impulsan el éxito
 
 Rastrear con precisión los ritmos del habla y estados emocionales de los demás para registrarlos en diálogos estimula drásticamente la conexión entre las áreas de asociación del lenguaje y las Neuronas Espejo, potenciando la empatía cognitiva y la comunicación.
 
 ---
 
-## Consejo de ciencia del comportamiento para la adopción exitosa del hábito
-
-Esto no se trata de espiar conversaciones. La clave es observar patrones universales de expresión humana y retroalimentación social desde una perspectiva cognitiva. Diseñe un entorno físico y señales que activen la observación de forma natural.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Esto no se trata de espiar conversaciones. La clave es observar patrones univers
   </p>
 </div>
 
+---
+
+## 3. Consejo de ciencia del comportamiento para la adopción exitosa del hábito
+
+Esto no se trata de espiar conversaciones. La clave es observar patrones universales de expresión humana y retroalimentación social desde una perspectiva cognitiva. Diseñe un entorno físico y señales que activen la observación de forma natural.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo puedo practicar en entornos donde no puedo escuchar bien las conversaciones?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Esto no se trata de espiar conversaciones. La clave es observar patrones univers
       Ver la televisión, programas de noticias o entrevistas y tomar notas sobre los patrones de adverbios o la aceleración del tempo al hablar sirve como un excelente ejercicio.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Se puede aplicar este ejercicio a negociaciones comerciales o redacción de propuestas?</span>

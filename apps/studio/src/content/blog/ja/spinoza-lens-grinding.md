@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "スピノザのレンズ研磨：単純反復の身体労働で脳の疲労を洗い流す方法"
 description: "汎神論哲学者のスピノザが代表作『エチカ』を執筆する合間にレンズを削る繊細な手作業を通じて、認知的オーバーロードを解消し、高度な没頭状態を回復した秘訣を考察します。"
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「spinoza-lens-grinding」は <strong>スピノザレンズ研磨に関する歴史的評伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>スピノザレンズ研磨に関する歴史的評伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 単純な繊細な手作業が認知的バーンアウトを予防する脳科学
+## 1. 単純な繊細な手作業が認知的バーンアウトを予防する脳科学
 
 最上級の理知的推論や複雑な構造設計を継続する行為は、前頭前野皮質の認知資源を枯渇させます。この時、レンズを研磨するように触覚に極度に没頭する微細な手作業に切り替えると、運動皮質と小脳が活性化し、過剰に作動していたデフォルト・モード・ネットワーク（DMN）や雑念が即座に制御されます。このような一時的な脳領域の稼働分担は、疲弊した前頭前野皮質が神経疲労を解消し、エネルギーを復元するのを助けます。
 
 ---
 
-## 完全に脱デジタル化された手作業の選択
-
-このようなリラックス効果を得るためには、スマートフォンやキーボードを操作することから完全に離れる必要があります。電子機器の操作は脳になお高度な論理演算を要求するため、認知疲労を軽減できません。皿洗い、アナログの書写、手工芸の組み立てなど、ただ触的情報と視空間制御のみを必要とする単純な身体活動を選択してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     15分間の手作業を終えた後、再びコンピューターの前に戻り、本来の企画や開発業務を再開します。脳の休息スペースが復元され、はるかに明晰で効率的な意思決定が可能になります。
   </p>
 </div>
+
+---
+
+## 3. 完全に脱デジタル化された手作業の選択
+
+このようなリラックス効果を得るためには、スマートフォンやキーボードを操作することから完全に離れる必要があります。電子機器の操作は脳になお高度な論理演算を要求するため、認知疲労を軽減できません。皿洗い、アナログの書写、手工芸の組み立てなど、ただ触的情報と視空間制御のみを必要とする単純な身体活動を選択してください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

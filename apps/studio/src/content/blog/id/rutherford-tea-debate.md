@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rahasia Kreativitas Penemu Inti Atom? Rutinitas Minum Teh Jam 4 Sore Ernest Rutherford"
 description: "Ernest Rutherford, bapak fisika nuklir. Pelajari bagaimana diskusi minum teh santai jam 4 sore bersama rekan kerjanya melahirkan penemuan inti atom."
 pubDate: "2026-05-23"
@@ -33,17 +34,17 @@ Dalam artikel ini, kami menyajikan rutinitas minum teh jam 4 sore Ernest Rutherf
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai rutherford-tea-debate didasarkan pada <strong>Riset biografi historis Ernest Rutherford & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi historis Ernest Rutherford & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kreativitas Kolektif dan Pemikiran Bebas Lewat Rasa Aman Psikologis
+## 1. Kreativitas Kolektif dan Pemikiran Bebas Lewat Rasa Aman Psikologis
 
 Di lingkungan formal atau ketat evaluasi, rasa takut gagal menekan ide-ide kreatif.
 
@@ -51,9 +52,7 @@ Suasana hangat dan setara seperti minum teh Rutherford memaksimalkan <strong>'Ra
 
 ---
 
-## Tinggalkan Hierarki dan Formalitas; Mulailah dengan Secangkir Teh Hangat
-
-Tujuan minum teh bukanlah laporan kerja atau instruksi, melainkan menjaga fleksibilitas terbuka untuk membahas ide apa pun. Rancangkan lingkungan yang mendukung berbagi secara alami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tujuan minum teh bukanlah laporan kerja atau instruksi, melainkan menjaga fleksi
   </p>
 </div>
 
+---
+
+## 3. Tinggalkan Hierarki dan Formalitas; Mulailah dengan Secangkir Teh Hangat
+
+Tujuan minum teh bukanlah laporan kerja atau instruksi, melainkan menjaga fleksibilitas terbuka untuk membahas ide apa pun. Rancangkan lingkungan yang mendukung berbagi secara alami.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah pekerja lepas yang bekerja sendiri dapat menerapkan rutinitas ini?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tujuan minum teh bukanlah laporan kerja atau instruksi, melainkan menjaga fleksi
       Ya! Nikmati secangkir teh jam 4 sore sambil berdiskusi 10 menit secara online, atau lakukan dialog mandiri dengan menulis pertanyaan di buku catatan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Saya khawatir waktu minum teh akan berubah menjadi obrolan kosong dan membuang waktu.</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Billionaire's Secret in the Back Pocket: Richard Branson's Analog Notebook and RAS Stimulation"
 description: "Discover how Virgin Group founder Sir Richard Branson built over 400 companies by recording inspirations in an analog notebook kept in his back pocket, and explore the neuroscientific principles of how handwriting stimulates the Reticular Activating System (RAS) to turn ideas into immediate action."
 pubDate: "2026-03-04"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Sir Richard Branson's '
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding branson-notebook-writing is based on <strong>Historical Verification from Richard Branson's Autobiography *Like a Virgin: Secrets They Don't Teach You at Business School* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Richard Branson's Autobiography *Like a Virgin: Secrets They Don't Teach You at Business School* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation of the Reticular Activating System (RAS) and Selective Perception for Action
+## 1. Activation of the Reticular Activating System (RAS) and Selective Perception for Action
 
 Located in the brainstem, the Reticular Activating System (RAS) is a neural filter that selects critical signals from vast sensory inputs to route to the cerebral cortex. The physical act of holding a pen and applying pressure on paper delivers a biological signal: 'This information is critical for survival and goal achievement.' A handwriting-stimulated RAS triggers the brain's attentional focus mechanisms, transitioning the mind into a state of 'Selective Perception' where it unconsciously scans the environment for opportunities, resources, and solutions tied to that note. Compared to mere thoughts or digital typing, handwritten notes exponentially increase the probability of translating mental ideas into tangible real-world outcomes.
 
 ---
 
-## Caution & Tips: Preserving Raw, Immediate Captures Rather Than Polished Organization
-
-The core of the Branson-style notebook routine lies in 'raw immediacy'—capturing conversations or ideas on the spot without pausing to craft polished prose. The moment you hesitate to refine handwriting or neatly summarize phrasing, executive prefrontal filters kick in and the tail of unconscious inspiration vanishes. Fast, unedited recording of raw words is the key to activating the RAS.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The core of the Branson-style notebook routine lies in 'raw immediacy'—capturi
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Preserving Raw, Immediate Captures Rather Than Polished Organization
+
+The core of the Branson-style notebook routine lies in 'raw immediacy'—capturing conversations or ideas on the spot without pausing to craft polished prose. The moment you hesitate to refine handwriting or neatly summarize phrasing, executive prefrontal filters kick in and the tail of unconscious inspiration vanishes. Fast, unedited recording of raw words is the key to activating the RAS.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How does using a smartphone notepad app differ functionally from an analog paper notebook?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The core of the Branson-style notebook routine lies in 'raw immediacy'—capturi
       Unlocking a smartphone and locating a notepad app exposes you to notifications, messages, and emails that hijack focus, causing fleeting inspirations to evaporate. In contrast, an analog notebook is instant; the tactile friction and pressure of the pen strongly stimulate the somatosensory cortex and activate the brain's RAS filter.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Are there real-world examples where a trivial note in Branson's notebook evolved into a major business success?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "쓰레기통 속에서 건져 올린 인류의 구원: 알렉산더 플레밍의 실패 관찰법과 예외 발견 루틴"
 description: "페니실린의 위대한 발견자 알렉산더 플레밍. 실수로 오염된 배양 접시를 무심히 버리지 않고 꼼꼼히 들여다보던 습관이 어떻게 인류의 운명을 바꾸었는지 인지적 고착 극복과 확산적 사고의 뇌과학적 원리를 탐구합니다."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>알렉산더 플레밍 평전 및 안드레 모로아 『플레밍 평전(The Life of Sir Alexander Fleming)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 fleming-petridish-observation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>알렉산더 플레밍 평전 및 안드레 모로아 『플레밍 평전(The Life of Sir Alexander Fleming)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 인지적 고착을 깨부수는 '확산적 사고'의 원리
+## 1. 인지적 고착을 깨부수는 '확산적 사고'의 원리
 
 뇌는 이미 학습된 경험과 목적에 따라 효율적으로 작동하려 하기 때문에, 오염물질이나 오류 같은 예외적 상황을 마주하면 이를 '노이즈(Noise)'로 판단해 필터링하는 <strong>인지적 고착(Cognitive Fixation)</strong> 경향을 가집니다. 일반 연구원들이 세균 번식 실패작을 그냥 씻어버렸던 이유도 이 때문입니다. 알렉산더 플레밍처럼 의도적으로 '실패'의 대상을 꼼꼼히 들여다보는 습관은 뇌의 전두-두정엽 주의 네트워크(Frontoparietal Attention Network)를 다르게 자극하여 인지 필터를 리셋합니다. 뇌는 무시하려던 정보의 디테일을 다시 탐색하는 과정에서 예기치 못한 우연적 발견인 '세렌디피티(Serendipity)'를 유도하는 <strong>확산적 사고(Divergent Thinking)</strong> 모드로 진입하게 됩니다. 이는 오류 속에서 창의적 연결고리를 포착하여 뇌를 비약적으로 도약시키는 뇌과학적 원리입니다.
 
 ---
 
-## 실패와 오류의 흔적 속에서 힌트를 포착하는 수칙
-
-현대인들은 업무나 공부 중 실패나 실수를 겪으면 인지적 스트레스를 받고 이를 빠르게 지우거나 잊어버리려고 합니다. 그러나 플레밍의 배양 접시가 증명하듯, 창의적인 영감과 혁신은 정제된 성공이 아니라 오히려 의도하지 않았던 오염과 실패의 흔적 속에 숨겨져 있습니다. 실패를 관찰하는 여유가 뇌의 진정한 천재성을 깨웁니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 실패와 오류의 흔적 속에서 힌트를 포착하는 수칙
+
+현대인들은 업무나 공부 중 실패나 실수를 겪으면 인지적 스트레스를 받고 이를 빠르게 지우거나 잊어버리려고 합니다. 그러나 플레밍의 배양 접시가 증명하듯, 창의적인 영감과 혁신은 정제된 성공이 아니라 오히려 의도하지 않았던 오염과 실패의 흔적 속에 숨겨져 있습니다. 실패를 관찰하는 여유가 뇌의 진정한 천재성을 깨웁니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>실패를 분석하는 것이 오히려 정신적 좌절감을 크게 만들지 않을까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       오류를 덮어두려고만 할 때 뇌의 불쾌감과 불안은 더 오래 지속됩니다. 오히려 감정을 배제하고 사실 데이터 위주로 왜 실패했는지 꼼꼼하게 종이에 적으며 분석하면, 뇌는 상황에 대한 '통제력'을 확보했다고 판단하여 불안 수준을 낮추고 성취 동기를 자극합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>우연한 발견(세렌디피티)을 더 잘 포착할 수 있는 뇌 훈련법이 있나요?</span>

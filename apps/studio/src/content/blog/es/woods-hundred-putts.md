@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Hasta lograr 100 éxitos consecutivos: El método de inmersión en putt de 4m de Tiger Woods"
 description: "La rutina de '100 putts consecutivos exitosos' realizada por la leyenda del golf Tiger Woods antes de entrenar. Descubre cómo el logro sin concesiones inunda el cerebro de dopamina e impulsa una inmersión extrema."
 pubDate: "2026-04-01"
@@ -36,22 +37,20 @@ Este artículo analiza la neurociencia detrás de este ritual de superación ext
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre woods-hundred-putts se basa en <strong>Biografías históricas y registros autobiográficos sobre los cien putts de Woods e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos sobre los cien putts de Woods e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Inmersión extrema impulsada por el logro sin concesiones
+## 1. Inmersión extrema impulsada por el logro sin concesiones
 
 Al realizar tareas de alta concentración, el catalizador clave es la Dopamina, neurotransmisor asociado con la expectativa de recompensa. Superar una tarea bajo la norma estricta de reiniciar ante un fallo activa los centros de control del comportamiento, bloqueando distracciones e impulsando un estado de flujo óptimo.
 
 ---
 
-## Precauciones y consejos
-
-Para aprovechar la dopamina, las tareas no deben ser ni demasiado fáciles ni imposibles. La clave es fijar un desafío con la dificultad adecuada a tu capacidad. Si las fallas iniciales generan frustración en lugar de enfoque, ajusta con sabiduría el nivel de dificultad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Para aprovechar la dopamina, las tareas no deben ser ni demasiado fáciles ni im
     Aprovecha el estado de alta concentración y dopamina logrado al completar la tarea para abordar de inmediato tus actividades clave, como redactar propuestas.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Para aprovechar la dopamina, las tareas no deben ser ni demasiado fáciles ni imposibles. La clave es fijar un desafío con la dificultad adecuada a tu capacidad. Si las fallas iniciales generan frustración en lugar de enfoque, ajusta con sabiduría el nivel de dificultad.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

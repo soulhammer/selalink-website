@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Master Who Transcribed Sheet Music Under Moonlight? Bach's Parietal Lobe-Stimulating Transcription Habit"
 description: "Johann Sebastian Bach embodied mathematical rules throughout his life by copying senior composers' sheet music. Discover the scientific principles of how fingertip manipulation stimulates the brain's logic regions, along with a modern transcription routine."
 pubDate: "2026-06-19"
@@ -34,14 +35,14 @@ In today's post, we analyze the neuroscientific principles hidden in Bach's tran
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bach-pattern-transcription is based on <strong>Historical Verification from Johann Nikolaus Forkel's *Johann Sebastian Bach: His Life, Art, and Works (1802)* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Johann Nikolaus Forkel's *Johann Sebastian Bach: His Life, Art, and Works (1802)* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Fine Finger Motor Control and Parietal Lobe Association
+## 1. Fine Finger Motor Control and Parietal Lobe Association
 
 Modern digital learning, such as tapping a computer keyboard or monitor screen, is a low-density cognitive activity that lightly skims only a very small area of the brain's motor cortex. Conversely, analog transcription—holding a pen and pressing complex text or symbols onto paper—requires delicate Fine Motor control.
 
@@ -49,11 +50,7 @@ In this process, the brain highly activates not only the planning regions of the
 
 ---
 
-## A Neuroscientific Word for a Successful Routine
-
-<strong>The hand is the externalized brain.</strong>
-
-Information read with the eyes on a monitor screen or dragged with a mouse flows very shallowly through the brain and vanishes. If you want to strengthen your brain's logic circuits, try picking up a pen and transcribing for just 10 minutes. Just as Bach mastered the perfect formulas of Baroque music by copying complex fugue patterns with his fingertips, your brain will fully possess difficult knowledge when it undergoes analog transcription.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Information read with the eyes on a monitor screen or dragged with a mouse flows
     After finishing copying, quietly scan the text structure aligned on paper from top to bottom, re-organizing its logical relationships and arrangement layout visually. This visual-logical matching step establishes a solid structural framework in the frontal lobe.
   </p>
 </div>
+
+---
+
+## 3. A Neuroscientific Word for a Successful Routine
+
+<strong>The hand is the externalized brain.</strong>
+
+Information read with the eyes on a monitor screen or dragged with a mouse flows very shallowly through the brain and vanishes. If you want to strengthen your brain's logic circuits, try picking up a pen and transcribing for just 10 minutes. Just as Bach mastered the perfect formulas of Baroque music by copying complex fugue patterns with his fingertips, your brain will fully possess difficult knowledge when it undergoes analog transcription.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

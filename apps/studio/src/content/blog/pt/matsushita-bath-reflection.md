@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Fim do dia, esvaziamento completo: A rotina de reflexão no banho de Konosuke Matsushita"
 description: "A contemplação no banho quente praticada todas as noites por Konosuke Matsushita, o 'Deus da Gestão'. Analisa a ativação dos nervos parassimpáticos e o alinhamento da Rede de Modo Padrão (DMN) no cérebro."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ No post de hoje, analisamos a neurociência do sistema nervoso autônomo e da Re
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre matsushita-bath-reflection é baseada em <strong>Pesquisa biográfica e histórica de Konosuke Matsushita & estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa biográfica e histórica de Konosuke Matsushita & estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergia entre o relaxamento em água morna e a Rede de Modo Padrão
+## 1. Sinergia entre o relaxamento em água morna e a Rede de Modo Padrão
 
 O banho em água morna eleva a temperatura corporal central e ativa os nervos parassimpáticos, reduzindo o cortisol. Um estado de relaxamento livre de estímulos externos estimula a Rede de Modo Padrão (DMN) do cérebro, promovendo insights criativos. Segundo pesquisas neurocientíficas, essa prática suprime respostas desnecessárias de ansiedade na amígdala e ativa circuitos do bloco de rascunho visoespacial, melhorando dramaticamente as funções executivas.
 
 ---
 
-## Uma palavra do mestre sobre esvaziar a mente
-
-Se você deseja tomar decisões sábias, primeiro esvazie sua mente completamente. O detox digital no banheiro e 15 minutos de relaxamento físico e mental são o atalho. Não confie apenas na força de vontade; projetar um ambiente físico e gatilhos de hábitos que promovam a ação naturalmente é a chave para a sustentabilidade.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Se você deseja tomar decisões sábias, primeiro esvazie sua mente completament
   </p>
 </div>
 
+---
+
+## 3. Uma palavra do mestre sobre esvaziar a mente
+
+Se você deseja tomar decisões sábias, primeiro esvazie sua mente completamente. O detox digital no banheiro e 15 minutos de relaxamento físico e mental são o atalho. Não confie apenas na força de vontade; projetar um ambiente físico e gatilhos de hábitos que promovam a ação naturalmente é a chave para a sustentabilidade.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

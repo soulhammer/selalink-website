@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O saque que acalma a ansiedade: os hábitos da rotina pré-jogo de Serena Williams"
 description: "Serena Williams, que mantinha rigorosamente rotinas pré-jogo, como sempre quicar a bola de tênis cinco vezes antes do primeiro saque. Estudamos como as rotinas pré-performance bloqueiam estímulos de ansiedade externos e ajustam o cérebro a um estado de enquadramento cognitivo."
 pubDate: "2026-04-19"
@@ -31,25 +32,23 @@ Serena Williams é um ícone inigualável que redefiniu a história do esporte m
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre serena-match-routine é baseada em <strong>Verificação de biografias históricas e registros autobiográficos de Serena Williams e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas e registros autobiográficos de Serena Williams e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Controle da amígdala e enquadramento cognitivo por meio de rotinas pré-performance (PPR)
+## 1. Controle da amígdala e enquadramento cognitivo por meio de rotinas pré-performance (PPR)
 
 Os altos níveis de ansiedade experimentados logo antes de um teste ou partida estimulam o hipotálamo do cérebro a secretar epinefrina, enrijecendo os músculos e induzindo a hipervigilância cognitiva. As 'rotinas pré-performance (PPR)', comprovadas na psicologia do esporte, bloqueiam o foco em ameaças externas incontroláveis (força do oponente, ruído da torcida) e mudam forçadamente o foco para ações físicas 100% controláveis (quicar a bola, alinhar as bolsas). Este ato de controle físico desativa os circuitos de alarme da amígdala e exerce um efeito de enquadramento cognitivo que ajusta o cérebro a um 'estado de imersão segura', reduzindo erros de desempenho.
 
 ---
 
-## Precauções e dicas
-
-A pior armadilha a se evitar ao aplicar rotinas pré-performance é criar um novo elemento de ansiedade ao ficar obcecado com a ordem ou o método de execução da própria rotina. Se ficar preso em uma obsessão como 'Se eu quicar a bola 4 vezes em vez de 5, vou arruinar a partida', a própria rotina se transforma em outro fator de estresse que consome recursos cognitivos. Portanto, perceba que o cerne de uma rotina não é a perfeição na ação em si, mas uma 'ferramenta para ligar o interruptor da mente', exigindo flexibilidade para se adaptar dependendo da situação.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ A pior armadilha a se evitar ao aplicar rotinas pré-performance é criar um nov
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+A pior armadilha a se evitar ao aplicar rotinas pré-performance é criar um novo elemento de ansiedade ao ficar obcecado com a ordem ou o método de execução da própria rotina. Se ficar preso em uma obsessão como 'Se eu quicar a bola 4 vezes em vez de 5, vou arruinar a partida', a própria rotina se transforma em outro fator de estresse que consome recursos cognitivos. Portanto, perceba que o cerne de uma rotina não é a perfeição na ação em si, mas uma 'ferramenta para ligar o interruptor da mente', exigindo flexibilidade para se adaptar dependendo da situação.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como posso criar minha própria rotina antes de eventos importantes do dia a dia, como apresentações ou exames?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ A pior armadilha a se evitar ao aplicar rotinas pré-performance é criar um nov
       Definir 2 a 3 etapas de ações mecânicas consistentes que você possa controlar totalmente — como 'amarrar os cadarços em uma ordem específica', 'dar 3 respirações profundas' ou 'dizer em voz alta uma frase de compromisso específica' — e repeti-las de forma idêntica ajudará enormemente no controle da ansiedade.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como posso controlar a ansiedade que surge se eu esquecer ou errar uma única etapa da rotina?</span>

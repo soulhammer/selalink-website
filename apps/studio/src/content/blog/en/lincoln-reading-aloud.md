@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The President Who Read Books Out Loud: Abraham Lincoln's Prefrontal Reading Routine and the Production Effect"
 description: "Discover how 16th US President Abraham Lincoln maximized memory and executive focus by reading aloud. Explore the neuroscience of the Production Effect, Dual Representation, Broca's Area activation, prefrontal working memory, and a 5-minute practice guide."
 pubDate: "2026-04-26"
@@ -38,22 +39,20 @@ In today's post, we unpack the psycholinguistics and cognitive neuroscience behi
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding lincoln-reading-aloud is based on <strong>Historical Verification from David Herbert Donald's *Lincoln*, William Herndon's Memoirs *Herndon's Lincoln* & Cognitive Neuroscience and Psycholinguistics Research</strong>.
+      This content is based on <strong>Historical Verification from David Herbert Donald's *Lincoln*, William Herndon's Memoirs *Herndon's Lincoln* & Cognitive Neuroscience and Psycholinguistics Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Production Effect and Dual Representation Neuroscience
+## 1. Production Effect and Dual Representation Neuroscience
 
 Passively scanning text purely with the eyes minimizes cognitive processing depth. In contrast, physically articulating words with vocal cords and re-processing your own voice through the auditory canal triggers a potent memory enhancement phenomenon known as the <strong>Production Effect</strong>. The moment you read aloud, the brain co-activates <strong>Broca's Area</strong>, the motor cortex, and the auditory cortex. This multi-channel engagement constructs a durable <strong>Dual Representation</strong> in the <strong>Prefrontal Cortex</strong>'s <strong>Working Memory</strong>, significantly lowering cognitive barriers to consolidate information into <strong>Long-Term Memory</strong>.
 
 ---
 
-## Caution: Eliminating Speed-Reading Pressure to Focus on Clear Vocal Articulation
-
-Fixating on speed-reading and rushing through text completely destroys the neurobiological benefits of the Production Effect. In a reading aloud ritual, prioritize clear syllable articulation, subtle vocal cord vibrations, and the auditory feedback loop of hearing your own voice over speed. Full sensory immersion awakens prefrontal cognitive networks.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Fixating on speed-reading and rushing through text completely destroys the neuro
   </p>
 </div>
 
+---
+
+## 3. Caution: Eliminating Speed-Reading Pressure to Focus on Clear Vocal Articulation
+
+Fixating on speed-reading and rushing through text completely destroys the neurobiological benefits of the Production Effect. In a reading aloud ritual, prioritize clear syllable articulation, subtle vocal cord vibrations, and the auditory feedback loop of hearing your own voice over speed. Full sensory immersion awakens prefrontal cognitive networks.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What genre of literature is most effective for stimulating prefrontal cognitive arousal when reading aloud?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Fixating on speed-reading and rushing through text completely destroys the neuro
       High-density prose with rigorous logical structure—such as classical philosophy, specialized scientific literature, or complex strategic reports—is far more effective for prefrontal plasticity than casual fiction or light essays.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I practice this routine in quiet environments like open offices or libraries?</span>

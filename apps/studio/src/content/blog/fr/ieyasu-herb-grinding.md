@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le rythme de la patience et de la sérénité : La routine de broyage de plantes médicinales de Tokugawa Ieyasu et la régulation de la sérotonine"
 description: "Découvrez la méthode de culture mentale de Tokugawa Ieyasu. Explorez comment sa routine quotidienne de broyage de plantes au mortier stimulait le mouvement rythmique, activant la sérotonine et apaisant l'amygdale."
 pubDate: "2026-04-01"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant ieyasu-herb-grinding est basée sur <strong>Vérification Historique issue des biographies de Tokugawa Ieyasu, des archives du Musée d'art Tokugawa & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies de Tokugawa Ieyasu, des archives du Musée d'art Tokugawa & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation de la sérotonine et stabilisation de l'amygdale par le mouvement rythmique
+## 1. Activation de la sérotonine et stabilisation de l'amygdale par le mouvement rythmique
 
 Sur le plan physiologique, le <strong>Mouvement Rythmique</strong> — una activité physique répétitive exécutée a vitesse et pression constantes — stimule la sécrétion de <strong>sérotonine</strong>, le neurotransmetteur régulateur de l'humeur. Cette stimulation tactile à tempo régulier réprime l'hyperactivation de l'<strong>amygdale</strong>, régulatrice de la peur et de l'impulsivité, tout en restaurant le contrôle rationnel du <strong>Cortex Préfrontal</strong>.
 
 ---
 
-## Mise en garde : Se concentrer sur un rythme manuel régulier en éliminant l'impatience
-
-Lorsque vous vous sentez impatient ou anxieux, évitez de forcer le contrôle émotionnel uniquement par la volonté. Ancrez plutôt votre attention au bout de vos doigts sur le rythme simple et constant du broyage dans un mortier ou un moulin a café. Conserver un tempo régulier est la clé pour activer la sérotonine.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lorsque vous vous sentez impatient ou anxieux, évitez de forcer le contrôle é
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Se concentrer sur un rythme manuel régulier en éliminant l'impatience
+
+Lorsque vous vous sentez impatient ou anxieux, évitez de forcer le contrôle émotionnel uniquement par la volonté. Ancrez plutôt votre attention au bout de vos doigts sur le rythme simple et constant du broyage dans un mortier ou un moulin a café. Conserver un tempo régulier est la clé pour activer la sérotonine.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>En quoi l'acte physique de broyer soi-même des plantes contribue-t-il a la stabilité émotionnelle ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lorsque vous vous sentez impatient ou anxieux, évitez de forcer le contrôle é
       Un mouvement répétitif exécuté à vitesse constante stimule le système sérotoninergique, apaisant les réactions d'alerte de l'amygdale et restaurant le contrôle rationnel du cortex préfrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment reproduire cette routine au quotidien si je ne possède pas de mortier ?</span>

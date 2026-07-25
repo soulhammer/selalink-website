@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ノーベル平和賞受賞者の夜間リセット！アルベルト・シュヴァイツァーの夜のオルガンルーティン"
 description: "アフリカの密林の病院で毎夜バッハのオルガンを演奏し、極度の疲労を克服したアルベルト・シュヴァイツァー博士の自律神経リセット習慣と実践ガイド。"
 pubDate: "2026-01-29"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「schweitzer-night-organ」は <strong>アルベルト・シュヴァイツァーの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アルベルト・シュヴァイツァーの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 構造化されたクラシックの旋律が誘発する副交感神経の活性化
+## 1. 構造化されたクラシックの旋律が誘発する副交感神経の活性化
 
 日中の過剰なストレスは交感神経（Sympathetic Nervous System）を持続的に過活性化させ、コルチゾール値を高めて自律神経のバランスを崩します。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 就寝前の刺激的なスクリーンの代わりにリラックス音楽を選びましょう
-
-夜遅くまで刺激的な動画やテキストを消費していると、脳は休息モードへと切り替わりません。シュヴァイツァー博士のように静かな音楽的没頭を通じて脳にイワン信号を送りましょう。意志の力だけに頼るのではなく、自然と行動が誘発される物理的環境を整えることが継続の鍵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 就寝前の刺激的なスクリーンの代わりにリラックス音楽を選びましょう
+
+夜遅くまで刺激的な動画やテキストを消費していると、脳は休息モードへと切り替わりません。シュヴァイツァー博士のように静かな音楽的没頭を通じて脳にイワン信号を送りましょう。意志の力だけに頼るのではなく、自然と行動が誘発される物理的環境を整えることが継続の鍵です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>クラシック音楽の代わりに歌詞のあるバラードを聴いてもいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       歌詞のある曲は脳の言語処理領域（言語皮質）を再起動させるため、完全な休養を妨げます。歌詞のない純粋な演奏曲（クラシック、ジャズ、Lo-Fi）が自律神経のイワンに効果的です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>音楽を聴きながら眠ることも効果がありますか？</span>

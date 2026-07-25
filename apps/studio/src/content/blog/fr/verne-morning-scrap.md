@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Statues de connaissance à 5 heures du matin : L'habitude de fiches de Jules Verne pour concevoir les détails"
 description: "Découvrez l'habitude de fiches d'information exécutée chaque matin à 5h par Jules Verne, pionnier de la science-fiction. Un guide pratique moderne en 3 étapes pour catégoriser l'information et renforcer la mémoire sémantique."
 pubDate: "2026-06-02"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous explorons les principes scientifiques qui sou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant verne-morning-scrap est basée sur <strong>Biographies historiques et récits autobiographiques de Jules Verne et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Jules Verne et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## « Archivage catégorisé élaboré » : renforcer la mémoire sémantique
+## 1. « Archivage catégorisé élaboré » : renforcer la mémoire sémantique
 
 Au lieu de simplement parcourir les connaissances acquises, le fait de condenser manuellement les informations sur des fiches clés et de les classer renforce considérablement le réseau de mémoire sémantique du cerveau. En psychologie cognitive, cela s'appelle l'<strong>« Auto-répétition d'élaboration »</strong>, une technique qui intègre étroitement les nouvelles informations dans les structures cognitives existantes pour une mémorisation à long terme. Le classement physique des fiches stimule simultanément les voies visuelles et motrices du cerveau, favorisant la perception des liens structurels. Cette habitude active les voies de rappel de la mémoire associative, facilitant l'assemblage d'idées créatives.
 
 ---
 
-## Prévenir l'obsession de la collecte et maximiser l'utilité pratique
-
-Le principal piège d'une routine de fiches est de tomber dans la « L'illusion du collectionneur », ressentir un faux sentiment d'accomplissement en se contentant de rassembler des connaissances. Créer des fiches doit servir de moyen pour ancrer profondément et exploiter le savoir. Les résumés doivent être rédigés avec vos propres mots, et vous devez régulièrement réviser votre archive de fiches pour exploiter et connecter ces idées par l'écriture ou le débat.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Le principal piège d'une routine de fiches est de tomber dans la « L'illusion 
     Le week-end ou à un moment précis, tirez au hasard 5 à 6 fiches de votre tiroir, relisez-les et combinez des informations en apparence disjointes pour créer une synergie d'idées ou alimenter vos écrits.
   </p>
 </div>
+
+---
+
+## 3. Prévenir l'obsession de la collecte et maximiser l'utilité pratique
+
+Le principal piège d'une routine de fiches est de tomber dans la « L'illusion du collectionneur », ressentir un faux sentiment d'accomplissement en se contentant de rassembler des connaissances. Créer des fiches doit servir de moyen pour ancrer profondément et exploiter le savoir. Les résumés doivent être rédigés avec vos propres mots, et vous devez régulièrement réviser votre archive de fiches pour exploiter et connecter ces idées par l'écriture ou le débat.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

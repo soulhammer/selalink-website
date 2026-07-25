@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "贵族身份却在写作前犁地？列夫·托尔斯泰的身体觉醒习惯"
 description: "文豪列夫·托尔斯泰能够创作出《战争与和平》等巨著的能量究竟源自何处？探索他每天早晨在写作前通过体力劳动与体操唤醒大脑功能的健康习惯。"
 pubDate: "2026-05-11"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 tolstoy-physical-labor 的内容基于 <strong>列夫·托尔斯泰历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>列夫·托尔斯泰历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 脑源性神经营养因子（BDNF）与心率增加的认知效果
+## 1. 脑源性神经营养因子（BDNF）与心率增加的认知效果
 
 神经科学研究表明，在早晨利用大肌肉群短时间提高心率的运动可以扩张大脑血管，促进整个大脑皮层的血液供应。这提高了供氧率，从而即刻提升前额叶皮层的认知计算处理速度和记忆能力。
 
@@ -51,11 +52,7 @@ faqs:
 
 ---
 
-## 让习惯成功的神经科学建议
-
-活动身体，为大脑点燃强劲预热火花。
-
-在半睡半醒的状态下强行坐在书桌前盯着屏幕只会浪费时间。正如托尔斯泰在写作前猛烈锻炼身体以彻底唤醒大脑一样，哪怕只需15分钟，也请释放能量直到微微出汗。在大脑细胞被激活的觉醒状态下，上午的专注力将发挥出平时数倍的生产力。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,6 +83,14 @@ faqs:
     洗完澡后，利用运动引起的大脑血流量增加和BDNF释放极化的大脑觉醒状态的最初1至2小时，开始进行当天最需要高认知能力的逻辑或规划核心工作。
   </p>
 </div>
+
+---
+
+## 3. 让习惯成功的神经科学建议
+
+活动身体，为大脑点燃强劲预热火花。
+
+在半睡半醒的状态下强行坐在书桌前盯着屏幕只会浪费时间。正如托尔斯泰在写作前猛烈锻炼身体以彻底唤醒大脑一样，哪怕只需15分钟，也请释放能量直到微微出汗。在大脑细胞被激活的觉醒状态下，上午的专注力将发挥出平时数倍的生产力。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "白宫椭圆形办公室的摇椅：约翰·F·肯尼迪的脊椎阵痛破局与前庭器官舒缓指南"
 description: "探索约翰·F·肯尼迪如何在冷战惊涛骇浪中忍受剧烈脊椎创痛、借由白宫椭圆形办公室特制摇椅统帅美国。揭示前庭器官刺激、副交感神经系统激活、消除静态负荷与3步骤实践指南。"
 pubDate: "2026-02-10"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 kennedy-rocking-chair 的内容基于 <strong>约翰·F·肯尼迪总统图书馆（JFK Library）与珍妮特·特拉维尔（Janet Travell）主治医师档案考证及认知神经科学（Cognitive Neuroscience）与骨科学（Orthopedics）研究</strong> 撰写。
+      本内容基于 <strong>约翰·F·肯尼迪总统图书馆（JFK Library）与珍妮特·特拉维尔（Janet Travell）主治医师档案考证及认知神经科学（Cognitive Neuroscience）与骨科学（Orthopedics）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 前庭器官（Vestibular System）刺激与副交感神经系统激活机制
+## 1. 前庭器官（Vestibular System）刺激与副交感神经系统激活机制
 
 座椅缓慢前后律动交替的运动，能温和而精准地拉动内耳内部的<strong>前庭器官（Vestibular System）</strong>。来自前庭核的神经信号经由脑干传导，能强力激活<strong>副交感神经系统（Parasympathetic Nervous System）</strong>，沉淀心率与呼吸节律，并强效抑制应激激素<strong>皮质醇（Cortisol）</strong>的分泌。在骨科学层面，律动诱发的躯体微观收缩与舒张能促进血液与营养平稳输送至腰椎间盘，大幅卸除脊椎静态负荷压力。躯体创痛的消解进而平抚了<strong>杏仁核（Amygdala）</strong>的警报应激，促使<strong>前额叶皮层（Prefrontal Cortex）</strong>的高阶执掌理性重获至极清明的复苏。
 
 ---
 
-## 注意事项：防范静态负荷（Static Load），引导脊柱微观律动指南
-
-现代职场白领常年承受的颈椎与腰椎创痛，源头大多归咎于长时间保持僵硬凝滞坐姿所产生的“静态负荷（Static Load）”。凝固僵硬的躯体体感将直接转化为心理紧绷与情绪应激。如肯尼迪般在久坐进程中有意识地融入平缓自如的躯体微观律动，乃是同步护解脑力敏捷度与躯体柔韧度的硬核秘诀。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：防范静态负荷（Static Load），引导脊柱微观律动指南
+
+现代职场白领常年承受的颈椎与腰椎创痛，源头大多归咎于长时间保持僵硬凝滞坐姿所产生的“静态负荷（Static Load）”。凝固僵硬的躯体体感将直接转化为心理紧绷与情绪应激。如肯尼迪般在久坐进程中有意识地融入平缓自如的躯体微观律动，乃是同步护解脑力敏捷度与躯体柔韧度的硬核秘诀。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>使用普通办公椅或标准靠背椅，能否达致等效的松弛效果？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可以！解开办公椅背的仰角锁定装置，配合顺滑的倾斜度，微微摇晃上半身，便足以防止静态负荷沉淀，并有效温和刺激前庭器官以拉动副交感神经系统。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>摇摆躯体时的最佳律动频率与速率应掌控在何种范围？</span>

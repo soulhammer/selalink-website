@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ベッドから出ないでください：啓蒙思想の巨匠ヴォルテールのア朝脳リセット法"
 description: "フランスの大文豪ヴォルテールが生涯実践したベッドの上の朝の執筆習慣を紹介します。睡眠直後の脳が最も創造的なhypnopompic（半覚醒）状態を活用した現代的な3ステップガイドをご確認ください。"
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「voltaire-bed-writing」は <strong>Voltaire Bed Writing       & (Cognitive Neuroscience) </strong> に基づいて作成されました。
+      本コンテンツは、<strong>Voltaire Bed Writing       & (Cognitive Neuroscience) </strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 創造性が極大化する「睡眠慣性」の認知科学
+## 1. 創造性が極大化する「睡眠慣性」の認知科学
 
 目が覚めた直後、脳が完全に覚醒していない状態を認知科学では<strong>「睡眠慣性（Sleep Inertia）」</strong>または<strong>「ヒプノポンピック（Hypnopompic、半覚醒）」</strong>状態と呼びます。この時期には合理的判断と抑制を担当する前頭前野（Prefrontal Cortex）の検閲作用が弱まります。一方、リラックス状態の脳波であるアルファ（α）波や軽い夢の状態のシータ（θ）波が脳を主導します。このため思考の検閲の壁が低くなり、非線形で独創的な連想が可能になります。ヴォルテールがベッドの上で閃く風刺やアイデアを溢れ出させることができたのは、意識の論理が作動する前、潜在意識が活性化した脳の隙間状態を完璧に活用したからです。
 
 ---
 
-## 意識的なベッドの上での執筆で悪い朝の習慣を克服する
-
-ベッドの上の朝のルーティンに従う際、最も警戒すべきはスマートフォンで無意識にSNSやニュースを確認することです。ドパミンを誘発するデジタル機器の即時的な視覚情報は脳を緊張状態にし、睡眠慣性状態の貴重な潜在意識的創造性を即座に消去してしまいます。ベッドの横にはメモ帳とペンだけを置き、完全に思索に没頭する10分間を死守してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 意識的なベッドの上での執筆で悪い朝の習慣を克服する
+
+ベッドの上の朝のルーティンに従う際、最も警戒すべきはスマートフォンで無意識にSNSやニュースを確認することです。ドパミンを誘発するデジタル機器の即時的な視覚情報は脳を緊張状態にし、睡眠慣性状態の貴重な潜在意識的創造性を即座に消去してしまいます。ベッドの横にはメモ帳とペンだけを置き、完全に思索に没頭する10分間を死守してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ベッドの上でメモすることが、一般的な起床直後の執筆（モーニングページ）と異なる点は何ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       モーニングページは起床後に顔を洗ったり席に座ったりして理性がある程度働いている状態で作成されますが、ヴォルテールのベッドの上の執筆は物理的に起き上がる前の睡眠慣性状態の「脳の隙間」を狙い、潜在意識的な比喩や創造的発想を完全に生の状態で捕らえるという点で深い認知の差異があります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>毎朝ベッドで文章を書くアイデアが浮かばない時はどうすればよいですか？</span>

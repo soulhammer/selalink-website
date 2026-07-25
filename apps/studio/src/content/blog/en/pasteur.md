@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pasteur's Feedback Loop: Real-Time Tracking of Microscopic Changes in Flask Cultures"
 description: "Discover the routine of Louis Pasteur, the French microbiologist and father of pasteurization and vaccines, who maintained meticulous desk organization to eliminate any 1% noise that could distract during experiments."
 pubDate: "2026-05-03"
@@ -36,22 +37,20 @@ In this post, we explore the cognitive science principles behind Pasteur's flask
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding pasteur is based on <strong>Louis Pasteur Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Louis Pasteur Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscientific Analysis of the Principles Behind Success
+## 1. Neuroscientific Analysis of the Principles Behind Success
 
 Formulating hypotheses and tracking subtle change trajectories establishes a real-time feedback loop that sharpens sensory resolution. Translating observations into written text solidifies neural pathways between the lateral prefrontal cortex and visual association cortex, enhancing analytical insight.
 
 ---
 
-## Behavioral Science Advice for Successful Habit Anchor
-
-Do not strain yourself aiming for perfection. Practicing comfortably for just 3 minutes daily builds neural connections smoothly. Design physical cues in your environment rather than relying solely on willpower.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Do not strain yourself aiming for perfection. Practicing comfortably for just 3 
   </p>
 </div>
 
+---
+
+## 3. Behavioral Science Advice for Successful Habit Anchor
+
+Do not strain yourself aiming for perfection. Practicing comfortably for just 3 minutes daily builds neural connections smoothly. Design physical cues in your environment rather than relying solely on willpower.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Should I perform this organization ritual daily before work?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Do not strain yourself aiming for perfection. Practicing comfortably for just 3 
       Yes, cleaning lenses or clearing your desk before starting gives your brain a signal of cognitive order, maximizing deep work focus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I replace this if I don't have a microscope or microfiber cloth?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El maestro de 'El pensador'? La rutina matutina de caminata y amasado de arcilla de Auguste Rodin"
 description: "Auguste Rodin, el maestro de la escultura moderna. Descubra su rutina sensorial de caminar cada mañana amasando arcilla para despertar la inspiración táctil, junto con una guía práctica de 3 pasos."
 pubDate: "2026-01-10"
@@ -36,22 +37,20 @@ En la entrada de hoy, examinamos los mecanismos neurosensoriales de la rutina de
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre rodin-sculpting-walk se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Auguste Rodin e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Auguste Rodin e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación espacial táctil mediante la estimulación de la corteza somatosensorial
+## 1. Activación espacial táctil mediante la estimulación de la corteza somatosensorial
 
 La vida moderna depende en más del 90% de estímulos visuales planos en pantallas, lo que perjudica la percepción espacial. El amasado de arcilla de Rodin es un <strong>'estímulo cognitivo táctil'</strong> que activa la corteza somatosensorial y motora a través de la red nerviosa de los dedos, reduciendo la fatiga visual y activando la DMN para generar ideas intuitivas.
 
 ---
 
-## Desconecte la vista y sumérjase en la sensación táctil de sus dedos
-
-Para Rodin, la arcilla era una antena para despertar la sensibilidad táctil antes que un material de escultura. No intente crear una figura definida; concéntrese únicamente en la textura y la resistencia que sienten sus dedos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Para Rodin, la arcilla era una antena para despertar la sensibilidad táctil ant
   </p>
 </div>
 
+---
+
+## 3. Desconecte la vista y sumérjase en la sensación táctil de sus dedos
+
+Para Rodin, la arcilla era una antena para despertar la sensibilidad táctil antes que un material de escultura. No intente crear una figura definida; concéntrese únicamente en la textura y la resistencia que sienten sus dedos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué objetos modernos se pueden usar en lugar de arcilla?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Para Rodin, la arcilla era una antena para despertar la sensibilidad táctil ant
       Las pelotas antiestrés de silicona, cubos fidget, minikalimbas, piezas de madera suave o piedras de río pulidas son excelentes alternativas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo aumenta la creatividad la estimulación táctil de las yemas de los dedos?</span>

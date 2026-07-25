@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Clearing Extreme Stress at the Tip of a Brush: Admiral Yi Sun-sin's Reflective Journaling Routine"
 description: "Admiral Yi Sun-sin, Joseon's national hero. Discover the cognitive psychological effects and 3-step emotional organization routine of writing a reflective journal (Nanjung Ilgi), the secret behind overcoming extreme battlefield pressure and internal anguish to achieve an undefeated legend."
 pubDate: "2026-06-29"
@@ -38,22 +39,20 @@ In today's post, we introduce the cognitive psychological effects of Admiral Yi 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding yisunshin-war-diary is based on <strong>Historical biography & autobiographical record examination of Admiral Yi Sun-sin & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography & autobiographical record examination of Admiral Yi Sun-sin & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Emotional Catharsis and Amygdala Calming Effects of Expressive Writing
+## 1. Emotional Catharsis and Amygdala Calming Effects of Expressive Writing
 
 When faced with negative emotions such as intense fear or feelings of injustice, the brain's fear center, the <strong>Amygdala</strong>, becomes severely overheated. In this state, frontal lobe functions responsible for rational judgment and willpower are paralyzed. According to cognitive psychology research, <strong>'Expressive Writing'</strong>—the act of transferring amorphous emotional states into structured handwritten text—forcibly cools down abnormal amygdala activation. By naming emotions and aligning them with objective facts, the brain perceives previously uncontrollable situations as manageable, immediately releasing cognitive resources and demonstrating strong stress resilience.
 
 ---
 
-## Write Only Your Truth Without Caring About Others' Judgment
-
-To fully enjoy the emotional catharsis of a reflective journal, you must not care about others' eyes at all. If you start refining or censoring sentences out of concern like 'what if someone reads my diary', the objectification mechanism that relaxes the amygdala will not function. Just as Admiral Yi Sun-sin expressed his fear, anger, and anxiety without filter through his brush, cognitive pressure is relieved only when you are thoroughly honest with yourself in the most private space meant solely for your eyes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ To fully enjoy the emotional catharsis of a reflective journal, you must not car
   </p>
 </div>
 
+---
+
+## 3. Write Only Your Truth Without Caring About Others' Judgment
+
+To fully enjoy the emotional catharsis of a reflective journal, you must not care about others' eyes at all. If you start refining or censoring sentences out of concern like 'what if someone reads my diary', the objectification mechanism that relaxes the amygdala will not function. Just as Admiral Yi Sun-sin expressed his fear, anger, and anxiety without filter through his brush, cognitive pressure is relieved only when you are thoroughly honest with yourself in the most private space meant solely for your eyes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What should I do if I have nothing to write about daily or lack time?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ To fully enjoy the emotional catharsis of a reflective journal, you must not car
       There is no need to write at length; even just three lines are sufficient. By summarizing 'one thing that exhausted me most today', 'my emotion at that moment', and 'one thing among them I can fix tomorrow', the brain's emotional objectification mechanism works identically.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is typing on a smartphone diary app equally effective?</span>

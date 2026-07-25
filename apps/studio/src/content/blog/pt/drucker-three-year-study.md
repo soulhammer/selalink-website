@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Uma Aventura Intelectual que Reinicia a Vida a Cada 3 Anos: A Rotina Multidisciplinar de Estudo e Neuroplasticidade de Peter Drucker"
 description: "Descubra como o mestre da gestão Peter Drucker dominou uma nova disciplina acadêmica a cada 3 anos ao longo da vida. Explore a neurociência cognitiva da neuroplasticidade e síntese multidisciplinar."
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'estudo
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre drucker-three-year-study é baseada em <strong>Verificação Histórica da Autobiografia de Peter Drucker *Adventures of a Bystander* e *Managing Oneself* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Peter Drucker *Adventures of a Bystander* e *Managing Oneself* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroplasticidade e Reorganização do Circuito Sináptico Via Exploração Multidisciplinar
+## 1. Neuroplasticidade e Reorganização do Circuito Sináptico Via Exploração Multidisciplinar
 
 Processar repetidamente os mesmos conhecimentos ativa vias neuronais isoladas, acelerando a rigidez cognitiva. Em contrapartida, abordar uma disciplina não familiar obriga o hipocampo e o córtex pré-frontal (PFC) a iniciar a sinaptogênese para processar novos conceitos, processo conhecido como 'Neuroplasticidade'. Esse aprendizado multidisciplinar forma redes entre áreas desconectadas, aumentando a Flexibilidade Cognitiva.
 
 ---
 
-## Precauções e Dicas: Evitar a Sobrecarga de Informação e Cultivar Hábitos de Leitura Constantes
-
-Tentar abordar pesquisas acadêmicas avançadas desde o início gera resistência pré-frontal e suprime as vias de recompensa da dopamina. Para um aprendizado multidisciplinar sustentável, escolha um tema que desperte curiosidade genuína. A estratégia central é estabelecer um ritual diário estável: dedique 30 minutos todos os dias para ler textos introdutórios.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tentar abordar pesquisas acadêmicas avançadas desde o início gera resistênci
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar a Sobrecarga de Informação e Cultivar Hábitos de Leitura Constantes
+
+Tentar abordar pesquisas acadêmicas avançadas desde o início gera resistência pré-frontal e suprime as vias de recompensa da dopamina. Para um aprendizado multidisciplinar sustentável, escolha um tema que desperte curiosidade genuína. A estratégia central é estabelecer um ritual diário estável: dedique 30 minutos todos os dias para ler textos introdutórios.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que Peter Drucker escolheu especificamente um ciclo de '3 anos' para dominar novas disciplinas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tentar abordar pesquisas acadêmicas avançadas desde o início gera resistênci
       Cognitivamente, 3 anos representa o período ideal para passar de iniciante à compreensão da estrutura de uma disciplina sem causar fadiga. Esse ritmo de 3 anos quebra a inércia intelectual, estimulando a neuroplasticidade e permitindo a síntese criativa.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Se um compromisso de 3 anos parecer muito longo para profissionais ocupados, como se deve começar?</span>

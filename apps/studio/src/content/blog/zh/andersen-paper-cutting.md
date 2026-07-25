@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "治愈抑郁症的剪纸艺术？安徒生的剪纸惯例"
 description: "世界级童话作家汉斯·克里斯蒂安·安徒生。为您介绍他在终身抑郁与心理匮乏中开出美丽想象之花的秘诀——“剪纸（Paper Cutting）”的精神医学治疗原理与3步骤指南。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 andersen-paper-cutting 的内容基于 <strong>丹麦欧登塞安徒生博物馆（Hans Christian Andersen Museum）剪纸档案考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>丹麦欧登塞安徒生博物馆（Hans Christian Andersen Museum）剪纸档案考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 精细手工精炼带来的默认模式网络（DMN）稳定
+## 1. 精细手工精炼带来的默认模式网络（DMN）稳定
 
 在大脑不执行特定任务而休息时运转的<strong>“默认模式网络（Default Mode Network, DMN）”</strong>，是放大现代人诸如对过去的后悔与对未来的焦虑等不必要的过度思考（Overthinking）的原因。根据作业治疗与神经科学研究，像精细控制指尖的剪纸或绘画等<strong>“精细手工”</strong>，在广泛预热大脑运动皮层的同时，能立即阻断（Deactivation）超载DMN的异常激活。折叠眼前纸张并顺畅剪裁的简单对称性触觉刺激，能止住过度思考，并为大脑提供深度的认知休息。
 
 ---
 
-## 请专注于指尖的轨迹与剪裁声音，而非完美的设计图稿
-
-为了通过剪纸惯例享受大脑的休息效果，必须放下必须做成惊艳作品的强迫观念。如果开始用大脑设计图稿想着“我要完成漂亮的图案”，前额叶的规划与控制区域就会过热，从而难以获得降低DMN的效果。正如安徒生闭上双眼随手剪裁一样，将注意力完全倾注于剪刀剪开纸张时发出的沙沙摩擦声与指尖触感到的模拟震动上，才是放松的第一步。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 请专注于指尖的轨迹与剪裁声音，而非完美的设计图稿
+
+为了通过剪纸惯例享受大脑的休息效果，必须放下必须做成惊艳作品的强迫观念。如果开始用大脑设计图稿想着“我要完成漂亮的图案”，前额叶的规划与控制区域就会过热，从而难以获得降低DMN的效果。正如安徒生闭上双眼随手剪裁一样，将注意力完全倾注于剪刀剪开纸张时发出的沙沙摩擦声与指尖触感到的模拟震动上，才是放松的第一步。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>缺乏艺术细胞、剪不好纸也没关系吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       当然可以。实际上，没有图稿随机剪裁的行为对于降低DMN更为有效。无论完成的图案是怪异还是歪歪扭扭，大脑都完全不在意。重要的不是形态的精确度，而是指尖肌肉的细微运动与听觉刺激本身。这是没有失败、不受价值评估束缚的创作活动，请轻松享受剪裁吧。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>剪完后会产生碎纸垃圾，清理过程会打扰放松状态吗？</span>

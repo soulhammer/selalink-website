@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Genie, das beim Spaziergang an den Kanälen Orchesterpartituren festhielt: Antonio Vivaldis Inspirations-Routine"
 description: "Barockmeister Antonio Vivaldi schuf über 500 Konzerte, darunter 'Die vier Jahreszeiten'. Entdecken Sie die neurowissenschaftlichen Prinzipien und den 3-Schritte-Leitfaden seiner morgendlichen Spaziergänge und raschen Notizen."
 pubDate: "2026-06-24"
@@ -33,17 +34,17 @@ In diesem Beitrag enthüllen wir die neurowissenschaftlichen Mechanismen hinter 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu vivaldi-composition-walk basiert auf <strong>Historische Quellen zu Antonio Vivaldi & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Quellen zu Antonio Vivaldi & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sensorischer Input und der Mechanismus rascher Erfassung flüchtiger Ideen
+## 1. Sensorischer Input und der Mechanismus rascher Erfassung flüchtiger Ideen
 
 Die Sinnesreize der frischen Morgenluft aktivieren die Seh- und Hörzentren des Gehirns und verknüpfen ruhende Erinnerungen. Flüchtige kreative Geistesblitze verblassen im präfrontalen Arbeitsgedächtnis jedoch oft innerhalb von 1 bis 2 Minuten.
 
@@ -51,9 +52,7 @@ Vivaldis Methode verhindert dies, indem er <strong>Ideen im Moment des Entstehen
 
 ---
 
-## Vorsicht vor perfektionistischer Selbstzensur und Zögern beim Festhalten von Ideen
-
-Sobald Sie rational hinterfragen 'Ist diese Idee wirklich gut?', geht die Inspiration verloren. Schreiben Sie in der ersten Phase 100 % der ungefilterten Gedanken ohne Bewertung auf.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Sobald Sie rational hinterfragen 'Ist diese Idee wirklich gut?', geht die Inspir
   </p>
 </div>
 
+---
+
+## 3. Vorsicht vor perfektionistischer Selbstzensur und Zögern beim Festhalten von Ideen
+
+Sobald Sie rational hinterfragen 'Ist diese Idee wirklich gut?', geht die Inspiration verloren. Schreiben Sie in der ersten Phase 100 % der ungefilterten Gedanken ohne Bewertung auf.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was tun, wenn unterwegs schnell gemachte Notizen später unverständlich sind?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Sobald Sie rational hinterfragen 'Ist diese Idee wirklich gut?', geht die Inspir
       Es ist wichtig, die Notizen innerhalb von 1 bis 2 Stunden zu überprüfen und zu ergänzen. Je kürzer der Abstand zwischen Aufschreiben und Ausarbeiten, desto besser die Erinnerung.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Gibt es einen Tipp, wenn das Aufnehmen von Sprachnotizen in der Öffentlichkeit unangenehm ist?</span>

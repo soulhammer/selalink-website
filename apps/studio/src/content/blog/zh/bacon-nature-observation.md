@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "弗兰西斯·培根的晨间花园散步：通过自然观察重置大脑疲劳的方法"
 description: "探索经验论大师弗兰西斯·培根每天早晨在花园散步、观察植物与天气、消除大脑疲劳并确立归纳法哲学的方法。"
 pubDate: "2026-01-04"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 bacon-nature-observation 的内容基于 <strong>弗兰西斯·培根随笔集《论花园（Of Gardens）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>弗兰西斯·培根随笔集《论花园（Of Gardens）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 自然观察散步能够重拾专注力的原因
+## 1. 自然观察散步能够重拾专注力的原因
 
 现代人的工作需要人为的“定向注意力（Directed Attention）”，极易使前额叶皮层疲劳。根据环境心理学中的注意力恢复理论（Attention Restoration Theory），树叶摇曳的声音或洒下的阳光等自然刺激会引发“柔和吸引（Soft Fascination）”。这能在无需刻意使用大脑的情况下使注意力自然转移，让疲惫的前额叶认知控制网络得到休息与充电，从而最大化提升归纳思考力与创造性问题解决能力。
 
 ---
 
-## 数字刺激的彻底脱机化
-
-散步时用手机拍照、回复短信或收听有益的播客，会使大脑继续使用定向注意力。为了获得注意力恢复效果，需将手机静音并彻底隔离。请完全沉浸于脱机的感官刺激中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     完成散步后回到工作空间，记录在大脑休息过程中重新梳理出的想法或问题解决方案。充分充电的前额叶皮层将给出清晰的答案。
   </p>
 </div>
+
+---
+
+## 3. 数字刺激的彻底脱机化
+
+散步时用手机拍照、回复短信或收听有益的播客，会使大脑继续使用定向注意力。为了获得注意力恢复效果，需将手机静音并彻底隔离。请完全沉浸于脱机的感官刺激中。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Last des Reiches und der Reflexion: Königin Victorias abendliche Tagebuch-Gewohnheit"
 description: "Erkunden Sie die Reflexionsgewohnheit von Königin Victoria, die das Britische Empire auf seinem Höhepunkt regierte und 122 Tagebuchbände verfasste. Untersuchung der wissenschaftlichen Mechanismen der handschriftlichen Aufzeichnung."
 pubDate: "2026-05-07"
@@ -31,25 +32,23 @@ Vom 13. Lebensjahr bis wenige Tage vor ihrem Tod schrieb Victoria 68 Jahre lang 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu victoria-daily-journaling basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Königin Victoria & Kognitive Neurowissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Königin Victoria & Kognitive Neurowissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Gefühlsbenennung und Aktivierung des präfrontalen Kortex beim expressiven Schreiben
+## 1. Gefühlsbenennung und Aktivierung des präfrontalen Kortex beim expressiven Schreiben
 
 Wenn negative Gefühle den Geist überwältigen, nimmt das limbische System einen Notstand wahr und schwächt die kognitive Kontrolle. Handschriftliches Tagebuchschreiben fördert <strong>‚Expressives Schreiben‘</strong> und <strong>‚Affect Labeling‘</strong>.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Vermeiden Sie beim expressiven Schreiben die Obsession mit Rechtschreibung oder Stil. Der Druck, gut zu schreiben, führt dazu, dass das Gehirn Tagebuchschreiben als bewertete Aufgabe wahrnimmt. Der Schlüssel liegt im freien Aufschreiben roher Gefühle.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Vermeiden Sie beim expressiven Schreiben die Obsession mit Rechtschreibung oder 
     Sagen Sie sich beim Schließen des Tagebuchs: ‚Alle Sorgen von heute sind auf diesen Seiten sicher verwahrt‘, um dem Gehirn ein Abschluss-Signal zu geben.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Vermeiden Sie beim expressiven Schreiben die Obsession mit Rechtschreibung oder Stil. Der Druck, gut zu schreiben, führt dazu, dass das Gehirn Tagebuchschreiben als bewertete Aufgabe wahrnimmt. Der Schlüssel liegt im freien Aufschreiben roher Gefühle.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ne pas déranger lorsque l'oreiller est redressé : Le signal d'immersion de Louisa May Alcott"
 description: "Découvrez le 'Mood Pillow' (l'oreiller d'humeur), un signal d'immersion utilisé par Louisa May Alcott, auteure des 'Quatre Filles du docteur March'. Suivez ce guide en 3 étapes pour réduire les coûts de conversion cognitive en bloquant les distractions environnantes."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous explorerons les principes de fonctionnement c
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant alcott-mood-ribbon est basée sur <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & Recherche dans *Journal of Personality and Social Psychology*</strong>.
+      Ce contenu est basé sur <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & Recherche dans *Journal of Personality and Social Psychology*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## « Le bouclier anti-distraction » pour éliminer le gaspillage du redémarrage cognitif
+## 1. « Le bouclier anti-distraction » pour éliminer le gaspillage du redémarrage cognitif
 
 Lorsque votre flux est interrompu par un bruit externe ou la question de quelqu'un lors d'un état de concentration intense, le cerveau bascule immédiatement en mode multitâche et consomme une énergie immense. La neuroscience appelle cela le <strong>« coût de changement de tâche (Task-Switching Cost) »</strong> et rapporte qu'il faut en moyenne 23 minutes pour réinitialiser une attention dispersée vers son état d'origine. Le Mood Pillow utilisé par Alcott était un parfait <strong>« bouclier anti-distraction (Distraction Shielding) »</strong> qui éliminait au préalable les stimuli distracteurs en envoyant d'abord un signal d'indisponibilité à l'environnement. Cette notification visuelle préserve le flux de travail sans créer de tensions avec l'entourage et aide à consacrer entièrement les ressources cognitives de la mémoire de travail (Working Memory) à une seule tâche.
 
 ---
 
-## Créer un signal d'immersion convenu fondé sur le respect mutuel
-
-Lorsqu'on utilise des indicateurs de signal de concentration, l'aspect le plus important est l'accord préalable avec la famille ou les collègues. Fermer soudainement la porte à la communication sans préavis peut susciter un sentiment de rejet chez les autres. Une routine positive s'installe lorsque des règles claires — telles que « Merci de différer les contacts non urgents uniquement pendant l'heure où cet indicateur est visible » — sont mutuellement intégrées, et que l'indicateur est immédiatement désactivé une fois le temps convenu écoulé pour restaurer la communication.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Lorsqu'on utilise des indicateurs de signal de concentration, l'aspect le plus i
     Lorsque le minuteur sonne, arrêtez de travailler et désactivez immédiatement l'objet signal (comme remettre l'oreiller à plat). Rouvrez les canaux de communication fermés et rétablissez le contact avec les personnes qui ont patienté en échangeant un léger regard ou un retour.
   </p>
 </div>
+
+---
+
+## 3. Créer un signal d'immersion convenu fondé sur le respect mutuel
+
+Lorsqu'on utilise des indicateurs de signal de concentration, l'aspect le plus important est l'accord préalable avec la famille ou les collègues. Fermer soudainement la porte à la communication sans préavis peut susciter un sentiment de rejet chez les autres. Une routine positive s'installe lorsque des règles claires — telles que « Merci de différer les contacts non urgents uniquement pendant l'heure où cet indicateur est visible » — sont mutuellement intégrées, et que l'indicateur est immédiatement désactivé une fois le temps convenu écoulé pour restaurer la communication.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

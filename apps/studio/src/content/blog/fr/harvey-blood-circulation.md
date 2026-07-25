@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode de vérification quantitative de la circulation de William Harvey : Briser les préjugés aveugles par le calcul numérique objectif"
 description: "Découvrez comment le médecin du XVIIe siècle William Harvey a brisé 2 000 ans de dogme en calculant mathématiquement le débit cardiaque. Explorez la vérité historique et la neuroscience de la vérification chiffrée."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente a la rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant harvey-blood-circulation est basée sur <strong>Vérification Historique issue de l'ouvrage de William Harvey *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'ouvrage de William Harvey *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Quantification mathématique et mécanismes de contrôle logique du lobe pariétal gauche
+## 1. Quantification mathématique et mécanismes de contrôle logique du lobe pariétal gauche
 
 Manipuler des données chiffrées précises plutôt que des intuitions floues stimule les réseaux du <strong>Lobe Pariétal Gauche</strong> et du <strong>Cortex Préfrontal</strong>. Ce processus de <strong>Quantification Mathématique</strong> élimine les biais subjectifs et les dogmes anciens. En apaisant l'amygdale, il active un contrôle exécutif préfrontal d'une grande rigueur.
 
 ---
 
-## Mise en garde : Consignes pour remplacer les vérités reçues par des indicateurs chiffrés
-
-N'acceptez pas des pratiques sans examen sous prétexte de tradition ou d'autorité. Le cerveau n'identifie les failles et les fausses croyances que lorsque des descriptions vagues sont converties en unités numériques mesurables.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ N'acceptez pas des pratiques sans examen sous prétexte de tradition ou d'autori
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Consignes pour remplacer les vérités reçues par des indicateurs chiffrés
+
+N'acceptez pas des pratiques sans examen sous prétexte de tradition ou d'autorité. Le cerveau n'identifie les failles et les fausses croyances que lorsque des descriptions vagues sont converties en unités numériques mesurables.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment appliquer cette méthode quantitative à l'analyse d'indicateurs professionnels ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ N'acceptez pas des pratiques sans examen sous prétexte de tradition ou d'autori
       Remplacez les affirmations vagues telles que « les utilisateurs aiment cette fonction » par des indicateurs mesurables : volume d'acquisition, durée de session et taux de rétention.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si les données chiffrées contredisent mon intuition personnelle ?</span>

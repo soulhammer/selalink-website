@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspirasi Terbalik: Rutinitas Kreativitas Handstand Igor Stravinsky"
 description: "Musisi Igor Stravinsky melakukan handstand setiap kali mengalami kebuntuan saat menggubah lagu. Pelajari prinsip ilmiah bagaimana perubahan postur tubuh meningkatkan aliran darah otak dan menciptakan terobosan kreatif."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ Dalam postingan ini, kami mengungkap mekanisme rutinitas Stravinsky dan menyedia
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai stravinsky-headstand-composition didasarkan pada <strong>Autobiografi Historis Igor Stravinsky & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Autobiografi Historis Igor Stravinsky & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bagaimana Handstand Memulihkan Aliran Darah Otak dan Indra Vestibular
+## 1. Bagaimana Handstand Memulihkan Aliran Darah Otak dan Indra Vestibular
 
 Ketika otak terjebak dalam satu pikiran, membalikkan postur tubuh memicu dua perubahan neurosains: Pertama, gravitasi mengarahkan aliran darah ke kepala, memberikan oksigen dan nutrisi instan ke lobus frontal. Kedua, sistem vestibular di telinga dalam mendeteksi sinyal gravitasi yang tidak biasa, membangunkan jaringan orientasi spasial di otak kecil dan korteks serebral. Ini melepaskan filter perhatian yang kaku dan mendorong asosiasi kreatif.
 
 ---
 
-## Peringatan & Tip
-
-Jika Anda memiliki masalah leher atau tekanan darah, gantilah handstand penuh dengan inversi setengah yang lembut (seperti menyandarkan kaki di kursi). Batasi durasi di bawah 1 menit, dan setelah selesai, berbaringlah tengkurap selama 30 detik sebelum berdiri perlahan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Jika Anda memiliki masalah leher atau tekanan darah, gantilah handstand penuh de
     Turunkan kaki dengan hati-hati dan berbaring tengkurap selama 30 detik sebelum berdiri. Kemudian duduk di kursi dan rasakan kejernihan mental yang baru.
   </p>
 </div>
+
+---
+
+## 3. Peringatan & Tip
+
+Jika Anda memiliki masalah leher atau tekanan darah, gantilah handstand penuh dengan inversi setengah yang lembut (seperti menyandarkan kaki di kursi). Batasi durasi di bawah 1 menit, dan setelah selesai, berbaringlah tengkurap selama 30 detik sebelum berdiri perlahan.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

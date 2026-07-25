@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rutinitas Jalan Kaki & Menulis Friedrich Nietzsche: Membuka Kreativitas Otak di Setiap Langkah"
 description: "Jelajahi fakta sejarah filsuf Jerman Friedrich Nietzsche yang berjalan hingga 8 jam sehari di jalur pegunungan Swiss untuk menulis pemikiran besar, serta neurosains tentang bagaimana gerakan memicu DMN dan pemikiran divergen."
 pubDate: "2026-04-27"
@@ -35,25 +36,23 @@ Dalam artikel ini, kami mengulas mekanisme neurosains di balik rutinitas jalan k
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai nietzsche-walking-writing didasarkan pada <strong>Biografi Historis dan Catatan Autobiografi Friedrich Nietzsche & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi Historis dan Catatan Autobiografi Friedrich Nietzsche & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengapa Ritme Jalan Kaki Mendorong DMN dan Pemikiran Divergen
+## 1. Mengapa Ritme Jalan Kaki Mendorong DMN dan Pemikiran Divergen
 
 Berjalan kaki dengan tempo stabil meningkatkan detak jantung secara moderat, memaksimalkan aliran darah dan oksigen ke otak. Gerakan ritmis mengurangi beban memori kerja dan mengaktifkan Default Mode Network (DMN) untuk pemikiran divergen.
 
 ---
 
-## Hal yang Perlu Diperhatikan dan Tips Rutinitas Jalan Kaki Nietzsche
-
-Hindari melihat ponsel selama berjalan kaki. Bawa hanya buku catatan saku dan pena untuk memblokir gangguan digital agar kreativitas bawah sadar dapat bekerja. Rancang lingkungan yang mendukung agar kebiasaan berjalan berjalan alami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Hindari melihat ponsel selama berjalan kaki. Bawa hanya buku catatan saku dan pe
   </p>
 </div>
 
+---
+
+## 3. Hal yang Perlu Diperhatikan dan Tips Rutinitas Jalan Kaki Nietzsche
+
+Hindari melihat ponsel selama berjalan kaki. Bawa hanya buku catatan saku dan pena untuk memblokir gangguan digital agar kreativitas bawah sadar dapat bekerja. Rancang lingkungan yang mendukung agar kebiasaan berjalan berjalan alami.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kapan tepatnya Nietzsche berjalan kaki dalam sehari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Hindari melihat ponsel selama berjalan kaki. Bawa hanya buku catatan saku dan pe
       Nietzsche terutama berjalan kaki antara sarapan dan makan siang, serta di sore hari. Ia menyukai jalur pegunungan dan hutan untuk mendapatkan inspirasi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah harus berjalan di luar ruangan saat mempraktikkannya?</span>

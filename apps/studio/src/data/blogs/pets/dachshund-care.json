@@ -507,6 +507,10 @@
           "애견경사로"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/dachshund_care.png"
   }
 }

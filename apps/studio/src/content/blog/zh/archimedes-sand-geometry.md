@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "沉浸的极致：阿基米德的沙地几何草图习惯"
 description: "为了将复杂的科学灵感具象化，阿基米德不断在沙地或地面上绘制图形。探索动手的视觉草图如何减轻工作记忆的认知过载并诱导超沉浸状态。"
 pubDate: "2026-01-01"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 archimedes-sand-geometry 的内容基于 <strong>普鲁塔克《希腊罗马名人传（Life of Marcellus）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>普鲁塔克《希腊罗马名人传（Life of Marcellus）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 阻断工作记忆过载与双重编码认知效应
+## 1. 阻断工作记忆过载与双重编码认知效应
 
 人类的工作记忆对于一次性能够处理的信息量有着严格的限制。如果仅凭脑海去计算抽象的数学公式或物理定律，大脑会迅速疲劳并打断沉浸状态。此时，通过挥动手臂在周围绘制线条的草图行为，会引发将大脑认知负担转移至外部环境的“分布式认知（Distributed Cognition）”。此外，通过视觉图像与触觉动作同时被激活的双重编码效应，能刺激空间记忆细胞并促进信息的精细化处理。
 
 ---
 
-## 注意事项与建议
-
-应用几何草图习惯时需要注意的一点是，切勿陷入试图画出完美漂亮草图的完美主义中。如果过于在意线条的形状或精细度，大脑的认知资源就会浪费在绘画技巧本身上，造成本末倒置。因此，几何草图应仅作为辅助信息整理与大脑集中的引导工具，以杂乱未完成的涂鸦水平轻松绘制才是核心所在。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     在图形之间连接箭头或线条，将因果、分类、相互作用等关系在视觉上进行扩展，并展开5分钟的思索。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与建议
+
+应用几何草图习惯时需要注意的一点是，切勿陷入试图画出完美漂亮草图的完美主义中。如果过于在意线条的形状或精细度，大脑的认知资源就会浪费在绘画技巧本身上，造成本末倒置。因此，几何草图应仅作为辅助信息整理与大脑集中的引导工具，以杂乱未完成的涂鸦水平轻松绘制才是核心所在。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

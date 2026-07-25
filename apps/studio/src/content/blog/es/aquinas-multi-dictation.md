@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Método de Dictado Múltiple de Tomás de Aquino: Maximice la Memoria de Trabajo para Conquistar Dilemas Complejos"
 description: "Descubra cómo Tomás de Aquino, el gran teólogo medieval, expandió su memoria de trabajo y mantuvo la coherencia lógica mientras dictaba simultáneamente diferentes temas a 3 o 4 escribas."
 pubDate: "2026-03-09"
@@ -36,22 +37,20 @@ En la publicación de hoy, analizamos los principios neurocientíficos de la par
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre aquinas-multi-dictation se basa en <strong>Verificación Histórica de la Biografía de Tomás de Aquino por Bernardo de Gui e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Tomás de Aquino por Bernardo de Gui e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Principios Neurocognitivos de la Partición de la Memoria de Trabajo
+## 1. Principios Neurocognitivos de la Partición de la Memoria de Trabajo
 
 Coordinar múltiples tareas abstractas simultáneamente suele generar una grave interferencia de información y costos de cambio de tareas cognitivas en el cerebro. Sin embargo, Tomás de Aquino superó esto mediante la 'Partición de la Memoria de Trabajo (Working Memory Partitioning)'. Al entrenar intensamente el Sistema Ejecutivo Central del lóbulo prefrontal, mantuvo activos los nodos de conocimiento de cada proyecto en compartimentos separados. Esto le permitió cambiar de contexto rápidamente evitando el agotamiento cognitivo y la confusión de información.
 
 ---
 
-## Tenga Cuidado con la Multitarea Improductiva
-
-No confunda este hábito con la multitarea distraída moderna (por ejemplo, codificar mientras lee correos electrónicos). La simple distracción reduce drásticamente la calidad y la velocidad del trabajo. El método de Aquino es la Ejecución Secuencial (Sequential Execution) de tareas individuales altamente concentradas divididas en particiones. Es decir, al procesar un objeto, debe volcar el 100% de sus recursos cerebrales únicamente en él.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ No confunda este hábito con la multitarea distraída moderna (por ejemplo, codi
     Cuando expire el tiempo, cierre de inmediato la primera tarea y abra la segunda. Tome tres respiraciones profundas para limpiar el búfer y evitar que los pensamientos previos queden como imágenes residuales en su cerebro, y luego ejecute la segunda tarea con el 100% de concentración.
   </p>
 </div>
+
+---
+
+## 3. Tenga Cuidado con la Multitarea Improductiva
+
+No confunda este hábito con la multitarea distraída moderna (por ejemplo, codificar mientras lee correos electrónicos). La simple distracción reduce drásticamente la calidad y la velocidad del trabajo. El método de Aquino es la Ejecución Secuencial (Sequential Execution) de tareas individuales altamente concentradas divididas en particiones. Es decir, al procesar un objeto, debe volcar el 100% de sus recursos cerebrales únicamente en él.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

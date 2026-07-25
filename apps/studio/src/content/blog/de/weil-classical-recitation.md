@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Geheimnis absoluter Aufmerksamkeitsfokussierung: Philosophin Simone Weils morgendliche Rezitations-Routine"
 description: "Entdecken Sie die morgendliche altgriechische Rezitations-Routine der französischen Philosophin Simone Weil zur Schulung reiner Aufmerksamkeit und deren Wirkung auf das Gehirn."
 pubDate: "2026-07-11"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir die neurowissenschaftlichen Grundlagen von Wei
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu weil-classical-recitation basiert auf <strong>Historische Quellen zu Simone Weil & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Quellen zu Simone Weil & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Auswirkungen von lautem Lesen und Rezitieren auf den präfrontalen Kortex
+## 1. Auswirkungen von lautem Lesen und Rezitieren auf den präfrontalen Kortex
 
 Das laute Rezitieren komplexer altsprachlicher Sätze stimuliert intensiv den dorsolateralen präfrontalen Kortex. Im Vergleich zum leisen Lesen aktiviert laut Vorlesen gleichzeitig Seh-, Sprach- und Hörzentren. Diese multisensorische Synchronisation beseitigt den morgendlichen Gehirnnebel.
 
 ---
 
-## Richten Sie die Aufmerksamkeit auf den Klang und den Prozess des Lesens
-
-Für Simone Weil war das morgendliche Rezitieren eine aktive Meditation. Es muss kein Altgriechisch sein. Lesen Sie jeden Morgen 5 Minuten lang ein kurzes Gedicht oder ein Zitat laut vor. Das Fokussieren auf die eigene Stimme bringt das Gehirn in eine tiefere Konzentration.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Für Simone Weil war das morgendliche Rezitieren eine aktive Meditation. Es muss
     Setzen Sie sich nach dem Vorlesen aufrecht hin, schließen Sie 2 Minuten die Augen und atmen Sie tief durch, bevor Sie mit der Arbeit beginnen.
   </p>
 </div>
+
+---
+
+## 3. Richten Sie die Aufmerksamkeit auf den Klang und den Prozess des Lesens
+
+Für Simone Weil war das morgendliche Rezitieren eine aktive Meditation. Es muss kein Altgriechisch sein. Lesen Sie jeden Morgen 5 Minuten lang ein kurzes Gedicht oder ein Zitat laut vor. Das Fokussieren auf die eigene Stimme bringt das Gehirn in eine tiefere Konzentration.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

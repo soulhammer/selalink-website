@@ -507,6 +507,10 @@
           "목양 본능 교정"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/border_collie_care.png"
   }
 }

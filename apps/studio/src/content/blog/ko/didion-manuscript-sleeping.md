@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "자는 동안 뇌가 기획안을 풀어낸다: 조앤 디디온의 원고 동침 수면법과 REM 수면 프라이밍"
 description: "미국의 전설적인 작가 조앤 디디온. 풀리지 않는 원고를 안고 침실로 들어가 함께 잠들었던 수면 루틴. 인지적 프라이밍(Cognitive Priming)과 REM 수면 중 기억 재통합의 인지신경과학적 원리를 밝힙니다."
 pubDate: "2026-06-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>트레이시 도허티 평전 『조앤 디디온 평전(The Last Love Song)』 및 『The Paris Review』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 didion-manuscript-sleeping 루틴을 다룹니다.
+      본 콘텐츠는 <strong>트레이시 도허티 평전 『조앤 디디온 평전(The Last Love Song)』 및 『The Paris Review』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## REM 수면의 비연관 기억 재통합과 취침 전 인지적 프라이밍(Cognitive Priming)
+## 1. REM 수면의 비연관 기억 재통합과 취침 전 인지적 프라이밍(Cognitive Priming)
 
 깨어 있는 동안 전전두엽은 통제적·논리적 가공 모드를 유지하여 기존 도식(Schema) 내의 안전한 연결만을 시도합니다. 반면 취침 직전 해결하려는 과제나 원고를 가만히 뇌에 입력하는 행동은 뇌과학에서 '인지적 프라이밍(Cognitive Priming)' 효과를 일으킵니다. 수면에 진입하여 렘(REM) 수면 단계에 도달하면, 감정 및 기억을 담당하는 편도체와 해마가 활성화되고 전전두엽의 강한 제어망이 완전 해제됩니다. 이때 뇌는 인지적 프라이밍으로 우선순위가 지정된 난제와 낮 동안 수집된 파편화된 지식 조각들을 무작위로 교차 결합(Unconstrained Associative Re-Consolidation)해 봅니다. 이 수면 중 무의식적 연산 프로세스가 아침 기상 시 뜻밖의 명쾌한 통찰과 문제 해결책을 선물하게 됩니다.
 
 ---
 
-## 주의사항 및 팁: 블루라이트 자극 차단 및 아날로그 종이 프라이밍
-
-취침 전 스마트폰이나 태블릿 화면의 블루라이트를 쬐며 문서를 검토하면, 뇌의 시상하부가 낮으로 착각하여 수면 호르몬인 멜라토닌(Melatonin) 분비를 억제하고 렘수면 및 서파 수면 구조를 심각하게 파괴합니다. 프라이밍 훈련을 진행할 때는 반드시 종이에 인쇄된 아날로그 문서나 수첩을 5분간 가볍게 둘러보고, 눈을 감은 뒤 마음속으로 과제를 연상하며 수면에 들어가야 렘수면 통합 효과가 온전히 작동합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 블루라이트 자극 차단 및 아날로그 종이 프라이밍
+
+취침 전 스마트폰이나 태블릿 화면의 블루라이트를 쬐며 문서를 검토하면, 뇌의 시상하부가 낮으로 착각하여 수면 호르몬인 멜라토닌(Melatonin) 분비를 억제하고 렘수면 및 서파 수면 구조를 심각하게 파괴합니다. 프라이밍 훈련을 진행할 때는 반드시 종이에 인쇄된 아날로그 문서나 수첩을 5분간 가볍게 둘러보고, 눈을 감은 뒤 마음속으로 과제를 연상하며 수면에 들어가야 렘수면 통합 효과가 온전히 작동합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>자기 전에 풀리지 않는 고민이나 기획을 생각하면 불면증이 오지 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       억지로 답을 찾으려 스트레스를 받고 걱정하면 불면증을 유발할 수 있습니다. 핵심은 능동적으로 고민하는 것이 아니라, 동화책을 읽듯 종이 문서를 무심하게 훑어보고 "뇌가 자는 동안 알아서 아웃소싱해 줄 것이다"라는 편안한 수용적 마음가짐으로 의식의 스위치를 끄는 데 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>아침에 깨어났을 때 바로 기발한 아이디어나 해결책이 떠오르지 않으면 실패한 건가요?</span>

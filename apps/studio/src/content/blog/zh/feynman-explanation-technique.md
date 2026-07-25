@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "诺贝尔奖得主的超高速学习法：理查德·费曼的“教授他人”习惯与元认知提升指南"
 description: "探索诺贝尔奖得主理查德·费曼将繁复的量子力学讲解至10岁孩童亦能听懂的秘诀。揭示通过元认知与主动提取（Active Retrieval）将知识内化为自身能力的神经科学原理与实践指南。"
 pubDate: "2026-02-11"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 feynman-explanation-technique 的内容基于 <strong>理查德·费曼自传《别闹了，费曼先生！（Surely You're Joking, Mr. Feynman!）》与加州理工讲义档案考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>理查德·费曼自传《别闹了，费曼先生！（Surely You're Joking, Mr. Feynman!）》与加州理工讲义档案考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 认知认知边界的元认知与主动提取（Active Retrieval）机制
+## 1. 认知认知边界的元认知与主动提取（Active Retrieval）机制
 
 单凭阅读或聆听来接收信息的被动学习法，无法在大脑中形成长效记忆痕迹。反之，将所学内容大声讲解出来或用通俗语言归纳，能充分调动大脑的<strong>主动提取（Active Retrieval）</strong>机制，将知识深深锚定于认知网络中。尤为关键的是，运用连小学生都能听懂的直白隐喻进行重述训练，能强力激活大脑的<strong>元认知（Metacognition）</strong>——即审视自我认知状态的能力。一旦剔除高深术语的伪装，“真正融会贯通”与“仅靠背诵词汇装懂”的界限便会水落石出。在此过程中，前额叶皮层与记忆中枢海马体将重新构建神经突触，将知识无损转录入<strong>长期记忆（Long-term Memory）</strong>库中。
 
 ---
 
-## 注意事项：以主动提取打破“假性懂了”的知识陷阱
-
-用眼扫读文章或被动观看视频课程会造成“已然掌握”的虚假安全感（即胜任感幻觉），却根本无法拉动元认知回路。请效法费曼：学习结束后抽出短短10分钟，摊开一张白纸，动用口笔大声向自己解释。凡是无法用直白语言讲透的部分，均未真正转化为你的知识。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：以主动提取打破“假性懂了”的知识陷阱
+
+用眼扫读文章或被动观看视频课程会造成“已然掌握”的虚假安全感（即胜任感幻觉），却根本无法拉动元认知回路。请效法费曼：学习结束后抽出短短10分钟，摊开一张白纸，动用口笔大声向自己解释。凡是无法用直白语言讲透的部分，均未真正转化为你的知识。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>若身边没有可以作为倾听对象的真实孩童，该如何操作？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       绝无必要寻找真正的孩童。你可以以同事、案头公仔或设定为10岁认知理解力的人工智能 Chatbot 为假想目标。机制的核心在于“自省过滤”——即严格剔除行业术语，将表达审校降至小学生听懂的语言水平。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>当彻底剥离专业术语与深奥词汇后，语句变得过于冗长生硬，这正常吗？</span>

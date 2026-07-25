@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "自分の統制外の事柄には拘るなと言い放った奴隷出身の哲学者：エピクテトスの統制二分法内省ルーティンと心の 静法"
 description: "古代ローマ・ストア派哲学の巨匠エピクテトス。自分の権限内と権限外を厳格に分離し、日常の不安をゼロにした統制二分法の夜の記録ルーティンと認知神経科学的メカニズムを深く解き明かします。"
 pubDate: "2026-05-15"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「epictetus-dichotomy-control」は <strong>エピクテトス『語録（Discourses）』および『要約（Enchiridion）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エピクテトス『語録（Discourses）』および『要約（Enchiridion）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 統制位置（Locus of Control）の内在化と扁桃体コルチゾール低減メカニズム
+## 1. 統制位置（Locus of Control）の内在化と扁桃体コルチゾール低減メカニズム
 
 人間が慢性的なストレスや不安に悩まされる最大の理由は、脳が自分では制御できない外部の結果（他人の反応、経済状況、過ぎ去った過去）に執着する時に生じる無力感です。エピクテトスの統制二分法記録は「統制位置（Locus of Control）」を外部から内面へと明確に移動させます。統制不可能な要素を公式に認知して手放す時、前頭前野皮質（PFC）が感情の脳を調節し、脳の恐怖・感情センターである扁桃体（Amygdala）の過活性化が鎮まり、ストレスホルモンであるコルチゾール数値が大幅に減少して情緒的安定感が回復します。
 
 ---
 
-## 注意事項：自分が制御できる行動までが自分の領域です
-
-自分が最善を尽くしたにもかかわらず、他人の反応や市場の結果が良くない時に自分を責めることは、脳を極度のエゴ枯渇と抑うつへと追い込みます。あなたの分は「最善の行動」までであり、それ以降の結果は宇宙の領域であることを受け入れてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：自分が制御できる行動までが自分の領域です
+
+自分が最善を尽くしたにもかかわらず、他人の反応や市場の結果が良くない時に自分を責めることは、脳を極度のエゴ枯渇と抑うつへと追い込みます。あなたの分は「最善の行動」までであり、それ以降の結果は宇宙の領域であることを受け入れてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>他人の態度や反応も本当に自分では全く制御できないのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、そうです。自分にできるのは「影響を与えようとする自分の誠実な行動」までであり、それを受け入れる相手の感情と反応は100%相手の権限領域です。これを区分した瞬間、人間関係のストレスは消え去ります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>結果を気にしないと、情熱やモチベーションが低下しませんか？</span>

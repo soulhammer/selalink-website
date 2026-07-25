@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La force derrière le leadership de fer de la mode : la routine de tennis de 5h du matin d'Anna Wintour"
 description: "Anna Wintour, rédactrice en chef de Vogue, se réveille tous les matins à 5 heures pour courir sur le court pendant une heure. Découvrez les fondements scientifiques et le guide pratique moderne en 3 étapes de cette routine de tennis stimulant le cerveau."
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ Dans cet article, nous analysons les bienfaits neurophysiologiques de cette rout
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant wintour-morning-tennis est basée sur <strong>Études biographiques et historiques sur Anna Wintour & Recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Études biographiques et historiques sur Anna Wintour & Recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Élévation de la température corporelle et stimulation des neurotransmetteurs d'éveil
+## 1. Élévation de la température corporelle et stimulation des neurotransmetteurs d'éveil
 
 Immédiatement après le réveil, le cerveau traverse une phase d'inertie du sommeil et de lenteur cognitive. Affronter des réunions intenses ou des e-mails stressants dans cet état sans réveiller le cerveau peut paralyser le cortex préfrontal, entraînant des décisions impulsives ou émotionnelles.
 
@@ -53,9 +54,7 @@ Pratiquer un exercice cardiovasculaire intense comme le tennis le matin augmente
 
 ---
 
-## N'oubliez pas de réserver du temps et de faire un échauffement cardiaque doux
-
-Immédiatement après le réveil, le cœur est contracté et la pression vasculaire est élevée. Commencer un sprint maximal dès le saut du lit exerce une forte pression sur le système cardiovasculaire. Effectuez 3 minutes d'échauffement progressif (étirements dynamiques doux) avant d'augmenter l'intensité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Immédiatement après le réveil, le cœur est contracté et la pression vascula
   </p>
 </div>
 
+---
+
+## 3. N'oubliez pas de réserver du temps et de faire un échauffement cardiaque doux
+
+Immédiatement après le réveil, le cœur est contracté et la pression vasculaire est élevée. Commencer un sprint maximal dès le saut du lit exerce une forte pression sur le système cardiovasculaire. Effectuez 3 minutes d'échauffement progressif (étirements dynamiques doux) avant d'augmenter l'intensité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Faut-il absolument se réveiller et faire de l'exercice à 5h du matin pour que ce soit efficace ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Immédiatement après le réveil, le cœur est contracté et la pression vascula
       Il n'y a aucune raison scientifique pour que ce soit exactement 5 heures. L'essentiel est de se réveiller au moins 1 heure avant le début de sa journée de travail pour éveiller le cerveau par l'exercice physique. L'important est de créer une routine dans les 30 minutes suivant le réveil selon votre emploi du temps.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si les entraînements à haute intensité sont trop éprouvants en raison d'articulations fragiles ou d'un manque d'endurance ?</span>

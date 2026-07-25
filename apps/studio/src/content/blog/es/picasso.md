@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El método de inmersión flexible de Picasso: Cambiar de lienzo al instante cuando las ideas se estancan"
 description: "El maestro del arte moderno que cofundó el cubismo, encendiendo chispas creativas por la noche bajo la luz de una sola vela y sin distracciones."
 pubDate: "2026-02-15"
@@ -34,22 +35,20 @@ En la entrada de hoy, analizamos la neurociencia cognitiva detrás del hábito d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre picasso se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Pablo Picasso e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Pablo Picasso e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análisis de la ciencia cerebral tras el éxito del cambio de atención
+## 1. Análisis de la ciencia cerebral tras el éxito del cambio de atención
 
 Forzar el trabajo en una tarea compleja cuando el enfoque decae genera un agotamiento cognitivo debido al 'Residuo de Atención (Attention Residue)'. Alternar de forma flexible entre 2 o 3 tipos de tareas distintas, como hacía Picasso, permite descansar a las vías neuronales fatigadas y activa nuevas redes mentales, prolongando la concentración.
 
 ---
 
-## Consejo de ciencia del comportamiento para una implementación exitosa
-
-Esto no significa realizar multitarea caótica abriendo varias ventanas a la vez. Durante un bloque de trabajo, concéntrese al 100% en 'una sola tarea', pero alterne entre bloques con flexibilidad cuando la productividad se estanque.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Esto no significa realizar multitarea caótica abriendo varias ventanas a la vez
   </p>
 </div>
 
+---
+
+## 3. Consejo de ciencia del comportamiento para una implementación exitosa
+
+Esto no significa realizar multitarea caótica abriendo varias ventanas a la vez. Durante un bloque de trabajo, concéntrese al 100% en 'una sola tarea', pero alterne entre bloques con flexibilidad cuando la productividad se estanque.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cambiar de tarea con tanta flexibilidad no retrasa la finalización del trabajo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Esto no significa realizar multitarea caótica abriendo varias ventanas a la vez
       No. Desde la ciencia cerebral, cuando la fricción mental se estanca, cambiar durante 20 minutos a otra tarea ventilará la mente y acelerará el tiempo de finalización general en más de un 40%.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuál es el número máximo óptimo de pistas de tareas para diseñar al día?</span>

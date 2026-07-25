@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The General Theory Written Under the Covers: John Maynard Keynes's Morning Bed-Work Habit and CAR Cognitive Activation"
 description: "Discover how macroeconomist John Maynard Keynes, who conquered the Great Depression, authored manuscripts in bed for two hours after waking up. Explore the neuroscience of the Cortisol Awakening Response (CAR), prefrontal focus, and a 3-step morning routine."
 pubDate: "2026-02-08"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience behind John Maynard Keyne
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding keynes-morning-bed-work is based on <strong>Historical Verification from Robert Skidelsky's *John Maynard Keynes* Biography, Keynes Archives & Cognitive Neuroscience and Neuromuscular Science Research</strong>.
+      This content is based on <strong>Historical Verification from Robert Skidelsky's *John Maynard Keynes* Biography, Keynes Archives & Cognitive Neuroscience and Neuromuscular Science Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cortisol Awakening Response (CAR) and the Golden Hour of Prefrontal Resources
+## 1. Cortisol Awakening Response (CAR) and the Golden Hour of Prefrontal Resources
 
 During the first 30 to 45 minutes after waking, the human neuroendocrine system executes the <strong>Cortisol Awakening Response (CAR)</strong>, naturally surging cortisol levels from the adrenal glands to energize the brain. This window represents a cognitive golden hour where the <strong>Prefrontal Cortex</strong> is entirely free from decision fatigue, enabling peak logic and creative synthesis. Working on your top-priority task in a sensory-controlled bed environment channels 100% of executive bandwidth without cognitive energy loss.
 
 ---
 
-## Caution: Elevating the Upper Body to Prevent Sleep Inertia and Maintain Arousal
-
-The primary threat when working in bed is slipping back into sleep due to <strong>Sleep Inertia</strong>. Lying flat or lowering your head before full awakening reverts brainwaves into drowsiness-inducing <strong>Theta Waves</strong>. Prop your back and head up at least 45 degrees against pillows to transmit an unequivocal posture-based arousal signal to your brainstem, and strictly limit the bed sprint to 20–30 minutes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The primary threat when working in bed is slipping back into sleep due to <stron
   </p>
 </div>
 
+---
+
+## 3. Caution: Elevating the Upper Body to Prevent Sleep Inertia and Maintain Arousal
+
+The primary threat when working in bed is slipping back into sleep due to <strong>Sleep Inertia</strong>. Lying flat or lowering your head before full awakening reverts brainwaves into drowsiness-inducing <strong>Theta Waves</strong>. Prop your back and head up at least 45 degrees against pillows to transmit an unequivocal posture-based arousal signal to your brainstem, and strictly limit the bed sprint to 20–30 minutes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is working in bed harmful to spinal posture, neck alignment, or joint health?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The primary threat when working in bed is slipping back into sleep due to <stron
       Lying completely flat while craning your neck forward induces severe cervical and spinal strain. To safeguard your spine, support your upper body at 45 degrees or higher using firm back cushions, and strictly cap your bed session to 20–30 minutes to balance musculoskeletal health with cognitive output.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can I check my emails or instant messages for just 5 minutes right after waking up?</span>

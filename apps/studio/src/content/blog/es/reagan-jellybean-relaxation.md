@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El caramelo secreto de la Casa Blanca? El método de alivio del estrés con caramelos de goma de Ronald Reagan"
 description: "El 40.º presidente de EE. UU., Ronald Reagan, comía caramelos de goma en el Despacho Oval para dejar de fumar y controlar el estrés. Descubra los principios neurocientíficos de cómo el movimiento masticatorio afecta el estado emocional."
 pubDate: "2026-04-25"
@@ -36,14 +37,14 @@ La publicación de hoy presenta la ciencia detrás de la rutina de relajación c
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre reagan-jellybean-relaxation se basa en <strong>Investigación basada en biografías históricas y autobiografías de Ronald Reagan y estudios de Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación basada en biografías históricas y autobiografías de Ronald Reagan y estudios de Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Masticación y sustitución sensorial para calmar la amígdala
+## 1. Masticación y sustitución sensorial para calmar la amígdala
 
 El movimiento repetitivo de la masticación activa el nervio trigémino en el cerebro, inhibiendo la amígdala, que gobierna el miedo y el estrés. Esto estabiliza las pulsaciones y reduce rápidamente la secreción de cortisol.
 
@@ -51,9 +52,7 @@ Al mismo tiempo, cuando surge un fuerte impulso adictivo (como fumar o comer dul
 
 ---
 
-## Tenga cuidado con el consumo de azúcar para la salud dental
-
-Comer demasiados caramelos de goma como Reagan puede dañar la salud debido a la caries dental o al consumo excesivo de azúcar. Se recomienda utilizar chicle sin azúcar, gomitas sin azúcar o frutos secos (almendras, nueces) como alternativas para disfrutar de manera segura solo del efecto relajante de masticar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Comer demasiados caramelos de goma como Reagan puede dañar la salud debido a la
   </p>
 </div>
 
+---
+
+## 3. Tenga cuidado con el consumo de azúcar para la salud dental
+
+Comer demasiados caramelos de goma como Reagan puede dañar la salud debido a la caries dental o al consumo excesivo de azúcar. Se recomienda utilizar chicle sin azúcar, gomitas sin azúcar o frutos secos (almendras, nueces) como alternativas para disfrutar de manera segura solo del efecto relajante de masticar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cuánto tiempo debo masticar para que el efecto de reducción del estrés sea perceptible?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Comer demasiados caramelos de goma como Reagan puede dañar la salud debido a la
       La investigación neurofisiológica indica que los niveles de cortisol comienzan a disminuir y las ondas cerebrales empiezan a cambiar a ondas alfa (Alpha wave) relajantes unos 2 o 3 minutos después de comenzar a masticar. Por lo tanto, mantener la concentración en masticar durante al menos 2 a 3 minutos es clave para obtener resultados.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Existe realmente un principio científico por el cual masticar ayuda a suprimir el deseo de fumar o la ingesta compulsiva?</span>

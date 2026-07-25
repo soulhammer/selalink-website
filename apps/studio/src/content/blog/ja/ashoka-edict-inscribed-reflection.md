@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "岩に勅令を刻み省察した征服王？アショカ大王の毎日倫理省察ルーティン"
 description: "インド・マウリヤ朝のアショカ大王。カリンガ戦争の惨状を反省し、石柱勅令を建てて毎日倫理的自我を省察した彼の外部アンカリングルーティンと3ステップ実践法を探ります。"
 pubDate: "2026-06-04"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「ashoka-edict-inscribed-reflection」は <strong>アショカ大王石柱勅令（Edicts of Ashoka）考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アショカ大王石柱勅令（Edicts of Ashoka）考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 外部的価値観の視覚的アンカー（Visual Anchor）と前頭前野の自我同一性強化メカニズム
+## 1. 外部的価値観の視覚的アンカー（Visual Anchor）と前頭前野の自我同一性強化メカニズム
 
 人の感情や瞬間的な欲望は、脳の視床下部や辺縁系の影響を受けて頻繁に移り変わります。アショカ大王のように自身の核心的信念を目に見える物理的構造物として外在化（Externalization）すると、脳は物理的テキストを認識するやいなや<strong>「視覚的アンカリング（Visual Anchoring）」</strong>効果を発動させます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 価値観宣言の1回限りのイベント化および形式主義への注意
-
-価値観カードを綺麗に書いて貼っておくだけで二度と読まないなら、何の脳科学的アンカリング効果も起きません。アショカ大王が石柱の碑文を毎日胸に刻んだように、核心は「毎日目で確認して朗読する日常的な反復」にあります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 価値観宣言の1回限りのイベント化および形式主義への注意
+
+価値観カードを綺麗に書いて貼っておくだけで二度と読まないなら、何の脳科学的アンカリング効果も起きません。アショカ大王が石柱の碑文を毎日胸に刻んだように、核心は「毎日目で確認して朗読する日常的な反復」にあります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>価値観の言葉が3つより多くても大丈夫ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       できるだけ3つ以内に制限することを強く推奨します。価値観の数が5つ以上に増えると作業記憶（Working Memory）に負荷がかかり、アンカリング効果が急激に弱まります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>時間が経ってから価値観の言葉を変更しても大丈夫ですか？</span>

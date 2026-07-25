@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Patrouiller 4 miles de couloirs sombres chaque nuit : La routine de diagnostic d'hygiène quantitatif de Florence Nightingale"
 description: "Fondatrice de l'infirmerie moderne et statisticienne pionnière qui a schématisé l'hygiène militaire et les causes de mortalité pour orchestrer des réformes."
 pubDate: "2026-03-20"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience de sa méthode d'évaluation et
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant nightingale est basée sur <strong>Biographies historiques et récits autobiographiques de Florence Nightingale & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Florence Nightingale & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analyse neuroscientifique de la précision environnementale
+## 1. Analyse neuroscientifique de la précision environnementale
 
 L'observation minutieuse des risques environnementaux et la quantification des données stimulent les neurones miroirs et le filtre préfrontal. Ce processus active le cortex préfrontal dorsolatéral, affinant la résolution métacognitive pour détecter précocement les failles d'un système.
 
 ---
 
-## Conseil en science du comportement pour ancrer la routine
-
-Vouloir nettoyer de fond en comble votre espace épuise les ressources de volonté. Concentrez-vous sur des micro-ajustements légers et un diagnostic express de 3 minutes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Vouloir nettoyer de fond en comble votre espace épuise les ressources de volont
   </p>
 </div>
 
+---
+
+## 3. Conseil en science du comportement pour ancrer la routine
+
+Vouloir nettoyer de fond en comble votre espace épuise les ressources de volonté. Concentrez-vous sur des micro-ajustements légers et un diagnostic express de 3 minutes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Le fait de consigner un diagnostic environnemental influe-t-il sur l'estime de soi ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Vouloir nettoyer de fond en comble votre espace épuise les ressources de volont
       Oui. Lorsque le cerveau maîtrise de micro-variables de son espace et les consigne par écrit, il libère de la dopamine préfrontale, stimulant l'auto-efficacité et apaisant l'anxiété.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ce principe s'applique-t-il au rangement numérique (e-mails, messageries) ?</span>

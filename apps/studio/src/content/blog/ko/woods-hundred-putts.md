@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "100번 연속 성공할 때까지: 타이거 우즈의 4m 퍼팅 몰입법"
 description: "골프 황제 타이거 우즈가 훈련 전 수행한 '100회 연속 퍼팅 성공' 루틴. 타협 없는 성취 경험이 어떻게 뇌에 도파민을 공급하고 극단적인 몰입을 이끄는지 알아봅니다."
 pubDate: "2026-04-01"
@@ -18,7 +19,7 @@ steps:
     text: "완벽하게 목표 도전에 성공해 쾌락 물질과 고도의 인지 긴장감이 세팅된 두뇌 상태를 이어받아, 즉시 기획안 작성 등 핵심 업무를 처리합니다."
 faqs:
   - question: "오히려 스트레스가 더 커져서 집중에 방해되면 어쩌죠?"
-    answer: "그것은 초기 도전 목표가 자신의 현재 역량보다 지나치게 어려워 뇌가 절망 호르몬을 내보내기 때문이므로, 과제의 강도를 낮추어 성공 확률을 70~80% 수준으로 조율해야 합니다."
+    answer: "그것은 초기 도전 목표가 자신의 현재 역량보다 지나치게 어려워 뇌가 절망 호르몬을 내보내기 때문이므로, 과제의 강도를 낮추어 성공 확률을 70 ~ 80% 수준으로 조율해야 합니다."
 ---
 
 "나는 마지막 100번째 퍼팅이 들어갈 때까지 연습 그린을 떠나지 않는다." ⛳
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Woods Hundred Putts 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 woods-hundred-putts 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Woods Hundred Putts 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 타협 없는 성취 경험이 가져다주는 극단적 몰입
+## 1. 타협 없는 성취 경험이 가져다주는 극단적 몰입
 
 뇌가 고도의 집중력을 요구하는 작업을 수행할 때, 가장 중요한 촉매제는 보상 예측 물질인 도파민(Dopamine)입니다. 중간에 실패 시 원점으로 돌아간다는 엄격한 규칙 아래 과제를 성공적으로 마치는 경험은 뇌의 쾌락 및 행동 제어 중추를 강렬하게 활성화합니다. 이 과정을 통해 뇌는 일시적으로 잡념을 전면 차단하고 타깃 작업에만 전력을 다하는 최적의 몰입 상태를 강제로 활성화하게 됩니다.
 
 ---
 
-## 주의사항 및 팁
-
-도파민 보상을 효과적으로 사용하려면 과제가 너무 쉽거나 지루해서는 안 되며, 반대로 성공 가능성이 지나치게 희박해서도 안 됩니다. 개인의 인지 능력에 비추어 긴장을 늦출 수 없는 적정 난이도의 도전 과제를 정하는 것이 핵심이며, 초기에 잦은 실패로 되려 짜증이 유발된다면 난이도를 조율하는 현명함이 필요합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     완벽하게 목표 도전에 성공해 쾌락 물질과 고도의 인지 긴장감이 세팅된 두뇌 상태를 이어받아, 즉시 기획안 작성 등 핵심 업무를 처리합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+도파민 보상을 효과적으로 사용하려면 과제가 너무 쉽거나 지루해서는 안 되며, 반대로 성공 가능성이 지나치게 희박해서도 안 됩니다. 개인의 인지 능력에 비추어 긴장을 늦출 수 없는 적정 난이도의 도전 과제를 정하는 것이 핵심이며, 초기에 잦은 실패로 되려 짜증이 유발된다면 난이도를 조율하는 현명함이 필요합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

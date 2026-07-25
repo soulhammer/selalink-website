@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Psicología de la vestimenta: La rutina de trabajo en traje de René Magritte"
 description: "René Magritte, el pintor surrealista que vestía un traje impecable cada día ante el caballete de su salón. Revela la 'Cognición Envestida' (Enclothed Cognition): el efecto del vestuario sobre la mente."
 pubDate: "2026-05-25"
@@ -40,14 +41,14 @@ Este post analiza cómo la rutina en traje de Magritte controla las ondas cerebr
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre magritte-suit-painting se basa en <strong>Archivos del Museo Real de Bellas Artes de Bélgica y biografías de René Magritte junto con investigaciones en Neurociencia Cognitiva y Psicología Cognitiva</strong>.
+      Este contenido se basa en <strong>Archivos del Museo Real de Bellas Artes de Bélgica y biografías de René Magritte junto con investigaciones en Neurociencia Cognitiva y Psicología Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El efecto de la Cognición Envestida y la neurociencia del control cognitivo prefrontal
+## 1. El efecto de la Cognición Envestida y la neurociencia del control cognitivo prefrontal
 
 El cerebro experimenta la <strong>Cognición Envestida</strong> (Enclothed Cognition), donde el significado simbólico y la sensación de la ropa influyen en los procesos cognitivos.
 
@@ -57,9 +58,7 @@ Esta configuración estimula el sistema de control del <strong>Córtex Prefronta
 
 ---
 
-## Regla para evitar trajes incómodos y lograr el equilibrio perfecto de vestuario de trabajo
-
-Evite usar ropa que oprima el cuerpo o cause incomodidad solo para buscar este efecto. El malestar físico envía señales de fatiga al <strong>Córtex Prefrontal</strong>, destruyendo el enfoque. Lo esencial es mantener la elegancia pero con prendas cómodas (como camisas o pantalones cómodos) que permitan trabajar horas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -91,12 +90,18 @@ Evite usar ropa que oprima el cuerpo o cause incomodidad solo para buscar este e
   </p>
 </div>
 
+---
+
+## 3. Regla para evitar trajes incómodos y lograr el equilibrio perfecto de vestuario de trabajo
+
+Evite usar ropa que oprima el cuerpo o cause incomodidad solo para buscar este efecto. El malestar físico envía señales de fatiga al <strong>Córtex Prefrontal</strong>, destruyendo el enfoque. Lo esencial es mantener la elegancia pero con prendas cómodas (como camisas o pantalones cómodos) que permitan trabajar horas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Ayuda a la cognición envestida usar calzado exclusivo o zapatillas de trabajo en casa?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -105,7 +110,7 @@ Evite usar ropa que oprima el cuerpo o cause incomodidad solo para buscar este e
       ¡Sí, produce un efecto genial! La textura firme enviada a las plantas de los pies emite una señal de 'modo actividad externa' al <strong>Córtex Somatosensorial</strong>. Esto frena el deseo de tumbarse en el sofá y actúa como interruptor corporal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Vestir bien también ayuda en trabajos creativos como la pintura o la creación de contenido?</span>

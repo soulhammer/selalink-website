@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le moment où je me suis fixé dans le miroir : La routine de réflexion visuelle de l'autoportrait de Rembrandt"
 description: "Rembrandt van Rijn a profondément observé son processus de vieillissement sur le plan visuel en peignant plus de 80 autoportraits tout au long de sa vie. Révèle les mécanismes neurologiques où la réflexion visuelle — fixer profondément ses yeux et ses rides dans le miroir — améliore l'auto-objectivation et active le réseau de régulation émotionnelle du cerveau."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ Rembrandt van Rijn, un maître peintre du Siècle d'or néerlandais souvent salu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant rembrandt-self-portrait-reflection est basée sur <strong>Biographie critique historique et récits autobiographiques sur la réflexion de l'autoportrait de Rembrandt & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographie critique historique et récits autobiographiques sur la réflexion de l'autoportrait de Rembrandt & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Auto-fixation dans le miroir et effet autoréférentiel du Cortex Préfrontal Médial (mPFC)
+## 1. Auto-fixation dans le miroir et effet autoréférentiel du Cortex Préfrontal Médial (mPFC)
 
 Fixer profondément ses propres yeux dans le miroir pendant plus de 3 minutes active fortement le 'cortex préfrontal médial (mPFC)' du cerveau. Cette région régit le traitement autoréférentiel, permettant de percevoir le 'soi pur' caché derrière le jugement des autres ou les masques sociaux (personas). L'image physique de soi entrant par le cortex visuel recalibre le modèle de prédiction émotionnelle du cerveau, apaisant les sécrétions de neurotransmetteurs de stress et servant d'outil puissant pour restaurer l'autocompassion et l'homéostasie psychologique.
 
 ---
 
-## Précautions et conseils
-
-Ce contre quoi il faut le plus se garder lors de la réflexion dans le miroir, c'est de 'juger et s'obséder' sur les défauts physiques (problèmes de peau, rides, symétrie, etc.). Commencer à évaluer les défauts du visage active à nouveau le filtre émotionnel négatif du cerveau, provoquant du stress. Comme Rembrandt, vous devez observer la lumière et l'ombre de l'ensemble du visage, l'éclat de vos yeux et le flux des expressions faciales de manière factuelle et visuelle — comme si vous regardiez la peinture d'une autre personne — pour parvenir à une véritable auto-objectivation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Ce contre quoi il faut le plus se garder lors de la réflexion dans le miroir, c
   </p>
 </div>
 
+---
+
+## 3. Précautions et conseils
+
+Ce contre quoi il faut le plus se garder lors de la réflexion dans le miroir, c'est de 'juger et s'obséder' sur les défauts physiques (problèmes de peau, rides, symétrie, etc.). Commencer à évaluer les défauts du visage active à nouveau le filtre émotionnel négatif du cerveau, provoquant du stress. Comme Rembrandt, vous devez observer la lumière et l'ombre de l'ensemble du visage, l'éclat de vos yeux et le flux des expressions faciales de manière factuelle et visuelle — comme si vous regardiez la peinture d'une autre personne — pour parvenir à une véritable auto-objectivation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Dois-je m'arrêter si je me sens bizarre ou déprimé en regardant le miroir en continu ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Ce contre quoi il faut le plus se garder lors de la réflexion dans le miroir, c
       Oui. Si la distortion de l'humeur ou les sentiments de dépression s'intensifient, vous êtes peut-être tombé dans une boucle d'autocritique, alors arrêtez immédiatement. À la place, réorientez-vous vers un entraînement qui vérifie d'abord vos sensations d'ancrage corporel (earthing) en regardant la ligne de vos épaules ou la forme de vos mains plutôt que vos prunelles.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quel est le meilleur moment de la journée pour pratiquer l'autoréflexion dans le miroir ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Melodi yang Diukir dalam Warna? Rutinitas Cat Air Pagi Hari Felix Mendelssohn"
 description: "Komponis jenius Felix Mendelssohn membangkitkan inspirasi musiknya setiap pagi dengan melukis pemandangan menggunakan cat air. Pelajari stimulasi silang ilmu saraf antara seni rupa dan musik."
 pubDate: "2026-01-20"
@@ -35,17 +36,17 @@ Dalam artikel ini, kita menjelajahi ilmu kognitif pengalihan indra (Cross-Sensor
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai mendelssohn-watercolor-sketch didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Felix Mendelssohn & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Felix Mendelssohn & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek 'Asosiasi Lintas Indrawi' yang Menghubungkan Berbagai Indera
+## 1. Efek 'Asosiasi Lintas Indrawi' yang Menghubungkan Berbagai Indera
 
 Saat kita melukis, otak melibatkannya korteks visual dan area kognisi spasial secara erat untuk memahami bentuk secara akurat. Menurut penelitian neurosains kognitif, fenomena di mana aktivasi pada satu domain indera meningkatkan kreativitas di domain indera lain disebut <strong>'Asosiasi Lintas Indrawi' (Cross-modal Association)</strong>.
 
@@ -53,9 +54,7 @@ Saat Felix Mendelssohn mengamati pemandangan setiap pagi dan mengabadikan warna 
 
 ---
 
-## Peningkatan Keterampilan Bukan Tujuan; Relaksasi Sederhana dan Penyegaran Indra Adalah Yang Terpenting
-
-Alasan kita membuat sketsa bukanlah untuk menjadi pelukis profesional. Tujuannya adalah memberikan istirahat pada lobus frontal yang lelah akibat teks, angka, dan logika, serta secara fleksibel memulihkan kekuatan koneksi saraf antar jaringan indera melalui gerakan artistik non-verbal yang memadukan visual dan taktil. Jangan khawatir tentang garis yang miring; cukup fokus pada pengalaman indrawi.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Alasan kita membuat sketsa bukanlah untuk menjadi pelukis profesional. Tujuannya
   </p>
 </div>
 
+---
+
+## 3. Peningkatan Keterampilan Bukan Tujuan; Relaksasi Sederhana dan Penyegaran Indra Adalah Yang Terpenting
+
+Alasan kita membuat sketsa bukanlah untuk menjadi pelukis profesional. Tujuannya adalah memberikan istirahat pada lobus frontal yang lelah akibat teks, angka, dan logika, serta secara fleksibel memulihkan kekuatan koneksi saraf antar jaringan indera melalui gerakan artistik non-verbal yang memadukan visual dan taktil. Jangan khawatir tentang garis yang miring; cukup fokus pada pengalaman indrawi.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah orang yang tidak bisa melukis sama sekali tetap bisa merasakan manfaat sketsa pagi hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Alasan kita membuat sketsa bukanlah untuk menjadi pelukis profesional. Tujuannya
       Tentu saja. Tujuannya bukan untuk pamer kemampuan melukis, melainkan memberikan sinyal pengamatan visual dan koordinasi motorik tangan ke otak. Meskipun komposisinya berantakan atau garisnya kaku, stimulasi area otak lintas-indera dan efek relaksasi tetap terjadi secara persis sama.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah menggambar dengan pensil atau pulpen sudah cukup untuk stimulasi lintas-indera dibanding cat air?</span>

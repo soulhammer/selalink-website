@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "《思想者》的缔造者？奥古斯特·罗丹的清晨捏泥触觉散步习惯"
 description: "现代雕塑大师奥古斯特·罗丹。为您揭秘他每天清晨手里揉着泥块散步、唤醒触觉灵感的独创感官习惯及三步践行指南。"
 pubDate: "2026-01-10"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rodin-sculpting-walk 的内容基于 <strong>奥古斯特·罗丹历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>奥古斯特·罗丹历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过刺激体感皮层激活大脑的触觉三维认知
+## 1. 通过刺激体感皮层激活大脑的触觉三维认知
 
 现代人将90%的信息获取依赖于屏幕等二维平面视觉刺激，这极易削弱大脑的三维空间感知与认知灵活性。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 关闭视线主导，完全沉浸于指尖的触觉之中
-
-对于罗丹而言，泥块在成为雕塑雕刻材料之前，首先是唤醒指尖细腻感官的“天线”。切勿试图捏出完美的形状，只需将注意力完全放在指尖所感受到的纹理与弹性上。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 关闭视线主导，完全沉浸于指尖的触觉之中
+
+对于罗丹而言，泥块在成为雕塑雕刻材料之前，首先是唤醒指尖细腻感官的“天线”。切勿试图捏出完美的形状，只需将注意力完全放在指尖所感受到的纹理与弹性上。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>有哪些现代替代品可以取代黏土？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       硅胶压力球、指间魔方（Fidget Cube）、微型卡林巴琴、光滑的木块或鹅卵石等富含触觉刺激的物品都是绝佳的替代品。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>指尖触觉刺激是如何提升创造力的？</span>

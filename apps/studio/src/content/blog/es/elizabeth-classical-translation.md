@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La 'Traducción Clásica' de Isabel I: La Rutina Matutina que Forjó el Cerebro Lógico de una Monarca"
 description: "La reina Isabel I cultivó una feroz racionalidad y lógica traduciendo clásicos latinos al inglés cada mañana. Explore la neurociencia cognitiva de la traducción para activar un control cognitivo de alto nivel."
 pubDate: "2026-01-09"
@@ -38,22 +39,20 @@ En la publicación de hoy, examinamos la neurociencia cognitiva detrás de la 't
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre elizabeth-classical-translation se basa en <strong>Verificación Histórica de la Colección *Elizabeth I: Translations* (Janel Mueller y Joshua Scodel), Biografías Históricas e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Colección *Elizabeth I: Translations* (Janel Mueller y Joshua Scodel), Biografías Históricas e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efectos Neurológicos de la Traducción Manual en la Corteza Prefrontal Dorsolateral
+## 1. Efectos Neurológicos de la Traducción Manual en la Corteza Prefrontal Dorsolateral
 
 La traducción activa no solo el procesamiento visual del lenguaje, sino intensamente la corteza prefrontal dorsolateral (dlPFC), que gobierna el control cognitivo y la alternancia de reglas lógicas. A diferencia de la lectura pasiva, descomponer estructuras semánticas de un idioma y sintetizarlas en marcos gramaticales precisos de otro actúa como un entrenamiento de alta intensidad para la función ejecutiva, equivalente a hacer funcionar una CPU al 100%. Este proceso mejora drásticamente el razonamiento analítico y la detección de errores. La rutina diaria de traducción de Isabel I sirvió como un antídoto cognitivo para filtrar el ruido emocional y anclar su cerebro en un enfoque calmo.
 
 ---
 
-## Precaución: La Traducción Automática Mecánica No Genera Beneficio Cognitivo
-
-La verificación instantánea a través de traductores de IA no estimula los circuitos neuronales prefrontales. El crecimiento cognitivo ocurre estrictamente durante el esfuerzo manual: buscar en diccionarios, descifrar raíces y reestructurar frases a mano.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La verificación instantánea a través de traductores de IA no estimula los cir
   </p>
 </div>
 
+---
+
+## 3. Precaución: La Traducción Automática Mecánica No Genera Beneficio Cognitivo
+
+La verificación instantánea a través de traductores de IA no estimula los circuitos neuronales prefrontales. El crecimiento cognitivo ocurre estrictamente durante el esfuerzo manual: buscar en diccionarios, descifrar raíces y reestructurar frases a mano.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es ineficaz verificar instantáneamente los resultados con traductores de IA?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La verificación instantánea a través de traductores de IA no estimula los cir
       Sí, absolutamente. Obtener respuestas instantáneas no ejercita la red cognitiva del cerebro. Las conexiones sinápticas prefrontales se fortalecen solo a través de la 'fricción cognitiva': el esfuerzo manual de buscar en diccionarios y ensamblar la gramática.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Esta técnica solo funciona con idiomas clásicos como el latín y el griego antiguo?</span>

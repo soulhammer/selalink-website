@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Uma câmara de silêncio que desperta memórias? A rotina de isolamento com cortiça de Marcel Proust"
 description: "Marcel Proust, autor da obra-prima 'Em Busca do Tempo Perdido'. Descubra sua rotina de controle sensorial ao revestir seu quarto com cortiça para bloquear luz e som, juntamente com seus fundamentos neurocientíficos."
 pubDate: "2026-01-29"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre proust-cork-isolation é baseada em <strong>Biografias históricas e escritos sobre Marcel Proust & pesquisa em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e escritos sobre Marcel Proust & pesquisa em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O efeito do filtro talâmico contra a sobrecarga de informação
+## 1. O efeito do filtro talâmico contra a sobrecarga de informação
 
 O <strong>Tálamo</strong>, que atua como o portal sensorial do cérebro, consome energia considerável filtrando ruídos do ambiente e luzes de telas. Essa sobrecarga esgota os recursos executivos do córtex pré-frontal, causando distração.
 
@@ -47,9 +48,7 @@ Ao criar um ambiente com isolamento de cortiça e penumbra como Proust, o céreb
 
 ---
 
-## O segredo do foco profundo através do isolamento absoluto
-
-O cerne da rotina de Proust é forçar um ambiente onde as distrações sejam impossíveis. Em locais abertos como cafés, o cérebro gasta energia processando movimentos e barulhos de fundo. Para acessar o foco e a memória profunda, bloqueie estímulos visuais e sonoros com fones com cancelamento de ruído e luz suave.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ O cerne da rotina de Proust é forçar um ambiente onde as distrações sejam im
   </p>
 </div>
 
+---
+
+## 3. O segredo do foco profundo através do isolamento absoluto
+
+O cerne da rotina de Proust é forçar um ambiente onde as distrações sejam impossíveis. Em locais abertos como cafés, o cérebro gasta energia processando movimentos e barulhos de fundo. Para acessar o foco e a memória profunda, bloqueie estímulos visuais e sonoros com fones com cancelamento de ruído e luz suave.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O silêncio absoluto não pode provocar ansiedade psicológica em algumas pessoas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ O cerne da rotina de Proust é forçar um ambiente onde as distrações sejam im
       Dependendo da pessoa, o silêncio absoluto pode causar zumbidos ou ansiedade. Nesses casos, toque um ruído rosa suave de fundo (como som de chuva ou vento). Sons da natureza relaxam o cérebro sem exigir atenção cognitiva.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Trabalhar deitado na cama é eficaz para manter o foco?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La perspective cosmique de Carl Sagan : Réinitialiser l'anxiété quotidienne grâce à la routine du « Point bleu pâle »"
 description: "Explore la pratique historique de l'astronome Carl Sagan chassant l'anxiété par un zoom-out cosmique de 3 minutes et les principes neuroscientifiques de l'« effet d'émerveillement »."
 pubDate: "2026-06-27"
@@ -35,25 +36,23 @@ Chaque jour, avant de se plonger dans ses travaux de recherche, Sagan observait 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant sagan-cosmic-perspective est basée sur <strong>Vérification des biographies historiques de Carl Sagan & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques de Carl Sagan & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi l'émerveillement cosmique apaise l'amygdale et le stress de l'ego
+## 1. Pourquoi l'émerveillement cosmique apaise l'amygdale et le stress de l'ego
 
 En neurophysiologie, on appelle cela l'<strong>« effet du petit soi (Small-Self Effect) »</strong>. Visualiser la grandeur du cosmos apaise les réponses au stress dans l'amygdale et l'insula, remplaçant les anxiétés futiles par une large perspective objective.
 
 ---
 
-## Précautions et conseils pour le changement de perspective de Sagan
-
-Ne confondez pas l'immensité cosmique avec le sentiment d'impuissance. Utilisez-la plutôt pour réaliser que les soucis qui vous pèsent sont minimes et surmontables. Plutôt que de compter sur la seule volonté, aménagez votre environnement pour déclencher naturellement cette habitude.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ne confondez pas l'immensité cosmique avec le sentiment d'impuissance. Utilisez
   </p>
 </div>
 
+---
+
+## 3. Précautions et conseils pour le changement de perspective de Sagan
+
+Ne confondez pas l'immensité cosmique avec le sentiment d'impuissance. Utilisez-la plutôt pour réaliser que les soucis qui vous pèsent sont minimes et surmontables. Plutôt que de compter sur la seule volonté, aménagez votre environnement pour déclencher naturellement cette habitude.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Cette routine est-elle efficace en cas d'anxiété avant une présentation ou une réunion importante ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ne confondez pas l'immensité cosmique avec le sentiment d'impuissance. Utilisez
       Oui ! Imaginer un zoom-out cosmique pendant 1 minute stabilise la fréquence cardiaque et réduit considérablement le trac ou l'anxiété de performance.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si je n'ai pas de photo de l'espace à disposition ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Efek Bunga Berganda dari Pengetahuan: Kebiasaan Membaca 500 Halaman Setiap Hari ala Warren Buffett dan Cadangan Kognitif"
 description: "Pelajari rahasia kesuksesan inti Warren Buffett—membaca 500 halaman setiap hari—dan temukan neurosains kognitif di balik penguatan konektivitas jaringan saraf, akumulasi cadangan kognitif, dan pengenalan pola yang dipercepat."
 pubDate: "2026-06-10"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'memba
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai buffett-reading-habit didasarkan pada <strong>Verifikasi Historis dari Biografi Alice Schroeder *The Snowball: Warren Buffett and the Business of Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Alice Schroeder *The Snowball: Warren Buffett and the Business of Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Plastisitas Otak & Peningkatan Konektivitas Substansia Alba: Neurosains Kognitif Bunga Berganda Pengetahuan
+## 1. Plastisitas Otak & Peningkatan Konektivitas Substansia Alba: Neurosains Kognitif Bunga Berganda Pengetahuan
 
 Studi neurosains mengungkapkan bahwa membaca mendalam mempercepat mielinisasi di sepanjang traktus substansia alba yang menghubungkan korteks somatosensori dan prefrontal, memaksimalkan efisiensi transmisi sinyal. Membaca teks panjang secara konstan setiap hari membangun 'Cadangan Kognitif' melalui neuroplastisitas, menahan penurunan kognitif terkait usia sekaligus mempercepat kecepatan pemrosesan untuk masukan baru yang rumit. Lebih jauh lagi, saat data yang masuk terus terintegrasi ke dalam skema memori jangka panjang yang ada, otak mencapai 'Pengenalan Pola Intuitif'—secara mudah mengidentifikasi struktur inti dalam skenario rumit dengan gesekan kognitif minimal.
 
 ---
 
-## Perhatian & Tip: Menolak Pemindaian Pasif Dangkal & Mempertahankan Konsistensi Jangka Panjang
-
-Inti dari rutinitas bunga berganda pengetahuan Buffett bukanlah pemindaian pasif yang bertujuan pada kecepatan. Membaca cepat tanpa refleksi kritis gagal merangsang pemetaan ulang saraf. Bahkan jika Anda hanya membaca 10 halaman, membaca mendalam yang mengevaluasi logika sebab-akibat secara kritis adalah hal yang paling utama. Lebih jauh lagi, daripada membaca secara berlebihan sesekali, mempertahankan kebiasaan harian menjauhkan gangguan digital untuk berfokus pada teks cetak selama bertahun-tahun adalah katalis mendasar yang memicu bunga berganda pengetahuan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Inti dari rutinitas bunga berganda pengetahuan Buffett bukanlah pemindaian pasif
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menolak Pemindaian Pasif Dangkal & Mempertahankan Konsistensi Jangka Panjang
+
+Inti dari rutinitas bunga berganda pengetahuan Buffett bukanlah pemindaian pasif yang bertujuan pada kecepatan. Membaca cepat tanpa refleksi kritis gagal merangsang pemetaan ulang saraf. Bahkan jika Anda hanya membaca 10 halaman, membaca mendalam yang mengevaluasi logika sebab-akibat secara kritis adalah hal yang paling utama. Lebih jauh lagi, daripada membaca secara berlebihan sesekali, mempertahankan kebiasaan harian menjauhkan gangguan digital untuk berfokus pada teks cetak selama bertahun-tahun adalah katalis mendasar yang memicu bunga berganda pengetahuan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah ada cara realistis bagi profesional yang sibuk untuk mencapai volume harian 500 halaman ala Warren Buffett?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Inti dari rutinitas bunga berganda pengetahuan Buffett bukanlah pemindaian pasif
       Memulai dengan 500 halaman sekaligus tidaklah praktis. Volume Buffett dibangun di atas adaptasi neuroplastik bertahun-tahun. Tujuannya bukanlah jumlah halaman mutlak, melainkan konsistensi kebiasaan kognitif—membaca secara mendalam selama 20 hingga 30 halaman setiap hari. Mendedikasikan 30 menit tepat setelah bangun tidur atau selama perjalanan akan melipatgandakan daya kognitif intelektual yang masif setelah beberapa tahun.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah e-book atau audiobook memberikan efek bunga berganda pengetahuan yang sama dengan buku kertas fisik?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Poet Who Recited Verse Aloud While Walking Mountain Paths: William Wordsworth's Walking Composition Routine"
 description: "Romantic poet William Wordsworth walked outdoors, tuning sentence breath to his walking pace to complete poetry. Explores the scientific principles of rhythm exercise and cerebellar activation awakening linguistic sense."
 pubDate: "2026-02-06"
@@ -38,14 +39,14 @@ This post explores the neurological mechanisms behind William Wordsworth's lifel
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding wordsworth-outdoor-recitation is based on <strong>Historical records from William Wordsworth biographies & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical records from William Wordsworth biographies & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergy Between Rhythmic Walking and the Articulatory Auditory Loop
+## 1. Synergy Between Rhythmic Walking and the Articulatory Auditory Loop
 
 During walking, repetitive foot strikes generate rhythmic signals that strongly activate the <strong>Cerebellum</strong>, which regulates movement loops and timing. These motor-rhythm signals synchronize with cortical language regions, physically tuning sentence prosody and stress patterns.
 
@@ -53,9 +54,7 @@ Furthermore, reciting thoughts aloud engages the brain's <strong>Phonological/Au
 
 ---
 
-## The Power of Reading Aloud
-
-Relying purely on silent writing makes it hard to feel how text sounds to a reader, resulting in dry and stiff prose. When drafting speech scripts or presentation notes, walk around in a quiet space and recite them aloud to maximize impact and flow.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Relying purely on silent writing makes it hard to feel how text sounds to a read
   </p>
 </div>
 
+---
+
+## 3. The Power of Reading Aloud
+
+Relying purely on silent writing makes it hard to feel how text sounds to a reader, resulting in dry and stiff prose. When drafting speech scripts or presentation notes, walk around in a quiet space and recite them aloud to maximize impact and flow.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How did Wordsworth's sister Dorothy record his walking poetry composition method?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Relying purely on silent writing makes it hard to feel how text sounds to a read
       In her journals, she wrote: 'William walked up and down the garden path hundreds of times this morning reciting poetry,' describing vividly how his walking speed varied in direct proportion to the tempo of his recitations.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does walking and reciting on an indoor treadmill produce the same effect?</span>

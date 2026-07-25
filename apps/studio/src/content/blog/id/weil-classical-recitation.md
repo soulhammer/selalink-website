@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rahasia Membangun Konsentrasi Sempurna: Rutinitas Membaca Teks Klasik Pagi Hari Filsuf Simone Weil"
 description: "Pelajari rutinitas membaca teks klasik Yunani Kuno pagi hari filsuf Prancis Simone Weil untuk melatih konsentrasi murni serta dampaknya pada korteks prefrontal."
 pubDate: "2026-07-11"
@@ -33,25 +34,23 @@ Dalam artikel ini, kami mengulas dasar neurosains di balik rutinitas Weil dan me
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai weil-classical-recitation didasarkan pada <strong>Catatan Biografis Historis Simone Weil & Riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Catatan Biografis Historis Simone Weil & Riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Dampak Membaca Nyaring dan Deklamasi terhadap Korteks Prefrontal
+## 1. Dampak Membaca Nyaring dan Deklamasi terhadap Korteks Prefrontal
 
 Membaca nyaring kalimat klasik dalam bahasa asing merangsang Korteks Prefrontal Dorsolateral. Berbeda dengan membaca dalam hati, membaca nyaring adalah proses multisensorik yang mengaktifkan korteks visual, motorik, dan auditori secara bersamaan, membersihkan kabut otak pagi hari.
 
 ---
 
-## Fokus pada Proses Resonansi Suara dan Teks Itu Sendiri
-
-Bagi Simone Weil, deklamasi pagi adalah meditasi aktif. Tidak harus menggunakan bahasa Yunani Kuno. Luangkan 5 menit setiap pagi untuk membaca nyaring puisi pendek atau kutipan filsafat. Memfokuskan perhatian pada getaran suara mengisi otak dengan fokus yang kuat.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Bagi Simone Weil, deklamasi pagi adalah meditasi aktif. Tidak harus menggunakan 
     Setelah selesai membaca nyaring, duduk tegak di meja, pejamkan mata, dan bernapas dalam selama 2 menit sebelum memulai tugas pertama Anda.
   </p>
 </div>
+
+---
+
+## 3. Fokus pada Proses Resonansi Suara dan Teks Itu Sendiri
+
+Bagi Simone Weil, deklamasi pagi adalah meditasi aktif. Tidak harus menggunakan bahasa Yunani Kuno. Luangkan 5 menit setiap pagi untuk membaca nyaring puisi pendek atau kutipan filsafat. Memfokuskan perhatian pada getaran suara mengisi otak dengan fokus yang kuat.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

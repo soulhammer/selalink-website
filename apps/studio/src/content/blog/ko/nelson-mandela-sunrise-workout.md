@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "넬슨 만델라의 '일출 맨몸 운동': 감옥에서도 지켜낸 신체와 정신의 방어선"
 description: "27년간의 감옥 수감 생활 속에서도 매일 아침 새벽 5시 맨몸 운동을 실천해 체력과 정신을 지킨 넬슨 만델라. 자율성과 회복탄력성을 회복하는 일출 루틴을 알아봅니다."
 pubDate: "2026-01-13"
@@ -18,7 +19,7 @@ steps:
     text: "운동을 마친 후 오늘 하루 내가 반드시 성취해야 할 우선순위를 1 ~ 2개 다짐합니다. 내 삶의 주도권이 온전히 나에게 있음을 상기하며 의지를 세웁니다."
 faqs:
   - question: "수면 시간이 부족해도 새벽 5시에 깨어나 무조건 운동하는 것이 좋을까요?"
-    answer: "신체 피로가 극심한 날에는 억지로 격렬한 운동을 하는 것보다 5~10분간의 가벼운 스트레칭과 심호흡으로 대체하는 것이 좋습니다. 만델라 루틴의 본질은 몸을 혹사하는 것이 아니라 하루의 주도권을 '나의 의지'로 시작하는 것에 있습니다."
+    answer: "신체 피로가 극심한 날에는 억지로 격렬한 운동을 하는 것보다 5 ~ 10분간의 가벼운 스트레칭과 심호흡으로 대체하는 것이 좋습니다. 만델라 루틴의 본질은 몸을 혹사하는 것이 아니라 하루의 주도권을 '나의 의지'로 시작하는 것에 있습니다."
   - question: "체력이 매우 약한 초보자는 어떻게 시작하는 것이 좋을까요?"
     answer: "팔굽혀펴기는 벽을 짚고 진행하거나 무릎을 꿇고 시작하고, 스쿼트도 의자에 앉았다 일어나는 동작으로 대체하는 등 나에게 맞는 강도로 시작해 보세요. 하루 5분, 단 1세트만으로도 자율성을 지키는 아침의 긍정적인 두뇌 루틴은 활성화됩니다."
 ---
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Nelson Mandela Sunrise Workout 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 nelson-mandela-sunrise-workout 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Nelson Mandela Sunrise Workout 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 극한의 통제 속에서 자율성을 유지하는 뇌과학
+## 1. 극한의 통제 속에서 자율성을 유지하는 뇌과학
 
 외부 환경이 완전히 통제되어 어떤 자유도 주어지지 않을 때, 뇌는 행동의 통제권을 잃었다고 판단하여 무력감(Learned Helplessness) 상태에 빠집니다. 이는 우울증과 인지 능력 저하로 연결됩니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 아침 첫 움직임이 하루의 정신을 결정합니다
-
-아침에 눈을 뜨자마자 침대에서 누워 스마트폰을 보며 수동적으로 외부 자극을 수용하지 마세요. 넬슨 만델라처럼 몸을 직접 스트레칭하고 능동적으로 움직여 뇌에 내 몸과 하루의 주도권이 나에게 있음을 알려주고 활력을 가동하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 아침 첫 움직임이 하루의 정신을 결정합니다
+
+아침에 눈을 뜨자마자 침대에서 누워 스마트폰을 보며 수동적으로 외부 자극을 수용하지 마세요. 넬슨 만델라처럼 몸을 직접 스트레칭하고 능동적으로 움직여 뇌에 내 몸과 하루의 주도권이 나에게 있음을 알려주고 활력을 가동하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>수면 시간이 부족해도 새벽 5시에 깨어나 무조건 운동하는 것이 좋을까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       신체 피로가 극심한 날에는 억지로 격렬한 운동을 하는 것보다 5 ~ 10분간의 가벼운 스트레칭과 심호흡으로 대체하는 것이 좋습니다. 만델라 루틴의 본질은 몸을 혹사하는 것이 아니라 하루의 주도권을 '나의 의지'로 시작하는 것에 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>체력이 매우 약한 초보자는 어떻게 시작하는 것이 좋을까요?</span>

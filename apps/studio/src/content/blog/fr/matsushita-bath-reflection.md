@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Fin de journée, vidage complet : La routine de réflexion au bain de Konosuke Matsushita"
 description: "La méditation en bain chaud pratiquée chaque soir par Konosuke Matsushita, le « Dieu du Management ». Analyse l'activation des nerfs parasympathiques et l'alignement du Réseau en Mode par Défaut (DMN) dans le cerveau."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous analysons la neurosciences du système nerveu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant matsushita-bath-reflection est basée sur <strong>Recherche biographique et historique sur Konosuke Matsushita & études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique et historique sur Konosuke Matsushita & études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergie entre la relaxation en eau chaude et le Réseau en Mode par Défaut
+## 1. Synergie entre la relaxation en eau chaude et le Réseau en Mode par Défaut
 
 Prendre un bain chaud augmente la température corporelle centrale et active le système parasympathique, réduisant ainsi le cortisol. Un état de relaxation préservé des stimulations extérieures stimule le Réseau en Mode par Défaut (DMN) du cerveau, favorisant des intuitions créatives. Selon les recherches en neurosciences, cette pratique apaise l'anxiété au niveau de l'amygdale et active les circuits visuo-spatiaux, améliorant considérablement les fonctions exécutives.
 
 ---
 
-## Un mot du maître sur le vidage de l'esprit
-
-Si vous souhaitez prendre des décisions éclairées, commencez par vider totalement votre esprit. Une déconnexion numérique dans la salle de bain et 15 minutes de relaxation physique et mentale constituent la voie royale. Ne comptez pas uniquement sur la volonté ; concevoir un environnement physique et des déclencheurs d'habitudes est la clé de la régularité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Si vous souhaitez prendre des décisions éclairées, commencez par vider totale
     Séchez-vous délicatement et hydratez-vous. La baisse progressive de la température corporelle favorise naturellement un sommeil réparateur.
   </p>
 </div>
+
+---
+
+## 3. Un mot du maître sur le vidage de l'esprit
+
+Si vous souhaitez prendre des décisions éclairées, commencez par vider totalement votre esprit. Une déconnexion numérique dans la salle de bain et 15 minutes de relaxation physique et mentale constituent la voie royale. Ne comptez pas uniquement sur la volonté ; concevoir un environnement physique et des déclencheurs d'habitudes est la clé de la régularité.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

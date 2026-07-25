@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "밀림 속 참호에서도 책을 든 이유: 체 게바라의 몰입 독서와 인지 재구조화"
 description: "쿠바 혁명의 영웅 체 게바라가 게릴라전이라는 극도의 스트레스 전장 속에서도 매일 두꺼운 책을 읽으며 사상을 다듬었던 루틴. 깊은 독서(Deep Reading)가 전두엽의 인지 조절 네트워크를 활성화하고 생존 스트레스를 차단하는 인지신경과학적 원리를 밝힙니다."
 pubDate: "2026-02-09"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 리 앤더슨 평전 『체 게바라 평전(Che Guevara: A Revolutionary Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 che-guevara-reading 루틴을 다룹니다.
+      본 콘텐츠는 <strong>존 리 앤더슨 평전 『체 게바라 평전(Che Guevara: A Revolutionary Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 깊은 독서(Deep Reading)에 따른 전두엽 인지 조절망 가동과 스트레스 신호 차단
+## 1. 깊은 독서(Deep Reading)에 따른 전두엽 인지 조절망 가동과 스트레스 신호 차단
 
 외부의 긴박한 생존 위협과 불확실성은 뇌의 편도체(Amygdala)를 과활성화시켜 교감 신경계의 위기 반응과 인지적 붕괴를 유발합니다. 인지신경과학 연구에 따르면, 정교하게 구조화된 장문 서적의 흐름을 능동적으로 추적하는 '깊은 독서(Deep Reading)'는 대뇌 전전두엽의 인지 조절 네트워크(Cognitive Control Network)를 집중 가동합니다. 활성화된 전전두엽은 편도체의 하향식 억제(Top-down Inhibition) 회로를 작동시켜 스트레스 호르몬(코르티솔) 유출을 즉각 감소시킵니다. 동시에 새로운 텍스트 문맥을 해석하고 인지적 셰마(Schema)를 재구성하는 과정에서 분비되는 도파민은 불안을 누르고 거시적 신념 가치를 보존하게 만드는 인지 재구조화(Cognitive Restructuring)를 달성합니다.
 
 ---
 
-## 주의사항 및 팁: 피상적 숏폼/뉴스 스캔 배제 및 언어적 주의망 자극
-
-독서 루틴의 인지 보호 효과를 거두려면 스마트폰 뉴스나 소셜 미디어 피드를 훑어보는 식의 '피상적 속독' 모드를 버려야 합니다. 시각적 스캔 위주의 피상적 정보 소비는 뇌를 계속 얕은 인지 반응 상태에 머물게 하여 전두엽 조절망을 활성화하지 못합니다. 단 두 페이지를 읽더라도 문장 뒤에 숨겨진 저자의 전제를 파악하고, 개념적 깊이를 추론하려 노력하며 뇌의 언어적 주의망(Linguistic Attention Network)을 가동해야 스트레스 방어망이 구축됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 피상적 숏폼/뉴스 스캔 배제 및 언어적 주의망 자극
+
+독서 루틴의 인지 보호 효과를 거두려면 스마트폰 뉴스나 소셜 미디어 피드를 훑어보는 식의 '피상적 속독' 모드를 버려야 합니다. 시각적 스캔 위주의 피상적 정보 소비는 뇌를 계속 얕은 인지 반응 상태에 머물게 하여 전두엽 조절망을 활성화하지 못합니다. 단 두 페이지를 읽더라도 문장 뒤에 숨겨진 저자의 전제를 파악하고, 개념적 깊이를 추론하려 노력하며 뇌의 언어적 주의망(Linguistic Attention Network)을 가동해야 스트레스 방어망이 구축됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>소설이나 에세이 같은 문학 서적을 읽어도 동일한 전두엽 인지 조절망 가동 효과가 일어나나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 가능합니다. 단, 문장 구조가 지나치게 단순하고 일차원적인 오락성 텍스트보다는, 등장인물의 복잡한 심리적 동기나 저자의 고유한 삶의 철학이 깊이 녹아 있어 독자가 인지적 추론(예: 타인의 행동 원인 추정)을 수행하도록 만드는 지적 고전 문학이어야 전두엽 인지 조절망이 강하게 가동됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>종이책 대신 태블릿 PC나 E-Ink 리더기를 사용하여 독서해도 인지 재구조화 효과가 동일한가요?</span>

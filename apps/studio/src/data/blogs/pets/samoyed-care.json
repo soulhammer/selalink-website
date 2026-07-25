@@ -509,6 +509,10 @@
           "Bulu Rontok"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/samoyed_care.png"
   }
 }

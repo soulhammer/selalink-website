@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "아이디어가 정체될 때 즉시 옆 화폭으로 스위칭한 피카소의 유연 몰입법"
 description: "입체주의를 창시한 현대 미술의 거장으로, 밤 시간대에 방해 요소를 완전히 차단한 단일 촛불 빛 속에서 창조적 불꽃을 태웠습니다."
 pubDate: "2026-02-15"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Picasso 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 picasso 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Picasso 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 성공을 자아내는 뇌과학적 원리 분석
+## 1. 성공을 자아내는 뇌과학적 원리 분석
 
 주의가 분산되기 시작했을 때 같은 종류의 복잡한 업무를 억지로 지속하면 뇌의 전두엽 인지 통제 자원이 급격히 소모되는 '주의 잔류(Attention Residue)' 고갈을 겪게 됩니다. 피카소처럼 완전히 결이 다른 2 ~ 3가지의 작업을 유연하게 스위칭(Attention Switching)하면, 이전에 쓰이던 뇌 신경 영역은 휴식을 취하고 새로운 뇌 신경망이 각성하여 피로를 최소화하며 집중력을 장시간 보존할 수 있습니다.
 
 ---
 
-## 성공적인 안착을 위한 행동과학 조언
-
-한 번에 여러 메신저 창을 띄워두고 멀티태스킹을 하라는 뜻이 아닙니다. 한 작업 블록 안에서는 철저하게 '단 하나의 과제'에만 통집중하되, 블록 간의 연계 전환을 피카소처럼 유연하게 교체하는 지혜입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 성공적인 안착을 위한 행동과학 조언
+
+한 번에 여러 메신저 창을 띄워두고 멀티태스킹을 하라는 뜻이 아닙니다. 한 작업 블록 안에서는 철저하게 '단 하나의 과제'에만 통집중하되, 블록 간의 연계 전환을 피카소처럼 유연하게 교체하는 지혜입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>과제 스위칭을 너무 유연하게 하면 오히려 일의 마무리가 지연되지 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       아닙니다. 뇌과학적으로 한 과제에 정체기가 와서 인지 마찰이 극대화되었을 때 억지로 붙잡는 것보다, 20분간 환기형 업무를 해두고 맑은 전두엽으로 복귀하는 것이 총 최종 완수 속도를 40% 이상 앞당깁니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>하루에 최대 몇 개의 과제 트랙으로 설계하는 것이 가장 적합한가요?</span>

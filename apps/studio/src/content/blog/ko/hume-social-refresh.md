@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "고독한 사유의 해독제: 데이비드 흄의 저녁 사교 및 백개먼·체스 루틴과 정서 이완"
 description: "현대 인지과학의 모태가 된 철학자 데이비드 흄은 낮에는 치열하게 사유하고 저녁에는 사람들과 식사하며 백개먼과 체스를 즐겼습니다. 옥시토신과 세로토닌 분비를 유도하고 뇌의 인지 과부하를 막는 흄의 소셜 리셋 루틴을 배웁니다."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>데이비드 흄 저작집 『인간지성론(A Treatise of Human Nature, 1739)』, 자서전 『나의 생애(My Own Life)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 hume-social-refresh 루틴을 다룹니다.
+      본 콘텐츠는 <strong>데이비드 흄 저작집 『인간지성론(A Treatise of Human Nature, 1739)』, 자서전 『나의 생애(My Own Life)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 옥시토신·세로토닌 분비와 전두엽 인지 과부하 해소
+## 1. 옥시토신·세로토닌 분비와 전두엽 인지 과부하 해소
 
 낮 동안 한정된 <strong>전두엽(Prefrontal Cortex)</strong>의 인지 에너지를 고갈시킨 후 저녁에도 문제 해결이나 집착을 유지하면 뇌는 만성 스트레스 상태에 놓입니다. 친구들과 함께 식사하며 대화하는 유쾌한 사회적 소통은 행복 호르몬인 <strong>세로토닌(Serotonin)</strong>과 <strong>옥시토신(Oxytocin)</strong> 분비를 도와 <strong>편도체(Amygdala)</strong>의 스트레스 반응을 즉각 잠재웁니다. 또한 체스나 보드게임처럼 가볍게 규칙에 집중하는 유희적 활동은 <strong>디폴트 모드 네트워크(Default Mode Network, DMN)</strong>를 유기적으로 작동시켜 머릿속에 축적된 사유의 조각들을 정돈하고 다음 날의 명료한 집행 기능을 촉진합니다.
 
 ---
 
-## 비즈니스 및 논쟁적 대화를 배제하고 정서적 이완에 집중하는 수칙
-
-흄이 실천한 저녁 사교의 취지는 뇌의 스트레스 해소와 정서적 이완입니다. 모임 자리에서 과도한 비즈니스 대화나 심각한 사상적 논쟁을 이어간다면 전두엽은 또다시 혹사당하고 인지 과부하가 심해집니다. 가벼운 유머와 유희적인 대화로 모임을 채우는 것이 뇌과학적인 이완 환경 조성의 기본입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 비즈니스 및 논쟁적 대화를 배제하고 정서적 이완에 집중하는 수칙
+
+흄이 실천한 저녁 사교의 취지는 뇌의 스트레스 해소와 정서적 이완입니다. 모임 자리에서 과도한 비즈니스 대화나 심각한 사상적 논쟁을 이어간다면 전두엽은 또다시 혹사당하고 인지 과부하가 심해집니다. 가벼운 유머와 유희적인 대화로 모임을 채우는 것이 뇌과학적인 이완 환경 조성의 기본입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>만약 저녁에 오프라인으로 만날 사람이 없다면 어떻게 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       전화 통화나 가벼운 온라인 커뮤니티 게임도 대안이 될 수 있습니다. 중요한 것은 인지적 긴장이 풀린 상태에서 따뜻하고 재미있는 사회적 피드백을 주고받는 경험입니다. 다만, SNS 피드를 수동적으로 읽기만 하는 것은 뇌의 피로를 가중시키므로 피해야 합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>체스를 잘 못 두는데 바둑이나 장기 등 다른 보드게임이어도 괜찮을까요?</span>

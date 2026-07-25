@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "꿈의 잔상에서 건진 명곡: 폴 매카트니의 잠재의식 즉시 기록 습관"
 description: "비틀즈의 명곡 'Yesterday'를 아침 기상 직후 꿈의 기억에서 건져 올린 폴 매카트니. 전두엽의 검열이 걷힌 반수면 상태(Hypnagogia)의 분산 모드 뇌를 활용해 창조성을 포착하는 비법을 공유합니다."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>폴 매카트니 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mccartney-dream-melody-capture 루틴을 다룹니다.
+      본 콘텐츠는 <strong>폴 매카트니 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 반수면 상태(Hypnagogia)와 뇌의 분산 모드(Diffuse Mode)
+## 1. 반수면 상태(Hypnagogia)와 뇌의 분산 모드(Diffuse Mode)
 
 인간이 잠에서 깬 직후 수 분 동안은 의식적인 제어와 논리를 담당하는 배외측 전두엽 피질(DLPFC)이 완벽히 가동되지 않는 '반수면 상태(Hypnagogia)'에 머뭅니다. 이 상태의 대뇌는 이성적인 필터와 편집증적인 자가 검열이 느슨하게 해제되어 있어, 잠재의식에 흩어져 있던 다양한 기억과 청각 데이터들이 거침없이 섞이는 분산 모드(Diffuse Mode)에 들어갑니다. 하지만 각성으로 진입하는 순간 뇌의 작동 모드가 집중 모드(Focused Mode)로 전환되고 단기 기억이 포맷되면서 잠재의식의 영감은 영구 소실됩니다. 기상 직후 30초 내에 물리적 도구로 이를 기록해야 영감의 소실을 차단할 수 있습니다.
 
 ---
 
-## 주의사항 및 팁
-
-이 영감 포착 습관을 실행할 때 가장 주의해야 할 행동은 잠에서 깨자마자 스마트폰으로 소셜 미디어를 확인하거나 뉴스 메일을 읽는 것입니다. 외부의 자극적이고 정리된 정보가 시각 피질과 작업 기억을 강제로 지배하면, 뇌는 순간적으로 고도의 인지 긴장 모드에 돌입하여 잠재의식의 옅은 신경 회로(꿈의 기억)를 완전히 포맷해 버립니다. 따라서 뇌가 자연스럽게 반수면 모드를 서서히 이행하도록 침실 안에는 아날로그 펜과 종이 노트만을 가까이 두는 것이 좋습니다. 기상 후 최소 3분간은 외부 미디어와의 접촉을 차단하고 뇌 속의 고유 데이터 유출에 집중해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     적는 동안 '이것이 논리적으로 말이 되는가?', '이상한 이야기인가?' 등의 자기 평가를 완벽하게 배제합니다. 오직 가공되지 않은 잠재의식의 생 데이터를 종이에 쏟아내는 데 집중하고, 분석과 논리 정제는 오후 시간대에 실행합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+이 영감 포착 습관을 실행할 때 가장 주의해야 할 행동은 잠에서 깨자마자 스마트폰으로 소셜 미디어를 확인하거나 뉴스 메일을 읽는 것입니다. 외부의 자극적이고 정리된 정보가 시각 피질과 작업 기억을 강제로 지배하면, 뇌는 순간적으로 고도의 인지 긴장 모드에 돌입하여 잠재의식의 옅은 신경 회로(꿈의 기억)를 완전히 포맷해 버립니다. 따라서 뇌가 자연스럽게 반수면 모드를 서서히 이행하도록 침실 안에는 아날로그 펜과 종이 노트만을 가까이 두는 것이 좋습니다. 기상 후 최소 3분간은 외부 미디어와의 접촉을 차단하고 뇌 속의 고유 데이터 유출에 집중해야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

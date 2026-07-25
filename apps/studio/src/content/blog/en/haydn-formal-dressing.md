@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Composing in a Full Suit at Home?: The Father of the Symphony Joseph Haydn's 'Enclothed Cognition' Routine and Focus Switch"
 description: "Discover why composer Joseph Haydn wore a formal suit and powdered wig before composing. Learn how clothing boosts focus and productivity through the science of 'Enclothed Cognition' and Embodied Cognition."
 pubDate: "2026-04-04"
@@ -38,22 +39,20 @@ In today's post, we examine the brain science of 'Enclothed Cognition' underlyin
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding haydn-formal-dressing is based on <strong>Historical Verification from Joseph Haydn Biographies (Dies & Griesinger), Esterházy Palace Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Joseph Haydn Biographies (Dies & Griesinger), Esterházy Palace Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Embodied Cognition and the Brain Science of 'Enclothed Cognition'
+## 1. Embodied Cognition and the Brain Science of 'Enclothed Cognition'
 
 According to the <strong>Embodied Cognition</strong> framework in cognitive psychology, high-level abstract thought and prefrontal executive functions are deeply tied to the physical state of the body, including the garments worn. Research by Hajo Adam and Adam Galinsky introduced the concept of <strong>'Enclothed Cognition'</strong>—the phenomenon where wearing clothes carrying specific symbolic meaning and formal structure triggers systemic improvements in selective attention and error-monitoring accuracy. By dressing in formal attire, Haydn sent an explicit cognitive anchoring signal to his prefrontal cortex: 'It is time to engage supreme creativity and executive focus', seamlessly transitioning his brain from rest to high-performance execution mode.
 
 ---
 
-## Caution: Protocol for Separating Rest Mode from Focus Mode via Enclothed Cognition
-
-To Joseph Haydn, donning court dress was an act of artistic reverence and a neurological focus switch. Working from home or studying while wearing pajamas or loose loungewear misleads the brain into assuming a 'rest state', sharply depressing prefrontal arousal. The core secret is physically changing into neat, structured work clothes to awaken executive function.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ To Joseph Haydn, donning court dress was an act of artistic reverence and a neur
   </p>
 </div>
 
+---
+
+## 3. Caution: Protocol for Separating Rest Mode from Focus Mode via Enclothed Cognition
+
+To Joseph Haydn, donning court dress was an act of artistic reverence and a neurological focus switch. Working from home or studying while wearing pajamas or loose loungewear misleads the brain into assuming a 'rest state', sharply depressing prefrontal arousal. The core secret is physically changing into neat, structured work clothes to awaken executive function.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Did Joseph Haydn truly dress in full court attire even when composing alone at home?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ To Joseph Haydn, donning court dress was an act of artistic reverence and a neur
       Yes, absolutely. Historical biographies by Dies confirm that Haydn refused to sit at his keyboard or manuscript desk without wearing full court attire, powdered wig, and his royal ring. He maintained that unkempt clothing bred unkempt musical thoughts, using attire to set his brain into a state of focus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does work-from-home attire need to be a rigid formal suit, or are comfortable street clothes effective?</span>

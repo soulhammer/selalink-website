@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le salut de l'humanité repêché dans la poubelle : La méthode d'observation de l'échec et la routine de découverte d'Alexandre Fleming"
 description: "Découvrez comment Alexander Fleming, l'inventeur de la pénicilline, a changé l'histoire de la médecine en observant une boîte de Petri contaminée au lieu de la jeter. Explorez la neuroscience de la fixation cognitive et de la pensée divergente."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant fleming-petridish-observation est basée sur <strong>Vérification Historique issue de l'ouvrage d'André Maurois *The Life of Sir Alexander Fleming*, des archives du Nobel & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'ouvrage d'André Maurois *The Life of Sir Alexander Fleming*, des archives du Nobel & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Comment la pensée divergente brise la fixation cognitive et libère la sérendipité
+## 1. Comment la pensée divergente brise la fixation cognitive et libère la sérendipité
 
 Le cerveau humain tend à filtrer les anomalies en les considérant comme du bruit afin d'économiser de l'énergie, un phénomène appelé <strong>Fixation Cognitive</strong>. C'est pourquoi les chercheurs jetaient les boîtes contaminées sans réfléchir. Examiner intentionnellement les « échecs » comme Fleming active le <strong>Réseau d'Attention Frontopariétal</strong>, réinitialisant les filtres cognitifs. Explorer à nouveau les détails ignorés plonge le cerveau dans la <strong>Pensée Divergente</strong>, révélant des opportunités inattendues.
 
 ---
 
-## Mise en garde : Capturer les indices au cœur des traces d'échecs et d'erreurs
-
-Face a l'échec ou aux erreurs, la réaction naturelle est d'effacer rapidement l'événement pour éviter le stress. Cependant, comme l'a prouvé la boîte de Pétri de Fleming, les révolutions scientifiques naissent rarement de succès lisses ; elles se nichent dans les anomalies imprévues. Accorder du temps a l'observation de l'échec libère la véritable créativité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Face a l'échec ou aux erreurs, la réaction naturelle est d'effacer rapidement 
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Capturer les indices au cœur des traces d'échecs et d'erreurs
+
+Face a l'échec ou aux erreurs, la réaction naturelle est d'effacer rapidement l'événement pour éviter le stress. Cependant, comme l'a prouvé la boîte de Pétri de Fleming, les révolutions scientifiques naissent rarement de succès lisses ; elles se nichent dans les anomalies imprévues. Accorder du temps a l'observation de l'échec libère la véritable créativité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Analyser ses échecs ne risque-t-il pas d'accentuer la frustration mentale ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Face a l'échec ou aux erreurs, la réaction naturelle est d'effacer rapidement 
       Tenter d'ignorer les erreurs prolonge l'anxiété. Au contraire, consigner des faits objectifs sur les causes de l'échec indique au cerveau que vous avez repris le « contrôle », apaisant le stress et stimulant la motivation.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe-t-il des exercices d'entraînement cérébral pour favoriser la sérendipité ?</span>

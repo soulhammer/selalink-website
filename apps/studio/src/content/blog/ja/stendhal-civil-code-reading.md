@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "脳を冷やす乾燥した予熱：スタンダールのフランス民法典読書習慣"
 description: "華麗な修辞を排し、人間心理の本質を解剖するように描いた写実主義文学の巨匠スタンダール。執筆前に毎日フランス民法典を読み、脳の客観性と論理性を最高潮に設定した認知的な予熱習慣を分析します。"
 pubDate: "2026-02-08"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「stendhal-civil-code-reading」は <strong>スタンダール民法典読書の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>スタンダール民法典読書の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 言語的プライミング効果と感傷的認知の遮断
+## 1. 言語的プライミング効果と感傷的認知の遮断
 
 認知科学のプライミング効果（Priming Effect）によれば、脳は特定の性質の情報に先に露出すると、その後の認知作業で同様のパターンを無意識に活性化します。スタンダールが執筆直前に民法典の硬く事実に基づいた文章を読んだのは、大脳の言語調節領域を客観性および論理性を志向するモードに設定したことと同じです。この刺激は大脳が主観的な感傷や不要な修辞を自発的に抑制（Cognitive Inhibition）するように促し、ファクトと論理構造を骨組みとする明瞭な執筆を支えます。
 
 ---
 
-## 注意事項およびヒント
-
-この習慣を適用する際の注意点は、乾燥したテキストを読みながら内容の複雑な利害関係に没頭しすぎないことです。法典の条項を読みながら複雑な判例分析や法理的解釈に深く入り込むと、前頭葉の認知資源が執筆前に枯渇（Cognitive Depletion）するリスクがあります。このルーティンの本質は法律知識の習得ではなく、文章構造の簡潔さと明瞭な単語の組み合わせの規則性を視覚的に認識することにあります。したがって、内容を深く悩まず、無駄のない形式と短いリズム自体を軽くスキャンするように読むことが重要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     10分間の読書が終わったら、他の雑念が入ったりスマートフォンを見たりする前に本を閉じ、すぐに自分が作成すべき原稿や企画書を執筆します。法典の乾いた呼吸が脳にプライミングされた状態を維持しながら、文章を迷いなく書き進めます。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびヒント
+
+この習慣を適用する際の注意点は、乾燥したテキストを読みながら内容の複雑な利害関係に没頭しすぎないことです。法典の条項を読みながら複雑な判例分析や法理的解釈に深く入り込むと、前頭葉の認知資源が執筆前に枯渇（Cognitive Depletion）するリスクがあります。このルーティンの本質は法律知識の習得ではなく、文章構造の簡潔さと明瞭な単語の組み合わせの規則性を視覚的に認識することにあります。したがって、内容を深く悩まず、無駄のない形式と短いリズム自体を軽くスキャンするように読むことが重要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

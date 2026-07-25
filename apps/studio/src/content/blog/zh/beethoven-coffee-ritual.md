@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "60粒咖啡豆的精密：贝多芬的晨间咖啡仪式与正念"
 description: "探索跨越时代的伟大作曲家路德维希·凡·贝多芬每天清晨精准数出60粒咖啡豆冲泡咖啡的独特习惯，并揭示微细感官控制如何稳定预设模式网络（DMN）并开启大脑专注开关的神经科学原理。"
 pubDate: "2026-05-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 beethoven-coffee-ritual 的内容基于 <strong>安东·辛德勒传记《贝多芬传（Biography of Ludwig van Beethoven）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>安东·辛德勒传记《贝多芬传（Biography of Ludwig van Beethoven）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过微细感官专注抑制DMN过度激活与认知框架构建
+## 1. 通过微细感官专注抑制DMN过度激活与认知框架构建
 
 清晨刚起床时，大脑常常通过回忆昨天的烦恼或今天的任务过度激活“预设模式网络（DMN）”，从而浪费认知能量并加剧焦虑。此时，用指尖感受小巧圆润的咖啡豆触感并逐一数数的精细动作（Fine Motor Task），是一项绝佳的正念（Mindfulness）训练，能够强行将大脑的注意力转移至“当下感官”。这能压制DMN漫游的杂念，唤醒感官皮层与执行控制网络。此外，每天重复相同动作犹如一个强大的认知触发器（Cognitive Trigger），向大脑发出“即将进入高阶创作模式”的信号。
 
 ---
 
-## 注意事项与提示：保持精细的模拟感官体验
-
-在执行晨间仪式时，用手机查看新闻或社交媒体，或者仅按下自动化家电按钮，都会阻碍大脑维持正念状态。请完全沉浸于模拟感官刺激中（如手部的细微触感、器具的质感、香气与声音），如此才能顺畅地实现大脑的认知同步。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：保持精细的模拟感官体验
+
+在执行晨间仪式时，用手机查看新闻或社交媒体，或者仅按下自动化家电按钮，都会阻碍大脑维持正念状态。请完全沉浸于模拟感官刺激中（如手部的细微触感、器具的质感、香气与声音），如此才能顺畅地实现大脑的认知同步。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>贝多芬为何偏偏要坚持精准数出60粒咖啡豆？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       “60粒”这一定量标准固然有通过精准量化来把控咖啡风味的考量，但精准数数的行为本身更像是一个认知触发器，能够切断无用的杂念，激活大脑的高阶执行控制网络。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>不喝咖啡的人也能应用这项正念习惯吗？</span>

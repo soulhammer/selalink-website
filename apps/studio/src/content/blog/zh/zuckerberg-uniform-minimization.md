@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "管理决策疲劳：马克·扎克伯格的单一制服习惯"
 description: "马克·扎克伯格通过每天穿完全相同的T恤和牛仔裤这一简单的制服习惯来减少决策疲劳。本文探究防止“自我损耗”（大脑有限的能量资源）并专注于核心决策的科学原理。"
 pubDate: "2026-06-12"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 zuckerberg-uniform-minimization 的内容基于 <strong>扎克伯格单一制服历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>扎克伯格单一制服历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 保护大脑有限的葡萄糖资源与预防自我损耗
+## 1. 保护大脑有限的葡萄糖资源与预防自我损耗
 
 大脑前额叶皮层（Prefrontal Cortex）在进行决策时所使用的能量是有限的。随着决策的不断累积，脑细胞会消耗葡萄糖和氧气，导致执行控制力下降，即出现“自我损耗”（Ego Depletion）现象。“今天早上穿什么？”、“中午吃什么？”等琐碎的选择也会侵蚀大脑的执行功能预算。像扎克伯格那样将日常附带流程自动化和单一制服化，前额叶皮层就能最佳地保护用于核心商业决策和长期战略制定的葡萄糖预算，大幅提升各项决策的质量与可靠性。
 
 ---
 
-## 注意事项与提示
-
-在实行制服化习惯时容易犯的错误是过度在意服装一致性带来的形象或他人的眼光并为此感到压力。如果开始执着于时尚风格或审美方面的完美，这本身又会成为大脑新的心理负担，不仅无法消除决策疲劳，反而会加重疲劳。因此，最核心的要领在于将服装简化为“让自己感觉最舒适且完全无需操心的简单风格”，使大脑从外界评价中彻底解放出来。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示
+
+在实行制服化习惯时容易犯的错误是过度在意服装一致性带来的形象或他人的眼光并为此感到压力。如果开始执着于时尚风格或审美方面的完美，这本身又会成为大脑新的心理负担，不仅无法消除决策疲劳，反而会加重疲劳。因此，最核心的要领在于将服装简化为“让自己感觉最舒适且完全无需操心的简单风格”，使大脑从外界评价中彻底解放出来。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果每天穿相同的衣服，遇到重要会议或正式场合该如何处理？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       扎克伯格在出席正式活动或董事会时也会穿西装。制服化的核心在于消除琐碎的抉择，因此预先指定一套用于正式场合的正装组合，届时无需思考直接穿着，便能有效防止决策疲劳。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>可以用T恤和牛仔裤以外的其他服装来组成制服吗？</span>

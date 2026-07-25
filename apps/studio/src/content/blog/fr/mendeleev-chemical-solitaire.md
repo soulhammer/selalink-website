@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le solitaire des éléments : La routine de tri de cartes chimiques de Mendeleïev"
 description: "Dmitri Mendeleïev a conçu le Tableau périodique en organisant des cartes portant les propriétés des éléments comme une partie de solitaire. Découvrez comment la manipulation spatiale stimule les réseaux cérébraux du cerveau."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ Dans cet article, nous décortiquons les bénéfices neuroscientifiques du solit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant mendeleev-chemical-solitaire est basée sur <strong>Études des biographies historiques et récits autobiographiques de Mendeleïev & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Études des biographies historiques et récits autobiographiques de Mendeleïev & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi la disposition spatiale et la manipulation physique stimulent la détection de motifs
+## 1. Pourquoi la disposition spatiale et la manipulation physique stimulent la détection de motifs
 
 Le texte plat sur écran est traité comme une information en deux dimensions, ce qui crée un verrou analytique. À l'inverse, découper l'information sur des cartes distinctes et les trier dans l'espace active le lobe pariétal. Grâce au toucher et au retour visuel en 3D, le cerveau perçoit les distances relatives entre les idées, permettant d'identifier des motifs complexes invisibles à la simple lecture.
 
 ---
 
-## Précautions et conseils
-
-Évitez de surcharger une seule carte de détails ; cela réduirait l'outil à un document dense, annulant le bénéfice du tri spatial. Inscrivez un seul mot-clé par carte pour maximiser la mémoire visuo-spatiale du cerveau. Limitez l'ensemble à 10 ou 20 cartes à la fois pour garder une vue d'ensemble.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Le texte plat sur écran est traité comme une information en deux dimensions, c
     Dès qu'une disposition logique et intuitive apparaît, prenez une photo avec votre smartphone pour synchroniser cette matrice physique avec votre mémoire.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Évitez de surcharger une seule carte de détails ; cela réduirait l'outil à un document dense, annulant le bénéfice du tri spatial. Inscrivez un seul mot-clé par carte pour maximiser la mémoire visuo-spatiale du cerveau. Limitez l'ensemble à 10 ou 20 cartes à la fois pour garder une vue d'ensemble.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

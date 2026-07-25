@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Balayer la poussière de l'esprit : La routine matinale de balayage du jardin de Sen no Rikyu"
 description: "Une anecdote du grand maître de thé Sen no Rikyu purifiant son esprit en balayant le jardin. Explique les principes des sciences cognitives de la méditation kinesthésique qui éliminent le bruit cognitif cérébral grâce à des mouvements répétitifs simples."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ Cet article analyse le lien scientifique entre l'activité physique répétitive
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant rikyu-garden-sweeping est basée sur <strong>Biographie critique historique et récits autobiographiques sur le balayage du jardin de Rikyu & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographie critique historique et récits autobiographiques sur le balayage du jardin de Rikyu & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Effet d'ancrage des sons de balai et bruit cognitif cérébral
+## 1. Effet d'ancrage des sons de balai et bruit cognitif cérébral
 
 Un balayage rythmé fournit un retour physique immédiat et simple au cerveau, ancrant l'attention dans le présent. Cette focalisation sensorielle stabilise efficacement les signaux de bruit cognitif dans le cortex cérébral qui favorisent l'anxiété et la distraction. Selon les recherches neuroscientifiques, cette action supprime les réponses d'anxiété inutiles dans l'amygdale et active les circuits du calpin visuo-spatial, améliorant considérablement la fonction exécutive à long terme.
 
 ---
 
-## Conseil du grand maître de thé pour vider la poussière de l'esprit
-
-La vraie poussière à balayer est dans l'esprit, pas sur le sol. Offrez à votre cerveau sérénité et espace chaque matin grâce à une légère activité physique répétitive. Ne comptez pas uniquement sur la volonté ; concevoir à l'avance un environnement physique et des déclencheurs d'habitudes qui provoquent naturellement l'action est la clé de la durabilité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ La vraie poussière à balayer est dans l'esprit, pas sur le sol. Offrez à votr
     Après avoir terminé 5 minutes d'activité, observez en silence la zone rangée ainsi que ses subtiles imperfections naturelles, en savourant la quiétude intérieure.
   </p>
 </div>
+
+---
+
+## 3. Conseil du grand maître de thé pour vider la poussière de l'esprit
+
+La vraie poussière à balayer est dans l'esprit, pas sur le sol. Offrez à votre cerveau sérénité et espace chaque matin grâce à une légère activité physique répétitive. Ne comptez pas uniquement sur la volonté ; concevoir à l'avance un environnement physique et des déclencheurs d'habitudes qui provoquent naturellement l'action est la clé de la durabilité.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

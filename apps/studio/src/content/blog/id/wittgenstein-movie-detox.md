@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mendinginkan Otak yang Terlalu Panas: Rutinitas Detox Film Koboi Ludwig Wittgenstein"
 description: "Ludwig Wittgenstein menikmati film koboi di barisan paling depan bioskop untuk mereset otaknya yang terlalu panas saat menantang batas filsafat analitik. Mengulas mekanisme perendaman visual paksa yang mematikan beban prafrontal."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Artikel ini menganalisis rutinitas detox film koboi Wittgenstein dan memberikan 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai wittgenstein-movie-detox didasarkan pada <strong>Rekam sejarah biografi Ludwig Wittgenstein & penelitian neurosains kognitif</strong>.
+      Konten ini didasarkan pada <strong>Rekam sejarah biografi Ludwig Wittgenstein & penelitian neurosains kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reset Sirkuit Otak dan Inkubasi Melalui Pengalihan Perhatian Paksa
+## 1. Reset Sirkuit Otak dan Inkubasi Melalui Pengalihan Perhatian Paksa
 
 Saat korteks prafrontal berfokus pada masalah rumit terlalu lama, ia mengalami kelelahan kognitif. Mencoba istirahat pasif memicu ruminasi tak sadar. Rutinitas bioskop Wittgenstein mencapai 'pengalihan perhatian paksa'. Dengan menyerap indera pada layar dinamis yang sederhana, sirkuit analitis prafrontal mati, mengaktifkan Default Mode Network (DMN) untuk menginkubasi solusi masalah.
 
 ---
 
-## Peringatan dan Tips
-
-Hindari film thriller rumit, film seni tinggi, atau tragedi berat saat memilih media detox otak. Media yang memerlukan analisis alur cerita justru menguras energi kognitif. Pilih konten sederhana seperti film aksi ringan atau dokumenter alam.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Hindari film thriller rumit, film seni tinggi, atau tragedi berat saat memilih m
     Tanpa perlu menilai alur cerita, biarkan pandangan mengikuti gambar bergerak selama 30–60 menit untuk mereset otak, lalu segera tidur.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Hindari film thriller rumit, film seni tinggi, atau tragedi berat saat memilih media detox otak. Media yang memerlukan analisis alur cerita justru menguras energi kognitif. Pilih konten sederhana seperti film aksi ringan atau dokumenter alam.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Umweltblockade für Fokus: Maya Angelous Hotel-Isolationsroutine"
 description: "Die legendäre Dichterin und Aktivistin Maya Angelou schrieb ausschließlich in reizfreien, leeren Hotelzimmern, um ihre Konzentration zu maximieren. Erkunden Sie die neurowissenschaftlichen Prinzipien der Umweltreizsteuerung."
 pubDate: "2026-03-21"
@@ -33,25 +34,23 @@ Im heutigen Beitrag analysieren wir die neurowissenschaftlichen Prinzipien der U
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu angelou-hotel-isolation basiert auf <strong>Historische Überprüfung aus Maya Angelous autobiografischen Aufzeichnungen, Mason Curreys *Daily Rituals* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Maya Angelous autobiografischen Aufzeichnungen, Mason Curreys *Daily Rituals* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Steuerung visueller Reize und Erhaltung der präfrontalen kognitiven Energie
+## 1. Steuerung visueller Reize und Erhaltung der präfrontalen kognitiven Energie
 
 Selbst ohne klares Bewusstsein scannt das menschliche Gehirn ständig visuelle und akustische Reize in der Umgebung und verbraucht dabei kognitive Energie. Das Sichern eines dedizierten, minimalistischen Isolationsraums reduziert Umweltreize drastisch und bewahrt die Energie des Präfrontalkortex vollständig für das Vertiefen in die Aufgabe.
 
 ---
 
-## Neurowissenschaftlicher Rat für erfolgreiche Umwelt-Fokus-Gewohnheiten
-
-Es ist schwer, Ablenkungen allein durch Willenskraft zu überwinden. Wahre Vertiefung entsteht aus der vorherigen Gestaltung einer physischen Raumumgebung, in der Versuchungen keinen Nährboden finden. Räumen Sie Ihren Schreibtisch auf und isolieren Sie elektronische Geräte, um eine Umgebung zu schaffen, in der Ihrem Gehirn nichts anderes übrig bleibt, als sich zu konzentrieren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Es ist schwer, Ablenkungen allein durch Willenskraft zu überwinden. Wahre Verti
     Legen Sie klare Zeiten für das Betreten und Verlassen der Fokuszone fest. Wenn die festgelegte Schreib- oder Arbeitszeit endet, stehen Sie vollständig von Ihrem Platz auf, um eine psychologische Grenzlinie zwischen Arbeit und Pause zu ziehen.
   </p>
 </div>
+
+---
+
+## 3. Neurowissenschaftlicher Rat für erfolgreiche Umwelt-Fokus-Gewohnheiten
+
+Es ist schwer, Ablenkungen allein durch Willenskraft zu überwinden. Wahre Vertiefung entsteht aus der vorherigen Gestaltung einer physischen Raumumgebung, in der Versuchungen keinen Nährboden finden. Räumen Sie Ihren Schreibtisch auf und isolieren Sie elektronische Geräte, um eine Umgebung zu schaffen, in der Ihrem Gehirn nichts anderes übrig bleibt, als sich zu konzentrieren.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

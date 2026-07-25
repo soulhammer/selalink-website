@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ガリレオの揺れスケッチ：空間認知力を刺激して複雑な構造を単純化する方法と視空間スケッチパッドルーティン"
 description: "現代科学の父ガリレオ・ガリレイが、揺れる振り子とランプを観察しながら幾何学的スケッチで複雑な物理公式の直感を形成した秘密を解き明かします。視空間スケッチパッドの刺激と二重符号化理論の脳科学的原理を dynamic に探求します。"
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「galileo-vibration-sketch」は <strong>ガリレオ・ガリレイ著作集『新科学対話（Two New Sciences）』および『偽金鑑識官（Il Saggiatore）』、ピサ大学史料考証＆認知神経科学（Cognitive Neuroscience）</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ガリレオ・ガリレイ著作集『新科学対話（Two New Sciences）』および『偽金鑑識官（Il Saggiatore）』、ピサ大学史料考証＆認知神経科学（Cognitive Neuroscience）</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 視空間スケッチパッド刺激と二重符号化の脳科学
+## 1. 視空間スケッチパッド刺激と二重符号化の脳科学
 
 抽象的なアイデアを幾何学的な図形としてスケッチする過程は、大脳<strong>頭頂葉と後頭葉</strong>の視空間情報処理の中心地である<strong>視空間スケッチパッド（Visuospatial Sketchpad）</strong>を強力に刺激します。視覚的イメージとテキストを同時に活用する<strong>二重符号化理論（Dual-Coding Theory）</strong>は、脳内に堅固な精神的モデルを形成し、前頭葉の認知負荷を大幅に軽減します。関係間の距離やフローを紙に描いて構造化することにより、テキストだけでは気づきにくい論理的エラーを識別し、単純で明快な解決策を見出すことができます。
 
 ---
 
-## 注意事項：芸術的美化より構造的単純性に集中するルール
-
-絵を華やかで精密に描く芸術的な描写に時間を浪費してはなりません。ガリレオのスケッチのように本質的な「構造の表現」に忠実でなければなりません。単純な円、長方形、線、矢印を使用して、フローや相関関係を素早く図式化することに焦点を当ててください。きれいに描こうとすると、かえって論理に使われるべきエネルギーが消費されてしまいます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：芸術的美化より構造的単純性に集中するルール
+
+絵を華やかで精密に描く芸術的な描写に時間を浪費してはなりません。ガリレオのスケッチのように本質的な「構造の表現」に忠実でなければなりません。単純な円、長方形、線、矢印を使用して、フローや相関関係を素早く図式化することに焦点を当ててください。きれいに描こうとすると、かえって論理に使われるべきエネルギーが消費されてしまいます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>絵の才能が全くなくても幾何学的スケッチルーティンを実践できますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、完璧に実践できます！このルーティンは精巧な絵を描く美術ではなく、円、長方形、線、矢印という4つの基本幾何学要素で思考の構造を可視化する認知訓練です。大雑把に描いた図式であっても、脳の視空間スケッチパッドを活性化させるのに十分です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>デジタルドローイングアプリ（タブレット）を使用してスケッチしても同じ効果がありますか？</span>

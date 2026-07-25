@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "威廉·哈维的血液循环定量验证法：借客观数据计算推翻盲目成见"
 description: "探索17世纪英国医师威廉·哈维如何通过心搏输出量的数学定量计算，彻底砸碎统治西方长达2000年的盲目教条。揭示数值校验的历史真相与顶叶激活的神经科学原理。"
 pubDate: "2026-03-14"
@@ -37,25 +38,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 harvey-blood-circulation 的内容基于 <strong>威廉·哈维著作集《论动物心脏与血液的运动（De Motu Cordis）》考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>威廉·哈维著作集《论动物心脏与血液的运动（De Motu Cordis）》考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 数学定量化与大脑左侧顶叶逻辑管控机制
+## 1. 数学定量化与大脑左侧顶叶逻辑管控机制
 
 处理具体的数值数据与定量计算、而非听凭含混的情绪或直觉，能强力拉动大脑<strong>左侧顶叶（Left Parietal Lobe）</strong>与<strong>前额叶皮层（Prefrontal Cortex）</strong>的因果推演电路。这种<strong>数学定量化（Mathematical Quantification）</strong>行为有助于一针见血地甄别主观偏见与沉淀两千年的既定教条盲区，有效抑制杏仁核产生的无谓直觉幻觉与焦虑反应，从而唤醒极高阶的逻辑执行功能。
 
 ---
 
-## 注意事项：以数学定量校验破除模糊教条与主观直觉指南
-
-绝不单纯因惯例陈规或权威指令而盲目机械照搬。唯有将主观词汇描述的含混现象或假设，重新换算为进出对仗清晰的“可衡量数据单位”时，大脑方能一目了然地辨识出其中的误区与虚假教条。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：以数学定量校验破除模糊教条与主观直觉指南
+
+绝不单纯因惯例陈规或权威指令而盲目机械照搬。唯有将主观词汇描述的含混现象或假设，重新换算为进出对仗清晰的“可衡量数据单位”时，大脑方能一目了然地辨识出其中的误区与虚假教条。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如何将这套定量校验法应用于商业指标分析或战略策划决策中？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       切勿使用诸如“用户反响很好”等模糊词汇，须以“用户新增数、平均停留时长与流失率”构成的闭合定量数值链路进行严密校验。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若定量推算的数据与个人直觉或既有认知发生剧烈冲突，该如何抉择？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Hinweise zur Unschärfe aus der Natur: Werner Heisenbergs Alpin-Wandergewohnheit und DMN-Inkubationsroutine"
 description: "Erfahren Sie, wie Werner Heisenberg quantenmechanische Rätsel löste, indem er alleine durch die Bayerischen Alpen wanderte. Entdecken Sie die Wissenschaft der Aufmerksamkeitswiederherstellung und DMN-Inkubation."
 pubDate: "2026-02-06"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften und Umweltpsychologi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu heisenberg-alpine-hiking basiert auf <strong>Historische Überprüfung aus Werner Heisenbergs *Der Teil und das Ganze*, Archiven der Bayerischen Akademie der Wissenschaften & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Werner Heisenbergs *Der Teil und das Ganze*, Archiven der Bayerischen Akademie der Wissenschaften & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aufmerksamkeitswiederherstellungs-Theorie (ART) und kognitive Inkubation im Default Mode Network (DMN)
+## 1. Aufmerksamkeitswiederherstellungs-Theorie (ART) und kognitive Inkubation im Default Mode Network (DMN)
 
 Das lange Blicken auf Bildschirme oder Zahlen verbraucht die Ressourcen der gerichteten Aufmerksamkeit. Beim Wandern in der Natur greift die <strong>Aufmerksamkeitswiederherstellungs-Theorie (ART)</strong>. Natürliche Reize erzeugen <strong>'sanfte Faszination' (Soft Fascination)</strong> und entlasten den Kortex. Dadurch wird das <strong>Default Mode Network (DMN)</strong> aktiviert, was die <strong>kognitive Inkubation</strong> auslöst – das unterbewusste Umstrukturieren komplexer Formeln zu Durchbrüchen.
 
 ---
 
-## Vorsichtsmaßnahme: Digitale Reize ausschalten, um unterbewusste Inkubation im DMN zu ermöglichen
-
-Das größte Hindernis bei einer Denk-Wanderung ist digitaler Medienkonsum – wie Podcasts hören oder E-Mails lesen. Das Verbrauchen von Bildschirmdaten im Freien erschöpft die gerichtete Aufmerksamkeit weiter und blockiert die DMN-Inkubation vollständig. Schalten Sie das Smartphone in den Flugmodus und konzentrieren Sie sich auf die Naturgeräusche und den Schrittrhythmus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das größte Hindernis bei einer Denk-Wanderung ist digitaler Medienkonsum – w
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Digitale Reize ausschalten, um unterbewusste Inkubation im DMN zu ermöglichen
+
+Das größte Hindernis bei einer Denk-Wanderung ist digitaler Medienkonsum – wie Podcasts hören oder E-Mails lesen. Das Verbrauchen von Bildschirmdaten im Freien erschöpft die gerichtete Aufmerksamkeit weiter und blockiert die DMN-Inkubation vollständig. Schalten Sie das Smartphone in den Flugmodus und konzentrieren Sie sich auf die Naturgeräusche und den Schrittrhythmus.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie lässt sich die Routine anpassen, wenn man in der Stadt weit weg von Wanderwegen wohnt?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das größte Hindernis bei einer Denk-Wanderung ist digitaler Medienkonsum – w
       Ersetzen Sie Bergpfade durch einen 30-minütigen Spaziergang durch einen Park, botanischen Garten oder eine Allee ohne Smartphone. Entscheidend sind die Aktivierung der visuellen Wahrnehmung und die Gehirndurchblutung.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie hält man Gedanken während des Wanderns am besten fest, ohne den Denkfluss zu stören?</span>

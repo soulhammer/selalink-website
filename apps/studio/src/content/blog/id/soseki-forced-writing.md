@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mengatasi Slump Melalui Kekuatan Paksaan: Rutin Menulis Pagi Natsume Soseki"
 description: "Aturan menulis pagi di balik karya-karya mahakarya Natsume Soseki. Menjelaskan nilai kognitif dari membangkitkan eksitasi aksi otak tanpa menunggu datangnya inspirasi."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Dalam artikel ini, kita mempelajari mekanisme ilmu kognitif di balik rutinitas m
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai soseki-forced-writing didasarkan pada <strong>Biografi historis, catatan autobiografi penulisan terpaksa Soseki & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis, catatan autobiografi penulisan terpaksa Soseki & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Eksitasi Aksi: Bagaimana Tindakan Membentuk Motivasi
+## 1. Efek Eksitasi Aksi: Bagaimana Tindakan Membentuk Motivasi
 
 Otak tidak melepaskan hormon motivasi saat Anda berdiam diri. Hanya ketika Anda mulai bergerak, korteks prefrontal dan nukleus akumbens terangsang untuk memberikan dorongan bertindak. Penelitian neurosains menunjukkan bahwa tindakan dapat menekan respons kecemasan yang tidak perlu di amigdala dan mengaktifkan sirkuit memori kerja, yang secara drastis meningkatkan fungsi eksekutif.
 
 ---
 
-## Saran Maestro untuk Memicu Tindakan Segera
-
-Jangan menunggu suasana hati yang tepat atau lingkungan yang sempurna; duduklah di meja dan mulailah menulis satu kata sekalipun. Hanya tindakan yang dapat membangunkan otak. Alih-alih hanya mengandalkan kemauan keras, rancanglah lingkungan fisik dan sinyal kebiasaan yang memicu tindakan secara alami untuk menjaga konsistensi.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Jangan menunggu suasana hati yang tepat atau lingkungan yang sempurna; duduklah 
     Setelah mencapai target 30 menit atau jumlah kata minimum yang ditetapkan, rapikan meja Anda dan akhiri sesi dengan rasa pencapaian yang jelas.
   </p>
 </div>
+
+---
+
+## 3. Saran Maestro untuk Memicu Tindakan Segera
+
+Jangan menunggu suasana hati yang tepat atau lingkungan yang sempurna; duduklah di meja dan mulailah menulis satu kata sekalipun. Hanya tindakan yang dapat membangunkan otak. Alih-alih hanya mengandalkan kemauan keras, rancanglah lingkungan fisik dan sinyal kebiasaan yang memicu tindakan secara alami untuk menjaga konsistensi.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

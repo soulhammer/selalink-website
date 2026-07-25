@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Genius yang Tetap di Tempat Tidur Hingga Siang Hari: Rutinitas Meditasi Berbaring dan Relaksasi Gelombang Alfa ala René Descartes"
 description: "Pelajari bagaimana matematikawan dan filsuf René Descartes menghabiskan pagi harinya bermeditasi di tempat tidur hingga siang hari. Temukan neurosains kognitif dari postur horizontal, reduksi respons kortisol, dan induksi gelombang alfa."
 pubDate: "2026-01-25"
@@ -33,25 +34,23 @@ Sejak masa kanak-kanak, Descartes menderita kesehatan yang lemah, membuat bangun
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai descartes-lying-meditation didasarkan pada <strong>Verifikasi Historis dari *Discourse on the Method* karya René Descartes & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Discourse on the Method* karya René Descartes & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaksasi Rendah Kortisol dan Induksi Gelombang Alfa Melalui Pemeliharaan Postur Horizontal
+## 1. Relaksasi Rendah Kortisol dan Induksi Gelombang Alfa Melalui Pemeliharaan Postur Horizontal
 
 Bangun secara mendadak tepat saat terbangun memicu Cortisol Awakening Response (CAR) yang tajam, meningkatkan stimulasi simpatis dan mengalihkan gelombang otak ke dalam pola beta tinggi. Mempertahankan postur horizontal yang santai setelah terbangun menahan lonjakan kortisol, mempertahankan Gelombang Alfa 8–12 Hz yang stabil. Dalam kondisi berbaring fisik secara penuh, beban motorik somatosensori menurun secara drastis, memungkinkan korteks prefrontal mengarahkan 100% energi kognitifnya pada logika deduktif.
 
 ---
 
-## Perhatian & Tip: Mencegah Kelanjutan Tidur & Menetapkan Fokus Tugas Tunggal
-
-Pastikan meditasi berbaring tidak memburuk menjadi kelanjutan tidur yang malas. Hindari mengambil smartphone Anda segera setelah terbangun, karena stimulus digital mengganggu kondisi alfa yang tenang. Pertahankan kesadaran bangun sambil tetap berbaring fisik selama 5 hingga 10 menit, mengarahkan fokus prefrontal secara eksklusif pada satu masalah utama.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Pastikan meditasi berbaring tidak memburuk menjadi kelanjutan tidur yang malas. 
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mencegah Kelanjutan Tidur & Menetapkan Fokus Tugas Tunggal
+
+Pastikan meditasi berbaring tidak memburuk menjadi kelanjutan tidur yang malas. Hindari mengambil smartphone Anda segera setelah terbangun, karena stimulus digital mengganggu kondisi alfa yang tenang. Pertahankan kesadaran bangun sambil tetap berbaring fisik selama 5 hingga 10 menit, mengarahkan fokus prefrontal secara eksklusif pada satu masalah utama.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah meditasi berbaring di pagi hari benar-benar memberikan manfaat kognitif yang terbukti secara ilmiah?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Pastikan meditasi berbaring tidak memburuk menjadi kelanjutan tidur yang malas. 
       Ya, mekanisme neurofisiologisnya terdokumentasi dengan baik. Mempertahankan postur berbaring pasca-terbangun menahan lonjakan kortisol yang mendadak, menstabilkan tonus sistem saraf otonom. Mempertahankan Gelombang Alfa 8–12 Hz melepaskan kebisingan motorik sensorik, secara drastis meningkatkan deduksi intuitif prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana jika saya tidak sengaja tertidur kembali saat bermeditasi di tempat tidur?</span>

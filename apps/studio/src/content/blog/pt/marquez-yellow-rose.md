@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O segredo na mesa do Prêmio Nobel: A rotina da rosa amarela de Márquez"
 description: "Por que Gabriel García Márquez, autor de Cém Anos de Solidão, mantinha uma rosa amarela em sua mesa todas as manhãs. Explora como um ritual visual auxilia o relaxamento cerebral e estimula a criatividade."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ No post de hoje, analisamos os mecanismos científicos por trás do 'ritual da r
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre marquez-yellow-rose é baseada em <strong>Verificação de biografias históricas de Gabriel García Márquez e pesquisas em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas de Gabriel García Márquez e pesquisas em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por que rituais visuais proporcionam criatividade e estabilidade
+## 1. Por que rituais visuais proporcionam criatividade e estabilidade
 
 Fixar e observar visualmente uma cor ou objeto natural específico (como uma rosa amarela) envia um sinal de 'segurança e conforto emocional' ao cérebro. Em estado de relaxamento, o cérebro emite <strong>Ondas Alfa (Alpha Waves)</strong> que ampliam o foco e aceleram a associação livre de ideias.
 
 ---
 
-## Precauções e dicas
-
-Evite poluir sua mesa com decorações chamativas ou complexas que distraiam o olhar. O excesso de cores gera <strong>fadiga visual</strong> no cérebro e prejudica o foco; adote uma abordagem minimalista com um único objeto simples.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Evite poluir sua mesa com decorações chamativas ou complexas que distraiam o o
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Evite poluir sua mesa com decorações chamativas ou complexas que distraiam o olhar. O excesso de cores gera <strong>fadiga visual</strong> no cérebro e prejudica o foco; adote uma abordagem minimalista com um único objeto simples.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

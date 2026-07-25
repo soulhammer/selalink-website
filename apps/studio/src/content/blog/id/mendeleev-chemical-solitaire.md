@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Solitaire Unsur Kimia: Rutinitas Sortir Kartu Kimia Mendeleev"
 description: "Dmitri Mendeleev menyelesaikan Tabel Periodik dengan menyusun kartu berisi sifat-sifat unsur seperti permainan solitaire. Pelajari bagaimana manipulasi spasial fisik mengaktifkan kemampuan otak mengenali pola."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ Dalam artikel ini, kita mengupas kegunaan neurosains dari rutinitas solitaire ka
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai mendeleev-chemical-solitaire didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Mendeleev & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Mendeleev & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengapa Penataan Spasial dan Manipulasi Fisik Membangkitkan Pengenalan Pola
+## 1. Mengapa Penataan Spasial dan Manipulasi Fisik Membangkitkan Pengenalan Pola
 
 Teks datar di layar diproses sebagai data dua dimensi yang menciptakan hambatan kalkulasi analitis. Sebaliknya, membagi informasi ke dalam kartu terpisah dan menyusunnya secara spasial di meja mengaktifkan lobus parietal yang mengatur posisi spasial. Melalui umpan balik taktil dan visual 3D, otak mengenali jarak organik antar konsep, memungkinkan jaringan prefrontal mengurai pola rumit.
 
 ---
 
-## Tindakan Pencegahan dan Tips
-
-Hindari menjejalkan detail berlebihan pada satu kartu; melakukan hal itu mengembalikan fungsi kartu menjadi dokumen padat dan membatalkan manfaat pemetaan spasial. Tuliskan hanya satu kata kunci atau konsep inti per kartu. Batasi jumlah kartu menjadi 10–20 kartu sekaligus agar otak dapat menyerap seluruh struktur secara sekilas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Hindari menjejalkan detail berlebihan pada satu kartu; melakukan hal itu mengemb
     Setelah susunan yang intuitif dan logis terbentuk, ambil foto dengan kamera ponsel Anda untuk menyinkronkan susunan fisik dengan memori spasial otak.
   </p>
 </div>
+
+---
+
+## 3. Tindakan Pencegahan dan Tips
+
+Hindari menjejalkan detail berlebihan pada satu kartu; melakukan hal itu mengembalikan fungsi kartu menjadi dokumen padat dan membatalkan manfaat pemetaan spasial. Tuliskan hanya satu kata kunci atau konsep inti per kartu. Batasi jumlah kartu menjadi 10–20 kartu sekaligus agar otak dapat menyerap seluruh struktur secara sekilas.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "支撑时尚帝国铁血领导力的力量？安娜·温图尔清晨5点网球常规"
 description: "《Vogue》主编安娜·温图尔每天早晨5点起床，在球场上奔跑1小时来打亮大脑。探索这种网球习惯背后的科学依据和三步现代实践指南。"
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 wintour-morning-tennis 的内容基于 <strong>安娜·温图尔历史传记与自传考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>安娜·温图尔历史传记与自传考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 体温升高与神经觉醒物质分泌促进
+## 1. 体温升高与神经觉醒物质分泌促进
 
 刚从睡梦中醒来时，大脑仍处于从睡眠向觉醒过渡的“睡眠惯性”状态。如果在此状态下未先唤醒大脑就直接面对激烈的会议或高压邮件，额叶功能极易受阻，导致做出冲动或偏向情绪化的决策。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 切记留出时间与心脏的平缓热身
-
-清晨刚醒时，心脏处于一天中最收缩的状态，血管压力较高。睁开眼就立即进行剧烈的全速冲刺会对心血管系统造成巨大负担。在开始运动前，请先进行3分钟的平缓热身（如轻微的动态拉伸和原地踏步），让心脏适应后再提高运动强度。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 切记留出时间与心脏的平缓热身
+
+清晨刚醒时，心脏处于一天中最收缩的状态，血管压力较高。睁开眼就立即进行剧烈的全速冲刺会对心血管系统造成巨大负担。在开始运动前，请先进行3分钟的平缓热身（如轻微的动态拉伸和原地踏步），让心脏适应后再提高运动强度。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>必须要精准在早晨5点起床运动才有效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       时间本身并不一定要限定在5点，并没有对此要求的科学依据。核心在于在开始日常工作或日程前至少1小时起床，通过身体运动预先唤醒大脑。根据你个人日程，在起床后的前30分钟内建立运动 routines 才是关键。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>由于关节或体能较弱无法承受高强度运动，该怎么办？</span>

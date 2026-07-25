@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Cambiar de Máquina de Escribir al Estancarse al Escribir? La Rutina de Alternancia Multitarea de Isaac Asimov"
 description: "La rutina de alternancia multitarea del maestro de la ciencia ficción Isaac Asimov, autor de más de 500 libros. Descubra el secreto de 3 pasos para superar la fatiga del enfoque único y lograr el efecto de novedad."
 pubDate: "2026-05-26"
@@ -36,14 +37,14 @@ En la publicación de hoy, proponemos los principios de la ciencia cognitiva ocu
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre asimov-project-switching se basa en <strong>Verificación Histórica de la Autobiografía de Isaac Asimov *I, Asimov: A Memoir* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Isaac Asimov *I, Asimov: A Memoir* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cambio de Contexto y Efecto de Novedad: Recuperación de Fatiga por Regiones Cerebrales
+## 1. Cambio de Contexto y Efecto de Novedad: Recuperación de Fatiga por Regiones Cerebrales
 
 Según investigaciones en psicología cognitiva y memoria de trabajo, aferrarse a una sola tarea durante mucho tiempo hace que el cerebro hiperactive solo redes neuronales específicas, induciendo un estancamiento cognitivo. Cuando se fuerza el cerebro durante el bloqueo del escritor (Writer's Block) resultante, se segrega cortisol, reduciendo drásticamente la eficiencia cognitiva.
 
@@ -51,9 +52,7 @@ En este punto, si cambia de contexto (Context Switching) a una tarea de naturale
 
 ---
 
-## Consejo Neurocientífico para un Cambio de Enfoque Eficiente
-
-Cuando se estanque en una tarea, aferrarse incondicionalmente hasta el final no es la única virtud. Los neuronas del cerebro también necesitan trabajo por turnos en diferentes regiones. Supere con flexibilidad los estancamientos laborales mediante un cambio inteligente de contexto entre redactar correos electrónicos menores o escribir una propuesta totalmente diferente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Cuando se estanque en una tarea, aferrarse incondicionalmente hasta el final no 
     Bloquee cognitivamente la fatiga del trabajo previo mediante el efecto de novedad de la tarea recién cambiada. El cerebro disfruta de un efecto de descanso suficiente y mantiene fluidamente el enfoque no solo al detener el trabajo, sino simplemente al 'activar una región diferente'.
   </p>
 </div>
+
+---
+
+## 3. Consejo Neurocientífico para un Cambio de Enfoque Eficiente
+
+Cuando se estanque en una tarea, aferrarse incondicionalmente hasta el final no es la única virtud. Los neuronas del cerebro también necesitan trabajo por turnos en diferentes regiones. Supere con flexibilidad los estancamientos laborales mediante un cambio inteligente de contexto entre redactar correos electrónicos menores o escribir una propuesta totalmente diferente.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

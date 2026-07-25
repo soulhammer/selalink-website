@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O cérebro desperta ao ficar de pé: O segredo de imersão da escrivaninha de pé de Rilke"
 description: "Descubra o hábito de despertar cerebral físico do poeta austríaco Rainer Maria Rilke, que escrevia de pé. Um método de 3 passos de pé para aumentar o fluxo sanguíneo cerebral e o foco."
 pubDate: "2026-04-06"
@@ -33,25 +34,23 @@ No post de hoje, examinamos a mecânica científica por trás da rotina de escri
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre rilke-standing-writing é baseada em <strong>Pesquisa biográfica e autobiográfica histórica sobre a escrita de pé de Rilke e estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa biográfica e autobiográfica histórica sobre a escrita de pé de Rilke e estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O 'efeito de pé' elevando o fluxo sanguíneo cerebral e o alerta cognitivo
+## 1. O 'efeito de pé' elevando o fluxo sanguíneo cerebral e o alerta cognitivo
 
 Uma postura sentada curvada reduz a expansão pulmonar, resultando em respiração superficial que diminui o oxigênio para o cérebro. Por outro lado, ficar de pé usando uma mesa ajustável força os grandes músculos das pernas, pelve e costas a se contraírem contra a gravidade, aumentando levemente a frequência cardíaca. Neurocientificamente, isso aumenta o Fluxo Sanguíneo Cerebral (FSC) em 10–15%, otimizando o suprimento de oxigênio e glicose. A microtensão do corpo estimula o sistema reticular ativador no tronco encefálico, liberando norepinefrina e dopamina para aguçar a memória de trabalho e o controle atencional.
 
 ---
 
-## Proteção das articulações e ritmo de intervalos
-
-Trabalhar em uma posição estática de pé por longos períodos pode causar varizes ou sobrecarregar as articulações dos joelhos e da lombar, aumentando a fadiga. O hábito de foco de pé deve seguir uma 'regra de intervalo cíclico'. Após 30–40 minutos de foco de pé, reduza a altura e sente-se por 20 minutos, ou alterne o peso entre os pés para preservar a saúde articular e o alerta mental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Trabalhar em uma posição estática de pé por longos períodos pode causar var
   </p>
 </div>
 
+---
+
+## 3. Proteção das articulações e ritmo de intervalos
+
+Trabalhar em uma posição estática de pé por longos períodos pode causar varizes ou sobrecarregar as articulações dos joelhos e da lombar, aumentando a fadiga. O hábito de foco de pé deve seguir uma 'regra de intervalo cíclico'. Após 30–40 minutos de foco de pé, reduza a altura e sente-se por 20 minutos, ou alterne o peso entre os pés para preservar a saúde articular e o alerta mental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

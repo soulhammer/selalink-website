@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ユリウス・カエサルの「同時口述」：高度に集中した作業転換の技術と作業記憶の拡張"
 description: "多忙な軍事・行政任務の中でも、複数の書記官に異なる文書を同時に口述したユリウス・カエサル。作業記憶（Working Memory）を極大化し、前頭前野の知的柔軟性を引き上げる生産性ルーティンを分析します。"
 pubDate: "2026-01-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「julius-caesar-multi-dictation」は <strong>プルタルコス『英雄伝（Parallel Lives）』およびプリニウス『博物誌（Naturalis Historia）』史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>プルタルコス『英雄伝（Parallel Lives）』およびプリニウス『博物誌（Naturalis Historia）』史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業記憶（Working Memory）拡張と前頭前野の知的柔軟性（Cognitive Flexibility）
+## 1. 作業記憶（Working Memory）拡張と前頭前野の知的柔軟性（Cognitive Flexibility）
 
 <strong>作業記憶（Working Memory）</strong>は、意思決定を行う間、脳が一時的に情報を保持し加工する知的「作業台」です。カエサルの同時口述は、脳が各書記官の作業情報を短期保存する間、次の作業に必要な論理を瞬間的に活性化する高度な注意制御能力を必要とします。このような意図的で精密な作業転換訓練は、<strong>前頭前野皮質（Prefrontal Cortex）</strong>の神経網を強化して作業記憶の容量を広げ、<strong>知的柔軟性（Cognitive Flexibility）</strong>を飛躍的に向上させます。
 
 ---
 
-## 注意事項：散漫なマルチタスクを排除し連続的単一フォーカスに没頭するルール
-
-同時処理の本質は、注意を複数の場所に同時に分散させる散漫なマルチタスクではありません。カエサルのように毎瞬間一つの対象を口述する時はただその対象にのみ100％没頭した後、計画的に次のテーマへと移行する「連続的単一フォーカス（Sequential Single-Focus）」を維持してこそ、作業記憶の過負荷なく高い品質の成果物を得ることができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：散漫なマルチタスクを排除し連続的単一フォーカスに没頭するルール
+
+同時処理の本質は、注意を複数の場所に同時に分散させる散漫なマルチタスクではありません。カエサルのように毎瞬間一つの対象を口述する時はただその対象にのみ100％没頭した後、計画的に次のテーマへと移行する「連続的単一フォーカス（Sequential Single-Focus）」を維持してこそ、作業記憶の過負荷なく高い品質の成果物を得ることができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>同時口述は一般的なマルチタスクとどのように違うのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       一般的なマルチタスクは、メッセンジャーを見ながら電子メールを書くように、複数の作業に注意を同時に流し込んで遅延を誘発します。一方、同時口述は一度にただ一人の書記官に高度に集中して書き取らせた後、順次かつ計画的に次のテーマへと認知を転換する「連続的単一フォーカス」構造を持ちます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>口述の代わりにタイピングでこの方法を実践してもよいですか？</span>

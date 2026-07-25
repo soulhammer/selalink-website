@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Soul Behind the Makeup: Marilyn Monroe's Nightly Reading and Reflection Habit"
 description: "Behind her public persona as a sex symbol, Marilyn Monroe was an avid reader with a personal library of over 400 books. Discover the scientific principles of how nightly literary reading and journaling reduced stress hormones and protected her identity."
 pubDate: "2026-03-14"
@@ -38,22 +39,20 @@ In today's post, we examine the neuroscientific mechanisms of nervous system rel
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding monroe-night-reading is based on <strong>Historical critical biographies and autobiographical records of Marilyn Monroe & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical critical biographies and autobiographical records of Marilyn Monroe & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Autonomic Nervous System Relaxation and Hippocampal Memory Consolidation Through Literary Reading
+## 1. Autonomic Nervous System Relaxation and Hippocampal Memory Consolidation Through Literary Reading
 
 When the brain is exposed to prolonged external evaluation and performance stress, sympathetic nervous system hyperarousal leads to chronic fatigue and sleep disorders. According to cognitive studies in the UK, reading literary works quietly for just 6 minutes reduces muscle tension and slows heart rate, slashing stress levels by up to 68%. Immersing oneself in classical narratives allows the brain to disengage from its own ego and reach a restorative state through narrative empathy. Furthermore, post-reading journaling prompts the hippocampus in the cerebral cortex to consolidate stressful memories peacefully, optimizing glymphatic brain cleansing during sleep.
 
 ---
 
-## Cautions and Practical Tips
-
-The most important behavior to avoid during nighttime reflective reading is reading under bright fluorescent light or staring at smartphone screens. Bright artificial blue light blocks the secretion of melatonin, the sleep-inducing hormone, worsening insomnia. Therefore, when reading at night, use only a single indirect lamp with a warm yellow tone, maintaining environmental control so your brain can safely transition into sleep mode.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The most important behavior to avoid during nighttime reflective reading is read
   </p>
 </div>
 
+---
+
+## 3. Cautions and Practical Tips
+
+The most important behavior to avoid during nighttime reflective reading is reading under bright fluorescent light or staring at smartphone screens. Bright artificial blue light blocks the secretion of melatonin, the sleep-inducing hormone, worsening insomnia. Therefore, when reading at night, use only a single indirect lamp with a warm yellow tone, maintaining environmental control so your brain can safely transition into sleep mode.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does reading before bed stimulate the brain and interfere with sleep?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The most important behavior to avoid during nighttime reflective reading is read
       Reading paper books instead of blue-light emitting smartphones—especially lighter humanities, poetry, or contemplative essays under soft indirect lighting—induces alpha brain waves that actually promote deep sleep.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I record favorite passages during night reading without disrupting sleep?</span>

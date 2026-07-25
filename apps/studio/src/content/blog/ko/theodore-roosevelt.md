@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "천식의 한계를 쇠질로 극복한 루스벨트의 아침 고강도 신체 단련"
 description: "러시모어 산에 얼굴이 새겨진 미국의 위대한 대통령으로, 극한의 육체 피로를 겪은 직후 뇌가 완전히 깨어나는 초집중 독서 루틴을 고수했습니다."
 pubDate: "2026-07-06"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>시어도어 루스벨트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 theodore-roosevelt 루틴을 다룹니다.
+      본 콘텐츠는 <strong>시어도어 루스벨트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 성공을 자아내는 뇌과학적 원리 분석
+## 1. 성공을 자아내는 뇌과학적 원리 분석
 
 한계 저항을 이겨내는 아침의 단시간 고강도 운동은 대뇌 피질과 전두엽으로 공급되는 산소 포화도와 혈류 활동성을 급격하게 팽창시킵니다. 이 자극은 뇌 신경 세포의 연결망 형성을 주도하는 뇌유래신경영양인자(BDNF)의 분비를 최고조로 촉진하여 해마의 인지 뉴런 생성을 도우며, 인지 피로를 자아내는 코티솔을 소거하여 최상의 뇌 의사결정력을 일깨워 줍니다.
 
 ---
 
-## 성공적인 안착을 위한 행동과학 조언
-
-하루의 일과를 시작하기도 전에 과도한 장시간 트레이닝으로 체력과 의지 배터리를 전량 소진하지 마세요. 3분간의 가볍고 강렬한 미시 운동으로 두뇌 각성 상태를 자극하는 것으로 충분합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 성공적인 안착을 위한 행동과학 조언
+
+하루의 일과를 시작하기도 전에 과도한 장시간 트레이닝으로 체력과 의지 배터리를 전량 소진하지 마세요. 3분간의 가볍고 강렬한 미시 운동으로 두뇌 각성 상태를 자극하는 것으로 충분합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>아침 고강도 훈련을 마치고 나면 오히려 졸음이 쏟아집니다.</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       그것은 운동 강도를 오버페이스로 쏟아 부어 피로 축적 물질이 급증했기 때문입니다. 숨이 찬 임계점에 도달하자마자 즉시 3분 타이머로 칼같이 끊어내야 상쾌한 각성 도파민만 뇌 속에 충전됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>체력이 심각하게 약한 초심자는 어떻게 시작해야 하나요?</span>

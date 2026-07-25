@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gestión de la fatiga de decisión: El hábito del uniforme único de Mark Zuckerberg"
 description: "Mark Zuckerberg redujo la fatiga de decisión vistiendo la misma camiseta y jeans todos los días. Exploramos los principios científicos para prevenir el 'agotamiento del ego'—un recurso energético finito del cerebro—y concentrarse en las decisiones clave."
 pubDate: "2026-06-12"
@@ -34,22 +35,20 @@ Mark Zuckerberg es el fundador y CEO de Meta, un imperio de redes sociales que c
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre zuckerberg-uniform-minimization se basa en <strong>Biografías históricas y registros autobiográficos sobre la minimización del uniforme de Zuckerberg e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos sobre la minimización del uniforme de Zuckerberg e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Protección de los recursos finitos de glucosa del cerebro y prevención del agotamiento del ego
+## 1. Protección de los recursos finitos de glucosa del cerebro y prevención del agotamiento del ego
 
 La energía utilizada por la corteza prefrontal del cerebro al tomar decisiones es finita. A medida que se acumulan las elecciones, las células cerebrales consumen glucosa y oxígeno, lo que reduce el control ejecutivo en un fenómeno denominado 'Agotamiento del Ego' (Ego Depletion). Elecciones triviales como '¿qué me pongo hoy?' o '¿qué almuerzo?' agotan el presupuesto ejecutivo del cerebro. Al automatizar estos procesos cotidianos con un uniforme único como Zuckerberg, la corteza prefrontal preserva su glucosa para decisiones estratégicas clave, mejorando la calidad de cada elección.
 
 ---
 
-## Precauciones y consejos
-
-Un error común al adoptar un uniforme es estresarse por cómo los demás perciben la uniformidad de tu vestimenta. Si te obsesionas con el estilo o la perfección estética, generarás una nueva carga psicológica en el cerebro, aumentando la fatiga de decisión en lugar de reducirla. La clave esencial es elegir un estilo simple y cómodo que no requiera ningún pensamiento consciente, liberando la mente de la evaluación externa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Un error común al adoptar un uniforme es estresarse por cómo los demás percib
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos
+
+Un error común al adoptar un uniforme es estresarse por cómo los demás perciben la uniformidad de tu vestimenta. Si te obsesionas con el estilo o la perfección estética, generarás una nueva carga psicológica en el cerebro, aumentando la fatiga de decisión en lugar de reducirla. La clave esencial es elegir un estilo simple y cómodo que no requiera ningún pensamiento consciente, liberando la mente de la evaluación externa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Si uso la misma ropa todos los días, ¿cómo me manejo en reuniones importantes o eventos formales?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Un error común al adoptar un uniforme es estresarse por cómo los demás percib
       Mark Zuckerberg también viste traje en eventos oficiales o reuniones de directorio. El núcleo del uniforme es eliminar decisiones triviales, por lo que definir previamente un traje para ocasiones formales te permitirá vestirlo sin esfuerzo ni fatiga.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo crear un uniforme utilizando otro tipo de ropa que no sean camisetas y jeans?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "템포를 늦추어 1초에 한 건반을 무오류로 연주한 리스트의 소뇌 학습법과 미엘린 수초화"
 description: "음악 역사상 가장 정교한 기교를 자랑한 피아니스트 프란츠 리스트. 건반의 무질서한 속주 연습 대신 메트로놈 템포를 늦추어 1초에 한 건반을 치는 슬로모션 무오류 학습(Errorless Learning)으로 소뇌(Cerebellum)를 단련하고 미엘린 수초화를 유도한 원리와 3단계 실천법을 알아봅니다."
 pubDate: "2026-04-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>프란츠 리스트 평전 사료 『프란츠 리스트: 거장의 삶(Franz Liszt: The Virtuoso Years)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동학습학(Motor Learning Science) 연구</strong>에 근거하여 liszt 루틴을 다룹니다.
+      본 콘텐츠는 <strong>프란츠 리스트 평전 사료 『프란츠 리스트: 거장의 삶(Franz Liszt: The Virtuoso Years)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 운동학습학(Motor Learning Science) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 소뇌(Cerebellum)의 정밀 운동 학습(Motor Learning)과 미엘린(Myelin) 수초화
+## 1. 소뇌(Cerebellum)의 정밀 운동 학습(Motor Learning)과 미엘린(Myelin) 수초화
 
 동작의 템포를 극단적으로 늦추어 신체 근육의 미세 움직임을 통제하는 훈련은 뇌 <strong>소뇌(Cerebellum)</strong>의 <strong>정밀 운동 학습(Motor Learning)</strong>을 활성화합니다. 오차 없이 완벽한 궤적을 천천히 반복하면 해당 행동을 관장하는 신경 섬유 둘레에 피복인 <strong>미엘린(Myelin)</strong>이 두껍게 싸이는 수초화 현상이 일어납니다. 이는 신경 신호의 전달 속도와 정확도를 비약적으로 끌어올려, 뇌에 동작 실수를 일절 입력하지 않는 <strong>무오류 학습(Errorless Learning)</strong> 회로를 형성하는 최고의 뇌과학적 훈련법입니다.
 
 ---
 
-## 속도와 과도한 악력을 배제하고 무오류 슬로모션(Errorless Learning)에 몰입하는 수칙
-
-연습 도중 건반이나 도구를 힘으로 무리하게 쥐거나 빨리 끝내려 조급해하지 마세요. 신체의 불필요한 긴장을 소거한 채, 완벽한 궤적의 느린 움직임에 집중해야 소뇌 신경망에 오차 없는 정밀도가 새겨집니다. 속도를 내는 것보다 단 하나의 실수도 내지 않는 슬로모션 수행에 집중하는 것이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 속도와 과도한 악력을 배제하고 무오류 슬로모션(Errorless Learning)에 몰입하는 수칙
+
+연습 도중 건반이나 도구를 힘으로 무리하게 쥐거나 빨리 끝내려 조급해하지 마세요. 신체의 불필요한 긴장을 소거한 채, 완벽한 궤적의 느린 움직임에 집중해야 소뇌 신경망에 오차 없는 정밀도가 새겨집니다. 속도를 내는 것보다 단 하나의 실수도 내지 않는 슬로모션 수행에 집중하는 것이 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>악기 연주자가 아닌 일반인도 이 1초 1동작 슬로모션 습관으로 효과를 볼 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 완벽히 동일한 효과를 얻을 수 있습니다! 키보드 타자 단축키 입력, 골프/테니스 스윙 폼 잡기, 발표 시 손짓 연출 등 몸을 사용하는 모든 정밀 동작에 동일하게 적용됩니다. 템포를 극단적으로 늦춰 실수를 제로로 만든 후 속도를 올리면 소뇌 미엘린 형성으로 수행 정밀도가 급격히 올라갑니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>실제 피아노 건반이나 전용 장비가 없을 때 대체할 수 있는 방법이 있나요?</span>

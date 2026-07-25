@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "老普林尼不间断的笔记法：用手写唤醒大脑并掌控记忆的方法"
 description: "分享古罗马学者老普林尼的笔记秘诀，他甚至在用餐和出行时也让秘书朗读图书并记录笔记，由此集大成汇编了浩瀚的知识。"
 pubDate: "2026-05-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 pliny-reading-excerpt 的内容基于 <strong>老普林尼阅读与摘录历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>老普林尼阅读与摘录历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 摘录笔记在认知上优于单纯阅读的原因
+## 1. 摘录笔记在认知上优于单纯阅读的原因
 
 仅用眼睛阅读文本的被动接受态度会导致大脑轻易从短期记忆库中遗漏信息。相反，当归纳文本核心并亲自以物理手写进行记录时，手指的精细动作会刺激脑干的网状激活系统（RAS），强力激活整个大脑。在这个过程中，大脑必须过滤并重构信息，从而在记忆中植入强有力的提取线索，稳固地沉淀为长期记忆。
 
 ---
 
-## 巧妙摘录笔记指南
-
-应避免盲目照抄一整段文字的抄录（Transcription）行为。这接近于不经过大脑的简单体力劳动，只会引发认知疲劳。请选择性地提取赋予灵感的语句或核心关键词并动手书写。此外，养成在括号内标注图书出处和页码的习惯，以便日后能重新追溯摘录的知识。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 巧妙摘录笔记指南
+
+应避免盲目照抄一整段文字的抄录（Transcription）行为。这接近于不经过大脑的简单体力劳动，只会引发认知疲劳。请选择性地提取赋予灵感的语句或核心关键词并动手书写。此外，养成在括号内标注图书出处和页码的习惯，以便日后能重新追溯摘录的知识。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>用电容笔在平板电脑上记录或键盘打字具有相同的效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       在平板电脑上用手写笔直接记录的效果与物理笔相当类似。然而，用键盘打字是一种几乎不伴随认知加工的自动化输入动作。手写的较慢速度迫使大脑对信息进行归纳和消化，从而显著提升记忆保持率。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>有什么方法可以整理大量的摘录笔记，使其不致于遗失吗？</span>

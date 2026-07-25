@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "从抽屉里腐烂苹果味中获取灵感的剧作家？弗里德里希·席勒的奇异专注习惯"
 description: "德国伟大的文学家弗里德里希·席勒在抽屉里腐烂苹果的刺激性气味中沉浸于创作。了解嗅觉刺激如何觉醒大脑并促进专注的科学原理，以及现代香氛锚定实践方法。"
 pubDate: "2026-05-05"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 schiller-rotten-apple 的内容基于 <strong>弗里德里希·席勒的历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>弗里德里希·席勒的历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 嗅觉与认知觉醒的神经学联系
+## 1. 嗅觉与认知觉醒的神经学联系
 
 在人类的所有感觉中，嗅觉是唯一无需经过作为大脑信息中转站的“丘脑（Thalamus）”，而是直接到达主管情绪和记忆的“边缘系统（Limbic System）”中的杏仁核和海马体的感觉。因此，气味是改变认知状态最迅速的捷径。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 安全有效的现代嗅觉锚定
-
-席勒的烂苹果方法可能因二氧化碳和乙醛毒性引发头痛，是现代人不应照搬的危险做法。相反，可以通过现代香氛锚定，在工作或学习前特意使用经证实无害且有助于集中的天然精油（如迷迭香、薄荷），安全地唤醒注意力。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 安全有效的现代嗅觉锚定
+
+席勒的烂苹果方法可能因二氧化碳和乙醛毒性引发头痛，是现代人不应照搬的危险做法。相反，可以通过现代香氛锚定，在工作或学习前特意使用经证实无害且有助于集中的天然精油（如迷迭香、薄荷），安全地唤醒注意力。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>席勒烂苹果的气味真的有刺激大脑的效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的。发酵产生的乙醛暂时降低氧浓度并改变呼吸，带来生理刺激，而嗅觉信号则直接向调控情绪和记忆的大脑边缘系统发送觉醒信号。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>进行现代香氛锚定时推荐使用哪些香味？</span>

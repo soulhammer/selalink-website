@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "肯定的な脳回路を呼び醒ます力：島山・安昌浩の鏡の笑顔と清潔ルーティン"
 description: "独立運動家、島山・安昌浩が強調した「笑顔」と「清潔」の力。つくり笑いが脳のセロトニンを分泌させ、整頓された空間が視覚的認知負荷を軽減する科学的理由を探ります。"
 pubDate: "2026-01-19"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「anchangho-mirror-smile」は <strong>島山・安昌浩評伝および興士団（興韓團）記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>島山・安昌浩評伝および興士団（興韓團）記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 顔面フィードバック仮説と物理的空間の整頓がもたらす認知治療効果
+## 1. 顔面フィードバック仮説と物理的空間の整頓がもたらす認知治療効果
 
 生理学の顔面フィードバック仮説（Facial Feedback Hypothesis）によると、脳は単に感情に従って顔面筋肉を動かすだけでなく、逆方向に顔面筋肉の収縮状態を感知して現在の感情を判別します。朝に無理に微笑む表情を作るだけでも、脳は歓喜の刺激として認知し、セロトニンやドパミンのような肯定的な神経伝達物質の分泌を促進し、ストレスホルモンであるコルチゾールの量を低下させます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 精神と空間の整頓のための島山の一言
-
-心が乱れた時は、無理に考えをまとめようと苦心するよりも、まず鏡の中の自分に笑顔を送り、目の前の紙屑を一つ拾うことから始めてください。笑顔は内面の暗闇を払いのけ、清潔は外部の無秩序を正して、自分を正しい道へと導いてくれます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     外出しない場合でも顔を洗い、髪を整え、しわの寄った服や汚れた服を避けて自分なりのきちんとした容姿の礼儀を備え、認知的緊張感を与えます。
   </p>
 </div>
+
+---
+
+## 3. 精神と空間の整頓のための島山の一言
+
+心が乱れた時は、無理に考えをまとめようと苦心するよりも、まず鏡の中の自分に笑顔を送り、目の前の紙屑を一つ拾うことから始めてください。笑顔は内面の暗闇を払いのけ、清潔は外部の無秩序を正して、自分を正しい道へと導いてくれます。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

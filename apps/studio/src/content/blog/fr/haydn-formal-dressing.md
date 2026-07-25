@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Composer en costume trois-pièces à la maison ? : La routine de « cognition habillée » et l'interrupteur de concentration du père de la symphonie Joseph Haydn"
 description: "Découvrez pourquoi le compositeur Joseph Haydn revêtait un costume formel et une perruque avant de composer. Explorez la façon dont la tenue améliore la productivité grâce à la science de la « Cognition habillée » et de la cognition incarnée."
 pubDate: "2026-04-04"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience de la « Cognition habillée »
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant haydn-formal-dressing est basée sur <strong>Vérification Historique issue des biographies de Joseph Haydn (Dies & Griesinger), des archives Esterházy & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies de Joseph Haydn (Dies & Griesinger), des archives Esterházy & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognition incarnée et science cérébrale de la « Cognition habillée » (Enclothed Cognition)
+## 1. Cognition incarnée et science cérébrale de la « Cognition habillée » (Enclothed Cognition)
 
 Selon la théorie de la <strong>Cognition incarnée (Embodied Cognition)</strong> en psychologie cognitive, la pensée abstraite et les fonctions exécutives préfrontales sont liées à l'état physique du corps, y compris les vêtements portés. Le phénomène de <strong>« Cognition habillée » (Enclothed Cognition)</strong> montre que revêtir des habits symboliques et structurés améliore l'attention sélective et réduit les erreurs. En s'habillant élégamment, Haydn envoyait un signal d'ancrage cognitif a son cerveau : « C'est le moment d'activer la créativité », passant du mode repos au mode exécution.
 
 ---
 
-## Mise en garde : Consignes pour séparer le mode repos du mode concentration
-
-Pour Joseph Haydn, revêtir un costume formel était un acte de respect envers l'art et un interrupteur attentionnel. Travailler chez soi en pyjama ou en tenue décontractée trompe le cerveau en lui faisant croire qu'il est en « mode repos », réduisant la vigilance préfrontale. Se changer pour une tenue de travail soignée est la clé pour réveiller les fonctions exécutives.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour Joseph Haydn, revêtir un costume formel était un acte de respect envers l
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Consignes pour séparer le mode repos du mode concentration
+
+Pour Joseph Haydn, revêtir un costume formel était un acte de respect envers l'art et un interrupteur attentionnel. Travailler chez soi en pyjama ou en tenue décontractée trompe le cerveau en lui faisant croire qu'il est en « mode repos », réduisant la vigilance préfrontale. Se changer pour une tenue de travail soignée est la clé pour réveiller les fonctions exécutives.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Joseph Haydn s'habillait-il vraiment en costume complet même lorsqu'il composait seul chez lui ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour Joseph Haydn, revêtir un costume formel était un acte de respect envers l
       Oui, tout à fait. Les biographies historiques confirment que Haydn refusait de s'asseoir au piano sans sa tenue de cour, sa perruque et sa bague. Il soutenait qu'une tenue débraillée engendrait des idées désordonnées.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Faut-il forcément porter un costume rigide en télétravail ou des vêtements de ville confortables suffisent-ils ?</span>

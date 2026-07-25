@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Découverte d'une vision créative : La routine d'observation ultra-précise de la nature de Shin Saimdang"
 description: "La méthode d'entraînement à la créativité de Shin Saimdang, artiste phare de Joseon, par l'observation de la nature. Explique scientifiquement comment l'observation matinale régénère l'attention."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ Dans cet article, nous analysons la théorie de la restauration de l'attention e
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant saimdang-nature-observation est basée sur <strong>Recherche biographique historique sur l'observation de la nature de Shin Saimdang et études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique historique sur l'observation de la nature de Shin Saimdang et études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Théorie de la restauration de l'attention et guérison cérébrale par la « fascination douce »
+## 1. Théorie de la restauration de l'attention et guérison cérébrale par la « fascination douce »
 
 Selon la théorie de la restauration de l'attention, l'« attention dirigée » sollicitée par les écrans épuise le cortex préfrontal. À l'inverse, l'observation paisible d'éléments naturels plonge le cerveau dans un état de « fascination douce », rechargeant les batteries cognitives du lobe frontal et activant les réseaux créatifs.
 
 ---
 
-## Le conseil de Saimdang pour recharger l'inspiration et l'esprit
-
-La créativité sage ne jaillit pas en forçant son cerveau. Éloignez-vous un moment de votre bureau, observez silencieusement un brin d'herbe ou un insecte, et offrez du repos à votre esprit. Dans la relaxation naturelle, le cerveau recharge ses batteries.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ La créativité sage ne jaillit pas en forçant son cerveau. Éloignez-vous un m
     Revenez à l'intérieur et consignez l'objet au moins une fois par jour sur un support analogique (croquis au crayon, courte description ou gribouillage) pour intérioriser la visualisation.
   </p>
 </div>
+
+---
+
+## 3. Le conseil de Saimdang pour recharger l'inspiration et l'esprit
+
+La créativité sage ne jaillit pas en forçant son cerveau. Éloignez-vous un moment de votre bureau, observez silencieusement un brin d'herbe ou un insecte, et offrez du repos à votre esprit. Dans la relaxation naturelle, le cerveau recharge ses batteries.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

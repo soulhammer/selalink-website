@@ -507,6 +507,10 @@
           "햄스터스트레스"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/golden_hamster_care.png"
   }
 }

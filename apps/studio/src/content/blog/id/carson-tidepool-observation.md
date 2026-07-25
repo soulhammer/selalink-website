@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ekosistem Laut yang Memantik Silent Spring: Pengamatan Kolam Pasang Surut dan Relaksasi Pesona Lembut ala Rachel Carson"
 description: "Pelajari bagaimana Rachel Carson, pelopor gerakan lingkungan modern, memulihkan kapasitas kognitif yang lelah dengan mengamati kolam pasang surut di tengah tekanan korporasi dan pengobatan kanker. Temukan mekanisme neurosains dari Teori Restorasi Perhatian (ART) dan 'Pesona Lembut'."
 pubDate: "2026-07-04"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas pengam
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai carson-tidepool-observation didasarkan pada <strong>Verifikasi Historis dari Biografi Historis dan Arsip Autobiografi Rachel Carson & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Historis dan Arsip Autobiografi Rachel Carson & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pemulihan Saraf Melalui 'Pesona Lembut (Soft Fascination)' dan Teori Restorasi Perhatian (ART)
+## 1. Pemulihan Saraf Melalui 'Pesona Lembut (Soft Fascination)' dan Teori Restorasi Perhatian (ART)
 
 Masyarakat modern beroperasi dalam kondisi 'Perhatian Terarah (Directed Attention)', secara terus-menerus memaksa korteks prefrontal membakar glukosa untuk analisis data dan pengambilan keputusan. Perhatian terarah yang berkepanjangan memicu kelelahan kronis dan respons stres. Saat mengamati mikro-fenomena alam—seperti kehidupan laut yang meluncur melalui kolam pasang surut atau sinar matahari yang menembus dedaunan—otak memasuki kondisi 'Pesona Lembut (Soft Fascination)', di mana perhatian terlibat tanpa ketegangan kognitif. Menurut Teori Restorasi Perhatian (ART), kondisi ini memungkinkan pengisian ulang sumber daya kognitif yang terkuras. Lebih jauh lagi, mengamati mikro-ekosistem merangsang sistem saraf parasimpatis, menstabilkan denyut jantung.
 
 ---
 
-## Perhatian & Tip: Memblokir Layar Digital Berkelanjutan & Mempertahankan Ketenangan Tanpa Stimulus
-
-Bahkan di luar ruangan, mengambil foto secara terus menerus untuk media sosial, memeriksa notifikasi, atau mendengarkan podcast tetap menguras perhatian terarah. Ini merusak pemulihan kognitif yang dialami Carson. Selama sesi pengamatan alam, isolasi perangkat digital secara total dan benamkan indra Anda ke dalam detail angin, tanah, dan mikroorganisme untuk memicu pemulihan prefrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Bahkan di luar ruangan, mengambil foto secara terus menerus untuk media sosial, 
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Memblokir Layar Digital Berkelanjutan & Mempertahankan Ketenangan Tanpa Stimulus
+
+Bahkan di luar ruangan, mengambil foto secara terus menerus untuk media sosial, memeriksa notifikasi, atau mendengarkan podcast tetap menguras perhatian terarah. Ini merusak pemulihan kognitif yang dialami Carson. Selama sesi pengamatan alam, isolasi perangkat digital secara total dan benamkan indra Anda ke dalam detail angin, tanah, dan mikroorganisme untuk memicu pemulihan prefrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah mengamati tanaman hias dalam ruangan di rumah memberikan efek pemulihan kognitif yang serupa?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Bahkan di luar ruangan, mengambil foto secara terus menerus untuk media sosial, 
       Ya, tentu saja. Meskipun berskala lebih kecil, memeriksa pola urat daun, tekstur tanah, atau warna batang pada tanaman pot dalam ruangan memicu 'Pesona Lembut', secara efektif merelaksasi korteks prefrontal dan mengurangi stres.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah boleh jika saya tidak memiliki keterampilan menggambar dan tidak dapat membuat sketsa pengamatan terperinci?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "刹那の幾何学と没頭の視線：アンリ・カルティエ＝ブレッソンの「決定瞬」観察ルーティン"
 description: "現代フォトジャーナリズムの巨匠アンリ・カルティエ＝ブレッソンが完璧な幾何学的構図と刹那の瞬間を待った視覚的没頭の習慣。予測符号化（Predictive Coding）フィルターを打ち破り、視覚皮質と前頭葉注意制御ネットワークを呼び醒ます神経科学的原理を解き明かします。"
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「bresson-decisive-moment」は <strong>アンリ・カルティエ＝ブレッソン写真集『Images à la sauvette / The Decisive Moment』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アンリ・カルティエ＝ブレッソン写真集『Images à la sauvette / The Decisive Moment』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 予測符号化（Predictive Coding）フィルター解除と視覚皮質注意制御ネットワークの活性化
+## 1. 予測符号化（Predictive Coding）フィルター解除と視覚皮質注意制御ネットワークの活性化
 
 私たちが毎日通り過ぎる見慣れた街並みは、脳の「予測符号化（Predictive Coding）」システムによって大幅に省略され、意識の表面には浮かび上がってきません。脳はエネルギーを節約するため、予測可能な環境情報の感覚入力を無視するからです。ブレッソンのように周囲の物体の幾何学的パターニングや刻一刻と変化する光と影の境界を注意深く注視する行為は、この予測フィルターを無力化させます。これは視覚皮質（Visual Cortex）と前頭葉の注意制御ネットワーク（Attentional Control Network）を刺激して感覚の解像度を極限まで高め、脳を自発的な超集中状態へと導いて創造的な連想回路を活性化させます。
 
 ---
 
-## 注意事項＆ヒント：記録ではなく瞬間との認知的同期への集中
-
-この観察訓練の目的は、単にSNSアップロード用の美写真をたくさん集めることではありません。レンズの向こうの幾何学的構図と目の前の現実、そして内面の精神的バランスを一つに一致させる「遅延された注意力（Delayed Attention）」訓練そのものに目的があります。無意味に連写シャッターを連続して押す習慣を捨て、視覚的要素が完全に結合する刹那が訪れるまで5秒以上息をひそめて待つ静的で高度な集中状態を練習すべきです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：記録ではなく瞬間との認知的同期への集中
+
+この観察訓練の目的は、単にSNSアップロード用の美写真をたくさん集めることではありません。レンズの向こうの幾何学的構図と目の前の現実、そして内面の精神的バランスを一つに一致させる「遅延された注意力（Delayed Attention）」訓練そのものに目的があります。無意味に連写シャッターを連続して押す習慣を捨て、視覚的要素が完全に結合する刹那が訪れるまで5秒以上息をひそめて待つ静的で高度な集中状態を練習すべきです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>視覚観察訓練を行う際、フレームの中に人物が必ず含まれなければなりませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ。建物の壁面に射す電柱の影の角度、整然としたデスクの上のグラスを透過する光の束など、無生物が作り出す幾何学的形態と光の境界だけであっても、同様に鋭い視覚皮質活性化訓練が可能です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>写真を撮影した後、フィルターで補正したりトリミング（切り抜き）を行ってもいいですか？</span>

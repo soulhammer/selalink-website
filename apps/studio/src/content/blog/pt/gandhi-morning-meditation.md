@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Girar a Roda no Silêncio da Alvorada: A Rotina de Meditação Matinal e Meditação Ativa de Mahatma Gandhi"
 description: "Descubra como Mahatma Gandhi, o grande líder da paz na Índia, disciplinava sua mente ao acordar às 4h para meditar e girar a roda Charkha. Explore a neurociência da meditação ativa e da serotonina."
 pubDate: "2026-03-23"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina da r
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre gandhi-morning-meditation é baseada em <strong>Verificação Histórica da *Autobiografia: A História dos Meus Experimentos com a Verdade* de Mahatma Gandhi, Arquivos do Ashram e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da *Autobiografia: A História dos Meus Experimentos com a Verdade* de Mahatma Gandhi, Arquivos do Ashram e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Meditação Ativa: Como o Movimento Repetitivo Estimula a Serotonina e a Calma
+## 1. Meditação Ativa: Como o Movimento Repetitivo Estimula a Serotonina e a Calma
 
 Enquanto a meditação sentada é passiva, girar a roda exemplifica a <strong>Meditação Ativa</strong>: usar o movimento físico para induzir foco profundo. Exercitar o controle motor fino na ponta dos dedos em um movimento circular rítmico estimula a liberação de <strong>serotina</strong>. A serotonina limpa a mente e inibe a ansiedade. Além disso, a atenção necessária para não romper o fio suprime a Rede de Modo Padrão (DMN). A resiliência de Gandhi vinha desse reinício fisiológico diário, alinhando a <strong>Variabilidade da Frequência Cardíaca (HRV)</strong>.
 
 ---
 
-## Precaução: Priorize o Ritmo Repetitivo Tátil em Vez do Instrumento Físico
-
-Obter uma roda Charkha indiana autêntica é impraticável para a maioria. O mecanismo não depende do objeto histórico, mas do 'ritmo repetitivo tátil fino'. Você pode alcançar os mesmos benefícios neurológicos praticando um ritual de 10 minutos que use a ponta dos dedos: caligrafia, tricô, ritual do chá ou montagem de blocos de Lego.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Obter uma roda Charkha indiana autêntica é impraticável para a maioria. O mec
   </p>
 </div>
 
+---
+
+## 3. Precaução: Priorize o Ritmo Repetitivo Tátil em Vez do Instrumento Físico
+
+Obter uma roda Charkha indiana autêntica é impraticável para a maioria. O mecanismo não depende do objeto histórico, mas do 'ritmo repetitivo tátil fino'. Você pode alcançar os mesmos benefícios neurológicos praticando um ritual de 10 minutos que use a ponta dos dedos: caligrafia, tricô, ritual do chá ou montagem de blocos de Lego.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quais atividades táteis modernas podem substituir a roda de fiar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Obter uma roda Charkha indiana autêntica é impraticável para a maioria. O mec
       Qualquer atividade rítmica que exija precisão fina funciona muito bem: caligrafia com caneta-tinteiro, tricô ou crochê, ritual do chá, montagem de Lego ou quebra-cabeças, disparando a serotonina.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que fazer se minha mente continuar vagando durante as atividades táteis?</span>

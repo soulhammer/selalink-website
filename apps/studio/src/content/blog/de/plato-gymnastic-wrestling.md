@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Philosoph, der seine Schultern trainierte, bevor er nach den Ideen suchte? Platons hochintensives körperliches Aufwärmen"
 description: "Der altgriechische Philosoph Platon war eher unter seinem Ringer-Spitznamen 'breite Schultern' als unter seinem Geburtsnamen bekannt. Erfahren Sie mehr über die neurowissenschaftlichen Prinzipien und modernen Heimtrainingsmethoden hinter seiner täglichen Routine des intensiven Ringens vor morgendlichen intellektuellen Debatten."
 pubDate: "2026-03-05"
@@ -29,25 +30,23 @@ Platon, der große Philosoph, der das Fundament der westlichen Philosophie legte
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu plato-gymnastic-wrestling basiert auf <strong>Historische Biografien und Schriften über Platon & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und Schriften über Platon & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Maximierung der zerebralen Durchblutung und BDNF-Ausschüttung durch Widerstandstraining
+## 1. Maximierung der zerebralen Durchblutung und BDNF-Ausschüttung durch Widerstandstraining
 
 Gemäß moderner Sportphysiologie und Kognitionswissenschaft steigert hochintensives Widerstandstraining (wie Kniebeugen oder Liegestütze) sofort die zerebrale Durchblutung und Sauerstoffsättigung im Kortex. Diese physiologische Aktivierung löst eine rasche Ausschüttung des Brain-Derived Neurotrophic Factor (BDNF) aus – ein Schlüsseleiweiß, das Neurogenese und synaptische Plastizität fördert. Zudem werden Neurotransmitter wie Dopamin und Noradrenalin freigesetzt, was direkt nach dem Training ideale Bedingungen für Langzeitgedächtnis und komplexes Denken schafft.
 
 ---
 
-## Tipps zur Verletzungsprävention und zum perfekten Timing für die Denkphase
-
-Ein abruptes hochintensives Training direkt nach dem Aufstehen kann Gelenke und Bänder belasten. Wärmen Sie Ihre Gelenke vor Eigengewichtsübungen mit leichtem Dehnen auf. Wenn Sie nach dem Training länger als 15 Minuten pausieren, verfliegt der Höhepunkt der verbesserten Gehirndurchblutung. Gehen Sie daher am besten innerhalb von 5 Minuten nach der Beruhigung der Atmung direkt zu komplexer geistiger Arbeit über.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ Ein abruptes hochintensives Training direkt nach dem Aufstehen kann Gelenke und 
   </p>
 </div>
 
+---
+
+## 3. Tipps zur Verletzungsprävention und zum perfekten Timing für die Denkphase
+
+Ein abruptes hochintensives Training direkt nach dem Aufstehen kann Gelenke und Bänder belasten. Wärmen Sie Ihre Gelenke vor Eigengewichtsübungen mit leichtem Dehnen auf. Wenn Sie nach dem Training länger als 15 Minuten pausieren, verfliegt der Höhepunkt der verbesserten Gehirndurchblutung. Gehen Sie daher am besten innerhalb von 5 Minuten nach der Beruhigung der Atmung direkt zu komplexer geistiger Arbeit über.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist diese Routine für Anfänger mit schwachen Gelenken oder ohne Erfahrung geeignet?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ Ein abruptes hochintensives Training direkt nach dem Aufstehen kann Gelenke und 
       Ja, Sie müssen keine schweren Gewichte heben. Passen Sie die Übungen an Ihr Niveau an, z. B. mit Liegestützen an der Wand, langsamen Kniebeugen oder Planks. Der physiologische Indikator für eine gesteigerte Gehirndurchblutung ist 'spürbar beschleunigte Atmung und leichtes Schwitzen'. Bleiben Sie stets in einem sicheren Bereich.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kann ich das Krafttraining durch leichtes Ausdauertraining wie Joggen oder Laufen ersetzen?</span>

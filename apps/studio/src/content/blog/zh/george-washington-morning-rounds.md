@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "乔治·华盛顿的“农事日志”：缔造首任总统治理能力的黎明巡视与精准记录习惯"
 description: "探索乔治·华盛顿如何在清晨4点即起踏遍弗吉尼亚的弗农山庄、精细记录气候与农作物数据。揭示构成国家行政基石的元认知习惯与外侧前额叶皮层激活原理。"
 pubDate: "2026-07-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 george-washington-morning-rounds 的内容基于 <strong>乔治·华盛顿传记与弗农山庄（Mount Vernon）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>乔治·华盛顿传记与弗农山庄（Mount Vernon）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 精准数据记录唤醒元认知与激活外侧前额叶皮层的原理
+## 1. 精准数据记录唤醒元认知与激活外侧前额叶皮层的原理
 
 大脑的<strong>元认知（Metacognition）</strong>是指“准确评估自身所知与未知的高阶认知监控能力”。若元认知监控较弱，个体极易在无法觉察潜在风险或低效隐患的情况下，凭凭被动主观体感做出误判。如乔治·华盛顿这般每天亲手精准誊录气象变幻、农作物产出等微观硬核数据的习惯，能强力激活大脑的<strong>外侧前额叶皮层（Lateral Prefrontal Cortex）</strong>。通过以硬核数据替代含混主观假设，此机制能彻底扫除<strong>认知幻觉（Cognitive Illusion）</strong>，将决策锁定于客观事实之上，促成极速且零失误的资源调度与决断。
 
 ---
 
-## 注意事项：排除主观情绪感受，严苛聚焦定量数据指标
-
-如“今天感觉挺累的”这类模糊的主观感叹，根本无法撬动元认知回路。元认知唯有在手写抄录客观的“数据指标”时方能被强力激活——如精准的起居时刻、阅读页数、深度专注工时、或健身组数。唯有如华盛顿日志般恪守硬核数据归档，方能生发甄别与铲除低效瑕疵的自我掌控力。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：排除主观情绪感受，严苛聚焦定量数据指标
+
+如“今天感觉挺累的”这类模糊的主观感叹，根本无法撬动元认知回路。元认知唯有在手写抄录客观的“数据指标”时方能被强力激活——如精准的起居时刻、阅读页数、深度专注工时、或健身组数。唯有如华盛顿日志般恪守硬核数据归档，方能生发甄别与铲除低效瑕疵的自我掌控力。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>当全天数据指标表现不佳时，心里会产生抵触抵抗情绪、不想填录日志，该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       元认知激活的核心奥义在于“精准客观的自我监控”，而非强求每日完满。坦然接纳并诚实地记录落后指标，恰是打碎自我欺骗与认知逃避、建立重构明日战术复原力的关键环扣。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>能否完全依赖Notion或Excel等数字表格软件管理所有绩效指标？</span>

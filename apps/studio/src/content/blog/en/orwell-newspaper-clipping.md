@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Novelist Who Clipped Daily News with Scissors? George Orwell's Knowledge Schema Building Method"
 description: "Novelist George Orwell read multiple newspapers every morning, clipping articles with scissors to organize into scrapbooks. Discover the prefrontal cortex principles of building organic information schemas and modern digital clipping routines."
 pubDate: "2026-03-13"
@@ -38,22 +39,20 @@ In this post, we explore the neuroscientific mechanics behind George Orwell's ne
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding orwell-newspaper-clipping is based on <strong>Historical biography and autobiographical records verification of George Orwell & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography and autobiographical records verification of George Orwell & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Brain Science of Information Encoding and Schemas
+## 1. Brain Science of Information Encoding and Schemas
 
 Skimming through digital articles briefly leaves information in short-term memory before most of it fades away. Conversely, actively selecting articles, 'clipping' them (physical or digital action), and categorizing them triggers the brain's <strong>'deep encoding'</strong> process. This information structuring settles data into long-term cortical storage and constructs a <strong>'schema network'</strong> linked with existing knowledge. A brain with rich schemas grasps new contexts faster, pinpoints core issues, and exhibits high fluid intelligence when recalling background knowledge for writing or decision-making.
 
 ---
 
-## The Trap of Blind Collection Addiction
-
-Simply bookmarking links or saving good articles to a folder with a single click falls into the 'Collector's Fallacy'—fooling the brain into believing it possesses knowledge. Only when you summarize information yourself or add a one-line reflection in your own words does the data stimulate cognitive processing and transform into your genuine knowledge schema.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Simply bookmarking links or saving good articles to a folder with a single click
   </p>
 </div>
 
+---
+
+## 3. The Trap of Blind Collection Addiction
+
+Simply bookmarking links or saving good articles to a folder with a single click falls into the 'Collector's Fallacy'—fooling the brain into believing it possesses knowledge. Only when you summarize information yourself or add a one-line reflection in your own words does the data stimulate cognitive processing and transform into your genuine knowledge schema.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Are George Orwell's actual scrapbooks preserved today?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Simply bookmarking links or saving good articles to a folder with a single click
       Yes, articles collected by George Orwell, copies of his hand-clipped scrapbooks, and related working notes are preserved as valuable historical archives at University College London (UCL).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Which apps are recommended to practice this clipping routine digitally?</span>

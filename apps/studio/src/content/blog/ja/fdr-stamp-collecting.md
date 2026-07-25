@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "フランクリン・D・ルーズベルトの「切手分類」：過酷な業務から脳を救った認知的リラックスルーティンとアナログ熟眠法"
 description: "戦争と経済危機のストレスの中でも、毎夜切手の分類で脳の緊張をほぐしたルーズベルト大統領。熟眠とストレス解消を助ける認知的リラックスの原理と脳科学的メカニズムを解き明かします。"
 pubDate: "2026-07-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「fdr-stamp-collecting」は <strong>フランクリン・D・ルーズベルト評伝およびFDR大統領図書館（FDR Presidential Library）史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>フランクリン・D・ルーズベルト評伝およびFDR大統領図書館（FDR Presidential Library）史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 過熱した作業記憶を冷ます認知的リラックスと副交感神経の活性化
+## 1. 過熱した作業記憶を冷ます認知的リラックスと副交感神経の活性化
 
 重要なビジネス意思決定やストレスの高い業務を遂行する時、脳の前頭前野皮質は休みなく回転し、 大なエネルギーを消費します。業務が終わった後もこの緊張が解けず、認知的残留が脳に残っていると、睡眠障害を引き起こし長期的には脳神経細胞を損傷させます。ルーズベルトの切手分類のように業務と無関係な精密な視覚・触覚的趣味を楽しむことは、脳に「安全信号」を送り前頭葉の全般的な覚醒レベルを穏やかに鎮めます。脳科学の研究によると、このような認知的リラックス（Cognitive Shifting）は熟眠を誘導するメラトニンと身体復旧を助ける成長ホルモンの放出を促進します。つまり、意図的なアナログの句読点を通じて過熱した脳を冷ます必須の冷却システムとして機能するのです。
 
 ---
 
-## 注意事項：就寝前デジタル画面を消しアナログ活動に焦点を合わせてください
-
-多くの人がベッドに横たわってスマートフォンで動画を見ながら休んでいると 覚しますが、デジタル画面のブルーライトと絶え間ない刺激情報は脳を継続して覚醒状態にさせます。睡眠ホルモンであるメラトニンが円滑に分泌されるようにするには、就寝前に必ずアナログ道具や指先の感覚を使う活動に焦点を合わせる時間を持たなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：就寝前デジタル画面を消しアナログ活動に焦点を合わせてください
+
+多くの人がベッドに横たわってスマートフォンで動画を見ながら休んでいると 覚しますが、デジタル画面のブルーライトと絶え間ない刺激情報は脳を継続して覚醒状態にさせます。睡眠ホルモンであるメラトニンが円滑に分泌されるようにするには、就寝前に必ずアナログ道具や指先の感覚を使う活動に焦点を合わせる時間を持たなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>スマートフォンゲームや動画視聴も認知的リラックスに役立ちますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       そうではありません。デジタル画面のブルーライトと刺激的な情報フィードは脳を休ませるのではなく覚醒状態を維持させ、睡眠ホルモンであるメラトニンの分泌を妨げます。認知的リラックスのためには、必ずアナログ道具や指先を使う手作業を活用しなければなりません。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>毎夜30分が長すぎると感じる時はどうすればよいですか？</span>

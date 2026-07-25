@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La précision de 60 grains de café : Le rituel caféier matinal et le mindfulness de Beethoven"
 description: "Découvrez l'habitude unique de Ludwig van Beethoven qui comptait exactement 60 grains de café chaque matin, et explorez le mécanisme neuroscientifique où le contrôle sensoriel fin calme le réseau en mode par défaut (DMN) et active l'hyperfocus."
 pubDate: "2026-05-14"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale du curieux r
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant beethoven-coffee-ritual est basée sur <strong>Vérification Historique issue de la biographie d'Anton Schindler *Biographie de Ludwig van Beethoven* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Anton Schindler *Biographie de Ludwig van Beethoven* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Suppression de l'hyperactivation du DMN et cadrage cognitif via une focalisation sensorielle fine
+## 1. Suppression de l'hyperactivation du DMN et cadrage cognitif via une focalisation sensorielle fine
 
 Juste après le réveil le matin, le cerveau suractive souvent le réseau en mode par défaut (DMN) en se remémorant les soucis de la veille ou les tâches du jour, gaspillant de l'énergie cognitive et augmentant l'anxiété. À ce moment, une tâche motrice fine et précise (Fine Motor Task) — comme ressentir la texture tactile de petits grains de café et les compter un par un — sert d'excellent exercice de mindfulness qui déplace de force la focalisation du cerveau vers le « sens présent ». Cela apaise les pensées vagabondes du DMN et éveille le cortex sensoriel et les réseaux de contrôle exécutif. De plus, l'exécution quotidienne de cette séquence identique agit comme un déclencheur cognitif (Cognitive Trigger) puissant, signalant au cerveau qu'il entre désormais dans un état de haute concentration créative.
 
 ---
 
-## Précautions & Conseils : Maintien d'un engagement sensoriel analogique raffiné
-
-Lors de votre rituel matinal, consulter les actualités ou les réseaux sociaux sur un smartphone ou simplement appuyer sur les boutons d'appareils automatiques empêche le cerveau de maintenir un état de mindfulness. Immergez-vous strictement dans des stimuli sensoriels analogiques — comme les sensations fines des mains, la texture tactile des ustensiles, les arômes et les sons — pour faciliter une synchronisation cognitive fluide dans le cerveau.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lors de votre rituel matinal, consulter les actualités ou les réseaux sociaux 
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Maintien d'un engagement sensoriel analogique raffiné
+
+Lors de votre rituel matinal, consulter les actualités ou les réseaux sociaux sur un smartphone ou simplement appuyer sur les boutons d'appareils automatiques empêche le cerveau de maintenir un état de mindfulness. Immergez-vous strictement dans des stimuli sensoriels analogiques — comme les sensations fines des mains, la texture tactile des ustensiles, les arômes et les sons — pour faciliter une synchronisation cognitive fluide dans le cerveau.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Beethoven insistait-il strictement sur exactement 60 grains de café ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lors de votre rituel matinal, consulter les actualités ou les réseaux sociaux 
       Le chiffre strict de 60 grains contrôlait le goût du café par une quantification parfaite, mais l'acte de compter précisément était en soi un déclencheur cognitif qui coupait les pensées parasites et activait le réseau de contrôle exécutif de haut niveau du cerveau.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Les personnes qui ne boivent pas de café peuvent-elles appliquer cette routine de mindfulness ?</span>

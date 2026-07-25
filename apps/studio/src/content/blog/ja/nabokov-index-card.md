@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "思考のモジュール化：ウラジミール・ナボコフのインデックスカード執筆法"
 description: "小説を断片化してカードに記録し順序を再配置した作家ウラジミール・ナボコフ。認知負荷を遮断し、創造的なアイデアを柔軟に結合するカード式企画法の認知科学的価値に光を当てます。"
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「nabokov-index-card」は <strong>ナボコフのインデックスカードに関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ナボコフのインデックスカードに関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 認知負荷の遮断と結合的創造性の神経メカニズム
+## 1. 認知負荷の遮断と結合的創造性の神経メカニズム
 
 脳が重要で完成度の高い成果物を作らなければならないと認識すると、扁桃体は失敗に対する無意識の警報を発令し、先延ばし行動を引き起こします。このとき、価値がなく極めて些細な執筆を先行して脳に「評価されない安全な状態」というフィードバックを伝えると、扁桃体の過剰活動が静まります。同時にブローカ野と運動野が軽く活性化してギアがかみ合い、本業務に着手する際の抵抗の障壁を 期的に下げてくれます。
 
 ---
 
-## 注意事項およびヒント
-
-カード執筆に夢中になり、各カードを関連性なく無作為に書き留めるだけでは、後でそれらを一つにまとめる際に巨大な断片化の壁にぶつかることになります。したがって、1枚のカードには必ず単一の完結した考えやエピソードのみを記録し、時折全体のアーキテクチャ（例：全体のアウトライン）を思い出しながらカードの大まかなカテゴリーをあらかじめ分類しておく緩衝の努力が必要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     最適な配列が完成したらカードのフローを固定し、最初のカードから順番に肉付けを行い、全体文書や企画を完成させます。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびヒント
+
+カード執筆に夢中になり、各カードを関連性なく無作為に書き留めるだけでは、後でそれらを一つにまとめる際に巨大な断片化の壁にぶつかることになります。したがって、1枚のカードには必ず単一の完結した考えやエピソードのみを記録し、時折全体のアーキテクチャ（例：全体のアウトライン）を思い出しながらカードの大まかなカテゴリーをあらかじめ分類しておく緩衝の努力が必要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

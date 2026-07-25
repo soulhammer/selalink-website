@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Superando bloqueios atraves da forca da disciplina: A rotina matinal de escrita de Natsume Soseki"
 description: "A regra de escrita matinal por trás das obras-primas de Natsume Soseki. Explica o valor cognitivo de despertar a excitação de ação do cérebro sem esperar pela inspiração."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Neste post, examinamos os mecanismos da ciência cognitiva por trás da rotina d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre soseki-forced-writing é baseada em <strong>Biografias históricas, registros autobiográficos da escrita forçada de Soseki e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas, registros autobiográficos da escrita forçada de Soseki e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O efeito de excitação por ação: Como a ação gera motivação
+## 1. O efeito de excitação por ação: Como a ação gera motivação
 
 O cérebro não libera hormônios de motivação enquanto permanece inativo. Apenas quando você começa a agir o córtex pré-frontal e o núcleo accumbens são estimulados para impulsionar a ação. Pesquisas neurocientíficas mostram que agir suprime a ansiedade desnecessária na amígdala e ativa os circuitos da memória de trabalho, aumentando drasticamente a função executiva.
 
 ---
 
-## Conselho do mestre para desencadear a ação imediata
-
-Não espere pelo humor certo ou ambiente ideal; sente-se à mesa e escreva nem que seja uma única palavra. Apenas a ação desperta o cérebro. Em vez de depender apenas da força de vontade, projete com antecedência um ambiente físico e gatilhos que induzam a ação naturally.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Não espere pelo humor certo ou ambiente ideal; sente-se à mesa e escreva nem q
   </p>
 </div>
 
+---
+
+## 3. Conselho do mestre para desencadear a ação imediata
+
+Não espere pelo humor certo ou ambiente ideal; sente-se à mesa e escreva nem que seja uma única palavra. Apenas a ação desperta o cérebro. Em vez de depender apenas da força de vontade, projete com antecedência um ambiente físico e gatilhos que induzam a ação naturally.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

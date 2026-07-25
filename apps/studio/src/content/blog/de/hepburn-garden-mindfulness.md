@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Fundament der Eleganz: Audrey Hepburns heilende Gartenroutine und die Neurowissenschaften des Bodenkontakts"
 description: "Erfahren Sie, wie die Hollywood-Legende Audrey Hepburn durch Gartenarbeit emotionale Ruhe und Eleganz bewahrte. Entdecken Sie die Neurowissenschaften des Bodenkontakts, Mycobacterium vaccae und Serotonin."
 pubDate: "2026-01-14"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Umweltpsychologie und Neurowissenschafte
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu hepburn-garden-mindfulness basiert auf <strong>Historische Überprüfung aus Audrey Hepburn-Biografien, Archiven des Anwesens Tolochenaz (Schweiz) & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Audrey Hepburn-Biografien, Archiven des Anwesens Tolochenaz (Schweiz) & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mycobacterium vaccae und die Neurowissenschaften der Serotonin-Ausschüttung
+## 1. Mycobacterium vaccae und die Neurowissenschaften der Serotonin-Ausschüttung
 
 Der Mensch ist evolutionär darauf ausgelegt, durch Erdkontakt seelische Ruhe zu finden. Studien zeigen, dass das Berühren von Gartenerde uns mit dem Bodenbakterium <strong>Mycobacterium vaccae</strong> in Kontakt bringt. Dieser Mikroorganismus regt die Ausschüttung von <strong>Serotonin</strong> im Gehirn an – dem Neurotransmitter für emotionale Gelassenheit. Gartenarbeit bietet somit einen doppelten Nutzen: Sie bewirkt <strong>Aufmerksamkeitserholung (Attention Restoration)</strong> im <strong>präfrontalen Kortex</strong> und beruhigt das Nervensystem.
 
 ---
 
-## Vorsichtsmaßnahme: Ablenkungen ausschalten und ganz in die Haptik der Erde eintauchen
-
-Um durch Gartenarbeit emotionale Entlastung zu erfahren, richten Sie Ihre Aufmerksamkeit ganz auf die Sinneseindrücke. Wer beim Arbeiten mit der Erde an Aufgaben denkt, blockiert die kognitive Erholung. Konzentrieren Sie sich auf das spürbare Feedback: die kühle Feuchtigkeit der Erde, kornigen Sand oder weiche Blätter. Erst dann schaltet das Gehirn in echte Entspannung um.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Um durch Gartenarbeit emotionale Entlastung zu erfahren, richten Sie Ihre Aufmer
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Ablenkungen ausschalten und ganz in die Haptik der Erde eintauchen
+
+Um durch Gartenarbeit emotionale Entlastung zu erfahren, richten Sie Ihre Aufmerksamkeit ganz auf die Sinneseindrücke. Wer beim Arbeiten mit der Erde an Aufgaben denkt, blockiert die kognitive Erholung. Konzentrieren Sie sich auf das spürbare Feedback: die kühle Feuchtigkeit der Erde, kornigen Sand oder weiche Blätter. Erst dann schaltet das Gehirn in echte Entspannung um.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist diese Methode auch in Wohnungen ohne eigenen Garten wirksam?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Um durch Gartenarbeit emotionale Entlastung zu erfahren, richten Sie Ihre Aufmer
       Ja, absolut! Das Befüllen kleiner Töpfe auf dem Balkon oder Schreibtisch mit Pflanzerde und das Anbauen von Kräutern bietet dieselbe haptische Stimulation und Bakterienexposition. Entscheidend ist der physische Kontakt mit der Erde, unabhängig von der Pflanzengröße.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bestehen Hygiene- oder Infektionsrisiken beim Berühren von Erde mit bloßen Händen?</span>

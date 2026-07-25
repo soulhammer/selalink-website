@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'écrivaine qui créait de la magie dans le bruit d'un café ? La routine d'immersion dans le bruit blanc de J.K. Rowling"
 description: "J.K. Rowling, l'auteure d'Harry Potter, a rédigé son chef-d'œuvre sur fond de murmures de café plutôt que dans le silence. Découvrez sa routine et les principes neuroscientifiques du bruit blanc."
 pubDate: "2026-03-03"
@@ -10,7 +11,7 @@ app: "buildself"
 formatVersion: 4
 authority: "Vérification des biographies historiques de J.K. Rowling & recherche en neurosciences cognitives"
 steps:
-  - name: "Mettre en place un environnement de bruit blanc (~70 dB)"
+  - name: "Mettre en place un environnement de bruit blanc ( ~ 70 dB)"
     text: "Installez-vous dans un coin calme d'un café animé, ou diffusez un bruit blanc de café ou de pluie à environ 70 dB chez vous."
   - name: "Isolation numérique au sein du bouclier sonore"
     text: "Mettez votre téléphone en sourdine et gardez uniquement votre document ouvert. Laissez le bruit ambiant agir comme un cocon protecteur."
@@ -35,17 +36,17 @@ Dans cet article, nous analysons les mécanismes neuroscientifiques de la routin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant rowling-cafe-focus est basée sur <strong>Vérification des biographies historiques de J.K. Rowling & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques de J.K. Rowling & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La « disfluence cognitive » favorisant l'activation cérébrale abstraite
+## 1. La « disfluence cognitive » favorisant l'activation cérébrale abstraite
 
 Pour les tâches créatives, le silence absolu peut être contre-productif en créant une tension mentale excessive.
 
@@ -53,14 +54,12 @@ La routine de Rowling illustre les bienfaits d'un bruit ambiant d'environ 70 dB.
 
 ---
 
-## Un bruit ambiant modéré ouvre les portes de la pensée
-
-Pour Rowling, le brouhaha du café était un bouclier sonore réconfortant qui compensait la solitude et stimulait sa créativité. Quand vos idées stagnent dans une pièce silencieuse, rendez-vous dans un café ou écoutez du bruit blanc.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ÉTAPE 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mettre en place un environnement de bruit blanc (~70 dB)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Mettre en place un environnement de bruit blanc ( ~ 70 dB)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Installez-vous dans un coin calme d'un café animé, ou diffusez un bruit blanc de café ou de pluie à environ 70 dB chez vous.
@@ -87,12 +86,18 @@ Pour Rowling, le brouhaha du café était un bouclier sonore réconfortant qui c
   </p>
 </div>
 
+---
+
+## 3. Un bruit ambiant modéré ouvre les portes de la pensée
+
+Pour Rowling, le brouhaha du café était un bouclier sonore réconfortant qui compensait la solitude et stimulait sa créativité. Quand vos idées stagnent dans une pièce silencieuse, rendez-vous dans un café ou écoutez du bruit blanc.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Écouter du heavy metal ou de la musique pop à fort volume a-t-il le même effet ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Pour Rowling, le brouhaha du café était un bouclier sonore réconfortant qui c
       Non. La musique avec paroles ou un bruit fort et rythmé (>85 dB) envahit la mémoire de travail du lobe frontal, entraînant de la fatigue. Seul un bruit ambiant imprévisible et sans paroles génère cet effet bénéfique.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Écouter du bruit blanc avec des écouteurs dans une pièce silencieuse est-il utile ?</span>

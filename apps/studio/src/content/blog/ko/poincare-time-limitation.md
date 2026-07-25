@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "천재 수학자의 답은 휴식 중에 나왔다? 앙리 푸앵카레의 4시간 집중 제한 루틴"
 description: "천재 과학자 앙리 푸앵카레의 성공 공식인 하루 4시간 집중 한계 설정법. 뇌의 집중 모드와 분산 모드를 활용해 무의식적으로 창의적 영감을 얻는 3단계 가이드를 소개합니다."
 pubDate: "2026-04-19"
@@ -27,17 +28,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>앙리 푸앵카레 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 poincare-time-limitation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>앙리 푸앵카레 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 집중 모드와 분산 모드: 무의식의 문제 해결 능력
+## 1. 집중 모드와 분산 모드: 무의식의 문제 해결 능력
 
 학습 과학 및 신경 생리학에 따르면, 우리 뇌의 인지 기능은 '집중 모드(Focused Mode)'와 '분산 모드(Diffuse Mode)'의 두 가지 시스템으로 작동합니다. 책상 앞에 앉아 온 힘을 다해 연산하는 집중 모드에서는 전두엽의 기능이 조여져 좁고 특정한 영역의 회로망만 활성화됩니다. 하지만 집중을 풀고 가벼운 산책이나 휴식을 취하는 분산 모드가 되면, 뇌의 전반적인 영역이 연결되는 디폴트 모드 네트워크(DMN)가 깨어납니다.
 
@@ -45,9 +46,7 @@ faqs:
 
 ---
 
-## 지속가능한 몰입을 위한 뇌과학적 한마디
-
-창의적인 생각은 억지로 쥐어짜 낼 때 나오는 것이 아닙니다. 뇌의 집중 한계 시간을 명확히 설정하고, 풀리지 않는 문제가 있다면 과감하게 자리에서 일어나 산책을 하며 뇌에 '분산 모드'의 휴식을 선사하세요. 무의식이 당신 대신 해답을 찾아 줄 것입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     휴식 중에 무의식이 돌려보낸 답은 찰나의 전구빛과 같아서 붙잡지 않으면 순식간에 휘발됩니다. 앙리 푸앵카레의 메모지나 소형 스마트폰 녹음 기능을 사용해 휴식 중에 갑자기 튀어나온 창의적 영감을 즉각 포착하여 저장합니다.
   </p>
 </div>
+
+---
+
+## 3. 지속가능한 몰입을 위한 뇌과학적 한마디
+
+창의적인 생각은 억지로 쥐어짜 낼 때 나오는 것이 아닙니다. 뇌의 집중 한계 시간을 명확히 설정하고, 풀리지 않는 문제가 있다면 과감하게 자리에서 일어나 산책을 하며 뇌에 '분산 모드'의 휴식을 선사하세요. 무의식이 당신 대신 해답을 찾아 줄 것입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

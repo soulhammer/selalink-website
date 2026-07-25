@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "혼란 속에서 질서를 기록하다? 아이작 뉴턴의 연구 일지 기록 습관"
 description: "인류 최고의 과학자 아이작 뉴턴. 평생 거대한 가죽 노트에 모든 통찰과 계산을 정밀하게 기록했던 그의 습관과 손으로 직접 쓰고 정리하는 행위가 주는 뇌과학적 원리를 분석합니다."
 pubDate: "2026-03-30"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>아이작 뉴턴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 newton-meticulous-journaling 루틴을 다룹니다.
+      본 콘텐츠는 <strong>아이작 뉴턴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌의 작업 기억 과부하를 비워주는 '인지적 외재화'
+## 1. 뇌의 작업 기억 과부하를 비워주는 '인지적 외재화'
 
 우리의 단기 기억을 담당하는 '작업 기억(Working Memory)'의 용량은 매우 제한적입니다. 머릿속으로 수많은 연산과 통찰을 복잡하게 굴리다 보면 뇌는 인지 과부하 상태에 빠져 창의적 사고를 정지합니다. 뉴턴이 노트에 세밀하게 손글씨를 적고 시각화한 것은 대뇌의 <strong>'인지적 외재화(Cognitive Offloading)'</strong> 메커니즘을 작동시킨 것입니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 단순 메모가 아닌 시각 구조화 훈련을 하세요
-
-스마트폰이나 디지털 메모장에 텍스트를 기계적으로 입력하는 것은 뇌의 촉각 자극이 덜하고 기억 강화 효과가 약합니다. 핵심은 펜을 잡고 뇌에 아날로그 피드백을 전달하는 것과, 화살표, 다이어그램, 도표 등을 활용하여 생각을 시각적으로 엮는 것입니다. 만약 디지털 노트를 쓰더라도 스타일러스 펜을 사용하여 직접 그리고 연결 고리를 표시하는 시각화 훈련을 병행하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     생각을 문장으로만 적는 데 머물지 않고 화살표로 아이디어를 연결하고, 간단한 흐름도나 개념 다이어그램, 테이블 등을 손으로 직접 그려 복잡한 논리를 시각적으로 엮어 정리합니다.
   </p>
 </div>
+
+---
+
+## 3. 단순 메모가 아닌 시각 구조화 훈련을 하세요
+
+스마트폰이나 디지털 메모장에 텍스트를 기계적으로 입력하는 것은 뇌의 촉각 자극이 덜하고 기억 강화 효과가 약합니다. 핵심은 펜을 잡고 뇌에 아날로그 피드백을 전달하는 것과, 화살표, 다이어그램, 도표 등을 활용하여 생각을 시각적으로 엮는 것입니다. 만약 디지털 노트를 쓰더라도 스타일러스 펜을 사용하여 직접 그리고 연결 고리를 표시하는 시각화 훈련을 병행하세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

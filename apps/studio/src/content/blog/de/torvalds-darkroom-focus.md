@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Programmierer im Abstellraum, der Licht und Lärm ausblendet? Linus Torvalds' Dunkelraum-Fokusroutine"
 description: "Linus Torvalds, Schöpfer von Linux und Git. Untersucht, wie er in einem abgelegenen Raum ohne externe visuelle Reize und elektronische Dekorationen Hyperfokus erreichte und wie man seine geräuschlose Arbeitsumgebung aufbaut."
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ Im heutigen Beitrag teilen wir eine kognitionswissenschaftliche Analyse darüber
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu torvalds-darkroom-focus basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Linus Torvalds & Kognitive Neurowissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Linus Torvalds & Kognitive Neurowissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## ‚Kognitive Filtration‘: Aufmerksamkeit durch Steuerung visueller Reize bewahren
+## 1. ‚Kognitive Filtration‘: Aufmerksamkeit durch Steuerung visueller Reize bewahren
 
 Unsere visuelle Hirnrinde berechnet ständig und unbewusst Tiefen-, Farb- und Forminformationen für jedes sichtbare Objekt (Spielzeug auf dem Schreibtisch, farbenfrohe Bilderrahmen, Bewegungen vorbeigehender Personen usw.). Das Sehen stellt die schwerste kognitive Belastung für das Gehirn dar und verbraucht etwa 30 % der gesamten Energie der Großhirnrinde.
 
@@ -53,9 +54,7 @@ Linus Torvalds' Dunkelraum-Fokusroutine war eine Höchstform der <strong>‚Kogn
 
 ---
 
-## In der Dunkelheit wird die Logik des Programmierers glasklar
-
-Für Linus Torvalds war der Dunkelraum im Waschraum eine kognitive Festung, die externe Versuchungen und geringfügige Reize an der Quelle blockierte. Wenn Ihr Zuhause ablenkend ist und es Ihnen schwerfällt, tief in Ihre Arbeit einzutauchen, während Ihre Aufmerksamkeit verschwendet wird, versuchen Sie, Ihren Schreibtischbereich von jeglicher visueller Dekoration zu befreien und die Umgebungsbeleuchtung zu dimmen, bevor Sie die Konzentrationsfähigkeit Ihres Gehirns beschuldigen. Sie werden eine erstaunliche Immersion erleben.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Für Linus Torvalds war der Dunkelraum im Waschraum eine kognitive Festung, die 
   </p>
 </div>
 
+---
+
+## 3. In der Dunkelheit wird die Logik des Programmierers glasklar
+
+Für Linus Torvalds war der Dunkelraum im Waschraum eine kognitive Festung, die externe Versuchungen und geringfügige Reize an der Quelle blockierte. Wenn Ihr Zuhause ablenkend ist und es Ihnen schwerfällt, tief in Ihre Arbeit einzutauchen, während Ihre Aufmerksamkeit verschwendet wird, versuchen Sie, Ihren Schreibtischbereich von jeglicher visueller Dekoration zu befreien und die Umgebungsbeleuchtung zu dimmen, bevor Sie die Konzentrationsfähigkeit Ihres Gehirns beschuldigen. Sie werden eine erstaunliche Immersion erleben.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Schadet das Betrachten eines Monitors in einem dunklen Raum der Sehkraft?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Für Linus Torvalds war der Dunkelraum im Waschraum eine kognitive Festung, die 
       Ein übermäßig hoher Kontrast in absoluter Dunkelheit führt zu Augenermüdung. Daher beugt das Dimmen der Monitorhelligkeit an die dunkle Umgebung oder die Installation einer sanften Hintergrundbeleuchtung (wie indirekte LED-Streifen) hinter dem Monitor einer Überlastung des Sehnervs vor, während eine hohe Immersion erhalten bleibt.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was soll ich tun, wenn ich keinen Waschraum oder isolierten Raum zu Hause habe?</span>

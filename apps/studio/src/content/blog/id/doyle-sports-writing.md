@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Tinju Sebelum Menulis Sherlock Holmes? Rutinitas Olahraga Pemantik Otak dan Sekresi BDNF ala Arthur Conan Doyle"
 description: "Pelajari mengapa dokter dan penulis Arthur Conan Doyle melakukan olahraga berat seperti tinju dan kriket sebelum menulis. Temukan neurosains kognitif tentang bagaimana olahraga intensif melepaskan BDNF dan meningkatkan fungsi eksekutif prefrontal."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'olahr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai doyle-sports-writing didasarkan pada <strong>Verifikasi Historis dari Autobiografi Arthur Conan Doyle *Memories and Adventures* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Arthur Conan Doyle *Memories and Adventures* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Fisik, Sekresi BDNF, dan Memaksimalkan Fungsi Eksekutif Prefrontal
+## 1. Aktivasi Fisik, Sekresi BDNF, dan Memaksimalkan Fungsi Eksekutif Prefrontal
 
 Olahraga intensitas tinggi atau olahraga kardio secara drastis meningkatkan curah jantung, membanjiri aliran darah beroksigen secara langsung ke dalam korteks prefrontal (PFC). Neurosains kognitif dan fisiologi olahraga menunjukkan bahwa pengerahan fisik yang kuat memicu pelepasan Brain-Derived Neurotrophic Factor (BDNF), protein kunci yang mendorong plastisitas sinaptik. Secara bersamaan, ini mengoptimalkan konsentrasi dopamin dan norepinefrin. Selama sekitar 60 menit pasca-olahraga, kondisi fisiologis ini menciptakan 'Jam Emas Kognitif'.
 
 ---
 
-## Perhatian & Tip: Memastikan 'Jam Emas Kognitif' 1 Jam Pasca-Olahraga & Memblokir Tugas Sekunder
-
-Bagi Conan Doyle, pengerahan fisik yang intens berfungsi sebagai katalis fisik untuk sintesis logis yang rumit. Jangan buang 'Jam Emas Kognitif' 1 jam pasca-olahraga—ketika aliran darah otak dan BDNF berada pada puncak mutlaknya—untuk tugas-tugas administratif bernilai rendah seperti membalas email atau menggulir media sosial. Segera setelah mandi, blokir semua notifikasi dan duduklah secara langsung untuk menangani tugas inti Anda yang paling rumit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Bagi Conan Doyle, pengerahan fisik yang intens berfungsi sebagai katalis fisik u
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Memastikan 'Jam Emas Kognitif' 1 Jam Pasca-Olahraga & Memblokir Tugas Sekunder
+
+Bagi Conan Doyle, pengerahan fisik yang intens berfungsi sebagai katalis fisik untuk sintesis logis yang rumit. Jangan buang 'Jam Emas Kognitif' 1 jam pasca-olahraga—ketika aliran darah otak dan BDNF berada pada puncak mutlaknya—untuk tugas-tugas administratif bernilai rendah seperti membalas email atau menggulir media sosial. Segera setelah mandi, blokir semua notifikasi dan duduklah secara langsung untuk menangani tugas inti Anda yang paling rumit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah Arthur Conan Doyle benar-benar seorang pemain kriket dan petinju tingkat tinggi dalam kehidupan nyata?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Bagi Conan Doyle, pengerahan fisik yang intens berfungsi sebagai katalis fisik u
       Ya, tentu saja. Conan Doyle adalah pemain kriket amatir kelas satu yang ulung untuk Marylebone Cricket Club (MCC) dan petinju terampil yang bahkan menjabat sebagai wasit untuk pertandingan kejuaraan. Pengalaman atletisnya memberikan latar belakang yang otentik bagi kemahiran tinju dan seni bela diri Sherlock Holmes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Sangat sulit bagi orang sibuk untuk bermain kriket atau bertinju. Bisakah olahraga rumah singkat mencapai manfaat kognitif yang sama?</span>

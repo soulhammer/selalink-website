@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "파블로 네루다의 초록색 잉크 필기법: 색상 파장으로 뇌의 창의적 몰입(Flow)을 깨우는 법"
 description: "노벨문학상 수상자 파블로 네루다가 평생 오직 초록색 잉크로만 시를 쓴 이유와 녹색 파장이 뇌의 알파파(Alpha Waves)를 유도하는 인지색채학적 원리를 다룹니다."
 pubDate: "2026-05-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Neruda Green Ink Flow 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 neruda-green-ink-flow 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Neruda Green Ink Flow 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 녹색 파장이 뇌의 시각적 피로를 낮추고 알파파(Alpha Waves)를 자극하는 이유
+## 1. 녹색 파장이 뇌의 시각적 피로를 낮추고 알파파(Alpha Waves)를 자극하는 이유
 
 인지색채학 및 뇌과학 연구에 따르면 녹색 광선 파장(520 - 550nm)은 시망막과 뇌의 시각 피질(Visual Cortex)에 자극이 가장 적은 자연 색상 영역대입니다. 이 시각적 편안함은 뇌의 알파파(Alpha Waves)를 유도하여 긴장 없이 고도로 몰입하는 몰입(Flow State) 상태를 가동합니다.
 
 ---
 
-## 네루다 습관 주의사항 및 몰입 팁
-
-초록색 잉크 필기를 가동할 때 맞춤법이나 완벽한 문장 구조에 연연해하지 마세요. 10분 동안 뇌의 영감이 흐르는 대로 끊김 없이 손을 움직여 적는 것이 중요합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 네루다 습관 주의사항 및 몰입 팁
+
+초록색 잉크 필기를 가동할 때 맞춤법이나 완벽한 문장 구조에 연연해하지 마세요. 10분 동안 뇌의 영감이 흐르는 대로 끊김 없이 손을 움직여 적는 것이 중요합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>종이 필기 대신 디지털 에디터의 녹색 테마를 사용해도 동일한 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 그렇습니다. 시각 피질은 파장을 감지하므로 아날로그 잉크뿐만 아니라 디지털 스크린의 차분한 딥 그린 테마에서도 동일한 알파파 유도 효과가 나타납니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>왜 검은색 잉크나 흑백 화면이 때때로 창작의 막힘을 유발하나요?</span>

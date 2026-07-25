@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Buscando un clavo doblado para vencer el miedo escénico: La rutina del 'Ancla Sensorial' de Luciano Pavarotti"
 description: "Explica el efecto calmante neurocientífico detrás de la superstición del tenor Luciano Pavarotti de buscar clavos doblados antes de sus actuaciones. Descubra cómo las rutinas ritualizadas controlan la ansiedad."
 pubDate: "2026-04-13"
@@ -36,22 +37,20 @@ En este artículo, exploramos la ciencia cerebral detrás del ritual del clavo d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre pavarotti-bent-nail se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Luciano Pavarotti e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Luciano Pavarotti e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Rutinas ritualizadas y control de la ansiedad en la amígdala
+## 1. Rutinas ritualizadas y control de la ansiedad en la amígdala
 
 Ante discursos o actuaciones de alto estrés, la amígdala cerebral percibe una amenaza a la supervivencia, activando la respuesta de 'lucha o huida' y elevando la frecuencia cardíaca. Ejecutar intencionadamente una secuencia o ritual específico engaña al cerebro para que perciba un 'sentido de control', calmando la hiperactividad de la amígdala. Además, centrar la atención en una tarea concreta como buscar un objeto detiene la metacognición que genera ansiedad (pensar en pensar) y reenfoca la mente en datos físicos, visuales y táctiles.
 
 ---
 
-## Asegurar su propia ancla sensorial para liberar tensión
-
-Para Luciano Pavarotti, el clavo doblado era un ancla sensorial inteligente que estabilizaba la turbulencia emocional. No necesita buscar clavos; 1 minuto antes de una entrevista o presentación, toque una moneda o un clip en su bolsillo y concéntrese en su sensación metálica firme y fresca. A medida que la información táctil llena su red neuronal, el miedo escénico se calma rápidamente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Para Luciano Pavarotti, el clavo doblado era un ancla sensorial inteligente que 
     Reconozca que su respiración y su pulso se han desacelerado mediante el contacto táctil. Avance con confianza a medida que el cerebro se libera de la tensión y recupera la memoria de trabajo.
   </p>
 </div>
+
+---
+
+## 3. Asegurar su propia ancla sensorial para liberar tensión
+
+Para Luciano Pavarotti, el clavo doblado era un ancla sensorial inteligente que estabilizaba la turbulencia emocional. No necesita buscar clavos; 1 minuto antes de una entrevista o presentación, toque una moneda o un clip en su bolsillo y concéntrese en su sensación metálica firme y fresca. A medida que la información táctil llena su red neuronal, el miedo escénico se calma rápidamente.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

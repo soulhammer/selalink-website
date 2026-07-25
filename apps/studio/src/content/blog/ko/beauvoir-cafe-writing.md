@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "소음 속의 몰입: 시몬 드 보부아르의 카페 백색 소음과 환경 단순화 루틴"
 description: "실존주의 사상가이자 소설가 시몬 드 보부아르가 파리의 단골 카페에서 차 한 잔을 두고 매일 실천했던 집필 루틴. 잔잔한 백색 소음이 뇌를 깨우는 신경학적 원리와 나만의 몰입 작업 구역(Focus Zone) 구축법을 밝힙니다."
 pubDate: "2026-06-08"
@@ -20,7 +21,7 @@ faqs:
   - question: "시몬 드 보부아르는 왜 카페 드 플로르를 집필 장소로 선택했나요?"
     answer: "1940년대 파리의 혹한기 당시 카페 드 플로르는 난로를 따뜻하게 유지해 주었고, 예술가와 지식인들이 오래 머물러도 눈치를 주지 않는 분위기였기에 가장 상쾌하고 안정적인 창작 공간이 되었습니다."
   - question: "집이나 재택근무 환경에서도 동일한 인지 스크립트를 구현할 수 있나요?"
-    answer: "네, 가능합니다. 집안의 특정 책상 구석에 스탠드 조명을 켜두거나, 집중 시에만 사용하는 전용 컵을 지정하고, 50~60dB 대역의 백색 소음 음원을 재생하는 행동 시퀀스만으로도 동일한 인지 스위칭 효과가 유도됩니다."
+    answer: "네, 가능합니다. 집안의 특정 책상 구석에 스탠드 조명을 켜두거나, 집중 시에만 사용하는 전용 컵을 지정하고, 50 ~ 60dB 대역의 백색 소음 음원을 재생하는 행동 시퀀스만으로도 동일한 인지 스위칭 효과가 유도됩니다."
 ---
 
 "나는 아침 10시가 되면 카페 드 플로르로 향했다. 그곳의 작은 탁자 위에서 사유는 비로소 형상을 얻기 시작했다." ☕
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>시몬 드 보부아르 자서전 『세월의 힘(La Force des choses)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 beauvoir-cafe-writing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>시몬 드 보부아르 자서전 『세월의 힘(La Force des choses)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 백색 소음과 인지 스크립트의 작동 메커니즘
+## 1. 백색 소음과 인지 스크립트의 작동 메커니즘
 
 뇌과학적으로, 매일 같은 물리적 환경(단골 자리, 특정 음료)을 마주하는 행위는 의사결정 피로를 줄여 몰입으로 즉시 진입하게 돕는 '인지 스크립트(Cognitive Script)'를 가동시킵니다. 또한 카페 특유의 50 ~ 70데시벨(dB) 대역의 잔잔한 백색 소음(White Noise)은 뇌파를 자극해 알파(Alpha)파를 활성화하고 창의성과 문제 해결력을 유도합니다. 주변의 나지막한 동적 움직임은 뇌의 거울 신경망을 적절히 자극해 고립감을 완화하는 심리적 안전감을 주어 딥 워크(Deep Work) 효율을 극대화합니다.
 
 ---
 
-## 주의사항 및 팁: 소셜 노이즈와 스피치 노이즈 경계
-
-모든 소음이 뇌에 유익한 것은 아닙니다. 70데시벨을 초과하는 대시성 음악 소리나 명확히 들리는 주변 사람들의 대화(스피치 노이즈, Speech Noise)는 뇌의 음운 루프(Phonological Loop)를 방해하여 독해와 논리적 집필 능력을 저하시킵니다. 잔잔한 소음 수준이 유지되는 장소를 선택하거나, 대화 소리가 선명한 환경이라면 노이즈 캔슬링 이어폰을 활용해 방해 요소를 우회해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 소셜 노이즈와 스피치 노이즈 경계
+
+모든 소음이 뇌에 유익한 것은 아닙니다. 70데시벨을 초과하는 대시성 음악 소리나 명확히 들리는 주변 사람들의 대화(스피치 노이즈, Speech Noise)는 뇌의 음운 루프(Phonological Loop)를 방해하여 독해와 논리적 집필 능력을 저하시킵니다. 잔잔한 소음 수준이 유지되는 장소를 선택하거나, 대화 소리가 선명한 환경이라면 노이즈 캔슬링 이어폰을 활용해 방해 요소를 우회해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>시몬 드 보부아르는 왜 카페 드 플로르를 집필 장소로 선택했나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       1940년대 파리의 혹한기 당시 카페 드 플로르는 난로를 따뜻하게 유지해 주었고, 예술가와 지식인들이 오래 머물러도 눈치를 주지 않는 분위기였기에 가장 상쾌하고 안정적인 창작 공간이 되었습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>집이나 재택근무 환경에서도 동일한 인지 스크립트를 구현할 수 있나요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Modularisasi Pemikiran: Metode Penulisan Kartu Indeks Vladimir Nabokov"
 description: "Penulis Vladimir Nabokov mencatat novel dalam bentuk fragmen di kartu indeks dan mengatur ulang urutannya. Menyoroti nilai ilmu kognitif dari perencanaan kartu indeks, yang memblokir beban kognitif berlebih dan menggabungkan ide-ide kreatif secara fleksibel."
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami mengungkapkan bagaimana ritual perencanaan kartu 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai nabokov-index-card didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi kartu indeks Nabokov & penelitian ilmu saraf kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi kartu indeks Nabokov & penelitian ilmu saraf kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mekanisme Saraf Pemblokiran Beban Kognitif dan Kreativitas Kombinatorial
+## 1. Mekanisme Saraf Pemblokiran Beban Kognitif dan Kreativitas Kombinatorial
 
 Ketika otak menyadari bahwa ia harus menghasilkan output yang penting dan berkualitas tinggi, amigdala memicu alarm bawah sadar akan potensi kegagalan, yang menyebabkan penundaan (prokrastinasi). Dengan melakukan penulisan sepele dan berisiko rendah terlebih dahulu, umpan balik dikirimkan ke otak bahwa ia berada dalam 'kondisi aman yang tidak dinilai,' sehingga menenangkan hiperaktivitas amigdala. Secara bersamaan, area Broca dan korteks motorik teraktivasi secara ringan, menyelaraskan roda gigi kognitif dan menurunkan hambatan resistensi secara drastis saat memulai tugas utama.
 
 ---
 
-## Peringatan dan Tips
-
-Jika Anda terlalu larut dalam menulis kartu dan hanya mencatat ide secara acak tanpa keterkaitan, Anda akan menghadapi hambatan fragmentasi yang besar saat mencoba menyatukannya nanti. Oleh karena itu, setiap kartu harus mencatat hanya satu pemikiran atau episode yang utuh, dan Anda harus secara berkala mengingat arsitektur keseluruhan (misalnya, garis besar umum) untuk mengelompokkan kartu ke dalam kategori kasar terlebih dahulu.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Jika Anda terlalu larut dalam menulis kartu dan hanya mencatat ide secara acak t
     Setelah urutan optimal terbentuk, kunci alur kartu dan selesaikan dokumen atau proposal dengan mengembangkan isi setiap kartu secara berurutan.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Jika Anda terlalu larut dalam menulis kartu dan hanya mencatat ide secara acak tanpa keterkaitan, Anda akan menghadapi hambatan fragmentasi yang besar saat mencoba menyatukannya nanti. Oleh karena itu, setiap kartu harus mencatat hanya satu pemikiran atau episode yang utuh, dan Anda harus secara berkala mengingat arsitektur keseluruhan (misalnya, garis besar umum) untuk mengelompokkan kartu ke dalam kategori kasar terlebih dahulu.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

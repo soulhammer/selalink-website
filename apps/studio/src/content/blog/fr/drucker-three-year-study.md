@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Une aventure intellectuelle réinitialisant la vie tous les 3 ans : La routine d'étude multidisciplinaire et la neuroplasticité de Peter Drucker"
 description: "Découvrez comment le maître du management Peter Drucker a maîtrisé une nouvelle discipline académique tous les 3 ans tout au long de sa vie. Explorez la neuroscience cognitive de la neuroplasticité et de la synthèse multidisciplinaire."
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant drucker-three-year-study est basée sur <strong>Vérification Historique issue de l'autobiographie de Peter Drucker *Adventures of a Bystander* & *Managing Oneself* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Peter Drucker *Adventures of a Bystander* & *Managing Oneself* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroplasticité et réorganisation des circuits synaptiques via l'exploration multidisciplinaire
+## 1. Neuroplasticité et réorganisation des circuits synaptiques via l'exploration multidisciplinaire
 
 Traiter le même type de connaissances renforce des voies neuronales isolées, accélérant la rigidité cognitive. À l'inverse, aborder una discipline inconnue force l'hippocampe et le cortex préfrontal (PFC) à stimuler la synaptogenèse pour traiter de nouveaux concepts — un processus appelé « Neuroplasticité ». Cet apprentissage multidisciplinaire forme des réseaux entre des domaines auparavant disjoints, renforçant la Flexibilité Cognitive.
 
 ---
 
-## Précautions & Conseils : Éviter la surcharge d'informations & Instaurer una habitude de lecture régulière
-
-Tenter d'aborder des recherches académiques complexes dès le départ suscite una résistance préfrontale et bloque les circuits de la dopamine. Pour un apprentissage multidisciplinaire durable, choisissez un sujet qui éveille una curiosité sincère. La stratégie consiste à instaurer un rituel quotidien : consacrez 30 minutes par jour à la lecture d'ouvrages d'introduction.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tenter d'aborder des recherches académiques complexes dès le départ suscite u
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter la surcharge d'informations & Instaurer una habitude de lecture régulière
+
+Tenter d'aborder des recherches académiques complexes dès le départ suscite una résistance préfrontale et bloque les circuits de la dopamine. Pour un apprentissage multidisciplinaire durable, choisissez un sujet qui éveille una curiosité sincère. La stratégie consiste à instaurer un rituel quotidien : consacrez 30 minutes par jour à la lecture d'ouvrages d'introduction.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Peter Drucker a-t-il spécifiquement choisi un cycle de « 3 ans » pour maîtriser de nouvelles disciplines ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tenter d'aborder des recherches académiques complexes dès le départ suscite u
       Sur le plan cognitif, 3 ans représentent la durée idéale pour passer de débutant à la compréhension des fondements d'une discipline sans susciter de fatigue. Ce rythme de 3 ans rompt la routine intellectuelle, stimulant la neuroplasticité synaptique.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Si un engagement de 3 ans semble trop long pour des professionnels occupés, par quoi commencer ?</span>

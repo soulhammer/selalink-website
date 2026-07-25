@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "카페 소음 속에서 마법을 쓴 작가? J.K. 롤링의 백색소음 몰입 루틴"
 description: "해리 포터의 작가 J.K. 롤링. 고요함 대신 카페의 웅성거리는 백색소음을 배경 삼아 대작을 집필했던 그녀의 루틴과 소음이 지닌 창의적 뇌과학 원리를 소개합니다."
 pubDate: "2026-03-03"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>J.K. 롤링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 rowling-cafe-focus 루틴을 다룹니다.
+      본 콘텐츠는 <strong>J.K. 롤링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 추상적 두뇌 활성을 돕는 '가벼운 인지 장애'
+## 1. 추상적 두뇌 활성을 돕는 '가벼운 인지 장애'
 
 많은 사람들이 창의성을 요구하는 작업(아이디어 회의, 작문, 새로운 기획 등)을 수행할 때 극도로 조용하고 밀폐된 독서실 같은 공간을 찾지만, 이는 때로 역효과를 냅니다. 지나치게 고요한 침묵은 뇌에 알 수 없는 압박감을 주어 주의력 필터를 과도하게 팽팽하게 만들고, 생각의 유연성을 떨어뜨립니다.
 
@@ -53,9 +54,7 @@ J.K. 롤링의 카페 몰입 루틴은 약 70dB(데시벨) 수준의 백색소�
 
 ---
 
-## 적절한 주변 소음이 생각의 문을 열어줍니다
-
-J.K. 롤링에게 카페의 웅성거림은 집중을 깨는 방해물이 아니라, 고독감과 스트레스를 상쇄하고 뇌에 가벼운 인지적 자극을 던져 창의적 회로를 부드럽게 윤활하는 아늑한 소음막이었습니다. 지나치게 좁고 적막한 방에서 생각이 정체될 때는 주저 없이 카페로 향하거나 백색소음을 방 안 가득 채워 보십시오.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ J.K. 롤링에게 카페의 웅성거림은 집중을 깨는 방해물이 아니
   </p>
 </div>
 
+---
+
+## 3. 적절한 주변 소음이 생각의 문을 열어줍니다
+
+J.K. 롤링에게 카페의 웅성거림은 집중을 깨는 방해물이 아니라, 고독감과 스트레스를 상쇄하고 뇌에 가벼운 인지적 자극을 던져 창의적 회로를 부드럽게 윤활하는 아늑한 소음막이었습니다. 지나치게 좁고 적막한 방에서 생각이 정체될 때는 주저 없이 카페로 향하거나 백색소음을 방 안 가득 채워 보십시오.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>시끄러운 헤비메탈 음악이나 댄스곡을 들어도 동일한 효과가 나나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ J.K. 롤링에게 카페의 웅성거림은 집중을 깨는 방해물이 아니
       아닙니다. 인위적으로 믹싱된 가사 음악이나 규칙성이 강하고 과도하게 큰 소음(85dB 이상)은 가벼운 자극을 넘어 전두엽의 작업 기억 영역에 직접적인 침범을 일으킵니다. 이는 뇌 피로를 촉진하고 집중에 심각한 해를 끼치므로, 가사가 없고 예측 불가능한 불규칙한 환경 소음(백색소음)이어야만 인지 장애 효과가 올바르게 작동합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>공부방에서 가만히 이어폰으로 백색소음을 듣는 것도 도움이 되나요?</span>

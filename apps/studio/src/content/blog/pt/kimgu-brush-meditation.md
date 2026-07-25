@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Precisão para Acalmar uma Mente Inquieta: A Rotina de Meditação Caligráfica e Controle Motor Fino de Kim Koo"
 description: "Descubra como Kim Koo, líder do Governo Provisório da Coreia, treinou sua mente por meio da caligrafia. Explore a neurociência do controle motor fino, estabilização da amígdala e um guia de 3 passos."
 pubDate: "2026-02-06"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre kimgu-brush-meditation é baseada em <strong>Verificação Histórica da Autobiografia de Kim Koo *Baekbum Ilji*, Arquivos do Governo Provisório e Pesquisa em Neurociência Cognitiva e Ciência do Controle Motor</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Kim Koo *Baekbum Ilji*, Arquivos do Governo Provisório e Pesquisa em Neurociência Cognitiva e Ciência do Controle Motor</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Controle Motor Fino e a Neurociência da Estabilização da Amígdala
+## 1. Controle Motor Fino e a Neurociência da Estabilização da Amígdala
 
 Executar o <strong>Controle Motor Fino (Fine Motor Control)</strong> — ajustando a pressão e o ângulo como na caligrafia — ativa intensamente o <strong>Córtex Somatossensorial</strong> e o <strong>Córtex Motor</strong>. Quando a atenção se concentra no controle tátil, reduz-se a hiperatividade na <strong>amígdala</strong>, o centro do medo e da ansiedade. Além disso, ações rítmicas como moer tinta ativam o <strong>Sistema Nervoso Parassimpático</strong>, reduzindo o <strong>cortisol</strong> e estabilizando os batimentos cardíacos.
 
 ---
 
-## Precaução: Elimine a Impaciência pelos Resultados para Focar na Sensação Tátil
-
-Quando sentir ansiedade, evite procurar soluções imediatas ou focar na estética do traço. Ancore sua consciência na fricção da caneta com o papel e no ato físico de traçar a linha. Centrar-se no processo acalma a ansiedade e restaura a clareza pré-frontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Quando sentir ansiedade, evite procurar soluções imediatas ou focar na estéti
   </p>
 </div>
 
+---
+
+## 3. Precaução: Elimine a Impaciência pelos Resultados para Focar na Sensação Tátil
+
+Quando sentir ansiedade, evite procurar soluções imediatas ou focar na estética do traço. Ancore sua consciência na fricção da caneta com o papel e no ato físico de traçar a linha. Centrar-se no processo acalma a ansiedade e restaura a clareza pré-frontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Qual é o princípio neurocientífico pelo qual a caligrafia alivia o estresse e acalma a mente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Quando sentir ansiedade, evite procurar soluções imediatas ou focar na estéti
       Ajustar a pressão e o ângulo do pincel exige Controle Motor Fino, ativando o córtex somatossensorial e pré-frontal. Esse foco concentrado reduz os sinais de ameaça na amígdala, suprimindo a ansiedade.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Posso obter os mesmos benefícios com uma caneta-tinteiro ou caneta comum se não tiver pincéis de caligrafia?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Segredo Matinal em Frente ao Espelho para Recarregar a Confiança: A Rotina de Afirmações Positivas de Muhammad Ali"
 description: "Muhammad Ali, o maior boxeador do século. Descubra os efeitos neurocientíficos e a rotina de mentalidade em 3 passos das afirmações positivas em frente ao espelho: o segredo para superar a ansiedade de desempenho extrema antes das lutas e se tornar um campeão."
 pubDate: "2026-01-26"
@@ -35,25 +36,23 @@ No artigo de hoje, apresentamos os princípios da psicologia esportiva por trás
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre ali-positive-affirmation é baseada em <strong>Verificação da Autobiografia de Muhammad Ali *The Greatest: My Own Story* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação da Autobiografia de Muhammad Ali *The Greatest: My Own Story* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O Poder da Autodeclaração que Activa o Sistema de Recompensa do Cérebro
+## 1. O Poder da Autodeclaração que Activa o Sistema de Recompensa do Cérebro
 
 Quando nos sentimos ansiosos ou com falta de confiança, o cérebro secreta excesso de cortisol, um hormônio do estresse, reduzindo nossa capacidade de lidar com crises. De acordo com a neurociência, o ato de gritar afirmações positivas em voz alta enquanto se olha no espelho estimula o <strong>'Córtex Pré-Frontal Medial (Medial Prefrontal Cortex)'</strong> e o sistema de recompensa do cérebro. Esta declaração de autoconfiança ajusta o cérebro para aceitar informações ameaçadoras de forma menos sensível, desperta a autoeficácia e aumenta a resistência ao estresse. No momento em que você se chama de o maior, seu cérebro realmente começa a se preparar para ativar a energia física e mental alinhada a esse valor.
 
 ---
 
-## Declare com Firmeza no Presente, Não como um Mero Desejo
-
-Para que as afirmações positivas estimulem o subconsciente do cérebro, a estrutura da linguagem é fundamental. Um tom de desejo como 'Eu quero ser...' pode destacar um estado de carência para o cérebro. Assim como Muhammad Ali afirmou 'Eu sou o maior', você deve se declarar firmemente em frases no presente que definam um estado alcançado ou uma capacidade clara — como 'Eu tenho a capacidade de atingir meus objetivos' — para que ocorra uma verdadeira transformação cognitiva.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para que as afirmações positivas estimulem o subconsciente do cérebro, a estr
   </p>
 </div>
 
+---
+
+## 3. Declare com Firmeza no Presente, Não como um Mero Desejo
+
+Para que as afirmações positivas estimulem o subconsciente do cérebro, a estrutura da linguagem é fundamental. Um tom de desejo como 'Eu quero ser...' pode destacar um estado de carência para o cérebro. Assim como Muhammad Ali afirmou 'Eu sou o maior', você deve se declarar firmemente em frases no presente que definam um estado alcançado ou uma capacidade clara — como 'Eu tenho a capacidade de atingir meus objetivos' — para que ocorra uma verdadeira transformação cognitiva.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Parece estranho porque sinto que estou mentindo para mim mesmo dizendo que sou o maior.</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para que as afirmações positivas estimulem o subconsciente do cérebro, a estr
       É natural sentir-se desconfortável no início devido à dissonância cognitiva (Cognitive Dissonance). O importante não é verificar a veracidade dos fatos, mas abrir novas possibilidades para o cérebro. À medida que você repete, a neuroplasticidade (Neuroplasticity) reorganizará os circuitos neurais, fazendo o desconforto desaparecer e se consolidar em uma crença.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Só é eficaz se eu gritar em voz alta?</span>

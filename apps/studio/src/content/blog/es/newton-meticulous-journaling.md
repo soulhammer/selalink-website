@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Registrar el orden en el caos: El hábito de diario de investigación de Sir Isaac Newton"
 description: "Sir Isaac Newton, el científico supremo de la humanidad. Explore su hábito de registrar cada intuición y cálculo en un enorme diario de cuero, y los beneficios neurocientíficos de escribir a mano."
 pubDate: "2026-03-30"
@@ -36,14 +37,14 @@ En este artículo, analizamos los mecanismos neurocientíficos de la rutina de d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre newton-meticulous-journaling se basa en <strong>Biografías históricas y registros autobiográficos de Sir Isaac Newton e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Sir Isaac Newton e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Descarga cognitiva': Liberar la sobrecarga de la memoria de trabajo
+## 1. 'Descarga cognitiva': Liberar la sobrecarga de la memoria de trabajo
 
 La capacidad de la memoria de trabajo, responsable del procesamiento a corto plazo, es muy limitada. Al manejar múltiples cálculos en la mente, el cerebro se sobrecarga e interrumpe el pensamiento creativo. La práctica de Newton de escribir y esquematizar a mano activó la <strong>'Descarga Cognitiva (Cognitive Offloading)'</strong>.
 
@@ -51,9 +52,7 @@ Al respaldar las ideas en papel, la memoria de trabajo se libera de la retenció
 
 ---
 
-## Practique la estructuración visual, no la simple toma de notas
-
-Escribir texto mecánicamente en teléfonos o aplicaciones digitales ofrece menor estimulación táctil y un refuerzo de memoria más débil. La clave es sostener un bolígrafo para enviar retroalimentación analógica al cerebro y vincular ideas visualmente con flechas y diagramas. Si usa dispositivos digitales, emplee un lápiz óptico para dibujar esquemas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Escribir texto mecánicamente en teléfonos o aplicaciones digitales ofrece meno
     No se limite a oraciones lineales; conecte ideas con flechas y dibuje diagramas de flujo o tablas a mano para sintetizar la lógica compleja.
   </p>
 </div>
+
+---
+
+## 3. Practique la estructuración visual, no la simple toma de notas
+
+Escribir texto mecánicamente en teléfonos o aplicaciones digitales ofrece menor estimulación táctil y un refuerzo de memoria más débil. La clave es sostener un bolígrafo para enviar retroalimentación analógica al cerebro y vincular ideas visualmente con flechas y diagramas. Si usa dispositivos digitales, emplee un lápiz óptico para dibujar esquemas.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

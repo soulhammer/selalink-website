@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Fuzz on a Collar and a Trembling Pupil: Anton Chekhov's Micro-Observation and Selective Attention"
 description: "Explore how Anton Chekhov, master of modern short stories, meticulously recorded microscopic details of passersby in railway waiting rooms and cafes, and discover the neuroscientific principles of Micro Selective Attention enhancing cognitive resolution."
 pubDate: "2026-01-12"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Anton Chekhov's 'micro-
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding chekhov is based on <strong>Historical Verification from E. H. Carr's Biography *Anton Chekhov: A Critical Study* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from E. H. Carr's Biography *Anton Chekhov: A Critical Study* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Micro Selective Attention and Cortical Arousal Mechanisms
+## 1. Micro Selective Attention and Cortical Arousal Mechanisms
 
 Filtering out 99% of background environmental noise to fixate attention on 1% microscopic anomalies—a practice known as 'Micro Selective Attention'—strongly stimulates the dorsolateral prefrontal cortex (DLPFC). This targeted observation sharply elevates cortical resolution, transferring fleeting sensory inputs into high-density long-term memory circuits. Consequently, the brain refines its 'Cognitive Resolution', effortlessly filtering out sensory overload to decode non-verbal human cues, hidden behavioral patterns, and subtle contextual nuances with surgical precision.
 
 ---
 
-## Caution & Tips: Avoiding Overt Staring & Capturing Fleeting Moments
-
-When practicing micro-observation, guard against staring directly at individuals, which causes discomfort or confrontation. Locking eyes rigidly disrupts the natural behavior of the person observed. The key is swift, subtle capture: scan a single microscopic detail (a frayed cuff, a shoe scuff, a finger twitch) within a 1-second window as someone passes, then smoothly avert your gaze to record the detail in a notebook or app.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When practicing micro-observation, guard against staring directly at individuals
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Avoiding Overt Staring & Capturing Fleeting Moments
+
+When practicing micro-observation, guard against staring directly at individuals, which causes discomfort or confrontation. Locking eyes rigidly disrupts the natural behavior of the person observed. The key is swift, subtle capture: scan a single microscopic detail (a frayed cuff, a shoe scuff, a finger twitch) within a 1-second window as someone passes, then smoothly avert your gaze to record the detail in a notebook or app.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is there a technique to observe micro-details covertly without making others uncomfortable?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When practicing micro-observation, guard against staring directly at individuals
       Avoid direct, prolonged eye contact. Use wide 'Peripheral Vision' or perform a split-second 1-second scan of a specific target area (sleeves, shoes, hand positions) during dynamic movements—such as when someone adjusts a coat or settles into a chair—then smoothly shift your gaze.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can these collected micro-detail notes be practically applied to business or professional tasks?</span>

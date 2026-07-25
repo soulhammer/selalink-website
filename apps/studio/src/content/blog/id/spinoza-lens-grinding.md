@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mengasah Lensa ala Spinoza: Cara Kerja Fisik Repetitif Sederhana Menghilangkan Kelelahan Otak"
 description: "Temukan bagaimana filsuf panteisme Spinoza mengosongkan kelebihan beban kognitif dan memulihkan konsentrasi mendalam saat menulis 'Etika' melalui kerja tangan halus mengasah lensa optik."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ Duduk di depan meja kerja berdebu kaca, gerakan tangan fisik yang halus dan repe
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai spinoza-lens-grinding didasarkan pada <strong>Riset biografi historis pengasahan lensa Spinoza & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi historis pengasahan lensa Spinoza & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ilmu Saraf tentang Bagaimana Motorik Halus Sederhana Mencegah Burnout Kognitif
+## 1. Ilmu Saraf tentang Bagaimana Motorik Halus Sederhana Mencegah Burnout Kognitif
 
 Penalaran rasional tingkat tinggi secara terus-menerus menguras sumber daya kognitif di korteks prefrontal. Beralih ke kerja tangan halus yang sangat berfokus pada sentuhan—seperti mengasah lensa—mengaktifkan korteks motorik dan serebelum, yang secara langsung menekan Default Mode Network (DMN) yang berlebihan dan pikiran melayang, memungkinkan korteks prefrontal memulihkan energi.
 
 ---
 
-## Memilih Kerja Tangan yang Sepenuhnya Terbebas dari Digital
-
-Untuk mendapatkan efek relaksasi ini, Anda harus terlepas sepenuhnya dari ponsel pintar atau papan ketik. Mengoperasikan perangkat digital masih menuntut komputasi logika dari otak sehingga tidak mengurangi kelelahan. Pilih aktivitas fisik sederhana yang hanya membutuhkan umpan balik sentuhan dan kendali ruang-visuospasial, seperti mencuci piring, menyalin tulisan tangan, atau merakit kerajinan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Untuk mendapatkan efek relaksasi ini, Anda harus terlepas sepenuhnya dari ponsel
     Setelah 10-15 menit kerja tangan, kembalilah ke komputer dan lanjutkan pekerjaan perencanaan atau pengembangan Anda. Dengan ruang kendali kognitif yang telah pulih, Anda akan membuat keputusan yang lebih jernih dan efisien.
   </p>
 </div>
+
+---
+
+## 3. Memilih Kerja Tangan yang Sepenuhnya Terbebas dari Digital
+
+Untuk mendapatkan efek relaksasi ini, Anda harus terlepas sepenuhnya dari ponsel pintar atau papan ketik. Mengoperasikan perangkat digital masih menuntut komputasi logika dari otak sehingga tidak mengurangi kelelahan. Pilih aktivitas fisik sederhana yang hanya membutuhkan umpan balik sentuhan dan kendali ruang-visuospasial, seperti mencuci piring, menyalin tulisan tangan, atau merakit kerajinan.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

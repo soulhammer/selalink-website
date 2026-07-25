@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "襟の毛玉と瞳の震え：アントン・チェーホフの微細観察と選択的注意力"
 description: "近代短編小説の巨匠アントン・チェーホフが待合室やカフェで通行人の微細なディテールを手帳に精密に記録した観察ルーティン。微細選択的注意力（Micro Selective Attention）が認知解像度を高め大脳皮質の覚醒を誘導する神経科学的原理を解き明かします。"
 pubDate: "2026-01-12"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「chekhov」は <strong>E・H・カー伝記『Anton Chekhov: A Critical Study』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>E・H・カー伝記『Anton Chekhov: A Critical Study』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 微細選択的注意力（Micro Selective Attention）と大脳皮質の覚醒
+## 1. 微細選択的注意力（Micro Selective Attention）と大脳皮質の覚醒
 
 外部の刺激情報のうち99％の背景ノイズをフィルタリングし、極めて些細な1％の特異点にのみ注意力を固定する「微細選択的注意力（Micro Selective Attention）」は、脳の外側前頭前野（Dorsolateral Prefrontal Cortex）を集中的に刺激します。この観察刺激は大脳皮質の認知解像度を飛躍的に引き上げ、感覚短期記憶を高解像度の長期記憶回路へと固定させます。結果として脳は、無意味な日常環境の情報過負荷の中からノイズをろ過し、他者の微細な非言語的信号や企画の核心パターンを精密に抽出するメタ認知的な認知分解能（Cognitive Resolution）を鍛え上げることになります。
 
 ---
 
-## 注意事項＆ヒント：露骨な凝視の排除と刹那の捕獲
-
-微細観察ルーティンを行う際、最も注意すべきは相手が継続的な視線を感じて不快感や脅威を覚えないよう管理することです。他者を正面から穴があくほど凝視する行動は、社会的摩擦を引き起こし対象を硬直させます。刹那の瞬間に通り過ぎる被写体の特定のディテール（袖のほつれ、靴の汚れ、指先の震えなど）一つだけを隠密かつ迅速にスキャンし、視線を自然に外して手帳やアプリに手書き記録する自制心がポイントです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：露骨な凝視の排除と刹那の捕獲
+
+微細観察ルーティンを行う際、最も注意すべきは相手が継続的な視線を感じて不快感や脅威を覚えないよう管理することです。他者を正面から穴があくほど凝視する行動は、社会的摩擦を引き起こし対象を硬直させます。刹那の瞬間に通り過ぎる被写体の特定のディテール（袖のほつれ、靴の汚れ、指先の震えなど）一つだけを隠密かつ迅速にスキャンし、視線を自然に外して手帳やアプリに手書き記録する自制心がポイントです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>相手に不快感を与えず隠密にディテールを観察するノウハウはありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       顔や視線を正面から凝視せず、周辺視野（Peripheral Vision）の広い焦点を活用するか、相手が上着を脱いだりバッグを整理するなど身体の動線が変わる時に1秒以内に特定の部位（袖、靴、指先）だけをスキャンし、視線を直ちに自然に逸らす視線分散技術が有用です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>このように収集した微細ディテール観察メモをビジネスや実務にどのように活用しますか？</span>

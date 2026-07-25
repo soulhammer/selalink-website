@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "午前0時の覚醒：オノレ・ド・バルザックのコーヒーと12時間超没頭執筆法"
 description: "19世紀フランス写実主義文学の巨匠オノレ・ド・バルザックが実践した深夜執筆とコーヒー覚醒ルーティン。外部刺激を遮断し、脳の注意力を極限まで引き上げる超没頭の神経科学的メカニズムを解き明かします。"
 pubDate: "2026-02-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「balzac-extreme-focus」は <strong>シュテファン・ツヴァイク伝記『バルザック（Balzac）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>シュテファン・ツヴァイク伝記『バルザック（Balzac）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 認知ノイズの完全遮断とアデノシン抑制のシナジー
+## 1. 認知ノイズの完全遮断とアデノシン抑制のシナジー
 
 脳が集中する際の最大の障害は、外部から入ってくる「認知ノイズ（Cognitive Noise）」や視覚的・聴覚的刺激です。電話やメッセージの通知が完全に止まる深夜時間は、前頭葉の認知制御リソースが完全に一つの課題にのみ投入できる最適な環境を提供します。これに加え、コーヒーに含まれるカフェインは、脳に疲労信号を伝えるアデノシン（Adenosine）受容体の結合を遮断し、疲労感を感じさせなくします。その結果、ドパミン（Dopamine）やノルアドレナリン（Norepinephrine）の分泌が促進され、長時間の鋭い集中力と精神的覚醒を維持できるようになります。
 
 ---
 
-## 生体リズムの保護とカフェイン誤用・乱用の警戒
-
-バルザックの午前0時起床と過度なカフェイン摂取は、身体に極度のストレスを与えました。（実際にバルザックは睡眠不足と過剰なコーヒー服用による心臓疾患のため、51歳という若さで早世しました。）したがって、現代人がこの没頭戦略を適用する際は、毎日の睡眠パターンを破壊するのではなく、生体リズムを維持する範囲で、集中の高い2〜3時間の静かな時間ブロックのみを選別して活用すべきです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     温かいコーヒーやお茶を一杯用意し、マルチタスクを避けて、事前に選定した最も重要で重大な単一の課題（Single Task）にのみすべてのエネルギーを注ぎ込みます。
   </p>
 </div>
+
+---
+
+## 3. 生体リズムの保護とカフェイン誤用・乱用の警戒
+
+バルザックの午前0時起床と過度なカフェイン摂取は、身体に極度のストレスを与えました。（実際にバルザックは睡眠不足と過剰なコーヒー服用による心臓疾患のため、51歳という若さで早世しました。）したがって、現代人がこの没頭戦略を適用する際は、毎日の睡眠パターンを破壊するのではなく、生体リズムを維持する範囲で、集中の高い2〜3時間の静かな時間ブロックのみを選別して活用すべきです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

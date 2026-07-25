@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "逆さまに立つインスピレーション：ストラヴィンスキーの三転立（倒立）創造法"
 description: "作曲中にスランプに陥るたびに三転立（倒立）をした音楽家イゴール・ストラヴィンスキー。物理的な姿勢の変化が脳の血流量を増やし、創造的な突破口を開く科学的原理を探ります。"
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「stravinsky-headstand-composition」は <strong>Igor Stravinsky 自伝および音楽評伝の記録考証 & 認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Igor Stravinsky 自伝および音楽評伝の記録考証 & 認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 倒立が脳の血流と前庭感覚をリセットする原理
+## 1. 倒立が脳の血流と前庭感覚をリセットする原理
 
 脳が一つの考えに囚われている時、身体の姿勢を垂直に逆転させると二つの脳科学的変化が起こります。第一に、重力の影響で頭部に血流が集まり、前頭葉への酸素と栄養の供給が即座に促進されます。第二に、内耳の前庭器官に平常と異なる重力シグナルが感知され、小脳と大脳皮質の空間指向神経ネットワークが強力に覚醒します。これにより固定化した注意フィルターが解除され、創造的な連想作用が引き出されます。
 
 ---
 
-## 注意事項とヒント
-
-頸椎や血圧に問題がある場合は、完全な倒立の代わりに壁に背中をあてたり椅子に脚を載せたりする緩やかなハーフ・インバージョン（半逆転）で代用してください。脳の血圧が適応できるよう1分以内の短時間で行い、終了後は急に起き上がらず30秒ほどうつ伏せで静止してからゆっくり身体を起こすことが必須です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     慎重に足を下ろした後、すぐに起き上がらず30秒間うつ伏せで静止し、椅子に座って頭がすっきりし思考が新しく切り替わる感覚に集中します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+頸椎や血圧に問題がある場合は、完全な倒立の代わりに壁に背中をあてたり椅子に脚を載せたりする緩やかなハーフ・インバージョン（半逆転）で代用してください。脳の血圧が適応できるよう1分以内の短時間で行い、終了後は急に起き上がらず30秒ほどうつ伏せで静止してからゆっくり身体を起こすことが必須です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

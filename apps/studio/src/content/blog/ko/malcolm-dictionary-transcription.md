@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "사전 통째로 베껴 쓰기? 말콤 X의 두뇌 재부팅 필사 루틴"
 description: "극적인 인지적 도약을 이뤄낸 말콤 X. 감옥 안에서 사전의 첫 단어부터 마지막 단어까지 통째로 베껴 쓰며 지적 깨달음을 얻었던 그의 치열한 필사 습관과, 손글씨가 뇌 신경망에 미치는 인지적 효과를 조명합니다."
 pubDate: "2026-07-03"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>말콤 X 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 malcolm-dictionary-transcription 루틴을 다룹니다.
+      본 콘텐츠는 <strong>말콤 X 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌의 연결을 굳히는 손글씨의 신경학적 힘
+## 1. 뇌의 연결을 굳히는 손글씨의 신경학적 힘
 
 우리가 눈으로 텍스트를 읽을 때는 시각 피질만 제한적으로 활성화되지만, 손글씨로 직접 노트를 적을 때는 완전히 다른 인지 경로가 열립니다. 펜을 쥐고 움직이는 미세 운동은 뇌의 운동 피질(Motor Cortex)과 감각 통합 영역을 광범위하게 자극합니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 직접 쓰는 펜 끝이 주의력을 복원합니다
-
-현대인들은 주로 자판이나 터치스크린을 사용하여 정보를 소비하므로 뇌의 물리적 자극을 극도로 결핍시키고 장기 기억으로의 전환율을 낮춥니다. 말콤 X의 습관처럼 하루 20분만이라도 스마트폰을 완전히 끄고 아날로그 펜을 쥔 채 좋은 글귀나 서적의 단어를 직접 종이에 꾹꾹 눌러쓰는 필사 리추얼은 주의력을 복원하고 지적 성장을 이끄는 최고의 인지 도구입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 직접 쓰는 펜 끝이 주의력을 복원합니다
+
+현대인들은 주로 자판이나 터치스크린을 사용하여 정보를 소비하므로 뇌의 물리적 자극을 극도로 결핍시키고 장기 기억으로의 전환율을 낮춥니다. 말콤 X의 습관처럼 하루 20분만이라도 스마트폰을 완전히 끄고 아날로그 펜을 쥔 채 좋은 글귀나 서적의 단어를 직접 종이에 꾹꾹 눌러쓰는 필사 리추얼은 주의력을 복원하고 지적 성장을 이끄는 최고의 인지 도구입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>컴퓨터나 태블릿 타이핑으로 필사를 해도 효과가 같나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       아니요, 효과가 다릅니다. 타이핑은 손가락 끝으로 가벼운 버튼만 반복적으로 누르기 때문에 뇌 운동 피질에 들어오는 감각 자극이 극히 단순화됩니다. 반면 펜으로 직접 선의 형태를 획마다 조율하며 글을 쓰는 행위는 뇌의 복잡한 연합 부위들을 전방위로 자극하므로, 타이핑보다 기억 각인 효과와 주의력 유지력 측면에서 비교할 수 없을 정도로 월등합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>글씨체 교정을 신경 쓰면서 적어야 하나요?</span>

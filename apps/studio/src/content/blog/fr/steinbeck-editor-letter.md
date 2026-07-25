@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Éliminer la peur de démarrer : La routine de lettres d'échauffement de John Steinbeck"
 description: "Le romancier John Steinbeck écrivait des lettres quotidiennes à son éditeur pour dissoudre la procrastination. Découvrez comment l'écriture libre active le cortex moteur du langage."
 pubDate: "2026-05-07"
@@ -33,25 +34,23 @@ Dans cet article, nous analysons comment la routine de Steinbeck apaise le cerve
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant steinbeck-editor-letter est basée sur <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
+      Ce contenu est basé sur <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Voies neuronales pour surmonter le perfectionnisme et l'anxiété de l'amygdale
+## 1. Voies neuronales pour surmonter le perfectionnisme et l'anxiété de l'amygdale
 
 Lorsque le cerveau perçoit une tâche comme capitale, l'amygdale déclenche une alarme d'échec qui mène à la procrastination. L'écriture libre préalable signale au cerveau un 'environnement sécurisé', calmant l'amygdale et stimulant le cortex moteur du langage.
 
 ---
 
-## Précautions et conseils
-
-Le piège principal d'une lettre d'échauffement est de la laisser devenir une nouvelle forme de procrastination. Y passer plus de 30 minutes épuisera votre énergie. Limitez strictly l'échauffement à 5 minutes maximum et basculez immédiatement sur votre tâche principale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Le piège principal d'une lettre d'échauffement est de la laisser devenir une n
     Vos doigts et votre cortex linguistique étant activés, basculez immédiatement sur votre document principal sans hésiter.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Le piège principal d'une lettre d'échauffement est de la laisser devenir une nouvelle forme de procrastination. Y passer plus de 30 minutes épuisera votre énergie. Limitez strictly l'échauffement à 5 minutes maximum et basculez immédiatement sur votre tâche principale.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

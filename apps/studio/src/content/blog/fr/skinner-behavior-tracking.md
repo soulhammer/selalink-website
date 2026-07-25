@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Se concevoir soi-même : La routine de suivi visuel du maître du comportementalisme B.F. Skinner"
 description: "Présentation de la routine quotidienne de quantification du comportement de B. F. Skinner, maître de la psychologie comportementale. Un guide pratique en 3 étapes pour renforcer les mécanismes cérébraux grâce à un retour numérique en temps réel."
 pubDate: "2026-05-14"
@@ -33,25 +34,23 @@ Dans cet article, nous examinons les principes scientifiques du fonctionnement d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant skinner-behavior-tracking est basée sur <strong>Biographies historiques, récits autobiographiques du suivi comportemental de Skinner et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques, récits autobiographiques du suivi comportemental de Skinner et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'« Effet de Retour Visuel » stimulant les circuits de la dopamine
+## 1. L'« Effet de Retour Visuel » stimulant les circuits de la dopamine
 
 Selon la psychologie comportementaliste, le cerveau humain développe une forte tendance à répéter un comportement lorsqu'il fait l'expérience d'une récompense immédiate juste après l'action. C'est ce qu'on appelle dans le conditionnement opérant le <strong>« Renforcement (Reinforcement) »</strong>. Vérifier précisément le nombre de mots écrits ou de minutes d'immersion, et le visualiser sur un graphique (Visual Feedback), constitue une excellente récompense immatérielle qui déclenche la libération de dopamine dans le système de prédiction de récompense du cerveau. Cette habitude ne repose pas sur une volonté floue, mais stimule et ancre volontairement la fréquence des états de concentration grâce à une boucle de rétroaction de données.
 
 ---
 
-## Attention à la manipulation des métriques et à l'inversion des moyens et des fins
-
-Une erreur fréquente lors du maintien de cette habitude consiste à compromettre la qualité du travail ou à laisser tourner un chronomètre inutilement juste pour gonfler les chiffres du graphique ou le nombre de mots. Comme le stipule la loi de Goodhart : « Quand une mesure devient un objectif, elle cesse d'être une bonne mesure. » Le suivi doit rester un miroir objectif reflétant le flux de productivité, et non faire des chiffres eux-mêmes le but ultime du travail intellectuel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Une erreur fréquente lors du maintien de cette habitude consiste à compromettr
     Tracez vos données quotidiennes de productivité sous forme de graphique en courbe et affichez-le dans un endroit bien visible pour suivre visuellement vos progrès et renforcer votre motivation.
   </p>
 </div>
+
+---
+
+## 3. Attention à la manipulation des métriques et à l'inversion des moyens et des fins
+
+Une erreur fréquente lors du maintien de cette habitude consiste à compromettre la qualité du travail ou à laisser tourner un chronomètre inutilement juste pour gonfler les chiffres du graphique ou le nombre de mots. Comme le stipule la loi de Goodhart : « Quand une mesure devient un objectif, elle cesse d'être une bonne mesure. » Le suivi doit rester un miroir objectif reflétant le flux de productivité, et non faire des chiffres eux-mêmes le but ultime du travail intellectuel.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

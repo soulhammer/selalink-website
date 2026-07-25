@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "天才数学者の答えは休息中に出た？アンリ・ポアンカレの4時間集中制限ルーティン"
 description: "天才科学者アンリ・ポアンカレの成功方程式である1日4時間集中限界設定法。脳の集中モードと分散モードを活用して無意識に創造的ひらめきを得る3ステップガイドを紹介します。"
 pubDate: "2026-04-19"
@@ -27,17 +28,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「poincare-time-limitation」は <strong>アンリ・ポアンカレ歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アンリ・ポアンカレ歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 集中モードと分散モード：無意識の問題解決能力
+## 1. 集中モードと分散モード：無意識の問題解決能力
 
 学習科学および神経生理学によると、私たちの脳の認知機能は「集中モード（Focused Mode）」と「分散モード（Diffuse Mode）」の2つのシステムで作動します。机に向かって全力で演算する集中モードでは前頭葉の機能が絞られ、狭く特定の領域の回路網だけが活性化します。しかし集中を解いて軽い散歩や休息をとる分散モードになると、脳の全般的な領域が連結されるデフォルト・モード・ネットワーク（DMN）が目覚めます。
 
@@ -45,9 +46,7 @@ faqs:
 
 ---
 
-## 持続可能な没頭のための脳科学的アドバイス
-
-合創造的な考えは無理に絞り出そうとするときに出るものではありません。脳の集中限界時間を明確に設定し、解けない問題があれば思い切って席を立って散歩をし、脳に「分散モード」の休息を与えてください。無意識があなたに代わって解答を見つけてくれるはずです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     休息中に無意識が返してくれた答えは一瞬の電球の光のようなもので、捉えないと一瞬で蒸発してしまいます。アンリ・ポアンカレのメモ帳や小型スマートフォンの録音機能を使用して、休息中に突如飛び出した創造的ひらめきを即座に捉えて保存します。
   </p>
 </div>
+
+---
+
+## 3. 持続可能な没頭のための脳科学的アドバイス
+
+合創造的な考えは無理に絞り出そうとするときに出るものではありません。脳の集中限界時間を明確に設定し、解けない問題があれば思い切って席を立って散歩をし、脳に「分散モード」の休息を与えてください。無意識があなたに代わって解答を見つけてくれるはずです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

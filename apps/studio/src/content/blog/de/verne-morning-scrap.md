@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wissensstatuen um 5 Uhr morgens: Jules Vernes Ausschnitt-Gewohnheit zur Detailgestaltung"
 description: "Erkunden Sie die Karteikarten-Ausschnitt-Gewohnheit, die Jules Verne, Pionier der Science-Fiction, jeden Morgen um 5 Uhr ausübte. Ein moderner praktischer 3-Schritte-Leitfaden zur Kategorisierung von Informationen und zur Stärkung des semantischen Gedächtnisses."
 pubDate: "2026-06-02"
@@ -33,25 +34,23 @@ Im heutigen Beitrag untersuchen wir die wissenschaftlichen Prinzipien hinter Ver
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu verne-morning-scrap basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Jules Verne & Kognitive Neurowissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Jules Verne & Kognitive Neurowissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## ‚Elaborierte kategorisierte Archivierung‘: Stärkung des semantischen Gedächtnisses
+## 1. ‚Elaborierte kategorisierte Archivierung‘: Stärkung des semantischen Gedächtnisses
 
 Anstatt erworbenes Wissen nur flüchtig zu überfliegen, stärkt der Prozess des manuellen Zusammenfassens auf Karteikarten und deren Kategorisierung das semantische Gedächtnisnetzwerk des Gehirns drastisch. In der kognitiven Psychologie ist dies als <strong>‚Elaboriertes Wiederholen‘</strong> bekannt – eine Technik, die neue Informationsstücke eng in bestehende kognitive Strukturen einwebt, um sie langfristig zu speichern. Das physische Sortieren von Karten stimuliert sowohl visuelle als auch motorische Pfade im Gehirn und fördert das Erkennen struktureller Zusammenhänge. Diese Gewohnheit aktiviert Abrufwege des assoziativen Gedächtnisses und erleichtert das reibungslose Zusammensetzen kreativer Ideen.
 
 ---
 
-## Collector's Fallacy vorbeugen und den praktischen Nutzen maximieren
-
-Die Hauptfalle einer Ausschnitt-Routine besteht darin, in die ‚Collector's Fallacy‘ zu verfallen und ein falsches Erfolgsgefühl zu empfinden, nur weil man Wissen sammelt und speichert. Das Erstellen von Karten muss als Mittel dienen, um Wissen tief im Gehirn zu verankern und anzuwenden. Zusammenfassungen sollten in Ihren eigenen Worten verfasst werden, und Sie müssen Ihr Kartenarchiv regelmäßig überprüfen, um relevante Erkenntnisse beim Schreiben oder in Diskussionen anzuwenden.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Die Hauptfalle einer Ausschnitt-Routine besteht darin, in die ‚Collector's Fal
     Nehmen Sie am Wochenende oder zu festen Zeiten zufällig 5–6 gespeicherte Karten aus der Schublade, lesen Sie sie erneut und verbinden Sie scheinbar unzusammenhängende Informationen, um Denksynergien zu erzeugen oder sie beim Schreiben anzuwenden.
   </p>
 </div>
+
+---
+
+## 3. Collector's Fallacy vorbeugen und den praktischen Nutzen maximieren
+
+Die Hauptfalle einer Ausschnitt-Routine besteht darin, in die ‚Collector's Fallacy‘ zu verfallen und ein falsches Erfolgsgefühl zu empfinden, nur weil man Wissen sammelt und speichert. Das Erstellen von Karten muss als Mittel dienen, um Wissen tief im Gehirn zu verankern und anzuwenden. Zusammenfassungen sollten in Ihren eigenen Worten verfasst werden, und Sie müssen Ihr Kartenarchiv regelmäßig überprüfen, um relevante Erkenntnisse beim Schreiben oder in Diskussionen anzuwenden.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

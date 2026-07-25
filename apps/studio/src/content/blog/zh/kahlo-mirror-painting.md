@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "凝望天花板倒影中挥毫自画像：弗里达·卡罗的镜面自画像习惯与镜像凝视复原力"
 description: "深度剖析墨西哥传奇女画家弗里达·卡罗如何在全身体创的酷烈撕痛中，借由天花板悬镜日复一日描摹自画像。揭示镜像凝视（Mirror-Gazing）疗法、自我接纳与重塑心理韧性（Resilience）的临床心理学原理及3步骤指南。"
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 kahlo-mirror-painting 的内容基于 <strong>弗里达·卡罗日记与传记史料《弗里达·卡罗日记（The Diary of Frida Kahlo）》考证及临床心理学（Clinical Psychology）与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>弗里达·卡罗日记与传记史料《弗里达·卡罗日记（The Diary of Frida Kahlo）》考证及临床心理学（Clinical Psychology）与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 镜像凝视疗法（Mirror-Gazing）与心理复原力（Resilience）临床心理学机制
+## 1. 镜像凝视疗法（Mirror-Gazing）与心理复原力（Resilience）临床心理学机制
 
 静心凝望镜面中倒映的自我姿容，在临床心理学中被归为<strong>“镜像凝视疗法（Mirror-Gazing Technique）”</strong>。当直面剧烈躯体创痛或精神压抑时，大脑极易沉沦于负面情绪拉扯中。此时，镜面扮演着极其强悍的认知隔离工具，促使人以第三人称视角客观观照自身的躯体与情绪状态。在此进程中，大脑得以重构自我掌控感与主体性，精细调控压力应激。弗里达·卡罗于床榻之上与镜中自我展开强悍对决，绝非单纯的生硬临摹，而是踏平逆境、重构灵魂的<strong>心理复原力（Resilience）</strong>在生理层面的生动体现。此举能强效促进<strong>自我接纳（Self-Acceptance）</strong>，稳固情绪稳定性。
 
 ---
 
-## 注意事项：规避主观研判与容貌羁绊，全情接纳存在本身指南
-
-践行镜像凝视疗法之际须严格恪守的核心禁忌，乃是搜寻躯体缺陷或下达挑剔的负面价值研判。端详镜中的自我绝非容貌审视考核，而应是一段毫无批判苛责、全情认可并抚慰正历经疲惫与高压的自我的温情凝望时光。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：规避主观研判与容貌羁绊，全情接纳存在本身指南
+
+践行镜像凝视疗法之际须严格恪守的核心禁忌，乃是搜寻躯体缺陷或下达挑剔的负面价值研判。端详镜中的自我绝非容貌审视考核，而应是一段毫无批判苛责、全情认可并抚慰正历经疲惫与高压的自我的温情凝望时光。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>若凝视镜面时注意力总是被迫吸引至容貌瑕疵与皱纹上、反而引发压力内耗，该如何破局？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       这乃是极其自然的神经反应。在初次践行镜像凝视疗法时，大脑评估外貌的本能极易被唤醒。此时，切勿平铺观照整张脸庞，而是将焦距死死锁定于个人“单个瞳孔”中。专注于与自我意识存在的核心进行眼神交汇、而非剖析面部特征，能极佳地破解此内耗。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>即便不亲自挥毫手绘自画像，单纯凝视镜面是否同样具备心理疗愈效能？</span>

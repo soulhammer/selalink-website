@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "16,000 Numbered Entries: Michael Faraday's Precision Notebook Routine and Cognitive Offloading"
 description: "Discover how physicist Michael Faraday cataloged over 16,000 numbered experiment entries. Explore the cognitive neuroscience of cognitive offloading, searchability, and working memory preservation."
 pubDate: "2026-02-24"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience behind Michael Faraday's 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding faraday-numbered-notebook is based on <strong>Historical Verification from *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## How Indexing and Cognitive Offloading Preserve Working Memory Capacity
+## 1. How Indexing and Cognitive Offloading Preserve Working Memory Capacity
 
 The brain's <strong>Working Memory</strong> has extremely limited bandwidth. Storing unstructured information or relying solely on internal mental tracking causes cognitive overload, degrading analytical execution. However, adopting Faraday's system of numbering and indexing—a prime example of <strong>'Cognitive Offloading'</strong>—allows the brain to dramatically conserve executive retrieval energy. By offloading static knowledge to an external structure, active prefrontal resources are completely liberated for complex reasoning and problem-solving.
 
 ---
 
-## Caution: Prioritize Searchability Over the Sheer Volume of Notes
-
-Simply increasing the sheer volume of notes is counterproductive without ensuring searchability. Blindly transcribing massive amounts of unindexed information merely generates digital or physical clutter, increasing cognitive confusion. To replicate Faraday's success, create an index on page one or tag entries with keywords and dates so any specific entry can be retrieved within three seconds.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Simply increasing the sheer volume of notes is counterproductive without ensurin
   </p>
 </div>
 
+---
+
+## 3. Caution: Prioritize Searchability Over the Sheer Volume of Notes
+
+Simply increasing the sheer volume of notes is counterproductive without ensuring searchability. Blindly transcribing massive amounts of unindexed information merely generates digital or physical clutter, increasing cognitive confusion. To replicate Faraday's success, create an index on page one or tag entries with keywords and dates so any specific entry can be retrieved within three seconds.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is sequential numbering useful when using digital note-taking applications?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Simply increasing the sheer volume of notes is counterproductive without ensurin
       Yes, absolutely. Assigning unique entry numbers in a digital environment delivers tremendous benefits. While keyword searching can fail if exact terms are forgotten, a unique ID (e.g., #042) creates an absolute anchor for backlinks, cross-referencing, and effortless knowledge mapping across digital documents.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How should I handle numbering when mixing daily journal entries, work projects, and personal inspiration?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mengubah Volume Dunia Menjadi Nol: Metode Fokus Kontrol Kebisingan Peraih Nobel Schrödinger"
 description: "Pelajari kebiasaan penyumbat telinga fisikawan kuantum Erwin Schrödinger. Panduan 3 langkah untuk memaksimalkan efisiensi otak dengan menghilangkan beban filter sensori."
 pubDate: "2026-04-25"
@@ -33,25 +34,23 @@ Dalam artikel hari ini, kami mengeksplorasi prinsip sains di balik rutinitas pen
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai schrodinger-earplug-focus didasarkan pada <strong>Riset Berdasarkan Biografi Historis dan Catatan Autobiografi Schrödinger & Sains Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Berdasarkan Biografi Historis dan Catatan Autobiografi Schrödinger & Sains Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Keheningan Mencegah Pengurasan Energi dari Filter Sensori
+## 1. Efek Keheningan Mencegah Pengurasan Energi dari Filter Sensori
 
 Pendengaran adalah indra paling sensitif yang tetap aktif saat tidur untuk mendeteksi bahaya. Setiap ada kebisingan halus, otak mengaktifkan filter sensori untuk memeriksa keamanan, menguras energi kognitif. Menyumbat suara menghentikan konsumsi oksigen dan glukosa untuk data yang tidak perlu, sehingga 100% energi dialihkan ke tugas.
 
 ---
 
-## Mencegah Tinnitus & Menjaga Kebersihan Telinga
-
-Memakai penyumbat telinga terlalu dalam atau lama dapat mengubah tekanan telinga atau memicu infeksi karena lembap. Batasi sesi fokus hingga 50 menit dan lepas saat istirahat. Jaga kebersihannya secara teratur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Memakai penyumbat telinga terlalu dalam atau lama dapat mengubah tekanan telinga
     Pasang pengatur waktu selama 50 menit belajar dalam keheningan. Saat berdering, lepas penyumbat telinga, biarkan telinga kering, dan istirahat 10 menit.
   </p>
 </div>
+
+---
+
+## 3. Mencegah Tinnitus & Menjaga Kebersihan Telinga
+
+Memakai penyumbat telinga terlalu dalam atau lama dapat mengubah tekanan telinga atau memicu infeksi karena lembap. Batasi sesi fokus hingga 50 menit dan lepas saat istirahat. Jaga kebersihannya secara teratur.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

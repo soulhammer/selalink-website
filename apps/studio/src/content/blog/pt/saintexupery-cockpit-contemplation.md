@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O método de anotações no cockpit de Saint-Exupéry: Extrair a essência através da solidão e do refino"
 description: "Explore o hábito de escrita de Antoine de Saint-Exupéry, autor de 'O Pequeno Príncipe' e aviador, que concebeu ideias na solidão do cockpit e alcançou a essência eliminando retóricas desnecessárias."
 pubDate: "2026-07-18"
@@ -35,25 +36,23 @@ Ao pousar, ao transferir suas anotações para os manuscritos, fascinou-se pelo 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre saintexupery-cockpit-contemplation é baseada em <strong>Pesquisa biográfica e autobiográfica histórica sobre a contemplação no cockpit de Saint-Exupéry e estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa biográfica e autobiográfica histórica sobre a contemplação no cockpit de Saint-Exupéry e estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por que a solidão e o hábito de subtração maximizam a metacognição pré-frontal
+## 1. Por que a solidão e o hábito de subtração maximizam a metacognição pré-frontal
 
 Pesquisas neurocientíficas mostram que o estado de solidão isolado de ruídos externos ativa a Rede de Modo Padrão (DMN) do cérebro, facilitando a percepção criativa. Subsequente, o ato de podar elementos ou retórica desnecessários estimula a metacognição pré-frontal, elevando a precisão do pensamento.
 
 ---
 
-## Precauções e dicas de refino do hábito de Saint-Exupéry
-
-Não censure nem edite durante a fase de geração de ideias. Permita que as ideias fluam livremente na solidão primeiro e, em seguida, siga um processo de duas etapas na revisão, cortando corajosamente mais de 30% dos modificadores desnecessários.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Não censure nem edite durante a fase de geração de ideias. Permita que as ide
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas de refino do hábito de Saint-Exupéry
+
+Não censure nem edite durante a fase de geração de ideias. Permita que as ideias fluam livremente na solidão primeiro e, em seguida, siga um processo de duas etapas na revisão, cortando corajosamente mais de 30% dos modificadores desnecessários.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Esta regra de subtração pode ser aplicada a relatórios de trabalho ou propostas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Não censure nem edite durante a fase de geração de ideias. Permita que as ide
       Sim! Após escrever o rascunho livremente, corte corajosamente modificadores desnecessários, jargões e frases longas na segunda revisão para dobrar o impacto.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>E se o contexto for perdido por ter cortado demais?</span>

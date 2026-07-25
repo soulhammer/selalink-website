@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "침대에 누워 천장에 비친 자신을 그리다: 프리다 칼로의 거울 자화상 루틴과 자기 거울 응시치료"
 description: "멕시코의 전설적인 화가 프리다 칼로. 전신 부상의 혹독한 고통 속에서도 침대 천장의 거울을 보며 매일 자화상을 그렸던 그의 극복의 습관과 거울 응시(Mirror-Gazing)가 주는 임상심리학적 치유 효과, 회복탄력성(Resilience) 강화 및 3단계 실천법을 알아봅니다."
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>프리다 칼로 일기 및 평전 사료 『프리다 칼로의 일기(The Diary of Frida Kahlo)』 고증 & 임상심리학(Clinical Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 kahlo-mirror-painting 루틴을 다룹니다.
+      본 콘텐츠는 <strong>프리다 칼로 일기 및 평전 사료 『프리다 칼로의 일기(The Diary of Frida Kahlo)』 고증 & 임상심리학(Clinical Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 자기 거울 기법(Mirror-Gazing)과 회복탄력성(Resilience)의 임상심리학
+## 1. 자기 거울 기법(Mirror-Gazing)과 회복탄력성(Resilience)의 임상심리학
 
 거울 속에 비친 자신의 모습을 가만히 들여다보는 행위는 임상심리학에서 <strong>'자기 거울 기법(Mirror-Gazing Technique)'</strong>이라고 부릅니다. 극심한 스트레스나 신체적 고통에 직면할 때 뇌는 부정적 감정에 함몰되기 쉽습니다. 이때 거울은 자신의 육체와 감정을 제3자의 시선으로 객관화하여 바라보게 만드는 인지적 격리 도구로 기능합니다. 이 과정에서 뇌는 자아에 대한 통제감을 회복하고 주체성을 강화하여 스트레스를 조율합니다. 프리다 칼로가 침대에 누워 거울 속 자신을 치열하게 대면했던 것은 단순한 묘사를 넘어, 역경을 딛고 영혼을 재건하는 <strong>회복탄력성(Resilience)</strong>의 생리학적 발현이었습니다. 이는 <strong>자기 수용(Self-Acceptance)</strong>을 촉진하고 정서적 안정성을 다잡는 치료 효과를 발휘합니다.
 
 ---
 
-## 주관적 판단과 외모 평가를 배제하고 존재 자체를 수용하는 수칙
-
-거울 응시 기법을 수행할 때 가장 주의해야 할 점은 자신의 신체적 단점을 찾아내거나 부정적인 가치 판단을 내리지 않는 것입니다. 거울 속 나를 바라보는 행위는 외모를 평가하는 시간이 아니라, 고통이나 피로를 겪고 있는 나 자신을 비판 없이 있는 그대로 인정하고 다독이는 따뜻한 관조의 시간이어야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주관적 판단과 외모 평가를 배제하고 존재 자체를 수용하는 수칙
+
+거울 응시 기법을 수행할 때 가장 주의해야 할 점은 자신의 신체적 단점을 찾아내거나 부정적인 가치 판단을 내리지 않는 것입니다. 거울 속 나를 바라보는 행위는 외모를 평가하는 시간이 아니라, 고통이나 피로를 겪고 있는 나 자신을 비판 없이 있는 그대로 인정하고 다독이는 따뜻한 관조의 시간이어야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>거울을 보면서 제 얼굴의 결점이나 주름만 보여서 오히려 스트레스를 받는데 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       아주 자연스러운 반응입니다. 거울 응시 초반에는 외모 평가 본능이 작동하기 쉽습니다. 이때는 얼굴 전체를 보려 하기보다 오직 '자신의 눈동자(동공)' 하나에만 초점을 맞추고 응시해 보세요. 외모적 형태가 아닌 나라는 존재의 중심과 눈을 맞춘다는 감각에 집중하는 것이 도움이 됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>그림을 직접 그리지 않고 거울을 응시하는 것만으로도 치유 효과가 있나요?</span>

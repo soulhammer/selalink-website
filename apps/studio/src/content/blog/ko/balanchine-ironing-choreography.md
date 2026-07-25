@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "무의식의 댄스: 조지 발란신의 단순 가사 노동 안무법"
 description: "안무 영감이 막힐 때 다림질이나 빨래 등 단순 반복 가사를 수행하며 아이디어를 구상했던 안무가 조지 발란신. 단순 신체 활동이 전두엽의 검열을 끄고 디폴트 모드 네트워크를 깨우는 신경 메커니즘을 밝힙니다."
 pubDate: "2026-04-01"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>조지 발란신 평전 『By George Balanchine』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 balanchine-ironing-choreography 루틴을 다룹니다.
+      본 콘텐츠는 <strong>조지 발란신 평전 『By George Balanchine』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 전두엽 검열의 완화와 DMN 연합 회로의 점화
+## 1. 전두엽 검열의 완화와 DMN 연합 회로의 점화
 
 우리가 문제를 억지로 해결하려고 집중할 때, 뇌의 전두엽은 분석적인 하향식 제어(Top-down Control) 회로를 강하게 활성화하여 논리에 맞지 않는 사소한 아이디어를 가차 없이 걸러냅니다. 이 '전두엽의 검열' 상태는 창의성을 가둡니다. 반면, 다림질이나 청소처럼 뇌가 거의 고민할 필요가 없는 단순 반복성 운동(Monotonous Motor Task)을 수행하면 전두엽의 과활동이 느슨해집니다. 이 틈을 타 뇌의 '디폴트 모드 네트워크(DMN)'가 켜지며, 무의식의 영역에 흩어져 있던 다채로운 기억 조각들이 자유롭고 엉뚱하게 결합(Combinatorial Play)하기 시작합니다. 그 결과, 다리미의 반복적 리듬 속에서 막혔던 안무 동선이 자연스럽게 연상되며 밖으로 도출됩니다.
 
 ---
 
-## 주의사항 및 팁: 인지 부담 활동 제외
-
-가벼운 가사 노동이나 신체 동작을 활용해 머리를 식힐 때, 주의를 과하게 요구하거나 인지 능력을 써야 하는 행동은 금물입니다. 예컨대 영감을 얻겠다고 복잡한 레시피의 요리를 요리하거나, 청소를 하며 동시에 경제 뉴스를 듣는 등 '멀티태스킹'을 하면 뇌는 결코 DMN 상태로 진입하지 못하고 인지 피로만 늘어납니다. 오롯이 손끝의 감각과 몸의 일정한 리듬에만 주의를 대략적으로 던져두고 머릿속을 방목하는 느슨함이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     단순 노동 중 무의식의 틈에서 불현듯 떠오른 기획이나 핵심 단어를 잊지 않게 메모하고, 즉시 본래 업무 책상으로 돌아와 기세를 이어갑니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁: 인지 부담 활동 제외
+
+가벼운 가사 노동이나 신체 동작을 활용해 머리를 식힐 때, 주의를 과하게 요구하거나 인지 능력을 써야 하는 행동은 금물입니다. 예컨대 영감을 얻겠다고 복잡한 레시피의 요리를 요리하거나, 청소를 하며 동시에 경제 뉴스를 듣는 등 '멀티태스킹'을 하면 뇌는 결코 DMN 상태로 진입하지 못하고 인지 피로만 늘어납니다. 오롯이 손끝의 감각과 몸의 일정한 리듬에만 주의를 대략적으로 던져두고 머릿속을 방목하는 느슨함이 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

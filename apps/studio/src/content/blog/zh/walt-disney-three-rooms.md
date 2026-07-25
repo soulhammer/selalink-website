@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "华特·迪士尼的“三间屋”习惯：想象、执行与批判"
 description: "华特·迪士尼将创造性的空想转化为了庞大的商业帝国。介绍将思考明确划分为梦想家、现实主义者和批评家来精琢创意的“三间屋”习惯。"
 pubDate: "2026-04-16"
@@ -35,26 +36,24 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 walt-disney-three-rooms 的内容基于 <strong>华特·迪士尼三间屋（Walt Disney Three Rooms）历史传记及自传记载考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>华特·迪士尼三间屋（Walt Disney Three Rooms）历史传记及自传记载考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 分离注意力与批判带来的认知效果
+## 1. 分离注意力与批判带来的认知效果
 
 我们在制定新计划时常犯的错误，是在构思创意的同时盲目批判：“这不可能”、“成本太高了”。在脑科学上，这种同时处理会让负责发散的前额叶功能与负责收敛的评估区域发生冲突，从而打乱思考流程并拖延策划进度。
 华特·迪士尼的习惯将这两种认知状态彻底隔离。在梦想家阶段，解除所有刹车，将思考的发散最大化，引导多巴胺式的沉浸；进入现实主义者阶段后，刺激执行计划的设计；仅在最后的批评家房间里施加批判性分析，从而在不折断创意翅膀的前提下，产出完美调律的解决方案。
 
 ---
 
-## 想象与批判的分离是核心
-
-创造性思考必须始终先于批判性思考。像华特·迪士尼那样在构思想法时，明确规定自己的角色并按顺序实施。这能提前防止在创意尚未形成时就早熟批判、折断翅膀的认知失误。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,12 +85,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 想象与批判的分离是核心
+
+创造性思考必须始终先于批判性思考。像华特·迪士尼那样在构思想法时，明确规定自己的角色并按顺序实施。这能提前防止在创意尚未形成时就早熟批判、折断翅膀的认知失误。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>可以在同一个会议室里进行全部三个阶段吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -100,7 +105,7 @@ faqs:
       变换物理空间以引导演示刷新最为有效。如果条件限制只能使用同一个空间，可以通过更换黑板字体颜色、彻底重新排列座位，或更换书写工具（例如：梦想家阶段用彩铅，批评家阶段用黑色圆珠笔）来给大脑提供明确的认知区分。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在批评家阶段批判过于过火导致项目彻底夭折时该怎么办？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La routine de micro-sieste de Napoléon Bonaparte"
 description: "Présente le mécanisme scientifique de la sieste de l'empereur Napoléon, qui réinitialisait rapidement son énergie cérébrale grâce à des siestes de 15 minutes au milieu de charges de travail intenses."
 pubDate: "2026-06-02"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons le fonctionnement scientifique de l
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant napoleon-micro-nap est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques sur la micro-sieste de Napoléon & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques sur la micro-sieste de Napoléon & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Récupération cognitive par micro-siestes et optimisation des ondes cérébrales
+## 1. Récupération cognitive par micro-siestes et optimisation des ondes cérébrales
 
 Une micro-sieste de 10 à 15 minutes limite le sommeil aux stades NREM 1 et 2, évitant l'inertie du sommeil tout en éliminant l'adénosine accumulée pour restaurer instantanément la vigilance. Selon les recherches en neurosciences, cette pratique reprime les réponses d'anxiété inutiles dans l'amygdale et active le calpin visuo-spatial, améliorant considérablement la fonction exécutive à long terme.
 
 ---
 
-## Mises en garde temporelles pour des habitudes de sieste saines
-
-Dormir plus de 20 à 30 minutes vous plonge dans un sommeil profond, provoquant une lourde sensation de fatigue au réveil. Respectez strictement un minuteur et évitez de faire la sieste après 16h00. Ne comptez pas uniquement sur la volonté ; concevoir à l'avance des environnements physiques et des déclencheurs d'habitudes est la clé de la pérennité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Dormir plus de 20 à 30 minutes vous plonge dans un sommeil profond, provoquant 
     Dès que l'alarme sonne, levez-vous immédiatement, exposez-vous à une lumière vive et lavez-vous le visage à l'eau froide pour stimuler le système nerveux autonome.
   </p>
 </div>
+
+---
+
+## 3. Mises en garde temporelles pour des habitudes de sieste saines
+
+Dormir plus de 20 à 30 minutes vous plonge dans un sommeil profond, provoquant une lourde sensation de fatigue au réveil. Respectez strictement un minuteur et évitez de faire la sieste après 16h00. Ne comptez pas uniquement sur la volonté ; concevoir à l'avance des environnements physiques et des déclencheurs d'habitudes est la clé de la pérennité.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

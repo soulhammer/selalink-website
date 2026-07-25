@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Desiderius Erasmus's Travel Notebook Routine: Capturing Flashes of Insight On the Move"
 description: "Discover how Renaissance scholar Desiderius Erasmus drafted 'In Praise of Folly' while traveling across Europe on horseback with a pocket notebook. Explore the neuroscience of alpha waves, visual flow, and movement-induced creativity."
 pubDate: "2026-06-11"
@@ -38,22 +39,20 @@ Erasmus's habit of capturing thought bursts amidst physical motion aligns perfec
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding erasmus-notebook-travel is based on <strong>Historical Verification from Desiderius Erasmus's *Epistolae*, Johan Huizinga's Biography *Erasmus* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Desiderius Erasmus's *Epistolae*, Johan Huizinga's Biography *Erasmus* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurological Mechanisms of Physical Movement and Visual Flow in Driving Creativity
+## 1. Neurological Mechanisms of Physical Movement and Visual Flow in Driving Creativity
 
 Environments involving physical movement or transit expose the brain to continuous visual flow, stirring neural plasticity. The rhythmic, passive movement and low-level ambient noise of carriages or trains induce alpha brainwaves (8–12 Hz), relaxing executive stress and promoting creative daydreaming. In this state, the prefrontal cortex's rigid cognitive censorship network temporarily relaxes, enabling the Default Mode Network (DMN) to link disparate concepts and generate novel insights that rarely emerge while sitting at a static desk.
 
 ---
 
-## Caution: Blocking High-Stimulus Digital Media Consumption During Transit
-
-Consuming social media feeds or playing mobile games during transit completely destroys your brain's opportunity for creative incubation. High-stimulus digital input instantly collapses the alpha wave state into cognitive exhaustion. To unlock movement-driven contemplation, gaze idly out the window, allow your mind to wander freely, and keep your notebook ready in hand.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Consuming social media feeds or playing mobile games during transit completely d
   </p>
 </div>
 
+---
+
+## 3. Caution: Blocking High-Stimulus Digital Media Consumption During Transit
+
+Consuming social media feeds or playing mobile games during transit completely destroys your brain's opportunity for creative incubation. High-stimulus digital input instantly collapses the alpha wave state into cognitive exhaustion. To unlock movement-driven contemplation, gaze idly out the window, allow your mind to wander freely, and keep your notebook ready in hand.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Do I need to write in my notebook every single time I travel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Consuming social media feeds or playing mobile games during transit completely d
       No, grand writing is not required daily. Spending 10 to 20 minutes gazing out the window during transit—letting your mind process thoughts and writing down a single passing insight—is more than enough to activate the brain's Default Mode Network (DMN) and alpha waves.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can I replace paper notebooks with smartphone note apps or voice memos if transit shaking makes writing difficult?</span>

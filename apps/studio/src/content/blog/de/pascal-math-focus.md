@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Blaise Pascals Geometrie-Immersion: Wie man Schmerz und Stress mit hochkomplexen Aufgaben aus dem Gehirn löscht"
 description: "Erfahren Sie, wie das Genie des 17. Jahrhunderts, Blaise Pascal, schwere Zahn- und Kopfschmerzen durch mathematische Immersion überwand, und lernen Sie das wissenschaftliche Prinzip des Attentional Gating kennen."
 pubDate: "2026-06-06"
@@ -35,25 +36,23 @@ Als ihn 1658 eines Nachts wieder unerträgliche Zahnschmerzen überfielen, stand
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu pascal-math-focus basiert auf <strong>Pascal Math Focus Historische Biografie & Autobiografische Aufzeichnungen & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Pascal Math Focus Historische Biografie & Autobiografische Aufzeichnungen & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Der wissenschaftliche Grund, warum hochkomplexe kognitive Immersion körperliche und geistige Beschwerden ausgleicht
+## 1. Der wissenschaftliche Grund, warum hochkomplexe kognitive Immersion körperliche und geistige Beschwerden ausgleicht
 
 Die moderne Neurowissenschaft erklärt dies durch die 'Attentional Gating Theory'. Wenn der präfrontale Kortex zu 100 % in eine hochkomplexe kognitive Aufgabe vertieft ist, blockiert das neuronale Netzwerk des Thalamus aktiv untergeordnete Schmerz- und Stresssignale.
 
 ---
 
-## Pascals Immersion: Vorsichtsmaßnahmen und neurowissenschaftliche Tipps
-
-Wenn störende Gedanken oder Stress aufkommen, versuchen Sie nicht, diese gewaltsam zu unterdrücken. Wechseln Sie sofort zu einem hochkomplexen Quiz oder einer Leseaufgabe, die Ihr Arbeitsgedächtnis zu 100 % auslastet, um das sensorische Blockierungsventil Ihres Gehirns für 15 bis 20 Minuten zu aktivieren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Wenn störende Gedanken oder Stress aufkommen, versuchen Sie nicht, diese gewalt
   </p>
 </div>
 
+---
+
+## 3. Pascals Immersion: Vorsichtsmaßnahmen und neurowissenschaftliche Tipps
+
+Wenn störende Gedanken oder Stress aufkommen, versuchen Sie nicht, diese gewaltsam zu unterdrücken. Wechseln Sie sofort zu einem hochkomplexen Quiz oder einer Leseaufgabe, die Ihr Arbeitsgedächtnis zu 100 % auslastet, um das sensorische Blockierungsventil Ihres Gehirns für 15 bis 20 Minuten zu aktivieren.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist diese Methode auch bei alltäglichem Arbeitsstress oder Angstzuständen wirksam?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Wenn störende Gedanken oder Stress aufkommen, versuchen Sie nicht, diese gewalt
       Ja, das ist sie. Der Gating-Mechanismus des Thalamus blockiert nicht nur körperliche Schmerzen, sondern auf genau dieselbe Weise auch psychische Angst- und Stresssignale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie lange sollte ein hochkomplexer Immersion-Sprint aufrechterhalten werden?</span>

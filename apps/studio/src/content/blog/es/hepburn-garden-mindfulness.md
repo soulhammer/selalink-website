@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Base de la Elegancia: La Rutina de Jardinería Sanadora de Audrey Hepburn y la Ciencia Cerebral del Contacto con la Tierra"
 description: "Descubra cómo la leyenda de Hollywood Audrey Hepburn mantuvo su tranquilidad interior y elegancia mediante la jardinería. Explore la neurociencia del contacto con la tierra, la bacteria Mycobacterium vaccae y la serotonina."
 pubDate: "2026-01-14"
@@ -38,22 +39,20 @@ En la publicación de hoy, examinamos la neurociencia cognitiva y la psicología
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre hepburn-garden-mindfulness se basa en <strong>Verificación Histórica de las Biografías de Audrey Hepburn, Archivos del Finca Tolochenaz (Suiza) e Investigación en Neurociencia Cognitiva y Psicología Ambiental</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Biografías de Audrey Hepburn, Archivos del Finca Tolochenaz (Suiza) e Investigación en Neurociencia Cognitiva y Psicología Ambiental</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mycobacterium vaccae y la Neurociencia de la Secreción de Serotonina
+## 1. Mycobacterium vaccae y la Neurociencia de la Secreción de Serotonina
 
 Los seres humanos evolucionaron para experimentar calma psicológica mediante la conexión con la tierra. Estudios neurocientíficos y microbiológicos demuestran que trabajar el suelo nos expone a la bacteria beneficiosa <strong>Mycobacterium vaccae</strong>. Al entrar en contacto con la piel y la respiración, estimula la liberación de <strong>serotonina</strong> en el cerebro, el neurotransmisor responsable de la estabilidad emocional. Por lo tanto, la jardinería ofrece un beneficio neurobiológico doble: activa la <strong>Restauración de la Atención</strong> en la <strong>Corteza Prefrontal</strong> mientras calma el sistema nervioso.
 
 ---
 
-## Precaución: Excluya Distracciones para Sumergirse en las Sensaciones Táctiles de la Tierra
-
-Para lograr una relajación emocional genuina, ancle su atención en las sensaciones físicas. Rumiar sobre tareas pendientes mientras toca la tierra bloquea los mecanismos de restauración atencional del cerebro. Concéntrese completamente en la retroalimentación táctil: la humedad fresca de la tierra, la textura rugosa de la arena o la suavidad de una hoja, permitiendo que su cerebro entre en un estado de relajación profunda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para lograr una relajación emocional genuina, ancle su atención en las sensaci
   </p>
 </div>
 
+---
+
+## 3. Precaución: Excluya Distracciones para Sumergirse en las Sensaciones Táctiles de la Tierra
+
+Para lograr una relajación emocional genuina, ancle su atención en las sensaciones físicas. Rumiar sobre tareas pendientes mientras toca la tierra bloquea los mecanismos de restauración atencional del cerebro. Concéntrese completamente en la retroalimentación táctil: la humedad fresca de la tierra, la textura rugosa de la arena o la suavidad de una hoja, permitiendo que su cerebro entre en un estado de relajación profunda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es efectivo este método en interiores o apartamentos sin un jardín privado?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para lograr una relajación emocional genuina, ancle su atención en las sensaci
       ¡Sí, totalmente! Llenar macetas pequeñas en un balcón o escritorio con tierra para macetas y plantar hierbas ofrece la misma estimulación táctil y exposición a la bacteria del suelo. La clave es el contacto físico con la tierra, independientemente del tamaño de la planta.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Existen riesgos de higiene o infección bacteriana al tocar la tierra con las manos desnudas?</span>

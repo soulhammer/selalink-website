@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Menyelesaikan 100% di Dalam Pikiran Terlebih Dahulu: Rutinitas Storyboard Visual dan Simulasi Mental Alfred Hitchcock"
 description: "Pelajari rutinitas storyboard visual master thriller Alfred Hitchcock sebelum syuting. Temukan bagaimana simulasi mental mengaktifkan jaringan eksekusi motorik dan menghilangkan kelelahan keputusan."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai hitchcock-storyboard-visualization didasarkan pada <strong>Verifikasi Historis dari Biografi Alfred Hitchcock, Wawancara François Truffaut dalam *Hitchcock/Truffaut* & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Alfred Hitchcock, Wawancara François Truffaut dalam *Hitchcock/Truffaut* & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Jaringan Eksekusi Motorik dan Menghilangkan Kelelahan Keputusan
+## 1. Stimulasi Jaringan Eksekusi Motorik dan Menghilangkan Kelelahan Keputusan
 
 Penelitian neurosains membuktikan bahwa ketika otak mensimulasikan atau memetakan secara visual urutan tindakan secara terperinci sebelum eksekusi, sirkuit saraf di seluruh <strong>Jaringan Eksekusi Motorik</strong> aktif secara identik dengan kinerja fisik nyata. Dikenal sebagai <strong>Simulasi Mental</strong>, metode Hitchcock dalam menggambar storyboard secara lengkap memungkinkan otaknya mengalami variabel operasional dan menentukan solusi terlebih dahulu. Prakalkulasi ini menghilangkan <strong>Kelelahan Keputusan (Decision Fatigue)</strong> selama eksekusi.
 
 ---
 
-## Perhatian: Transisi Segera ke Tindakan Tanpa Terjebak dalam Pemanjauan Perencanaan
-
-Hindari terjebak dalam 'Pemanjauan Perencanaan' (Plan Indulgence)—di mana pembuatan storyboard memburuk menjadi coretan kertas pasif yang menunda eksekusi sebenarnya. Storyboard murni merupakan alat bantu kognitif. Batasi garis besar visual Anda pada 3 hingga 5 tahapan eksekusi kasar. Segera setelah simulasi mental selesai, beralihlah ke langkah eksekusi fisik pertama.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Hindari terjebak dalam 'Pemanjauan Perencanaan' (Plan Indulgence)—di mana pemb
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Transisi Segera ke Tindakan Tanpa Terjebak dalam Pemanjauan Perencanaan
+
+Hindari terjebak dalam 'Pemanjauan Perencanaan' (Plan Indulgence)—di mana pembuatan storyboard memburuk menjadi coretan kertas pasif yang menunda eksekusi sebenarnya. Storyboard murni merupakan alat bantu kognitif. Batasi garis besar visual Anda pada 3 hingga 5 tahapan eksekusi kasar. Segera setelah simulasi mental selesai, beralihlah ke langkah eksekusi fisik pertama.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah efektif menggunakan alat digital jika saya merasa tidak praktis untuk menggambar storyboard dengan tangan setiap kali?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Hindari terjebak dalam 'Pemanjauan Perencanaan' (Plan Indulgence)—di mana pemb
       Ya, tentu saja! Inti dari storyboard bukanlah keterampilan artistik, melainkan penstrukturan tindakan dan simulasi mental. Menggunakan alat seperti Figma, Miro, atau aplikasi pemetaan pikiran sederhana untuk mengatur bentuk blok dan teks memberikan manfaat yang identik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus saya lakukan jika timbul variabel yang tak terduga selama eksekusi yang menyimpang dari storyboard?</span>

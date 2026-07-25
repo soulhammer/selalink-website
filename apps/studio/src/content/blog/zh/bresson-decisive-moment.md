@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "刹那的几何学与专注的视角：亨利·卡蒂尔-布列松的“决定性瞬间”观察习惯"
 description: "探索现代纪实摄影大师亨利·卡蒂尔-布列松如何在日常中静候完美几何构图与绝妙刹那的视觉沉浸习惯，揭示打破预测编码（Predictive Coding）滤镜并唤醒视觉皮层与前额叶注意力控制网络的神经科学原理。"
 pubDate: "2026-02-08"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 bresson-decisive-moment 的内容基于 <strong>亨利·卡蒂尔-布列松摄影集《决定性瞬间（Images à la sauvette / The Decisive Moment）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>亨利·卡蒂尔-布列松摄影集《决定性瞬间（Images à la sauvette / The Decisive Moment）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 解除预测编码（Predictive Coding）滤镜与激活视觉皮层注意力控制网络
+## 1. 解除预测编码（Predictive Coding）滤镜与激活视觉皮层注意力控制网络
 
 我们每天路过的熟悉街道，绝大部分都会被大脑的“预测编码（Predictive Coding）”机制所过滤，从而无法进入意识层面。因为大脑为了节省能量，会主动忽略可预测的环境感官输入。若像布列松那样，凝神专注观察周围物体的几何图案分布以及时刻变幻的光影边界，就能打破这种预设滤镜。这能强效刺激视觉皮层（Visual Cortex）与前额叶注意力控制网络（Attentional Control Network），将感官分辨率提升至极致，引导大脑进入高阶专注状态，并激活创造性联想回路。
 
 ---
 
-## 注意事项与提示：重在与当下的认知同步而非机械记录
-
-这项观察训练的目的绝非为社交媒体积攒大量精美照片，其核心在于训练“延时注意力（Delayed Attention）”——将镜头另一侧的几何架构、眼前的现实以及内心的专注融为一体。切忌无意义地连续按压快门连拍，而应练习保持高强度的静止专注，屏息企盼5秒以上，直至视觉要素彻底交融对齐再按下快门。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：重在与当下的认知同步而非机械记录
+
+这项观察训练的目的绝非为社交媒体积攒大量精美照片，其核心在于训练“延时注意力（Delayed Attention）”——将镜头另一侧的几何架构、眼前的现实以及内心的专注融为一体。切忌无意义地连续按压快门连拍，而应练习保持高强度的静止专注，屏息企盼5秒以上，直至视觉要素彻底交融对齐再按下快门。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在进行视觉观察训练时，取景框内是否必须包含人物？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       并非如此。无论是建筑墙面上斜映的电线杆阴影角度，还是整洁书桌上穿透玻璃杯的束束光线，仅凭无生命物体营造出的几何形状与光影界限，便能起到完全相同的精细视觉皮层激活效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>拍摄完成后是否可以使用滤镜修图或进行二次裁剪（Trimming）？</span>

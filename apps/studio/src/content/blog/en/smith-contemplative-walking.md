@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Scholar Who Walked 15 Miles in a Nightgown: Adam Smith's Contemplative Walking Habit"
 description: "Adam Smith enjoyed long walks in deep immersion to assemble complex ideas in his mind. We unpack the neuroscientific principles of how walking without digital stimuli activates the Default Mode Network to maximize creativity and focus."
 pubDate: "2026-06-02"
@@ -34,22 +35,20 @@ Adam Smith, the thinker who laid the theoretical foundations of modern economics
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding smith-contemplative-walking is based on <strong>Historical biographies, autobiographical records of Smith's contemplative walking & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies, autobiographical records of Smith's contemplative walking & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergy Between Walking Without Digital Stimuli and the Default Mode Network
+## 1. Synergy Between Walking Without Digital Stimuli and the Default Mode Network
 
 When walking while looking at digital screens, brain resources are heavily drained processing visual noise. Conversely, walking at a steady pace free from digital gear lowers visual cortex strain and highly activates the 'Default Mode Network (DMN)' which triggers creative insights. According to Stanford University research, creative thinking increases by an average of 60% while walking versus sitting. Increased cardiovascular circulation during walks supplies fresh oxygen to the prefrontal cortex, enhancing cognitive flexibility.
 
 ---
 
-## Precautions and Tips
-
-The biggest trap of contemplative walking is checking your smartphone or listening to music or podcasts while walking. Continuous auditory or visual inputs prevent the brain from switching into DMN mode. Therefore, during a contemplative walk, remove earphones and avoid artificial stimuli to allow genuine cognitive refresh and reorganization.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ The biggest trap of contemplative walking is checking your smartphone or listeni
   </p>
 </div>
 
+---
+
+## 3. Precautions and Tips
+
+The biggest trap of contemplative walking is checking your smartphone or listening to music or podcasts while walking. Continuous auditory or visual inputs prevent the brain from switching into DMN mode. Therefore, during a contemplative walk, remove earphones and avoid artificial stimuli to allow genuine cognitive refresh and reorganization.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What is the recommended duration or distance for a contemplative walk?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ The biggest trap of contemplative walking is checking your smartphone or listeni
       You do not need to walk 15 miles like Smith. Clinical guidelines recommend 20 to 40 minutes for boosting cerebral blood flow and DMN activation. What matters is the duration of uninterrupted, digital-free focus, not the distance.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can I walk on an indoor treadmill if I cannot go outside?</span>

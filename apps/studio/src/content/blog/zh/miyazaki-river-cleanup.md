@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "吉卜力大师清晨的澄清：宫崎骏的河流清理散步"
 description: "探索吉卜力工作室导演宫崎骏每天早晨沿街清理垃圾背后的深意。了解简单的散步与整洁整理如何激发惊人的创造力与深邃思考。"
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 miyazaki-river-cleanup 的内容基于 <strong>宫崎骏历史传记与访谈文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>宫崎骏历史传记与访谈文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 利他漫步赋予大脑的创造性刷新
+## 1. 利他漫步赋予大脑的创造性刷新
 
 一边清理周围环境一边轻快散步的行为，能够温和地启动大脑的<strong>默认模式网络（Default Mode Network, DMN）</strong>。当大脑摆脱明确的认知任务、处于舒适休息状态时，该网络便会运转，它连接散落在脑海各处的创意，助你展现出新颖的直觉。此外，动身体的清理工作能诱导清晨大脑血清素的活性，使心情焕然一新。
 
 ---
 
-## 注意事项与实用建议
-
-如果在散步过程中查看手机或陷入复杂的思考，大脑就无法达到DMN放松状态。在散步期间有意识地断开电子设备，<strong>欣赏周围的自然环境</strong>，并全神贯注于整理眼前的物理对象，是最大化这一习惯效果的关键所在。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     散步归来后，利用充满血清素、轻松澄清的前额叶所处的创意融合状态，立即投入到第一项创造性策划工作中。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与实用建议
+
+如果在散步过程中查看手机或陷入复杂的思考，大脑就无法达到DMN放松状态。在散步期间有意识地断开电子设备，<strong>欣赏周围的自然环境</strong>，并全神贯注于整理眼前的物理对象，是最大化这一习惯效果的关键所在。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

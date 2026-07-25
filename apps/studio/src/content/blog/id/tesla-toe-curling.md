@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jenius yang Mengerutkan Jari Kaki 100 Kali? Ritual Tidur Nyenyak Ajaib Nikola Tesla"
 description: "Penemu jenius Nikola Tesla mengerutkan jari kakinya di tempat tidur setiap malam. Temukan rahasia sains otak yang tersembunyi dalam rutinitas uniknya dan panduan praktis 3 langkah."
 pubDate: "2026-04-28"
@@ -31,17 +32,17 @@ Dalam postingan ini, kami mengeksplorasi prinsip-prinsip ilmiah di balik kebiasa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai tesla-toe-curling didasarkan pada <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
+      Konten ini didasarkan pada <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Jari Kaki: Sakelar Saraf yang Membangunkan Sel-Sel Otak
+## 1. Jari Kaki: Sakelar Saraf yang Membangunkan Sel-Sel Otak
 
 Tesla percaya bahwa gerakan sederhana mengerutkan jari kaki secara berulang merangsang banyak ujung saraf di kaki, mengaktifkan sel-sel otak, dan memulihkan kelelahan mental.
 
@@ -49,9 +50,7 @@ Faktanya, area yang ditempati oleh kaki dan jari kaki di korteks somatosensori o
 
 ---
 
-## Tip Neurosains untuk Rutinitas yang Sukses
-
-Latihan jari kaki membantu sirkulasi darah di area terjauh dari jantung, meratakan suhu tubuh, dan mengaktifkan sistem saraf parasimpatis. Mengulangi tindakan ini setiap malam pada waktu yang sama (segera setelah memakai selimut) melatih otak Anda untuk mengenalinya sebagai sinyal terkondisi untuk tidur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Latihan jari kaki membantu sirkulasi darah di area terjauh dari jantung, meratak
     Rasakan kehangatan dan relaksasi lembut yang menyebar ke seluruh tubuh setelah latihan, lalu biarkan diri Anda tertidur nyenyak mengikuti sinyal tidur dari otak.
   </p>
 </div>
+
+---
+
+## 3. Tip Neurosains untuk Rutinitas yang Sukses
+
+Latihan jari kaki membantu sirkulasi darah di area terjauh dari jantung, meratakan suhu tubuh, dan mengaktifkan sistem saraf parasimpatis. Mengulangi tindakan ini setiap malam pada waktu yang sama (segera setelah memakai selimut) melatih otak Anda untuk mengenalinya sebagai sinyal terkondisi untuk tidur.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

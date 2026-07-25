@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mengatasi Kelebihan Beban Keputusan dengan Berkuda Pagi: Stimulasi Aerobik Bismarck dan Rutinitas Prioritas TOP 3"
 description: "Pelajari bagaimana Otto von Bismarck, 'Kanselir Besi' yang menyatukan Jerman, menggabungkan berkuda pagi dengan metode ekstraksi prioritas TOP 3, serta temukan prinsip neurosains tentang meningkatkan aliran darah otak melalui olahraga aerobik untuk mencegah kelelahan keputusan."
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik stimulasi aerobi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai bismarck-morning-ride-priority didasarkan pada <strong>Verifikasi Historis dari Autobiografi Otto von Bismarck *Gedanken und Erinnerungen* & Biografi A.J.P. Taylor *Bismarck: The Man and the Statesman* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Otto von Bismarck *Gedanken und Erinnerungen* & Biografi A.J.P. Taylor *Bismarck: The Man and the Statesman* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sekresi BDNF Pasca-Olahraga Aerobik dan Penyederhanaan Keputusan Melalui 'Aturan 3'
+## 1. Sekresi BDNF Pasca-Olahraga Aerobik dan Penyederhanaan Keputusan Melalui 'Aturan 3'
 
 Ketika pilihan keputusan melebihi 4 atau 5 item, kemacetan (Bottleneck) terjadi pada sirkuit kontrol eksekutif prefrontal, yang dengan cepat menyebabkan kelelahan keputusan. Menerapkan 'Aturan 3 (Rule of 3)' tepat setelah memicu Brain-Derived Neurotrophic Factor (BDNF) dan pelepasan dopamin melalui olahraga aerobik pagi—seperti yang dilakukan Bismarck—memelihara anggaran glukosa korteks prefrontal dan mencegah kelebihan beban kognitif. Di dalam batas terstruktur hanya tiga item, otak menyaring kebisingan dan melepaskan energi kognitif puncak untuk pemecahan masalah inti.
 
 ---
 
-## Perhatian & Tip: Mengesampingkan Tugas Sepele Sebelum TOP 3 Selesai & Desain Lingkungan
-
-Mengerjakan tugas-tugas mudah dan sepele terlebih dahulu memberikan sensasi 'pencapaian palsu' sesaat pada otak, tetapi akhirnya menunda eksekusi tugas-tugas prioritas utama. Hingga ketiga tugas TOP 3 selesai, tunda pekerjaan sepele seperti memeriksa email atau merapikan meja. Daripada hanya mengandalkan kemauan keras, kunci keberlanjutan adalah mendesain lingkungan fisik yang memblokir gangguan sejak awal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Mengerjakan tugas-tugas mudah dan sepele terlebih dahulu memberikan sensasi 'pen
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mengesampingkan Tugas Sepele Sebelum TOP 3 Selesai & Desain Lingkungan
+
+Mengerjakan tugas-tugas mudah dan sepele terlebih dahulu memberikan sensasi 'pencapaian palsu' sesaat pada otak, tetapi akhirnya menunda eksekusi tugas-tugas prioritas utama. Hingga ketiga tugas TOP 3 selesai, tunda pekerjaan sepele seperti memeriksa email atau merapikan meja. Daripada hanya mengandalkan kemauan keras, kunci keberlanjutan adalah mendesain lingkungan fisik yang memblokir gangguan sejak awal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika saya gagal menyelesaikan salah satu dari tugas TOP 3 selama hari itu?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Mengerjakan tugas-tugas mudah dan sepele terlebih dahulu memberikan sensasi 'pen
       Sama sekali tidak masalah. Ini bukan kegagalan, melainkan bukti bahwa Anda memfokuskan energi pada proyek substansial berorientasi dampak tinggi. Cukup pindahkan item yang belum selesai sebagai tugas #1 besok pagi saat korteks prefrontal Anda berada pada kondisi paling segar.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa alternatif olahraga modern pengganti berkuda di pagi hari?</span>

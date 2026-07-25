@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pelatihan Imunitas Kebisingan Von Neumann: Mempertahankan Fokus di Bangku Stasiun Kereta yang Bising"
 description: "Matematikawan genius yang merancang arsitektur komputer dan teori permainan, mematuhi rutinitas imunitas kebisingan dan catatan di dekat tempat tidur."
 pubDate: "2026-06-28"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami menyajikan prinsip-prinsip ilmu kognitif di balik
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai von-neumann didasarkan pada <strong>Biografi historis dan catatan autobiografi John von Neumann & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi John von Neumann & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Sensory Gating' dan Kontrol Perhatian yang Memungkinkan Fokus di Tengah Kebisingan
+## 1. 'Sensory Gating' dan Kontrol Perhatian yang Memungkinkan Fokus di Tengah Kebisingan
 
 Mempertahankan fokus di bawah tingkat kebisingan yang terukur memaksimalkan mekanisme kognitif tingkat tinggi yang dikenal sebagai <strong>'Sensory Gating'</strong>. Ketika otak memfilter stimulasi ekternal menjadi suara latar dan mengaktifkan Jaringan Eksekutif Pusat di lobus frontal, ini meningkatkan fleksibilitas perhatian.
 
 ---
 
-## Saran Ilmu Perilaku untuk Penerapan Kebiasaan yang Sukses
-
-Hindari kebisingan tempat konstruksi atau desibel ekstrem yang merusak kesehatan otak. Kuncinya adalah memfilter suara sekitar yang lembut atau musik instrumental melalui filter kognitif Anda. Daripada hanya mengandalkan kemauan keras, rancang lingkungan Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Hindari kebisingan tempat konstruksi atau desibel ekstrem yang merusak kesehatan
   </p>
 </div>
 
+---
+
+## 3. Saran Ilmu Perilaku untuk Penerapan Kebiasaan yang Sukses
+
+Hindari kebisingan tempat konstruksi atau desibel ekstrem yang merusak kesehatan otak. Kuncinya adalah memfilter suara sekitar yang lembut atau musik instrumental melalui filter kognitif Anda. Daripada hanya mengandalkan kemauan keras, rancang lingkungan Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya harus melakukan rutinitas fokus ini sebelum menangani tugas sulit setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Hindari kebisingan tempat konstruksi atau desibel ekstrem yang merusak kesehatan
       Ya, memanfaatkan tingkat kebisingan latar belakang atau musik yang sedang membantu menyempitkan rentang perhatian kognitif Anda, memungkinkan Anda masuk ke dalam fokus analitis yang kompleks jauh lebih cepat.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mengganti generator kebisingan khusus jika tidak memiliki peralatan khusus?</span>

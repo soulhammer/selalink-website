@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rahasia Meja Penulis Nobel: Rutinitas Bunga Mawar Kuning Márquez"
 description: "Mengapa Gabriel García Márquez, penulis Seratus Tahun Kesunyian, menaruh mawar kuning di mejanya setiap pagi. Mempelajari bagaimana ritual visual meredakan ketegangan otak dan memicu kreativitas."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Dalam artikel hari ini, kami mengupas mekanisme ilmiah di balik 'ritual mawar ku
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai marquez-yellow-rose didasarkan pada <strong>Verifikasi Biografi Historis Gabriel García Márquez & Riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Biografi Historis Gabriel García Márquez & Riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengapa Ritual Visual Memberikan Kreativitas dan Ketenangan
+## 1. Mengapa Ritual Visual Memberikan Kreativitas dan Ketenangan
 
 Menaruh dan mengamati warna atau objek alam tertentu (seperti mawar kuning) mengirimkan sinyal 'aman dan nyaman secara emosional' ke otak. Saat rileks, otak memancarkan <strong>Gelombang Alfa (Alpha Waves)</strong> yang meningkatkan fokus kognitif, mempercepat pemikiran asosiatif, dan memicu kreativitas.
 
 ---
 
-## Perhatian dan Tips
-
-Hindari menaruh hiasan yang terlalu mencolok atau ramai di atas meja kerja. Warna yang berlebihan justru memicu <strong>kelelahan visual</strong> dan mengganggu konsentrasi; pilihlah pendekatan minimalis dengan satu objek yang sederhana dan jelas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Hindari menaruh hiasan yang terlalu mencolok atau ramai di atas meja kerja. Warn
     Tatap objek secara lembut selama 10–20 detik sambil mengatur napas, membimbing otak secara perlahan menuju mode fokus yang rileks dan siap berkonsentrasi.
   </p>
 </div>
+
+---
+
+## 3. Perhatian dan Tips
+
+Hindari menaruh hiasan yang terlalu mencolok atau ramai di atas meja kerja. Warna yang berlebihan justru memicu <strong>kelelahan visual</strong> dan mengganggu konsentrasi; pilihlah pendekatan minimalis dengan satu objek yang sederhana dan jelas.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

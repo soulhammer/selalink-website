@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "午前4時のカイエ：ポール・ヴァレリーの意識記録法"
 description: "51年間毎日午前4時に起きて手書きノート『カイエ』を満たした詩人ポール・ヴァレリー。外部刺激が遮断された早朝の静寂が前頭葉の省察および分析知能を最高潮に呼び覚ます科学的理由を扱います。"
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「valery-dawn-notebook」は <strong>Valery Dawn Notebook 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Valery Dawn Notebook 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 早朝の静寂が与える認知ノイズ遮断と覚醒ホルモンの作用
+## 1. 早朝の静寂が与える認知ノイズ遮断と覚醒ホルモンの作用
 
 日常的な昼の時間帯に、脳は騒音、メール、メッセンジャーなど無数の外部刺激に直面し、認知資源を浪費します。しかし午前4時には周囲の世界が完全に停止しており、脳が外部刺激をフィルタリングするのに費やすエネルギーがゼロに近くなります。同時に、目覚めとともに徐々に誘発されるコルチゾールホルモン値の上昇は、脳をストレスなく穏やかに目覚めさせ、前頭葉が主導する深い省察的執筆と自己観照の作業を遂行するのに完璧な生理学的条件を作り出します。
 
 ---
 
-## 注意事項およびヒント
-
-起床直後、脳が完全に覚醒する前のぼんやりした状態で、複雑な機械的業務や数値演算にすぐ入ると生産性が低下します。この時間帯には論理演算より直感的なメモや自由な執筆、哲学的読書を配置することが認知効率に最も適しています。また、早朝の時間を邪魔されないために、起床直後の1時間は絶対にスマートフォンやメールを確認しない遮断の壁を立てることが必須です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     ノートを開き、形式にとらわれず30分間自分の考え、感情、浮かび上がる知的アイデアを黙々とペンで書き下ろし、思考を精緻化します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびヒント
+
+起床直後、脳が完全に覚醒する前のぼんやりした状態で、複雑な機械的業務や数値演算にすぐ入ると生産性が低下します。この時間帯には論理演算より直感的なメモや自由な執筆、哲学的読書を配置することが認知効率に最も適しています。また、早朝の時間を邪魔されないために、起床直後の1時間は絶対にスマートフォンやメールを確認しない遮断の壁を立てることが必須です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

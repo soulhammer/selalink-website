@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Diseñarse a uno mismo: El hábito de registro de retroalimentación visual del maestro conductista B.F. Skinner"
 description: "Presentamos el hábito de cuantificación conductual diaria de B. F. Skinner, maestro de la psicología conductual. Una guía práctica de 3 pasos para reforzar los mecanismos cerebrales a través de retroalimentación numérica en tiempo real."
 pubDate: "2026-05-14"
@@ -36,22 +37,20 @@ En la publicación de hoy, examinamos los principios científicos detrás de la 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre skinner-behavior-tracking se basa en <strong>Biografías históricas, registros autobiográficos del seguimiento conductual de Skinner e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas, registros autobiográficos del seguimiento conductual de Skinner e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El 'Efecto de Retroalimentación Visual' que estimula los circuitos de dopamina
+## 1. El 'Efecto de Retroalimentación Visual' que estimula los circuitos de dopamina
 
 Según la psicología conductista, el cerebro humano tiende fuertemente a repetir una conducta cuando experimenta una recompensa inmediata o una respuesta positiva justo después de realizarla. En el condicionamiento operante, esto se conoce como <strong>'Refuerzo conductual (Reinforcement)'</strong>. Verificar cuántas palabras escribió o cuántos minutos estuvo concentrado, y visualizarlo en un gráfico a través de retroalimentación visual (Visual Feedback), es una excelente recompensa inmaterial que libera dopamina en el sistema de predicción de recompensa del cerebro. Este hábito no se apoya en una fuerza de voluntad vaga, sino que estimula y consolida la frecuencia de la concentración profunda a través de un bucle de retroalimentación de datos.
 
 ---
 
-## Cuidado con la manipulación de métricas y la inversión de medios y fines
-
-Un error común al mantener este hábito de registro es comprometer la calidad del trabajo o dejar un temporizador encendido sin sentido solo para inflar las cifras del gráfico o el recuento de palabras. Como señala la Ley de Goodhart, 'Cuando una medida se convierte en un objetivo, deja de ser una buena medida'. El registro debe ser un espejo objetivo que refleje el flujo de productividad, y nunca los números en sí deben convertirse en el propósito final del trabajo intelectual.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Un error común al mantener este hábito de registro es comprometer la calidad d
     Trace sus datos de productividad diarios en un gráfico de líneas y colóquelo en un lugar visible o tablero digital para monitorear visualmente su rendimiento y reforzar su motivación.
   </p>
 </div>
+
+---
+
+## 3. Cuidado con la manipulación de métricas y la inversión de medios y fines
+
+Un error común al mantener este hábito de registro es comprometer la calidad del trabajo o dejar un temporizador encendido sin sentido solo para inflar las cifras del gráfico o el recuento de palabras. Como señala la Ley de Goodhart, 'Cuando una medida se convierte en un objetivo, deja de ser una buena medida'. El registro debe ser un espejo objetivo que refleje el flujo de productividad, y nunca los números en sí deben convertirse en el propósito final del trabajo intelectual.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

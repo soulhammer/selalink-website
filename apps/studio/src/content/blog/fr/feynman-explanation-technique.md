@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode d'apprentissage ultra-rapide du prix Nobel : L'habitude d'enseigner et la maîtrise métacognitive de Richard Feynman"
 description: "Découvrez comment le prix Nobel Richard Feynman expliquait la mécanique quantique complexe pour qu'un enfant de 10 ans puisse la comprendre. Explorez la neuroscience de la métacognition et du rappel actif."
 pubDate: "2026-02-11"
@@ -35,25 +36,23 @@ Dans cet article, nous révélons les vérités neuroscientifiques sous-jacentes
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant feynman-explanation-technique est basée sur <strong>Vérification Historique issue de l'autobiographie de Richard Feynman *Vous voulez rire, Monsieur Feynman !*, des archives de cours de Caltech & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Richard Feynman *Vous voulez rire, Monsieur Feynman !*, des archives de cours de Caltech & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Métacognition et rappel actif : Exposer les limites du savoir
+## 1. Métacognition et rappel actif : Exposer les limites du savoir
 
 Lire ou écouter passivement de nouvelles informations ne suffit pas a les ancrer dans la mémoire a long terme. À l'inverse, verbaliser des concepts ou les résumer en langage simple sollicite le mécanisme de <strong>Rappel Actif (Active Retrieval)</strong>. Expliquer des idées complexes par des analogies simples stimule fortement la <strong>Métacognition</strong> (l'évaluation de sa propre compréhension). Supprimer le jargon technique dissipe l'illusion de compétence. Ce processus permet au cortex préfrontal et a l'hippocampe de consolider les connaissances dans la <strong>Mémoire à Long Terme</strong>.
 
 ---
 
-## Mise en garde : Briser le piège de l'illusion de compétence par le rappel actif
-
-Survoler des textes ou regarder des cours génère un faux sentiment de maîtrise (illusion de compétence) sans activer les circuits métacognitifs. Comme Feynman, prenez 10 minutes après étude face a une feuille blanche pour expliquer le sujet à voix haute. Ce que vous ne pouvez pas expliquer ne vous appartient pas encore.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Survoler des textes ou regarder des cours génère un faux sentiment de maîtris
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Briser le piège de l'illusion de compétence par le rappel actif
+
+Survoler des textes ou regarder des cours génère un faux sentiment de maîtrise (illusion de compétence) sans activer les circuits métacognitifs. Comme Feynman, prenez 10 minutes après étude face a une feuille blanche pour expliquer le sujet à voix haute. Ce que vous ne pouvez pas expliquer ne vous appartient pas encore.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si je n'ai pas d'enfant dans mon entourage à qui tout expliquer ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Survoler des textes ou regarder des cours génère un faux sentiment de maîtris
       Un enfant réel n'est pas nécessaire. Vous pouvez imaginer un collègue, une peluche sur votre bureau ou utiliser un chatbot IA réglé sur le niveau d'un enfant de 10 ans. L'important est le filtrage : éliminer tout jargon.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il normal que les phrases deviennent longues et maladroites en supprimant tout le jargon ?</span>

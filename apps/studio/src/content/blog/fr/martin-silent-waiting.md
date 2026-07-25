@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un esprit comme une toile vierge : La routine d'attente silencieuse d'Agnes Martin"
 description: "La peintre Agnes Martin s'asseyait sur une chaise devant sa toile, attendant la disparition complète des pensées parasites avant de peindre. Découvrez la science cognitive de la méditation qui purifie le bruit cérébral."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous analysons comment le rituel d'attente d'Agnes
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant martin-silent-waiting est basée sur <strong>Vérification des biographies historiques d'Agnes Martin & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques d'Agnes Martin & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Réduction du bruit cognitif et synchronisation des ondes Alpha-Thêta
+## 1. Réduction du bruit cognitif et synchronisation des ondes Alpha-Thêta
 
 Le cerveau moderne émet continuellement des ondes Bêta rapides sous la pression de résoudre des problèmes. Cet état amplifie le bruit cognitif et bloque l'intuition. En marquant une pause consciente pour vous concentrer sur le silence intérieur, le cerveau passe des <strong>Ondes Alpha (Alpha Waves)</strong> apaisantes aux <strong>Ondes Thêta (Theta Waves)</strong> de réflexion profonde. Cette synchronisation lève les filtres logiques préfrontaux, réveillant des idées novatrices enfouies dans la mémoire à long terme.
 
 ---
 
-## Précautions et conseils
-
-Attention à ne pas tomber dans le piège de la 'lutte contre les pensées' en voulant faire le vide. Chercher à réprimer (Suppression) les idées rend le cerveau encore plus obsédé par elles — c'est l'Effet Rebond (Rebound Effect). Laissez les pensées passer comme des nuages, observez-les sans jugement et ramenez doucement votre attention sur votre respiration grâce à la pleine conscience (Mindfulness).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Attention à ne pas tomber dans le piège de la 'lutte contre les pensées' en v
     Une fois le brouillard mental dissipé et la clarté retrouvée, ouvrez uniquement la tâche essentielle et commencez à travailler.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Attention à ne pas tomber dans le piège de la 'lutte contre les pensées' en voulant faire le vide. Chercher à réprimer (Suppression) les idées rend le cerveau encore plus obsédé par elles — c'est l'Effet Rebond (Rebound Effect). Laissez les pensées passer comme des nuages, observez-les sans jugement et ramenez doucement votre attention sur votre respiration grâce à la pleine conscience (Mindfulness).
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Imersi Geometri Blaise Pascal: Cara Menghapus Rasa Sakit dan Stres dari Otak dengan Tugas Tingkat Tinggi"
 description: "Jelajahi fakta sejarah jenius abad ke-17 Blaise Pascal mengatasi sakit gigi dan sakit kepala parah melalui imersi matematika tingkat tinggi, serta prinsip ilmiah Attentional Gating."
 pubDate: "2026-06-06"
@@ -35,25 +36,23 @@ Suatu malam pada tahun 1658, saat sakit gigi yang luar biasa menyerang lagi, Pas
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai pascal-math-focus didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Pascal Math Focus & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Pascal Math Focus & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Alasan Ilmiah Mengapa Imersi Kognitif Tingkat Tinggi Mampu Mengimbangi Rasa Tidak Nyaman Fisik dan Mental
+## 1. Alasan Ilmiah Mengapa Imersi Kognitif Tingkat Tinggi Mampu Mengimbangi Rasa Tidak Nyaman Fisik dan Mental
 
 Neurosains modern menjelaskannya melalui 'Teori Attentional Gating'. Ketika korteks prefrontal manusia terlibat 100% dalam tugas kognitif tingkat tinggi, jaringan saraf talamus secara aktif memblokir sinyal sensorik rasa sakit dan stres tingkat bawah agar tidak dipersepsikan.
 
 ---
 
-## Peringatan Imersi Pascal dan Tips Neurosains
-
-Saat pikiran pengganggu atau stres datang, jangan mencoba menahannya secara paksa. Segera beralih ke kuis atau tugas membaca tingkat tinggi yang menggunakan 100% memori kerja (Working Memory) Anda untuk mengaktifkan katup pemblokir sensorik otak selama 15–20 menit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Saat pikiran pengganggu atau stres datang, jangan mencoba menahannya secara paks
   </p>
 </div>
 
+---
+
+## 3. Peringatan Imersi Pascal dan Tips Neurosains
+
+Saat pikiran pengganggu atau stres datang, jangan mencoba menahannya secara paksa. Segera beralih ke kuis atau tugas membaca tingkat tinggi yang menggunakan 100% memori kerja (Working Memory) Anda untuk mengaktifkan katup pemblokir sensorik otak selama 15–20 menit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah metode ini juga efektif untuk stres kerja sehari-hari atau kecemasan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Saat pikiran pengganggu atau stres datang, jangan mencoba menahannya secara paks
       Ya, betul. Mekanisme gating talamus tidak hanya memblokir rasa sakit fisik tetapi juga sinyal kecemasan psikologis dan stres dengan cara yang persis sama.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Berapa lama sprint imersi tingkat tinggi sebaiknya dipertahankan?</span>

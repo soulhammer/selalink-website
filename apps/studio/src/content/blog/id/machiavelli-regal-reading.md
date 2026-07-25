@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Percakapan dengan Orang Bijak: Rutinitas Membaca Formal ala Machiavelli"
 description: "Niccolò Machiavelli, negarawan yang berganti pakaian keagungan istana setiap malam untuk membaca buku-buku sejarah bahkan saat dalam pengasingan. Konten ini membahas prinsip ilmiah 'cognition berbusana' (enclothed cognition), menunjukkan bagaimana pakaian formal memicu kebangkitan otak dan mengubah pola pikir."
 pubDate: "2026-04-01"
@@ -35,17 +36,17 @@ Dalam postingan hari ini, kami menafsirkan manfaat kognitif dari tata krama berb
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai machiavelli-regal-reading didasarkan pada <strong>Bukti sejarah dari korespondensi Niccolò Machiavelli 『Letters of Machiavelli』 & Penelitian dalam Ilmu Saraf Kognitif dan Psikologi Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Bukti sejarah dari korespondensi Niccolò Machiavelli 『Letters of Machiavelli』 & Penelitian dalam Ilmu Saraf Kognitif dan Psikologi Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Kognisi Berbusana (Enclothed Cognition) dan Aktivasi Jaringan Kontrol Eksekutif (Executive Control Network)
+## 1. Efek Kognisi Berbusana (Enclothed Cognition) dan Aktivasi Jaringan Kontrol Eksekutif (Executive Control Network)
 
 Sistem kognitif manusia mengalami fenomena <strong>Kognisi Berbusana (Enclothed Cognition)</strong>, di mana proses mental sangat disesuaikan dengan makna simbolis dari pakaian yang dikenakan.
 
@@ -55,9 +56,7 @@ Stimulus taktil halus dari pakaian rapi menekan lamunan tak perlu pada <strong>J
 
 ---
 
-## Panduan Menghambat Sinyal Relaksasi Pakaian Santai dan Beralih ke Pakaian Rapi demi Konsentrasi Penuh
-
-Essensinya bukan sekadar mengenakan pakaian mahal atau kaku, melainkan memungkinkan otak mengenali identitas peran yang jelas tentang 'mode fokus dan kerja' melalui pakaian. Jas yang terlalu ketat yang menyebabkan ketidaknyamanan fisik menguras sumber daya kognitif; oleh karena itu, menetapkan tingkat pakaian santai yang rapi yang secara jelas membedakan dari pakaian rumah sambil memungkinkan konsentrasi yang nyaman adalah hal yang paling ideal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Essensinya bukan sekadar mengenakan pakaian mahal atau kaku, melainkan memungkin
   </p>
 </div>
 
+---
+
+## 3. Panduan Menghambat Sinyal Relaksasi Pakaian Santai dan Beralih ke Pakaian Rapi demi Konsentrasi Penuh
+
+Essensinya bukan sekadar mengenakan pakaian mahal atau kaku, melainkan memungkinkan otak mengenali identitas peran yang jelas tentang 'mode fokus dan kerja' melalui pakaian. Jas yang terlalu ketat yang menyebabkan ketidaknyamanan fisik menguras sumber daya kognitif; oleh karena itu, menetapkan tingkat pakaian santai yang rapi yang secara jelas membedakan dari pakaian rumah sambil memungkinkan konsentrasi yang nyaman adalah hal yang paling ideal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah mengenakan pakaian bepergian alih-alih piyama saat bekerja dari rumah atau belajar di rumah benar-benar efektif?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Essensinya bukan sekadar mengenakan pakaian mahal atau kaku, melainkan memungkin
       Ya, penelitian tentang Kognisi Berbusana (Enclothed Cognition) dalam psikologi kognitif membuktikannya secara kuat. Hanya dengan berganti dari piyama atau pakaian rumah ke pakaian rapi seperti celana bahan atau kemeja, otak akan mengubah mode simbolisnya dari 'konteks istirahat' ke 'konteks kerja', mengurangi kebiasaan menunda-nunda dan secara drastis memperpendek waktu pemanasan awal untuk fokus mendalam.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ketika sulit untuk berganti pakaian lengkap atau pakaian bepergian, bisakah item tunggal seperti kacamata atau jam tangan tetap efektif?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "IBMを作った一言：トーマス・ワトソンの15分間沈黙思索ルーティン"
 description: "オフィスごとに「THINK」の札を掲げ、1日15分静かに思索に耽ったIBM創業者トーマス・ワトソンの思索術。意図的な遮断が脳の長期記憶を整理する原理を解説します。"
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「watson-think-sign」は <strong>トーマス・ワトソンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>トーマス・ワトソンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 何も行わない遮断がなぜ知力を高めるのか
+## 1. 何も行わない遮断がなぜ知力を高めるのか
 
 脳が途切れることなく押し寄せる刺激（電子メール、通知など）に反応している時は、記憶の整理や長期的な価値の企画を遂行する余裕がありません。すべての入力を完全に遮断して思考に没頭する時、脳は重要情報を選別する<strong>サリエンスネットワーク（Salience Network）</strong>を安定させ、デフォルト・モード・ネットワークと有機的に情報を交換して、複雑だった脳細胞ネットワークの交通整理を実行し、解決策を見出します。
 
 ---
 
-## 注意事項およびヒント
-
-この思索訓練を成功させるには、目につきやすい物理的標識である<strong>「視覚的プロンプト（Visual Prompt）」</strong>がオフィス空間内になければなりません。文字が見えないと、私たちの脳は再び慣性に流され、メールを開いたりネットサーフィンをしたりする即座の反応行動を行ってしまうため、目の前に確実な札を置いて意識の流れを定期的に断ち切る制御装置を維持する必要があります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     筆記用具を使わず頭の中だけで、本日解決すべき最も難しく影響力の大きい問題に注意を集中させ、徹底的に思索します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびヒント
+
+この思索訓練を成功させるには、目につきやすい物理的標識である<strong>「視覚的プロンプト（Visual Prompt）」</strong>がオフィス空間内になければなりません。文字が見えないと、私たちの脳は再び慣性に流され、メールを開いたりネットサーフィンをしたりする即座の反応行動を行ってしまうため、目の前に確実な札を置いて意識の流れを定期的に断ち切る制御装置を維持する必要があります。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

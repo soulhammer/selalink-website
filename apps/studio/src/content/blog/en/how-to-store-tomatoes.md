@@ -21,6 +21,7 @@ faqs:
     answer: "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
   - question: "Should fully ripe red tomatoes also be kept at room temperature?"
     answer: "No, fully ripe tomatoes rot quickly at room temp. Wrap each ripe tomato in paper towels, store them in the crisper drawer, and eat within 3 days."
+
 ---
 
 Did you know that storing tomatoes in the refrigerator ruins their unique flavor and aroma? Cold temperatures below 12°C break down tomato cell membranes, making the skin mushy and tasteless. Today, FreshSnap shares room temp ripening tips.
@@ -29,10 +30,10 @@ Did you know that storing tomatoes in the refrigerator ruins their unique flavor
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>RDA & USDA & CDC</strong>.
+      Based on official storage standards. <strong>RDA & USDA & CDC</strong>.
     </p>
   </div>
 </div>

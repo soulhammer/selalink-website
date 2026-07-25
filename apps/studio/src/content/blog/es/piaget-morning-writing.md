@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Cómo estructura el cerebro los pensamientos con precisión? La escritura matutina y caminata contemplativa de Jean Piaget"
 description: "Jean Piaget, el gran psicólogo infantil suizo. Descubra los principios neurocientíficos y la guía práctica de 3 pasos de sus rutinas de escritura matutina de 4 páginas y caminata contemplativa."
 pubDate: "2026-01-01"
@@ -38,14 +39,14 @@ En esta entrada, analizamos los principios neurocientíficos detrás de la rutin
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre piaget-morning-writing se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Jean Piaget e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Jean Piaget e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Externalización de la memoria de trabajo y sincronización de la Red por Defecto
+## 1. Externalización de la memoria de trabajo y sincronización de la Red por Defecto
 
 Intentar resolver problemas complejos de memoria agota rápidamente la capacidad de la memoria de trabajo. La escritura matutina de Piaget funcionaba como una <strong>'Externalización de la Memoria de Trabajo'</strong>, descargando el esfuerzo mental en el papel.
 
@@ -53,9 +54,7 @@ La caminata vespertina posterior estimula el Factor Neurotrófico Derivado del C
 
 ---
 
-## Equilibre la entrada de información con momentos de producción y descanso mental
-
-La vida moderna abruma al cerebro con un consumo constante de datos, descuidando la producción activa y el descanso. Equilibre su rutina como Piaget: combine la escritura matutina (producción) con la caminata vespertina (desconexión) para dar espacio de procesamiento a su mente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ La vida moderna abruma al cerebro con un consumo constante de datos, descuidando
   </p>
 </div>
 
+---
+
+## 3. Equilibre la entrada de información con momentos de producción y descanso mental
+
+La vida moderna abruma al cerebro con un consumo constante de datos, descuidando la producción activa y el descanso. Equilibre su rutina como Piaget: combine la escritura matutina (producción) con la caminata vespertina (desconexión) para dar espacio de procesamiento a su mente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo escribir a mano o puedo sustituirlo por mecanografía digital?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ La vida moderna abruma al cerebro con un consumo constante de datos, descuidando
       Aunque teclear funciona, escribir a mano estimula los músculos finos de los dedos, activando con mayor intensidad el lóbulo prefrontal y la corteza somatosensorial para mejorar la concentración.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué hago si no tengo parques o entornos naturales cerca para caminar?</span>

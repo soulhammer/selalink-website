@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "自信を充電する朝の鏡の秘密：ムハメド・アリの肯定宣言（アファメーション）ルーティン"
 description: "世紀のボクサー、ムハメド・アリ。試合前の極度のパフォーマンス不安を克服しチャンピオンになれた秘訣である、鏡の前での肯定宣言（アファメーション）の脳科学的効果と3ステップのマインドセットルーティンをご紹介します。"
 pubDate: "2026-01-26"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「ali-positive-affirmation」は <strong>ムハメド・アリ自伝『The Greatest: My Own Story』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ムハメド・アリ自伝『The Greatest: My Own Story』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳のご褒美系（報酬系）を活性化する自己宣言の力
+## 1. 脳のご褒美系（報酬系）を活性化する自己宣言の力
 
 私たちが不安を感じたり自信を失ったりした時、脳はストレスホルモンであるコルチゾールを過剰に分泌し、危機対処能力を低下させます。脳科学によると、鏡を見ながら声を出して肯定的なアファメーションを叫ぶ行為は、脳の<strong>「内側前頭葉（Medial Prefrontal Cortex）」</strong>と報酬系を刺激します。この自己確信の宣言は、脳が脅威的な情報をより鈍感に受け止めるよう調整し、自己効力感を呼び覚ましてストレス耐性を高めてくれます。自身を最高と呼ぶ瞬間、脳は実際にその価値に合わせて身体と精神のエネルギ―を活性化する準備を始めます。
 
 ---
 
-## 単なる願いではなく、現在形の言葉で断固として宣言してください
-
-肯定宣言（アファメーション）が脳の潜在意識を刺激するためには、言語の設計が重要です。「〜になりたい」という望む口調は、脳に欠乏状態を際立たせる可能性があります。ムハメド・アリが「私は最高だ」と断言したように、「私には自分の目標を達成する能力がある」というように、現在達成された形や明確な能力を規定する現在形の文章で揺るぎなく自身に宣言してこそ、真の認知的変化が起こります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 単なる願いではなく、現在形の言葉で断固として宣言してください
+
+肯定宣言（アファメーション）が脳の潜在意識を刺激するためには、言語の設計が重要です。「〜になりたい」という望む口調は、脳に欠乏状態を際立たせる可能性があります。ムハメド・アリが「私は最高だ」と断言したように、「私には自分の目標を達成する能力がある」というように、現在達成された形や明確な能力を規定する現在形の文章で揺るぎなく自身に宣言してこそ、真の認知的変化が起こります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>自分自身を最高だと嘘をついているようで気まずいです。</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       最初は違和感があるのが自然です。認知的不協和（Cognitive Dissonance）のためですが、重要なのは事実の有無を検証することではなく、脳に新しい可能性を開いてあげることです。繰り返すほど脳の可塑性（Neuroplasticity）によって神経回路が再編され、違和感は消え去り信念として固まります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>声を出して大きく叫ばなければ効果はありませんか？</span>

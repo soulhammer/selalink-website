@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "새벽 5시의 지식 조각상: 쥘 베른의 디테일 설계용 스크랩 습관"
 description: "SF 소설의 개척자 쥘 베른이 매일 아침 새벽 5시에 실행했던 정보 카드 스크랩 습관을 알아봅니다. 정보를 카테고리화하여 의미 기억을 강화하는 3단계 현대적 실천 가이드."
 pubDate: "2026-06-02"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>쥘 베른 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 verne-morning-scrap 루틴을 다룹니다.
+      본 콘텐츠는 <strong>쥘 베른 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 의미기억을 강화하는 '정교화 분류 아카이빙'
+## 1. 의미기억을 강화하는 '정교화 분류 아카이빙'
 
 습득한 지식을 단순히 눈으로 훑는 대신, 직접 손으로 축약해 핵심 카드로 옮겨 적고 분류하는 과정은 뇌의 의미론적 기억(Semantic Memory) 네트워크를 비약적으로 강화합니다. 이를 인지 심리학에서는 <strong>'정교화 시연(Elaborative Rehearsal)'</strong>이라고 하며, 새로운 정보 조각들을 뇌의 기존 인지 구조에 밀접하게 직조해 넣어 장기 기억화하는 기법입니다. 카드를 물리적으로 분류하는 활동은 뇌의 시각적, 운동적 경로를 동시에 자극하여 정보 간의 구조적 개연성을 인지시킵니다. 이 정보 정리 습관은 뇌의 연합 기억(Associative Memory) 인출 통로를 활성화하여 창의적인 아이디어의 원활한 조립을 돕습니다.
 
 ---
 
-## 수집 강박을 예방하고 활용성 극대화하기
-
-스크랩 루틴의 주된 함정은 단순히 지식을 스크랩하고 축적하는 데서 성취감을 느끼는 수집 강박(Collector's Fallacy)에 빠지는 것입니다. 카드를 만드는 것은 지식을 뇌에 깊이 결합하고 활용하기 위한 수단이어야 합니다. 요약은 오직 나만의 언어로 정제해야 하며, 정기적으로 카드 아카이브를 훑어보고 관련 지식들을 직접 작문이나 토론에 연결해 출력하는 시간을 반드시 병행해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     주말이나 특정 시간에 스크랩해 둔 카드를 서랍에서 임의로 5 ~ 6장 꺼내어 다시 읽고, 무관해 보이는 정보들을 결합하여 생각의 시너지를 만들거나 실질적인 집필에 출력합니다.
   </p>
 </div>
+
+---
+
+## 3. 수집 강박을 예방하고 활용성 극대화하기
+
+스크랩 루틴의 주된 함정은 단순히 지식을 스크랩하고 축적하는 데서 성취감을 느끼는 수집 강박(Collector's Fallacy)에 빠지는 것입니다. 카드를 만드는 것은 지식을 뇌에 깊이 결합하고 활용하기 위한 수단이어야 합니다. 요약은 오직 나만의 언어로 정제해야 하며, 정기적으로 카드 아카이브를 훑어보고 관련 지식들을 직접 작문이나 토론에 연결해 출력하는 시간을 반드시 병행해야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

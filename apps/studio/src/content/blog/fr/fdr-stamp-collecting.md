@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La routine de tri de timbres de Franklin D. Roosevelt : Relaxation cognitive et rituel de sommeil analogique"
 description: "Découvrez comment le président Roosevelt apaisait sa tension mentale en triant des timbres chaque soir pendant les crises. Explorez la neuroscience de la relaxation cognitive et du sommeil réparateur."
 pubDate: "2026-07-02"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente au ritue
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant fdr-stamp-collecting est basée sur <strong>Vérification Historique issue des biographies de Franklin D. Roosevelt, des archives de la FDR Presidential Library & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies de Franklin D. Roosevelt, des archives de la FDR Presidential Library & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Apaiser la mémoire de travail surchauffée par la relaxation cognitive et l'activation parasympathique
+## 1. Apaiser la mémoire de travail surchauffée par la relaxation cognitive et l'activation parasympathique
 
 Les décisions complexes surstimulent le cortex préfrontal, épuisant l'énergie mentale. Lorsque la tension persiste après le travail, le « résidu cognitif » altère le sommeil. S'adonner à un loisir visuel et tactile sans rapport avec le travail — comme le tri de timbres de FDR — envoie un « signal de sécurité » au cerveau, apaisant l'excitation préfrontale. La neuroscience montre que cette bascule cognitive active le système parasympathique, stimulant la mélatonine pour un sommeil réparateur.
 
 ---
 
-## Mise en garde : Éteignez les écrans et privilégiez les activités analogiques
-
-Beaucoup pensent à tort que regarder des vidéos sur smartphone au lit repose l'esprit. En réalité, la lumière bleue et les flux d'informations stimulants maintiennent le cerveau éveillé, bloquant la mélatonine. Pour favoriser le sommeil, remplacez les écrans par des activités analogiques sollicitant le toucher.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Beaucoup pensent à tort que regarder des vidéos sur smartphone au lit repose l
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éteignez les écrans et privilégiez les activités analogiques
+
+Beaucoup pensent à tort que regarder des vidéos sur smartphone au lit repose l'esprit. En réalité, la lumière bleue et les flux d'informations stimulants maintiennent le cerveau éveillé, bloquant la mélatonine. Pour favoriser le sommeil, remplacez les écrans par des activités analogiques sollicitant le toucher.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les jeux sur smartphone ou le visionnage de vidéos aident-ils a la relaxation cognitive ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Beaucoup pensent à tort que regarder des vidéos sur smartphone au lit repose l
       Non. La lumière bleue et les contenus stimulants maintiennent l'éveil cérébral et bloquent la mélatonine. La vraie relaxation cognitive nécessite des activités analogiques sollicitant le toucher sans écran.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si consacrer 30 minutes chaque soir semble trop long ou difficile ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Precisión para Calmar una Mente Inquieta: La Rutina de Meditación Caligráfica y Control Motor Fino de Kim Koo"
 description: "Descubra cómo Kim Koo, líder del Gobierno Provisional de Corea, ejercitó su mente a través de la caligrafía. Explore la neurociencia del control motor fino, la estabilización de la amígdala y un guía de 3 pasos."
 pubDate: "2026-02-06"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre kimgu-brush-meditation se basa en <strong>Verificación Histórica de la Autobiografía de Kim Koo *Baekbum Ilji*, Archivos del Gobierno Provisional e Investigación en Neurociencia Cognitiva y Ciencia del Control Motor</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Kim Koo *Baekbum Ilji*, Archivos del Gobierno Provisional e Investigación en Neurociencia Cognitiva y Ciencia del Control Motor</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Control Motor Fino y la Neurociencia de la Estabilización de la Amígdala
+## 1. Control Motor Fino y la Neurociencia de la Estabilización de la Amígdala
 
 Ejecutar un <strong>Control Motor Fino (Fine Motor Control)</strong> —modulando con precisión la presión y el ángulo como en la caligrafía— activa la <strong>Corteza Somatosensorial</strong> y la <strong>Corteza Motora</strong>. Cuando los recursos cerebrales se concentran en la manipulación táctil, se reduce la hiperactividad en la <strong>amígdala</strong>, el centro del miedo y la ansiedad. Además, las acciones rítmicas como moler tinta o trazar líneas continuas activan el <strong>Sistema Nervioso Parasimpático</strong>, reduciendo el <strong>cortisol</strong> y estabilizando el ritmo cardíaco.
 
 ---
 
-## Precaución: Elimine la Impaciencia por los Resultados para Centrarse en la Sensación Táctil
-
-Cuando sienta angustia, evite buscar soluciones inmediatas o preocuparse por la estética del trazo. Ancle su conciencia en la fricción entre la pluma y el papel y en el acto físico de trazar la línea. Centrarse en el proceso calma la ansiedad y devuelve la claridad prefrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Cuando sienta angustia, evite buscar soluciones inmediatas o preocuparse por la 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine la Impaciencia por los Resultados para Centrarse en la Sensación Táctil
+
+Cuando sienta angustia, evite buscar soluciones inmediatas o preocuparse por la estética del trazo. Ancle su conciencia en la fricción entre la pluma y el papel y en el acto físico de trazar la línea. Centrarse en el proceso calma la ansiedad y devuelve la claridad prefrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cuál es el principio neurocientífico por el que la caligrafía alivia el estrés y calma la mente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Cuando sienta angustia, evite buscar soluciones inmediatas o preocuparse por la 
       Regular la presión y el ángulo del pincel requiere Control Motor Fino, activando la corteza somatosensorial y prefrontal. Esta atención concentrada reduce las señales de amenaza en la amígdala, suprimiendo la ansiedad.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo obtener los mismos beneficios con una pluma estilográfica o bolígrafo si no tengo pinceles de caligrafía?</span>

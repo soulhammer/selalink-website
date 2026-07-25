@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Wunder um 4 Uhr morgens: Kobe Bryants Mamba-Trainingsroutine"
 description: "Erkunden Sie, wie die Basketball-Ikone Kobe Bryant täglich um 4 Uhr morgens seine erste Trainingseinheit begann, und entdecken Sie die neurowissenschaftlichen und physiologischen Prinzipien, wie beständiges Frühtraining den zirkadianen Rhythmus festigt und die körperliche Leistungsfähigkeit steigert."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die physiologischen und neurowissenschaftlic
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu bryant-four-am-workout basiert auf <strong>Historische Überprüfung aus Kobe Bryants Autobiografie *Mentalität Mamba: Wie ich spiele (The Mamba Mentality: How I Play)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Kobe Bryants Autobiografie *Mentalität Mamba: Wie ich spiele (The Mamba Mentality: How I Play)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Physiologische Mechanismen der Neuausrichtung des suprachiasmatischen Nukleus (SCN) und motorischen neuronalen Aktivierung
+## 1. Physiologische Mechanismen der Neuausrichtung des suprachiasmatischen Nukleus (SCN) und motorischen neuronalen Aktivierung
 
 Das beständige Ausführen intensiven Trainings zur selben Morgenstunde richtet den 'Suprachiasmatischen Nukleus (SCN)' des Hypothalamus auf diesen Zeitplan aus. 1) Der SCN leitet die frühzeitige Cortisolausschüttung (Cortisol) ein und erhöht präventiv die Ker Körpertemperatur sowie die Herz-Kreislauf-Aktivität, was die Schlafträgheit (Sleep Inertia) und motorische Defizite nach dem Aufwachen neutralisiert. 2) Regelmäßiges frühes Training konditioniert das Autonome Nervensystem (ANS) darauf, die Stoffwechselenergie früh am Tag optimal zu verteilen, was die neuromuskuläre Reaktionsfähigkeit, die kardiorespiratorische Effizienz und die exekutive Steuerung auf Tageshöchstwerte hebt.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Sicherstellung der Gesamtschlafmenge (7–8 Stunden) & essenzielles Aufwärmen
-
-Eine Routine mit Aufstehen um 4 Uhr morgens kann bei Schlafmangel nicht funktionieren. Um um 4 Uhr aufzustehen, müssen Sie am Vorabend zwischen 21 und 22 Uhr ins Bett gehen, um 7 bis 8 Stunden Schlaf zu sichern. Das Ausführen von Frühroutinen bei Schlafdefizit führt zu zentralnervöser Erschöpfung und Immunschwäche. Da Gelenke und Gefäße nach dem Aufwachen steif sind, ist ein mindestens 10-minütiges dynamisches Aufwärmen Pflicht, um Verletzungen vorzubeugen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Eine Routine mit Aufstehen um 4 Uhr morgens kann bei Schlafmangel nicht funktion
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Sicherstellung der Gesamtschlafmenge (7–8 Stunden) & essenzielles Aufwärmen
+
+Eine Routine mit Aufstehen um 4 Uhr morgens kann bei Schlafmangel nicht funktionieren. Um um 4 Uhr aufzustehen, müssen Sie am Vorabend zwischen 21 und 22 Uhr ins Bett gehen, um 7 bis 8 Stunden Schlaf zu sichern. Das Ausführen von Frühroutinen bei Schlafdefizit führt zu zentralnervöser Erschöpfung und Immunschwäche. Da Gelenke und Gefäße nach dem Aufwachen steif sind, ist ein mindestens 10-minütiges dynamisches Aufwärmen Pflicht, um Verletzungen vorzubeugen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Sollte ich den Zeitplan mit Aufstehen um 4 Uhr morgens auch an Wochenenden und Feiertagen strikt einhalten?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Eine Routine mit Aufstehen um 4 Uhr morgens kann bei Schlafmangel nicht funktion
       Für eine optimale Anpassung des zirkadianen Rhythmus ist es ideal, die Abweichungen der Aufstehzeit am Wochenende auf maximal 1 Stunde zu begrenzen. Exzessives Ausschlafen am Wochenende setzt die innere Uhr des SCN zurück und verstärkt die Müdigkeit unter der Woche. Beständigkeit ist entscheidend.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Fördert das Ausführen intellektueller Aufgaben (Arbeit, Lesen) direkt nach einem 4-Uhr-Training die Konzentration?</span>

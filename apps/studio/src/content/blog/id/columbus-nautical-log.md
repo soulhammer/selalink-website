@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Kapten yang Membuka Era Penjelajahan: Rutinitas Catatan Log Malam Hari dan Penenangan Amigdala ala Christopher Columbus"
 description: "Pelajari bagaimana penjelajah Christopher Columbus mempertahankan ketenangan rasional di tengah badai samudra dengan menyimpan catatan log kuantitatif setiap malam. Temukan neurosains kognitif tentang bagaimana jurnal kuantitatif malam hari menenangkan amigdala."
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'penca
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai columbus-nautical-log didasarkan pada <strong>Verifikasi Historis dari *The Diario of Christopher Columbus* karya Bartolomé de las Casas & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *The Diario of Christopher Columbus* karya Bartolomé de las Casas & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Deaktivasi Amigdala dan Pengalihan Prefrontal Melalui Pencatatan Jurnal Kuantitatif Malam Hari
+## 1. Deaktivasi Amigdala dan Pengalihan Prefrontal Melalui Pencatatan Jurnal Kuantitatif Malam Hari
 
 Kecemasan yang samar dan tak terkendali merangsang pusat ketakutan sistem limbik—amigdala—secara berlebihan, memicu stimulasi simpatis, peningkatan denyut jantung, insomnia, dan kondisi panik. Menyimpan 'catatan log malam hari' yang menuliskan fakta konkret dan metrik kuantitatif (output yang selesai, tugas tersisa, vektor besok) bertindak sebagai saklar neurologis. Ini mengalihkan pemrosesan aktif menjauh dari struktur limbik emosional ke korteks prefrontal dorsolateral (DLPFC). Mengubah ketakutan menjadi angka-angka yang terlihat meredam reaktivitas amigdala, menginduksi ketenangan fisiologis.
 
 ---
 
-## Perhatian & Tip: Menghindari Ruminasi Emosional & Mencatat Metrik Objektif
-
-Fondasi dari rutinitas catatan log adalah mengubah perasaan subjektif menjadi data objektif. Menuliskan keluhan emosional seperti 'saya merasa sangat tertekan hari ini' sebelum tidur memicu kembali amigdala, memperparah insomnis. Kerapkan curahan hati yang subjektif. Sebaliknya, catat fakta dan metrik yang terkuantifikasi secara ketat: 'Menyelesaikan 4 dari 5 target', 'Tingkat kemajuan: 80%', 'Prioritas utama besok: 1 item'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Fondasi dari rutinitas catatan log adalah mengubah perasaan subjektif menjadi da
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menghindari Ruminasi Emosional & Mencatat Metrik Objektif
+
+Fondasi dari rutinitas catatan log adalah mengubah perasaan subjektif menjadi data objektif. Menuliskan keluhan emosional seperti 'saya merasa sangat tertekan hari ini' sebelum tidur memicu kembali amigdala, memperparah insomnis. Kerapkan curahan hati yang subjektif. Sebaliknya, catat fakta dan metrik yang terkuantifikasi secara ketat: 'Menyelesaikan 4 dari 5 target', 'Tingkat kemajuan: 80%', 'Prioritas utama besok: 1 item'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah mencatat dalam aplikasi catatan smartphone memberikan efek penenangan amigdala yang sama?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Fondasi dari rutinitas catatan log adalah mengubah perasaan subjektif menjadi da
       Tidak. Tulisan tangan secara fisik memberikan umpan balik sensorik taktil yang secara luas merekrut korteks motorik dan somatosensori, melibatkan kontrol kognitif prefrontal secara jauh lebih kuat. Lebih jauh lagi, cahaya biru smartphone menekan sekresi melatonin, mengganggu arsitektur tidur. Penggunaan buku catatan kertas fisik sangat direkomendasikan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus saya lakukan pada hari-hari ketika saya terlalu lelah untuk menulis catatan log penuh sebelum tidur?</span>

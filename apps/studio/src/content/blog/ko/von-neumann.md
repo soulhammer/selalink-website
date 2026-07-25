@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "시끄러운 기차 대합실 벤치에서도 몰입을 유지한 폰 노이만의 소음 면역 훈련"
 description: "컴퓨터 아키텍처와 게임 이론을 설계한 천재 수학자로, 수면 도중 뇌가 수행한 정보 연합 아이디어를 포착하기 위해 침대 근처 메모 루틴을 고수했습니다."
 pubDate: "2026-06-28"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 폰 노이만 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 von-neumann 루틴을 다룹니다.
+      본 콘텐츠는 <strong>존 폰 노이만 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 소음 속 몰입을 가능케 하는 '청각 게이팅'과 주의 통제
+## 1. 소음 속 몰입을 가능케 하는 '청각 게이팅'과 주의 통제
 
 일정 수준의 제어 가능한 소음 자극 하에서 인위적으로 몰입의 끈을 유지하려는 행위는 뇌의 상위 인지 기능인 '청각 및 감각 게이팅(Sensory Gating)' 메커니즘을 극대화합니다. 외부 자극을 뇌가 스스로 백색소음으로 필터링하고 전두엽의 중앙 집행 네트워크(Central Executive Network)를 장악하는 과정은 뇌의 주의 통제 유연성을 향상시켜, 어떠한 돌발 환경에서도 즉시 몰입을 획득하는 면역력을 단련합니다.
 
 ---
 
-## 성공적인 안착을 위한 행동과학 조언
-
-공사장 소음이나 귀를 찢는 극단적 데시벨의 환경은 뇌 건강에 해로우므로 피하세요. 일상의 가벼운 백색소음이나 클래식 음악의 흐름을 뇌 필터로 걸러내는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 성공적인 안착을 위한 행동과학 조언
+
+공사장 소음이나 귀를 찢는 극단적 데시벨의 환경은 뇌 건강에 해로우므로 피하세요. 일상의 가벼운 백색소음이나 클래식 음악의 흐름을 뇌 필터로 걸러내는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>매일 어려운 과제 돌입 전 이 음악 몰입 루틴을 수행해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       네, 일정 수준의 적절한 백색소음이나 음악 환경을 활용하면 인지적 주의 폭을 좁히고 복잡한 연산 집중에 보다 빠르게 진입할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>소음 축음기나 전용 기기가 없으면 어떻게 대체하나요?</span>

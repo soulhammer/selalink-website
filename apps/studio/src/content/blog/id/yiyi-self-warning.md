@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Membangun Otonomi yang Tak Tergoyahkan: Rutinitas Deklarasi Pagi Jagyeongmun karya Yi I (Yulgok)"
 description: "Kedisiplinan diri melalui 'Jagyeongmun' yang disusun pada usia 20 tahun oleh Yi I (Yulgok), cendekiawan terkemuka Dinasti Joseon. Kami menganalisis pelatihan kognitif yang mengaktifkan umpan balik berorientasi tujuan dengan merefleksikan resolusi pagi."
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ Banyak orang melupakan resolusi pagi saat dihadapkan pada gangguan. Yi I melakuk
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai yiyi-self-warning didasarkan pada <strong>Biografi historis & catatan autobiografi tentang peringatan diri Yi I & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis & catatan autobiografi tentang peringatan diri Yi I & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ilmu Saraf tentang Efek Referensi Diri dan Deklarasi Berorientasi Tujuan
+## 1. Ilmu Saraf tentang Efek Referensi Diri dan Deklarasi Berorientasi Tujuan
 
 Efek Referensi Diri (Self-Reference Effect) terjadi ketika memproses informasi yang berkaitan dengan diri sendiri mengaktifkan korteks prafrontal medial (mPFC), yang memperkuat ingatan jangka panjang dan internalisasi nilai. Membaca aturan pribadi setiap pagi memperkuat jalur saraf ini secara berkelanjutan. Menanamkan prinsip-prinsip ini mengaktifkan jaringan kontrol kognitif, berfungsi sebagai GPS internal untuk mengendalikan impuls dan menyelaraskan keputusan dengan tujuan jangka panjang.
 
 ---
 
-## Pesan tentang Kewaspadaan Diri dan Menjaga Otonomi
-
-Yang lebih penting daripada menetapkan prinsip adalah kejujuran untuk mengingatkan diri sendiri setiap pagi. Hanya standar yang Anda setujui dan deklarasikan sendiri—bukan aturan yang dipaksakan orang lain—yang dapat menggerakkan otak Anda secara kuat dan memberi Anda kendali atas hari Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Yang lebih penting daripada menetapkan prinsip adalah kejujuran untuk mengingatk
     Sebelum tidur, luangkan waktu sejenak untuk mengevaluasi sejauh mana Anda mematuhi deklarasi pagi Anda. Catat 1 atau 2 baris dalam jurnal tentang hal yang perlu diperbaiki besok.
   </p>
 </div>
+
+---
+
+## 3. Pesan tentang Kewaspadaan Diri dan Menjaga Otonomi
+
+Yang lebih penting daripada menetapkan prinsip adalah kejujuran untuk mengingatkan diri sendiri setiap pagi. Hanya standar yang Anda setujui dan deklarasikan sendiri—bukan aturan yang dipaksakan orang lain—yang dapat menggerakkan otak Anda secara kuat dan memberi Anda kendali atas hari Anda.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Julius Caesar's Simultaneous Dictation: Highly Focused Task-Switching and Working Memory Expansion"
 description: "Discover how Julius Caesar dictated multiple distinct letters and military commands simultaneously to several scribes on horseback or in carriages. Explore the neuroscience of working memory expansion, prefrontal cognitive flexibility, and sequential single-focus routines."
 pubDate: "2026-01-14"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Julius Caesar's 'si
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding julius-caesar-multi-dictation is based on <strong>Historical Verification from Plutarch's *Parallel Lives*, Pliny the Elder's *Naturalis Historia* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Plutarch's *Parallel Lives*, Pliny the Elder's *Naturalis Historia* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Working Memory Expansion and Prefrontal Cognitive Flexibility
+## 1. Working Memory Expansion and Prefrontal Cognitive Flexibility
 
 <strong>Working Memory</strong> serves as the cognitive workspace where the brain temporarily holds and manipulates information during executive decision-making. Caesar's simultaneous dictation required high-level top-down attentional control: keeping task parameters for multiple scribes buffered in working memory while rapidly switching active neural assemblies to compose the next dictation. This structured task-switching strengthens <strong>Prefrontal Cortex</strong> synaptic networks, expanding working memory capacity and elevating <strong>Cognitive Flexibility</strong>.
 
 ---
 
-## Caution: Eliminating Chaotic Multitasking to Practice Sequential Single-Focus
-
-True simultaneous dictation is not chaotic, distracted multitasking where attention is fractured across multiple streams. To prevent working memory overload and ensure high-quality output, adopt Caesar's protocol: immerse 100% of your focus on a single dictation target at any given moment before intentionally switching to the next—a state known as 'Sequential Single-Focus'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ True simultaneous dictation is not chaotic, distracted multitasking where attent
   </p>
 </div>
 
+---
+
+## 3. Caution: Eliminating Chaotic Multitasking to Practice Sequential Single-Focus
+
+True simultaneous dictation is not chaotic, distracted multitasking where attention is fractured across multiple streams. To prevent working memory overload and ensure high-quality output, adopt Caesar's protocol: immerse 100% of your focus on a single dictation target at any given moment before intentionally switching to the next—a state known as 'Sequential Single-Focus'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How does simultaneous dictation differ from conventional chaotic multitasking?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ True simultaneous dictation is not chaotic, distracted multitasking where attent
       Conventional multitasking fractures attention simultaneously across competing streams (e.g., checking messages while drafting emails), causing severe cognitive friction. Simultaneous dictation uses 'Sequential Single-Focus'—allocating 100% attention to one scribe at a time before executing a planned, structured context switch.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can I practice this routine using manual typing instead of voice dictation?</span>

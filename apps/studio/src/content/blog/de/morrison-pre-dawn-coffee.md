@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Morgendämmerungsritual zur Erweckung der Kreativität: Toni Morrisons Schreibvorbereitungsroutine um 5 Uhr morgens"
 description: "Nobelpreisträgerin Toni Morrison setzte jeden Morgen um 5 Uhr mit dem Blick in die Morgendämmerung ihre Gedanken zurück und begann ihr Schreiben. Entdecken Sie ihr Konzentrationsgeheimnis und den neurowissenschaftlichen Wert."
 pubDate: "2026-02-27"
@@ -35,17 +36,17 @@ Sie beschrieb dies als 'das Ankommen des Lichts beobachten' und gestand, dass di
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu morrison-pre-dawn-coffee basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Toni Morrison & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Toni Morrison & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Zirkadiane innere Uhr Aktivierung und Stimulation der retinalen Photorezeptoren
+## 1. Zirkadiane innere Uhr Aktivierung und Stimulation der retinalen Photorezeptoren
 
 Wird das Gehirn beim Aufwachen im dunklen Raum sofort starkem Smartphone-Blaulicht ausgesetzt, kommt es zu einem unnatürlichen Cortisolanstieg, der das Angstniveau erhöht.
 
@@ -53,9 +54,7 @@ Toni Morrisons Beobachtung der Morgendämmerung lässt das stetig heller werdend
 
 ---
 
-## Berühren Sie keine elektronischen Geräte, während natürliches Licht Ihre Augen trifft
-
-Der größte Zerstörer von Morgendämmerungsroutinen sind Smartphone-Benachrichtigungen. Schalten Sie während der 5 Minuten der Lichtbeobachtung niemals digitale Bildschirme ein. Überschütten Sie Ihre erwachenden Netz- und Gehirnzellen nicht mit visuellem Lärm; lassen Sie das natürliche Licht in Ruhe auf sich wirken.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Der größte Zerstörer von Morgendämmerungsroutinen sind Smartphone-Benachrich
   </p>
 </div>
 
+---
+
+## 3. Berühren Sie keine elektronischen Geräte, während natürliches Licht Ihre Augen trifft
+
+Der größte Zerstörer von Morgendämmerungsroutinen sind Smartphone-Benachrichtigungen. Schalten Sie während der 5 Minuten der Lichtbeobachtung niemals digitale Bildschirme ein. Überschütten Sie Ihre erwachenden Netz- und Gehirnzellen nicht mit visuellem Lärm; lassen Sie das natürliche Licht in Ruhe auf sich wirken.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Der Sonnenaufgang variiert je nach Jahreszeit; sollte ich meine Aufstehzeit anpassen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Der größte Zerstörer von Morgendämmerungsroutinen sind Smartphone-Benachrich
       Es ist nicht notwendig, den Zeitpunkt des Sonnenaufgangs exakt zu treffen. Das Erleben der ruhigen Atmosphäre kurz vor Tagesanbruch unabhängig von der Jahreszeit (meist zwischen 5:00 und 6:00 Uhr) bietet ausreichende Vorteile.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ich bin kein Frühaufsteher und fühle mich sehr müde, wenn ich früh aufstehe; was kann ich tun?</span>

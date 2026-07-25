@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Literary Giant Who Collected Seeds in His Garden: Goethe's Morning Observation Habit and Attention Restoration Routine"
 description: "Discover how Johann Wolfgang von Goethe gained profound inspiration by observing plants through a magnifying glass every morning. Explore Attention Restoration Theory (ART), fractal geometry, and his morning botanical walk routine."
 pubDate: "2026-02-24"
@@ -38,22 +39,20 @@ In today's post, we analyze the environmental psychology and cognitive neuroscie
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding goethe-botany-observation is based on <strong>Historical Verification from Johann Wolfgang von Goethe's *Dichtung und Wahrheit* & *The Metamorphosis of Plants*, Weimar Museum Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Johann Wolfgang von Goethe's *Dichtung und Wahrheit* & *The Metamorphosis of Plants*, Weimar Museum Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Nature Exposure and the Brain Science of Attention Restoration Theory (ART)
+## 1. Nature Exposure and the Brain Science of Attention Restoration Theory (ART)
 
 Analyzing data on screens, reading dense text, and executing complex work strategies trap the prefrontal cortex in a state of continuous energy depletion known as <strong>Directed Attention</strong>. Prolonged exposure causes Directed Attention Fatigue, sharply degrading problem-solving capacity and focus. According to Stephen and Rachel Kaplan's <strong>Attention Restoration Theory (ART)</strong>, observing natural elements—such as botanical fractal geometry, rustling leaves, or seed spirals—engages 'Soft Fascination' (Involuntary Attention), requiring zero cognitive effort. A 15-minute slow morning walk spent examining nature resets prefrontal fatigue and downregulates cortisol, sustaining intuitive clarity and deep insight throughout the day.
 
 ---
 
-## Caution: Protocol for Engaging Natural Fractals to Restore Prefrontal Cognitive Fatigue
-
-Digital text and screen infographics enforce intense Directed Attention, rapidly draining prefrontal energy. Observing natural fractal geometry—such as leaf veins, bark textures, or seed spirals—for 15 minutes activates the brain's attention restoration mechanism without cognitive effort. To achieve a complete cognitive reset, refrain from checking smartphone screens during the walk, allowing your focus to rest gently on natural objects.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Digital text and screen infographics enforce intense Directed Attention, rapidly
   </p>
 </div>
 
+---
+
+## 3. Caution: Protocol for Engaging Natural Fractals to Restore Prefrontal Cognitive Fatigue
+
+Digital text and screen infographics enforce intense Directed Attention, rapidly draining prefrontal energy. Observing natural fractal geometry—such as leaf veins, bark textures, or seed spirals—for 15 minutes activates the brain's attention restoration mechanism without cognitive effort. To achieve a complete cognitive reset, refrain from checking smartphone screens during the walk, allowing your focus to rest gently on natural objects.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is observing indoor house plants or potted flowers effective for attention restoration?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Digital text and screen infographics enforce intense Directed Attention, rapidly
       Yes. Examining micro-patterns and leaf venation on indoor house plants engages Soft Fascination, reducing prefrontal fatigue. However, outdoor observation paired with natural sunlight exposure and gentle walking delivers maximum systemic cognitive and neurological restoration.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Do I genuinely need to carry an actual magnifying glass or collection envelopes like Goethe?</span>

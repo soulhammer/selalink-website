@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bewältigung von Entscheidungsmüdigkeit: Mark Zuckerbergs Einheitskleidung-Gewohnheit"
 description: "Mark Zuckerberg reduzierte Entscheidungsmüdigkeit durch das tägliche Tragen desselben T-Shirts und derselben Jeans. Wir untersuchen die wissenschaftlichen Prinzipien zur Vermeidung der 'Ego-Erschöpfung' – einer endlichen Energieressource des Gehirns – und die Konzentration auf Kernentscheidungen."
 pubDate: "2026-06-12"
@@ -31,25 +32,23 @@ Mark Zuckerberg ist Gründer und CEO von Meta, einem riesigen Social-Media-Imper
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu zuckerberg-uniform-minimization basiert auf <strong>Historische Biografien & autobiografische Aufzeichnungen zu Zuckerbergs Einheitskleidung & kognitive Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien & autobiografische Aufzeichnungen zu Zuckerbergs Einheitskleidung & kognitive Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Schutz der endlichen Glukosereserven des Gehirns und Vermeidung von Ego-Erschöpfung
+## 1. Schutz der endlichen Glukosereserven des Gehirns und Vermeidung von Ego-Erschöpfung
 
 Die Energie, die der präfrontale Kortex bei Entscheidungen verbraucht, ist begrenzt. Mit jeder Entscheidung verbrauchen Gehirnzellen Glukose und Sauerstoff, was zu abnehmender Exekutivkontrolle führt – bekannt als 'Ego-Erschöpfung' (Ego Depletion). Belanglose Fragen wie 'Was ziehe ich heute an?' verbrauchen wertvolle mentale Kapazitäten. Durch die Automatisierung alltäglicher Prozesse mittels Einheitskleidung wie bei Zuckerberg schont der präfrontale Kortex seine Glukosereserven für essenzielle strategische Entscheidungen und steigert deren Qualität nachhaltig.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Ein häufiger Fehler bei der Einführung von Einheitskleidung ist der Stress bezüglich der Außenwirkung oder der Meinung anderer. Wenn Sie anfangen, sich um Modestil oder ästhetische Perfektion zu sorgen, erzeugt dies neue psychische Belastungen für das Gehirn und erhöht die Entscheidungsmüdigkeit, anstatt sie zu verringern. Der Schlüssel liegt darin, einen einfachen Stil zu wählen, der sich angenehm anfühlt und keine mentale Energie erfordert, um das Gehirn vollständig von externen Bewertungen zu befreien.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Ein häufiger Fehler bei der Einführung von Einheitskleidung ist der Stress bez
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Ein häufiger Fehler bei der Einführung von Einheitskleidung ist der Stress bezüglich der Außenwirkung oder der Meinung anderer. Wenn Sie anfangen, sich um Modestil oder ästhetische Perfektion zu sorgen, erzeugt dies neue psychische Belastungen für das Gehirn und erhöht die Entscheidungsmüdigkeit, anstatt sie zu verringern. Der Schlüssel liegt darin, einen einfachen Stil zu wählen, der sich angenehm anfühlt und keine mentale Energie erfordert, um das Gehirn vollständig von externen Bewertungen zu befreien.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie gehe ich mit wichtigen Meetings oder formellen Anlässen um, wenn ich jeden Tag dieselbe Kleidung trage?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Ein häufiger Fehler bei der Einführung von Einheitskleidung ist der Stress bez
       Mark Zuckerberg trägt bei offiziellen Anlässen oder Vorstandsitzungen ebenfalls Anzüge. Das Ziel der Einheitskleidung ist die Vermeidung belangloser Entscheidungen. Legen Sie vorab eine Kombination für formelle Anlässe fest, um Entscheidungsmüdigkeit zu vermeiden.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kann ich ein Uniform-Outfit auch mit anderer Kleidung als T-Shirts und Jeans zusammenstellen?</span>

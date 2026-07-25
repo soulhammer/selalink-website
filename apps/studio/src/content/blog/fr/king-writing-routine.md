@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment apprivoiser la muse : La routine quotidienne d'écriture de 2 000 mots et le conditionnement de l'attention de Stephen King"
 description: "Découvrez la célèbre routine d'écriture de Stephen King, l'un des auteurs les plus prolifiques au monde. Explorez la neuroscience de l'apprentissage sensorimoteur, les déclencheurs de conditionnement et un guide en 3 étapes pour soutenir votre productivité."
 pubDate: "2026-05-18"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente au « ri
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant king-writing-routine est basée sur <strong>Vérification Historique issue des mémoires de Stephen King *Écriture : Mémoires d'un métier (On Writing: A Memoir of the Craft, 2000)*, des archives de King & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des mémoires de Stephen King *Écriture : Mémoires d'un métier (On Writing: A Memoir of the Craft, 2000)*, des archives de King & de la Recherche en Neurosciences Cognitives et Psychologie Cognitive</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Apprentissage sensorimoteur et conditionnement classique pour un état de concentration automatique
+## 1. Apprentissage sensorimoteur et conditionnement classique pour un état de concentration automatique
 
 Associer des stimuli sensoriels (auditifs, gustatifs, spatiaux) a una tâche répétée crée un <strong>Apprentissage Sensorimoteur (Sensorimotor Learning)</strong> et des circuits de conditionnement. Lorsque Stephen King déclenche ses repères — vitamines, thé et musique fort — à 8h00 au même bureau, son système nerveux interprète ces éléments comme un signal d'engagement. Ce circuit automatisé économise la volonté du <strong>Cortex Préfrontal</strong>, garantissant una productivité régulière indépendante de l'humeur.
 
 ---
 
-## Mise en garde : Déclencher la concentration par le conditionnement plutôt que d'attendre l'inspiration
-
-L'inspiration ne s'attend pas de manière passive ; c'est un état neurologique provoqué intentionnellement par des déclencheurs sensoriels fixes à un endroit dédié. Plutôt que de vous reposer sur una volonté fluctuante, concevez un signal sensoriel préalable pour que votre cerveau bascule en concentration dès que vous vous installez.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'inspiration ne s'attend pas de manière passive ; c'est un état neurologique 
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Déclencher la concentration par le conditionnement plutôt que d'attendre l'inspiration
+
+L'inspiration ne s'attend pas de manière passive ; c'est un état neurologique provoqué intentionnellement par des déclencheurs sensoriels fixes à un endroit dédié. Plutôt que de vous reposer sur una volonté fluctuante, concevez un signal sensoriel préalable pour que votre cerveau bascule en concentration dès que vous vous installez.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Stephen King a-t-il fixé un quota minimal quotidien précis de 2 000 mots ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'inspiration ne s'attend pas de manière passive ; c'est un état neurologique 
       Se fier a l'humeur ou a l'inspiration produit un rendement instable. Fixer un seuil minimal contraignant oblige les réseaux exécutifs du cerveau a fonctionner de façon régulière, préservant des baisses de régime.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Faut-il reproduire à l'identique les déclencheurs de Stephen King, comme le hard rock ou les vitamines ?</span>

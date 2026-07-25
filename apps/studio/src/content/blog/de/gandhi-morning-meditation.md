@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Spinnrad in der Stille des Morgengrauens: Mahatma Gandhis frühe Morgenmeditation und aktive Meditation"
 description: "Erfahren Sie, wie Mahatma Gandhi, Indiens großer Friedensstifter, seinen Geist schärfte, indem er um 4 Uhr morgens meditierte und das Charkha-Spinnrad drehte. Entdecken Sie die Neurowissenschaften der aktiven Meditation."
 pubDate: "2026-03-23"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Kognitionswissenschaft hinter Mahatma Ga
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu gandhi-morning-meditation basiert auf <strong>Historische Überprüfung aus Mahatma Gandhis *Mein Leben (An Autobiography: The Story of My Experiments with Truth)*, Ashram-Archiven & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Mahatma Gandhis *Mein Leben (An Autobiography: The Story of My Experiments with Truth)*, Ashram-Archiven & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktive Meditation: Wie wiederkehrende Bewegungen Serotonin und Ruhe stimulieren
+## 1. Aktive Meditation: Wie wiederkehrende Bewegungen Serotonin und Ruhe stimulieren
 
 Während Meditation meist passiv ist, steht das Spinnen für <strong>aktive Meditation</strong>: Bewegungen nutzen, um tiefen Fokus zu erzeugen. Die Feinmotorik der Fingerspitzen bei rhythmischen Kreisbewegungen regt die Ausschüttung von <strong>Serotonin</strong> an. Serotonin vertreibt Morgenmüdigkeit, hemmt Ängste und spendet Seelenruhe. Die Konzentration beim Spinnen unterdrückt das Default Mode Network (DMN), das für Schweifgedanken verantwortlich ist. Gandhis Stärke beruhte auf dieser täglichen Erneuerung, die sein <strong>autonomes Nervensystem (HRV)</strong> ausrichtete.
 
 ---
 
-## Vorsichtsmaßnahme: Der feine haptische Rhythmus ist wichtiger als das Werkzeug
-
-Ein echtes indisches Charkha-Spinnrad zu erwerben, ist für die meisten unpraktisch. Der Wirkungsmechanismus basiert nicht auf dem Spinnrad selbst, sondern auf dem 'feinen haptischen Wiederholungsrhythmus'. Sie erzielen dieselben Erfolge durch ein 10-minütiges Ritual, das die Fingerspitzen fordert: Handschriftliches Abschreiben, Stricken, Teezeremonien oder Legosteine-Bauen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ein echtes indisches Charkha-Spinnrad zu erwerben, ist für die meisten unprakti
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Der feine haptische Rhythmus ist wichtiger als das Werkzeug
+
+Ein echtes indisches Charkha-Spinnrad zu erwerben, ist für die meisten unpraktisch. Der Wirkungsmechanismus basiert nicht auf dem Spinnrad selbst, sondern auf dem 'feinen haptischen Wiederholungsrhythmus'. Sie erzielen dieselben Erfolge durch ein 10-minütiges Ritual, das die Fingerspitzen fordert: Handschriftliches Abschreiben, Stricken, Teezeremonien oder Legosteine-Bauen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Welche modernen haptischen Aktivitäten können das Spinnen ersetzen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ein echtes indisches Charkha-Spinnrad zu erwerben, ist für die meisten unprakti
       Jede rhythmische Aktivität mit Feinmotorik eignet sich hervorragend: Schreiben mit dem Füllfederhalter, Stricken, Teezeremonien, Lego- oder Puzzlen bauen sowie Finger-Drumming aktivieren dieselben Serotoninpfade.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was tun, wenn die Gedanken während der haptischen Aktivität abdriften?</span>

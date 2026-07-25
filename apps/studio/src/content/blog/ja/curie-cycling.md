@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ラジウム研究のストレスを克服した秘訣：マリー・キュリーの夕方自転車ライディングとBDNF誘導法"
 description: "女性初のノーベル賞受賞者であり物理学・化学分野で同時に受賞したマリー・キュリー。極度の疲労とラジウム研究のストレスの中でも頭脳を守った夕方の自転車ライディングルーティン。BDNF分泌促進と前頭葉への酸素供給の認知神経科学的原理を解き明かします。"
 pubDate: "2026-02-28"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「curie-cycling」は <strong>エーヴ・キュリー伝記『Madame Curie』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エーヴ・キュリー伝記『Madame Curie』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## リズミカルなペダリングとBDNF分泌および前頭葉リセットの神経生理学
+## 1. リズミカルなペダリングとBDNF分泌および前頭葉リセットの神経生理学
 
 自転車に乗り一定のリズムでペダルを踏む有酸素運動は、大脳皮質に向かう血流量を飛躍的に増加させ、脳由来神経栄養因子（BDNF、Brain-Derived Neurotrophic Factor）の分泌を強力に促進します。BDNFは脳細胞の神経可塑性を高め、過酷な研究や複雑なビジネスで蓄積されたコルチゾール（Cortisol）値を急激に下げます。疲弊した前頭葉の神経回路に酸素とブドウ糖をスムーズに供給するこの夕方のライディングルーティンは、情緒的リラックスと認知的回復を同時に達成する強力な脳工学的リセットメカニズムです。
 
 ---
 
-## 注意事項＆ヒント：運動中の認知的作業連想の遮断と五感集中
-
-ライディングや休息時間の間、実験室の複雑な公式や職場の事業難題を頭の中で継続的に反復する行為を厳格に遮断しなければなりません。運動中に作業記憶（Working Memory）を稼働させると、前頭前野が休息状態に入れず、BDNF分泌の神経科学的回復効果が半減します。ライディング中は自転車の風の触感、通り過ぎる風景の視覚刺激、ペダルを踏む身体リズムにのみ100％感覚的注意を集めてこそ、脳の認知過負荷が解消されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：運動中の認知的作業連想の遮断と五感集中
+
+ライディングや休息時間の間、実験室の複雑な公式や職場の事業難題を頭の中で継続的に反復する行為を厳格に遮断しなければなりません。運動中に作業記憶（Working Memory）を稼働させると、前頭前野が休息状態に入れず、BDNF分泌の神経科学的回復効果が半減します。ライディング中は自転車の風の触感、通り過ぎる風景の視覚刺激、ペダルを踏む身体リズムにのみ100％感覚的注意を集めてこそ、脳の認知過負荷が解消されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>キュリー夫妻はなぜ結婚祝いに祝儀の代わりに自転車をリクエストしたのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       華やかな式典や豪華な生活用品の代わりに、フランスの田舎道や自然の中を直接走りながら共に思索し研究ストレスを解消できる実用的で健康的な手段だったからです。これらの自転車は彼らの新婚旅行の道であり生涯の研究の支えとなりました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>自転車がない、あるいはライディング環境が整っていない時、代替できる有酸素ルーティンはありますか？</span>

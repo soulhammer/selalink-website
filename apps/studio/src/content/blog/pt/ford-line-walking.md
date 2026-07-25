@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Rei do Automóvel que Desenhava a Inovação Caminhando pela Linha: O Esboço de Fluxo e a Rotina de Externalização Cognitiva de Henry Ford"
 description: "Descubra como Henry Ford, pioneiro da linha de montagem móvel, reduziu a carga pré-frontal percorrendo a fábrica e desenhando esquemas de fluxo. Explore a neurociência do rastreamento visual e da externalização cognitiva."
 pubDate: "2026-06-23"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos os princípios fisiológicos por trás da rotina d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre ford-line-walking é baseada em <strong>Verificação Histórica da Autobiografia de Henry Ford *Minha Vida e Minha Obra (My Life and Work)*, Biografias Históricas e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Henry Ford *Minha Vida e Minha Obra (My Life and Work)*, Biografias Históricas e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Rastreamento Visual Contínuo e Neurociência da Externalização Cognitiva
+## 1. Rastreamento Visual Contínuo e Neurociência da Externalização Cognitiva
 
 O rastreamento visual de um <strong>movimento mecânico ordenado (Smooth Pursuit)</strong>, como o de uma linha de montagem, sincroniza o córtex visual com os circuitos do cerebelo, acalmando o ruído neuronal e focando a atenção. Além disso, traduzir processos complexos em formas geométricas e setas gera um efeito de <strong>Externalización Cognitiva (Cognitive Offloading)</strong>. Transferir a memória de trabalho para o papel preserva a capacidade pré-frontal.
 
 ---
 
-## Precaução: Aproveite o Feedback de Fricção Tátil e o Foco Analógico
-
-Usar telas sensíveis ao toque para mapear conceitos expõe o cérebro a notificações e distrações de luz azul. Superfícies lisas de vidro reduzem a estimulação somatossensorial em mais de 50%. Para maximizar a compreensão, use lápis sobre papel físico; a resistência tátil fornece um feedback sensorial que consolida a clareza.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Usar telas sensíveis ao toque para mapear conceitos expõe o cérebro a notific
   </p>
 </div>
 
+---
+
+## 3. Precaução: Aproveite o Feedback de Fricção Tátil e o Foco Analógico
+
+Usar telas sensíveis ao toque para mapear conceitos expõe o cérebro a notificações e distrações de luz azul. Superfícies lisas de vidro reduzem a estimulação somatossensorial em mais de 50%. Para maximizar a compreensão, use lápis sobre papel físico; a resistência tátil fornece um feedback sensorial que consolida a clareza.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Posso substituir o papel desenhando com uma caneta digital no tablet?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Usar telas sensíveis ao toque para mapear conceitos expõe o cérebro a notific
       Telas digitais carecem de fricção física, reduzindo o feedback somatossensorial e expondo o cérebro a distrações. O papel físico oferece resistência na ponta da caneta que estimula o córtex de forma mais profunda. Recomenda-se usar papel real.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Desenhar esquemas sentado é tão eficaz quanto caminhando?</span>

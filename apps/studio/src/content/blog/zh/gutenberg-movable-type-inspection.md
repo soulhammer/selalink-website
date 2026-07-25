@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "印刷革命巨匠：古腾堡的晨间金属活字精密误差检验习惯与ERN错误检测机制"
 description: "探索金属活字发明家古腾堡每天清晨如何通过手触与眼观测检验活字平整度误差，捍卫系统标准与印制品质。揭示前扣带皮层（ACC）与错误相关负波（ERN）的神经科学原理。"
 pubDate: "2026-06-04"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 gutenberg-movable-type-inspection 的内容基于 <strong>约翰内斯·古腾堡传记与美因茨古腾堡博物馆（Gutenberg Museum Mainz）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>约翰内斯·古腾堡传记与美因茨古腾堡博物馆（Gutenberg Museum Mainz）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## ERN（错误相关负波）刺激与系统误差检测机制
+## 1. ERN（错误相关负波）刺激与系统误差检测机制
 
 若未能及时排除操作系统中的些许松动或微观瑕疵，过失便会不断累积，最终倒逼整套庞大系统遭遇崩盘。如古腾堡这般在正式开工前抽出5分钟亲自手检系统对齐状态的<strong>“误差点检习惯”</strong>，能精细训练大脑<strong>前扣带皮层（Anterior Cingulate Cortex，ACC）</strong>所产生的<strong>ERN（Error-Related Negativity，错误相关负波）</strong>神经回路敏感度。促使大脑在微观偏差或不对称出现的瞬间即刻觉察并予以及时纠偏，从而捍卫毫无瑕疵的绝顶品质。
 
 ---
 
-## 注意事项：破除依赖直觉与猜测之懈怠心的系统对齐检验指南
-
-依凭“这般程度大概差强人意吧”的粗糙直觉（Heuristics）行事，乃是诱发致命重大系统事故的祸根。切勿死磕意志力，须在每天清晨正式开工前，将“抽出5分钟用眼与手亲自核验系统对齐状态及3处关键易错节点”的实体检验流程固化于物理工作环境中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：破除依赖直觉与猜测之懈怠心的系统对齐检验指南
+
+依凭“这般程度大概差强人意吧”的粗糙直觉（Heuristics）行事，乃是诱发致命重大系统事故的祸根。切勿死磕意志力，须在每天清晨正式开工前，将“抽出5分钟用眼与手亲自核验系统对齐状态及3处关键易错节点”的实体检验流程固化于物理工作环境中。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>既然拥有自动化软件测试脚本，为何还要额外开展人工手检？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       自动化测试能精准捕获底层的代码逻辑报错，却无法捕捉人类感官觉察到的排版失衡、视觉微妙不对称与用户体验中的微观卡顿。5分钟的人眼手检乃是通往极致品质的最后一公里。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若每天清晨执行点检导致全天工作进度被拖延，该如何应对？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "夜の食卓を回る姉妹たち：シャーロット・ブロンテの歩行討論とミラーニューロン創作法"
 description: "『ジェーン・エア』の著者シャーロット・ブロンテが毎夜姉妹たちと居間の食卓の周りを回りながら小説の人物とプロットを討論したルーティン。歩行運動とミラーニューロン（Mirror Neurons）系が結合し、トンネル視野を防ぎ客観的洞察へと導く神経科学的原理を解き明かします。"
 pubDate: "2026-05-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「bronte-table-walking」は <strong>エリザベス・ギャスケル伝記『The Life of Charlotte Brontë』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エリザベス・ギャスケル伝記『The Life of Charlotte Brontë』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 歩行による大脳血流促進とミラーニューロン（Mirror Neurons）のトンネル視野解消
+## 1. 歩行による大脳血流促進とミラーニューロン（Mirror Neurons）のトンネル視野解消
 
 身体の筋肉を動かしながら歩く行為は、大脳へ向かう血流量と酸素供給を急増させ、脳由来神経栄養因子（BDNF）の分泌を活性化させて、座っている時よりも創造的発想能力を約60％以上向上させます。これに加え、他者と対話を交わしながら自分の作品を言語化しフィードバックを聴取する過程は、脳の「ミラーニューロン（Mirror Neurons）」システムと他者視点展望回路（Theory of Mind Network）を強く稼働させます。これは自分の考えだけに埋没する「トンネル視野（Tunnel Vision）」現象を予防し、他者の視点から自分の企画や作品の論理的欠陥やプロットの穴を客観的に発見・修正させます。
 
 ---
 
-## 注意事項＆ヒント：受容的批評聴取と感情的防衛の遮断
-
-歩行討論ルーティンの核心は、単なる親睦や相互の褒め合いではなく、冷徹で客観的な批評をやり取りすることにあります。他者の指摘を「自分に対する人格的攻撃」と錯覚すると、脳は扁桃体（Amygdala）防衛メカニズムを作動させ、創造的な受容性が断絶します。「自分の人格」と「自分のアイデア」を完璧に分離し、フィードバックを作品の論理的欠陥を補完する中立的な情報データとして受け入れる客観的受容姿勢が結合してこそ、校正メカニズムがスムーズに作動します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：受容的批評聴取と感情的防衛の遮断
+
+歩行討論ルーティンの核心は、単なる親睦や相互の褒め合いではなく、冷徹で客観的な批評をやり取りすることにあります。他者の指摘を「自分に対する人格的攻撃」と錯覚すると、脳は扁桃体（Amygdala）防衛メカニズムを作動させ、創造的な受容性が断絶します。「自分の人格」と「自分のアイデア」を完璧に分離し、フィードバックを作品の論理的欠陥を補完する中立的な情報データとして受け入れる客観的受容姿勢が結合してこそ、校正メカニズムがスムーズに作動します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>共に討論する同僚がいない1人作業環境でも、歩行の創造性効果は現れますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、歩く身体活動自体だけでもBDNFの分泌と大脳血流の増加による認知活性化効果は同様に享受できます。同僚がいない時は、「鏡の中の自分にアイデアを声に出して説明する」ことや「仮想の批評家を設定し自問自答しながら歩く」方式を適用すれば、ミラーニューロンおよびメタ認知の刺激効果を見事に模倣できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>批判的なフィードバックを聞くと、かえって心に傷を負い創作意欲が削がれませんか？</span>

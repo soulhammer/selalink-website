@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Designing Oneself: Behaviorist Master B.F. Skinner's Visual Feedback Tracking Routine"
 description: "Introducing daily behavioral quantification tracking from B.F. Skinner, master of behavioral psychology. A 3-step practical guide to reinforcing brain behavior mechanisms via real-time numerical feedback."
 pubDate: "2026-05-14"
@@ -36,22 +37,20 @@ In today's post, we examine the scientific operating principles of Skinner's beh
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding skinner-behavior-tracking is based on <strong>Historical biographies, autobiographical records of Skinner's behavior tracking & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies, autobiographical records of Skinner's behavior tracking & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The 'Visual Feedback Effect' Stimulating Dopamine Circuits
+## 1. The 'Visual Feedback Effect' Stimulating Dopamine Circuits
 
 According to behaviorist psychology, the human brain develops a strong tendency to repeat a behavior when it experiences immediate reward or positive feedback right after the action. This is known in operant conditioning as <strong>'Reinforcement'</strong>. Checking exact figures of words written or minutes focused, and visualizing them on a graph, serves as a powerful non-material reward that triggers dopamine release in the brain's reward prediction system. Rather than relying on vague willpower, this logging habit voluntarily stimulates and solidifies deep focus through a data feedback loop.
 
 ---
 
-## Beware of Metric Manipulation and Means-End Inversion
-
-A common mistake when maintaining a tracking habit is compromising work quality or leaving a timer running aimlessly just to inflate graph numbers or word counts. As Goodhart's Law states, 'When a measure becomes a target, it ceases to be a good measure.' Logging should serve as an objective mirror reflecting your productivity flow, rather than making the numbers themselves the ultimate goal of intellectual labor.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ A common mistake when maintaining a tracking habit is compromising work quality 
     Plot your daily productivity data as a line graph and display it in a prominent location or digital dashboard to visually monitor performance and boost intrinsic motivation.
   </p>
 </div>
+
+---
+
+## 3. Beware of Metric Manipulation and Means-End Inversion
+
+A common mistake when maintaining a tracking habit is compromising work quality or leaving a timer running aimlessly just to inflate graph numbers or word counts. As Goodhart's Law states, 'When a measure becomes a target, it ceases to be a good measure.' Logging should serve as an objective mirror reflecting your productivity flow, rather than making the numbers themselves the ultimate goal of intellectual labor.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

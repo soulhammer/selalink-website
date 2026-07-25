@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Playing One Key per Second Errorless by Slowing the Tempo: Franz Liszt's Cerebellar Motor Learning Routine and Myelination"
 description: "Discover how legendary pianist Franz Liszt mastered virtuosic precision by slowing metronome tempos down to one key per second. Explore the neuroscience of cerebellar motor learning, myelin sheath insulation, errorless learning, and a 3-step action guide."
 pubDate: "2026-04-14"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Franz Liszt's 'one-
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding liszt is based on <strong>Historical Verification from Alan Walker's *Franz Liszt: The Virtuoso Years (1811-1847)*, Liszt Archives & Cognitive Neuroscience and Motor Learning Science Research</strong>.
+      This content is based on <strong>Historical Verification from Alan Walker's *Franz Liszt: The Virtuoso Years (1811-1847)*, Liszt Archives & Cognitive Neuroscience and Motor Learning Science Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cerebellar Motor Learning Precision and Myelin Sheath Insulation
+## 1. Cerebellar Motor Learning Precision and Myelin Sheath Insulation
 
 Slowing down movement tempos to strictly modulate fine muscle execution intensely engages motor tuning circuits inside the <strong>Cerebellum</strong>. Iterating flawless motor trajectories at slow speeds prompts oligodendrocytes to wrap nerve axons in dense layers of <strong>Myelin</strong>—a process called myelination. This lipid insulation dramatically accelerates action potential velocity and spatial accuracy, establishing robust <strong>Errorless Learning</strong> neural pathways that prevent the brain from encoding faulty motor patterns.
 
 ---
 
-## Caution: Excluding Speed and Excessive Muscular Tension to Immerse in Errorless Slow-Motion Practice
-
-Avoid gripping tools or instrument keys with excessive force or rushing to finish repetitions quickly. Eradicate unnecessary bodily tension and focus exclusively on executing slow movements along perfect spatial trajectories to engrave zero-error precision into cerebellar networks. Prioritizing zero-defect slow-motion execution over speed is the absolute core.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Avoid gripping tools or instrument keys with excessive force or rushing to finis
   </p>
 </div>
 
+---
+
+## 3. Caution: Excluding Speed and Excessive Muscular Tension to Immerse in Errorless Slow-Motion Practice
+
+Avoid gripping tools or instrument keys with excessive force or rushing to finish repetitions quickly. Eradicate unnecessary bodily tension and focus exclusively on executing slow movements along perfect spatial trajectories to engrave zero-error precision into cerebellar networks. Prioritizing zero-defect slow-motion execution over speed is the absolute core.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can non-musicians also benefit from this 1-action-per-second slow-motion habit?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Avoid gripping tools or instrument keys with excessive force or rushing to finis
       Yes, absolutely! The neurobiological mechanism applies universally to all motor tasks—typing keyboard shortcuts, refining a golf or tennis swing, or choreographing speech gestures. Slowing tempos to make zero mistakes accelerates cerebellar myelination, drastically raising execution precision when scaling up speed.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I practice this routine if I don't have access to a real piano or specialized equipment?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "자신감을 충전하는 아침 거울 비결? 무하마드 알리의 긍정 확언 루틴"
 description: "세기 최고의 복서 무하마드 알리. 경기 전 극심한 수행불안을 극복하고 챔피언이 될 수 있었던 비결인 거울 앞 긍정 확언(Affirmation)의 뇌과학적 효과와 3단계 마인드셋 루틴을 소개합니다."
 pubDate: "2026-01-26"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>무하마드 알리 자서전 『The Greatest: My Own Story』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 ali-positive-affirmation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>무하마드 알리 자서전 『The Greatest: My Own Story』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌의 보상계를 활성화하는 자기 선언의 힘
+## 1. 뇌의 보상계를 활성화하는 자기 선언의 힘
 
 우리가 불안하거나 자신감이 떨어졌을 때, 뇌는 스트레스 호르몬인 코르티솔을 과다 분비하며 위기 대처 능력을 떨어뜨립니다. 뇌과학에 따르면 거울을 보며 소리 내어 긍정적인 확언을 외치는 행위는 뇌의 <strong>'내측 전두엽(Medial Prefrontal Cortex)'</strong>과 보상계를 자극합니다. 이 자기 확신 선언은 뇌가 위협적인 정보를 덜 민감하게 받아들이도록 조율하고, 자아 효능감을 일깨워 스트레스 저항력을 높여줍니다. 스스로 최고라 부르는 순간, 뇌는 실제로 그 가치에 맞춰 신체와 정신의 에너지를 활성화하는 준비를 시작합니다.
 
 ---
 
-## 단순한 바람이 아닌, 현재형 단어로 단호하게 선언하세요
-
-긍정 확언이 뇌의 잠재의식을 자극하기 위해서는 언어의 설계가 중요합니다. " ~ 되고 싶다"는 바라는 어조는 뇌에 결핍 상태를 부각할 수 있습니다. 무하마드 알리가 "나는 최고다"라고 단언했듯, "나는 내 목표를 달성할 능력이 있다"와 같이 현재 이루어진 형태나 명확한 능력을 규정하는 현재형 문장으로 흔들림 없이 스스로에게 선언해야 진정한 인지적 변화가 일어납니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 단순한 바람이 아닌, 현재형 단어로 단호하게 선언하세요
+
+긍정 확언이 뇌의 잠재의식을 자극하기 위해서는 언어의 설계가 중요합니다. " ~ 되고 싶다"는 바라는 어조는 뇌에 결핍 상태를 부각할 수 있습니다. 무하마드 알리가 "나는 최고다"라고 단언했듯, "나는 내 목표를 달성할 능력이 있다"와 같이 현재 이루어진 형태나 명확한 능력을 규정하는 현재형 문장으로 흔들림 없이 스스로에게 선언해야 진정한 인지적 변화가 일어납니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스스로 최고라고 거짓말을 하는 것 같아서 어색합니다.</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       처음에는 어색한 것이 자연스럽습니다. 인지 부조화(Cognitive Dissonance) 때문인데, 중요한 것은 사실 여부를 검증하는 것이 아니라 뇌에 새로운 가능성을 열어주는 것입니다. 반복할수록 뇌의 가소성(Neuroplasticity)에 의해 신경 회로가 재편되어 어색함은 사라지고 신념으로 굳어집니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>소리를 내어 크게 외쳐야만 효과가 있나요?</span>

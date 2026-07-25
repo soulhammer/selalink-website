@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un PDG qui se lève à 3h45 pour lire 100 e-mails ? La routine de contrôle matinale de Tim Cook"
 description: "Tim Cook, à la tête d'Apple, la plus grande entreprise informatique du monde. Découvrez sa routine quotidienne consistant à se lever à 3h45 pour lire les e-mails des utilisateurs et s'entraîne à 5h00 pour prendre le contrôle de sa journée."
 pubDate: "2026-02-24"
@@ -33,17 +34,17 @@ Dans cet article, nous révélons les principes neuroscientifiques de la routine
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant tim-cook-early-morning-routine est basée sur <strong>Biographies historiques et données autobiographiques sur Tim Cook et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et données autobiographiques sur Tim Cook et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Protection du budget de glucose préfrontal et prévention de l'épuisement de l'ego
+## 1. Protection du budget de glucose préfrontal et prévention de l'épuisement de l'ego
 
 Les ressources énergétiques utilisées par le cortex préfrontal lors de la prise de décision sont limitées. Si vous êtes sollicité par les demandes des autres et des e-mails réactifs, votre cerveau tombe dans un état <strong>d'épuisement de l'ego (Ego Depletion)</strong> au moment de trancher.
 
@@ -51,9 +52,7 @@ L'autonomie matinale à 3h45 préserve 100% du glucose et du contrôle exécutif
 
 ---
 
-## Attention à l'accumulation de fatigue cérébrale due à la réduction du sommeil
-
-Si vous vous forcez à vous lever tôt en vous couchant tard pour imiter Tim Cook, une fatigue chronique s'accumulera dans votre cortex préfrontal, diminuant votre jugement. N'oubliez pas que l'essence du réveil matinal est de 'dormir tôt et se lever tôt pour prendre le contrôle'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Si vous vous forcez à vous lever tôt en vous couchant tard pour imiter Tim Coo
   </p>
 </div>
 
+---
+
+## 3. Attention à l'accumulation de fatigue cérébrale due à la réduction du sommeil
+
+Si vous vous forcez à vous lever tôt en vous couchant tard pour imiter Tim Cook, une fatigue chronique s'accumulera dans votre cortex préfrontal, diminuant votre jugement. N'oubliez pas que l'essence du réveil matinal est de 'dormir tôt et se lever tôt pour prendre le contrôle'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les couche-tard doivent-ils aussi suivre cette routine matinale ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Si vous vous forcez à vous lever tôt en vous couchant tard pour imiter Tim Coo
       Si votre chronotype de sommeil est nocturne, vous n'avez pas besoin de vous forcer à vous réveiller à 3h00–4h00. La leçon clé est de 'réserver 1 heure proactive sans interruption', donc la remplacer par 1 heure après le travail produit le même effet.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment surmonter la fatigue de l'après-midi en se levant tôt le matin ?</span>

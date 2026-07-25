@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Imersi Luring: Rutinitas Pemutusan Email dan Pencegahan Peralihan Konteks Donald Knuth"
 description: "Pelajari bagaimana ilmuwan ilmu komputer Donald Knuth menghentikan penggunaan email pada 1 Januari 1990 untuk melindungi kerja mendalam luringnya. Temukan neurosains dari mengeliminasi peralihan konteks dan mencegah residu perhatian."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai knuth-no-email didasarkan pada <strong>Verifikasi Historis dari Pernyataan Resmi Donald Knuth *Email and I*, Arsip Stanford & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Pernyataan Resmi Donald Knuth *Email and I*, Arsip Stanford & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengeliminasi Peralihan Konteks dan Mencegah Residu Perhatian
+## 1. Mengeliminasi Peralihan Konteks dan Mencegah Residu Perhatian
 
 Memeriksa email atau notifikasi instan memicu <strong>Peralihan Konteks (Context Switching)</strong> terpaksa, memberikan penalti kognitif yang berat pada otak. Bahkan ketika kembali ke tugas utama, sebagian memori kerja tetap terikat pada konteks pesan yang baru dibaca—suatu fenomena yang dikenal dalam psikologi kognitif sebagai <strong>Residu Perhatian (Attention Residue)</strong>. Dibutuhkan waktu lebih dari 20 menit bagi <strong>Korteks Prefrontal</strong> untuk membersihkan residu ini.
 
 ---
 
-## Perhatian: Menekan Naluri Respons Real-Time untuk Menerapkan Pemrosesan Massal
-
-Mengeliminasi semua email secara permanen seperti Donald Knuth mungkin tidak praktis di dalam organisasi kolaboratif modern. Penerapan realistis utamanya adalah menekan dorongan untuk balasan instan dengan mengadopsi <strong>Pemrosesan Massal (Batch Processing)</strong>. Bungsukan notifikasi di luar 1 atau 2 jendela waktu respons yang dijadwalkan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Mengeliminasi semua email secara permanen seperti Donald Knuth mungkin tidak pra
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Menekan Naluri Respons Real-Time untuk Menerapkan Pemrosesan Massal
+
+Mengeliminasi semua email secara permanen seperti Donald Knuth mungkin tidak praktis di dalam organisasi kolaboratif modern. Penerapan realistis utamanya adalah menekan dorongan untuk balasan instan dengan mengadopsi <strong>Pemrosesan Massal (Batch Processing)</strong>. Bungsukan notifikasi di luar 1 atau 2 jendela waktu respons yang dijadwalkan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana cara mengomunikasikan jadwal respons email saya yang tertunda kepada anggota tim tanpa menimbulkan kesalahpahaman?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Mengeliminasi semua email secara permanen seperti Donald Knuth mungkin tidak pra
       Nyatakan jadwal pemrosesan massal Anda secara eksplisit dalam pembalas otomatis email atau pesan status obrolan. Menampilkan catatan yang jelas—misalnya, 'Untuk berfokus pada hasil proyek utama, saya memeriksa email dua kali sehari pada pukul 11:00 dan 16:00. Untuk hal-hal mendesak, silakan telepon langsung'—menetapkan ekspektasi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah rutinitas pemutusan email Knuth berlaku untuk karyawan perusahaan biasa yang bukan cendekiawan terkenal?</span>

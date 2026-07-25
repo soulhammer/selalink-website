@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Umweltsignale zum Schutz des Fokus: Jane Austens knarrende Türgewohnheit"
 description: "Jane Austen ließ eine knarrende Tür absichtlich unrepariert, um eingehende Ablenkungen im Voraus zu bemerken. Erkunden Sie die Prinzipien zur Gestaltung von Konzentrationsgrenzen."
 pubDate: "2026-03-27"
@@ -37,17 +38,17 @@ Im heutigen Beitrag untersuchen wir die kognitionswissenschaftlichen Prinzipien 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu austen-creaky-door basiert auf <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & *Neuropsychologia*</strong>.
+      Dieser Inhalt basiert auf <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & *Neuropsychologia*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Schutz vor Aufgabenwechsel-Reibung durch das Geräusch der knarrenden Tür
+## 1. Schutz vor Aufgabenwechsel-Reibung durch das Geräusch der knarrenden Tür
 
 Plötzliche, unangekündigte externe Störungen verursachen im Gehirn <strong>'Aufgabenwechsel-Reibung (Task-Switching Friction)'</strong> und maximieren den Verlust durch <strong>'Aufmerksamkeitsrückstände (Attention Residue)'</strong>, bei denen die Konzentration an der vorherigen Aufgabe hängen bleibt.
 
@@ -55,9 +56,7 @@ Das von Jane Austen genutzte Geräusch der knarrenden Tür fungierte als Frühwa
 
 ---
 
-## Leitfaden zur Aufrechterhaltung des Fokus beim Umgang mit störenden Außengeräuschen
-
-Anstatt sich allein auf Willenskraft zu verlassen, gestalten Sie Umgebungsbedingungen so, dass dem Gehirn nichts anderes übrig bleibt, als fokussiert zu bleiben. Das Erstellen eines sensorischen Frühwarnsignals, wie das Geräusch eines knarrenden Türscharniers, ist der Schlüssel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Anstatt sich allein auf Willenskraft zu verlassen, gestalten Sie Umgebungsbeding
   </p>
 </div>
 
+---
+
+## 3. Leitfaden zur Aufrechterhaltung des Fokus beim Umgang mit störenden Außengeräuschen
+
+Anstatt sich allein auf Willenskraft zu verlassen, gestalten Sie Umgebungsbedingungen so, dass dem Gehirn nichts anderes übrig bleibt, als fokussiert zu bleiben. Das Erstellen eines sensorischen Frühwarnsignals, wie das Geräusch eines knarrenden Türscharniers, ist der Schlüssel.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum schrieb Jane Austen in einem Wohnzimmer mit einer knarrenden Tür anstatt in einem privaten Arbeitszimmer?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Anstatt sich allein auf Willenskraft zu verlassen, gestalten Sie Umgebungsbeding
       Im Großbritannien des 19. Jahrhunderts wurden weiblichen Schriftstellern nur sehr selten unabhängige Arbeitszimmer zur Verfügung gestellt. Auch Austen musste im gemeinsamen Wohnbereich schreiben, weshalb sie die knarrende Tür nutzte, um plötzliche Besuche der Familie wahrzunehmen und Zeit zu gewinnen, ihre Manuskripte zu verstecken.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie kann diese Methode in einer modernen digitalen Umgebung angewendet werden?</span>

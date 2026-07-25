@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Im Bett mit blauen Buntstiften schreiben: James Joyces Energiespar-Schreibroutine und Entlastung des primären visuellen Kortex (V1)"
 description: "Erfahren Sie, wie James Joyce trotz schwerer Augenleiden im Bett liegend literarische Meisterwerke schuf. Entdecken Sie die Neurowissenschaften zur Verringerung der Muskelbelastung, Entlastung des primären visuellen Kortex (V1) und Optimierung der Energie im präfrontalen Kortex."
 pubDate: "2026-04-10"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter James Joyces 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu joyce-bed-writing basiert auf <strong>Historische Überprüfung aus Richard Ellmanns Biografie *James Joyce*, Joyce-Archiven & Forschung der kognitiven Neurowissenschaften und visuellen Wahrnehmung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Richard Ellmanns Biografie *James Joyce*, Joyce-Archiven & Forschung der kognitiven Neurowissenschaften und visuellen Wahrnehmung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Verringerung der Muskelbelastung und Entlastung des primären visuellen Kortex (V1)
+## 1. Verringerung der Muskelbelastung und Entlastung des primären visuellen Kortex (V1)
 
 Das flache Liegen oder Anlehnen senkt die Muskelspannung und stabilisiert den Herzschlag, was den körperlichen Energieverbrauch minimiert. Dadurch kann die Sauerstoffversorgung im <strong>präfrontalen Kortex</strong> gebündelt werden. Zudem erleichtert die Nutzung dicker, kontrastreicher blauer Stifte die Verarbeitung im <strong>primären visuellen Kortex (V1)</strong> und reduziert kognitive <strong>Sehbelastung (Visual Fatigue)</strong>.
 
 ---
 
-## Vorsichtsmaßnahme: Signale körperlicher Ermüdung annehmen und visuellen Kontrast erhöhen
-
-Für James Joyce war das Schreiben im Bett eine Anpassung an seine körperlichen Grenzen. Wenn körperliche oder visuelle Erschöpfung ihren Höhepunkt erreichen, quälen Sie sich nicht auf einem harten Stuhl. Lehnen Sie sich mit Kissen zurück und skizzieren Sie Ihre Gedanken mit dicken Stiften auf weißem Papier.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Für James Joyce war das Schreiben im Bett eine Anpassung an seine körperlichen
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Signale körperlicher Ermüdung annehmen und visuellen Kontrast erhöhen
+
+Für James Joyce war das Schreiben im Bett eine Anpassung an seine körperlichen Grenzen. Wenn körperliche oder visuelle Erschöpfung ihren Höhepunkt erreichen, quälen Sie sich nicht auf einem harten Stuhl. Lehnen Sie sich mit Kissen zurück und skizzieren Sie Ihre Gedanken mit dicken Stiften auf weißem Papier.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum trug James Joyce beim Schreiben im Bett einen weißen Mantel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Für James Joyce war das Schreiben im Bett eine Anpassung an seine körperlichen
       Der weiße Mantel diente als natürlicher Lichtreflektor, der das Raumlicht ohne störende Blendung auf das Papier warf. Er funktionierte wie eine analoge Beleuchtungshilfe, mit der seine geschädigten Augen die Schrift besser erkennen konnten.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Führt das Arbeiten im Bett oder auf dem Sofa nicht zu Schläfrigkeit?</span>

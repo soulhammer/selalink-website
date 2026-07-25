@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "清晨5点的知识雕像：儒勒·凡尔纳用于细节设计的剪报习惯"
 description: "探索科幻小说开创者儒勒·凡尔纳每天清晨5点执行的信息卡片剪贴习惯。通过分类信息来增强语义记忆的三步法现代实践指南。"
 pubDate: "2026-06-02"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 verne-morning-scrap 的内容基于 <strong>儒勒·凡尔纳的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>儒勒·凡尔纳的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 增强语义记忆的“精细分类归档”
+## 1. 增强语义记忆的“精细分类归档”
 
 与其仅仅用眼睛扫视所获取的知识，不如亲自用手将其浓缩并抄录到核心卡片上进行分类，这一过程能大幅增强大脑的语义记忆（Semantic Memory）网络。在认知心理学中，这被称为<strong>“精细复述（Elaborative Rehearsal）”</strong>，是一种将新信息碎片紧密织入大脑现有认知结构以形成长期记忆的技术。手动分类卡片的活动能同时刺激大脑的视觉和运动通路，增强对信息间结构合理性的认知。这种信息整理习惯激活了大脑的联想记忆（Associative Memory）提取通道，有助于顺畅地组装出富有创意的想法。
 
 ---
 
-## 防止收集癖并最大化实用价值
-
-剪报习惯的主要陷阱是陷入“搜集者谬误（Collector's Fallacy）”，仅通过整理和积攒知识就产生虚假的成就感。制作卡片应当是将知识深深与大脑结合并加以利用的手段。总结必须用你自己的语言来提炼，并且必须定期回顾卡片档案馆，将相关知识直接与写作或讨论相结合并进行输出。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     在周末或特定时间，从抽屉中随机抽出5-6张存好的卡片重新阅读，将看似不相关的信息结合起来，创造思想协同效应，或直接应用于实际写作输出。
   </p>
 </div>
+
+---
+
+## 3. 防止收集癖并最大化实用价值
+
+剪报习惯的主要陷阱是陷入“搜集者谬误（Collector's Fallacy）”，仅通过整理和积攒知识就产生虚假的成就感。制作卡片应当是将知识深深与大脑结合并加以利用的手段。总结必须用你自己的语言来提炼，并且必须定期回顾卡片档案馆，将相关知识直接与写作或讨论相结合并进行输出。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

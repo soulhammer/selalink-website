@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mukjizat Pukul 4 Pagi: Rutinitas Latihan Mamba ala Kobe Bryant"
 description: "Pelajari bagaimana ikon bola basket Kobe Bryant memulai sesi latihan pertamanya pukul 4 pagi setiap hari, serta temukan prinsip neurosains dan fisiologis tentang bagaimana latihan pagi yang konsisten mengunci ritme sirkadian dan mengoptimalkan performa fisik puncak."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis mekanisme fisiologis dan neurosains 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai bryant-four-am-workout didasarkan pada <strong>Verifikasi Historis dari Autobiografi Kobe Bryant *The Mamba Mentality: How I Play* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Kobe Bryant *The Mamba Mentality: How I Play* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mekanisme Fisiologis dari Penyelarasan Ulang Nukleus Suprakiasmatik (SCN) dan Stimulasi Saraf Motorik
+## 1. Mekanisme Fisiologis dari Penyelarasan Ulang Nukleus Suprakiasmatik (SCN) dan Stimulasi Saraf Motorik
 
 Secara konsisten mengeksekusi gerakan intensitas tinggi pada jam pagi yang identik menyelaraskan 'Nukleus Suprakiasmatik (SCN)' hipotalamus ke jadwal tersebut. 1) SCN memulai sekresi kortisol (Cortisol) lebih awal dan secara proaktif meningkatkan suhu tubuh inti serta tonus kardiovaskular, menetralkan inersia tidur (Sleep Inertia) dan defisit motorik pasca-bangun. 2) Rutinitas latihan pagi yang teratur mengondisikan Sistem Saraf Otonom (ANS) untuk mengoptimalkan alokasi energi metabolik di awal hari, meningkatkan responsivitas neuromuskular, efisiensi kardiorespirasi, dan kontrol eksekutif ke puncak siang hari.
 
 ---
 
-## Perhatian & Tip: Memastikan Jumlah Tidur Total (7–8 Jam) & Pemanasan Sangat Penting
-
-Rutinitas bangun pukul 4 pagi tidak dapat berhasil jika didasarkan pada kurang tidur. Untuk bangun pukul 4 pagi, Anda harus memastikan 7 hingga 8 jam tidur penting dengan tidur antara pukul 21.00 dan 22.00 pada malam sebelumnya. Melakukan rutinitas pagi saat kurang tidur menyebabkan kelelahan sistem saraf pusat dan penurunan kekebalan tubuh. Lebih jauh lagi, karena sendi, ligamen, dan pembuluh darah bersifat kaku tepat setelah bangun, melakukan pemanasan dinamis minimal 10 menit adalah hal yang wajib untuk mencegah cedera.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Rutinitas bangun pukul 4 pagi tidak dapat berhasil jika didasarkan pada kurang t
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Memastikan Jumlah Tidur Total (7–8 Jam) & Pemanasan Sangat Penting
+
+Rutinitas bangun pukul 4 pagi tidak dapat berhasil jika didasarkan pada kurang tidur. Untuk bangun pukul 4 pagi, Anda harus memastikan 7 hingga 8 jam tidur penting dengan tidur antara pukul 21.00 dan 22.00 pada malam sebelumnya. Melakukan rutinitas pagi saat kurang tidur menyebabkan kelelahan sistem saraf pusat dan penurunan kekebalan tubuh. Lebih jauh lagi, karena sendi, ligamen, dan pembuluh darah bersifat kaku tepat setelah bangun, melakukan pemanasan dinamis minimal 10 menit adalah hal yang wajib untuk mencegah cedera.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya harus mempertahankan jadwal bangun pukul 4 pagi secara ketat di akhir pekan dan hari libur?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Rutinitas bangun pukul 4 pagi tidak dapat berhasil jika didasarkan pada kurang t
       Untuk penyelarasan sirkadian yang optimal, idealnya jaga variasi bangun tidur di akhir pekan dalam rentang 1 jam dari rutinitas hari kerja Anda. Tidur berlebihan di akhir pekan mereset jam internal SCN, memperparah kelelahan di pagi hari kerja. Konsistensi adalah kunci untuk menjaga kesehatan sirkadian.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah melakukan tugas-tugas intelektual (pekerjaan, membaca) segera setelah latihan pukul 4 pagi meningkatkan fokus otak?</span>

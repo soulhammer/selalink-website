@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "归零人类认知失误的终极法则：查尔斯·林德伯格的检查单执行习惯与工作记忆保护指南"
 description: "深度剖析跨跃大西洋单人直飞航行的英雄查尔斯·林德伯格如何借由书面检查单替代经验感觉、彻底阻断认知失误。揭示保护前额叶工作记忆、防范认知遗漏（Omission Error）、指差确认与3步骤实践指南。"
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 lindbergh-meticulous-checklist 的内容基于 <strong>查尔斯·林德伯格普利策奖自传《圣路易斯精神（The Spirit of St. Louis，1953）》与航空档案考证及认知神经科学（Cognitive Neuroscience）与人因工程学（Human Factors Engineering）研究</strong> 撰写。
+      本内容基于 <strong>查尔斯·林德伯格普利策奖自传《圣路易斯精神（The Spirit of St. Louis，1953）》与航空档案考证及认知神经科学（Cognitive Neuroscience）与人因工程学（Human Factors Engineering）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 保护前额叶皮层（Prefrontal Cortex）工作记忆与彻底屏蔽认知遗漏（Omission Error）机制
+## 1. 保护前额叶皮层（Prefrontal Cortex）工作记忆与彻底屏蔽认知遗漏（Omission Error）机制
 
 当在极高压应激或剧烈疲惫状态下执行繁复的顺序性任务时，大脑<strong>前额叶皮层（Prefrontal Cortex）</strong>需为维持<strong>工作记忆（Working Memory）</strong>挥霍巨额代谢能量。此时，大脑为节能会本能地偷懒简化或裁撤既定步骤，这正是引发致命<strong>“认知遗漏（Omission Error）”</strong>的罪魁祸首。借由书面检查单开展手指逐字逐句一比一对照的习惯，能完美卸除大脑死记硬背的沉压。大脑得以脱离检索提取记忆的煎熬，将全幅能量集约倾注于比查与判别这一<strong>执掌控制（Executive Control）</strong>中，确保在重度疲倦中依然零失误锁定稳定品质。
 
 ---
 
-## 注意事项：摒弃目测心算粗略走过场，专注指尖一比一指差确认（Physical Pointing）指南
-
-检查单的核心精髓全在于借助手指或鼠标光标逐行挑点列线展开一比一对照的物理感官同步。若仅靠双眼草草扫过并假想“已确认无误”，根本无法防御大脑的视错觉与自动化忽略缺陷。务必恪守以指尖压住条目逐一指差复诵确认（Pointing and Calling）的硬核习惯。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：摒弃目测心算粗略走过场，专注指尖一比一指差确认（Physical Pointing）指南
+
+检查单的核心精髓全在于借助手指或鼠标光标逐行挑点列线展开一比一对照的物理感官同步。若仅靠双眼草草扫过并假想“已确认无误”，根本无法防御大脑的视错觉与自动化忽略缺陷。务必恪守以指尖压住条目逐一指差复诵确认（Pointing and Calling）的硬核习惯。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>检查单条目是否设立得越繁复微杂越佳？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       绝对并非如此。若检查单篇幅过于臃肿冗长，大脑极易招致认知疲劳，反而会诱发跳读走过场的自动化恶性反应。在神经科学层面，将其严苛锁死于5-9项最易引发毁灭性坍塌的核心要点（契合米勒法则工作记忆组块上限），才是最完美的架构。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>将检查单深度植入何种类型的日常工作，能斩获至为卓绝的防错效益？</span>

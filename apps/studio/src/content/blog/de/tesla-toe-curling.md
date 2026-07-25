@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Genie, das 100 Mal die Zehen krümmte? Nikola Teslas skurriles Tiefschlaf-Ritual"
 description: "Genie und Erfinder Nikola Tesla krümmte jeden Abend im Bett seine Zehen. Entdecken Sie die neurowissenschaftlichen Geheimnisse hinter seiner einzigartigen Routine und eine 3-Schritte-Anleitung."
 pubDate: "2026-04-28"
@@ -31,17 +32,17 @@ In diesem Beitrag untersuchen wir die wissenschaftlichen Prinzipien hinter der e
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu tesla-toe-curling basiert auf <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
+      Dieser Inhalt basiert auf <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Zehen: Der neuronale Schalter, der Gehirnzellen weckt
+## 1. Zehen: Der neuronale Schalter, der Gehirnzellen weckt
 
 Tesla glaubte, dass die scheinbar unbedeutende Bewegung des wiederholten Zehenkrümmens die zahlreichen Nervenenden an den Füßen stimulierte, Gehirnzellen aktivierte und die mentale Ermüdung zurücksetzte.
 
@@ -49,9 +50,7 @@ Tatsächlich ist der Bereich, den Füße und Zehen im somatosensorischen Kortex 
 
 ---
 
-## Ein neurowissenschaftlicher Tipp für eine erfolgreiche Routine
-
-Zehenübungen fördern die Blutzirkulation am entferntesten Punkt vom Herzen, gleichen die Körpertemperatur aus und aktivieren das parasympathische Nervensystem. Wenn Sie diese Handlung jeden Abend im selben Moment wiederholen (direkt nach dem Zudecken), erkennt Ihr Gehirn dies als ein starkes konditioniertes Signal zum Schlafengehen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Zehenübungen fördern die Blutzirkulation am entferntesten Punkt vom Herzen, gl
     Spüren Sie die feine Wärme und Entspannung, die sich nach der Übung im Körper ausbreitet, und gleiten Sie nach dem Schlafsignal Ihres Gehirns natürlich in den Tiefschlaf.
   </p>
 </div>
+
+---
+
+## 3. Ein neurowissenschaftlicher Tipp für eine erfolgreiche Routine
+
+Zehenübungen fördern die Blutzirkulation am entferntesten Punkt vom Herzen, gleichen die Körpertemperatur aus und aktivieren das parasympathische Nervensystem. Wenn Sie diese Handlung jeden Abend im selben Moment wiederholen (direkt nach dem Zudecken), erkennt Ihr Gehirn dies als ein starkes konditioniertes Signal zum Schlafengehen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

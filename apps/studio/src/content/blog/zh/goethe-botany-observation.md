@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "漫步漫步庭院搜集种子的大文豪：歌德的清晨观察习惯与注意力恢复指南"
 description: "探索约翰·沃尔夫冈·冯·歌德每天清晨借助放大镜精细观察植物、获取自然灵感的习惯。揭示自然接触大幅降低认知疲劳的“注意力恢复理论（ART）”原理与歌德晨间观察散步法。"
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 goethe-botany-observation 的内容基于 <strong>约翰·沃尔夫冈·冯·歌德自传《诗与真（Dichtung und Wahrheit）》与植物学论文《植物变形记（Metamorphose der Pflanzen）》考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong> 撰写。
+      本内容基于 <strong>约翰·沃尔夫冈·冯·歌德自传《诗与真（Dichtung und Wahrheit）》与植物学论文《植物变形记（Metamorphose der Pflanzen）》考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 自然接触与“注意力恢复理论（ART）”的脑科学机制
+## 1. 自然接触与“注意力恢复理论（ART）”的脑科学机制
 
 在屏幕前分析数据、阅读密密麻麻的文字或推演复杂的工作策划，会使大脑前额叶皮层陷于持续消耗神经能量的<strong>“定向注意力（Directed Attention）”</strong>状态。该状态长时间持续会导致定向注意力疲劳（Directed Attention Fatigue），使专注力与创造力剧烈下滑。根据环境心理学家斯蒂芬·卡普兰（Stephen Kaplan）提出的<strong>“注意力恢复理论（Attention Restoration Theory，ART）”</strong>，当倾注注意力于植物的分形几何结构、随风摇曳的树叶或种子的螺旋纹理等无需消耗认知努力的自然物象（即“柔性吸引 Soft Fascination”）时，大脑的定向注意力修复开关便会被开启。清晨花15分钟细致观照植物并慢速踱步，能彻底清扫前额叶的认知疲劳，拉低应激激素皮质醇水平，确保整天保有深邃的直觉与洞察力。
 
 ---
 
-## 注意事项：借助自然界分形几何结构精细观照复原前额叶认知疲劳指南
-
-屏幕上的文字与各类图表信息会强迫大脑进行定向集中，极易榨干前额叶能量。只需专注观照天然无雕琢的植物叶片、脉络或种子形貌等分形几何结构15分钟，便能开启大脑的注意力修复机制。切记：漫步途中绝勿翻看手机屏幕，须将注意力柔和置于自然本体之上，方能达成真正的认知重置。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：借助自然界分形几何结构精细观照复原前额叶认知疲劳指南
+
+屏幕上的文字与各类图表信息会强迫大脑进行定向集中，极易榨干前额叶能量。只需专注观照天然无雕琢的植物叶片、脉络或种子形貌等分形几何结构15分钟，便能开启大脑的注意力修复机制。切记：漫步途中绝勿翻看手机屏幕，须将注意力柔和置于自然本体之上，方能达成真正的认知重置。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>观照案头或家中养育的室内观叶植物/盆栽也具备等同疗效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全有效。如使用放大镜般对室内观叶植物的脉络与螺旋生长纹进行精细观测，同样能拉动“柔性吸引”并缓解前额叶疲劳。不过，若能将户外自然光照曝露与步行散步有机结合，对于整体神经与认知功能的修复效果将臻至最佳。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>必须如歌德那般在现实中随身携带放大镜与纸质采集袋吗？</span>

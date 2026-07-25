@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "산책 지팡이에 잉크병을 매단 철학자: 토머스 홉스의 즉각 메모법과 인지적 외재화 루틴"
 description: "사상가 토머스 홉스는 산책하며 떠오른 아이디어가 휘발하는 것을 막기 위해 지팡이에 잉크병을 달아 즉시 메모했습니다. 뇌가 이완될 때 찾아오는 번뜩임을 영구 저장하는 작업 기억 확장 원리와 3단계 실천법을 설명합니다."
 pubDate: "2026-03-16"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 오브리(John Aubrey) 『약전(Brief Lives)』 및 토머스 홉스 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 hobbes-cane-inkwell 루틴을 다룹니다.
+      본 콘텐츠는 <strong>존 오브리(John Aubrey) 『약전(Brief Lives)』 및 토머스 홉스 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 작업 기억(Working Memory) 유실 방지와 인지적 외재화
+## 1. 작업 기억(Working Memory) 유실 방지와 인지적 외재화
 
 뇌가 편안히 이완된 걷기 상태에 돌입하면 창의적 발상을 관장하는 <strong>디폴트 모드 네트워크(Default Mode Network, DMN)</strong>가 기동하며 예기치 못한 영감이 불쑥 떠오릅니다. 하지만 이 번뜩임은 뇌의 <strong>작업 기억(Working Memory)</strong> 단기 버퍼에 머물기 때문에 매우 불안정하여, 즉시 기록하지 않으면 약 10 ~ 15초 이내에 신경학적으로 분해되어 완전히 망각(Decay)됩니다. 홉스가 고안한 지팡이 잉크병은 이 찰나의 작업 기억 한계를 극복하는 최고의 <strong>'인지적 외재화(Cognitive Externalization)'</strong> 수단이었습니다. 뇌의 유한한 기억 영역에 지식을 억지로 가두는 대신, 손의 대근육 운동을 통해 아이디어를 물리적 도구(종이)로 즉시 덤핑(Dumping)함으로써, 전두엽 피질의 인지적 과부하를 예방하고 사유의 다음 단계로 끊임없이 나아갈 수 있었습니다.
 
 ---
 
-## 망각의 골든타임(10초) 내 즉각 기록 수칙
-
-'집에 가서 정리해야지'라고 미루는 행동은 뇌의 자연스러운 망각 메커니즘을 과소평가하는 것입니다. 걸으면서 떠오른 생각의 대부분은 신체 활동이 끝나고 책상에 앉을 때 즈음 이미 뇌의 해마 영역에서 다른 감각 정보로 덮어씌워져 유실됩니다. 영감이 스치는 찰나(10초 이내)에 즉시 음성이나 단어 메모로 외재화해 두어야만 가치가 보존됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 망각의 골든타임(10초) 내 즉각 기록 수칙
+
+'집에 가서 정리해야지'라고 미루는 행동은 뇌의 자연스러운 망각 메커니즘을 과소평가하는 것입니다. 걸으면서 떠오른 생각의 대부분은 신체 활동이 끝나고 책상에 앉을 때 즈음 이미 뇌의 해마 영역에서 다른 감각 정보로 덮어씌워져 유실됩니다. 영감이 스치는 찰나(10초 이내)에 즉시 음성이나 단어 메모로 외재화해 두어야만 가치가 보존됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>토머스 홉스의 지팡이 잉크병이 역사적으로 진짜 있었나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       네, 홉스와 친분이 깊었던 동시대 전기 작가 존 오브리(John Aubrey)가 저술한 전기 『약전(Brief Lives)』에 홉스가 지팡이 손잡이 끝에 특수 잉크병을 부착하여 걸어 다니며 영감을 기록했다는 역사적 묘사가 상세히 기록되어 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>음성 메모와 타이핑 메모 중 어떤 방식이 더 효과적인가요?</span>

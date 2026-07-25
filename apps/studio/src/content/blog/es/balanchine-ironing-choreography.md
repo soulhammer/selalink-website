@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Danza del Inconsciente: El Método de Coreografía de George Balanchine Mediante Tareas Domésticas Simples"
 description: "Descubra cómo el coreógrafo George Balanchine realizaba tareas domésticas sencillas y repetitivas como planchar para concebir ideas cuando sufría un bloqueo creativo, y cómo la actividad física simple apaga la censura prefrontal para activar la Red por Defecto (DMN)."
 pubDate: "2026-04-01"
@@ -36,22 +37,20 @@ En la publicación de hoy, analizamos cómo la rutina de tareas físicas simples
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre balanchine-ironing-choreography se basa en <strong>Verificación Histórica de la Biografía de George Balanchine *By George Balanchine* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de George Balanchine *By George Balanchine* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relajación de la Censura Prefrontal y Activación de los Circuitos Asociativos de la DMN
+## 1. Relajación de la Censura Prefrontal y Activación de los Circuitos Asociativos de la DMN
 
 Cuando nos concentramos intensamente para resolver un problema, la corteza prefrontal del cerebro activa fuertemente el control analítico de arriba a abajo (Top-down Control), filtrando sin piedad ideas inusuales que parecen ilógicas. Este estado de 'censura prefrontal' atrapa la creatividad. En cambio, realizar tareas motoras monótonas y simples (Monotonous Motor Task) como planchar o limpiar relaja la hiperactividad prefrontal. Aprovechando esta brecha, se enciende la Red por Defecto del cerebro (DMN), permitiendo que diversos fragmentos de memoria dispersos en el subconsciente se recombinen libre e inesperadamente (Combinatorial Play). Como resultado, los movimientos coreográficos bloqueados emergen de forma natural entre el ritmo repetitivo de la plancha.
 
 ---
 
-## Precauciones y Consejos: Exclusión de Actividades Cognitivamente Demandantes
-
-Al despejar la mente mediante tareas ligeras o movimientos corporales, evite actividades que exijan alta atención o procesamiento cognitivo. Por ejemplo, intentar cocinar una receta compleja o escuchar noticias económicas mientras limpia constituye un 'multitarea' que impide que el cerebro entre en estado DMN y solo aumenta la fatiga cognitiva. La clave es depositar la atención de forma tenue únicamente en el tacto de sus manos y en el movimiento rítmico de su cuerpo, dejando que la mente deambule libremente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Al despejar la mente mediante tareas ligeras o movimientos corporales, evite act
     Anote las ideas de planificación o palabras clave que surjan repentinamente del subconsciente durante el trabajo sencillo para no olvidarlas, y regrese de inmediato a su escritorio principal para mantener el impulso.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y Consejos: Exclusión de Actividades Cognitivamente Demandantes
+
+Al despejar la mente mediante tareas ligeras o movimientos corporales, evite actividades que exijan alta atención o procesamiento cognitivo. Por ejemplo, intentar cocinar una receta compleja o escuchar noticias económicas mientras limpia constituye un 'multitarea' que impide que el cerebro entre en estado DMN y solo aumenta la fatiga cognitiva. La clave es depositar la atención de forma tenue únicamente en el tacto de sus manos y en el movimiento rítmico de su cuerpo, dejando que la mente deambule libremente.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Detoks Digital di Menara Bollingen: Metode Pemulihan Bawah Sadar Carl Jung dan Reset Kognitif DMN"
 description: "Pelajari bagaimana pelopor psikologi analitis Carl Jung mereset otaknya dengan membelah kayu di menara terpencil tanpa listrik. Temukan neurosains aktivasi Default Mode Network (DMN), pemulihan kognitif prefrontal, dan rutinitas detoks digital 3 langkah."
 pubDate: "2026-01-21"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai jung-bollingen-detox didasarkan pada <strong>Verifikasi Historis dari Autobiografi Carl Jung *Memories, Dreams, Reflections*, Arsip Menara Bollingen & Penelitian Psikologi Analitis serta Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Carl Jung *Memories, Dreams, Reflections*, Arsip Menara Bollingen & Penelitian Psikologi Analitis serta Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Default Mode Network (DMN) dan Pemulihan Sumber Daya Kognitif Prefrontal
+## 1. Aktivasi Default Mode Network (DMN) dan Pemulihan Sumber Daya Kognitif Prefrontal
 
 Paparan terus-menerus terhadap stimulus digital memaksa <strong>Korteks Prefrontal</strong> untuk bekerja secara konstan, menyebabkan <strong>Kelelahan Kognitif</strong>. Rutinitas Menara Bollingen Carl Jung menyela lingkaran ini, mengaktifkan <strong>Default Mode Network (DMN)</strong> otak. Ketika masukan digital buatan dieliminasi dan digantikan oleh tugas-tugas fisik sederhana, otak beralih ke pemrosesan DMN.
 
 ---
 
-## Perhatian: Memblokir Masukan Buatan Secara Fisik untuk Terbenam dalam Kerja Fisik Analog
-
-Bagi Carl Jung, Menara Bollingen bukanlah pelarian, melainkan tempat perlindungan yang dirancang untuk memblokir kebisingan dan masukan elektronik. Hindari beristirahat sambil memandangi layar. Jauhkan ponsel pintar Anda dari pandangan dan terlibatlah dalam tugas-tugas fisik analog; hanya pemutusan hubungan fisik yang memungkinkan korteks prefrontal Anda pulih.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Bagi Carl Jung, Menara Bollingen bukanlah pelarian, melainkan tempat perlindunga
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Memblokir Masukan Buatan Secara Fisik untuk Terbenam dalam Kerja Fisik Analog
+
+Bagi Carl Jung, Menara Bollingen bukanlah pelarian, melainkan tempat perlindungan yang dirancang untuk memblokir kebisingan dan masukan elektronik. Hindari beristirahat sambil memandangi layar. Jauhkan ponsel pintar Anda dari pandangan dan terlibatlah dalam tugas-tugas fisik analog; hanya pemutusan hubungan fisik yang memungkinkan korteks prefrontal Anda pulih.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah perlu pergi ke tempat terpencil atau lokasi terisolasi seperti yang dilakukan Jung?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Bagi Carl Jung, Menara Bollingen bukanlah pelarian, melainkan tempat perlindunga
       Tidak. Mekanisme utamanya adalah 'memutus hubungan secara fisik dari informasi buatan' dan 'berfokus pada tugas-tugas fisik analog'. Menentukan area bebas ponsel di rumah Anda selama 30 hingga 60 menit memberikan manfaat yang identik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Mengapa kerja fisik sederhana atau pekerjaan rumah tangga mempromosikan kontemplasi mendalam?</span>

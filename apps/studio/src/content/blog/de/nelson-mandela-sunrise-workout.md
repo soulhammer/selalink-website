@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Nelson Mandelas ‚Sonnenaufgangs-Calisthenics‘: Körper und Geist hinter Gittern verteidigen"
 description: "Nelson Mandela bewahrte seine körperliche Kraft und mentale Stärke, indem er während seiner 27-jährigen Haft jeden Morgen um 5:00 Uhr Calisthenics praktizierte. Entdecken Sie seine Sonnenaufgangsroutine zur Wiederherstellung von Autonomie und kognitiver Resilienz."
 pubDate: "2026-01-13"
@@ -35,17 +36,17 @@ Im heutigen Beitrag untersuchen wir die wissenschaftliche Basis von Mandelas ‚
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu nelson-mandela-sunrise-workout basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Nelson Mandelas Sonnenaufgangs-Workout & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Nelson Mandelas Sonnenaufgangs-Workout & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hirnforschung zur Bewahrung der Autonomie unter extremer Kontrolle
+## 1. Hirnforschung zur Bewahrung der Autonomie unter extremer Kontrolle
 
 Wenn die externe Umwelt vollständig kontrolliert wird und keinerlei Freiheit gewährt wird, nimmt das Gehirn einen Verlust der Verhaltenskontrolle wahr und gleitet in einen Zustand erlernter Hilflosigkeit (Learned Helplessness), was zu Depressionen und kognitivem Abbau führt.
 
@@ -53,9 +54,7 @@ Mandelas frühmorgendliches Workout war ein Verhaltens-Feedback-Mechanismus, der
 
 ---
 
-## Die erste morgendliche Bewegung bestimmt den Geist für den Tag
-
-Konsumieren Sie nicht passiv externe Reize, indem Sie im Bett liegen und auf Ihr Smartphone staren, sobald Sie die Augen öffnen. Dehnen Sie stattdessen wie Nelson Mandela Ihren Körper direkt und bewegen Sie sich aktiv, um Ihrem Gehirn zu signalisieren, dass Sie die volle Kontrolle über Ihren Körper und Ihren Tag haben.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Konsumieren Sie nicht passiv externe Reize, indem Sie im Bett liegen und auf Ihr
   </p>
 </div>
 
+---
+
+## 3. Die erste morgendliche Bewegung bestimmt den Geist für den Tag
+
+Konsumieren Sie nicht passiv externe Reize, indem Sie im Bett liegen und auf Ihr Smartphone staren, sobald Sie die Augen öffnen. Dehnen Sie stattdessen wie Nelson Mandela Ihren Körper direkt und bewegen Sie sich aktiv, um Ihrem Gehirn zu signalisieren, dass Sie die volle Kontrolle über Ihren Körper und Ihren Tag haben.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Sollte ich mich auch bei Schlafmangel zwingen, um 5:00 Uhr morgens aufzustehen und Sport zu treiben?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Konsumieren Sie nicht passiv externe Reize, indem Sie im Bett liegen und auf Ihr
       An Tagen extremer körperlicher Erschöpfung ist es weitaus besser, anstrengende Workouts durch 5 bis 10 Minuten leichtes Dehnen und tiefes Durchatmen zu ersetzen. Der Kern von Mandelas Routine besteht nicht darin, den Körper zu schinden, sondern die Kontrolle über den Tag durch den eigenen Willen zu übernehmen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie sollten Anfänger mit geringer körperlicher Ausdauer diese Routine beginnen?</span>

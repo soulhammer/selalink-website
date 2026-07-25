@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A 'calistenia ao amanhecer' de Nelson Mandela: Protegendo corpo e mente atrás das grades"
 description: "Nelson Mandela preservou sua força física e firmeza mental praticando calistenia às 5h da manhã todos os dias durante 27 anos de prisão. Descubra sua rotina ao amanhecer para restaurar a autonomia e a resiliência psicológica."
 pubDate: "2026-01-13"
@@ -35,17 +36,17 @@ No post de hoje, examinamos o fundamento científico da rotina de 'calistenia ao
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre nelson-mandela-sunrise-workout é baseada em <strong>Biografia crítica histórica e verificação de registros autobiográficos do treino ao amanhecer de Nelson Mandela e pesquisa em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografia crítica histórica e verificação de registros autobiográficos do treino ao amanhecer de Nelson Mandela e pesquisa em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociência da manutenção da autonomia sob controle extremo
+## 1. Neurociência da manutenção da autonomia sob controle extremo
 
 Quando o ambiente externo é rigidamente controlado e nenhuma liberdade é concedida, o cérebro percebe a perda do controle comportamental e cai em um estado de desamparo aprendido (Learned Helplessness), levando à depressão e ao declínio cognitivo.
 
@@ -53,9 +54,7 @@ O treino matinal de Mandela era um mecanismo de feedback comportamental que sina
 
 ---
 
-## O primeiro movimento da manhã determina a mente para o dia
-
-Não consuma passivamente estímulos externos deitado na cama olhando para o smartphone no momento em que abre os olhos. Como Nelson Mandela, ALONGUE seu corpo diretamente e faça um movimento físico ativo para sinalizar ao seu cérebro que você detém o controle total sobre seu corpo e seu dia.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Não consuma passivamente estímulos externos deitado na cama olhando para o sma
   </p>
 </div>
 
+---
+
+## 3. O primeiro movimento da manhã determina a mente para o dia
+
+Não consuma passivamente estímulos externos deitado na cama olhando para o smartphone no momento em que abre os olhos. Como Nelson Mandela, ALONGUE seu corpo diretamente e faça um movimento físico ativo para sinalizar ao seu cérebro que você detém o controle total sobre seu corpo e seu dia.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Devo me forçar a acordar às 5h da manhã para fazer exercício mesmo se não tiver dormido o suficiente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Não consuma passivamente estímulos externos deitado na cama olhando para o sma
       Em dias de cansaço físico extremo, é muito melhor substituir os treinos pesados por 5 a 10 minutos de alongamentos leves e respiração profunda. A essência da rotina de Mandela não é sobrecarregar o corpo, mas iniciar a autonomia do dia por meio de sua própria vontade consciente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como iniciantes com pouca resistência física devem começar essa rotina?</span>

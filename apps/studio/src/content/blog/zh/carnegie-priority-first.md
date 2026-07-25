@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "清晨先破摧最艰难任务的大富豪：安德鲁·卡内基的优先级终结习惯"
 description: "探索“钢铁大王”安德鲁·卡内基在前额叶资源最为充沛的清晨黄金时段优先攻克最繁重棘手任务的习惯，揭示预防自我损耗（Ego Depletion）与最大化前额叶皮层执行功能的认知神经科学原理。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 carnegie-priority-first 的内容基于 <strong>安德鲁·卡内基自传《卡内基自传（Autobiography of Andrew Carnegie）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>安德鲁·卡内基自传《卡内基自传（Autobiography of Andrew Carnegie）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 保存前额叶皮层资源与防止“自我损耗（Ego Depletion）”机制
+## 1. 保存前额叶皮层资源与防止“自我损耗（Ego Depletion）”机制
 
 神经科学与心理学研究表明，掌管理性决策、克制诱惑与执行控制的大脑前额叶皮层（Prefrontal Cortex）认知资源并非无穷无尽，而是像电池一样会有限消耗，这即是“自我损耗（Ego Depletion）”现象。如果在清晨刚起床时，将前额叶皮层的葡萄糖（Glucose）预算蚕食于无意义的刷手机、回复即时消息或琐碎杂务上，那么当下午真正需要展开复杂策划或重大决策时，大脑的执行电池早已耗尽，进而陷入拖延决策的“决策疲劳（Decision Fatigue）”。卡内基在通过睡眠获得100%充能的清晨第一时段攻克最难任务的习惯，正是趁前额叶资源最为完备之际投入顶级逻辑力与判断力、以此规避误判的高效脑工程学策略。
 
 ---
 
-## 注意事项与提示：严禁在消耗性杂务中耗尽清晨认知能量
-
-对于高效能知识工作者而言，意志力与前额叶资源是随时间流逝而不断贬值的高价认知资产。卡内基拒绝将清晨的前额叶黄金时段浪费于回复邮件或整理办公桌等琐碎杂务中，而是将其全数投资于最具杠杆效益的商业决策上。请将清晨最想拖延的那项重大难题定为当天的第一项工作，以防大脑能量提前耗尽。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：严禁在消耗性杂务中耗尽清晨认知能量
+
+对于高效能知识工作者而言，意志力与前额叶资源是随时间流逝而不断贬值的高价认知资产。卡内基拒绝将清晨的前额叶黄金时段浪费于回复邮件或整理办公桌等琐碎杂务中，而是将其全数投资于最具杠杆效益的商业决策上。请将清晨最想拖延的那项重大难题定为当天的第一项工作，以防大脑能量提前耗尽。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果在清晨第一时段遇到紧迫的联系或紧急回复诉求，该如何应对？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       除非发生整个组织系统瘫痪等毁灭性危机，否则绝大部分“看似极其紧急”的联系推迟1至2小时处理完全不会对工作产生重大纰漏。为了守护自身前额叶皮层最珍贵的资源，将清晨哪怕仅1小时的时间划定为不可侵犯的“前额叶保护堡垒时段”并严加死守，才是核心要义。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若最艰难的任务过于庞大、难以在一天内一举终结，该如何应用此习惯？</span>

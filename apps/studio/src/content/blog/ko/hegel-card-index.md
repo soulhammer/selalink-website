@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "철학적 사유의 보관소: 헤겔의 변증법적 카드 색인 기록법과 인지적 스캐폴딩 루틴"
 description: "독일 관념론을 완성한 헤겔의 철학 뒤에는 수만 장의 지식 카드와 철저한 분류 상자 보관법이 있었습니다. 지식을 확장하고 작업 기억 한계를 극복하는 그의 인지적 스캐폴딩과 3단계 실천법을 알아봅니다."
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>게오르크 빌헬름 프리드리히 헤겔 평전 및 헤겔 저작집 『정신현상학(Phänomenologie des Geistes)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 hegel-card-index 루틴을 다룹니다.
+      본 콘텐츠는 <strong>게오르크 빌헬름 프리드리히 헤겔 평전 및 헤겔 저작집 『정신현상학(Phänomenologie des Geistes)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 작업 기억 한계를 극복하는 인지적 스캐폴딩(Cognitive Scaffolding)
+## 1. 작업 기억 한계를 극복하는 인지적 스캐폴딩(Cognitive Scaffolding)
 
 우리의 뇌는 한 번에 처리할 수 있는 정보량인 <strong>작업 기억(Working Memory)</strong> 용량이 극히 제한되어 있습니다. 여러 논리와 지식을 머릿속에만 담고 있으면 뇌는 과부하에 걸려 고차원적인 창의성을 발휘하기 힘듭니다. 헤겔의 카드 색인 분류법은 지식을 외부로 보관하는 완벽한 <strong>'인지적 스캐폴딩(Cognitive Scaffolding, 인지적 비계)'</strong> 역할을 합니다. 지식을 외재화하면 뇌의 연산 공간이 확보되고, 축적된 카드들을 물리적으로 조합하고 배치하는 과정에서 뇌는 예기치 못한 새로운 아이디어의 연결 회로를 활성화합니다. 이는 머릿속에 갇혀 있던 단편적 개념들이 유기적인 변증법적 종합을 이루게 돕는 뇌과학적 원리입니다.
 
 ---
 
-## 단순 축적을 넘어 정보 간 유기적 연결을 이끄는 수칙
-
-헤겔의 카드 보관 상자는 단순한 자료 창고가 아니라 사상의 변증법을 실행하는 사유의 연장선이었습니다. 기록하는 행위 자체에 만족하기보다, 언제든 쉽게 다시 꺼내보고 다른 조각들과 유기적으로 결합할 수 있도록 질서를 부여하는 것이 인지적 비계의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 단순 축적을 넘어 정보 간 유기적 연결을 이끄는 수칙
+
+헤겔의 카드 보관 상자는 단순한 자료 창고가 아니라 사상의 변증법을 실행하는 사유의 연장선이었습니다. 기록하는 행위 자체에 만족하기보다, 언제든 쉽게 다시 꺼내보고 다른 조각들과 유기적으로 결합할 수 있도록 질서를 부여하는 것이 인지적 비계의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>디지털 기기를 이용해 이 루틴을 대체할 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       물론입니다. 노션(Notion), 옵시디언(Obsidian), 혹은 일반 메모 앱의 태그 기능을 사용하여 카드 색인 시스템을 구현할 수 있으며, 특히 양방향 링크(Backlink) 기능을 활용하면 헤겔의 사상 결합을 더욱 효과적으로 구현할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>노트를 길게 쓰는 것보다 짧은 카드가 더 효과적인 이유는 무엇인가요?</span>

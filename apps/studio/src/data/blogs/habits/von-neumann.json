@@ -1,216 +1,318 @@
 {
   "von-neumann": {
-    "title": {
-      "ko": "시끄러운 기차 대합실 벤치에서도 몰입을 유지한 폰 노이만의 소음 면역 훈련",
-      "en": "Noise Immunity Training of Von Neumann: Maintaining Focus on Noisy Train Station Benches",
-      "ja": "騒がしい駅の待合室のベンチでも没頭を維持したフォン・ノイマンの騒音免疫訓練",
-      "zh": "喧闹火车站候车室长椅上依旧高度专注：冯·诺伊曼的噪音免疫训练",
-      "es": "Entrenamiento de inmunidad al ruido de Von Neumann: Mantener la concentración en bancos ruidosos de estaciones de tren",
-      "de": "Von Neumanns Lärmimmunitäts-Training: Fokus behalten auf lauten Bahnhofsbänken",
-      "fr": "L'entraînement à l'immunité au bruit de Von Neumann : Maintenir sa concentration sur des bancs de gare bruyants",
-      "pt": "Treinamento de imunidade ao ruído de Von Neumann: Mantendo o foco em bancos barulhentos de estações de trem",
-      "id": "Pelatihan Imunitas Kebisingan Von Neumann: Mempertahankan Fokus di Bangku Stasiun Kereta yang Bising"
-    },
-    "description": {
-      "ko": "컴퓨터 아키텍처와 게임 이론을 설계한 천재 수학자로, 수면 도중 뇌가 수행한 정보 연합 아이디어를 포착하기 위해 침대 근처 메모 루틴을 고수했습니다.",
-      "en": "The genius mathematician who designed computer architecture and game theory, adhering to noise immunity and bedside note routines to capture creative insights.",
-      "ja": "コンピュータアーキテクチャやゲーム理論を設計した天才数学者。睡眠中に脳が行った情報統合アイデアを捕らえるため、ベッド近辺のメモルーティンも堅持しました。",
-      "zh": "设计了计算机架构和博弈论的天才数学家，保持在噪音环境中高度专注的习惯，并坚持床头笔记日常以捕捉脑海中的创意。",
-      "es": "El matemático genio que diseñó la arquitectura de computadoras y la teoría de juegos, manteniendo rutinas de enfoque ante el ruido e ideas junto a la cama.",
-      "de": "Der Genie-Mathematiker, der die Computerarchitektur und Spieltheorie entwarf und Routinen zur Lärmimmunität und für Notizen am Bett pflegte.",
-      "fr": "Le mathématicien de génie qui a conçu l'architecture informatique et la théorie des jeux, adepte de l'immunité au bruit et des notes au chevet.",
-      "pt": "O matemático genial que projetou a arquitetura de computadores e a teoria dos jogos, mantendo rotinas de foco no ruído e anotações à beira da cama.",
-      "id": "Matematikawan genius yang merancang arsitektur komputer dan teori permainan, mematuhi rutinitas imunitas kebisingan dan catatan di dekat tempat tidur."
-    },
-    "authority": {
-      "ko": "존 폰 노이만 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical biographies and autobiographical records of John von Neumann & Cognitive Neuroscience research",
-      "ja": "ジョン・フォン・ノイマンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究",
-      "zh": "约翰·冯·诺伊曼的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Biografías históricas y registros autobiográficos de John von Neumann e investigación en Neurociencia Cognitiva",
-      "de": "Historische Biografien und autobiografische Aufzeichnungen von John von Neumann & Kognitive Neurowissenschaftliche Forschung",
-      "fr": "Biographies historiques et récits autobiographiques de John von Neumann et recherches en neurosciences cognitives",
-      "pt": "Biografias históricas e registros autobiográficos de John von Neumann e pesquisas em Neurociência Cognitiva",
-      "id": "Biografi historis dan catatan autobiografi John von Neumann & penelitian Ilmu Saraf Kognitif"
-    },
-    "intro": {
-      "ko": "20세기 최고의 천재 수학자이자 헝가리 출신의 다재다능한 과학자 존 폰 노이만(John von Neumann, 1903~1957). 그는 현대 컴퓨터의 기본 구조인 '폰 노이만 아키텍처'를 확립하고, 경제학과 사회과학을 바꾼 '게임 이론'을 창시했으며, 양자 역학의 수학적 기초와 맨해튼 프로젝트에 결정적으로 기여한 인류 역사상 가장 지능이 높은 인물 중 한 명입니다.\n\n그는 시끄러운 음악이 흘러나오는 파티장 구석이나, 기차가 흔들리고 증기를 뿜는 시끄러운 대합실 벤치에 앉아서도 복잡한 수학 공식과 컴퓨터 아키텍처 수식을 막힘없이 유도해 냈습니다. 주위가 아무리 소란스러워도 오직 머릿속에 구축된 가상 칠판 위에만 인지 자원을 고립시키는 그의 능력은 참신한 영감과 몰입을 만들어내는 원동력이었습니다.\n\n오늘 포스트에서는 그가 고수한 '소음 환경 속 수학 유도' 습관의 인지과학적 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
-      "en": "John von Neumann (1903–1957) was a premier 20th-century Hungarian-American mathematician, physicist, computer scientist, and polymath. Widely considered one of the most intelligent individuals in human history, he established the 'von Neumann architecture' that forms the backbone of modern computers, founded game theory that revolutionized economics and social sciences, and made foundational contributions to quantum mechanics and the Manhattan Project.\n\nEven while sitting in the corner of a noisy party or on a clanging train station bench surrounded by steam and commotion, he effortlessly derived complex mathematical equations and computer architecture formulas. Regardless of environmental chaos, his ability to isolate cognitive resources onto an internal virtual blackboard served as his engine for deep immersion and creative breakthrough.\n\nIn today's post, we introduce the cognitive science principles behind his habit of deriving mathematics in noisy environments and a 3-step practical guide for modern individuals to build noise immunity.",
-      "ja": "20世紀最高の天才数学者であり、ハンガリー出身の多才な科学者ジョン・フォン・ノイマン（John von Neumann, 1903〜1957）。彼は現代のコンピュータの基本構造である「フォン・ノイマン・アーキテクチャ」を確立し、経済学や社会科学を変えた「ゲーム理論」を創始し、量子力学の数学的基礎やマンハッタン計画に決定的に貢献した人類史上最も知能が高い人物の一人です。\n\n彼は賑やかな音楽が流れるパーティー会場の隅や、列車が揺れ蒸気を噴き上げる騒がしい待合室のベンチに座っていても、複雑な数学公式やコンピュータアーキテクチャの数式を滞りなく導き出しました。周囲がいかに騒々しくても、頭の中に構築された仮想の黒板だけに認知リソースを孤立させる彼の能力は、斬新なひらめきと没頭を生み出す原動力でした。\n\n本日の記事では、彼が堅持した「騒音環境での数学誘導」習慣の認知科学的原理と、現代人が日常生活で軽やかに実践できる3段階のガイドを紹介します。",
-      "zh": "约翰·冯·诺伊曼（John von Neumann，1903-1957）是20世纪最伟大的天才数学家及全才科学家之一。作为人类历史上智商最高的人物之一，他确立了现代计算机的基本结构“冯·诺伊曼架构”，创立了改变经济学和社会科学的“博弈论”，并在量子力学的数学基础与曼哈顿计划中作出了决定性贡献。\n\n即使坐在播放着嘈杂音乐的派对角落，或是轰鸣震动、蒸汽弥漫的火车站候车室长椅上，他也能毫不费力地推导极其复杂的数学公式和计算机架构方程。无论周围多么吵闹，他都能将认知资源隔离在脑海中搭建的虚拟黑板上，这种能力是他产生深刻灵感与高度专注的源泉。\n\n在今天的文章中，我们将介绍他在噪音环境中推导数学这一习惯背后的认知科学原理，并为现代人提供一套可在日常生活中轻松实践的三步法指南。",
-      "es": "John von Neumann (1903–1957) fue un eminente matemático, físico, científico de la computación y polímata húngaro-estadounidense del siglo XX. Considerado una de las mentes más brillantes de la historia, estableció la 'arquitectura de Von Neumann' que constituye la base de los ordenadores modernos, fundó la teoría de juegos que revolucionó la economía y realizó contribuciones fundamentales a la mecánica cuántica y al Proyecto Manhattan.\n\nIncluso sentado en el rincón de una fiesta ruidosa o en el banco de una estación de tren entre el vapor y el bullicio, derivaba sin esfuerzo complejas ecuaciones matemáticas y fórmulas informáticas. Sin importar el caos ambiental, su capacidad para aislar sus recursos cognitivos en una pizarra virtual interna impulsaba su inmersión profunda.\n\nEn la publicación de hoy, presentamos los principios de la ciencia cognitiva detrás de su hábito de derivar matemáticas en entornos ruidosos y una guía práctica de 3 pasos para la vida cotidiana.",
-      "de": "John von Neumann (1903–1957) war ein bedeutender ungarisch-amerikanischer Mathematiker, Physiker, Informatiker und Polymath des 20. Jahrhunderts. Er gilt als eines der intelligentesten Genie der Menschheitsgeschichte, begründete die ‚Von-Neumann-Architektur‘ moderner Computer, schuf die Spieltheorie und leistete fundamentale Beiträge zur Quantenmechanik und zum Manhattan-Projekt.\n\nSelbst in der Ecke einer lauten Party oder auf einer ratternden Bahnhofsbank inmitten von Dampf und Lärm leitete er mühelos komplexe mathematische Gleichungen und Computerarchitekturformeln ab. Unabhängig vom Umgebungslärm diente seine Fähigkeit, kognitive Ressourcen auf einer internen virtuellen Tafel zu isolieren, als Motor für tiefe Konzentration.\n\nIm heutigen Beitrag stellen wir die kognitionswissenschaftlichen Prinzipien hinter seiner Gewohnheit der mathematischen Herleitung in lauter Umgebung sowie einen praktischen 3-Schritte-Leitfaden vor.",
-      "fr": "John von Neumann (1903–1957) était un éminent mathématicien, physicien, informaticien et polymathe hongrois-américain du XXe siècle. Considéré comme l'une des intelligences les plus remarquables de l'histoire humaine, il a établi l'« architecture de Von Neumann » des ordinateurs modernes, fondé la théorie des jeux et apporté des contributions fondamentales à la mécanique quantique et au projet Manhattan.\n\nMême assis dans le coin d'une fête bruyante ou sur un banc de gare au milieu de la vapeur et du tumulte, il dérivait sans effort de complexes équations mathématiques. Quelle que soit l'agitation environnante, sa capacité à isoler ses ressources cognitives sur un tableau virtuel interne constituait le moteur de sa concentration profonde.\n\nDans l'article d'aujourd'hui, nous présentons les principes en sciences cognitives sous-jacents à son habitude de calculs mathématiques en milieu bruyant et un guide pratique en 3 étapes.",
-      "pt": "John von Neumann (1903–1957) foi um proeminente matemático, físico, cientista da computação e polímata húngaro-americano do século XX. Considerado uma das inteligências mais extraordinárias da história, estabeleceu a 'arquitetura de Von Neumann' dos computadores modernos, fundou a teoria dos jogos e fez contribuições fundamentais para a mecânica quântica e o Projeto Manhattan.\n\nMesmo sentado no canto de uma festa barulhenta ou no banco de uma estação de trem no meio do vapor e do barulho, ele derivava sem esforço equações matemáticas complexas. Independentemente do caos ao redor, sua capacidade de isolar seus recursos cognitivos em uma lousa virtual interna impulsionava sua concentração profunda.\n\nNo post de hoje, apresentamos os princípios da ciência cognitiva por trás de seu hábito de derivação matemática em ambientes barulhentos e um guia prático em 3 etapas.",
-      "id": "John von Neumann (1903–1957) adalah matematikawan, fisikawan, ilmuwan komputer, dan polimath terkemuka Hungaria-Amerika abad ke-20. Dianggap sebagai salah satu individu paling cerdas dalam sejarah manusia, ia mendirikan 'arsitektur von Neumann' yang menjadi fondasi komputer modern, memelopori teori permainan, dan memberikan kontribusi mendasar pada mekanika kuantum dan Proyek Manhattan.\n\nBahkan saat duduk di sudut pesta yang bising atau di bangku stasiun kereta yang riuh di tengah uap dan kebisingan, ia dengan mudah menurunkan persamaan matematika dan rumus arsitektur komputer yang rumit. Terlepas dari kekacauan lingkungan, kemampuannya mengisolasi sumber daya kognitif ke papan tulis virtual internal menjadi pendorong fokus mendalamnya.\n\nDalam postingan hari ini, kami menyajikan prinsip-prinsip ilmu kognitif di balik kebiasaannya menurunkan matematika di lingkungan bising serta panduan praktis 3 langkah."
-    },
-    "whyTitle": {
-      "ko": "소음 속 몰입을 가능케 하는 '청각 게이팅'과 주의 통제",
-      "en": "'Sensory Gating' and Attention Control Enabling Focus Amid Noise",
-      "ja": "騒音の中での没頭を可能にする「聴覚ゲーティング」と注意統制",
-      "zh": "使噪音中保持专注成为可能的“听觉门控”与注意力控制",
-      "es": "'Filtrado Sensorial' y control de atención para enfocarse entre el ruido",
-      "de": "‚Sensory Gating‘ und Aufmerksamkeitssteuerung für Fokus im Lärm",
-      "fr": "« Filtrage sensoriel » et contrôle de l'attention permettant la concentration dans le bruit",
-      "pt": "'Filtragem Sensorial' e controle de atenção para foco em meio ao ruído",
-      "id": "'Sensory Gating' dan Kontrol Perhatian yang Memungkinkan Fokus di Tengah Kebisingan"
-    },
-    "whyDesc": {
-      "ko": "일정 수준의 제어 가능한 소음 자극 하에서 인위적으로 몰입의 끈을 유지하려는 행위는 뇌의 상위 인지 기능인 '청각 및 감각 게이팅(Sensory Gating)' 메커니즘을 극대화합니다. 외부 자극을 뇌가 스스로 백색소음으로 필터링하고 전두엽의 중앙 집행 네트워크(Central Executive Network)를 장악하는 과정은 뇌의 주의 통제 유연성을 향상시켜, 어떠한 돌발 환경에서도 즉시 몰입을 획득하는 면역력을 단련합니다.",
-      "en": "Maintaining focus under controllable noise triggers maximizes the brain's higher cognitive mechanism known as <strong>'Sensory Gating'</strong>. When the brain filters external stimuli into background noise and engages the Central Executive Network in the frontal lobe, it enhances attentional flexibility, training a 'noise immunity' to achieve instant immersion under any unforeseen condition.",
-      "ja": "一定レベルの制御可能な騒音刺激の下で人工的に没頭を維持しようとする行為は、脳の上位認知機能である<strong>「聴覚・感覚ゲーティング（Sensory Gating）」</strong>メカニズムを極大化します。外部刺激を脳が自らホワイトノイズとしてフィルタリングし、前頭葉の中央実行ネットワーク（Central Executive Network）を掌握するプロセスは、脳の注意統制の柔軟性を向上させ、いかなる突発的環境でも即座に没頭を獲得する免疫力を鍛えます。",
-      "zh": "在适度可控的噪音刺激下人为保持专注，可以最大程度激活大脑的高阶认知机制——<strong>“感觉门控（Sensory Gating）”</strong>。大脑将外部刺激自动过滤为白噪音并接管前额叶的中央执行网络（Central Executive Network），这一过程提升了大脑注意力控制的灵活性，从而锤炼出在任何突发环境中都能迅速沉浸的“噪音免疫力”。",
-      "es": "Mantener la concentración bajo un nivel de ruido controlable maximiza el mecanismo cognitivo superior conocido como <strong>'Filtrado Sensorial (Sensory Gating)'</strong>. Cuando el cerebro filtra los estímulos externos convirtiéndolos en ruido blanco y activa la Red Ejecutiva Central en el lóbulo frontal, mejora la flexibilidad atencional, entrenando una inmunidad al ruido para lograr la inmersión instantánea.",
-      "de": "Aufrechterhalten der Konzentration unter steuerbaren Lärmreizen maximiert den kognitiven Mechanismus des <strong>‚Sensory Gating‘</strong>. Wenn das Gehirn externe Reize als Hintergrundrauschen filtert und das zentrale exekutive Netzwerk im Stirnlappen aktiviert, verbessert dies die Aufmerksamkeitsflexibilität und trainiert Lärmimmunität.",
-      "fr": "Maintenir sa concentration sous un bruit contrôlable maximise le mécanisme cognitif supérieur du <strong>« Filtrage sensoriel (Sensory Gating) »</strong>. Lorsque le cerveau filtre les stimulations externes pour les transformer en bruit de fond et mobilise le réseau exécutif central du lobe frontal, il améliore la flexibilité attentionnelle.",
-      "pt": "Manter o foco sob um nível de ruído controlável maximiza o mecanismo cognitivo superior conhecido como <strong>'Filtragem Sensorial (Sensory Gating)'</strong>. Quando o cérebro filtra os estímulos externos transformando-os em ruído branco e ativa a Rede Executiva Central no lobo frontal, melhora a flexibilidade atencional.",
-      "id": "Mempertahankan fokus di bawah tingkat kebisingan yang terukur memaksimalkan mekanisme kognitif tingkat tinggi yang dikenal sebagai <strong>'Sensory Gating'</strong>. Ketika otak memfilter stimulasi ekternal menjadi suara latar dan mengaktifkan Jaringan Eksekutif Pusat di lobus frontal, ini meningkatkan fleksibilitas perhatian."
-    },
-    "cautionTitle": {
-      "ko": "성공적인 안착을 위한 행동과학 조언",
-      "en": "Behavioral Science Advice for Successful Habit Adoption",
-      "ja": "成功的な定着のための行動科学的アドバイス",
-      "zh": "用于成功建立习惯的行为科学建议",
-      "es": "Consejo de ciencia conductual para una adopción exitosa",
-      "de": "Verhaltenswissenschaftliche Ratschläge für erfolgreiche Etablierung",
-      "fr": "Conseils en sciences du comportement pour une adoption réussie",
-      "pt": "Conselhos da ciência comportamental para uma adoção bem-sucedida",
-      "id": "Saran Ilmu Perilaku untuk Penerapan Kebiasaan yang Sukses"
-    },
-    "cautionDesc": {
-      "ko": "공사장 소음이나 귀를 찢는 극단적 데시벨의 환경은 뇌 건강에 해로우므로 피하세요. 일상의 가벼운 백색소음이나 클래식 음악의 흐름을 뇌 필터로 걸러내는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.",
-      "en": "Avoid construction site noise or ear-splitting decibels as they harm brain health. The key is filtering mild ambient sounds or instrumental music through your cognitive filter. Rather than relying solely on willpower, design your environment and habit triggers so focus naturally occurs.",
-      "ja": "工事現場の騒音や耳を刺す極端なデシベルの環境は脳の健康に有害なため避けてください。日常の軽やかなホワイトノイズやクラシック音楽の流れを脳フィルターでろ過することが重要です。意志の力だけに頼るのではなく、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続の鍵です。",
-      "zh": "请避免施工现场的噪音或极度刺耳的高分贝环境，因为这有害于大脑健康。关键在于学会用大脑过滤器过滤日常温和的白噪音或纯音乐。不要单纯依赖意志力，预先设计好能自然引发专注行为的物理环境与习惯触发信号，才是持之以恒的关键。",
-      "es": "Evite el ruido de obras o decibelios ensordecedores, ya que dañan la salud cerebral. La clave es filtrar sonidos ambientales suaves o música instrumental a través de su filtro cognitivo. En lugar de depender únicamente de la fuerza de voluntad, diseñe su entorno y señales de hábito para que el enfoque surja de forma natural.",
-      "de": "Vermeiden Sie Baustellenlärm oder extrem hohe Dezibelzahlen, da diese der Gehirngesundheit schaden. Der Schlüssel liegt darin, leichte Umgebungsgeräusche oder Instrumentalmusik durch Ihren kognitiven Filter zu filtern. Entwerfen Sie Ihre Umgebung und Auslöser so, dass Fokus ganz naturally entsteht.",
-      "fr": "Évitez le bruit de chantier ou les décibels excessifs qui nuisent à la santé cérébrale. La clé consiste à filtrer les sons ambiants doux ou la musique instrumentale à travers votre filtre cognitif. Plutôt que de compter uniquement sur la volonté, aménagez votre environnement.",
-      "pt": "Evite ruídos de obras ou decibéis ensurdecedores, pois prejudicam a saúde cerebral. A chave é filtrar sons ambientes suaves ou música instrumental através do seu filtro cognitivo. Em vez de depender apenas da força de vontade, projete seu ambiente.",
-      "id": "Hindari kebisingan tempat konstruksi atau desibel ekstrem yang merusak kesehatan otak. Kuncinya adalah memfilter suara sekitar yang lembut atau musik instrumental melalui filter kognitif Anda. Daripada hanya mengandalkan kemauan keras, rancang lingkungan Anda."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 환경 설정 및 도구 세팅",
-          "en": "Step 1: Environment and Tool Setup",
-          "ja": "ステップ1：環境設定とツールセッティング",
-          "zh": "第一步：环境设置与工具准备",
-          "es": "Paso 1: Configuración del entorno y herramientas",
-          "de": "Schritt 1: Umgebung und Werkzeuge einrichten",
-          "fr": "Étape 1 : Configuration de l'environnement et des outils",
-          "pt": "Etapa 1: Configuração do ambiente e ferramentas",
-          "id": "Langkah 1: Pengaturan Lingkungan dan Alat"
-        },
-        "text": {
-          "ko": "매일 집중 훈련을 수행할 때 조용한 도서관 대신, 적절한 생활 소음이 있는 카페 창가나 환기 소음이 들리는 공간을 선별하여 앉습니다. 주변 주의 소음에 노출됩니다.",
-          "en": "When conducting focus training, choose a cafe window seat with moderate background chatter or a space with gentle fan noise instead of a completely silent library. Expose yourself to manageable ambient noise.",
-          "ja": "毎日の集中訓練を行う際、静かな図書館の代わりに適度な生活音のあるカフェの窓際や換気音の聞こえる空間を選んで座ります。周辺の生活騒音に適度に露出します。",
-          "zh": "每天进行专注训练时，选择坐在有适度背景音的咖啡馆窗边或有通风设备微响的空间，而非绝对安静的图书馆。将自己置于适度的环境噪音中。",
-          "es": "Al realizar el entrenamiento de enfoque, elija un asiento junto a la ventana de una cafetería con ruido moderado o un espacio con sonido de ventilación suave en lugar de una biblioteca en absoluto silencio.",
-          "de": "Wählen Sie beim Fokustraining einen Schreibtisch am Caféfenster mit moderaten Hintergrundgeräuschen oder einen Raum mit sanftem Lüftergeräusch statt einer völlig stillen Bibliothek.",
-          "fr": "Pour votre entraînement à la concentration, choisissez une table près d'une fenêtre de café avec un fond sonore modéré ou un espace avec un bruit de ventilation plutôt qu'une bibliothèque silencieuse.",
-          "pt": "Ao realizar o treinamento de foco, escolha um lugar perto da janela de um café com barulho moderado ou um espaço com som suave de ventilação em vez de uma biblioteca silenciosa.",
-          "id": "Saat melakukan pelatihan fokus, pilih tempat duduk dekat jendela kafe dengan kebisingan sedang atau ruangan dengan suara ventilasi lembut daripada perpustakaan yang benar-benar hening."
-        }
+    "pubDate": "2026-06-28",
+    "updatedDate": "2026-06-28",
+    "heroImage": "/images/blog/von_neumann.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "시끄러운 기차 대합실 벤치에서도 몰입을 유지한 폰 노이만의 소음 면역 훈련",
+        "description": "컴퓨터 아키텍처와 게임 이론을 설계한 천재 수학자로, 수면 도중 뇌가 수행한 정보 연합 아이디어를 포착하기 위해 침대 근처 메모 루틴을 고수했습니다.",
+        "authority": "존 폰 노이만 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "20세기 최고의 천재 수학자이자 헝가리 출신의 다재다능한 과학자 존 폰 노이만(John von Neumann, 1903~1957). 그는 현대 컴퓨터의 기본 구조인 '폰 노이만 아키텍처'를 확립하고, 경제학과 사회과학을 바꾼 '게임 이론'을 창시했으며, 양자 역학의 수학적 기초와 맨해튼 프로젝트에 결정적으로 기여한 인류 역사상 가장 지능이 높은 인물 중 한 명입니다.\n\n그는 시끄러운 음악이 흘러나오는 파티장 구석이나, 기차가 흔들리고 증기를 뿜는 시끄러운 대합실 벤치에 앉아서도 복잡한 수학 공식과 컴퓨터 아키텍처 수식을 막힘없이 유도해 냈습니다. 주위가 아무리 소란스러워도 오직 머릿속에 구축된 가상 칠판 위에만 인지 자원을 고립시키는 그의 능력은 참신한 영감과 몰입을 만들어내는 원동력이었습니다.\n\n오늘 포스트에서는 그가 고수한 '소음 환경 속 수학 유도' 습관의 인지과학적 원리와 현대인들이 일상에서 가볍게 실천할 수 있는 3단계 가이드를 소개합니다.",
+        "whyTitle": "소음 속 몰입을 가능케 하는 '청각 게이팅'과 주의 통제",
+        "whyDesc": "일정 수준의 제어 가능한 소음 자극 하에서 인위적으로 몰입의 끈을 유지하려는 행위는 뇌의 상위 인지 기능인 '청각 및 감각 게이팅(Sensory Gating)' 메커니즘을 극대화합니다. 외부 자극을 뇌가 스스로 백색소음으로 필터링하고 전두엽의 중앙 집행 네트워크(Central Executive Network)를 장악하는 과정은 뇌의 주의 통제 유연성을 향상시켜, 어떠한 돌발 환경에서도 즉시 몰입을 획득하는 면역력을 단련합니다.",
+        "cautionTitle": "성공적인 안착을 위한 행동과학 조언",
+        "cautionDesc": "공사장 소음이나 귀를 찢는 극단적 데시벨의 환경은 뇌 건강에 해로우므로 피하세요. 일상의 가벼운 백색소음이나 클래식 음악의 흐름을 뇌 필터로 걸러내는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.",
+        "steps": [
+          {
+            "title": "1단계: 환경 설정 및 도구 세팅",
+            "desc": "매일 집중 훈련을 수행할 때 조용한 도서관 대신, 적절한 생활 소음이 있는 카페 창가나 환기 소음이 들리는 공간을 선별하여 앉습니다. 주변 주의 소음에 노출됩니다."
+          },
+          {
+            "title": "2단계: 온전한 감각 투사와 실천",
+            "desc": "주변 소음을 억제하기 위해 노이즈 캔슬링 이어폰을 끼는 대신, 주변 소리들을 하나의 흘러가는 바람 소리처럼 흘려보내며 오직 내 업무 모니터의 텍스트 한 줄에만 2분간 고도의 집중력을 좁힙니다."
+          },
+          {
+            "title": "3단계: 객관적 응시 및 메타 정리",
+            "desc": "소음 자극이 내 인지 필터를 뚫지 못하도록 머릿속에 투명한 방어막을 씌우듯 의식의 경계를 단단히 제어하고 문장 읽기에 집중합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "매일 어려운 과제 돌입 전 이 음악 몰입 루틴을 수행해야 하나요?",
+            "answer": "네, 일정 수준의 적절한 백색소음이나 음악 환경을 활용하면 인지적 주의 폭을 좁히고 복잡한 연산 집중에 보다 빠르게 진입할 수 있습니다."
+          },
+          {
+            "question": "소음 축음기나 전용 기기가 없으면 어떻게 대체하나요?",
+            "answer": "이어폰으로 빠른 템포의 백색 소음, 기계음 앰비언트 사운드, 혹은 경쾌한 비트의 음악을 틀어놓고 몰입을 시작하는 것으로 대체 가능합니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 온전한 감각 투사와 실천",
-          "en": "Step 2: Sensory Projection and Practice",
-          "ja": "ステップ2：完全な感覚投射と実践",
-          "zh": "第二步：全情投入与实践",
-          "es": "Paso 2: Proyección sensorial y práctica",
-          "de": "Schritt 2: Sensorische Projektion und Praxis",
-          "fr": "Étape 2 : Projection sensorielle et pratique",
-          "pt": "Etapa 2: Projeção sensorial e prática",
-          "id": "Langkah 2: Proyeksi Sensorik dan Praktik"
-        },
-        "text": {
-          "ko": "주변 소음을 억제하기 위해 노이즈 캔슬링 이어폰을 끼는 대신, 주변 소리들을 하나의 흘러가는 바람 소리처럼 흘려보내며 오직 내 업무 모니터의 텍스트 한 줄에만 2분간 고도의 집중력을 좁힙니다.",
-          "en": "Instead of wearing noise-canceling headphones to suppress ambient noise, let surrounding sounds pass by like wind, narrowing your concentration intensely onto a single line of text on your monitor for 2 minutes.",
-          "ja": "周囲の騒音を抑えるためにノイズキャンセリングイヤホンを装着する代わりに、周囲の音を1つの流れる風の音のように受け流し、自分の業務モニターのテキスト1行だけに2分間高度な集中力を絞り込みます。",
-          "zh": "不戴降噪耳机来强行隔绝周围声音，而是让周遭的杂音像一阵微风般掠过，将注意力高度收窄，专心凝视工作显示屏上的那一行文字持续2分钟。",
-          "es": "En lugar de usar auriculares con cancelación de ruido, deje que los sonidos ambientales fluyan como el viento, enfocando intensamente su atención en una sola línea de texto de su monitor durante 2 minutos.",
-          "de": "Anstatt Geräuschunterdrückungskopfhörer zu tragen, lassen Sie Umgebungsgeräusche wie Wind vorbeiziehen und verengen Sie Ihre Konzentration 2 Minuten lang intensiv auf eine einzelne Textzeile auf Ihrem Monitor.",
-          "fr": "Au lieu de porter un casque à réduction de bruit, laissez les sons ambiants passer comme le vent, en rétrécissant intensément votre focalisation sur une seule ligne de texte de votre écran pendant 2 minutes.",
-          "pt": "Em vez de usar fones de ouvido com cancelamento de ruído, deixe os sons ao redor passarem como o vento, estreitando sua concentração intensamente em uma única linha de texto no monitor por 2 minutos.",
-          "id": "Daripada menggunakan earphone peredam bising, biarkan suara sekitar berlalu seperti angin, menyempitkan konsentrasi Anda secara intens pada satu baris teks di monitor Anda selama 2 menit."
-        }
+      "en": {
+        "title": "Noise Immunity Training of Von Neumann: Maintaining Focus on Noisy Train Station Benches",
+        "description": "The genius mathematician who designed computer architecture and game theory, adhering to noise immunity and bedside note routines to capture creative insights.",
+        "authority": "Historical biographies and autobiographical records of John von Neumann & Cognitive Neuroscience research",
+        "intro": "John von Neumann (1903–1957) was a premier 20th-century Hungarian-American mathematician, physicist, computer scientist, and polymath. Widely considered one of the most intelligent individuals in human history, he established the 'von Neumann architecture' that forms the backbone of modern computers, founded game theory that revolutionized economics and social sciences, and made foundational contributions to quantum mechanics and the Manhattan Project.\n\nEven while sitting in the corner of a noisy party or on a clanging train station bench surrounded by steam and commotion, he effortlessly derived complex mathematical equations and computer architecture formulas. Regardless of environmental chaos, his ability to isolate cognitive resources onto an internal virtual blackboard served as his engine for deep immersion and creative breakthrough.\n\nIn today's post, we introduce the cognitive science principles behind his habit of deriving mathematics in noisy environments and a 3-step practical guide for modern individuals to build noise immunity.",
+        "whyTitle": "'Sensory Gating' and Attention Control Enabling Focus Amid Noise",
+        "whyDesc": "Maintaining focus under controllable noise triggers maximizes the brain's higher cognitive mechanism known as <strong>'Sensory Gating'</strong>. When the brain filters external stimuli into background noise and engages the Central Executive Network in the frontal lobe, it enhances attentional flexibility, training a 'noise immunity' to achieve instant immersion under any unforeseen condition.",
+        "cautionTitle": "Behavioral Science Advice for Successful Habit Adoption",
+        "cautionDesc": "Avoid construction site noise or ear-splitting decibels as they harm brain health. The key is filtering mild ambient sounds or instrumental music through your cognitive filter. Rather than relying solely on willpower, design your environment and habit triggers so focus naturally occurs.",
+        "steps": [
+          {
+            "title": "Step 1: Environment and Tool Setup",
+            "desc": "When conducting focus training, choose a cafe window seat with moderate background chatter or a space with gentle fan noise instead of a completely silent library. Expose yourself to manageable ambient noise."
+          },
+          {
+            "title": "Step 2: Sensory Projection and Practice",
+            "desc": "Instead of wearing noise-canceling headphones to suppress ambient noise, let surrounding sounds pass by like wind, narrowing your concentration intensely onto a single line of text on your monitor for 2 minutes."
+          },
+          {
+            "title": "Step 3: Objective Observation and Meta-Regulation",
+            "desc": "Firmly control your boundary of consciousness as if putting an invisible barrier around your mind, preventing noise stimuli from penetrating your cognitive filter while focusing on sentence reading."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should I execute this focus routine before attempting difficult tasks every day?",
+            "answer": "Yes, utilizing a moderate level of ambient white noise or music helps narrow your cognitive attention span, allowing you to enter complex analytical focus much faster."
+          },
+          {
+            "question": "How can I replace special noise generators if I don't have dedicated equipment?",
+            "answer": "You can replace specialized devices by playing fast-tempo white noise, mechanical ambient audio, or upbeat instrumental tracks through regular earphones to initiate focus."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 객관적 응시 및 메타 정리",
-          "en": "Step 3: Objective Observation and Meta-Regulation",
-          "ja": "ステップ3：客観的注視とメタ整理",
-          "zh": "第三步：客观凝视与元认知整理",
-          "es": "Paso 3: Observación objetiva y meta-regulación",
-          "de": "Schritt 3: Objektive Beobachtung und Meta-Regulierung",
-          "fr": "Étape 3 : Observation objective et méta-régulation",
-          "pt": "Etapa 3: Observação objetiva e meta-regulação",
-          "id": "Langkah 3: Pengamatan Objektif dan Meta-Regulasi"
-        },
-        "text": {
-          "ko": "소음 자극이 내 인지 필터를 뚫지 못하도록 머릿속에 투명한 방어막을 씌우듯 의식의 경계를 단단히 제어하고 문장 읽기에 집중합니다.",
-          "en": "Firmly control your boundary of consciousness as if putting an invisible barrier around your mind, preventing noise stimuli from penetrating your cognitive filter while focusing on sentence reading.",
-          "ja": "騒音刺激が自分の認知フィルターを突き破らないよう、頭の中に透明な防護壁を張るように意識の境界をしっかり制御し、文章の読解に集中します。",
-          "zh": "如同在脑海中筑起一道透明的防护罩，防止噪音刺激穿透你的认知过滤器，牢牢地掌控意识边界，专注于阅读与理解。",
-          "es": "Controle con firmeza los límites de su conciencia como si colocara una barrera transparente alrededor de su mente, evitando que los estímulos de ruido penetren su filtro cognitivo.",
-          "de": "Steuern Sie die Grenzen Ihres Bewusstseins fest, als ob Sie ein unsichtbares Schutzschild um Ihren Geist legen würden, das verhindert, dass Lärmreize Ihren kognitiven Filter durchdringen.",
-          "fr": "Contrôlez fermement les frontières de votre conscience comme si vous dressiez un bouclier transparent autour de votre esprit, empêchant les bruits de traverser votre filtre cognitif.",
-          "pt": "Controle firmemente os limites da sua consciência como se colocasse uma barreira transparente ao redor da sua mente, evitando que os ruídos penetrem seu filtro cognitivo.",
-          "id": "Kendalikan batas kesadaran Anda secara kuat seolah memasang pelindung transparan di sekitar pikiran Anda, mencegah stimulasi kebisingan menembus filter kognitif Anda."
-        }
+      "zh": {
+        "title": "喧闹火车站候车室长椅上依旧高度专注：冯·诺伊曼的噪音免疫训练",
+        "description": "设计了计算机架构和博弈论的天才数学家，保持在噪音环境中高度专注的习惯，并坚持床头笔记日常以捕捉脑海中的创意。",
+        "authority": "约翰·冯·诺伊曼的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "约翰·冯·诺伊曼（John von Neumann，1903-1957）是20世纪最伟大的天才数学家及全才科学家之一。作为人类历史上智商最高的人物之一，他确立了现代计算机的基本结构“冯·诺伊曼架构”，创立了改变经济学和社会科学的“博弈论”，并在量子力学的数学基础与曼哈顿计划中作出了决定性贡献。\n\n即使坐在播放着嘈杂音乐的派对角落，或是轰鸣震动、蒸汽弥漫的火车站候车室长椅上，他也能毫不费力地推导极其复杂的数学公式和计算机架构方程。无论周围多么吵闹，他都能将认知资源隔离在脑海中搭建的虚拟黑板上，这种能力是他产生深刻灵感与高度专注的源泉。\n\n在今天的文章中，我们将介绍他在噪音环境中推导数学这一习惯背后的认知科学原理，并为现代人提供一套可在日常生活中轻松实践的三步法指南。",
+        "whyTitle": "使噪音中保持专注成为可能的“听觉门控”与注意力控制",
+        "whyDesc": "在适度可控的噪音刺激下人为保持专注，可以最大程度激活大脑的高阶认知机制——<strong>“感觉门控（Sensory Gating）”</strong>。大脑将外部刺激自动过滤为白噪音并接管前额叶的中央执行网络（Central Executive Network），这一过程提升了大脑注意力控制的灵活性，从而锤炼出在任何突发环境中都能迅速沉浸的“噪音免疫力”。",
+        "cautionTitle": "用于成功建立习惯的行为科学建议",
+        "cautionDesc": "请避免施工现场的噪音或极度刺耳的高分贝环境，因为这有害于大脑健康。关键在于学会用大脑过滤器过滤日常温和的白噪音或纯音乐。不要单纯依赖意志力，预先设计好能自然引发专注行为的物理环境与习惯触发信号，才是持之以恒的关键。",
+        "steps": [
+          {
+            "title": "第一步：环境设置与工具准备",
+            "desc": "每天进行专注训练时，选择坐在有适度背景音的咖啡馆窗边或有通风设备微响的空间，而非绝对安静的图书馆。将自己置于适度的环境噪音中。"
+          },
+          {
+            "title": "第二步：全情投入与实践",
+            "desc": "不戴降噪耳机来强行隔绝周围声音，而是让周遭的杂音像一阵微风般掠过，将注意力高度收窄，专心凝视工作显示屏上的那一行文字持续2分钟。"
+          },
+          {
+            "title": "第三步：客观凝视与元认知整理",
+            "desc": "如同在脑海中筑起一道透明的防护罩，防止噪音刺激穿透你的认知过滤器，牢牢地掌控意识边界，专注于阅读与理解。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "每天在开始处理难题之前，都需要进行这项专注训练吗？",
+            "answer": "是的，利用适度的白噪音或背景音乐环境有助于收窄认知注意力范围，使你能够更快地进入复杂的逻辑思维与专注状态。"
+          },
+          {
+            "question": "如果没有专门的白噪音生成器或专属设备，该如何替代？",
+            "answer": "可以通过耳机播放快速节奏的白噪音、机械声环境音，或者伴随轻快节奏的纯音乐来启动专注状态，完全可以替代专属设备。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "騒がしい駅の待合室のベンチでも没頭を維持したフォン・ノイマンの騒音免疫訓練",
+        "description": "コンピュータアーキテクチャやゲーム理論を設計した天才数学者。睡眠中に脳が行った情報統合アイデアを捕らえるため、ベッド近辺のメモルーティンも堅持しました。",
+        "authority": "ジョン・フォン・ノイマンの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究",
+        "intro": "20世紀最高の天才数学者であり、ハンガリー出身の多才な科学者ジョン・フォン・ノイマン（John von Neumann, 1903〜1957）。彼は現代のコンピュータの基本構造である「フォン・ノイマン・アーキテクチャ」を確立し、経済学や社会科学を変えた「ゲーム理論」を創始し、量子力学の数学的基礎やマンハッタン計画に決定的に貢献した人類史上最も知能が高い人物の一人です。\n\n彼は賑やかな音楽が流れるパーティー会場の隅や、列車が揺れ蒸気を噴き上げる騒がしい待合室のベンチに座っていても、複雑な数学公式やコンピュータアーキテクチャの数式を滞りなく導き出しました。周囲がいかに騒々しくても、頭の中に構築された仮想の黒板だけに認知リソースを孤立させる彼の能力は、斬新なひらめきと没頭を生み出す原動力でした。\n\n本日の記事では、彼が堅持した「騒音環境での数学誘導」習慣の認知科学的原理と、現代人が日常生活で軽やかに実践できる3段階のガイドを紹介します。",
+        "whyTitle": "騒音の中での没頭を可能にする「聴覚ゲーティング」と注意統制",
+        "whyDesc": "一定レベルの制御可能な騒音刺激の下で人工的に没頭を維持しようとする行為は、脳の上位認知機能である<strong>「聴覚・感覚ゲーティング（Sensory Gating）」</strong>メカニズムを極大化します。外部刺激を脳が自らホワイトノイズとしてフィルタリングし、前頭葉の中央実行ネットワーク（Central Executive Network）を掌握するプロセスは、脳の注意統制の柔軟性を向上させ、いかなる突発的環境でも即座に没頭を獲得する免疫力を鍛えます。",
+        "cautionTitle": "成功的な定着のための行動科学的アドバイス",
+        "cautionDesc": "工事現場の騒音や耳を刺す極端なデシベルの環境は脳の健康に有害なため避けてください。日常の軽やかなホワイトノイズやクラシック音楽の流れを脳フィルターでろ過することが重要です。意志の力だけに頼るのではなく、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続の鍵です。",
+        "steps": [
+          {
+            "title": "ステップ1：環境設定とツールセッティング",
+            "desc": "毎日の集中訓練を行う際、静かな図書館の代わりに適度な生活音のあるカフェの窓際や換気音の聞こえる空間を選んで座ります。周辺の生活騒音に適度に露出します。"
+          },
+          {
+            "title": "ステップ2：完全な感覚投射と実践",
+            "desc": "周囲の騒音を抑えるためにノイズキャンセリングイヤホンを装着する代わりに、周囲の音を1つの流れる風の音のように受け流し、自分の業務モニターのテキスト1行だけに2分間高度な集中力を絞り込みます。"
+          },
+          {
+            "title": "ステップ3：客観的注視とメタ整理",
+            "desc": "騒音刺激が自分の認知フィルターを突き破らないよう、頭の中に透明な防護壁を張るように意識の境界をしっかり制御し、文章の読解に集中します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "毎日難しい課題に取り組む前に、この没頭ルーティンを実行すべきですか？",
+            "answer": "はい、一定レベルの適切なホワイトノイズや音楽環境を活用すると、認知的な注意の幅を狭め、複雑な演算集中に素早く進入することができます。"
+          },
+          {
+            "question": "専用の騒音発生装置や機器がない場合はどう代替すればよいですか？",
+            "answer": "イヤホンでアップテンポのホワイトノイズ、機械音のアンビエントサウンド、あるいは軽快なビートの音楽を再生して没頭を開始することで十分に代替可能です。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Entrenamiento de inmunidad al ruido de Von Neumann: Mantener la concentración en bancos ruidosos de estaciones de tren",
+        "description": "El matemático genio que diseñó la arquitectura de computadoras y la teoría de juegos, manteniendo rutinas de enfoque ante el ruido e ideas junto a la cama.",
+        "authority": "Biografías históricas y registros autobiográficos de John von Neumann e investigación en Neurociencia Cognitiva",
+        "intro": "John von Neumann (1903–1957) fue un eminente matemático, físico, científico de la computación y polímata húngaro-estadounidense del siglo XX. Considerado una de las mentes más brillantes de la historia, estableció la 'arquitectura de Von Neumann' que constituye la base de los ordenadores modernos, fundó la teoría de juegos que revolucionó la economía y realizó contribuciones fundamentales a la mecánica cuántica y al Proyecto Manhattan.\n\nIncluso sentado en el rincón de una fiesta ruidosa o en el banco de una estación de tren entre el vapor y el bullicio, derivaba sin esfuerzo complejas ecuaciones matemáticas y fórmulas informáticas. Sin importar el caos ambiental, su capacidad para aislar sus recursos cognitivos en una pizarra virtual interna impulsaba su inmersión profunda.\n\nEn la publicación de hoy, presentamos los principios de la ciencia cognitiva detrás de su hábito de derivar matemáticas en entornos ruidosos y una guía práctica de 3 pasos para la vida cotidiana.",
+        "whyTitle": "'Filtrado Sensorial' y control de atención para enfocarse entre el ruido",
+        "whyDesc": "Mantener la concentración bajo un nivel de ruido controlable maximiza el mecanismo cognitivo superior conocido como <strong>'Filtrado Sensorial (Sensory Gating)'</strong>. Cuando el cerebro filtra los estímulos externos convirtiéndolos en ruido blanco y activa la Red Ejecutiva Central en el lóbulo frontal, mejora la flexibilidad atencional, entrenando una inmunidad al ruido para lograr la inmersión instantánea.",
+        "cautionTitle": "Consejo de ciencia conductual para una adopción exitosa",
+        "cautionDesc": "Evite el ruido de obras o decibelios ensordecedores, ya que dañan la salud cerebral. La clave es filtrar sonidos ambientales suaves o música instrumental a través de su filtro cognitivo. En lugar de depender únicamente de la fuerza de voluntad, diseñe su entorno y señales de hábito para que el enfoque surja de forma natural.",
+        "steps": [
+          {
+            "title": "Paso 1: Configuración del entorno y herramientas",
+            "desc": "Al realizar el entrenamiento de enfoque, elija un asiento junto a la ventana de una cafetería con ruido moderado o un espacio con sonido de ventilación suave en lugar de una biblioteca en absoluto silencio."
+          },
+          {
+            "title": "Paso 2: Proyección sensorial y práctica",
+            "desc": "En lugar de usar auriculares con cancelación de ruido, deje que los sonidos ambientales fluyan como el viento, enfocando intensamente su atención en una sola línea de texto de su monitor durante 2 minutos."
+          },
+          {
+            "title": "Paso 3: Observación objetiva y meta-regulación",
+            "desc": "Controle con firmeza los límites de su conciencia como si colocara una barrera transparente alrededor de su mente, evitando que los estímulos de ruido penetren su filtro cognitivo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Debo ejecutar esta rutina de enfoque antes de abordar tareas difíciles todos los días?",
+            "answer": "Sí, utilizar un nivel moderado de ruido blanco ambiental o música ayuda a reducir su campo de atención cognitiva, permitiéndole entrar en un enfoque analítico complejo mucho más rápido."
+          },
+          {
+            "question": "¿Cómo puedo reemplazar los generadores de ruido si no tengo equipo dedicado?",
+            "answer": "Puede reemplazar equipos dedicados reproduciendo ruido blanco de ritmo rápido, audio ambiental mecánico o pistas instrumentales a través de auriculares comunes para iniciar la concentración."
+          }
+        ]
+      },
+      "fr": {
+        "title": "L'entraînement à l'immunité au bruit de Von Neumann : Maintenir sa concentration sur des bancs de gare bruyants",
+        "description": "Le mathématicien de génie qui a conçu l'architecture informatique et la théorie des jeux, adepte de l'immunité au bruit et des notes au chevet.",
+        "authority": "Biographies historiques et récits autobiographiques de John von Neumann et recherches en neurosciences cognitives",
+        "intro": "John von Neumann (1903–1957) était un éminent mathématicien, physicien, informaticien et polymathe hongrois-américain du XXe siècle. Considéré comme l'une des intelligences les plus remarquables de l'histoire humaine, il a établi l'« architecture de Von Neumann » des ordinateurs modernes, fondé la théorie des jeux et apporté des contributions fondamentales à la mécanique quantique et au projet Manhattan.\n\nMême assis dans le coin d'une fête bruyante ou sur un banc de gare au milieu de la vapeur et du tumulte, il dérivait sans effort de complexes équations mathématiques. Quelle que soit l'agitation environnante, sa capacité à isoler ses ressources cognitives sur un tableau virtuel interne constituait le moteur de sa concentration profonde.\n\nDans l'article d'aujourd'hui, nous présentons les principes en sciences cognitives sous-jacents à son habitude de calculs mathématiques en milieu bruyant et un guide pratique en 3 étapes.",
+        "whyTitle": "« Filtrage sensoriel » et contrôle de l'attention permettant la concentration dans le bruit",
+        "whyDesc": "Maintenir sa concentration sous un bruit contrôlable maximise le mécanisme cognitif supérieur du <strong>« Filtrage sensoriel (Sensory Gating) »</strong>. Lorsque le cerveau filtre les stimulations externes pour les transformer en bruit de fond et mobilise le réseau exécutif central du lobe frontal, il améliore la flexibilité attentionnelle.",
+        "cautionTitle": "Conseils en sciences du comportement pour une adoption réussie",
+        "cautionDesc": "Évitez le bruit de chantier ou les décibels excessifs qui nuisent à la santé cérébrale. La clé consiste à filtrer les sons ambiants doux ou la musique instrumentale à travers votre filtre cognitif. Plutôt que de compter uniquement sur la volonté, aménagez votre environnement.",
+        "steps": [
+          {
+            "title": "Étape 1 : Configuration de l'environnement et des outils",
+            "desc": "Pour votre entraînement à la concentration, choisissez une table près d'une fenêtre de café avec un fond sonore modéré ou un espace avec un bruit de ventilation plutôt qu'une bibliothèque silencieuse."
+          },
+          {
+            "title": "Étape 2 : Projection sensorielle et pratique",
+            "desc": "Au lieu de porter un casque à réduction de bruit, laissez les sons ambiants passer comme le vent, en rétrécissant intensément votre focalisation sur une seule ligne de texte de votre écran pendant 2 minutes."
+          },
+          {
+            "title": "Étape 3 : Observation objective et méta-régulation",
+            "desc": "Contrôlez fermement les frontières de votre conscience comme si vous dressiez un bouclier transparent autour de votre esprit, empêchant les bruits de traverser votre filtre cognitif."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Dois-je exécuter cette routine de concentration chaque jour avant d'entamer des tâches difficiles ?",
+            "answer": "Oui, l'utilisation d'un niveau modéré de bruit blanc ambiant ou de musique permet de restreindre le champ attentionnel cognitif et d'entrer plus rapidement dans une concentration complexe."
+          },
+          {
+            "question": "Comment remplacer des générateurs de bruit sans équipement dédié ?",
+            "answer": "Vous pouvez facilement remplacer les appareils spécialisés en écoutant du bruit blanc rythmé, des sons d'ambiance mécaniques ou de la musique instrumentale avec des écouteurs ordinaires."
+          }
+        ]
+      },
+      "de": {
+        "title": "Von Neumanns Lärmimmunitäts-Training: Fokus behalten auf lauten Bahnhofsbänken",
+        "description": "Der Genie-Mathematiker, der die Computerarchitektur und Spieltheorie entwarf und Routinen zur Lärmimmunität und für Notizen am Bett pflegte.",
+        "authority": "Historische Biografien und autobiografische Aufzeichnungen von John von Neumann & Kognitive Neurowissenschaftliche Forschung",
+        "intro": "John von Neumann (1903–1957) war ein bedeutender ungarisch-amerikanischer Mathematiker, Physiker, Informatiker und Polymath des 20. Jahrhunderts. Er gilt als eines der intelligentesten Genie der Menschheitsgeschichte, begründete die ‚Von-Neumann-Architektur‘ moderner Computer, schuf die Spieltheorie und leistete fundamentale Beiträge zur Quantenmechanik und zum Manhattan-Projekt.\n\nSelbst in der Ecke einer lauten Party oder auf einer ratternden Bahnhofsbank inmitten von Dampf und Lärm leitete er mühelos komplexe mathematische Gleichungen und Computerarchitekturformeln ab. Unabhängig vom Umgebungslärm diente seine Fähigkeit, kognitive Ressourcen auf einer internen virtuellen Tafel zu isolieren, als Motor für tiefe Konzentration.\n\nIm heutigen Beitrag stellen wir die kognitionswissenschaftlichen Prinzipien hinter seiner Gewohnheit der mathematischen Herleitung in lauter Umgebung sowie einen praktischen 3-Schritte-Leitfaden vor.",
+        "whyTitle": "‚Sensory Gating‘ und Aufmerksamkeitssteuerung für Fokus im Lärm",
+        "whyDesc": "Aufrechterhalten der Konzentration unter steuerbaren Lärmreizen maximiert den kognitiven Mechanismus des <strong>‚Sensory Gating‘</strong>. Wenn das Gehirn externe Reize als Hintergrundrauschen filtert und das zentrale exekutive Netzwerk im Stirnlappen aktiviert, verbessert dies die Aufmerksamkeitsflexibilität und trainiert Lärmimmunität.",
+        "cautionTitle": "Verhaltenswissenschaftliche Ratschläge für erfolgreiche Etablierung",
+        "cautionDesc": "Vermeiden Sie Baustellenlärm oder extrem hohe Dezibelzahlen, da diese der Gehirngesundheit schaden. Der Schlüssel liegt darin, leichte Umgebungsgeräusche oder Instrumentalmusik durch Ihren kognitiven Filter zu filtern. Entwerfen Sie Ihre Umgebung und Auslöser so, dass Fokus ganz naturally entsteht.",
+        "steps": [
+          {
+            "title": "Schritt 1: Umgebung und Werkzeuge einrichten",
+            "desc": "Wählen Sie beim Fokustraining einen Schreibtisch am Caféfenster mit moderaten Hintergrundgeräuschen oder einen Raum mit sanftem Lüftergeräusch statt einer völlig stillen Bibliothek."
+          },
+          {
+            "title": "Schritt 2: Sensorische Projektion und Praxis",
+            "desc": "Anstatt Geräuschunterdrückungskopfhörer zu tragen, lassen Sie Umgebungsgeräusche wie Wind vorbeiziehen und verengen Sie Ihre Konzentration 2 Minuten lang intensiv auf eine einzelne Textzeile auf Ihrem Monitor."
+          },
+          {
+            "title": "Schritt 3: Objektive Beobachtung und Meta-Regulierung",
+            "desc": "Steuern Sie die Grenzen Ihres Bewusstseins fest, als ob Sie ein unsichtbares Schutzschild um Ihren Geist legen würden, das verhindert, dass Lärmreize Ihren kognitiven Filter durchdringen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte ich diese Fokus-Routine jeden Tag vor schwierigen Aufgaben ausführen?",
+            "answer": "Ja, die Nutzung von moderatem Hintergrundrauschen oder Musik hilft, Ihre kognitive Aufmerksamkeitsspanne zu verengen und schneller in eine komplexe analytische Konzentration einzutauchen."
+          },
+          {
+            "question": "Wie kann ich Geräuschgeneratoren ersetzen, wenn ich keine speziellen Geräte habe?",
+            "answer": "Sie können spezielle Geräte ersetzen, indem Sie schnelles weißes Rauschen, mechanische Umgebungsgeräusche oder Instrumentalmusik über normale Kopfhörer abspielen, um den Fokus zu starten."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Treinamento de imunidade ao ruído de Von Neumann: Mantendo o foco em bancos barulhentos de estações de trem",
+        "description": "O matemático genial que projetou a arquitetura de computadores e a teoria dos jogos, mantendo rotinas de foco no ruído e anotações à beira da cama.",
+        "authority": "Biografias históricas e registros autobiográficos de John von Neumann e pesquisas em Neurociência Cognitiva",
+        "intro": "John von Neumann (1903–1957) foi um proeminente matemático, físico, cientista da computação e polímata húngaro-americano do século XX. Considerado uma das inteligências mais extraordinárias da história, estabeleceu a 'arquitetura de Von Neumann' dos computadores modernos, fundou a teoria dos jogos e fez contribuições fundamentais para a mecânica quântica e o Projeto Manhattan.\n\nMesmo sentado no canto de uma festa barulhenta ou no banco de uma estação de trem no meio do vapor e do barulho, ele derivava sem esforço equações matemáticas complexas. Independentemente do caos ao redor, sua capacidade de isolar seus recursos cognitivos em uma lousa virtual interna impulsionava sua concentração profunda.\n\nNo post de hoje, apresentamos os princípios da ciência cognitiva por trás de seu hábito de derivação matemática em ambientes barulhentos e um guia prático em 3 etapas.",
+        "whyTitle": "'Filtragem Sensorial' e controle de atenção para foco em meio ao ruído",
+        "whyDesc": "Manter o foco sob um nível de ruído controlável maximiza o mecanismo cognitivo superior conhecido como <strong>'Filtragem Sensorial (Sensory Gating)'</strong>. Quando o cérebro filtra os estímulos externos transformando-os em ruído branco e ativa a Rede Executiva Central no lobo frontal, melhora a flexibilidade atencional.",
+        "cautionTitle": "Conselhos da ciência comportamental para uma adoção bem-sucedida",
+        "cautionDesc": "Evite ruídos de obras ou decibéis ensurdecedores, pois prejudicam a saúde cerebral. A chave é filtrar sons ambientes suaves ou música instrumental através do seu filtro cognitivo. Em vez de depender apenas da força de vontade, projete seu ambiente.",
+        "steps": [
+          {
+            "title": "Etapa 1: Configuração do ambiente e ferramentas",
+            "desc": "Ao realizar o treinamento de foco, escolha um lugar perto da janela de um café com barulho moderado ou um espaço com som suave de ventilação em vez de uma biblioteca silenciosa."
+          },
+          {
+            "title": "Etapa 2: Projeção sensorial e prática",
+            "desc": "Em vez de usar fones de ouvido com cancelamento de ruído, deixe os sons ao redor passarem como o vento, estreitando sua concentração intensamente em uma única linha de texto no monitor por 2 minutos."
+          },
+          {
+            "title": "Etapa 3: Observação objetiva e meta-regulação",
+            "desc": "Controle firmemente os limites da sua consciência como se colocasse uma barreira transparente ao redor da sua mente, evitando que os ruídos penetrem seu filtro cognitivo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Devo executar essa rotina de foco todos os dias antes de tarefas difíceis?",
+            "answer": "Sim, utilizar um nível moderado de ruído branco ambiente ou música ajuda a estreitar a amplitude de atenção cognitiva, permitindo entrar em um foco analítico complexo muito mais rapidamente."
+          },
+          {
+            "question": "Como posso substituir geradores de ruído se não tiver equipamento dedicado?",
+            "answer": "Você pode substituir dispositivos dedicados reproduzindo ruído branco acelerado, áudio ambiente mecânico ou faixas instrumentais através de fones de ouvido comuns para iniciar o foco."
+          }
+        ]
+      },
+      "id": {
+        "title": "Pelatihan Imunitas Kebisingan Von Neumann: Mempertahankan Fokus di Bangku Stasiun Kereta yang Bising",
+        "description": "Matematikawan genius yang merancang arsitektur komputer dan teori permainan, mematuhi rutinitas imunitas kebisingan dan catatan di dekat tempat tidur.",
+        "authority": "Biografi historis dan catatan autobiografi John von Neumann & penelitian Ilmu Saraf Kognitif",
+        "intro": "John von Neumann (1903–1957) adalah matematikawan, fisikawan, ilmuwan komputer, dan polimath terkemuka Hungaria-Amerika abad ke-20. Dianggap sebagai salah satu individu paling cerdas dalam sejarah manusia, ia mendirikan 'arsitektur von Neumann' yang menjadi fondasi komputer modern, memelopori teori permainan, dan memberikan kontribusi mendasar pada mekanika kuantum dan Proyek Manhattan.\n\nBahkan saat duduk di sudut pesta yang bising atau di bangku stasiun kereta yang riuh di tengah uap dan kebisingan, ia dengan mudah menurunkan persamaan matematika dan rumus arsitektur komputer yang rumit. Terlepas dari kekacauan lingkungan, kemampuannya mengisolasi sumber daya kognitif ke papan tulis virtual internal menjadi pendorong fokus mendalamnya.\n\nDalam postingan hari ini, kami menyajikan prinsip-prinsip ilmu kognitif di balik kebiasaannya menurunkan matematika di lingkungan bising serta panduan praktis 3 langkah.",
+        "whyTitle": "'Sensory Gating' dan Kontrol Perhatian yang Memungkinkan Fokus di Tengah Kebisingan",
+        "whyDesc": "Mempertahankan fokus di bawah tingkat kebisingan yang terukur memaksimalkan mekanisme kognitif tingkat tinggi yang dikenal sebagai <strong>'Sensory Gating'</strong>. Ketika otak memfilter stimulasi ekternal menjadi suara latar dan mengaktifkan Jaringan Eksekutif Pusat di lobus frontal, ini meningkatkan fleksibilitas perhatian.",
+        "cautionTitle": "Saran Ilmu Perilaku untuk Penerapan Kebiasaan yang Sukses",
+        "cautionDesc": "Hindari kebisingan tempat konstruksi atau desibel ekstrem yang merusak kesehatan otak. Kuncinya adalah memfilter suara sekitar yang lembut atau musik instrumental melalui filter kognitif Anda. Daripada hanya mengandalkan kemauan keras, rancang lingkungan Anda.",
+        "steps": [
+          {
+            "title": "Langkah 1: Pengaturan Lingkungan dan Alat",
+            "desc": "Saat melakukan pelatihan fokus, pilih tempat duduk dekat jendela kafe dengan kebisingan sedang atau ruangan dengan suara ventilasi lembut daripada perpustakaan yang benar-benar hening."
+          },
+          {
+            "title": "Langkah 2: Proyeksi Sensorik dan Praktik",
+            "desc": "Daripada menggunakan earphone peredam bising, biarkan suara sekitar berlalu seperti angin, menyempitkan konsentrasi Anda secara intens pada satu baris teks di monitor Anda selama 2 menit."
+          },
+          {
+            "title": "Langkah 3: Pengamatan Objektif dan Meta-Regulasi",
+            "desc": "Kendalikan batas kesadaran Anda secara kuat seolah memasang pelindung transparan di sekitar pikiran Anda, mencegah stimulasi kebisingan menembus filter kognitif Anda."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah saya harus melakukan rutinitas fokus ini sebelum menangani tugas sulit setiap hari?",
+            "answer": "Ya, memanfaatkan tingkat kebisingan latar belakang atau musik yang sedang membantu menyempitkan rentang perhatian kognitif Anda, memungkinkan Anda masuk ke dalam fokus analitis yang kompleks jauh lebih cepat."
+          },
+          {
+            "question": "Bagaimana cara mengganti generator kebisingan khusus jika tidak memiliki peralatan khusus?",
+            "answer": "Anda dapat mengganti peralatan khusus dengan memutar white noise tempo cepat, audio ambien mekanis, atau trek instrumental melalui earphone biasa untuk memulai fokus."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "매일 어려운 과제 돌입 전 이 음악 몰입 루틴을 수행해야 하나요?",
-          "en": "Should I execute this focus routine before attempting difficult tasks every day?",
-          "ja": "毎日難しい課題に取り組む前に、この没頭ルーティンを実行すべきですか？",
-          "zh": "每天在开始处理难题之前，都需要进行这项专注训练吗？",
-          "es": "¿Debo ejecutar esta rutina de enfoque antes de abordar tareas difíciles todos los días?",
-          "de": "Sollte ich diese Fokus-Routine jeden Tag vor schwierigen Aufgaben ausführen?",
-          "fr": "Dois-je exécuter cette routine de concentration chaque jour avant d'entamer des tâches difficiles ?",
-          "pt": "Devo executar essa rotina de foco todos os dias antes de tarefas difíceis?",
-          "id": "Apakah saya harus melakukan rutinitas fokus ini sebelum menangani tugas sulit setiap hari?"
-        },
-        "answer": {
-          "ko": "네, 일정 수준의 적절한 백색소음이나 음악 환경을 활용하면 인지적 주의 폭을 좁히고 복잡한 연산 집중에 보다 빠르게 진입할 수 있습니다.",
-          "en": "Yes, utilizing a moderate level of ambient white noise or music helps narrow your cognitive attention span, allowing you to enter complex analytical focus much faster.",
-          "ja": "はい、一定レベルの適切なホワイトノイズや音楽環境を活用すると、認知的な注意の幅を狭め、複雑な演算集中に素早く進入することができます。",
-          "zh": "是的，利用适度的白噪音或背景音乐环境有助于收窄认知注意力范围，使你能够更快地进入复杂的逻辑思维与专注状态。",
-          "es": "Sí, utilizar un nivel moderado de ruido blanco ambiental o música ayuda a reducir su campo de atención cognitiva, permitiéndole entrar en un enfoque analítico complejo mucho más rápido.",
-          "de": "Ja, die Nutzung von moderatem Hintergrundrauschen oder Musik hilft, Ihre kognitive Aufmerksamkeitsspanne zu verengen und schneller in eine komplexe analytische Konzentration einzutauchen.",
-          "fr": "Oui, l'utilisation d'un niveau modéré de bruit blanc ambiant ou de musique permet de restreindre le champ attentionnel cognitif et d'entrer plus rapidement dans une concentration complexe.",
-          "pt": "Sim, utilizar um nível moderado de ruído branco ambiente ou música ajuda a estreitar a amplitude de atenção cognitiva, permitindo entrar em um foco analítico complexo muito mais rapidamente.",
-          "id": "Ya, memanfaatkan tingkat kebisingan latar belakang atau musik yang sedang membantu menyempitkan rentang perhatian kognitif Anda, memungkinkan Anda masuk ke dalam fokus analitis yang kompleks jauh lebih cepat."
-        }
-      },
-      {
-        "question": {
-          "ko": "소음 축음기나 전용 기기가 없으면 어떻게 대체하나요?",
-          "en": "How can I replace special noise generators if I don't have dedicated equipment?",
-          "ja": "専用の騒音発生装置や機器がない場合はどう代替すればよいですか？",
-          "zh": "如果没有专门的白噪音生成器或专属设备，该如何替代？",
-          "es": "¿Cómo puedo reemplazar los generadores de ruido si no tengo equipo dedicado?",
-          "de": "Wie kann ich Geräuschgeneratoren ersetzen, wenn ich keine speziellen Geräte habe?",
-          "fr": "Comment remplacer des générateurs de bruit sans équipement dédié ?",
-          "pt": "Como posso substituir geradores de ruído se não tiver equipamento dedicado?",
-          "id": "Bagaimana cara mengganti generator kebisingan khusus jika tidak memiliki peralatan khusus?"
-        },
-        "answer": {
-          "ko": "이어폰으로 빠른 템포의 백색 소음, 기계음 앰비언트 사운드, 혹은 경쾌한 비트의 음악을 틀어놓고 몰입을 시작하는 것으로 대체 가능합니다.",
-          "en": "You can replace specialized devices by playing fast-tempo white noise, mechanical ambient audio, or upbeat instrumental tracks through regular earphones to initiate focus.",
-          "ja": "イヤホンでアップテンポのホワイトノイズ、機械音のアンビエントサウンド、あるいは軽快なビートの音楽を再生して没頭を開始することで十分に代替可能です。",
-          "zh": "可以通过耳机播放快速节奏的白噪音、机械声环境音，或者伴随轻快节奏的纯音乐来启动专注状态，完全可以替代专属设备。",
-          "es": "Puede reemplazar equipos dedicados reproduciendo ruido blanco de ritmo rápido, audio ambiental mecánico o pistas instrumentales a través de auriculares comunes para iniciar la concentración.",
-          "de": "Sie können spezielle Geräte ersetzen, indem Sie schnelles weißes Rauschen, mechanische Umgebungsgeräusche oder Instrumentalmusik über normale Kopfhörer abspielen, um den Fokus zu starten.",
-          "fr": "Vous pouvez facilement remplacer les appareils spécialisés en écoutant du bruit blanc rythmé, des sons d'ambiance mécaniques ou de la musique instrumentale avec des écouteurs ordinaires.",
-          "pt": "Você pode substituir dispositivos dedicados reproduzindo ruído branco acelerado, áudio ambiente mecânico ou faixas instrumentais através de fones de ouvido comuns para iniciar o foco.",
-          "id": "Anda dapat mengganti peralatan khusus dengan memutar white noise tempo cepat, audio ambien mekanis, atau trek instrumental melalui earphone biasa untuk memulai fokus."
-        }
-      }
-    ]
+    }
   }
 }

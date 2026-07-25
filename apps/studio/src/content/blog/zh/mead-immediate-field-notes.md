@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "防止记忆改写的记录：玛格丽特·米德的现场即时笔记习惯"
 description: "人类学家玛格丽特·米德在记忆发生扭曲前，便在现场将观察到的事实立即记录在便签本上。探讨超越工作记忆容量极限并防止偏见的“认知卸载”（Cognitive Offloading）神经学原理。"
 pubDate: "2026-03-18"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mead-immediate-field-notes 的内容基于 <strong>玛格丽特·米德历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>玛格丽特·米德历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 工作记忆的极限与认知卸载（Cognitive Offloading）
+## 1. 工作记忆的极限与认知卸载（Cognitive Offloading）
 
 当吸收新信息时，我们的大脑会将其保存在临时的“工作记忆”（Working Memory）空间里，但该空间的容量极其有限，仅能容纳7个左右的信息块。随着时间的推移，大脑会根据现有的图式（已有知识与偏见）随意填补并重构遗失的细节。若像米德那样在现场立刻使用纸笔将信息转移至外部记录介质（即“认知卸载”），大脑就能封堵主观的记忆篡改，超越大脑容量局限并提取出极其客观的数据。
 
 ---
 
-## 注意事项与技巧
-
-在练习即时记录习惯时，最常见的错误就是试图写出完美的句子或整洁的报告。如果在记录过程中过度在意拼写、语法或排版，大脑就会被迫开启校对与编辑过滤器，进而对瞬间捕获的原始数据进行加工与篡改。在进行即时速记时，只需快速狂草下原始关键词、语气与核心事实，至于修饰成漂亮的文句，应完全留到日后的“整理阶段”进行。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与技巧
+
+在练习即时记录习惯时，最常见的错误就是试图写出完美的句子或整洁的报告。如果在记录过程中过度在意拼写、语法或排版，大脑就会被迫开启校对与编辑过滤器，进而对瞬间捕获的原始数据进行加工与篡改。在进行即时速记时，只需快速狂草下原始关键词、语气与核心事实，至于修饰成漂亮的文句，应完全留到日后的“整理阶段”进行。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>可以用手机备忘录应用替代物理笔记本吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       完全可以。不过在使用手机时，建议开启请勿打扰模式以避免被新消息或社交媒体通知分散注意力，或者在主屏幕上添加能够直接唤醒速记的小组件，从而将记录延迟降至最低。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>一直开启录音笔，事后再集中整理记录的方法效果如何？</span>

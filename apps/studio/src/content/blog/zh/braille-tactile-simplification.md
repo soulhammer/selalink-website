@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "指尖的直觉与6点革新：路易·布莱叶的本质简化与组块化习惯"
 description: "探索路易·布莱叶如何将复杂的12点军用夜间文字简化为仅靠指尖一节即可感知的6点盲文，引发盲人知识获取革命，并揭示符合触觉信息接收极限的组块化（Chunking）与本质简化的神经科学原理。"
 pubDate: "2026-05-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 braille-tactile-simplification 的内容基于 <strong>C·迈克尔·梅洛传记《路易·布莱叶传（Louis Braille: A Touch of Genius）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>C·迈克尔·梅洛传记《路易·布莱叶传（Louis Braille: A Touch of Genius）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 工作记忆组块化（Chunking）与触觉感官分辨率极限的神经科学
+## 1. 工作记忆组块化（Chunking）与触觉感官分辨率极限的神经科学
 
 人类的工作记忆（Working Memory）与体感皮层（Somatosensory Cortex）在单次处理高分辨率信息量时存在明确的物理与认知极限。12点夜间文字超出了指尖触觉感受器（Tactile Receptors）的空间分辨率，给大脑施加了不必要的时空扫描过载。相反，布莱叶将字模裁减一半至6点的方式，完美契合了大胸将信息打包为单一认知单元的“组块化（Chunking）”机制。将复杂的工作流程拆解重组为3-5个核心单元，能急剧降低前额叶皮层的认知负荷，并最大化提升信息处理与决策速度。
 
 ---
 
-## 注意事项与提示：果断剔除附加要素与保留核心
-
-执行简化工作时最大的障碍，在于抱持“也许以后用得上”的执念而保留不必要的步骤。若企图兼顾所有例外情况与附加选项，系统便会重新变得复杂，降低认知灵活性。就像只凭一个指尖即可瞬间感知的6点字模一样，必须果断裁剪次要环节，仅保留决定整体产出80%精髓的核心要素。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：果断剔除附加要素与保留核心
+
+执行简化工作时最大的障碍，在于抱持“也许以后用得上”的执念而保留不必要的步骤。若企图兼顾所有例外情况与附加选项，系统便会重新变得复杂，降低认知灵活性。就像只凭一个指尖即可瞬间感知的6点字模一样，必须果断裁剪次要环节，仅保留决定整体产出80%精髓的核心要素。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在极简过程中害怕遗漏重要信息该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       可采用“两级分层（Two-tier）”策略：将裁撤的次要信息单独保存在“附录”或备份文件夹中，而在主工作区仅保留核心3-5个单元，以此建立认知心理安全感。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>这套本质简化与组块化体系能应用于团队工作流程吗？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "만능 지식의 단권화 수첩: 라이프니츠의 커먼플레이스 북 필기 습관과 시냅스 장기 강화(LTP)"
 description: "미적분을 발견한 천재 학자이자, 모든 지식과 영감을 한 권의 범주화된 수첩에 단권화했던 라이프니츠. 정보를 맥락화하여 장기 강화(LTP)를 유도하고 의미론적 연결망(Semantic Network)을 구축하여 아이디어의 교차 융합을 촉진하는 신경인지적 원리와 3단계 실천 가이드를 밝힙니다."
 pubDate: "2026-02-27"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>고트프리트 빌헬름 라이프니츠 평전 및 라이프니츠 아카이브(Leibniz-Archiv) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 근거하여 leibniz-universal-notebook 루틴을 다룹니다.
+      본 콘텐츠는 <strong>고트프리트 빌헬름 라이프니츠 평전 및 라이프니츠 아카이브(Leibniz-Archiv) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 시냅스 장기 강화(LTP)와 의미론적 연결망(Semantic Network)의 뇌과학
+## 1. 시냅스 장기 강화(LTP)와 의미론적 연결망(Semantic Network)의 뇌과학
 
 인간의 대뇌 피질은 단편적인 정보를 수집할 때보다 기존 지식 인덱스와 유기적으로 엮이는 <strong>의미론적 연결망(Semantic Network)</strong>을 구축할 때 정보 인출 속도가 기하급수적으로 높아집니다. 지식을 단 한 권의 노트에 범주화하여 수동으로 적는 행위는 뇌의 시냅스 자극을 지속시켜 신경 전달 효율을 극대화하는 <strong>장기 강화(Long-Term Potentiation, LTP)</strong> 현상을 유발합니다. 이 과정에서 서로 다른 학문 영역의 정보들이 한 공간에서 교차 연결되며 <strong>전전두엽(Prefrontal Cortex)</strong>의 고차원적 통찰과 독창적인 아이디어 융합을 이끌어냅니다.
 
 ---
 
-## 노트 파편화를 배제하고 단권화 단일 시스템(Single Notebook)을 고수하는 수칙
-
-커먼플레이스 북의 가장 큰 함정은 노트를 용도별로 다각화하여 여러 권으로 분리하는 것입니다. 독서 노트, 업무 노트, 일상 노트로 매체를 파편화하면 뇌는 인출 과정에서 인지적 병목(Cognitive Bottleneck)을 겪고 교차 융합의 기회가 소실됩니다. 모든 생각과 지식은 단 한 권의 영구 노트에 축적하고, 범주 태그(Tag)로만 분류해야 정보 간의 의미망 시너지가 발휘됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 노트 파편화를 배제하고 단권화 단일 시스템(Single Notebook)을 고수하는 수칙
+
+커먼플레이스 북의 가장 큰 함정은 노트를 용도별로 다각화하여 여러 권으로 분리하는 것입니다. 독서 노트, 업무 노트, 일상 노트로 매체를 파편화하면 뇌는 인출 과정에서 인지적 병목(Cognitive Bottleneck)을 겪고 교차 융합의 기회가 소실됩니다. 모든 생각과 지식은 단 한 권의 영구 노트에 축적하고, 범주 태그(Tag)로만 분류해야 정보 간의 의미망 시너지가 발휘됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>커먼플레이스 북을 디지털 도구(노션, 옵시디언 등)로 실천해도 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 디지털 도구는 검색과 링크 연결에 매우 유용합니다! 다만 페이지나 폴더를 여러 곳으로 무분별하게 쪼개기보다, 단 하나의 보드나 단권화 데이터베이스에 날짜와 범주 태그를 달아 한곳에 축적하는 라이프니츠식 시스템을 구현하는 것이 핵심입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>수첩 한 권에 모든 정보를 적다 보면 내용이 너무 무질서해지지 않나요?</span>

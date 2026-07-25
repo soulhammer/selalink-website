@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "16,000 Entradas Numeradas: La Rutina de Cuaderno de Precisión y Externalización Cognitiva de Michael Faraday"
 description: "Descubra cómo el físico Michael Faraday catalogó más de 16,000 entradas de experimentos numeradas. Explore la neurociencia cognitiva de la externalización del conocimiento y la preservación de la memoria de trabajo."
 pubDate: "2026-02-24"
@@ -38,22 +39,20 @@ En la publicación de hoy, examinamos la neurociencia cognitiva detrás de la t�
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre faraday-numbered-notebook se basa en <strong>Verificación Histórica de *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Michael Faraday's Diary* (ed. Thomas Martin / Frank A.J.L. James) e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cómo la Indexación y la Externalización Cognitiva Preservan la Memoria de Trabajo
+## 1. Cómo la Indexación y la Externalización Cognitiva Preservan la Memoria de Trabajo
 
 La <strong>Memoria de Trabajo</strong> del cerebro tiene un ancho de banda muy limitado. Mantener información desestructurada genera sobrecarga cognitiva, reduciendo la capacidad analítica. Sin embargo, adoptar el sistema de numeración e indexación de Faraday —ejemplo clave de <strong>'Externalización Cognitiva (Cognitive Offloading)'</strong>— ahorra energía de búsqueda mental. Al trasladar el conocimiento estático a un soporte externo, los recursos prefrontales se liberan por completo para el razonamiento complejo.
 
 ---
 
-## Precaución: Priorice la Buscabilidad sobre el Volumen de Notas
-
-Aumentar el volumen de notas resulta contraproducente si no se garantiza la buscabilidad. Transcribir información sin indexar genera desorden físico o digital, aumentando la confusión. Para replicar el éxito de Faraday, cree un índice en la primera página o etiquete las entradas con palabras clave para que se puedan recuperar en menos de 3 segundos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Aumentar el volumen de notas resulta contraproducente si no se garantiza la busc
   </p>
 </div>
 
+---
+
+## 3. Precaución: Priorice la Buscabilidad sobre el Volumen de Notas
+
+Aumentar el volumen de notas resulta contraproducente si no se garantiza la buscabilidad. Transcribir información sin indexar genera desorden físico o digital, aumentando la confusión. Para replicar el éxito de Faraday, cree un índice en la primera página o etiquete las entradas con palabras clave para que se puedan recuperar en menos de 3 segundos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es útil la numeración secuencial si utilizo aplicaciones de notas digitales?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Aumentar el volumen de notas resulta contraproducente si no se garantiza la busc
       Sí, absolutamente. Asignar números únicos en un entorno digital ofrece enormes ventajas. Aunque la búsqueda de palabras clave puede fallar si olvida los términos exactos, un ID único (p. ej., #042) crea un ancla absoluta para enlaces de retroceso y referencias cruzadas entre documentos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo debo manejar la numeración cuando mezclo diarios, proyectos y proyectos personales?</span>

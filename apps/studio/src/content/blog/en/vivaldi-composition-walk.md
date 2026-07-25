@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Genius Who Wrote Orchestral Scores Walking Canal Bridges: Antonio Vivaldi's Inspiration Capture Routine"
 description: "Baroque master Antonio Vivaldi created over 500 concertos including 'The Four Seasons'. Explore the neuroscientific principle and 3-step practical guide behind his dawn walk and rapid inspiration capture routine."
 pubDate: "2026-06-24"
@@ -36,14 +37,14 @@ In this post, we reveal the neuroscientific mechanics behind Vivaldi's dawn walk
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding vivaldi-composition-walk is based on <strong>Historical and Biographical Records of Antonio Vivaldi & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical and Biographical Records of Antonio Vivaldi & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sensory Input and the Speed of Capture Mechanism for Fleeting Ideas
+## 1. Sensory Input and the Speed of Capture Mechanism for Fleeting Ideas
 
 Rich physical stimuli from a dawn walk refresh the visual and auditory cortices, triggering associative linkages dormant in memory. However, creative flashes have an extremely short retention window in the prefrontal working memory, often dissolving in just 1 to 2 minutes.
 
@@ -51,9 +52,7 @@ Vivaldi's rapid capture routine bypasses hesitation or perfectionist censoring b
 
 ---
 
-## Beware of Perfectionist Censorship and Hesitation During Idea Capture
-
-The moment you rationally censor yourself asking 'Is this idea really good?', your brain loses the inspiration. In the initial capture phase, dump 100% of raw ideas onto paper without judgment or editing.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The moment you rationally censor yourself asking 'Is this idea really good?', yo
   </p>
 </div>
 
+---
+
+## 3. Beware of Perfectionist Censorship and Hesitation During Idea Capture
+
+The moment you rationally censor yourself asking 'Is this idea really good?', your brain loses the inspiration. In the initial capture phase, dump 100% of raw ideas onto paper without judgment or editing.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if quick notes taken while walking make no sense when reviewed later?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The moment you rationally censor yourself asking 'Is this idea really good?', yo
       It is essential to review and flesh out quick notes within 1 to 2 hours of capturing them. Minimizing the gap between capture and refinement preserves sensory memory traces.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Any tips if recording voice memos in public feels awkward due to people watching?</span>

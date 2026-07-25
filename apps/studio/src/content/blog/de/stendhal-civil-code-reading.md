@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Trockenes Aufwärmen zur Abkühlung des Gehirns: Stendhals Gewohnheit, das französische Zivilgesetzbuch zu lesen"
 description: "Stendhal, ein Meister der realistischen Literatur, der die menschliche Psychologie ohne schnörkelhafte Rhetorik analysierte. Wir analysieren seine kognitive Aufwärmgewohnheit, täglich vor dem Schreiben das französische Zivilgesetzbuch zu lesen, um Objektivität und Logik zu maximieren."
 pubDate: "2026-02-08"
@@ -29,25 +30,23 @@ Stendhal (bürgerlich Henri Beyle, 1783–1842) war ein Meister der französisch
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu stendhal-civil-code-reading basiert auf <strong>Historische Biographieschriften und autobiographische Aufzeichnungen zu Stendhals Zivilgesetzbuch-Lektüre & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biographieschriften und autobiographische Aufzeichnungen zu Stendhals Zivilgesetzbuch-Lektüre & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Linguistischer Priming-Effekt und Blockierung emotionaler Kognition
+## 1. Linguistischer Priming-Effekt und Blockierung emotionaler Kognition
 
 Gemäß dem Priming-Effekt in der Kognitionswissenschaft aktiviert das Gehirn nach der Exposition gegenüber spezifischen Informationen unbewusst ähnliche Muster bei nachfolgenden kognitiven Aufgaben. Dass Stendhal direkt vor dem Schreiben die trockenen und faktischen Sätze des Zivilgesetzbuches las, entsprach einer Einstellung der Sprachkontrollregion des Gehirns auf einen objektivitäts- und logikorientierten Modus. Dieser Reiz veranlasst das Gehirn zur kognitiven Inhibition subjektiver Emotionalität und unterstützt klares Schreiben auf Basis von Fakten.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Achten Sie bei der Anwendung dieser Gewohnheit darauf, sich nicht zu sehr in komplexe Inhalte oder rechtliche Analysen zu vertiefen. Wenn Sie sich tief in Präzedenzfälle oder Gesetzesinterpretationen vertiefen, riskieren Sie, dass die präfrontalen kognitiven Ressourcen vor dem Schreiben erschöpft werden (Cognitive Depletion). Das Wesen dieser Routine liegt nicht im Erwerb von Rechtswissen, sondern im visuellen Wahrnehmen der prägnanten Satzstruktur. Scannen Sie die schnörkellose Satzform daher leicht ab, ohne das Thema zu verkopfen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Achten Sie bei der Anwendung dieser Gewohnheit darauf, sich nicht zu sehr in kom
     Schließen Sie nach den 10 Minuten das Buch sofort, bevor Sie aufs Smartphone schauen, und beginnen Sie mit Ihrem Entwurf. Nutzen Sie den im Gehirn verankerten nüchternen Rhythmus, um zügig zu schreiben.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Achten Sie bei der Anwendung dieser Gewohnheit darauf, sich nicht zu sehr in komplexe Inhalte oder rechtliche Analysen zu vertiefen. Wenn Sie sich tief in Präzedenzfälle oder Gesetzesinterpretationen vertiefen, riskieren Sie, dass die präfrontalen kognitiven Ressourcen vor dem Schreiben erschöpft werden (Cognitive Depletion). Das Wesen dieser Routine liegt nicht im Erwerb von Rechtswissen, sondern im visuellen Wahrnehmen der prägnanten Satzstruktur. Scannen Sie die schnörkellose Satzform daher leicht ab, ohne das Thema zu verkopfen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

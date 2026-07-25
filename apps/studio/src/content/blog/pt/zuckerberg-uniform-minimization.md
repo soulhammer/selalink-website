@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gerenciando a fadiga de decisão: O hábito do uniforme único de Mark Zuckerberg"
 description: "Mark Zuckerberg reduziu a fadiga de decisão vestindo a mesma camiseta e calça jeans todos os dias. Exploramos os princípios científicos para prevenir o 'esgotamento do ego'—um recurso energético finito do cérebro—e focar nas decisões fundamentais."
 pubDate: "2026-06-12"
@@ -31,25 +32,23 @@ Mark Zuckerberg é o fundador e CEO da Meta, um império de mídia social que co
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre zuckerberg-uniform-minimization é baseada em <strong>Biografias históricas e registros autobiográficos sobre a minimização do uniforme de Zuckerberg e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos sobre a minimização do uniforme de Zuckerberg e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Proteção dos recursos finitos de glicose do cérebro e prevenção do esgotamento do ego
+## 1. Proteção dos recursos finitos de glicose do cérebro e prevenção do esgotamento do ego
 
 A energia utilizada pelo córtex pré-frontal ao tomar decisões é finita. Conforme as escolhas se acumulam, as células cerebrais consomem glicose e oxigênio, levando à redução do controle executivo conhecida como 'Esgotamento do Ego' (Ego Depletion). Escolhas banais como 'o que vestir hoje?' drenam o orçamento executivo do cérebro. Ao automatizar processos cotidianos através de um uniforme único como Zuckerberg, o córtex pré-frontal preserva sua reserva de glicose para decisões estratégicas essenciais, aumentando significativamente a qualidade de cada escolha.
 
 ---
 
-## Precauções e dicas
-
-Um erro comum ao adotar a rotina de uniforme único é se estressar com a percepção alheia sobre a consistência das suas roupas. Se você se obcecar com estilo ou perfeição estética, criará uma nova carga psicológica para o cérebro, aumentando a fadiga de decisão em vez de reduzi-la. O ponto essencial é escolher um estilo simples e confortável que não exija nenhum pensamento consciente, libertando a mente de avaliações externas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Um erro comum ao adotar a rotina de uniforme único é se estressar com a percep
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Um erro comum ao adotar a rotina de uniforme único é se estressar com a percepção alheia sobre a consistência das suas roupas. Se você se obcecar com estilo ou perfeição estética, criará uma nova carga psicológica para o cérebro, aumentando a fadiga de decisão em vez de reduzi-la. O ponto essencial é escolher um estilo simples e confortável que não exija nenhum pensamento consciente, libertando a mente de avaliações externas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Se eu usar a mesma roupa todos os dias, como lidar com reuniões importantes ou ocasiões formais?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Um erro comum ao adotar a rotina de uniforme único é se estressar com a percep
       Mark Zuckerberg também usa terno em eventos oficiais e reuniões de diretoria. O essencial do uniforme é eliminar escolhas banais, então predefinir uma combinação social para ocasiões formais permite que você a vista sem esforço e evite a fadiga.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Posso criar um uniforme com outras peças de roupa além de camisetas e jeans?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pablo Nerudas Grüne-Tinte-Schreibmethode: Erweckung des kreativen Gehirn-Flows durch Farbl Wellenlängen"
 description: "Untersucht, warum Nobelpreisträger Pablo Neruda sein Leben lang Gedichte ausschließlich mit grüner Tinte schrieb, und erläutert die kognitiv-farbpsychologischen Prinzipien, mit denen grüne Lichtwellenlängen Alpha-Wellen im Gehirn anregen."
 pubDate: "2026-05-16"
@@ -35,25 +36,23 @@ Während die grüne Tinte das weiße Papier leuchtend tränkte, erlebte Neruda e
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu neruda-green-ink-flow basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Nerudas Grüner Tinte & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Nerudas Grüner Tinte & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Warum grüne Lichtwellenlängen die visuelle Ermüdung reduzieren und Alpha-Wellen im Gehirn stimulieren
+## 1. Warum grüne Lichtwellenlängen die visuelle Ermüdung reduzieren und Alpha-Wellen im Gehirn stimulieren
 
 Forschungen der kognitiven Farbpsychologie und Neurowissenschaften zufolge stellt das grüne Lichtspektrum (520–550 nm) den natürlichen Farbbereich dar, der die geringste Belastung auf Netzhaut und visuellen Kortex ausübt. Diese visuelle Entlastung regt Alpha-Wellen im Gehirn an und leitet einen mühelosen, hochfokussierten Flow-Zustand (Flow State) ein.
 
 ---
 
-## Vorsichtsmaßnahmen und Immersionstipps zu Nerudas Gewohnheit
-
-Wenn Sie das Schreiben mit grüner Tinte aktivieren, verbeißen Sie sich nicht in Rechtschreibung oder perfekte Satzstrukturen. Entscheidend ist, die Hand 10 Minuten lang ununterbrochen in Bewegung zu halten, während die Inspiration aus dem Gehirn fließt. Verlassen Sie sich nicht allein auf Willenskraft; das vorherige Gestalten physischer Umgebungen und Gewohnheitssignale ist der Schlüssel zur Nachhaltigkeit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Wenn Sie das Schreiben mit grüner Tinte aktivieren, verbeißen Sie sich nicht i
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen und Immersionstipps zu Nerudas Gewohnheit
+
+Wenn Sie das Schreiben mit grüner Tinte aktivieren, verbeißen Sie sich nicht in Rechtschreibung oder perfekte Satzstrukturen. Entscheidend ist, die Hand 10 Minuten lang ununterbrochen in Bewegung zu halten, während die Inspiration aus dem Gehirn fließt. Verlassen Sie sich nicht allein auf Willenskraft; das vorherige Gestalten physischer Umgebungen und Gewohnheitssignale ist der Schlüssel zur Nachhaltigkeit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Erzielt die Verwendung eines grünen Themes in einem digitalen Editor dieselbe Wirkung wie das Schreiben auf Papier?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Wenn Sie das Schreiben mit grüner Tinte aktivieren, verbeißen Sie sich nicht i
       Ja, absolut. Da der visuelle Kortex Lichtwellenlängen wahrnimmt, rufen beruhigende dunkelgrüne Themes auf digitalen Bildschirmen denselben Alpha-Wellen-Induktionseffekt hervor wie analoge Tinte.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Warum führen schwarze Tinte oder kontrastreiche Schwarz-Weiß-Bildschirme manchmal zu Schreibblockaden?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pablo Neruda's Green Ink Writing Method: Awakening Brain Flow via Color Wavelengths"
 description: "Explores why Nobel laureate Pablo Neruda wrote poetry exclusively in green ink throughout his life and the cognitive color psychology principles of green light wavelengths inducing brain Alpha Waves."
 pubDate: "2026-05-16"
@@ -38,22 +39,20 @@ As green ink vividly saturated the white paper, Neruda experienced a poetic flow
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding neruda-green-ink-flow is based on <strong>Neruda Green Ink Flow historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Neruda Green Ink Flow historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why Green Light Wavelengths Reduce Visual Fatigue and Stimulate Brain Alpha Waves
+## 1. Why Green Light Wavelengths Reduce Visual Fatigue and Stimulate Brain Alpha Waves
 
 According to research in cognitive color psychology and neuroscience, the green light spectrum (520–550nm) represents the natural color zone that exerts the lowest stress on the retina and visual cortex. This visual comfort induces neural Alpha Waves, triggering an effortless, highly focused Flow State.
 
 ---
 
-## Neruda Habit Cautions and Immersion Tips
-
-When activating green ink writing, do not obsess over spelling or flawless sentence structure. The key is to keep your hand moving continuously for 10 minutes as inspiration flows from the brain. Do not rely solely on raw willpower; designing physical environments and habit cues in advance that naturally trigger action is crucial for sustainability.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When activating green ink writing, do not obsess over spelling or flawless sente
   </p>
 </div>
 
+---
+
+## 3. Neruda Habit Cautions and Immersion Tips
+
+When activating green ink writing, do not obsess over spelling or flawless sentence structure. The key is to keep your hand moving continuously for 10 minutes as inspiration flows from the brain. Do not rely solely on raw willpower; designing physical environments and habit cues in advance that naturally trigger action is crucial for sustainability.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does using a green theme on a digital editor produce the same effect as paper writing?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When activating green ink writing, do not obsess over spelling or flawless sente
       Yes, it does. Because the visual cortex detects optical wavelengths, calm deep green themes on digital screens elicit the same Alpha Wave induction effect as analog ink.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Why do black ink or high-contrast monochrome screens sometimes trigger creative block?</span>

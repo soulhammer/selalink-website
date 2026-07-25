@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "完璧な注意集中力をつくる秘訣：哲学者シモーヌ・ヴェイユの朝の古典暗唱ルーティン"
 description: "フランスの哲学者シモーヌ・ヴェイユが注意力を鍛えるために実践した朝のギリシャ語古典暗唱ルーティンを紹介します。音読が前頭葉に与える科学的効果を解説します。"
 pubDate: "2026-07-11"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「weil-classical-recitation」は <strong>シモーヌ・ヴェイユの歴史的評伝・記録考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>シモーヌ・ヴェイユの歴史的評伝・記録考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 音読と暗唱が前頭前野に与える影響
+## 1. 音読と暗唱が前頭前野に与える影響
 
 外国語や古代文字で記された複雑な古典の文章を声に出して暗唱する行為は、脳の実行制御と認知調節を司る背外側前頭前野（Dorsolateral Prefrontal Cortex）を集中刺激します。単に目で読む黙読に比べ、音読は視覚（文字を読む）、運動（発音する）、聴覚（自分の声を聞く）皮質を同時に稼働させる「多感覚刺激」プロセスです。この多感覚同期は前頭葉の実行集中力を引き上げ、一日の始まりの頭の混濁（Brain Fog）をすっきりと取り除きます。
 
 ---
 
-## 音とテキストが響くプロセスそのものに注意を向ける
-
-シモーヌ・ヴェイユにとって朝の暗唱は一つの能動的な瞑想であり知的訓練でした。必ずしも古代ギリシャ語である必要はありません。毎朝目覚めて5分間、深いインスピレーションを与える短い叙情詩や哲学的な格言を声に出して音読してみてください。自分の声の波動と単語が伝える呼吸に完全に注意を固定する時、脳は最も強力な集中状態へと充電されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     音読が終わったらデスクで正しい姿勢で座り、目を閉じて2分間深呼吸をします。刺激が整った脳の準備状態を確認し、最初の仕事を開始します。
   </p>
 </div>
+
+---
+
+## 3. 音とテキストが響くプロセスそのものに注意を向ける
+
+シモーヌ・ヴェイユにとって朝の暗唱は一つの能動的な瞑想であり知的訓練でした。必ずしも古代ギリシャ語である必要はありません。毎朝目覚めて5分間、深いインスピレーションを与える短い叙情詩や哲学的な格言を声に出して音読してみてください。自分の声の波動と単語が伝える呼吸に完全に注意を固定する時、脳は最も強力な集中状態へと充電されます。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

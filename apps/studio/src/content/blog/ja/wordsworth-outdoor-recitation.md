@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "山道を歩きながら大声で詩を詠んだ詩人：ウィリアム・ワーズワースの歩行作詩法"
 description: "浪漫派詩人ウィリアム・ワーズワースは屋外を歩き、歩幅と速度に文章の息づかいを合わせて詩を完成させました。 リズム運動と小脳活性化が言語感覚を呼び覚ます科学的原理を探ります。"
 pubDate: "2026-02-06"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「wordsworth-outdoor-recitation」は <strong>ウィリアム・ワーズワースの歴史的伝記および自伝的記録考証＆認知神経科学研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ウィリアム・ワーズワースの歴史的伝記および自伝的記録考証＆認知神経科学研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## リズム歩行と構音・聴覚ループのシナジー
+## 1. リズム歩行と構音・聴覚ループのシナジー
 
 歩行時に足の裏の接触によって生じる規則的な運動信号は、脳の運動ループと周期をつかさどる<strong>小脳（Cerebellum）</strong>を強力に活性化します。小脳のリズム信号は大脳皮質の言語領域と即座に同期し、文章の抑揚（Prosody）や強弱を物理的に調整します。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 声に出して読むことの力
-
-目だけで文章を書く習慣は、読者にどのように読まれるか（構音的リズム）を把握しにくくし、文章を硬く乾燥したものにしてしまいます。スピーチ原稿や重要な提案書を書く際は、静かな場所で歩調を刻みながら声に出して校正することで、文章の伝達力が最大化されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 声に出して読むことの力
+
+目だけで文章を書く習慣は、読者にどのように読まれるか（構音的リズム）を把握しにくくし、文章を硬く乾燥したものにしてしまいます。スピーチ原稿や重要な提案書を書く際は、静かな場所で歩調を刻みながら声に出して校正することで、文章の伝達力が最大化されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ワーズワースの妹ドロシーは歩行作詩法をどのように記録しましたか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       彼女は日記で「ウィリアムは今朝、庭の小道を何百回も往復しながら詩を詠んでいた」と記し、彼の歩行速度と朗読する声のテンポが正確に比例して変化していた様子を鮮明に描写しました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>屋内のランニングマシン（トレッドミル）の上を歩きながら朗読しても効果はありますか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "唤醒大脑健康的步履：约翰·昆西·亚当斯的快走散步与省察记录惯例"
 description: "美国第6任总统约翰·昆西·亚当斯每天坚持5英里快走散步与夜间省察手写。探索刺激BDNF分泌的健康大脑习惯。"
 pubDate: "2026-04-06"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 adams-morning-walk 的内容基于 <strong>约翰·昆西·亚当斯历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>约翰·昆西·亚当斯历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 运动诱导性BDNF与认知省察的协同效应
+## 1. 运动诱导性BDNF与认知省察的协同效应
 
 保持微微喘气的快走散步能提高心率并向海马体区域供血，直接诱导脑源性神经营养因子（BDNF）的释放。该因子可修复脑细胞的突触连接并促进其生成。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 请根据膝关节与体力状况调节速度
-
-亚当斯每天进行5英里极快步幅的快走，但这是基于长期锻炼出的体力标准。现代人如果突然开始高强度的行走，可能会给膝关节或脊椎带来负担。根据自身的日常体力，从15分钟的轻度快走开始，循序渐进地增加时长与步幅，才是避免受伤的最佳途径。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 请根据膝关节与体力状况调节速度
+
+亚当斯每天进行5英里极快步幅的快走，但这是基于长期锻炼出的体力标准。现代人如果突然开始高强度的行走，可能会给膝关节或脊椎带来负担。根据自身的日常体力，从15分钟的轻度快走开始，循序渐进地增加时长与步幅，才是避免受伤的最佳途径。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>可以用室内跑步机快速跑步替代晨间散步吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       从有氧运动促进BDNF释放的角度来看是有效的。然而，相比于室内固定的环境，在处理室外视觉刺激（自然光、季节变化、不平整的路面）时，对于视觉皮层与平衡感区域的前额叶突触网络激活效果要大得多，因此强烈建议进行户外行走。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>将夜间省察日记写在手机备忘录App里效果是一样的吗？</span>

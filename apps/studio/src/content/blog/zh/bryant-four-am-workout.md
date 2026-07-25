@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "凌晨4点的奇迹：科比·布莱恩特的曼巴训练习惯"
 description: "探索篮球巨星科比·布莱恩特每天凌晨4点展开首轮训练的习惯，揭示每日固定早晨的高强度训练如何锚定昼夜节律并将身体活性推向巅峰的神经科学与生理学原理。"
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 bryant-four-am-workout 的内容基于 <strong>科比·布莱恩特自传《曼巴精神（The Mamba Mentality: How I Play）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>科比·布莱恩特自传《曼巴精神（The Mamba Mentality: How I Play）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 视交叉上核（SCN）重校准与运动神经唤醒的生理学机制
+## 1. 视交叉上核（SCN）重校准与运动神经唤醒的生理学机制
 
 每天在同一早晨固定时段展开身体运动与觉醒，会促使下丘脑的“视交叉上核（SCN，Suprachiasmatic Nucleus）”据此对生物钟进行精准对齐。1）SCN会在预设的凌晨时刻，即便在缺乏可见光刺激的情况下，也能提前启动皮质醇（Cortisol）分泌，并预先提升心功能与体温，从而消除刚起床时的睡眠惯性（Sleep Inertia）与运动神经迟钝。2）规律的高强度清晨运动能引导自主神经系统（Autonomic Nervous System）在早间进行代谢能量的优化分配，使神经肌肉敏捷度、心肺效率与执行控制功能达到白天的巅峰水平。
 
 ---
 
-## 注意事项与提示：保障总睡眠时长（7-8小时）与必备热身
-
-凌晨4点起床习惯绝对不能建立在牺牲睡眠的基础上。为保证凌晨4点顺畅起床，前提条件必须是前晚9点至10点之间入睡，确保7-8小时的刚性睡眠时间。在睡眠不足状态下硬撑早起，会导致中枢神经系统严重疲劳与免疫力下降。此外，晨起之初关节、韧带与血管处于僵硬状态，在开始主线活动前务必进行10分钟以上的动态热身与关节激活，以防运动损伤。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：保障总睡眠时长（7-8小时）与必备热身
+
+凌晨4点起床习惯绝对不能建立在牺牲睡眠的基础上。为保证凌晨4点顺畅起床，前提条件必须是前晚9点至10点之间入睡，确保7-8小时的刚性睡眠时间。在睡眠不足状态下硬撑早起，会导致中枢神经系统严重疲劳与免疫力下降。此外，晨起之初关节、韧带与血管处于僵硬状态，在开始主线活动前务必进行10分钟以上的动态热身与关节激活，以防运动损伤。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>周末或节假日也必须严格保持凌晨4点起床吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       为了实现昼夜节律的最佳生理校准，建议将周末与平时的起床时间偏差控制在1小时以内。周末若过度补觉沉睡，会导致SCN的生物钟发生紊乱，进而加重周一早起时的疲劳感。保持生物节律的一致性大有裨益。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>凌晨4点运动后立即开展智力工作（如工作、阅读），是否有助于提升大脑专注力？</span>

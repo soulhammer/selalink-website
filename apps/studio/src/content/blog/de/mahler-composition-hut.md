@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Macht der absoluten Isolation: Gustav Mahlers Komponierhäuschen-Routine"
 description: "Gustav Mahler, der Komponist, der sich jeden Sommer in einer Hütte in den Alpen isolierte, um monumentale Sinfonien zu schaffen. Untersucht die Raumpsychologie der Immersion, die externe Reize blockiert, um in den Zustand der 'Deep Work' einzutreten."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Dieser Beitrag untersucht, wie Mahlers Komponierhäuschen-Routine kognitive Übe
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu mahler-composition-hut basiert auf <strong>Historische Quellenforschung zu Gustav Mahlers Komponierhäuschen & kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Quellenforschung zu Gustav Mahlers Komponierhäuschen & kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Maximierung der präfrontalen Kapazität durch Blockieren unnötiger Reize
+## 1. Maximierung der präfrontalen Kapazität durch Blockieren unnötiger Reize
 
 Moderne Wissensarbeiter leiden unter Informationsüberlastung durch digitale Benachrichtigungen, Lärm und Gespräche. Der präfrontale Kortex verbraucht enorme kognitive Energie, um unnötige Reize zu unterdrücken. Mahlers physische Isolation eliminiert diese 'inhibitorische kognitive Belastung'. Die ruhige Natur stabilisiert das Dopaminsystem, baut Stress ab und ermöglicht es, 100 % des Arbeitsgedächtnisses auf komplexe Architekturen und künstlerische Intuition zu konzentrieren.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Eine mögliche Nebenwirkung absoluter Isolation ist soziale Einsamkeit und kognitive Stagnation. Zu lange Isolation ohne Austausch verengt die Perspektive und kann Niedergeschlagenheit fördern. Begrenzen Sie isolierte Arbeitsphasen daher auf maximal 3–4 Stunden pro Tag für intensive 'Deep Work' und sorgen Sie danach durch soziale Kontakte für ein emotionales Gleichgewicht.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Eine mögliche Nebenwirkung absoluter Isolation ist soziale Einsamkeit und kogni
     Machen Sie nach der tiefen Arbeitsphase einen Spaziergang oder eine Pause, damit das Gehirn in das Default Mode Network (DMN) schaltet und Ideen verarbeitet.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Eine mögliche Nebenwirkung absoluter Isolation ist soziale Einsamkeit und kognitive Stagnation. Zu lange Isolation ohne Austausch verengt die Perspektive und kann Niedergeschlagenheit fördern. Begrenzen Sie isolierte Arbeitsphasen daher auf maximal 3–4 Stunden pro Tag für intensive 'Deep Work' und sorgen Sie danach durch soziale Kontakte für ein emotionales Gleichgewicht.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

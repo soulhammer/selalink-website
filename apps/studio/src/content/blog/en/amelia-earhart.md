@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Earhart's Cognitive Control Training: Immersed in Instrument Readings Even in the Cockpit Mid-Storm"
 description: "The first female aviator to successfully cross the Atlantic solo, she quelled flight anxiety by precisely scraping weather data and wind variations every morning."
 pubDate: "2026-01-31"
@@ -34,22 +35,20 @@ In today's post, we introduce the cognitive science principles behind her habit 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding amelia-earhart is based on <strong>Historical Verification from Amelia Earhart's Autobiography *The Fun of It* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Amelia Earhart's Autobiography *The Fun of It* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analysis of Brain Science Principles That Drive Success
+## 1. Analysis of Brain Science Principles That Drive Success
 
 In crisis situations or anxious work environments, suppressing the arousal of the emotional brain (amygdala) and anchoring judgments onto physical metrics dramatically activates the brain's prefrontal Cognitive Control network. The process of rapidly converting collected instrument data into text and meta-analyzing it controls cortisol hormone secretion and acts as a powerful mechanism that induces optimal, error-free decision-making without panicking in complex business environments.
 
 ---
 
-## Behavioral Science Advice for Successful Habit Settlement
-
-Do not become overly obsessed with numerical analysis by setting daily goals that are too verbose. Focus solely on staring at just 3 cold instrument numbers to overlay a clear map of factual information onto your brain. Rather than relying recklessly on willpower alone, designing a physical environment and habit cues in advance where action is naturally triggered is the core of sustainability.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Do not become overly obsessed with numerical analysis by setting daily goals tha
   </p>
 </div>
 
+---
+
+## 3. Behavioral Science Advice for Successful Habit Settlement
+
+Do not become overly obsessed with numerical analysis by setting daily goals that are too verbose. Focus solely on staring at just 3 cold instrument numbers to overlay a clear map of factual information onto your brain. Rather than relying recklessly on willpower alone, designing a physical environment and habit cues in advance where action is naturally triggered is the core of sustainability.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does the instrument panel training work immediately even when work is stuck and impatience sets in?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Do not become overly obsessed with numerical analysis by setting daily goals tha
       Yes, it works immediately. When impatience arises, the brain overactivates the amygdala. At this moment, writing down physical numbers such as remaining messenger notifications or deadline minutes dispassionately on paper activates the brain's top-down cognitive control network, stabilizing your emotions.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Which numbers are most recommended to designate as flight instrument variables?</span>

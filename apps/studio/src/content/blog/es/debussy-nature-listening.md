@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Secreto de Inspiración de 'Clair de Lune': La Escucha de Sonidos Naturales al Amanecer y la Inducción de Ondas Alfa de Claude Debussy"
 description: "Descubra cómo el maestro impresionista Claude Debussy escuchaba la brisa forestal y el agua al amanecer para crear melodías inmortales. Explore la neurociencia cognitiva de cómo el ruido rosa natural induce ondas alfa y potencia la creatividad."
 pubDate: "2026-03-27"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre debussy-nature-listening se basa en <strong>Verificación Histórica de la Biografía de François Lesure *Claude Debussy* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de François Lesure *Claude Debussy* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Inducción de Ondas Alfa Corticales y Relajación Parasimpática Mediante el Ruido Rosa Natural
+## 1. Inducción de Ondas Alfa Corticales y Relajación Parasimpática Mediante el Ruido Rosa Natural
 
 El ruido urbano artificial sobreestimula la corteza auditiva, atrapando al cerebro en estados de Ondas Beta de alta frecuencia y activación simpática. Por el contrario, enfocar la atención en el 'Ruido Rosa' natural —caracterizado por una distribución de energía espectral $1/f$, como el viento entre el follaje o el agua fluyendo— cambia los ritmos cerebrales a Ondas Alfa de 8–12 Hz. Esta relajación auditiva promueve disparos asociativos entre cortezas, liberando la creatividad.
 
 ---
 
-## Precauciones y Consejos: Eliminar Sonidos Artificiales y Centrarse en la Textura Acústica
-
-Para experimentar los beneficios de la escucha de la naturaleza, elimine el audio lingüístico o artificial (música, podcasts, noticias). No deje que los sonidos le envuelvan de forma pasiva. En su lugar, practique la 'Escucha Sensorial Activa': dedique 5 minutos a aislar y diferenciar texturas acústicas sutiles (el tono del viento, el ritmo del agua). Esto limpia la sobrecarga prefrontal e induce ondas alfa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para experimentar los beneficios de la escucha de la naturaleza, elimine el audi
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Eliminar Sonidos Artificiales y Centrarse en la Textura Acústica
+
+Para experimentar los beneficios de la escucha de la naturaleza, elimine el audio lingüístico o artificial (música, podcasts, noticias). No deje que los sonidos le envuelvan de forma pasiva. En su lugar, practique la 'Escucha Sensorial Activa': dedique 5 minutos a aislar y diferenciar texturas acústicas sutiles (el tono del viento, el ritmo del agua). Esto limpia la sobrecarga prefrontal e induce ondas alfa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué puedo hacer si vivo en el centro de una ciudad sin parques ni bosques cercanos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para experimentar los beneficios de la escucha de la naturaleza, elimine el audi
       Si el acceso al aire libre es limitado, abra una ventana temprano por la mañana para concentrarse en el viento y el silencio, o use auriculares para reproducir audio de Ruido Rosa $1/f$ de alta calidad (lluvia, bosque o mar) durante 5 minutos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Esta rutina es efectiva si se practica por la tarde durante el trabajo en lugar del amanecer?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Building an Unshakable Self Through Writing: Eleanor Roosevelt's Evening Reflection Routine"
 description: "Eleanor Roosevelt, one of America's most influential First Ladies. Reveals her 27-year daily evening journaling routine that established self-identity and its metacognitive benefits."
 pubDate: "2026-03-18"
@@ -38,22 +39,20 @@ In today's post, we share the neuroscience benefits of Eleanor Roosevelt's lifel
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding roosevelt-my-day-column is based on <strong>Historical biography and autobiographical research on Eleanor Roosevelt & Cognitive Neuroscience studies</strong>.
+      This content is based on <strong>Historical biography and autobiographical research on Eleanor Roosevelt & Cognitive Neuroscience studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Consolidation of Memory and Promotion of Cognitive Metacognition
+## 1. Consolidation of Memory and Promotion of Cognitive Metacognition
 
 When experiences and emotions during the day are left unorganized, they overstimulate the amygdala, turning into stress memories or consuming working memory capacity. Structuring the day's flow through writing activates the <strong>Hippocampus</strong>, transferring episodic memories into stable long-term memory. Furthermore, translating events and emotions into objective words stimulates the frontal cortex, dramatically boosting <strong>Metacognition</strong>—the ability to view oneself from a 3rd-person perspective, tempering emotional impulsivity.
 
 ---
 
-## Maintain Contemplative Calmness Over Idealized Goals
-
-Forcing toxic positivity or recording heavy, unachievable plans creates cognitive stress and sabotages journaling. As Eleanor did, calmly review physical facts and encounters, recording your internal state naturally with comfortable ease.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Forcing toxic positivity or recording heavy, unachievable plans creates cognitiv
   </p>
 </div>
 
+---
+
+## 3. Maintain Contemplative Calmness Over Idealized Goals
+
+Forcing toxic positivity or recording heavy, unachievable plans creates cognitive stress and sabotages journaling. As Eleanor did, calmly review physical facts and encounters, recording your internal state naturally with comfortable ease.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if my daily journal entries feel repetitive every day?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Forcing toxic positivity or recording heavy, unachievable plans creates cognitiv
       Even in routine days, try capturing one tiny variation each day—a person encountered, taste of food, or scent of weather. The attempt to find subtle differences itself develops brain attention and trains metacognition.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it equally effective to use digital journaling apps or Notion?</span>

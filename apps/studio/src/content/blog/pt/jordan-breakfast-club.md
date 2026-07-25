@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Configuração Mental Inabalável às 6h: O Clube do Café da Manhã de Michael Jordan e o Efeito Vencedor"
 description: "Descubra como a lenda do basquete Michael Jordan superou limites físicos e mentais com sua rotina das 6h 'Breakfast Club'. Explore a neurociência do Efeito Vencedor, picos de dopamina e testosterona, e um guia prático de 3 passos."
 pubDate: "2026-01-16"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva e a fisiologia do exerc�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre jordan-breakfast-club é baseada em <strong>Verificação Histórica da Autobiografia de Michael Jordan *Driven from Within*, Biografias e Pesquisa em Neurociência Cognitiva e Fisiologia do Exercício</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Michael Jordan *Driven from Within*, Biografias e Pesquisa em Neurociência Cognitiva e Fisiologia do Exercício</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O Efeito Vencedor e a Neurociência da Dopamina e Testosterona
+## 1. O Efeito Vencedor e a Neurociência da Dopamina e Testosterona
 
 Concluir um desafio físico exigente no início da manhã estimula o cérebro a liberar <strong>dopamina</strong> e <strong>testosterona</strong>. Isso ativa o <strong>Efeito Vencedor (Winner Effect)</strong>, uma alça de retroalimentação positiva que eleva a iniciativa e a confiança ao longo do dia. Além disso, treinar e compartilhar uma refeição com parceiros estimula a <strong>oxitocina</strong>, reforçando a coesão e a consistência da rotina.
 
 ---
 
-## Precaução: Reduza a Fricção Pré-frontal Evitando a Hesitação Emocional
-
-O segredo para manter uma rotina matinal é agir de forma automática sem depender do estado de espírito. Não dê tempo ao cérebro para ponderar entre continuar dormindo ou levantar. Ao soar o alarme, mova o corpo imediatamente para minimizar a fricção cognitiva pré-frontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O segredo para manter uma rotina matinal é agir de forma automática sem depend
   </p>
 </div>
 
+---
+
+## 3. Precaução: Reduza a Fricção Pré-frontal Evitando a Hesitação Emocional
+
+O segredo para manter uma rotina matinal é agir de forma automática sem depender do estado de espírito. Não dê tempo ao cérebro para ponderar entre continuar dormindo ou levantar. Ao soar o alarme, mova o corpo imediatamente para minimizar a fricção cognitiva pré-frontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como pessoas noturnas que têm dificuldade para acordar cedo podem adaptar essa rotina?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O segredo para manter uma rotina matinal é agir de forma automática sem depend
       O segredo não é o horário exato das 6h, mas 'concluir um treino exigente imediatamente ao acordar'. Independentemente da sua hora de acordar, realizar um treino intenso logo ao se levantar garante os mesmos benefícios hormonais e de confiança.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O treino diário de alta intensidade não causa overtraining ou lesões?</span>

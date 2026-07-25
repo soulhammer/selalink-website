@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "平抚浮躁内心的精密法门：白凡金九的书法冥想习惯与精细运动控制"
 description: "深度剖析领导大韩民国临时政府的白凡金九如何借由书法开展修心与意志淬炼。揭示毛笔书写精细运动控制（Fine Motor Control）平抚焦虑应激、沉淀杏仁核警报的神经科学原理与3步骤指南。"
 pubDate: "2026-02-06"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 kimgu-brush-meditation 的内容基于 <strong>金九自传《白凡逸志》与大韩民国临时政府档案考证及认知神经科学（Cognitive Neuroscience）与运动控制学（Motor Control Science）研究</strong> 撰写。
+      本内容基于 <strong>金九自传《白凡逸志》与大韩民国临时政府档案考证及认知神经科学（Cognitive Neuroscience）与运动控制学（Motor Control Science）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 精细运动控制（Fine Motor Control）与平抚杏仁核（Amygdala）神经科学原理
+## 1. 精细运动控制（Fine Motor Control）与平抚杏仁核（Amygdala）神经科学原理
 
 在执行如毛笔书法这般精细厘定手部力度与角度的<strong>“精细运动控制（Fine Motor Control）”</strong>之际，大脑会极强拉动<strong>体感皮层（Somatosensory Cortex）</strong>与<strong>运动皮层（Motor Cortex）</strong>。当大脑神经算力全情聚焦于指尖物理层面的微观操控时，诱发焦虑与恐惧警报的感情枢纽——<strong>杏仁核（Amygdala）</strong>的异常过载应激将被物理性强效抑制。此外，以恒定速率研墨或划线平稳下笔的节律刺激，能强力拉动<strong>副交感神经系统（Parasympathetic Nervous System）</strong>，大幅压低应激激素<strong>皮质醇（Cortisol）</strong>浓度并平稳沉淀心率。
 
 ---
 
-## 注意事项：摒弃急功近利成败心，全情沉浸于指尖微观触感指南
-
-当内心纷乱不安之际，切勿急功近利地四处寻找破局破答或执念于字迹的美观雅致。须将意识死死定格于笔尖触碰纸面瞬间的物理摩擦感与划线手作动作本身。唯有沉浸于过程本身的触觉体验，方能镇平焦虑并重获清明的前额叶觉醒。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：摒弃急功近利成败心，全情沉浸于指尖微观触感指南
+
+当内心纷乱不安之际，切勿急功近利地四处寻找破局破答或执念于字迹的美观雅致。须将意识死死定格于笔尖触碰纸面瞬间的物理摩擦感与划线手作动作本身。唯有沉浸于过程本身的触觉体验，方能镇平焦虑并重获清明的前额叶觉醒。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>书法在神经科学原理上究竟如何帮助缓解压力与舒缓情绪？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       因在精细调控笔尖极微观力度与下笔方向的“精细运动控制（Fine Motor Control）”进程中，大脑体感皮层与前额叶皮层被深度唤醒，进而于物理层面强效抑制了诱发焦虑与恐惧的杏仁核应激信号。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若缺乏毛笔与传统文房四宝，使用万年笔或普通水笔能否获得完全相同的效果？</span>

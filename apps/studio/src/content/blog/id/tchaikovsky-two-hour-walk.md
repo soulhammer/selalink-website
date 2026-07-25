@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspirasi dari Jalan Kaki Dua Jam Setiap Hari: Kebiasaan Jalan Kaki Kreatif Tchaikovsky"
 description: "Komponis besar Rusia Pyotr Ilyich Tchaikovsky berjalan kaki persis dua jam setiap hari untuk memunculkan ide-ide musik. Kami membahas jalan kaki berkelanjutan dan prinsip ilmu saraf Default Mode Network (DMN)."
 pubDate: "2026-06-01"
@@ -31,25 +32,23 @@ Dalam artikel ini, kami memeriksa alasan ilmiah di balik jalan kaki kontemplatif
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai tchaikovsky-two-hour-walk didasarkan pada <strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stabilisasi Ritme Gelombang Otak dari Jalan Kaki Dua Jam yang Disiplin
+## 1. Stabilisasi Ritme Gelombang Otak dari Jalan Kaki Dua Jam yang Disiplin
 
 Kebiasaan disiplin Tchaikovsky berjalan kaki di luar ruangan selama persis dua jam setiap hari meningkatkan aliran darah ke korteks visuospatial dan hipokampus, memberikan dorongan untuk menetaskan melodi simfoni yang indah di pikirannya. Jalan kaki secara berkelanjutan mengaktifkan Default Mode Network (DMN), memfasilitasi kombinasi ingatan bawah sadar dan melodi emosional.
 
 ---
 
-## Pentingnya Mematuhi Disiplin Waktu Jalan Kaki
-
-Sebagaimana Tchaikovsky dengan ketat menjaga waktu berjalan kakinya, gangguan luar seperti ponsel pintar atau notifikasi kerja harus diblokir sepenuhnya selama berjalan kaki untuk mendapatkan inspirasi. Selesaikan rutinitas berjalan kaki yang telah ditentukan agar otak Anda mencapai ketenangan emosional dan fokus kreatif.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Sebagaimana Tchaikovsky dengan ketat menjaga waktu berjalan kakinya, gangguan lu
     Selesaikan rutinitas berjalan kaki dua jam secara penuh tanpa menyerah di tengah jalan untuk meningkatkan aliran darah otak dan merelaksasi sistem saraf, lalu segera kembali ke meja kerja Anda untuk merapikan ide.
   </p>
 </div>
+
+---
+
+## 3. Pentingnya Mematuhi Disiplin Waktu Jalan Kaki
+
+Sebagaimana Tchaikovsky dengan ketat menjaga waktu berjalan kakinya, gangguan luar seperti ponsel pintar atau notifikasi kerja harus diblokir sepenuhnya selama berjalan kaki untuk mendapatkan inspirasi. Selesaikan rutinitas berjalan kaki yang telah ditentukan agar otak Anda mencapai ketenangan emosional dan fokus kreatif.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

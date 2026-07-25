@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El secreto en el escritorio del Premio Nobel: La rutina de la rosa amarilla de Márquez"
 description: "Por qué Gabriel García Márquez, autor de Cien años de soledad, colocaba una rosa amarilla en su escritorio cada mañana. Explora cómo un ritual visual relaja el cerebro y estimula la creatividad."
 pubDate: "2026-02-06"
@@ -36,22 +37,20 @@ En la publicación de hoy, examinamos los principios científicos del 'ritual de
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre marquez-yellow-rose se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Gabriel García Márquez e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Gabriel García Márquez e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por qué los rituales visuales aportan creatividad y estabilidad
+## 1. Por qué los rituales visuales aportan creatividad y estabilidad
 
 Ubicar e inspeccionar fijamente un objeto natural o color específico (como una rosa amarilla) envía una señal de 'seguridad y confort emocional' al cerebro. Al relajarse, el cerebro emite <strong>Ondas Alfa (Alpha Waves)</strong> que potencian el enfoque, acelerando las conexiones de ideas espontáneas y elevando el pensamiento creativo.
 
 ---
 
-## Precauciones y consejos
-
-Evite abarrotar su escritorio con adornos llamativos o desordenados que distraigan la vista. El exceso de colores causa <strong>fatiga visual</strong> e impide la concentración; elija un enfoque minimalista con un único objeto simple y claro.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Evite abarrotar su escritorio con adornos llamativos o desordenados que distraig
     Contemple el objeto suavemente durante 10 a 20 segundos mientras regula su respiración, guiando gradualmente su cerebro hacia un estado de enfoque receptivo.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Evite abarrotar su escritorio con adornos llamativos o desordenados que distraigan la vista. El exceso de colores causa <strong>fatiga visual</strong> e impide la concentración; elija un enfoque minimalista con un único objeto simple y claro.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Caminhada Matinal pelo Jardim de Francis Bacon: Como Reiniciar a Fadiga Cerebral Através da Observação da Natureza"
 description: "Descubra como Francis Bacon, um mestre do empirismo, caminhava em seu jardim todas as manhãs para observar plantas e o clima, aliviando a fadiga cerebral e estabelecendo sua filosofia indutiva."
 pubDate: "2026-01-04"
@@ -33,25 +34,23 @@ No artigo de hoje, analisamos os princípios neurocientíficos da Teoria da Rest
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre bacon-nature-observation é baseada em <strong>Verificação Histórica do Ensaio *Dos Jardins (Of Gardens)* de Francis Bacon e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica do Ensaio *Dos Jardins (Of Gardens)* de Francis Bacon e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por Que as Caminhadas de Observação da Natureza Restauram o Foco Atencional
+## 1. Por Que as Caminhadas de Observação da Natureza Restauram o Foco Atencional
 
 As tarefas modernas exigem uma 'Atenção Dirigida (Directed Attention)' artificial, fatigando facilmente o córtex pré-frontal. De acordo com a Teoria da Restauração da Atenção (Attention Restoration Theory) na psicologia ambiental, estímulos naturais como o sussurro das folhas ou a luz do sol induzem uma 'Fascinação Suave (Soft Fascination)'. Isso desloca a atenção naturalmente sem forçar o cérebro, permitindo que a exausta rede de controle cognitivo pré-frontal descanse e se recarregue, maximizando o pensamento indutivo e a resolução criativa de problemas.
 
 ---
 
-## Desconexão Digital Completa de Estímulos
-
-Tirar fotos com o smartphone, responder a mensagens de texto ou ouvir podcasts informativos enquanto caminha continua consumindo a atenção dirigida do cérebro. Para obter o efeito de restauração da atenção, defina seu smartphone para o modo silencioso e isole-o completamente. Mergulhe unicamente nos estímulos sensoriais off-line.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Tirar fotos com o smartphone, responder a mensagens de texto ou ouvir podcasts i
   </p>
 </div>
 
+---
+
+## 3. Desconexão Digital Completa de Estímulos
+
+Tirar fotos com o smartphone, responder a mensagens de texto ou ouvir podcasts informativos enquanto caminha continua consumindo a atenção dirigida do cérebro. Para obter o efeito de restauração da atenção, defina seu smartphone para o modo silencioso e isole-o completamente. Mergulhe unicamente nos estímulos sensoriais off-line.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

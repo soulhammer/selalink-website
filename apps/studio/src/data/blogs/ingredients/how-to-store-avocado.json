@@ -1,0 +1,454 @@
+{
+  "how-to-store-avocado": {
+    "ingId": "avocado",
+    "pubDate": "2026-02-07",
+    "updatedDate": "2026-02-07",
+    "heroImage": "/images/blog/avocado_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "아보카도 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 아보카도의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "덜 익은 아보카도를 무심코 냉장고에 넣었다가 푸석푸석하게 썩어 버린 경험 있으시죠? 오늘 FreshSnap에서는 캘리포니아 아보카도 위원회(CAC)와 미국 농무부(USDA)의 가이드를 기반으로, 아보카도 후숙 타이밍과 완벽 보관 비법을 전합니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "아보카도",
+          "과학적으로 검증된 보관 가이드",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "설익은 아보카도는 절대 냉장하지 마세요 ⚠️",
+            "desc": "초록색 단단한 아보카도를 냉장고에 넣으면 저온 냉해를 입어 향후 상온에 꺼내도 후숙이 진행되지 않고 내부 세포가 까맣게 죽어 썩게 됩니다."
+          },
+          {
+            "title": "껍질의 검은 반점을 확인하세요 🥑",
+            "desc": "아보카도 껍질 표면에 커다란 검은 반점이 생기고 만졌을 때 물렁하다면 과육 내부까지 썩은 상태이므로 섭취를 피해 주시는 것이 좋습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "완숙 전에는 종이봉투에 넣어 상온 보관 — 실온 보관 (5일) 🥑",
+            "text": "단단한 아보카도는 15~20℃ 상온에서 보관해야 합니다. 종이봉투에 넣어 바나나나 사과와 함께 두면 방출되는 에틸렌 가스가 숙성 속도를 빠르게 당겨줍니다."
+          },
+          {
+            "name": "후숙 완료 시 랩으로 감싸 냉장 보관 — 냉장 보관 (7일)",
+            "text": "껍질이 검갈색으로 변하고 손으로 쥐었을 때 약간 들어갈 정도로 익은 아보카도는 즉시 개별 랩핑하여 냉장고 야채칸에 보관해 노화 속도를 늦춰야 오래 먹을 수 있습니다."
+          },
+          {
+            "name": "자른 아보카도는 단면에 레몬즙 발라 밀봉 — 갈변 예방 🍋",
+            "text": "사용하고 남은 아보카도는 씨앗을 남겨둔 채 잘린 단면에 레몬즙(또는 올리브유)을 얇게 바른 뒤 랩으로 밀봉합니다. 산성 성분이 공기 접촉 시 일어나는 산화(갈변) 현상을 강력 차단합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "설익은 아보카도를 냉장고에 넣으면 안 되나요?",
+            "answer": "네, 덜 익은 초록색 아보카도를 저온 냉장하면 숙성이 완전히 멈추고 냉해를 입어 속이 검게 변합니다. 반드시 상온에서 겉껍질이 갈색으로 변할 때까지 완숙한 후 냉장 보관하세요."
+          },
+          {
+            "question": "남은 아보카도를 보관하는 방법은?",
+            "answer": "자르고 남은 아보카도는 씨를 남겨둔 채 표면에 레몬즙이나 올리브 오일을 얇게 바르고 밀폐 용기에 넣어 냉장 보관하면 갈변을 최소화할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Avocado Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Avocado based on official safety guidelines.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Have you ever put an unripe avocado in the fridge only to have it turn mushy and rot? Today, FreshSnap shares California Avocado Commission (CAC) and USDA-verified ripening and storage hacks.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Avocado",
+          "Scientifically Proven Storage Guide",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Do not refrigerate unripe avocados",
+            "desc": "Refrigerating them before they ripen stops the ripening process permanently, leaving the texture hard and mealy even when returned to room temp."
+          },
+          {
+            "title": "Apply lemon juice to cut surfaces",
+            "desc": "The cut side oxidizes and turns brown quickly when exposed to air. Applying lemon juice or olive oil and keeping the pit blocks oxygen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in a paper bag at room temperature before fully ripe — Room Temp Storage (5Days) 🥑",
+            "text": "Firm, unripe avocados should be kept at a room temperature of 15–20°C. Placing them in a paper bag with bananas or apples will trap the ethylene gas and accelerate the ripening process."
+          },
+          {
+            "name": "Wrap with plastic wrap and refrigerate once ripe — Refrigerated Storage (7Days)",
+            "text": "Once the skin turns dark brown and yields to gentle pressure, wrap the avocado individually in plastic wrap and store it in the refrigerator crisper drawer to slow down spoilage."
+          },
+          {
+            "name": "Apply lemon juice to cut surfaces and seal — Prevent browning 🍋",
+            "text": "Keep the pit in the unused half, brush the cut surface with a thin layer of lemon juice (or olive oil), and wrap tightly with plastic wrap. The acidity blocks oxygen to prevent oxidation and browning."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I refrigerate unripe avocados?",
+            "answer": "No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling."
+          },
+          {
+            "question": "How do I store a cut avocado half?",
+            "answer": "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
+          }
+        ]
+      },
+      "ja": {
+        "title": "アボカドの鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくアボカドの最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>",
+        "intro": "未熟なアボカドをうっかり冷蔵庫に入れて、中が黒く傷んでしまった経験はありませんか？本日、FreshSnapではカリフォルニア・アボカド委員会（CAC）と米国農務省（USDA）のガイドラインに基づき、アボカドの追熟のタイミングと完璧な保存方法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "アボカド",
+          "科学的に検証された保存ガイド",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "未完熟のアボカドは絶対に冷蔵保存しないでください",
+            "desc": "熟す前に冷蔵庫に入れると後熟プロセスが永久に停止し、常温に戻しても食感が固くパサついたままになってしまいます。"
+          },
+          {
+            "title": "カットした断面にはレモン果汁を塗ってください",
+            "desc": "空気に触れると断面が急速に酸化して黒ずみます。レモン汁やオリーブオイルを塗り、種を残したまま密閉することで酸化を防ぎます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "完熟前は紙袋に入れて常温保存 — 常温保存 (5日間) 🥑",
+            "text": "固くて未熟なアボカドは15〜20℃の常温で保存します。紙袋に入れ、バナナやりんごと一緒に置いておくと、放出されるエチレンガスによって追熟スピードが早まります。"
+          },
+          {
+            "name": "追熟完了後はラップで包んで冷蔵保存 — 冷蔵保存 (7日間)",
+            "text": "皮が黒褐色になり、手で握ると少し柔らかさを感じるくらいに熟したアボカドは、すぐにラップで個別に包んで冷蔵庫の野菜室に入れ、劣化の速度を遅らせてください。"
+          },
+          {
+            "name": "カット断面にレモン果汁を塗って密閉 — 変色防止 🍋",
+            "text": "使い残したアボカドは種を残したまま、カットした断面にレモン果汁（またはオリーブオイル）を薄く塗り、ラップで密閉します。酸性成分が空気との接触による酸化（黒変）を防ぎます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "未熟なアボカドを冷蔵庫に入れてもいいですか？",
+            "answer": "いいえ、青く硬いアボカドを低温冷蔵すると追熟が完全に止まり、低温障害を起こして中身が黒く変色します。必ず常温で皮が茶色くなるまで完熟させてから冷蔵してください。"
+          },
+          {
+            "question": "残ったアボカドの保存方法は？",
+            "answer": "カットして残ったアボカドは、種を残したまま断面にレモン汁やオリーブオイルを薄く塗り、密閉容器に入れて冷蔵すると変色を最小限に抑えられます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存牛油果：科学储存指南",
+        "description": "根据官方食品安全指南，了解牛油果的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>美国农务部(USDA) & 韩国食品医药品安全处(MFDS)</strong>",
+        "intro": "您是否曾不小心将未熟的牛油果放入冰箱，结果导致其口感变差甚至烂掉？今天，FreshSnap为您带来基于加州牛油果委员会(CAC)和美国农务部(USDA)指南的牛油果熟化与保鲜秘诀。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "牛油果",
+          "科学验证的储存指南",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "未熟透的牛油果千万不要冷藏",
+            "desc": "在熟透前冷藏会永久终止其熟化过程，导致即使拿回常温下，果肉依然生硬且呈粉状粉质。"
+          },
+          {
+            "title": "切开的表面涂抹柠檬汁",
+            "desc": "暴露在空气中切面会迅速氧化变黑。涂抹柠檬汁或橄榄油，并保留果核，能有效阻断氧气。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "熟透前放入纸袋常温保存 — 常温储存 (5天) 🥑",
+            "text": "未成熟的硬牛油果应保存在15-20℃的常温下。放入纸袋中并与香蕉或苹果放在一起，它们释放的乙烯气体会加速熟化过程。"
+          },
+          {
+            "name": "熟透后裹保鲜膜冷藏 — 冷藏储存 (7天)",
+            "text": "当表皮变为黑褐色、手轻轻捏感觉微软时，说明已经熟透。此时应立即用保鲜膜单独包裹放入冰箱冷藏，以减缓变质并延长保鲜。"
+          },
+          {
+            "name": "切开的表面涂抹柠檬汁密封 — 防止褐变 🍋",
+            "text": "用剩的半个牛油果请保留果核，在切面上涂抹一层薄薄的柠檬汁（或橄榄油），然后用保鲜膜紧密密封。酸性成分能有效阻断空气接触引发的氧化褐变。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "未成熟的牛油果可以放进冰箱吗？",
+            "answer": "不可以。将未成熟的绿色硬牛油果冷藏会完全停止其催熟过程，并导致冻伤使果肉变黑。请务必在室温下放至外皮变褐成熟后再冷藏。"
+          },
+          {
+            "question": "切开剩下的半个牛油果怎么保存？",
+            "answer": "保留果核，在切面上薄薄地涂一层柠檬汁或橄榄油，放入密封容器中冷藏，可以最大程度地减少氧化变色。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Aguacate fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Aguacate según las directrices oficiales de seguridad.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "¿Alguna vez puso un aguacate verde en el refrigerador y terminó podrido y aguado? Hoy, FreshSnap comparte trucos de maduración y conservación verificados por la CAC y la USDA.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Aguacate",
+          "Guía de almacenamiento científicamente probada",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "No refrigere aguacates que no estén maduros",
+            "desc": "Refrigerarlos antes de que maduren detiene el proceso de maduración de forma permanente, haciendo que la textura quede dura y pastosa."
+          },
+          {
+            "title": "Aplique jugo de limón en las superficies cortadas",
+            "desc": "La parte cortada se oxida y se oscurece rápido al aire. Aplicar jugo de limón o aceite de oliva y conservar el hueso ayuda a bloquear el oxígeno."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en una bolsa de papel a temperatura ambiente antes de madurar — Conservación a Temp. Ambiente (5Días) 🥑",
+            "text": "Los aguacates duros y verdes deben conservarse a temperatura ambiente (15-20 °C). Ponerlos en una bolsa de papel con plátanos o manzanas acelerará su maduración gracias al gas etileno."
+          },
+          {
+            "name": "Envuelva con film plástico y refrigere una vez maduro — Almacenamiento Refrigerado (7Días)",
+            "text": "Cuando la piel se vuelva marrón oscuro y ceda ante una ligera presión, envuelva el aguacate en film plástico y guárdelo en el cajón de verduras del refrigerador para evitar que se pase."
+          },
+          {
+            "name": "Aplique jugo de limón en las caras cortadas y selle — Evite el oscurecimiento 🍋",
+            "text": "Para conservar la mitad sobrante, deje el hueso puesto, unte una capa fina de jugo de limón (o aceite de oliva) en la pulpa expuesta y selle con film plástico. La acidez bloquea la oxidación."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I refrigerate unripe avocados?",
+            "answer": "No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling."
+          },
+          {
+            "question": "How do I store a cut avocado half?",
+            "answer": "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Avocat frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Avocat selon les directives de sécurité officielles.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Avez-vous déjà mis un avocat pas mûr au frigo pour le retrouver noirci et immangeable ? Aujourd'hui, FreshSnap partage des astuces de mûrissement et de conservation validées par la CAC et l'USDA.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Avocat",
+          "Guide de conservation scientifiquement prouvé",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Ne réfrigérez pas les avocats pas mûrs",
+            "desc": "Mettre un avocat pas mûr au réfrigérateur stoppe définitivement son mûrissement. Sa chair restera dure et farineuse même remise à température ambiante."
+          },
+          {
+            "title": "Appliquez du jus de citron sur la chair coupée",
+            "desc": "La chair coupée s'oxyde et noircit vite à l'air. Appliquer du jus de citron ou de l'huile d'olive et laisser le noyau permet de bloquer l'oxygène."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Stocker dans un sac en papier à température ambiante avant maturité — Stockage à Temp. Ambiante (5Jours) 🥑",
+            "text": "Les avocats fermes doivent être conservés à température ambiante (15-20 °C). Les placer dans un sac en papier avec des bananes ou des pommes accélère le mûrissement grâce au gaz éthylène."
+          },
+          {
+            "name": "Envelopper de film étirable et réfrigérer une fois mûr — Stockage Réfrigéré (7Jours)",
+            "text": "Dès que la peau devient brun foncé et souple sous le doigt, enveloppez l'avocat dans du film étirable et placez-le dans le bac à légumes du réfrigérateur pour stopper sa maturation."
+          },
+          {
+            "name": "Appliquer du jus de citron sur les faces coupées et sceller — Éviter le brunissement 🍋",
+            "text": "Pour la moitié restante, laissez le noyau, badigeonnez la chair de jus de citron (ou d'huile d'olive) et enveloppez fermement de film étirable. L'acide bloque l'oxydation et le brunissement."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I refrigerate unripe avocados?",
+            "answer": "No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling."
+          },
+          {
+            "question": "How do I store a cut avocado half?",
+            "answer": "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Avocado frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Avocado basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Haben Sie schon einmal eine unreife Avocado in den Kühlschrank gelegt, nur um festzustellen, dass sie holzig wurde und verdarb? Heute teilt FreshSnap Tipps zur Reifung und Lagerung basierend auf CAC- und USDA-Richtlinien.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Avocado",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Unreife Avocados nicht kühlen",
+            "desc": "Das Kühlen vor der Reife stoppt den Reifeprozess dauerhaft. Die Textur bleibt holzig und zäh, selbst wenn sie wieder auf Raumtemperatur gebracht wird."
+          },
+          {
+            "title": "Zitrone auf die Schnittflächen träufeln",
+            "desc": "Die Schnittfläche oxidiert an der Luft schnell und wird braun. Das Bestreichen mit Zitronensaft oder Olivenöl und das Belassen des Kerns schützt vor Sauerstoff."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Vor der Reife in einer Papiertüte bei Raumtemperatur lagern — Lagerung bei Raumtemperatur (5Tage) 🥑",
+            "text": "Feste, unreife Avocados sollten bei Raumtemperatur (15–20 °C) gelagert werden. In einer Papiertüte mit Bananen oder Äpfeln beschleunigt das austretende Ethylengas den Reifungsprozess."
+          },
+          {
+            "name": "Sobald gereift, in Frischhaltefolie wickeln und kühlen — Kühllagerung (7Tage)",
+            "text": "Sobald die Schale dunkelbraun wird und auf sanften Druck nachgibt, wickeln Sie die Avocado einzeln in Frischhaltefolie und lagern sie im Gemüsefach des Kühlschranks."
+          },
+          {
+            "name": "Zitronensaft auf die Schnittfläche träufeln und luftdicht verschließen — Verfärbungen verhindern 🍋",
+            "text": "Lassen Sie bei der übrig gebliebenen Hälfte den Kern stecken, bestreichen Sie die Schnittfläche mit etwas Zitronensaft (oder Olivenöl) und wickeln sie fest in Folie. Die Säure verhindert die Oxidation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I refrigerate unripe avocados?",
+            "answer": "No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling."
+          },
+          {
+            "question": "How do I store a cut avocado half?",
+            "answer": "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Abacate fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Abacate com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Você já colocou um abacate verde na geladeira e ele acabou estragando? Hoje, o FreshSnap compartilha técnicas de maturação e conservação recomendadas pela CAC e USDA.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Abacate",
+          "Guia de armazenamento comprovado cientificamente",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Não refrigere abacates verdes",
+            "desc": "Colocar o abacate na geladeira antes de amadurecer interrompe o processo de maturação permanentemente, deixando a polpa dura e sem sabor."
+          },
+          {
+            "title": "Passe suco de limão nas superfícies cortadas",
+            "desc": "A parte cortada oxida e escurece rápido em contato com o ar. Passar suco de limão ou azeite e manter o caroço ajuda a bloquear o oxigênio."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em um saco de papel em temperatura ambiente antes de maduro — Conservação em Temp. Ambiente (5Dias) 🥑",
+            "text": "Abacates duros e verdes devem ser mantidos em temperatura ambiente (15–20 °C). Colocá-los em um saco de papel com bananas ou maçãs acelera a maturação devido ao gás etileno acumulado."
+          },
+          {
+            "name": "Embrulhe com filme plástico e refrigere quando maduro — Armazenamento Refrigerado (7Dias)",
+            "text": "Quando a casca estiver marrom-escura e ceder a uma leve pressão, embrulhe o abacate em filme plástico e guarde na gaveta de legumes para evitar que passe do ponto."
+          },
+          {
+            "name": "Passe suco de limão nas faces cortadas e sele — Evite o escurecimento 🍋",
+            "text": "Para conservar a metade restante, mantenha o caroço, passe um pouco de suco de limão (ou azeite) na polpa exposta e embrulhe firme. O ácido bloqueia o oxigênio e evita que a polpa escureça."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I refrigerate unripe avocados?",
+            "answer": "No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling."
+          },
+          {
+            "question": "How do I store a cut avocado half?",
+            "answer": "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Alpukat agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Alpukat berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>USDA & MFDS</strong>",
+        "intro": "Pernahkah Anda memasukkan alpukat mentah ke dalam kulkas lalu menjadi busuk? Hari ini, FreshSnap membagikan rahasia pematangan dan penyimpanan alpukat berdasarkan panduan CAC dan USDA.",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Alpukat",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "vegetable"
+        ],
+        "cautions": [
+          {
+            "title": "Jangan dinginkan alpukat yang belum matang",
+            "desc": "Mendinginkan alpukat sebelum matang akan menghentikan proses pematangan secara permanen, membuat teksturnya tetap keras bahkan setelah dikembalikan ke suhu ruang."
+          },
+          {
+            "title": "Oleskan jus lemon pada permukaan potongan",
+            "desc": "Bagian yang dipotong akan cepat teroksidasi dan berubah warna menjadi cokelat saat terkena udara. Oleskan jus lemon atau minyak zaitun dan biarkan bijinya menempel."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan di kantong kertas pada suhu ruang sebelum matang — Penyimpanan Suhu Ruang (5Hari) 🥑",
+            "text": "Alpukat yang masih keras harus disimpan pada suhu ruang 15–20°C. Memasukkannya ke dalam kantong kertas bersama pisang atau apel akan mempercepat proses pematangan berkat gas etilen."
+          },
+          {
+            "name": "Bungkus dengan plastik wrap lalu dinginkan setelah matang — Penyimpanan Dingin (7Hari)",
+            "text": "Jika kulitnya sudah berubah menjadi cokelat tua dan terasa agak empuk saat ditekan, segera bungkus dengan plastik wrap lalu taruh di laci sayur kulkas untuk memperlambat pembusukan."
+          },
+          {
+            "name": "Oleskan jus lemon pada permukaan potongan lalu segel — Mencegah perubahan warna 🍋",
+            "text": "Biarkan bijinya tetap menempel pada belahan alpukat yang tidak digunakan, oleskan sedikit jus lemon (atau minyak zaitun) pada permukaan potongan, lalu segel dengan plastik wrap. Keasaman akan mencegah oksidasi."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I refrigerate unripe avocados?",
+            "answer": "No, putting hard green avocados in the fridge stops the ripening process and causes chilling injury, making the flesh turn black. Ripen at room temp until brown before chilling."
+          },
+          {
+            "question": "How do I store a cut avocado half?",
+            "answer": "Keep the seed in place, brush the cut surface with lemon juice or olive oil, and seal in an airtight container in the fridge to minimize browning."
+          }
+        ]
+      }
+    }
+  }
+}

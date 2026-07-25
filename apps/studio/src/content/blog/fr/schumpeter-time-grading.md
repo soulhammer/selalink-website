@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Métacognition du temps : la routine du bulletin de notes quotidien de Joseph Schumpeter"
 description: "L'économiste Joseph Schumpeter évaluait ses heures d'étude et de concentration chaque soir et s'attribuait des notes (A à F). Découvrez les effets métacognitifs d'une boucle de rétroaction quantitative."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Dans cet article, nous analysons le rituel de Schumpeter et proposons une métho
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant schumpeter-time-grading est basée sur <strong>Étude basée sur la biographie historique et les récits autobiographiques de Schumpeter & les Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude basée sur la biographie historique et les récits autobiographiques de Schumpeter & les Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ajustement de la métacognition et du réseau de récompense de la dopamine via une boucle de rétroaction quantitative
+## 1. Ajustement de la métacognition et du réseau de récompense de la dopamine via une boucle de rétroaction quantitative
 
 La plupart des gens évaluent leur journée de manière subjective et émotionnelle, ce qui favorise la rationalisation. Le rituel de Schumpeter active la métacognition. Quantifier son temps et s'attribuer une note permet d'observer son comportement avec le recul d'un tiers. Cette auto-objectivation honnête aide le cerveau à dépasser les biais cognitifs et motive strongly le circuit dopaminergique pour obtenir une meilleure note (A) le lendemain.
 
 ---
 
-## Précautions & Conseils
-
-Veillez à ce que le bulletin quotidien ne se transforme pas en auto-dénigrement ou perfectionnisme obsessionnel. Sombrer dans l'impuissance apprise à cause de mauvaises notes augmente le stress et bloque l'action. Considérez les notes comme de simples données sans émotion et utilisez-les avec un état d'esprit de croissance pour vous améliorer de 10 % le lendemain.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Veillez à ce que le bulletin quotidien ne se transforme pas en auto-dénigremen
     Trouvez la cause principale de votre note du jour (ex. 1h perdue sur les réseaux) et prévoyez une amélioration, comme isoler le téléphone 1h demain matin.
   </p>
 </div>
+
+---
+
+## 3. Précautions & Conseils
+
+Veillez à ce que le bulletin quotidien ne se transforme pas en auto-dénigrement ou perfectionnisme obsessionnel. Sombrer dans l'impuissance apprise à cause de mauvaises notes augmente le stress et bloque l'action. Considérez les notes comme de simples données sans émotion et utilisez-les avec un état d'esprit de croissance pour vous améliorer de 10 % le lendemain.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

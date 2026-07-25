@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "16 000 entrées numérotées : La routine de carnet de précision et d'externalisation cognitive de Michael Faraday"
 description: "Découvrez comment le physicien Michael Faraday a catalogué plus de 16 000 entrées d'expériences numérotées. Explorez la neuroscience cognitive de l'externalisation des connaissances et de la mémoire de travail."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la te
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant faraday-numbered-notebook est basée sur <strong>Vérification Historique issue de *Michael Faraday's Diary* (éd. Thomas Martin / Frank A.J.L. James) & Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *Michael Faraday's Diary* (éd. Thomas Martin / Frank A.J.L. James) & Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Comment l'indexation et l'externalisation cognitive préservent la mémoire de travail
+## 1. Comment l'indexation et l'externalisation cognitive préservent la mémoire de travail
 
 La <strong>Mémoire de Travail</strong> du cerveau dispose d'une capacité très limitée. Stocker des informations non structurées génère une surcharge cognitive. L'adoption du système de numérotation et d'indexation de Faraday — un exemple majeur d'<strong>« Externalisation Cognitive (Cognitive Offloading) »</strong> — économise l'énergie mentale. En transférant les connaissances sur un support externe, les ressources préfrontales sont libérées pour la réflexion complexe.
 
 ---
 
-## Mise en garde : Prioriser la cherchabilité sur le volume de notes
-
-Accumuler des notes sans garantir leur cherchabilité est contre-productif. Transcrire des informations non indexées génère du désordre physique ou numérique, augmentant la confusion. Pour reproduire le succès de Faraday, créez un index en page 1 ou taguez les entrées pour les retrouver en 3 secondes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Accumuler des notes sans garantir leur cherchabilité est contre-productif. Tran
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Prioriser la cherchabilité sur le volume de notes
+
+Accumuler des notes sans garantir leur cherchabilité est contre-productif. Transcrire des informations non indexées génère du désordre physique ou numérique, augmentant la confusion. Pour reproduire le succès de Faraday, créez un index en page 1 ou taguez les entrées pour les retrouver en 3 secondes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>La numérotation séquentielle est-elle utile avec des applications de notes numériques ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Accumuler des notes sans garantir leur cherchabilité est contre-productif. Tran
       Oui, tout à fait. Attribuer des numéros uniques en numérique procure de grands avantages. Si la recherche textuelle échoue lorsqu'un mot-clé est oublié, un identifiant unique (ex. : nº 042) sert d'ancrage absolu pour créer des liens retour (backlinks) et des références croisées.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment gérer la numérotation si l'on mélange journal quotidien, projets et inspirations personnelles ?</span>

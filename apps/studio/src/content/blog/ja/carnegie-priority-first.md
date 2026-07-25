@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "最も  課題から朝に片付けた大富豪：アンドリュー・カーネギーの優先順位完結ルーティン"
 description: "鉄鋼王アンドリュー・カーネギーが前頭葉のリソースが最も充電された朝のゴールデンタイムに、最も重く厄介な仕事を最優先で処理したルーティン。自我枯渇（Ego Depletion）を予防し前頭前野の執行機能を極大化する認知神経科学的原理を解き明かします。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「carnegie-priority-first」は <strong>アンドリュー・カーネギー自伝『Autobiography of Andrew Carnegie』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アンドリュー・カーネギー自伝『Autobiography of Andrew Carnegie』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 前頭前野皮質リソースの保存と「自我枯渇（Ego Depletion）」防止メカニズム
+## 1. 前頭前野皮質リソースの保存と「自我枯渇（Ego Depletion）」防止メカニズム
 
 脳科学と心理学の研究によると、合理的意志決定、誘惑抑制、執行制御を司る大脳前頭前野皮質（Prefrontal Cortex）の認知リソースは無限ではなく、バッテリーのように有限に枯渇するエネルギー源です。これを「自我枯渇（Ego Depletion）」現象と呼びます。朝の起床直後、無意味なスマートフォンのスクロール、メッセンジャーの返信、些細な雑務で前頭前野のブドウ糖（Glucose）予算を少しずつ消費してしまうと、いざ重要で複雑な企画や核心的な意思決定が必要な午後には脳の執行バッテリーが放電し、決定を先延ばしにする「判断疲労（Decision Fatigue）」に陥ります。睡眠を通じてエナジーが100％充電された朝の最初の時間に最も難解な課題を完結させるカーネギーのルーティンは、前頭前野のリソースが完全な時に最高の論理性と判断力を投入して誤判を防ぐ強力な脳工学的戦略です。
 
 ---
 
-## 注意事項＆ヒント：朝の認知エネを消耗性の雑務で放電することの禁止
-
-高い成果を上げる知的労働者にとって意志力と前頭葉のリソースは、時間とともに価値が下落する高価な認知資産です。カーネギーは毎朝の前頭葉のゴールデンタイムを消耗的な電子メールの返信やオフィスの整理整頓のような細々とした業務に浪費せず、最も波及効果の大きい事業決定に集中投入しました。朝一番に最も先延ばしにしたかったその巨大な難題を最初の業務として指定し、事前に放電することを防いでください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：朝の認知エネを消耗性の雑務で放電することの禁止
+
+高い成果を上げる知的労働者にとって意志力と前頭葉のリソースは、時間とともに価値が下落する高価な認知資産です。カーネギーは毎朝の前頭葉のゴールデンタイムを消耗的な電子メールの返信やオフィスの整理整頓のような細々とした業務に浪費せず、最も波及効果の大きい事業決定に集中投入しました。朝一番に最も先延ばしにしたかったその巨大な難題を最初の業務として指定し、事前に放電することを防いでください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>朝の最初の時間に緊急に処理しなければならない連絡や緊急応答の要請が来たらどう対処しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       組織全体のシステムがダウンするような致命的な危機でない限り、大部分の「緊急に見える」連絡は1〜2時間後に処理しても大きな支障はありません。自分の前頭前野の最上のリソースを保存するため、朝の最初の1時間だけでも邪魔されない「前頭前野保存要塞時間」として指定し死守することがポイントです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>最も難しい課題が一日で終わらせられないほど巨大な時はどのように適用しますか？</span>

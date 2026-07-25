@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "稽古場の隅で他人の言語をスクラップしたシェイクスピアの傾聴ルーティン"
 description: "世界文学史上最高の劇作家ウィリアム・シェイクスピア。彼は劇場の稽古場の隅で他人の会話や抑揚をスクラップし、台詞を声に出して朗読することでミラーニューロンの感情回路を最大化しました。"
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「shakespeare」は <strong>シェイクスピア歴史的評伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>シェイクスピア歴史的評伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 成功をもたらす脳科学的原理の分析
+## 1. 成功をもたらす脳科学的原理の分析
 
 他人の言語リズムや感情状態を精密に追跡し、文章や台詞構造として記録する訓練は、大脳皮質の言語連合領域とミラーニューロン（Mirror Neurons）の連携を劇的に刺激します。これは相手の行動の裏に隠された認知的意図と文脈を精密に分解する認知同調率や、交渉およびコミュニケーション調整能力を高める強力な脳科学的メカニズムとして作動します。
 
 ---
 
-## 成功的な定着のための行動科学的アドバイス
-
-周囲の人々の会話を盗み聞きする諜報活動ではありません。日常に表れる人間の言語表現と社会的フィードバックの普遍的なパターンを認知科学的に注視することが核心です。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 成功的な定着のための行動科学的アドバイス
+
+周囲の人々の会話を盗み聞きする諜報活動ではありません。日常に表れる人間の言語表現と社会的フィードバックの普遍的なパターンを認知科学的に注視することが核心です。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>他人の会話の声がよく聞こえない環境ではどのように実践しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       ニュース報道や教養討論のインタビュー映像を活用し、発表者がよく使う副詞のパターン、興奮した時に速くなる音声のテンポなどを細かく分解して紙にスクラップすることも素晴らしい言語同調訓練になります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>この言語スクラップ訓練はビジネス交渉や提案書の作成にも応用できますか？</span>

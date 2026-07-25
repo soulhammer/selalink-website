@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "揭开DNA结构奥秘的女科学家？罗扎琳德·富兰克林的0.1度精密复核习惯"
 description: "探讨拍摄出DNA双螺旋关键“51号照片（Photo 51）”的罗扎琳德·富兰克林绝不妥协的0.1度微小误差复核习惯，以及面向现代人的精度提升指南。"
 pubDate: "2026-02-24"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rosalind-franklin-diffraction-focus 的内容基于 <strong>罗扎琳德·富兰克林历史传记与自传考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>罗扎琳德·富兰克林历史传记与自传考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过顶叶空间数字比对拦截认知错误与品质极大化
+## 1. 通过顶叶空间数字比对拦截认知错误与品质极大化
 
 大脑在处理熟悉的工作时，极易陷入“大概正确吧”的直觉偏见（Heuristics）错觉中，从而漏掉致命的错别字或数据错误。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 收尾阶段请将确定性置于速度之上
-
-在最后关头匆忙行事，微小的错别字或计算失误就会毁掉整个成果的信誉度。在10分钟复核时间内请降低速度，全力专注细节。切勿单凭意志力，请提前设计好能自然触发精细检查的物理环境与习惯信号。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 收尾阶段请将确定性置于速度之上
+
+在最后关头匆忙行事，微小的错别字或计算失误就会毁掉整个成果的信誉度。在10分钟复核时间内请降低速度，全力专注细节。切勿单凭意志力，请提前设计好能自然触发精细检查的物理环境与习惯信号。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>每次都仔细复核会不会太浪费时间？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       事后修改错别字、致歉及重新工作的消耗时间要高出10倍。事前投入10分钟复核，归根结底是最快的捷径。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>文本处理或日常文职工作中也能应用定量比对吗？</span>

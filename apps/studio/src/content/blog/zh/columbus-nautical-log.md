@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "开启大航海时代的船长：哥伦布的夜间航海日志记录与杏仁核平抑习惯"
 description: "探索越过未知大西洋的探险家哥伦布在风暴与恐惧中依然坚持每晚记录航海日志以维持高度理性镇定的习惯，揭示夜间定量日志书写如何平抑杏仁核（Amygdala）并拉动前额叶控制网络的认知神经科学原理。"
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 columbus-nautical-log 的内容基于 <strong>巴托洛梅·德拉斯·卡萨斯考证《哥伦布航海日记（The Diario of Christopher Columbus）》与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>巴托洛梅·德拉斯·卡萨斯考证《哥伦布航海日记（The Diario of Christopher Columbus）》与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 夜间定量日志书写平抑杏仁核（Amygdala）与前额叶神经切换
+## 1. 夜间定量日志书写平抑杏仁核（Amygdala）与前额叶神经切换
 
 对于莫测与不可控未来的迷茫焦虑，会过度激活大脑边缘系统的恐惧中枢——杏仁核（Amygdala），进而引发交感神经兴奋、心率飙升、失眠与恐慌（Panic）状态。若像哥伦布那样，将当天发生的具体事实与定量数据指标（完成项、剩余任务、方向指标）手写记录下来，这项“夜间航海日志”书写便成为了将大脑主导权从情感脑（边缘系）强行切至理性脑——外侧前额叶皮层（DLPFC）的高效神经开关。在将抽象焦虑加工为清晰可见的数值过程中，杏仁核的应激信号被阻断，心理平稳感油然而生，并促成睡眠期间大脑记忆的高效整合。
 
 ---
 
-## 注意事项与提示：避免情绪化唠叨与客观记录具体指标/数值
-
-夜间航海日志习惯的核心，在于将主观情绪彻底降解为“客观数据”。若在睡前于手账上反复撰写诸如“今天太累太焦虑了”等主观抱怨与负面感叹，大脑会再度强效刺激杏仁核，放大负面脑波并加重失眠。请剔除一切情绪化描写，唯有严格记录经过量化的事实与指标——如“今日5项目标中完成4项”、“进度率达80%”、“明日开启的极优先任务1项”——前额叶皮层的控制电路方能被真正拉动。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：避免情绪化唠叨与客观记录具体指标/数值
+
+夜间航海日志习惯的核心，在于将主观情绪彻底降解为“客观数据”。若在睡前于手账上反复撰写诸如“今天太累太焦虑了”等主观抱怨与负面感叹，大脑会再度强效刺激杏仁核，放大负面脑波并加重失眠。请剔除一切情绪化描写，唯有严格记录经过量化的事实与指标——如“今日5项目标中完成4项”、“进度率达80%”、“明日开启的极优先任务1项”——前额叶皮层的控制电路方能被真正拉动。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在手机备忘录应用或数字日程表中记录，能否获得同等的平抑杏仁核效果？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       无法达成同等效果。用手在纸上手写的物理触觉刺激，能同时拉动大脑运动皮层与体感皮层，从而更强效地启动前额叶皮层的认知控制力。此外，手机屏幕散发的蓝光会严重抑制褪黑素分泌并破坏睡眠结构，因此使用纸质手账至关重要。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在极度疲惫、感觉无法在睡前完整记录日志的日子里该如何应对？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Foundation of Elegance: Audrey Hepburn's Healing Garden Routine and the Brain Science of Soil Contact"
 description: "Discover how Hollywood legend Audrey Hepburn preserved inner tranquility and elegance amidst intense media scrutiny and illness through gardening. Explore the neuroscience of soil contact, Mycobacterium vaccae, and serotonin."
 pubDate: "2026-01-14"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience and environmental psychol
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding hepburn-garden-mindfulness is based on <strong>Historical Verification from Audrey Hepburn Biographies, Tolochenaz Estate Archives (Switzerland) & Cognitive Neuroscience and Environmental Psychology Research</strong>.
+      This content is based on <strong>Historical Verification from Audrey Hepburn Biographies, Tolochenaz Estate Archives (Switzerland) & Cognitive Neuroscience and Environmental Psychology Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mycobacterium vaccae and the Neuroscience of Serotonin Secretion
+## 1. Mycobacterium vaccae and the Neuroscience of Serotonin Secretion
 
 Humans evolved to experience psychological calm through direct connection with the earth. Neuroscientific and microbiological studies demonstrate that handling garden soil exposes us to a beneficial soil bacterium named <strong>Mycobacterium vaccae</strong>. Entering through skin contact and respiration, this bacterium stimulates immune pathways that trigger brainstem raphe nuclei to release <strong>serotonin</strong>—the neurotransmitter responsible for emotional stability and mood elevation. Consequently, gardening provides a dual neurobiological benefit: triggering <strong>Attention Restoration</strong> in the <strong>Prefrontal Cortex</strong> while simultaneously soothing autonomic nervous system hyper-arousal.
 
 ---
 
-## Caution: Excluding Distractions to Immerse Fully in the Analog Tactile Sensations of Soil
-
-To capture genuine emotional relaxation through gardening, anchor your full awareness onto sensory experience itself. Ruminating over work deadlines while touching soil blocks the brain's Attention Restoration mechanisms. Focus completely on physical tactile feedback—the cool dampness of earth, the rough texture of sand, or the soft surface of a leaf—allowing your prefrontal cortex to disengage and enter deep parasympathetic relaxation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ To capture genuine emotional relaxation through gardening, anchor your full awar
   </p>
 </div>
 
+---
+
+## 3. Caution: Excluding Distractions to Immerse Fully in the Analog Tactile Sensations of Soil
+
+To capture genuine emotional relaxation through gardening, anchor your full awareness onto sensory experience itself. Ruminating over work deadlines while touching soil blocks the brain's Attention Restoration mechanisms. Focus completely on physical tactile feedback—the cool dampness of earth, the rough texture of sand, or the soft surface of a leaf—allowing your prefrontal cortex to disengage and enter deep parasympathetic relaxation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is this method effective indoors or in apartments without a private garden?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ To capture genuine emotional relaxation through gardening, anchor your full awar
       Yes, absolutely! Filling small indoor pots on a balcony or living room desk with potting soil and planting small herbs or air-purifying plants delivers identical tactile stimulation and soil bacterium exposure. The core mechanism is physical contact with living earth, regardless of plant size.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Are there hygiene risks or bacterial infection concerns when touching soil with bare hands?</span>

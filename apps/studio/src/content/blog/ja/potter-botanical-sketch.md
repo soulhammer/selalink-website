@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "『ピーターラビット』著者の秘密？ビアトリクス・ポターの朝の微視的自然観察ルーティン"
 description: "『ピーターラビット』の著者ビアトリクス・ポターが、毎朝虫眼鏡で植物やコケの微細構造を精密に観察し、雑念を消して芸術的インスピレーションを育んだ脳科学的習慣。"
 pubDate: "2026-05-15"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「potter-botanical-sketch」は <strong>ビアトリクス・ポターの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ビアトリクス・ポターの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 微視的焦点合わせ（Micro-focused attention）によるDMN迷走の遮断と実行制御
+## 1. 微視的焦点合わせ（Micro-focused attention）によるDMN迷走の遮断と実行制御
 
 脳が過去の後悔や未来の心配で散漫になるのは、デフォルト・モード・ネットワーク（DMN）が過熱して迷走するためです。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 遠くを見ず、目の前にある物体の微細な筋一つに没頭してください
-
-この観察ルーティンの核心は、大げさな芸術的スケチではありません。葉っぱ一枚、鉛筆の先一つ、あるいは手の甲の皮膚のキメを虫眼鏡で見るように微視的に探求するその集中過程自体が、脳を癒します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 遠くを見ず、目の前にある物体の微細な筋一つに没頭してください
+
+この観察ルーティンの核心は、大げさな芸術的スケチではありません。葉っぱ一枚、鉛筆の先一つ、あるいは手の甲の皮膚のキメを虫眼鏡で見るように微視的に探求するその集中過程自体が、脳を癒します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>絵が上手く描けなくてもスケッチをすべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ！ 絵の代わりに発見した特徴をテキストで書き留めても、観察に脳が没頭する効果は100%同じです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>オフィスや室内でも自然物の代わりに適用できますか？</span>

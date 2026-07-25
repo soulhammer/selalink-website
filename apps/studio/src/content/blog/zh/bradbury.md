@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "唤醒无意识创造力的10词联想法：雷·布拉德伯里的发散性思维习惯"
 description: "探索现代科幻文学教父雷·布拉德伯里每天清晨写下10个无关联词汇并联想出微型故事的习惯，揭示刺激无意识联想链条以最大化提升发散性思维与创造力的神经科学原理。"
 pubDate: "2026-06-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 bradbury 的内容基于 <strong>雷·布拉德伯里随笔集《写作的禅意（Zen in the Art of Writing）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>雷·布拉德伯里随笔集《写作的禅意（Zen in the Art of Writing）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 激活发散性思维（Divergent Thinking）回路与强制随机联想
+## 1. 激活发散性思维（Divergent Thinking）回路与强制随机联想
 
 强行将无关的异质概念连接起来，能强效刺激大脑前额叶皮层的“发散性思维（Divergent Thinking）”回路。刚起床时，前额叶皮层的自上而下控制（Top-down Control）审查机制尚未完全启动，在此认知窗口期，潜藏于无意识领域的突触间有机结合（Combinatorial Play）更容易发生。随机词汇带来的陌生认知冲击能唤醒大脑颞叶与联合皮层网络，打破既有思维定式，促成颠覆性的商业创意与创造性难题解决方案。
 
 ---
 
-## 注意事项与提示：摒弃完美主义与完全沉浸于联想流
-
-在执行这项习惯时，切勿企图从一开始就写出精致完美的语句或成熟的文章。一旦过度在意语法精细度与行文流畅度，前额叶皮层的审查机制便会介入并中断无意识联想链条。核心在于完全沉浸于快速强行组合异质概念的“联想过程本身”。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：摒弃完美主义与完全沉浸于联想流
+
+在执行这项习惯时，切勿企图从一开始就写出精致完美的语句或成熟的文章。一旦过度在意语法精细度与行文流畅度，前额叶皮层的审查机制便会介入并中断无意识联想链条。核心在于完全沉浸于快速强行组合异质概念的“联想过程本身”。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>这项联想写作习惯必须每天清晨践行吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       在清晨刚起床、无意识活动强烈的窗口期执行词汇联想，在神经学上最为高效。不过，哪怕调整为每周践行3-4次，也足以有效锻炼前额叶皮层的发散性思维回路并激活创造力。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若身边没有词汇卡或纸张，该如何进行替代？</span>

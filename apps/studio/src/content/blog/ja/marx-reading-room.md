@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "大英博物館のドーム下の10時間？カール・マルクスの連合皮質読書法"
 description: "社会の隠された作動原理を経済学的に解剖したカール・マルクス。ロンドン亡命時代、大英博物館の閲覧室で毎日10時間ずつ膨大な文献を読み記録した執拗な読書習慣と脳科学的原理を探ります。"
 pubDate: "2026-03-17"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「marx-reading-room」は <strong>カール・マルクスの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>カール・マルクスの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## なぜ大英博物館での10時間ディープリーディングは知的再構成を可能にしたのか？
+## 1. なぜ大英博物館での10時間ディープリーディングは知的再構成を可能にしたのか？
 
 脳科学研究によると、多くの異種分野の断片的な知識を高次元に統合する能力は、脳の「連合皮質（Association Cortex）」と前頭葉の活性化に由来します。マルクスが大英博物館で毎日10時間、外部の刺激を完全に遮断したままアナログテキストに没頭し、手書きで摘録ノート（Exzerpiorhefte）を編纂した過程は、脳の神経網を多次元的に再構成する神経学的ディープワーク（Deep Work）でした。
 
 ---
 
-## 受動的な読書とデジタル収集の錯覚を警戒する
-
-単に多くの記事やPDF資料を保存して目で流し読みする行為は、脳の浅い刺激しか残さず、長期記憶や高次元な概念結合にはつながりません。マルクスの手書き摘録ノートのように、能動的な注釈作業が伴わなければ真の知的資産にはなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 受動的な読書とデジタル収集の錯覚を警戒する
+
+単に多くの記事やPDF資料を保存して目で流し読みする行為は、脳の浅い刺激しか残さず、長期記憶や高次元な概念結合にはつながりません。マルクスの手書き摘録ノートのように、能動的な注釈作業が伴わなければ真の知的資産にはなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Q1. 大英博物館の10時間読書を現代の社会人や学生が応用するにはどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,8 +104,8 @@ faqs:
       現代人が毎日10時間を維持するのは困難なため、「時間の量」ではなく「集中の密度」を複製すべきです。週末や早朝の60 - 90分間、スマートフォンを切り、図書館や静かな空間で一つの原典アナログテキストに完全に没頭する「マイクロディープリーディングセッション」として応用できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
-  <details class="group cursor-pointer">
+
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Q2. デジタルノートを使う現代人が手書き摘録ノートを作成する際の脳科学的利点は何ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -109,7 +114,7 @@ faqs:
       摘録ノート（Exzerpiorhefte）は単なる筆写ではなく、テキストとの能動的な対話です。テキストの核心主張とデータを引用した後、その下に自分の言葉で解説し、疑問点や既存理論との連結環を記録するとき、前頭葉と連合皮質が強力に活性化されます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Q3. ディープリーディング中に集中力が切れたり複雑な概念に行き詰まった際、どう克服すればよいですか？</span>

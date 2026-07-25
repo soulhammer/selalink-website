@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "扫清心灵尘埃的清晨：千利休的庭院扫除习惯"
 description: "茶道宗师千利休通过扫地净化心灵的轶事。解释通过简单的重复动作消除大脑认知噪音的动觉冥想的认知科学原理。"
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rikyu-garden-sweeping 的内容基于 <strong>千利休庭院扫除历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>千利休庭院扫除历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 扫帚声与大脑认知噪音的锚定效应
+## 1. 扫帚声与大脑认知噪音的锚定效应
 
 有节奏地扫地向大脑传递即时而简单的物理反馈，将注意力锚定在当下。这种感官集中有效地稳定了大脑皮层中引发焦虑和分心的认知噪音信号。根据神经科学研究，这种行为能抑制杏仁核不必要的焦虑反应，激活视觉空间草稿簿回路，从而显著提升长期执行功能。
 
 ---
 
-## 茶道宗师关于清空心灵尘埃的建议
-
-真正需要扫除的尘埃不在地面，而在心中。每天清晨通过轻微的重复性身体活动，赐予大脑平静与留白。不要仅仅依赖意志力，预先设计好能自然引发该行为的物理环境和习惯提示才是持之以恒的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     结束5分钟的活动后，静静地观察整洁的区域以及微小的自然痕迹，细细体味内心的宁静。
   </p>
 </div>
+
+---
+
+## 3. 茶道宗师关于清空心灵尘埃的建议
+
+真正需要扫除的尘埃不在地面，而在心中。每天清晨通过轻微的重复性身体活动，赐予大脑平静与留白。不要仅仅依赖意志力，预先设计好能自然引发该行为的物理环境和习惯提示才是持之以恒的关键。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Permainan Kartu Solitaire di Kantor Kepresidenan: Rutinitas Reduksi Kelelahan Keputusan ala Charles de Gaulle"
 description: "Pelajari bagaimana Presiden Prancis Charles de Gaulle melepaskan kelelahan dari urusan negara yang berisiko tinggi dengan bermain kartu solitaire. Temukan neurosains kognitif tentang bagaimana pencocokan pola non-verbal menonaktifkan filter pengambilan keputusan prefrontal."
 pubDate: "2026-03-28"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'perma
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai degaulle-solitaire-refresh didasarkan pada <strong>Verifikasi Historis dari Memoar Charles de Gaulle *War Memoirs (Mémoires de guerre)* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Memoar Charles de Gaulle *War Memoirs (Mémoires de guerre)* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Meredakan Kelelahan Keputusan & Menenangkan Kelebihan Beban Amigdala Melalui Pencocokan Pola Non-Verbal
+## 1. Meredakan Kelelahan Keputusan & Menenangkan Kelebihan Beban Amigdala Melalui Pencocokan Pola Non-Verbal
 
 Pengambilan keputusan berisiko tinggi yang berkepanjangan menguras glukosa di korteks prefrontal (PFC), memicu 'Kelebihan Beban Keputusan' (Decision Fatigue). Kondisi ini memicu lonjakan kortisol dan membuat amigdala berada dalam respons stres hiper-reaktif. Terlibat dalam pencocokan pola mandiri tanpa ancaman yang terstruktur—seperti menyusun kartu solitaire—secara instan mengalihkan pemrosesan otak dari 'Mode Penilaian Eksekutif Aktif' ke 'Mode Pencocokan Pola Visual Pasif'.
 
 ---
 
-## Perhatian & Tip: Memblokir Kelebihan Beban Digital & Mengadopsi Pencocokan Analog Taktil
-
-Mencoba bersantai dengan menggulir video pendek media sosial atau bermain game seluler membuat filter kognitif prefrontal tetap aktif, memperpanjang kelelahan keputusan melalui evaluasi informasi yang konstan dan paparan cahaya biru. Untuk mencapai pelepasan prefrontal sejati seperti de Gaulle, putuskan sambungan dari notifikasi digital selama 10 menit dan terlibat dalam pencocokan analog taktil non-verbal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Mencoba bersantai dengan menggulir video pendek media sosial atau bermain game s
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Memblokir Kelebihan Beban Digital & Mengadopsi Pencocokan Analog Taktil
+
+Mencoba bersantai dengan menggulir video pendek media sosial atau bermain game seluler membuat filter kognitif prefrontal tetap aktif, memperpanjang kelelahan keputusan melalui evaluasi informasi yang konstan dan paparan cahaya biru. Untuk mencapai pelepasan prefrontal sejati seperti de Gaulle, putuskan sambungan dari notifikasi digital selama 10 menit dan terlibat dalam pencocokan analog taktil non-verbal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah bermain solitaire di aplikasi smartphone memberikan hasil reduksi kelelahan keputusan yang sama?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Mencoba bersantai dengan menggulir video pendek media sosial atau bermain game s
       Tidak. Aplikasi smartphone memancarkan cahaya biru dan notifikasi yang secara terus-menerus merekrut jaringan perhatian prefrontal. Menggunakan kartu kertas analog fisik memungkinkan korteks somatosensori terlibat sambil menonaktifkan filter eksekutif prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah gagal menyelesaikan atau memenangkan permainan solitaire menyebabkan stres tambahan?</span>

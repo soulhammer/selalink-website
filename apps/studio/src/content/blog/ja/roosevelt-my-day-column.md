@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "揺るぎない自我を打ち立てる記録力：エレノア・ルーズベルトの毎晩の省察執筆"
 description: "米国で最も影響力のあるファーストレディ、エレノア・ルーズベルト。27年間にわたり毎晩その日の人生を寄稿し、自我を確立したジャーナリングルーティンとメタ認知効果を明かします。"
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「roosevelt-my-day-column」は <strong>エレノア・ルーズベルトの歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エレノア・ルーズベルトの歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 短期記憶の長期固定化と認知的メタ認知の促進
+## 1. 短期記憶の長期固定化と認知的メタ認知の促進
 
 一日の経験や感情が整理されないまま放置されると、脳の扁桃体（Amygdala）を刺激してストレス記憶として内在化したり、作業記憶の容量を圧迫します。エレノア・ルーズベルトのように一日の流れを書いて構造化する行為は、脳の<strong>「海馬（Hippocampus）」</strong>を活性化し、エピソード記憶を安定した長期記憶へと移行させます。さらに、感情を客観的な言葉に置き換えるプロセスは前頭葉を刺激し、自分を三人称視点から眺める「メタ認知（Metacognition）」能力を飛躍的に向上させます。
 
 ---
 
-## 見せかけや理想的な目標ではなく、観照的な淡々さを維持してください
-
-ジャーナリングを書く際に無理にポジティブな言葉ばかりを並べたり、実行が難しい重い計画ばかり記録すると、かえって脳は認知的ストレスを受け、記録習慣を阻害します。エレノアのように今日経験した客観的事実や会った人を淡々と振り返り、その事実に含まれる自分の内面状態を水が流れるように軽く記録する気楽さが不可欠です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 見せかけや理想的な目標ではなく、観照的な淡々さを維持してください
+
+ジャーナリングを書く際に無理にポジティブな言葉ばかりを並べたり、実行が難しい重い計画ばかり記録すると、かえって脳は認知的ストレスを受け、記録習慣を阻害します。エレノアのように今日経験した客観的事実や会った人を淡々と振り返り、その事実に含まれる自分の内面状態を水が流れるように軽く記録する気楽さが不可欠です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>日記を毎日書いていると、書く内容が毎回同じになってしまうのですが、どうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       日常が反復されても、その中で出会う人物、食べ物の味、天気の匂いなど、毎日の微細な変化を一つずつ捉えてみてください。微細な違いを探す試み自体が脳の注意力を発達させ、メタ認知を訓練する素晴らしい脳トレになります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>デジタル日記アプリやNotionに入力しても効果はありますか？</span>

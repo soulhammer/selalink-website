@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Limpando a tela para a criação: o hábito de ditado matinal de Andy Warhol"
 description: "Andy Warhol ligava para sua assistente todas as manhãs para ditar os acontecimentos e despesas do dia anterior. Descubra como essa descarga verbal elimina a sobrecarga cognitiva."
 pubDate: "2026-05-25"
@@ -35,25 +36,23 @@ Neste artigo, exploramos os benefícios da descarga cognitiva dessa rotina e apr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre warhol-morning-dictation é baseada em <strong>Registros históricos e biográficos de Andy Warhol e pesquisas em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Registros históricos e biográficos de Andy Warhol e pesquisas em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reinício da memória de trabalho e descarga cognitiva através da expressão verbal
+## 1. Reinício da memória de trabalho e descarga cognitiva através da expressão verbal
 
 A memória de trabalho tem capacidade limitada. Pensamentos não resolvidos ou preocupações de ontem ocupam um espaço valioso. Ditá-los verbalmente pela manhã facilita a <strong>Descarga Cognitiva (Cognitive Offloading)</strong>. Falar organiza e transfere as memórias para um armazenamento externo, liberando capacidade mental para focar nas tarefas criativas de hoje.
 
 ---
 
-## Precauções e dicas
-
-Evite tentar falar de forma muito estruturada. Se você focar na gramática, o cérebro processará isso como outra tarefa complexa. Mantenha o ditado livre e rápido como um monólogo interno (Brain Dump).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Evite tentar falar de forma muito estruturada. Se você focar na gramática, o c
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Evite tentar falar de forma muito estruturada. Se você focar na gramática, o cérebro processará isso como outra tarefa complexa. Mantenha o ditado livre e rápido como um monólogo interno (Brain Dump).
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como pessoas sem assistente podem praticar o ditado matinal?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Evite tentar falar de forma muito estruturada. Se você focar na gramática, o c
       Use a funcionalidade de voz para texto do celular ou um app de notas com IA para fazer um 'brain dump' verbal de 5 minutos sobre os acontecimentos de ontem.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quais tópicos devem ser abordados no ditado para aumentar a produtividade?</span>

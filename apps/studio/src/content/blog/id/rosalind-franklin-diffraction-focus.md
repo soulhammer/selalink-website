@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ilmuwan Wanita yang Membuka Rahasia Struktur DNA? Rutinitas Pemeriksaan Presisi 0,1 Derajat Rosalind Franklin"
 description: "Rosalind Franklin melahirkan 'Foto 51', kunci struktur untai ganda DNA. Pelajari kebiasaan pemeriksaan kesalahan 0,1 derajat tanpa kompromi dan panduan presisi untuk kehidupan modern."
 pubDate: "2026-02-24"
@@ -33,17 +34,17 @@ Dalam artikel ini, kami membahas rutinitas pemeriksaan presisi 0,1 derajat Rosal
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai rosalind-franklin-diffraction-focus didasarkan pada <strong>Riset biografi historis Rosalind Franklin & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi historis Rosalind Franklin & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mencegah Kesalahan Kognitif Lewat Pencocokan Angka Spasial Parietal
+## 1. Mencegah Kesalahan Kognitif Lewat Pencocokan Angka Spasial Parietal
 
 Saat melakukan tugas biasa, otak mudah terjebak heuristik ('mungkin sudah benar'), melewatkan kesalahan ketik atau angka yang fatal.
 
@@ -51,9 +52,7 @@ Saat melakukan tugas biasa, otak mudah terjebak heuristik ('mungkin sudah benar'
 
 ---
 
-## Prioritaskan Kepastian di Atas Kecepatan pada Tahap Akhir
-
-Terburu-buru di akhir membuat kesalahan kecil merusak kredibilitas seluruh hasil kerja Anda. Perlambat tempo selama 10 menit fase pemeriksaan. Rancangkan lingkungan Anda agar proses presisi menjadi otomatis.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Terburu-buru di akhir membuat kesalahan kecil merusak kredibilitas seluruh hasil
   </p>
 </div>
 
+---
+
+## 3. Prioritaskan Kepastian di Atas Kecepatan pada Tahap Akhir
+
+Terburu-buru di akhir membuat kesalahan kecil merusak kredibilitas seluruh hasil kerja Anda. Perlambat tempo selama 10 menit fase pemeriksaan. Rancangkan lingkungan Anda agar proses presisi menjadi otomatis.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bukankah memeriksa secara teliti setiap kali memakan waktu terlalu banyak?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Terburu-buru di akhir membuat kesalahan kecil merusak kredibilitas seluruh hasil
       Waktu yang dihabiskan untuk memperbaiki kesalahan, meminta maaf, dan mengerjakan ulang nanti 10 kali lebih besar. Pemeriksaan 10 menit di awal adalah cara tercepat.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah pencocokan kuantitatif dapat diterapkan pada teks atau pekerjaan umum?</span>

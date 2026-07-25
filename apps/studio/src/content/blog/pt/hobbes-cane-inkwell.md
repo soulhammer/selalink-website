@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Filósofo que Montou um Tinteiro em Sua Bengala: O Método de Anotação Imediata e Rotina de Externalização Cognitiva de Thomas Hobbes"
 description: "Descubra como o pensador Thomas Hobbes fixou um tinteiro em sua bengala para capturar ideias instantaneamente. Explore a neurociência da expansão da memória de trabalho, a Rede de Modo Padrão (DMN) e a externalização cognitiva."
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás do método de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre hobbes-cane-inkwell é baseada em <strong>Verificação Histórica de *Breves Vidas (Brief Lives)* de John Aubrey, Arquivos de Thomas Hobbes e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Breves Vidas (Brief Lives)* de John Aubrey, Arquivos de Thomas Hobbes e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prevenção da Deterioração da Memória de Trabalho e Neurociência da Externalização Cognitiva
+## 1. Prevenção da Deterioração da Memória de Trabalho e Neurociência da Externalização Cognitiva
 
 Ao caminhar de forma relaxada, a <strong>Rede de Modo Padrão (DMN)</strong> se ativa, gerando flashes criativos. No entanto, essas ideias residem no buffer de curto prazo da <strong>Memória de Trabalho</strong>, tendendo a desaparecer em 10 a 15 segundos. O tinteiro de Hobbes funcionava como a ferramenta definitiva de <strong>Externalização Cognitiva</strong>. Descarregar as ideias no papel evita a sobrecarga pré-frontal e libera capacidade executiva.
 
 ---
 
-## Precaução: Protocolo para Registrar Dentro da Janela de 10 Segundos
-
-Adiar a anotação pensando 'vou organizar isso quando chegar em casa' subestima a deterioração da memória de trabalho. A maioria das ideias geradas ao caminhar é sobrescrita no hipocampo por novos estímulos antes de você sentar à mesa. Para preservar seu valor, externalize as ideias na janela de 10 segundos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Adiar a anotação pensando 'vou organizar isso quando chegar em casa' subestima
   </p>
 </div>
 
+---
+
+## 3. Precaução: Protocolo para Registrar Dentro da Janela de 10 Segundos
+
+Adiar a anotação pensando 'vou organizar isso quando chegar em casa' subestima a deterioração da memória de trabalho. A maioria das ideias geradas ao caminhar é sobrescrita no hipocampo por novos estímulos antes de você sentar à mesa. Para preservar seu valor, externalize as ideias na janela de 10 segundos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Thomas Hobbes realmente usou uma bengala com um tinteiro historicamente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Adiar a anotação pensando 'vou organizar isso quando chegar em casa' subestima
       Sim, com certeza. Seu biógrafo e amigo pessoal John Aubrey registrou em *Breves Vidas* que Hobbes instalou um tinteiro no castão de sua bengala e levava papel nos bolsos para anotar pensamentos durante suas caminhadas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>A gravação de voz ou a digitação é mais eficaz para anotações em movimento?</span>

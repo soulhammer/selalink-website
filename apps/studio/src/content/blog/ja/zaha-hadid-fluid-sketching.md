@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "直線枠を破った建築の巨匠：ザハ・ハディドの有機的曲線スケッチルーティン"
 description: "プリツカー賞受賞の建築家ザハ・ハディド。格子状の観念を破り、手で有機的な曲線を自由に描いて3次元空間を構想した彼女の脳刺激法と3ステップ実践ガイドを紹介します。"
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「zaha-hadid-fluid-sketching」は <strong>ザハ・ハディド歴史的伝記および自伝的記録考証＆認知神経科学研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ザハ・ハディド歴史的伝記および自伝的記録考証＆認知神経科学研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 右脳的視空間処理回路（Visuospatial Processing）の刺激
+## 1. 右脳的視空間処理回路（Visuospatial Processing）の刺激
 
 定型化されたガイドラインや直線に依存すると脳の左脳論理領域が優位に立ち、固定観念を強化します。ハディドのように制約のない<strong>有機的な手描きスケッチ</strong>を実行すると右脳の視空間処理領域が活性化され、新しい視覚的アイデアが極大化されます。
 
 ---
 
-## 序盤の完成度に対する精密な執着への注意
-
-スケッチ序盤に「綺麗な絵を描こう」と定規を使ったり非対称を修正しようとすると、脳の自由発想回路が閉じます。最初の5分間は完成度ではなく自由な線の流れだけに集中してください。精神力だけに頼らず、行動が自然と誘発される物理的環境を整えることが継続の鍵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 序盤の完成度に対する精密な執着への注意
+
+スケッチ序盤に「綺麗な絵を描こう」と定規を使ったり非対称を修正しようとすると、脳の自由発想回路が閉じます。最初の5分間は完成度ではなく自由な線の流れだけに集中してください。精神力だけに頼らず、行動が自然と誘発される物理的環境を整えることが継続の鍵です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>絵の具やデッサン技術が全くなくてもこのルーティンを使えますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい！芸術作品を作ることが目的ではなく「手の動きで右脳の空間回路を刺激する」認知トレーニングですので、落書きレベルの線でも十分な効果が得られます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>タブレットのデジタルペンシルを使っても効果は同じですか？</span>

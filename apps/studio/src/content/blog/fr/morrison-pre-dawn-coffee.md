@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rituel de l'aube pour éveiller la créativité : La routine de préparation à l'écriture à 5 h du matin de Toni Morrison"
 description: "La lauréate du prix Nobel Toni Morrison réinitialisait ses pensées et entrait dans son écriture en contemplant l'aube à 5 h chaque matin. Découvrez son secret de concentration et sa valeur en neurosciences."
 pubDate: "2026-02-27"
@@ -35,17 +36,17 @@ Elle qualifiait cet acte d'« observation de la venue de la lumière », avouant
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant morrison-pre-dawn-coffee est basée sur <strong>Biographies historiques et récits autobiographiques de Toni Morrison et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Toni Morrison et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Éveil de l'horloge biologique circadienne et stimulation des photorécepteurs rétiniens
+## 1. Éveil de l'horloge biologique circadienne et stimulation des photorécepteurs rétiniens
 
 Exposer le cerveau à la lumière bleue vive d'un smartphone dès le réveil dans une pièce sombre provoque un pic de cortisol, augmentant le niveau d'anxiété.
 
@@ -53,9 +54,7 @@ L'observation de l'aube par Toni Morrison permet à la lumière naturelle d'impa
 
 ---
 
-## Ne touchez à aucun appareil électronique pendant que la lumière naturelle touche vos yeux
-
-Le plus grand destructeur des routines de l'aube est l'arrivée de notifications ou de messages. Pendant les 5 minutes consacrées à l'observation de la lumière, n'allumez aucun écran numérique. Ne déversez pas de bruit visuel sur vos cellules cérébrales en éveil ; laissez la lumière naturelle imprégner votre esprit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Le plus grand destructeur des routines de l'aube est l'arrivée de notifications
   </p>
 </div>
 
+---
+
+## 3. Ne touchez à aucun appareil électronique pendant que la lumière naturelle touche vos yeux
+
+Le plus grand destructeur des routines de l'aube est l'arrivée de notifications ou de messages. Pendant les 5 minutes consacrées à l'observation de la lumière, n'allumez aucun écran numérique. Ne déversez pas de bruit visuel sur vos cellules cérébrales en éveil ; laissez la lumière naturelle imprégner votre esprit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'heure du lever du soleil varie selon les saisons ; dois-je ajuster mon réveil ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Le plus grand destructeur des routines de l'aube est l'arrivée de notifications
       Il n'est pas nécessaire de caler votre réveil à la minute près sur le lever du soleil. Profiter de l'atmosphère calme et sombre juste avant le jour (généralement entre 5h00 et 6h00) suffit amplement pour réinitialiser le cerveau.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Je ne suis pas du matin et me sens très fatigué en me levant tôt ; que puis-je faire ?</span>

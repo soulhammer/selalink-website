@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Forzar la Concentración Bloqueando Salidas: El Hábito de Aislamiento Afeitándose de Victor Hugo y la Estrategia de Precompromiso"
 description: "Descubra cómo Victor Hugo se afeitó la mitad del cabello y la barba para evitar salir de casa y cumplir con una fecha límite. Explore la neurociencia de las restricciones físicas ambientales y la prevención de la fatiga de voluntad."
 pubDate: "2026-06-29"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre hugo-hair-shaving se basa en <strong>Verificación Histórica de *Victor Hugo: Una biografía* de Graham Robb, Terapia de Conducta e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Victor Hugo: Una biografía* de Graham Robb, Terapia de Conducta e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estrategia de Precompromiso y Prevención de la Fatiga de Voluntad Prefrontal
+## 1. Estrategia de Precompromiso y Prevención de la Fatiga de Voluntad Prefrontal
 
 La capacidad humana para resistir la tentación depende de recursos finitos en la <strong>Corteza Prefrontal</strong>. Ejercer autocontrol de forma continua expuesto a distracciones provoca <strong>Fatiga de la Voluntad (Willpower Fatigue)</strong>. El método de Victor Hugo de eliminar físicamente la opción de ceder a la tentación se conoce como <strong>Estrategia de Precompromiso (Precommitment Strategy)</strong>. Al esconder su ropa y alterar su imagen, eliminó la tentación de raíz, permitiendo que su cerebro concentrara el 100% de su energía en la escritura.
 
 ---
 
-## Precaución: Configure Entornos Físicos de Precompromiso en Lugar de Confiar en la Voluntad
-
-No intente superar las notificaciones o tentaciones solo con fuerza de voluntad. Siguiendo el ejemplo de Hugo, la clave del éxito es configurar limitaciones ambientales físicas por adelantado (cajas de bloqueo de teléfono, bloqueadores de sitios web) para que el enfoque no requiera esfuerzo mental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ No intente superar las notificaciones o tentaciones solo con fuerza de voluntad.
   </p>
 </div>
 
+---
+
+## 3. Precaución: Configure Entornos Físicos de Precompromiso en Lugar de Confiar en la Voluntad
+
+No intente superar las notificaciones o tentaciones solo con fuerza de voluntad. Siguiendo el ejemplo de Hugo, la clave del éxito es configurar limitaciones ambientales físicas por adelantado (cajas de bloqueo de teléfono, bloqueadores de sitios web) para que el enfoque no requiera esfuerzo mental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Realmente Victor Hugo se afeitó la mitad del cabello y de la barba para escribir su novela?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ No intente superar las notificaciones o tentaciones solo con fuerza de voluntad.
       Sí, totalmente. A finales de 1830, ante una fecha límite estricta para *Nuestra Señora de París*, Hugo se afeitó la mitad de la cabeza y la barba e hizo guardar su ropa de salir para aislarse en casa hasta terminar la novela.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué métodos modernos de aislamiento y precompromiso puedo usar sin afeitarme el cabello?</span>

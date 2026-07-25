@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Melodias compostas ao lavrar a terra: O hábito de trabalho agrícola matinal de Giuseppe Verdi"
 description: "Giuseppe Verdi acordava às 5 da manhã na fazenda Sant'Agata para lavrar a terra e suar antes de escrever partituras. Investigando o mecanismo pelo qual o trabalho físico sob a luz solar matinal fornece serotonina abundante ao cérebro, desencadeando a inspiração criativa."
 pubDate: "2026-06-21"
@@ -31,25 +32,23 @@ Giuseppe Verdi, mestre da ópera do século XIX e grande compositor que abalou a
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre verdi-morning-farming é baseada em <strong>Pesquisa histórica de biografias e registros autobiográficos de Verdi Morning Farming e estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa histórica de biografias e registros autobiográficos de Verdi Morning Farming e estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurofisiologia da exposição à natureza matinal e conexão com a terra (Earthing)
+## 1. Neurofisiologia da exposição à natureza matinal e conexão com a terra (Earthing)
 
 Sair cedo ao ar livre ao amanhecer para realizar trabalho físico suprime a secreção de melatonina, o hormônio do sono, sob a luz solar natural e ativa a síntesis de serotonina, o neurotransmissor da felicidade. Além disso, pesquisas recentes em neurociência ambiental mostram que tocar a terra e o contato direto com o solo (earthing) reduz radicais livres e desloca o sistema nervoso autônomo para o domínio parassimpático, reduzindo notavelmente os níveis de estresse cerebral. Consequentemente, as barreiras cognitivas se rompem e o cérebro entra em um modo relaxado de pensamento divergente, permitindo a combinação intuitiva de melodias extremamente ricas e belas.
 
 ---
 
-## Precauções e dicas
-
-Ao introduzir o trabalho físico matinal como rotina, o que deve ser evitado é o treinamento de força de alta intensidade ou atividade física exaustiva que canse excessivamente o cérebro. Quando o ácido lático se acumula no corpo e surge uma fadiga física severa, a glicose e a energia pré-frontal necessárias para o trabalho criativo são esgotadas, prejudicando a criatividade; portanto, limite-se a atividades leves de cerca de 15 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Ao introduzir o trabalho físico matinal como rotina, o que deve ser evitado é 
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Ao introduzir o trabalho físico matinal como rotina, o que deve ser evitado é o treinamento de força de alta intensidade ou atividade física exaustiva que canse excessivamente o cérebro. Quando o ácido lático se acumula no corpo e surge uma fadiga física severa, a glicose e a energia pré-frontal necessárias para o trabalho criativo são esgotadas, prejudicando a criatividade; portanto, limite-se a atividades leves de cerca de 15 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Exercício matinal na academia tem um efeito estimulante cerebral criativo semelhante à agricultura de Verdi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Ao introduzir o trabalho físico matinal como rotina, o que deve ser evitado é 
       Exercício aeróbico e ativação muscular leve ajudam, mas treinos em academia sob luz artificial são menos eficazes para suprimir a melatonina. A atividade sob a luz solar natural combinada com a conexão com a terra (earthing — tocar diretamente a terra e elementos naturais) é necessária para alcançar estabilidade neural poderosa e ativação de serotonina como Verdi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que deve ser observado ao introduzir o trabalho físico matinal?</span>

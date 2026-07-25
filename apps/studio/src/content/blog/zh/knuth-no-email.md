@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "离线深度专注：高德纳（Donald Knuth）的电邮切断习惯与防范上下文切换指南"
 description: "探索计算机科学泰斗高德纳（Donald Knuth）如何自1990年起停用电子邮件，坚守离线深度工作（Deep Work）。揭示阻断上下文切换（Context Switching）、防范注意力残留（Attention Residue）与批量处理（Batch Processing）的神经科学原理与3步骤指南。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 knuth-no-email 的内容基于 <strong>高德纳官方声明《电子邮件与我（Email and I）》与斯坦福档案考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong> 撰写。
+      本内容基于 <strong>高德纳官方声明《电子邮件与我（Email and I）》与斯坦福档案考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 阻断上下文切换（Context Switching）与防范注意力残留（Attention Residue）神经科学原理
+## 1. 阻断上下文切换（Context Switching）与防范注意力残留（Attention Residue）神经科学原理
 
 每当翻阅电子邮件或即时消息弹窗之际，大脑便被迫经历剧烈的<strong>上下文切换（Context Switching）</strong>，付出现重昂贵的认知代价。即便重新返回主线任务，大脑的部分注意力算力依然会被死死牵绊于刚查阅信息的余波中，这在认知心理学中被称为<strong>“注意力残留（Attention Residue）”</strong>。欲待此残留噪点散尽、促使<strong>前额叶皮层（Prefrontal Cortex）</strong>重获巅峰心流专注，需耗费长达20分钟以上的漫长时耗。如高德纳般构建离线边界以从源头杜绝注意力的碎片化，大脑方能毫无挂碍拉满高阶抽象思考与系统逻辑架构设计。
 
 ---
 
-## 注意事项：克制实时应答冲动，引入批量处理（Batch Processing）机制指南
-
-如高德纳般彻底永久废弃电子邮件与即时通讯软件，在现代协作型组织中或许切合实际度较低。机制的核心绝非生硬一刀切，而在于遏制随时查阅的本能冲动、引入<strong>批量处理（Batch Processing）</strong>逻辑。在每日固定的1-2次集中统一回复窗口期之外彻底静音通知，捍卫大脑成块的连贯心流时间（Chunk of Focus）。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：克制实时应答冲动，引入批量处理（Batch Processing）机制指南
+
+如高德纳般彻底永久废弃电子邮件与即时通讯软件，在现代协作型组织中或许切合实际度较低。机制的核心绝非生硬一刀切，而在于遏制随时查阅的本能冲动、引入<strong>批量处理（Batch Processing）</strong>逻辑。在每日固定的1-2次集中统一回复窗口期之外彻底静音通知，捍卫大脑成块的连贯心流时间（Chunk of Focus）。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如何就个人延迟查阅邮件的批处理时段向协作团队展开透明沟通、规避误解？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       在电子邮件自动回复器或即时通讯软件的个人状态栏中明确告示个人的工作节奏。附上一句温馨阐发：“为攻坚核心重磅项目，本人每日集中批量查阅邮件两次（11:00 与 16:00）。若遇极紧急事务，请直接拨打电话或联系紧急通道。”如此便可稳固团队预期，卸除沟通壁垒，精细建起认知保护屏障。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>高德纳作为泰斗方可决绝停用电邮，普通职场白领能否切合实际地等效复刻？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Meditação a 300 km/h: A rotina de visualização pré-corrida de Ayrton Senna"
 description: "Ayrton Senna, o lendário campeão da Fórmula 1, sentava-se em seu cockpit antes de cada corrida e fechava os olhos para visualizar toda a pista com perfeição. Descubra o mecanismo neurológico do ensaio mental que pré-ativa o córtex motor para eliminar erros de execução."
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ Analisamos o mecanismo neurológico por trás do ensaio mental de Senna e como a
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre senna-pre-race-visualization é baseada em <strong>Biografias históricas de Ayrton Senna, registros de corridas de F1 & pesquisas em Neurociência Cognitiva e psicologia do esporte</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas de Ayrton Senna, registros de corridas de F1 & pesquisas em Neurociência Cognitiva e psicologia do esporte</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Simulação visual e ativação de neurônios motores na Área Motora Suplementar (SMA)
+## 1. Simulação visual e ativação de neurônios motores na Área Motora Suplementar (SMA)
 
 Mesmo sem se mover fisicamente, imaginar uma ação em detalhes extremos ativa a Área Motora Suplementar (SMA) e o córtex motor primário. Mais de 90% do circuito neuronal do movimento real se acende na visualização.
 
@@ -53,9 +54,7 @@ Esse ensaio mental melhora a eficiência da sinalização neural, reduzindo o te
 
 ---
 
-## Simule o processo, não apenas o resultado
-
-Um erro comum é imaginar apenas o resultado (ex.: sucesso no evento). Para ativar o córtex motor e reduzir erros, simule os detalhes do processo (ex.: palavras exatas de abertura, respostas a perguntas). Apenas a visualização do processo traz o efeito de preparação neuroplástica.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Um erro comum é imaginar apenas o resultado (ex.: sucesso no evento). Para ativ
   </p>
 </div>
 
+---
+
+## 3. Simule o processo, não apenas o resultado
+
+Um erro comum é imaginar apenas o resultado (ex.: sucesso no evento). Para ativar o córtex motor e reduzir erros, simule os detalhes do processo (ex.: palavras exatas de abertura, respostas a perguntas). Apenas a visualização do processo traz o efeito de preparação neuroplástica.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que fazer se a simulação mental aumentar minha ansiedade?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Um erro comum é imaginar apenas o resultado (ex.: sucesso no evento). Para ativ
       A ansiedade aumenta quando o cérebro foca em cenários negativos. Pare a visualização imediatamente e faça o aterramento sensorial (Grounding) — focando na respiração ou no toque da mão —, seguido de alongamentos leves.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Qual é a duração recomendada para cada sessão de ensaio mental?</span>

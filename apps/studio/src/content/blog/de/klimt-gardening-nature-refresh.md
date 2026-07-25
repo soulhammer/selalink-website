@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Maler im blauen Kittel, der die Morgenrosen betrachtete: Gustav Klimts Garten-Spaziergangsroutine und Soft Fascination"
 description: "Erfahren Sie, wie der Meister der Goldenen Phase Gustav Klimt seine Seh-Aufmerksamkeit durch Spaziergänge in den Gärten am Attersee regenerierte. Entdecken Sie die Attention Restoration Theory (ART), fraktale Geometrie der Natur und eine 3-Schritte-Anleitung."
 pubDate: "2026-07-14"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Umweltpsychologie und Neurowissenschafte
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu klimt-gardening-nature-refresh basiert auf <strong>Historische Überprüfung aus Gustav Klimt Biografien, Attersee-Archiven & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Gustav Klimt Biografien, Attersee-Archiven & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Betrachtung natürlicher Fraktale und Attention Restoration Theory (ART)
+## 1. Betrachtung natürlicher Fraktale und Attention Restoration Theory (ART)
 
 Das Arbeiten vor Bildschirmen in bebauter Umgebung verbraucht <strong>gerichtete Aufmerksamkeit (Directed Attention)</strong> und führt zu <strong>Aufmerksamkeitserschöpfung (Attention Fatigue)</strong> im Gehirn. Nach der <strong>Attention Restoration Theory (ART)</strong> lösen natürliche Formen – wie botanische Fraktale in Blättern und Blüten – einen Zustand namens <strong>weiche Faszination (Soft Fascination)</strong> aus. Das mühelose Betrachten natürlicher Strukturen regeneriert die Kapazitäten im <strong>präfrontalen Kortex</strong> und lädt die visuelle Kreativität wieder auf.
 
 ---
 
-## Vorsichtsmaßnahme: Smartphone-Kameras vermeiden und mit bloßem Auge beobachten
-
-Sobald Sie das Smartphone zücken, um Fotos für soziale Medien zu machen, schaltet das Gehirn wieder auf externe Bewertung und Bildgestaltung um. Dies hebt den Erholungseffekt auf. Betrachten Sie Tiefenwirkung und feine Muster der Natur wie Klimt mit bloßem Auge, anstatt die Realität durch eine Kameralinse zu filtern.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Sobald Sie das Smartphone zücken, um Fotos für soziale Medien zu machen, schal
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Smartphone-Kameras vermeiden und mit bloßem Auge beobachten
+
+Sobald Sie das Smartphone zücken, um Fotos für soziale Medien zu machen, schaltet das Gehirn wieder auf externe Bewertung und Bildgestaltung um. Dies hebt den Erholungseffekt auf. Betrachten Sie Tiefenwirkung und feine Muster der Natur wie Klimt mit bloßem Auge, anstatt die Realität durch eine Kameralinse zu filtern.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie lässt sich diese Routine anwenden, wenn kein Garten oder Park in der Nähe ist?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Sobald Sie das Smartphone zücken, um Fotos für soziale Medien zu machen, schal
       Das 3-minütige Betrachten von Zimmerpflanzen, Straßenbäumen vor dem Fenster oder Wolken am Himmel bietet dieselben Vorteile nach der Attention Restoration Theory (ART).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie lässt sich der Garten-Spaziergang an Regentagen ersetzen?</span>

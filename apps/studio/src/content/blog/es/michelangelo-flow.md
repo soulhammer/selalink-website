@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El escultor que no se quitó la ropa durante semanas? El hábito de súper inmersión (Flow) de Miguel Ángel"
 description: "Miguel Ángel Buonarroti, el supremo maestro del Renacimiento. Descubra su hábito de preservación de energía cognitiva de dormir brevemente con ropa y botas al esculpir el David y pintar la Capilla Sixtina, y cómo diseñar un estado de flujo extremo."
 pubDate: "2026-03-22"
@@ -36,22 +37,20 @@ En este artículo, analizamos la ciencia cognitiva tras la minimización de ritu
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre michelangelo-flow se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Miguel Ángel y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Miguel Ángel y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Minimizar la fatiga de decisión y preservar los recursos cognitivos
+## 1. Minimizar la fatiga de decisión y preservar los recursos cognitivos
 
 La ciencia del comportamiento moderna define el agotamiento de la energía mental autorreguladora causado por elecciones triviales como 'Agotamiento del Ego' o 'Fatiga de Decisión'. Decidir qué vestir o qué comer cada mañana fatiga el centro de control ejecutivo. Al aislarse y minimizar las decisiones rutinarias sobre ropa y comida, Miguel Ángel preservó el 100% de su energía mental exclusivamente para la creación artística.
 
 ---
 
-## El genio se desata cuando la energía se enfoca únicamente en lo esencial
-
-Miguel Ángel se llevó al límite para evitar interrumpir su flujo mental hasta completar la escultura. En la era actual de sobrecarga de información, en lugar de agotar su cerebro en decisiones y estímulos constantes, construya murallas cognitivas para proteger su tarea más importante.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Miguel Ángel se llevó al límite para evitar interrumpir su flujo mental hasta
   </p>
 </div>
 
+---
+
+## 3. El genio se desata cuando la energía se enfoca únicamente en lo esencial
+
+Miguel Ángel se llevó al límite para evitar interrumpir su flujo mental hasta completar la escultura. En la era actual de sobrecarga de información, en lugar de agotar su cerebro en decisiones y estímulos constantes, construya murallas cognitivas para proteger su tarea más importante.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Miguel Ángel dormía sin quitarse la ropa ni las botas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Miguel Ángel se llevó al límite para evitar interrumpir su flujo mental hasta
       Porque se negaba a interrumpir su delicado estado de flujo. Al eliminar las transiciones cotidianas (cambiarse de ropa, ducharse, dormir largos periodos), canalizó la corriente continua de inspiración artística directamente a sus esculturas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuáles son consejos prácticos para reducir la fatiga de decisión en el día a día moderno?</span>

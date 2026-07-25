@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "매일 2시간 산책의 영감: 차이콥스키의 창의적 보행 습관"
 description: "러시아의 위대한 작곡가 표트르 일리치 차이콥스키는 음악적 아이디어를 떠올리기 위해 매일 정확히 2시간씩 걸었습니다. 지속적 보행과 디폴트 모드 네트워크(DMN)의 뇌과학적 원리를 다룹니다."
 pubDate: "2026-06-01"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) 및 인지신경과학 연구</strong>에 근거하여 tchaikovsky-two-hour-walk 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) 및 인지신경과학 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 매일 정확히 2시간의 규율적 산책이 주는 뇌파 리듬 안정
+## 1. 매일 정확히 2시간의 규율적 산책이 주는 뇌파 리듬 안정
 
 매일 일정 시각 정확히 2시간 동안 바깥 공기를 마시며 걷는 차이콥스키의 원칙적인 산책 습관은 뇌의 시공간 피질과 해마 혈류량을 높여 대곡 교향곡의 아름다운 선율을 머릿속에서 부화시키는 동력이 되었습니다. 지속적인 보행은 대뇌의 디폴트 모드 네트워크(DMN)를 활성화하여 무의식 속에 잠자던 기억과 감정 선율의 결합을 촉진합니다.
 
 ---
 
-## 산책 규율 시간 준수의 중요성
-
-차이콥스키가 산책 시간을 엄격히 사수한 것처럼, 영감을 얻기 위한 보행 시간 동안에는 스마트폰이나 업무용 알림 같은 외부 방해 요소를 완전히 차단해야 합니다. 정해진 보행 루틴을 온전히 완수하여 뇌가 정서적 평온과 창의적 몰입 상태에 도달하도록 환경을 조성하십시오.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     중간에 포기하지 않고 2시간의 보행 루틴을 온전히 완수하여 뇌 혈류량을 높이고 신경계를 이완시킨 후, 즉시 서재나 작업대로 돌아와 구상한 내용을 정리합니다.
   </p>
 </div>
+
+---
+
+## 3. 산책 규율 시간 준수의 중요성
+
+차이콥스키가 산책 시간을 엄격히 사수한 것처럼, 영감을 얻기 위한 보행 시간 동안에는 스마트폰이나 업무용 알림 같은 외부 방해 요소를 완전히 차단해야 합니다. 정해진 보행 루틴을 온전히 완수하여 뇌가 정서적 평온과 창의적 몰입 상태에 도달하도록 환경을 조성하십시오.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le sculpteur qui gardait ses vêtements pendant des semaines ? L'habitude d'hyper-immersion (Flow) de Michel-Ange"
 description: "Michel-Ange Buonarroti, le maître incontesté de la Renaissance. Découvrez son habitude d'économie d'énergie cognitive consistant à dormir par courtes siestes habillé et botté lors de la sculpture du David et des fresques de la Sixtine, et comment concevoir un état de Flow extrême."
 pubDate: "2026-03-22"
@@ -33,25 +34,23 @@ Cet article analyse la science cognitive qui sous-tend la minimisation des tâch
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant michelangelo-flow est basée sur <strong>Études des biographies historiques et récits autobiographiques de Michel-Ange & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Études des biographies historiques et récits autobiographiques de Michel-Ange & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Minimiser la fatigue décisionnelle et préserver les ressources cognitives
+## 1. Minimiser la fatigue décisionnelle et préserver les ressources cognitives
 
 La science du comportement moderne qualifie l'épuisement de l'énergie mentale d'autorégulation par de grands choix futiles d'« Épuisement de l'ego » (Ego Depletion) ou de « Fatigue décisionnelle ». Choisir quoi porter ou quoi manger chaque matin fatigue le centre de contrôle exécutif du cerveau. En s'isolant et en réduisant les décisions banales, Michel-Ange a préservé 100 % de son énergie intellectuelle pour l'art.
 
 ---
 
-## Le génie s'exprime lorsque toute l'énergie se concentre sur l'essentiel
-
-Michel-Ange poussait son engagement à l'extrême pour préserver son élan jusqu'à l'achèvement de sa sculpture. Dans l'ère actuelle de surinformation, plutôt que d'épuiser votre esprit en choix superficiels, érigez des remparts cognitifs pour préserver votre priorité absolue.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Michel-Ange poussait son engagement à l'extrême pour préserver son élan jusq
   </p>
 </div>
 
+---
+
+## 3. Le génie s'exprime lorsque toute l'énergie se concentre sur l'essentiel
+
+Michel-Ange poussait son engagement à l'extrême pour préserver son élan jusqu'à l'achèvement de sa sculpture. Dans l'ère actuelle de surinformation, plutôt que d'épuiser votre esprit en choix superficiels, érigez des remparts cognitifs pour préserver votre priorité absolue.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Michel-Ange dormait-il sans enlever ses vêtements ni ses bottes ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Michel-Ange poussait son engagement à l'extrême pour préserver son élan jusq
       Parce qu'il refusait de briser son état de concentration extrême. En éliminant les transitions quotidiennes (se changer, se doucher, dormir longtemps), il canalisait le flux continu de sa création directement dans ses œuvres.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quels sont les conseils pratiques pour réduire la fatigue décisionnelle au quotidien ?</span>

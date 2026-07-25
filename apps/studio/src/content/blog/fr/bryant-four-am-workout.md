@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Miracle à 4 heures du matin : La routine d'entraînement Mamba de Kobe Bryant"
 description: "Découvrez comment l'icône du basket-ball Kobe Bryant débutait sa première session d'entraînement à 4h chaque matin, et explorez les principes neuroscientifiques et physiologiques montrant comment un entraînement matinal régulier verrouille le rythme circadien et optimise la performance physique."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons les mécanismes physiologiques et n
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant bryant-four-am-workout est basée sur <strong>Vérification Historique issue de l'autobiographie de Kobe Bryant *Mentalité Mamba : Ma façon de jouer (The Mamba Mentality: How I Play)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Kobe Bryant *Mentalité Mamba : Ma façon de jouer (The Mamba Mentality: How I Play)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mécanismes physiologiques du réalignement du noyau suprachiasmatique (NSQ) et d'éveil neuronal moteur
+## 1. Mécanismes physiologiques du réalignement du noyau suprachiasmatique (NSQ) et d'éveil neuronal moteur
 
 Exécuter de façon constante un entraînement de haute intensité à une heure matinale identique aligne le 'Noyau Suprachiasmatique (NSQ)' de l'hypothalamus sur cet horaire. 1) Le NSQ enclenche la sécrétion précoce de cortisol (Cortisol) et élève de manière préventive la température corporelle et le tonus cardiovasculaire, neutralisant l'inertie du sommeil (Sleep Inertia) et les déficits moteurs du réveil. 2) Un entraînement matinal régulier conditionne le Système Nerveux Autonome (SNA) à optimiser la répartition de l'énergie métabolique tôt dans la journée, élevant la réactivité neuromusculaire, l'efficacité cardiorespiratoire et le contrôle exécutif à des niveaux diurnes.
 
 ---
 
-## Précautions & Conseils : Garantir un temps de sommeil total (7 à 8 heures) & Échauffement indispensable
-
-Une routine de réveil à 4h ne peut fonctionner sur la privation de sommeil. Pour vous lever à 4h, vous devez impérativement vous coucher entre 21h et 22h la veille pour garantir 7 à 8 heures de sommeil. Exécuter des routines matinales en manque de sommeil entraîne une fatigue du système nerveux central et une baisse de l'immunité. De plus, les articulations et vaisseaux sanguins étant rigides au réveil, un échauffement dynamique d'au moins 10 minutes est obligatoire pour éviter les blessures.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Une routine de réveil à 4h ne peut fonctionner sur la privation de sommeil. Po
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Garantir un temps de sommeil total (7 à 8 heures) & Échauffement indispensable
+
+Une routine de réveil à 4h ne peut fonctionner sur la privation de sommeil. Pour vous lever à 4h, vous devez impérativement vous coucher entre 21h et 22h la veille pour garantir 7 à 8 heures de sommeil. Exécuter des routines matinales en manque de sommeil entraîne une fatigue du système nerveux central et une baisse de l'immunité. De plus, les articulations et vaisseaux sanguins étant rigides au réveil, un échauffement dynamique d'au moins 10 minutes est obligatoire pour éviter les blessures.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Faut-il maintenir strictement l'horaire de réveil à 4h du matin le week-end et les jours fériés ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Une routine de réveil à 4h ne peut fonctionner sur la privation de sommeil. Po
       Pour un alignement circadien optimal, il est idéal de maintenir les variations de réveil du week-end à moins d'une heure d'écart par rapport à la semaine. Un sommeil excessif le week-end réinitialise l'horloge interne du NSQ, ce qui accentue la fatigue le reste de la semaine. La régularité est primordiale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Réaliser des tâches intellectuelles (travail, lecture) immédiatement après un entraînement à 4h améliore-t-il la concentration ?</span>

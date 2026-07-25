@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Modularité de la pensée : La méthode d'écriture sur fiches de Vladimir Nabokov"
 description: "L'auteur Vladimir Nabokov consignait ses romans sous forme de fragments sur des fiches et en réordonnait la séquence. Met en lumière la valeur en sciences cognitives de la planification par fiches, qui bloque la surcharge cognitive et combine les idées créatives de manière flexible."
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons comment le rituel de planification 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant nabokov-index-card est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques sur la fiche de Nabokov & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques sur la fiche de Nabokov & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mécanismes neuronaux de blocage de la charge cognitive et créativité combinatoire
+## 1. Mécanismes neuronaux de blocage de la charge cognitive et créativité combinatoire
 
 Lorsque le cerveau perçoit qu'il doit produire un résultat important et très abouti, l'amygdale déclenche une alarme inconsciente face à un échec potentiel, provoquant la procrastination. En commençant par une écriture anodine e sans enjeu, un signal de 'sécurité sans évaluation' est transmis au cerveau, apaisant l'hyperactivité de l'amygdale. Simultanément, l'aire de Broca et le cortex moteur s'activent légèrement, enclenchant les engrenages cognitifs et abaissant drastiquement la barrière de résistance au moment de s'atteler à la tâche principale.
 
 ---
 
-## Mises en garde et conseils
-
-Si vous vous laissez absorber par la rédaction de fiches en notant des idées au hasard sans lien entre elles, vous se heurterez plus tard à un immense mur de fragmentation au moment de les assembler. Par conséquent, chaque fiche ne doit contenir qu'une seule pensée ou épisode autonomes, e vous devez régulièrement vous remémorer l'architecture globale (par exemple, le plan général) pour classer au préalable les fiches dans des catégories approximatives.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Si vous vous laissez absorber par la rédaction de fiches en notant des idées a
     Une fois la séquence optimale établie, figez le déroulement des fiches et complétez le document ou le projet en développant chaque fiche dans l'ordre.
   </p>
 </div>
+
+---
+
+## 3. Mises en garde et conseils
+
+Si vous vous laissez absorber par la rédaction de fiches en notant des idées au hasard sans lien entre elles, vous se heurterez plus tard à un immense mur de fragmentation au moment de les assembler. Par conséquent, chaque fiche ne doit contenir qu'une seule pensée ou épisode autonomes, e vous devez régulièrement vous remémorer l'architecture globale (par exemple, le plan général) pour classer au préalable les fiches dans des catégories approximatives.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El genio que escribía partituras orquestales caminando por los canales: La rutina de captura de inspiración de Antonio Vivaldi"
 description: "El maestro barroco Antonio Vivaldi creó más de 500 conciertos, incluido 'Las cuatro estaciones'. Descubra el principio neurocientífico y la guía de 3 pasos tras su paseo al amanecer y rápida captura de ideas."
 pubDate: "2026-06-24"
@@ -36,14 +37,14 @@ En este artículo, revelamos los mecanismos neurocientíficos tras los paseos y 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre vivaldi-composition-walk se basa en <strong>Registros históricos y biográficos de Antonio Vivaldi e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Registros históricos y biográficos de Antonio Vivaldi e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Entrada sensorial y el mecanismo de velocidad de captura para ideas fugaces
+## 1. Entrada sensorial y el mecanismo de velocidad de captura para ideas fugaces
 
 Los estímulos físicos del aire fresco de la mañana estimulan la corteza visual y auditiva, activando asociaciones latentes en la memoria. Sin embargo, las chispas creativas tienen una retención muy breve en la memoria de trabajo prefrontal, desvaneciéndose en solo 1 o 2 minutos.
 
@@ -51,9 +52,7 @@ La rutina de captura rápida de Vivaldi evita la vacilación al <strong>external
 
 ---
 
-## Cuidado con la censura perfeccionista y la duda durante la captura de ideas
-
-En el momento en que se cuestiona racionalmente '¿es buena esta idea?', el cerebro olvida la inspiración. En la fase inicial de captura, vierta el 100% de las ideas en papel sin juzgarlas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ En el momento en que se cuestiona racionalmente '¿es buena esta idea?', el cere
   </p>
 </div>
 
+---
+
+## 3. Cuidado con la censura perfeccionista y la duda durante la captura de ideas
+
+En el momento en que se cuestiona racionalmente '¿es buena esta idea?', el cerebro olvida la inspiración. En la fase inicial de captura, vierta el 100% de las ideas en papel sin juzgarlas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué pasa si las notas rápidas tomadas al caminar no se entienden al revisarlas más tarde?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ En el momento en que se cuestiona racionalmente '¿es buena esta idea?', el cere
       Es fundamental revisar y completar sus notas dentro de las 1 o 2 horas posteriores a su captura. Reducir el tiempo entre la nota y el borrador preserva la memoria sensorial.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Algún consejo si grabar notas de voz en público se siente incómodo por la gente?</span>

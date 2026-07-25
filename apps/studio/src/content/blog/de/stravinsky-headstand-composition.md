@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspiration kopfüber: Igor Strawinskys Kopfstand-Kreativitätsmethode"
 description: "Der Musiker Igor Strawinsky machte einen Kopfstand, wann immer er beim Komponieren eine Blockade hatte. Erfahren Sie, wie eine Positionsveränderung die Gehirndurchblutung steigert und kreative Durchbrüche schafft."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ In diesem Beitrag enthüllen wir die Funktionsweise von Strawinskys Methode und 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu stravinsky-headstand-composition basiert auf <strong>Historische Autobiografie von Igor Strawinsky & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Autobiografie von Igor Strawinsky & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Wie der Kopfstand die Gehirndurchblutung und den Vestibulärsinn zurücksetzt
+## 1. Wie der Kopfstand die Gehirndurchblutung und den Vestibulärsinn zurücksetzt
 
 Wenn das Gehirn in einem Gedanken feststeckt, löst die vertikale Umkehrung der Körperhaltung zwei neurowissenschaftliche Veränderungen aus: Erstens lenkt die Schwerkraft verstärkt Blut in den Kopf und versorgt den Frontallappen sofort mit Sauerstoff und Nährstoffen. Zweitens nimmt das Vestibulärsystem im Innenohr ein ungewohntes Signal wahr, was räumliche Orientierungsnetzwerke im Gehirn aktiviert. Dies löst starre Aufmerksamkeitsfilter auf und fördert kreative Assoziationen.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps
-
-Bei Nacken- oder Blutdruckproblemen ersetzen Sie den vollen Kopfstand durch eine sanfte Halbumkehrung (z. B. Beine auf einen Stuhl legen). Halten Sie die Übung unter 1 Minute und bleiben Sie nach dem Beenden 30 Sekunden lang flach liegen, bevor Sie langsam aufstehen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Bei Nacken- oder Blutdruckproblemen ersetzen Sie den vollen Kopfstand durch eine
     Senken Sie die Füße vorsichtig ab und bleiben Sie 30 Sekunden lang flach liegen. Setzen Sie sich dann auf einen Stuhl und spüren Sie die gewonnene geistige Klarheit.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps
+
+Bei Nacken- oder Blutdruckproblemen ersetzen Sie den vollen Kopfstand durch eine sanfte Halbumkehrung (z. B. Beine auf einen Stuhl legen). Halten Sie die Übung unter 1 Minute und bleiben Sie nach dem Beenden 30 Sekunden lang flach liegen, bevor Sie langsam aufstehen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

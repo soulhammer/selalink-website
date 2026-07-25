@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "连续30年打造巨著的法国大师：埃米尔·左拉晨间3小时深度专注习惯"
 description: "文学巨匠埃米尔·左拉恪守30余年的“Nulla dies sine linea”（日记一行，绝不虚度）座右铭，以及每天晨间3小时专注写作习惯的科学原理与实操指南。"
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 zola-morning-writing-block 的内容基于 <strong>埃米尔·左拉历史传记与文献考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>埃米尔·左拉历史传记与文献考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过环境隔离防止意志力消耗与基底核自动化
+## 1. 通过环境隔离防止意志力消耗与基底核自动化
 
 频繁纠结“要不要现在开始工作”会白白浪费前额叶的葡萄糖与意志力。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 相比写作字数，请更关注固定时间的严格屏蔽
-
-埃米尔·左拉座右铭的核心在于“持之以恒，绝不虚度”。相比于苦思冥想追求完美文字，首要的是建立在固定的1小时内保持外界隔离这一习惯本身。切勿仅凭意志力硬撑，预先设计能够自然引发行动的物理环境与习惯信号才是持之以恒的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 相比写作字数，请更关注固定时间的严格屏蔽
+
+埃米尔·左拉座右铭的核心在于“持之以恒，绝不虚度”。相比于苦思冥想追求完美文字，首要的是建立在固定的1小时内保持外界隔离这一习惯本身。切勿仅凭意志力硬撑，预先设计能够自然引发行动的物理环境与习惯信号才是持之以恒的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>担心早晨会有紧急电子邮件或联系而感到不安时该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       真正的紧急联系必然会通过电话接入。只需将查收邮件与消息的时间推迟到晨间专注1小时之后，工作质量就能提升10倍。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>无法腾出完整3小时的上班族该如何应用？</span>

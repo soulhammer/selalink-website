@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le duo de divergence et de convergence : Les notes de promenade et la routine de journal nocturne de Ralph Waldo Emerson"
 description: "Découvrez comment le philosophe américain Ralph Waldo Emerson a transformé des étincelles fugaces en un système philosophique organique en combinant notes de promenade (pensée divergente) et journal nocturne (pensée convergente)."
 pubDate: "2026-06-02"
@@ -33,25 +34,23 @@ La force motrice de son système intellectuel résidait dans sa routine en deux 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant emerson-walking-journal-integration est basée sur <strong>Vérification Historique issue de l'ouvrage *The Journals of Ralph Waldo Emerson* & Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'ouvrage *The Journals of Ralph Waldo Emerson* & Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation cyclique des modes cognitifs diffus et convergent
+## 1. Activation cyclique des modes cognitifs diffus et convergent
 
 Les neurosciences cognitives montrent que la résolution créative de problèmes atteint son sommet lorsque le cerveau alterne entre le « Mode Diffus » — où la relaxation stimule l'association d'idées — et le « Mode Convergent (Focalisé) », qui vérifie la cohérence logique. Les promenades d'Emerson en nature activaient le Mode Diffus. Le soir, s'asseoir à son bureau pour structurer ses notes dans son journal activait le Mode Convergent. Cette routine en 2 étapes transforme des étincelles volages en connaissances pérennes.
 
 ---
 
-## Protocole de consolidation le jour même : Peaufiner les idées du jour avant la nuit
-
-L'erreur majeure consiste à laisser les notes de la journée de côté pendant plusieurs jours. L'indice de mémoire épisodique s'estompe rapidement. Attendre plusieurs jours efface les nuances sensorielle et le contexte d'origine, rendant les notes indéchiffrables. Respectez la règle du jour même : transférez et développez vos notes dans votre journal principal dans les 12 heures, le soir même.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ L'erreur majeure consiste à laisser les notes de la journée de côté pendant 
   </p>
 </div>
 
+---
+
+## 3. Protocole de consolidation le jour même : Peaufiner les idées du jour avant la nuit
+
+L'erreur majeure consiste à laisser les notes de la journée de côté pendant plusieurs jours. L'indice de mémoire épisodique s'estompe rapidement. Attendre plusieurs jours efface les nuances sensorielle et le contexte d'origine, rendant les notes indéchiffrables. Respectez la règle du jour même : transférez et développez vos notes dans votre journal principal dans les 12 heures, le soir même.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Puis-je enregistrer mes idées avec des memos vocaux ou des applications au lieu d'un carnet papier ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ L'erreur majeure consiste à laisser les notes de la journée de côté pendant 
       Oui. Le téléphone est une alternative valable si vous utilisez une application hors ligne sans notifications. L'important n'est pas le support, mais de maintenir votre cerveau en « Mode Diffus » pendant la marche et d'effectuer le transfert le soir même.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si une note de la journée est trop embryonnaire pour être développée le soir même ?</span>

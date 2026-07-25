@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como Domesticar a Musa: A Rotina Diária de Escrita de 2.000 Palavras e Condicionamento de Foco de Stephen King"
 description: "Explore a lendária rotina de escrita de Stephen King, um dos autores mais bem-sucedidos do mundo. Aprenda a neurociência do aprendizado sensoriomotor, gatilhos de condicionamento e um guia de 3 passos para sustentar a produtividade diária."
 pubDate: "2026-05-18"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás do 'ritual de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre king-writing-routine é baseada em <strong>Verificação Histórica das Memórias de Stephen King *Escrever: A Memória do Ofício (On Writing: A Memoir of the Craft, 2000)*, Arquivos de King e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Memórias de Stephen King *Escrever: A Memória do Ofício (On Writing: A Memoir of the Craft, 2000)*, Arquivos de King e Pesquisa em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aprendizado Sensoriomotor e Condicionamento Clássico para o Fluxo Profundo Automatizado
+## 1. Aprendizado Sensoriomotor e Condicionamento Clássico para o Fluxo Profundo Automatizado
 
 Associar repetidamente estímulos sensoriais (auditivos, gustativos, espaciais) a uma tarefa cria o <strong>Aprendizado Sensoriomotor (Sensorimotor Learning)</strong> e circuitos de condicionamento no cérebro. Quando Stephen King aciona gatilhos — tomar vitaminas, servir chá e tocar música — às 8h na mesma escrivaninha, seu sistema nervoso interpreta esses sinais como um comando para focar. Essa rota automatizada minimiza o gasto de energia no <strong>Córtex Pré-frontal</strong>, garantindo alta produtividade diária.
 
 ---
 
-## Precaução: Provoque o Foco via Condicionamento Ambiental em Vez de Esperar a Inspiração
-
-A inspiração não deve ser esperada de forma passiva; é um estado neurológico invocado intencionalmente por meio de gatilhos sensoriais em um local e horário fixos. Em vez de confiar na força de vontade, crie um sinal sensorial prévio para que seu cérebro entre em foco ao se sentar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A inspiração não deve ser esperada de forma passiva; é um estado neurológic
   </p>
 </div>
 
+---
+
+## 3. Precaução: Provoque o Foco via Condicionamento Ambiental em Vez de Esperar a Inspiração
+
+A inspiração não deve ser esperada de forma passiva; é um estado neurológico invocado intencionalmente por meio de gatilhos sensoriais em um local e horário fixos. Em vez de confiar na força de vontade, crie um sinal sensorial prévio para que seu cérebro entre em foco ao se sentar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que Stephen King estabeleceu uma meta diária mínima específica de 2.000 palavras?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A inspiração não deve ser esperada de forma passiva; é um estado neurológic
       Confiar no estado de espírito ou na inspiração gera um rendimento irregular. Fixar uma meta mínima obriga as redes executivas do cérebro a trabalhar de forma constante, evitando bloqueios criativos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Preciso replicar exatamente os gatilhos de Stephen King, como o hard rock ou as vitaminas?</span>

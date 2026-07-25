@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "遺伝子に向き合う沈黙：バーバラ・マクリントックの無言没頭ルーティン"
 description: "ノーベル賞受賞遺伝学者バーバラ・マクリントックは、顕微鏡を覗く際、完全な無言と自我消滅の沈黙を維持しました。雑念を消し去る感覚ゲーティング没入法を探ります。"
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「mcclintock-silent-focus」は <strong>バーバラ・マクリントック歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>バーバラ・マクリントック歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 無関係な認知刺激を遮断する感覚ゲーティング
+## 1. 無関係な認知刺激を遮断する感覚ゲーティング
 
 脳が多数の刺激を同時に処理すると、精緻な集中力やパターン認識能力が低下します。沈黙を約束し言語受容体を静める無言は、前頭葉が唯一の感覚入力にのみ全ての認知リソースを分配するよう誘導します。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 日常の社会的コミュニケーションの遮断ではなく、特定時間の集中が核心です
-
-マクリントックのルーティンは、重要な仕事に極度に没頭すべき制限された時間（例：30分〜1時間）の間、沈黙を守る技法です。日常生活の中で終日他者と会話せず孤立することは、かえって脳の感情的疲労を誘発し認知機能に害を及ぼします。没頭が必要なタイムブロックの間だけ戦略的に無言を実行すべきです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 日常の社会的コミュニケーションの遮断ではなく、特定時間の集中が核心です
+
+マクリントックのルーティンは、重要な仕事に極度に没頭すべき制限された時間（例：30分〜1時間）の間、沈黙を守る技法です。日常生活の中で終日他者と会話せず孤立することは、かえって脳の感情的疲労を誘発し認知機能に害を及ぼします。没頭が必要なタイムブロックの間だけ戦略的に無言を実行すべきです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>自習室のような既に静かな場所でも、この無言ルーティンを敢えて行う必要がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       はい、行うべきです。無言ルーティンの核心は単に外部環境を静かにすることに留まらず、スマートフォン通知の遮断と自らの沈黙宣言によって、脳が自発的に言語領域の作動を一時停止し、視覚情報受容領域の作動度を高めるよう「マインドセット」をチューニングする儀式だからです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>無言中に口に出さず、頭の中で独り言を言うことは集中を妨げますか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎朝10kmを走る作家：村上春樹の基礎体力ルーティン"
 description: "世界的なベストセラー小説家村上春樹。彼の徹底した朝の10kmランニングルーティンに隠された脳科学的原理と現代人のための3段階実践法を探ります。"
 pubDate: "2026-06-26"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「murakami-running」は <strong>村上春樹の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>村上春樹の歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳の若さを維持するランニングの脳科学
+## 1. 脳の若さを維持するランニングの脳科学
 
 小説を書くことは極度の精神的エネルギーを消費する作業です。村上春樹は毎日一定量の原稿を書く過酷な精神作業を支えるため、ランニングを通じて脳を鍛えました。
 
@@ -51,11 +52,7 @@ faqs:
 
 ---
 
-## 成功的なルーティンのための脳科学的アドバイス
-
-<strong>地道な反復が脳のリズムを作ります</strong>
-
-毎日繰り返す単純な身体活動は、意志力を消耗しない「自動化ルーティン」として定着します。一度脳にこのリズムが刻まれれば、仕事や執筆の際に生じる極度な精神的負荷にも耐えられる頑丈な基礎体力的防壁が形成されます。村上春樹のように規則的な運動を人生の最優先事項に掲げ、リズムを維持してみてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,6 +83,14 @@ faqs:
     走っている間はスマートフォンの複雑なメッセージやメールを確認せず、只管呼吸のリズムと足の裏が地面に触れる感覚に没頭します。このマインドフルなランニングは、複雑な頭の中を整理する最高の精神的デトックスになります。
   </p>
 </div>
+
+---
+
+## 3. 成功的なルーティンのための脳科学的アドバイス
+
+<strong>地道な反復が脳のリズムを作ります</strong>
+
+毎日繰り返す単純な身体活動は、意志力を消耗しない「自動化ルーティン」として定着します。一度脳にこのリズムが刻まれれば、仕事や執筆の際に生じる極度な精神的負荷にも耐えられる頑丈な基礎体力的防壁が形成されます。村上春樹のように規則的な運動を人生の最優先事項に掲げ、リズムを維持してみてください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

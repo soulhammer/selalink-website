@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pelatihan Kontrol Kognitif Earhart: Tenggelam dalam Angka Panel Instrumen Bahkan di Kokpit di Tengah Badai"
 description: "Penerbang wanita pertama yang berhasil menyeberangi Atlantik sendirian, ia meredakan kecemasan terbang dengan mencatat data cuaca dan perubahan angin secara presisi setiap pagi."
 pubDate: "2026-01-31"
@@ -31,25 +32,23 @@ Dalam postingan hari ini, kami memperkenalkan prinsip-prinsip sains kognitif di 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai amelia-earhart didasarkan pada <strong>Verifikasi Historis dari Autobiografi Amelia Earhart *The Fun of It* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Amelia Earhart *The Fun of It* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analisis Prinsip Neurosains yang Mendorong Keberhasilan
+## 1. Analisis Prinsip Neurosains yang Mendorong Keberhasilan
 
 Dalam situasi krisis atau lingkungan kerja yang penuh kecemasan, menekan gairah otak emosional (amigdala) dan menambatkan penilaian pada metrik fisik akan mengaktifkan jaringan Kontrol Kognitif (Cognitive Control) korteks prefrontal secara drastis. Proses mengonversi data instrumen yang terkumpul ke dalam bentuk teks dengan cepat serta melakukan meta-analisis mengendalikan sekresi hormon kortisol dan berfungsi sebagai mekanisme kuat yang mendorong pengambilan keputusan terbaik tanpa kesalahan tanpa perlu panik dalam lingkungan bisnis yang kompleks.
 
 ---
 
-## Saran Sains Perilaku untuk Penyelarasan yang Sukses
-
-Jangan terlalu terobsesi dengan analisis angka dengan menetapkan tujuan harian yang terlalu bertele-tele. Berfokuslah hanya pada menatap 3 angka instrumen yang lugas untuk meletakkan peta informasi faktual yang jelas pada otak Anda. Daripada hanya mengandalkan kemauan keras secara memaksakan diri, merancang lingkungan fisik dan isyarat kebiasaan terlebih dahulu agar tindakan terpicu secara alami adalah kunci dari keberlanjutan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Jangan terlalu terobsesi dengan analisis angka dengan menetapkan tujuan harian y
   </p>
 </div>
 
+---
+
+## 3. Saran Sains Perilaku untuk Penyelarasan yang Sukses
+
+Jangan terlalu terobsesi dengan analisis angka dengan menetapkan tujuan harian yang terlalu bertele-tele. Berfokuslah hanya pada menatap 3 angka instrumen yang lugas untuk meletakkan peta informasi faktual yang jelas pada otak Anda. Daripada hanya mengandalkan kemauan keras secara memaksakan diri, merancang lingkungan fisik dan isyarat kebiasaan terlebih dahulu agar tindakan terpicu secara alami adalah kunci dari keberlanjutan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah pelatihan panel instrumen langsung bekerja bahkan ketika pekerjaan tersendat dan rasa terburu-buru muncul?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Jangan terlalu terobsesi dengan analisis angka dengan menetapkan tujuan harian y
       Ya, langsung bekerja. Ketika rasa terburu-buru muncul, otak mengaktifkan amigdala secara berlebihan. Pada saat ini, jika Anda menuliskan angka-angka fisik seperti jumlah notifikasi pesan yang tersisa atau sisa menit tenggat waktu di atas kertas dengan lugas, jaringan kontrol kognitif otak akan bekerja secara top-down untuk menstabilkan emosi Anda.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Angka mana yang paling direkomendasikan untuk ditetapkan sebagai variabel panel penerbangan?</span>

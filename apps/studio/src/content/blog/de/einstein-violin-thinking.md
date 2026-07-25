@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Genie, das in gedanklichen Sackgassen Violine spielte: Albert Einsteins Reset-Routine und kognitive Wechselmethode"
 description: "Erfahren Sie, wie Albert Einstein, der die Physik revolutionierte, Geige spielte, um sein Gehirn bei Denkblockaden zurückzusetzen, und entdecken Sie einen praktischen 3-Schritte-Plan zur kognitiven Wechselmethode."
 pubDate: "2026-03-05"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaften hinter Albert Einste
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu einstein-violin-thinking basiert auf <strong>Historische Überprüfung aus Albert Einsteins Essaysammlung *Aus meinen späten Jahren (Out of My Later Years)*, Walter Isaacsons Biografie *Einstein: Seine Leben und sein Universum* & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Albert Einsteins Essaysammlung *Aus meinen späten Jahren (Out of My Later Years)*, Walter Isaacsons Biografie *Einstein: Seine Leben und sein Universum* & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivierung anderer Gehirnareale durch 'Kognitiven Wechsel' und das Default Mode Network
+## 1. Aktivierung anderer Gehirnareale durch 'Kognitiven Wechsel' und das Default Mode Network
 
 Wenn wir uns zu stark auf ein komplexes Problem konzentrieren, gerät das Gehirn in eine Schleife und aktiviert wiederholt dieselben Neuronenpfade – ein Zustand, den die Psychologie 'Tunnelblick' nennt. Einsteins Geigenspiel diente als Werkzeug für 'Kognitiven Wechsel', um überlastete Schaltkreise abzuschalten und andere Gehirnareale zu aktivieren. Das Musizieren stimuliert Hören, Sehen und Motorik gleichzeitig und regt den Balken (Corpus Callosum) an, der die Gehirnhälften verbindet. Durch den Abstand zur Aufgabe wechselt das Gehirn in das Default Mode Network (DMN) und kombiniert Informationen zu einem 'Aha-Moment'.
 
 ---
 
-## Loslassen lernen, um neue Ideen zu entdecken
-
-Einstein war nicht nur ein brillanter Physiker, sondern auch ein begabter Geiger. Für ihn war Musik kein unbedeutendes Hobby, sondern das stärkste Denkmittel gegen geistige Ermüdung und zur Aktivierung der Kreativität. Wenn Ideen ins Stocken geraten, wechseln Sie die Reize wie Einstein, um Ihrem Gehirn eine Pause zu gönnen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Einstein war nicht nur ein brillanter Physiker, sondern auch ein begabter Geiger
   </p>
 </div>
 
+---
+
+## 3. Loslassen lernen, um neue Ideen zu entdecken
+
+Einstein war nicht nur ein brillanter Physiker, sondern auch ein begabter Geiger. Für ihn war Musik kein unbedeutendes Hobby, sondern das stärkste Denkmittel gegen geistige Ermüdung und zur Aktivierung der Kreativität. Wenn Ideen ins Stocken geraten, wechseln Sie die Reize wie Einstein, um Ihrem Gehirn eine Pause zu gönnen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Nutzte Albert Einstein neben dem Geigespielen noch andere Methoden zum Reset?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Einstein war nicht nur ein brillanter Physiker, sondern auch ein begabter Geiger
       Ja. Einstein ging regelmäßig segeln, um den Wind zu spüren und zu meditieren. Zudem schlief er täglich über 10 Stunden, damit sein Unterbewusstsein komplexe Probleme ordnen konnte.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Können auch Personen ohne Musikkenntnisse diese Routine ausführen?</span>

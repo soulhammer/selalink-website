@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "빈민가의 고통 속에서 평정심을 지켜낸 방패? 마더 테레사의 아침 침묵 루틴"
 description: "인도 캘커타의 빈민가에서 평생 봉사한 마더 테레사. 고통스러운 타인의 감정에 휩쓸리지 않고 뇌의 공감망과 감정 조절력을 예열했던 그녀의 '새벽 4:30 침묵' 루틴의 과학적 효과와 15분 실천 팁을 알아봅니다."
 pubDate: "2026-04-19"
@@ -19,7 +20,7 @@ steps:
 faqs:
   - question: "명상 중에 오늘 해야 할 일과 걱정거리가 자꾸 떠오를 때는 어떻게 하나요?"
     answer: "그것은 뇌가 완전히 정지하지 못하고 연산 장치를 가동하려는 자연스러운 현상입니다. 생각이 떠오르는 것과 싸우지 말고, '아, 내가 오늘 할 일을 생각하고 있구나' 하고 머릿속 구름이 흐르듯 무심히 한걸음 뒤에서 관조하세요. 그리고 다시 의식을 콧등의 날숨 온도 변화와 들숨의 감각으로 가볍게 밀어 넣는 행위를 반복하는 것이 뇌파 정리에 훌륭한 해법입니다."
-  - question: "테레사 수녀는 1시간을 했다는데, 10~15분 정도로 줄여서 해도 뇌에 효과가 있나요?"
+  - question: "테레사 수녀는 1시간을 했다는데, 10 ~ 15분 정도로 줄여서 해도 뇌에 효과가 있나요?"
     answer: "네, 임상 뇌과학 및 스트레스 연구에 따르면, 완전한 암전/무음 상태에서의 침묵 명상은 단 10분만 고도로 지속하더라도 자율신경계 교감 신경 흥분을 억제하고 코르티솔 분비를 낮추는 유의미한 생리적 이완 효과를 냅니다. 시간이 부족하다면 아침에 단 10분이라도 스마트폰을 완전히 끄고 침묵하는 루틴을 일관되게 매일 실천하는 것이 장기적인 감정 제어력 향상에 큰 도움을 줍니다."
 ---
 
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>마더 테레사 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 teresa-silent-contemplation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>마더 테레사 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 감정 공감망(Empathy Network) 예열 및 편도체(Amygdala) 활성 억제
+## 1. 감정 공감망(Empathy Network) 예열 및 편도체(Amygdala) 활성 억제
 
 이른 아침의 침묵 명상(Silent Contemplation)은 교감신경의 과도한 흥분을 누르고 스트레스 호르몬을 조율하는 스트레스 조절 축(HPA 축)을 안정시킵니다. 이는 뇌의 정서 반응을 주관하는 편도체(Amygdala)의 과활성화를 물리적으로 억제하는 결과를 줍니다. 동시에 전두엽 피질과 정서 영역 간의 기능적 연결성을 강화하여, 타인의 슬픔이나 스트레스 상황에 뇌가 압도당하지 않고 평정심을 유지하도록 공감망(Empathy Network)과 감정 통제력을 최상 수준으로 예열해 줍니다.
 
 ---
 
-## 침묵 속 생각 억제의 오류와 흘려보내기 팁
-
-침묵을 실천할 때 머릿속에 떠오르는 걱정거리나 해야 할 일 목록을 '생각하지 말아야지' 하고 억지로 누르려 하면, 오히려 그 잡념이 더 크게 뇌리를 맴오는 반동 효과(Rebound Effect)가 나타납니다. 따라서 생각이 떠오르면 이를 통제하려 싸우지 말고, 흘러가는 구름을 바라보듯 그저 무심히 의식의 뒤편으로 흘려보내며 호흡의 공기 드나듦에만 의도적으로 집중을 유지하는 것이 생리적 뇌 안정에 좋습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 침묵 속 생각 억제의 오류와 흘려보내기 팁
+
+침묵을 실천할 때 머릿속에 떠오르는 걱정거리나 해야 할 일 목록을 '생각하지 말아야지' 하고 억지로 누르려 하면, 오히려 그 잡념이 더 크게 뇌리를 맴오는 반동 효과(Rebound Effect)가 나타납니다. 따라서 생각이 떠오르면 이를 통제하려 싸우지 말고, 흘러가는 구름을 바라보듯 그저 무심히 의식의 뒤편으로 흘려보내며 호흡의 공기 드나듦에만 의도적으로 집중을 유지하는 것이 생리적 뇌 안정에 좋습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>명상 중에 오늘 해야 할 일과 걱정거리가 자꾸 떠오를 때는 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,10 +102,10 @@ faqs:
       그것은 뇌가 완전히 정지하지 못하고 연산 장치를 가동하려는 자연스러운 현상입니다. 생각이 떠오르는 것과 싸우지 말고, '아, 내가 오늘 할 일을 생각하고 있구나' 하고 머릿속 구름이 흐르듯 무심히 한걸음 뒤에서 관조하세요. 그리고 다시 의식을 콧등의 날숨 온도 변화와 들숨의 감각으로 가볍게 밀어 넣는 행위를 반복하는 것이 뇌파 정리에 훌륭한 해법입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>테레사 수녀는 1시간을 했다는데, 10~15분 정도로 줄여서 해도 뇌에 효과가 있나요?</span>
+      <span>테레사 수녀는 1시간을 했다는데, 10 ~ 15분 정도로 줄여서 해도 뇌에 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

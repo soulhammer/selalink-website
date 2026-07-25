@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Kebangkitan Tengah Malam: Metode Menulis Hyperfocus 12 Jam dengan Kopi ala Honoré de Balzac"
 description: "Pelajari rutinitas menulis larut malam dan stimulasi kopi yang dipraktikkan oleh Honoré de Balzac, maestro realisme Prancis abad ke-19, dan temukan mekanisme neurosains hyperfocus yang memblokir stimulasi luar dan meningkatkan perhatian otak hingga ke tingkat ekstrem."
 pubDate: "2026-02-14"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains di balik 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai balzac-extreme-focus didasarkan pada <strong>Verifikasi Historis dari Biografi Stefan Zweig *Balzac* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Stefan Zweig *Balzac* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergi Eliminasi Total Kebisingan Kognitif dan Inhibisi Adenosin
+## 1. Sinergi Eliminasi Total Kebisingan Kognitif dan Inhibisi Adenosin
 
 Hambatan terbesar bagi fokus otak adalah 'Kebisingan Kognitif' yang masuk serta stimulasi visual atau pendengaran di sekitar. Jam-jam larut malam, bebas dari panggilan telepon dan notifikasi pesan, menawarkan lingkungan optimal di mana sumber daya kontrol kognitif prefrontal dapat didedikasikan sepenuhnya untuk satu tugas tunggal. Selain itu, kafein memblokir reseptor adenosin (Adenosine) yang memberi sinyal kelelahan ke otak, mencegah rasa lelah. Akibatnya, pelepasan dopamin (Dopamine) dan norepinefrin (Norepinephrine) dirangsang, mengasah konsentrasi dan mempertahankan kewaspadaan mental selama periode yang lama.
 
 ---
 
-## Melindungi Ritme Sirkadian & Waspada Terhadap Penyalahgunaan Kafein
-
-Kebiasaan bangun tengah malam Balzac dan asupan kafein yang berlebihan menimbulkan stres berat pada tubuhnya. (Bahkan, Balzac meninggal dunia pada usia muda 51 tahun akibat penyakit jantung yang diperparah oleh kurang tidur dan konsumsi kopi berat.) Oleh karena itu, saat menerapkan strategi fokus ini, masyarakat modern harus menghindari merusak pola tidur harian dan sebaliknya secara selektif memanfaatkan blok fokus yang tenang selama 2 hingga 3 jam sambil tetap menjaga ritme sirkadian alami mereka.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Kebiasaan bangun tengah malam Balzac dan asupan kafein yang berlebihan menimbulk
     Siapkan secangkir kopi atau teh hangat, hindari multitasking, dan curahkan seluruh energi Anda secara eksklusif hanya pada satu tugas berbobot tinggi yang telah dipilih sebelumnya.
   </p>
 </div>
+
+---
+
+## 3. Melindungi Ritme Sirkadian & Waspada Terhadap Penyalahgunaan Kafein
+
+Kebiasaan bangun tengah malam Balzac dan asupan kafein yang berlebihan menimbulkan stres berat pada tubuhnya. (Bahkan, Balzac meninggal dunia pada usia muda 51 tahun akibat penyakit jantung yang diperparah oleh kurang tidur dan konsumsi kopi berat.) Oleh karena itu, saat menerapkan strategi fokus ini, masyarakat modern harus menghindari merusak pola tidur harian dan sebaliknya secara selektif memanfaatkan blok fokus yang tenang selama 2 hingga 3 jam sambil tetap menjaga ritme sirkadian alami mereka.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

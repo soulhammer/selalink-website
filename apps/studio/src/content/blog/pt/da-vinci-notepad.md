@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Gênio que Sempre Carregava um Caderno na Cintura: A Rotina de Anotação Imediata e Externalização de Memória de Leonardo da Vinci"
 description: "Descubra como o polímata renascentista Leonardo da Vinci mantinha um caderno de couro preso à cintura para registrar observações. Explore a neurociência cognitiva de externalizar a memória de trabalho para liberar carga cognitiva."
 pubDate: "2026-05-29"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina do 'cadern
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre da-vinci-notepad é baseada em <strong>Verificação Histórica da Biografia de Walter Isaacson *Leonardo da Vinci* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Walter Isaacson *Leonardo da Vinci* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Liberação da Memória de Trabalho (RAM) Via Externalização e Redução da Carga Cognitiva
+## 1. Liberação da Memória de Trabalho (RAM) Via Externalização e Redução da Carga Cognitiva
 
 O cérebro humano funciona menos como um armazém permanente e mais como uma CPU processadora. A psicologia cognitiva demonstra que a capacidade da Memória de Trabalho é limitada (3 a 5 elementos). Reter pensamentos sem registrá-los obriga o córtex pré-frontal a consumir glicose, gerando Carga Cognitiva. A 'Externalização' imediata — escrever ou desenhar ideias assim que surgem — descarrega a memória de trabalho (RAM). Ao limpá-la, libera-se a capacidade pré-frontal para a síntese criativa.
 
 ---
 
-## Precauções e Dicas: Externalização Imediata e Bloqueio do Estresse de Retenção Interna
-
-O objetivo central de tomar notas é eliminar a carga mental de retenção. Pensar 'escreverei mais tarde' obriga o córtex pré-frontal a reter dados, gerando estresse e fadiga. Não se preocupe com a organização ao capturar a ideia. Escrever uma palavra-chave ou rabisco dentro de 5 segundos libera a memória de trabalho.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O objetivo central de tomar notas é eliminar a carga mental de retenção. Pens
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Externalização Imediata e Bloqueio do Estresse de Retenção Interna
+
+O objetivo central de tomar notas é eliminar a carga mental de retenção. Pensar 'escreverei mais tarde' obriga o córtex pré-frontal a reter dados, gerando estresse e fadiga. Não se preocupe com a organização ao capturar a ideia. Escrever uma palavra-chave ou rabisco dentro de 5 segundos libera a memória de trabalho.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que Leonardo da Vinci mantinha especificamente um caderno de couro preso ao cinto?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O objetivo central de tomar notas é eliminar a carga mental de retenção. Pens
       Para reduzir o atrito de acesso físico a zero, permitindo-lhe externalizar observações em segundos sem perder nenhum pensamento. Esse design sem atrito mantinha limpa sua memória de trabalho, reservando a capacidade pré-frontal para associações criativas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Usar um aplicativo de notas no celular produz os mesmos benefícios de externalização que um caderno de papel?</span>

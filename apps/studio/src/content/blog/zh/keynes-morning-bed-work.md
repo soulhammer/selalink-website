@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "被窝里孕育的《就业、利息和货币通论》：约翰·梅纳德·凯恩斯的晨间卧床工作习惯与CAR觉醒机制"
 description: "探索破局大萧条的宏观经济学泰斗约翰·梅纳德·凯恩斯如何在醒来后的2小时内斜倚于床榻撰写稿件。揭示皮质醇觉醒反应（CAR）、前额叶认知资源利用、防范睡眠惯性原理与3步骤实践指南。"
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 keynes-morning-bed-work 的内容基于 <strong>罗伯特·斯基德尔斯基《凯恩斯传（John Maynard Keynes）》史料考证及认知神经科学（Cognitive Neuroscience）与神经肌肉学（Neuromuscular Science）研究</strong> 撰写。
+      本内容基于 <strong>罗伯特·斯基德尔斯基《凯恩斯传（John Maynard Keynes）》史料考证及认知神经科学（Cognitive Neuroscience）与神经肌肉学（Neuromuscular Science）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 皮质醇觉醒反应（CAR）与前额叶认知资源黄金1小时机制
+## 1. 皮质醇觉醒反应（CAR）与前额叶认知资源黄金1小时机制
 
 在自清晨醒来后的30至45分钟内，人体神经内分泌系统会触发强悍的<strong>皮质醇觉醒反应（Cortisol Awakening Response，CAR）</strong>，由副肾急剧拉升天然活力激素——皮质醇的分泌。此时段堪称全天之中<strong>前额叶皮层（Prefrontal Cortex）</strong>毫无决策疲劳盘踞的绝对认知黄金期，能爆发出极高水准的逻辑构建力与创见。在斜倚床榻这般阻断外部噪点的刺激管控微环境中全情攻坚第一优先度的核心任务，便可在毫无认知能量挥霍的前提下将大脑执掌功能拉满至100%。
 
 ---
 
-## 注意事项：抬升上半身防范睡眠惯性（Sleep Inertia）与维系觉醒度指南
-
-在晨间进行卧床专注工作之际需严加提防的禁忌，乃是因<strong>睡眠惯性（Sleep Inertia）</strong>而重陷昏睡。若在大脑尚未彻底苏醒前呈180度平躺或低下头颅，脑波将倒退回诱发困意的<strong>西塔波（Theta Wave）</strong>状态。务必借助靠枕将头部与后背垫高抬升45度以上，向大脑中枢输送明确的体位觉醒信号，并将此冲刺严苛限定于20-30分钟内。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：抬升上半身防范睡眠惯性（Sleep Inertia）与维系觉醒度指南
+
+在晨间进行卧床专注工作之际需严加提防的禁忌，乃是因<strong>睡眠惯性（Sleep Inertia）</strong>而重陷昏睡。若在大脑尚未彻底苏醒前呈180度平躺或低下头颅，脑波将倒退回诱发困意的<strong>西塔波（Theta Wave）</strong>状态。务必借助靠枕将头部与后背垫高抬升45度以上，向大脑中枢输送明确的体位觉醒信号，并将此冲刺严苛限定于20-30分钟内。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在床榻上展开工作，是否会对脊柱、颈椎与关节健康施加不良影响？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全平躺并向前低头拱颈的体位会对颈椎与腰椎施加严重磨损。为庇护脊柱健康，务必使用硬质大靠垫将头部与后背稳固支撑垫高至45度以上，并将冲刺时间严苛限定于30分钟以内，方能兼顾躯体健康与极致生产力。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>醒来后先抽出短短5分钟查阅邮件或即时消息、随后再切入正题是否可行？</span>

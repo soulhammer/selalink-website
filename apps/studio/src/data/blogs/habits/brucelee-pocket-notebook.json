@@ -1,216 +1,318 @@
 {
   "brucelee-pocket-notebook": {
-    "title": {
-      "ko": "찰나의 영감을 포획하는 사냥법: 브루스 리의 포켓 수첩 밀착 기록 루틴",
-      "en": "Hunting Fleeting Inspiration: Bruce Lee's Pocket Notebook Close-Capture Routine",
-      "ja": "刹那のインスピレーションを捕獲する狩猟法：ブルース・リーのポケット手帳密着記録ルーティン",
-      "zh": "捕获一瞬灵感的猎捕术：李小龙的口袋手账即时记录习惯",
-      "es": "Cazando la Inspiración Fugaz: La Rutina de Captura Inmediata con Cuaderno de Bolsillo de Bruce Lee",
-      "de": "Jagd auf flüchtige Inspirationen: Bruce Lees Taschen-Notizbuch-Routine zur sofortigen Erfassung",
-      "fr": "Chasser l'inspiration fugace : La routine de capture immédiate au carnet de poche de Bruce Lee",
-      "pt": "Caçando a Inspiração Fugaz: A Rotina de Captura Imadiata com Caderno de Bolso de Bruce Lee",
-      "id": "Berburu Inspirasi Singkat: Rutinitas Pencatatan Cepat Buku Catatan Saku ala Bruce Lee"
-    },
-    "description": {
-      "ko": "20세기 무술가이자 액션 스타 브루스 리(이소룡). 손길이 닿는 주머니마다 포켓 수첩을 소지하며 철학적 영감과 무예 구상을 실시간으로 포획했던 기록 철학과 망상활성계(RAS) 자극의 인지 메커니즘을 규명합니다.",
-      "en": "Explore how 20th-century martial artist and film icon Bruce Lee carried a pocket notebook to capture philosophical insights and martial arts concepts in real time, and discover the cognitive mechanisms of RAS stimulation behind immediate note-taking.",
-      "ja": "20世紀の武道家でありアクションスターのブルース・リー（李小龍）。手の届くポケットごとにポケット手帳を携帯し、哲学的なインスピレーションや武芸の構想をリアルタイムで捕獲した記録哲学と網様体不活系（RAS）刺激の認知メカニズムを解き明かします。",
-      "zh": "探索20世纪武道家兼巨星李小龙将口袋手账随身至于触手可及之处、实时捕获哲学灵感与武道构想的记录哲学，并揭示其背后网状激活系统（RAS）刺激的认知机制。",
-      "es": "Descubra cómo el marcialista e ícono del cine del siglo XX Bruce Lee llevaba un cuaderno de bolsillo para capturar ideas filosóficas y conceptos de artes marciales en tiempo real, y explore los mecanismos cognitivos de estimulación del SRA.",
-      "de": "Erkunden Sie, wie der Kampfkünstler und die Filmikone des 20. Jahrhunderts, Bruce Lee, ein Taschennotizbuch mit sich führte, um philosophische Erkenntnisse und Kampfsportkonzepte in Echtzeit festzuhalten, und entdecken Sie die kognitiven Mechanismen der RAS-Stimulation.",
-      "fr": "Découvrez comment l'artiste martial et icône du cinéma du XXe siècle Bruce Lee gardait un carnet de poche pour capturer ses réflexions philosophiques et concepts d'arts martiaux en temps réel, et explorez les mécanismes cognitifs de stimulation du SRA.",
-      "pt": "Descubra como o marcialista e ícone do cinema do século XX Bruce Lee carregava um caderno de bolso para capturar percepções filosóficas e conceitos de artes marciais em tempo real, e explore os mecanismos cognitivos de estimulação do SRA.",
-      "id": "Pelajari bagaimana seniman bela diri dan ikon film abad ke-20 Bruce Lee membawa buku catatan saku untuk menangkap wawasan filosofis dan konsep seni bela diri secara real-time, serta temukan mekanisme kognitif stimulasi RAS di balik pencatatan instan."
-    },
-    "authority": {
-      "ko": "존 리틀 평전 『이소룡 평전(Bruce Lee: Artist of Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical Verification from John Little's Biography *Bruce Lee: Artist of Life* & Cognitive Neuroscience Research",
-      "ja": "ジョン・リトル伝記『Bruce Lee: Artist of Life』考証＆認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "约翰·里特尔传记《李小龙：生活的艺术家（Bruce Lee: Artist of Life）》考证与认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Verificación Histórica de la Biografía de John Little *Bruce Lee: El artista de la vida (Bruce Lee: Artist of Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
-      "de": "Historische Überprüfung aus John Littles Biografie *Bruce Lee: Artist of Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
-      "fr": "Vérification Historique issue de la biographie de John Little *Bruce Lee : Artiste de la vie (Bruce Lee: Artist of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
-      "pt": "Verificação Histórica da Biografia de John Little *Bruce Lee: Artista da Vida (Bruce Lee: Artist of Life)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
-      "id": "Verifikasi Historis dari Biografi John Little *Bruce Lee: Artist of Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
-    },
-    "intro": {
-      "ko": "\"아는 것만으로는 충분하지 않다. 적용해야 한다. 하고자 하는 것만으로는 충분하지 않다. 행해야 한다.\" 🚶‍♂️\n\n전격적인 발차기와 압도적인 피지컬로 전 세계 은막을 매료시킨 액션 스타이자, 절권도(Jeet Kune Do)라는 독창적인 실용 무예와 동양 실존주의 철학을 하나로 통합해 낸 20세기 불멸의 문화적 아이콘 브루스 리(Bruce Lee / 이소룡, 1940–1973). 물처럼 유연한 그의 무술 동작과 깊이 있는 인생 잠언들은 한순간의 타고난 천재성이나 즉흥 연출이 아닌, 철저히 수집되고 매일 기록된 아이디어 노트들의 집대성 결실이었습니다.\n\n브루스 리는 셔츠 주머니나 청바지 뒷주머니 등 손길이 닿는 곳마다 언제나 한 손 크기의 작은 검은색 가죽 수첩과 볼펜을 소지하고 다녔습니다. 책을 정독할 때뿐만 아니라 영화 세트장 대기실, 지인들과 찻집에서 나누는 대화, 혹은 길을 걷다 스쳐 지나가는 풍경 등 일상의 모든 찰나에서 영감이 스칠 때마다 즉각 수첩을 펼쳐 적었습니다. 그의 포켓 수첩에는 웨이트 트레이닝의 정밀한 세트 수부터 인간 존재와 자아 성찰에 관한 심오한 철학적 메모들이 영어와 한자로 빼곡히 기록되어 있었습니다. 이 메모들은 그의 삶을 흔들림 없이 가이드하고 실질적인 무예 체계로 도출해 낸 확고한 지적 닻이었습니다.\n\n오늘 포스트에서는 이소룡이 평생 실천했던 '포켓 수첩 즉각 기록' 루틴의 뇌과학적 원리를 분석하고, 현대인이 일상의 스쳐 지나가는 생각들을 성장의 실질적 원동력으로 축적할 수 있는 3단계 실천 방안을 소개합니다.",
-      "en": "\"Knowing is not enough, we must apply. Willing is not enough, we must do.\" 🚶‍♂️\n\nBruce Lee (1940–1973) was an immortal 20th-century cultural icon who captivated global cinema with lightning-fast kicks and peak physical conditioning, while seamlessly fusing eastern existential philosophy into his martial art, Jeet Kune Do. His fluid, water-like combat techniques and profound life maxims were not mere flashes of innate genius or spontaneous improvisation, but the compiled output of meticulously gathered and recorded idea notebooks.\n\nBruce Lee carried a palm-sized black leather pocket notebook and pen everywhere—tucked in his shirt pocket or back jeans pocket. Whether deeply engrossed in reading, waiting between takes on movie sets, chatting in tea houses, or walking the streets, he immediately pulled out his notebook the instant an inspiration struck. His pocket volumes were densely filled with meticulous weight-training sets alongside profound philosophical ruminations written in English and Chinese characters. These notes served as the solid intellectual anchor that guided his life and forged his fighting system.\n\nIn today's post, we analyze the brain science underlying Bruce Lee's 'immediate pocket notebook recording' routine and present a 3-step practical action plan for modern individuals to capture fleeting daily thoughts and convert them into actionable growth fuel.",
-      "ja": "「知るだけでは十分ではない。適用しなければならない。しようとするだけでは十分ではない。実行しなければならない。」 🚶‍♂️\n\n電撃的な蹴りと圧倒的なフィジカルで全世界の銀幕を魅了したアクションスターであり、ジークンドー（Jeet Kune Do）という独創的な実用武芸と東洋の実存主義哲学を一つに統合した20世紀不滅の文化的アイコン、ブルース・リー（Bruce Lee / 李小龍、1940–1973）。水のように柔軟な彼の武術の動作と深みのある人生の格言は、一瞬の生まれつきの天才性や即興の演出ではなく、徹底的に収集され毎日記録されたアイデアノートの集大成の結実でした。\n\nブルース・リーはシャツのポケットやジーンズの後ろポケットなど、手の届く場所ごとにいつも片手サイズの小さな黒い革の手帳とボールペンを携帯していました。本を熟読する時はもちろん、映画のセットの控室、知人たちと喫茶店で交わす会話、あるいは道を歩いていてかすめて過ぎ去る風景など、日常のあらゆる刹那にインスピレーションがかすめるたびに即座に手帳を開いて書き留めました。彼のポケット手帳にはウエイトトレーニングの精密なセット数から、人間存在と自我省察に関する深遠な哲学的メモが英語と漢字でびっしりと記録されていました。これらのメモは彼の人生を揺るぎなくガイドし、実質的な武芸体系へと導き出した確固たる知的錨でした。\n\n本日の記事では、ブルース・リーが一生実践した「ポケット手帳即座記録」ルーティンの脳科学的原理を分析し、現代人が日常のかすめ去る考えを成長の実質的な原動力として蓄積できる3ステップの実践方案を紹介します。",
-      "zh": "“光知晓还不够，必须加以运用；光立志还不够，必须付诸行动。” 🚶‍♂️\n\n作为凭雷霆万钧的腿功与极致体魄风靡全球影坛的超级巨星，兼将“截拳道（Jeet Kune Do）”这一独创实战武道与东方存在主义哲学完美融合的20世纪不朽文化符号——李小龙（Bruce Lee，1940–1973）。他那如水般顺滑的武道动作与蕴含深意的人生格言，绝非出自一时的即兴表演，而是源于他数年如一日严谨收集与每日记录的灵感手账集大成。\n\n李小龙随身将一本掌心大小的黑色皮革口袋手账与圆珠笔置于衬衫口袋或牛仔裤后口袋中。无论是在专心研读经典、在电影片场休息室候场、与表亲朋友在茶馆闲聊，还是在街头漫步的细微瞬间，一旦脑海中划过一丝灵感，他便会立刻掏出手账快速记录。在他的口袋手账里，既有力量训练的精密组数，亦有关于人类存在与自我剖析的深奥哲学笔记，密密麻麻地交织着英文与汉字。这些随手笔记成为了指引他人生不偏离轨道、并将武道演化为实战体系的坚实智慧之锚。\n\n在今天的文章中，我们将分析李小龙终生践行的“口袋手账即时记录”习惯背后的脑科学原理，并为现代人捕获日常即逝灵感、将其转化为切实成长动能提供3步骤实践方案。",
-      "es": "\"Saber no es suficiente, debemos aplicar. Querer no es suficiente, debemos hacer.\" 🚶‍♂️\n\nBruce Lee (1940–1973) fue un ícono cultural inmortal del siglo XX que cautivó al cine mundial con patadas relámpago y una preparación física insuperable, al tiempo que fusionaba la filosofía existencial oriental en su arte marcial, el Jeet Kune Do. Sus técnicas de combate fluidas como el agua y sus profundas máximas de vida no eran destellos de genialidad innata ni improvisaciones, sino el resultado del copilado de cuadernos de ideas minuciosamente recopilados e impresos a diario.\n\nBruce Lee llevaba un cuaderno de bolsillo de cuero negro del tamaño de la palma de la mano y un bolígrafo a dondequiera que iba, guardado en el bolsillo de su camisa o en el trasero de sus vaqueros. Ya fuera leyendo con atención, esperando entre tomas en los sets de rodaje, conversando en teterías o caminando por la calle, sacaba de inmediato su cuaderno en el instante en que surgía una inspiración. Sus tomos de bolsillo estaban repleto de series de entrenamiento con pesas e intensas meditaciones filosóficas escritas en inglés y caracteres chinos. Estas notas sirvieron como el ancla intelectual que guió su vida y forjó su sistema de combate.\n\nEn la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina de 'registro inmediato en cuaderno de bolsillo' de Bruce Lee y presentamos un plan práctico de 3 pasos para que las personas modernas capturen pensamientos fugaces y los conviertan en impulso de crecimiento.",
-      "de": "\"Wissen ist nicht genug, wir müssen es anwenden. Wollen ist nicht genug, wir müssen es tun.\" 🚶‍♂️\n\nBruce Lee (1940–1973) war eine unsterbliche Kulturikone des 20. Jahrhunderts, die das Weltkino mit blitzschnellen Tritten und extremer Physis fesselte, während er östliche Existenzphilosophie nahtlos in seine Kampfkunst, das Jeet Kune Do, integrierte. Seine flüssigen Kampfbewegungen und tiefgründigen Lebensweisheiten waren keine bloßen Blitze angeborener Genialität oder spontane Improvisationen, sondern das gesammelte Ergebnis akribisch zusammengestellter Notizbücher.\n\nBruce Lee trug überall ein handgroßes schwarzes Leder-Taschennotizbuch und einen Stift bei sich – verstaut in der Hemd- oder Gesäßtasche. Ob beim vertieften Lesen, Warten am Filmset, Plaudern im Teehaus oder Spazieren auf der Straße: Im selben Moment, in dem ein Gedanke aufblitzte, holte er sein Notizbuch heraus. Seine Taschenbücher waren dicht gefüllt mit Trainingssätzen und philosophischen Überlegungen in englischen und chinesischen Schriftzeichen. Diese Notizen dienten als intellektueller Anker, der sein Leben lenkte und sein Kampfsystem formte.\n\nIm heutigen Beitrag analysieren wir die Neurowissenschaft hinter Bruce Lees Routine der 'sofortigen Aufzeichnung im Taschennotizbuch' und stellen einen praktischen 3-Schritte-Aktionsplan für moderne Menschen vor, um flüchtige Gedanken im Alltag einzufangen und in echtes Wachstum umzuwandeln.",
-      "fr": "« Savoir ne suffit pas, il faut appliquer. Vouloir ne suffit pas, il faut agir. » 🚶‍♂️\n\nBruce Lee (1940–1973) était une icône culturelle immortelle du XXe siècle qui a captivé le cinéma mondial par des coups de pied foudroyants et une condition physique hors pair, tout en intégrant la philosophie existentialiste orientale à son art martial, le Jeet Kune Do. Ses techniques de combat fluides comme l'eau et ses maximes de vie profondes n'étaient pas de simples éclairs de génie inné ou des improvisations, mais le fruit de carnets d'idées méticuleusement renseignés au quotidien.\n\nBruce Lee portait un carnet de poche en cuir noir de la taille d'une paume et un stylo partout avec lui — fourrés dans la poche de sa chemise ou son jean. Qu'il soit plongé dans une lecture, en attente entre deux prises sur un plateau, en train de discuter dans une maison de thé ou de marcher dans la rue, il sortait immédiatement son carnet dès qu'une inspiration surgissait. Ses carnets étaient remplis de séries d'entraînements et de méditations philosophiques rédigées en anglais et en caractères chinois. Ces notes ont servi d'ancrage intellectuel pour guider sa vie et forger son système de combat.\n\nDans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à la routine de « capture immédiate au carnet de poche » de Bruce Lee et proposons un plan d'action pratique en 3 étapes permettant aux individus modernes de saisir les pensées fugaces et de les convertir en moteur de développement.",
-      "pt": "\"Saber não é suficiente, devemos aplicar. Querer não é suficiente, devemos fazer.\" 🚶‍♂️\n\nBruce Lee (1940–1973) foi um ícone cultural imortal do século XX que cativou o cinema mundial com chutes fulminantes e um condicionamento físico insuperável, enquanto fundia a filosofia existencial oriental em sua arte marcial, o Jeet Kune Do. Suas técnicas de combate fluidas como a água e suas profundas máximas de vida não eram meros estalos de genialidade inata ou improvisações, mas o resultado compilado de cadernos de ideias meticulosamente registrados diariamente.\n\nBruce Lee carregava um caderno de bolso de couro preto do tamanho da palma da mão e uma caneta por onde quer que fosse — guardados no bolso da camisa ou no bolso traseiro da calça jeans. Fosse lendo atentamente, esperando entre tomadas nos sets de filmagem, conversando em casas de chá ou caminhando pelas ruas, ele sacava imediatamente seu caderno no instante em que uma inspiração surgia. Seus volumes de bolso estavam repletos de séries de musculação e profundas reflexões filosóficas escritas em inglês e caracteres chineses. Essas anotações serviram como uma âncora intelectual que guiou sua vida e forjou seu sistema de combate.\n\nNo artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'registro imediato em caderno de bolso' de Bruce Lee e apresentamos um guia prático de 3 passos para as pessoas modernas capturarem pensamentos fugazes e os converterem em combustível para o crescimento.",
-      "id": "\"Mengetahui saja tidak cukup, kita harus menerapkan. Kemauan saja tidak cukup, kita harus melakukan.\" 🚶‍♂️\n\nBruce Lee (1940–1973) adalah ikon budaya abad ke-20 yang memikat sinema global dengan tendangan secepat kilat dan fisik yang luar biasa, sambil memadukan filsafat eksistensial timur ke dalam seni bela dirinya, Jeet Kune Do. Teknik bertarungnya yang fleksibel seperti air dan pepatah hidupnya yang mendalam bukanlah sekadar kilatan kejeniusan bawaan atau improvisasi spontan, melainkan hasil kompilasi dari buku catatan ide yang dikumpulkan dan dicatat secara cermat setiap hari.\n\nBruce Lee membawa buku catatan saku kulit hitam seukuran telapak tangan dan pena ke mana pun ia pergi—diselipkan di saku kemeja atau saku belakang celana jinsnya. Baik saat membaca dengan tekun, menunggu di antara sela-sela syuting film, mengobrol di kedai teh, atau berjalan di jalanan, ia segera mengeluarkan buku catatannya saat inspirasi muncul. Buku catatannya dipenuhi dengan set latihan beban yang teliti serta perenungan filosofis mendalam yang ditulis dalam bahasa Inggris dan karakter Mandarin. Catatan ini berfungsi sebagai jangkar intelektual yang memandu hidupnya dan menempa sistem bertarungnya.\n\nDalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'pencatatan cepat buku catatan saku' Bruce Lee dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern untuk menangkap pikiran harian yang singkat dan mengubahnya menjadi bahan bakar pertumbuhan."
-    },
-    "whyTitle": {
-      "ko": "망상활성계(RAS) 자극과 뇌의 선택적 정보 가공 메커니즘",
-      "en": "Reticular Activating System (RAS) Stimulation and Selective Information Processing",
-      "ja": "網様体不活系（RAS）刺激と脳の選択的信息加工メカニズム",
-      "zh": "刺激网状激活系统（RAS）与大脑选择性信息加工机制",
-      "es": "Estimulación del Sistema de Activación Reticular (SRA) y Procesamiento Selectivo de Información",
-      "de": "Stimulation des Retikulären Aktivierungssystems (RAS) und selektive Informationsverarbeitung",
-      "fr": "Stimulation du Système Réticulaire Activateur (SRA) et traitement sélectif de l'information",
-      "pt": "Estimulação do Sistema de Ativação Reticular (SRA) e Processamento Seletivo de Informações",
-      "id": "Stimulasi Reticular Activating System (RAS) dan Pemrosesan Informasi Selektif"
-    },
-    "whyDesc": {
-      "ko": "인간의 뇌는 하루 동안 무수한 감각 자극을 받아들이지만, 생존과 관심사에 직접 연관되지 않은 대다수의 정보는 인지 필터를 통해 삭제합니다. 이소룡처럼 영감이 스친 직후 5초 이내에 포켓 수첩에 시각적 텍스트로 적는 행위는 뇌간의 '망상활성계(RAS, Reticular Activating System)'를 강력하게 각성시킵니다. RAS는 대뇌피질로 보낼 정보의 중요도 등급을 결정하는 관문으로, 기록 행동은 뇌에 \"이 영감은 생존과 목표 성취에 결정적이다\"라는 신호를 보냅니다. 이에 따라 뇌는 무의식 상태에서도 해당 아이디어와 관련된 외부 기회, 사람, 단서만을 선택적으로 탐색·감지하는 '선택적 지각(Selective Perception)' 모드로 작동하게 됩니다.",
-      "en": "Human brains process millions of sensory inputs daily, yet cognitive filters erase most data not immediately tied to survival or focal interests. Writing down an inspiration in a pocket notebook within 5 seconds—as Bruce Lee practiced—strongly awakens the Reticular Activating System (RAS) in the brainstem. Serving as a gatekeeper that assigns priority to sensory signals reaching the cerebral cortex, the physical act of recording signals: 'This idea is vital for survival and goal realization.' Consequently, the brain enters a state of 'Selective Perception', scanning the environment for opportunities, resources, and clues tied to that note.",
-      "ja": "人間の脳は一日の中で無数の感覚刺激を受け取りますが、生存や関心事に直接関連しない大部分の情報は認知フィルターを通じて削除します。ブルース・リーのようにインスピレーションがかすめた直後5秒以内にポケット手帳に視覚的テキストとして書き留める行為は、脳幹の「網様体不活系（RAS、Reticular Activating System）」を強力に覚醒させます。RASは大脳皮質へと送る情報の重要度等級を決定する関門であり、記録行動は脳に「このインスピレーションは生存と目標達成において決定的に重要だ」という信号を送ります。これにより脳は無意識の状態でも該当のアイデアに関連する外部の機会、人物、ヒントのみを選択的に探索・感知する「選択的知知覚（Selective Perception）」モードで作動するようになります。",
-      "zh": "大脑每天接收成千上万的感官输入，但认知滤镜会抹去绝大部分与生存或核心兴趣无关的数据。若像李小龙那样在灵感闪现后的5秒内，将其手写记录于口袋手账中，就能强烈唤醒位于脑干的“网状激活系统（RAS，Reticular Activating System）”。作为决定呈递给大脑皮层信息优先级重要关卡，记录动作能向大脑发送信号：“该灵感对我的生存与目标实现至关重要。”由此，大脑便会转入“选择性知觉（Selective Perception）”模式，在无意识状态下主动筛选并搜寻与该笔记相关的机遇、资源与线索。",
-      "es": "El cerebro humano procesa millones de datos sensoriales a diario, pero los filtros cognitivos borran la mayoría de la información no vinculada a la supervivencia o intereses centrales. Escribir una inspiración en un cuaderno de bolsillo dentro de los 5 segundos —como hacía Bruce Lee— despierta fuertemente el Sistema de Activación Reticular (SRA) en el tronco encefálico. Al actuar como un guardián que asigna prioridad a las señales que llegan a la corteza cerebral, el acto físico de registrar indica: 'Esta idea es vital para el logro de mis objetivos'. En consecuencia, el cerebro entra en un estado de 'Percepción Selectiva', rastreando el entorno en busca de oportunidades y pistas asociadas a esa nota.",
-      "de": "Das menschliche Gehirn verarbeitet täglich Millionen Sinneseindrücke, doch kognitive Filter löschen die meisten Daten, die nicht direkt mit dem Überleben oder Hauptinteressen verknüpft sind. Das Aufschreiben einer Inspiration in ein Taschennotizbuch innerhalb von 5 Sekunden – wie Bruce Lee es tat – weckt das Retikuläre Aktivierungssystem (RAS) im Hirnstamm. Als Pförtner, der Signalen zur Großhirnrinde Prioritäten zuweist, signalisiert der Akt des Aufzeichnens: 'Diese Idee ist entscheidend für meine Ziele.' Infolgedessen tritt das Gehirn in einen Zustand 'Selektiver Wahrnehmung' ein und sucht die Umgebung nach Chancen und Hinweisen ab, die mit dieser Notiz verknüpft sind.",
-      "fr": "Le cerveau humain traite des millions de données sensorielle chaque jour, mais les filtres cognitifs effacent la plupart des informations non liées à la survie ou à des intérêts majeurs. Annoter une inspiration dans un carnet de poche dans les 5 secondes — comme le faisait Bruce Lee — éveille le Système Réticulaire Activateur (SRA) dans le tronc cérébral. Agissant comme un filtre attribuant une priorité aux signaux atteignant le cortex cérébral, l'acte physique d'enregistrer signale : « Cette idée est capitale pour la réalisation de mes objectifs. » En conséquence, le cerveau entre dans un état de « Perception Sélective », balayant l'environnement à la recherche d'opportunités et d'indices liés à cette note.",
-      "pt": "O cérebro humano processa milhões de dados sensoriais diariamente, mas os filtros cognitivos apagam a maioria das informações não vinculadas à sobrevivência ou interesses centrais. Escrever uma inspiração em um caderno de bolso em até 5 segundos — como fazia Bruce Lee — desperta fortemente o Sistema de Ativação Reticular (SRA) no tronco cerebral. Atuando como um guardião que atribui prioridade aos sinais que chegam ao córtex cerebral, o ato físico de registrar sinaliza: 'Esta ideia é vital para o alcance de metas.' Consequentemente, o cérebro entra num estado de 'Percepção Seletiva', varrendo o ambiente em busca de oportunidades e pistas associadas a essa nota.",
-      "id": "Otak manusia memproses jutaan masukan sensorik setiap hari, namun filter kognitif menghapus sebagian besar data yang tidak terkait secara langsung dengan kelangsungan hidup atau minat utama. Menuliskan inspirasi dalam buku catatan saku dalam waktu 5 detik—seperti yang dipraktikkan Bruce Lee—secara kuat membangunkan Reticular Activating System (RAS) di batang otak. Berfungsi sebagai penjaga gerbang yang menetapkan prioritas pada sinyal sensorik yang mencapai korteks serebral, tindakan fisik mencatat memberikan sinyal: 'Ide ini sangat penting untuk pencapaian tujuan saya.' Akibatnya, otak memasuki kondisi 'Persepsi Selektif', memindai lingkungan untuk mencari peluang dan petunjuk yang terikat dengan catatan tersebut."
-    },
-    "cautionTitle": {
-      "ko": "주의사항 및 팁: 정갈한 구조보다 속도와 타이밍의 최우선화",
-      "en": "Caution & Tips: Prioritizing Speed & Timing Over Neat Structure",
-      "ja": "注意事項＆ヒント：整然とした構造より速度とタイミングの最優先化",
-      "zh": "注意事项与提示：重在记录速度与时机而非整洁结构",
-      "es": "Precauciones y Consejos: Priorizar la Velocidad y el Momento Sobre la Estructura Pulida",
-      "de": "Vorsichtsmaßnahmen & Tipps: Priorisierung von Geschwindigkeit vor sauberer Struktur",
-      "fr": "Précautions & Conseils : Prioriser la vitesse et l'instantanéité sur la structure",
-      "pt": "Precauções e Dicas: Priorizar a Velocidade e o Momento em Vez de uma Estructura Polida",
-      "id": "Perhatian & Tip: Memprioritaskan Kecepatan & Waktu daripada Struktur Rapi"
-    },
-    "cautionDesc": {
-      "ko": "포켓 수첩 메모의 제1법칙은 영감이 발상된 직후 5초 이내에 펜을 대는 신속함입니다. 수첩에 단락을 정갈하게 나눈다거나, 글씨체를 에쁘게 다듬으려 고민하지 마세요. 형식을 따지며 주저하는 순간 전두엽의 검열 필터가 가동되어 영감의 꼬리는 소실됩니다. 날려 쓴 몇 단어, 미완성된 낙서 형태의 문장이라도 생각의 불씨를 적어두는 것만으로도 나중에 거대한 지식 자산으로 재조합할 수 있습니다.",
-      "en": "The cardinal rule of pocket notebook recording is speed—touching pen to paper within 5 seconds of an emerging inspiration. Do not hesitate by attempting to format neatly, structure paragraphs, or refine penmanship. The moment you worry about formal organization, executive prefrontal filters intervene and the spark evaporates. Even a few scribbled words, bullet fragments, or unrefined phrases suffice to anchor the mental spark for later synthesis.",
-      "ja": "ポケット手帳メモの第一法則は、インスピレーションが発想された直後5秒以内にペンを当てる迅速さにあります。手帳の段落を整然と分けたり、字体をきれいに整えようと悩まないでください。形式にこだわり躊躇した瞬間、前頭葉の検閲フィルターが稼働してインスピレーションの尾は消失します。殴り書きした数単語、未完成な落書き形態の文章であっても、思考の火種を書き留めておくだけで、後で巨大な知識資産へと再組み合わせることができます。",
-      "zh": "口袋手账记录的第一法则在于“迅速”——在灵感萌发后的5秒内挥笔触纸。切勿因试图划分整洁段落或打磨漂亮字迹而犹豫不决。一旦拘泥于形式，前额叶皮层的审查机制便会启动，灵感的火花随即化为乌有。哪怕是潦草的几个词汇、不完整的涂鸦或破碎的短语，只要锁定这一思维火种，日后便能将其重构为宏大的知识资产。",
-      "es": "La regla de oro del cuaderno de bolsillo es la rapidez: tocar el papel con el bolígrafo dentro de los 5 segundos de surgida una inspiración. No dude intentando dar un formato pulido, estructurar párrafos o perfeccionar la caligrafía. En el momento en que se preocupa por la organización formal, la censura prefrontal interviene y la chispas se evapora. Unas pocas palabras garabateadas o frases incompletas bastan para anclar la chispa mental.",
-      "de": "Die oberste Regel für Taschennotizbücher ist Schnelligkeit: Den Stift innerhalb von 5 Sekunden nach dem Aufkommen einer Inspiration auf das Papier zu setzen. Zögern Sie nicht, indem Sie versuchen, Absätze strukturiert zu gliedern oder die Handschrift zu verschönern. Sobald Sie sich um die äußere Form sorgen, greift die präfrontale Zensur ein und der Funke verfliegt. Einige gekritzelte Wörter oder unfertige Phrasen reichen aus, um den Gedanken zu verankern.",
-      "fr": "La règle d'or du carnet de poche est la rapidité : poser le stylo sur le papier dans les 5 secondes suivant l'émergence d'une inspiration. Ne perdez pas de temps à structurer des paragraphes ou à appliquer votre écriture. Dès que vous vous souciez de la forme, le filtre préfrontal intervient et l'étincelle s'évapore. Quelques mots griffonnés ou des phrases incomplètes suffisent à fixer le fil de la pensée.",
-      "pt": "A regra de ouro do caderno de bolso é a rapidez: encostar a caneta no papel em até 5 segundos após o surgimento de uma inspiração. Não hesite tentando formatar parágrafos ou caprichar na caligrafia. No momento em que você se preocupa com a organização formal, a censura pré-frontal intervém e a centelha se evapora. Algumas palavras rabiscadas ou frases incompletas bastam para ancorar a centelha mental.",
-      "id": "Aturan utama pencatatan buku catatan saku adalah kecepatan—menyentuh pena ke kertas dalam waktu 5 detik dari munculnya inspirasi. Jangan ragu dengan mencoba memformat secara rapi, memstrukturkan paragraf, atau mempercantik tulisan tangan. Begitu Anda mengkhawatirkan penataan formal, filter prefrontal mengintervensi dan percikan inspirasi menguap. Beberapa kata yang dicoret-coret atau frasa yang tidak sempurna sudah cukup untuk menjangkarkan percikan mental."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 손에 바로 닿는 물리적/디지털 메모 도구 상시 휴대",
-          "en": "Step 1: Always Carrying Physical/Digital Pocket Tools Within 1-Second Reach",
-          "ja": "ステップ1：手にすぐ届く物理的/デジタルメモ道具の常時携帯",
-          "zh": "步骤1：随身携带1秒可及的实物/数字笔记工具",
-          "es": "Paso 1: Llevar Siempre Herramientas Físicas o Digitales al Alcance en 1 Segundo",
-          "de": "Schritt 1: Ständiges Griffbereithalten physischer oder digitaler Notizwerkzeuge",
-          "fr": "Étape 1 : Toujours porter sur soi un outil physique ou numérique accessible en 1 seconde",
-          "pt": "Passo 1: Levar Sempre Ferramentas Físicas ou Digitais ao Alcance em 1 Segundo",
-          "id": "Langkah 1: Selalu Membawa Alat Catatan Fisik/Digital yang Dapat Dijangkau dalam 1 Detik"
-        },
-        "text": {
-          "ko": "바지 주머니나 가방 안주머니 등 손가락을 뻗으면 1초 만에 바로 닿는 공간에 손바닥 크기의 소형 종이 수첩과 미니 펜을 소지합니다. 디지털을 쓸 경우, 스마트폰 홈 화면 첫 번째 페이지에 원터치 메모 위젯을 설치합니다.",
-          "en": "Keep a palm-sized paper notebook and compact pen in your pocket or bag where your hands reach within 1 second. If using digital tools, place a one-touch note widget on your smartphone's primary home screen.",
-          "ja": "ズボンのポケットやバッグの内ポケットなど、手を伸ばせば1秒ですぐに届く空間に掌サイズの小型紙手帳とミニペンを携帯します。デジタルを使用する場合は、スマートフォンのホーム画面1ページ目にワンタッチメモウィジェットを設置します。",
-          "zh": "在裤口袋或包袋内侧等伸手1秒即可触及的位置，随身携带掌心大小的便携纸质手账与微型钢笔。如若使用数字设备，请在手机主屏幕第一页置顶一键式笔记挂件。",
-          "es": "Guarde un cuaderno de papel del tamaño de la palma y un bolígrafo compacto en su bolsillo o bolso al alcance en 1 segundo. Si usa herramientas digitales, coloque un widget de notas de un solo toque en la pantalla de inicio principal.",
-          "de": "Bewahren Sie ein handgroßes Notizbuch und einen Stift in Ihrer Tasche auf, sodass Sie sie innerhalb einer Sekunde greifen können. Wenn Sie digitale Tools nutzen, platzieren Sie ein Notiz-Widget auf dem Startbildschirm.",
-          "fr": "Gardez un carnet de la taille d'une paume et un stylo dans votre poche ou sac à portée de main en 1 seconde. Si vous utilisez des outils numériques, placez un widget de note rapide sur l'écran d'accueil de votre smartphone.",
-          "pt": "Mantenha um caderno do tamanho da palma e uma caneta no bolso ou bolsa ao alcance em 1 segundo. Se usar ferramentas digitais, coloque um widget de notas com um toque na tela inicial principal do celular.",
-          "id": "Simpan buku catatan kertas seukuran telapak tangan dan pena dalam saku atau tas Anda di mana tangan Anda dapat menjangkau dalam 1 detik. Jika menggunakan alat digital, tempatkan widget catatan satu ketukan di layar utama smartphone Anda."
-        }
+    "pubDate": "2026-04-06",
+    "updatedDate": "2026-04-06",
+    "heroImage": "/images/blog/brucelee_pocket_notebook.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "찰나의 영감을 포획하는 사냥법: 브루스 리의 포켓 수첩 밀착 기록 루틴",
+        "description": "20세기 무술가이자 액션 스타 브루스 리(이소룡). 손길이 닿는 주머니마다 포켓 수첩을 소지하며 철학적 영감과 무예 구상을 실시간으로 포획했던 기록 철학과 망상활성계(RAS) 자극의 인지 메커니즘을 규명합니다.",
+        "authority": "존 리틀 평전 『이소룡 평전(Bruce Lee: Artist of Life)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"아는 것만으로는 충분하지 않다. 적용해야 한다. 하고자 하는 것만으로는 충분하지 않다. 행해야 한다.\" 🚶‍♂️\n\n전격적인 발차기와 압도적인 피지컬로 전 세계 은막을 매료시킨 액션 스타이자, 절권도(Jeet Kune Do)라는 독창적인 실용 무예와 동양 실존주의 철학을 하나로 통합해 낸 20세기 불멸의 문화적 아이콘 브루스 리(Bruce Lee / 이소룡, 1940–1973). 물처럼 유연한 그의 무술 동작과 깊이 있는 인생 잠언들은 한순간의 타고난 천재성이나 즉흥 연출이 아닌, 철저히 수집되고 매일 기록된 아이디어 노트들의 집대성 결실이었습니다.\n\n브루스 리는 셔츠 주머니나 청바지 뒷주머니 등 손길이 닿는 곳마다 언제나 한 손 크기의 작은 검은색 가죽 수첩과 볼펜을 소지하고 다녔습니다. 책을 정독할 때뿐만 아니라 영화 세트장 대기실, 지인들과 찻집에서 나누는 대화, 혹은 길을 걷다 스쳐 지나가는 풍경 등 일상의 모든 찰나에서 영감이 스칠 때마다 즉각 수첩을 펼쳐 적었습니다. 그의 포켓 수첩에는 웨이트 트레이닝의 정밀한 세트 수부터 인간 존재와 자아 성찰에 관한 심오한 철학적 메모들이 영어와 한자로 빼곡히 기록되어 있었습니다. 이 메모들은 그의 삶을 흔들림 없이 가이드하고 실질적인 무예 체계로 도출해 낸 확고한 지적 닻이었습니다.\n\n오늘 포스트에서는 이소룡이 평생 실천했던 '포켓 수첩 즉각 기록' 루틴의 뇌과학적 원리를 분석하고, 현대인이 일상의 스쳐 지나가는 생각들을 성장의 실질적 원동력으로 축적할 수 있는 3단계 실천 방안을 소개합니다.",
+        "whyTitle": "망상활성계(RAS) 자극과 뇌의 선택적 정보 가공 메커니즘",
+        "whyDesc": "인간의 뇌는 하루 동안 무수한 감각 자극을 받아들이지만, 생존과 관심사에 직접 연관되지 않은 대다수의 정보는 인지 필터를 통해 삭제합니다. 이소룡처럼 영감이 스친 직후 5초 이내에 포켓 수첩에 시각적 텍스트로 적는 행위는 뇌간의 '망상활성계(RAS, Reticular Activating System)'를 강력하게 각성시킵니다. RAS는 대뇌피질로 보낼 정보의 중요도 등급을 결정하는 관문으로, 기록 행동은 뇌에 \"이 영감은 생존과 목표 성취에 결정적이다\"라는 신호를 보냅니다. 이에 따라 뇌는 무의식 상태에서도 해당 아이디어와 관련된 외부 기회, 사람, 단서만을 선택적으로 탐색·감지하는 '선택적 지각(Selective Perception)' 모드로 작동하게 됩니다.",
+        "cautionTitle": "주의사항 및 팁: 정갈한 구조보다 속도와 타이밍의 최우선화",
+        "cautionDesc": "포켓 수첩 메모의 제1법칙은 영감이 발상된 직후 5초 이내에 펜을 대는 신속함입니다. 수첩에 단락을 정갈하게 나눈다거나, 글씨체를 에쁘게 다듬으려 고민하지 마세요. 형식을 따지며 주저하는 순간 전두엽의 검열 필터가 가동되어 영감의 꼬리는 소실됩니다. 날려 쓴 몇 단어, 미완성된 낙서 형태의 문장이라도 생각의 불씨를 적어두는 것만으로도 나중에 거대한 지식 자산으로 재조합할 수 있습니다.",
+        "steps": [
+          {
+            "title": "1단계: 손에 바로 닿는 물리적/디지털 메모 도구 상시 휴대",
+            "desc": "바지 주머니나 가방 안주머니 등 손가락을 뻗으면 1초 만에 바로 닿는 공간에 손바닥 크기의 소형 종이 수첩과 미니 펜을 소지합니다. 디지털을 쓸 경우, 스마트폰 홈 화면 첫 번째 페이지에 원터치 메모 위젯을 설치합니다."
+          },
+          {
+            "title": "2단계: 스쳐 가는 영감 및 화두의 5초 이내 실시간 포획",
+            "desc": "독서, 보행, 대화 중 의식 수면 위로 올라오는 기발한 키워드, 서사 플롯, 훈련 목표를 발견하면 머뭇거리지 않고 그 자리에서 즉시 수첩을 꺼내 몇 단어로 단번에 수기 작성합니다."
+          },
+          {
+            "title": "3단계: 일과 끝 메모 복기 및 실질적 액션 플랜 전환",
+            "desc": "매일 저녁이나 다음 날 아침 수첩을 다시 펼쳐 전날 낙서처럼 적힌 영감들을 스캔하고, 이 중 가장 유의미한 항목 1가지를 선정해 업무나 삶에 녹일 구체적 액션 플랜으로 지정해 실행합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "종이 수첩 대신 스마트폰 음성 녹음 기능으로 영감을 보존해도 동일한 효과가 나나요?",
+            "answer": "네, 음성 녹음 역시 작업 기억을 빠르게 밖으로 추출해 내는 우수한 수단입니다. 단, 뇌가 나중에 메모를 재복기하고 시각적으로 구조화하기에는 텍스트 형태가 훨씬 유리하므로, 음성 녹음 앱의 자동 텍스트 변환(STT) 기능을 결합해 텍스트 데이터로 보존해 두는 것을 권장합니다."
+          },
+          {
+            "question": "메모를 적어두고 나중에 다시 찾아 읽어보지 않게 되는데 해결 방법이 있나요?",
+            "answer": "메모의 진정한 가치는 기재 자체보다 '재복기하여 실질적 행동과 결합할 때' 폭발합니다. 매일 아침 특정 시간이나 업무 시작 직전 스마트폰 알림을 설정하고, 단 1분간 어제 적은 메모 페이지를 기계적으로 읽어보는 '1분 스캔 루틴'을 기존의 식사, 양치질 같은 행동 트리거에 결합해 보세요."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 스쳐 가는 영감 및 화두의 5초 이내 실시간 포획",
-          "en": "Step 2: Real-Time Capture of Fleeting Ideas Within 5 Seconds",
-          "ja": "ステップ2：かすめ去るインスピレーションおよび話題の5秒以内リアルタイム捕獲",
-          "zh": "步骤2：在5秒内实时捕获划过的灵感与思考",
-          "es": "Paso 2: Captura en Tiempo Real de Ideas Fugaces en Menos de 5 Segundos",
-          "de": "Schritt 2: Erfassen flüchtiger Ideen in Echtzeit innerhalb von 5 Sekunden",
-          "fr": "Étape 2 : Capture en temps réel d'idées fugaces en moins de 5 secondes",
-          "pt": "Passo 2: Captura em Tempo Real de Ideias Fugazes em Menos de 5 Segundos",
-          "id": "Langkah 2: Tangkapan Real-Time Ide-Ide Singkat dalam Waktu 5 Detik"
-        },
-        "text": {
-          "ko": "독서, 보행, 대화 중 의식 수면 위로 올라오는 기발한 키워드, 서사 플롯, 훈련 목표를 발견하면 머뭇거리지 않고 그 자리에서 즉시 수첩을 꺼내 몇 단어로 단번에 수기 작성합니다.",
-          "en": "When a striking keyword, project concept, or training goal surfaces during reading, walking, or conversation, pull out your notebook immediately and write it down in a few raw words without pausing.",
-          "ja": "読書、歩行、会話中に意識の表面に浮上する奇抜なキーワード、物語のプロット、訓練目標を発見したら、ためらうことなくその場で即座に手帳を取り出し、数単語で一気に手書き作成します。",
-          "zh": "在阅读、踱步或交谈途中，一旦捕获浮出意识层面的新颖关键词、构思方案或训练目标，切勿迟疑，当即掏出手账以寥寥数词直录于纸上。",
-          "es": "Cuando surja una palabra clave, concepto de proyecto u objetivo durante la lectura, caminata o conversación, saque su cuaderno de inmediato y escríbalo en unas pocas palabras sin pausar.",
-          "de": "Wenn beim Lesen, Gehen oder Sprechen ein prägnantes Schlüsselwort oder ein Projektkonzept auftaucht, holen Sie sofort Ihr Notizbuch heraus und schreiben Sie es ungefiltert auf.",
-          "fr": "Lorsqu'un mot-clé percussion, un concept de projet ou un objectif surgit pendant la lecture, la marche ou une échange, sortez immédiatement votre carnet et notez-le en quelques mots bruts sans marquer de pause.",
-          "pt": "Quando uma palavra-chave, conceito de projeto ou meta surgir durante a leitura, caminhada ou conversa, saque seu caderno imediatamente e escreva em poucas palavras sem pausar.",
-          "id": "Ketika kata kunci yang menarik, konsep proyek, or tujuan latihan muncul selama membaca, berjalan, atau percakapan, segera keluarkan buku catatan Anda dan tuliskan dalam beberapa kata mentah tanpa berhenti."
-        }
+      "en": {
+        "title": "Hunting Fleeting Inspiration: Bruce Lee's Pocket Notebook Close-Capture Routine",
+        "description": "Explore how 20th-century martial artist and film icon Bruce Lee carried a pocket notebook to capture philosophical insights and martial arts concepts in real time, and discover the cognitive mechanisms of RAS stimulation behind immediate note-taking.",
+        "authority": "Historical Verification from John Little's Biography *Bruce Lee: Artist of Life* & Cognitive Neuroscience Research",
+        "intro": "\"Knowing is not enough, we must apply. Willing is not enough, we must do.\" 🚶‍♂️\n\nBruce Lee (1940–1973) was an immortal 20th-century cultural icon who captivated global cinema with lightning-fast kicks and peak physical conditioning, while seamlessly fusing eastern existential philosophy into his martial art, Jeet Kune Do. His fluid, water-like combat techniques and profound life maxims were not mere flashes of innate genius or spontaneous improvisation, but the compiled output of meticulously gathered and recorded idea notebooks.\n\nBruce Lee carried a palm-sized black leather pocket notebook and pen everywhere—tucked in his shirt pocket or back jeans pocket. Whether deeply engrossed in reading, waiting between takes on movie sets, chatting in tea houses, or walking the streets, he immediately pulled out his notebook the instant an inspiration struck. His pocket volumes were densely filled with meticulous weight-training sets alongside profound philosophical ruminations written in English and Chinese characters. These notes served as the solid intellectual anchor that guided his life and forged his fighting system.\n\nIn today's post, we analyze the brain science underlying Bruce Lee's 'immediate pocket notebook recording' routine and present a 3-step practical action plan for modern individuals to capture fleeting daily thoughts and convert them into actionable growth fuel.",
+        "whyTitle": "Reticular Activating System (RAS) Stimulation and Selective Information Processing",
+        "whyDesc": "Human brains process millions of sensory inputs daily, yet cognitive filters erase most data not immediately tied to survival or focal interests. Writing down an inspiration in a pocket notebook within 5 seconds—as Bruce Lee practiced—strongly awakens the Reticular Activating System (RAS) in the brainstem. Serving as a gatekeeper that assigns priority to sensory signals reaching the cerebral cortex, the physical act of recording signals: 'This idea is vital for survival and goal realization.' Consequently, the brain enters a state of 'Selective Perception', scanning the environment for opportunities, resources, and clues tied to that note.",
+        "cautionTitle": "Caution & Tips: Prioritizing Speed & Timing Over Neat Structure",
+        "cautionDesc": "The cardinal rule of pocket notebook recording is speed—touching pen to paper within 5 seconds of an emerging inspiration. Do not hesitate by attempting to format neatly, structure paragraphs, or refine penmanship. The moment you worry about formal organization, executive prefrontal filters intervene and the spark evaporates. Even a few scribbled words, bullet fragments, or unrefined phrases suffice to anchor the mental spark for later synthesis.",
+        "steps": [
+          {
+            "title": "Step 1: Always Carrying Physical/Digital Pocket Tools Within 1-Second Reach",
+            "desc": "Keep a palm-sized paper notebook and compact pen in your pocket or bag where your hands reach within 1 second. If using digital tools, place a one-touch note widget on your smartphone's primary home screen."
+          },
+          {
+            "title": "Step 2: Real-Time Capture of Fleeting Ideas Within 5 Seconds",
+            "desc": "When a striking keyword, project concept, or training goal surfaces during reading, walking, or conversation, pull out your notebook immediately and write it down in a few raw words without pausing."
+          },
+          {
+            "title": "Step 3: End-of-Day Note Review & Conversion to Concrete Action Plans",
+            "desc": "Every evening or the following morning, reopen your notebook to scan the raw scribbles. Select 1 highly meaningful idea and convert it into a concrete action plan for work or life."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does recording voice notes on a smartphone yield the same cognitive benefits as paper notebooks?",
+            "answer": "Yes, voice recording is an excellent method for rapidly offloading working memory. However, text-based formats are far superior for later visual scanning and prefrontal structuring. If using voice memos, we recommend pairing them with automated Speech-to-Text (STT) features to archive notes as searchable text data."
+          },
+          {
+            "question": "I write down notes but often forget to review them later. How can I fix this?",
+            "answer": "Note-taking achieves value when notes are re-audited and paired with real-world action. Set a recurring smartphone alarm or anchor a '1-minute scan routine' to existing habit triggers—such as right before morning coffee or work start—to mechanically review yesterday's notebook entries for just 60 seconds."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 일과 끝 메모 복기 및 실질적 액션 플랜 전환",
-          "en": "Step 3: End-of-Day Note Review & Conversion to Concrete Action Plans",
-          "ja": "ステップ3：日課終了時のメモ復習と実質的アクションプランへの転換",
-          "zh": "步骤3：一日结束时复盘笔记与转化为切实行动计划",
-          "es": "Paso 3: Revisión de Notas al Final del Día y Conversión a Planes de Acción Concretos",
-          "de": "Schritt 3: Tagesrückblick der Notizen & Umwandlung in konkrete Aktionspläne",
-          "fr": "Étape 3 : Revue des notes en fin de journée & Conversion en plans d'action concrets",
-          "pt": "Passo 3: Revisão das Notas no Fim do Dia e Conversão em Planos de Ação Concretos",
-          "id": "Langkah 3: Tinjauan Catatan Akhir Hari & Konversi ke Rencana Tindakan Konkret"
-        },
-        "text": {
-          "ko": "매일 저녁이나 다음 날 아침 수첩을 다시 펼쳐 전날 낙서처럼 적힌 영감들을 스캔하고, 이 중 가장 유의미한 항목 1가지를 선정해 업무나 삶에 녹일 구체적 액션 플랜으로 지정해 실행합니다.",
-          "en": "Every evening or the following morning, reopen your notebook to scan the raw scribbles. Select 1 highly meaningful idea and convert it into a concrete action plan for work or life.",
-          "ja": "毎晩または翌朝、手帳を再び開いて前日落書きのように書かれたインスピレーションをスキャンし、この中で最も有意義な項目1選を選定して業務や生活に溶け込ませる具体的アクションプランとして指定し実行します。",
-          "zh": "在每晚或次日清晨重新翻开手账，通读复盘前一天如涂鸦般留下的灵感，从中挑选出最富价值的1项，将其转化为融入工作与生活的具体行动计划并付诸执行。",
-          "es": "Cada noche o a la mañana siguiente, reabra su cuaderno para revisar los garabatos. Seleccione 1 idea relevante y conviértala en un plan de acción concreto para el trabajo o la vida cotidiana.",
-          "de": "Schlagen Sie Ihr Notizbuch jeden Abend oder am nächsten Morgen wieder auf, um die Aufzeichnungen durchzugehen. Wählen Sie 1 besonders wertvolle Idee aus und verwandeln Sie sie in einen konkreten Aktionsplan.",
-          "fr": "Chaque soir ou le lendemain matin, rouvrez votre carnet pour repasser vos notes en revue. Sélectionnez 1 idée pertinente et convertissez-la en un plan d'action concret pour votre travail ou quotidien.",
-          "pt": "Todas as noites ou na manhã seguinte, reabra seu caderno para revisar os rabiscos. Selecione 1 ideia altamente relevante e converta-a em um plano de ação concreto para o trabalho ou vida cotidiana.",
-          "id": "Setiap malam atau pagi harinya, buka kembali buku catatan Anda untuk memindai coretan mentah. Pilih 1 ide yang sangat bermakna dan ubahlah menjadi rencana tindakan konkret untuk pekerjaan atau kehidupan harian."
-        }
+      "zh": {
+        "title": "捕获一瞬灵感的猎捕术：李小龙的口袋手账即时记录习惯",
+        "description": "探索20世纪武道家兼巨星李小龙将口袋手账随身至于触手可及之处、实时捕获哲学灵感与武道构想的记录哲学，并揭示其背后网状激活系统（RAS）刺激的认知机制。",
+        "authority": "约翰·里特尔传记《李小龙：生活的艺术家（Bruce Lee: Artist of Life）》考证与认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "“光知晓还不够，必须加以运用；光立志还不够，必须付诸行动。” 🚶‍♂️\n\n作为凭雷霆万钧的腿功与极致体魄风靡全球影坛的超级巨星，兼将“截拳道（Jeet Kune Do）”这一独创实战武道与东方存在主义哲学完美融合的20世纪不朽文化符号——李小龙（Bruce Lee，1940–1973）。他那如水般顺滑的武道动作与蕴含深意的人生格言，绝非出自一时的即兴表演，而是源于他数年如一日严谨收集与每日记录的灵感手账集大成。\n\n李小龙随身将一本掌心大小的黑色皮革口袋手账与圆珠笔置于衬衫口袋或牛仔裤后口袋中。无论是在专心研读经典、在电影片场休息室候场、与表亲朋友在茶馆闲聊，还是在街头漫步的细微瞬间，一旦脑海中划过一丝灵感，他便会立刻掏出手账快速记录。在他的口袋手账里，既有力量训练的精密组数，亦有关于人类存在与自我剖析的深奥哲学笔记，密密麻麻地交织着英文与汉字。这些随手笔记成为了指引他人生不偏离轨道、并将武道演化为实战体系的坚实智慧之锚。\n\n在今天的文章中，我们将分析李小龙终生践行的“口袋手账即时记录”习惯背后的脑科学原理，并为现代人捕获日常即逝灵感、将其转化为切实成长动能提供3步骤实践方案。",
+        "whyTitle": "刺激网状激活系统（RAS）与大脑选择性信息加工机制",
+        "whyDesc": "大脑每天接收成千上万的感官输入，但认知滤镜会抹去绝大部分与生存或核心兴趣无关的数据。若像李小龙那样在灵感闪现后的5秒内，将其手写记录于口袋手账中，就能强烈唤醒位于脑干的“网状激活系统（RAS，Reticular Activating System）”。作为决定呈递给大脑皮层信息优先级重要关卡，记录动作能向大脑发送信号：“该灵感对我的生存与目标实现至关重要。”由此，大脑便会转入“选择性知觉（Selective Perception）”模式，在无意识状态下主动筛选并搜寻与该笔记相关的机遇、资源与线索。",
+        "cautionTitle": "注意事项与提示：重在记录速度与时机而非整洁结构",
+        "cautionDesc": "口袋手账记录的第一法则在于“迅速”——在灵感萌发后的5秒内挥笔触纸。切勿因试图划分整洁段落或打磨漂亮字迹而犹豫不决。一旦拘泥于形式，前额叶皮层的审查机制便会启动，灵感的火花随即化为乌有。哪怕是潦草的几个词汇、不完整的涂鸦或破碎的短语，只要锁定这一思维火种，日后便能将其重构为宏大的知识资产。",
+        "steps": [
+          {
+            "title": "步骤1：随身携带1秒可及的实物/数字笔记工具",
+            "desc": "在裤口袋或包袋内侧等伸手1秒即可触及的位置，随身携带掌心大小的便携纸质手账与微型钢笔。如若使用数字设备，请在手机主屏幕第一页置顶一键式笔记挂件。"
+          },
+          {
+            "title": "步骤2：在5秒内实时捕获划过的灵感与思考",
+            "desc": "在阅读、踱步或交谈途中，一旦捕获浮出意识层面的新颖关键词、构思方案或训练目标，切勿迟疑，当即掏出手账以寥寥数词直录于纸上。"
+          },
+          {
+            "title": "步骤3：一日结束时复盘笔记与转化为切实行动计划",
+            "desc": "在每晚或次日清晨重新翻开手账，通读复盘前一天如涂鸦般留下的灵感，从中挑选出最富价值的1项，将其转化为融入工作与生活的具体行动计划并付诸执行。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "以此取代纸质手账，使用手机语音备忘录功能保存灵感能达到同等效果吗？",
+            "answer": "是的，语音录音同样是迅速倾倒工作记忆负担的极佳手段。不过，为了便于大脑日后进行复盘与视觉结构化，文本形式具有显著优势。如果习惯录音，建议结合语音转文字（STT）功能，将录音整理存留为可读的文本数据。"
+          },
+          {
+            "question": "记下了笔记却常常事后不再翻阅，有什么解决办法吗？",
+            "answer": "笔记的真正价值绝非停留在“记录”动作本身，而是在于“重新复盘并结合切操与行动”的时刻爆发。可尝试设定每日定时的手机提醒，或将只需花费60秒通读前一日笔记的“1分钟快速扫描习惯”挂钩于晨起喝咖啡或上班打卡等现有生活习惯上。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "刹那のインスピレーションを捕獲する狩猟法：ブルース・リーのポケット手帳密着記録ルーティン",
+        "description": "20世紀の武道家でありアクションスターのブルース・リー（李小龍）。手の届くポケットごとにポケット手帳を携帯し、哲学的なインスピレーションや武芸の構想をリアルタイムで捕獲した記録哲学と網様体不活系（RAS）刺激の認知メカニズムを解き明かします。",
+        "authority": "ジョン・リトル伝記『Bruce Lee: Artist of Life』考証＆認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「知るだけでは十分ではない。適用しなければならない。しようとするだけでは十分ではない。実行しなければならない。」 🚶‍♂️\n\n電撃的な蹴りと圧倒的なフィジカルで全世界の銀幕を魅了したアクションスターであり、ジークンドー（Jeet Kune Do）という独創的な実用武芸と東洋の実存主義哲学を一つに統合した20世紀不滅の文化的アイコン、ブルース・リー（Bruce Lee / 李小龍、1940–1973）。水のように柔軟な彼の武術の動作と深みのある人生の格言は、一瞬の生まれつきの天才性や即興の演出ではなく、徹底的に収集され毎日記録されたアイデアノートの集大成の結実でした。\n\nブルース・リーはシャツのポケットやジーンズの後ろポケットなど、手の届く場所ごとにいつも片手サイズの小さな黒い革の手帳とボールペンを携帯していました。本を熟読する時はもちろん、映画のセットの控室、知人たちと喫茶店で交わす会話、あるいは道を歩いていてかすめて過ぎ去る風景など、日常のあらゆる刹那にインスピレーションがかすめるたびに即座に手帳を開いて書き留めました。彼のポケット手帳にはウエイトトレーニングの精密なセット数から、人間存在と自我省察に関する深遠な哲学的メモが英語と漢字でびっしりと記録されていました。これらのメモは彼の人生を揺るぎなくガイドし、実質的な武芸体系へと導き出した確固たる知的錨でした。\n\n本日の記事では、ブルース・リーが一生実践した「ポケット手帳即座記録」ルーティンの脳科学的原理を分析し、現代人が日常のかすめ去る考えを成長の実質的な原動力として蓄積できる3ステップの実践方案を紹介します。",
+        "whyTitle": "網様体不活系（RAS）刺激と脳の選択的信息加工メカニズム",
+        "whyDesc": "人間の脳は一日の中で無数の感覚刺激を受け取りますが、生存や関心事に直接関連しない大部分の情報は認知フィルターを通じて削除します。ブルース・リーのようにインスピレーションがかすめた直後5秒以内にポケット手帳に視覚的テキストとして書き留める行為は、脳幹の「網様体不活系（RAS、Reticular Activating System）」を強力に覚醒させます。RASは大脳皮質へと送る情報の重要度等級を決定する関門であり、記録行動は脳に「このインスピレーションは生存と目標達成において決定的に重要だ」という信号を送ります。これにより脳は無意識の状態でも該当のアイデアに関連する外部の機会、人物、ヒントのみを選択的に探索・感知する「選択的知知覚（Selective Perception）」モードで作動するようになります。",
+        "cautionTitle": "注意事項＆ヒント：整然とした構造より速度とタイミングの最優先化",
+        "cautionDesc": "ポケット手帳メモの第一法則は、インスピレーションが発想された直後5秒以内にペンを当てる迅速さにあります。手帳の段落を整然と分けたり、字体をきれいに整えようと悩まないでください。形式にこだわり躊躇した瞬間、前頭葉の検閲フィルターが稼働してインスピレーションの尾は消失します。殴り書きした数単語、未完成な落書き形態の文章であっても、思考の火種を書き留めておくだけで、後で巨大な知識資産へと再組み合わせることができます。",
+        "steps": [
+          {
+            "title": "ステップ1：手にすぐ届く物理的/デジタルメモ道具の常時携帯",
+            "desc": "ズボンのポケットやバッグの内ポケットなど、手を伸ばせば1秒ですぐに届く空間に掌サイズの小型紙手帳とミニペンを携帯します。デジタルを使用する場合は、スマートフォンのホーム画面1ページ目にワンタッチメモウィジェットを設置します。"
+          },
+          {
+            "title": "ステップ2：かすめ去るインスピレーションおよび話題の5秒以内リアルタイム捕獲",
+            "desc": "読書、歩行、会話中に意識の表面に浮上する奇抜なキーワード、物語のプロット、訓練目標を発見したら、ためらうことなくその場で即座に手帳を取り出し、数単語で一気に手書き作成します。"
+          },
+          {
+            "title": "ステップ3：日課終了時のメモ復習と実質的アクションプランへの転換",
+            "desc": "毎晩または翌朝、手帳を再び開いて前日落書きのように書かれたインスピレーションをスキャンし、この中で最も有意義な項目1選を選定して業務や生活に溶け込ませる具体的アクションプランとして指定し実行します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "紙の手帳の代わりにスマートフォンの音声録音機能でインスピレーションを保存しても同じ効果が得られますか？",
+            "answer": "はい、音声録音も作業記憶を素早く外に抽出する優秀な手段です。ただし、脳が後でメモを復習し視覚的に構造化するにはテキスト形態がはるかに有利であるため、音声録音アプリの自動テキスト変換（STT）機能を組み合わせてテキストデータとして保存しておくことをお勧めします。"
+          },
+          {
+            "question": "メモを書き留めておいても後で読み返さないようになってしまうのですが、解決方法はありますか？",
+            "answer": "メモの真の価値は記載自体よりも「復習して実質的な行動と結合する時」に爆発します。毎朝特定の時間や業務開始直前にスマートフォンのアラームを設定し、たった1分間昨日書いたメモのページを機械的に読み返す「1分スキャン・ルーティン」を、既存の食事や歯磨きのような行動トリガーに結合させてみてください。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cazando la Inspiración Fugaz: La Rutina de Captura Inmediata con Cuaderno de Bolsillo de Bruce Lee",
+        "description": "Descubra cómo el marcialista e ícono del cine del siglo XX Bruce Lee llevaba un cuaderno de bolsillo para capturar ideas filosóficas y conceptos de artes marciales en tiempo real, y explore los mecanismos cognitivos de estimulación del SRA.",
+        "authority": "Verificación Histórica de la Biografía de John Little *Bruce Lee: El artista de la vida (Bruce Lee: Artist of Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+        "intro": "\"Saber no es suficiente, debemos aplicar. Querer no es suficiente, debemos hacer.\" 🚶‍♂️\n\nBruce Lee (1940–1973) fue un ícono cultural inmortal del siglo XX que cautivó al cine mundial con patadas relámpago y una preparación física insuperable, al tiempo que fusionaba la filosofía existencial oriental en su arte marcial, el Jeet Kune Do. Sus técnicas de combate fluidas como el agua y sus profundas máximas de vida no eran destellos de genialidad innata ni improvisaciones, sino el resultado del copilado de cuadernos de ideas minuciosamente recopilados e impresos a diario.\n\nBruce Lee llevaba un cuaderno de bolsillo de cuero negro del tamaño de la palma de la mano y un bolígrafo a dondequiera que iba, guardado en el bolsillo de su camisa o en el trasero de sus vaqueros. Ya fuera leyendo con atención, esperando entre tomas en los sets de rodaje, conversando en teterías o caminando por la calle, sacaba de inmediato su cuaderno en el instante en que surgía una inspiración. Sus tomos de bolsillo estaban repleto de series de entrenamiento con pesas e intensas meditaciones filosóficas escritas en inglés y caracteres chinos. Estas notas sirvieron como el ancla intelectual que guió su vida y forjó su sistema de combate.\n\nEn la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina de 'registro inmediato en cuaderno de bolsillo' de Bruce Lee y presentamos un plan práctico de 3 pasos para que las personas modernas capturen pensamientos fugaces y los conviertan en impulso de crecimiento.",
+        "whyTitle": "Estimulación del Sistema de Activación Reticular (SRA) y Procesamiento Selectivo de Información",
+        "whyDesc": "El cerebro humano procesa millones de datos sensoriales a diario, pero los filtros cognitivos borran la mayoría de la información no vinculada a la supervivencia o intereses centrales. Escribir una inspiración en un cuaderno de bolsillo dentro de los 5 segundos —como hacía Bruce Lee— despierta fuertemente el Sistema de Activación Reticular (SRA) en el tronco encefálico. Al actuar como un guardián que asigna prioridad a las señales que llegan a la corteza cerebral, el acto físico de registrar indica: 'Esta idea es vital para el logro de mis objetivos'. En consecuencia, el cerebro entra en un estado de 'Percepción Selectiva', rastreando el entorno en busca de oportunidades y pistas asociadas a esa nota.",
+        "cautionTitle": "Precauciones y Consejos: Priorizar la Velocidad y el Momento Sobre la Estructura Pulida",
+        "cautionDesc": "La regla de oro del cuaderno de bolsillo es la rapidez: tocar el papel con el bolígrafo dentro de los 5 segundos de surgida una inspiración. No dude intentando dar un formato pulido, estructurar párrafos o perfeccionar la caligrafía. En el momento en que se preocupa por la organización formal, la censura prefrontal interviene y la chispas se evapora. Unas pocas palabras garabateadas o frases incompletas bastan para anclar la chispa mental.",
+        "steps": [
+          {
+            "title": "Paso 1: Llevar Siempre Herramientas Físicas o Digitales al Alcance en 1 Segundo",
+            "desc": "Guarde un cuaderno de papel del tamaño de la palma y un bolígrafo compacto en su bolsillo o bolso al alcance en 1 segundo. Si usa herramientas digitales, coloque un widget de notas de un solo toque en la pantalla de inicio principal."
+          },
+          {
+            "title": "Paso 2: Captura en Tiempo Real de Ideas Fugaces en Menos de 5 Segundos",
+            "desc": "Cuando surja una palabra clave, concepto de proyecto u objetivo durante la lectura, caminata o conversación, saque su cuaderno de inmediato y escríbalo en unas pocas palabras sin pausar."
+          },
+          {
+            "title": "Paso 3: Revisión de Notas al Final del Día y Conversión a Planes de Acción Concretos",
+            "desc": "Cada noche o a la mañana siguiente, reabra su cuaderno para revisar los garabatos. Seleccione 1 idea relevante y conviértala en un plan de acción concreto para el trabajo o la vida cotidiana."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Grabar notas de voz en un teléfono inteligente produce los mismos beneficios cognitivos que un cuaderno de papel?",
+            "answer": "Sí, la grabación de voz es un método excelente para descargar rápidamente la memoria de trabajo. Sin embargo, los formatos de texto son superiores para la revisión visual y la estructuración prefrontal posterior. Si usa notas de voz, recomendamos combinarlas con funciones de voz a texto (STT) para archivarlas como datos de texto."
+          },
+          {
+            "question": "Escribo notas pero a menudo olvido revisarlas más tarde. ¿Cómo puedo solucionar esto?",
+            "answer": "Tomar notas adquiere valor cuando se revisan y combinan con la acción. Establezca una alarma diaria o ancle una 'rutina de escaneo de 1 minuto' a hábitos existentes —como justo antes del café matutino o de comenzar a trabajar— para revisar mecánicamente las entradas del día anterior durante 60 segundos."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Chasser l'inspiration fugace : La routine de capture immédiate au carnet de poche de Bruce Lee",
+        "description": "Découvrez comment l'artiste martial et icône du cinéma du XXe siècle Bruce Lee gardait un carnet de poche pour capturer ses réflexions philosophiques et concepts d'arts martiaux en temps réel, et explorez les mécanismes cognitifs de stimulation du SRA.",
+        "authority": "Vérification Historique issue de la biographie de John Little *Bruce Lee : Artiste de la vie (Bruce Lee: Artist of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+        "intro": "« Savoir ne suffit pas, il faut appliquer. Vouloir ne suffit pas, il faut agir. » 🚶‍♂️\n\nBruce Lee (1940–1973) était une icône culturelle immortelle du XXe siècle qui a captivé le cinéma mondial par des coups de pied foudroyants et une condition physique hors pair, tout en intégrant la philosophie existentialiste orientale à son art martial, le Jeet Kune Do. Ses techniques de combat fluides comme l'eau et ses maximes de vie profondes n'étaient pas de simples éclairs de génie inné ou des improvisations, mais le fruit de carnets d'idées méticuleusement renseignés au quotidien.\n\nBruce Lee portait un carnet de poche en cuir noir de la taille d'une paume et un stylo partout avec lui — fourrés dans la poche de sa chemise ou son jean. Qu'il soit plongé dans une lecture, en attente entre deux prises sur un plateau, en train de discuter dans une maison de thé ou de marcher dans la rue, il sortait immédiatement son carnet dès qu'une inspiration surgissait. Ses carnets étaient remplis de séries d'entraînements et de méditations philosophiques rédigées en anglais et en caractères chinois. Ces notes ont servi d'ancrage intellectuel pour guider sa vie et forger son système de combat.\n\nDans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à la routine de « capture immédiate au carnet de poche » de Bruce Lee et proposons un plan d'action pratique en 3 étapes permettant aux individus modernes de saisir les pensées fugaces et de les convertir en moteur de développement.",
+        "whyTitle": "Stimulation du Système Réticulaire Activateur (SRA) et traitement sélectif de l'information",
+        "whyDesc": "Le cerveau humain traite des millions de données sensorielle chaque jour, mais les filtres cognitifs effacent la plupart des informations non liées à la survie ou à des intérêts majeurs. Annoter une inspiration dans un carnet de poche dans les 5 secondes — comme le faisait Bruce Lee — éveille le Système Réticulaire Activateur (SRA) dans le tronc cérébral. Agissant comme un filtre attribuant une priorité aux signaux atteignant le cortex cérébral, l'acte physique d'enregistrer signale : « Cette idée est capitale pour la réalisation de mes objectifs. » En conséquence, le cerveau entre dans un état de « Perception Sélective », balayant l'environnement à la recherche d'opportunités et d'indices liés à cette note.",
+        "cautionTitle": "Précautions & Conseils : Prioriser la vitesse et l'instantanéité sur la structure",
+        "cautionDesc": "La règle d'or du carnet de poche est la rapidité : poser le stylo sur le papier dans les 5 secondes suivant l'émergence d'une inspiration. Ne perdez pas de temps à structurer des paragraphes ou à appliquer votre écriture. Dès que vous vous souciez de la forme, le filtre préfrontal intervient et l'étincelle s'évapore. Quelques mots griffonnés ou des phrases incomplètes suffisent à fixer le fil de la pensée.",
+        "steps": [
+          {
+            "title": "Étape 1 : Toujours porter sur soi un outil physique ou numérique accessible en 1 seconde",
+            "desc": "Gardez un carnet de la taille d'une paume et un stylo dans votre poche ou sac à portée de main en 1 seconde. Si vous utilisez des outils numériques, placez un widget de note rapide sur l'écran d'accueil de votre smartphone."
+          },
+          {
+            "title": "Étape 2 : Capture en temps réel d'idées fugaces en moins de 5 secondes",
+            "desc": "Lorsqu'un mot-clé percussion, un concept de projet ou un objectif surgit pendant la lecture, la marche ou une échange, sortez immédiatement votre carnet et notez-le en quelques mots bruts sans marquer de pause."
+          },
+          {
+            "title": "Étape 3 : Revue des notes en fin de journée & Conversion en plans d'action concrets",
+            "desc": "Chaque soir ou le lendemain matin, rouvrez votre carnet pour repasser vos notes en revue. Sélectionnez 1 idée pertinente et convertissez-la en un plan d'action concret pour votre travail ou quotidien."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "L'enregistrement de notes vocales sur un smartphone procure-t-il les mêmes bénéfices qu'un carnet papier ?",
+            "answer": "Oui, l'enregistrement vocal est une excellente méthode pour décharger rapidement la mémoire de travail. Cependant, le format texte reste supérieur pour la révision visuelle et la structuration ultérieures. Si vous utilisez des notes vocales, nous recommandons de les associer à la transcription automatique (STT)."
+          },
+          {
+            "question": "Je prends des notes mais j'oublie souvent de les relire plus tard. Comment y remédier ?",
+            "answer": "La prise de notes prend toute sa valeur lorsqu'elles sont réévaluées et combinées à l'action. Réglez une alarme quotidienne ou adossez une « routine de balayage d'une minute » à des habitudes existantes — comme juste avant le café du matin — pour relire les notes de la veille pendant 60 secondes."
+          }
+        ]
+      },
+      "de": {
+        "title": "Jagd auf flüchtige Inspirationen: Bruce Lees Taschen-Notizbuch-Routine zur sofortigen Erfassung",
+        "description": "Erkunden Sie, wie der Kampfkünstler und die Filmikone des 20. Jahrhunderts, Bruce Lee, ein Taschennotizbuch mit sich führte, um philosophische Erkenntnisse und Kampfsportkonzepte in Echtzeit festzuhalten, und entdecken Sie die kognitiven Mechanismen der RAS-Stimulation.",
+        "authority": "Historische Überprüfung aus John Littles Biografie *Bruce Lee: Artist of Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+        "intro": "\"Wissen ist nicht genug, wir müssen es anwenden. Wollen ist nicht genug, wir müssen es tun.\" 🚶‍♂️\n\nBruce Lee (1940–1973) war eine unsterbliche Kulturikone des 20. Jahrhunderts, die das Weltkino mit blitzschnellen Tritten und extremer Physis fesselte, während er östliche Existenzphilosophie nahtlos in seine Kampfkunst, das Jeet Kune Do, integrierte. Seine flüssigen Kampfbewegungen und tiefgründigen Lebensweisheiten waren keine bloßen Blitze angeborener Genialität oder spontane Improvisationen, sondern das gesammelte Ergebnis akribisch zusammengestellter Notizbücher.\n\nBruce Lee trug überall ein handgroßes schwarzes Leder-Taschennotizbuch und einen Stift bei sich – verstaut in der Hemd- oder Gesäßtasche. Ob beim vertieften Lesen, Warten am Filmset, Plaudern im Teehaus oder Spazieren auf der Straße: Im selben Moment, in dem ein Gedanke aufblitzte, holte er sein Notizbuch heraus. Seine Taschenbücher waren dicht gefüllt mit Trainingssätzen und philosophischen Überlegungen in englischen und chinesischen Schriftzeichen. Diese Notizen dienten als intellektueller Anker, der sein Leben lenkte und sein Kampfsystem formte.\n\nIm heutigen Beitrag analysieren wir die Neurowissenschaft hinter Bruce Lees Routine der 'sofortigen Aufzeichnung im Taschennotizbuch' und stellen einen praktischen 3-Schritte-Aktionsplan für moderne Menschen vor, um flüchtige Gedanken im Alltag einzufangen und in echtes Wachstum umzuwandeln.",
+        "whyTitle": "Stimulation des Retikulären Aktivierungssystems (RAS) und selektive Informationsverarbeitung",
+        "whyDesc": "Das menschliche Gehirn verarbeitet täglich Millionen Sinneseindrücke, doch kognitive Filter löschen die meisten Daten, die nicht direkt mit dem Überleben oder Hauptinteressen verknüpft sind. Das Aufschreiben einer Inspiration in ein Taschennotizbuch innerhalb von 5 Sekunden – wie Bruce Lee es tat – weckt das Retikuläre Aktivierungssystem (RAS) im Hirnstamm. Als Pförtner, der Signalen zur Großhirnrinde Prioritäten zuweist, signalisiert der Akt des Aufzeichnens: 'Diese Idee ist entscheidend für meine Ziele.' Infolgedessen tritt das Gehirn in einen Zustand 'Selektiver Wahrnehmung' ein und sucht die Umgebung nach Chancen und Hinweisen ab, die mit dieser Notiz verknüpft sind.",
+        "cautionTitle": "Vorsichtsmaßnahmen & Tipps: Priorisierung von Geschwindigkeit vor sauberer Struktur",
+        "cautionDesc": "Die oberste Regel für Taschennotizbücher ist Schnelligkeit: Den Stift innerhalb von 5 Sekunden nach dem Aufkommen einer Inspiration auf das Papier zu setzen. Zögern Sie nicht, indem Sie versuchen, Absätze strukturiert zu gliedern oder die Handschrift zu verschönern. Sobald Sie sich um die äußere Form sorgen, greift die präfrontale Zensur ein und der Funke verfliegt. Einige gekritzelte Wörter oder unfertige Phrasen reichen aus, um den Gedanken zu verankern.",
+        "steps": [
+          {
+            "title": "Schritt 1: Ständiges Griffbereithalten physischer oder digitaler Notizwerkzeuge",
+            "desc": "Bewahren Sie ein handgroßes Notizbuch und einen Stift in Ihrer Tasche auf, sodass Sie sie innerhalb einer Sekunde greifen können. Wenn Sie digitale Tools nutzen, platzieren Sie ein Notiz-Widget auf dem Startbildschirm."
+          },
+          {
+            "title": "Schritt 2: Erfassen flüchtiger Ideen in Echtzeit innerhalb von 5 Sekunden",
+            "desc": "Wenn beim Lesen, Gehen oder Sprechen ein prägnantes Schlüsselwort oder ein Projektkonzept auftaucht, holen Sie sofort Ihr Notizbuch heraus und schreiben Sie es ungefiltert auf."
+          },
+          {
+            "title": "Schritt 3: Tagesrückblick der Notizen & Umwandlung in konkrete Aktionspläne",
+            "desc": "Schlagen Sie Ihr Notizbuch jeden Abend oder am nächsten Morgen wieder auf, um die Aufzeichnungen durchzugehen. Wählen Sie 1 besonders wertvolle Idee aus und verwandeln Sie sie in einen konkreten Aktionsplan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Erzielt das Aufnehmen von Sprachnotizen auf dem Smartphone dieselben kognitiven Vorteile wie ein Papiernotizbuch?",
+            "answer": "Ja, Sprachaufnahmen sind eine hervorragende Methode zur schnellen Entlastung des Arbeitsgedächtnisses. Textformate sind jedoch für das spätere visuelle Durchsehen und Strukturieren weitaus besser geeignet. Bei Sprachmemos wird empfohlen, diese mit automatischer Spracherkennung (STT) zu kombinieren."
+          },
+          {
+            "question": "Ich mache mir Notizen, vergesse aber oft, sie später durchzulesen. Wie kann ich das beheben?",
+            "answer": "Notizen entwickeln ihren Wert erst, wenn sie erneut geprüft und mit Taten verknüpft werden. Richten Sie eine tägliche Erinnerung ein oder koppeln Sie eine '1-Minuten-Scan-Routine' an bestehende Gewohnheiten – wie direkt vor dem Morgenkaffee –, um die Einträge des Vortags für 60 Sekunden zu überfliegen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Caçando a Inspiração Fugaz: A Rotina de Captura Imadiata com Caderno de Bolso de Bruce Lee",
+        "description": "Descubra como o marcialista e ícone do cinema do século XX Bruce Lee carregava um caderno de bolso para capturar percepções filosóficas e conceitos de artes marciais em tempo real, e explore os mecanismos cognitivos de estimulação do SRA.",
+        "authority": "Verificação Histórica da Biografia de John Little *Bruce Lee: Artista da Vida (Bruce Lee: Artist of Life)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+        "intro": "\"Saber não é suficiente, devemos aplicar. Querer não é suficiente, devemos fazer.\" 🚶‍♂️\n\nBruce Lee (1940–1973) foi um ícone cultural imortal do século XX que cativou o cinema mundial com chutes fulminantes e um condicionamento físico insuperável, enquanto fundia a filosofia existencial oriental em sua arte marcial, o Jeet Kune Do. Suas técnicas de combate fluidas como a água e suas profundas máximas de vida não eram meros estalos de genialidade inata ou improvisações, mas o resultado compilado de cadernos de ideias meticulosamente registrados diariamente.\n\nBruce Lee carregava um caderno de bolso de couro preto do tamanho da palma da mão e uma caneta por onde quer que fosse — guardados no bolso da camisa ou no bolso traseiro da calça jeans. Fosse lendo atentamente, esperando entre tomadas nos sets de filmagem, conversando em casas de chá ou caminhando pelas ruas, ele sacava imediatamente seu caderno no instante em que uma inspiração surgia. Seus volumes de bolso estavam repletos de séries de musculação e profundas reflexões filosóficas escritas em inglês e caracteres chineses. Essas anotações serviram como uma âncora intelectual que guiou sua vida e forjou seu sistema de combate.\n\nNo artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'registro imediato em caderno de bolso' de Bruce Lee e apresentamos um guia prático de 3 passos para as pessoas modernas capturarem pensamentos fugazes e os converterem em combustível para o crescimento.",
+        "whyTitle": "Estimulação do Sistema de Ativação Reticular (SRA) e Processamento Seletivo de Informações",
+        "whyDesc": "O cérebro humano processa milhões de dados sensoriais diariamente, mas os filtros cognitivos apagam a maioria das informações não vinculadas à sobrevivência ou interesses centrais. Escrever uma inspiração em um caderno de bolso em até 5 segundos — como fazia Bruce Lee — desperta fortemente o Sistema de Ativação Reticular (SRA) no tronco cerebral. Atuando como um guardião que atribui prioridade aos sinais que chegam ao córtex cerebral, o ato físico de registrar sinaliza: 'Esta ideia é vital para o alcance de metas.' Consequentemente, o cérebro entra num estado de 'Percepção Seletiva', varrendo o ambiente em busca de oportunidades e pistas associadas a essa nota.",
+        "cautionTitle": "Precauções e Dicas: Priorizar a Velocidade e o Momento em Vez de uma Estructura Polida",
+        "cautionDesc": "A regra de ouro do caderno de bolso é a rapidez: encostar a caneta no papel em até 5 segundos após o surgimento de uma inspiração. Não hesite tentando formatar parágrafos ou caprichar na caligrafia. No momento em que você se preocupa com a organização formal, a censura pré-frontal intervém e a centelha se evapora. Algumas palavras rabiscadas ou frases incompletas bastam para ancorar a centelha mental.",
+        "steps": [
+          {
+            "title": "Passo 1: Levar Sempre Ferramentas Físicas ou Digitais ao Alcance em 1 Segundo",
+            "desc": "Mantenha um caderno do tamanho da palma e uma caneta no bolso ou bolsa ao alcance em 1 segundo. Se usar ferramentas digitais, coloque um widget de notas com um toque na tela inicial principal do celular."
+          },
+          {
+            "title": "Passo 2: Captura em Tempo Real de Ideias Fugazes em Menos de 5 Segundos",
+            "desc": "Quando uma palavra-chave, conceito de projeto ou meta surgir durante a leitura, caminhada ou conversa, saque seu caderno imediatamente e escreva em poucas palavras sem pausar."
+          },
+          {
+            "title": "Passo 3: Revisão das Notas no Fim do Dia e Conversão em Planos de Ação Concretos",
+            "desc": "Todas as noites ou na manhã seguinte, reabra seu caderno para revisar os rabiscos. Selecione 1 ideia altamente relevante e converta-a em um plano de ação concreto para o trabalho ou vida cotidiana."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Gravar notas de voz no celular produz os mesmos benefícios cognitivos que um caderno de papel?",
+            "answer": "Sim, a gravação de voz é um método excelente para descarregar rapidamente a memória de trabalho. No entanto, o formato em texto é superior para a revisão visual e estruturação posterior. Se usar notas de voz, recomendamos combiná-las com a funcionalidade de voz para texto (STT) para arquivá-las como texto."
+          },
+          {
+            "question": "Eu faço anotações, mas frequentemente me esqueço de revisá-las mais tarde. Como posso resolver isso?",
+            "answer": "Fazer anotações ganha valor quando elas são revisadas e combinadas com a ação. Defina um alarme diário ou vincule uma 'rotina de varredura de 1 minuto' a hábitos existentes — como logo antes do café da manhã —, para revisar as anotações do dia anterior por apenas 60 segundos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Berburu Inspirasi Singkat: Rutinitas Pencatatan Cepat Buku Catatan Saku ala Bruce Lee",
+        "description": "Pelajari bagaimana seniman bela diri dan ikon film abad ke-20 Bruce Lee membawa buku catatan saku untuk menangkap wawasan filosofis dan konsep seni bela diri secara real-time, serta temukan mekanisme kognitif stimulasi RAS di balik pencatatan instan.",
+        "authority": "Verifikasi Historis dari Biografi John Little *Bruce Lee: Artist of Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)",
+        "intro": "\"Mengetahui saja tidak cukup, kita harus menerapkan. Kemauan saja tidak cukup, kita harus melakukan.\" 🚶‍♂️\n\nBruce Lee (1940–1973) adalah ikon budaya abad ke-20 yang memikat sinema global dengan tendangan secepat kilat dan fisik yang luar biasa, sambil memadukan filsafat eksistensial timur ke dalam seni bela dirinya, Jeet Kune Do. Teknik bertarungnya yang fleksibel seperti air dan pepatah hidupnya yang mendalam bukanlah sekadar kilatan kejeniusan bawaan atau improvisasi spontan, melainkan hasil kompilasi dari buku catatan ide yang dikumpulkan dan dicatat secara cermat setiap hari.\n\nBruce Lee membawa buku catatan saku kulit hitam seukuran telapak tangan dan pena ke mana pun ia pergi—diselipkan di saku kemeja atau saku belakang celana jinsnya. Baik saat membaca dengan tekun, menunggu di antara sela-sela syuting film, mengobrol di kedai teh, atau berjalan di jalanan, ia segera mengeluarkan buku catatannya saat inspirasi muncul. Buku catatannya dipenuhi dengan set latihan beban yang teliti serta perenungan filosofis mendalam yang ditulis dalam bahasa Inggris dan karakter Mandarin. Catatan ini berfungsi sebagai jangkar intelektual yang memandu hidupnya dan menempa sistem bertarungnya.\n\nDalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'pencatatan cepat buku catatan saku' Bruce Lee dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern untuk menangkap pikiran harian yang singkat dan mengubahnya menjadi bahan bakar pertumbuhan.",
+        "whyTitle": "Stimulasi Reticular Activating System (RAS) dan Pemrosesan Informasi Selektif",
+        "whyDesc": "Otak manusia memproses jutaan masukan sensorik setiap hari, namun filter kognitif menghapus sebagian besar data yang tidak terkait secara langsung dengan kelangsungan hidup atau minat utama. Menuliskan inspirasi dalam buku catatan saku dalam waktu 5 detik—seperti yang dipraktikkan Bruce Lee—secara kuat membangunkan Reticular Activating System (RAS) di batang otak. Berfungsi sebagai penjaga gerbang yang menetapkan prioritas pada sinyal sensorik yang mencapai korteks serebral, tindakan fisik mencatat memberikan sinyal: 'Ide ini sangat penting untuk pencapaian tujuan saya.' Akibatnya, otak memasuki kondisi 'Persepsi Selektif', memindai lingkungan untuk mencari peluang dan petunjuk yang terikat dengan catatan tersebut.",
+        "cautionTitle": "Perhatian & Tip: Memprioritaskan Kecepatan & Waktu daripada Struktur Rapi",
+        "cautionDesc": "Aturan utama pencatatan buku catatan saku adalah kecepatan—menyentuh pena ke kertas dalam waktu 5 detik dari munculnya inspirasi. Jangan ragu dengan mencoba memformat secara rapi, memstrukturkan paragraf, atau mempercantik tulisan tangan. Begitu Anda mengkhawatirkan penataan formal, filter prefrontal mengintervensi dan percikan inspirasi menguap. Beberapa kata yang dicoret-coret atau frasa yang tidak sempurna sudah cukup untuk menjangkarkan percikan mental.",
+        "steps": [
+          {
+            "title": "Langkah 1: Selalu Membawa Alat Catatan Fisik/Digital yang Dapat Dijangkau dalam 1 Detik",
+            "desc": "Simpan buku catatan kertas seukuran telapak tangan dan pena dalam saku atau tas Anda di mana tangan Anda dapat menjangkau dalam 1 detik. Jika menggunakan alat digital, tempatkan widget catatan satu ketukan di layar utama smartphone Anda."
+          },
+          {
+            "title": "Langkah 2: Tangkapan Real-Time Ide-Ide Singkat dalam Waktu 5 Detik",
+            "desc": "Ketika kata kunci yang menarik, konsep proyek, or tujuan latihan muncul selama membaca, berjalan, atau percakapan, segera keluarkan buku catatan Anda dan tuliskan dalam beberapa kata mentah tanpa berhenti."
+          },
+          {
+            "title": "Langkah 3: Tinjauan Catatan Akhir Hari & Konversi ke Rencana Tindakan Konkret",
+            "desc": "Setiap malam atau pagi harinya, buka kembali buku catatan Anda untuk memindai coretan mentah. Pilih 1 ide yang sangat bermakna dan ubahlah menjadi rencana tindakan konkret untuk pekerjaan atau kehidupan harian."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah merekam catatan suara di smartphone memberikan manfaat kognitif yang sama dengan buku catatan kertas?",
+            "answer": "Ya, perekaman suara adalah metode yang sangat baik untuk memindahkan memori kerja secara cepat. Namun, format berbasis teks jauh lebih unggul untuk pemindaian visual dan strukturasi prefrontal di kemudian hari. Jika menggunakan memo suara, kami menyarankan untuk mengombinasikannya dengan fitur Speech-to-Text (STT) otomatis untuk mengarsipkan catatan sebagai data teks."
+          },
+          {
+            "question": "Saya mencatat tetapi sering lupa untuk meninjaunya nanti. Bagaimana cara mengatasinya?",
+            "answer": "Pencatatan mencapai nilainya saat catatan ditinjau kembali dan dipadukan dengan tindakan nyata. Atur alarm harian atau kaitkan 'rutinitas pemindaian 1 menit' pada pemicu kebiasaan yang ada—seperti tepat sebelum kopi pagi atau mulai bekerja—untuk meninjau entri buku catatan kemarin secara mekanis selama 60 detik."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "종이 수첩 대신 스마트폰 음성 녹음 기능으로 영감을 보존해도 동일한 효과가 나나요?",
-          "en": "Does recording voice notes on a smartphone yield the same cognitive benefits as paper notebooks?",
-          "ja": "紙の手帳の代わりにスマートフォンの音声録音機能でインスピレーションを保存しても同じ効果が得られますか？",
-          "zh": "以此取代纸质手账，使用手机语音备忘录功能保存灵感能达到同等效果吗？",
-          "es": "¿Grabar notas de voz en un teléfono inteligente produce los mismos beneficios cognitivos que un cuaderno de papel?",
-          "de": "Erzielt das Aufnehmen von Sprachnotizen auf dem Smartphone dieselben kognitiven Vorteile wie ein Papiernotizbuch?",
-          "fr": "L'enregistrement de notes vocales sur un smartphone procure-t-il les mêmes bénéfices qu'un carnet papier ?",
-          "pt": "Gravar notas de voz no celular produz os mesmos benefícios cognitivos que um caderno de papel?",
-          "id": "Apakah merekam catatan suara di smartphone memberikan manfaat kognitif yang sama dengan buku catatan kertas?"
-        },
-        "answer": {
-          "ko": "네, 음성 녹음 역시 작업 기억을 빠르게 밖으로 추출해 내는 우수한 수단입니다. 단, 뇌가 나중에 메모를 재복기하고 시각적으로 구조화하기에는 텍스트 형태가 훨씬 유리하므로, 음성 녹음 앱의 자동 텍스트 변환(STT) 기능을 결합해 텍스트 데이터로 보존해 두는 것을 권장합니다.",
-          "en": "Yes, voice recording is an excellent method for rapidly offloading working memory. However, text-based formats are far superior for later visual scanning and prefrontal structuring. If using voice memos, we recommend pairing them with automated Speech-to-Text (STT) features to archive notes as searchable text data.",
-          "ja": "はい、音声録音も作業記憶を素早く外に抽出する優秀な手段です。ただし、脳が後でメモを復習し視覚的に構造化するにはテキスト形態がはるかに有利であるため、音声録音アプリの自動テキスト変換（STT）機能を組み合わせてテキストデータとして保存しておくことをお勧めします。",
-          "zh": "是的，语音录音同样是迅速倾倒工作记忆负担的极佳手段。不过，为了便于大脑日后进行复盘与视觉结构化，文本形式具有显著优势。如果习惯录音，建议结合语音转文字（STT）功能，将录音整理存留为可读的文本数据。",
-          "es": "Sí, la grabación de voz es un método excelente para descargar rápidamente la memoria de trabajo. Sin embargo, los formatos de texto son superiores para la revisión visual y la estructuración prefrontal posterior. Si usa notas de voz, recomendamos combinarlas con funciones de voz a texto (STT) para archivarlas como datos de texto.",
-          "de": "Ja, Sprachaufnahmen sind eine hervorragende Methode zur schnellen Entlastung des Arbeitsgedächtnisses. Textformate sind jedoch für das spätere visuelle Durchsehen und Strukturieren weitaus besser geeignet. Bei Sprachmemos wird empfohlen, diese mit automatischer Spracherkennung (STT) zu kombinieren.",
-          "fr": "Oui, l'enregistrement vocal est une excellente méthode pour décharger rapidement la mémoire de travail. Cependant, le format texte reste supérieur pour la révision visuelle et la structuration ultérieures. Si vous utilisez des notes vocales, nous recommandons de les associer à la transcription automatique (STT).",
-          "pt": "Sim, a gravação de voz é um método excelente para descarregar rapidamente a memória de trabalho. No entanto, o formato em texto é superior para a revisão visual e estruturação posterior. Se usar notas de voz, recomendamos combiná-las com a funcionalidade de voz para texto (STT) para arquivá-las como texto.",
-          "id": "Ya, perekaman suara adalah metode yang sangat baik untuk memindahkan memori kerja secara cepat. Namun, format berbasis teks jauh lebih unggul untuk pemindaian visual dan strukturasi prefrontal di kemudian hari. Jika menggunakan memo suara, kami menyarankan untuk mengombinasikannya dengan fitur Speech-to-Text (STT) otomatis untuk mengarsipkan catatan sebagai data teks."
-        }
-      },
-      {
-        "question": {
-          "ko": "메모를 적어두고 나중에 다시 찾아 읽어보지 않게 되는데 해결 방법이 있나요?",
-          "en": "I write down notes but often forget to review them later. How can I fix this?",
-          "ja": "メモを書き留めておいても後で読み返さないようになってしまうのですが、解決方法はありますか？",
-          "zh": "记下了笔记却常常事后不再翻阅，有什么解决办法吗？",
-          "es": "Escribo notas pero a menudo olvido revisarlas más tarde. ¿Cómo puedo solucionar esto?",
-          "de": "Ich mache mir Notizen, vergesse aber oft, sie später durchzulesen. Wie kann ich das beheben?",
-          "fr": "Je prends des notes mais j'oublie souvent de les relire plus tard. Comment y remédier ?",
-          "pt": "Eu faço anotações, mas frequentemente me esqueço de revisá-las mais tarde. Como posso resolver isso?",
-          "id": "Saya mencatat tetapi sering lupa untuk meninjaunya nanti. Bagaimana cara mengatasinya?"
-        },
-        "answer": {
-          "ko": "메모의 진정한 가치는 기재 자체보다 '재복기하여 실질적 행동과 결합할 때' 폭발합니다. 매일 아침 특정 시간이나 업무 시작 직전 스마트폰 알림을 설정하고, 단 1분간 어제 적은 메모 페이지를 기계적으로 읽어보는 '1분 스캔 루틴'을 기존의 식사, 양치질 같은 행동 트리거에 결합해 보세요.",
-          "en": "Note-taking achieves value when notes are re-audited and paired with real-world action. Set a recurring smartphone alarm or anchor a '1-minute scan routine' to existing habit triggers—such as right before morning coffee or work start—to mechanically review yesterday's notebook entries for just 60 seconds.",
-          "ja": "メモの真の価値は記載自体よりも「復習して実質的な行動と結合する時」に爆発します。毎朝特定の時間や業務開始直前にスマートフォンのアラームを設定し、たった1分間昨日書いたメモのページを機械的に読み返す「1分スキャン・ルーティン」を、既存の食事や歯磨きのような行動トリガーに結合させてみてください。",
-          "zh": "笔记的真正价值绝非停留在“记录”动作本身，而是在于“重新复盘并结合切操与行动”的时刻爆发。可尝试设定每日定时的手机提醒，或将只需花费60秒通读前一日笔记的“1分钟快速扫描习惯”挂钩于晨起喝咖啡或上班打卡等现有生活习惯上。",
-          "es": "Tomar notas adquiere valor cuando se revisan y combinan con la acción. Establezca una alarma diaria o ancle una 'rutina de escaneo de 1 minuto' a hábitos existentes —como justo antes del café matutino o de comenzar a trabajar— para revisar mecánicamente las entradas del día anterior durante 60 segundos.",
-          "de": "Notizen entwickeln ihren Wert erst, wenn sie erneut geprüft und mit Taten verknüpft werden. Richten Sie eine tägliche Erinnerung ein oder koppeln Sie eine '1-Minuten-Scan-Routine' an bestehende Gewohnheiten – wie direkt vor dem Morgenkaffee –, um die Einträge des Vortags für 60 Sekunden zu überfliegen.",
-          "fr": "La prise de notes prend toute sa valeur lorsqu'elles sont réévaluées et combinées à l'action. Réglez une alarme quotidienne ou adossez une « routine de balayage d'une minute » à des habitudes existantes — comme juste avant le café du matin — pour relire les notes de la veille pendant 60 secondes.",
-          "pt": "Fazer anotações ganha valor quando elas são revisadas e combinadas com a ação. Defina um alarme diário ou vincule uma 'rotina de varredura de 1 minuto' a hábitos existentes — como logo antes do café da manhã —, para revisar as anotações do dia anterior por apenas 60 segundos.",
-          "id": "Pencatatan mencapai nilainya saat catatan ditinjau kembali dan dipadukan dengan tindakan nyata. Atur alarm harian atau kaitkan 'rutinitas pemindaian 1 menit' pada pemicu kebiasaan yang ada—seperti tepat sebelum kopi pagi atau mulai bekerja—untuk meninjau entri buku catatan kemarin secara mekanis selama 60 detik."
-        }
-      }
-    ]
+    }
   }
 }

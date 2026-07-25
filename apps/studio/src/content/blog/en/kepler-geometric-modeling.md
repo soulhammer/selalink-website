@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sculpting 3D Models Instead of Formulas: Johannes Kepler's 'Haptic Spatial Visualization' Routine and Parietal Lobe Activation"
 description: "Discover how 17th-century astronomer Johannes Kepler mastered planetary orbits by carving 3D geometric models by hand. Explore the neuroscience of haptic spatial visualization, parietal lobe stimulation, and cognitive overload reduction."
 pubDate: "2026-06-24"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Johannes Kepler's '
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding kepler-geometric-modeling is based on <strong>Historical Verification from Johannes Kepler's *Mysterium Cosmographicum* (1596), Kepler Archives & Cognitive Neuroscience and Spatial Cognition Research</strong>.
+      This content is based on <strong>Historical Verification from Johannes Kepler's *Mysterium Cosmographicum* (1596), Kepler Archives & Cognitive Neuroscience and Spatial Cognition Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Parietal Lobe Spatial Stimulation and Mitigating Prefrontal Cognitive Overload
+## 1. Parietal Lobe Spatial Stimulation and Mitigating Prefrontal Cognitive Overload
 
 Attempting to process complex spatial laws or systemic architectures purely through abstract mental formulas overtaxes executive working memory, inducing rapid <strong>Cognitive Overload</strong> in the prefrontal cortex. Physically manipulating 3D objects directly stimulates the <strong>Parietal Lobe</strong> and association cortices responsible for spatial cognition. Concurrently processing <strong>Haptic Input</strong> from nerve endings alongside visual feedback converts dense abstract data into intuitive spatial structures, significantly boosting <strong>Spatial Reasoning</strong> capacity and problem-solving velocity.
 
 ---
 
-## Caution: Pivoting from Abstract Mental Blockades to Physical Multi-Sensory Object Manipulation
-
-When encountering a mental blockade while mapping complex software architecture, business pipelines, or system designs, avoid forcing abstract prefrontal reasoning. Turn off the monitor and manipulate sticky notes, physical blocks, or index cards directly on your desk; changing spatial dimensions unlocks intuitive problem-solving.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When encountering a mental blockade while mapping complex software architecture,
   </p>
 </div>
 
+---
+
+## 3. Caution: Pivoting from Abstract Mental Blockades to Physical Multi-Sensory Object Manipulation
+
+When encountering a mental blockade while mapping complex software architecture, business pipelines, or system designs, avoid forcing abstract prefrontal reasoning. Turn off the monitor and manipulate sticky notes, physical blocks, or index cards directly on your desk; changing spatial dimensions unlocks intuitive problem-solving.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What specific geometric structure did Johannes Kepler carve for his model?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When encountering a mental blockade while mapping complex software architecture,
       Kepler carved models of the five Platonic solids (tetrahedron, cube, octahedron, dodecahedron, icosahedron) nested sequentially inside concentric spheres representing planetary orbits. This physical model allowed him to visually and haptically verify spatial proportions between planetary distances.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I easily practice this routine if I don't have physical 3D blocks or models?</span>

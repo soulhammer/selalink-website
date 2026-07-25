@@ -21,6 +21,7 @@ faqs:
     answer: "Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat."
   - question: "Should nuts be kept in the pantry at room temperature?"
     answer: "No, lipids in nuts are highly sensitive to heat, air, and moisture. Storing at room temp accelerates rancidity. Always store sealed in the fridge or freezer."
+
 ---
 
 Lagern Sie Nüsse in transparenten Gläsern auf dem Esstisch? Nüsse sind reich an ungesättigten Fettsäuren und oxidieren an Luft und Licht schnell, was zu Ranzigkeit und Toxinen führt. Heute teilt FreshSnap Tipps.
@@ -29,10 +30,10 @@ Lagern Sie Nüsse in transparenten Gläsern auf dem Esstisch? Nüsse sind reich 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Geprüfte wissenschaftliche Autorität
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Dieser Leitfaden entspricht den offiziellen Richtlinien von: <strong>MFDS & USDA & FDA</strong>.
+      Based on official storage standards. <strong>MFDS & USDA & FDA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nach dem Öffnen versiegeln und kühlen/einfrieren — Kühllagerung 90 Tage & Gefrierlagerung 180 Tage</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In lichtundurchlässigen Behältern verpacken — Lichtschutz 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtig
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">SCHRITT 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In trockener, feuchtigkeitsfreier Umgebung lagern — Lagerung bei Raumtemperatur (15Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

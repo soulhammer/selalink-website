@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Hacer el pino sobre el frío suelo de una prisión? El método de regulación hormonal de Jawaharlal Nehru"
 description: "El primer ministro de la India, Jawaharlal Nehru. Revela los principios neurocientíficos y la rutina de salud de cómo realizaba la postura de la vela/pino todas las mañanas durante 9 años de confinamiento solitario para aumentar el flujo sanguíneo cerebral y aliviar la tensión física."
 pubDate: "2026-03-18"
@@ -38,14 +39,14 @@ En la publicación de hoy, revelamos la ciencia del aumento del flujo sanguíneo
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre nehru-headstand-yoga se basa en <strong>Biografía crítica histórica y verificación de registros autobiográficos de Jawaharlal Nehru e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía crítica histórica y verificación de registros autobiográficos de Jawaharlal Nehru e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efectos de gravedad invertida: Inducir el flujo sanguíneo cerebral y desactivar el eje HPA del estrés
+## 1. Efectos de gravedad invertida: Inducir el flujo sanguíneo cerebral y desactivar el eje HPA del estrés
 
 Cuando permanecemos de pie o sentados en una silla todo el día, la gravedad desplaza el flujo sanguíneo hacia la parte inferior del cuerpo y somete a los discos intervertebrales a una compresión estática continua. Esto eleva la tensión del sistema nervioso autónomo y causa fatiga mental.
 
@@ -53,9 +54,7 @@ Las posturas invertidas revierten el flujo gravitacional, aumentando temporalmen
 
 ---
 
-## Alineación espinal segura es el comienzo del reinicio cerebral
-
-Si bien la postura sobre la cabeza es una técnica eficaz de relajación cerebral, los movimientos forzados o sin práctica pueden provocar lesiones en los discos cervicales y tensionar el sistema nervioso autónomo. Ejecutada con precaución y adaptada a su condición física como lo hacía Nehru, alivia la compresión intervertebral y suministra de forma estable energía limpia a todo el cerebro.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Si bien la postura sobre la cabeza es una técnica eficaz de relajación cerebra
   </p>
 </div>
 
+---
+
+## 3. Alineación espinal segura es el comienzo del reinicio cerebral
+
+Si bien la postura sobre la cabeza es una técnica eficaz de relajación cerebral, los movimientos forzados o sin práctica pueden provocar lesiones en los discos cervicales y tensionar el sistema nervioso autónomo. Ejecutada con precaución y adaptada a su condición física como lo hacía Nehru, alivia la compresión intervertebral y suministra de forma estable energía limpia a todo el cerebro.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es seguro para las personas con dolor de cuello o problemas de disco hacer la postura sobre la cabeza?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Si bien la postura sobre la cabeza es una técnica eficaz de relajación cerebra
       No, las personas que padecen afecciones en los discos cervicales o torácicos deben evitar la postura tradicional sobre la cabeza donde esta soporta directamente el peso corporal. En su lugar, puede obtener un flujo sanguíneo invertido seguro sin dañar los discos acostándose boca arriba con las caderas contra una pared y elevando las piernas verticalmente, o colocando un cojín bajo las caderas mientras eleva las piernas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuál es el momento del día más adecuado para realizar la postura sobre la cabeza?</span>

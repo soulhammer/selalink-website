@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jawaban Matematikus Jenius Muncul Saat Istirahat? Rutinitas Batas Fokus 4 Jam Henri Poincaré"
 description: "Formula sukses Henri Poincaré dengan membatasi kerja terfokus 4 jam sehari. Pelajari panduan 3 langkah yang memanfaatkan mode terfokus dan mode menyebar pada otak untuk membuka inspirasi kreatif."
 pubDate: "2026-04-19"
@@ -27,17 +28,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai poincare-time-limitation didasarkan pada <strong>Biografi Historis dan Catatan tentang Henri Poincaré & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi Historis dan Catatan tentang Henri Poincaré & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mode Terfokus vs Mode Menyebar: Kemampuan Memecahkan Masalah Bawah Sadar
+## 1. Mode Terfokus vs Mode Menyebar: Kemampuan Memecahkan Masalah Bawah Sadar
 
 Menurut sains kognitif, otak bekerja dalam dua mode: 'Mode Terfokus' dan 'Mode Menyebar'. Dalam Mode Terfokus, saat bekerja keras di meja, korteks prafrontal mempersempit cakupannya ke jalur saraf yang sangat spesifik. Namun, saat Anda istirahat atau berjalan-jalan, otak beralih ke Mode Menyebar, mengaktifkan Default Mode Network (DMN).
 
@@ -45,9 +46,7 @@ Selama Mode Menyebar, pikiran bawah sadar melakukan 'Inkubasi'—mengombinasikan
 
 ---
 
-## Saran Neurosains untuk Fokus yang Berkelanjutan
-
-Gagasan kreatif tidak muncul dari paksaan. Tetapkan batas yang jelas untuk waktu kerja terfokus Anda, dan saat menemui jalan buntu, berdirilah dan jalan-jalan untuk memberi otak Anda istirahat dalam Mode Menyebar. Pikiran bawah sadar akan menemukan jawabannya untuk Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Gagasan kreatif tidak muncul dari paksaan. Tetapkan batas yang jelas untuk waktu
     Jawaban yang dimunculkan oleh pikiran bawah sadar saat istirahat dapat menguap dengan cepat. Gunakan buku catatan atau perekam suara ponsel untuk segera mencatat inspirasi kreatif saat melintas di pikiran Anda.
   </p>
 </div>
+
+---
+
+## 3. Saran Neurosains untuk Fokus yang Berkelanjutan
+
+Gagasan kreatif tidak muncul dari paksaan. Tetapkan batas yang jelas untuk waktu kerja terfokus Anda, dan saat menemui jalan buntu, berdirilah dan jalan-jalan untuk memberi otak Anda istirahat dalam Mode Menyebar. Pikiran bawah sadar akan menemukan jawabannya untuk Anda.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "어둠 속에서 손바닥 철자 감각을 깨운 헬렌 켈러의 촉각 모방 훈련과 체성감각 가소성 루틴"
 description: "시각과 청각 장애를 극복하고 세계적 작가이자 인권 운동가가 된 헬렌 켈러. 손바닥 촉각 철자 감각으로 뇌의 체성감각 피질을 자극해 내면의 우주를 확장한 촉각 모방 루틴과 교차 감각 뇌 가소성의 원리를 탐구합니다."
 pubDate: "2026-03-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>헬렌 켈러 자서전 『내가 살아온 이야기(The Story of My Life)』 및 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 helen-keller 루틴을 다룹니다.
+      본 콘텐츠는 <strong>헬렌 켈러 자서전 『내가 살아온 이야기(The Story of My Life)』 및 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 체성감각 피질 자극과 대뇌 인지 가소성(Neuroplasticity)
+## 1. 체성감각 피질 자극과 대뇌 인지 가소성(Neuroplasticity)
 
 눈을 감고 시각 자극이 소거된 상태에서 신체 표피의 촉각적 위치와 움직임 궤적에 의존하는 행위는 뇌의 <strong>체성감각 피질(Somatosensory Cortex)</strong>의 <strong>뇌 가소성(Neuroplasticity)</strong>을 고조시킵니다. 감각 정보가 조밀해지면 뇌는 시각적 잡음에 현혹되지 않고 정보의 본질적인 인과관계를 차분하게 구조화하는 신경 연결망을 두껍게 단련하여, 장기 기억을 선명하게 유지하는 <strong>메타인지(Metacognition)</strong> 해상도를 비약적으로 향상시킵니다.
 
 ---
 
-## 시각 자극을 차단하고 피부 촉각 궤적에 집중하는 수칙
-
-훈련을 거창하게 오래 수행하려고 욕심부리지 마세요. 눈을 2분간 가만히 감고 외부 시각 소음을 차단한 채, 감각을 피부 손끝으로 온전히 모아 주는 차분한 훈련 루틴 자체에 초점을 맞추는 것이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 시각 자극을 차단하고 피부 촉각 궤적에 집중하는 수칙
+
+훈련을 거창하게 오래 수행하려고 욕심부리지 마세요. 눈을 2분간 가만히 감고 외부 시각 소음을 차단한 채, 감각을 피부 손끝으로 온전히 모아 주는 차분한 훈련 루틴 자체에 초점을 맞추는 것이 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>손가락 끝의 감각 훈련이 장기 기억력 증진과도 직결되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       네, 그렇습니다. 뇌는 시각, 청각 정보보다 피부의 미세한 촉각 질감 정보를 해독할 때 전두엽과 두정엽의 장기 시냅스 연결망을 훨씬 조밀하게 연동하므로, 기억의 깊이와 영속도가 폭발적으로 상승합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>피부가 건조하여 촉각 감도가 떨어질 때는 어쩌죠?</span>

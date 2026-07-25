@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Repositório do Pensamento Filosófico: O Método Dialético de Fichamento em Cartões e Rotina de Andaime Cognitivo de Hegel"
 description: "Por trás da consolidação do Idealismo Alemão por G. W. F. Hegel havia dezenas de milhares de cartões de conhecimento e um rigoroso sistema de classificação. Explore seu andaime cognitivo e um guia prático de 3 passos para superar os limites da memória de trabalho."
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre hegel-card-index é baseada em <strong>Verificação Histórica das Biografias de G. W. F. Hegel, Arquivos da *Fenomenologia do Espírito (Phänomenologie des Geistes)* e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Biografias de G. W. F. Hegel, Arquivos da *Fenomenologia do Espírito (Phänomenologie des Geistes)* e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Andaime Cognitivo: Superando os Gargalos da Memória de Trabalho
+## 1. Andaime Cognitivo: Superando os Gargalos da Memória de Trabalho
 
 O desempenho do córtex pré-frontal é limitado pela capacidade da <strong>Memória de Trabalho</strong>. Manter estruturas lógicas complexas apenas na mente causa sobrecarga cognitiva. O sistema de cartões de Hegel funciona como uma estrutura de <strong>Andaime Cognitivo (Cognitive Scaffolding)</strong>. Externalizar conhecimentos libera capacidade executiva. Dispor e recombinar esses cartões estimula vias neuronais associativas, transformando conceitos isolados em uma síntese dialética.
 
 ---
 
-## Precaução: Va Além do Armazenamento Passivo para Criar Conexões Orgânicas
-
-As caixas de cartões de Hegel não eram arquivos mortos, mas uma extensão ativa do pensamento dialético. Não se satisfaça apenas com o ato de tomar notas. O segredo do andaime cognitivo é aplicar uma ordem categórica que permita recuperar e sintetizar ideias livremente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ As caixas de cartões de Hegel não eram arquivos mortos, mas uma extensão ativ
   </p>
 </div>
 
+---
+
+## 3. Precaução: Va Além do Armazenamento Passivo para Criar Conexões Orgânicas
+
+As caixas de cartões de Hegel não eram arquivos mortos, mas uma extensão ativa do pensamento dialético. Não se satisfaça apenas com o ato de tomar notas. O segredo do andaime cognitivo é aplicar uma ordem categórica que permita recuperar e sintetizar ideias livremente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ferramentas digitais podem substituir com eficácia essa rotina de cartões analógicos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ As caixas de cartões de Hegel não eram arquivos mortos, mas uma extensão ativ
       Sim, com certeza. Você pode implementar um sistema de cartões usando ferramentas digitais como Notion, Obsidian ou aplicativos de notas. Recursos de links bidirecionais (Backlinks) replicam os mecanismos de Hegel.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Por que cartões concisos são mais eficazes do que escrever páginas longas em um caderno?</span>

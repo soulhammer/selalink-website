@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Stripping Away Corsets and Ornamentation: Coco Chanel's Essential Minimalist Tailoring and Prefrontal Suppression Filtering"
 description: "Discover how legendary fashion pioneer Coco Chanel revolutionised women's wear by draping raw fabric on live models and snipping away ornate corsets and frills. Uncover the cognitive neuroscience of prefrontal Suppression Filtering that strips cognitive noise to preserve core essence."
 pubDate: "2026-05-17"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Coco Chanel's 'live-dra
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding coco-chanel is based on <strong>Historical Verification from Edmonde Charles-Roux's Biography *Chanel and Her World* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Edmonde Charles-Roux's Biography *Chanel and Her World* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscience of Prefrontal Suppression Filtering and Intuitive Essence Extraction
+## 1. Neuroscience of Prefrontal Suppression Filtering and Intuitive Essence Extraction
 
 Physically and mentally severing extraneous visual noise and redundant embellishments recruits top-down 'Suppression Filtering' pathways within the dorsolateral and ventromedial prefrontal cortices. When the brain actively suppresses distracting, non-essential inputs, it conserves glucose budgets and locks attentional focus onto core functional geometry. Practicing real-time, three-dimensional subtraction exercises refines high-level metacognitive pruning—enabling knowledge workers to swiftly strip unnecessary variables, redundant processes, and ornamental logic from business proposals and strategic architectures.
 
 ---
 
-## Caution & Tips: Avoiding Indiscriminate Elimination & Preserving Core Functional Value
-
-The essence of Chanel-style minimalist tailoring is not ruthless, destructive elimination for its own sake. The core goal is dedicating cognitive resources to isolate and highlight the 'structural framework' that elevates functional utility and aesthetic brilliance. To prevent accidentally destroying core purpose while trimming, continually ask: 'If this specific element is removed, does the primary message or core function remain fully intact and amplified?'
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The essence of Chanel-style minimalist tailoring is not ruthless, destructive el
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Avoiding Indiscriminate Elimination & Preserving Core Functional Value
+
+The essence of Chanel-style minimalist tailoring is not ruthless, destructive elimination for its own sake. The core goal is dedicating cognitive resources to isolate and highlight the 'structural framework' that elevates functional utility and aesthetic brilliance. To prevent accidentally destroying core purpose while trimming, continually ask: 'If this specific element is removed, does the primary message or core function remain fully intact and amplified?'
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How do I distinguish between non-essential clutter and core value when trimming business documents?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The essence of Chanel-style minimalist tailoring is not ruthless, destructive el
       Isolate the single primary objective and ask: 'If this modifier, chart, or section is removed, does the fundamental problem being solved for the client remain clear?' If yes, the element is decorative padding. Cutting it away amplifies clarity and persuasive impact.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can Chanel's subractive tailoring methodology be applied to personal workspace and daily organization?</span>

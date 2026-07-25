@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Meredakan Stres Ekstrem di Ujung Kuas: Rutinitas Jurnal Refleksi Laksamana Yi Sun-sin"
 description: "Laksamana Yi Sun-sin, pahlawan nasional Joseon. Temukan efek psikologi kognitif dan rutinitas penataan emosi 3 langkah melalui penulisan jurnal refleksi (Nanjung Ilgi), rahasia di balik keberhasilannya mengatasi tekanan ekstrem medan perang dan penderitaan batin demi meraih legenda tak terkalahkan."
 pubDate: "2026-06-29"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami memperkenalkan efek psikologi kognitif dari rutin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai yisunshin-war-diary didasarkan pada <strong>Pemeriksaan biografi historis & catatan autobiografi Laksamana Yi Sun-sin & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Pemeriksaan biografi historis & catatan autobiografi Laksamana Yi Sun-sin & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Katarsis Emosional dan Efek Penenangan Amigdala dari Penulisan Ekspresif
+## 1. Katarsis Emosional dan Efek Penenangan Amigdala dari Penulisan Ekspresif
 
 Ketika dihadapkan pada emosi negatif seperti ketakutan hebat atau perasaan ketidakadilan, pusat rasa takut di otak, yaitu <strong>Amigdala</strong>, menjadi sangat terlalu aktif. Dalam kondisi ini, fungsi lobus frontal yang bertanggung jawab atas pertimbangan rasional dan kemauan menjadi lumpuh. Menurut penelitian psikologi kognitif, <strong>'Penulisan Ekspresif'</strong>—tindakan memindahkan kondisi emosional yang tidak berbentuk ke dalam teks tulisan tangan yang terstruktur—secara efektif menenangkan aktivasi amigdala yang abnormal. Dengan memberi nama pada emosi dan menyajikannya bersama fakta objektif, otak menganggap situasi yang tadinya tak terkendali menjadi dapat dikelola, secara langsung membebaskan sumber daya kognitif dan menunjukkan ketahanan stres yang kuat.
 
 ---
 
-## Tuliskan Hanya Kebenaran Anda Tanpa Memedulikan Penilaian Orang Lain
-
-Untuk menikmati 100% efek pembersihan emosi dari jurnal refleksi, Anda sama sekali tidak boleh memedulikan pandangan orang lain. Jika Anda mulai memperhalus atau menyensor kalimat karena khawatir 'bagaimana jika ada yang membaca jurnalku', mekanisme objektifikasi yang menenangkan amigdala tidak akan bekerja. Sebagaimana Laksamana Yi Sun-sin mengekspresikan rasa takut, kemarahan, dan kecemasannya tanpa filter lewat ujung kuasnya, tekanan kognitif baru akan terangkat jika Anda benar-benar jujur pada diri sendiri di ruang catatan paling pribadi yang hanya diperuntukkan bagi Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Untuk menikmati 100% efek pembersihan emosi dari jurnal refleksi, Anda sama seka
   </p>
 </div>
 
+---
+
+## 3. Tuliskan Hanya Kebenaran Anda Tanpa Memedulikan Penilaian Orang Lain
+
+Untuk menikmati 100% efek pembersihan emosi dari jurnal refleksi, Anda sama sekali tidak boleh memedulikan pandangan orang lain. Jika Anda mulai memperhalus atau menyensor kalimat karena khawatir 'bagaimana jika ada yang membaca jurnalku', mekanisme objektifikasi yang menenangkan amigdala tidak akan bekerja. Sebagaimana Laksamana Yi Sun-sin mengekspresikan rasa takut, kemarahan, dan kecemasannya tanpa filter lewat ujung kuasnya, tekanan kognitif baru akan terangkat jika Anda benar-benar jujur pada diri sendiri di ruang catatan paling pribadi yang hanya diperuntukkan bagi Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa yang harus dilakukan jika tidak ada bahan tulisan harian atau kekurangan waktu?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Untuk menikmati 100% efek pembersihan emosi dari jurnal refleksi, Anda sama seka
       Tidak perlu menulis panjang lebar; tiga baris saja sudah cukup. Dengan merangkum 'satu hal yang paling membuatku lelah hari ini', 'emosiku saat itu', dan 'satu hal yang bisa kuperbaiki besok', mekanisme objektifikasi emosi di otak tetap bekerja secara efektif.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah mengetik di aplikasi jurnal smartphone memiliki efek yang sama?</span>

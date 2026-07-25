@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Overcoming Asthma Limits Through Weightlifting: Theodore Roosevelt's Intense Morning Physical Training"
 description: "As a great American president carved into Mount Rushmore, he maintained a hyper-focused reading routine wherein his brain fully awakened right after intense physical exertion."
 pubDate: "2026-07-06"
@@ -34,22 +35,20 @@ In this post, we explore the cognitive science principles behind his habit of 'i
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding theodore-roosevelt is based on <strong>Historical biographies and autobiographical records of Theodore Roosevelt & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Theodore Roosevelt & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscientific Principles Driving His Success
+## 1. Neuroscientific Principles Driving His Success
 
 Short bursts of intense morning exercise overcoming resistance rapidly expand oxygen saturation and blood flow to the cerebral cortex and prefrontal cortex. This stimulus maximizes the secretion of Brain-Derived Neurotrophic Factor (BDNF), which drives neuronal network formation, supports hippocampal cognitive neurogenesis, and clears fatigue-inducing cortisol to awaken peak decision-making capability.
 
 ---
 
-## Behavioral Science Advice for Successful Implementation
-
-Do not drain your physical stamina and willpower battery with excessively long training before even starting your workday. A light, intense 3-minute micro-exercise is more than sufficient to stimulate brain alertness.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Do not drain your physical stamina and willpower battery with excessively long t
   </p>
 </div>
 
+---
+
+## 3. Behavioral Science Advice for Successful Implementation
+
+Do not drain your physical stamina and willpower battery with excessively long training before even starting your workday. A light, intense 3-minute micro-exercise is more than sufficient to stimulate brain alertness.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>I feel sleepy after finishing intense morning training.</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Do not drain your physical stamina and willpower battery with excessively long t
       That occurs when overexertion causes fatigue-accumulating substances to surge. You must strictly limit the exercise to a 3-minute timer as soon as you reach the breathlessness threshold so that only refreshing, awakening dopamine charges your brain.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How should beginners with significantly low physical fitness get started?</span>

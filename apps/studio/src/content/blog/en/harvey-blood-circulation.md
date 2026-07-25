@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "William Harvey's Quantitative Circulation Verification: Breaking Blind Dogma with Objective Numerical Calculation"
 description: "Explore how 17th-century physician William Harvey shattered 2,000 years of dogma by mathematically calculating cardiac output. Discover the historical truth and cognitive neuroscience of numerical verification and parietal lobe activation."
 pubDate: "2026-03-14"
@@ -38,22 +39,20 @@ In today's post, we dissect the cognitive neuroscience behind William Harvey's q
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding harvey-blood-circulation is based on <strong>Historical Verification from William Harvey's *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from William Harvey's *Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mathematical Quantification and Left Parietal Lobe Logic Control Mechanisms
+## 1. Mathematical Quantification and Left Parietal Lobe Logic Control Mechanisms
 
 Engaging in precise numerical tracking rather than relying on vague intuition strongly stimulates causal computational networks across the <strong>Left Parietal Lobe</strong> and the <strong>Prefrontal Cortex</strong>. This process of <strong>Mathematical Quantification</strong> systematically strips away confirmation bias and ancient entrenched illusions. By downregulating hyper-arousal in the amygdala caused by subjective guessing, quantitative tracking engages top-down prefrontal executive function, establishing rigorous logical clarity.
 
 ---
 
-## Caution: Protocol for Replacing Vague Conventions with Quantitative Metrics
-
-Never accept operational habits uncritically simply because of long-standing tradition or authority. The brain can identify systemic flaws and false assumptions only when vague, qualitative descriptions are converted into clear, measurable numerical units with well-defined inputs and outputs.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Never accept operational habits uncritically simply because of long-standing tra
   </p>
 </div>
 
+---
+
+## 3. Caution: Protocol for Replacing Vague Conventions with Quantitative Metrics
+
+Never accept operational habits uncritically simply because of long-standing tradition or authority. The brain can identify systemic flaws and false assumptions only when vague, qualitative descriptions are converted into clear, measurable numerical units with well-defined inputs and outputs.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How can I apply this quantitative method to business indicators or planning decisions?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Never accept operational habits uncritically simply because of long-standing tra
       Replace vague assertions like 'users love this feature' with closed, measurable circulation metrics—such as user acquisition volume, average session duration, and churn rate.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What if quantitative metrics contradict my personal intuition or prior knowledge?</span>

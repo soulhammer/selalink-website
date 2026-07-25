@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Genie, das Manuskriptpapier nach Genre farblich abstimmte: Alexandre Dumas' Farb-Reset-Routine und visuelles Priming"
 description: "Erkunden Sie, wie Alexandre Dumas, Autor von 'Der Graf von Monte Christo', verschiedenfarbiges Papier für jedes Genre nutzte. Entdecken Sie die kognitiven Neurowissenschaften zu Farb-Priming und Wechselkosten."
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Alexandre Dumas
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu dumas-color-switching basiert auf <strong>Historische Überprüfung aus Alexandre Dumas' Autobiografie *Meine Memoiren (Mes Mémoires)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Alexandre Dumas' Autobiografie *Meine Memoiren (Mes Mémoires)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kompensation von Aufgabenwechselkosten durch den 'Farb-Priming-Effekt'
+## 1. Kompensation von Aufgabenwechselkosten durch den 'Farb-Priming-Effekt'
 
 Beim schnellen Wechsel zwischen verschiedenen kognitiven Aufgaben entstehen dem Gehirn 'Aufgabenwechselkosten'. Diese Verzögerung entsteht, weil 'kognitive Rückstände' der vorherigen Aufgabe das Arbeitsgedächtnis im Präfrontalkortex belegen und die Effizienz verringern. Alexandre Dumas' Farbkodierung ist ein Beispiel für 'visuelles Farb-Priming'. Sobald der visuelle Kortex eine Farbe erkennt, die mit einem bestimmten Bereich verknüpft ist (z. B. blaues Papier für Romane), signalisiert er dem Präfrontalkortex, kognitive Rückstände zu löschen.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Einrichten klarer visueller Grenzen & Kategorieneinfachheit
-
-Für Dumas war farbiges Papier keine Dekoration, sondern ein Signal, das geistige Grenzen absteckte, um Wechselkosten abzubauen. Überfordern Sie das System nicht mit zu vielen Farben: Mehr als 3 Farbmuster erschweren das assoziative Lernen im Gehirn. Beschränken Sie Ihre Aufgabenbereiche auf maximal 3 Kategorien und behalten Sie die Farbzuordnungen bei.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Für Dumas war farbiges Papier keine Dekoration, sondern ein Signal, das geistig
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Einrichten klarer visueller Grenzen & Kategorieneinfachheit
+
+Für Dumas war farbiges Papier keine Dekoration, sondern ein Signal, das geistige Grenzen absteckte, um Wechselkosten abzubauen. Überfordern Sie das System nicht mit zu vielen Farben: Mehr als 3 Farbmuster erschweren das assoziative Lernen im Gehirn. Beschränken Sie Ihre Aufgabenbereiche auf maximal 3 Kategorien und behalten Sie die Farbzuordnungen bei.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bietet digitale Farbkodierung (z. B. Notion-Themes, Tablet-Apps) denselben Priming-Effekt wie analoges Papier?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Für Dumas war farbiges Papier keine Dekoration, sondern ein Signal, das geistig
       Ja, absolut. Der Grundmechanismus basiert auf der Verknüpfung von Farbreizen mit bestimmten Denkmustern. Das Einstellen unterschiedlicher Hintergrundfarben in Notiz-Apps, Ordnerfarben in Notion oder Browser-Themes liefert dem Präfrontalkortex dieselben Priming-Signale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Führt das Erstellen zu vieler Farbvarianten zu kognitiver Überlastung oder Verwirrung?</span>

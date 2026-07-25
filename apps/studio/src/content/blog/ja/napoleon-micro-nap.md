@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ナポレオン・ボナパルトのマイクロ仮眠ルーティン"
 description: "激務の合間に15分間の仮眠で脳のエナジーを迅速にリセットしたナポレオン皇帝の科学的仮眠メカニズムを紹介します。"
 pubDate: "2026-06-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「napoleon-micro-nap」は <strong>ナポレオンのマイクロ仮眠に関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ナポレオンのマイクロ仮眠に関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## マイクロ仮眠と脳波最適化による認知回復
+## 1. マイクロ仮眠と脳波最適化による認知回復
 
 10〜15分のマイクロ仮眠は睡眠状態をNREM 1〜2段階に制限し、重い睡眠慣性を防ぎアデノシンを除去して注意力を即座に回復させます。神経科学的研究によると、この行動は扁桃体の不要な不安反応を抑制し、視空間スケッチパッド回路を活性化して長期的な実行機能を飛躍的に向上させます。
 
 ---
 
-## 健康的な仮眠習慣のための時間的注意事項
-
-20〜30分以上の睡眠は深い睡眠に入ってしまい、目覚めたときに重い疲労感を引き起こします。タイマーを厳格に守り、午後4時以降の仮眠は避けてください。無理に意志の力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     アラームが鳴ったら即座に起き上がり、明るい光を浴びて冷たい水で顔を洗うことで自律神経を覚醒させます。
   </p>
 </div>
+
+---
+
+## 3. 健康的な仮眠習慣のための時間的注意事項
+
+20〜30分以上の睡眠は深い睡眠に入ってしまい、目覚めたときに重い疲労感を引き起こします。タイマーを厳格に守り、午後4時以降の仮眠は避けてください。無理に意志の力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

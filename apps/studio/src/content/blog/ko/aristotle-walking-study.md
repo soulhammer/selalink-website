@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "몰입의 극치: 아르키메데스의 모래 기하학 스케치 습관"
 description: "복잡한 과학적 영감을 시각화하기 위해 모래나 바닥에 끊임없이 도형을 그렸던 아르키메데스. 손을 사용하는 시각 스케치가 어떻게 작동 기억의 인지 과부하를 줄이고 초몰입 상태를 유도하는지 연구합니다."
 pubDate: "2026-03-25"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>플루타르코스 『영웅전(Life of Marcellus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 aristotle-walking-study 루틴을 다룹니다.
+      본 콘텐츠는 <strong>플루타르코스 『영웅전(Life of Marcellus)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 작동 기억 과부하 차단과 이중 코딩 인지 효과
+## 1. 작동 기억 과부하 차단과 이중 코딩 인지 효과
 
 인간의 작동 기억은 한 번에 처리할 수 있는 정보량이 엄격히 제한되어 있습니다. 추상적인 수학 공식이나 물리 법칙을 오직 머릿속으로만 계산하려 하면 뇌는 급격히 피로해지고 몰입이 깨집니다. 이때 손을 움직여 주변에 선을 그리는 스케치 행위는 뇌의 인지적 부담을 외부 환경으로 전가하는 '분산 인지(Distributed Cognition)'를 유발합니다. 또한 시각적 이미지와 촉각적 움직임이 함께 활성화되는 이중 코딩 효과를 통해 공간 기억 세포를 자극하고 정보의 정교한 처리를 촉진시킵니다.
 
 ---
 
-## 주의사항 및 팁
-
-기하학 스케치 습관을 적용할 때 주의해야 할 점은 완벽하고 예쁜 스케치를 그리려는 완벽주의에 빠지는 것입니다. 선의 형태나 정밀도에 지나치게 신경을 쓰면 뇌의 인지 리소스가 그림 솜씨 자체에 낭비되는 주객전도 현상이 발생합니다. 따라서 기하학 스케치는 정보의 정돈과 뇌의 집중을 돕는 가이드용으로만 사용해야 하며, 지저분하고 완성되지 않은 낙서 수준으로 가볍게 그려나가는 것이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     도형들 사이에 화살표나 선을 이으며 원인과 결과, 분류, 상호작용 등의 관계를 시각적으로 확장하며 5분 동안 사색을 전개합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+기하학 스케치 습관을 적용할 때 주의해야 할 점은 완벽하고 예쁜 스케치를 그리려는 완벽주의에 빠지는 것입니다. 선의 형태나 정밀도에 지나치게 신경을 쓰면 뇌의 인지 리소스가 그림 솜씨 자체에 낭비되는 주객전도 현상이 발생합니다. 따라서 기하학 스케치는 정보의 정돈과 뇌의 집중을 돕는 가이드용으로만 사용해야 하며, 지저분하고 완성되지 않은 낙서 수준으로 가볍게 그려나가는 것이 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

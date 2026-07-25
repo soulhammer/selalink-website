@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Teoría General Escrita Bajo las Cobijas: El Hábito de Trabajo Matutino en Cama de John Maynard Keynes y la Activación CAR"
 description: "Descubra cómo el macroeconomista John Maynard Keynes, que superó la Gran Depresión, escribió manuscritos en la cama durante dos horas al despertar. Explore la neurociencia de la Respuesta de Despertar del Cortisol (CAR) y una rutina matutina de 3 pasos."
 pubDate: "2026-02-08"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre keynes-morning-bed-work se basa en <strong>Verificación Histórica de la Biografía *John Maynard Keynes* de Robert Skidelsky, Archivos de Keynes e Investigación en Neurociencia Cognitiva y Ciencia Neuromuscular</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía *John Maynard Keynes* de Robert Skidelsky, Archivos de Keynes e Investigación en Neurociencia Cognitiva y Ciencia Neuromuscular</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Respuesta de Despertar del Cortisol (CAR) y la Hora Dorada de los Recursos Prefrontales
+## 1. Respuesta de Despertar del Cortisol (CAR) y la Hora Dorada de los Recursos Prefrontales
 
 Durante los primeros 30 a 45 minutos tras despertar, el cuerpo experimenta la <strong>Respuesta de Despertar del Cortisol (Cortisol Awakening Response, CAR)</strong>, aumentando de forma natural el cortisol para energizar el cerebro. Este periodo representa una hora dorada cognitiva donde la <strong>Corteza Prefrontal</strong> está libre de fatiga de decisión, alcanzando un pico de lógica y creatividad. Trabajar en una tarea prioritaria en la cama canaliza el 100% de la capacidad ejecutiva sin pérdidas de energía.
 
 ---
 
-## Precaución: Eleve el Torso para Evitar la Inercia del Sueño y Mantener la Alerta
-
-El mayor riesgo al trabajar en la cama es volver a dormirse debido a la <strong>Inercia del Sueño (Sleep Inertia)</strong>. Acostarse en posición horizontal o bajar la cabeza hace que las ondas cerebrales regresen a las <strong>Ondas Theta</strong>, provocando somnolencia. Apoye su espalda y cabeza a 45 grados o más con almohadas para enviar una señal de alerta clara al cerebro y limite la sesión a 20 o 30 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El mayor riesgo al trabajar en la cama es volver a dormirse debido a la <strong>
   </p>
 </div>
 
+---
+
+## 3. Precaución: Eleve el Torso para Evitar la Inercia del Sueño y Mantener la Alerta
+
+El mayor riesgo al trabajar en la cama es volver a dormirse debido a la <strong>Inercia del Sueño (Sleep Inertia)</strong>. Acostarse en posición horizontal o bajar la cabeza hace que las ondas cerebrales regresen a las <strong>Ondas Theta</strong>, provocando somnolencia. Apoye su espalda y cabeza a 45 grados o más con almohadas para enviar una señal de alerta clara al cerebro y limite la sesión a 20 o 30 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Trabajar en la cama perjudica la postura espinal, el cuello o la salud articular?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El mayor riesgo al trabajar en la cama es volver a dormirse debido a la <strong>
       Estar acostado en posición horizontal inclinando el cuello genera una tensión cervical severa. Para proteger su columna, apoye su torso a 45 grados o más con cojines firmes y limite la sesión estrictamente a 20 o 30 minutos para equilibrar la salud con la productividad.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo revisar el correo o mensajes durante solo 5 minutos justo al despertar?</span>

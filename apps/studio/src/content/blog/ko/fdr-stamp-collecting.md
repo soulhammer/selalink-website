@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "프랭클린 D. 루스벨트의 '우표 분류': 격무 속 뇌를 구한 인지적 이완 루틴과 아날로그 숙면법"
 description: "전쟁과 경제 위기의 스트레스 속에서도 매일 밤 우표 분류로 뇌의 긴장을 풀었던 루스벨트 대통령. 숙면과 스트레스 해소를 돕는 인지적 이완의 원리와 뇌과학적 메커니즘을 알아봅니다."
 pubDate: "2026-07-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>프랭클린 D. 루스벨트 평전 및 FDR 대통령 도서관(FDR Presidential Library) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 fdr-stamp-collecting 루틴을 다룹니다.
+      본 콘텐츠는 <strong>프랭클린 D. 루스벨트 평전 및 FDR 대통령 도서관(FDR Presidential Library) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 과열된 작업 기억을 식히는 인지적 이완과 부교감신경 활성화
+## 1. 과열된 작업 기억을 식히는 인지적 이완과 부교감신경 활성화
 
 중요한 비즈니스 의사결정이나 스트레스가 높은 업무를 수행할 때, 뇌의 전전두엽 피질은 쉴 새 없이 회전하며 막대한 에너지를 소모합니다. 업무가 끝난 후에도 이 긴장이 풀리지 않고 인지적 잔류가 뇌에 남아 있으면 수면 장애를 유발하고 장기적으로 뇌신경 세포를 손상시킵니다. 루스벨트의 우표 분류처럼 업무와 무관한 정밀한 시각-촉각적 취미를 즐기는 것은 뇌에 '안전 신호'를 보내 전두엽의 전반적인 각성 수준을 부드럽게 가라앉힙니다. 뇌과학 연구에 따르면, 이러한 인지적 이완(Cognitive Shifting)은 숙면을 유도하는 멜라토닌과 신체 복구를 돕는 성장 호르몬 방출을 촉진합니다. 즉, 의도적인 아날로그 쉼표를 통해 과열된 뇌를 식혀주는 필수적인 냉각 시스템 역할을 하는 것입니다.
 
 ---
 
-## 취침 전 디지털 화면을 끄고 아날로그 활동에 초점을 맞추세요
-
-많은 이들이 침대에 누워 스마트폰으로 영상을 보며 쉰다고 착각하지만, 디지털 화면의 블루라이트와 끊임없는 자극 정보는 뇌를 계속해서 각성 상태로 만듭니다. 수면 호르몬인 멜라토닌이 원활히 분비되게 하려면, 취침 전 반드시 아날로그 도구나 손끝 감각을 사용하는 활동에 초점을 맞추는 시간을 가져야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 취침 전 디지털 화면을 끄고 아날로그 활동에 초점을 맞추세요
+
+많은 이들이 침대에 누워 스마트폰으로 영상을 보며 쉰다고 착각하지만, 디지털 화면의 블루라이트와 끊임없는 자극 정보는 뇌를 계속해서 각성 상태로 만듭니다. 수면 호르몬인 멜라토닌이 원활히 분비되게 하려면, 취침 전 반드시 아날로그 도구나 손끝 감각을 사용하는 활동에 초점을 맞추는 시간을 가져야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스마트폰 게임이나 영상 시청도 인지적 이완에 도움이 되나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       그렇지 않습니다. 디지털 화면의 블루라이트와 자극적인 정보 피드는 뇌를 쉬게 하는 것이 아니라 각성 상태를 유지하여 수면 호르몬인 멜라토닌 분비를 방해합니다. 인지적 이완을 위해서는 반드시 아날로그 도구나 손끝을 사용하는 소일거리를 활용해야 합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>매일 밤 30분이 너무 길게 느껴질 때는 어떻게 하나요?</span>

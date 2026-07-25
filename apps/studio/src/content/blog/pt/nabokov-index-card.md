@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Modularidade do pensamento: O método de escrita com cartões de índice de Vladimir Nabokov"
 description: "O autor Vladimir Nabokov registrou romances em fragmentos em cartões de índice e reordenou sua sequência. Explora o valor da ciência cognitiva do planejamento com cartões de índice, que bloqueia a sobrecarga cognitiva e combina ideias criativas de forma flexível."
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ No post de hoje, examinamos como o ritual de planejamento com cartões de índic
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre nabokov-index-card é baseada em <strong>Biografia crítica histórica e verificação de registros autobiográficos dos cartões de índice de Nabokov e pesquisa em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografia crítica histórica e verificação de registros autobiográficos dos cartões de índice de Nabokov e pesquisa em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismos neuronais de bloqueio da carga cognitiva e criatividade combinatória
+## 1. Mecanismos neuronais de bloqueio da carga cognitiva e criatividade combinatória
 
 Quando o cérebro percebe que deve produzir um resultado importante e de alta qualidade, a amígdala dispara um alarme inconsciente sobre um possível fracasso, provocando a procrastinação. Ao realizar primeiro uma escrita trivial e sem pressão, um feedback é enviado ao cérebro de que ele está em um 'estado seguro e sem avaliação', acalmando a hiperatividade da amígdala. Simultaneamente, a área de Broca e o córtex motor são levemente ativados, engrenando o sistema cognitivo e reduzindo drasticamente a barreira de resistência ao iniciar a tarefa principal.
 
 ---
 
-## Precauções e dicas
-
-Se você se absorver demais na escrita de cartões e apenas anotar ideias aleatoriamente sem relevância, enfrentará uma enorme barreira de fragmentação ao tentar uni-las mais tarde. Portanto, cada cartão deve registrar apenas um único pensamento ou episódio completo, e você deve relembrar periodicamente a arquitetura geral (por exemplo, um esboço geral) para classificar os cartões em categorias aproximadas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ Se você se absorver demais na escrita de cartões e apenas anotar ideias aleato
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Se você se absorver demais na escrita de cartões e apenas anotar ideias aleatoriamente sem relevância, enfrentará uma enorme barreira de fragmentação ao tentar uni-las mais tarde. Portanto, cada cartão deve registrar apenas um único pensamento ou episódio completo, e você deve relembrar periodicamente a arquitetura geral (por exemplo, um esboço geral) para classificar os cartões em categorias aproximadas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

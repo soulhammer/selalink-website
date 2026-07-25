@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Trancado na Escrita? Mude a Máquina de Escrever! A Rotina de Alternância Multitarefa de Isaac Asimov"
 description: "A rotina de alternância multitarefa do mestre da ficção científica Isaac Asimov, autor de mais de 500 livros. Descubra o segredo de 3 passos para superar a fadiga do foco único e obter o efeito de novidade."
 pubDate: "2026-05-26"
@@ -33,17 +34,17 @@ No artigo de hoje, apresentamos os princípios da ciência cognitiva ocultos na 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre asimov-project-switching é baseada em <strong>Verificação Histórica da Autobiografia de Isaac Asimov *I, Asimov: A Memoir* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Isaac Asimov *I, Asimov: A Memoir* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mudança de Contexto e Efeito de Novidade: Recuperação da Fadiga por Região Cerebral
+## 1. Mudança de Contexto e Efeito de Novidade: Recuperação da Fadiga por Região Cerebral
 
 De acordo com pesquisas em psicologia cognitiva e memória de trabalho, prender-se a uma única tarefa por muito tempo faz com que o cérebro hiperative apenas redes neurais específicas, induzindo a estagnação cognitiva. Quando você força o cérebro durante o bloqueio de escrita (Writer's Block) resultante, o cortisol é secretado, reduzindo drasticamente a eficiência cognitiva.
 
@@ -51,9 +52,7 @@ Nesse momento, se você mudar de contexto (Context Switching) para uma tarefa de
 
 ---
 
-## Conselho Neurocientífico para uma Mudança de Foco Eficiente
-
-Quando estiver travado em uma tarefa, insistir incondicionalmente até o fim não é a única virtude. Os neurônios do cérebro também precisam de trabalho em turnos em diferentes regiões. Supere com flexibilidade os períodos de estagnação no trabalho por meio de uma mudança inteligente de contexto entre a redação de e-mails simples ou a criação de uma proposta totalmente diferente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ Quando estiver travado em uma tarefa, insistir incondicionalmente até o fim nã
   </p>
 </div>
 
+---
+
+## 3. Conselho Neurocientífico para uma Mudança de Foco Eficiente
+
+Quando estiver travado em uma tarefa, insistir incondicionalmente até o fim não é a única virtude. Os neurônios do cérebro também precisam de trabalho em turnos em diferentes regiões. Supere com flexibilidade os períodos de estagnação no trabalho por meio de uma mudança inteligente de contexto entre a redação de e-mails simples ou a criação de uma proposta totalmente diferente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

@@ -1,192 +1,282 @@
 {
   "mendeleev-chemical-solitaire": {
-    "title": {
-      "ko": "원소의 카드 놀이: 멘델레예프의 화학적 솔리테어",
-      "en": "The Element Solitaire: Mendeleev's Chemical Card Sorting Routine",
-      "ja": "元素のトランプ遊び：メンデレーエフの化学的ソリティア",
-      "zh": "元素的牌局：门捷列夫的化学纸牌排序日常",
-      "es": "El solitario de los elementos: La rutina de ordenación de cartas químicas de Mendeléyev",
-      "de": "Das Elementen-Solitaire: Mendelejews chemische Kartensortier-Routine",
-      "fr": "Le solitaire des éléments : La routine de tri de cartes chimiques de Mendeleïev",
-      "pt": "O paciência dos elementos: A rotina de ordenação de cartas químicas de Mendeleiev",
-      "id": "Solitaire Unsur Kimia: Rutinitas Sortir Kartu Kimia Mendeleev"
-    },
-    "description": {
-      "ko": "원소 성질을 적은 카드를 솔리테어 카드 놀이처럼 배치해 주기율표를 완성한 드미트리 멘델레예프. 텍스트를 물리적 공간에 늘어놓는 행동이 복잡한 패턴을 발견하는 뇌의 능력을 깨우는 원리를 규명합니다.",
-      "en": "Dmitri Mendeleev completed the Periodic Table by arranging cards inscribed with elemental properties like a game of solitaire. Discover how physical spatial manipulation activates the brain's pattern recognition pathways.",
-      "ja": "元素の性質を記したカードをソリティアのように配置して周期表を完成させたドミトリ・メンデレーエフ。テキストを物理的空間に並べる行動が、複雑なパターンを発見する脳の能力を覚醒させる原理を解説します。",
-      "zh": "德米特里·门捷列夫通过将写有元素性质的卡片像打纸牌接龙一样进行摆放，最终完成了元素周期表。揭示将文本置于物理空间中如何激活大脑识别复杂模式能力的科学原理。",
-      "es": "Dmitri Mendeléyev completó la Tabla Periódica ordenando cartas con propiedades químicas como un juego de solitario. Descubra cómo la manipulación espacial física activa las vías cerebrales de reconocimiento de patrones.",
-      "de": "Dmitri Mendelejew vollendete das Periodensystem, indem er Karten mit Elementeigenschaften wie beim Solitaire-Spiel anordnete. Erfahren Sie, wie räumliches Sortieren Mustererkennungsmuster im Gehirn aktiviert.",
-      "fr": "Dmitri Mendeleïev a conçu le Tableau périodique en organisant des cartes portant les propriétés des éléments comme une partie de solitaire. Découvrez comment la manipulation spatiale stimule les réseaux cérébraux du cerveau.",
-      "pt": "Dmitri Mendeleiev completou a Tabela Periódica organizando cartas com propriedades químicas como um jogo de paciência. Descubra como a manipulação espacial física ativa o reconhecimento de padrões no cérebro.",
-      "id": "Dmitri Mendeleev menyelesaikan Tabel Periodik dengan menyusun kartu berisi sifat-sifat unsur seperti permainan solitaire. Pelajari bagaimana manipulasi spasial fisik mengaktifkan kemampuan otak mengenali pola."
-    },
-    "authority": {
-      "ko": "멘델레예프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Mendeleev Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies",
-      "ja": "メンデレーエフ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "门捷列夫历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Investigación de biografías históricas y registros autobiográficos de Mendeléyev y estudios de neurociencia cognitiva",
-      "de": "Historische Biografien & Aufzeichnungen zu Mendelejew & Kognitive Neurowissenschaften",
-      "fr": "Études des biographies historiques et récits autobiographiques de Mendeleïev & recherche en neurosciences cognitives",
-      "pt": "Pesquisa de biografias históricas e registros autobiográficos de Mendeleiev & estudos de neurociência cognitiva",
-      "id": "Riset Biografi Historis dan Catatan Autobiografi Mendeleev & Studi Neurosains Kognitif"
-    },
-    "intro": {
-      "ko": "\"원소들은 저마다의 짝이 있다. 카드 더미의 순서를 이리저리 맞추다 보면 대자연이 정해둔 완벽한 질서가 모습을 드러낸다.\" 🃏\n\n현대 화학의 가장 아름다운 이정표이자 모든 원소의 지도인 주기율표. 이 위대한 발견을 완성해 낸 러시아의 천재 과학자 드미트리 멘델레예프(Dmitri Mendeleev, 1834–1907). 그가 원소들의 감춰진 주기를 알아내기 위해 사용했던 도구는 뜻밖에도 손으로 직접 오려 만든 63개의 원소 카드 더미였습니다. 그는 원자량과 화학적 성질을 적은 카드를 주머니에 항상 소지하며 기차 안이나 책상 위에서 마치 솔리테어 카드 놀이를 하듯 반복하여 펼치고 배열을 조절했습니다. 뇌과학적으로 무수한 정보들을 물리적 카드로 바꾸어 만지는 행위가 어떤 인지적 혁신을 불러일으켰는지 분석합니다.\n\n대다수 사람이 복잡한 문제를 만날 때 종이에 긴 글을 적어내려 가거나 컴퓨터 모니터의 화면을 보며 깊은 생각에 빠지곤 합니다. 그러나 평면적인 활자 배열은 뇌의 시각령에 단편적인 데이터로만 인식되어 시각적 결합을 방해합니다. 반면 멘델레예프는 정보를 낱개의 실체적인 객체(카드)로 나눈 뒤, 3차원 탁자 위에서 손가락으로 움직여가며 서로 매칭했습니다. 이 촉각을 동반한 물리적 공간 정렬 행동은 뇌의 해마 위치 수용체와 우뇌의 구조적 패턴 분석 시스템을 적극 가동시켰습니다.\n\n오늘 포스트에서는 멘델레예프의 카드 배치 기법의 생리학적 효용을 파헤치고, 일상이나 업무 속에서 마주하는 복잡한 지적 난제들을 손끝과 시각 공간을 조합해 명쾌하게 풀어내는 3단계 실천 방안을 제시합니다.",
-      "en": "\"Elements have their own natural pairs. When you shuffle and arrange the deck of cards, the perfect order decreed by Nature reveals itself.\" 🃏\n\nThe Periodic Table stands as the map of matter and the crowning milestone of chemistry. Russian genius scientist Dmitri Mendeleev (1834–1907) completed this monumental breakthrough using an unexpected tool: a custom deck of 63 handmade cards representing the known chemical elements. On each card, he jotted down atomic weights and chemical properties. Carrying this deck in his coat pocket, Mendeleev laid them out on train tables and desks, endlessly rearranging them like a game of solitaire ('patience').\n\nWhile most people struggle with complex problems by reading linear documents on screens or paper, flat text arrays limit holistic spatial synthesis. Mendeleev chunked complex information into discrete physical objects (cards) and physically manipulated them across a 3D surface. Tactile feedback paired with spatial rearrangement actively stimulated hippocampal spatial receptors and right-hemisphere pattern-matching networks, allowing him to perceive hidden periodicity across elements.\n\nIn this article, we dissect the neuroscientific utility of Mendeleev's card solitaire routine and provide a 3-step practical framework to organize complex ideas using tactile spatial mapping.",
-      "ja": "「元素にはそれぞれペアがある。カードの束の順序をあれこれ合わせていると、大自然が定めた完璧な秩序が姿を現す。」 🃏\n\n現代化学の最も美しい道標であり、すべての元素の地図である周期表。この偉大な発見を完成させたロシアの天才科学者ドミトリ・メンデレーエフ（1834〜1907）。彼が元素の隠された周期性を突き止めるために使用した道具は、意外にも手で切り取って作った63枚の元素カードの束でした。彼は原子量と化学的性質を記したカードを常にポケットに忍ばせ、列車の中やデスクの上でまるでトランプのソリティア（一人遊び）をするかのように繰り返し広げては配列を調整しました。\n\n多くの人が複雑な問題に直面した際、紙に長い文章を書いたりコンピューターの画面を見つめたりして熟考にふけります。しかし、平面的な文字の配列は脳の視覚野に断片的なデータとしてしか認識されず、視覚的統合を妨げます。一方、メンデレーエフは情報を個別の実体的なオブジェクト（カード）に分けた後、3次元のテーブル上で指を使って動かしながらマッチングさせました。この触覚を伴う物理的空間整列行動は、脳の海馬位置受容体と右脳の構造的パターン分析システムを積極的に稼働させました。\n\n本記事では、メンデレーエフのカード配置技法の生理学的効用を解明し、日常や業務で直面する複雑な知的難題を指先と視覚空間を組み合わせて明快に解決する3段階の実践案を提示します。",
-      "zh": "“每一个元素都有其内在的配对。当你反复揉捏调整纸牌的顺序时，大自然预设的完美秩序便会显现。” 🃏\n\n元素周期表是现代化学最伟大的里程碑，也是物质世界的全景地图。完成这一伟大发现的俄国天才科学家德米特里·门捷列夫（Dmitri Mendeleev，1834–1907），其揭开元素隐藏周期的秘密工具竟然是一副由他亲手剪裁的63张元素纸牌。他在每张纸牌上写下元素符号、原子量与化学性质，随身装在衣口袋里。无论是在火车餐桌上还是办公桌前，他都像打接龙纸牌（Solitaire）一样，一次次地将其铺开并调整排列顺序。\n\n大多数人在面对复杂难题时，习惯于在纸上书写长篇大论或死盯电脑屏幕。然而，平面的文字排列在视觉皮层中仅被识别为孤立的数据碎片，阻碍了整体关联。而门捷列夫将复杂信息切割为具象的实体单元（纸牌），并在三维桌面上通过手指拨动进行排列。这种带有触觉反馈的物理空间重组，极大地激活了海马体的位置受容体与右脑的结构模式匹配系统，促成了划时代的科学突破。\n\n本文将剖析门捷列夫纸牌接龙习惯的神经生理学价值，并提供一种结合触觉与时空空间的3步实操法，助您高效理清各类复杂思维与业务难题。",
-      "es": "«Los elementos tienen sus propias parejas naturales. Al barajar y colocar el mazo de cartas, el orden perfecto decretado por la Naturaleza sale a la luz.» 🃏\n\nLa Tabla Periódica es el mapa de la materia y el mayor logro de la química. El genio ruso Dmitri Mendeléyev (1834-1907) completó este avance usando un mazo de 63 cartas recortadas a mano con los elementos conocidos. En cada carta anotó pesos atómicos y propiedades químicas. Llevando este mazo en el bolsillo, Mendeléyev las desplegaba en mesas de trenes y escritorios, reorganizándolas constantemente como un juego de solitario.\n\nMientras la mayoría de las personas lucha con problemas complejos leyendo textos lineales en pantallas, la disposición plana dificulta la síntesis holística. Mendeléyev fragmentó la información en objetos físicos independientes (cartas) y los manipuló en una superficie tridimensional. La retroalimentación táctil combinada con la reorganización espacial estimuló los receptores espaciales del hipocampo y la red de reconocimiento de patrones del hemisferio derecho.\n\nEn esta publicación, analizamos la utilidad neurocientífica de la rutina de solitario de Mendeléyev y ofrecemos un marco práctico de 3 pasos para organizar ideas complejas mediante mapas espaciales táctiles.",
-      "de": "„Elemente besitzen ihre eigenen natürlichen Paare. Wenn man den Kartenstapel mischt und anordnet, offenbart sich die vollkommene Ordnung der Natur.“ 🃏\n\nDas Periodensystem ist die Landkarte der Materie und ein Meilenstein der Chemie. Der russische Wissenschaftler Dmitri Mendelejew (1834–1907) vollendete diesen Durchbruch mit einem selbst hergestellten Stapel aus 63 Elementkarten. Auf jede Karte schrieb er Atomgewichte und chemische Eigenschaften. Er trug diesen Stapel in der Tasche und breitete die Karten in Zügen oder am Schreibtisch aus, um sie wie beim Solitaire-Spiel neu anzuordnen.\n\nWährend viele Menschen sich mit verstrickten Problemen abmühen, indem sie Texte auf Bildschirmen lesen, hemmt die flache Textanordnung die kognitive Verknüpfung. Mendelejew zerlegte die Informationen in physische Objekte (Karten) und verschob sie auf einer 3D-Fläche. Diese haptische Rückmeldung in Kombination mit räumlicher Sortierung aktivierte die Ortszellen im Hippocampus und die Mustererkennungsnetzwerke der rechten Gehirnhälfte.\n\nIn diesem Beitrag analysieren wir den neurowissenschaftlichen Nutzen von Mendelejews Karten-Routine und stellen ein 3-Stufen-Modell zur räumlichen Strukturierung komplexer Denksportaufgaben vor.",
-      "fr": "« Les éléments possèdent leurs propres associations naturelles. En organisant le jeu de cartes, l'ordre parfait décrété par la Nature finit par se révéler. » 🃏\n\nLe Tableau périodique est la carte de la matière et la clé de la chimie moderne. Le scientifique de génie russe Dmitri Mendeleïev (1834-1907) est parvenu à cette découverte grâce à un outil insolite : un jeu de 63 cartes façonnées à la main représentant les éléments chimiques. Sur chaque carte, il nota les masses atomiques et les propriétés chimiques. Gardant ce jeu dans sa poche, Mendeleïev les étalait sur les tables des trains ou sur son bureau, les manipulant comme une partie de solitaire.\n\nAlors que la plupart des gens tentent de résoudre des problèmes complexes en lisant des documents linéaires sur écran, cette disposition en 2D freine la synthèse spatiale. Mendeleïev a découpé les informations en objets physiques distincts (cartes) et les a déplacés sur une surface en 3D. Le retour tactile associé au tri spatial a stimulé les récepteurs hippocampiques du cerveau et la reconnaissance de motifs dans l'hémisphère droit.\n\nDans cet article, nous décortiquons les bénéfices neuroscientifiques du solitaire de Mendeleïev et proposons un guide en 3 étapes pour structurer des concepts complexes grâce au tri tactile.",
-      "pt": "«Os elementos possuem seus próprios pares naturais. Ao reorganizar o baralho de cartas, a ordem perfeita decretada pela Natureza se revela.» 🃏\n\nA Tabela Periódica é o mapa da matéria e o grande marco da química. O cientista gênio russo Dmitri Mendeleiev (1834–1907) alcançou essa descoberta usando um baralho feito à mão com 63 cartas dos elementos conhecidos. Em cada carta, anotou pesos atômicos e propriedades químicas. Carregando o baralho no bolso, Mendeleiev as distribuía em mesas de trem e escrivaninhas, organizando-as como num jogo de paciência.\n\nEnquanto a maioria das pessoas tenta resolver problemas difíceis lendo textos lineares em telas, arranjos planos limitam a síntese holística. Mendeleiev fracionou informações em objetos físicos (cartas) e os manipulou em uma superfície tridimensional. A resposta tátil combinada à reorganização espacial estimulou os receptores do hipocampo e as redes de reconhecimento de padrões do hemisfério direito.\n\nNeste artigo, analisamos a utilidade neurocientífica da rotina de paciência de Mendeleiev e apresentamos um método prático de 3 etapas para estruturar ideias complexas via mapeamento tátil.",
-      "id": "\"Setiap unsur memiliki pasangannya sendiri. Saat Anda mengocok dan menyusun tumpukan kartu, tatanan sempurna dari Alam akan menampakkan diri.\" 🃏\n\nTabel Periodik berdiri sebagai peta materi dan pencapaian puncak ilmu kimia. Ilmuwan jenius Rusia Dmitri Mendeleev (1834–1907) menyelesaikan terobosan monumental ini menggunakan alat yang tak terduga: tumpukan 63 kartu buatan tangan yang mewakili unsur-unsur kimia. Pada setiap kartu, ia mencatat bobot atom dan sifat kimia. Membawa kartu ini di saku jasnya, Mendeleev menyusunnya di meja kereta dan meja kerja, berulang kali menatanya seperti permainan kartu solitaire.\n\nSaat sebagian besar orang kesulitan memecahkan masalah rumit dengan membaca dokumen linear di layar, susunan teks datar membatasi sintesis holistik. Mendeleev membagi informasi rumit menjadi objek fisik terpisah (kartu) dan memanipulasinya di atas permukaan 3D. Umpan balik taktil yang dipadukan dengan penataan spasial merangsang reseptor spasial hipokampus dan jaringan pengenalan pola otak kanan.\n\nDalam artikel ini, kita mengupas kegunaan neurosains dari rutinitas solitaire kartu Mendeleev dan menyajikan panduan praktis 3 langkah untuk mengorganisasi ide-ide rumit menggunakan pemetaan spasial taktil."
-    },
-    "whyTitle": {
-      "ko": "정보의 공간 배치와 물리적 조작이 패턴 인지 영역을 각성시키는 이유",
-      "en": "Why Spatial Arrangement and Physical Manipulation Awaken Pattern Recognition",
-      "ja": "情報の空間配置と物理的操作がパターン認知領域を覚醒させる理由",
-      "zh": "信息的空间布局与物理操作激活模式识别区域的科学原由",
-      "es": "Por qué la disposición espacial y la manipulación física activan el reconocimiento de patrones",
-      "de": "Warum räumliche Anordnung und physische Sortierung die Mustererkennung aktivieren",
-      "fr": "Pourquoi la disposition spatiale et la manipulation physique stimulent la détection de motifs",
-      "pt": "Por que a disposição espacial e a manipulação física ativam o reconhecimento de padrões",
-      "id": "Mengapa Penataan Spasial dan Manipulasi Fisik Membangkitkan Pengenalan Pola"
-    },
-    "whyDesc": {
-      "ko": "문서나 컴퓨터 화면의 평면적인 텍스트는 뇌의 시각 처리 장치에 2차원적 정보로 인식되어 분석적 연산 장벽을 만듭니다. 반면, 정보를 개별 카드로 분리해 공간상에 이리저리 늘어놓으며 배치하는 행동은 뇌의 공간 위치 정보 영역을 활성화합니다. 뇌는 손끝의 촉각 신호와 입체적인 눈의 피드백을 통해 정보 간의 유기적 거리를 인식하며, 뇌의 전두엽과 두정엽을 가동해 텍스트 상태에서는 지나치기 쉬웠던 상호 패턴을 훨씬 더 민첩하게 연계해 냅니다.",
-      "en": "Flat text on screens or paper is processed by the brain as two-dimensional data, creating analytical calculation bottlenecks. In contrast, chunking information onto discrete cards and arranging them spatially across a desk activates the parietal lobes responsible for spatial positioning. Through tactile sensory signals from fingertips and 3D visual feedback, the brain perceives relational distances between concepts, enabling prefrontal and parietal networks to detect underlying patterns missed in linear reading.",
-      "ja": "文書やコンピューター画面の平面的なテキストは、脳の視覚処理装置に2次元的情報として認識され、分析的演算の障壁を作ります。一方、情報を個別のカードに分離して空間上に広げて配置する行動は、脳の空間位置情報領域を活性化します。脳は指先の触覚信号と立体的な目のフィードバックを通じて情報間の有機的な距離を認識し、前頭葉と頂頭葉を稼働させてテキスト状態では見落としがちだった相互パターンをはるかに敏捷に連携させます。",
-      "zh": "屏幕或纸张上的平面文本会被大脑的视觉处理系统识别为二维数据，从而形成分析性计算的屏障。相反，将信息拆分至独立的纸牌上并在桌面上进行空间重排，会激活主管空间定位的顶叶区域。大脑通过手指触觉信号与三维视觉反馈感知概念间的有机距离，联动手前额叶与顶叶神经网，以极高的敏捷度捕捉在平面文本中极易被忽略的内在规律。",
-      "es": "El texto plano en pantallas se procesa como datos bidimensionales, creando un cuello de botella analítico. En cambio, fragmentar la información en cartas y ordenarlas espacialmente activa los lóbulos parietales encargados del posicionamiento espacial. Mediante la retroalimentación táctil y visual en 3D, el cerebro percibe distancias relativas entre conceptos, permitiendo a las redes prefrontales y parietales detectar patrones ocultos.",
-      "de": "Flacher Text auf Bildschirmen wird als zweidimensionale Information verarbeitet, was kognitive Engen erzeugt. Das Aufteilen von Informationen auf physische Karten und deren räumliche Anordnung aktiviert den Parietallappen für Raumwahrnehmung. Durch haptische Reize und visuelle 3D-Rückmeldung erkennt das Gehirn organische Abstände zwischen Begriffen und deckt verborgene Zusammenhänge auf.",
-      "fr": "Le texte plat sur écran est traité comme une information en deux dimensions, ce qui crée un verrou analytique. À l'inverse, découper l'information sur des cartes distinctes et les trier dans l'espace active le lobe pariétal. Grâce au toucher et au retour visuel en 3D, le cerveau perçoit les distances relatives entre les idées, permettant d'identifier des motifs complexes invisibles à la simple lecture.",
-      "pt": "Textos planos em telas são processados como dados bidimensionais, criando gargalos analíticos. Em contrapartida, dividir informações em cartas e disprô-las espacialmente ativa os lóbulos parietais responsáveis pelo posicionamento espacial. Por meio do tato e do feedback visual em 3D, o cérebro percebe distâncias relativas entre conceitos, detectando padrões ocultos.",
-      "id": "Teks datar di layar diproses sebagai data dua dimensi yang menciptakan hambatan kalkulasi analitis. Sebaliknya, membagi informasi ke dalam kartu terpisah dan menyusunnya secara spasial di meja mengaktifkan lobus parietal yang mengatur posisi spasial. Melalui umpan balik taktil dan visual 3D, otak mengenali jarak organik antar konsep, memungkinkan jaringan prefrontal mengurai pola rumit."
-    },
-    "cautionTitle": {
-      "ko": "주의사항 및 팁",
-      "en": "Precautions and Tips",
-      "ja": "注意事項とヒント",
-      "zh": "注意事项与实用建议",
-      "es": "Precauciones y consejos",
-      "de": "Vorsichtsmaßnahmen und Tipps",
-      "fr": "Précautions et conseils",
-      "pt": "Precauções e dicas",
-      "id": "Tindakan Pencegahan dan Tips"
-    },
-    "cautionDesc": {
-      "ko": "카드로 정리할 때 너무 많은 정보의 세부 내용을 카드 한 장에 다 채워 넣으려고 하면 텍스트의 나열 형태로 돌아가 공간 조작의 장점이 상실됩니다. 카드 한 장에는 반드시 단 하나의 키워드나 명확한 핵심 지적 단서만 적어야 뇌의 스케치패드 연산 기능이 극대화됩니다. 카드의 개수 역시 한 번에 뇌가 한눈에 파악할 수 있는 범위인 10개에서 20개 내외의 범위로 가볍게 제한하여 사용하는 것이 효과적입니다.",
-      "en": "Avoid crowding excessive details onto a single card; doing so reverts the tool into a dense document, defeating the spatial manipulation benefit. Inscribe only one keyword or core concept per card to maximize the brain's visuospatial sketchpad. Limit your active working set to 10–20 cards at a time so the brain can absorb the entire matrix at a single glance.",
-      "ja": "カード整理の際、あまりに多くの詳細情報を1枚のカードに詰め込もうとすると、テキストの羅列に戻って空間操作のメリットが失われます。カード1枚には必ずたった一つのキーワードや明確なコア概念だけを記載してこそ、脳のスケッチパッド演算機能が極大化します。カードの枚数も、脳が一望して把握できる10枚から20枚前後の範囲に制限して使用するのが効果的です。",
-      "zh": "在制作纸牌时，切忌试图在一张卡片上塞入过多的细节内容，否则这会退化为密集的文档，丧失空间操作的优势。每张卡片必须仅写入一个核心关键词或明确的概念提示，方能最大化发挥大脑的“视觉空间草稿簿”功能。同时，将同时操作的纸牌数量控制在 10 至 20 张以内，以便大脑能够一眼掌控全貌。",
-      "es": "Evite recargar excesivos detalles en una sola carta; hacerlo revierte la herramienta a un texto denso, anulando el beneficio espacial. Escriba solo una palabra clave o concepto por carta para maximizar la libreta visoespacial del cerebro. Limite su conjunto de trabajo a 10-20 cartas a la vez para mantener una visión global.",
-      "de": "Überladen Sie einzelne Karten nicht mit zu vielen Details; andernfalls wird die Karte zu einem dichten Text und verliert den räumlichen Vorteil. Schreiben Sie nur ein Schlüsselwort pro Karte auf, um das visuell-räumliche Arbeitsgedächtnis optimal zu nutzen. Beschränken Sie die Anzahl auf 10–20 Karten gleichzeitig.",
-      "fr": "Évitez de surcharger une seule carte de détails ; cela réduirait l'outil à un document dense, annulant le bénéfice du tri spatial. Inscrivez un seul mot-clé par carte pour maximiser la mémoire visuo-spatiale du cerveau. Limitez l'ensemble à 10 ou 20 cartes à la fois pour garder une vue d'ensemble.",
-      "pt": "Evite sobrecarregar uma única carta com detalhes excessivos; isso transforma a ferramenta em um texto denso, anulando o benefício espacial. Escreva apenas uma palavra-chave por carta para maximizar o bloco de rascunho viso-espacial do cérebro. Limite o conjunto de trabalho a 10–20 cartas por vez.",
-      "id": "Hindari menjejalkan detail berlebihan pada satu kartu; melakukan hal itu mengembalikan fungsi kartu menjadi dokumen padat dan membatalkan manfaat pemetaan spasial. Tuliskan hanya satu kata kunci atau konsep inti per kartu. Batasi jumlah kartu menjadi 10–20 kartu sekaligus agar otak dapat menyerap seluruh struktur secara sekilas."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "정보의 카드 낱개화(분절화) 작성",
-          "en": "Chunk Information into Individual Cards",
-          "ja": "情報のカード個別化（分節化）作成",
-          "zh": "信息的卡片化（分切）提炼",
-          "es": "Fragmentar la información en cartas individuales",
-          "de": "Informationen in einzelne Karten aufteilen",
-          "fr": "Découper l'information en cartes individuelles",
-          "pt": "Fracionar a informação em cartas individuais",
-          "id": "Bagi Informasi Menjadi Kartu-Kartu Terpisah"
-        },
-        "text": {
-          "ko": "분석해야 할 복잡한 비즈니스 이슈, 학술 정보의 구성 인자들을 포스트잇이나 조그만 종이 카드 앞면에 단 하나의 단어 형태로 각각 분할해 적습니다.",
-          "en": "Break down complex business issues, project tasks, or research data by writing a single core keyword on the front of individual sticky notes or small index cards.",
-          "ja": "分析すべき複雑なビジネス課題や学術情報の構成要素を、付箋や小さな紙カードの表面に単一の単語形式でそれぞれ分割して書き留めます。",
-          "zh": "将需要拆解分析的复杂业务课题、学术概念或项目任务，以单个核心词汇的形式分别记录在便签或小卡片正面。",
-          "es": "Escriba los componentes de un problema complejo o proyecto redactando una sola palabra clave en el frente de notas adhesivas o tarjetas pequeñas.",
-          "de": "Zerlegen Sie komplexe Aufgaben oder Projektdaten, indem Sie jeweils ein einzelnes Schlüsselwort auf die Vorderseite von Karteikarten schreiben.",
-          "fr": "Décomposez un sujet complexe ou un projet en inscrivant un seul mot-clé principal au recto de cartes ou de petites notes adhésives.",
-          "pt": "Escreva os componentes de um problema complexo ou projeto anotando uma única palavra-chave na frente de cartões pequenos ou notas adesivas.",
-          "id": "Urai masalah bisnis rumit atau data penelitian dengan menuliskan satu kata kunci inti pada bagian depan kartu catatan atau memo tempel."
-        }
+    "pubDate": "2026-03-14",
+    "updatedDate": "2026-03-14",
+    "heroImage": "/images/blog/mendeleev_chemical_solitaire.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "원소의 카드 놀이: 멘델레예프의 화학적 솔리테어",
+        "description": "원소 성질을 적은 카드를 솔리테어 카드 놀이처럼 배치해 주기율표를 완성한 드미트리 멘델레예프. 텍스트를 물리적 공간에 늘어놓는 행동이 복잡한 패턴을 발견하는 뇌의 능력을 깨우는 원리를 규명합니다.",
+        "authority": "멘델레예프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"원소들은 저마다의 짝이 있다. 카드 더미의 순서를 이리저리 맞추다 보면 대자연이 정해둔 완벽한 질서가 모습을 드러낸다.\" 🃏\n\n현대 화학의 가장 아름다운 이정표이자 모든 원소의 지도인 주기율표. 이 위대한 발견을 완성해 낸 러시아의 천재 과학자 드미트리 멘델레예프(Dmitri Mendeleev, 1834–1907). 그가 원소들의 감춰진 주기를 알아내기 위해 사용했던 도구는 뜻밖에도 손으로 직접 오려 만든 63개의 원소 카드 더미였습니다. 그는 원자량과 화학적 성질을 적은 카드를 주머니에 항상 소지하며 기차 안이나 책상 위에서 마치 솔리테어 카드 놀이를 하듯 반복하여 펼치고 배열을 조절했습니다. 뇌과학적으로 무수한 정보들을 물리적 카드로 바꾸어 만지는 행위가 어떤 인지적 혁신을 불러일으켰는지 분석합니다.\n\n대다수 사람이 복잡한 문제를 만날 때 종이에 긴 글을 적어내려 가거나 컴퓨터 모니터의 화면을 보며 깊은 생각에 빠지곤 합니다. 그러나 평면적인 활자 배열은 뇌의 시각령에 단편적인 데이터로만 인식되어 시각적 결합을 방해합니다. 반면 멘델레예프는 정보를 낱개의 실체적인 객체(카드)로 나눈 뒤, 3차원 탁자 위에서 손가락으로 움직여가며 서로 매칭했습니다. 이 촉각을 동반한 물리적 공간 정렬 행동은 뇌의 해마 위치 수용체와 우뇌의 구조적 패턴 분석 시스템을 적극 가동시켰습니다.\n\n오늘 포스트에서는 멘델레예프의 카드 배치 기법의 생리학적 효용을 파헤치고, 일상이나 업무 속에서 마주하는 복잡한 지적 난제들을 손끝과 시각 공간을 조합해 명쾌하게 풀어내는 3단계 실천 방안을 제시합니다.",
+        "whyTitle": "정보의 공간 배치와 물리적 조작이 패턴 인지 영역을 각성시키는 이유",
+        "whyDesc": "문서나 컴퓨터 화면의 평면적인 텍스트는 뇌의 시각 처리 장치에 2차원적 정보로 인식되어 분석적 연산 장벽을 만듭니다. 반면, 정보를 개별 카드로 분리해 공간상에 이리저리 늘어놓으며 배치하는 행동은 뇌의 공간 위치 정보 영역을 활성화합니다. 뇌는 손끝의 촉각 신호와 입체적인 눈의 피드백을 통해 정보 간의 유기적 거리를 인식하며, 뇌의 전두엽과 두정엽을 가동해 텍스트 상태에서는 지나치기 쉬웠던 상호 패턴을 훨씬 더 민첩하게 연계해 냅니다.",
+        "cautionTitle": "주의사항 및 팁",
+        "cautionDesc": "카드로 정리할 때 너무 많은 정보의 세부 내용을 카드 한 장에 다 채워 넣으려고 하면 텍스트의 나열 형태로 돌아가 공간 조작의 장점이 상실됩니다. 카드 한 장에는 반드시 단 하나의 키워드나 명확한 핵심 지적 단서만 적어야 뇌의 스케치패드 연산 기능이 극대화됩니다. 카드의 개수 역시 한 번에 뇌가 한눈에 파악할 수 있는 범위인 10개에서 20개 내외의 범위로 가볍게 제한하여 사용하는 것이 효과적입니다.",
+        "steps": [
+          {
+            "title": "정보의 카드 낱개화(분절화) 작성",
+            "desc": "분석해야 할 복잡한 비즈니스 이슈, 학술 정보의 구성 인자들을 포스트잇이나 조그만 종이 카드 앞면에 단 하나의 단어 형태로 각각 분할해 적습니다."
+          },
+          {
+            "title": "테이블 공간 위 물리적 배열 매칭과 조작",
+            "desc": "넓은 책상 위에 카드를 펼쳐놓고, 손으로 위치를 밀어 이리저리 매칭해가며 인과관계가 맞닿거나 속성이 유사한 카드끼리 그룹을 모으고 배열합니다."
+          },
+          {
+            "title": "구조적 시각 데이터로 캡처 아카이빙",
+            "desc": "가장 직관적이고 인과 흐름이 매끄러운 카드 배열이 완성되면 스마트폰 카메라로 사진 촬영을 하여 뇌의 스케치 공간 기억과 시각 캡처본을 동기화합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "포스트잇이나 종이 카드가 없으면 마인드맵 앱으로 대체해도 되나요?",
+            "answer": "마인드맵 앱도 구조화에는 어느 정도 도움이 되지만, 손가락으로 카드를 직접 밀어 이동시키는 촉각 정보 피드백(Haptic/Tactile Input)은 뇌의 운동 피질과 두정엽을 훨씬 더 강하게 깨워 활성화시킵니다. 뇌과학 연구는 화면 안의 좌표 이동보다 실제 3차원 공간의 손가락 조작이 아이디어 구상 및 기억력 증대에 더 월등한 뇌파 변화를 유도한다고 밝히고 있으므로 되도록 물리 카드를 사용하는 것이 더 강력합니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "테이블 공간 위 물리적 배열 매칭과 조작",
-          "en": "Arrange and Manipulate Cards on a Physical Table",
-          "ja": "テーブル空間上での物理的配列マッチングと操作",
-          "zh": "在桌面空间进行物理摆放与重组",
-          "es": "Disponer y manipular las cartas sobre una mesa física",
-          "de": "Karten auf einem Tisch anordnen und verschieben",
-          "fr": "Disposer et manipuler les cartes sur une table physique",
-          "pt": "Dispor e manipular as cartas sobre uma mesa física",
-          "id": "Susun dan Manipulasi Kartu di Meja Fisik"
-        },
-        "text": {
-          "ko": "넓은 책상 위에 카드를 펼쳐놓고, 손으로 위치를 밀어 이리저리 매칭해가며 인과관계가 맞닿거나 속성이 유사한 카드끼리 그룹을 모으고 배열합니다.",
-          "en": "Spread the cards across a wide table. Slide them around with your fingers to group items by causal relationships, categories, or sequence.",
-          "ja": "広いデスクの上にカードを広げ、手で位置を動かしながらマッチングさせ、因果関係が接する、あるいは属性が類似するカード同士でグループを作って配列します。",
-          "zh": "在宽敞的桌面上摊开卡片，用手指按压滑动调整位置，将具有因果关联、相似属性或逻辑顺序的卡片进行归类与组装。",
-          "es": "Extienda las cartas sobre una mesa amplia. Deslícelas con los dedos para agrupar elementos por relaciones causales, categorías o secuencia.",
-          "de": "Breiten Sie die Karten auf einem großen Tisch aus. Verschieben Sie sie mit den Fingern, um sie nach Ursache-Wirkung oder Kategorien zu ordnen.",
-          "fr": "Étalez les cartes sur une grande table. Faites-les glisser du bout des doigts pour les regrouper par liens de cause à effet, catégories ou séquences.",
-          "pt": "Espalhe as cartas sobre uma mesa ampla. Deslize-as com os dedos para agrupar itens por relações de causa e efeito, categorias ou sequência.",
-          "id": "Bebaskan kartu di atas meja luas. Geser posisi kartu dengan jari Anda untuk mengelompokkan berdasarkan hubungan sebab-akibat, kategori, atau urutan."
-        }
+      "en": {
+        "title": "The Element Solitaire: Mendeleev's Chemical Card Sorting Routine",
+        "description": "Dmitri Mendeleev completed the Periodic Table by arranging cards inscribed with elemental properties like a game of solitaire. Discover how physical spatial manipulation activates the brain's pattern recognition pathways.",
+        "authority": "Mendeleev Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies",
+        "intro": "\"Elements have their own natural pairs. When you shuffle and arrange the deck of cards, the perfect order decreed by Nature reveals itself.\" 🃏\n\nThe Periodic Table stands as the map of matter and the crowning milestone of chemistry. Russian genius scientist Dmitri Mendeleev (1834–1907) completed this monumental breakthrough using an unexpected tool: a custom deck of 63 handmade cards representing the known chemical elements. On each card, he jotted down atomic weights and chemical properties. Carrying this deck in his coat pocket, Mendeleev laid them out on train tables and desks, endlessly rearranging them like a game of solitaire ('patience').\n\nWhile most people struggle with complex problems by reading linear documents on screens or paper, flat text arrays limit holistic spatial synthesis. Mendeleev chunked complex information into discrete physical objects (cards) and physically manipulated them across a 3D surface. Tactile feedback paired with spatial rearrangement actively stimulated hippocampal spatial receptors and right-hemisphere pattern-matching networks, allowing him to perceive hidden periodicity across elements.\n\nIn this article, we dissect the neuroscientific utility of Mendeleev's card solitaire routine and provide a 3-step practical framework to organize complex ideas using tactile spatial mapping.",
+        "whyTitle": "Why Spatial Arrangement and Physical Manipulation Awaken Pattern Recognition",
+        "whyDesc": "Flat text on screens or paper is processed by the brain as two-dimensional data, creating analytical calculation bottlenecks. In contrast, chunking information onto discrete cards and arranging them spatially across a desk activates the parietal lobes responsible for spatial positioning. Through tactile sensory signals from fingertips and 3D visual feedback, the brain perceives relational distances between concepts, enabling prefrontal and parietal networks to detect underlying patterns missed in linear reading.",
+        "cautionTitle": "Precautions and Tips",
+        "cautionDesc": "Avoid crowding excessive details onto a single card; doing so reverts the tool into a dense document, defeating the spatial manipulation benefit. Inscribe only one keyword or core concept per card to maximize the brain's visuospatial sketchpad. Limit your active working set to 10–20 cards at a time so the brain can absorb the entire matrix at a single glance.",
+        "steps": [
+          {
+            "title": "Chunk Information into Individual Cards",
+            "desc": "Break down complex business issues, project tasks, or research data by writing a single core keyword on the front of individual sticky notes or small index cards."
+          },
+          {
+            "title": "Arrange and Manipulate Cards on a Physical Table",
+            "desc": "Spread the cards across a wide table. Slide them around with your fingers to group items by causal relationships, categories, or sequence."
+          },
+          {
+            "title": "Capture and Archive the Final Structural Layout",
+            "desc": "Once an intuitive, logical layout emerges, snap a photograph with your smartphone camera to synchronize the physical matrix with your memory."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can mind-mapping software replace physical sticky notes or paper cards?",
+            "answer": "Mind-mapping software helps structure data, but tactile input from physically sliding cards with your fingers stimulates the motor and parietal cortices far more intensely. Neuroscientific research shows physical 3D finger manipulation induces superior neural activity for idea synthesis and memory retention compared to on-screen clicking, making physical cards much more effective."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "구조적 시각 데이터로 캡처 아카이빙",
-          "en": "Capture and Archive the Final Structural Layout",
-          "ja": "構造的視覚データとしてのキャプチャ・アーカイブ",
-          "zh": "作为结构化视觉数据进行拍照归档",
-          "es": "Capturar y archivar la disposición estructural final",
-          "de": "Das fertige Strukturlayout fotografieren und archivieren",
-          "fr": "Capturer et archiver la disposition structurelle finale",
-          "pt": "Capturar e arquivar o layout estrutural final",
-          "id": "Ambil Foto dan Arsipkan Tata Letak Struktural Akhir"
-        },
-        "text": {
-          "ko": "가장 직관적이고 인과 흐름이 매끄러운 카드 배열이 완성되면 스마트폰 카메라로 사진 촬영을 하여 뇌의 스케치 공간 기억과 시각 캡처본을 동기화합니다.",
-          "en": "Once an intuitive, logical layout emerges, snap a photograph with your smartphone camera to synchronize the physical matrix with your memory.",
-          "ja": "最も直感的で因果の流れがスムーズなカード配列が完成したら、スマホのカメラで写真を撮影し、脳のスケッチ空間記憶と視覚キャプチャを同期させます。",
-          "zh": "当调整出最直观、逻辑连贯的卡片阵列后，用手机拍照记录，将物理建构的阵列与脑海中的空间记忆同步归档。",
-          "es": "Una vez que emerja una disposición lógica e intuitiva, tome una fotografía con su teléfono para sincronizar la matriz física con su memoria.",
-          "de": "Sobald eine logische Anordnung entsteht, fotografieren Sie das Ergebnis mit dem Smartphone, um das physische Raster im Gedächtnis zu verankern.",
-          "fr": "Dès qu'une disposition logique et intuitive apparaît, prenez une photo avec votre smartphone pour synchroniser cette matrice physique avec votre mémoire.",
-          "pt": "Assim que surgir um layout lógico e intuitivo, tire uma foto com seu smartphone para sincronizar a matriz física com sua memória.",
-          "id": "Setelah susunan yang intuitif dan logis terbentuk, ambil foto dengan kamera ponsel Anda untuk menyinkronkan susunan fisik dengan memori spasial otak."
-        }
+      "zh": {
+        "title": "元素的牌局：门捷列夫的化学纸牌排序日常",
+        "description": "德米特里·门捷列夫通过将写有元素性质的卡片像打纸牌接龙一样进行摆放，最终完成了元素周期表。揭示将文本置于物理空间中如何激活大脑识别复杂模式能力的科学原理。",
+        "authority": "门捷列夫历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "“每一个元素都有其内在的配对。当你反复揉捏调整纸牌的顺序时，大自然预设的完美秩序便会显现。” 🃏\n\n元素周期表是现代化学最伟大的里程碑，也是物质世界的全景地图。完成这一伟大发现的俄国天才科学家德米特里·门捷列夫（Dmitri Mendeleev，1834–1907），其揭开元素隐藏周期的秘密工具竟然是一副由他亲手剪裁的63张元素纸牌。他在每张纸牌上写下元素符号、原子量与化学性质，随身装在衣口袋里。无论是在火车餐桌上还是办公桌前，他都像打接龙纸牌（Solitaire）一样，一次次地将其铺开并调整排列顺序。\n\n大多数人在面对复杂难题时，习惯于在纸上书写长篇大论或死盯电脑屏幕。然而，平面的文字排列在视觉皮层中仅被识别为孤立的数据碎片，阻碍了整体关联。而门捷列夫将复杂信息切割为具象的实体单元（纸牌），并在三维桌面上通过手指拨动进行排列。这种带有触觉反馈的物理空间重组，极大地激活了海马体的位置受容体与右脑的结构模式匹配系统，促成了划时代的科学突破。\n\n本文将剖析门捷列夫纸牌接龙习惯的神经生理学价值，并提供一种结合触觉与时空空间的3步实操法，助您高效理清各类复杂思维与业务难题。",
+        "whyTitle": "信息的空间布局与物理操作激活模式识别区域的科学原由",
+        "whyDesc": "屏幕或纸张上的平面文本会被大脑的视觉处理系统识别为二维数据，从而形成分析性计算的屏障。相反，将信息拆分至独立的纸牌上并在桌面上进行空间重排，会激活主管空间定位的顶叶区域。大脑通过手指触觉信号与三维视觉反馈感知概念间的有机距离，联动手前额叶与顶叶神经网，以极高的敏捷度捕捉在平面文本中极易被忽略的内在规律。",
+        "cautionTitle": "注意事项与实用建议",
+        "cautionDesc": "在制作纸牌时，切忌试图在一张卡片上塞入过多的细节内容，否则这会退化为密集的文档，丧失空间操作的优势。每张卡片必须仅写入一个核心关键词或明确的概念提示，方能最大化发挥大脑的“视觉空间草稿簿”功能。同时，将同时操作的纸牌数量控制在 10 至 20 张以内，以便大脑能够一眼掌控全貌。",
+        "steps": [
+          {
+            "title": "信息的卡片化（分切）提炼",
+            "desc": "将需要拆解分析的复杂业务课题、学术概念或项目任务，以单个核心词汇的形式分别记录在便签或小卡片正面。"
+          },
+          {
+            "title": "在桌面空间进行物理摆放与重组",
+            "desc": "在宽敞的桌面上摊开卡片，用手指按压滑动调整位置，将具有因果关联、相似属性或逻辑顺序的卡片进行归类与组装。"
+          },
+          {
+            "title": "作为结构化视觉数据进行拍照归档",
+            "desc": "当调整出最直观、逻辑连贯的卡片阵列后，用手机拍照记录，将物理建构的阵列与脑海中的空间记忆同步归档。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "如果没有便签或纸牌，可以用思维导图 App 替代吗？",
+            "answer": "思维导图软件在结构化方面确实有一定帮助，但用手指亲自拨动卡片所带来的触觉反馈（Tactile Input）能更强烈地刺激与激活大脑的运动皮层与顶叶。脑科学研究指出，相较于屏幕上的鼠标拖拽，在真实三维空间中的手指实体操作能诱发更优异的脑波变化，从而显著提升创意构思与记忆留存，因此强烈建议使用物理卡片。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "元素のトランプ遊び：メンデレーエフの化学的ソリティア",
+        "description": "元素の性質を記したカードをソリティアのように配置して周期表を完成させたドミトリ・メンデレーエフ。テキストを物理的空間に並べる行動が、複雑なパターンを発見する脳の能力を覚醒させる原理を解説します。",
+        "authority": "メンデレーエフ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「元素にはそれぞれペアがある。カードの束の順序をあれこれ合わせていると、大自然が定めた完璧な秩序が姿を現す。」 🃏\n\n現代化学の最も美しい道標であり、すべての元素の地図である周期表。この偉大な発見を完成させたロシアの天才科学者ドミトリ・メンデレーエフ（1834〜1907）。彼が元素の隠された周期性を突き止めるために使用した道具は、意外にも手で切り取って作った63枚の元素カードの束でした。彼は原子量と化学的性質を記したカードを常にポケットに忍ばせ、列車の中やデスクの上でまるでトランプのソリティア（一人遊び）をするかのように繰り返し広げては配列を調整しました。\n\n多くの人が複雑な問題に直面した際、紙に長い文章を書いたりコンピューターの画面を見つめたりして熟考にふけります。しかし、平面的な文字の配列は脳の視覚野に断片的なデータとしてしか認識されず、視覚的統合を妨げます。一方、メンデレーエフは情報を個別の実体的なオブジェクト（カード）に分けた後、3次元のテーブル上で指を使って動かしながらマッチングさせました。この触覚を伴う物理的空間整列行動は、脳の海馬位置受容体と右脳の構造的パターン分析システムを積極的に稼働させました。\n\n本記事では、メンデレーエフのカード配置技法の生理学的効用を解明し、日常や業務で直面する複雑な知的難題を指先と視覚空間を組み合わせて明快に解決する3段階の実践案を提示します。",
+        "whyTitle": "情報の空間配置と物理的操作がパターン認知領域を覚醒させる理由",
+        "whyDesc": "文書やコンピューター画面の平面的なテキストは、脳の視覚処理装置に2次元的情報として認識され、分析的演算の障壁を作ります。一方、情報を個別のカードに分離して空間上に広げて配置する行動は、脳の空間位置情報領域を活性化します。脳は指先の触覚信号と立体的な目のフィードバックを通じて情報間の有機的な距離を認識し、前頭葉と頂頭葉を稼働させてテキスト状態では見落としがちだった相互パターンをはるかに敏捷に連携させます。",
+        "cautionTitle": "注意事項とヒント",
+        "cautionDesc": "カード整理の際、あまりに多くの詳細情報を1枚のカードに詰め込もうとすると、テキストの羅列に戻って空間操作のメリットが失われます。カード1枚には必ずたった一つのキーワードや明確なコア概念だけを記載してこそ、脳のスケッチパッド演算機能が極大化します。カードの枚数も、脳が一望して把握できる10枚から20枚前後の範囲に制限して使用するのが効果的です。",
+        "steps": [
+          {
+            "title": "情報のカード個別化（分節化）作成",
+            "desc": "分析すべき複雑なビジネス課題や学術情報の構成要素を、付箋や小さな紙カードの表面に単一の単語形式でそれぞれ分割して書き留めます。"
+          },
+          {
+            "title": "テーブル空間上での物理的配列マッチングと操作",
+            "desc": "広いデスクの上にカードを広げ、手で位置を動かしながらマッチングさせ、因果関係が接する、あるいは属性が類似するカード同士でグループを作って配列します。"
+          },
+          {
+            "title": "構造的視覚データとしてのキャプチャ・アーカイブ",
+            "desc": "最も直感的で因果の流れがスムーズなカード配列が完成したら、スマホのカメラで写真を撮影し、脳のスケッチ空間記憶と視覚キャプチャを同期させます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "付箋や紙カードがない場合、マインドマップアプリで代用できますか？",
+            "answer": "マインドマップアプリも構造化には一定の助けになりますが、指でカードを直接押し動かす触覚情報フィードバック（Haptic Input）は、脳の運動皮質と頂頭葉をはるかに強く覚醒・活性化させます。脳科学研究では、画面内の座標移動よりも実際の3次元空間での指の操作が、アイデア構想や記憶力増大において卓越した脳波変化を誘導すると明らかにされているため、できるだけ物理的なカードを使用することが強力です。"
+          }
+        ]
+      },
+      "es": {
+        "title": "El solitario de los elementos: La rutina de ordenación de cartas químicas de Mendeléyev",
+        "description": "Dmitri Mendeléyev completó la Tabla Periódica ordenando cartas con propiedades químicas como un juego de solitario. Descubra cómo la manipulación espacial física activa las vías cerebrales de reconocimiento de patrones.",
+        "authority": "Investigación de biografías históricas y registros autobiográficos de Mendeléyev y estudios de neurociencia cognitiva",
+        "intro": "«Los elementos tienen sus propias parejas naturales. Al barajar y colocar el mazo de cartas, el orden perfecto decretado por la Naturaleza sale a la luz.» 🃏\n\nLa Tabla Periódica es el mapa de la materia y el mayor logro de la química. El genio ruso Dmitri Mendeléyev (1834-1907) completó este avance usando un mazo de 63 cartas recortadas a mano con los elementos conocidos. En cada carta anotó pesos atómicos y propiedades químicas. Llevando este mazo en el bolsillo, Mendeléyev las desplegaba en mesas de trenes y escritorios, reorganizándolas constantemente como un juego de solitario.\n\nMientras la mayoría de las personas lucha con problemas complejos leyendo textos lineales en pantallas, la disposición plana dificulta la síntesis holística. Mendeléyev fragmentó la información en objetos físicos independientes (cartas) y los manipuló en una superficie tridimensional. La retroalimentación táctil combinada con la reorganización espacial estimuló los receptores espaciales del hipocampo y la red de reconocimiento de patrones del hemisferio derecho.\n\nEn esta publicación, analizamos la utilidad neurocientífica de la rutina de solitario de Mendeléyev y ofrecemos un marco práctico de 3 pasos para organizar ideas complejas mediante mapas espaciales táctiles.",
+        "whyTitle": "Por qué la disposición espacial y la manipulación física activan el reconocimiento de patrones",
+        "whyDesc": "El texto plano en pantallas se procesa como datos bidimensionales, creando un cuello de botella analítico. En cambio, fragmentar la información en cartas y ordenarlas espacialmente activa los lóbulos parietales encargados del posicionamiento espacial. Mediante la retroalimentación táctil y visual en 3D, el cerebro percibe distancias relativas entre conceptos, permitiendo a las redes prefrontales y parietales detectar patrones ocultos.",
+        "cautionTitle": "Precauciones y consejos",
+        "cautionDesc": "Evite recargar excesivos detalles en una sola carta; hacerlo revierte la herramienta a un texto denso, anulando el beneficio espacial. Escriba solo una palabra clave o concepto por carta para maximizar la libreta visoespacial del cerebro. Limite su conjunto de trabajo a 10-20 cartas a la vez para mantener una visión global.",
+        "steps": [
+          {
+            "title": "Fragmentar la información en cartas individuales",
+            "desc": "Escriba los componentes de un problema complejo o proyecto redactando una sola palabra clave en el frente de notas adhesivas o tarjetas pequeñas."
+          },
+          {
+            "title": "Disponer y manipular las cartas sobre una mesa física",
+            "desc": "Extienda las cartas sobre una mesa amplia. Deslícelas con los dedos para agrupar elementos por relaciones causales, categorías o secuencia."
+          },
+          {
+            "title": "Capturar y archivar la disposición estructural final",
+            "desc": "Una vez que emerja una disposición lógica e intuitiva, tome una fotografía con su teléfono para sincronizar la matriz física con su memoria."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Pueden las aplicaciones de mapas mentales sustituir las tarjetas físicas?",
+            "answer": "El software de mapas mentales ayuda, pero el contacto táctil al deslizar cartas con los dedos estimula la corteza motora y parietal de forma mucho más intensa. La investigación demuestra que la manipulación física en 3D genera una actividad cerebral superior para la síntesis de ideas que el clic en pantalla."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le solitaire des éléments : La routine de tri de cartes chimiques de Mendeleïev",
+        "description": "Dmitri Mendeleïev a conçu le Tableau périodique en organisant des cartes portant les propriétés des éléments comme une partie de solitaire. Découvrez comment la manipulation spatiale stimule les réseaux cérébraux du cerveau.",
+        "authority": "Études des biographies historiques et récits autobiographiques de Mendeleïev & recherche en neurosciences cognitives",
+        "intro": "« Les éléments possèdent leurs propres associations naturelles. En organisant le jeu de cartes, l'ordre parfait décrété par la Nature finit par se révéler. » 🃏\n\nLe Tableau périodique est la carte de la matière et la clé de la chimie moderne. Le scientifique de génie russe Dmitri Mendeleïev (1834-1907) est parvenu à cette découverte grâce à un outil insolite : un jeu de 63 cartes façonnées à la main représentant les éléments chimiques. Sur chaque carte, il nota les masses atomiques et les propriétés chimiques. Gardant ce jeu dans sa poche, Mendeleïev les étalait sur les tables des trains ou sur son bureau, les manipulant comme une partie de solitaire.\n\nAlors que la plupart des gens tentent de résoudre des problèmes complexes en lisant des documents linéaires sur écran, cette disposition en 2D freine la synthèse spatiale. Mendeleïev a découpé les informations en objets physiques distincts (cartes) et les a déplacés sur une surface en 3D. Le retour tactile associé au tri spatial a stimulé les récepteurs hippocampiques du cerveau et la reconnaissance de motifs dans l'hémisphère droit.\n\nDans cet article, nous décortiquons les bénéfices neuroscientifiques du solitaire de Mendeleïev et proposons un guide en 3 étapes pour structurer des concepts complexes grâce au tri tactile.",
+        "whyTitle": "Pourquoi la disposition spatiale et la manipulation physique stimulent la détection de motifs",
+        "whyDesc": "Le texte plat sur écran est traité comme une information en deux dimensions, ce qui crée un verrou analytique. À l'inverse, découper l'information sur des cartes distinctes et les trier dans l'espace active le lobe pariétal. Grâce au toucher et au retour visuel en 3D, le cerveau perçoit les distances relatives entre les idées, permettant d'identifier des motifs complexes invisibles à la simple lecture.",
+        "cautionTitle": "Précautions et conseils",
+        "cautionDesc": "Évitez de surcharger une seule carte de détails ; cela réduirait l'outil à un document dense, annulant le bénéfice du tri spatial. Inscrivez un seul mot-clé par carte pour maximiser la mémoire visuo-spatiale du cerveau. Limitez l'ensemble à 10 ou 20 cartes à la fois pour garder une vue d'ensemble.",
+        "steps": [
+          {
+            "title": "Découper l'information en cartes individuelles",
+            "desc": "Décomposez un sujet complexe ou un projet en inscrivant un seul mot-clé principal au recto de cartes ou de petites notes adhésives."
+          },
+          {
+            "title": "Disposer et manipuler les cartes sur une table physique",
+            "desc": "Étalez les cartes sur une grande table. Faites-les glisser du bout des doigts pour les regrouper par liens de cause à effet, catégories ou séquences."
+          },
+          {
+            "title": "Capturer et archiver la disposition structurelle finale",
+            "desc": "Dès qu'une disposition logique et intuitive apparaît, prenez une photo avec votre smartphone pour synchroniser cette matrice physique avec votre mémoire."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Les logiciels de cartes mentales peuvent-ils remplacer les cartes physiques ?",
+            "answer": "Les applications aident à structurer, mais le retour tactile issu du glissement physique des cartes stimule le cortex moteur et pariétal bien plus intensément. La recherche montre que la manipulation physique en 3D génère une activité cérébrale supérieure au simple clic sur écran."
+          }
+        ]
+      },
+      "de": {
+        "title": "Das Elementen-Solitaire: Mendelejews chemische Kartensortier-Routine",
+        "description": "Dmitri Mendelejew vollendete das Periodensystem, indem er Karten mit Elementeigenschaften wie beim Solitaire-Spiel anordnete. Erfahren Sie, wie räumliches Sortieren Mustererkennungsmuster im Gehirn aktiviert.",
+        "authority": "Historische Biografien & Aufzeichnungen zu Mendelejew & Kognitive Neurowissenschaften",
+        "intro": "„Elemente besitzen ihre eigenen natürlichen Paare. Wenn man den Kartenstapel mischt und anordnet, offenbart sich die vollkommene Ordnung der Natur.“ 🃏\n\nDas Periodensystem ist die Landkarte der Materie und ein Meilenstein der Chemie. Der russische Wissenschaftler Dmitri Mendelejew (1834–1907) vollendete diesen Durchbruch mit einem selbst hergestellten Stapel aus 63 Elementkarten. Auf jede Karte schrieb er Atomgewichte und chemische Eigenschaften. Er trug diesen Stapel in der Tasche und breitete die Karten in Zügen oder am Schreibtisch aus, um sie wie beim Solitaire-Spiel neu anzuordnen.\n\nWährend viele Menschen sich mit verstrickten Problemen abmühen, indem sie Texte auf Bildschirmen lesen, hemmt die flache Textanordnung die kognitive Verknüpfung. Mendelejew zerlegte die Informationen in physische Objekte (Karten) und verschob sie auf einer 3D-Fläche. Diese haptische Rückmeldung in Kombination mit räumlicher Sortierung aktivierte die Ortszellen im Hippocampus und die Mustererkennungsnetzwerke der rechten Gehirnhälfte.\n\nIn diesem Beitrag analysieren wir den neurowissenschaftlichen Nutzen von Mendelejews Karten-Routine und stellen ein 3-Stufen-Modell zur räumlichen Strukturierung komplexer Denksportaufgaben vor.",
+        "whyTitle": "Warum räumliche Anordnung und physische Sortierung die Mustererkennung aktivieren",
+        "whyDesc": "Flacher Text auf Bildschirmen wird als zweidimensionale Information verarbeitet, was kognitive Engen erzeugt. Das Aufteilen von Informationen auf physische Karten und deren räumliche Anordnung aktiviert den Parietallappen für Raumwahrnehmung. Durch haptische Reize und visuelle 3D-Rückmeldung erkennt das Gehirn organische Abstände zwischen Begriffen und deckt verborgene Zusammenhänge auf.",
+        "cautionTitle": "Vorsichtsmaßnahmen und Tipps",
+        "cautionDesc": "Überladen Sie einzelne Karten nicht mit zu vielen Details; andernfalls wird die Karte zu einem dichten Text und verliert den räumlichen Vorteil. Schreiben Sie nur ein Schlüsselwort pro Karte auf, um das visuell-räumliche Arbeitsgedächtnis optimal zu nutzen. Beschränken Sie die Anzahl auf 10–20 Karten gleichzeitig.",
+        "steps": [
+          {
+            "title": "Informationen in einzelne Karten aufteilen",
+            "desc": "Zerlegen Sie komplexe Aufgaben oder Projektdaten, indem Sie jeweils ein einzelnes Schlüsselwort auf die Vorderseite von Karteikarten schreiben."
+          },
+          {
+            "title": "Karten auf einem Tisch anordnen und verschieben",
+            "desc": "Breiten Sie die Karten auf einem großen Tisch aus. Verschieben Sie sie mit den Fingern, um sie nach Ursache-Wirkung oder Kategorien zu ordnen."
+          },
+          {
+            "title": "Das fertige Strukturlayout fotografieren und archivieren",
+            "desc": "Sobald eine logische Anordnung entsteht, fotografieren Sie das Ergebnis mit dem Smartphone, um das physische Raster im Gedächtnis zu verankern."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Können Mindmap-Software physische Zettel oder Karteikarten ersetzen?",
+            "answer": "Software hilft bei der Strukturierung, aber die haptische Rückmeldung beim physischen Verschieben von Karten aktiviert die motorische und parietale Rinde weit starker. Studien zeigen, dass das Greifen im 3D-Raum der Mausbedienung bei der Ideenfindung deutlich überlegen ist."
+          }
+        ]
+      },
+      "pt": {
+        "title": "O paciência dos elementos: A rotina de ordenação de cartas químicas de Mendeleiev",
+        "description": "Dmitri Mendeleiev completou a Tabela Periódica organizando cartas com propriedades químicas como um jogo de paciência. Descubra como a manipulação espacial física ativa o reconhecimento de padrões no cérebro.",
+        "authority": "Pesquisa de biografias históricas e registros autobiográficos de Mendeleiev & estudos de neurociência cognitiva",
+        "intro": "«Os elementos possuem seus próprios pares naturais. Ao reorganizar o baralho de cartas, a ordem perfeita decretada pela Natureza se revela.» 🃏\n\nA Tabela Periódica é o mapa da matéria e o grande marco da química. O cientista gênio russo Dmitri Mendeleiev (1834–1907) alcançou essa descoberta usando um baralho feito à mão com 63 cartas dos elementos conhecidos. Em cada carta, anotou pesos atômicos e propriedades químicas. Carregando o baralho no bolso, Mendeleiev as distribuía em mesas de trem e escrivaninhas, organizando-as como num jogo de paciência.\n\nEnquanto a maioria das pessoas tenta resolver problemas difíceis lendo textos lineares em telas, arranjos planos limitam a síntese holística. Mendeleiev fracionou informações em objetos físicos (cartas) e os manipulou em uma superfície tridimensional. A resposta tátil combinada à reorganização espacial estimulou os receptores do hipocampo e as redes de reconhecimento de padrões do hemisfério direito.\n\nNeste artigo, analisamos a utilidade neurocientífica da rotina de paciência de Mendeleiev e apresentamos um método prático de 3 etapas para estruturar ideias complexas via mapeamento tátil.",
+        "whyTitle": "Por que a disposição espacial e a manipulação física ativam o reconhecimento de padrões",
+        "whyDesc": "Textos planos em telas são processados como dados bidimensionais, criando gargalos analíticos. Em contrapartida, dividir informações em cartas e disprô-las espacialmente ativa os lóbulos parietais responsáveis pelo posicionamento espacial. Por meio do tato e do feedback visual em 3D, o cérebro percebe distâncias relativas entre conceitos, detectando padrões ocultos.",
+        "cautionTitle": "Precauções e dicas",
+        "cautionDesc": "Evite sobrecarregar uma única carta com detalhes excessivos; isso transforma a ferramenta em um texto denso, anulando o benefício espacial. Escreva apenas uma palavra-chave por carta para maximizar o bloco de rascunho viso-espacial do cérebro. Limite o conjunto de trabalho a 10–20 cartas por vez.",
+        "steps": [
+          {
+            "title": "Fracionar a informação em cartas individuais",
+            "desc": "Escreva os componentes de um problema complexo ou projeto anotando uma única palavra-chave na frente de cartões pequenos ou notas adesivas."
+          },
+          {
+            "title": "Dispor e manipular as cartas sobre uma mesa física",
+            "desc": "Espalhe as cartas sobre uma mesa ampla. Deslize-as com os dedos para agrupar itens por relações de causa e efeito, categorias ou sequência."
+          },
+          {
+            "title": "Capturar e arquivar o layout estrutural final",
+            "desc": "Assim que surgir um layout lógico e intuitivo, tire uma foto com seu smartphone para sincronizar a matriz física com sua memória."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Aplicativos de mapa mental podem substituir os cartões físicos?",
+            "answer": "Softwares de mapa mental ajudam, mas o toque tátil ao deslizar cartões com os dedos estimula o córtex motor e parietal de forma muito mais intensa. Pesquisas mostram que a manipulação física 3D induz atividade cerebral superior à navegação por tela."
+          }
+        ]
+      },
+      "id": {
+        "title": "Solitaire Unsur Kimia: Rutinitas Sortir Kartu Kimia Mendeleev",
+        "description": "Dmitri Mendeleev menyelesaikan Tabel Periodik dengan menyusun kartu berisi sifat-sifat unsur seperti permainan solitaire. Pelajari bagaimana manipulasi spasial fisik mengaktifkan kemampuan otak mengenali pola.",
+        "authority": "Riset Biografi Historis dan Catatan Autobiografi Mendeleev & Studi Neurosains Kognitif",
+        "intro": "\"Setiap unsur memiliki pasangannya sendiri. Saat Anda mengocok dan menyusun tumpukan kartu, tatanan sempurna dari Alam akan menampakkan diri.\" 🃏\n\nTabel Periodik berdiri sebagai peta materi dan pencapaian puncak ilmu kimia. Ilmuwan jenius Rusia Dmitri Mendeleev (1834–1907) menyelesaikan terobosan monumental ini menggunakan alat yang tak terduga: tumpukan 63 kartu buatan tangan yang mewakili unsur-unsur kimia. Pada setiap kartu, ia mencatat bobot atom dan sifat kimia. Membawa kartu ini di saku jasnya, Mendeleev menyusunnya di meja kereta dan meja kerja, berulang kali menatanya seperti permainan kartu solitaire.\n\nSaat sebagian besar orang kesulitan memecahkan masalah rumit dengan membaca dokumen linear di layar, susunan teks datar membatasi sintesis holistik. Mendeleev membagi informasi rumit menjadi objek fisik terpisah (kartu) dan memanipulasinya di atas permukaan 3D. Umpan balik taktil yang dipadukan dengan penataan spasial merangsang reseptor spasial hipokampus dan jaringan pengenalan pola otak kanan.\n\nDalam artikel ini, kita mengupas kegunaan neurosains dari rutinitas solitaire kartu Mendeleev dan menyajikan panduan praktis 3 langkah untuk mengorganisasi ide-ide rumit menggunakan pemetaan spasial taktil.",
+        "whyTitle": "Mengapa Penataan Spasial dan Manipulasi Fisik Membangkitkan Pengenalan Pola",
+        "whyDesc": "Teks datar di layar diproses sebagai data dua dimensi yang menciptakan hambatan kalkulasi analitis. Sebaliknya, membagi informasi ke dalam kartu terpisah dan menyusunnya secara spasial di meja mengaktifkan lobus parietal yang mengatur posisi spasial. Melalui umpan balik taktil dan visual 3D, otak mengenali jarak organik antar konsep, memungkinkan jaringan prefrontal mengurai pola rumit.",
+        "cautionTitle": "Tindakan Pencegahan dan Tips",
+        "cautionDesc": "Hindari menjejalkan detail berlebihan pada satu kartu; melakukan hal itu mengembalikan fungsi kartu menjadi dokumen padat dan membatalkan manfaat pemetaan spasial. Tuliskan hanya satu kata kunci atau konsep inti per kartu. Batasi jumlah kartu menjadi 10–20 kartu sekaligus agar otak dapat menyerap seluruh struktur secara sekilas.",
+        "steps": [
+          {
+            "title": "Bagi Informasi Menjadi Kartu-Kartu Terpisah",
+            "desc": "Urai masalah bisnis rumit atau data penelitian dengan menuliskan satu kata kunci inti pada bagian depan kartu catatan atau memo tempel."
+          },
+          {
+            "title": "Susun dan Manipulasi Kartu di Meja Fisik",
+            "desc": "Bebaskan kartu di atas meja luas. Geser posisi kartu dengan jari Anda untuk mengelompokkan berdasarkan hubungan sebab-akibat, kategori, atau urutan."
+          },
+          {
+            "title": "Ambil Foto dan Arsipkan Tata Letak Struktural Akhir",
+            "desc": "Setelah susunan yang intuitif dan logis terbentuk, ambil foto dengan kamera ponsel Anda untuk menyinkronkan susunan fisik dengan memori spasial otak."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah aplikasi mind-mapping dapat menggantikan kartu fisik?",
+            "answer": "Perangkat lunak mind-mapping membantu mengorganisasi data, namun masukan taktil dari menggeser kartu secara fisik merangsang korteks motorik dan parietal jauh lebih kuat. Riset neurosains membuktikan bahwa manipulasi fisik 3D memicu aktivitas otak yang lebih unggul untuk sintesis ide dibanding klik layar."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "포스트잇이나 종이 카드가 없으면 마인드맵 앱으로 대체해도 되나요?",
-          "en": "Can mind-mapping software replace physical sticky notes or paper cards?",
-          "ja": "付箋や紙カードがない場合、マインドマップアプリで代用できますか？",
-          "zh": "如果没有便签或纸牌，可以用思维导图 App 替代吗？",
-          "es": "¿Pueden las aplicaciones de mapas mentales sustituir las tarjetas físicas?",
-          "de": "Können Mindmap-Software physische Zettel oder Karteikarten ersetzen?",
-          "fr": "Les logiciels de cartes mentales peuvent-ils remplacer les cartes physiques ?",
-          "pt": "Aplicativos de mapa mental podem substituir os cartões físicos?",
-          "id": "Apakah aplikasi mind-mapping dapat menggantikan kartu fisik?"
-        },
-        "answer": {
-          "ko": "마인드맵 앱도 구조화에는 어느 정도 도움이 되지만, 손가락으로 카드를 직접 밀어 이동시키는 촉각 정보 피드백(Haptic/Tactile Input)은 뇌의 운동 피질과 두정엽을 훨씬 더 강하게 깨워 활성화시킵니다. 뇌과학 연구는 화면 안의 좌표 이동보다 실제 3차원 공간의 손가락 조작이 아이디어 구상 및 기억력 증대에 더 월등한 뇌파 변화를 유도한다고 밝히고 있으므로 되도록 물리 카드를 사용하는 것이 더 강력합니다.",
-          "en": "Mind-mapping software helps structure data, but tactile input from physically sliding cards with your fingers stimulates the motor and parietal cortices far more intensely. Neuroscientific research shows physical 3D finger manipulation induces superior neural activity for idea synthesis and memory retention compared to on-screen clicking, making physical cards much more effective.",
-          "ja": "マインドマップアプリも構造化には一定の助けになりますが、指でカードを直接押し動かす触覚情報フィードバック（Haptic Input）は、脳の運動皮質と頂頭葉をはるかに強く覚醒・活性化させます。脳科学研究では、画面内の座標移動よりも実際の3次元空間での指の操作が、アイデア構想や記憶力増大において卓越した脳波変化を誘導すると明らかにされているため、できるだけ物理的なカードを使用することが強力です。",
-          "zh": "思维导图软件在结构化方面确实有一定帮助，但用手指亲自拨动卡片所带来的触觉反馈（Tactile Input）能更强烈地刺激与激活大脑的运动皮层与顶叶。脑科学研究指出，相较于屏幕上的鼠标拖拽，在真实三维空间中的手指实体操作能诱发更优异的脑波变化，从而显著提升创意构思与记忆留存，因此强烈建议使用物理卡片。",
-          "es": "El software de mapas mentales ayuda, pero el contacto táctil al deslizar cartas con los dedos estimula la corteza motora y parietal de forma mucho más intensa. La investigación demuestra que la manipulación física en 3D genera una actividad cerebral superior para la síntesis de ideas que el clic en pantalla.",
-          "de": "Software hilft bei der Strukturierung, aber die haptische Rückmeldung beim physischen Verschieben von Karten aktiviert die motorische und parietale Rinde weit starker. Studien zeigen, dass das Greifen im 3D-Raum der Mausbedienung bei der Ideenfindung deutlich überlegen ist.",
-          "fr": "Les applications aident à structurer, mais le retour tactile issu du glissement physique des cartes stimule le cortex moteur et pariétal bien plus intensément. La recherche montre que la manipulation physique en 3D génère une activité cérébrale supérieure au simple clic sur écran.",
-          "pt": "Softwares de mapa mental ajudam, mas o toque tátil ao deslizar cartões com os dedos estimula o córtex motor e parietal de forma muito mais intensa. Pesquisas mostram que a manipulação física 3D induz atividade cerebral superior à navegação por tela.",
-          "id": "Perangkat lunak mind-mapping membantu mengorganisasi data, namun masukan taktil dari menggeser kartu secara fisik merangsang korteks motorik dan parietal jauh lebih kuat. Riset neurosains membuktikan bahwa manipulasi fisik 3D memicu aktivitas otak yang lebih unggul untuk sintesis ide dibanding klik layar."
-        }
-      }
-    ]
+    }
   }
 }

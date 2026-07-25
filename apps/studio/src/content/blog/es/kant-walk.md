@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Reloj de Königsberg: La Caminata Diaria de Immanuel Kant a las 3:30 PM y la Precisión del Ritmo Circadiano"
 description: "Descubra cómo el titán de la filosofía moderna Immanuel Kant mantuvo una claridad mental inigualable caminando a las 3:30 PM en Königsberg. Explore la neurociencia de la estimulación del núcleo supraquiasmático (NSQ) y la respiración nasal."
 pubDate: "2026-03-18"
@@ -40,22 +41,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva y la cronobiolog
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre kant-walk se basa en <strong>Verificación Histórica de *Kant: Una biografía* de Manfred Kuehn, Archivos de Königsberg e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Kant: Una biografía* de Manfred Kuehn, Archivos de Königsberg e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Precisión del Ritmo Circadiano y Estimulación del Núcleo Supraquiasmático (NSQ)
+## 1. Precisión del Ritmo Circadiano y Estimulación del Núcleo Supraquiasmático (NSQ)
 
 Caminar por la misma ruta exactamente a las 3:30 PM estimula con precisión el <strong>Núcleo Supraquiasmático (NSQ)</strong> del hipotálamo, fijando el <strong>Ritmo Circadiano</strong> en un estado óptimo. La exposición constante al aire libre equilibra el <strong>Sistema Nervioso Autónomo</strong>, reduciendo el estrés físico. Además, restaura la función ejecutiva de la <strong>Corteza Prefrontal</strong>, agotada por la investigación abstracta, garantizando una resistencia intelectual duradera.
 
 ---
 
-## Precaución: Mantenga una Respiración Nasal Estricta Evitando el Ruido Verbal
-
-Kant mantenía la boca cerrada durante sus paseos, creyendo que hablar al aire libre alteraba su equilibrio nervioso y afectaba sus pulmones. La clave es eliminar la charla ocasional y las notificaciones del teléfono, sumergiendo su atención en una respiración nasal tranquila y un ritmo de marcha constante.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Kant mantenía la boca cerrada durante sus paseos, creyendo que hablar al aire l
   </p>
 </div>
 
+---
+
+## 3. Precaución: Mantenga una Respiración Nasal Estricta Evitando el Ruido Verbal
+
+Kant mantenía la boca cerrada durante sus paseos, creyendo que hablar al aire libre alteraba su equilibrio nervioso y afectaba sus pulmones. La clave es eliminar la charla ocasional y las notificaciones del teléfono, sumergiendo su atención en una respiración nasal tranquila y un ritmo de marcha constante.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Immanuel Kant caminaba estrictamente a las 3:30 PM cada tarde?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Kant mantenía la boca cerrada durante sus paseos, creyendo que hablar al aire l
       Para sostener una investigación filosófica abstracta durante décadas, Kant mantuvo una rutina estricta que equilibraba su sistema nervioso autónomo, preservaba sus ritmos circadianos y despejaba la fatiga prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es necesario evitar hablar y respirar exclusivamente por la nariz durante la caminata como hacía Kant?</span>

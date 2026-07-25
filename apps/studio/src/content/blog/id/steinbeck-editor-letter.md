@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Menghilangkan Rasa Takut Memulai: Rutinitas Surat Pemanasan John Steinbeck"
 description: "Novelis John Steinbeck menulis surat harian kepada editornya untuk menghilangkan rasa enggan dan penundaan saat mulai menulis. Pelajari bagaimana menulis bebas mengaktifkan korteks motorik bahasa."
 pubDate: "2026-05-07"
@@ -33,25 +34,23 @@ Dalam postingan ini, kami memeriksa bagaimana rutinitas surat Steinbeck menenang
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai steinbeck-editor-letter didasarkan pada <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
+      Konten ini didasarkan pada <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Jalur Saraf untuk Mengatasi Perfeksionisme dan Kecemasan Amigdala
+## 1. Jalur Saraf untuk Mengatasi Perfeksionisme dan Kecemasan Amigdala
 
 Ketika otak menganggap suatu tugas sangat penting, amigdala memicu alarm kecemasan yang menyebabkan penundaan. Melakukan tulisan bebas sederhana terlebih dahulu mengirimkan umpan balik 'lingkungan aman', menenangkan amigdala dan menyiapkan korteks motorik bahasa.
 
 ---
 
-## Peringatan & Tip
-
-Jebakan utama dari surat pemanasan adalah membiarkannya menjadi bentuk penundaan lain. Menghabiskan waktu lebih dari 30 menit akan menguras energi. Batasi pemanasan secara ketat hingga maksimal 5 menit dan segera beralih ke tugas utama Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Jebakan utama dari surat pemanasan adalah membiarkannya menjadi bentuk penundaan
     Dengan jari yang sudah lemas dan korteks bahasa yang aktif, segera beralih ke layar pekerjaan utama Anda tanpa ragu.
   </p>
 </div>
+
+---
+
+## 3. Peringatan & Tip
+
+Jebakan utama dari surat pemanasan adalah membiarkannya menjadi bentuk penundaan lain. Menghabiskan waktu lebih dari 30 menit akan menguras energi. Batasi pemanasan secara ketat hingga maksimal 5 menit dan segera beralih ke tugas utama Anda.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

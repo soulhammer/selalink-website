@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "完全掌控时间的秘诀：路易十四的时间块（Time Blocking）惯例与防范决策疲劳"
 description: "深入剖析统治凡尔赛宫的“太阳王”路易十四如何将每日24小时精确打理至以分计的时间块中。探讨防范决策疲劳、唤醒执行意图（Implementation Intentions）、捍卫前额叶皮层能量的神经科学原理与3步骤时间管理指南。"
 pubDate: "2026-04-11"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 louis-time-blocking 的内容基于 <strong>路易十四回忆录《太子教谕（Mémoires pour l'instruction du dauphin，1670）》及圣西门公爵回忆录史料考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>路易十四回忆录《太子教谕（Mémoires pour l'instruction du dauphin，1670）》及圣西门公爵回忆录史料考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 阻断决策疲劳（Decision Fatigue）与唤醒执行意图（Implementation Intentions）神经科学原理
+## 1. 阻断决策疲劳（Decision Fatigue）与唤醒执行意图（Implementation Intentions）神经科学原理
 
 反复权衡“下一步做何事”会迅速耗竭大脑<strong>前额叶皮层（Prefrontal Cortex）</strong>的能量，诱发严重的<strong>决策疲劳（Decision Fatigue）</strong>。将全天日程预先锁定入指定时间块的<strong>时间块（Time Blocking）</strong>策略，能瞬间唤醒大脑的<strong>执行意图（Implementation Intentions）</strong>（即“时段X至，即刻执行任务Y”）。彻底剔除琐碎选择的纷扰，能杜绝拖延，将<strong>前额叶皮层</strong>的注意力资源全神贯注于目标任务。
 
 ---
 
-## 注意事项：摒弃毫无留白的完美主义死板规划，捍卫缓冲时间（Buffer Time）指南
-
-时间块管理的致命陷阱，莫过于制定不允许1分钟误差的严丝合缝时刻表。一旦遭遇突发干扰导致进度延误，极端完美主义极易引发全盘放弃的心理崩塌。必须在时间块间预留10-15分钟的<strong>缓冲时间（Buffer Time）</strong>，为大脑捍卫<strong>认知灵活性（Cognitive Flexibility）</strong>，方为长久践行之关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：摒弃毫无留白的完美主义死板规划，捍卫缓冲时间（Buffer Time）指南
+
+时间块管理的致命陷阱，莫过于制定不允许1分钟误差的严丝合缝时刻表。一旦遭遇突发干扰导致进度延误，极端完美主义极易引发全盘放弃的心理崩塌。必须在时间块间预留10-15分钟的<strong>缓冲时间（Buffer Time）</strong>，为大脑捍卫<strong>认知灵活性（Cognitive Flexibility）</strong>，方为长久践行之关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>对于经常面对突发加急任务或频繁联络的岗位，时间块管理是否依然适用？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可行！只需在全天行程中特意排布2-3个“加急应对与消息批量处理时段（Batch Processing）”。在核心深度专注时段保持零打扰，将碎屑突发需求统揽至批处理时段集中化解，即可极佳防范注意力碎片化。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若未能完美依循时刻表推进日程时产生强烈自责焦虑，该如何疏导？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "우아함의 밑바탕: 오드리 헵번의 마음 치유 정원 루틴과 흙 만지기의 뇌과학"
 description: "할리우드의 전설 오드리 헵번. 극심한 대중의 관심과 암 투병의 고통 속에서도 정서적 안정과 우아함을 지켜낸 비결인 흙 만지기(정원 가꾸기) 루틴의 뇌과학적 원리와 마이코박테리움 백카이, 세로토닌 분비 메커니즘을 알아봅니다."
 pubDate: "2026-01-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>오드리 헵번 평전 및 스위스 톨로케나즈(Tolochenaz) 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구</strong>에 근거하여 hepburn-garden-mindfulness 루틴을 다룹니다.
+      본 콘텐츠는 <strong>오드리 헵번 평전 및 스위스 톨로케나즈(Tolochenaz) 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 마이코박테리움 백카이와 세로토닌(Serotonin) 분비의 뇌과학
+## 1. 마이코박테리움 백카이와 세로토닌(Serotonin) 분비의 뇌과학
 
 인간은 흙과 교감할 때 근본적인 심리적 안정을 얻도록 진화했습니다. 뇌과학 및 미생물학 연구에 따르면, 정원을 가꾸며 흙을 만질 때 흙 속에 서식하는 유익한 미생물인 <strong>'마이코박테리움 백카이(Mycobacterium vaccae)'</strong>와 신체적으로 접촉하게 됩니다. 이 박테리아는 피부와 호흡기를 통해 뇌의 신경 세포를 자극하여 정서적 평온과 우울감 완화를 돕는 신경전달물질인 <strong>세로토닌(Serotonin)</strong>의 방출을 획기적으로 유도합니다. 즉, 정원을 가꾸는 행위는 <strong>전두엽(Prefrontal Cortex)</strong>의 인지 피로를 덜어주는 <strong>'주의 회복(Attention Restoration)'</strong>과 신경 안정 효과를 동시에 부여합니다.
 
 ---
 
-## 잡념을 배제하고 흙과 식물의 아날로그 촉감에 몰입하는 수칙
-
-원예 루틴을 통한 진정한 정서적 이완을 얻으려면 행위 자체의 감각에 마음을 모으는 것이 중요합니다. 흙을 만지면서 오늘 해야 할 일이나 업무에 대한 잡념을 이어간다면 뇌의 주의 회복 기능은 차단됩니다. 손끝에 와닿는 흙의 서늘한 감각, 모래알의 거친 촉감, 잎사귀 표면의 부드러움 등 눈앞의 물리적인 흙과 식물의 생명력에만 온 신경을 집중할 때 뇌는 비로소 이완 상태로 진입합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 잡념을 배제하고 흙과 식물의 아날로그 촉감에 몰입하는 수칙
+
+원예 루틴을 통한 진정한 정서적 이완을 얻으려면 행위 자체의 감각에 마음을 모으는 것이 중요합니다. 흙을 만지면서 오늘 해야 할 일이나 업무에 대한 잡념을 이어간다면 뇌의 주의 회복 기능은 차단됩니다. 손끝에 와닿는 흙의 서늘한 감각, 모래알의 거친 촉감, 잎사귀 표면의 부드러움 등 눈앞의 물리적인 흙과 식물의 생명력에만 온 신경을 집중할 때 뇌는 비로소 이완 상태로 진입합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>집에 정원이나 마당이 없는데 아파트 실내에서도 가능한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       충분히 가능합니다. 베란다나 거실의 작은 화분에 분갈이용 흙을 채우고 작은 허브나 공기 정화 식물을 심는 것만으로도 동일한 촉감 자극과 마이코박테리움 박테리아 접촉 효과를 얻을 수 있습니다. 핵심은 화초의 크기가 아니라 흙과의 물리적인 신체적 교감입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>맨손으로 만지면 세균 감염 같은 위생 문제가 없을까요?</span>

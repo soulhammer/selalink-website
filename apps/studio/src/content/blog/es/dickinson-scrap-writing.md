@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gran Inspiración en el Reverso de un Sobre: El Hábito de Escribir en Recortes de Emily Dickinson y la Relajación por Incubación"
 description: "Descubra cómo el genio poético estadounidense Emily Dickinson garabateaba poemas en recibos y envoltorios mientras horneaba pan. Explore la neurociencia cognitiva de la activación de la Red por Defecto (DMN) y el Efecto de Incubación."
 pubDate: "2026-05-02"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre dickinson-scrap-writing se basa en <strong>Verificación Histórica de la Biografía de Richard B. Sewall *La vida de Emily Dickinson (The Life of Emily Dickinson)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Richard B. Sewall *La vida de Emily Dickinson (The Life of Emily Dickinson)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relajación por Incubación Mediante la Repetición Física y la Activación de la DMN
+## 1. Relajación por Incubación Mediante la Repetición Física y la Activación de la DMN
 
 La creatividad se sofoca cuando el cerebro fuerza la lógica compleja frente al escritorio. Por el contrario, tareas físicas y repetitivas —como amasar pan o fregar— potencian la síntesis creativa. La neurociencia lo llama el 'Efecto de Incubación'. Al liberar el Control Cognitivo de la corteza prefrontal, el cerebro pasa a la Red por Defecto (DMN). En este estado, los recuerdos fragmentados se fusionan libremente. Como estas ideas se degradan en la Memoria de Trabajo en segundos, buscar un cuaderno perfecto garantiza su pérdida. El hábito de Dickinson de anotar en el papel más cercano contrarresta esta volatilidad.
 
 ---
 
-## Precauciones y Consejos: Rechazar el Perfeccionismo y Preservar las Ideas en Estado Bruto
-
-El núcleo absoluto para capturar chispas creativas es la 'conservación rápida en estado bruto', no la organización ordenada. Si retrasa el registro para buscar un diario bonito o abrir una aplicación, las señales creativas se evaporarán permanentemente. Ya sea en un recibo roto, un posavasos o el dorso de la mano, debe garabatear una palabra clave en el segundo exacto en que surge la inspiración.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El núcleo absoluto para capturar chispas creativas es la 'conservación rápida
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Rechazar el Perfeccionismo y Preservar las Ideas en Estado Bruto
+
+El núcleo absoluto para capturar chispas creativas es la 'conservación rápida en estado bruto', no la organización ordenada. Si retrasa el registro para buscar un diario bonito o abrir una aplicación, las señales creativas se evaporarán permanentemente. Ya sea en un recibo roto, un posavasos o el dorso de la mano, debe garabatear una palabra clave en el segundo exacto en que surge la inspiración.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿No es más rápido abrir una aplicación de notas en el móvil que buscar un papel y un lápiz?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El núcleo absoluto para capturar chispas creativas es la 'conservación rápida
       Aunque la acción digital parezca más rápida, desbloquear una pantalla y ver notificaciones obliga al cerebro a procesar nuevos estímulos. Esto sobrescribe la frágil idea en su memoria de trabajo, haciendo que se evapore. Un lápiz físico y un trozo de papel no generan fricción cognitiva.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿No es mejor para la creatividad concentrarse al máximo y ejecutar las tareas domésticas meticulosamente?</span>

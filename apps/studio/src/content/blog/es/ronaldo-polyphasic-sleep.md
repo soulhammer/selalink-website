@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El secreto de un físico incansable las 24 horas? El método de sueño polifásico de 90 minutos de Cristiano Ronaldo"
 description: "Cristiano Ronaldo, uno de los mejores delanteros del mundo. Descubra la ciencia del sueño y los consejos prácticos detrás de su rutina de cinco ciclos de sueño de 90 minutos al día para maximizar la recuperación física."
 pubDate: "2026-01-20"
@@ -32,14 +33,14 @@ faqs:
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre ronaldo-polyphasic-sleep se basa en <strong>Biografías históricas y registros autobiográficos de Cristiano Ronaldo e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Cristiano Ronaldo e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ciclos R90 de 90 minutos y optimización de la liberación de la hormona del crecimiento
+## 1. Ciclos R90 de 90 minutos y optimización de la liberación de la hormona del crecimiento
 
 Un ciclo de sueño humano natural consta de sueño No-REM y REM que dura aproximadamente 90 minutes. Despertarse bruscamente a mitad de un ciclo causa 'inercia del sueño', dejando el cerebro aturdido. 
 
@@ -47,9 +48,7 @@ El sueño polifásico de 90 minutos de Ronaldo respeta el ciclo natural del cere
 
 ---
 
-## Un entorno aislado y una postura correcta determinan la eficiencia del sueño
-
-Para tener éxito con el sueño polifásico o las siestas cortas, el control ambiental debe ser total. Las filtraciones de luz o el ruido interrumpen la relajación profunda del cerebro. Para reducir el esfuerzo cardiovascular y mantener la columna alineada, duerma en posición fetal de lado con las rodillas flexionadas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Para tener éxito con el sueño polifásico o las siestas cortas, el control amb
   </p>
 </div>
 
+---
+
+## 3. Un entorno aislado y una postura correcta determinan la eficiencia del sueño
+
+Para tener éxito con el sueño polifásico o las siestas cortas, el control ambiental debe ser total. Las filtraciones de luz o el ruido interrumpen la relajación profunda del cerebro. Para reducir el esfuerzo cardiovascular y mantener la columna alineada, duerma en posición fetal de lado con las rodillas flexionadas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Necesito hacer este sueño polifásico durante el día si ya duermo bien por la noche?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Para tener éxito con el sueño polifásico o las siestas cortas, el control amb
       Para trabajadores de oficina de rutina normal, no es necesario repetir sesiones de 90 minutos durante el día. Sin embargo, si realiza entrenamientos físicos intensos o sufre falta de sueño por trabajo nocturno, aplicar temporalmente un ciclo de 90 o 30 minutos es excelente para reiniciar su cuerpo.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Al dormir en posición fetal, ¿qué lado es mejor?</span>

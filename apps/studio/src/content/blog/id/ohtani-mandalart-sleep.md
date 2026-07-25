@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Visualisasi Target dan Istirahat Mendalam: Metode Mandalart dan Rutinitas Tidur 10 Jam Ohtani"
 description: "Shohei Ohtani menulis ulang sejarah bisbol modern. Ungkap mekanisme ilmu saraf di balik metode perencanaan Mandalart 81 kotak masa SMA dan rutinitas tidur pemulihan 10 jam sehari untuk memaksimalkan pemulihan fisik."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Dalam artikel ini, kami mengupas mekanisme ilmu saraf di balik arsitektur target
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai ohtani-mandalart-sleep didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Shohei Ohtani & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Shohei Ohtani & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Konkretisasi Rencana Mandalart dan Mekanisme Pemulihan Neurosains dari Tidur Durasi Panjang
+## 1. Efek Konkretisasi Rencana Mandalart dan Mekanisme Pemulihan Neurosains dari Tidur Durasi Panjang
 
 Teknik Mandalart memecah target abstrak menjadi tindakan konkret, memblokir beban kerja kognitif dan menstimulasi sirkuit eksekusi otak. Di sisi lain, kebiasaan utama Ohtani tidur selama 10 jam mendorong sistem glimfatik otak. Cairan serebrospinal membersihkan limbah metabolisme yang menumpuk selama aktivitas siang hari, memulihkan energi kognitif korteks prefrontal. Selain itu, tidur secara aman mengkonsolidasikan ingatan gerakan otot lemparan dan pukulan yang dilatih hari itu ke dalam penyimpanan ingatan motorik jangka panjang di serebelum.
 
 ---
 
-## Peringatan dan Tip
-
-Meningkatkan durasi tidur secara berlebihan secara tiba-tiba justru dapat menyebabkan tubuh terasa lemas. Adalah bijak untuk meningkatkan jumlah tidur dasar 7–8 jam secara bertahap sesuai metabolisme tubuh. Jika waktu tidur malam kurang, kombinasikan dengan tidur siang singkat (power nap) selama 20–30 menit di siang hari untuk melengkapi total waktu pemulihan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Meningkatkan durasi tidur secara berlebihan secara tiba-tiba justru dapat menyeb
     Tidurlah lebih dari 8 jam di malam hari dan kombinasikan dengan tidur siang singkat selama 20–30 menit saat konsentrasi menurun di sore hari untuk memenuhi total 10 jam waktu pengisian daya tubuh harian.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tip
+
+Meningkatkan durasi tidur secara berlebihan secara tiba-tiba justru dapat menyebabkan tubuh terasa lemas. Adalah bijak untuk meningkatkan jumlah tidur dasar 7–8 jam secara bertahap sesuai metabolisme tubuh. Jika waktu tidur malam kurang, kombinasikan dengan tidur siang singkat (power nap) selama 20–30 menit di siang hari untuk melengkapi total waktu pemulihan.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

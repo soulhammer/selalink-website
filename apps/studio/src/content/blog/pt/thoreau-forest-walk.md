@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Caminhar 4 horas por dia na floresta: A rotina de caminhada de restauração natural de Henry David Thoreau"
 description: "Apresentando a rotina diária de caminhada de 4 horas de Henry David Thoreau ao redor da lagoa Walden. Explica os princípios neurocientíficos de como caminhar na natureza restaura a atenção e desperta a criatividade."
 pubDate: "2026-04-30"
@@ -29,25 +30,23 @@ Henry David Thoreau, o eminente pensador e escritor norte-americano que praticou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre thoreau-forest-walk é baseada em <strong>Biografias históricas e registros autobiográficos de Henry David Thoreau & pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Henry David Thoreau & pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teoria da Restauração da Atenção (ART): O efeito curativo de caminhar na natureza sobre o córtex pré-frontal fatigado
+## 1. Teoria da Restauração da Atenção (ART): O efeito curativo de caminhar na natureza sobre o córtex pré-frontal fatigado
 
 De acordo com a 'Teoria da Restauração da Atenção (ART)' da ciência cognitiva, ambientes urbanos repletos de estímulos artificiais complexos (semáforos, telas) esgotam constantemente os recursos de atenção dirigida do cérebro. Em contrapartida, ambientes naturais como florestas ou parques proporcionam estímulos de 'Fascinação Suave (Soft Fascination)' — como árvores balançando ao vento ou o sussurro das folhas —, permitindo que o córtex pré-frontal fatigado descanse. Além disso, caminhar ativa a Rede de Modo Padrão (DMN) do cérebro, unindo pensamentos dispersos e abrindo novos avanços intelectuais.
 
 ---
 
-## Desconecte-se completamente do ruído digital durante a caminhada
-
-Para Henry David Thoreau, caminhar na natureza era um ritual sagrado de diálogo solitário com o mundo natural. Se você caminhar olhando para a tela do smartphone ou respondendo a notificações, o mecanismo de restauração da atenção não funcionará. Durante a caminhada, permaneça off-line e abra todos os seus sentidos para as plantas e mudanças de estação.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,9 +78,15 @@ Para Henry David Thoreau, caminhar na natureza era um ritual sagrado de diálogo
   </p>
 </div>
 
+---
+
+## 3. Desconecte-se completamente do ruído digital durante a caminhada
+
+Para Henry David Thoreau, caminhar na natureza era um ritual sagrado de diálogo solitário com o mundo natural. Se você caminhar olhando para a tela do smartphone ou respondendo a notificações, o mecanismo de restauração da atenção não funcionará. Durante a caminhada, permaneça off-line e abra todos os seus sentidos para as plantas e mudanças de estação.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

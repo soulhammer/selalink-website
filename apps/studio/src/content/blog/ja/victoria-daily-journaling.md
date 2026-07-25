@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "帝国の重みと省察：ヴィクトリア女王の毎晩の journal 書き習慣"
 description: "大英帝国の全盛期を統治したヴィクトリア女王が生涯で122巻の日記を綴った省察習慣。手書きの表現的執筆が副交感神経を活性化し前頭葉を整理する科学的メカニズムを探ります。"
 pubDate: "2026-05-07"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「victoria-daily-journaling」は <strong>ヴィクトリア女王の歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ヴィクトリア女王の歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 表現的執筆の感情レーベリングと前頭葉の活性化
+## 1. 表現的執筆の感情レーベリングと前頭葉の活性化
 
 不安や憂鬱などの原因不明の否定的な感情が脳内に満ちている時、脳の辺縁系（Limbic System）は緊急事態と認識して認知統制力を弱めます。手書きによる日記執筆は、認知科学でいう「表現的執筆（Expressive Writing）」および「感情レーベリング（Affect Labeling）」を促進します。頭の中の複雑な感情を物理的な言葉として命名し紙に書き下ろす時、加熱していた右側扁桃体の活性は鈍化する一方、理性的判断を助ける左側前頭葉皮質が活性化します。これは脳に「状況はコントロールされている」という強力なシグナルを与え、情緒的渦中を静めます。
 
 ---
 
-## 注意事項およびヒント
-
-表現的執筆ルーティンを実行する際に避けるべき行動は、スペルや文章力などの技巧に執着することです。文章をうまく書かなければならない、論理的でなければならないという圧迫感を感じると、脳はこれを評価される作業と解釈し、返って疲労度を高めてしまいます。したがって文の完成度や他人の目は完全に忘れ、頭に浮かぶ感情の流れを生のまま紙面に迷いなく吐き出す自由執筆の形態をとることが肝心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     日記帳を閉じながら「今日のすべての悩みはこの紙面に保管された」と自ら宣言し、脳に認知的終了シグナルを与えて睡眠に入ります。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびヒント
+
+表現的執筆ルーティンを実行する際に避けるべき行動は、スペルや文章力などの技巧に執着することです。文章をうまく書かなければならない、論理的でなければならないという圧迫感を感じると、脳はこれを評価される作業と解釈し、返って疲労度を高めてしまいます。したがって文の完成度や他人の目は完全に忘れ、頭に浮かぶ感情の流れを生のまま紙面に迷いなく吐き出す自由執筆の形態をとることが肝心です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

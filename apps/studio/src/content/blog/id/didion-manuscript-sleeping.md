@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Otak Anda Menyelesaikan Proposal Saat Anda Tidur: Rutinitas Tidur Bersama Manuskrip ala Joan Didion dan Priming Tidur REM"
 description: "Pelajari bagaimana esaiis legendaris Amerika Joan Didion tidur di kamar yang sama dengan manuskripnya yang belum selesai untuk mengurai narasi yang rumit. Temukan neurosains kognitif tentang priming kognitif dan konsolidasi memori selama tidur REM."
 pubDate: "2026-06-02"
@@ -33,25 +34,23 @@ Kapan pun ia menemui hambatan yang tak teratasi dalam sebuah manuskrip, Didion m
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai didion-manuscript-sleeping didasarkan pada <strong>Verifikasi Historis dari Biografi Tracy Daugherty *The Last Love Song* & *The Paris Review* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Tracy Daugherty *The Last Love Song* & *The Paris Review* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Konsolidasi Ulang Asosiatif dalam Tidur REM dan Priming Kognitif Sebelum Tidur
+## 1. Konsolidasi Ulang Asosiatif dalam Tidur REM dan Priming Kognitif Sebelum Tidur
 
 Selama jam-jam bangun, korteks prefrontal mempertahankan kontrol eksekutif yang ketat, membatasi pola pikir pada skema yang familier. Meninjau masalah yang belum terpecahkan atau membaca manuskrip fisik tepat sebelum tidur memicu 'Priming Kognitif'. Ketika otak memasuki tidur Rapid Eye Movement (REM), pemblokiran eksekutif prefrontal terlepas sementara hipokampus dan amigdala secara aktif melepaskan tembakan sirkuit. Selama tidur REM, otak mengalami 'Konsolidasi Ulang Asosiatif'.
 
 ---
 
-## Perhatian & Tip: Memblokir Stimulus Cahaya Biru & Mengadopsi Priming Kertas Analog
-
-Memeriksa proposal pada layar smartphone atau tablet tepat sebelum tidur mengekspos retina pada cahaya biru, menekan sekresi melatonin dan mengganggu arsitektur tidur REM. Untuk mempertahankan kualitas tidur untuk priming, tinjau cetakan kertas fisik atau buku catatan analog secara ketat selama 5 menit sebelum tidur. Kemudian, pejamkan mata Anda dan visualisasikan tujuan utama secara mental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Memeriksa proposal pada layar smartphone atau tablet tepat sebelum tidur mengeks
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Memblokir Stimulus Cahaya Biru & Mengadopsi Priming Kertas Analog
+
+Memeriksa proposal pada layar smartphone atau tablet tepat sebelum tidur mengekspos retina pada cahaya biru, menekan sekresi melatonin dan mengganggu arsitektur tidur REM. Untuk mempertahankan kualitas tidur untuk priming, tinjau cetakan kertas fisik atau buku catatan analog secara ketat selama 5 menit sebelum tidur. Kemudian, pejamkan mata Anda dan visualisasikan tujuan utama secara mental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah memikirkan masalah yang belum terpecahkan sebelum tidur akan memicu insomnia?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Memeriksa proposal pada layar smartphone atau tablet tepat sebelum tidur mengeks
       Jika Anda memaksakan solusi secara stres, ya. Kuncinya adalah menghindari rasa khawatir yang aktif. Cukup pemindai materi kertas secara pasif seperti membaca dongeng sebelum tidur, lalu secara sadar limpahkan pemrosesan tersebut ke bawah sadar Anda. Pola pikir santai ini mencegah stimulasi simpatis.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah rutinitas ini gagal jika ide terobosan tidak langsung muncul saat terbangun?</span>

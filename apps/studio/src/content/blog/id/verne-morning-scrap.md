@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Patung Pengetahuan Pukul 5 Pagi: Kebiasaan Kliping Jules Verne untuk Merancang Detail"
 description: "Pelajari kebiasaan kliping kartu informasi yang dilakukan setiap jam 5 pagi oleh Jules Verne, pelopor fiksi ilmiah. Panduan praktis modern 3 langkah untuk mengkategorikan informasi dan memperkuat memori semantik."
 pubDate: "2026-06-02"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami menjelajahi prinsip-prinsip ilmiah di balik kebia
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai verne-morning-scrap didasarkan pada <strong>Biografi historis dan catatan autobiografi Jules Verne & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi Jules Verne & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Pengarsipan Terkategori Terelaborasi': Memperkuat Memori Semantik
+## 1. 'Pengarsipan Terkategori Terelaborasi': Memperkuat Memori Semantik
 
 Daripada hanya membaca sepintas pengetahuan yang diperoleh, proses meringkas informasi secara manual ke kartu indeks utama dan mengkategorikannya secara drastis memperkuat jaringan memori semantik otak. Dalam psikologi kognitif, ini dikenal sebagai <strong>'Gladikotor Terelaborasi'</strong>, sebuah teknik yang menenun potongan informasi baru secara erat ke dalam struktur kognitif yang ada untuk penyimpanan jangka panjang. Mengurutkan kartu secara fisik menstimulasi jalur visual dan motorik di otak, mengenali keterkaitan struktural. Kebiasaan ini mengaktifkan jalur penarikan memori asosiatif, memfasilitasi perakitan ide-ide kreatif secara lancar.
 
 ---
 
-## Mencegah Collector's Fallacy dan Memaksimalkan Utilitas Praktis
-
-Jebakan utama dari rutinitas kliping adalah jatuh ke dalam 'Collector's Fallacy', merasakan pencapaian semu hanya dengan mengumpulkan dan menyimpan pengetahuan. Membuat kartu harus menjadi sarana untuk mengikat secara mendalam dan menerapkan pengetahuan di otak. Ringkasan harus disaring dengan kata-kata Anda sendiri, dan Anda harus secara teratur meninjau arsip kartu Anda untuk menghubungkan wawasan ke dalam tulisan atau diskusi.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Jebakan utama dari rutinitas kliping adalah jatuh ke dalam 'Collector's Fallacy'
     Di akhir pekan atau waktu yang ditentukan, ambil 5–6 kartu tersimpan secara acak dari laci Anda, baca kembali, dan gabungkan informasi yang tampaknya tidak berhubungan untuk menciptakan sinergi ide atau dituangkan ke dalam tulisan.
   </p>
 </div>
+
+---
+
+## 3. Mencegah Collector's Fallacy dan Memaksimalkan Utilitas Praktis
+
+Jebakan utama dari rutinitas kliping adalah jatuh ke dalam 'Collector's Fallacy', merasakan pencapaian semu hanya dengan mengumpulkan dan menyimpan pengetahuan. Membuat kartu harus menjadi sarana untuk mengikat secara mendalam dan menerapkan pengetahuan di otak. Ringkasan harus disaring dengan kata-kata Anda sendiri, dan Anda harus secara teratur meninjau arsip kartu Anda untuk menghubungkan wawasan ke dalam tulisan atau diskusi.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

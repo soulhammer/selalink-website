@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le philosophe qui posait des questions pieds nus : L'habitude de marche cognitive de Socrate"
 description: "Socrate, la sagesse de la Grèce antique qui a développé sa pensée en marchant. Explorez les principes neuroscientifiques de la marche stimulant l'hippocampe et la flexibilité cognitive."
 pubDate: "2026-03-06"
@@ -31,25 +32,23 @@ Dans cet article, nous explorons les principes neuroscientifiques du rituel de m
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant socrates-walking-dialogue est basée sur <strong>Recherche biographique historique sur Socrate & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique historique sur Socrate & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroplasticité de l'hippocampe et flexibilité aérobique
+## 1. Neuroplasticité de l'hippocampe et flexibilité aérobique
 
 La marche sert de pompe physiologique propulsant oxygène et flux sanguin dans tout le cerveau. Elle augmente le rythme cardiaque et stimule la sécrétion du facteur neurotrophique dérivé du cerveau (BDNF). Le BDNF remanie les connexions synaptiques de l'hippocampe, agissant comme lubrifiant pour la plasticité neuronale. De plus, la pression rythmique sur la plante des pieds réprime les boucles excessives du réseau DMN.
 
 ---
 
-## Un conseil neuroscientifique pour une routine réussie
-
-Un corps en mouvement rebranche les fusibles du cerveau. Fixer un écran en fronçant les sourcils ne résoudra pas des problèmes complexes lorsque la mémoire de travail est saturée. Sortez marcher pendant 15 minutes comme Socrate pour stimuler le flux sanguin cérébral. Votre esprit trouvera des percées logiques au rythme de vos pas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Un corps en mouvement rebranche les fusibles du cerveau. Fixer un écran en fron
     Définissez une question principale pour la journée. En marchant, demandez-vous 'Pourquoi ?' et répondez-y, en répétant le cycle pour révéler des idées inattendues.
   </p>
 </div>
+
+---
+
+## 3. Un conseil neuroscientifique pour une routine réussie
+
+Un corps en mouvement rebranche les fusibles du cerveau. Fixer un écran en fronçant les sourcils ne résoudra pas des problèmes complexes lorsque la mémoire de travail est saturée. Sortez marcher pendant 15 minutes comme Socrate pour stimuler le flux sanguin cérébral. Votre esprit trouvera des percées logiques au rythme de vos pas.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

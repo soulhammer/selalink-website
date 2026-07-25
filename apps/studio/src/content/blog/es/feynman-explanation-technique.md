@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Método de Aprendizaje Superrápido del Premio Nobel: El Hábito de Enseñar y la Máxima Metacognición de Richard Feynman"
 description: "Descubra cómo el premio Nobel Richard Feynman enseñaba mecánica cuántica compleja para que la entendiera un niño de 10 años. Explore la neurociencia cognitiva de la metacognición, el recuerdo activo y la Técnica Feynman."
 pubDate: "2026-02-11"
@@ -38,22 +39,20 @@ En la publicación de hoy, revelamos la verdad neurocientífica detrás de la T�
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre feynman-explanation-technique se basa en <strong>Verificación Histórica de la Autobiografía de Richard Feynman *¿Está usted de broma, Sr. Feynman!*, Archivos de Lecturas de Caltech e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Richard Feynman *¿Está usted de broma, Sr. Feynman!*, Archivos de Lecturas de Caltech e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Metacognición y Recuerdo Activo: Exponiendo los Límites del Conocimiento
+## 1. Metacognición y Recuerdo Activo: Exponiendo los Límites del Conocimiento
 
 Leer o escuchar información de forma pasiva no logra codificar recuerdos en el almacenamiento a largo plazo. Por el contrario, verbalizar conceptos o resumirlos en un lenguaje sencillo activa la <strong>Recuperación Activa</strong> del cerebro, consolidando el conocimiento. Explicar ideas con analogías intuitivas estimula la <strong>Metacognición</strong> (evaluar la propia comprensión). Eliminar la jerga técnica expone la ilusión de competencia, separando la comprensión real del simple aprendizaje memorístico. Así, la corteza prefrontal y el hipocampo reorganizan las conexiones sinápticas hacia la <strong>Memoria a Largo Plazo</strong>.
 
 ---
 
-## Precaución: Rompa la Trampa de la Ilusión de Competencia Mediante el Recuerdo Activo
-
-Ojear textos o ver conferencias genera una falsa sensación de seguridad (ilusión de competencia) sin activar las vías metacognitivas. Como Feynman, dedique solo 10 minutos tras estudiar a explicar el tema en voz alta frente a un papel en blanco. Todo lo que no pueda explicar no es aún su conocimiento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ojear textos o ver conferencias genera una falsa sensación de seguridad (ilusi�
   </p>
 </div>
 
+---
+
+## 3. Precaución: Rompa la Trampa de la Ilusión de Competencia Mediante el Recuerdo Activo
+
+Ojear textos o ver conferencias genera una falsa sensación de seguridad (ilusión de competencia) sin activar las vías metacognitivas. Como Feynman, dedique solo 10 minutos tras estudiar a explicar el tema en voz alta frente a un papel en blanco. Todo lo que no pueda explicar no es aún su conocimiento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué hago si no tengo un niño real cerca a quien explicarle?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ojear textos o ver conferencias genera una falsa sensación de seguridad (ilusi�
       No necesita un niño real. Puede imaginar a un compañero, un peluche en su escritorio o usar un chatbot de IA configurado para un nivel de 10 años. Lo esencial es el filtro mental: eliminar la jerga técnica.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es normal que las frases se vuelvan largas e incómodas al eliminar la jerga técnica?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在乡村花园修土拔草并沉浸于风声中的海瑟自然沉思法与DMN放松习惯"
 description: "探索荣获诺贝尔文学奖、热爱森林与自然的和平主义作家赫尔曼·黑塞如何通过每日触摸花园泥土与修剪枝桠来平息神经衰弱与深度焦虑。剖析其模拟园丁习惯背后的神经科学原理。"
 pubDate: "2026-02-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 hesse 的内容基于 <strong>赫尔曼·黑塞散文集《园艺的乐趣（Freude am Garten）》与书信集考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong> 撰写。
+      本内容基于 <strong>赫尔曼·黑塞散文集《园艺的乐趣（Freude am Garten）》与书信集考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 抑制预设模式网络（DMN）过度激活与神经系统放松机制
+## 1. 抑制预设模式网络（DMN）过度激活与神经系统放松机制
 
 通过简单的体力劳作将注意力聚焦于大自然的泥土、森林与多感官刺激中，能强力压制主导反刍思维（Rumination）与胡思乱想的大脑<strong>“预设模式网络（Default Mode Network，DMN）”</strong>的过度激活。这一生理跃迁可使应激激素<strong>皮质醇（Cortisol）</strong>浓度骤降，并强效唤醒<strong>“副交感神经系统（Parasympathetic Nervous System）”</strong>，从而彻底涤荡慢性焦虑与前额叶皮层的认知疲劳，赋予内心深度的情绪宁静。
 
 ---
 
-## 注意事项：屏蔽工作杂念，全情沉浸于模拟感官刺激中指南
-
-在漫步踱步或打理花园时，切勿将今日份的工作烦忧或焦虑情绪强行夹带其中。在长达10-15分钟的时段内，须将注意力死死定格于被动接收外部模拟感官信息上——如指尖触碰泥土的质感、呼啸的风声、树叶的芳香，唯有如此，大脑的认知疲劳方能获得完全复苏。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：屏蔽工作杂念，全情沉浸于模拟感官刺激中指南
+
+在漫步踱步或打理花园时，切勿将今日份的工作烦忧或焦虑情绪强行夹带其中。在长达10-15分钟的时段内，须将注意力死死定格于被动接收外部模拟感官信息上——如指尖触碰泥土的质感、呼啸的风声、树叶的芳香，唯有如此，大脑的认知疲劳方能获得完全复苏。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>是否必须亲手触摸泥土并从事除草或锯木头之类的体力劳作？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       如同海瑟般触摸花园泥土与拔除杂草的物理躯体活动，能为疲惫的前额叶提供停止“定向注意力”的完美信号。然而，若缺乏花园，只需漫步林间小径、抚摸树枝或倾听风声，便能斩获同等卓越的神经放松效益。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若居住于不具备庭院或泥土的公寓及都市环境中，该如何等效替代？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El secreto para tomar decisiones acertadas? La rutina de simplificación de decisiones de Barack Obama"
 description: "Descubra la rutina de simplificación de decisiones que practicó Barack Obama durante su presidencia. Una guía de 3 pasos para preservar la energía prefrontal y optimizar decisiones."
 pubDate: "2026-01-06"
@@ -36,14 +37,14 @@ En este artículo, explicamos la ciencia tras la rutina de simplificación de Ob
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre obama-decision-simplification se basa en <strong>Biografías históricas y registros autobiográficos de Barack Obama e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Barack Obama e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Fatiga de decisión y agotamiento del ego: Límites prefrontales
+## 1. Fatiga de decisión y agotamiento del ego: Límites prefrontales
 
 Estudios demuestran que la capacidad de decidir funciona como una batería finita. Elegir qué ropa o comida usar consume fuerza de voluntad prefrontal. Este agotamiento se conoce como <strong>'Agotamiento del Ego (Ego Depletion)'</strong> o <strong>'Fatiga de Decisión'</strong>.
 
@@ -51,9 +52,7 @@ Cuando la fatiga se acumula, la capacidad de control se deteriora, provocando im
 
 ---
 
-## Consejo neurocientífico para gestionar sus decisiones
-
-Menos elecciones triviales significan mayor concentración. Simplifique las decisiones cotidianas para evitar fugas de energía mental y potenciar sus objetivos principales.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Menos elecciones triviales significan mayor concentración. Simplifique las deci
     Aproveche la energía ahorrada por la mañana. No la malgaste en correos fútiles; enfrente su decisión más compleja como primera tarea del día.
   </p>
 </div>
+
+---
+
+## 3. Consejo neurocientífico para gestionar sus decisiones
+
+Menos elecciones triviales significan mayor concentración. Simplifique las decisiones cotidianas para evitar fugas de energía mental y potenciar sus objetivos principales.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

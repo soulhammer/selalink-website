@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gravar a luz no cérebro? O método de observação da sensibilidade ao contraste ao amanhecer de Turner"
 description: "A expressão de cor única do 'pintor da luz' J.M.W. Turner nasceu do seu hábito diário de contemplar o nascer do sol. Descubra o método de contemplação da cor de Turner que ativa a cognição visual."
 pubDate: "2026-02-27"
@@ -33,17 +34,17 @@ Esta rotina baseia-se em um rigoroso mecanismo científico que reduz a sobrecarg
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre turner-dawn-observation é baseada em <strong>Biografias históricas e registros autobiográficos de J.M.W. Turner e pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de J.M.W. Turner e pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mudanças graduais na luz estimulando o córtex visual
+## 1. Mudanças graduais na luz estimulando o córtex visual
 
 O céu ao nascer do sol passa por uma rápida mudança na temperatura de cor em pouco tempo, mudando de uma luz azul fraca para uma luz natural brilhante. Essa estimulação visual gradual treina intensamente a sensibilidade ao contraste do córtex visual do cérebro.
 
@@ -51,9 +52,7 @@ Treinar a mente para elaborar informações visuais e gravá-las no 'olho da men
 
 ---
 
-## Atenção: Não contemple diretamente a luz solar intensa
-
-O cerne da rotina de Turner não é olhar diretamente para a fonte de luz solar forte. É observar a luz suave e dispersa que se espalha pelo céu pálido, névoa ou nuvens antes do nascer do sol. Para evitar danos à retina, evite olhar diretamente para o sol por longos períodos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O cerne da rotina de Turner não é olhar diretamente para a fonte de luz solar 
   </p>
 </div>
 
+---
+
+## 3. Atenção: Não contemple diretamente a luz solar intensa
+
+O cerne da rotina de Turner não é olhar diretamente para a fonte de luz solar forte. É observar a luz suave e dispersa que se espalha pelo céu pálido, névoa ou nuvens antes do nascer do sol. Para evitar danos à retina, evite olhar diretamente para o sol por longos períodos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Devo realizar esta rotina mesmo em dias nublados ou com névoa?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O cerne da rotina de Turner não é olhar diretamente para a fonte de luz solar 
       Na verdade, é até melhor. Turner preferia observar a luz atmosférica dispersa em dias nublados, com neve ou névoa do que em dias ensolarados. Em dias nublados, é possível capturar muito melhor as transições sutis de sombras criadas pela luz e pela umidade.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Posso observar a luz solar durante o dia se for difícil acordar cedo ao amanhecer?</span>

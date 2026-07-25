@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Salvação da Humanidade Resgatada do Lixo: O Método de Observação do Fracasso e Rotina de Descoberta de Alexander Fleming"
 description: "Descubra como Alexander Fleming, o lendário descobridor da penicilina, transformou a história da medicina ao observar uma placa de Petri contaminada em vez de descartá-la. Explore a neurociência da fixação cognitiva e do pensamento divergente."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência por trás da rotina de observaçã
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre fleming-petridish-observation é baseada em <strong>Verificação Histórica de *The Life of Sir Alexander Fleming* de André Maurois, Arquivos do Nobel e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *The Life of Sir Alexander Fleming* de André Maurois, Arquivos do Nobel e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Como o Pensamento Divergente Quebra a Fixação Cognitiva e Libera a Serendipidade
+## 1. Como o Pensamento Divergente Quebra a Fixação Cognitiva e Libera a Serendipidade
 
 O cérebro tende a filtrar anomalias por considerá-las ruído irrelevante para economizar energia, um fenômeno conhecido como <strong>Fixação Cognitiva</strong>. Por isso, outros pesquisadores descartavam placas contaminadas sem pensar. Examinar intencionalmente os 'fracassos' como Fleming ativa a <strong>Rede de Atenção Frontoparietal</strong>, redefinindo filtros cognitivos. Reexplorar detalhes ignorados leva o cérebro ao <strong>Pensamento Divergente</strong>, revelando conexões valiosas.
 
 ---
 
-## Precaução: Capture Pistas nas Marcas de Erros e Fracassos
-
-Ao cometer erros, as pessoas tendem a apagar ou esquecer rapidamente a experiência para evitar o estresse. Contudo, como demonstrou a placa de Petri de Fleming, inovações revolucionárias raramente surgem do sucesso perfeito; elas se escondem em imprevistos e falhas. Observar o fracasso desperta a verdadeira genialidade.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ao cometer erros, as pessoas tendem a apagar ou esquecer rapidamente a experiên
   </p>
 </div>
 
+---
+
+## 3. Precaução: Capture Pistas nas Marcas de Erros e Fracassos
+
+Ao cometer erros, as pessoas tendem a apagar ou esquecer rapidamente a experiência para evitar o estresse. Contudo, como demonstrou a placa de Petri de Fleming, inovações revolucionárias raramente surgem do sucesso perfeito; elas se escondem em imprevistos e falhas. Observar o fracasso desperta a verdadeira genialidade.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Analisar os fracasos não aumentará a frustração mental e o desânimo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ao cometer erros, as pessoas tendem a apagar ou esquecer rapidamente a experiên
       Tentar ignorar erros prolonga a ansiedade. Por outro lado, anotar dados objetivos sobre as causas da falha indica ao cérebro que você recuperou o 'controle' da situação, reduzindo o estresse e resgatando a motivação.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existem exercícios de treinamento cerebral para capturar melhor as serendipidades?</span>

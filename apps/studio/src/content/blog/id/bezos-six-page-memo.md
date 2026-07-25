@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "30 Menit Keheningan dan Memo 6 Halaman: Metode Rapat Amazon ala Jeff Bezos dan Neurosains Membaca"
 description: "Pelajari rahasia pengambilan keputusan Jeff Bezos yang melarang presentasi PPT di Amazon dan mewajibkan pembacaan memo naratif 6 halaman secara hening selama 30 menit di awal rapat, serta temukan prinsip neurosains tentang bagaimana membaca narasi merangsang korteks prefrontal untuk memaksimalkan penilaian."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik metode 'pembacaa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai bezos-six-page-memo didasarkan pada <strong>Verifikasi Historis dari Surat Pemegang Saham Jeff Bezos & Buku Colin Bryar *Working Backwards* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Surat Pemegang Saham Jeff Bezos & Buku Colin Bryar *Working Backwards* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bagaimana Membaca Memo Naratif Memaksimalkan Penilaian Korteks Prefrontal
+## 1. Bagaimana Membaca Memo Naratif Memaksimalkan Penilaian Korteks Prefrontal
 
 Poin-poin bersusun yang terfragmentasi memberikan ilusi kejelasan, tetapi pada kenyataannya sering kali menyembunyikan celah logika dan mengaburkan hubungan sebab-akibat yang rumit. Sebaliknya, membaca teks naratif lengkap secara mendalam sangat mengaktifkan korteks prefrontal otak. Korteks prefrontal adalah pusat kontrol eksekutif tingkat tertinggi yang bertanggung jawab untuk menganalisis sebab-akibat, menggunakan memori kerja, dan menimbang pro dan kontra secara logis. Membaca hening meningkatkan kepadatan pemrosesan informasi di korteks prefrontal, mencegah kesalahan penilaian, dan memungkinkan sinkronisasi kognitif yang mulus di antara peserta rapat.
 
 ---
 
-## Perhatian & Tip: Menghindari Sekadar Daftar Poin-Poin & Membangun Kausalitas yang Jelas
-
-Saat menulis memo naratif 6 halaman, hindari sekadar memperpanjang poin-poin pendek menjadi kalimat lengkap. Narasi harus mengartikulasikan hubungan sebab-akibat yang jelas (misalnya, Masalah A memicu Hasil B, yang dapat diselesaikan melalui Solusi C untuk menghasilkan Nilai Bisnis D). Tulisan yang hanya mendaftar fakta tanpa koneksi logis meningkatkan beban kognitif dan kelelahan otak; oleh karena itu, pertahankan struktur logis yang ketat didukung bukti.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Saat menulis memo naratif 6 halaman, hindari sekadar memperpanjang poin-poin pen
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menghindari Sekadar Daftar Poin-Poin & Membangun Kausalitas yang Jelas
+
+Saat menulis memo naratif 6 halaman, hindari sekadar memperpanjang poin-poin pendek menjadi kalimat lengkap. Narasi harus mengartikulasikan hubungan sebab-akibat yang jelas (misalnya, Masalah A memicu Hasil B, yang dapat diselesaikan melalui Solusi C untuk menghasilkan Nilai Bisnis D). Tulisan yang hanya mendaftar fakta tanpa koneksi logis meningkatkan beban kognitif dan kelelahan otak; oleh karena itu, pertahankan struktur logis yang ketat didukung bukti.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa mengadakan sesi membaca hening selama rapat daripada meminta orang membacanya terlebih dahulu?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Saat menulis memo naratif 6 halaman, hindari sekadar memperpanjang poin-poin pen
       Ketika orang diminta membaca terlebih dahulu, kesibukan jadwal sering kali membuat mereka hanya memindai sepintas atau tidak membacanya sama sekali. Dengan memberlakukan sesi membaca hening selama 30 menit di ruang rapat, Bezos menjamin sinkronisasi kognitif yang lengkap, memastikan setiap peserta memasuki diskusi dengan kedalaman dan konteks yang identik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah menulis memo naratif 6 halaman tidak menyita terlalu banyak waktu dan tenaga?</span>

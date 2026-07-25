@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Dar a Luz Obras Maestras en el Silencio Absoluto: La Rutina de Escritura Nocturna de Franz Kafka y la Down-Regulation Frontal"
 description: "Descubra cómo el titán literario del siglo XX Franz Kafka compuso obras maestras como La metamorfosis escribiendo desde las 11 PM hasta el amanecer en absoluto silencio. Explore la neurociencia de la regulación descendante frontal y la memoria de trabajo."
 pubDate: "2026-04-01"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre kafka-late-night-writing se basa en <strong>Verificación Histórica de la Biografía de Max Brod *Franz Kafka*, Diarios de Kafka e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Max Brod *Franz Kafka*, Diarios de Kafka e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Regulación Descendente Frontal y Neurociencia de la Inmersión en el Silencio Absoluto
+## 1. Regulación Descendente Frontal y Neurociencia de la Inmersión en el Silencio Absoluto
 
 Durante el día, la <strong>Corteza Prefrontal</strong> consume energía manteniendo el control inhibidor y el filtro lógico. Por la noche, la fatiga relaja este filtro prefrontal, un estado conocido en neurociencia cognitiva como <strong>Regulación Descendente Frontal (Frontal Down-regulation)</strong>. Liberado de la censura, el cerebro accede al subconsciente, las emociones profundas y la creatividad desinhibida. Esta transición permitió a Kafka redactar una prosa única. Al mismo tiempo, el silencio nocturno elimina las interferencias auditivas en la <strong>Memoria de Trabajo</strong>, creando un entorno neuroquímico ideal para la concentración profunda.
 
 ---
 
-## Precaución: Asegure una Hora Dorada de Silencio Sin Alterar su Salud de Sueño
-
-Replicar la rutina de Kafka trasnochando a ciegas arriesga privación de sueño y agotamiento físico. La clave no es perder el sueño, sino crear intencionadamente 1 hora donde el ruido externo se elimine por completo. En lugar de pasar la noche en blanco, use auriculares con cancelación de ruido o aproveche las primeras horas de la mañana.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Replicar la rutina de Kafka trasnochando a ciegas arriesga privación de sueño 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Asegure una Hora Dorada de Silencio Sin Alterar su Salud de Sueño
+
+Replicar la rutina de Kafka trasnochando a ciegas arriesga privación de sueño y agotamiento físico. La clave no es perder el sueño, sino crear intencionadamente 1 hora donde el ruido externo se elimine por completo. En lugar de pasar la noche en blanco, use auriculares con cancelación de ruido o aproveche las primeras horas de la mañana.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Trabajar hasta tarde como Kafka no altera el ciclo natural de sueño?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Replicar la rutina de Kafka trasnochando a ciegas arriesga privación de sueño 
       Sí, trasnochar en exceso perjudica la salud. La clave no es la hora nocturna en sí, sino asegurar '1 hora de silencio absoluto' libre de interrupciones. Lograr esto mediante tecnología de cancelación de ruido o en las primeras horas de la mañana ofrece los mismos beneficios cognitivos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo adaptar la rutina de silencio de Kafka durante el día?</span>

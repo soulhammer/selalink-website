@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Warum der bissige Philosoph jeden Morgen Flöte spielte, um sein Gehirn zu kühlen: Schopenhauers kognitiver Reset"
 description: "Arthur Schopenhauer, Deutschlands großer pessimistischer Philosoph. Entdecken Sie seine physiologische Routine aus kaltem Gesichtswaschen und 30 Minuten Flötenspiel zur Erzeugung von Alpha-Wellen."
 pubDate: "2026-02-25"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir den physiologischen Wert von Schopenhauers Rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu schopenhauer-flute-refocus basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen zu Schopenhauer & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen zu Schopenhauer & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Trigeminusnerv-Stimulation & Alpha-Wellen-Modulation durch Bauchatmung
+## 1. Trigeminusnerv-Stimulation & Alpha-Wellen-Modulation durch Bauchatmung
 
 Kaltes Wasser im Gesicht aktiviert den Tauchreflex über den Trigeminus- und Vagusnerv. Dies senkt die Herzfrequenz und beruhigt die sympathische Übererregung. Die anschließende Feinmotorik und kontrollierte Bauchatmung beim Flötenspiel versetzen das Gehirn in den Zustand kognitiv effizienter Alpha-Wellen.
 
 ---
 
-## Hinweise zur Gesichtsstimulation & Atemtipps
-
-Zu langes Aussetzen des Gesichts in kaltem Wasser kann Hautreizungen oder Blutdruckschwankungen auslösen. Belassen Sie es bei leichten 15–30 Sekunden. Halten Sie beim Atmen das Verhältnis 1:1 ein, um Schwindel zu vermeiden.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Zu langes Aussetzen des Gesichts in kaltem Wasser kann Hautreizungen oder Blutdr
   </p>
 </div>
 
+---
+
+## 3. Hinweise zur Gesichtsstimulation & Atemtipps
+
+Zu langes Aussetzen des Gesichts in kaltem Wasser kann Hautreizungen oder Blutdruckschwankungen auslösen. Belassen Sie es bei leichten 15–30 Sekunden. Halten Sie beim Atmen das Verhältnis 1:1 ein, um Schwindel zu vermeiden.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann man als Anfänger ohne Instrumentenkenntnisse ebenfalls profitieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Zu langes Aussetzen des Gesichts in kaltem Wasser kann Hautreizungen oder Blutdr
       Absolut. Es geht nicht um fehlerfreies Spiel. Lassen Sie klassische Musik laufen und steuern Sie Ihre Atmung bewusst (5 Sek. Einatmen, 5 Sek. Ausatmen), um die Alpha-Wellen-Aktivierung zu erzielen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Warum stimuliert kaltes Gesichtswaschen den Vagusnerv und weckt das Gehirn?</span>

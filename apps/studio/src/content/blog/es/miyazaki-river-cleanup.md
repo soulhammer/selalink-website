@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La mañana despejada del maestro de Ghibli: La caminata de limpieza de ríos de Hayao Miyazaki"
 description: "Descubra por qué el director de Studio Ghibli, Hayao Miyazaki, recoge basura a lo largo del vecindario cada mañana. Vea cómo caminar y ordenar estimulan la creatividad genial."
 pubDate: "2026-02-24"
@@ -36,22 +37,20 @@ En este artículo, exploramos los principios científicos de la 'Caminata de Lim
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre miyazaki-river-cleanup se basa en <strong>Investigación de biografías históricas y registros de entrevistas de Hayao Miyazaki e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de biografías históricas y registros de entrevistas de Hayao Miyazaki e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El refresco creativo que la caminata altruista brinda al cerebro
+## 1. El refresco creativo que la caminata altruista brinda al cerebro
 
 El acto de dar una caminata ligera mientras se ordena el entorno activa de forma suave la <strong>Red Neuronal por Defecto (DMN)</strong> del cerebro. Esta red funciona cuando el cerebro descansa de tareas cognitivas dirigidas, conectando ideas dispersas para generar intuiciones frescas. Además, el trabajo físico de limpieza estimula la liberación matutina de serotonina, mejorando el estado de ánimo y la claridad mental.
 
 ---
 
-## Precauciones y consejos
-
-Si revisa su teléfono o se sumerge en pensamientos complejos durante la caminata, su cerebro no alcanzará el estado de relajación de la DMN. Desconectarse de dispositivos, <strong>apreciar el entorno natural circundante</strong> y enfocarse en ordenar los objetos físicos frente a usted son las claves para maximizar este hábito.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Si revisa su teléfono o se sumerge en pensamientos complejos durante la caminat
     Al regresar de la caminata, aproveche el estado relajado y despejado del lóbulo frontal cargado de serotonina para comenzar de inmediato su primera tarea de planificación creativa.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Si revisa su teléfono o se sumerge en pensamientos complejos durante la caminata, su cerebro no alcanzará el estado de relajación de la DMN. Desconectarse de dispositivos, <strong>apreciar el entorno natural circundante</strong> y enfocarse en ordenar los objetos físicos frente a usted son las claves para maximizar este hábito.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

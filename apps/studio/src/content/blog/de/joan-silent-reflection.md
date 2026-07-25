@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der unerschütterliche Anker der Überzeugung: Jeanne d'Arcs morgendliche Stille-Routine und Amygdala-Stabilisierung"
 description: "Erfahren Sie, wie die französische Nationalheldin Jeanne d'Arc im Hundertjährigen Krieg durch morgendliches stilles Gebet unerschütterliche Mut bewahrte. Entdecken Sie die Neuropsychologie der Geräuschreduktion und Amygdala-Beruhigung."
 pubDate: "2026-02-12"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Jeanne d'Arcs
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu joan-silent-reflection basiert auf <strong>Historische Überprüfung aus den Prozessakten von Jeanne d'Arc (*Procès de Condamnation et de Réhabilitation*) & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus den Prozessakten von Jeanne d'Arc (*Procès de Condamnation et de Réhabilitation*) & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Amygdala-Stabilisierung und kognitive Ausrichtung durch Geräuschreduktion
+## 1. Amygdala-Stabilisierung und kognitive Ausrichtung durch Geräuschreduktion
 
 Das ständige Einwirken visueller und auditiver Reize versetzt die <strong>Amygdala</strong> – das Alarmzentrum des Gehirns – in dauernde Bereitschaft. Ein bewusstes 10-minütiges Ausblenden von Lärm am Morgen Beruhigt die Amygdala und senkt die körperliche Anspannung. Die gedankliche Ausrichtung auf persönliche Werte bewirkt zudem eine <strong>kognitive Anpassung (Cognitive Alignment)</strong>, die innere Konflikte löst und die Widerstandskraft stärkt.
 
 ---
 
-## Vorsichtsmaßnahme: Äußere Störungen ausblenden und sich auf innere Werte konzentrieren
-
-Um den vollen Nutzen aus der morgendlichen Stille zu ziehen, richten Sie die Gedanken nach innen. Wer mit geschlossenen Augen über die Meinung anderer nachgrübelt, hält die Amygdala in Anspannung. Wie Jeanne d'Arc ihren Blick auf ihre innere Überzeugung richtete, sollten Sie äußeren Lärm ausblenden und sich auf einen zentralen Gedanken konzentrieren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Um den vollen Nutzen aus der morgendlichen Stille zu ziehen, richten Sie die Ged
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Äußere Störungen ausblenden und sich auf innere Werte konzentrieren
+
+Um den vollen Nutzen aus der morgendlichen Stille zu ziehen, richten Sie die Gedanken nach innen. Wer mit geschlossenen Augen über die Meinung anderer nachgrübelt, hält die Amygdala in Anspannung. Wie Jeanne d'Arc ihren Blick auf ihre innere Überzeugung richtete, sollten Sie äußeren Lärm ausblenden und sich auf einen zentralen Gedanken konzentrieren.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Muss ich im Morgengrauen aufstehen, wenn ich kein Frühaufsteher bin?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Um den vollen Nutzen aus der morgendlichen Stille zu ziehen, richten Sie die Ged
       Nein. Entscheidend ist, das Gehirn direkt nach dem Aufstehen zu sammeln, bevor digitale Reize auf Sie einströmen. 10 Minuten zu Ihrer gewohnten Aufstehzeit reichen völlig aus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist diese Stille-Routine auch für nicht-religiöse Menschen wirksam?</span>

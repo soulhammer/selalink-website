@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Saudari-Saudari yang Mengelilingi Meja Makan Malam: Diskusi Berjalan dan Metode Kreasi Neuron Cermin ala Charlotte Brontë"
 description: "Pelajari rutinitas Charlotte Brontë, penulis 'Jane Eyre', yang mengelilingi meja makan bersama saudara-saudaranya setiap malam untuk mengkritik karakter dan alur cerita, serta temukan mekanisme neurosains yang menggabungkan berjalan kaki dengan sistem neuron cermin untuk mencegah tunnel vision."
 pubDate: "2026-05-14"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'disku
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai bronte-table-walking didasarkan pada <strong>Verifikasi Historis dari Biografi Elizabeth Gaskell *The Life of Charlotte Brontë* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Elizabeth Gaskell *The Life of Charlotte Brontë* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mendorong Aliran Darah Otak Melalui Jalan Kaki dan Mengatasi Tunnel Vision dengan Neuron Cermin
+## 1. Mendorong Aliran Darah Otak Melalui Jalan Kaki dan Mengatasi Tunnel Vision dengan Neuron Cermin
 
 Berjalan kaki meningkatkan aliran darah otak dan oksigenasi sekaligus memicu pelepasan Brain-Derived Neurotrophic Factor (BDNF), meningkatkan pemikiran divergen kreatif lebih dari 60% dibandingkan saat duduk. Lebih jauh lagi, dialog terstruktur mengaktifkan sistem 'Neuron Cermin (Mirror Neurons)' dan jaringan Theory of Mind. Ini melawan 'Tunnel Vision' yang melekat pada pemikiran soliter, memungkinkan pencipta untuk melihat karya mereka melalui lensa orang ketiga yang objektif, mengungkapkan kelemahan logika dan celah alur secara mudah.
 
 ---
 
-## Perhatian & Tip: Mendengarkan Kritik secara Reseptif & Memblokir Sikap Defensif Emosional
-
-Inti dari rutinitas diskusi berjalan terletak pada saling menukar kritik yang dingin dan objektif alih-alih pujian sopan. Jika Anda mempersepsikan kritik sebagai serangan pribadi, otak Anda memicu mekanisme defensif amigdala (Amygdala), menutup reseptivitas kreatif. Anda harus secara ketat memisahkan 'harga diri Anda' dari 'ide Anda', memperlakukan umpan balik sebagai data netral yang mengidentifikasi celah struktural.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Inti dari rutinitas diskusi berjalan terletak pada saling menukar kritik yang di
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mendengarkan Kritik secara Reseptif & Memblokir Sikap Defensif Emosional
+
+Inti dari rutinitas diskusi berjalan terletak pada saling menukar kritik yang dingin dan objektif alih-alih pujian sopan. Jika Anda mempersepsikan kritik sebagai serangan pribadi, otak Anda memicu mekanisme defensif amigdala (Amygdala), menutup reseptivitas kreatif. Anda harus secara ketat memisahkan 'harga diri Anda' dari 'ide Anda', memperlakukan umpan balik sebagai data netral yang mengidentifikasi celah struktural.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah efek kreativitas berjalan kaki tetap terjadi dalam ruang kerja solo tanpa mitra?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Inti dari rutinitas diskusi berjalan terletak pada saling menukar kritik yang di
       Ya, berjalan kaki saja merangsang sekresi BDNF dan aliran darah otak, meningkatkan kreativitas lebih dari 60%. Saat bekerja sendiri, jelaskan ide-ide Anda secara nyaring kepada diri sendiri di depan cermin atau berjalanlah sambil melakukan tanya jawab dengan kritikus imajiner untuk mensimulasikan stimulasi metakognitif secara efektif.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah mendengarkan kritik yang tajam tidak menyebabkan rasa sakit emosional dan menurunkan motivasi kreatif?</span>

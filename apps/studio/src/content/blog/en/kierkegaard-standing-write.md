@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Writing Standing Up in a Hat Right After Walking: Søren Kierkegaard's Instant Capture Habit and Cognitive Warm-Up"
 description: "Discover how existentialist philosopher Søren Kierkegaard preserved fleeting insights by writing standing up at tall desks immediately after walks without taking off his hat or coat. Explore the neuroscience of cognitive warm-up, working memory preservation, and attention residue prevention."
 pubDate: "2026-02-08"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience behind Søren Kierkegaard
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding kierkegaard-standing-write is based on <strong>Historical Verification from *The Journals of Søren Kierkegaard*, Joakim Garff's *Søren Kierkegaard: A Biography* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from *The Journals of Søren Kierkegaard*, Joakim Garff's *Søren Kierkegaard: A Biography* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Warm-up and Working Memory Preservation
+## 1. Cognitive Warm-up and Working Memory Preservation
 
 Immediately following physical activity such as walking, the brain enters a heightened state of <strong>Cognitive Warm-up</strong> driven by surges of <strong>dopamine</strong> and <strong>norepinephrine</strong>. Converting thoughts into writing during this neurohormonal window ports fluid insights into logical prefrontal networks without information loss. Furthermore, standing work maintains postural muscle engagement in the legs and core, preserving cerebral blood flow and accelerating <strong>Working Memory</strong> processing speed. This prevents cognitive fragmentation and eliminates <strong>Attention Residue</strong> before the train of thought dissolves.
 
 ---
 
-## Caution: Immediate Post-Walk Capture Protocol to Eliminate Attention Residue
-
-When transitioning from movement to a stationary home environment, the brain naturally ramps down executive arousal. Spending even 5 minutes unpacking bags, taking off shoes, or sitting on a sofa causes the intricate context of a creative insight to vanish. To prevent cognitive decay, fix your operational sequence: spend 5 to 10 minutes writing standing up before engaging in any domestic chores.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When transitioning from movement to a stationary home environment, the brain nat
   </p>
 </div>
 
+---
+
+## 3. Caution: Immediate Post-Walk Capture Protocol to Eliminate Attention Residue
+
+When transitioning from movement to a stationary home environment, the brain naturally ramps down executive arousal. Spending even 5 minutes unpacking bags, taking off shoes, or sitting on a sofa causes the intricate context of a creative insight to vanish. To prevent cognitive decay, fix your operational sequence: spend 5 to 10 minutes writing standing up before engaging in any domestic chores.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it mandatory to write standing up? Can I sit down instead?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When transitioning from movement to a stationary home environment, the brain nat
       Sitting down immediately upon returning home triggers a rapid drop in physical motor tone and autonomic arousal, lulling the brain into deep relaxation. Standing preserves motor engagement and physical alertness, protecting working memory capacity for those critical 10 minutes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I practice this routine if I don't own a standing desk or high counter?</span>

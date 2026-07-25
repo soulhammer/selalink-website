@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pintar Seu Reflexo no Espelho do Dossel: A Rotina de Autorretrato de Frida Kahlo e Resiliência do Espelho"
 description: "Descubra como a lendária pintora mexicana Frida Kahlo transformou a dor física em arte pintando autorretratos usando um espelho no dossel da cama. Explore a psicologia clínica da observação no espelho e resiliência."
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a psicologia clínica e a neurociência por trás 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre kahlo-mirror-painting é baseada em <strong>Verificação Histórica do *Diário de Frida Kahlo*, Biografia de Hayden Herrera e Pesquisa em Psicologia Clínica e Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica do *Diário de Frida Kahlo*, Biografia de Hayden Herrera e Pesquisa em Psicologia Clínica e Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Técnica de Observação no Espelho e Psicologia Clínica da Resiliência
+## 1. Técnica de Observação no Espelho e Psicologia Clínica da Resiliência
 
 Olhar atentamente para o próprio reflexo é conhecido na psicologia clínica como a <strong>Técnica de Observação no Espelho (Mirror-Gazing)</strong>. Diante de dores físicas ou traumas, o cérebro tende a sucumbir a emoções negativas. O espelho funciona como uma ferramenta de isolamento cognitivo, permitindo observar o corpo e o estado emocional sob uma perspectiva de terceira pessoa. Esse processo restaura o senso de controle e fortalece a autonomia. A dedicação de Frida Kahlo a observar-se foi a manifestação neurobiológica da <strong>Resiliência</strong> e da <strong>Autoaceitação (Self-Acceptance)</strong>.
 
 ---
 
-## Precaução: Exclua Julgamentos Subjetivos e Avaliações Estéticas para Acolher sua Presença
-
-A regra mais importante ao praticar a observação no espelho é abster-se de procurar imperfeições físicas ou emitir julgamentos críticos. Olhar-se no espelho não é um exame estético, mas um período de observação compassiva projetado para reconhecer e acolher a si mesmo sem críticas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A regra mais importante ao praticar a observação no espelho é abster-se de pr
   </p>
 </div>
 
+---
+
+## 3. Precaução: Exclua Julgamentos Subjetivos e Avaliações Estéticas para Acolher sua Presença
+
+A regra mais importante ao praticar a observação no espelho é abster-se de procurar imperfeições físicas ou emitir julgamentos críticos. Olhar-se no espelho não é um exame estético, mas um período de observação compassiva projetado para reconhecer e acolher a si mesmo sem críticas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que fazer se olhar no espelho causar estresse ao notar rugas ou imperfeições?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A regra mais importante ao praticar a observação no espelho é abster-se de pr
       Essa é uma reação totalmente natural. Nas primeiras sessões, os instintos de avaliação se ativam facilmente. Em vez de examinar todo o rosto, fixe sua atenção apenas nas pupilas. Concentre-se em conectar com o centro da sua consciência em vez de analisar traços faciais.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>A observação no espelho é terapeuticamente eficaz mesmo se eu não pintar autorretratos?</span>

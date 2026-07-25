@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Superar los baches mediante la fuerza obligatoria: La rutina matutina de escritura de Natsume Soseki"
 description: "La regla de escritura matutina detrás de las obras maestras de Natsume Soseki. Explica el valor cognitivo de despertar la excitación por acción del cerebro sin esperar la inspiración."
 pubDate: "2026-04-19"
@@ -36,22 +37,20 @@ En esta publicación, analizamos los mecanismos cognitivos detrás de la rutina 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre soseki-forced-writing se basa en <strong>Biografías históricas, registros autobiográficos de la escritura obligatoria de Soseki e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas, registros autobiográficos de la escritura obligatoria de Soseki e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El efecto de excitación por acción: Cómo la acción genera motivación
+## 1. El efecto de excitación por acción: Cómo la acción genera motivación
 
 El cerebro no libera hormonas de motivación mientras permanece inactivo. Solo cuando se inicia una acción se estimulan la corteza prefrontal y el núcleo accumbens para impulsar el comportamiento. Investigaciones neurocientíficas demuestran que actuar suprime la ansiedad innecesaria en la amígdala y activa los circuitos de la memoria de trabajo, mejorando drásticamente la función ejecutiva.
 
 ---
 
-## Consejo del maestro para desencadenar la acción inmediata
-
-No espere al estado de ánimo o al entorno perfecto; siéntese en su escritorio y escriba aunque sea un solo carácter. Solo la acción despierta al cerebro. En lugar de confiar únicamente en la fuerza de voluntad, diseñe con antelación un entorno físico y señales de hábito que desencadenen la acción de manera natural.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ No espere al estado de ánimo o al entorno perfecto; siéntese en su escritorio 
     Una vez que alcance el objetivo designado de 30 minutos o el recuento mínimo de palabras, ordene su escritorio y termine la sesión con una clara sensación de logro.
   </p>
 </div>
+
+---
+
+## 3. Consejo del maestro para desencadenar la acción inmediata
+
+No espere al estado de ánimo o al entorno perfecto; siéntese en su escritorio y escriba aunque sea un solo carácter. Solo la acción despierta al cerebro. En lugar de confiar únicamente en la fuerza de voluntad, diseñe con antelación un entorno físico y señales de hábito que desencadenen la acción de manera natural.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

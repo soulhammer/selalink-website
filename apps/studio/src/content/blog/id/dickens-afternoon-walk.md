@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Novelis yang Berjalan Cepat 3 Jam Setiap Sore: Rutinitas Ide dan Aktivasi DMN ala Charles Dickens"
 description: "Pelajari bagaimana raksasa sastra Charles Dickens merancang karakter dan plot yang rumit melalui jalan cepat 3 jam setiap hari. Temukan neurosains kognitif tentang aktivasi Default Mode Network (DMN) dan sekresi BDNF."
 pubDate: "2026-05-23"
@@ -33,25 +34,23 @@ Mesin kreatif utamanya adalah jalan cepat sore hari selama 3 jam yang tidak pern
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai dickens-afternoon-walk didasarkan pada <strong>Verifikasi Historis dari Biografi John Forster *The Life of Charles Dickens* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi John Forster *The Life of Charles Dickens* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Katalis Pemikiran Divergen: Aktivasi DMN dan Sekresi BDNF Melalui Jalan Kaki Tanpa Stimulus
+## 1. Katalis Pemikiran Divergen: Aktivasi DMN dan Sekresi BDNF Melalui Jalan Kaki Tanpa Stimulus
 
 Jalan kaki aerobik berirama secara signifikan meningkatkan aliran darah otak dan memicu pelepasan Brain-Derived Neurotrophic Factor (BDNF), meningkatkan plastisitas saraf dan memupuk Pemikiran Divergen. Yang terpenting, berjalan tanpa gangguan sensorik luar—seperti smartphone atau masukan audio—sangat melibatkan Default Mode Network (DMN). Beroperasi ketika otak terlepas dari eksekusi tugas yang terfokus, DMN secara spontan mereorganisasi jejak memori yang terfragmentasi, menggabungkannya menjadi terobosan kreatif yang baru.
 
 ---
 
-## Perhatian & Tip: Mengisolasi Stimulus Digital & Ciptakan Ruang Hampa Sensorik
-
-Fondasi dari jalan-jalan berpikir adalah memberikan otak Anda 'jeda kognitif tanpa gangguan'. Memeriksa smartphone Anda, menggulir umpan, atau mendengarkan podcast/musik saat berjalan memaksa korteks prefrontal memproses informasi luar, mematikan aktivasi DMN dan merusak manfaat BDNF. Untuk membersihkan otak Anda seperti Dickens, lepaskan earphone dan simpan smartphone Anda selama 20 hingga 30 menit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Fondasi dari jalan-jalan berpikir adalah memberikan otak Anda 'jeda kognitif tan
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mengisolasi Stimulus Digital & Ciptakan Ruang Hampa Sensorik
+
+Fondasi dari jalan-jalan berpikir adalah memberikan otak Anda 'jeda kognitif tanpa gangguan'. Memeriksa smartphone Anda, menggulir umpan, atau mendengarkan podcast/musik saat berjalan memaksa korteks prefrontal memproses informasi luar, mematikan aktivasi DMN dan merusak manfaat BDNF. Untuk membersihkan otak Anda seperti Dickens, lepaskan earphone dan simpan smartphone Anda selama 20 hingga 30 menit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah boleh mendengarkan musik klasik yang tenang di smartphone saya saat berjalan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Fondasi dari jalan-jalan berpikir adalah memberikan otak Anda 'jeda kognitif tan
       Tidak, jauh lebih baik untuk menghindari audio secara total. Masukan pendengaran—bahkan musik yang tenang—memaksa korteks pendengaran menganalisis pola suara secara terus-menerus, menekan keterlibatan DMN secara penuh. Untuk mencapai reset kognitif total, lepaskan earphone dan biarkan pikiran Anda berkelana di antara suara-suara alam sekitar.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Sangat tidak realistis bagi profesional modern yang sibuk untuk berjalan 3 jam setiap hari seperti Dickens. Apakah ada alternatif praktis?</span>

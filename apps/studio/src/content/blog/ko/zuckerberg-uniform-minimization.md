@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "결정 피로의 관리: 마크 저커버그의 단일 유니폼 습관"
 description: "매일 똑같은 티셔츠와 청바지를 입는 단순한 유니폼 착용으로 결정 피로를 줄였던 마크 저커버그. 뇌의 유한한 에너지 자원인 '자아 고갈'을 방지하고 핵심 의사결정에 집중하는 과학적 원리를 규명합니다."
 pubDate: "2026-06-12"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Zuckerberg Uniform Minimization 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 zuckerberg-uniform-minimization 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Zuckerberg Uniform Minimization 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌의 유한한 포도당 자원 보호와 자아 고갈 예방
+## 1. 뇌의 유한한 포도당 자원 보호와 자아 고갈 예방
 
 뇌의 전두엽 피질(Prefrontal Cortex)이 의사결정을 수행할 때 사용하는 에너지는 유한하며, 결정을 거듭할수록 뇌 세포는 포도당과 산소를 소모해 실행 통제력이 감소하는 '자아 고갈(Ego Depletion)' 현상을 겪게 됩니다. '오늘 아침 무엇을 입을까?', '점심은 무엇을 먹을까?'와 같은 사소한 선택들도 뇌의 실행 기능 예산을 갉아먹습니다. 저커버그처럼 일상의 부수적인 프로세스를 자동화 및 단일 유니폼화할 때, 전두엽은 핵심적인 비즈니스 의사결정이나 장기 전략 수립 단계에서 써야 할 글루코스 예산을 최적으로 보호하고 각 결정의 질적 신뢰성을 대폭 향상할 수 있습니다.
 
 ---
 
-## 주의사항 및 팁
-
-유니폼화 습관을 적용할 때 범할 수 있는 오류는 복장의 통일성 자체가 주는 이미지나 타인의 시선에 대해 스트레스를 받는 것입니다. 패션 스타일이나 미적인 측면의 완벽함에 연연해하기 시작하면, 이 역시 뇌에 새로운 심리적 부담으로 작용하여 결정 피로를 지우려다 외려 가중하게 됩니다. 따라서 가장 본질적인 핵심은 복장을 '자신의 마음에 가장 무난하고 신경이 전혀 쓰이지 않는 심플한 스타일'로 타협하여 뇌의 시선을 외부 평가로부터 완전히 자유롭게 보존하는 데 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁
+
+유니폼화 습관을 적용할 때 범할 수 있는 오류는 복장의 통일성 자체가 주는 이미지나 타인의 시선에 대해 스트레스를 받는 것입니다. 패션 스타일이나 미적인 측면의 완벽함에 연연해하기 시작하면, 이 역시 뇌에 새로운 심리적 부담으로 작용하여 결정 피로를 지우려다 외려 가중하게 됩니다. 따라서 가장 본질적인 핵심은 복장을 '자신의 마음에 가장 무난하고 신경이 전혀 쓰이지 않는 심플한 스타일'로 타협하여 뇌의 시선을 외부 평가로부터 완전히 자유롭게 보존하는 데 있습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>매일 똑같은 옷을 입으면 중요한 미팅이나 격식 있는 자리에선 어떻게 대처하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       저커버그 역시 공식 행사나 이사회에서는 수트를 착용합니다. 유니폼화의 핵심은 사소한 결정을 차단하는 것이므로, 격식 있는 자리를 위한 정장 조합을 미리 지정해두면 고민 없이 착용해 결정 피로를 방지할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>티셔츠와 청바지 외에 다른 의류로 유니폼을 구성해도 되나요?</span>

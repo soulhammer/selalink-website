@@ -21,6 +21,7 @@ faqs:
     answer: "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
   - question: "My mushrooms are slimy and smell slightly sour. Are they safe?"
     answer: "No, slime, sour odors, or sour taste indicate bacterial spoilage. Consuming them causes food poisoning; discard the entire batch immediately."
+
 ---
 
 Do you wash mushrooms with water before cooking? This common habit ruins their unique flavor and texture while accelerating rot. Today, FreshSnap shares professional mushroom storage and cleaning tips.
@@ -29,10 +30,10 @@ Do you wash mushrooms with water before cooking? This common habit ruins their u
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>RDA & USDA</strong>.
+      Based on official storage standards. <strong>RDA & USDA</strong>.
     </p>
   </div>
 </div>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le cerveau s'éveille dès que l'on se lève : Le secret d'immersion de Rilke au pupitre"
 description: "Découvrez l'habitude d'éveil cérébral physique du poète autrichien Rainer Maria Rilke, qui écrivait debout. Une méthode en 3 étapes pour augmenter le flux sanguin cérébral et la concentration."
 pubDate: "2026-04-06"
@@ -33,25 +34,23 @@ Dans cet article, nous examinons les mécanismes scientifiques de la routine d'�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant rilke-standing-writing est basée sur <strong>Recherche biographique et autobiographique historique sur l'écriture debout de Rilke et études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique et autobiographique historique sur l'écriture debout de Rilke et études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'« effet debout » élevant le flux sanguin cérébral et la vigilance cognitive
+## 1. L'« effet debout » élevant le flux sanguin cérébral et la vigilance cognitive
 
 Une posture assise voûtée entrave la dilatation des poumons, entraînant une respiration superficielle qui réduit l'apport d'oxygène au cerveau. À l'inverse, travailler debout sur un pupitre sollicite les grands muscles des jambes, du bassin et du dos contre la gravité, augmentant légèrement la fréquence cardiaque. Sur le plan neuroscientifique, cela accroît le flux sanguin cérébral (FSC) de 10 à 15 %, optimisant l'apport d'oxygène et de glucose. La micro-tension corporelle stimule le système réticulé du tronc cérébral, libérant de la noradrénaline et de la dopamine pour aiguiser le contrôle de l'attention et la mémoire de travail.
 
 ---
 
-## Protection des articulations et rythme d'intervalle
-
-Travailler debout dans une posture immobile pendant de longues périodes peut favoriser les varices ou surcharger les articulations des genoux et du dos. L'habitude de travail debout doit respecter une 'règle d'intervalle cyclique'. Après 30 à 40 minutes de concentration debout, baissez la hauteur et asseyez-vous pendant 20 minutes, ou alternez l'appui de vos pieds pour préserver la santé articulaire et l'éveil mental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Travailler debout dans une posture immobile pendant de longues périodes peut fa
     Lorsque l'alarme sonne au bout de 30 minutes, baissez le bureau ou asseyez-vous pendant 20 minutes pour effectuer des tâches légères, protégeant vos articulations.
   </p>
 </div>
+
+---
+
+## 3. Protection des articulations et rythme d'intervalle
+
+Travailler debout dans une posture immobile pendant de longues périodes peut favoriser les varices ou surcharger les articulations des genoux et du dos. L'habitude de travail debout doit respecter une 'règle d'intervalle cyclique'. Après 30 à 40 minutes de concentration debout, baissez la hauteur et asseyez-vous pendant 20 minutes, ou alternez l'appui de vos pieds pour préserver la santé articulaire et l'éveil mental.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

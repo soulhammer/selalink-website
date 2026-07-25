@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Filosofía entre el ruido del café? La rutina de concentración en asiento reservado y bloques de tiempo de Sartre"
 description: "El filósofo existencialista francés Jean-Paul Sartre escribía en un asiento reservado de un bullicioso café parisino, dividiendo estrictamente sus horas de la mañana y la tarde. Descubra el anclaje cognitivo ambiental."
 pubDate: "2026-06-02"
@@ -40,14 +41,14 @@ En esta publicación, exploramos los mecanismos cognitivos creativos detrás de 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre sartre-cafe-writing se basa en <strong>Investigación biográfica histórica sobre Jean-Paul Sartre e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica histórica sobre Jean-Paul Sartre e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Anclaje cognitivo espacial y reflejo condicionado de enfoque
+## 1. Anclaje cognitivo espacial y reflejo condicionado de enfoque
 
 Nuestro cerebro posee una fuerte plasticidad contextual que vincula espacios específicos con las acciones realizadas en ellos. Por ejemplo, la cama se asocia con el sueño y la mesa con la comida.
 
@@ -55,9 +56,7 @@ La insistencia de Sartre en leer y escribir exclusivamente en una mesa específi
 
 ---
 
-## Prohíba conductas ajenas a su objetivo en el asiento reservado
-
-Para que el anclaje cognitivo espacial funcione, debe mantener una regla de oro: realizar 'únicamente la conducta objetivo (estudiar, escribir)' en ese espacio. Si navega por la web, atiende llamadas o se entretiene en su asiento reservado, el vínculo espacio-conducta se debilita y rompe el anclaje. Cuando descanse, levántese y hágalo en otro lugar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Para que el anclaje cognitivo espacial funcione, debe mantener una regla de oro:
   </p>
 </div>
 
+---
+
+## 3. Prohíba conductas ajenas a su objetivo en el asiento reservado
+
+Para que el anclaje cognitivo espacial funcione, debe mantener una regla de oro: realizar 'únicamente la conducta objetivo (estudiar, escribir)' en ese espacio. Si navega por la web, atiende llamadas o se entretiene en su asiento reservado, el vínculo espacio-conducta se debilita y rompe el anclaje. Cuando descanse, levántese y hágalo en otro lugar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Un entorno con ruido blanco como un café es más favorable para concentrarse que un lugar silencioso como una sala de estudio?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Para que el anclaje cognitivo espacial funcione, debe mantener una regla de oro:
       Varía según la persona. Algunas investigaciones señalan que un ruido blanco moderado (50–70 dB) dispersa ligeramente la atención auditiva, estimulando la resolución creativa de problemas. Sin embargo, lo fundamental no es el silencio, sino establecer la regla cognitiva de 'iniciar la misma acción en el mismo lugar cada día'.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿No sería mejor para el cerebro cambiar de asiento reservado diariamente o periódicamente?</span>

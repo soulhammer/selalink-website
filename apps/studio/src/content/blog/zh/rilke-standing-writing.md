@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "站立的瞬间大脑觉醒：里尔克站立式书桌专注秘诀"
 description: "探索奥地利文豪赖内·马利亚·里尔克站立写作的大脑觉醒习惯。提升脑血流量与专注力的三步站立实践法。"
 pubDate: "2026-04-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rilke-standing-writing 的内容基于 <strong>里尔克站立写作的历史评传及自传考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>里尔克站立写作的历史评传及自传考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 提升脑血流与认知警觉度的“站立效应”
+## 1. 提升脑血流与认知警觉度的“站立效应”
 
 蜷缩坐姿会妨碍肺部扩张，使呼吸变浅，从而减少流入大脑的氧气量。相反，使用站立式书桌保持站姿时，双腿、盆骨和背部的大肌肉群会对抗重力发生收缩，微幅提升心率。在脑科学上，这能增加约10–15%的脑血流量（CBF），激活氧气与葡萄糖的供应。身体的微小紧张状态能刺激脑干网状结构，促进去甲肾上腺素和多巴胺的分泌，从而飞跃性地唤醒大脑的注意力控制速度与工作记忆能力。
 
 ---
 
-## 保护关节与循环间隔节奏
-
-长时间保持固定站姿工作可能导致下肢静脉曲张，或对膝盖与腰椎关节造成过重负担，从而加剧身体疲劳。站立专注习惯必须遵循“循环间隔法则”。在站立集中精力30–40分钟后，务必降低高度坐下20分钟以切换节奏，或频繁调整双脚重心、轻微原地踏步，才能在维持大脑觉醒的同时保护关节健康。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     30分钟提示音响起后，降低书桌高度或坐到椅子上20分钟，进行轻度整理工作，以此保护下肢关节并纾解神经疲劳。
   </p>
 </div>
+
+---
+
+## 3. 保护关节与循环间隔节奏
+
+长时间保持固定站姿工作可能导致下肢静脉曲张，或对膝盖与腰椎关节造成过重负担，从而加剧身体疲劳。站立专注习惯必须遵循“循环间隔法则”。在站立集中精力30–40分钟后，务必降低高度坐下20分钟以切换节奏，或频繁调整双脚重心、轻微原地踏步，才能在维持大脑觉醒的同时保护关节健康。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

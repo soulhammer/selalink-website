@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "通过举重战胜哮喘局限：罗斯福的早晨高强度身体锻炼"
 description: "作为雕刻在拉什莫尔山上的美国伟大大总统，他保持着在经历极限身体疲劳后大脑彻底觉醒的超专注阅读习惯。"
 pubDate: "2026-07-06"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 theodore-roosevelt 的内容基于 <strong>西奥多·罗斯福历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>西奥多·罗斯福历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 缔造成功的神经科学原理分析
+## 1. 缔造成功的神经科学原理分析
 
 克服极限阻力的早晨短时高强度运动，能急剧扩大向大脑皮层和前额叶供氧的饱和度与血流活性。这种刺激能极大促进主持脑神经细胞网络形成的脑源性神经营养因子（BDNF）的分泌，帮助海马体认知神经元的生成，消除引发认知疲劳的皮质醇，从而唤醒最佳的大脑决策能力。
 
 ---
 
-## 确保习惯成功的行为科学建议
-
-切勿在开启一天的工作之前，因长耗时的过度训练而耗尽体能和意志力电池。进行3分钟轻盈而强烈的微运动来刺激大脑觉醒状态就完全足够了。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 确保习惯成功的行为科学建议
+
+切勿在开启一天的工作之前，因长耗时的过度训练而耗尽体能和意志力电池。进行3分钟轻盈而强烈的微运动来刺激大脑觉醒状态就完全足够了。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>完成早晨的高强度训练后，反而感到困意袭来。</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       这是因为运动强度超负荷，导致疲劳堆积物质激增造成的。一旦达到喘气的临界点，就必须立刻严格用3分钟定时器停止，这样脑内才会充盈令人神清气爽的觉醒多巴胺。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>体能严重不足的初学者应该如何开始？</span>

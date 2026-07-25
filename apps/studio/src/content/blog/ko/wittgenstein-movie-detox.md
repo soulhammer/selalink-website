@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "뇌의 과열 식히기: 비트겐슈타인의 서부극 디톡스 루틴"
 description: "분석철학의 한계에 도전하며 과열된 뇌를 리셋하기 위해 영화관 맨 앞줄에서 서부극을 즐겼던 루트비히 비트겐슈타인. 강제적인 시각적 몰입이 전두엽의 부하를 끄고 창의적 문제 해결을 돕는 메커니즘을 조명합니다."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>루트비히 비트겐슈타인(Ludwig Wittgenstein) 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 wittgenstein-movie-detox 루틴을 다룹니다.
+      본 콘텐츠는 <strong>루트비히 비트겐슈타인(Ludwig Wittgenstein) 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 주의 강제 전환을 통한 뇌 회로 리셋과 인큐베이션
+## 1. 주의 강제 전환을 통한 뇌 회로 리셋과 인큐베이션
 
 우리의 전두엽은 한 가지 난해한 주제에 오랜 시간 고집스럽게 초점을 맞출 때, 정보 과부하로 인해 인지 피로를 겪고 효율성이 뚝 떨어집니다. 이때 뇌를 가만히 쉬게 하려 해도 무의식적이고 반복적인 잡념(Rumination)이 머릿속을 맴돌며 뇌는 쉬지 못합니다. 비트겐슈타인의 영화관 맨 앞줄 서부극 감상은 강력한 대안 자극을 통해 주의를 강제로 빼앗는 '주의 편향 강제 리디렉션'을 이룹니다. 시각과 청각을 단순하고 역동적인 화면에 완전히 매장함으로써, 전두엽의 사색 회로가 마침내 작동을 멈추고 뇌의 '디폴트 모드 네트워크(DMN)'가 켜지게 됩니다. 이 인큐베이션(부화) 시기에 뇌는 풀리지 않던 난제를 무의식 속에서 정리하여 뜻밖의 깨달음을 선사합니다.
 
 ---
 
-## 주의사항 및 팁
-
-뇌의 열을 식히기 위한 디톡스 영화나 매체 감상을 고를 때, 또 다른 인지 부하를 주는 난해한 스릴러나 예술 영화, 혹은 슬프고 무거운 주제의 스토리는 피해야 합니다. 줄거리를 해석하거나 도덕적 가치 판단을 해야 하는 매체는 뇌를 쉬게 하지 못하고 도리어 감정적, 인지적 에너지를 추가로 갉아먹습니다. 따라서 비트겐슈타인의 서부극처럼 단순 명쾌한 권선징악 구조나 가벼운 액션, 아름다운 자연 다큐멘터리처럼 뇌가 분석할 필요가 없는 단순 자극 매체를 골라야 올바른 휴식 효과를 볼 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     내용을 비판적으로 평가하려 하지 않고 그저 흘러가는 화면에 시선을 맡겨 30분 ~ 1시간 리셋 후, 뇌를 자극하지 않고 바로 취침으로 연결합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+뇌의 열을 식히기 위한 디톡스 영화나 매체 감상을 고를 때, 또 다른 인지 부하를 주는 난해한 스릴러나 예술 영화, 혹은 슬프고 무거운 주제의 스토리는 피해야 합니다. 줄거리를 해석하거나 도덕적 가치 판단을 해야 하는 매체는 뇌를 쉬게 하지 못하고 도리어 감정적, 인지적 에너지를 추가로 갉아먹습니다. 따라서 비트겐슈타인의 서부극처럼 단순 명쾌한 권선징악 구조나 가벼운 액션, 아름다운 자연 다큐멘터리처럼 뇌가 분석할 필요가 없는 단순 자극 매체를 골라야 올바른 휴식 효과를 볼 수 있습니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

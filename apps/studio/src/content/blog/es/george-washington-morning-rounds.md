@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Diario Agrícola de George Washington: La Rutina de Inspección y Registro al Amanecer que Forjó la Gobernanza Presidencial"
 description: "Descubra cómo George Washington, que se levantaba a las 4 AM para inspeccionar Mount Vernon y registrar métricas agrícolas precisas, construyó los cimientos administrativos de una nación. Explore la neurociencia de la metacognición y la corteza prefrontal lateral."
 pubDate: "2026-07-04"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre george-washington-morning-rounds se basa en <strong>Verificación Histórica de las Biografías de George Washington, Archivos de la Finca Mount Vernon e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Biografías de George Washington, Archivos de la Finca Mount Vernon e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cómo el Registro Cuantitativo de Precisión Despierta la Metacognición y Activa la Corteza Prefrontal Lateral
+## 1. Cómo el Registro Cuantitativo de Precisión Despierta la Metacognición y Activa la Corteza Prefrontal Lateral
 
 La <strong>Metacognición</strong> se refiere a la capacidad ejecutiva de evaluar los propios conocimientos y la eficiencia operativa. Una metacognición débil lleva a confiar en sensaciones superficiales, provocando errores de cálculo. El hábito de George Washington de registrar manualmente métricas cuantitativas precisas estimula la <strong>Corteza Prefrontal Lateral</strong>. Al reemplazar suposiciones con datos empíricos, este sistema elimina las <strong>Ilusiones Cognitivas</strong>, anclando las decisiones en la realidad objetiva y optimizando la asignación de recursos.
 
 ---
 
-## Precaución: Excluir Impresiones Emocionales Subjetivas para Centrarse en Métricas Cuantitativas
-
-Reflexiones emocionales vahas como 'hoy me sentí cansado' no activan los circuitos metacognitivos. La metacognición se activa únicamente al registrar datos numéricos objetivos: hora de despertar, páginas leídas, horas de trabajo concentrado o repeticiones de ejercicio. Registrar métricas reales permite diagnosticar y eliminar ineficiencias.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Reflexiones emocionales vahas como 'hoy me sentí cansado' no activan los circui
   </p>
 </div>
 
+---
+
+## 3. Precaución: Excluir Impresiones Emocionales Subjetivas para Centrarse en Métricas Cuantitativas
+
+Reflexiones emocionales vahas como 'hoy me sentí cansado' no activan los circuitos metacognitivos. La metacognición se activa únicamente al registrar datos numéricos objetivos: hora de despertar, páginas leídas, horas de trabajo concentrado o repeticiones de ejercicio. Registrar métricas reales permite diagnosticar y eliminar ineficiencias.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo hacer si me siento desanimado y me resisto a escribir en el diario en días de bajo rendimiento?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Reflexiones emocionales vahas como 'hoy me sentí cansado' no activan los circui
       El núcleo de la metacognición no es alcanzar la perfección, sino el 'monitoreo preciso'. Enfrentar y registrar honestamente cifras bajas en días malos elimina la negación cognitiva y desarrolla la resiliencia para recalibrar su estrategia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es completamente efectivo gestionar todas las métricas solo con herramientas digitales como Notion o Excel?</span>

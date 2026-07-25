@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Caminhar por cemitérios em busca de inspiração: A rotina de 'Contemplação solene e solitária' de Mary Shelley"
 description: "Descubra por que Mary Shelley, autora de 'Frankenstein', caminhava por cemitérios e locais históricos solenes. Explore a ciência cerebral do fascínio e da reflexão que estimula a criatividade profunda."
 pubDate: "2026-07-07"
@@ -33,17 +34,17 @@ Exploramos os princípios científicos do fascínio cognitivo e da imaginação 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre shelley-cemetery-walk é baseada em <strong>Registros literários históricos de Mary Shelley & pesquisas em Psicologia Ambiental sobre o Fascínio (Awe)</strong>.
+      Este conteúdo baseia-se em <strong>Registros literários históricos de Mary Shelley & pesquisas em Psicologia Ambiental sobre o Fascínio (Awe)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Fascínio cognitivo e ativação da rede cerebral reflexiva em espaços solenes
+## 1. Fascínio cognitivo e ativação da rede cerebral reflexiva em espaços solenes
 
 A psicologia ambiental mostra que entrar em espaços silenciosos e históricos (como cemitérios ou ruínas) desperta uma emoção cognitiva única: o 'Fascínio' (Awe).
 
@@ -51,9 +52,7 @@ O fascínio acalma a rede egocêntrica responsável pelo estresse diário, ativa
 
 ---
 
-## Procure espaços históricos ou naturais silenciosos e não comerciais
-
-Para Mary Shelley, o cemitério era um santuário de reflexão. Você não precisa ir a um cemitério: busque caminhos em matas antigas, parques históricos, bibliotecas silenciosas ou templos. O segredo é oferecer ao cérebro um espaço sem ruído comercial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ Para Mary Shelley, o cemitério era um santuário de reflexão. Você não preci
   </p>
 </div>
 
+---
+
+## 3. Procure espaços históricos ou naturais silenciosos e não comerciais
+
+Para Mary Shelley, o cemitério era um santuário de reflexão. Você não precisa ir a um cemitério: busque caminhos em matas antigas, parques históricos, bibliotecas silenciosas ou templos. O segredo é oferecer ao cérebro um espaço sem ruído comercial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eliminating Human Cognitive Errors to Zero: Charles Lindbergh's Checklist Execution Routine and Working Memory Protection"
 description: "Discover how aviation hero Charles Lindbergh completed the first solo transatlantic flight by relying on written checklists to eliminate cognitive errors. Explore prefrontal cortex working memory protection, preventing omission errors, physical pointing verification, and a 3-step practice guide."
 pubDate: "2026-04-25"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience and human factors engineer
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding lindbergh-meticulous-checklist is based on <strong>Historical Verification from Charles Lindbergh's Pulitzer-Winning Autobiography *The Spirit of St. Louis* (1953), Aviation Archives & Cognitive Neuroscience and Human Factors Engineering Research</strong>.
+      This content is based on <strong>Historical Verification from Charles Lindbergh's Pulitzer-Winning Autobiography *The Spirit of St. Louis* (1953), Aviation Archives & Cognitive Neuroscience and Human Factors Engineering Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prefrontal Cortex Working Memory Protection and Preventing Omission Errors
+## 1. Prefrontal Cortex Working Memory Protection and Preventing Omission Errors
 
 When executing complex sequential tasks under severe stress or fatigue, the brain's <strong>Prefrontal Cortex</strong> expends immense metabolic energy maintaining items in <strong>Working Memory</strong>. To conserve energy, central executive networks instinctively shortcut procedural steps, causing fatal <strong>Omission Errors</strong>. Physically cross-checking a written checklist item-by-item completely offloads rote retention strain. Liberated from memory retrieval stress, the brain channels 100% of its executive energy into verification and <strong>Executive Control</strong>, preserving zero-defect precision even during exhaustion.
 
 ---
 
-## Caution: Eliminating Implicit Visual Scanning to Commit to Tactile One-to-One Pointing Verification
-
-The core value of a checklist relies on physical sensory synchronization—tracing items individually with a finger or cursor. Implicit visual scanning combined with assuming 'everything is checked' fails to prevent optical illusions and brain automated oversights. You must uphold the habit of physically pointing at each item to force explicit cognitive verification.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The core value of a checklist relies on physical sensory synchronization—traci
   </p>
 </div>
 
+---
+
+## 3. Caution: Eliminating Implicit Visual Scanning to Commit to Tactile One-to-One Pointing Verification
+
+The core value of a checklist relies on physical sensory synchronization—tracing items individually with a finger or cursor. Implicit visual scanning combined with assuming 'everything is checked' fails to prevent optical illusions and brain automated oversights. You must uphold the habit of physically pointing at each item to force explicit cognitive verification.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is a longer and more detailed checklist always superior for preventing cognitive errors?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The core value of a checklist relies on physical sensory synchronization—traci
       No. When checklists grow overly verbose, the brain experiences fatigue and triggers automatic skipping behavior. Neuroscientifically, limiting checklists tightly to 5 to 9 high-leverage critical checkpoints (aligning with Miller's Law working memory chunking limits) is optimal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What types of tasks benefit most from applying a structured checklist execution routine?</span>

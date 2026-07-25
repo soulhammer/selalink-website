@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Alur Kreatif yang Dituntun oleh Relaksasi: Kebiasaan Menulis Pagi di Tempat Tidur Edith Wharton"
 description: "Edith Wharton, penulis legendaris wanita pertama yang memenangkan Penghargaan Pulitzer untuk Fiksi. Ungkap rahasia neurofisiologis di balik kebiasaannya menulis dengan nyaman di tempat tidur bersama anjing-anjingnya tanpa beranjak di pagi hari."
 pubDate: "2026-06-21"
@@ -29,25 +30,23 @@ Edith Wharton berdiri megah sebagai maestro tak tertandingi dalam sejarah sastra
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai wharton-bedside-writing-relaxation didasarkan pada <strong>Pemeriksaan biografi historis & catatan autobiografi Edith Wharton & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Pemeriksaan biografi historis & catatan autobiografi Edith Wharton & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaksasi Fisik dan Kerja Kognitif Mode Dominasi Parasimpatis
+## 1. Relaksasi Fisik dan Kerja Kognitif Mode Dominasi Parasimpatis
 
 Hambatan utama saat berkreasi adalah kekakuan sirkuit pemikiran lobus frontal akibat kecemasan untuk 'menulis dengan baik'. Menjaga tubuh rileks di tempat tidur sambil membelai hewan peliharaan mengaktifkan Sistem Saraf Parasimpatis. Otak yang merasa aman menurunkan kortisol dan memancarkan Gelombang Alfa yang menautkan ide-ide acak menjadi imajinasi novel yang mengalir halus.
 
 ---
 
-## Peringatan dan Tips
-
-Jebakan saat menulis di tempat tidur adalah tertidur kembali. Jika otak terlalu rileks hingga memancarkan gelombang delta, kantuk menggantikan alur kreatif. Hindari posisi berbaring lurus; gunakan bantal untuk posisi Semi-Fowler (kemiringan 45-60 derajat). Jaga suhu ruangan tetap sejuk agar pikiran tetap siaga saat tubuh rileks.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Jebakan saat menulis di tempat tidur adalah tertidur kembali. Jika otak terlalu 
     Menulislah selama 30 menit dalam keheningan yang rileks. Buang filter perfeksionis dan biarkan ide-ide mengalir lancar ke atas kertas.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Jebakan saat menulis di tempat tidur adalah tertidur kembali. Jika otak terlalu rileks hingga memancarkan gelombang delta, kantuk menggantikan alur kreatif. Hindari posisi berbaring lurus; gunakan bantal untuk posisi Semi-Fowler (kemiringan 45-60 derajat). Jaga suhu ruangan tetap sejuk agar pikiran tetap siaga saat tubuh rileks.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -507,6 +507,10 @@
           "페럿데드슬립"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/marshall_ferret_care.png"
   }
 }

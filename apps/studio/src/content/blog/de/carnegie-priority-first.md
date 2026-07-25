@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Magnat, der die schwerste Aufgabe morgens zuerst erledigte: Andrew Carnegies Prioritäten-Ausführungsroutine"
 description: "Erkunden Sie, wie der Stahlmagnat Andrew Carnegie seine schwerste Aufgabe während der morgendlichen Goldenen Stunden anpackte, als die präfrontalen Ressourcen voll aufgeladen waren, und entdecken Sie die kognitiven Neurowissenschaften zur Überwindung der Ego-Erschöpfung."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Andrew Carnegie
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu carnegie-priority-first basiert auf <strong>Historische Überprüfung aus Andrew Carnegies Autobiografie *Autobiografie von Andrew Carnegie (Autobiography of Andrew Carnegie)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Andrew Carnegies Autobiografie *Autobiografie von Andrew Carnegie (Autobiography of Andrew Carnegie)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bewahrung präfrontaler Ressourcen & Vermeidung von 'Ego-Erschöpfung (Ego Depletion)'
+## 1. Bewahrung präfrontaler Ressourcen & Vermeidung von 'Ego-Erschöpfung (Ego Depletion)'
 
 Neurowissenschaftliche und psychologische Forschung zeigt, dass die kognitiven Ressourcen des Präfrontalkortex – die rationale Entscheidungsfindung, Impulskontrolle und exekutive Steuerung regeln – endlich sind und sich wie eine Batterie entladen. Dies wird als 'Ego-Erschöpfung (Ego Depletion)' bezeichnet. Das Aufbrauchen des präfrontalen Glukosebudgets nach dem Aufstehen durch Smartphone-Scrollen oder Kleinigkeiten hinterlässt eine entladene Batterie, wenn nachmittags komplexe Entscheidungen anstehen, was zu 'Entscheidungsermüdung' führt. Carnegies Routine, die schwerste Aufgabe in der ersten Morgenstunde zu erledigen, nutzt die volle logische Schärfe.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Schutz der morgendlichen kognitiven Energie vor trivialen Aufgaben
-
-Für leistungsstarke Wissensarbeiter sind Willenskraft und präfrontale Kapazität wertvolle kognitive Güter, die im Laufe des Tages an Wert verlieren. Carnegie weigerte sich, seine morgendlichen Goldenen Stunden an untergeordnete Aufgaben wie Mails oder Auffrischen des Schreibtischs zu verschwenden, und investierte sie stattdessen in die wirkungsvollsten Geschäftsentscheidungen. Bestimmen Sie die schwierigste Aufgabe zu Ihrem ersten Tagesordnungspunkt.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Für leistungsstarke Wissensarbeiter sind Willenskraft und präfrontale Kapazit�
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Schutz der morgendlichen kognitiven Energie vor trivialen Aufgaben
+
+Für leistungsstarke Wissensarbeiter sind Willenskraft und präfrontale Kapazität wertvolle kognitive Güter, die im Laufe des Tages an Wert verlieren. Carnegie weigerte sich, seine morgendlichen Goldenen Stunden an untergeordnete Aufgaben wie Mails oder Auffrischen des Schreibtischs zu verschwenden, und investierte sie stattdessen in die wirkungsvollsten Geschäftsentscheidungen. Bestimmen Sie die schwierigste Aufgabe zu Ihrem ersten Tagesordnungspunkt.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie sollte ich mit dringenden Nachrichten oder Anfragen umgehen, die während des ersten Morgenblocks eingehen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Für leistungsstarke Wissensarbeiter sind Willenskraft und präfrontale Kapazit�
       Sofern es sich nicht um eine schwere Krise handelt, können die meisten 'scheinbar dringenden' Nachrichten problemlos 1 bis 2 Stunden warten. Schützen Sie Ihre präfrontalen Ressourcen, indem Sie jeden Morgen mindestens einen 1-stündigen 'Präfrontalen Schutzblock' verteidigen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie wende ich diese Routine an, wenn die schwerste Aufgabe zu riesig ist, um an einem einzigen Tag erledigt zu werden?</span>

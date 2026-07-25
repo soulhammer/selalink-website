@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eliminating Decision Fatigue: Charles Schulz's Single-Lunch Routine"
 description: "Charles Schulz fixed his daily meals and working environment completely to draw the Peanuts comic strip non-stop for 50 years. We explore his automated ritual of eating the same hamburger daily to prevent prefrontal cognitive fatigue and maximize creativity."
 pubDate: "2026-02-06"
@@ -36,22 +37,20 @@ In today's post, we investigate how Charles Schulz's decision-minimization routi
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding schulz-routine-hamburger is based on <strong>Historical biographies, autobiographical records of Schulz's hamburger routine & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies, autobiographical records of Schulz's hamburger routine & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Preventing Ego Depletion and Preserving Prefrontal Energy
+## 1. Preventing Ego Depletion and Preserving Prefrontal Energy
 
 The prefrontal cortex is the brain center for planning, emotional control, and decision-making. Neuroscientific studies show that every decision—even picking a lunch menu—drains finite executive resources, a state called 'Decision Fatigue' or 'Ego Depletion'. By fixing minor daily options like clothing and lunch beforehand as Schulz did, you completely block neural energy leakage on trivial matters and channel maximum cognitive power into core creative work.
 
 ---
 
-## Precautions and Tips
-
-If you force routine too rigidly and eliminate 100% of variance, the brain may fall into rut and experience cognitive dullness. Therefore, apply decision automation strictly to non-essential areas (meals, clothing, environment), while keeping deliberate space for exploration and variance in creative tasks, hobbies, and leisure time.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ If you force routine too rigidly and eliminate 100% of variance, the brain may f
     Direct the fresh focus saved by removing minor daily choices directly into your most critical strategic planning, design, or writing tasks first thing in the day.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+If you force routine too rigidly and eliminate 100% of variance, the brain may fall into rut and experience cognitive dullness. Therefore, apply decision automation strictly to non-essential areas (meals, clothing, environment), while keeping deliberate space for exploration and variance in creative tasks, hobbies, and leisure time.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

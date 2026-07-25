@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "빛을 뇌에 새기다? 터너의 새벽 해돋이 대조 감도 관찰법"
 description: "빛의 화가 터너의 독창적인 색채 표현은 매일 아침 새벽 해돋이를 응시하는 습관에서 탄생했습니다. 뇌의 시각 인지를 활성화하는 터너의 색채 응시법을 소개합니다."
 pubDate: "2026-02-27"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>J.M.W. 터너 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 turner-dawn-observation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>J.M.W. 터너 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 시각 피질을 자극하는 빛의 점진적 변화
+## 1. 시각 피질을 자극하는 빛의 점진적 변화
 
 일출 시기의 하늘은 짧은 시간 동안 색온도가 급격히 바뀌며 낮은 청색광에서 밝은 자연광으로 변합니다. 이 점진적인 시각 자극은 뇌 시각 피질의 대조 감도(Contrast Sensitivity)를 고도로 단련시킵니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 강한 태양빛을 직접 응시하지 않도록 주의하세요
-
-터너 루틴의 핵심은 해의 강한 광원을 직접 쳐다보는 것이 아닙니다. 해가 뜨기 직전의 옅은 하늘빛이나 안개, 구름에 반사되어 번지는 부드러운 산란광을 관찰하는 것입니다. 망막 손상을 방지하기 위해 강한 태양광을 정면으로 장시간 바라보는 것은 절대 피해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 강한 태양빛을 직접 응시하지 않도록 주의하세요
+
+터너 루틴의 핵심은 해의 강한 광원을 직접 쳐다보는 것이 아닙니다. 해가 뜨기 직전의 옅은 하늘빛이나 안개, 구름에 반사되어 번지는 부드러운 산란광을 관찰하는 것입니다. 망막 손상을 방지하기 위해 강한 태양광을 정면으로 장시간 바라보는 것은 절대 피해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>날씨가 흐리거나 안개가 낀 날에도 이 루틴을 진행해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       오히려 더 좋습니다. 터너는 해가 쨍쨍한 날보다 흐리고 눈보라가 치거나 안개가 자욱한 대기의 산란광을 관찰하는 것을 훨씬 좋아했습니다. 날이 흐린 날에는 대기 속 수증기와 빛이 만들어내는 묘한 음영 변화를 훨씬 더 잘 포착할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>새벽에 일찍 일어나는 것이 힘든데 낮에 태양광을 보면 안 되나요?</span>

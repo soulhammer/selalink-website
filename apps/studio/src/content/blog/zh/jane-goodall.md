@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "伫立于黑猩猩身旁岩石上的终身观察与记录：珍妮·古道尔的沉浸习惯与选择性注意力引导指南"
 description: "探索动物行为学家珍妮·古道尔如何在坦桑尼亚贡贝丛林中通过无偏见观察黑猩猩推演重大科学突破。揭示感官联合皮层激活、选择性注意力与3步骤观察沉浸习惯的神经科学原理。"
 pubDate: "2026-05-09"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 jane-goodall 的内容基于 <strong>珍妮·古道尔自传《希望的理由（Reason for Hope）》与贡贝溪研究中心（Gombe Stream Research Centre）档案考证及认知神经科学（Cognitive Neuroscience）与动物行为学（Ethology）研究</strong> 撰写。
+      本内容基于 <strong>珍妮·古道尔自传《希望的理由（Reason for Hope）》与贡贝溪研究中心（Gombe Stream Research Centre）档案考证及认知神经科学（Cognitive Neuroscience）与动物行为学（Ethology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 刺激感官联合皮层与选择性注意力（Selective Attention）机制
+## 1. 刺激感官联合皮层与选择性注意力（Selective Attention）机制
 
 在不进行干预控制的前提下，运用高度客观的注意力长久默然凝视观察目标，能强力激活大脑的<strong>感官联合皮层（Sensory Association Cortex）</strong>与<strong>选择性注意力（Selective Attention）</strong>回路。将微观感官轨迹录入大脑并转译为模拟句解或图画的过程，能深厚打磨大脑的微观感官解析度，显著升华在日常微观线索与商业市场隐秘趋势中先行捕获商机的<strong>洞察知觉能力（Insightful Perceptual Ability）</strong>。
 
 ---
 
-## 注意事项：规避主观评判，严苛聚焦客观感官数据吸收指南
-
-切勿急于对观察目标展开逻辑评判、定性或归类。机制的核心在于放下主观定性与先入为主的偏见，将原汁原味的物理深度、材质肌理与明暗光影平铺引入大脑，全情专注于对感官受体展开清洗去噪的训练本身。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：规避主观评判，严苛聚焦客观感官数据吸收指南
+
+切勿急于对观察目标展开逻辑评判、定性或归类。机制的核心在于放下主观定性与先入为主的偏见，将原汁原味的物理深度、材质肌理与明暗光影平铺引入大脑，全情专注于对感官受体展开清洗去噪的训练本身。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>能否用手机拍下照片、事后再对屏幕图像展开分析？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       绝不可以。数字屏幕上的图像仅为经过压缩的二维像素阵列，无法撬动大脑的3D立体深度知觉神经网络。务必凭借双眼在三维空间中亲自解译实物的物性深度、光泽度与肌理，方能促发感官神经元的神经可塑性。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>是否只能局限于静态枯燥的物件展开观察？</span>

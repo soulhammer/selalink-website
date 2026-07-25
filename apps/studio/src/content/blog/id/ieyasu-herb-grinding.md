@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Irama Kesabaran dan Ketenangan: Rutinitas Memotong dan Memburu Herbal Tokugawa Ieyasu dan Regulasi Serotonin"
 description: "Pelajari metode kultivasi mental Tokugawa Ieyasu. Temukan bagaimana rutinitas harian menumbuk obat herbal menggunakan lumpang memicu manfaat gerakan berirama, mengaktifkan serotonin, dan menenangkan amigdala."
 pubDate: "2026-04-01"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai ieyasu-herb-grinding didasarkan pada <strong>Verifikasi Historis dari Biografi Tokugawa Ieyasu, Arsip Museum Seni Tokugawa & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Tokugawa Ieyasu, Arsip Museum Seni Tokugawa & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Serotonin dan Stabilisasi Amigdala Melalui Gerakan Fisik Berirama
+## 1. Aktivasi Serotonin dan Stabilisasi Amigdala Melalui Gerakan Fisik Berirama
 
 Secara fisiologis, <strong>Gerakan Berirama (Rhythmic Movement)</strong>—aktivitas fisik berulang yang dilakukan pada kecepatan dan tekanan yang stabil—menstimulasi nukleus rafe otak untuk memaksimalkan sekresi <strong>serotonin</strong>. Stimulasi taktil dengan tempo stabil ini menekan hiper-gairah pada <strong>amigdala</strong> yang mengendalikan rasa takut dan impulsivitas, sekaligus memulihkan kontrol eksekutif rasional di <strong>Korteks Prefrontal</strong>.
 
 ---
 
-## Perhatian: Berfokus pada Irama Manual Konstan Sambil Menghilangkan Ketidaksabaran
-
-Saat merasa tidak sabar atau cemas, hindari memaksakan kontrol emosional melalui kehendak murni. Sebaliknya, tancapkan kesadaran ujung jari Anda sepenuhnya pada irama sederhana dan konstan menumbuk bahan-bahan di lumpang atau penggiling kopi. Mempertahankan ritme fisik yang stabil adalah kuncinya.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Saat merasa tidak sabar atau cemas, hindari memaksakan kontrol emosional melalui
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Berfokus pada Irama Manual Konstan Sambil Menghilangkan Ketidaksabaran
+
+Saat merasa tidak sabar atau cemas, hindari memaksakan kontrol emosional melalui kehendak murni. Sebaliknya, tancapkan kesadaran ujung jari Anda sepenuhnya pada irama sederhana dan konstan menumbuk bahan-bahan di lumpang atau penggiling kopi. Mempertahankan ritme fisik yang stabil adalah kuncinya.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana tindakan fisik menumbuk obat herbal secara pribadi berkontribusi pada stabilitas emosional?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Saat merasa tidak sabar atau cemas, hindari memaksakan kontrol emosional melalui
       Gerakan berulang yang dilakukan pada kecepatan konstan menstimulasi sistem serotonin otak, menekan respons ancaman berlebihan di amigdala dan memulihkan kontrol eksekutif rasional di korteks prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mereplikasi rutinitas ini dalam kehidupan sehari-hari jika saya tidak memiliki lumpang?</span>

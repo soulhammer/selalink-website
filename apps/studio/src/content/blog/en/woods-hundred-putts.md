@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Until 100 Consecutive Successes: Tiger Woods' 4m Putting Immersion Method"
 description: "The '100 consecutive successful putts' routine performed by golf legend Tiger Woods before training. Discover how uncompromising achievement floods the brain with dopamine and drives extreme focus."
 pubDate: "2026-04-01"
@@ -36,22 +37,20 @@ This post explores the neuroscience behind Woods' extreme goal achievement ritua
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding woods-hundred-putts is based on <strong>Historical Biographies & Autobiographical Records of Woods' Hundred Putts & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies & Autobiographical Records of Woods' Hundred Putts & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Extreme Immersion Driven by Uncompromising Achievement
+## 1. Extreme Immersion Driven by Uncompromising Achievement
 
 When the brain undertakes tasks demanding high focus, the primary catalyst is Dopamine, a neurotransmitter associated with reward anticipation. Completing a task under the strict penalty of resetting upon failure heavily triggers reward and behavioral control centers. This blocks extraneous thoughts and forces the brain into an optimal flow state dedicated solely to the target task.
 
 ---
 
-## Cautions & Tips
-
-To leverage dopamine effectively, tasks must not be too trivial or excessively impossible. The key is selecting a challenge with optimal difficulty tailored to your capacity. If frequent early failures cause frustration rather than focus, wisely adjust the difficulty downwards.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ To leverage dopamine effectively, tasks must not be too trivial or excessively i
     Leverage the state of high cognitive tension and dopamine priming achieved from flawless task execution to immediately tackle your core tasks, such as writing proposals.
   </p>
 </div>
+
+---
+
+## 3. Cautions & Tips
+
+To leverage dopamine effectively, tasks must not be too trivial or excessively impossible. The key is selecting a challenge with optimal difficulty tailored to your capacity. If frequent early failures cause frustration rather than focus, wisely adjust the difficulty downwards.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

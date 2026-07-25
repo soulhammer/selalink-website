@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Presidente que Leía Libros en Voz Alta: La Rutina de Lectura Prefrontal de Abraham Lincoln y el Efecto de Producción"
 description: "Descubra cómo el decimosexto presidente de EE. UU., Abraham Lincoln, maximizó su memoria leyendo en voz alta. Explore la neurociencia del Efecto de Producción, la Representación Doble, la activación del Área de Broca y una guía de 5 minutos."
 pubDate: "2026-04-26"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la psicolingüística y la neurociencia de
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre lincoln-reading-aloud se basa en <strong>Verificación Histórica de *Lincoln* de David Herbert Donald, Memorias de William Herndon e Investigación en Neurociencia Cognitiva y Psicolingüística</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Lincoln* de David Herbert Donald, Memorias de William Herndon e Investigación en Neurociencia Cognitiva y Psicolingüística</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El Efecto de Producción y la Neurociencia de la Representación Doble
+## 1. El Efecto de Producción y la Neurociencia de la Representación Doble
 
 Escanear un texto únicamente con los ojos es una lectura pasiva que minimiza el procesamiento cognitivo. En cambio, articular físicamente las palabras con las cuerdas vocales y procesar la propia voz activa un mecanismo de consolidación de memoria conocido como el <strong>Efecto de Producción (Production Effect)</strong>. Al leer en voz alta, el cerebro activa el <strong>Área de Broca</strong>, la corteza motora y la auditiva. Esta estimulación crea una sólida <strong>Representación Doble (Dual Representation)</strong> en la <strong>Memoria de Trabajo</strong> de la <strong>Corteza Prefrontal</strong>, facilitando la fijación en la <strong>Memoria a Largo Plazo</strong>.
 
 ---
 
-## Precaución: Elimine la Presión de la Lectura Rápida para Centrarse en la Articulación Clara
-
-Obsesionarse con la lectura rápida destruye los beneficios neurobiológicos del Efecto de Producción. En una rutina de lectura en voz alta, priorice la articulación clara de cada sílaba, las vibraciones vocales y la retroalimentación auditiva de escuchar su propia voz por encima de la velocidad. La inmersión sensorial activa las redes prefrontales.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Obsesionarse con la lectura rápida destruye los beneficios neurobiológicos del
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine la Presión de la Lectura Rápida para Centrarse en la Articulación Clara
+
+Obsesionarse con la lectura rápida destruye los beneficios neurobiológicos del Efecto de Producción. En una rutina de lectura en voz alta, priorice la articulación clara de cada sílaba, las vibraciones vocales y la retroalimentación auditiva de escuchar su propia voz por encima de la velocidad. La inmersión sensorial activa las redes prefrontales.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué tipo de libro es más efectivo para estimular la alerta prefrontal al leer en voz alta?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Obsesionarse con la lectura rápida destruye los beneficios neurobiológicos del
       Los textos de alta densidad lógica (como filosofía, literatura especializada o informes estratégicos complejos) son mucho más efectivos para la plasticidad prefrontal que la ficción casual o los ensayos ligeros.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo practicar esta rutina en entornos silenciosos como oficinas o bibliotecas?</span>

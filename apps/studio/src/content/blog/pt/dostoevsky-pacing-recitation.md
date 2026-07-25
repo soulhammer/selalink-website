@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Voz a Ecoar no Quarto: A Rotina de Recitação em Marcha e Ditado de Fiódor Dostoiévski"
 description: "Descubra como Fiódor Dostoiévski, autor de 'Crime e Castigo', percorria seu quarto interpretando diálogos antes de ditá-los. Explore a neurociência cognitiva da estimulação do córtex motor, áreas de Broca e Wernicke e neurônios-espelho."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ Segundo as memórias de sua esposa e taquígrafa, Anna Grigórievna, Dostoiévsk
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre dostoevsky-pacing-recitation é baseada em <strong>Verificação Histórica das Memórias de Anna Dostoiévskaia *Memórias (Reminiscences)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Memórias de Anna Dostoiévskaia *Memórias (Reminiscences)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociência da Combinação da Caminhada e Recitação Oral para Ativar Redes da Fala e Neurônios-Espelho
+## 1. Neurociência da Combinação da Caminhada e Recitação Oral para Ativar Redes da Fala e Neurônios-Espelho
 
 Caminhar pelo quarto estimula o córtex motor, aumentando o fluxo sanguíneo cerebral e a oxigenação. Ao mesmo tempo, a recitação oral estabelece um Loop de Retroalimentação Auditivo-Motor, ativando a área de Broca e a área de Wernicke. Além disso, interpretar personagens aciona o sistema de Neurônios-Espelho, atribuindo profundidade psicológica à escrita.
 
 ---
 
-## Precauções e Dicas: Garantir um Espaço Privado Seguro e Evitar Interferências Sociais
-
-Como a recitação oral envolve vocalização, praticar em escritórios abertos ou espaços públicos desencadeia Ansiedade de Avaliação Social, ativando a amídala e interrompendo o fluxo cognitivo. Para obter todos os benefícios, execute esta rotina num espaço privado seguro — como um escritório fechado ou veículo privado.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Como a recitação oral envolve vocalização, praticar em escritórios abertos 
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Garantir um Espaço Privado Seguro e Evitar Interferências Sociais
+
+Como a recitação oral envolve vocalização, praticar em escritórios abertos ou espaços públicos desencadeia Ansiedade de Avaliação Social, ativando a amídala e interrompendo o fluxo cognitivo. Para obter todos os benefícios, execute esta rotina num espaço privado seguro — como um escritório fechado ou veículo privado.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Sussurrar ou ler em silêncio produz os mesmos benefícios cognitivos que falar em voz alta?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Como a recitação oral envolve vocalização, praticar em escritórios abertos 
       Não. Sussurrar não consegue engajar totalmente os músculos articulatórios e gera retroalimentação auditiva insuficiente. Você deve articular com clareza para completar o Loop de Retroalimentação Auditivo-Motor que ativa as áreas de Broca e Wernicke.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É eficaz registrar os pensamentos falados usando notas de voz ou aplicativos de voz para texto (STT) enquanto se caminha?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "결핍을 이겨낸 몰입: 이중섭의 은지화 드로잉 루틴과 체성감각 피질 자극"
 description: "화가 이중섭이 극한의 빈곤 속에서도 담뱃갑 은박지에 그림을 그리며 예술적 끈을 놓지 않은 집중법. 거친 금속박 표면을 긁는 촉각 자극이 체성감각 피질을 활성화하고 다중 감각 피드백으로 마인드풀니스를 유도하는 뇌과학적 원리와 3단계 실천 가이드를 규명합니다."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>이중섭 평전 및 국립현대미술관 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 미술치료학(Art Therapy) 연구</strong>에 근거하여 leejungseob-tin-foil-drawing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>이중섭 평전 및 국립현대미술관 아카이브 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 미술치료학(Art Therapy) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 시각-촉각 다중 감각 피드백(Multisensory Feedback)과 체성감각 피질 자극
+## 1. 시각-촉각 다중 감각 피드백(Multisensory Feedback)과 체성감각 피질 자극
 
 뇌과학에서 촉각(Tactile) 자극은 시각과 청각보다 훨씬 강력한 원시적 주의 집중 센터인 <strong>체성감각 피질(Somatosensory Cortex)</strong>을 활성화합니다. 은박지 같은 금속성 표면에 날카로운 도구로 홈을 긁는 행위는 손가락 끝의 신경 수용체를 자극하여 전전두엽을 즉시 깨우는 <strong>촉각적 각성(Tactile Arousal)</strong>을 유도합니다. 긁히는 감각, 마찰음, 음각의 시각적 깊이가 결합된 <strong>다중 감각 연합 피드백(Multisensory Feedback Loop)</strong>은 뇌의 <strong>작업 기억(Working Memory)</strong> 공간을 가득 채워 불안이나 공상이 생성되는 신경망을 차단하고 깊은 <strong>마인드풀니스(Mindfulness)</strong> 상태를 선사합니다.
 
 ---
 
-## 완벽한 환경을 기다리지 않고 손끝의 촉각 자극에 즉시 몰입하는 수칙
-
-도구나 환경의 결핍을 핑계로 결심을 미루거나 완벽한 준비가 갖춰지길 기다리지 마세요. 버려진 작은 은박지나 종이 조각 위에서도 온 정신을 쏟아내는 촉각적 몰입의 힘은 이미 당신 내면에 갖춰져 있습니다. 손끝의 마찰 감각을 타고 뻗어 나가는 선에 마음의 불안과 잡념을 온전히 맡겨보세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 완벽한 환경을 기다리지 않고 손끝의 촉각 자극에 즉시 몰입하는 수칙
+
+도구나 환경의 결핍을 핑계로 결심을 미루거나 완벽한 준비가 갖춰지길 기다리지 마세요. 버려진 작은 은박지나 종이 조각 위에서도 온 정신을 쏟아내는 촉각적 몰입의 힘은 이미 당신 내면에 갖춰져 있습니다. 손끝의 마찰 감각을 타고 뻗어 나가는 선에 마음의 불안과 잡념을 온전히 맡겨보세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>은박지에 그림을 그리는 행위가 스트레스를 가라앉히는 원리는 무엇인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       금속박지 표면을 긁을 때 뇌로 전달되는 독특한 마찰감과 소리는 체성감각 피드백을 채워주어, 불안과 불필요한 공상을 차단하고 주의력을 시각-촉각적 현재에 단단히 결속시키기 때문입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>은박지나 대못이 없는데 일반 종이와 볼펜으로도 이 루틴을 대체할 수 있나요?</span>

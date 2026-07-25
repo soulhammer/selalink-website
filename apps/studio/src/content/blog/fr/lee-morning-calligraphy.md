@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La philosophie de gestion au bout du pinceau : Le rituel de calligraphie matinale et l'activation du cortex moteur primaire de Lee Byung-chul"
 description: "Découvrez comment Lee Byung-chul, fondateur de Samsung, affinait sa clarté stratégique grâce a son rituel de calligraphie matinale. Explorez la science du contrôle moteur fin, l'activation du cortex moteur primaire, la relaxation autonome et un guide en 3 étapes."
 pubDate: "2026-05-25"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la science du contrôle moteur et la neuroscien
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant lee-morning-calligraphy est basée sur <strong>Vérification Historique issue de l'autobiographie de Ho-Am *Ho-Am Jajeon*, des archives du Groupe Samsung & de la Recherche en Neurosciences Cognitives et Sciences du Contrôle Moteur</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Ho-Am *Ho-Am Jajeon*, des archives du Groupe Samsung & de la Recherche en Neurosciences Cognitives et Sciences du Contrôle Moteur</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation du cortex moteur primaire et relaxation du système nerveux autonome préfrontal
+## 1. Activation du cortex moteur primaire et relaxation du système nerveux autonome préfrontal
 
 À la différence d'un stylo rigide, la calligraphie exige una régulation précise de la pression du pinceau, de la vitesse et de l'angle du tracé. Cette tâche sollicite le <strong>Cortex Moteur Primaire</strong> et le <strong>Cervelet</strong>, freinant la distraction cognitive. De plus, le retour multisensoriel (frictions tactiles et perception visuelle) apaise le <strong>Système Nerveux Autonome</strong> et stimule le contrôle exécutif du <strong>Cortex Préfrontal</strong>, permettant de clarifier les décisions stratégiques.
 
 ---
 
-## Mise en garde : Éliminer le perfectionnisme calligraphique pour s'immerger dans le flux sensorimoteur
-
-S'inquiéter de la perfection esthétique du tracé active des réflexes d'autocritique, réduisant les bienfaits de la relaxation. Cette routine n'est pas un examen artistique, mais un processus de pleine conscience sensorimotrice centré sur le contrôle du geste. Ignorez les légères imperfections et immergez votre esprit dans la sensation du tracé.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ S'inquiéter de la perfection esthétique du tracé active des réflexes d'autoc
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer le perfectionnisme calligraphique pour s'immerger dans le flux sensorimoteur
+
+S'inquiéter de la perfection esthétique du tracé active des réflexes d'autocritique, réduisant les bienfaits de la relaxation. Cette routine n'est pas un examen artistique, mais un processus de pleine conscience sensorimotrice centré sur le contrôle du geste. Ignorez les légères imperfections et immergez votre esprit dans la sensation du tracé.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Par quels objets du quotidien puis-je remplacer le matériel de calligraphie traditionnelle ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ S'inquiéter de la perfection esthétique du tracé active des réflexes d'autoc
       Un stylo plume, un porte-plume ou un crayon sur du papier épais constituent d'excellents substituts. L'essentiel réside dans la perception en temps réel du frottement et le dosage de la pression des doigts. Tout instrument offrant un retour tactile net procure des bienfaits identiques.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Pourquoi est-il préférable de pratiquer cette routine de calligraphie au réveil plutôt que le soir ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Tuning the Soul: Pablo Casals's Morning Bach Prelude Routine and Alpha Wave Induction"
 description: "Discover how legendary cellist Pablo Casals started every morning for over 80 years playing Bach's The Well-Tempered Clavier, and explore the neuroscientific mechanisms of how musical entrainment activates alpha waves and balances the autonomic nervous system."
 pubDate: "2026-02-24"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science behind Pablo Casals's 'Morning Bac
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding casals-bach-prelude is based on <strong>Historical Verification from Pablo Casals's Autobiography *Joys and Sorrows: Reflections by Pablo Casals* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Pablo Casals's Autobiography *Joys and Sorrows: Reflections by Pablo Casals* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Alpha Wave Induction and Autonomic Nervous System Balance via Musical Entrainment
+## 1. Alpha Wave Induction and Autonomic Nervous System Balance via Musical Entrainment
 
 Upon waking, human brains experience a morning cortisol spike—a natural biological surge aimed at breaking sleep inertia that often induces mild anxiety and sympathetic nervous system arousal. Engaging deeply with the structured, mathematical harmonies of Bach triggers 'Musical Entrainment', wherein internal neural oscillations align with the acoustic rhythm and frequency. This strongly stimulates 8–12 Hz alpha waves, inducing a state of relaxed alertness and calm focus. Concurrently, parasympathetic nervous system activity is boosted, stabilizing heart rate and balancing the autonomic nervous system to anchor the brain in emotional composure and readiness.
 
 ---
 
-## Caution & Tips: Excluding Overly Complex or Aggressive Beats & Choosing Harmonious Classics
-
-When designing a morning music routine, avoid overly complex, dissonant, or fast-tempo aggressive genres. Loud rock, pop, or playing highly technical virtuosic pieces can overstimulate the sympathetic nervous system, increasing morning anxiety and cognitive fatigue instead of relaxing the brain. To achieve emotional buffering, select structural, repetitive, and steady-tempo classical or ambient acoustic music, such as Bach's preludes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When designing a morning music routine, avoid overly complex, dissonant, or fast
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Excluding Overly Complex or Aggressive Beats & Choosing Harmonious Classics
+
+When designing a morning music routine, avoid overly complex, dissonant, or fast-tempo aggressive genres. Loud rock, pop, or playing highly technical virtuosic pieces can overstimulate the sympathetic nervous system, increasing morning anxiety and cognitive fatigue instead of relaxing the brain. To achieve emotional buffering, select structural, repetitive, and steady-tempo classical or ambient acoustic music, such as Bach's preludes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can someone who cannot play any musical instruments benefit from Casals's morning routine?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When designing a morning music routine, avoid overly complex, dissonant, or fast
       Yes, absolutely. While physically playing an instrument additionally engages the motor cortex, simply engaging in 'Active Listening'—closing your eyes and surrendering your awareness to sound textures—induces identical alpha wave entrainment. The key is not treating music as passive background noise, but dedicating 10 minutes of complete, focused mindfulness to the auditory nuances.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is wearing headphones more effective when listening to classical music in the morning?</span>

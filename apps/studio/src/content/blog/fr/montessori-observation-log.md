@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pionnière de l'éducation enfantine moderne : La routine du journal d'observation objective de Maria Montessori"
 description: "Maria Montessori, première femme médecin d'Italie et éducatrice pionnière. Découvrez ses techniques d'observation objective éliminant les biais subjectifs pour saisir l'essentiel, ainsi qu'un guide en 3 étapes."
 pubDate: "2026-02-17"
@@ -35,17 +36,17 @@ Dans l'article d'aujourd'hui, nous explorons les principes d'objectivation cogni
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant montessori-observation-log est basée sur <strong>Biographies historiques et récits autobiographiques de Maria Montessori et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Maria Montessori et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Objectivation cognitive pour surmonter le biais de confirmation et percevoir l'essence
+## 1. Objectivation cognitive pour surmonter le biais de confirmation et percevoir l'essence
 
 Nous tombons souvent dans le 'biais de confirmation', en tirant des conclusions hâtives basées sur des spéculations subjectives ou des émotions.
 
@@ -53,9 +54,7 @@ La routine d'observation du Dr Montessori renforce les réseaux de contrôle cog
 
 ---
 
-## Consignez uniquement des faits purs sans évaluations ni adjectifs émotionnels
-
-Le cœur de l'observation Montessori consiste à décrire strictly des faits bruts perçus — comme 'a fermé les yeux 30 fois en 10 minutes' au lieu de 'semble fatigué'. Plutôt que de compter aveuglément sur la volonté, concevoir des environnements physiques et des déclencheurs favorisant la prise de notes factuelle est la clé de la régularité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Le cœur de l'observation Montessori consiste à décrire strictly des faits bru
   </p>
 </div>
 
+---
+
+## 3. Consignez uniquement des faits purs sans évaluations ni adjectifs émotionnels
+
+Le cœur de l'observation Montessori consiste à décrire strictly des faits bruts perçus — comme 'a fermé les yeux 30 fois en 10 minutes' au lieu de 'semble fatigué'. Plutôt que de compter aveuglément sur la volonté, concevoir des environnements physiques et des déclencheurs favorisant la prise de notes factuelle est la clé de la régularité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Cette routine peut-elle être appliquée pour observer ses propres habitudes ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Le cœur de l'observation Montessori consiste à décrire strictly des faits bru
       Oui. Lors du suivi de votre temps ou de la rédaction d'un journal de travail, cette méthode s'applique parfaitement en éliminant la culpabilité et en consignant uniquement les données réelles d'exécution.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment puis-je facilement distinguer les sentiments subjectifs des faits objectifs ?</span>

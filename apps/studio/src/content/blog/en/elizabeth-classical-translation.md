@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Queen Elizabeth I's 'Classical Translation': The Morning Routine That Honed a Monarch's Logical Brain"
 description: "Queen Elizabeth I cultivated fierce rationality and logical prowess by translating Latin classics into English every morning. Explore the cognitive neuroscience of translation routines that activate high-level cognitive control."
 pubDate: "2026-01-09"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience behind Queen Elizabeth I'
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding elizabeth-classical-translation is based on <strong>Historical Verification from *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Historical Biographies & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Historical Biographies & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurological Impact of Manual Translation on the Dorsolateral Prefrontal Cortex
+## 1. Neurological Impact of Manual Translation on the Dorsolateral Prefrontal Cortex
 
 Translation engages not only visual language processing, but intensely activates the dorsolateral prefrontal cortex (dlPFC), which governs cognitive control and logical rule switching. Unlike passive reading, deconstructing semantic structures from one language and synthesizing them into precise grammatical frameworks of another acts as a high-intensity workout for executive function—akin to running a CPU at 100% capacity. This process dramatically enhances analytical reasoning, conceptual depth, and error detection within complex causal chains. Queen Elizabeth I's daily Latin translation routine served as a potent cognitive antidote, filtering out emotional noise and anchoring her brain in calm, objective focus.
 
 ---
 
-## Caution: Mechanical Automated Translation Yields Zero Cognitive Benefit
-
-Instant verification via AI translators or translation apps fails to stimulate prefrontal neural circuits. Cognitive growth and synaptic plasticity occur strictly during the manual struggle—wrestling with dictionaries, deciphering roots, and manually constructing sentence syntax.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Instant verification via AI translators or translation apps fails to stimulate p
   </p>
 </div>
 
+---
+
+## 3. Caution: Mechanical Automated Translation Yields Zero Cognitive Benefit
+
+Instant verification via AI translators or translation apps fails to stimulate prefrontal neural circuits. Cognitive growth and synaptic plasticity occur strictly during the manual struggle—wrestling with dictionaries, deciphering roots, and manually constructing sentence syntax.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it ineffective to instantly verify translation results using AI translators?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Instant verification via AI translators or translation apps fails to stimulate p
       Yes, absolutely. Obtaining instant answers with a single click fails to challenge your brain's cognitive networks. Synaptic connections in the prefrontal cortex strengthen only through 'cognitive friction'—the manual effort of flipping dictionary pages and assembling grammatical frameworks yourself.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does this technique only work with classical languages like Latin and Ancient Greek?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'inspiration d'une promenade quotidienne de deux heures : L'habitude de marche créative de Tchaïkovski"
 description: "Le grand compositeur russe Piotr Ilitch Tchaïkovski marchait exactement deux heures chaque jour pour concevoir des idées musicales. Nous explorons la marche continue et le réseau du mode par défaut (DMN)."
 pubDate: "2026-06-01"
@@ -31,25 +32,23 @@ Dans cet article, nous examinons les raisons scientifiques qui sous-entendent ce
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant tchaikovsky-two-hour-walk est basée sur <strong>Modeste Tchaïkovski, The Life and Letters of Peter Ilich Tchaikovsky (1904) & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Modeste Tchaïkovski, The Life and Letters of Peter Ilich Tchaikovsky (1904) & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stabilisation du rythme des ondes cérébrales grâce à une marche disciplinée de deux heures
+## 1. Stabilisation du rythme des ondes cérébrales grâce à une marche disciplinée de deux heures
 
 L'habitude disciplinée de Tchaïkovski de marcher en plein air pendant deux heures chaque jour à heure fixe augmentait le flux sanguin vers le cortex visuo-spatial et l'hippocampe, incubant de magnifiques mélodies symphoniques. La marche continue active le réseau du mode par défaut (DMN), facilitant la combinaison de souvenirs inconscients et de mélodies.
 
 ---
 
-## Importance de respecter la discipline de marche
-
-Tout comme Tchaïkovski protégeait strictement son temps de marche, les distractions extérieures comme les smartphones ou les notifications de travail doivent être bloquées. Accomplissez pleinement la routine de marche définie pour permettre à votre cerveau d'atteindre le calme émotionnel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Tout comme Tchaïkovski protégeait strictement son temps de marche, les distrac
     Accomplissez la routine de marche de deux heures sans abandonner en cours de route pour augmenter le flux sanguin cérébral et détendre le système nerveux, puis revenez immédiatement à votre bureau.
   </p>
 </div>
+
+---
+
+## 3. Importance de respecter la discipline de marche
+
+Tout comme Tchaïkovski protégeait strictement son temps de marche, les distractions extérieures comme les smartphones ou les notifications de travail doivent être bloquées. Accomplissez pleinement la routine de marche définie pour permettre à votre cerveau d'atteindre le calme émotionnel.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

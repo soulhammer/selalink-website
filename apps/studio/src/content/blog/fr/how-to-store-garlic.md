@@ -21,6 +21,7 @@ faqs:
     answer: "Peeled garlic lacks its protective skin, making it highly vulnerable to humidity. Excess moisture triggers rapid mold growth; keep them dry using sugar and paper towels."
   - question: "Should whole garlic heads be stored in the fridge or at room temp?"
     answer: "Whole garlic heads sprout or rot quickly in the damp fridge. It is best to store them in a mesh bag in a cool, well-ventilated, shady area at room temperature."
+
 ---
 
 Avez-vous déjà pelé beaucoup d'ail à l'avance pour gagner du temps, pour le retrouver ramolli et couvert de moisissure blanche après quelques jours ? Aujourd'hui, FreshSnap vous montre comment éliminer l'humidité.
@@ -29,10 +30,10 @@ Avez-vous déjà pelé beaucoup d'ail à l'avance pour gagner du temps, pour le 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autorité Scientifique Vérifiée
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce guide de conservation est basé sur les directives officielles de : <strong>RDA & MFDS & USDA</strong>.
+      Based on official storage standards. <strong>RDA & MFDS & USDA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Étaler du sucre et du papier absorbant au fond de la boîte — Stockage Réfrigéré (14Jours) 🪙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Suspendre les têtes d'ail dans un filet — Stockage à Temp. Ambiante (30Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Congeler l'ail haché dans des bacs en silicone — Stockage Congelé (180Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

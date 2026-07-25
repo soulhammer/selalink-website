@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "마음의 먼지를 쓰는 아침: 센노 리큐의 정원 청소 루틴"
 description: "다도의 거장 센노 리큐가 정원을 쓸어내며 마음을 닦아낸 일화. 단순 반복 동작을 통해 뇌의 인지 노이즈를 걷어내는 동적 명상의 인지과학적 원리를 설명합니다."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Rikyu Garden Sweeping 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 rikyu-garden-sweeping 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Rikyu Garden Sweeping 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 빗자루 소리와 뇌 인지 노이즈의 앵커링 효과
+## 1. 빗자루 소리와 뇌 인지 노이즈의 앵커링 효과
 
 일정한 리듬의 빗자루질은 뇌에 즉각적이고 단순한 물리적 피드백을 전달하여 주의력을 현재로 묶습니다. 이러한 감각 집중은 불안과 산만함을 조장하는 대뇌 피질의 인지 노이즈 신호를 효과적으로 안정시켜 줍니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다.
 
 ---
 
-## 마음의 먼지를 비우기 위한 다도 거장의 조언
-
-쓸어야 할 진짜 먼지는 땅이 아닌 마음에 있습니다. 매일 아침 가벼운 신체 반복 활동을 통해 뇌에 고요함과 여백을 선물해 보십시오. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     5분 동안의 활동을 종료한 후, 정돈된 구역과 약간의 흐트러짐을 조용히 지켜보며 내면의 고요를 음미합니다.
   </p>
 </div>
+
+---
+
+## 3. 마음의 먼지를 비우기 위한 다도 거장의 조언
+
+쓸어야 할 진짜 먼지는 땅이 아닌 마음에 있습니다. 매일 아침 가벼운 신체 반복 활동을 통해 뇌에 고요함과 여백을 선물해 보십시오. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

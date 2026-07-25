@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le pouvoir de se concentrer sur l'essentiel : La routine de décision à 4 cadrans de Dwight D. Eisenhower"
 description: "Le président Eisenhower a porté le poids de décisions colossales pendant la guerre et au sommet de l'État. Découvrez son secret de gestion du temps pour allouer l'énergie cérébrale à l'essentiel sans céder aux urgences mineures, analysé par les neurosciences cognitives."
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ Dwight D. Eisenhower (1890–1969) fut le commandant suprême des forces alliée
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant eisenhower-matrix-decision est basée sur <strong>Vérification Historique issue de l'autobiographie de Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* & Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Dwight D. Eisenhower *At Ease: Stories I Tell to Friends* & Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prévention de la fatigue décisionnelle et contrôle cognitif préfrontal
+## 1. Prévention de la fatigue décisionnelle et contrôle cognitif préfrontal
 
 Le cortex préfrontal régit les fonctions exécutives et les décisions, mais son réservoir quotidien d'énergie (bande passante cognitive) est très limité. L'exposition répétée à des tâches futiles mais urgentes plonge le cerveau dans la « fatigue décisionnelle », altérant le jugement. La matrice d'Eisenhower organise visuellement les priorités, réduisant la paralysie du choix et la charge cognitive. Cela préserve l'énergie préfrontale, permettant au cerveau de maintenir une concentration sereine et de mener une réflexion stratégique de haut niveau.
 
 ---
 
-## Règle de réservation du temps pour le Cadran 2 (Important mais non urgent)
-
-L'erreur classique lors de la classification consiste à passer la journée dans le Cadran 1 (Urgent & Important). Réagir en permanence aux urgences surstimule les glandes surrénales, inondant le cerveau de cortisol et générant un stress chronique. Le secret réside dans le fait de réserver intentionnellement au moins 20 % de ses ressources cognitives au Cadran 2 (Non urgent mais important) : planification, apprentissage, santé et relations. Prioriser le Cadran 2 garantit un développement durable et réduit considérablement l'apparition de crises dans le Cadran 1.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ L'erreur classique lors de la classification consiste à passer la journée dans
   </p>
 </div>
 
+---
+
+## 3. Règle de réservation du temps pour le Cadran 2 (Important mais non urgent)
+
+L'erreur classique lors de la classification consiste à passer la journée dans le Cadran 1 (Urgent & Important). Réagir en permanence aux urgences surstimule les glandes surrénales, inondant le cerveau de cortisol et générant un stress chronique. Le secret réside dans le fait de réserver intentionnellement au moins 20 % de ses ressources cognitives au Cadran 2 (Non urgent mais important) : planification, apprentissage, santé et relations. Prioriser le Cadran 2 garantit un développement durable et réduit considérablement l'apparition de crises dans le Cadran 1.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment préserver le Cadran 2 (Important mais non urgent) lorsque les urgences s'accumulent au travail ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ L'erreur classique lors de la classification consiste à passer la journée dans
       Si tout paraît urgent, c'est que les exigences extérieures priment sur vos priorités. Mettez en place un créneau strict de « Ne pas déranger » pendant les 30 premières minutes de votre journée, sans consulter vos e-mails, dédié exclusivement au Cadran 2. Réserver ce moment est le catalyseur qui réduira les urgences futures.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quel est le critère objectif pour distinguer les tâches « Importantes » des tâches « Urgentes » ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Invenção na Escuridão Total: A Deprivação Sensorial à Meia-Noite e Trabalho Profundo de Alexander Graham Bell"
 description: "Explore como Alexander Graham Bell, inventor do telefone que revolucionou a comunicação humana, eliminou a sobrecarga sensorial e despertou a função executiva cerebral por meio do trabalho profundo na 'escuridão total à meia-noite', e descubra o mecanismo neurocientífico da deprivação sensorial."
 pubDate: "2026-05-12"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'Depriv
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre bell-midnight-darkness é baseada em <strong>Verificação Histórica da Biografia de Robert V. Bruce *Bell: Alexander Graham Bell and the Conquest of Solitude* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Robert V. Bruce *Bell: Alexander Graham Bell and the Conquest of Solitude* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ativação dos Circuitos do Esboço Viso-Espacial via Deprivação Visual e Auditiva
+## 1. Ativação dos Circuitos do Esboço Viso-Espacial via Deprivação Visual e Auditiva
 
 Do ponto de vista neurocientífico, interromper temporariamente os estímulos visuais e auditivos externos permite ao cérebro realocar a atenção anteriormente gasta com receptores sensoriais para os córtex de associação de ordem superior. Esse estado de Deprivação Sensorial suprime as respostas de ansiedade da amígdala e ativa fortemente o circuito do 'Esboço Viso-Espacial (Visuospatial Sketchpad)', essencial para a memória de trabalho. Como resultado, as funções de controle executivo do córtex pré-frontal — que visualizam e montam mentalmente estruturas complexas ou ideias em 3D — melhoram drasticamente.
 
 ---
 
-## Precauções e Dicas: Prevenção da Transição para o Sono na Escuridão Total
-
-Deitar-se na escuridão total leva facilmente o cérebro a reconhecer um ambiente de sono, transitando para o sono de ondas lentas. Portanto, ao praticar essa rotina de deprivação sensorial, sente-se ereto em uma cadeira com encosto em vez de se deitar na cama. Se o sono surgir, mantenha o alerta cognitivo por meio de leves exercícios táteis, como apertar e soltar com força a ponta dos dedos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Deitar-se na escuridão total leva facilmente o cérebro a reconhecer um ambient
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Prevenção da Transição para o Sono na Escuridão Total
+
+Deitar-se na escuridão total leva facilmente o cérebro a reconhecer um ambiente de sono, transitando para o sono de ondas lentas. Portanto, ao praticar essa rotina de deprivação sensorial, sente-se ereto em uma cadeira com encosto em vez de se deitar na cama. Se o sono surgir, mantenha o alerta cognitivo por meio de leves exercícios táteis, como apertar e soltar com força a ponta dos dedos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Esta rotina de deprivação sensorial só funciona se praticada em um horário fixo diariamente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Deitar-se na escuridão total leva facilmente o cérebro a reconhecer um ambient
       Praticar no mesmo horário diariamente condiciona o cérebro a reconhecer esse período como um momento de pausa sensorial e trabalho profundo, acelerando a transição cognitiva. No entanto, mesmo sem um horário fixo, aplicá-la como ferramenta de descanso cerebral de emergência durante momentos de estresse agudo ou sobrecarga sensorial oferece benefícios significativos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como devo proceder em ambientes onde o ruído ao redor não pode ser completamente eliminado?</span>

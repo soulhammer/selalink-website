@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mukjizat Gunting di Atas Tempat Tidur: Metode Potongan Kertas Henri Matisse Meredakan Rasa Sakit"
 description: "Henri Matisse, maestro besar sejarah seni. Pelajari bagaimana ia mengatasi rasa sakit dan menciptakan mahakarya dari tempat tidur setelah operasi kanker di usia senja menggunakan gunting, serta ilmu saraf di balik penyembuhan visual-taktil."
 pubDate: "2026-05-17"
@@ -35,17 +36,17 @@ Dalam artikel hari ini, kami mengeksplorasi ilmu relaksasi visual-taktil dalam r
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai matisse-paper-cutout didasarkan pada <strong>Verifikasi Biografi Historis Henri Matisse & Riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Biografi Historis Henri Matisse & Riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Umpan Balik Visual-Taktil yang Mengalihkan Rasa Sakit dan Merangsang Plastisitas Otak
+## 1. Umpan Balik Visual-Taktil yang Mengalihkan Rasa Sakit dan Merangsang Plastisitas Otak
 
 Saat otak mengalami rasa sakit fisik atau stres berat, hanya berbaring pasif justru membuat perhatian tetap terkunci pada jaringan rasa sakit.
 
@@ -53,9 +54,7 @@ Aktivitas motorik halus seperti memotong kertas dengan teliti—seperti yang dil
 
 ---
 
-## Kreasi di Ujung Jari Menyembuhkan Otak yang Lelah
-
-Setiap hari kita menumpuk kelelahan visual lewat aktivitas pasif di media sosial. Cobalah ritual taktil seperti Matisse—meski seminggu sekali—dengan menggunting kertas warna-warni secara bebas dan menatanya di buku atau dinding. Ini adalah terapi detox mental artistik yang memulihkan sirkuit sensorik otak.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Setiap hari kita menumpuk kelelahan visual lewat aktivitas pasif di media sosial
   </p>
 </div>
 
+---
+
+## 3. Kreasi di Ujung Jari Menyembuhkan Otak yang Lelah
+
+Setiap hari kita menumpuk kelelahan visual lewat aktivitas pasif di media sosial. Cobalah ritual taktil seperti Matisse—meski seminggu sekali—dengan menggunting kertas warna-warni secara bebas dan menatanya di buku atau dinding. Ini adalah terapi detox mental artistik yang memulihkan sirkuit sensorik otak.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah pemula tanpa bakat seni tetap bisa merasakan manfaatnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Setiap hari kita menumpuk kelelahan visual lewat aktivitas pasif di media sosial
       Ya. Hasil karya estetis tidak penting. Manfaat utamanya terletak pada stimulasi taktil gerakan gunting dan masukan visual warna-warna cerah ke otak. Proses ini mengalihkan rasa sakit dan merangsang plastisitas otak, terlepas dari seberapa kasar bentuknya.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana jika menggunakan tanah liat atau aplikasi menggambar alih-alih menggunting kertas?</span>

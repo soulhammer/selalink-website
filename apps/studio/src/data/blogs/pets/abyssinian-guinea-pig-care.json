@@ -507,6 +507,10 @@
           "기니피그팝코닝"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/abyssinian_guinea_pig_care.png"
   }
 }

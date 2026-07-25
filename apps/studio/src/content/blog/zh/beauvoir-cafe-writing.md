@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "喧嚣中的专注：西蒙娜·德·波伏娃的咖啡馆白噪音与环境简化习惯"
 description: "探索存在主义哲学家兼小说家西蒙娜·德·波伏娃每天在巴黎常去的咖啡馆品茶写作的习惯，揭示温和白噪音唤醒大脑的神经学原理，并介绍构建专属“专注工作区（Focus Zone）”的方法。"
 pubDate: "2026-06-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 beauvoir-cafe-writing 的内容基于 <strong>西蒙娜·德·波伏娃自传《岁月的力量（La Force des choses）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>西蒙娜·德·波伏娃自传《岁月的力量（La Force des choses）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 白噪音与认知脚本的作用机制
+## 1. 白噪音与认知脚本的作用机制
 
 在脑科学层面，每天面对完全相同的物理环境（固定座位、特定饮品）会触发“认知脚本（Cognitive Script）”，减少决策疲劳，帮助大脑顺畅过渡到深度专注状态。此外，咖啡馆特有的50至70分贝（dB）柔和白噪音（White Noise）能刺激脑波激活阿尔法（Alpha）波，进而激发创造力与问题解决能力。周围低调动态的活动适度刺激大脑的镜像神经元系统，提供一种缓解孤独感的心理安全感，从而将深度工作（Deep Work）效率发挥至极致。
 
 ---
 
-## 注意事项与提示：警惕社交噪音与言语噪音
-
-并非所有噪音都对大脑有益。超过70分贝的大音量音乐或清晰可闻的旁人交谈（言语噪音，Speech Noise）会干扰大脑的语音回路（Phonological Loop），降低阅读理解与逻辑写作能力。应选择维持平静噪音水平的场所；若环境中的交谈声过于清晰，则需积极使用主动降噪耳机来排除认知干扰。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：警惕社交噪音与言语噪音
+
+并非所有噪音都对大脑有益。超过70分贝的大音量音乐或清晰可闻的旁人交谈（言语噪音，Speech Noise）会干扰大脑的语音回路（Phonological Loop），降低阅读理解与逻辑写作能力。应选择维持平静噪音水平的场所；若环境中的交谈声过于清晰，则需积极使用主动降噪耳机来排除认知干扰。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>西蒙娜·德·波伏娃为何选择花神咖啡馆作为写作场所？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       在20世纪40年代巴黎严寒时期，花神咖啡馆室内炉火通明，且拥有对艺术家与知识分子极其友好的氛围，允许他们长时间停留而不施加压力，因此成为最理想稳定的创作空间。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在家庭或居家办公环境中也能实现相同的认知脚本吗？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "프란시스 베이컨의 아침 정원 산책: 자연 관찰로 뇌 피로를 리셋하는 법"
 description: "경험론의 대가 프란시스 베이컨이 매일 아침 정원을 산책하며 식물과 날씨를 관찰하고, 뇌의 피로를 풀어 귀납법적 철학을 정립한 방식을 알아봅니다."
 pubDate: "2026-01-04"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>프란시스 베이컨 수필집 『수상록(Of Gardens)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 bacon-nature-observation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>프란시스 베이컨 수필집 『수상록(Of Gardens)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 자연 관찰 산책이 주의 집중력을 되찾아주는 이유
+## 1. 자연 관찰 산책이 주의 집중력을 되찾아주는 이유
 
 현대인의 업무는 인위적인 '의도적 주의 집중력(Directed Attention)'을 필요로 하여 전전두엽 피질을 쉽게 피로하게 만듭니다. 환경 심리학의 주의 회복 이론(Attention Restoration Theory)에 따르면, 나뭇잎이 흔들리는 소리나 비치는 햇살 같은 자연의 자극은 '부드러운 이끌림(Soft Fascination)'을 유발합니다. 이는 의도적으로 뇌를 쓰지 않고도 주의력을 자연스럽게 이동시켜, 지쳐 있던 전전두엽의 인지 제어 네트워크가 휴식하고 재충전되어 귀납적 사고력과 창의적 문제 해결력을 극대화할 수 있도록 돕습니다.
 
 ---
 
-## 디지털 자극의 완벽한 오프라인화
-
-산책하면서 스마트폰으로 사진을 찍거나, 문자 메시지에 응답하고, 유익한 팟캐스트를 듣는 행위는 뇌의 의도적 주의력을 계속 사용하게 만듭니다. 주의 회복 효과를 얻으려면 스마트폰을 무음으로 설정하여 완전히 격리해야 합니다. 오직 오프라인의 감각적 자극에만 몰두하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     산책을 마친 뒤 업무 공간으로 복귀해, 두뇌 휴식 과정에서 새롭게 조율된 생각이나 문제의 해결책을 기록합니다. 완전히 충전된 전전두엽은 명확한 해답을 낼 것입니다.
   </p>
 </div>
+
+---
+
+## 3. 디지털 자극의 완벽한 오프라인화
+
+산책하면서 스마트폰으로 사진을 찍거나, 문자 메시지에 응답하고, 유익한 팟캐스트를 듣는 행위는 뇌의 의도적 주의력을 계속 사용하게 만듭니다. 주의 회복 효과를 얻으려면 스마트폰을 무음으로 설정하여 완전히 격리해야 합니다. 오직 오프라인의 감각적 자극에만 몰두하세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

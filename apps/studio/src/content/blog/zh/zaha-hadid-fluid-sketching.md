@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "打破直线网格的建筑大师：扎哈·哈迪德的有机曲线草图习惯"
 description: "普利兹克奖得主扎哈·哈迪德。介绍她打破网格思维、用手自由绘制有机曲线以构思三维空间的脑力激发法及3步实操指南。"
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 zaha-hadid-fluid-sketching 的内容基于 <strong>扎哈·哈迪德历史传记与自传文献考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>扎哈·哈迪德历史传记与自传文献考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 刺激右脑视空间处理回路（Visuospatial Processing）
+## 1. 刺激右脑视空间处理回路（Visuospatial Processing）
 
 过度依赖固定的网格指引和直线会导致左脑逻辑区域占为主导，从而强化固有思维。像哈迪德那样绘制无拘无束的<strong>有机手绘草图</strong>，能激活右脑的视空间处理区域，使全新的视觉灵感爆发。
 
 ---
 
-## 谨防起步阶段过于执着于画面完美度与精准度
-
-如果起步阶段想着“画一幅好看的图”而使用尺子或纠正不对称，大脑的自由发散回路就会关闭。前5分钟请完全忽略完美度，仅专注于线条本身的流动。不要单靠意志力，提前构建能自然促成行动的物理环境与习惯诱因才是持之以恒的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 谨防起步阶段过于执着于画面完美度与精准度
+
+如果起步阶段想着“画一幅好看的图”而使用尺子或纠正不对称，大脑的自由发散回路就会关闭。前5分钟请完全忽略完美度，仅专注于线条本身的流动。不要单靠意志力，提前构建能自然促成行动的物理环境与习惯诱因才是持之以恒的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>即使完全没有绘画基础也可以使用这个习惯吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可以！此目的并非创作艺术品，而是通过“手部运动刺激右脑视空间回路”的认知训练，哪怕是随手涂鸦级别的线条也能取得极佳效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>使用平板电脑与数字手写笔也能达到同样的效果吗？</span>

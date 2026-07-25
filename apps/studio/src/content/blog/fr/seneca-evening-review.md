@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Examen du soir de Sénèque : Comment assurer un sommeil paisible et corriger les erreurs d'hier"
 description: "Découvrez comment le philosophe stoïcien Sénèque examinait sa journée dans une pièce sombre avant de dormir, apaisant les tensions cérébrales et améliorant le sommeil."
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ Ce rituel antique favorisant la clôture cognitive est reconnu par la neurophysi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant seneca-evening-review est basée sur <strong>Vérification textuelle de 'De Ira' (De la colère) de Sénèque, littérature stoïcienne & recherche en neurosciences cognitives et physiologie du sommeil</strong>.
+      Ce contenu est basé sur <strong>Vérification textuelle de 'De Ira' (De la colère) de Sénèque, littérature stoïcienne & recherche en neurosciences cognitives et physiologie du sommeil</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Raisons physiologiques pour lesquelles la réflexion du soir fait basculer le cerveau en mode sommeil
+## 1. Raisons physiologiques pour lesquelles la réflexion du soir fait basculer le cerveau en mode sommeil
 
 S'endormir avec des inquiétudes non résolues maintient le système nerveux sympathique actif, empêchant le sommeil profond.
 
@@ -51,9 +52,7 @@ L'examen du soir induit la 'Clôture Cognitive'. Passer en revue ses actes et to
 
 ---
 
-## Évitez le piège de la culpabilité et du ressentiment
-
-L'objectif est une amélioration rationnelle, non une auto-punition émotionnelle. Se blâmer avant de dormir libère des hormones de stress. Pardonnez-vous calmement : "J'ai commis une erreur, j'en comprends la cause et je la corrigerai demain."
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ L'objectif est une amélioration rationnelle, non une auto-punition émotionnell
     Choisissez le moment le plus regrettable de la journée et fixez une amélioration concrète pour demain. Dites-vous ensuite : "Ma journée est accomplie", et lâchez prise.
   </p>
 </div>
+
+---
+
+## 3. Évitez le piège de la culpabilité et du ressentiment
+
+L'objectif est une amélioration rationnelle, non une auto-punition émotionnelle. Se blâmer avant de dormir libère des hormones de stress. Pardonnez-vous calmement : "J'ai commis une erreur, j'en comprends la cause et je la corrigerai demain."
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

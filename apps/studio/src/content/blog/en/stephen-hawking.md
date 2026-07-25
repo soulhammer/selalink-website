@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rendering Space Amid Total Paralysis: Stephen Hawking's Virtual Blackboard Training"
 description: "A world-renowned theoretical physicist who overcame ALS. Unable to hold a pen due to paralysis, Hawking activated a virtual blackboard in his mind to mathematically map out multi-dimensional space."
 pubDate: "2026-06-23"
@@ -36,22 +37,20 @@ In this post, we explore the cognitive science behind Hawking's virtual blackboa
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding stephen-hawking is based on <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
+      This content is based on <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscientific Analysis of How Visualization Drives Success
+## 1. Neuroscientific Analysis of How Visualization Drives Success
 
 Vividly 3D rendering and rotating abstract shapes or complex variables in your mind stimulates the 'Visuospatial Sketchpad', a core component of working memory. This strengthens synaptic connections between the parietal lobe and prefrontal cortex, enhancing your brain's capacity to structure multi-dimensional concepts and execute high-level mental architecture.
 
 ---
 
-## Behavioral Science Advice for Successful Habit Building
-
-Do not strain your mind or cause headaches by forcing high-resolution mental images. Gently projecting simple outlines or 3D wireframes onto your virtual blackboard while taking soft breaths is more than sufficient. Rather than relying solely on willpower, design environmental cues that naturally prompt this mental visualization.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Do not strain your mind or cause headaches by forcing high-resolution mental ima
   </p>
 </div>
 
+---
+
+## 3. Behavioral Science Advice for Successful Habit Building
+
+Do not strain your mind or cause headaches by forcing high-resolution mental images. Gently projecting simple outlines or 3D wireframes onto your virtual blackboard while taking soft breaths is more than sufficient. Rather than relying solely on willpower, design environmental cues that naturally prompt this mental visualization.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>When I close my eyes, I only see a pitch-black screen. What should I do?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Do not strain your mind or cause headaches by forcing high-resolution mental ima
       This is a completely normal response. Do not force high-definition 3D spheres; start by holding a simple 2D shape, like an orange square or white triangle, steady in your mind for 3 seconds.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does enhancing this mental sketchpad capability help with organizing complex workflows and setting priorities?</span>

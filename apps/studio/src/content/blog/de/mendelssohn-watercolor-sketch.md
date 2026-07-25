@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "In Farben gegossene Melodien? Felix Mendelssohns morgendliche Aquarell-Routine"
 description: "Der geniale Komponist Felix Mendelssohn weckte jeden Morgen seine musikalische Inspiration durch Aquarellmalerei. Entdecken Sie die neurowissenschaftliche Kreuzstimulation zwischen Kunst und Musik."
 pubDate: "2026-01-20"
@@ -35,17 +36,17 @@ In diesem Beitrag stellen wir die kognitionswissenschaftlichen Grundlagen des se
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu mendelssohn-watercolor-sketch basiert auf <strong>Historisch-kritische Biografie und autobiografische Aufzeichnungen zu Felix Mendelssohn & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historisch-kritische Biografie und autobiografische Aufzeichnungen zu Felix Mendelssohn & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Der Effekt der 'Cross-Modalen Assoziation' über die Sinne hinweg
+## 1. Der Effekt der 'Cross-Modalen Assoziation' über die Sinne hinweg
 
 Beim Malen aktiviert das Gehirn die visuelle Hirnrinde (Visual Cortex) und räumliche Kognitionsbereiche, um Formen präzise zu erfassen. Die Neurowissenschaft bezeichnet das Phänomen, bei dem die Aktivierung eines Sinnesbereichs die Kreativität in einem anderen steigert, als <strong>'Cross-modale Assoziation'</strong>.
 
@@ -53,9 +54,7 @@ Während Felix Mendelssohn jeden Morgen Landschaften beobachtete und Farben sowi
 
 ---
 
-## Leistungssteigerung ist nicht das Ziel; einfache Entspannung und Erfrischung der Sinne sind entscheidend
-
-Wir skizzieren nicht, um professionelle Künstler zu werden. Es geht darum, dem von Texten, Zahlen und Logik beanspruchten Frontallappen eine Pause zu gönnen und durch eine nicht-verbale, visuell-taktile künstlerische Bewegung die Verbindungskraft neuronaler Netzwerke flexibel zu regenerieren. Sorgen Sie sich nicht um krumme Linien; konzentrieren Sie sich einfach auf das spürbare Erlebnis.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Wir skizzieren nicht, um professionelle Künstler zu werden. Es geht darum, dem 
   </p>
 </div>
 
+---
+
+## 3. Leistungssteigerung ist nicht das Ziel; einfache Entspannung und Erfrischung der Sinne sind entscheidend
+
+Wir skizzieren nicht, um professionelle Künstler zu werden. Es geht darum, dem von Texten, Zahlen und Logik beanspruchten Frontallappen eine Pause zu gönnen und durch eine nicht-verbale, visuell-taktile künstlerische Bewegung die Verbindungskraft neuronaler Netzwerke flexibel zu regenerieren. Sorgen Sie sich nicht um krumme Linien; konzentrieren Sie sich einfach auf das spürbare Erlebnis.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Können auch Personen ohne jegliches Zeichentalent von der morgendlichen Skizze profitieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Wir skizzieren nicht, um professionelle Künstler zu werden. Es geht darum, dem 
       Absolut. Das Ziel ist nicht das Vorführen künstlerischen Könnens, sondern das Senden visueller Beobachtungs- und handmotorischer Koordinationssignale an das Gehirn. Selbst bei unvollkommener Komposition oder ungeschickten Linien treten Stimulation und Entspannung der sensorischen Hirnareale identisch auf.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Reicht eine Bleistift- oder Kugelschreiberzeichnung anstelle von Aquarell für die Kreuzstimulation aus?</span>

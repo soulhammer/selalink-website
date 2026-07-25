@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "光を脳に刻む？ ターナーの早朝の日の出対比感度観察法"
 description: "「光の画家」ターナーの独創的な色彩表現は、毎朝早朝の日の出を見つめる習慣から誕生しました。脳の視覚認知を活性化するターナーの色彩 gaze 法を紹介します。"
 pubDate: "2026-02-27"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「turner-dawn-observation」は <strong>J.M.W.ターナーの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>J.M.W.ターナーの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 視覚皮質を刺激する光の漸進的な変化
+## 1. 視覚皮質を刺激する光の漸進的な変化
 
 日の出の天空は短い時間で色温度が急激に変化し、低い青色光から明るい自然光へと移り変わります。この漸進的な視覚刺激は、脳の視覚皮質の対比感度（Contrast Sensitivity）を高度に鍛え上げます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 強い太陽光を直接見つめないようご注意ください
-
-ターナーのルーティンの核心は、太陽の強い光源を直接見つめることではありません。日が昇る直前の淡い空の光や、霧、雲に反射して広がる柔らかい散乱光を観察することです。網膜の損傷を防ぐため、強い太陽光を正面から長時間見つめることは絶対に避けてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 強い太陽光を直接見つめないようご注意ください
+
+ターナーのルーティンの核心は、太陽の強い光源を直接見つめることではありません。日が昇る直前の淡い空の光や、霧、雲に反射して広がる柔らかい散乱光を観察することです。網膜の損傷を防ぐため、強い太陽光を正面から長時間見つめることは絶対に避けてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>曇りや霧の多い日でもこのルーティンを行うべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       むしろその方が好都合です。ターナーは快晴の日よりも、曇りや吹雪、霧の立ち込める大気の散乱光を観察することをはるかに好みました。曇りの日には、大気中の水蒸気と光が作り出す絶妙な陰影の変化をより鮮明に捉えることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>早朝起きるのが難しいため、昼間に太陽光を見てもいいですか？</span>

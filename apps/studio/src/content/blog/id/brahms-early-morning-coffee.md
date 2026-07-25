@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Harmoni Kopi Pukul 5 Pagi dan Jalan Pagi: Rutinitas Stimulasi Pagi yang Kuat ala Johannes Brahms"
 description: "Pelajari bagaimana maestro klasik Jerman Johannes Brahms menyeduh kopi hitam pada pukul 5 pagi setiap hari dan berjalan cepat melalui jalan setapak hutan, serta temukan mekanisme neurosains dari sekresi BDNF dan peningkatan memori kerja ketika kafein digabungkan dengan olahraga aerobik."
 pubDate: "2026-06-13"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'kopi 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai brahms-early-morning-coffee didasarkan pada <strong>Verifikasi Historis dari Biografi Max Kalbeck *Johannes Brahms* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Max Kalbeck *Johannes Brahms* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergi Kognitif dari Stimulasi Kafein, Pelepasan BDNF Pasca-Berjalan, dan Memori Kerja
+## 1. Sinergi Kognitif dari Stimulasi Kafein, Pelepasan BDNF Pasca-Berjalan, dan Memori Kerja
 
 Kafein dalam kopi pagi memblokir pengikatan reseptor adenosin (Adenosine), memotong sinyal kelelahan otak sekaligus merangsang pelepasan norepinefrin (Norepinephrine) dan dopamin (Dopamine) untuk mendorong kewaspadaan. Ketika jalan cepat langsung menyusul aktivasi fisiologis ini, aliran darah otak meningkat dan Brain-Derived Neurotrophic Factor (BDNF) dilepaskan. BDNF melindungi neuron dan memperkuat neuroplastisitas sinaptik. Akibatnya, rutinitas fajar Brahms menggabungkan stimulasi sistem saraf pusat dari kafein dengan peningkatan pasokan oksigen dari berjalan kaki, secara buatan meningkatkan kapasitas memori kerja (Working Memory) dan perencanaan kreatif hingga ke puncaknya.
 
 ---
 
-## Perhatian & Tip: Mempertimbangkan Ritme Kortisol & Waktu Minum Kopi Setelah Bangun
-
-Jika kafein dikonsumsi segera setelah bangun tidur saat kadar kortisol (Cortisol) secara alami berada di puncaknya, efek stimulasi kafein akan berkurang dan dapat menyebabkan ketidaknyamanan pencernaan. Hidrasi tubuh terlebih dahulu dengan air hangat saat bangun dan tunggulah 30 menit hingga satu jam sebelum minum kopi, menyerap kafein saat kadar kortisol alami mereda—sebuah pendekatan yang lebih sehat dan efektif untuk penjangkaran kognitif.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jika kafein dikonsumsi segera setelah bangun tidur saat kadar kortisol (Cortisol
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mempertimbangkan Ritme Kortisol & Waktu Minum Kopi Setelah Bangun
+
+Jika kafein dikonsumsi segera setelah bangun tidur saat kadar kortisol (Cortisol) secara alami berada di puncaknya, efek stimulasi kafein akan berkurang dan dapat menyebabkan ketidaknyamanan pencernaan. Hidrasi tubuh terlebih dahulu dengan air hangat saat bangun dan tunggulah 30 menit hingga satu jam sebelum minum kopi, menyerap kafein saat kadar kortisol alami mereda—sebuah pendekatan yang lebih sehat dan efektif untuk penjangkaran kognitif.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Brahms secara gigih bersikeras untuk menyeduh kopinya sendiri daripada membiarkan orang lain melakukannya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jika kafein dikonsumsi segera setelah bangun tidur saat kadar kortisol (Cortisol
       Brahms adalah seorang perfeksionis yang percaya bahwa kekuatan kopi berdampak langsung pada kondisi kewaspadaan paginya. Aktivitas motorik halus dari menggiling biji kopi dan menyeduh secara manual bertindak sebagai jangkar mental (Mental Anchor) yang kuat, memfokuskan perhatian otaknya untuk hari itu.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana secara spesifik jalan pagi berkontribusi pada stimulasi otak dan kreativitas?</span>

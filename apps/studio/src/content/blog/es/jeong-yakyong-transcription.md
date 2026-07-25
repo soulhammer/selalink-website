@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Motor Detrás de 500 Volúmenes en el Exilio: La Rutina de Transcripción Selectiva, Cartas y Codificación Cognitiva de Dasan Jeong Yak-yong"
 description: "Descubra cómo Dasan Jeong Yak-yong, el gran erudito Silhak de Joseon, escribió más de 500 volúmenes durante sus 18 años de exilio mediante la transcripción selectiva ('Choseo') y cartas a sus hijos. Explore la neurociencia de la codificación cognitiva y la metacognición."
 pubDate: "2026-02-01"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre jeong-yakyong-transcription se basa en <strong>Verificación Histórica de las Obras Completas de Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, Autobiografía *Saam Yeonbo* e Investigación en Neurociencia Cognitiva y Metacognición</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Obras Completas de Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, Autobiografía *Saam Yeonbo* e Investigación en Neurociencia Cognitiva y Metacognición</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Codificación Cognitiva Mediante la Sincronización Mano-Cerebro y Metacognición
+## 1. Codificación Cognitiva Mediante la Sincronización Mano-Cerebro y Metacognición
 
 Leer texto de forma pasiva activa redes neuronales completamente diferentes que transcribir y resumir pasajes a mano. El movimiento grafomotor estimula la <strong>Corteza Somatosensorial</strong>, enviando señales a la <strong>Corteza Prefrontal</strong> y a la <strong>Corteza de Asociación</strong> para impulsar la <strong>Codificación Cognitiva</strong>. Además, reestructurar el conocimiento para enseñarlo a otros a través de cartas potencia la <strong>Metacognición</strong>, consolidando la información en la memoria a largo plazo.
 
 ---
 
-## Precaución: Concéntrese en el Resumen Activo y los Comentarios en Lugar de Copiar Mecánicamente
-
-La trampa más común al tomar notas es copiar texto crudo mecánicamente. La transcripción literal sin procesamiento prefrontal activo no logra generar codificación cognitiva. El verdadero conocimiento se construye solo cuando sintetiza las ideas principales a través de sus propios filtros e incluye al menos una línea de reflexión personal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La trampa más común al tomar notas es copiar texto crudo mecánicamente. La tr
   </p>
 </div>
 
+---
+
+## 3. Precaución: Concéntrese en el Resumen Activo y los Comentarios en Lugar de Copiar Mecánicamente
+
+La trampa más común al tomar notas es copiar texto crudo mecánicamente. La transcripción literal sin procesamiento prefrontal activo no logra generar codificación cognitiva. El verdadero conocimiento se construye solo cuando sintetiza las ideas principales a través de sus propios filtros e incluye al menos una línea de reflexión personal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Mecanografiar notas en un teclado digital ofrece los mismos beneficios de codificación que escribir a mano?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La trampa más común al tomar notas es copiar texto crudo mecánicamente. La tr
       No. Escribir a mano con bolígrafo en papel estimula intensamente la corteza somatosensorial, mejorando la codificación cognitiva. Aunque teclear es más rápido, presionar teclas idénticas ofrece una retroalimentación táctil uniforme sin estimulación neural. Para consolidar la memoria a largo plazo, la transcripción manual es mucho más eficaz.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Explicar conceptos a otros activa los beneficios metacognitivos aunque no sea mediante una carta escrita?</span>

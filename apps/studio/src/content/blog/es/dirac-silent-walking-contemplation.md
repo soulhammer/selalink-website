@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Genio que Caminaba en Silencio Mínimo: La Rutina de Caminata Silenciosa y Eliminación de Ruido Lingüístico de Paul Dirac"
 description: "Descubra cómo el pionero de la mecánica cuántica y Premio Nobel Paul Dirac refinó la Ecuación de Dirac mediante caminatas dominicales en silencio. Explore la neurociencia cognitiva del alivio del ruido lingüístico y la activación visuoespacial parietal."
 pubDate: "2026-04-25"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre dirac-silent-walking-contemplation se basa en <strong>Verificación Histórica de la Biografía de Graham Farmelo *El hombre más extraño (The Strangest Man: The Hidden Life of Paul Dirac)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Graham Farmelo *El hombre más extraño (The Strangest Man: The Hidden Life of Paul Dirac)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Eliminación del Ruido Lingüístico y Activación de los Circuitos Visuoespaciales Parietales
+## 1. Eliminación del Ruido Lingüístico y Activación de los Circuitos Visuoespaciales Parietales
 
 El diálogo verbal continuo y el procesamiento de textos sobrecargan las redes del lenguaje del hemisferio izquierdo, consumiendo el ancho de banda prefrontal. Caminar con ritmo manteniendo un silencio absoluto detiene el procesamiento lingüístico, aliviando la tensión del hemisferio izquierdo. La neurociencia cognitiva demuestra que la caminata silenciosa activa el 'Borrador Visuoespacial' del lóbulo parietal. Silenciar el diálogo verbal permite al cerebro reorganizar problemas complejos en representaciones geométricas intuitivas.
 
 ---
 
-## Precauciones y Consejos: Exclusión Total de Medios Auditivos y Lingüísticos
-
-Escuchar podcasts, audiolibros o noticias durante la caminata mantiene al cerebro atrapado en el procesamiento de sintaxis y la decodificación verbal. Esto prolonga la fatiga del hemisferio izquierdo e impide la contemplación silenciosa. Para una rutina al estilo Dirac, permita un descanso total a sus circuitos del habla y del lenguaje auditivo. Acepte solo sonidos ambientales no verbales para activar las redes parietales.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Escuchar podcasts, audiolibros o noticias durante la caminata mantiene al cerebr
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Exclusión Total de Medios Auditivos y Lingüísticos
+
+Escuchar podcasts, audiolibros o noticias durante la caminata mantiene al cerebro atrapado en el procesamiento de sintaxis y la decodificación verbal. Esto prolonga la fatiga del hemisferio izquierdo e impide la contemplación silenciosa. Para una rutina al estilo Dirac, permita un descanso total a sus circuitos del habla y del lenguaje auditivo. Acepte solo sonidos ambientales no verbales para activar las redes parietales.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Una caminata silenciosa produce los mismos beneficios cognitivos en el centro de una ciudad ruidosa?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Escuchar podcasts, audiolibros o noticias durante la caminata mantiene al cerebr
       Sí. El factor decisivo no es el silencio ambiental absoluto, sino interrumpir la entrada de información lingüística (conversaciones, podcasts o lecturas). Incluso en una ciudad bulliciosa, el uso de auriculares con cancelación de ruido para mitigar el estruendo ambiental mientras se evita el consumo de lenguaje ofrece beneficios idénticos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Debo detenerme a registrar pensamientos brillantes inmediatamente mientras camino?</span>

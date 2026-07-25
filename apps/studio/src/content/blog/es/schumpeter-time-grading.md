@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metacognición del tiempo: la rutina del boletín de calificaciones diario de Joseph Schumpeter"
 description: "El economista Joseph Schumpeter evaluaba sus horas de estudio y concentración en su diario cada noche y se asignaba calificaciones (A–F). Explore los efectos metacognitivos de un bucle de retroalimentación cuantitativo."
 pubDate: "2026-04-19"
@@ -36,22 +37,20 @@ En este artículo, analizamos cómo el ritual de calificaciones diario de Schump
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre schumpeter-time-grading se basa en <strong>Investigación basada en biografías históricas y registros autobiográficos de Schumpeter y Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación basada en biografías históricas y registros autobiográficos de Schumpeter y Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ajuste de la metacognición y red de recompensa de dopamina mediante bucle de retroalimentación cuantitativo
+## 1. Ajuste de la metacognición y red de recompensa de dopamina mediante bucle de retroalimentación cuantitativo
 
 La mayoría de las personas evalúa su trabajo diario de forma subjetiva y emocional. Esta vaga reflexión fácilmente degenera en auto-justificación. El ritual de autocalificación de Schumpeter activa la metacognición. Al cuantificar el tiempo y asignar notas, se observa el comportamiento objetivamente desde una perspectiva en tercera persona. Esta auto-objetivación honesta ayuda al cerebro a escapar de distorsiones cognitivas y motiva los circuitos de dopamina en la corteza prefrontal para obtener una mejor nota (A) al día siguiente.
 
 ---
 
-## Precauciones y consejos
-
-Tenga cuidado de que el boletín de calificaciones no se convierta en una autocrítica destructiva o una obsesión perfeccionista. Caer en la indefensión aprendida por bajas notas aumentará el estrés cerebral y congelará la acción. Trate la calificación como acumulación de datos sin emociones, analizando las causas para mejorar un 10% al día siguiente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Tenga cuidado de que el boletín de calificaciones no se convierta en una autocr
     Identifique la causa raíz de la nota de hoy (ej. 1 hora perdida en redes sociales) y diseñe una mejora, como aislar el teléfono 1 hora mañana.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Tenga cuidado de que el boletín de calificaciones no se convierta en una autocrítica destructiva o una obsesión perfeccionista. Caer en la indefensión aprendida por bajas notas aumentará el estrés cerebral y congelará la acción. Trate la calificación como acumulación de datos sin emociones, analizando las causas para mejorar un 10% al día siguiente.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

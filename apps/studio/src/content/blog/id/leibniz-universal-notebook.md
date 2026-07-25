@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Buku Catatan Tunggal untuk Semua Pengetahuan: Rutinitas Commonplace Book Gottfried Wilhelm Leibniz dan Potensiasi Jangka Panjang (LTP)"
 description: "Pelajari bagaimana penemu kalkulus Gottfried Wilhelm Leibniz mengonsolidasikan semua pengetahuan ke dalam satu buku catatan teratur (Commonplace Book). Temukan neurosains dari jaringan semantik, Potensiasi Jangka Panjang (LTP), dan panduan 3 langkah."
 pubDate: "2026-02-27"
@@ -33,25 +34,23 @@ Seperti yang didokumentasikan dalam lebih dari 200.000 halaman naskah yang disim
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai leibniz-universal-notebook didasarkan pada <strong>Verifikasi Historis dari Biografi Gottfried Wilhelm Leibniz, Arsip Leibniz (Hanover) & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Gottfried Wilhelm Leibniz, Arsip Leibniz (Hanover) & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Potensiasi Jangka Panjang (LTP) Sinaptik dan Neurosains Jaringan Semantik
+## 1. Potensiasi Jangka Panjang (LTP) Sinaptik dan Neurosains Jaringan Semantik
 
 Korteks serebral menarik informasi secara eksponensial lebih cepat saat membangun <strong>Jaringan Semantik</strong> organik yang terhubung ke indeks pengetahuan yang ada alih-alih mengumpulkan fragmen terisolasi. Mengonsolidasikan pengetahuan ke dalam satu buku catatan dan mengindeks entri secara manual mempertahankan stimulasi sinaptik, memicu <strong>Potensiasi Jangka Panjang (LTP)</strong>. Di ruang terpadu ini, ide-ide dari berbagai disiplin ilmu saling terhubung, memberdayakan <strong>Korteks Prefrontal</strong>.
 
 ---
 
-## Perhatian: Mengeliminasi Fragmentasi Buku Catatan untuk Berkomitmen pada Sistem Buku Catatan Tunggal
-
-Jebakan terbesar dari pencatatan commonplace book adalah menyebarkan pemikiran ke dalam beberapa jurnal terpisah (misalnya, catatan membaca, buku catatan kerja, buku harian). Fragmentasi media menciptakan <strong>Kemacetan Kognitif (Cognitive Bottleneck)</strong> selama penarikan informasi dan menghancurkan peluang sintesis lintas disiplin.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Jebakan terbesar dari pencatatan commonplace book adalah menyebarkan pemikiran k
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengeliminasi Fragmentasi Buku Catatan untuk Berkomitmen pada Sistem Buku Catatan Tunggal
+
+Jebakan terbesar dari pencatatan commonplace book adalah menyebarkan pemikiran ke dalam beberapa jurnal terpisah (misalnya, catatan membaca, buku catatan kerja, buku harian). Fragmentasi media menciptakan <strong>Kemacetan Kognitif (Cognitive Bottleneck)</strong> selama penarikan informasi dan menghancurkan peluang sintesis lintas disiplin.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bisakah saya mempraktikkan metode Commonplace Book menggunakan alat digital seperti Notion atau Obsidian?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Jebakan terbesar dari pencatatan commonplace book adalah menyebarkan pemikiran k
       Ya! Platform digital sangat unggul dalam hal kemampuan pencarian dan penautan. Kuncinya adalah menghindari fragmentasi berlebihan ke dalam folder yang terpisah; sebaliknya, bangun satu basis data atau papan tunggal yang diberi tag berdasarkan tanggal dan kategori.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah menyimpan semua informasi di dalam satu buku catatan tidak menciptakan kekacauan yang tidak teratur?</span>

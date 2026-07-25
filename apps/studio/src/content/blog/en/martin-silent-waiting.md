@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Mind Like a Blank Canvas: Agnes Martin's Silent Waiting Routine"
 description: "Agnes Martin, the painter who sat in a chair before her canvas waiting until all distracting thoughts cleared before touching her brush. Discover the cognitive science of meditation that clears brain noise to unlock insight."
 pubDate: "2026-06-12"
@@ -36,22 +37,20 @@ In today's post, we examine how Agnes Martin's chair waiting ritual regulates co
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding martin-silent-waiting is based on <strong>Historical Verification of Agnes Martin's Biographies & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification of Agnes Martin's Biographies & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reduction of Cognitive Noise and Alpha-Theta Wave Entrainment
+## 1. Reduction of Cognitive Noise and Alpha-Theta Wave Entrainment
 
 Modern brains constantly emit fast Beta Waves under the pressure to calculate and solve problems continuously. This state amplifies cognitive noise and blocks deep insight or intuitive creativity. When you consciously pause action and focus on inner silence—like Agnes Martin—the brain shifts gears from anxiety-soothing <strong>Alpha Waves</strong> down to deeply reflective <strong>Theta Waves</strong>. This wave entrainment lifts the prefrontal cortex's defensive logical filter, vividly activating optimal solutions and fresh ideas buried deep in long-term memory.
 
 ---
 
-## Precautions and Tips
-
-Be careful not to fall into the trap of 'warring with thoughts' while trying to clear your mind. Suppressing arising thoughts causes the brain to obsess over them even more strongly—a psychological phenomenon called the 'Rebound Effect'. Instead of forcing thoughts away, observe them like passing clouds, non-judgmentally acknowledge them, and gently anchor your attention back to your breath through mindfulness.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Be careful not to fall into the trap of 'warring with thoughts' while trying to 
     Once the mental fog clears and a state of effortless focus sets in, open only the single most essential core task and begin your work.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+Be careful not to fall into the trap of 'warring with thoughts' while trying to clear your mind. Suppressing arising thoughts causes the brain to obsess over them even more strongly—a psychological phenomenon called the 'Rebound Effect'. Instead of forcing thoughts away, observe them like passing clouds, non-judgmentally acknowledge them, and gently anchor your attention back to your breath through mindfulness.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

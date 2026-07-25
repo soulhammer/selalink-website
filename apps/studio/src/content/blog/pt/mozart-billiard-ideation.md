@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O gênio que jogava bilhar quando bloqueado ao compor: O hábito de ativação do modo padrão de Mozart"
 description: "Wolfgang Amadeus Mozart ativava seu cérebro subconsciente (DMN) jogando bilhar sempre que a inspiração musical travava. Descubra o segredo científico de como o descanso cognitivo gera avanços criativos e uma rotina de jogo viso-espacial de 15 minutos."
 pubDate: "2026-05-01"
@@ -31,17 +32,17 @@ Neste post, exploramos os princípios neurocientíficos do ritual de bilhar de M
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre mozart-billiard-ideation é baseada em <strong>Pesquisa de biografias históricas e registros autobiográficos de Mozart & estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de biografias históricas e registros autobiográficos de Mozart & estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O cérebro subconsciente e a 'Rede de Modo Padrão'
+## 1. O cérebro subconsciente e a 'Rede de Modo Padrão'
 
 Encarar fixamente uma tela para resolver um problema difícil supersatura a memória de trabalho no córtex pré-frontal, prendendo o cérebro na estagnação mental. Por outro lado, redirecionar a atenção para um jogo físico leve que envolva prever trajetórias viso-espaciais — como o bilhar — ativa a Rede de Modo Padrão (DMN).
 
@@ -49,11 +50,7 @@ A DMN é um mecanismo de síntese subconsciente que opera enquanto a mente consc
 
 ---
 
-## Uma dica neurocientífica para uma rotina bem-sucedida
-
-<strong>A criatividade surge da alternância, não da concentração forçada</strong>
-
-Um cérebro obcecado por uma única ideia fica preso na visão de túnel, bloqueando novas conexões. Continuar sentado à força quando exausto apenas consome energia cognitiva. Assim como Mozart ativava seu subconsciente ao lado da mesa de bilhar para extrair trajetórias musicais imortais, levante-se imediatamente ao bloquear e acione sua DMN através de um jogo espacial leve.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +82,17 @@ Um cérebro obcecado por uma única ideia fica preso na visão de túnel, bloque
   </p>
 </div>
 
+---
+
+## 3. Uma dica neurocientífica para uma rotina bem-sucedida
+
+<strong>A criatividade surge da alternância, não da concentração forçada</strong>
+
+Um cérebro obcecado por uma única ideia fica preso na visão de túnel, bloqueando novas conexões. Continuar sentado à força quando exausto apenas consome energia cognitiva. Assim como Mozart ativava seu subconsciente ao lado da mesa de bilhar para extrair trajetórias musicais imortais, levante-se imediatamente ao bloquear e acione sua DMN através de um jogo espacial leve.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

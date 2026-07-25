@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "徘徊于房间的声音：陀思妥耶夫斯基的踱步口述写作习惯与运动-语言皮层缝合机制"
 description: "探索《罪与罚》作者陀思妥耶夫斯基在踱步中演绎角色台词而后向妻子口述踱步创作的习惯，揭示肢体运动（Pacing）与口语认知（Oral Cognition）拉动运动皮层、布罗卡与韦尼克区以及镜向神经元的神经科学原理。"
 pubDate: "2026-05-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 dostoevsky-pacing-recitation 的内容基于 <strong>安娜·陀思妥耶夫斯卡娅回忆录《陀思妥耶夫斯基回忆录（Reminiscences）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>安娜·陀思妥耶夫斯卡娅回忆录《陀思妥耶夫斯基回忆录（Reminiscences）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 肢体踱步与口语朗读唤醒大脑语言网络与镜向神经元的神经学原理
+## 1. 肢体踱步与口语朗读唤醒大脑语言网络与镜向神经元的神经学原理
 
 在室内踱步（Pacing）能够强效刺激大脑运动皮层（Motor Cortex），飙升脑血流量与供氧率。将文句大声说出的口语认知（Oral Cognition）动作，能够缝合负责语言生成的布罗卡区（Broca's Area）与负责语言接收理解的韦尼克区（Wernicke's Area），构建起“听觉-运动”反馈回路（Auditory-Motor Feedback Loop）。此外，亲声演绎角色的过程能拉动大脑的镜向神经元（Mirror Neurons）系统。这种肉体运动与声学反馈的协同效应，能够打碎呆板抽象的三人称叙事，将栩栩如生的一人称心理真实感灌注于方案与文本之中。
 
 ---
 
-## 注意事项与提示：确保安全绝对私人空间与屏除外部社交审视干扰
-
-鉴于口语朗读训练涉及出声说话与情绪演绎，若在人流攒动的开放式办公室或公共场合施行，大脑杏仁核会拉响社交审视焦虑（Social Evaluation Anxiety）警报，造成严重的认知阻碍。因此，该特训必须在绝无他人目光打扰、能够100%专注于自身声学共振的绝对私人空间（个人书房、关上门的会议室或私家车车厢内）开展，方能获得完整成效。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：确保安全绝对私人空间与屏除外部社交审视干扰
+
+鉴于口语朗读训练涉及出声说话与情绪演绎，若在人流攒动的开放式办公室或公共场合施行，大脑杏仁核会拉响社交审视焦虑（Social Evaluation Anxiety）警报，造成严重的认知阻碍。因此，该特训必须在绝无他人目光打扰、能够100%专注于自身声学共振的绝对私人空间（个人书房、关上门的会议室或私家车车厢内）开展，方能获得完整成效。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>以低声默念或含于口中的默读替代大声呼出，是否具有相同的成效？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       无法达成同等效果。默念或低语无法完全调动声带肌肉与发音器官的物理收缩，且投向听觉皮层的声学能量极其微弱。唯有通过清晰的发音将自身的声浪释放至空气中、再经由双耳重新审听，完成“听觉-运动”反馈回路，布罗卡区与韦尼克区的协同激活方能被触发。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在踱步口述期间，借助手机语音备忘录或语音转文字（STT）应用实时录音记录是否成效显著？</span>

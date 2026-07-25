@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Seu Cérebro Resolve Projetos Enquanto Você Dorme: A Rotina de Dormir com o Manuscrito de Joan Didion e Priming do Sono REM"
 description: "Descubra como a lendária ensaísta americana Joan Didion dormia no mesmo quarto que seu manuscrito inacabado para desembaraçar narrativas complexas. Explore a neurociência cognitiva do priming cognitivo e consolidação da memória no sono REM."
 pubDate: "2026-06-02"
@@ -33,25 +34,23 @@ Sempre que enfrentava um bloqueio no manuscrito, Didion realizava um ritual notu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre didion-manuscript-sleeping é baseada em <strong>Verificação Histórica da Biografia de Tracy Daugherty *The Last Love Song* e *The Paris Review* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Tracy Daugherty *The Last Love Song* e *The Paris Review* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reconsolidacao Associativa no Sono REM e Priming Cognitivo Antes de Dormir
+## 1. Reconsolidacao Associativa no Sono REM e Priming Cognitivo Antes de Dormir
 
 Durante a vigília, o córtex pré-frontal mantém um controle estrito que limita os padrões de pensamento a esquemas conhecidos. Revisar um problema ou ler um manuscrito antes de dormir ativa o 'Priming Cognitivo'. Ao entrar na fase REM, a inibição pré-frontal reduz-se enquanto o hipocampo e a amídala se ativam. Durante o sono REM, o cérebro realiza uma 'Reconsolidação Associativa', conectando o problema a memórias armazenadas e gerando soluções ao acordar.
 
 ---
 
-## Precauções e Dicas: Bloquear a Luz Azul e Priorizar o Priming em Papel Analógico
-
-Examinar propostas em telas de celulares ou tablets antes de dormir expõe a retina à luz azul, suprimindo a melatonina e alterando o sono REM. Para preservar a qualidade do sono, revise documentos em papel impresso ou cadernos por 5 minutos antes de deitar. Em seguida, feche os olhos e visualize a meta.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Examinar propostas em telas de celulares ou tablets antes de dormir expõe a ret
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Bloquear a Luz Azul e Priorizar o Priming em Papel Analógico
+
+Examinar propostas em telas de celulares ou tablets antes de dormir expõe a retina à luz azul, suprimindo a melatonina e alterando o sono REM. Para preservar a qualidade do sono, revise documentos em papel impresso ou cadernos por 5 minutos antes de deitar. Em seguida, feche os olhos e visualize a meta.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pensar em problemas não resolvidos antes de dormir não provocará insônia ou sono agitado?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Examinar propostas em telas de celulares ou tablets antes de dormir expõe a ret
       Se você forçar uma solução com estresse, sim. O segredo é evitar a preocupação ativa. Leia os documentos em papel de forma passiva, como se estivesse lendo uma história, e delegue o trabalho ao subconsciente: 'Meu cérebro cuidará disso à noite'. Essa atitude evita a ativação simpática.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>A rotina é um fracasso se uma ideia brilhante não surgir imediatamente ao acordar?</span>

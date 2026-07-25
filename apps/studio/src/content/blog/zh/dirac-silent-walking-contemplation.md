@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "言语极简与漫步宁静的天才：保罗·狄拉克的静音散步习惯与语言噪点消除法"
 description: "探索量子力学巨匠兼诺贝尔物理学奖得主保罗·狄拉克在周日通过静音散步消除语言噪点并精炼狄拉克方程式的习惯，揭示放松左脑语言皮层与激活顶叶时空运算电路的神经科学原理。"
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 dirac-silent-walking-contemplation 的内容基于 <strong>格雷厄姆·法梅洛传记《怪人：保罗·狄拉克的隐秘生活（The Strangest Man: The Hidden Life of Paul Dirac）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>格雷厄姆·法梅洛传记《怪人：保罗·狄拉克的隐秘生活（The Strangest Man: The Hidden Life of Paul Dirac）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 语言噪点消除与激活顶叶时空运算电路（Parietal Visuospatial Circuit）机制
+## 1. 语言噪点消除与激活顶叶时空运算电路（Parietal Visuospatial Circuit）机制
 
 持续的言语交谈与文本刺激会导致左脑语言区域（布罗卡区/韦尼克区）处于过载状态，并不断掏空前额叶皮层的认知带宽。像狄拉克那样在维持绝对静音的前提下开展有节律的徒步，大脑会当即切断对语言噪点的解析，脱离左脑主导的过载兴奋。认知神经科学研究表明，在语言活动停摆状态下展开有氧徒步，能够极大化拉动顶叶（Parietal Lobe）的时空画板（Visuospatial Sketchpad）电路与三维几何运算电路。在这一过程中，极其繁复的理论难关或项目架构会被如空间地貌般直观且条理分明地重组推演。
 
 ---
 
-## 注意事项与提示：散步期间完全排除有声音频与语言媒体
-
-在散步期间倾听播客、有声书、短视频原声或有声新闻，会强制大脑始终滞留于语法解析与有声解语模式中。这会延长左脑语言皮层的过载，并阻断切入静音沉思状态。若要贯彻狄拉克式习惯，请彻底让口舌与听觉语言电路下线休眠，仅接收脚步落地触感与风吟等非语言环境音，如此顶叶时空电路方能启动运转。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：散步期间完全排除有声音频与语言媒体
+
+在散步期间倾听播客、有声书、短视频原声或有声新闻，会强制大脑始终滞留于语法解析与有声解语模式中。这会延长左脑语言皮层的过载，并阻断切入静音沉思状态。若要贯彻狄拉克式习惯，请彻底让口舌与听觉语言电路下线休眠，仅接收脚步落地触感与风吟等非语言环境音，如此顶叶时空电路方能启动运转。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在噪音嘈杂的喧嚣市中心漫步，能否获得狄拉克静音散步的同等效果？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可以。决定性的核心并非环境的绝对屏息凝神，而在于“彻底阻断灌入双耳与口中的语言资讯（对话、播客或文本）”。即便置身于嘈杂的市中心，只要佩戴降噪耳机削减杂乱噪音、且绝不接纳任何语言有声媒体，同样能够获得同等的左脑松弛与顶叶激活效益。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在徒步期间突发绝妙灵感时，是否需要立即停下脚步手写记录？</span>

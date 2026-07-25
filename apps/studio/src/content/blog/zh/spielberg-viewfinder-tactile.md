@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "摸着玩具将宏大想象转化为现实的大师：史蒂文·斯皮尔伯格的触觉刺激法"
 description: "现代电影史上最成功的导演史蒂文·斯皮尔伯格。每当剧本或镜头构图陷入瓶颈时，他都会通过取景器镜头缩小视野，并亲手触摸模型玩具。本文将深入探讨这一刺激右脑的日常习惯以及现代便携玩具（Fidget）的应用方法。"
 pubDate: "2026-04-20"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 spielberg-viewfinder-tactile 的内容基于 <strong>史蒂文·斯皮尔伯格的历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>史蒂文·斯皮尔伯格的历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 体感皮质刺激与顶叶（Parietal Lobe）空间运算加速
+## 1. 体感皮质刺激与顶叶（Parietal Lobe）空间运算加速
 
 用指尖精细触摸模型复杂的立体重叠与轮廓所获得的精密触觉反馈（Haptic Feedback），会强烈兴奋大脑的体感皮质。这能同时刺激负责空间推理和场景立体构成的右大脑顶叶（Parietal Lobe）联合区。此外，通过模拟取景器镜头或狭窄缝隙阻挡视野并聚焦于单一对象的视觉重塑（Visual Reframing），可以过滤掉传向额叶的大量视觉噪声，将认知资源集中于目标对象的结构化组合运算上。
 
 ---
 
-## 过度使用触觉工具的陷阱与结合策划的技巧
-
-在使用便携玩具（Fidget Toy）刺激指尖时，如果工具过于繁复或包含复杂的机关，大脑反而会被工具本身的玩法吸引，从而导致认知分散现象。因此，为了达到刺激大脑的目的，使用形状简单、材质坚硬的冷金属模型或木质玩具，在减轻认知负荷方面要有利得多。此外，请将触摸时间限制在10分钟以内。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 过度使用触觉工具的陷阱与结合策划的技巧
+
+在使用便携玩具（Fidget Toy）刺激指尖时，如果工具过于繁复或包含复杂的机关，大脑反而会被工具本身的玩法吸引，从而导致认知分散现象。因此，为了达到刺激大脑的目的，使用形状简单、材质坚硬的冷金属模型或木质玩具，在减轻认知负荷方面要有利得多。此外，请将触摸时间限制在10分钟以内。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>用手指旋转指尖陀螺或普通圆珠笔也能达到相同的效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       单纯重复旋转陀螺或圆珠笔的动作被归类为一种无意识的习惯性运动，仅能刺激大脑的基底核回路，而引发顶叶进行高阶空间运算的体感皮质刺激（Haptic Feedback）强度非常低。因此，直接触摸具有清晰几何形态与轮廓的模拟模型玩具或方块，迫使大脑为了识别形态而协调指尖细胞的精细动作，能产生好得多的智力觉醒效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>没有光学取景器镜头时，日常生活中还有其他缩小视野的小技巧吗？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le seul mot qui a bâti IBM : La routine de réflexion silencieuse de 15 minutes de Thomas Watson"
 description: "Découvrez la méthode de réflexion du fondateur d'IBM, Thomas Watson, qui a accroché des panneaux 'THINK' dans chaque bureau et consacrait 15 minutes par jour à la méditation. Explique comment la déconnexion intentionnelle organise la mémoire."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous présentons les mécanismes scientifiques de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant watson-think-sign est basée sur <strong>Biographies historiques et récits autobiographiques de Thomas Watson et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Thomas Watson et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi la déconnexion inactive augmente la capacité intellectuelle
+## 1. Pourquoi la déconnexion inactive augmente la capacité intellectuelle
 
 Lorsque le cerveau réagit sans cesse aux stimulations, il manque de disponibilité pour la consolidation de la mémoire et la planification. En coupant les flux d'informations pour se consacrer à la réflexion, le cerveau stabilise le <strong>Réseau de saillance (Salience Network)</strong>.
 
 ---
 
-## Précautions et conseils
-
-Pour que cet entraînement réussisse, une signalétique physique servant de <strong>Prompt visuel</strong> doit être présente dans votre espace de travail. Sans rappel visuel, le cerveau cède à l'inertie (consulter les e-mails ou naviguer sur Internet). Un panneau clair agit comme un mécanisme de contrôle.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Pour que cet entraînement réussisse, une signalétique physique servant de <st
     Sans utiliser d'outils d'écriture, concentrez toute votre attention uniquement sur le problème le plus complexe et le plus important à résoudre aujourd'hui.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Pour que cet entraînement réussisse, une signalétique physique servant de <strong>Prompt visuel</strong> doit être présente dans votre espace de travail. Sans rappel visuel, le cerveau cède à l'inertie (consulter les e-mails ou naviguer sur Internet). Un panneau clair agit comme un mécanisme de contrôle.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

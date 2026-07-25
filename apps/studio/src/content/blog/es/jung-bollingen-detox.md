@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Desintoxicación Digital en la Torre de Bollingen: El Método de Recuperación del Inconsciente de Carl Jung y el Restablecimiento Cognitivo DMN"
 description: "Descubra cómo el pionero del psicología analítica Carl Jung restablecía su cerebro cortando leña en una torre aislada sin electricidad. Explore la neurociencia de la activación de la Red por Defecto (DMN), la recuperación prefrontal y una rutina de desintoxicación digital de 3 pasos."
 pubDate: "2026-01-21"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre jung-bollingen-detox se basa en <strong>Verificación Histórica de la Autobiografía de Carl Jung *Recuerdos, sueños, pensamientos*, Archivos de la Torre de Bollingen e Investigación en Psicología Analítica y Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Carl Jung *Recuerdos, sueños, pensamientos*, Archivos de la Torre de Bollingen e Investigación en Psicología Analítica y Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación de la Red por Defecto (DMN) y Recuperación de Recursos Cognitivos Prefrontales
+## 1. Activación de la Red por Defecto (DMN) y Recuperación de Recursos Cognitivos Prefrontales
 
 La exposición continua a estímulos digitales obliga a la <strong>Corteza Prefrontal</strong> a trabajar de forma ininterrumpida, causando <strong>Fatiga Cognitiva</strong>. La rutina de Carl Jung en Bollingen interrumpía este ciclo, activando la <strong>Red por Defecto (DMN)</strong>. Al eliminar la estimulación digital y realizar tareas físicas simples, el cerebro entra en estado DMN, organizando conceptos inconscientes y generando ideas creativas.
 
 ---
 
-## Precaución: Bloquee Físicamente Estímulos Artificiales para Sumergirse en Trabajo Analógico
-
-Para Carl Jung, la Torre de Bollingen no era una huida, sino un santuario diseñado para aislar el ruido y la tecnología. Evite descansar mirando pantallas. Retire su teléfono de la vista y realice tareas manuales analógicas; solo la desconexión física permite que su corteza prefrontal se recupere.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para Carl Jung, la Torre de Bollingen no era una huida, sino un santuario diseñ
   </p>
 </div>
 
+---
+
+## 3. Precaución: Bloquee Físicamente Estímulos Artificiales para Sumergirse en Trabajo Analógico
+
+Para Carl Jung, la Torre de Bollingen no era una huida, sino un santuario diseñado para aislar el ruido y la tecnología. Evite descansar mirando pantallas. Retire su teléfono de la vista y realice tareas manuales analógicas; solo la desconexión física permite que su corteza prefrontal se recupere.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es necesario retirarse a una cabaña remota o lugar aislado como hizo Jung?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para Carl Jung, la Torre de Bollingen no era una huida, sino un santuario diseñ
       No. Lo esencial es la 'desconexión física de la información artificial' y la 'atención en tareas analógicas'. Designar un espacio libre de teléfonos en su hogar durante 30 a 60 minutos ofrece exactamente los mismos beneficios.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Por qué las tareas domésticas o el trabajo físico sencillo favorecen la reflexión profunda?</span>

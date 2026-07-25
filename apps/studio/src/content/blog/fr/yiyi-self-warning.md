@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Établir une autonomie inébranlable : La routine de déclaration matinale du Jagyeongmun de Yi I (Yulgok)"
 description: "L'autodiscipline grâce au 'Jagyeongmun' établi à l'âge de 20 ans par Yi I (Yulgok), le plus grand érudit de Joseon. Nous analysons l'entraînement cognitif qui active le retour d'information orienté vers un objectif en récitant des résolutions matinales."
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ Alors que beaucoup oublient leurs résolutions matinales face aux distractions, 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant yiyi-self-warning est basée sur <strong>Biographies historiques et récits autobiographiques sur le Jagyeongmun de Yi I et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques sur le Jagyeongmun de Yi I et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La neurobiologie de l'effet d'autoréférence et des déclarations orientées vers des objectifs
+## 1. La neurobiologie de l'effet d'autoréférence et des déclarations orientées vers des objectifs
 
 L'effet d'autoréférence (Self-Reference Effect) montre que le traitement d'informations liées à soi-même active le cortex préfrontal médial (mPFC), renforçant la mémoire à long terme et l'intégration des valeurs. La lecture quotidienne des règles personnelles par Yi I a renforcé cette voie neuronale. L'imprégnation quotidienne de ces principes active les réseaux de contrôle cognitif, agissant comme un GPS interne pour maîtriser les impulsions.
 
 ---
 
-## Un mot sur l'autovigilance et la préservation de l'autonomie
-
-Plus important que d'établir des principes est l'honnêteté de se les rappeler chaque matin. Seules les normes que vous acceptez et déclarez personnellement—et non les règles imposées par autrui—stimuleront votre cerveau et vous donneront le contrôle de votre journée.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Plus important que d'établir des principes est l'honnêteté de se les rappeler
     Avant de vous coucher, évaluez brièvement le respect de vos principes matinaux et notez 1 ou 2 lignes dans un journal sur les points à améliorer demain.
   </p>
 </div>
+
+---
+
+## 3. Un mot sur l'autovigilance et la préservation de l'autonomie
+
+Plus important que d'établir des principes est l'honnêteté de se les rappeler chaque matin. Seules les normes que vous acceptez et déclarez personnellement—et non les règles imposées par autrui—stimuleront votre cerveau et vous donneront le contrôle de votre journée.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

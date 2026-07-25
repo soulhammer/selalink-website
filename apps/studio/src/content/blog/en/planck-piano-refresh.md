@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cognitive Brain Reset: Max Planck's Piano Improvisation Routine"
 description: "Max Planck refreshed his mind after intense physics research by freely improvising on the piano. Explore the 'Cross-Cognitive Refresh' principle where artistic brain activation washes away logical fatigue."
 pubDate: "2026-04-01"
@@ -32,22 +33,20 @@ faqs:
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding planck-piano-refresh is based on <strong>Historical Biographies and Writings on Max Planck & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies and Writings on Max Planck & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Left-Brain Inhibition and Cross-Cognitive Refresh via Right-Brain Activation
+## 1. Left-Brain Inhibition and Cross-Cognitive Refresh via Right-Brain Activation
 
 Exhausting a specific neural circuit (like mathematical logic in the left hemisphere and parietal lobe) accumulates neural fatigue metabolites such as adenosine. Rather than resting passively, engaging completely different brain regions (right hemisphere and motor-sensory cortex) through musical improvisation triggers 'Cross-Cognitive Refresh'. Improvisation lets the brain assemble intuitive sensory waves without rigid rules, switching off overloaded logical circuits and allowing fatigued neural areas to flush out waste products.
 
 ---
 
-## Cautionary Tips for Cognitive Switching
-
-When using piano improvisation to reset your brain, avoid forcing yourself to follow rigid sheet music or rules. Consuming cognitive effort on technique or rhythm makes the brain perceive it as another task, canceling the relaxation effect. The key is embracing free, doodle-like playing where you enjoy touch and sound without self-judgment.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ When using piano improvisation to reset your brain, avoid forcing yourself to fo
   </p>
 </div>
 
+---
+
+## 3. Cautionary Tips for Cognitive Switching
+
+When using piano improvisation to reset your brain, avoid forcing yourself to follow rigid sheet music or rules. Consuming cognitive effort on technique or rhythm makes the brain perceive it as another task, canceling the relaxation effect. The key is embracing free, doodle-like playing where you enjoy touch and sound without self-judgment.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How do I start piano improvisation without sheet music?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ When using piano improvisation to reset your brain, avoid forcing yourself to fo
       Do not worry about melodic perfection or dissonance. Focus on the physical weight of the keys and the resonance of the sounds, pressing keys freely. This is the key to relaxing and resetting the brain's attention network.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can I achieve cognitive reset with instruments other than the piano?</span>

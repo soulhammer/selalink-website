@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "感知光的几何学：保罗·塞尚的晨间自然光观察与SCN唤醒习惯"
 description: "探索现代艺术之父保罗·塞尚每天清晨6点走向圣维克多山观察光线与构图演变的习惯，揭示晨间户外自然光暴露刺激视交叉上核（SCN）并提升视觉皮层感知敏锐度的神经科学原理。"
 pubDate: "2026-04-06"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 cezanne-dawn-mountain-observation 的内容基于 <strong>亚历克斯·丹切夫传记《塞尚传（Cézanne: A Life）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>亚历克斯·丹切夫传记《塞尚传（Cézanne: A Life）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 晨间自然光暴露、视交叉上核（SCN）唤醒与视觉皮层的认知神经学
+## 1. 晨间自然光暴露、视交叉上核（SCN）唤醒与视觉皮层的认知神经学
 
 清晨6点至8点发散的自然光中富含蓝光波长波段（Blue-light spectrum，460-480nm），能强效刺激视网膜上的视网膜神经节细胞（ipRGCs）。该信号会直达下丘脑的大脑生物钟中枢——“视交叉上核（SCN，Suprachiasmatic Nucleus）”，从而彻底抑制睡眠霍尔蒙褪黑素的分泌，并使唤醒霍尔蒙皮质醇的分泌趋于正常。此外，若像塞尚那样执着地凝视自然物的几何图案分布、光影明暗对比，便能精细地激活视觉皮层（Visual Cortex）V1与V4区域的神经元。这种视觉觉醒状态能冲刷认知疲劳，将感官敏锐度（Perceptual Sensitivity）拉至巅峰，进而促成创造性灵感的联想重组。
 
 ---
 
-## 注意事项与提示：保持裸眼自然光输入与阻断人工屏幕
-
-在执行晨间观察习惯时，务必避免佩戴太阳镜或边看手机屏幕边步行。太阳镜片会阻挡ipRGCs接收特定的蓝光波段，从而抑制视交叉上核（SCN）重置生物节律的功能。此外，如果在步行时将视线投向手机屏幕的人工光线与浮躁文本，会导致视觉皮层陷入狭窄视域的“认知隧道效应（Cognitive Tunneling）”，使放松觉醒效果化为乌有。晨间观察时，务必保持裸眼、敞开开阔视野，让纯粹的自然光直接投射入眼。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：保持裸眼自然光输入与阻断人工屏幕
+
+在执行晨间观察习惯时，务必避免佩戴太阳镜或边看手机屏幕边步行。太阳镜片会阻挡ipRGCs接收特定的蓝光波段，从而抑制视交叉上核（SCN）重置生物节律的功能。此外，如果在步行时将视线投向手机屏幕的人工光线与浮躁文本，会导致视觉皮层陷入狭窄视域的“认知隧道效应（Cognitive Tunneling）”，使放松觉醒效果化为乌有。晨间观察时，务必保持裸眼、敞开开阔视野，让纯粹的自然光直接投射入眼。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>遇到阴雨天或空气质量不佳的大雾天，是否依然需要前往户外观察？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       即便是在阴天，户外的光照强度平均仍可达1,000-2,000勒克斯（lux）以上，远高于常规室内照明（300-500勒克斯）。因此在阴雨天前往户外漫步，同样能够获得抑制褪黑素与唤醒大脑的效果。不过在空气污染极其严重的极恶劣天气下，可用站在阳台或大敞开的窗前凝视户外的“窗前观察法”来进行替代。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>非绘画专业的普通上班族或知识工作者，也能从塞尚的视觉观察习惯中获益吗？</span>

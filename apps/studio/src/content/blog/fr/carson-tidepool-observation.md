@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'écosystème marin qui a fait germer Le Printemps silencieux : L'observation des cuvettes de marée et la douce fascination de Rachel Carson"
 description: "Découvrez comment Rachel Carson, pionnière du mouvement écologique moderne, restaurait sa capacité cognitive épuisée en observant les cuvettes de marée face aux pressions industrielles et au cancer. Explorez les mécanismes neuroscientifiques de la Théorie de la Restauration de l'Attention (ART) et de la « Douce Fascination »."
 pubDate: "2026-07-04"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant carson-tidepool-observation est basée sur <strong>Vérification Historique issue des biographies historiques et archives autobiographiques de Rachel Carson & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies historiques et archives autobiographiques de Rachel Carson & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Restauration neuronale via la « Douce Fascination (Soft Fascination) » et la Théorie de la Restauration de l'Attention (ART)
+## 1. Restauration neuronale via la « Douce Fascination (Soft Fascination) » et la Théorie de la Restauration de l'Attention (ART)
 
 Les individus modernes fonctionnent dans un état d'« Attention Dirigée (Directed Attention) », forçant le cortex préfrontal à brûler du glucose pour traiter des données et prendre des décisions. Une attention dirigée prolongée provoque fatigue chronique et stress. Lors de l'observation de micro-phénomènes naturels — comme la vie marine dans les cuvettes de marée ou la lumière filtrant à travers les feuillages —, le cerveau entre en « Douce Fascination (Soft Fascination) », où l'attention est sollicitée sans effort cognitif. Selon la Théorie de la Restauration de l'Attention (ART), cet état permet de régénérer les ressources cognitives épuisées. De plus, l'observation de micro-écosystèmes stimule le système parasympathique.
 
 ---
 
-## Précautions & Conseils : Éviter les écrans numériques & Préserver un calme exempt de stimuli
-
-Même en plein air, prendre continuellement des photos pour les réseaux sociaux, consulter des notifications ou écouter des podcasts continue de solliciter l'attention dirigée. Cela amoindrit la restauration cognitive. Durant une séance d'observation, isolez totalement les appareils et immergez vos sens dans les détails du vent, du sol et des micro-organismes pour enclencher la récupération préfrontale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Même en plein air, prendre continuellement des photos pour les réseaux sociaux
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter les écrans numériques & Préserver un calme exempt de stimuli
+
+Même en plein air, prendre continuellement des photos pour les réseaux sociaux, consulter des notifications ou écouter des podcasts continue de solliciter l'attention dirigée. Cela amoindrit la restauration cognitive. Durant une séance d'observation, isolez totalement les appareils et immergez vos sens dans les détails du vent, du sol et des micro-organismes pour enclencher la récupération préfrontale.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'observation de plantes d'intérieur procure-t-elle un effet de restauration cognitive similaire ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Même en plein air, prendre continuellement des photos pour les réseaux sociaux
       Oui, tout à fait. Bien qu'à plus petite échelle, examiner les nervures des feuilles, la texture de la terre ou la couleur des tiges de plantes d'intérieur induit la « Douce Fascination », détendant le cortex préfrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-ce grave si je ne sais pas dessiner et ne peux pas faire de croquis d'observation ?</span>

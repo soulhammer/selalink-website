@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cahiers Jam 4 Pagi: Metode Pencatatan Kesadaran ala Paul Valéry"
 description: "Penyair Paul Valéry bangun jam 4 pagi setiap hari selama 51 tahun untuk mengisi buku catatan buatan tangannya 'Cahiers.' Membahas alasan ilmiah mengapa ketenangan dini hari, terisolasi dari stimulasi luar, membangkitkan kecerdasan reflektif dan analitis korteks prefrontal ke puncaknya."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Dalam artikel hari ini, kami menafsirkan mekanisme penyelarasan diri Paul Valér
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai valery-dawn-notebook didasarkan pada <strong>Riset sejarah biografi & catatan autobiografi Valéry Dawn Notebook serta penelitian Ilmu Saraf Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Riset sejarah biografi & catatan autobiografi Valéry Dawn Notebook serta penelitian Ilmu Saraf Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pemblokiran Kebisingan Kognitif & Kerja Hormon Kebangkitan dari Ketenangan Fajar
+## 1. Pemblokiran Kebisingan Kognitif & Kerja Hormon Kebangkitan dari Ketenangan Fajar
 
 Selama jam-jam siang biasa, otak menghadapi stimulasi luar yang tak terhitung jumlahnya seperti kebisingan, email, dan pesan instan, membuang-buang sumber daya kognitif. Namun, pada jam 4 pagi dunia di sekitarnya benar-benar terhenti, membuat energi yang dikeluarkan untuk memfilter stimulasi luar mendekati nol. Pada saat yang sama, kenaikan bertahap kadar hormon kortisol saat bangun tidur membangunkan otak secara tenang tanpa stres, menciptakan kondisi fisiologis sempurna untuk penulisan reflektif mendalam dan perenungan diri yang dipimpin oleh korteks prefrontal.
 
 ---
 
-## Peringatan dan Tips
-
-Langsung masuk ke pekerjaan mekanis yang rumit atau perhitungan angka dalam kondisi linglung sebelum otak benar-benar terbangun akan menurunkan produktivitas. Pada blok waktu ini, mengatur pencatatan intuitif, penulisan bebas, atau bacaan filsafat paling cocok untuk efisiensi kognitif daripada komputasi logis. Selain itu, agar jam-jam dini hari tidak terganggu, membangun dinding pemutus di mana Anda tidak pernah memeriksa smartphone atau email selama 1 jam setelah bangun tidur adalah hal yang sangat esensial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Langsung masuk ke pekerjaan mekanis yang rumit atau perhitungan angka dalam kond
     Buka buku catatan Anda dan tuliskan pikiran, emosi, serta ide-ide intelektual yang muncul secara diam-diam dengan pena selama 30 menit tanpa batasan bentuk, untuk memurnikan pemikiran Anda.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Langsung masuk ke pekerjaan mekanis yang rumit atau perhitungan angka dalam kondisi linglung sebelum otak benar-benar terbangun akan menurunkan produktivitas. Pada blok waktu ini, mengatur pencatatan intuitif, penulisan bebas, atau bacaan filsafat paling cocok untuk efisiensi kognitif daripada komputasi logis. Selain itu, agar jam-jam dini hari tidak terganggu, membangun dinding pemutus di mana Anda tidak pernah memeriksa smartphone atau email selama 1 jam setelah bangun tidur adalah hal yang sangat esensial.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

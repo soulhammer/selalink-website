@@ -1,6 +1,7 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "시간의 메타인지: 조지프 슘페터의 일일 성적표 루틴"
-description: "매일 밤 자신의 일기장에 학습과 몰입 시간을 평가하고 성적(A~F)을 매겼던 경제학자 조지프 슘페터. 자신의 행동을 정량적으로 평가하고 개선하는 피드백 루프의 메타인지적 효과를 연구합니다."
+description: "매일 밤 자신의 일기장에 학습과 몰입 시간을 평가하고 성적(A ~ F)을 매겼던 경제학자 조지프 슘페터. 자신의 행동을 정량적으로 평가하고 개선하는 피드백 루프의 메타인지적 효과를 연구합니다."
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Schumpeter Time Grading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 schumpeter-time-grading 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Schumpeter Time Grading 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 정량적 피드백 루프를 통한 메타인지와 도파민 보상망의 조율
+## 1. 정량적 피드백 루프를 통한 메타인지와 도파민 보상망의 조율
 
 대부분의 사람들은 오늘 하루 자신이 얼마나 열심히 일했는지 주관적이고 감정적으로 평가하곤 합니다. 이 모호한 성찰은 자신의 게으름이나 인지 누수를 애써 축소시키는 자기 합리화로 빠지기 쉽습니다. 슘페터의 자가 채점 의식은 인지 심리학적으로 '메타인지(Metacognition, 자신의 사유 과정을 모니터링하는 인지)'를 활성화합니다. 시간을 정량화하고 등급을 매김으로써 행동을 완벽하게 제3자의 시선으로 내려다보게(Monitoring) 만듭니다. 이 정직한 자기 객관화는 뇌가 인지적 왜곡에서 벗어나게 돕고, 다음 날 더 나은 등급(A)을 얻겠다는 구체적인 예측 지표를 마련하여 전두엽의 도파민 보상 회로를 강력하게 동기 부여합니다.
 
 ---
 
-## 주의사항 및 팁
-
-스스로에게 매기는 일일 성적표가 가혹한 '자기 비하'나 '완벽주의 강박'으로 흐르지 않도록 경계해야 합니다. F 등급이나 낮은 점수를 연속해서 받았다고 해서 무력감(Learned Helplessness)에 빠져들거나 자책한다면 뇌의 스트레스 자극이 가중되어 도리어 실행력이 얼어붙게 됩니다. 등급 평가는 어디까지나 감정을 배제한 '데이터 축적' 활동으로 대해야 합니다. 점수가 낮은 원인을 냉정하게 분석하되, '다음 날 10%만 개선하겠다'는 성장 마인드셋(Growth Mindset)의 피드백 도구로 사용해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     오늘 받은 등급의 근본 원인을 찾고(예: SNS 1시간 낭비 등), 이를 예방하기 위해 내일 오전 1시간만 스마트폰을 격리하는 개선 방안을 세웁니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+스스로에게 매기는 일일 성적표가 가혹한 '자기 비하'나 '완벽주의 강박'으로 흐르지 않도록 경계해야 합니다. F 등급이나 낮은 점수를 연속해서 받았다고 해서 무력감(Learned Helplessness)에 빠져들거나 자책한다면 뇌의 스트레스 자극이 가중되어 도리어 실행력이 얼어붙게 됩니다. 등급 평가는 어디까지나 감정을 배제한 '데이터 축적' 활동으로 대해야 합니다. 점수가 낮은 원인을 냉정하게 분석하되, '다음 날 10%만 개선하겠다'는 성장 마인드셋(Growth Mindset)의 피드백 도구로 사용해야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

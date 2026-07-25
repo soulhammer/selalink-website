@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jangan Ganggu Saat Bantal Ditegakkan: Sinyal Fokus Louisa May Alcott"
 description: "Memperkenalkan 'Mood Pillow' (bantal suasana hati), sinyal fokus yang digunakan oleh Louisa May Alcott, penulis 'Little Women'. Simak panduan 3 langkah untuk mengurangi biaya peralihan kognitif dengan memblokir gangguan di sekitar Anda."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kita akan mempelajari prinsip kerja kognitif dari ruti
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai alcott-mood-ribbon didasarkan pada <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & Penelitian *Journal of Personality and Social Psychology*</strong>.
+      Konten ini didasarkan pada <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) & Penelitian *Journal of Personality and Social Psychology*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Pelindung Gangguan' untuk Menghilangkan Pemborosan Reboot Kognitif
+## 1. 'Pelindung Gangguan' untuk Menghilangkan Pemborosan Reboot Kognitif
 
 Ketika alur Anda terputus oleh suara bising luar atau pertanyaan seseorang di tengah konsentrasi tinggi, otak langsung beralih ke mode multitasking dan menguras energi yang sangat besar. Dalam neurosains, hal ini disebut <strong>'Biaya Peralihan Tugas (Task-Switching Cost)'</strong>, dan studi melaporkan bahwa dibutuhkan waktu rata-rata 23 menit untuk melakukan reboot pada perhatian yang terpecah kembali ke kondisi semula. Mood Pillow yang digunakan Alcott merupakan <strong>'Pelindung Gangguan (Distraction Shielding)'</strong> yang sempurna, yang secara proaktif mengeliminasi stimulasi pemecah fokus dengan mengirimkan sinyal tidak dapat diganggu ke lingkungan sekitar terlebih dahulu. Pemberitahuan visual ini menjaga alur kerja tanpa menimbulkan gesekan dengan orang-orang sekitar, serta membantu mengalokasikan sumber daya kognitif memori kerja (Working Memory) sepenuhnya pada satu hal saja.
 
 ---
 
-## Membuat Sinyal Fokus yang Disepakati Berdasarkan Saling Menghormati
-
-Saat menggunakan penanda sinyal fokus, hal terpenting adalah kesepakatan terlebih dahulu dengan anggota keluarga atau rekan kerja. Tiba-tiba menutup pintu komunikasi tanpa pemberitahuan dapat menimbulkan rasa tidak nyaman pada orang lain. Rutinitas yang positif terbentuk ketika aturan yang jelas—seperti 'Mohon tunda kontak non-darurat hanya selama 1 jam saat penanda ini ditampilkan'—dipahami bersama, dan penanda tersebut langsung dinonaktifkan setelah waktu yang disepakati berakhir untuk memulihkan komunikasi.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Saat menggunakan penanda sinyal fokus, hal terpenting adalah kesepakatan terlebi
     Saat pengukur waktu berbunyi, hentikan pekerjaan dan segera nonaktifkan objek sinyal (seperti meletakkan bantal kembali secara mendatar). Buka kembali saluran komunikasi yang tertutup dan pulihkan hubungan dengan orang-orang yang telah menunggu melalui sapaan ringan atau saling memberikan masukan.
   </p>
 </div>
+
+---
+
+## 3. Membuat Sinyal Fokus yang Disepakati Berdasarkan Saling Menghormati
+
+Saat menggunakan penanda sinyal fokus, hal terpenting adalah kesepakatan terlebih dahulu dengan anggota keluarga atau rekan kerja. Tiba-tiba menutup pintu komunikasi tanpa pemberitahuan dapat menimbulkan rasa tidak nyaman pada orang lain. Rutinitas yang positif terbentuk ketika aturan yang jelas—seperti 'Mohon tunda kontak non-darurat hanya selama 1 jam saat penanda ini ditampilkan'—dipahami bersama, dan penanda tersebut langsung dinonaktifkan setelah waktu yang disepakati berakhir untuk memulihkan komunikasi.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

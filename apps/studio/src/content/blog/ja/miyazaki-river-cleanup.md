@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ジブリ巨匠の澄んだ朝：宮崎駿の河川清掃散歩"
 description: "スタジオジブリの宮崎駿監督が毎朝道端のゴミを拾う隠された理由。単純な散歩と整頓がいかに天才的な創造性と思索を刺激するのか探ります。"
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「miyazaki-river-cleanup」は <strong>宮崎駿の歴史的評伝およびインタビュー記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>宮崎駿の歴史的評伝およびインタビュー記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 利他的な歩行が脳に与える創造的リフレッシュ
+## 1. 利他的な歩行が脳に与える創造的リフレッシュ
 
 周辺環境を整えながら軽く散歩する行為は、脳の<strong>デフォルト・モード・ネットワーク（Default Mode Network）</strong>を柔らかく稼働させます。このネットワークは明示的な認知的作業から離れて心地よく休息するときに駆動し、脳のあちこちに散らばったアイデアをつないで斬新な直感を発揮する手助けをします。また、身体を使う清掃作業は朝の脳のセロトニン活性化を誘導し、気分を爽やかに整えてくれます。
 
 ---
 
-## 注意事項およびヒント
-
-散歩中にスマートフォンを確認したり複雑な思考に耽ると、脳はDMNのリラックス状態に到達できません。歩いている間は意識的に電子機器を遮断し、<strong>周囲の自然環境を鑑賞</strong>しながら、目の前の物理的対象を整頓することだけに集中することが、この習慣の効果を極大化する鍵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     散歩を終えて戻り、セロトニンが充填されてリラックスし澄み切った前頭葉のアイデア融合状態を活用して、最初の創造的な企画業務にすぐに取り掛かります。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびヒント
+
+散歩中にスマートフォンを確認したり複雑な思考に耽ると、脳はDMNのリラックス状態に到達できません。歩いている間は意識的に電子機器を遮断し、<strong>周囲の自然環境を鑑賞</strong>しながら、目の前の物理的対象を整頓することだけに集中することが、この習慣の効果を極大化する鍵です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

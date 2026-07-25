@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Etablierung unerschütterlicher Autonomie: Yi Is (Yulgok) morgendliche Jagyeongmun-Deklarationsroutine"
 description: "Selbstdisziplin durch 'Jagyeongmun', das Yi I (Yulgok), Joseons größter Gelehrter, mit 20 Jahren verfasste. Wir analysieren kognitives Training zur Aktivierung zielgerichteten Feedbacks durch morgendliches Rezitieren von Vorsätzen."
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ Viele Menschen fassen morgens Vorsätze, vergessen diese aber schnell wieder. An
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu yiyi-self-warning basiert auf <strong>Historische Biografien & Aufzeichnungen zu Yi Is Selbstwarnungen & kognitive Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien & Aufzeichnungen zu Yi Is Selbstwarnungen & kognitive Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Die Neurowissenschaft des Selbstreferenzeffekts und zielgerichteter Erklärungen
+## 1. Die Neurowissenschaft des Selbstreferenzeffekts und zielgerichteter Erklärungen
 
 Der Selbstreferenzeffekt (Self-Reference Effect) beschreibt, wie die Verarbeitung von Informationen in Bezug auf die eigene Person den medialen präfrontalen Kortex (mPFC) aktiviert und die Verinnerlichung von Werten stärkt. Yi Is tägliches Lesen seiner Regeln festigte diesen neuronalen Pfad. Das morgendliche Einprägen eigener Prinzipien aktiviert kognitive Kontrollnetzwerke und dient als inneres Navigationssystem zur Impulskontrolle.
 
 ---
 
-## Ein Wort zur Selbstwachsamkeit und zur Bewahrung der Autonomie
-
-Wichtiger als das Aufstellen von Prinzipien ist die Ehrlichkeit, sich jeden Morgen daran zu erinnern. Nur selbst gewählte und erklärte Maßstäbe – nicht von anderen auferlegte Regeln – motivieren Ihr Gehirn effektiv und verleihen Ihnen Kontrolle über Ihren Tag.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Wichtiger als das Aufstellen von Prinzipien ist die Ehrlichkeit, sich jeden Morg
     Reflektieren Sie vor dem Schlafengehen kurz, wie gut Sie Ihre Vorsätze eingehalten haben, und notieren Sie 1–2 Zeilen zu Verbesserungsmöglichkeiten für morgen.
   </p>
 </div>
+
+---
+
+## 3. Ein Wort zur Selbstwachsamkeit und zur Bewahrung der Autonomie
+
+Wichtiger als das Aufstellen von Prinzipien ist die Ehrlichkeit, sich jeden Morgen daran zu erinnern. Nur selbst gewählte und erklärte Maßstäbe – nicht von anderen auferlegte Regeln – motivieren Ihr Gehirn effektiv und verleihen Ihnen Kontrolle über Ihren Tag.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

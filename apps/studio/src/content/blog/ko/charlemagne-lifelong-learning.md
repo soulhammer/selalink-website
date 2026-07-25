@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "침대 머리맡의 필기판: 샤를마뉴의 수면 기억 통합 설계 루틴"
 description: "서유럽의 개척자 샤를마뉴 대제가 글쓰기를 배우기 위해 침대 머리맡에 밀랍 필기판을 두었던 평생 공부 습관. 서파 수면(Slow-wave Sleep) 중 장기 기억 전환을 극대화하고 해마(Hippocampus) 회로를 강화하는 인지신경과학적 원리를 밝힙니다."
 pubDate: "2026-01-20"
@@ -20,7 +21,7 @@ faqs:
   - question: "종이 수첩을 베개 밑이나 침대 머리맡에 두면 자는 동안 구겨지거나 위험하지 않나요?"
     answer: "현대적으로 실천할 때는 구겨지기 쉬운 얇은 종이 대신 단단한 하드커버 미니 노트를 협탁 위에 두거나, 클립이 달린 목재 메모 보드를 머리맡 선반에 고정하여 파손 위험을 방지하고 동선을 최단으로 설계하는 것이 유용합니다."
   - question: "밤에 잠에서 깨어 필기할 때 조명이 너무 어두우면 눈에 부담이 되지 않나요?"
-    answer: "밤중 필기는 길어야 1~2분 이내의 아주 짧은 단문 기록이므로 눈의 피로 적재량은 매우 미미합니다. 중요한 것은 주황색 톤의 붉은빛 계열(Amber/Warm Light) 미니 스탠드를 낮게 켜두어, 눈의 수면 상태를 깨뜨리지 않으면서도 글씨를 식별할 수 있는 최저 광량으로 유지하는 것입니다."
+    answer: "밤중 필기는 길어야 1 ~ 2분 이내의 아주 짧은 단문 기록이므로 눈의 피로 적재량은 매우 미미합니다. 중요한 것은 주황색 톤의 붉은빛 계열(Amber/Warm Light) 미니 스탠드를 낮게 켜두어, 눈의 수면 상태를 깨뜨리지 않으면서도 글씨를 식별할 수 있는 최저 광량으로 유지하는 것입니다."
 ---
 
 "지식을 소유하는 것은 좋은 일이지만, 지식을 실천하고 삶에 이식하는 것은 훨씬 더 위대한 일이다." 👑
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>아인하르트 평전 『샤를마뉴 대제전(Vita Karoli Magni)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 charlemagne-lifelong-learning 루틴을 다룹니다.
+      본 콘텐츠는 <strong>아인하르트 평전 『샤를마뉴 대제전(Vita Karoli Magni)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 서파 수면(Slow-wave Sleep) 중 기억 통합(Memory Consolidation) 메커니즘
+## 1. 서파 수면(Slow-wave Sleep) 중 기억 통합(Memory Consolidation) 메커니즘
 
 신경생리학적으로 낮 동안 수집된 단기 정보는 대뇌 깊숙이 위치한 해마(Hippocampus)에 일시적으로 부화하여 저장됩니다. 이 정보가 평생 유지되는 지식으로 고정되려면 대뇌피질(Cerebral Cortex)로 이송되는 '기억 통합(Memory Consolidation)' 프로세스를 거쳐야 하는데, 이는 수면 중 깊은 NREM 3단계인 서파 수면(Slow-wave Sleep) 시기에 극대화됩니다. 취침 직전 손으로 직접 글씨를 쓰고 학습하는 샤를마뉴의 루틴은 고농도의 신규 인지 데이터를 해마에 수면 직전 부하(Pre-sleep Loading)시키는 행동입니다. 수면이 시작되면 뇌는 서파 수면 파동(Non-REM Oscillation)과 해마 뇌파 방출(Sharp-wave Ripples)을 통해 해당 데이터를 대뇌피질 장기 기억 회로에 급속 아카이빙합니다.
 
 ---
 
-## 주의사항 및 팁: 스마트폰/IT 기기 차단과 멜라토닌 수면 위생 보호
-
-침실 머리맡 환경을 스마트폰, 태블릿 등 블루라이트를 방출하는 디지털 기기로 구성하면 수면 유도 호르몬인 멜라토닌(Melatonin) 분비가 억제되고 입면 지연 및 서파 수면 파괴를 초래합니다. 침상 머리맡 메모 환경은 반드시 '블루라이트 차단 아날로그 종이와 펜'으로 한정해야 합니다. 야간에 잠에서 깼을 때 스마트폰 화면을 켜서 확인하는 순간 도파민 보상 회로가 각성되어 수면 구조가 완전히 무너지므로, 오직 어두운 은은한 조명 하에서 아날로그 필기만 수행하는 규칙을 사수하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 스마트폰/IT 기기 차단과 멜라토닌 수면 위생 보호
+
+침실 머리맡 환경을 스마트폰, 태블릿 등 블루라이트를 방출하는 디지털 기기로 구성하면 수면 유도 호르몬인 멜라토닌(Melatonin) 분비가 억제되고 입면 지연 및 서파 수면 파괴를 초래합니다. 침상 머리맡 메모 환경은 반드시 '블루라이트 차단 아날로그 종이와 펜'으로 한정해야 합니다. 야간에 잠에서 깼을 때 스마트폰 화면을 켜서 확인하는 순간 도파민 보상 회로가 각성되어 수면 구조가 완전히 무너지므로, 오직 어두운 은은한 조명 하에서 아날로그 필기만 수행하는 규칙을 사수하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>종이 수첩을 베개 밑이나 침대 머리맡에 두면 자는 동안 구겨지거나 위험하지 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       현대적으로 실천할 때는 구겨지기 쉬운 얇은 종이 대신 단단한 하드커버 미니 노트를 협탁 위에 두거나, 클립이 달린 목재 메모 보드를 머리맡 선반에 고정하여 파손 위험을 방지하고 동선을 최단으로 설계하는 것이 유용합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>밤에 잠에서 깨어 필기할 때 조명이 너무 어두우면 눈에 부담이 되지 않나요?</span>

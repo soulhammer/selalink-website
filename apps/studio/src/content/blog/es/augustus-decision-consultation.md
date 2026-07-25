@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Decisión del Emperador de 'Apresurarse Despacio': El Hábito de Escucha Multiangular de Augusto"
 description: "El emperador romano Augusto, quien simplificó sus decisiones tras el asesinato de César escuchando exhaustivamente las opiniones disidentes de asesores como Mecenas y Agripa en lugar de actuar dogmáticamente. Explore los principios neurocientíficos de la escucha y el filtrado para romper el sesgo de confirmación."
 pubDate: "2026-01-01"
@@ -34,22 +35,20 @@ Augusto, el primer emperador de Roma, quien puso fin a un siglo de guerras civil
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre augustus-decision-consultation se basa en <strong>Verificación Histórica de *Las vidas de los doce césares (De vita Caesarum)* de Suetonio y *Historia romana* de Dión Casio e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Las vidas de los doce césares (De vita Caesarum)* de Suetonio y *Historia romana* de Dión Casio e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Supresión del Sesgo de Confirmación y Principios de Funcionamiento del Filtro Cognitivo dlPFC
+## 1. Supresión del Sesgo de Confirmación y Principios de Funcionamiento del Filtro Cognitivo dlPFC
 
 El cerebro humano es instintivamente propenso a los errores del Sistema 1 (intuitivo), justificando el primer pensamiento o preferencia que le viene a la mente. Aceptar comentarios de expertos desde múltiples ángulos que desafíen su conclusión, como hizo Augusto, estimula la <strong>'Corteza Prefrontal Dorsolateral (dlPFC)'</strong> del cerebro, que regula la toma de decisiones, activando un filtro de verificación que busca vacíos lógicos en la información. También involucra al centro de control de conflictos, la <strong>'Corteza Cingulada Anterior (ACC)'</strong>, eliminando las emociones subjetivas y estructurando datos fácticos objetivos para ayudar a tomar la mejor decisión racional.
 
 ---
 
-## Precauciones y Consejos
-
-La mayor trampa de escuchar consejos es caer en la Parálisis por Análisis (Analysis Paralysis) debido a la recopilación indiscriminada de opiniones. Buscar opiniones de demasiadas personas anónimas genera una sobrecarga cognitiva, causando confusión e incapacidad para establecer prioridades. Al tomar decisiones, limite su equipo consultor a no más de 3 expertos probados y de confianza (como Mecenas y Agripa), y mantenga estrictamente el límite de que la decisión final y la responsabilidad recaen por completo en usted.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ La mayor trampa de escuchar consejos es caer en la Parálisis por Análisis (Ana
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos
+
+La mayor trampa de escuchar consejos es caer en la Parálisis por Análisis (Analysis Paralysis) debido a la recopilación indiscriminada de opiniones. Buscar opiniones de demasiadas personas anónimas genera una sobrecarga cognitiva, causando confusión e incapacidad para establecer prioridades. Al tomar decisiones, limite su equipo consultor a no más de 3 expertos probados y de confianza (como Mecenas y Agripa), y mantenga estrictamente el límite de que la decisión final y la responsabilidad recaen por completo en usted.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo puedo evitar ser persuadido emocionalmente al escuchar los comentarios de mis colegas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ La mayor trampa de escuchar consejos es caer en la Parálisis por Análisis (Ana
       Es por eso que la 'recepción escrita no presencial' es ventajosa. En las reuniones presenciales, la persuasión emocional ocurre fácilmente debido a la autoridad, la presión de conformidad o la elocuencia. Solo puede juzgar racionalmente cuando recopila y analiza por separado la lógica aguda y los datos fácticos escritos individualmente por sus asesores.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuál es el tamaño más adecuado para un equipo consultor?</span>

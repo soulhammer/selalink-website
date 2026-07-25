@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "优雅的基石：奥黛丽·赫本的心灵疗愈花园习惯与触土的脑科学原理"
 description: "探索好莱坞传奇奥黛丽·赫本在面对极度舆论关注与晚年病痛时，如何通过触土园艺维护内心沉静与优雅。揭示泥土接触、母牛分枝杆菌（Mycobacterium vaccae）与血清素分泌的神经科学原理。"
 pubDate: "2026-01-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 hepburn-garden-mindfulness 的内容基于 <strong>奥黛丽·赫本传记与瑞士托洛什纳（Tolochenaz）故居档案考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong> 撰写。
+      本内容基于 <strong>奥黛丽·赫本传记与瑞士托洛什纳（Tolochenaz）故居档案考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 母牛分枝杆菌（Mycobacterium vaccae）与血清素（Serotonin）分泌的神经科学
+## 1. 母牛分枝杆菌（Mycobacterium vaccae）与血清素（Serotonin）分泌的神经科学
 
 人类在与泥土交融联结时，在演化心理层面拥有天然的平复沉静机制。神经科学与微物生物学研究表明，在进行园艺劳作与触土时，人体会与栖居于土壤中的有益微生物——<strong>“母牛分枝杆菌（Mycobacterium vaccae）”</strong>产生物理接触。该菌群可经由皮肤与呼吸通道刺激大脑神经细胞，强力倒逼脑干中缝核团释放调节情绪与缓解抑郁的关键神经递质——<strong>血清素（Serotonin）</strong>。换言之，从事园艺不仅能纾解<strong>前额叶皮层（Prefrontal Cortex）</strong>的认知疲劳（即<strong>“注意力恢复 Attention Restoration”</strong>），更可同步赋予自律神经系统极其强悍的平抚效应。
 
 ---
 
-## 注意事项：屏除杂念，全情沉浸于泥土与植物的实体触觉中
-
-欲借助园艺获得真正的精神松弛，须将心智完全锚定于手作动作本身的感官体感中。若在触土之际仍念叨着全天的工作待办或焦虑事项，大脑的注意力修复机制将被彻底掐断。须将全部感觉神经聚焦于指尖传来的微凉湿润泥土感、沙粒的粗糙感或叶片表面的柔嫩质感，前额叶方能解脱负担，真正切入副交感神经松弛状态。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：屏除杂念，全情沉浸于泥土与植物的实体触觉中
+
+欲借助园艺获得真正的精神松弛，须将心智完全锚定于手作动作本身的感官体感中。若在触土之际仍念叨着全天的工作待办或焦虑事项，大脑的注意力修复机制将被彻底掐断。须将全部感觉神经聚焦于指尖传来的微凉湿润泥土感、沙粒的粗糙感或叶片表面的柔嫩质感，前额叶方能解脱负担，真正切入副交感神经松弛状态。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>居住于无庭院的公寓环境中，在室内进行也有效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全可行！在阳台或客厅的小花盆中填入通用营养土，栽种小巧的香草或净化空气植物，便可获得完全等同的触觉刺激与泥土有益菌接触效益。机制的核心不在于植物体量的大小，而在于与实体泥土建立躯体触觉交融。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>用赤手触碰泥土，是否存在细菌感染等卫生隐患？</span>

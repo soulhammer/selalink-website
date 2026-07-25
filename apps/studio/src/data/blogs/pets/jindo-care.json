@@ -507,6 +507,10 @@
           "반려견 홈케어"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/jindo_care.png"
   }
 }

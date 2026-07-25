@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "몇 주 동안 옷을 벗지 않은 조각가? 미켈란젤로의 초몰입(Flow) 극대화 습관"
 description: "르네상스 최고의 거장 미켈란젤로 부오나로티. 시스티나 천장화와 다비드상을 조각할 때 옷과 장화를 벗지 않은 채 쪽잠을 자며 일했던 그의 인지 에너지 최소화 습관과 현대인을 위한 초몰입 설계법을 탐구합니다."
 pubDate: "2026-03-22"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>미켈란젤로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 michelangelo-flow 루틴을 다룹니다.
+      본 콘텐츠는 <strong>미켈란젤로 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 의사결정 피로의 최소화와 인지 자원 보존
+## 1. 의사결정 피로의 최소화와 인지 자원 보존
 
 현대 행동과학에서는 일상의 사소한 선택들이 뇌의 자기 조절 에너지를 갉아먹는 현상을 '자아 고갈(Ego Depletion)' 또는 '의사결정 피로(Decision Fatigue)'라고 부릅니다. 아침에 무엇을 입을지, 무엇을 먹을지 정하는 행위 자체가 뇌의 분석적 실행 영역을 피로하게 만듭니다. 미켈란젤로는 스스로를 고도로 격리하고 의식주에 들어가는 자잘한 두뇌 결정을 최소화함으로써, 그의 천재적 에너지를 100% 온전히 예술적 행위에만 보존하여 엄청난 속도의 생산성을 유지했던 것입니다.
 
 ---
 
-## 핵심에만 힘을 모을 때 천재성이 폭발합니다
-
-미켈란젤로는 조각 작업이 끝날 때까지 뇌의 흐름을 멈추지 않으려 자신을 극단으로 몰아붙였습니다. 현대 정보 과부하의 시대 속에서, 매일 매시간 수많은 정보와 선택에 뇌를 소진시키기보다, 가장 중요한 과제 하나를 위해 인지 에너지의 방벽을 쌓아주세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 핵심에만 힘을 모을 때 천재성이 폭발합니다
+
+미켈란젤로는 조각 작업이 끝날 때까지 뇌의 흐름을 멈추지 않으려 자신을 극단으로 몰아붙였습니다. 현대 정보 과부하의 시대 속에서, 매일 매시간 수많은 정보와 선택에 뇌를 소진시키기보다, 가장 중요한 과제 하나를 위해 인지 에너지의 방벽을 쌓아주세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>미켈란젤로는 왜 옷과 신발도 벗지 않고 잤나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       그는 극단적으로 예민한 몰입 상태를 깨뜨리고 싶지 않았기 때문입니다. 일상의 일화(옷 갈아입기, 샤워하기, 긴 잠을 청하기 등)를 전면 거부함으로써, 자신의 뇌에 흐르는 예술적 몰입의 흐름(Flow)을 중단 없이 조각상에 온전히 쏟아부었습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>현대 일상에서 의사결정 피로를 줄이는 구체적 팁은 무엇인가요?</span>

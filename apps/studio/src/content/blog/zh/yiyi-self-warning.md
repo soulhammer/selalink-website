@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "树立坚定不移的自律：栗谷李珥的《自警文》晨间宣言例行程序"
 description: "朝鲜王朝杰出贤者栗谷李珥在20岁时确立的通过《自警文》进行自我锻炼的方法。分析通过每天清晨朗读决心来激活目标导向反馈的认知训练法。"
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 yiyi-self-warning 的内容基于 <strong>李珥自警文历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>李珥自警文历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 自我参照效应与目标导向宣言的大脑科学
+## 1. 自我参照效应与目标导向宣言的大脑科学
 
 在脑科学中，自我参照效应（Self-Reference Effect）是指将新信息或决心与自己联系起来处理时，内侧前额叶皮层（mPFC）会被激活，从而使长期记忆和价值内化更加强大。栗谷李珥每天清晨默读包含自己姓名与立身的规则，正是不断强化这一神经通路的的过程。每天早晨读取并向大脑注入自己设立的原则，能够激活大脑的认知控制网络，就像在大脑中安装了导航仪，帮助人们在即时诱惑面前控制冲动，做出符合长期目标与纪律的决定。
 
 ---
 
-## 保持警惕与守护自律的一言
-
-比树立原则更重要的是每天清晨向自己提醒这些原则的坦诚。唯有自己认同并宣告的标准——而非他人强加的规则——才能最强有力地驱动我们的大脑，赋予我们掌控一天的力量。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     睡前简要回顾今天对早晨宣言的执行情况，并在日志应用或笔记本上用1到2行文字记录不足之处及明天的改进点。
   </p>
 </div>
+
+---
+
+## 3. 保持警惕与守护自律的一言
+
+比树立原则更重要的是每天清晨向自己提醒这些原则的坦诚。唯有自己认同并宣告的标准——而非他人强加的规则——才能最强有力地驱动我们的大脑，赋予我们掌控一天的力量。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "1日わずか3時間だけ熾烈に働いた天才？バートランド・ラッセルのタイムボックス没頭法"
 description: "ノーベル文学賞受賞の哲学社バートランド・ラッセル。毎日午前中に正確に3時間、完全に遮断された環境で没頭した彼の効率極大化の知恵と、現代人のためのディープワーク実践法を学びます。"
 pubDate: "2026-04-02"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「russell-three-hour-focus」は <strong>バートランド・ラッセルの歴史的評伝および自伝的記録の考証と認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>バートランド・ラッセルの歴史的評伝および自伝的記録の考証と認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 集中の密度を凝縮する「タイムボックス効果」
+## 1. 集中の密度を凝縮する「タイムボックス効果」
 
 一般的な現代人は「1日8時間勤務」という長い時間の枠組みに自分を閉じ働かせています。しかし脳科学によれば、人間的大脳皮質が100%のエネルギーを絞り出して最高の論理と創造を発揮できる限界時間（Deep Work Limit）は1日最大3〜4時間に過ぎません。作業時間を長く設定するほど、脳は緊張感を失い、スマホの確認やネットサーフィンなどの雑務で注意力を浪費し、認知疲労だけを増大させます。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 長く働くより狭く深く浸透してこそひらめきが湧き上がります
-
-偉大な思想家ラッセルにとって、3時間の没頭は一日中注意が散漫なままデスクに向かう受動的な努力よりも何十倍も強烈な認知的ハッキングの過程でした。毎日一日中辛くパソコンの前に座っているのに成果が出ず疲弊しているなら、ラッセルのように1日のうち正確に3時間だけ鉄壁の防壁を築き、核心課題に浸透してみてください。残りの人生の自由が増えるでしょう。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 長く働くより狭く深く浸透してこそひらめきが湧き上がります
+
+偉大な思想家ラッセルにとって、3時間の没頭は一日中注意が散漫なままデスクに向かう受動的な努力よりも何十倍も強烈な認知的ハッキングの過程でした。毎日一日中辛くパソコンの前に座っているのに成果が出ず疲弊しているなら、ラッセルのように1日のうち正確に3時間だけ鉄壁の防壁を築き、核心課題に浸透してみてください。残りの人生の自由が増えるでしょう。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>会社生活の中で3時間もの間連絡を受けないと問題になりませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       もちろん一般的な職場環境で3時間の完全断絶は難しい場合があります。このような場合は、午前1時間30分、午後1時間30分のよう「90分集中-完全休息」の細かいタイムボックスに分割して実践しても、脳の演算効率を保存する上で大きな助けとなります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>3時間の没頭が終わった後、午後にも軽い業務なら続けて行ってもいいですか？</span>

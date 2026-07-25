@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "刹那のインスピレーションを捕獲する狩猟法：ブルース・リーのポケット手帳密着記録ルーティン"
 description: "20世紀の武道家でありアクションスターのブルース・リー（李小龍）。手の届くポケットごとにポケット手帳を携帯し、哲学的なインスピレーションや武芸の構想をリアルタイムで捕獲した記録哲学と網様体不活系（RAS）刺激の認知メカニズムを解き明かします。"
 pubDate: "2026-04-06"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「brucelee-pocket-notebook」は <strong>ジョン・リトル伝記『Bruce Lee: Artist of Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョン・リトル伝記『Bruce Lee: Artist of Life』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 網様体不活系（RAS）刺激と脳の選択的信息加工メカニズム
+## 1. 網様体不活系（RAS）刺激と脳の選択的信息加工メカニズム
 
 人間の脳は一日の中で無数の感覚刺激を受け取りますが、生存や関心事に直接関連しない大部分の情報は認知フィルターを通じて削除します。ブルース・リーのようにインスピレーションがかすめた直後5秒以内にポケット手帳に視覚的テキストとして書き留める行為は、脳幹の「網様体不活系（RAS、Reticular Activating System）」を強力に覚醒させます。RASは大脳皮質へと送る情報の重要度等級を決定する関門であり、記録行動は脳に「このインスピレーションは生存と目標達成において決定的に重要だ」という信号を送ります。これにより脳は無意識の状態でも該当のアイデアに関連する外部の機会、人物、ヒントのみを選択的に探索・感知する「選択的知知覚（Selective Perception）」モードで作動するようになります。
 
 ---
 
-## 注意事項＆ヒント：整然とした構造より速度とタイミングの最優先化
-
-ポケット手帳メモの第一法則は、インスピレーションが発想された直後5秒以内にペンを当てる迅速さにあります。手帳の段落を整然と分けたり、字体をきれいに整えようと悩まないでください。形式にこだわり躊躇した瞬間、前頭葉の検閲フィルターが稼働してインスピレーションの尾は消失します。殴り書きした数単語、未完成な落書き形態の文章であっても、思考の火種を書き留めておくだけで、後で巨大な知識資産へと再組み合わせることができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：整然とした構造より速度とタイミングの最優先化
+
+ポケット手帳メモの第一法則は、インスピレーションが発想された直後5秒以内にペンを当てる迅速さにあります。手帳の段落を整然と分けたり、字体をきれいに整えようと悩まないでください。形式にこだわり躊躇した瞬間、前頭葉の検閲フィルターが稼働してインスピレーションの尾は消失します。殴り書きした数単語、未完成な落書き形態の文章であっても、思考の火種を書き留めておくだけで、後で巨大な知識資産へと再組み合わせることができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>紙の手帳の代わりにスマートフォンの音声録音機能でインスピレーションを保存しても同じ効果が得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、音声録音も作業記憶を素早く外に抽出する優秀な手段です。ただし、脳が後でメモを復習し視覚的に構造化するにはテキスト形態がはるかに有利であるため、音声録音アプリの自動テキスト変換（STT）機能を組み合わせてテキストデータとして保存しておくことをお勧めします。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>メモを書き留めておいても後で読み返さないようになってしまうのですが、解決方法はありますか？</span>

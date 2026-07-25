@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Präzision zur Beruhigung eines unruhigen Geistes: Kim Koos Kalligrafie-Meditationsroutine und Feinmotorik-Steuerung"
 description: "Erfahren Sie, wie Kim Koo, Führer der Provisorischen Regierung Koreas, seinen Geist durch Kalligrafie schulte. Entdecken Sie die Neurowissenschaften von Feinmotorik, Amygdala-Beruhigung und eine 3-Schritte-Anleitung."
 pubDate: "2026-02-06"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Kim Koos 'Kal
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu kimgu-brush-meditation basiert auf <strong>Historische Überprüfung aus Kim Koos Autobiografie *Baekbum Ilji*, Archiven der Provisorischen Regierung & Forschung der kognitiven Neurowissenschaften und Motorikwissenschaft</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Kim Koos Autobiografie *Baekbum Ilji*, Archiven der Provisorischen Regierung & Forschung der kognitiven Neurowissenschaften und Motorikwissenschaft</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Feinmotorik-Steuerung und die Neurowissenschaften der Amygdala-Beruhigung
+## 1. Feinmotorik-Steuerung und die Neurowissenschaften der Amygdala-Beruhigung
 
 Das Ausführen von <strong>Feinmotorik-Steuerung (Fine Motor Control)</strong> – wie die präzise Handführung beim Kalligrafieren – beansprucht intensiv den <strong>somatosensorischen Kortex</strong> und den <strong>motorischen Kortex</strong>. Wenn die volle Aufmerksamkeit auf der körperlichen Beherrschung der Pinselspitze liegt, wird die Aktivität der <strong>Amygdala</strong> – dem Angstzentrum des Gehirns – gedämpft. Gleichmäßige Bewegungen wie das Tuschereiben aktivieren zudem den <strong>Parasympathikus</strong>, was die <strong>Cortisol</strong>-Ausschüttung bremst und den Herzschlag beruhigt.
 
 ---
 
-## Vorsichtsmaßnahme: Ergebnisseelen Ehrgeiz ausschalten und sich auf das Gefühl in den Fingerspitzen konzentrieren
-
-Versuchen Sie bei Unruhe nicht, sofort Lösungen zu erzwingen oder das Schriftbild zu bewerten. Konzentrieren Sie sich ganz auf den Widerstand des Stifts auf dem Papier und die Bewegung der Hand. Die Hingabe an den Schreibvorgang beruhigt das Nervensystem.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Versuchen Sie bei Unruhe nicht, sofort Lösungen zu erzwingen oder das Schriftbi
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Ergebnisseelen Ehrgeiz ausschalten und sich auf das Gefühl in den Fingerspitzen konzentrieren
+
+Versuchen Sie bei Unruhe nicht, sofort Lösungen zu erzwingen oder das Schriftbild zu bewerten. Konzentrieren Sie sich ganz auf den Widerstand des Stifts auf dem Papier und die Bewegung der Hand. Die Hingabe an den Schreibvorgang beruhigt das Nervensystem.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Welches neurowissenschaftliche Prinzip erklärt, warum Kalligrafie Stress abbaut und den Geist beruhigt?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Versuchen Sie bei Unruhe nicht, sofort Lösungen zu erzwingen oder das Schriftbi
       Das Ausbalancieren von Druck und Ausrichtung des Pinsels erfordert Feinstmotorik, die den somatosensorischen und präfrontalen Kortex aktiviert. Dies Dämpft die Angstsignale der Amygdala.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kann man dieselben Vorteile auch mit einem Füllfederhalter oder normalen Stift erzielen, wenn man keine Kalligrafie-Pinsel besitzt?</span>

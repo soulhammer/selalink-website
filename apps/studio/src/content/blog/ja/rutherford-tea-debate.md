@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "原子核発見者の創造性の秘密？アーネスト・ラザフォードの午後4時ティータイムルーティン"
 description: "核物理学の父ラザフォード。毎日午後4時に同僚と紅茶を飲みながら格好のない討論を交わし、人類初の原子核を発見したコミュニケーションルーティン。"
 pubDate: "2026-05-23"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「rutherford-tea-debate」は <strong>アーネスト・ラザフォード歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アーネスト・ラザフォード歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 心理的安全性が誘導する集団的創造性と抑制解除
+## 1. 心理的安全性が誘導する集団的創造性と抑制解除
 
 格調高い職場や厳格な評価環境では、失敗に対する恐れから脳の認知的防衛メカニズムが発動し、創造的なアイデアを抑圧します。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 階級と格調を脱ぎ捨て、温かいお茶一杯から始めてください
-
-ティータイムの目的は業務報告や指示ではありません。どんなに奇想天外なアイデアも笑顔で議論できるオープンな柔軟性を維持することが核心です。無理に意志力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 階級と格調を脱ぎ捨て、温かいお茶一杯から始めてください
+
+ティータイムの目的は業務報告や指示ではありません。どんなに奇想天外なアイデアも笑顔で議論できるオープンな柔軟性を維持することが核心です。無理に意志力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>一人で仕事をするフリーランスもこのルーティンを適用できますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、午後4時にお茶を一杯飲みながら、オンラインの同僚コミュニティや音声通話で10分間アイデアを共有したり、ノートに自分自身へ批判的な質問を投げかける自己討論として適用できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ティータイムにおしゃべりばかりして時間が無駄になるのが心配です。</span>

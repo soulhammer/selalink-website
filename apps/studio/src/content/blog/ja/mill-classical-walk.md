@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "歩く脳が天才を作る？ジョン・スチュアート・ミルの散歩討論ルーティン"
 description: "『自由論』の知性、ジョン・スチュアート・ミル。毎朝父親と森の道を歩きながら古典を暗唱し討論した彼のユニークな散歩読書習慣と、脳の神経可塑性を高める運動・認知融合の脳科学的効果をひも解きます。"
 pubDate: "2026-01-25"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「mill-classical-walk」は <strong>ジョン・スチュアート・ミルの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョン・スチュアート・ミルの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳細胞を活性化するBDNFと神経可塑性の結合
+## 1. 脳細胞を活性化するBDNFと神経可塑性の結合
 
 静かに座って目だけで読む読書とは異なり、歩きながら対話したり思索したりする活動は脳科学的に絶大なメリットをもたらします。歩行のような有酸素身体活動は脳の血流量を急激に増やし、記憶と学習のハブである海馬において<strong>脳由来神経栄養因子（BDNF, Brain-Derived Neurotrophic Factor）</strong>の活性化を大幅に誘導します。BDNFは新しい神経細胞を生成し生存させる促進剤です。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 身体の動きが停止すると思考も固まります
-
-現代人は毎日何時間もじっと座って情報だけを消費するため、脳のBDNFレベルが底をつき、新しい知識を消化する能力が慢性的に低下しています。読書と身体活動を融合させたミルの習慣のように、読書直後にスマートフォンの接続を完全に遮断したまま歩いて思索する散歩リチュアルは、頭脳の知性を柔軟に維持し、思考力を飛躍的に高める最高の融合認知法です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 身体の動きが停止すると思考も固まります
+
+現代人は毎日何時間もじっと座って情報だけを消費するため、脳のBDNFレベルが底をつき、新しい知識を消化する能力が慢性的に低下しています。読書と身体活動を融合させたミルの習慣のように、読書直後にスマートフォンの接続を完全に遮断したまま歩いて思索する散歩リチュアルは、頭脳の知性を柔軟に維持し、思考力を飛躍的に高める最高の融合認知法です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>オーディオブックを聞きながら歩くことでも同じ効果が得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       オーディオブックを聞くことは外部情報の受動的受容に当たるため、脳が自ら記憶をたどって情報を引き出す「能動的イン出（Active Retrieval）」と自問自答の省察の機会を遮断してしまいます。歩いている間は耳を空にし、すでに読んだ内容を能動的に頭の中で再加工する時間を持つ方が、脳の可塑性を活性化する上ではるかに効果的です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>歩く速度は脳の刺激に影響を与えますか？</span>

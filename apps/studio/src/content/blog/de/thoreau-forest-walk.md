@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Täglich 4 Stunden im Wald spazieren: Henry David Thoreaus Routine zur Regeneration in der Natur"
 description: "Vorgestellt wird die tägliche 4-stündige Spaziergangsroutine von Henry David Thoreau rund um den Walden-Teich. Erklärt die neurowissenschaftlichen Prinzipien, wie das Gehen in der Natur die Aufmerksamkeit wiederherstellt und Kreativität weckt."
 pubDate: "2026-04-30"
@@ -29,25 +30,23 @@ Henry David Thoreau, der bedeutende amerikanische Denker und Schriftsteller, der
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu thoreau-forest-walk basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Henry David Thoreau & kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Henry David Thoreau & kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Attention Restoration Theory (ART): Die heilsame Wirkung des Gehens in der Natur auf den ermüdeten präfrontalen Kortex
+## 1. Attention Restoration Theory (ART): Die heilsame Wirkung des Gehens in der Natur auf den ermüdeten präfrontalen Kortex
 
 Gemäß der 'Attention Restoration Theory (ART)' der Kognitionswissenschaft erschöpfen urbane Umgebungen mit komplexen künstlichen Reizen (Ampeln, Bildschirmmedien) kontinuierlich die gezielten Aufmerksamkeitsressourcen des Gehirns. Naturräume wie Wälder oder Parks bieten dagegen 'Sanfte Faszination' (Soft Fascination) – etwa im Wind wiegende Bäume oder Blätterrascheln –, wodurch sich der ermüdete präfrontale Kortex erholen kann. Zudem aktiviert das Gehen das Default Mode Network (DMN) des Gehirns, verbindet verstreute Gedankenstränge unterhalb des Bewusstseins und öffnet neue intellektuelle Durchbrüche.
 
 ---
 
-## Trennen Sie sich während des Spaziergangs vollständig von digitalem Lärm
-
-Für Henry David Thoreau war das Gehen in der Natur ein heiliges Ritual des einsamen Dialogs mit der Natur. Wenn Sie während des Gehens auf das Smartphone schauen oder auf Benachrichtigungen reagieren, funktioniert die Aufmerksamkeitsregeneration des Gehirns nicht. Bleiben Sie während des Spaziergangs offline und öffnen Sie all Ihre Sinne für die Pflanzen und den Wandel der Jahreszeiten.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Für Henry David Thoreau war das Gehen in der Natur ein heiliges Ritual des eins
     Tragen Sie ein kleines analoges Notizbuch und einen Stift bei sich. In Momenten, in denen das Gehirn entspannt und brillante Ideen entstehen, schreiben Sie diese sofort auf Papier, anstatt das Smartphone einzuschalten.
   </p>
 </div>
+
+---
+
+## 3. Trennen Sie sich während des Spaziergangs vollständig von digitalem Lärm
+
+Für Henry David Thoreau war das Gehen in der Natur ein heiliges Ritual des einsamen Dialogs mit der Natur. Wenn Sie während des Gehens auf das Smartphone schauen oder auf Benachrichtigungen reagieren, funktioniert die Aufmerksamkeitsregeneration des Gehirns nicht. Bleiben Sie während des Spaziergangs offline und öffnen Sie all Ihre Sinne für die Pflanzen und den Wandel der Jahreszeiten.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

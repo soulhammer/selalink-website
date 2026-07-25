@@ -1,6 +1,7 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "时间的元认知：约瑟夫·熊彼特的每日成绩单习惯"
-description: "经济学家约瑟夫·熊彼特每天晚上在日记中评估学习和专注时间，并对自己打分（A~F）。探索定量评估与改善行为的元认知反馈环路效应。"
+description: "经济学家约瑟夫·熊彼特每天晚上在日记中评估学习和专注时间，并对自己打分（A ~ F）。探索定量评估与改善行为的元认知反馈环路效应。"
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 schumpeter-time-grading 的内容基于 <strong>熊彼特历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>熊彼特历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过定量反馈环路调节元认知与多巴胺奖赏网络
+## 1. 通过定量反馈环路调节元认知与多巴胺奖赏网络
 
 大多数人习惯于主观且感性地评估自己一天工作有多努力。这种模糊的反思很容易演变成缩小懒惰与专注流失的自我合理化。熊彼特的打分仪式在认知心理学上激活了“元认知”（即监控自身思维过程的认知）。通过将时间定量化并打分，让人能以第三者视角冷静审视自己的行为。这种诚实的自我客观化有助于大脑摆脱认知偏差，并通过“明天要拿到更好的A级”这一明确预测指标，有力激发前额叶的多巴胺奖赏回路。
 
 ---
 
-## 注意事项与技巧
-
-务必警惕不要让每日成绩单演变为严苛的“自我贬低”或“完美主义强迫症”。如果因连续拿到低分而陷入习得性无助或自责，会加重大脑压力并冻结行动力。打分应当作为剔除情绪的“数据积累”活动。冷静分析低分原因，将其作为“明天只改善10%”的成长心态（Growth Mindset）反馈工具。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     找出导致今天分数的根本原因（例如：刷社交媒体浪费1小时等），并制定应对改进方案，如明天上午隔离手机1小时。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与技巧
+
+务必警惕不要让每日成绩单演变为严苛的“自我贬低”或“完美主义强迫症”。如果因连续拿到低分而陷入习得性无助或自责，会加重大脑压力并冻结行动力。打分应当作为剔除情绪的“数据积累”活动。冷静分析低分原因，将其作为“明天只改善10%”的成长心态（Growth Mindset）反馈工具。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

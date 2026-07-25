@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "冷たい監獄の床で三点倒立？ジャワハルラール・ネルーのホルモン調節法"
 description: "インド初代首相ジャワハルラール・ネルー。9年間の独房収監生活の中でも毎朝倒立（シールシャアーサナ）を行い、脳血流量を増やして身体の緊張を解消した脳科学的原理と健康ルーティンを公開します。"
 pubDate: "2026-03-18"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「nehru-headstand-yoga」は <strong>ジャワハルラール・ネルーに関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジャワハルラール・ネルーに関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳血流供給を誘導しHPAストレス軸をオフにする逆重力効果
+## 1. 脳血流供給を誘導しHPAストレス軸をオフにする逆重力効果
 
 私たちが一日中立っていたり椅子に座っていると、重力の影響で血流が下半身に偏り、椎間板が持続的に押し潰される静的圧迫を受けます。これは自律神経系の緊張を高め、脳疲労を招きます。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 安全な脊椎アライメントが脳リセットの始まりです
-
-倒立は効果的な脳リラックス法ですが、未熟で無理な動作はかえって首のヘルニアや怪我を引き起こし、脳の自律神経系を緊張させます。ネルーのように安全に配慮し、自分の身体状態に合わせて変形させた姿勢で行ってこそ、椎間板の圧迫を解き、全脳に澄んだエネルギーを安定して供給することができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 安全な脊椎アライメントが脳リセットの始まりです
+
+倒立は効果的な脳リラックス法ですが、未熟で無理な動作はかえって首のヘルニアや怪我を引き起こし、脳の自律神経系を緊張させます。ネルーのように安全に配慮し、自分の身体状態に合わせて変形させた姿勢で行ってこそ、椎間板の圧迫を解き、全脳に澄んだエネルギーを安定して供給することができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>首の痛みやヘルニアがある人が倒立を行っても大丈夫ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       いいえ、首や背骨のヘルニア疾患を患っている方は、頭部が体重を直接支える伝統的な倒立は避けるべきです。代わりに壁に臀部をつけて横になり足だけを垂直に高く上げる姿勢や、仰向けに寝て臀部の下にクッションを置いて足を上げる動作に変形して行えば、椎間板に損傷を与えることなく安全な逆血流効果を得ることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>倒立を行うのに最も適切な時間帯はいつですか？</span>

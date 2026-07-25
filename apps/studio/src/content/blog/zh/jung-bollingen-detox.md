@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "博林根石塔的数字排毒：卡尔·荣格的无意识复苏法与DMN认知重置"
 description: "探索分析心理学先驱卡尔·荣格如何在切断噪音与电力的幽静石塔中通过劈柴汲水重置大脑。揭示预设模式网络（DMN）激活、前额叶皮层认知资源复苏原理与3步骤现代数字排毒习惯。"
 pubDate: "2026-01-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 jung-bollingen-detox 的内容基于 <strong>卡尔·荣格自传《回忆·思考·神往（Memories, Dreams, Reflections）》与博林根石塔档案考证及分析心理学（Analytical Psychology）与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>卡尔·荣格自传《回忆·思考·神往（Memories, Dreams, Reflections）》与博林根石塔档案考证及分析心理学（Analytical Psychology）与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 预设模式网络（DMN）激活与复苏前额叶认知资源机制
+## 1. 预设模式网络（DMN）激活与复苏前额叶认知资源机制
 
 当全天曝露于数字信息刺激中时，大脑<strong>前额叶皮层（Prefrontal Cortex）</strong>需为加工信息与维持选择性执掌控制而挥霍巨额能量，进而陷于慢性<strong>认知疲劳（Cognitive Fatigue）</strong>与创意干涸状态。卡尔·荣格的博林根石塔习惯，乃是强行斩断此类刺激锁链、唤醒大脑<strong>“预设模式网络（Default Mode Network，DMN）”</strong>的认知复位流程。在人造视觉噪点被彻底阻断的状态下，执行如劈柴或汲水这般极简重复的手工体力劳作，大脑便会顺畅切入DMN状态，对潜意识概念展开梳理重组，并诱发全新且深刻的创造性洞察。
 
 ---
 
-## 注意事项：物理阻断人造信息刺激，全情沉浸于模拟手作劳动指南
-
-对于卡尔·荣格而言，博林根石塔绝非消极避世的场所，而是一座在物理层面彻底掐断外界噪点与电子设备刺激的绝佳沉思实验室。切勿企图通过刷屏幕视频来达成“休憩”。须将手机从视野中彻底移走，全情投入动用双手与躯体的模拟原初劳动，前额叶皮层的疲劳方能重获深原度舒缓。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：物理阻断人造信息刺激，全情沉浸于模拟手作劳动指南
+
+对于卡尔·荣格而言，博林根石塔绝非消极避世的场所，而是一座在物理层面彻底掐断外界噪点与电子设备刺激的绝佳沉思实验室。切勿企图通过刷屏幕视频来达成“休憩”。须将手机从视野中彻底移走，全情投入动用双手与躯体的模拟原初劳动，前额叶皮层的疲劳方能重获深原度舒缓。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>是否必须亲身赴往如石塔般僻远荒野的隐居之地？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       绝无必要。机制的核心在于“在物理层面切断人造信息刺激”与“专注于模拟手作体感”。只需在住所内部划定出一块绝无手机干扰的特定微区域，并保持30分钟至1小时的切断状态，便能斩获极其卓越的神经恢复效益。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>为何看似朴素极简的家务杂务或体力劳动，反而有助于激发深度沉思？</span>

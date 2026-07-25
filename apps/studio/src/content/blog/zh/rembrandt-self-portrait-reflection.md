@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "凝视镜中自我的瞬间：伦勃朗的自画像视觉反省习惯"
 description: "伦勃朗·哈尔曼松·范·莱因一生绘制了80多幅自画像，深刻地观察了自己的变化过程。本文揭示了深情凝视镜中自己的眼神与皱纹这一视觉反省如何提升自我客观化能力并激活大脑“基本情绪调节网络”的神经学机制。"
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rembrandt-self-portrait-reflection 的内容基于 <strong>伦勃朗自画像视觉反省历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>伦勃朗自画像视觉反省历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 镜中自我凝视与内侧前额叶皮层（mPFC）的自我参照效应
+## 1. 镜中自我凝视与内侧前额叶皮层（mPFC）的自我参照效应
 
 深情凝视镜中自己的眼睛3分钟以上，会强烈激活大脑的“内侧前额叶皮层（mPFC）”。该区域负责自我参照加工（Self-Referential Processing），让人认知隐藏在他人的评价或社会面具（人格面具）背后的“纯粹自我”。通过视觉皮层输入的自身物理形象会重新调校大脑的情绪预测模型，平息压力神经递质的分泌，成为恢复自我关怀（Self-Compassion）与心理稳态的强大工具。
 
 ---
 
-## 注意事项与提示
-
-进行镜中反省时最需提防的是对自身外貌缺点（皮肤问题、皱纹、对称性等）进行“评价与执着”。一旦开始评估面部细节缺点，大脑就会再次启动消极的情感过滤器并引发压力。应该像伦勃朗那样抛开外貌的容姿，将整个面部的光影、双眼的闪烁、表情的流转当成他人的画作一般，平淡且基于视觉事实去审视，才能获得完整的自我客观化效果。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示
+
+进行镜中反省时最需提防的是对自身外貌缺点（皮肤问题、皱纹、对称性等）进行“评价与执着”。一旦开始评估面部细节缺点，大脑就会再次启动消极的情感过滤器并引发压力。应该像伦勃朗那样抛开外貌的容姿，将整个面部的光影、双眼的闪烁、表情的流转当成他人的画作一般，平淡且基于视觉事实去审视，才能获得完整的自我客观化效果。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果一直看着镜子感到心情怪异或沮丧，应该中断吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       是的。如果情绪扭曲或抑郁感加重，说明可能陷入了自我批判循环，请立即停止。取而代之的是，通过观察肩线或手形来先确认身体接地（Earthing）感觉的训练进行迂回。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>进行镜中自我反省的最佳时间段是什么时候？</span>

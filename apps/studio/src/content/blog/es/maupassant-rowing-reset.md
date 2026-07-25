@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Refrescando la mente de un maestro del cuento: La rutina de remo y natación de Guy de Maupassant"
 description: "Guy de Maupassant, maestro del cuento francés. Una intensa rutina de ejercicio que reiniciaba por completo su cerebro exhausto por la escritura mediante el remo y la natación en el río Sena."
 pubDate: "2026-06-11"
@@ -38,14 +39,14 @@ En la publicación de hoy, analizamos la secreción de Factor Neurotrófico Deri
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre maupassant-rowing-reset se basa en <strong>Investigación biográfica e histórica de Guy de Maupassant y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica de Guy de Maupassant y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Secreción de BDNF y redistribución del flujo sanguíneo cerebral por ejercicio aeróbico de cuerpo entero
+## 1. Secreción de BDNF y redistribución del flujo sanguíneo cerebral por ejercicio aeróbico de cuerpo entero
 
 La actividad cerebral intensa y sostenida provoca la concentración del flujo sanguíneo en la corteza prefrontal, causando sobrecalentamiento e hiperactivación neural.
 
@@ -53,9 +54,7 @@ El ejercicio aeróbico de alta intensidad con grandes grupos musculares, como el
 
 ---
 
-## Apague los pensamientos de trabajo durante el ejercicio y concéntrese solo en la respiración y el movimiento
-
-Rumiar sobre tareas o dilemas mientras hace ejercicio reduce a la mitad la redistribución del flujo sanguíneo cerebral. Centre su atención solo en la contracción muscular y el ritmo respiratorio. No confíe únicamente en la voluntad; diseñar un entorno físico y señales de hábitos es la clave.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Rumiar sobre tareas o dilemas mientras hace ejercicio reduce a la mitad la redis
   </p>
 </div>
 
+---
+
+## 3. Apague los pensamientos de trabajo durante el ejercicio y concéntrese solo en la respiración y el movimiento
+
+Rumiar sobre tareas o dilemas mientras hace ejercicio reduce a la mitad la redistribución del flujo sanguíneo cerebral. Centre su atención solo en la contracción muscular y el ritmo respiratorio. No confíe únicamente en la voluntad; diseñar un entorno físico y señales de hábitos es la clave.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Si no puedo remar ni nadar, ¿qué ejercicios pueden sustituirlos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Rumiar sobre tareas o dilemas mientras hace ejercicio reduce a la mitad la redis
       Cualquier ejercicio aeróbico de cuerpo completo que utilice el tren superior e inferior (como máquina de remo, bicicleta estática, elíptica, jogging con intervalos o burpees) producirá el mismo efecto.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Hacer ejercicio de alta intensidad todos los días no sobrecarga el cuerpo?</span>

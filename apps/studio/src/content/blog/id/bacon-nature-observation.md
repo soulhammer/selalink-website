@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jalan Pagi di Taman Francis Bacon: Cara Memulai Ulang Kelelahan Otak Melalui Pengamatan Alam"
 description: "Pelajari bagaimana Francis Bacon, master empirisme, berjalan-jalan di tamannya setiap pagi untuk mengamati tanaman dan cuaca, meredakan kelelahan otak dan membangun filsafat induktifnya."
 pubDate: "2026-01-04"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains tentang T
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai bacon-nature-observation didasarkan pada <strong>Verifikasi Historis dari Esai Francis Bacon *Of Gardens* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Esai Francis Bacon *Of Gardens* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Alasan Mengapa Jalan-Jalan Mengamati Alam Memulihkan Fokus Perhatian
+## 1. Alasan Mengapa Jalan-Jalan Mengamati Alam Memulihkan Fokus Perhatian
 
 Tugas-tugas modern membutuhkan 'Perhatian Terarah (Directed Attention)' buatan, yang membuat korteks prefrontal mudah lelah. Menurut Teori Restorasi Perhatian (Attention Restoration Theory) dalam psikologi lingkungan, stimulasi alam seperti dedaunan yang berdesir atau sinar matahari memicu 'Pesona Lembut (Soft Fascination)'. Ini mengalihkan perhatian secara alami tanpa memaksakan kerja otak, memungkinkan jaringan kontrol kognitif prefrontal yang lelah untuk beristirahat dan mengisi ulang energi, sehingga memaksimalkan pemikiran induktif dan pemecahan masalah secara kreatif.
 
 ---
 
-## Penonaktifan Total Stimulasi Digital
-
-Mengambil foto dengan smartphone, membalas pesan teks, atau mendengarkan podcast informatif saat berjalan terus menggunakan perhatian terarah otak. Untuk mendapatkan efek pemulihan perhatian, atur smartphone Anda ke mode hening dan isolasi secara total. Tenggelamkan diri Anda hanya dalam stimulasi sensorik luring (offline).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Mengambil foto dengan smartphone, membalas pesan teks, atau mendengarkan podcast
     Setelah menyelesaikan jalan-jalan Anda, kembalilah ke ruang kerja dan catat pikiran atau solusi masalah yang baru terselaraskan yang muncul selama proses istirahat otak. Korteks prefrontal yang terisi ulang secara penuh akan memberikan jawaban yang jelas.
   </p>
 </div>
+
+---
+
+## 3. Penonaktifan Total Stimulasi Digital
+
+Mengambil foto dengan smartphone, membalas pesan teks, atau mendengarkan podcast informatif saat berjalan terus menggunakan perhatian terarah otak. Untuk mendapatkan efek pemulihan perhatian, atur smartphone Anda ke mode hening dan isolasi secara total. Tenggelamkan diri Anda hanya dalam stimulasi sensorik luring (offline).
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

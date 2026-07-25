@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspiration auf dem Friedhof suchen: Mary Shelleys Routine 'Feierlicher einsamer Kontemplation'"
 description: "Erfahren Sie, warum Mary Shelley, die Autorin von 'Frankenstein', über Friedhöfe und durch historische Orte spazierte. Entdecken Sie die Gehirnwissenschaft von Ehrfurcht und tiefer Kreativität."
 pubDate: "2026-07-07"
@@ -33,17 +34,17 @@ Hier untersuchen wir die Neurowissenschaft von kognitiver Ehrfurcht und Fantasie
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu shelley-cemetery-walk basiert auf <strong>Historische Literaturaufzeichnungen über Mary Shelley & Umweltpsychologie-Forschung über Ehrfurcht (Awe)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Literaturaufzeichnungen über Mary Shelley & Umweltpsychologie-Forschung über Ehrfurcht (Awe)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kognitive Ehrfurcht und Aktivierung des reflektierenden Gehirnetzwerks in feierlichen Räumen
+## 1. Kognitive Ehrfurcht und Aktivierung des reflektierenden Gehirnetzwerks in feierlichen Räumen
 
 Die Umweltpsychologie zeigt, dass historische und feierliche Orte wie Friedhöfe oder Ruinen ein besonderes Gefühl auslösen: 'Ehrfurcht' (Awe).
 
@@ -51,9 +52,7 @@ Ehrfurcht beruhigt das egozentrische Netzwerk im Gehirn, das für Alltagsstress 
 
 ---
 
-## Nutzen Sie ruhige, nicht-kommerzielle historische oder natürliche Orte
-
-Für Mary Shelley war der Friedhof ein Zufluchtsort zur Reflexion. Sie müssen nicht auf einen Friedhof gehen – suchen Sie alte Waldwege, historische Parks, ruhige Bibliotheken oder Tempel. Entscheidend ist ein Raum ohne kommerziellen Lärm und Alltagshektik.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Für Mary Shelley war der Friedhof ein Zufluchtsort zur Reflexion. Sie müssen n
     Halten Sie im Schatten oder auf einer Bank an und öffnen Sie Ihr Notizbuch. Halten Sie tiefgründige Gedanken über das Leben unzensiert auf Papier fest.
   </p>
 </div>
+
+---
+
+## 3. Nutzen Sie ruhige, nicht-kommerzielle historische oder natürliche Orte
+
+Für Mary Shelley war der Friedhof ein Zufluchtsort zur Reflexion. Sie müssen nicht auf einen Friedhof gehen – suchen Sie alte Waldwege, historische Parks, ruhige Bibliotheken oder Tempel. Entscheidend ist ein Raum ohne kommerziellen Lärm und Alltagshektik.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

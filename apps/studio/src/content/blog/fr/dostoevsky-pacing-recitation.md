@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La voix résonnant dans la pièce : La routine de déclamation en marchant et de dictée de Fiodor Dostoïevski"
 description: "Découvrez comment Fiodor Dostoïevski, auteur de 'Crime et Châtiment', arpentait sa pièce en jouant les dialogues avant de les dicter. Explorez la neuroscience cognitive de la stimulation du cortex moteur et des aires de Broca et Wernicke."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ Selon les mémoires de son épouse et sténographe, Anna Grigorievna, Dostoïevs
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant dostoevsky-pacing-recitation est basée sur <strong>Vérification Historique issue des mémoires d'Anna Dostoïevskaïa *Mémoires (Reminiscences)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des mémoires d'Anna Dostoïevskaïa *Mémoires (Reminiscences)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscience de l'association de la marche et de la déclamation orale pour activer les réseaux du langage et les neurones miroirs
+## 1. Neuroscience de l'association de la marche et de la déclamation orale pour activer les réseaux du langage et les neurones miroirs
 
 Marcher dans la pièce stimule le cortex moteur, augmentant le flux sanguin cérébral et l'oxygénation. Simultanément, la déclamation orale crée une boucle de rétroaction audito-motrice, coactivant l'aire de Broca (production du langage) et l'aire de Wernicke (compréhension). De plus, incarner physiquement les personnages sollicite le système des neurones miroirs, insufflant una relief psychologique à l'écriture.
 
 ---
 
-## Précautions & Conseils : Réservation d'un espace privé & Protection contre le regard d'autrui
-
-La déclamation orale impliquant la vocalisation, la pratiquer dans un open space déclenche una Anxiété d'Évaluation Sociale, stimulant l'amygdale et perturbant la concentration. Pour bénéficier de ses effets, effectuez cette routine dans un espace privé — un bureau fermé, una pièce isolée ou un véhicule.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ La déclamation orale impliquant la vocalisation, la pratiquer dans un open spac
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Réservation d'un espace privé & Protection contre le regard d'autrui
+
+La déclamation orale impliquant la vocalisation, la pratiquer dans un open space déclenche una Anxiété d'Évaluation Sociale, stimulant l'amygdale et perturbant la concentration. Pour bénéficier de ses effets, effectuez cette routine dans un espace privé — un bureau fermé, una pièce isolée ou un véhicule.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Chuchoter ou lire silencieusement procure-t-il les mêmes bénéfices cognitifs que de parler à voix haute ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ La déclamation orale impliquant la vocalisation, la pratiquer dans un open spac
       Non. Chuchoter ne sollicite pas pleinement les muscles articulateurs et génère un retour auditif insuffisant. Vous devez articuler clairement pour compléter la boucle de rétroaction audito-motrice qui coactive les aires de Broca et Wernicke.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il efficace d'enregistrer ses pensées déclamées à l'aide de mémos vocaux ou d'applications de dictée (STT) pendant la marche ?</span>

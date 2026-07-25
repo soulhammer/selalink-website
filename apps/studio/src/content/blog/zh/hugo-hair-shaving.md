@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "通过切断外出来强制沉浸：维克多·雨果的剃发隔离习惯与事前拘束策略"
 description: "探索维克多·雨果如何在极陡峭的交稿期限前剃去一半头发与胡须、自我切断外出。揭示强效环境物理约束的神经科学益处、事前拘束策略与前额叶意志力疲劳防范机制。"
 pubDate: "2026-06-29"
@@ -37,25 +38,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 hugo-hair-shaving 的内容基于 <strong>葛拉罕·罗伯《雨果传（Victor Hugo: A Biography）》考证及行为治疗学（Behavior Therapy）与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>葛拉罕·罗伯《雨果传（Victor Hugo: A Biography）》考证及行为治疗学（Behavior Therapy）与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 事前拘束策略（Precommitment）与前额叶意志力疲劳防范机制
+## 1. 事前拘束策略（Precommitment）与前额叶意志力疲劳防范机制
 
 人类抵御诱惑的自控力与<strong>前额叶皮层（Prefrontal Cortex）</strong>的意志力资源极为有限，若处于持续曝露于诱惑刺激的状态下强行死磕，极易在早期引发<strong>“意志力疲劳（Willpower Fatigue）”</strong>。如维克多·雨果这般预先建立起令自己绝无可能陷入诱惑的物理壁垒的行为，在行为经济学中被称为<strong>“事前拘束策略（Precommitment Strategy）”</strong>。通过锁死外出正装并破坏外貌形象，从根本上源头斩断诱惑刺激，大脑便无需在“是否出门”的纠结拉扯中内耗认知资源，从而能将100%的前额叶带宽倾注于当下的核心任务中。
 
 ---
 
-## 注意事项：摒弃纯粹意志力依赖，预先对物理环境实施事前拘束指南
-
-切勿死磕个人决心或纯粹意志力去硬抗智能手机弹窗或外出的诱惑。正如雨果借由剃发与锁死衣柜立下背水一战般，关键在于预先设定无需消耗意志力的强效物理约束环境——如使用定时锁手机盒、启动拦截软件封锁娱乐网站等。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：摒弃纯粹意志力依赖，预先对物理环境实施事前拘束指南
+
+切勿死磕个人决心或纯粹意志力去硬抗智能手机弹窗或外出的诱惑。正如雨果借由剃发与锁死衣柜立下背水一战般，关键在于预先设定无需消耗意志力的强效物理约束环境——如使用定时锁手机盒、启动拦截软件封锁娱乐网站等。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>维克多·雨果真的为了写书而剃掉了一半头发和胡须吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       确凿无疑。1830年末在面临《巴黎圣母院》出书死线逼近时，雨果为了强行切断自己出门与社交的退路，亲自剃去了半边头发与胡须，并将自己的外出礼服锁入柜中，足不出户全情攻坚，直到全书竣工。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在不剃发的前提下，有哪些可以在现代生活中实施的软硬件隔离与事前拘束方案？</span>

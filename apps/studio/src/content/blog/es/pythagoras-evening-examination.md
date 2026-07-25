@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Una noche para restaurar el orden del alma: La rutina de autoexamen vespertino de Pitágoras"
 description: "Pitágoras reflexionaba sobre sus palabras y acciones diarias tres veces cada noche antes de dormir. Explora los efectos neurofisiológicos de sus 3 rituales de autoindagación que despiertan la metacognición antes de dormir, fortaleciendo la memoria episódica y mejorando la regulación emocional."
 pubDate: "2026-04-06"
@@ -34,22 +35,20 @@ Pitágoras, el antiguo filósofo griego y maestro de las matemáticas y la geome
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre pythagoras-evening-examination se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre el autoexamen vespertino de Pitágoras e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre el autoexamen vespertino de Pitágoras e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Principios de la ciencia cerebral sobre la consolidación de la memoria y estabilidad emocional antes de dormir
+## 1. Principios de la ciencia cerebral sobre la consolidación de la memoria y estabilidad emocional antes de dormir
 
 El sueño es un período vital cuando las memorias a corto plazo almacenadas en el hipocampo durante el día se transfieren a la corteza cerebral y se fijan en la memoria a largo plazo (Consolidación de la Memoria). Revisar intencionadamente las acciones del día justo antes de dormir le proporciona al cerebro una hoja de ruta sobre 'qué episodios procesar y almacenar con prioridad'. Además, el proceso de 'automotorización' para evaluar las acciones propias moral y cognitivamente fortalece los circuitos inhibitorios en el lóbulo frontal, purificando los posos emocionales (catarsis) y activando el sistema nervioso parasimpático para inducir un sueño profundo de ondas lentas.
 
 ---
 
-## Precauciones y consejos
-
-El mayor riesgo de la reflexión vespertina es permitir que la reflexión se deteriore en culpa personal o rumiación. Sumergirse emocionalmente en los malos eventos ocurridos hoy y repetir la rumiación desencadena la secreción de cortisol, una hormona del estrés que en realidad causa insomnio. Al realizar la reflexión, mantenga la 'Distancia Cognitiva' observando los eventos objetivamente desde la perspectiva de un tercero, enfocándose en alternativas conductuales como 'Mejoraré así la próxima vez' en lugar de la culpa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ El mayor riesgo de la reflexión vespertina es permitir que la reflexión se det
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos
+
+El mayor riesgo de la reflexión vespertina es permitir que la reflexión se deteriore en culpa personal o rumiación. Sumergirse emocionalmente en los malos eventos ocurridos hoy y repetir la rumiación desencadena la secreción de cortisol, una hormona del estrés que en realidad causa insomnio. Al realizar la reflexión, mantenga la 'Distancia Cognitiva' observando los eventos objetivamente desde la perspectiva de un tercero, enfocándose en alternativas conductuales como 'Mejoraré así la próxima vez' en lugar de la culpa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué pasa si estoy tan ocupado y cansado todo el día que me quedo dormido mientras reflexiono?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ El mayor riesgo de la reflexión vespertina es permitir que la reflexión se det
       Quedarse dormido cuando se está agotado es natural. Sin embargo, sentarse en un escritorio y hacer un breve registro de 5 minutos como si escribiera un diario en lugar de estar en la cama ayuda a prevenir la somnolencia prematura y la inercia del sueño.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si la culpa personal me impide dormir por la noche?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Walking 4 Hours a Day in the Forest: Henry David Thoreau's Nature Restoration Walking Routine"
 description: "Introducing the daily 4-hour walking routine of Henry David Thoreau around Walden Pond. Explains the neuroscientific principles of how walking in nature restores attention and sparks creativity."
 pubDate: "2026-04-30"
@@ -32,22 +33,20 @@ Henry David Thoreau, the eminent American philosopher, essayist, and author of t
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding thoreau-forest-walk is based on <strong>Historical biographies and autobiographical records of Henry David Thoreau & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Henry David Thoreau & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Attention Restoration Theory (ART): The Healing Effect of Walking in Nature on the Fatigued Prefrontal Cortex
+## 1. Attention Restoration Theory (ART): The Healing Effect of Walking in Nature on the Fatigued Prefrontal Cortex
 
 According to the Cognitive Science 'Attention Restoration Theory (ART)', urban environments filled with complex artificial stimuli (traffic lights, screen information, etc.) constantly deplete the brain's directed attention resources. In contrast, natural environments like forests or parks provide 'Soft Fascination' stimuli—such as trees swaying in the wind or the rustling of leaves—allowing the fatigued prefrontal cortex to rest. Furthermore, walking activates the brain's Default Mode Network (DMN), combining scattered thoughts beneath conscious awareness and unlocking new intellectual breakthroughs.
 
 ---
 
-## Completely Disconnect from Digital Noise During Your Walk
-
-For Henry David Thoreau, walking in nature was a sacred ritual of solitary dialogue with the natural world. If you walk while looking at smartphone screens or responding to real-time notifications, the brain's attention restoration mechanism will not function. During your walk, stay offline, completely disconnected from devices and networks, and open all your senses to the surrounding plants and seasonal changes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ For Henry David Thoreau, walking in nature was a sacred ritual of solitary dialo
     Carry a small analog notebook and pen. In those moments when the brain relaxes and brilliant intellectual ideas emerge, record them immediately on paper rather than turning on your smartphone.
   </p>
 </div>
+
+---
+
+## 3. Completely Disconnect from Digital Noise During Your Walk
+
+For Henry David Thoreau, walking in nature was a sacred ritual of solitary dialogue with the natural world. If you walk while looking at smartphone screens or responding to real-time notifications, the brain's attention restoration mechanism will not function. During your walk, stay offline, completely disconnected from devices and networks, and open all your senses to the surrounding plants and seasonal changes.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Accorder le tumulte de l'esprit : La routine d'autoculture au guqin et d'alignement auditif de Confucius"
 description: "Découvrez comment Confucius, maître de la philosophie orientale, accordait et jouait du guqin chaque jour durant ses 14 ans d'exil pour maintenir sa sérénité. Explorez la neuroscience cognitive de l'engagement auditif actif."
 pubDate: "2026-06-19"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant confucius-guqin-harmony est basée sur <strong>Vérification Historique issue des *Mémoires historiques (Shiji: Maison de Confucius)* de Sima Qian & *Entretiens de Confucius (Lunyu)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des *Mémoires historiques (Shiji: Maison de Confucius)* de Sima Qian & *Entretiens de Confucius (Lunyu)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation parasympathique via la micro-tonalité des cordes et l'engagement auditif actif
+## 1. Activation parasympathique via la micro-tonalité des cordes et l'engagement auditif actif
 
 La surcharge d'informations surstimule le système nerveux sympathique, augmentant le rythme cardiaque. La neuroscience cognitive montre que l'« engagement auditif actif » — écouter attentivement tout en ajustant la fréquence de vibration des cordes — stimule le tonus parasympathique du système nerveux autonome (SNA). Détecter de faibles écarts de hauteur tout en effectuant de réglages affine la Variabilité de la Fréquence Cardiaque (HRV) et calme la tension préfrontale.
 
 ---
 
-## Précautions & Conseils : Éviter la dépendance aux écrans & Ressentir directement les vibrations acoustiques
-
-Pour ressentir une relaxation neurologique véritable, évitez de vous fier uniquement aux écrans d'accordeurs électroniques. Fixer un écran maintient le cortex visuel en activité. Fermez plutôt les yeux ou baissez le regard, en orientant 100 % de votre attention sur la résonance acoustique et la vibration tactile ressentie au bout des doigts lors du pincement des cordes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour ressentir une relaxation neurologique véritable, évitez de vous fier uniq
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter la dépendance aux écrans & Ressentir directement les vibrations acoustiques
+
+Pour ressentir une relaxation neurologique véritable, évitez de vous fier uniquement aux écrans d'accordeurs électroniques. Fixer un écran maintient le cortex visuel en activité. Fermez plutôt les yeux ou baissez le regard, en orientant 100 % de votre attention sur la résonance acoustique et la vibration tactile ressentie au bout des doigts lors du pincement des cordes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les débutants sans expérience musicale peuvent-ils pratiquer cette routine ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour ressentir une relaxation neurologique véritable, évitez de vous fier uniq
       Oui, tout à fait. L'objectif de cette routine n'est pas la virtuosite technique, mais la stabilisation du système nerveux par l'accordage et la résonance. Des instruments simples comme un Kalimba ou un Ukulélé permettent d'accorder et de pincer des notes en 10 minutes pour un apaisement total.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il efficace d'utiliser une application d'accordage sur smartphone ?</span>

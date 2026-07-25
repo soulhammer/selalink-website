@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "창작의 백지화: 앤디 워홀의 매일 아침 구두 일기 습관"
 description: "비서에게 전화로 어제의 일과와 세세한 지출을 읊조려 기록했던 앤디 워홀. 매일 아침 구두 일기 출력이 인지 과부하를 비워내고 주의 영역을 초기화한 과학적 메커니즘을 규명합니다."
 pubDate: "2026-05-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>앤디 워홀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 warhol-morning-dictation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>앤디 워홀 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 구두 표출을 통한 작업 기억 리셋과 인지 부하 외재화
+## 1. 구두 표출을 통한 작업 기억 리셋과 인지 부하 외재화
 
 뇌의 작업 기억(Working Memory)은 단기간에 처리할 수 있는 정보 용량이 제한되어 있습니다. 어제의 해결되지 않은 지출 걱정이나 대화 잔상들이 뇌에 남아있으면, 오늘 필요한 정보 처리에 사용할 수 있는 인지 자원이 그만큼 줄어듭니다. 워홀처럼 아침에 이를 '구두(Verbal)로 읊어 다른 매체에 기록'하는 행위는 인지 과학의 <strong>인지 부하 외재화(Cognitive Offloading)</strong>를 완벽히 유도합니다. 말하는 과정에서 기억들이 체계화되어 외부 저장소로 물리적으로 이전되므로, 뇌는 잔여 인지 용량을 온전히 보존하고 오늘 당장 직면한 새로운 예술 창작 과업에 포커싱할 수 있게 됩니다.
 
 ---
 
-## 주의사항 및 팁
-
-구두 일기 쓰기 루틴을 수행할 때 피해야 할 장애물은 정돈된 논문이나 강연처럼 짜임새 있게 말하려 노력하는 것입니다. 격식 있는 스피치나 정확한 발음에 주의를 뺏기게 되면, 뇌는 이를 또 다른 정신적 업무로 인지하여 외재화에 의한 리프레시 효과가 발생하지 않습니다. 따라서 핵심은 생각나는 단어와 사실들을 두서없이, 혼잣말처럼 자유롭고 빠르게 내뱉는 브레인 덤프(Brain Dump)의 태도를 유지하는 데 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁
+
+구두 일기 쓰기 루틴을 수행할 때 피해야 할 장애물은 정돈된 논문이나 강연처럼 짜임새 있게 말하려 노력하는 것입니다. 격식 있는 스피치나 정확한 발음에 주의를 뺏기게 되면, 뇌는 이를 또 다른 정신적 업무로 인지하여 외재화에 의한 리프레시 효과가 발생하지 않습니다. 따라서 핵심은 생각나는 단어와 사실들을 두서없이, 혼잣말처럼 자유롭고 빠르게 내뱉는 브레인 덤프(Brain Dump)의 태도를 유지하는 데 있습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>비서가 없는 현대인은 매일 아침 통화 기록식 구술을 어떻게 실천하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       스마트폰의 음성-텍스트 변환(STT) 기능이나 AI 메모 앱을 켜고, 어제 있었던 사건이나 오늘 해야 할 감정적 부담감을 5분간 소리 내어 브레인덤핑(Brain Dumping)하듯 쏟아내 기록하는 방안을 추천합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>구술할 때 주로 어떤 내용을 조잘거리면 생산성 향상에 도움이 되나요?</span>

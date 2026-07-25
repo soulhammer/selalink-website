@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A rotina de caminhada e escrita de Friedrich Nietzsche: Desbloqueando a criatividade cerebral a cada passo"
 description: "Explore o fato histórico do filósofo alemão Friedrich Nietzsche caminhando até 8 horas diárias por trilhas suíças para registrar pensamentos monumentais, e a neurociência de como o movimento estimula a DMN e o pensamento divergente."
 pubDate: "2026-04-27"
@@ -35,25 +36,23 @@ Neste artigo, analisamos a neurociência por trás da rotina de caminhada e escr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre nietzsche-walking-writing é baseada em <strong>Pesquisa de biografias históricas e registros autobiográficos de Friedrich Nietzsche & estudos em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de biografias históricas e registros autobiográficos de Friedrich Nietzsche & estudos em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por que o ritmo da caminhada estimula a DMN e o pensamento divergente
+## 1. Por que o ritmo da caminhada estimula a DMN e o pensamento divergente
 
 Caminhar em um ritmo constante eleva moderadamente a frequência cardíaca, otimizando o fluxo sanguíneo cerebral. O movimento rítmico alivia a memória de trabalho e ativa a Rede de Modo Padrão (DMN), promovendo o pensamento divergente.
 
 ---
 
-## Precauções e dicas para a rotina de caminhada de Nietzsche
-
-Evite olhar para o celular durante a caminhada. Leve apenas um bloco de notas para bloquear estímulos digitais e liberar a criatividade subconsciente. Modele o ambiente para facilitar a ação de forma natural.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Evite olhar para o celular durante a caminhada. Leve apenas um bloco de notas pa
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas para a rotina de caminhada de Nietzsche
+
+Evite olhar para o celular durante a caminhada. Leve apenas um bloco de notas para bloquear estímulos digitais e liberar a criatividade subconsciente. Modele o ambiente para facilitar a ação de forma natural.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Em que momentos do dia Nietzsche costumava caminhar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Evite olhar para o celular durante a caminhada. Leve apenas um bloco de notas pa
       Nietzsche caminhava principalmente entre o café da manhã e o almoço, e no final da tarde. Ele preferia trilhas de montanha e caminhos na floresta.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É obrigatório caminhar ao ar livre para praticar essa rotina?</span>

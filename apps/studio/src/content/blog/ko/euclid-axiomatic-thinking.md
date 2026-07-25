@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "유클리드의 공리적 사고: 제1원리 연쇄 논리로 복잡한 의사결정 마비를 깨는 법"
 description: "고대 그리스의 대수학자 유클리드가 복잡한 난제를 더 이상 의심할 수 없는 공리(Axiom)로 해체하여 해결해 낸 제1원리 사고법의 역사와 인지 과학을 다룹니다."
 pubDate: "2026-02-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>유클리드 『원론(Elements)』 및 프로클로스 『원론 주석서(Commentary on Euclid's Elements)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 euclid-axiomatic-thinking 루틴을 다룹니다.
+      본 콘텐츠는 <strong>유클리드 『원론(Elements)』 및 프로클로스 『원론 주석서(Commentary on Euclid's Elements)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 공리적 재조합이 뇌의 인지 과부하와 편향을 방지하는 이유
+## 1. 공리적 재조합이 뇌의 인지 과부하와 편향을 방지하는 이유
 
 인지심리학 연구에 따르면 인간의 뇌는 기존 관습이나 경험적 직관인 휴리스틱(Heuristics)에 오염되어 판단 오류를 범하기 쉽습니다. 유클리드의 공리적 사고는 더 이상 해체 불가능한 <strong>'제1원리(First Principles)'</strong>와 자명한 사실(Axiom)만을 도출해 판단의 출발점으로 삼습니다. 이러한 공리적 재조합 메커니즘은 불확실한 가정을 사전에 제거함으로써 전전두엽 피질(Prefrontal Cortex)의 인지 과부하를 즉각 줄여줍니다. 또한 두정엽의 시공간 스케치북과 논리 연산 회로를 극대화하여 복잡한 난제를 본질부터 일목요연하게 구조화하도록 돕습니다.
 
 ---
 
-## 검증되지 않은 가정을 '공리'로 착각하지 않는 수칙
-
-증명되지 않은 경험이나 타인의 주장을 '기본 사실'로 착각해서는 안 됩니다. 해결책을 도출하기 전에 반드시 더 이상 분해할 수 없는 100% 명백한 본질적 사실(공리)만을 분리해 내야 하며, 전제 조건이 틀리면 그 뒤의 연역적 결론도 도미노처럼 무너진다는 점을 명심해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 검증되지 않은 가정을 '공리'로 착각하지 않는 수칙
+
+증명되지 않은 경험이나 타인의 주장을 '기본 사실'로 착각해서는 안 됩니다. 해결책을 도출하기 전에 반드시 더 이상 분해할 수 없는 100% 명백한 본질적 사실(공리)만을 분리해 내야 하며, 전제 조건이 틀리면 그 뒤의 연역적 결론도 도미노처럼 무너진다는 점을 명심해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>비즈니스나 복잡한 업무 의사결정에 어떻게 적용할 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       프로젝트의 물리적 제약, 실제 예산, 사용자의 근본적 니즈처럼 '더 이상 쪼갤 수 없는 기본 사실' 3가지를 먼저 정의한 뒤, 그 기반 위에서 전략을 처음부터 다시 설계하는 방식으로 적용할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>일반적인 논리적 사고와 유클리드의 제1원리 사고는 무엇이 다른가요?</span>

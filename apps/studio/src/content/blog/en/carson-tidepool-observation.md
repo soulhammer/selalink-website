@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Ocean Ecosystem That Sparked Silent Spring: Rachel Carson's Tidepool Observation and Soft Fascination Relaxation"
 description: "Explore how Rachel Carson, pioneer of the modern environmental movement, restored exhausted cognitive capacity by observing tidepools amidst corporate pressure and cancer treatments. Uncover the neuroscientific mechanisms of Attention Restoration Theory (ART) and 'Soft Fascination'."
 pubDate: "2026-07-04"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science behind Rachel Carson's tidepool ob
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding carson-tidepool-observation is based on <strong>Historical Verification from Rachel Carson's Historical Biographies and Autobiographical Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Rachel Carson's Historical Biographies and Autobiographical Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neural Restoration via 'Soft Fascination' and Attention Restoration Theory (ART)
+## 1. Neural Restoration via 'Soft Fascination' and Attention Restoration Theory (ART)
 
 Modern individuals operate in a state of 'Directed Attention', continually forcing the prefrontal cortex to burn glucose for data analysis, emailing, and decision-making. Prolonged directed attention triggers chronic fatigue and stress responses. When observing natural micro-phenomena—such as sea life gliding through tidepools, wave frequencies, or dappled sunlight—the brain enters 'Soft Fascination', where attention is engaged effortlessly without cognitive strain. According to Attention Restoration Theory (ART), this state temporarily resting prefrontal control mechanisms allows cognitive resources to replenish. Furthermore, observing micro-ecosystems stimulates the parasympathetic nervous system, stabilizing heart rate and lowering stress hormones.
 
 ---
 
-## Caution & Tips: Blocking Continuous Digital Screens & Preserving Stimulus-Free Stillness
-
-Even outdoors, continuously snapping photos for social media, checking notifications, or listening to podcasts continues to drain directed attention. This undermines the cognitive restoration Carson experienced. During a natural observation session, isolate digital devices completely and immerse your senses in the unmediated details of wind, soil, and micro-organisms to trigger prefrontal recovery.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Even outdoors, continuously snapping photos for social media, checking notificat
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Blocking Continuous Digital Screens & Preserving Stimulus-Free Stillness
+
+Even outdoors, continuously snapping photos for social media, checking notifications, or listening to podcasts continues to drain directed attention. This undermines the cognitive restoration Carson experienced. During a natural observation session, isolate digital devices completely and immerse your senses in the unmediated details of wind, soil, and micro-organisms to trigger prefrontal recovery.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does observing indoor houseplants at home provide a similar cognitive restoration effect?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Even outdoors, continuously snapping photos for social media, checking notificat
       Yes, absolutely. Though smaller in scale, examining leaf vein patterns, soil texture, or stem color on indoor potted plants induces 'Soft Fascination', effectively relaxing the prefrontal cortex and reducing stress.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it okay if I lack drawing skills and cannot make detailed observational sketches?</span>

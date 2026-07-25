@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Frau, die beim Apfelessen in der Badewanne Morde plante: Agatha Christies Heißbad-Brainstorming und DMN-Entspannung"
 description: "Erkunden Sie, wie die 'Königin des Verbrechens' Agatha Christie beim Apfelessen in einem heißen Bad komplexe Alibis und Mordplots erdachte, und entdecken Sie die kognitiven Neurowissenschaften der DMN-Aktivierung und des Kauens."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Agatha Christie
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu christie-bathtub-brainstorming basiert auf <strong>Historische Überprüfung aus Agatha Christies Autobiografie *Meine Welt war jung (An Autobiography)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Agatha Christies Autobiografie *Meine Welt war jung (An Autobiography)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivierung des Default Mode Network (DMN) durch heiße Bäder und Kautreize
+## 1. Aktivierung des Default Mode Network (DMN) durch heiße Bäder und Kautreize
 
 Das Eintauchen des Körpers in warmes Wasser (38°C–40°C) erweitert die Blutgefäße, verbessert die Durchblutung und aktiviert das Parasympathische Nervensystem, was die Herzfrequenz und Muskelspannung senkt. In diesem Entspannungszustand schaltet das Gehirn das Zentrale Exekutivnetzwerk (CEN) aus und aktiviert das Default Mode Network (DMN). Bei DMN-Aktivierung kombiniert das Gehirn unzusammenhängende Erinnerungsspuren neu und bringt kreative Lösungen hervor. Das Kauen eines Apfels sendet zudem Signale über den Trigeminusnerv an den Präfrontalkortex.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Abbau von Zwangsdruck & Herbeiführen vollständiger körperlicher Entspannung
-
-Das Ziel dieser Entspannungsroutine ist nicht das erzwingen von Antworten. Wenn Sie beim Baden einen Druck spüren, 'Ideen zu produzieren', schaltet sich das Sympathische Nervensystem wieder ein und stoppt die DMN-Verarbeitung. Schieben Sie das Problem aus dem Bewusstsein und konzentrieren Sie sich auf das warme Wasser und das Kauen des Apfels.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das Ziel dieser Entspannungsroutine ist nicht das erzwingen von Antworten. Wenn 
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Abbau von Zwangsdruck & Herbeiführen vollständiger körperlicher Entspannung
+
+Das Ziel dieser Entspannungsroutine ist nicht das erzwingen von Antworten. Wenn Sie beim Baden einen Druck spüren, 'Ideen zu produzieren', schaltet sich das Sympathische Nervensystem wieder ein und stoppt die DMN-Verarbeitung. Schieben Sie das Problem aus dem Bewusstsein und konzentrieren Sie sich auf das warme Wasser und das Kauen des Apfels.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum funktioniert Brainstorming beim Apfelessen in einem heißen Bad so effektiv?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das Ziel dieser Entspannungsroutine ist nicht das erzwingen von Antworten. Wenn 
       Das warme Bad senkt die Herzfrequenz und stärkt den Parasympathikus zur Aktivierung des DMN, während das Kauen eines Apfels Sinnesreize über den Trigeminusnerv an den Präfrontalkortex sendet. Dies verbindet körperliche Entspannung mit geistiger Klarheit.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Gibt es eine alternative Methode zur DMN-Aktivierung, wenn keine Badewanne vorhanden ist?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Rennen zum Zurücksetzen eines Genie-Gehirns? Alan Turings Laufroutine"
 description: "Alan Turing, der Vater der Informatik, der den Enigma-Code knackte. Erfahren Sie mehr über seine Laufgewohnheit, täglich 16 km zu laufen, um Überlastung abzubauen und Nervenzellen zu aktivieren."
 pubDate: "2026-02-02"
@@ -35,17 +36,17 @@ Im heutigen Beitrag untersuchen wir die neurowissenschaftlichen Mechanismen von 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu turing-marathon-running basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen über Alan Turing & kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen über Alan Turing & kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aerobes Training zur Förderung der Neurogenese und kognitiven Erfrischung
+## 1. Aerobes Training zur Förderung der Neurogenese und kognitiven Erfrischung
 
 Regelmäßiges aerobes Laufen fördert die Synthese des <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong>, einer entscheidenden Substanz für die Gehirngesundheit. BDNF fördert die Bildung neuer Neuronen im Hippocampus und erweitert den Arbeitsgedächtnisraum.
 
@@ -53,9 +54,7 @@ Beim Laufen geht der Präfrontalkortex in einen Ruhezustand über, wodurch das <
 
 ---
 
-## Tempokontrolle zur Auffrischung der Aufmerksamkeit
-
-Tempokontrolle ist beim Laufen zur Gehirnerfrischung entscheidend. Wenn Sie zu hart laufen und die anaerobe Schwelle erreichen, verwendet das Gehirn alle Ressourcen für das körperliche Überleben, was das DMN behindert. Ein gleichmäßiges Tempo, bei dem eine leichte Unterhaltung möglich ist, ist am effektivsten.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Tempokontrolle ist beim Laufen zur Gehirnerfrischung entscheidend. Wenn Sie zu h
   </p>
 </div>
 
+---
+
+## 3. Tempokontrolle zur Auffrischung der Aufmerksamkeit
+
+Tempokontrolle ist beim Laufen zur Gehirnerfrischung entscheidend. Wenn Sie zu hart laufen und die anaerobe Schwelle erreichen, verwendet das Gehirn alle Ressourcen für das körperliche Überleben, was das DMN behindert. Ein gleichmäßiges Tempo, bei dem eine leichte Unterhaltung möglich ist, ist am effektivsten.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Haben Heimtrainer oder Schwimmen denselben Effekt auf das Gehirn wie Laufen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Tempokontrolle ist beim Laufen zur Gehirnerfrischung entscheidend. Wenn Sie zu h
       Ja, jedes kontinuierliche aerobe Training, das die Herz-Kreislauf-Funktion anregt und den BDNF-Spiegel erhöht (wie Radfahren oder Schwimmen), bietet ähnliche Vorteile. Das Laufen im Freien maximiert jedoch die DMN-Entspannung durch Sinneseindrücke wie Wind und Natur.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Behindert Musik-Hören beim Laufen die Gehirnerholung?</span>

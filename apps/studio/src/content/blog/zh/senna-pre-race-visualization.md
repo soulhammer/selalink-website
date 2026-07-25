@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "时速300公里的冥想：埃尔顿·塞纳赛前意象可视化习惯"
 description: "一级方程式（F1）传奇冠军埃尔顿·塞纳在每场比赛前坐在驾驶舱内，闭上双眼完美地可视化整条赛道。揭示通过预先激活大脑运动皮层来消除执行误差并掌控压力的心理预演神经学机制。"
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 senna-pre-race-visualization 的内容基于 <strong>埃尔顿·塞纳历史传记与F1比赛记录考证及认知神经科学运动心理学研究</strong> 撰写。
+      本内容基于 <strong>埃尔顿·塞纳历史传记与F1比赛记录考证及认知神经科学运动心理学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 视觉模拟与辅助运动区（SMA）运动神经元的激活
+## 1. 视觉模拟与辅助运动区（SMA）运动神经元的激活
 
 即使不实际移动身体，只要在脑海里极其具体地想象动作（意象演练），大脑的“辅助运动区（SMA）”和初级运动皮层就会激活。这与实际肌肉运动时工作的神经元回路重合度高达90%以上。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 模拟过程而非仅关注结果
-
-意象模拟时常见的误区是仅想象结果（如演讲成功、达成目标）。要激活大脑运动皮层并减少失误，必须模拟具体的因果过程细节（如如何回应对方的反馈、用哪些词作为开场白等），这样才能产生神经可塑性预热（Priming）效应。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 模拟过程而非仅关注结果
+
+意象模拟时常见的误区是仅想象结果（如演讲成功、达成目标）。要激活大脑运动皮层并减少失误，必须模拟具体的因果过程细节（如如何回应对方的反馈、用哪些词作为开场白等），这样才能产生神经可塑性预热（Priming）效应。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果意象模拟反而加重了焦虑感，该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       焦虑增加是因为大脑聚焦于消极设想（失败的画面）。请立即停止可视化，进行“感官接地（Grounding）”——关注呼吸声或手掌触感，并配合轻微拉伸先让身体放松。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>每次进行心理预演训练的合适时长是多少？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La promenade matinale dans le jardin de Francis Bacon : Comment réinitialiser la fatigue cérébrale par l'observation de la nature"
 description: "Découvrez comment Francis Bacon, maître de l'empirisme, se promenait dans son jardin chaque matin pour observer les plantes et le temps, soulageant la fatigue cérébrale et établissant sa philosophie inductive."
 pubDate: "2026-01-04"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant bacon-nature-observation est basée sur <strong>Vérification Historique issue de l'essai *Des Jardins (Of Gardens)* de Francis Bacon & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'essai *Des Jardins (Of Gardens)* de Francis Bacon & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi les promenades d'observation de la nature restaurent l'attention
+## 1. Pourquoi les promenades d'observation de la nature restaurent l'attention
 
 Les tâches modernes exigent une « Attention Dirigée (Directed Attention) » artificielle, fatiguant facilement le cortex préfrontal. Selon la Théorie de la Restauration de l'Attention (Attention Restoration Theory) en psychologie environnementale, les stimuli naturels comme le frémissement des feuilles ou les rayons du soleil induisent une « Douce Fascination (Soft Fascination) ». Cela déplace l'attention naturellement sans forcer le cerveau, permettant au réseau de contrôle cognitif préfrontal épuisé de se reposer et de se recharger, maximisant ainsi la pensée inductive et la résolution créative de problèmes.
 
 ---
 
-## Déconnexion numérique totale des stimuli
-
-Prendre des photos avec un smartphone, répondre à des messages ou écouter des podcasts instructifs tout en marchant continue de solliciter l'attention dirigée du cerveau. Pour bénéficier de l'effet de restauration de l'attention, réglez votre smartphone sur silencieux et isolez-le totalement. Immergez-vous uniquement dans les stimuli sensoriels hors ligne.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Prendre des photos avec un smartphone, répondre à des messages ou écouter des
     Après votre promenade, retournez à votre espace de travail et notez les pensées ou solutions nouvellement réorganisées qui ont émergé pendant le repos cérébral. Votre cortex préfrontal totalement rechargé fournira des réponses claires.
   </p>
 </div>
+
+---
+
+## 3. Déconnexion numérique totale des stimuli
+
+Prendre des photos avec un smartphone, répondre à des messages ou écouter des podcasts instructifs tout en marchant continue de solliciter l'attention dirigée du cerveau. Pour bénéficier de l'effet de restauration de l'attention, réglez votre smartphone sur silencieux et isolez-le totalement. Immergez-vous uniquement dans les stimuli sensoriels hors ligne.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

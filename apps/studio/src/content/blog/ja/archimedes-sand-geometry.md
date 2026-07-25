@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "没頭の極致：アルキメデスの砂の幾何学スケッチ習慣"
 description: "複雑な科学的インスピレーションを視覚化するため、砂や床の上に絶えず図形を描いたアルキメデス。手を使う視覚スケッチが、作業記憶の認知オーバーロードをいかに減らし、超没頭状態を誘導するかを研究します。"
 pubDate: "2026-01-01"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「archimedes-sand-geometry」は <strong>プルタルコス『英雄伝（Life of Marcellus）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>プルタルコス『英雄伝（Life of Marcellus）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業記憶のオーバーロード遮断と二重符号化の認知効果
+## 1. 作業記憶のオーバーロード遮断と二重符号化の認知効果
 
 人間の作業記憶は、一度に処理できる情報量が厳密に制限されています。抽象的な数学公式や物理法則を頭の中だけで計算しようとすると、脳は急速に疲弊し、没頭が切れてしまいます。この時、手を動かして周囲に線を引くスケッチ行為は、脳の認知的負担を外部環境へ転嫁する「分散認知（Distributed Cognition）」を引き起こします。また、視覚的イメージと触覚的運動が共に活性化される二重符号化効果を通じて、空間記憶細胞を刺激し、情報の精巧な処理を促進します。
 
 ---
 
-## 注意事項およびヒント
-
-幾何学スケッチ習慣を適用する際に注意すべき点は、完璧で綺麗なスケッチを描こうとする完璧主義に陥ることです。線の形や精密さに過度に気を取られると、画力そのものに脳の認知リソースが浪費される本末転倒な現象が発生します。したがって、幾何学スケッチは情報の整理と脳の集中を助けるガイド用にのみ使用すべきであり、雑で未完成の落書きレベルで気楽に描いていくことが核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     図形同士の間に矢印や線を結び、原因と結果、分類、相互作用などの関係を視覚的に拡張しながら5分間思索を展開します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびヒント
+
+幾何学スケッチ習慣を適用する際に注意すべき点は、完璧で綺麗なスケッチを描こうとする完璧主義に陥ることです。線の形や精密さに過度に気を取られると、画力そのものに脳の認知リソースが浪費される本末転倒な現象が発生します。したがって、幾何学スケッチは情報の整理と脳の集中を助けるガイド用にのみ使用すべきであり、雑で未完成の落書きレベルで気楽に描いていくことが核心です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

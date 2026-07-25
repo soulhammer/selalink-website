@@ -1,216 +1,318 @@
 {
   "dumas-color-switching": {
-    "title": {
-      "ko": "원고지 색을 장르별로 바꾼 천재: 알렉상드르 뒤마의 색상 리셋 루틴과 시각적 프라이밍",
-      "en": "The Genius Who Color-Coded Manuscript Paper by Genre: Alexandre Dumas's Color Reset Routine and Visual Priming",
-      "ja": "原稿用紙の色をジャンル別に変えた天才：アレクサンドル・デュマのカラーリセットルーティンと視覚的プライミング",
-      "zh": "依体裁切换稿纸颜色的天才：大仲马的色彩重置习惯与视觉心理引发",
-      "es": "El Genio que Cambiaba el Color del Papel Según el Género: La Rutina de Reinicio por Color y Primación Visual de Alexandre Dumas",
-      "de": "Das Genie, das Manuskriptpapier nach Genre farblich abstimmte: Alexandre Dumas' Farb-Reset-Routine und visuelles Priming",
-      "fr": "Le génie qui adaptait la couleur de son papier au genre littéraire : La routine de réinitialisation par la couleur et le primage visuel d'Alexandre Dumas",
-      "pt": "O Gênio que Coloria o Papel de Acordo com o Gênero: A Rotina de Reinício por Cor e Priming Visual de Alexandre Dumas",
-      "id": "Genius yang Mewarnai Kertas Manuskrip Berdasarkan Genre: Rutinitas Reset Warna dan Priming Visual ala Alexandre Dumas"
-    },
-    "description": {
-      "ko": "몬테크리스토 백작의 작가 알렉상드르 뒤마가 매일 여러 장르를 쓰면서 원고지 색상을 다르게 했던 루틴. 전환 인지 피로(Switching Cost)를 상쇄하고 작업 기억(Working Memory)을 보호하는 시각적 프라이밍(Color Priming)의 인지신경과학적 원리를 밝깁니다.",
-      "en": "Discover how Alexandre Dumas, author of 'The Count of Monte Cristo', used different colored manuscript paper for each genre to prevent mental fatigue. Explore the cognitive neuroscience of color priming, switching costs, and working memory preservation.",
-      "ja": "『モンテ・クリスト伯』の著者アレクサンドル・デュマが毎日複数のジャンルを書く中で原稿用紙の色を変えたルーティン。切り替えの認知疲労（Switching Cost）を相殺し作業記憶（Working Memory）を保護する視覚的プライミング（Color Priming）の認知神経科学原理を解き明かします。",
-      "zh": "探索《基度山伯爵》作者大仲马在每天撰写多体裁文稿时切换稿纸颜色的习惯，揭示消除任务切换成本（Switching Cost）与保护工作记忆（Working Memory）的视觉心理引发（Color Priming）神经科学原理。",
-      "es": "Descubra cómo Alexandre Dumas, autor de 'El conde de Montecristo', usaba papeles de diferentes colores según el género para evitar la fatiga mental. Explore la neurociencia cognitiva del primado por color y la reducción de costes de conmutación.",
-      "de": "Erkunden Sie, wie Alexandre Dumas, Autor von 'Der Graf von Monte Christo', verschiedenfarbiges Papier für jedes Genre nutzte. Entdecken Sie die kognitiven Neurowissenschaften zu Farb-Priming und Wechselkosten.",
-      "fr": "Découvrez comment Alexandre Dumas, auteur du 'Comte de Monte-Cristo', utilisait du papier de couleur différente pour chaque genre afin d'éviter la fatigue mentale. Explorez la neuroscience cognitive du primage par la couleur.",
-      "pt": "Descubra como Alexandre Dumas, autor de 'O Conde de Monte Cristo', usava papéis de cores diferentes para cada gênero. Explore a neurociência cognitiva do priming por cor e redução de custos de transição.",
-      "id": "Pelajari bagaimana Alexandre Dumas, penulis 'The Count of Monte Cristo', menggunakan kertas manuskrip berwarna berbeda untuk setiap genre untuk mencegah kelelahan mental. Temukan neurosains kognitif tentang priming warna."
-    },
-    "authority": {
-      "ko": "알렉상드르 뒤마 자서전 『회고록(Mes Mémoires)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical Verification from Alexandre Dumas's Autobiography *Mes Mémoires* & Cognitive Neuroscience Research",
-      "ja": "アレクサンドル・デュマ自伝『Mes Mémoires（我が回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "大仲马自传《我的回忆录（Mes Mémoires）》考证与认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Verificación Histórica de la Autobiografía de Alexandre Dumas *Mis memorias (Mes Mémoires)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
-      "de": "Historische Überprüfung aus Alexandre Dumas' Autobiografie *Meine Memoiren (Mes Mémoires)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
-      "fr": "Vérification Historique issue de l'autobiographie d'Alexandre Dumas *Mes Mémoires* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
-      "pt": "Verificação Histórica da Autobiografia de Alexandre Dumas *Minhas Memórias (Mes Mémoires)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
-      "id": "Verifikasi Historis dari Autobiografi Alexandre Dumas *Mes Mémoires* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
-    },
-    "intro": {
-      "ko": "\"종이의 색은 단순한 취향이 아니다. 그것은 내 상상력을 특정 장르로 안내하는 열쇠다.\" ✍️\n\n『삼총사』, 『몬테크리스토 백작』 등의 기념비적인 역사 모험 대작들을 집필하여 전 세계 독자들을 사로잡은 프랑스 문학의 거장 알렉상드르 뒤마(Alexandre Dumas, 1802–1870). 평생 동안 소설, 시, 논평, 연극 등 방대한 분야에서 수백 권에 달하는 대작을 쉼 없이 발표한 그의 초인적인 다작 능력과 창의적 생산성의 비결은 과연 무엇이었을까요?\n\n뒤마는 매일 상상력과 논리의 뇌 회로를 끊임없이 전환해야 하는 가혹한 환경 속에서 머리가 지치는 번아웃을 예방하고자 아주 독특한 물리적 규칙을 세웠습니다. 바로 '집필 장르에 따라 원고지의 색상을 다르게 사용하는 것'이었습니다. 그는 모험 소설을 집필할 때는 오직 맑은 파란색(Blue) 종이에만 원고를 적었고, 시를 창작할 때는 화사한 노란색(Yellow) 종이, 신문 기사나 비문학 칼럼을 작성할 때는 옅은 분홍색(Rose) 종이만을 엄격하게 고집했습니다. 뒤마는 종이의 색상을 시각적으로 완벽하게 분리함으로써, 뇌가 혼란이나 에너지 낭비 없이 각 장르의 인지 상태로 즉각 진입하도록 돕는 놀라운 장치를 완성했습니다.\n\n오늘 포스트에서는 알렉상드르 뒤마의 '색상 스위칭' 루틴이 지닌 과학적 작동 원리와 현대인들이 복잡한 멀티태스킹 환경 속에서 인지적 집중력을 높이기 위해 이를 어떻게 활용할 수 있는지 소개합니다.",
-      "en": "\"The color of the paper is no mere whim. It is the key that guides my imagination directly into a specific genre.\" ✍️\n\nAlexandre Dumas (1802–1870) was the French literary titan whose swashbuckling masterpieces, including 'The Three Musketeers' and 'The Count of Monte Cristo', captured the imagination of readers worldwide. Producing hundreds of novels, plays, poems, and travelogues throughout his prolific career, how did he manage to switch rapidly between genres without suffering severe cognitive burnout?\n\nTo manage constant mental shifts between fiction, poetry, and journalism, Dumas established a strict visual system: he assigned dedicated paper colors to specific literary genres. He wrote all his fiction and novels strictly on light blue paper, crafted poetry on bright yellow sheets, and composed non-fiction articles and journalism exclusively on rose-pink paper. By visually separating his writing contexts, Dumas eliminated task-switching friction, allowing his visual cortex to immediately prime his prefrontal networks for the precise cognitive mode required for each discipline.\n\nIn today's post, we analyze the brain science underlying Alexandre Dumas's 'color-switching' routine—exploring color association and cognitive residue reduction—and present a 3-step practical action plan for modern professionals to minimize context-switching costs.",
-      "ja": "「紙の色は単なる好みではない。それは私の想像力を特定のジャンルへと案内する鍵だ。」 ✍️\n\n『三銃士』、『モンテ・クリスト伯』などの記念碑的な歴史冒険名作を執筆し、世界中の読者を魅了したフランス文学の巨匠アレクサンドル・デュマ（Alexandre Dumas、1802–1870）。生涯を通じて小説、詩、評論、戯曲など広大な分野で数百万字に及ぶ大作を休むことなく発表した彼の超人的な多作能力と創造的生産性の秘訣は、果たして何だったのでしょうか？\n\nデュマは毎日想像力と論理の脳回路を絶えず切り替えなければならない過酷な環境の中で、頭が疲弊するバーンアウトを予防するため非常にユニークな物理的ルールを立てました。まさに「執筆ジャンルによって原稿用紙の色を変えて使うこと」でした。彼は冒険小説を執筆する時はただ澄んだ青色（Blue）の紙にのみ原稿を書き、詩を創作する時は華やかな黄色（Yellow）の紙、新聞記事や非文学コラムを作成する時は淡いピンク色（Rose）の紙のみを厳格に貫きました。デュマは紙の色を視覚的に完璧に分離させることで、脳が混乱やエネルギーの無駄なく各ジャンルの認知状態へと即座に進入できるよう助ける驚くべき装置を完成させたのです。\n\n本日の記事では、アレクサンドル・デュマの「色彩スウィッチング」ルーティンに秘められた科学的作動原理と、現代人が複雑なマルチタスク環境の中で認知的集中力を高めるためにこれをどのように活用できるか紹介します。",
-      "zh": "“纸张的颜色绝非微不足道的癖好，而是指引我的想象力精准切入特定体裁的钥匙。” ✍️\n\n通过撰写《三剑客》、《基度山伯爵》等里程碑式的历史冒险巨著折服全球无数读者的法国文学巨匠——大仲马（Alexandre Dumas，1802–1870）。在贯穿一生的高产岁月中，于小说、诗歌、评论与剧本等众多领域创作出数百卷浩瀚作品的他，其超凡的多产能力与惊人的创造力秘诀究竟是什么？\n\n大仲马在每天需要频繁切换想象力与逻辑大脑电路的严酷工作中，为了规避大脑陷入认知耗竭与职业倦怠，确立了一套极具特色的物理规则：那便是“依循写作体裁使用不同颜色的稿纸”。他在撰写冒险小说时，严格只在清澈的蓝色（Blue）纸张上动笔；创作诗歌时，使用明艳的黄色（Yellow）纸张；而在撰写报刊专栏与纪实纪要时，则专挑淡粉色（Rose）纸张。大仲马通过在视觉层面将稿纸颜色与写作体裁进行绝对切割，打造了一套促使大脑无阻力、极速切入各体裁专属认知状态的惊人神经引导装置。\n\n在今天的文章中，我们将分析大仲马“色彩切换”习惯背后的科学原理，并为在繁重多任务环境中提升认知专注力的现代人 provide 3步骤实践方案。",
-      "es": "\"El color del papel no es un mero capricho. Es la llave que guía mi imaginación directamente hacia un género específico.\" ✍️\n\nAlexandre Dumas (1802–1870) fue el gigante de la literatura francesa cuyas obras maestras, como 'Los tres mosqueteros' y 'El conde de Montecristo', cautivaron a lectores de todo el mundo. Con una producción prolífica de cientos de novelas, obras de teatro y artículos, ¿cómo lograba alternar entre géneros sin sufrir un agotamiento cognitivo grave?\n\nPara gestionar los continuos cambios mentales entre la ficción, la poesía y el periodismo, Dumas estableció un sistema visual estricto: asignó colores de papel específicos a géneros literarios concretos. Escribía sus novelas exclusivamente en papel azul claro, creaba poesía sobre hojas amarillas brillantes y redactaba artículos y periodismo únicamente en papel rosa. Al separar sus contextos de escritura, Dumas eliminó la fricción del cambio de tarea, permitiendo a su corteza visual preparar sus redes prefrontales para el modo cognitivo requerido.\n\nEn la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina de 'cambio de color' de Alexandre Dumas y presentamos un plan práctico de 3 pasos para minimizar los costes de cambio de contexto.",
-      "de": "\"Die Farbe des Papiers ist keine bloße Laune. Sie ist der Schlüssel, der meine Vorstellungskraft direkt in ein bestimmtes Genre lenkt.\" ✍️\n\nAlexandre Dumas (1802–1870) war der französische Literat, dessen Meisterwerke wie 'Die drei Musketiere' und 'Der Graf von Monte Christo' Weltruhm erlangten. Wie schaffte er es, zwischen Romanen, Theaterstücken, Gedichten und Artikeln zu wechseln, ohne geistig zu ermüden?\n\nUm die ständigen gedanklichen Wechsel zu bewältigen, nutzte Dumas ein System: Er ordnete Genres feste Papierfarben zu. Romane schrieb er auf hellblauem Papier, Gedichte auf gelbem und Artikel auf rosa Papier. Durch die visuelle Trennung seiner Aufgaben reduzierte Dumas Wechselkosten, sodass sein visueller Kortex das Gehirn sofort auf den passenden Modus einstimmte.\n\nIm heutigen Beitrag analysieren wir die Neurowissenschaft hinter Alexandre Dumas' Routine des 'Farbwechsels' und stellen einen praktischen 3-Schritte-Aktionsplan vor, um Wechselkosten im Alltag zu minimieren.",
-      "fr": "« La couleur du papier n'est pas una simple fantaisie. C'est la clé qui guide mon imagination directement vers un genre particulier. » ✍️\n\nAlexandre Dumas (1802–1870) était le géant de la littérature française dont les chefs-d'œuvre, tels que 'Les Trois Mousquetaires' et 'Le Comte de Monte-Cristo', ont passionné des générations. Auteur de centaines de romans, pièces et articles, comment parvenait-il à passer d'un genre à l'autre sans subir d'épuisement cognitif ?\n\nPour gérer les transitions entre fiction, poésie et journalisme, Dumas instaura un système visuel : il attribuait une couleur de papier spécifique à chaque genre. Il rédigeait sa fiction sur du papier bleu clair, sa poésie sur des feuilles jaunes et ses articles sur du papier rose. En séparant visuellement ses cadres de travail, Dumas éliminait la friction du changement de tâche, permettant à son cortex visuel de préparer ses réseaux préfrontaux au mode requis.\n\nDans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à la routine de « changement de couleur » d'Alexandre Dumas et proposons un plan d'action en 3 étapes pour réduire les coûts de transition.",
-      "pt": "\"A cor do papel não é um mero capricho. É a chave que guia minha imaginação diretamente para um gênero específico.\" ✍️\n\nAlexandre Dumas (1802–1870) foi o gigante da literatura francesa cujas obras-primas, como 'Os Três Mosqueteiros' e 'O Conde de Monte Cristo', encantaram leitores em todo o mundo. Produzindo centenas de romances, peças e artigos, como ele conseguia alternar entre gêneros sem sofrer um esgotamento cognitivo grave?\n\nPara gerenciar as constantes transições entre ficção, poesia e jornalismo, Dumas estabeleceu um sistema visual estrito: atribuiu cores de papel específicas a gêneros literários concretos. Escrevia seus romances em papel azul-claro, criava poesia sobre folhas amarelas e redigia artigos em papel rosa. Ao separar seus contextos de escrita, Dumas eliminou o atrito de transição, permitindo ao córtex visual preparar suas redes pré-frontais para o modo cognitivo exigido.\n\nNo artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'mudança de cor' de Alexandre Dumas e apresentamos um guia prático de 3 passos para minimizar os custos de mudança de contexto.",
-      "id": "\"Warna kertas bukanlah sekadar keinginan tiba-tiba. Ini adalah kunci yang mengarahkan imajinasi saya secara langsung ke dalam genre tertentu.\" ✍️\n\nAlexandre Dumas (1802–1870) adalah raksasa sastra Prancis yang mahakaryanya, termasuk 'The Three Musketeers' dan 'The Count of Monte Cristo', memikat imajinasi pembaca di seluruh dunia. Menghasilkan ratusan novel, drama, puisi, dan catatan perjalanan sepanjang kariernya yang produktif, bagaimana ia berhasil beralih dengan cepat antar genre tanpa mengalami kelelahan kognitif yang parah?\n\nUntuk mengelola pergeseran mental yang konstan antara fiksi, puisi, dan jurnalisme, Dumas membangun sistem visual yang ketat: ia menetapkan warna kertas khusus untuk genre sastra tertentu. Ia menulis semua fiksinya di atas kertas biru muda, membuat puisi di atas lembaran kuning cerah, dan menyusun artikel non-fiksi secara eksklusif di atas kertas merah muda. Dengan memisahkan konteks penulisannya secara visual, Dumas mengeliminasi gesekan peralihan tugas."
-    },
-    "whyTitle": {
-      "ko": "전환 인지 피로(Switching Cost)를 상쇄하는 '색상 프라이밍 효과(Color Priming Effect)'",
-      "en": "Offsetting Task-Switching Costs via the 'Color Priming Effect'",
-      "ja": "切り替えの認知疲労（Switching Cost）を相殺する「色彩プライミング効果（Color Priming Effect）」",
-      "zh": "抵消任务切换成本（Switching Cost）的“色彩引发效应（Color Priming Effect）”",
-      "es": "Compensación de los Costes de Cambio de Tarea Mediante el 'Efecto de Primación por Color'",
-      "de": "Kompensation von Aufgabenwechselkosten durch den 'Farb-Priming-Effekt'",
-      "fr": "Compensation des coûts de changement de tâche via l'« Effet de Primage par la Couleur »",
-      "pt": "Compensação dos Custos de Transição de Tarefa Via 'Efeito de Priming por Cor'",
-      "id": "Meredakan Biaya Beralih Tugas Melalui 'Efek Priming Warna'"
-    },
-    "whyDesc": {
-      "ko": "우리가 여러 과업(예: 전략 기획서 작성, 정량적 예산 검토, 감성적 아이디어 구상)을 번갈아 수행할 때, 뇌는 이전 작업에서 남아 있는 '인지적 잔여물(Cognitive Residue)'을 정리하고 새로운 업무 문맥에 적응하느라 상당한 양의 전환 장벽 비용(Switching Cost)을 치러야 합니다. 이는 전전두엽 피질의 작업 기억(Working Memory) 용량을 저하시켜 생산성을 심각하게 떨어뜨립니다. 알렉상드르 뒤마의 색상 구분법은 '색상 연상(Color Association)'과 '시각적 프라이밍(Visual Priming)'을 결합한 인지과학적 솔루션이었습니다. 특정한 과업 문맥에 지정된 색상이 눈의 시각 피질에 들어오는 즉시, 뇌는 이전의 잔여 신경 활성을 신속히 종료하고 해당 작업에 최적화된 연합 영역 신경망을 자발적으로 가동하여 과업 전환 부하를 최소화합니다.",
-      "en": "When switching rapidly between distinct cognitive tasks—such as strategic writing, quantitative financial analysis, or creative brainstorming—the brain incurs significant 'Task-Switching Costs'. This lag occurs because 'Cognitive Residue' from the previous task occupies working memory in the prefrontal cortex, degrading execution efficiency. Alexandre Dumas's color-coding method is a masterclass in 'Visual Color Priming'. The instant the visual cortex detects a color strongly associated with a specific cognitive domain (e.g., blue paper for narrative fiction), it signals prefrontal networks to purge cognitive residue from the prior activity. This rapid neural contextual realignment minimizes switching friction and preserves working memory capacity.",
-      "ja": "私たちが複数の課業（例：戦略企画書の作成、定量的な予算検討、感性的なアイデア構想）を交互に遂行する時、脳は前の作業で使用していた「認知的残余物（Cognitive Residue）」を処理し、新しい作業の文脈に適応しようと相当な量の切り替え障害コスト（Switching Cost）を支払わなければなりません。これは前頭前野皮質の作業記憶（Working Memory）容量を低下させ、生産性を深刻に落とします。アレクサンドル・デュマの色彩区分法は、「色彩連想（Color Association）」と「視覚的プライミング（Visual Priming）」を結合させた認知科学的ソリューションでした。特定の課業文脈に指定された色が目の視覚皮質に入ってきた瞬間、脳は以前の残余神経活性を迅速に終了させ、該当作業に最適化された連合領域の神経回路網を自発的に稼働させて課業切り替えの負荷を最小化します。",
-      "zh": "当我们在迥种不同的认知任务间（例如：战略方案撰写、定量预算审查、感性创意构思）频繁穿梭时，大脑必须整理上一项工作遗留的“认知残留物（Cognitive Residue）”并艰难适应全新工作的上下文，从而不得不付出昂贵的任务切换成本（Switching Cost）。这会掏空前额叶皮层的工作记忆（Working Memory）容量，严重挫伤生产力。大仲马的色彩区隔法，是一套将“色彩联想（Color Association）”与“视觉心理引发（Visual Priming）”高度结合的神经科学解法。一旦投向特定任务上下文的专属色彩印入眼帘被视觉皮层接收，大脑便会当即清空上一项活动的残留神经兴奋，自发拉动与该工作相匹配的大脑联合区神经网络，将任务切换阻力降至极其微弱的水平。",
-      "es": "Al alternar entre tareas cognitivas distintas —como la redacción estratégica, el análisis cuantitativo o la lluvia de ideas—, el cerebro incurre en 'Costes de Cambio de Tarea'. Este retraso ocurre porque el 'Residuo Cognitivo' de la tarea anterior ocupa la memoria de trabajo en la corteza prefrontal, reduciendo la eficiencia. El método de códigos de color de Alexandre Dumas aplica el 'Primado Visual por Color'. En el instante en que la corteza visual detecta un color asociado a un dominio específico (p. ej., papel azul para la ficción), indica a las redes prefrontales que eliminen el residuo cognitivo previo, minimizando la fricción.",
-      "de": "Beim schnellen Wechsel zwischen verschiedenen kognitiven Aufgaben entstehen dem Gehirn 'Aufgabenwechselkosten'. Diese Verzögerung entsteht, weil 'kognitive Rückstände' der vorherigen Aufgabe das Arbeitsgedächtnis im Präfrontalkortex belegen und die Effizienz verringern. Alexandre Dumas' Farbkodierung ist ein Beispiel für 'visuelles Farb-Priming'. Sobald der visuelle Kortex eine Farbe erkennt, die mit einem bestimmten Bereich verknüpft ist (z. B. blaues Papier für Romane), signalisiert er dem Präfrontalkortex, kognitive Rückstände zu löschen.",
-      "fr": "Lorsqu'il passe d'una tâche cognitive à una autre — comme la rédaction stratégique, l'analyse chiffrée ou la création —, le cerveau subit des « Coûts de Changement de Tâche ». Ce retard survient car le « Résidu Cognitif » de la tâche précédente occupe la mémoire de travail dans le cortex préfrontal, réduisant l'efficacité. La méthode de codage par couleur d'Alexandre Dumas constitue un exemple de « Primage Visuel par la Couleur ». Dès que le cortex visuel détecte una couleur associée à un domaine précis, il signale au cortex préfrontal d'éliminer le résidu cognitif.",
-      "pt": "Ao alternar rapidamente entre tarefas cognitivas distintas — como redação estratégica, análise quantitativa ou brainstorming criativo —, o cérebro enfrenta 'Custos de Transição de Tarefa'. Esse atraso ocorre porque o 'Resíduo Cognitivo' da tarefa anterior ocupa a memória de trabalho no córtex pré-frontal, reduzindo a eficiência. O método de códigos de cor de Alexandre Dumas aplica o 'Priming Visual por Cor'. No instante em que o córtex visual detecta uma cor associada a um domínio específico, indica às redes pré-frontais que eliminem o resíduo cognitivo.",
-      "id": "Saat beralih dengan cepat antara tugas kognitif yang berbeda—seperti penulisan strategis, analisis keuangan kuantitatif, atau pemikiran kreatif—otak mengalami 'Biaya Beralih Tugas' yang signifikan. Keterlambatan ini terjadi karena 'Residu Kognitif' dari tugas sebelumnya menempati memori kerja di korteks prefrontal, menurunkan efisiensi eksekusi. Metode pengkodean warna Alexandre Dumas menerapkan 'Priming Warna Visual'."
-    },
-    "cautionTitle": {
-      "ko": "주의사항 및 팁: 명확한 시각적 경계선 설정 및 카테고리 단순화",
-      "en": "Caution & Tips: Establishing Clear Visual Boundaries & Simplifying Categories",
-      "ja": "注意事項＆ヒント：明確な視覚的境界線の設定とカテゴリーの単純化",
-      "zh": "注意事项与提示：确立清晰的视觉边界线与精简任务分类",
-      "es": "Precauciones y Consejos: Establecer Límites Visuales Claros y Simplificar Categorías",
-      "de": "Vorsichtsmaßnahmen & Tipps: Einrichten klarer visueller Grenzen & Kategorieneinfachheit",
-      "fr": "Précautions & Conseils : Établir des frontières visuelles nettes & Simplifier les catégories",
-      "pt": "Precauções e Dicas: Estabelecer Limites Visuais Claros e Simplificar Categorias",
-      "id": "Perhatian & Tip: Membangun Batasan Visual yang Jelas & Menyederhanakan Kategori"
-    },
-    "cautionDesc": {
-      "ko": "뒤마에게 색상 종이는 단순한 감상용 소품이 아니라, 뇌에 명확한 인지적 경계선을 그어주어 전환 장벽을 허무는 지능적인 신경 보조 도구였습니다. 카테고리를 지나치게 세분화하여 5개 이상의 색상을 사용하면 뇌가 색상과 작업 상태를 연합 학습(Associative Learning)하지 못해 오히려 인지 과부하가 발생합니다. 핵심 과업 영역을 최대 3개 이하의 대분류로 정해두고, 각 전용 색상 테마를 일정 기간 변함없이 일관되게 유지해야만 강력한 프라이밍 조건반사가 완성됩니다.",
-      "en": "For Dumas, colored paper was not a decorative gimmick, but an external neural prompt that defined rigid cognitive boundaries to erase switching friction. Avoid over-complicating this system with too many colors; assigning more than 3 active color themes prevents the brain from establishing strong associative learning and causes visual confusion. Keep your macro-task categories strictly to 3 or fewer, and maintain the assigned visual color themes consistently over time to build reliable neurological conditioning.",
-      "ja": "デュマにとって色のついた紙は単なる鑑賞用の小道具ではなく、脳に明確な認知的境界線を引いて切り替えの障害を崩す知的な神経補助道具でした。カテゴリーを過度に細分化して5つ以上の色を使用すると、脳が色と作業状態を連合学習（Associative Learning）できず、かえって認知過負荷が発生します。核心的課業領域を最大3つ以下の大分類に定めておき、各専用のカラーテーマを一定期間変わることなく一貫して維持してこそ、強力なプライミング条件反射が完成します。",
-      "zh": "对大仲马而言，有色纸张绝非装点风雅的玩物，而是一套在脑海中划定刚性认知界限、摧毁切换阻力的灵巧神经辅助工具。切无将任务分类过于碎片化并使用多于5种色彩，这会导致大脑无法对色彩与工作状态达成关联学习（Associative Learning），反而引发视觉彩噪与认知过载。将核心任务大类严加精简至3种或以下，并在相当长的时间战线里一致保持专属配色主题，如此方能构建起可靠的神经条件反射。",
-      "es": "Para Dumas, el papel de color no era un capricho decorativo, sino una señal neuronal externa que definía límites cognitivos para eliminar la fricción. Evite complicar el sistema con demasiados colores: usar más de 3 temas impide que el cerebro establezca un aprendizaje asociativo sólido. Mantenga sus categorías en 3 o menos y conserve los colores asignados de forma constante para consolidar el condicionamiento.",
-      "de": "Für Dumas war farbiges Papier keine Dekoration, sondern ein Signal, das geistige Grenzen absteckte, um Wechselkosten abzubauen. Überfordern Sie das System nicht mit zu vielen Farben: Mehr als 3 Farbmuster erschweren das assoziative Lernen im Gehirn. Beschränken Sie Ihre Aufgabenbereiche auf maximal 3 Kategorien und behalten Sie die Farbzuordnungen bei.",
-      "fr": "Pour Dumas, le papier de couleur n'était pas un artifice décoratif, mais un signal neuronal définissant des frontières cognitives pour éliminer les frictions. Évitez de complexifier le système avec trop de couleurs : utiliser plus de 3 thèmes empêche le cerveau d'établir un apprentissage associatif solide. Limitez vos catégories à 3 au maximum et conservez les couleurs pour créer un conditionnement efficace.",
-      "pt": "Para Dumas, o papel colorido não era um detalhe decorativo, mas um estímulo neuronal externo que definia limites cognitivos para eliminar o atrito. Evite complicar o sistema com muitas cores: usar mais de 3 temas impede o cérebro de estabelecer um aprendizado associativo sólido. Mantenha suas categorias em 3 ou menos e conserve as cores atribuídas para consolidar o condicionamento.",
-      "id": "Bagi Dumas, kertas berwarna bukanlah gimmick dekoratif, melainkan petunjuk saraf eksternal yang mendefinisikan batasan kognitif yang kaku untuk menghapus gesekan peralihan. Hindari menyulitkan sistem ini dengan terlalu banyak warna; menetapkan lebih dari 3 tema warna aktif mencegah otak membangun pembelajaran asosiatif yang kuat. Pertahankan kategori tugas makro Anda secara ketat hingga 3 atau kurang."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 핵심 과업 영역 3가지 분류 및 고유 전용 색상 지정",
-          "en": "Step 1: Categorizing Core Work into Max 3 Domains & Assigning Unique Colors",
-          "ja": "ステップ1：核心課業領域の3つの分類および固有専用色の指定",
-          "zh": "步骤1：梳理至多3项核心任务领域与绑定专属色彩",
-          "es": "Paso 1: Clasificar el Trabajo en Máximo 3 Dominios y Asignar Colores Exclusivos",
-          "de": "Schritt 1: Einteilen der Hauptaufgaben in maximal 3 Bereiche & Zuordnen von Farben",
-          "fr": "Étape 1 : Classification du travail en 3 domaines maximum & Attribution de couleurs",
-          "pt": "Passo 1: Classificar o Trabalho em No Máximo 3 Domínios e Atribuir Cores Únicas",
-          "id": "Langkah 1: Mengategorikan Pekerjaan Inti Menjadi Maksimal 3 Domain & Menetapkan Warna Khusus"
-        },
-        "text": {
-          "ko": "자신이 일상에서 수행하는 핵심 과업 영역(예: 분석적 기획서 작성, 영감 및 아이디어 드로잉, 감정 회고 및 일기 등)을 3개 이하로 나누고, 각 영역마다 시각적으로 확연히 구분되는 고유한 대표 색상(예: 파랑, 노랑, 분홍)을 지정합니다.",
-          "en": "Divide your primary work responsibilities into 3 or fewer macro categories (e.g., analytical planning/coding, creative brainstorming/design, journal writing/review). Assign a distinct signature color (e.g., blue, yellow, pink) to each category.",
-          "ja": "自分が日常で遂行する核心課業領域（例：分析的企画書の作成、インスピレーションおよびアイデアのドローイング、感情の振り返りおよび日記など）を3つ以下に分け、各領域ごとに視覚的にはっきりと区分される固有の代表色（例：青、黄、ピンク）を指定します。",
-          "zh": "将日常开展的核心工作领域整理拆解为至多3大类（例如：分析型方案撰写/代码编写、灵感脑暴/创意草图、日常复盘/日记感悟）。为每一类别绑定区分度极高的专属代表色（如：蓝色、黄色、粉色）。",
-          "es": "Divida sus responsabilidades de trabajo en 3 o menos categorías principales (p. ej., planificación analítica, lluvia de ideas creativas, diario personal). Asigne un color distintivo (p. ej., azul, amarillo, rosa) a cada categoría.",
-          "de": "Unterteilen Sie Ihre Hauptaufgaben in maximal 3 Kategorien (z. B. analytische Planung/Coding, kreatives Brainstorming, Tagebuch/Review). Ordnen Sie jeder Kategorie eine eigene Farbe zu (z. B. Blau, Gelb, Rosa).",
-          "fr": "Divisez vos responsabilités principales en 3 catégories au maximum (ex. planification analytique, création/brainstorming, journal/bilan). Attribuez una couleur distincte (ex. bleu, jaune, rose) à chaque catégorie.",
-          "pt": "Divida suas responsabilidades em 3 ou menos categorias principais (ex.: planejamento analítico, brainstorming criativo, diário pessoal). Atribua uma cor distinta (ex.: azul, amarelo, rosa) a cada categoria.",
-          "id": "Bagi tanggung jawab kerja utama Anda menjadi 3 atau kurang kategori makro (misalnya, perencanaan analitis/pengodean, curah pendapat kreatif/desain, penulisan jurnal/tinjauan). Tetapkan warna khas yang jelas (misalnya, biru, kuning, merah muda) untuk setiap kategori."
-        }
+    "pubDate": "2026-06-07",
+    "updatedDate": "2026-06-07",
+    "heroImage": "/images/blog/dumas_color_switching.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "원고지 색을 장르별로 바꾼 천재: 알렉상드르 뒤마의 색상 리셋 루틴과 시각적 프라이밍",
+        "description": "몬테크리스토 백작의 작가 알렉상드르 뒤마가 매일 여러 장르를 쓰면서 원고지 색상을 다르게 했던 루틴. 전환 인지 피로(Switching Cost)를 상쇄하고 작업 기억(Working Memory)을 보호하는 시각적 프라이밍(Color Priming)의 인지신경과학적 원리를 밝깁니다.",
+        "authority": "알렉상드르 뒤마 자서전 『회고록(Mes Mémoires)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"종이의 색은 단순한 취향이 아니다. 그것은 내 상상력을 특정 장르로 안내하는 열쇠다.\" ✍️\n\n『삼총사』, 『몬테크리스토 백작』 등의 기념비적인 역사 모험 대작들을 집필하여 전 세계 독자들을 사로잡은 프랑스 문학의 거장 알렉상드르 뒤마(Alexandre Dumas, 1802–1870). 평생 동안 소설, 시, 논평, 연극 등 방대한 분야에서 수백 권에 달하는 대작을 쉼 없이 발표한 그의 초인적인 다작 능력과 창의적 생산성의 비결은 과연 무엇이었을까요?\n\n뒤마는 매일 상상력과 논리의 뇌 회로를 끊임없이 전환해야 하는 가혹한 환경 속에서 머리가 지치는 번아웃을 예방하고자 아주 독특한 물리적 규칙을 세웠습니다. 바로 '집필 장르에 따라 원고지의 색상을 다르게 사용하는 것'이었습니다. 그는 모험 소설을 집필할 때는 오직 맑은 파란색(Blue) 종이에만 원고를 적었고, 시를 창작할 때는 화사한 노란색(Yellow) 종이, 신문 기사나 비문학 칼럼을 작성할 때는 옅은 분홍색(Rose) 종이만을 엄격하게 고집했습니다. 뒤마는 종이의 색상을 시각적으로 완벽하게 분리함으로써, 뇌가 혼란이나 에너지 낭비 없이 각 장르의 인지 상태로 즉각 진입하도록 돕는 놀라운 장치를 완성했습니다.\n\n오늘 포스트에서는 알렉상드르 뒤마의 '색상 스위칭' 루틴이 지닌 과학적 작동 원리와 현대인들이 복잡한 멀티태스킹 환경 속에서 인지적 집중력을 높이기 위해 이를 어떻게 활용할 수 있는지 소개합니다.",
+        "whyTitle": "전환 인지 피로(Switching Cost)를 상쇄하는 '색상 프라이밍 효과(Color Priming Effect)'",
+        "whyDesc": "우리가 여러 과업(예: 전략 기획서 작성, 정량적 예산 검토, 감성적 아이디어 구상)을 번갈아 수행할 때, 뇌는 이전 작업에서 남아 있는 '인지적 잔여물(Cognitive Residue)'을 정리하고 새로운 업무 문맥에 적응하느라 상당한 양의 전환 장벽 비용(Switching Cost)을 치러야 합니다. 이는 전전두엽 피질의 작업 기억(Working Memory) 용량을 저하시켜 생산성을 심각하게 떨어뜨립니다. 알렉상드르 뒤마의 색상 구분법은 '색상 연상(Color Association)'과 '시각적 프라이밍(Visual Priming)'을 결합한 인지과학적 솔루션이었습니다. 특정한 과업 문맥에 지정된 색상이 눈의 시각 피질에 들어오는 즉시, 뇌는 이전의 잔여 신경 활성을 신속히 종료하고 해당 작업에 최적화된 연합 영역 신경망을 자발적으로 가동하여 과업 전환 부하를 최소화합니다.",
+        "cautionTitle": "주의사항 및 팁: 명확한 시각적 경계선 설정 및 카테고리 단순화",
+        "cautionDesc": "뒤마에게 색상 종이는 단순한 감상용 소품이 아니라, 뇌에 명확한 인지적 경계선을 그어주어 전환 장벽을 허무는 지능적인 신경 보조 도구였습니다. 카테고리를 지나치게 세분화하여 5개 이상의 색상을 사용하면 뇌가 색상과 작업 상태를 연합 학습(Associative Learning)하지 못해 오히려 인지 과부하가 발생합니다. 핵심 과업 영역을 최대 3개 이하의 대분류로 정해두고, 각 전용 색상 테마를 일정 기간 변함없이 일관되게 유지해야만 강력한 프라이밍 조건반사가 완성됩니다.",
+        "steps": [
+          {
+            "title": "1단계: 핵심 과업 영역 3가지 분류 및 고유 전용 색상 지정",
+            "desc": "자신이 일상에서 수행하는 핵심 과업 영역(예: 분석적 기획서 작성, 영감 및 아이디어 드로잉, 감정 회고 및 일기 등)을 3개 이하로 나누고, 각 영역마다 시각적으로 확연히 구분되는 고유한 대표 색상(예: 파랑, 노랑, 분홍)을 지정합니다."
+          },
+          {
+            "title": "2단계: 아날로그/디지털 작업 도구의 물리적 색상 세팅",
+            "desc": "배정된 색상에 따라 물리적 노트 표지/속지, 또는 디지털 필기 앱의 테마 배경색, 폴더 태그, IDE 커스텀 테마의 색상을 완전히 분리하여 각 과업 전용 작업 환경을 구축합니다."
+          },
+          {
+            "title": "3단계: 작업 개시 시 시각적 스위칭 및 인지 잔여물 소거",
+            "desc": "새로운 과업을 시작하는 즉시 지정된 전용 색상의 필기구나 노트, 디지털 화면을 눈앞에 1초간 응시하여, 시각 피질이 전전두엽에 과업 전환 신호를 전달하게 함으로써 집중을 유도합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "아날로그 종이나 필기구가 아닌 디지털 앱(노션, 필기 앱, 브라우저)에서도 동일한 프라이밍 효과가 있나요?",
+            "answer": "네, 완벽히 동일합니다. 핵심 메커니즘은 종이의 재질이 아니라 '시각 피질로 유입되는 색상 신호와 특정 인지 상태 간의 연합 조건화'에 있습니다. 필기 앱의 속지 배경색, 노션 워크스페이스 테마, 크롬 프로필 색상을 용도별로 완전히 다르게 세팅하는 것만으로도 전전두엽은 동일하게 프라이밍 신호를 수용합니다."
+          },
+          {
+            "question": "색상을 너무 세분화하여 자주 바꾸면 오히려 두뇌에 역효과나 인지 과부하가 나지 않나요?",
+            "answer": "네, 맞습니다. 뇌가 특정 색상과 인지 모드를 유기적으로 바인딩하려면 지속적이고 반복적인 연합 학습 과정이 필수적입니다. 5개 이상의 색상을 복잡하게 혼용하면 뇌는 시각적 노이즈로 인식하여 프라이밍 효과가 상실됩니다. 반드시 핵심 과업 영역을 2~3개 이하로 최소화하고 고유 색상을 일정 기간 고정하여 유지하는 것이 인지적 유익을 극대화하는 길입니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 아날로그/디지털 작업 도구의 물리적 색상 세팅",
-          "en": "Step 2: Physically or Digitally Isolating Work Tools by Color Theme",
-          "ja": "ステップ2：アナログ/デジタル作業道具の物理的カラーセットアップ",
-          "zh": "步骤2：配置实体/数字工作工具的色彩微环境",
-          "es": "Paso 2: Aislar las Herramientas de Trabajo por Tema de Color Físico o Digital",
-          "de": "Schritt 2: Farbliches Abstimmen analoger oder digitaler Arbeitsmittel",
-          "fr": "Étape 2 : Isolement des outils de travail par thème de couleur physique ou numérique",
-          "pt": "Passo 2: Isolar as Ferramentas de Trabalho por Tema de Cor Físico ou Digital",
-          "id": "Langkah 2: Mengisolasi Alat Kerja Secara Fisik atau Digital Berdasarkan Tema Warna"
-        },
-        "text": {
-          "ko": "배정된 색상에 따라 물리적 노트 표지/속지, 또는 디지털 필기 앱의 테마 배경색, 폴더 태그, IDE 커스텀 테마의 색상을 완전히 분리하여 각 과업 전용 작업 환경을 구축합니다.",
-          "en": "Configure your environment according to the assigned color keys: use matching physical notebook covers/paper, or set distinct background canvas themes, folder tag colors, and UI themes within digital apps (e.g., Notion, tablet note apps, IDEs).",
-          "ja": "割り当てられた色に従って物理的なノートの表紙/中身、またはデジタル筆記アプリのテーマ背景色、フォルダータグ、IDEカスタムテーマの色を完全に分離し、各課業専用の作業環境を構築します。",
-          "zh": "依循敲定的色彩方案布置工具：采用对颜色的实体笔记本/纸张，或在数字笔记软件（如Notion、平板手写应用、IDE开发环境）中将画布背景主题、文件夹标签与UI色彩切至专属对应模式。",
-          "es": "Configure su entorno según las claves de color: use portadas o papeles físicos coincidentes, o bien defina temas de fondo, colores de carpetas y temas de interfaz en sus aplicaciones digitales.",
-          "de": "Richten Sie Ihre Arbeitsumgebung farblich ein: Nutzen Sie passende Notizhefte oder stellen Sie digitale Hintergründe, Ordnerfarben und App-Themes auf die festgelegten Farben ein.",
-          "fr": "Aménagez votre environnement selon le code couleur choisi : utilisez des carnets physiques assortis, ou définissez des thèmes de fond, des étiquettes et des interfaces dédiés dans vos applications.",
-          "pt": "Configure seu ambiente de acordo com as cores atribuídas: use capas ou papéis físicos correspondentes, ou defina temas de fundo, cores de pastas e interfaces em seus aplicativos digitais.",
-          "id": "Konfigurasikan lingkungan Anda sesuai dengan kunci warna yang ditetapkan: gunakan sampul/kertas buku catatan fisik yang cocok, atau atur tema kanvas latar belakang yang berbeda, warna tag folder, dan tema UI dalam aplikasi digital."
-        }
+      "en": {
+        "title": "The Genius Who Color-Coded Manuscript Paper by Genre: Alexandre Dumas's Color Reset Routine and Visual Priming",
+        "description": "Discover how Alexandre Dumas, author of 'The Count of Monte Cristo', used different colored manuscript paper for each genre to prevent mental fatigue. Explore the cognitive neuroscience of color priming, switching costs, and working memory preservation.",
+        "authority": "Historical Verification from Alexandre Dumas's Autobiography *Mes Mémoires* & Cognitive Neuroscience Research",
+        "intro": "\"The color of the paper is no mere whim. It is the key that guides my imagination directly into a specific genre.\" ✍️\n\nAlexandre Dumas (1802–1870) was the French literary titan whose swashbuckling masterpieces, including 'The Three Musketeers' and 'The Count of Monte Cristo', captured the imagination of readers worldwide. Producing hundreds of novels, plays, poems, and travelogues throughout his prolific career, how did he manage to switch rapidly between genres without suffering severe cognitive burnout?\n\nTo manage constant mental shifts between fiction, poetry, and journalism, Dumas established a strict visual system: he assigned dedicated paper colors to specific literary genres. He wrote all his fiction and novels strictly on light blue paper, crafted poetry on bright yellow sheets, and composed non-fiction articles and journalism exclusively on rose-pink paper. By visually separating his writing contexts, Dumas eliminated task-switching friction, allowing his visual cortex to immediately prime his prefrontal networks for the precise cognitive mode required for each discipline.\n\nIn today's post, we analyze the brain science underlying Alexandre Dumas's 'color-switching' routine—exploring color association and cognitive residue reduction—and present a 3-step practical action plan for modern professionals to minimize context-switching costs.",
+        "whyTitle": "Offsetting Task-Switching Costs via the 'Color Priming Effect'",
+        "whyDesc": "When switching rapidly between distinct cognitive tasks—such as strategic writing, quantitative financial analysis, or creative brainstorming—the brain incurs significant 'Task-Switching Costs'. This lag occurs because 'Cognitive Residue' from the previous task occupies working memory in the prefrontal cortex, degrading execution efficiency. Alexandre Dumas's color-coding method is a masterclass in 'Visual Color Priming'. The instant the visual cortex detects a color strongly associated with a specific cognitive domain (e.g., blue paper for narrative fiction), it signals prefrontal networks to purge cognitive residue from the prior activity. This rapid neural contextual realignment minimizes switching friction and preserves working memory capacity.",
+        "cautionTitle": "Caution & Tips: Establishing Clear Visual Boundaries & Simplifying Categories",
+        "cautionDesc": "For Dumas, colored paper was not a decorative gimmick, but an external neural prompt that defined rigid cognitive boundaries to erase switching friction. Avoid over-complicating this system with too many colors; assigning more than 3 active color themes prevents the brain from establishing strong associative learning and causes visual confusion. Keep your macro-task categories strictly to 3 or fewer, and maintain the assigned visual color themes consistently over time to build reliable neurological conditioning.",
+        "steps": [
+          {
+            "title": "Step 1: Categorizing Core Work into Max 3 Domains & Assigning Unique Colors",
+            "desc": "Divide your primary work responsibilities into 3 or fewer macro categories (e.g., analytical planning/coding, creative brainstorming/design, journal writing/review). Assign a distinct signature color (e.g., blue, yellow, pink) to each category."
+          },
+          {
+            "title": "Step 2: Physically or Digitally Isolating Work Tools by Color Theme",
+            "desc": "Configure your environment according to the assigned color keys: use matching physical notebook covers/paper, or set distinct background canvas themes, folder tag colors, and UI themes within digital apps (e.g., Notion, tablet note apps, IDEs)."
+          },
+          {
+            "title": "Step 3: Visual Switching Routine to Purge Cognitive Residue at Task Onset",
+            "desc": "When transitioning to a new task, open the designated color-coded notebook or digital environment and gaze at the visual hue for 1 second. Allow your visual cortex to signal prefrontal networks to drop previous cognitive residue and engage total focus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does digital color-coding (Notion themes, tablet apps, browser themes) offer the same priming effect as analog paper?",
+            "answer": "Yes, absolutely. The underlying mechanism depends on sensory conditioning between visual hue input and specific cognitive states, regardless of paper texture. Setting distinct canvas background themes in tablet apps, customized folder tag colors in Notion, or unique Chrome profile UI themes delivers identical neural priming signals to the prefrontal cortex."
+          },
+          {
+            "question": "Will assigning too many color variations trigger reverse cognitive overload or confusion?",
+            "answer": "Yes, precisely. For the brain to organically bind a visual hue to a specific cognitive state, repeated and consistent associative learning is required. Using 5 or more complex color categories transforms visual cues into chaotic sensory clutter, destroying the priming effect. Limit your system strictly to 2 or 3 macro domains and keep assigned colors unchanged over time to maximize cognitive benefits."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 작업 개시 시 시각적 스위칭 및 인지 잔여물 소거",
-          "en": "Step 3: Visual Switching Routine to Purge Cognitive Residue at Task Onset",
-          "ja": "ステップ3：作業開始時の視覚的スウィッチングと認知的残余物の消去",
-          "zh": "步骤3：任务开启时执行视觉切换与清除认知残留物",
-          "es": "Paso 3: Rutina de Cambio Visual para Eliminar el Residuo Cognitivo al Iniciar Tareas",
-          "de": "Schritt 3: Visueller Umschalt-Moment zur Löschung kognitiver Rückstände bei Arbeitsbeginn",
-          "fr": "Étape 3 : Routine de bascule visuelle pour éliminer le résidu cognitif au démarrage",
-          "pt": "Passo 3: Rotina de Transição Visual para Eliminar o Resíduo Cognitivo no Início das Tarefas",
-          "id": "Langkah 3: Rutinitas Peralihan Visual untuk Membersihkan Residu Kognitif Saat Memulai Tugas"
-        },
-        "text": {
-          "ko": "새로운 과업을 시작하는 즉시 지정된 전용 색상의 필기구나 노트, 디지털 화면을 눈앞에 1초간 응시하여, 시각 피질이 전전두엽에 과업 전환 신호를 전달하게 함으로써 집중을 유도합니다.",
-          "en": "When transitioning to a new task, open the designated color-coded notebook or digital environment and gaze at the visual hue for 1 second. Allow your visual cortex to signal prefrontal networks to drop previous cognitive residue and engage total focus.",
-          "ja": "新しい課業を開始するやいなや、指定された専用色の筆記具やノート、デジタル画面を目の前で1秒間凝視し、視覚皮質が前頭前野に課業切り替え信号を伝達させることで集中を誘導します。",
-          "zh": "当转换至全新任务时，当即在面前摊开该专属配色的纸张手账或数字界面并凝神扫视1秒，引导视觉皮层向前额叶皮层发送任务切换信号，摒弃过往认知残留并切入专注。",
-          "es": "Al cambiar de tarea, abra la libreta o entorno digital del color asignado y contemple el tono durante 1 segundo. Permita que su corteza visual indique a las redes prefrontales que eliminen el residuo previo y se concentren.",
-          "de": "Blicken Sie beim Wechsel zu einer neuen Aufgabe 1 Sekunde lang auf das entsprechende farbige Notizbuch oder den Bildschirm. Dies signalisiert dem Präfrontalkortex, frühere Rückstände zu löschen und sich zu fokussieren.",
-          "fr": "Lors de la transition vers una nouvelle tâche, ouvrez le carnet ou l'interface numérique de la couleur dédiée et contemplez la teinte pendant 1 seconde. Permettez à votre cortex visuel de signaler au cortex préfrontal d'éliminer le résidu cognitif.",
-          "pt": "Ao alternar para uma nova tarefa, abra o caderno ou ambiente digital da cor atribuída e olhe para a tonalidade por 1 segundo. Permita que seu córtex visual sinalize ao córtex pré-frontal para eliminar o resíduo anterior e focar.",
-          "id": "Saat bertransisi ke tugas baru, buka buku catatan atau lingkungan digital berkode warna yang ditentukan dan tatap rona visual tersebut selama 1 detik. Biarkan korteks visual Anda memberi sinyal pada jaringan prefrontal untuk menghapus residu kognitif sebelumnya."
-        }
+      "zh": {
+        "title": "依体裁切换稿纸颜色的天才：大仲马的色彩重置习惯与视觉心理引发",
+        "description": "探索《基度山伯爵》作者大仲马在每天撰写多体裁文稿时切换稿纸颜色的习惯，揭示消除任务切换成本（Switching Cost）与保护工作记忆（Working Memory）的视觉心理引发（Color Priming）神经科学原理。",
+        "authority": "大仲马自传《我的回忆录（Mes Mémoires）》考证与认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "“纸张的颜色绝非微不足道的癖好，而是指引我的想象力精准切入特定体裁的钥匙。” ✍️\n\n通过撰写《三剑客》、《基度山伯爵》等里程碑式的历史冒险巨著折服全球无数读者的法国文学巨匠——大仲马（Alexandre Dumas，1802–1870）。在贯穿一生的高产岁月中，于小说、诗歌、评论与剧本等众多领域创作出数百卷浩瀚作品的他，其超凡的多产能力与惊人的创造力秘诀究竟是什么？\n\n大仲马在每天需要频繁切换想象力与逻辑大脑电路的严酷工作中，为了规避大脑陷入认知耗竭与职业倦怠，确立了一套极具特色的物理规则：那便是“依循写作体裁使用不同颜色的稿纸”。他在撰写冒险小说时，严格只在清澈的蓝色（Blue）纸张上动笔；创作诗歌时，使用明艳的黄色（Yellow）纸张；而在撰写报刊专栏与纪实纪要时，则专挑淡粉色（Rose）纸张。大仲马通过在视觉层面将稿纸颜色与写作体裁进行绝对切割，打造了一套促使大脑无阻力、极速切入各体裁专属认知状态的惊人神经引导装置。\n\n在今天的文章中，我们将分析大仲马“色彩切换”习惯背后的科学原理，并为在繁重多任务环境中提升认知专注力的现代人 provide 3步骤实践方案。",
+        "whyTitle": "抵消任务切换成本（Switching Cost）的“色彩引发效应（Color Priming Effect）”",
+        "whyDesc": "当我们在迥种不同的认知任务间（例如：战略方案撰写、定量预算审查、感性创意构思）频繁穿梭时，大脑必须整理上一项工作遗留的“认知残留物（Cognitive Residue）”并艰难适应全新工作的上下文，从而不得不付出昂贵的任务切换成本（Switching Cost）。这会掏空前额叶皮层的工作记忆（Working Memory）容量，严重挫伤生产力。大仲马的色彩区隔法，是一套将“色彩联想（Color Association）”与“视觉心理引发（Visual Priming）”高度结合的神经科学解法。一旦投向特定任务上下文的专属色彩印入眼帘被视觉皮层接收，大脑便会当即清空上一项活动的残留神经兴奋，自发拉动与该工作相匹配的大脑联合区神经网络，将任务切换阻力降至极其微弱的水平。",
+        "cautionTitle": "注意事项与提示：确立清晰的视觉边界线与精简任务分类",
+        "cautionDesc": "对大仲马而言，有色纸张绝非装点风雅的玩物，而是一套在脑海中划定刚性认知界限、摧毁切换阻力的灵巧神经辅助工具。切无将任务分类过于碎片化并使用多于5种色彩，这会导致大脑无法对色彩与工作状态达成关联学习（Associative Learning），反而引发视觉彩噪与认知过载。将核心任务大类严加精简至3种或以下，并在相当长的时间战线里一致保持专属配色主题，如此方能构建起可靠的神经条件反射。",
+        "steps": [
+          {
+            "title": "步骤1：梳理至多3项核心任务领域与绑定专属色彩",
+            "desc": "将日常开展的核心工作领域整理拆解为至多3大类（例如：分析型方案撰写/代码编写、灵感脑暴/创意草图、日常复盘/日记感悟）。为每一类别绑定区分度极高的专属代表色（如：蓝色、黄色、粉色）。"
+          },
+          {
+            "title": "步骤2：配置实体/数字工作工具的色彩微环境",
+            "desc": "依循敲定的色彩方案布置工具：采用对颜色的实体笔记本/纸张，或在数字笔记软件（如Notion、平板手写应用、IDE开发环境）中将画布背景主题、文件夹标签与UI色彩切至专属对应模式。"
+          },
+          {
+            "title": "步骤3：任务开启时执行视觉切换与清除认知残留物",
+            "desc": "当转换至全新任务时，当即在面前摊开该专属配色的纸张手账或数字界面并凝神扫视1秒，引导视觉皮层向前额叶皮层发送任务切换信号，摒弃过往认知残留并切入专注。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "相比于模拟纸笔，在数字应用（如Notion、平板手写软件、浏览器主题）中划分颜色是否具备相同的心理引发效果？",
+            "answer": "完全具备同等效果。机制的核心并不取决于纸张质感，而在于“投向视觉皮层的色彩信号与特定认知状态间所构建的条件反射”。只需在平板手写软件中切换底纹背景色、在Notion工作区设定区分主题，或为Chrome界面匹配专属配色，前额叶皮层便能接收到完全相同的心理引发信号。"
+          },
+          {
+            "question": "将颜色细分成太多种并频繁转换，会不会适得其反引发大脑混乱与认知过载？",
+            "answer": "完全正确。为了使大脑在色彩与特定的认知模式间达成有机的关联绑定，持续且一致的条件反射训练不可或缺。若呈乱麻般混用5种以上的颜色，大脑会将其判定为视觉噪点，从而导致心理引发机制彻底崩溃。务必将核心任务分类精简至2-3种或以下，并在相当长的时间内锁定专属代表色，如此方能将神经利益拉至最大。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "原稿用紙の色をジャンル別に変えた天才：アレクサンドル・デュマのカラーリセットルーティンと視覚的プライミング",
+        "description": "『モンテ・クリスト伯』の著者アレクサンドル・デュマが毎日複数のジャンルを書く中で原稿用紙の色を変えたルーティン。切り替えの認知疲労（Switching Cost）を相殺し作業記憶（Working Memory）を保護する視覚的プライミング（Color Priming）の認知神経科学原理を解き明かします。",
+        "authority": "アレクサンドル・デュマ自伝『Mes Mémoires（我が回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「紙の色は単なる好みではない。それは私の想像力を特定のジャンルへと案内する鍵だ。」 ✍️\n\n『三銃士』、『モンテ・クリスト伯』などの記念碑的な歴史冒険名作を執筆し、世界中の読者を魅了したフランス文学の巨匠アレクサンドル・デュマ（Alexandre Dumas、1802–1870）。生涯を通じて小説、詩、評論、戯曲など広大な分野で数百万字に及ぶ大作を休むことなく発表した彼の超人的な多作能力と創造的生産性の秘訣は、果たして何だったのでしょうか？\n\nデュマは毎日想像力と論理の脳回路を絶えず切り替えなければならない過酷な環境の中で、頭が疲弊するバーンアウトを予防するため非常にユニークな物理的ルールを立てました。まさに「執筆ジャンルによって原稿用紙の色を変えて使うこと」でした。彼は冒険小説を執筆する時はただ澄んだ青色（Blue）の紙にのみ原稿を書き、詩を創作する時は華やかな黄色（Yellow）の紙、新聞記事や非文学コラムを作成する時は淡いピンク色（Rose）の紙のみを厳格に貫きました。デュマは紙の色を視覚的に完璧に分離させることで、脳が混乱やエネルギーの無駄なく各ジャンルの認知状態へと即座に進入できるよう助ける驚くべき装置を完成させたのです。\n\n本日の記事では、アレクサンドル・デュマの「色彩スウィッチング」ルーティンに秘められた科学的作動原理と、現代人が複雑なマルチタスク環境の中で認知的集中力を高めるためにこれをどのように活用できるか紹介します。",
+        "whyTitle": "切り替えの認知疲労（Switching Cost）を相殺する「色彩プライミング効果（Color Priming Effect）」",
+        "whyDesc": "私たちが複数の課業（例：戦略企画書の作成、定量的な予算検討、感性的なアイデア構想）を交互に遂行する時、脳は前の作業で使用していた「認知的残余物（Cognitive Residue）」を処理し、新しい作業の文脈に適応しようと相当な量の切り替え障害コスト（Switching Cost）を支払わなければなりません。これは前頭前野皮質の作業記憶（Working Memory）容量を低下させ、生産性を深刻に落とします。アレクサンドル・デュマの色彩区分法は、「色彩連想（Color Association）」と「視覚的プライミング（Visual Priming）」を結合させた認知科学的ソリューションでした。特定の課業文脈に指定された色が目の視覚皮質に入ってきた瞬間、脳は以前の残余神経活性を迅速に終了させ、該当作業に最適化された連合領域の神経回路網を自発的に稼働させて課業切り替えの負荷を最小化します。",
+        "cautionTitle": "注意事項＆ヒント：明確な視覚的境界線の設定とカテゴリーの単純化",
+        "cautionDesc": "デュマにとって色のついた紙は単なる鑑賞用の小道具ではなく、脳に明確な認知的境界線を引いて切り替えの障害を崩す知的な神経補助道具でした。カテゴリーを過度に細分化して5つ以上の色を使用すると、脳が色と作業状態を連合学習（Associative Learning）できず、かえって認知過負荷が発生します。核心的課業領域を最大3つ以下の大分類に定めておき、各専用のカラーテーマを一定期間変わることなく一貫して維持してこそ、強力なプライミング条件反射が完成します。",
+        "steps": [
+          {
+            "title": "ステップ1：核心課業領域の3つの分類および固有専用色の指定",
+            "desc": "自分が日常で遂行する核心課業領域（例：分析的企画書の作成、インスピレーションおよびアイデアのドローイング、感情の振り返りおよび日記など）を3つ以下に分け、各領域ごとに視覚的にはっきりと区分される固有の代表色（例：青、黄、ピンク）を指定します。"
+          },
+          {
+            "title": "ステップ2：アナログ/デジタル作業道具の物理的カラーセットアップ",
+            "desc": "割り当てられた色に従って物理的なノートの表紙/中身、またはデジタル筆記アプリのテーマ背景色、フォルダータグ、IDEカスタムテーマの色を完全に分離し、各課業専用の作業環境を構築します。"
+          },
+          {
+            "title": "ステップ3：作業開始時の視覚的スウィッチングと認知的残余物の消去",
+            "desc": "新しい課業を開始するやいなや、指定された専用色の筆記具やノート、デジタル画面を目の前で1秒間凝視し、視覚皮質が前頭前野に課業切り替え信号を伝達させることで集中を誘導します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "アナログの紙や筆記具ではなくデジタルアプリ（Notion、筆記アプリ、ブラウザ）でも同じプライミング効果がありますか？",
+            "answer": "はい、完全に同じです。核心的メカニズムは紙の材質ではなく「視覚皮質へと流入する色彩信号と特定の認知状態の間の連合条件づけ」にあります。筆記アプリの中身の背景色、Notionのワークスペーステーマ、Chromeのプロファイルの色を用途別に完全に異なるようにセットするだけでも、前頭前野は同じようにプライミング信号を受容します。"
+          },
+          {
+            "question": "色彩を過度に細分化して頻繁に変えると、かえって脳に逆効果や認知過負荷が発生しませんか？",
+            "answer": "はい、その通りです。脳が特定の色と認知モードを有機的にバインディングするには、継続的で反復的な連合学習過程が不可欠です。5つ以上の色を複雑に混用すると、脳は視覚的ノイズとして認識し、プライミング効果が失われます。必ず核心課業領域を2〜3個以下に最小化し、固有の色を一定期間固定して維持することが、認知的利益を極大化する道です。"
+          }
+        ]
+      },
+      "es": {
+        "title": "El Genio que Cambiaba el Color del Papel Según el Género: La Rutina de Reinicio por Color y Primación Visual de Alexandre Dumas",
+        "description": "Descubra cómo Alexandre Dumas, autor de 'El conde de Montecristo', usaba papeles de diferentes colores según el género para evitar la fatiga mental. Explore la neurociencia cognitiva del primado por color y la reducción de costes de conmutación.",
+        "authority": "Verificación Histórica de la Autobiografía de Alexandre Dumas *Mis memorias (Mes Mémoires)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+        "intro": "\"El color del papel no es un mero capricho. Es la llave que guía mi imaginación directamente hacia un género específico.\" ✍️\n\nAlexandre Dumas (1802–1870) fue el gigante de la literatura francesa cuyas obras maestras, como 'Los tres mosqueteros' y 'El conde de Montecristo', cautivaron a lectores de todo el mundo. Con una producción prolífica de cientos de novelas, obras de teatro y artículos, ¿cómo lograba alternar entre géneros sin sufrir un agotamiento cognitivo grave?\n\nPara gestionar los continuos cambios mentales entre la ficción, la poesía y el periodismo, Dumas estableció un sistema visual estricto: asignó colores de papel específicos a géneros literarios concretos. Escribía sus novelas exclusivamente en papel azul claro, creaba poesía sobre hojas amarillas brillantes y redactaba artículos y periodismo únicamente en papel rosa. Al separar sus contextos de escritura, Dumas eliminó la fricción del cambio de tarea, permitiendo a su corteza visual preparar sus redes prefrontales para el modo cognitivo requerido.\n\nEn la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina de 'cambio de color' de Alexandre Dumas y presentamos un plan práctico de 3 pasos para minimizar los costes de cambio de contexto.",
+        "whyTitle": "Compensación de los Costes de Cambio de Tarea Mediante el 'Efecto de Primación por Color'",
+        "whyDesc": "Al alternar entre tareas cognitivas distintas —como la redacción estratégica, el análisis cuantitativo o la lluvia de ideas—, el cerebro incurre en 'Costes de Cambio de Tarea'. Este retraso ocurre porque el 'Residuo Cognitivo' de la tarea anterior ocupa la memoria de trabajo en la corteza prefrontal, reduciendo la eficiencia. El método de códigos de color de Alexandre Dumas aplica el 'Primado Visual por Color'. En el instante en que la corteza visual detecta un color asociado a un dominio específico (p. ej., papel azul para la ficción), indica a las redes prefrontales que eliminen el residuo cognitivo previo, minimizando la fricción.",
+        "cautionTitle": "Precauciones y Consejos: Establecer Límites Visuales Claros y Simplificar Categorías",
+        "cautionDesc": "Para Dumas, el papel de color no era un capricho decorativo, sino una señal neuronal externa que definía límites cognitivos para eliminar la fricción. Evite complicar el sistema con demasiados colores: usar más de 3 temas impide que el cerebro establezca un aprendizaje asociativo sólido. Mantenga sus categorías en 3 o menos y conserve los colores asignados de forma constante para consolidar el condicionamiento.",
+        "steps": [
+          {
+            "title": "Paso 1: Clasificar el Trabajo en Máximo 3 Dominios y Asignar Colores Exclusivos",
+            "desc": "Divida sus responsabilidades de trabajo en 3 o menos categorías principales (p. ej., planificación analítica, lluvia de ideas creativas, diario personal). Asigne un color distintivo (p. ej., azul, amarillo, rosa) a cada categoría."
+          },
+          {
+            "title": "Paso 2: Aislar las Herramientas de Trabajo por Tema de Color Físico o Digital",
+            "desc": "Configure su entorno según las claves de color: use portadas o papeles físicos coincidentes, o bien defina temas de fondo, colores de carpetas y temas de interfaz en sus aplicaciones digitales."
+          },
+          {
+            "title": "Paso 3: Rutina de Cambio Visual para Eliminar el Residuo Cognitivo al Iniciar Tareas",
+            "desc": "Al cambiar de tarea, abra la libreta o entorno digital del color asignado y contemple el tono durante 1 segundo. Permita que su corteza visual indique a las redes prefrontales que eliminen el residuo previo y se concentren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿El código de colores digital (temas de Notion, aplicaciones de tabletas) ofrece el mismo efecto de primado que el papel analógico?",
+            "answer": "Sí, absolutamente. El mecanismo fundamental se basa en el condicionamiento sensorial entre la entrada de color y los estados cognitivos. Definir temas de fondo distintos en aplicaciones de notas, colores de carpetas en Notion o temas de interfaz en navegadores envía señales de primado idénticas a la corteza prefrontal."
+          },
+          {
+            "question": "¿Asignar demasiadas variaciones de color provocará una sobrecarga cognitiva inversa o confusión?",
+            "answer": "Sí, exactamente. Para que el cerebro vincule un color a un estado cognitivo, se requiere un aprendizaje asociativo constante. Usar 5 o más colores convierte las señales visuales en desorden sensorial, anulando el primado. Limite su sistema estrictamente a 2 o 3 dominios y conserve los colores asignados para maximizar los beneficios."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le génie qui adaptait la couleur de son papier au genre littéraire : La routine de réinitialisation par la couleur et le primage visuel d'Alexandre Dumas",
+        "description": "Découvrez comment Alexandre Dumas, auteur du 'Comte de Monte-Cristo', utilisait du papier de couleur différente pour chaque genre afin d'éviter la fatigue mentale. Explorez la neuroscience cognitive du primage par la couleur.",
+        "authority": "Vérification Historique issue de l'autobiographie d'Alexandre Dumas *Mes Mémoires* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+        "intro": "« La couleur du papier n'est pas una simple fantaisie. C'est la clé qui guide mon imagination directement vers un genre particulier. » ✍️\n\nAlexandre Dumas (1802–1870) était le géant de la littérature française dont les chefs-d'œuvre, tels que 'Les Trois Mousquetaires' et 'Le Comte de Monte-Cristo', ont passionné des générations. Auteur de centaines de romans, pièces et articles, comment parvenait-il à passer d'un genre à l'autre sans subir d'épuisement cognitif ?\n\nPour gérer les transitions entre fiction, poésie et journalisme, Dumas instaura un système visuel : il attribuait une couleur de papier spécifique à chaque genre. Il rédigeait sa fiction sur du papier bleu clair, sa poésie sur des feuilles jaunes et ses articles sur du papier rose. En séparant visuellement ses cadres de travail, Dumas éliminait la friction du changement de tâche, permettant à son cortex visuel de préparer ses réseaux préfrontaux au mode requis.\n\nDans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à la routine de « changement de couleur » d'Alexandre Dumas et proposons un plan d'action en 3 étapes pour réduire les coûts de transition.",
+        "whyTitle": "Compensation des coûts de changement de tâche via l'« Effet de Primage par la Couleur »",
+        "whyDesc": "Lorsqu'il passe d'una tâche cognitive à una autre — comme la rédaction stratégique, l'analyse chiffrée ou la création —, le cerveau subit des « Coûts de Changement de Tâche ». Ce retard survient car le « Résidu Cognitif » de la tâche précédente occupe la mémoire de travail dans le cortex préfrontal, réduisant l'efficacité. La méthode de codage par couleur d'Alexandre Dumas constitue un exemple de « Primage Visuel par la Couleur ». Dès que le cortex visuel détecte una couleur associée à un domaine précis, il signale au cortex préfrontal d'éliminer le résidu cognitif.",
+        "cautionTitle": "Précautions & Conseils : Établir des frontières visuelles nettes & Simplifier les catégories",
+        "cautionDesc": "Pour Dumas, le papier de couleur n'était pas un artifice décoratif, mais un signal neuronal définissant des frontières cognitives pour éliminer les frictions. Évitez de complexifier le système avec trop de couleurs : utiliser plus de 3 thèmes empêche le cerveau d'établir un apprentissage associatif solide. Limitez vos catégories à 3 au maximum et conservez les couleurs pour créer un conditionnement efficace.",
+        "steps": [
+          {
+            "title": "Étape 1 : Classification du travail en 3 domaines maximum & Attribution de couleurs",
+            "desc": "Divisez vos responsabilités principales en 3 catégories au maximum (ex. planification analytique, création/brainstorming, journal/bilan). Attribuez una couleur distincte (ex. bleu, jaune, rose) à chaque catégorie."
+          },
+          {
+            "title": "Étape 2 : Isolement des outils de travail par thème de couleur physique ou numérique",
+            "desc": "Aménagez votre environnement selon le code couleur choisi : utilisez des carnets physiques assortis, ou définissez des thèmes de fond, des étiquettes et des interfaces dédiés dans vos applications."
+          },
+          {
+            "title": "Étape 3 : Routine de bascule visuelle pour éliminer le résidu cognitif au démarrage",
+            "desc": "Lors de la transition vers una nouvelle tâche, ouvrez le carnet ou l'interface numérique de la couleur dédiée et contemplez la teinte pendant 1 seconde. Permettez à votre cortex visuel de signaler au cortex préfrontal d'éliminer le résidu cognitif."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le codage par couleur numérique (thèmes Notion, applications de tablette) procure-t-il le même effet de primage que le papier analogique ?",
+            "answer": "Oui, tout à fait. Le mécanisme repose sur le conditionnement entre le signal visuel de la couleur et les états cognitifs. Définir des thèmes de fond distincts dans vos applications de notes, des couleurs de dossiers dans Notion ou des thèmes d'interface procure des signaux de primage identiques."
+          },
+          {
+            "question": "L'attribution d'un trop grand nombre de couleurs risque-t-elle de provoquer una surcharge cognitive ou de la confusion ?",
+            "answer": "Oui, tout à fait. Pour que le cerveau associe une couleur à un état cognitif, un apprentissage associatif régulier est requis. Utiliser 5 couleurs ou plus transforme les signaux visuels en bruits sensoriels, annulant l'effet de primage. Limitez votre système à 2 ou 3 domaines au maximum pour optimiser les bénéfices."
+          }
+        ]
+      },
+      "de": {
+        "title": "Das Genie, das Manuskriptpapier nach Genre farblich abstimmte: Alexandre Dumas' Farb-Reset-Routine und visuelles Priming",
+        "description": "Erkunden Sie, wie Alexandre Dumas, Autor von 'Der Graf von Monte Christo', verschiedenfarbiges Papier für jedes Genre nutzte. Entdecken Sie die kognitiven Neurowissenschaften zu Farb-Priming und Wechselkosten.",
+        "authority": "Historische Überprüfung aus Alexandre Dumas' Autobiografie *Meine Memoiren (Mes Mémoires)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+        "intro": "\"Die Farbe des Papiers ist keine bloße Laune. Sie ist der Schlüssel, der meine Vorstellungskraft direkt in ein bestimmtes Genre lenkt.\" ✍️\n\nAlexandre Dumas (1802–1870) war der französische Literat, dessen Meisterwerke wie 'Die drei Musketiere' und 'Der Graf von Monte Christo' Weltruhm erlangten. Wie schaffte er es, zwischen Romanen, Theaterstücken, Gedichten und Artikeln zu wechseln, ohne geistig zu ermüden?\n\nUm die ständigen gedanklichen Wechsel zu bewältigen, nutzte Dumas ein System: Er ordnete Genres feste Papierfarben zu. Romane schrieb er auf hellblauem Papier, Gedichte auf gelbem und Artikel auf rosa Papier. Durch die visuelle Trennung seiner Aufgaben reduzierte Dumas Wechselkosten, sodass sein visueller Kortex das Gehirn sofort auf den passenden Modus einstimmte.\n\nIm heutigen Beitrag analysieren wir die Neurowissenschaft hinter Alexandre Dumas' Routine des 'Farbwechsels' und stellen einen praktischen 3-Schritte-Aktionsplan vor, um Wechselkosten im Alltag zu minimieren.",
+        "whyTitle": "Kompensation von Aufgabenwechselkosten durch den 'Farb-Priming-Effekt'",
+        "whyDesc": "Beim schnellen Wechsel zwischen verschiedenen kognitiven Aufgaben entstehen dem Gehirn 'Aufgabenwechselkosten'. Diese Verzögerung entsteht, weil 'kognitive Rückstände' der vorherigen Aufgabe das Arbeitsgedächtnis im Präfrontalkortex belegen und die Effizienz verringern. Alexandre Dumas' Farbkodierung ist ein Beispiel für 'visuelles Farb-Priming'. Sobald der visuelle Kortex eine Farbe erkennt, die mit einem bestimmten Bereich verknüpft ist (z. B. blaues Papier für Romane), signalisiert er dem Präfrontalkortex, kognitive Rückstände zu löschen.",
+        "cautionTitle": "Vorsichtsmaßnahmen & Tipps: Einrichten klarer visueller Grenzen & Kategorieneinfachheit",
+        "cautionDesc": "Für Dumas war farbiges Papier keine Dekoration, sondern ein Signal, das geistige Grenzen absteckte, um Wechselkosten abzubauen. Überfordern Sie das System nicht mit zu vielen Farben: Mehr als 3 Farbmuster erschweren das assoziative Lernen im Gehirn. Beschränken Sie Ihre Aufgabenbereiche auf maximal 3 Kategorien und behalten Sie die Farbzuordnungen bei.",
+        "steps": [
+          {
+            "title": "Schritt 1: Einteilen der Hauptaufgaben in maximal 3 Bereiche & Zuordnen von Farben",
+            "desc": "Unterteilen Sie Ihre Hauptaufgaben in maximal 3 Kategorien (z. B. analytische Planung/Coding, kreatives Brainstorming, Tagebuch/Review). Ordnen Sie jeder Kategorie eine eigene Farbe zu (z. B. Blau, Gelb, Rosa)."
+          },
+          {
+            "title": "Schritt 2: Farbliches Abstimmen analoger oder digitaler Arbeitsmittel",
+            "desc": "Richten Sie Ihre Arbeitsumgebung farblich ein: Nutzen Sie passende Notizhefte oder stellen Sie digitale Hintergründe, Ordnerfarben und App-Themes auf die festgelegten Farben ein."
+          },
+          {
+            "title": "Schritt 3: Visueller Umschalt-Moment zur Löschung kognitiver Rückstände bei Arbeitsbeginn",
+            "desc": "Blicken Sie beim Wechsel zu einer neuen Aufgabe 1 Sekunde lang auf das entsprechende farbige Notizbuch oder den Bildschirm. Dies signalisiert dem Präfrontalkortex, frühere Rückstände zu löschen und sich zu fokussieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bietet digitale Farbkodierung (z. B. Notion-Themes, Tablet-Apps) denselben Priming-Effekt wie analoges Papier?",
+            "answer": "Ja, absolut. Der Grundmechanismus basiert auf der Verknüpfung von Farbreizen mit bestimmten Denkmustern. Das Einstellen unterschiedlicher Hintergrundfarben in Notiz-Apps, Ordnerfarben in Notion oder Browser-Themes liefert dem Präfrontalkortex dieselben Priming-Signale."
+          },
+          {
+            "question": "Führt das Erstellen zu vieler Farbvarianten zu kognitiver Überlastung oder Verwirrung?",
+            "answer": "Ja, genau. Damit das Gehirn eine Farbe fest mit einem Denkmuster verknüpft, ist konstantes assoziatives Lernen erforderlich. Die Verwendung von 5 oder mehr Farben verwandelt visuelle Signale in störendes Rauschen und zerstört den Priming-Effekt. Beschränken Sie Ihr System strikt auf 2 bis 3 Bereiche."
+          }
+        ]
+      },
+      "pt": {
+        "title": "O Gênio que Coloria o Papel de Acordo com o Gênero: A Rotina de Reinício por Cor e Priming Visual de Alexandre Dumas",
+        "description": "Descubra como Alexandre Dumas, autor de 'O Conde de Monte Cristo', usava papéis de cores diferentes para cada gênero. Explore a neurociência cognitiva do priming por cor e redução de custos de transição.",
+        "authority": "Verificação Histórica da Autobiografia de Alexandre Dumas *Minhas Memórias (Mes Mémoires)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+        "intro": "\"A cor do papel não é um mero capricho. É a chave que guia minha imaginação diretamente para um gênero específico.\" ✍️\n\nAlexandre Dumas (1802–1870) foi o gigante da literatura francesa cujas obras-primas, como 'Os Três Mosqueteiros' e 'O Conde de Monte Cristo', encantaram leitores em todo o mundo. Produzindo centenas de romances, peças e artigos, como ele conseguia alternar entre gêneros sem sofrer um esgotamento cognitivo grave?\n\nPara gerenciar as constantes transições entre ficção, poesia e jornalismo, Dumas estabeleceu um sistema visual estrito: atribuiu cores de papel específicas a gêneros literários concretos. Escrevia seus romances em papel azul-claro, criava poesia sobre folhas amarelas e redigia artigos em papel rosa. Ao separar seus contextos de escrita, Dumas eliminou o atrito de transição, permitindo ao córtex visual preparar suas redes pré-frontais para o modo cognitivo exigido.\n\nNo artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'mudança de cor' de Alexandre Dumas e apresentamos um guia prático de 3 passos para minimizar os custos de mudança de contexto.",
+        "whyTitle": "Compensação dos Custos de Transição de Tarefa Via 'Efeito de Priming por Cor'",
+        "whyDesc": "Ao alternar rapidamente entre tarefas cognitivas distintas — como redação estratégica, análise quantitativa ou brainstorming criativo —, o cérebro enfrenta 'Custos de Transição de Tarefa'. Esse atraso ocorre porque o 'Resíduo Cognitivo' da tarefa anterior ocupa a memória de trabalho no córtex pré-frontal, reduzindo a eficiência. O método de códigos de cor de Alexandre Dumas aplica o 'Priming Visual por Cor'. No instante em que o córtex visual detecta uma cor associada a um domínio específico, indica às redes pré-frontais que eliminem o resíduo cognitivo.",
+        "cautionTitle": "Precauções e Dicas: Estabelecer Limites Visuais Claros e Simplificar Categorias",
+        "cautionDesc": "Para Dumas, o papel colorido não era um detalhe decorativo, mas um estímulo neuronal externo que definia limites cognitivos para eliminar o atrito. Evite complicar o sistema com muitas cores: usar mais de 3 temas impede o cérebro de estabelecer um aprendizado associativo sólido. Mantenha suas categorias em 3 ou menos e conserve as cores atribuídas para consolidar o condicionamento.",
+        "steps": [
+          {
+            "title": "Passo 1: Classificar o Trabalho em No Máximo 3 Domínios e Atribuir Cores Únicas",
+            "desc": "Divida suas responsabilidades em 3 ou menos categorias principais (ex.: planejamento analítico, brainstorming criativo, diário pessoal). Atribua uma cor distinta (ex.: azul, amarelo, rosa) a cada categoria."
+          },
+          {
+            "title": "Passo 2: Isolar as Ferramentas de Trabalho por Tema de Cor Físico ou Digital",
+            "desc": "Configure seu ambiente de acordo com as cores atribuídas: use capas ou papéis físicos correspondentes, ou defina temas de fundo, cores de pastas e interfaces em seus aplicativos digitais."
+          },
+          {
+            "title": "Passo 3: Rotina de Transição Visual para Eliminar o Resíduo Cognitivo no Início das Tarefas",
+            "desc": "Ao alternar para uma nova tarefa, abra o caderno ou ambiente digital da cor atribuída e olhe para a tonalidade por 1 segundo. Permita que seu córtex visual sinalize ao córtex pré-frontal para eliminar o resíduo anterior e focar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O código de cores digital (temas do Notion, aplicativos de tablet) oferece o mesmo efeito de priming que o papel analógico?",
+            "answer": "Sim, com certeza. O mecanismo fundamental baseia-se no condicionamento sensorial entre a cor e os estados cognitivos. Definir temas de fundo distintos em aplicativos de notas, cores de pastas no Notion ou temas de interface envia sinais de priming idênticos ao córtex pré-frontal."
+          },
+          {
+            "question": "Atribuir muitas variações de cor provocará uma sobrecarga cognitiva inversa ou confusão?",
+            "answer": "Sim, exatamente. Para o cérebro vincular uma cor a um estado cognitivo, requer-se um aprendizado associativo constante. Usar 5 ou mais cores transforma os sinais visuais em desordem sensorial, anulando o priming. Limite seu sistema estritamente a 2 ou 3 domínios para maximizar os benefícios."
+          }
+        ]
+      },
+      "id": {
+        "title": "Genius yang Mewarnai Kertas Manuskrip Berdasarkan Genre: Rutinitas Reset Warna dan Priming Visual ala Alexandre Dumas",
+        "description": "Pelajari bagaimana Alexandre Dumas, penulis 'The Count of Monte Cristo', menggunakan kertas manuskrip berwarna berbeda untuk setiap genre untuk mencegah kelelahan mental. Temukan neurosains kognitif tentang priming warna.",
+        "authority": "Verifikasi Historis dari Autobiografi Alexandre Dumas *Mes Mémoires* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)",
+        "intro": "\"Warna kertas bukanlah sekadar keinginan tiba-tiba. Ini adalah kunci yang mengarahkan imajinasi saya secara langsung ke dalam genre tertentu.\" ✍️\n\nAlexandre Dumas (1802–1870) adalah raksasa sastra Prancis yang mahakaryanya, termasuk 'The Three Musketeers' dan 'The Count of Monte Cristo', memikat imajinasi pembaca di seluruh dunia. Menghasilkan ratusan novel, drama, puisi, dan catatan perjalanan sepanjang kariernya yang produktif, bagaimana ia berhasil beralih dengan cepat antar genre tanpa mengalami kelelahan kognitif yang parah?\n\nUntuk mengelola pergeseran mental yang konstan antara fiksi, puisi, dan jurnalisme, Dumas membangun sistem visual yang ketat: ia menetapkan warna kertas khusus untuk genre sastra tertentu. Ia menulis semua fiksinya di atas kertas biru muda, membuat puisi di atas lembaran kuning cerah, dan menyusun artikel non-fiksi secara eksklusif di atas kertas merah muda. Dengan memisahkan konteks penulisannya secara visual, Dumas mengeliminasi gesekan peralihan tugas.",
+        "whyTitle": "Meredakan Biaya Beralih Tugas Melalui 'Efek Priming Warna'",
+        "whyDesc": "Saat beralih dengan cepat antara tugas kognitif yang berbeda—seperti penulisan strategis, analisis keuangan kuantitatif, atau pemikiran kreatif—otak mengalami 'Biaya Beralih Tugas' yang signifikan. Keterlambatan ini terjadi karena 'Residu Kognitif' dari tugas sebelumnya menempati memori kerja di korteks prefrontal, menurunkan efisiensi eksekusi. Metode pengkodean warna Alexandre Dumas menerapkan 'Priming Warna Visual'.",
+        "cautionTitle": "Perhatian & Tip: Membangun Batasan Visual yang Jelas & Menyederhanakan Kategori",
+        "cautionDesc": "Bagi Dumas, kertas berwarna bukanlah gimmick dekoratif, melainkan petunjuk saraf eksternal yang mendefinisikan batasan kognitif yang kaku untuk menghapus gesekan peralihan. Hindari menyulitkan sistem ini dengan terlalu banyak warna; menetapkan lebih dari 3 tema warna aktif mencegah otak membangun pembelajaran asosiatif yang kuat. Pertahankan kategori tugas makro Anda secara ketat hingga 3 atau kurang.",
+        "steps": [
+          {
+            "title": "Langkah 1: Mengategorikan Pekerjaan Inti Menjadi Maksimal 3 Domain & Menetapkan Warna Khusus",
+            "desc": "Bagi tanggung jawab kerja utama Anda menjadi 3 atau kurang kategori makro (misalnya, perencanaan analitis/pengodean, curah pendapat kreatif/desain, penulisan jurnal/tinjauan). Tetapkan warna khas yang jelas (misalnya, biru, kuning, merah muda) untuk setiap kategori."
+          },
+          {
+            "title": "Langkah 2: Mengisolasi Alat Kerja Secara Fisik atau Digital Berdasarkan Tema Warna",
+            "desc": "Konfigurasikan lingkungan Anda sesuai dengan kunci warna yang ditetapkan: gunakan sampul/kertas buku catatan fisik yang cocok, atau atur tema kanvas latar belakang yang berbeda, warna tag folder, dan tema UI dalam aplikasi digital."
+          },
+          {
+            "title": "Langkah 3: Rutinitas Peralihan Visual untuk Membersihkan Residu Kognitif Saat Memulai Tugas",
+            "desc": "Saat bertransisi ke tugas baru, buka buku catatan atau lingkungan digital berkode warna yang ditentukan dan tatap rona visual tersebut selama 1 detik. Biarkan korteks visual Anda memberi sinyal pada jaringan prefrontal untuk menghapus residu kognitif sebelumnya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah pengkodean warna digital (tema Notion, aplikasi tablet, tema browser) memberikan efek priming yang sama seperti kertas analog?",
+            "answer": "Ya, tentu saja. Mekanisme mendasarnya bergantung pada pengondisian sensorik antara masukan warna visual dan kondisi kognitif tertentu, terlepas dari tekstur kertas. Mengatur tema latar belakang kanvas yang berbeda dalam aplikasi tablet, warna tag folder yang disesuaikan di Notion, atau tema UI profil browser memberikan sinyal priming saraf yang identik."
+          },
+          {
+            "question": "Apakah menetapkan terlalu banyak variasi warna akan memicu kelebihan beban kognitif terbalik atau kebingungan?",
+            "answer": "Ya, tepat sekali. Agar otak dapat mengikat rona visual ke kondisi kognitif tertentu secara organik, diperlukan pembelajaran asosiatif yang berulang dan konsisten. Menggunakan 5 atau lebih kategori warna yang rumit mengubah isyarat visual menjadi kekacauan sensorik, merusak efek priming. Batasi sistem Anda secara ketat hingga 2 atau 3 domain makro."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "아날로그 종이나 필기구가 아닌 디지털 앱(노션, 필기 앱, 브라우저)에서도 동일한 프라이밍 효과가 있나요?",
-          "en": "Does digital color-coding (Notion themes, tablet apps, browser themes) offer the same priming effect as analog paper?",
-          "ja": "アナログの紙や筆記具ではなくデジタルアプリ（Notion、筆記アプリ、ブラウザ）でも同じプライミング効果がありますか？",
-          "zh": "相比于模拟纸笔，在数字应用（如Notion、平板手写软件、浏览器主题）中划分颜色是否具备相同的心理引发效果？",
-          "es": "¿El código de colores digital (temas de Notion, aplicaciones de tabletas) ofrece el mismo efecto de primado que el papel analógico?",
-          "de": "Bietet digitale Farbkodierung (z. B. Notion-Themes, Tablet-Apps) denselben Priming-Effekt wie analoges Papier?",
-          "fr": "Le codage par couleur numérique (thèmes Notion, applications de tablette) procure-t-il le même effet de primage que le papier analogique ?",
-          "pt": "O código de cores digital (temas do Notion, aplicativos de tablet) oferece o mesmo efeito de priming que o papel analógico?",
-          "id": "Apakah pengkodean warna digital (tema Notion, aplikasi tablet, tema browser) memberikan efek priming yang sama seperti kertas analog?"
-        },
-        "answer": {
-          "ko": "네, 완벽히 동일합니다. 핵심 메커니즘은 종이의 재질이 아니라 '시각 피질로 유입되는 색상 신호와 특정 인지 상태 간의 연합 조건화'에 있습니다. 필기 앱의 속지 배경색, 노션 워크스페이스 테마, 크롬 프로필 색상을 용도별로 완전히 다르게 세팅하는 것만으로도 전전두엽은 동일하게 프라이밍 신호를 수용합니다.",
-          "en": "Yes, absolutely. The underlying mechanism depends on sensory conditioning between visual hue input and specific cognitive states, regardless of paper texture. Setting distinct canvas background themes in tablet apps, customized folder tag colors in Notion, or unique Chrome profile UI themes delivers identical neural priming signals to the prefrontal cortex.",
-          "ja": "はい、完全に同じです。核心的メカニズムは紙の材質ではなく「視覚皮質へと流入する色彩信号と特定の認知状態の間の連合条件づけ」にあります。筆記アプリの中身の背景色、Notionのワークスペーステーマ、Chromeのプロファイルの色を用途別に完全に異なるようにセットするだけでも、前頭前野は同じようにプライミング信号を受容します。",
-          "zh": "完全具备同等效果。机制的核心并不取决于纸张质感，而在于“投向视觉皮层的色彩信号与特定认知状态间所构建的条件反射”。只需在平板手写软件中切换底纹背景色、在Notion工作区设定区分主题，或为Chrome界面匹配专属配色，前额叶皮层便能接收到完全相同的心理引发信号。",
-          "es": "Sí, absolutamente. El mecanismo fundamental se basa en el condicionamiento sensorial entre la entrada de color y los estados cognitivos. Definir temas de fondo distintos en aplicaciones de notas, colores de carpetas en Notion o temas de interfaz en navegadores envía señales de primado idénticas a la corteza prefrontal.",
-          "de": "Ja, absolut. Der Grundmechanismus basiert auf der Verknüpfung von Farbreizen mit bestimmten Denkmustern. Das Einstellen unterschiedlicher Hintergrundfarben in Notiz-Apps, Ordnerfarben in Notion oder Browser-Themes liefert dem Präfrontalkortex dieselben Priming-Signale.",
-          "fr": "Oui, tout à fait. Le mécanisme repose sur le conditionnement entre le signal visuel de la couleur et les états cognitifs. Définir des thèmes de fond distincts dans vos applications de notes, des couleurs de dossiers dans Notion ou des thèmes d'interface procure des signaux de primage identiques.",
-          "pt": "Sim, com certeza. O mecanismo fundamental baseia-se no condicionamento sensorial entre a cor e os estados cognitivos. Definir temas de fundo distintos em aplicativos de notas, cores de pastas no Notion ou temas de interface envia sinais de priming idênticos ao córtex pré-frontal.",
-          "id": "Ya, tentu saja. Mekanisme mendasarnya bergantung pada pengondisian sensorik antara masukan warna visual dan kondisi kognitif tertentu, terlepas dari tekstur kertas. Mengatur tema latar belakang kanvas yang berbeda dalam aplikasi tablet, warna tag folder yang disesuaikan di Notion, atau tema UI profil browser memberikan sinyal priming saraf yang identik."
-        }
-      },
-      {
-        "question": {
-          "ko": "색상을 너무 세분화하여 자주 바꾸면 오히려 두뇌에 역효과나 인지 과부하가 나지 않나요?",
-          "en": "Will assigning too many color variations trigger reverse cognitive overload or confusion?",
-          "ja": "色彩を過度に細分化して頻繁に変えると、かえって脳に逆効果や認知過負荷が発生しませんか？",
-          "zh": "将颜色细分成太多种并频繁转换，会不会适得其反引发大脑混乱与认知过载？",
-          "es": "¿Asignar demasiadas variaciones de color provocará una sobrecarga cognitiva inversa o confusión?",
-          "de": "Führt das Erstellen zu vieler Farbvarianten zu kognitiver Überlastung oder Verwirrung?",
-          "fr": "L'attribution d'un trop grand nombre de couleurs risque-t-elle de provoquer una surcharge cognitive ou de la confusion ?",
-          "pt": "Atribuir muitas variações de cor provocará uma sobrecarga cognitiva inversa ou confusão?",
-          "id": "Apakah menetapkan terlalu banyak variasi warna akan memicu kelebihan beban kognitif terbalik atau kebingungan?"
-        },
-        "answer": {
-          "ko": "네, 맞습니다. 뇌가 특정 색상과 인지 모드를 유기적으로 바인딩하려면 지속적이고 반복적인 연합 학습 과정이 필수적입니다. 5개 이상의 색상을 복잡하게 혼용하면 뇌는 시각적 노이즈로 인식하여 프라이밍 효과가 상실됩니다. 반드시 핵심 과업 영역을 2~3개 이하로 최소화하고 고유 색상을 일정 기간 고정하여 유지하는 것이 인지적 유익을 극대화하는 길입니다.",
-          "en": "Yes, precisely. For the brain to organically bind a visual hue to a specific cognitive state, repeated and consistent associative learning is required. Using 5 or more complex color categories transforms visual cues into chaotic sensory clutter, destroying the priming effect. Limit your system strictly to 2 or 3 macro domains and keep assigned colors unchanged over time to maximize cognitive benefits.",
-          "ja": "はい、その通りです。脳が特定の色と認知モードを有機的にバインディングするには、継続的で反復的な連合学習過程が不可欠です。5つ以上の色を複雑に混用すると、脳は視覚的ノイズとして認識し、プライミング効果が失われます。必ず核心課業領域を2〜3個以下に最小化し、固有の色を一定期間固定して維持することが、認知的利益を極大化する道です。",
-          "zh": "完全正确。为了使大脑在色彩与特定的认知模式间达成有机的关联绑定，持续且一致的条件反射训练不可或缺。若呈乱麻般混用5种以上的颜色，大脑会将其判定为视觉噪点，从而导致心理引发机制彻底崩溃。务必将核心任务分类精简至2-3种或以下，并在相当长的时间内锁定专属代表色，如此方能将神经利益拉至最大。",
-          "es": "Sí, exactamente. Para que el cerebro vincule un color a un estado cognitivo, se requiere un aprendizaje asociativo constante. Usar 5 o más colores convierte las señales visuales en desorden sensorial, anulando el primado. Limite su sistema estrictamente a 2 o 3 dominios y conserve los colores asignados para maximizar los beneficios.",
-          "de": "Ja, genau. Damit das Gehirn eine Farbe fest mit einem Denkmuster verknüpft, ist konstantes assoziatives Lernen erforderlich. Die Verwendung von 5 oder mehr Farben verwandelt visuelle Signale in störendes Rauschen und zerstört den Priming-Effekt. Beschränken Sie Ihr System strikt auf 2 bis 3 Bereiche.",
-          "fr": "Oui, tout à fait. Pour que le cerveau associe une couleur à un état cognitif, un apprentissage associatif régulier est requis. Utiliser 5 couleurs ou plus transforme les signaux visuels en bruits sensoriels, annulant l'effet de primage. Limitez votre système à 2 ou 3 domaines au maximum pour optimiser les bénéfices.",
-          "pt": "Sim, exatamente. Para o cérebro vincular uma cor a um estado cognitivo, requer-se um aprendizado associativo constante. Usar 5 ou mais cores transforma os sinais visuais em desordem sensorial, anulando o priming. Limite seu sistema estritamente a 2 ou 3 domínios para maximizar os benefícios.",
-          "id": "Ya, tepat sekali. Agar otak dapat mengikat rona visual ke kondisi kognitif tertentu secara organik, diperlukan pembelajaran asosiatif yang berulang dan konsisten. Menggunakan 5 atau lebih kategori warna yang rumit mengubah isyarat visual menjadi kekacauan sensorik, merusak efek priming. Batasi sistem Anda secara ketat hingga 2 atau 3 domain makro."
-        }
-      }
-    ]
+    }
   }
 }

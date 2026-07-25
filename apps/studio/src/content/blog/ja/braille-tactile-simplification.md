@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "指先の直感と6点の革新：ルイ・ブライユの本質単純化とチャンキング・ルーティン"
 description: "複雑だった12点の軍用夜間文字を、指の第1関節に収まる6点点字へと単純化し、視覚障害者の知識革命を起こしたルイ・ブライユ。触覚情報の受容限界に合わせたチャンキング（Chunking）と本質単純化の神経科学的原理を解き明かします。"
 pubDate: "2026-05-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「braille-tactile-simplification」は <strong>C・マイケル・メラー伝記『Louis Braille: A Touch of Genius』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>C・マイケル・メラー伝記『Louis Braille: A Touch of Genius』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業記憶のチャンキング（Chunking）と触覚感覚解像度限界の神経科学
+## 1. 作業記憶のチャンキング（Chunking）と触覚感覚解像度限界の神経科学
 
 人間の作業記憶（Working Memory）と体性感覚皮質（Somatosensory Cortex）は、一度に処理できる高解像度情報量に明確な物理的・認知的限界を持っています。12点の夜間文字は指先にある触覚受容体（Tactile Receptors）の空間解像度を超過し、脳に不要な時空間探索の過負荷をかけていました。一方、セルを6点へと半分に縮小したブライユの方式は、脳が情報を一つの単位に束ねて処理する「チャンキング（Chunking）」メカニズムに完璧に符合します。複雑な業務やプロセスを核心要素3〜5個単位へとチャンキングすると、前頭前野の認知負荷が急激に減少し、情報処理および意思決定の速度が極大化します。
 
 ---
 
-## 注意事項＆ヒント：付加的要素の果断な削除と核心の維持
-
-単純化作業を行う際に最も妨げとなるのは、「いつか使われるかもしれない」という未練から不要な段階を残してしまう態度です。例外的な状況や付加的なオプションをすべて考慮しようとすると、システムは再び複雑化し認知の柔軟性が低下します。指の第1関節一つで一瞬にして認識する6点セルのように、全体の成果を左右する本質的要素だけを残し、残りは果断に削ぎ落とさなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：付加的要素の果断な削除と核心の維持
+
+単純化作業を行う際に最も妨げとなるのは、「いつか使われるかもしれない」という未練から不要な段階を残してしまう態度です。例外的な状況や付加的なオプションをすべて考慮しようとすると、システムは再び複雑化し認知の柔軟性が低下します。指の第1関節一つで一瞬にして認識する6点セルのように、全体の成果を左右する本質的要素だけを残し、残りは果断に削ぎ落とさなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>単純化の過程で重要な情報を聞き漏らしたり抜かしたりするのが怖い時はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       削除された付加情報は「付録」やバックアップフォルダに別途保管しておき、メインの作業空間には核心の3〜5個の単位だけを露出させる二重化（Two-tier）戦略を活用すれば、認知的安心感を得ることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>この本質単純化およびチャンキング体系を組織やチームの業務プロセスにも適用できますか？</span>

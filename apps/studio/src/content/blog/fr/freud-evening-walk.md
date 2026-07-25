@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La marche de 3 milles qui a éveillé l'inconscient : La routine de marche rapide nocturne et le journal de l'inconscient de Sigmund Freud"
 description: "Découvrez comment Sigmund Freud, le père de la psychanalyse, rééquilibrait son cerveau et accédait à l'inconscient lors de marches rapides de 3 milles à travers Vienne chaque soir après ses consultations. Explorez la neuroscience de la stimulation bilatérale."
 pubDate: "2026-07-09"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience sous-jacente a la routine de «
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant freud-evening-walk est basée sur <strong>Vérification Historique issue de *Ma vie et la psychanalyse* de Sigmund Freud, des archives du Musée Sigmund Freud de Vienne & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *Ma vie et la psychanalyse* de Sigmund Freud, des archives du Musée Sigmund Freud de Vienne & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation sensorielle bilatérale et régulation émotionnelle préfrontale
+## 1. Stimulation sensorielle bilatérale et régulation émotionnelle préfrontale
 
 Alterner les pas a un rythme soutenu envoie des stimulations aux deux hémisphères : c'est la <strong>Stimulation Bilatérale</strong>. Utilisé en thérapie du traumatisme (comme l'EMDR), ce traitement croisé apaise l'hyperactivité de l'<strong>Amygdale</strong>, diminuant la réactivité émotionnelle. De plus, la pratique du <strong>journal manuscrit</strong> juste après la marche pour externaliser les pensées inconscientes sollicite le cortex préfrontal, restaurant la <strong>Mémoire de travail</strong>.
 
 ---
 
-## Mise en garde : Éviter le surmenage aérobique pour favoriser la relaxation nocturne
-
-Cette routine nocturne n'est pas un entraînement physique intense pour brûler des calories. Courir à s'en essouffler surstimule le système nerveux sympathique. Maintenez une marche rapide permettant de tenir une conversation tout en accélérant la respiration. Pour préserver le sommeil, terminez la marche au moins 3 heures avant le coucher.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Cette routine nocturne n'est pas un entraînement physique intense pour brûler 
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éviter le surmenage aérobique pour favoriser la relaxation nocturne
+
+Cette routine nocturne n'est pas un entraînement physique intense pour brûler des calories. Courir à s'en essouffler surstimule le système nerveux sympathique. Maintenez une marche rapide permettant de tenir une conversation tout en accélérant la respiration. Pour préserver le sommeil, terminez la marche au moins 3 heures avant le coucher.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Marcher le matin ou l'après-midi offre-t-il les mêmes bénéfices que la marche nocturne ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Cette routine nocturne n'est pas un entraînement physique intense pour brûler 
       Oui. La stimulation bilatérale se produit a n'importe quel moment de la journée. Cependant, si la marche matinale stimule l'éveil, la marche nocturne de Freud élimine l'encombrement mental et la tension accumulés au travail. Choisissez le créneau adapté à votre stress.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je taper ce journal sur smartphone ou clavier au lieu de l'écrire à la main ?</span>

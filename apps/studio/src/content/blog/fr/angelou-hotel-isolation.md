@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le blocage environnemental pour l'immersion : La routine d'isolement à l'hôtel de Maya Angelou"
 description: "La légendaire poétesse et militante Maya Angelou écrivait exclusivement dans des chambres d'hôtel vides et sans stimulation pour maximiser sa concentration. Découvrez les principes neuroscientifiques du contrôle des stimuli environnementaux."
 pubDate: "2026-03-21"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques du
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant angelou-hotel-isolation est basée sur <strong>Vérification Historique issue des mémoires autobiographiques de Maya Angelou, de *Daily Rituals* de Mason Currey & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des mémoires autobiographiques de Maya Angelou, de *Daily Rituals* de Mason Currey & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Contrôle des stimuli visuels et conservation de l'énergie cognitive préfrontale
+## 1. Contrôle des stimuli visuels et conservation de l'énergie cognitive préfrontale
 
 Même sans conscience explicite, le cerveau humain balaye constamment les stimuli visuels et auditifs de l'environnement, consommant de l'énergie cognitive. Aménager un espace d'isolement dédié et minimaliste réduit considérablement les stimuli environnementaux, préservant ainsi l'énergie du cortex préfrontal pour l'immersion dans la tâche.
 
 ---
 
-## Conseils neuroscientifiques pour des habitudes réussies d'immersion environnementale
-
-Il est difficile de surmonter les distractions par la seule force de volonté. La véritable immersion découle de la conception préalable d'un environnement physique où les tentations ne peuvent pas s'implanter. Rangez votre bureau et isolez les appareils électroniques pour créer un environnement où votre cerveau n'a d'autre choix que de se concentrer.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Il est difficile de surmonter les distractions par la seule force de volonté. L
     Fixez des horaires clairs pour entrer et sortir de la zone d'immersion. Lorsque la session d'écriture ou de travail définie prend fin, levez-vous complètement de votre siège pour tracer une ligne de démarcation psychologique entre le travail et le repos.
   </p>
 </div>
+
+---
+
+## 3. Conseils neuroscientifiques pour des habitudes réussies d'immersion environnementale
+
+Il est difficile de surmonter les distractions par la seule force de volonté. La véritable immersion découle de la conception préalable d'un environnement physique où les tentations ne peuvent pas s'implanter. Rangez votre bureau et isolez les appareils électroniques pour créer un environnement où votre cerveau n'a d'autre choix que de se concentrer.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

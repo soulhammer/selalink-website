@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Psikologi Pakaian: Rutinitas Bekerja dengan Setelan Jas René Magritte"
 description: "René Magritte, pelukis surealis yang mengenakan setelan jas rapi setiap hari di depan kanvas ruang tamunya. Mengungkap 'Enclothed Cognition'—efek umpan balik kognitif pakaian terhadap otak."
 pubDate: "2026-05-25"
@@ -37,17 +38,17 @@ Artikel ini menganalisis bagaimana rutinitas berpakaian jas Magritte mengendalik
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai magritte-suit-painting didasarkan pada <strong>Rekam historis dari biografi René Magritte & arsip Royal Museums of Fine Arts of Belgium, serta penelitian Neurosains Kognitif dan Psikologi Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Rekam historis dari biografi René Magritte & arsip Royal Museums of Fine Arts of Belgium, serta penelitian Neurosains Kognitif dan Psikologi Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Enclothed Cognition dan Sains Otak Kontrol Kognitif Korteks Prafrontal
+## 1. Efek Enclothed Cognition dan Sains Otak Kontrol Kognitif Korteks Prafrontal
 
 Otak manusia mengalami <strong>Enclothed Cognition</strong>, di mana makna simbolis dan sensasi pakaian secara langsung memengaruhi proses kognitif.
 
@@ -57,9 +58,7 @@ Pengaturan psikologis ini menstimulasi sistem kontrol kognitif <strong>Korteks P
 
 ---
 
-## Aturan Menghindari Pakaian Ketat yang Menyebabkan Nyeri dan Menjaga Keseimbangan Pakaian Kerja Rapi
-
-Hindari mengenakan pakaian yang terlalu menekan tubuh atau menyebabkan nyeri hanya untuk mendapatkan efek Enclothed Cognition. Ketidaknyamanan fisik mengirim sinyal lelah ke <strong>Korteks Prafrontal</strong> yang merusak konsentrasi. Intinya adalah menjaga kerapian sambil membangun keseimbangan pakaian yang nyaman untuk perendaman durasi panjang.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -91,12 +90,18 @@ Hindari mengenakan pakaian yang terlalu menekan tubuh atau menyebabkan nyeri han
   </p>
 </div>
 
+---
+
+## 3. Aturan Menghindari Pakaian Ketat yang Menyebabkan Nyeri dan Menjaga Keseimbangan Pakaian Kerja Rapi
+
+Hindari mengenakan pakaian yang terlalu menekan tubuh atau menyebabkan nyeri hanya untuk mendapatkan efek Enclothed Cognition. Ketidaknyamanan fisik mengirim sinyal lelah ke <strong>Korteks Prafrontal</strong> yang merusak konsentrasi. Intinya adalah menjaga kerapian sambil membangun keseimbangan pakaian yang nyaman untuk perendaman durasi panjang.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah mengenakan sandal dalam rumah atau sepatu khusus kerja saat WFH membantu Enclothed Cognition?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -105,7 +110,7 @@ Hindari mengenakan pakaian yang terlalu menekan tubuh atau menyebabkan nyeri han
       Ya, dampaknya sangat luar biasa! Tekstur kokoh yang dirasakan telapak kaki mengirim sinyal 'mode aktivitas luar' ke <strong>Korteks Somatosensorik</strong>. Ini menekan keinginan untuk berbaring di sofa atau kasur dan menjadi saklar fisik peralihan kerja.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah berpakaian rapi juga membantu saat melakukan pekerjaan kreatif seperti melukis atau membuat konten?</span>

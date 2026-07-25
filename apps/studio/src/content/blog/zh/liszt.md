@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "降速至1秒单键无错弹奏：弗朗茨·李斯特的小脑运动学习习惯与神经髓鞘化指南"
 description: "深度剖析音乐史上拥有绝代技巧的钢琴家弗朗茨·李斯特。揭示其放弃盲目乱弹速奏、转而将节拍器降速至1秒1键展开慢速无错学习（Errorless Learning）、锤炼小脑（Cerebellum）与诱发神经髓鞘化（Myelination）的原理与3步骤指南。"
 pubDate: "2026-04-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 liszt 的内容基于 <strong>艾伦·沃克传记《弗朗茨·李斯特：巨擘岁月（Franz Liszt: The Virtuoso Years）》史料考证及认知神经科学（Cognitive Neuroscience）与运动学习学（Motor Learning Science）研究</strong> 撰写。
+      本内容基于 <strong>艾伦·沃克传记《弗朗茨·李斯特：巨擘岁月（Franz Liszt: The Virtuoso Years）》史料考证及认知神经科学（Cognitive Neuroscience）与运动学习学（Motor Learning Science）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 小脑（Cerebellum）精细运动学习（Motor Learning）与神经髓鞘化（Myelination）机制
+## 1. 小脑（Cerebellum）精细运动学习（Motor Learning）与神经髓鞘化（Myelination）机制
 
 将动作时速降至极慢以严苛厘定肌肉微观运动的训练，能极强激活大脑<strong>小脑（Cerebellum）</strong>内部的<strong>精细运动学习（Motor Learning）</strong>网络。在极慢速率下无瑕重复完美的运动轨迹，会促使少突胶质细胞在主责该动作的神经纤维外围缠绕包裹上厚重的<strong>髓鞘（Myelin）</strong>——即神经髓鞘化现象。这能跨越式提升神经电信号的传导速率与空间精准度，构建出不向大脑输入哪怕一次失误印记的<strong>慢速无错学习（Errorless Learning）</strong>硬核神经网络。
 
 ---
 
-## 注意事项：剔除盲目求快与肌肉代偿紧绷，专注无错慢动作（Errorless Learning）指南
-
-在练习进程中，切勿发力死嗑抠按琴键与工具、亦勿急功近利企图迅速收工。务必彻底清扫躯体无谓的代偿紧绷，全情沉浸于完美轨迹的极致慢动作中，小脑神经网络方能印刻下零误差的极精精度。比起盲目拉升速度，死锁零失误的慢动作执行乃是绝对核心。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：剔除盲目求快与肌肉代偿紧绷，专注无错慢动作（Errorless Learning）指南
+
+在练习进程中，切勿发力死嗑抠按琴键与工具、亦勿急功近利企图迅速收工。务必彻底清扫躯体无谓的代偿紧绷，全情沉浸于完美轨迹的极致慢动作中，小脑神经网络方能印刻下零误差的极精精度。比起盲目拉升速度，死锁零失误的慢动作执行乃是绝对核心。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>非乐器演奏者的普通职场人或运动爱好者，践行“1秒1动作”慢动作习惯能否同样获益？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全普适！其神经科学机制对任何躯体精细操作均完全生效——如键盘快捷键盲打、高尔夫/网球挥杆姿态打磨、乃至演讲时的手势调度等。将节拍降至极慢以将失误抹平为零、随后阶梯拉升时速，能促使小脑加速发生神经髓鞘化，剧烈拉升动作精细度。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若手头缺乏实体钢琴琴键或专业设备，有哪些简便的替代练法？</span>

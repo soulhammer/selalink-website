@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El Uso de Tijeras que Cura la Depresión? La Rutina de Recorte de Papel de Andersen"
 description: "El mundialmente famoso autor de cuentos de hadas Hans Christian Andersen. Presentamos los principios de curación psiquiátrica y una guía de 3 pasos de 'Recorte de Papel' (Paper Cutting), el secreto para hacer florecer una hermosa imaginación a pesar de una vida de depresión y carencia psicológica."
 pubDate: "2026-05-07"
@@ -38,22 +39,20 @@ En la publicación de hoy, presentamos los beneficios curativos psiquiátricos d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre andersen-paper-cutting se basa en <strong>Verificación Histórica de los Archivos de Papel del Museo Hans Christian Andersen en Odense, Dinamarca e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de los Archivos de Papel del Museo Hans Christian Andersen en Odense, Dinamarca e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estabilización de la Red por Defecto (DMN) Mediante el Trabajo Manual Delicado
+## 1. Estabilización de la Red por Defecto (DMN) Mediante el Trabajo Manual Delicado
 
 La <strong>'Red por Defecto (Default Mode Network, DMN)'</strong>, que opera cuando el cerebro descansa sin realizar una tarea específica, amplifica el sobrepensamiento (Overthinking) innecesario, como los arrepentimientos del pasado y las ansiedades del futuro, en las personas modernas. Según la terapia ocupacional e investigaciones en neurociencia, el <strong>'trabajo manual delicado'</strong>, como el uso de tijeras o el dibujo, que controla delicadamente las yemas de los dedos, calienta ampliamente la corteza motora del cerebro al tiempo que desactiva de inmediato la DMN sobrecargada. La estimulación táctil simétrica y simple de doblar y cortar papel frente a sus ojos detiene el sobrepensamiento y proporciona un profundo descanso cognitivo al cerebro.
 
 ---
 
-## Enfóquese en la Trayectoria de las Yemas de los Dedos y el Sonido del Corte, No en un Diseño Perfecto
-
-Para disfrutar del efecto de descanso cerebral de la rutina de recortes con tijeras, debe abandonar la obsesión por crear un resultado maravilloso. Si comienza a diseñar mentalmente un patrón pensando 'debo completar un diseño bonito', las áreas de planificación y control del lóbulo prefrontal se sobrecalientan, lo que dificulta lograr el efecto de desactivación de la DMN. Tal como Andersen cerraba los ojos y cortaba según se movían sus manos, confiar plenamente su atención solo al crujiente sonido de fricción de las tijeras al cortar papel y a la vibración analógica en las yemas de sus dedos es el primer paso hacia la relajación.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para disfrutar del efecto de descanso cerebral de la rutina de recortes con tije
   </p>
 </div>
 
+---
+
+## 3. Enfóquese en la Trayectoria de las Yemas de los Dedos y el Sonido del Corte, No en un Diseño Perfecto
+
+Para disfrutar del efecto de descanso cerebral de la rutina de recortes con tijeras, debe abandonar la obsesión por crear un resultado maravilloso. Si comienza a diseñar mentalmente un patrón pensando 'debo completar un diseño bonito', las áreas de planificación y control del lóbulo prefrontal se sobrecalientan, lo que dificulta lograr el efecto de desactivación de la DMN. Tal como Andersen cerraba los ojos y cortaba según se movían sus manos, confiar plenamente su atención solo al crujiente sonido de fricción de las tijeras al cortar papel y a la vibración analógica en las yemas de sus dedos es el primer paso hacia la relajación.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Está bien si carezco de sentido artístico y no soy bueno cortando?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para disfrutar del efecto de descanso cerebral de la rutina de recortes con tije
       Por supuesto. De hecho, el acto de cortar al azar sin un patrón es más efectivo para reducir la DMN. Al cerebro no le importa en absoluto si el patrón completado parece extraño o torcido. Lo que importa no es la precisión de la forma, sino el movimiento delicado de los músculos de la yema del dedo y la estimulación auditiva en sí. Como esta es una actividad creativa libre de valoraciones y sin posibilidad de fracaso, disfrute del corte con tranquilidad.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿El hecho de generar desperdicios de papel tras cortar interrumpe la relajación al limpiar?</span>

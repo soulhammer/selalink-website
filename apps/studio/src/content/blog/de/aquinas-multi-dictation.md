@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Thomas von Aquins Multi-Diktat-Methode: Maximieren Sie das Arbeitsgedächtnis zur Bewältigung komplexer Dilemmata"
 description: "Entdecken Sie, wie Thomas von Aquin, der große mittelalterliche Theologe, sein Arbeitsgedächtnis erweiterte und die logische Kohärenz bewahrte, während er gleichzeitig verschiedenen Schreibern 3 bis 4 unterschiedliche Themen diktierte."
 pubDate: "2026-03-09"
@@ -33,25 +34,23 @@ Im heutigen Beitrag analysieren wir die neurowissenschaftlichen Prinzipien der P
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu aquinas-multi-dictation basiert auf <strong>Historische Überprüfung aus Bernard von Guis Biografie von Thomas von Aquin & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Bernard von Guis Biografie von Thomas von Aquin & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kognitionswissenschaftliche Prinzipien der Partitionierung des Arbeitsgedächtnisses
+## 1. Kognitionswissenschaftliche Prinzipien der Partitionierung des Arbeitsgedächtnisses
 
 Das gleichzeitige Koordinieren mehrerer abstrakter Aufgaben erzeugt im Großhirn normalerweise schwere Informationsinterferenzen und kognitive Aufgabenwechselkosten. Thomas von Aquin überwand dies jedoch durch 'Partitionierung des Arbeitsgedächtnisses (Working Memory Partitioning)'. Indem er das zentrale exekutive System des Präfrontalkortex hochgradig schulte, hielt er die Wissensknoten jedes Projekts in separaten Abschnitten aktiv. Dies ermöglichte ihm einen schnellen Kontextwechsel, während eine kognitive Erschöpfung oder Informationsüberschneidung verhindert wurde.
 
 ---
 
-## Hüten Sie sich vor unproduktivem Multitasking
-
-Verwechseln Sie diese Gewohnheit nicht mit modernem, ablenkbarem Multitasking (z. B. Coden beim Lesen von E-Mails). Bloße Ablenkung verringert Arbeitsqualität und -geschwindigkeit drastisch. Aquins Methode ist die sequentielle Ausführung (Sequential Execution) einzelner, hochkonzentrierter Aufgaben in getrennten Abschnitten. Das bedeutet: Wenn Sie ein Objekt bearbeiten, müssen Sie 100 % Ihrer Gehirnressourcen genau darauf verwenden.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Verwechseln Sie diese Gewohnheit nicht mit modernem, ablenkbarem Multitasking (z
     Wenn die Zeit abgelaufen ist, schließen Sie die erste Aufgabe sofort und öffnen Sie die zweite. Holen Sie dreimal tief Luft, um den Puffer zu leeren, damit vorherige Gedanken nicht im Gehirn nachwirken, und führen Sie dann die zweite Aufgabe mit 100 % Konzentration aus.
   </p>
 </div>
+
+---
+
+## 3. Hüten Sie sich vor unproduktivem Multitasking
+
+Verwechseln Sie diese Gewohnheit nicht mit modernem, ablenkbarem Multitasking (z. B. Coden beim Lesen von E-Mails). Bloße Ablenkung verringert Arbeitsqualität und -geschwindigkeit drastisch. Aquins Methode ist die sequentielle Ausführung (Sequential Execution) einzelner, hochkonzentrierter Aufgaben in getrennten Abschnitten. Das bedeutet: Wenn Sie ein Objekt bearbeiten, müssen Sie 100 % Ihrer Gehirnressourcen genau darauf verwenden.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

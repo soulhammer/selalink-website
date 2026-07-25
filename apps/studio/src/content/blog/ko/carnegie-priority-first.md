@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "가장 어려운 과제부터 아침에 처치한 거부: 앤드류 카네기의 우선순위 완결 루틴"
 description: "철강왕 앤드류 카네기가 전두엽 자원이 가장 충만한 아침 골든타임에 가장 무겁고 골치 아픈 일을 최우선 처리했던 루틴. 자아 고갈(Ego Depletion)을 예방하고 전전두엽 집행 기능을 극대화하는 인지신경과학적 원리를 밝힙니다."
 pubDate: "2026-05-07"
@@ -12,13 +13,13 @@ authority: "앤드류 카네기 자서전 『앤드류 카네기 자서전(Autob
 steps:
   - name: "1단계: 출근 직후 과업 나열 및 가장 두려운 핵심 과제(Eat That Frog) 선정"
     text: "아침 업무 개시 직후 5분간 오늘 해야 할 일들을 수첩에 나열하고, 이 중 가장 비즈니스 가치가 크면서도 해결하기 가장 부담스럽고 미뤄두고 싶었던 핵심 과제 1개를 선정합니다."
-  - name: "2단계: 아침 전두엽 골든타임(1~2시간)의 외부 자극 환경적 차단"
+  - name: "2단계: 아침 전두엽 골든타임(1 ~ 2시간)의 외부 자극 환경적 차단"
     text: "이메일 프로그램, 메신저, 소셜 미디어를 모두 종료하고 알림을 차단합니다. 아침 첫 1 ~ 2시간 동안은 전두엽 에너지를 침해하는 외부의 사소한 요구를 전면 거절합니다."
   - name: "3단계: 단일 핵심 과제 완결 및 도파민성 성취감 기반 본업 연결"
     text: "전두엽 배터리가 100%인 상태에서 오직 선정된 1개의 과제에만 집중하여 완결합니다. 가장 난해한 일을 해냈다는 도파민성 성취감을 바탕으로 나머지 가벼운 잡무들을 순식간에 처리합니다."
 faqs:
   - question: "아침 첫 시간에 급박하게 처리해야 하는 연락이나 긴급 응답 요청이 오면 어떻게 대처하나요?"
-    answer: "조직 전체의 시스템이 다운되는 치명적 위기가 아니라면, 대부분의 '급해 보이는' 연락은 1~2시간 뒤에 처리해도 큰 차질이 없습니다. 내 전두엽의 최상 자원을 보존하기 위해 아침 첫 1시간만이라도 방해받지 않는 '전두엽 보존 요새 시간'으로 지정해 사수하는 것이 핵심입니다."
+    answer: "조직 전체의 시스템이 다운되는 치명적 위기가 아니라면, 대부분의 '급해 보이는' 연락은 1 ~ 2시간 뒤에 처리해도 큰 차질이 없습니다. 내 전두엽의 최상 자원을 보존하기 위해 아침 첫 1시간만이라도 방해받지 않는 '전두엽 보존 요새 시간'으로 지정해 사수하는 것이 핵심입니다."
   - question: "가장 어려운 과제가 하루 만에 끝낼 수 없을 정도로 거대할 때는 어떻게 적용하나요?"
     answer: "과제가 너무 거대하면 뇌는 인지적 압박을 느껴 시작도 하기 전에 회피 반응을 보입니다. 이때는 그 거대한 프로젝트를 '오늘 아침 1시간 동안 완료할 수 있는 세부 실행 단위'로 작게 쪼갠 뒤, 그 분할된 첫 번째 단편 조각을 아침 첫 과제로 정해 격파해 나갑니다."
 ---
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>앤드류 카네기 자서전 『앤드류 카네기 자서전(Autobiography of Andrew Carnegie)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 carnegie-priority-first 루틴을 다룹니다.
+      본 콘텐츠는 <strong>앤드류 카네기 자서전 『앤드류 카네기 자서전(Autobiography of Andrew Carnegie)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 전전두엽 피질 자원 보존과 '자아 고갈(Ego Depletion)' 방지 메커니즘
+## 1. 전전두엽 피질 자원 보존과 '자아 고갈(Ego Depletion)' 방지 메커니즘
 
 뇌과학과 심리학 연구에 따르면, 합리적 의사결정, 유혹 억제, 집행 제어를 관장하는 대뇌 전전두엽 피질(Prefrontal Cortex)의 인지 자원은 무한하지 않고 배터리처럼 유한하게 고갈되는 에너지원입니다. 이를 '자아 고갈(Ego Depletion)' 현상이라고 합니다. 아침 기상 직후 무의미한 스마트폰 스크롤, 메신저 응답, 사소한 잡무로 전전두엽의 포도당(Glucose) 예산을 야금야금 소모해 버리면, 정작 중요하고 복잡한 기획이나 핵심 의사결정이 필요한 오후 시간에는 뇌의 집행 배터리가 방전되어 결정을 미루는 '판단 피로(Decision Fatigue)'에 빠집니다. 수면을 통해 에너지가 100% 충전된 아침 첫 시간에 가장 난해한 과제를 완결짓는 카네기의 루틴은, 전전두엽 자원이 완전할 때 최고의 논리성과 판단력을 투입하여 오판을 막는 강력한 뇌 공학적 전략입니다.
 
 ---
 
-## 주의사항 및 팁: 아침 인지 에너지를 소모성 잡무에 방전 금지
-
-높은 성과를 내는 지식 노동자에게 의지력과 전두엽 자원은 시간에 따라 가치가 하락하는 고가의 인지 자산입니다. 카네기는 매일 아침 전두엽의 골든타임을 소모적인 이메일 답장이나 사무실 정돈 같은 자잘한 업무에 낭비하지 않고, 가장 파급력이 큰 사업 결정에 집중 투입했습니다. 아침에 가장 미루고 싶었던 그 거대한 난제를 첫 업무로 지정하여 사전에 방전되는 일을 막으세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -68,7 +67,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 아침 전두엽 골든타임(1~2시간)의 외부 자극 환경적 차단</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2단계: 아침 전두엽 골든타임(1 ~ 2시간)의 외부 자극 환경적 차단</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     이메일 프로그램, 메신저, 소셜 미디어를 모두 종료하고 알림을 차단합니다. 아침 첫 1 ~ 2시간 동안은 전두엽 에너지를 침해하는 외부의 사소한 요구를 전면 거절합니다.
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 아침 인지 에너지를 소모성 잡무에 방전 금지
+
+높은 성과를 내는 지식 노동자에게 의지력과 전두엽 자원은 시간에 따라 가치가 하락하는 고가의 인지 자산입니다. 카네기는 매일 아침 전두엽의 골든타임을 소모적인 이메일 답장이나 사무실 정돈 같은 자잘한 업무에 낭비하지 않고, 가장 파급력이 큰 사업 결정에 집중 투입했습니다. 아침에 가장 미루고 싶었던 그 거대한 난제를 첫 업무로 지정하여 사전에 방전되는 일을 막으세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>아침 첫 시간에 급박하게 처리해야 하는 연락이나 긴급 응답 요청이 오면 어떻게 대처하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       조직 전체의 시스템이 다운되는 치명적 위기가 아니라면, 대부분의 '급해 보이는' 연락은 1 ~ 2시간 뒤에 처리해도 큰 차질이 없습니다. 내 전두엽의 최상 자원을 보존하기 위해 아침 첫 1시간만이라도 방해받지 않는 '전두엽 보존 요새 시간'으로 지정해 사수하는 것이 핵심입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>가장 어려운 과제가 하루 만에 끝낼 수 없을 정도로 거대할 때는 어떻게 적용하나요?</span>

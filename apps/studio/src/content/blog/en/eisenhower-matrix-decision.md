@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Power of Focusing on What Matters: Dwight D. Eisenhower's Priority 4-Quadrant Decision-Making Habit"
 description: "President Eisenhower endured the immense weight of decision-making during wartime and national governance. Discover his time management secret of allocating brain energy to essential matters without being swayed by minor urgencies, analyzed through cognitive neuroscience."
 pubDate: "2026-01-01"
@@ -34,22 +35,20 @@ Dwight D. Eisenhower (1890–1969) was the Supreme Commander of the Allied Exped
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding eisenhower-matrix-decision is based on <strong>Historical Verification from Dwight D. Eisenhower's Autobiography *At Ease: Stories I Tell to Friends* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Dwight D. Eisenhower's Autobiography *At Ease: Stories I Tell to Friends* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Preventing Decision Fatigue and Optimizing Prefrontal Cognitive Control
+## 1. Preventing Decision Fatigue and Optimizing Prefrontal Cognitive Control
 
 The human prefrontal cortex governs executive functions, planning, and decision-making, but its daily energy pool—known as cognitive bandwidth—is strictly limited. Repeated exposure to trivial yet urgent tasks plunges the brain into 'decision fatigue', severely draining executive functioning and compromising high-level judgment. The Eisenhower Matrix visually organizes priorities, dramatically reducing choice paralysis and cognitive load. By structuring tasks into clear categories, it preserves prefrontal energy, allowing the brain to maintain a state of relaxed focus and execute high-level strategic thinking without cognitive exhaustion.
 
 ---
 
-## Protocol for Pre-allocating Time to Quadrant 2 (Important but Not Urgent)
-
-A common mistake when adopting priority classification is spending the entire day reactive in Quadrant 1 (Urgent & Important). Constantly firefighting in Quadrant 1 overstimulates the adrenal cortex, flooding the brain with cortisol and triggering chronic stress and burnout. The core secret is proactively reserving at least 20% of your daily cognitive bandwidth for Quadrant 2 (Not Urgent but Important)—such as strategic planning, learning, health, and relationship building. Prioritizing Quadrant 2 guarantees sustainable long-term growth and fundamentally prevents future crises from exploding in Quadrant 1.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ A common mistake when adopting priority classification is spending the entire da
   </p>
 </div>
 
+---
+
+## 3. Protocol for Pre-allocating Time to Quadrant 2 (Important but Not Urgent)
+
+A common mistake when adopting priority classification is spending the entire day reactive in Quadrant 1 (Urgent & Important). Constantly firefighting in Quadrant 1 overstimulates the adrenal cortex, flooding the brain with cortisol and triggering chronic stress and burnout. The core secret is proactively reserving at least 20% of your daily cognitive bandwidth for Quadrant 2 (Not Urgent but Important)—such as strategic planning, learning, health, and relationship building. Prioritizing Quadrant 2 guarantees sustainable long-term growth and fundamentally prevents future crises from exploding in Quadrant 1.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How can I protect Quadrant 2 (Important but Not Urgent) when urgent work constantly pours in at my job?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ A common mistake when adopting priority classification is spending the entire da
       If everything feels urgent, it means external demands are overriding your internal priorities. Create a strict 'Do Not Disturb' block for the first 30 minutes of your workday without checking emails or messaging apps, devoting that window exclusively to Quadrant 2 strategy or learning. Securing this small focus window acts as a catalyst to prevent future firefighting.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What is the objective standard for distinguishing between 'Important' and 'Urgent' tasks?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Miracle of Scissors in Bed: Henri Matisse's Cut-Out Pain Healing Routine"
 description: "Henri Matisse, a giant of art history. Discover how he overcame suffering and created masterpieces from bed after serious cancer surgery in old age using long scissors to cut gouache paper, and learn the brain science behind visual-tactile healing."
 pubDate: "2026-05-17"
@@ -38,14 +39,14 @@ In today's post, we explore the science of visual-tactile relaxation in Henri Ma
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding matisse-paper-cutout is based on <strong>Historical Verification of Henri Matisse's Biographies & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification of Henri Matisse's Biographies & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Visual-Tactile Feedback Distracting Pain and Stimulating Neuroplasticity
+## 1. Visual-Tactile Feedback Distracting Pain and Stimulating Neuroplasticity
 
 When the brain experiences severe physical pain or mental stress, merely lying down to rest keeps attention locked onto pain and anxiety networks.
 
@@ -53,9 +54,7 @@ Fine-motor activities like holding scissors and meticulously cutting smooth pape
 
 ---
 
-## Creation at Your Fingertips Heals a Fatigued Brain
-
-Modern individuals accumulate visual fatigue through passive web surfing or social media, leaving the brain drained. Adopt a tactile ritual like Matisse—even once a week—by using real scissors to cut colorful paper into freeform shapes and arranging them on a wall or notebook. This is an artistic mental detox therapy that restores sensory networks in the brain.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Modern individuals accumulate visual fatigue through passive web surfing or soci
   </p>
 </div>
 
+---
+
+## 3. Creation at Your Fingertips Heals a Fatigued Brain
+
+Modern individuals accumulate visual fatigue through passive web surfing or social media, leaving the brain drained. Adopt a tactile ritual like Matisse—even once a week—by using real scissors to cut colorful paper into freeform shapes and arranging them on a wall or notebook. This is an artistic mental detox therapy that restores sensory networks in the brain.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can beginners without artistic talent benefit from doing paper cut-outs?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Modern individuals accumulate visual fatigue through passive web surfing or soci
       Yes. Creating an artistic masterpiece is irrelevant. The core benefit lies in the brain receiving tactile stimulation from fine scissor movements and visual input from cutting vivid colors. This diverts pain and activates neuroplasticity regardless of how crude or distorted the shapes look.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What about using clay or a drawing app instead of paper cutting?</span>

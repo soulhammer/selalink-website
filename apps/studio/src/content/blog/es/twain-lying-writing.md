@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Es peligroso fuera de la cama? La rutina de escritura en la cama de Mark Twain para crear obras maestras"
 description: "Descubra el único hábito de escritura de Mark Twain, un gigante de la literatura estadounidense, que creó obras maestras reclinado en la cama tras el desayuno, y conozca los beneficios neurocientíficos creativos de la relajación física."
 pubDate: "2026-05-20"
@@ -34,14 +35,14 @@ Cada mañana, tras disfrutar de un abundante desayuno, en lugar de dirigirse a s
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre twain-lying-writing se basa en <strong>Biografías históricas y registros autobiográficos de la escritura en cama de Mark Twain e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de la escritura en cama de Mark Twain e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Pensamiento asociativo' que relaja el cerebro y conecta ideas
+## 1. 'Pensamiento asociativo' que relaja el cerebro y conecta ideas
 
 Cuando nos acostamos horizontalmente o nos reclinamos, la carga del corazón para mecer la sangre por todo el cuerpo se reduce significativamente en comparación con estar de pie o sentado. Esto aumenta el flujo sanguíneo cerebral, estabiliza la frecuencia cardíaca y estimula fuertemente el sistema nervioso parasimpático. Cuando el cuerpo se relaja por completo, el cerebro suprime la secreción de cortisol, la hormona del estrés.
 
@@ -49,9 +50,7 @@ El cerebro relajado se aleja de un estado de tensión (ondas beta) y emite abund
 
 ---
 
-## Mantenga su postura y evite las distracciones del teléfono inteligente
-
-Reclinarse en la cama puede ejercer una gran presión sobre la columna o el cuello, por lo que debe colocar varias almohadas firmes detrás de la espalda para sujetar la columna con firmeza y mantenerla recta. Además, para evitar que la comodidad de la cama se convierta en una vía de escape para navegar por las redes sociales, deje el teléfono móvil completamente fuera de su alcance antes de acostarse.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Reclinarse en la cama puede ejercer una gran presión sobre la columna o el cuel
     Calme su respiración en esta postura relajada y escriba los pensamientos que fluyen por su mente en su estado puro sin censurarlos lógicamente. Cualquier formato, como frases, dibujos o mapas mentales, es válido. Externalice sus pensamientos libremente durante al menos 15 minutos.
   </p>
 </div>
+
+---
+
+## 3. Mantenga su postura y evite las distracciones del teléfono inteligente
+
+Reclinarse en la cama puede ejercer una gran presión sobre la columna o el cuello, por lo que debe colocar varias almohadas firmes detrás de la espalda para sujetar la columna con firmeza y mantenerla recta. Además, para evitar que la comodidad de la cama se convierta en una vía de escape para navegar por las redes sociales, deje el teléfono móvil completamente fuera de su alcance antes de acostarse.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mit den Händen gelerntes Wissen wird nie vergessen: Peter des Großen Verfahrensgedächtnis-Training"
 description: "Erfahren Sie mehr über die morgendliche Praxis von Peter dem Großen, dem Reformzaren, der Schiffszimmermann wurde. Ein 3-Schritte-Leitfaden zur dauerhaften Aneignung von Fähigkeiten durch Stimulation des Verfahrensgedächtnisses."
 pubDate: "2026-03-18"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir die wissenschaftlichen Prinzipien hinter Peter
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu peter-early-labor basiert auf <strong>Peter Early Labor Historische Biografie & Autobiografische Aufzeichnungen & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Peter Early Labor Historische Biografie & Autobiografische Aufzeichnungen & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Der 'Verfahrensgedächtnis-Mechanismus', der das dauerhafte Gedächtnis aktiviert
+## 1. Der 'Verfahrensgedächtnis-Mechanismus', der das dauerhafte Gedächtnis aktiviert
 
 Die kognitive Neurowissenschaft unterscheidet zwischen deklarativem und verfahrensbezogenem Gedächtnis. Peters Routine aktivierte Kleinhirn und Basalganglien zur dauerhaften Verankerung von Fertigkeiten.
 
 ---
 
-## Ausgewogene Abstimmung zwischen Theorie und Praxis
-
-Das blinde Ausführen ohne theoretische Grundlagen behindert den Fortschritt. Balancieren Sie das Lernen: 20 % der Zeit für die Grundlagen und 80 % für die praktische Anwendung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Das blinde Ausführen ohne theoretische Grundlagen behindert den Fortschritt. Ba
     Nutzen Sie die verbleibenden 20 bis 30 Minuten, um Finger und Augen zu koordinieren und das Wissen im Kleinhirn einzuprägen. Halten Sie den Bewegungsfluss aufrecht.
   </p>
 </div>
+
+---
+
+## 3. Ausgewogene Abstimmung zwischen Theorie und Praxis
+
+Das blinde Ausführen ohne theoretische Grundlagen behindert den Fortschritt. Balancieren Sie das Lernen: 20 % der Zeit für die Grundlagen und 80 % für die praktische Anwendung.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

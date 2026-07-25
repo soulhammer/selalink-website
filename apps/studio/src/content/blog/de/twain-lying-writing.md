@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ist es außerhalb des Bettes gefährlich? Mark Twains Schreibroutine im Bett zur Erschaffung von Meisterwerken"
 description: "Entdecken Sie die einzigartige Schreibgewohnheit von Mark Twain, einem Giganten der amerikanischen Literatur, der nach dem Frühstück im Bett lehnend Meisterwerke schuf, und erfahren Sie mehr über die kreativen neurowissenschaftlichen Vorteile der körperlichen Entspannung."
 pubDate: "2026-05-20"
@@ -31,17 +32,17 @@ Jeden Morgen nach einem ausgiebigen Frühstück kehrte Twain, anstatt in sein Ar
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu twain-lying-writing basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen über Mark Twains Schreiben im Bett & kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen über Mark Twains Schreiben im Bett & kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Assoziatives Denken', das das Gehirn entspannt und Gedanken verbindet
+## 1. 'Assoziatives Denken', das das Gehirn entspannt und Gedanken verbindet
 
 Wenn wir waagerecht liegen oder uns anlehnen, wird die Belastung des Herzens, Blut durch den Körper zu pumpen, im Vergleich zum Stehen oder Sitzen erheblich verringert. Dies erhöht den zerebralen Blutfluss, stabilisiert die Herzfrequenz und stimuliert das Parasympathikus-Nervensystem stark. Wenn der Körper vollständig entspannt ist, unterdrückt das Gehirn die Ausschüttung von Cortisol.
 
@@ -49,9 +50,7 @@ Das entspannte Gehirn verlässt den Anspannungszustand (Betawellen) und sendet r
 
 ---
 
-## Stützen Sie Ihre Haltung und vermeiden Sie Smartphone-Ablenkungen
-
-Das Liegen im Bett kann die Wirbelsäule oder den Nacken stark belasten. Legen Sie daher mehrere feste Kissen hinter Ihren Rücken, um die Wirbelsäule gut zu stützen und gerade zu halten. Um zu verhindern, dass die Gemütlichkeit des Bettes zu einer Ausflucht wird, um gedankenlos in sozialen Medien zu scrollen, legen Sie Ihr Smartphone vor dem Hinlegen völlig außer Reichweite.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Das Liegen im Bett kann die Wirbelsäule oder den Nacken stark belasten. Legen S
     Beruhigen Sie Ihre Atmung in der entspannten Haltung und schreiben Sie die Gedanken, die Ihnen durch den Kopf gehen, unzensiert und roh auf. Jedes Format wie Sätze, Zeichnungen oder Mindmaps ist gut. Externalisieren Sie Ihre Gedanken mindestens 15 Minuten lang.
   </p>
 </div>
+
+---
+
+## 3. Stützen Sie Ihre Haltung und vermeiden Sie Smartphone-Ablenkungen
+
+Das Liegen im Bett kann die Wirbelsäule oder den Nacken stark belasten. Legen Sie daher mehrere feste Kissen hinter Ihren Rücken, um die Wirbelsäule gut zu stützen und gerade zu halten. Um zu verhindern, dass die Gemütlichkeit des Bettes zu einer Ausflucht wird, um gedankenlos in sozialen Medien zu scrollen, legen Sie Ihr Smartphone vor dem Hinlegen völlig außer Reichweite.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Completando la Teoría de la Evolución Caminando: La Rutina del 'Sandwalk' y la Incubación Cognitiva de Charles Darwin"
 description: "Descubra cómo el naturalista Charles Darwin recorría su sendero de grava 'Sandwalk', pateando piedras para contar vueltas mientras desentrañaba la teoría de la evolución. Explore la neurociencia cognitiva de la activación de la Red por Defecto (DMN) y la Incubación Cognitiva."
 pubDate: "2026-06-14"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre darwin-sandwalk se basa en <strong>Verificación Histórica de la Autobiografía de Charles Darwin *Autobiografía de Charles Darwin (The Autobiography of Charles Darwin)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Charles Darwin *Autobiografía de Charles Darwin (The Autobiography of Charles Darwin)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación de la Red por Defecto (DMN) e Incubación Cognitiva Mediante el Anclaje Físico
+## 1. Activación de la Red por Defecto (DMN) e Incubación Cognitiva Mediante el Anclaje Físico
 
 Realizar una caminata aeróbica ligera utilizando un anclaje físico sencillo (patear piedras para contar vueltas) desacopla la Red Ejecutiva Central (CEN) y activa la Red por Defecto (DMN). Externalizar el recuento de vueltas en piedras físicas ahorra memoria de trabajo (RAM). Como resultado, el cerebro experimenta la 'Incubación Cognitiva': un proceso en el que las observaciones dispersas se recombinan espontáneamente en el subconsciente, resolviendo paradojas complejas.
 
 ---
 
-## Precauciones y Consejos: Aislar los Estímulos Digitales y Bloquear Bucles de Rumia
-
-Durante una caminata de pensamiento, evite que su cerebro caiga en bucles de ansiedad o rumia emocional. Establezca un anclaje físico mínimo —como patear una piedra o doblar un dedo por vuelta— para vincular su atención. Silencie por completo los teléfonos. Dirigir la atención a los pasos y al entorno natural permite que la DMN y la incubación cognitiva funcionen sin obstáculos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Durante una caminata de pensamiento, evite que su cerebro caiga en bucles de ans
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Aislar los Estímulos Digitales y Bloquear Bucles de Rumia
+
+Durante una caminata de pensamiento, evite que su cerebro caiga en bucles de ansiedad o rumia emocional. Establezca un anclaje físico mínimo —como patear una piedra o doblar un dedo por vuelta— para vincular su atención. Silencie por completo los teléfonos. Dirigir la atención a los pasos y al entorno natural permite que la DMN y la incubación cognitiva funcionen sin obstáculos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿En qué consistía exactamente la rutina del 'Sandwalk' de Charles Darwin?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Durante una caminata de pensamiento, evite que su cerebro caiga en bucles de ans
       El Sandwalk era un sendero circular de grava y tierra construido por Darwin alrededor de su casa en Kent. Lo recorría a diario, usando pequeñas piedras para contar vueltas automáticamente y reducir la carga de la memoria de trabajo mientras ordenaba 'El origen de las especies'.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Debo forzar activamente mi mente a pensar en el problema mientras camino?</span>

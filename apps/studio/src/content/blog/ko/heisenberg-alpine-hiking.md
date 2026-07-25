@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "자연이 준 불확정성의 힌트: 하이젠베르크의 알프스 하이킹 습관과 DMN 인큐베이션 루틴"
 description: "양자역학의 난제를 풀기 위해 바이에른 알프스를 홀로 하이킹하며 생각에 잠겼던 베르너 하이젠베르크. 자연 속 걷기가 뇌의 주의력을 회복시키고 기본 모드 네트워크(DMN)의 창조적 인큐베이션(부화)을 유도하는 과학적 원리를 알아봅니다."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>베르너 하이젠베르크 자서전 『부분과 전체(Der Teil und das Ganze)』 및 바이에른 학술원(Bayerische Akademie der Wissenschaften) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구</strong>에 근거하여 heisenberg-alpine-hiking 루틴을 다룹니다.
+      본 콘텐츠는 <strong>베르너 하이젠베르크 자서전 『부분과 전체(Der Teil und das Ganze)』 및 바이에른 학술원(Bayerische Akademie der Wissenschaften) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 환경심리학(Environmental Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 주의 회복 이론(ART)과 기본 모드 네트워크(DMN)의 인지적 부화
+## 1. 주의 회복 이론(ART)과 기본 모드 네트워크(DMN)의 인지적 부화
 
 모니터 화면과 숫자에 장시간 집중할 때, 뇌는 의지적 주의력(Directed Attention) 자원을 소모하여 주의력 피로 상태에 빠집니다. 하이젠베르크처럼 우거진 자연을 등산하며 걸을 때, 인지과학의 <strong>'주의 회복 이론(Attention Restoration Theory, ART)'</strong>이 작동합니다. 자연의 <strong>부드러운 매혹(Soft Fascination)</strong> 자극은 의지적 뇌 활동을 쉬게 하고 전두엽의 긴장을 풀어줍니다. 이때 뇌의 잠재의식적 처리 경로인 <strong>'기본 모드 네트워크(Default Mode Network, DMN)'</strong>가 기동되어, 얽혀 있던 복잡한 수학 공식과 개념의 조각들을 무의식 속에서 재정렬하는 <strong>'인지적 부화(Cognitive Incubation)'</strong>가 일어나 결정적인 창의적 통찰을 이끌어냅니다.
 
 ---
 
-## 디지털 자극을 차단하고 무의식적 부화를 이끄는 산림 하이킹 수칙
-
-산림 하이킹을 통한 사색을 진행할 때 주의해야 할 최악의 방해 요인은 스마트폰으로 팟캐스트를 듣거나 이메일을 확인하는 것입니다. 자연 속에 있으면서도 디지털 화면에 자발적 주의력을 지속해서 소모한다면 뇌의 주의력 회복과 DMN의 무의식적 부화는 완전히 차단됩니다. 스마트폰을 비행기 모드로 전환하고, 오직 자연의 소리와 발걸음의 진동에 온전히 집중해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 디지털 자극을 차단하고 무의식적 부화를 이끄는 산림 하이킹 수칙
+
+산림 하이킹을 통한 사색을 진행할 때 주의해야 할 최악의 방해 요인은 스마트폰으로 팟캐스트를 듣거나 이메일을 확인하는 것입니다. 자연 속에 있으면서도 디지털 화면에 자발적 주의력을 지속해서 소모한다면 뇌의 주의력 회복과 DMN의 무의식적 부화는 완전히 차단됩니다. 스마트폰을 비행기 모드로 전환하고, 오직 자연의 소리와 발걸음의 진동에 온전히 집중해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>도심에 거주하여 하이킹이나 산행을 가기 힘들 때는 어떻게 대체하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       도심 속 공원이나 가로수길을 스마트폰 없이 자연 풍경을 탐색하며 30분 이상 걷는 것으로 대체할 수 있습니다. 야외 활동을 통한 시공간 감각 자극과 뇌혈류 활성화가 핵심입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>하이킹 중 떠오른 아이디어를 잊지 않고 기록하는 팁이 있나요?</span>

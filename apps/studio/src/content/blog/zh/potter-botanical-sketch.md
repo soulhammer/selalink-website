@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "《彼得兔》作者的秘密？碧雅翠丝·波特的清晨微观自然观察惯例"
 description: "《彼得兔》作者碧雅翠丝·波特每天清晨用放大镜细致观察植物与苔藓的微观结构，清空杂念并孕育艺术灵感的大脑科学习惯。"
 pubDate: "2026-05-15"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 potter-botanical-sketch 的内容基于 <strong>碧雅翠丝·波特历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>碧雅翠丝·波特历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过微观焦点专注（Micro-focused attention）阻断DMN漫游与强化执行控制
+## 1. 通过微观焦点专注（Micro-focused attention）阻断DMN漫游与强化执行控制
 
 当大脑因过去的后悔或未来的担忧而分心时，是因为默认模式网络（DMN）过度活跃并陷入漫游。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 切勿好高骛远，请专注于眼前的某处微观纹理
-
-此观察惯例的核心并非绘制宏大的艺术素描。其疗愈力量在于如同透过放大镜般，微观探索一片叶子、一支铅笔尖或手背肌肤纹理的专注过程本身。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 切勿好高骛远，请专注于眼前的某处微观纹理
+
+此观察惯例的核心并非绘制宏大的艺术素描。其疗愈力量在于如同透过放大镜般，微观探索一片叶子、一支铅笔尖或手背肌肤纹理的专注过程本身。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>即便我不擅长绘画，也需要画素描吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       不需要！用文字记录下发现的特征与画画相比，在大脑专注与沉浸效果上是100%相同的。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>可以在办公室或室内用人工物品替代自然物吗？</span>

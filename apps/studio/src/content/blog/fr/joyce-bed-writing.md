@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Écrire au lit avec des crayons de couleur bleus : La routine d'écriture d'économie d'énergie et de soulagement de la fatigue du cortex visuel primaire (V1) de James Joyce"
 description: "Découvrez comment James Joyce a conçu des chefs-d'œuvre littéraires allongé dans son lit malgré de graves pathologies oculaires. Explorez la neuroscience de la réduction de la charge musculaire gravitationnelle, du soulagement de la fatigue du cortex visuel primaire (V1) et de l'optimisation de l'énergie préfrontale."
 pubDate: "2026-04-10"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant joyce-bed-writing est basée sur <strong>Vérification Historique issue de la biographie de Richard Ellmann *James Joyce*, des archives de Joyce & de la Recherche en Neurosciences Cognitives et Perception Visuelle</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Richard Ellmann *James Joyce*, des archives de Joyce & de la Recherche en Neurosciences Cognitives et Perception Visuelle</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Réduction de la charge musculaire gravitationnelle et soulagement de la fatigue du cortex visuel primaire (V1)
+## 1. Réduction de la charge musculaire gravitationnelle et soulagement de la fatigue du cortex visuel primaire (V1)
 
 S'allonger ou s'adosser confortablement réduit la tension musculaire et stabilise le rythme cardiaque, minimisant la dépense d'énergie physique. Cela permet d'orienter le flux sanguin oxygéné vers le <strong>Cortex Préfrontal</strong>. De plus, utiliser des feutres bleus larges à fort contraste sous une lumière indirecte facilite le traitement dans le <strong>Cortex Visuel Primaire (V1)</strong>, réduisant la <strong>Fatigue Visuelle</strong>.
 
 ---
 
-## Mise en garde : Écouter les signaux de fatigue physique et amplifier le contraste visuel
-
-Pour James Joyce, écrire au lit constituait una adaptation remarquable pour surmonter ses limites physiques. Quand la fatigue physique ou oculaire est forte, évitez de vous forcer a rester assis sur una chaise dure. Adossez-vous a des coussins et notez vos idées avec de larges feutres sur du papier vierge.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour James Joyce, écrire au lit constituait una adaptation remarquable pour sur
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Écouter les signaux de fatigue physique et amplifier le contraste visuel
+
+Pour James Joyce, écrire au lit constituait una adaptation remarquable pour surmonter ses limites physiques. Quand la fatigue physique ou oculaire est forte, évitez de vous forcer a rester assis sur una chaise dure. Adossez-vous a des coussins et notez vos idées avec de larges feutres sur du papier vierge.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi James Joyce portait-il un manteau blanc lorsqu'il écrivait au lit ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour James Joyce, écrire au lit constituait una adaptation remarquable pour sur
       Le manteau blanc agissait comme un réflecteur de lumière naturel renvoyant la clarté sur le papier sans éblouissement. Il constituait un outil d'éclairage analogique permettant a ses yeux abîmés de mieux distinguer les mots.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Travailler allongé au lit ou sur un canapé ne risque-t-il pas de provoquer la somnolence ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Assise sur les rochers aux côtés des chimpanzés pour observer et consigner : La routine d'immersion et d'attention sélective de Jane Goodall"
 description: "Découvrez comment l'éthologue Jane Goodall a obtenu des avancées scientifiques en observant les chimpanzés dans la jungle de Gombe. Explorez la neuroscience de l'activation du cortex d'association sensorielle et de l'attention sélective."
 pubDate: "2026-05-09"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente a la rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant jane-goodall est basée sur <strong>Vérification Historique issue de l'autobiographie de Jane Goodall *Raison d'espérer (Reason for Hope)*, des archives du Gombe Stream Research Centre & de la Recherche en Neurosciences Cognitives et Éthologie</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Jane Goodall *Raison d'espérer (Reason for Hope)*, des archives du Gombe Stream Research Centre & de la Recherche en Neurosciences Cognitives et Éthologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation du cortex d'association sensorielle et attention sélective
+## 1. Stimulation du cortex d'association sensorielle et attention sélective
 
 S'entraîner à observer un sujet en silence sans intervenir stimule le <strong>Cortex d'association sensorielle</strong> et les réseaux d'<strong>Attention sélective</strong>. Structurer des données sensorielle sous forme de notes manuscrites affine la précision sensorielle en filtrant le bruit ambiant. Ce conditionnement neuronal développe la <strong>Capacité perceptive intuitive (Insightful Perceptual Ability)</strong> pour détecter des indices subtils et des tendances émergentes.
 
 ---
 
-## Mise en garde : Éliminer les jugements subjectifs pour se concentrer sur les données objectives
-
-Ne vous empressez pas d'évaluer, de qualifier ou de classer le sujet. L'essentiel est d'écarter toute interprétation subjective ou préjugé, en absorbant la profondeur physique, les contrastes de lumière et les textures pour nettoyer les récepteurs sensoriels.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ne vous empressez pas d'évaluer, de qualifier ou de classer le sujet. L'essenti
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer les jugements subjectifs pour se concentrer sur les données objectives
+
+Ne vous empressez pas d'évaluer, de qualifier ou de classer le sujet. L'essentiel est d'écarter toute interprétation subjective ou préjugé, en absorbant la profondeur physique, les contrastes de lumière et les textures pour nettoyer les récepteurs sensoriels.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Puis-je remplacer l'observation directe par une photo prise sur smartphone pour l'analyser plus tard ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ne vous empressez pas d'évaluer, de qualifier ou de classer le sujet. L'essenti
       Non. Les images sur écran sont des grilles de pixels en 2D qui ne sollicitent pas les réseaux de perception en 3D. Vous devez décoder la profondeur et les textures réelles a l'œil nu pour stimuler la plasticité neuronale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Dois-je observer uniquement des objets statiques ou puis-je observer des sujets en mouvement ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "무의식의 창의성을 깨우는 10단어 연상법: 레이 브래드버리의 확산적 사고 루틴"
 description: "현대 공상과학(SF) 문학의 대부 레이 브래드버리가 매일 아침 무작위 이종 단어 10개를 적어 초단편 스토리를 연상해 낸 루틴. 무의식의 연상 고리를 자극해 확산적 사고와 창의성을 극대화하는 신경과학적 원리를 밝힙니다."
 pubDate: "2026-06-16"
@@ -10,7 +11,7 @@ app: "buildself"
 formatVersion: 4
 authority: "레이 브래드버리 에세이 『글쓰기의 선(Zen in the Art of Writing)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
-  - name: "1단계: 무작위 이종 단어(3~10개) 추출 및 나열"
+  - name: "1단계: 무작위 이종 단어(3 ~ 10개) 추출 및 나열"
     text: "아침 기상 직후나 업무 시작 전, 눈앞의 사물이나 무작위 명사 3 ~ 10개(예: 거울, 엔진, 고래, 나침반 등)를 아무런 법칙 없이 백지에 무작위로 적습니다."
   - name: "2단계: 이종 단어들의 강제 결합 및 미시 시나리오 직조"
     text: "선택된 단어들을 1분간 응시한 뒤, 이들을 강제로 연결하여 3문장 이내의 짧은 기획 아이디어나 비즈니스 시나리오, 초단편 스토리를 2분 이내에 순발력 있게 작성합니다."
@@ -18,7 +19,7 @@ steps:
     text: "작성한 짧은 아이디어 조각을 메모장에 보관해 두고, 뇌의 유연한 연상 신경망을 상쾌하게 깨운 상태에서 즉시 하루의 본격적인 주요 업무에 들어갑니다."
 faqs:
   - question: "매일 아침 연상 글쓰기 루틴을 반드시 실천해야 하나요?"
-    answer: "아침 기상 직후 무의식이 활성화된 시간에 단어 연상을 수행하는 것이 신경학적으로 가장 효과적입니다. 다만 주 3~4회 정도로 시작하더라도 뇌의 확산적 사고 회로를 단련하고 창의적 통찰력을 깨우는 데 충분한 효과를 발휘합니다."
+    answer: "아침 기상 직후 무의식이 활성화된 시간에 단어 연상을 수행하는 것이 신경학적으로 가장 효과적입니다. 다만 주 3 ~ 4회 정도로 시작하더라도 뇌의 확산적 사고 회로를 단련하고 창의적 통찰력을 깨우는 데 충분한 효과를 발휘합니다."
   - question: "주변에 단어 카드나 백지가 없을 때는 어떻게 대체할 수 있나요?"
     answer: "임의의 책을 아무 페이지나 펼쳐 눈에 가장 먼저 띄는 명사 3개를 추출하거나, 온라인 무작위 단어 생성기(Random Word Generator) 또는 스마트폰 메모장 앱을 활용해도 완전하게 동일한 인지 연상 효과를 얻을 수 있습니다."
 ---
@@ -35,30 +36,28 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>레이 브래드버리 에세이 『글쓰기의 선(Zen in the Art of Writing)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 bradbury 루틴을 다룹니다.
+      본 콘텐츠는 <strong>레이 브래드버리 에세이 『글쓰기의 선(Zen in the Art of Writing)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 확산적 사고(Divergent Thinking) 회로의 활성화와 임의 연상 작용
+## 1. 확산적 사고(Divergent Thinking) 회로의 활성화와 임의 연상 작용
 
 서로 무관한 이종의 개념들을 강제로 연결하는 작업은 대뇌 전전두엽의 '확산적 사고(Divergent Thinking)' 회로를 강력하게 자극합니다. 기상 직후 전전두엽의 하향식 제어(Top-down Control) 필터가 아직 완벽히 작동하지 않는 인지적 공백기에는, 무의식 영역에 잠들어 있던 시냅스 간 유기적 결합(Combinatorial Play)이 훨씬 쉽게 이루어집니다. 무작위 단어가 주는 낯선 인지적 충격은 뇌의 측두엽 및 연합 피질 네트워크를 일깨워 기존의 고정관념을 깨고 파격적인 비즈니스 아이디어나 창의적 해결책을 도출하도록 돕습니다.
 
 ---
 
-## 주의사항 및 팁: 완벽주의 배제와 연결 흐름에의 완전한 몰입
-
-이 루틴을 수행할 때 단어 연상을 처음부터 세련되고 완벽한 문장이나 완성도 높은 작문으로 이끌려 애쓰지 마세요. 문법적 정교함이나 문장의 매끄러움에 신경 쓰는 순간 전두엽의 검열 필터가 개입하여 무의식의 연상 고리가 차단됩니다. 무작위 단어가 주는 낯선 인지적 충격을 머릿속에서 속도감 있게 강제 조립해 나가는 사유의 '연상 과정 자체'에만 오롯이 몰입하는 것이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 무작위 이종 단어(3~10개) 추출 및 나열</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1단계: 무작위 이종 단어(3 ~ 10개) 추출 및 나열</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     아침 기상 직후나 업무 시작 전, 눈앞의 사물이나 무작위 명사 3 ~ 10개(예: 거울, 엔진, 고래, 나침반 등)를 아무런 법칙 없이 백지에 무작위로 적습니다.
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 완벽주의 배제와 연결 흐름에의 완전한 몰입
+
+이 루틴을 수행할 때 단어 연상을 처음부터 세련되고 완벽한 문장이나 완성도 높은 작문으로 이끌려 애쓰지 마세요. 문법적 정교함이나 문장의 매끄러움에 신경 쓰는 순간 전두엽의 검열 필터가 개입하여 무의식의 연상 고리가 차단됩니다. 무작위 단어가 주는 낯선 인지적 충격을 머릿속에서 속도감 있게 강제 조립해 나가는 사유의 '연상 과정 자체'에만 오롯이 몰입하는 것이 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>매일 아침 연상 글쓰기 루틴을 반드시 실천해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       아침 기상 직후 무의식이 활성화된 시간에 단어 연상을 수행하는 것이 신경학적으로 가장 효과적입니다. 다만 주 3 ~ 4회 정도로 시작하더라도 뇌의 확산적 사고 회로를 단련하고 창의적 통찰력을 깨우는 데 충분한 효과를 발휘합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>주변에 단어 카드나 백지가 없을 때는 어떻게 대체할 수 있나요?</span>

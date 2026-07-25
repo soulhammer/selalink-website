@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Membangunkan Ejaan Telapak Tangan di Dalam Kegelapan: Pelatihan Imitasi Taktil dan Rutinitas Plastisitas Somatosensori Helen Keller"
 description: "Pelajari bagaimana Helen Keller, yang mengatasinya tuna netra-rungu hingga menjadi penulis dan aktivis hak asasi manusia ternama dunia, memperluas alam pikirannya dengan menstimulasi korteks somatosensori melalui ejaan taktil telapak tangan."
 pubDate: "2026-03-12"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai helen-keller didasarkan pada <strong>Verifikasi Historis dari Autobiografi Helen Keller *The Story of My Life*, Arsip Sekolah Perkins untuk Tunanetra & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Helen Keller *The Story of My Life*, Arsip Sekolah Perkins untuk Tunanetra & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Korteks Somatosensori dan Plastisitas Saraf Lintas-Modal
+## 1. Stimulasi Korteks Somatosensori dan Plastisitas Saraf Lintas-Modal
 
 Memejamkan mata untuk menghilangkan gangguan visual dan mengandalkan pemetaan taktil meningkatkan <strong>Plastisitas Saraf</strong> di dalam <strong>Korteks Somatosensori</strong>. Seiring meningkatnya resolusi taktil, otak mengisolasi pola-pola struktural penting tanpa gangguan visual, secara dramatis mempertajam resolusi <strong>Metakognitif</strong>.
 
 ---
 
-## Perhatian: Memblokir Kebisingan Visual untuk Berfokus Secara Eksklusif pada Lintasan Taktil Kulit
-
-Jangan merumitkan latihan ini dengan mencoba sesi yang panjang. Persyaratan utamanya adalah meluangkan waktu 2 menit dengan mata terpejam, memblokir kebisingan visual eksternal, dan memusatkan seluruh kesadaran sensorik pada ujung jari dan telapak tangan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jangan merumitkan latihan ini dengan mencoba sesi yang panjang. Persyaratan utam
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Memblokir Kebisingan Visual untuk Berfokus Secara Eksklusif pada Lintasan Taktil Kulit
+
+Jangan merumitkan latihan ini dengan mencoba sesi yang panjang. Persyaratan utamanya adalah meluangkan waktu 2 menit dengan mata terpejam, memblokir kebisingan visual eksternal, dan memusatkan seluruh kesadaran sensorik pada ujung jari dan telapak tangan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah pelatihan sensorik ujung jari secara langsung meningkatkan penyandian memori jangka panjang?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jangan merumitkan latihan ini dengan mencoba sesi yang panjang. Persyaratan utam
       Ya, tentu saja. Mendekode tekstur mikro taktil yang halus membutuhkan ko-aktivasi sinaptik yang lebih padat di seluruh lobus prefrontal dan parietal dibandingkan mengolah masukan visual atau auditori, secara signifikan meningkatkan kedalaman memori.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus saya lakukan jika kulit kering mengurangi sensitivitas taktil saya?</span>

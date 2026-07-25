@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le philosophe né esclave qui enseignait d'ignorer l'incontrôlable : La routine de réflexion nocturne de la dichotomie du contrôle d'Épictète"
 description: "Découvrez comment Épictète, le maître stoïcien né esclave, a éliminé l'anxiété quotidienne en divisant strictement la réalité entre ce qui dépend de nous et ce qui n'en dépend pas. Explorez sa méthode de journal nocturne via la neuroscience cognitive."
 pubDate: "2026-05-15"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la r�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant epictetus-dichotomy-control est basée sur <strong>Vérification Historique issue des *Entretiens* et du *Manuel* d'Épictète & Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des *Entretiens* et du *Manuel* d'Épictète & Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Internalisation du lieu de contrôle et réduction du cortisol dans l'amygdale
+## 1. Internalisation du lieu de contrôle et réduction du cortisol dans l'amygdale
 
 Le stress chronique naît de l'impuissance ressentie lorsque le cerveau s'obstine sur des variables externes incontrôlables (réactions d'autrui, passé). La dichotomie du contrôle d'Épictète déplace le « Lieu de contrôle » de l'extérieur vers l'intérieur. En actant et en lâchant prise sur l'incontrôlable, le cortex préfrontal calme l'hyperactivité de l'amygdale et réduit considérablement le niveau de cortisol.
 
 ---
 
-## Mise en garde : Votre responsabilité s'arrête à vos propres actions
-
-Se blâmer lorsque les résultats sont défavorables — malgré tous vos efforts — plonge le cerveau dans l'épuisement mental. Votre responsabilité s'arrête à votre effort conscient ; le résultat final appartient aux circonstances.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Se blâmer lorsque les résultats sont défavorables — malgré tous vos effort
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Votre responsabilité s'arrête à vos propres actions
+
+Se blâmer lorsque les résultats sont défavorables — malgré tous vos efforts — plonge le cerveau dans l'épuisement mental. Votre responsabilité s'arrête à votre effort conscient ; le résultat final appartient aux circonstances.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il vraiment impossible de contrôler l'attitude ou la réaction d'autrui ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Se blâmer lorsque les résultats sont défavorables — malgré tous vos effort
       Oui, absolument. Votre contrôle s'arrête à votre tentative sincère d'agir ; la réaction de l'autre dépend à 100 % de lui. Accepter cette frontière dissout le stress relationnel.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ne pas se soucier des résultats ne diminue-t-il pas la passion ou la motivation ?</span>

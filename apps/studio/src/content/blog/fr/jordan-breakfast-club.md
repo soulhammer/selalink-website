@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Configuration mentale imbattable à 6h du matin : Le Breakfast Club de Michael Jordan et l'effet gagnant"
 description: "Découvrez comment la légende du basket-ball Michael Jordan a dépassé ses limits physiques et mentales grâce au 'Breakfast Club' de 6h du matin. Explorez la neuroscience de l'effet gagnant, des pics de dopamine et de testostérone, et un guide en 3 étapes."
 pubDate: "2026-01-16"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive et la physiologie de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant jordan-breakfast-club est basée sur <strong>Vérification Historique issue de l'autobiographie de Michael Jordan *Driven from Within*, des biographies & de la Recherche en Neurosciences Cognitives et Physiologie de l'Exercice</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Michael Jordan *Driven from Within*, des biographies & de la Recherche en Neurosciences Cognitives et Physiologie de l'Exercice</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'Effet Gagnant et la neuroscience des pics de dopamine et de testostérone
+## 1. L'Effet Gagnant et la neuroscience des pics de dopamine et de testostérone
 
 Réussir un défi physique exigeant dès le début de la journée incitera le cerveau a sécréter de la <strong>dopamine</strong> et de la <strong>testostérone</strong>. Ce processus enclenche l'<strong>Effet Gagnant (Winner Effect)</strong>, une boucle de rétroaction élevant l'initiative et la confiance au quotidien. De plus, s'entraîner et partager un repas avec ses pairs stimule l'<strong>oxytocine</strong>, renforçant la cohésion et la régularité du rituel.
 
 ---
 
-## Mise en garde : Réduire la friction préfrontale sans se fier a l'humeur matinale
-
-La clé pour maintenir una routine matinale est d'agir de manière automatique sans dépendre de son humeur. Ne laissez pas à votre cerveau le temps d'hésiter entre se rendormir ou se lever. Dès la sonnerie, mettez votre corps en mouvement pour réduire la friction cognitive préfrontale et préserver votre énergie.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La clé pour maintenir una routine matinale est d'agir de manière automatique s
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Réduire la friction préfrontale sans se fier a l'humeur matinale
+
+La clé pour maintenir una routine matinale est d'agir de manière automatique sans dépendre de son humeur. Ne laissez pas à votre cerveau le temps d'hésiter entre se rendormir ou se lever. Dès la sonnerie, mettez votre corps en mouvement pour réduire la friction cognitive préfrontale et préserver votre énergie.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment les personnes couche-tard peuvent-elles adapter cette routine sans souffrir ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La clé pour maintenir una routine matinale est d'agir de manière automatique s
       L'essentiel ne réside pas dans l'horaire précis de 6h00, mais dans 'l'effort physique intense accompli dès le réveil'. Quelle que soit votre heure de lever, effectuer un entraînement stimulant au réveil procure des pics hormonaux et des bénéfices psychologiques identiques.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Un entraînement quotidien haute intensité ne risque-t-il pas de provoquer un surentraînement ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Satu Kata yang Membangun IBM: Rutinitas Berpikir Hening 15 Menit Thomas Watson"
 description: "Pelajari metode berpikir pendiri IBM, Thomas Watson, yang menggantung tanda 'THINK' di setiap kantor dan menghabiskan 15 menit sehari dalam perenungan hening. Menjelaskan bagaimana pemutusan hubungan secara sengaja merapikan memori jangka panjang."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami menyajikan mekanisme ilmiah dari 'rutinitas peren
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai watson-think-sign didasarkan pada <strong>Biografi historis dan catatan autobiografi Thomas Watson & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi Thomas Watson & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengapa Pemutusan Hubungan Inaktif Meningkatkan Kapasitas Intelektual
+## 1. Mengapa Pemutusan Hubungan Inaktif Meningkatkan Kapasitas Intelektual
 
 Ketika otak secara konstan bereaksi terhadap stimulasi yang masuk, ia kekurangan ruang untuk konsolidasi memori dan perencanaan. Dengan memutus input dan melakukan perenungan, otak menstabilkan <strong>Jaringan Saliensi (Salience Network)</strong>.
 
 ---
 
-## Peringatan dan Tips
-
-Agar pelatihan perenungan ini berhasil, tanda fisik yang jelas yang berfungsi sebagai <strong>Prompt Visual</strong> harus ada di ruang kerja Anda. Tanpa petunjuk visual, otak kembali ke inersia (memeriksa email atau berselancar di internet).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Agar pelatihan perenungan ini berhasil, tanda fisik yang jelas yang berfungsi se
     Tanpa menggunakan alat tulis, persempit fokus mental Anda sepenuhnya pada satu masalah paling menantang dan berdampak besar yang harus diselesaikan hari ini.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Agar pelatihan perenungan ini berhasil, tanda fisik yang jelas yang berfungsi sebagai <strong>Prompt Visual</strong> harus ada di ruang kerja Anda. Tanpa petunjuk visual, otak kembali ke inersia (memeriksa email atau berselancar di internet).
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

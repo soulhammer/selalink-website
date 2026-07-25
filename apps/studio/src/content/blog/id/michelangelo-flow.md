@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pematung yang Tidak Melepas Pakaian Selama Berminggu-minggu? Kebiasaan Imersi Ekstrem (Flow) Michelangelo"
 description: "Michelangelo Buonarroti, maestro tertinggi Renaisans. Pelajari kebiasaan penghematan energi kognitifnya dengan tidur sejenak tetap berpakaian dan sepatu bot saat memahat David dan langit-langit Kapel Sistina, serta cara merancang fokus ekstrem."
 pubDate: "2026-03-22"
@@ -33,25 +34,23 @@ Dalam artikel ini, kita mempelajari ilmu kognitif di balik minimisasi ritual har
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai michelangelo-flow didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Michelangelo & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Michelangelo & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Meminimalkan Kelelahan Keputusan dan Menjaga Sumber Daya Kognitif
+## 1. Meminimalkan Kelelahan Keputusan dan Menjaga Sumber Daya Kognitif
 
 Ilmu perilaku modern mendefinisikan habisnya energi mental kendali diri akibat pilihan harian sepele sebagai 'Ego Depletion' atau 'Kelelahan Keputusan' (Decision Fatigue). Memutuskan apa yang akan dikenakan atau dimakan setiap pagi menguras pusat kendali eksekutif otak. Dengan mengisolasi diri dan meminimalkan keputusan sepele, Michelangelo menjaga 100% energi mentalnya khusus untuk penciptaan karya.
 
 ---
 
-## Kejeniusan Memuncak Saat Energi Terfokus Hanya pada Hal Inti
-
-Michelangelo mendorong dirinya hingga batas ekstrem agar alur fokusnya tidak terputus hingga pemahatan selesai. Di era kelebihan informasi saat ini, daripada menghabiskan energi otak untuk pilihan tak berujung, bangunlah benteng kognitif untuk melindungi tugas terpenting Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Michelangelo mendorong dirinya hingga batas ekstrem agar alur fokusnya tidak ter
   </p>
 </div>
 
+---
+
+## 3. Kejeniusan Memuncak Saat Energi Terfokus Hanya pada Hal Inti
+
+Michelangelo mendorong dirinya hingga batas ekstrem agar alur fokusnya tidak terputus hingga pemahatan selesai. Di era kelebihan informasi saat ini, daripada menghabiskan energi otak untuk pilihan tak berujung, bangunlah benteng kognitif untuk melindungi tugas terpenting Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Michelangelo tidur tanpa melepas pakaian atau sepatu botnya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Michelangelo mendorong dirinya hingga batas ekstrem agar alur fokusnya tidak ter
       Karena ia menolak memutus kondisi fokusnya yang sangat sensitif. Dengan menghilangkan transisi harian sepele (berganti pakaian, mandi, tidur lama), ia menyalurkan alur fokus kreatifnya secara terus-menerus langsung ke pahatannya.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa saja tips praktis untuk mengurangi kelelahan keputusan dalam kehidupan sehari-hari modern?</span>

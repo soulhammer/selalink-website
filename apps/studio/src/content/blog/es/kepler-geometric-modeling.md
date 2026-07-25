@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Esculpir Modelos 3D en Lugar de Fórmulas: La Rutina de 'Visualización Espacial Háptica' y Activación del Lóbulo Parietal de Johannes Kepler"
 description: "Descubra cómo el astrónomo del siglo XVII Johannes Kepler comprendió las órbitas planetarias esculpiendo modelos geométricos en 3D. Explore la neurociencia de la visualización háptica, la estimulación del lóbulo parietal y la reducción de la sobrecarga cognitiva."
 pubDate: "2026-06-24"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre kepler-geometric-modeling se basa en <strong>Verificación Histórica de *Mysterium Cosmographicum* (1596) de Johannes Kepler, Archivos de Kepler e Investigación en Neurociencia Cognitiva y Cognición Espacial</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Mysterium Cosmographicum* (1596) de Johannes Kepler, Archivos de Kepler e Investigación en Neurociencia Cognitiva y Cognición Espacial</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación Espacial del Lóbulo Parietal y Reducción de la Sobrecarga Cognitiva Prefrontal
+## 1. Estimulación Espacial del Lóbulo Parietal y Reducción de la Sobrecarga Cognitiva Prefrontal
 
 Intentar procesar leyes espaciales complejas o arquitecturas de sistemas mediante fórmulas abstractas agota la memoria de trabajo, provocando una rápida <strong>Sobrecarga Cognitiva (Cognitive Overload)</strong>. Manipular objetos físicos en 3D estimula el <strong>Lóbulo Parietal</strong> y las cortezas de asociación. Procesar la <strong>Entrada Háptica (Haptic Input)</strong> de las yemas de los dedos junto con la vista convierte datos abstractos en estructuras espaciales intuitivas, impulsando la <strong>Razonamiento Espacial (Spatial Reasoning)</strong>.
 
 ---
 
-## Precaución: Pase de los Bloqueos Mentales a la Manipulación Física Multisensorial
-
-Cuando enfrente un bloqueo al planificar arquitecturas de software, procesos de negocio o diseños complejos, evite forzar el pensamiento abstracto. Apague la pantalla y manipule notas adhesivas, bloques o tarjetas sobre su escritorio; cambiar de dimensión espacial libera la intuición del cerebro.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Cuando enfrente un bloqueo al planificar arquitecturas de software, procesos de 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Pase de los Bloqueos Mentales a la Manipulación Física Multisensorial
+
+Cuando enfrente un bloqueo al planificar arquitecturas de software, procesos de negocio o diseños complejos, evite forzar el pensamiento abstracto. Apague la pantalla y manipule notas adhesivas, bloques o tarjetas sobre su escritorio; cambiar de dimensión espacial libera la intuición del cerebro.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué estructura geométrica específica esculpió Johannes Kepler para su modelo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Cuando enfrente un bloqueo al planificar arquitecturas de software, procesos de 
       Kepler esculpió modelos de los cinco sólidos platónicos (tetraedro, cubo, octaedro, dodecaedro, icosaedro) anidados secuencialmente dentro de esferas concéntricas que representaban las órbitas planetarias. Este modelo le permitía verificar las proporciones espaciales entre los planetas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo practicar esta rutina si no tengo bloques o modelos en 3D?</span>

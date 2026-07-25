@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Schreibtischgeheimnis des Nobelpreisträgers: Márquez' Gelbe-Rosen-Routine"
 description: "Warum Gabriel García Márquez, Autor von 'Hundert Jahre Einsamkeit', jeden Morgen eine gelbe Rose auf seinen Schreibtisch stellte. Untersucht, wie ein visuelles Ritual das Gehirn entspannt und Kreativität anregt."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Im heutigen Beitrag analysieren wir die wissenschaftlichen Prinzipien hinter Má
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu marquez-yellow-rose basiert auf <strong>Historische Prüfung von Gabriel García Márquez' Biografien & kognitionswissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Prüfung von Gabriel García Márquez' Biografien & kognitionswissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Warum visuelle Rituale Kreativität und innere Ruhe schenken
+## 1. Warum visuelle Rituale Kreativität und innere Ruhe schenken
 
 Das visuelle Platzieren und Betrachten einer bestimmten Farbe oder eines Natur-Objekts (wie einer gelben Rose) sendet dem Gehirn ein Signal für 'Sicherheit und emotionale Ruhe'. Das entspannte Gehirn sendet <strong>Alphawellen (Alpha Waves)</strong> aus, die Konzentration fördern und spontaneous Ideenverknüpfungen beschleunigen.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Vermeiden Sie es, den Schreibtisch mit knalligen oder überladenen Dekorationen zu überhäufen. Zu viele Farben erzeugen <strong>visuelle Ermüdung</strong> im Gehirn; wählen Sie einen minimalistischen Ansatz mit einem einzigen, klaren Objekt.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Vermeiden Sie es, den Schreibtisch mit knalligen oder überladenen Dekorationen 
     Blicken Sie 10–20 Sekunden sanft auf das Objekt und regulieren Sie Ihre Atmung, um Ihr Gehirn behutsam in einen fokussierten Zustand zu führen.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Vermeiden Sie es, den Schreibtisch mit knalligen oder überladenen Dekorationen zu überhäufen. Zu viele Farben erzeugen <strong>visuelle Ermüdung</strong> im Gehirn; wählen Sie einen minimalistischen Ansatz mit einem einzigen, klaren Objekt.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "身着蓝色长袍凝望晨玫瑰的画擘：古斯塔夫·克里姆特的花园踱步习惯与软性着迷（Soft Fascination）"
 description: "深度剖析金色艺术大师古斯塔夫·克里姆特如何通过每日清晨漫步于奥地利阿特湖畔的花园、观照花卉与自然分形图形复苏视注意力。揭示注意力恢复理论（ART）、前额叶充能与3步骤实践指南。"
 pubDate: "2026-07-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 klimt-gardening-nature-refresh 的内容基于 <strong>古斯塔夫·克里姆特传记与阿特湖档案（Attersee Archive）史料考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong> 撰写。
+      本内容基于 <strong>古斯塔夫·克里姆特传记与阿特湖档案（Attersee Archive）史料考证及认知神经科学（Cognitive Neuroscience）与环境心理学（Environmental Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 自然分形图景观照与注意力恢复理论（Attention Restoration Theory，ART）
+## 1. 自然分形图景观照与注意力恢复理论（Attention Restoration Theory，ART）
 
 当长久置身于纷繁复杂的数字屏幕与人造建筑微环境中工作时，大脑前额叶需因强行聚焦特定目标而挥霍<strong>“定向注意力（Directed Attention）”</strong>，进而引发严重的<strong>“注意力疲劳（Attention Fatigue）”</strong>。依据环境心理学中的<strong>“注意力恢复理论（Attention Restoration Theory，ART）”</strong>，花瓣与叶片等自然界蕴含的分形（Fractal）几何图形，能诱发无需大脑付出生硬抑制性能量的<strong>“软性着迷（Soft Fascination）”</strong>状态。如克里姆特般沉静观照晨间花园的自然姿采与光影，能使干涸的<strong>前额叶皮层（Prefrontal Cortex）</strong>注意力资源即刻重获充盈复位，圆满达成感官创见的蓄能。
 
 ---
 
-## 注意事项：剔除手机镜头框定，全情沉浸于肉眼原观指南
-
-当在踱步于花园之际萌发“要拍出惊艳大片发布于社交平台”的念头并举起手机拍摄的瞬间，大脑便会再度深陷于他人评价与人造画幅框架的羁绊中，彻底丧失注意力复苏的神经效能。务必如克里姆特般摒弃数字镜头，凭双眼肉眼去原汁原味地观照自然的物性深度与微观分形。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：剔除手机镜头框定，全情沉浸于肉眼原观指南
+
+当在踱步于花园之际萌发“要拍出惊艳大片发布于社交平台”的念头并举起手机拍摄的瞬间，大脑便会再度深陷于他人评价与人造画幅框架的羁绊中，彻底丧失注意力复苏的神经效能。务必如克里姆特般摒弃数字镜头，凭双眼肉眼去原汁原味地观照自然的物性深度与微观分形。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>若居所周边缺乏花园或公园，该如何切合实际地复刻此习惯？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       只需端祥室内摆放的盆栽植物、观叶盆景、或透过窗户凝望街边树木与浮云达3分钟，便可斩获完全相同的注意力恢复理论（ART）神经效能。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在阴雨连绵或恶劣天候节点，该如何置换花园踱步习惯？</span>

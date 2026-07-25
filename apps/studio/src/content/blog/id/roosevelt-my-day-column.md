@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Membangun Diri yang Tak Tergoyahkan Melalui Tulisan: Rutinitas Refleksi Malam Eleanor Roosevelt"
 description: "Eleanor Roosevelt, salah satu Ibu Negara AS paling berpengaruh. Mengungkap rutinitas jurnal malam 27 tahun yang membentuk identitas diri dan manfaat metakognitifnya."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ Dalam artikel hari ini, kami membagikan manfaat neurosains dari rutinitas jurnal
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai roosevelt-my-day-column didasarkan pada <strong>Riset biografi sejarah dan autobiografi tentang Eleanor Roosevelt & studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi sejarah dan autobiografi tentang Eleanor Roosevelt & studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Konsolidasi Memori Jangka Panjang dan Peningkatan Metakognisi Kognitif
+## 1. Konsolidasi Memori Jangka Panjang dan Peningkatan Metakognisi Kognitif
 
 Saat pengalaman dan emosi harian dibiarkan berantakan, itu akan merangsang amigdala dan menjadi memori stres. Membagikan alur hari melalui tulisan mengaktifkan <strong>Hipokampus</strong>, memindahkan memori episodik ke memori jangka panjang yang stabil. Menerjemahkan emosi ke dalam kata-kata objektif juga menstimulasi korteks frontal, meningkatkan <strong>Metakognisi</strong> untuk melihat diri dari sudut pandang orang ketiga.
 
 ---
 
-## Pertahankan Ketenangan Kontemplatif Dibandingkan Target Ideal
-
-Memaksa kepositifan palsu atau mencatat rencana yang berat dan tidak realistis justru menciptakan stres kognitif. Seperti Eleanor, tinjau fakta fisik dan orang yang ditemui secara tenang, mencatat kondisi batin secara alami tanpa beban.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Memaksa kepositifan palsu atau mencatat rencana yang berat dan tidak realistis j
   </p>
 </div>
 
+---
+
+## 3. Pertahankan Ketenangan Kontemplatif Dibandingkan Target Ideal
+
+Memaksa kepositifan palsu atau mencatat rencana yang berat dan tidak realistis justru menciptakan stres kognitif. Seperti Eleanor, tinjau fakta fisik dan orang yang ditemui secara tenang, mencatat kondisi batin secara alami tanpa beban.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika isi jurnal harian terasa berulang setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Memaksa kepositifan palsu atau mencatat rencana yang berat dan tidak realistis j
       Meskipun rutinitas berulang, cobalah menangkap satu variasi kecil setiap hari—orang yang ditemui, rasa makanan, atau aroma cuaca. Upaya menemukan perbedaan halus itu sendiri melatih perhatian dan metakognisi otak.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah sama efektifnya jika menggunakan aplikasi jurnal digital atau Notion?</span>

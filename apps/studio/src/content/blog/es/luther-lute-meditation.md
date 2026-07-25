@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Las Ondas de la Regulación Mental: La Rutina Matutina del Laúd de Martín Lutero y la Sintonización Neuronal"
 description: "Descubra cómo Martín Lutero, bajo la intensa presión de la Reforma Protestante, meditaba cada mañana tocando el laúd. Explore la neurociencia de la integración auditivo-motora, la estimulación del nervio vago, la estabilización autonómica y una guía de 3 pasos."
 pubDate: "2026-02-24"
@@ -38,22 +39,20 @@ En la publicación de hoy, examinamos los principios neurológicos de la rutina 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre luther-lute-meditation se basa en <strong>Verificación Histórica de los Archivos de Lutero, *Tischreden* (Charlas de Mesa, 1566) e Investigación en Neurociencia Cognitiva y Musicoterapia</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de los Archivos de Lutero, *Tischreden* (Charlas de Mesa, 1566) e Investigación en Neurociencia Cognitiva y Musicoterapia</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La Neurociencia de la Integración Auditivo-Motora y la Estimulación del Nervio Vago
+## 1. La Neurociencia de la Integración Auditivo-Motora y la Estimulación del Nervio Vago
 
 La manipulación precisa de un instrumento activa la corteza motora, reforzando la vía de <strong>Integración Auditivo-Motora</strong>. Fijar la atención en las vibraciones físicas calma el ruido prefrontal asociado a la ansiedad. Además, la interpretación rítmica estimula el <strong>Nervio Vago</strong>, elevando la <strong>Variabilidad de la Frecuencia Cardíaca (HRV)</strong> y activando el <strong>Sistema Nervioso Parasimpático</strong> para estabilizar las ondas cerebrales en estado <strong>Alfa</strong>.
 
 ---
 
-## Precaución: Elimine la Ansiedad por el Rendimiento para Sumergirse en la Sensación Táctil
-
-El mayor obstáculo en una rutina de meditación musical es la obsesión por la técnica. Preocuparse por los errores desencadena estrés por evaluación, activando la <strong>Amígdala</strong>. Utilice instrumentos intuitivos y sencillos como el kalimba, el ukelele o el tambor de lengüetas, liberándose de expectativas para disfrutar de 5 minutos de resonancia sensorial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El mayor obstáculo en una rutina de meditación musical es la obsesión por la 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine la Ansiedad por el Rendimiento para Sumergirse en la Sensación Táctil
+
+El mayor obstáculo en una rutina de meditación musical es la obsesión por la técnica. Preocuparse por los errores desencadena estrés por evaluación, activando la <strong>Amígdala</strong>. Utilice instrumentos intuitivos y sencillos como el kalimba, el ukelele o el tambor de lengüetas, liberándose de expectativas para disfrutar de 5 minutos de resonancia sensorial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Pueden los principiantes sin conocimientos musicales beneficiarse de esta rutina?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El mayor obstáculo en una rutina de meditación musical es la obsesión por la 
       ¡Sí, por supuesto! La clave no reside en la técnica, sino en la 'estimulación táctil motora fina y la percepción de la resonancia'. Usar instrumentos sencillos como el kalimba o el tambor de lengüetas durante 5 minutos ofrece el mismo beneficio parasimpático.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puede la escucha pasiva de música reemplazar la práctica activa?</span>

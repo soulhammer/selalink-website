@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Moment, in dem ich mich im Spiegel anstarrte: Rembrandts Selbstporträt-Visual-Reflexions-Routine"
 description: "Rembrandt van Rijn beobachtete seinen Alterungsprozess visuell zutiefst, indem er im Laufe seines Lebens über 80 Selbstporträts malte. Enthüllt die neurologischen Mechanismen, bei denen visuelle Reflexion – das tiefe Betrachten der eigenen Augen und Falten im Spiegel – die Selbstobjektivierung stärkt und das emotionale Regulierungsnetzwerk des Gehirns aktiviert."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ Rembrandt van Rijn, ein Meistermaler des Goldenen Zeitalters der Niederlande, de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu rembrandt-self-portrait-reflection basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Rembrandts Selbstporträt-Reflexion sowie kognitive neurowissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Rembrandts Selbstporträt-Reflexion sowie kognitive neurowissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Spiegel-Selbstbetrachtung und selbstreferenzieller Effekt des medialen präfrontalen Kortex (mPFC)
+## 1. Spiegel-Selbstbetrachtung und selbstreferenzieller Effekt des medialen präfrontalen Kortex (mPFC)
 
 Das tiefe Betrachten der eigenen Augen im Spiegel für mehr als 3 Minuten aktiviert intensiv den ‚medialen präfrontalen Kortex (mPFC)‘ des Großhirns. Dieser Bereich steuert die selbstreferenzielle Verarbeitung und ermöglicht es, das ‚reine Selbst‘ wahrzunehmen, das sich hinter Bewertungen anderer oder gesellschaftlichen Masken (Personas) verbirgt. Das physische Bild der eigenen Person, das über den visuellen Kortex eintritt, kalibriert das emotionale Vorhersagemodell des Gehirns neu, lindert die Ausschüttung von Stressneurotransmittern und dient als kraftvolles Werkzeug zur Wiederherstellung von Selbstmitgefühl und psychologischer Homöostase.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Das Wichtigste, wovor man sich bei der Spiegelreflexion hüten muss, ist das ‚Bewerten und Obsessieren‘ über äußere Mängel (Hautprobleme, Falten, Symmetrie usw.). Beginnt man, Gesichtsfehler zu bewerten, aktiviert das Gehirn wieder seinen negativen emotionalen Filter und verursacht Stress. Wie Rembrandt müssen Sie Licht und Schatten des gesamten Gesichts, das Funkeln in Ihren Augen und den Fluss des Gesichtsausdrucks sachlich und auf visuellen Fakten basierend betrachten – so als ob Sie das Gemälde einer anderen Person ansehen würden –, um eine echte Selbstobjektivierung zu erreichen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Das Wichtigste, wovor man sich bei der Spiegelreflexion hüten muss, ist das ‚
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Das Wichtigste, wovor man sich bei der Spiegelreflexion hüten muss, ist das ‚Bewerten und Obsessieren‘ über äußere Mängel (Hautprobleme, Falten, Symmetrie usw.). Beginnt man, Gesichtsfehler zu bewerten, aktiviert das Gehirn wieder seinen negativen emotionalen Filter und verursacht Stress. Wie Rembrandt müssen Sie Licht und Schatten des gesamten Gesichts, das Funkeln in Ihren Augen und den Fluss des Gesichtsausdrucks sachlich und auf visuellen Fakten basierend betrachten – so als ob Sie das Gemälde einer anderen Person ansehen würden –, um eine echte Selbstobjektivierung zu erreichen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Sollte ich aufhören, wenn ich mich beim ständigen Blick in den Spiegel seltsam oder deprimiert fühle?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Das Wichtigste, wovor man sich bei der Spiegelreflexion hüten muss, ist das ‚
       Ja. Wenn sich Stimmungsverzerrungen oder Depressionen verstärken, sind Sie möglicherweise in eine Selbstkritikschleife geraten; hören Sie sofort auf. Weichen Sie stattdessen auf ein Training aus, das zuerst Ihre körperlichen Erdungsempfindungen überprüft, indem Sie auf Ihre Schulterlinie oder Handform blicken anstatt in die Pupillen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wann ist die beste Tageszeit für die Spiegel-Selbstreflexion?</span>

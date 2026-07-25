@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "エリザベス1世の「古典翻訳」：統治者の論理的脳を鍛え上げた朝の習慣"
 description: "毎日朝ラテン語の古典を英語に翻訳し、強靭な理性と論理力を養ったエリザベス1世女王。高次元の認知能力を活性化する翻訳ルーティンの科学を解き明かします。"
 pubDate: "2026-01-09"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「elizabeth-classical-translation」は <strong>エリザベス1世翻訳著作集『Elizabeth I: Translations（Janel Mueller & Joshua Scodel）』および歴史評伝考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エリザベス1世翻訳著作集『Elizabeth I: Translations（Janel Mueller & Joshua Scodel）』および歴史評伝考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 翻訳作業が脳の前頭前野皮質に及ぼす効果
+## 1. 翻訳作業が脳の前頭前野皮質に及ぼす効果
 
 翻訳は脳の視覚的文字認知領域だけでなく、高度な論理的ルール切り替えを司る背外側前頭前野皮質（dlPFC）を全方位的に活性化させます。単に文章を読む読書とは異なり、一つの言語の意味と文脈を分解して他の言語の正確な単語構造へと置換する作業は、コンピューターのプロセッサーが100%稼働するような極度の認知制御（Cognitive Control）訓練です。これにより脳は単語間の概念的深みを理解し、複雑な因果関係の中でエラーを識別する分析能力を飛躍的に発達させます。エリザベ1世が毎日遂行したラテン語翻訳は、感情的ノイズをフィルタリングし静かに本質に集中させる強力な認知的解毒剤でした。
 
 ---
 
-## 注意事項：機械的自動化翻訳は効果がありません
-
-人工知能翻訳機や辞書アプリのボタン一つでテキストをすぐ確認する行動は、脳の前頭前野回路を刺激しません。速度が少し遅くても、自ら単語を探し文章を手作業で再構築しながら頭を絞り出す過程の中でこそ、前頭前野のシナプスの結合が飛躍的に成長します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：機械的自動化翻訳は効果がありません
+
+人工知能翻訳機や辞書アプリのボタン一つでテキストをすぐ確認する行動は、脳の前頭前野回路を刺激しません。速度が少し遅くても、自ら単語を探し文章を手作業で再構築しながら頭を絞り出す過程の中でこそ、前頭前野のシナプスの結合が飛躍的に成長します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>人工知能翻訳機を使用してテキストをすぐ突き合わせてみるのは効果がありませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、ボタン一つで結果を得ることは脳の認知ネットワークを刺激できません。多少煩わしく遅くても、辞書を直接めくりながら文章の骨組みを合わせる「頭を使う抵抗過程」を経てこそ、前頭前野皮質のシナプスが活発に発達します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ギリシャ語やラテン語のような古典語だけを勉強しなければ効果はありませんか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le maître français qui créa des chefs-d'œuvre pendant 30 ans ? La routine de 3 heures de travail profond matinal d'Émile Zola"
 description: "Les principes scientifiques et le guide pratique de la devise 'Nulla dies sine linea' du grand écrivain Émile Zola et son habitude matinale de 3 heures d'écriture immersive maintenue pendant plus de 30 ans."
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ Dans cet article, nous explorons les principes scientifiques de la routine de tr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant zola-morning-writing-block est basée sur <strong>Examen des biographies historiques et des récits sur Émile Zola et recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Examen des biographies historiques et des récits sur Émile Zola et recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prévention de l'épuisement de la volonté et automatisation des ganglions de la base via l'isolement environnemental
+## 1. Prévention de l'épuisement de la volonté et automatisation des ganglions de la base via l'isolement environnemental
 
 Hésiter continuellement en se disant 'devrais-je commencer maintenant ?' gaspille le glucose du cortex préfrontal et la volonté.
 
@@ -51,9 +52,7 @@ Agir de façon cohérente à des heures fixes dans un lieu isolé comme Émile Z
 
 ---
 
-## Concentrez-vous davantage sur le respect strict du temps que sur le volume produit
-
-L'essence de la devise de Zola est 'la régularité quotidienne sans faille'. Priorisez l'habitude de rester isolé des distractions pendant 1 heure plutôt que de chercher la perfection. Concevoir un environnement physique et des déclencheurs est la clé de la durabilité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'essence de la devise de Zola est 'la régularité quotidienne sans faille'. Pr
   </p>
 </div>
 
+---
+
+## 3. Concentrez-vous davantage sur le respect strict du temps que sur le volume produit
+
+L'essence de la devise de Zola est 'la régularité quotidienne sans faille'. Priorisez l'habitude de rester isolé des distractions pendant 1 heure plutôt que de chercher la perfection. Concevoir un environnement physique et des déclencheurs est la clé de la durabilité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si je suis anxieux à l'idée de recevoir des courriels ou appels urgents le matin ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'essence de la devise de Zola est 'la régularité quotidienne sans faille'. Pr
       Les urgences réelles arrivent par téléphone. Repousser la vérification des messages à la fin de l'heure de travail profond multiplie la qualité de votre travail par dix.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment les salariés ne pouvant pas libérer 3 heures d'affilée doivent-ils l'appliquer ?</span>

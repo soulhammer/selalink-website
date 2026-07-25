@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Presiden yang Membaca Buku Secara Nyaring: Rutinitas Membaca Prefrontal Abraham Lincoln dan Efek Produksi"
 description: "Pelajari bagaimana Presiden AS ke-16 Abraham Lincoln memaksimalkan ingatan dengan membaca nyaring. Temukan neurosains Efek Produksi, Representasi Ganda, aktivasi Area Broca, memori kerja prefrontal, dan panduan 5 menit."
 pubDate: "2026-04-26"
@@ -33,25 +34,23 @@ Baik di kantor hukum Springfield-nya atau di Gedung Putih, Lincoln membaca surat
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai lincoln-reading-aloud didasarkan pada <strong>Verifikasi Historis dari Biografi David Herbert Donald *Lincoln*, Memoar William Herndon & Penelitian Neurosains Kognitif serta Psikolinguistik</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi David Herbert Donald *Lincoln*, Memoar William Herndon & Penelitian Neurosains Kognitif serta Psikolinguistik</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Produksi dan Neurosains Representasi Ganda
+## 1. Efek Produksi dan Neurosains Representasi Ganda
 
 Memindai teks secara pasif murni dengan mata meminimalkan kedalaman pemrosesan kognitif. Sebaliknya, mengartikulasikan kata-kata secara fisik dengan pita suara dan memproses ulang suara Anda sendiri melalui saluran pendengaran memicu fenomena peningkatan memori yang dikenal sebagai <strong>Efek Produksi (Production Effect)</strong>. Saat Anda membaca nyaring, otak mengaktifkan <strong>Area Broca</strong>, korteks motorik, dan korteks auditori, membangun <strong>Representasi Ganda</strong> di <strong>Memori Kerja</strong> dari <strong>Korteks Prefrontal</strong> untuk memantapkan retensi <strong>Memori Jangka Panjang</strong>.
 
 ---
 
-## Perhatian: Mengecualikan Tekanan Membaca Cepat untuk Berfokus pada Artikulasi Vokal yang Jelas
-
-Terobsesi dengan membaca cepat dan terburu-buru melalui teks sepenuhnya menghancurkan manfaat neurobiologis dari Efek Produksi. Dalam ritual membaca nyaring, prioritaskan artikulasi suku kata yang jelas, getaran pita suara yang halus, dan umpan balik pendengaran dari mendengarkan suara Anda sendiri daripada kecepatan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Terobsesi dengan membaca cepat dan terburu-buru melalui teks sepenuhnya menghanc
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengecualikan Tekanan Membaca Cepat untuk Berfokus pada Artikulasi Vokal yang Jelas
+
+Terobsesi dengan membaca cepat dan terburu-buru melalui teks sepenuhnya menghancurkan manfaat neurobiologis dari Efek Produksi. Dalam ritual membaca nyaring, prioritaskan artikulasi suku kata yang jelas, getaran pita suara yang halus, dan umpan balik pendengaran dari mendengarkan suara Anda sendiri daripada kecepatan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Jenis literatur apa yang paling efektif untuk menstimulasi gairah kognitif prefrontal saat membaca nyaring?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Terobsesi dengan membaca cepat dan terburu-buru melalui teks sepenuhnya menghanc
       Prosa berdensitas tinggi dengan struktur logis yang ketat—seperti filsafat klasik, literatur ilmiah khusus, atau laporan strategis yang rumit—jauh lebih efektif untuk plastisitas prefrontal daripada fiksi santai.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mempraktikkan rutinitas ini di lingkungan yang tenang seperti kantor terbuka atau perpustakaan?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "魂の調律：パブロ・カザルスの朝のバッハ前奏曲ルーティンとアルファ波誘導法"
 description: "80年以上、毎朝バッハの平均律クラヴィーア曲集を演奏して一日を始めた巨匠チェリストのパブロ・カザルス。音楽的同調（Musical Entrainment）がアルファ波を活性化し、自律神経系のバランスを誘導する神経科学的原理を解き明かします。"
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「casals-bach-prelude」は <strong>パブロ・カザルス自伝『Joys and Sorrows: Reflections by Pablo Casals』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>パブロ・カザルス自伝『Joys and Sorrows: Reflections by Pablo Casals』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 音楽同調（Musical Entrainment）を通じたアルファ波誘導と自律神経系バランス
+## 1. 音楽同調（Musical Entrainment）を通じたアルファ波誘導と自律神経系バランス
 
 人間の脳は朝の起床時、睡眠慣性を打ち破るために覚醒ホルモンであるコルチゾール（Cortisol）値が急増し、軽微な不安と交感神経の興奮を経験します。この時、規則的で調和のとれた数学的な音律構造を持つバッハの音楽を直接演奏したり深く傾聴すると、大脳の神経振動（Neural Oscillations）が音楽の拍子と周波数に合わせられる「音楽同調（Musical Entrainment）」現象が起こります。これは心を平静にさせ、リラックスした集中状態を誘導する8〜12Hz帯域のアルファ波（Alpha Waves）を強力に誘発します。同時に副交感神経系（Parasympathetic Nervous System）が促進されて心拍数が安定し、自律神経系の完璧なバランスが形成されることで、一日を最高レベルの情緒的安定と肯定的没頭状態でスタートさせます。
 
 ---
 
-## 注意事項＆ヒント：難解で刺激的な音楽の排除と調和のとれたクラシックの選択
-
-朝のウォームアップ音楽ルーティンを構成する際、最も警戒すべきは複雑で難解、あるいは過度に速いビート、不協和音が強い刺激的な音楽を選択することです。強烈なロック、ポップス、あるいは技巧が過度に華やかな高難度のピアノ曲の演奏は、脳のアルファ波誘導を妨げて交感神経系を過剰に刺激し、起床直後の不安感と認知疲労を増大させます。バッハの前奏曲のように構造的に調和がとれ、反復的で落ち着いたテンポのクラシックやニューエイジ音楽を選択してこそ、情緒的なバッファー効果が発動します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：難解で刺激的な音楽の排除と調和のとれたクラシックの選択
+
+朝のウォームアップ音楽ルーティンを構成する際、最も警戒すべきは複雑で難解、あるいは過度に速いビート、不協和音が強い刺激的な音楽を選択することです。強烈なロック、ポップス、あるいは技巧が過度に華やかな高難度のピアノ曲の演奏は、脳のアルファ波誘導を妨げて交感神経系を過剰に刺激し、起床直後の不安感と認知疲労を増大させます。バッハの前奏曲のように構造的に調和がとれ、反復的で落ち着いたテンポのクラシックやニューエイジ音楽を選択してこそ、情緒的なバッファー効果が発動します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ピアノやチェロのような楽器を全く演奏できない人も、カザルスの朝の音楽ルーティンの効果を享受できますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、完全に同じ情緒浄化効果を享受できます。直接楽器を演奏することが運動皮質をさらに刺激しますが、目を閉じて音の振動と質感に脳を委ねる「能動的傾聴（Active Listening）」だけでもアルファ波の同調が十分に起こります。ポイントは音楽を単なる背景音として聞き流すのではなく、10分間音の微細な変化に完全に注意を傾けることにあります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>朝にクラシック音楽を聞く時、ヘッドホンを着用する方がより効果的ですか？</span>

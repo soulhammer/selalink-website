@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'intuition au bout des doigts et l'innovation à 6 points : La routine de simplification essentielle et de tronçonnage de Louis Braille"
 description: "Découvrez comment Louis Braille a simplifié l'écriture nocturne militaire complexe à 12 points en un système à 6 points tenant sous la pulpe d'un seul doigt, déclenchant une révolution de l'accès au savoir, et explorez les principes neuroscientifiques du tronçonnage de la mémoire de travail tactile."
 pubDate: "2026-05-04"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant braille-tactile-simplification est basée sur <strong>Vérification Historique issue de la biographie de C. Michael Mellor *Louis Braille: A Touch of Genius* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de C. Michael Mellor *Louis Braille: A Touch of Genius* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscience du tronçonnage de la mémoire de travail et limites de l'acuité tactile
+## 1. Neuroscience du tronçonnage de la mémoire de travail et limites de l'acuité tactile
 
 La mémoire de travail humaine et le cortex somatosensoriel (Somatosensory Cortex) se heurtent à des limites physiques et cognitives claires quant à la quantité d'informations traitées en un instant. Le système à 12 points dépassait la résolution spatiale des récepteurs tactiles au bout des doigts, imposant un surcroît de balayage au cerveau. En revanche, la cellule à 6 points de Braille s'aligne parfaitement sur le mécanisme de « Tronçonnage (Chunking) » du cerveau — consistant à regrouper les informations en unités immédiatement identifiables. Structurer des flux de travail complexes en unités de 3 à 5 éléments réduit considérablement la charge cognitive préfrontale et accélère le traitement de l'information.
 
 ---
 
-## Précautions & Conseils : Élimination impitoyable des éléments superflus & Maintien de l'essentiel
-
-Le plus grand obstacle à la simplification est de conserver des étapes inutiles par crainte qu'elles « puissent servir plus tard ». Vouloir prendre en compte chaque cas particulier ou option secondaire rend les systèmes à nouveau complexes et réduit la flexibilité cognitive. Comme la cellule à 6 points saisissable sous un seul doigt, élaguez les éléments secondaires pour ne conserver que l'essence vitale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le plus grand obstacle à la simplification est de conserver des étapes inutile
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Élimination impitoyable des éléments superflus & Maintien de l'essentiel
+
+Le plus grand obstacle à la simplification est de conserver des étapes inutiles par crainte qu'elles « puissent servir plus tard ». Vouloir prendre en compte chaque cas particulier ou option secondaire rend les systèmes à nouveau complexes et réduit la flexibilité cognitive. Comme la cellule à 6 points saisissable sous un seul doigt, élaguez les éléments secondaires pour ne conserver que l'essence vitale.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si je crains d'omettre des informations importantes lors de la simplification ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le plus grand obstacle à la simplification est de conserver des étapes inutile
       Utilisez une stratégie à deux niveaux : archivez les informations secondaires dans une « annexe » ou un dossier de sauvegarde tout en n'exposant que les 3 à 5 unités essentielles dans votre espace de travail, ce qui garantit la sérénité cognitive.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ce cadre de simplification et de tronçonnage peut-il être appliqué aux flux de travail d'équipe ?</span>

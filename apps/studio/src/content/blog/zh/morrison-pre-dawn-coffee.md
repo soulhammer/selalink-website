@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "唤醒创造力的晨曦仪式：托尼·莫里森凌晨5点写作准备习惯"
 description: "诺贝尔文学奖得主托尼·莫里森。介绍她每天凌晨5点凝视晨曦重置思考并进入写作状态的早晨专注秘诀与认知神经科学价值。"
 pubDate: "2026-02-27"
@@ -18,7 +19,7 @@ steps:
     text: "通过晨曦仪式使注意力得到清整后，立即打开笔记本或规划文档，进行30分钟不受干扰的深层创意写作或思考。"
 faqs:
   - question: "日出时间因季节而异，我是否需要相应调整起床时间？"
-    answer: "无需刻意精准对齐日出的确切时刻。无论哪个季节，只要在日出前那段微暗而宁静的气氛里（通常在早晨5:00~6:00之间），就足以获得出色的脑部认知重置效果。"
+    answer: "无需刻意精准对齐日出的确切时刻。无论哪个季节，只要在日出前那段微暗而宁静的气氛里（通常在早晨5:00 ~ 6:00之间），就足以获得出色的脑部认知重置效果。"
   - question: "我不是晨型人，清晨起床感觉非常疲惫，应该怎么办？"
     answer: "与其一开始强行尝试5点起床，不如将平时的起床时间仅提前20分钟。起床后切勿立刻翻看手机，而是伫立窗前品饮热茶，享受5分钟的整理仪式，这才是核心所在。"
 ---
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 morrison-pre-dawn-coffee 的内容基于 <strong>托尼·莫里森历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>托尼·莫里森历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 生物钟唤醒与视网膜光感受器刺激
+## 1. 生物钟唤醒与视网膜光感受器刺激
 
 在黑暗的房间里刚睁开眼就暴露于手机强烈的蓝光下，会导致大脑异样飙升压力激素皮质醇，从而增加焦虑感。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 在自然光接触双眼的数分钟内切勿触摸任何电子设备
-
-晨曦习惯的最大破坏者是手机消息与新闻推送。在睁开眼观照晨曦的5分钟里，绝不要开启任何数字设备的屏幕。切勿将视觉噪音泼向静静苏醒的视网膜与脑细胞，让自然的阳光顺畅输入大脑。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 在自然光接触双眼的数分钟内切勿触摸任何电子设备
+
+晨曦习惯的最大破坏者是手机消息与新闻推送。在睁开眼观照晨曦的5分钟里，绝不要开启任何数字设备的屏幕。切勿将视觉噪音泼向静静苏醒的视网膜与脑细胞，让自然的阳光顺畅输入大脑。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>日出时间因季节而异，我是否需要相应调整起床时间？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       无需刻意精准对齐日出的确切时刻。无论哪个季节，只要在日出前那段微暗而宁静的气氛里（通常在早晨5:00 ~ 6:00之间），就足以获得出色的脑部认知重置效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>我不是晨型人，清晨起床感觉非常疲惫，应该怎么办？</span>

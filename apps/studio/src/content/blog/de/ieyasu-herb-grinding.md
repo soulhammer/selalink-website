@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Rhythmus von Geduld und Gleichmut: Tokugawa Ieyasus Kräutermahl-Routine und Serotonin-Regulation"
 description: "Erfahren Sie mehr über Tokugawa Ieyasus Methode der Geistesschulung. Entdecken Sie, wie seine tägliche Routine des Kräutermalens mit dem Mörser durch rhythmische Bewegung Serotonin freisetzte und die Amygdala beruhigte."
 pubDate: "2026-04-01"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Tokugawa Ieya
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu ieyasu-herb-grinding basiert auf <strong>Historische Überprüfung aus Tokugawa Ieyasu-Biografien, Archiven des Tokugawa-Kunstmuseums & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Tokugawa Ieyasu-Biografien, Archiven des Tokugawa-Kunstmuseums & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Serotonin-Aktivierung und Amygdala-Stabilisierung durch rhythmische Bewegung
+## 1. Serotonin-Aktivierung und Amygdala-Stabilisierung durch rhythmische Bewegung
 
 Physiologisch gesehen maximiert <strong>rhythmische Bewegung</strong> – wiederkehrende körperliche Betätigung bei konstanter Geschwindigkeit und Druck – die Ausschüttung von <strong>Serotonin</strong> im Gehirn. Diese gleichmäßige haptische Stimulation Dämpft die Hyperaktivität der <strong>Amygdala</strong>, die für Angst und Impulsivität zuständig ist, und stellt die rationale Kontrolle im <strong>präfrontalen Kortex</strong> wieder her.
 
 ---
 
-## Vorsichtsmaßnahme: Fokus auf gleichmäßige Handbewegung bei Ausschaltung von Unruhe
-
-Versuchen Sie bei Unruhe oder Angst nicht, Ihre Gefühle mit Willenskraft zu unterdrücken. Konzentrieren Sie sich stattdessen ganz auf die gleichmäßige Handbewegung beim Mahlen mit dem Mörser oder einer Kaffeemühle. Das Einhalten eines stetigen Rhythmus aktiviert das Serotoninsystem des Gehirns.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Versuchen Sie bei Unruhe oder Angst nicht, Ihre Gefühle mit Willenskraft zu unt
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Fokus auf gleichmäßige Handbewegung bei Ausschaltung von Unruhe
+
+Versuchen Sie bei Unruhe oder Angst nicht, Ihre Gefühle mit Willenskraft zu unterdrücken. Konzentrieren Sie sich stattdessen ganz auf die gleichmäßige Handbewegung beim Mahlen mit dem Mörser oder einer Kaffeemühle. Das Einhalten eines stetigen Rhythmus aktiviert das Serotoninsystem des Gehirns.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie trägt das eigenhändige Mahlen von Kräutern zur emotionalen Stabilität bei?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Versuchen Sie bei Unruhe oder Angst nicht, Ihre Gefühle mit Willenskraft zu unt
       Die gleichmäßige Bewegung regt das Serotoninsystem an, dämpft die Stressreaktionen der Amygdala und stellt die rationale Kontrolle im präfrontalen Kortex wieder her.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie lässt sich diese Routine im Alltag umsetzen, wenn man keinen Mörser besitzt?</span>

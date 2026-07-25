@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode de dictée multiple de Thomas d'Aquin : Maximiser la mémoire de travail pour surmonter les dilemmes complexes"
 description: "Découvrez comment Thomas d'Aquin, le grand théologue médiéval, a développé sa mémoire de travail et maintenu une cohérence logique tout en dictant simultanément différents sujets à 3 ou 4 scribes."
 pubDate: "2026-03-09"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques du
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant aquinas-multi-dictation est basée sur <strong>Vérification Historique issue de la biographie de Thomas d'Aquin par Bernard de Gui & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Thomas d'Aquin par Bernard de Gui & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Principes neurocognitifs du partitionnement de la mémoire de travail
+## 1. Principes neurocognitifs du partitionnement de la mémoire de travail
 
 Coordonner simultanément plusieurs tâches abstraites génère habituellement d'importantes interférences d'information et des coûts de conversion cognitive dans le cerveau. Cependant, Thomas d'Aquin a surmonté cela grâce au « partitionnement de la mémoire de travail (Working Memory Partitioning) ». En entraînant intensivement le système exécutif central du cortex préfrontal, il maintenait les nœuds de connaissances de chaque projet actifs dans des compartiments distincts. Cela lui permettait de changer rapidement de contexte tout en évitant l'épuisement cognitif ou le chevauchement d'informations.
 
 ---
 
-## Méfiez-vous du multitâche improductif
-
-Ne confondez pas cette habitude avec le multitâche distrait moderne (ex. : coder tout en lisant ses e-mails). La simple distraction diminue considérablement la qualité et la vitesse du travail. La méthode de Thomas d'Aquin est une exécution séquentielle (Sequential Execution) de tâches uniques et très concentrées réparties dans des compartiments. Autrement dit, lorsque vous traitez un sujet, vous devez y consacrer 100 % de vos ressources cérébrales.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Ne confondez pas cette habitude avec le multitâche distrait moderne (ex. : code
     Lorsque le temps est écoulé, fermez immédiatement la première tâche et ouvrez la seconde. Prenez trois profondes inspirations pour vider le tampon afin que les pensées précédentes ne persistent pas dans votre cerveau, puis exécutez la seconde tâche avec 100 % de concentration.
   </p>
 </div>
+
+---
+
+## 3. Méfiez-vous du multitâche improductif
+
+Ne confondez pas cette habitude avec le multitâche distrait moderne (ex. : coder tout en lisant ses e-mails). La simple distraction diminue considérablement la qualité et la vitesse du travail. La méthode de Thomas d'Aquin est une exécution séquentielle (Sequential Execution) de tâches uniques et très concentrées réparties dans des compartiments. Autrement dit, lorsque vous traitez un sujet, vous devez y consacrer 100 % de vos ressources cérébrales.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

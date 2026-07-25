@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Repository of Philosophical Thought: Hegel's Dialectical Card Index Method and Cognitive Scaffolding Routine"
 description: "Behind G. W. F. Hegel's completion of German Idealism lay tens of thousands of knowledge cards and a rigorous categorization box system. Explore his cognitive scaffolding routine and a 3-step actionable framework to bypass working memory limits."
 pubDate: "2026-01-01"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Hegel's 'card index
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding hegel-card-index is based on <strong>Historical Verification from G. W. F. Hegel Biographies, *Phänomenologie des Geistes* Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from G. W. F. Hegel Biographies, *Phänomenologie des Geistes* Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Scaffolding: Bypassing Working Memory Bottlenecks
+## 1. Cognitive Scaffolding: Bypassing Working Memory Bottlenecks
 
 Human prefrontal cortex performance is strictly constrained by <strong>Working Memory</strong> capacity—typically handling only a few information chunks simultaneously. Holding complex logical structures purely inside mental storage induces cognitive overload, collapsing executive clarity. Hegel's card index system serves as an ideal <strong>Cognitive Scaffolding</strong> framework. Offloading discrete knowledge onto external index cards frees up central executive bandwidth. Physically spreading, arranging, and recombining these cards stimulates associative neural pathways, transforming isolated concepts into organic dialectical synthesis.
 
 ---
 
-## Caution: Moving Beyond Passive Storage to Drive Organic Inter-Information Linking
-
-Hegel's card-index boxes were not dead archives; they functioned as an active extension of dialectical cognition. Do not satisfy yourself merely with the act of writing down notes. The true power of cognitive scaffolding resides in applying categorical order and tags, ensuring notes can be effortlessly retrieved, combined, and synthesized with other ideas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Hegel's card-index boxes were not dead archives; they functioned as an active ex
   </p>
 </div>
 
+---
+
+## 3. Caution: Moving Beyond Passive Storage to Drive Organic Inter-Information Linking
+
+Hegel's card-index boxes were not dead archives; they functioned as an active extension of dialectical cognition. Do not satisfy yourself merely with the act of writing down notes. The true power of cognitive scaffolding resides in applying categorical order and tags, ensuring notes can be effortlessly retrieved, combined, and synthesized with other ideas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can digital tools replace this analog card index routine effectively?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Hegel's card-index boxes were not dead archives; they functioned as an active ex
       Yes, absolutely. You can implement a card-index system using digital tools like Notion, Obsidian, or dedicated PKM apps. In particular, utilizing bidirectional links (Backlinks) replicates and even enhances Hegel's dialectical idea-linking mechanisms.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Why are concise atomic cards more effective than writing long continuous notebook pages?</span>

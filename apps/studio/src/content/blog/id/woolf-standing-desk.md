@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Novelis yang Menulis Sambil Berdiri Setiap Pagi? Kebiasaan Fokus Tinggi Virginia Woolf"
 description: "Raksasa sastra abad ke-20 Virginia Woolf. Pelajari ilmu fokus yang diperoleh dari menulis sambil berdiri—terinspirasi dari standar lukis kakak perempuannya—dan kebiasaan kerja berdiri modern."
 pubDate: "2026-06-06"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami membagikan manfaat ilmiah di balik rutinitas menu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai woolf-standing-desk didasarkan pada <strong>Pemeriksaan biografi historis & catatan tentang Virginia Woolf & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Pemeriksaan biografi historis & catatan tentang Virginia Woolf & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Proprioseptif Seluruh Tubuh yang Dipicu oleh Meja Berdiri dan Menulis Sambil Berdiri
+## 1. Stimulasi Proprioseptif Seluruh Tubuh yang Dipicu oleh Meja Berdiri dan Menulis Sambil Berdiri
 
 Kebiasaan Virginia Woolf menulis seolah melukis di meja berdiri setinggi 105 cm menstimulasi indra proprioseptif seluruh tubuh, melumpuhkan hambatan resistensi psikologis dalam menulis dan mengaktifkan fungsi eksekutif otak pada tingkat puncak.
 
 ---
 
-## Saran Menjaga Postur Saat Mengatur Lingkungan Kerja Berdiri
-
-Penting untuk menjaga keseimbangan fisik dengan memasang matras empuk anti-lelah guna mencegah beban bertumpu pada satu sisi dan beristirahat 5 menit setelah 40 menit bekerja.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Penting untuk menjaga keseimbangan fisik dengan memasang matras empuk anti-lelah
     Setelah 40 menit menulis fokus, lakukan peregangan ringan atau istirahat selama 5 menit untuk mencegah beban berat pada satu kaki dan menjaga keseimbangan fisik serta mental.
   </p>
 </div>
+
+---
+
+## 3. Saran Menjaga Postur Saat Mengatur Lingkungan Kerja Berdiri
+
+Penting untuk menjaga keseimbangan fisik dengan memasang matras empuk anti-lelah guna mencegah beban bertumpu pada satu sisi dan beristirahat 5 menit setelah 40 menit bekerja.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

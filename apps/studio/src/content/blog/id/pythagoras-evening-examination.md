@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Malam yang Menata Kembali Ketertiban Jiwa: Rutinitas Refleksi Diri Malam Hari Pythagoras"
 description: "Pythagoras merenungkan perkataan dan tindakannya sehari-hari sebanyak tiga kali setiap malam sebelum tidur. Jelajahi efek neurofisiologis dari 3 ritual pertanyaan diri yang membangkitkan metakognisi sebelum tidur, memperkuat ingatan episodik dan meningkatkan kemampuan regulasi emosi."
 pubDate: "2026-04-06"
@@ -31,25 +32,23 @@ Pythagoras, filsuf Yunani kuno dan ahli matematika serta geometri, menyatakan ba
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai pythagoras-evening-examination didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi tentang Refleksi Diri Malam Hari Pythagoras & penelitian ilmu saraf kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi tentang Refleksi Diri Malam Hari Pythagoras & penelitian ilmu saraf kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prinsip Sains Otak Konsolidasi Memori Sebelum Tidur dan Stabilitas Emosional
+## 1. Prinsip Sains Otak Konsolidasi Memori Sebelum Tidur dan Stabilitas Emosional
 
 Tidur adalah periode vital saat ingatan jangka pendek yang disimpan di hipokampus selama siang hari ditransfer ke korteks serebral dan dikonsolidasikan menjadi ingatan jangka panjang (Konsolidasi Memori). Memeriksa tindakan hari ini secara sengaja tepat sebelum tidur memberikan peta jalan bagi otak tentang 'episode mana yang harus diproses dan disimpan secara prioritas'. Selain itu, proses 'pemantauan diri' untuk mengevaluasi tindakan sendiri secara moral dan kognitif memperkuat sirkuit penghambat di lobus frontal, memurnikan endapan emosional (katarsis) dan mengaktifkan sistem saraf parasimpatis untuk menginduksi tidur gelombang lambat yang nyenyak.
 
 ---
 
-## Peringatan dan Tips
-
-Risiko terbesar dari refleksi malam adalah membiarkan refleksi berubah menjadi menyalahkan diri sendiri atau ruminasi. Tenggelam secara emosional dalam kejadian buruk yang terjadi hari ini dan mengulangi ruminasi akan memicu sekresi kortisol, hormon stres yang justru menyebabkan insomnia. Saat melakukan refleksi, pertahankan 'Cognitive Distance' dengan mengamati peristiwa secara objektif murni dari sudut pandang pihak ketiga, berfokus pada alternatif perilaku seperti 'Saya akan memperbaikinya seperti ini kali berikutnya' alih-alih menyalahkan diri sendiri.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Risiko terbesar dari refleksi malam adalah membiarkan refleksi berubah menjadi m
   </p>
 </div>
 
+---
+
+## 3. Peringatan dan Tips
+
+Risiko terbesar dari refleksi malam adalah membiarkan refleksi berubah menjadi menyalahkan diri sendiri atau ruminasi. Tenggelam secara emosional dalam kejadian buruk yang terjadi hari ini dan mengulangi ruminasi akan memicu sekresi kortisol, hormon stres yang justru menyebabkan insomnia. Saat melakukan refleksi, pertahankan 'Cognitive Distance' dengan mengamati peristiwa secara objektif murni dari sudut pandang pihak ketiga, berfokus pada alternatif perilaku seperti 'Saya akan memperbaikinya seperti ini kali berikutnya' alih-alih menyalahkan diri sendiri.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika saya terlalu sibuk dan lelah seharian sehingga tertidur saat merenung?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Risiko terbesar dari refleksi malam adalah membiarkan refleksi berubah menjadi m
       Tertidur saat lelah adalah hal yang alami. Namun, duduk di meja dan membuat catatan singkat selama 5 menit seperti menulis buku harian alih-alih berbaring di tempat tidur membantu mencegah tertidur terlalu cepat dan inersia tidur.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus saya lakukan jika rasa menyalahkan diri sendiri membuat saya tidak bisa tidur di malam hari?</span>

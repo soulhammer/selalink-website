@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "世界の音量をゼロに：ノーベル賞受賞者シュレーディンガーの騒音制御集中法"
 description: "物理学の巨匠エルヴィン・シュレーディンガーの耳栓遮音習慣を紹介。感覚フィルタリングの脳消耗をなくし効率を極大化する3ステップ無音没頭法。"
 pubDate: "2026-04-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「schrodinger-earplug-focus」は <strong>シュレーディンガーの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>シュレーディンガーの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 感覚フィルタリングのエネルギー消耗を防ぐ無音効果
+## 1. 感覚フィルタリングのエネルギー消耗を防ぐ無音効果
 
 人間の聴覚は睡眠中でも作動するほど危機察知に非常に敏感な感覚器官です。かすかな環境音を感知するたび、脳は無意識に安全性を見極める感覚フィルタリングを作動させ前頭葉の認知エネルギーを消費します。耳栓で聴覚入力を遮断すると、不要なデータ処理に使われていた酸素とブドウ糖の消費が停止し、温存されたエネルギーを目の前の作業へ100%投入して集中力を極大化します。
 
 ---
 
-## 耳鳴り防止と耳の衛生ルールの遵守
-
-耳栓をあまりに長時間・深く装着し続けると、耳管内の圧力が変化して耳鳴りが起きたり外耳炎の原因になります。集中セッションは最大50分に制限し、休憩時には必ず耳栓を外して耳を乾燥させてください。衛生管理も徹底しましょう。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     タイマーをセットして50分間完全な無音の中で高度に集中して勉強し、タイマーが鳴ったら耳栓を外して10分間耳を乾燥させながら休憩します。
   </p>
 </div>
+
+---
+
+## 3. 耳鳴り防止と耳の衛生ルールの遵守
+
+耳栓をあまりに長時間・深く装着し続けると、耳管内の圧力が変化して耳鳴りが起きたり外耳炎の原因になります。集中セッションは最大50分に制限し、休憩時には必ず耳栓を外して耳を乾燥させてください。衛生管理も徹底しましょう。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

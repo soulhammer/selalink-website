@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El novelista que prohibió el acceso a su familia durante 4 horas cada mañana? El método de concentración por control ambiental de Thomas Mann"
 description: "El escritor alemán galardonado con el Premio Nobel, Thomas Mann, escribía cada mañana de 9:00 AM a 1:00 PM completamente aislado de estímulos externos. Conozca los principios de control ambiental para prevenir el agotamiento cognitivo prefrontal y protocolos modernos de concentración."
 pubDate: "2026-01-24"
@@ -36,14 +37,14 @@ En este artículo, analizamos los principios neurocientíficos de la rutina de c
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mann-strict-schedule se basa en <strong>Biografías históricas, registros autobiográficos de Thomas Mann e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas, registros autobiográficos de Thomas Mann e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Control ambiental y prevención de la fatiga cognitiva cortical
+## 1. Control ambiental y prevención de la fatiga cognitiva cortical
 
 La energía cognitiva de la Corteza Prefrontal —que coordina la fuerza de voluntad y la resolución de problemas complejos— es máxima por la mañana, pero su capacidad es strictly limitada. Las pequeñas distracciones, como notificaciones o charlas, agotan esta energía rápidamente.
 
@@ -51,9 +52,7 @@ Debido al fenómeno de <strong>'Residuo de Atención (Attention Residue)'</stron
 
 ---
 
-## La trampa del trabajo superficial (Shallow Work)
-
-Revisar correos, responder mensajes al instante o navegar sin rumbo por la web le dan al cerebro una falsa sensación de productividad, pero no generan progreso cognitivo real: esto es 'Trabajo Superficial (Shallow Work)'. Al igual que Thomas Mann, debe fijar horas de enfoque, prohibir las tareas superficiales durante ese bloque y forzar al cerebro a entrar en 'Trabajo Profundo (Deep Work)'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Revisar correos, responder mensajes al instante o navegar sin rumbo por la web l
   </p>
 </div>
 
+---
+
+## 3. La trampa del trabajo superficial (Shallow Work)
+
+Revisar correos, responder mensajes al instante o navegar sin rumbo por la web le dan al cerebro una falsa sensación de productividad, pero no generan progreso cognitivo real: esto es 'Trabajo Superficial (Shallow Work)'. Al igual que Thomas Mann, debe fijar horas de enfoque, prohibir las tareas superficiales durante ese bloque y forzar al cerebro a entrar en 'Trabajo Profundo (Deep Work)'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Realmente Thomas Mann dejaba de escribir por completo a la 1:00 PM?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Revisar correos, responder mensajes al instante o navegar sin rumbo por la web l
       Sí, como vertía el 100% de su energía mental por la mañana, reconocía que su capacidad cognitiva se agotaba después de la 1:00 PM. Consideraba que escribir por la tarde reducía la calidad, por lo que reservaba sus tardes para tareas más ligeras como leer, pasear o editar.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Se pueden realizar las sesiones de Trabajo Profundo por la noche en lugar de la mañana?</span>

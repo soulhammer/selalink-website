@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Modularidad del pensamiento: El método de escritura con tarjetas de índice de Vladimir Nabokov"
 description: "El autor Vladimir Nabokov registró novelas en fragmentos en tarjetas y reordenó su secuencia. Explora el valor de la ciencia cognitiva de la planificación con tarjetas, que bloquea la sobrecarga cognitiva y combina ideas creativas con flexibilidad."
 pubDate: "2026-01-01"
@@ -38,22 +39,20 @@ En la publicación de hoy, examinamos cómo el ritual de planificación con tarj
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre nabokov-index-card se basa en <strong>Biografía crítica histórica y verificación de registros autobiográficos de la tarjeta de índice de Nabokov e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía crítica histórica y verificación de registros autobiográficos de la tarjeta de índice de Nabokov e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismos neuronales para bloquear la sobrecarga cognitiva y la creatividad combinatoria
+## 1. Mecanismos neuronales para bloquear la sobrecarga cognitiva y la creatividad combinatoria
 
 Cuando el cerebro percibe que debe producir un resultado importante y de alta calidad, la amígdala activa una alarma inconsciente de posible fallo, lo que provoca la procrastinación. Al realizar primero una escritura trivial y de bajo riesgo, se envía retroalimentación al cerebro de que se encuentra en un 'estado seguro sin evaluación', lo que calma la hiperactividad de la amígdala. Simultáneamente, el área de Broca y la corteza motora se activan suavemente, engranando el sistema cognitivo y reduciendo drásticamente la barrera de resistencia al iniciar la tarea principal.
 
 ---
 
-## Precauciones y consejos
-
-Si se absorbe demasiado en la escritura de tarjetas y simplemente anota ideas al azar sin relevancia, enfrentará una enorme barrera de fragmentación al intentar unirlas más adelante. Por lo tanto, cada tarjeta debe registrar solo un pensamiento o episodio completo y autónomo, y debe recordar periódicamente la arquitectura general (p. ej., un esquema general) para clasificar las tarjetas en categorías aproximadas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Si se absorbe demasiado en la escritura de tarjetas y simplemente anota ideas al
     Una vez establecida la secuencia óptima, fije el flujo de las tarjetas y complete el documento o propuesta añadiendo detalles ordenadamente a partir de la primera tarjeta.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Si se absorbe demasiado en la escritura de tarjetas y simplemente anota ideas al azar sin relevancia, enfrentará una enorme barrera de fragmentación al intentar unirlas más adelante. Por lo tanto, cada tarjeta debe registrar solo un pensamiento o episodio completo y autónomo, y debe recordar periódicamente la arquitectura general (p. ej., un esquema general) para clasificar las tarjetas en categorías aproximadas.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

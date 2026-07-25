@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Torre de Observação Inabalável: A Rotina de Concentração em Espaço Fixo e Condicionamento Ambiental de Nicolau Copérnico"
 description: "Descubra como Nicolau Copérnico manteve uma torre de observação fixa em Frombork por décadas. Explore a neurociência cognitiva do condicionamento espacial e da memória dependente do contexto que elimina o tempo de aquecimento cognitivo."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina da 'torre 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre copernicus-observatory-tower é baseada em <strong>Verificação Histórica de *Das Revoluções das Esferas Celestes (De revolutionibus orbium coelestium)* de Nicolau Copérnico e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Das Revoluções das Esferas Celestes (De revolutionibus orbium coelestium)* de Nicolau Copérnico e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por Que Fixar o Espaço de Trabalho Elimina o Aquecimento Cerebral: Memória Dependente do Contexto e Condicionamento Espacial
+## 1. Por Que Fixar o Espaço de Trabalho Elimina o Aquecimento Cerebral: Memória Dependente do Contexto e Condicionamento Espacial
 
 Uma causa principal da ineficiência cognitiva é o 'Custo de Mudança de Contexto'. Trabalhar em ambientes variáveis obriga o cérebro a gastar energia pré-frontal mapeando novos estímulos sensorials, gerando atrasos no aquecimento cognitivo. No entanto, dedicar um espaço exclusivo a uma única tarefa intelectual estabelece a 'Memória Dependente do Contexto' por meio de redes hipocámpico-pré-frontais. Ao sentar-se naquela estação designada, o cérebro pula a fase de aquecimento, ativando a recuperação associativa e alternando para o modo de Trabalho Profundo em segundos.
 
 ---
 
-## Precauções e Dicas: Prevenir a Contaminação de Estímulos Ambientais e Vincular uma Única Ação
-
-O principal erro ao construir uma rotina de espaço fixo é contaminar os estímulos ambientais realizando atividades não relacionadas ao trabalho — como assistir a vídeos, jogar ou usar redes sociais — naquela mesa. Usar um espaço de trabalho dedicado para entretenimento destrói a associação neuronal entre o espaço e o foco executivo. Vincule estritamente 'uma única ação cognitiva principal' ao seu espaço. Ao fazer uma pausa, levante-se e mude de área.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O principal erro ao construir uma rotina de espaço fixo é contaminar os estím
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Prevenir a Contaminação de Estímulos Ambientais e Vincular uma Única Ação
+
+O principal erro ao construir uma rotina de espaço fixo é contaminar os estímulos ambientais realizando atividades não relacionadas ao trabalho — como assistir a vídeos, jogar ou usar redes sociais — naquela mesa. Usar um espaço de trabalho dedicado para entretenimento destrói a associação neuronal entre o espaço e o foco executivo. Vincule estritamente 'uma única ação cognitiva principal' ao seu espaço. Ao fazer uma pausa, levante-se e mude de área.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Como posso aplicar esta rotina se morar em um estúdio pequeno e não puder isolar um espaço de trabalho?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O principal erro ao construir uma rotina de espaço fixo é contaminar os estím
       Se o isolamento físico for impossível, crie estímulos sensoriais artificiais: use uma 'luminária de mesa dedicada' acesa apenas para o trabalho, ou estenda uma 'base de mesa' exclusiva para sessões de foco. Criar um sinal visual constante treina as redes pré-frontais de forma idêntica.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que devo fazer se me sentar na mesa designada, mas ficar distraído e não conseguir começar em 5 minutos?</span>

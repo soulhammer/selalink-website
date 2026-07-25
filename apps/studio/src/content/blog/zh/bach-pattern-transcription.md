@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "月光下抄写乐谱的大师？巴赫刺激顶叶的抄写习惯"
 description: "终其一生通过抄写前辈作曲家的乐谱将数学规则内化于心的约翰·塞巴斯蒂安·巴赫。为您揭示指尖操作刺激大脑逻辑区域的科学原理与现代抄写习惯。"
 pubDate: "2026-06-19"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 bach-pattern-transcription 的内容基于 <strong>约翰·尼古劳斯·福克尔《巴赫的生平与艺术（1802）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>约翰·尼古劳斯·福克尔《巴赫的生平与艺术（1802）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 手指精细运动与顶叶联合区
+## 1. 手指精细运动与顶叶联合区
 
 敲击计算机键盘或触摸显示屏的现代数字学习，是一种仅轻描淡写地拂过大脑运动皮层极小一部分区域的低密度认知活动。相反，手握钢笔在纸上着力书写复杂文本或符号的模拟抄写行为，则需要精细的微肌肉（Fine Motor）控制。
 
@@ -49,11 +50,7 @@ faqs:
 
 ---
 
-## 有助于习惯成功的脑科学寄语
-
-<strong>手是延伸至体外的大脑</strong>
-
-看着显示器屏幕用眼睛阅读或用鼠标拖拽的信息，只会非常浅显地在大脑中流过并消失。如果想强化大脑的逻辑回路，不妨只需10分钟，拿起笔来进行抄写。正如巴赫用指尖抄写复杂的赋格模式从而掌控巴洛克音乐的完美公式一样，你的大脑在经过模拟抄写时，也会将艰深的知识完全纳为己有。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ faqs:
     完成抄写后，由上至下静静地扫视排列在纸上的文本结构，在视觉上重新梳理其逻辑关系与排布方式。这一视觉-逻辑匹配阶段能在前额叶确立起清晰的结构框架。
   </p>
 </div>
+
+---
+
+## 3. 有助于习惯成功的脑科学寄语
+
+<strong>手是延伸至体外的大脑</strong>
+
+看着显示器屏幕用眼睛阅读或用鼠标拖拽的信息，只会非常浅显地在大脑中流过并消失。如果想强化大脑的逻辑回路，不妨只需10分钟，拿起笔来进行抄写。正如巴赫用指尖抄写复杂的赋格模式从而掌控巴洛克音乐的完美公式一样，你的大脑在经过模拟抄写时，也会将艰深的知识完全纳为己有。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

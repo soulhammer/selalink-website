@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "元素的牌局：门捷列夫的化学纸牌排序日常"
 description: "德米特里·门捷列夫通过将写有元素性质的卡片像打纸牌接龙一样进行摆放，最终完成了元素周期表。揭示将文本置于物理空间中如何激活大脑识别复杂模式能力的科学原理。"
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mendeleev-chemical-solitaire 的内容基于 <strong>门捷列夫历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>门捷列夫历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 信息的空间布局与物理操作激活模式识别区域的科学原由
+## 1. 信息的空间布局与物理操作激活模式识别区域的科学原由
 
 屏幕或纸张上的平面文本会被大脑的视觉处理系统识别为二维数据，从而形成分析性计算的屏障。相反，将信息拆分至独立的纸牌上并在桌面上进行空间重排，会激活主管空间定位的顶叶区域。大脑通过手指触觉信号与三维视觉反馈感知概念间的有机距离，联动手前额叶与顶叶神经网，以极高的敏捷度捕捉在平面文本中极易被忽略的内在规律。
 
 ---
 
-## 注意事项与实用建议
-
-在制作纸牌时，切忌试图在一张卡片上塞入过多的细节内容，否则这会退化为密集的文档，丧失空间操作的优势。每张卡片必须仅写入一个核心关键词或明确的概念提示，方能最大化发挥大脑的“视觉空间草稿簿”功能。同时，将同时操作的纸牌数量控制在 10 至 20 张以内，以便大脑能够一眼掌控全貌。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     当调整出最直观、逻辑连贯的卡片阵列后，用手机拍照记录，将物理建构的阵列与脑海中的空间记忆同步归档。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与实用建议
+
+在制作纸牌时，切忌试图在一张卡片上塞入过多的细节内容，否则这会退化为密集的文档，丧失空间操作的优势。每张卡片必须仅写入一个核心关键词或明确的概念提示，方能最大化发挥大脑的“视觉空间草稿簿”功能。同时，将同时操作的纸牌数量控制在 10 至 20 张以内，以便大脑能够一眼掌控全貌。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

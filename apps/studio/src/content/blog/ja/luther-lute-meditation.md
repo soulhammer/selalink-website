@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "メンタル整頓の波動：マルティン・ルターの朝のリュート演奏習慣と神経調律"
 description: "宗教改革の巨大な重圧の中でも、毎朝弦楽器リュートを演奏しながら瞑想したマルティン・ルター。聴覚-運動統合経路と迷走神経刺激を通じて自律神経系を安定させ、メンタルを整えた脳科学的原理と3段階実践ガイドを解説します。"
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「luther-lute-meditation」は <strong>マルティン・ルター史料『卓上語録（Tischreden, 1566）』考証＆認知神経科学（Cognitive Neuroscience）および音楽療法学（Music Therapy）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マルティン・ルター史料『卓上語録（Tischreden, 1566）』考証＆認知神経科学（Cognitive Neuroscience）および音楽療法学（Music Therapy）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 聴覚-運動統合経路（Auditory-Motor Integration）と迷走神経（Vagus Nerve）刺激の脳科学
+## 1. 聴覚-運動統合経路（Auditory-Motor Integration）と迷走神経（Vagus Nerve）刺激の脳科学
 
 楽器を指で精巧に操作する行為は脳の運動皮質を活性化し、聴覚皮質とのフィードバックループである<strong>聴覚-運動統合経路（Auditory-Motor Integration）</strong>を連結させます。自分自身が響かせた弦の振動に注意を固定すると、脳は不安に関連する不要な前頭前野のノイズを静め、現在の体性感覚刺激に集中します。また一定のリズムの弦楽演奏は<strong>迷走神経（Vagus Nerve）</strong>を刺激して<strong>心拍変動（HRV）</strong>を高め、<strong>副交感神経系</strong>を活性化して脳波を<strong>アルファ波</strong>状態へと安定させます。
 
 ---
 
-## 注意事項：演奏の熟練度や評価への執着を排除し指先の振動感覚に没頭するルール
-
-音楽瞑想ルーティンの最大の障害は、演奏スキル向上や正確性に執着することです。演奏法が難しいと感じたりミスを心配し始めると、脳に評価ストレスが加わり、感情中枢である<strong>扁桃体（Amygdala）</strong>をかえって刺激してしまいます。カリンバ、ウクレレ、タングドラムのように構造が単純で直感的な楽器を活用し、上手く弾こうとする執着を手放して音と振動そのものを楽しむ5分間の感覚換気に集中してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：演奏の熟練度や評価への執着を排除し指先の振動感覚に没頭するルール
+
+音楽瞑想ルーティンの最大の障害は、演奏スキル向上や正確性に執着することです。演奏法が難しいと感じたりミスを心配し始めると、脳に評価ストレスが加わり、感情中枢である<strong>扁桃体（Amygdala）</strong>をかえって刺激してしまいます。カリンバ、ウクレレ、タングドラムのように構造が単純で直感的な楽器を活用し、上手く弾こうとする執着を手放して音と振動そのものを楽しむ5分間の感覚換気に集中してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>扱える楽器が全くない初心者でもこのルーティンで効果を得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、完全に可能です！極意は精巧な音楽的技巧ではなく「指先の微細運動刺激と音の響きの認知」にあります。カリンバ、タングドラム、シンギングボウルのようにタッチが直感的な単純楽器で5分間音と振動に集中するだけで、同様の副交感神経刺激効果を得られます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>音楽を単に聴く音楽鑑賞だけで演奏ルーティンを代替することはできませんか？</span>

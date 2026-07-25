@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Poder para Despertar os Circuitos Cerebrais Positivos: A Rotina de Sorriso em Frente ao Espelho e Limpeza de Dosan Ahn Chang-ho"
 description: "O poder do 'sorriso' e da 'limpeza' enfatizado pelo ativista da independência Dosan Ahn Chang-ho. Descubra as razões científicas pelas quais um sorriso forçado liberta serotonina no cérebro e um espaço organizado reduz a carga cognitiva visual."
 pubDate: "2026-01-19"
@@ -33,17 +34,17 @@ No artigo de hoje, analisamos os princípios da hipótese do feedback facial e d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre anchangho-mirror-smile é baseada em <strong>Verificação Histórica da Biografia de Dosan Ahn Chang-ho, Registros da Young Korean Academy (Hung Sah Dahn) e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Dosan Ahn Chang-ho, Registros da Young Korean Academy (Hung Sah Dahn) e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efeitos Terapêuticos Cognitivos da Hipótese do Feedback Facial e da Organização do Espaço Físico
+## 1. Efeitos Terapêuticos Cognitivos da Hipótese do Feedback Facial e da Organização do Espaço Físico
 
 De acordo com a Hipótese do Feedback Facial (Facial Feedback Hypothesis) na fisiologia, o cérebro não apenas move os músculos faciais com base na emoção, mas inversamente detecta o estado de contração dos músculos faciais para determinar o estado emocional atual. Apenas forçar um sorriso pela manhã faz com que o cérebro o perceba como um estímulo de alegria, promovendo a secreção de neurotransmissores positivos como serotonina e dopamina, e diminuindo o nível de cortisol, o hormônio do estresse.
 
@@ -51,9 +52,7 @@ Além disso, limpar e organizar o espaço ao redor bloqueia significativamente o
 
 ---
 
-## Uma Palavra de Dosan para Organizar a Mente e o Espaço
-
-Quando sua mente estiver dispersa, em vez de se esforçar para juntar seus pensamentos à força, comece enviando primeiro um sorriso para si mesmo no espelho e recolhendo um pedaço de lixo bem diante dos seus olhos. O sorriso afasta a escuridão interior, e a limpeza corrige a desordem exterior, guiando você pelo caminho certo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ Quando sua mente estiver dispersa, em vez de se esforçar para juntar seus pensa
   </p>
 </div>
 
+---
+
+## 3. Uma Palavra de Dosan para Organizar a Mente e o Espaço
+
+Quando sua mente estiver dispersa, em vez de se esforçar para juntar seus pensamentos à força, comece enviando primeiro um sorriso para si mesmo no espelho e recolhendo um pedaço de lixo bem diante dos seus olhos. O sorriso afasta a escuridão interior, e a limpeza corrige a desordem exterior, guiando você pelo caminho certo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

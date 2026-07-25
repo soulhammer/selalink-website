@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "每天早晨用剪刀剪报的小说家？乔治·奥威尔的知识图谱构建法"
 description: "小说家乔治·奥威尔每天早晨细读多份报纸，并用剪刀剪下文章分类黏贴至剪贴簿中。探索将信息构建为有机图谱的前额叶强化原理与现代数字剪报习惯。"
 pubDate: "2026-03-13"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 orwell-newspaper-clipping 的内容基于 <strong>乔治·奥威尔历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>乔治·奥威尔历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 信息编码与认知图谱的脑科学
+## 1. 信息编码与认知图谱的脑科学
 
 仅仅用眼睛扫视大量数字文章，信息只会短暂留存在短期记忆中并迅速消退。相反，主动挑选文章、进行“剪裁（物理或数字操作）”并分类整理的行为，会触发大脑的<strong>“深度编码（Deep Encoding）”</strong>机制。这种信息结构化工作不仅能将信息定格于大脑皮层的长期存储库中，还会构建起与现有知识体系相连的<strong>“图谱（Schema）网络”</strong>。具备丰富认知图谱的大脑在接触新信息时能更快理解语境、抓住问题本质，并在写作或决策时以最快速度检索（Recall）所需背景知识，展现出高超的流体智力。
 
 ---
 
-## 盲目收集成瘾的陷阱
-
-仅仅通过一次点击将好文章或链接存入收藏文件夹，会导致陷入“收集者谬误（Collector's Fallacy）”——让大脑误以为已经掌握了该知识。只有当亲自动手总结或用自己的语言添加一行个人评价以刺激大脑认知时，这些信息才能转化为真正消化并可运用的知识图谱。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 盲目收集成瘾的陷阱
+
+仅仅通过一次点击将好文章或链接存入收藏文件夹，会导致陷入“收集者谬误（Collector's Fallacy）”——让大脑误以为已经掌握了该知识。只有当亲自动手总结或用自己的语言添加一行个人评价以刺激大脑认知时，这些信息才能转化为真正消化并可运用的知识图谱。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>乔治·奥威尔的剪贴簿有实物保存至今吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，乔治·奥威尔收集的文章、手剪剪贴簿副本及相关工作手稿作为珍贵的历史档案，完好保存于伦敦大学学院（UCL）的“奥威尔档案馆”中。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若要在数字设备上实践此剪报习惯，推荐使用哪些应用？</span>

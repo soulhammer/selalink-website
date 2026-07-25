@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Un Rey Conquistador que Grabó Edictos en la Roca para Reflexionar? La Rutina Diaria de Reflexión Ética de Ashoka el Grande"
 description: "Ashoka el Grande del Imperio Maurya en la India. Descubra su rutina de anclaje externo y plan de acción de 3 pasos, donde se arrepintió de los horrores de la Guerra de Kalinga y erigió edictos en pilares para reflexionar sobre su ser ético todos los días."
 pubDate: "2026-06-04"
@@ -36,14 +37,14 @@ En la publicación de hoy, revelamos los principios de funcionamiento neurocient
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre ashoka-edict-inscribed-reflection se basa en <strong>Verificación Histórica de los Edictos de Ashoka (Edicts of Ashoka) e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de los Edictos de Ashoka (Edicts of Ashoka) e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ancla Visual de Valores Externos y Mecanismo de Refuerzo de la Autoidentidad Prefrontal
+## 1. Ancla Visual de Valores Externos y Mecanismo de Refuerzo de la Autoidentidad Prefrontal
 
 Las emociones humanas y los deseos momentáneos fluctúan con frecuencia bajo la influencia del hipotálamo y el sistema límbico. Cuando exterioriza sus creencias fundamentales en estructuras físicas visibles como el Rey Ashoka, el cerebro activa de inmediato el efecto de <strong>'Anclaje Visual (Visual Anchoring)'</strong> al reconocer el texto físico.
 
@@ -51,9 +52,7 @@ El acto de ver y leer sus valores fundamentales a una hora fija todos los días 
 
 ---
 
-## Tenga Cuidado de que las Declaraciones de Valores Se Conviertan en Eventos Únicos y Formalismo Vacío
-
-Si escribe una tarjeta de valores de forma bonita, la pega y nunca la vuelve a leer, no se producirá ningún efecto de anclaje neurocientífico. Así como el Rey Ashoka reflexionaba sobre las inscripciones de los pilares todos los días, la clave reside en la 'repetición diaria de comprobar visualmente y recitar'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Si escribe una tarjeta de valores de forma bonita, la pega y nunca la vuelve a l
   </p>
 </div>
 
+---
+
+## 3. Tenga Cuidado de que las Declaraciones de Valores Se Conviertan en Eventos Únicos y Formalismo Vacío
+
+Si escribe una tarjeta de valores de forma bonita, la pega y nunca la vuelve a leer, no se producirá ningún efecto de anclaje neurocientífico. Así como el Rey Ashoka reflexionaba sobre las inscripciones de los pilares todos los días, la clave reside en la 'repetición diaria de comprobar visualmente y recitar'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Está bien tener más de 3 palabras de valores?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Si escribe una tarjeta de valores de forma bonita, la pega y nunca la vuelve a l
       Se recomienda encarecidamente limitarlo a 3 o menos. Si la cantidad de valores aumenta a 5 o más, la memoria de trabajo (Working Memory) se sobrecarga, debilitando rápidamente el efecto de anclaje.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo cambiar mis palabras de valores con el tiempo?</span>

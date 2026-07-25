@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Écrire debout avec son chapeau juste après la marche : La routine de capture instantanée et d'échauffement cognitif de Søren Kierkegaard"
 description: "Découvrez comment le philosophe existentialiste Søren Kierkegaard préservait ses intuitions en écrivant debout à des pupitres hauts dès son retour de marche, sans retirer son chapeau ni son manteau. Explorez la neuroscience de l'échauffement cognitif et de la mémoire de travail."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant kierkegaard-standing-write est basée sur <strong>Vérification Historique issue des *Journaux de Søren Kierkegaard*, de la biographie de Joakim Garff & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des *Journaux de Søren Kierkegaard*, de la biographie de Joakim Garff & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Échauffement cognitif et préservation de la mémoire de travail
+## 1. Échauffement cognitif et préservation de la mémoire de travail
 
 Juste après une activité physique comme la marche, le cerveau entre dans un état d'<strong>Échauffement Cognitif (Cognitive Warm-up)</strong> stimulé par la <strong>dopamine</strong> et la <strong>noradrénaline</strong>. Transcrire ses pensées durant cette fenêtre permet de les fixer dans le cortex préfrontal sans déperdition. De plus, travailler debout maintient la tonicité musculaire, préservant le flux sanguin cérébral et accélérant la <strong>Mémoire de Travail</strong>. Cela prévient la fragmentation cognitive et élimine le <strong>Reste d'Attention (Attention Residue)</strong>.
 
 ---
 
-## Mise en garde : Consigne de capture immédiate au retour pour éliminer le reste d'attention
-
-Lors du passage du mouvement au repos au domicile, le cerveau diminue naturellement son niveau d'éveil. Consacrer seulement 5 minutes a poser ses affaires ou s'asseoir fait disparaître les détails d'una idée. Pour prévenir cette perte, fixez votre ordre de priorité : consacrez 5 a 10 minutes a écrire debout avant toute tâche ménagère.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lors du passage du mouvement au repos au domicile, le cerveau diminue naturellem
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Consigne de capture immédiate au retour pour éliminer le reste d'attention
+
+Lors du passage du mouvement au repos au domicile, le cerveau diminue naturellement son niveau d'éveil. Consacrer seulement 5 minutes a poser ses affaires ou s'asseoir fait disparaître les détails d'una idée. Pour prévenir cette perte, fixez votre ordre de priorité : consacrez 5 a 10 minutes a écrire debout avant toute tâche ménagère.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il obligatoire d'écrire debout ? Puis-je m'asseoir à la place ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lors du passage du mouvement au repos au domicile, le cerveau diminue naturellem
       S'asseoir immédiatement au retour provoque una baisse rapide de l'éveil physique, plongeant le cerveau dans un état de relaxation profonde. La station debout maintient l'éveil corporel et préserve la mémoire de travail pendant ces 10 minutes décisives.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment appliquer cette routine sans pupitre haut ni bureau debout ?</span>

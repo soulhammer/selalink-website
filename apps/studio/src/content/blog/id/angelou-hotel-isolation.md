@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pemblokiran Lingkungan untuk Fokus: Rutinitas Isolasi Hotel Maya Angelou"
 description: "Penyair dan aktivis legendaris Maya Angelou menulis secara eksklusif di kamar hotel kosong tanpa stimulasi untuk memaksimalkan konsentrasi. Pelajari prinsip neurosains tentang kontrol stimulasi lingkungan."
 pubDate: "2026-03-21"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains tentang k
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai angelou-hotel-isolation didasarkan pada <strong>Verifikasi Historis dari Catatan Autobiografi Maya Angelou, *Daily Rituals* karya Mason Currey & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Catatan Autobiografi Maya Angelou, *Daily Rituals* karya Mason Currey & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kontrol Stimulasi Visual dan Konservasi Energi Kognitif Prefrontal
+## 1. Kontrol Stimulasi Visual dan Konservasi Energi Kognitif Prefrontal
 
 Bahkan tanpa kesadaran yang jelas, otak manusia secara konstan memindai stimulasi visual dan auditori di lingkungan sekitar, yang menguras energi kognitif. Menyediakan ruang isolasi yang khusus dan minimalis secara drastis mengurangi stimulasi lingkungan, menghemat energi prefrontal sepenuhnya untuk terfokus pada pekerjaan.
 
 ---
 
-## Saran Neurosains untuk Kebiasaan Fokus Lingkungan yang Sukses
-
-Sangat sulit untuk mengatasi faktor pemecah konsentrasi hanya dengan kemauan keras. Fokus sejati berasal dari merancang lingkungan ruang fisik terlebih dahulu di mana godaan tidak dapat berakar. Rapikan meja Anda dan isolasi perangkat elektronik untuk menciptakan lingkungan di mana otak Anda tidak punya pilihan selain terfokus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Sangat sulit untuk mengatasi faktor pemecah konsentrasi hanya dengan kemauan ker
     Tetapkan waktu yang jelas untuk memasuki dan meninggalkan zona fokus. Ketika sesi penulisan atau pekerjaan yang ditentukan berakhir, bangkitlah sepenuhnya dari tempat duduk Anda untuk menciptakan garis batas psikologis antara pekerjaan dan istirahat.
   </p>
 </div>
+
+---
+
+## 3. Saran Neurosains untuk Kebiasaan Fokus Lingkungan yang Sukses
+
+Sangat sulit untuk mengatasi faktor pemecah konsentrasi hanya dengan kemauan keras. Fokus sejati berasal dari merancang lingkungan ruang fisik terlebih dahulu di mana godaan tidak dapat berakar. Rapikan meja Anda dan isolasi perangkat elektronik untuk menciptakan lingkungan di mana otak Anda tidak punya pilihan selain terfokus.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

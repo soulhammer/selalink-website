@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Domínio Multilíngue de Cleópatra: O Hábito de Diálogo Intelectual que Governou o Mundo Sem Intérpretes"
 description: "Descubra como a rainha egípcia Cleópatra falava fluentemente pelo menos nove idiomas sem intérpretes, e explore a neurociência cognitiva da estimulação das áreas de Broca e Wernicke, densidade da matéria cinzenta e flexibilidade cognitiva pré-frontal."
 pubDate: "2026-03-03"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'domín
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre cleopatra-multilingual-study é baseada em <strong>Verificação Histórica de *Vidas Paralelas (Parallel Lives)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Vidas Paralelas (Parallel Lives)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação das Áreas de Broca e Wernicke, Densidade da Matéria Cinzenta Cortical e Flexibilidade Cognitiva
+## 1. Estimulação das Áreas de Broca e Wernicke, Densidade da Matéria Cinzenta Cortical e Flexibilidade Cognitiva
 
 O processamento e a produção de idiomas estrangeiros estimulam de forma cruzada a área de Wernicke (compreensão da linguagem) e a área de Broca (produção da fala e sintaxe). Alternar continuamente entre estruturas gramaticais distintas (comutação de código) aciona a Rede de Controle Cognitivo (CCN) pré-frontal. A neurociência revela que indivíduos multilíngues apresentam aumento significativo na densidade da matéria cinzenta no córtex pré-frontal, o que resulta em memória de trabalho superior. Essa comutação cria uma sólida Reserva Cognitiva.
 
 ---
 
-## Precauções e Dicas: Rejeitar o Consumo Passivo e Exigir Produção Ativa Falada e Escrita
-
-Assistir a videoaulas ou ouvir podcasts de forma passiva não fortalece a densidade neuronal nas redes da linguagem. Para estimular a neuroplasticidade como Cleópatra, combine a escuta com a 'Produção Ativa': pratique em voz alta para exercitar os músculos articulatórios, a área de Broca e o córtex motor, enquanto escreve a mão frases próprias.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Assistir a videoaulas ou ouvir podcasts de forma passiva não fortalece a densid
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Rejeitar o Consumo Passivo e Exigir Produção Ativa Falada e Escrita
+
+Assistir a videoaulas ou ouvir podcasts de forma passiva não fortalece a densidade neuronal nas redes da linguagem. Para estimular a neuroplasticidade como Cleópatra, combine a escuta com a 'Produção Ativa': pratique em voz alta para exercitar os músculos articulatórios, a área de Broca e o córtex motor, enquanto escreve a mão frases próprias.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Assistir a vídeos ou mídias estrangeiras de forma passiva não melhora as redes cerebrais da linguagem?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Assistir a videoaulas ou ouvir podcasts de forma passiva não fortalece a densid
       Sim, a eficiência é extremamente baixa. A visualização passiva apenas estimula circuitos auditivos da área de Wernicke, sem acionar a área de Broca. É necessária a articulação vocal por leitura em voz alta e a construção ativa de frases para impulsionar a neuroplasticidade sináptica.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Estudar dois ou mais idiomas estrangeiros ao mesmo tempo não provoca uma sobrecarga cognitiva?</span>

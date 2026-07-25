@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "做出现明决策的奥秘？巴拉克·奥巴马的决策简化习惯"
 description: "探讨美国第44任总统巴拉克·奥巴马在任期间实践的决策简化惯例。通过减少前额叶决策疲劳来极大提升核心事务效率的三步秘诀。"
 pubDate: "2026-01-06"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 obama-decision-simplification 的内容基于 <strong>巴拉克·奥巴马历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>巴拉克·奥巴马历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 决策疲劳与自我损耗：前额叶皮层的能量局限
+## 1. 决策疲劳与自我损耗：前额叶皮层的能量局限
 
 心理学与脑科学领域的实证研究表明，决策能力并非取之不尽的资源，而是如同有限的电池。清晨起床思考穿哪双袜子、吃什么早餐等微小选择，都会消耗前额叶皮层的认知资源（Willpower）。这种资源逐渐耗尽的现象被称为<strong>“自我损耗（Ego Depletion）”</strong>或<strong>“决策疲劳（Decision Fatigue）”</strong>。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 高效决策管理的脑科学一言
-
-更少的琐碎选择意味着更深度的专注。请尝试简化日常选择过程，防止大脑认知能量的泄漏，从而为你真正渴望成功的领域注入爆发性的推进力。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     利用通过简化清晨流程所保留的宝贵认知能量。切勿在上班后将其浪费在查阅无关紧要的邮件或琐碎碎谈上；将今天最核心复杂的决策作为第一项任务来处理。
   </p>
 </div>
+
+---
+
+## 3. 高效决策管理的脑科学一言
+
+更少的琐碎选择意味着更深度的专注。请尝试简化日常选择过程，防止大脑认知能量的泄漏，从而为你真正渴望成功的领域注入爆发性的推进力。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

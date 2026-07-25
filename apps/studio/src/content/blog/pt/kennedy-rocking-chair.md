@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Cadeira de Balanço do Salão Oval: A Superação da Dor Espinal de John F. Kennedy e o Relaxamento Vestibular"
 description: "Descubra como John F. Kennedy liderou os EUA durante as crises da Guerra Fria enfrentando dores na coluna usando sua cadeira de balanço no Salão Oval. Explore a neurociência da estimulação vestibular, ativação parassimpática e uma rotina de 3 passos."
 pubDate: "2026-02-10"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva e a ortopedia por trás 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre kennedy-rocking-chair é baseada em <strong>Verificação Histórica da Biblioteca Presidencial John F. Kennedy, Arquivos da Dra. Janet Travell e Pesquisa em Neurociência Cognitiva e Ortopédia</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biblioteca Presidencial John F. Kennedy, Arquivos da Dra. Janet Travell e Pesquisa em Neurociência Cognitiva e Ortopédia</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação do Sistema Vestibular e Ativação do Sistema Nervoso Parassimpático
+## 1. Estimulação do Sistema Vestibular e Ativação do Sistema Nervoso Parassimpático
 
 O movimento rítmico de balanço estimula o <strong>Sistema Vestibular</strong> no ouvido interno. Os sinais vestibulares viajam pelo tronco cerebral para ativar o <strong>Sistema Nervoso Parassimpático</strong>, reduzindo os batimentos cardíacos, a frequência respiratória e a liberação de <strong>cortisol</strong>. Ortopedicamente, esses micromovimentos promovem a circulação de fluidos nos discos intervertebrais, reduzindo a carga estática. Essa diminuição da dor acalma a <strong>amígdala</strong>, permitindo que o <strong>Córtex Pré-frontal</strong> mantenha a clareza decisória.
 
 ---
 
-## Precaução: Evite a Carga Estática e Induza Micromovimentos na Coluna Vertebral
-
-A dor crônica no pescoço e nas costas resulta da 'Carga Estática': permanecer imóvel na mesma postura por horas. A rigidez física gera estresse emocional e rigidez mental. Seguindo o exemplo de Kennedy, criar micromovimentos suaves enquanto sentado é o segredo para preservar a saúde da coluna e a clareza mental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A dor crônica no pescoço e nas costas resulta da 'Carga Estática': permanecer
   </p>
 </div>
 
+---
+
+## 3. Precaução: Evite a Carga Estática e Induza Micromovimentos na Coluna Vertebral
+
+A dor crônica no pescoço e nas costas resulta da 'Carga Estática': permanecer imóvel na mesma postura por horas. A rigidez física gera estresse emocional e rigidez mental. Seguindo o exemplo de Kennedy, criar micromovimentos suaves enquanto sentado é o segredo para preservar a saúde da coluna e a clareza mental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Posso obter um efeito de relaxamento semelhante usando uma cadeira de escritório comum?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A dor crônica no pescoço e nas costas resulta da 'Carga Estática': permanecer
       Sim! Desbloquear o mecanismo de inclinação da sua cadeira de escritório e balançar suavemente o tronco para a frente e para trás estimula os receptores vestibulares, evitando a carga estática e ativando o sistema parassimpático.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Qual é a velocidade ou ritmo ideal de balanço para relaxar o sistema nervoso?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Évacuer le stress extrême au bout du pinceau : La routine de journal de réflexion de l'amiral Yi Sun-sin"
 description: "L'amiral Yi Sun-sin, héros national de Joseon. Découvrez les effets psychologiques cognitifs et la routine d'organisation émotionnelle en 3 étapes de la rédaction d'un journal de réflexion (Nanjung Ilgi), le secret pour surmonter la pression extrême du champ de bataille et l'angoisse intérieure afin d'établir une légende invaincue."
 pubDate: "2026-06-29"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous présentons les effets psychologiques cogniti
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant yisunshin-war-diary est basée sur <strong>Examen des biographies historiques et des récits autobiographiques de l'amiral Yi Sun-sin et recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Examen des biographies historiques et des récits autobiographiques de l'amiral Yi Sun-sin et recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Catharsis émotionnelle et effets apaisants sur l'amygdale de l'écriture expressive
+## 1. Catharsis émotionnelle et effets apaisants sur l'amygdale de l'écriture expressive
 
 Face à des émotions négatives telles qu'une peur intense ou un sentiment d'injustice, le centre de la peur du cerveau, l'<strong>Amygdale</strong>, devient extrêmement surchauffé. Dans cet état, les fonctions du lobe frontal responsables du jugement rationnel et de la volonté sont paralysées. Selon les recherches en psychologie cognitive, l'<strong>« Écriture Expressive »</strong> — l'acte de transférer des états émotionnels amorphes dans un texte manuscrit structuré — apaise de force l'activation anormale de l'amygdale. En nommant les émotions et en les alignant avec des faits objectifs, le cerveau perçoit des situations auparavant incontrôlables comme gérables, libérant immédiatement des ressources cognitives et faisant preuve d'une forte résilience au stress.
 
 ---
 
-## Écrivez uniquement votre vérité sans vous soucier du jugement des autres
-
-Pour profiter pleinement de l'effet de purification émotionnelle d'un journal de réflexion, vous ne devez absolument pas vous soucier du regard des autres. Si vous commencez à polir ou censurer vos phrases en vous inquiétant de 'et si quelqu'un lisait mon journal', le mécanisme d'objectivation qui apaise l'amygdale ne fonctionnera pas. Tout comme l'amiral Yi Sun-sin a exprimé sa peur, sa colère et ses angoisses sans filtre au bout de son pinceau, la pression cognitive ne se libère que si vous êtes totalement honnête envers vous-même dans cet espace d'écriture le plus intime.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour profiter pleinement de l'effet de purification émotionnelle d'un journal d
   </p>
 </div>
 
+---
+
+## 3. Écrivez uniquement votre vérité sans vous soucier du jugement des autres
+
+Pour profiter pleinement de l'effet de purification émotionnelle d'un journal de réflexion, vous ne devez absolument pas vous soucier du regard des autres. Si vous commencez à polir ou censurer vos phrases en vous inquiétant de 'et si quelqu'un lisait mon journal', le mécanisme d'objectivation qui apaise l'amygdale ne fonctionnera pas. Tout comme l'amiral Yi Sun-sin a exprimé sa peur, sa colère et ses angoisses sans filtre au bout de son pinceau, la pression cognitive ne se libère que si vous êtes totalement honnête envers vous-même dans cet espace d'écriture le plus intime.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si je n'ai rien à écrire au quotidien ou si je manque de temps ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour profiter pleinement de l'effet de purification émotionnelle d'un journal d
       Il n'est pas nécessaire d'écrire longuement ; trois lignes suffisent. En résumant 'une chose qui m'a le plus épuisé aujourd'hui', 'mon émotion à ce moment-là' et 'une chose que je peux corriger demain', le mécanisme d'objectivation émotionnelle du cerveau fonctionne exactement de la même manière.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>L'utilisation d'une application de journal sur smartphone ou la saisie au clavier est-elle tout aussi efficace ?</span>

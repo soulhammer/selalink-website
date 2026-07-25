@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Dramawan yang Terinspirasi oleh Bau Apel Busuk? Rutina Fokus Mendalam Friedrich Schiller yang Unik"
 description: "Raksasa sastra Jerman Friedrich Schiller mendalami penciptaan karya sambil mencium bau apel busuk yang merangsang di laci mejanaya. Temukan prinsip-prinsip ilmiah tentang bagaimana stimulasi penciuman membangkitkan otak dan teknik pematrian aroma modern."
 pubDate: "2026-05-05"
@@ -33,17 +34,17 @@ Berikut adalah dasar ilmiah di balik rutinitas 'reset penciuman' Schiller dan ad
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai schiller-rotten-apple didasarkan pada <strong>Biografi historis dan catatan autobiografi Friedrich Schiller & penelitian Ilmu Saraf Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi Friedrich Schiller & penelitian Ilmu Saraf Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Koneksi Neurologis Antara Penciuman dan Gairah Kognitif
+## 1. Koneksi Neurologis Antara Penciuman dan Gairah Kognitif
 
 Di antara semua indra manusia, penciuman adalah satu-satunya yang memintas talamus dan langsung mencapai amigdala dan hipokampus sistem limbik, yang mengatur emosi dan ingatan. Oleh karena itu, bau adalah jalur tercepat untuk mengubah keadaan kognitif.
 
@@ -51,9 +52,7 @@ Gas fermentasi (seperti asetaldehida dan etanol) dari apel busuk bertindak sebag
 
 ---
 
-## Pematrian Olfaktori Modern yang Aman dan Efektif
-
-Metode apel busuk Schiller dapat menyebabkan sakit kepala karena toksisitas. Alih-alih demikian, bangkitkan fokus Anda secara aman melalui pematrian modern menggunakan minyak esensial alami (seperti rosemary atau peppermint) khusus sebelum mulai bekerja atau belajar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Metode apel busuk Schiller dapat menyebabkan sakit kepala karena toksisitas. Ali
   </p>
 </div>
 
+---
+
+## 3. Pematrian Olfaktori Modern yang Aman dan Efektif
+
+Metode apel busuk Schiller dapat menyebabkan sakit kepala karena toksisitas. Alih-alih demikian, bangkitkan fokus Anda secara aman melalui pematrian modern menggunakan minyak esensial alami (seperti rosemary atau peppermint) khusus sebelum mulai bekerja atau belajar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah bau apel busuk Schiller benar-benar berdampak merangsang otak?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Metode apel busuk Schiller dapat menyebabkan sakit kepala karena toksisitas. Ali
       Ya. Asetaldehida yang dilepaskan secara singkat mengubah pernapasan dan memberi kejutan fisiologis, sementara sinyal olfaktori mengirimkan sinyal kebangkitan ke sistem limbik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Aroma apa yang direkomendasikan untuk pematrian aroma modern?</span>

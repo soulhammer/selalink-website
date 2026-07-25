@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Membajak Sawah Sebelum Menulis Meskipun Berstatus Bangsawan? Rutinitas Pengaktifan Fisik Leo Tolstoy"
 description: "Dari mana raksasa sastra Leo Tolstoy mendapatkan energi untuk menulis novel monumental seperti Perang dan Damai? Jelajahi rutinitas kesehatannya dalam membangkitkan fungsi otak melalui kerja fisik dan senam setiap pagi sebelum menulis."
 pubDate: "2026-05-11"
@@ -33,17 +34,17 @@ Dalam artikel ini, kami memeriksa kebenaran neurosains di balik kebiasaan latiha
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai tolstoy-physical-labor didasarkan pada <strong>Biografi sejarah dan catatan autobiografi Leo Tolstoy & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi sejarah dan catatan autobiografi Leo Tolstoy & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Brain-Derived Neurotrophic Factor (BDNF) dan Efek Kognitif dari Peningkatan Denyut Jantung
+## 1. Brain-Derived Neurotrophic Factor (BDNF) dan Efek Kognitif dari Peningkatan Denyut Jantung
 
 Menurut penelitian neurosains, olahraga pagi singkat yang melibatkan kelompok otot besar untuk meningkatkan denyut jantung dapat melebarkan pembuluh darah otak dan meningkatkan aliran darah ke seluruh korteks serebral. Ini meningkatkan pasokan oksigen, yang secara langsung meningkatkan kecepatan pemrosesan kognitif korteks prefrontal dan kemampuan ingatan.
 
@@ -51,11 +52,7 @@ Secara khusus, latihan kekuatan seluruh tubuh dan senam memaksimalkan sekresi Br
 
 ---
 
-## Tips Neurosains untuk Rutinitas yang Sukses
-
-Gerakkan tubuh Anda untuk menyalakan percikan pemanasan yang kuat di otak Anda.
-
-Duduk terpaksa di meja menatap monitor saat setengah tertidur hanya membuang-buang waktu. Seperti halnya Tolstoy melatih tubuhnya secara intens sebelum menulis untuk membangunkan otaknya secara penuh, luapkan energi setidaknya selama 15 menit hingga berkeringat. Fokus pagi hari yang dicapai dalam keadaan terjaga dengan sel otak yang aktif memberikan produktivitas berlipat ganda dibanding biasanya.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,6 +83,14 @@ Duduk terpaksa di meja menatap monitor saat setengah tertidur hanya membuang-bua
     Setelah mandi, manfaatkan 1 hingga 2 jam pertama dari kondisi terjaga yang dipicu oleh peningkatan aliran darah otak dan pelepasan BDNF untuk memulai pekerjaan utama yang membutuhkan kognisi tinggi dan perencanaan logis.
   </p>
 </div>
+
+---
+
+## 3. Tips Neurosains untuk Rutinitas yang Sukses
+
+Gerakkan tubuh Anda untuk menyalakan percikan pemanasan yang kuat di otak Anda.
+
+Duduk terpaksa di meja menatap monitor saat setengah tertidur hanya membuang-buang waktu. Seperti halnya Tolstoy melatih tubuhnya secara intens sebelum menulis untuk membangunkan otaknya secara penuh, luapkan energi setidaknya selama 15 menit hingga berkeringat. Fokus pagi hari yang dicapai dalam keadaan terjaga dengan sel otak yang aktif memberikan produktivitas berlipat ganda dibanding biasanya.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

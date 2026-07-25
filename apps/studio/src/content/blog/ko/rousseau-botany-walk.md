@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "식물을 채집하며 사색하다: 장자크 루소의 '식물학 산책과 카드 메모' 루틴"
 description: "야생 식물을 분류 및 채집하며 사색하고 주머니 속 카드에 즉흥 메모를 적었던 장자크 루소의 루틴을 소개합니다. 진화적 탐색 주의망이 뇌를 깨우는 신경과학적 원리를 설명합니다."
 pubDate: "2026-04-23"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>장자크 루소 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 rousseau-botany-walk 루틴을 다룹니다.
+      본 콘텐츠는 <strong>장자크 루소 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 진화적 수집 주의망(Foraging Attention)과 전두엽의 이완
+## 1. 진화적 수집 주의망(Foraging Attention)과 전두엽의 이완
 
 진화인지과학에 따르면, 대자연 속에서 열매나 약초 같은 유용한 자연물을 식별하고 분류하여 수집(Foraging)하는 행동은 인류가 수만 년간 적응해 온 원초적 주의력 망을 자극합니다. 인위적이고 스트레스를 주는 도시의 멀티태스킹과 달리, 야생의 풀밭에서 특정 야생초를 관찰하고 모으는 행위는 뇌의 불안 중추인 편도체를 안정시키고 도파민 분비를 촉진합니다. 가벼운 보행과 식물 분류 활동이 결합하면 지친 전두엽의 부하가 해소되며 깊고 침착한 직관이 뇌 위로 떠오릅니다.
 
 ---
 
-## 관찰을 통한 이완과 즉흥적 아날로그 메모의 연동
-
-장자크 루소에게 야생 식물 연구는 세상의 모함과 심리적 중압감으로부터 뇌를 방어하는 든든한 방패막이였습니다. 굳이 전문 학자가 아니어도 괜찮습니다. 산책할 때 발밑에 자라난 민들레나 클로버, 나뭇잎의 결을 돋보기로 보듯 관찰해 보세요. 세부 생명체에 초점을 정돈하고, 그 과정에서 튀어오는 생각을 아날로그 메모지에 손으로 바로 옮겨 적는 연동 활동이 당신의 뇌를 가장 평온하게 환기할 것입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 관찰을 통한 이완과 즉흥적 아날로그 메모의 연동
+
+장자크 루소에게 야생 식물 연구는 세상의 모함과 심리적 중압감으로부터 뇌를 방어하는 든든한 방패막이였습니다. 굳이 전문 학자가 아니어도 괜찮습니다. 산책할 때 발밑에 자라난 민들레나 클로버, 나뭇잎의 결을 돋보기로 보듯 관찰해 보세요. 세부 생명체에 초점을 정돈하고, 그 과정에서 튀어오는 생각을 아날로그 메모지에 손으로 바로 옮겨 적는 연동 활동이 당신의 뇌를 가장 평온하게 환기할 것입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>루소는 왜 하필 트럼프 카드 뒷면에 메모를 적었나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       산책할 때 무거운 노트나 장부를 소지하기 불편했기 때문입니다. 딱딱하고 작아 들고 쓰기 편한 트럼프 카드는 서서나 걸으면서 손쉽게 수기 기록을 남기기에 최적의 휴대용 아날로그 도구였습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>도시 공원에서도 식물 채집 산책 효과를 얻을 수 있나요?</span>

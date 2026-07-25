@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Stille gegenüber den Genen: Barbara McClintocks Schweige-Fokus-Routine"
 description: "Die Nobelpreisträgerin Barbara McClintock bewahrte bei der Mikroskopie absolute Stille und Selbstvergessenheit. Entdecken Sie ihre Sensor-Gating-Methode zur Beseitigung von Ablenkungen."
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ Im heutigen Beitrag stellen wir die Wissenschaft hinter McClintocks Schweige-Rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu mcclintock-silent-focus basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Barbara McClintock & kognitionswissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Barbara McClintock & kognitionswissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sensorisches Gating zur Blockierung irrelevanter kognitiver Reize
+## 1. Sensorisches Gating zur Blockierung irrelevanter kognitiver Reize
 
 Wenn das Gehirn viele Reize gleichzeitig verarbeitet, sinken Konzentration und Mustererkennung. Stille ermutigt den präfrontalen Kortex, alle kognitiven Ressourcen auf eine einzige Wahrnehmung zu lenken.
 
@@ -53,9 +54,7 @@ Dabei aktiviert der Thalamus ein <strong>'Sensory Gating'</strong>, das störend
 
 ---
 
-## Zielgerichtete Fokusblöcke, nicht totale soziale Isolation, sind der Schlüssel
-
-McClintocks Routine ist eine Methode für begrenzte Zeiträume (z. B. 30 Minuten bis 1 Stunde), in denen tiefe Konzentration erforderlich ist. Sich den ganzen Tag zu isolieren, führt zu emotionaler Erschöpfung. Nutzen Sie das Schweigen nur in gezielten Fokusblöcken.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ McClintocks Routine ist eine Methode für begrenzte Zeiträume (z. B. 30 Minuten
   </p>
 </div>
 
+---
+
+## 3. Zielgerichtete Fokusblöcke, nicht totale soziale Isolation, sind der Schlüssel
+
+McClintocks Routine ist eine Methode für begrenzte Zeiträume (z. B. 30 Minuten bis 1 Stunde), in denen tiefe Konzentration erforderlich ist. Sich den ganzen Tag zu isolieren, führt zu emotionaler Erschöpfung. Nutzen Sie das Schweigen nur in gezielten Fokusblöcken.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Sollte ich diese Schweige-Routine auch an ohnehin ruhigen Orten wie einer Bibliothek praktizieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ McClintocks Routine ist eine Methode für begrenzte Zeiträume (z. B. 30 Minuten
       Ja, das sollten Sie. Der Kern besteht nicht nur darin, die Umgebung leise zu machen, sondern die Einstellung anzupassen, indem Sie Stille vereinbaren. Das pausiert die Sprachverarbeitung und stärkt die visuelle Wahrnehmung.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Stört innerer Selbsttalk ohne Stimmbandnutzung die Konzentration während der Schweigephase?</span>

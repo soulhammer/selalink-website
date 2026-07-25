@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El magnate del petróleo que no permitía ni un centavo de desperdicio? El método de microregistro en tiempo real de John D. Rockefeller"
 description: "John D. Rockefeller, considerado la persona más rica de la historia. Aprenda cómo llevar una libreta roja en su bolsillo para registrar de inmediato pequeños gastos y planes activaba su red de control ejecutivo prefrontal, y cómo utilizar cuadernos analógicos."
 pubDate: "2026-06-24"
@@ -36,22 +37,20 @@ La publicación de hoy explora el valor neurocientífico de la rutina de microre
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre rockefeller-red-notebook se basa en <strong>Investigación basada en biografías históricas y autobiografías de John D. Rockefeller y estudios de Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación basada en biografías históricas y autobiografías de John D. Rockefeller y estudios de Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Registro en tiempo real (Real-time Tracking) y activación de la red de control ejecutivo prefrontal
+## 1. Registro en tiempo real (Real-time Tracking) y activación de la red de control ejecutivo prefrontal
 
 Registrar manualmente números y detalles en un cuaderno inmediatamente después de que ocurra una acción o gasto estimula fuertemente la red de control ejecutivo prefrontal del cerebro. Esto activa la autorregulación, frenando reacciones impulsivas y mejorando la neuroplasticidad para el control del comportamiento a largo plazo.
 
 ---
 
-## Peligros del registro digital frente a consejos para el microregistro analógico en tiempo real
-
-Al registrar datos en aplicaciones de teléfonos inteligentes, la avalancha de notificaciones o noticias expone al cerebro a un estrés cognitivo inmediato. Llevar un pequeño cuaderno rojo y un lápiz en el bolsillo para anotar a mano en 5 segundos sin encender una aplicación permite la descarga cognitiva más clara.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Al registrar datos en aplicaciones de teléfonos inteligentes, la avalancha de n
   </p>
 </div>
 
+---
+
+## 3. Peligros del registro digital frente a consejos para el microregistro analógico en tiempo real
+
+Al registrar datos en aplicaciones de teléfonos inteligentes, la avalancha de notificaciones o noticias expone al cerebro a un estrés cognitivo inmediato. Llevar un pequeño cuaderno rojo y un lápiz en el bolsillo para anotar a mano en 5 segundos sin encender una aplicación permite la descarga cognitiva más clara.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es realmente mejor una libreta analógica que usar aplicaciones de presupuesto o tareas en el teléfono?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Al registrar datos en aplicaciones de teléfonos inteligentes, la avalancha de n
       Sí. El acto de encender el teléfono expone el cerebro al ruido digital, dispersando la atención al instante. Además, escribir a mano transmite información somatosensorial mucho más fuerte a la corteza cerebral, aumentando al doble la conciencia cognitiva del autocontrol.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Realmente necesito anotar cada detalle insignificante, como 1 centavo o 1 minuto?</span>

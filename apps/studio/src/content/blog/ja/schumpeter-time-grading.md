@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "時間のメタ認知：ヨーゼフ・シュンペーターの1日成績表ルーティン"
 description: "毎夜日記帳に学習や集中時間を評価し、成績（A〜F）をつけていた経済学者ヨーゼフ・シュンペーター。行動を定量的に評価し改善するフィードバックのメタ認知効果を探ります。"
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「schumpeter-time-grading」は <strong>シュンペーターの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>シュンペーターの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 定量的なフィードバックループによるメタ認知とドーパミン報酬系の調整
+## 1. 定量的なフィードバックループによるメタ認知とドーパミン報酬系の調整
 
 多くの人は1日の労働を主観的かつ感情的に評価しがちです。この曖昧な省察は怠惰を矮小化する自己正当化に陥りやすいものです。シュンペーターの自己採点儀式は認知心理学的に『メタ認知』を活性化します。時間を定量化しグレードをつけることで、行動を客観的な第三者視点で見つめ直すことができます。この誠実な自己客観化は脳を認知の歪みから解放し、翌日より良い成績（A）を獲得するという具体指標によって前頭葉のドーパミン報酬系を強力に刺激します。
 
 ---
 
-## 注意事項とアドバイス
-
-日々の成績表が苛酷な『自己卑下』や『完璧主義の強迫観念』に陥らないよう注意してください。低い評価が続いたからといって学習性無力感に陥り自責すると、脳のストレスが過重 nanny実行力が凍りつきます。評価は感情を排した『データ蓄積』として扱い、低い要因を冷静に分析して『翌日10%改善する』という成長マインドセットのツールとして活用すべきです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     今日の評価の根本原因を特定し（例：SNSで1時間無駄にした等）、防止策として明日の午前1時間はスマホを隔離する改善案を立てます。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とアドバイス
+
+日々の成績表が苛酷な『自己卑下』や『完璧主義の強迫観念』に陥らないよう注意してください。低い評価が続いたからといって学習性無力感に陥り自責すると、脳のストレスが過重 nanny実行力が凍りつきます。評価は感情を排した『データ蓄積』として扱い、低い要因を冷静に分析して『翌日10%改善する』という成長マインドセットのツールとして活用すべきです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "斯宾诺莎的磨镜手艺：用简单重复的体力劳动消除大脑疲劳"
 description: "探讨泛神论哲学家斯宾诺莎在撰写代表作《伦理学》之余，如何通过打磨镜片的精细手工作业清空认知过载并恢复高度专注沉浸状态。"
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 spinoza-lens-grinding 的内容基于 <strong>斯宾诺莎磨镜史实评传考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>斯宾诺莎磨镜史实评传考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 简单精细手工作业预防认知职业倦怠的脑科学原理
+## 1. 简单精细手工作业预防认知职业倦怠的脑科学原理
 
 持续进行高强度的理性推理或复杂的结构设计会大量消耗前额叶皮层的认知资源。此时，如果切换到如同磨镜片般高度专注于触觉的精细手工作业，运动皮层与小脑将被激活，从而立刻抑制过度运转的默认模式网络（DMN）与杂念。这种大脑运作区域的临时切换，能帮助疲倦的前额叶皮层消除神经疲劳并恢复精力。
 
 ---
 
-## 选择彻底去数字化手工作业
-
-为了获得这种放松效果，必须彻底远离使用智能手机或键盘的操作。操作电子设备依然会要求大脑进行高度的逻辑运算，无法缓解认知疲劳。请选择仅需要触觉反馈和视空间调节的简单身体活动，如洗碗、手写抄录、手工拼装等。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     结束15分钟的手工作业后重返电脑前，恢复原先的策划与开发工作。随着大脑休息空间的复原，你将能够做出更加清晰高效的决策。
   </p>
 </div>
+
+---
+
+## 3. 选择彻底去数字化手工作业
+
+为了获得这种放松效果，必须彻底远离使用智能手机或键盘的操作。操作电子设备依然会要求大脑进行高度的逻辑运算，无法缓解认知疲劳。请选择仅需要触觉反馈和视空间调节的简单身体活动，如洗碗、手写抄录、手工拼装等。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "何週間も服を脱がなかった彫刻家？ミケランジェロの超没頭（Flow）極大化習慣"
 description: "ルネサンス最高の巨匠ミケランジェロ・ブオナローティ。システィーナ礼拝堂天井画やダビデ像を彫刻する際、服や靴を脱がずに仮眠を取りながら作業した彼の認知エネルギー最小化習慣と超没頭設計法を紐解きます。"
 pubDate: "2026-03-22"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「michelangelo-flow」は <strong>ミケランジェロ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ミケランジェロ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 意思決定疲労の最小化と認知資源の保存
+## 1. 意思決定疲労の最小化と認知資源の保存
 
 現代の行動科学では、日常の些細な選択が脳の自己調節エネルギーを削り取る現象を「自己枯渇（Ego Depletion）」または「意思決定疲労（Decision Fatigue）」と呼びます。朝何を着るか、何を食べるかを決める行為自体が、脳の分析的実行領域を疲弊させます。ミケランジェロは自らを高度に隔離し、衣食住にかかる些細な頭脳決定を最小化することで、天性のエネルギーを100%芸術的行為だけに保存し、圧倒的な生産性を維持していたのです。
 
 ---
 
-## 核心にのみ力を集める時に天才性が爆発します
-
-ミケランジェロは彫刻作業が終わるまで脳の流（Flow）を止めないよう、自らを極限まで追い込みました。現代の情報過多の時代の中で、毎日毎時間多くの情報と選択で脳を消耗させるのではなく、最も重要な一つの課題のために認知エネルギーの防壁を築いてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 核心にのみ力を集める時に天才性が爆発します
+
+ミケランジェロは彫刻作業が終わるまで脳の流（Flow）を止めないよう、自らを極限まで追い込みました。現代の情報過多の時代の中で、毎日毎時間多くの情報と選択で脳を消耗させるのではなく、最も重要な一つの課題のために認知エネルギーの防壁を築いてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ミケランジェロはなぜ服や靴も脱がずに寝たのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       彼は極度に繊細な没頭状態を断ち切りたくなかったからです。衣服の着替えやシャワー、長時間の睡眠といった日常の切り替え動作を拒絶することで、脳に流れる芸術的没頭の波（Flow）を途切れることなく彫刻に注ぎ込みました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>現代の日常で意思決定疲労を減らす具体的なヒントは何ですか？</span>

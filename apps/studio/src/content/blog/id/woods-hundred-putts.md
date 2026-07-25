@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Hingga 100 Keberhasilan Berturut-turut: Metode Imersi Putting 4m Tiger Woods"
 description: "Rutinitas '100 putting berturut-turut berhasil' yang dilakukan legenda golf Tiger Woods sebelum latihan. Pelajari bagaimana pencapaian tanpa kompromi dibanjiri dopamin dan mendorong konsentrasi ekstrem."
 pubDate: "2026-04-01"
@@ -33,25 +34,23 @@ Artikel ini mengeksplorasi ilmu saraf di balik ritual keberhasilan ekstrem Woods
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai woods-hundred-putts didasarkan pada <strong>Biografi historis & catatan autobiografi tentang 100 putting Woods & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis & catatan autobiografi tentang 100 putting Woods & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Imersi Ekstrem yang Didorong oleh Pencapaian Tanpa Kompromi
+## 1. Imersi Ekstrem yang Didorong oleh Pencapaian Tanpa Kompromi
 
 Saat otak melakukan tugas yang membutuhkan konsentrasi tinggi, katalis utamanya adalah Dopamin, neurotransmiter yang terkait dengan antisipasi imbalan. Menyelesaikan tugas di bawah aturan ketat untuk memulai kembali jika gagal akan mengaktifkan pusat kontrol perilaku, memblokir gangguan dan mengarahkan otak ke kondisi fokus optimal.
 
 ---
 
-## Peringatan & Tips
-
-Untuk memanfaatkan dopamin secara efektif, tugas tidak boleh terlalu mudah atau terlampau mustahil. Kuncinya adalah memilih tantangan dengan tingkat kesulitan yang pas sesuai kemampuan Anda. Jika kegagalan di awal memicu frustrasi, sesuaikan tingkat kesulitannya dengan bijak.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Untuk memanfaatkan dopamin secara efektif, tugas tidak boleh terlalu mudah atau 
     Manfaatkan kondisi ketegangan kognitif tinggi dan dorongan dopamin yang dicapai setelah berhasil menyelesaikan tugas untuk segera mengerjakan tugas inti Anda.
   </p>
 </div>
+
+---
+
+## 3. Peringatan & Tips
+
+Untuk memanfaatkan dopamin secara efektif, tugas tidak boleh terlalu mudah atau terlampau mustahil. Kuncinya adalah memilih tantangan dengan tingkat kesulitan yang pas sesuai kemampuan Anda. Jika kegagalan di awal memicu frustrasi, sesuaikan tingkat kesulitannya dengan bijak.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

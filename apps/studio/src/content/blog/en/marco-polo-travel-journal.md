@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Explorer's Note-Taking Method: Marco Polo's Nightly Sensory Travel Journal Routine"
 description: "Marco Polo, author of The Travels of Marco Polo. Discover his field journal routine of recording unfamiliar sensory experiences every night during his 24-year Silk Road expedition to produce history's greatest travelogue."
 pubDate: "2026-06-30"
@@ -36,14 +37,14 @@ In today's post, we introduce Marco Polo's nightly sensory journal routine and t
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding marco-polo-travel-journal is based on <strong>Historical Biography of Marco Polo, Textual Verification of 'The Travels of Marco Polo' & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biography of Marco Polo, Textual Verification of 'The Travels of Marco Polo' & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Fine Sensory Recording Strengthening Episodic Memory Neural Circuits
+## 1. Fine Sensory Recording Strengthening Episodic Memory Neural Circuits
 
 Amid daily mannerisms, the brain routinely erases familiar information.
 
@@ -51,9 +52,7 @@ Habitually capturing specific visual, auditory, and gustatory details of unfamil
 
 ---
 
-## Record Concrete Sensory Descriptions Instead of Abstract Evaluations
-
-Instead of vague assessments like 'it was good/interesting', write concrete sensory details such as 'the pungent aroma of spices and the crisp rustle of red parchment' to trigger a vivid hippocampal response. Rather than relying solely on willpower, pre-designing a physical environment and habit cues that naturally induce this action is key to consistency.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Instead of vague assessments like 'it was good/interesting', write concrete sens
   </p>
 </div>
 
+---
+
+## 3. Record Concrete Sensory Descriptions Instead of Abstract Evaluations
+
+Instead of vague assessments like 'it was good/interesting', write concrete sensory details such as 'the pungent aroma of spices and the crisp rustle of red parchment' to trigger a vivid hippocampal response. Rather than relying solely on willpower, pre-designing a physical environment and habit cues that naturally induce this action is key to consistency.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How can I find unfamiliar sensory details when my daily routine is identical between home and work?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Instead of vague assessments like 'it was good/interesting', write concrete sens
       Minor micro-variations—such as walking down a different alley on your commute home, tasting a new ingredient, or pausing for 5 seconds to smell a seasonal flower along the street—are more than enough to create novel sensory stimuli.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is there a tip to reduce time when writing a journal that tends to become too long?</span>

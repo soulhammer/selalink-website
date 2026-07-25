@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "創造的視覚の発見：申師任堂（シン・サイムダン）の超精密自然観察ルーティン"
 description: "朝鮮最高峰の女性芸術家、申師任堂の自然観察による創造性訓練法。毎朝の自然観察が脳の注意回復を助け、創造的視覚ネットワークを発達させる科学的根拠を解説します。"
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「saimdang-nature-observation」は <strong>申師任堂の自然観察に関する歴史的評伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>申師任堂の自然観察に関する歴史的評伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 注意回復理論と「やわらかな魅惑」の脳科学的ヒーリング
+## 1. 注意回復理論と「やわらかな魅惑」の脳科学的ヒーリング
 
 環境心理学の注意回復理論（Attention Restoration Theory）によれば、都市環境やデジタル機器の使用時に作動する「指向的注意力（Directed Attention）」は前頭前野に大きなエネルギー枯渇をもたらし、ストレスや認知疲労を生みます。一方、自然の中の草の葉、花、風のように人工的な注意集中を要しない自然対象を穏やかに眺める時、脳は「やわらかな魅惑（Soft Fascination）」状態に入ります。この状態になると前頭葉のエネルギーが再充電され、創造的視覚化ネットワークが活性化されます。
 
 ---
 
-## ひらめきと心の充電のための師任堂の一言
-
-賢明な創造力は頭を絞り出しても湧き出ません。しばしデスクを離れ、野の草一本、這う虫一匹を静かに見つめて脳に休息を与えてください。自然がくれるリラックスの中で、脳は自ら枯渇したエネルギーを満たし、新鮮なひらめきを返してくれます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     部屋に入り、観察した対象を鉛筆デッサン、短い文章描写、または落書きなどの形で毎日1回以上アナログ媒体に記録し、視覚化能力を内在化させます。
   </p>
 </div>
+
+---
+
+## 3. ひらめきと心の充電のための師任堂の一言
+
+賢明な創造力は頭を絞り出しても湧き出ません。しばしデスクを離れ、野の草一本、這う虫一匹を静かに見つめて脳に休息を与えてください。自然がくれるリラックスの中で、脳は自ら枯渇したエネルギーを満たし、新鮮なひらめきを返してくれます。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

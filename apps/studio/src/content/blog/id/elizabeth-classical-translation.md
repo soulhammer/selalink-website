@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "'Penerjemahan Klasik' Ratu Elizabeth I: Rutinitas Pagi yang Mengasah Otak Logis Seorang Penguasa"
 description: "Ratu Elizabeth I mengasah rasionalitas dan kemampuan logis yang tangguh dengan menerjemahkan karya klasik Latin ke bahasa Inggris setiap pagi. Pelajari neurosains kognitif dari rutinitas penerjemahan ini."
 pubDate: "2026-01-09"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai elizabeth-classical-translation didasarkan pada <strong>Verifikasi Historis dari Kumpulan Karya Penerjemahan *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Biografi Historis & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Kumpulan Karya Penerjemahan *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), Biografi Historis & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Dampak Neurologis Penerjemahan Manual pada Korteks Prefrontal Dorsolateral
+## 1. Dampak Neurologis Penerjemahan Manual pada Korteks Prefrontal Dorsolateral
 
 Penerjemahan tidak hanya melibatkan pemrosesan bahasa visual, tetapi juga sangat mengaktifkan korteks prefrontal dorsolateral (dlPFC), yang mengatur kontrol kognitif dan peralihan aturan logis. Berbeda dengan membaca pasif, menguraikan struktur semantik dari satu bahasa dan mensintesisnya ke dalam kerangka tata bahasa yang tepat dari bahasa lain bertindak sebagai latihan intensitas tinggi untuk fungsi eksekutif—mirip dengan menjalankan CPU pada kapasitas 100%. Proses ini secara drastis meningkatkan penalaran analitis dan deteksi kesalahan. Rutinitas penerjemahan Latin harian Ratu Elizabeth I berfungsi sebagai penawar kognitif ampuh yang menyaring kebisingan emosional.
 
 ---
 
-## Perhatian: Penerjemahan Otomatis Secara Mekanis Tidak Memberikan Manfaat Kognitif
-
-Verifikasi instan melalui penerjemah AI atau aplikasi penerjemah gagal menstimulasi sirkuit saraf prefrontal. Pertumbuhan kognitif dan plastisitas sinaptik terjadi secara ketat selama perjuangan manual—bergulat dengan kamus, memecahkan akar kata, dan menyusun sintaksis kalimat secara manual.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Verifikasi instan melalui penerjemah AI atau aplikasi penerjemah gagal menstimul
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Penerjemahan Otomatis Secara Mekanis Tidak Memberikan Manfaat Kognitif
+
+Verifikasi instan melalui penerjemah AI atau aplikasi penerjemah gagal menstimulasi sirkuit saraf prefrontal. Pertumbuhan kognitif dan plastisitas sinaptik terjadi secara ketat selama perjuangan manual—bergulat dengan kamus, memecahkan akar kata, dan menyusun sintaksis kalimat secara manual.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah tidak efektif untuk memverifikasi hasil terjemahan secara instan menggunakan penerjemah AI?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Verifikasi instan melalui penerjemah AI atau aplikasi penerjemah gagal menstimul
       Ya, tentu saja. Mendapatkan jawaban instan dengan satu klik gagal menantang jaringan kognitif otak Anda. Koneksi sinaptik di korteks prefrontal menguat hanya melalui 'gesekan kognitif'—upaya manual membuka halaman kamus dan merangkai kerangka tata bahasa sendiri.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah teknik ini hanya berfungsi dengan bahasa klasik seperti Latin dan Yunani Kuno?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rahasia Tata Kelola Kreatif? Rutinitas Membaca Subuh Raja Sejong yang Agung"
 description: "Raja Sejong yang Agung menciptakan Hangeul. Pelajari rutinitas aktivasi kognitif paginya dengan bangun jam 3 pagi meski menderita penyakit kronis untuk memanaskan pikirannya dengan literatur klasik."
 pubDate: "2026-04-27"
@@ -35,17 +36,17 @@ Berikut sains otak di balik 'Membaca Subuh' Raja Sejong dan cara mempraktikkan a
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai sejong-dawn-reading didasarkan pada <strong>Verifikasi tekstual dari Babad Raja Sejong (Babad Dinasti Joseon), biografi & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi tekstual dari Babad Raja Sejong (Babad Dinasti Joseon), biografi & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Pemanasan Kognitif Membangunkan Otak Tepat Setelah Bangun
+## 1. Efek Pemanasan Kognitif Membangunkan Otak Tepat Setelah Bangun
 
 Tepat setelah bangun, otak bebas dari gangguan digital, menciptakan kondisi optimal untuk fokus mendalam.
 
@@ -53,9 +54,7 @@ Secara neurosains, membaca teks klasik di pagi hari bertindak sebagai <strong>'P
 
 ---
 
-## Pilih Kertas dan Pencahayaan Lembut daripada Cahaya Biru Layar
-
-Kunci membaca subuh adalah menjaga kondisi tenang otak Anda saat bangun. Membuka ponsel langsung membombardir korteks prefrontal dengan cahaya biru dan notifikasi, memicu kelelahan mental. Gunakan buku fisik di bawah lampu lembut seperti Raja Sejong.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Kunci membaca subuh adalah menjaga kondisi tenang otak Anda saat bangun. Membuka
   </p>
 </div>
 
+---
+
+## 3. Pilih Kertas dan Pencahayaan Lembut daripada Cahaya Biru Layar
+
+Kunci membaca subuh adalah menjaga kondisi tenang otak Anda saat bangun. Membuka ponsel langsung membombardir korteks prefrontal dengan cahaya biru dan notifikasi, memicu kelelahan mental. Gunakan buku fisik di bawah lampu lembut seperti Raja Sejong.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Saya bukan tipe orang pagi; apakah saya harus bangun jam 3 atau 4 pagi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Kunci membaca subuh adalah menjaga kondisi tenang otak Anda saat bangun. Membuka
       Tidak. Inti dari kebiasaan Raja Sejong adalah mengamankan waktu fokus tanpa gangguan setelah bangun. Cukup bangun 30 menit lebih awal dari biasanya dan membaca tanpa ponsel untuk mendapatkan manfaat yang sama.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah boleh membaca novel web atau artikel media sosial?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Faire tourner le rouet dans le silence de l'aube : La routine de méditation matinale et la méditation active de Mahatma Gandhi"
 description: "Découvrez comment Mahatma Gandhi, le grand leader de la paix en Inde, disciplinait son esprit en se levant à 4 heures du matin pour méditer et tourner le rouet Charkha. Explorez la neuroscience de la méditation active."
 pubDate: "2026-03-23"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente a la rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant gandhi-morning-meditation est basée sur <strong>Vérification Historique issue de *Mon autobiographie ou mes expériences avec la vérité* de Mahatma Gandhi, des archives de l'Ashram & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *Mon autobiographie ou mes expériences avec la vérité* de Mahatma Gandhi, des archives de l'Ashram & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Méditation active : Comment le mouvement répétitif stimule la sérotonine et le calme
+## 1. Méditation active : Comment le mouvement répétitif stimule la sérotonine et le calme
 
 Si la méditation assise est passive, tourner le rouet illustre la <strong>Méditation Active</strong> : utiliser le mouvement physique pour induire une concentration profonde. Solliciter la motricité fine des doigts dans un mouvement circulaire répétitif stimule la sécrétion de <strong>sérotonine</strong>. La sérotonine dissipe le brouillard matinal et apaise l'anxiété. De plus, l'attention fine requise pour ne pas rompre le fil inhibe le Réseau du Mode par Défaut (DMN). La résilience de Gandhi découlait de cette réinitialisation quotidienne, réalignant sa <strong>Variabilité de la Fréquence Cardiaque (VFC/HRV)</strong>.
 
 ---
 
-## Mise en garde : Prioriser le rythme répétitif tactile sur l'outil lui-même
-
-Acquérir un véritable rouet Charkha indien est irréaliste pour la plupart des gens. Le mécanisme ne dépend pas de l'objet historique, mais du « rythme répétitif tactile ». Vous pouvez obtenir les mêmes bénéfices neurologiques en pratiquant pendant 10 minutes un rituel sollicitant le bout des doigts : la calligraphie, le tricot, la préparation minutieuse du thé ou l'assemblage de Lego.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Acquérir un véritable rouet Charkha indien est irréaliste pour la plupart des
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Prioriser le rythme répétitif tactile sur l'outil lui-même
+
+Acquérir un véritable rouet Charkha indien est irréaliste pour la plupart des gens. Le mécanisme ne dépend pas de l'objet historique, mais du « rythme répétitif tactile ». Vous pouvez obtenir les mêmes bénéfices neurologiques en pratiquant pendant 10 minutes un rituel sollicitant le bout des doigts : la calligraphie, le tricot, la préparation minutieuse du thé ou l'assemblage de Lego.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quelles activités tactiles modernes peuvent remplacer le filage au rouet ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Acquérir un véritable rouet Charkha indien est irréaliste pour la plupart des
       Toute activité rythmique exigeant une précision motrice est idéale : la calligraphie au stylo-plume, le tricot ou crochet, la cérémonie du thé, l'assemblage de Lego ou puzzles, et le drumming digital, stimulant la sérotonine.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si mon esprit s'évade pendant les activités tactiles ?</span>

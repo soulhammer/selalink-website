@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "妆容背后的灵魂：玛丽莲·梦露的每晚阅读与反思习惯"
 description: "在性感符号的公众形象背后，玛丽莲·梦露是一位拥有400多册藏书的爱书家。揭示每晚文学阅读与撰写日记如何降低压力激素并守护自我认同的科学原理。"
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 monroe-night-reading 的内容基于 <strong>玛丽莲·梦露历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>玛丽莲·梦露历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过文学阅读实现植物神经系统放松与海马体记忆巩固
+## 1. 通过文学阅读实现植物神经系统放松与海马体记忆巩固
 
 当大脑长时间处于外部评估和暴露压力之下时，交感神经系统过度兴奋会导致慢性疲劳与睡眠障碍。英国的认知研究表明，安静阅读文学书籍仅需6分钟即可放松肌肉紧张并减缓心率，将压力水平降低多达68%。当沉浸于古典小说叙事中时，大脑会脱离自我的执念（Ego），在同理虚构人物的命运中进入深度休息状态。此外，读后撰写日记记录感受的习惯能够引导大脑皮层中的海马体（Hippocampus）将压力信息平稳巩固为长期记忆，从而优化睡眠期间的大脑排毒与清洗机制。
 
 ---
 
-## 注意事项与实践建议
-
-在夜间进行反思性阅读时，最应避免的行为是在荧光灯下阅读或查看手机屏幕。明亮的人工蓝光会阻断褪黑素（诱导睡眠的激素）的分泌，反而会加重失眠。因此，夜间阅读时务必仅开启一盏发暖黄色调光线的光源间接台灯，保持良好的环境控制，使大脑能够安全顺畅地过渡到睡眠诱导阶段。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与实践建议
+
+在夜间进行反思性阅读时，最应避免的行为是在荧光灯下阅读或查看手机屏幕。明亮的人工蓝光会阻断褪黑素（诱导睡眠的激素）的分泌，反而会加重失眠。因此，夜间阅读时务必仅开启一盏发暖黄色调光线的光源间接台灯，保持良好的环境控制，使大脑能够安全顺畅地过渡到睡眠诱导阶段。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>睡前阅读是否会过度刺激大脑并干扰睡眠？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       用纸质书替代发射蓝光的智能手机，并在柔和的间接灯光下轻松阅读人文、诗集或沉静的散文类书籍，能够诱发α脑电波，实际上有助于促进深度睡眠。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>夜间阅读时如何记录喜欢的语句才不会打扰睡眠？</span>

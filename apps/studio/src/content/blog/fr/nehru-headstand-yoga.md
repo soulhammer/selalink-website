@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le poirier sur le sol froid d'une prison ? La méthode de régulation hormonale de Jawaharlal Nehru"
 description: "Le premier Premier ministre de l'Inde, Jawaharlal Nehru. Dévoile les principes neuroscientifiques et la routine de santé grâce auxquels il pratiquait le poirier chaque matin durant 9 ans d'isolement carcéral pour augmenter le flux sanguin cérébral et libérer les tensions physiques."
 pubDate: "2026-03-18"
@@ -35,17 +36,17 @@ Dans l'article d'aujourd'hui, nous dévoilons la science de l'augmentation du fl
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant nehru-headstand-yoga est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques de Jawaharlal Nehru & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques de Jawaharlal Nehru & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Effets de la gravité inversée : Favoriser le flux sanguin cérébral et désactiver l'axe du stress HPA
+## 1. Effets de la gravité inversée : Favoriser le flux sanguin cérébral et désactiver l'axe du stress HPA
 
 Lorsque nous restons debout ou assis toute la journée, la gravité entraîne le flux sanguin vers le bas du corps et soumet les disques intervertébraux à une compression statique continue. Cela augmente la tension du système nerveux autonome et induit une fatigue cérébrale.
 
@@ -53,9 +54,7 @@ Les postures inversées inversent le flux gravitationnel, augmentant temporairem
 
 ---
 
-## Un alignement vertébral sécurisé est le début de la réinitialisation cérébrale
-
-Bien que le poirier soit une technique efficace de relaxation cérébrale, des mouvements non maîtrisés ou forcés peuvent provoquer des lésions aux disques cervicaux et tendre le système nerveux autonome. En le pratiquant avec précaution et adapté à votre condition physique comme Nehru, il soulage la compression vertébrale et alimente le cerveau en énergie de manière stable.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Bien que le poirier soit une technique efficace de relaxation cérébrale, des m
   </p>
 </div>
 
+---
+
+## 3. Un alignement vertébral sécurisé est le début de la réinitialisation cérébrale
+
+Bien que le poirier soit une technique efficace de relaxation cérébrale, des mouvements non maîtrisés ou forcés peuvent provoquer des lésions aux disques cervicaux et tendre le système nerveux autonome. En le pratiquant avec précaution et adapté à votre condition physique comme Nehru, il soulage la compression vertébrale et alimente le cerveau en énergie de manière stable.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il sûr pour une personne souffrant de douleurs cervicales ou de hernie discale de faire le poirier ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Bien que le poirier soit une technique efficace de relaxation cérébrale, des m
       Non, les personnes souffrant de troubles des disques cervicaux ou thoraciques doivent éviter le poirier traditionnel où la tête supporte directement le poids du corps. À la place, vous pouvez obtenir un effet d'inversion sanguine sûr et sans contrainte sur les disques en vous allongeant sur le dos, fesses contre un mur et jambes dressées à la verticale, ou en plaçant un coussin sous votre bassin tout en élevant les jambes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quel est le moment le plus approprié de la journée pour pratiquer le poirier ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Uma corrida para reiniciar a mente de um gênio? A rotina de corrida de Alan Turing"
 description: "Alan Turing, o pai da ciência da computação que decifrou o código Enigma. Conheça seu hábito de correr 16 km diariamente para aliviar a sobrecarga cerebral e ativar as células nervosas."
 pubDate: "2026-02-02"
@@ -35,17 +36,17 @@ No post de hoje, examinamos os mecanismos neurocientíficos por trás da rotina 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre turing-marathon-running é baseada em <strong>Biografias históricas e registros autobiográficos de Alan Turing e pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Alan Turing e pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O exercício aeróbico promovendo a neurogênese e a renovação cognitiva
+## 1. O exercício aeróbico promovendo a neurogênese e a renovação cognitiva
 
 A corrida aeróbica diária induz a síntese do <strong>Fator Neurotrófico Derivado do Cérebro (BDNF)</strong>, substância crucial para a saúde cerebral. O BDNF promove a geração de novos neurônios no hipocampo, expandindo a memória de trabalho.
 
@@ -53,9 +54,7 @@ Além disso, ao correr, o córtex pré-frontal entra em repouso temporário, est
 
 ---
 
-## Controle de ritmo para renovação da atenção
-
-O controle do ritmo é vital ao correr para renovar o cérebro. Se você correr com muita intensidade e atingir o limiar anaeróbico, o cérebro destina todos os recursos à sobrevivência física, prejudicando a contemplação e a ativação da DMN. Correr em um ritmo constante que permita uma conversa leve é o mais eficaz.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ O controle do ritmo é vital ao correr para renovar o cérebro. Se você correr 
   </p>
 </div>
 
+---
+
+## 3. Controle de ritmo para renovação da atenção
+
+O controle do ritmo é vital ao correr para renovar o cérebro. Se você correr com muita intensidade e atingir o limiar anaeróbico, o cérebro destina todos os recursos à sobrevivência física, prejudicando a contemplação e a ativação da DMN. Correr em um ritmo constante que permita uma conversa leve é o mais eficaz.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pedalar na bicicleta ergométrica ou nadar produz o mesmo efeito de renovação cerebral que correr?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ O controle do ritmo é vital ao correr para renovar o cérebro. Se você correr 
       Sim, qualquer exercício aeróbico contínuo que envolva a função cardiopulmonar e eleve os níveis de BDNF, como pedalar ou nadar, oferece benefícios semelhantes. No entanto, correr ao ar livre maximiza o relaxamento da DMN quando estímulos sensoriais como vento e paisagens chegam ao cérebro.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ouvir música enquanto corre prejudica a recuperação cerebral?</span>

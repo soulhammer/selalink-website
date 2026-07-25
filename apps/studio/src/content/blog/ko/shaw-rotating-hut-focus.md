@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "완벽한 몰입을 위한 고립: 조지 버나드 쇼의 회전식 오두막 집필 습관"
 description: "노벨상과 아카데미상을 휩쓴 극작가 버나드 쇼. 하루 6시간씩 정원의 작은 회전식 오두막에 자신을 가두고 자연광을 맞으며 잡념을 원천 차단했던 그의 심층 집중 비결을 알아봅니다."
 pubDate: "2026-02-27"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Shaw Rotating Hut Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 shaw-rotating-hut-focus 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Shaw Rotating Hut Focus 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 자연광 노출과 인지적 전환 비용(Switching Cost)의 최소화
+## 1. 자연광 노출과 인지적 전환 비용(Switching Cost)의 최소화
 
 아침부터 정오까지 이어지는 자연광(Daylight) 노출은 망막의 시신경세포를 자극해 각성을 유도하는 세로토닌 합성 시스템을 최대로 자극합니다. 이는 실내 형광등이 줄 수 없는 대뇌 각성 효과를 발휘합니다. 더욱이 뇌는 타인의 사소한 방해(예: 질문, 노크, 전화벨 소리)를 받을 때마다 작업 기억(Working Memory)의 맥락을 재조정하기 위해 상당한 양의 에너지(인지적 전환 비용)를 소모하게 됩니다. 버나드 쇼처럼 물리적으로 완전히 고립된 공간에 뇌를 배치하면, 이러한 인지적 간섭을 원천 차단하여 작업 기억 소실을 방지하고 깊은 몰입(Deep Work) 상태를 수 시간 동안 손쉽게 온전히 지속할 수 있게 됩니다.
 
 ---
 
-## 주의사항 및 팁
-
-물리적 차단 습관을 적용할 때 주의할 점은, 고립된 공간에 스마트폰과 소셜 미디어(SNS) 알림을 그대로 들고 들어오는 것입니다. 밖에서 오는 물리적 차단이 완성되더라도 내 손안에 가상의 방해 요인(스마트폰 알림)이 살아있다면 뇌는 끊임없이 무의식적인 확인 욕구에 사로잡혀 동일한 다중 작업(Multi-tasking) 상태에 빠지게 됩니다. 따라서 고립 지대에 진입할 때는 메인 PC나 스마트폰의 알림을 완전히 비활성화(방해 금지 모드)해야 합니다. 오직 오프라인 상태나 단일 집중용 프로그램만을 켜둔 채 작업하는 진정한 의미의 디지털 디톡스가 병행되어야 고립 오두막 효과를 온전히 경험할 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     책상을 창문을 등지거나 바로 마주 보게 하여 햇빛을 온전히 쬐도록 배치합니다. 자연 채광을 얼굴과 시야 주변으로 충분히 끌어들여 대뇌의 세로토닌 합성을 아침 일찍 유도하며 장기 과제에 집중합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+물리적 차단 습관을 적용할 때 주의할 점은, 고립된 공간에 스마트폰과 소셜 미디어(SNS) 알림을 그대로 들고 들어오는 것입니다. 밖에서 오는 물리적 차단이 완성되더라도 내 손안에 가상의 방해 요인(스마트폰 알림)이 살아있다면 뇌는 끊임없이 무의식적인 확인 욕구에 사로잡혀 동일한 다중 작업(Multi-tasking) 상태에 빠지게 됩니다. 따라서 고립 지대에 진입할 때는 메인 PC나 스마트폰의 알림을 완전히 비활성화(방해 금지 모드)해야 합니다. 오직 오프라인 상태나 단일 집중용 프로그램만을 켜둔 채 작업하는 진정한 의미의 디지털 디톡스가 병행되어야 고립 오두막 효과를 온전히 경험할 수 있습니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

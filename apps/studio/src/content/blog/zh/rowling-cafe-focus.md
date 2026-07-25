@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在咖啡馆喧嚣中书写魔法的作家？J.K.罗琳的白噪音沉浸习惯"
 description: "《哈利·波特》作者J.K.罗琳。探讨她以咖啡馆喧闹的白噪音为背景撰写巨著的习惯，以及环境噪音促进创造力的脑科学原理。"
 pubDate: "2026-03-03"
@@ -35,17 +36,17 @@ J.K.罗琳将全球数以亿计的读者带入魔法世界，成为历史上首�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rowling-cafe-focus 的内容基于 <strong>J.K.罗琳历史传记与自传考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>J.K.罗琳历史传记与自传考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 促进抽象大脑表达的“微小认知阻滞”
+## 1. 促进抽象大脑表达的“微小认知阻滞”
 
 许多人在进行需要创造力的工作（如头脑风暴、写作、新项目规划）时，会寻求极度安静且封闭的自习室，但这有时会适得其反。过于寂静的环境会给大脑带来压迫感，使注意力过度紧张，降低思考的灵活性。
 
@@ -53,9 +54,7 @@ J.K.罗琳的咖啡馆专注习惯印证了约70分贝白噪音所具备的<stro
 
 ---
 
-## 适度的环境噪音开启思考的大门
-
-对于J.K.罗琳而言，咖啡馆的低语声并非干扰专注的障碍，而是一个舒适的声音屏障，能抵消孤独感与压力，为大脑提供轻柔的认知刺激。当在封闭静寂的房间里思维卡壳时，不妨走向咖啡馆，或在房间里播放白噪音。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ J.K.罗琳的咖啡馆专注习惯印证了约70分贝白噪音所具备的<stro
   </p>
 </div>
 
+---
+
+## 3. 适度的环境噪音开启思考的大门
+
+对于J.K.罗琳而言，咖啡馆的低语声并非干扰专注的障碍，而是一个舒适的声音屏障，能抵消孤独感与压力，为大脑提供轻柔的认知刺激。当在封闭静寂的房间里思维卡壳时，不妨走向咖啡馆，或在房间里播放白噪音。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>听喧闹重金属音乐或电子舞曲也会有同样效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ J.K.罗琳的咖啡馆专注习惯印证了约70分贝白噪音所具备的<stro
       不会。带有歌词或剧烈、有规律的高噪音（85分贝以上）会侵占额叶的工作记忆，导致大脑疲劳并破坏专注。只有无歌词、不可预测的随机环境音（白噪音）才能产生积极作用。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在自习室戴着耳机听白噪音有用吗？</span>

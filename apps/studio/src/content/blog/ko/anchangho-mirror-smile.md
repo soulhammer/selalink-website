@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "긍정적 뇌 회로를 깨우는 힘: 도산 안창호의 거울 미소와 청결 루틴"
 description: "독립운동가 도산 안창호가 강조한 '미소'와 '청결'의 힘. 억지 미소가 뇌의 세로토닌을 분비하고 정돈된 공간이 시각적 인지 부하를 줄여주는 과학적 이유를 알아봅니다."
 pubDate: "2026-01-19"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>도산 안창호 평전 및 흥사단(興士團) 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 anchangho-mirror-smile 루틴을 다룹니다.
+      본 콘텐츠는 <strong>도산 안창호 평전 및 흥사단(興士團) 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 안면 피드백 가설과 물리 공간 정돈의 인지 치료 효과
+## 1. 안면 피드백 가설과 물리 공간 정돈의 인지 치료 효과
 
 생리학의 안면 피드백 가설(Facial Feedback Hypothesis)에 따르면, 뇌는 단순히 감정에 따라 안면 근육을 움직이는 것뿐만 아니라 역으로 안면 근육의 수축 상태를 감지하여 현재의 감정을 판별합니다. 아침에 억지로 웃는 표정을 짓는 것만으로도 뇌는 기쁨의 자극으로 인지하여 세로토닌과 도파민 같은 긍정적 신경전달물질의 분비를 촉진하고, 스트레스 호르몬인 코르티솔의 양을 떨어뜨립니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 정신과 공간의 정돈을 위한 도산의 한마디
-
-마음이 흐트러졌을 때는 억지로 생각을 다잡으려 애쓰기보다, 먼저 거울 속 나에게 미소를 보내고 눈앞의 휴지 하나를 줍는 것에서 시작하세요. 미소는 내면의 어둠을 걷어내고, 청결은 외부의 무질서를 바로잡아 나를 바른길로 인도해 줍니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     집 밖으로 나가지 않더라도 세수를 하고 머리를 단정히 빗으며, 구겨지거나 더러운 옷을 피해 나만의 단정한 외모 격식을 갖춰 인지적 긴장감을 부여합니다.
   </p>
 </div>
+
+---
+
+## 3. 정신과 공간의 정돈을 위한 도산의 한마디
+
+마음이 흐트러졌을 때는 억지로 생각을 다잡으려 애쓰기보다, 먼저 거울 속 나에게 미소를 보내고 눈앞의 휴지 하나를 줍는 것에서 시작하세요. 미소는 내면의 어둠을 걷어내고, 청결은 외부의 무질서를 바로잡아 나를 바른길로 인도해 줍니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

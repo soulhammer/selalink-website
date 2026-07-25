@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O segredo para tomar grandes decisões? A rotina de simplificação de decisões de Barack Obama"
 description: "Descubra a rotina de simplificação de decisões praticada por Barack Obama durante sua presidência. Um guia de 3 passos para economizar energia pré-frontal e tomar decisões melhores."
 pubDate: "2026-01-06"
@@ -33,17 +34,17 @@ Neste artigo, explicamos a neurociência por trás da simplificação de decisõ
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre obama-decision-simplification é baseada em <strong>Pesquisa de biografias históricas e registros autobiográficos de Barack Obama & estudos em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de biografias históricas e registros autobiográficos de Barack Obama & estudos em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Fadiga de decisão e exaustão do ego: Limites pré-frontais
+## 1. Fadiga de decisão e exaustão do ego: Limites pré-frontais
 
 Pesquisas comprovam que a capacidade de decisão funciona como uma bateria finita. Escolhas simples pela manhã consomem energia pré-frontal. Esse esgotamento é chamado de <strong>'Exaustão do Ego' (Ego Depletion)</strong> ou <strong>'Fadiga de Decisão'</strong>.
 
@@ -51,9 +52,7 @@ Quando a fadiga acumula, o controle cognitivo falha. Ao automatizar tarefas mati
 
 ---
 
-## Conselho neurocientífico para otimizar suas decisões
-
-Menos escolhas triviais significam maior foco. Simplifique decisões diárias para evitar vazamento de energia mental e impulsionar suas metas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ Menos escolhas triviais significam maior foco. Simplifique decisões diárias pa
   </p>
 </div>
 
+---
+
+## 3. Conselho neurocientífico para otimizar suas decisões
+
+Menos escolhas triviais significam maior foco. Simplifique decisões diárias para evitar vazamento de energia mental e impulsionar suas metas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jam dari Königsberg: Jalan-Jalan Harian Jam 3:30 Sore Immanuel Kant dan Presisi Ritme Sirkadian"
 description: "Pelajari bagaimana raksasa filsafat modern Immanuel Kant mempertahankan kejernihan mental yang tidak tertandingi melalui jalan-jalan jam 3:30 sore di Königsberg. Temukan neurosains stimulasi nukleus suprakiasmatik (SCN) dan pernapasan hidung."
 pubDate: "2026-03-18"
@@ -37,25 +38,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai kant-walk didasarkan pada <strong>Verifikasi Historis dari *Kant: A Biography* karya Manfred Kuehn, Arsip Königsberg & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Kant: A Biography* karya Manfred Kuehn, Arsip Königsberg & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Presisi Ritme Sirkadian dan Stimulasi Nukleus Suprakiasmatik (SCN)
+## 1. Presisi Ritme Sirkadian dan Stimulasi Nukleus Suprakiasmatik (SCN)
 
 Berjalan di rute yang identik tepat pada jam 3:30 sore setiap hari memberikan stimulus kuat pada <strong>Nukleus Suprakiasmatik (SCN)</strong> di dalam hipotalamus, mengunci keterselarasan <strong>Ritme Sirkadian</strong>. Paparan luar ruangan yang konsisten menstabilkan <strong>Sistem Saraf Otonom</strong>, meredakan ketegangan fisik. Selain itu, ini memulihkan kapasitas eksekutif di <strong>Korteks Prefrontal</strong>.
 
 ---
 
-## Perhatian: Mempertahankan Pernapasan Hidung Ketat Sambil Membungkam Kebisingan Verbal
-
-Kant secara ketat mempertahankan mulutnya tetap tertutup selama berjalan-jalan, percaya bahwa berbicara di udara dingin membebani paru-parunya dan mengganggu keseimbangan saraf. Mekanisme utamanya adalah mengeliminasi obrolan santai dan notifikasi ponsel pintar, membenamkan kesadaran Anda sepenuhnya pada pernapasan hidung yang tenang.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Kant secara ketat mempertahankan mulutnya tetap tertutup selama berjalan-jalan, 
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mempertahankan Pernapasan Hidung Ketat Sambil Membungkam Kebisingan Verbal
+
+Kant secara ketat mempertahankan mulutnya tetap tertutup selama berjalan-jalan, percaya bahwa berbicara di udara dingin membebani paru-parunya dan mengganggu keseimbangan saraf. Mekanisme utamanya adalah mengeliminasi obrolan santai dan notifikasi ponsel pintar, membenamkan kesadaran Anda sepenuhnya pada pernapasan hidung yang tenang.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Immanuel Kant secara ketat berjalan-jalan pada jam 3:30 sore setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Kant secara ketat mempertahankan mulutnya tetap tertutup selama berjalan-jalan, 
       Untuk mempertahankan penelitian filosofis abstrak tingkat tinggi selama berdekade-dekade, Kant mempertahankan rutinitas harian yang menstabilkan sistem saraf otonomnya, menjaga ritme sirkadian.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah perlu menahan diri dari berbicara dan bernapas secara eksklusif melalui hidung saat berjalan-jalan seperti Kant?</span>

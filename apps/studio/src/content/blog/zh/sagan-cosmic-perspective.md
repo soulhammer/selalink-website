@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "卡尔·萨根的大局视角：利用“暗淡蓝点”习惯重置日常焦虑与压力"
 description: "探讨天文学家卡尔·萨根通过3分钟宇宙俯瞰（Zoom-out）摆脱日常焦虑的历史事实，以及“敬畏效应（Awe Effect）”的脑科学原理。"
 pubDate: "2026-06-27"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 sagan-cosmic-perspective 的内容基于 <strong>卡尔·萨根历史传记与自传考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>卡尔·萨根历史传记与自传考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 宇宙敬畏感平复大脑杏仁核与自我压力的机制
+## 1. 宇宙敬畏感平复大脑杏仁核与自我压力的机制
 
 神经心理学将此称为<strong>“微小自我效应（Small-Self Effect）”</strong>。当具象化宇宙或大自然的浩瀚敬畏感时，大脑杏仁核与岛叶的过度应激反应会得以平复，从而摆脱琐碎焦虑，获得开阔的客观视角。
 
 ---
 
-## 萨根视角重置的注意事项与提示
-
-切勿将宇宙的浩瀚误解为无能为力。相反，应将其作为一种工具，以意识到困扰自己的压力与烦恼微不足道、完全可以平静解决。与其单凭意志力，不如提前设计好能自然引发该习惯的物理环境与习惯信号。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 萨根视角重置的注意事项与提示
+
+切勿将宇宙的浩瀚误解为无能为力。相反，应将其作为一种工具，以意识到困扰自己的压力与烦恼微不足道、完全可以平静解决。与其单凭意志力，不如提前设计好能自然引发该习惯的物理环境与习惯信号。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在演讲或重要会议前感到不安时，这个习惯也有用吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的！在脑海中想象1分钟宇宙拉远视角，可以稳定心率，显著降低怯场或执行焦虑。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>身边没有太空照片时该怎么办？</span>

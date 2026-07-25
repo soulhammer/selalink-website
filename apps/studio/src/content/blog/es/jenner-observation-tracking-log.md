@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Padre de la Inmunología que Conquistó la Viruela: La Rutina de Registro de Campo y la Neurociencia del Grit de Edward Jenner"
 description: "Descubra cómo el médico rural Edward Jenner inventó la vacuna contra la viruela acumulando años de diarios de observación de campo. Explore la neurociencia de los circuitos de recompensa de dopamina orientados al proceso y el grit prefrontal."
 pubDate: "2026-07-14"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre jenner-observation-tracking-log se basa en <strong>Verificación Histórica del Tratado de Edward Jenner *Investigación sobre las causas y efectos de las viruelas vacunas (1798)*, Archivos de la Royal Society e Investigación en Neurociencia Cognitiva e Historia de la Medicina</strong>.
+      Este contenido se basa en <strong>Verificación Histórica del Tratado de Edward Jenner *Investigación sobre las causas y efectos de las viruelas vacunas (1798)*, Archivos de la Royal Society e Investigación en Neurociencia Cognitiva e Historia de la Medicina</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reorientación Orientada al Proceso del Circuito de Recompensa de Dopamina y Neurociencia del Grit
+## 1. Reorientación Orientada al Proceso del Circuito de Recompensa de Dopamina y Neurociencia del Grit
 
 Obsesionarse solo con los resultados a corto plazo genera desmotivación cuando las hipótesis iniciales fallan. Practicar el <strong>Diario de Observación de Campo a Largo Plazo</strong> de Jenner desplaza el eje del <strong>Circuito de Recompensa de Dopamina</strong> del resultado inmediato hacia el acto físico de observar y registrar. Esta reorientación estimula la planificación en la <strong>Corteza Prefrontal</strong>, cultivando un <strong>Grit</strong> superior y un impulso constante para probar hipótesis hasta el final.
 
 ---
 
-## Precaución: Elimine el Sesgo de Confirmación para Aceptar Datos de Excepción Objetivos
-
-La grandeza de Edward Jenner radicó en su negativa a recopilar únicamente los datos que favorecían sus hipótesis; registró minuciosamente las contraevidencias y excepciones. Para evitar el Sesgo de Confirmación, registre los hechos reales y métricas exactas con honestidad, permitiendo a su cerebro identificar la verdad sin distorsiones.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La grandeza de Edward Jenner radicó en su negativa a recopilar únicamente los 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine el Sesgo de Confirmación para Aceptar Datos de Excepción Objetivos
+
+La grandeza de Edward Jenner radicó en su negativa a recopilar únicamente los datos que favorecían sus hipótesis; registró minuciosamente las contraevidencias y excepciones. Para evitar el Sesgo de Confirmación, registre los hechos reales y métricas exactas con honestidad, permitiendo a su cerebro identificar la verdad sin distorsiones.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo hacer si no surge ningún patrón significativo a pesar de registrar datos diariamente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La grandeza de Edward Jenner radicó en su negativa a recopilar únicamente los 
       Los datos que no muestran un patrón inmediato sirven para filtrar el ruido. Una vez que las entradas cuantitativas se acumulan durante más de 30 días, la corteza prefrontal sintetiza conexiones y revela patrones ocultos de forma automática.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Pueden los trabajadores de oficina modernos o profesionales no médicos realizar rastreos de campo como Jenner?</span>

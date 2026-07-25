@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Évacuer le stress de la construction d'une nation : La méditation post-entraînement de Lee Kuan Yew et l'homéostasie autonome"
 description: "Découvrez comment Lee Kuan Yew, Premier ministre fondateur de Singapour, gérait le stress du pouvoir en associant 30 minutes de tapis de course a 20 minutes de méditation. Explorez la bascule du système nerveux autonome, l'élimination du cortisol et un guide en 3 étapes."
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive et la physiologie de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant lee-kuanyew-treadmill est basée sur <strong>Vérification Historique issue de l'autobiographie de Lee Kuan Yew *The Singapore Story*, des Archives nationales de Singapour & de la Recherche en Neurosciences Cognitives et Physiologie de l'Exercice</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Lee Kuan Yew *The Singapore Story*, des Archives nationales de Singapour & de la Recherche en Neurosciences Cognitives et Physiologie de l'Exercice</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Élimination du cortisol par stimulation aérobique et bascule vers le système nerveux parasympatique
+## 1. Élimination du cortisol par stimulation aérobique et bascule vers le système nerveux parasympatique
 
 L'exercice aérobique haute intensité favorise l'évacuation des déchets métaboliques et dissipe la fatigue cognitive. La méditation consécutive fait basculer le corps d'un état de stimulation du <strong>Système Nerveux Sympathique</strong> vers la dominance du <strong>Système Nerveux Parasympathique</strong>. Cette bascule rapide réduit le taux de <strong>cortisol</strong> en un temps record, élevant l'<strong>Homéostasie</strong>, restaurant la capacité exécutive du <strong>Cortex Préfrontal</strong> et rétablissant un calme intérieur.
 
 ---
 
-## Mise en garde : Protocole de méditation immédiate après l'effort pour exploiter la fenêtre physiologique
-
-L'essence de la routine de Lee Kuan Yew consiste a méditer immédiatement après l'effort, avant de se doucher ou de passer a d'autres tâches. Réguler sa respiration pendant que le rythme cardiaque est élevé stimule le nerf vague, provoquant una baisse rapide du cortisol. Évitez toute pause prolongée entre l'effort et la méditation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'essence de la routine de Lee Kuan Yew consiste a méditer immédiatement aprè
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Protocole de méditation immédiate après l'effort pour exploiter la fenêtre physiologique
+
+L'essence de la routine de Lee Kuan Yew consiste a méditer immédiatement après l'effort, avant de se doucher ou de passer a d'autres tâches. Réguler sa respiration pendant que le rythme cardiaque est élevé stimule le nerf vague, provoquant una baisse rapide du cortisol. Évitez toute pause prolongée entre l'effort et la méditation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Puis-je prendre una douche avant de m'asseoir pour méditer ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'essence de la routine de Lee Kuan Yew consiste a méditer immédiatement aprè
       Non. La fenêtre physiologique idéale se présente 'immédiatement lorsque le rythme cardiaque est à son maximum'. Si le pouls se normalise pendant la douche, la transition du système sympathique vers le parasympathique perd de son efficacité, réduisant l'élimination du cortisol. Il faut s'asseoir juste après l'effort.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>La séance de méditation est-elle un échec si des pensées parasites surviennent ?</span>

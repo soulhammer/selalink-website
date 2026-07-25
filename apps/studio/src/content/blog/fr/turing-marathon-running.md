@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Une course pour réinitialiser le cerveau d'un génie ? La routine de course à pied d'Alan Turing"
 description: "Alan Turing, le père de l'informatique qui a décrypté le code Enigma. Découvrez son habitude de courir 16 km par jour pour soulager la surcharge cérébrale et stimuler les cellules nerveuses."
 pubDate: "2026-02-02"
@@ -35,17 +36,17 @@ Dans cet article, nous examinons les mécanismes neuroscientifiques de la routin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant turing-marathon-running est basée sur <strong>Biographies historiques et données autobiographiques sur Alan Turing et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et données autobiographiques sur Alan Turing et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'exercice aérobique favorise la neurogenèse et le rafraîchissement cognitif
+## 1. L'exercice aérobique favorise la neurogenèse et le rafraîchissement cognitif
 
 La course aérobique quotidienne induit la synthèse du <strong>Facteur Neurotrophique Dérivé du Cerveau (BDNF)</strong>, substance essentielle à la santé cérébrale. Le BDNF favorise la neurogenèse dans l'hippocampe, étendant la mémoire de travail.
 
@@ -53,9 +54,7 @@ De plus, pendant la course, le cortex préfrontal se met en repos temporaire, st
 
 ---
 
-## Contrôle de l'allure pour le rafraîchissement de l'attention
-
-Le contrôle de l'allure est essentiel lors d'une course visant à rafraîchir le cerveau. Si vous courez trop intensément et atteignez le seuil anaérobie, le cerveau consacre toutes ses ressources à la survie physique, ce qui nuit à la réflexion et à l'activation du DMN. Courir à un rythme régulier permettant une conversation légère est idéal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Le contrôle de l'allure est essentiel lors d'une course visant à rafraîchir l
   </p>
 </div>
 
+---
+
+## 3. Contrôle de l'allure pour le rafraîchissement de l'attention
+
+Le contrôle de l'allure est essentiel lors d'une course visant à rafraîchir le cerveau. Si vous courez trop intensément et atteignez le seuil anaérobie, le cerveau consacre toutes ses ressources à la survie physique, ce qui nuit à la réflexion et à l'activation du DMN. Courir à un rythme régulier permettant une conversation légère est idéal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Le vélo d'intérieur ou la natation produisent-ils le même effet de rafraîchissement que la course ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Le contrôle de l'allure est essentiel lors d'une course visant à rafraîchir l
       Oui, tout exercice aérobique continu stimulant la fonction cardio-pulmonaire et augmentant le niveau de BDNF (comme le vélo ou la natation) offre des bénéfices similaires. Cependant, la course en plein air maximise la relaxation du DMN grâce aux stimulations sensorielles comme le vent et les paysages.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Écouter de la musique en courant nuit-il à la récupération cérébrale ?</span>

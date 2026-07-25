@@ -507,6 +507,10 @@
           "반려묘 관절"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/scottish_fold_care.png"
   }
 }

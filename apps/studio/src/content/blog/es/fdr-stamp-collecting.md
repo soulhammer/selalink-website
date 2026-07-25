@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Rutina de Clasificación de Sellos de Franklin D. Roosevelt: Relajación Cognitiva y Ritual Análogo de Sueño"
 description: "Descubra cómo el presidente Roosevelt aliviaba la tensión mental clasificando sellos cada noche durante crisis bélicas y económicas. Explore la neurociencia de la relajación cognitiva y la melatonina."
 pubDate: "2026-07-02"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia detrás de la rutina de cl
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre fdr-stamp-collecting se basa en <strong>Verificación Histórica de las Biografías de Franklin D. Roosevelt, Archivos de la Biblioteca Presidencial FDR e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Biografías de Franklin D. Roosevelt, Archivos de la Biblioteca Presidencial FDR e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Enfriar la Memoria de Trabajo Sobrecargada Mediante Relajación Cognitiva y Activación Parasimpática
+## 1. Enfriar la Memoria de Trabajo Sobrecargada Mediante Relajación Cognitiva y Activación Parasimpática
 
 Tomar decisiones de alto nivel hiperactiva la corteza prefrontal, agotando la energía mental. Cuando el trabajo termina pero la tensión persiste, el 'residuo cognitivo' degrada la calidad del sueño. Dedicarse a un pasatiempo visual y táctil ajeno al trabajo —como la clasificación de sellos de FDR— envía una 'señal de seguridad' al cerebro, reduciendo la excitación prefrontal. La neurociencia demuestra que este cambio cognitivo activa el sistema parasimpático, aumentando la melatonina y la hormona del crecimiento para un sueño reparador.
 
 ---
 
-## Precaución: Apague las Pantallas Digitales y Enfóquese en Actividades Analógicas
-
-Muchos asumen erróneamente que ver videos en el teléfono desde la cama los descansa. En realidad, la luz azul y la estimulación continua mantienen al cerebro en estado de alerta, suprimiendo la melatonina. Para garantizar un buen descanso, reemplace las pantallas con actividades analógicas que usen el tacto.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Muchos asumen erróneamente que ver videos en el teléfono desde la cama los des
   </p>
 </div>
 
+---
+
+## 3. Precaución: Apague las Pantallas Digitales y Enfóquese en Actividades Analógicas
+
+Muchos asumen erróneamente que ver videos en el teléfono desde la cama los descansa. En realidad, la luz azul y la estimulación continua mantienen al cerebro en estado de alerta, suprimiendo la melatonina. Para garantizar un buen descanso, reemplace las pantallas con actividades analógicas que usen el tacto.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Jugar juegos móviles o ver videos ayuda a lograr una relajación cognitiva?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Muchos asumen erróneamente que ver videos en el teléfono desde la cama los des
       No. La luz azul y los algoritmos estimulantes mantienen al cerebro en alerta e inhiben la melatonina. La verdadera relajación cognitiva requiere actividades analógicas que usen el tacto sin pantallas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué pasa si dedicar 30 minutos todas las noches parece demasiado largo?</span>

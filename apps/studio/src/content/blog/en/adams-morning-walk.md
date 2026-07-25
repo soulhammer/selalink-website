@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Walk to Awaken Brain Health: John Quincy Adams's Power Walking & Reflection Journal Routine"
 description: "John Quincy Adams, the 6th U.S. President, adhered to a daily 5-mile brisk walk and evening reflection journaling. Discover healthy brain habits that stimulate BDNF secretion."
 pubDate: "2026-04-06"
@@ -36,14 +37,14 @@ In today's post, we introduce the neuroscientific mechanisms of Brain-Derived Ne
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding adams-morning-walk is based on <strong>Historical Biography and Autobiographical Records of John Quincy Adams & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biography and Autobiographical Records of John Quincy Adams & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergy of Exercise-Induced BDNF and Cognitive Reflection
+## 1. Synergy of Exercise-Induced BDNF and Cognitive Reflection
 
 Brisk walking at a pace that leaves you slightly breathless raises your heart rate and supplies rich blood flow to the hippocampus, directly stimulating the secretion of Brain-Derived Neurotrophic Factor (BDNF), a key neural growth factor. This factor repairs synaptic connections between brain cells and promotes new growth.
 
@@ -51,9 +52,7 @@ When you write a diary or reading notes by hand in the evening while your brain 
 
 ---
 
-## Adjust Speed to Match Your Knee Joints and Fitness Level
-
-Adams engaged in a very fast 5-mile brisk walk every day, but this was based on physical endurance trained over a long period. If modern individuals suddenly start high-intensity walking, it can strain their knee joints or spine. Starting with 15 minutes of light brisk walking matched to your baseline fitness and gradually expanding the time and stride is the best way to avoid overexertion.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Adams engaged in a very fast 5-mile brisk walk every day, but this was based on 
   </p>
 </div>
 
+---
+
+## 3. Adjust Speed to Match Your Knee Joints and Fitness Level
+
+Adams engaged in a very fast 5-mile brisk walk every day, but this was based on physical endurance trained over a long period. If modern individuals suddenly start high-intensity walking, it can strain their knee joints or spine. Starting with 15 minutes of light brisk walking matched to your baseline fitness and gradually expanding the time and stride is the best way to avoid overexertion.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can I substitute outdoor morning walks with running fast on an indoor treadmill?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Adams engaged in a very fast 5-mile brisk walk every day, but this was based on 
       In terms of BDNF release via aerobic exercise, it is effective. However, outdoor walking is strongly recommended because processing outdoor visual stimuli (natural light, seasonal changes, uneven terrain) has a much greater effect on activating the visual cortex, sense of balance, and prefrontal synaptic networks compared to a static indoor environment.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Will typing the evening reflection journal into a smartphone memo app have the same effect?</span>

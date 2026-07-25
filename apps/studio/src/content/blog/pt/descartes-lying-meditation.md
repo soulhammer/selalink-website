@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Gênio que Ficava na Cama Até o Meio-Dia: A Rotina de Meditação Deitado e Relaxamento Alfa de René Descartes"
 description: "Descubra como o matemático e filósofo René Descartes passava as manhãs meditando na cama até o meio-dia. Explore a neurociência cognitiva da postura horizontal, resposta reduzida de cortisol e indução de ondas alfa."
 pubDate: "2026-01-25"
@@ -33,25 +34,23 @@ Desde a infância, Descartes tinha uma saúde frágil, o que tornava o despertar
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre descartes-lying-meditation é baseada em <strong>Verificação Histórica do *Discurso sobre o Método (Discourse on the Method)* de René Descartes e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica do *Discurso sobre o Método (Discourse on the Method)* de René Descartes e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaxamento com Baixo Cortisol e Indução de Ondas Alfa Via Postura Horizontal
+## 1. Relaxamento com Baixo Cortisol e Indução de Ondas Alfa Via Postura Horizontal
 
 Levantar-se bruscamente ao acordar desencadeia uma acentuada Resposta de Despertar do Cortisol (CAR), aumentando a ativação simpática e alterando as ondas cerebrais para um padrão beta. Manter uma postura horizontal relaxada após acordar previne picos de cortisol, conservando Ondas Alfa de 8–12 Hz. Em posição deitada, a carga somatossensorial diminui, permitindo ao córtex pré-frontal direcionar 100% da sua energia para a lógica dedutiva.
 
 ---
 
-## Precauções e Dicas: Evitar a Procrastinação do Sono e Definir um Foco Único
-
-Garanta que a meditação deitado não se transforme em preguiça ou em voltar a dormir. Evite pegar o celular imediatamente ao acordar, pois estímulos digitais interrompem o estado alfa. Mantenha a mente desperta enquanto permanece deitado por 5 a 10 minutos, direcionando o foco pré-frontal exclusivamente a um problema principal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Garanta que a meditação deitado não se transforme em preguiça ou em voltar a
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar a Procrastinação do Sono e Definir um Foco Único
+
+Garanta que a meditação deitado não se transforme em preguiça ou em voltar a dormir. Evite pegar o celular imediatamente ao acordar, pois estímulos digitais interrompem o estado alfa. Mantenha a mente desperta enquanto permanece deitado por 5 a 10 minutos, direcionando o foco pré-frontal exclusivamente a um problema principal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>A meditação matinal na cama oferece realmente benefícios cognitivos comprovados cientificamente?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Garanta que a meditação deitado não se transforme em preguiça ou em voltar a
       Sim, seus mecanismos neurofisiológicos são comprovados. Manter a postura deitada após acordar previne picos bruscos de cortisol, estabilizando o sistema nervoso autônomo. Preservar as Ondas Alfa de 8–12 Hz reduz o ruído sensorial, potencializando a dedução intuitiva pré-frontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que devo fazer se adormecer acidentalmente enquanto medito na cama?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Puncak Fokus: Kebiasaan Sketsa Geometri Pasir Archimedes"
 description: "Archimedes secara terus-menerus menggambar bentuk-bentuk geometri di atas pasir atau tanah untuk memvisualisasikan inspirasi ilmiah yang kompleks. Pelajari bagaimana sketsa visual dengan tangan mengurangi beban kognitif pada memori kerja dan menginduksi kondisi hiperfokus."
 pubDate: "2026-03-25"
@@ -29,25 +30,23 @@ Archimedes, ahli matematika dan fisika yang menerangi fajar sains kuno dengan be
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai aristotle-walking-study didasarkan pada <strong>Verifikasi Historis dari *Life of Marcellus* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Life of Marcellus* karya Plutarch & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pencegahan Beban Berlebih Memori Kerja dan Efek Kognitif Pengodean Ganda
+## 1. Pencegahan Beban Berlebih Memori Kerja dan Efek Kognitif Pengodean Ganda
 
 Memori kerja manusia memiliki batasan ketat dalam jumlah informasi yang dapat diproses sekaligus. Mencoba menghitung rumus matematika atau hukum fisika abstrak murni di dalam kepala membuat otak cepat lelah dan memecah konsentrasi. Pada saat ini, tindakan menggerakkan tangan untuk menggambar garis-garis di sekitar memicu 'Kognisi Terdistribusi (Distributed Cognition)', memindahkan beban kognitif otak ke lingkungan luar. Selain itu, melalui efek pengodean ganda di mana gambar visual dan gerakan taktil diaktifkan bersamaan, hal ini merangsang sel-sel memori spasial dan mendorong pemrosesan informasi yang canggih.
 
 ---
 
-## Peringatan dan Tips
-
-Poin utama yang harus diwaspadai saat menerapkan kebiasaan sketsa geometri adalah agar tidak terjebak dalam perfeksionisme yang ingin menggambar sketsa rapi dan indah. Terlalu memperhatikan bentuk garis atau kepresisian menyebabkan fenomena berbalik di mana sumber daya kognitif otak terbuang pada keterampilan menggambar itu sendiri. Oleh karena itu, sketsa geometri sebaiknya hanya digunakan sebagai panduan untuk merapikan informasi dan membantu konsentrasi otak, dengan kunci utama menggambar secara ringan di tingkat corotan yang berantakan dan belum selesai.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Poin utama yang harus diwaspadai saat menerapkan kebiasaan sketsa geometri adala
     Hubungkan anak panah atau garis di antara bentuk-bentuk untuk memperluas hubungan seperti sebab dan akibat, klasifikasi, dan interaksi secara visual sambil merenung selama 5 menit.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Poin utama yang harus diwaspadai saat menerapkan kebiasaan sketsa geometri adalah agar tidak terjebak dalam perfeksionisme yang ingin menggambar sketsa rapi dan indah. Terlalu memperhatikan bentuk garis atau kepresisian menyebabkan fenomena berbalik di mana sumber daya kognitif otak terbuang pada keterampilan menggambar itu sendiri. Oleh karena itu, sketsa geometri sebaiknya hanya digunakan sebagai panduan untuk merapikan informasi dan membantu konsentrasi otak, dengan kunci utama menggambar secara ringan di tingkat corotan yang berantakan dan belum selesai.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

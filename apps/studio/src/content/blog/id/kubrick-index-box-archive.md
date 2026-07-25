@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Merancang Kesempurnaan dengan Second Brain: Kebiasaan Pengarsipan Kartu Indeks dan Pelepasan Kognitif Stanley Kubrick"
 description: "Pelajari bagaimana sutradara film legendaris Stanley Kubrick menciptakan mahakarya dengan meredakan beban memori kerja melalui arsip kartu indeks. Temukan pelepasan kognitif, chunking, optimasi prefrontal, dan panduan 3 langkah."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai kubrick-index-box-archive didasarkan pada <strong>Verifikasi Historis dari *The Stanley Kubrick Archives* (Alison Castle), Arsip Kubrick & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *The Stanley Kubrick Archives* (Alison Castle), Arsip Kubrick & Penelitian Neurosains Kognitif serta Psikologi Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pelepasan Kognitif Memori Kerja dan Strategi Chunking
+## 1. Pelepasan Kognitif Memori Kerja dan Strategi Chunking
 
 Kapasitas <strong>Memori Kerja</strong> manusia terbatas untuk menahan sekitar 4 hingga 7 unit informasi sekaligus; memaksakan otak untuk mempertahankan sejumlah besar data memicu <strong>Kelelahan Kognitif Berlebih (Cognitive Overload)</strong>. Pengarsipan kartu indeks Kubrick mencontohkan <strong>Pelepasan Kognitif (Cognitive Offloading)</strong>—memindahkan ketegangan memori dari sirkuit saraf yang rentan ke media fisik eksternal. Menstrukturkan informasi rumit menjadi <strong>chunk</strong> di luar otak membebaskan <strong>Korteks Prefrontal</strong> dari stres hafalan.
 
 ---
 
-## Perhatian: Menghindari Salin-Tempel Tanpa Berpikir untuk Berfokus pada Ringkasan Atomic 'Satu Kartu, Satu Ide'
-
-Jebakan umum dalam pengarsipan adalah menyalin teks mentah tanpa berpikir ke dalam penyimpanan. Ini memicu rasa kompetensi palsu yang dikenal sebagai <strong>Kesalahan Metakognisi (Metacognition Error)</strong>. Untuk memungkinkan penalaran kombinatorial yang fleksibel, patuhi secara ketat 'Satu Kartu, Satu Ide'—menyuling setiap entri ke dalam kata-kata Anda sendiri dalam sekitar dua kalimat ringkas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jebakan umum dalam pengarsipan adalah menyalin teks mentah tanpa berpikir ke dal
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Menghindari Salin-Tempel Tanpa Berpikir untuk Berfokus pada Ringkasan Atomic 'Satu Kartu, Satu Ide'
+
+Jebakan umum dalam pengarsipan adalah menyalin teks mentah tanpa berpikir ke dalam penyimpanan. Ini memicu rasa kompetensi palsu yang dikenal sebagai <strong>Kesalahan Metakognisi (Metacognition Error)</strong>. Untuk memungkinkan penalaran kombinatorial yang fleksibel, patuhi secara ketat 'Satu Kartu, Satu Ide'—menyuling setiap entri ke dalam kata-kata Anda sendiri dalam sekitar dua kalimat ringkas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bisakah saya membangun Second Brain menggunakan aplikasi catatan digital alih-alih kartu kertas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jebakan umum dalam pengarsipan adalah menyalin teks mentah tanpa berpikir ke dal
       Ya, tentu saja! Alat seperti Notion, Obsidian, atau platform catatan dinamis membangun sistem Second Brain yang luar biasa. Kuncinya bukanlah medianya, melainkan menjunjung tinggi 'Prinsip Modularitas' (satu konsep yang jelas per catatan) dan 'Prinsip Konektivitas' (menghubungkan kembali dan mengocok konsep secara terus-menerus).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Berapa banyak kartu yang harus saya kumpulkan sebelum memulai pengocokan acak dan asosiasi kreatif?</span>

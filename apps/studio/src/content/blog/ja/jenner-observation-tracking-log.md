@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "天然痘を征服したワクチンの父：エドワード・ジェンナーの現場観察記録ルーティンとグリット（Grit）の脳科学"
 description: "人類を感染症から救った医師エドワード・ジェンナーが、毎日村の農家を直接訪問し牛痘の観察記録を数年間蓄積してワクチンを発明した科学的習慣。過程中心のドパミン報酬回路再編と前頭前野グリット（Grit）活性化の脳科学を探求します。"
 pubDate: "2026-07-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「jenner-observation-tracking-log」は <strong>エドワード・ジェンナー論文『牛痘の causal と効果に関する研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）』および王立協会史料考証＆認知神経科学（Cognitive Neuroscience）および医学史（History of Medicine）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エドワード・ジェンナー論文『牛痘の causal と効果に関する研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）』および王立協会史料考証＆認知神経科学（Cognitive Neuroscience）および医学史（History of Medicine）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## ドパミン報酬回路（Dopamine Reward Circuit）の過程中心再編とグリット（Grit）の脳科学
+## 1. ドパミン報酬回路（Dopamine Reward Circuit）の過程中心再編とグリット（Grit）の脳科学
 
 短期的な結果にのみ固執すると、仮説が少しでも合わないとすぐに諦めてスランプに陥りやすくなります。ジェンナーのように毎日現場を直接観察し、データを正直に記載する<strong>「長期現場観察日誌」</strong>は、脳の<strong>ドパミン報酬回路（Dopamine Reward Circuit）</strong>の軸を短期的な結果ではなく「観察と記録行為自体」へと移動させます。これは<strong>前頭前野（Prefrontal Cortex）</strong>の長期計画機能を刺激し、仮説を最後まで検証し切る圧倒的な<strong>グリット（Grit）</strong>と持続的な実行動力を与えてくれます。
 
 ---
 
-## 注意事項：確証バイアス（Confirmation Bias）を排除し客観的例外データまで受容するルール
-
-エドワード・ジェンナーの偉大さは、自分の仮説に有利なデータだけを集めたのではなく、仮説に反対する例外事例まで正直に日誌に収めた点にあります。確証バイアスに陥らず、現場で観察された客観的ファクトと正直な数値を記載してこそ、脳が歪みのない真実を識別できるようになります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：確証バイアス（Confirmation Bias）を排除し客観的例外データまで受容するルール
+
+エドワード・ジェンナーの偉大さは、自分の仮説に有利なデータだけを集めたのではなく、仮説に反対する例外事例まで正直に日誌に収めた点にあります。確証バイアスに陥らず、現場で観察された客観的ファクトと正直な数値を記載してこそ、脳が歪みのない真実を識別できるようになります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>観察日誌を毎日書いているのに意味のあるパターンが見えない場合はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       パターンがすぐに見えないデータであっても、貴重な「ノイズ除去」の過程です。1ヶ月以上定量データが蓄積されれば、前頭前野が自ら文脈を連結し、意味のあるパターンを見つけ出します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ジェンナーのように田舎の医師ではない一般的な現代のオフィスワーカーも現場調査が可能ですか？</span>

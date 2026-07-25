@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Apakah Di Luar Tempat Tidur Itu Berbahaya? Rutinitas Menulis di Tempat Tidur ala Mark Twain untuk Menciptakan Karya Besar"
 description: "Temukan kebiasaan menulis unik Mark Twain, raksasa sastra Amerika, yang menciptakan karya-karya besar sambil berbaring di tempat tidur setelah sarapan, dan pelajari manfaat neurosains kreatif dari relaksasi fisik."
 pubDate: "2026-05-20"
@@ -31,17 +32,17 @@ Setiap pagi setelah menikmati sarapan berlimpah, alih-alih pergi ke ruang kerja,
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai twain-lying-writing didasarkan pada <strong>Biografi historis dan catatan autobiografi tentang kebiasaan menulis di tempat tidur Mark Twain & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi tentang kebiasaan menulis di tempat tidur Mark Twain & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Pemikiran Asosiatif' yang Merelaksasi Otak dan Menghubungkan Pikiran
+## 1. 'Pemikiran Asosiatif' yang Merelaksasi Otak dan Menghubungkan Pikiran
 
 Saat kita berbaring secara horizontal atau bersandar, beban jantung untuk memompa darah ke seluruh tubuh berkurang secara signifikan dibandingkan saat berdiri atau duduk. Ini meningkatkan aliran darah otak, menstabilkan detak jantung, dan sangat merangsang sistem saraf parasimpatis. Ketika tubuh benar-benar rileks, otak menekan sekresi kortisol, hormon stres.
 
@@ -49,9 +50,7 @@ Otak yang rileks beralih dari kondisi tegang (gelombang beta) dan memancarkan <s
 
 ---
 
-## Jaga Postur Tubuh Anda dan Cegah Gangguan Smartphone
-
-Berbaring miring di tempat tidur dapat memberi tekanan besar pada tulang belakang atau leher, jadi gunakan beberapa bantal kokoh di belakang punggung untuk menopang tulang belakang agar tetap lurus. Selain itu, untuk mencegah kenyamanan tempat tidur menjadi ajang melarikan diri dengan bermain media sosial, letakkan smartphone Anda sama sekali di luar jangkauan sebelum berbaring.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Berbaring miring di tempat tidur dapat memberi tekanan besar pada tulang belakan
     Tenangkan pernapasan Anda dalam posisi rileks, dan catat pikiran yang mengalir dari benak Anda secara mentah tanpa menyensornya secara logis. Format apa pun seperti kalimat, gambar, atau peta pikiran diperbolehkan. Eksternalkan pikiran Anda secara bebas setidaknya selama 15 menit.
   </p>
 </div>
+
+---
+
+## 3. Jaga Postur Tubuh Anda dan Cegah Gangguan Smartphone
+
+Berbaring miring di tempat tidur dapat memberi tekanan besar pada tulang belakang atau leher, jadi gunakan beberapa bantal kokoh di belakang punggung untuk menopang tulang belakang agar tetap lurus. Selain itu, untuk mencegah kenyamanan tempat tidur menjadi ajang melarikan diri dengan bermain media sosial, letakkan smartphone Anda sama sekali di luar jangkauan sebelum berbaring.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

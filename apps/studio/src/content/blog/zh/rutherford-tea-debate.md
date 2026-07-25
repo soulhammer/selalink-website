@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "原子核发现者的创意秘诀？欧内斯特·卢瑟福的下午4点茶歇交流习惯"
 description: "核物理学之父卢瑟福。探讨他每天下午4点与同事喝红茶进行非正式讨论、创造心理安全感并促成原子核发现的沟通习惯。"
 pubDate: "2026-05-23"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rutherford-tea-debate 的内容基于 <strong>欧内斯特·卢瑟福历史传记与考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>欧内斯特·卢瑟福历史传记与考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 心理安全感带动的团队创造力与认知解抑
+## 1. 心理安全感带动的团队创造力与认知解抑
 
 在等级森严或充满严格考评的工作环境中，对失败的恐惧会触发大脑的认知防御机制，从而压抑创造性想法。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 放下职位与形式，从一杯温热的茶开始
-
-茶歇的目的绝非工作汇报或指令下达，其核心在于保持开阔的灵活性，使任何大胆的想法都能被轻松讨论。不要单凭意志力，请提前营造能自然促成开放交流的环境。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 放下职位与形式，从一杯温热的茶开始
+
+茶歇的目的绝非工作汇报或指令下达，其核心在于保持开阔的灵活性，使任何大胆的想法都能被轻松讨论。不要单凭意志力，请提前营造能自然促成开放交流的环境。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>独自工作的自由职业者也能应用这个习惯吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，可以在下午4点喝茶时，通过线上社区或10分钟语音通话与同伴交流，或者在笔记本上提出批判性问题进行自我对话。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>担心茶歇时间会演变成纯粹闲聊而浪费时间。</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Robert Hooke's Microscopic Sketching Method: Awakening Prefrontal Fine Focus Through 0.01mm Micro-Observation and Hand-Eye Synchronization"
 description: "Discover how 17th-century polymath Robert Hooke discovered the first biological 'cell' through precision compound microscope sketching. Explore the cognitive neuroscience of hand-eye synchronization and visuospatial sketchpad activation."
 pubDate: "2026-04-04"
@@ -38,22 +39,20 @@ Combining optical micro-observation with precision hand sketching reinforced neu
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding hooke-microscopic-sketching is based on <strong>Historical Verification from Robert Hooke's *Micrographia* (1665), Royal Society Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Robert Hooke's *Micrographia* (1665), Royal Society Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hand-Eye Synchronization Across Visual-Motor Cortices and Prefrontal Fine Focus
+## 1. Hand-Eye Synchronization Across Visual-Motor Cortices and Prefrontal Fine Focus
 
 Manually rendering observed micro-details onto paper actively co-stimulates the brain's <strong>Visual Cortex</strong> and <strong>Motor Cortex</strong>. This dual hand-eye synchronization engages the <strong>Visuospatial Sketchpad</strong> working memory buffer, suppressing mental chatter. By recruiting prefrontal networks, it induces a state of <strong>Fine Focus</strong>, dramatically sharpening observational resolution, pattern recognition, and analytical problem-solving.
 
 ---
 
-## Caution: Prioritize Micro-Structural Precision Over Artistic Aesthetics
-
-Do not obsess over artistic beauty or pictorial perfection. The core requirement is objectively capturing the micro-structure, component connections, and minute error patterns exactly as observed. Concentrating on the physical act of transferring structural relationships rather than making a 'pretty drawing' preserves prefrontal fine focus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Do not obsess over artistic beauty or pictorial perfection. The core requirement
   </p>
 </div>
 
+---
+
+## 3. Caution: Prioritize Micro-Structural Precision Over Artistic Aesthetics
+
+Do not obsess over artistic beauty or pictorial perfection. The core requirement is objectively capturing the micro-structure, component connections, and minute error patterns exactly as observed. Concentrating on the physical act of transferring structural relationships rather than making a 'pretty drawing' preserves prefrontal fine focus.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it effective to use digital mind mapping or tablet styluses instead of paper sketching?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Do not obsess over artistic beauty or pictorial perfection. The core requirement
       Yes! Whether using physical paper or a digital tablet stylus, as long as fine motor control and visual tracking are synchronized to map out structural relations, you capture identical neurological focus benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does this method benefit individuals with no artistic drawing talent?</span>

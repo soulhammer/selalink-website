@@ -21,6 +21,7 @@ faqs:
     answer: "No, meat pigment (myoglobin) turns brownish-red without oxygen. If it regains its bright red color after 15-20 minutes of exposure to air, it is perfectly fine."
   - question: "What is the safest way to thaw frozen beef?"
     answer: "Thaw it slowly in the refrigerator overnight. Avoid thawing at room temperature or in hot water, as it promotes rapid bacterial growth."
+
 ---
 
 Avez-vous déjà laissé du bœuf bien rouge au frigo pour le retrouver gris-marron avec une odeur aigre en seulement deux jours ? Aujourd'hui, FreshSnap vous montre comment éviter l'oxydation de la viande et préserver sa fraîcheur.
@@ -29,10 +30,10 @@ Avez-vous déjà laissé du bœuf bien rouge au frigo pour le retrouver gris-mar
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autorité Scientifique Vérifiée
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Ce guide de conservation est basé sur les directives officielles de : <strong>MFDS & USDA</strong>.
+      Based on official storage standards. <strong>MFDS & USDA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Essuyer soigneusement l'humidité et le sang en surface — Éviter les odeurs 🥩</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Badigeonner la surface d'huile végétale (ou d'olive) — Bloquer l'oxygène 🫒</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédie
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">ÉTAPE 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envelopper fermement de film plastique sans air — Réfrigéré 3 jours, Congelé 90 jours 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

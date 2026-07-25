@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Charles Babbage's Difference Engine Decomposition Method: How to Make Errors and Mistakes 0% Through Mechanical Cog Modularization"
 description: "Discover the historical facts of 19th-century father of computers Charles Babbage, who designed the world's first error-free mechanical calculator through precision cog modularization, along with the neuroscientific principles of system modularization."
 pubDate: "2026-01-10"
@@ -38,22 +39,20 @@ This habit of dismantling massive dilemmas into minimal cog modules where errors
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding babbage-difference-engine is based on <strong>Historical Verification from Charles Babbage's Autobiography *Passages from the Life of a Philosopher* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Charles Babbage's Autobiography *Passages from the Life of a Philosopher* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why System Modularization Eliminates Prefrontal Working Memory Overload
+## 1. Why System Modularization Eliminates Prefrontal Working Memory Overload
 
 According to cognitive science research, human Working Memory can only process 4 to 7 information chunks at a time. Decomposing complex dilemmas into independent cog modules prevents prefrontal cortex overload and fatigue, controlling errors down near 0%.
 
 ---
 
-## Precautions for System Modularization Alignment to Prevent Mechanical Errors
-
-Do not randomly mix and execute the order of decomposed modules. You must strictly align causal relationships so that the output of the preceding module connects seamlessly into the input of the next module. Rather than recklessly relying on willpower alone, designing a physical environment and habit cues in advance where action is naturally triggered is the core of sustainability.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Do not randomly mix and execute the order of decomposed modules. You must strict
   </p>
 </div>
 
+---
+
+## 3. Precautions for System Modularization Alignment to Prevent Mechanical Errors
+
+Do not randomly mix and execute the order of decomposed modules. You must strictly align causal relationships so that the output of the preceding module connects seamlessly into the input of the next module. Rather than recklessly relying on willpower alone, designing a physical environment and habit cues in advance where action is naturally triggered is the core of sustainability.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can this modular decomposition method be applied to software coding or task design as well?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Do not randomly mix and execute the order of decomposed modules. You must strict
       Yes! The core concepts of modern microservices and modular programming derive directly from Charles Babbage's Difference Engine cog modularization logic.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What should I do if an error occurs in a specific module?</span>

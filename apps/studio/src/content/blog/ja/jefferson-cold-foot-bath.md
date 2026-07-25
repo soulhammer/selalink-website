@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "トマス・ジェファーソンの冷水足湯法：60年間毎朝脳を呼び覚ます覚醒ルーティンとノルアドレナリン神経調節"
 description: "アメリカ独立宣言の起草者トマス・ジェファーソンが60年間毎朝冷水に足を浸して脳を覚醒させた歴史的事実と、自律神経系のノルアドレナリン分泌、前頭前野のブレインフォグ除去の脳科学的原理を解き明かします。"
 pubDate: "2026-04-17"
@@ -37,25 +38,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「jefferson-cold-foot-bath」は <strong>トマス・ジェファーソン書簡集『トマス・ジェファーソンの書簡（The Writings of Thomas Jefferson）』史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>トマス・ジェファーソン書簡集『トマス・ジェファーソンの書簡（The Writings of Thomas Jefferson）』史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自律神経系刺激とノルアドレナリン（Noradrenaline）脳覚醒
+## 1. 自律神経系刺激とノルアドレナリン（Noradrenaline）脳覚醒
 
 足の末梢神経に冷水を充てる局所冷刺激は、<strong>自律神経系（Autonomic Nervous System）</strong>を刺激し、大脳の<strong>ノルアドレナリン（Noradrenaline）</strong>の即座の分泌を促進します。この神経伝達物質は脳の覚醒状態を急激に引き上げ、朝に残っている朦朧とした<strong>ブレインフォグ（Brain Fog）</strong>を即座に除去し、<strong>前頭前野（Prefrontal Cortex）</strong>の大脳皮質集中力を迅速に元通り復旧させます。
 
 ---
 
-## 注意事項：急激な血圧変化を防ぎ安全に覚醒するルール
-
-突然の極端な冷水刺激は心血管系に負担を与えたり、一時的な血圧上昇を引き起こす可能性があります。高血圧や心血管疾患がある場合は氷水の代わりにぬるめの冷水から始め、2〜3分以内に局所足湯の時間を制限して自律神経系に緩やかな覚醒刺激を与えることが核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：急激な血圧変化を防ぎ安全に覚醒するルール
+
+突然の極端な冷水刺激は心血管系に負担を与えたり、一時的な血圧上昇を引き起こす可能性があります。高血圧や心血管疾患がある場合は氷水の代わりにぬるめの冷水から始め、2〜3分以内に局所足湯の時間を制限して自律神経系に緩やかな覚醒刺激を与えることが核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ジェファーソンは実際にこの冷水足湯を毎日実践したのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       はい、ジェファーソンは家族や医師に送った個人的な書簡の中で、自分が60年間のあいだ毎朝冷水足湯を実践してきたとし、このおかげで風邪にほとんどかかることなく頑健な健康を維持できたと明らかにしました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>シャワーの時に冷水でシャワーを浴びる方が、冷水足湯より効果的でしょうか？</span>

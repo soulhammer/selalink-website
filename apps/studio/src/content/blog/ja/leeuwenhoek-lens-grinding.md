@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "アントニ・ファン・レーウェンフックの球形レンズ研磨法：極度の忍耐と微視観察で本質を見抜く方法と小脳リラクセーション"
 description: "微生物学の父ファン・レーウェンフックが500倍率の球形レンズを直接研磨し、初めてバクテリアと微生物を発見した歴史的事実と、小脳・大脳基底核のリラックス、アルファ波（Alpha Wave）没頭（Flow）および3段階実践ガイドを解き明かします。"
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「leeuwenhoek-lens-grinding」は <strong>アントニ・ファン・レーウェンフック伝記史料およびイギリス王立協会（Royal Society）書簡史料考証＆認知神経科学（Cognitive Neuroscience）および運動制御学（Motor Control Science）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アントニ・ファン・レーウェンフック伝記史料およびイギリス王立協会（Royal Society）書簡史料考証＆認知神経科学（Cognitive Neuroscience）および運動制御学（Motor Control Science）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 小脳（Cerebellum）・大脳基底核（Basal Ganglia）リラックスとアルファ波（Alpha Wave）没頭（Flow）
+## 1. 小脳（Cerebellum）・大脳基底核（Basal Ganglia）リラックスとアルファ波（Alpha Wave）没頭（Flow）
 
 神経科学の研究によると、繊細で一定な反復手運動と高度な視覚的没頭が結合する時、脳波はストレス性のベータ波からリラックスした<strong>アルファ波（Alpha Wave）</strong>および<strong>シータ波（Theta Wave）</strong>へと転換されます。この過程で抑制的精密動作を掌る<strong>小脳（Cerebellum）</strong>と<strong>大脳基底核（Basal Ganglia）</strong>の不必要な興奮が鎮まり、<strong>前頭前野（Prefrontal Cortex）</strong>の過度な不確実性ノイズが除去され、雑念のない最高潮の<strong>没頭（Flow）</strong>状態へと引き込まれるようになります。
 
 ---
 
-## 注意事項：結果に対する焦りを排除し微細な忍耐（Micro-Patience）で過程に没頭するルール
-
-焦って即座な結果や成果を催促しようとしないでください。巨大な発見と本質的な洞察は、過酷な微細な忍耐（Micro-Patience）と地道な反復観察の中で自然と露わになります。主観的な意志力だけに依存しようとするより、20分間指先と視線が他へと逸れない精巧なアナログ環境と習慣信号を事前に構築することこそが、持続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：結果に対する焦りを排除し微細な忍耐（Micro-Patience）で過程に没頭するルール
+
+焦って即座な結果や成果を催促しようとしないでください。巨大な発見と本質的な洞察は、過酷な微細な忍耐（Micro-Patience）と地道な反復観察の中で自然と露わになります。主観的な意志力だけに依存しようとするより、20分間指先と視線が他へと逸れない精巧なアナログ環境と習慣信号を事前に構築することこそが、持続性の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>不安感が高かったり注意力が頻繁に散漫になる人にもこのルーティンは効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、非常に優れた効果があります！繊細な指先の微細運動と精密な視覚的没頭の同期は、過活性化された脳の扁桃体と緊張神経網を安定させ、不安感と散漫さを物理的に鎮めて脳の平静さを取り戻してくれます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>この微視没頭ルーティンを1日にどれくらい頻繁に、いつ実践するのが良いですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Beban Kekaisaran dan Refleksi: Kebiasaan Menulis Jurnal Malam Hari Ratu Victoria"
 description: "Pelajari kebiasaan refleksi Ratu Victoria, yang memerintah puncak Kekaisaran Britania dan menulis 122 volume jurnal. Membahas bagaimana tulisan tangan ekspresif mengaktifkan sistem saraf parasimpatis."
 pubDate: "2026-05-07"
@@ -31,25 +32,23 @@ Dari usia 13 tahun hingga beberapa hari sebelum kematiannya, Victoria menulis di
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai victoria-daily-journaling didasarkan pada <strong>Biografi historis dan catatan autobiografi Ratu Victoria & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi Ratu Victoria & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pelabelan Emosi dan Aktivasi Korteks Prefrontal dalam Penulisan Ekspresif
+## 1. Pelabelan Emosi dan Aktivasi Korteks Prefrontal dalam Penulisan Ekspresif
 
 Ketika emosi negatif membanjiri pikiran, sistem limbik otak menganggapnya sebagai keadaan darurat, melemahkan kontrol kognitif. Menulis jurnal dengan tangan memfasilitasi <strong>'Penulisan Ekspresif'</strong> dan <strong>'Pelabelan Emosi'</strong>.
 
 ---
 
-## Peringatan dan Tips
-
-Saat melakukan rutinitas penulisan ekspresif, hindari terobsesi pada ejaan atau gaya bahasa. Merasakan tekanan untuk menulis dengan baik membuat otak menganggap penulisan jurnal sebagai tugas yang dinilai. Kuncinya adalah menuangkan aliran emosi mentah secara bebas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Saat melakukan rutinitas penulisan ekspresif, hindari terobsesi pada ejaan atau 
     Saat menutup jurnal, katakan pada diri sendiri 'Semua kecemasan hari ini telah tersimpan dengan aman di halaman-halaman ini', mengirimkan sinyal penutupan kognitif ke otak Anda sebelum tidur.
   </p>
 </div>
+
+---
+
+## 3. Peringatan dan Tips
+
+Saat melakukan rutinitas penulisan ekspresif, hindari terobsesi pada ejaan atau gaya bahasa. Merasakan tekanan untuk menulis dengan baik membuat otak menganggap penulisan jurnal sebagai tugas yang dinilai. Kuncinya adalah menuangkan aliran emosi mentah secara bebas.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

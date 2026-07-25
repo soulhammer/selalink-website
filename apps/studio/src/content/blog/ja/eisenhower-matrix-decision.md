@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "重要なことに集中する力：ドワイト・アイゼンハワーの優先順位4象限意思決定習慣"
 description: "戦争と国政運営という巨大な意思決定の重みに耐え抜いたアイゼンハワー大統領。些細な緊急性に振り回されず、本質的で重要な仕事に脳のエネルギーを配分した彼の時間管理の秘訣と認知科学的メカニズムを分析します。"
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「eisenhower-matrix-decision」は <strong>ドワイト・D・アイゼンハワー自伝『At Ease: Stories I Tell to Friends（気楽に話そう）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ドワイト・D・アイゼンハワー自伝『At Ease: Stories I Tell to Friends（気楽に話そう）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 意思決定疲労（Decision Fatigue）防止と大脳皮質の認知制御
+## 1. 意思決定疲労（Decision Fatigue）防止と大脳皮質の認知制御
 
 人間の大脳前頭前野（Prefrontal Cortex）は意思決定や計画立案を司りますが、1日に処理できるエネルギー資源（認知的帯域幅）は極めて限られています。些細で緊急な出来事に繰り返し露出されると、脳は容易に「意思決定疲労」状態に陥り、本当に重要な瞬間で合理的判断を下せなくなります。アイゼンハワー・マトリックスは視覚的にタスクの優先順位を整列させることで、脳が直面する選択肢の数を減らし、認知負荷を飛躍的に軽減させます。これにより脳はストレスレベルが低下したリラックスした集中状態を維持し、高度な戦略的思考を効果的に遂行できるようになります。
 
 ---
 
-## 第2領域（重要だが緊急ではない仕事）の時間先取りルール
-
-優先順位分類の習慣を導入する際に陥りがちな過ちは、1日中第1領域（緊急かつ重要な仕事）だけに追われることです。第1領域だけに追われて1日を過ごすと、副腎皮質ホルモン（コルチゾール）が過剰分泌され、脳が慢性疲労とストレスに晒されます。核心は第2領域（緊急ではないが重要な仕事）である読書、企画、健康管理、人間関係の構築などに、毎日意図的に最低20%の認知資源をあらかじめ配分することです。第2領域のタスクが先行してこそ長期的な成長が可能となり、将来的に緊急の消火作業的な問題（第1領域）が発生する頻度を根本的に減らすことができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 第2領域（重要だが緊急ではない仕事）の時間先取りルール
+
+優先順位分類の習慣を導入する際に陥りがちな過ちは、1日中第1領域（緊急かつ重要な仕事）だけに追われることです。第1領域だけに追われて1日を過ごすと、副腎皮質ホルモン（コルチゾール）が過剰分泌され、脳が慢性疲労とストレスに晒されます。核心は第2領域（緊急ではないが重要な仕事）である読書、企画、健康管理、人間関係の構築などに、毎日意図的に最低20%の認知資源をあらかじめ配分することです。第2領域のタスクが先行してこそ長期的な成長が可能となり、将来的に緊急の消火作業的な問題（第1領域）が発生する頻度を根本的に減らすことができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>会社の業務の特性上、すべての仕事が緊急に押し寄せてくるのですが、第2領域（重要だが緊急でない仕事）をどのように確保すればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       すべての仕事が緊急に見えるなら、他人の締め切りが自分の重要度より優先されているからです。朝の最初の30分間はメールやメッセンジャーを開かず、ただ第2領域の企画や学習に没頭する「自分だけの妨害禁止ブロック」を強制的に設定してください。この小さな時間の確保が、長期的に事後収拾タスクを減らす触媒となります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>何が「重要な仕事」で、何が「緊急な仕事」なのかを客観的に区分する基準は何ですか？</span>

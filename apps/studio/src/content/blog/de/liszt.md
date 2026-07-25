@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Fehlerfrei eine Taste pro Sekunde durch Temporeduktion: Franz Liszts kleinhirnbasiertes Bewegungslernen und Myelinisierung"
 description: "Erfahren Sie, wie der Pianist Franz Liszt seine Präzision meisterte, indem er das Metronomtempo auf eine Taste pro Sekunde drosselte. Entdecken Sie die Neurowissenschaften des kleinhirnbasierten Bewegungslernens, der Myelinisierung und einen 3-Schritte-Plan."
 pubDate: "2026-04-14"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Franz Liszts 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu liszt basiert auf <strong>Historische Überprüfung aus Alan Walkers Biografie *Franz Liszt: The Virtuoso Years*, Liszt-Archiven & Forschung der kognitiven Neurowissenschaften und Bewegungslernwissenschaft</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Alan Walkers Biografie *Franz Liszt: The Virtuoso Years*, Liszt-Archiven & Forschung der kognitiven Neurowissenschaften und Bewegungslernwissenschaft</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Präzision des kleinhirnbasierten Bewegungslernens und Myelinisierung
+## 1. Präzision des kleinhirnbasierten Bewegungslernens und Myelinisierung
 
 Das Verlangsamen von Bewegungsabläufen zur Kontrolle der Feinmotorik beansprucht intensiv die Steuerungskreise im <strong>Kleinhirn (Cerebellum)</strong>. Die korrekte Wiederholung fehlerfreier Bewegungsbahnen bei niedrigem Tempo regt die Bildung fester <strong>Myelinschichten (Myelin)</strong> um die Nervenfasern an. Diese neuronale Isolierung erhöht die Übertragungsgeschwindigkeit und Genauigkeit von Signalen und schafft Schaltungen für <strong>fehlerfreies Lernen (Errorless Learning)</strong>.
 
 ---
 
-## Vorsichtsmaßnahme: Geschwindigkeit und Muskelanspannung vermeiden und auf fehlerfreie Verlangsamung fokussieren
-
-Verzichten Sie auf verkrampfte Muskelhaltung oder das hastige Beenden von Übungen. Bauen Sie körperliche Anspannung ab und konzentrieren Sie sich auf fehlerfreie, verlangsamte Bewegungsabläufe, um Präzision im Kleinhirn zu verankern. Die fehlerfreie Ausführung im Zeitlupentempo steht über der Geschwindigkeit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Verzichten Sie auf verkrampfte Muskelhaltung oder das hastige Beenden von Übung
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Geschwindigkeit und Muskelanspannung vermeiden und auf fehlerfreie Verlangsamung fokussieren
+
+Verzichten Sie auf verkrampfte Muskelhaltung oder das hastige Beenden von Übungen. Bauen Sie körperliche Anspannung ab und konzentrieren Sie sich auf fehlerfreie, verlangsamte Bewegungsabläufe, um Präzision im Kleinhirn zu verankern. Die fehlerfreie Ausführung im Zeitlupentempo steht über der Geschwindigkeit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Können auch Nicht-Musiker von dieser Übung im Zeitlupentempo profitieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Verzichten Sie auf verkrampfte Muskelhaltung oder das hastige Beenden von Übung
       Ja, absolut! Das Prinzip gilt für alle Bewegungsabläufe – ob Tastatur-Shortcuts, Golf- oder Tennisschwung oder Gestik bei Präsentationen. Das Verlangsamen zur Fehlervermeidung beschleunigt die Myelinisierung im Kleinhirn und steigert die Präzision beim Temposteigern.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie lässt sich diese Routine umsetzen, wenn kein Klavier oder Spezialgerät vorhanden ist?</span>

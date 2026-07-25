@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿La novelista que escribía de pie cada mañana? El hábito de alta inmersión de Virginia Woolf"
 description: "La gran figura literaria del siglo XX, Virginia Woolf. Explore la ciencia de la concentración obtenida al escribir de pie —inspirada en el caballete de su hermana pintora— y los hábitos modernos de trabajo erguido."
 pubDate: "2026-06-06"
@@ -36,22 +37,20 @@ En la publicación de hoy, compartimos los beneficios científicos tras la rutin
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre woolf-standing-desk se basa en <strong>Examen de biografías históricas y registros de Virginia Woolf e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Examen de biografías históricas y registros de Virginia Woolf e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación propioceptiva de todo el cuerpo inducida por escritorios de pie y escritura erguida
+## 1. Estimulación propioceptiva de todo el cuerpo inducida por escritorios de pie y escritura erguida
 
 El hábito de Virginia Woolf de escribir como si pintara ante un escritorio de pie de 105 cm estimula los sentidos propioceptivos de todo el cuerpo, neutralizando la resistencia psicológica a escribir y ejecutando las funciones cerebrales al máximo.
 
 ---
 
-## Consejos para mantener la postura al configurar un entorno de trabajo de pie
-
-Es importante mantener el equilibrio físico colocando una alfombra mullida para evitar que el peso se desplace hacia un lado y tomando 5 minutos de relajación tras 40 minutos de trabajo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Es importante mantener el equilibrio físico colocando una alfombra mullida para
     Tras 40 minutes de escritura concentrada, realice 5 minutos de estiramientos o descanse para evitar cargar el peso sobre un solo pie y mantener el equilibrio físico y mental.
   </p>
 </div>
+
+---
+
+## 3. Consejos para mantener la postura al configurar un entorno de trabajo de pie
+
+Es importante mantener el equilibrio físico colocando una alfombra mullida para evitar que el peso se desplace hacia un lado y tomando 5 minutos de relajación tras 40 minutos de trabajo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

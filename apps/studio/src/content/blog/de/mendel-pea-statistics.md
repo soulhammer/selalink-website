@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Statistik von 29.000 Erbsenpflanzen? Gregor Mendels Methode zur Stärkung des Arbeitsgedächtnisses"
 description: "Entdecken Sie die Geschichte von Gregor Mendel, dem großen Pionier der Genetik. Erfahren Sie mehr über seine Ausdauer beim täglichen Aufzeichnen von Veränderungen an Tausenden von Erbsenpflanzen im Klostergarten und erkunden Sie eine statistische Erfassungsmethode zur Schulung der kognitiven Struktur und Stärkung des Arbeitsgedächtnisses."
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ In diesem Beitrag untersuchen wir die neurowissenschaftlichen Prinzipien hinter 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu mendel-pea-statistics basiert auf <strong>Historisch-kritische Biografie und autobiografische Aufzeichnungen zu Gregor Mendel & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historisch-kritische Biografie und autobiografische Aufzeichnungen zu Gregor Mendel & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Arbeitsgedächtnistraining, das Datenanalyse und kognitive Struktur verändert
+## 1. Arbeitsgedächtnistraining, das Datenanalyse und kognitive Struktur verändert
 
 Das persönliche Beobachten winziger täglicher Veränderungen, deren Quantifizierung und das handschriftliche Eintragen auf Millimeterpapier aktivieren intensiv den Bereich des <strong>Arbeitsgedächtnisses</strong> im Frontallappen des Gehirns. Das Arbeitsgedächtnis fungiert als 'RAM des Gehirns', das Informationen vorübergehend speichert und verarbeitet.
 
@@ -53,9 +54,7 @@ Das Beobachten und Sortieren großer Mengen scheinbar unregelmäßiger Morpholog
 
 ---
 
-## Analoge Statistiken schärfen den kognitiven Filter des Gehirns
-
-Automatisierte digitale Datenanalysetools sind bequem, überspringen jedoch den aktiven kognitiven Prozess, bei dem das Gehirn Daten direkt sammelt und klassifiziert. Das tägliche handschriftliche Erfassen eigener Kernstatistiken in analoger Form nach Mendels Vorbild ist ein hervorragendes kognitives Training, um den Informationsfilter des Gehirns zu schärfen und Ausdauer aufzubauen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Automatisierte digitale Datenanalysetools sind bequem, überspringen jedoch den 
   </p>
 </div>
 
+---
+
+## 3. Analoge Statistiken schärfen den kognitiven Filter des Gehirns
+
+Automatisierte digitale Datenanalysetools sind bequem, überspringen jedoch den aktiven kognitiven Prozess, bei dem das Gehirn Daten direkt sammelt und klassifiziert. Das tägliche handschriftliche Erfassen eigener Kernstatistiken in analoger Form nach Mendels Vorbild ist ein hervorragendes kognitives Training, um den Informationsfilter des Gehirns zu schärfen und Ausdauer aufzubauen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Muss ich die Diagramme unbedingt von Hand zeichnen? Wäre Excel nicht viel bequemer?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Automatisierte digitale Datenanalysetools sind bequem, überspringen jedoch den 
       Excel oder automatisierte Datenanwendungen automatisieren den Prozess, was zu einer geringeren visuellen kognitiven Stimulation führt. Das physische Halten eines Lineals und das händische Zeichnen von Linien spricht den unteren Parietallappen viel stärker an und hilft Ihnen, Ursache-Wirkungs-Beziehungen sowie bedeutsame Muster hinter den Daten intuitiv zu erkennen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist es notwendig, weiter aufzuzeichnen, selbst wenn keine großen Veränderungen auftreten?</span>

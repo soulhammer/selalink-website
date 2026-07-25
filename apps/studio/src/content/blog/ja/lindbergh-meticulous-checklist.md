@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "人間の知的ミスを完璧にゼロにする方法：チャールズ・リンドバーグのチェックリスト実行ルーティンと作業記憶保護"
 description: "大西洋単独飛行横断に成功した航空の英雄チャールズ・リンドバーグ。感覚の代わりにチェックリストに依存して知的エラーを遮断した彼の徹底した安全管理習慣と前頭前野の作業記憶保護、知的漏れ（Omission Error）防止の原理および3段階実践ガイドを分析します。"
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「lindbergh-meticulous-checklist」は <strong>チャールズ・リンドバーグ自伝『スピリット・オブ・セントルイス（The Spirit of St. Louis, 1953）』史料考証＆認知神経科学（Cognitive Neuroscience）および人間工学（Human Factors Engineering）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>チャールズ・リンドバーグ自伝『スピリット・オブ・セントルイス（The Spirit of St. Louis, 1953）』史料考証＆認知神経科学（Cognitive Neuroscience）および人間工学（Human Factors Engineering）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 前頭前野（Prefrontal Cortex）作業記憶保護と知的漏れ（Omission Error）遮断
+## 1. 前頭前野（Prefrontal Cortex）作業記憶保護と知的漏れ（Omission Error）遮断
 
 ストレス状態下で複雑な順次タスクを遂行する時、脳の<strong>前頭前野（Prefrontal Cortex）</strong>は<strong>作業記憶（Working Memory）</strong>を維持するのに莫大なエネルギーを消耗します。この時、脳はエネルギー保存のためにタスクの手順を任意に省略しようとしますが、これが致命的な<strong>知的漏れ（Omission Error）</strong>の原因となります。書面チェックリストを指で一対一対比させるルーティンは、脳の単純暗記負荷を完璧に減らしてくれます。脳は記憶引き出しのストレスから解放され、対比および判別という<strong>実行制御（Executive Control）</strong>にのみエネルギーを集めることができ、極度な疲労の中でも知的エラーを遮断し一貫した完成度を確保します。
 
 ---
 
-## 注意事項：視覚的暗黙点検を排除し指先一対一対比（Physical Pointing）に没頭するルール
-
-チェックリストの核心的価値は、リストを指やマウスカーソルで指し示しながら一対一で判別する物理的同期にあります。目で大ざっぱに追いながら頭の中で「すべて確認した」と高をくくる暗黙的確認方式は、脳の錯視現象を防ぐことができないため、必ず指先を当てて条項を一つずつ確実に対比させる習慣を固守しなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：視覚的暗黙点検を排除し指先一対一対比（Physical Pointing）に没頭するルール
+
+チェックリストの核心的価値は、リストを指やマウスカーソルで指し示しながら一対一で判別する物理的同期にあります。目で大ざっぱに追いながら頭の中で「すべて確認した」と高をくくる暗黙的確認方式は、脳の錯視現象を防ぐことができないため、必ず指先を当てて条項を一つずつ確実に対比させる習慣を固守しなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>チェックリストの項目は多く詳細であるほど良いのでしょうか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ、違います。チェックリストの項目が過度に長くなると脳が疲労感を感じ、項目をスキップする自動化エラーが発生します。最も致命的なミスが発生する可能性のある5〜9個前後の核心項目でタイトに構成することが、脳科学的に最も理想的です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>どのような業務にチェックリストを適用するのが最も効果的ですか？</span>

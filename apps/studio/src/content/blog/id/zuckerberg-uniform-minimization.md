@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mengelola Kelelahan Keputusan: Kebiasaan Seragam Tunggal Mark Zuckerberg"
 description: "Mark Zuckerberg mengurangi kelelahan keputusan dengan mengenakan kaus dan celana jeans yang persis sama setiap hari. Kami mengeksplorasi prinsip-prinsip ilmiah untuk mencegah 'ego depletion'—sumber daya energi otak yang terbatas—dan berfokus pada pengambilan keputusan inti."
 pubDate: "2026-06-12"
@@ -31,25 +32,23 @@ Mark Zuckerberg adalah pendiri dan CEO Meta, sebuah kekaisaran media sosial raks
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai zuckerberg-uniform-minimization didasarkan pada <strong>Biografi historis & catatan autobiografi tentang minimisasi seragam Zuckerberg & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis & catatan autobiografi tentang minimisasi seragam Zuckerberg & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Melindungi Sumber Daya Glukosa Otak yang Terbatas dan Mencegah Ego Depletion
+## 1. Melindungi Sumber Daya Glukosa Otak yang Terbatas dan Mencegah Ego Depletion
 
 Energi yang digunakan oleh korteks prefrontal otak saat mengambil keputusan bersifat terbatas. Seiring bertambahnya keputusan, sel-sel otak mengonsumsi glukosa dan oksigen, yang menyebabkan penurunan kontrol eksekutif yang dikenal sebagai 'Ego Depletion'. Pilihan-pilihan sepele seperti 'Pakaian apa yang harus saya kenakan pagi ini?' menguras anggaran fungsi eksekutif otak. Dengan mengotomatiskan proses harian dan menerapkan seragam tunggal seperti Zuckerberg, korteks prefrontal menjaga anggaran glukosanya untuk keputusan bisnis utama dan strategi jangka panjang, sehingga meningkatkan kualitas keputusan secara signifikan.
 
 ---
 
-## Peringatan & Tips
-
-Kesalahan umum saat menerapkan kebiasaan seragam tunggal adalah merasa stres tentang bagaimana orang lain memandang konsistensi pakaian Anda. Jika Anda mulai terobsesi dengan gaya busana atau kesempurnaan estetika, hal itu akan menciptakan beban psikologis baru bagi otak, yang justru menambah kelelahan keputusan bukannya menguranginya. Kuncinya adalah memilih gaya sederhana yang paling nyaman dan tidak memerlukan pemikiran sama sekali, sehingga membebaskan pikiran dari penilaian luar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Kesalahan umum saat menerapkan kebiasaan seragam tunggal adalah merasa stres ten
   </p>
 </div>
 
+---
+
+## 3. Peringatan & Tips
+
+Kesalahan umum saat menerapkan kebiasaan seragam tunggal adalah merasa stres tentang bagaimana orang lain memandang konsistensi pakaian Anda. Jika Anda mulai terobsesi dengan gaya busana atau kesempurnaan estetika, hal itu akan menciptakan beban psikologis baru bagi otak, yang justru menambah kelelahan keputusan bukannya menguranginya. Kuncinya adalah memilih gaya sederhana yang paling nyaman dan tidak memerlukan pemikiran sama sekali, sehingga membebaskan pikiran dari penilaian luar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Jika saya mengenakan pakaian yang sama setiap hari, bagaimana cara menghadapi rapat penting atau acara formal?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Kesalahan umum saat menerapkan kebiasaan seragam tunggal adalah merasa stres ten
       Mark Zuckerberg juga mengenakan setelan jas untuk acara resmi atau rapat dewan. Inti dari kebiasaan seragam adalah menghilangkan pilihan sepele, jadi menentukan kombinasi jas untuk acara formal terlebih dahulu membuat Anda dapat mengenakannya tanpa ragu dan terhindar dari kelelahan keputusan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya boleh menyusun seragam menggunakan pakaian selain kaus dan jeans?</span>

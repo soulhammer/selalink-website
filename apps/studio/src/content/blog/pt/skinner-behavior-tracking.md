@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Projetando a si mesmo: O hábito de registro de feedback visual do mestre behaviorista B.F. Skinner"
 description: "Apresentando o hábito de quantificação comportamental diária de B. F. Skinner, mestre da psicologia comportamental. Um guia prático de 3 etapas para reforçar os mecanismos cerebrais por meio de feedback numérico em tempo real."
 pubDate: "2026-05-14"
@@ -33,25 +34,23 @@ No post de hoje, examinamos os princípios científicos por trás da rotina de q
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre skinner-behavior-tracking é baseada em <strong>Biografias históricas, registros autobiográficos do rastreamento comportamental de Skinner e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas, registros autobiográficos do rastreamento comportamental de Skinner e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O 'Efeito de Feedback Visual' que estimula os circuitos de dopamina
+## 1. O 'Efeito de Feedback Visual' que estimula os circuitos de dopamina
 
 Segundo a psicologia behaviorista, o cérebro humano desenvolve uma forte tendência a repetir um comportamento quando experimenta uma recompensa imediata logo após a ação. Isso é conhecido no condicionamento operante como <strong>'Reforço (Reinforcement)'</strong>. Verificar em números quantas palavras foram escritas ou por quantos minutos esteve imerso, e visualizar isso em um gráfico (Visual Feedback), é uma excelente recompensa imaterial que libera dopamina no sistema de predição de recompensa do cérebro. Esse hábito não depende de uma força de vontade vaga, mas estimula e consolida voluntariamente a frequência do foco profundo por meio de um loop de feedback de dados.
 
 ---
 
-## Cuidado com a manipulação de métricas e a inversão de meios e fins
-
-Um erro comum ao manter o hábito de registro é comprometer a qualidade do trabalho ou deixar um cronômetro rodando sem necessidade apenas para inflar os números do gráfico ou a contagem de palavras. Como afirma a Lei de Goodhart: 'Quando uma medida se torna uma meta, ela deixa de ser uma boa medida'. O registro deve funcionar como um espelho objetivo do seu fluxo de produtividade, e nunca os números em si devem ser o objetivo final do trabalho intelectual.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Um erro comum ao manter o hábito de registro é comprometer a qualidade do trab
   </p>
 </div>
 
+---
+
+## 3. Cuidado com a manipulação de métricas e a inversão de meios e fins
+
+Um erro comum ao manter o hábito de registro é comprometer a qualidade do trabalho ou deixar um cronômetro rodando sem necessidade apenas para inflar os números do gráfico ou a contagem de palavras. Como afirma a Lei de Goodhart: 'Quando uma medida se torna uma meta, ela deixa de ser uma boa medida'. O registro deve funcionar como um espelho objetivo do seu fluxo de produtividade, e nunca os números em si devem ser o objetivo final do trabalho intelectual.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

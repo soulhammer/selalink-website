@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "夜明けの黎明に芸術を紡いだ光の巨匠：クロード・モネの視覚ウォーミングアップ習慣"
 description: "印象派絵画の巨匠クロード・モネ。毎日午前3時30分起き、自然光の微細な波長を凝視して視覚野の色覚感度を高めた彼の「黎明観察」ルーティンと、現代人のための脳科学的視神経覚醒法を探ります。"
 pubDate: "2026-03-31"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「monet-dawn-light」は <strong>クロード・モネの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>クロード・モネの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 網膜内在性感光性神経節細胞（ipRGCs）と視覚コントラスト感度（Contrast Sensitivity）の覚醒
+## 1. 網膜内在性感光性神経節細胞（ipRGCs）と視覚コントラスト感度（Contrast Sensitivity）の覚醒
 
 日の出直前の空に広がる青い波長の自然光（Blue Light）は、網膜の自律感光性神経節細胞（ipRGCs）強く刺激します。これは大脳の視神経交叉上核（SCN）を呼び覚ましてメラトニン分泌を抑制し、コルチゾールを分泌させて脳を覚醒させます。同時に薄明かりの中で微細なトーンの違いを観察する視覚的トレーニングは、視覚皮質のコントラスト感度（Contrast Sensitivity）を極大化します。このウォーミングアップを経た脳は、認知識別力と構想の構造的配置を遂行する創造性を最高水準で稼働させる準備を整えます。
 
 ---
 
-## ガラス窓のフィルター効果と屋外露出のヒント
-
-現代の多層コーティングガラス窓は、脳を覚醒させるために必要な核心的自然光の波長を最大80%まで反射・遮断してしまいます。したがって、部屋の中に留まるよりはベランダの窓を完全に開けて直接光を迎えるか、近くの庭やバルコニーへ出て冷たい朝の空気と日の出の光に身を晒すことが覚醒パイプラインのポイントです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. ガラス窓のフィルター効果と屋外露出のヒント
+
+現代の多層コーティングガラス窓は、脳を覚醒させるために必要な核心的自然光の波長を最大80%まで反射・遮断してしまいます。したがって、部屋の中に留まるよりはベランダの窓を完全に開けて直接光を迎えるか、近くの庭やバルコニーへ出て冷たい朝の空気と日の出の光に身を晒すことが覚醒パイプラインのポイントです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>部屋の中でガラス窓を閉めたまま外の黎明を凝視しても同じ効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       ガラス窓を閉めると、脳を覚醒させるのに核心的な青色および紫外線系の自然光波長がコーティングによって最大80%までフィルタリングされ反射してしまいます。したがって、網膜のipRGCs細胞を十分に刺激してメラトニン分泌を確実に遮断するには、なるべく窓を完全に開けて直接入ってくる光線波長を迎えることがはるかに優れた生理的効果を保証します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>天気が曇りだったり雨が降る朝でも黎明観察は効果がありますか？</span>

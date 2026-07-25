@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'éveil de minuit : La méthode d'écriture en hyperfocus de 12 heures au café d'Honoré de Balzac"
 description: "Découvrez la routine d'écriture nocturne et de stimulation au café pratiquée par Honoré de Balzac, maître du réalisme français du XIXe siècle, et percez le mécanisme neuroscientifique d'hyperfocus qui coupe les stimuli externes et élève l'attention cérébrale à son paroxysme."
 pubDate: "2026-02-14"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant balzac-extreme-focus est basée sur <strong>Vérification Historique issue de la biographie de Stefan Zweig *Balzac* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Stefan Zweig *Balzac* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergie de l'élimination totale du bruit cognitif et de l'inhibition de l'adénosine
+## 1. Synergie de l'élimination totale du bruit cognitif et de l'inhibition de l'adénosine
 
 Le plus grand obstacle à la concentration du cerveau est le « Bruit Cognitif » entrant et les stimuli visuels ou auditifs ambiants. Les heures tardives de la nuit, exemptes d'appels téléphoniques et de notifications de messagerie, offrent un environnement optimal où les ressources de contrôle cognitif préfrontal peuvent être entièrement consacrées à une seule tâche. De plus, la caféine bloque les récepteurs de l'adénosine (Adenosine) qui signalent la fatigue au cerveau, empêchant la sensation d'épuisement. En conséquence, la libération de dopamine (Dopamine) et de noradrénaline (Norepinephrine) est stimulée, affûtant la concentration et maintenant l'éveil mental sur de longues périodes.
 
 ---
 
-## Protection des rythmes circadiens et mise en garde contre l'abus de caféine
-
-Le réveil à minuit de Balzac et sa consommation excessive de caféine ont infligé un stress sévère à son organisme. (En fait, Balzac est décédé à l'âge précoce de 51 ans en raison de maladies cardiaques aggravées par le manque de sommeil et la surconsommation de café.) Par conséquent, en appliquant cette stratégie de concentration, les individus modernes doivent éviter de détruire leurs rythmes de sommeil quotidiens et privilégier plutôt l'utilisation sélective de blocs de focalisation calmes de 2 à 3 heures tout en préservant leur rythme circadien.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Le réveil à minuit de Balzac et sa consommation excessive de caféine ont infl
     Préparez une tasse de café ou de thé chaud, évitez le multitasking et consacrez toute votre énergie exclusivement à une seule tâche majeure présélectionnée.
   </p>
 </div>
+
+---
+
+## 3. Protection des rythmes circadiens et mise en garde contre l'abus de caféine
+
+Le réveil à minuit de Balzac et sa consommation excessive de caféine ont infligé un stress sévère à son organisme. (En fait, Balzac est décédé à l'âge précoce de 51 ans en raison de maladies cardiaques aggravées par le manque de sommeil et la surconsommation de café.) Par conséquent, en appliquant cette stratégie de concentration, les individus modernes doivent éviter de détruire leurs rythmes de sommeil quotidiens et privilégier plutôt l'utilisation sélective de blocs de focalisation calmes de 2 à 3 heures tout en préservant leur rythme circadien.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

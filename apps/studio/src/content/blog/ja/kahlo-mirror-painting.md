@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ベッドの天井に映る自分を描く：フリーダ・カーロの鏡自画像ルーティンと自己鏡凝視療法"
 description: "メキシコの伝説的画家フリーダ・カーロ。全身の負傷という過酷な痛苦の中でもベッドの天井の鏡を見ながら毎日自画像を描いた彼女の克服の習慣と、鏡凝視（Mirror-Gazing）がもたらす臨床心理学的癒しの効果、回復弾力性（Resilience）強化および3段階実践法を解き明かします。"
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「kahlo-mirror-painting」は <strong>フリーダ・カーロ日記および評伝史料『フリーダ・カーロの日記（The Diary of Frida Kahlo）』考証＆臨床心理学（Clinical Psychology）および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>フリーダ・カーロ日記および評伝史料『フリーダ・カーロの日記（The Diary of Frida Kahlo）』考証＆臨床心理学（Clinical Psychology）および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自己鏡技法（Mirror-Gazing）と回復弾力性（Resilience）の臨床心理学
+## 1. 自己鏡技法（Mirror-Gazing）と回復弾力性（Resilience）の臨床心理学
 
 鏡の中に映る自分の姿をじっと覗き込む行為は、臨床心理学で<strong>「自己鏡技法（Mirror-Gazing Technique）」</strong>と呼ばれます。極度のストレスや身体的苦痛に直面する時、脳は消極的な感情に陥りがちです。この時、鏡は自分の肉体と感情を第三者の視点から客観化して見つめさせる知的隔離ツールとして機能します。この過程で脳は自我に対する統制感を回復し、主体性を強化してストレスを調律します。フリーダ・カーロがベッドに横たわり鏡の中の自分と熾烈に向き合ったのは、単純な描写を超え、逆境を乗り越えて魂を再建する<strong>回復弾力性（Resilience）</strong>の生理学的発現でした。これは<strong>自己受容（Self-Acceptance）</strong>を促進し、情緒的安定性をしっかりと固める治療効果を発揮します。
 
 ---
 
-## 注意事項：主観的判断と外見評価を排除し存在自体を受容するルール
-
-鏡凝視技法を遂行する際、最も注意しなければならない点は、自分の身体的欠点を探し出したり悲観的な価値判断を下さないことです。鏡の中の自分を見つめる行為は外見を評価する時間ではなく、苦痛や疲労を経験している自分自身を批判なくあるがままに認め、労わる温かい観照の時間でなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：主観的判断と外見評価を排除し存在自体を受容するルール
+
+鏡凝視技法を遂行する際、最も注意しなければならない点は、自分の身体的欠点を探し出したり悲観的な価値判断を下さないことです。鏡の中の自分を見つめる行為は外見を評価する時間ではなく、苦痛や疲労を経験している自分自身を批判なくあるがままに認め、労わる温かい観照の時間でなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>鏡を見ながら自分の顔の欠点や皺ばかりが見えてむしろストレスを受けるのですが、どうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       非常に自然な反応です。鏡凝視の序盤には外見評価の本能が作動しやすいです。この時は顔全体を見ようとするより、ただ「自分の瞳（瞳孔）」一つにのみ焦点を合わせて凝視してみてください。外見的形態ではなく、自分という存在の中心と目を合わせるという感覚に集中することが役立ちます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>絵を直接描かずに鏡を凝視することだけでも癒しの効果がありますか？</span>

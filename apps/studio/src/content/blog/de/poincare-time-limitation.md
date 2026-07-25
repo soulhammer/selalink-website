@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Lösung des genialen Mathematikers kam in der Ruhephase? Henri Poincarés 4-Stunden-Fokuslimit-Routine"
 description: "Henri Poincarés Erfolgsformel: Das konzentrierte Arbeiten auf 4 Stunden täglich zu begrenzen. Entdecken Sie eine 3-Schritte-Anleitung zur Nutzung des fokussierten und diffusen Hirnmodus für kreative Inspiration."
 pubDate: "2026-04-19"
@@ -27,17 +28,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu poincare-time-limitation basiert auf <strong>Historische Biografien und Schriften über Henri Poincaré & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und Schriften über Henri Poincaré & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Fokussierter vs. diffuser Modus: Die unbewusste Problemlösungskompetenz
+## 1. Fokussierter vs. diffuser Modus: Die unbewusste Problemlösungskompetenz
 
 Laut Kognitionswissenschaft arbeitet das Gehirn in zwei Modi: dem 'fokussierten Modus' und dem 'diffusen Modus'. Im fokussierten Modus konzentriert sich der präfrontale Kortex auf eng umgrenzte Netzwerke. Wenn Sie pausieren oder spazieren gehen, wechselt das Gehirn in den diffusen Modus und aktiviert das Ruhezustandsnetzwerk (DMN).
 
@@ -45,9 +46,7 @@ In diesem diffusen Modus betreibt das Unterbewusstsein 'Inkubation' – das frei
 
 ---
 
-## Ein neurowissenschaftlicher Rat für nachhaltigen Fokus
-
-Kreative Ideen lassen sich nicht erzwingen. Setzen Sie ein klares Limit für Ihre fokussierte Arbeitszeit. Wenn Sie feststecken, stehen Sie auf und machen Sie einen Spaziergang, um dem Gehirn Erholung im diffusen Modus zu gönnen. Das Unterbewusstsein arbeitet für Sie.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Kreative Ideen lassen sich nicht erzwingen. Setzen Sie ein klares Limit für Ihr
     Antworten, die das Unterbewusstsein in Ruhephasen liefert, verfliegen schnell. Nutzen Sie ein Notizbuch oder Sprachmemos, um kreative Geistesblitze sofort festzuhalten.
   </p>
 </div>
+
+---
+
+## 3. Ein neurowissenschaftlicher Rat für nachhaltigen Fokus
+
+Kreative Ideen lassen sich nicht erzwingen. Setzen Sie ein klares Limit für Ihre fokussierte Arbeitszeit. Wenn Sie feststecken, stehen Sie auf und machen Sie einen Spaziergang, um dem Gehirn Erholung im diffusen Modus zu gönnen. Das Unterbewusstsein arbeitet für Sie.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "唤醒积极大脑回路的力量：岛山安昌浩的镜前微笑与清洁惯例"
 description: "独立运动家岛山安昌浩所强调的“微笑”与“清洁”之力。探索强颜欢笑促进大脑分泌血清素以及整洁空间减轻视觉认知负荷的科学原因。"
 pubDate: "2026-01-19"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 anchangho-mirror-smile 的内容基于 <strong>岛山安昌浩评传及兴士团（Hung Sah Dahn）记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>岛山安昌浩评传及兴士团（Hung Sah Dahn）记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 面部反馈假设与物理空间整理的认知治疗效果
+## 1. 面部反馈假设与物理空间整理的认知治疗效果
 
 根据生理学中的面部反馈假设（Facial Feedback Hypothesis），大脑不仅单向地根据情绪来移动面部肌肉，反而还会通过感知面部肌肉的收缩状态来判断当前的情绪状态。早晨即便是做强颜欢笑的表情，大脑也会将其认知为愉悦的刺激，促进血清素和多巴胺等积极神经递质的分泌，并降低压力激素皮质醇的水平。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 岛山关于整顿精神与空间的名言
-
-当内心情绪紊乱时，与其费力去硬想调整心思，不如先向镜子里的自己投去微笑，捡起眼前的一张废纸开始。微笑能驱散内心的黑暗，而清洁能纠正外部的无序，指引你走上正确的道路。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     即使不出门，也要洗脸、理清头发，避开褶皱或肮脏的衣服，保持整洁的外貌礼仪，从而赋予自己认知上的紧张感。
   </p>
 </div>
+
+---
+
+## 3. 岛山关于整顿精神与空间的名言
+
+当内心情绪紊乱时，与其费力去硬想调整心思，不如先向镜子里的自己投去微笑，捡起眼前的一张废纸开始。微笑能驱散内心的黑暗，而清洁能纠正外部的无序，指引你走上正确的道路。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

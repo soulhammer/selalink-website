@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Varrendo a poeira da mente: A rotina matinal de varrer o jardim de Sen no Rikyu"
 description: "Uma anedota do grande mestre de chá Sen no Rikyu purificando sua mente enquanto varria o jardim. Explica os princípios da ciência cognitiva da meditação cinestésica que elimina o ruído cognitivo cerebral por meio de movimentos repetitivos simples."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ Este artigo analisa a conexão científica entre a atividade física repetitiva 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre rikyu-garden-sweeping é baseada em <strong>Biografia crítica histórica e registros autobiográficos sobre a varredura do jardim de Rikyu e pesquisas em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografia crítica histórica e registros autobiográficos sobre a varredura do jardim de Rikyu e pesquisas em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efeito de ancoragem do som da vassoura e o ruído cognitivo cerebral
+## 1. Efeito de ancoragem do som da vassoura e o ruído cognitivo cerebral
 
 A varredura rítmica fornece um feedback físico imediato e simples ao cérebro, ancorando a atenção no presente. Esse foco sensorial estabiliza eficazmente os sinais de ruído cognitivo no córtex cerebral que estimulam a ansiedade e a distração. De acordo com pesquisas neurocientíficas, essa ação suprime respostas de ansiedade desnecessárias na amígdala e ativa circuitos do bloco de rascunho viso-espacial, melhorando dramaticamente a função executiva de longo prazo.
 
 ---
 
-## Conselho do grande mestre de chá para esvaziar a poeira da mente
-
-A verdadeira poeira a ser varrida está na mente, não no chão. Presenteie seu cérebro com tranquilidade e espaço livre todas as manhãs por meio de uma leve atividade física repetitiva. Não dependa apenas da força de vontade; projetar com antecedência um ambiente físico e gatilhos de hábitos que desencadeiem a ação naturalmente é a chave para a sustentabilidade.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ A verdadeira poeira a ser varrida está na mente, não no chão. Presenteie seu 
   </p>
 </div>
 
+---
+
+## 3. Conselho do grande mestre de chá para esvaziar a poeira da mente
+
+A verdadeira poeira a ser varrida está na mente, não no chão. Presenteie seu cérebro com tranquilidade e espaço livre todas as manhãs por meio de uma leve atividade física repetitiva. Não dependa apenas da força de vontade; projetar com antecedência um ambiente físico e gatilhos de hábitos que desencadeiem a ação naturalmente é a chave para a sustentabilidade.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

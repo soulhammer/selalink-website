@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "지브리 거장의 맑은 아침: 미야자키 하야오의 하천 청소 산책"
 description: "스튜디오 지브리의 미야자키 하야오 감독이 매일 아침 길가의 쓰레기를 주운 숨은 이유. 단순한 산책과 정돈이 어떻게 천재적인 창의성과 사색을 자극하는지 알아봅니다."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>미야자키 하야오 역사적 평전 및 인터뷰 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 miyazaki-river-cleanup 루틴을 다룹니다.
+      본 콘텐츠는 <strong>미야자키 하야오 역사적 평전 및 인터뷰 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 이타적 걷기가 뇌에 주는 창조적 리프레시
+## 1. 이타적 걷기가 뇌에 주는 창조적 리프레시
 
 주변 환경을 정리하며 가볍게 산책하는 행위는 뇌의 <strong>디폴트 모드 네트워크(Default Mode Network)</strong>를 부드럽게 가동합니다. 이 네트워크는 명시적인 인지적 일에서 벗어나 편안히 휴식할 때 구동되며, 뇌 도처에 흩어진 아이디어들을 연결해 참신한 직관을 발휘하게 돕습니다. 또한 몸을 쓰는 청소 작업은 아침 뇌의 세로토닌 활성화를 유도해 기분을 상쾌하게 다듬어 줍니다.
 
 ---
 
-## 주의사항 및 팁
-
-산책 중 스마트폰을 확인하거나 복잡한 생각에 잠기면 뇌는 DMN 이완 상태에 도달하지 못합니다. 걷는 동안에는 의식적으로 전자기기를 차단하고 <strong>주변 자연 환경을 감상</strong>하며, 눈앞의 물리적 대상들을 정돈하는 데에만 초점을 맞추는 것이 이 습관의 효과를 극대화하는 열쇠입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     산책을 마치고 돌아와 세로토닌이 충전되어 이완되고 맑아진 전두엽의 아이디어 융합 상태를 활용해 첫 창의적 기획 업무에 바로 돌입합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+산책 중 스마트폰을 확인하거나 복잡한 생각에 잠기면 뇌는 DMN 이완 상태에 도달하지 못합니다. 걷는 동안에는 의식적으로 전자기기를 차단하고 <strong>주변 자연 환경을 감상</strong>하며, 눈앞의 물리적 대상들을 정돈하는 데에만 초점을 맞추는 것이 이 습관의 효과를 극대화하는 열쇠입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

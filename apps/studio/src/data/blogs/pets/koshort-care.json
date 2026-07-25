@@ -507,6 +507,10 @@
           "반려묘 케어"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/koshort_care.png"
   }
 }

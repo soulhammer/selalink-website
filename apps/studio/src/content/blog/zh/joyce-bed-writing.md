@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "斜卧床榻以蓝色彩铅挥毫：詹姆斯·乔伊斯的大能保留写作习惯与初级视觉皮层（V1）视疲劳纾解"
 description: "探索詹姆斯·乔伊斯如何在身患严重眼疾的极压绝境下，斜卧床榻缔造出《芬尼根的守灵夜》等文学巨著。揭示卸除躯体重力负荷、纾解初级视觉皮层（V1）疲劳与向前额叶皮层高效配置脑力的神经科学原理及3步骤指南。"
 pubDate: "2026-04-10"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 joyce-bed-writing 的内容基于 <strong>詹姆斯·乔伊斯传记与理查德·埃尔曼（Richard Ellmann）传记史料《詹姆斯·乔伊斯（James Joyce）》考证及认知神经科学（Cognitive Neuroscience）与视觉知觉（Visual Perception）研究</strong> 撰写。
+      本内容基于 <strong>詹姆斯·乔伊斯传记与理查德·埃尔曼（Richard Ellmann）传记史料《詹姆斯·乔伊斯（James Joyce）》考证及认知神经科学（Cognitive Neuroscience）与视觉知觉（Visual Perception）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 卸除躯体重力负荷与纾解初级视觉皮层（V1）感官疲劳机制
+## 1. 卸除躯体重力负荷与纾解初级视觉皮层（V1）感官疲劳机制
 
 将脊柱平素从容舒展地斜卧或倚靠，能大幅卸除全闪躯体的重力负荷并沉淀心率，将肌肉能量挥霍降至极低。得益于此，心脏与循环系统输送的充氧血流得以强力集中于大脑<strong>前额叶皮层（Prefrontal Cortex）</strong>的高阶思维区域。此外，在反射光源下使用具备极高对比度的粗浓蓝色书写工具，能使大脑<strong>初级视觉皮层（V1，Primary Visual Cortex）</strong>的字迹解译辨识流程极为顺畅，进而跨越式降解神经层面的<strong>视疲劳（Visual Fatigue）</strong>与眼部紧绷。
 
 ---
 
-## 注意事项：接纳躯体疲劳信号，强化视觉对比度指南
-
-对于詹姆斯·乔伊斯而言，卧床写作乃是攻克躯体极限极聪慧的生存适应策略。当肉体与眼球疲惫攀至巅峰之际，切勿强行死磕于硬质座椅上绞尽脑汁。可在背后垫上靠枕低卧躯体，手持粗管彩笔与无格笔记本从容勾勒灵感。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：接纳躯体疲劳信号，强化视觉对比度指南
+
+对于詹姆斯·乔伊斯而言，卧床写作乃是攻克躯体极限极聪慧的生存适应策略。当肉体与眼球疲惫攀至巅峰之际，切勿强行死磕于硬质座椅上绞尽脑汁。可在背后垫上靠枕低卧躯体，手持粗管彩笔与无格笔记本从容勾勒灵感。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>詹姆斯·乔伊斯在卧床写作之际，为何特意穿戴白色外套？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       因白色长袍外套扮演着将室内环境光漫反射至稿纸之上的自然“反光板”角色。这一“模拟照明辅助装置”能在不诱发眩光（Glare）刺眼感的前提下增亮纸面，助其严重损伤的视网膜精准定格笔迹。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>斜卧于床榻或沙发上开展工作，难道不会诱发阵阵困意吗？</span>

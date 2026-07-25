@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Thomas Aquinas's Multi-Dictation Method: Maximize Working Memory to Conquer Complex Dilemmas"
 description: "Discover how Thomas Aquinas, the great medieval theologian, expanded his working memory and maintained logical coherence while simultaneously dictating different subjects to 3–4 scribes."
 pubDate: "2026-03-09"
@@ -36,22 +37,20 @@ In today's post, we analyze the neuroscientific principles of working memory par
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding aquinas-multi-dictation is based on <strong>Historical Verification from Bernard of Gui's *Life of Saint Thomas Aquinas* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Bernard of Gui's *Life of Saint Thomas Aquinas* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Brain Cognitive Principles of Working Memory Partitioning
+## 1. Brain Cognitive Principles of Working Memory Partitioning
 
 Coordinating multiple abstract tasks simultaneously usually generates severe information interference and cognitive task-switching costs in the cerebrum. However, Thomas Aquinas overcame this through 'Working Memory Partitioning'. By highly training the Central Executive System of the prefrontal cortex, he maintained the knowledge nodes of each project active in separate compartments. This allowed him to rapidly switch context while preventing cognitive depletion and information overlap.
 
 ---
 
-## Beware of Unproductive Multitasking
-
-Do not confuse this habit with modern, distractible multitasking (e.g., coding while reading emails). Simple distraction severely drops work quality and speed. Aquinas's method is Sequential Execution of single, highly focused tasks divided into partitions. In other words, when processing one object, you must pour 100% of your brain resources into it.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Do not confuse this habit with modern, distractible multitasking (e.g., coding w
     When time expires, immediately close the first task and open the second task. Take three deep breaths to clear the buffer so that previous thoughts do not linger as afterimages in your brain, and then perform the second task with 100% focus.
   </p>
 </div>
+
+---
+
+## 3. Beware of Unproductive Multitasking
+
+Do not confuse this habit with modern, distractible multitasking (e.g., coding while reading emails). Simple distraction severely drops work quality and speed. Aquinas's method is Sequential Execution of single, highly focused tasks divided into partitions. In other words, when processing one object, you must pour 100% of your brain resources into it.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

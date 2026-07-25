@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "夢の残像からすくい上げた名曲：ポール・マッカートニーの潜在意識即時記録習慣"
 description: "ビートルズの名曲『Yesterday』を起床直後の夢の記憶からすくい上げたポール・マッカートニー。前頭葉の検閲が外れた半睡眠状態（Hypnagogia）の分散モード脳を活用して創造性を捉える秘訣を共有します。"
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「mccartney-dream-melody-capture」は <strong>ポール・マッカートニー歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ポール・マッカートニー歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 半睡眠状態（Hypnagogia）と脳の分散モード（Diffuse Mode）
+## 1. 半睡眠状態（Hypnagogia）と脳の分散モード（Diffuse Mode）
 
 人間が目を覚ました直後の数分間は、意識的な制御と論理を司る背外側前頭前皮質（DLPFC）が完全に稼働しない「半睡眠状態（Hypnagogia）」に留まります。この状態の大脳は理性的なフィルターと自家検閲が緩やかに解除されており、潜在意識に散らばっていた様々な記憶や聴覚データが自在に混ざり合う分散モード（Diffuse Mode）に入ります。しかし、完全な覚醒へと進入した瞬間、脳の作動モードが集中モード（Focused Mode）に切り替わり短期記憶がフォーマットされ、潜在意識のひらめきは永久に消失します。起床直後30秒以内に物理的道具でこれを記録することで、ひらめきの消失を遮断できます。
 
 ---
 
-## 注意事項とヒント
-
-このひらめきキャプチャ習慣を実行する際、最も注意すべき行動は、目が覚めてすぐにスマートフォンでSNSを確認したりニュースメールを読むことです。外部の刺激的で整頓された情報が視覚野と作業記憶を強制的に支配すると、脳は瞬間的に高度な認知緊張モードに突入し、潜在意識の淡い神経回路（夢の記憶）を完全にフォーマットしてしまいます。したがって、脳が自然に半睡眠モードを緩やかに移行できるよう、寝室にはアナログのペンと紙のノートだけを近くに置くのが良いでしょう。起床後少なくとも3分間は外部メディアとの接触を遮断し、脳内の固有データの抽出に集中すべきです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     書いている間、「これは論理的に筋が通っているか？」「おかしい話ではないか？」などの自己評価を完全に排除します。加工されていない潜在意識の生データを紙に吐き出すことだけに集中し、分析と論理的整理は午後の時間帯に行います。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+このひらめきキャプチャ習慣を実行する際、最も注意すべき行動は、目が覚めてすぐにスマートフォンでSNSを確認したりニュースメールを読むことです。外部の刺激的で整頓された情報が視覚野と作業記憶を強制的に支配すると、脳は瞬間的に高度な認知緊張モードに突入し、潜在意識の淡い神経回路（夢の記憶）を完全にフォーマットしてしまいます。したがって、脳が自然に半睡眠モードを緩やかに移行できるよう、寝室にはアナログのペンと紙のノートだけを近くに置くのが良いでしょう。起床後少なくとも3分間は外部メディアとの接触を遮断し、脳内の固有データの抽出に集中すべきです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

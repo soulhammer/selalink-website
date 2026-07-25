@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "混沌の中に秩序を記録する：アイザック・ニュートンの研究日誌記録習慣"
 description: "人類最高の科学者アイザック・ニュートン。生涯にわたり巨大な革のノートにすべての洞察と計算を精密に記録した彼の習慣と、手書きの脳科学的原理を分析します。"
 pubDate: "2026-03-30"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「newton-meticulous-journaling」は <strong>アイザック・ニュートンの歴史的評伝・自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アイザック・ニュートンの歴史的評伝・自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳の作業記憶のオーバーロードを解放する「認知的外在化」
+## 1. 脳の作業記憶のオーバーロードを解放する「認知的外在化」
 
 短期記憶を司る「作業記憶（Working Memory）」の容量は極めて限られています。頭の中で無数の演算や洞察を複雑に処理しようとすると、脳は認知オーバーロードに陥り創造的思考を停止させます。ニュートンがノートに細かく手書きし視覚化したことは、大脳の<strong>「認知的外在化（Cognitive Offloading）」</strong>メカニズムを作動させたものでした。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 単なるメモではなく視覚的構造化トレーニングを行いましょう
-
-スマートフォンやデジタルメモ帳にテキストを機械的に入力することは、脳への触覚刺激が少なく記憶強化効果が弱まります。ポイントはペンを握って脳にアナログなフィードバックを伝えることと、矢印、ダイアグラム、図表などを活用して思考を視覚的に紡ぐことです。デジタルノートを使う場合でも、スタイラスペンを用いて直接描き、関連性を示す視覚化トレーニングを併行してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     思考を文章だけで記すにとどまらず、矢印でアイデアを繋ぎ、簡単なフローチャートや概念ダイアグラム、表などを手で直接描いて複雑な論理を視覚的に紡ぎ整理します。
   </p>
 </div>
+
+---
+
+## 3. 単なるメモではなく視覚的構造化トレーニングを行いましょう
+
+スマートフォンやデジタルメモ帳にテキストを機械的に入力することは、脳への触覚刺激が少なく記憶強化効果が弱まります。ポイントはペンを握って脳にアナログなフィードバックを伝えることと、矢印、ダイアグラム、図表などを活用して思考を視覚的に紡ぐことです。デジタルノートを使う場合でも、スタイラスペンを用いて直接描き、関連性を示す視覚化トレーニングを併行してください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Meditation at 300 km/h: Ayrton Senna's Pre-Race Visualization Routine"
 description: "Ayrton Senna, the legendary Formula 1 champion, sat in his cockpit before every race, closing his eyes to visualize the entire track flawlessly. Discover the neurological mechanism of mental rehearsal that pre-activates the motor cortex to eliminate execution errors and master stress."
 pubDate: "2026-05-14"
@@ -38,14 +39,14 @@ Here we analyze the neurological mechanism behind Senna's mental rehearsal and h
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding senna-pre-race-visualization is based on <strong>Historical biographies of Ayrton Senna, F1 race records & Cognitive Neuroscience motor psychology studies</strong>.
+      This content is based on <strong>Historical biographies of Ayrton Senna, F1 race records & Cognitive Neuroscience motor psychology studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Visual Simulation and Motor Neuron Activation in the Supplementary Motor Area (SMA)
+## 1. Visual Simulation and Motor Neuron Activation in the Supplementary Motor Area (SMA)
 
 Even without physically moving, imagining a motion in extreme detail (Mental Imagery) activates the brain's Supplementary Motor Area (SMA) and primary motor cortex. Over 90% of the neuronal circuitry used during actual physical movement lights up during vivid visualization.
 
@@ -53,9 +54,7 @@ This mental rehearsal enhances neural signaling efficiency, shortening muscle re
 
 ---
 
-## Simulate the Process, Not Just the Outcome
-
-A common mistake during mental simulation is imagining only the outcome (e.g., successful speech, winning). To activate the brain's motor cortex and eliminate errors, you must simulate the causal process details (e.g., specific opening phrases, exact responses to tough questions). Only process visualization yields neuroplastic priming benefits.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ A common mistake during mental simulation is imagining only the outcome (e.g., s
   </p>
 </div>
 
+---
+
+## 3. Simulate the Process, Not Just the Outcome
+
+A common mistake during mental simulation is imagining only the outcome (e.g., successful speech, winning). To activate the brain's motor cortex and eliminate errors, you must simulate the causal process details (e.g., specific opening phrases, exact responses to tough questions). Only process visualization yields neuroplastic priming benefits.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What should I do if visual simulation increases my anxiety instead?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ A common mistake during mental simulation is imagining only the outcome (e.g., s
       Increased anxiety happens when the brain fixates on negative scenarios (failing). Stop visualizer practice immediately and perform sensory grounding—focusing on your breathing sound or the physical touch of your palm—followed by light stretching to relax your body first.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What is the recommended duration for each mental rehearsal session?</span>

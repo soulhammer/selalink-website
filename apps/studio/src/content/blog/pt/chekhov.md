@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Fiapo no Colarinho e o Tremor de uma Pupila: A Micro-Observação e Atenção Seletiva de Anton Tchekhov"
 description: "Descubra como Anton Tchekhov, mestre dos contos modernos, registrava meticulosamente microdetalhes de pedestres em salas de espera e cafés, e explore os princípios neurocientíficos da Atenção Seletiva Micro para aprimorar a resolução cognitiva."
 pubDate: "2026-01-12"
@@ -33,25 +34,23 @@ Sempre que tinha um momento livre, Tchekhov sentava-se em silêncio nos bancos d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre chekhov é baseada em <strong>Verificação Histórica da Biografia de E. H. Carr *Anton Chekhov: A Critical Study* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de E. H. Carr *Anton Chekhov: A Critical Study* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Atenção Seletiva Micro e Mecanismos de Estimulação Cortical
+## 1. Atenção Seletiva Micro e Mecanismos de Estimulação Cortical
 
 Filtrar 99% do ruído ambiental para fixar a atenção em 1% de microdetalhes — a 'Atenção Seletiva Micro' — estimula fortemente o córtex pré-frontal dorsolateral (DLPFC). Esta observação focada eleva a resolução cortical, transferindo entradas sensoriais para a memória de longo prazo. Como resultado, o cérebro aprimora sua 'Resolução Cognitiva', filtrando a sobrecarga sensorial para decodificar sinais não verbales e padrões sutis.
 
 ---
 
-## Precauções e Dicas: Evitar Encarar e Capturar Momentos Fugazes
-
-Ao praticar a micro-observação, evite encarar as pessoas, o que gera desconforto. Fixar o olhar interrompe o comportamento natural da pessoa observada. A chave é a captura rápida e sutil: escaneie um único microdetalhe (um punho desfiado, um tremor no olho, um arranhão no sapato) em 1 segundo enquanto alguém passa, e desvie o olhar com naturalidade para anotá-lo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Ao praticar a micro-observação, evite encarar as pessoas, o que gera desconfor
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar Encarar e Capturar Momentos Fugazes
+
+Ao praticar a micro-observação, evite encarar as pessoas, o que gera desconforto. Fixar o olhar interrompe o comportamento natural da pessoa observada. A chave é a captura rápida e sutil: escaneie um único microdetalhe (um punho desfiado, um tremor no olho, um arranhão no sapato) em 1 segundo enquanto alguém passa, e desvie o olhar com naturalidade para anotá-lo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Existe alguma técnica para observar microdetalhes discretamente sem incomodar os outros?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Ao praticar a micro-observação, evite encarar as pessoas, o que gera desconfor
       Evite o contato visual direto. Use a 'Visão Periférica' ou faça um escaneamento de 1 segundo em uma área específica (mangas, calçados, mãos) durante movimentos dinâmicos — como ao tirar o casaco —, e desvie o olhar com naturalidade.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como essas notas de microdetalhes podem ser aplicadas na prática ao trabalho profissional?</span>

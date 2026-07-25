@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "オフライン没頭：ドナルド・クヌースのEメール遮断ルーティンとコンテキストスイッチングの防止"
 description: "コンピュータサイエンスの巨作を完成させるため1990年からEメールを断ち、オフラインのディープワークを貫いたドナルド・クヌース。頻繁なコンテキストスイッチング（Context Switching）と注意残留（Attention Residue）を遮断して脳の注意力・集中力を守る原理と3段階実践法を解き明かします。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「knuth-no-email」は <strong>ドナルド・クヌース公式宣言「Eメール使用中断（Email and I）」および評伝史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ドナルド・クヌース公式宣言「Eメール使用中断（Email and I）」および評伝史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## コンテキストスイッチング（Context Switching）の遮断と注意残留（Attention Residue）防止の脳科学
+## 1. コンテキストスイッチング（Context Switching）の遮断と注意残留（Attention Residue）防止の脳科学
 
 私たちがEメールやメッセンジャーの通知を確認するたびに、脳は<strong>コンテキストスイッチング（Context Switching, 作業転換）</strong>を経験し、莫大な知的代償を払うことになります。元の作業に戻っても、脳の一部の注意力は直前に読んだメールの残像に縛られますが、認知心理学ではこれを<strong>注意残留（Attention Residue）</strong>と呼びます。この残留物が消え去り<strong>前頭前野（Prefrontal Cortex）</strong>が最高の没頭度を回復するまでには、20分を超える長い時間を要します。ドナルド・クヌースのようにオフラインの境界を構築して注意の断片化を源泉遮断すれば、脳は残像なしに高次元の抽象的思考とシステム論理設計を揺らぐことなく推し進めることができます。
 
 ---
 
-## 注意事項：リアルタイム応答本能を抑制しバッチ処理（Batch Processing）を適用するルール
-
-ドナルド・クヌースのようにEメールとリアルタイムメッセンジャーを完全に永久遮断する方式は、協業組織において現実的に難しい場合があります。核心は完全に断つことではなく、リアルタイム確認本能を抑制し<strong>バッチ処理（Batch Processing）</strong>方式を導入することです。毎日決まった1〜2回の括り返信タイムウィンドウ以外は通知を遮断し、脳の連続没頭時間（Chunk of Focus）を保護してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：リアルタイム応答本能を抑制しバッチ処理（Batch Processing）を適用するルール
+
+ドナルド・クヌースのようにEメールとリアルタイムメッセンジャーを完全に永久遮断する方式は、協業組織において現実的に難しい場合があります。核心は完全に断つことではなく、リアルタイム確認本能を抑制し<strong>バッチ処理（Batch Processing）</strong>方式を導入することです。毎日決まった1〜2回の括り返信タイムウィンドウ以外は通知を遮断し、脳の連続没頭時間（Chunk of Focus）を保護してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>協業中の同僚たちにEメール確認が遅れる自分の日程を誤解なくどのように共有しコミュニケーションすべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       Eメールの自動応答やメッセンジャーのプロフィールステータスに日程を明示的に告知してください。「現在核心プロジェクトへの没頭のため、毎日2回（11時、16時）メールを一括確認しています。緊急の連絡は電話や緊急チャンネルをご利用ください」というメッセージを残すだけで、コミュニケーションの不在に対する懸念を減らし、知的保護壁を構築できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>クヌースは世界的な大家だからEメールを断つことができたように見えますが、一般的な会社員も適用可能ですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Por qué Leer en las Trincheras de la Selva? La Rutina de Lectura Profunda y Reestructuración Cognitiva de Che Guevara"
 description: "Descubra cómo el héroe de la Revolución Cubana Che Guevara leía diariamente tomos densos en medio de la guerra de guerrillas, y explore la neurociencia cognitiva de cómo la Lectura Profunda activa las redes de control cognitivo prefrontales para amortiguar el estrés."
 pubDate: "2026-02-09"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre che-guevara-reading se basa en <strong>Verificación Histórica de la Biografía de Jon Lee Anderson *Che Guevara: Una vida revolucionaria (Che Guevara: A Revolutionary Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Jon Lee Anderson *Che Guevara: Una vida revolucionaria (Che Guevara: A Revolutionary Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación de las Redes de Control Cognitivo Prefrontales y Amortiguación del Estrés Mediante la Lectura Profunda
+## 1. Activación de las Redes de Control Cognitivo Prefrontales y Amortiguación del Estrés Mediante la Lectura Profunda
 
 Las amenazas ambientales inminentes y la incertidumbre sobreestimulan la amígdala, desencadenando picos de estrés simpático y deterioro ejecutivo. La neurociencia cognitiva demuestra que la 'Lectura Profunda' —rastrear activamente sintaxis complejas en textos de formato largo— involucra fuertemente la Red de Control Cognitivo (CCN) prefrontal. Una vez activada, la corteza prefrontal ejerce una inhibición de arriba a abajo sobre la amígdala, reduciendo la liberación de cortisol. Al mismo tiempo, sintetizar la sintaxis textual y actualizar esquemas mentales libera dopamina, ejecutando una 'Reestructuración Cognitiva' que amortigua la ansiedad.
 
 ---
 
-## Precauciones y Consejos: Evitar el Escaneo Superficial de Noticias/Redes y Activar Redes Lingüísticas
-
-Para obtener los beneficios cognitivos protectores de esta rutina, abandone el modo de escaneo superficial, como leer por encima noticias en el móvil o redes sociales. El escaneo visual rápido atrapa al cerebro en un estado cognitivo reactivo y de bajo nivel que no logra reclutar el control prefrontal. Aunque solo lea dos páginas, evalúe activamente las premisas del autor y active su Red de Atención Lingüística.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para obtener los beneficios cognitivos protectores de esta rutina, abandone el m
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Evitar el Escaneo Superficial de Noticias/Redes y Activar Redes Lingüísticas
+
+Para obtener los beneficios cognitivos protectores de esta rutina, abandone el modo de escaneo superficial, como leer por encima noticias en el móvil o redes sociales. El escaneo visual rápido atrapa al cerebro en un estado cognitivo reactivo y de bajo nivel que no logra reclutar el control prefrontal. Aunque solo lea dos páginas, evalúe activamente las premisas del autor y active su Red de Atención Lingüística.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Leer literatura, como novelas o ensayos, desencadena los mismos efectos de control cognitivo prefrontal?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para obtener los beneficios cognitivos protectores de esta rutina, abandone el m
       Sí, siempre que el texto exija un esfuerzo cognitivo activo. Mientras que la ficción ligera ofrece una estimulación prefrontal mínima, la literatura clásica o los ensayos ricos en motivaciones complejas y dilemas morales involucran fuertemente las redes de control cognitivo prefrontales.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Las tabletas o lectores de tinta electrónica proporcionan los mismos beneficios de reestructuración cognitiva que los libros físicos?</span>

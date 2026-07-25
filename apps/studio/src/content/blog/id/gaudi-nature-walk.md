@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Master yang Berjalan 4 km Melintasi Barcelona: Metode Jalan Kreatif dan Rutinitas Inspirasi Arsitektur Organik Antoni Gaudí"
 description: "Pelajari bagaimana arsitek jenius Antoni Gaudí menerjemahkan struktur alami ke dalam arsitektur dengan berjalan 4 km setiap hari melintasi Barcelona. Temukan neurosains kognitif tentang berjalan kreatif."
 pubDate: "2026-04-13"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif dan psikologi li
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai gaudi-nature-walk didasarkan pada <strong>Verifikasi Historis dari *Gaudí: The Biography* karya Gijs van Hensbergen & Penelitian Neurosains Kognitif serta Psikologi Lingkungan</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Gaudí: The Biography* karya Gijs van Hensbergen & Penelitian Neurosains Kognitif serta Psikologi Lingkungan</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Berjalan Fisik dan Fleksibilitas Kognitif: Mengaktifkan Hipokampus dan Korteks Visual
+## 1. Berjalan Fisik dan Fleksibilitas Kognitif: Mengaktifkan Hipokampus dan Korteks Visual
 
 Duduk terlalu lama sambil berfokus pada masalah rumit menjebak korteks prefrontal dalam ketegangan tinggi, merusak fleksibilitas kognitif. Rutinitas jalan 4 km Gaudí memberikan aktivasi fisik dan stimulasi visual untuk mengatasi stagnasi mental. Berjalan meningkatkan detak jantung, mengalirkan darah beroksigen ke <strong>hipokampus</strong> dan korteks prefrontal. Studi Stanford University membuktikan bahwa berjalan meningkatkan hasil pemikiran kreatif sebesar 60% dibandingkan duduk. Selain itu, mengamati bentuk alami menstimulasi <strong>Korteks Visual</strong>.
 
 ---
 
-## Perhatian: Prioritaskan Pengamatan Struktural Organik di Atas Olahraga Berat
-
-Bagi Gaudí, berjalan bukanlah latihan fisik intensif untuk membakar kalori; itu adalah proses desain spasial yang disengaja—pemindaian bentuk alami dan menghubungkannya dengan pola geometris internal. Hindari terburu-buru menuju tujuan dengan kecepatan tinggi. Sesuaikan tempo jalan Anda agar indra visual dapat mengamati pola struktural dalam alam dan arsitektur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Bagi Gaudí, berjalan bukanlah latihan fisik intensif untuk membakar kalori; itu
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Prioritaskan Pengamatan Struktural Organik di Atas Olahraga Berat
+
+Bagi Gaudí, berjalan bukanlah latihan fisik intensif untuk membakar kalori; itu adalah proses desain spasial yang disengaja—pemindaian bentuk alami dan menghubungkannya dengan pola geometris internal. Hindari terburu-buru menuju tujuan dengan kecepatan tinggi. Sesuaikan tempo jalan Anda agar indra visual dapat mengamati pola struktural dalam alam dan arsitektur.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah wajib berjalan di taman alam atau jalan tanah agar metode ini berhasil?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Bagi Gaudí, berjalan bukanlah latihan fisik intensif untuk membakar kalori; itu
       Meskipun pemandangan alam paling efektif untuk restorasi perhatian, berjalan melintasi gang-gang kota yang unik atau mengamati arsitektur menstimulasi korteks visual dengan sangat baik, menjadikannya alternatif yang luar biasa.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bisakah saya mengganti rutinitas berjalan ini dengan lari cepat atau treadmill?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Immersion Overcoming Deprivation: Lee Jung-seob's Tin Foil Drawing Routine and Somatosensory Activation"
 description: "Discover how painter Lee Jung-seob maintained artistic focus amidst severe poverty by engraving on cigarette box tin foil (Eunjihwa). Explore the neuroscience of multisensory feedback, somatosensory cortex engagement, mindfulness through tactile friction, and a 3-step practice guide."
 pubDate: "2026-03-14"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience and art therapy principle
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding leejungseob-tin-foil-drawing is based on <strong>Historical Verification from Lee Jung-seob Biographies, National Museum of Modern and Contemporary Art (MMCA) Archives & Cognitive Neuroscience and Art Therapy Research</strong>.
+      This content is based on <strong>Historical Verification from Lee Jung-seob Biographies, National Museum of Modern and Contemporary Art (MMCA) Archives & Cognitive Neuroscience and Art Therapy Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Visual-Tactile Multisensory Feedback and Somatosensory Cortex Activation
+## 1. Visual-Tactile Multisensory Feedback and Somatosensory Cortex Activation
 
 In neuroscience, haptic and tactile stimulation strongly engages the <strong>Somatosensory Cortex</strong>, a primitive sensory processing node. Engraving lines onto metallic foil using a sharp stylus stimulates mechanoreceptors in fingertips, inducing immediate <strong>Tactile Arousal</strong> that wakes up executive prefrontal networks. This combination of haptic resistance, scratching auditory feedback, and visual intaglio depth forms a <strong>Multisensory Feedback Loop</strong>. Saturated with multi-channel sensory inputs, <strong>Working Memory</strong> buffers block intrusive anxiety and emotional rumination, bestowing a profound state of present-moment <strong>Mindfulness</strong>.
 
 ---
 
-## Caution: Bypassing the Wait for Ideal Tools to Immerse Immediately in Fingertip Haptic Feedback
-
-Avoid delaying action by blaming poor tools or waiting for flawless working conditions. The neurobiological capacity for haptic immersion exists within you regardless of medium—even on a discarded scrap of foil or paper. Surrender internal anxiety and brain fog to the physical sensation of friction as your pen or stylus engraves the surface.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Avoid delaying action by blaming poor tools or waiting for flawless working cond
   </p>
 </div>
 
+---
+
+## 3. Caution: Bypassing the Wait for Ideal Tools to Immerse Immediately in Fingertip Haptic Feedback
+
+Avoid delaying action by blaming poor tools or waiting for flawless working conditions. The neurobiological capacity for haptic immersion exists within you regardless of medium—even on a discarded scrap of foil or paper. Surrender internal anxiety and brain fog to the physical sensation of friction as your pen or stylus engraves the surface.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How does scratching lines onto tin foil scientifically lower emotional stress?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Avoid delaying action by blaming poor tools or waiting for flawless working cond
       The tactile resistance and scratching acoustics generated when scoring metallic foil saturate somatosensory processing buffers in the brain. This physically suppresses threat signaling in the amygdala and prevents emotional rumination, binding focus tightly to present-moment sensory input.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can I substitute tin foil and nails with standard paper and a ballpoint pen?</span>

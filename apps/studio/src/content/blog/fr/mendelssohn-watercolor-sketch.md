@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mélodies façonnées en couleurs ? La routine d'aquarelle matinale de Felix Mendelssohn"
 description: "Le brillant compositeur Felix Mendelssohn éveillait son inspiration musicale chaque matin en peignant des aquarelles. Découvrez la stimulation croisée entre l'art et la musique sous l'angle des neurosciences."
 pubDate: "2026-01-20"
@@ -35,17 +36,17 @@ Dans cet article, nous explorons la science cognitive de la bascule sensorielle 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant mendelssohn-watercolor-sketch est basée sur <strong>Recherche sur les biographies historiques et récits autobiographiques de Felix Mendelssohn & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche sur les biographies historiques et récits autobiographiques de Felix Mendelssohn & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'effet d'« association cross-modale » qui traverse les sens
+## 1. L'effet d'« association cross-modale » qui traverse les sens
 
 Lorsque nous peignons, le cerveau sollicite fortement le cortex visuel et les zones de cognition spatiale pour percevoir les formes avec précision. Selon les neurosciences cognitives, le phénomène par lequel l'activation d'un domaine sensoriel stimule la créativité dans un autre s'appelle l'<strong>« association cross-modale »</strong>.
 
@@ -53,9 +54,7 @@ Tandis que Felix Mendelssohn observait les paysages chaque matin pour en traduir
 
 ---
 
-## L'amélioration de la technique n'est pas le but ; la simple relaxation et le rafraîchissement sensoriel priment
-
-L'objectif du croquis n'est pas de devenir un artiste peintre. Il s'agit de donner du repos au lobe frontal fatigué par le texte, les chiffres et la logique, et de restaurer la souplesse des connexions neuronales entre les réseaux sensoriels grâce à un geste artistique non verbal et visuo-tactile. Ne vous souciez pas des lignes de travers ; concentrez-vous simplement sur le ressenti sensoriel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ L'objectif du croquis n'est pas de devenir un artiste peintre. Il s'agit de donn
   </p>
 </div>
 
+---
+
+## 3. L'amélioration de la technique n'est pas le but ; la simple relaxation et le rafraîchissement sensoriel priment
+
+L'objectif du croquis n'est pas de devenir un artiste peintre. Il s'agit de donner du repos au lobe frontal fatigué par le texte, les chiffres et la logique, et de restaurer la souplesse des connexions neuronales entre les réseaux sensoriels grâce à un geste artistique non verbal et visuo-tactile. Ne vous souciez pas des lignes de travers ; concentrez-vous simplement sur le ressenti sensoriel.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Une personne ne sachant pas du tout dessiner peut-elle profiter des bienfaits du croquis matinal ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ L'objectif du croquis n'est pas de devenir un artiste peintre. Il s'agit de donn
       Absolument. Le but n'est pas d'étaler un savoir-faire artistique, mais de transmettre au cerveau des signaux d'observation visuelle et de coordination motrice. Même si la composition est imparfaite ou le trait maladroit, la stimulation des zones cérébrales croisées et l'effet de relaxation restent strictly identiques.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Le dessin au crayon ou au stylo est-il suffisant pour la stimulation croisée à la place de l'aquarelle ?</span>

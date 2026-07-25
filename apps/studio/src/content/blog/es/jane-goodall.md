@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sentada en las Rocas Junto a los Chimpancés para Observar y Registrar: El Hábito de Inmersión y Rutina de Atención Selectiva de Jane Goodall"
 description: "Descubra cómo la etóloga Jane Goodall obtuvo avances científicos observando chimpancés en la selva de Gombe. Explore la neurociencia de la activación de la corteza de asociación sensorial, la atención selectiva y las rutinas de observación."
 pubDate: "2026-05-09"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre jane-goodall se basa en <strong>Verificación Histórica de la Autobiografía de Jane Goodall *Razones para la esperanza (Reason for Hope)*, Archivos del Centro de Investigación Gombe Stream e Investigación en Neurociencia Cognitiva y Etología</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Jane Goodall *Razones para la esperanza (Reason for Hope)*, Archivos del Centro de Investigación Gombe Stream e Investigación en Neurociencia Cognitiva y Etología</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación de la Corteza de Asociación Sensorial y Atención Selectiva
+## 1. Estimulación de la Corteza de Asociación Sensorial y Atención Selectiva
 
 Entrenar la atención para observar en silencio a un sujeto sin intervenir activa fuertemente la <strong>Corteza de Asociación Sensorial</strong> y las redes de <strong>Atención Selectiva</strong>. Estructurar entradas sensoriales en notas analógicas mejora la resolución sensorial, reduciendo el ruido ambiental. Este refinamiento neural ejercita la <strong>Capacidad Perceptiva Intuitiva (Insightful Perceptual Ability)</strong> para detectar pistas sutiles y tendencias del mercado.
 
 ---
 
-## Precaución: Excluya Juicios Subjetivos para Centrarse en Datos Sensoriales Objetivos
-
-No se apresure a evaluar, etiquetar o clasificar lógicamente el objetivo. La clave es dejar de lado interpretaciones subjetivas o sesgos, absorbiendo la profundidad física, el contraste de luz y las texturas directamente en sus vías sensoriales.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ No se apresure a evaluar, etiquetar o clasificar lógicamente el objetivo. La cl
   </p>
 </div>
 
+---
+
+## 3. Precaución: Excluya Juicios Subjetivos para Centrarse en Datos Sensoriales Objetivos
+
+No se apresure a evaluar, etiquetar o clasificar lógicamente el objetivo. La clave es dejar de lado interpretaciones subjetivas o sesgos, absorbiendo la profundidad física, el contraste de luz y las texturas directamente en sus vías sensoriales.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Puedo sustituir la observación directa a simple vista tomando una foto con el teléfono para analizarla después?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ No se apresure a evaluar, etiquetar o clasificar lógicamente el objetivo. La cl
       No. Las imágenes en pantallas digitales son píxeles planos en 2D que no activan las redes de percepción de profundidad en 3D. Debe decodificar la profundidad física y las texturas de objetos reales a simple vista para estimular la neuroplasticidad.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Debo observar solo objetos estáticos o puedo observar sujetos en movimiento?</span>

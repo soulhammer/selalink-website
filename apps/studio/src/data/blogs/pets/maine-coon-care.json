@@ -507,6 +507,10 @@
           "이중모 빗질"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/maine_coon_care.png"
   }
 }

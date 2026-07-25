@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Louis Daguerre's Silver Plate Exposure Method: How to Fix Fleeting Moments into Eternal Inspiration"
 description: "Explore how 19th-century French inventor Louis Daguerre created the world's first practical photography via chemical silver-plate exposure, and uncover the cognitive neuroscience of instant visual fixation."
 pubDate: "2026-01-31"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Louis Daguerre's 'silve
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding daguerre-silver-plate is based on <strong>Historical Verification from Louis Daguerre's *Historique et description des procédés du Daguerréotype (History and Practice of the Daguerreotype)* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Louis Daguerre's *Historique et description des procédés du Daguerréotype (History and Practice of the Daguerreotype)* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## How Instant Visual Fixation Imprints Fleeting Ideas into Long-Term Memory
+## 1. How Instant Visual Fixation Imprints Fleeting Ideas into Long-Term Memory
 
 Neuropsychological research demonstrates that mentally framing a fleeting insight and exposing it for 3 full seconds creates a strong neural anchor across the occipital visual cortex and the hippocampus. This 3-second 'exposure window' stabilizes raw, volatile working memory representations before they degrade. By visually imprinting the mental snapshot, the brain seals memory traces against cognitive decay, ensuring vivid context retrieval even long after the initial spark.
 
 ---
 
-## Caution & Tips: Instant Exposure Timing & Preventing Procrastination
-
-Do not postpone recording an emerging insight. Fleeting creative sparks decay rapidly within seconds in working memory networks. The moment an idea strikes, immediately freeze it like a mental snapshot within your internal frame, expose it clearly for 3 seconds, and immediately bridge that fixation into a written note or audio recording.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Do not postpone recording an emerging insight. Fleeting creative sparks decay ra
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Instant Exposure Timing & Preventing Procrastination
+
+Do not postpone recording an emerging insight. Fleeting creative sparks decay rapidly within seconds in working memory networks. The moment an idea strikes, immediately freeze it like a mental snapshot within your internal frame, expose it clearly for 3 seconds, and immediately bridge that fixation into a written note or audio recording.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How does Daguerre's 3-second visual exposure method differ from standard note-taking?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Do not postpone recording an emerging insight. Fleeting creative sparks decay ra
       Standard note-taking passively captures text or words. In contrast, Daguerre's method actively 'exposes' the idea inside the visual cortex for 3 seconds before writing. This creates a high-density sensory snapshot so that reviewing even a short keyword later immediately reconstructs the original, vivid context and emotional frequency.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What should I do if I am walking or driving and cannot physically write or sketch immediately?</span>

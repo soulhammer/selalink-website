@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Genius yang Melihat Teorema Matematika dalam Mimpi? Rutinitas Catatan Setelah Bangun Tidur Srinivasa Ramanujan"
 description: "Srinivasa Ramanujan, seorang genius dalam teori bilangan dan deret tak hingga. Pelajari metode reset otak beliau yang memindahkan inspirasi intuitif dari tidur REM ke catatan 3 menit segera setelah bangun tidur, beserta rutinitas praktis 3 langkah untuk masyarakat modern."
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ Artikel ini menjelajahi mekanisme kerja ilmiah dari rutinitas 'catatan intuitif 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai ramanujan-dream-notebook didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi tentang Srinivasa Ramanujan & penelitian ilmu saraf kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi tentang Srinivasa Ramanujan & penelitian ilmu saraf kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mekanisme Penggabungan Gelombang Alfa dan Default Mode Network Setelah Bangun Tidur
+## 1. Mekanisme Penggabungan Gelombang Alfa dan Default Mode Network Setelah Bangun Tidur
 
 Selama 5 hingga 10 menit pertama segera setelah bangun tidur, otak manusia dengan fleksibel tetap berada dalam kondisi gelombang Alfa dan gelombang Theta lambat—batas antara kesadaran dan ketidaksadaran—sebelum logika kritis lobus frontal diaktifkan sepenuhnya. Selama jendela waktu ini, koneksi asosiatif baru yang digabungkan kembali semalaman oleh Default Mode Network (DMN) otak akan muncul dengan lembut ke permukaan tanpa menguap.
 
@@ -51,9 +52,7 @@ Sebagian besar masyarakat modern langsung memeriksa notifikasi ponsel pintar ata
 
 ---
 
-## Peringatan Terhadap Paparan Media Ponsel Pintar Setelah Bangun Tidur dan Peralihan Paksa ke Gelombang Beta
-
-Memeriksa notifikasi pesan, berita, atau media sosial segera setelah membuka mata memaksa otak ke kondisi gelombang Beta berfrekuensi tinggi yang tegang. Pada saat ini, otak mulai merespons stimulasi luar secara pasif, secara instan menguapkan ide dan intuisi yang telah dimurnikan oleh alam bawah sadar semalaman. Blokir akses media digital sepenuhnya selama setidaknya 5 hingga 10 menit setelah bangun tidur dan berfokuslah pada intuisi Anda sendiri.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Memeriksa notifikasi pesan, berita, atau media sosial segera setelah membuka mat
   </p>
 </div>
 
+---
+
+## 3. Peringatan Terhadap Paparan Media Ponsel Pintar Setelah Bangun Tidur dan Peralihan Paksa ke Gelombang Beta
+
+Memeriksa notifikasi pesan, berita, atau media sosial segera setelah membuka mata memaksa otak ke kondisi gelombang Beta berfrekuensi tinggi yang tegang. Pada saat ini, otak mulai merespons stimulasi luar secara pasif, secara instan menguapkan ide dan intuisi yang telah dimurnikan oleh alam bawah sadar semalaman. Blokir akses media digital sepenuhnya selama setidaknya 5 hingga 10 menit setelah bangun tidur dan berfokuslah pada intuisi Anda sendiri.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa yang harus saya lakukan jika tidak ada mimpi atau inspirasi pagi yang teringat?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Memeriksa notifikasi pesan, berita, atau media sosial segera setelah membuka mat
       Tidak perlu memaksa munculnya ide. Cukup dengan menuliskan satu kata atau suasana hati yang melintas di pikiran saat masih mengantuk, atau satu masalah yang ingin Anda selesaikan hari ini, sudah cukup untuk memperkuat sirkuit gelombang Alfa dan secara bertahap membuka pintu ke alam bawah sadar Anda.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah boleh menggunakan aplikasi catatan atau rekaman suara di ponsel pintar?</span>

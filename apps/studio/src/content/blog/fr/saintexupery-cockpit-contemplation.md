@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode de prise de notes en cockpit de Saint-Exupéry : Extraire l'essence par la solitude et l'épuration"
 description: "Découvrez l'habitude d'écriture d'Antoine de Saint-Exupéry, auteur du 'Petit Prince' et aviateur, qui concevait ses idées dans la solitude du cockpit et atteignait l'essence en épurant la rhétorique inutile."
 pubDate: "2026-07-18"
@@ -35,25 +36,23 @@ Une fois revenu au sol, lors de la retranscription de ses notes en manuscrits, i
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant saintexupery-cockpit-contemplation est basée sur <strong>Recherche biographique et autobiographique historique sur la contemplation en cockpit de Saint-Exupéry et études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique et autobiographique historique sur la contemplation en cockpit de Saint-Exupéry et études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi la solitude et la soustraction maximisent la métacognition préfrontale
+## 1. Pourquoi la solitude et la soustraction maximisent la métacognition préfrontale
 
 Les recherches en neurosciences montrent qu'un état de solitude coupé du bruit extérieur active le réseau par défaut (DMN) du cerveau, favorisant la perception créative. Ensuite, l'action d'élaguer les éléments superflus ou la rhétorique stimule la métacognition préfrontale, élevant la précision de la pensée.
 
 ---
 
-## Précautions et conseils d'épuration pour l'habitude de Saint-Exupéry
-
-Ne censurez ni ne modifiez rien pendant la phase de génération d'idées. Laissez vos idées jaillir librement dans la solitude, puis suivez un processus en deux étapes lors de la révision en coupant audacieusement plus de 30 % des qualificatifs inutiles.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ne censurez ni ne modifiez rien pendant la phase de génération d'idées. Laiss
   </p>
 </div>
 
+---
+
+## 3. Précautions et conseils d'épuration pour l'habitude de Saint-Exupéry
+
+Ne censurez ni ne modifiez rien pendant la phase de génération d'idées. Laissez vos idées jaillir librement dans la solitude, puis suivez un processus en deux étapes lors de la révision en coupant audacieusement plus de 30 % des qualificatifs inutiles.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Cette règle de soustraction peut-elle s'appliquer aux rapports professionnels ou propositions ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ne censurez ni ne modifiez rien pendant la phase de génération d'idées. Laiss
       Oui ! Après avoir rédigé le brouillon librement, coupez audacieusement les qualificatifs inutiles, le jargon et les phrases à rallonge lors de la seconde relecture pour doubler la clarté.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si le contexte est perdu à cause d'un élagage trop important ?</span>

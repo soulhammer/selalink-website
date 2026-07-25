@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "击退职业倦怠与存在主义抑郁的原始妙方：阿尔贝·加缪的足球重置习惯"
 description: "探索法国诺贝尔文学奖得主兼哲学家阿尔贝·加缪在遇到创作瓶颈与抑郁袭来时作为守门员跃身扑球的肉体沉浸习惯，揭示前额叶下线与小脑认知切换的神经科学机制。"
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 camus-football-reset 的内容基于 <strong>奥利维埃·托德传记《加缪传（Albert Camus: A Life）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>奥利维埃·托德传记《加缪传（Albert Camus: A Life）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 前额叶强行下线与小脑（Cerebellum）及运动皮层的认知切换机制
+## 1. 前额叶强行下线与小脑（Cerebellum）及运动皮层的认知切换机制
 
 当展开高阶思考、撰写长文或进行复杂的深度策划时，大脑前额叶皮层（Prefrontal Cortex）会因消耗海量葡萄糖而处于过热状态。当前额叶资源耗尽，人就会陷入决策瘫痪、存在主义疲惫与抑郁情绪中。若像阿尔贝·加缪那样投入高强度的体育运动（如守门员迎球扑救），大脑便会将活跃区域瞬间切换至专门负责身体调节、平衡感与反射神经的小脑（Cerebellum）与运动皮层（Motor Cortex）。这种急速的“认知切换（Cognitive Switching）”能使超负荷运转的前额叶皮层转入“强行下线（Forced Offline）”状态，为其提供生理学上的休憩窗口，降低皮质醇水平，重置神经递质，从而在重返书桌时爆发出全新的认知能量。
 
 ---
 
-## 注意事项与提示：避免执着于比分的剧烈竞争与复杂战略计算型游戏
-
-这项习惯的唯一旨在让前额叶皮层的认知资源得到彻底休憩与重置。若参与过于追求胜负的竞技比赛，或沉溺于需要高度精算布局、极度动脑的复杂策略型体育运动，前额叶皮层便无法获得休养，甚至会引发二次认知过载。切勿执念于胜负得分，应专注于扑救快速移动的球体、调动反射神经的纯粹运动，方能获得前额叶“强行下线”的效果。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：避免执着于比分的剧烈竞争与复杂战略计算型游戏
+
+这项习惯的唯一旨在让前额叶皮层的认知资源得到彻底休憩与重置。若参与过于追求胜负的竞技比赛，或沉溺于需要高度精算布局、极度动脑的复杂策略型体育运动，前额叶皮层便无法获得休养，甚至会引发二次认知过载。切勿执念于胜负得分，应专注于扑救快速移动的球体、调动反射神经的纯粹运动，方能获得前额叶“强行下线”的效果。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在缺少一起踢球或运动伙伴的独处环境下该如何践行？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       单人完全可以独立践行。对着水泥墙壁击打网球或壁球并反向抓捕反弹球的对墙训练、重打击沙袋、或者敏捷梯步法训练，均能强效刺激小脑与运动皮层，达到将前额叶皮层成功切至下线状态的目的。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在精神极度疲惫的日子里投入高强度体育运动，会不会反而导致疲劳累积？</span>

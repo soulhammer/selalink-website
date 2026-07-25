@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "無意識の創造性を呼び醒ます10単語連想法：レイ・ブラッドベリの拡散的思考ルーティン"
 description: "現代SF文学の父レイ・ブラッドベリが毎朝無作為な10個の異種単語を書き出し、超短編ストーリーを連想したルーティン。無意識の連鎖を刺激して拡散的思考と創造性を極大化する神経科学的原理を解き明かします。"
 pubDate: "2026-06-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「bradbury」は <strong>レイ・ブラッドベリ随筆集『Zen in the Art of Writing』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>レイ・ブラッドベリ随筆集『Zen in the Art of Writing』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 拡散的思考（Divergent Thinking）回路の活性化と任意連想作用
+## 1. 拡散的思考（Divergent Thinking）回路の活性化と任意連想作用
 
 無関係な異種の概念を強制的に連結する作業は、大脳前頭前野の「拡散的思考（Divergent Thinking）」回路を強力に刺激します。起床直後、前頭前野のトップダウン制御（Top-down Control）フィルターがまだ完璧に作動していない認知的空白期には、無意識の領域に眠っていたシナプス間の有機的結合（Combinatorial Play）がはるかに容易に行われます。無作為な単語が与える見知らぬ認知的衝撃は脳の側頭葉および連合皮質ネットワークを呼び醒まし、既存の固定観念を打ち破って破格のビジネスアイデアや創造的な解決策を導き出すよう助けます。
 
 ---
 
-## 注意事項＆ヒント：完璧主義の排除と連結のフローへの完全な没頭
-
-このルーティンを行う際、単語の連想を最初から洗練された完璧な文章や完成度の高い作文へと導こうと焦らないでください。文法的な精緻さや文章の滑らかさに気を取られた瞬間、前頭葉の検閲フィルターが介入し、無意識の連想の鎖が遮断されます。無作為な単語が与える見知らぬ認知的衝撃を頭の中でスピード感を持って強制組み立てしていく思考の「連想過程そのもの」にのみひたすら没頭することがポイントです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：完璧主義の排除と連結のフローへの完全な没頭
+
+このルーティンを行う際、単語の連想を最初から洗練された完璧な文章や完成度の高い作文へと導こうと焦らないでください。文法的な精緻さや文章の滑らかさに気を取られた瞬間、前頭葉の検閲フィルターが介入し、無意識の連想の鎖が遮断されます。無作為な単語が与える見知らぬ認知的衝撃を頭の中でスピード感を持って強制組み立てしていく思考の「連想過程そのもの」にのみひたすら没頭することがポイントです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>毎朝連想執筆ルーティンを必ず実践しなければなりませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       朝の起床直後、無意識が活性化している時間に単語の連想を行うことが神経学的に最も効果的です。ただし週3〜4回程度から始めても、脳の拡散的思考回路を鍛え、創造的な洞察力を呼び醒ますのに十分な効果を発揮します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>周囲に単語カードや白紙がない時はどのように代替できますか？</span>

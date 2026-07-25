@@ -512,6 +512,10 @@
           "Standar WSAVA"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/betta_fish_care.png"
   }
 }

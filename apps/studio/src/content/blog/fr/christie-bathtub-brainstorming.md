@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La femme qui planifiait des meurtres en mangeant des pommes dans son bain : Le brainstorming en eau chaude et la relaxation DMN d'Agatha Christie"
 description: "Découvrez comment la reine du crime Agatha Christie concevait d'incroyables alibis et intrigues criminelles en mangeant des pommes dans un bain chaud, et percez la neuroscience cognitive de l'activation du réseau en mode par défaut (DMN) et de la mastication."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant christie-bathtub-brainstorming est basée sur <strong>Vérification Historique issue de la biographie d'Agatha Christie *Une autobiographie (An Autobiography)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Agatha Christie *Une autobiographie (An Autobiography)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation du réseau en mode par défaut (DMN) via les bains chauds et la mastication
+## 1. Activation du réseau en mode par défaut (DMN) via les bains chauds et la mastication
 
 Immerger le corps dans une eau chaude (38°C–40°C) dilate les vaisseaux sanguins, améliore la circulation et active le système parasympathique, ralentissant le rythme cardiaque et relâchant la tension musculaire. Dans cet état de relaxation, le cerveau désactive le Réseau Exécutif Central (CEN) pour enclencher le Réseau en Mode par Défaut (DMN). Sous l'effet du DMN, le cerveau reconfigure spontanément des éléments de mémoire dispersés, faisant émerger des solutions créatives. Y associer la mastication d'une pomme envoie des signaux au cortex préfrontal via le nerf trijumeau, abaissant le taux de cortisol.
 
 ---
 
-## Précautions & Conseils : Libérer la tension obsessionnelle & Favoriser une relaxation physique totale
-
-L'objectif de cette routine de relaxation n'est pas de forcer les réponses. Si vous ressentez une pression obsessionnelle à « produire des idées » dans votre bain, votre système sympathique se réactive et interrompt le DMN. Laissez votre problème de côté et concentrez-vous sur la chaleur de l'eau et la texture du fruit pour libérer la tension préfrontale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'objectif de cette routine de relaxation n'est pas de forcer les réponses. Si 
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Libérer la tension obsessionnelle & Favoriser une relaxation physique totale
+
+L'objectif de cette routine de relaxation n'est pas de forcer les réponses. Si vous ressentez une pression obsessionnelle à « produire des idées » dans votre bain, votre système sympathique se réactive et interrompt le DMN. Laissez votre problème de côté et concentrez-vous sur la chaleur de l'eau et la texture du fruit pour libérer la tension préfrontale.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi le brainstorming est-il si efficace en mangeant des pommes dans un bain chaud ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'objectif de cette routine de relaxation n'est pas de forcer les réponses. Si 
       Le bain chaud ralentit le rythme cardiaque et favorise le système parasympathique pour activer le DMN, tandis que la mastication d'une pomme stimule le cortex préfrontal via le nerf trijumeau, combinant relaxation physique et clarté mentale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe-t-il une méthode alternative de relaxation physique pour activer le DMN sans baignoire ?</span>

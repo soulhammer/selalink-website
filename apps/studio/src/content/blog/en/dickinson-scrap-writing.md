@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Great Inspiration on the Back of an Envelope: Emily Dickinson's Scrap Writing Habit and Incubation Relaxation"
 description: "Discover how American poetic genius Emily Dickinson spontaneously scribbled poems on receipts and wrappers while baking bread in her kitchen. Explore the cognitive neuroscience of Default Mode Network (DMN) activation and the Incubation Effect."
 pubDate: "2026-05-02"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Emily Dickinson's 'rece
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding dickinson-scrap-writing is based on <strong>Historical Verification from Richard B. Sewall's Biography *The Life of Emily Dickinson* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Richard B. Sewall's Biography *The Life of Emily Dickinson* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Incubation Relaxation via Physical Repetition and Default Mode Network (DMN) Activation
+## 1. Incubation Relaxation via Physical Repetition and Default Mode Network (DMN) Activation
 
 Creativity is highly stifled when the brain forces complex logical generation while sitting statically at a desk. In contrast, engaging in analog, physically repetitive tasks—such as kneading dough or washing dishes—dramatically enhances creative synthesis. Cognitive neuroscience calls this the 'Incubation Effect'. By momentarily releasing the prefrontal cortex's heavy Cognitive Control, the brain shifts into the Default Mode Network (DMN). In this relaxed state, fragmented memories and subconscious linguistic elements fuse freely, surfacing as sudden poetic imagery or brilliant solutions. Because insights generated this way degrade from Working Memory within seconds, searching for a perfect notebook guarantees their loss. Dickinson's habit of instantly externalizing thoughts onto the nearest scrap of paper perfectly counteracts memory volatility, locking down insights before they evaporate.
 
 ---
 
-## Caution & Tips: Rejecting Perfectionism & Preserving Ideas in Their Raw State
-
-The absolute core of capturing creative sparks is 'rapid preservation in a raw state', not neat organization. If you delay recording to search for a beautiful diary or open a neatly formatted digital app, the delicate creative cues residing in your working memory will permanently evaporate. Whether it's a torn receipt, a coffee coaster, or the back of your hand, you must frantically scribble down at least one anchoring keyword the exact second the inspiration hits.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The absolute core of capturing creative sparks is 'rapid preservation in a raw s
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Rejecting Perfectionism & Preserving Ideas in Their Raw State
+
+The absolute core of capturing creative sparks is 'rapid preservation in a raw state', not neat organization. If you delay recording to search for a beautiful diary or open a neatly formatted digital app, the delicate creative cues residing in your working memory will permanently evaporate. Whether it's a torn receipt, a coffee coaster, or the back of your hand, you must frantically scribble down at least one anchoring keyword the exact second the inspiration hits.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Isn't opening a smartphone memo app much faster than looking for scrap paper and a pencil?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The absolute core of capturing creative sparks is 'rapid preservation in a raw s
       While the digital action may seem faster, unlocking a screen, locating an app, and accidentally glimpsing push notifications forces your brain to process new stimuli. This completely overwrites the fragile incubated idea in your working memory, causing it to evaporate. A physical pencil and a scrap of paper create zero cognitive friction, allowing pure, unfiltered translation of thought.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Isn't it better for efficiency and creativity to hyper-focus and execute household chores meticulously?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Um escudo para manter a equanimidade em meio ao sofrimento das favelas? A rotina de silêncio matinal da Madre Teresa"
 description: "A Madre Teresa serviu a vida inteira nas favelas de Calcutá, Índia. Conheça os benefícios científicos e as dicas práticas de 15 minutos da sua rotina de 'silêncio às 4:30 da manhã', que preparava a rede de empatia e o controle emocional do seu cérebro."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Neste post, examinamos os benefícios neurocientíficos da rotina de 'contempla�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre teresa-silent-contemplation é baseada em <strong>Biografias históricas e registros autobiográficos da Madre Teresa & pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos da Madre Teresa & pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Preparação da rede de empatia e supressão da hiperatividade da amígdala
+## 1. Preparação da rede de empatia e supressão da hiperatividade da amígdala
 
 A contemplação silenciosa nas primeiras horas da manhã suprime a hiperexcitação do sistema nervoso simpático e estabiliza o eixo HPA que regula os hormônios do estresse. Isso inibe a hiperatividade na amígdala. Simultaneamente, fortalece a conectividade funcional entre o córtex pré-frontal e as regiões emocionais, condicionando a rede de empatia e o controle emocional.
 
 ---
 
-## O erro de reprimir pensamentos no silêncio e dicas para desapegar
-
-Ao praticar o silêncio, tentar reprimir preocupações pensando 'não devo pensar nisso' gera um efeito rebote em que esses pensamentos giram com mais intensidade. Quando surgirem pensamentos, não lute para controlá-los; observe-os imparcialmente como nuvens passageiras e redirecione o foco para a respiração.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Ao praticar o silêncio, tentar reprimir preocupações pensando 'não devo pens
   </p>
 </div>
 
+---
+
+## 3. O erro de reprimir pensamentos no silêncio e dicas para desapegar
+
+Ao praticar o silêncio, tentar reprimir preocupações pensando 'não devo pensar nisso' gera um efeito rebote em que esses pensamentos giram com mais intensidade. Quando surgirem pensamentos, não lute para controlá-los; observe-os imparcialmente como nuvens passageiras e redirecione o foco para a respiração.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que devo fazer se preocupações e listas de tarefas continuarem surgindo durante a meditação?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Ao praticar o silêncio, tentar reprimir preocupações pensando 'não devo pens
       É um fenômeno natural do cérebro tentando operar seus processos. Não lute contra os pensamentos; dê um passo atrás e reconheça: 'Ah, estou pensando nas tarefas de hoje', observando-os passar como nuvens. Traga suavemente a consciência de volta à respiração.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>A Madre Teresa praticava por uma hora; reduzir para 10 a 15 minutos ainda é eficaz para o cérebro?</span>

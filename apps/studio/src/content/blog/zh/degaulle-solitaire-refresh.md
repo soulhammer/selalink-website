@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "总统办公室的单人纸牌游戏：夏尔·戴高乐的接龙游戏与前额叶决策疲劳消除习惯"
 description: "探索在危机中挽救法国的英雄夏尔·戴高乐在繁重政务之余通过纸牌接龙舒缓身心的习惯，揭示非语言模式匹配如何关闭前额叶决策过滤器（Decision-making filters）与抚平杏仁核过载的神经科学原理。"
 pubDate: "2026-03-28"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 degaulle-solitaire-refresh 的内容基于 <strong>夏尔·戴高乐回忆录《战争回忆录（Mémoires de guerre）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>夏尔·戴高乐回忆录《战争回忆录（Mémoires de guerre）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 缓解决策疲劳（Decision Fatigue）与非语言模式匹配平抑杏仁核机制
+## 1. 缓解决策疲劳（Decision Fatigue）与非语言模式匹配平抑杏仁核机制
 
 长耗时投入于高阶商业抉择或战略解题中，会彻底耗尽大脑前额叶皮层（PFC）的葡萄糖预算，使其沦入“决策疲劳（Decision Fatigue）”状态。在此状态下，应激霍尔蒙皮质醇飙升，杏仁核（Amygdala）处于持续过载兴奋中。在固定规则下开展如接龙纸牌这般毫无威胁要素的单人模式整理活动，能够将大脑从“主动执行/判断模式”瞬间切重至“被动视觉匹配模式”。认知神经科学研究表明，这种非语言的空间专注能够暂时关关停前额叶皮层的决策过滤器（Decision-making filters），使工作记忆网络获得急速的能量修复，同时重理前额叶皮层与杏仁核间的功能连接性（Functional Connectivity），全面提升情绪恢复力。
 
 ---
 
-## 注意事项与提示：通过纸质匹配阻断视听数字过载污染
-
-即便在休息时也用手机刷短视频或玩手机游戏，屏幕蓝光与无休止的数字有声资讯会让前额叶皮层的认知过滤器始终处于开启审查状态，从而引发慢性大脑疲劳。必须像戴高乐那样在10分钟里彻底关停数字推送，开展真正能用手触碰的实体纸牌、拼图或填色等非语言纸质匹配活动，前额叶皮层的决策判断模式方能真正下线并享受深层认知复原。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：通过纸质匹配阻断视听数字过载污染
+
+即便在休息时也用手机刷短视频或玩手机游戏，屏幕蓝光与无休止的数字有声资讯会让前额叶皮层的认知过滤器始终处于开启审查状态，从而引发慢性大脑疲劳。必须像戴高乐那样在10分钟里彻底关停数字推送，开展真正能用手触碰的实体纸牌、拼图或填色等非语言纸质匹配活动，前额叶皮层的决策判断模式方能真正下线并享受深层认知复原。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>借助手机扑克接龙应用进行游戏，能否获得同等的决策疲劳舒缓效果？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       无法达成同等效果。手机应用散发的屏显蓝光、弹窗广告与各类推送通知会持续拉动前额叶皮层的注意力网络。只有使用带有真实触感反馈的纸质卡牌等实体工具，通过体感皮层与纸张介质的物理交互，方能卸下视觉皮层的认知过载。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若扑克牌接龙卡壳未能理顺打通，会不会反而引发心理压力？</span>

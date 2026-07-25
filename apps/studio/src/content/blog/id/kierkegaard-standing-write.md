@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Menulis Sambil Berdiri Mengenakan Topi Segera Setelah Jalan-Jalan: Kebiasaan Penangkapan Instan dan Pemanasan Kognitif Søren Kierkegaard"
 description: "Pelajari bagaimana filsuf eksistensialis Søren Kierkegaard melestarikan wawasan yang sekilas dengan menulis sambil berdiri di meja tinggi segera setelah jalan-jalan tanpa melepas topi atau mantelnya. Temukan neurosains pemanasan kognitif."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai kierkegaard-standing-write didasarkan pada <strong>Verifikasi Historis dari *Journals of Søren Kierkegaard*, Biografi karya Joakim Garff & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Journals of Søren Kierkegaard*, Biografi karya Joakim Garff & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pemanasan Kognitif dan Pelestarian Memori Kerja
+## 1. Pemanasan Kognitif dan Pelestarian Memori Kerja
 
 Segera setelah aktivitas fisik seperti berjalan-jalan, otak memasuki kondisi <strong>Pemanasan Kognitif</strong> yang didorong oleh lonjakan <strong>dopamin</strong> dan <strong>norepinefrin</strong>. Mengubah pemikiran menjadi tulisan selama jendela neurohormonal ini memindahkan wawasan secara langsung ke jaringan prefrontal logis tanpa kehilangan informasi. Selain itu, bekerja sambil berdiri mempertahankan keterlibatan otot postural, melestarikan aliran darah serebral dan mempercepat pemrosesan <strong>Memori Kerja</strong>.
 
 ---
 
-## Perhatian: Protokol Penangkapan Segera Setelah Pulang untuk Mengeliminasi Residu Perhatian
-
-Saat beralih dari gerakan ke lingkungan rumah yang diam, otak secara alami menurunkan gairah eksekutif. Menghabiskan bahkan 5 menit untuk membongkar tas, melepas sepatu, atau duduk di sofa menyebabkan konteks rumit dari wawasan kreatif lenyap. Untuk mencegah degradasi kognitif, tetapkan urutan operasional Anda: luangkan waktu 5 hingga 10 menit untuk menulis sambil berdiri.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Saat beralih dari gerakan ke lingkungan rumah yang diam, otak secara alami menur
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Protokol Penangkapan Segera Setelah Pulang untuk Mengeliminasi Residu Perhatian
+
+Saat beralih dari gerakan ke lingkungan rumah yang diam, otak secara alami menurunkan gairah eksekutif. Menghabiskan bahkan 5 menit untuk membongkar tas, melepas sepatu, atau duduk di sofa menyebabkan konteks rumit dari wawasan kreatif lenyap. Untuk mencegah degradasi kognitif, tetapkan urutan operasional Anda: luangkan waktu 5 hingga 10 menit untuk menulis sambil berdiri.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah wajib menulis sambil berdiri? Bisakah saya duduk saja?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Saat beralih dari gerakan ke lingkungan rumah yang diam, otak secara alami menur
       Duduk segera setelah kembali ke rumah memicu penurunan cepat dalam tonus motorik fisik dan gairah otonom, menenangkan otak ke dalam relaksasi mendalam. Berdiri mempertahankan keterlibatan motorik dan kewaspadaan fisik, melindungi kapasitas memori kerja.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mempraktikkan rutinitas ini jika saya tidak memiliki meja berdiri atau konter tinggi?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "尤利乌斯·恺撒的“同步口述”：高度专注的任务切换艺术与工作记忆拓宽指南"
 description: "探索尤利乌斯·恺撒如何在行军或战车途中同时向数位书记官口述多封不同主题的公文与军令。揭示重塑工作记忆（Working Memory）容量、升华前额叶认知灵活性的神经科学原理与3步骤指南。"
 pubDate: "2026-01-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 julius-caesar-multi-dictation 的内容基于 <strong>普鲁塔克《比较列传（Parallel Lives）》与老普林尼《自然史（Naturalis Historia）》史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>普鲁塔克《比较列传（Parallel Lives）》与老普林尼《自然史（Naturalis Historia）》史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 工作记忆（Working Memory）拓宽与前额叶认知灵活性（Cognitive Flexibility）机制
+## 1. 工作记忆（Working Memory）拓宽与前额叶认知灵活性（Cognitive Flexibility）机制
 
 <strong>工作记忆（Working Memory）</strong>乃是脑部在开展高级执掌决策之际，暂存与加工信息的“认知工作台”。恺撒的同步口述依赖于极高阶的顶层注意力调控：在大脑短时缓存多位书记官公文上下文数据的同时，瞬时激活下一项任务所需的逻辑神经回路。此类有意识且精准的接续任务切换训练，能强力巩固<strong>前额叶皮层（Prefrontal Cortex）</strong>的神经网络，拓宽工作记忆容量并跨越式拉升<strong>认知灵活性（Cognitive Flexibility）</strong>。
 
 ---
 
-## 注意事项：剔除散乱并发多任务，专注“连续性单一聚焦”指南
-
-并行处理的科学本质绝对并非将注意力撕裂分散于多条赛道上的散乱多任务处理（Multitasking）。正如恺撒在每分每秒向特定书记官口述时均倾注100%的专注、随后有计划地切入下一主题那般，务必恪守“连续性单一聚焦（Sequential Single-Focus）”，方能在不引发工作记忆过载的前提下交出极高品质的产出。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：剔除散乱并发多任务，专注“连续性单一聚焦”指南
+
+并行处理的科学本质绝对并非将注意力撕裂分散于多条赛道上的散乱多任务处理（Multitasking）。正如恺撒在每分每秒向特定书记官口述时均倾注100%的专注、随后有计划地切入下一主题那般，务必恪守“连续性单一聚焦（Sequential Single-Focus）”，方能在不引发工作记忆过载的前提下交出极高品质的产出。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>同步口述与常规的低效多任务处理（Multitasking）有何本质区别？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       常规多任务处理宛如边刷即时消息边撰写邮件，将注意力同时撕裂投射于多条赛道，诱发严重的认知卡顿与时耗。反之，同步口述采用“连续性单一聚焦”模式——在任一微观瞬间向单一位书记官倾注100%的专注，随后按预设逻辑无缝切换至下一语境。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>能否使用键盘打字替代口述来践行这套模式？</span>

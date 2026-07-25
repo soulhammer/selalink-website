@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Gigante Literário que Coletava Sementes em Seu Jardim: A Rotina Matinal de Observação e Restauração da Atenção de Goethe"
 description: "Descubra como Johann Wolfgang von Goethe obtinha inspiração observando plantas com uma lupa todas as manhãs. Explore a Teoria da Restauração da Atenção (ART), a geometria fractal e sua rotina de caminhada botânica matinal."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a psicologia ambiental e a neurociência cognitiva
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre goethe-botany-observation é baseada em <strong>Verificação Histórica de *Poesia e Verdade (Dichtung und Wahrheit)* e *A Metamorfose das Plantas* de Johann Wolfgang von Goethe, Arquivos do Museu de Weimar e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Poesia e Verdade (Dichtung und Wahrheit)* e *A Metamorfose das Plantas* de Johann Wolfgang von Goethe, Arquivos do Museu de Weimar e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Exposição à Natureza e a Ciência Cerebral da Teoria da Restauração da Atenção (ART)
+## 1. Exposição à Natureza e a Ciência Cerebral da Teoria da Restauração da Atenção (ART)
 
 Analisar dados em telas ou ler textos densos mantém o córtex pré-frontal em um estado de esgotamento de energia chamado <strong>Atenção Dirigida</strong>. A exposição prolongada causa Fadiga da Atenção Dirigida, reduzindo a criatividade. Segundo a <strong>Teoria da Restauração da Atenção (ART)</strong> de Stephen Kaplan, observar elementos naturais (geometria fractal, folhas ou espirais) aciona a 'Fascinação Suave' (Atenção Involuntária) sem esforço mental. Uma caminhada de 15 minutos observando a natureza reinicia a fadiga pré-frontal e reduz o cortisol.
 
 ---
 
-## Precaução: Protocolo de Observação de Fractais Naturais para Restauração Pré-frontal
-
-Textos digitais e infográficos exigem Atenção Dirigida, esgotando o córtex pré-frontal. Observar a geometria fractal natural (nervuras de folhas, cascas, espirais) por 15 minutos ativa a restauração da atenção sem esforço mental. Para um reinício completo, evite olhar a tela do celular durante a caminhada.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Textos digitais e infográficos exigem Atenção Dirigida, esgotando o córtex p
   </p>
 </div>
 
+---
+
+## 3. Precaução: Protocolo de Observação de Fractais Naturais para Restauração Pré-frontal
+
+Textos digitais e infográficos exigem Atenção Dirigida, esgotando o córtex pré-frontal. Observar a geometria fractal natural (nervuras de folhas, cascas, espirais) por 15 minutos ativa a restauração da atenção sem esforço mental. Para um reinício completo, evite olhar a tela do celular durante a caminhada.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Observar plantas de interior ou vasos de flores é eficaz para restaurar a atenção?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Textos digitais e infográficos exigem Atenção Dirigida, esgotando o córtex p
       Sim. Examinar micro-padrões em plantas de interior ativa a Fascinação Suave, reduzindo a fadiga pré-frontal. No entanto, a observação ao ar livre combinada com luz solar e caminhada leve oferece a maior restauração cognitiva.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É realmente necessário carregar uma lupa e envelopes de coleta como Goethe?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eliminar el miedo a empezar: La rutina de cartas de calentamiento de John Steinbeck"
 description: "El novelista John Steinbeck escribía cartas diarias a su editor para disolver la procrastinación. Descubra cómo la escritura libre activa la corteza motora del lenguaje y supera la inercia."
 pubDate: "2026-05-07"
@@ -36,22 +37,20 @@ En este artículo, examinamos cómo la rutina de Steinbeck calma las respuestas 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre steinbeck-editor-letter se basa en <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
+      Este contenido se basa en <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Rutas neuronales para superar el perfeccionismo y la ansiedad de la amígdala
+## 1. Rutas neuronales para superar el perfeccionismo y la ansiedad de la amígdala
 
 Cuando el cerebro percibe que una tarea es crucial, la amígdala activa una alarma inconsciente que provoca procrastinación. Iniciar con una escritura libre e insignificante envía comentarios de 'entorno seguro', calmando la amígdala y activando las áreas motoras del lenguaje para facilitar la tarea principal.
 
 ---
 
-## Precauciones y consejos
-
-La principal trampa de una carta de calentamiento es dejar que se convierta en otra forma de procrastinación. Pasar más de 30 minutos escribiendo agotará tu energía. Limita estrictamente el calentamiento a un máximo de 5 minutos y pasa de inmediato a tu tarea principal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ La principal trampa de una carta de calentamiento es dejar que se convierta en o
     Con tus dedos ágiles y la corteza del lenguaje activa, pasa de inmediato a la pantalla de tu trabajo principal sin dudar.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+La principal trampa de una carta de calentamiento es dejar que se convierta en otra forma de procrastinación. Pasar más de 30 minutos escribiendo agotará tu energía. Limita estrictamente el calentamiento a un máximo de 5 minutos y pasa de inmediato a tu tarea principal.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

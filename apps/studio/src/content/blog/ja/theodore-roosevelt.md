@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "喘息の限界を筋トレで克服したルーズベルトの朝の高強度身体鍛錬"
 description: "ラシュモア山に顔が刻まれたアメリカの偉大な大統領であり、極限の肉体疲労を経験した直後に脳が完全に覚醒する超集中読書ルーティンを貫きました。"
 pubDate: "2026-07-06"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「theodore-roosevelt」は <strong>シーモア・ルーズベルトの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>シーモア・ルーズベルトの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 成功をもたらす脳科学的原理の分析
+## 1. 成功をもたらす脳科学的原理の分析
 
 限界抵抗を乗り越える朝の短時間高強度運動は、大脳皮質と前頭葉へ供給される酸素飽和度と血流活性を急激に膨張させます。この刺激は脳神経細胞のネットワーク形成を主導する脳由来神経栄養因子（BDNF）の分泌を最高潮に促進して海馬の認知ニューロン生成を助け、認知疲労を引き起こすコルチゾールを消去して最高の脳意思決定力を呼び醒まします。
 
 ---
 
-## 定着させるための行動科学的アドバイス
-
-一日の日課を始める前に、過度な長時間トレーニングで体力と意志のバッテリーを全量消耗しないでください。3分間の軽やかで強烈なミクロ運動で脳の覚醒状態を刺激すれば十分です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 定着させるための行動科学的アドバイス
+
+一日の日課を始める前に、過度な長時間トレーニングで体力と意志のバッテリーを全量消耗しないでください。3分間の軽やかで強烈なミクロ運動で脳の覚醒状態を刺激すれば十分です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>朝の高強度トレーニングを終えると、かえって眠気が襲ってきます。</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       それは運動強度をオーバーペースで注ぎ込み、疲労蓄積物質が急増したためです。息が切れる臨界点に達したらすぐに3分間のタイマーできっぱり終了させることで、爽快な覚醒ドパミンだけが脳内に充填されます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>体力が非常に弱い初心者はどのように始めるべきですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le maître qui arpentait 4 km dans Barcelone : La méthode de marche créative et la routine d'inspiration organique d'Antoni Gaudí"
 description: "Découvrez comment l'architecte de génie Antoni Gaudí a transposé les structures naturelles dans l'architecture en marchant 4 km par jour dans Barcelone. Explorez la neuroscience cognitive de la marche créative."
 pubDate: "2026-04-13"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive et la psychologie env
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant gaudi-nature-walk est basée sur <strong>Vérification Historique issue de la biographie de Gijs van Hensbergen *Gaudí : La Biographie* & de la Recherche en Neurosciences Cognitives et Psychologie Environnementale</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Gijs van Hensbergen *Gaudí : La Biographie* & de la Recherche en Neurosciences Cognitives et Psychologie Environnementale</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Marche physique et flexibilité cognitive : Activation de l'hippocampe et du cortex visuel
+## 1. Marche physique et flexibilité cognitive : Activation de l'hippocampe et du cortex visuel
 
 Rester assis a bloquer sur un problème enferme le cortex préfrontal dans une rigidité cognitive. La routine de marche de 4 km de Gaudí offrait une activation physique et une stimulation visuelle pour débloquer l'esprit. La marche augmente le rythme cardiaque, irriguant l'<strong>hippocampe</strong> et le cortex préfrontal en sang oxygéné. Une étude de l'Université Stanford a prouvé que la marche augmente la créativité de 60 % en moyenne par rapport à la position assise. De plus, observer des formes naturelles stimule le <strong>Cortex Visuel</strong>, permettant aux souvenirs de se combiner en nouvelles structures.
 
 ---
 
-## Mise en garde : Prioriser l'observation structurelle organique sur l'exercice physique intense
-
-Pour Gaudí, la marche n'était pas une séance de sport intense pour brûler des calories, mais un processus de conception spatiale délibéré : scanner les formes naturelles et les relier a la géométrie. Évitez de vous précipiter vers votre destination. Adaptez votre allure pour permettre a votre regard d'observer les motifs de la nature et de l'architecture.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour Gaudí, la marche n'était pas une séance de sport intense pour brûler de
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Prioriser l'observation structurelle organique sur l'exercice physique intense
+
+Pour Gaudí, la marche n'était pas une séance de sport intense pour brûler des calories, mais un processus de conception spatiale délibéré : scanner les formes naturelles et les relier a la géométrie. Évitez de vous précipiter vers votre destination. Adaptez votre allure pour permettre a votre regard d'observer les motifs de la nature et de l'architecture.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il obligatoire de marcher dans des parcs naturels ou sentiers pour que cela fonctionne ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour Gaudí, la marche n'était pas une séance de sport intense pour brûler de
       Si les paysages naturels sont idéaux pour restaurer l'attention, marcher dans des ruelles urbaines atypiques ou observer l'architecture stimule tout autant le cortex visuel, constituant une excellente alternative.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je remplacer la marche par du jogging rapide ou du tapis de course ?</span>

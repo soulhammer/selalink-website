@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Maestro Arsitektur Pembuat Gebrakan Garis Lurus: Rutinitas Sketsa Kurva Organik Zaha Hadid"
 description: "Arsitek pemenang Pritzker Prize, Zaha Hadid. Memperkenalkan metode stimulasi otak untuk merancang ruang 3D dengan menggambar kurva organik secara bebas lewat tangan, dilengkapi panduan 3 langkah."
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ Artikel ini mempelajari rutinitas sketsa kurva bebas Zaha Hadid dan menyajikan p
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai zaha-hadid-fluid-sketching didasarkan pada <strong>Rekam sejarah biografi dan catatan autobiografi Zaha Hadid & penelitian neurosains kognitif</strong>.
+      Konten ini didasarkan pada <strong>Rekam sejarah biografi dan catatan autobiografi Zaha Hadid & penelitian neurosains kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Sirkuit Pemrosesan Visuospasial Otak Kanan
+## 1. Stimulasi Sirkuit Pemrosesan Visuospasial Otak Kanan
 
 Ketergantungan pada panduan kaku dan garis lurus membuat area logika otak kiri mendominasi dan memperkuat pola pikir lama. Menggambar <strong>sketsa tangan organik</strong> tanpa batasan mengaktifkan area pemrosesan visuospasial otak kanan, memaksimalkan ide visual baru.
 
 ---
 
-## Peringatan Terhadap Obsesi Presisi dan Kesempurnaan di Awal
-
-Jika Anda menggunakan penggaris atau mengoreksi ketidaksimetrisan di awal karena ingin 'membuat gambar bagus', sirkuit pemikiran bebas otak akan tertutup. Untuk 5 menit pertama, fokuslah hanya pada alur garis. Rancang lingkungan fisik yang memicu tindakan secara alami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jika Anda menggunakan penggaris atau mengoreksi ketidaksimetrisan di awal karena
   </p>
 </div>
 
+---
+
+## 3. Peringatan Terhadap Obsesi Presisi dan Kesempurnaan di Awal
+
+Jika Anda menggunakan penggaris atau mengoreksi ketidaksimetrisan di awal karena ingin 'membuat gambar bagus', sirkuit pemikiran bebas otak akan tertutup. Untuk 5 menit pertama, fokuslah hanya pada alur garis. Rancang lingkungan fisik yang memicu tindakan secara alami.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya dapat menggunakan rutinitas ini jika tidak memiliki keterampilan menggambar sama sekali?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jika Anda menggunakan penggaris atau mengoreksi ketidaksimetrisan di awal karena
       Ya, tentu saja! Tujuannya bukan membuat karya seni, melainkan latihan kognitif untuk menstimulasi sirkuit otak kanan melalui gerakan tangan. Coretan sederhana pun memberikan hasil sempurna.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah menggunakan stylus di tablet digital memberikan efek yang sama?</span>

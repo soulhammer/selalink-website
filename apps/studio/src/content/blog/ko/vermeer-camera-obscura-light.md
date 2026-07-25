@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "'진주 귀걸이를 한 소녀'의 거장? 페르메이르의 아침 창가 빛 관찰 루틴"
 description: "빛의 거장 요하네스 페르메이르가 카메라 옵스큐라로 빛의 음영을 정밀 관찰하며 정서적 고요와 입체적 영감을 얻었던 아침 빛 관조 습관."
 pubDate: "2026-04-05"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>페르메이르 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 vermeer-camera-obscura-light 루틴을 다룹니다.
+      본 콘텐츠는 <strong>페르메이르 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 시각 대비 감도 향상과 자율신경계 정적이 선사하는 고차원 인지 회복
+## 1. 시각 대비 감도 향상과 자율신경계 정적이 선사하는 고차원 인지 회복
 
 현대인의 눈과 뇌는 모니터의 번뜩이는 인공 자극과 빠른 프레임에 노출되어 지속적으로 피로가 누적되어 있습니다. 페르메이르처럼 아침 자연 햇살과 사물의 오묘한 그림자를 가만히 관조하는 행위는 뇌의 시각 피질 대비 감도를 자극하면서 부교감 신경계를 활성화하는 <strong>'시각적 미니 명상'</strong>입니다. 시각적 소음이 차단되고 뇌의 인지 리셋이 이뤄져 본질적 형태와 영감을 알아채게 됩니다.
 
 ---
 
-## 스마트폰을 치우고 손대지 않은 순수 조도를 관찰하세요
-
-카메라 옵스큐라의 핵심은 사물을 조급하게 해석하려 하지 않고 렌즈에 투영된 빛의 있는 그대로를 받아들이는 것입니다. 5분 동안 어떤 디지털 장비도 잡지 말고 빛의 입자를 있는 그대로 감상하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 스마트폰을 치우고 손대지 않은 순수 조도를 관찰하세요
+
+카메라 옵스큐라의 핵심은 사물을 조급하게 해석하려 하지 않고 렌즈에 투영된 빛의 있는 그대로를 받아들이는 것입니다. 5분 동안 어떤 디지털 장비도 잡지 말고 빛의 입자를 있는 그대로 감상하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>비가 오거나 흐린 날에는 이 루틴을 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       흐린 날의 은은하고 부드러운 유백색 빛조차 훌륭한 조도 감상 대상입니다. 빗방울이 유리창에 맺히는 빛의 굴절을 관찰해도 좋습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>실제로 페르메이르처럼 미술이나 디자인 일을 하지 않아도 효과가 있나요?</span>

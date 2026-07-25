@@ -507,6 +507,10 @@
           "비만 예방"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/bshorthair_care.png"
   }
 }

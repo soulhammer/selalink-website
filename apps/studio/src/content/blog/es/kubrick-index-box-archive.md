@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Diseñar la Perfección con un Segundo Cerebro: El Hábito de Archivo con Fichas y Descarga Cognitiva de Stanley Kubrick"
 description: "Descubra cómo el director Stanley Kubrick creó obras maestras reduciendo la carga de la memoria de trabajo mediante un archivo de fichas. Explore la descarga cognitiva, el chunking, la optimización prefrontal y un marco de 3 pasos."
 pubDate: "2026-03-18"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva y la psicología
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre kubrick-index-box-archive se basa en <strong>Verificación Histórica de *The Stanley Kubrick Archives* (Alison Castle), Archivos de Kubrick e Investigación en Neurociencia Cognitiva y Psicología Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *The Stanley Kubrick Archives* (Alison Castle), Archivos de Kubrick e Investigación en Neurociencia Cognitiva y Psicología Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Descarga Cognitiva de la Memoria de Trabajo y Estrategia de Chunking
+## 1. Descarga Cognitiva de la Memoria de Trabajo y Estrategia de Chunking
 
 La capacidad de la <strong>Memoria de Trabajo</strong> humana está limitada a retener temporalmente entre 4 y 7 unidades de información; forzar la retención de grandes volúmenes de datos provoca una rápida <strong>Sobrecarga Cognitiva (Cognitive Overload)</strong>. El archivo con fichas de Kubrick es un ejemplo de <strong>Descarga Cognitiva (Cognitive Offloading)</strong>: transferir la tensión de la memoria a un medio físico externo. Estructurar información en <strong>bloques (chunking)</strong> fuera del cerebro libera a la <strong>Corteza Prefrontal</strong> del estrés memorístico, permitiendo concentrar toda la energía ejecutiva en descubrir conexiones novedosas y diseñar narrativas complejas.
 
 ---
 
-## Precaución: Evite Copiar Texto Literalmente y Concéntrese en 'Una Ficha, Una Idea'
-
-Un error común al archivar es copiar texto original sin procesar. Esto genera una falsa ilusión de comprensión conocida como <strong>Error de Metacognición (Metacognition Error)</strong>. Para permitir una asociación mental flexible, respete la regla de 'Una Ficha, Una Idea': sintetice cada concepto con sus propias palabras en unas dos frases.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Un error común al archivar es copiar texto original sin procesar. Esto genera u
   </p>
 </div>
 
+---
+
+## 3. Precaución: Evite Copiar Texto Literalmente y Concéntrese en 'Una Ficha, Una Idea'
+
+Un error común al archivar es copiar texto original sin procesar. Esto genera una falsa ilusión de comprensión conocida como <strong>Error de Metacognición (Metacognition Error)</strong>. Para permitir una asociación mental flexible, respete la regla de 'Una Ficha, Una Idea': sintetice cada concepto con sus propias palabras en unas dos frases.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Puedo crear un Segundo Cerebro usando aplicaciones digitales en lugar de fichas de papel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Un error común al archivar es copiar texto original sin procesar. Esto genera u
       ¡Sí, totalmente! Herramientas como Notion, Obsidian o notas dinámicas crean un Segundo Cerebro excelente. Lo importante no es el soporte, sino mantener el 'Principio de Modularidad' (un solo concepto por nota) y el 'Principio de Conectividad' (combinar notas en lugar de guardarlas en carpetas).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuántas fichas debo acumular antes de empezar el barajado aleatorio y la asociación creativa?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "与先贤对话：马基雅维利的仪式感阅读习惯"
 description: "政治家尼科洛·马基雅维利即使流放乡间，每天傍晚也会换上宫廷礼服阅读历史经典。本文探讨“着衣认知效应”的科学原理，揭示服装的仪式感如何激活大脑并转变心态。"
 pubDate: "2026-04-01"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 machiavelli-regal-reading 的内容基于 <strong>考证自尼科洛·马基雅维利书信史料《马基雅维利书信集（Letters of Machiavelli）》及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong> 撰写。
+      本内容基于 <strong>考证自尼科洛·马基雅维利书信史料《马基雅维利书信集（Letters of Machiavelli）》及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 着衣认知（Enclothed Cognition）效应与执行控制网络（Executive Control Network）的激活
+## 1. 着衣认知（Enclothed Cognition）效应与执行控制网络（Executive Control Network）的激活
 
 人类的认知系统会经历<strong>着衣认知（Enclothed Cognition）</strong>现象，即思维过程会强烈受所穿服装的象征意义影响。
 
@@ -55,9 +56,7 @@ faqs:
 
 ---
 
-## 阻断居家服松弛信号并转换至整洁服装以深入专注的准则
-
-核心不在于穿着昂贵或严肃的服装，而在于让大脑通过衣着察觉到“专注与工作模式”的独特角色身份。过紧或引发身体不适的强求正装会消耗认知资源；因此，设定一套既能与休息服明确区分、又能舒适专注的整洁便服标准最为理想。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 阻断居家服松弛信号并转换至整洁服装以深入专注的准则
+
+核心不在于穿着昂贵或严肃的服装，而在于让大脑通过衣着察觉到“专注与工作模式”的独特角色身份。过紧或引发身体不适的强求正装会消耗认知资源；因此，设定一套既能与休息服明确区分、又能舒适专注的整洁便服标准最为理想。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>居家办公或在家学习时，换掉睡衣穿上外出服真的有效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ faqs:
       是的，认知心理学关于“着衣认知（Enclothed Cognition）”的研究有力地证明了这一点。仅需将睡衣或家居服换成休闲西裤、衬衫等整洁服装，大脑就会将其视为从“休息语境”切换至“工作语境”的象征模式，从而减少拖延，大幅缩短进入高度专注状态的预热时间。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在不方便彻底更换成整套正装或外出服时，仅靠眼镜或手表等单一物品也能起作用吗？</span>

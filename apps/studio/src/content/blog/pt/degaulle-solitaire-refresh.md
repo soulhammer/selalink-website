@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Um Jogo de Paciência no Gabinete Presidencial: A Rotina de Alívio da Fadiga de Decisão de Charles de Gaulle"
 description: "Descubra como o presidente francês Charles de Gaulle descontraía do estresse de Estado jogando paciência. Explore a neurociência cognitiva de como a correspondência de padrões não verbais desativa os filtros pré-frontais de tomada de decisão e acalma a amídala."
 pubDate: "2026-03-28"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina da 'paciê
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre degaulle-solitaire-refresh é baseada em <strong>Verificação Histórica das Memórias de Charles de Gaulle *Memórias de Guerra (Mémoires de guerre)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Memórias de Charles de Gaulle *Memórias de Guerra (Mémoires de guerre)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mitigação da Fadiga de Decisão e Calma da Amídala Via Emparelhamento de Padrões Não Verbal
+## 1. Mitigação da Fadiga de Decisão e Calma da Amídala Via Emparelhamento de Padrões Não Verbal
 
 A tomada de decisão prolongada esgota a glicose no córtex pré-frontal (PFC), provocando 'Fadiga de Decisão'. Esse estado desencadeia picos de cortisol e mantém a amídala hiperativa. Realizar atividades estruturadas de correspondência de padrões sem ameaça — como organizar cartas na paciência — altera instantaneamente o processamento cerebral do 'Modo de Julgamento Executivo Ativo' para o 'Modo de Emparelhamento Visual Passivo'. A neurociência cognitiva demonstra que essa concentração não verbal silencia os filtros pré-frontais, permitindo repor energia.
 
 ---
 
-## Precauções e Dicas: Evitar a Sobrecarga Digital e Priorizar o Emparelhamento Analógico
-
-Tentar relaxar rolando vídeos curtos nas redes sociais ou jogando no celular mantém os filtros pré-frontais ativos, prolongando a fadiga de decisão. Para alcançar um descanso pré-frontal real como de Gaulle, desconecte-se das notificações por 10 minutos e realize atividades de correspondência analógica tátil e não verbal — como cartas de papel, quebra-cabeças ou colorir.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tentar relaxar rolando vídeos curtos nas redes sociais ou jogando no celular ma
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar a Sobrecarga Digital e Priorizar o Emparelhamento Analógico
+
+Tentar relaxar rolando vídeos curtos nas redes sociais ou jogando no celular mantém os filtros pré-frontais ativos, prolongando a fadiga de decisão. Para alcançar um descanso pré-frontal real como de Gaulle, desconecte-se das notificações por 10 minutos e realize atividades de correspondência analógica tátil e não verbal — como cartas de papel, quebra-cabeças ou colorir.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Jogar paciência em um aplicativo de celular oferece o mesmo alívio da fadiga de decisão?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tentar relaxar rolando vídeos curtos nas redes sociais ou jogando no celular ma
       Não. Aplicativos para celular emitem luz azul e notificações que acionam continuamente a atenção pré-frontal. Usar cartas físicas permite engajar o córtex somatossensorial enquanto se desativam os filtros executivos para uma recuperação superior.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Não conseguir terminar uma partida de paciência causa estresse adicional?</span>

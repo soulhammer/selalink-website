@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das tägliche Wortpensum auf einer Kartei erfassen: Ernest Hemingways quantitative Schreibkartei und Dopamin-Belohnungsroutine"
 description: "Erfahren Sie, wie Nobelpreisträger Ernest Hemingway sein tägliches Schreibpensum auf einer Wandkartei festhielt. Entdecken Sie die Neurowissenschaften der Selbstüberwachung (Self-Monitoring) und des Dopamin-Belohnungssystems."
 pubDate: "2026-02-05"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Kognitionswissenschaft hinter Ernest Hem
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu hemingway-word-count basiert auf <strong>Historische Überprüfung aus Ernest Hemingways *Paris – Ein Fest fürs Leben (A Moveable Feast)*, George Plimptons Interview (*Paris Review*, 1958) & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Ernest Hemingways *Paris – Ein Fest fürs Leben (A Moveable Feast)*, George Plimptons Interview (*Paris Review*, 1958) & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Selbstüberwachung (Self-Monitoring) und die Neurowissenschaften des Dopamin-Belohnungssystems
+## 1. Selbstüberwachung (Self-Monitoring) und die Neurowissenschaften des Dopamin-Belohnungssystems
 
 Das quantitative Erfassen des eigenen Verhaltens wird in der Psychologie als <strong>Selbstüberwachung (Self-Monitoring)</strong> bezeichnet. Wenn Arbeitsfortschritte visuell messbar werden, erhält das Gehirn direktes Feedback und aktiviert das <strong>Dopamin-Belohnungssystem</strong>. Das tägliche Aufschreiben verwandelt Anstrengung in sichtbare Ergebnisse und signalisiert dem <strong>präfrontalen Kortex</strong>, Motivation für den nächsten Schritt bereitzustellen. Hemingway nutzte diesen Dopamin-Kreislauf intuitiv für sein Schreibpensum.
 
 ---
 
-## Vorsichtsmaßnahme: Die tägliche ehrliche Dokumentation vor die reine Menge stellen
-
-Vager Aufwand führt zu vagen Ergebnissen. Der präfrontale Kortex aktiviert die Selbstkontrolle erst, wenn Leistung in exakten Zahlen erfasst wird. Unabhängig davon, ob die Zahlen hoch oder niedrig sind: Entscheidend ist das tägliche ehrliche Eintragen auf der Kartei.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Vager Aufwand führt zu vagen Ergebnissen. Der präfrontale Kortex aktiviert die
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Die tägliche ehrliche Dokumentation vor die reine Menge stellen
+
+Vager Aufwand führt zu vagen Ergebnissen. Der präfrontale Kortex aktiviert die Selbstkontrolle erst, wenn Leistung in exakten Zahlen erfasst wird. Unabhängig davon, ob die Zahlen hoch oder niedrig sind: Entscheidend ist das tägliche ehrliche Eintragen auf der Kartei.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum erfasste Ernest Hemingway sein tägliches Wortpensum auf einer Wandkartei?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Vager Aufwand führt zu vagen Ergebnissen. Der präfrontale Kortex aktiviert die
       Hemingway wollte Selbsttäuschung vermeiden und seinen Fortschritt sichtbar machen, um Disziplin zu wahren. Die visuelle Bestätigung aktivierte sein Dopaminsystem und förderte die Konzentration für den nächsten Tag.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist diese Dokumentationsroutine auch für allgemeine Aufgaben im Beruf oder beim Lernen effektiv?</span>

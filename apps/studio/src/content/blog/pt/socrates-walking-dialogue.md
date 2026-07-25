@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O filósofo que fazia perguntas descalço: O hábito de caminhada cognitiva de Sócrates"
 description: "Sócrates, a sabedoria da Grécia antiga que expandiu o pensamento caminhando continuamente. Explore os princípios neurocientíficos da caminhada estimulando o hipocampo e a flexibilidade cognitiva."
 pubDate: "2026-03-06"
@@ -31,25 +32,23 @@ Neste artigo, exploramos os princípios neurocientíficos do ritual de caminhada
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre socrates-walking-dialogue é baseada em <strong>Pesquisa histórica biográfica sobre Sócrates & pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa histórica biográfica sobre Sócrates & pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroplasticidade do Hipocampo e Flexibilidade Aeróbica
+## 1. Neuroplasticidade do Hipocampo e Flexibilidade Aeróbica
 
 Caminhar serve como uma potente bomba fisiológica que empurra oxigênio e fluxo sanguíneo para todo o cérebro. Aumenta a frequência cardíaca e desencadeia a secreção do Fator Neurotrófico Derivado do Cérebro (BDNF). O BDNF remodela as conexões sinápticas no hipocampo, atuando como lubrificante para a neuroplasticidade. Além disso, a pressão rítmica nas plantas dos pés suprime o loop excessivo da Rede de Modo Padrão (DMN).
 
 ---
 
-## Um Conselho Neurocientífico para uma Rotina de Sucesso
-
-O corpo em movimento reconecta os fusíveis do cérebro. Encarar um monitor não resolverá problemas difíceis quando a memória de trabalho estiver saturada. Saia para caminhar por 15 minutos como Sócrates para aumentar o fluxo sanguíneo cerebral. Seu cérebro sintetizará avanços lógicos no ritmo de seus passos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,9 +80,15 @@ O corpo em movimento reconecta os fusíveis do cérebro. Encarar um monitor não
   </p>
 </div>
 
+---
+
+## 3. Um Conselho Neurocientífico para uma Rotina de Sucesso
+
+O corpo em movimento reconecta os fusíveis do cérebro. Encarar um monitor não resolverá problemas difíceis quando a memória de trabalho estiver saturada. Saia para caminhar por 15 minutos como Sócrates para aumentar o fluxo sanguíneo cerebral. Seu cérebro sintetizará avanços lógicos no ritmo de seus passos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

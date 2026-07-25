@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Descoberta da visão criativa: A rotina de observação ultraprecisa da natureza de Shin Saimdang"
 description: "O método de treinamento de criatividade de Shin Saimdang, a artista proeminente da era Joseon, através da observação da natureza. Explica as bases científicas sobre como a observação matinal restaura a atenção."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ No post de hoje, examinamos a Teoria da Restauração da Atenção e o princípi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre saimdang-nature-observation é baseada em <strong>Pesquisa biográfica e histórica sobre a observação da natureza de Shin Saimdang e estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa biográfica e histórica sobre a observação da natureza de Shin Saimdang e estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teoria da Restauração da Atenção e cura cerebral da 'Fascinação Suave'
+## 1. Teoria da Restauração da Atenção e cura cerebral da 'Fascinação Suave'
 
 Segundo a Teoria da Restauração da Atenção, a 'Atenção Dirigida' usada em telas digitais causa grande exaustão no córtex pré-frontal. Observar confortavelmente elementos naturais conduz o cérebro a um estado de 'Fascinação Suave', recarregando a energia cognitiva do lobo frontal e ativando redes de visualização criativa.
 
 ---
 
-## Conselho de Saimdang para recarregar a inspiração e a mente
-
-A criatividade sábia não surge forçando o cérebro. Afaste-se da escrivaninha por um momento, observe silenciosamente uma lâmina de grama ou um inseto, e dê um descanso ao seu cérebro. Na relaxamento natural, o cérebro recarrega sua energia.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ A criatividade sábia não surge forçando o cérebro. Afaste-se da escrivaninha
   </p>
 </div>
 
+---
+
+## 3. Conselho de Saimdang para recarregar a inspiração e a mente
+
+A criatividade sábia não surge forçando o cérebro. Afaste-se da escrivaninha por um momento, observe silenciosamente uma lâmina de grama ou um inseto, e dê um descanso ao seu cérebro. Na relaxamento natural, o cérebro recarrega sua energia.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

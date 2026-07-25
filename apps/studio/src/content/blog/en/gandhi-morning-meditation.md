@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Spinning the Wheel in the Quiet Dawn: Mahatma Gandhi's Early Morning Meditation Routine and Active Meditation"
 description: "Discover how Mahatma Gandhi, India's great peace leader, disciplined his mind by waking at 4 AM for meditation and spinning the Charkha wheel. Explore the neuroscience of active meditation, tactile repetition, and serotonin stimulation."
 pubDate: "2026-03-23"
@@ -38,22 +39,20 @@ In today's post, we analyze the cognitive neuroscience behind Mahatma Gandhi's '
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding gandhi-morning-meditation is based on <strong>Historical Verification from Mahatma Gandhi's *An Autobiography: The Story of My Experiments with Truth*, Ashram Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Mahatma Gandhi's *An Autobiography: The Story of My Experiments with Truth*, Ashram Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Active Meditation: How Repetitive Motion Triggers Serotonin and Neurological Calm
+## 1. Active Meditation: How Repetitive Motion Triggers Serotonin and Neurological Calm
 
 While sitting meditation is traditionally passive, spinning a wheel exemplifies <strong>Active Meditation</strong>—using physical motion to induce deep focus. Neuroscientifically, engaging fine tactile motor control in fingertips while maintaining a rhythmic, circular motion stimulates the brainstem's raphe nuclei to release <strong>serotonin</strong>. Serotonin clears morning cognitive grogginess and downregulates anxiety and irritability, instilling deep composure. Furthermore, maintaining the delicate tension needed to prevent thread from snapping demands 'Fine Focus', suppressing the brain's Default Mode Network (DMN) responsible for mind-wandering. Gandhi's resilience stemmed from this daily physiological reset, aligning his <strong>Heart Rate Variability (HRV)</strong> and purging emotional stress.
 
 ---
 
-## Caution: Prioritize Tactile Fine Repetitive Rhythm Over Specific Tools
-
-Acquiring an authentic Indian Charkha wheel is impractical for most modern professionals. The mechanism depends not on the specific historical artifact, but on 'tactile fine repetitive rhythm'. You can unlock identical neurological benefits by engaging in a 10-minute ritual using fine fingertip sensations—such as fountain pen transcription, knitting, slow tea brewing, or assembling Lego bricks.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Acquiring an authentic Indian Charkha wheel is impractical for most modern profe
   </p>
 </div>
 
+---
+
+## 3. Caution: Prioritize Tactile Fine Repetitive Rhythm Over Specific Tools
+
+Acquiring an authentic Indian Charkha wheel is impractical for most modern professionals. The mechanism depends not on the specific historical artifact, but on 'tactile fine repetitive rhythm'. You can unlock identical neurological benefits by engaging in a 10-minute ritual using fine fingertip sensations—such as fountain pen transcription, knitting, slow tea brewing, or assembling Lego bricks.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What modern tactile activities can substitute for wheel spinning?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Acquiring an authentic Indian Charkha wheel is impractical for most modern profe
       Any rhythmic activity requiring fine-motor precision works brilliantly. Examples include fountain pen calligraphic copying, knitting or crocheting, tea ceremonies, assembling Lego blocks or puzzles, and finger drumming—all triggering identical serotonin pathways.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What should I do if my mind keeps wandering during tactile rhythmic activities?</span>

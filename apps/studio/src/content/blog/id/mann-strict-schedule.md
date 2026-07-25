@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Novelis yang Melarang Akses Keluarga selama 4 Jam Setiap Pagi? Metode Fokus Kontrol Lingkungan Thomas Mann"
 description: "Pemenang Hadiah Nobel sastra asal Jerman, Thomas Mann, menulis setiap pagi dari pukul 09.00 hingga 13.00 dalam isolasi total dari rangsangan luar. Pelajari prinsip kontrol lingkungan yang mencegah kelelahan kognitif prefrontal dan protokol fokus bebas gangguan modern."
 pubDate: "2026-01-24"
@@ -33,17 +34,17 @@ Dalam artikel ini, kami menganalisis prinsip ilmu saraf di balik rutinitas kontr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai mann-strict-schedule didasarkan pada <strong>Biografi historis, catatan autobiografi Thomas Mann & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis, catatan autobiografi Thomas Mann & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kontrol Lingkungan dan Pencegahan Kelelahan Kognitif Kortikal
+## 1. Kontrol Lingkungan dan Pencegahan Kelelahan Kognitif Kortikal
 
 Energi kognitif di Korteks Prefrontal—yang mengoordinasikan kemauan dan pemecahan masalah rumit—paling tinggi di pagi hari, tetapi kapasitasnya sangat terbatas. Gangguan kecil seperti notifikasi ponsel atau obrolan santai menguras energi ini dengan sangat cepat.
 
@@ -51,9 +52,7 @@ Karena fenomena <strong>'Residu Perhatian (Attention Residue)'</strong>, otak ya
 
 ---
 
-## Jebakan Pekerjaan Dangkal (Shallow Work)
-
-Memeriksa email, membalas pesan secara instan, atau berselancar di web memberikan rasa produktivitas palsu pada otak tanpa menghasilkan kemajuan kognitif nyata—ini adalah 'Pekerjaan Dangkal (Shallow Work)'. Seperti Thomas Mann, tetapkan jam fokus, larang tugas-tugas dangkal selama rentang waktu tersebut, dan tempatkan otak dalam kondisi bebas gangguan untuk mencapai 'Pekerjaan Mendalam (Deep Work)'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Memeriksa email, membalas pesan secara instan, atau berselancar di web memberika
   </p>
 </div>
 
+---
+
+## 3. Jebakan Pekerjaan Dangkal (Shallow Work)
+
+Memeriksa email, membalas pesan secara instan, atau berselancar di web memberikan rasa produktivitas palsu pada otak tanpa menghasilkan kemajuan kognitif nyata—ini adalah 'Pekerjaan Dangkal (Shallow Work)'. Seperti Thomas Mann, tetapkan jam fokus, larang tugas-tugas dangkal selama rentang waktu tersebut, dan tempatkan otak dalam kondisi bebas gangguan untuk mencapai 'Pekerjaan Mendalam (Deep Work)'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah Thomas Mann benar-benar berhenti menulis sepenuhnya pada pukul 13.00?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Memeriksa email, membalas pesan secara instan, atau berselancar di web memberika
       Ya, karena ia mencurahkan 100% energi mentalnya di pagi hari, ia menyadari bahwa kapasitas kognitifnya telah habis setelah pukul 13.00. Menganggap bahwa menulis setelah pukul 13.00 akan menurunkan kualitas, ia menyisihkan waktu sore harinya untuk tugas-tugas ringan seperti membaca, berjalan-jalan, atau mengedit.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah sesi Pekerjaan Mendalam dapat dilakukan pada malam hari dan bukan pagi hari?</span>

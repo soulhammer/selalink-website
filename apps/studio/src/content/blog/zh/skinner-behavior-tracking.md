@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "设计自我：行为主义大师斯金纳的视觉反馈记录习惯"
 description: "介绍行为心理学大师 B. F. 斯金纳的每日行为量化记录习惯。通过实时数据反馈强化大脑行为机制的三步实践指南。"
 pubDate: "2026-05-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 skinner-behavior-tracking 的内容基于 <strong>斯金纳行为追踪历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>斯金纳行为追踪历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 刺激多巴胺回路的“视觉反馈效应”
+## 1. 刺激多巴胺回路的“视觉反馈效应”
 
 根据行为主义心理学，当人脑在行为发生后能立即体验到直接的奖励或积极反馈时，再次重复该行为的倾向就会变得非常强烈。这在操作性条件反射中被称为<strong>“行为强化（Reinforcement）”</strong>。通过数值确认自己写了多少个字、专注了几分钟，并借助图表进行视觉反馈（Visual Feedback），是一种能促使大脑奖励预测系统释放多巴胺（Dopamine）的绝佳非物质奖赏。这种记录习惯并非依赖模糊的意志力，而是通过数据反馈回路自发地刺激并巩固高专注行为的发生频率。
 
 ---
 
-## 警惕指标操纵与手段-目的倒置
-
-保持记录习惯时容易犯的一个错误是，为了单纯拉高图表数值或增加字数，而牺牲文章质量或无意义地开着计时器。正如古德哈特定律（Goodhart's Law）所言：“当一个指标变成目标时，它就不再是一个好指标。” 记录应该是一面客观反映生产力状态的镜子，绝不能让数字本身成为知识劳动和创作的最终目的。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     将每天获取的生产力数据绘制成折线图，放置在醒目位置或常用文件夹中，感官化地监控自身成果，借此持续强化内在动力。
   </p>
 </div>
+
+---
+
+## 3. 警惕指标操纵与手段-目的倒置
+
+保持记录习惯时容易犯的一个错误是，为了单纯拉高图表数值或增加字数，而牺牲文章质量或无意义地开着计时器。正如古德哈特定律（Goodhart's Law）所言：“当一个指标变成目标时，它就不再是一个好指标。” 记录应该是一面客观反映生产力状态的镜子，绝不能让数字本身成为知识劳动和创作的最终目的。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

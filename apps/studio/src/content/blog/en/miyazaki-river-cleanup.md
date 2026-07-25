@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Ghibli Master's Clear Morning: Hayao Miyazaki's River Cleanup Walk"
 description: "Discover why Studio Ghibli director Hayao Miyazaki picks up trash along neighborhood paths every morning. Learn how simple walking and tidying stimulate genius creativity and reflection."
 pubDate: "2026-02-24"
@@ -36,22 +37,20 @@ In this post, we explore the scientific principles behind Hayao Miyazaki's 'Rive
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding miyazaki-river-cleanup is based on <strong>Historical Critical Biography and Interview Records of Hayao Miyazaki & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Critical Biography and Interview Records of Hayao Miyazaki & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Creative Refresh Provided to the Brain by Altruistic Walking
+## 1. Creative Refresh Provided to the Brain by Altruistic Walking
 
 The act of taking a light walk while tidying the surrounding environment gently activates the brain's <strong>Default Mode Network (DMN)</strong>. This network operates when the brain rests comfortably away from goal-directed cognitive tasks, connecting scattered ideas across the brain to trigger fresh intuitions. Additionally, manual cleanup work stimulates morning serotonin release, elevating mood and mental clarity.
 
 ---
 
-## Precautions and Tips
-
-If you check your smartphone or get absorbed in complex thoughts during the walk, your brain cannot reach the relaxing DMN state. Disconnecting from electronic devices consciously, <strong>appreciating the surrounding natural environment</strong>, and focusing strictly on tidying the physical objects right before you are the keys to maximizing the benefits of this routine.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ If you check your smartphone or get absorbed in complex thoughts during the walk
     Return home from the walk and leverage the relaxed, clear frontal lobe state charged with serotonin to immediately dive into your first creative planning task.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+If you check your smartphone or get absorbed in complex thoughts during the walk, your brain cannot reach the relaxing DMN state. Disconnecting from electronic devices consciously, <strong>appreciating the surrounding natural environment</strong>, and focusing strictly on tidying the physical objects right before you are the keys to maximizing the benefits of this routine.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

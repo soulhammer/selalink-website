@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Schaukelstuhl im Oval Office: John F. Kennedys Überwindung von Rückenschmerzen und vestibuläre Entspannung"
 description: "Erfahren Sie, wie John F. Kennedy die USA in den Krisen des Kalten Krieges trotz schwerer Rückenschmerzen mithilfe seines Schaukelstuhls im Oval Office führte. Entdecken Sie die Neurowissenschaften der vestibulären Stimulation und des Parasympathikus."
 pubDate: "2026-02-10"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften und Orthopädie hint
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu kennedy-rocking-chair basiert auf <strong>Historische Überprüfung aus der John F. Kennedy Presidential Library, Archiven von Dr. Janet Travell & Forschung der kognitiven Neurowissenschaften und Orthopädie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus der John F. Kennedy Presidential Library, Archiven von Dr. Janet Travell & Forschung der kognitiven Neurowissenschaften und Orthopädie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation des vestibulären Systems und Aktivierung des Parasympathikus
+## 1. Stimulation des vestibulären Systems und Aktivierung des Parasympathikus
 
 Das gleichmäßige Vor- und Zurückwiegen stimuliert das <strong>vestibuläre System</strong> im Innenohr. Die Signale aus den Vestibulariskernen aktivieren das <strong>parasympathische Nervensystem</strong>, was Herzfrequenz und Atemfrequenz senkt sowie die Ausschüttung von <strong>Cortisol</strong> bremst. Aus orthopädischer Sicht fördern die Mikrobewegungen die Nährstoffversorgung der Bandscheiben und verringern den statischen Druck. Diese Entlastung beruhigt die <strong>Amygdala</strong> und stellt die Steuerungsfähigkeit des <strong>präfrontalen Kortex</strong> wieder her.
 
 ---
 
-## Vorsichtsmaßnahme: Statische Belastung vermeiden und Mikrobewegungen der Wirbelsäule fördern
-
-Nacken- und Rückenschmerzen bei Büroarbeitern entstehen meist durch 'statische Belastung' – das stundenlange Verharren in starren Haltungen. Körperliche Anspannung führt direkt zu mentalem Stress. Wie Kennedy sollten Sie beim Sitzen sanfte Mikrobewegungen ausführen, um die Flexibilität der Wirbelsäule und die geistige Frische zu bewahren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Nacken- und Rückenschmerzen bei Büroarbeitern entstehen meist durch 'statische
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Statische Belastung vermeiden und Mikrobewegungen der Wirbelsäule fördern
+
+Nacken- und Rückenschmerzen bei Büroarbeitern entstehen meist durch 'statische Belastung' – das stundenlange Verharren in starren Haltungen. Körperliche Anspannung führt direkt zu mentalem Stress. Wie Kennedy sollten Sie beim Sitzen sanfte Mikrobewegungen ausführen, um die Flexibilität der Wirbelsäule und die geistige Frische zu bewahren.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Lässt sich ein ähnlicher Entspannungseffekt auch auf einem normalen Bürostuhl erzielen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Nacken- und Rückenschmerzen bei Büroarbeitern entstehen meist durch 'statische
       Ja! Das Lösen der Neigesperre Ihres Bürostuhls und das sanfte Wippen des Oberkörpers reicht aus, um das vestibuläre System zu stimulieren, statische Belastung zu verhindern und den Parasympathikus zu aktivieren.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Welches Tempo oder welcher Rhythmus eignet sich am besten zur Entspannung des Nervensystems?</span>

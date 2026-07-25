@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'entraînement au contrôle cognitif d'Earhart : Immergée dans les relevés d'instruments même dans le cockpit en plein typhon"
 description: "Première aviatrice à réussir la traversée de l'Atlantique en solo, elle apaisait son anxiété de vol en consignant minutieusement les données météo et les variations du vent chaque matin."
 pubDate: "2026-01-31"
@@ -31,25 +32,23 @@ Dans l'article d'aujourd'hui, nous présentons les principes des sciences cognit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant amelia-earhart est basée sur <strong>Vérification Historique issue de l'autobiographie d'Amelia Earhart *The Fun of It* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie d'Amelia Earhart *The Fun of It* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analyse des principes neuroscientifiques générateurs de succès
+## 1. Analyse des principes neuroscientifiques générateurs de succès
 
 Dans les situations de crise ou les environnements de travail anxiogènes, réprimer l'excitation du cerveau émotionnel (amygdale) et ancrer ses jugements sur des métriques physiques active de façon spectaculaire le réseau de Contrôle Cognitif (Cognitive Control) du cortex préfrontal. Le fait de convertir rapidement les données d'instruments collectées en texte et de les méta-analyser régule la sécrétion de cortisol et constitue un puissant mécanisme qui favorise une prise de décision optimale et sans erreur, sans céder à la panique dans un environnement d'affaires complexe.
 
 ---
 
-## Conseils en sciences du comportement pour un ancrage réussi
-
-Ne devenez pas trop obsédé par l'analyse chiffrée en fixant des objectifs quotidiens trop verbeux. Concentrez-vous uniquement sur l'observation de seulement 3 chiffres d'instruments froids pour superposer une carte claire d'informations factuelles sur votre cerveau. Plutôt que de compter imprudemment sur la seule volonté, concevoir à l'avance un environnement physique et des déclencheurs d'habitudes où l'action est naturellement provoquée constitue le cœur de la pérennité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Ne devenez pas trop obsédé par l'analyse chiffrée en fixant des objectifs quo
   </p>
 </div>
 
+---
+
+## 3. Conseils en sciences du comportement pour un ancrage réussi
+
+Ne devenez pas trop obsédé par l'analyse chiffrée en fixant des objectifs quotidiens trop verbeux. Concentrez-vous uniquement sur l'observation de seulement 3 chiffres d'instruments froids pour superposer une carte claire d'informations factuelles sur votre cerveau. Plutôt que de compter imprudemment sur la seule volonté, concevoir à l'avance un environnement physique et des déclencheurs d'habitudes où l'action est naturellement provoquée constitue le cœur de la pérennité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'entraînement aux cadrans fonctionne-t-il immédiatement même lorsque le travail bloque et que l'impatience s'installe ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Ne devenez pas trop obsédé par l'analyse chiffrée en fixant des objectifs quo
       Oui, il fonctionne immédiatement. Lorsque l'impatience survient, le cerveau suractive l'amygdale. À ce moment-là, si vous notez froidement sur du papier des chiffres physiques tels que le nombre de notifications restantes ou les minutes avant la date limite, le réseau de contrôle cognitif du cerveau fonctionne de haut en bas (Top-down) pour stabiliser vos émotions.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quels chiffres est-il le plus recommandé de désigner comme variables de bord ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "作曲が行き詰まった時にビリヤードを撞いた天才？モーツァルトのデフォルトモード活性化習慣"
 description: "楽想が浮かばない時にビリヤードを楽しみ無意識の脳（DMN）を稼働させたヴォルフガング・アマデウス・モーツァルト。認知の休息が創造的ブレイクスルーを生み出す科学的秘密と15分間の時空間プレイ法を紹介します。"
 pubDate: "2026-05-01"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「mozart-billiard-ideation」は <strong>モーツァルト歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>モーツァルト歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 無意識の脳と「デフォルト・モード・ネットワーク」
+## 1. 無意識の脳と「デフォルト・モード・ネットワーク」
 
 解けない難題を解決するために長時間モニター画面を睨み続ける行為は、前頭葉の作業記憶を過飽和させ、脳を精神的停滞（Mental Stagnation）状態に陥れます。一方、注意を完全に別の場所へ向け、ビリヤードのように時空間的な軌道予測を伴う軽い身体的プレイに没頭すると、脳は「デフォルト・モード・ネットワーク（DMN）」を起動させます。
 
@@ -49,11 +50,7 @@ DMNは脳が休んでいる時に作動する無意識的な連動メカニズ�
 
 ---
 
-## 成功的なルーティンのための脳科学的アドバイス
-
-<strong>思考の停滞は強要ではなく交互の切り替えで破られます</strong>
-
-一つのアイデアに執着する脳はトンネル視野（Tunnel Vision）に囚われ、新しい接続を遮断します。脳が疲れた時に無理に座り続けることは、認知エネルギーを削り取る行為に過ぎません。モーツァルトがビリヤード台の傍らで無意識の脳を活性化させ、不滅の音楽的軌導を引き出したように、頭が行き詰まったら即座に立ち上がり、軽い時空間プレイでDMNを起動させてみてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ DMNは脳が休んでいる時に作動する無意識的な連動メカニズ�
     再びデスクに座り課題を見つめます。休息中に無意識で合成された新しいアイデアや創造的突破口が、自然と意識の表面へと浮かび上がります。
   </p>
 </div>
+
+---
+
+## 3. 成功的なルーティンのための脳科学的アドバイス
+
+<strong>思考の停滞は強要ではなく交互の切り替えで破られます</strong>
+
+一つのアイデアに執着する脳はトンネル視野（Tunnel Vision）に囚われ、新しい接続を遮断します。脳が疲れた時に無理に座り続けることは、認知エネルギーを削り取る行為に過ぎません。モーツァルトがビリヤード台の傍らで無意識の脳を活性化させ、不滅の音楽的軌導を引き出したように、頭が行き詰まったら即座に立ち上がり、軽い時空間プレイでDMNを起動させてみてください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cómo Reducir a Cero los Errores Cognitivos Humanos: La Rutina de Lista de Verificación de Charles Lindbergh y Protección de la Memoria de Trabajo"
 description: "Descubra cómo el héroe de la aviación Charles Lindbergh completó el primer vuelo transatlántico en solitario confiando en listas de verificación. Explore la protección de la memoria de trabajo prefrontal, la prevención de errores de omisión y una guía de 3 pasos."
 pubDate: "2026-04-25"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva y la ingeniería
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre lindbergh-meticulous-checklist se basa en <strong>Verificación Histórica de la Autobiografía de Charles Lindbergh *The Spirit of St. Louis* (1953), Archivos de Aviación e Investigación en Neurociencia Cognitiva e Ingeniería de Factores Humanos</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Charles Lindbergh *The Spirit of St. Louis* (1953), Archivos de Aviación e Investigación en Neurociencia Cognitiva e Ingeniería de Factores Humanos</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Protección de la Memoria de Trabajo en la Corteza Prefrontal y Prevención de Errores de Omisión
+## 1. Protección de la Memoria de Trabajo en la Corteza Prefrontal y Prevención de Errores de Omisión
 
 Al ejecutar tareas secuenciales complejas bajo estrés o fatiga, la <strong>Corteza Prefrontal</strong> consume mucha energía metabólica manteniendo datos en la <strong>Memoria de Trabajo</strong>. Para ahorrar energía, el cerebro ataja pasos procedimentales, provocando <strong>Errores de Omisión (Omission Error)</strong>. Verificar físicamente una lista punto por punto libera la carga memorística. Libre del esfuerzo de recordar, el cerebro dedica su energía al <strong>Control Ejecutivo (Executive Control)</strong> y la verificación, garantizando precisión sin defectos incluso ante el agotamiento.
 
 ---
 
-## Precaución: Elimine la Verificación Visual Implícita para Aplicar el Señalamiento Táctil Punto por Punto
-
-El valor fundamental de una lista de verificación reside en la sincronización física: recorrer los elementos uno a uno con el dedo o el cursor. Escanear visualmente y dar por sentado que 'todo está comprobado' no evita los despistes ni las ilusiones ópticas del cerebro. Debe mantener el hábito de señalar físicamente cada punto para forzar una verificación consciente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El valor fundamental de una lista de verificación reside en la sincronización 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine la Verificación Visual Implícita para Aplicar el Señalamiento Táctil Punto por Punto
+
+El valor fundamental de una lista de verificación reside en la sincronización física: recorrer los elementos uno a uno con el dedo o el cursor. Escanear visualmente y dar por sentado que 'todo está comprobado' no evita los despistes ni las ilusiones ópticas del cerebro. Debe mantener el hábito de señalar físicamente cada punto para forzar una verificación consciente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es mejor que una lista de verificación sea lo más larga y detallada posible?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El valor fundamental de una lista de verificación reside en la sincronización 
       No. Cuando una lista es demasiado extensa, el cerebro se fatiga y tiende a saltarse puntos de forma automática. Neurocientíficamente, lo ideal es limitar la lista de forma estricta a entre 5 y 9 puntos de control críticos (alineado con los límites de la memoria de trabajo).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿En qué tipo de tareas es más efectivo aplicar una rutina de lista de verificación?</span>

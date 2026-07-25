@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "쇠구슬을 손에 쥐고 낮잠을 잔 천재: 토마스 에디슨의 하프나고지아(Hypnagogia) 수면법과 반수면 창의성 루틴"
 description: "백열전구와 축음기의 발명가 토마스 에디슨이 난제에 부딪힐 때마다 행했던 쇠구슬 낮잠 루틴. 의식과 수면의 경계(입면 몽상)에서 아이디어를 낚아채는 하프나고지아 수면법과 인지신경과학적 원리를 밝힙니다."
 pubDate: "2026-04-02"
@@ -20,7 +21,7 @@ faqs:
   - question: "에디슨은 왜 손에 쇠구슬을 쥐고 낮잠을 잤나요?"
     answer: "잠에 드는 순간 근육이 풀려 구슬이 떨어질 때 나는 소리로 잠에서 깨어나, 꿈과 깨어남의 경계(입면 몽상)에서 스친 아이디어를 즉시 기록하기 위함이었습니다."
   - question: "사무실이나 소음 발생이 어려운 공간에서 에디슨 낮잠법을 대체할 방법이 있나요?"
-    answer: "금속 접시 대신 바닥에 소음이 적은 수건을 깔아두거나, 스마트폰의 1~2분 미니 타이머 알람을 활용하여 뇌가 깊은 수면 단계로 넘어가기 전 얕은 선잠 상태에서 살짝 깨어나도록 세팅하는 방식으로 충분히 대체할 수 있습니다."
+    answer: "금속 접시 대신 바닥에 소음이 적은 수건을 깔아두거나, 스마트폰의 1 ~ 2분 미니 타이머 알람을 활용하여 뇌가 깊은 수면 단계로 넘어가기 전 얕은 선잠 상태에서 살짝 깨어나도록 세팅하는 방식으로 충분히 대체할 수 있습니다."
 ---
 
 "잠은 시간 낭비다. 하지만 무의식의 경계는 인간이 가진 가장 강력한 발명 도구다." 💤
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>폴 이스라엘 『에디슨 평전(Edison: A Life of Invention)』 및 에디슨 국립역사공원 아카이브 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 edison-nap 루틴을 다룹니다.
+      본 콘텐츠는 <strong>폴 이스라엘 『에디슨 평전(Edison: A Life of Invention)』 및 에디슨 국립역사공원 아카이브 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 쇠구슬 낙하 기법이 가져오는 입면 몽상과 유레카 발상
+## 1. 쇠구슬 낙하 기법이 가져오는 입면 몽상과 유레카 발상
 
 의식과 수면의 경계 단계인 입면 몽상(Hypnagogia, NREM 1단계) 상태에 진입하면 뇌파가 시타파(Theta Waves)로 전환되면서 논리적 제어망이 느슨해지고, 뇌 속에 저장된 무수히 많은 기억 파편과 개념이 자유롭게 조합됩니다. 에디슨이 활용한 쇠구슬 낙하 기법은 깊은 수면으로 넘어가며 발생하는 수면 관성(Sleep Inertia)에 빠지기 직전, 찰나에 분사된 독창적인 유레카 아이디어 잔상을 뇌 속에 깨끗하게 낚아채는 최적의 신경학적 스위치였습니다.
 
 ---
 
-## 주의사항 및 수칙: 짧은 낮잠 후 즉각적인 기록 전환
-
-쇠구슬 소리에 깨어난 즉시 망설임 없이 옆의 메모지에 머릿속 몽상 이미지를 써 내려가는 강렬한 행동 연쇄를 훈련해야 합니다. 눈을 뜨고 몇 초만 머뭇거려도 반수면 상태의 아이디어 잔상은 흔적 없이 망각됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 수칙: 짧은 낮잠 후 즉각적인 기록 전환
+
+쇠구슬 소리에 깨어난 즉시 망설임 없이 옆의 메모지에 머릿속 몽상 이미지를 써 내려가는 강렬한 행동 연쇄를 훈련해야 합니다. 눈을 뜨고 몇 초만 머뭇거려도 반수면 상태의 아이디어 잔상은 흔적 없이 망각됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>에디슨은 왜 손에 쇠구슬을 쥐고 낮잠을 잤나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       잠에 드는 순간 근육이 풀려 구슬이 떨어질 때 나는 소리로 잠에서 깨어나, 꿈과 깨어남의 경계(입면 몽상)에서 스친 아이디어를 즉시 기록하기 위함이었습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>사무실이나 소음 발생이 어려운 공간에서 에디슨 낮잠법을 대체할 방법이 있나요?</span>

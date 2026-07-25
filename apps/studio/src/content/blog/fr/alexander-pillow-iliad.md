@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'« Iliade sous l'oreiller » d'Alexandre le Grand : La lecture nocturne de vision qui a soutenu d'immenses défis"
 description: "Alexandre le Grand ne perdait jamais courage sur le champ de bataille, gardant chaque nuit un poignard et l'Iliade sous son oreiller. Découvrez le pouvoir de la lecture de vision qui stimule le subconscient."
 pubDate: "2026-01-23"
@@ -35,17 +36,17 @@ Dans l'article d'aujourd'hui, nous présentons les bases scientifiques de la rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant alexander-pillow-iliad est basée sur <strong>Vérification Historique issue de *La Vie d'Alexandre* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *La Vie d'Alexandre* de Plutarque & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Lecture orientée sur les valeurs induisant l'alignement subconscient
+## 1. Lecture orientée sur les valeurs induisant l'alignement subconscient
 
 Lorsque le cerveau commence à s'endormir, les ondes cérébrales passent aux ondes alpha et thêta, et les informations introduites pendant ce temps atteignent l'hippocampe (le réservoir de la mémoire à long terme) et le cortex cérébral profond (qui forme le subconscient) bien plus facilement que d'habitude.
 
@@ -53,9 +54,7 @@ L'Iliade qu'Alexandre le Grand lisait avant de s'endormir n'était pas un simple
 
 ---
 
-## Le texte que vous lisez détermine votre subconscient
-
-Consommer tard le soir des contenus qui stimulent la peur, la jalousie ou la critique — comme les réseaux sociaux ou les articles d'actualité — aligne votre subconscient sur des stimuli négatifs, perturbant le sommeil profond et vous faisant vous réveiller fatigué le matin. Placez intentionnellement près de votre lit des classiques nobles ou des livres qui élèvent votre valeur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Consommer tard le soir des contenus qui stimulent la peur, la jalousie ou la cri
   </p>
 </div>
 
+---
+
+## 3. Le texte que vous lisez détermine votre subconscient
+
+Consommer tard le soir des contenus qui stimulent la peur, la jalousie ou la critique — comme les réseaux sociaux ou les articles d'actualité — aligne votre subconscient sur des stimuli négatifs, perturbant le sommeil profond et vous faisant vous réveiller fatigué le matin. Placez intentionnellement près de votre lit des classiques nobles ou des livres qui élèvent votre valeur.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Lire des romans ou des bandes dessinées avant de s'endormir a-t-il le même effet que la routine de lecture classique de vision ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Consommer tard le soir des contenus qui stimulent la peur, la jalousie ou la cri
       La fiction légère offre également un effet de refroidissement qui soulage le stress cérébral, mais pour obtenir un effet de « motivation orientée sur les valeurs » qui aligne l'identité personnelle et stimule la volonté d'exécution comme la routine d'Alexandre, il est bien préférable de choisir des épopées classiques, des livres de philosophie ou des biographies d'illustres personnages qui apportent une résonance et une réflexion intérieures.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il possible de lire des livres sur une liseuse numérique en étant allongé ?</span>

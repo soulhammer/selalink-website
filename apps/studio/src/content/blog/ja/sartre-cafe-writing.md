@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "カフェの騒音の中の哲学？サルトルの指定席集中と時間分割ルーティン"
 description: "フランスの実存主義哲学者ジャン＝ポール・サルトルは、騒がしいパリのカッフェの指定席で午前と午後の時間を徹底的に分割して執筆しました。環境的認知アンカーリング効果を考察します。"
 pubDate: "2026-06-02"
@@ -37,17 +38,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「sartre-cafe-writing」は <strong>サルトル歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>サルトル歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 空間認知アンカーリングと集中誘導条件反射
+## 1. 空間認知アンカーリングと集中誘導条件反射
 
 私たちの脳は、特定の空間とその空間で主に行われる行動を関連付けて記憶する強力な文脈可塑性を持っています。ベッドでは睡眠を、食卓では食事を連想するのが代表例です。
 
@@ -55,9 +56,7 @@ faqs:
 
 ---
 
-## 指定席での目標外行動の禁止
-
-空間認知アンカーリングが効果を発揮するには、その指定空間では「目標行動（勉強、執筆）のみを行う」という鉄則が維持されなければなりません。指定席に座ってウェブサーフィンをしたり電話に出たり娯楽に興じたりすると、脳の空間-行動の結びつきが弱まりアンカーリング効果が崩れます。休憩する時は必ず席を立ち、別の場所で休んでください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 指定席での目標外行動の禁止
+
+空間認知アンカーリングが効果を発揮するには、その指定空間では「目標行動（勉強、執筆）のみを行う」という鉄則が維持されなければなりません。指定席に座ってウェブサーフィンをしたり電話に出たり娯楽に興じたりすると、脳の空間-行動の結びつきが弱まりアンカーリング効果が崩れます。休憩する時は必ず席を立ち、別の場所で休んでください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>カフェのように周囲にホワイトノイズがある場所の方が、自習室のように静かな場所より集中に有利ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ faqs:
       個人差があります。一部の研究によると、約50〜70dBの適度なホワイトノイズは脳の聴覚注意を分散させ、逆説的に創造的な問題解決能力を刺激することもあります。しかし最も本質的なのは、静かさの有無よりも「毎日同じ場所で同じ行動を開始する」という認知的ルールとアンカーリング効果の確立です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>指定席を毎日変えたり定期的に変更した方が、脳の刺激によくありませんか？</span>

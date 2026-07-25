@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "自然が与えた不確定性のヒント：ハイゼンベルクのアルプスハイキング習慣とDMNインキュベーションルーティン"
 description: "量子力学の難題を解くためバイエルン・アルプスを一人ハイキングし思索に耽ったヴェルナー・ハイゼンベルク。自然の中を歩くことが脳の注意力を回復させ、デフォルト・モード・ネットワーク（DMN）の創造的インキュベーション（孵化）を誘導する科学的原理を解き明かします。"
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「heisenberg-alpine-hiking」は <strong>ヴェルナー・ハイゼンベルク自伝『部分と全体（Der Teil und das Ganze）』およびバイエルン科学アカデミー（Bayerische Akademie der Wissenschaften）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ヴェルナー・ハイゼンベルク自伝『部分と全体（Der Teil und das Ganze）』およびバイエルン科学アカデミー（Bayerische Akademie der Wissenschaften）史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 注意回復理論（ART）とデフォルト・モード・ネットワーク（DMN）の認知的孵化
+## 1. 注意回復理論（ART）とデフォルト・モード・ネットワーク（DMN）の認知的孵化
 
 モニター画面や数字に長時間集中する時、脳は意図的注意力（Directed Attention）の資源を消耗し、注意力疲労状態に陥ります。ハイゼンベルクのように生い茂る自然を登山しながら歩く時、認知科学の<strong>「注意回復理論（Attention Restoration Theory, ART）」</strong>が作動します。自然の<strong>「柔らかな魅惑（Soft Fascination）」</strong>の刺激は意図的な脳の活動を休ませ、前頭葉の緊張をほぐします。この時、脳の潜在意識的処理経路である<strong>「デフォルト・モード・ネットワーク（Default Mode Network, DMN）」</strong>が起動し、絡み合っていた複雑な数学公式や概念のピースを無意識の中で再整列する<strong>「認知的孵化（Cognitive Incubation）」</strong>が起こり、決定的な創造的洞察を引き出します。
 
 ---
 
-## 注意事項：デジタル刺激を遮断し無意識的孵化を導く森林ハイキングルール
-
-森林ハイキングを通じた思索を進める際、注意すべき最悪の妨害要因はスマートフォンでポッドキャストを聞いたりメールを確認することです。自然の中にいながらもデジタル画面に自発的注意力を継続して消耗するなら、脳の注意力回復とDMNの無意識的孵化は完全に遮断されます。スマートフォンを機内モードに切り替え、ただ自然の音と足取りの振動に完全に集中しなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：デジタル刺激を遮断し無意識的孵化を導く森林ハイキングルール
+
+森林ハイキングを通じた思索を進める際、注意すべき最悪の妨害要因はスマートフォンでポッドキャストを聞いたりメールを確認することです。自然の中にいながらもデジタル画面に自発的注意力を継続して消耗するなら、脳の注意力回復とDMNの無意識的孵化は完全に遮断されます。スマートフォンを機内モードに切り替え、ただ自然の音と足取りの振動に完全に集中しなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>都心に居住していてハイキングや登山に行くことが難しい場合はどのように代替しますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       都心の中の公園や街路樹の道を、スマートフォンなしで自然の風景を探索しながら30分以上歩くことで代替できます。屋外活動を通じた視空間感覚の刺激と脳血流の活性化が核心です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ハイキング中に浮かんだアイデアを忘れずに記録するコツはありますか？</span>

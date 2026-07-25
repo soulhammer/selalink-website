@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Percevoir la géométrie de la lumière : La routine d'observation de la lumière naturelle matinale et d'éveil du NSQ de Paul Cézanne"
 description: "Découvrez comment Paul Cézanne, père de l'art moderne, marchait vers la montagne Sainte-Victoire à 6h chaque matin pour observer la lumière et la forme. Explorez les principes neuroscientifiques montrant comment la lumière matinale stimule le NSQ et le cortex visuel."
 pubDate: "2026-04-06"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant cezanne-dawn-mountain-observation est basée sur <strong>Vérification Historique issue de la biographie d'Alex Danchev *Cézanne : Une vie (Cézanne: A Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Alex Danchev *Cézanne : Une vie (Cézanne: A Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Exposition à la lumière naturelle matinale, éveil du NSQ et neurologie cognitive du cortex visuel
+## 1. Exposition à la lumière naturelle matinale, éveil du NSQ et neurologie cognitive du cortex visuel
 
 La lumière naturelle émise entre 6h et 8h est riche en spectre de lumière bleue (460–480 nm), ce qui stimule fortement les cellules ganglionnaires rétiniennes intrinsèquement photosensibles (ipRGCs). Les signaux se projettent directement vers le régulateur circadien principal — le Noyau Suprachiasmatique (NSQ) dans l'hypothalamus —, réprimant la sécrétion de mélatonine tout en favorisant la production de cortisol pour réveiller le cerveau. De plus, observer les motifs géométriques et les contrastes de luminosité — à la manière de Cézanne — active les neurones des zones V1 et V4 du cortex visuel. Cet état d'éveil visuel dissipe la fatigue cognitive et élève la sensibilité perceptive.
 
 ---
 
-## Précautions & Conseils : Préserver l'entrée de lumière naturelle directe & Éviter les écrans artificiels
-
-Lors de cette routine d'observation matinale, évitez de porter des lunettes de soleil ou de regarder un écran de smartphone en marchant. Les lunettes de soleil bloquent le spectre bleu nécessaire aux ipRGCs pour déclencher la réinitialisation du NSQ. De plus, regarder la lumière artificielle et les textes sur un smartphone induit un « Tunnellisation Cognitive », enfermant votre cortex visuel et détruisant l'effet réparateur. Gardez les yeux dégagés et portez un regard large sur les paysages naturels.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lors de cette routine d'observation matinale, évitez de porter des lunettes de 
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Préserver l'entrée de lumière naturelle directe & Éviter les écrans artificiels
+
+Lors de cette routine d'observation matinale, évitez de porter des lunettes de soleil ou de regarder un écran de smartphone en marchant. Les lunettes de soleil bloquent le spectre bleu nécessaire aux ipRGCs pour déclencher la réinitialisation du NSQ. De plus, regarder la lumière artificielle et les textes sur un smartphone induit un « Tunnellisation Cognitive », enfermant votre cortex visuel et détruisant l'effet réparateur. Gardez les yeux dégagés et portez un regard large sur les paysages naturels.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Faut-il sortir observer même par temps couvert, pluvieux ou pollué ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lors de cette routine d'observation matinale, évitez de porter des lunettes de 
       Même par temps couvert, l'intensité lumineuse extérieure oscille entre 1 000 et 2 000 lux — bien plus vive que l'éclairage intérieur (300 à 500 lux). Ainsi, marcher dehors par temps gris suffit à réprimer la mélatonine. En cas de forte pollution, remplacez la sortie par une observation depuis une fenêtre.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Les travailleurs du savoir non-artistes peuvent-ils bénéficier de la routine d'observation de Cézanne ?</span>

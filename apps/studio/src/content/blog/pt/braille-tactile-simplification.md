@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Intuição na Ponta dos Dedos e a Inovação de 6 Pontos: A Rotina de Simplificação Essencial e Agrupamento de Louis Braille"
 description: "Descubra como Louis Braille simplificou a complexa escrita noturna militar de 12 pontos em um sistema tátil de 6 pontos que cabe na ponta de um único dedo, revolucionando o acesso ao conhecimento, e explore os princípios neurocientíficos do agrupamento da memória de trabalho tátil."
 pubDate: "2026-05-04"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'simpli
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre braille-tactile-simplification é baseada em <strong>Verificação Histórica da Biografia de C. Michael Mellor *Louis Braille: A Touch of Genius* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de C. Michael Mellor *Louis Braille: A Touch of Genius* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociência do Agrupamento da Memória de Trabalho e Limites de Acuidade Tátil
+## 1. Neurociência do Agrupamento da Memória de Trabalho e Limites de Acuidade Tátil
 
 A memória de trabalho humana e o córtex somatossensorial (Somatosensory Cortex) enfrentam limites físicos e cognitivos claros quanto à quantidade de informações processadas em um único instante. O sistema de 12 pontos excedia a resolução espacial dos receptores táteis da ponta dos dedos, impondo uma sobrecarga de varredura ao cérebro. Em contrapartida, a célula de 6 pontos de Braille alinha-se perfeitamente com o mecanismo de 'Agrupamento (Chunking)' do cérebro — agrupando dados em unidades reconhecíveis. Agrupar fluxos de trabalho complexos em unidades de 3 a 5 elementos reduz drasticamente a carga cognitiva pré-frontal e acelera o processamento de informações.
 
 ---
 
-## Precauções e Dicas: Eliminação Rigorosa de Elementos Redundantes e Preservação do Núcleo
-
-O maior obstáculo na simplificação é manter etapas desnecessárias por receio de que 'possam ser necessárias mais tarde'. Tentar acomodar cada caso excepcional ou opção secundária torna os sistemas complexos novamente e reduz a flexibilidade cognitiva. Assim como a célula de 6 pontos captada sob a ponta do dedo, elimine elementos secundários, mantendo apenas a essência vital.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O maior obstáculo na simplificação é manter etapas desnecessárias por recei
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Eliminação Rigorosa de Elementos Redundantes e Preservação do Núcleo
+
+O maior obstáculo na simplificação é manter etapas desnecessárias por receio de que 'possam ser necessárias mais tarde'. Tentar acomodar cada caso excepcional ou opção secundária torna os sistemas complexos novamente e reduz a flexibilidade cognitiva. Assim como a célula de 6 pontos captada sob a ponta do dedo, elimine elementos secundários, mantendo apenas a essência vital.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que devo fazer se tiver medo de omitir informações importantes durante a simplificação?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O maior obstáculo na simplificação é manter etapas desnecessárias por recei
       Utilize uma estratégia de dois níveis: arquive informações secundárias em um 'apêndice' ou pasta de backup expondo apenas as 3 a 5 unidades principais no seu espaço de trabalho, garantindo tranquilidade cognitiva.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Esse sistema de simplificação e agrupamento pode ser aplicado a fluxos de trabalho em equipe?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Capitão que Inaugurou a Era dos Descobrimentos: A Rotina do Diário de Bordo Noturno e Acalmamento da Amígdala de Cristóvão Colombo"
 description: "Descubra como o explorador Cristóvão Colombo manteve a compostura racional no meio de tempestades ao manter um diário quantitativo noturno. Explore a neurociência cognitiva de como o diário noturno acalma a amígdala e aciona o controle pré-frontal."
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'regist
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre columbus-nautical-log é baseada em <strong>Verificação Histórica do *Diário de Bordo de Cristóvão Colombo (The Diario of Christopher Columbus)* de Bartolomé de las Casas e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica do *Diário de Bordo de Cristóvão Colombo (The Diario of Christopher Columbus)* de Bartolomé de las Casas e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Desativação da Amígdala e Alternância Pré-Frontal Via Registro Cuantitativo Noturno
+## 1. Desativação da Amígdala e Alternância Pré-Frontal Via Registro Cuantitativo Noturno
 
 A ansiedade vaga sobre um futuro incontrolável superestimula o centro do medo do sistema límbico — a amígdala —, desencadeando ativação simpática, insônia e pânico. Manter um 'diário noturno' que registre fatos concretos e métricas quantitativas atua como um disjuntor neurológico. Desloca o processamento das estruturas límbicas para o córtex pré-frontal dorsolateral (DLPFC). Converter o medo em números visíveis reduz a reatividade da amígdala, induzindo calma fisiológica.
 
 ---
 
-## Precauções e Dicas: Evitar a Ruminação Emocional e Registrar Métricas Objetivas
-
-A base do diário de bordo é converter sentimentos subjetivos em dados objetivos. Escrever desabafos emocionais como 'hoje me senti muito estressado' antes de dormir reativa a amígdala, piorando a insônia. Exclua lamentações subjetivas. Em vez disso, registre dados quantificados: '4 de 5 metas concluídas', 'Progresso: 80%', 'Prioridade para amanhã: 1 item'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A base do diário de bordo é converter sentimentos subjetivos em dados objetivo
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar a Ruminação Emocional e Registrar Métricas Objetivas
+
+A base do diário de bordo é converter sentimentos subjetivos em dados objetivos. Escrever desabafos emocionais como 'hoje me senti muito estressado' antes de dormir reativa a amígdala, piorando a insônia. Exclua lamentações subjetivas. Em vez disso, registre dados quantificados: '4 de 5 metas concluídas', 'Progresso: 80%', 'Prioridade para amanhã: 1 item'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Escrever em um aplicativo de notas no celular produz o mesmo efeito de calma na amígdala?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A base do diário de bordo é converter sentimentos subjetivos em dados objetivo
       Não. A escrita manual fornece uma retroalimentação tátil que engaja ativamente os córtex motor e somatossensorial, fortalecendo o controle pré-frontal. Além disso, a luz azul do celular suprime a melatonina e prejudica o sono. Recomenda-se um caderno físico de papel.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que devo fazer nos dias em que estiver exausto demais para escrever um registro completo antes de dormir?</span>

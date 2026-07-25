@@ -1,216 +1,318 @@
 {
   "rosalind-franklin-diffraction-focus": {
-    "title": {
-      "ko": "DNA 구조 비밀을 밝힌 여성 과학자? 로잘린드 프랭클린의 0.1도 정밀 검수 루틴",
-      "en": "The Female Scientist Who Unlocked DNA's Secret? Rosalind Franklin's 0.1-Degree Precision Checking Routine",
-      "ja": "DNA構造の秘密を解き明かした女性科学者？ロザリンド・フランクリンの0.1度精密検証ルーティン",
-      "zh": "揭开DNA结构奥秘的女科学家？罗扎琳德·富兰克林的0.1度精密复核习惯",
-      "es": "¿La científica que reveló el secreto del ADN? La rutina de revisión con 0.1 grados de precisión de Rosalind Franklin",
-      "de": "Die Wissenschaftlerin, die das Geheimnis der DNA entschlüsselte? Rosalind Franklins 0,1-Grad-Präzisions-Prüfroutine",
-      "fr": "La scientifique qui a révélé le secret de l'ADN ? La routine de vérification à 0,1 degré de précision de Rosalind Franklin",
-      "pt": "A cientista que revelou o segredo do DNA? A rotina de verificação com precisão de 0,1 grau de Rosalind Franklin",
-      "id": "Ilmuwan Wanita yang Membuka Rahasia Struktur DNA? Rutinitas Pemeriksaan Presisi 0,1 Derajat Rosalind Franklin"
-    },
-    "description": {
-      "ko": "DNA 이중나선 사진 'Photo 51'을 완성한 로잘린드 프랭클린의 타협 없는 0.1도 미세 오차 검수 습관과 현대인을 위한 정밀성 강화 가이드.",
-      "en": "Rosalind Franklin created 'Photo 51', crucial to unlocking the DNA double helix. Explore her uncompromising 0.1-degree error-checking habit and a precision enhancement guide for modern professionals.",
-      "ja": "DNA二重らせん写真「Photo 51」を完成させたロザリンド・フランクリンの妥協なき0.1度微小誤差検証習慣と、現代人のための精密性強化ガイド。",
-      "zh": "探讨拍摄出DNA双螺旋关键“51号照片（Photo 51）”的罗扎琳德·富兰克林绝不妥协的0.1度微小误差复核习惯，以及面向现代人的精度提升指南。",
-      "es": "Rosalind Franklin logró la 'Foto 51', clave de la doble hélice del ADN. Descubra su hábito de revisión con margen de error de 0.1 grados y una guía de precisión para la vida moderna.",
-      "de": "Rosalind Franklin schuf 'Foto 51', den Schlüssel zur DNA-Doppelhelix. Entdecken Sie ihre kompromisslose 0,1-Grad-Prüfroutine und eine Anleitung zur Erhöhung der Präzision.",
-      "fr": "Rosalind Franklin a capturé le 'Cliché 51', clé de la double hélice de l'ADN. Découvrez son habitude de vérification à 0,1 degré près et un guide pour renforcer la précision.",
-      "pt": "Rosalind Franklin obteve a 'Foto 51', essencial para a dupla hélice do DNA. Conheça seu hábito intransigente de verificação a 0,1 grau de erro e um guia de precisão para a vida moderna.",
-      "id": "Rosalind Franklin melahirkan 'Foto 51', kunci struktur untai ganda DNA. Pelajari kebiasaan pemeriksaan kesalahan 0,1 derajat tanpa kompromi dan panduan presisi untuk kehidupan modern."
-    },
-    "authority": {
-      "ko": "로잘린드 프랭클린 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical Biography & Autobiographical Verification of Rosalind Franklin & Cognitive Neuroscience Research",
-      "ja": "ロザリンド・フランクリン歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "罗扎琳德·富兰克林历史传记与自传考证及认知神经科学研究",
-      "es": "Investigación biográfica histórica sobre Rosalind Franklin e investigación en Neurociencia Cognitiva",
-      "de": "Historische Biografie-Prüfung zu Rosalind Franklin & Kognitive Neurowissenschaften",
-      "fr": "Vérification des biographies historiques de Rosalind Franklin & recherche en neurosciences cognitives",
-      "pt": "Pesquisa histórica biográfica sobre Rosalind Franklin & pesquisa em Neurociência Cognitiva",
-      "id": "Riset biografi historis Rosalind Franklin & penelitian Ilmu Saraf Kognitif"
-    },
-    "intro": {
-      "ko": "20세기 생명과학 역사상 가장 위대한 발견으로 손꼽히는 DNA 이중선구조 해독의 결정적 열쇠인 '51번 사진(Photo 51)'을 촬영하고 탄소 및 바이러스 결정학의 새 지평을 연 영국의 여성 물리화학자, 로잘린드 프랭클린(Rosalind Franklin, 1920–1958). 수많은 편견과 척박한 연구 환경 속에서도 그녀가 도출해낸 실험 데이터들은 단 0.01%의 오차도 허용하지 않는 완벽함 그 자체였습니다. 🧬\n\n킹스 컬리지 런던의 어두운 지하 실험실에서 로잘린드 프랭클린은 X선 회절 카메라의 각도를 0.1도 단위로 정밀 조율하며 수백 시간 동안 묵묵히 엑스선 사진을 촬영했습니다. 그녀는 현상된 필름 수치와 실제 기하학적 계산을 마이크로 단위로 직접 손으로 짚아가며 꼼꼼히 1:1 대조하고 검수했습니다. 감정이나 섣부른 추측에 의존하지 않고, 오직 엄밀한 데이터 검증만을 신뢰했던 그녀의 정량 검수 습관이 인류의 생명 비밀을 풀어내는 금빛 입자를 발견하게 만들었습니다.\n\n오늘 포스트에서는 로잘린드 프랭클린이 실천했던 0.1도 정밀 검수 및 데이터 대조 루틴에 담긴 두정엽 공간 인지 회로 강화와 업무 품질 100% 보장 가이드를 소개합니다.",
-      "en": "Rosalind Franklin (1920–1958) was a brilliant British physical chemist who captured 'Photo 51'—the critical key to decoding the DNA double helix structure, regarded as one of the greatest scientific discoveries of the 20th century. Amidst severe prejudice and challenging research conditions, her experimental data permitted not even a 0.01% margin of error. 🧬\n\nIn a dimly lit basement laboratory at King's College London, Franklin spent hundreds of hours adjusting the angle of an X-ray diffraction camera in precise 0.1-degree increments. She carefully cross-checked film measurement values against mathematical calculations by hand down to the micrometer level. Rejecting speculation and relying solely on rigorous empirical verification, her quantitative checking habit uncovered the gold particle that unlocked the secrets of life.\n\nIn this post, we explore Rosalind Franklin's 0.1-degree precision checking routine and introduce a guide to strengthening parietal spatial cognition and ensuring 100% work quality.",
-      "ja": "20世紀の生命科学史上最も偉大な発見に数えられるDNA二重らせん構造解読の決定的な鍵である「51番写真（Photo 51）」を撮影し、炭素およびウイルス結晶学の新たな地平を開いた英国の女性物理化学者、ロザリンド・フランクリン（Rosalind Franklin, 1920–1958）。数々の偏見と過酷な研究環境の中でも、彼女が導き出した実験データはわずか0.01%の誤差も許さない完璧そのものでした。 🧬\n\nキングス・カレッジ・ロンドンの暗い地下実験室で、ロザリンド・フランクリンはX線回折カメラの角度を0.1度単位で精密に調整し、数百時間もの間黙々とX線写真を撮影しました。彼女は現像されたフィルムの数値と実際の幾何学的計算をマイクロ単位で直接手で指し示しながら、几帳面に1:1で対照し検証しました。感情や早計な推測に頼らず、ただ厳密なデータ検証のみを信頼した彼女の定量検証習慣が、人類の生命の秘密を解き明かす黄金の粒子を発見させました。\n\n本記事では、ロザリンド・フランクリンが実践した0.1度精密検証およびデータ対照ルーティンに込められた頭頂葉空間認知回路の強化と、仕事の品質100%保証ガイドを紹介します。",
-      "zh": "罗扎琳德·富兰克林（Rosalind Franklin，1920–1958）是一位杰出的英国物理化学家，她拍摄的“51号照片（Photo 51）”是解开DNA双螺旋结构的决定性钥匙，被誉为20世纪生命科学史上最伟大的发现之一。在重重偏见与艰苦的研究环境中，她得出的实验数据展现出了不允许存在0.01%误差的完美品质。 🧬\n\n在伦敦国王学院昏暗的地下实验室里，富兰克林以0.1度为单位精细调整X射线衍射摄像机的角度，静默拍摄了数百小时的X射线照片。她用手指点着胶片上的微米级测量数值，与实际几何计算进行严谨的1:1比对复核。她不依赖主观情绪或轻率推测，唯独信仰严谨的数据验证，正是这种定量复核习惯，促成了破解生命奥秘的金子般发现。\n\n本文将探讨富兰克林0.1度精密复核及数据比对习惯如何强化顶叶空间认知回路，并提供确保100%工作质量的实操指南。",
-      "es": "Rosalind Franklin (1920–1958) fue una brillante fisicoquímica británica que capturó la 'Foto 51', la clave decisiva para descifrar la estructura en doble hélice del ADN, uno de los hallazgos más trascendentales del siglo XX. A pesar de los prejuicios y las difíciles condiciones, sus datos no admitían ni un 0.01% de margen de error. 🧬\n\nEn un sótano de King's College de Londres, Franklin pasó cientos de horas ajustando la cámara de difracción de rayos X en incrementos de 0.1 grados. Verificaba a mano y punto por punto las mediciones de la película frente a los cálculos geométricos. Su hábito de revisión cuantitativa rigurosa le permitió descubrir la clave dorada del ADN.\n\nEn este artículo, exploramos la rutina de revisión con 0.1 grados de precisión de Rosalind Franklin y ofrecemos una guía para potenciar la cognición espacial parietal y garantizar una calidad de trabajo impecable.",
-      "de": "Rosalind Franklin (1920–1958) war eine herausragende britische Physiko-Chemikerin, die 'Foto 51' aufnahm – den entscheidenden Schlüssel zur Entschlüsselung der DNA-Doppelhelix. Trotz Vorurteilen und schwierigen Bedingungen wiesen ihre Daten nicht den geringsten Fehler auf. 🧬\n\nIn einem dunklen Kellerlabor des King's College London verbrachte Franklin hunderte Stunden damit, den Winkel der Röntgenkamera in präzisen 0,1-Grad-Schritten zu justieren. Sie glich die Messwerte der Filme manuell bis auf den Mikrometer mit mathematischen Berechnungen ab. Ihre strikte quantitative Prüfroutine deckte die Geheimnisse des Lebens auf.\n\nIn diesem Beitrag analysieren wir Franklins 0,1-Grad-Präzisions-Prüfroutine und zeigen, wie Sie die räumliche Kognition stärken und 100% Qualität garantieren.",
-      "fr": "Rosalind Franklin (1920–1958) est une brillante physico-chimiste britannique qui a capturé le 'Cliché 51', clé décisive du décodage de la double hélice de l'ADN. Malgré des préjugés tenaces, ses données expérimentales ne toléraient pas la moindre erreur. 🧬\n\nDans un laboratoire en sous-sol du King's College de Londres, Franklin a ajusté l'angle d'un appareil à diffraction de rayons X par incréments de 0,1 degré pendant des centaines d'heures. Elle contrôlait manuellement les mesures des films par rapport aux calculs géométriques au micromètre près. Son habitude de contrôle rigoureux a révélé la structure même de la vie.\n\nDans cet article, nous analysons la routine de vérification à 0,1 degré de Rosalind Franklin et proposons un guide pour renforcer la cognition spatiale et garantir une qualité de travail irréprochable.",
-      "pt": "Rosalind Franklin (1920–1958) foi uma brilhante físico-química britânica que capturou a 'Foto 51', a chave para decifrar a dupla hélice do DNA. Apesar dos preconceitos e das condições adversas, seus dados experimentais não toleravam margem de erro. 🧬\n\nEm um laboratório no subsolo do King's College de Londres, Franklin passou centenas de horas ajustando a câmera de difração de raios X em incrementos de 0,1 grau. Ela conferia manualmente cada medição do filme contra cálculos geométricos no nível micrométrico. Seu hábito de verificação rigoroso revelou os segredos da vida.\n\nNeste post, exploramos a rotina de verificação com precisão de 0,1 grau de Rosalind Franklin e apresentamos um guia para reforçar a cognição espacial e garantir 100% de qualidade no trabalho.",
-      "id": "Rosalind Franklin (1920–1958) adalah ahli kimia fisik Inggris luar biasa yang mengabadikan 'Foto 51'—kunci penting untuk memecahkan struktur untai ganda DNA. Di tengah prasangka dan kondisi penelitian yang menantang, data eksperimennya tidak mengizinkan margin kesalahan sekecil apa pun. 🧬\n\nDi laboratorium ruang bawah tanah King's College London, Franklin menghabiskan ratusan jam menyesuaikan sudut kamera difraksi sinar-X dalam selisih presisi 0,1 derajat. Ia memeriksa nilai pengukuran film dengan perhitungan geometris secara manual hingga tingkat mikrometer. Kebiasaan pemeriksaan kuantitatifnya melahirkan penemuan emas yang membuka rahasia kehidupan.\n\nDalam artikel ini, kami membahas rutinitas pemeriksaan presisi 0,1 derajat Rosalind Franklin dan menyajikan panduan untuk memperkuat kognisi spasial serta memastikan kualitas kerja 100%."
-    },
-    "whyTitle": {
-      "ko": "두정엽 공간 수치 대조를 통한 인지 오류 차단과 품질 극대화",
-      "en": "Blocking Cognitive Errors via Parietal Spatial Numerical Matching",
-      "ja": "頭頂葉空間数値対照による認知エラー遮断と品質極大化",
-      "zh": "通过顶叶空间数字比对拦截认知错误与品质极大化",
-      "es": "Prevención de errores cognitivos mediante la verificación numérica espacial parietal",
-      "de": "Blockieren kognitiver Fehler durch parietalen Abgleich räumlicher Zahlenwerte",
-      "fr": "Blocage des erreurs cognitives par confrontation numérique spatiale pariétale",
-      "pt": "Bloqueio de erros cognitivos através da conferência numérica espacial parietal",
-      "id": "Mencegah Kesalahan Kognitif Lewat Pencocokan Angka Spasial Parietal"
-    },
-    "whyDesc": {
-      "ko": "뇌는 익숙한 작업을 할 때 '대략 맞겠지'라는 휴리스틱(Heuristics) 착각에 빠져 치명적 오탈자나 수치 오류를 지나치기 쉽습니다.\n\n프랭클린처럼 실제 수치와 지표를 1:1로 손으로 직접 짚으며 검수하는 <strong>'정량 데이터 미세 대조'</strong>는 좌뇌 논리 회로와 두정엽 공간 인지를 동시 활성화합니다. 뇌의 섣부른 추측을 차단하고 완벽한 오차 제로 상태를 달성하게 만듭니다.",
-      "en": "When performing familiar tasks, the brain falls prey to heuristics ('it's probably fine'), easily overlooking critical typos or numerical errors.\n\nHand-checking values 1-to-1 against raw source data—like Franklin's <strong>'Quantitative Data Micro-Matching'</strong>—simultaneously activates left-brain logic and parietal spatial cognition. This blocks premature cognitive assumptions and achieves near-zero error rates.",
-      "ja": "脳は慣れた作業を行う時、「大体合っているだろう」というヒューリスティックス（Heuristics）の錯覚に陥り、致命的な誤字や数値エラーを見落としがちです。\n\nフランクリンのように実際の数値や指標を1:1で手で直接指し示しながら検証する<strong>「定量データ微小対照」</strong>は、左脳の論理回路と頭頂葉の空間認知を同時に活性化します。脳の早計な推測を遮断し、完璧な誤差ゼロ状態を達成させます。",
-      "zh": "大脑在处理熟悉的工作时，极易陷入“大概正确吧”的直觉偏见（Heuristics）错觉中，从而漏掉致命的错别字或数据错误。\n\n像富兰克林那样用手指点着原始数据进行1:1比对复核的<strong>“定量数据微观比对”</strong>，能同时激活左脑逻辑回路与顶叶空间认知，拦截大脑的轻率推断，达成接近零误差的品质。",
-      "es": "Al realizar tareas familiares, el cerebro cae en heurísticos ('probablemente esté bien'), ignorando errores numéricos o tipográficos graves.\n\nLa <strong>'Micro-verificación Cuantitativa de Datos'</strong> de Franklin —señalando valores 1 a 1 a mano— activa la lógica del hemisferio izquierdo y la cognición espacial parietal, bloqueando suposiciones prematuras y reduciendo los errores a cero.",
-      "de": "Bei vertrauten Aufgaben verfällt das Gehirn Heuristiken ('es wird schon passen') und übersieht kritische Fehler.\n\nFranklins <strong>'Quantitativer Mikro-Datenabgleich'</strong> – das manuelle 1:1-Prüfen von Zahlen – aktiviert die Logik der linken Gehirnhälfte und parietale räumliche Kognition. Dies verhindert unüberlegte Annahmen und erzielt eine minimale Fehlerquote.",
-      "fr": "Lors de tâches familières, le cerveau cède aux heuristiques (« tout doit être bon »), négligeant les coquilles ou erreurs numériques.\n\nLe <strong>« micro-contrôle quantitatif »</strong> de Franklin – qui vérifie manuellement les valeurs point par point – active la logique de l'hémisphère gauche et la cognition spatiale pariétale, bloquant les assomptions hâtives pour atteindre le zéro défaut.",
-      "pt": "Em tarefas familiares, o cérebro recorre a heurísticas ('deve estar certo'), ignorando erros numéricos ou de digitação.\n\nA <strong>'Micro-conferência Quantitativa de Dados'</strong> de Franklin — apontando valores 1 a 1 manualmente — ativa a lógica do hemisfério esquerdo e a cognição espacial parietal, eliminando suposições precipitadas e garantindo zero erro.",
-      "id": "Saat melakukan tugas biasa, otak mudah terjebak heuristik ('mungkin sudah benar'), melewatkan kesalahan ketik atau angka yang fatal.\n\n<strong>'Pencocokan Mikro Data Kuantitatif'</strong> ala Franklin—memeriksa nilai 1-ke-1 secara manual—mengaktifkan logika otak kiri dan kognisi spasial parietal secara bersamaan, memblokir asumsi prematur dan mencapai tingkat kesalahan nol."
-    },
-    "cautionTitle": {
-      "ko": "마무리 단계에서 속도보다 확실성을 우선하세요",
-      "en": "Prioritize Certainty Over Speed in the Final Phase",
-      "ja": "仕上げの段階では速度より確実性を優先してください",
-      "zh": "收尾阶段请将确定性置于速度之上",
-      "es": "Priorice la certeza sobre la velocidad en la fase final",
-      "de": "Priorisieren Sie Gewissheit vor Geschwindigkeit in der Schlussphase",
-      "fr": "Priorisez la certitude sur la vitesse lors de la phase finale",
-      "pt": "Priorize a certeza em detrimento da velocidade na fase final",
-      "id": "Prioritaskan Kepastian di Atas Kecepatan pada Tahap Akhir"
-    },
-    "cautionDesc": {
-      "ko": "마지막 순간 서두르면 사소한 오탈자나 계산 실수가 전체 결과물의 신뢰도를 망칩니다. 검수 10분 동안만큼은 속도를 낮추고 꼼꼼함에 온전히 집중하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.",
-      "en": "Rushing at the last moment allows typos or calculation mistakes to ruin the credibility of your entire work. Slow down during the 10-minute check phase and focus entirely on thoroughness. Rather than relying solely on willpower, build environmental cues that make precision automatic.",
-      "ja": "最後の瞬間に急ぐと、些細な誤字や計算ミスが全体の成果物の信頼性を損ないます。検証の10分間だけは速度を落とし、細やかさに完全に集中してください。無理に意志力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の核心です。",
-      "zh": "在最后关头匆忙行事，微小的错别字或计算失误就会毁掉整个成果的信誉度。在10分钟复核时间内请降低速度，全力专注细节。切勿单凭意志力，请提前设计好能自然触发精细检查的物理环境与习惯信号。",
-      "es": "Apresurarse al final permite que errores menores arruinen la credibilidad de todo su trabajo. Reduzca la velocidad durante la fase de revisión de 10 minutos y enfóquese en la minuciosidad. Diseñe señales en su entorno para hacer la revisión automática.",
-      "de": "Hektik am Ende führt dazu, dass kleine Fehler die Glaubwürdigkeit der gesamten Arbeit zerstören. Verlangsamen Sie das Tempo während der 10-minütigen Prüfphase. Gestalten Sie Ihre Umgebung so, dass Präzision automatisch wird.",
-      "fr": "Précipiter la fin du travail laisse des fautes mineures ruiner la crédibilité de l'ensemble. Ralentissez pendant la phase de vérification de 10 minutes. Créez des repères environnementaux pour rendre ce contrôle automatique.",
-      "pt": "Apressar-se no final permite que pequenos erros destruam a credibilidade de todo o trabalho. Reduza a velocidade na fase de revisão de 10 minutos. Projete o ambiente para tornar a verificação automática.",
-      "id": "Terburu-buru di akhir membuat kesalahan kecil merusak kredibilitas seluruh hasil kerja Anda. Perlambat tempo selama 10 menit fase pemeriksaan. Rancangkan lingkungan Anda agar proses presisi menjadi otomatis."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "10분 정밀 검수 골든 타임 확보",
-          "en": "Secure a 10-Minute Precision Golden Window",
-          "ja": "10分間の精密検証ゴールデンタイムの確保",
-          "zh": "锁定10分钟精准复核黄金时间",
-          "es": "Reservar una ventana de 10 minutos para la revisión de precisión",
-          "de": "Sichern Sie ein 10-Minuten-Zeitfenster für die Präzisionsprüfung",
-          "fr": "Réserver un créneau de 10 minutes pour la vérification de précision",
-          "pt": "Reserve uma janela de 10 minutos para verificação de precisão",
-          "id": "Sediakan Waktu Emas 10 Menit untuk Pemeriksaan Presisi"
-        },
-        "text": {
-          "ko": "보고서 제출, 코드 배포, 기획안 완결 직전 10분을 오직 오류 검수만을 위한 전용 시간으로 확보합니다.",
-          "en": "Reserve the final 10 minutes right before submitting a report, deploying code, or finalizing a proposal strictly for error checking.",
-          "ja": "レポート提出、コードデプロイ、企画案完結の直前10分を、エラー検証のためだけの専用時間として確保します。",
-          "zh": "在提交报告、部署代码或完结方案前的最后10分钟，专门锁定为无干扰的错误复核时间。",
-          "es": "Reserve los últimos 10 minutos antes de entregar un informe, desplegar código o finalizar una propuesta exclusivamente para revisar errores.",
-          "de": "Reservieren Sie die letzten 10 Minuten vor der Abgabe von Berichten, Code-Deployments oder Angeboten ausschließlich für die Fehlerprüfung.",
-          "fr": "Consacrez les 10 dernières minutes avant de soumettre un rapport, déployer du code ou finaliser un projet exclusivement au contrôle d'erreurs.",
-          "pt": "Reserve os últimos 10 minutos antes de entregar um relatório, implantar código ou finalizar uma proposta exclusivamente para verificação de erros.",
-          "id": "Sisihkan 10 menit terakhir sebelum menyerahkan laporan, merilis kode, atau memfinalisasi proposal khusus untuk pemeriksaan kesalahan."
-        }
+    "pubDate": "2026-02-24",
+    "updatedDate": "2026-02-24",
+    "heroImage": "/images/blog/rosalind_franklin_diffraction_focus.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "DNA 구조 비밀을 밝힌 여성 과학자? 로잘린드 프랭클린의 0.1도 정밀 검수 루틴",
+        "description": "DNA 이중나선 사진 'Photo 51'을 완성한 로잘린드 프랭클린의 타협 없는 0.1도 미세 오차 검수 습관과 현대인을 위한 정밀성 강화 가이드.",
+        "authority": "로잘린드 프랭클린 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "20세기 생명과학 역사상 가장 위대한 발견으로 손꼽히는 DNA 이중선구조 해독의 결정적 열쇠인 '51번 사진(Photo 51)'을 촬영하고 탄소 및 바이러스 결정학의 새 지평을 연 영국의 여성 물리화학자, 로잘린드 프랭클린(Rosalind Franklin, 1920–1958). 수많은 편견과 척박한 연구 환경 속에서도 그녀가 도출해낸 실험 데이터들은 단 0.01%의 오차도 허용하지 않는 완벽함 그 자체였습니다. 🧬\n\n킹스 컬리지 런던의 어두운 지하 실험실에서 로잘린드 프랭클린은 X선 회절 카메라의 각도를 0.1도 단위로 정밀 조율하며 수백 시간 동안 묵묵히 엑스선 사진을 촬영했습니다. 그녀는 현상된 필름 수치와 실제 기하학적 계산을 마이크로 단위로 직접 손으로 짚아가며 꼼꼼히 1:1 대조하고 검수했습니다. 감정이나 섣부른 추측에 의존하지 않고, 오직 엄밀한 데이터 검증만을 신뢰했던 그녀의 정량 검수 습관이 인류의 생명 비밀을 풀어내는 금빛 입자를 발견하게 만들었습니다.\n\n오늘 포스트에서는 로잘린드 프랭클린이 실천했던 0.1도 정밀 검수 및 데이터 대조 루틴에 담긴 두정엽 공간 인지 회로 강화와 업무 품질 100% 보장 가이드를 소개합니다.",
+        "whyTitle": "두정엽 공간 수치 대조를 통한 인지 오류 차단과 품질 극대화",
+        "whyDesc": "뇌는 익숙한 작업을 할 때 '대략 맞겠지'라는 휴리스틱(Heuristics) 착각에 빠져 치명적 오탈자나 수치 오류를 지나치기 쉽습니다.\n\n프랭클린처럼 실제 수치와 지표를 1:1로 손으로 직접 짚으며 검수하는 <strong>'정량 데이터 미세 대조'</strong>는 좌뇌 논리 회로와 두정엽 공간 인지를 동시 활성화합니다. 뇌의 섣부른 추측을 차단하고 완벽한 오차 제로 상태를 달성하게 만듭니다.",
+        "cautionTitle": "마무리 단계에서 속도보다 확실성을 우선하세요",
+        "cautionDesc": "마지막 순간 서두르면 사소한 오탈자나 계산 실수가 전체 결과물의 신뢰도를 망칩니다. 검수 10분 동안만큼은 속도를 낮추고 꼼꼼함에 온전히 집중하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.",
+        "steps": [
+          {
+            "title": "10분 정밀 검수 골든 타임 확보",
+            "desc": "보고서 제출, 코드 배포, 기획안 완결 직전 10분을 오직 오류 검수만을 위한 전용 시간으로 확보합니다."
+          },
+          {
+            "title": "지표 및 수치 1:1 오프라인 대조",
+            "desc": "화면의 수치나 텍스트를 손가락이나 펜 끝으로 짚아가며 원본 출처 데이터와 1:1로 정밀 확인합니다."
+          },
+          {
+            "title": "검수 완료 사인 및 품질 확정",
+            "desc": "검수를 마친 후 노트에 '오차 검수 완료' 표시나 서명을 남기고 완벽한 품질로 최종 작업을 마무리합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "매번 꼼꼼히 검수하는 데 시간이 너무 많이 걸리지 않나요?",
+            "answer": "나중에 오타나 숫자가 틀려 수정하고 사과하고 재작업하는 데 드는 시간이 10배 더 큽니다. 사전 10분 검수가 결국 가장 빠른 길입니다."
+          },
+          {
+            "question": "텍스트나 일반 직무에서도 정량 대조를 쓸 수 있나요?",
+            "answer": "네! 날짜, 맞춤법, 첨부파일 링크, 고객명 등 오류가 나기 쉬운 핵심 요소 3가지를 정량적 체크리스트로 만들어 동일하게 적용할 수 있습니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "지표 및 수치 1:1 오프라인 대조",
-          "en": "Perform 1-to-1 Physical Matching of Metrics and Numbers",
-          "ja": "指標および数値の1:1オフライン対照",
-          "zh": "对指标与数据进行1:1实体逐字比对",
-          "es": "Realizar una verificación física 1 a 1 de datos y números",
-          "de": "1:1-Datenabgleich von Kennzahlen und Werten",
-          "fr": "Effectuer un contrôle physique 1 à 1 des métriques et des chiffres",
-          "pt": "Realizar conferência física 1 a 1 de métricas e números",
-          "id": "Lakukan Pencocokan Fisik 1-ke-1 untuk Angka dan Indikator"
-        },
-        "text": {
-          "ko": "화면의 수치나 텍스트를 손가락이나 펜 끝으로 짚아가며 원본 출처 데이터와 1:1로 정밀 확인합니다.",
-          "en": "Point with a pen or finger at each value or word on your screen, cross-checking 1-to-1 against raw source data.",
-          "ja": "画面の数値やテキストを指やペンの先で指し示しながら、元データと1:1で精密に確認します。",
-          "zh": "用手指或笔尖逐一指着屏幕上的数值或文字，与原始数据源进行1:1精细核对。",
-          "es": "Señale con un bolígrafo o el dedo cada valor en pantalla, verificándolo punto por punto contra los datos de origen.",
-          "de": "Tippen Sie mit einem Stift oder Finger auf jeden Wert auf dem Bildschirm und gleichen Sie ihn 1:1 mit den Quelldaten ab.",
-          "fr": "Pointez du doigt ou avec un stylo chaque valeur à l'écran, en la comparant 1 à 1 avec les données de référence.",
-          "pt": "Aponte com a caneta ou o dedo cada valor na tela, conferindo ponto a ponto contra os dados de origem.",
-          "id": "Tunjuk setiap nilai atau kata di layar dengan pena atau jari, mencocokkan 1-ke-1 dengan data sumber asli."
-        }
+      "en": {
+        "title": "The Female Scientist Who Unlocked DNA's Secret? Rosalind Franklin's 0.1-Degree Precision Checking Routine",
+        "description": "Rosalind Franklin created 'Photo 51', crucial to unlocking the DNA double helix. Explore her uncompromising 0.1-degree error-checking habit and a precision enhancement guide for modern professionals.",
+        "authority": "Historical Biography & Autobiographical Verification of Rosalind Franklin & Cognitive Neuroscience Research",
+        "intro": "Rosalind Franklin (1920–1958) was a brilliant British physical chemist who captured 'Photo 51'—the critical key to decoding the DNA double helix structure, regarded as one of the greatest scientific discoveries of the 20th century. Amidst severe prejudice and challenging research conditions, her experimental data permitted not even a 0.01% margin of error. 🧬\n\nIn a dimly lit basement laboratory at King's College London, Franklin spent hundreds of hours adjusting the angle of an X-ray diffraction camera in precise 0.1-degree increments. She carefully cross-checked film measurement values against mathematical calculations by hand down to the micrometer level. Rejecting speculation and relying solely on rigorous empirical verification, her quantitative checking habit uncovered the gold particle that unlocked the secrets of life.\n\nIn this post, we explore Rosalind Franklin's 0.1-degree precision checking routine and introduce a guide to strengthening parietal spatial cognition and ensuring 100% work quality.",
+        "whyTitle": "Blocking Cognitive Errors via Parietal Spatial Numerical Matching",
+        "whyDesc": "When performing familiar tasks, the brain falls prey to heuristics ('it's probably fine'), easily overlooking critical typos or numerical errors.\n\nHand-checking values 1-to-1 against raw source data—like Franklin's <strong>'Quantitative Data Micro-Matching'</strong>—simultaneously activates left-brain logic and parietal spatial cognition. This blocks premature cognitive assumptions and achieves near-zero error rates.",
+        "cautionTitle": "Prioritize Certainty Over Speed in the Final Phase",
+        "cautionDesc": "Rushing at the last moment allows typos or calculation mistakes to ruin the credibility of your entire work. Slow down during the 10-minute check phase and focus entirely on thoroughness. Rather than relying solely on willpower, build environmental cues that make precision automatic.",
+        "steps": [
+          {
+            "title": "Secure a 10-Minute Precision Golden Window",
+            "desc": "Reserve the final 10 minutes right before submitting a report, deploying code, or finalizing a proposal strictly for error checking."
+          },
+          {
+            "title": "Perform 1-to-1 Physical Matching of Metrics and Numbers",
+            "desc": "Point with a pen or finger at each value or word on your screen, cross-checking 1-to-1 against raw source data."
+          },
+          {
+            "title": "Sign Off Check and Finalize Quality",
+            "desc": "After finishing the review, write 'Zero-Error Checked' or sign your notebook, wrapping up your task with absolute quality assurance."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Doesn't thoroughly checking every time take too much time?",
+            "answer": "The time spent fixing typos, apologizing, and reworking errors later is 10 times greater. Spending 10 minutes checking upfront is ultimately the fastest route."
+          },
+          {
+            "question": "Can quantitative matching be applied to general text or non-scientific roles?",
+            "answer": "Yes! Create a quantitative checklist focusing on 3 error-prone key elements (e.g., dates, spelling, attachment links, client names) and apply the exact same method."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "검수 완료 사인 및 품질 확정",
-          "en": "Sign Off Check and Finalize Quality",
-          "ja": "検証完了のサインおよび品質確定",
-          "zh": "签署复核完毕标记并确认品质",
-          "es": "Firmar la verificación y confirmar la calidad final",
-          "de": "Prüfzeichen setzen und Qualität bestätigen",
-          "fr": "Valider le contrôle et confirmer la qualité finale",
-          "pt": "Assinar a verificação e confirmar a qualidade final",
-          "id": "Tandatangani Pemeriksaan dan Konfirmasi Kualitas Akhir"
-        },
-        "text": {
-          "ko": "검수를 마친 후 노트에 '오차 검수 완료' 표시나 서명을 남기고 완벽한 품질로 최종 작업을 마무리합니다.",
-          "en": "After finishing the review, write 'Zero-Error Checked' or sign your notebook, wrapping up your task with absolute quality assurance.",
-          "ja": "検証を終えた後、ノートに「誤差検証完了」の表示やサインを残し、完璧な品質で最終作業を締めくくります。",
-          "zh": "完成复核后，在笔记上标注“误差复核完毕”或进行签名，以绝对无误的品质收尾工作。",
-          "es": "Tras completar la revisión, anote 'Revisión sin errores' o firme en su cuaderno, concluyendo su trabajo con absoluta garantía de calidad.",
-          "de": "Setzen Sie nach Abschluss einen Vermerk 'Fehlerprüfung abgeschlossen' in Ihr Notizbuch und schließen Sie die Arbeit mit perfekter Qualität ab.",
-          "fr": "Après la vérification, inscrivez « Contrôle d'erreur effectué » ou signez votre carnet, concluant votre tâche avec une assurance qualité totale.",
-          "pt": "Após concluir a revisão, anote 'Verificação de erro concluída' em seu caderno, finalizando o trabalho com garantia total de qualidade.",
-          "id": "Setelah menyelesaikan pemeriksaan, tulis 'Pemeriksaan Kesalahan Selesai' di buku catatan, mengakhiri tugas Anda dengan kualitas sempurna."
-        }
+      "zh": {
+        "title": "揭开DNA结构奥秘的女科学家？罗扎琳德·富兰克林的0.1度精密复核习惯",
+        "description": "探讨拍摄出DNA双螺旋关键“51号照片（Photo 51）”的罗扎琳德·富兰克林绝不妥协的0.1度微小误差复核习惯，以及面向现代人的精度提升指南。",
+        "authority": "罗扎琳德·富兰克林历史传记与自传考证及认知神经科学研究",
+        "intro": "罗扎琳德·富兰克林（Rosalind Franklin，1920–1958）是一位杰出的英国物理化学家，她拍摄的“51号照片（Photo 51）”是解开DNA双螺旋结构的决定性钥匙，被誉为20世纪生命科学史上最伟大的发现之一。在重重偏见与艰苦的研究环境中，她得出的实验数据展现出了不允许存在0.01%误差的完美品质。 🧬\n\n在伦敦国王学院昏暗的地下实验室里，富兰克林以0.1度为单位精细调整X射线衍射摄像机的角度，静默拍摄了数百小时的X射线照片。她用手指点着胶片上的微米级测量数值，与实际几何计算进行严谨的1:1比对复核。她不依赖主观情绪或轻率推测，唯独信仰严谨的数据验证，正是这种定量复核习惯，促成了破解生命奥秘的金子般发现。\n\n本文将探讨富兰克林0.1度精密复核及数据比对习惯如何强化顶叶空间认知回路，并提供确保100%工作质量的实操指南。",
+        "whyTitle": "通过顶叶空间数字比对拦截认知错误与品质极大化",
+        "whyDesc": "大脑在处理熟悉的工作时，极易陷入“大概正确吧”的直觉偏见（Heuristics）错觉中，从而漏掉致命的错别字或数据错误。\n\n像富兰克林那样用手指点着原始数据进行1:1比对复核的<strong>“定量数据微观比对”</strong>，能同时激活左脑逻辑回路与顶叶空间认知，拦截大脑的轻率推断，达成接近零误差的品质。",
+        "cautionTitle": "收尾阶段请将确定性置于速度之上",
+        "cautionDesc": "在最后关头匆忙行事，微小的错别字或计算失误就会毁掉整个成果的信誉度。在10分钟复核时间内请降低速度，全力专注细节。切勿单凭意志力，请提前设计好能自然触发精细检查的物理环境与习惯信号。",
+        "steps": [
+          {
+            "title": "锁定10分钟精准复核黄金时间",
+            "desc": "在提交报告、部署代码或完结方案前的最后10分钟，专门锁定为无干扰的错误复核时间。"
+          },
+          {
+            "title": "对指标与数据进行1:1实体逐字比对",
+            "desc": "用手指或笔尖逐一指着屏幕上的数值或文字，与原始数据源进行1:1精细核对。"
+          },
+          {
+            "title": "签署复核完毕标记并确认品质",
+            "desc": "完成复核后，在笔记上标注“误差复核完毕”或进行签名，以绝对无误的品质收尾工作。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "每次都仔细复核会不会太浪费时间？",
+            "answer": "事后修改错别字、致歉及重新工作的消耗时间要高出10倍。事前投入10分钟复核，归根结底是最快的捷径。"
+          },
+          {
+            "question": "文本处理或日常文职工作中也能应用定量比对吗？",
+            "answer": "是的！可以针对日期、拼写、附件链接、客户名称等最易出错的3项核心要素建立定量清单，采用完全相同的复核方法。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "DNA構造の秘密を解き明かした女性科学者？ロザリンド・フランクリンの0.1度精密検証ルーティン",
+        "description": "DNA二重らせん写真「Photo 51」を完成させたロザリンド・フランクリンの妥協なき0.1度微小誤差検証習慣と、現代人のための精密性強化ガイド。",
+        "authority": "ロザリンド・フランクリン歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "20世紀の生命科学史上最も偉大な発見に数えられるDNA二重らせん構造解読の決定的な鍵である「51番写真（Photo 51）」を撮影し、炭素およびウイルス結晶学の新たな地平を開いた英国の女性物理化学者、ロザリンド・フランクリン（Rosalind Franklin, 1920–1958）。数々の偏見と過酷な研究環境の中でも、彼女が導き出した実験データはわずか0.01%の誤差も許さない完璧そのものでした。 🧬\n\nキングス・カレッジ・ロンドンの暗い地下実験室で、ロザリンド・フランクリンはX線回折カメラの角度を0.1度単位で精密に調整し、数百時間もの間黙々とX線写真を撮影しました。彼女は現像されたフィルムの数値と実際の幾何学的計算をマイクロ単位で直接手で指し示しながら、几帳面に1:1で対照し検証しました。感情や早計な推測に頼らず、ただ厳密なデータ検証のみを信頼した彼女の定量検証習慣が、人類の生命の秘密を解き明かす黄金の粒子を発見させました。\n\n本記事では、ロザリンド・フランクリンが実践した0.1度精密検証およびデータ対照ルーティンに込められた頭頂葉空間認知回路の強化と、仕事の品質100%保証ガイドを紹介します。",
+        "whyTitle": "頭頂葉空間数値対照による認知エラー遮断と品質極大化",
+        "whyDesc": "脳は慣れた作業を行う時、「大体合っているだろう」というヒューリスティックス（Heuristics）の錯覚に陥り、致命的な誤字や数値エラーを見落としがちです。\n\nフランクリンのように実際の数値や指標を1:1で手で直接指し示しながら検証する<strong>「定量データ微小対照」</strong>は、左脳の論理回路と頭頂葉の空間認知を同時に活性化します。脳の早計な推測を遮断し、完璧な誤差ゼロ状態を達成させます。",
+        "cautionTitle": "仕上げの段階では速度より確実性を優先してください",
+        "cautionDesc": "最後の瞬間に急ぐと、些細な誤字や計算ミスが全体の成果物の信頼性を損ないます。検証の10分間だけは速度を落とし、細やかさに完全に集中してください。無理に意志力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の核心です。",
+        "steps": [
+          {
+            "title": "10分間の精密検証ゴールデンタイムの確保",
+            "desc": "レポート提出、コードデプロイ、企画案完結の直前10分を、エラー検証のためだけの専用時間として確保します。"
+          },
+          {
+            "title": "指標および数値の1:1オフライン対照",
+            "desc": "画面の数値やテキストを指やペンの先で指し示しながら、元データと1:1で精密に確認します。"
+          },
+          {
+            "title": "検証完了のサインおよび品質確定",
+            "desc": "検証を終えた後、ノートに「誤差検証完了」の表示やサインを残し、完璧な品質で最終作業を締めくくります。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "毎回几帳面に検証するのに時間がかかりすぎませんか？",
+            "answer": "後から誤字や数字の間違いを修正し、謝罪して再作業するのにかかる時間は10倍大きいです。事前の10分間の検証が結局最も早い道です。"
+          },
+          {
+            "question": "テキストや一般的な職務でも定量対照を使えますか？",
+            "answer": "はい！日付、スペル、添付ファイルリンク、顧客名などエラーが起きやすい核心要素3つを定量的なチェックリストにして、同様に適用できます。"
+          }
+        ]
+      },
+      "es": {
+        "title": "¿La científica que reveló el secreto del ADN? La rutina de revisión con 0.1 grados de precisión de Rosalind Franklin",
+        "description": "Rosalind Franklin logró la 'Foto 51', clave de la doble hélice del ADN. Descubra su hábito de revisión con margen de error de 0.1 grados y una guía de precisión para la vida moderna.",
+        "authority": "Investigación biográfica histórica sobre Rosalind Franklin e investigación en Neurociencia Cognitiva",
+        "intro": "Rosalind Franklin (1920–1958) fue una brillante fisicoquímica británica que capturó la 'Foto 51', la clave decisiva para descifrar la estructura en doble hélice del ADN, uno de los hallazgos más trascendentales del siglo XX. A pesar de los prejuicios y las difíciles condiciones, sus datos no admitían ni un 0.01% de margen de error. 🧬\n\nEn un sótano de King's College de Londres, Franklin pasó cientos de horas ajustando la cámara de difracción de rayos X en incrementos de 0.1 grados. Verificaba a mano y punto por punto las mediciones de la película frente a los cálculos geométricos. Su hábito de revisión cuantitativa rigurosa le permitió descubrir la clave dorada del ADN.\n\nEn este artículo, exploramos la rutina de revisión con 0.1 grados de precisión de Rosalind Franklin y ofrecemos una guía para potenciar la cognición espacial parietal y garantizar una calidad de trabajo impecable.",
+        "whyTitle": "Prevención de errores cognitivos mediante la verificación numérica espacial parietal",
+        "whyDesc": "Al realizar tareas familiares, el cerebro cae en heurísticos ('probablemente esté bien'), ignorando errores numéricos o tipográficos graves.\n\nLa <strong>'Micro-verificación Cuantitativa de Datos'</strong> de Franklin —señalando valores 1 a 1 a mano— activa la lógica del hemisferio izquierdo y la cognición espacial parietal, bloqueando suposiciones prematuras y reduciendo los errores a cero.",
+        "cautionTitle": "Priorice la certeza sobre la velocidad en la fase final",
+        "cautionDesc": "Apresurarse al final permite que errores menores arruinen la credibilidad de todo su trabajo. Reduzca la velocidad durante la fase de revisión de 10 minutos y enfóquese en la minuciosidad. Diseñe señales en su entorno para hacer la revisión automática.",
+        "steps": [
+          {
+            "title": "Reservar una ventana de 10 minutos para la revisión de precisión",
+            "desc": "Reserve los últimos 10 minutos antes de entregar un informe, desplegar código o finalizar una propuesta exclusivamente para revisar errores."
+          },
+          {
+            "title": "Realizar una verificación física 1 a 1 de datos y números",
+            "desc": "Señale con un bolígrafo o el dedo cada valor en pantalla, verificándolo punto por punto contra los datos de origen."
+          },
+          {
+            "title": "Firmar la verificación y confirmar la calidad final",
+            "desc": "Tras completar la revisión, anote 'Revisión sin errores' o firme en su cuaderno, concluyendo su trabajo con absoluta garantía de calidad."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿No toma demasiado tiempo revisar minuciosamente cada vez?",
+            "answer": "El tiempo gastado en corregir errores, disculparse y rehacer el trabajo más tarde es 10 veces mayor. Invertir 10 minutos de revisión previa es en realidad el camino más rápido."
+          },
+          {
+            "question": "¿Se puede aplicar el cotejo cuantitativo a textos o tareas administrativas?",
+            "answer": "¡Sí! Cree una lista cuantitativa centrada en 3 elementos clave propensos a errores (fechas, ortografía, enlaces, nombres de clientes) y aplique el mismo método."
+          }
+        ]
+      },
+      "fr": {
+        "title": "La scientifique qui a révélé le secret de l'ADN ? La routine de vérification à 0,1 degré de précision de Rosalind Franklin",
+        "description": "Rosalind Franklin a capturé le 'Cliché 51', clé de la double hélice de l'ADN. Découvrez son habitude de vérification à 0,1 degré près et un guide pour renforcer la précision.",
+        "authority": "Vérification des biographies historiques de Rosalind Franklin & recherche en neurosciences cognitives",
+        "intro": "Rosalind Franklin (1920–1958) est une brillante physico-chimiste britannique qui a capturé le 'Cliché 51', clé décisive du décodage de la double hélice de l'ADN. Malgré des préjugés tenaces, ses données expérimentales ne toléraient pas la moindre erreur. 🧬\n\nDans un laboratoire en sous-sol du King's College de Londres, Franklin a ajusté l'angle d'un appareil à diffraction de rayons X par incréments de 0,1 degré pendant des centaines d'heures. Elle contrôlait manuellement les mesures des films par rapport aux calculs géométriques au micromètre près. Son habitude de contrôle rigoureux a révélé la structure même de la vie.\n\nDans cet article, nous analysons la routine de vérification à 0,1 degré de Rosalind Franklin et proposons un guide pour renforcer la cognition spatiale et garantir une qualité de travail irréprochable.",
+        "whyTitle": "Blocage des erreurs cognitives par confrontation numérique spatiale pariétale",
+        "whyDesc": "Lors de tâches familières, le cerveau cède aux heuristiques (« tout doit être bon »), négligeant les coquilles ou erreurs numériques.\n\nLe <strong>« micro-contrôle quantitatif »</strong> de Franklin – qui vérifie manuellement les valeurs point par point – active la logique de l'hémisphère gauche et la cognition spatiale pariétale, bloquant les assomptions hâtives pour atteindre le zéro défaut.",
+        "cautionTitle": "Priorisez la certitude sur la vitesse lors de la phase finale",
+        "cautionDesc": "Précipiter la fin du travail laisse des fautes mineures ruiner la crédibilité de l'ensemble. Ralentissez pendant la phase de vérification de 10 minutes. Créez des repères environnementaux pour rendre ce contrôle automatique.",
+        "steps": [
+          {
+            "title": "Réserver un créneau de 10 minutes pour la vérification de précision",
+            "desc": "Consacrez les 10 dernières minutes avant de soumettre un rapport, déployer du code ou finaliser un projet exclusivement au contrôle d'erreurs."
+          },
+          {
+            "title": "Effectuer un contrôle physique 1 à 1 des métriques et des chiffres",
+            "desc": "Pointez du doigt ou avec un stylo chaque valeur à l'écran, en la comparant 1 à 1 avec les données de référence."
+          },
+          {
+            "title": "Valider le contrôle et confirmer la qualité finale",
+            "desc": "Après la vérification, inscrivez « Contrôle d'erreur effectué » ou signez votre carnet, concluant votre tâche avec une assurance qualité totale."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Prendre le temps de tout vérifier minutieusement ne fait-il pas perdre trop de temps ?",
+            "answer": "Le temps passé à corriger, s'excuser et refaire le travail plus tard est 10 fois supérieur. Consacrer 10 minutes en amont est finalement le moyen le plus rapide."
+          },
+          {
+            "question": "Peut-on appliquer le contrôle quantitatif aux textes ou aux tâches administratives ?",
+            "answer": "Oui ! Établissez une liste de contrôle sur 3 éléments clés critiques (dates, orthographe, liens, noms de clients) et appliquez la même méthode."
+          }
+        ]
+      },
+      "de": {
+        "title": "Die Wissenschaftlerin, die das Geheimnis der DNA entschlüsselte? Rosalind Franklins 0,1-Grad-Präzisions-Prüfroutine",
+        "description": "Rosalind Franklin schuf 'Foto 51', den Schlüssel zur DNA-Doppelhelix. Entdecken Sie ihre kompromisslose 0,1-Grad-Prüfroutine und eine Anleitung zur Erhöhung der Präzision.",
+        "authority": "Historische Biografie-Prüfung zu Rosalind Franklin & Kognitive Neurowissenschaften",
+        "intro": "Rosalind Franklin (1920–1958) war eine herausragende britische Physiko-Chemikerin, die 'Foto 51' aufnahm – den entscheidenden Schlüssel zur Entschlüsselung der DNA-Doppelhelix. Trotz Vorurteilen und schwierigen Bedingungen wiesen ihre Daten nicht den geringsten Fehler auf. 🧬\n\nIn einem dunklen Kellerlabor des King's College London verbrachte Franklin hunderte Stunden damit, den Winkel der Röntgenkamera in präzisen 0,1-Grad-Schritten zu justieren. Sie glich die Messwerte der Filme manuell bis auf den Mikrometer mit mathematischen Berechnungen ab. Ihre strikte quantitative Prüfroutine deckte die Geheimnisse des Lebens auf.\n\nIn diesem Beitrag analysieren wir Franklins 0,1-Grad-Präzisions-Prüfroutine und zeigen, wie Sie die räumliche Kognition stärken und 100% Qualität garantieren.",
+        "whyTitle": "Blockieren kognitiver Fehler durch parietalen Abgleich räumlicher Zahlenwerte",
+        "whyDesc": "Bei vertrauten Aufgaben verfällt das Gehirn Heuristiken ('es wird schon passen') und übersieht kritische Fehler.\n\nFranklins <strong>'Quantitativer Mikro-Datenabgleich'</strong> – das manuelle 1:1-Prüfen von Zahlen – aktiviert die Logik der linken Gehirnhälfte und parietale räumliche Kognition. Dies verhindert unüberlegte Annahmen und erzielt eine minimale Fehlerquote.",
+        "cautionTitle": "Priorisieren Sie Gewissheit vor Geschwindigkeit in der Schlussphase",
+        "cautionDesc": "Hektik am Ende führt dazu, dass kleine Fehler die Glaubwürdigkeit der gesamten Arbeit zerstören. Verlangsamen Sie das Tempo während der 10-minütigen Prüfphase. Gestalten Sie Ihre Umgebung so, dass Präzision automatisch wird.",
+        "steps": [
+          {
+            "title": "Sichern Sie ein 10-Minuten-Zeitfenster für die Präzisionsprüfung",
+            "desc": "Reservieren Sie die letzten 10 Minuten vor der Abgabe von Berichten, Code-Deployments oder Angeboten ausschließlich für die Fehlerprüfung."
+          },
+          {
+            "title": "1:1-Datenabgleich von Kennzahlen und Werten",
+            "desc": "Tippen Sie mit einem Stift oder Finger auf jeden Wert auf dem Bildschirm und gleichen Sie ihn 1:1 mit den Quelldaten ab."
+          },
+          {
+            "title": "Prüfzeichen setzen und Qualität bestätigen",
+            "desc": "Setzen Sie nach Abschluss einen Vermerk 'Fehlerprüfung abgeschlossen' in Ihr Notizbuch und schließen Sie die Arbeit mit perfekter Qualität ab."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Dauert eine gründliche Prüfung jedes Mal nicht viel zu lange?",
+            "answer": "Der Aufwand, spätere Tippfehler zu korrigieren, sich zu entschuldigen und neu zu arbeiten, ist 10-mal höher. 10 Minuten Vorab-Prüfung sind letztlich der schnellste Weg."
+          },
+          {
+            "question": "Lässt sich der quantitative Abgleich auch auf Texte oder allgemeine Büroarbeiten anwenden?",
+            "answer": "Ja! Erstellen Sie eine quantitative Checkliste für 3 fehleranfällige Elemente (Datumsangaben, Schreibweise, Links, Kundennamen) und wenden Sie dieselbe Methode an."
+          }
+        ]
+      },
+      "pt": {
+        "title": "A cientista que revelou o segredo do DNA? A rotina de verificação com precisão de 0,1 grau de Rosalind Franklin",
+        "description": "Rosalind Franklin obteve a 'Foto 51', essencial para a dupla hélice do DNA. Conheça seu hábito intransigente de verificação a 0,1 grau de erro e um guia de precisão para a vida moderna.",
+        "authority": "Pesquisa histórica biográfica sobre Rosalind Franklin & pesquisa em Neurociência Cognitiva",
+        "intro": "Rosalind Franklin (1920–1958) foi uma brilhante físico-química britânica que capturou a 'Foto 51', a chave para decifrar a dupla hélice do DNA. Apesar dos preconceitos e das condições adversas, seus dados experimentais não toleravam margem de erro. 🧬\n\nEm um laboratório no subsolo do King's College de Londres, Franklin passou centenas de horas ajustando a câmera de difração de raios X em incrementos de 0,1 grau. Ela conferia manualmente cada medição do filme contra cálculos geométricos no nível micrométrico. Seu hábito de verificação rigoroso revelou os segredos da vida.\n\nNeste post, exploramos a rotina de verificação com precisão de 0,1 grau de Rosalind Franklin e apresentamos um guia para reforçar a cognição espacial e garantir 100% de qualidade no trabalho.",
+        "whyTitle": "Bloqueio de erros cognitivos através da conferência numérica espacial parietal",
+        "whyDesc": "Em tarefas familiares, o cérebro recorre a heurísticas ('deve estar certo'), ignorando erros numéricos ou de digitação.\n\nA <strong>'Micro-conferência Quantitativa de Dados'</strong> de Franklin — apontando valores 1 a 1 manualmente — ativa a lógica do hemisfério esquerdo e a cognição espacial parietal, eliminando suposições precipitadas e garantindo zero erro.",
+        "cautionTitle": "Priorize a certeza em detrimento da velocidade na fase final",
+        "cautionDesc": "Apressar-se no final permite que pequenos erros destruam a credibilidade de todo o trabalho. Reduza a velocidade na fase de revisão de 10 minutos. Projete o ambiente para tornar a verificação automática.",
+        "steps": [
+          {
+            "title": "Reserve uma janela de 10 minutos para verificação de precisão",
+            "desc": "Reserve os últimos 10 minutos antes de entregar um relatório, implantar código ou finalizar uma proposta exclusivamente para verificação de erros."
+          },
+          {
+            "title": "Realizar conferência física 1 a 1 de métricas e números",
+            "desc": "Aponte com a caneta ou o dedo cada valor na tela, conferindo ponto a ponto contra os dados de origem."
+          },
+          {
+            "title": "Assinar a verificação e confirmar a qualidade final",
+            "desc": "Após concluir a revisão, anote 'Verificação de erro concluída' em seu caderno, finalizando o trabalho com garantia total de qualidade."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Revisar minuciosamente todas as vezes não consome tempo demais?",
+            "answer": "O tempo gasto para corrigir erros, desculpar-se e refazer o trabalho mais tarde é 10 vezes maior. Dedicar 10 minutos na revisão é o caminho mais rápido."
+          },
+          {
+            "question": "É possível aplicar a conferência quantitativa em textos ou tarefas de escritório?",
+            "answer": "Sim! Crie uma lista quantitativa focada em 3 elementos propensos a erro (datas, ortografia, links, nomes de clientes) e aplique o mesmo método."
+          }
+        ]
+      },
+      "id": {
+        "title": "Ilmuwan Wanita yang Membuka Rahasia Struktur DNA? Rutinitas Pemeriksaan Presisi 0,1 Derajat Rosalind Franklin",
+        "description": "Rosalind Franklin melahirkan 'Foto 51', kunci struktur untai ganda DNA. Pelajari kebiasaan pemeriksaan kesalahan 0,1 derajat tanpa kompromi dan panduan presisi untuk kehidupan modern.",
+        "authority": "Riset biografi historis Rosalind Franklin & penelitian Ilmu Saraf Kognitif",
+        "intro": "Rosalind Franklin (1920–1958) adalah ahli kimia fisik Inggris luar biasa yang mengabadikan 'Foto 51'—kunci penting untuk memecahkan struktur untai ganda DNA. Di tengah prasangka dan kondisi penelitian yang menantang, data eksperimennya tidak mengizinkan margin kesalahan sekecil apa pun. 🧬\n\nDi laboratorium ruang bawah tanah King's College London, Franklin menghabiskan ratusan jam menyesuaikan sudut kamera difraksi sinar-X dalam selisih presisi 0,1 derajat. Ia memeriksa nilai pengukuran film dengan perhitungan geometris secara manual hingga tingkat mikrometer. Kebiasaan pemeriksaan kuantitatifnya melahirkan penemuan emas yang membuka rahasia kehidupan.\n\nDalam artikel ini, kami membahas rutinitas pemeriksaan presisi 0,1 derajat Rosalind Franklin dan menyajikan panduan untuk memperkuat kognisi spasial serta memastikan kualitas kerja 100%.",
+        "whyTitle": "Mencegah Kesalahan Kognitif Lewat Pencocokan Angka Spasial Parietal",
+        "whyDesc": "Saat melakukan tugas biasa, otak mudah terjebak heuristik ('mungkin sudah benar'), melewatkan kesalahan ketik atau angka yang fatal.\n\n<strong>'Pencocokan Mikro Data Kuantitatif'</strong> ala Franklin—memeriksa nilai 1-ke-1 secara manual—mengaktifkan logika otak kiri dan kognisi spasial parietal secara bersamaan, memblokir asumsi prematur dan mencapai tingkat kesalahan nol.",
+        "cautionTitle": "Prioritaskan Kepastian di Atas Kecepatan pada Tahap Akhir",
+        "cautionDesc": "Terburu-buru di akhir membuat kesalahan kecil merusak kredibilitas seluruh hasil kerja Anda. Perlambat tempo selama 10 menit fase pemeriksaan. Rancangkan lingkungan Anda agar proses presisi menjadi otomatis.",
+        "steps": [
+          {
+            "title": "Sediakan Waktu Emas 10 Menit untuk Pemeriksaan Presisi",
+            "desc": "Sisihkan 10 menit terakhir sebelum menyerahkan laporan, merilis kode, atau memfinalisasi proposal khusus untuk pemeriksaan kesalahan."
+          },
+          {
+            "title": "Lakukan Pencocokan Fisik 1-ke-1 untuk Angka dan Indikator",
+            "desc": "Tunjuk setiap nilai atau kata di layar dengan pena atau jari, mencocokkan 1-ke-1 dengan data sumber asli."
+          },
+          {
+            "title": "Tandatangani Pemeriksaan dan Konfirmasi Kualitas Akhir",
+            "desc": "Setelah menyelesaikan pemeriksaan, tulis 'Pemeriksaan Kesalahan Selesai' di buku catatan, mengakhiri tugas Anda dengan kualitas sempurna."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bukankah memeriksa secara teliti setiap kali memakan waktu terlalu banyak?",
+            "answer": "Waktu yang dihabiskan untuk memperbaiki kesalahan, meminta maaf, dan mengerjakan ulang nanti 10 kali lebih besar. Pemeriksaan 10 menit di awal adalah cara tercepat."
+          },
+          {
+            "question": "Apakah pencocokan kuantitatif dapat diterapkan pada teks atau pekerjaan umum?",
+            "answer": "Ya! Buat daftar kuantitatif yang berfokus pada 3 elemen kunci yang rentan kesalahan (tanggal, ejaan, tautan lampiran, nama klien) dan terapkan metode yang sama."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "매번 꼼꼼히 검수하는 데 시간이 너무 많이 걸리지 않나요?",
-          "en": "Doesn't thoroughly checking every time take too much time?",
-          "ja": "毎回几帳面に検証するのに時間がかかりすぎませんか？",
-          "zh": "每次都仔细复核会不会太浪费时间？",
-          "es": "¿No toma demasiado tiempo revisar minuciosamente cada vez?",
-          "de": "Dauert eine gründliche Prüfung jedes Mal nicht viel zu lange?",
-          "fr": "Prendre le temps de tout vérifier minutieusement ne fait-il pas perdre trop de temps ?",
-          "pt": "Revisar minuciosamente todas as vezes não consome tempo demais?",
-          "id": "Bukankah memeriksa secara teliti setiap kali memakan waktu terlalu banyak?"
-        },
-        "answer": {
-          "ko": "나중에 오타나 숫자가 틀려 수정하고 사과하고 재작업하는 데 드는 시간이 10배 더 큽니다. 사전 10분 검수가 결국 가장 빠른 길입니다.",
-          "en": "The time spent fixing typos, apologizing, and reworking errors later is 10 times greater. Spending 10 minutes checking upfront is ultimately the fastest route.",
-          "ja": "後から誤字や数字の間違いを修正し、謝罪して再作業するのにかかる時間は10倍大きいです。事前の10分間の検証が結局最も早い道です。",
-          "zh": "事后修改错别字、致歉及重新工作的消耗时间要高出10倍。事前投入10分钟复核，归根结底是最快的捷径。",
-          "es": "El tiempo gastado en corregir errores, disculparse y rehacer el trabajo más tarde es 10 veces mayor. Invertir 10 minutos de revisión previa es en realidad el camino más rápido.",
-          "de": "Der Aufwand, spätere Tippfehler zu korrigieren, sich zu entschuldigen und neu zu arbeiten, ist 10-mal höher. 10 Minuten Vorab-Prüfung sind letztlich der schnellste Weg.",
-          "fr": "Le temps passé à corriger, s'excuser et refaire le travail plus tard est 10 fois supérieur. Consacrer 10 minutes en amont est finalement le moyen le plus rapide.",
-          "pt": "O tempo gasto para corrigir erros, desculpar-se e refazer o trabalho mais tarde é 10 vezes maior. Dedicar 10 minutos na revisão é o caminho mais rápido.",
-          "id": "Waktu yang dihabiskan untuk memperbaiki kesalahan, meminta maaf, dan mengerjakan ulang nanti 10 kali lebih besar. Pemeriksaan 10 menit di awal adalah cara tercepat."
-        }
-      },
-      {
-        "question": {
-          "ko": "텍스트나 일반 직무에서도 정량 대조를 쓸 수 있나요?",
-          "en": "Can quantitative matching be applied to general text or non-scientific roles?",
-          "ja": "テキストや一般的な職務でも定量対照を使えますか？",
-          "zh": "文本处理或日常文职工作中也能应用定量比对吗？",
-          "es": "¿Se puede aplicar el cotejo cuantitativo a textos o tareas administrativas?",
-          "de": "Lässt sich der quantitative Abgleich auch auf Texte oder allgemeine Büroarbeiten anwenden?",
-          "fr": "Peut-on appliquer le contrôle quantitatif aux textes ou aux tâches administratives ?",
-          "pt": "É possível aplicar a conferência quantitativa em textos ou tarefas de escritório?",
-          "id": "Apakah pencocokan kuantitatif dapat diterapkan pada teks atau pekerjaan umum?"
-        },
-        "answer": {
-          "ko": "네! 날짜, 맞춤법, 첨부파일 링크, 고객명 등 오류가 나기 쉬운 핵심 요소 3가지를 정량적 체크리스트로 만들어 동일하게 적용할 수 있습니다.",
-          "en": "Yes! Create a quantitative checklist focusing on 3 error-prone key elements (e.g., dates, spelling, attachment links, client names) and apply the exact same method.",
-          "ja": "はい！日付、スペル、添付ファイルリンク、顧客名などエラーが起きやすい核心要素3つを定量的なチェックリストにして、同様に適用できます。",
-          "zh": "是的！可以针对日期、拼写、附件链接、客户名称等最易出错的3项核心要素建立定量清单，采用完全相同的复核方法。",
-          "es": "¡Sí! Cree una lista cuantitativa centrada en 3 elementos clave propensos a errores (fechas, ortografía, enlaces, nombres de clientes) y aplique el mismo método.",
-          "de": "Ja! Erstellen Sie eine quantitative Checkliste für 3 fehleranfällige Elemente (Datumsangaben, Schreibweise, Links, Kundennamen) und wenden Sie dieselbe Methode an.",
-          "fr": "Oui ! Établissez une liste de contrôle sur 3 éléments clés critiques (dates, orthographe, liens, noms de clients) et appliquez la même méthode.",
-          "pt": "Sim! Crie uma lista quantitativa focada em 3 elementos propensos a erro (datas, ortografia, links, nomes de clientes) e aplique o mesmo método.",
-          "id": "Ya! Buat daftar kuantitatif yang berfokus pada 3 elemen kunci yang rentan kesalahan (tanggal, ejaan, tautan lampiran, nama klien) dan terapkan metode yang sama."
-        }
-      }
-    ]
+    }
   }
 }

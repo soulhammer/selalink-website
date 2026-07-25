@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un philosophe qui s'est entraîné les épaules avant de chercher les Idées ? L'échauffement physique de haute intensité de Platon"
 description: "Le philosophe grec de l'Antiquité, Platon, était appelé par son surnom de lutteur « épaules larges » plutôt que par son vrai nom. Découvrez les principes neuroscientifiques et les méthodes modernes d'entraînement à la maison derrière sa routine quotidienne d'exercice intense avant les discussions intellectuelles."
 pubDate: "2026-03-05"
@@ -29,25 +30,23 @@ Platon, le grand philosophe qui a posé les fondations de la philosophie occiden
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant plato-gymnastic-wrestling est basée sur <strong>Biographies historiques et écrits sur Platon & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et écrits sur Platon & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Maximisation du débit sanguin cérébral et libération de BDNF grâce à l'entraînement en résistance
+## 1. Maximisation du débit sanguin cérébral et libération de BDNF grâce à l'entraînement en résistance
 
 Selon la physiologie de l'exercice et les sciences cognitives modernes, l'entraînement en résistance à haute intensité (comme les squats ou pompes) augmente immédiatement le débit sanguin cérébral et la saturation en oxygène. Cet éveil physiologique déclenche une libération rapide du facteur neurotrophique dérivé du cerveau (BDNF), une protéine clé qui favorise la neurogenèse et la plasticité synaptique. En même temps, il libère de la dopamine et de la noradrénaline, créant un environnement optimal pour la mémoire à long terme et le raisonnement abstrait.
 
 ---
 
-## Conseils pour éviter les blessures et optimiser le temps de transition
-
-Commencer un exercice intense dès le réveil sans échauffement peut solliciter les articulations et les ligaments. Échauffez toujours vos articulations avec des étirements légers avant les exercices au poids du corps. De plus, une pause de plus de 15 minutes après l'effort dissipe le pic de débit sanguin cérébral ; il est donc préférable de commencer le travail mental complexe dans les 5 minutes suivant la stabilisation de la respiration.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ Commencer un exercice intense dès le réveil sans échauffement peut solliciter
   </p>
 </div>
 
+---
+
+## 3. Conseils pour éviter les blessures et optimiser le temps de transition
+
+Commencer un exercice intense dès le réveil sans échauffement peut solliciter les articulations et les ligaments. Échauffez toujours vos articulations avec des étirements légers avant les exercices au poids du corps. De plus, une pause de plus de 15 minutes après l'effort dissipe le pic de débit sanguin cérébral ; il est donc préférable de commencer le travail mental complexe dans les 5 minutes suivant la stabilisation de la respiration.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Cette routine convient-elle aux débutants ayant des articulations fragiles ou sans expérience ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ Commencer un exercice intense dès le réveil sans échauffement peut solliciter
       Oui, il n'est pas nécessaire de soulever des poids lourds. Adaptez les exercices à votre level avec des pompes contre un mur, des squats lents ou du gainage léger. L'indicateur physiologique pour stimuler le débit sanguin cérébral est une respiration accélérée et une légère transpiration ; ajustez donc l'intensité en toute sécurité.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je remplacer les exercices de renforcement par du cardio léger comme le jogging ou la course ?</span>

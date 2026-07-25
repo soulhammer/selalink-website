@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Invention in Total Darkness: Alexander Graham Bell's Midnight Sensory Deprivation and Deep Work"
 description: "Explore how Alexander Graham Bell, inventor of the telephone who revolutionized human communication, cleared sensory overload and awakened brain executive function through his 'midnight total darkness' deep work, and discover the neuroscientific mechanism of Sensory Deprivation."
 pubDate: "2026-05-12"
@@ -38,22 +39,20 @@ In today's post, we examine the brain science underlying Alexander Graham Bell's
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bell-midnight-darkness is based on <strong>Historical Verification from Robert V. Bruce's Biography *Bell: Alexander Graham Bell and the Conquest of Solitude* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Robert V. Bruce's Biography *Bell: Alexander Graham Bell and the Conquest of Solitude* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation of Visuospatial Sketchpad Circuits via Visual and Auditory Deprivation
+## 1. Activation of Visuospatial Sketchpad Circuits via Visual and Auditory Deprivation
 
 Neuroscientifically, temporarily cutting off external visual and auditory stimuli entering the eyes and ears allows the brain to reallocate attention previously spent on sensory receptors toward high-order association cortices. This Sensory Deprivation state suppresses amygdalar anxiety responses and strongly activates the 'Visuospatial Sketchpad' circuit essential to working memory. Consequently, the prefrontal cortex's executive control functions—which mentally visualize and assemble complex structures or ideas in 3D—improve dramatically.
 
 ---
 
-## Caution & Tips: Preventing Transition into Sleep in Total Darkness
-
-Lying down in complete darkness easily prompts the cerebrum to recognize a sleep environment, transitioning into slow-wave sleep. Therefore, when practicing this sensory deprivation routine, sit upright in a chair with back support instead of lying in bed. If drowsiness sets in, maintain cognitive alertness through light tactile exercises like firmly squeezing and releasing your fingertips.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lying down in complete darkness easily prompts the cerebrum to recognize a sleep
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Preventing Transition into Sleep in Total Darkness
+
+Lying down in complete darkness easily prompts the cerebrum to recognize a sleep environment, transitioning into slow-wave sleep. Therefore, when practicing this sensory deprivation routine, sit upright in a chair with back support instead of lying in bed. If drowsiness sets in, maintain cognitive alertness through light tactile exercises like firmly squeezing and releasing your fingertips.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does this sensory deprivation routine only work if practiced at a fixed time daily?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lying down in complete darkness easily prompts the cerebrum to recognize a sleep
       Practicing at the same time daily conditions the brain to recognize that period as a timing for sensory pause and deep work, accelerating cognitive switching. However, even without a fixed schedule, applying it as an emergency brain-rest and conceptual tool during periods of acute stress or cognitive overload yields significant benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How should I handle environments where surrounding noise cannot be completely eliminated?</span>

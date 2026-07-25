@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'hygiène de vie matinale d'un érudit : la routine d'exercices Hwalinsimbang de Toegye Yi Hwang"
 description: "Toegye Yi Hwang était de constitution fragile, mais a poursuivi son érudition jusqu'à 70 ans grâce aux exercices quotidiens Daoyin et au contrôle de la respiration. Découvrez les mécanismes physiologiques par lesquels ces mouvements doux et la respiration profonde activent le système parasympathique."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ Dans cet article, nous démontrons la valeur physiologique du Hwalinsimbang et p
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant yihwang-hwalinsimbang-exercise est basée sur <strong>Archives historiques du Hwalinsimbang de Toegye Yi Hwang & Recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Archives historiques du Hwalinsimbang de Toegye Yi Hwang & Recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Comment les exercices doux et le contrôle respiratoire équilibrent le système nerveux autonome
+## 1. Comment les exercices doux et le contrôle respiratoire équilibrent le système nerveux autonome
 
 Dès le réveil, le corps subit une hausse de cortisol (réponse de réveil du cortisol) pour passer à l'état actif, ce qui peut causer une accélération du pouls et une légère anxiété. S'exposer à des activités intenses ou aux écrans à ce moment suractive les circuits de l'anxiété. Au contraire, combiner des étirements doux et une respiration abdominale prolongée stimule le nerf vague et active le système parasympathique, stabilisant la variabilité de la fréquence cardiaque (HRV) pour un état d'immersion calme.
 
 ---
 
-## Précautions et conseils
-
-Au réveil, la colonne vertébrale et les fibres musculaires sont très raides. Forcer des mouvements brusques ou des étirements extrêmes peut endommager les disques intervertébraux. Limitez les exercices Daoyin du matin à des étirements doux sans à-coups, en restant strictly dans une amplitude indolore tout en vous concentrant sur la respiration.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Au réveil, la colonne vertébrale et les fibres musculaires sont très raides. 
     Inhalez de l'oxygène frais par le nez, puis rentrez le bas-ventre en expirant lentement et silencieusement par la bouche. Effectuez 10 respirations abdominales profondes pour éveiller le système parasympathique.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Au réveil, la colonne vertébrale et les fibres musculaires sont très raides. Forcer des mouvements brusques ou des étirements extrêmes peut endommager les disques intervertébraux. Limitez les exercices Daoyin du matin à des étirements doux sans à-coups, en restant strictly dans une amplitude indolore tout en vous concentrant sur la respiration.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

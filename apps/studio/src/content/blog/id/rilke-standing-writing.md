@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Otak Bangkit Begitu Anda Berdiri: Rahasia Inmersi Meja Berdiri Rilke"
 description: "Temukan kebiasaan pembangkitan otak fisik penyair Austria Rainer Maria Rilke, yang menulis sambil berdiri. Metode berdiri 3 langkah untuk meningkatkan aliran darah otak dan konsentrasi."
 pubDate: "2026-04-06"
@@ -33,25 +34,23 @@ Dalam artikel hari ini, kita meneliti mekanisme ilmiah di balik rutinitas menuli
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai rilke-standing-writing didasarkan pada <strong>Riset biografi sejarah dan autobiografi tentang Kebiasaan Menulis Berdiri Rilke & studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi sejarah dan autobiografi tentang Kebiasaan Menulis Berdiri Rilke & studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Efek Berdiri' yang Meningkatkan Aliran Darah Otak dan Kewaspadaan Kognitif
+## 1. 'Efek Berdiri' yang Meningkatkan Aliran Darah Otak dan Kewaspadaan Kognitif
 
 Postur duduk bungkuk menghambat ekspansi paru-paru, menghasilkan pernapasan dangkal yang mengurangi pasokan oksigen ke otak. Sebaliknya, berdiri menggunakan meja berdiri memaksa otot-otot besar di kaki, panggul, dan punggung berkontraksi melawan gravitasi, secara halus meningkatkan denyut jantung. Secara neurosains, ini meningkatkan Aliran Darah Otak (CBF) sebesar 10–15%, mengoptimalkan pasokan oksigen dan glukosa. Ketegangan mikro dalam tubuh menstimulasi sistem aktivasi retikuler di batang otak, memicu pelepasan norepinefrin dan dopamin yang mempertajam kontrol perhatian dan kapasitas memori kerja.
 
 ---
 
-## Perlindungan Sendi Tubuh dan Ritme Interval
-
-Bekerja dalam posisi berdiri yang kaku untuk jangka waktu lama dapat menyebabkan varises atau memberi beban berlebih pada sendi lutut dan pinggang. Kebiasaan fokus berdiri harus mengikuti 'aturan interval siklis'. Setelah 30–40 menit fokus berdiri, turunkan tinggi meja dan duduklah selama 20 menit, atau alihkan tumpuan berat badan di antara kedua kaki untuk menjaga kesehatan sendi sekaligus kewaspadaan otak.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Bekerja dalam posisi berdiri yang kaku untuk jangka waktu lama dapat menyebabkan
     Saat alarm berbunyi setelah 30 menit, turunkan tinggi meja atau duduklah di kursi selama 20 menit untuk melakukan tugas perapian ringan, melindungi sendi kaki dan mengurai kelelahan saraf.
   </p>
 </div>
+
+---
+
+## 3. Perlindungan Sendi Tubuh dan Ritme Interval
+
+Bekerja dalam posisi berdiri yang kaku untuk jangka waktu lama dapat menyebabkan varises atau memberi beban berlebih pada sendi lutut dan pinggang. Kebiasaan fokus berdiri harus mengikuti 'aturan interval siklis'. Setelah 30–40 menit fokus berdiri, turunkan tinggi meja dan duduklah selama 20 menit, atau alihkan tumpuan berat badan di antara kedua kaki untuk menjaga kesehatan sendi sekaligus kewaspadaan otak.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

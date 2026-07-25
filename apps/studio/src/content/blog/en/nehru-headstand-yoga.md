@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Headstand on a Cold Prison Floor? Jawaharlal Nehru's Hormone Regulation Method"
 description: "India's first Prime Minister, Jawaharlal Nehru. Reveals the brain science principles and health routine of how he practiced daily morning headstands during 9 years of solitary confinement to boost cerebral blood flow and relieve physical tension."
 pubDate: "2026-03-18"
@@ -38,14 +39,14 @@ In today's post, we reveal the science of increased cerebral blood flow hidden w
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding nehru-headstand-yoga is based on <strong>Jawaharlal Nehru historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Jawaharlal Nehru historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Inverse Gravity Effects: Promoting Cerebral Blood Flow and Deactivating the HPA Stress Axis
+## 1. Inverse Gravity Effects: Promoting Cerebral Blood Flow and Deactivating the HPA Stress Axis
 
 When we stand or sit in a chair all day, gravity pulls blood flow toward the lower body and subjects spinal intervertebral discs to continuous static compression. This heightens autonomic nervous system tension and induces mental fatigue.
 
@@ -53,9 +54,7 @@ Inverted postures reverse the gravitational vector, temporarily surging oxygen a
 
 ---
 
-## Safe Spinal Alignment is the Beginning of Brain Reset
-
-While headstands are an effective brain relaxation technique, unpracticed or forced movements can trigger neck disc injuries and strain the autonomic nervous system. Performed cautiously and adapted to your physical condition like Nehru, it effectively relieves spinal disc compression and stably supplies fresh energy to the brain.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ While headstands are an effective brain relaxation technique, unpracticed or for
   </p>
 </div>
 
+---
+
+## 3. Safe Spinal Alignment is the Beginning of Brain Reset
+
+While headstands are an effective brain relaxation technique, unpracticed or forced movements can trigger neck disc injuries and strain the autonomic nervous system. Performed cautiously and adapted to your physical condition like Nehru, it effectively relieves spinal disc compression and stably supplies fresh energy to the brain.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it safe for individuals with neck pain or spinal disc issues to practice headstands?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ While headstands are an effective brain relaxation technique, unpracticed or for
       No, individuals suffering from cervical or thoracic disc disorders should avoid traditional headstands where the head directly supports body weight. Instead, you can achieve safe inverse blood flow without disc strain by lying on your back with hips against a wall and extending legs vertically, or placing a cushion under your hips while elevating your legs.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>When is the most suitable time of day to perform headstands?</span>

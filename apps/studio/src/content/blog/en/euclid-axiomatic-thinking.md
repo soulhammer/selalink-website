@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Euclid's Axiomatic Thinking: Breaking Complex Decision Paralysis via First-Principles Deductive Chains"
 description: "Explore how ancient Greek mathematician Euclid solved complex dilemmas by deconstructing them into unquestionable axioms—uncovering the history and cognitive neuroscience behind First Principles reasoning."
 pubDate: "2026-02-21"
@@ -38,22 +39,20 @@ Instead, he wiped away uncertain assumptions, establishing just five undeniable,
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding euclid-axiomatic-thinking is based on <strong>Historical Verification from Euclid's *Elements*, Proclus's *Commentary on Euclid's Elements* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Euclid's *Elements*, Proclus's *Commentary on Euclid's Elements* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why Axiomatic Recombination Prevents Cognitive Overload and Heuristic Biases
+## 1. Why Axiomatic Recombination Prevents Cognitive Overload and Heuristic Biases
 
 According to cognitive psychology, the human brain easily falls prey to judgment errors when polluted by convention or mental shortcuts (heuristics). Euclid's axiomatic thinking extracts irreducible <strong>'First Principles'</strong> and self-evident facts (axioms) to serve as the sole baseline for reasoning. This axiomatic recombination mechanism strips away uncertain assumptions beforehand, immediately reducing cognitive load on the Prefrontal Cortex (PFC). Furthermore, it optimizes the parietal lobe's visuospatial sketchpad and logical computation circuits, helping structure complex dilemmas coherently from their core fundamentals.
 
 ---
 
-## Caution: Never Mistake Unverified Assumptions for True Axioms
-
-You must never mistake unproven personal experiences or external assertions for foundational facts. Before formulating solutions, strictly isolate 100% indisputable, fundamental truths (axioms). Remember that if your starting premises are flawed, every subsequent deductive conclusion will collapse like a house of cards.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ You must never mistake unproven personal experiences or external assertions for 
   </p>
 </div>
 
+---
+
+## 3. Caution: Never Mistake Unverified Assumptions for True Axioms
+
+You must never mistake unproven personal experiences or external assertions for foundational facts. Before formulating solutions, strictly isolate 100% indisputable, fundamental truths (axioms). Remember that if your starting premises are flawed, every subsequent deductive conclusion will collapse like a house of cards.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How can I apply axiomatic thinking to business or complex decision-making?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ You must never mistake unproven personal experiences or external assertions for 
       First define 3 'irreducible baseline facts'—such as physical project constraints, actual budget, and core user needs. Then, redesign your strategy from scratch strictly on top of that foundational baseline.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What is the difference between conventional logical thinking and Euclid's First-Principles axiomatic reasoning?</span>

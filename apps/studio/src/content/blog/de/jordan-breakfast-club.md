@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Unbesiegbares 6-Uhr-Morgen-Setup: Michael Jordans Breakfast Club und der Winner-Effekt"
 description: "Erfahren Sie, wie Basketball-Legende Michael Jordan mit seinem 'Breakfast Club' um 6 Uhr morgens physische und mentale Grenzen überwand. Entdecken Sie die Neurowissenschaften des Winner-Effekts, Dopamin- und Testosteronschübe und einen 3-Schritte-Plan."
 pubDate: "2026-01-16"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften und Leistungsphysiol
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu jordan-breakfast-club basiert auf <strong>Historische Überprüfung aus Michael Jordans Autobiografie *Driven from Within*, Biografien & Forschung der kognitiven Neurowissenschaften und Leistungsphysiologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Michael Jordans Autobiografie *Driven from Within*, Biografien & Forschung der kognitiven Neurowissenschaften und Leistungsphysiologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Der Winner-Effekt und die Neurowissenschaften von Dopamin und Testosteron
+## 1. Der Winner-Effekt und die Neurowissenschaften von Dopamin und Testosteron
 
 Das Bewältigen einer körperlichen Herausforderung am frühen Morgen veranlasst das Gehirn zur Ausschüttung von <strong>Dopamin</strong> und <strong>Testosteron</strong>. Dies aktiviert den <strong>Winner-Effekt</strong> – eine neurobiologische Rückkopplung, die Tatkraft und Selbstvertrauen für den gesamten Tag steigert. Das gemeinsame Training und anschließende Essen fördert zudem die Ausschüttung von <strong>Oxytocin</strong>, was den Gruppenzusammenhalt und die Disziplin stärkt.
 
 ---
 
-## Vorsichtsmaßnahme: Kognitive Hürden abbauen, ohne auf die Tagesform zu warten
-
-Der Schlüssel zu einer morgendlichen Routine liegt im automatischen Handeln ohne Rücksicht auf die Tagesform. Geben Sie dem Gehirn nach dem Aufwachen keine Zeit zum Zögern. Stehen Sie beim Wecksignal sofort auf und bewegen Sie sich zum Trainingsort, um kognitive Reibung im präfrontalen Kortex zu minimieren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Der Schlüssel zu einer morgendlichen Routine liegt im automatischen Handeln ohn
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Kognitive Hürden abbauen, ohne auf die Tagesform zu warten
+
+Der Schlüssel zu einer morgendlichen Routine liegt im automatischen Handeln ohne Rücksicht auf die Tagesform. Geben Sie dem Gehirn nach dem Aufwachen keine Zeit zum Zögern. Stehen Sie beim Wecksignal sofort auf und bewegen Sie sich zum Trainingsort, um kognitive Reibung im präfrontalen Kortex zu minimieren.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie können Nachtmenschen, denen das frühe Aufstehen schwerfällt, diese Routine anpassen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Der Schlüssel zu einer morgendlichen Routine liegt im automatischen Handeln ohn
       Der Kern der Methode liegt nicht in der Uhrzeit 6:00 Uhr, sondern in der 'Grenzüberwindung direkt nach dem Aufstehen'. Unabhängig von Ihrer Aufstehzeit erzielt ein intensives Training direkt nach dem Aufwachen dieselben Hormonschübe und kognitiven Vorteile.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Führt tägliches hochintensives Training nicht zu Überlastung oder Verletzungen?</span>

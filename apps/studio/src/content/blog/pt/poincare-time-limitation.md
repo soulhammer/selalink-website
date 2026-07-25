@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A revelação do matemático gênio veio durante o descanso? A rotina de limite de foco de 4 horas de Henri Poincaré"
 description: "A fórmula de sucesso de Henri Poincaré de limitar o trabalho focado a 4 horas por dia. Descubra um guia de 3 etapas utilizando os modos focado e difuso do cérebro para desbloquear a inspiração criativa."
 pubDate: "2026-04-19"
@@ -27,17 +28,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre poincare-time-limitation é baseada em <strong>Biografias históricas e escritos sobre Henri Poincaré & pesquisa em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e escritos sobre Henri Poincaré & pesquisa em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Modo focado vs. modo difuso: A capacidade subconsciente de resolução de problemas
+## 1. Modo focado vs. modo difuso: A capacidade subconsciente de resolução de problemas
 
 Segundo a ciência cognitiva, o cérebro opera em dois modos: 'Modo Focado' e 'Modo Difuso'. No Modo Focado, ao trabalhar intensamente, o córtex pré-frontal restringe seu escopo a caminhos específicos. Contudo, ao caminhar ou descansar, o cérebro passa para o Modo Difuso, ativando a Rede de Modo Padrão (DMN).
 
@@ -45,9 +46,7 @@ Durante o Modo Difuso, o subconsciente realiza a 'Incubação' — recombinando 
 
 ---
 
-## Um conselho neurocientífico para um foco sustentável
-
-Ideias criativas não surgem forçando a mente. Estabeleça um limite claro para o tempo de trabalho focado e, quando estiver empacado, levante-se e caminhe para dar ao seu cérebro um descanso no Modo Difuso. Seu subconsciente encontrará a resposta.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,9 +78,15 @@ Ideias criativas não surgem forçando a mente. Estabeleça um limite claro para
   </p>
 </div>
 
+---
+
+## 3. Um conselho neurocientífico para um foco sustentável
+
+Ideias criativas não surgem forçando a mente. Estabeleça um limite claro para o tempo de trabalho focado e, quando estiver empacado, levante-se e caminhe para dar ao seu cérebro um descanso no Modo Difuso. Seu subconsciente encontrará a resposta.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

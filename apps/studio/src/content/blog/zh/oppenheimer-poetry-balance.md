@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "量子物理学家的解压秘诀？罗伯特·奥本海默的夜间诗歌阅读习惯"
 description: "曼哈顿计划负责人奥本海默。探索他在巨大压力下研读梵文古典诗歌、找回大脑认知平衡的放松习惯与实践方法。"
 pubDate: "2026-03-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 oppenheimer-poetry-balance 的内容基于 <strong>罗伯特·奥本海默历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>罗伯特·奥本海默历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 高强度数理认知后唤醒右脑感性回路的异质转换
+## 1. 高强度数理认知后唤醒右脑感性回路的异质转换
 
 长时间接触数字与算法会导致左脑过载，显著降低认知灵活性。像奥本海默一样阅读性质截然不同的文学或诗歌，大脑会经历<strong>“异质认知转换”</strong>。数理皮层的过载随之停止，右脑感性皮层被激活，从而降低压力激素水平。
 
 ---
 
-## 切勿试图分析，将身心融入文字的诗意之中
-
-若试图分析句子的语法或逻辑，大脑会重新进入分析模式。请静心感受意象与韵律。不要单纯依赖意志力，提前设计能自然引发该行为的物理环境与习惯信号才是持之以恒的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 切勿试图分析，将身心融入文字的诗意之中
+
+若试图分析句子的语法或逻辑，大脑会重新进入分析模式。请静心感受意象与韵律。不要单纯依赖意志力，提前设计能自然引发该行为的物理环境与习惯信号才是持之以恒的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>用小说或散文代替诗歌阅读能达到相同的效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，相比于侧重于情节发展的长篇小说，抒情色彩浓厚的短篇故事、诗歌或散文在舒缓数理认知疲劳方面更为有效。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>使用电子书阅读器阅读影响效果吗？</span>

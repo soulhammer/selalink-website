@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Seneca's Evening Self-Examination: How to Secure Peaceful Sleep and Correct Yesterday's Mistakes"
 description: "Discover how Stoic philosopher Seneca examined and judged his daily actions in a dark room before sleep, relieving brain tension and significantly boosting sleep quality."
 pubDate: "2026-02-04"
@@ -36,14 +37,14 @@ This ancient reflective ritual of achieving cognitive closure is validated by mo
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding seneca-evening-review is based on <strong>Historical textual verification of Seneca's 'De Ira' (On Anger), Stoic literature & Cognitive Neuroscience sleep physiology research</strong>.
+      This content is based on <strong>Historical textual verification of Seneca's 'De Ira' (On Anger), Stoic literature & Cognitive Neuroscience sleep physiology research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Physiological Reasons Evening Reflection Transitions the Brain into Sleep Mode
+## 1. Physiological Reasons Evening Reflection Transitions the Brain into Sleep Mode
 
 Going to bed carrying unresolved anxiety and stress keeps the sympathetic nervous system active, forcing the brain to remain hyper-vigilant even during sleep and interrupting deep slow-wave sleep.
 
@@ -51,9 +52,7 @@ Conversely, evening review induces 'Cognitive Closure'. Reflecting on your actio
 
 ---
 
-## Avoid the Trap of Self-Blame and Rumination
-
-The core of evening reflection is rational improvement, not emotional self-punishment or rumination. Harshly judging your flaws right before bed triggers stress hormones that worsen sleep. Forgive yourself calmly: "I made a mistake, but I understand why and will correct it tomorrow." Maintain the detached, objective perspective of a fair judge.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ The core of evening reflection is rational improvement, not emotional self-punis
     Select the one regretful moment of the day and establish a single concrete resolution for how to handle it tomorrow. Once defined, state mentally: "Today's review is finished," and let go of all thoughts.
   </p>
 </div>
+
+---
+
+## 3. Avoid the Trap of Self-Blame and Rumination
+
+The core of evening reflection is rational improvement, not emotional self-punishment or rumination. Harshly judging your flaws right before bed triggers stress hormones that worsen sleep. Forgive yourself calmly: "I made a mistake, but I understand why and will correct it tomorrow." Maintain the detached, objective perspective of a fair judge.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "새벽의 여명에서 예술을 빚은 빛의 거장: 클로드 모네의 시각 예열 루틴"
 description: "인상파 회화의 거장 클로드 모네. 매일 새벽 3시 30분에 일어나 자연광의 미세한 파장을 응시하며 시각 피질의 색채 감도를 높였던 그의 '여명 관찰' 루틴과 현대인을 위한 뇌과학적 시신경 각성법을 살펴봅니다."
 pubDate: "2026-03-31"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>클로드 모네 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 monet-dawn-light 루틴을 다룹니다.
+      본 콘텐츠는 <strong>클로드 모네 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 망막 자가감수성 세포(ipRGCs)와 시각 대비 감도(Contrast Sensitivity)의 각성
+## 1. 망막 자가감수성 세포(ipRGCs)와 시각 대비 감도(Contrast Sensitivity)의 각성
 
 일출 직전 하늘에 펼쳐지는 푸른 파장의 자연광(Blue Light)은 망막의 자가감수성 신경절 세포(ipRGCs)를 강하게 자극합니다. 이는 대뇌의 시신경 교차상핵(SCN)을 일깨워 멜라토닌 분비를 억제하고 코르티솔 호르몬을 배출시켜 두뇌를 각성시킵니다. 동시에 어스름한 빛 속에서 미세한 톤의 차이를 관찰하는 시각적 훈련은 시각 피질의 대비 감도(Contrast Sensitivity)를 극대화합니다. 이 예열을 거친 뇌는 인지 변별력과 기획의 구조적 배치를 수행하는 창의성을 최고 수준으로 가동할 준비를 갖추게 됩니다.
 
 ---
 
-## 유리창 필터 효과와 야외 노출 팁
-
-현대적인 다중 코팅 유리창은 뇌를 깨우는 데 필요한 핵심 자연광 파장을 최대 80%까지 반사하여 차단합니다. 따라서 방 안에 머물기보다는 베란다의 창문을 완전히 열어 직접 빛을 마주하거나, 집 근처 정원이나 마당으로 나와 차가운 아침 공기와 일출 빛에 온전히 신체를 노출하는 것이 각성 파이프라인의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 유리창 필터 효과와 야외 노출 팁
+
+현대적인 다중 코팅 유리창은 뇌를 깨우는 데 필요한 핵심 자연광 파장을 최대 80%까지 반사하여 차단합니다. 따라서 방 안에 머물기보다는 베란다의 창문을 완전히 열어 직접 빛을 마주하거나, 집 근처 정원이나 마당으로 나와 차가운 아침 공기와 일출 빛에 온전히 신체를 노출하는 것이 각성 파이프라인의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>방 안에서 유리창을 닫은 상태로 창밖의 여명을 응시해도 동일한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       유리창을 닫으면 뇌를 각성시키는 데 핵심적인 청색 및 자외선 계열의 자연광 파장이 코팅에 의해 최대 80%까지 필터링되어 반사됩니다. 따라서 망막의 ipRGCs 세포를 충분히 자극하여 멜라토닌 분비를 확실하게 차단하려면, 가급적 창문을 완전히 열어 직접 들어오는 광선 파장을 맞이하는 것이 훨씬 뛰어난 생리적 효과를 보장합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>날씨가 흐리거나 비가 오는 아침에도 여명 관찰이 효과를 주나요?</span>

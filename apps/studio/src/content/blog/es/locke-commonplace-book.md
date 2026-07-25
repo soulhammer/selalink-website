@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Filósofo que Recuperaba Registros en Menos de un Minuto: La Rutina de Indexación del Libro de Lugares Comunes de John Locke"
 description: "Descubra cómo el empirista John Locke indexó sistemáticamente su conocimiento mediante un sistema de cuadrícula de vocales. Explore la neurociencia de las redes de memoria asociativa, la reducción de la distancia semántica, la descarga prefrontal y una guía de 3 pasos."
 pubDate: "2026-03-19"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre locke-commonplace-book se basa en <strong>Verificación Histórica del Tratado de John Locke *A New Method of a Commonplace-Book* (1686), Archivos de Locke e Investigación en Neurociencia Cognitiva y Psicología Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica del Tratado de John Locke *A New Method of a Commonplace-Book* (1686), Archivos de Locke e Investigación en Neurociencia Cognitiva y Psicología Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación de la Red de Memoria Asociativa y Reducción de la Carga de Recuperación Prefrontal
+## 1. Estimulación de la Red de Memoria Asociativa y Reducción de la Carga de Recuperación Prefrontal
 
 La estructura de la memoria no es una serie de cajones aislados, sino una red de <strong>Memoria Asociativa (Associative Memory)</strong> interconectada. El método de indexación de John Locke incorpora enlaces asociativos durante la codificación. Asignar etiquetas de categoría al recopilar información reduce la <strong>Distancia Semántica (Semantic Distance)</strong> entre ideas. El conocimiento codificado permanece en un estado listo para reactivarse, reduciendo la sobrecarga de la <strong>Corteza Prefrontal</strong> para permitir una <strong>Recuperación (Recall)</strong> en segundos.
 
 ---
 
-## Precaución: Elimine la Recopilación Indiscriminada para Aplicar la Indexación Consciente
-
-Copiar información en cuadernos sin indexar o guardar archivos digitales sin orden genera una falsa ilusión de aprendizaje, acelerando el <strong>Olvido (Forgetting)</strong>. Para fijar el conocimiento en la red asociativa del cerebro, debe realizar un <strong>Mapeo de Índices (Index Mapping)</strong> consciente: asignando etiquetas de categoría en el momento de guardar la información, como hacía Locke.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Copiar información en cuadernos sin indexar o guardar archivos digitales sin or
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine la Recopilación Indiscriminada para Aplicar la Indexación Consciente
+
+Copiar información en cuadernos sin indexar o guardar archivos digitales sin orden genera una falsa ilusión de aprendizaje, acelerando el <strong>Olvido (Forgetting)</strong>. Para fijar el conocimiento en la red asociativa del cerebro, debe realizar un <strong>Mapeo de Índices (Index Mapping)</strong> consciente: asignando etiquetas de categoría en el momento de guardar la información, como hacía Locke.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cuál era la estructura específica del método de indexación del libro de lugares comunes de John Locke?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Copiar información en cuadernos sin indexar o guardar archivos digitales sin or
       Locke dibujaba una cuadrícula que combinaba las 26 letras del alfabeto con las 5 vocales (a, e, i, o, u) en la primera página. Anotaba los números de página en la intersección correspondiente a la primera letra y primera vocal del término clave (p. ej., 'Epistola' en la fila E, columna i).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Escribir en cuadernos analógicos es más beneficioso que los métodos digitales modernos?</span>

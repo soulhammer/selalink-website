@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le poids de l'empire et la réflexion : L'habitude de journal intime du soir de la reine Victoria"
 description: "Découvrez l'habitude de réflexion de la reine Victoria, qui a régné sur l'Empire britannique à son apogée et rédigé 122 volumes de journaux. Examine comment l'écriture manuscrite expressive active le système parasympathique."
 pubDate: "2026-05-07"
@@ -31,25 +32,23 @@ De l'âge de 13 ans jusqu'à quelques jours avant sa mort, Victoria a tenu son j
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant victoria-daily-journaling est basée sur <strong>Biographies historiques et récits autobiographiques de la reine Victoria et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de la reine Victoria et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Étiquetage émotionnel et activation du cortex préfrontal dans l'écriture expressive
+## 1. Étiquetage émotionnel et activation du cortex préfrontal dans l'écriture expressive
 
 Lorsque des émotions négatives submergent l'esprit, le système limbique perçoit une urgence et affaiblit le contrôle cognitif. Tenir un journal à la main favorise l'<strong>« Écriture expressive »</strong> et l'<strong>« Étiquetage émotionnel »</strong>.
 
 ---
 
-## Précautions et conseils
-
-Lors d'une routine d'écriture expressive, évitez de vous focaliser sur l'orthographe ou le style. La pression de bien écrire amène le cerveau à interpréter le journal comme un travail évalué. L'essentiel est de laisser couler ses émotions brutes sur le papier.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Lors d'une routine d'écriture expressive, évitez de vous focaliser sur l'ortho
     En fermant le journal, dites-vous : « Tous les soucis d'aujourd'hui sont déposés sur ces pages », envoyant un signal de clôture cognitive à votre cerveau avant de dormir.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Lors d'une routine d'écriture expressive, évitez de vous focaliser sur l'orthographe ou le style. La pression de bien écrire amène le cerveau à interpréter le journal comme un travail évalué. L'essentiel est de laisser couler ses émotions brutes sur le papier.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

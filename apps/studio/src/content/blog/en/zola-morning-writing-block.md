@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The French Master Who Completed Masterpieces for 30 Years? Émile Zola's 3-Hour Morning Deep Work Routine"
 description: "The scientific principles and practical guide to literary giant Émile Zola's 'Nulla dies sine linea' motto and his daily 3-hour morning writing immersion habit kept for over 30 years."
 pubDate: "2026-02-04"
@@ -36,14 +37,14 @@ In today's post, we explore the scientific working principles of Émile Zola's m
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding zola-morning-writing-block is based on <strong>Émile Zola historical biography & record examination & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Émile Zola historical biography & record examination & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Preventing Willpower Depletion and Basal Ganglia Automation via Environmental Isolation
+## 1. Preventing Willpower Depletion and Basal Ganglia Automation via Environmental Isolation
 
 Constantly debating 'Should I start work now?' wastes prefrontal glucose and willpower.
 
@@ -51,9 +52,7 @@ Behaving consistently at set times and blocked locations like Émile Zola throug
 
 ---
 
-## Focus More on Strict Time Blocking Than Output Volume
-
-The essence of Émile Zola's motto is 'unbroken daily consistency'. Prioritize establishing the habit of staying isolated from external distractions for the designated 1 hour rather than straining to write perfectly. Do not rely solely on willpower; pre-designing physical environments and habit cues that naturally trigger action is key to sustainability.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The essence of Émile Zola's motto is 'unbroken daily consistency'. Prioritize e
   </p>
 </div>
 
+---
+
+## 3. Focus More on Strict Time Blocking Than Output Volume
+
+The essence of Émile Zola's motto is 'unbroken daily consistency'. Prioritize establishing the habit of staying isolated from external distractions for the designated 1 hour rather than straining to write perfectly. Do not rely solely on willpower; pre-designing physical environments and habit cues that naturally trigger action is key to sustainability.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if I feel anxious about urgent emails or calls coming in the morning?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The essence of Émile Zola's motto is 'unbroken daily consistency'. Prioritize e
       Truly urgent contact will always come via a direct phone call. Simply delaying email and message checks until after your 1 hour of morning deep work increases work quality tenfold.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How should office workers who cannot spare a full 3 hours apply this?</span>

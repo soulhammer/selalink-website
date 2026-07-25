@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "征服天花的疫苗之父：爱德华·詹纳的现场观察跟踪习惯与坚韧（Grit）脑科学"
 description: "探索将人类从瘟疫中解救出来的医师爱德华·詹纳，如何通过数年如一日逐户走访农家、累积牛痘观察手记而发明疫苗。揭示过程导向的多巴胺奖赏回路重塑与前额叶坚韧（Grit）激活的神经科学原理。"
 pubDate: "2026-07-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 jenner-observation-tracking-log 的内容基于 <strong>爱德华·詹纳论文《牛痘的成因与效果研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）》与英国皇家学会档案考证及认知神经科学（Cognitive Neuroscience）与医学史（History of Medicine）研究</strong> 撰写。
+      本内容基于 <strong>爱德华·詹纳论文《牛痘的成因与效果研究（An Inquiry into the Causes and Effects of the Variolae Vaccinae, 1798）》与英国皇家学会档案考证及认知神经科学（Cognitive Neuroscience）与医学史（History of Medicine）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 多巴胺奖赏回路（Dopamine Reward Circuit）的过程导向重塑与坚韧（Grit）神经科学原理
+## 1. 多巴胺奖赏回路（Dopamine Reward Circuit）的过程导向重塑与坚韧（Grit）神经科学原理
 
 若死磕短期的结果，一旦初始假设遭遇挫折，极易陷入心理崩盘与倦怠期。如詹纳这般每天走访现场如实记录数据的<strong>“长效现场观察手记”</strong>习惯，能将大脑<strong>多巴胺奖赏回路（Dopamine Reward Circuit）</strong>的枢轴从短期成败偏移至“观察与誊录行为本身”。这一过程重塑能强力拉动<strong>前额叶皮层（Prefrontal Cortex）</strong>的长效规划网络，赋予将假设验证进行到底的超凡<strong>坚韧（Grit）</strong>与笃定不衰的执行冲劲。
 
 ---
 
-## 注意事项：规避确认偏误（Confirmation Bias），包容客观反例与例外数据指南
-
-爱德华·詹纳之伟大，绝非仅在于收集迎合个人预设假设的数据，更在于将背离假设的例外反例一并坦诚罗列于手记中。须严防陷于确认偏误（Confirmation Bias），如实记录现场目击的客观事实与精准数据，大脑方能精准辨识毫无曲解的真理。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：规避确认偏误（Confirmation Bias），包容客观反例与例外数据指南
+
+爱德华·詹纳之伟大，绝非仅在于收集迎合个人预设假设的数据，更在于将背离假设的例外反例一并坦诚罗列于手记中。须严防陷于确认偏误（Confirmation Bias），如实记录现场目击的客观事实与精准数据，大脑方能精准辨识毫无曲解的真理。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>若每天坚持填写观察手记，却迟迟抓取不到有意义的底向模式，该如何应对？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       即便是当下看不出规律的数据，也是剔除感官噪点极其宝贵的“滤噪”过程。一旦定量数据沉淀达1个月以上，前额叶皮层便会自动串联上下文脉络，自发显现出深具价值的底层模式。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>非乡村医师的普通现代职场白领，同样能实施此类现场调查与跟踪吗？</span>

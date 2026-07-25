@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Les Cahiers de 4 heures du matin : La méthode d'enregistrement de la conscience de Paul Valéry"
 description: "Le poète Paul Valéry s'est levé à 4 heures du matin chaque jour pendant 51 ans pour remplir son carnet manuscrit « Cahiers ». Traite des raisons scientifiques pour lesquelles le silence matinal, préservé des stimulations extérieures, éveille au plus haut point l'intelligence réflexive et analytique du cortex préfrontal."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Dans cet article, nous interprétons le mécanisme d'auto-harmonisation de Paul 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant valery-dawn-notebook est basée sur <strong>Recherche historique sur les biographies et récits autobiographiques de Valéry Dawn Notebook & études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche historique sur les biographies et récits autobiographiques de Valéry Dawn Notebook & études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Blocage du bruit cognitif et action des hormones d'éveil offerts par le silence de l'aube
+## 1. Blocage du bruit cognitif et action des hormones d'éveil offerts par le silence de l'aube
 
 Pendant les heures diurnes habituelles, le cerveau fait face à d'innombrables stimulations extérieures telles que le bruit, les courriels et les messageries, gaspillant des ressources cognitives. Cependant, à 4 heures du matin, le monde environnant est totalement à l'arrêt, ramenant presque à zéro l'énergie consacrée à filtrer les stimulations extérieures. En même temps, l'élévation progressive du taux de cortisol au réveil éveille le cerveau sereinement et sans stress, créant des conditions physiologiques parfaites pour une écriture réflexive profonde et une autocontemplation guidées par le cortex préfrontal.
 
 ---
 
-## Précautions et conseils
-
-Se plonger directement dans des tâches mécaniques complexes ou des calculs numériques dans un état brumeux avant le réveil complet du cerveau réduit la productivité. Dans ce créneau, programmer de la prise de notes intuitive, de l'écriture libre ou de la lecture philosophique est le plus adapté à l'efficacité cognitive. De plus, pour préserver ces heures matinales, établir un mur de déconnexion en ne consultant ni smartphone ni courriels pendant 1 heure après le réveil est essentiel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Se plonger directement dans des tâches mécaniques complexes ou des calculs num
     Ouvrez votre carnet et notez silencieusement pendant 30 minutes au stylo vos pensées, émotions et idées intellectuelles émergentes sans contrainte de forme, en affinant votre réflexion.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Se plonger directement dans des tâches mécaniques complexes ou des calculs numériques dans un état brumeux avant le réveil complet du cerveau réduit la productivité. Dans ce créneau, programmer de la prise de notes intuitive, de l'écriture libre ou de la lecture philosophique est le plus adapté à l'efficacité cognitive. De plus, pour préserver ces heures matinales, établir un mur de déconnexion en ne consultant ni smartphone ni courriels pendant 1 heure après le réveil est essentiel.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

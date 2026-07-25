@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Compositor que Resolvió Dilemas en Paseos Costeros por la Tarde: La Rutina de Liberación Cerebral de Benjamin Britten"
 description: "Descubra cómo Benjamin Britten, titan musical británico del siglo XX, recorría la costa cada tarde para perfeccionar las estructuras musicales compuestas por la mañana, y explore los principios neurocientíficos de la Teoría de la Restauración de la Atención (ART) y la integración cognitiva a través de la DMN."
 pubDate: "2026-04-22"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre britten-afternoon-walk se basa en <strong>Verificación Histórica de la Biografía de Humphrey Carpenter *Benjamin Britten: A Biography* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Humphrey Carpenter *Benjamin Britten: A Biography* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismo de Integración Cognitiva Mediante la Teoría de Restauración de la Atención (ART) y Activación de la DMN
+## 1. Mecanismo de Integración Cognitiva Mediante la Teoría de Restauración de la Atención (ART) y Activación de la DMN
 
 Los cerebros dedicados a cálculos o creación intensos durante la mañana activan la Red Ejecutiva Central (CEN), consumiendo glucosa e ingresando en un estado de 'Fatiga de Atención'. Según la Teoría de la Restauración de la Atención (ART) en psicología ambiental, caminar al aire libre entre elementos de 'Fascinación Suave (Soft Fascination)' —como las olas o el susurro de las hojas— relaja las redes de control atencional prefrontales. Durante esta fase restauradora, la Red por Defecto (DMN) se activa, realizando una 'Integración Cognitiva' al organizar, transferir y recombinar inconscientemente en la memoria a largo plazo la información fragmentada. Britten utilizó sus paseos por la tarde para eliminar la fatiga cognitiva y dar rienda suelta al razonamiento subconsciente.
 
 ---
 
-## Precauciones y Consejos: Distinguir el Consumo Pasivo de Pantallas del Relax Neuronal Activo
-
-Tumbarse en la cama a ver vídeos cortos en el móvil cuando se siente fatiga no es 'descanso' neurológico. Aunque su cuerpo esté quieto, su corteza visual y sus vías de recompensa de dopamina consumen capacidad atencional al descodificar las imágenes, exacerbando el agotamiento prefrontal. El verdadero descanso científico que reinicia los recursos prefrontales exige cortar por completo la entrada digital y caminar al aire libre en la naturaleza, tal como practicaba Britten.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tumbarse en la cama a ver vídeos cortos en el móvil cuando se siente fatiga no
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Distinguir el Consumo Pasivo de Pantallas del Relax Neuronal Activo
+
+Tumbarse en la cama a ver vídeos cortos en el móvil cuando se siente fatiga no es 'descanso' neurológico. Aunque su cuerpo esté quieto, su corteza visual y sus vías de recompensa de dopamina consumen capacidad atencional al descodificar las imágenes, exacerbando el agotamiento prefrontal. El verdadero descanso científico que reinicia los recursos prefrontales exige cortar por completo la entrada digital y caminar al aire libre en la naturaleza, tal como practicaba Britten.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué características geográficas definían el camino costero de Aldeburgh por el que paseaba Britten?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tumbarse en la cama a ver vídeos cortos en el móvil cuando se siente fatiga no
       Ubicada en Suffolk, en la costa este de Inglaterra, Aldeburgh es una playa de guijarros lisos en lugar de arena. Las olas al rodar sobre los guijarros crean un sonido rítmico, mientras que el amplio horizonte ofrece liberación visual a la corteza prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Caminar por entornos urbanos rodeados de rascacielos ofrece beneficios similares de restauración de la atención?</span>

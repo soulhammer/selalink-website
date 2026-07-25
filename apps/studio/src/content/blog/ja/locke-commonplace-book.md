@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "1分以内に過去の記録を探し出した哲学者：ジョン・ロックのコモンプレイス・ブック索引法と連合記憶ネットワーク"
 description: "経験論の巨匠ジョン・ロックは、膨大な記録を体系的に連動させるため、独創的なアルファベット母音索引法を考案しました。連合記憶を刺激して意味論的距離を縮小し、前頭前野の引き出し（Recall）負荷を軽減する脳科学的原理と3段階実践ガイドを解説します。"
 pubDate: "2026-03-19"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「locke-commonplace-book」は <strong>ジョン・ロック著作『コモンプレイス・ブックの新しい索引法（A New Method of a Commonplace-Book, 1686）』史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョン・ロック著作『コモンプレイス・ブックの新しい索引法（A New Method of a Commonplace-Book, 1686）』史料考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 連合記憶（Associative Memory）ネットワークの刺激と引き出し（Recall）負荷軽減の脳科学
+## 1. 連合記憶（Associative Memory）ネットワークの刺激と引き出し（Recall）負荷軽減の脳科学
 
 脳の記憶構造は独立した箱ではなく、関連する情報同士が網の目のように絡み合っている<strong>連合記憶（Associative Memory）</strong>ネットワークです。ジョン・ロックのインデックス記録法は、情報符号化の段階から有機的な関連の輪を人為的に配置します。情報を収集する際にカテゴリーアドレスをマッピング（Tagging）する過程は、情報間の<strong>意味論的距離（Semantic Distance）</strong>を縮小させます。このように符号化された知識はいつでも再活性化できる待機状態となり、<strong>前頭前野（Prefrontal Cortex）</strong>の検索過負荷を軽減して、必要な時にわずか数秒で<strong>引き出し（Recall）</strong>できるよう助けます。
 
 ---
 
-## 注意事項：むやみな情報収集を排除しインデックス・マッピング（Index Mapping）を意識的に実行するルール
-
-ノートに数多くの内容をインデックスなしに単純コピーしたり、デジタルスクラップ箱に無制限に保管する行為は、脳に知識が習得されたという錯覚を誘発し、<strong>忘却（Forgetting）</strong>を加速させます。ロックのように知識を保存する瞬間、適切なカテゴリータグをマッピングする<strong>インデックス・マッピング（Index Mapping）</strong>の意識が伴って初めて、脳の連合構造網に知識が定着します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：むやみな情報収集を排除しインデックス・マッピング（Index Mapping）を意識的に実行するルール
+
+ノートに数多くの内容をインデックスなしに単純コピーしたり、デジタルスクラップ箱に無制限に保管する行為は、脳に知識が習得されたという錯覚を誘発し、<strong>忘却（Forgetting）</strong>を加速させます。ロックのように知識を保存する瞬間、適切なカテゴリータグをマッピングする<strong>インデックス・マッピング（Index Mapping）</strong>の意識が伴って初めて、脳の連合構造網に知識が定着します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ジョン・ロックのコモンプレイス・ブックの索引方法は、具体的にどのような構造でしたか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       ノートの最初のページにアルファベット26文字と母音（a, e, i, o, u）を結合した格子表を描いた後、主題歌の頭文字と最初の母音（例：「Epistola」はEのiマス）の組み合わせ位置に該当ページ番号を記入し、迅速な交差検索を可能にしたアドレス指定システムでした。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>アナログノートを書くことが現代のデジタル方式よりも有益でしょうか？</span>

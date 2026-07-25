@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "エラズムスの旅行用手帳：移動中にひらめくアイデアを捉えるノート術と没頭ルーティン"
 description: "ルネサンスの代表的学者エラズマスが欧州を横断する馬車の中でポケット手帳を活用し『愚神礼賛』の草稿を執筆しアイデアを捉えた秘訣を解き明かします。アルファ波誘導と視覚的フローの認知神経科学的原理を解剖します。"
 pubDate: "2026-06-11"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「erasmus-notebook-travel」は <strong>デシデリウス・エラズマス書簡集（Epistolae）およびヨハン・ホイジンガ評伝『エラズマス（Erasmus）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>デシデリウス・エラズマス書簡集（Epistolae）およびヨハン・ホイジンガ評伝『エラズマス（Erasmus）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 身体的移動と視覚的フローが独創的アイデアを誘導する科学的原理
+## 1. 身体的移動と視覚的フローが独創的アイデアを誘導する科学的原理
 
 物理的な位置を移動したり乗り物に乗る環境の変化は、脳に絶え間のない視覚的フローの変化を提供し、神経可塑性を喚起します。馬車や列車のリズムカルで受動的な動きと静かな騒音は、脳から緊張をほぐし創造性を高めるアルファ波（Alpha Wave）を誘導します。この状態では厳格に論理を絞り出す前頭葉の検閲ネットワークが一時的に和らぎ、普段デスクの前に座っている時には到達しにくい奇抜で独創的な思考の繋がりが容易に結合されます。
 
 ---
 
-## 注意事項：移動中の高刺激デジタルメディア消費遮断ルール
-
-移動時間中にソーシャルメディアを見たりモバイルゲームに視覚を奪われる行為は、脳の創造的培養の機会を完全に打ち砕きます。高刺激なデジタルインプットはアルファ波状態を即座に無力化させます。モビリティ思索を活性化させるには、時々窓の外の流れる風景をぼんやりと眺め、思考が思いのままに彷徨うように放置し、手帳を手に握ったまま待機してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：移動中の高刺激デジタルメディア消費遮断ルール
+
+移動時間中にソーシャルメディアを見たりモバイルゲームに視覚を奪われる行為は、脳の創造的培養の機会を完全に打ち砕きます。高刺激なデジタルインプットはアルファ波状態を即座に無力化させます。モビリティ思索を活性化させるには、時々窓の外の流れる風景をぼんやりと眺め、思考が思いのままに彷徨うように放置し、手帳を手に握ったまま待機してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>乗り物に乗るたびに毎日手帳を書かなければなりませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       毎日大げさな文章を書く必要はありません。公共交通機関や車で移動する10〜20分の時間中、スマートフォンの代わりに窓の外を眺めて思考に浸り、通り過ぎる断片一つをメモする me だけでも、脳のデフォルト・モード・ネットワーク（DMN）とアルファ波を活性化させるのに十分に効果的です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>公共交通機関の中で手で手帳に文字を書くと揺れて難しいですが、スマートフォンのメモアプリや音声メモで代替してもよいですか？</span>

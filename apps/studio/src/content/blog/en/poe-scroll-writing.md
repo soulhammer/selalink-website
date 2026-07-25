@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Detective Novelist Who Pasted Manuscripts into Scrolls? Edgar Allan Poe's Hyper-Focused Writing Method"
 description: "Edgar Allan Poe, the pioneer of modern detective fiction, wrote on narrow paper strips and pasted them continuously into scrolls. Discover the brain science behind blocking lateral visual distractions to trigger cognitive tunneling."
 pubDate: "2026-01-03"
@@ -36,14 +37,14 @@ In today's post, we examine the visual feedback principles hidden within Poe's '
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding poe-scroll-writing is based on <strong>Historical biography & autobiographical record verification of Edgar Allan Poe & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography & autobiographical record verification of Edgar Allan Poe & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Tunneling and Suppression of the Self-Monitoring Circuit
+## 1. Cognitive Tunneling and Suppression of the Self-Monitoring Circuit
 
 Controlling the field of view into an extremely narrow band reduces unnecessary saccadic eye movements, dramatically preventing the frontal lobe from wasting visual attention. Neuroscience calls this state <strong>'Cognitive Tunneling'</strong>, which restricts visual input width to induce deep immersion.
 
@@ -51,9 +52,7 @@ At the same time, the physical scroll structure continuing downward inhibits a d
 
 ---
 
-## Isolation from Self-Editing
-
-Fixating on sentence-by-sentence editing while drafting causes constant friction between the right brain's creative circuits and the left brain's critical circuits, causing cognitive fatigue. Just as Poe wrote on a continuous scroll, turn off critical editing circuits during drafting to dedicate brain energy solely to output, reserving revision for later.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Fixating on sentence-by-sentence editing while drafting causes constant friction
   </p>
 </div>
 
+---
+
+## 3. Isolation from Self-Editing
+
+Fixating on sentence-by-sentence editing while drafting causes constant friction between the right brain's creative circuits and the left brain's critical circuits, causing cognitive fatigue. Just as Poe wrote on a continuous scroll, turn off critical editing circuits during drafting to dedicate brain energy solely to output, reserving revision for later.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Do Edgar Allan Poe's scroll manuscripts still exist today?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Fixating on sentence-by-sentence editing while drafting causes constant friction
       Yes, some of his surviving manuscripts (such as essays and critical pieces) are preserved in narrow scroll form pasted together with glue at institutions like the Free Library of Philadelphia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Are there software programs that block the habit of editing while typing on digital screens?</span>

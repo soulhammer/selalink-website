@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Wellen der mentalen Ordnung: Martin Luthers morgendliche Lautenpraxis und neuronale Abstimmung"
 description: "Erfahren Sie, wie Martin Luther im enormen Druck der Reformation jeden Morgen durch Lautenspiel meditierte. Entdecken Sie die Neurowissenschaften der auditiv-motorischen Integration, Vagusnerv-Stimulation, Beruhigung des vegetativen Nervensystems und eine 3-Schritte-Anleitung."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die neurologischen Grundlagen von Luthers La
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu luther-lute-meditation basiert auf <strong>Historische Überprüfung aus Luthers *Tischreden* (1566), Luther-Archiven & Forschung der kognitiven Neurowissenschaften und Musiktherapie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Luthers *Tischreden* (1566), Luther-Archiven & Forschung der kognitiven Neurowissenschaften und Musiktherapie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurowissenschaft der auditiv-motorischen Integration und Vagusnerv-Stimulation
+## 1. Neurowissenschaft der auditiv-motorischen Integration und Vagusnerv-Stimulation
 
 Das präzise Spielen eines Instruments aktiviert den motorischen Kortex und verbindet ihn über die <strong>auditiv-motorische Integrationsbahn</strong> mit dem auditiven Kortex. Das Fokussieren auf eigene Schwingungen beruhigt störende Signale im präfrontalen Kortex. Zudem stimulierte rhythmisches Saitenspiel den <strong>Vagusnerv</strong>, erhöht die <strong>Herzfrequenzvariabilität (HRV)</strong> und aktiviert das <strong>parasympathische Nervensystem</strong>.
 
 ---
 
-## Vorsichtsmaßnahme: Leistungsorientierung ablegen und sich ganz dem Schwingungsgefühl hingeben
-
-Das größte Hindernis bei der Musikmeditation ist das Streben nach Perfektion. Die Sorge vor Fehlern löst Bewertungsstress aus und stimuliert die <strong>Amygdala</strong>. Nutzen Sie einfache Instrumente wie Kalimba, Ukulele oder Zungentrommel und genießen Sie 5 Minuten lang ohne Leistungsdruck den Klang.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das größte Hindernis bei der Musikmeditation ist das Streben nach Perfektion. 
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Leistungsorientierung ablegen und sich ganz dem Schwingungsgefühl hingeben
+
+Das größte Hindernis bei der Musikmeditation ist das Streben nach Perfektion. Die Sorge vor Fehlern löst Bewertungsstress aus und stimuliert die <strong>Amygdala</strong>. Nutzen Sie einfache Instrumente wie Kalimba, Ukulele oder Zungentrommel und genießen Sie 5 Minuten lang ohne Leistungsdruck den Klang.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Können auch Anfänger ohne Vorkenntnisse von dieser Praxis profitieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das größte Hindernis bei der Musikmeditation ist das Streben nach Perfektion. 
       Ja, absolut! Entscheidend ist nicht das Können, sondern die feinmotorische Bewegung und das Wahrnehmen des Klangs. Das Spielen einfacher Instrumente wie Kalimba oder Zungentrommel reicht völlig aus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kann passives Musikhören das aktive Spielen eines Instruments ersetzen?</span>

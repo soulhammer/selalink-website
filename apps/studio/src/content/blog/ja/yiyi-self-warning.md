@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "揺るぎない自主性の確立：栗谷・李珥の自警文・朝の宣言ルーティン"
 description: "朝鮮最高の賢者・栗谷李珥が20歳で確立した「自警文（自警文）」による自我鍛錬法。毎朝の決意を音読することで目標指向性フィードバックを活性化する認知訓練法を分析します。"
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「yiyi-self-warning」は <strong>栗谷・李珥の自警文に関する歴史的評伝・記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>栗谷・李珥の自警文に関する歴史的評伝・記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自己参照効果と目標指向的宣言の脳科学
+## 1. 自己参照効果と目標指向的宣言の脳科学
 
 脳科学における自己参照効果（Self-Reference Effect）とは、新しい情報や決意を自分自身と結びつけて処理する際、内側前頭前野（mPFC）が活性化し、長期記憶と価値の内面化が強力に起こる現象です。李珥が毎朝自らの規範を熟読したのは、この神経経路を継続的に強化する過程でした。毎朝自分で立てた原則を脳に刻み込む行為は認知制御ネットワークを活性化し、衝動を抑えて長期的な目標に沿った決定を下すためのカーナビゲーションの役割を果たします。
 
 ---
 
-## 自らを戒め自律性を守る一言
-
-原則を立てること以上に重要なのは、毎朝それを自分に思い起こさせる誠実さです。他人が決めたルールではなく、自分自身が同意し宣言した基準だけが、私たちの脳を最も強力に動かし、一日を統制する力を与えてくれます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     bedtime 前に朝宣言した原則をどれだけ守れたか短く振り返り、不足していた点と翌日補完すべき事項を1〜2行で日記アプリや手帳に記録します。
   </p>
 </div>
+
+---
+
+## 3. 自らを戒め自律性を守る一言
+
+原則を立てること以上に重要なのは、毎朝それを自分に思い起こさせる誠実さです。他人が決めたルールではなく、自分自身が同意し宣言した基準だけが、私たちの脳を最も強力に動かし、一日を統制する力を与えてくれます。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

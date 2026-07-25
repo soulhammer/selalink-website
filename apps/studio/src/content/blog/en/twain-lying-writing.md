@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Is It Dangerous Outside the Bed? Mark Twain's Bed Writing Routine for Creating Masterpieces"
 description: "Discover the unique writing habit of Mark Twain, a giant of American literature, who created masterpieces reclining in bed after breakfast, and learn about the creative neuroscientific benefits of physical relaxation."
 pubDate: "2026-05-20"
@@ -34,14 +35,14 @@ Every morning after enjoying a hearty breakfast, instead of heading to his study
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding twain-lying-writing is based on <strong>Historical biographies and autobiographical records of Mark Twain's bed writing & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Mark Twain's bed writing & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Associative Thinking' that Relaxes the Brain and Connects Thoughts
+## 1. 'Associative Thinking' that Relaxes the Brain and Connects Thoughts
 
 When we lie horizontally or recline, the heart's burden to pump blood throughout the body is significantly reduced compared to standing or sitting. This increases cerebral blood flow, stabilizes heart rate, and strongly stimulates the parasympathetic nervous system. When the body is completely relaxed, the brain suppresses the secretion of cortisol, a stress-regulating hormone.
 
@@ -49,9 +50,7 @@ The relaxed brain moves away from a tense state (beta waves) and emits abundant 
 
 ---
 
-## Support Your Posture and Prevent Smartphone Distractions
-
-Reclining in bed can put significant strain on the spine or neck, so use several firm pillows behind your back to firmly support your spine and keep it straight. Additionally, to prevent the comfort of the bed from becoming an escape where you mindlessly scroll on social media, place your smartphone completely out of reach before lying down.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Reclining in bed can put significant strain on the spine or neck, so use several
     Calm your breathing in the relaxed posture, and write down thoughts flowing from your mind in their raw form without logically censoring them. Any format such as sentences, drawings, or mind maps is fine. Externalize your thoughts freely for at least 15 minutes.
   </p>
 </div>
+
+---
+
+## 3. Support Your Posture and Prevent Smartphone Distractions
+
+Reclining in bed can put significant strain on the spine or neck, so use several firm pillows behind your back to firmly support your spine and keep it straight. Additionally, to prevent the comfort of the bed from becoming an escape where you mindlessly scroll on social media, place your smartphone completely out of reach before lying down.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

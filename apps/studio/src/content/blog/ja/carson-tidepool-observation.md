@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "沈黙の春を芽吹かせた海の生態系：レイチェル・カーソンの潮間帯観察と柔らかい引き込みリラックス法"
 description: "現代環境運動の先駆者レイチェル・カーソン。化学大企業の外圧とがん闘病の中でも海岸の岩の穴（潮間帯）を観察し疲弊した認知力を復元したルーティン。注意力回復理論（ART）と「柔らかい引き込み（Soft Fascination）」の神経科学的メカニズムを解き明かします。"
 pubDate: "2026-07-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「carson-tidepool-observation」は <strong>レイチェル・カーソン歴史的伝記および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>レイチェル・カーソン歴史的伝記および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 「柔らかい引き込み（Soft Fascination）」と注意力回復理論（ART）の神経復元メカニズム
+## 1. 「柔らかい引き込み（Soft Fascination）」と注意力回復理論（ART）の神経復元メカニズム
 
 現代人は電子メールの作成、データ分析、意思決定など、脳の前頭前野のエナジー（ブドウ糖）を無理に絞り出す「指向性注意力（Directed Attention）」状態で日常を生きています。指向性注意力が持続すると前頭前野は慢性疲労とストレス反応を引き起こします。岩の穴の中の海の生物の柔軟な動き、波の周波数、木の葉の間の木漏れ日など自然的対象を注視する時、脳は意図的な努力を使わない「柔らかい引き込み（Soft Fascination）」状態に入ります。環境心理学の「注意力回復理論（ART）」によると、この状態で前頭前野の指向性注意力回復メカニズムが稼働し、枯渇した認知能力を急速に復元させます。また微細生態系の観察は自律神経系の副交感神経（Parasympathetic System）を刺激して心拍数を安定させ、不安ホルモンを大幅に減少させます。
 
 ---
 
-## 注意事項＆ヒント：継続的デジタルスクリーンの遮断と無刺激な静寂の維持
-
-屋外へ出てもスマートフォンのカメラで連続撮影をしたり、SNSの通知を確認したり、ポッドキャストを聴取する行動は、脳の指向性注意力を使い続けさせます。これはカーソンが体験した認知復元効果を半減させます。自然観察セッションの間は機器を完璧に隔離し、風、土、微細な生命体のディテールをひたすら目と手で感覚する無刺激な静寂状態を維持してこそ、前頭前野のリセット効果が発動します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：継続的デジタルスクリーンの遮断と無刺激な静寂の維持
+
+屋外へ出てもスマートフォンのカメラで連続撮影をしたり、SNSの通知を確認したり、ポッドキャストを聴取する行動は、脳の指向性注意力を使い続けさせます。これはカーソンが体験した認知復元効果を半減させます。自然観察セッションの間は機器を完璧に隔離し、風、土、微細な生命体のディテールをひたすら目と手で感覚する無刺激な静寂状態を維持してこそ、前頭前野のリセット効果が発動します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>巨大な自然的海岸や森ではなく、家にある室内植物を観察しても認知復元効果が得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、十分な効果があります。たとえ規模は小さくとも、鉢植えの葉の微細な葉脈、土の乾燥具合、茎の触感を注意深く観察しジャーナルを書く行為もまた「柔らかい引き込み」状態を誘導し、前頭葉を休息させストレスを大幅に減らしてくれます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>アウトドア手帳に絵やスケッチを完璧に描くことができなくても大丈夫ですか？</span>

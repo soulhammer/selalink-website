@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "打造IBM的一个词：托马斯·沃森的15分钟静默思考日常"
 description: "探索IBM创始人托马斯·沃森的思考法则，他在每个办公室都挂上“THINK”标牌，每天独自沉思15分钟。阐述有意的断连如何清理大脑长期记忆的原理。"
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 watson-think-sign 的内容基于 <strong>托马斯·沃森的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>托马斯·沃森的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 无所作为的切断联系为何能提升智力
+## 1. 无所作为的切断联系为何能提升智力
 
 当大脑不断对源源不断的刺激（电子邮件、通知等）作出反应时，便没有余力进行记忆整理和长期价值规划。当完全切断一切输入并专心思考时，大脑会稳定用于筛选重要信息的<strong>显著性网络（Salience Network）</strong>，并与默认模式网络（DMN）进行有机的信息交换，整理复杂的脑细胞网络并找到突破方案。
 
 ---
 
-## 注意事项与提示
-
-为确保此项思考训练取得成功，工作空间内必须放置显眼的物理标识作为<strong>“视觉提示（Visual Prompt）”</strong>。若看不见提示文字，大脑便会重蹈惯性，去执行查看邮件或浏览网络等即刻反应行为。因此，必须在眼前放置明确的标牌，以作为定期中断自动化意识流的控制装置。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     不使用任何书写工具，纯粹在脑海中将注意力收敛于今天需要解决的最棘手、最具影响力的单一问题上，进行彻底沉思。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与提示
+
+为确保此项思考训练取得成功，工作空间内必须放置显眼的物理标识作为<strong>“视觉提示（Visual Prompt）”</strong>。若看不见提示文字，大脑便会重蹈惯性，去执行查看邮件或浏览网络等即刻反应行为。因此，必须在眼前放置明确的标牌，以作为定期中断自动化意识流的控制装置。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

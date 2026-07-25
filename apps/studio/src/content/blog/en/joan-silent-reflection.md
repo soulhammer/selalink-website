@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Unshakeable Anchor of Conviction: Joan of Arc's Morning Silence Routine and Amygdala Stabilization"
 description: "Discover how French heroine Joan of Arc preserved unyielding conviction amidst the Hundred Years' War through morning silent prayer. Explore the neuropsychology of noise suppression, amygdala stabilization, and cognitive alignment."
 pubDate: "2026-02-12"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Joan of Arc's 'morn
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding joan-silent-reflection is based on <strong>Historical Verification from Joan of Arc's Trial Records (*Procès de Condamnation et de Réhabilitation*), National Archives of France & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Joan of Arc's Trial Records (*Procès de Condamnation et de Réhabilitation*), National Archives of France & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Amygdala Stabilization and Cognitive Alignment via External Noise Suppression
+## 1. Amygdala Stabilization and Cognitive Alignment via External Noise Suppression
 
 Constant exposure to chaotic visual and auditory inputs causes hyper-reactivity in the <strong>Amygdala</strong>—the brain's threat and alarm center—driving chronic sympathetic nervous system arousal. Intentionally carving out 10 minutes of silence at the start of the day calms amygdala hyper-arousal and lowers baseline cortisol. Furthermore, reflecting on personal values during quietness achieves <strong>Cognitive Alignment</strong>, eliminating internal dissonance, stimulating prefrontal self-affirmation circuits, and erecting a resilient mental barrier against stress.
 
 ---
 
-## Caution: Blocking External Distractions to Focus Exclusively on Internal Core Values
-
-To gain the neurobiological benefits of morning silence, direct your mental focus strictly inward. Ruminating over social evaluations or past regret with eyes closed keeps the amygdala hyper-vigilant. Just as Joan of Arc fixed her frequency exclusively onto her inner calling amidst chaotic war, erase external noise and align your consciousness onto a single high-value conviction.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ To gain the neurobiological benefits of morning silence, direct your mental focu
   </p>
 </div>
 
+---
+
+## 3. Caution: Blocking External Distractions to Focus Exclusively on Internal Core Values
+
+To gain the neurobiological benefits of morning silence, direct your mental focus strictly inward. Ruminating over social evaluations or past regret with eyes closed keeps the amygdala hyper-vigilant. Just as Joan of Arc fixed her frequency exclusively onto her inner calling amidst chaotic war, erase external noise and align your consciousness onto a single high-value conviction.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Must I wake up before dawn to practice this routine if I am not a morning person?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ To gain the neurobiological benefits of morning silence, direct your mental focu
       No. The core requirement of this routine is recalibrating your brain immediately upon waking before digital noise and emails flood your consciousness. Spending 10 minutes at your usual waking time yields identical neurobiological benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is this routine effective for non-religious individuals who do not practice formal prayer?</span>

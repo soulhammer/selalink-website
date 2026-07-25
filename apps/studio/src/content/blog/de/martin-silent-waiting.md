@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Geist wie eine leere Leinwand: Agnes Martins stille Warte-Routine"
 description: "Die Malerin Agnes Martin saß vor der Leinwand auf einem Stuhl und wartete, bis alle Störgedanken schwanden, bevor sie zum Pinsel griff. Entdecken Sie die kognitionswissenschaftlichen Grundlagen der Meditation."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ Im heutigen Beitrag untersuchen wir, wie Agnes Martins Warte-Ritual die kognitiv
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu martin-silent-waiting basiert auf <strong>Historische Prüfung von Agnes Martins Biografien & kognitionswissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Prüfung von Agnes Martins Biografien & kognitionswissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reduzierung kognitiven Lärms und Alpha-Theta-Wellen-Entrainment
+## 1. Reduzierung kognitiven Lärms und Alpha-Theta-Wellen-Entrainment
 
 Moderne Gehirne senden unter ständigem Problemlösungsdruck schnelle Betawellen aus. Dies verstärkt kognitiven Lärm und blockiert Intuition. Wenn Sie – wie Agnes Martin – bewusst innehalten und sich auf innere Stille konzentrieren, schaltet das Gehirn von beruhigenden <strong>Alphawellen (Alpha Waves)</strong> zu tief reflektierenden <strong>Thetawellen (Theta Waves)</strong> um. Diese Gehirnwellen-Synchronisation hebt logische Barrieren auf und aktiviert schöpferische Ideen im Langzeitgedächtnis.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Achten Sie darauf, beim Stillwerden nicht in den Fehler zu verfallen, 'gegen Störgedanken zu kämpfen'. Das Unterdrücken (Suppression) von Gedanken führt dazu, dass sich das Gehirn nur umso starker daran festbeißt – in der Psychologie als 'Rebound-Effekt' bekannt. Lassen Sie Gedanken wie Wolken vorbeiziehen, nehmen Sie sie wertfrei wahr und lenken Sie die Aufmerksamkeit sanft auf den Atem zurück (Mindfulness).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Achten Sie darauf, beim Stillwerden nicht in den Fehler zu verfallen, 'gegen St�
     Sobald sich der mentale Nebel lichtet und fokussierte Klarheit eintritt, widmen Sie sich ausschließlich der einen, wichtigsten Kernaufgabe.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Achten Sie darauf, beim Stillwerden nicht in den Fehler zu verfallen, 'gegen Störgedanken zu kämpfen'. Das Unterdrücken (Suppression) von Gedanken führt dazu, dass sich das Gehirn nur umso starker daran festbeißt – in der Psychologie als 'Rebound-Effekt' bekannt. Lassen Sie Gedanken wie Wolken vorbeiziehen, nehmen Sie sie wertfrei wahr und lenken Sie die Aufmerksamkeit sanft auf den Atem zurück (Mindfulness).
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

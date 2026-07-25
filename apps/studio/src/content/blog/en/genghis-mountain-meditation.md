@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Big Picture to Break Through Turbulent Times: Genghis Khan's Mountain-Top Visual Meditation Routine and Peripheral Vision Mastery"
 description: "Discover how conqueror Genghis Khan cleared mental noise before major battles by ascending holy mountains alone. Explore the cognitive psychology of his 'Visual Meditation' routine, Attention Restoration Theory, and peripheral vision activation."
 pubDate: "2026-04-21"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Genghis Khan's 'mou
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding genghis-mountain-meditation is based on <strong>Historical Verification from Jack Weatherford's *Genghis Khan and the Making of the Modern World*, *The Secret History of the Mongols* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Jack Weatherford's *Genghis Khan and the Making of the Modern World*, *The Secret History of the Mongols* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Attention Restoration Theory and the Neuroscience of Mental Imagery
+## 1. Attention Restoration Theory and the Neuroscience of Mental Imagery
 
 Stepping into vast natural environments to block external noise engages Rachel and Stephen Kaplan's <strong>Attention Restoration Theory (ART)</strong>, alleviating Directed Attention Fatigue in the prefrontal cortex. Simultaneously, practicing vivid <strong>Mental Imagery</strong>—vividly simulating successful goal completion—pre-activates neural networks across the <strong>Motor Cortex</strong> and <strong>Visual Cortex</strong> identical to those used during actual physical execution. This cognitive rehearsal refines subconscious action plans and maximizes prefrontal executive drive, propelling goal-directed behavior with intense motivation.
 
 ---
 
-## Caution: Breaking Tunnel Vision via Broad Horizon and Peripheral Viewing
-
-To unlock the cognitive recovery benefits of visual meditation, you must expand your depth of field. Staring at close-up digital screens or tight desks contracts your vision into 'Tunnel Vision', maintaining sympathetic threat arousal. Just as Genghis Khan gazed across endless steppes and mountain horizons, shifting into 'Peripheral Vision' (Panoramic Viewing) by focusing on distant clouds or sky signals the brainstem to disengage threat detection, making room for macro-level strategic insights.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ To unlock the cognitive recovery benefits of visual meditation, you must expand 
   </p>
 </div>
 
+---
+
+## 3. Caution: Breaking Tunnel Vision via Broad Horizon and Peripheral Viewing
+
+To unlock the cognitive recovery benefits of visual meditation, you must expand your depth of field. Staring at close-up digital screens or tight desks contracts your vision into 'Tunnel Vision', maintaining sympathetic threat arousal. Just as Genghis Khan gazed across endless steppes and mountain horizons, shifting into 'Peripheral Vision' (Panoramic Viewing) by focusing on distant clouds or sky signals the brainstem to disengage threat detection, making room for macro-level strategic insights.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if I cannot easily access a mountain top or an open rooftop?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ To unlock the cognitive recovery benefits of visual meditation, you must expand 
       Simply opening a window and gazing at the farthest visible outdoor object for 30+ seconds is completely effective. The neuroscientific goal is shifting from 'Narrow Tunnel Vision' to 'Broad Peripheral Vision', releasing sympathetic threat arousal in the brainstem.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What if I struggle to construct vivid mental images during visual meditation?</span>

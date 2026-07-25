@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der große Anfang des Meisters: Akira Kurosawas tägliche 2-Seiten-Drehbuchroutine und Amygdala-Beruhigung"
 description: "Erfahren Sie, wie Meisterregisseur Akira Kurosawa Meisterwerke schuf, indem er täglich 2 Seiten Drehbuch schrieb. Entdecken Sie die Neurowissenschaften von Mikro-Zielen, die Dämpfung der Amygdala-Bedrohung und einen 3-Schritte-Plan."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Verhaltenspsychologie und Neurowissensch
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu kurosawa-page-writing basiert auf <strong>Historische Überprüfung aus Akira Kurosawas Autobiografie *So etwas wie eine Autobiographie*, Kurosawa-Archiven & Forschung der kognitiven Neurowissenschaften und Verhaltenspsychologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Akira Kurosawas Autobiografie *So etwas wie eine Autobiographie*, Kurosawa-Archiven & Forschung der kognitiven Neurowissenschaften und Verhaltenspsychologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Dämpfung der Amygdala-Bedrohungsreaktion und die Neurowissenschaften von Mikro-Zielen
+## 1. Dämpfung der Amygdala-Bedrohungsreaktion und die Neurowissenschaften von Mikro-Zielen
 
 Wenn ein Ziel zu groß erscheint, nimmt die <strong>Amygdala</strong> – das Alarmzentrum des Gehirns – dies als Bedrohung wahr und löst Ausweichverhalten sowie Aufschiebeverhalten aus. Das Herunterschrauben der Tagesdosis auf eine kleine Einheit wie 2 Seiten hält die Aufgabe unter der Bedrohungsschwelle der Amygdala. Dieser Ansatz der <strong>Mikro-Ziele (Micro-Goal)</strong> schaltet kognitiven Widerstand aus, sodass der <strong>präfrontale Kortex</strong> seine <strong>Exekutivfunktionen (Executive Function)</strong> aktivieren und langfristige Projekte vollenden kann.
 
 ---
 
-## Vorsichtsmaßnahme: Den Druck des Gesamtziels ausblenden und auf das tägliche Mikro-Ziel fokussieren
-
-Wer ständig an den Gesamtumfang eines Projekts denkt, erzeugt kognitiven Druck, der zum Aufgeben führt. Beschränken Sie Ihre Aufmerksamkeit nur auf das heutige Mikro-Ziel (z. B. 2 Seiten schreiben). Statt sich auf schwankende Willenskraft zu verlassen, ist die feste Regel, täglich 2 Seiten zu füllen, der Schlüssel zu großen Erfolgen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Wer ständig an den Gesamtumfang eines Projekts denkt, erzeugt kognitiven Druck,
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Den Druck des Gesamtziels ausblenden und auf das tägliche Mikro-Ziel fokussieren
+
+Wer ständig an den Gesamtumfang eines Projekts denkt, erzeugt kognitiven Druck, der zum Aufgeben führt. Beschränken Sie Ihre Aufmerksamkeit nur auf das heutige Mikro-Ziel (z. B. 2 Seiten schreiben). Statt sich auf schwankende Willenskraft zu verlassen, ist die feste Regel, täglich 2 Seiten zu füllen, der Schlüssel zu großen Erfolgen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist ein Tagesziel von nur 2 Seiten nicht zu gering für spürbare Ergebnisse?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Wer ständig an den Gesamtumfang eines Projekts denkt, erzeugt kognitiven Druck,
       Keineswegs. Wenn Ziele zu groß sind, führt die Hürde beim Starten zu Aufschiebeverhalten, sodass oft gar nichts erreicht wird. Ein kleiner täglicher Impuls summiert sich im Jahr auf über 700 Seiten – was zwei bis drei vollständigen Drehbüchern entspricht.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Lässt sich diese 2-Seiten-Routine auch auf den Büroalltag, Softwareentwicklung oder Prüfungsvorbereitung anwenden?</span>

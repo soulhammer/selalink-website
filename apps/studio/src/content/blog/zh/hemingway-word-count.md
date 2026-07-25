@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "每日将撰写字数记录于图表中自我监控：欧内斯特·海明威的定量写作图表与多巴胺奖赏习惯"
 description: "探索诺贝尔奖得主欧内斯特·海明威如何在墙面图表中每日追踪写作字数。揭示自我监控（Self-Monitoring）效应、多巴胺奖赏回路与前额叶皮层激活的神经科学原理。"
 pubDate: "2026-02-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 hemingway-word-count 的内容基于 <strong>欧内斯特·海明威回忆录《流动的盛宴（A Moveable Feast）》与乔治·普林普顿访谈（Paris Review, 1958）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>欧内斯特·海明威回忆录《流动的盛宴（A Moveable Feast）》与乔治·普林普顿访谈（Paris Review, 1958）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 自我监控（Self-Monitoring）与多巴胺奖赏回路的神经科学原理
+## 1. 自我监控（Self-Monitoring）与多巴胺奖赏回路的神经科学原理
 
 对目标行为展开定量记录与监控，在行为心理学中被称为<strong>“自我监控（Self-Monitoring）”</strong>效应。当行为产出被客观定量可视化呈现时，大脑会及时捕捉到即时反馈，进而强力拉动位于纹状体与伏隔核的<strong>多巴胺奖赏回路（Dopamine Reward Circuit）</strong>。每日诚实地记录个人执行量，能将含混的主观努力转化为历历在目的具象成就，向<strong>前额叶皮层（Prefrontal Cortex）</strong>持续输送推进至下一阶段的强悍内在动机。海明威直觉性地驾驭了这套多巴胺反馈闭环，得以终身维持坚如磐石的每日写作输出。
 
 ---
 
-## 注意事项：重在把握“每日如实记录的微观行为”，而非盲目攀比数据高低
-
-含混不清的努力定然招致含混苟且的产出。唯有开始借由精准数据审视个人行为时，大脑前额叶方能发挥出求真务实的自我掌控力。无需介意单日数据的高低起伏，坚持每天在图表上留下真实记录的痕迹，紧握目标脉络。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：重在把握“每日如实记录的微观行为”，而非盲目攀比数据高低
+
+含混不清的努力定然招致含混苟且的产出。唯有开始借由精准数据审视个人行为时，大脑前额叶方能发挥出求真务实的自我掌控力。无需介意单日数据的高低起伏，坚持每天在图表上留下真实记录的痕迹，紧握目标脉络。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>海明威为何坚持每天在进度图表中记录写作字数？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       为了杜绝自我欺骗、客观看视写作推进节奏，强行约束创作生产力的规律输出。通过数据可观化呈现的产出，能刺激多巴胺奖赏回路，诱发次日更深层次的沉浸。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>除撰写文字外，这套数据记录习惯对普通职场工作或日常学习同样奏效吗？</span>

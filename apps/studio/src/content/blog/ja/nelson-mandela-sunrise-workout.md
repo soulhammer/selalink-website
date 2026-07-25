@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ネルソン・マンデラの「日出の自重トレーニング」：監獄でも守り抜いた身体と精神の防衛線"
 description: "27年間の収監生活の中でも毎朝午前5時に自重トレーニングを実践し、体力と精神を守り抜いたネルソン・マンデラ。主体性と回復弾力性を回復する日出ルーティンを探ります。"
 pubDate: "2026-01-13"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「nelson-mandela-sunrise-workout」は <strong>ネルソン・マンデラの日出トレーニングに関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ネルソン・マンデラの日出トレーニングに関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 極度の統制下で主体性を維持する脳科学
+## 1. 極度の統制下で主体性を維持する脳科学
 
 外部環境が完全に統制され自由が一切与えられない時、脳は行動の統制権を失ったと判断し、学習性無力感（Learned Helplessness）の状態に陥ります。これはうつ病や認知能力の低下に直結します。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 朝一番の動きが一日の精神を決定します
-
-朝目を覚ましてすぐベッドに横たわったままスマートフォンを眺め、受動的に外部刺激を受け入れないでください。ネルソン・マンデラのように身体を直接ストレッチし能動的に動くことで、自分の身体と一日の主導権は自分にあることを脳に知らせ、活力を起動させましょう。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 朝一番の動きが一日の精神を決定します
+
+朝目を覚ましてすぐベッドに横たわったままスマートフォンを眺め、受動的に外部刺激を受け入れないでください。ネルソン・マンデラのように身体を直接ストレッチし能動的に動くことで、自分の身体と一日の主導権は自分にあることを脳に知らせ、活力を起動させましょう。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>睡眠時間が不足していても、朝5時に起きて無条件に運動する方がよいでしょうか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       身体的疲労が極度な日には、無理に激しい運動をするよりも5〜10分間の軽いストレッチと深呼吸に代替するのが良いでしょう。マンデラ・ルーティンの本質は身体を酷使することではなく、一日の主導権を「自分の意志」で始めることにあります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>体力が非常に弱い初心者はどのように始めるのが良いでしょうか？</span>

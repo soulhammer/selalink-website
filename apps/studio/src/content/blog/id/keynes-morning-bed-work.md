@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Teori Umum yang Ditulis di Bawah Selimut: Kebiasaan Kerja Pagi di Tempat Tidur John Maynard Keynes dan Aktivasi CAR"
 description: "Pelajari bagaimana makroekonom John Maynard Keynes, yang menaklukkan Depresi Besar, menulis naskah di tempat tidur selama dua jam setelah bangun tidur. Temukan neurosains dari Cortisol Awakening Response (CAR) dan rutinitas pagi 3 langkah."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai keynes-morning-bed-work didasarkan pada <strong>Verifikasi Historis dari Biografi *John Maynard Keynes* karya Robert Skidelsky, Arsip Keynes & Penelitian Neurosains Kognitif serta Sains Neuromuskular</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi *John Maynard Keynes* karya Robert Skidelsky, Arsip Keynes & Penelitian Neurosains Kognitif serta Sains Neuromuskular</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cortisol Awakening Response (CAR) dan Jam Emas Sumber Daya Prefrontal
+## 1. Cortisol Awakening Response (CAR) dan Jam Emas Sumber Daya Prefrontal
 
 Selama 30 hingga 45 menit pertama setelah bangun tidur, sistem neuroendokrin manusia mengeksekusi <strong>Cortisol Awakening Response (CAR)</strong>, secara alami melonjakkan kadar kortisol dari kelenjar adrenal untuk memberi energi pada otak. Jendela ini mewakili jam emas kognitif di mana <strong>Korteks Prefrontal</strong> sepenuhnya bebas dari kelelahan keputusan, memungkinkan puncak logika dan sintesis kreatif.
 
 ---
 
-## Perhatian: Meninggikan Tubuh Bagian Atas untuk Mencegah Inersia Tidur dan Mempertahankan Kebugaran
-
-Ancaman utama saat bekerja di tempat tidur adalah tertidur kembali karena <strong>Inersia Tidur (Sleep Inertia)</strong>. Berbaring datar atau menurunkan kepala Anda sebelum terbangun sepenuhnya mengembalikan gelombang otak ke <strong>Gelombang Teta</strong> yang memicu rasa kantuk. Sandarkan punggung dan kepala Anda setidaknya 45 derajat pada bantal untuk memancarkan sinyal kebugaran.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ancaman utama saat bekerja di tempat tidur adalah tertidur kembali karena <stron
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Meninggikan Tubuh Bagian Atas untuk Mencegah Inersia Tidur dan Mempertahankan Kebugaran
+
+Ancaman utama saat bekerja di tempat tidur adalah tertidur kembali karena <strong>Inersia Tidur (Sleep Inertia)</strong>. Berbaring datar atau menurunkan kepala Anda sebelum terbangun sepenuhnya mengembalikan gelombang otak ke <strong>Gelombang Teta</strong> yang memicu rasa kantuk. Sandarkan punggung dan kepala Anda setidaknya 45 derajat pada bantal untuk memancarkan sinyal kebugaran.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah bekerja di tempat tidur berbahaya bagi postur tulang belakang, leher, atau sendi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ancaman utama saat bekerja di tempat tidur adalah tertidur kembali karena <stron
       Berbaring secara merata sambil menekuk leher ke depan menyebabkan ketegangan serviks dan tulang belakang yang parah. Untuk melindungi tulang belakang Anda, sangga tubuh bagian atas Anda pada sudut 45 derajat atau lebih tinggi menggunakan bantal penopang yang keras.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bisakah saya memeriksa email atau pesan singkat selama 5 menit saja segera setelah bangun tidur?</span>

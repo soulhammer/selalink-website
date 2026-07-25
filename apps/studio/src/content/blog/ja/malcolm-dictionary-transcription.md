@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "辞書を丸ごと書き写す？マルコムXの脳再起動・筆写ルーティン"
 description: "劇的な認知的飛躍を遂げたマルコムX。 刑務所の中で辞書の最初の単語から最後の単語まで丸ごと書き写し、知的覚醒を得た彼の熾烈な筆写習慣と、手書きが脳の神経回路に与える認知的効果を紐解きます。"
 pubDate: "2026-07-03"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「malcolm-dictionary-transcription」は <strong>マルコムXの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マルコムXの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳の神経回路を固める手書きの神経学的力
+## 1. 脳の神経回路を固める手書きの神経学的力
 
 私たちが目でテキストを読む時は視覚野のみが限定的に活性化されますが、手書きで直接ノートを記す時は全く異なる認知経路が開かれます。ペンを握って動かす繊細な運動は、脳の<strong>運動野（Motor Cortex）</strong>と感覚統合領域を広範囲に刺激します。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 直接書くペンの先が注意力を復元します
-
-現代人は主にキーボードやタッチスクリーンを使用して情報を消費するため、脳の物理的刺激を極度に欠乏させ、長期記憶への転換率を低下させています。マルコムXの習慣のように1日20分だけでもスマートフォンを完全に切り、アナログペンを握って良い文章や書籍の単語を直接紙にしっかりと書き写す筆写リチュアルは、注意力を復元し知的成長を導く最高の認知ツールです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 直接書くペンの先が注意力を復元します
+
+現代人は主にキーボードやタッチスクリーンを使用して情報を消費するため、脳の物理的刺激を極度に欠乏させ、長期記憶への転換率を低下させています。マルコムXの習慣のように1日20分だけでもスマートフォンを完全に切り、アナログペンを握って良い文章や書籍の単語を直接紙にしっかりと書き写す筆写リチュアルは、注意力を復元し知的成長を導く最高の認知ツールです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>パソコンやタブレットのタイピングで筆写を行っても効果は同じですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ、効果は異なります。タイピングは指先で軽いボタンを反復的に押すだけなので、脳の運動野に入る感覚刺激が極めて単純化されます。一方、ペンで直接線の形を一画一画調整しながら文字を書く行為は、脳の複雑な連合領域を全方位で刺激するため、タイピングよりも記憶の刻印効果や注意力維持の面で比較にならないほど優れています。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>文字の美しさや筆跡の矯正を気にしながら書くべきですか？</span>

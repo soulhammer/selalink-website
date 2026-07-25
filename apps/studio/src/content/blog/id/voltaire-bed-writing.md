@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jangan Bangun dari Tempat Tidur: Metode Reset Otak Pagi Hari ala Voltaire, Master Pencerahan"
 description: "Temukan kebiasaan menulis di tempat tidur pada pagi hari yang dipraktikkan seumur hidup oleh penulis besar Prancis, Voltaire. Simak panduan modern 3 langkah yang memanfaatkan kondisi hipnopompik, saat otak paling kreatif tepat setelah bangun tidur."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ Dalam artikel hari ini, kita menjelajahi prinsip-prinsip ilmiah di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai voltaire-bed-writing didasarkan pada <strong>Riset sejarah biografi & catatan autobiografi Voltaire Bed Writing serta penelitian Ilmu Saraf Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Riset sejarah biografi & catatan autobiografi Voltaire Bed Writing serta penelitian Ilmu Saraf Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sains Kognitif 'Inersia Tidur' di Mana Kreativitas Dimaksimalkan
+## 1. Sains Kognitif 'Inersia Tidur' di Mana Kreativitas Dimaksimalkan
 
 Kondisi sesaat setelah bangun tidur ketika otak belum sepenuhnya sadar disebut dalam sains kognitif sebagai <strong>'Inersia Tidur (Sleep Inertia)'</strong> atau kondisi <strong>'Hipnopompik (Hypnopompic)'</strong>. Selama periode ini, tindakan sensor Korteks Prefrontal, yang bertanggung jawab atas penilaian rasional dan inhibisi, melemah. Sebaliknya, gelombang alfa (α) yang santai dan gelombang teta (θ) yang terkait dengan mimpi ringan mendominasi otak. Akibatnya, hambatan sensor pikiran menurun, memungkinkan asosiasi non-linear dan orisinal. Voltaire mampu mengeluarkan sindiran dan ide-ide cemerlang dari tempat tidur karena ia memanfaatkan sepenuhnya kondisi celah otak di mana alam bawah sadar aktif sebelum logika sadar bekerja.
 
 ---
 
-## Mengatasi Kebiasaan Buruk Pagi Hari dengan Menulis Secara Sadar di Tempat Tidur
-
-Hal yang paling harus diwaspadai saat menjalankan rutinitas pagi di tempat tidur adalah memeriksa media sosial atau berita secara tidak sadar di smartphone. Informasi visual instan dari perangkat digital pemicu dopamin membuat otak berada dalam kondisi tegang, secara instan menghapus kreativitas bawah sadar yang berharga dari inersia tidur. Jaga agar hanya ada kertas catatan dan pena di samping tempat tidur, dan lindungi 10 menit perenungan penuh.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Hal yang paling harus diwaspadai saat menjalankan rutinitas pagi di tempat tidur
   </p>
 </div>
 
+---
+
+## 3. Mengatasi Kebiasaan Buruk Pagi Hari dengan Menulis Secara Sadar di Tempat Tidur
+
+Hal yang paling harus diwaspadai saat menjalankan rutinitas pagi di tempat tidur adalah memeriksa media sosial atau berita secara tidak sadar di smartphone. Informasi visual instan dari perangkat digital pemicu dopamin membuat otak berada dalam kondisi tegang, secara instan menghapus kreativitas bawah sadar yang berharga dari inersia tidur. Jaga agar hanya ada kertas catatan dan pena di samping tempat tidur, dan lindungi 10 menit perenungan penuh.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa bedanya mencatat di tempat tidur dengan menulis tepat setelah bangun tidur secara umum (Morning Pages)?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Hal yang paling harus diwaspadai saat menjalankan rutinitas pagi di tempat tidur
       Sementara Morning Pages ditulis setelah cuci muka atau duduk saat rasio sudah mulai bekerja sebagian, menulis di tempat tidur ala Voltaire membidik 'celah otak' selama inersia tidur sebelum bangun secara fisik, menangkap metafora bawah sadar dan pemikiran kreatif dalam kondisi yang benar-benar mentah, yang memberikan perbedaan kognitif mendalam.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus dilakukan jika tidak ada ide yang muncul saat mau menulis di tempat tidur setiap pagi?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Afinando o Torbellinho da Mente: A Rotina de Autocultivo com Guqin e Alinhamento Auditivo de Confúcio"
 description: "Descubra como Confúcio, mestre da filosofia oriental, afinava e tocava o guqin diariamente durante seus 14 anos de exílio para manter a serenidade. Explore a neurociência cognitiva do engajamento auditivo ativo e ativação parassimpática."
 pubDate: "2026-06-19"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'afina�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre confucius-guqin-harmony é baseada em <strong>Verificação Histórica dos *Registros do Historiador (Shiji: Casa de Confúcio)* de Sima Qian e *Os Analectos (Lunyu)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica dos *Registros do Historiador (Shiji: Casa de Confúcio)* de Sima Qian e *Os Analectos (Lunyu)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ativação Parassimpática Via Microafinação de Cordas e Engajamento Auditivo Ativo
+## 1. Ativação Parassimpática Via Microafinação de Cordas e Engajamento Auditivo Ativo
 
 A sobrecarga de informações superestimula o sistema nervoso simpático, aumentando os batimentos cardíacos. A neurociência cognitiva demonstra que o 'engajamento auditivo ativo' — ouvir atentamente enquanto se ajusta a frequência de vibração das cordas — promove o tom parassimpático no sistema nervoso autônomo (SNA). Detectar pequenas discrepâncias de tom ao afinar estabiliza a Variabilidade da Frequência Cardíaca (HRV) e acalma a tensão pré-frontal.
 
 ---
 
-## Precauções e Dicas: Evitar a Dependência de Telas e Sentir a Vibração Acústica Direta
-
-Para experimentar um verdadeiro relaxamento neurológico, evite depender apenas das telas de afinadores digitais. Olhar continuamente para uma tela mantém o córtex visual em processamento ativo. Em vez disso, feche os olhos ou baixe o olhar, direcionando 100% da sua atenção à ressonância acústica e à vibração tátil nos dedos ao dedilhar uma corda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para experimentar um verdadeiro relaxamento neurológico, evite depender apenas 
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar a Dependência de Telas e Sentir a Vibração Acústica Direta
+
+Para experimentar um verdadeiro relaxamento neurológico, evite depender apenas das telas de afinadores digitais. Olhar continuamente para uma tela mantém o córtex visual em processamento ativo. Em vez disso, feche os olhos ou baixe o olhar, direcionando 100% da sua atenção à ressonância acústica e à vibração tátil nos dedos ao dedilhar uma corda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Iniciantes sem nenhuma experiência musical podem praticar esta rotina?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para experimentar um verdadeiro relaxamento neurológico, evite depender apenas 
       Sim, com certeza. O propósito desta rotina não é a performance artística, mas a estabilização do sistema nervoso por meio da afinação e ressonância acústica. Instrumentos simples como uma Kalimba ou um Ukulele permitem afinar e dedilhar notas em 10 minutos, proporcionando relaxamento.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Usar um aplicativo de afinação no celular é eficaz para esta rotina?</span>

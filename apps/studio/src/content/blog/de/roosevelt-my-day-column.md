@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein unerschütterliches Selbst durch Schreiben aufbauen: Eleanor Roosevelts abendliche Reflexionsroutine"
 description: "Eleanor Roosevelt, eine der einflussreichsten First Ladies Amerikas. Enthüllt ihre 27-jährige abendliche Tagebuch-Routine zur Festigung der Identität und deren metakognitive Vorteile."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ Im heutigen Beitrag beleuchten wir die neurowissenschaftlichen Vorteile von Elea
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu roosevelt-my-day-column basiert auf <strong>Historische Biografie- und Autobiografieforschung zu Eleanor Roosevelt & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und Autobiografieforschung zu Eleanor Roosevelt & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Konsolidierung des Gedächtnisses und Förderung kognitiver Metakognition
+## 1. Konsolidierung des Gedächtnisses und Förderung kognitiver Metakognition
 
 Ungeordnete Tageserlebnisse überstimulieren die Amygdala und erzeugen Stress. Das Strukturieren des Tages durch Schreiben aktiviert den <strong>Hippocampus</strong> und überführt episodische Erinnerungen in das Langzeitgedächtnis. Das Übersetzen von Gefühlen in Worte fördert zudem die <strong>Metakognition</strong>, um sich aus einer 3.-Person-Perspektive zu betrachten und Impulsivität zu mildern.
 
 ---
 
-## Bewahren Sie eine gelassene Haltung statt idealisierter Ziele
-
-Erzwungener Positivismus oder unerreichbare Pläne erzeugen kognitiven Stress und zerstören die Tagebuchpraxis. Blicken Sie wie Eleanor gelassen auf Fakten und Begegnungen zurück und halten Sie Ihren inneren Zustand entspannt fest.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Erzwungener Positivismus oder unerreichbare Pläne erzeugen kognitiven Stress un
   </p>
 </div>
 
+---
+
+## 3. Bewahren Sie eine gelassene Haltung statt idealisierter Ziele
+
+Erzwungener Positivismus oder unerreichbare Pläne erzeugen kognitiven Stress und zerstören die Tagebuchpraxis. Blicken Sie wie Eleanor gelassen auf Fakten und Begegnungen zurück und halten Sie Ihren inneren Zustand entspannt fest.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was kann ich tun, wenn sich meine Tagebucheinträge jeden Tag wiederholen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Erzwungener Positivismus oder unerreichbare Pläne erzeugen kognitiven Stress un
       Versuchen Sie auch im Alltag, jeden Tag eine feine Nuance zu erfassen – eine Begegnung, den Geschmack des Essens oder das Wetter. Die Suche nach Unterschieden schärft die Aufmerksamkeit.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist die Nutzung von digitalen Tagebuch-Apps oder Notion genauso effektiv?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le génie qui siestait des billes d'acier à la main : La technique de sieste hypnagogique de Thomas Edison et sa routine créative"
 description: "Découvrez la légendaire routine de sieste aux billes d'acier de Thomas Edison pour surmonter les blocages créatifs. Explorez la neuroscience cognitive de l'hypnagogie (phase de sommeil N1) et la capture immédiate d'idées."
 pubDate: "2026-04-02"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la neuroscience cognitive sous-jace
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant edison-nap est basée sur <strong>Vérification Historique issue de la biographie de Paul Israel *Edison: A Life of Invention*, des archives du Thomas Edison National Historical Park & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Paul Israel *Edison: A Life of Invention*, des archives du Thomas Edison National Historical Park & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Débloquer les idées Eurêka grâce à l'hypnagogie et la chute de la bille d'acier
+## 1. Débloquer les idées Eurêka grâce à l'hypnagogie et la chute de la bille d'acier
 
 Entrer dans l'état hypnagogique (phase N1 du sommeil) fait passer les ondes cérébrales en ondes thêta (Theta Waves). Cela relâche le contrôle exécutif, permettant aux souvenirs et concepts de se combiner librement. La technique de chute de la bille d'acier agissait comme un interrupteur neurologique précis : elle réveillait le cerveau juste avant le sommeil profond et l'inertie du sommeil, permettant à Edison de capturer les idées émergentes.
 
 ---
 
-## Précautions & Protocole : Transition immédiate vers la prise de notes au réveil
-
-Vous devez entraîner une séquence comportementale immédiate : notez les images hypnagogiques sur un carnet dès la seconde où vous vous réveillez. Hésiter ne serait-ce que quelques secondes fait disparaître complètement les idées du demi-sommeil.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Vous devez entraîner une séquence comportementale immédiate : notez les image
   </p>
 </div>
 
+---
+
+## 3. Précautions & Protocole : Transition immédiate vers la prise de notes au réveil
+
+Vous devez entraîner une séquence comportementale immédiate : notez les images hypnagogiques sur un carnet dès la seconde où vous vous réveillez. Hésiter ne serait-ce que quelques secondes fait disparaître complètement les idées du demi-sommeil.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Thomas Edison faisait-il la sieste en tenant des billes d'acier ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Vous devez entraîner une séquence comportementale immédiate : notez les image
       En s'endormant, le relâchement musculaire faisait tomber les billes, le réveillant instantanément pour consigner les idées émergentes avant le sommeil profond.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Existe-t-il des alternatives à la technique d'Edison pour les bureaux où le bruit est restreint ?</span>

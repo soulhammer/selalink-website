@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "1분 안에 과거의 기록을 찾아낸 철학자: 존 로크의 커먼플레이스 북 색인법과 연상 기억 네트워크"
 description: "경험론의 거장 존 로크는 방대한 기록을 체계적으로 연동하기 위해 독창적인 알파벳 모음 색인법을 고안했습니다. 연상 기억을 자극하여 의미론적 거리를 축소하고 전전두엽 인출(Recall) 부하를 경감시키는 뇌과학적 원리와 3단계 실천 가이드를 다룹니다."
 pubDate: "2026-03-19"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 로크 저작 「새로운 커먼플레이스 북 색인법(A New Method of a Commonplace-Book, 1686)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 근거하여 locke-commonplace-book 루틴을 다룹니다.
+      본 콘텐츠는 <strong>존 로크 저작 「새로운 커먼플레이스 북 색인법(A New Method of a Commonplace-Book, 1686)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 연상 기억(Associative Memory) 네트워크 자극과 인출(Recall) 부하 경감의 뇌과학
+## 1. 연상 기억(Associative Memory) 네트워크 자극과 인출(Recall) 부하 경감의 뇌과학
 
 뇌의 기억 구조는 독립된 상자가 아닌, 연관된 정보들이 서로 그물망처럼 얽혀 있는 <strong>연상 기억(Associative Memory)</strong> 네트워크입니다. 존 로크의 인덱스 기록법은 정보 부호화 단계에서부터 유기적인 연상 고리를 인위적으로 배치합니다. 정보를 수집할 때 카테고리 주소를 매핑(Tagging)하는 과정은 정보 간의 <strong>의미론적 거리(Semantic Distance)</strong>를 축소시킵니다. 이렇게 부호화된 지식은 언제든 재활성화될 수 있는 대기 상태가 되며, <strong>전전두엽(Prefrontal Cortex)</strong>의 검색 과부하를 경감시켜 필요할 때 단 몇 초 만에 <strong>인출(Recall)</strong>되도록 돕습니다.
 
 ---
 
-## 무분별한 정보 수집을 배제하고 인덱스 매핑(Index Mapping)을 의식적으로 실행하는 수칙
-
-노트에 수많은 내용을 인덱스 없이 단순 복사하거나, 디지털 스크랩함에 무제한으로 보관하는 행위는 뇌에 지식이 습득되었다는 착각을 유발하여 망각(Forgetting)을 가속화합니다. 로크처럼 지식을 저장하는 순간 적절한 카테고리 태그를 매핑하는 인덱스 매핑(Index Mapping) 의식이 수반되어야만 뇌의 연상 구조망에 지식이 정착됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 무분별한 정보 수집을 배제하고 인덱스 매핑(Index Mapping)을 의식적으로 실행하는 수칙
+
+노트에 수많은 내용을 인덱스 없이 단순 복사하거나, 디지털 스크랩함에 무제한으로 보관하는 행위는 뇌에 지식이 습득되었다는 착각을 유발하여 망각(Forgetting)을 가속화합니다. 로크처럼 지식을 저장하는 순간 적절한 카테고리 태그를 매핑하는 인덱스 매핑(Index Mapping) 의식이 수반되어야만 뇌의 연상 구조망에 지식이 정착됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>존 로크의 커먼플레이스 북 색인 방법은 구체적으로 어떤 구조였나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       노트 맨 앞 페이지에 알파벳 26자와 모음(a, e, i, o, u)을 결합한 격자표를 그린 뒤, 주제어의 첫 글자와 첫 모음(예: 'Epistola'는 E의 i 칸) 조합 위치에 해당 페이지 번호를 기입하여 신속한 교차 검색을 가능하게 만든 주소 지정 시스템이었습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>아날로그 노트를 쓰는 것이 현대의 디지털 방식보다 더 유익한가요?</span>

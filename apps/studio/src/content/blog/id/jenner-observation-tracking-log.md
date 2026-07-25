@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bapak Imunologi yang Menaklukkan Cacar: Rutinitas Catatan Pengamatan Lapangan dan Neurosains Grit Edward Jenner"
 description: "Pelajari bagaimana dokter pedesaan Edward Jenner menemukan vaksin cacar dengan mengumpulkan catatan pengamatan lapangan bertahun-tahun. Temukan neurosains sirkuit imbalan dopamin berorientasi proses dan grit prefrontal."
 pubDate: "2026-07-14"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai jenner-observation-tracking-log didasarkan pada <strong>Verifikasi Historis dari Risalah Edward Jenner *An Inquiry into the Causes and Effects of the Variolae Vaccinae* (1798), Arsip Royal Society & Penelitian Neurosains Kognitif serta Sejarah Kedokteran</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Risalah Edward Jenner *An Inquiry into the Causes and Effects of the Variolae Vaccinae* (1798), Arsip Royal Society & Penelitian Neurosains Kognitif serta Sejarah Kedokteran</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Re-Ankor Sirkuit Imbalan Dopamin Berorientasi Proses dan Neurosains Grit
+## 1. Re-Ankor Sirkuit Imbalan Dopamin Berorientasi Proses dan Neurosains Grit
 
 Terobsesi secara ketat pada hasil jangka pendek menyebabkan demotivasi cepat ketika hipotesis awal gagal. Mempraktikkan <strong>Catatan Pengamatan Lapangan Jangka Panjang</strong> Jenner menggeser poros <strong>Sirkuit Imbalan Dopamin</strong> otak dari bias hasil jangka pendek ke tindakan fisik mengamati dan mencatat itu sendiri. Re-ankor prosedural ini menstimulasi jaringan perencanaan eksekutif jangka panjang di <strong>Korteks Prefrontal</strong>, menumbuhkan <strong>Grit</strong> yang mendalam.
 
 ---
 
-## Perhatian: Menghilangkan Bias Konfirmasi untuk Menerima Bukti Tandingan dan Pengecualian Objektif
-
-Kejeniusan ilmiah Edward Jenner terletak pada penolakannya untuk hanya mengumpulkan data yang mendukung teorinya secara selektif; ia secara cermat mencatat bukti tandingan dan pengecualian yang tidak terduga ke dalam jurnalnya. Untuk mencegah jatuh ke dalam Bias Konfirmasi, catat fakta empiris mentah dan metrik numerik yang tepat secara jujur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Kejeniusan ilmiah Edward Jenner terletak pada penolakannya untuk hanya mengumpul
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Menghilangkan Bias Konfirmasi untuk Menerima Bukti Tandingan dan Pengecualian Objektif
+
+Kejeniusan ilmiah Edward Jenner terletak pada penolakannya untuk hanya mengumpulkan data yang mendukung teorinya secara selektif; ia secara cermat mencatat bukti tandingan dan pengecualian yang tidak terduga ke dalam jurnalnya. Untuk mencegah jatuh ke dalam Bias Konfirmasi, catat fakta empiris mentah dan metrik numerik yang tepat secara jujur.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa yang harus saya lakukan jika tidak ada pola bermakna yang muncul meskipun mencatat data setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Kejeniusan ilmiah Edward Jenner terletak pada penolakannya untuk hanya mengumpul
       Data yang tidak menunjukkan pola segera berfungsi untuk menyaring kebisingan sensorik. Setelah entri kuantitatif terakumulasi selama lebih dari 30 hari, jaringan prefrontal akan menyintesis koneksi kontekstual.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bisakah pekerja kantor modern atau profesional non-medis melakukan pelacakan lapangan seperti Jenner?</span>

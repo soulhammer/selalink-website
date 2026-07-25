@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Novelis Detektif yang Menyambung Naskah Menjadi Gulungan? Metode Menulis Sangat Terfokus ala Edgar Allan Poe"
 description: "Edgar Allan Poe, pelopor fiksi detektif modern, menulis di atas pita kertas sempit dan menyambungkannya menjadi gulungan. Pelajari prinsip ilmu saraf di balik pemblokiran gangguan visual samping untuk memicu efek terowongan kognitif."
 pubDate: "2026-01-03"
@@ -33,17 +34,17 @@ Dalam artikel hari ini, kita mempelajari prinsip penyesuaian umpan balik visual 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai poe-scroll-writing didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Edgar Allan Poe & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Edgar Allan Poe & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Terowongan Kognitif dan Penekanan Sirkuit Pemantauan Diri
+## 1. Efek Terowongan Kognitif dan Penekanan Sirkuit Pemantauan Diri
 
 Membatasi bidang pandang ke dalam pita yang sangat sempit mengurangi gerakan sakadik mata yang tidak perlu, mencegah lobus frontal membuang perhatian visual. Ilmu saraf menyebut kondisi ini sebagai <strong>'Terowongan Kognitif (Cognitive Tunneling)'</strong>, yang membatasi masukan visual untuk memicu konsentrasi mendalam.
 
@@ -51,9 +52,7 @@ Pada saat yang sama, struktur gulungan yang terus memanjang ke bawah menghambat 
 
 ---
 
-## Isolasi dari Pengeditan Diri
-
-Kebiasaan mengedit kalimat demi kalimat saat menulis menyebabkan gesekan terus-menerus antara sirkuit kreatif otak kanan dan sirkuit kritis otak kiri, menimbulkan kelelahan kognitif. Seperti Poe yang menulis pada gulungan berlanjut, matikan sirkuit pengeditan kritis saat membuat draf awal dan simpan revisi untuk nanti.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Kebiasaan mengedit kalimat demi kalimat saat menulis menyebabkan gesekan terus-m
   </p>
 </div>
 
+---
+
+## 3. Isolasi dari Pengeditan Diri
+
+Kebiasaan mengedit kalimat demi kalimat saat menulis menyebabkan gesekan terus-menerus antara sirkuit kreatif otak kanan dan sirkuit kritis otak kiri, menimbulkan kelelahan kognitif. Seperti Poe yang menulis pada gulungan berlanjut, matikan sirkuit pengeditan kritis saat membuat draf awal dan simpan revisi untuk nanti.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah naskah gulungan Edgar Allan Poe masih ada hingga hari ini?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Kebiasaan mengedit kalimat demi kalimat saat menulis menyebabkan gesekan terus-m
       Ya, beberapa naskahnya yang tersisa (seperti esai dan ulasan) dilestarikan dalam bentuk gulungan sempit yang disambung dengan lem di institusi seperti Free Library of Philadelphia.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ada aplikasi yang membantu mencegah kebiasaan mengedit saat mengetik di layar digital?</span>

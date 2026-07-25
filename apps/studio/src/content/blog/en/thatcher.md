@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Highlighting Documents at 2 AM to Filter Policy Issues: Margaret Thatcher's Information Refining Habit"
 description: "As Britain's Prime Minister known as the Iron Lady, she read piles of official documents and articles every dawn, annotating sharp critical feedback to secure cognitive initiative."
 pubDate: "2026-04-05"
@@ -34,22 +35,20 @@ In this post, we explore the cognitive science principles behind her habit of 'r
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding thatcher is based on <strong>Historical biographies and autobiographical records of Margaret Thatcher & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Margaret Thatcher & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscientific Principles Driving Her Success
+## 1. Neuroscientific Principles Driving Her Success
 
 Extracting core information axes from vast amounts of data and applying visual gating with highlighters or notes strongly stimulates the brain's information abstraction circuits. This elevates the resolution of the prefrontal cortex's cognitive filter, training high-level strategic decision-making that cuts through complexity to identify essential risks and values without getting distracted by peripheral details.
 
 ---
 
-## Behavioral Science Advice for Successful Implementation
-
-Do not highlight every sentence. The key is to apply the highlighter sharply to less than 10% of the overall text, offering the brain clear visual contrast. Rather than relying solely on willpower, design a physical environment and habit cues that naturally trigger action for long-term consistency.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Do not highlight every sentence. The key is to apply the highlighter sharply to 
   </p>
 </div>
 
+---
+
+## 3. Behavioral Science Advice for Successful Implementation
+
+Do not highlight every sentence. The key is to apply the highlighter sharply to less than 10% of the overall text, offering the brain clear visual contrast. Rather than relying solely on willpower, design a physical environment and habit cues that naturally trigger action for long-term consistency.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Should I perform a schedule briefing routine every morning?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Do not highlight every sentence. The key is to apply the highlighter sharply to 
       Yes, reviewing schedule priorities aloud 30 minutes before starting intense work proactively activates the prefrontal cortex's executive control capabilities.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I substitute this if I lack a dedicated memo board or briefing facility?</span>

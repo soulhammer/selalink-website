@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Geometria do Instante e o Olhar Focado: A Rotina de Observação do 'Momento Decisivo' de Henri Cartier-Bresson"
 description: "Explore como Henri Cartier-Bresson, mestre do fotojornalismo moderno, praticava a imersão visual esperando pela harmonia geométrica perfeita e instantes fugazes. Descubra os mecanismos neurocientíficos que anulam os filtros de codificação preditiva para ativar o córtex visual e as redes atencionais pré-frontais."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'harmon
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre bresson-decisive-moment é baseada em <strong>Verificação Histórica do Livro de Fotos de Henri Cartier-Bresson *Images à la sauvette / The Decisive Moment* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica do Livro de Fotos de Henri Cartier-Bresson *Images à la sauvette / The Decisive Moment* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Anulação dos Filtros de Codificação Preditiva e Ativação das Redes Atencionais do Córtex Visual
+## 1. Anulação dos Filtros de Codificação Preditiva e Ativação das Redes Atencionais do Córtex Visual
 
 As ruas cotidianas familiares são amplamente filtradas pelo sistema de 'Codificação Preditiva (Predictive Coding)' do cérebro para economizar energia, tornando invisíveis os detalhes ambientais. Rastrear ativamente padrões geométricos, alinhamentos espaciais e contrastes de luz em mudança — como fazia Cartier-Bresson — anula esse filtro preditivo. Esse processo estimula o córtex visual e as redes de controle atencional pré-frontais, aumentando drasticamente a resolução sensorial e ativando circuitos de associação criativa.
 
 ---
 
-## Precauções e Dicas: Foco na Sincronização Cognitiva com o Momento, Não no Mero Registro
-
-O objetivo deste exercício de observação não é acumular fotos bonitas para redes sociais. Trata-se de treinar a 'Atenção Adiada (Delayed Attention)': alinhar a arquitetura geométrica à sua frente com a compostura mental interior. Evite a tentação de disparar em sequência. Em vez disso, pratique a quietude sustentada, prendendo a respiração por 5 segundos ou mais até que os elementos visuais se fundam em um alinhamento perfeito.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O objetivo deste exercício de observação não é acumular fotos bonitas para 
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Foco na Sincronização Cognitiva com o Momento, Não no Mero Registro
+
+O objetivo deste exercício de observação não é acumular fotos bonitas para redes sociais. Trata-se de treinar a 'Atenção Adiada (Delayed Attention)': alinhar a arquitetura geométrica à sua frente com a compostura mental interior. Evite a tentação de disparar em sequência. Em vez disso, pratique a quietude sustentada, prendendo a respiração por 5 segundos ou mais até que os elementos visuais se fundam em um alinhamento perfeito.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É obrigatório incluir figuras humanas no enquadramento durante o treino de observação visual?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O objetivo deste exercício de observação não é acumular fotos bonitas para 
       Não. Observar formas geométricas inanimadas e limites de luz — como as sombras de postes projetadas em uma parede ou raios de luz atravessando um copo de vidro — é igualmente eficaz para ativar o córtex visual.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É permitido cortar ou aplicar filtros digitais às fotos após o disparo?</span>

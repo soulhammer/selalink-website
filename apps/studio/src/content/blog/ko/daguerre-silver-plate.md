@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "루이 다게르의 은판 노출법: 찰나의 순간을 영원히 고정시켜 최고의 영감을 보존하는 법"
 description: "19세기 프랑스의 발명가 루이 다게르가 은판 화학 반응 노출법으로 인류 최초의 실용 사진을 발명한 역사적 사실과 순간 시각 고정의 뇌과학적 원리를 알아봅니다."
 pubDate: "2026-01-31"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>루이 다게르 『다게레오타입의 역사와 기술(Historique et description des procédés du Daguerréotype)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 daguerre-silver-plate 루틴을 다룹니다.
+      본 콘텐츠는 <strong>루이 다게르 『다게레오타입의 역사와 기술(Historique et description des procédés du Daguerréotype)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 순간 시각 고정이 찰나의 아이디어를 장기 기억에 각인시키는 원리
+## 1. 순간 시각 고정이 찰나의 아이디어를 장기 기억에 각인시키는 원리
 
 신경심리학 및 인지신경과학 연구에 따르면, 찰나의 영감을 뇌 속 프레임에 올려놓고 3초간 집중 노출(Expose)시키는 시각 고정 습관은 후두엽 시각 피질(Visual Cortex)과 해마(Hippocampus)에 강력한 시각적 앵커(Anchor)를 형성합니다. 이 과정은 작업 기억 내의 모호한 아이디어를 가시적 신경 연결망으로 고정시켜 인지적 휘발성(Volatilization)을 막고, 시간이 지난 후에도 원형 그대로의 생생한 아이디어를 재구성해 내는 강력한 기억 고정 효과를 제공합니다.
 
 ---
 
-## 주의사항 및 팁: 즉각적 노출 타이밍과 미루기 습관 차단
-
-솟구친 영감을 "나중에 적어야지" 하고 미루지 마세요. 찰나의 영감은 단 몇 초 만에 신경망에서 빠르게 휘발하므로, 아이디어가 떠오른 바로 그 순간 뇌 속 프레임에 스냅샷처럼 멈추어 3초간 선명히 노출(Fixation)시킨 뒤 즉시 메모나 수기로 연결하는 자제력이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 즉각적 노출 타이밍과 미루기 습관 차단
+
+솟구친 영감을 "나중에 적어야지" 하고 미루지 마세요. 찰나의 영감은 단 몇 초 만에 신경망에서 빠르게 휘발하므로, 아이디어가 떠오른 바로 그 순간 뇌 속 프레임에 스냅샷처럼 멈추어 3초간 선명히 노출(Fixation)시킨 뒤 즉시 메모나 수기로 연결하는 자제력이 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>일반적인 메모 작성과 다게르의 3초 시각 노출 고정법은 무엇이 다른가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       일반 메모는 단어나 글자만을 수동적으로 수집하지만, 다게르 방식은 3초간 뇌 속에서 이미지를 강하게 감광(노출)시킨 뒤 기록합니다. 이 과정을 거치면 훗날 단문 메모만 보더라도 후두엽에 감광되었던 영감 당시의 생생한 감각과 입체적 문맥이 100% 되살아납니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>보행 중이거나 이동 중이라 즉시 글이나 스케치를 남길 수 없을 때는 어떻게 하나요?</span>

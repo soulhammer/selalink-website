@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "거추장스러운 코르셋과 장식을 과감히 쳐낸 샤넬의 본질 미니멀리즘 재단법과 전두엽 억제 필터링"
 description: "여성 패션의 혁명을 일군 전설적 디자이너 코코 샤넬. 스케치 대신 살아 움직이는 모델의 몸 위에 원단을 대고 가위로 불필요한 장식을 쳐냈던 실시간 미니멀리즘 재단 루틴과 대뇌 전두엽 억제 필터링(Suppression Filtering)의 인지신경과학적 원리를 밝힙니다."
 pubDate: "2026-05-17"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>에드몽드 샤를 루 평전 『샤넬(Chanel and Her World)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 coco-chanel 루틴을 다룹니다.
+      본 콘텐츠는 <strong>에드몽드 샤를 루 평전 『샤넬(Chanel and Her World)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 전두엽 억제 필터링(Suppression Filtering)과 본질 직관 추출의 신경학
+## 1. 전두엽 억제 필터링(Suppression Filtering)과 본질 직관 추출의 신경학
 
 불필요한 과잉 정보와 시각적 노이즈를 쳐내고 오직 핵심 본질만을 남기는 물리적·인지적 재단 행위는 대뇌 전전두엽 피질(Prefrontal Cortex)의 '장식 억제 필터링(Suppression Filtering)' 회로를 강력하게 가동합니다. 외부의 산만하고 무의미한 부가 요소들을 뇌가 스스로 차단할 때, 전전두엽의 포도당 소모가 줄어들고 가장 효율적인 핵심 형태에 주의력이 고정됩니다. 실시간으로 3차원 공간에서 덜어내는 훈련은 비즈니스 프로세스, 기획 문서, 또는 일상 의사결정에서 불필요한 군더더기 변수를 단숨에 솎아내는 고도의 메타인지적 '직관 정제 능력'을 발달시킵니다.
 
 ---
 
-## 주의사항 및 팁: 무조건적 무차별 삭제 배제 및 핵심 본질 가치 보존
-
-샤넬식 미니멀리즘 재단법의 핵심은 무조건 양을 줄이거나 파괴하는 극단적 삭제가 아닙니다. 본질적 기능과 미학을 가장 빛나게 도울 '핵심 뼈대'를 남기기 위해 인지 자원을 몰입하는 것이 본질입니다. 무작위로 요소를 잘라내다 본래의 기능이나 메시지까지 훼손하지 않도록, "이 요소를 제거해도 이 프로젝트의 본래 목적과 메시지가 명확히 전달되는가?"를 항상 질문하며 신중하게 정제해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 무조건적 무차별 삭제 배제 및 핵심 본질 가치 보존
+
+샤넬식 미니멀리즘 재단법의 핵심은 무조건 양을 줄이거나 파괴하는 극단적 삭제가 아닙니다. 본질적 기능과 미학을 가장 빛나게 도울 '핵심 뼈대'를 남기기 위해 인지 자원을 몰입하는 것이 본질입니다. 무작위로 요소를 잘라내다 본래의 기능이나 메시지까지 훼손하지 않도록, "이 요소를 제거해도 이 프로젝트의 본래 목적과 메시지가 명확히 전달되는가?"를 항상 질문하며 신중하게 정제해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>기획서나 업무에서 요소를 덜어낼 때 핵심 가치까지 훼손될까 두려운데 어떻게 구분하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       단 하나의 으뜸 목적만 남겨두고 질문해 보세요. "이 수식어, 표, 또는 단락이 빠져도 본 문서가 고객에게 해결해 주는 문제의 본질이 전달되는가?" 만약 여전히 전달된다면 그것은 본질을 포장하기 위한 장식입니다. 과감히 잘라낼 때 오히려 전달력과 직관성이 극대화됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>샤넬의 미니멀리즘 재단법을 개인의 일상 공간이나 정리 정돈에도 응용할 수 있나요?</span>

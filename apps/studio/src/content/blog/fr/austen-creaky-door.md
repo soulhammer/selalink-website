@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Signaux environnementaux protégeant l'immersion : L'habitude de la porte grinçante de Jane Austen"
 description: "Jane Austen a intentionnellement laissé une porte grinçante non réparée pour détecter à l'avance les distractions. Découvrez les principes de conception des limites de concentration."
 pubDate: "2026-03-27"
@@ -37,17 +38,17 @@ Dans l'article d'aujourd'hui, nous examinons les principes des sciences cognitiv
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant austen-creaky-door est basée sur <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & Recherche dans *Neuropsychologia*</strong>.
+      Ce contenu est basé sur <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & Recherche dans *Neuropsychologia*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Protection contre la friction du changement de tâche offerte par le bruit de la porte grinçante
+## 1. Protection contre la friction du changement de tâche offerte par le bruit de la porte grinçante
 
 Les intrusions externes soudaines et imprévues provoquent une <strong>« friction de changement de tâche (Task-Switching Friction) »</strong> dans le cerveau et maximisent la perte liée au <strong>« résidu d'attention (Attention Residue) »</strong>, où la concentration reste fixée sur la tâche précédente.
 
@@ -55,9 +56,7 @@ Le bruit de la porte grinçante utilisé par Jane Austen a fonctionné comme un 
 
 ---
 
-## Guide de maintien de l'immersion pour faire face aux bruits d'intrusion externes
-
-Au lieu de compter sur la seule volonté, concevez des contraintes environnementales pour créer un état où le cerveau n'a d'autre choix que de rester concentré. La clé réside dans l'établissement d'un signal d'avertissement précoce sensoriel, tel que le bruit d'une charnière de porte grinçante.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Au lieu de compter sur la seule volonté, concevez des contraintes environnement
   </p>
 </div>
 
+---
+
+## 3. Guide de maintien de l'immersion pour faire face aux bruits d'intrusion externes
+
+Au lieu de compter sur la seule volonté, concevez des contraintes environnementales pour créer un état où le cerveau n'a d'autre choix que de rester concentré. La clé réside dans l'établissement d'un signal d'avertissement précoce sensoriel, tel que le bruit d'une charnière de porte grinçante.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Jane Austen écrivait-elle dans un salon doté d'une porte grinçante plutôt que dans un bureau privé ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Au lieu de compter sur la seule volonté, concevez des contraintes environnement
       Dans la Grande-Bretagne du XIXe siècle, il était très rare que les femmes écrivains disposent d'un bureau indépendant. Austen devait elle aussi écrire dans l'espace partagé du salon ; elle a donc tiré parti de la porte grinçante pour détecter les visites soudaines de sa famille et gagner du temps pour cacher ses manuscrits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment appliquer cette méthode dans un environnement numérique moderne ?</span>

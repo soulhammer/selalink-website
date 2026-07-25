@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Painter in the Blue Smock Who Observed Morning Roses: Gustav Klimt's Garden Walk Routine and Soft Fascination"
 description: "Discover how Golden Phase master Gustav Klimt restored visual attention by walking through flower gardens along Austria's Lake Attersee. Explore Attention Restoration Theory (ART), prefrontal reset, natural fractal perception, and a 3-step practice guide."
 pubDate: "2026-07-14"
@@ -38,22 +39,20 @@ In today's post, we examine the environmental psychology and neuroscience behind
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding klimt-gardening-nature-refresh is based on <strong>Historical Verification from Gustav Klimt Biographies, Attersee Archives & Cognitive Neuroscience and Environmental Psychology Research</strong>.
+      This content is based on <strong>Historical Verification from Gustav Klimt Biographies, Attersee Archives & Cognitive Neuroscience and Environmental Psychology Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Natural Fractal Observation and Attention Restoration Theory (ART)
+## 1. Natural Fractal Observation and Attention Restoration Theory (ART)
 
 Working amidst artificial digital screens and dense urban structures forces the brain to expend <strong>Directed Attention</strong> resources, triggering severe <strong>Attention Fatigue</strong> in prefrontal networks. According to Rachel and Stephen Kaplan's <strong>Attention Restoration Theory (ART)</strong>, natural geometries—such as botanical fractals in rose petals and leaves—engage the mind effortlessly through a state known as <strong>Soft Fascination</strong>. Observing natural structures without cognitive suppression restores depleted central executive capacity in the <strong>Prefrontal Cortex</strong>, allowing creative sensory processing to recharge.
 
 ---
 
-## Caution: Bypassing Smartphone Camera Frames to Immerse in Naked-Eye Contemplation
-
-The moment you pull out a smartphone camera with the intention of snapping pictures for social media, your brain re-engages social evaluation networks and artificial framing, sabotaging the attention restoration process. As Klimt did, contemplate natural depth, lighting gradients, and micro-patterns directly with your naked eyes rather than filtering reality through a digital lens.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The moment you pull out a smartphone camera with the intention of snapping pictu
   </p>
 </div>
 
+---
+
+## 3. Caution: Bypassing Smartphone Camera Frames to Immerse in Naked-Eye Contemplation
+
+The moment you pull out a smartphone camera with the intention of snapping pictures for social media, your brain re-engages social evaluation networks and artificial framing, sabotaging the attention restoration process. As Klimt did, contemplate natural depth, lighting gradients, and micro-patterns directly with your naked eyes rather than filtering reality through a digital lens.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How can I practice this routine if I don't have access to a garden or park nearby?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The moment you pull out a smartphone camera with the intention of snapping pictu
       Gazing closely for 3 minutes at indoor potted plants, houseplants, street trees outside your window, or drifting clouds delivers identical Attention Restoration Theory (ART) benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I adapt the garden walk routine on rainy or inclement weather days?</span>

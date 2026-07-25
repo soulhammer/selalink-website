@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "将一天分作两次度过的首相：温斯顿·丘吉尔的午后午睡与腺苷清扫习惯"
 description: "探索带领盟军赢得二战胜利的英国首相温斯顿·丘吉尔每天下午躺在床上午睡的习惯，揭示清除积聚的疲劳物质腺苷（Adenosine）并在不引发睡眠惯性的前提下恢复大脑觉醒状态的功率午睡（Power Nap）认知神经科学原理。"
 pubDate: "2026-04-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 churchill-afternoon-nap 的内容基于 <strong>马丁·吉尔伯特传记《丘吉尔传（Winston S. Churchill）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>马丁·吉尔伯特传记《丘吉尔传（Winston S. Churchill）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 清扫腺苷（Adenosine）与无睡眠惯性（Sleep Inertia）的大脑觉醒恢复
+## 1. 清扫腺苷（Adenosine）与无睡眠惯性（Sleep Inertia）的大脑觉醒恢复
 
 在人类清醒活动期间，作为大脑神经元代谢副产物的“腺苷（Adenosine）”会不断积聚，从而形成睡眠压力（Sleep Pressure）。当腺苷与前额叶受体结合时，认知吞吐速度会急剧下降，决策判断力随之衰退。午后的短时午睡（20分钟左右的功率午睡或90分钟完整睡眠周期）能够快速分解并清扫积聚的腺苷。特别是20分钟左右的短时午睡，能精准调控大脑在陷入深度非快动眼睡眠第3阶段（慢波睡眠）之前唤醒，从而有效规避觉醒后浑身瘫软昏沉的“睡眠惯性（Sleep Inertia）”，即刻恢复前额叶皮层的清醒度。丘吉尔所践行的90分钟卧床午睡，也是通过走完包含非快动眼与快动眼睡眠的1个完整睡眠周期来全面重置大脑皮层的无缝生理充能机制。
 
 ---
 
-## 注意事项与提示：避免破坏夜间睡眠与严格把控午睡时间线
-
-午睡习惯的核心在于既能消解午后疲惫，又绝不削弱夜间睡眠所需积聚的睡眠压力。若在下午3点之后长时间躺卧沉睡，会破坏夜间入睡过程，进而陷入失眠恶性循环。对于常规知识工作者而言，最推荐耗时15-20分钟的短时“功率午睡（Power Nap）”。若午睡时长超过30分钟，大脑便会跌入深度慢波睡眠，醒来后会产生严重的睡眠惯性昏沉感，因此务必借助精准的闹钟定时来调控醒来时机。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：避免破坏夜间睡眠与严格把控午睡时间线
+
+午睡习惯的核心在于既能消解午后疲惫，又绝不削弱夜间睡眠所需积聚的睡眠压力。若在下午3点之后长时间躺卧沉睡，会破坏夜间入睡过程，进而陷入失眠恶性循环。对于常规知识工作者而言，最推荐耗时15-20分钟的短时“功率午睡（Power Nap）”。若午睡时长超过30分钟，大脑便会跌入深度慢波睡眠，醒来后会产生严重的睡眠惯性昏沉感，因此务必借助精准的闹钟定时来调控醒来时机。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>丘吉尔首相战时践行的1.5小时卧床午睡与现代人的20分钟功率午睡（Power Nap）有何差异？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       丘吉尔的1.5小时午睡建立在夜间睡眠压缩（4-5小时）的基础上，以此保障包含非快动眼与快动眼睡眠的1个完整90分钟睡眠周期。与此相对，现代上班族的20分钟功率午睡是在保障正常夜间睡眠（7小时）的前提下，仅进入浅层睡眠阶段（非快动眼1-2阶段），旨在不引发睡眠惯性的前提下即刻清扫腺苷。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在20分钟里即便闭目养神却未能真正入睡，是否就毫无午睡效果？</span>

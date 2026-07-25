@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode des inscriptions sur poutres de Montaigne : Ébranler les préjugés et activer la métacognition par le stimulus visuel"
 description: "Découvrez comment le philosophe français Michel de Montaigne a gravé 57 maximes philosophiques anciennes sur les poutres de sa bibliothèque, utilisant l'amorçage visuel pour briser les dogmes et enrichir sa réflexion."
 pubDate: "2026-03-10"
@@ -33,25 +34,23 @@ Dans cet article, nous analysons les mécanismes d'amorçage visuel des poutres 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant montaigne-beam-inscription est basée sur <strong>Études des biographies historiques et récits autobiographiques de Montaigne & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Études des biographies historiques et récits autobiographiques de Montaigne & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Le principe neuroscientifique du texte gravé déclenchant la métacognition
+## 1. Le principe neuroscientifique du texte gravé déclenchant la métacognition
 
 Regarder intentionnellement des maximes visuelles s'inscrit dans la théorie de l'« Amorçage visuel » (Visual Priming). Le cortex cérébral traite inconsciemment le texte, élargissant les réseaux d'association et rappelant des souvenirs. De plus, lever le menton pour regarder le plafond implique un mouvement oculaire vertical qui stimule le cortex préfrontal, siège de la métacognition, incitant à une prise de recul salutaire.
 
 ---
 
-## Éviter l'accoutumance visuelle (désensibilisation)
-
-Aussi inspirante soit-elle, une citation laissée immobile des mois durant finit par être occultée par le cerveau, qui la traite comme un bruit de fond. Pour éviter cette accoutumance visuelle, changez la couleur des notes, déplacez-les ou renouvelez les maximes régulièrement. Préserver la nouveauté est indispensable pour activer la métacognition.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Aussi inspirante soit-elle, une citation laissée immobile des mois durant finit
     En cas de blocage ou de doute, levez la tête et relisez silencieusement le texte pendant 15 secondes. Réorienter le regard vers le haut stimule la métacognition et offre une vue d'ensemble.
   </p>
 </div>
+
+---
+
+## 3. Éviter l'accoutumance visuelle (désensibilisation)
+
+Aussi inspirante soit-elle, une citation laissée immobile des mois durant finit par être occultée par le cerveau, qui la traite comme un bruit de fond. Pour éviter cette accoutumance visuelle, changez la couleur des notes, déplacez-les ou renouvelez les maximes régulièrement. Préserver la nouveauté est indispensable pour activer la métacognition.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

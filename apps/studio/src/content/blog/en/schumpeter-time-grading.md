@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metacognition of Time: Joseph Schumpeter's Daily Report Card Routine"
 description: "Economist Joseph Schumpeter evaluated study and focus hours in his diary every night and graded himself (A–F). Explore the metacognitive effects of a quantitative feedback loop."
 pubDate: "2026-04-19"
@@ -36,22 +37,20 @@ In today's post, we analyze how Schumpeter's daily grading ritual sharpens metac
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding schumpeter-time-grading is based on <strong>Schumpeter Time Grading Historical Biography and Autobiographical Records & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Schumpeter Time Grading Historical Biography and Autobiographical Records & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Tuning Metacognition & Dopamine Reward Network via Quantitative Feedback Loop
+## 1. Tuning Metacognition & Dopamine Reward Network via Quantitative Feedback Loop
 
 Most people evaluate how hard they worked subjectively and emotionally. This vague reflection easily falls into self-rationalization that minimizes laziness. Schumpeter's self-grading ritual activates metacognition—the cognitive monitoring of one's own thought processes. Quantifying time and grading performance allows observing behavior objectively from a third-person perspective. This honest self-objectification helps the brain escape cognitive distortions and strongly motivates the prefrontal cortex's dopamine reward circuitry to achieve a better grade (A) tomorrow.
 
 ---
 
-## Precautions & Tips
-
-Beware that the daily report card does not turn into harsh self-criticism or perfectionist obsession. Falling into learned helplessness due to consecutive low grades will increase brain stress and freeze execution. Treat grading strictly as emotion-free data accumulation. Analyze causes calmly and use it with a growth mindset to improve by just 10% the next day.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Beware that the daily report card does not turn into harsh self-criticism or per
     Find the root cause of today's grade (e.g., 1 hour wasted on social media) and make an improvement plan, such as isolating your phone for 1 hour tomorrow morning.
   </p>
 </div>
+
+---
+
+## 3. Precautions & Tips
+
+Beware that the daily report card does not turn into harsh self-criticism or perfectionist obsession. Falling into learned helplessness due to consecutive low grades will increase brain stress and freeze execution. Treat grading strictly as emotion-free data accumulation. Analyze causes calmly and use it with a growth mindset to improve by just 10% the next day.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

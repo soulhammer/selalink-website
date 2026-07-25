@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "不要起床：启蒙运动大师伏尔泰的晨间大脑重置法"
 description: "探索法国伟人伏尔泰终身坚持的床边晨间写作习惯。查看这个现代化的三步指南，利用醒来后大脑最具创造性的半觉醒（hypnopompic）状态。"
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 voltaire-bed-writing 的内容基于 <strong>伏尔泰床头写作（Voltaire Bed Writing）历史传记及自传记载考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>伏尔泰床头写作（Voltaire Bed Writing）历史传记及自传记载考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 创造力最大化的“睡眠惯性”认知科学
+## 1. 创造力最大化的“睡眠惯性”认知科学
 
 认知科学将刚醒来时大脑尚未完全清醒的状态称为<strong>“睡眠惯性（Sleep Inertia）”</strong>或<strong>“半觉醒（Hypnopompic）”</strong>状态。在此期间，负责理性判断和抑制的前额叶皮层（Prefrontal Cortex）的审查作用会减弱。相反，代表放松状态的α波和代表轻度做梦状态的θ波主导着大脑。因此，思考的审查屏障降低，使得非线性、独创性的联想成为可能。伏尔泰之所以能在床上倾泻出闪光的讽刺和创意，正是因为他在意识逻辑运转之前，完美地利用了下意识活跃的大脑缝隙状态。
 
 ---
 
-## 通过有意识的床头写作克服不良晨间习惯
-
-遵循床头晨间习惯时最需要警惕的是无意识地用手机刷社交媒体或看新闻。那么多巴胺型数字设备带来的即时视觉信息会让大脑进入紧张状态，瞬间抹去睡眠惯性状态下宝贵的潜意识创造力。床边只放便签纸和笔，死守完全沉浸于冥想思索的10分钟。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 通过有意识的床头写作克服不良晨间习惯
+
+遵循床头晨间习惯时最需要警惕的是无意识地用手机刷社交媒体或看新闻。那么多巴胺型数字设备带来的即时视觉信息会让大脑进入紧张状态，瞬间抹去睡眠惯性状态下宝贵的潜意识创造力。床边只放便签纸和笔，死守完全沉浸于冥想思索的10分钟。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在床上记笔记与一般的起床后立即写作（晨间随笔 Morning Pages）有什么不同？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       晨间随笔（Morning Pages）是在洗漱或坐下后、理性部分发挥作用的状态下撰写的；而伏尔泰的床头写作则是在物理下床前的睡眠惯性状态下，瞄准“大脑的缝隙”，在完全原汁原味的状态下捕捉潜意识的比喻和创造性灵感，两者存在深层的认知差异。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>每天早晨在床上写东西却没有灵感时该怎么办？</span>

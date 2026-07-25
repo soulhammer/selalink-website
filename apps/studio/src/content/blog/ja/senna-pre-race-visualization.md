@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "時速300kmの瞑想：アイルトン・セナのレース前イメージトレーニング習慣"
 description: "F1の伝説的チャンピオンであり、レース前にコックピット内で目を閉じトラック全体を完璧にイメージトレーニングしたアイルトン・セナ。脳の運動野をあらかじめ活性化させ、実行エラーをなくしストレスをコントロールするメンタルリハーサルの神経学的メカニズムを解明します。"
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ F1史上最も速く天才的なチャンピオンとして称えられるブラ
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「senna-pre-race-visualization」は <strong>アイルトン・セナの歴史的評伝およびF1レース記録の考証＆認知神経科学・運動心理学の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アイルトン・セナの歴史的評伝およびF1レース記録の考証＆認知神経科学・運動心理学の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## イメージシミュレーションと補足運動野（SMA）の運動ニューロン活性化
+## 1. イメージシミュレーションと補足運動野（SMA）の運動ニューロン活性化
 
 実際に体を動かさなくても、脳内で動作を極めて具体的にイメージ（Mental Imagery）すると、大脳の「補足運動野（Supplementary Motor Area, SMA）」や一次運動野が活性化します。これは実際の筋肉を動かす際に作動するニューロン回路と90%以上一致します。
 
@@ -53,9 +54,7 @@ F1史上最も速く天才的なチャンピオンとして称えられるブラ
 
 ---
 
-## 結果ではなくプロセスをシミュレーションする
-
-メンタルシミュレーションを行う際の注意点は、結果（例：プレゼン成功、目標達成）のみを想像することです。脳の運動野を活性化しミスを減らすには、結果ではなく具体的なプロセス（例：相手のフィードバックにどう答えるか、どの言葉で導入を開くか等）の因果的ディテールをシミュレーションしてこそ神経可塑性プライミング効果が現れます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ F1史上最も速く天才的なチャンピオンとして称えられるブラ
   </p>
 </div>
 
+---
+
+## 3. 結果ではなくプロセスをシミュレーションする
+
+メンタルシミュレーションを行う際の注意点は、結果（例：プレゼン成功、目標達成）のみを想像することです。脳の運動野を活性化しミスを減らすには、結果ではなく具体的なプロセス（例：相手のフィードバックにどう答えるか、どの言葉で導入を開くか等）の因果的ディテールをシミュレーションしてこそ神経可塑性プライミング効果が現れます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>イメージトレーニング中に返って不安感が増す場合はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ F1史上最も速く天才的なチャンピオンとして称えられるブラ
       不安感が増すのは、脳がネガティブなシナリオ（失敗する姿）に集中したためです。直ちに可視化を中止し、現在の呼吸音や手のひらの物理的感触など感覚のグラウンディング（Grounding）を行って不安を和らげ、軽いストレッチで体を先にリラックスさせてください。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>メンタルリハーサルを練習する際、適切なトレーニング時間はどれくらいですか？</span>

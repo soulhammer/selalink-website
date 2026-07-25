@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Renderizar el espacio en medio de la parálisis total: El entrenamiento de la pizarra virtual de Stephen Hawking"
 description: "Un físico teórico de renombre mundial que superó la ELA. Incapaz de sostener un bolígrafo debido a la parálisis, Hawking activó una pizarra virtual en su mente para mapear matemáticamente el espacio multidimensional."
 pubDate: "2026-06-23"
@@ -36,22 +37,20 @@ En este artículo, exploramos la ciencia cognitiva detrás de la pizarra virtual
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre stephen-hawking se basa en <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
+      Este contenido se basa en <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análisis neurocientífico de cómo la visualización impulsa el éxito
+## 1. Análisis neurocientífico de cómo la visualización impulsa el éxito
 
 Renderizar en 3D y girar mentalmente formas abstractas o variables complejas estimula el 'Bloc de notas visoespacial', un componente central de la memoria de trabajo. Esto fortalece las conexiones sinápticas entre el lóbulo parietal y la corteza prefrontal, mejorando la capacidad del cerebro para estructurar conceptos multidimensionales.
 
 ---
 
-## Consejo de ciencia conductual para una rutina exitosa
-
-No te esfuerces demasiado ni te provoques dolor de cabeza forzando imágenes de alta resolución. Proyectar suavemente contornos simples o estructuras 3D en tu pizarra virtual mientras respiras suavemente es suficiente. En lugar de depender de la fuerza de voluntad, diseña pistas ambientales que activen el hábito.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ No te esfuerces demasiado ni te provoques dolor de cabeza forzando imágenes de 
   </p>
 </div>
 
+---
+
+## 3. Consejo de ciencia conductual para una rutina exitosa
+
+No te esfuerces demasiado ni te provoques dolor de cabeza forzando imágenes de alta resolución. Proyectar suavemente contornos simples o estructuras 3D en tu pizarra virtual mientras respiras suavemente es suficiente. En lugar de depender de la fuerza de voluntad, diseña pistas ambientales que activen el hábito.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Cuando cierro los ojos solo veo una pantalla completamente negra. ¿Qué debo hacer?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ No te esfuerces demasiado ni te provoques dolor de cabeza forzando imágenes de 
       Es una respuesta totalmente normal. No fuerces esferas 3D en alta definición; empieza por mantener mentalmente una figura 2D simple, como un cuadrado naranja o un triángulo blanco, durante 3 segundos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Mejorar esta capacidad de bloc de notas mental ayuda a organizar flujos de trabajo complejos y establecer prioridades?</span>

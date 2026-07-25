@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "トマス・アクィナスの多重口述法：作業記憶（ワーキングメモリ）を極大化し複雑な難題を攻略する方法"
 description: "中世の偉大な神学者トマス・アクィナスが、同時に3〜4人の秘書に異なるテーマの原稿を口述筆記させ、論理的文脈を失わずに作業記憶を拡張した秘訣を探ります。"
 pubDate: "2026-03-09"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「aquinas-multi-dictation」は <strong>ベルナルドゥス・ギ（Bernard of Gui）によるトマス・アクィナス伝記の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ベルナルドゥス・ギ（Bernard of Gui）によるトマス・アクィナス伝記の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業記憶のパーティショニングに関する脳認知科学的原理
+## 1. 作業記憶のパーティショニングに関する脳認知科学的原理
 
 同時に複数の抽象的なタスクを調整する行為は、通常、大脳に極度の情報干渉（Interference）と認知切り替えコストを発生させます。しかしトマス・アクィナスはこれを「作業記憶のパーティショニング（Working Memory Partitioning）」によって克服しました。前頭前野の中央実行系（Central Executive System）を高度に訓練し、各プロジェクトの知識ノードを別個の区画に活性化状態で維持しました。これにより文脈を迅速に切り替えながらも、認知リソースが枯渇したり情報が混線したりするのを防ぎました。
 
 ---
 
-## 非生産的なマルチタスクを警戒する
-
-この習慣を、現代の注意が散漫になるマルチタスク（例：メールを読みながらコーディングする）と混同してはなりません。単純な注意散漫は作業の質と速度を大幅に低下させます。アクィナスの方法は、高い集中状態にある単一の業務をパーティションで分け、順次実行（Sequential Execution）する方法です。つまり、一つの対象を処理する時には、100%の脳リソースだけを注ぎ込まなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     時間が終了したら直ちに最初の作業を閉じ、2番目の作業を開きます。深呼吸を3回行い、以前の考えが脳に残像として残らないようバッファを空にしてから、100% 集中力で2番目のタスクを実行します。
   </p>
 </div>
+
+---
+
+## 3. 非生産的なマルチタスクを警戒する
+
+この習慣を、現代の注意が散漫になるマルチタスク（例：メールを読みながらコーディングする）と混同してはなりません。単純な注意散漫は作業の質と速度を大幅に低下させます。アクィナスの方法は、高い集中状態にある単一の業務をパーティションで分け、順次実行（Sequential Execution）する方法です。つまり、一つの対象を処理する時には、100%の脳リソースだけを注ぎ込まなければなりません。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

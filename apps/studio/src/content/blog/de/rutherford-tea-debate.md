@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Kreativitätsgeheimnis des Entdeckers des Atomkerns? Ernest Rutherfords 4-Uhr-Teezeit-Routine"
 description: "Ernest Rutherford, der Vater der Kernphysik. Erfahren Sie, wie seine ungezwungenen Tee-Diskussionen um 16 Uhr psychologische Sicherheit schufen und zur Entdeckung des Atomkerns führten."
 pubDate: "2026-05-23"
@@ -33,17 +34,17 @@ In diesem Beitrag stellen wir Rutherfords 4-Uhr-Teezeit-Routine und die Wissensc
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu rutherford-tea-debate basiert auf <strong>Historische Biografie-Prüfung zu Ernest Rutherford & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie-Prüfung zu Ernest Rutherford & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kollektive Kreativität und Enthemmung durch psychologische Sicherheit
+## 1. Kollektive Kreativität und Enthemmung durch psychologische Sicherheit
 
 In formellen Arbeitsumgebungen unterdrückt die Angst vor Fehlern kreative Ideen.
 
@@ -51,9 +52,7 @@ Ein hierarchiefreier Rahmen wie Rutherfords Teezeit maximiert <strong>'Psycholog
 
 ---
 
-## Legen Sie Rang und Format ab; beginnen Sie mit einer warmen Tasse Tee
-
-Der Zweck der Teezeit ist weder Berichterstattung noch Anweisung. Entscheidend ist offene Flexibilität. Schaffen Sie eine Umgebung, die Austausch fördert.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Der Zweck der Teezeit ist weder Berichterstattung noch Anweisung. Entscheidend i
   </p>
 </div>
 
+---
+
+## 3. Legen Sie Rang und Format ab; beginnen Sie mit einer warmen Tasse Tee
+
+Der Zweck der Teezeit ist weder Berichterstattung noch Anweisung. Entscheidend ist offene Flexibilität. Schaffen Sie eine Umgebung, die Austausch fördert.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Können Freiberufler diese Routine ebenfalls nutzen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Der Zweck der Teezeit ist weder Berichterstattung noch Anweisung. Entscheidend i
       Ja! Trinken Sie um 16 Uhr einen Tee und tauschen Sie sich 10 Minuten online aus oder führen Sie einen Selbstdialog im Notizbuch.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ich habe Sorge, dass die Teezeit in reine Plauderei ausartet und Zeit verschwendet.</span>

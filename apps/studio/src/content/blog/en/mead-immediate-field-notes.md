@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Recordings That Prevent Memory Distortion: Margaret Mead's Immediate Field Note Habit"
 description: "Anthropologist Margaret Mead immediately jotted down observations in her notebook before memories distorted. Covers the neurological principles of 'cognitive offloading' that overcome working memory limits and prevent bias."
 pubDate: "2026-03-18"
@@ -36,22 +37,20 @@ Mead's immediate note-taking mechanism—which blocked subjective memory distort
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding mead-immediate-field-notes is based on <strong>Margaret Mead Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Margaret Mead Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Working Memory Limits and Cognitive Offloading
+## 1. Working Memory Limits and Cognitive Offloading
 
 When input with new information, our brain holds it in a temporary 'working memory' space, which has a small capacity that can only retain around 7 chunks of data. Over time, the brain arbitrarily alters and reconstructs missing details according to its schema (existing knowledge and bias). Practicing 'cognitive offloading' like Mead—transferring information immediately to an external recording device using pen and paper—blocks subjective memory rewriting and extracts highly objective data beyond brain limitations.
 
 ---
 
-## Precautions and Tips
-
-A common mistake when practicing immediate note-taking is trying to write complete sentences or polished reports. Overthinking spelling, grammar, or organization forces the brain to run editing filters, modifying fleeting raw data. When taking immediate notes, quickly scribble down raw keywords, tone, and core facts; reserve sentence polishing strictly for a dedicated organization stage later.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ A common mistake when practicing immediate note-taking is trying to write comple
   </p>
 </div>
 
+---
+
+## 3. Precautions and Tips
+
+A common mistake when practicing immediate note-taking is trying to write complete sentences or polished reports. Overthinking spelling, grammar, or organization forces the brain to run editing filters, modifying fleeting raw data. When taking immediate notes, quickly scribble down raw keywords, tone, and core facts; reserve sentence polishing strictly for a dedicated organization stage later.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it okay to use a smartphone memo app instead of a notebook?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ A common mistake when practicing immediate note-taking is trying to write comple
       Yes, it is acceptable. However, when using a smartphone, switch to Do Not Disturb mode or set up a widget on your home screen so notifications (messages, SNS) do not distract you, minimizing any recording delay.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How about keeping a voice recorder on and listening back to take notes later?</span>

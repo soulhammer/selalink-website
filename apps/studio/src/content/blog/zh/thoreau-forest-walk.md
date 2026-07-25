@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "每天在森林中行走4小时：亨利·戴维·梭罗的自然恢复步行习惯"
 description: "介绍亨利·戴维·梭罗每天在瓦尔登湖畔行走4小时、观察并记录的日常习惯。解释在自然中行走如何恢复大脑注意力并激发创造力的神经科学原理。"
 pubDate: "2026-04-30"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 thoreau-forest-walk 的内容基于 <strong>亨利·戴维·梭罗历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>亨利·戴维·梭罗历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 注意力恢复理论（ART）：在自然中行走对疲劳前额叶皮层的疗愈效果
+## 1. 注意力恢复理论（ART）：在自然中行走对疲劳前额叶皮层的疗愈效果
 
 根据认知科学的“注意力恢复理论（ART）”，充满复杂人工刺激的城市环境（红绿灯、屏幕信息等）会不断消耗大脑的指向性注意力资源。相反，森林或公园等自然环境提供了“柔和吸引（Soft Fascination）”刺激——如随风摇曳的树木或树叶的沙沙声——让疲惫的前额叶皮层得以休息。此外，行走能激活大脑的默认模式网络（DMN），将潜意识下分散的思想连接起来，开辟全新的智力突破。
 
 ---
 
-## 散步期间彻底远离数字噪音
-
-对亨利·戴维·梭罗而言，在自然中行走是与自然界进行孤独对话的神圣仪式。如果一边看手机屏幕或回复实时通知一边行走，大脑的注意力恢复功能将无法发挥作用。请在行走期间保持离线状态，彻底与设备和网络断开，并向周围的植物和季节变化敞开所有感官。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     随身携带一本便携纸质笔记本和笔。在大脑放松、闪现智力灵感的瞬间，与其打开手机，不如直接记录在纸上。
   </p>
 </div>
+
+---
+
+## 3. 散步期间彻底远离数字噪音
+
+对亨利·戴维·梭罗而言，在自然中行走是与自然界进行孤独对话的神圣仪式。如果一边看手机屏幕或回复实时通知一边行走，大脑的注意力恢复功能将无法发挥作用。请在行走期间保持离线状态，彻底与设备和网络断开，并向周围的植物和季节变化敞开所有感官。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

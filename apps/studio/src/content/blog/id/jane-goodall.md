@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Duduk di Atas Batu di Samping Simpanse untuk Mengamati dan Mencatat: Kebiasaan Imersi dan Rutinitas Perhatian Selektif Jane Goodall"
 description: "Pelajari bagaimana etolog Jane Goodall memperoleh terobosan ilmiah dengan mengamati simpanse di hutan Gombe. Temukan neurosains aktivasi korteks asosiasi sensorik, perhatian selektif, dan rutinitas pengamatan."
 pubDate: "2026-05-09"
@@ -33,25 +34,23 @@ Setiap pagi sebelum fajar, Goodall mendaki puncak berbatu yang tinggi di Gombe. 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai jane-goodall didasarkan pada <strong>Verifikasi Historis dari Autobiografi Jane Goodall *Reason for Hope*, Arsip Gombe Stream Research Centre & Penelitian Neurosains Kognitif serta Etologi</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Jane Goodall *Reason for Hope*, Arsip Gombe Stream Research Centre & Penelitian Neurosains Kognitif serta Etologi</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi Korteks Asosiasi Sensorik dan Perhatian Selektif
+## 1. Stimulasi Korteks Asosiasi Sensorik dan Perhatian Selektif
 
 Melatih fokus Anda untuk mengamati subjek eksternal secara diam-diam tanpa intervensi menstimulasi <strong>Korteks Asosiasi Sensorik</strong> dan jaringan <strong>Perhatian Selektif</strong>. Menyusun masukan sensorik ke dalam catatan analog meningkatkan resolusi sensorik, menekan kebisingan latar belakang. Refinasi saraf ini melatih <strong>Kapasitas Persepsi Berwawasan (Insightful Perceptual Ability)</strong> untuk mendeteksi petunjuk halus.
 
 ---
 
-## Perhatian: Mengecualikan Penilaian Subjektif untuk Berfokus pada Data Sensorik Objektif
-
-Jangan terburu-buru menilai, memberi label, atau mengategorikan target yang diamati secara logis. Persyaratan utamanya adalah menyisihkan interpretasi atau bias subjektif, menyerap kedalaman fisik mentah, kontras cahaya, dan tekstur secara langsung ke jalur sensorik.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Jangan terburu-buru menilai, memberi label, atau mengategorikan target yang diam
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengecualikan Penilaian Subjektif untuk Berfokus pada Data Sensorik Objektif
+
+Jangan terburu-buru menilai, memberi label, atau mengategorikan target yang diamati secara logis. Persyaratan utamanya adalah menyisihkan interpretasi atau bias subjektif, menyerap kedalaman fisik mentah, kontras cahaya, dan tekstur secara langsung ke jalur sensorik.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bisakah saya mengganti pengamatan langsung dengan mata telanjang dengan mengambil foto ponsel pintar untuk dianalisis nanti?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Jangan terburu-buru menilai, memberi label, atau mengategorikan target yang diam
       Tidak. Gambar layar digital adalah kisi piksel 2D datar yang gagal melibatkan jaringan saraf persepsi kedalaman 3D otak. Anda harus mendekode kedalaman fisik dan tekstur mikro objek nyata dengan mata telanjang.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Haruskah saya mengamati objek statis saja, atau bisakah saya mengamati subjek yang bergerak?</span>

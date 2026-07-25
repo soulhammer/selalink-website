@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metode Paparan Pelat Perak Louis Daguerre: Cara Mengabadikan Momen Singkat Menjadi Inspirasi Abadi"
 description: "Pelajari bagaimana penemu Prancis abad ke-19 Louis Daguerre menciptakan fotografi praktis pertama melalui paparan kimia pelat perak, dan temukan neurosains kognitif tentang fiksasi visual seketika."
 pubDate: "2026-01-31"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'papar
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai daguerre-silver-plate didasarkan pada <strong>Verifikasi Historis dari *Historique et description des procédés du Daguerréotype (Sejarah dan Deskripsi Proses Daguerreotype)* karya Louis Daguerre & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Historique et description des procédés du Daguerréotype (Sejarah dan Deskripsi Proses Daguerreotype)* karya Louis Daguerre & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bagaimana Fiksasi Visual Seketika Mengukir Ide Singkat ke Dalam Memori Jangka Panjang
+## 1. Bagaimana Fiksasi Visual Seketika Mengukir Ide Singkat ke Dalam Memori Jangka Panjang
 
 Penelitian neuropsikologis menunjukkan bahwa membingkai wawasan singkat secara mental dan mengeksposnya selama 3 detik penuh menciptakan jangkar saraf yang kuat di korteks visual oksipital dan hipokampus. 'Jendela paparan' 3 detik ini menstabilkan representasi memori kerja mentah sebelum rusak, memastikan penarikan konteks yang hidup.
 
 ---
 
-## Perhatian & Tip: Waktu Paparan Seketika & Mencegah Penundaan
-
-Jangan menunda mencatat wawasan yang muncul. Percikan kreatif yang cepat berlalu memudar dengan cepat dalam hitungan detik di jaringan memori kerja. Saat sebuah ide muncul, segera bekukan seperti foto mental di dalam bingkai internal Anda, ekspos secara jelas selama 3 detik, dan hubungkan fiksasi itu ke dalam catatan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jangan menunda mencatat wawasan yang muncul. Percikan kreatif yang cepat berlalu
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Waktu Paparan Seketika & Mencegah Penundaan
+
+Jangan menunda mencatat wawasan yang muncul. Percikan kreatif yang cepat berlalu memudar dengan cepat dalam hitungan detik di jaringan memori kerja. Saat sebuah ide muncul, segera bekukan seperti foto mental di dalam bingkai internal Anda, ekspos secara jelas selama 3 detik, dan hubungkan fiksasi itu ke dalam catatan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana metode paparan visual 3 detik Daguerre berbeda dari pencatatan standar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jangan menunda mencatat wawasan yang muncul. Percikan kreatif yang cepat berlalu
       Pencatatan standar secara pasif menangkap teks atau kata-kata. Sebaliknya, metode Daguerre secara aktif 'mengekspos' ide di dalam korteks visual selama 3 detik sebelum menulis. Ini menciptakan foto sensorik berdensitas tinggi sehingga mereview kata kunci singkat nanti akan merekonstruksi konteks asli.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus saya lakukan jika saya sedang berjalan atau mengemudi dan tidak dapat secara fisik menulis atau menggambar sketsa secara langsung?</span>

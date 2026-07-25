@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "午前3時45分に起きて100通のメールを読むCEO？ ティム・クックの朝のコントロールルーティン"
 description: "世界最大のIT企業アップル（Apple）を率いるトップ、ティム・クック。毎日午前3時45分に起床してユーザーのフィードバックメールを読み、5時に運動する彼の主導権確保ルーティンと3ステップ実践法を紹介します。"
 pubDate: "2026-02-24"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「tim-cook-early-morning-routine」は <strong>ティム・クックの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ティム・クックの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 前頭葉のグルコース予算保護と自己枯渇予防のメカニズム
+## 1. 前頭葉のグルコース予算保護と自己枯渇予防のメカニズム
 
 人間の脳、特に前頭葉皮質（Prefrontal Cortex）が意思決定時に使用するエネルギー資源には限りがあります。日中に他人の要求や受動的なメールに追われていると、真に重要な戦略的判断を下す時に脳は<strong>自己枯渇（Ego Depletion）</strong>状態に陥ってしまいます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 睡眠時間の削減に伴う脳の疲労蓄積への注意
-
-ティム・クックの起床ルーティンを模倣するために夜遅くまで起きているのに無理をして早朝に起きると、前頭葉細胞に慢性疲労が蓄積し判断力が低下します。アーリーバード（早起き）ルーティンの本質は起床時刻そのものではなく、「早く寝て早く起き、主導権を握ること」にあることを忘れないでください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 睡眠時間の削減に伴う脳の疲労蓄積への注意
+
+ティム・クックの起床ルーティンを模倣するために夜遅くまで起きているのに無理をして早朝に起きると、前頭葉細胞に慢性疲労が蓄積し判断力が低下します。アーリーバード（早起き）ルーティンの本質は起床時刻そのものではなく、「早く寝て早く起き、主導権を握ること」にあることを忘れないでください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>夜型人間（夜行性）もこの早朝ルーティンを実践するべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       ご自身の遺伝的な睡眠クロノタイプ（Chronotype）が完全な夜型であるならば、無理をして午前3〜4時に起きる必要はありません。本ルーティンの核心は「1日の中で外部の邪魔がゼロである自分だけの主導的な1時間を確保すること」であるため、退社後の1時間や深夜の1時間に代替しても同様の効果を得ることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>早朝早く起きると午後に疲労を感じるのですが、どのように克服すればよいですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "孕育完美文句的声音：古斯塔夫·福楼拜“咆哮室”朗读习惯与听觉反馈指南"
 description: "探索追寻“唯一恰当之词（Le mot juste）”、绝不苟且文字的撰著大家福楼拜的文采秘诀。深度剖析其利用大脑运动皮层与听觉反馈回路在“咆哮室（Gueuloir）”高声朗读以打磨逻辑与韵律的神经科学原理。"
 pubDate: "2026-01-20"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 flaubert-gueuloir-recitation 的内容基于 <strong>古斯塔夫·福楼拜书信集《Correspondance》与文学传记考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>古斯塔夫·福楼拜书信集《Correspondance》与文学传记考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 双重编码理论与听觉反馈回路的神经科学
+## 1. 双重编码理论与听觉反馈回路的神经科学
 
 默读文字时仅有部分视觉皮层参与运作；然而一旦动用舌唇与发声器官大声朗诵，大脑的<strong>运动皮层（Motor Cortex）</strong>与认知监控网络便会展开密切协同。根据认知心理学的<strong>双重编码理论（Dual-Coding Theory）</strong>，当信息经由视觉与听觉两条通道同步灌入时，大脑的记忆与认知带宽将呈暴塌式扩张。此外，亲耳倾听自己发出的声音会激活<strong>听觉反馈回路（Auditory Feedback Loop）</strong>，倒逼大脑的纠错机制在微秒间揪出语法漏洞、拗口病句与呼吸节奏紊乱。因此，开口朗诵乃是升华文章逻辑严密性与音韵美的极致神经滤网。
 
 ---
 
-## 注意事项：规避扫读与无意识自我欺骗的精细朗诵准则
-
-执行朗诵校订习惯时须严加忌讳盲目求快与含混扫读。若以速读节奏朗诵大脑早已熟悉的文本，大脑皮层会在无意识间凭借联想自动“填补”文字纰漏与语法漏洞，将错句误判为通顺语句，引发认知扭曲。因此，朗诵时务必放缓语速，以手指或光标逐字对应发音。尤须夸张地延长句号与逗号处的停顿间歇，如此方能向大脑输送客观的感知数据，准确评估句式呼吸长度与韵律美感。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：规避扫读与无意识自我欺骗的精细朗诵准则
+
+执行朗诵校订习惯时须严加忌讳盲目求快与含混扫读。若以速读节奏朗诵大脑早已熟悉的文本，大脑皮层会在无意识间凭借联想自动“填补”文字纰漏与语法漏洞，将错句误判为通顺语句，引发认知扭曲。因此，朗诵时务必放缓语速，以手指或光标逐字对应发音。尤须夸张地延长句号与逗号处的停顿间歇，如此方能向大脑输送客观的感知数据，准确评估句式呼吸长度与韵律美感。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>身处安静的办公室或咖啡馆办公时，也必须开口朗诵吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       身处公共场合显然不便高声大喊，此时可降级采用仅有自己能听清的“微声吟诵（Sub-whisper）”模式，发动唇舌的物理咀嚼发音动作。单纯拉动口型与发音器官，相比于被动默读，亦能对大脑运动皮层形成实质刺激，获取相当程度的逻辑与语病查杀效能。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>对于非文学类的商业策划案、学术论文或报告，朗诵校订习惯同样奏效吗？</span>

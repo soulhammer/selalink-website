@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "カフェの騒音の中で魔法を書いた作家？J.K.ローリングのホワイトノイズ没頭ルーティン"
 description: "『ハリー・ポッター』の著者J.K.ローリング。静寂の代わりにカフェのざわめくホワイトノイズを背景に大作を執筆した彼女のルーティンと、騒音が持つ創造的脳科学原理を紹介します。"
 pubDate: "2026-03-03"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「rowling-cafe-focus」は <strong>J.K.ローリング歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>J.K.ローリング歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 抽象的脳活性化を助ける「軽度の認知障害（Cognitive Disfluency）」
+## 1. 抽象的脳活性化を助ける「軽度の認知障害（Cognitive Disfluency）」
 
 創造性を要する作業（アイデア会議、作文、新企画など）を行う際、極度に静かで密閉された自習室のような空間を探しがちですが、これは時に逆効果を生みます。過度な静寂は脳に圧迫感を与え、注意フィルターを過剰に緊張させて思考の柔軟性を低下させます。
 
@@ -53,9 +54,7 @@ J.K.ローリングのカフェ没頭ルーティンは、約70dB（デシベル
 
 ---
 
-## 適度な周辺騒音が思考の扉を開きます
-
-J.K.ローリングにとってカフェのざわめきは集中を妨げる障害物ではなく、孤独感とストレスを相殺し、脳に軽度の認知刺激を与えて創造的回路を滑らかにする居心地の良い騒音幕でした。あまりに狭く静まり返った部屋で思考が停滞した時は、躊躇なくカフェに向かうか、部屋の中にホワイトノイズを満たしてみてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ J.K.ローリングにとってカフェのざわめきは集中を妨げる障�
   </p>
 </div>
 
+---
+
+## 3. 適度な周辺騒音が思考の扉を開きます
+
+J.K.ローリングにとってカフェのざわめきは集中を妨げる障害物ではなく、孤独感とストレスを相殺し、脳に軽度の認知刺激を与えて創造的回路を滑らかにする居心地の良い騒音幕でした。あまりに狭く静まり返った部屋で思考が停滞した時は、躊躇なくカフェに向かうか、部屋の中にホワイトノイズを満たしてみてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>大音量のヘヴィメタルやダンスミュージックを聴いても同じ効果が得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ J.K.ローリングにとってカフェのざわめきは集中を妨げる障�
       いいえ。人工的にミキシングされた歌詞入り音楽や規則性が強く過度に大きい騒音（85dB以上）は、軽度の刺激を超えて前頭葉の作業記憶領域に直接侵入します。これは脳の疲労を促進し集中に深刻な害を及ぼすため、歌詞がなく予測不能な不規則な環境騒音（ホワイトノイズ）でのみ効果が正しく作動します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>自習室で静かにイヤホンでホワイトノイズを聴くのも効果がありますか？</span>

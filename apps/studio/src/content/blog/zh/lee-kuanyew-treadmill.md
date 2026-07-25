@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "排解立国沉压的汗水：李光耀的运动后冥想习惯与自律神经系统恒常性重塑"
 description: "深度剖析新加坡缔造者李光耀总理如何借由每日下班后30分钟跑步机冲刺与接续的20分钟呼吸冥想，重构决策算力并修复大脑。揭示自律神经系统切换、消除皮质醇与3步骤实践指南。"
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 lee-kuanyew-treadmill 的内容基于 <strong>李光耀自传《李光耀回忆录（The Singapore Story）》与新加坡国家档案馆考证及认知神经科学（Cognitive Neuroscience）与运动生理学（Exercise Physiology）研究</strong> 撰写。
+      本内容基于 <strong>李光耀自传《李光耀回忆录（The Singapore Story）》与新加坡国家档案馆考证及认知神经科学（Cognitive Neuroscience）与运动生理学（Exercise Physiology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 有氧刺激消解皮质醇（Cortisol）与强效切入副交感神经系统（Parasympathetic Nervous System）机制
+## 1. 有氧刺激消解皮质醇（Cortisol）与强效切入副交感神经系统（Parasympathetic Nervous System）机制
 
 挥汗如雨的高强度有氧运动能强效拉动脑部代谢废物的代谢与清扫认知疲劳物质。在运动结束后紧逼展开呼吸冥想，能促使处于高频警报应激状态的<strong>交感神经系统（Sympathetic Nervous System）</strong>剧烈平滑切入主责松弛与休养的<strong>副交感神经系统（Parasympathetic Nervous System）</strong>。这套极速的自律神经系统切换流程，能在极短时耗内骤降应激激素<strong>皮质醇（Cortisol）</strong>浓度，将大脑<strong>恒常性（Homeostasis）</strong>推至巅峰，彻底修复<strong>前额叶皮层（Prefrontal Cortex）</strong>的认知疲劳并重构心理沉稳度。
 
 ---
 
-## 注意事项：抓住运动后心率高频觉醒黄金期，即刻落座冥想指南
-
-李光耀式习惯的核心硬核所在，在于在运动完结后切勿先洗澡冲凉或转向其他杂务、而须当即切入沉静冥想中。唯有在心率处于剧烈觉醒状态的瞬间下沉平抑呼吸，大脑的自律神经系统切换机制方能以极强效能运转，拉动皮质醇（Cortisol）浓度的骤降。绝不可在跑步与冥想间留出漫长停顿间隙。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：抓住运动后心率高频觉醒黄金期，即刻落座冥想指南
+
+李光耀式习惯的核心硬核所在，在于在运动完结后切勿先洗澡冲凉或转向其他杂务、而须当即切入沉静冥想中。唯有在心率处于剧烈觉醒状态的瞬间下沉平抑呼吸，大脑的自律神经系统切换机制方能以极强效能运转，拉动皮质醇（Cortisol）浓度的骤降。绝不可在跑步与冥想间留出漫长停顿间隙。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>能否在运动后先冲洗干净、而后在干爽状态下展开冥想？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       绝不可以。拉动大脑自律神经系统协同对齐的生理学黄金窗口期，乃是“心率攀至巅峰状态的瞬间”。若在冲凉进程中心率已自发沉淀平复至日常均值，由交感神经向副交感神经剧烈切换所引发的皮质醇极速清扫与恒常性重塑效能将大幅衰减。务必在挥汗如雨的瞬间当即落座。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若在冥想进程中脑海中频频破土涌现杂念，是否意味着本次冥想归于失败？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Esfriar um Cérebro Sobreaquecido: A Rotina de Detox com Filmes de Faroeste de Ludwig Wittgenstein"
 description: "Ludwig Wittgenstein assistia a filmes de faroeste na primeira fileira do cinema para reiniciar seu cérebro sobrecarregado pela filosofia analítica. Destaca o mecanismo de imersão visual forçada para desligar a sobrecarga pré-frontal."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Este artigo analisa a rotina de detox com faroestes de Wittgenstein e traz um pl
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre wittgenstein-movie-detox é baseada em <strong>Registros históricos de biografias de Ludwig Wittgenstein com pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Registros históricos de biografias de Ludwig Wittgenstein com pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reset dos circuitos cerebrais e incubação através da redireção forçada da atenção
+## 1. Reset dos circuitos cerebrais e incubação através da redireção forçada da atenção
 
 Quando o córtex pré-frontal foca horas em um tema complexo, sofre fadiga cognitiva. Tentar descansar passivamente desencadeia ruminações. A rotina de Wittgenstein alcança uma 'redireção forçada da atenção'. Ao mergulhar a visão em uma tela dinâmica e simples, os circuitos analíticos desligam-se, ativando a Rede de Modo Padrão (DMN) para incubar ideias.
 
 ---
 
-## Precauções e dicas
-
-Evite thrillers complexos, filmes de arte conceituais ou tragédias ao escolher mídias para o detox mental. Conteúdos que exigem raciocínio consomem energia. Escolha filmes de ação leves, histórias simples do bem contra o mal ou documentários da natureza.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ Evite thrillers complexos, filmes de arte conceituais ou tragédias ao escolher 
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Evite thrillers complexos, filmes de arte conceituais ou tragédias ao escolher mídias para o detox mental. Conteúdos que exigem raciocínio consomem energia. Escolha filmes de ação leves, histórias simples do bem contra o mal ou documentários da natureza.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mencari Paku Bengkok demi Mengatasi Demam Panggung: Rutinitas 'Jangkar Sensorik' Luciano Pavarotti"
 description: "Menjelaskan efek penenang ilmu saraf di balik kebiasaan tenor legendaris Luciano Pavarotti mencari paku bengkok sebelum tampil. Pelajari bagaimana rutinitas terencana mengendalikan kecemasan."
 pubDate: "2026-04-13"
@@ -33,25 +34,23 @@ Dalam artikel ini, kami mengupas sains otak di balik ritual paku bengkok Pavarot
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai pavarotti-bent-nail didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Luciano Pavarotti & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Luciano Pavarotti & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Rutinitas Ritual dan Pengendalian Kecemasan Amigdala
+## 1. Rutinitas Ritual dan Pengendalian Kecemasan Amigdala
 
 Menghadapi pidato atau pertunjukan yang sangat menegangkan memicu amigdala otak untuk menganggapnya sebagai ancaman kelangsungan hidup, mengaktifkan respons 'lawan atau lari' dan meningkatkan detak jantung. Menjalankan ritual khusus secara sengaja menipu otak seolah-olah memiliki 'rasa kendali (Sense of Control)', menenangkan hiperaktivitas amigdala. Selain itu, mengarahkan fokus ke tugas konkret seperti mencari benda menghentikan metakognisi pemicu kecemasan dan mengalihkan perhatian ke pemrosesan data visual dan taktil fisik.
 
 ---
 
-## Menyediakan Jangkar Sensorik Pribadi untuk Meredakan Ketegangan
-
-Bagi Luciano Pavarotti, paku bengkok adalah jangkar sensorik cerdas yang menenangkan gejolak emosi. Anda tidak perlu mencari paku; 1 menit sebelum wawancara atau presentasi, sentuh koin atau klip di saku Anda dan fokuslah sepenuhnya pada sensasi logamnya yang dingin dan kokoh. Begitu data taktil memenuhi jaringan saraf, demam panggung akan mereda dengan cepat.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Bagi Luciano Pavarotti, paku bengkok adalah jangkar sensorik cerdas yang menenan
     Rasakan bahwa napas dalam dan detak nadi telah melambat melalui penjangkaran taktil. Langkahkan kaki dengan percaya diri saat otak bebas dari ketegangan dan kapasitas memori kerja pulih kembali.
   </p>
 </div>
+
+---
+
+## 3. Menyediakan Jangkar Sensorik Pribadi untuk Meredakan Ketegangan
+
+Bagi Luciano Pavarotti, paku bengkok adalah jangkar sensorik cerdas yang menenangkan gejolak emosi. Anda tidak perlu mencari paku; 1 menit sebelum wawancara atau presentasi, sentuh koin atau klip di saku Anda dan fokuslah sepenuhnya pada sensasi logamnya yang dingin dan kokoh. Begitu data taktil memenuhi jaringan saraf, demam panggung akan mereda dengan cepat.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

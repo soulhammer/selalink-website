@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Genius yang Menulis Skor Orkestra Sambil Menyusuri Kanal: Rutinitas Penangkapan Inspirasi Antonio Vivaldi"
 description: "Master Barok Antonio Vivaldi menciptakan lebih dari 500 konserto termasuk 'The Four Seasons'. Pelajari prinsip neurosains dan panduan praktis 3 langkah di balik jalan-jalan fajar dan penangkapan inspirasi cepatnya."
 pubDate: "2026-06-24"
@@ -33,17 +34,17 @@ Dalam artikel ini, kami mengungkap mekanisme neurosains di balik jalan-jalan faj
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai vivaldi-composition-walk didasarkan pada <strong>Catatan Biografis Historis Antonio Vivaldi & Riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Catatan Biografis Historis Antonio Vivaldi & Riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Input Sensorik dan Mekanisme Penangkapan Cepat (Speed of Capture) untuk Ide Sekilas
+## 1. Input Sensorik dan Mekanisme Penangkapan Cepat (Speed of Capture) untuk Ide Sekilas
 
 Stimulasi fisik dari udara pagi menyegarkan korteks visual dan auditori, memicu asosiasi dalam ingatan. Namun, kilatan kreatif memiliki batas waktu penyimpanan sangat singkat dalam ingatan kerja prefrontal, sering hilang hanya dalam 1 hingga 2 menit.
 
@@ -51,9 +52,7 @@ Rutinitas penangkapan cepat Vivaldi mengatasi keraguan dengan <strong>segera men
 
 ---
 
-## Waspadai Sensor Sempurna (Perfecksionis) dan Penundaan Saat Menangkap Ide
-
-Saat Anda mulai meragukan 'Apakah ide ini benar-benar bagus?', otak langsung kehilangan inspirasi tersebut. Pada fase awal penangkapan, tuangkan 100% ide mentah ke kertas tanpa menilai.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Saat Anda mulai meragukan 'Apakah ide ini benar-benar bagus?', otak langsung keh
   </p>
 </div>
 
+---
+
+## 3. Waspadai Sensor Sempurna (Perfecksionis) dan Penundaan Saat Menangkap Ide
+
+Saat Anda mulai meragukan 'Apakah ide ini benar-benar bagus?', otak langsung kehilangan inspirasi tersebut. Pada fase awal penangkapan, tuangkan 100% ide mentah ke kertas tanpa menilai.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika catatan cepat yang dibuat saat berjalan tidak teratur dan sulit dipahami kemudian?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Saat Anda mulai meragukan 'Apakah ide ini benar-benar bagus?', otak langsung keh
       Sangat penting untuk mengulas dan menyempurnakan catatan dalam waktu 1 hingga 2 jam setelah mencatat. Meminimalkan jeda waktu menjaga sisa ingatan sensorik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ada tips jika merekam memo suara di tempat umum terasa canggung karena dilihat orang?</span>

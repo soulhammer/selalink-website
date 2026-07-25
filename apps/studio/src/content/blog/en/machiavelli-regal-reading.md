@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Conversation with the Sages: Machiavelli's Regal Reading Routine"
 description: "Niccolò Machiavelli, the statesman who changed into court robes every evening to read history books even in exile. This content covers the scientific principles of enclothed cognition, showing how formal attire triggers brain arousal and shifts mindset."
 pubDate: "2026-04-01"
@@ -38,14 +39,14 @@ In today's post, we interpret the cognitive benefits of Machiavelli's sartorial 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding machiavelli-regal-reading is based on <strong>Historical evidence from Niccolò Machiavelli's correspondence 『Letters of Machiavelli』 & Research in Cognitive Neuroscience and Cognitive Psychology</strong>.
+      This content is based on <strong>Historical evidence from Niccolò Machiavelli's correspondence 『Letters of Machiavelli』 & Research in Cognitive Neuroscience and Cognitive Psychology</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Enclothed Cognition Effect and Activation of the Executive Control Network
+## 1. The Enclothed Cognition Effect and Activation of the Executive Control Network
 
 Human cognitive systems experience the phenomenon of <strong>Enclothed Cognition</strong>, where mental processes are strongly tuned to the symbolic meaning of attire worn.
 
@@ -55,9 +56,7 @@ Subtle tactile stimuli from neat clothing suppress mind-wandering in the <strong
 
 ---
 
-## Guidelines for Blocking Relaxation Signals of Loungewear and Transitioning to Neat Attire for Immersion
-
-The essence is not simply wearing expensive or stiff clothing, but enabling the brain to recognize a distinct role identity of 'focus and work mode' through attire. Overly tight suits that cause bodily discomfort drain cognitive resources; thus, setting a level of neat casual attire that clearly differentiates from loungewear while allowing comfortable focus is most ideal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ The essence is not simply wearing expensive or stiff clothing, but enabling the 
   </p>
 </div>
 
+---
+
+## 3. Guidelines for Blocking Relaxation Signals of Loungewear and Transitioning to Neat Attire for Immersion
+
+The essence is not simply wearing expensive or stiff clothing, but enabling the brain to recognize a distinct role identity of 'focus and work mode' through attire. Overly tight suits that cause bodily discomfort drain cognitive resources; thus, setting a level of neat casual attire that clearly differentiates from loungewear while allowing comfortable focus is most ideal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does wearing outdoor clothes instead of pajamas really work when working from home or studying?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ The essence is not simply wearing expensive or stiff clothing, but enabling the 
       Yes, research on Enclothed Cognition in cognitive psychology strongly proves this. Simply changing from pajamas or loungewear into neat clothing like slacks or a shirt signals the brain to shift its symbolic mode from a 'rest context' to a 'work context,' reducing procrastination and dramatically shortening the initial warm-up time for deep focus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>When it is difficult to change into full suits or outdoor clothing, can a single item like glasses or a watch still be effective?</span>

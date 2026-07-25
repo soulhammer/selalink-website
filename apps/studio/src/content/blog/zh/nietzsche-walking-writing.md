@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "弗里德里希·尼采的散步写作习惯：让每一步打开大脑的创造力"
 description: "探讨德国伟大哲学家弗里德里希·尼采每天在瑞士山路漫步长达8小时并在笔记本上记录宏大思想的历史事实，以及身体运动促进DMN（默认模式网络）与发散性思维的脑科学原理。"
 pubDate: "2026-04-27"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 nietzsche-walking-writing 的内容基于 <strong>弗里德里希·尼采历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>弗里德里希·尼采历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 为什么步行节奏能促进默认模式网络（DMN）与发散性思维
+## 1. 为什么步行节奏能促进默认模式网络（DMN）与发散性思维
 
 以恒定的节奏步行会适度提高心率，使大脑血流量与供氧量达到极大化。步行动作能释放工作记忆的过载，并激活默认模式网络（DMN），将大脑切换至能自由重组异质概念的发散性思维模式。
 
 ---
 
-## 尼采式散步写作习惯的注意事项与技巧
-
-散步期间切勿查看手机或电子设备。口袋里只带一册微型笔记本和笔，彻底断绝外部数字刺激，才能让潜意识创造力顺畅运转。不要单纯依赖意志力，而应预先设计好能自然触发行为的物理环境与习惯信号。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 尼采式散步写作习惯的注意事项与技巧
+
+散步期间切勿查看手机或电子设备。口袋里只带一册微型笔记本和笔，彻底断绝外部数字刺激，才能让潜意识创造力顺畅运转。不要单纯依赖意志力，而应预先设计好能自然触发行为的物理环境与习惯信号。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>尼采具体在一天中的什么时间散步？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       尼采主要在早餐后至午餐前的时间段以及傍晚进行漫步。他格外偏好山路与林间小径，以便在自然怀抱中汲取哲学灵感。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在日常生活中实践时，必须要在户外散步吗？</span>

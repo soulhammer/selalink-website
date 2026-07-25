@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le romancier qui interdisait l'accès à sa famille pendant 4 heures chaque matin ? La méthode de concentration par contrôle environnemental de Thomas Mann"
 description: "Le prix Nobel de littérature allemand Thomas Mann écrivait chaque matin de 9h00 à 13h00 en isolement total de toute stimulation extérieure. Découvrez les principes de contrôle environnemental prévenant l'épuisement cognitif préfrontal et les protocoles modernes d'immersion sans distraction."
 pubDate: "2026-01-24"
@@ -33,17 +34,17 @@ Dans cet article, nous analysons les principes neuroscientifiques sous-jacents a
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant mann-strict-schedule est basée sur <strong>Biographies historiques, récits autobiographiques de Thomas Mann et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques, récits autobiographiques de Thomas Mann et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Contrôle environnemental et prévention de la fatigue cognitive corticale
+## 1. Contrôle environnemental et prévention de la fatigue cognitive corticale
 
 L'énergie cognitive du cortex préfrontal —qui orchestre la volonté et la résolution de problèmes complexes— est maximale le matin, mais sa capacité est strictly limitée. Les distractions mineures telles que les notifications ou bavardages épuisent cette énergie à grande vitesse.
 
@@ -51,9 +52,7 @@ En raison du phénomène de <strong>'Résidu d'attention (Attention Residue)'</s
 
 ---
 
-## Le piège du travail superficiel (Shallow Work)
-
-Vérifier ses e-mails, répondre instantanément aux messages ou naviguer sur le Web procurent au cerveau une fausse sensation de productivité sans apporter de réel progrès cognitif : c'est le 'Travail superficiel (Shallow Work)'. À l'instar de Thomas Mann, bloquez des heures de concentration, bannissez les tâches superficielles pendant ce créneau et placez votre cerveau en état de 'Travail profond (Deep Work)'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Vérifier ses e-mails, répondre instantanément aux messages ou naviguer sur le
   </p>
 </div>
 
+---
+
+## 3. Le piège du travail superficiel (Shallow Work)
+
+Vérifier ses e-mails, répondre instantanément aux messages ou naviguer sur le Web procurent au cerveau une fausse sensation de productivité sans apporter de réel progrès cognitif : c'est le 'Travail superficiel (Shallow Work)'. À l'instar de Thomas Mann, bloquez des heures de concentration, bannissez les tâches superficielles pendant ce créneau et placez votre cerveau en état de 'Travail profond (Deep Work)'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Thomas Mann s'arrêtait-il vraiment d'écrire complètement à 13h00 ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Vérifier ses e-mails, répondre instantanément aux messages ou naviguer sur le
       Oui, comme il donnait 100 % de son énergie mentale le matin, il savait que sa capacité cognitive était épuisée après 13h00. Estimant qu'écrire l'après-midi dégradait la qualité, il réservait ses après-midis à des tâches plus légères comme la lecture, la promenade ou l'édition.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Peut-on effectuer des sessions de Travail profond le soir plutôt que le matin ?</span>

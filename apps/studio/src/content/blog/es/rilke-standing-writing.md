@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El cerebro se despierta al ponerse de pie: El secreto de inmersión en el escritorio de pie de Rilke"
 description: "Descubra el hábito de despertar cerebral físico del poeta austriaco Rainer Maria Rilke, quien escribía de pie. Un método de 3 pasos de pie para aumentar el flujo sanguíneo cerebral y la concentración."
 pubDate: "2026-04-06"
@@ -36,22 +37,20 @@ En la publicación de hoy, examinamos los mecanismos científicos detrás de la 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre rilke-standing-writing se basa en <strong>Investigación biográfica e histórica sobre la escritura de pie de Rilke y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica sobre la escritura de pie de Rilke y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El 'efecto de pie' que eleva el flujo sanguíneo cerebral y la alerta cognitiva
+## 1. El 'efecto de pie' que eleva el flujo sanguíneo cerebral y la alerta cognitiva
 
 Una postura sentada encorvada dificulta la expansión pulmonar, produciendo una respiración superficial que reduce el oxígeno hacia el cerebro. En cambio, permanecer de pie con un escritorio regulable obliga a los grandes músculos de las piernas, la pelvis y la espalda a contraerse contra la gravedad, aumentando levemente el ritmo cardíaco. Neurocientíficamente, esto incrementa el Flujo Sanguíneo Cerebral (FSC) en un 10–15%, dinamizando el suministro de oxígeno y glucosa. La microtensión corporal estimula el sistema reticular activador del tronco encefálico, liberando norepinefrina y dopamina para agudizar el control de atención y la memoria de trabajo.
 
 ---
 
-## Protección articular y ritmo de intervalos
-
-Trabajar en una posición de pie fija durante períodos prolongados puede causar várices o someter las articulaciones de la rodilla y la espalda a una carga excesiva, aumentando el cansancio. El hábito de concentración de pie debe seguir una 'regla de intervalo Cíclico'. Tras 30–40 minutos de enfoque de pie, baje la altura y siéntese durante 20 minutos, o cambie el centro de gravedad entre los pies para preservar la salud articular y la alerta cognitiva.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Trabajar en una posición de pie fija durante períodos prolongados puede causar
     Cuando suene la alarma a los 30 minutos, baje el escritorio o siéntese durante 20 minutos realizando tareas ligeras para proteger las articulaciones y aliviar la fatiga.
   </p>
 </div>
+
+---
+
+## 3. Protección articular y ritmo de intervalos
+
+Trabajar en una posición de pie fija durante períodos prolongados puede causar várices o someter las articulaciones de la rodilla y la espalda a una carga excesiva, aumentando el cansancio. El hábito de concentración de pie debe seguir una 'regla de intervalo Cíclico'. Tras 30–40 minutos de enfoque de pie, baje la altura y siéntese durante 20 minutos, o cambie el centro de gravedad entre los pies para preservar la salud articular y la alerta cognitiva.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Power of Absolute Isolation: Gustav Mahler's Composition Hut Routine"
 description: "Gustav Mahler, the composer who isolated himself in an Alpine forest hut every summer to create monumental symphonies. Explores the spatial psychology of immersion that blocks external stimuli to enter a state of 'Deep Work'."
 pubDate: "2026-01-19"
@@ -38,22 +39,20 @@ This post explores how Mahler's composition hut routine controls prefrontal cogn
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding mahler-composition-hut is based on <strong>Historical record research on Gustav Mahler's Composition Hut & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical record research on Gustav Mahler's Composition Hut & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Maximizing Prefrontal Cortex Capacity by Blocking Unnecessary Stimuli
+## 1. Maximizing Prefrontal Cortex Capacity by Blocking Unnecessary Stimuli
 
 Modern workers suffer from extreme information overload, such as digital notifications, noise, and conversations. Our prefrontal cortex consumes vast amounts of cognitive energy to inhibit and filter out these unnecessary stimuli. The physical isolation established by Mahler fundamentally eliminates this 'inhibitory cognitive load'. The tranquil natural environment stabilizes the brain's dopamine system, reducing stress and allowing 100% of working memory resources to focus on complex architecture and artistic intuition.
 
 ---
 
-## Cautions and Tips
-
-A potential side effect of complete isolation is social loneliness and cognitive stagnation. Prolonged isolation without communication narrows one's perspective and may induce low mood. Therefore, limit isolated immersion sessions to a maximum of 3–4 hours per day for high-intensity 'Deep Work', and ensure emotional integration by reconnecting with social relationships and conversations after work.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ A potential side effect of complete isolation is social loneliness and cognitive
     Immediately after isolated focus sessions, take a light walk or rest to allow the brain to switch to the Default Mode Network (DMN), helping ideas naturally reorganize.
   </p>
 </div>
+
+---
+
+## 3. Cautions and Tips
+
+A potential side effect of complete isolation is social loneliness and cognitive stagnation. Prolonged isolation without communication narrows one's perspective and may induce low mood. Therefore, limit isolated immersion sessions to a maximum of 3–4 hours per day for high-intensity 'Deep Work', and ensure emotional integration by reconnecting with social relationships and conversations after work.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

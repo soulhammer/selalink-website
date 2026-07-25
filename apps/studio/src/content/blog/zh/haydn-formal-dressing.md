@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在家也穿戴正装创作音乐？：交响乐之父海顿的“着装认知”习惯与专注开关"
 description: "探索作曲家约瑟夫·海顿为何在创作前必先穿戴整齐正装与粉髻假发。揭示服装如何通过“着装认知（Enclothed Cognition）”与具身认知科学大幅提升专注力与生产力。"
 pubDate: "2026-04-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 haydn-formal-dressing 的内容基于 <strong>约瑟夫·海顿传记（Dies & Griesinger）与埃斯特哈齐（Esterházy）宫廷档案考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>约瑟夫·海顿传记（Dies & Griesinger）与埃斯特哈齐（Esterházy）宫廷档案考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 具身认知与“着装认知（Enclothed Cognition）”的神经科学原理
+## 1. 具身认知与“着装认知（Enclothed Cognition）”的神经科学原理
 
 根据认知心理学中的<strong>具身认知（Embodied Cognition）</strong>理论，人类的高阶抽象思维与前额叶执行功能，与包括所穿服装在内的躯体物理状态保持着高度紧密的绑定。当穿上象征特定角色或规制严整的服装时，个体的选择性注意力将大幅升华，工作失误率显著降低——这一现象被哈佛与西北大学研究者定义为<strong>“着装认知（Enclothed Cognition）”</strong>效应。海顿通过穿戴整齐正装，向大脑前额叶皮层发送了清晰的认知锚定信号：“此刻乃是施展极高创造力与深度沉浸的时分”，从而无缝完成了由松弛休息模式向高能执行模式的完美切换。
 
 ---
 
-## 注意事项：借助“着装认知”严格割裂休息模式与高能专注模式指南
-
-对于海顿而言，穿戴正装既是对艺术创作的崇高敬畏，更是一套将大脑拉入深度沉浸的精密认知开关。在居家办公或自主学习时，若身着睡衣或宽松松散的居家服展开工作，大脑会误判身处“休息状态”，导致前额叶皮层的觉醒兴奋度剧烈下滑。当即换上干练正整的工装以唤醒大脑执行模式，乃是本习惯的绝对关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：借助“着装认知”严格割裂休息模式与高能专注模式指南
+
+对于海顿而言，穿戴正装既是对艺术创作的崇高敬畏，更是一套将大脑拉入深度沉浸的精密认知开关。在居家办公或自主学习时，若身着睡衣或宽松松散的居家服展开工作，大脑会误判身处“休息状态”，导致前额叶皮层的觉醒兴奋度剧烈下滑。当即换上干练正整的工装以唤醒大脑执行模式，乃是本习惯的绝对关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>海顿在独自居家创作时，真的也始终身着正装吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       确凿无疑。据传记作家迪斯记录，海顿在未穿戴整齐正装、粉髻假发与王室戒指前，绝不向键盘或配器总谱走近一步。他坚信散漫衣着必招致涣散构思，借整洁装束将大脑固化于精密专注状态。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>居家办公时必须穿着如正装般紧绷束缚的服装吗？舒适干练的外出服同样有效吗？</span>

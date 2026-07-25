@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Genie, das jeden Tag dieselbe Kleidung trug: Steve Jobs' Entscheidungs-Minimalismus und die Schonung kognitiver Ressourcen"
 description: "Erfahren Sie, wie Apple-Mitbegründer Steve Jobs kognitive Energie sparte, indem er täglich ein identisches Outfit aus schwarzem Rollkragenpullover und Jeans trug. Entdecken Sie die Neurowissenschaften von Entscheidungsmüdigkeit und präfrontalen Ressourcen."
 pubDate: "2026-06-25"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die kognitive Psychologie hinter Steve Jobs'
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu jobs-uniform-minimalism basiert auf <strong>Historische Überprüfung aus Walter Isaacsons *Steve Jobs* (2011), Apple-Archiven & Forschung der kognitiven Psychologie und Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Walter Isaacsons *Steve Jobs* (2011), Apple-Archiven & Forschung der kognitiven Psychologie und Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Beseitigung von Entscheidungsmüdigkeit und Schonung präfrontaler Ressourcen
+## 1. Beseitigung von Entscheidungsmüdigkeit und Schonung präfrontaler Ressourcen
 
 Die Kapazität des präfrontalen Kortex ist täglich begrenzt. Das Verbrauchen kognitiver Ressourcen am Morgen durch die Kleiderwahl führt zu <strong>Entscheidungsmüdigkeit (Decision Fatigue)</strong>. Steve Jobs' Gewohnheit, eine feste Outfit-Kombination zu tragen, eliminierte unbewusste Mikro-Entscheidungen. Dadurch hielt er die geistige Kapazität im <strong>präfrontalen Kortex</strong> für wichtige Produkt- und Unternehmensentscheidungen frei.
 
 ---
 
-## Vorsichtsmaßnahme: Alltagswahlen in Konstanten umwandeln, um Energie zu sparen
-
-Der Kern des kleidungsbezogenen Minimalismus ist nicht optische Einfalt, sondern das Ausschalten unwichtiger Entscheidungen. Wer wiederkehrende Wahlen (Frühstück, Outfit, Arbeitsweg) vorab als Konstanten festlegt, schont das Stirnhirn und steigert die Leistungsfähigkeit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Der Kern des kleidungsbezogenen Minimalismus ist nicht optische Einfalt, sondern
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Alltagswahlen in Konstanten umwandeln, um Energie zu sparen
+
+Der Kern des kleidungsbezogenen Minimalismus ist nicht optische Einfalt, sondern das Ausschalten unwichtiger Entscheidungen. Wer wiederkehrende Wahlen (Frühstück, Outfit, Arbeitsweg) vorab als Konstanten festlegt, schont das Stirnhirn und steigert die Leistungsfähigkeit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Warum bestand Steve Jobs darauf, jeden Tag genau dasselbe Outfit zu tragen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Der Kern des kleidungsbezogenen Minimalismus ist nicht optische Einfalt, sondern
       Jobs strich die morgendliche Kleiderwahl, um Entscheidungsmüdigkeit zu vermeiden und kognitive Ressourcen zu schonen. So konnte er 100 % seiner Energie auf Unternehmensführung und Innovationen richten.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Welche praktischen Alternativen gibt es, wenn ein komplett identisches Outfit unpassend erscheint?</span>

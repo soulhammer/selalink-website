@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "寝ている間に脳が企画案を解き明かす：ジョーン・ディディオンの原稿同寝睡眠法とREM睡眠プライミング"
 description: "米国の伝説的な作家ジョーン・ディディオン。解けない原稿を抱えて寝室に入り共に眠った睡眠ルーティン。認知的プライミング（Cognitive Priming）とREM睡眠中の記憶再統合の認知神経科学的原理を解き明かします。"
 pubDate: "2026-06-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「didion-manuscript-sleeping」は <strong>トレイシー・ドーハーティ伝記『The Last Love Song』および『The Paris Review』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>トレイシー・ドーハーティ伝記『The Last Love Song』および『The Paris Review』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## REM睡眠の非関連記憶再統合と就寝前の認知的プライミング（Cognitive Priming）
+## 1. REM睡眠の非関連記憶再統合と就寝前の認知的プライミング（Cognitive Priming）
 
 起きている間、前頭前野は統制的・論理的な加工モードを維持し、既存の図式（Schema）内の安全な結合のみを試みます。一方、就寝直前に解決しようとする課題や原稿を静かに脳に入力する行動は、脳科学で「認知的プライミング（Cognitive Priming）」効果を引き起こします。睡眠に入りレム（REM）睡眠段階に到達すると、感情および記憶を担当する扁桃体と海馬が活性化し、前頭前野の強い制御網が完全解除されます。この時、脳は認知的プライミングで優先順位が指定された難題と、昼の間に収集された断片的な知識の欠片を無作為に交差結合（Unconstrained Associative Re-Consolidation）してみます。この睡眠中の無意識的な演算プロセスが、朝の起床時に思いがけない明快な洞察と問題解決策をプレゼントすることになります。
 
 ---
 
-## 注意事項＆ヒント：ブルーライト刺激の遮断とアナログ紙のプライミング
-
-就寝前にスマートフォンやタブレットの画面のブルーライトを浴びながら文書を検討すると、脳の視床下部が昼だと勘違いして睡眠ホルモンであるメラトニン（Melatonin）分泌を抑制し、レム睡眠および徐波睡眠の構造を深刻に破壊します。プライミングトレーニングを進める時は、必ず紙に印刷されたアナログ文書や手帳を5分間軽く見渡し、目を閉じた後心の中で課題を連想しながら睡眠に入ってこそ、レム睡眠統合効果が完全に作動します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：ブルーライト刺激の遮断とアナログ紙のプライミング
+
+就寝前にスマートフォンやタブレットの画面のブルーライトを浴びながら文書を検討すると、脳の視床下部が昼だと勘違いして睡眠ホルモンであるメラトニン（Melatonin）分泌を抑制し、レム睡眠および徐波睡眠の構造を深刻に破壊します。プライミングトレーニングを進める時は、必ず紙に印刷されたアナログ文書や手帳を5分間軽く見渡し、目を閉じた後心の中で課題を連想しながら睡眠に入ってこそ、レム睡眠統合効果が完全に作動します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>寝る前に解けない悩みや企画を考えると不眠症になったり眠れなくなったりしませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       無理に答えを探そうとストレスを受けて心配すると不眠症を引き起こす可能性があります。ポイントは能動的に悩むことではなく、童話を読んでいるかのように紙の文書を無心に眺め、「脳が寝ている間に勝手にアウトソーシング処理してくれるだろう」という気楽で受容的な心構えで意識のスイッチをオフにすることにあります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>朝に目を覚ました時にすぐに奇想天外なアイデアや解決策が浮かばなければ失敗ですか？</span>

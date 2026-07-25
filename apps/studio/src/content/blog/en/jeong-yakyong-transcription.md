@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Engine Behind 500 Volumes in Exile: Dasan Jeong Yak-yong's Selective Transcription, Letter-Writing, and Cognitive Encoding Routine"
 description: "Discover how Joseon's greatest Silhak scholar, Dasan Jeong Yak-yong, authored over 500 volumes during his 18-year exile through 'Choseo' (selective transcription) and letter-writing to his sons. Explore the neuroscience of graphomotor cognitive encoding and metacognitive integration."
 pubDate: "2026-02-01"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Dasan Jeong Yak-yon
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding jeong-yakyong-transcription is based on <strong>Historical Verification from Dasan Jeong Yak-yong's Collected Works *Yeoyudang Jeonseo*, Autobiography *Saam Yeonbo* & Cognitive Neuroscience and Metacognition Research</strong>.
+      This content is based on <strong>Historical Verification from Dasan Jeong Yak-yong's Collected Works *Yeoyudang Jeonseo*, Autobiography *Saam Yeonbo* & Cognitive Neuroscience and Metacognition Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Encoding via Hand-Brain Synchronization and Metacognition
+## 1. Cognitive Encoding via Hand-Brain Synchronization and Metacognition
 
 Passively reading text engages fundamentally different neural networks than physically transcribing and summarizing passages with a pen. Fine graphomotor movement co-stimulates the <strong>Somatosensory Cortex</strong>, transmitting robust tactile inputs to the <strong>Prefrontal Cortex</strong> and <strong>Association Cortex</strong> to drive deep <strong>Cognitive Encoding</strong>. Furthermore, restructuring personal knowledge to teach others via letters leverages the 'Protegé Effect', dramatically sharpening <strong>Metacognition</strong> and anchoring complex information into durable, highly structured long-term memory networks.
 
 ---
 
-## Caution: Focusing on Active Summarization and Commentary Over Mindless Transcribing
-
-The most common trap in note-taking is mindlessly copying raw text like a human typewriter. Verbatim transcription without active prefrontal processing fails to induce cognitive encoding. True knowledge builds only when you digest the material, distill key summaries through your own cognitive filters, and append at least one line of personal insight.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The most common trap in note-taking is mindlessly copying raw text like a human 
   </p>
 </div>
 
+---
+
+## 3. Caution: Focusing on Active Summarization and Commentary Over Mindless Transcribing
+
+The most common trap in note-taking is mindlessly copying raw text like a human typewriter. Verbatim transcription without active prefrontal processing fails to induce cognitive encoding. True knowledge builds only when you digest the material, distill key summaries through your own cognitive filters, and append at least one line of personal insight.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does typing notes on a digital keyboard yield identical cognitive encoding benefits as handwriting?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The most common trap in note-taking is mindlessly copying raw text like a human 
       No. Handwriting with a pen on paper intensely stimulates the somatosensory cortex, dramatically boosting cognitive encoding efficiency. While typing is faster, pressing identical plastic keys provides uniform tactile feedback, offering minimal neural stimulation. For deep long-term memory consolidation, manual 'Choseo' handwriting remains far more powerful.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does explaining concepts to others trigger metacognitive benefits even if not formatted as a written letter?</span>

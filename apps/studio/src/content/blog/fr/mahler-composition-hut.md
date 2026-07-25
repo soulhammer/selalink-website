@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le pouvoir de l'isolement absolu : La routine de la cabane de composition de Gustav Mahler"
 description: "Gustav Mahler, le compositeur qui s'isolait chaque été dans une cabane alpine pour créer des symphonies monumentales. Explore la psychologie spatiale de l'immersion qui bloque les stimulations externes pour entrer dans un état de 'Deep Work'."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Cet article explique comment la routine de Mahler prévient la fatigue cognitive
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant mahler-composition-hut est basée sur <strong>Recherche historique sur la cabane de composition de Gustav Mahler et études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche historique sur la cabane de composition de Gustav Mahler et études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Maximisation de la capacité du cortex préfrontal en bloquant les stimuli inutiles
+## 1. Maximisation de la capacité du cortex préfrontal en bloquant les stimuli inutiles
 
 Les travailleurs modernes souffrent d'une surcharge d'informations due aux notifications, au bruit et aux interruptions. Le cortex préfrontal consomme une énergie cognitive considérable pour filtrer ces stimuli. L'isolement physique créé par Mahler élimine cette 'charge cognitive inhibitrice'. L'environnement naturel apaise le système dopaminergique, réduit le stress et permet de consacrer 100 % de la mémoire de travail à la conception complexe et à l'intuition artistique.
 
 ---
 
-## Précautions et conseils
-
-L'isolement absolu peut entraîner un sentiment de solitude et une stagnation cognitive. Un isolement trop prolongé rétrécit la perspective et peut susciter la mélancolie. Limitez vos sessions d'isolement à un maximum de 3 à 4 heures par jour pour le 'Deep Work', puis préservez votre équilibre émotionnel en réintégrant vos interactions sociales.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ L'isolement absolu peut entraîner un sentiment de solitude et une stagnation co
     Après la session d'immersion, faites una promenade légère ou reposez-vous pour activer le réseau par défaut (DMN) et laisser vos idées se réorganiser naturellement.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+L'isolement absolu peut entraîner un sentiment de solitude et une stagnation cognitive. Un isolement trop prolongé rétrécit la perspective et peut susciter la mélancolie. Limitez vos sessions d'isolement à un maximum de 3 à 4 heures par jour pour le 'Deep Work', puis préservez votre équilibre émotionnel en réintégrant vos interactions sociales.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Antonie van Leeuwenhoek's Spherical Lens Grinding Routine: Penetrating the Essence via Relentless Micro-Patience, Micro-Observation, and Cerebellar Relaxation"
 description: "Discover how Antonie van Leeuwenhoek, the Father of Microbiology, hand-ground 500x spherical single-glass lenses to discover bacteria and micro-organisms. Explore the neuroscience of tactile-visual immersion, cerebellar relaxation, alpha-wave flow, and a 3-step action guide."
 pubDate: "2026-04-25"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Antonie van Leeuwen
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding leeuwenhoek-lens-grinding is based on <strong>Historical Verification from Antonie van Leeuwenhoek's Biographies, Royal Society of London Correspondence Archives & Cognitive Neuroscience and Motor Control Science Research</strong>.
+      This content is based on <strong>Historical Verification from Antonie van Leeuwenhoek's Biographies, Royal Society of London Correspondence Archives & Cognitive Neuroscience and Motor Control Science Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cerebellum & Basal Ganglia Relaxation and Alpha Wave Flow Activation
+## 1. Cerebellum & Basal Ganglia Relaxation and Alpha Wave Flow Activation
 
 Neuroscientific studies demonstrate that pairing delicate, steady hand motor control with intense visual micro-focus transitions dominant brainwave frequency from stressful Beta waves into relaxed <strong>Alpha Waves</strong> and <strong>Theta Waves</strong>. This process soothes hyper-arousal inside the <strong>Cerebellum</strong> and <strong>Basal Ganglia</strong>—the subcortical nodes managing inhibitory motor precision. Concurrently, it silences uncertainty noise in the <strong>Prefrontal Cortex</strong>, immersing the brain into an uninterrupted state of deep <strong>Flow</strong>.
 
 ---
 
-## Caution: Eliminating Outcome Impatience to Cultivate Micro-Patience and Process Immersion
-
-Refrain from demanding instantaneous breakthroughs or immediate gratification. Foundational insights and monumental discoveries reveal themselves naturally through persistent <strong>Micro-Patience</strong> and iterative observation. Rather than leaning purely on volatile willpower, pre-engineer an analog environment that locks hand-eye focus for 20 uninterrupted minutes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Refrain from demanding instantaneous breakthroughs or immediate gratification. F
   </p>
 </div>
 
+---
+
+## 3. Caution: Eliminating Outcome Impatience to Cultivate Micro-Patience and Process Immersion
+
+Refrain from demanding instantaneous breakthroughs or immediate gratification. Foundational insights and monumental discoveries reveal themselves naturally through persistent <strong>Micro-Patience</strong> and iterative observation. Rather than leaning purely on volatile willpower, pre-engineer an analog environment that locks hand-eye focus for 20 uninterrupted minutes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is this routine effective for individuals experiencing high anxiety or frequent attentional drift?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Refrain from demanding instantaneous breakthroughs or immediate gratification. F
       Yes, exceptionally effective! Synchronizing delicate fingertip motor control with precision visual focus physically calms hyper-arousal in the amygdala and stress networks, suppressing anxiety and restoring baseline neurological composure.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How often and when during the day should I practice this micro-immersion routine?</span>

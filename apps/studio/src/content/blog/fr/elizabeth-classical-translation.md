@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La « Traduction Classique » d'Élisabeth Ire : La routine matinale qui a forgé le cerveau logique d'une souveraine"
 description: "La reine Élisabeth Ire cultivait une rationalité et une logique redoutables en traduisant chaque matin des classiques latins en anglais. Explorez la neuroscience cognitive de la traduction."
 pubDate: "2026-01-09"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la «
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant elizabeth-classical-translation est basée sur <strong>Vérification Historique issue de l'ouvrage *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), des biographies historiques & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'ouvrage *Elizabeth I: Translations* (Janel Mueller & Joshua Scodel), des biographies historiques & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Effets neurologiques de la traduction manuelle sur le cortex préfrontal dorsolatéral
+## 1. Effets neurologiques de la traduction manuelle sur le cortex préfrontal dorsolatéral
 
 La traduction sollicite non seulement le traitement visuel du langage, mais active intensément le cortex préfrontal dorsolatéral (dlPFC), qui régit le contrôle cognitif et la bascule de règles logiques. Contrairement à la lecture passive, déconstruire les structures sémantiques d'une langue pour les synthétiser dans une autre constitue un entraînement de haute intensité pour la fonction exécutive — comparablement à un processeur tournant à 100 %. Ce processus améliore le raisonnement analytique et la détection d'erreurs. La routine de traduction d'Élisabeth Ire agissait comme un antidote cognitif filtrant le bruit émotionnel.
 
 ---
 
-## Mise en garde : La traduction automatique n'apporte aucun bénéfice cognitif
-
-Obtenir un résultat instantané via des traducteurs IA ne stimule pas les circuits neuronaux préfrontaux. La croissance cognitive survient exclusivement lors de l'effort manuel : chercher dans un dictionnaire, déchiffrer les racines et reconstruire manuellement les phrases.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Obtenir un résultat instantané via des traducteurs IA ne stimule pas les circu
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : La traduction automatique n'apporte aucun bénéfice cognitif
+
+Obtenir un résultat instantané via des traducteurs IA ne stimule pas les circuits neuronaux préfrontaux. La croissance cognitive survient exclusivement lors de l'effort manuel : chercher dans un dictionnaire, déchiffrer les racines et reconstruire manuellement les phrases.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il inefficace de vérifier instantanément les résultats avec des traducteurs IA ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Obtenir un résultat instantané via des traducteurs IA ne stimule pas les circu
       Oui, tout à fait. Obtenir des réponses instantanées ne sollicite pas les réseaux cognitifs. Les connexions synaptiques du cortex préfrontal se renforcent uniquement par la « friction cognitive » : l'effort manuel d'assembler la grammaire soi-même.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Cette technique ne fonctionne-t-elle qu'avec des langues classiques comme le latin et le grec ?</span>

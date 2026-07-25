@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ルイ・ダゲールの銀板露出法：刹那の瞬間を永遠に固定し最高のインスピレーションを保存する方法"
 description: "19世紀フランスの発明家ルイ・ダゲールが銀板化学反応露出法で人類初の実用写真を発明した歴史的事実と瞬間視覚固定の脳科学的原理を解き明かします。"
 pubDate: "2026-01-31"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「daguerre-silver-plate」は <strong>ルイ・ダゲール『Historique et description des procédés du Daguerréotype（ダゲレオタイプに関する歴史と技術）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ルイ・ダゲール『Historique et description des procédés du Daguerréotype（ダゲレオタイプに関する歴史と技術）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 瞬間視覚固定が刹那のアイデアを長期記憶に刻み込ませる原理
+## 1. 瞬間視覚固定が刹那のアイデアを長期記憶に刻み込ませる原理
 
 神経心理学および認知神経科学の研究によると、刹那のインスピレーションを脳内のフレームの上に載せ、3秒間集中露出（Expose）させる視覚固定習慣は、後頭葉の視覚皮質（Visual Cortex）と海馬（Hippocampus）に強力な視覚的アンカー（Anchor）を形成します。この過程は作業記憶内の曖昧なアイデアを可視的な神経回路網へと固定し、認知的揮発性（Volatilization）を防ぎ、時間が経った後も原型そのままの生き生きとしたアイデアを再構成させます。
 
 ---
 
-## 注意事項＆ヒント：即時的露出タイミングと先延ばし習慣の遮断
-
-湧き上がったインスピレーションを「後で書こう」と先延ばしにしないでください。刹那のインスピレーションはわずか数秒で神経回路から急速に揮発するため、アイデアが浮かんだまさに knowledge その瞬間、脳内のフレームにスナップ写真のように止めて3秒間鮮明に露出（Fixation）させた後、直ちにメモや手書きへとつなげる自制心がポイントです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：即時的露出タイミングと先延ばし習慣の遮断
+
+湧き上がったインスピレーションを「後で書こう」と先延ばしにしないでください。刹那のインスピレーションはわずか数秒で神経回路から急速に揮発するため、アイデアが浮かんだまさに knowledge その瞬間、脳内のフレームにスナップ写真のように止めて3秒間鮮明に露出（Fixation）させた後、直ちにメモや手書きへとつなげる自制心がポイントです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>一般的なメモ作成とダゲールの3秒視覚露出固定法は何が違いますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       一般的なメモは単語や文字だけを受動的に収集しますが、ダゲール方式は3秒間脳内でイメージを強く感光（露出）させた後記録します。この過程を経ると、後で短いメモを見るだけでも後頭葉に感光されていたインスピレーション当時の生き生きとした感覚と立体的な文脈が100％蘇ります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>歩行中や移動中で即座に文章やスケッチを残せない時はどうしますか？</span>

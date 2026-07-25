@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "揺るぎない観測塔：コペルニクスの場所固定集中法と空間条件づけ"
 description: "地動説で宇宙のパラダイムを変えたコペルニクスが固定された観測塔を貫いたルーティン。特定の空間を一つの業務にのみ専従させる時、脳のウォームアップ時間が短縮され文脈メカニズムが稼働する認知神経科学的原理を解き明かします。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「copernicus-observatory-tower」は <strong>ニコラウス・コペルニクス『De revolutionibus orbium coelestium（天球の回転について）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ニコラウス・コペルニクス『De revolutionibus orbium coelestium（天球の回転について）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業空間の固定が脳のウォームアップ時間を減らす原理：文脈依存記憶と空間条件づけ
+## 1. 作業空間の固定が脳のウォームアップ時間を減らす原理：文脈依存記憶と空間条件づけ
 
 脳の情報処理効率性を阻害する最大の原因は「文脈切替コスト（Context Switching Cost）」です。毎回作業を異なる空間で行うと、脳は新しくなった環境信号を探索し受容するために前頭前野のリソースを消費し、不要な認知ウォームアップ時間を浪費します。しかし、ただ特定の知的課業のためだけの専用空間を指定し脇道に逸れる要素を完全に隔離すると、大脳海馬（Hippocampus）と前頭前野の「文脈依存記憶（Context-dependent Memory）」ネットワークが完璧に結合します。指定された席に座り特定の環境ヒント（Light/Setup）に接した瞬間、脳はウォームアップ過程なしに関連領域の神経回路を該当作業モードへとギアチェンジさせ、1秒でディープワークモードを稼働させます。
 
 ---
 
-## 注意事項＆ヒント：環境的ヒント（Environmental Cues）の汚染防止と単一行動バインディング
-
-固定空間ルーティンを構築する際、最も避けなければならないのは、指定された作業空間でスマートフォンのYouTube視聴、ゲーム、睡眠など「無駄な行動」を混用して環境的ヒントを汚染させることです。勉強や業務用のデスクで休息や娯楽を楽しむと、場所と認知活性化の間の神経連携（Neural Association）が破壊され、脳がその空間に座っても没頭状態を判断できなくなります。一つの固定場所には必ず「ただ一つの核心的知的行動」のみをバインディングし、休息する時は即座に椅子から立ち上がって別の空間へと移動してこそ、前頭葉のウォームアップ遮断効果が損なわれません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：環境的ヒント（Environmental Cues）の汚染防止と単一行動バインディング
+
+固定空間ルーティンを構築する際、最も避けなければならないのは、指定された作業空間でスマートフォンのYouTube視聴、ゲーム、睡眠など「無駄な行動」を混用して環境的ヒントを汚染させることです。勉強や業務用のデスクで休息や娯楽を楽しむと、場所と認知活性化の間の神経連携（Neural Association）が破壊され、脳がその空間に座っても没頭状態を判断できなくなります。一つの固定場所には必ず「ただ一つの核心的知的行動」のみをバインディングし、休息する時は即座に椅子から立ち上がって別の空間へと移動してこそ、前頭葉のウォームアップ遮断効果が損なわれません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ワンルームや狭い空間で勉強/業務空間を物理的に完璧に隔離するのが難しい場合はどうしますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       物理的な空間隔離が難しい場合は、特定の席に座った時だけ点ける「専用スタンド照明」をセットするか、ただ集中する時だけに広げて敷く「デスクマット」を活用してみてください。視覚的・環境的受容信号を単一化することだけでも、同様の前頭葉空間条件づけ効果を発揮することができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>指定されたデスクに座っても心が散漫で5分以内に作業に入れない時はどのように対処すべきですか？</span>

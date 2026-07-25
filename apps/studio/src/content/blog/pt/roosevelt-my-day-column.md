@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Construir um eu inabalável através da escrita: A rotina de reflexão noturna de Eleanor Roosevelt"
 description: "Eleanor Roosevelt, uma das Primeiras-Damas mais influentes dos EUA. Revela sua rotina de diário noturno de 27 anos que definiu sua identidade e seus benefícios metacognitivos."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ No post de hoje, compartilhamos os benefícios neurocientíficos da rotina de di
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre roosevelt-my-day-column é baseada em <strong>Pesquisa biográfica e autobiográfica histórica sobre Eleanor Roosevelt e estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa biográfica e autobiográfica histórica sobre Eleanor Roosevelt e estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Consolidação da memória e promoção da metacognição cognitiva
+## 1. Consolidação da memória e promoção da metacognição cognitiva
 
 Quando experiências e emoções não são organizadas, sobreestimulam a amígdala, tornando-se memórias estressantes. Estruturar o dia através da escrita ativa o <strong>Hipocampo</strong>, transferindo memórias para o longo prazo. Além disso, traduzir emoções em palavras objetivas estimula o córtex frontal, aumentando a <strong>Metacognição</strong> para observar-se em 3ª pessoa.
 
 ---
 
-## Mantenha uma calma contemplativa em vez de metas idealizadas
-
-Forçar um positivismo tóxico ou registrar planos inalcançáveis cria estresse cognitivo. Como Eleanor, revise com calma os fatos físicos e interações, registrando seu estado interno de forma natural.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Forçar um positivismo tóxico ou registrar planos inalcançáveis cria estresse
   </p>
 </div>
 
+---
+
+## 3. Mantenha uma calma contemplativa em vez de metas idealizadas
+
+Forçar um positivismo tóxico ou registrar planos inalcançáveis cria estresse cognitivo. Como Eleanor, revise com calma os fatos físicos e interações, registrando seu estado interno de forma natural.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que fazer se os conteúdos do meu diário parecerem repetitivos todos os dias?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Forçar um positivismo tóxico ou registrar planos inalcançáveis cria estresse
       Mesmo na rotina, tente capturar uma pequena variação a cada dia — uma pessoa, o sabor da comida ou o aroma do clima. A tentativa de buscar sutilezas exercita a atenção e a metacognição.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É igualmente eficaz usar aplicativos de diário digital ou o Notion?</span>

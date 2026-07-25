@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "月明かりの下で楽譜を書写した巨匠？バッハの頭頂葉刺激書写習慣"
 description: "生涯を通じて先輩作曲家たちの楽譜を書写し、数学的規則を体現化したヨハン・ゼバスティアン・バッハ。指先の操作が脳の論理領域を刺激する科学的原理と、現代的な書写ルーティンをお届けします。"
 pubDate: "2026-06-19"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「bach-pattern-transcription」は <strong>ヨハン・ニコラウス・フォルケル『バッハの生涯と芸術（1802）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ヨハン・ニコラウス・フォルケル『バッハの生涯と芸術（1802）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 指先の微細運動と頭頂葉連合
+## 1. 指先の微細運動と頭頂葉連合
 
 コンピュータのキーボードやモニター画面を叩く現代のデジタル学習は、脳の運動皮質のうち極一部の領域だけを軽く撫でて通り過ぎる低密度な認知活動です。一方、ペンを手に握り、紙の上に複雑なテキストや記号をしっかりと書き込むアナログの書写行為は、精巧な微細筋肉（Fine Motor）の制御を必要とします。
 
@@ -49,11 +50,7 @@ faqs:
 
 ---
 
-## 成功的なルーティンのための脳科学的一言
-
-<strong>手は外部へと突き出た脳です</strong>
-
-モニター画面を見ながら目で読んだり、マウスでドラッグしたりする情報は、脳に非常に浅く流れて消え去ります。脳の論理回路を強化したいなら、たった10分間でもペンを握って書写を行ってみてください。バッハが複雑なフーガのパターンを指先で書き写しながらバロック音楽の完璧な公式を支配したように、あなたの脳もアナログの書写を経る時、難しい知識を完全に所有することになるでしょう。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ faqs:
     書き写しを終えた後、紙に整列されたテキスト構造を上から下へと静かに見渡し、それらの論理関係と配置方式を視覚的に再整理します。この視覚的-論理的マッチングの段階は、前頭葉に確実な構造フレームを確立させます。
   </p>
 </div>
+
+---
+
+## 3. 成功的なルーティンのための脳科学的一言
+
+<strong>手は外部へと突き出た脳です</strong>
+
+モニター画面を見ながら目で読んだり、マウスでドラッグしたりする情報は、脳に非常に浅く流れて消え去ります。脳の論理回路を強化したいなら、たった10分間でもペンを握って書写を行ってみてください。バッハが複雑なフーガのパターンを指先で書き写しながらバロック音楽の完璧な公式を支配したように、あなたの脳もアナログの書写を経る時、難しい知識を完全に所有することになるでしょう。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

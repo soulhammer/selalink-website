@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le génie qui a peint l'univers avec une cuillère : La routine de sieste de réinitialisation cérébrale et de capture de l'hypnagogie de Salvador Dalí"
 description: "Découvrez comment le maître surréaliste Salvador Dalí s'asseyait dans un fauteuil une cuillère à la main pour capturer des idées artistiques au réveil. Explorez la neuroscience cognitive de l'hypnagogie et des ondes thêta."
 pubDate: "2026-03-07"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant dali-spoon-nap est basée sur <strong>Vérification Historique issue de l'autobiographie de Salvador Dalí *La Vie secrète de Salvador Dalí (The Secret Life of Salvador Dalí)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Salvador Dalí *La Vie secrète de Salvador Dalí (The Secret Life of Salvador Dalí)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation des ondes thêta pendant l'hypnagogie et synthèse associative subconsciente
+## 1. Activation des ondes thêta pendant l'hypnagogie et synthèse associative subconsciente
 
 Entrer dans la phase de transition entre éveil et sommeil — l'« Hypnagogie » (NREM Stade 1) — fait basculer les ondes cérébrales vers des Ondes Thêta (4–8 Hz). Durant cette transition, le contrôle exécutif préfrontal se met en veille. La stimulation synaptique permet à des concepts éloignés de fusionner en synthèses créatives. Le mécanisme de la cuillère de Dalí a servi de coupe-circuit, stoppant la descente vers le sommeil profond (NREM Stade 3) pour éviter l'inertie du sommeil tout en saisissant les visions hypnagogiques.
 
 ---
 
-## Précautions & Conseils : Externalisation immédiate en moins de 5 secondes & Élimination des hésitations
-
-Si vous hésitez encore engourdi après le choc sonore, les images hypnagogiques s'effaceront en quelques secondes. L'élément déterminant de cette routine est la rapidité : dès le bruit métallique, ouvrez les yeux et dessinez ou notez les images rémanentes dans un carnet en moins de 5 secondes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Si vous hésitez encore engourdi après le choc sonore, les images hypnagogiques
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Externalisation immédiate en moins de 5 secondes & Élimination des hésitations
+
+Si vous hésitez encore engourdi après le choc sonore, les images hypnagogiques s'effaceront en quelques secondes. L'élément déterminant de cette routine est la rapidité : dès le bruit métallique, ouvrez les yeux et dessinez ou notez les images rémanentes dans un carnet en moins de 5 secondes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Salvador Dalí a-t-il spécifiquement choisi une cuillère en métal pour ses siestes ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Si vous hésitez encore engourdi après le choc sonore, les images hypnagogiques
       Tenir une cuillère convertissait le relâchement musculaire du début du sommeil en un signal sonore qui le réveillait immédiatement. Cela empêchait son cerveau d'entrer dans le sommeil profond (NREM Stade 3) tout en lui permettant de saisir les visions hypnagogiques.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment adapter cette routine dans des environnements calmes comme des bureaux ou des bibliothèques ?</span>

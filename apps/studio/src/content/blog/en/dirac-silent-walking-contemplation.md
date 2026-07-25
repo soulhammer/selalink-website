@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Genius Who Walked in Silence with Fewest Words: Paul Dirac's Silent Walking Routine and Linguistic Noise Removal"
 description: "Explore how quantum mechanics pioneer and Nobel laureate Paul Dirac refined the Dirac Equation through silent Sunday walks. Discover the cognitive neuroscience of suppressing left-hemisphere linguistic noise and activating parietal visuospatial circuits."
 pubDate: "2026-04-25"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Paul Dirac's 'silent wa
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding dirac-silent-walking-contemplation is based on <strong>Historical Verification from Graham Farmelo's Biography *The Strangest Man: The Hidden Life of Paul Dirac* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Graham Farmelo's Biography *The Strangest Man: The Hidden Life of Paul Dirac* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Linguistic Noise Removal and Activation of Parietal Visuospatial Circuits
+## 1. Linguistic Noise Removal and Activation of Parietal Visuospatial Circuits
 
 Continuous verbal dialogue and text processing overwork left-hemisphere language networks (Broca's and Wernicke's areas), consuming prefrontal cognitive bandwidth. Engaging in rhythmic walking while maintaining total silence halts linguistic processing, immediately relieving left-hemisphere strain. Cognitive neuroscience demonstrates that silent aerobic walking activates the parietal lobe's 'Visuospatial Sketchpad' and 3D geometric computation circuits. Silencing verbal chatter allows the brain to reorganize complex theoretical or structural problems into intuitive, highly symmetrical geometric representations.
 
 ---
 
-## Caution & Tips: Complete Exclusion of Audio and Linguistic Media During Walks
-
-Listening to podcasts, audiobooks, spoken news, or phone calls during your walk keeps the brain locked in syntax processing and verbal decoding. This prolongs left-hemisphere strain and prevents transition into deep silent contemplation. For a true Dirac-style routine, grant complete rest to your speech and auditory-language circuits. Accept only non-verbal ambient inputs—like footfalls and wind—to allow parietal visuospatial networks to engage.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Listening to podcasts, audiobooks, spoken news, or phone calls during your walk 
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Complete Exclusion of Audio and Linguistic Media During Walks
+
+Listening to podcasts, audiobooks, spoken news, or phone calls during your walk keeps the brain locked in syntax processing and verbal decoding. This prolongs left-hemisphere strain and prevents transition into deep silent contemplation. For a true Dirac-style routine, grant complete rest to your speech and auditory-language circuits. Accept only non-verbal ambient inputs—like footfalls and wind—to allow parietal visuospatial networks to engage.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does a silent walk yield the same cognitive benefits in a noisy city center?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Listening to podcasts, audiobooks, spoken news, or phone calls during your walk 
       Yes. The defining factor is not absolute environmental quiet, but completely shutting off linguistic inputs (conversation, podcasts, or reading text). Even in a bustling city center, using noise-canceling headphones to reduce environmental clatter while abstaining from language consumption provides identical left-hemisphere relaxation and parietal activation.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Should I stop and record brilliant thoughts immediately while walking?</span>

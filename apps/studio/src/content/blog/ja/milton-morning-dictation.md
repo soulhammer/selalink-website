@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "午前4時、盲目の詩人が『失楽園』を口述した秘訣：ジョン・ミルトンの静かな朝の瞑想"
 description: "失明の中でも大叙事詩を残したジョン・ミルトンの午前4時瞑想ルーティンを紹介します。視覚遮断がいかに作業記憶と言語組立ての脳認知力を極大化するのかご確認ください。"
 pubDate: "2026-04-09"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「milton-morning-dictation」は <strong>ジョン・ミルトンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョン・ミルトンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 静かな集中の認知力：視覚遮断による脳容量の極大化
+## 1. 静かな集中の認知力：視覚遮断による脳容量の極大化
 
 脳科学の研究によると、視覚情報の処理は脳の感覚資源の50%以上を占有します。視覚刺激が完全に遮断されると、脳はこの未使用の神経網を短期記憶の回想および言語組立て領域へと再配置します。暗い夜明け前にベッドに横たわり頭の中で詩句を完成させていたミルトンのルーティンは、前頭葉の作業記憶装置を極大化し、複雑な隠喩や長い文章を記憶の歪みなく固定するのに完璧な環境を提供しました。
 
 ---
 
-## 深い没頭のために朝の外部刺激をコントロールする
-
-ジョン・ミルトンにとって夜明け前の暗闇は限界ではなく、創造のための神聖なキャンバスでした。外部の刺激や雑務を後回しにし、ただ内なる声に集中することで、彼は人類の歴史に残る不朽の大作を執筆することができました。朝目覚めてすぐにメールやSNSを確認する代わりに、あなたの脳が深く思考できる静かな時間をまずプレゼントしてみてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     構想が終わるやいなやペンを取って書き留めるか、音声録音機能で話してテキストに変換します。頭の中のアイデアを物理的媒体に移し、記憶空間を空にします。
   </p>
 </div>
+
+---
+
+## 3. 深い没頭のために朝の外部刺激をコントロールする
+
+ジョン・ミルトンにとって夜明け前の暗闇は限界ではなく、創造のための神聖なキャンバスでした。外部の刺激や雑務を後回しにし、ただ内なる声に集中することで、彼は人類の歴史に残る不朽の大作を執筆することができました。朝目覚めてすぐにメールやSNSを確認する代わりに、あなたの脳が深く思考できる静かな時間をまずプレゼントしてみてください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

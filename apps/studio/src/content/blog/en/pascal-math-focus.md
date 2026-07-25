@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Blaise Pascal's Geometry Immersion: Erasing Pain and Stress from the Brain with High-Difficulty Tasks"
 description: "Explore the historical fact of 17th-century genius Blaise Pascal overcoming severe toothaches and headaches through deep mathematical immersion, and the scientific principle of Attentional Gating."
 pubDate: "2026-06-06"
@@ -38,22 +39,20 @@ One night in 1658, when an excruciating toothache struck again, Pascal got out o
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding pascal-math-focus is based on <strong>Pascal Math Focus Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Pascal Math Focus Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Scientific Reason Why High-Difficulty Cognitive Immersion Offsets Physical and Mental Discomfort
+## 1. The Scientific Reason Why High-Difficulty Cognitive Immersion Offsets Physical and Mental Discomfort
 
 Modern neuroscience explains this through 'Attentional Gating Theory'. When the human prefrontal cortex is 100% engaged in a highly complex cognitive task, the thalamic neural network actively gates (blocks) lower-level pain and stress sensory signals from being perceived.
 
 ---
 
-## Pascal's Immersion Precautions & Neuroscience Tips
-
-When distracting thoughts or stress rush in, do not try to suppress them by force. Immediately switch to a high-difficulty quiz or reading task that utilizes 100% of your working memory, engaging your brain's sensory block valve for 15 to 20 minutes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When distracting thoughts or stress rush in, do not try to suppress them by forc
   </p>
 </div>
 
+---
+
+## 3. Pascal's Immersion Precautions & Neuroscience Tips
+
+When distracting thoughts or stress rush in, do not try to suppress them by force. Immediately switch to a high-difficulty quiz or reading task that utilizes 100% of your working memory, engaging your brain's sensory block valve for 15 to 20 minutes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is this method effective for everyday work stress or anxiety as well?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When distracting thoughts or stress rush in, do not try to suppress them by forc
       Yes, it is. The gating mechanism of the thalamus blocks not only physical pain but also psychological anxiety and stress signals in the exact same manner.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How long should a high-difficulty immersion sprint be maintained?</span>

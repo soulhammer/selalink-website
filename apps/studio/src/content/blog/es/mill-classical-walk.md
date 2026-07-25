@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Un cerebro en movimiento crea genios? La rutina de caminata y debate de John Stuart Mill"
 description: "John Stuart Mill, el gran intelectual de 'Sobre la libertad'. Descubra su hábito de recitar clásicos y debatir con su padre durante paseos matutinos por el bosque, y explore los beneficios neurocientíficos de combinar ejercicio y cognición."
 pubDate: "2026-01-25"
@@ -38,14 +39,14 @@ En este artículo, exploramos los principios neurocientíficos detrás del hábi
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mill-classical-walk se basa en <strong>Investigación de biografías históricas y registros autobiográficos de John Stuart Mill e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de biografías históricas y registros autobiográficos de John Stuart Mill e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La combinación del BDNF para activar las células cerebrales y la plasticidad neuronal
+## 1. La combinación del BDNF para activar las células cerebrales y la plasticidad neuronal
 
 A diferencia de la lectura estática sentado, caminar mientras se dialoga o reflexiona ofrece inmensos beneficios neurocientíficos. La actividad física aeróbica como la caminata incrementa rápidamente el flujo sanguíneo cerebral y estimula intensamente el <strong>Factor Neurotrófico Derivado del Cerebro (BDNF)</strong> en el hipocampo, el centro de la memoria y el aprendizaje. El BDNF es un catalizador clave para la neurogénesis y supervivencia neuronal.
 
@@ -53,9 +54,7 @@ Cuando la información intelectual compleja entra al cerebro en este estado de e
 
 ---
 
-## Si el movimiento físico se detiene, el pensamiento se paraliza
-
-Las personas modernas pasan horas sentadas inmóviles consumiendo información, lo que cae drásticamente los niveles de BDNF y disminuye crónicamente la capacidad de asimilar nuevos conocimientos. Al igual que el hábito de Mill de combinar la lectura con el ejercicio, desconectarse por completo del teléfono inmediatamente después de leer para caminar y reflexionar es la práctica cognitiva integradora definitiva para mantener la agilidad mental y potenciar el pensamiento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Las personas modernas pasan horas sentadas inmóviles consumiendo información, 
   </p>
 </div>
 
+---
+
+## 3. Si el movimiento físico se detiene, el pensamiento se paraliza
+
+Las personas modernas pasan horas sentadas inmóviles consumiendo información, lo que cae drásticamente los niveles de BDNF y disminuye crónicamente la capacidad de asimilar nuevos conocimientos. Al igual que el hábito de Mill de combinar la lectura con el ejercicio, desconectarse por completo del teléfono inmediatamente después de leer para caminar y reflexionar es la práctica cognitiva integradora definitiva para mantener la agilidad mental y potenciar el pensamiento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Tiene el mismo efecto caminar escuchando un audiolibro?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Las personas modernas pasan horas sentadas inmóviles consumiendo información, 
       Escuchar un audiolibro es un procesamiento pasivo que bloquea la 'evocación activa' (donde el cerebro busca internamente en la memoria) y reduce la auto-reflexión. Liberar sus oídos durante la caminata para procesar activamente lo leído es mucho más efectivo para estimular la plasticidad cerebral.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Afecta la velocidad al caminar a la estimulación cerebral?</span>

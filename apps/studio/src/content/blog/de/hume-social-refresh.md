@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gengengift für die einsame Denkarbeit: David Humes abendliche Geselligkeit und Backgammon-Routine zur emotionalen Erholung"
 description: "Erfahren Sie, wie der schottische Philosoph David Hume intellektuelle Schwermut bekämpfte, indem er abends mit Freunden speiste und Backgammon spielte. Entdecken Sie die Neurowissenschaften von Oxytocin, Serotonin und der Vermeidung kognitiver Überlastung."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter David Humes '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu hume-social-refresh basiert auf <strong>Historische Überprüfung aus David Humes *Ein Traktat über die menschliche Natur* (1739), Autobiografie *Mein Leben* & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus David Humes *Ein Traktat über die menschliche Natur* (1739), Autobiografie *Mein Leben* & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ausschüttung von Oxytocin und Serotonin: Entlastung des präfrontalen Kortex
+## 1. Ausschüttung von Oxytocin und Serotonin: Entlastung des präfrontalen Kortex
 
 Wer nach der Erschöpfung des <strong>präfrontalen Kortex</strong> am Abend weiter an Problemen grübelt, versetzt das Nervensystem in Dauerstress. Freudige soziale Kontakte beim Abendessen stimulieren die Ausschüttung von <strong>Serotonin</strong> und <strong>Oxytocin</strong>, was die Stresssignale der <strong>Amygdala</strong> dämpft. Spiele wie Schach oder Backgammon aktivieren zudem das <strong>Default Mode Network (DMN)</strong>, was das Gehirn entlastet und die exekutiven Funktionen für den nächsten Tag stärkt.
 
 ---
 
-## Vorsichtsmaßnahme: Berufliche Diskussionen und politische Debatten beim Feierabend ausschließen
-
-Der Zweck von Humes abendlicher Geselligkeit ist emotionale Entlastung. Wer beim Abendessen schwierige Verhandlungen führt oder hitzige Debatten anstellt, belastet den präfrontalen Kortex erneut. Humor, Anekdoten und entspannte Spiele sind der Schlüssel zur kognitiven Erholung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Der Zweck von Humes abendlicher Geselligkeit ist emotionale Entlastung. Wer beim
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Berufliche Diskussionen und politische Debatten beim Feierabend ausschließen
+
+Der Zweck von Humes abendlicher Geselligkeit ist emotionale Entlastung. Wer beim Abendessen schwierige Verhandlungen führt oder hitzige Debatten anstellt, belastet den präfrontalen Kortex erneut. Humor, Anekdoten und entspannte Spiele sind der Schlüssel zur kognitiven Erholung.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was tun, wenn man abends alleine ist oder niemanden persönlich treffen kann?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Der Zweck von Humes abendlicher Geselligkeit ist emotionale Entlastung. Wer beim
       Telefonate mit Freunden oder entspannte Online-Gemeinschaftsspiele sind gute Alternativen. Entscheidend ist der freundschaftliche Austausch ohne Leistungsdruck. Das passive Scrollen durch Social-Media-Feeds sollte vermieden werden, da es das Gehirn belastet.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kann man Schach durch andere Brettspiele, Kartenspiele oder Freizeitspiele ersetzen?</span>

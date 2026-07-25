@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Una obra maestra rescatada de los restos del sueño: El hábito de captura inmediata del subconsciente de Paul McCartney"
 description: "Paul McCartney rescató el clásico de The Beatles 'Yesterday' de un sueño al despertar. Comparte el secreto para capturar la creatividad usando el modo difuso durante la hipnagogia."
 pubDate: "2026-04-25"
@@ -34,22 +35,20 @@ El cerebro experimenta un estado altamente creativo justo al despertar, entre el
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mccartney-dream-melody-capture se basa en <strong>Investigación biográfica e histórica de Paul McCartney y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica de Paul McCartney y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La hipnagogia y el modo difuso del cerebro
+## 1. La hipnagogia y el modo difuso del cerebro
 
 Durante unos minutos tras despertar, permanecemos en 'hipnagogia', donde la corteza prefrontal dorsolateral (DLPFC) no está activa por completo. El cerebro entra en modo difuso, relajando la autocensura y permitiendo que se mezclen los recuerdos subconscientes. Sin embargo, al despertar completamente, el cerebro pasa a modo enfocado y borra la memoria a corto plazo. Registrar las ideas dentro de los primeros 30 segundos evita su pérdida.
 
 ---
 
-## Precauciones y consejos
-
-El error más grave al practicar este hábito es mirar las redes sociales o leer correos de noticias en el teléfono nada más despertar. Cuando la información estructurada externa domina la corteza visual y la memoria de trabajo, el cerebro pasa al modo de tensión cognitiva y borra los recuerdos del sueño. Mantenga un bloc y un bolígrafo analógico junto a la cama y evite los medios externos durante al menos 3 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ El error más grave al practicar este hábito es mirar las redes sociales o leer
     Al escribir, elimine por completo juicios como '¿Tiene sentido lógico?' o '¿Es extraño?'. Concéntrese únicamente en verter los datos crudos del subconsciente; deje el análisis y el refinamiento para la tarde.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+El error más grave al practicar este hábito es mirar las redes sociales o leer correos de noticias en el teléfono nada más despertar. Cuando la información estructurada externa domina la corteza visual y la memoria de trabajo, el cerebro pasa al modo de tensión cognitiva y borra los recuerdos del sueño. Mantenga un bloc y un bolígrafo analógico junto a la cama y evite los medios externos durante al menos 3 minutos.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Physics Woven Through Dialogue: Niels Bohr's Dictation-Discussion and Metacognitive Writing Method"
 description: "Explore how quantum mechanics pioneer Niels Bohr authored complex physics papers through relentless oral discussion and dictation with colleagues, and discover the neuroscientific principle where externalizing inner thoughts into spoken language activates metacognition."
 pubDate: "2026-01-19"
@@ -38,22 +39,20 @@ In today's post, we examine the brain science underlying Niels Bohr's 'dialogue-
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bohr-dialogue-dictation is based on <strong>Historical Verification from Abraham Pais's Biography *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Abraham Pais's Biography *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neural Mechanisms of Internal Speech Externalization and Metacognition Activation
+## 1. Neural Mechanisms of Internal Speech Externalization and Metacognition Activation
 
 Mental 'Inner Speech' often conceals logical leaps and ambiguities, easily creating illusions of understanding when solving complex problems. The moment this is converted into spoken 'External Speech', the brain activates metacognitive circuits, allowing it to objectively listen to and process its own ideas from a third-person perspective. Furthermore, pairing speech with interactive social stimuli—such as a listener's immediate feedback and questions, as Bohr did—strongly engages the language cortex and executive control networks across both hemispheres, effectively recombining scattered intuitive fragments into explicit, logical frameworks.
 
 ---
 
-## Caution & Tips: Guarding Against Aimless Chatter & Setting Structured Time Limits
-
-The biggest pitfall when applying a dictation-dialogue routine is devolving into aimless chatter. Starting a discussion without a clear question guideline consumes cognitive energy and time while derailing the objective of solidifying ideas. Before speaking, explicitly state a 'single clear question' you aim to solve to your partner, and enforce a focused time block of 15 to 20 minutes to maintain constructive cognitive tension.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The biggest pitfall when applying a dictation-dialogue routine is devolving into
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Guarding Against Aimless Chatter & Setting Structured Time Limits
+
+The biggest pitfall when applying a dictation-dialogue routine is devolving into aimless chatter. Starting a discussion without a clear question guideline consumes cognitive energy and time while derailing the objective of solidifying ideas. Before speaking, explicitly state a 'single clear question' you aim to solve to your partner, and enforce a focused time block of 15 to 20 minutes to maintain constructive cognitive tension.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How can I practice this routine in a solo environment without a partner?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The biggest pitfall when applying a dictation-dialogue routine is devolving into
       You can substitute by turning on a smartphone voice memo or AI recorder app and speaking aloud as if explaining to an imaginary listener. The crucial factor is not the physical presence of a listener, but the cognitive stimulation process of converting inner thoughts into external spoken language and re-auditing them.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I translate the output of oral discussion into productive written documentation?</span>

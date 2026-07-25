@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pasear por cementerios en busca de inspiración: La rutina de 'Contemplación solemne en soledad' de Mary Shelley"
 description: "Descubra por qué Mary Shelley, autora de 'Frankenstein', paseaba por cementerios y lugares históricos solemnes. Explore la ciencia cerebral del asombro y la reflexión que fomenta la creatividad profunda."
 pubDate: "2026-07-07"
@@ -36,14 +37,14 @@ Exploramos los principios científicos del asombro cognitivo y la imaginación p
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre shelley-cemetery-walk se basa en <strong>Registros literarios históricos de Mary Shelley e investigación en Psicología Ambiental sobre la Fascinación/Asombro (Awe)</strong>.
+      Este contenido se basa en <strong>Registros literarios históricos de Mary Shelley e investigación en Psicología Ambiental sobre la Fascinación/Asombro (Awe)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Asombro cognitivo y activación de la red cerebral reflexiva en espacios solemnes
+## 1. Asombro cognitivo y activación de la red cerebral reflexiva en espacios solemnes
 
 La psicología ambiental muestra que ingresar a espacios silenciosos con carga histórica y solemne (como cementerios o ruinas) desencadena una emoción cognitiva única: el 'Asombro' (Awe).
 
@@ -51,9 +52,7 @@ El asombro acalla la red centrada en el ego responsable de las preocupaciones co
 
 ---
 
-## Busque espacios históricos o naturales tranquilos y no comerciales
-
-Para Mary Shelley, el cementerio era un santuario para meditar sobre la vida. No necesita ir a un cementerio: busque caminos en bosques antiguos, jardines históricos, templos o bibliotecas silenciosas. La clave es ofrecer a su cerebro un espacio separado del ruidoso comercio diario.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Para Mary Shelley, el cementerio era un santuario para meditar sobre la vida. No
     Deténgase bajo un árbol o en un banco y abra su libreta. Escriba las ideas o inspiraciones profundas sobre la vida surgidas del asombro solemne.
   </p>
 </div>
+
+---
+
+## 3. Busque espacios históricos o naturales tranquilos y no comerciales
+
+Para Mary Shelley, el cementerio era un santuario para meditar sobre la vida. No necesita ir a un cementerio: busque caminos en bosques antiguos, jardines históricos, templos o bibliotecas silenciosas. La clave es ofrecer a su cerebro un espacio separado del ruidoso comercio diario.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Emperador que Ganó Docenas de Trofeos Durmiendo 12 Horas al Día: La Rutina de Recuperación de Sueño y Limpieza Cerebral de Roger Federer"
 description: "Descubra el secreto del astro del tenis Roger Federer para mantener su rendimiento pasados los 40 años: dormir de 10 a 12 horas al día. Explore la neurociencia del sistema glinfático, el sueño REM y una guía práctica de 3 pasos."
 pubDate: "2026-03-16"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia detrás de la rutina de '1
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre federer-sleep-recovery se basa en <strong>Verificación Histórica de la Biografía de Chris Bowers *Roger Federer: The Greatest*, Archivos Oficiales de la ATP e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Chris Bowers *Roger Federer: The Greatest*, Archivos Oficiales de la ATP e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Limpieza Cerebral Glinfática y Mecanismos de Consolidación Neural del Sueño REM
+## 1. Limpieza Cerebral Glinfática y Mecanismos de Consolidación Neural del Sueño REM
 
 Durante el sueño profundo, el <strong>Sistema Glinfático</strong> del cerebro se activa, expandiendo el espacio intersticial para eliminar deshechos neurotóxicos como la beta-amiloide acumulados durante el día. Además, el <strong>sueño REM</strong> promueve la neuroplasticidad, consolidando secuencias motoras complejas y afinando los reflejos visuales. Asegurar un descanso prolongado reduce el cortisol y maximiza la liberación de hormona del crecimiento, restaurando el tejido muscular y el enfoque cerebral.
 
 ---
 
-## Precaución: Evite la Ilusión de Sacrificar el Sueño Confiando en la Fuerza de Voluntad
-
-Trabajar privado de sueño provoca errores de juicio equivalentes a conducir ebrio. Como afirmaba Federer, el máximo rendimiento no proviene de resistir el agotamiento, sino de la claridad mental que proporciona una recuperación profunda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Trabajar privado de sueño provoca errores de juicio equivalentes a conducir ebr
   </p>
 </div>
 
+---
+
+## 3. Precaución: Evite la Ilusión de Sacrificar el Sueño Confiando en la Fuerza de Voluntad
+
+Trabajar privado de sueño provoca errores de juicio equivalentes a conducir ebrio. Como afirmaba Federer, el máximo rendimiento no proviene de resistir el agotamiento, sino de la claridad mental que proporciona una recuperación profunda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo hacer si sufro de insomnio y me cuesta conciliar el sueño?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Trabajar privado de sueño provoca errores de juicio equivalentes a conducir ebr
       No se fuerce a dormir. Si sigue despierto tras 20 minutos, aplique la Terapia de Control de Estímulos: levántese, vaya a otra habitación con luz tenue, lea un libro físico y vuelva a la cama solo cuando sienta sueño.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Por qué me siento aturdido y pesado después de tomar una siesta?</span>

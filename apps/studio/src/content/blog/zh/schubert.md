@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "舒伯特醒后即刻作曲法：戴着眼镜直奔五线谱的即时创作习惯"
 description: "在短短31年生涯中留下了600多首歌曲的“歌曲之王”，醒来后戴着眼镜将梦境残影转录到五线谱上。"
 pubDate: "2026-07-08"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 schubert 的内容基于 <strong>舒伯特历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>舒伯特历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 促成成功的脑科学原理分析
+## 1. 促成成功的脑科学原理分析
 
 刚起床时的人脑处于逻辑认知过滤和杂念尚未侵入的创造性Theta波（Theta waves）状态。像舒伯特一样，完全阻断起床与核心创意行动之间的准备步骤（检查手机、洗脸、整理书桌等），将行动摩擦力（Friction）降为零，就能将潜意识中潜藏的光芒四射的直觉灵感完整地捕捉并固定在纸上。
 
 ---
 
-## 顺利习惯化的行为科学建议
-
-请注意，在清晨起床后即使只看10秒钟手机通知或社交消息，大脑也会瞬间被来自他人的信息压力淹没，从而彻底失去独特的Theta波潜意识状态。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 顺利习惯化的行为科学建议
+
+请注意，在清晨起床后即使只看10秒钟手机通知或社交消息，大脑也会瞬间被来自他人的信息压力淹没，从而彻底失去独特的Theta波潜意识状态。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果在早上做完潜意识记录后又感到困意袭来该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       没关系。在提笔书写的这2分钟里，捕捉Theta波的任务已经成功完成。写完后喝点水或做些伸展运动，向大脑发送清醒信号，困意很快就会消退。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果早上起床后大脑一片空白、没有任何想写的内容怎么办？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "새벽 3시 45분에 일어나 100통의 메일을 읽는 CEO? 팀 쿠크의 아침 제어 루틴"
 description: "세계 최대 IT 기업 애플(Apple)을 이끄는 수장 팀 쿠크. 매일 새벽 3시 45분에 기상해 사용자 피드백 메일을 읽고 5시에 운동하는 그의 주도권 확보 루틴과 3단계 실천법을 알아봅니다."
 pubDate: "2026-02-24"
@@ -20,7 +21,7 @@ faqs:
   - question: "저녁형 인간(야행성)도 이 새벽 루틴을 따라 하는 것이 좋은가요?"
     answer: "자신의 유전적 수면 위상(Chronotype)이 완전한 야행성이라면 무리해서 새벽 3-4시에 일어날 필요는 없습니다. 본 루틴의 핵심 시사점은 '하루 중 외부 방해가 제로인 나만의 주도적 1시간을 확보하는 것'이므로, 퇴근 후 1시간이나 심야 1시간으로 대체해도 동일한 효과를 거둘 수 있습니다."
   - question: "새벽에 일찍 일어나면 오후에 피곤해지는데 어떻게 극복하나요?"
-    answer: "오후 1시~3시 사이에 15~20분간 가벼운 파워 냅(Power Nap)을 취하거나, 카페인 섭취를 오전 11시 이전에 끝내고 가벼운 스트레칭을 해주면 전두엽의 피로가 대폭 감소합니다."
+    answer: "오후 1시 ~ 3시 사이에 15 ~ 20분간 가벼운 파워 냅(Power Nap)을 취하거나, 카페인 섭취를 오전 11시 이전에 끝내고 가벼운 스트레칭을 해주면 전두엽의 피로가 대폭 감소합니다."
 ---
 
 글로벌 IT 제국 애플(Apple)의 CEO로서 매일 수억 명의 일상과 수조 달러의 의사결정을 지휘하는 세계 최고의 경영자, 팀 쿠크(Tim Cook). 세상의 모든 외부 소음과 메시지가 몰아치기 전, 그가 하루를 완전한 자신의 주도하에 두기 위해 고수한 최고의 아침 비밀은 무엇일까요? ⌚
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>팀 쿠크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 tim-cook-early-morning-routine 루틴을 다룹니다.
+      본 콘텐츠는 <strong>팀 쿠크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 전두엽 포도당 예산 보호와 자아 고갈 예방 메커니즘
+## 1. 전두엽 포도당 예산 보호와 자아 고갈 예방 메커니즘
 
 인간의 뇌, 특히 전두엽 피질(Prefrontal Cortex)이 의사결정 시 사용하는 에너지 자원은 유한합니다. 낮 동안 타인의 요청과 수동적 이메일에 치이다 보면, 정작 중요한 전략적 판단을 내릴 때 뇌는 <strong>자아 고갈(Ego Depletion)</strong> 상태에 빠지게 됩니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 수면 시간 축소에 따른 뇌 피로 누적 주의
-
-팀 쿠크의 기상 루틴을 흉내 내기 위해 밤늦게 자면서 무리하게 새벽 일찍 일어나면 전두엽 세포에 만성 피로가 쌓여 판단력이 저하됩니다. 얼리 버드 루틴의 본질은 기상 시각 자체가 아니라 '일찍 자고 일찍 깨어 주도권을 쥐는 것'에 있음을 잊지 마세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 수면 시간 축소에 따른 뇌 피로 누적 주의
+
+팀 쿠크의 기상 루틴을 흉내 내기 위해 밤늦게 자면서 무리하게 새벽 일찍 일어나면 전두엽 세포에 만성 피로가 쌓여 판단력이 저하됩니다. 얼리 버드 루틴의 본질은 기상 시각 자체가 아니라 '일찍 자고 일찍 깨어 주도권을 쥐는 것'에 있음을 잊지 마세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>저녁형 인간(야행성)도 이 새벽 루틴을 따라 하는 것이 좋은가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       자신의 유전적 수면 위상(Chronotype)이 완전한 야행성이라면 무리해서 새벽 3-4시에 일어날 필요는 없습니다. 본 루틴의 핵심 시사점은 '하루 중 외부 방해가 제로인 나만의 주도적 1시간을 확보하는 것'이므로, 퇴근 후 1시간이나 심야 1시간으로 대체해도 동일한 효과를 거둘 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>새벽에 일찍 일어나면 오후에 피곤해지는데 어떻게 극복하나요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "『考える人』の巨匠？オーギュスト・ロダンの朝の粘土感覚散歩ルーティン"
 description: "近代彫刻の巨匠オーギュスト・ロダン。毎朝手に粘土を握って歩きながら触覚的インスピレーションを呼び覚ました彼の独創的なセンサリー・ルーティンと3段階の実践法を公開します。"
 pubDate: "2026-01-10"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「rodin-sculpting-walk」は <strong>オーギュスト・ロダンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>オーギュスト・ロダンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 体性感覚皮質刺激による脳の触覚的立体活性化
+## 1. 体性感覚皮質刺激による脳の触覚的立体活性化
 
 現代人は情報の90%以上をモニターやスマートフォン画面のような平面的な視覚刺激だけに依存しています。その結果、脳の立体的空間感覚と精巧な認知的柔軟性が損なわれがちです。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 視覚をオフにし、指先の主観的触覚に没頭してください
-
-ロダンにとって粘土は完成品を作る材料である前に、指先の微細な感覚を呼び覚ますアンテナでした。形を精密に整えようと焦らず、指先に感じられる質感と弾力に完全に意識を集中させてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 視覚をオフにし、指先の主観的触覚に没頭してください
+
+ロダンにとって粘土は完成品を作る材料である前に、指先の微細な感覚を呼び覚ますアンテナでした。形を精密に整えようと焦らず、指先に感じられる質感と弾力に完全に意識を集中させてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>粘土の代わりに代用できる現代的なオブジェクトは何ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       シリコンストレスボール、フィンガーフィジェットキューブ、ミニカリンバ、あるいは滑らかな木塊や丸い小石など、触覚刺激が豊富なあらゆる小物が優れた代替品になります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>指先の触覚刺激がどのように創造性を高めるのですか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le génie qui portait toujours un carnet à la ceinture : La routine de prise de notes instantanée et d'externalisation de la mémoire de Léonard de Vinci"
 description: "Découvrez comment le polymathe de la Renaissance Léonard de Vinci gardait un carnet attaché à la ceinture pour consigner ses observations. Explorez la neuroscience cognitive de l'externalisation de la mémoire de travail pour libérer la charge cognitive."
 pubDate: "2026-05-29"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant da-vinci-notepad est basée sur <strong>Vérification Historique issue de la biographie de Walter Isaacson *Léonard de Vinci (Leonardo da Vinci)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Walter Isaacson *Léonard de Vinci (Leonardo da Vinci)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Libération de la mémoire de travail (RAM) via l'externalisation et la réduction de la charge cognitive
+## 1. Libération de la mémoire de travail (RAM) via l'externalisation et la réduction de la charge cognitive
 
 Le cerveau humain fonctionne moins comme un entrepôt de stockage que comme un processeur (CPU). La psychologie cognitive montre que la capacité de la mémoire de travail est limitée (3 à 5 éléments). Conserver des pensées sans les consigner force le cortex préfrontal à consommer de l'énergie, provoquant une Charge Cognitive. L'« Externalisation » immédiate — écrire ou dessiner les idées dès leur apparition — décharge la mémoire de travail (RAM). Cette libération rend disponible le cortex préfrontal pour la synthèse créative.
 
 ---
 
-## Précautions & Conseils : Externalisation immédiate & Prévention du stress de rétention
-
-L'objectif principal de la prise de notes est de soulager le cerveau de la charge de rétention. Penser « je le noterai plus tard » force le cortex préfrontal à maintenir les données, générant du stress et de la fatigue. Ne vous souciez pas de la présentation lors de la saisie. Consigner un mot-clé ou un croquis dans les 5 secondes préserve la mémoire de travail.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'objectif principal de la prise de notes est de soulager le cerveau de la charg
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Externalisation immédiate & Prévention du stress de rétention
+
+L'objectif principal de la prise de notes est de soulager le cerveau de la charge de rétention. Penser « je le noterai plus tard » force le cortex préfrontal à maintenir les données, générant du stress et de la fatigue. Ne vous souciez pas de la présentation lors de la saisie. Consigner un mot-clé ou un croquis dans les 5 secondes préserve la mémoire de travail.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Léonard de Vinci attachait-il spécifiquement un carnet en cuir à sa ceinture ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'objectif principal de la prise de notes est de soulager le cerveau de la charg
       Pour réduire la friction d'accès physique à zéro, lui permettant d'externaliser ses observations en quelques secondes sans perdre la moindre pensée. Cette conception sans friction préservait sa mémoire de travail pour les associations créatives.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>L'utilisation d'une application de notes sur smartphone procure-t-elle les mêmes bénéfices d'externalisation qu'un carnet papier ?</span>

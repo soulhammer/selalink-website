@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rutina Micro-Nap Napoléon Bonaparte"
 description: "Memperkenalkan mekanisme tidur siang ilmiah Kaisar Napoleon, yang dengan cepat meriset energi otak dengan tidur siang 15 menit di tengah beban kerja yang intens."
 pubDate: "2026-06-02"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami memeriksa mekanisme ilmiah di balik rutinitas mic
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai napoleon-micro-nap didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi micro-nap Napoleon & penelitian ilmu saraf kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi micro-nap Napoleon & penelitian ilmu saraf kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pemulihan Kognitif melalui Micro-Nap dan Optimalisasi Gelombang Otak
+## 1. Pemulihan Kognitif melalui Micro-Nap dan Optimalisasi Gelombang Otak
 
 Micro-nap selama 10 hingga 15 menit membatasi tidur pada tahap NREM 1 dan 2, mencegah inersia tidur yang linglung sekaligus membersihkan penumpukan adenosin untuk memulihkan kewaspadaan secara instan. Menurut penelitian ilmu saraf, praktik ini menekan respons kecemasan yang tidak perlu di amigdala dan mengaktifkan sirkuit papan sketsa visuospasial, yang secara drastis meningkatkan fungsi eksekutif jangka panjang.
 
 ---
 
-## Peringatan Waktu untuk Kebiasaan Tidur Siang yang Sehat
-
-Tidur lebih dari 20 hingga 30 menit memasuki tidur nyenyak, menyebabkan kelelahan berat saat bangun. Patuhi timer secara ketat dan hindari tidur siang setelah pukul 16.00. Jangan hanya mengandalkan kemauan keras; merancang lingkungan fisik dan isyarat kebiasaan terlebih dahulu untuk memicu tindakan secara alami adalah kunci keberlanjutan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Tidur lebih dari 20 hingga 30 menit memasuki tidur nyenyak, menyebabkan kelelaha
     Begitu alarm berbunyi, segera bangun, paparkan diri Anda pada cahaya terang, dan basuh wajah dengan air dingin untuk membangunkan sistem saraf otonom.
   </p>
 </div>
+
+---
+
+## 3. Peringatan Waktu untuk Kebiasaan Tidur Siang yang Sehat
+
+Tidur lebih dari 20 hingga 30 menit memasuki tidur nyenyak, menyebabkan kelelahan berat saat bangun. Patuhi timer secara ketat dan hindari tidur siang setelah pukul 16.00. Jangan hanya mengandalkan kemauan keras; merancang lingkungan fisik dan isyarat kebiasaan terlebih dahulu untuk memicu tindakan secara alami adalah kunci keberlanjutan.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

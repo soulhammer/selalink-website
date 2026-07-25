@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "パブロ・ネルーダの緑色インク筆記法：色の波長で脳の創造的没頭（フロー）を呼び覚ます方法"
 description: "ノーベル文学賞受賞者パブロ・ネルーダが生涯を通じて緑色のインクだけで詩を書いた理由と、緑の波長が脳のアルファ波（Alpha Waves）を誘導する認知色彩学的原理を探ります。"
 pubDate: "2026-05-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「neruda-green-ink-flow」は <strong>ネルーダの緑色インクに関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ネルーダの緑色インクに関する歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 緑色の波長が脳の視覚的疲労を下げアルファ波（Alpha Waves）を刺激する理由
+## 1. 緑色の波長が脳の視覚的疲労を下げアルファ波（Alpha Waves）を刺激する理由
 
 認知色彩学および脳科学の研究によると、緑色の光線波長（520〜550nm）は網膜と脳の視覚野（Visual Cortex）への刺激が最も少ない自然カラー領域帯です。この視覚的な快適さは脳のアルファ波（Alpha Waves）を誘導し、緊張することなく高度に没頭するフロー状態（Flow State）を稼働させます。
 
 ---
 
-## ネルーダ習慣の注意事項および没頭ヒント
-
-緑色インクでの筆記を稼働させる際、正しい綴りや完璧な文章構造にこだわりすぎないでください。10分間、脳のインスピレーションが流れるままに途切れなく手を動かして書くことが重要です。無理に意志の力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. ネルーダ習慣の注意事項および没頭ヒント
+
+緑色インクでの筆記を稼働させる際、正しい綴りや完璧な文章構造にこだわりすぎないでください。10分間、脳のインスピレーションが流れるままに途切れなく手を動かして書くことが重要です。無理に意志の力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>紙の筆記の代わりにデジタルエディターのグリーンテーマを使用しても同じ効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、その通りです。視覚野は波長を感知するため、アナログインクだけでなくデジタルスクリーンの落ち着いたディープグリーンテーマでも同様のアルファ波誘導効果が現れます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>なぜ黒いインクや白黒の画面が時々創作の行き詰まりを引き起こすのですか？</span>

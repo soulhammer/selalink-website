@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Mengeluarkan Stres Pembangunan Bangsa Lewat Keringat: Meditasi Pasca-Olahraga Lee Kuan Yew dan Homeostasis Otonom"
 description: "Pelajari bagaimana Lee Kuan Yew, Perdana Menteri pendiri Singapura, mengelola stres kepemimpinan berisiko tinggi dengan mengombinasikan lari di treadmill selama 30 menit dengan meditasi pernapasan selama 20 menit. Temukan beralihnya sistem saraf otonom."
 pubDate: "2026-04-05"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif dan fisiologi ol
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai lee-kuanyew-treadmill didasarkan pada <strong>Verifikasi Historis dari Autobiografi Lee Kuan Yew *The Singapore Story*, Arsip Nasional Singapura & Penelitian Neurosains Kognitif serta Fisiologi Olahraga</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Lee Kuan Yew *The Singapore Story*, Arsip Nasional Singapura & Penelitian Neurosains Kognitif serta Fisiologi Olahraga</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pembersihan Kortisol Melalui Stimulasi Aerobik dan Transisi Sistem Saraf Parasimpatis
+## 1. Pembersihan Kortisol Melalui Stimulasi Aerobik dan Transisi Sistem Saraf Parasimpatis
 
 Olahraga aerobik intensitas tinggi membuang limbah metabolisme dan membersihkan zat kelelahan dari otak. Menindaklanjuti olahraga secara langsung dengan meditasi pernapasan secara mendadak mengubah tubuh dari kondisi <strong>Sistem Saraf Simpatis</strong> ke kondisi dominan <strong>Sistem Saraf Parasimpatis</strong>. Peralihan cepat ini menurunkan konsentrasi <strong>kortisol</strong>, meningkatkan <strong>Homeostasis</strong> biologis, dan memulihkan <strong>Korteks Prefrontal</strong>.
 
 ---
 
-## Perhatian: Protokol Meditasi Segera Pasca-Olahraga untuk Memanfaatkan Jam Emas Fisiologis
-
-Essensi dari rutinitas Lee Kuan Yew adalah memasuki meditasi hening segera setelah berolahraga, sebelum mandi atau melakukan tugas lain. Mengatur pernapasan saat detak jantung Anda masih tinggi memicu saraf vagus untuk mengalihkan kondisi otonom, mendorong penurunan cepat pada kortisol.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Essensi dari rutinitas Lee Kuan Yew adalah memasuki meditasi hening segera setel
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Protokol Meditasi Segera Pasca-Olahraga untuk Memanfaatkan Jam Emas Fisiologis
+
+Essensi dari rutinitas Lee Kuan Yew adalah memasuki meditasi hening segera setelah berolahraga, sebelum mandi atau melakukan tugas lain. Mengatur pernapasan saat detak jantung Anda masih tinggi memicu saraf vagus untuk mengalihkan kondisi otonom, mendorong penurunan cepat pada kortisol.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bisakah saya mandi terlebih dahulu sebelum duduk untuk bermeditasi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Essensi dari rutinitas Lee Kuan Yew adalah memasuki meditasi hening segera setel
       Tidak. Jendela emas neurofisiologis untuk pengalihan sistem saraf otonom terjadi 'segera ketika detak jantung mencapai puncaknya'. Jika detak jantung menormal kembali saat mandi, pengalihan drastis berkurang, mengurangi pembersihan kortisol yang cepat. Anda harus duduk segera setelah berkeringat.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah sesi meditasi dianggap gagal jika pemikiran acak terus bermunculan?</span>

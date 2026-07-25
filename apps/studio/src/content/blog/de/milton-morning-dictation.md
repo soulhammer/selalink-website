@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Um 4 Uhr morgens: Wie ein blinder Dichter 'Das verlorene Paradies' diktierte – John Miltons stille Morgenmeditation"
 description: "Entdecken Sie die Morgenmeditation von John Milton, der trotz Erblindung epische Meisterwerke schuf. Erfahren Sie, wie das Ausblenden visueller Reize das Arbeitsgedächtnis maximiert."
 pubDate: "2026-04-09"
@@ -33,25 +34,23 @@ In diesem Beitrag analysieren wir die neurowissenschaftlichen Prinzipien des vis
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu milton-morning-dictation basiert auf <strong>Historisch-kritische Biografie und autobiografische Aufzeichnungen zu John Milton & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historisch-kritische Biografie und autobiografische Aufzeichnungen zu John Milton & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kognitive Kraft stiller Konzentration: Maximierung der Gehirnkapazität durch visuellen Reizentzug
+## 1. Kognitive Kraft stiller Konzentration: Maximierung der Gehirnkapazität durch visuellen Reizentzug
 
 Neurowissenschaftliche Forschungen zeigen, dass die visuelle Verarbeitung über 50 % der sensorischen Ressourcen des Gehirns beansprucht. Wenn visuelle Reize blockiert werden, schichtet das Gehirn freie Netzwerke auf Kurzzeitgedächtnis und Sprachverarbeitung um. Miltons Routine, vor dem Morgengrauen im Dunkeln Verse zu verfassen, bot ideale Bedingungen für das Arbeitsgedächtnis im Frontallappen.
 
 ---
 
-## Kontrollieren Sie äußere Reize am Morgen für tiefe Immersion
-
-Für John Milton war die Dunkelheit des Morgengrauens keine Einschränkung, sondern eine Leinwand für Kreativität. Indem er äußere Reize aufschob und sich auf seine innere Stimme konzentrierte, schuf er unsterbliche Meisterwerke. Statt morgens direkt E-Mails oder Social Media zu prüfen, schenken Sie Ihrem Gehirn eine ruhige Phase zum Nachdenken.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Für John Milton war die Dunkelheit des Morgengrauens keine Einschränkung, sond
     Sobald die gedankliche Struktur steht, greifen Sie zum Stift oder diktieren Sie in ein Diktiergerät. Übertragen Sie Ideen auf ein physisches Medium, um Kapazität freizusetzen.
   </p>
 </div>
+
+---
+
+## 3. Kontrollieren Sie äußere Reize am Morgen für tiefe Immersion
+
+Für John Milton war die Dunkelheit des Morgengrauens keine Einschränkung, sondern eine Leinwand für Kreativität. Indem er äußere Reize aufschob und sich auf seine innere Stimme konzentrierte, schuf er unsterbliche Meisterwerke. Statt morgens direkt E-Mails oder Social Media zu prüfen, schenken Sie Ihrem Gehirn eine ruhige Phase zum Nachdenken.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

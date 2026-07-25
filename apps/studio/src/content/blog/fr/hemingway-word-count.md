@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Consigner le nombre de mots quotidien sur un graphique : La routine de tableau quantitatif et de récompense dopaminergique d'Ernest Hemingway"
 description: "Découvrez comment le prix Nobel Ernest Hemingway consignait son nombre de mots quotidien sur un tableau mural. Explorez la neuroscience de l'auto-contrôle, des circuits de récompense dopaminergique et de l'activation préfrontale."
 pubDate: "2026-02-05"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente au « su
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant hemingway-word-count est basée sur <strong>Vérification Historique issue de *Paris est une fête (A Moveable Feast)* d'Ernest Hemingway, de l'entretien de George Plimpton (*Paris Review*, 1958) & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *Paris est une fête (A Moveable Feast)* d'Ernest Hemingway, de l'entretien de George Plimpton (*Paris Review*, 1958) & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'auto-contrôle (Self-Monitoring) et la neuroscience du circuit de récompense dopaminergique
+## 1. L'auto-contrôle (Self-Monitoring) et la neuroscience du circuit de récompense dopaminergique
 
 Consigner et mesurer quantitativement ses actions est connu en psychologie sous le nom d'<strong>Auto-contrôle (Self-Monitoring)</strong>. Lorsque les progrès sont quantifiés visuellement, le cerveau reçoit un retour immédiat, stimulant le <strong>Circuit de récompense dopaminergique</strong>. Suivre quotidiennement sa production transforme l'effort abstrait en accomplissement visible, incitant le <strong>Cortex Préfrontal</strong> a générer une motivation intrinsèque. Hemingway exploitait cette boucle pour maintenir un rythme de rédaction constant.
 
 ---
 
-## Mise en garde : Prioriser l'acte de consignation quotidienne et honnête sur le volume produit
-
-Un effort flou mène a des résultats flous. Le cortex préfrontal n'enclenche l'auto-contrôle que lorsque la performance est mesurée par des chiffres précis. Que les chiffres soient élevés ou bas, concentrez-vous sur l'inscription quotidienne d'une note honnête sur votre tableau.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Un effort flou mène a des résultats flous. Le cortex préfrontal n'enclenche l
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Prioriser l'acte de consignation quotidienne et honnête sur le volume produit
+
+Un effort flou mène a des résultats flous. Le cortex préfrontal n'enclenche l'auto-contrôle que lorsque la performance est mesurée par des chiffres précis. Que les chiffres soient élevés ou bas, concentrez-vous sur l'inscription quotidienne d'une note honnête sur votre tableau.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi Ernest Hemingway consignait-il son nombre de mots quotidien sur un tableau ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Un effort flou mène a des résultats flous. Le cortex préfrontal n'enclenche l
       Hemingway suivait sa production pour éviter de se tromper lui-même et visualiser ses progrès, imposant une discipline a son travail. Les chiffres visibles stimulaient son système dopaminergique, facilitant la concentration le lendemain.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Cette routine de suivi est-elle efficace pour le travail de bureau ou les études en dehors de l'écriture ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Melihat Bumi sebagai Satu Organisme: Rutinitas Catatan Lapangan dan Synchronisasi Memori Kerja Real-Time Alexander von Humboldt"
 description: "Pelajari bagaimana Alexander von Humboldt, bapak ekologi modern, menciptakan visi 'Kosmos'-nya dengan mencatat data tekanan dan flora secara real-time saat mendaki Gunung Chimborazo. Temukan neurosains dari pencatatan lapangan real-time."
 pubDate: "2026-02-04"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai humboldt-nature-journaling didasarkan pada <strong>Verifikasi Historis dari *The Invention of Nature* karya Andrea Wulf, Arsip *Kosmos* & Penelitian Neurosains Kognitif serta Ekologi</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *The Invention of Nature* karya Andrea Wulf, Arsip *Kosmos* & Penelitian Neurosains Kognitif serta Ekologi</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Masukan Sensorik Real-Time dan Sinkronisasi Presisi Memori Kerja
+## 1. Masukan Sensorik Real-Time dan Sinkronisasi Presisi Memori Kerja
 
 Seiring berjalannya waktu setelah pengamatan, memori manusia secara alami merekonstruksi dan merasionalisasi data yang dikumpulkan, menyaring fakta melalui bias konfirmasi yang ada sebelumnya. Protokol pencatatan lapangan real-time Humboldt menyinkronkan <strong>Masukan Sensorik</strong> eksternal langsung dengan <strong>Memori Kerja</strong> tanpa jeda. Menyusun pengamatan dan metrik persis ke dalam teks dan sketsa langsung mencegah degradasi data, memungkinkan korteks prefrontal mempertahankan puncak <strong>Pengenalan Pola</strong>.
 
 ---
 
-## Perhatian: Menghilangkan Jeda Waktu antara Pengamatan dan Pencatatan untuk Mencegah Bias Retrospeksi
-
-Menunda pencatatan dengan berpikir 'saya akan mencatatnya saat kembali ke kantor' memungkinkan otak memutarbalikkan data numerik yang tepat dan mengganti fakta keras dengan asumsi dalam hitungan jam. Mematuhi aturan Humboldt—meminimalkan jeda waktu antara pengamatan dan pencatatan hingga di bawah 5 menit—adalah kunci utama.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Menunda pencatatan dengan berpikir 'saya akan mencatatnya saat kembali ke kantor
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Menghilangkan Jeda Waktu antara Pengamatan dan Pencatatan untuk Mencegah Bias Retrospeksi
+
+Menunda pencatatan dengan berpikir 'saya akan mencatatnya saat kembali ke kantor' memungkinkan otak memutarbalikkan data numerik yang tepat dan mengganti fakta keras dengan asumsi dalam hitungan jam. Mematuhi aturan Humboldt—meminimalkan jeda waktu antara pengamatan dan pencatatan hingga di bawah 5 menit—adalah kunci utama.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah rutinitas ini efektif meskipun pencatatan lapangan yang cepat menghasilkan tulisan tangan yang berantakan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Menunda pencatatan dengan berpikir 'saya akan mencatatnya saat kembali ke kantor
       Ya, tentu saja! Manfaat utama neurosains bergantung bukan pada keindahan tulisan tangan, melainkan pada 'penghubungan instan antara masukan sensorik dengan penyandian memori kerja'. Format ulang yang rapi dapat dilakukan kemudian.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bisakah saya mengganti tulisan tangan manual dengan rekaman audio digital atau memo suara?</span>

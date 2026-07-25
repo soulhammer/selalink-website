@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Chasser l'inspiration fugace : La routine de capture immédiate au carnet de poche de Bruce Lee"
 description: "Découvrez comment l'artiste martial et icône du cinéma du XXe siècle Bruce Lee gardait un carnet de poche pour capturer ses réflexions philosophiques et concepts d'arts martiaux en temps réel, et explorez les mécanismes cognitifs de stimulation du SRA."
 pubDate: "2026-04-06"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant brucelee-pocket-notebook est basée sur <strong>Vérification Historique issue de la biographie de John Little *Bruce Lee : Artiste de la vie (Bruce Lee: Artist of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de John Little *Bruce Lee : Artiste de la vie (Bruce Lee: Artist of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation du Système Réticulaire Activateur (SRA) et traitement sélectif de l'information
+## 1. Stimulation du Système Réticulaire Activateur (SRA) et traitement sélectif de l'information
 
 Le cerveau humain traite des millions de données sensorielle chaque jour, mais les filtres cognitifs effacent la plupart des informations non liées à la survie ou à des intérêts majeurs. Annoter une inspiration dans un carnet de poche dans les 5 secondes — comme le faisait Bruce Lee — éveille le Système Réticulaire Activateur (SRA) dans le tronc cérébral. Agissant comme un filtre attribuant une priorité aux signaux atteignant le cortex cérébral, l'acte physique d'enregistrer signale : « Cette idée est capitale pour la réalisation de mes objectifs. » En conséquence, le cerveau entre dans un état de « Perception Sélective », balayant l'environnement à la recherche d'opportunités et d'indices liés à cette note.
 
 ---
 
-## Précautions & Conseils : Prioriser la vitesse et l'instantanéité sur la structure
-
-La règle d'or du carnet de poche est la rapidité : poser le stylo sur le papier dans les 5 secondes suivant l'émergence d'une inspiration. Ne perdez pas de temps à structurer des paragraphes ou à appliquer votre écriture. Dès que vous vous souciez de la forme, le filtre préfrontal intervient et l'étincelle s'évapore. Quelques mots griffonnés ou des phrases incomplètes suffisent à fixer le fil de la pensée.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La règle d'or du carnet de poche est la rapidité : poser le stylo sur le papie
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Prioriser la vitesse et l'instantanéité sur la structure
+
+La règle d'or du carnet de poche est la rapidité : poser le stylo sur le papier dans les 5 secondes suivant l'émergence d'une inspiration. Ne perdez pas de temps à structurer des paragraphes ou à appliquer votre écriture. Dès que vous vous souciez de la forme, le filtre préfrontal intervient et l'étincelle s'évapore. Quelques mots griffonnés ou des phrases incomplètes suffisent à fixer le fil de la pensée.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'enregistrement de notes vocales sur un smartphone procure-t-il les mêmes bénéfices qu'un carnet papier ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La règle d'or du carnet de poche est la rapidité : poser le stylo sur le papie
       Oui, l'enregistrement vocal est une excellente méthode pour décharger rapidement la mémoire de travail. Cependant, le format texte reste supérieur pour la révision visuelle et la structuration ultérieures. Si vous utilisez des notes vocales, nous recommandons de les associer à la transcription automatique (STT).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Je prends des notes mais j'oublie souvent de les relire plus tard. Comment y remédier ?</span>

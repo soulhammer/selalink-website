@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Labyrinth Drawn in the Mind's Eye: Borges's Visuospatial Working Memory Visualization Routine"
 description: "Discover how Argentine literary master Jorge Luis Borges mentally designed 3D text structures and labyrinths after losing his sight, dictating his works aloud. Explore the neuroscientific mechanisms of maximizing visuospatial working memory and triggering cross-modal plasticity."
 pubDate: "2026-06-21"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Jorge Luis Borges's 'me
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding borges-mental-dictation is based on <strong>Historical Verification from Edwin Williamson's Biography *Borges: A Life* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Edwin Williamson's Biography *Borges: A Life* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cross-Modal Plasticity and Visuospatial Working Memory Expansion Principles
+## 1. Cross-Modal Plasticity and Visuospatial Working Memory Expansion Principles
 
 When external visual input is restricted, the brain recruits the visual cortex to process auditory, tactile, and spatial information—a phenomenon known as 'Cross-Modal Plasticity'. When the blind Borges mentally assembled intricate labyrinths and text structures, his visual cortex operated as an association area dedicated to high-level logical design and spatial layout. Mentally visualizing 3D abstract concept maps with closed eyes dramatically expands the visuospatial working memory capacity between the hippocampus and prefrontal cortex, unlocking advanced intuition to assemble complex, fragmented data into coherent frameworks.
 
 ---
 
-## Caution & Tips: Focusing on Organic Interstructures Rather Than Text Symbols
-
-The core of the Borgesian visualization routine is not reproducing text fonts or letter spellings behind your eyelids. It is drawing a '3D structural framework' (mind maps, spatial organograms, or 3D labyrinth models) showing how key concepts connect and interact. Focus on abstract causal relationships and organic structures rather than literal letter shapes to maximize neuroplastic benefits for visuospatial working memory.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The core of the Borgesian visualization routine is not reproducing text fonts or
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Focusing on Organic Interstructures Rather Than Text Symbols
+
+The core of the Borgesian visualization routine is not reproducing text fonts or letter spellings behind your eyelids. It is drawing a '3D structural framework' (mind maps, spatial organograms, or 3D labyrinth models) showing how key concepts connect and interact. Focus on abstract causal relationships and organic structures rather than literal letter shapes to maximize neuroplastic benefits for visuospatial working memory.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>When I try mental visualization, images keep fragmenting or blurring. Any tips?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The core of the Borgesian visualization routine is not reproducing text fonts or
       This is a completely natural neurological response. Rather than attempting vivid, detailed pictures right away, start with a highly simplified abstract model—drawing 2 or 3 basic boxes or circles connected by lines. As training progresses, the brain's visuospatial resolution increases.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does the habit of eyes-closed 3D visualization actually improve real-world skills like planning or coding?</span>

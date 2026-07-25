@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "이데아를 찾기 전 어깨를 단련한 철학자? 플라톤의 고강도 신체 예열법"
 description: "고대 그리스의 철학자 플라톤. 본명이 아닌 '넓은 어깨'라는 레슬러 시절 별명으로 불렸던 그가 매일 아침 지적 토론 전에 격렬하게 몸을 연마했던 뇌 과학적 원리와 현대적 홈 트레이닝 적용법을 알아봅니다."
 pubDate: "2026-03-05"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>플라톤 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 plato-gymnastic-wrestling 루틴을 다룹니다.
+      본 콘텐츠는 <strong>플라톤 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 저항 운동이 일으키는 뇌 혈류 극대화와 BDNF 방출 효과
+## 1. 저항 운동이 일으키는 뇌 혈류 극대화와 BDNF 방출 효과
 
 현대 운동 생리학 및 인지과학 연구에 따르면, 스쿼트나 팔굽혀펴기 같은 고강도의 신체 저항 운동(Resistance Training)은 대뇌 피질로 가는 혈류량과 산소 포화도를 즉각적으로 끌어올립니다. 이 생리적 각성은 뇌신경 세포의 생성과 시냅스 가소성을 촉진하는 핵심 물질인 뇌유래신경영양인자(BDNF)의 방출을 급격히 유도합니다. 동시에 신경 전달 물질인 도파민과 노르에피네프린을 대량으로 분비시켜, 운동 직후 뇌가 최상 수준의 장기 기억 형성 및 고난도 추상적 논리 연산에 집중할 수 있는 환경을 만듭니다.
 
 ---
 
-## 부상 방지 및 학습 진입 타이밍 조율 팁
-
-아침 기상 직후 몸이 풀리지 않은 상태에서 갑자기 고강도 운동을 시작하면 관절과 인대에 무리가 갈 수 있습니다. 따라서 본격적인 맨몸 운동을 시작하기 전 가벼운 스트레칭과 제자리걸음으로 관절을 먼저 예열하세요. 또한 운동이 끝난 직후 15분 이상 휴식을 지체하면 운동으로 얻은 뇌 혈류 최고점의 혜택이 상실되므로, 호흡이 가볍게 정돈된 직후(5분 이내) 바로 가장 복잡한 두뇌 작업에 진입하는 것이 좋습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 부상 방지 및 학습 진입 타이밍 조율 팁
+
+아침 기상 직후 몸이 풀리지 않은 상태에서 갑자기 고강도 운동을 시작하면 관절과 인대에 무리가 갈 수 있습니다. 따라서 본격적인 맨몸 운동을 시작하기 전 가벼운 스트레칭과 제자리걸음으로 관절을 먼저 예열하세요. 또한 운동이 끝난 직후 15분 이상 휴식을 지체하면 운동으로 얻은 뇌 혈류 최고점의 혜택이 상실되므로, 호흡이 가볍게 정돈된 직후(5분 이내) 바로 가장 복잡한 두뇌 작업에 진입하는 것이 좋습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>관절이 약하거나 저항 운동을 전혀 해보지 않은 초보자도 가능한가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ faqs:
       네, 무리하게 무거운 역기를 들거나 부상 위험이 큰 격렬한 운동을 할 필요가 없습니다. 자신의 체력에 맞춰 벽 짚고 팔굽혀펴기, 슬로우 스쿼트, 혹은 가벼운 플랭크 등으로 강도를 낮춰 실천해도 좋습니다. 뇌 혈류를 끌어올리기 위한 생리적 지표는 '숨이 가빠지고 가벼운 땀이 날 정도의 강도'이므로, 부상이 없는 안전한 한도 내에서 강도를 조율하세요.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>근력 운동 대신 가벼운 조깅이나 달리기 같은 유산소 운동으로 대체해도 되나요?</span>

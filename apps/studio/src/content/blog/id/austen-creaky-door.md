@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sinyal Lingkungan yang Menjaga Fokus: Kebiasaan Pintu Berderit Jane Austen"
 description: "Jane Austen secara sengaja membiarkan pintu yang berderit tidak diperbaiki untuk mendeteksi gangguan yang datang lebih awal. Pelajari prinsip-prinsip merancang batasan fokus."
 pubDate: "2026-03-27"
@@ -37,17 +38,17 @@ Dalam postingan hari ini, kami mempelajari prinsip-prinsip sains kognitif dari f
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai austen-creaky-door didasarkan pada <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & Penelitian *Neuropsychologia*</strong>.
+      Konten ini didasarkan pada <strong>James Edward Austen-Leigh, *A Memoir of Jane Austen* (1869) & Penelitian *Neuropsychologia*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Perlindungan Gesekan Peralihan Tugas dari Suara Pintu Berderit
+## 1. Perlindungan Gesekan Peralihan Tugas dari Suara Pintu Berderit
 
 Gangguan luar yang tiba-tiba tanpa pemberitahuan menyebabkan <strong>'Gesekan Peralihan Tugas (Task-Switching Friction)'</strong> di otak dan memaksimalkan kerugian akibat <strong>'Sisa Perhatian (Attention Residue)'</strong>, di mana fokus tetap terikat pada tugas sebelumnya.
 
@@ -55,9 +56,7 @@ Suara pintu berderit yang dimanfaatkan Jane Austen berfungsi sebagai Sinyal Peri
 
 ---
 
-## Panduan Menjaga Fokus Saat Menghadapi Kebisingan Gangguan Luar
-
-Daripada hanya mengandalkan kemauan keras, rancanglah batasan lingkungan untuk menciptakan kondisi di mana otak tidak punya pilihan selain tetap terfokus. Membangun sinyal peringatan dini sensorik, seperti suara engsel pintu yang berderit, adalah kuncinya.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Daripada hanya mengandalkan kemauan keras, rancanglah batasan lingkungan untuk m
   </p>
 </div>
 
+---
+
+## 3. Panduan Menjaga Fokus Saat Menghadapi Kebisingan Gangguan Luar
+
+Daripada hanya mengandalkan kemauan keras, rancanglah batasan lingkungan untuk menciptakan kondisi di mana otak tidak punya pilihan selain tetap terfokus. Membangun sinyal peringatan dini sensorik, seperti suara engsel pintu yang berderit, adalah kuncinya.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Jane Austen menulis di ruang tamu dengan pintu berderit alih-alih di ruang kerja pribadi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Daripada hanya mengandalkan kemauan keras, rancanglah batasan lingkungan untuk m
       Di Inggris abad ke-19, penulis wanita sangat jarang mendapatkan ruang kerja mandiri. Austen juga harus menulis di ruang tamu bersama, sehingga ia memanfaatkan pintu yang berderit untuk menyadari kedatangan keluarga secara mendadak dan mengulur waktu untuk menyembunyikan naskahnya.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana metode ini dapat diterapkan dalam lingkungan digital modern?</span>

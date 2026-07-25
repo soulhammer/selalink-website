@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Tower of Silence: Desain Lingkungan Kontrol Stimulus Peraih Nobel Pavlov"
 description: "Pelajari rutinitas pemblokiran stimulus dari pendiri pengondisian klasik, Ivan Pavlov. Metode kontrol stimulus 3 langkah untuk menghilangkan pemborosan kognitif dengan mengelola variabel lingkungan luar."
 pubDate: "2026-02-27"
@@ -33,25 +34,23 @@ Dalam postingan ini, kita akan mempelajari prinsip ilmiah dari rutinitas isolasi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai pavlov-stimulus-control didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Pavlov Stimulus Control & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Pavlov Stimulus Control & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Teori Kontrol Stimulus' yang Memulihkan Fungsi Eksekutif
+## 1. 'Teori Kontrol Stimulus' yang Memulihkan Fungsi Eksekutif
 
 Secara neurosains, lobus frontal mengatur Fungsi Eksekutif. Namun, saat stimulus visual dan auditori tersebar, otak membuang energi untuk memfilternya. Teori <strong>'Kontrol Stimulus'</strong> meminimalkan gesekan saraf dengan memblokir pemicu lingkungan.
 
 ---
 
-## Memastikan Fleksibilitas dalam Rutinitas Kontrol Stimulus
-
-Efek samping dari terlalu ketat menuntut lingkungan bebas stimulus adalah munculnya hipersensitivitas, di mana Anda tidak bisa fokus di tempat bising. Terapkan pelatihan kontrol stimulus hanya pada blok fokus utama (1–2 jam), dan tetap bina fleksibilitas saat mengerjakan tugas sederhana di area terbuka.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Efek samping dari terlalu ketat menuntut lingkungan bebas stimulus adalah muncul
     Mulailah rutinitas fokus setiap hari di ruang dan tata letak meja yang rapi dan konsisten, untuk melakukan priming pada otak agar langsung mengaktifkan sirkuit fokus.
   </p>
 </div>
+
+---
+
+## 3. Memastikan Fleksibilitas dalam Rutinitas Kontrol Stimulus
+
+Efek samping dari terlalu ketat menuntut lingkungan bebas stimulus adalah munculnya hipersensitivitas, di mana Anda tidak bisa fokus di tempat bising. Terapkan pelatihan kontrol stimulus hanya pada blok fokus utama (1–2 jam), dan tetap bina fleksibilitas saat mengerjakan tugas sederhana di area terbuka.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

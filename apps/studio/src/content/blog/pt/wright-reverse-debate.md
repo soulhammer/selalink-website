@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inventores que trocavam de posição para debater: O método de debate reverso dos irmãos Wright"
 description: "Os irmãos Wright inventaram o primeiro avião a motor. Descubra seu método metacognitivo de trocar de lado no debate para superar desafios e sua aplicação moderna."
 pubDate: "2026-03-04"
@@ -35,25 +36,23 @@ Este artigo explora como o debate reverso supera vieses cognitivos e oferece um 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre wright-reverse-debate é baseada em <strong>Biografias históricas e registros autobiográficos sobre os irmãos Wright e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos sobre os irmãos Wright e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Reestruturação metacognitiva' para neutralizar o viés de confirmação
+## 1. 'Reestruturação metacognitiva' para neutralizar o viés de confirmação
 
 Uma vez concebida uma ideia, o cérebro tende a coletar apenas dados que a confirmem, ignorando falhas—o chamado Viés de Confirmação. O debate reverso dos irmãos Wright funcionava como Reestruturação Cognitiva. Ao defenderem a posição oposta, o córtex pré-frontal liberava o apego emocional à hipótese original, ativando circuitos metacognitivos para identificar falhas com imparcialidade.
 
 ---
 
-## Duvidar dos seus próprios argumentos abre caminho para a verdade
-
-Para aperfeiçoar uma grande ideia, você deve primeiro desapegar-se dela. Os irmãos Wright alcançaram o milagre do voo humano assumindo a mente do outro todas as noites para testar rigorosamente suas teses. Quando a inflexibilidade surgir, mude sua perspectiva em 180 graus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para aperfeiçoar uma grande ideia, você deve primeiro desapegar-se dela. Os ir
   </p>
 </div>
 
+---
+
+## 3. Duvidar dos seus próprios argumentos abre caminho para a verdade
+
+Para aperfeiçoar uma grande ideia, você deve primeiro desapegar-se dela. Os irmãos Wright alcançaram o milagre do voo humano assumindo a mente do outro todas as noites para testar rigorosamente suas teses. Quando a inflexibilidade surgir, mude sua perspectiva em 180 graus.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Posso usar essa rotina trabalhando sozinho sem um parceiro para debater?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para aperfeiçoar uma grande ideia, você deve primeiro desapegar-se dela. Os ir
       Com certeza. Escreva sua tese no papel e assuma o papel de 'Advogado do Diabo', escrevendo um relatório crítico como se fosse seu maior concorrente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como realizar um debate reverso sem ferir os sentimentos da outra pessoa?</span>

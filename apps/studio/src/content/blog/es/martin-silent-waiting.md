@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Una mente como un lienzo en blanco: La rutina de espera silenciosa de Agnes Martin"
 description: "La pintora Agnes Martin se sentaba en una silla ante el lienzo a esperar hasta que desaparecieran todos los pensamientos distractores antes de pintar. Descubra la ciencia cognitiva de la meditación para limpiar el ruido cerebral."
 pubDate: "2026-06-12"
@@ -36,22 +37,20 @@ En la publicación de hoy, examinamos cómo el ritual de espera de Agnes Martin 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre martin-silent-waiting se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Agnes Martin e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Agnes Martin e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reducción del ruido cognitivo y sincronización de ondas Alfa-Theta
+## 1. Reducción del ruido cognitivo y sincronización de ondas Alfa-Theta
 
 El cerebro moderno emite constantemente ondas Beta rápidas bajo la presión de resolver problemas sin pausa. Este estado amplifica el ruido cognitivo y bloquea la intuición. Al detener conscientemente la acción y enfocar el silencio interior, el cerebro cambia de <strong>Ondas Alfa (Alpha Waves)</strong> relajantes a <strong>Ondas Theta (Theta Waves)</strong> de profunda reflexión. Esta sincronización levanta el filtro lógico defensivo de la corteza prefrontal, activando soluciones óptimas enterradas en la memoria a largo plazo.
 
 ---
 
-## Precauciones y consejos
-
-Tenga cuidado de no caer en la trampa de 'luchar contra sus pensamientos' al intentar vaciar la mente. Tratar de reprimir los pensamientos hace que el cerebro se obsesione más con ellos, un fenómeno conocido como 'Efecto Rebote (Rebound Effect)'. En lugar de forzarlos, obsérvelos como nubes pasajeras, reconózcalos sin juzgar y devuelva suavemente su atención a la respiración mediante la atención plena (Mindfulness).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Tenga cuidado de no caer en la trampa de 'luchar contra sus pensamientos' al int
     Una vez que la niebla mental se disipe y sienta un enfoque claro, abra únicamente la tarea esencial más importante y comience a trabajar.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Tenga cuidado de no caer en la trampa de 'luchar contra sus pensamientos' al intentar vaciar la mente. Tratar de reprimir los pensamientos hace que el cerebro se obsesione más con ellos, un fenómeno conocido como 'Efecto Rebote (Rebound Effect)'. En lugar de forzarlos, obsérvelos como nubes pasajeras, reconózcalos sin juzgar y devuelva suavemente su atención a la respiración mediante la atención plena (Mindfulness).
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

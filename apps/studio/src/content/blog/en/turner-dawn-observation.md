@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Engraving Light on the Brain? Turner's Dawn Sunrise Contrast Sensitivity Observation Method"
 description: "The painter of light J.M.W. Turner's original color expression was born from his daily habit of gazing at the sunrise at dawn. Discover Turner's color gazing method that activates visual cognition in the brain."
 pubDate: "2026-02-27"
@@ -36,14 +37,14 @@ This routine is not a mere one-time habit, but is based on a thorough scientific
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding turner-dawn-observation is based on <strong>Historical biographies and autobiographical records of J.M.W. Turner & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of J.M.W. Turner & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Gradual Changes in Light Stimulating the Visual Cortex
+## 1. Gradual Changes in Light Stimulating the Visual Cortex
 
 The sky at sunrise undergoes a rapid change in color temperature within a short time, shifting from low blue light to bright natural daylight. This gradual visual stimulation highly trains the contrast sensitivity of the brain's visual cortex.
 
@@ -51,9 +52,7 @@ Training oneself to elaborate visual information in the mind and engrave it in t
 
 ---
 
-## Caution: Do Not Gaze Directly at Intense Sunlight
-
-The core of Turner's routine is not to look directly at the strong light source of the sun. It is to observe the soft scattered light spreading through the faint sky, mist, or clouds just before sunrise. To prevent retinal damage, avoid looking directly at intense sunlight for extended periods.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The core of Turner's routine is not to look directly at the strong light source 
   </p>
 </div>
 
+---
+
+## 3. Caution: Do Not Gaze Directly at Intense Sunlight
+
+The core of Turner's routine is not to look directly at the strong light source of the sun. It is to observe the soft scattered light spreading through the faint sky, mist, or clouds just before sunrise. To prevent retinal damage, avoid looking directly at intense sunlight for extended periods.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Should I practice this routine even on cloudy or foggy days?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The core of Turner's routine is not to look directly at the strong light source 
       It is actually better. Turner preferred observing the scattered atmospheric light on cloudy, snowy, or foggy days over bright sunny days. On overcast days, you can capture the subtle shade transitions created by light and atmospheric moisture much better.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it okay to observe sunlight during the day if I struggle to wake up early at dawn?</span>

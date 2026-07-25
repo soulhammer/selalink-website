@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El gran estratega del siglo? La rutina de ejecución de guqin al amanecer y estrategia astronómica de Zhuge Liang"
 description: "Descubra cómo Zhuge Liang, primer ministro de Shu Han durante los Tres Reinos, logró un control mental avanzado mediante la ejecución del guqin al amanecer y observaciones astronómicas nocturnas en medio de complejas situaciones políticas."
 pubDate: "2026-01-15"
@@ -36,14 +37,14 @@ En la publicación de hoy, exploramos la ciencia cognitiva detrás de la rutina 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre zhuge-liang-guqin-strategy se basa en <strong>Examen de biografías históricas y registros de Zhuge Liang e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Examen de biografías históricas y registros de Zhuge Liang e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bloqueo de la sobrecarga emocional y mejora del juicio espacial macro mediante la inducción de ondas alfa
+## 1. Bloqueo de la sobrecarga emocional y mejora del juicio espacial macro mediante la inducción de ondas alfa
 
 Ante tareas cruciales o elevada ansiedad, la <strong>Amígdala</strong> cerebral se hiperactiva, estrechando la visión y provocando indecisión.
 
@@ -51,9 +52,7 @@ La ejecución del guqin y la observación serena de las estrellas de Zhuge Liang
 
 ---
 
-## Reduzca el ruido y los estímulos para asegurar un estado interno de silencio
-
-Como señala la famosa máxima de Zhuge Liang, sin tranquilidad no se puede llegar lejos. Bloquee las noticias ruidosas o las notificaciones de redes sociales y asegure 10 minutos de relajación e inmovilidad intencional. No confíe únicamente en la fuerza de voluntad; diseñar previamente un entorno físico y señales de hábitos que desencadenen la acción de forma natural es la clave de la sostenibilidad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Como señala la famosa máxima de Zhuge Liang, sin tranquilidad no se puede lleg
   </p>
 </div>
 
+---
+
+## 3. Reduzca el ruido y los estímulos para asegurar un estado interno de silencio
+
+Como señala la famosa máxima de Zhuge Liang, sin tranquilidad no se puede llegar lejos. Bloquee las noticias ruidosas o las notificaciones de redes sociales y asegure 10 minutos de relajación e inmovilidad intencional. No confíe únicamente en la fuerza de voluntad; diseñar previamente un entorno físico y señales de hábitos que desencadenen la acción de forma natural es la clave de la sostenibilidad.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es efectivo incluso si no sé tocar un instrumento yo mismo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Como señala la famosa máxima de Zhuge Liang, sin tranquilidad no se puede lleg
       Sí, la mera inmersión auditiva concentrada al escuchar música orquestal o de cuerda acústica con resonancia única produce los mismos efectos de inducción de ondas alfa.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Por qué elegir solo 1 tarea entre los numerosos pendientes?</span>

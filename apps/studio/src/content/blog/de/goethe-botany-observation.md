@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Literaturgigant, der Samen im Garten sammelte: Goethes morgendliche Beobachtungsgewohnheit und Aufmerksamkeitserholung"
 description: "Erfahren Sie, wie Johann Wolfgang von Goethe durch die morgendliche Pflanzenbeobachtung mit der Lupe tiefe Inspiration gewann. Entdecken Sie die Theorie der Wiederherstellung der Aufmerksamkeit (ART) und Goethes Routine."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Umweltpsychologie und Neurowissenschafte
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu goethe-botany-observation basiert auf <strong>Historische Überprüfung aus Johann Wolfgang von Goethes *Dichtung und Wahrheit* & *Versuch die Metamorphose der Pflanzen*, Weimarer Museumsarchiven & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Johann Wolfgang von Goethes *Dichtung und Wahrheit* & *Versuch die Metamorphose der Pflanzen*, Weimarer Museumsarchiven & Forschung der kognitiven Neurowissenschaften und Umweltpsychologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Naturerlebnis und die Neurowissenschaften der Theorie der Wiederherstellung der Aufmerksamkeit (ART)
+## 1. Naturerlebnis und die Neurowissenschaften der Theorie der Wiederherstellung der Aufmerksamkeit (ART)
 
 Das Analysieren von Daten auf Bildschirmen oder das Lesen dichter Texte versetzt den präfrontalen Kortex in den Zustand der dauerhaften <strong>gerichteten Aufmerksamkeit (Directed Attention)</strong>. Dies führt zu Erschöpfung. Nach Stephen Kaplans <strong>Theorie der Wiederherstellung der Aufmerksamkeit (ART)</strong> aktiviert das Betrachten von Naturelementen (fraktale Strukturen, Blätterrauschen, Samenmuster) die 'sanfte Faszination' (unwillkürliche Aufmerksamkeit) ohne Anstrengung. Ein 15-minütiger Beobachtungsspaziergang entlastet das Stirnhirn und senkt den Cortisolspiegel.
 
 ---
 
-## Vorsichtsmaßnahme: Regeln zur Betrachtung natürlicher Fraktale zur Erholung des Stirnhirns
-
-Bildschirmtexte und Infografiken verlangen gerichtete Aufmerksamkeit und ermüden das Stirnhirn. Das 15-minütige Betrachten natürlicher Fraktalstrukturen (Blattadern, Rindenmuster, Samenspiralen) aktiviert die Erholung des Gehirns ohne Anstrengung. Vermeiden Sie während des Spaziergangs den Blick auf Smartphones, um eine vollständige Regeneration zu erreichen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Bildschirmtexte und Infografiken verlangen gerichtete Aufmerksamkeit und ermüde
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Regeln zur Betrachtung natürlicher Fraktale zur Erholung des Stirnhirns
+
+Bildschirmtexte und Infografiken verlangen gerichtete Aufmerksamkeit und ermüden das Stirnhirn. Das 15-minütige Betrachten natürlicher Fraktalstrukturen (Blattadern, Rindenmuster, Samenspiralen) aktiviert die Erholung des Gehirns ohne Anstrengung. Vermeiden Sie während des Spaziergangs den Blick auf Smartphones, um eine vollständige Regeneration zu erreichen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist das Betrachten von Zimmerpflanzen oder Topfblumen zur Aufmerksamkeitserholung wirksam?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Bildschirmtexte und Infografiken verlangen gerichtete Aufmerksamkeit und ermüde
       Ja. Das Untersuchen von Mustern an Zimmerpflanzen aktiviert die sanfte Faszination und senkt die Ermüdung. Die Beobachtung im Freien in Kombination mit Tageslicht und Bewegung erzielt jedoch die besten Erfolge für die kognitive Regeneration.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Muss man wie Goethe tatsächlich eine Lupe und Sammeltüten bei sich tragen?</span>

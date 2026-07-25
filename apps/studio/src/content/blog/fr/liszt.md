@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jouer une touche par seconde sans erreur en ralentissant le tempo : La routine d'apprentissage cérébelleux et de myélinisation de Franz Liszt"
 description: "Découvrez comment le pianiste virtuose Franz Liszt a maîtrisé une précision légendaire en ralentissant le tempo à une touche par seconde. Explorez la neuroscience de l'apprentissage moteur cérébelleux, la myélinisation et un guide en 3 étapes."
 pubDate: "2026-04-14"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant liszt est basée sur <strong>Vérification Historique issue de la biographie d'Alan Walker *Franz Liszt: The Virtuoso Years*, des archives de Liszt & de la Recherche en Neurosciences Cognitives et Sciences de l'Apprentissage Moteur</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Alan Walker *Franz Liszt: The Virtuoso Years*, des archives de Liszt & de la Recherche en Neurosciences Cognitives et Sciences de l'Apprentissage Moteur</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Précision de l'apprentissage moteur cérébelleux et myélinisation
+## 1. Précision de l'apprentissage moteur cérébelleux et myélinisation
 
 Ralentir l'exécution d'un mouvement pour contrôler la précision musculaire sollicite les circuits de régulation du <strong>Cervelet</strong>. Répéter des trajectoires parfaites à vitesse réduite stimule l'enveloppement des axones par de la <strong>Myéline (Myelin)</strong>. Cette isolation lipidique accélère la vitesse de conduction nerveuse et la précision, établissant des circuits d'<strong>Apprentissage sans erreur (Errorless Learning)</strong> qui empêchent le cerveau d'enregistrer de mauvais réflexes.
 
 ---
 
-## Mise en garde : Éliminer la vitesse et la tension musculaire pour s'immerger dans la pratique lente sans erreur
-
-Évitez de crisper vos muscles sur l'instrument ou l'outil et de vous précipiter pour terminer rapidement. Éliminez toute tension inutile et concentrez-vous sur des mouvements lents le long de trajectoires parfaites pour graver une précision absolue dans le cervelet. Privilégier une exécution lente sans défaut sur la vitesse constitue l'essentiel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ralentir l'exécution d'un mouvement pour contrôler la précision musculaire so
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer la vitesse et la tension musculaire pour s'immerger dans la pratique lente sans erreur
+
+Évitez de crisper vos muscles sur l'instrument ou l'outil et de vous précipiter pour terminer rapidement. Éliminez toute tension inutile et concentrez-vous sur des mouvements lents le long de trajectoires parfaites pour graver une précision absolue dans le cervelet. Privilégier une exécution lente sans défaut sur la vitesse constitue l'essentiel.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les personnes qui ne jouent pas d'un instrument peuvent-elles aussi bénéficier de cette méthode lente ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ralentir l'exécution d'un mouvement pour contrôler la précision musculaire so
       Oui, tout à fait ! Le principe s'applique à tout mouvement : frappe de raccourcis clavier, swing au golf ou au tennis, ou chorégraphie de gestes lors de prises de parole. Ralentir pour éliminer toute erreur accélère la myélinisation dans le cervelet, renforçant la précision à grande vitesse.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment appliquer cette routine sans piano ni équipement spécifique sous la main ?</span>

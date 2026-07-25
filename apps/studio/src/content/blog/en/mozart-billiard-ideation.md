@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Genius Who Played Billiards When Blocked: Mozart's Default Mode Activation Habit"
 description: "Wolfgang Amadeus Mozart engaged his subconscious brain (DMN) by playing billiards whenever musical inspiration stalled. Discover the scientific secret of how cognitive rest generates creative breakthroughs and a 15-minute visuospatial play routine."
 pubDate: "2026-05-01"
@@ -34,14 +35,14 @@ In this article, we explore the neuroscientific mechanisms behind Mozart's billi
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding mozart-billiard-ideation is based on <strong>Mozart Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Mozart Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Subconscious Brain and the 'Default Mode Network'
+## 1. The Subconscious Brain and the 'Default Mode Network'
 
 Staring endlessly at a screen to solve a difficult problem oversaturates the working memory in the prefrontal cortex, trapping the brain in mental stagnation. Conversely, diverting attention toward light physical play that involves predicting visuospatial trajectories—such as billiards—activates the Default Mode Network (DMN).
 
@@ -49,11 +50,7 @@ The DMN is an unconscious synthesis mechanism that operates when the conscious b
 
 ---
 
-## A Neuroscientific Tip for a Successful Routine
-
-<strong>Creativity comes from alternation, not forced concentration</strong>
-
-A brain obsessed with a single idea gets trapped in tunnel vision, blocking new connections. Sitting forcibly when mentally exhausted only consumes cognitive energy. Just as Mozart activated his subconscious brain by the billiard table to yield immortal musical trajectories, stand up immediately when blocked and trigger your DMN through light spatial play.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ A brain obsessed with a single idea gets trapped in tunnel vision, blocking new 
     Sit back down and review your project. Often, a new path or creative breakthrough synthesized during rest will naturally surface into conscious awareness.
   </p>
 </div>
+
+---
+
+## 3. A Neuroscientific Tip for a Successful Routine
+
+<strong>Creativity comes from alternation, not forced concentration</strong>
+
+A brain obsessed with a single idea gets trapped in tunnel vision, blocking new connections. Sitting forcibly when mentally exhausted only consumes cognitive energy. Just as Mozart activated his subconscious brain by the billiard table to yield immortal musical trajectories, stand up immediately when blocked and trigger your DMN through light spatial play.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

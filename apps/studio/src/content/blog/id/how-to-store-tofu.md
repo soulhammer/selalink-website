@@ -21,6 +21,7 @@ faqs:
     answer: "No, tofu spoils quickly if exposed to air. Always submerge it completely in clean water with a pinch of salt in a sealed container, and change water daily."
   - question: "Does freezing tofu change its texture?"
     answer: "Yes, frozen tofu turns into a sponge-like structure with tiny pores. This unique texture absorbs soups and sauces incredibly well."
+
 ---
 
 Apakah Anda menuangkan air kemasan asli saat menyimpan sisa tahu? Air kemasan adalah tempat bakteri berkembang biak. Hari ini, FreshSnap membagikan panduan penyimpanan tahu agar awet 7 hari.
@@ -29,10 +30,10 @@ Apakah Anda menuangkan air kemasan asli saat menyimpan sisa tahu? Air kemasan ad
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Otoritas Ilmiah Terverifikasi
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Panduan penyimpanan ini didasarkan pada pedoman keselamatan resmi dari: <strong>MFDS & USDA</strong>.
+      Based on official storage standards. <strong>MFDS & USDA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Buang air kemasan dan bilas dengan air mengalir — Penyimpanan Dingin (7Hari) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rendam dalam air dingin dengan sejumput garam — Penyimpanan Beku (21Hari) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpana
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">LANGKAH 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ganti air setiap hari — Menjaga kesegaran 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

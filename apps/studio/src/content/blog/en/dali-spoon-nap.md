@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Genius Who Painted the Universe with a Spoon: Salvador Dalí's Brain Reset Nap and Hypnagogia Capture Routine"
 description: "Explore how Surrealist master Salvador Dalí sat in a chair holding a metal spoon to catch brilliant artistic ideas upon awakening. Discover the cognitive neuroscience of capturing theta-wave hypnagogic states and subconscious associative synthesis."
 pubDate: "2026-03-07"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Salvador Dalí's 'spoon
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding dali-spoon-nap is based on <strong>Historical Verification from Salvador Dalí's Autobiography *The Secret Life of Salvador Dalí* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Salvador Dalí's Autobiography *The Secret Life of Salvador Dalí* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation of Theta Waves During Hypnagogia and Subconscious Associative Synthesis
+## 1. Activation of Theta Waves During Hypnagogia and Subconscious Associative Synthesis
 
 Entering the threshold between wakefulness and sleep—known as 'Hypnagogia' (NREM Stage 1)—shifts brainwaves from high-frequency beta states into 4–8 Hz Theta Waves. During this transition, prefrontal executive censorship and logical inhibition circuits temporarily quiet down. Unconstrained synaptic firing across associative cortices allows disparate, bizarre concepts to merge into highly creative syntheses. Dalí's spoon-drop mechanism served as a mechanical circuit breaker, halting the descent into NREM Stage 3 slow-wave sleep. This prevented post-awakening 'Sleep Inertia' while perfectly capturing the fleeting, high-density creative imagery generated during theta-dominant hypnagogia.
 
 ---
 
-## Caution & Tips: Instant Externalization Within 5 Seconds & Eliminating Delay
-
-If you hesitate in groggy contemplation after being awakened by the sound, hypnagogic images will decay completely within seconds. The defining factor of this routine is decisive speed: the instant the metallic clatter strikes your ears, open your eyes and sketch or jott down the visual residual images onto a notepad or memo app within 5 seconds without intellectualizing.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ If you hesitate in groggy contemplation after being awakened by the sound, hypna
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Instant Externalization Within 5 Seconds & Eliminating Delay
+
+If you hesitate in groggy contemplation after being awakened by the sound, hypnagogic images will decay completely within seconds. The defining factor of this routine is decisive speed: the instant the metallic clatter strikes your ears, open your eyes and sketch or jott down the visual residual images onto a notepad or memo app within 5 seconds without intellectualizing.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why specifically did Salvador Dalí choose a metal spoon to hold during his naps?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ If you hesitate in groggy contemplation after being awakened by the sound, hypna
       Holding a spoon converted the exact physical muscle relaxation of sleep onset into a sound signal that awakened him instantly. This prevented his brain from entering NREM Stage 3 slow-wave sleep—avoiding sleep inertia—while enabling him to harvest uninhibited hypnagogic surrealist imagery.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I adapt this routine in noise-sensitive environments like offices or libraries?</span>

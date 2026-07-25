@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "대화로 직조한 물리학: 닐스 보어의 구술 토론과 메타인지 집필법"
 description: "양자역학의 거장 닐스 보어가 동료들과의 구술 토론과 구술 필기를 통해 복잡한 물리 논문을 완성했던 독특한 루틴. 내면의 아이디어를 외적 언어로 객관화하여 메타인지를 활성화하는 신경과학적 원리를 밝힙니다."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>아브라함 파이스 평전 『닐스 보어 평전(Niels Bohr's Times: In Physics, Philosophy, and Polity)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 bohr-dialogue-dictation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>아브라함 파이스 평전 『닐스 보어 평전(Niels Bohr's Times: In Physics, Philosophy, and Polity)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 내적 언어의 외재화와 메타인지 활성화의 신경 메커니즘
+## 1. 내적 언어의 외재화와 메타인지 활성화의 신경 메커니즘
 
 머릿속으로만 생각하는 '내적 언어(Inner Speech)'는 논리적 비약과 모호함이 숨겨져 있어 복잡한 문제를 해결할 때 착시를 일으키기 쉽습니다. 이를 소리 내어 밖으로 표현하는 '외적 언어(External Speech)'로 치환하는 순간, 뇌는 자신의 아이디어를 제3자의 관점에서 객관적으로 청취하며 가공하는 메타인지(Metacognition) 회로를 작동시킵니다. 특히 보어처럼 상대방의 반응과 즉각적인 질의응답이라는 사회적 자극을 결합하면, 좌우 뇌의 언어 피질과 집행 제어 네트워크가 강하게 연쇄 가동하여 흩어져 있던 무의식적 직관을 명료한 논리 체계로 정교하게 재조합합니다.
 
 ---
 
-## 주의사항 및 팁: 비목적적 잡담 경계 및 구조화된 시간 규격 설정
-
-구술 대화 습관을 적용할 때 가장 큰 함정은 논점이 흐려진 잡담으로 대화가 빠지는 것입니다. 명확한 문제 가이드라인 없이 토론을 시작하면 인지적 에너지와 시간만 소모되고 본래의 구체화 목적을 잃어버리기 쉽습니다. 구술 대화를 시작할 때는 해결하려는 '단 하나의 명확한 질문'을 상대방에게 선언한 후 논의에 돌입해야 하며, 15 ~ 20분 내외의 집중된 대화 타임 블록을 설정하여 긴장감을 유지해야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 비목적적 잡담 경계 및 구조화된 시간 규격 설정
+
+구술 대화 습관을 적용할 때 가장 큰 함정은 논점이 흐려진 잡담으로 대화가 빠지는 것입니다. 명확한 문제 가이드라인 없이 토론을 시작하면 인지적 에너지와 시간만 소모되고 본래의 구체화 목적을 잃어버리기 쉽습니다. 구술 대화를 시작할 때는 해결하려는 '단 하나의 명확한 질문'을 상대방에게 선언한 후 논의에 돌입해야 하며, 15 ~ 20분 내외의 집중된 대화 타임 블록을 설정하여 긴장감을 유지해야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>대화를 나눌 파트너나 동료가 없는 1인 환경에서는 어떻게 실천하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       스마트폰의 음성 메모나 AI 녹음 앱을 켜두고 가상의 청자에게 설명하듯 소리 내어 말하는 것으로 대체할 수 있습니다. 핵심은 청자의 실제 유무가 아니라, 내면의 생각을 소리(외적 언어)로 변환해 뇌로 다시 청취하는 인지 자극 프로세스에 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>구술 토론 중 나온 대화 내용을 어떻게 생산적인 문서 결과물로 연결하나요?</span>

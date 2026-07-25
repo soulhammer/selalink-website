@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "涵养忍耐与平静的心流节律：德川家康的生药研磨习惯与血清素神经调控"
 description: "深度剖析德川家康的心智修养术。揭示每日亲手用药研/擂钵研磨生药节律运动对刺激血清素分泌、平抚杏仁核警报与建构掌控力的神经科学原理及3步骤指南。"
 pubDate: "2026-04-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 ieyasu-herb-grinding 的内容基于 <strong>德川家康传记与德川美术馆（Tokugawa Art Museum）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>德川家康传记与德川美术馆（Tokugawa Art Museum）史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 血清素（Serotonin）激活与平抚杏仁核的节律运动神经科学
+## 1. 血清素（Serotonin）激活与平抚杏仁核的节律运动神经科学
 
 在生理学层面，以恒定速度与力度重复进行的躯体活动即<strong>“节律运动（Rhythmic Movement）”</strong>，能强力刺激中枢神经系统以极大化分泌主导情绪调节的关键神经递质——<strong>血清素（Serotonin）</strong>。此类匀速手作触觉刺激能有效抑制主导冲动与恐惧的大脑<strong>杏仁核（Amygdala）</strong>过度警报，修复<strong>前额叶皮层（Prefrontal Cortex）</strong>的理性执掌控制力，使人在遭遇极限高压时依然能够维系不为所动的镇定自若与沉稳忍耐。
 
 ---
 
-## 注意事项：排遣急躁心态，专注恒速手作节律指南
-
-当内心浮躁与不安盘踞时，切勿死磕意志力去压制情绪。相反，须将指尖的注意力全情定格于用药研、擂钵或咖啡磨豆机以恒定速率旋转研磨的极简手作节律中，以此开启大脑神经网络的血清素开关，乃是复苏平静的绝对关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：排遣急躁心态，专注恒速手作节律指南
+
+当内心浮躁与不安盘踞时，切勿死磕意志力去压制情绪。相反，须将指尖的注意力全情定格于用药研、擂钵或咖啡磨豆机以恒定速率旋转研磨的极简手作节律中，以此开启大脑神经网络的血清素开关，乃是复苏平静的绝对关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>亲手研磨生药的躯体动作，在原理上究竟如何帮助达致情绪稳定？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       因为以恒定速率重复的节奏动作能强力拉动大脑血清素神经系统，平抚杏仁核过度的警报应激，并让前额叶皮层的理性掌控力恢复原位。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若现实中缺乏实体药研或擂钵，在现代日常生活中有哪些等效替代方案？</span>

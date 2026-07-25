@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Entdeckung kreativer Sichtweisen: Shin Saimdangs hochpräzise Naturbeobachtungsroutine"
 description: "Die Kreativitätstraining-Methode der bedeutenden Künstlerinnen der Joseon-Dynastie, Shin Saimdang, durch Naturbeobachtung. Erklärt die wissenschaftlichen Grundlagen, wie morgendliche Naturbeobachtung die Aufmerksamkeit regeneriert."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ Im heutigen Beitrag beleuchten wir die Aufmerksamkeit-Restorationstheorie und da
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu saimdang-nature-observation basiert auf <strong>Historische Biografie-Forschung zu Shin Saimdangs Naturbeobachtung & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie-Forschung zu Shin Saimdangs Naturbeobachtung & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aufmerksamkeits-Restorationstheorie und Gehirnheilung durch 'sanfte Faszination'
+## 1. Aufmerksamkeits-Restorationstheorie und Gehirnheilung durch 'sanfte Faszination'
 
 Gemäß der Aufmerksamkeits-Restorationstheorie führt 'gerichtete Aufmerksamkeit' auf digitalen Bildschirmen zu starker kognitiver Erschöpfung im präfrontalen Kortex. Das entspannte Betrachten von Natur Elementen versetzt das Gehirn in einen Zustand 'sanfter Faszination', was kognitive Reserven auflädt und kreative Visualisierungsnetzwerke aktiviert.
 
 ---
 
-## Saimdangs Ratschlag zur Regeneration von Inspiration und Geist
-
-Weise Kreativität entspringt nicht durch Errzwingen. Treten Sie kurz vom Schreibtisch zurück, betrachten Sie still einen Grashalm oder ein Insekt und gönnen Sie Ihrem Gehirn eine Pause. In natürlicher Entspannung lädt sich das Gehirn von selbst auf.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Weise Kreativität entspringt nicht durch Errzwingen. Treten Sie kurz vom Schrei
     Kehren Sie zurück und halten Sie das Objekt mindestens einmal täglich analog fest – als Bleistiftskizze, kurze Beschreibung oder Skizze –, um visuelles Denken zu verinnerlichen.
   </p>
 </div>
+
+---
+
+## 3. Saimdangs Ratschlag zur Regeneration von Inspiration und Geist
+
+Weise Kreativität entspringt nicht durch Errzwingen. Treten Sie kurz vom Schreibtisch zurück, betrachten Sie still einen Grashalm oder ein Insekt und gönnen Sie Ihrem Gehirn eine Pause. In natürlicher Entspannung lädt sich das Gehirn von selbst auf.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

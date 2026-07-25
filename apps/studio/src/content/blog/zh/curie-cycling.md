@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "战胜镭研究压力的秘诀：玛丽·居里的傍晚骑行与BDNF诱导法"
 description: "探索首位获得诺贝尔奖且在物理与化学两大领域均获殊荣的传奇科学家玛丽·居里在面对极度疲劳与镭研究压力时保护大脑的习惯，揭示通过傍晚骑行促进BDNF分泌与前额叶供氧的认知神经科学原理。"
 pubDate: "2026-02-28"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 curie-cycling 的内容基于 <strong>艾芙·居里传记《居里夫人传（Madame Curie）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>艾芙·居里传记《居里夫人传（Madame Curie）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 节律踩踏推动BDNF分泌与前额叶重置的神经生理学
+## 1. 节律踩踏推动BDNF分泌与前额叶重置的神经生理学
 
 在骑行过程中以稳定节律踩踏脚踏板的有氧运动，能大幅增加投向大脑皮层的血流量，并强效促进脑源性神经营养因子（BDNF，Brain-Derived Neurotrophic Factor）的分泌。BDNF能够增强脑细胞的神经可塑性，并急速拉低因高强度研究与复杂工作所积聚的皮质醇（Cortisol）水平。这项傍晚骑行习惯能为疲惫的前额叶神经网络源源不断地输送氧气与葡萄糖，是同时达成情绪松弛与认知重置的强效大脑工程学恢复机制。
 
 ---
 
-## 注意事项与提示：避免运动期间联想工作难题与专注五感体验
-
-在骑行或骑行间隙，务必严加阻断在脑海中反复回想复杂研究公式或职场难题的行为。若在运动时持续拉动工作记忆（Working Memory），前额叶皮层便无法切入恢复状态，从而使BDNF分泌带来的神经重置效果大打折扣。骑行时，请将100%的感官注意力集聚于微风吹拂的触感、掠过风景的视觉提示以及踩踏脚踏板的肉体节律中，如此方能卸下大脑的认知过载。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：避免运动期间联想工作难题与专注五感体验
+
+在骑行或骑行间隙，务必严加阻断在脑海中反复回想复杂研究公式或职场难题的行为。若在运动时持续拉动工作记忆（Working Memory），前额叶皮层便无法切入恢复状态，从而使BDNF分泌带来的神经重置效果大打折扣。骑行时，请将100%的感官注意力集聚于微风吹拂的触感、掠过风景的视觉提示以及踩踏脚踏板的肉体节律中，如此方能卸下大脑的认知过载。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>居里夫妇当年为何特意要求将自行车作为新婚礼物？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       相比于繁复奢华的婚礼仪式或昂贵家居用品，自行车是一项能让他们穿梭于法国乡村与大自然中共同沉思、释放研究压力的极实用且健康的工具。这两辆自行车既陪伴他们度过了婚礼蜜月，更成为了贯穿其一生的精神支柱。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在没有自行车条件或缺乏骑行步道时，是否有可替代的有氧运动习惯？</span>

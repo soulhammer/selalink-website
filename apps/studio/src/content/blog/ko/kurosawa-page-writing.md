@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "거장의 위대한 시작: 아키라 구로사와 감독의 하루 2페이지 시나리오 루틴과 편도체 안정화"
 description: "세계적인 거장 아키라 구로사와 감독이 매일 실천한 하루 2페이지 시나리오 쓰기 습관. 목표를 극단적으로 잘게 쪼개어 편도체의 위협 반응을 억제하고 전전두엽 집행 기능을 가동하는 뇌과학적 원리와 3단계 실천 가이드를 소개합니다."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>구로사와 아키라 자서전 『기꺼이 자서전 비슷한 것을(Something Like an Autobiography)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 행동심리학(Behavioral Psychology) 연구</strong>에 근거하여 kurosawa-page-writing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>구로사와 아키라 자서전 『기꺼이 자서전 비슷한 것을(Something Like an Autobiography)』 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 행동심리학(Behavioral Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 편도체(Amygdala) 위협 반응 억제와 미세 목표(Micro-Goal)의 뇌과학
+## 1. 편도체(Amygdala) 위협 반응 억제와 미세 목표(Micro-Goal)의 뇌과학
 
 목표의 규모가 지나치게 거대하면 뇌의 감정 중추인 <strong>편도체(Amygdala)</strong>는 이를 거대한 불안이나 위협으로 감지하여 무의식적인 회피와 미루기 행동을 유발합니다. 하루 2페이지 작성과 같이 목표를 극단적인 단위로 낮추면 뇌의 거부 반응을 저지하여 <strong>전전두엽(Prefrontal Cortex)</strong>이 주도하는 집행 기능을 즉각 작동시킬 수 있습니다. 이러한 <strong>미세 목표(Micro-Goal)</strong> 접근법은 뇌의 억제적 행동 저항을 무력화하여 장기 과업을 완료하는 데 필요한 <strong>집행 기능(Executive Function)</strong>을 안정적으로 지속시킵니다.
 
 ---
 
-## 거대한 과업 압박을 배제하고 일일 미세 목표 완수에 집중하는 수칙
-
-프로젝트의 전체 규모를 상상하면 뇌가 인지적 중압감을 느껴 시도조차 포기하기 쉽습니다. 오늘 완수해야 할 단 하나의 작은 미세 목표(예: 문서 2장 쓰기)에만 의식을 한정하세요. 무리한 의지력에 의존하기보다, 매일 정해진 시각에 2페이지를 채우는 환경 조건을 구축하는 것이 거대한 성과를 완성하는 본질입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 거대한 과업 압박을 배제하고 일일 미세 목표 완수에 집중하는 수칙
+
+프로젝트의 전체 규모를 상상하면 뇌가 인지적 중압감을 느껴 시도조차 포기하기 쉽습니다. 오늘 완수해야 할 단 하나의 작은 미세 목표(예: 문서 2장 쓰기)에만 의식을 한정하세요. 무리한 의지력에 의존하기보다, 매일 정해진 시각에 2페이지를 채우는 환경 조건을 구축하는 것이 거대한 성과를 완성하는 본질입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>하루 목표치가 2페이지 정도로 너무 작으면 성과가 너무 더디지 않을까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       그렇지 않습니다. 목표가 크면 시작에 대한 부담감 때문에 미루다가 아예 아무것도 완수하지 못하는 경우가 다반사입니다. 극단적으로 작은 목표로 매일 행동의 물꼬를 터주는 것이 1년간 누적되었을 때 시나리오 2편 분량의 막대한 복리 성과로 연결됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>글쓰기가 아닌 일반 회사 업무나 시험 공부에도 이 2페이지 루틴을 적용할 수 있나요?</span>

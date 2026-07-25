@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "매일 오전 4시간 동안 가족도 접근을 금지한 소설가? 토마스 만의 환경 통제 몰입법"
 description: "독일의 노벨 문학상 수상 작가 토마스 만은 매일 아침 9시부터 1시까지 외부 자극과 완전히 단절된 채 집필했습니다. 전두엽의 인지 에너지 고갈을 방지하는 환경 통제 원리와 현대적 무자극 몰입법을 알아봅니다."
 pubDate: "2026-01-24"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>토마스 만 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mann-strict-schedule 루틴을 다룹니다.
+      본 콘텐츠는 <strong>토마스 만 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 환경 제어와 대뇌 피질의 인지 피로 예방
+## 1. 환경 제어와 대뇌 피질의 인지 피로 예방
 
 뇌의 의지력과 복잡한 문제 해결을 조율하는 전두엽 피질(Prefrontal Cortex)의 인지적 에너지(글루코스 및 에너자이저 성분)는 아침 시간에 가장 높지만, 그 한계 용량은 대단히 유한합니다. 스마트폰 메신저나 SNS, 잡담 등 사소하게 주의를 끄는 방해 자극(Micro-distraction)은 뇌의 에너지를 매우 빠른 속도로 소모시킵니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 얕은 업무(Shallow Work)의 함정
-
-메일 확인, 메신저 즉각 답변, 사소한 웹 서핑 등은 뇌에게 바쁘게 움직인다는 가짜 생산성 위안을 주지만, 실질적인 인지적 발전을 이끌어내지 못하는 '얕은 업무(Shallow Work)'입니다. 토마스 만처럼 집중 시간을 고정하고, 그 시간 동안만큼은 얕은 업무를 전면 금지하고 무자극 상태에서 뇌를 깊은 사고(Deep Work) 상태에 강제로 배치해야 고효율의 아웃풋이 도출됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 얕은 업무(Shallow Work)의 함정
+
+메일 확인, 메신저 즉각 답변, 사소한 웹 서핑 등은 뇌에게 바쁘게 움직인다는 가짜 생산성 위안을 주지만, 실질적인 인지적 발전을 이끌어내지 못하는 '얕은 업무(Shallow Work)'입니다. 토마스 만처럼 집중 시간을 고정하고, 그 시간 동안만큼은 얕은 업무를 전면 금지하고 무자극 상태에서 뇌를 깊은 사고(Deep Work) 상태에 강제로 배치해야 고효율의 아웃풋이 도출됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>토마스 만은 정말 1시가 되면 글쓰기를 완전히 멈추었나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 그는 오전에 뇌를 100% 쏟았기 때문에 1시 이후에는 인지 능력이 소진됨을 인지했습니다. 1시 이후의 글쓰기는 품질이 저하된다고 생각하여, 오후에는 독서, 산책, 편집 등 상대적으로 뇌 에너지가 적게 드는 가벼운 업무만 처리했습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>오전 시간이 아닌 밤 시간대에 딥 워크를 수행해도 되나요?</span>

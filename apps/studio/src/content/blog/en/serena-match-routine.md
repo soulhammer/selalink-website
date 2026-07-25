@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Serve That Calms Anxiety: Serena Williams's Pre-Match Routine Habits"
 description: "Serena Williams, who strictly maintained pre-match routines such as always bouncing the tennis ball five times before her first serve. We study how pre-performance routines block external anxiety stimuli and tune the brain into a state of cognitive framing."
 pubDate: "2026-04-19"
@@ -34,22 +35,20 @@ Serena Williams is an unrivaled icon who redefined modern sports history by winn
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding serena-match-routine is based on <strong>Historical biography & autobiographical records verification of Serena Williams & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography & autobiographical records verification of Serena Williams & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Amygdala Control and Cognitive Framing via Pre-Performance Routines (PPR)
+## 1. Amygdala Control and Cognitive Framing via Pre-Performance Routines (PPR)
 
 High levels of anxiety experienced right before a test or match stimulate the brain's hypothalamus to secrete epinephrine, stiffening muscles and inducing cognitive hyper-vigilance. 'Pre-Performance Routines (PPR)', proven in sports psychology, block focus from uncontrollable external threats (opponent's strength, crowd noise) and forcibly shift focus to 100% controllable physical actions (bouncing the ball, aligning bags). This act of physical control shuts down amygdala alarm circuits and exerts a cognitive framing effect that tunes the brain into a 'safe immersion state', reducing performance errors.
 
 ---
 
-## Precautions and Tips
-
-The worst trap to beware of when applying pre-performance routines is creating a new element of anxiety by obsessing over the order or execution method of the routine itself. If stuck in an obsession such as 'If I bounce the ball 4 times instead of 5, I will ruin the match,' the routine itself devolves into another stressor consuming cognitive resources. Therefore, realize that the core of a routine is not perfection in the action itself, but a 'tool to flip the mind's switch,' requiring the flexibility to adapt depending on the situation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ The worst trap to beware of when applying pre-performance routines is creating a
   </p>
 </div>
 
+---
+
+## 3. Precautions and Tips
+
+The worst trap to beware of when applying pre-performance routines is creating a new element of anxiety by obsessing over the order or execution method of the routine itself. If stuck in an obsession such as 'If I bounce the ball 4 times instead of 5, I will ruin the match,' the routine itself devolves into another stressor consuming cognitive resources. Therefore, realize that the core of a routine is not perfection in the action itself, but a 'tool to flip the mind's switch,' requiring the flexibility to adapt depending on the situation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How do I create my own routine before important everyday events like presentations or exams?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ The worst trap to beware of when applying pre-performance routines is creating a
       Setting up 2 to 3 steps of consistent mechanical actions that you can fully control—such as 'tying shoe laces in a specific order,' 'taking 3 deep breaths,' or 'saying a specific pledge phrase out loud'—and repeating them identically will greatly help control anxiety.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How do I control the anxiety that rushes in if I miss or make a mistake in even one step of the routine?</span>

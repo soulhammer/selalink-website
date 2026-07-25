@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Filsuf Mantan Budak yang Mengajarkan untuk Mengabaikan Hal di Luar Kendali: Rutinitas Refleksi Malam Dikitomi Kendali Epictetus"
 description: "Pelajari bagaimana Epictetus, master Stoik yang lahir sebagai budak, mengeliminasi kecemasan harian dengan membagi realitas secara ketat antara apa yang ada dalam kendali kita dan apa yang tidak. Temukan metode jurnal malamnya melalui neurosains kognitif."
 pubDate: "2026-05-15"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik refleks
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai epictetus-dichotomy-control didasarkan pada <strong>Verifikasi Historis dari *Discourses* dan *Enchiridion* Epictetus & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Discourses* dan *Enchiridion* Epictetus & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Internalisasi Locus of Control dan Penurunan Respon Kortisol Amigdala
+## 1. Internalisasi Locus of Control dan Penurunan Respon Kortisol Amigdala
 
 Stres kronis dan kecemasan bersumber dari ketidakberdayaan saat otak terlalu berfokus pada variabel eksternal yang tidak dapat dikendalikan (seperti reaksi orang lain atau masa lalu). Dikotomi Kendali Epictetus mengalihkan 'Locus of Control' Anda dari hasil eksternal ke kendali internal. Dengan mengabaikan variabel yang tidak dapat dikendalikan, korteks prefrontal menenangkan amigdala dan menurunkan kadar kortisol secara signifikan.
 
 ---
 
-## Perhatian: Yurisdiksi Anda Berakhir pada Tindakan Anda Sendiri
-
-Menyalahkan diri sendiri ketika respons eksternal atau hasil tidak menguntungkan—meskipun telah memberikan yang terbaik—mendorong otak ke dalam kelelahan mental. Tugas Anda berakhir pada upaya terbaik Anda; hasil akhirnya ada di luar kendali Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Menyalahkan diri sendiri ketika respons eksternal atau hasil tidak menguntungkan
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Yurisdiksi Anda Berakhir pada Tindakan Anda Sendiri
+
+Menyalahkan diri sendiri ketika respons eksternal atau hasil tidak menguntungkan—meskipun telah memberikan yang terbaik—mendorong otak ke dalam kelelahan mental. Tugas Anda berakhir pada upaya terbaik Anda; hasil akhirnya ada di luar kendali Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah memang benar-benar tidak mungkin mengendalikan sikap atau reaksi orang lain?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Menyalahkan diri sendiri ketika respons eksternal atau hasil tidak menguntungkan
       Ya, sepenuhnya benar. Kendali Anda hanya sampai pada upaya tulus Anda; bagaimana orang lain meresponsnya adalah 100% milik mereka. Momen saat Anda menyadari batasan ini, stres antarpribadi akan sirna.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah mengabaikan hasil akhir tidak mengurangi gairah atau motivasi saya?</span>

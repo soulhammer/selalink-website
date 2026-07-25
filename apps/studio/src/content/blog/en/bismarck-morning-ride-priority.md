@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Overcoming Decision Overload with Morning Rides: Bismarck's Aerobic Arousal and TOP 3 Priority Routine"
 description: "Discover how Otto von Bismarck, the 'Iron Chancellor' who unified Germany, combined morning horse riding with a TOP 3 priority extraction method, and explore the neuroscientific principles of raising brain blood flow through aerobic exercise to prevent decision fatigue."
 pubDate: "2026-03-16"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Otto von Bismarck's aer
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bismarck-morning-ride-priority is based on <strong>Historical Verification from Otto von Bismarck's Autobiography *Gedanken und Erinnerungen* & A.J.P. Taylor's Biography *Bismarck: The Man and the Statesman* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Otto von Bismarck's Autobiography *Gedanken und Erinnerungen* & A.J.P. Taylor's Biography *Bismarck: The Man and the Statesman* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aerobic Post-Exercise BDNF Secretion and Decision Simplification via the 'Rule of 3'
+## 1. Aerobic Post-Exercise BDNF Secretion and Decision Simplification via the 'Rule of 3'
 
 When decision options exceed 4 or 5 items, a bottleneck occurs in the prefrontal executive control circuits, rapidly causing decision fatigue. Applying the 'Rule of 3' right after triggering Brain-Derived Neurotrophic Factor (BDNF) and dopamine release through morning aerobic exercise—as Bismarck did—preserves the prefrontal cortex's glucose budget and prevents cognitive overload. Within the structured boundary of just three items, the brain filters out noise and unleashes peak cognitive energy on key problem-solving.
 
 ---
 
-## Caution & Tips: Excluding Trivial Tasks Before TOP 3 Completion & Environmental Design
-
-Tackling easy, trivial tasks first provides the brain with a momentary sense of 'fake accomplishment', but it ultimately delays the execution of core priority tasks. Until all TOP 3 tasks are finished, defer minor chores such as checking emails or organizing your desk. Rather than relying solely on raw willpower, the key to sustainability is pre-designing a physical environment that blocks distractions—like turning off email notifications.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Tackling easy, trivial tasks first provides the brain with a momentary sense of 
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Excluding Trivial Tasks Before TOP 3 Completion & Environmental Design
+
+Tackling easy, trivial tasks first provides the brain with a momentary sense of 'fake accomplishment', but it ultimately delays the execution of core priority tasks. Until all TOP 3 tasks are finished, defer minor chores such as checking emails or organizing your desk. Rather than relying solely on raw willpower, the key to sustainability is pre-designing a physical environment that blocks distractions—like turning off email notifications.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What if I fail to complete one of the TOP 3 tasks during the day?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Tackling easy, trivial tasks first provides the brain with a momentary sense of 
       That is completely fine. It is not a failure, but proof that you concentrated your energy on a high-impact, substantial project. Simply carry over the unfinished item as tomorrow morning's #1 task when your prefrontal cortex is freshest.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What are modern exercise alternatives to morning horse riding?</span>

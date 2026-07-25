@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O romancista que cortava jornais com tesoura todas as manhãs? O método de construção de esquema de conhecimento de George Orwell"
 description: "O romancista George Orwell lia vários jornais todas as manhãs e recortava artigos com tesoura para organizá-los em álbuns de recortes. Descubra os princípios do córtex pré-frontal para construir esquemas de informação orgânicos e rotinas modernas de recortes digitais."
 pubDate: "2026-03-13"
@@ -35,25 +36,23 @@ Neste artigo, exploramos a neurociência por trás da rotina de recortes de jorn
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre orwell-newspaper-clipping é baseada em <strong>Verificação de biografias históricas e registros autobiográficos de George Orwell e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas e registros autobiográficos de George Orwell e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ciência cerebral da codificação de informações e esquemas
+## 1. Ciência cerebral da codificação de informações e esquemas
 
 Navegar superficialmente por artigos digitais deixa as informações apenas temporariamente na memória de curto prazo antes de desaparecerem. Em contrapartida, selecionar ativamente artigos, 'recortá-los' (ação física ou digital) e categorizá-los ativa o processo de <strong>'codificação profunda (Deep Encoding)'</strong> do cérebro. Essa estruturação fixa os dados no armazenamento cortical de longo prazo e constrói uma <strong>'rede de esquemas (Schema)'</strong> conectada ao conhecimento existente. Um cérebro com esquemas ricos compreende novos contextos mais rapidamente, identifica os pontos centrais e exibe alta inteligência fluida ao resgatar conhecimentos para escrita ou tomada de decisões.
 
 ---
 
-## A armadilha do vício em coleção cega
-
-Apenas salvar links ou artigos em uma pasta com um clique leva à 'Falácia do Colecionador (Collector's Fallacy)', fazendo o cérebro acreditar ilusoriamente que possui o conhecimento. Somente quando você mesmo resume a informação ou adiciona um comentário com suas próprias palavras é que os dados estimulam o processamento cognitivo e se transformam em seu verdadeiro esquema de conhecimento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Apenas salvar links ou artigos em uma pasta com um clique leva à 'Falácia do C
   </p>
 </div>
 
+---
+
+## 3. A armadilha do vício em coleção cega
+
+Apenas salvar links ou artigos em uma pasta com um clique leva à 'Falácia do Colecionador (Collector's Fallacy)', fazendo o cérebro acreditar ilusoriamente que possui o conhecimento. Somente quando você mesmo resume a informação ou adiciona um comentário com suas próprias palavras é que os dados estimulam o processamento cognitivo e se transformam em seu verdadeiro esquema de conhecimento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Os álbuns de recortes reais de George Orwell ainda estão preservados hoje?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Apenas salvar links ou artigos em uma pasta com um clique leva à 'Falácia do C
       Sim, os artigos coletados por George Orwell, cópias de seus álbuns de recortes e notas de trabalho estão preservados como acervos históricos valiosos no University College London (UCL).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quais aplicativos são recomendados para realizar essa rotina de recortes digitalmente?</span>

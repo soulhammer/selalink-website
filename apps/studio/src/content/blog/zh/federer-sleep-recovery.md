@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "每天睡眠12小时捧起几十座冠军奖杯的帝王：罗杰·费德勒的睡眠恢复习惯与大脑排毒机制"
 description: "探索网球天王罗杰·费德勒年过四十依然维持世界顶尖竞技状态的秘诀：每天10-12小时的高品质睡眠。揭示胶质淋巴系统（Glymphatic System）排毒、快速眼动（REM）睡眠整合运动记忆的神经科学原理与3步骤实践指南。"
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 federer-sleep-recovery 的内容基于 <strong>克里斯·鲍尔传记《罗杰·费德勒传（Roger Federer: The Greatest）》与ATP官方史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>克里斯·鲍尔传记《罗杰·费德勒传（Roger Federer: The Greatest）》与ATP官方史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 胶质淋巴系统（Glymphatic System）排毒与快速眼动（REM）睡眠神经可塑性修复机制
+## 1. 胶质淋巴系统（Glymphatic System）排毒与快速眼动（REM）睡眠神经可塑性修复机制
 
 沉入深度慢波睡眠期时，大脑的<strong>胶质淋巴系统（Glymphatic System）</strong>全面激活，细胞间隙扩大60%以上，利用脑脊液强力冲刷清理白昼积聚的贝塔-阿米洛受（Beta-Amyloid）等神经毒性代谢废物。此外，睡眠后半程的<strong>快速眼动（REM）睡眠</strong>可有力拉动神经可塑性，将复杂的运动肌肉记忆与目测认知反应速度固化于小脑与运动皮层中。保障充足睡眠能显著压低皮质醇，并促进生长激素大量释放，使肌肉组织与前额叶专注力完美回归巅峰状态。
 
 ---
 
-## 注意事项：警惕通过牺牲睡眠、死磕意志力来硬撑的迷思
-
-剥夺睡眠强行工作所引发的大脑认知失误，与醉酒驾驶处于同一危险水平。正如费德勒所言，顶尖的卓越产出绝非源于牺牲睡眠后的苦撑疲态，而始于精细睡眠恢复所带来的极速清醒与高度沉浸。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：警惕通过牺牲睡眠、死磕意志力来硬撑的迷思
+
+剥夺睡眠强行工作所引发的大脑认知失误，与醉酒驾驶处于同一危险水平。正如费德勒所言，顶尖的卓越产出绝非源于牺牲睡眠后的苦撑疲态，而始于精细睡眠恢复所带来的极速清醒与高度沉浸。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>夜间遭遇入睡困难或失眠困扰时该如何应对？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       切勿躺在床上死磕硬睡。若卧床20分钟后仍毫无睡意，请应用“刺激控制疗法（Stimulus Control Therapy）”：起身离床，移步至暗光房间，在暖色弱光下翻阅实体书，待倦意袭来时再重返床榻。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>为何醒来后非但没有神清气爽，反而感到头脑昏沉发木？</span>

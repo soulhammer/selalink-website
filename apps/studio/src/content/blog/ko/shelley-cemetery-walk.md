@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "영감을 찾으려 공동묘지를 산책하다: 메리 셸리의 '엄숙한 고독 사색' 루틴"
 description: "소설 《프랑켄슈타인》을 집필한 메리 셸리가 왜 공동묘지나 역사적 공간을 산책했는지 알아봅니다. 엄숙함과 경외감이 자아내는 뇌의 성찰과 깊은 창의성 과학을 설명합니다."
 pubDate: "2026-07-07"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>메리 셸리 자서전 및 문학사 기록 고증 & 환경심리학(Environmental Psychology) 경외감(Awe) 연구</strong>에 근거하여 shelley-cemetery-walk 루틴을 다룹니다.
+      본 콘텐츠는 <strong>메리 셸리 자서전 및 문학사 기록 고증 & 환경심리학(Environmental Psychology) 경외감(Awe) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 엄숙한 공간이 자아내는 인지적 경외감과 성찰 신경망
+## 1. 엄숙한 공간이 자아내는 인지적 경외감과 성찰 신경망
 
 환경심리학의 최신 연구들에 따르면, 묘지, 대성당, 오래된 유적지 등 역사적 깊이와 엄숙함을 풍기는 조용한 공간에 들어서면 인간의 뇌는 '경외감(Awe)'이라는 특수 감정을 느낍니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 소음이 차단된 한적한 역사적/자연적 공간 활용하기
-
-메리 셸리에게 공동묘지는 삶과 죽음을 성찰하는 안식처였습니다. 굳이 공동묘지가 아니더라도 일상의 간섭을 받지 않는 오래된 숲길이나 성당, 조용한 서원이나 도서관, 한적한 역사 유적지를 찾아보세요. 핵심은 세속적인 자극과 상업적 소음으로부터 완전히 분리된 공간을 뇌에 선사하는 것입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     나무 그늘이나 벤치에 편안히 멈춰 서거나 앉아 수첩을 펼칩니다. 경외감이 남긴 삶과 인간에 대한 심오한 문장이나 핵심 영감을 가감 없이 종이에 적습니다.
   </p>
 </div>
+
+---
+
+## 3. 소음이 차단된 한적한 역사적/자연적 공간 활용하기
+
+메리 셸리에게 공동묘지는 삶과 죽음을 성찰하는 안식처였습니다. 굳이 공동묘지가 아니더라도 일상의 간섭을 받지 않는 오래된 숲길이나 성당, 조용한 서원이나 도서관, 한적한 역사 유적지를 찾아보세요. 핵심은 세속적인 자극과 상업적 소음으로부터 완전히 분리된 공간을 뇌에 선사하는 것입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

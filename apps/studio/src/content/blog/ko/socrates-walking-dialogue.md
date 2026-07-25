@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "맨발로 걸으며 질문을 던진 철학자: 소크라테스의 인지적 산책 습관"
 description: "끊임없이 걸으며 생각을 확장한 고대 그리스의 지혜 소크라테스. 보행 운동이 해마를 자극하고 인지적 유연성을 촉진하는 뇌과학적 원리와 문제 해결 산책 가이드를 알아봅니다."
 pubDate: "2026-03-06"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>소크라테스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 socrates-walking-dialogue 루틴을 다룹니다.
+      본 콘텐츠는 <strong>소크라테스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 해마의 신경가소성과 유산소 유연성
+## 1. 해마의 신경가소성과 유산소 유연성
 
 가볍게 발을 딛고 보행하는 행위는 단순한 위치 이동을 넘어 뇌 전체에 다량의 산소와 혈류를 밀어 올리는 강력한 생리적 펌프입니다. 보행을 시작하면 심박수가 오르고 뇌유래신경영양인자(BDNF)의 분비가 눈에 띄게 증가합니다. BDNF는 기억과 인지를 조율하는 뇌 해마의 시냅스 연결 고리들을 유연하게 재조정하며, 새로운 정보와 논리적 연상을 빠르게 합성하는 신경 가소성의 핵심 윤활유입니다. 또한 걷는 과정에서 발바닥이 받는 율동적인 압력 자극은 고정 관념에 얽매여 뇌를 지치게 만드는 디폴트 모드 네트워크(DMN)의 과도한 루프를 분쇄하여 인지 유연성을 확보해 줍니다.
 
 ---
 
-## 성공적인 루틴을 위한 뇌과학적 한마디
-
-걷는 육체는 뇌의 퓨즈를 다시 연결합니다. 모니터 앞에서 미간을 찌푸린 채 앉아있다고 해서 어려운 문제가 풀리지는 않습니다. 뇌의 작업 기억이 포화상태에 이르렀기 때문입니다. 이때 소크라테스처럼 아고라로 나가 15분간 유산소 자극을 주며 뇌 혈류량을 끌어올려 보세요. 발걸음의 리듬에 맞춰 뇌가 새로운 결론과 신선한 논리적 돌파구를 찾아낼 것입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     오늘 해결해야 할 한 가지 핵심 질문을 설정합니다. 걸으면서 '왜?'라는 질문을 스스로에게 던지고 답하는 자문자답 과정을 반복하여 뜻밖의 통찰을 이끌어냅니다.
   </p>
 </div>
+
+---
+
+## 3. 성공적인 루틴을 위한 뇌과학적 한마디
+
+걷는 육체는 뇌의 퓨즈를 다시 연결합니다. 모니터 앞에서 미간을 찌푸린 채 앉아있다고 해서 어려운 문제가 풀리지는 않습니다. 뇌의 작업 기억이 포화상태에 이르렀기 때문입니다. 이때 소크라테스처럼 아고라로 나가 15분간 유산소 자극을 주며 뇌 혈류량을 끌어올려 보세요. 발걸음의 리듬에 맞춰 뇌가 새로운 결론과 신선한 논리적 돌파구를 찾아낼 것입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

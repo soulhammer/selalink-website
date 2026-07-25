@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le fauteuil basculant du Bureau ovale : La gestion des douleurs spinales de John F. Kennedy et la relaxation vestibulaire"
 description: "Découvrez comment John F. Kennedy a dirigé les États-Unis pendant la guerre froide tout en affrontant de vives douleurs vertébrales grâce au fauteuil basculant du Bureau ovale. Explorez la neuroscience de la stimulation vestibulaire et l'activation parasympathique."
 pubDate: "2026-02-10"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive et l'orthopédie sous
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant kennedy-rocking-chair est basée sur <strong>Vérification Historique issue de la Bibliothèque présidentielle John F. Kennedy, des archives du Dr Janet Travell & de la Recherche en Neurosciences Cognitives et Orthopédie</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la Bibliothèque présidentielle John F. Kennedy, des archives du Dr Janet Travell & de la Recherche en Neurosciences Cognitives et Orthopédie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation du système vestibulaire et activation du système nerveux parasympatique
+## 1. Stimulation du système vestibulaire et activation du système nerveux parasympatique
 
 Le mouvement rythmique d'avant en arrière stimule le <strong>Système Vestibulaire</strong> de l'oreille interne. Les influx du noyau vestibulaire traversent le tronc cérébral pour engager le <strong>Système Nerveux Parasympathique</strong>, ralentissant le rythme cardiaque et freinant la sécrétion de <strong>cortisol</strong>. Sur le plan orthopédique, ces micro-mouvements favorisent l'irrigation des disques vertébraux, réduisant la charge statique. Cet apaisement physique réprime l'hyper-réactivité de l'<strong>amygdale</strong>, permettant au <strong>Cortex Préfrontal</strong> de conserver un contrôle exécutif clair.
 
 ---
 
-## Mise en garde : Prévenir la charge statique et favoriser les micro-mouvements de la colonne vertébrale
-
-Les douleurs chroniques de la nuque et du dos découlent de la 'Charge Statique' : rester immobile dans una posture fixe pendant des heures. La rigidité physique génère du stress émotionnel et de la fatigue mentale. À l'image de Kennedy, créer de doux micro-mouvements en position assise est la clé pour préserver la santé vertébrale et la clarté d'esprit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Les douleurs chroniques de la nuque et du dos découlent de la 'Charge Statique'
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Prévenir la charge statique et favoriser les micro-mouvements de la colonne vertébrale
+
+Les douleurs chroniques de la nuque et du dos découlent de la 'Charge Statique' : rester immobile dans una posture fixe pendant des heures. La rigidité physique génère du stress émotionnel et de la fatigue mentale. À l'image de Kennedy, créer de doux micro-mouvements en position assise est la clé pour préserver la santé vertébrale et la clarté d'esprit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Puis-je obtenir un effet de relaxation similaire avec una chaise de bureau classique ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Les douleurs chroniques de la nuque et du dos découlent de la 'Charge Statique'
       Oui ! Déverrouiller le mécanisme d'inclinaison de votre siège de bureau et balancer doucement le buste stimule les récepteurs vestibulaires, prévenant la charge statique et activant le système parasympatique.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quelle est la vitesse ou la cadence idéale de balancement pour apaiser le système nerveux ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La réflexion épistolaire de Van Gogh : Purifier le désespoir en écrivant chaque nuit à son frère Théo"
 description: "Découvrez l'habitude de verbalisation émotionnelle de Vincent van Gogh, le peintre immortel qui purifia son esprit à travers des centaines de lettres à son frère Théo au milieu d'une intense souffrance."
 pubDate: "2026-04-21"
@@ -31,25 +32,23 @@ Dans cet article, nous présentons les principes scientifiques cognitifs qui sou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant van-gogh est basée sur <strong>Biographies historiques et données autobiographiques sur Vincent van Gogh et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et données autobiographiques sur Vincent van Gogh et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analyse neuroscientifique de la purification émotionnelle et de la concentration
+## 1. Analyse neuroscientifique de la purification émotionnelle et de la concentration
 
 La réflexion épistolaire qui objective et enregistre les émotions par l'écriture renforce le contrôle cognitif préfrontal et régule l'anxiété dans l'amygdale. Traduire ses émotions en un langage raffiné réprime l'excitation du système limbique de manière descendante (Top-down), améliorant la résolution métacognitive pour restaurer la clarté mentale et la résilience.
 
 ---
 
-## Conseil en science du comportement pour la formation d'habitudes
-
-N'essayez pas de décrire en détail chaque blessure émotionnelle dans un long journal. Un court exercice de 3 minutes pour noter les indicateurs émotionnels suffit. Plutôt que de compter uniquement sur la volonté, concevoir un environnement physique et des signaux déclencheurs est la clé de la durabilité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ N'essayez pas de décrire en détail chaque blessure émotionnelle dans un long 
   </p>
 </div>
 
+---
+
+## 3. Conseil en science du comportement pour la formation d'habitudes
+
+N'essayez pas de décrire en détail chaque blessure émotionnelle dans un long journal. Un court exercice de 3 minutes pour noter les indicateurs émotionnels suffit. Plutôt que de compter uniquement sur la volonté, concevoir un environnement physique et des signaux déclencheurs est la clé de la durabilité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il nécessaire d'avoir un destinataire imaginaire comme Théo pour la lettre ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ N'essayez pas de décrire en détail chaque blessure émotionnelle dans un long 
       Oui. Écrire comme si vous vous adressiez à quelqu'un qui écoute sans jugement, comme un Théo imaginaire, maximisera la verbalisation sincère et la désintoxication du cerveau.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je utiliser une application de notes numériques au lieu de l'écriture manuscrite ?</span>

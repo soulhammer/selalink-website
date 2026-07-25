@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "世紀の智略家？諸葛亮の早朝古琴演奏と天文戦略ルーティン"
 description: "三国時代の蜀漢の丞相・諸葛亮が、複雑な情勢の中で早朝の古琴演奏と夜間の天文観測で高度なマインドコントロールを成し遂げた秘密と実践ガイド。"
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「zhuge-liang-guqin-strategy」は <strong>諸葛亮の歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>諸葛亮の歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## アルファ脳波誘導による情緒的オーバーロード遮断と巨視的空間判断力
+## 1. アルファ脳波誘導による情緒的オーバーロード遮断と巨視的空間判断力
 
 重要な課題や不安が高まった時、脳の<strong>扁桃体（Amygdala）</strong>が過剰に活性化し、視野が狭まって優柔不断になります。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 騒音と刺激を減らし、内面の静寂状態を確保してください
-
-諸葛亮の名言のように、淡泊さと静けさなしには遠くを見渡すことはできません。外部の騒々しいニュースやSNSの通知を遮断し、10分間の意図的なリラックスと静寂の時間を確保してください。無理に意志力だけに頼ろうとせず、行動が自然と誘发される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 騒音と刺激を減らし、内面の静寂状態を確保してください
+
+諸葛亮の名言のように、淡泊さと静けさなしには遠くを見渡すことはできません。外部の騒々しいニュースやSNSの通知を遮断し、10分間の意図的なリラックスと静寂の時間を確保してください。無理に意志力だけに頼ろうとせず、行動が自然と誘发される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>楽器を直接演奏できなくても効果はありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、固有の響きを持つオーケストラやアコースティックな弦楽音楽を集中して聴く聴覚的没頭だけでも、アルファ波誘導効果は同様に現れます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>なぜ数あるやるべきことの中から1つだけを選ぶのですか？</span>

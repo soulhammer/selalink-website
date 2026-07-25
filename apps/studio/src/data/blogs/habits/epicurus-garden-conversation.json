@@ -1,216 +1,318 @@
 {
   "epicurus-garden-conversation": {
-    "title": {
-      "ko": "소박한 정원에서의 지적 연대: 에피쿠로스의 대화 및 검소한 식사 습관과 마음 평정법",
-      "en": "Intellectual Solidarity in a Modest Garden: Epicurus's Conversation and Frugal Dining Routine for Mental Tranquility",
-      "ja": "朴素な庭園での知的連帯：エピクロスの対話と質素な食事習慣および心の平静法",
-      "zh": "朴素庭院里的智力联结：阿匹克路斯的对话与节俭饮食习惯及心灵平静之道",
-      "es": "Solidaridad Intelectual en un Jardín Modesto: La Conversación y Rutina de Comida Frugal de Epicuro para la Tranquilidad Mental",
-      "de": "Intellektuelle Solidarität in einem bescheidenen Garten: Epikurs Konversations- und einfache Essroutine für Seelenruhe",
-      "fr": "Solidarité intellectuelle dans un jardin modeste : La conversation et la routine de repas frugal d'Épicure pour la sérénité",
-      "pt": "Solidariedade Intelectual em um Jardim Modesto: A Conversa e a Rotina de Refeição Frugal de Epicuro para a Tranquilidade Mental",
-      "id": "Solidaritas Intelektual di Taman Sederhana: Percakapan dan Rutinitas Makan Hemat Epicurus untuk Ketenangan Jiwa"
-    },
-    "description": {
-      "ko": "아테네 외곽에 '정원'을 짓고 소수의 벗들과 검소한 식사를 나누며 깊은 사색을 공유한 에피쿠로스. 사회적 과시를 배제하고 안전한 유대관계 속에서 대화를 나누는 습관이 체내 옥시토신과 세로토닌을 자극해 고차원적 행복을 느끼게 하는 메커니즘을 규명합니다.",
-      "en": "Discover how Epicurus built 'The Garden' outside Athens to share frugal meals and deep reflection with trusted friends. Explore the neuroscience of psychological safety, oxytocin, and dopamine regulation that induce profound tranquility.",
-      "ja": "アテネ郊外に「庭園」を建て、少数の友と質素な食事を分かち合い深い思索を共有したエピクロス。社会的誇示を排除し安全な絆の中で対話を交わす習慣が、体内のオキシトシンとセロトニンを刺激して高次元の幸せを感じさせるメカニズムを解き明かします。",
-      "zh": "深度剖析阿匹克路斯在雅典郊外建立“庭院”，与挚友分食简朴餐食、分享深邃思考的习惯。揭示排除社会炫耀、在安全纽带中对话如何刺激催产素与血清素分泌，从而引发高阶幸福感的神经机制。",
-      "es": "Descubra cómo Epicuro construyó 'El Jardín' fuera de Atenas para compartir comidas frugales y reflexiones profundas con amigos. Explore la neurociencia de la seguridad psicológica, la oxitocina y la serotonina que inducen una profunda tranquilidad.",
-      "de": "Erfahren Sie, wie Epikur außerhalb Athens den 'Garten' errichtete, um einfache Mahlzeiten und tiefe Gedanken mit Freunden zu teilen. Entdecken Sie die Neurowissenschaften hinter psychologischer Sicherheit, Oxytocin und Serotonin.",
-      "fr": "Découvrez comment Épicure a fondé « Le Jardin » près d'Athènes pour partager des repas frugaux et de profondes réflexions entre amis. Explorez la neuroscience de la sécurité psychologique, de l'oxytocine et de la sérotonine.",
-      "pt": "Descubra como Epicuro construiu 'O Jardim' fora de Atenas para compartilhar refeições frugais e reflexões profundas com amigos. Explore a neurociência da segurança psicológica, oxitocina e serotonina que induzem tranquilidade.",
-      "id": "Pelajari bagaimana Epicurus membangun 'Taman' di luar Athena untuk berbagi makanan sederhana dan refleksi mendalam dengan teman-teman terpercaya. Temukan neurosains tentang rasa aman psikologis, oksitosin, dan serotonin yang memicu ketenangan mendalam."
-    },
-    "authority": {
-      "ko": "디오게네스 라에르티오스 『유명한 철학자들의 생애와 사상(Lives and Opinions of Eminent Philosophers)』 및 에피쿠로스 서간집 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical Verification from Diogenes Laertius's *Lives and Opinions of Eminent Philosophers*, Epicurus's Letters & Cognitive Neuroscience Research",
-      "ja": "ディオゲネス・ラエルティオス『傑出した哲学者たちの生涯と思想（Lives and Opinions of Eminent Philosophers）』およびエピクロス書簡集考証＆認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "第欧根尼·拉尔修《哲人言行录（Lives and Opinions of Eminent Philosophers）》与阿匹克路斯书信集考证及认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Verificación Histórica de *Vidas, opiniones y sentencias de los filósofos más ilustres* de Diógenes Laercio, Cartas de Epicuro e Investigación en Neurociencia Cognitiva",
-      "de": "Historische Überprüfung aus Diogenes Laertios' *Leben und Lehren berühmter Philosophen*, Epikurs Briefen & Forschung der kognitiven Neurowissenschaften",
-      "fr": "Vérification Historique issue de *Vies, doctrines et sentences des philosophes illustres* de Diogène Laërce, des Lettres d'Épicure & de la Recherche en Neurosciences Cognitives",
-      "pt": "Verificação Histórica de *Vidas e Doutrinas dos Filósofos Ilustres* de Diógenes Laércio, Cartas de Epicuro e Pesquisa em Neurociência Cognitiva",
-      "id": "Verifikasi Historis dari *Lives and Opinions of Eminent Philosophers* karya Diogenes Laertius, Surat-Surat Epicurus & Penelitian Neurosains Kognitif"
-    },
-    "intro": {
-      "ko": "\"우리가 누구와 함께 먹고 마시는가가 무엇을 먹고 마시는가보다 훨씬 중요하다.\" 🍇\n\n고대 그리스의 철학자이자 마음에 불필요한 번뇌가 없고 몸에 통증이 없는 참된 평안인 '아타락시아(Ataraxia)'와 '아포니아(Aponia)'를 부르짖은 사상가 에피쿠로스(Epicurus, 341–270 BC). 흔히 그를 무제한의 육체적 쾌락을 추구하는 극단적 쾌락주의자로 오해하지만, 그의 실제 삶은 누구보다 소박하고 절제되어 있었습니다.\n\n에피쿠로스는 아테네 외곽에 신분과 성별을 막론하고 누구에게나 열려 있는 거처인 '정원(Kepos)'을 마련하고 소수의 벗들과 모여 살았습니다. 매일 오후, 그들은 밭에서 딴 신선한 채소와 물, 소량의 치즈를 나누며 우정(Philia) 속에서 깊은 정신적 교감을 담은 학술 토론을 즐겼습니다. 그는 \"나에게 오직 빵과 물, 그리고 약간의 치즈만 있다면 제우스신도 부럽지 않은 행복을 누릴 수 있다\"고 말할 정도였습니다. 격동의 시기에 극도의 불안을 다스리고 평정을 유지한 에피쿠로스의 정원 식사 루틴의 뇌과학적 원리를 해부합니다.",
-      "en": "\"We should look for someone to eat and drink with before we look for something to eat and drink.\" 🍇\n\nEpicurus (341–270 BC) was the Hellenistic Greek philosopher who defined true happiness as 'Ataraxia' (a mind free from anxiety) and 'Aponia' (a body free from pain). Though modern culture often misinterprets his philosophy as indulgent hedonism, Epicurus actually lived an exceptionally frugal, self-disciplined life focused on tranquility.\n\nOutside Athens, Epicurus established 'The Garden' (Kepos), an egalitarian community open to all regardless of social status or gender. Every afternoon, Epicurus and his close friends shared simple meals of water, barley bread, olives, and an occasional morsel of cheese, engaging in philosophical conversations anchored in deep friendship (Philia). He famously proclaimed, \"Send me a little pot of cheese, that I may be able to indulge myself whenever I wish.\" In today's post, we dissect the cognitive neuroscience behind Epicurus's garden dining routine and how modest, secure social bonds foster enduring mental peace.",
-      "ja": "「何を食べ飲むかよりも、誰と一緒に食べ飲むかがはるかに重要である。」 🍇\n\n古代ギリシャの哲学者であり、心に不必要な煩悩がなく体に痛みのない真の平安である「アタラクシア（Ataraxia）」と「アポニア（Aponia）」を唱えた思想家エピクロス（Epicurus、341–270 BC）。しばしば彼を無制限の肉体的快楽を追求する極端な快楽主義者と誤解されますが、彼の実際の生活は誰よりも質素で節制されていました。\n\nエピクロスはアテネ郊外に身分や性別を問わず誰にでも開かれた居場所である「庭園（Kepos）」を設け、少数の友と集まって暮らしました。毎日午後、彼らは畑から摘んだ新鮮な野菜と水、少量のチーズを分かち合い、友情（Philia）の中で深い精神的交感を含む学術討論を楽しみました。彼は「私にただパンと水、そして少しのチーズさえあれば、ゼウス神も羨ましくない幸せを享受できる」と語るほどでした。激動の時代に極度の不安を統制し平静を維持したエピクロスの庭園食事ルーティンの脳科学的原理を解剖します。",
-      "zh": "“相较于吃喝何物，与何人同席共食要重要得多。” 🍇\n\n古希腊哲学家阿匹克路斯（Epicurus，公元前341–270年）提出了真正的幸福源于内心毫无忧惧的“静心（Ataraxia）”与身体毫无痛苦的“无痛（Aponia）”。世人常误将他奉为追求无节制肉体享乐的极端享乐主义者，然而他真实的生活却比任何人都要朴素与节制。\n\n阿匹克路斯在雅典郊外置办了一处不分社会阶级与性别、向所有人敞开的社群——“庭院（Kepos）”，与少数挚友长居于此。每天下午，他们分食从田间采摘的蔬菜、清水与少许起司，在至真友情（Philia）中开展富有深邃精神交会的学术研讨。他曾言：“只要给我面包、水和一块小起司，我便能与宙斯争胜幸福。”在今天的文章中，我们将深度剖析阿匹克路斯“庭院进餐”习惯背后的脑科学原理。",
-      "es": "\"Debemos buscar con quién comer y beber antes que qué comer y beber.\" 🍇\n\nEpicuro (341–270 a.C.) fue el filósofo griego que definió la verdadera felicidad como 'Ataraxia' (tranquilidad de la mente) y 'Aponia' (ausencia de dolor físico). Aunque a menudo se malinterpreta su filosofía como un hedonismo desenfrenado, Epicuro vivió una vida frugal y disciplinada.\n\nA las afueras de Atenas, Epicuro fundó 'El Jardín' (Kepos), una comunidad igualitaria abierta a todos. Cada tarde, Epicuro y sus amigos compartían comidas sencillas de agua, pan y un poco de queso, disfrutando de conversaciones filosóficas basadas en la amistad (Philia). Solía decir: \"Envíame un poco de queso para darme un banquete cuando quiera.\" En la publicación de hoy, analizamos la neurociencia detrás de la rutina gastronómica de Epicuro y cómo los lazos sociales seguros fomentan la paz mental.",
-      "de": "\"Wir sollten vor allem darauf achten, mit wem wir essen und trinken, bevor wir darauf achten, was wir essen und trinken.\" 🍇\n\nEpikur (341–270 v. Chr.) definierte wahres Glück als 'Ataraxia' (Seelenruhe) und 'Aponia' (Schmerzlosigkeit des Körpers). Obwohl seine Philosophie oft fälschlicherweise als hemmungsloser Hedonismus missverstanden wird, lebte Epikur äußerst bescheiden und diszipliniert.\n\nVor den Toren Athens gründete er den 'Garten' (Kepos), eine Gemeinschaft, die allen offenstand. Jeden Nachmittag teilten Epikur und seine Freunde einfache Mahlzeiten aus Wasser, Brot und etwas Käse und führten philosophische Gespräche in tiefem Vertrauen (Philia). Er sagte einmal: \"Schicke mir etwas Käse, damit ich ein Festmahl halten kann, wenn ich will.\" Im heutigen Beitrag analysieren wir die Neurowissenschaften hinter Epikurs Essroutine.",
-      "fr": "« Nous devons chercher avec qui manger et boire avant de chercher quoi manger et boire. » 🍇\n\nÉpicure (341–270 av. J.-C.) définissait le bonheur ultime comme l'« Ataraxie » (sérénité de l'esprit) et l'« Aponie » (absence de douleur physique). Bien que sa pensée soit souvent confondue avec un hédonisme débridé, Épicure menait une vie d'une grande frugalité.\n\nPrès d'Athènes, il fonda « Le Jardin » (Kepos), une communauté ouverte à tous sans distinction. Chaque après-midi, Épicure et ses proches partageaient des repas simples composés d'eau, de pain et d'un peu de fromage, échangeant des réflexions philosophiques ancrées dans l'amitié (Philia). Il disait : « Envoie-moi un peu de fromage, pour que je puisse faire un festin quand je veux. » Dans cet article, nous analysons la neuroscience sous-jacente à la routine d'Épicure.",
-      "pt": "\"Devemos procurar com quem comer e beber antes de procurar o que comer e beber.\" 🍇\n\nEpicuro (341–270 a.C.) foi o filósofo grego que definiu a verdadeira felicidade como 'Ataraxia' (tranquilidade da mente) e 'Aponia' (ausência de dor física). Embora sua filosofia seja frequentemente mal interpretada como um hedonismo desenfreado, Epicuro viveu de forma frugal e disciplinada.\n\nNas proximidades de Atenas, fundou 'O Jardim' (Kepos), uma comunidade aberta a todos. Todas as tardes, Epicuro e seus amigos compartilhavam refeições simples de água, pão e um pouco de queijo, desfrutando de conversas filosóficas baseadas na amizade (Philia). Costumava dizer: \"Envie-me um pouco de queijo para que eu possa festejar quando quiser.\" No artigo de hoje, analisamos a neurociência por trás da rotina de Epicuro.",
-      "id": "\"Kita harus mencari dengan siapa kita makan dan minum sebelum mencari apa yang kita makan dan minum.\" 🍇\n\nEpicurus (341–270 SM) adalah filsuf Yunani yang mendefinisikan kebahagiaan sejati sebagai 'Ataraxia' (ketenangan jiwa) dan 'Aponia' (bebas dari rasa sakit fisik). Meskipun filsafatnya sering disalahartikan sebagai hedonisme yang tidak terkontrol, Epicurus sebenarnya hidup secara sangat sederhana dan disiplin.\n\nDi luar Athena, Epicurus mendirikan 'Taman' (Kepos), komunitas inklusif yang terbuka untuk semua orang. Setiap sore, Epicurus dan teman-temannya berbagi makanan sederhana berupa air, roti, dan sedikit keju, sambil menikmati percakapan filosofis dalam persahabatan yang erat (Philia). Ia pernah berkata: \"Kirimi saya sedikit keju, agar saya bisa berpesta kapan pun saya mau.\" Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas makan Epicurus."
-    },
-    "whyTitle": {
-      "ko": "심리적 안전감과 옥시토신 및 세로토닌의 유대 효과",
-      "en": "Psychological Safety and the Bonding Effects of Oxytocin and Serotonin",
-      "ja": "心理的安全性とオキシトシンおよびセロトニンの絆効果",
-      "zh": "心理安全感与催产素及血清素的粘合效应",
-      "es": "Seguridad Psicológica y los Efectos de Vínculo de la Oxitocina y la Serotonina",
-      "de": "Psychologische Sicherheit und die Bindungswirkung von Oxytocin und Serotonin",
-      "fr": "Sécurité psychologique et effets de lien de l'oxytocine et de la sérotonine",
-      "pt": "Segurança Psicológica e os Efeitos de Conexão da Oxitocina e da Serotonina",
-      "id": "Rasa Aman Psikologis dan Efek Ikatan Oksitosin serta Serotonin"
-    },
-    "whyDesc": {
-      "ko": "어떤 비난이나 공격 없이 내면을 온전히 공유할 수 있는 소수의 모임은 대뇌에 강력한 '심리적 안전감(Psychological Safety)'을 부여합니다. 이러한 신뢰적 유대 관계에서 깊은 대화를 나누면, 뇌의 시상하부에서 친밀감과 정서적 완화를 이끄는 호르몬인 옥시토신(Oxytocin)이 뿜어져 나옵니다. 옥시토신은 편도체의 공격적 경계 반응을 잠재우고 만성 스트레스 호르몬인 코르티솔의 분비를 급감시켜 면역력을 강화하고 대뇌의 인지 피로를 말끔히 정돈해 줍니다.",
-      "en": "A small, trusted group where thoughts can be shared without judgment provides profound 'Psychological Safety' to the brain. Engaging in meaningful conversations within this secure circle triggers the hypothalamus to release oxytocin, the hormone responsible for emotional bonding and stress alleviation. Oxytocin dampens hyper-reactivity in the amygdala and reduces cortisol levels, mitigating cognitive fatigue and enhancing emotional stability.",
-      "ja": "いかなる批判や攻撃もなく内面を完全に共有できる少数の集まりは、大脳に強力な「心理的安全性（Psychological Safety）」を与えます。このような信頼関係の中で深い対話を交わすと、脳の視床下部から親密感と情緒的緩和を導くホルモンであるオキシトシン（Oxytocin）が分泌されます。オキシトシンは扁桃体の攻撃的な警戒反応を静め、慢性ストレスホルモンであるコルチゾールの分泌を急減させて免疫力を強化し、大脳の認知疲労をすっきりと整えてくれます。",
-      "zh": "一个能摒弃一切批判攻击、全盘倾吐内心的隐秘圈子，能赋予大脑极强的“心理安全感（Psychological Safety）”。在此类高度信任的纽带中开展深层次对话，会促使下丘脑大量释放掌管亲密联结与情绪安抚的催产素（Oxytocin）。催产素能有效抚平杏仁核的戒备应激，大幅拉低皮质醇水平，消除大脑的认知疲劳。",
-      "es": "Un grupo reducido y confiable donde compartir pensamientos sin juzgar brinda una gran 'Seguridad Psicológica' al cerebro. Conversar en este círculo de confianza estimula al hipotálamo a liberar oxitocina, la hormona del vínculo emocional. La oxitocina calma la hiperreactividad de la amígdala y reduce el cortisol, mitigando la fatiga cognitiva.",
-      "de": "Eine kleine vertraute Gruppe, in der man sich ohne Bewertung austauschen kann, verleiht dem Gehirn 'psychologische Sicherheit'. Tiefgründige Gespräche in diesem vertrauensvollen Rahmen regen den Hypothalamus an, Oxytocin auszuschütten – das Hormon für emotionale Bindung. Oxytocin beruhigt die Amygdala und senkt den Cortisolspiegel.",
-      "fr": "Un cercle restreint et bienveillant où partager ses pensées offre une profonde « Sécurité Psychologique » au cerveau. Échanger au sein de ce groupe stimule l'hypothalamus qui libère de l'oxytocine, l'hormone du lien affectif. L'oxytocine apaise l'amygdale et réduit le niveau de cortisol, dissipant la fatigue cognitive.",
-      "pt": "Um grupo reduzido e confiável onde compartilhar pensamentos sem julgamentos proporciona uma forte 'Segurança Psicológica' ao cérebro. Conversar nesse círculo de confiança estimula o hipotálamo a liberar oxitocina, hormônio responsável pela conexão emocional. A oxitocina acalma a amígdala e reduz o cortisol.",
-      "id": "Kelompok kecil terpercaya tempat berbagi pemikiran tanpa dihakimi memberikan 'Rasa Aman Psikologis' yang kuat bagi otak. Melakukan percakapan mendalam dalam lingkaran aman ini memicu hipotalamus untuk melepaskan oksitosin, hormon yang bertanggung jawab atas ikatan emosional. Oksitosin menenangkan amigdala dan menurunkan kadar kortisol."
-    },
-    "cautionTitle": {
-      "ko": "인위적 자극을 배제하고 대화의 본질에 집중하는 수칙",
-      "en": "Caution: Excluding Artificial Stimuli to Focus on Authentic Conversation",
-      "ja": "注意事項：人工的刺激を排除し対話の本質に集中するルール",
-      "zh": "注意事项：排除人工刺激与喧嚣，聚焦对话本质",
-      "es": "Precaución: Excluir Estímulos Artificiales para Enfocarse en la Conversación",
-      "de": "Vorsichtsmaßnahme: Künstliche Reize vermeiden und auf das Gespräch fokussieren",
-      "fr": "Mise en garde : Éliminer les stimulations artificielles pour se concentrer sur l'échange",
-      "pt": "Precaução: Excluir Estímulos Artificiais para Focar na Conversa Autêntica",
-      "id": "Perhatian: Mencegah Stimulus Buatan untuk Berfokus pada Percakapan Autentik"
-    },
-    "cautionDesc": {
-      "ko": "우정을 쌓기 위한 정원 대화를 실천할 때 흔히 범하는 오류는, 지나치게 화려한 식사나 술을 동반하여 인위적인 흥분 상태를 조성하는 것입니다. 알코올이나 폭식은 도파민의 급격한 상승과 쾌락을 유발하지만, 이내 급격한 결핍을 가져와 만성적인 불안을 증폭시킵니다. 에피쿠로스가 빵과 물만으로 식탁을 구성한 것처럼, 대화의 본질에 집중할 수 있는 최소한의 소박한 자리를 마련해야 뇌의 도파민 수용체가 정화되어 잔잔하고 영속적인 행복(아타락시아)을 감지할 수 있습니다.",
-      "en": "A common mistake when hosting social gatherings is over-indulging in lavish meals or alcohol, which creates artificial excitement. While alcohol and gluttony cause sudden dopamine spikes, they are rapidly followed by depletion, amplifying chronic anxiety. Just as Epicurus set his table with basic bread and water, keeping gatherings frugal clears dopamine receptor clutter, allowing the brain to perceive gentle, lasting serenity (Ataraxia).",
-      "ja": "友情を築くための庭園対話を実践する際によく犯す過ちは、過度に華やかな食事や酒を伴って人工的な興奮状態を作り出すことです。アルコールや暴飲暴食はドパミンの急激な上昇と快楽を誘発しますが、すぐに急激な欠乏をもたらして慢性的な不安を増幅させます。エピクロスがパンと水だけで食卓を構成したように、対話の本質に集中できる最小限の質素な場を用意してこそ、脳のドパミン受容体が浄化され静かで永続的な幸せ（アタラクシア）を感知することができます。",
-      "zh": "在展开社交对话时，人们常犯的错误在于过于依赖奢华豪宴与频频劝酒来营造人工的亢奋氛围。暴饮暴食与过量酒精固然能诱发多巴胺的暴涨，但随之而来的便是剧烈的多巴胺匮乏，加剧慢性焦虑。正如阿匹克路斯仅以面包与清水置案，维持简约消解了多巴胺受体的过载疲态，方能让大脑感悟到持久宁静的甜美（Ataraxia）。",
-      "es": "Un error común al reunirse es abusar de comidas lujosas o alcohol, lo que crea una excitación artificial. Aunque el alcohol y la glotonería generan picos de dopamina, provocan un desplome rápido que aumenta la ansiedad. Al mantener las reuniones sencillas como Epicuro, el cerebro limpia sus receptores de dopamina, permitiendo percibir una serenidad duradera (Ataraxia).",
-      "de": "Ein häufiger Fehler bei Treffen ist der übermäßige Genuss von opulentem Essen oder Alkohol, was künstliche Erregung erzeugt. Dopaminspitzen durch Alkohol gefolgt von Abstürzen verstärken Angstzustände. Wenn Treffen einfach gehalten werden, reinigt dies die Dopaminrezeptoren und ermöglicht dauerhafte Seelenruhe (Ataraxia).",
-      "fr": "Une erreur classique lors des réunions amicales est d'abuser de repas somptueux ou d'alcool, générant une excitation artificielle. Les pics de dopamine dus à l'alcool suivis de déficits amplifient l'anxiété. En gardant des rencontres simples comme Épicure, le cerveau régule ses récepteurs de dopamine, percevant une sérénité durable (Ataraxie).",
-      "pt": "Um erro comum ao se reunir é exagerar em refeições fartas ou álcool, criando uma excitação artificial. Picos de dopamina seguidos por quedas aumentam a ansiedade. Mantendo os encontros simples como Epicuro, o cérebro limpa seus receptores de dopamina, permitindo perceber uma serenidade duradoura (Ataraxia).",
-      "id": "Kesalahan umum saat berkumpul adalah terlalu memanjakan diri dalam makanan mewah atau alkohol yang menciptakan kegembiraan buatan. Lonjakan dopamin akibat alkohol yang diikuti oleh penurunan drastis justru meningkatkan kecemasan. Dengan menjaga pertemuan tetap sederhana seperti Epicurus, otak membersihkan reseptor dopamin, memungkinkan persepsi ketenangan yang tahan lama (Ataraxia)."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 심리적 장벽이 없는 소수 우정 모임 설계",
-          "en": "Step 1: Designing a Small Circle of Psychological Safety",
-          "ja": "ステップ1：心理的障壁のない少数友情集まりの設計",
-          "zh": "步骤1：缔造零心理防线的至纯私密社群",
-          "es": "Paso 1: Diseñar un Grupo Reducido de Seguridad Psicológica",
-          "de": "Schritt 1: Aufbau eines kleinen Vertrauenskreises",
-          "fr": "Étape 1 : Conception d'un petit cercle de confiance",
-          "pt": "Passo 1: Criar um Pequeno Círculo de Segurança Psicológica",
-          "id": "Langkah 1: Merancang Lingkaran Kecil dengan Rasa Aman Psikologis"
-        },
-        "text": {
-          "ko": "가면을 쓸 필요가 없는 편안한 벗 2~3명을 엄선하여, 그들과 사적으로 주기적인 소모임 스케줄을 만듭니다.",
-          "en": "Select 2 to 3 close friends with whom you can drop all social masks, and schedule regular, private gatherings.",
-          "ja": "仮面をかぶる必要のない気楽な友人2〜3人を厳選し、彼らと私的に定期的な小グループのスケジュールを作ります。",
-          "zh": "精选2-3位无需戴上社交面具的挚友，与他们设定固定的私密聚会日程。",
-          "es": "Seleccione de 2 a 3 amigos cercanos con quienes no necesite fingir, y programe reuniones privadas periódicas.",
-          "de": "Wählen Sie 2 bis 3 enge Freunde aus, vor denen Sie sich nicht verstellen müssen, und vereinbaren Sie regelmäßige Treffen.",
-          "fr": "Sélectionnez 2 à 3 amis proches avec lesquels vous n'avez pas besoin de jouer un rôle, et planifiez des rencontres régulières.",
-          "pt": "Selecione de 2 a 3 amigos próximos com quem você não precise fingir, e agende encontros periódicos.",
-          "id": "Pilih 2 hingga 3 teman dekat yang membuat Anda tidak perlu berpura-pura, dan jadwalkan pertemuan pribadi secara berkala."
-        }
+    "pubDate": "2026-01-20",
+    "updatedDate": "2026-01-20",
+    "heroImage": "/images/blog/epicurus_garden_conversation.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "소박한 정원에서의 지적 연대: 에피쿠로스의 대화 및 검소한 식사 습관과 마음 평정법",
+        "description": "아테네 외곽에 '정원'을 짓고 소수의 벗들과 검소한 식사를 나누며 깊은 사색을 공유한 에피쿠로스. 사회적 과시를 배제하고 안전한 유대관계 속에서 대화를 나누는 습관이 체내 옥시토신과 세로토닌을 자극해 고차원적 행복을 느끼게 하는 메커니즘을 규명합니다.",
+        "authority": "디오게네스 라에르티오스 『유명한 철학자들의 생애와 사상(Lives and Opinions of Eminent Philosophers)』 및 에피쿠로스 서간집 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"우리가 누구와 함께 먹고 마시는가가 무엇을 먹고 마시는가보다 훨씬 중요하다.\" 🍇\n\n고대 그리스의 철학자이자 마음에 불필요한 번뇌가 없고 몸에 통증이 없는 참된 평안인 '아타락시아(Ataraxia)'와 '아포니아(Aponia)'를 부르짖은 사상가 에피쿠로스(Epicurus, 341–270 BC). 흔히 그를 무제한의 육체적 쾌락을 추구하는 극단적 쾌락주의자로 오해하지만, 그의 실제 삶은 누구보다 소박하고 절제되어 있었습니다.\n\n에피쿠로스는 아테네 외곽에 신분과 성별을 막론하고 누구에게나 열려 있는 거처인 '정원(Kepos)'을 마련하고 소수의 벗들과 모여 살았습니다. 매일 오후, 그들은 밭에서 딴 신선한 채소와 물, 소량의 치즈를 나누며 우정(Philia) 속에서 깊은 정신적 교감을 담은 학술 토론을 즐겼습니다. 그는 \"나에게 오직 빵과 물, 그리고 약간의 치즈만 있다면 제우스신도 부럽지 않은 행복을 누릴 수 있다\"고 말할 정도였습니다. 격동의 시기에 극도의 불안을 다스리고 평정을 유지한 에피쿠로스의 정원 식사 루틴의 뇌과학적 원리를 해부합니다.",
+        "whyTitle": "심리적 안전감과 옥시토신 및 세로토닌의 유대 효과",
+        "whyDesc": "어떤 비난이나 공격 없이 내면을 온전히 공유할 수 있는 소수의 모임은 대뇌에 강력한 '심리적 안전감(Psychological Safety)'을 부여합니다. 이러한 신뢰적 유대 관계에서 깊은 대화를 나누면, 뇌의 시상하부에서 친밀감과 정서적 완화를 이끄는 호르몬인 옥시토신(Oxytocin)이 뿜어져 나옵니다. 옥시토신은 편도체의 공격적 경계 반응을 잠재우고 만성 스트레스 호르몬인 코르티솔의 분비를 급감시켜 면역력을 강화하고 대뇌의 인지 피로를 말끔히 정돈해 줍니다.",
+        "cautionTitle": "인위적 자극을 배제하고 대화의 본질에 집중하는 수칙",
+        "cautionDesc": "우정을 쌓기 위한 정원 대화를 실천할 때 흔히 범하는 오류는, 지나치게 화려한 식사나 술을 동반하여 인위적인 흥분 상태를 조성하는 것입니다. 알코올이나 폭식은 도파민의 급격한 상승과 쾌락을 유발하지만, 이내 급격한 결핍을 가져와 만성적인 불안을 증폭시킵니다. 에피쿠로스가 빵과 물만으로 식탁을 구성한 것처럼, 대화의 본질에 집중할 수 있는 최소한의 소박한 자리를 마련해야 뇌의 도파민 수용체가 정화되어 잔잔하고 영속적인 행복(아타락시아)을 감지할 수 있습니다.",
+        "steps": [
+          {
+            "title": "1단계: 심리적 장벽이 없는 소수 우정 모임 설계",
+            "desc": "가면을 쓸 필요가 없는 편안한 벗 2~3명을 엄선하여, 그들과 사적으로 주기적인 소모임 스케줄을 만듭니다."
+          },
+          {
+            "title": "2단계: 검소하고 자극 없는 소박한 식단 차리기",
+            "desc": "거창한 외식 대신 물, 차, 소박한 샌드위치 등으로 가볍고 위장에 자극이 없는 무설탕 검소 식단을 마련합니다."
+          },
+          {
+            "title": "3단계: 경계심 없는 개방형 지적 대화 진행",
+            "desc": "사회적 과시나 직급을 배제하고, 인생의 참된 의미와 철학, 고민거리에 대해 온전히 1시간 동안 무비판적인 태도로 경청하며 대화합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "지인들과 대화할 때마다 정치나 경제 이야기로 흘러 논쟁이 되는데 어떻게 대처하나요?",
+            "answer": "논쟁적인 주제는 아드레날린과 코르티솔 분비를 부추겨 심리적 피로를 야기합니다. 모임 시작 전 '오늘은 시사 이슈 대신 개인의 마음 상태나 읽은 책에 대해서만 이야기하자'라는 가벼운 그라운드 룰을 사전에 공표하는 것이 모임의 아타락시아를 유지하는 핵심 방패입니다."
+          },
+          {
+            "question": "친구들을 매주 만나기에는 일정 조정이 너무 어렵습니다. 다른 대안이 있을까요?",
+            "answer": "매주 대면할 필요는 없습니다. 한 달에 1회 깊은 대면 만남을 갖거나, 격주로 30분간 조용한 음성 통화로 일상의 내면을 공유하는 것만으로도 대뇌 옥시토신 경로를 유지하는 데 충분히 유효한 자극이 됩니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 검소하고 자극 없는 소박한 식단 차리기",
-          "en": "Step 2: Preparing a Frugal, Non-Stimulating Meal",
-          "ja": "ステップ2：質素で刺激のない素朴な献立の準備",
-          "zh": "步骤2：置办清淡不加刺激的极简茶食",
-          "es": "Paso 2: Preparar una Comida Frugal y No Estimulante",
-          "de": "Schritt 2: Zubereitung einer einfachen, reizarmen Mahlzeit",
-          "fr": "Étape 2 : Préparation d'un repas frugal et non stimulant",
-          "pt": "Passo 2: Preparar uma Refeição Frugal e Sem Estímulos",
-          "id": "Langkah 2: Menyiapkan Makanan Sederhana Tanpa Stimulasi"
-        },
-        "text": {
-          "ko": "거창한 외식 대신 물, 차, 소박한 샌드위치 등으로 가볍고 위장에 자극이 없는 무설탕 검소 식단을 마련합니다.",
-          "en": "Instead of lavish dining out, serve water, tea, or simple sandwiches—preparing a light, sugar-free, non-stimulating menu.",
-          "ja": "大げさな外食の代わりに水、お茶、素朴なサンドイッチなどで軽くて胃に刺激のない無糖の質素な献立を用意します。",
-          "zh": "替代高档餐厅外食，准备茶水、清水或简易三明治，构成清淡无糖、不加肠胃负担的简约餐食。",
-          "es": "En lugar de cenas extravagantes, sirva agua, té o sándwiches sencillos, preparando un menú ligero y sin azúcares.",
-          "de": "Servieren Sie anstelle von teuren Restaurantbesuchen Wasser, Tee oder einfache Sandwiches – ein leichtes, reizarmes Menü.",
-          "fr": "Au lieu de sorties coûteuses, servez de l'eau, du thé ou de simples sandwichs, préparant un menu léger et sans sucre.",
-          "pt": "Em vez de jantares extravagantes, sirva água, chá ou sanduíches simples, preparando um menu leve e sem açúcar.",
-          "id": "Alih-alih makan malam mewah, sajikan air, teh, atau roti lapis sederhana—menyiapkan menu ringan yang bebas gula dan tidak merangsang."
-        }
+      "en": {
+        "title": "Intellectual Solidarity in a Modest Garden: Epicurus's Conversation and Frugal Dining Routine for Mental Tranquility",
+        "description": "Discover how Epicurus built 'The Garden' outside Athens to share frugal meals and deep reflection with trusted friends. Explore the neuroscience of psychological safety, oxytocin, and dopamine regulation that induce profound tranquility.",
+        "authority": "Historical Verification from Diogenes Laertius's *Lives and Opinions of Eminent Philosophers*, Epicurus's Letters & Cognitive Neuroscience Research",
+        "intro": "\"We should look for someone to eat and drink with before we look for something to eat and drink.\" 🍇\n\nEpicurus (341–270 BC) was the Hellenistic Greek philosopher who defined true happiness as 'Ataraxia' (a mind free from anxiety) and 'Aponia' (a body free from pain). Though modern culture often misinterprets his philosophy as indulgent hedonism, Epicurus actually lived an exceptionally frugal, self-disciplined life focused on tranquility.\n\nOutside Athens, Epicurus established 'The Garden' (Kepos), an egalitarian community open to all regardless of social status or gender. Every afternoon, Epicurus and his close friends shared simple meals of water, barley bread, olives, and an occasional morsel of cheese, engaging in philosophical conversations anchored in deep friendship (Philia). He famously proclaimed, \"Send me a little pot of cheese, that I may be able to indulge myself whenever I wish.\" In today's post, we dissect the cognitive neuroscience behind Epicurus's garden dining routine and how modest, secure social bonds foster enduring mental peace.",
+        "whyTitle": "Psychological Safety and the Bonding Effects of Oxytocin and Serotonin",
+        "whyDesc": "A small, trusted group where thoughts can be shared without judgment provides profound 'Psychological Safety' to the brain. Engaging in meaningful conversations within this secure circle triggers the hypothalamus to release oxytocin, the hormone responsible for emotional bonding and stress alleviation. Oxytocin dampens hyper-reactivity in the amygdala and reduces cortisol levels, mitigating cognitive fatigue and enhancing emotional stability.",
+        "cautionTitle": "Caution: Excluding Artificial Stimuli to Focus on Authentic Conversation",
+        "cautionDesc": "A common mistake when hosting social gatherings is over-indulging in lavish meals or alcohol, which creates artificial excitement. While alcohol and gluttony cause sudden dopamine spikes, they are rapidly followed by depletion, amplifying chronic anxiety. Just as Epicurus set his table with basic bread and water, keeping gatherings frugal clears dopamine receptor clutter, allowing the brain to perceive gentle, lasting serenity (Ataraxia).",
+        "steps": [
+          {
+            "title": "Step 1: Designing a Small Circle of Psychological Safety",
+            "desc": "Select 2 to 3 close friends with whom you can drop all social masks, and schedule regular, private gatherings."
+          },
+          {
+            "title": "Step 2: Preparing a Frugal, Non-Stimulating Meal",
+            "desc": "Instead of lavish dining out, serve water, tea, or simple sandwiches—preparing a light, sugar-free, non-stimulating menu."
+          },
+          {
+            "title": "Step 3: Engaging in Open, Non-Judgmental Dialogue",
+            "desc": "Strip away social status and posturing, spending a full hour listening empathetically to reflections on life's meaning, philosophy, and personal concerns."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How should I handle conversations that devolve into stressful political or economic debates?",
+            "answer": "Controversial debates trigger adrenaline and cortisol, causing cognitive fatigue. Establishing a ground rule beforehand—such as 'Today, let's talk about our inner experiences or books we've read rather than current news'—serves as the ultimate shield to protect your group's Ataraxia."
+          },
+          {
+            "question": "What if scheduling weekly face-to-face meetings with friends is too difficult?",
+            "answer": "Weekly face-to-face gatherings are not strictly required. Meeting once a month in person, or holding a quiet 30-minute bi-weekly phone call to share honest feelings, is fully sufficient to stimulate oxytocin pathways and maintain psychological safety."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 경계심 없는 개방형 지적 대화 진행",
-          "en": "Step 3: Engaging in Open, Non-Judgmental Dialogue",
-          "ja": "ステップ3：警戒心のない開放的な知的対話の進行",
-          "zh": "步骤3：展开毫无戒备的开放式真谛交谈",
-          "es": "Paso 3: Mantener un Diálogo Abierto y Sin Prejuicios",
-          "de": "Schritt 3: Führen eines offenen, wertfreien Gesprächs",
-          "fr": "Étape 3 : Échange intellectuel ouvert et sans jugement",
-          "pt": "Passo 3: Manter um Diálogo Aberto e Sem Julgamentos",
-          "id": "Langkah 3: Melakukan Dialog Terbuka Tanpa Penghakiman"
-        },
-        "text": {
-          "ko": "사회적 과시나 직급을 배제하고, 인생의 참된 의미와 철학, 고민거리에 대해 온전히 1시간 동안 무비판적인 태도로 경청하며 대화합니다.",
-          "en": "Strip away social status and posturing, spending a full hour listening empathetically to reflections on life's meaning, philosophy, and personal concerns.",
-          "ja": "社会的誇示や役職を排除し、人生の真の意味や哲学、悩みの種について完全に1時間、非批判的な態度で傾聴しながら対話します。",
-          "zh": "彻底抛绝社会地位与攀比心，用足1小时专一聆听对人生真谛、哲理与内心困惑的分享，保持绝不批判的包容姿态。",
-          "es": "Deje de lado el estatus social y dedique una hora a escuchar empáticamente sobre el sentido de la vida, la filosofía y las preocupaciones personales.",
-          "de": "Blenden Sie den Sozialstatus aus und hören Sie eine Stunde lang empathisch zu, wenn es um Lebenssinn, Philosophie und Sorgen geht.",
-          "fr": "Écartez les statuts sociaux et consacrez une heure à écouter avec empathie les réflexions sur le sens de la vie, la philosophie et les soucis.",
-          "pt": "Deixe de lado o status social e dedique uma hora para ouvir com empatia sobre o sentido da vida, filosofia e preocupações pessoais.",
-          "id": "Kehendaki status sosial dan luangkan waktu satu jam penuh untuk mendengarkan dengan empati refleksi tentang makna hidup, filsafat, dan masalah pribadi."
-        }
+      "zh": {
+        "title": "朴素庭院里的智力联结：阿匹克路斯的对话与节俭饮食习惯及心灵平静之道",
+        "description": "深度剖析阿匹克路斯在雅典郊外建立“庭院”，与挚友分食简朴餐食、分享深邃思考的习惯。揭示排除社会炫耀、在安全纽带中对话如何刺激催产素与血清素分泌，从而引发高阶幸福感的神经机制。",
+        "authority": "第欧根尼·拉尔修《哲人言行录（Lives and Opinions of Eminent Philosophers）》与阿匹克路斯书信集考证及认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "“相较于吃喝何物，与何人同席共食要重要得多。” 🍇\n\n古希腊哲学家阿匹克路斯（Epicurus，公元前341–270年）提出了真正的幸福源于内心毫无忧惧的“静心（Ataraxia）”与身体毫无痛苦的“无痛（Aponia）”。世人常误将他奉为追求无节制肉体享乐的极端享乐主义者，然而他真实的生活却比任何人都要朴素与节制。\n\n阿匹克路斯在雅典郊外置办了一处不分社会阶级与性别、向所有人敞开的社群——“庭院（Kepos）”，与少数挚友长居于此。每天下午，他们分食从田间采摘的蔬菜、清水与少许起司，在至真友情（Philia）中开展富有深邃精神交会的学术研讨。他曾言：“只要给我面包、水和一块小起司，我便能与宙斯争胜幸福。”在今天的文章中，我们将深度剖析阿匹克路斯“庭院进餐”习惯背后的脑科学原理。",
+        "whyTitle": "心理安全感与催产素及血清素的粘合效应",
+        "whyDesc": "一个能摒弃一切批判攻击、全盘倾吐内心的隐秘圈子，能赋予大脑极强的“心理安全感（Psychological Safety）”。在此类高度信任的纽带中开展深层次对话，会促使下丘脑大量释放掌管亲密联结与情绪安抚的催产素（Oxytocin）。催产素能有效抚平杏仁核的戒备应激，大幅拉低皮质醇水平，消除大脑的认知疲劳。",
+        "cautionTitle": "注意事项：排除人工刺激与喧嚣，聚焦对话本质",
+        "cautionDesc": "在展开社交对话时，人们常犯的错误在于过于依赖奢华豪宴与频频劝酒来营造人工的亢奋氛围。暴饮暴食与过量酒精固然能诱发多巴胺的暴涨，但随之而来的便是剧烈的多巴胺匮乏，加剧慢性焦虑。正如阿匹克路斯仅以面包与清水置案，维持简约消解了多巴胺受体的过载疲态，方能让大脑感悟到持久宁静的甜美（Ataraxia）。",
+        "steps": [
+          {
+            "title": "步骤1：缔造零心理防线的至纯私密社群",
+            "desc": "精选2-3位无需戴上社交面具的挚友，与他们设定固定的私密聚会日程。"
+          },
+          {
+            "title": "步骤2：置办清淡不加刺激的极简茶食",
+            "desc": "替代高档餐厅外食，准备茶水、清水或简易三明治，构成清淡无糖、不加肠胃负担的简约餐食。"
+          },
+          {
+            "title": "步骤3：展开毫无戒备的开放式真谛交谈",
+            "desc": "彻底抛绝社会地位与攀比心，用足1小时专一聆听对人生真谛、哲理与内心困惑的分享，保持绝不批判的包容姿态。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "每次与朋友聊天总会滑向政治或经济辩论引发争吵，该如何应对？",
+            "answer": "争论不休的话题会倒逼肾上腺素与皮质醇过量分泌，拉垮神经平稳。在聚会开始前提前拟定一条约定：“今天咱们聊聊近来的心路历程或读书心得，暂且放下时事焦点”，这乃是守护团体静心（Ataraxia）的终极盾牌。"
+          },
+          {
+            "question": "协调朋友每周线下聚餐难度极大，有其他替代方案吗？",
+            "answer": "绝无必要每周面基。哪怕每月开展1次深度线下小聚，或每两周进行一次30分钟的安静语音通话分流内心感受，便足以有效拉动脑内的催产素通路并维持心理安全感。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "朴素な庭園での知的連帯：エピクロスの対話と質素な食事習慣および心の平静法",
+        "description": "アテネ郊外に「庭園」を建て、少数の友と質素な食事を分かち合い深い思索を共有したエピクロス。社会的誇示を排除し安全な絆の中で対話を交わす習慣が、体内のオキシトシンとセロトニンを刺激して高次元の幸せを感じさせるメカニズムを解き明かします。",
+        "authority": "ディオゲネス・ラエルティオス『傑出した哲学者たちの生涯と思想（Lives and Opinions of Eminent Philosophers）』およびエピクロス書簡集考証＆認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「何を食べ飲むかよりも、誰と一緒に食べ飲むかがはるかに重要である。」 🍇\n\n古代ギリシャの哲学者であり、心に不必要な煩悩がなく体に痛みのない真の平安である「アタラクシア（Ataraxia）」と「アポニア（Aponia）」を唱えた思想家エピクロス（Epicurus、341–270 BC）。しばしば彼を無制限の肉体的快楽を追求する極端な快楽主義者と誤解されますが、彼の実際の生活は誰よりも質素で節制されていました。\n\nエピクロスはアテネ郊外に身分や性別を問わず誰にでも開かれた居場所である「庭園（Kepos）」を設け、少数の友と集まって暮らしました。毎日午後、彼らは畑から摘んだ新鮮な野菜と水、少量のチーズを分かち合い、友情（Philia）の中で深い精神的交感を含む学術討論を楽しみました。彼は「私にただパンと水、そして少しのチーズさえあれば、ゼウス神も羨ましくない幸せを享受できる」と語るほどでした。激動の時代に極度の不安を統制し平静を維持したエピクロスの庭園食事ルーティンの脳科学的原理を解剖します。",
+        "whyTitle": "心理的安全性とオキシトシンおよびセロトニンの絆効果",
+        "whyDesc": "いかなる批判や攻撃もなく内面を完全に共有できる少数の集まりは、大脳に強力な「心理的安全性（Psychological Safety）」を与えます。このような信頼関係の中で深い対話を交わすと、脳の視床下部から親密感と情緒的緩和を導くホルモンであるオキシトシン（Oxytocin）が分泌されます。オキシトシンは扁桃体の攻撃的な警戒反応を静め、慢性ストレスホルモンであるコルチゾールの分泌を急減させて免疫力を強化し、大脳の認知疲労をすっきりと整えてくれます。",
+        "cautionTitle": "注意事項：人工的刺激を排除し対話の本質に集中するルール",
+        "cautionDesc": "友情を築くための庭園対話を実践する際によく犯す過ちは、過度に華やかな食事や酒を伴って人工的な興奮状態を作り出すことです。アルコールや暴飲暴食はドパミンの急激な上昇と快楽を誘発しますが、すぐに急激な欠乏をもたらして慢性的な不安を増幅させます。エピクロスがパンと水だけで食卓を構成したように、対話の本質に集中できる最小限の質素な場を用意してこそ、脳のドパミン受容体が浄化され静かで永続的な幸せ（アタラクシア）を感知することができます。",
+        "steps": [
+          {
+            "title": "ステップ1：心理的障壁のない少数友情集まりの設計",
+            "desc": "仮面をかぶる必要のない気楽な友人2〜3人を厳選し、彼らと私的に定期的な小グループのスケジュールを作ります。"
+          },
+          {
+            "title": "ステップ2：質素で刺激のない素朴な献立の準備",
+            "desc": "大げさな外食の代わりに水、お茶、素朴なサンドイッチなどで軽くて胃に刺激のない無糖の質素な献立を用意します。"
+          },
+          {
+            "title": "ステップ3：警戒心のない開放的な知的対話の進行",
+            "desc": "社会的誇示や役職を排除し、人生の真の意味や哲学、悩みの種について完全に1時間、非批判的な態度で傾聴しながら対話します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "知人たちと対話するたびに政治や経済の話に流れて論争になりますが、どのように対処すればよいですか？",
+            "answer": "論争的なテーマはアドレナリンとコルチゾールの分泌をあおり、心理的疲労を引き起こします。集まりの開始前に「今日は時事ニュースの代わりに個人の心 bucket や読んだ本についてだけ話そう」という軽いグラウンドルールを事前に公表することが、集まりのアタラクシアを維持する核心の盾となります。"
+          },
+          {
+            "question": "友達に毎週会うにはスケジュール調整が難しいです。何か他の代替案はありますか？",
+            "answer": "毎週対面する必要はありません。月に1回深い対面での集まりを持ったり、隔週で30分間静かな音声通話で日常の内面を共有するだけでも、大脳のオキシトシン経路を維持するのに十分に有効な刺激となります。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Solidaridad Intelectual en un Jardín Modesto: La Conversación y Rutina de Comida Frugal de Epicuro para la Tranquilidad Mental",
+        "description": "Descubra cómo Epicuro construyó 'El Jardín' fuera de Atenas para compartir comidas frugales y reflexiones profundas con amigos. Explore la neurociencia de la seguridad psicológica, la oxitocina y la serotonina que inducen una profunda tranquilidad.",
+        "authority": "Verificación Histórica de *Vidas, opiniones y sentencias de los filósofos más ilustres* de Diógenes Laercio, Cartas de Epicuro e Investigación en Neurociencia Cognitiva",
+        "intro": "\"Debemos buscar con quién comer y beber antes que qué comer y beber.\" 🍇\n\nEpicuro (341–270 a.C.) fue el filósofo griego que definió la verdadera felicidad como 'Ataraxia' (tranquilidad de la mente) y 'Aponia' (ausencia de dolor físico). Aunque a menudo se malinterpreta su filosofía como un hedonismo desenfrenado, Epicuro vivió una vida frugal y disciplinada.\n\nA las afueras de Atenas, Epicuro fundó 'El Jardín' (Kepos), una comunidad igualitaria abierta a todos. Cada tarde, Epicuro y sus amigos compartían comidas sencillas de agua, pan y un poco de queso, disfrutando de conversaciones filosóficas basadas en la amistad (Philia). Solía decir: \"Envíame un poco de queso para darme un banquete cuando quiera.\" En la publicación de hoy, analizamos la neurociencia detrás de la rutina gastronómica de Epicuro y cómo los lazos sociales seguros fomentan la paz mental.",
+        "whyTitle": "Seguridad Psicológica y los Efectos de Vínculo de la Oxitocina y la Serotonina",
+        "whyDesc": "Un grupo reducido y confiable donde compartir pensamientos sin juzgar brinda una gran 'Seguridad Psicológica' al cerebro. Conversar en este círculo de confianza estimula al hipotálamo a liberar oxitocina, la hormona del vínculo emocional. La oxitocina calma la hiperreactividad de la amígdala y reduce el cortisol, mitigando la fatiga cognitiva.",
+        "cautionTitle": "Precaución: Excluir Estímulos Artificiales para Enfocarse en la Conversación",
+        "cautionDesc": "Un error común al reunirse es abusar de comidas lujosas o alcohol, lo que crea una excitación artificial. Aunque el alcohol y la glotonería generan picos de dopamina, provocan un desplome rápido que aumenta la ansiedad. Al mantener las reuniones sencillas como Epicuro, el cerebro limpia sus receptores de dopamina, permitiendo percibir una serenidad duradera (Ataraxia).",
+        "steps": [
+          {
+            "title": "Paso 1: Diseñar un Grupo Reducido de Seguridad Psicológica",
+            "desc": "Seleccione de 2 a 3 amigos cercanos con quienes no necesite fingir, y programe reuniones privadas periódicas."
+          },
+          {
+            "title": "Paso 2: Preparar una Comida Frugal y No Estimulante",
+            "desc": "En lugar de cenas extravagantes, sirva agua, té o sándwiches sencillos, preparando un menú ligero y sin azúcares."
+          },
+          {
+            "title": "Paso 3: Mantener un Diálogo Abierto y Sin Prejuicios",
+            "desc": "Deje de lado el estatus social y dedique una hora a escuchar empáticamente sobre el sentido de la vida, la filosofía y las preocupaciones personales."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo debo manejar las conversaciones que se convierten en acalorados debates políticos o económicos?",
+            "answer": "Los temas polémicos estimulan la adrenalina y el cortisol, causando fatiga. Establecer una regla previa —como 'Hoy hablemos de vivencias personales o libros en lugar de noticias'— es el escudo para mantener la Ataraxia."
+          },
+          {
+            "question": "¿Qué pasa si coordinar reuniones semanales en persona con amigos es demasiado difícil?",
+            "answer": "No es necesario reunirse semanalmente. Un encuentro presencial al mes o una llamada tranquila de 30 minutos cada dos semanas para compartir vivencias es suficiente para estimular la oxitocina."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Solidarité intellectuelle dans un jardin modeste : La conversation et la routine de repas frugal d'Épicure pour la sérénité",
+        "description": "Découvrez comment Épicure a fondé « Le Jardin » près d'Athènes pour partager des repas frugaux et de profondes réflexions entre amis. Explorez la neuroscience de la sécurité psychologique, de l'oxytocine et de la sérotonine.",
+        "authority": "Vérification Historique issue de *Vies, doctrines et sentences des philosophes illustres* de Diogène Laërce, des Lettres d'Épicure & de la Recherche en Neurosciences Cognitives",
+        "intro": "« Nous devons chercher avec qui manger et boire avant de chercher quoi manger et boire. » 🍇\n\nÉpicure (341–270 av. J.-C.) définissait le bonheur ultime comme l'« Ataraxie » (sérénité de l'esprit) et l'« Aponie » (absence de douleur physique). Bien que sa pensée soit souvent confondue avec un hédonisme débridé, Épicure menait une vie d'une grande frugalité.\n\nPrès d'Athènes, il fonda « Le Jardin » (Kepos), une communauté ouverte à tous sans distinction. Chaque après-midi, Épicure et ses proches partageaient des repas simples composés d'eau, de pain et d'un peu de fromage, échangeant des réflexions philosophiques ancrées dans l'amitié (Philia). Il disait : « Envoie-moi un peu de fromage, pour que je puisse faire un festin quand je veux. » Dans cet article, nous analysons la neuroscience sous-jacente à la routine d'Épicure.",
+        "whyTitle": "Sécurité psychologique et effets de lien de l'oxytocine et de la sérotonine",
+        "whyDesc": "Un cercle restreint et bienveillant où partager ses pensées offre une profonde « Sécurité Psychologique » au cerveau. Échanger au sein de ce groupe stimule l'hypothalamus qui libère de l'oxytocine, l'hormone du lien affectif. L'oxytocine apaise l'amygdale et réduit le niveau de cortisol, dissipant la fatigue cognitive.",
+        "cautionTitle": "Mise en garde : Éliminer les stimulations artificielles pour se concentrer sur l'échange",
+        "cautionDesc": "Une erreur classique lors des réunions amicales est d'abuser de repas somptueux ou d'alcool, générant une excitation artificielle. Les pics de dopamine dus à l'alcool suivis de déficits amplifient l'anxiété. En gardant des rencontres simples comme Épicure, le cerveau régule ses récepteurs de dopamine, percevant une sérénité durable (Ataraxie).",
+        "steps": [
+          {
+            "title": "Étape 1 : Conception d'un petit cercle de confiance",
+            "desc": "Sélectionnez 2 à 3 amis proches avec lesquels vous n'avez pas besoin de jouer un rôle, et planifiez des rencontres régulières."
+          },
+          {
+            "title": "Étape 2 : Préparation d'un repas frugal et non stimulant",
+            "desc": "Au lieu de sorties coûteuses, servez de l'eau, du thé ou de simples sandwichs, préparant un menu léger et sans sucre."
+          },
+          {
+            "title": "Étape 3 : Échange intellectuel ouvert et sans jugement",
+            "desc": "Écartez les statuts sociaux et consacrez une heure à écouter avec empathie les réflexions sur le sens de la vie, la philosophie et les soucis."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment gérer les discussions qui dégénèrent en débats politiques ou économiques stressants ?",
+            "answer": "Les sujets controversés stimulent l'adrénaline et le cortisol, provoquant une fatigue mentale. Établir une règle au préalable — comme « Aujourd'hui, parlons de nos expériences ou de nos lectures » — protège l'Ataraxie du groupe."
+          },
+          {
+            "question": "Que faire si planifier des rencontres hebdomadaires avec ses amis est trop difficile ?",
+            "answer": "Il n'est pas nécessaire de se voir chaque semaine. Une rencontre mensuelle ou un appel de 30 minutes toutes les deux semaines suffit amplement à stimuler les circuits de l'oxytocine."
+          }
+        ]
+      },
+      "de": {
+        "title": "Intellektuelle Solidarität in einem bescheidenen Garten: Epikurs Konversations- und einfache Essroutine für Seelenruhe",
+        "description": "Erfahren Sie, wie Epikur außerhalb Athens den 'Garten' errichtete, um einfache Mahlzeiten und tiefe Gedanken mit Freunden zu teilen. Entdecken Sie die Neurowissenschaften hinter psychologischer Sicherheit, Oxytocin und Serotonin.",
+        "authority": "Historische Überprüfung aus Diogenes Laertios' *Leben und Lehren berühmter Philosophen*, Epikurs Briefen & Forschung der kognitiven Neurowissenschaften",
+        "intro": "\"Wir sollten vor allem darauf achten, mit wem wir essen und trinken, bevor wir darauf achten, was wir essen und trinken.\" 🍇\n\nEpikur (341–270 v. Chr.) definierte wahres Glück als 'Ataraxia' (Seelenruhe) und 'Aponia' (Schmerzlosigkeit des Körpers). Obwohl seine Philosophie oft fälschlicherweise als hemmungsloser Hedonismus missverstanden wird, lebte Epikur äußerst bescheiden und diszipliniert.\n\nVor den Toren Athens gründete er den 'Garten' (Kepos), eine Gemeinschaft, die allen offenstand. Jeden Nachmittag teilten Epikur und seine Freunde einfache Mahlzeiten aus Wasser, Brot und etwas Käse und führten philosophische Gespräche in tiefem Vertrauen (Philia). Er sagte einmal: \"Schicke mir etwas Käse, damit ich ein Festmahl halten kann, wenn ich will.\" Im heutigen Beitrag analysieren wir die Neurowissenschaften hinter Epikurs Essroutine.",
+        "whyTitle": "Psychologische Sicherheit und die Bindungswirkung von Oxytocin und Serotonin",
+        "whyDesc": "Eine kleine vertraute Gruppe, in der man sich ohne Bewertung austauschen kann, verleiht dem Gehirn 'psychologische Sicherheit'. Tiefgründige Gespräche in diesem vertrauensvollen Rahmen regen den Hypothalamus an, Oxytocin auszuschütten – das Hormon für emotionale Bindung. Oxytocin beruhigt die Amygdala und senkt den Cortisolspiegel.",
+        "cautionTitle": "Vorsichtsmaßnahme: Künstliche Reize vermeiden und auf das Gespräch fokussieren",
+        "cautionDesc": "Ein häufiger Fehler bei Treffen ist der übermäßige Genuss von opulentem Essen oder Alkohol, was künstliche Erregung erzeugt. Dopaminspitzen durch Alkohol gefolgt von Abstürzen verstärken Angstzustände. Wenn Treffen einfach gehalten werden, reinigt dies die Dopaminrezeptoren und ermöglicht dauerhafte Seelenruhe (Ataraxia).",
+        "steps": [
+          {
+            "title": "Schritt 1: Aufbau eines kleinen Vertrauenskreises",
+            "desc": "Wählen Sie 2 bis 3 enge Freunde aus, vor denen Sie sich nicht verstellen müssen, und vereinbaren Sie regelmäßige Treffen."
+          },
+          {
+            "title": "Schritt 2: Zubereitung einer einfachen, reizarmen Mahlzeit",
+            "desc": "Servieren Sie anstelle von teuren Restaurantbesuchen Wasser, Tee oder einfache Sandwiches – ein leichtes, reizarmes Menü."
+          },
+          {
+            "title": "Schritt 3: Führen eines offenen, wertfreien Gesprächs",
+            "desc": "Blenden Sie den Sozialstatus aus und hören Sie eine Stunde lang empathisch zu, wenn es um Lebenssinn, Philosophie und Sorgen geht."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie gehe ich mit Gesprächen um, die in anstrengende politische Debatten abgleiten?",
+            "answer": "Kontroverse Themen schütten Adrenalin und Cortisol aus. Eine Vorab-Regel wie 'Heute sprechen wir über persönliche Gedanken oder Bücher anstelle von Nachrichten' schützt die Ataraxia der Gruppe."
+          },
+          {
+            "question": "Was tun, wenn wöchentliche Treffen mit Freunden zeitlich nicht machbar sind?",
+            "answer": "Wöchentliche Treffen sind nicht notwendig. Ein monatliches persönliches Treffen oder ein ruhiges 30-minütiges Telefonat alle zwei Wochen reicht völlig aus, um die Oxytocin-Pfade zu stimulieren."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Solidariedade Intelectual em um Jardim Modesto: A Conversa e a Rotina de Refeição Frugal de Epicuro para a Tranquilidade Mental",
+        "description": "Descubra como Epicuro construiu 'O Jardim' fora de Atenas para compartilhar refeições frugais e reflexões profundas com amigos. Explore a neurociência da segurança psicológica, oxitocina e serotonina que induzem tranquilidade.",
+        "authority": "Verificação Histórica de *Vidas e Doutrinas dos Filósofos Ilustres* de Diógenes Laércio, Cartas de Epicuro e Pesquisa em Neurociência Cognitiva",
+        "intro": "\"Devemos procurar com quem comer e beber antes de procurar o que comer e beber.\" 🍇\n\nEpicuro (341–270 a.C.) foi o filósofo grego que definiu a verdadeira felicidade como 'Ataraxia' (tranquilidade da mente) e 'Aponia' (ausência de dor física). Embora sua filosofia seja frequentemente mal interpretada como um hedonismo desenfreado, Epicuro viveu de forma frugal e disciplinada.\n\nNas proximidades de Atenas, fundou 'O Jardim' (Kepos), uma comunidade aberta a todos. Todas as tardes, Epicuro e seus amigos compartilhavam refeições simples de água, pão e um pouco de queijo, desfrutando de conversas filosóficas baseadas na amizade (Philia). Costumava dizer: \"Envie-me um pouco de queijo para que eu possa festejar quando quiser.\" No artigo de hoje, analisamos a neurociência por trás da rotina de Epicuro.",
+        "whyTitle": "Segurança Psicológica e os Efeitos de Conexão da Oxitocina e da Serotonina",
+        "whyDesc": "Um grupo reduzido e confiável onde compartilhar pensamentos sem julgamentos proporciona uma forte 'Segurança Psicológica' ao cérebro. Conversar nesse círculo de confiança estimula o hipotálamo a liberar oxitocina, hormônio responsável pela conexão emocional. A oxitocina acalma a amígdala e reduz o cortisol.",
+        "cautionTitle": "Precaução: Excluir Estímulos Artificiais para Focar na Conversa Autêntica",
+        "cautionDesc": "Um erro comum ao se reunir é exagerar em refeições fartas ou álcool, criando uma excitação artificial. Picos de dopamina seguidos por quedas aumentam a ansiedade. Mantendo os encontros simples como Epicuro, o cérebro limpa seus receptores de dopamina, permitindo perceber uma serenidade duradoura (Ataraxia).",
+        "steps": [
+          {
+            "title": "Passo 1: Criar um Pequeno Círculo de Segurança Psicológica",
+            "desc": "Selecione de 2 a 3 amigos próximos com quem você não precise fingir, e agende encontros periódicos."
+          },
+          {
+            "title": "Passo 2: Preparar uma Refeição Frugal e Sem Estímulos",
+            "desc": "Em vez de jantares extravagantes, sirva água, chá ou sanduíches simples, preparando um menu leve e sem açúcar."
+          },
+          {
+            "title": "Passo 3: Manter um Diálogo Aberto e Sem Julgamentos",
+            "desc": "Deixe de lado o status social e dedique uma hora para ouvir com empatia sobre o sentido da vida, filosofia e preocupações pessoais."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como devo lidar com conversas que se transformam em debates políticos ou econômicos desgastantes?",
+            "answer": "Temas polêmicos estimulam a adrenalina e o cortisol, causando fadiga. Estabelecer uma regra prévia — como 'Hoje vamos falar de vivências pessoais ou livros em vez de notícias' — é o escudo para manter a Ataraxia."
+          },
+          {
+            "question": "E se agendar encontros semanais presenciais com amigos for muito difícil?",
+            "answer": "Encontros semanais não são obrigatórios. Um encontro presencial por mês ou uma ligação tranquila de 30 minutos a cada duas semanas é suficiente para estimular a oxitocina."
+          }
+        ]
+      },
+      "id": {
+        "title": "Solidaritas Intelektual di Taman Sederhana: Percakapan dan Rutinitas Makan Hemat Epicurus untuk Ketenangan Jiwa",
+        "description": "Pelajari bagaimana Epicurus membangun 'Taman' di luar Athena untuk berbagi makanan sederhana dan refleksi mendalam dengan teman-teman terpercaya. Temukan neurosains tentang rasa aman psikologis, oksitosin, dan serotonin yang memicu ketenangan mendalam.",
+        "authority": "Verifikasi Historis dari *Lives and Opinions of Eminent Philosophers* karya Diogenes Laertius, Surat-Surat Epicurus & Penelitian Neurosains Kognitif",
+        "intro": "\"Kita harus mencari dengan siapa kita makan dan minum sebelum mencari apa yang kita makan dan minum.\" 🍇\n\nEpicurus (341–270 SM) adalah filsuf Yunani yang mendefinisikan kebahagiaan sejati sebagai 'Ataraxia' (ketenangan jiwa) dan 'Aponia' (bebas dari rasa sakit fisik). Meskipun filsafatnya sering disalahartikan sebagai hedonisme yang tidak terkontrol, Epicurus sebenarnya hidup secara sangat sederhana dan disiplin.\n\nDi luar Athena, Epicurus mendirikan 'Taman' (Kepos), komunitas inklusif yang terbuka untuk semua orang. Setiap sore, Epicurus dan teman-temannya berbagi makanan sederhana berupa air, roti, dan sedikit keju, sambil menikmati percakapan filosofis dalam persahabatan yang erat (Philia). Ia pernah berkata: \"Kirimi saya sedikit keju, agar saya bisa berpesta kapan pun saya mau.\" Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinitas makan Epicurus.",
+        "whyTitle": "Rasa Aman Psikologis dan Efek Ikatan Oksitosin serta Serotonin",
+        "whyDesc": "Kelompok kecil terpercaya tempat berbagi pemikiran tanpa dihakimi memberikan 'Rasa Aman Psikologis' yang kuat bagi otak. Melakukan percakapan mendalam dalam lingkaran aman ini memicu hipotalamus untuk melepaskan oksitosin, hormon yang bertanggung jawab atas ikatan emosional. Oksitosin menenangkan amigdala dan menurunkan kadar kortisol.",
+        "cautionTitle": "Perhatian: Mencegah Stimulus Buatan untuk Berfokus pada Percakapan Autentik",
+        "cautionDesc": "Kesalahan umum saat berkumpul adalah terlalu memanjakan diri dalam makanan mewah atau alkohol yang menciptakan kegembiraan buatan. Lonjakan dopamin akibat alkohol yang diikuti oleh penurunan drastis justru meningkatkan kecemasan. Dengan menjaga pertemuan tetap sederhana seperti Epicurus, otak membersihkan reseptor dopamin, memungkinkan persepsi ketenangan yang tahan lama (Ataraxia).",
+        "steps": [
+          {
+            "title": "Langkah 1: Merancang Lingkaran Kecil dengan Rasa Aman Psikologis",
+            "desc": "Pilih 2 hingga 3 teman dekat yang membuat Anda tidak perlu berpura-pura, dan jadwalkan pertemuan pribadi secara berkala."
+          },
+          {
+            "title": "Langkah 2: Menyiapkan Makanan Sederhana Tanpa Stimulasi",
+            "desc": "Alih-alih makan malam mewah, sajikan air, teh, atau roti lapis sederhana—menyiapkan menu ringan yang bebas gula dan tidak merangsang."
+          },
+          {
+            "title": "Langkah 3: Melakukan Dialog Terbuka Tanpa Penghakiman",
+            "desc": "Kehendaki status sosial dan luangkan waktu satu jam penuh untuk mendengarkan dengan empati refleksi tentang makna hidup, filsafat, dan masalah pribadi."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara menangani percakapan yang berkembang menjadi perdebatan politik atau ekonomi yang memicu stres?",
+            "answer": "Topik kontroversial memicu adrenalin dan kortisol yang menyebabkan kelelahan kognitif. Menetapkan aturan awal—seperti 'Hari ini, mari kita bicarakan pengalaman pribadi atau buku daripada berita'—menjadi perisai untuk menjaga Ataraxia kelompok Anda."
+          },
+          {
+            "question": "Bagaimana jika menjadwalkan pertemuan tatap muka mingguan dengan teman terlalu sulit?",
+            "answer": "Pertemuan tatap muka mingguan tidak wajib dilakukan. Bertemu sembulan sekali secara langsung, atau melakukan panggilan telepon tenang selama 30 menit setiap dua minggu cukup untuk menstimulasi jalur oksitosin."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "지인들과 대화할 때마다 정치나 경제 이야기로 흘러 논쟁이 되는데 어떻게 대처하나요?",
-          "en": "How should I handle conversations that devolve into stressful political or economic debates?",
-          "ja": "知人たちと対話するたびに政治や経済の話に流れて論争になりますが、どのように対処すればよいですか？",
-          "zh": "每次与朋友聊天总会滑向政治或经济辩论引发争吵，该如何应对？",
-          "es": "¿Cómo debo manejar las conversaciones que se convierten en acalorados debates políticos o económicos?",
-          "de": "Wie gehe ich mit Gesprächen um, die in anstrengende politische Debatten abgleiten?",
-          "fr": "Comment gérer les discussions qui dégénèrent en débats politiques ou économiques stressants ?",
-          "pt": "Como devo lidar com conversas que se transformam em debates políticos ou econômicos desgastantes?",
-          "id": "Bagaimana cara menangani percakapan yang berkembang menjadi perdebatan politik atau ekonomi yang memicu stres?"
-        },
-        "answer": {
-          "ko": "논쟁적인 주제는 아드레날린과 코르티솔 분비를 부추겨 심리적 피로를 야기합니다. 모임 시작 전 '오늘은 시사 이슈 대신 개인의 마음 상태나 읽은 책에 대해서만 이야기하자'라는 가벼운 그라운드 룰을 사전에 공표하는 것이 모임의 아타락시아를 유지하는 핵심 방패입니다.",
-          "en": "Controversial debates trigger adrenaline and cortisol, causing cognitive fatigue. Establishing a ground rule beforehand—such as 'Today, let's talk about our inner experiences or books we've read rather than current news'—serves as the ultimate shield to protect your group's Ataraxia.",
-          "ja": "論争的なテーマはアドレナリンとコルチゾールの分泌をあおり、心理的疲労を引き起こします。集まりの開始前に「今日は時事ニュースの代わりに個人の心 bucket や読んだ本についてだけ話そう」という軽いグラウンドルールを事前に公表することが、集まりのアタラクシアを維持する核心の盾となります。",
-          "zh": "争论不休的话题会倒逼肾上腺素与皮质醇过量分泌，拉垮神经平稳。在聚会开始前提前拟定一条约定：“今天咱们聊聊近来的心路历程或读书心得，暂且放下时事焦点”，这乃是守护团体静心（Ataraxia）的终极盾牌。",
-          "es": "Los temas polémicos estimulan la adrenalina y el cortisol, causando fatiga. Establecer una regla previa —como 'Hoy hablemos de vivencias personales o libros en lugar de noticias'— es el escudo para mantener la Ataraxia.",
-          "de": "Kontroverse Themen schütten Adrenalin und Cortisol aus. Eine Vorab-Regel wie 'Heute sprechen wir über persönliche Gedanken oder Bücher anstelle von Nachrichten' schützt die Ataraxia der Gruppe.",
-          "fr": "Les sujets controversés stimulent l'adrénaline et le cortisol, provoquant une fatigue mentale. Établir une règle au préalable — comme « Aujourd'hui, parlons de nos expériences ou de nos lectures » — protège l'Ataraxie du groupe.",
-          "pt": "Temas polêmicos estimulam a adrenalina e o cortisol, causando fadiga. Estabelecer uma regra prévia — como 'Hoje vamos falar de vivências pessoais ou livros em vez de notícias' — é o escudo para manter a Ataraxia.",
-          "id": "Topik kontroversial memicu adrenalin dan kortisol yang menyebabkan kelelahan kognitif. Menetapkan aturan awal—seperti 'Hari ini, mari kita bicarakan pengalaman pribadi atau buku daripada berita'—menjadi perisai untuk menjaga Ataraxia kelompok Anda."
-        }
-      },
-      {
-        "question": {
-          "ko": "친구들을 매주 만나기에는 일정 조정이 너무 어렵습니다. 다른 대안이 있을까요?",
-          "en": "What if scheduling weekly face-to-face meetings with friends is too difficult?",
-          "ja": "友達に毎週会うにはスケジュール調整が難しいです。何か他の代替案はありますか？",
-          "zh": "协调朋友每周线下聚餐难度极大，有其他替代方案吗？",
-          "es": "¿Qué pasa si coordinar reuniones semanales en persona con amigos es demasiado difícil?",
-          "de": "Was tun, wenn wöchentliche Treffen mit Freunden zeitlich nicht machbar sind?",
-          "fr": "Que faire si planifier des rencontres hebdomadaires avec ses amis est trop difficile ?",
-          "pt": "E se agendar encontros semanais presenciais com amigos for muito difícil?",
-          "id": "Bagaimana jika menjadwalkan pertemuan tatap muka mingguan dengan teman terlalu sulit?"
-        },
-        "answer": {
-          "ko": "매주 대면할 필요는 없습니다. 한 달에 1회 깊은 대면 만남을 갖거나, 격주로 30분간 조용한 음성 통화로 일상의 내면을 공유하는 것만으로도 대뇌 옥시토신 경로를 유지하는 데 충분히 유효한 자극이 됩니다.",
-          "en": "Weekly face-to-face gatherings are not strictly required. Meeting once a month in person, or holding a quiet 30-minute bi-weekly phone call to share honest feelings, is fully sufficient to stimulate oxytocin pathways and maintain psychological safety.",
-          "ja": "毎週対面する必要はありません。月に1回深い対面での集まりを持ったり、隔週で30分間静かな音声通話で日常の内面を共有するだけでも、大脳のオキシトシン経路を維持するのに十分に有効な刺激となります。",
-          "zh": "绝无必要每周面基。哪怕每月开展1次深度线下小聚，或每两周进行一次30分钟的安静语音通话分流内心感受，便足以有效拉动脑内的催产素通路并维持心理安全感。",
-          "es": "No es necesario reunirse semanalmente. Un encuentro presencial al mes o una llamada tranquila de 30 minutos cada dos semanas para compartir vivencias es suficiente para estimular la oxitocina.",
-          "de": "Wöchentliche Treffen sind nicht notwendig. Ein monatliches persönliches Treffen oder ein ruhiges 30-minütiges Telefonat alle zwei Wochen reicht völlig aus, um die Oxytocin-Pfade zu stimulieren.",
-          "fr": "Il n'est pas nécessaire de se voir chaque semaine. Une rencontre mensuelle ou un appel de 30 minutes toutes les deux semaines suffit amplement à stimuler les circuits de l'oxytocine.",
-          "pt": "Encontros semanais não são obrigatórios. Um encontro presencial por mês ou uma ligação tranquila de 30 minutos a cada duas semanas é suficiente para estimular a oxitocina.",
-          "id": "Pertemuan tatap muka mingguan tidak wajib dilakukan. Bertemu sembulan sekali secara langsung, atau melakukan panggilan telepon tenang selama 30 menit setiap dua minggu cukup untuk menstimulasi jalur oksitosin."
-        }
-      }
-    ]
+    }
   }
 }

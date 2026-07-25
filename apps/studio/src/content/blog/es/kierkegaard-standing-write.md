@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Escribir de Pie con Sombrero Justo Después de Caminar: El Hábito de Captura Inmediata y Calentamiento Cognitivo de Søren Kierkegaard"
 description: "Descubra cómo el filósofo existencialista Søren Kierkegaard preservaba sus ideas escribiendo de pie en escritorios altos justo después de caminar, sin quitarse el sombrero ni el abrigo. Explore la neurociencia del calentamiento cognitivo y la memoria de trabajo."
 pubDate: "2026-02-08"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre kierkegaard-standing-write se basa en <strong>Verificación Histórica de los *Diarios de Søren Kierkegaard*, Biografía de Joakim Garff e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de los *Diarios de Søren Kierkegaard*, Biografía de Joakim Garff e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Calentamiento Cognitivo y Preservación de la Memoria de Trabajo
+## 1. Calentamiento Cognitivo y Preservación de la Memoria de Trabajo
 
 Inmediatamente después de caminar, el cerebro entra en un estado de <strong>Calentamiento Cognitivo (Cognitive Warm-up)</strong> impulsado por la <strong>dopamina</strong> y la <strong>norepinefrina</strong>. Trasladar las ideas al papel durante este periodo permite registrarlas en la corteza prefrontal sin pérdida de información. Además, trabajar de pie mantiene la activación muscular, preservando el flujo sanguíneo cerebral y acelerando la <strong>Memoria de Trabajo</strong>. Esto evita la fragmentación cognitiva y elimina los <strong>Residuos de Atención (Attention Residue)</strong>.
 
 ---
 
-## Precaución: Protocolo de Captura Inmediata para Eliminar Residuos de Atención
-
-Al pasar del movimiento a la quietud en casa, el cerebro reduce de forma natural el nivel de alerta. Pasar tan solo 5 minutos desempacando o sentándose en el sofá hace que los detalles de una idea se desvanezcan. Para evitar esta pérdida, fije su secuencia: dedique de 5 a 10 minutos a escribir de pie antes de atender tareas domésticas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Al pasar del movimiento a la quietud en casa, el cerebro reduce de forma natural
   </p>
 </div>
 
+---
+
+## 3. Precaución: Protocolo de Captura Inmediata para Eliminar Residuos de Atención
+
+Al pasar del movimiento a la quietud en casa, el cerebro reduce de forma natural el nivel de alerta. Pasar tan solo 5 minutos desempacando o sentándose en el sofá hace que los detalles de una idea se desvanezcan. Para evitar esta pérdida, fije su secuencia: dedique de 5 a 10 minutos a escribir de pie antes de atender tareas domésticas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es obligatorio escribir de pie? ¿Puedo sentarme en su lugar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Al pasar del movimiento a la quietud en casa, el cerebro reduce de forma natural
       Sentarse inmediatamente al llegar a casa provoca una rápida caída en la alerta física, llevando al cerebro a un estado de relajación profunda. Estar de pie mantiene la activación corporal y protege la memoria de trabajo durante esos 10 minutos clave.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo practicar esta rutina si no tengo un escritorio de pie o barra alta?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Brain Awakens the Moment You Stand: Rilke's Standing Desk Flow Secret"
 description: "Discover the physical brain awakening habit of Austrian poet Rainer Maria Rilke, who wrote while standing. A 3-step standing practice to increase cerebral blood flow and focus."
 pubDate: "2026-04-06"
@@ -36,22 +37,20 @@ In today's post, we examine the scientific mechanics behind Rilke's standing wri
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding rilke-standing-writing is based on <strong>Historical biography and autobiographical research on Rilke's Standing Writing & Cognitive Neuroscience studies</strong>.
+      This content is based on <strong>Historical biography and autobiographical research on Rilke's Standing Writing & Cognitive Neuroscience studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The 'Standing Effect' Elevating Cerebral Blood Flow and Cognitive Alertness
+## 1. The 'Standing Effect' Elevating Cerebral Blood Flow and Cognitive Alertness
 
 A slouched sitting posture hinders lung expansion, resulting in shallow breathing that reduces oxygen flow to the brain. Conversely, standing at a height-adjustable desk forces major muscles in the legs, pelvis, and back to contract against gravity, subtly increasing heart rate. Neuroscientifically, this increases Cerebral Blood Flow (CBF) by 10–15%, enhancing oxygen and glucose supply. Micro-tension in the body stimulates the reticular activating system in the brainstem, unleashing norepinephrine and dopamine, significantly sharpening attention control speed and working memory capacity.
 
 ---
 
-## Protecting Joints and Maintaining Interval Rhythm
-
-Working in a fixed standing position for extended periods can cause varicose veins or exert excessive load on knee and lower back joints, worsening physical fatigue. The standing focus habit must follow a 'cyclic interval rule'. After 30–40 minutes of standing focus, lower the desk height and sit for 20 minutes to reset the rhythm, or shift body weight between feet and walk lightly in place to protect joint health while maintaining alertness.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Working in a fixed standing position for extended periods can cause varicose vei
     When the alert sounds after 30 minutes, lower the desk height or sit in a chair for 20 minutes to perform light organizing tasks, protecting leg joints and clearing neural fatigue.
   </p>
 </div>
+
+---
+
+## 3. Protecting Joints and Maintaining Interval Rhythm
+
+Working in a fixed standing position for extended periods can cause varicose veins or exert excessive load on knee and lower back joints, worsening physical fatigue. The standing focus habit must follow a 'cyclic interval rule'. After 30–40 minutes of standing focus, lower the desk height and sit for 20 minutes to reset the rhythm, or shift body weight between feet and walk lightly in place to protect joint health while maintaining alertness.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

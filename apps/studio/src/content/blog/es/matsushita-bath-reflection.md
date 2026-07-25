@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Al final del día, vaciado completo: La rutina de reflexión en el baño de Konosuke Matsushita"
 description: "La contemplación en baño caliente practicada cada noche por Konosuke Matsushita, el 'Dios de la Gestión'. Analiza la activación de los nervios parasimpáticos y la alineación de la Red de Modo por Defecto (DMN) en el cerebro."
 pubDate: "2026-05-25"
@@ -36,22 +37,20 @@ En la publicación de hoy, analizamos la neurociencia del sistema nervioso autó
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre matsushita-bath-reflection se basa en <strong>Investigación biográfica e histórica de Konosuke Matsushita y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica de Konosuke Matsushita y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergia entre la relajación con agua tibia y la Red de Modo por Defecto
+## 1. Sinergia entre la relajación con agua tibia y la Red de Modo por Defecto
 
 Bañarse en agua tibia aumenta la temperatura corporal central y activa los nervios parasimpáticos, reduciendo el cortisol. Un estado relajado libre de estímulos externos estimula la Red de Modo por Defecto (DMN) del cerebro, fomentando percepciones creativas. Según investigaciones neurocientíficas, esta práctica suprime respuestas innecesarias de ansiedad en la amígdala y activa los circuitos del bloc de notas visoespacial, mejorando drásticamente la función ejecutiva.
 
 ---
 
-## Una palabra del maestro sobre vaciar la mente
-
-Si desea tomar decisiones sabias, primero vacíe su mente por completo. El detox digital en el baño y 15 minutos de relajación física y mental son el atajo. No confíe únicamente en la voluntad; diseñar un entorno físico y señales de hábitos que desencadenen la acción de forma natural es la clave de la sostenibilidad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Si desea tomar decisiones sabias, primero vacíe su mente por completo. El detox
     Séquese suavemente e hidrátese. A medida que la temperatura corporal elevada disminuye, ayuda de forma natural a conciliar un sueño profundo.
   </p>
 </div>
+
+---
+
+## 3. Una palabra del maestro sobre vaciar la mente
+
+Si desea tomar decisiones sabias, primero vacíe su mente por completo. El detox digital en el baño y 15 minutos de relajación física y mental son el atajo. No confíe únicamente en la voluntad; diseñar un entorno físico y señales de hábitos que desencadenen la acción de forma natural es la clave de la sostenibilidad.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

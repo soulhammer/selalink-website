@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "量子物理学者のストレス解消法？ロバート・オッペンハイマーの夜の詩読書ルーティン"
 description: "マンハッタン計画の指導者オッペンハイマー。極度の重圧の中でサンスクリット語の古典詩を読み、脳のバランスを取り戻した認知リラクゼーション・ルーティンと実践法。"
 pubDate: "2026-03-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「oppenheimer-poetry-balance」は <strong>ロバート・オッペンハイマーの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ロバート・オッペンハイマーの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 熾烈な数理認知の後、右脳の感性回路を呼び覚ます異質的転換
+## 1. 熾烈な数理認知の後、右脳の感性回路を呼び覚ます異質的転換
 
 数字やアルゴリズムに長時間晒されると、左脳の過負荷により認知的柔軟性が大きく低下します。オッペンハイマーのように全く異なる性質の文学や詩を読むと、脳は<strong>「異質的認知転換」</strong>を経験します。数理皮質の過負荷が停止し、右脳の感性皮質が活性化することでストレスホルモン値が低下します。
 
 ---
 
-## 分析しようとせず文章の詩的感性に身を委ねてください
-
-文章の文法や論理を分析しようとすると、脳は再び分析モードに入ってしまいます。イメージと韻律を静かに感じてみてください。無理に意志の力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 分析しようとせず文章の詩的感性に身を委ねてください
+
+文章の文法や論理を分析しようとすると、脳は再び分析モードに入ってしまいます。イメージと韻律を静かに感じてみてください。無理に意志の力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>詩の代わりに小説やエッセイを読んでも同じ効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、プロットに偏った長い小説よりは、抒情性の強い短い短編や詩、エッセイの方が数理的認知疲労を和らげるのに遥かに効果的です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>電子書籍（e-book）で読んでも問題ありませんか？</span>

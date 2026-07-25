@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der unerschütterliche Beobachtungsturm: Nikolaus Kopernikus' Routine der raumfesten Konzentration und Umweltkonditionierung"
 description: "Erkunden Sie, wie Nikolaus Kopernikus jahrzehntelang einen festen Beobachtungsturm in Frombork nutzte. Entdecken Sie die kognitiven Neurowissenschaften der räumlichen Konditionierung und des kontextabhängigen Gedächtnisses."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Kopernikus' Rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu copernicus-observatory-tower basiert auf <strong>Historische Überprüfung aus Nikolaus Kopernikus' *De revolutionibus orbium coelestium (Über die Umschwünge der himmlischen Kreise)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Nikolaus Kopernikus' *De revolutionibus orbium coelestium (Über die Umschwünge der himmlischen Kreise)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Warum das Festlegen des Arbeitsplatzes Aufwärmzeiten eliminiert: Kontextabhängiges Gedächtnis und räumliche Konditionierung
+## 1. Warum das Festlegen des Arbeitsplatzes Aufwärmzeiten eliminiert: Kontextabhängiges Gedächtnis und räumliche Konditionierung
 
 Ein Hauptgrund für kognitive Ineffizienz sind 'Kontextwechselkosten' (Context Switching Cost). Das Arbeiten in wechselnden Umgebungen zwingt das Gehirn, präfrontale Energie für die Verarbeitung neuer Reize aufzuwenden, was Verzögerungen verursacht. Die Widmung eines festen Arbeitsplatzes für eine einzige Aufgabe etabliert hingegen ein 'Kontextabhängiges Gedächtnis' über hippocampal-präfrontale Netzwerke. Sobald Sie an diesem Platz sitzen, überspringt das Gehirn die Aufwärmphase und schaltet sofort in den Deep-Work-Modus um.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Vermeidung der Kontamination von Umgebungssignalen & Bindung einer einzelnen Handlung
-
-Der größte Fehler beim Aufbau einer festen Arbeitsplatz-Routine ist die Kontamination der Umgebungssignale durch arbeitsfremde Verhaltensweisen – wie Videos schauen, Spielen oder Soziale Medien – an diesem Schreibtisch. Die Nutzung eines Arbeitsplatzes zur Unterhaltung zerstört die neuronale Verknüpfung zwischen Raum und Fokus. Binden Sie strikt 'eine einzige kognitive Haupthandlung' an Ihren Ankerplatz. Stehen Sie in Pausen auf und gehen Sie in einen anderen Bereich.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Der größte Fehler beim Aufbau einer festen Arbeitsplatz-Routine ist die Kontam
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Vermeidung der Kontamination von Umgebungssignalen & Bindung einer einzelnen Handlung
+
+Der größte Fehler beim Aufbau einer festen Arbeitsplatz-Routine ist die Kontamination der Umgebungssignale durch arbeitsfremde Verhaltensweisen – wie Videos schauen, Spielen oder Soziale Medien – an diesem Schreibtisch. Die Nutzung eines Arbeitsplatzes zur Unterhaltung zerstört die neuronale Verknüpfung zwischen Raum und Fokus. Binden Sie strikt 'eine einzige kognitive Haupthandlung' an Ihren Ankerplatz. Stehen Sie in Pausen auf und gehen Sie in einen anderen Bereich.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie kann ich diese Routine anwenden, wenn ich in einer kleinen Wohnung lebe und keinen Arbeitsplatz abtrennen kann?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Der größte Fehler beim Aufbau einer festen Arbeitsplatz-Routine ist die Kontam
       Wenn eine physische Trennung unmöglich ist, nutzen Sie künstliche Signale: Verwenden Sie eine 'spezielle Schreibtischlampe', die nur beim Arbeiten brennt, oder eine 'Schreibtischunterlage', die Sie nur für Fokus-Sitzungen ausrollen. Ein klares visuelles Signal trainiert den Präfrontalkortex ebenso effektiv.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was sollte ich tun, wenn ich am festen Schreibtisch sitze, aber abgelenkt bin und nicht innerhalb von 5 Minuten anfangen kann?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Visualización de objetivos y descanso profundo: El Mandalart de Ohtani y su rutina de 10 horas de sueño"
 description: "Shohei Ohtani reescribe la historia del béisbol moderno. Descubra el mecanismo neurocientífico de su método Mandalart de 81 casillas de la secundaria y su rutina diaria de 10 horas de sueño reparador para maximizar la recuperación física."
 pubDate: "2026-02-06"
@@ -36,22 +37,20 @@ En esta publicación, explicamos los mecanismos neurocientíficos detrás de la 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre ohtani-mandalart-sleep se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Shohei Ohtani e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Shohei Ohtani e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efecto de concretar planes del Mandalart y el mecanismo neurocientífico de recuperación del sueño prolongado
+## 1. Efecto de concretar planes del Mandalart y el mecanismo neurocientífico de recuperación del sueño prolongado
 
 La técnica Mandalart descompone objetivos abstractos en acciones concretas, bloqueando la sobrecarga cognitiva y estimulando los circuitos de ejecución del cerebro. Por otra parte, el hábito clave de Ohtani de dormir 10 horas promueve el sistema glinfático cerebral. El líquido cefalorraquídeo elimina los desechos metabólicos acumulados durante el día, restaurando la energía cognitiva de la corteza prefrontal. Además, el sueño consolida con seguridad las memorias de movimientos musculares de pitcheo y bateo practicados ese día en el almacenamiento de memoria motora a largo plazo del cerebelo.
 
 ---
 
-## Precauciones y consejos
-
-Aumentar repentinamente la duración del sueño de forma excesiva puede causar aletargamiento. Es sensato incrementar gradualmente el tiempo base de sueño a 7-8 horas según su metabolismo. Si el sueño nocturno es insuficiente, combine una siesta corta de 20-30 minutos durante el día para complementar el tiempo total de recuperación.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Aumentar repentinamente la duración del sueño de forma excesiva puede causar a
     Duerma más de 8 horas por la noche y combine una siesta breve de 20-30 minutes por la tarde cuando disminuya la concentración, acumulando hasta 10 horas de tiempo total de recarga física al día.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Aumentar repentinamente la duración del sueño de forma excesiva puede causar aletargamiento. Es sensato incrementar gradualmente el tiempo base de sueño a 7-8 horas según su metabolismo. Si el sueño nocturno es insuficiente, combine una siesta corta de 20-30 minutos durante el día para complementar el tiempo total de recuperación.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

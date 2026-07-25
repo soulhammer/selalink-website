@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "每天清晨站立写作的小说家：弗吉尼亚·伍尔芙的高高度沉浸习惯"
 description: "20世纪文学巨匠弗吉尼亚·伍尔芙。探索她受画家姐姐的画架启发、通过站立写作获得的专注科学与现代站立工作习惯。"
 pubDate: "2026-06-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 woolf-standing-desk 的内容基于 <strong>弗吉尼亚·伍尔芙历史传记与文献考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>弗吉尼亚·伍尔芙历史传记与文献考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 站立式书桌与站立写作引发的全身本体感觉刺激
+## 1. 站立式书桌与站立写作引发的全身本体感觉刺激
 
 弗吉尼亚·伍尔芙站在105厘米高的站立式书桌前如作画般写作的习惯，能够刺激全身本体感觉，瓦解写作的心理阻力屏障，并将大脑的执行功能提升至巅峰状态。
 
 ---
 
-## 搭建站立工作环境时的姿势保持建议
-
-脚下铺设抗疲劳缓冲垫以防止重力偏向单侧，并在工作40分钟后休息5分钟，保持身体平衡至关重要。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     在集中写作40分钟后，进行5分钟的轻度拉伸或休息，防止重力偏向单脚，保持身心平衡。
   </p>
 </div>
+
+---
+
+## 3. 搭建站立工作环境时的姿势保持建议
+
+脚下铺设抗疲劳缓冲垫以防止重力偏向单侧，并在工作40分钟后休息5分钟，保持身体平衡至关重要。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

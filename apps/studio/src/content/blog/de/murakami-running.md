@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Schriftsteller, der jeden Morgen 10 km läuft: Haruki Murakamis körperliche Ausdauerroutine"
 description: "Der weltweite Bestsellerautor Haruki Murakami. Entdecken Sie die neurowissenschaftlichen Prinzipien in seiner morgendlichen 10-km-Laufroutine und einen 3-Schritte-Leitfaden."
 pubDate: "2026-06-26"
@@ -31,17 +32,17 @@ Nachdem er 1982 seine Jazzbar aufgab, um sich ganz dem Schreiben zu widmen, litt
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu murakami-running basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Haruki Murakami & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Haruki Murakami & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Die Neurowissenschaft des Laufens zur Erhaltung der jugendlichen Gehirnfunktion
+## 1. Die Neurowissenschaft des Laufens zur Erhaltung der jugendlichen Gehirnfunktion
 
 Das Schreiben von Romanen verbraucht enorme mentale Energie. Murakami trainierte sein Gehirn durch Laufen, um die tägliche Schreibarbeit zu bewältigen.
 
@@ -49,11 +50,7 @@ Dauerhafter Ausdauersport versorgt den Hippocampus mit Sauerstoff und Nährstoff
 
 ---
 
-## Neurowissenschaftlicher Rat für erfolgreischen Routinenaufbau
-
-<strong>Beständige Wiederholung schafft neuronale Rhythmen</strong>
-
-Tägliche Bewegung wird zu einer 'automatisierten Routine', die keine Willenskraft verbraucht. Ist dieser Rhythmus im Gehirn verankert, bildet er ein Schutzschild gegen mentale Belastungen bei der Arbeit. Machen Sie regelmäßigen Sport zur obersten Priorität wie Murakami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Tägliche Bewegung wird zu einer 'automatisierten Routine', die keine Willenskra
     Vermeiden Sie es, beim Laufen Nachrichten oder E-Mails zu prüfen. Konzentrieren Sie sich nur auf Ihre Atmung und das Gefühl Ihrer Füße auf dem Boden. Dies wirkt wie ein geistiger Detox.
   </p>
 </div>
+
+---
+
+## 3. Neurowissenschaftlicher Rat für erfolgreischen Routinenaufbau
+
+<strong>Beständige Wiederholung schafft neuronale Rhythmen</strong>
+
+Tägliche Bewegung wird zu einer 'automatisierten Routine', die keine Willenskraft verbraucht. Ist dieser Rhythmus im Gehirn verankert, bildet er ein Schutzschild gegen mentale Belastungen bei der Arbeit. Machen Sie regelmäßigen Sport zur obersten Priorität wie Murakami.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

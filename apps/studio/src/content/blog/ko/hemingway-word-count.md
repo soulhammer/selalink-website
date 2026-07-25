@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "매일 쓴 단어 수를 차트에 기록하며 스스로를 모니터링하기: 어네스트 헤밍웨이의 정량적 집필 차트와 도파민 보상 루틴"
 description: "노벨상 수상 작가 어네스트 헤밍웨이가 매일 아침 자신의 글쓰기 단어 수를 차트에 기록했던 습관. 자기관찰(Self-Monitoring) 효과와 도파민 보상 회로, 전전두엽 활성화의 뇌과학적 원리를 탐구합니다."
 pubDate: "2026-02-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>어네스트 헤밍웨이 회고록 『파리는 날마다 축제(A Moveable Feast)』 및 조지 플림프턴 인터뷰(Paris Review, 1958) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 hemingway-word-count 루틴을 다룹니다.
+      본 콘텐츠는 <strong>어네스트 헤밍웨이 회고록 『파리는 날마다 축제(A Moveable Feast)』 및 조지 플림프턴 인터뷰(Paris Review, 1958) 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 자기관찰(Self-Monitoring)과 도파민 보상 회로의 뇌과학
+## 1. 자기관찰(Self-Monitoring)과 도파민 보상 회로의 뇌과학
 
 목표 행동에 대한 정량적인 기록과 모니터링은 행동심리학에서 <strong>'자기관찰(Self-Monitoring)'</strong> 효과로 불립니다. 우리의 뇌는 행동의 결과가 정량적으로 시각화될 때 즉각적인 피드백을 인식하고 <strong>도파민 보상 회로(Dopamine Reward Circuit)</strong>를 가동합니다. 매일 스스로의 수행량을 정직하게 기록하는 행동은 모호했던 노력을 시각적 성취로 바꾸어주며, <strong>전전두엽(Prefrontal Cortex)</strong>에 이를 전달하여 다음 단계로 나아갈 수 있는 강력한 내재적 동기를 제공합니다. 헤밍웨이는 이 도파민 피드백 루프를 직관적으로 활용하여 매일 흔들림 없는 집필량을 유지할 수 있었습니다.
 
 ---
 
-## 결과의 크기보다 '매일 정직하게 기록하는 행위'에 집중하는 수칙
-
-모호한 노력은 모호한 결과로 이어집니다. 자신의 행동을 구체적인 숫자로 관찰하기 시작할 때, 뇌는 비로소 정직한 자기 통제력을 발휘하기 시작합니다. 숫자의 크기에 상관없이 매일 기록판에 흔적을 남기며 목표의 끈을 유지해 보세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 결과의 크기보다 '매일 정직하게 기록하는 행위'에 집중하는 수칙
+
+모호한 노력은 모호한 결과로 이어집니다. 자신의 행동을 구체적인 숫자로 관찰하기 시작할 때, 뇌는 비로소 정직한 자기 통제력을 발휘하기 시작합니다. 숫자의 크기에 상관없이 매일 기록판에 흔적을 남기며 목표의 끈을 유지해 보세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>헤밍웨이는 왜 매일 단어 수를 차트에 기록했나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       스스로를 속이지 않고 집필 진행 상황을 객관적으로 시각화하여, 슬럼프 방지 및 창작 생산성의 규칙적인 흐름을 강제하기 위함이었습니다. 숫자로 시각화된 성과는 도파민 보상 회로를 자극해 다음 날의 몰입을 유도합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>글쓰기 외에 일반적인 업무나 공부에도 이 기록 루틴이 유효한가요?</span>

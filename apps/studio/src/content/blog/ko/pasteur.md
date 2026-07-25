@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "플라스크 배양액의 미세 변화를 실시간으로 추적한 파스퇴르의 피드백 루프"
 description: "백신 개발과 저온 살균법의 아버지가 된 프랑스의 미생물학자로, 실험 도중 주의력을 분산하는 단 1%의 미세 노이즈조차 허용하지 얊는 완벽한 물리적 책상 정돈을 고수했습니다."
 pubDate: "2026-05-03"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Pasteur 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 pasteur 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Pasteur 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 성공을 자아내는 뇌과학적 원리 분석
+## 1. 성공을 자아내는 뇌과학적 원리 분석
 
 가설을 세우고 미세한 관찰 대상있 변화 궤적을 뇌에 입력하여 실시간 피드백 루프(Feedback Loop)를 가동하는 행위는 뇌있 미세 감각 분해능을 증진시킵니다. 관찰 데이터있 변화를 즉시 텍스트로 치환하고 기록하는 과정은 뇌있 외측전두엽과 시각 연합 피질 간있 신경망 연결을 단단하게 다져주어, 비즈니스있 사소한 변화 흐름이나 환경 오차 요인을 남들보다 한발 앞서 감지해내는 통찰 분석력을 고조시킵니다.
 
 ---
 
-## 성공적있 안착을 위한 행동과학 조언
-
-습관을 너무 완벽하게 하려고 몸에 무리를 주지 마세요. 가볍고 편안하게 매일 3분간 실천하여 근육과 뉴런있 천천히 기억하도록 길을 뚫어 주는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것입 지속성있 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 성공적있 안착을 위한 행동과학 조언
+
+습관을 너무 완벽하게 하려고 몸에 무리를 주지 마세요. 가볍고 편안하게 매일 3분간 실천하여 근육과 뉴런있 천천히 기억하도록 길을 뚫어 주는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것입 지속성있 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>매일 실험 전에 이 정리 의식을 수행해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       네, 작업을 시작하기 전 렌즈를 정밀하게 닦으며 뇌에 인지적 정돈 신호를 주어 업무 집중도를 극대화합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>현미경이나 세척 융이 없으면 어떻게 대체하나요?</span>

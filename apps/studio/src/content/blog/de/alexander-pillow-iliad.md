@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Alexander des Großen 'Ilias unter dem Kissen': Nächtliche Visionslektüre, die gewaltige Herausforderungen stützte"
 description: "Alexander der Große verlor auf dem Schlachtfeld nie den Mut und bewahrte jede Nacht einen Dolch und die Ilias unter seinem Kissen auf. Erkunden Sie die Kraft der Visionslektüre, die das Unterbewusstsein stimuliert."
 pubDate: "2026-01-23"
@@ -35,17 +36,17 @@ Im heutigen Beitrag stellen wir die wissenschaftlichen Grundlagen von Alexanders
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu alexander-pillow-iliad basiert auf <strong>Historische Überprüfung aus Plutarchs *Life of Alexander* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Plutarchs *Life of Alexander* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Wertorientiertes Lesen, das die Ausrichtung des Unterbewusstseins fördert
+## 1. Wertorientiertes Lesen, das die Ausrichtung des Unterbewusstseins fördert
 
 Wenn das Gehirn einzuschlafen beginnt, wechseln die Gehirnwellen in Alpha- und Theta-Wellen, und in dieser Zeit zugeführte Informationen erreichen das Hippocampus (den Langzeitgedächtnisspeicher) und die Tiefen der Großhirnrinde (die das Unterbewusstsein bildet) weitaus leichter als gewöhnlich.
 
@@ -53,9 +54,7 @@ Die Ilias, die Alexander der Große vor dem Schlafengehen las, diente nicht blo�
 
 ---
 
-## Welchen Text Sie lesen, bestimmt Ihr Unterbewusstsein
-
-Der späte Konsum von Inhalten, die Angst, Eifersucht oder Kritik schüren – wie soziale Medien oder Nachrichtenartikel –, richtet Ihr Unterbewusstsein auf negative Reize aus, was den Tiefschlaf stört und dazu führt, dass Sie morgens erschöpft aufwachen. Platzieren Sie bewusst edle Klassiker oder Bücher, die Ihren Wert steigern, an Ihrem Bett.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Der späte Konsum von Inhalten, die Angst, Eifersucht oder Kritik schüren – w
   </p>
 </div>
 
+---
+
+## 3. Welchen Text Sie lesen, bestimmt Ihr Unterbewusstsein
+
+Der späte Konsum von Inhalten, die Angst, Eifersucht oder Kritik schüren – wie soziale Medien oder Nachrichtenartikel –, richtet Ihr Unterbewusstsein auf negative Reize aus, was den Tiefschlaf stört und dazu führt, dass Sie morgens erschöpft aufwachen. Platzieren Sie bewusst edle Klassiker oder Bücher, die Ihren Wert steigern, an Ihrem Bett.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Hat das Lesen von Romanen oder Comics vor dem Schlafen die gleiche Wirkung wie die Visions-Klassiker-Leseroutine?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Der späte Konsum von Inhalten, die Angst, Eifersucht oder Kritik schüren – w
       Leichte Belletristik bietet zwar einen abkühlenden Effekt, der den Gehirnstres abbaut, aber um einen 'wertorientierten Motivationseffekt' zu erzielen, der die Selbstidentität ausrichtet und die Umsetzungswillenskraft wie bei Alexanders Routine anregt, ist es weitaus besser, klassische Epen, Philosophiebücher oder Biografien großer Persönlichkeiten zu wählen, die innere Resonanz und Reflexion bieten.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist es in Ordnung, im Liegen mit einem E-Book-Reader zu lesen?</span>

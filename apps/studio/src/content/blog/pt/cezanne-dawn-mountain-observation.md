@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sentindo a Geometria da Luz: A Rotina de Observação da Luz Natural Matinal e Estimulação do NSQ de Paul Cézanne"
 description: "Descubra como Paul Cézanne, pai da arte moderna, caminhava em direção ao monte Sainte-Victoire às 6h diariamente para observar a luz e a forma. Explore os princípios neurocientíficos da luz matinal estimulando o núcleo supraquiasmático (NSQ) e o córtex visual."
 pubDate: "2026-04-06"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'observ
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre cezanne-dawn-mountain-observation é baseada em <strong>Verificação Histórica da Biografia de Alex Danchev *Cézanne: Uma Vida (Cézanne: A Life)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Alex Danchev *Cézanne: Uma Vida (Cézanne: A Life)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Exposição à Luz Natural Matinal, Estimulação do NSQ e Neurologia Cognitiva do Córtex Visual
+## 1. Exposição à Luz Natural Matinal, Estimulação do NSQ e Neurologia Cognitiva do Córtex Visual
 
 A luz natural emitida entre as 6h e as 8h é rica no espectro de luz azul (460–480 nm), o que estimula fortemente as células ganglionares retinianas intrinsecamente fotossensíveis (ipRGCs). Os sinais viajam diretamente para o marcapasso circadiano — o Núcleo Supraquiasmático (NSQ) no hipotálamo —, suprimindo a melatonina e promovendo a produção saudável de cortisol para despertar o cérebro. Além disso, rastrear padrões geométricos e contrastes de luminosidade — como fazia Cézanne — ativa neurônios nas regiões V1 e V4 do córtex visual. Este estado de estimulação visual elimina a fadiga cognitiva e eleva a sensibilidade perceptiva.
 
 ---
 
-## Precauções e Dicas: Preservar a Entrada de Luz Natural Direta e Bloquear Telas Artificiais
-
-Ao realizar esta rotina de observação matinal, evite usar óculos de sol ou olhar para a tela do celular enquanto caminha. Os óculos de sol bloqueiam a luz azul necessária para as ipRGCs ativarem o reinício do NSQ. Além disso, olhar para a luz artificial e textos no celular induz o 'Tunelamento Cognitivo', prendendo seu córtex visual em um foco estreito e destruindo o efeito restaurador. Mantenha os olhos desprotegidos e olhe para paisagens naturais.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ao realizar esta rotina de observação matinal, evite usar óculos de sol ou ol
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Preservar a Entrada de Luz Natural Direta e Bloquear Telas Artificiais
+
+Ao realizar esta rotina de observação matinal, evite usar óculos de sol ou olhar para a tela do celular enquanto caminha. Os óculos de sol bloqueiam a luz azul necessária para as ipRGCs ativarem o reinício do NSQ. Além disso, olhar para a luz artificial e textos no celular induz o 'Tunelamento Cognitivo', prendendo seu córtex visual em um foco estreito e destruindo o efeito restaurador. Mantenha os olhos desprotegidos e olhe para paisagens naturais.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Devo sair ao ar livre para observar mesmo em dias nublados, chuvosos ou poluídos?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ao realizar esta rotina de observação matinal, evite usar óculos de sol ou ol
       Mesmo em dias nublados, a luz externa varia entre 1.000 e 2.000 lux — muito mais brilhante que a iluminação interna (300-500 lux). Assim, caminhar ao ar livre em dias nublados continua suprimindo a melatonina. Contudo, em casos de poluição extrema, substitua a caminhada observando por uma janela.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Trabalhadores do conhecimento que não são artistas podem se beneficiar da rotina de observação de Cézanne?</span>

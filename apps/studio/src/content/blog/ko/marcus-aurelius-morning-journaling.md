@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "마르쿠스 아우렐리우스의 아침 저널링: 스토아 철학으로 마음을 잠재우는 법"
 description: "로마 황제 마르쿠스 아우렐리우스가 일출 직전 일기를 쓰며 극도의 스트레스를 해소하고 내면의 회복탄력성을 기른 비결을 알아봅니다."
 pubDate: "2026-05-22"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>마르쿠스 아우렐리우스 《자성록》 및 역사적 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 marcus-aurelius-morning-journaling 루틴을 다룹니다.
+      본 콘텐츠는 <strong>마르쿠스 아우렐리우스 《자성록》 및 역사적 평전 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 아침 성찰 일기가 스트레스를 차단하는 이유
+## 1. 아침 성찰 일기가 스트레스를 차단하는 이유
 
 아침에 일어나자마자 글을 쓰는 행위는 뇌의 인지 필터 역할을 합니다. 모호한 불안과 당일 해야 할 감정적 우려들을 종이 위에 쏟아내면, 이성을 담당하는 전전두엽 피질이 활성화되는 동시에 감정과 생존을 담당하는 편도체의 과잉 불안 반응이 즉각 진정됩니다. 이러한 인지적 재구성은 코르티솔 분비를 정상화하고 두뇌 제어력을 높여, 감정에 휩쓸리지 않고 차분하게 의무를 수행할 준비를 마칠 수 있게 만듭니다.
 
 ---
 
-## 효과적인 스토아 저널링을 위한 수칙
-
-타인에게 보여주기 위한 세련된 미사여구를 버려야 합니다. 철저히 자기 자신만을 위한 솔직한 글쓰기여야 합니다. 자신의 나약한 부분이나 실수에 대해 객관적으로 기록하되, 스스로를 '너'라고 칭하는 2인칭 문법을 사용하는 것을 추천합니다. 이러한 표현 방식은 물리적 인지 거리(Cognitive Distance)를 생성하여, 제3자의 시선에서 본인의 행동을 더 냉철하게 관찰할 수 있도록 돕습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 효과적인 스토아 저널링을 위한 수칙
+
+타인에게 보여주기 위한 세련된 미사여구를 버려야 합니다. 철저히 자기 자신만을 위한 솔직한 글쓰기여야 합니다. 자신의 나약한 부분이나 실수에 대해 객관적으로 기록하되, 스스로를 '너'라고 칭하는 2인칭 문법을 사용하는 것을 추천합니다. 이러한 표현 방식은 물리적 인지 거리(Cognitive Distance)를 생성하여, 제3자의 시선에서 본인의 행동을 더 냉철하게 관찰할 수 있도록 돕습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>아침 바쁜 시간에 매일 일기를 쓰기 힘든 경우는 어떡하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       하루를 걸렀다고 자책할 필요는 전혀 없습니다. 자책하는 부정적 감정은 스토아 철학에서 지양하는 불필요한 고통입니다. 시간이 정 부족하다면 모바일 메모장에 '오늘 만날 고난에 흔들리지 말자'라는 단 한 줄만 남겨도 충분합니다. 중요한 것은 마음가짐의 일관성입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>일반적인 감사 일기나 아침 일기와 다른 점은 무엇인가요?</span>

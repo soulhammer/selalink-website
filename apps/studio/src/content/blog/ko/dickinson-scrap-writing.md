@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "봉투 뒷면의 위대한 영감: 에밀리 디킨슨의 조각 메모 습관과 인큐베이션 이완"
 description: "미국의 천재 시인 에밀리 디킨슨이 부엌에서 빵을 구우며 영수증과 포장지 조각에 즉흥적으로 시를 적었던 루틴. 디폴트 모드 네트워크(DMN)와 인큐베이션(Incubation) 효과를 극대화하는 인지신경과학적 원리를 밝힙니다."
 pubDate: "2026-05-02"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>리처드 B. 슈얼 평전 『에밀리 디킨슨 평전(The Life of Emily Dickinson)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 dickinson-scrap-writing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>리처드 B. 슈얼 평전 『에밀리 디킨슨 평전(The Life of Emily Dickinson)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 물리적 단순 반복과 디폴트 모드 네트워크(DMN)를 통한 인큐베이션(Incubation) 이완
+## 1. 물리적 단순 반복과 디폴트 모드 네트워크(DMN)를 통한 인큐베이션(Incubation) 이완
 
 뇌가 책상 앞에 앉아 억지로 복잡한 논리를 짜내려 할 때보다, 빵 반죽이나 설거지와 같은 아날로그적이고 단순한 물리적 반복 노동에 몰입할 때 창의성은 훨씬 극대화됩니다. 뇌과학에서는 이를 '인큐베이션 효과(Incubation Effect)'라고 부릅니다. 전전두엽이 가졌던 무거운 인지 제어(Cognitive Control)를 잠시 내려놓고 뇌가 이완 상태(디폴트 모드 네트워크, DMN 활성화)에 진입하면, 무의식 속에 흩어져 있던 기억의 파편들과 언어의 조각들이 자유롭게 융합하여 뜻밖의 시상(Poetic Imagery)으로 솟구쳐 오릅니다. 이 과정에서 발생한 아이디어는 작업 기억(Working Memory)의 한계로 인해 불과 몇 초 만에 휘발되므로, 완벽한 기록 도구를 찾기보다 디킨슨처럼 눈앞에 굴러다니는 가장 가까운 영수증 조각에 1초라도 빨리 텍스트로 보존(외재화)하는 것이 영감 소실을 막는 완벽한 뇌 최적화 기제입니다.
 
 ---
 
-## 주의사항 및 팁: 완벽주의 배제 및 아이디어의 날것(Raw) 보존
-
-영감 스파크 기록의 핵심은 '완벽한 정리가 아닌 날것(Raw state) 그대로의 신속한 보존'에 있습니다. 시상이 떠올랐을 때 예쁜 다이어리나 정갈하게 포맷팅된 디지털 노트를 찾으려 시간을 지체하면, 뇌의 인지 작업 공간에 잠시 맺혔던 창조적 단서들은 흔적도 없이 소멸해 버립니다. 찢어진 영수증, 커피 컵 받침, 손등 등 무엇이든 좋으니 영감이 찾아온 바로 그 자리에서 단 한 개의 키워드라도 지체 없이 휘갈겨 적어두어야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 완벽주의 배제 및 아이디어의 날것(Raw) 보존
+
+영감 스파크 기록의 핵심은 '완벽한 정리가 아닌 날것(Raw state) 그대로의 신속한 보존'에 있습니다. 시상이 떠올랐을 때 예쁜 다이어리나 정갈하게 포맷팅된 디지털 노트를 찾으려 시간을 지체하면, 뇌의 인지 작업 공간에 잠시 맺혔던 창조적 단서들은 흔적도 없이 소멸해 버립니다. 찢어진 영수증, 커피 컵 받침, 손등 등 무엇이든 좋으니 영감이 찾아온 바로 그 자리에서 단 한 개의 키워드라도 지체 없이 휘갈겨 적어두어야 합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스마트폰 메모 앱을 사용하는 것이 영수증 조각을 찾는 것보다 훨씬 빠르지 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       물리적 속도는 앱이 빠를 수 있습니다. 그러나 화면 잠금을 해제하고, 앱 목록을 스크롤하며, 푸시 알림을 보는 순간 뇌의 작업 기억에 맺혔던 인큐베이션 아이디어는 다른 자극으로 덮어씌워져 증발합니다. 반면 눈앞에 굴러다니는 물리적 종이와 펜은 뇌에 아무런 전환 부하(Friction)를 주지 않고 즉각적인 외재화를 가능하게 합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>집안일을 할 때 더 집중해서 꼼꼼하게 처리하는 것이 작업 효율이나 창의성에 좋지 않나요?</span>

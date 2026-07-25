@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das im geistigen Auge gezeichnete Labyrinth: Borges' Routine zur Visualisierung des visuell-räumlichen Arbeitsgedächtnisses"
 description: "Entdecken Sie, wie der argentinische Literaturmeister Jorge Luis Borges nach dem Erblinden dreidimensionale Textstrukturen und Labyrinthe im Geist entwarf und seine Werke mündlich diktierte. Erkunden Sie die neurowissenschaftlichen Mechanismen zur Maximierung des visuell-räumlichen Arbeitsgedächtnisses und zur Auslösung plattformübergreifender Plastizität."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Jorge Luis Borg
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu borges-mental-dictation basiert auf <strong>Historische Überprüfung aus Edwin Williamsons Biografie *Borges: A Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Edwin Williamsons Biografie *Borges: A Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Plattformübergreifende Plastizität und Prinzipien der Erweiterung des visuell-räumlichen Arbeitsgedächtnisses
+## 1. Plattformübergreifende Plastizität und Prinzipien der Erweiterung des visuell-räumlichen Arbeitsgedächtnisses
 
 Wenn der äußere visuelle Eingang eingeschränkt ist, rekrutiert das Gehirn den visuellen Kortex zur Verarbeitung auditiver, taktiler und räumlicher Informationen – ein Phänomen namens 'Cross-Modale Plastizität (Cross-Modal Plasticity)'. Als der erblindete Borges verschlungene Labyrinthe und Textstrukturen gedanklich zusammensetzte, arbeitete sein visueller Kortex als Assoziationsareal für hochstufiges logisches Design. Die mentale Visualisierung abstrakter 3D-Konzeptkarten bei geschlossenen Augen erweitert die Kapazität des visuell-räumlichen Arbeitsgedächtnisses zwischen Hippocampus und Präfrontalkortex drastisch und setzt fortgeschrittene Intuitionen zur Zusammenfügung komplexer Daten frei.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Fokus auf organische Zwischenstrukturen statt auf Textsymbole
-
-Der Kern der Borges'schen Visualisierungsroutine besteht nicht darin, Schriftarten oder Rechtschreibung hinter den Augenlidern zu reproduzieren. Es geht darum, ein '3D-Strukturgerüst' (Mindmaps, räumliche Organogramme oder 3D-Labyrinthmodelle) zu zeichnen, das zeigt, wie Kernkonzepte miteinander verknüpft sind. Konzentrieren Sie sich auf abstrakte kausale Zusammenhänge und organische Strukturen statt auf Buchstabensymbole, um den neuroplastischen Nutzen zu maximieren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Der Kern der Borges'schen Visualisierungsroutine besteht nicht darin, Schriftart
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Fokus auf organische Zwischenstrukturen statt auf Textsymbole
+
+Der Kern der Borges'schen Visualisierungsroutine besteht nicht darin, Schriftarten oder Rechtschreibung hinter den Augenlidern zu reproduzieren. Es geht darum, ein '3D-Strukturgerüst' (Mindmaps, räumliche Organogramme oder 3D-Labyrinthmodelle) zu zeichnen, das zeigt, wie Kernkonzepte miteinander verknüpft sind. Konzentrieren Sie sich auf abstrakte kausale Zusammenhänge und organische Strukturen statt auf Buchstabensymbole, um den neuroplastischen Nutzen zu maximieren.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wenn ich eine mentale Visualisierung versuche, verschwimmen die Bilder ständig. Gibt es Tipps?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Der Kern der Borges'schen Visualisierungsroutine besteht nicht darin, Schriftart
       Dies ist eine völlig natürliche neurologische Reaktion. Beginnen Sie, anstatt sofort detaillierte Bilder zu versuchen, mit einem vereinfachten abstrakten Modell – zeichnen Sie 2 oder 3 einfache Kästchen oder Kreise, die durch Linien verbunden sind. Mit fortschreitendem Training steigt die visuell-räumliche Auflösung des Gehirns.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Hilft die Gewohnheit der 3D-Visualisierung bei geschlossenen Augen wirklich bei praktischen Aufgaben wie Planung oder Programmierung?</span>

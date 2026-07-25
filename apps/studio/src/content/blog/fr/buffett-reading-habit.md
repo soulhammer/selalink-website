@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'effet cumulé du savoir : L'habitude de lecture quotidienne de 500 pages de Warren Buffett et la réserve cognitive"
 description: "Découvrez le secret de réussite fondamental de Warren Buffett — lire 500 pages par jour — et percez la neuroscience cognitive sous-jacente au renforcement de la connectivité neuronale, à l'accumulation de réserve cognitive et à la reconnaissance accélérée des schémas."
 pubDate: "2026-06-10"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant buffett-reading-habit est basée sur <strong>Vérification Historique issue de la biographie d'Alice Schroeder *L'Effet Boule de Neige (The Snowball: Warren Buffett and the Business of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Alice Schroeder *L'Effet Boule de Neige (The Snowball: Warren Buffett and the Business of Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Plasticité cérébrale et renforcement de la substance blanche : Neuroscience cognitive du savoir cumulé
+## 1. Plasticité cérébrale et renforcement de la substance blanche : Neuroscience cognitive du savoir cumulé
 
 Des études neuroscientifiques révèlent que la lecture approfondie accélère la myélinisation des faisceaux de substance blanche reliant les cortex somatosensoriel et préfrontal, optimisant l'efficacité de la transmission des signaux. Une lecture quotidienne soutenue constitue une « Réserve Cognitive » via la neuroplasticité, freinant le déclin cognitif lié à l'âge tout en accélérant le traitement de nouvelles informations complexes. De plus, au fur et à mesure que les données entrantes s'intègrent aux schémas de mémoire à long terme, le cerveau développe une « Reconnaissance Intuitive des Schémas » permettant d'identifier la structure d'un problème avec un effort minimal.
 
 ---
 
-## Précautions & Conseils : Éviter le survol passif & Maintenir une régularité sur le long terme
-
-L'essence de la routine de savoir cumulé de Buffett n'est pas le survol passif. Feuilleter mécaniquement des pages sans réflexion critique ne stimule pas le remodelage neuronal. Même si vous ne lisez que 10 pages, une lecture approfondie évaluant la logique des arguments est primordiale. De plus, plutôt que de lire frénétiquement de manière sporadique, maintenir pendant des années l'habitude quotidienne d'isoler les distractions numériques pour vous concentrer sur du texte imprimé est le catalyseur fondamental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'essence de la routine de savoir cumulé de Buffett n'est pas le survol passif.
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter le survol passif & Maintenir une régularité sur le long terme
+
+L'essence de la routine de savoir cumulé de Buffett n'est pas le survol passif. Feuilleter mécaniquement des pages sans réflexion critique ne stimule pas le remodelage neuronal. Même si vous ne lisez que 10 pages, une lecture approfondie évaluant la logique des arguments est primordiale. De plus, plutôt que de lire frénétiquement de manière sporadique, maintenir pendant des années l'habitude quotidienne d'isoler les distractions numériques pour vous concentrer sur du texte imprimé est le catalyseur fondamental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Existe-t-il un moyen réaliste pour un professionnel occupé d'atteindre le volume quotidien de 500 pages de Warren Buffett ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'essence de la routine de savoir cumulé de Buffett n'est pas le survol passif.
       Commencer par 500 pages d'emblée est irréaliste. Le volume de Buffett repose sur des décennies d'adaptation neuroplastique. Le but n'est pas le chiffre brut, mais la régularité de l'habitude cognitive — lire attentivement 20 à 30 pages par jour. Consacrer 30 minutes au réveil ou durant les transports génère un levier intellectuel massif après quelques années.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Les livres électroniques ou livres audio produisent-ils le même effet de savoir cumulé que les livres papier ?</span>

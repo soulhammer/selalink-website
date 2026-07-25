@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Construir un yo inquebrantable a través de la escritura: La rutina de reflexión nocturna de Eleanor Roosevelt"
 description: "Eleanor Roosevelt, una de las Primeras Damas más influyentes de EE. UU. Revela su rutina de diario nocturno durante 27 años que definió su identidad y sus beneficios metacognitivos."
 pubDate: "2026-03-18"
@@ -38,22 +39,20 @@ En la publicación de hoy, compartimos los beneficios neurocientíficos de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre roosevelt-my-day-column se basa en <strong>Investigación biográfica e histórica sobre Eleanor Roosevelt y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica sobre Eleanor Roosevelt y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Consolidación de la memoria a largo plazo y fomento de la metacognición
+## 1. Consolidación de la memoria a largo plazo y fomento de la metacognición
 
 Cuando las experiencias y emociones no se organizan, sobreestimulan la amígdala, convirtiéndose en recuerdos estresantes. Estructurar el día a través de la escritura activa el <strong>Hipocampo</strong>, transfiriendo recuerdos episódicos a la memoria a largo plazo. Además, traducir vivencias a palabras objetivas estimula el córtex frontal, potenciando la <strong>Metacognición</strong> para observarse en tercera persona y frenar la impulsividad.
 
 ---
 
-## Mantenga una calma contemplativa en lugar de metas idealizadas
-
-Forzar una positividad falsa o registrar planes inalcanzables genera estrés cognitivo y destruye el hábito. Como Eleanor, revise con calma los hechos físicos e interacciones, registrando su estado interno de forma natural y sin presiones.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Forzar una positividad falsa o registrar planes inalcanzables genera estrés cog
   </p>
 </div>
 
+---
+
+## 3. Mantenga una calma contemplativa en lugar de metas idealizadas
+
+Forzar una positividad falsa o registrar planes inalcanzables genera estrés cognitivo y destruye el hábito. Como Eleanor, revise con calma los hechos físicos e interacciones, registrando su estado interno de forma natural y sin presiones.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué hago si el contenido de mi diario se siente repetitivo todos los días?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Forzar una positividad falsa o registrar planes inalcanzables genera estrés cog
       Incluso en días rutinarios, intente capturar una pequeña variación diaria: una persona, el sabor de la comida o el olor del clima. El intento de buscar sutilezas ejercita la atención y entrena la metacognición.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es igualmente efectivo usar aplicaciones de diario digital o Notion?</span>

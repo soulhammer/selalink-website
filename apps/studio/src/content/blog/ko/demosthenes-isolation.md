@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "머리 반쪽을 밀어버린 웅변가: 데모스테네스의 극한 환경 통제와 강제 이행 장치 루틴"
 description: "선천적 신체 한계를 극복하고 고대 그리스 최고의 웅변가가 된 데모스테네스. 유혹을 차단하기 위해 스스로 머리 반쪽을 삭발하고 동굴로 들어갔던 루틴. 강제 이행 장치(Hard Commitment Device)가 전전두엽 피질의 집행 기능을 보호하는 인지신경과학적 원리를 밝깁니다."
 pubDate: "2026-01-28"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>플루타르코스 평전 『영웅전(Parallel Lives)』 데모스테네스 편 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 demosthenes-isolation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>플루타르코스 평전 『영웅전(Parallel Lives)』 데모스테네스 편 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 강제 이행 장치(Hard Commitment Device)와 전전두엽 집행 기능(PFC Executive Function) 보호
+## 1. 강제 이행 장치(Hard Commitment Device)와 전전두엽 집행 기능(PFC Executive Function) 보호
 
 단순히 '참아야지' 하는 내면의 순간적 의지력에 의존하는 행위는 대뇌 전전두엽 피질(Prefrontal Cortex)의 집행 기능(Executive Function) 에너지를 극도로 소모시킵니다. 유혹 요소가 눈앞에 존재하는 한 뇌는 끊임없이 할 것인가 말 것인가의 '인과적 갈등(Conflict Processing)'을 겪으며 포도당을 탕진합니다. 데모스테네스의 반쪽 삭발처럼 물리적·환경적으로 유혹에 접근할 수 없도록 사전에 행동 선택지를 차단하는 기제를 행동경제학과 인지신경과학에서는 '강제 이행 장치(Hard Commitment Device)'라 부릅니다. 이 완벽한 환경 통제는 전전두엽의 갈등 처리 부하를 0으로 만들어, 온전한 인지 자원을 목표 과제의 심도 있는 몰입으로만 100% 집중시킵니다.
 
 ---
 
-## 주의사항 및 팁: 의지력 신화 탈피 및 환경적 배수진(Commitment) 구축
-
-자신의 의지력만으로 미루기와 디지털 딴짓을 극복할 수 있다는 환상을 버려야 합니다. 인간의 자기통제력은 한정된 자원입니다. 데모스테네스처럼 딴짓을 하러 밖으로 나가거나 스마트폰을 켤 수 없도록 만드는 강제적이고 물리적인 배수진(Hard Commitment Device)을 작업 전에 선제적으로 세팅해야만 지속 가능한 고립 몰입이 가능해집니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 의지력 신화 탈피 및 환경적 배수진(Commitment) 구축
+
+자신의 의지력만으로 미루기와 디지털 딴짓을 극복할 수 있다는 환상을 버려야 합니다. 인간의 자기통제력은 한정된 자원입니다. 데모스테네스처럼 딴짓을 하러 밖으로 나가거나 스마트폰을 켤 수 없도록 만드는 강제적이고 물리적인 배수진(Hard Commitment Device)을 작업 전에 선제적으로 세팅해야만 지속 가능한 고립 몰입이 가능해집니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>데모스테네스는 왜 하필 머리 반쪽을 삭발하고 동굴로 들어갔나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       자신의 우스꽝스러운 외모 때문에 타인의 시선이 두려워 스스로 밖으로 나갈 수 없도록 물리적·사회적 배수진을 치기 위함이었습니다. 이를 통해 유혹을 참아내려는 의지력 에너지 소모를 없애고, 오직 동굴 속 발성과 웅변 수련에만 뇌의 모든 집행 자원을 고정시켰습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>삭발을 하지 않고 현대인이 실생활에서 바로 적용할 수 있는 강제 이행 장치에는 무엇이 있나요?</span>

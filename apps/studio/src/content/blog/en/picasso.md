@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Picasso's Flexible Immersion Method: Switching Canvases Instantly When Ideas Stall"
 description: "The master of modern art who co-founded Cubism, igniting creative sparks at night under a single candle flame with zero distractions."
 pubDate: "2026-02-15"
@@ -34,22 +35,20 @@ In today's post, we examine the cognitive neuroscience behind Picasso's habit of
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding picasso is based on <strong>Historical biography & autobiographical record verification of Pablo Picasso & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography & autobiographical record verification of Pablo Picasso & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Brain Science Behind Picasso's Attention-Switching Success
+## 1. Brain Science Behind Picasso's Attention-Switching Success
 
 Forcing work on a complex task when mental focus begins to wander causes severe cognitive exhaustion due to 'Attention Residue'. Flexibly switching among 2–3 distinct task types like Picasso allows previously active neural pathways to rest while awakening fresh neural networks, preserving energy and high focus over extended hours.
 
 ---
 
-## Behavioral Science Advice for Successful Implementation
-
-This does not mean chaotic multitasking with multiple chat windows open simultaneously. Within any given work block, focus singularly on 'one single task', but switch between distinct work blocks flexibly whenever progress plateaus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ This does not mean chaotic multitasking with multiple chat windows open simultan
   </p>
 </div>
 
+---
+
+## 3. Behavioral Science Advice for Successful Implementation
+
+This does not mean chaotic multitasking with multiple chat windows open simultaneously. Within any given work block, focus singularly on 'one single task', but switch between distinct work blocks flexibly whenever progress plateaus.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Doesn't switching tasks too flexibly delay finishing work?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ This does not mean chaotic multitasking with multiple chat windows open simultan
       No. From a brain science perspective, when cognitive friction peaks during a standstill, switching to a refreshing task for 20 minutes before returning with a clear mind actually speeds up total completion by over 40%.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What is the optimal maximum number of task tracks to design per day?</span>

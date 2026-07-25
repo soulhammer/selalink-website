@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Marcus Aurelius's Morning Journaling: Calming the Mind with Stoic Philosophy"
 description: "Discover how Roman Emperor Marcus Aurelius wrote in his journal just before sunrise to relieve extreme stress and cultivate inner resilience."
 pubDate: "2026-05-22"
@@ -36,22 +37,20 @@ This morning writing habit, which anchored him through battle, disease, and poli
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding marcus-aurelius-morning-journaling is based on <strong>Historical Verification of Marcus Aurelius's 'Meditations', Biographical Records & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Historical Verification of Marcus Aurelius's 'Meditations', Biographical Records & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why Morning Reflective Journaling Blocks Stress
+## 1. Why Morning Reflective Journaling Blocks Stress
 
 Writing immediately upon waking acts as a cognitive filter for the brain. Pouring vague anxieties and emotional concerns onto paper activates the prefrontal cortex responsible for reasoning while instantly calming hyperactive amygdala stress responses. This cognitive reframing normalizes cortisol secretion and boosts executive control, preparing you to carry out your duties calmly without being overwhelmed by emotion.
 
 ---
 
-## Rules for Effective Stoic Journaling
-
-Discard fancy rhetoric meant for others; this writing must be strictly honest and for yourself alone. Record your weaknesses or mistakes objectively, and consider using second-person grammar (addressing yourself as 'you'). This phrasing creates psychological Cognitive Distance, helping you observe your own actions more dispassionately from a third-person perspective.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Discard fancy rhetoric meant for others; this writing must be strictly honest an
   </p>
 </div>
 
+---
+
+## 3. Rules for Effective Stoic Journaling
+
+Discard fancy rhetoric meant for others; this writing must be strictly honest and for yourself alone. Record your weaknesses or mistakes objectively, and consider using second-person grammar (addressing yourself as 'you'). This phrasing creates psychological Cognitive Distance, helping you observe your own actions more dispassionately from a third-person perspective.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What should I do if I find it hard to write in a journal every morning due to a busy schedule?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Discard fancy rhetoric meant for others; this writing must be strictly honest an
       There is no need to blame yourself if you miss a day. Self-reproach is an unnecessary form of suffering discouraged by Stoicism. If you are extremely pressed for time, simply writing a single line in a phone memo like 'Remain unshaken by today's trials' is enough. Consistency of mindset is what matters.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How does this differ from a typical gratitude journal or morning diary?</span>

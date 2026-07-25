@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Estabelecendo uma autonomia inabalável: A rotina de declaração matinal do Jagyeongmun de Yi I (Yulgok)"
 description: "A autodisciplina através do 'Jagyeongmun' estabelecido aos 20 anos por Yi I (Yulgok), o maior sábio de Joseon. Analisamos o treinamento cognitivo que ativa o feedback direcionado a metas ao recitar resoluções matinais."
 pubDate: "2026-01-01"
@@ -31,25 +32,23 @@ Enquanto muitos esquecem os propósitos matinais diante de distrações, Yi I pr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre yiyi-self-warning é baseada em <strong>Biografias históricas e registros autobiográficos sobre o autowalerta de Yi I e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos sobre o autowalerta de Yi I e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## A ciência cerebral do efeito de autorreferência e declarações direcionadas a metas
+## 1. A ciência cerebral do efeito de autorreferência e declarações direcionadas a metas
 
 O efeito de autorreferência (Self-Reference Effect) ocorre quando o processamento de informações relacionadas a si mesmo ativa o córtex pré-frontal medial (mPFC), fortalecendo a memória de longo prazo e a internalização de valores. Ler regras pessoais todas as manhãs reforça continuamente essa via neural. Fixar esses princípios na mente ativa redes de controle cognitivo, atuando como um GPS interno para controlar impulsos.
 
 ---
 
-## Uma palavra sobre autovigilância e preservação da autonomia
-
-Mais importante do que estabelecer princípios é a honestidade de lembrar a si mesmo deles a cada manhã. Apenas os padrões com os quais você concorda e declara—e não regras impostas por terceiros—motivarão seu cérebro e lhe darão controle sobre seu dia.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,9 +80,15 @@ Mais importante do que estabelecer princípios é a honestidade de lembrar a si 
   </p>
 </div>
 
+---
+
+## 3. Uma palavra sobre autovigilância e preservação da autonomia
+
+Mais importante do que estabelecer princípios é a honestidade de lembrar a si mesmo deles a cada manhã. Apenas os padrões com os quais você concorda e declara—e não regras impostas por terceiros—motivarão seu cérebro e lhe darão controle sobre seu dia.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

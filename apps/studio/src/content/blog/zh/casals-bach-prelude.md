@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "灵魂的调音：保罗·卡萨尔斯的晨间巴赫前奏曲习惯与阿尔法波诱导法"
 description: "探索传奇大提琴家保罗·卡萨尔斯在长达80多年的岁月中，每天清晨演奏巴赫《平均律键盘曲集》开启新一天的习惯，揭示音乐同步（Musical Entrainment）激活阿尔法波与平衡自主神经系统的神经科学原理。"
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 casals-bach-prelude 的内容基于 <strong>保罗·卡萨尔斯自传《我生活的喜悦与悲伤（Joys and Sorrows: Reflections by Pablo Casals）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>保罗·卡萨尔斯自传《我生活的喜悦与悲伤（Joys and Sorrows: Reflections by Pablo Casals）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过音乐同步（Musical Entrainment）诱导阿尔法波与平衡自主神经系统
+## 1. 通过音乐同步（Musical Entrainment）诱导阿尔法波与平衡自主神经系统
 
 人类的大脑在晨起时，为了打破睡眠惯性，负责唤醒的皮质醇（Cortisol）水平会急剧攀升，进而引发轻微的焦虑感与交感神经兴奋。此时，若亲自弹奏或专注倾听具备规律与和声数学结构的巴赫音乐，大脑的神经振荡（Neural Oscillations）便会与音乐的节拍和频率发生对齐，这即是“音乐同步（Musical Entrainment）”现象。这一过程能强效促发频率为8-12Hz的阿尔法波（Alpha Waves），诱导进入松弛且专注的状态。与此同时，副交感神经系统（Parasympathetic Nervous System）被有效激活，心率恢复平稳，自主神经系统达成完美平衡，使一天在极佳的情绪平稳与积极专注状态中拉开序幕。
 
 ---
 
-## 注意事项与提示：避免晦涩刺耳的音乐与精选和谐古典乐
-
-在构建晨间预热音乐习惯时，最需要警惕的是选择过于复杂晦涩、节奏过快或充满强刺不谐和音的音乐。强烈的摇滚、流行乐或高难度的炫技钢琴曲演奏，会阻碍大脑阿尔法波的诱导，并过度刺激交感神经系统，进而加剧晨起时的焦虑与认知疲劳。唯有选择像巴赫前奏曲那样在结构上和谐对称、具复规性且节奏舒缓的古典乐或新世纪音乐，方能发挥最佳的情绪缓冲作用。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：避免晦涩刺耳的音乐与精选和谐古典乐
+
+在构建晨间预热音乐习惯时，最需要警惕的是选择过于复杂晦涩、节奏过快或充满强刺不谐和音的音乐。强烈的摇滚、流行乐或高难度的炫技钢琴曲演奏，会阻碍大脑阿尔法波的诱导，并过度刺激交感神经系统，进而加剧晨起时的焦虑与认知疲劳。唯有选择像巴赫前奏曲那样在结构上和谐对称、具复规性且节奏舒缓的古典乐或新世纪音乐，方能发挥最佳的情绪缓冲作用。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>完全不会弹奏钢琴或大提琴的人也能获得卡萨尔斯晨间音乐习惯的效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，能够获得完全相同的认知与情绪梳理效果。虽然亲自弹奏乐曲能额外刺激运动皮层，但只要闭上双眼并将意识完全沉浸于音符的震颤与质感中，开展“主动倾听（Active Listening）”，就足以促发阿尔法波同步。核心在于切勿将音乐仅作为背景噪音随意播放，而是把10分钟的时间全数用来专注倾听声音的微小变化。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>晨间倾听古典乐时，佩戴耳机是否更为高效？</span>

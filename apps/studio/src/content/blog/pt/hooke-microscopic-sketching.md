@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Método de Desenho Microscópico de Robert Hooke: Despertando o Foco Pré-frontal via Micro-observação de 0,01 mm e Sincronização Mão-Olho"
 description: "Descubra como o polímata do século XVII Robert Hooke descobriu a primeira 'célula' biológica desenhando ao microscópio composto. Explore a neurociência da sincronização mão-olho e do bloco visoespacial."
 pubDate: "2026-04-04"
@@ -35,25 +36,23 @@ Combinar a observação óptica com o desenho à mão reforçou a comunicação 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre hooke-microscopic-sketching é baseada em <strong>Verificação Histórica de *Micrographia* (1665) de Robert Hooke, Arquivos da Royal Society e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Micrographia* (1665) de Robert Hooke, Arquivos da Royal Society e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sincronização Mão-Olho nas Cortices Visual e Motora e Foco Pré-frontal
+## 1. Sincronização Mão-Olho nas Cortices Visual e Motora e Foco Pré-frontal
 
 Desenhar à mão os microdetalhes observados estimula simultaneamente o <strong>Córtex Visual</strong> e o <strong>Córtex Motor</strong>. Essa sincronização mão-olho ativa o <strong>Bloco Visoespacial</strong> da memória de trabalho, suprimindo distrações. Ao acionar o <strong>Córtex Pré-frontal</strong>, induz um estado de <strong>Foco Preciso (Fine Focus)</strong>, aprimorando a resolução de observação e a análise.
 
 ---
 
-## Precaução: Priorize a Precisão Microestrutural em Vez do Acabamento Artístico
-
-Não se obsessione com a beleza artística ou a perfeição estética do desenho. O segredo é capturar objetivamente a microestrutura, as conexões entre componentes e os padrões de erro exatamente como observados. Focar em transferir as relações em vez de fazer um desenho bonito mantém o foco pré-frontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Não se obsessione com a beleza artística ou a perfeição estética do desenho
   </p>
 </div>
 
+---
+
+## 3. Precaução: Priorize a Precisão Microestrutural em Vez do Acabamento Artístico
+
+Não se obsessione com a beleza artística ou a perfeição estética do desenho. O segredo é capturar objetivamente a microestrutura, as conexões entre componentes e os padrões de erro exatamente como observados. Focar em transferir as relações em vez de fazer um desenho bonito mantém o foco pré-frontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É eficaz usar mapas mentais digitais ou canetas ópticas em vez de papel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Não se obsessione com a beleza artística ou a perfeição estética do desenho
       Sim! Seja em papel físico ou com caneta digital, desde que a motricidade fina e o rastreamento visual estejam sincronizados para mapear estruturas, você obtém os mesmos benefícios neurológicos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Este método traz benefícios para pessoas sem talento para desenhar?</span>

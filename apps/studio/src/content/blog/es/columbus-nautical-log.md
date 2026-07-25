@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Capitán que Inició la Era de los Descubrimientos: La Rutina de Diario de Navegación Nocturno y Calma de la Amígdala de Cristóbal Colón"
 description: "Descubra cómo el explorador Cristóbal Colón mantuvo la serenidad racional en medio de las tormentas marinas al llevar un diario cuantitativo nocturno. Explore la neurociencia cognitiva de cómo el registro nocturno calma la amígdala y activa el control prefrontal."
 pubDate: "2026-04-25"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre columbus-nautical-log se basa en <strong>Verificación Histórica del *Diario de a bordo de Cristóbal Colón (The Diario of Christopher Columbus)* de Bartolomé de las Casas e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica del *Diario de a bordo de Cristóbal Colón (The Diario of Christopher Columbus)* de Bartolomé de las Casas e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Desactivación de la Amígdala y Alternancia Prefrontal Mediante el Registro Cuantitativo Nocturno
+## 1. Desactivación de la Amígdala y Alternancia Prefrontal Mediante el Registro Cuantitativo Nocturno
 
 La ansiedad vaga sobre un futuro incontrolable sobreestimula el centro del miedo del sistema límbico —la amígdala—, desencadenando activación simpática, insomnio y estados de pánico. Llevar un 'diario nocturno' que registre datos concretos (objetivos cumplidos, tareas pendientes, vectores futuros) actúa como un interruptor neurológico. Desplaza el procesamiento activo de las estructuras límbicas a la corteza prefrontal dorsolateral (DLPFC). Convertir el miedo en números visibles reduce la reactividad de la amígdala, induciendo calma fisiológica.
 
 ---
 
-## Precauciones y Consejos: Evitar el Rumia Emocional y Registrar Métricas Objetivas
-
-La base de un diario de navegación es convertir sentimientos subjetivos en datos objetivos. Escribir quejas emocionales como 'hoy me sentí muy estresado' antes de dormir reactiva la amígdala, empeorando el insomnio. Excluya el desahogo subjetivo. En su lugar, registre datos cuantificados: '4 de 5 objetivos completados', 'Progreso: 80%', 'Prioridad para mañana: 1 punto'. Esto activa las redes prefrontales para calmar la amígdala.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La base de un diario de navegación es convertir sentimientos subjetivos en dato
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Evitar el Rumia Emocional y Registrar Métricas Objetivas
+
+La base de un diario de navegación es convertir sentimientos subjetivos en datos objetivos. Escribir quejas emocionales como 'hoy me sentí muy estresado' antes de dormir reactiva la amígdala, empeorando el insomnio. Excluya el desahogo subjetivo. En su lugar, registre datos cuantificados: '4 de 5 objetivos completados', 'Progreso: 80%', 'Prioridad para mañana: 1 punto'. Esto activa las redes prefrontales para calmar la amígdala.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Escribir en una aplicación de notas en el móvil produce el mismo efecto relajante en la amígdala?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La base de un diario de navegación es convertir sentimientos subjetivos en dato
       No. La escritura manual proporciona una retroalimentación táctil que recluta activamente las cortezas motora y somatosensorial, fortaleciendo el control prefrontal. Además, la luz azul del móvil suprime la melatonina y altera el sueño. Se recomienda utilizar un cuaderno físico.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer los días en que estoy demasiado agotado para escribir un registro completo antes de dormir?</span>

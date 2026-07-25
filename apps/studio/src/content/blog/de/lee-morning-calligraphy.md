@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Unternehmensphilosophie an der Pinselspitze: Lee Byung-chuls morgendliches Kalligrafie-Ritual und Aktivierung des primären motorischen Kortex"
 description: "Erfahren Sie, wie Samsung-Gründer Lee Byung-chul durch sein tägliches morgendliches Kalligrafie-Ritual strategische Klarheit schuf. Entdecken Sie die Wissenschaft der Feinmotorik, die Aktivierung des primären motorischen Kortex und eine 3-Schritte-Anleitung."
 pubDate: "2026-05-25"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Lee Byung-chu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu lee-morning-calligraphy basiert auf <strong>Historische Überprüfung aus Ho-Ams Autobiografie *Ho-Am Jajeon*, Samsung-Archiven & Forschung der kognitiven Neurowissenschaften und Motorikwissenschaft</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Ho-Ams Autobiografie *Ho-Am Jajeon*, Samsung-Archiven & Forschung der kognitiven Neurowissenschaften und Motorikwissenschaft</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivierung des primären motorischen Kortex und Entspannung des autonomen Nervensystems
+## 1. Aktivierung des primären motorischen Kortex und Entspannung des autonomen Nervensystems
 
 Im Gegensatz zu starren Stiften erfordert Kalligrafie das präzise Ausbalancieren von Pinselspannung, Geschwindigkeit und Druck. Diese Aufgabe beansprucht intensiv den <strong>primären motorischen Kortex</strong> und das <strong>Kleinhirn</strong>, was störende Gedanken unterdrückt. Zudem beruhigt das multisensorische Feedback (Haptik und Visuelles) das <strong>autonome Nervensystem</strong> und aktiviert den <strong>präfrontalen Kortex</strong>, um komplexe Entscheidungen mit ruhiger Vernunft zu treffen.
 
 ---
 
-## Vorsichtsmaßnahme: Perfektionismus beim Schriftbild ablegen und in den haptischen Fluss eintauchen
-
-Wer sich beim Kalligrafieren über die Schönheit der Schrift sorgt, aktiviert kritische Bewertungsmuster und mindert den Entspannungseffekt. Diese Routine ist kein Kunstwettbewerb, sondern eine sensorisch-motorische Achtsamkeitsübung. Ignorieren Sie ungerade Linien und konzentrieren Sie sich ganz auf das Gefühl der Bewegung auf dem Papier.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Wer sich beim Kalligrafieren über die Schönheit der Schrift sorgt, aktiviert k
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Perfektionismus beim Schriftbild ablegen und in den haptischen Fluss eintauchen
+
+Wer sich beim Kalligrafieren über die Schönheit der Schrift sorgt, aktiviert kritische Bewertungsmuster und mindert den Entspannungseffekt. Diese Routine ist kein Kunstwettbewerb, sondern eine sensorisch-motorische Achtsamkeitsübung. Ignorieren Sie ungerade Linien und konzentrieren Sie sich ganz auf das Gefühl der Bewegung auf dem Papier.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Welche Alltagsgegenstände eignen sich als Ersatz, wenn man keine Kalligrafie-Ausrüstung besitzt?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Wer sich beim Kalligrafieren über die Schönheit der Schrift sorgt, aktiviert k
       Füllfederhalter, Zeichenfedern oder ein Bleistift auf festem Papier sind hervorragende Alternativen. Entscheidend ist das bewusste Wahrnehmen des Widerstands beim Schreiben und der Druckverteilung in den Fingern. Jedes Schreibgerät mit spürbarer Haptik bietet dieselbe beruhigende Wirkung.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Warum eignet sich diese Kalligrafie-Routine direkt nach dem Aufstehen besser als am Abend?</span>

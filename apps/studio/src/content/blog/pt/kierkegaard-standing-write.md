@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Escrever de Pé com Chapéu Logo Após Caminhar: O Hábito de Captura Imediata e Aquecimento Cognitivo de Søren Kierkegaard"
 description: "Descubra como o filósofo existencialista Søren Kierkegaard preservava suas ideias escrevendo de pé em escrivaninhas altas logo após caminhar, sem tirar o chapéu nem o sobretudo. Explore a neurociência do aquecimento cognitivo e memória de trabalho."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre kierkegaard-standing-write é baseada em <strong>Verificação Histórica dos *Diários de Søren Kierkegaard*, Biografia de Joakim Garff e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica dos *Diários de Søren Kierkegaard*, Biografia de Joakim Garff e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aquecimento Cognitivo e Preservação da Memória de Trabalho
+## 1. Aquecimento Cognitivo e Preservação da Memória de Trabalho
 
 Imediatamente após caminhar, o cérebro entra em um estado de <strong>Aquecimento Cognitivo (Cognitive Warm-up)</strong> impulsionado pela <strong>dopamina</strong> e <strong>noradrenalina</strong>. Registrar os pensamentos nesse período permite transferi-los para as redes pré-frontais sem perda de informação. Além disso, trabalhar de pé mantém a ativação muscular, preservando o fluxo sanguíneo cerebral e acelerando a <strong>Memória de Trabalho</strong>. Isso evita a fragmentação e elimina os <strong>Resíduos de Atenção (Attention Residue)</strong>.
 
 ---
 
-## Precaução: Protocolo de Captura Imediata ao Chegar para Eliminar Resíduos de Atenção
-
-Ao passar do movimento ao repouso em casa, o cérebro reduz naturalmente o nível de alerta. Passar apenas 5 minutos desfazendo as malas ou sentando no sofá faz com que os detalhes de uma ideia desapareçam. Para evitar essa perda, fixe sua sequência: dedique de 5 a 10 minutos para escrever de pé antes de cuidar da casa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ao passar do movimento ao repouso em casa, o cérebro reduz naturalmente o níve
   </p>
 </div>
 
+---
+
+## 3. Precaução: Protocolo de Captura Imediata ao Chegar para Eliminar Resíduos de Atenção
+
+Ao passar do movimento ao repouso em casa, o cérebro reduz naturalmente o nível de alerta. Passar apenas 5 minutos desfazendo as malas ou sentando no sofá faz com que os detalhes de uma ideia desapareçam. Para evitar essa perda, fixe sua sequência: dedique de 5 a 10 minutos para escrever de pé antes de cuidar da casa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É obrigatório escrever de pé? Posso me sentar em vez disso?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ao passar do movimento ao repouso em casa, o cérebro reduz naturalmente o níve
       Sentar-se imediatamente ao chegar em casa causa uma queda rápida no alerta físico, levando o cérebro a um relaxamento profundo. Ficar de pé mantém a ativação corporal e protege a memória de trabalho durante esses 10 minutos cruciais.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como posso praticar essa rotina se não tiver uma escrivaninha alta?</span>

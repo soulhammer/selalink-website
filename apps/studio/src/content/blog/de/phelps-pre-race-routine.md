@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Druck abbauen: Michael Phelps' kognitive 2-Stunden-Routine vor dem Rennen"
 description: "Die ultrapräzise Verhaltensroutine, die Michael Phelps, der erfolgreichste Olympionike der Geschichte, unmittelbar vor dem Wettkampf carried. Entdecken Sie die wissenschaftlichen Prinzipien zur Prävention von Gehirnspannung und Angst durch kontrollierte Abläufe."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir die neurowissenschaftlichen Grundlagen von Mic
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu phelps-pre-race-routine basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung zu Michael Phelps & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung zu Michael Phelps & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Die Wissenschaft hinter ultrapräzisen Vorab-Routinen zur Angstbewältigung
+## 1. Die Wissenschaft hinter ultrapräzisen Vorab-Routinen zur Angstbewältigung
 
 Vor einem Wettkampf oder Vortrag ist 'Unsicherheit' der gefährlichste Zustand für das Gehirn. In unvorhersehbaren Umgebungen läuft die <strong>Amygdala</strong> – das emotionale Warnzentrum des Gehirns – heiß und schüttet Stresshormone aus. Wenn Sie jedoch ein hunderfach erprobtes, voll kontrollierbares Verhaltensmuster aktivieren, signalisiert dies dem Gehirn Kontrolle, woraufhin die Amygdala-Aktivität sinkt und die Adrenalinausschüttung optimiert wird.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Beachten Sie, dass diese Routine kein Aberglaube oder Zaubermittel ist. Michael Phelps baute durch jahrelanges <strong>mechanisches Training und Wiederholung</strong> starke synaptische Verbindungen zwischen der Routine und körperlicher Entspannung auf. Lassen Sie sich bei anfänglichen Rückschlägen nicht entmutigen; kontinuierliche Praxis ist der Schlüssel zur Verankerung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Beachten Sie, dass diese Routine kein Aberglaube oder Zaubermittel ist. Michael 
     Visualisieren Sie nach den physischen Abläufen im Geist ein perfektes Erfolgsszenario, um das Angstzentrum zu beruhigen und die volle Bereitschaft zu erreichen.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Beachten Sie, dass diese Routine kein Aberglaube oder Zaubermittel ist. Michael Phelps baute durch jahrelanges <strong>mechanisches Training und Wiederholung</strong> starke synaptische Verbindungen zwischen der Routine und körperlicher Entspannung auf. Lassen Sie sich bei anfänglichen Rückschlägen nicht entmutigen; kontinuierliche Praxis ist der Schlüssel zur Verankerung.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "작곡이 막힐 때 당구를 친 천재? 모차르트의 디폴트 모드 활성 습관"
 description: "악상이 떠오르지 않을 때 당구를 치며 무의식 뇌(DMN)를 가동한 볼프강 아마데우스 모차르트. 인지 휴식이 창의적 돌파구를 만들어내는 과학적 비밀과 15분 시공간 놀이법을 소개합니다."
 pubDate: "2026-05-01"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>모차르트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mozart-billiard-ideation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>모차르트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 무의식의 뇌와 '디폴트 모드 네트워크'
+## 1. 무의식의 뇌와 '디폴트 모드 네트워크'
 
 풀리지 않는 어려운 문제를 해결하기 위해 오랫동안 모니터 화면만 째려보는 행동은 전두엽의 작업 기억을 과포화시켜 뇌를 기능 정체(Mental Stagnation) 상태에 빠트립니다. 반면, 주의를 완전히 다른 곳으로 돌리고 당구와 같이 시공간적 궤적 예측이 동반되는 가벼운 신체 놀이에 몰입할 때, 뇌는 '디폴트 모드 네트워크(DMN, Default Mode Network)'를 구동시킵니다.
 
@@ -49,11 +50,7 @@ DMN은 뇌가 쉴 때 작동하는 무의식적 연동 메커니즘으로, 이 �
 
 ---
 
-## 성공적인 루틴을 위한 뇌과학적 한마디
-
-<strong>창의력은 억지 집중이 아니라 교대에서 나옵니다</strong>
-
-한 아이디어에 집착하는 뇌는 터널 시야(Tunnel Vision)에 갇혀 새로운 연결을 차단합니다. 뇌가 지쳤을 때 강제로 앉아있는 것은 인지 에너지를 좀먹는 행위일 뿐입니다. 모차르트가 당구대 옆에서 무의식의 뇌를 활성화시켜 불멸의 음악적 궤적을 뽑아냈던 것처럼, 머리가 막히면 즉시 일어나 가벼운 시공간 놀이로 DMN을 기동해 보세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ DMN은 뇌가 쉴 때 작동하는 무의식적 연동 메커니즘으로, 이 �
     다시 책상에 앉아 과제를 바라봅니다. 휴식 중 무의식에서 합성된 새로운 아이전이나 창의적 돌파구가 자연스럽게 의식 표면으로 올라옵니다.
   </p>
 </div>
+
+---
+
+## 3. 성공적인 루틴을 위한 뇌과학적 한마디
+
+<strong>창의력은 억지 집중이 아니라 교대에서 나옵니다</strong>
+
+한 아이디어에 집착하는 뇌는 터널 시야(Tunnel Vision)에 갇혀 새로운 연결을 차단합니다. 뇌가 지쳤을 때 강제로 앉아있는 것은 인지 에너지를 좀먹는 행위일 뿐입니다. 모차르트가 당구대 옆에서 무의식의 뇌를 활성화시켜 불멸의 음악적 궤적을 뽑아냈던 것처럼, 머리가 막히면 즉시 일어나 가벼운 시공간 놀이로 DMN을 기동해 보세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

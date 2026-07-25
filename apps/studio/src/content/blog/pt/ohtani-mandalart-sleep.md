@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Visualização de metas e descanso profundo: O Mandalart de Ohtani e sua rotina de 10 horas de sono"
 description: "Shohei Ohtani reescreve a história do beisebol moderno. Descubra o mecanismo neurocientífico por trás do seu método Mandalart de 81 quadros do ensino médio e sua rotina diária de 10 horas de sono reparador para maximizar a recuperação física."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Neste artigo, exploramos os mecanismos neurocientíficos por trás da arquitetur
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre ohtani-mandalart-sleep é baseada em <strong>Verificação de biografias históricas e registros autobiográficos de Shohei Ohtani e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas e registros autobiográficos de Shohei Ohtani e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efeito de concretização de metas do Mandalart e o mecanismo neurocientífico de recuperação do sono prolongado
+## 1. Efeito de concretização de metas do Mandalart e o mecanismo neurocientífico de recuperação do sono prolongado
 
 A técnica Mandalart divide metas abstratas em ações concretas, bloqueando a sobrecarga cognitiva e estimulando os circuitos de execução do cérebro. Por outro lado, o hábito fundamental de Ohtani de dormir 10 horas promove o sistema glinfático do cérebro. O líquido cefalorraquidiano limpa os resíduos metabólicos acumulados durante as atividades do dia, restaurando a energia cognitiva do córtex pré-frontal. Além disso, o sono consolida com segurança as memórias de movimentos musculares de arremesso e rebatedoria praticados no dia no armazenamento de memória motora de longo prazo do cerebelo.
 
 ---
 
-## Precauções e dicas
-
-Aumentar repentinamente a duração do sono de forma excessiva pode causar letargia. É sensato aumentar gradualmente seu tempo base de sono para 7 a 8 horas, de acordo com seu metabolismo. Se o sono noturno for insuficiente, combine uma pequena sesta de 20 a 30 minutos durante o dia para complementar o tempo total de recuperação.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Aumentar repentinamente a duração do sono de forma excessiva pode causar letar
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Aumentar repentinamente a duração do sono de forma excessiva pode causar letargia. É sensato aumentar gradualmente seu tempo base de sono para 7 a 8 horas, de acordo com seu metabolismo. Se o sono noturno for insuficiente, combine uma pequena sesta de 20 a 30 minutos durante o dia para complementar o tempo total de recuperação.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

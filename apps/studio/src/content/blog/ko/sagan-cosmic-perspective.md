@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "칼 세이건의 우주적 관점: '창백한 푸른 점' 루틴으로 일상의 불안과 스트레스를 리셋하는 법"
 description: "천문학자 칼 세이건이 3분간의 우주적 부감(Zoom-out)으로 일상의 불안을 털어낸 역사적 사실과 '경외감 효과(Awe Effect)'의 뇌과학적 원리를 다룹니다."
 pubDate: "2026-06-27"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Sagan Cosmic Perspective 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 sagan-cosmic-perspective 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Sagan Cosmic Perspective 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 우주적 경외감이 뇌 편도체와 자아의 스트레스를 진정시키는 이유
+## 1. 우주적 경외감이 뇌 편도체와 자아의 스트레스를 진정시키는 이유
 
 신경심리학에서는 이를 '작은 자 효과(Small-Self Effect)'라고 부릅니다. 우주나 대자연의 경외감을 시각화할 때 뇌의 편도체(Amygdala)와 뇌도(Insula)의 과도한 스트레스 반응이 진정되고, 사소한 불안 대신 넓은 객관적 시야를 확보하게 됩니다.
 
 ---
 
-## 세이건의 관점 전환 주의사항 및 팁
-
-우주의 광대함을 무기력함으로 오해해서는 안 됩니다. 오히려 나를 괴롭히던 스트레스와 고민이 조용히 해결할 수 있을 만큼 아주 작은 것임을 깨닫는 도구로 활용해야 합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 세이건의 관점 전환 주의사항 및 팁
+
+우주의 광대함을 무기력함으로 오해해서는 안 됩니다. 오히려 나를 괴롭히던 스트레스와 고민이 조용히 해결할 수 있을 만큼 아주 작은 것임을 깨닫는 도구로 활용해야 합니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>발표나 중요한 미팅 전에 불안할 때도 이 루틴이 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네! 1분간 우주적 줌아웃을 떠올리면 심박수가 안정되고 무대 공포증이나 수행 불안이 현저히 낮아집니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>주변에 우주 사진이 없을 때는 어떻게 하나요?</span>

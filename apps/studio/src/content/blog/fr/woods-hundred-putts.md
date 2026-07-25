@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jusqu'à 100 réussites consécutives : La méthode d'immersion au putt de 4m de Tiger Woods"
 description: "La routine des '100 putts réussis d'affilée' exécutée par la légende du golf Tiger Woods avant l'entraînement. Découvrez comment l'accomplissement sans compromis inonde le cerveau de dopamine et stimule une concentration extrême."
 pubDate: "2026-04-01"
@@ -33,25 +34,23 @@ Cet article explore la neurobiologie de ce rituel d'accomplissement extrême et 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant woods-hundred-putts est basée sur <strong>Biographies historiques et récits autobiographiques sur la routine des 100 putts de Woods et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques sur la routine des 100 putts de Woods et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Immersion extrême stimulée par l'accomplissement sans compromis
+## 1. Immersion extrême stimulée par l'accomplissement sans compromis
 
 Pour les tâches nécessitant une grande concentration, le catalyseur principal est la Dopamine, associée à l'anticipation de la récompense. Réussir un défi sous la contrainte d'un retour à zéro en cas d'échec stimule fortement les centres de contrôle, bloquant les distractions pour plonger le cerveau dans un état de concentration maximale.
 
 ---
 
-## Précautions et conseils
-
-Pour utiliser efficacement la dopamine, le défi ne doit être ni trop simple ni irréalisable. L'essentiel est de choisir une tâche à la difficulté adaptée. Si des échecs répétés génèrent de la frustration au lieu de la concentration, ajustez le niveau de difficulté avec sagesse.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Pour utiliser efficacement la dopamine, le défi ne doit être ni trop simple ni
     Profitez de l'état de haute concentration et de dopamine obtenu grâce à la réussite du défi pour vous attaquer immédiatement à votre tâche principale.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Pour utiliser efficacement la dopamine, le défi ne doit être ni trop simple ni irréalisable. L'essentiel est de choisir une tâche à la difficulté adaptée. Si des échecs répétés génèrent de la frustration au lieu de la concentration, ajustez le niveau de difficulté avec sagesse.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

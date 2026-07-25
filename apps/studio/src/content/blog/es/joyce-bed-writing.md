@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Escribir en la Cama con Lápices de Colores Azules: La Rutina de Escritura para la Conservación de Energía y Alivio de la Fatiga de la Corteza Visual Primaria (V1) de James Joyce"
 description: "Descubra cómo James Joyce creó obras maestras literarias recostado en la cama a pesar de graves enfermedades oculares. Explore la neurociencia de reducir la carga muscular gravitacional, aliviar la fatiga de la corteza visual primaria (V1) y optimizar la energía prefrontal."
 pubDate: "2026-04-10"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre joyce-bed-writing se basa en <strong>Verificación Histórica de la Biografía de Richard Ellmann *James Joyce*, Archivos de Joyce e Investigación en Neurociencia Cognitiva y Percepción Visual</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Richard Ellmann *James Joyce*, Archivos de Joyce e Investigación en Neurociencia Cognitiva y Percepción Visual</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reducción de la Carga Muscular Gravitacional y Alivio de la Fatiga de la Corteza Visual Primaria (V1)
+## 1. Reducción de la Carga Muscular Gravitacional y Alivio de la Fatiga de la Corteza Visual Primaria (V1)
 
 Recostarse o reclinarse reduce la tensión muscular postural y estabiliza el ritmo cardíaco, minimizando el gasto de energía física. Esto permite que el flujo sanguíneo oxigenado se concentre en la <strong>Corteza Prefrontal</strong>. Además, usar herramientas de escritura azules gruesas y de alto contraste bajo luz proyectada reduce el esfuerzo en la <strong>Corteza Visual Primaria (V1)</strong>, disminuyendo la <strong>Fatiga Visual</strong> neurológica.
 
 ---
 
-## Precaución: Acepte las Señales de Fatiga Física y Aumente el Contraste Visual
-
-Para James Joyce, escribir en la cama fue una adaptación brillante para superar limitaciones físicas. Cuando el agotamiento físico u ocular sea alto, evite forzarse a estar sentado en una silla dura. Reclínese con cojines de apoyo y anote ideas de forma relajada con marcadores gruesos en papel liso.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para James Joyce, escribir en la cama fue una adaptación brillante para superar
   </p>
 </div>
 
+---
+
+## 3. Precaución: Acepte las Señales de Fatiga Física y Aumente el Contraste Visual
+
+Para James Joyce, escribir en la cama fue una adaptación brillante para superar limitaciones físicas. Cuando el agotamiento físico u ocular sea alto, evite forzarse a estar sentado en una silla dura. Reclínese con cojines de apoyo y anote ideas de forma relajada con marcadores gruesos en papel liso.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué vestía James Joyce una bata blanca al escribir en la cama?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para James Joyce, escribir en la cama fue una adaptación brillante para superar
       La bata blanca actuaba como un reflector natural que proyectaba la luz ambiente sobre el papel sin causar deslumbramiento. Funcionaba como una herramienta analógica de iluminación que ayudaba a sus ojos dañados a distinguir las palabras.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Trabajar recostado en la cama o sofá no produce somnolencia?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un génie qui crispait ses orteils 100 fois ? Le rituel de sommeil profond bizarre de Nikola Tesla"
 description: "L'inventeur de génie Nikola Tesla crispait ses orteils au lit chaque nuit. Découvrez les secrets neuroscientifiques cachés dans sa routine unique et un guide pratique en 3 étapes."
 pubDate: "2026-04-28"
@@ -31,17 +32,17 @@ Dans cet article, nous explorons les principes scientifiques derrière l'habitud
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant tesla-toe-curling est basée sur <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
+      Ce contenu est basé sur <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Les orteils : L'interrupteur neuronal qui éveille les cellules cérébrales
+## 1. Les orteils : L'interrupteur neuronal qui éveille les cellules cérébrales
 
 Tesla pensait que le mouvement en apparence anodin de crisper ses orteils stimulait les nombreuses terminaisons nerveuses concentrées dans les pieds, activant les cellules cérébrales et réinitialisant la fatigue cumulative.
 
@@ -49,9 +50,7 @@ En réalité, la zone occupée par les pieds et les orteils dans le cortex somat
 
 ---
 
-## Un conseil neuroscientifique pour une routine réussie
-
-Les exercices d'orteils favorisent la circulation sanguine au point le plus éloigné du cœur, harmonisant la température corporelle et activant le système nerveux parasympathique. Répéter cette action chaque soir au même moment (juste après s'être couvert) entraîne le cerveau à la reconnaître comme un signal conditionné puissant pour le sommeil.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Les exercices d'orteils favorisent la circulation sanguine au point le plus élo
     Ressentez la douce chaleur et la relaxation se diffuser dans votre corps après l'exercice, et laissez-vous glisser naturellement vers un sommeil profond.
   </p>
 </div>
+
+---
+
+## 3. Un conseil neuroscientifique pour une routine réussie
+
+Les exercices d'orteils favorisent la circulation sanguine au point le plus éloigné du cœur, harmonisant la température corporelle et activant le système nerveux parasympathique. Répéter cette action chaque soir au même moment (juste après s'être couvert) entraîne le cerveau à la reconnaître comme un signal conditionné puissant pour le sommeil.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

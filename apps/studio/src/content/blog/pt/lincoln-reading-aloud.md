@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Presidente que Lia Livros em Voz Alta: A Rotina de Leitura Pré-frontal de Abraham Lincoln e o Efeito de Produção"
 description: "Descubra como o 16º presidente dos EUA, Abraham Lincoln, maximizou sua memória lendo em voz alta. Explore a neurociência do Efeito de Produção, Representação Dupla, ativação da Área de Broca e um guia de 5 minutos."
 pubDate: "2026-04-26"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a psicolinguística e a neurociência por trás da
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre lincoln-reading-aloud é baseada em <strong>Verificação Histórica da Biografia de David Herbert Donald *Lincoln*, Memórias de William Herndon e Pesquisa em Neurociência Cognitiva e Psicolinguística</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de David Herbert Donald *Lincoln*, Memórias de William Herndon e Pesquisa em Neurociência Cognitiva e Psicolinguística</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O Efeito de Produção e a Neurociência da Representação Dupla
+## 1. O Efeito de Produção e a Neurociência da Representação Dupla
 
 Escanear um texto apenas com os olhos é uma leitura passiva que minimiza o processamento cognitivo. Em contrapartida, vocalizar as palavras e ouvir a própria voz ativa o <strong>Efeito de Produção (Production Effect)</strong>. Ao ler em voz alta, o cérebro ativa a <strong>Área de Broca</strong>, o córtex motor e o auditivo. Essa estimulação cria uma sólida <strong>Representação Dupla (Dual Representation)</strong> na <strong>Memória de Trabalho</strong> do <strong>Córtex Pré-frontal</strong>, facilitando a fixação na <strong>Memória de Longo Prazo</strong>.
 
 ---
 
-## Precaução: Elimine a Pressão da Leitura Rápida para Focar na Articulação Clara
-
-Focar na leitura rápida destrói os benefícios neurobiológicos do Efeito de Produção. Em uma rotina de leitura em voz alta, priorize a articulação clara das sílabas, as vibrações vocais e o feedback auditivo de ouvir a própria voz em vez da velocidade. A imersão sensorial desperta as redes pré-frontais.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Focar na leitura rápida destrói os benefícios neurobiológicos do Efeito de P
   </p>
 </div>
 
+---
+
+## 3. Precaução: Elimine a Pressão da Leitura Rápida para Focar na Articulação Clara
+
+Focar na leitura rápida destrói os benefícios neurobiológicos do Efeito de Produção. Em uma rotina de leitura em voz alta, priorize a articulação clara das sílabas, as vibrações vocais e o feedback auditivo de ouvir a própria voz em vez da velocidade. A imersão sensorial desperta as redes pré-frontais.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que tipo de livro é mais eficaz para estimular o alerta pré-frontal ao ler em voz alta?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Focar na leitura rápida destrói os benefícios neurobiológicos do Efeito de P
       Textos de alta densidade lógica (como filosofia, literatura especializada ou relatórios estratégicos) são muito mais eficazes para a plasticidade pré-frontal do que ficção casual ou ensaios leves.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como posso praticar essa rotina em ambientes silenciosos como escritórios ou bibliotecas?</span>

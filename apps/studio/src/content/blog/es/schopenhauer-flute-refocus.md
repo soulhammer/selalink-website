@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Por qué el mordaz filósofo tocaba la flauta cada mañana para enfriar su cerebro?: El reinicio cognitivo de Schopenhauer"
 description: "Arthur Schopenhauer, el gran filósofo pesimista alemán. Descubra su rutina fisiológica de lavado facial con agua fría seguido de 30 minutos de flauta y respiración para inducir ondas alfa."
 pubDate: "2026-02-25"
@@ -36,22 +37,20 @@ En este artículo, exploramos el valor fisiológico de la rutina de 'despertar c
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre schopenhauer-flute-refocus se basa en <strong>Investigación basada en biografías históricas y registros autobiográficos de Schopenhauer y Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación basada en biografías históricas y registros autobiográficos de Schopenhauer y Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación del nervio trigémino y modulación de ondas alfa mediante respiración diafragmática
+## 1. Estimulación del nervio trigémino y modulación de ondas alfa mediante respiración diafragmática
 
 El contacto del agua fría en el rostro estimula los nervios trigémino y vago, activando el reflejo de inmersión. Esto reduce la frecuencia cardíaca y calma la sobreexcitación simpática. La posterior digitación fina y exhalación profunda al tocar la flauta alinean las ondas cerebrales en ondas alfa estables y eficientes.
 
 ---
 
-## Precauciones para la estimulación facial y consejos de respiración
-
-Exponer la cara al agua fría demasiado tiempo puede irritar la piel o alterar la presión arterial. Limítelo a un leve enjuague de 15 a 30 segundos. Al respirar o tocar, mantenga una proporción de inhalación e inhalación de 1:1 para evitar mareos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Exponer la cara al agua fría demasiado tiempo puede irritar la piel o alterar l
   </p>
 </div>
 
+---
+
+## 3. Precauciones para la estimulación facial y consejos de respiración
+
+Exponer la cara al agua fría demasiado tiempo puede irritar la piel o alterar la presión arterial. Limítelo a un leve enjuague de 15 a 30 segundos. Al respirar o tocar, mantenga una proporción de inhalación e inhalación de 1:1 para evitar mareos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Un principiante sin conocimientos musicales puede obtener los mismos beneficios?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Exponer la cara al agua fría demasiado tiempo puede irritar la piel o alterar l
       Por supuesto. No se requiere maestría musical. En lugar de tocar, ponga música clásica y controle la respiración inhalando 5 segundos y exhalando 5 segundos para lograr el mismo reinicio alfa.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Por qué el lavado facial con agua fría estimula el nervio vago y despierta el cerebro?</span>

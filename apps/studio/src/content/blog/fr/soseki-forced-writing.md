@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Surmonter les passages a vides par la force de la discipline : La routine d'ecriture matinale de Natsume Soseki"
 description: "La règle d'écriture matinale qui a permis à Natsume Soseki de créer ses chefs-d'œuvre. Explication de la valeur cognitive d'éveiller l'excitation à l'action sans attendre l'inspiration."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Dans cet article, nous analysons les mécanismes cognitifs derrière la routine 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant soseki-forced-writing est basée sur <strong>Biographies historiques, récits autobiographiques de l'écriture forcée de Soseki et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques, récits autobiographiques de l'écriture forcée de Soseki et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## L'effet d'excitation par l'action : Comment l'action génère la motivation
+## 1. L'effet d'excitation par l'action : Comment l'action génère la motivation
 
 Le cerveau ne libère pas d'hormones de motivation lorsqu'il reste inactif. Ce n'est que lorsque vous commencez à agir que le cortex préfrontal et le noyau accumbens sont stimulés pour donner l'élan de l'action. La recherche neuroscientifique montre que l'action réprime l'anxiété inutile dans l'amygdale et active les circuits de la mémoire de travail, améliorant considérablement la fonction exécutive.
 
 ---
 
-## Conseil du maître pour déclencher l'action immédiate
-
-N'attendez pas d'être dans le bon état d'esprit ou dans un environnement idéal ; asseyez-vous et écrivez ne serait-ce qu'un seul mot. Seule l'action éveille le cerveau. Plutôt que de compter uniquement sur la volonté, concevez un environnement physique et des déclencheurs qui amorcent l'action naturellement.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ N'attendez pas d'être dans le bon état d'esprit ou dans un environnement idéa
     Une fois l'objectif de 30 minutes ou le nombre minimum de mots atteint, rangez votre bureau et terminez la session avec un sentiment d'accomplissement.
   </p>
 </div>
+
+---
+
+## 3. Conseil du maître pour déclencher l'action immédiate
+
+N'attendez pas d'être dans le bon état d'esprit ou dans un environnement idéal ; asseyez-vous et écrivez ne serait-ce qu'un seul mot. Seule l'action éveille le cerveau. Plutôt que de compter uniquement sur la volonté, concevez un environnement physique et des déclencheurs qui amorcent l'action naturellement.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

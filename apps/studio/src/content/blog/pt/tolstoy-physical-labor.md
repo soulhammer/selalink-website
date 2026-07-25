@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Arar campos antes de escrever apesar do status aristocrático? A rotina de despertar físico de Liev Tolstói"
 description: "De onde o gigante literário Liev Tolstói tirava a energia para escrever romances monumentais como Guerra e Paz? Explore sua rotina de saúde de despertar a função cerebral por meio do trabalho físico e da ginástica todas as manhãs antes de escrever."
 pubDate: "2026-05-11"
@@ -33,17 +34,17 @@ Neste post, examinamos a verdade neurocientífica por trás dos hábitos de trei
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre tolstoy-physical-labor é baseada em <strong>Biografias históricas e registros autobiográficos de Liev Tolstói & pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Liev Tolstói & pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Fator Neurotrófico Derivado do Cérebro (BDNF) e efeitos cognitivos do aumento da frequência cardíaca
+## 1. Fator Neurotrófico Derivado do Cérebro (BDNF) e efeitos cognitivos do aumento da frequência cardíaca
 
 De acordo com pesquisas neurocientíficas, breves exercícios matinais que envolvem grandes grupos musculares para elevar a frequência cardíaca dilatam os vasos sanguíneos cerebrais e melhoram o fluxo sanguíneo na córtex cerebral. Isso aumenta o suprimento de oxigênio, impulsionando imediatamente a velocidade de processamento cognitivo e a memória.
 
@@ -51,11 +52,7 @@ Em particular, o treinamento de força de corpo inteiro e a ginástica maximizam
 
 ---
 
-## Um conselho neurocientífico para uma rotina de sucesso
-
-Mova seu corpo para acender uma forte faísca de aquecimento em seu cérebro.
-
-Sentar-se à força na mesa olhando para o monitor meio dormindo apenas desperdiça tempo. Assim como Tolstói treinava vigorosamente o corpo antes de escrever para despertar completamente o cérebro, libere energia por apenas 15 minutos até suar. A concentração matinal alcançada em um estado desperto produz uma produtividade muito maior do que o normal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,9 +84,17 @@ Sentar-se à força na mesa olhando para o monitor meio dormindo apenas desperdi
   </p>
 </div>
 
+---
+
+## 3. Um conselho neurocientífico para uma rotina de sucesso
+
+Mova seu corpo para acender uma forte faísca de aquecimento em seu cérebro.
+
+Sentar-se à força na mesa olhando para o monitor meio dormindo apenas desperdiça tempo. Assim como Tolstói treinava vigorosamente o corpo antes de escrever para despertar completamente o cérebro, libere energia por apenas 15 minutos até suar. A concentração matinal alcançada em um estado desperto produz uma produtividade muito maior do que o normal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

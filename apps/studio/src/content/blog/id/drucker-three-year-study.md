@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Petualangan Intelektual Memulai Ulang Kehidupan Setiap 3 Tahun: Rutinitas Studi Multidisiplin dan Neuroplastisitas ala Peter Drucker"
 description: "Pelajari bagaimana guru manajemen Peter Drucker menguasai disiplin akademis baru setiap 3 tahun sepanjang hidupnya. Temukan neurosains kognitif tentang neuroplastisitas dan sintesis multidisiplin."
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ Rahasia utamanya terletak pada ritual intelektual yang unik: menguasai bidang ak
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai drucker-three-year-study didasarkan pada <strong>Verifikasi Historis dari Autobiografi Peter Drucker *Adventures of a Bystander* & *Managing Oneself* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Peter Drucker *Adventures of a Bystander* & *Managing Oneself* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroplastisitas dan Reorganisasi Sirkuit Sinaptik Melalui Eksplorasi Lintas Disiplin
+## 1. Neuroplastisitas dan Reorganisasi Sirkuit Sinaptik Melalui Eksplorasi Lintas Disiplin
 
 Rutin memproses pengetahuan domain yang identik mengaktifkan jalur saraf terisolasi, mempercepat kekakuan kognitif. Sebaliknya, terlibat dengan disiplin akademis yang tidak familier memaksa hipokampus dan korteks prefrontal (PFC) untuk memulai sinaptogenesis cepat untuk memproses kerangka konseptual baru—sebuah proses yang dikenal sebagai 'Neuroplastisitas'. Pembelajaran lintas disiplin ini membentuk jaringan antar-kortikal yang padat.
 
 ---
 
-## Perhatian & Tip: Mencegah Kelebihan Beban Informasi & Membangun Kebiasaan Membaca Konsisten
-
-Mencoba menangani penelitian akademis tingkat lanjut atau literatur yang terlalu padat di awal memicu resistensi prefrontal dan menekan jalur imbalan dopamin. Untuk pembelajaran multidisiplin yang berkelanjutan, pilihlah topik yang memantik rasa ingin tahu pribadi yang murni. Strategi kuncinya adalah membangun ritual harian yang stabil: mendedikasikan 30 menit setiap hari untuk membaca teks pengantar umum.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Mencoba menangani penelitian akademis tingkat lanjut atau literatur yang terlalu
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mencegah Kelebihan Beban Informasi & Membangun Kebiasaan Membaca Konsisten
+
+Mencoba menangani penelitian akademis tingkat lanjut atau literatur yang terlalu padat di awal memicu resistensi prefrontal dan menekan jalur imbalan dopamin. Untuk pembelajaran multidisiplin yang berkelanjutan, pilihlah topik yang memantik rasa ingin tahu pribadi yang murni. Strategi kuncinya adalah membangun ritual harian yang stabil: mendedikasikan 30 menit setiap hari untuk membaca teks pengantar umum.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Peter Drucker secara khusus memilih siklus '3 tahun' untuk menguasai disiplin ilmu baru?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Mencoba menangani penelitian akademis tingkat lanjut atau literatur yang terlalu
       Secara kognitif, 3 tahun mewakili kerangka waktu yang ideal untuk bertransisi dari seorang pemula hingga memahami kerangka utama disiplin ilmu non-asli tanpa menyebabkan ketegangan kognitif. Irama 3 tahun ini secara terus menerus mematahkan inersia intelektual, mendorong neuroplastisitas sinaptik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Jika komitmen 3 tahun terasa terlalu lama atau memberatkan bagi profesional yang sibuk, bagaimana seseorang harus memulai?</span>

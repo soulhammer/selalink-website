@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "数式代わりに立体模型を削る：ヨハネス・ケプラーの「触覚的空間視覚化」ルーティンと頭頂葉刺激"
 description: "天文学者ヨハネス・ケプラーが惑星の楕円軌道を理解するため、手で直接幾何学模型を削り作った立体視覚化習慣の脳科学的原理と頭頂葉（Parietal Lobe）刺激、認知過負荷軽減および3段階実践法を解き明かします。"
 pubDate: "2026-06-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「kepler-geometric-modeling」は <strong>ヨハネス・ケプラー著作集『宇宙の神秘（Mysterium Cosmographicum, 1596）』史料考証＆認知神経科学（Cognitive Neuroscience）および空間認知学（Spatial Cognition）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ヨハネス・ケプラー著作集『宇宙の神秘（Mysterium Cosmographicum, 1596）』史料考証＆認知神経科学（Cognitive Neuroscience）および空間認知学（Spatial Cognition）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 頭頂葉（Parietal Lobe）空間認知刺激と認知過負荷（Cognitive Overload）軽減
+## 1. 頭頂葉（Parietal Lobe）空間認知刺激と認知過負荷（Cognitive Overload）軽減
 
 抽象的な空間法則やアーキテクチャ構造を頭の中の数式だけで計算しようとすると、脳の前頭前野は急激な<strong>認知過負荷（Cognitive Overload）</strong>を経験することになります。ケプラーのように3次元の物理的ツールを手で操作する手作業の行為は、脳の<strong>頭頂葉（Parietal Lobe）</strong>と空間認知連合皮質を直接刺激します。指先の<strong>触覚感覚情報（Haptic Input）</strong>と視覚情報が脳へ同時に流入すると、脳は抽象的データ構造を遥かに単純で立体的に認識するようになり、<strong>空間推論（Spatial Reasoning）</strong>能力と問題解決力を飛躍的に引き上げます。
 
 ---
 
-## 注意事項：抽象的思索の限界から実物五感操作へ転換するルール
-
-複雑なソフトウェアアーキテクチャ、ビジネスパイプライン構想など、抽象的な思考だけで行き詰まりが発生した時は、無理に頭を使わないでください。モニターを一時的に消し、ポストイット、ブロック、あるいはアナログカードをデスクの上で直接手で配置してみる次元転換こそが、脳の直感を呼び覚ます秘訣です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：抽象的思索の限界から実物五感操作へ転換するルール
+
+複雑なソフトウェアアーキテクチャ、ビジネスパイプライン構想など、抽象的な思考だけで行き詰まりが発生した時は、無理に頭を使わないでください。モニターを一時的に消し、ポストイット、ブロック、あるいはアナログカードをデスクの上で直接手で配置してみる次元転換こそが、脳の直感を呼び覚ます秘訣です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ケプラーが実際に削った幾何学立体模型はどのような形態でしたか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       ケプラーは正多面体5種類（正四面体、正六面体、正八面体、正十二面体、正二十面体）が球（Sphere）と交互に噛み合う「プラトンの多面体宇宙模型」を直接彫刻しました。これを通じて惑星間の距離比率と軌道構造を視覚的・触覚的に検証しようとしました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>実際のブロックや立体模型がない時、手軽な代替方法はありますか？</span>

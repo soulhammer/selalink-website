@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Penyegaran Otak Master Cerpen: Rutinitas Mendayung dan Berenang Guy de Maupassant"
 description: "Guy de Maupassant, master cerita pendek Prancis. Rutinitas olahraga intensif yang merefresh otaknya yang lelah akibat menulis melalui kegiatan mendayung dan berenang di Sungai Seine."
 pubDate: "2026-06-11"
@@ -35,17 +36,17 @@ Dalam postingan hari ini, kita menganalisis sekresi BDNF dan redistribusi aliran
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai maupassant-rowing-reset didasarkan pada <strong>Riset Biografi Historis & Catatan Autobiografi Guy de Maupassant & Studi Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis & Catatan Autobiografi Guy de Maupassant & Studi Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sekresi BDNF dan Redistribusi Aliran Darah Otak yang Dipicu Olahraga Aerobik Seluruh Tubuh
+## 1. Sekresi BDNF dan Redistribusi Aliran Darah Otak yang Dipicu Olahraga Aerobik Seluruh Tubuh
 
 Aktivitas otak yang intens secara terus-menerus menyebabkan konsentrasi aliran darah di korteks prefrontal, memicu kelebihan panas dan hiper-eksitasi saraf.
 
@@ -53,9 +54,7 @@ Olahraga aerobik intensitas tinggi yang melibatkan kelompok otot besar seperti k
 
 ---
 
-## Matikan Pikiran Pekerjaan Saat Berolahraga dan Berfokuslah Sepenuhnya pada Napas dan Gerakan
-
-Merenungkan pekerjaan atau kecemasan saat berolahraga mereduksi efek redistribusi aliran darah otak hingga separuhnya. Salurkan kesadaran hanya pada kontraksi otot dan ritme napas. Jangan hanya mengandalkan kemauan keras; merancang lingkungan fisik dan isyarat kebiasaan adalah kunci keberlanjutan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Merenungkan pekerjaan atau kecemasan saat berolahraga mereduksi efek redistribus
   </p>
 </div>
 
+---
+
+## 3. Matikan Pikiran Pekerjaan Saat Berolahraga dan Berfokuslah Sepenuhnya pada Napas dan Gerakan
+
+Merenungkan pekerjaan atau kecemasan saat berolahraga mereduksi efek redistribusi aliran darah otak hingga separuhnya. Salurkan kesadaran hanya pada kontraksi otot dan ritme napas. Jangan hanya mengandalkan kemauan keras; merancang lingkungan fisik dan isyarat kebiasaan adalah kunci keberlanjutan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Jika tidak bisa mendayung atau berenang, olahraga apa yang dapat menggantikannya?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Merenungkan pekerjaan atau kecemasan saat berolahraga mereduksi efek redistribus
       Olahraga aerobik seluruh tubuh yang menggerakkan tubuh bagian atas dan bawah secara bersamaan (seperti mesin rowing, sepeda statis, eliptikal, jogging interval, atau burpee) akan memberikan efek penyegaran sistem saraf yang serupa.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah berolahraga intensitas tinggi setiap hari tidak membebani tubuh secara berlebihan?</span>

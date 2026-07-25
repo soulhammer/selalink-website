@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A 'Ilíada debaixo do Travesseiro' de Alexandre, o Grande: Leitura Noturna de Visão que Sustentou Grandes Desafios"
 description: "Alexandre, o Grande nunca perdeu a coragem no campo de batalha, guardando um adaga e a Ilíada debaixo do travesseiro todas as noites. Explore o poder da leitura de visão que estimula o subconsciente."
 pubDate: "2026-01-23"
@@ -35,17 +36,17 @@ No artigo de hoje, apresentamos os fundamentos científicos da rotina da 'Ilíad
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre alexander-pillow-iliad é baseada em <strong>Verificação Histórica das *Vidas Paralelas (Life of Alexander)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das *Vidas Paralelas (Life of Alexander)* de Plutarco e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Leitura Orientada a Valores que Induz o Alinhamento Subconsciente
+## 1. Leitura Orientada a Valores que Induz o Alinhamento Subconsciente
 
 Quando o cérebro começa a adormecer, as ondas cerebrais transicionam para ondas alfa e teta, e as informações introduzidas durante esse período atingem o hipocampo (o repositório de memória de longo prazo) e as profundezas do córtex cerebral (que forma o subconsciente) com muito mais facilidade do que o habitual.
 
@@ -53,9 +54,7 @@ A Ilíada que Alexandre, o Grande lia antes de dormir não era apenas para passa
 
 ---
 
-## O Texto que Você Lê Determina o Seu Subconsciente
-
-Consumir conteúdo tarde da noite que estimule o medo, a inveja ou a crítica — como redes sociais ou artigos de notícias — alinha seu subconsciente com estímulos negativos, perturbando o sono profundo e fazendo você acordar cansado pela manhã. Coloque intencionalmente à beira da cama clássicos nobres ou livros que elevem seu valor.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Consumir conteúdo tarde da noite que estimule o medo, a inveja ou a crítica �
   </p>
 </div>
 
+---
+
+## 3. O Texto que Você Lê Determina o Seu Subconsciente
+
+Consumir conteúdo tarde da noite que estimule o medo, a inveja ou a crítica — como redes sociais ou artigos de notícias — alinha seu subconsciente com estímulos negativos, perturbando o sono profundo e fazendo você acordar cansado pela manhã. Coloque intencionalmente à beira da cama clássicos nobres ou livros que elevem seu valor.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ler romances ou histórias em quadrinhos antes de dormir tem o mesmo efeito da rotina de leitura de clássicos de visão?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Consumir conteúdo tarde da noite que estimule o medo, a inveja ou a crítica �
       A ficção leve também oferece um efeito de resfriamento que alivia o estresse cerebral, mas para alcançar um efeito de 'motivação orientada a valores' que alinhe a autoidentidade e inspire a força de vontade de execução como na rotina de Alexandre, é muito melhor escolher epopeias clássicas, livros de filosofia ou biografias que ofereçam ressonância e reflexão internas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É ter problema ler livros usando um leitor de e-book deitado?</span>

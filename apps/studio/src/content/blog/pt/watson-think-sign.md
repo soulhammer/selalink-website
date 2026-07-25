@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A palavra única que construiu a IBM: A rotina de reflexão silenciosa de 15 minutos de Thomas Watson"
 description: "Descubra o método de reflexão do fundador da IBM, Thomas Watson, que colocou placas de 'THINK' em cada escritório e dedicava 15 minutos diários à reflexão. Explica como a desconexão intencional organiza a memória de longo prazo."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ No post de hoje, apresentamos os mecanismos científicos da 'rotina de reflexão
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre watson-think-sign é baseada em <strong>Biografias históricas e registros autobiográficos de Thomas Watson e pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Thomas Watson e pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por que a desconexão inativa aumenta a capacidade intelectual
+## 1. Por que a desconexão inativa aumenta a capacidade intelectual
 
 Quando o cérebro reage constantemente a estímulos, falta capacidade para consolidação da memória e planejamento. Ao cortar as entradas de informação e dedicar-se ao pensamento puro, o cérebro estabiliza a <strong>Rede de Saliência (Salience Network)</strong>.
 
 ---
 
-## Precauções e dicas
-
-Para que esse treinamento tenha sucesso, uma placa física visível servindo como <strong>Prompt Visual</strong> deve estar presente em seu espaço de trabalho. Sem um lembrete visual, o cérebro recorre à inércia (checar e-mails ou navegar na internet). Uma placa clara atua como um mecanismo de controle.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Para que esse treinamento tenha sucesso, uma placa física visível servindo com
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Para que esse treinamento tenha sucesso, uma placa física visível servindo como <strong>Prompt Visual</strong> deve estar presente em seu espaço de trabalho. Sem um lembrete visual, o cérebro recorre à inércia (checar e-mails ou navegar na internet). Uma placa clara atua como um mecanismo de controle.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

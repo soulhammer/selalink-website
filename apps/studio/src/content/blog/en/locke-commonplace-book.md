@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Philosopher Who Retrieved Past Records in Under a Minute: John Locke's Commonplace Book Indexing Routine and Associative Memory"
 description: "Discover how empiricist titan John Locke systematically indexed vast knowledge using a unique vowel-grid system. Explore the neuroscience of associative memory networks, reducing semantic distance, alleviating prefrontal recall load, and a 3-step practice guide."
 pubDate: "2026-03-19"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind John Locke's 'commo
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding locke-commonplace-book is based on <strong>Historical Verification from John Locke's Treatise *A New Method of a Commonplace-Book* (1686), Locke Archives & Cognitive Neuroscience and Cognitive Psychology Research</strong>.
+      This content is based on <strong>Historical Verification from John Locke's Treatise *A New Method of a Commonplace-Book* (1686), Locke Archives & Cognitive Neuroscience and Cognitive Psychology Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Associative Memory Network Stimulation and Reducing Prefrontal Recall Load
+## 1. Associative Memory Network Stimulation and Reducing Prefrontal Recall Load
 
 The brain's memory architecture is not a series of isolated containers, but an interconnected <strong>Associative Memory</strong> network. John Locke's indexing method artificially embeds organic associative links during the initial encoding stage. Mapping category addresses (Tagging) while collecting information reduces the <strong>Semantic Distance</strong> between disparate ideas. Knowledge encoded this way remains in an easily reactivated standby state, dramatically relieving retrieval strain on the <strong>Prefrontal Cortex</strong> to enable instant <strong>Recall</strong> within seconds.
 
 ---
 
-## Caution: Eliminating Mindless Scraping to Consciously Execute Index Mapping
-
-Mindlessly copying vast information into notebooks or dumping endless web clips into digital archives creates a false illusion of mastery, accelerating <strong>Forgetting</strong>. To anchor knowledge into the brain's associative web, you must accompany every entry with conscious <strong>Index Mapping</strong>—tagging content with explicit category addresses the moment it is stored, as Locke practiced.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Mindlessly copying vast information into notebooks or dumping endless web clips 
   </p>
 </div>
 
+---
+
+## 3. Caution: Eliminating Mindless Scraping to Consciously Execute Index Mapping
+
+Mindlessly copying vast information into notebooks or dumping endless web clips into digital archives creates a false illusion of mastery, accelerating <strong>Forgetting</strong>. To anchor knowledge into the brain's associative web, you must accompany every entry with conscious <strong>Index Mapping</strong>—tagging content with explicit category addresses the moment it is stored, as Locke practiced.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What was the specific mechanics behind John Locke's two-dimensional commonplace index?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Mindlessly copying vast information into notebooks or dumping endless web clips 
       Locke drew a grid combining the 26 letters of the alphabet with the 5 vowels (a, e, i, o, u) on his journal's first page. He recorded page numbers in the grid intersection corresponding to a keyword's initial letter and first subsequent vowel (e.g., 'Epistola' went under row E, column i), creating a fast 2D address-retrieval system.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is analog paper note-taking superior to modern digital knowledge management software?</span>

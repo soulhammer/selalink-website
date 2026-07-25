@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "重置天才大脑的奔跑？艾伦·图灵的跑步习惯"
 description: "破译恩尼格玛密码的计算机科学之父艾伦·图灵。了解他每天奔跑16公里以缓解大脑过载、激活神经细胞的跑步习惯及其科学背景。"
 pubDate: "2026-02-02"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 turing-marathon-running 的内容基于 <strong>艾伦·图灵历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>艾伦·图灵历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 有氧运动促进神经发生与认知刷新
+## 1. 有氧运动促进神经发生与认知刷新
 
 每天坚持有氧跑步会诱导对大脑健康至关重要的<strong>脑源性神经营养因子（BDNF）</strong>的合成。BDNF能在负责记忆与学习的海马体区域促进新神经元（Neuron）的生成，从而扩大认知工作记忆空间。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 为焕发注意力而进行的配速控制
-
-为清醒大脑而进行的跑步，配速控制至关重要。若过于剧烈奔跑导致达到心跳加速的无氧阈值状态，大脑会将所有认知资源投入到身体生存中，从而阻碍思考与DMN的激活。以能够与旁人进行轻松对话的配速匀速奔跑最为有效。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 为焕发注意力而进行的配速控制
+
+为清醒大脑而进行的跑步，配速控制至关重要。若过于剧烈奔跑导致达到心跳加速的无氧阈值状态，大脑会将所有认知资源投入到身体生存中，从而阻碍思考与DMN的激活。以能够与旁人进行轻松对话的配速匀速奔跑最为有效。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>用室内健身车或游泳代替跑步，清脑效果是否相同？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       是的，只要是能够带动心肺功能、提高BDNF水平的持续性有氧运动，骑行或游泳也能提供类似的认知恢复效果。然而，像户外跑步那样将自然风景与微风等五感刺激传递至大脑时，默认模式网络（DMN）的放松与创意激活效果才最为理想。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>跑步时听音乐会妨碍大脑恢复吗？</span>

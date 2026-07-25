@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Zielvisualisierung und tiefe Erholung: Ohtanis Mandalart-Methode und 10-Stunden-Schlafroutine"
 description: "Shohei Ohtani schreibt die Geschichte des modernen Baseballs neu. Entdecken Sie den neurowissenschaftlichen Mechanismus hinter seiner 81-Felder-Mandalart-Methode aus der Highschool und seiner täglichen 10-Stunden-Schlafroutine zur Maximierung der körperlichen Regeneration."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir die neurowissenschaftlichen Mechanismen hinter
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu ohtani-mandalart-sleep basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung zu Shohei Ohtani & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung zu Shohei Ohtani & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Der Zielkonkretisierungseffekt von Mandalart und der neurowissenschaftliche Erholungsmechanismus von langem Schlaf
+## 1. Der Zielkonkretisierungseffekt von Mandalart und der neurowissenschaftliche Erholungsmechanismus von langem Schlaf
 
 Die Mandalart-Technik zerlegt abstrakte Ziele in konkrete Handlungen, verhindert kognitive Überlastung und stimuliert die Ausführungskreisläufe des Gehirns. Gleichzeitig fördert Ohtanis zentrale Gewohnheit von 10 Stunden Schlaf das glymphatische System des Gehirns. Die Gehirn-Rückenmarks-Flüssigkeit reinigt während des Schlafs Stoffwechselabfälle, die sich tagsüber angesammelt haben, und stellt die kognitive Energie des Präfrontalkortex wieder her. Zudem festigt der Schlaf die an diesem Tag geübten Muskelbewegungsabläufe beim Werfen und Schlagen im Langzeit-Motorikspeicher des Kleinhirns.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Ein plötzliches, übermäßiges Verlängern der Schlafzeit kann zu Trägheit führen. Es ist ratsam, die Basisschlafzeit von 7–8 Stunden entsprechend Ihrem Stoffwechsel schrittweise zu steigern. Wenn der Nachtschlaf nicht ausreicht, ergänzen Sie ein kurzes Powernap von 20–30 Minuten am Tag, um die Gesamterholungszeit auszugleichen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Ein plötzliches, übermäßiges Verlängern der Schlafzeit kann zu Trägheit f�
     Schlafen Sie nachts mehr als 8 Stunden und ergänzen Sie nachmittags bei nachlassender Konzentration ein kurzes Nickerchen von 20–30 Minuten, um täglich eine Gesamterholungszeit von bis zu 10 Stunden zu erreichen.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Ein plötzliches, übermäßiges Verlängern der Schlafzeit kann zu Trägheit führen. Es ist ratsam, die Basisschlafzeit von 7–8 Stunden entsprechend Ihrem Stoffwechsel schrittweise zu steigern. Wenn der Nachtschlaf nicht ausreicht, ergänzen Sie ein kurzes Powernap von 20–30 Minuten am Tag, um die Gesamterholungszeit auszugleichen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

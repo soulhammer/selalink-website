@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "頭の中で100パーセント完成させよ：ヒッチコックの視覚ストーリーボードルーティンと精神的シミュレーション"
 description: "スリラー映画の巨匠アルフレッド・ヒッチコックの撮影前精密ストーリーボード設計習慣。精神的シミュレーションで運動実行ネットワークを刺激し意思決定疲労を解消する脳科学的原理と3段階ガイドを紹介します。"
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「hitchcock-storyboard-visualization」は <strong>アルフレッド・ヒッチコック評伝およびフランソワ・トリュフォー・インタビュー史料『ヒッチコック／トリュフォー（Hitchcock/Truffaut）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アルフレッド・ヒッチコック評伝およびフランソワ・トリュフォー・インタビュー史料『ヒッチコック／トリュフォー（Hitchcock/Truffaut）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 運動実行ネットワーク刺激と意思決定疲労（Decision Fatigue）の消滅
+## 1. 運動実行ネットワーク刺激と意思決定疲労（Decision Fatigue）の消滅
 
 認知科学の研究によると、脳が実際に何らかの行動を遂行する前に具体的な過程を頭の中でシミュレーションしたり目で描く時、実際の動きを司る脳の<strong>運動実行ネットワーク（Motor Execution Network）</strong>が同じように活性化されます。これを<strong>「精神的シミュレーション（Mental Simulation）」</strong>と呼びます。ヒッチコックが撮影前に完璧にストーリーボードをスケッチした習慣は、実行段階で直面する変数を事前に視覚的に体験し代替案を決定させました。このおかげで脳は、実際の作業着手時に直面する無数の突発変数や選択の岐路で発生する<strong>意思決定疲労（Decision Fatigue）</strong>を完全に消滅させ、ミスなく高い推進力で成果物を生み出せるよう助けます。
 
 ---
 
-## 注意事項：計画の妄想に囚われず即座の実践へと転換するルール
-
-ストーリーボード作成が単なる紙への落書きに成り下がり実行を遅らせる「計画の甘溺（Plan Indulgence）」に陥らないよう注意しなければなりません。ストーリーボードはどこまでも実行を助けるための認知的補助ツールです。スケッチはわずか3〜5段階の大まかなフローだけで構成して時間消耗を最小限に抑え、精神的シミュレーションが終わった直後には躊躇することなく第1段階の実際の物理的実践へと即座に転換しなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：計画の妄想に囚われず即座の実践へと転換するルール
+
+ストーリーボード作成が単なる紙への落書きに成り下がり実行を遅らせる「計画の甘溺（Plan Indulgence）」に陥らないよう注意しなければなりません。ストーリーボードはどこまでも実行を助けるための認知的補助ツールです。スケッチはわずか3〜5段階の大まかなフローだけで構成して時間消耗を最小限に抑え、精神的シミュレーションが終わった直後には躊躇することなく第1段階の実際の物理的実践へと即座に転換しなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ストーリーボードを毎回手で直接描くのが難しいため、デジタルツールでも大丈夫ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       絵の技術ではなく、行動の段階的構造化とシミュレーションこそがストーリーボードの本質です。Figma、Miro、あるいは単純なマインドマップアプリを活用し、ボックス模型とテキスト中心に軽やかに整えるだけでも、完璧に同じ認知心理学的シミュレーションのメリットを得ることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>実際の実行中、ストーリーボードと異なる突発状況が発生した場合はどうすればよいですか？</span>

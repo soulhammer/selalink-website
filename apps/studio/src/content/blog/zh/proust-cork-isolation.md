@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "唤醒记忆的寂静之室？马塞尔·普鲁斯特的软木感官隔离法"
 description: "撰写巨著《追忆似水年华》的普鲁斯特。介绍他在卧室衬铺软木以阻挡光线与声音、搜寻记忆的感官控制习惯及其神经科学依据。"
 pubDate: "2026-01-29"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 proust-cork-isolation 的内容基于 <strong>马塞尔·普鲁斯特历史传记与著作考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>马塞尔·普鲁斯特历史传记与著作考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 防止随机信息过载的“丘钱门控”效应
+## 1. 防止随机信息过载的“丘钱门控”效应
 
 <strong>丘脑（Thalamus）</strong>是大脑将感官信息传输至意识层面的关口，每当外界噪音或手机光线进入时，丘脑都会消耗大量能量对这些信息进行分类筛选。这会急剧消耗前额叶皮层的认知执行资源，导致注意力分散。
 
@@ -47,9 +48,7 @@ faqs:
 
 ---
 
-## 彻底隔离带来专注力提升的秘密
-
-普鲁斯特感官控制习惯的核心在于“从源头上强制营造一个无法被干扰的环境”。在咖啡馆或开放式客厅等易受噪音与人员走动干扰的环境中，大脑会在无意识间持续消耗能量去处理感官信息。唯有使用降噪耳机或调暗房间灯光，从源头上切断认知信息的流入，才能实现深度的记忆调取。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 彻底隔离带来专注力提升的秘密
+
+普鲁斯特感官控制习惯的核心在于“从源头上强制营造一个无法被干扰的环境”。在咖啡馆或开放式客厅等易受噪音与人员走动干扰的环境中，大脑会在无意识间持续消耗能量去处理感官信息。唯有使用降噪耳机或调暗房间灯光，从源头上切断认知信息的流入，才能实现深度的记忆调取。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>完全阻隔声音会不会反而引发心理上的不安感？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       因人而异，极度寂静有时会在大脑中引发耳鸣或轻微不安感。此时可播放柔和的自然粉红噪音（如雨声或树叶沙沙声）来替代绝对无音。不含语言意味的自然之声既不会分散丘脑的注意力，又能起到舒适放松的作用。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>躺在床上工作也能保持集中注意力吗？</span>

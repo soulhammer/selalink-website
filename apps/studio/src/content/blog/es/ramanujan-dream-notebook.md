@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Un genio que veía teoremas matemáticos en sueños? La rutina de notas al despertar de Srinivasa Ramanujan"
 description: "Srinivasa Ramanujan, un genio en teoría de números y series infinitas. Explore su método de reinicio cerebral de transferir la inspiración intuitiva obtenida durante el sueño REM a una nota de 3 minutos inmediatamente al despertar, junto con una rutina práctica de 3 pasos para personas modernas."
 pubDate: "2026-01-15"
@@ -36,14 +37,14 @@ Este artículo explora el mecanismo de funcionamiento científico de la rutina d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre ramanujan-dream-notebook se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre Srinivasa Ramanujan e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía crítica histórica y registros autobiográficos sobre Srinivasa Ramanujan e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismo de acoplamiento de ondas Alfa y la Red Por Defecto al despertar
+## 1. Mecanismo de acoplamiento de ondas Alfa y la Red Por Defecto al despertar
 
 Durante los primeros 5 a 10 minutos inmediatamente después de despertar, el cerebro humano permanece flexiblemente en estados de ondas Alfa y Theta lentas, el límite entre la conciencia y el inconsciente, antes de que se active por completo la lógica crítica del lóbulo frontal. Durante esta ventana, las novedosas conexiones asociativas recombinadas durante la noche por la Red Por Defecto (DMN) del cerebro emergen suavemente a la superficie sin evaporarse.
 
@@ -51,9 +52,7 @@ La mayoría de las personas modernas revisan las notificaciones del teléfono in
 
 ---
 
-## Precaución contra la exposición a medios en smartphones al despertar y el cambio forzado a ondas Beta
-
-Revisar notificaciones de mensajes, noticias o redes sociales inmediatamente al abrir los ojos fuerza al cerebro a un estado de ondas Beta de alta frecuencia en tensión. En este momento, el cerebro comienza a responder pasivamente a estímulos externos, evaporando instantáneamente las ideas e intuiciones refinadas por el subconsciente durante la noche. Bloquee por completo el acceso a los medios digitales durante al menos 5 a 10 minutos después de despertar y concéntrese en su propia intuición.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Revisar notificaciones de mensajes, noticias o redes sociales inmediatamente al 
   </p>
 </div>
 
+---
+
+## 3. Precaución contra la exposición a medios en smartphones al despertar y el cambio forzado a ondas Beta
+
+Revisar notificaciones de mensajes, noticias o redes sociales inmediatamente al abrir los ojos fuerza al cerebro a un estado de ondas Beta de alta frecuencia en tensión. En este momento, el cerebro comienza a responder pasivamente a estímulos externos, evaporando instantáneamente las ideas e intuiciones refinadas por el subconsciente durante la noche. Bloquee por completo el acceso a los medios digitales durante al menos 5 a 10 minutos después de despertar y concéntrese en su propia intuición.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo hacer si no me vienen a la mente sueños ni inspiración matutina?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Revisar notificaciones de mensajes, noticias o redes sociales inmediatamente al 
       No hay ninguna necesidad de forzar ideas. Simplemente anotar una palabra o estado de ánimo persistente en su mente mientras está adormilado, o un solo problema que desee resolver hoy, fortalece los circuitos de ondas Alfa y abre gradualmente la puerta a su subconsciente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Está bien usar una aplicación de notas o grabación de voz en mi smartphone?</span>

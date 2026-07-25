@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Completing Evolutionary Theory Through Walking: Charles Darwin's 'Sandwalk' Routine and Cognitive Incubation"
 description: "Discover how naturalist Charles Darwin walked his gravel 'Sandwalk' path, kicking stones to count laps while untangling complex evolutionary theory. Explore the cognitive neuroscience of Default Mode Network (DMN) activation and Cognitive Incubation."
 pubDate: "2026-06-14"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Charles Darwin's 'Sandw
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding darwin-sandwalk is based on <strong>Historical Verification from Charles Darwin's Autobiography *The Autobiography of Charles Darwin* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Charles Darwin's Autobiography *The Autobiography of Charles Darwin* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Default Mode Network (DMN) Activation and Cognitive Incubation via Physical Anchoring
+## 1. Default Mode Network (DMN) Activation and Cognitive Incubation via Physical Anchoring
 
 Engaging in light aerobic walking while employing a simple physical anchoring mechanism (kicking stones to count laps) disengages the Central Executive Network (CEN) and triggers the Default Mode Network (DMN). Outsourcing lap-counting to physical stones preserves Working Memory (RAM) from tracking mundane metrics. Consequently, the brain undergoes 'Cognitive Incubation'—a process where disparate memory traces and complex observations recombine spontaneously beneath conscious awareness, resolving intricate intellectual paradoxes.
 
 ---
 
-## Caution & Tips: Isolating Digital Stimuli & Blocking Rumination Loops
-
-During a thinking walk, guard against letting your brain slip into emotional rumination or anxious loops. Establish a minimal physical anchor—such as kicking a stone or bending a finger per lap—to tie your spatial awareness. Completely silence smartphones and digital notifications. Directing awareness strictly to footfalls and natural environment sensory cues allows DMN processing and cognitive incubation to function unimpeded.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ During a thinking walk, guard against letting your brain slip into emotional rum
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Isolating Digital Stimuli & Blocking Rumination Loops
+
+During a thinking walk, guard against letting your brain slip into emotional rumination or anxious loops. Establish a minimal physical anchor—such as kicking a stone or bending a finger per lap—to tie your spatial awareness. Completely silence smartphones and digital notifications. Directing awareness strictly to footfalls and natural environment sensory cues allows DMN processing and cognitive incubation to function unimpeded.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What exactly was Charles Darwin's 'Sandwalk' routine?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ During a thinking walk, guard against letting your brain slip into emotional rum
       The Sandwalk was a private gravel-and-dirt walking loop constructed by Darwin around his Down House estate in Kent. He walked it daily, using small stones to track laps automatically to reduce working memory load while organizing his thoughts for 'On the Origin of Species'.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Should I actively force my mind to think about the problem while walking?</span>

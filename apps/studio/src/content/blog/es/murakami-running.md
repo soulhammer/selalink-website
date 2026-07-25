@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El escritor que corre 10 km cada mañana: La rutina de resistencia física de Haruki Murakami"
 description: "El célebre novelista Haruki Murakami. Descubra los principios neurocientíficos presentes en su disciplina matutina de correr 10 km y una guía de 3 pasos para personas modernas."
 pubDate: "2026-06-26"
@@ -34,14 +35,14 @@ Tras cerrar su bar de jazz en Tokio en 1982 para dedicarse a la escritura, Murak
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre murakami-running se basa en <strong>Biografías históricas y registros autobiográficos de Haruki Murakami e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Haruki Murakami e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociencia del running para mantener la juventud cerebral
+## 1. Neurociencia del running para mantener la juventud cerebral
 
 Escribir novelas consume enormes cantidades de energía mental. Murakami entrenó su cerebro corriendo para respaldar el arduo trabajo diario de producción literaria.
 
@@ -49,11 +50,7 @@ El ejercicio aeróbico prolongado suministra oxígeno y nutrientes al hipocampo,
 
 ---
 
-## Consejo neurocientífico para crear rutinas de éxito
-
-<strong>La repetición constante crea ritmos neuronales</strong>
-
-La actividad física diaria se transforma en una 'rutina automatizada' que no agota la fuerza de voluntad. Una vez grabado este ritmo en el cerebro, se crea un sólido escudo físico capaz de soportar cargas cognitivas intensas. Priorice el ejercicio regular como lo hace Murakami y mantenga su ritmo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ La actividad física diaria se transforma en una 'rutina automatizada' que no ag
     Evite revisar mensajes o correos electrónicos mientras corre. Concéntrese únicamente en el ritmo de su respiración y en la sensación de sus pies al pisar el suelo. Esta carrera consciente actúa como una desintoxicación mental.
   </p>
 </div>
+
+---
+
+## 3. Consejo neurocientífico para crear rutinas de éxito
+
+<strong>La repetición constante crea ritmos neuronales</strong>
+
+La actividad física diaria se transforma en una 'rutina automatizada' que no agota la fuerza de voluntad. Una vez grabado este ritmo en el cerebro, se crea un sólido escudo físico capaz de soportar cargas cognitivas intensas. Priorice el ejercicio regular como lo hace Murakami y mantenga su ritmo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

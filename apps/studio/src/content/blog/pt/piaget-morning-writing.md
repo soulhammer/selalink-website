@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Como o cérebro estrutura os pensamentos com precisão? A escrita matinal e a caminhada contemplativa de Jean Piaget"
 description: "Jean Piaget, o grande psicólogo infantil suíço. Descubra os princípios neurocientíficos e o guia prático de 3 passos de suas rotinas de escrita matinal de 4 páginas e caminhada contemplativa."
 pubDate: "2026-01-01"
@@ -35,17 +36,17 @@ No post de hoje, analisamos a neurociência por trás da rotina de Piaget e ofer
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre piaget-morning-writing é baseada em <strong>Verificação de biografias históricas e registros autobiográficos de Jean Piaget e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas e registros autobiográficos de Jean Piaget e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Externalização da memória de trabalho e harmonização da Rede de Modo Padrão
+## 1. Externalização da memória de trabalho e harmonização da Rede de Modo Padrão
 
 Tentar resolver problemas complexos apenas mentalmente esgota rapidamente a capacidade da memória de trabalho. A escrita matinal de Piaget funcionava como uma <strong>'Externalização da Memória de Trabalho'</strong>, transferindo o esforço para o papel.
 
@@ -53,9 +54,7 @@ A caminhada vespertina estimula o Fator Neurotrófico Derivado do Cérebro (BDNF
 
 ---
 
-## Equilibre a absorção de informações com a expressão ativa e o descanso mental
-
-A vida moderna sobrecarrega o cérebro com dados, negligenciando a expressão ativa e o descanso mental. Equilibre sua rotina como Piaget: combine a escrita matinal (expressão) com a caminhada vespertina (desconexão) para dar espaço de processamento ao seu cérebro.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ A vida moderna sobrecarrega o cérebro com dados, negligenciando a expressão at
   </p>
 </div>
 
+---
+
+## 3. Equilibre a absorção de informações com a expressão ativa e o descanso mental
+
+A vida moderna sobrecarrega o cérebro com dados, negligenciando a expressão ativa e o descanso mental. Equilibre sua rotina como Piaget: combine a escrita matinal (expressão) com a caminhada vespertina (desconexão) para dar espaço de processamento ao seu cérebro.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Preciso escrever à mão ou posso substituir por digitação digital?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ A vida moderna sobrecarrega o cérebro com dados, negligenciando a expressão at
       Embora a digitação funcione, escrever à mão estimula a motricidade fina dos dedos, ativando os córtex pré-frontal e somatossensorial com muito mais intensidade. Recomendamos a escrita manual.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que fazer se não houver parques ou ambientes naturais próximos?</span>

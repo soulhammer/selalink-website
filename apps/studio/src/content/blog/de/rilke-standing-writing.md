@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Geist erwacht beim Aufstehen: Rilkes Stehpult-Konzentrationsgeheimnis"
 description: "Entdecken Sie die Gewohnheit des österreichischen Dichters Rainer Maria Rilke, im Stehen zu schreiben. Eine 3-Schritte-Steh-Praxis zur Steigerung der Gehirndurchblutung und Konzentration."
 pubDate: "2026-04-06"
@@ -33,25 +34,23 @@ Im heutigen Beitrag untersuchen wir die wissenschaftliche Funktionsweise von Ril
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu rilke-standing-writing basiert auf <strong>Historische Biografie- und Autobiografieforschung zu Rilkes Steh-Schreiben & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und Autobiografieforschung zu Rilkes Steh-Schreiben & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Der 'Steh-Effekt', der die Gehirndurchblutung und kognitive Wachheit steigert
+## 1. Der 'Steh-Effekt', der die Gehirndurchblutung und kognitive Wachheit steigert
 
 Eine gekrümmte Sitzhaltung hemmt die Lungenausdehnung und führt zu flacher Atmung, was die Sauerstoffzufuhr zum Gehirn verringert. Stehen an einem Stehpult hingegen fordert große Muskeln in Beinen, Becken und Rücken gegen die Schwerkraft heraus und erhöht die Herzfrequenz leicht. Neurowissenschaftlich steigert dies den zerebralen Blutfluss (CBF) um 10–15 % und aktiviert die Sauerstoff- und Glukoseversorgung. Diese Mikrospannung stimuliert das Formatio reticularis im Hirnstamm, was die Ausschüttung von Norepinephrin und Dopamin anregt und die kognitive Kontrollgeschwindigkeit sowie das Arbeitsgedächtnis schärft.
 
 ---
 
-## Gelenkschutz und Intervallrhythmus
-
-Langes Arbeiten in einer starren Stehposition kann zu Krampfadern führen oder Knie- und Lendenwirbelgelenke überlasten, was die körperliche Ermüdung verstärkt. Die Steh-Fokus-Gewohnheit muss einer 'zyklischen Intervallregel' folgen. Nach 30–40 Minuten Fokus im Stehen senken Sie das Pult ab und sitzen 20 Minuten lang oder verlagern das Gewicht zwischen den Füßen, um Gelenke und Wachheit zu schonen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Langes Arbeiten in einer starren Stehposition kann zu Krampfadern führen oder K
     Wenn der Alarm nach 30 Minuten ertönt, senken Sie den Tisch ab oder setzen Sie sich 20 Minuten lang hin, um leichte Aufräumarbeiten zu erledigen und Gelenke zu schonen.
   </p>
 </div>
+
+---
+
+## 3. Gelenkschutz und Intervallrhythmus
+
+Langes Arbeiten in einer starren Stehposition kann zu Krampfadern führen oder Knie- und Lendenwirbelgelenke überlasten, was die körperliche Ermüdung verstärkt. Die Steh-Fokus-Gewohnheit muss einer 'zyklischen Intervallregel' folgen. Nach 30–40 Minuten Fokus im Stehen senken Sie das Pult ab und sitzen 20 Minuten lang oder verlagern das Gewicht zwischen den Füßen, um Gelenke und Wachheit zu schonen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

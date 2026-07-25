@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "16.000 nummerierte Einträge: Michael Faradays Präzisions-Notizbuch-Routine und kognitives Offloading"
 description: "Erfahren Sie, wie der Physiker Michael Faraday über 16.000 nummerierte Experimenteinträge katalogisierte. Entdecken Sie die Kognitionswissenschaften hinter kognitivem Offloading und der Entlastung des Arbeitsgedächtnisses."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Kognitionswissenschaft hinter Michael Fa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu faraday-numbered-notebook basiert auf <strong>Historische Überprüfung aus *Michael Faraday's Diary* (Hrsg. Thomas Martin / Frank A.J.L. James) & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus *Michael Faraday's Diary* (Hrsg. Thomas Martin / Frank A.J.L. James) & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Wie Indexierung und kognitives Offloading die Kapazität des Arbeitsgedächtnisses schützen
+## 1. Wie Indexierung und kognitives Offloading die Kapazität des Arbeitsgedächtnisses schützen
 
 Das <strong>Arbeitsgedächtnis</strong> des Gehirns hat eine begrenzte Kapazität. Das Speichern unstrukturierter Daten erzeugt kognitive Überlastung. Faradays System der Nummerierung und Indexierung – ein Beispiel für <strong>'Kognitives Offloading'</strong> – spart Energie bei der Informationssuche. Indem Wissen extern verankert wird, werden Ressourcen im präfrontalen Kortex für komplexe Analysen freigesetzt.
 
 ---
 
-## Vorsichtsmaßnahme: Suchbarkeit vor reiner Notizmenge priorisieren
-
-Das bloße Anhäufen von Notizen ohne Suchbarkeit ist kontraproduktiv. Das ungefilterte Aufschreiben von Daten erzeugt nur digitalen oder analogen Müll, der die Verwirrung vergrößert. Erstellen Sie auf Seite 1 ein Inhaltsverzeichnis oder nutzen Sie Schlagwörter und Datumsangaben, um Einträge in 3 Sekunden wiederzufinden.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das bloße Anhäufen von Notizen ohne Suchbarkeit ist kontraproduktiv. Das ungef
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Suchbarkeit vor reiner Notizmenge priorisieren
+
+Das bloße Anhäufen von Notizen ohne Suchbarkeit ist kontraproduktiv. Das ungefilterte Aufschreiben von Daten erzeugt nur digitalen oder analogen Müll, der die Verwirrung vergrößert. Erstellen Sie auf Seite 1 ein Inhaltsverzeichnis oder nutzen Sie Schlagwörter und Datumsangaben, um Einträge in 3 Sekunden wiederzufinden.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist fortlaufende Nummerierung auch bei digitalen Notiz-Apps nützlich?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das bloße Anhäufen von Notizen ohne Suchbarkeit ist kontraproduktiv. Das ungef
       Ja, absolut. Die Vergabe eindeutiger Nummern bietet auch digital Vorteile. Während Volltextsuchen scheitern können, wenn man Suchbegriffe vergisst, dient eine eindeutige Nummer (z. B. #042) als fixe Adresse für Verlinkungen (Backlinks) und Querverweise.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie soll ich die Nummerierung handhaben, wenn Alltagsnotizen, Projekte und Ideen gemischt werden?</span>

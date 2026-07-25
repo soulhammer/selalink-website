@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿La gran respuesta del matemático genio surgió durante el descanso? La rutina de límite de enfoque de 4 horas de Henri Poincaré"
 description: "La fórmula de éxito de Henri Poincaré de limitar el trabajo concentrado a 4 horas al día. Descubra una guía de 3 pasos que utiliza los modos enfocado y difuso del cerebro para desbloquear la inspiración creativa."
 pubDate: "2026-04-19"
@@ -30,14 +31,14 @@ faqs:
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre poincare-time-limitation se basa en <strong>Biografías históricas y escritos sobre Henri Poincaré e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y escritos sobre Henri Poincaré e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Modo enfocado vs. modo difuso: La capacidad subconsciente para resolver problemas
+## 1. Modo enfocado vs. modo difuso: La capacidad subconsciente para resolver problemas
 
 Según la ciencia cognitiva, el cerebro funciona en dos modos: 'Modo Enfocado' y 'Modo Difuso'. En el Modo Enfocado, al trabajar intensamente en un escritorio, la corteza prefrontal reduce su alcance a vías neuronales específicas. Sin embargo, al descansar o pasear, el cerebro pasa al Modo Difuso, activando la Red Neuronal por Defecto (DMN).
 
@@ -45,9 +46,7 @@ Durante el Modo Difuso, el subconsciente realiza la 'Incubación': reorganizando
 
 ---
 
-## Un consejo neurocientífico para un enfoque sostenible
-
-Las ideas creativas no surgen al forzarlas. Establezca un límite claro de tiempo de enfoque, y cuando se sienta atascado, levántese y dé un paseo para dar a su cerebro descanso en Modo Difuso. Su subconsciente buscará la respuesta por usted.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Las ideas creativas no surgen al forzarlas. Establezca un límite claro de tiemp
     Las respuestas enviadas por el subconsciente durante el descanso se desvanecen rápidamente. Use una libreta o notas de voz en su teléfono para registrar al instante las epifanías creativas cuando aparezcan.
   </p>
 </div>
+
+---
+
+## 3. Un consejo neurocientífico para un enfoque sostenible
+
+Las ideas creativas no surgen al forzarlas. Establezca un límite claro de tiempo de enfoque, y cuando se sienta atascado, levántese y dé un paseo para dar a su cerebro descanso en Modo Difuso. Su subconsciente buscará la respuesta por usted.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

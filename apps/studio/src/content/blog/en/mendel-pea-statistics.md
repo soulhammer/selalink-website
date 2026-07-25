@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Statistics of 29,000 Pea Plants? Gregor Mendel's Working Memory Enhancement Method"
 description: "Discover the story of Gregor Mendel, the great pioneer of genetics. Learn about his perseverance in recording changes in thousands of pea plants daily in a monastery garden, and explore a statistical tracking method to train cognitive structure and boost working memory."
 pubDate: "2026-06-30"
@@ -38,14 +39,14 @@ In this post, we explore the neuroscientific principles embedded in Mendel's pea
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding mendel-pea-statistics is based on <strong>Historical Critical Biography and Autobiographical Records of Gregor Mendel & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Critical Biography and Autobiographical Records of Gregor Mendel & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Working Memory Training That Transforms Data Analysis and Cognitive Structure
+## 1. Working Memory Training That Transforms Data Analysis and Cognitive Structure
 
 The act of observing minute daily changes with your own eyes, quantifying them, and handwriting them on grid paper strongly activates the <strong>working memory</strong> area located in the brain's frontal lobe. Working memory functions as the brain's 'RAM', holding and processing information temporarily.
 
@@ -53,9 +54,7 @@ Observing and sorting large amounts of seemingly irregular morphological data (s
 
 ---
 
-## Analog Statistics Sharpen the Brain's Cognitive Filter
-
-Automated digital data analysis tools are convenient, but they bypass the active cognitive process where the brain directly collects and classifies data. Tracking and handwriting your own key statistics in an analog format daily, like Mendel, serves as an exceptional cognitive exercise to refine the brain's information filter and build perseverance.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Automated digital data analysis tools are convenient, but they bypass the active
   </p>
 </div>
 
+---
+
+## 3. Analog Statistics Sharpen the Brain's Cognitive Filter
+
+Automated digital data analysis tools are convenient, but they bypass the active cognitive process where the brain directly collects and classifies data. Tracking and handwriting your own key statistics in an analog format daily, like Mendel, serves as an exceptional cognitive exercise to refine the brain's information filter and build perseverance.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Must I hand-draw the graphs? Wouldn't using Excel be more convenient?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Automated digital data analysis tools are convenient, but they bypass the active
       Excel or automated data applications automate processing, resulting in lower visual cognitive stimulation. The physical act of holding a ruler and drawing lines by hand to represent fluctuations engages the inferior parietal lobe much more strongly, helping you intuitively perceive causal relationships and meaningful patterns behind the data.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it necessary to keep recording even if there is no significant change in figures?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "밤의 식탁을 도는 자매들: 샬롯 브론테의 보행 토론과 거울 뉴런 창작법"
 description: "'제인 에어'의 작가 샬롯 브론테가 매일 밤 자매들과 거실 식탁을 돌며 소설의 인물과 플롯을 토론했던 루틴. 보행 운동과 거울 뉴런(Mirror Neurons) 계통이 결합하여 터널 시야를 방지하고 객관적 통찰을 이끄는 신경과학적 원리를 밝힙니다."
 pubDate: "2026-05-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>엘리자베스 개스켈 평전 『샬롯 브론테 평전(The Life of Charlotte Brontë)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 bronte-table-walking 루틴을 다룹니다.
+      본 콘텐츠는 <strong>엘리자베스 개스켈 평전 『샬롯 브론테 평전(The Life of Charlotte Brontë)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 보행에 의한 두뇌 혈류 촉진과 거울 뉴런(Mirror Neurons)의 터널 시야 해소
+## 1. 보행에 의한 두뇌 혈류 촉진과 거울 뉴런(Mirror Neurons)의 터널 시야 해소
 
 신체 근육을 움직이며 걷는 행위는 대뇌로 향하는 혈류량과 산소 공급을 급증시키고, 뇌유래신경영양인자(BDNF)의 분비를 활성화하여 앉아 있을 때보다 창의적 발상 능력을 약 60% 이상 향상시킵니다. 여기에 더해 타인과 고전적 대화를 나누며 내 작품을 언어화하고 피드백을 청취하는 과정은 뇌의 '거울 뉴런(Mirror Neurons)' 시스템과 타인 관점 조망 회로(Theory of Mind Network)를 강하게 가동합니다. 이는 자기 생각에만 매몰되는 '터널 시야(Tunnel Vision)' 현상을 예방하여, 타인의 시선에서 자신의 기획이나 작품의 논리적 허점 및 플롯의 구멍을 객관적으로 발견·수정하게 만듭니다.
 
 ---
 
-## 주의사항 및 팁: 수용적 비평 청취와 감정적 방어 기제 차단
-
-보행 토론 루틴의 핵심은 단순한 친목이나 상호 칭찬이 아닌, 냉정하고 객관적인 비평을 주고받는 데 있습니다. 타인의 지적을 '나에 대한 인격적 공격'으로 착각하면 뇌는 편도체(Amygdala) 방어 기제를 작동시켜 창의적 수용성이 단절됩니다. '나의 인격'과 '나의 아이디어'를 완벽히 분리하고, 피드백을 작품의 논리적 구멍을 보완하는 중립적 정보 데이터로 받아들이는 객관적 수용 태도가 결합되어야 교정 메커니즘이 원활히 작동합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 수용적 비평 청취와 감정적 방어 기제 차단
+
+보행 토론 루틴의 핵심은 단순한 친목이나 상호 칭찬이 아닌, 냉정하고 객관적인 비평을 주고받는 데 있습니다. 타인의 지적을 '나에 대한 인격적 공격'으로 착각하면 뇌는 편도체(Amygdala) 방어 기제를 작동시켜 창의적 수용성이 단절됩니다. '나의 인격'과 '나의 아이디어'를 완벽히 분리하고, 피드백을 작품의 논리적 구멍을 보완하는 중립적 정보 데이터로 받아들이는 객관적 수용 태도가 결합되어야 교정 메커니즘이 원활히 작동합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>함께 토론할 동료가 없는 1인 작업 환경에서도 보행 창의성 효과가 일어나나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 걷는 신체 활동 자체만으로도 BDNF 분비와 대뇌 혈류 증가로 인한 인지 활성화 효과는 동일하게 누릴 수 있습니다. 동료가 없을 때는 '거울 속 자신에게 아이디어를 소리 내어 설명하기'나 '가상의 비평가를 설정하고 자문자답하며 걷기' 방식을 적용하면 거울 뉴런 및 메타인지 자극 효과를 훌륭하게 모방할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>비판적인 피드백을 들으면 마음에 상처를 입고 창작 의욕이 꺾이지 않나요?</span>

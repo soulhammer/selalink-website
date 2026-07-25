@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pionierin der modernen Frühpädagogik: Maria Montessoris Routine des objektiven Beobachtungstagebuchs"
 description: "Maria Montessori, Italiens erste Ärztin und Pädagogikpionierin. Entdecken Sie ihre objektiven Beobachtungstechniken zur Vermeidung subjektiver Voreingenommenheit und ihren 3-Schritte-Leitfaden."
 pubDate: "2026-02-17"
@@ -35,17 +36,17 @@ Im heutigen Beitrag untersuchen wir die Prinzipien der kognitiven Objektivierung
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu montessori-observation-log basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Maria Montessori & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen zu Maria Montessori & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kognitive Objektivierung zur Überwindung von Bestätigungsfehlern und Blick auf das Wesentliche
+## 1. Kognitive Objektivierung zur Überwindung von Bestätigungsfehlern und Blick auf das Wesentliche
 
 Wir verfallen häufig dem 'Bestätigungsfehler' and ziehen voreilige Schlüsse basierend auf subjektiven Vermutungen oder Gefühlen.
 
@@ -53,9 +54,7 @@ Dr. Montessoris Beobachtungsroutine stärkt die kognitiven Kontrollnetzwerke im 
 
 ---
 
-## Dokumentieren Sie nur reine Fakten ohne Bewertungen oder emotionale Adjektive
-
-Der Kern der Montessori-Beobachtung besteht darin, streng wahrgenommene reine Fakten zu beschreiben – wie etwa 'schloss die Augen 30-mal in 10 Minuten' anstelle von 'sieht müde aus'. Anstatt sich blind auf Willenskraft zu verlassen, ist die Gestaltung physischer Umgebungen und Auslöser für objektive Aufzeichnungen der Schlüssel zu nachhaltiger Konsistenz.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Der Kern der Montessori-Beobachtung besteht darin, streng wahrgenommene reine Fa
   </p>
 </div>
 
+---
+
+## 3. Dokumentieren Sie nur reine Fakten ohne Bewertungen oder emotionale Adjektive
+
+Der Kern der Montessori-Beobachtung besteht darin, streng wahrgenommene reine Fakten zu beschreiben – wie etwa 'schloss die Augen 30-mal in 10 Minuten' anstelle von 'sieht müde aus'. Anstatt sich blind auf Willenskraft zu verlassen, ist die Gestaltung physischer Umgebungen und Auslöser für objektive Aufzeichnungen der Schlüssel zu nachhaltiger Konsistenz.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Kann diese Routine auch zur Beobachtung eigener Gewohnheiten angewendet werden?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Der Kern der Montessori-Beobachtung besteht darin, streng wahrgenommene reine Fa
       Ja. Bei der Zeiterfassung oder beim Verfassen eines Arbeitstagebuchs lässt sich die Methode perfekt anwenden, indem man Schuldgefühle ausblendet und nur tatsächliche Aufgaben mit Zeitstempeln dokumentiert.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie kann ich einfach zwischen subjektiven Gefühlen und objektiven Fakten unterscheiden?</span>

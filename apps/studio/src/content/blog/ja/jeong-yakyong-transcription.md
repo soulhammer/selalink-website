@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "流配地での500巻著述の原動力：茶山・丁若鏞の抄書と手紙書きおよび知的符号化ルーティン"
 description: "朝鮮最高の実学者・茶山（タサン）丁若鏞（チョン・ヤギョン）。18年間の康津流配生活の中で知識を要約・筆記する「抄書（チョソ）」と二人の息子に学問を訓戒した手紙書きの脳科学的原理、体性感覚皮質刺激およびメタ認知強化効果を探求します。"
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「jeong-yakyong-transcription」は <strong>茶山・丁若鏞著作集『與猶堂全書（ヨユダンゼンショ）』および自伝『俟菴年譜（サアムネンポ）』史料考証＆認知神経科学（Cognitive Neuroscience）およびメタ認知（Metacognition）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>茶山・丁若鏞著作集『與猶堂全書（ヨユダンゼンショ）』および自伝『俟菴年譜（サアムネンポ）』史料考証＆認知神経科学（Cognitive Neuroscience）およびメタ認知（Metacognition）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 手と脳の同期を通じた知的符号化（Cognitive Encoding）とメタ認知
+## 1. 手と脳の同期を通じた知的符号化（Cognitive Encoding）とメタ認知
 
 テキストを目で読むことと、手を使って紙に書き写す行為は、脳の活動において完全に異なる神経網を活性化させます。ペンを直接握って要約し筆記する触覚行動は、<strong>体性感覚皮質（Somatosensory Cortex）</strong>を刺激し、<strong>前頭葉（Prefrontal Cortex）</strong>と<strong>連合皮質（Association Cortex）</strong>へ認知信号を送信することで<strong>「知的符号化（Cognitive Encoding）」</strong>を強力に誘導します。また、自分が確立した知識を他者（子供や同僚）に教える形態で再構成して手紙や文章として作成する行為は、<strong>メタ認知（Metacognition）</strong>能力を飛躍的に引き上げ、知識を最も体系的で長期的な記憶構造へと定着させます。
 
 ---
 
-## 注意事項：単純な機械的転写を超え能動的要約と加工に集中するルール
-
-抄書の習慣を進める際、犯しやすい過ちは「本の内容をそのまま機械のように書き写すこと」です。脳を通さず文字だけをそのまま書き写すと、単なる手作業にとどまり記憶の符号化が起こりません。文章を完全に理解し、自分の認知構造でフィルタリングした核心要約と自分だけのインサイトを1行でも書き加えてこそ、本物の知識として蓄積されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：単純な機械的転写を超え能動的要約と加工に集中するルール
+
+抄書の習慣を進める際、犯しやすい過ちは「本の内容をそのまま機械のように書き写すこと」です。脳を通さず文字だけをそのまま書き写すと、単なる手作業にとどまり記憶の符号化が起こりません。文章を完全に理解し、自分の認知構造でフィルタリングした核心要約と自分だけのインサイトを1行でも書き加えてこそ、本物の知識として蓄積されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>手書きの筆記の代わりにキーボードでタイピングして知識を整理することも同じ効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ、違います。ペンで紙に直接書くと、脳の体性感覚皮質が強く刺激され、記憶の符号化効率が遥かに高まります。キーボードのタイピングは入力速度は速いですが、すべてのキーの押し心地が同一であるため知的触覚刺激が不足します。重要な長期記憶の形成を望むなら、手書きの抄書が遥かに強力です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>必ずしも手紙の形でなくても、人に説明してあげればメタ認知効果が起きますか？</span>

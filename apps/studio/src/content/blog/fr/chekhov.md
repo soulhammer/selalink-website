@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Une bouloche au col et le tremblement d'une pupille : La micro-observation et l'attention sélective d'Anton Tchekhov"
 description: "Découvrez comment Anton Tchekhov, maître de la nouvelle moderne, consignait méticuleusement les micro-détails des passants dans les salles d'attente et cafés, et percez les principes neuroscientifiques de l'Attention Sélective Micro améliorant la résolution cognitive."
 pubDate: "2026-01-12"
@@ -33,25 +34,23 @@ Dès qu'il en avait l'occasion, Tchekhov s'asseyait dans les salles d'attente de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant chekhov est basée sur <strong>Vérification Historique issue de la biographie d'E. H. Carr *Anton Chekhov: A Critical Study* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'E. H. Carr *Anton Chekhov: A Critical Study* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Attention sélective micro et mécanismes d'éveil cortical
+## 1. Attention sélective micro et mécanismes d'éveil cortical
 
 Filtrer 99 % du bruit ambiant pour fixer l'attention sur 1 % de micro-détails — l'« Attention Sélective Micro » — stimule fortement le cortex préfrontal dorsolatéral (DLPFC). Cette observation ciblée élève la résolution corticale, transférant les entrées sensorielle vers la mémoire à long terme. En conséquence, le cerveau affine sa « Résolution Cognitive », filtrant la surcharge sensorielle pour décoder les signaux non verbaux et les motifs subtils.
 
 ---
 
-## Précautions & Conseils : Éviter le regard fixe & Capturer des moments fugaces
-
-Lors de la pratique de la micro-observation, évitez de fixer les personnes, ce qui provoque de l'inconfort. Un regard persistant altère le comportement naturel du sujet. La clé est la capture rapide et discrète : balayez un seul micro-détail (un fil décousu, un tressautement de la paupière, une éraflure) en 1 seconde au passage d'une personne, puis détournez le regard pour le noter.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Lors de la pratique de la micro-observation, évitez de fixer les personnes, ce 
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter le regard fixe & Capturer des moments fugaces
+
+Lors de la pratique de la micro-observation, évitez de fixer les personnes, ce qui provoque de l'inconfort. Un regard persistant altère le comportement naturel du sujet. La clé est la capture rapide et discrète : balayez un seul micro-détail (un fil décousu, un tressautement de la paupière, une éraflure) en 1 seconde au passage d'une personne, puis détournez le regard pour le noter.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Existe-t-il une technique pour observer discrètement sans incommoder les autres ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Lors de la pratique de la micro-observation, évitez de fixer les personnes, ce 
       Évitez le contact visuel direct. Utilisez la « Vision Périphérique » ou effectuez un balayage d'une seconde sur une zone précise (manches, chaussures, mains) lors d'un mouvement — comme lorsqu'on ajuste un manteau —, puis détournez le regard.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment ces notes de micro-détails peuvent-elles s'appliquer au travail professionnel ?</span>

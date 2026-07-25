@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "思维的模块化：弗拉基米尔·纳博科夫的索引卡片写作法"
 description: "作家弗拉基米尔·纳博科夫将小说切割成碎片记录在卡片上并重新排列顺序。探讨索引卡片策划法在阻断认知负荷和灵活组合创意方面的认知科学价值。"
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 nabokov-index-card 的内容基于 <strong>纳博科夫索引卡片历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>纳博科夫索引卡片历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 阻断认知负荷与组合创意的神经机制
+## 1. 阻断认知负荷与组合创意的神经机制
 
 当大脑感知到必须产出重要且高完成度的成果时，杏仁核会针对潜在的失败发出无意识警报，从而引发拖延行为。此时，如果先进行微不足道且门槛极低的写作，向大脑传递“处于不受评估的安全状态”这一反馈，杏仁核的过度活跃就会平静下来。与此同时，布罗卡区和运动皮层被轻度激活，认知齿轮顺畅咬合，从而大幅降低开始执行核心任务时的阻力门槛。
 
 ---
 
-## 注意事项与提示
-
-如果过度沉迷于写卡片，只是毫无关联地随意记录，日后在将其整合为一体时就会面临巨大的碎片化障碍。因此，一张卡片上必须只记录一个完整的想法或情节，并且需要定期回顾整体架构（例如总体大纲），提前对卡片进行大致分类。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     当完成最佳排列后，固定卡片的逻辑流向，从第一张卡片开始按顺序扩充细节，从而完成完整的文档或方案。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与提示
+
+如果过度沉迷于写卡片，只是毫无关联地随意记录，日后在将其整合为一体时就会面临巨大的碎片化障碍。因此，一张卡片上必须只记录一个完整的想法或情节，并且需要定期回顾整体架构（例如总体大纲），提前对卡片进行大致分类。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

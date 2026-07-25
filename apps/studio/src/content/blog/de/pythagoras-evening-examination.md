@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eine Nacht, die Ordnung in die Seele bringt: Pythagoras' abendliche Selbstprüfungs-Routine"
 description: "Pythagoras dachte jeden Abend vor dem Schlafengehen dreimal über seine täglichen Worte und Handlungen nach. Erkundet die neurophysiologischen Wirkungen seiner drei Selbstbefragungsrituale, die das Metakognition vor dem Schlafengehen wecken, das episodische Gedächtnis stärken und die Emotionsregulation verbessern."
 pubDate: "2026-04-06"
@@ -31,25 +32,23 @@ Pythagoras, der altgriechische Philosoph und Meister der Mathematik und Geometri
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu pythagoras-evening-examination basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Pythagoras' abendliche Selbstprüfung sowie kognitive neurowissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Pythagoras' abendliche Selbstprüfung sowie kognitive neurowissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hirnwissenschaftliche Prinzipien der Gedächtniskonsolidierung und emotionalen Stabilität vor dem Schlaf
+## 1. Hirnwissenschaftliche Prinzipien der Gedächtniskonsolidierung und emotionalen Stabilität vor dem Schlaf
 
 Schlaf ist eine entscheidende Phase, in der tagsüber im Hippocampus gespeicherte Kurzzeiterinnerungen in die Großhirnrinde übertragen und im Langzeitgedächtnis verankert werden (Gedächtniskonsolidierung). Das absichtliche Überprüfen der Tageshandlungen direkt vor dem Schlafengehen liefert dem Gehirn einen Fahrplan dafür, ‚welche Episoden priorisiert verarbeitet und gespeichert werden sollen‘. Darüber hinaus stärkt der Prozess der ‚Selbstüberwachung‘, bei dem eigene Handlungen moralisch und kognitiv bewertet werden, die Hemmschaltkreise im Frontallappen, reinigt emotionale Rückstände (Katharsis) und aktiviert das Parasympathikus-Nervensystem, um tiefen Langsamwellenschlaf zu induzieren.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Das größte Risiko der abendlichen Reflexion besteht darin, dass die Reflexion in Selbstbeschuldigung oder Grübeln (Rumination) abgleitet. Sich emotional in schlechte Ereignisse des Tages zu vertiefen und das Grübeln zu wiederholen, löst die Ausschüttung von Cortisol aus, einem Stresshormon, das tatsächlich zu Schlaflosigkeit führt. Wahren Sie bei der Reflexion ‚kognitive Distanz‘, indem Sie Ereignisse rein objektiv aus der Perspektive eines Dritten betrachten und sich anstelle von Selbstvorwürfen auf Verhaltensalternativen wie ‚Das werde ich beim nächsten Mal so verbessern‘ konzentrieren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Das größte Risiko der abendlichen Reflexion besteht darin, dass die Reflexion 
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Das größte Risiko der abendlichen Reflexion besteht darin, dass die Reflexion in Selbstbeschuldigung oder Grübeln (Rumination) abgleitet. Sich emotional in schlechte Ereignisse des Tages zu vertiefen und das Grübeln zu wiederholen, löst die Ausschüttung von Cortisol aus, einem Stresshormon, das tatsächlich zu Schlaflosigkeit führt. Wahren Sie bei der Reflexion ‚kognitive Distanz‘, indem Sie Ereignisse rein objektiv aus der Perspektive eines Dritten betrachten und sich anstelle von Selbstvorwürfen auf Verhaltensalternativen wie ‚Das werde ich beim nächsten Mal so verbessern‘ konzentrieren.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was ist, wenn ich den ganzen Tag so beschäftigt und müde bin, dass ich während der Reflexion einfach einschlafe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Das größte Risiko der abendlichen Reflexion besteht darin, dass die Reflexion 
       Bei Erschöpfung einzuschlafen ist natürlich. Das Sitzen am Schreibtisch und das kurze 5-minütige Aufschreiben wie beim Tagebuchführen anstelle des Liegens im Bett hilft jedoch, ein vorzeitiges Einschlafen und Schlafschwere zu verhindern.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was sollte ich tun, wenn mich Selbstvorwürfe nachts wach halten?</span>

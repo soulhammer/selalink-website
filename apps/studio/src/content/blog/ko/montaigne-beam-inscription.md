@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "몽테뉴의 대들보 사색법: 시각적 자극으로 편견을 흔들고 메타인지를 켜는 법"
 description: "프랑스의 철학자 몽테뉴가 자신의 서재 대들보에 고대 철학 격언 57개를 새겨두고 이를 보며 고정관념을 깨부순 창의적 사색 비결을 알아봅니다."
 pubDate: "2026-03-10"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>몽테뉴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 montaigne-beam-inscription 루틴을 다룹니다.
+      본 콘텐츠는 <strong>몽테뉴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 새겨진 텍스트가 메타인지를 켜는 뇌과학적 원리
+## 1. 새겨진 텍스트가 메타인지를 켜는 뇌과학적 원리
 
 의도적으로 배치된 시각적 격언에 눈길을 주는 행위는 인지심리학의 '시각적 점화(Visual Priming)' 이론에 부합합니다. 대뇌는 눈에 들어온 텍스트를 무의식적으로 분석하여 연상 네트워크를 넓히고 관련 기억을 인출합니다. 특히, 턱을 들어 올려 천장의 문구를 쳐다보는 수직 안구 운동과 시선 상향 조정은 메타인지 조절기 역할을 하는 전전두엽 피질(Prefrontal Cortex)을 물리적으로 활성화시킵니다. 이는 눈앞의 작업에만 갇혀 있던 시야를 넓혀, 자신의 논리가 타당한지 한 단계 높은 차원에서 성찰하도록 유도합니다.
 
 ---
 
-## 환경 적응(시각적 둔감화) 방지하기
-
-아무리 훌륭한 문구라도 천장이나 모니터 옆에 오랜 기간 똑같은 모양으로 방치되면 뇌는 이를 단순 배경 요소로 취급하여 무시하기 시작합니다. 이러한 시각적 적응(Habituation)을 방지하려면 몇 달에 한 번씩 포스트잇의 색상이나 문구의 위치를 바꾸거나 새로운 글로 교체해야 합니다. 뇌에 주는 새로움(Novelty)이 유지될 때 비로소 메타인지 반사가 활성화됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     사고 과정이 막히거나 고정관념이 의심될 때 의식적으로 고개를 뒤로 젖히고 천장의 문구를 15초간 묵독합니다. 일시적인 시선 교정을 통해 문제를 멀리서 넓게 조망하는 메타인지를 켭니다.
   </p>
 </div>
+
+---
+
+## 3. 환경 적응(시각적 둔감화) 방지하기
+
+아무리 훌륭한 문구라도 천장이나 모니터 옆에 오랜 기간 똑같은 모양으로 방치되면 뇌는 이를 단순 배경 요소로 취급하여 무시하기 시작합니다. 이러한 시각적 적응(Habituation)을 방지하려면 몇 달에 한 번씩 포스트잇의 색상이나 문구의 위치를 바꾸거나 새로운 글로 교체해야 합니다. 뇌에 주는 새로움(Novelty)이 유지될 때 비로소 메타인지 반사가 활성화됩니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

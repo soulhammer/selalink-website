@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Mirada de Espejo que Replica la Zancada Ajena: La Rutina de Imitación Física y Análisis Humano de Charlie Chaplin"
 description: "Descubra cómo la leyenda del cine mudo Charlie Chaplin observaba e imitaba los pasos y movimientos físicos de desconocidos en las calles, y explore los principios neurocientíficos de la activación de las neuronas espejo premotoras para expandir el esquema corporal y maximizar la empatía."
 pubDate: "2026-03-01"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre charlie-chaplin se basa en <strong>Verificación Histórica de la Autobiografía de Charlie Chaplin *Mi autobiografía (My Autobiography)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Charlie Chaplin *Mi autobiografía (My Autobiography)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación de las Neuronas Espejo Premotoras y Expansión del Esquema Corporal (Body Schema)
+## 1. Activación de las Neuronas Espejo Premotoras y Expansión del Esquema Corporal (Body Schema)
 
 Replicar la cinemática de otra persona activa el sistema de 'Neuronas Espejo' en la corteza premotora y el lóbulo parietal inferior. Esta práctica de imitación motora expande la resolución del 'Esquema Corporal' (Body Schema). Además, mediante la Cognición Encarnada (Embodied Cognition), imitar la tensión muscular y los ritmos de movimiento permite al cerebro descodificar señales emocionales no verbales (ansiedad, fatiga, orgullo) con más de un 70% de precisión, elevando la metacognición y la empatía intuitiva.
 
 ---
 
-## Precauciones y Consejos: Utilizar la Visión Periférica Encubierta y Garantizar Seguridad y Respeto
-
-Al practicar la observación e imitación física, evite mirar fijamente a las personas, lo que causa incomodidad o riesgos de seguridad. En lugar de fijar la mirada, utilice la 'Visión Periférica' para seguir suavemente las trayectorias de la silueta. Al imitar pasos, mantenga una distancia respetuosa y evite gestos exagerados o burlones; concéntrese en la geometría del equilibrio muscular.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Al practicar la observación e imitación física, evite mirar fijamente a las p
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Utilizar la Visión Periférica Encubierta y Garantizar Seguridad y Respeto
+
+Al practicar la observación e imitación física, evite mirar fijamente a las personas, lo que causa incomodidad o riesgos de seguridad. En lugar de fijar la mirada, utilice la 'Visión Periférica' para seguir suavemente las trayectorias de la silueta. Al imitar pasos, mantenga una distancia respetuosa y evite gestos exagerados o burlones; concéntrese en la geometría del equilibrio muscular.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo debo actuar si un peatón me descubre observándolo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Al practicar la observación e imitación física, evite mirar fijamente a las p
       Evite el contacto visual directo. Use gafas de sol o sostenga una bebida para desviar de forma natural su mirada mientras practica el escaneo con 'Visión Periférica', centrándose suavemente en la dinámica de la silueta en lugar de en los rasgos faciales.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿La imitación física realmente mejora nuestra capacidad para descifrar los estados emocionales ajenos?</span>

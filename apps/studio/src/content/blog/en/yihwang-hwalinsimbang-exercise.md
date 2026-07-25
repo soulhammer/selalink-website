@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Scholar's Morning Health Cultivation: Toegye Yi Hwang's Hwalinsimbang Exercise Routine"
 description: "Toegye Yi Hwang was frail throughout his life, yet pursued scholarly excellence until age 70 through daily morning Taoist Daoyin exercises and breathing control. Discover the physiological mechanisms by which low-intensity physical tuning and deep breathing activate the parasympathetic nervous system for calm focus."
 pubDate: "2026-06-12"
@@ -36,22 +37,20 @@ In this post, we validate the physiological benefits of Master Yi Hwang's Hwalin
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding yihwang-hwalinsimbang-exercise is based on <strong>Historical and Biographical Records of Toegye Yi Hwang's Hwalinsimbang & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical and Biographical Records of Toegye Yi Hwang's Hwalinsimbang & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## How Low-Intensity Exercises and Breathing Control Induce Autonomic Nervous System Balance
+## 1. How Low-Intensity Exercises and Breathing Control Induce Autonomic Nervous System Balance
 
 Immediately upon waking, the human body experiences a spike in cortisol (Cortisol Awakening Response) to transition into an active state, which can cause temporary pulse elevation and mild anxiety. Engaging in violent activity or stimulating digital media at this point overactivates the brain's fear circuits. Conversely, combining gentle stretches with long abdominal exhalations, as in Master Yi Hwang's Hwalinsimbang, stimulates the vagus nerve and activates the parasympathetic nervous system. This stabilizes Heart Rate Variability (HRV) and establishes a calm, highly rational state prepared for deep immersion.
 
 ---
 
-## Precautions and Tips
-
-Upon waking in the morning, spinal bones and muscle fibers are extremely stiff. Forcing intense, high-impact movements or extreme flexibility postures in this state can lead to spinal disc damage and serious injury. Keep morning Daoyin movements gentle and smooth without bouncing, performing them strictly within a pain-free range of motion while quietly focusing on breath to ensure safe physiological benefits.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Upon waking in the morning, spinal bones and muscle fibers are extremely stiff. 
     Inhale fresh oxygen deeply through your nose, then draw in your lower abdomen as you exhale slowly and quietly through your mouth. Perform 10 deep abdominal breaths to awaken the parasympathetic nervous system.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+Upon waking in the morning, spinal bones and muscle fibers are extremely stiff. Forcing intense, high-impact movements or extreme flexibility postures in this state can lead to spinal disc damage and serious injury. Keep morning Daoyin movements gentle and smooth without bouncing, performing them strictly within a pain-free range of motion while quietly focusing on breath to ensure safe physiological benefits.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

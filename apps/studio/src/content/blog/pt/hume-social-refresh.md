@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Antídoto para a Especulação Solitária: A Rotina Noturna de Socialização e Gamão de David Hume para Restauração Emocional"
 description: "Descubra como o filósofo escocês David Hume combatia a melancolia intelectual jantando com amigos e jogando gamão todas as noites. Explore a neurociência da oxitocina, serotonina e prevenção da sobrecarga cognitiva pré-frontal."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre hume-social-refresh é baseada em <strong>Verificação Histórica do *Tratado da Natureza Humana* (1739) e Autobiografia *Minha Vida* de David Hume e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica do *Tratado da Natureza Humana* (1739) e Autobiografia *Minha Vida* de David Hume e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Secreção de Oxitocina e Serotonina: Alívio da Sobrecarga Cognitiva Pré-frontal
+## 1. Secreção de Oxitocina e Serotonina: Alívio da Sobrecarga Cognitiva Pré-frontal
 
 Manter a resolução de problemas à noite após esgotar os recursos do <strong>Córtex Pré-frontal</strong> mantém o sistema nervoso em alerta crônico. A interação social agradável durante o jantar estimula a liberação de <strong>serocina</strong> e <strong>oxitocina</strong>, acalmando a <strong>amígdala</strong>. Além disso, jogos casuais como xadrez ou gamão ativam a <strong>Rede de Modo Padrão (DMN)</strong>, consolidando memórias e restaurando a clareza pré-frontal para o dia seguinte.
 
 ---
 
-## Precaução: Exclua Debates Profissionais ou Polêmicos Durante o Descanso Social
-
-O objetivo neurocientífico da socialização de Hume é o descanso emocional. Engajar-se em negociações profissionais ou debates ideológicos acalorados sobrecarrega novamente o córtex pré-frontal, piorando o esgotamento. Priorizar o humor leve e conversas descontraídas é essencial para criar um ambiente de relaxamento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ O objetivo neurocientífico da socialização de Hume é o descanso emocional. E
   </p>
 </div>
 
+---
+
+## 3. Precaução: Exclua Debates Profissionais ou Polêmicos Durante o Descanso Social
+
+O objetivo neurocientífico da socialização de Hume é o descanso emocional. Engajar-se em negociações profissionais ou debates ideológicos acalorados sobrecarrega novamente o córtex pré-frontal, piorando o esgotamento. Priorizar o humor leve e conversas descontraídas é essencial para criar um ambiente de relaxamento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que fazer se eu morar sozinho ou não tiver ninguém para encontrar presencialmente à noite?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ O objetivo neurocientífico da socialização de Hume é o descanso emocional. E
       Chamadas de voz com amigos ou jogos casuais online são ótimas alternativas. O segredo é receber feedback social acolhedor sem tensão cognitiva. No entanto, evite navegar passivamente nas redes sociais, pois isso aumenta a fadiga mental.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Posso substituir o xadrez por outros jogos de tabuleiro, baralho ou jogos casuais?</span>

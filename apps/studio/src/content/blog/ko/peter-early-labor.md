@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "손으로 익힌 지식은 망각하지 않는다: 피터 대제의 절차 기억 훈련법"
 description: "스스로 선박 목수가 되었던 개혁 군주 피터 대제의 새벽 기술 실습 습관을 알아봅니다. 뇌의 절차 기억을 자극해 기술을 영구 소장하는 3단계 행동 가이드."
 pubDate: "2026-03-18"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Peter Early Labor 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 peter-early-labor 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Peter Early Labor 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 영구 기억을 활성화하는 '절차 기억 기제'
+## 1. 영구 기억을 활성화하는 '절차 기억 기제'
 
 인지 신경과학에서 기억은 개념을 설명할 수 있는 서술 기억(Declarative Memory)과 몸의 근육 세포와 신경이 직접 기억하는 절차 기억(Procedural Memory)으로 나뉩니다. 피터 대제가 새벽에 실행한 실습 루틴은 소뇌(Cerebellum)와 기저핵(Basal Ganglia)을 거쳐 뇌에 강하게 각인되는 절차 기억 장치를 점화시켰습니다. 책을 눈으로 백 번 읽어 얻은 지식과 달리, 손동작과 실제 도구 조작을 통해 습득된 기술은 뇌세포의 시냅스 연결망(Synaptic Connections)에 영구적으로 부호화됩니다. 이는 인지 피로도가 적고 시간이 흘러도 소멸하지 않는 장기 보존 기술 학습의 과학적 핵심입니다.
 
 ---
 
-## 이론과 실무의 균형적 조율
-
-기술 실습을 한답시고 이론적 학습(서술 기억 적재)을 완전히 무시한 채 무작정 손만 움직이는 기술 습관은 발전 속도를 가로막습니다. 손을 기민하게 조작하는 실습 습관은 사전에 정독한 '원리의 기본서 학습'과 대칭을 이루어야 합니다. 이론적 배경을 20% 정도 훑어본 뒤, 나머지 80%의 에너지를 손과 감각을 직접 활용하는 실무 조작에 쏟아야만 뇌의 인지 구조적 시너지를 완성해 절차 기억의 효과를 극대화할 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     남은 20 ~ 30분간 고도로 기민하게 손가락과 눈을 조율하며 소뇌 회로에 지식을 각인시킵니다. 실수하더라도 멈추지 않고 손의 작동 흐름(Flow)을 지속합니다.
   </p>
 </div>
+
+---
+
+## 3. 이론과 실무의 균형적 조율
+
+기술 실습을 한답시고 이론적 학습(서술 기억 적재)을 완전히 무시한 채 무작정 손만 움직이는 기술 습관은 발전 속도를 가로막습니다. 손을 기민하게 조작하는 실습 습관은 사전에 정독한 '원리의 기본서 학습'과 대칭을 이루어야 합니다. 이론적 배경을 20% 정도 훑어본 뒤, 나머지 80%의 에너지를 손과 감각을 직접 활용하는 실무 조작에 쏟아야만 뇌의 인지 구조적 시너지를 완성해 절차 기억의 효과를 극대화할 수 있습니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

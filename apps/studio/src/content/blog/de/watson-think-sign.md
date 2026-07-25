@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das eine Wort, das IBM erschuf: Thomas Watsons 15-minütige stille Denk-Routine"
 description: "Entdecken Sie die Denkmethode von IBM-Gründer Thomas Watson, der in jedem Büro ‚THINK‘-Schilder aufhängte und täglich 15 Minuten in stiller Reflexion verbrachte. Erklärt, wie absichtliche Entkopplung das Langzeitgedächtnis ordnet."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Im heutigen Beitrag stellen wir die wissenschaftlichen Mechanismen von Thomas Wa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu watson-think-sign basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Thomas Watson & Kognitive Neurowissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Aufzeichnungen von Thomas Watson & Kognitive Neurowissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Warum inaktive Entkopplung die geistige Leistungsfähigkeit steigert
+## 1. Warum inaktive Entkopplung die geistige Leistungsfähigkeit steigert
 
 Wenn das Gehirn ständig auf eingehende Reize reagiert, fehlt die Kapazität für Gedächtniskonsolidierung und langfristige Planung. Durch vollständiges Abschalten von Reizen stabilisiert das Gehirn das <strong>Salienz-Netzwerk</strong> und ordnet neuronale Schaltkreise.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Damit dieses Denktraining erfolgreich ist, muss ein sichtbares physisches Schild als <strong>Visueller Prompt</strong> in Ihrem Arbeitsbereich vorhanden sein. Ohne visuellen Hinweis verfällt das Gehirn in Trägheit (E-Mails prüfen oder im Internet surfen). Ein Schild dient als Kontrollmechanismus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Damit dieses Denktraining erfolgreich ist, muss ein sichtbares physisches Schild
     Richten Sie Ihre Aufmerksamkeit ohne Schreibwerkzeuge rein mental auf das schwierigste und einflussreichste Problem, das Sie heute lösen müssen.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Damit dieses Denktraining erfolgreich ist, muss ein sichtbares physisches Schild als <strong>Visueller Prompt</strong> in Ihrem Arbeitsbereich vorhanden sein. Ohne visuellen Hinweis verfällt das Gehirn in Trägheit (E-Mails prüfen oder im Internet surfen). Ein Schild dient als Kontrollmechanismus.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

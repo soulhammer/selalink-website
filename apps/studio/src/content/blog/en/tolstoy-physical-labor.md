@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Plowing Fields Before Writing Despite Aristocratic Status? Leo Tolstoy's Physical Awakening Routine"
 description: "Where did the literary giant Leo Tolstoy get the energy to write monumental novels like War and Peace? Explore his health routine of awakening brain function through physical labor and gymnastics every morning before writing."
 pubDate: "2026-05-11"
@@ -36,14 +37,14 @@ In this post, we examine the neuroscientific truth hidden behind Count Tolstoy's
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding tolstoy-physical-labor is based on <strong>Historical biographies and autobiographical records of Leo Tolstoy & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Leo Tolstoy & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Brain-Derived Neurotrophic Factor (BDNF) and Cognitive Effects of Increased Heart Rate
+## 1. Brain-Derived Neurotrophic Factor (BDNF) and Cognitive Effects of Increased Heart Rate
 
 According to neuroscientific research, brief morning exercises that engage large muscle groups to elevate heart rate dilate cerebral blood vessels and enhance blood flow across the cerebral cortex. This increases oxygen delivery, immediately boosting prefrontal cognitive processing speed and memory capabilities.
 
@@ -51,11 +52,7 @@ In particular, full-body strength training and gymnastics maximize the secretion
 
 ---
 
-## A Neuroscientific Tip for a Successful Routine
-
-Move your body to ignite a powerful warm-up spark in your brain.
-
-Sitting forcibly at a desk staring at a monitor while half-asleep waste valuable time. Just as Tolstoy vigorously trained his body before writing to awaken his brain completely, expend energy for just 15 minutes until sweat forms. Morning focus achieved in an awakened state with activated brain cells yields productivity several times higher than usual.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,6 +83,14 @@ Sitting forcibly at a desk staring at a monitor while half-asleep waste valuable
     After taking a shower, utilize the initial 1 to 2 hours of heightened alertness induced by increased cerebral blood flow and BDNF release to start the most cognitively demanding, logical, or strategic core tasks of the day.
   </p>
 </div>
+
+---
+
+## 3. A Neuroscientific Tip for a Successful Routine
+
+Move your body to ignite a powerful warm-up spark in your brain.
+
+Sitting forcibly at a desk staring at a monitor while half-asleep waste valuable time. Just as Tolstoy vigorously trained his body before writing to awaken his brain completely, expend energy for just 15 minutes until sweat forms. Morning focus achieved in an awakened state with activated brain cells yields productivity several times higher than usual.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

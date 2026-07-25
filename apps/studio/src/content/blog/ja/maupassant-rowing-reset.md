@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "短編小説の巨匠の頭を冷やす法：ギ・ド・モーパッサンのボート漕ぎ・水泳リセットルーティン"
 description: "フランス短編小説の巨匠、ギ・ド・モーパッサン。執筆で疲弊した脳をセーヌ川でのボート漕ぎと水泳で完全にリセットした強烈な運動ルーティン。"
 pubDate: "2026-06-11"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「maupassant-rowing-reset」は <strong>ギ・ド・モーパッサン歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ギ・ド・モーパッサン歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 全身有酸素運動が誘導するBDNF分泌と脳血流の分散
+## 1. 全身有酸素運動が誘導するBDNF分泌と脳血流の分散
 
 集中した脳活動が持続すると、前頭葉への血流集中によりオーバーヒートと神経系ののぼせ現象が現れます。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 運動中は仕事のことを考えず、呼吸と動作だけに没頭してください
-
-運動中も今日すべきことや悩みを反芻してしまうと、脳血流分散の効果が半減します。筋肉の収縮と呼吸のリズムだけに意識を向けてください。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の鍵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 運動中は仕事のことを考えず、呼吸と動作だけに没頭してください
+
+運動中も今日すべきことや悩みを反芻してしまうと、脳血流分散の効果が半減します。筋肉の収縮と呼吸のリズムだけに意識を向けてください。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが持続性の鍵です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ボート漕ぎや水泳ができない場合、どのような運動で代替可能ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       上半身と下半身を同時に使うローイングマシン、エアロバイク、エリプティカル、インターバルジョギング、バーピージャンプなどの全身大筋肉有酸素運動であれば、同様の神経系シャワー効果を得ることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>毎日高強度の運動をすると体に負担がかかりませんか？</span>

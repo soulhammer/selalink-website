@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "布団の中で執筆された一般理論：ジョン・メイナード・ケインズの朝のベッド作業習慣とCAR覚醒"
 description: "大恐慌を克服した巨視経済学者であり、起床直後の2時間ベッドの上で全ての原稿を執筆したケインズ。起床時コルチゾール反応（CAR）と前頭前野認知資源の活用、睡眠慣性防止の原理および3段階実践法を紹介します。"
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「keynes-morning-bed-work」は <strong>ロバート・スキデルスキー『ケインズ評伝（John Maynard Keynes）』史料考証＆認知神経科学（Cognitive Neuroscience）および神経筋肉学（Neuromuscular Science）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ロバート・スキデルスキー『ケインズ評伝（John Maynard Keynes）』史料考証＆認知神経科学（Cognitive Neuroscience）および神経筋肉学（Neuromuscular Science）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 起床時コルチゾール反応（CAR）と前頭前野認知資源のゴールデンアワー
+## 1. 起床時コルチゾール反応（CAR）と前頭前野認知資源のゴールデンアワー
 
 目覚めた直後の30〜45分の間、人体は<strong>起床時コルチゾール反応（Cortisol Awakening Response, CAR）</strong>によって副腎から天然の活力ホルモンであるコルチゾールの分泌を急増させます。この時点は1日の中で<strong>前頭前野（Prefrontal Cortex）</strong>の疲労が全くない状態で、最高水準の創造性と論理構造を発揮できる知的ゴールデンアワーです。ベッドの上という外部ノイズが遮断された刺激統制環境で第1優先の核心課題に集中すれば、認知資源の損失なしに脳の実行機能を100％活用できるようになります。
 
 ---
 
-## 注意事項：睡眠慣性（Sleep Inertia）を防ぎ覚醒度を維持する上半身起こしルール
-
-朝のベッド集中作業の際に最も警戒すべき要素は、睡眠慣性（Sleep Inertia）による再入眠です。脳が完全に覚醒する前に水平に横たわったり頭が下がると、脳波がシータ波（Theta Wave）状態へと戻り、眠気が押し寄せてきます。頭と背中を背もたれやクッションで45度以上起こして脳に明確な覚醒信号を伝達し、20〜30分以内に制限して没頭することが核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：睡眠慣性（Sleep Inertia）を防ぎ覚醒度を維持する上半身起こしルール
+
+朝のベッド集中作業の際に最も警戒すべき要素は、睡眠慣性（Sleep Inertia）による再入眠です。脳が完全に覚醒する前に水平に横たわったり頭が下がると、脳波がシータ波（Theta Wave）状態へと戻り、眠気が押し寄せてきます。頭と背中を背もたれやクッションで45度以上起こして脳に明確な覚醒信号を伝達し、20〜30分以内に制限して没頭することが核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ベッドの上で作業する際、脊椎や関節の健康に害はありませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全に水平に横たわって頭をうつむかせる姿勢は、頸椎と脊椎に悪い影響を与えます。したがって、頭と背中が斜めに45度以上しっかりと起き上がるよう大きなクッションや背もたれを固く支え、最大30分前後に時間を限定して集中してこそ、健康と生産性の両方を手に入れることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>起床直後にメールやメッセンジャーを5分だけ先に確認してから始めてはいけませんか？</span>

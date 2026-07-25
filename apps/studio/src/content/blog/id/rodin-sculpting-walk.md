@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Master 'The Thinker'? Rutinitas Jalan Kaki Sambil Remas Tanah Liat Pagi Hari ala Auguste Rodin"
 description: "Auguste Rodin, maestro patung modern. Pelajari rutinitas sensorik uniknya yang berjalan kaki setiap pagi sambil meremas tanah liat untuk membangkitkan inspirasi taktil, beserta panduan 3 langkahnya."
 pubDate: "2026-01-10"
@@ -33,25 +34,23 @@ Dalam artikel hari ini, kita mempelajari mekanisme neurosains sensorik di balik 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai rodin-sculpting-walk didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Auguste Rodin & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Auguste Rodin & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Tiga Dimensi Taktil Melalui Stimulasi Korteks Somatosensorik
+## 1. Aktivasi Tiga Dimensi Taktil Melalui Stimulasi Korteks Somatosensorik
 
 Manusia modern mengandalkan lebih dari 90% informasi pada layar 2D datar, yang melemahkan kecerdasan spasial. Meremas tanah liat ala Rodin adalah <strong>'stimulus kognitif taktil'</strong> kuat yang secara langsung merangsang Korteks Somatosensorik dan Motorik melalui jaringan saraf jari, meredakan kelelahan visual dan mengaktifkan DMN untuk menghubungkan wawasan tiga dimensi.
 
 ---
 
-## Matikan Fokus Visual dan Tenggelamlah dalam Sensasi Sentuhan Ujung Jari
-
-Bagi Rodin, tanah liat adalah antena untuk membangkitkan sensitivitas ujung jari sebelum menjadi bahan patung. Jangan mencoba membentuk figur yang rapi; berfokuslah sepenuhnya pada tekstur dan elastisitas yang dirasakan jemari Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Bagi Rodin, tanah liat adalah antena untuk membangkitkan sensitivitas ujung jari
   </p>
 </div>
 
+---
+
+## 3. Matikan Fokus Visual dan Tenggelamlah dalam Sensasi Sentuhan Ujung Jari
+
+Bagi Rodin, tanah liat adalah antena untuk membangkitkan sensitivitas ujung jari sebelum menjadi bahan patung. Jangan mencoba membentuk figur yang rapi; berfokuslah sepenuhnya pada tekstur dan elastisitas yang dirasakan jemari Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Benda modern apa yang bisa digunakan sebagai pengganti tanah liat?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Bagi Rodin, tanah liat adalah antena untuk membangkitkan sensitivitas ujung jari
       Bola stres silikon, fidget cube, mini kalimba, potongan kayu halus, atau batu sungai mulus adalah alternatif luar biasa yang kaya stimulasi taktil.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana stimulasi taktil ujung jari meningkatkan kreativitas?</span>

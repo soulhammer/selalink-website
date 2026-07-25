@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Les croquis d'oscillation de Galilée : Stimuler la cognition spatiale pour simplifier les structures complexes"
 description: "Découvrez comment Galilée, père de la science moderne, a élaboré des lois physiques intuitives en dessinant des schémas géométriques d'oscillations. Explorez la neuroscience du calepin visuo-spatial et du double codage."
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente aux croq
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant galileo-vibration-sketch est basée sur <strong>Vérification Historique issue des *Discours concernant deux sciences nouvelles* et de *L'Essayeur (Il Saggiatore)* de Galilée, des archives de l'Université de Pise & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des *Discours concernant deux sciences nouvelles* et de *L'Essayeur (Il Saggiatore)* de Galilée, des archives de l'Université de Pise & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation du calepin visuo-spatial et neuroscience de la théorie du double codage
+## 1. Stimulation du calepin visuo-spatial et neuroscience de la théorie du double codage
 
 Représenter des concepts abstraits sous forme géométrique stimule le <strong>Calepin Visuo-Spatial</strong>, situé dans les <strong>lobes pariétaux et occipitaux</strong>. En s'appuyant sur la <strong>Théorie du double codage</strong>, l'association du texte et de l'image visuelle bâtit des modèles mentaux solides et allège la charge cognitive préfrontale. En cartographiant visuellement les flux et vecteurs sur le papier, le cerveau décèle immédiatement les failles logiques invisibles à la simple lecture.
 
 ---
 
-## Mise en garde : Prioriser la simplicité structurelle sur l'esthétique artistique
-
-Ne gaspillez pas d'énergie cognitive à réaliser des dessins artistiques élaborés. À l'instar des schémas de Galilée, concentrez-vous uniquement sur la « structure essentielle ». Limitez votre vocabulaire visuel à des cercles, rectangles, lignes et flèches. S'attarder sur l'esthétique consomme l'énergie dédiée à la logique.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ne gaspillez pas d'énergie cognitive à réaliser des dessins artistiques élab
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Prioriser la simplicité structurelle sur l'esthétique artistique
+
+Ne gaspillez pas d'énergie cognitive à réaliser des dessins artistiques élaborés. À l'instar des schémas de Galilée, concentrez-vous uniquement sur la « structure essentielle ». Limitez votre vocabulaire visuel à des cercles, rectangles, lignes et flèches. S'attarder sur l'esthétique consomme l'énergie dédiée à la logique.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Puis-je pratiquer la routine de schéma géométrique sans aucun talent en dessin ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ne gaspillez pas d'énergie cognitive à réaliser des dessins artistiques élab
       Oui, tout à fait ! Il ne s'agit pas d'art, mais d'un entraînement cognitif s'appuyant sur quatre éléments de base : cercles, rectangles, lignes et flèches. Même un schéma rudimentaire suffit à stimuler le calepin visuo-spatial.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Le fait de schématiser sur des applications numériques via une tablette offre-t-il les mêmes bénéfices ?</span>

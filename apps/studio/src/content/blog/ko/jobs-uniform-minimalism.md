@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "매일 똑같은 옷만 입은 천재: 스티브 잡스의 의사결정 미니멀리즘 루틴과 전전두엽 인지 자원 보존"
 description: "애플의 창업자 스티브 잡스. 항상 검은 터틀넥과 청바지만 입었던 그의 독특한 미니멀리즘 습관 속에 숨겨진 의사결정 피로(Decision Fatigue) 극복법, 전전두엽 인지 자원 보존 원리와 현대인을 위한 3단계 옷차림 단순화 루틴을 소개합니다."
 pubDate: "2026-06-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>월터 아이작슨 『스티브 잡스(Steve Jobs, 2011)』 사료 고증 & 인지심리학(Cognitive Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 jobs-uniform-minimalism 루틴을 다룹니다.
+      본 콘텐츠는 <strong>월터 아이작슨 『스티브 잡스(Steve Jobs, 2011)』 사료 고증 & 인지심리학(Cognitive Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 의사결정 피로(Decision Fatigue) 소멸과 전전두엽 인지 자원 보존
+## 1. 의사결정 피로(Decision Fatigue) 소멸과 전전두엽 인지 자원 보존
 
 인간의 뇌는 하루에 할 수 있는 의사결정의 양이 한정되어 있어, 아침부터 옷을 고르고 조합하는 데 인지 자원을 쓰면 <strong>전전두엽(Prefrontal Cortex)</strong>의 에너지가 점차 고갈되어 <strong>의사결정 피로(Decision Fatigue)</strong> 상태에 빠집니다. 매일 검은 터틀넥과 청바지라는 단일 유니폼을 입었던 스티브 잡스의 루틴은 아침 시간에 무의식적으로 소모되는 무수한 미세 결정 과정을 제거하여 뇌 용량을 온전히 보존했고, 이를 통해 가장 중요한 제품 기획과 경영적 판단에 최상의 집행 기능을 투입할 수 있었습니다.
 
 ---
 
-## 일상의 선택지를 상수화하여 뇌 에너지를 아끼는 실천 수칙
-
-미니멀리즘 옷차림의 본질은 패션의 단조로움이 아닌, '불필요한 미세 결정의 제거'입니다. 아침 식사 메뉴, 복장 스타일, 출근 경로 등 일상의 반복적인 선택지들을 사전에 루틴으로 고정(상수화)하여 뇌의 전전두엽 자원을 아끼는 것이 생산성 극대화의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 일상의 선택지를 상수화하여 뇌 에너지를 아끼는 실천 수칙
+
+미니멀리즘 옷차림의 본질은 패션의 단조로움이 아닌, '불필요한 미세 결정의 제거'입니다. 아침 식사 메뉴, 복장 스타일, 출근 경로 등 일상의 반복적인 선택지들을 사전에 루틴으로 고정(상수화)하여 뇌의 전전두엽 자원을 아끼는 것이 생산성 극대화의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스티브 잡스는 왜 매일 똑같은 옷만 고집했나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       아침마다 옷을 고르는 사소한 의사결정에서 소모되는 전전두엽 에너지를 아껴, 애플 경영과 제품 혁신 등 본질적인 의사결정에 100% 집중하기 위함이었습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>잡스처럼 완전히 똑같은 옷만 입기 부담스러운데 현실적인 대안이 있나요?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ナイトガウンを着て15マイルを歩いた学者：アダム・スミスの思索的散歩習慣"
 description: "アイデアを頭の中で組み立てるため、完全に没頭して長距離散歩を楽しんだアダム・スミス。デジタル刺激を遮断して歩く行為がデフォルト・モード・ネットワークを活性化し、創造性と集中力を最大化する神経科学的原理を解剖します。"
 pubDate: "2026-06-02"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「smith-contemplative-walking」は <strong>アダム・スミスの思索散歩に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アダム・スミスの思索散歩に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## デジタル遮断歩行とデフォルト・モード・ネットワークのシナジー
+## 1. デジタル遮断歩行とデフォルト・モード・ネットワークのシナジー
 
 スマホやモニターなどのデジタル画面を見ながら歩くときは、視覚情報処理のために脳のリソースが急速に消費されます。一方、あらゆるデジタル機器を遮断して一定のテンポで歩くと、大脳の視覚野の負荷が下がり、創造的なひらめきを誘導する「デフォルト・モード・ネットワーク（DMN）」が高度に活性化します。スタンフォード大学の研究によると、歩行時の創造的アイデア発想率は座っている時より平均60%向上します。歩行中に誘導される心肺循環の活性化は前頭葉に新鮮な酸素を供給し、認知的柔軟性と概念統合のスピードを著しく高めます。
 
 ---
 
-## 注意事項とヒント
-
-思索的散歩の最大の落とし穴は、歩きながらスマホをチェックしたり音楽やポッドキャストを聞いたりすることです。外部の聴覚・視覚刺激が持続的に脳に注入されると、脳はデフォルト・モード・ネットワーク（DMN）に切り替わらず、再び刺激処理モードに戻ってしまいます。したがって思索散歩を行う際はイヤホンを外し、周囲の自然音以外にはいかなる人工的な刺激も許容しないことが真の認知的換気と整理をもたらします。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項とヒント
+
+思索的散歩の最大の落とし穴は、歩きながらスマホをチェックしたり音楽やポッドキャストを聞いたりすることです。外部の聴覚・視覚刺激が持続的に脳に注入されると、脳はデフォルト・モード・ネットワーク（DMN）に切り替わらず、再び刺激処理モードに戻ってしまいます。したがって思索散歩を行う際はイヤホンを外し、周囲の自然音以外にはいかなる人工的な刺激も許容しないことが真の認知的換気と整理をもたらします。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>思索散歩の適切な距離や時間はどのくらいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       スミスのやうに15マイル歩く必要はありません。脳の血流改善とDMN活性化のための推奨時間は最低20分から最大40分程度です。距離よりも、デジタル刺激を完全に遮断した集中状態を維持する時間が重要です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>屋外へ出られない場合は室内でトレッドミルを歩いても大丈夫ですか？</span>

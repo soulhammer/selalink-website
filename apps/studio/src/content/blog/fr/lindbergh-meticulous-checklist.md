@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Réduire à zéro les erreurs cognitives humaines : La routine de checklist de Charles Lindbergh et la protection de la mémoire de travail"
 description: "Découvrez comment le héros de l'aviation Charles Lindbergh a accompli le premier vol transatlantique en solitaire en s'appuyant sur des checklists. Explorez la protection de la mémoire de travail préfrontale, la prévention des erreurs d'omission et un guide en 3 étapes."
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive et l'ergonomie sous-j
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant lindbergh-meticulous-checklist est basée sur <strong>Vérification Historique issue de l'autobiographie d'Charles Lindbergh *The Spirit of St. Louis* (1953), des archives de l'aviation & de la Recherche en Neurosciences Cognitives et Ergonomie</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie d'Charles Lindbergh *The Spirit of St. Louis* (1953), des archives de l'aviation & de la Recherche en Neurosciences Cognitives et Ergonomie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Protection de la mémoire de travail du cortex préfrontal et prévention des erreurs d'omission
+## 1. Protection de la mémoire de travail du cortex préfrontal et prévention des erreurs d'omission
 
 Lors de l'exécution de tâches séquentielles sous stress ou fatigue, le <strong>Cortex Préfrontal</strong> consomme una énergie considérable a maintenir les informations dans la <strong>Mémoire de Travail</strong>. Pour économiser cette énergie, le cerveau a tendance a contourner certaines étapes, provoquant des <strong>Erreurs d'Omission (Omission Error)</strong>. Vérifier physiquement una checklist point par point libère la mémoire. Débarrassé de l'effort de rappel, le cerveau consacre son énergie au <strong>Contrôle Exécutif (Executive Control)</strong>, garantissant una précision constante même en cas d'épuisement.
 
 ---
 
-## Mise en garde : Éliminer la simple relecture visuelle pour adopter la vérification tactile point par point
-
-La valeur essentielle d'une checklist repose sur la synchronisation physique : suivre les éléments un par un avec le doigt ou le curseur. Une simple relecture visuelle combinée à l'illusion que 'tout est vérifié' ne prévient pas les erreurs d'inattention du cerveau. Il faut prendre l'habitude de pointer physiquement chaque point pour imposer una vérification explicite.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La valeur essentielle d'une checklist repose sur la synchronisation physique : s
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer la simple relecture visuelle pour adopter la vérification tactile point par point
+
+La valeur essentielle d'une checklist repose sur la synchronisation physique : suivre les éléments un par un avec le doigt ou le curseur. Une simple relecture visuelle combinée à l'illusion que 'tout est vérifié' ne prévient pas les erreurs d'inattention du cerveau. Il faut prendre l'habitude de pointer physiquement chaque point pour imposer una vérification explicite.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Une checklist est-elle plus efficace lorsqu'elle est très longue et détaillée ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La valeur essentielle d'une checklist repose sur la synchronisation physique : s
       Non. Lorsqu'une checklist est trop longue, le cerveau se fatigue et a tendance a sauter des étapes. Sur le plan neuroscientifique, il est idéal de se limiter a 5 ou 9 points de contrôle critiques (ce qui correspond aux capacités de la mémoire de travail).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Pour quels types de travaux l'utilisation d'une checklist est-elle la plus efficace ?</span>

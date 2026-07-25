@@ -507,6 +507,10 @@
           "초소형견 케어"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/chihuahua_care.png"
   }
 }

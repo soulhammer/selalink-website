@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "画家画室中回荡的高雅古典：鲁本斯的多元认知生产力秘诀"
 description: "巴洛克艺术巨匠鲁本斯边作画边聘人朗读历史与文学，以耳学习。探索利用大脑多通道阻止杂念并最大化生产力的实践方法。"
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rubens-multitasking-recitation 的内容基于 <strong>鲁本斯历史评传与自传考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>鲁本斯历史评传与自传考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 阻断波动的“认知通道分割”
+## 1. 阻断波动的“认知通道分割”
 
 在执行手部作业或熟练动作时，大脑部分区域控制身体行为，而处理语言思考的区域则处于闲置状态。若听之任之，不受控的想法会激活默认模式网络（DMN），引发杂念并降低专注度。鲁本斯将绘画这一精细身体控制工作与聆听朗读相结合，智力性地占用了大脑的另一认知通道——听觉语言处理区。这被称为<strong>“认知通道分割”（Cognitive Channelization）</strong>。当双手掌控画笔时，听觉音频信息填满语言皮层，杜绝了杂念侵入的缝隙，使大脑维持极高觉醒度，实现了高专注度与学术学习的双赢。
 
 ---
 
-## 语言与逻辑主任务时的认知干扰注意事项
-
-对于策划案撰写或编程等需要高度语言及逻辑运算的主任务，若同时听朗诵会导致语言通道间的“认知干扰”（Cognitive Interference），从而大幅降低工作速度与准确度。本习惯仅在进行素描、绘图、整理、打字等肉体性或熟练任务时才能发挥最佳效果。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 语言与逻辑主任务时的认知干扰注意事项
+
+对于策划案撰写或编程等需要高度语言及逻辑运算的主任务，若同时听朗诵会导致语言通道间的“认知干扰”（Cognitive Interference），从而大幅降低工作速度与准确度。本习惯仅在进行素描、绘图、整理、打字等肉体性或熟练任务时才能发挥最佳效果。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>收听流行音乐或广播电台也能达到鲁本斯习惯的效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       否。流行音乐或广播电台只会刺激情感或分散注意力，无法紧密占用语言认知通道；广播广告更会打断专注。唯有让大脑跟随逻辑与知识运转人文朗读或学术讲座才是最佳选择。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>执行该习惯时，朗诵的音量多大比较合适？</span>

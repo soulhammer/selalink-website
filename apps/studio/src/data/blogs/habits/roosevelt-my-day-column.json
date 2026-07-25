@@ -1,216 +1,318 @@
 {
   "roosevelt-my-day-column": {
-    "title": {
-      "ko": "흔들리지 않는 자아를 세우는 기록력: 엘리너 루스벨트의 매일 저녁 성찰 쓰기",
-      "en": "Building an Unshakable Self Through Writing: Eleanor Roosevelt's Evening Reflection Routine",
-      "ja": "揺るぎない自我を打ち立てる記録力：エレノア・ルーズベルトの毎晩の省察執筆",
-      "zh": "通过文字建立不可动摇的自我：埃莱娜·罗斯福每日傍晚的反思记录习惯",
-      "es": "Construir un yo inquebrantable a través de la escritura: La rutina de reflexión nocturna de Eleanor Roosevelt",
-      "de": "Ein unerschütterliches Selbst durch Schreiben aufbauen: Eleanor Roosevelts abendliche Reflexionsroutine",
-      "fr": "Bâtir un soi inébranlable par l'écriture : La routine de réflexion du soir d'Eleanor Roosevelt",
-      "pt": "Construir um eu inabalável através da escrita: A rotina de reflexão noturna de Eleanor Roosevelt",
-      "id": "Membangun Diri yang Tak Tergoyahkan Melalui Tulisan: Rutinitas Refleksi Malam Eleanor Roosevelt"
-    },
-    "description": {
-      "ko": "미국의 가장 영향력 있는 여성이자 퍼스트 레이디인 엘리너 루스벨트. 27년간 매일 저녁 그날의 삶을 기고하며 자아를 정립한 저널링 루틴과 메타인지 효과를 밝깁니다.",
-      "en": "Eleanor Roosevelt, one of America's most influential First Ladies. Reveals her 27-year daily evening journaling routine that established self-identity and its metacognitive benefits.",
-      "ja": "米国で最も影響力のあるファーストレディ、エレノア・ルーズベルト。27年間にわたり毎晩その日の人生を寄稿し、自我を確立したジャーナリングルーティンとメタ認知効果を明かします。",
-      "zh": "埃莱娜·罗斯福是美国极具影响力的第一夫人。揭示她连续27年每日傍晚撰文记录生活以确立自我认同的日志习惯及其元认知功效。",
-      "es": "Eleanor Roosevelt, una de las Primeras Damas más influyentes de EE. UU. Revela su rutina de diario nocturno durante 27 años que definió su identidad y sus beneficios metacognitivos.",
-      "de": "Eleanor Roosevelt, eine der einflussreichsten First Ladies Amerikas. Enthüllt ihre 27-jährige abendliche Tagebuch-Routine zur Festigung der Identität und deren metakognitive Vorteile.",
-      "fr": "Eleanor Roosevelt, l'une des Premières Dames les plus influentes des États-Unis. Révèle sa routine de journalisme nocturne sur 27 ans qui a forgé son identité et ses bienfaits métacognitifs.",
-      "pt": "Eleanor Roosevelt, uma das Primeiras-Damas mais influentes dos EUA. Revela sua rotina de diário noturno de 27 anos que definiu sua identidade e seus benefícios metacognitivos.",
-      "id": "Eleanor Roosevelt, salah satu Ibu Negara AS paling berpengaruh. Mengungkap rutinitas jurnal malam 27 tahun yang membentuk identitas diri dan manfaat metakognitifnya."
-    },
-    "authority": {
-      "ko": "엘리너 루스벨트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical biography and autobiographical research on Eleanor Roosevelt & Cognitive Neuroscience studies",
-      "ja": "エレノア・ルーズベルトの歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "埃莱娜·罗斯福历史评传与自传考证及认知神经科学研究",
-      "es": "Investigación biográfica e histórica sobre Eleanor Roosevelt y estudios de neurociencia cognitiva",
-      "de": "Historische Biografie- und Autobiografieforschung zu Eleanor Roosevelt & Kognitive Neurowissenschaften",
-      "fr": "Recherche biographique et autobiographique historique sur Eleanor Roosevelt et études en neurosciences cognitives",
-      "pt": "Pesquisa biográfica e autobiográfica histórica sobre Eleanor Roosevelt e estudos de neurociência cognitiva",
-      "id": "Riset biografi sejarah dan autobiografi tentang Eleanor Roosevelt & studi Neurosains Kognitif"
-    },
-    "intro": {
-      "ko": "\"매일 당신이 두려워하는 일을 하나씩 하라.\" 🚶‍♂️\n\n대공황과 제2차 세계대전이라는 역사적 격동기 속에서 미국인들의 마음에 따뜻한 위안을 주고, 유엔(UN) 세계인권선언을 주도하며 전 세계 인권 의식을 고양한 대표적 여성 정치가 엘리너 루스벨트(Eleanor Roosevelt, 1884–1962). 극심한 국정 업무와 수많은 정치적 견제 속에서도 그녀가 단단하고 평화로운 평정심을 유지했던 비결은 매일 밤 적어 내린 기록에 있었습니다. ✍️\n\n엘리너는 1935년부터 그녀가 세상을 떠나기 전인 1962년까지 무려 27년 동안, 일요일을 제외한 주 6일 동안 단 하루도 거르지 않고 신문에 '나의 하루(My Day)'라는 칼럼을 연재했습니다. 이 글쓰기는 거창한 정치적 선언이 아니었습니다. 그날 만난 소외된 이웃의 이야기, 방문했던 국정 공사 현장의 풍경, 스스로 느꼈던 생각의 소회 등 지극히 개인적인 일기의 형태를 띠었습니다. 그녀는 밤마다 책상에 앉아 펜을 쥠으로써, 낮 동안 겪었던 거대한 사건들의 한복판에서 한 걸음 물러나 자신의 마음을 온전히 응시하고 객관화할 수 있었습니다.\n\n오늘 포스트에서는 엘리너 루스벨트가 평생 반복했던 데일리 저널링의 뇌과학적 이점과 현대인들이 일상에서 가치관을 명확히 하고 멘탈을 관리할 수 있는 3단계 성찰 기록법을 제공합니다.",
-      "en": "\"Do one thing every day that scares you.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) was a monumental American diplomat, activist, and First Lady who comforted Americans through the Great Depression and World War II and chaired the drafting of the UN Universal Declaration of Human Rights. Amidst intense public scrutiny and political turmoil, her secret to maintaining composed inner peace lay in her nightly writing routine. ✍️\n\nFrom 1935 until her passing in 1962—spanning 27 years—she wrote a daily newspaper column titled 'My Day' six days a week without fail. This was not a grandiose political manifesto; rather, it was an intimate journal sharing encounters with marginalized citizens, visits to public works sites, and quiet personal reflections. By sitting at her desk with a pen each evening, she stepped back from the storm of daily events to observe and objectify her mind.\n\nIn today's post, we share the neuroscience benefits of Eleanor Roosevelt's lifelong daily journaling routine and present a 3-step reflective writing method to clarify values and manage mental resilience.",
-      "ja": "「毎日、自分が恐れていることを一つずつ行いなさい。」 🚶‍♂️\n\n世界大恐慌と第二次世界大戦という歴史的激動期の中でアメリカ国民の心に温かい慰めを与え、国連（UN）世界人権宣言を主導して全世界の人権意識を高めた代表的女性政治家エレノア・ルーズベルト（Eleanor Roosevelt, 1884–1962）。極度の国政業務と数々の政治的牽制の中でも、彼女が堅で平和な平静さを維持できた秘訣は、毎晩書き綴った記録にありました。 ✍️\n\nエレノアは1935年から世を   1962年までの27年間、日曜日を除く週6日、一日も欠かすことなく新聞に「私の毎日（My Day）」というコラムを連載しました。この執筆は大げさな政治的宣言ではありませんでした。その日出会った社会的弱者の話、訪問した現場の風景、自ら感じた考えの所感など、ごく個人的な日記の形態を帯びていました。彼女は毎晩デスクに座ってペンを握ることで、昼間に経験した巨大な出来事の渦中から一歩退き、自分の心を静かに注視して客観化することができました。\n\n本日の記事では、エレノア・ルーズベルトが生涯繰り返したデイリー・ジャーナリングの脳科学的メリットと、現代人が日常で価値観を明確にしメンタルを management できる3段階の省察記録法をご紹介します。",
-      "zh": "“每天做一件让你感到害怕的事。” 🚶‍♂️\n\n埃莱娜·罗斯福（Eleanor Roosevelt, 1884–1962）在大萧条与第二次世界大战的动荡岁月里，抚慰着美国人民的心灵，并主导起草了联合国《世界人权宣言》，是举世闻名的杰出女性政治家与第一夫人。在沉重繁杂的事务与诸多政治纷争中，她保持坚韧与平和内心的秘诀，正是她每晚写下的文字。 ✍️\n\n从1935年直到1962年逝世前的27年间，她每周6天在报纸上撰写名为“我的每一天”（My Day）的日常专栏，从未间断。这一写作并非宏大的政治宣言，而是极具亲和力的日志：记录当天遇到的基层民众、视察工程现场的见闻以及内心的感悟。每晚坐在书桌前握笔写作，使她得以从白天的纷扰风暴中抽身，理性客体化地凝视自己的内心。\n\n在今天的文章中，我们将分享埃莱娜·罗斯福终生践行的每日日志习惯在大脑科学上的益处，并提供建立清晰价值观与管理心理韧性的三步反思记录法。",
-      "es": "\"Haz una cosa cada día que te dé miedo.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) fue una figura monumental de la diplomacia y Primera Dama de EE. UU. que consoló a la nación durante la Gran Depresión y la Segunda Guerra Mundial, y lideró la redacción de la Declaración Universal de los Derechos Humanos de la ONU. Entre la intensa actividad pública y presiones políticas, su secreto para mantener la calma interior residía en su escritura nocturna. ✍️\n\nDesde 1935 hasta su fallecimiento en 1962 —durante 27 años— redactó una columna diaria titulada 'My Day' seis días a la semana sin falta. No era un manifiesto político, sino un diario íntimo sobre historias de ciudadanos desfavorecidos y reflexiones personales. Al sentarse ante su escritorio cada noche, se distanciaba de los turbulentos eventos para observar objetivamente su propia mente.\n\nEn la publicación de hoy, compartimos los beneficios neurocientíficos de la rutina de diario de Eleanor Roosevelt y ofrecemos un método de escritura reflexiva en 3 pasos.",
-      "de": "\"Tue jeden Tag eine Sache, die dir Angst macht.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) war eine prägende Diplomatin und First Lady der USA, die den Amerikanern während der Weltwirtschaftskrise und des Zweiten Weltkriegs Trost spendete und den Entwurf der UN-AEMR leitete. Inmitten enormer öffentlicher Belastung lag das Geheimnis ihrer Gelassenheit im nächtlichen Schreiben. ✍️\n\nVon 1935 bis zu ihrem Tod 1962 verfasste sie 27 Jahre lang an sechs Tagen die Woche eine Zeitungskolumne namens 'My Day'. Es war kein politisches Manifest, sondern ein persönliches Tagebuch mit Geschichten einfacher Bürger und eigenen Reflexionen. Indem sie abends zur Feder griff, distanzierte sie sich vom Tagesgeschehen und schaute objektiv auf ihr Inneres.\n\nIm heutigen Beitrag beleuchten wir die neurowissenschaftlichen Vorteile von Eleanor Roosevelts Tagebuchpraxis und bieten eine 3-Schritte-Methode zur Selbstreflexion.",
-      "fr": "« Faites chaque jour une chose qui vous fait peur. » 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) était une diplomate d'exception et Première Dame des États-Unis qui a réconforté la nation pendant la Grande Dépression et la Seconde Guerre mondiale, tout en présidant la rédaction de la Déclaration universelle des droits de l'homme de l'ONU. Au milieu des pressions politiques, son secret pour préserver sa paix intérieure résidait dans son écriture nocturne. ✍️\n\nDe 1935 à sa mort en 1962 — pendant 27 ans —, elle a rédigé 6 jours par semaine une chronique intitulée 'My Day'. Loin d'être un manifeste politique, ce journal partageait ses rencontres avec des citoyens et ses réflexions personnelles. S'asseoir à son bureau chaque soir lui permettait de prendre du recul et d'analyser ses pensées avec objectivité.\n\nDans cet article, nous partageons les bienfaits neuroscientifiques de la routine de journalisme d'Eleanor Roosevelt et proposons une méthode de rédaction réflexive en 3 étapes.",
-      "pt": "\"Faça uma coisa todos os dias que te assuste.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) foi uma figura monumental da diplomacia e Primeira-Dama dos EUA que consolou a nação durante a Grande Depressão e a Segunda Guerra Mundial, e presidiu a redação da Declaração Universal dos Direitos Humanos da ONU. Entre pressões políticas, seu segredo para manter a calma interior residia em sua escrita noturna. ✍️\n\nDe 1935 até seu falecimento em 1962 — por 27 anos —, escreveu uma coluna diária intitulada 'My Day' seis dias por semana sem falta. Não era um manifesto político, mas um diário íntimo sobre histórias de cidadãos e reflexões pessoais. Ao sentar-se à escrivaninha cada noite, distanciava-se dos eventos diários para observar objetivamente sua mente.\n\nNo post de hoje, compartilhamos os benefícios neurocientíficos da rotina de diário de Eleanor Roosevelt e oferecemos um método de escrita reflexiva em 3 passos.",
-      "id": "\"Lakukan satu hal setiap hari yang menakutkan Anda.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) adalah diplomat monumental dan Ibu Negara AS yang memberi penghiburan bagi rakyat Amerika selama Depresi Besar dan Perang Dunia II serta memimpin penyusunan Deklarasi Universal Hak Asasi Manusia PBB. Di tengah tekanan politik, rahasianya menjaga kedamaian batin terletak pada tulisan malamnya. ✍️\n\nDari tahun 1935 hingga wafatnya pada 1962—selama 27 tahun—ia menulis kolom surat kabar harian 'My Day' enam hari seminggu tanpa henti. Ini bukan manifesto politik, melainkan jurnal pribadi berisi kisah warga biasa dan refleksi pribadinya. Duduk di meja kerja setiap malam memungkinkannya mengambil jarak dari peristiwa harian dan mengamati pikirannya secara objektif.\n\nDalam artikel hari ini, kami membagikan manfaat neurosains dari rutinitas jurnal Eleanor Roosevelt dan menyajikan metode tulisan reflektif 3 langkah."
-    },
-    "whyTitle": {
-      "ko": "단기 기억의 장기 공고화와 인지적 메타인지 촉진",
-      "en": "Consolidation of Memory and Promotion of Cognitive Metacognition",
-      "ja": "短期記憶の長期固定化と認知的メタ認知の促進",
-      "zh": "短期记忆的长期巩固与认知元能力的提升",
-      "es": "Consolidación de la memoria a largo plazo y fomento de la metacognición",
-      "de": "Konsolidierung des Gedächtnisses und Förderung kognitiver Metakognition",
-      "fr": "Consolidation de la mémoire et stimulation de la métacognition cognitive",
-      "pt": "Consolidação da memória e promoção da metacognição cognitiva",
-      "id": "Konsolidasi Memori Jangka Panjang dan Peningkatan Metakognisi Kognitif"
-    },
-    "whyDesc": {
-      "ko": "우리가 일과 중 겪은 경험과 감정들은 정돈되지 않은 채 방치되면 뇌의 편도체(Amygdala)를 자극하여 스트레스 기억으로 내재화되거나 쉽게 휘발되어 뇌의 작업 용량만 채웁니다.\n\n엘리너 루스벨트처럼 하루의 흐름을 글로 써서 구조화하는 행위는 뇌의 <strong style=\"color:#2B6CB0\">'해마(Hippocampus)'</strong>를 활성화하여 일화 기억을 안정적인 장기 기억으로 전이하는 공고화 과정을 돕습니다. 더욱이, 자신이 경험한 사건과 그때 느낀 감정을 객관적인 단어로 치환하는 프로세스는 뇌의 전두엽 영역을 자극하여 자신을 3인칭 시점으로 바라보게 만드는 '메타인지(Metacognition)' 능력을 비약적으로 증진시킵니다. 이는 감정적 충동성을 억제하고 정서적 평온함을 지탱하는 단단한 뇌의 뼈대가 됩니다.",
-      "en": "When experiences and emotions during the day are left unorganized, they overstimulate the amygdala, turning into stress memories or consuming working memory capacity. Structuring the day's flow through writing activates the <strong>Hippocampus</strong>, transferring episodic memories into stable long-term memory. Furthermore, translating events and emotions into objective words stimulates the frontal cortex, dramatically boosting <strong>Metacognition</strong>—the ability to view oneself from a 3rd-person perspective, tempering emotional impulsivity.",
-      "ja": "一日の経験や感情が整理されないまま放置されると、脳の扁桃体（Amygdala）を刺激してストレス記憶として内在化したり、作業記憶の容量を圧迫します。エレノア・ルーズベルトのように一日の流れを書いて構造化する行為は、脳の<strong>「海馬（Hippocampus）」</strong>を活性化し、エピソード記憶を安定した長期記憶へと移行させます。さらに、感情を客観的な言葉に置き換えるプロセスは前頭葉を刺激し、自分を三人称視点から眺める「メタ認知（Metacognition）」能力を飛躍的に向上させます。",
-      "zh": "若对一天的经历与情绪任其混乱，会刺激杏仁核（Amygdala），转化为压力记忆或白白占用工作记忆。像埃莱娜·罗斯福一样通过写作结构化整理一天的经历，能激活大脑的<strong>“海马体”（Hippocampus）</strong>，促进情景记忆向稳定的长期记忆转化。此外，将情绪转化为客观词汇的过程会刺激前额叶，飞跃性提升以第三人称视角审视自我心境的<strong>“元认知”（Metacognition）</strong>能力，平息情绪冲动。",
-      "es": "Cuando las experiencias y emociones no se organizan, sobreestimulan la amígdala, convirtiéndose en recuerdos estresantes. Estructurar el día a través de la escritura activa el <strong>Hipocampo</strong>, transfiriendo recuerdos episódicos a la memoria a largo plazo. Además, traducir vivencias a palabras objetivas estimula el córtex frontal, potenciando la <strong>Metacognición</strong> para observarse en tercera persona y frenar la impulsividad.",
-      "de": "Ungeordnete Tageserlebnisse überstimulieren die Amygdala und erzeugen Stress. Das Strukturieren des Tages durch Schreiben aktiviert den <strong>Hippocampus</strong> und überführt episodische Erinnerungen in das Langzeitgedächtnis. Das Übersetzen von Gefühlen in Worte fördert zudem die <strong>Metakognition</strong>, um sich aus einer 3.-Person-Perspektive zu betrachten und Impulsivität zu mildern.",
-      "fr": "Lorsqu'elles ne sont pas structurées, les émotions de la journée surstimulent l'amygdale. Organiser son cours de journée par écrit active l'<strong>hippocampe</strong>, transférant les souvenirs épisodiques vers la mémoire à long terme. De plus, traduire les ressentis en mots objectifs stimule le cortex frontal, renforçant la <strong>métacognition</strong> pour s'observer à la troisième personne.",
-      "pt": "Quando experiências e emoções não são organizadas, sobreestimulam a amígdala, tornando-se memórias estressantes. Estruturar o dia através da escrita ativa o <strong>Hipocampo</strong>, transferindo memórias para o longo prazo. Além disso, traduzir emoções em palavras objetivas estimula o córtex frontal, aumentando a <strong>Metacognição</strong> para observar-se em 3ª pessoa.",
-      "id": "Saat pengalaman dan emosi harian dibiarkan berantakan, itu akan merangsang amigdala dan menjadi memori stres. Membagikan alur hari melalui tulisan mengaktifkan <strong>Hipokampus</strong>, memindahkan memori episodik ke memori jangka panjang yang stabil. Menerjemahkan emosi ke dalam kata-kata objektif juga menstimulasi korteks frontal, meningkatkan <strong>Metakognisi</strong> untuk melihat diri dari sudut pandang orang ketiga."
-    },
-    "cautionTitle": {
-      "ko": "가식적이거나 이상적인 목표 대신 관조적인 덤덤함을 유지하십시오",
-      "en": "Maintain Contemplative Calmness Over Idealized Goals",
-      "ja": "見せかけや理想的な目標ではなく、観照的な淡々さを維持してください",
-      "zh": "保持观照式的平淡自然，而非追求刻意理想化的目标",
-      "es": "Mantenga una calma contemplativa en lugar de metas idealizadas",
-      "de": "Bewahren Sie eine gelassene Haltung statt idealisierter Ziele",
-      "fr": "Conservez un calme contemplatif plutôt que des objectifs idéalisés",
-      "pt": "Mantenha uma calma contemplativa em vez de metas idealizadas",
-      "id": "Pertahankan Ketenangan Kontemplatif Dibandingkan Target Ideal"
-    },
-    "cautionDesc": {
-      "ko": "저널링을 쓸 때 억지로 긍정적인 말만 늘어놓거나, 실행하기 어려운 무거운 계획만 기록하면 오히려 뇌는 인지적 스트레스를 받아 기록 습관을 방해합니다. 엘리너처럼 오늘 겪은 물리적 사실과 만난 사람 등 있었던 일을 덤덤하게 복기하고, 그 사실에 내포된 자신의 내면 상태를 물 흐르듯 가볍게 기록하는 편안함이 필수적입니다.",
-      "en": "Forcing toxic positivity or recording heavy, unachievable plans creates cognitive stress and sabotages journaling. As Eleanor did, calmly review physical facts and encounters, recording your internal state naturally with comfortable ease.",
-      "ja": "ジャーナリングを書く際に無理にポジティブな言葉ばかりを並べたり、実行が難しい重い計画ばかり記録すると、かえって脳は認知的ストレスを受け、記録習慣を阻害します。エレノアのように今日経験した客観的事実や会った人を淡々と振り返り、その事実に含まれる自分の内面状態を水が流れるように軽く記録する気楽さが不可欠です。",
-      "zh": "在写日志时，如果强迫自己罗列虚假的积极言语或记录难以执行的沉重计划，反而会导致认知压力并阻碍记录习惯。像埃莱娜那样，平淡地复盘今天经历的客观事实与遇到的人，随和自然地记录包含其中的内心状态，才是持续的关键。",
-      "es": "Forzar una positividad falsa o registrar planes inalcanzables genera estrés cognitivo y destruye el hábito. Como Eleanor, revise con calma los hechos físicos e interacciones, registrando su estado interno de forma natural y sin presiones.",
-      "de": "Erzwungener Positivismus oder unerreichbare Pläne erzeugen kognitiven Stress und zerstören die Tagebuchpraxis. Blicken Sie wie Eleanor gelassen auf Fakten und Begegnungen zurück und halten Sie Ihren inneren Zustand entspannt fest.",
-      "fr": "Forcer une positivité artificielle ou consigner des objectifs irréalisables crée un stress cognitif. Comme Eleanor, observez calmement les faits et vos rencontres, en consignant votre état intérieur avec légèreté.",
-      "pt": "Forçar um positivismo tóxico ou registrar planos inalcançáveis cria estresse cognitivo. Como Eleanor, revise com calma os fatos físicos e interações, registrando seu estado interno de forma natural.",
-      "id": "Memaksa kepositifan palsu atau mencatat rencana yang berat dan tidak realistis justru menciptakan stres kognitif. Seperti Eleanor, tinjau fakta fisik dan orang yang ditemui secara tenang, mencatat kondisi batin secara alami tanpa beban."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "일과 사실 덤덤히 나열하기",
-          "en": "Calmly List Daily Facts",
-          "ja": "一日の事実を淡々と羅列する",
-          "zh": "客观陈列一日事实",
-          "es": "Listar con calma los hechos del día",
-          "de": "Tagesfakten gelassen auflisten",
-          "fr": "Lister calmement les faits de la journée",
-          "pt": "Listar com calma os fatos do dia",
-          "id": "Daftarkan Fakta Harian Secara Calma"
-        },
-        "text": {
-          "ko": "늦은 저녁 일기장을 펼치고, 오늘 한 일이나 대화를 나눈 대상 등 객관적인 사실 3가지를 가식 없이 팩트 위주로 편안하게 적습니다.",
-          "en": "Open your journal in the evening and comfortably write down 3 objective facts—tasks completed or conversations held—focusing purely on facts without pretension.",
-          "ja": "遅い夜に日記帳を開き、今日行ったことや会話を交わした相手など、客観的な事実3つを飾ることなくファクトを中心に気楽に書き留めます。",
-          "zh": "傍晚打开日志本，平实无华地记录今天完成的工作或与人的对话等3项客观事实。",
-          "es": "Abra su diario por la noche y escriba tranquilamente 3 hechos objetivos: tareas realizadas o conversaciones mantenidas, enfocándose en los datos.",
-          "de": "Schlagen Sie abends Ihr Tagebuch auf und schreiben Sie entspannt 3 objektive Fakten auf – Erledigtes oder Gespräche – ohne Schnörkel.",
-          "fr": "Ouvrez votre journal le soir et notez 3 faits objectifs (tâches accomplies ou conversations), sans prétention et axés sur les faits.",
-          "pt": "Abra seu diário à noite e escreva tranquilamente 3 fatos objetivos — tarefas concluídas ou conversas —, focando puramente em fatos.",
-          "id": "Buka jurnal Anda di malam hari dan tuliskan 3 fakta objektif secara nyaman—tugas yang diselesaikan atau percakapan—berfokus pada fakta tanpa kepura-puraan."
-        }
+    "pubDate": "2026-03-18",
+    "updatedDate": "2026-03-18",
+    "heroImage": "/images/blog/roosevelt_my_day_column.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "흔들리지 않는 자아를 세우는 기록력: 엘리너 루스벨트의 매일 저녁 성찰 쓰기",
+        "description": "미국의 가장 영향력 있는 여성이자 퍼스트 레이디인 엘리너 루스벨트. 27년간 매일 저녁 그날의 삶을 기고하며 자아를 정립한 저널링 루틴과 메타인지 효과를 밝깁니다.",
+        "authority": "엘리너 루스벨트 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"매일 당신이 두려워하는 일을 하나씩 하라.\" 🚶‍♂️\n\n대공황과 제2차 세계대전이라는 역사적 격동기 속에서 미국인들의 마음에 따뜻한 위안을 주고, 유엔(UN) 세계인권선언을 주도하며 전 세계 인권 의식을 고양한 대표적 여성 정치가 엘리너 루스벨트(Eleanor Roosevelt, 1884–1962). 극심한 국정 업무와 수많은 정치적 견제 속에서도 그녀가 단단하고 평화로운 평정심을 유지했던 비결은 매일 밤 적어 내린 기록에 있었습니다. ✍️\n\n엘리너는 1935년부터 그녀가 세상을 떠나기 전인 1962년까지 무려 27년 동안, 일요일을 제외한 주 6일 동안 단 하루도 거르지 않고 신문에 '나의 하루(My Day)'라는 칼럼을 연재했습니다. 이 글쓰기는 거창한 정치적 선언이 아니었습니다. 그날 만난 소외된 이웃의 이야기, 방문했던 국정 공사 현장의 풍경, 스스로 느꼈던 생각의 소회 등 지극히 개인적인 일기의 형태를 띠었습니다. 그녀는 밤마다 책상에 앉아 펜을 쥠으로써, 낮 동안 겪었던 거대한 사건들의 한복판에서 한 걸음 물러나 자신의 마음을 온전히 응시하고 객관화할 수 있었습니다.\n\n오늘 포스트에서는 엘리너 루스벨트가 평생 반복했던 데일리 저널링의 뇌과학적 이점과 현대인들이 일상에서 가치관을 명확히 하고 멘탈을 관리할 수 있는 3단계 성찰 기록법을 제공합니다.",
+        "whyTitle": "단기 기억의 장기 공고화와 인지적 메타인지 촉진",
+        "whyDesc": "우리가 일과 중 겪은 경험과 감정들은 정돈되지 않은 채 방치되면 뇌의 편도체(Amygdala)를 자극하여 스트레스 기억으로 내재화되거나 쉽게 휘발되어 뇌의 작업 용량만 채웁니다.\n\n엘리너 루스벨트처럼 하루의 흐름을 글로 써서 구조화하는 행위는 뇌의 <strong style=\"color:#2B6CB0\">'해마(Hippocampus)'</strong>를 활성화하여 일화 기억을 안정적인 장기 기억으로 전이하는 공고화 과정을 돕습니다. 더욱이, 자신이 경험한 사건과 그때 느낀 감정을 객관적인 단어로 치환하는 프로세스는 뇌의 전두엽 영역을 자극하여 자신을 3인칭 시점으로 바라보게 만드는 '메타인지(Metacognition)' 능력을 비약적으로 증진시킵니다. 이는 감정적 충동성을 억제하고 정서적 평온함을 지탱하는 단단한 뇌의 뼈대가 됩니다.",
+        "cautionTitle": "가식적이거나 이상적인 목표 대신 관조적인 덤덤함을 유지하십시오",
+        "cautionDesc": "저널링을 쓸 때 억지로 긍정적인 말만 늘어놓거나, 실행하기 어려운 무거운 계획만 기록하면 오히려 뇌는 인지적 스트레스를 받아 기록 습관을 방해합니다. 엘리너처럼 오늘 겪은 물리적 사실과 만난 사람 등 있었던 일을 덤덤하게 복기하고, 그 사실에 내포된 자신의 내면 상태를 물 흐르듯 가볍게 기록하는 편안함이 필수적입니다.",
+        "steps": [
+          {
+            "title": "일과 사실 덤덤히 나열하기",
+            "desc": "늦은 저녁 일기장을 펼치고, 오늘 한 일이나 대화를 나눈 대상 등 객관적인 사실 3가지를 가식 없이 팩트 위주로 편안하게 적습니다."
+          },
+          {
+            "title": "경험에 대한 주관적 감정 연결",
+            "desc": "나열된 사실을 보며 자신이 느꼈던 생각, 감정의 미세한 파동(감사함, 짜증남, 신기함 등)을 왜곡하지 않고 단어 단위로 덤덤히 덧붙여 봅니다."
+          },
+          {
+            "title": "내일의 작은 성찰 행동 1줄 도출",
+            "desc": "오늘의 회고를 통해 내일의 삶에 적용할 수 있는 사소하고 구체적인 행동 피드백(예: '내일 오전 회의 때는 스마트폰을 보지 말아야지')을 한 줄 적어 뇌에 이정표를 꽂아 줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "일기를 매일 쓰다 보니 쓸 내용이 매번 똑같은데 어떻게 하죠?",
+            "answer": "일상이 반복되더라도 그 안에서 마주하는 인물, 음식의 맛, 날씨의 냄새 등 매일의 미세한 변화를 한 가지씩 포착해 보십시오. 미세한 다른 점을 찾는 시도 자체가 두뇌의 주의력을 발달시키고 메타인지를 훈련하는 훌륭한 뇌 연습이 됩니다."
+          },
+          {
+            "question": "디지털 일기장 앱이나 노션(Notion)에 입력해도 효과가 있나요?",
+            "answer": "네, 타이핑 도구를 활용해도 생각을 정리하고 외재화하는 메타인지적 효과는 동일하게 누릴 수 있습니다. 중요한 것은 손이든 자판이든 내면의 생각을 문장 구조로 명확히 시각화하는 과정 그 자체입니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "경험에 대한 주관적 감정 연결",
-          "en": "Connect Subjective Emotions to Experiences",
-          "ja": "経験に対する主観的感情の連結",
-          "zh": "将主观情绪与经历相连",
-          "es": "Conectar emociones subjetivas con la experiencia",
-          "de": "Subjektive Gefühle mit der Erfahrung verknüpfen",
-          "fr": "Associer les émotions subjectives à l'expérience",
-          "pt": "Conectar emoções subjetivas com a experiência",
-          "id": "Hubungkan Emosi Subjektif dengan Pengalaman"
-        },
-        "text": {
-          "ko": "나열된 사실을 보며 자신이 느꼈던 생각, 감정의 미세한 파동(감사함, 짜증남, 신기함 등)을 왜곡하지 않고 단어 단위로 덤덤히 덧붙여 봅니다.",
-          "en": "Looking at the listed facts, calmly add subtle emotional waves (gratitude, annoyance, curiosity) word by word without distortion.",
-          "ja": "羅列された事実を見ながら、自分が感じた考えや感情の微細な波（感謝、苛立ち、不思議さなど）を歪めることなく言葉単位で淡々と付け加えてみます。",
-          "zh": "看着列出的事实，真实如实地以词汇形式平淡附加上内心的微小情绪波动（如感恩、烦躁、新奇等）。",
-          "es": "Al mirar los hechos listados, añada con calma ondas de emociones sutiles (gratitud, molestia, curiosidad) palabra por palabra sin distorsión.",
-          "de": "Blicken Sie auf die Fakten und fügen Sie feine Gefühlsnuancen (Dankbarkeit, Ärger, Neugier) Wort für Wort unvoreingenommen hinzu.",
-          "fr": "En observant les faits listés, ajoutez calmement les vagues d'émotions ressenties (gratitude, agacement, curiosité) mot à mot sans déformation.",
-          "pt": "Ao olhar para os fatos, adicione com calma sutis ondas emocionais (gratidão, irritação, curiosidade) palavra por palavra sem distorções.",
-          "id": "Melihat fakta yang terdaftar, tambahkan gelombang emosi halus yang dirasakan (rasa syukur, kejengkelan, rasa ingin tahu) kata demi kata tanpa distorsi."
-        }
+      "en": {
+        "title": "Building an Unshakable Self Through Writing: Eleanor Roosevelt's Evening Reflection Routine",
+        "description": "Eleanor Roosevelt, one of America's most influential First Ladies. Reveals her 27-year daily evening journaling routine that established self-identity and its metacognitive benefits.",
+        "authority": "Historical biography and autobiographical research on Eleanor Roosevelt & Cognitive Neuroscience studies",
+        "intro": "\"Do one thing every day that scares you.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) was a monumental American diplomat, activist, and First Lady who comforted Americans through the Great Depression and World War II and chaired the drafting of the UN Universal Declaration of Human Rights. Amidst intense public scrutiny and political turmoil, her secret to maintaining composed inner peace lay in her nightly writing routine. ✍️\n\nFrom 1935 until her passing in 1962—spanning 27 years—she wrote a daily newspaper column titled 'My Day' six days a week without fail. This was not a grandiose political manifesto; rather, it was an intimate journal sharing encounters with marginalized citizens, visits to public works sites, and quiet personal reflections. By sitting at her desk with a pen each evening, she stepped back from the storm of daily events to observe and objectify her mind.\n\nIn today's post, we share the neuroscience benefits of Eleanor Roosevelt's lifelong daily journaling routine and present a 3-step reflective writing method to clarify values and manage mental resilience.",
+        "whyTitle": "Consolidation of Memory and Promotion of Cognitive Metacognition",
+        "whyDesc": "When experiences and emotions during the day are left unorganized, they overstimulate the amygdala, turning into stress memories or consuming working memory capacity. Structuring the day's flow through writing activates the <strong>Hippocampus</strong>, transferring episodic memories into stable long-term memory. Furthermore, translating events and emotions into objective words stimulates the frontal cortex, dramatically boosting <strong>Metacognition</strong>—the ability to view oneself from a 3rd-person perspective, tempering emotional impulsivity.",
+        "cautionTitle": "Maintain Contemplative Calmness Over Idealized Goals",
+        "cautionDesc": "Forcing toxic positivity or recording heavy, unachievable plans creates cognitive stress and sabotages journaling. As Eleanor did, calmly review physical facts and encounters, recording your internal state naturally with comfortable ease.",
+        "steps": [
+          {
+            "title": "Calmly List Daily Facts",
+            "desc": "Open your journal in the evening and comfortably write down 3 objective facts—tasks completed or conversations held—focusing purely on facts without pretension."
+          },
+          {
+            "title": "Connect Subjective Emotions to Experiences",
+            "desc": "Looking at the listed facts, calmly add subtle emotional waves (gratitude, annoyance, curiosity) word by word without distortion."
+          },
+          {
+            "title": "Derive a 1-Line Reflective Action for Tomorrow",
+            "desc": "Through today's reflection, write down one line of minor, specific action feedback to apply tomorrow (e.g., 'I will avoid checking my phone during tomorrow's morning meeting') to plant a signpost for your brain."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What if my daily journal entries feel repetitive every day?",
+            "answer": "Even in routine days, try capturing one tiny variation each day—a person encountered, taste of food, or scent of weather. The attempt to find subtle differences itself develops brain attention and trains metacognition."
+          },
+          {
+            "question": "Is it equally effective to use digital journaling apps or Notion?",
+            "answer": "Yes! Typing tools offer the same metacognitive benefits of organizing and externalizing thoughts. The essential factor is clearly visualizing inner thoughts into sentence structure, whether by hand or keyboard."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "내일의 작은 성찰 행동 1줄 도출",
-          "en": "Derive a 1-Line Reflective Action for Tomorrow",
-          "ja": "明日のための小さな省察行動を1行導出",
-          "zh": "推导一条关于明天的微小反思行动",
-          "es": "Derivar 1 línea de acción reflexiva para mañana",
-          "de": "Eine 1-Zeilen-Reflexionshandlung für morgen ableiten",
-          "fr": "Dégager 1 ligne d'action réflexive pour demain",
-          "pt": "Derivar 1 linha de ação reflexiva para amanhã",
-          "id": "Tarik 1 Baris Tindakan Reflektif untuk Besok"
-        },
-        "text": {
-          "ko": "오늘의 회고를 통해 내일의 삶에 적용할 수 있는 사소하고 구체적인 행동 피드백(예: '내일 오전 회의 때는 스마트폰을 보지 말아야지')을 한 줄 적어 뇌에 이정표를 꽂아 줍니다.",
-          "en": "Through today's reflection, write down one line of minor, specific action feedback to apply tomorrow (e.g., 'I will avoid checking my phone during tomorrow's morning meeting') to plant a signpost for your brain.",
-          "ja": "今日の振り返りを通じて、明日の生活に適用できる些細で具体的な行動フィードバック（例：「明日の午前会議ではスマホを見ないようにしよう」）を1行書き、脳に道標を立てます。",
-          "zh": "结合今日反思，写下一条可在明天生活中实施的具体微小行动反馈（如“明天上午开会时不看手机”），在大脑中立下一道路标。",
-          "es": "A través de la reflexión de hoy, escriba una línea de acción pequeña y específica para aplicar mañana (p. ej., 'No miraré el teléfono durante la reunión matutina') para plantar un hito en su cerebro.",
-          "de": "Schreiben Sie eine konkrete, kleine Handlungshandlung für morgen auf (z. B. 'Morgen in der Besprechung schaue ich nicht aufs Handy'), um einen Wegweiser zu setzen.",
-          "fr": "Grâce à la réflexion du jour, inscrivez une ligne d'action concrète pour demain (ex. : « Je ne regarderai pas mon téléphone durant la réunion de demain matin »).",
-          "pt": "Através da reflexão de hoje, escreva uma linha de ação pequena e específica para aplicar amanhã (ex: 'Não olharei o celular na reunião de amanhã').",
-          "id": "Melalui refleksi hari ini, tuliskan satu baris umpan balik tindakan spesifik untuk diterapkan besok (misalnya: 'Saya tidak akan melihat ponsel selama rapat pagi besok') untuk menancapkan petunjuk bagi otak."
-        }
+      "zh": {
+        "title": "通过文字建立不可动摇的自我：埃莱娜·罗斯福每日傍晚的反思记录习惯",
+        "description": "埃莱娜·罗斯福是美国极具影响力的第一夫人。揭示她连续27年每日傍晚撰文记录生活以确立自我认同的日志习惯及其元认知功效。",
+        "authority": "埃莱娜·罗斯福历史评传与自传考证及认知神经科学研究",
+        "intro": "“每天做一件让你感到害怕的事。” 🚶‍♂️\n\n埃莱娜·罗斯福（Eleanor Roosevelt, 1884–1962）在大萧条与第二次世界大战的动荡岁月里，抚慰着美国人民的心灵，并主导起草了联合国《世界人权宣言》，是举世闻名的杰出女性政治家与第一夫人。在沉重繁杂的事务与诸多政治纷争中，她保持坚韧与平和内心的秘诀，正是她每晚写下的文字。 ✍️\n\n从1935年直到1962年逝世前的27年间，她每周6天在报纸上撰写名为“我的每一天”（My Day）的日常专栏，从未间断。这一写作并非宏大的政治宣言，而是极具亲和力的日志：记录当天遇到的基层民众、视察工程现场的见闻以及内心的感悟。每晚坐在书桌前握笔写作，使她得以从白天的纷扰风暴中抽身，理性客体化地凝视自己的内心。\n\n在今天的文章中，我们将分享埃莱娜·罗斯福终生践行的每日日志习惯在大脑科学上的益处，并提供建立清晰价值观与管理心理韧性的三步反思记录法。",
+        "whyTitle": "短期记忆的长期巩固与认知元能力的提升",
+        "whyDesc": "若对一天的经历与情绪任其混乱，会刺激杏仁核（Amygdala），转化为压力记忆或白白占用工作记忆。像埃莱娜·罗斯福一样通过写作结构化整理一天的经历，能激活大脑的<strong>“海马体”（Hippocampus）</strong>，促进情景记忆向稳定的长期记忆转化。此外，将情绪转化为客观词汇的过程会刺激前额叶，飞跃性提升以第三人称视角审视自我心境的<strong>“元认知”（Metacognition）</strong>能力，平息情绪冲动。",
+        "cautionTitle": "保持观照式的平淡自然，而非追求刻意理想化的目标",
+        "cautionDesc": "在写日志时，如果强迫自己罗列虚假的积极言语或记录难以执行的沉重计划，反而会导致认知压力并阻碍记录习惯。像埃莱娜那样，平淡地复盘今天经历的客观事实与遇到的人，随和自然地记录包含其中的内心状态，才是持续的关键。",
+        "steps": [
+          {
+            "title": "客观陈列一日事实",
+            "desc": "傍晚打开日志本，平实无华地记录今天完成的工作或与人的对话等3项客观事实。"
+          },
+          {
+            "title": "将主观情绪与经历相连",
+            "desc": "看着列出的事实，真实如实地以词汇形式平淡附加上内心的微小情绪波动（如感恩、烦躁、新奇等）。"
+          },
+          {
+            "title": "推导一条关于明天的微小反思行动",
+            "desc": "结合今日反思，写下一条可在明天生活中实施的具体微小行动反馈（如“明天上午开会时不看手机”），在大脑中立下一道路标。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "如果每天写日志觉得内容千篇一律该怎么办？",
+            "answer": "即使日常生活重复，也请尝试捕捉其中微小的不同——遇到的面孔、食物的味道或天气的气味。寻找微妙差异的尝试本身就是锻炼大脑注意力与训练元认知的卓越实践。"
+          },
+          {
+            "question": "使用数字日志应用或Notion记录具有相同的效果吗？",
+            "answer": "是的！使用打字工具同样能获得梳理并外化思想的元认知效果。核心关键在于，无论用手写还是键盘，将内心想法转化为明确的语句结构并使其视觉化的过程本身。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "揺るぎない自我を打ち立てる記録力：エレノア・ルーズベルトの毎晩の省察執筆",
+        "description": "米国で最も影響力のあるファーストレディ、エレノア・ルーズベルト。27年間にわたり毎晩その日の人生を寄稿し、自我を確立したジャーナリングルーティンとメタ認知効果を明かします。",
+        "authority": "エレノア・ルーズベルトの歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「毎日、自分が恐れていることを一つずつ行いなさい。」 🚶‍♂️\n\n世界大恐慌と第二次世界大戦という歴史的激動期の中でアメリカ国民の心に温かい慰めを与え、国連（UN）世界人権宣言を主導して全世界の人権意識を高めた代表的女性政治家エレノア・ルーズベルト（Eleanor Roosevelt, 1884–1962）。極度の国政業務と数々の政治的牽制の中でも、彼女が堅で平和な平静さを維持できた秘訣は、毎晩書き綴った記録にありました。 ✍️\n\nエレノアは1935年から世を   1962年までの27年間、日曜日を除く週6日、一日も欠かすことなく新聞に「私の毎日（My Day）」というコラムを連載しました。この執筆は大げさな政治的宣言ではありませんでした。その日出会った社会的弱者の話、訪問した現場の風景、自ら感じた考えの所感など、ごく個人的な日記の形態を帯びていました。彼女は毎晩デスクに座ってペンを握ることで、昼間に経験した巨大な出来事の渦中から一歩退き、自分の心を静かに注視して客観化することができました。\n\n本日の記事では、エレノア・ルーズベルトが生涯繰り返したデイリー・ジャーナリングの脳科学的メリットと、現代人が日常で価値観を明確にしメンタルを management できる3段階の省察記録法をご紹介します。",
+        "whyTitle": "短期記憶の長期固定化と認知的メタ認知の促進",
+        "whyDesc": "一日の経験や感情が整理されないまま放置されると、脳の扁桃体（Amygdala）を刺激してストレス記憶として内在化したり、作業記憶の容量を圧迫します。エレノア・ルーズベルトのように一日の流れを書いて構造化する行為は、脳の<strong>「海馬（Hippocampus）」</strong>を活性化し、エピソード記憶を安定した長期記憶へと移行させます。さらに、感情を客観的な言葉に置き換えるプロセスは前頭葉を刺激し、自分を三人称視点から眺める「メタ認知（Metacognition）」能力を飛躍的に向上させます。",
+        "cautionTitle": "見せかけや理想的な目標ではなく、観照的な淡々さを維持してください",
+        "cautionDesc": "ジャーナリングを書く際に無理にポジティブな言葉ばかりを並べたり、実行が難しい重い計画ばかり記録すると、かえって脳は認知的ストレスを受け、記録習慣を阻害します。エレノアのように今日経験した客観的事実や会った人を淡々と振り返り、その事実に含まれる自分の内面状態を水が流れるように軽く記録する気楽さが不可欠です。",
+        "steps": [
+          {
+            "title": "一日の事実を淡々と羅列する",
+            "desc": "遅い夜に日記帳を開き、今日行ったことや会話を交わした相手など、客観的な事実3つを飾ることなくファクトを中心に気楽に書き留めます。"
+          },
+          {
+            "title": "経験に対する主観的感情の連結",
+            "desc": "羅列された事実を見ながら、自分が感じた考えや感情の微細な波（感謝、苛立ち、不思議さなど）を歪めることなく言葉単位で淡々と付け加えてみます。"
+          },
+          {
+            "title": "明日のための小さな省察行動を1行導出",
+            "desc": "今日の振り返りを通じて、明日の生活に適用できる些細で具体的な行動フィードバック（例：「明日の午前会議ではスマホを見ないようにしよう」）を1行書き、脳に道標を立てます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "日記を毎日書いていると、書く内容が毎回同じになってしまうのですが、どうすればよいですか？",
+            "answer": "日常が反復されても、その中で出会う人物、食べ物の味、天気の匂いなど、毎日の微細な変化を一つずつ捉えてみてください。微細な違いを探す試み自体が脳の注意力を発達させ、メタ認知を訓練する素晴らしい脳トレになります。"
+          },
+          {
+            "question": "デジタル日記アプリやNotionに入力しても効果はありますか？",
+            "answer": "はい！タイピングツールを活用しても、考えを整理して外在化するメタ認知的な効果は同様に享受できます。重要なのは手書きであれキーボードであれ、内面の考えを文章構造として明確に視覚化するプロセスそのものです。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Construir un yo inquebrantable a través de la escritura: La rutina de reflexión nocturna de Eleanor Roosevelt",
+        "description": "Eleanor Roosevelt, una de las Primeras Damas más influyentes de EE. UU. Revela su rutina de diario nocturno durante 27 años que definió su identidad y sus beneficios metacognitivos.",
+        "authority": "Investigación biográfica e histórica sobre Eleanor Roosevelt y estudios de neurociencia cognitiva",
+        "intro": "\"Haz una cosa cada día que te dé miedo.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) fue una figura monumental de la diplomacia y Primera Dama de EE. UU. que consoló a la nación durante la Gran Depresión y la Segunda Guerra Mundial, y lideró la redacción de la Declaración Universal de los Derechos Humanos de la ONU. Entre la intensa actividad pública y presiones políticas, su secreto para mantener la calma interior residía en su escritura nocturna. ✍️\n\nDesde 1935 hasta su fallecimiento en 1962 —durante 27 años— redactó una columna diaria titulada 'My Day' seis días a la semana sin falta. No era un manifiesto político, sino un diario íntimo sobre historias de ciudadanos desfavorecidos y reflexiones personales. Al sentarse ante su escritorio cada noche, se distanciaba de los turbulentos eventos para observar objetivamente su propia mente.\n\nEn la publicación de hoy, compartimos los beneficios neurocientíficos de la rutina de diario de Eleanor Roosevelt y ofrecemos un método de escritura reflexiva en 3 pasos.",
+        "whyTitle": "Consolidación de la memoria a largo plazo y fomento de la metacognición",
+        "whyDesc": "Cuando las experiencias y emociones no se organizan, sobreestimulan la amígdala, convirtiéndose en recuerdos estresantes. Estructurar el día a través de la escritura activa el <strong>Hipocampo</strong>, transfiriendo recuerdos episódicos a la memoria a largo plazo. Además, traducir vivencias a palabras objetivas estimula el córtex frontal, potenciando la <strong>Metacognición</strong> para observarse en tercera persona y frenar la impulsividad.",
+        "cautionTitle": "Mantenga una calma contemplativa en lugar de metas idealizadas",
+        "cautionDesc": "Forzar una positividad falsa o registrar planes inalcanzables genera estrés cognitivo y destruye el hábito. Como Eleanor, revise con calma los hechos físicos e interacciones, registrando su estado interno de forma natural y sin presiones.",
+        "steps": [
+          {
+            "title": "Listar con calma los hechos del día",
+            "desc": "Abra su diario por la noche y escriba tranquilamente 3 hechos objetivos: tareas realizadas o conversaciones mantenidas, enfocándose en los datos."
+          },
+          {
+            "title": "Conectar emociones subjetivas con la experiencia",
+            "desc": "Al mirar los hechos listados, añada con calma ondas de emociones sutiles (gratitud, molestia, curiosidad) palabra por palabra sin distorsión."
+          },
+          {
+            "title": "Derivar 1 línea de acción reflexiva para mañana",
+            "desc": "A través de la reflexión de hoy, escriba una línea de acción pequeña y específica para aplicar mañana (p. ej., 'No miraré el teléfono durante la reunión matutina') para plantar un hito en su cerebro."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Qué hago si el contenido de mi diario se siente repetitivo todos los días?",
+            "answer": "Incluso en días rutinarios, intente capturar una pequeña variación diaria: una persona, el sabor de la comida o el olor del clima. El intento de buscar sutilezas ejercita la atención y entrena la metacognición."
+          },
+          {
+            "question": "¿Es igualmente efectivo usar aplicaciones de diario digital o Notion?",
+            "answer": "¡Sí! Las herramientas digitales ofrecen los mismos beneficios metacognitivos de organizar y externalizar pensamientos. Lo esencial es visualizar pensamientos en estructura de oraciones, sea a mano o teclado."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Bâtir un soi inébranlable par l'écriture : La routine de réflexion du soir d'Eleanor Roosevelt",
+        "description": "Eleanor Roosevelt, l'une des Premières Dames les plus influentes des États-Unis. Révèle sa routine de journalisme nocturne sur 27 ans qui a forgé son identité et ses bienfaits métacognitifs.",
+        "authority": "Recherche biographique et autobiographique historique sur Eleanor Roosevelt et études en neurosciences cognitives",
+        "intro": "« Faites chaque jour une chose qui vous fait peur. » 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) était une diplomate d'exception et Première Dame des États-Unis qui a réconforté la nation pendant la Grande Dépression et la Seconde Guerre mondiale, tout en présidant la rédaction de la Déclaration universelle des droits de l'homme de l'ONU. Au milieu des pressions politiques, son secret pour préserver sa paix intérieure résidait dans son écriture nocturne. ✍️\n\nDe 1935 à sa mort en 1962 — pendant 27 ans —, elle a rédigé 6 jours par semaine une chronique intitulée 'My Day'. Loin d'être un manifeste politique, ce journal partageait ses rencontres avec des citoyens et ses réflexions personnelles. S'asseoir à son bureau chaque soir lui permettait de prendre du recul et d'analyser ses pensées avec objectivité.\n\nDans cet article, nous partageons les bienfaits neuroscientifiques de la routine de journalisme d'Eleanor Roosevelt et proposons une méthode de rédaction réflexive en 3 étapes.",
+        "whyTitle": "Consolidation de la mémoire et stimulation de la métacognition cognitive",
+        "whyDesc": "Lorsqu'elles ne sont pas structurées, les émotions de la journée surstimulent l'amygdale. Organiser son cours de journée par écrit active l'<strong>hippocampe</strong>, transférant les souvenirs épisodiques vers la mémoire à long terme. De plus, traduire les ressentis en mots objectifs stimule le cortex frontal, renforçant la <strong>métacognition</strong> pour s'observer à la troisième personne.",
+        "cautionTitle": "Conservez un calme contemplatif plutôt que des objectifs idéalisés",
+        "cautionDesc": "Forcer une positivité artificielle ou consigner des objectifs irréalisables crée un stress cognitif. Comme Eleanor, observez calmement les faits et vos rencontres, en consignant votre état intérieur avec légèreté.",
+        "steps": [
+          {
+            "title": "Lister calmement les faits de la journée",
+            "desc": "Ouvrez votre journal le soir et notez 3 faits objectifs (tâches accomplies ou conversations), sans prétention et axés sur les faits."
+          },
+          {
+            "title": "Associer les émotions subjectives à l'expérience",
+            "desc": "En observant les faits listés, ajoutez calmement les vagues d'émotions ressenties (gratitude, agacement, curiosité) mot à mot sans déformation."
+          },
+          {
+            "title": "Dégager 1 ligne d'action réflexive pour demain",
+            "desc": "Grâce à la réflexion du jour, inscrivez une ligne d'action concrète pour demain (ex. : « Je ne regarderai pas mon téléphone durant la réunion de demain matin »)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Que faire si mes entrées de journal semblent répétitives chaque jour ?",
+            "answer": "Même dans la routine, essayez de capturer une nuance chaque jour : une rencontre, la saveur d'un plat ou l'odeur du temps. Rechercher ces différences développe l'attention et la métacognition."
+          },
+          {
+            "question": "Est-ce aussi efficace d'utiliser des applications de journal numérique ou Notion ?",
+            "answer": "Oui ! Les outils numériques offrent les mêmes bienfaits métacognitifs pour organiser ses pensées. L'essentiel est de structurer ses pensées en phrases, que ce soit à la main ou au clavier."
+          }
+        ]
+      },
+      "de": {
+        "title": "Ein unerschütterliches Selbst durch Schreiben aufbauen: Eleanor Roosevelts abendliche Reflexionsroutine",
+        "description": "Eleanor Roosevelt, eine der einflussreichsten First Ladies Amerikas. Enthüllt ihre 27-jährige abendliche Tagebuch-Routine zur Festigung der Identität und deren metakognitive Vorteile.",
+        "authority": "Historische Biografie- und Autobiografieforschung zu Eleanor Roosevelt & Kognitive Neurowissenschaften",
+        "intro": "\"Tue jeden Tag eine Sache, die dir Angst macht.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) war eine prägende Diplomatin und First Lady der USA, die den Amerikanern während der Weltwirtschaftskrise und des Zweiten Weltkriegs Trost spendete und den Entwurf der UN-AEMR leitete. Inmitten enormer öffentlicher Belastung lag das Geheimnis ihrer Gelassenheit im nächtlichen Schreiben. ✍️\n\nVon 1935 bis zu ihrem Tod 1962 verfasste sie 27 Jahre lang an sechs Tagen die Woche eine Zeitungskolumne namens 'My Day'. Es war kein politisches Manifest, sondern ein persönliches Tagebuch mit Geschichten einfacher Bürger und eigenen Reflexionen. Indem sie abends zur Feder griff, distanzierte sie sich vom Tagesgeschehen und schaute objektiv auf ihr Inneres.\n\nIm heutigen Beitrag beleuchten wir die neurowissenschaftlichen Vorteile von Eleanor Roosevelts Tagebuchpraxis und bieten eine 3-Schritte-Methode zur Selbstreflexion.",
+        "whyTitle": "Konsolidierung des Gedächtnisses und Förderung kognitiver Metakognition",
+        "whyDesc": "Ungeordnete Tageserlebnisse überstimulieren die Amygdala und erzeugen Stress. Das Strukturieren des Tages durch Schreiben aktiviert den <strong>Hippocampus</strong> und überführt episodische Erinnerungen in das Langzeitgedächtnis. Das Übersetzen von Gefühlen in Worte fördert zudem die <strong>Metakognition</strong>, um sich aus einer 3.-Person-Perspektive zu betrachten und Impulsivität zu mildern.",
+        "cautionTitle": "Bewahren Sie eine gelassene Haltung statt idealisierter Ziele",
+        "cautionDesc": "Erzwungener Positivismus oder unerreichbare Pläne erzeugen kognitiven Stress und zerstören die Tagebuchpraxis. Blicken Sie wie Eleanor gelassen auf Fakten und Begegnungen zurück und halten Sie Ihren inneren Zustand entspannt fest.",
+        "steps": [
+          {
+            "title": "Tagesfakten gelassen auflisten",
+            "desc": "Schlagen Sie abends Ihr Tagebuch auf und schreiben Sie entspannt 3 objektive Fakten auf – Erledigtes oder Gespräche – ohne Schnörkel."
+          },
+          {
+            "title": "Subjektive Gefühle mit der Erfahrung verknüpfen",
+            "desc": "Blicken Sie auf die Fakten und fügen Sie feine Gefühlsnuancen (Dankbarkeit, Ärger, Neugier) Wort für Wort unvoreingenommen hinzu."
+          },
+          {
+            "title": "Eine 1-Zeilen-Reflexionshandlung für morgen ableiten",
+            "desc": "Schreiben Sie eine konkrete, kleine Handlungshandlung für morgen auf (z. B. 'Morgen in der Besprechung schaue ich nicht aufs Handy'), um einen Wegweiser zu setzen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was kann ich tun, wenn sich meine Tagebucheinträge jeden Tag wiederholen?",
+            "answer": "Versuchen Sie auch im Alltag, jeden Tag eine feine Nuance zu erfassen – eine Begegnung, den Geschmack des Essens oder das Wetter. Die Suche nach Unterschieden schärft die Aufmerksamkeit."
+          },
+          {
+            "question": "Ist die Nutzung von digitalen Tagebuch-Apps oder Notion genauso effektiv?",
+            "answer": "Ja! Digitale Werkzeuge bieten dieselben metakognitiven Vorteile bei der Strukturierung von Gedanken. Entscheidend ist der Prozess, innere Gedanken in Satzstrukturen zu bringen – ob per Hand oder Tastatur."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Construir um eu inabalável através da escrita: A rotina de reflexão noturna de Eleanor Roosevelt",
+        "description": "Eleanor Roosevelt, uma das Primeiras-Damas mais influentes dos EUA. Revela sua rotina de diário noturno de 27 anos que definiu sua identidade e seus benefícios metacognitivos.",
+        "authority": "Pesquisa biográfica e autobiográfica histórica sobre Eleanor Roosevelt e estudos de neurociência cognitiva",
+        "intro": "\"Faça uma coisa todos os dias que te assuste.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) foi uma figura monumental da diplomacia e Primeira-Dama dos EUA que consolou a nação durante a Grande Depressão e a Segunda Guerra Mundial, e presidiu a redação da Declaração Universal dos Direitos Humanos da ONU. Entre pressões políticas, seu segredo para manter a calma interior residia em sua escrita noturna. ✍️\n\nDe 1935 até seu falecimento em 1962 — por 27 anos —, escreveu uma coluna diária intitulada 'My Day' seis dias por semana sem falta. Não era um manifesto político, mas um diário íntimo sobre histórias de cidadãos e reflexões pessoais. Ao sentar-se à escrivaninha cada noite, distanciava-se dos eventos diários para observar objetivamente sua mente.\n\nNo post de hoje, compartilhamos os benefícios neurocientíficos da rotina de diário de Eleanor Roosevelt e oferecemos um método de escrita reflexiva em 3 passos.",
+        "whyTitle": "Consolidação da memória e promoção da metacognição cognitiva",
+        "whyDesc": "Quando experiências e emoções não são organizadas, sobreestimulam a amígdala, tornando-se memórias estressantes. Estruturar o dia através da escrita ativa o <strong>Hipocampo</strong>, transferindo memórias para o longo prazo. Além disso, traduzir emoções em palavras objetivas estimula o córtex frontal, aumentando a <strong>Metacognição</strong> para observar-se em 3ª pessoa.",
+        "cautionTitle": "Mantenha uma calma contemplativa em vez de metas idealizadas",
+        "cautionDesc": "Forçar um positivismo tóxico ou registrar planos inalcançáveis cria estresse cognitivo. Como Eleanor, revise com calma os fatos físicos e interações, registrando seu estado interno de forma natural.",
+        "steps": [
+          {
+            "title": "Listar com calma os fatos do dia",
+            "desc": "Abra seu diário à noite e escreva tranquilamente 3 fatos objetivos — tarefas concluídas ou conversas —, focando puramente em fatos."
+          },
+          {
+            "title": "Conectar emoções subjetivas com a experiência",
+            "desc": "Ao olhar para os fatos, adicione com calma sutis ondas emocionais (gratidão, irritação, curiosidade) palavra por palavra sem distorções."
+          },
+          {
+            "title": "Derivar 1 linha de ação reflexiva para amanhã",
+            "desc": "Através da reflexão de hoje, escreva uma linha de ação pequena e específica para aplicar amanhã (ex: 'Não olharei o celular na reunião de amanhã')."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O que fazer se os conteúdos do meu diário parecerem repetitivos todos os dias?",
+            "answer": "Mesmo na rotina, tente capturar uma pequena variação a cada dia — uma pessoa, o sabor da comida ou o aroma do clima. A tentativa de buscar sutilezas exercita a atenção e a metacognição."
+          },
+          {
+            "question": "É igualmente eficaz usar aplicativos de diário digital ou o Notion?",
+            "answer": "Sim! Ferramentas digitais oferecem os mesmos benefícios metacognitivos de organizar pensamentos. O essencial é visualizar os pensamentos em estrutura de frases, seja à mão ou pelo teclado."
+          }
+        ]
+      },
+      "id": {
+        "title": "Membangun Diri yang Tak Tergoyahkan Melalui Tulisan: Rutinitas Refleksi Malam Eleanor Roosevelt",
+        "description": "Eleanor Roosevelt, salah satu Ibu Negara AS paling berpengaruh. Mengungkap rutinitas jurnal malam 27 tahun yang membentuk identitas diri dan manfaat metakognitifnya.",
+        "authority": "Riset biografi sejarah dan autobiografi tentang Eleanor Roosevelt & studi Neurosains Kognitif",
+        "intro": "\"Lakukan satu hal setiap hari yang menakutkan Anda.\" 🚶‍♂️\n\nEleanor Roosevelt (1884–1962) adalah diplomat monumental dan Ibu Negara AS yang memberi penghiburan bagi rakyat Amerika selama Depresi Besar dan Perang Dunia II serta memimpin penyusunan Deklarasi Universal Hak Asasi Manusia PBB. Di tengah tekanan politik, rahasianya menjaga kedamaian batin terletak pada tulisan malamnya. ✍️\n\nDari tahun 1935 hingga wafatnya pada 1962—selama 27 tahun—ia menulis kolom surat kabar harian 'My Day' enam hari seminggu tanpa henti. Ini bukan manifesto politik, melainkan jurnal pribadi berisi kisah warga biasa dan refleksi pribadinya. Duduk di meja kerja setiap malam memungkinkannya mengambil jarak dari peristiwa harian dan mengamati pikirannya secara objektif.\n\nDalam artikel hari ini, kami membagikan manfaat neurosains dari rutinitas jurnal Eleanor Roosevelt dan menyajikan metode tulisan reflektif 3 langkah.",
+        "whyTitle": "Konsolidasi Memori Jangka Panjang dan Peningkatan Metakognisi Kognitif",
+        "whyDesc": "Saat pengalaman dan emosi harian dibiarkan berantakan, itu akan merangsang amigdala dan menjadi memori stres. Membagikan alur hari melalui tulisan mengaktifkan <strong>Hipokampus</strong>, memindahkan memori episodik ke memori jangka panjang yang stabil. Menerjemahkan emosi ke dalam kata-kata objektif juga menstimulasi korteks frontal, meningkatkan <strong>Metakognisi</strong> untuk melihat diri dari sudut pandang orang ketiga.",
+        "cautionTitle": "Pertahankan Ketenangan Kontemplatif Dibandingkan Target Ideal",
+        "cautionDesc": "Memaksa kepositifan palsu atau mencatat rencana yang berat dan tidak realistis justru menciptakan stres kognitif. Seperti Eleanor, tinjau fakta fisik dan orang yang ditemui secara tenang, mencatat kondisi batin secara alami tanpa beban.",
+        "steps": [
+          {
+            "title": "Daftarkan Fakta Harian Secara Calma",
+            "desc": "Buka jurnal Anda di malam hari dan tuliskan 3 fakta objektif secara nyaman—tugas yang diselesaikan atau percakapan—berfokus pada fakta tanpa kepura-puraan."
+          },
+          {
+            "title": "Hubungkan Emosi Subjektif dengan Pengalaman",
+            "desc": "Melihat fakta yang terdaftar, tambahkan gelombang emosi halus yang dirasakan (rasa syukur, kejengkelan, rasa ingin tahu) kata demi kata tanpa distorsi."
+          },
+          {
+            "title": "Tarik 1 Baris Tindakan Reflektif untuk Besok",
+            "desc": "Melalui refleksi hari ini, tuliskan satu baris umpan balik tindakan spesifik untuk diterapkan besok (misalnya: 'Saya tidak akan melihat ponsel selama rapat pagi besok') untuk menancapkan petunjuk bagi otak."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana jika isi jurnal harian terasa berulang setiap hari?",
+            "answer": "Meskipun rutinitas berulang, cobalah menangkap satu variasi kecil setiap hari—orang yang ditemui, rasa makanan, atau aroma cuaca. Upaya menemukan perbedaan halus itu sendiri melatih perhatian dan metakognisi otak."
+          },
+          {
+            "question": "Apakah sama efektifnya jika menggunakan aplikasi jurnal digital atau Notion?",
+            "answer": "Ya! Alat mengetik memberikan manfaat metakognitif yang sama dalam mengorganisasi dan mengeksternalisasi pikiran. Faktor pentingnya adalah memvisualisasikan pikiran ke dalam struktur kalimat yang jelas."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "일기를 매일 쓰다 보니 쓸 내용이 매번 똑같은데 어떻게 하죠?",
-          "en": "What if my daily journal entries feel repetitive every day?",
-          "ja": "日記を毎日書いていると、書く内容が毎回同じになってしまうのですが、どうすればよいですか？",
-          "zh": "如果每天写日志觉得内容千篇一律该怎么办？",
-          "es": "¿Qué hago si el contenido de mi diario se siente repetitivo todos los días?",
-          "de": "Was kann ich tun, wenn sich meine Tagebucheinträge jeden Tag wiederholen?",
-          "fr": "Que faire si mes entrées de journal semblent répétitives chaque jour ?",
-          "pt": "O que fazer se os conteúdos do meu diário parecerem repetitivos todos os dias?",
-          "id": "Bagaimana jika isi jurnal harian terasa berulang setiap hari?"
-        },
-        "answer": {
-          "ko": "일상이 반복되더라도 그 안에서 마주하는 인물, 음식의 맛, 날씨의 냄새 등 매일의 미세한 변화를 한 가지씩 포착해 보십시오. 미세한 다른 점을 찾는 시도 자체가 두뇌의 주의력을 발달시키고 메타인지를 훈련하는 훌륭한 뇌 연습이 됩니다.",
-          "en": "Even in routine days, try capturing one tiny variation each day—a person encountered, taste of food, or scent of weather. The attempt to find subtle differences itself develops brain attention and trains metacognition.",
-          "ja": "日常が反復されても、その中で出会う人物、食べ物の味、天気の匂いなど、毎日の微細な変化を一つずつ捉えてみてください。微細な違いを探す試み自体が脳の注意力を発達させ、メタ認知を訓練する素晴らしい脳トレになります。",
-          "zh": "即使日常生活重复，也请尝试捕捉其中微小的不同——遇到的面孔、食物的味道或天气的气味。寻找微妙差异的尝试本身就是锻炼大脑注意力与训练元认知的卓越实践。",
-          "es": "Incluso en días rutinarios, intente capturar una pequeña variación diaria: una persona, el sabor de la comida o el olor del clima. El intento de buscar sutilezas ejercita la atención y entrena la metacognición.",
-          "de": "Versuchen Sie auch im Alltag, jeden Tag eine feine Nuance zu erfassen – eine Begegnung, den Geschmack des Essens oder das Wetter. Die Suche nach Unterschieden schärft die Aufmerksamkeit.",
-          "fr": "Même dans la routine, essayez de capturer une nuance chaque jour : une rencontre, la saveur d'un plat ou l'odeur du temps. Rechercher ces différences développe l'attention et la métacognition.",
-          "pt": "Mesmo na rotina, tente capturar uma pequena variação a cada dia — uma pessoa, o sabor da comida ou o aroma do clima. A tentativa de buscar sutilezas exercita a atenção e a metacognição.",
-          "id": "Meskipun rutinitas berulang, cobalah menangkap satu variasi kecil setiap hari—orang yang ditemui, rasa makanan, atau aroma cuaca. Upaya menemukan perbedaan halus itu sendiri melatih perhatian dan metakognisi otak."
-        }
-      },
-      {
-        "question": {
-          "ko": "디지털 일기장 앱이나 노션(Notion)에 입력해도 효과가 있나요?",
-          "en": "Is it equally effective to use digital journaling apps or Notion?",
-          "ja": "デジタル日記アプリやNotionに入力しても効果はありますか？",
-          "zh": "使用数字日志应用或Notion记录具有相同的效果吗？",
-          "es": "¿Es igualmente efectivo usar aplicaciones de diario digital o Notion?",
-          "de": "Ist die Nutzung von digitalen Tagebuch-Apps oder Notion genauso effektiv?",
-          "fr": "Est-ce aussi efficace d'utiliser des applications de journal numérique ou Notion ?",
-          "pt": "É igualmente eficaz usar aplicativos de diário digital ou o Notion?",
-          "id": "Apakah sama efektifnya jika menggunakan aplikasi jurnal digital atau Notion?"
-        },
-        "answer": {
-          "ko": "네, 타이핑 도구를 활용해도 생각을 정리하고 외재화하는 메타인지적 효과는 동일하게 누릴 수 있습니다. 중요한 것은 손이든 자판이든 내면의 생각을 문장 구조로 명확히 시각화하는 과정 그 자체입니다.",
-          "en": "Yes! Typing tools offer the same metacognitive benefits of organizing and externalizing thoughts. The essential factor is clearly visualizing inner thoughts into sentence structure, whether by hand or keyboard.",
-          "ja": "はい！タイピングツールを活用しても、考えを整理して外在化するメタ認知的な効果は同様に享受できます。重要なのは手書きであれキーボードであれ、内面の考えを文章構造として明確に視覚化するプロセスそのものです。",
-          "zh": "是的！使用打字工具同样能获得梳理并外化思想的元认知效果。核心关键在于，无论用手写还是键盘，将内心想法转化为明确的语句结构并使其视觉化的过程本身。",
-          "es": "¡Sí! Las herramientas digitales ofrecen los mismos beneficios metacognitivos de organizar y externalizar pensamientos. Lo esencial es visualizar pensamientos en estructura de oraciones, sea a mano o teclado.",
-          "de": "Ja! Digitale Werkzeuge bieten dieselben metakognitiven Vorteile bei der Strukturierung von Gedanken. Entscheidend ist der Prozess, innere Gedanken in Satzstrukturen zu bringen – ob per Hand oder Tastatur.",
-          "fr": "Oui ! Les outils numériques offrent les mêmes bienfaits métacognitifs pour organiser ses pensées. L'essentiel est de structurer ses pensées en phrases, que ce soit à la main ou au clavier.",
-          "pt": "Sim! Ferramentas digitais oferecem os mesmos benefícios metacognitivos de organizar pensamentos. O essencial é visualizar os pensamentos em estrutura de frases, seja à mão ou pelo teclado.",
-          "id": "Ya! Alat mengetik memberikan manfaat metakognitif yang sama dalam mengorganisasi dan mengeksternalisasi pikiran. Faktor pentingnya adalah memvisualisasikan pikiran ke dalam struktur kalimat yang jelas."
-        }
-      }
-    ]
+    }
   }
 }

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "16,000個の番号：マイケル・ファラデーの精密ノート整理法と知識外在化ルーティン"
 description: "生涯16,000個を超える実験項目に番号を振って記録した物理学者マイケル・ファラデー。記録の徹底した外在化が脳の認知負荷を減らし、作業記憶と深い没頭を極大化する認知神経科学的原理を解き明かします。"
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「faraday-numbered-notebook」は <strong>マイケル・ファラデー実験日誌『ファラデー・ダイアリー（Michael Faraday's Diary, ed. Thomas Martin / Frank A.J.L. James）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マイケル・ファラデー実験日誌『ファラデー・ダイアリー（Michael Faraday's Diary, ed. Thomas Martin / Frank A.J.L. James）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 記録のインデックス化と知識外在化が脳の作業記憶に及ぼす影響
+## 1. 記録のインデックス化と知識外在化が脳の作業記憶に及ぼす影響
 
 脳の<strong>作業記憶（Working Memory）</strong>空間は容量が非常に限られています。情報を体系なく無作為に散らかしたり頭の中にだけ詰め込んでおくと、認知負荷が急増して分析能力が低下します。しかしファラデーのようにノートを徹底的に番号化しインデックス化する<strong>「知識外在化（Cognitive Offloading）」</strong>を定着させると、脳は不必要な検索演算エネルギーを劇的に節約できます。脳は物理的知識を外部ストレージにオフロードし、残りの活性認知資源をメインの複合推論作業に完全に集中させます。
 
 ---
 
-## 注意事項：記録の量より検索可能性（Searchability）を確保するルール
-
-注意すべき点は、単に書く量を増やすことよりも知識の検索可能性を確保しなければならないという点です。何の分類基準もなく無条件に多くの量を書き写すだけの形態の記録は、かえってデジタル/物理的なゴミを量産し認知混乱を増加させます。したがってノートを作成した後は、必ず1ページにインデックス（目次）を構成するか、日付および核心タグをマッピングして、後で3秒以内に探せるようシステム化してこそ効果的です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：記録の量より検索可能性（Searchability）を確保するルール
+
+注意すべき点は、単に書く量を増やすことよりも知識の検索可能性を確保しなければならないという点です。何の分類基準もなく無条件に多くの量を書き写すだけの形態の記録は、かえってデジタル/物理的なゴミを量産し認知混乱を増加させます。したがってノートを作成した後は、必ず1ページにインデックス（目次）を構成するか、日付および核心タグをマッピングして、後で3秒以内に探せるようシステム化してこそ効果的です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>デジタルメモアプリを使用していますが、アナログの番号化は有用ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、デジタル環境でも固有番号を振って記録すれば強力な効果を発揮します。デジタル検索機能は正確な単語が思い浮かばないと限界がありますが、固有番号（例：#042）で知識を固定すると、相互参照リンク（Backlink）を構築したり、他の文書から知識の文脈を簡潔に引き出してくるインデックス住所として活用できるため、むしろデジタル生産性が極大化します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>日常の記録、プロジェクト業務、個人のインスピレーションが混ざる時、番号付けはどのようにすればよいですか？</span>

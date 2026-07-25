@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El método de enfoque Timebox de Bertrand Russell"
 description: "El filósofo galardonado con el Premio Nobel de Literatura Bertrand Russell. Descubra su sabiduría para maximizar la eficiencia sumergiéndose en un entorno completamente aislado durante exactamente tres horas cada mañana, y las prácticas de Trabajo Profundo para las personas modernas."
 pubDate: "2026-04-02"
@@ -38,14 +39,14 @@ La publicación de hoy examina la ciencia cerebral detrás de la rutina de lími
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre russell-three-hour-focus se basa en <strong>Investigación basada en biografías históricas y autobiografías de Bertrand Russell y estudios de Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación basada en biografías históricas y autobiografías de Bertrand Russell y estudios de Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El 'efecto Timeboxing' que comprime la densidad de concentración
+## 1. El 'efecto Timeboxing' que comprime la densidad de concentración
 
 La mayoría de las personas se atrapan en el marco de una jornada laboral de 8 horas. Sin embargo, la ciencia cerebral demuestra que el límite máximo para que la corteza cerebral ejerza el 100% de energía en lógica y creatividad es de solo 3 a 4 horas al día. Establecer jornadas más largas hace que el cerebro pierda tensión, desperdiciando atención en revisar el teléfono o navegar por internet, aumentando la fatiga cognitiva.
 
@@ -53,9 +54,7 @@ La rutina de 3 horas de Bertrand Russell aprovechó la Ley de Parkinson (el trab
 
 ---
 
-## La inspiración surge de una penetración estrecha y profunda, no de largas horas
-
-Para el gran pensador Russell, 3 horas de enfoque concentrado eran decenas de veces más potentes que estar sentado pasivamente todo el día con la atención dispersa. Si pasa todo el día frente a la computadora agotado y sin resultados, intente establecer una barrera de hierro durante exactamente 3 horas al día como Russell para penetrar su tarea clave. La libertad en el resto de su vida aumentará.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Para el gran pensador Russell, 3 horas de enfoque concentrado eran decenas de ve
   </p>
 </div>
 
+---
+
+## 3. La inspiración surge de una penetración estrecha y profunda, no de largas horas
+
+Para el gran pensador Russell, 3 horas de enfoque concentrado eran decenas de veces más potentes que estar sentado pasivamente todo el día con la atención dispersa. Si pasa todo el día frente a la computadora agotado y sin resultados, intente establecer una barrera de hierro durante exactamente 3 horas al día como Russell para penetrar su tarea clave. La libertad en el resto de su vida aumentará.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿No es un problema si no respondo mensajes durante 3 horas en el trabajo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Para el gran pensador Russell, 3 horas de enfoque concentrado eran decenas de ve
       Por supuesto, la desconexión total de 3 horas puede ser difícil en un entorno laboral convencional. En tales casos, dividir el tiempo en bloques de '90 minutos de enfoque y descanso total' (p. ej., 1,5 horas por la mañana y 1,5 horas por la tarde) seguirá ayudando enormemente a preservar la eficiencia cerebral.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo continuar con tareas más ligeras por la tarde después del bloque de enfoque de 3 horas?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Upside-Down Inspiration: Igor Stravinsky's Headstand Creativity Routine"
 description: "Musician Igor Stravinsky did headstands whenever he faced writer's block while composing. Explore the scientific principles of how changing physical posture increases brain blood flow and creates creative breakthroughs."
 pubDate: "2026-01-01"
@@ -36,22 +37,20 @@ In this post, we uncover the mechanics of Stravinsky's headstand routine and pro
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding stravinsky-headstand-composition is based on <strong>Historical Autobiography of Igor Stravinsky & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Historical Autobiography of Igor Stravinsky & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## How Headstands Reset Cerebral Blood Flow and Vestibular Senses
+## 1. How Headstands Reset Cerebral Blood Flow and Vestibular Senses
 
 When your brain is stuck on a single thought, vertically inverting your posture triggers two neuroscientific changes: First, gravity directs increased blood flow to the head, delivering an immediate rush of oxygen and nutrients to the frontal lobe. Second, the inner ear's vestibular system detects an unfamiliar gravitational signal, awakening spatial orientation networks in the cerebellum and cerebral cortex. This releases rigid attention filters and encourages creative association.
 
 ---
 
-## Precautions & Tips
-
-If you have neck or blood pressure issues, substitute a full headstand with a gentle half-inversion, such as resting your legs on a chair or wall. Keep the duration under 1 minute so cerebral blood pressure can adapt, and after finishing, lie prone for 30 seconds before slowly standing up.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ If you have neck or blood pressure issues, substitute a full headstand with a ge
     Carefully lower your feet and lie prone for 30 seconds instead of standing up immediately. Then sit on a chair and focus on the feeling of mental clarity and shifted perspective.
   </p>
 </div>
+
+---
+
+## 3. Precautions & Tips
+
+If you have neck or blood pressure issues, substitute a full headstand with a gentle half-inversion, such as resting your legs on a chair or wall. Keep the duration under 1 minute so cerebral blood pressure can adapt, and after finishing, lie prone for 30 seconds before slowly standing up.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

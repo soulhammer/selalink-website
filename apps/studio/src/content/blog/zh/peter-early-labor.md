@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "手脑合一的知识永不遗忘：彼得大帝的程序性记忆训练法"
 description: "探索化身造船木工的改革君主彼得大帝的清晨技能实践习惯。通过刺激大脑程序性记忆永久掌握技能的三步行动指南。"
 pubDate: "2026-03-18"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 peter-early-labor 的内容基于 <strong>Peter Early Labor 历史传记与自传记录考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>Peter Early Labor 历史传记与自传记录考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 激活永久记忆的“程序性记忆机制”
+## 1. 激活永久记忆的“程序性记忆机制”
 
 在认知神经科学中，记忆分为可以阐述概念的陈述性记忆（Declarative Memory）和由肌肉细胞与神经直接记忆的程序性记忆（Procedural Memory）。彼得大帝在清晨执行的实践例程激活了通过小脑（Cerebellum）与基底核（Basal Ganglia）在大脑中形成强印记的程序性记忆机制。
 
 ---
 
-## 理论与实操的平衡调节
-
-盲目地只动动手指而完全忽视理论学习（陈述性记忆装载）会阻碍进步。手部操作实践应与预先细读的“原理基础学习”成对称呼应。先花20%的时间浏览理论背景，再将剩余80%的精力投入到手部和感觉的实操中，才能最大化程序性记忆的效果。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     在剩下的20 ~ 30分钟里，高度协调手指与眼睛，将知识印刻进小脑回路中。即使出错也不要停下，保持手部操作的流动感（Flow）。
   </p>
 </div>
+
+---
+
+## 3. 理论与实操的平衡调节
+
+盲目地只动动手指而完全忽视理论学习（陈述性记忆装载）会阻碍进步。手部操作实践应与预先细读的“原理基础学习”成对称呼应。先花20%的时间浏览理论背景，再将剩余80%的精力投入到手部和感觉的实操中，才能最大化程序性记忆的效果。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

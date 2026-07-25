@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "세네카의 저녁 자아 성찰: 평화로운 숙면과 어제의 실수를 교정하는 법"
 description: "철학자 세네카가 취침 전 어두운 방에서 하루를 심판하고 성찰하며 뇌의 긴장을 완화하고 수면 질을 높인 비법을 소개합니다."
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>세네카 '분노에 대하여(De Ira)' 저작 고증 및 스토아 철학 서적 연구 & 인지신경과학 수면 생리학</strong>에 근거하여 seneca-evening-review 루틴을 다룹니다.
+      본 콘텐츠는 <strong>세네카 '분노에 대하여(De Ira)' 저작 고증 및 스토아 철학 서적 연구 & 인지신경과학 수면 생리학</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 저녁 성찰이 뇌를 수면 모드로 전환하는 생리적 이유
+## 1. 저녁 성찰이 뇌를 수면 모드로 전환하는 생리적 이유
 
 해결되지 않은 불안과 스트레스를 품은 채 잠자리에 들면 교감 신경계가 계속 활성 상태로 남아 있어 뇌가 수면 중에도 각성하게 되고 깊은 잠을 방해받습니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 자책과 후회라는 함정 피하기
-
-저녁 성찰의 본질은 이성적인 개선책 마련이지, 감정적인 자책과 자학이 아닙니다. 자신의 잘못이나 나약한 행동을 마주했을 때 감정적인 비난을 늘어놓는 것은 수면을 더 방해할 뿐입니다. '잘못했으나 원인을 알았으니 내일 고치겠다'라며 자신을 용서하세요. 이는 재판관처럼 객관적이고 담담한 분석이어야 합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     오늘 저지른 가장 아쉬운 대처 하나를 골라, 내일 동일한 상황이 오면 어떻게 바르게 행동할지 구체적 개선안 한 가지를 확정합니다. 개선 방안을 세웠다면 '오늘 할 일은 이것으로 완결되었다'고 외치며 모든 생각을 끊습니다.
   </p>
 </div>
+
+---
+
+## 3. 자책과 후회라는 함정 피하기
+
+저녁 성찰의 본질은 이성적인 개선책 마련이지, 감정적인 자책과 자학이 아닙니다. 자신의 잘못이나 나약한 행동을 마주했을 때 감정적인 비난을 늘어놓는 것은 수면을 더 방해할 뿐입니다. '잘못했으나 원인을 알았으니 내일 고치겠다'라며 자신을 용서하세요. 이는 재판관처럼 객관적이고 담담한 분석이어야 합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

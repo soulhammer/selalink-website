@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le compositeur qui résolvait ses dilemmes lors de promenades côtières l'après-midi : La routine de libération cérébrale de Benjamin Britten"
 description: "Découvrez comment Benjamin Britten, géant de la musique britannique du XXe siècle, arpentait la côte chaque après-midi pour affiner les structures musicales conçues pendant la matinée, et explorez les principes neuroscientifiques de la Théorie de la Restauration de l'Attention (ART) et de l'intégration cognitive via le DMN."
 pubDate: "2026-04-22"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant britten-afternoon-walk est basée sur <strong>Vérification Historique issue de la biographie de Humphrey Carpenter *Benjamin Britten: A Biography* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Humphrey Carpenter *Benjamin Britten: A Biography* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mécanisme d'intégration cognitive via la Théorie de la Restauration de l'Attention (ART) et l'activation du DMN
+## 1. Mécanisme d'intégration cognitive via la Théorie de la Restauration de l'Attention (ART) et l'activation du DMN
 
 Les cerveaux engagés dans des calculs ou créations intenses pendant les sessions matinales activent le Réseau Exécutif Central (CEN), consommant du glucose et entrant dans un état de « Fatigue Attentionnelle ». Selon la Théorie de la Restauration de l'Attention (ART) en psychologie environnementale, marcher en plein air au milieu d'éléments de « Douce Fascination (Soft Fascination) » — comme le bruit des vagues ou le frémissement des feuilles — détend les réseaux de contrôle attentionnel préfrontaux. Durant cette phase réparatrice, le réseau en mode par défaut (DMN) s'active, réalisant une « Intégration Cognitive » en organisant, transférant et recombinant inconsciemment les informations fragmentées. Britten a utilisé ses promenades pour évacuer la fatigue cognitive et libérer le raisonnement subconscient.
 
 ---
 
-## Précautions & Conseils : Distinguer la consommation passive d'écrans de la relaxation neuronale active
-
-S'allonger sur un lit pour regarder des vidéos courtes sur un smartphone quand on est fatigué n'est nullement un « repos » neurologique. Bien que le corps soit immobile, le cortex visuel et les circuits de récompense de la dopamine consomment de l'attention en décodant le flux vidéo, ce qui aggrave l'épuisement préfrontal. Le véritable repos scientifique qui réinitialise les ressources préfrontales exige de couper totalement les entrées numériques et de marcher en plein air au cœur de la nature, comme le faisait Britten.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ S'allonger sur un lit pour regarder des vidéos courtes sur un smartphone quand 
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Distinguer la consommation passive d'écrans de la relaxation neuronale active
+
+S'allonger sur un lit pour regarder des vidéos courtes sur un smartphone quand on est fatigué n'est nullement un « repos » neurologique. Bien que le corps soit immobile, le cortex visuel et les circuits de récompense de la dopamine consomment de l'attention en décodant le flux vidéo, ce qui aggrave l'épuisement préfrontal. Le véritable repos scientifique qui réinitialise les ressources préfrontales exige de couper totalement les entrées numériques et de marcher en plein air au cœur de la nature, comme le faisait Britten.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quelles caractéristiques géographiques définissaient le sentier côtier d'Aldeburgh où Britten se promenait ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ S'allonger sur un lit pour regarder des vidéos courtes sur un smartphone quand 
       Située dans le Suffolk sur la côte est de l'Angleterre, Aldeburgh est une plage de galets polis. Les vagues roulant sur les galets créent un son rythmique et résonnant, tandis que le vaste horizon offre une libération visuelle au cortex préfrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Marcher dans un environnement urbain au milieu des gratte-ciel offre-t-il des bénéfices similaires ?</span>

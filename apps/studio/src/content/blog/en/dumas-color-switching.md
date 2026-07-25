@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Genius Who Color-Coded Manuscript Paper by Genre: Alexandre Dumas's Color Reset Routine and Visual Priming"
 description: "Discover how Alexandre Dumas, author of 'The Count of Monte Cristo', used different colored manuscript paper for each genre to prevent mental fatigue. Explore the cognitive neuroscience of color priming, switching costs, and working memory preservation."
 pubDate: "2026-06-07"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Alexandre Dumas's 'colo
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding dumas-color-switching is based on <strong>Historical Verification from Alexandre Dumas's Autobiography *Mes Mémoires* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Alexandre Dumas's Autobiography *Mes Mémoires* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Offsetting Task-Switching Costs via the 'Color Priming Effect'
+## 1. Offsetting Task-Switching Costs via the 'Color Priming Effect'
 
 When switching rapidly between distinct cognitive tasks—such as strategic writing, quantitative financial analysis, or creative brainstorming—the brain incurs significant 'Task-Switching Costs'. This lag occurs because 'Cognitive Residue' from the previous task occupies working memory in the prefrontal cortex, degrading execution efficiency. Alexandre Dumas's color-coding method is a masterclass in 'Visual Color Priming'. The instant the visual cortex detects a color strongly associated with a specific cognitive domain (e.g., blue paper for narrative fiction), it signals prefrontal networks to purge cognitive residue from the prior activity. This rapid neural contextual realignment minimizes switching friction and preserves working memory capacity.
 
 ---
 
-## Caution & Tips: Establishing Clear Visual Boundaries & Simplifying Categories
-
-For Dumas, colored paper was not a decorative gimmick, but an external neural prompt that defined rigid cognitive boundaries to erase switching friction. Avoid over-complicating this system with too many colors; assigning more than 3 active color themes prevents the brain from establishing strong associative learning and causes visual confusion. Keep your macro-task categories strictly to 3 or fewer, and maintain the assigned visual color themes consistently over time to build reliable neurological conditioning.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ For Dumas, colored paper was not a decorative gimmick, but an external neural pr
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Establishing Clear Visual Boundaries & Simplifying Categories
+
+For Dumas, colored paper was not a decorative gimmick, but an external neural prompt that defined rigid cognitive boundaries to erase switching friction. Avoid over-complicating this system with too many colors; assigning more than 3 active color themes prevents the brain from establishing strong associative learning and causes visual confusion. Keep your macro-task categories strictly to 3 or fewer, and maintain the assigned visual color themes consistently over time to build reliable neurological conditioning.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does digital color-coding (Notion themes, tablet apps, browser themes) offer the same priming effect as analog paper?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ For Dumas, colored paper was not a decorative gimmick, but an external neural pr
       Yes, absolutely. The underlying mechanism depends on sensory conditioning between visual hue input and specific cognitive states, regardless of paper texture. Setting distinct canvas background themes in tablet apps, customized folder tag colors in Notion, or unique Chrome profile UI themes delivers identical neural priming signals to the prefrontal cortex.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Will assigning too many color variations trigger reverse cognitive overload or confusion?</span>

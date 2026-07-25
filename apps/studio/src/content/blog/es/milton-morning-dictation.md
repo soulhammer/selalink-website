@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A las 4 a.m., ¿cómo dictó un poeta ciego 'El paraíso perdido'? La meditación matutina en silencio de John Milton"
 description: "Descubra la rutina de meditación a las 4 a.m. de John Milton, quien compuso poesía épica a pesar de la ceguera total. Vea cómo bloquear la información visual maximiza la memoria de trabajo."
 pubDate: "2026-04-09"
@@ -36,22 +37,20 @@ En este artículo, analizamos los principios neurocientíficos de la desconexió
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre milton-morning-dictation se basa en <strong>Investigación de biografías históricas y registros autobiográficos de John Milton e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de biografías históricas y registros autobiográficos de John Milton e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Poder cognitivo del enfoque silencioso: Maximizando la capacidad cerebral mediante el bloqueo visual
+## 1. Poder cognitivo del enfoque silencioso: Maximizando la capacidad cerebral mediante el bloqueo visual
 
 Según estudios neurocientíficos, el procesamiento de información visual consume más del 50% de los recursos sensoriales del cerebro. Al bloquear la entrada visual, el cerebro reasigna estas redes neurales no utilizadas hacia la memoria de trabajo y la construcción del lenguaje. La rutina de Milton de permanecer en la oscuridad al amanecer maximizaba la memoria de trabajo del lóbulo frontal, reteniendo metáforas complejas y oraciones largas sin distorsión.
 
 ---
 
-## Controle los estímulos externos matutinos para lograr una inmersión profunda
-
-Para John Milton, la oscuridad del amanecer no era una limitación, sino un lienzo sagrado para la creación. Al postergar los estímulos externos y las tareas insignificantes para concentrarse en su voz interior, creó obras inmortales. En lugar de revisar correos o redes sociales nada más despertar, regale a su cerebro un tiempo de quietud para pensar profundamente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Para John Milton, la oscuridad del amanecer no era una limitación, sino un lien
     Tan pronto como termine de estructurar sus ideas, tome un bolígrafo para anotarlas o use una grabadora de voz para pasarlas a texto. Transfiera sus ideas a un medio físico para liberar espacio mental.
   </p>
 </div>
+
+---
+
+## 3. Controle los estímulos externos matutinos para lograr una inmersión profunda
+
+Para John Milton, la oscuridad del amanecer no era una limitación, sino un lienzo sagrado para la creación. Al postergar los estímulos externos y las tareas insignificantes para concentrarse en su voz interior, creó obras inmortales. En lugar de revisar correos o redes sociales nada más despertar, regale a su cerebro un tiempo de quietud para pensar profundamente.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "漫步漫长运河桥畔记录交响乐谱的天才？安东尼奥·维瓦尔第的灵感捕捉常规"
 description: "巴洛克音乐巨匠安东尼奥·维瓦尔第创作了包括《四季》在内的500多部协奏曲。探索他在清晨运河散步后快速记录灵感的脑科学原理与三步实践指南。"
 pubDate: "2026-06-24"
@@ -18,7 +19,7 @@ steps:
     text: "记录完成后，趁着头脑中的余感尚未散去，用10分钟时间将原始笔记精炼整理为结构完整的提纲或初稿。"
 faqs:
   - question: "走路时匆忙写的笔记过后复盘发现看不懂，该怎么办？"
-    answer: "养成在捕捉灵感后1~2小时内及时复盘并补充为提纲句子的习惯非常重要。尽量缩短记录与精炼整理之间的时间间隔，以保留感官残像。"
+    answer: "养成在捕捉灵感后1 ~ 2小时内及时复盘并补充为提纲句子的习惯非常重要。尽量缩短记录与精炼整理之间的时间间隔，以保留感官残像。"
   - question: "在公共场所录制语音备忘录时觉得旁人目光尴尬，有什么好方法吗？"
     answer: "戴上耳机，像正在与某人打电话一样自然地轻声低语录音，这样完全不会吸引旁人目光，能舒适自如地捕捉灵感。"
 ---
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 vivaldi-composition-walk 的内容基于 <strong>安东尼奥·维瓦尔第历史传记与考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>安东尼奥·维瓦尔第历史传记与考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 感官刺激输入与瞬时灵感的快速外化（Speed of Capture）机制
+## 1. 感官刺激输入与瞬时灵感的快速外化（Speed of Capture）机制
 
 漫步于晨曦清冷空气中所获得的物理感官刺激，能清新唤醒大脑的视觉与听觉皮层，激发工作记忆中潜伏的联想网络。然而，闪现的创意灵感在前额叶工作记忆中的保留时间极短，往往在1 ~ 2分钟内就会迅速挥发殆尽。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 捕捉灵感时谨防完美主义审视与拖延行为
-
-当你理智地审视“这个灵感真的有用吗？”并犹豫要不记录时，大脑就会瞬间遗忘灵感。在初始捕捉阶段，无需判断好坏，哪怕再幼稚的灵感也请100%如实倾倒在纸面上。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 捕捉灵感时谨防完美主义审视与拖延行为
+
+当你理智地审视“这个灵感真的有用吗？”并犹豫要不记录时，大脑就会瞬间遗忘灵感。在初始捕捉阶段，无需判断好坏，哪怕再幼稚的灵感也请100%如实倾倒在纸面上。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>走路时匆忙写的笔记过后复盘发现看不懂，该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       养成在捕捉灵感后1 ~ 2小时内及时复盘并补充为提纲句子的习惯非常重要。尽量缩短记录与精炼整理之间的时间间隔，以保留感官残像。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在公共场所录制语音备忘录时觉得旁人目光尴尬，有什么好方法吗？</span>

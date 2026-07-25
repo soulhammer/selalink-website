@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "極度のストレスを空ける筆先？李舜臣（イ・スンシン）将軍の内省日記ルーティン"
 description: "朝鮮の救国英雄・李舜臣将軍。戦場の極度の重圧と内面の煩悶を克服し、不敗の神話を打ち立てた秘訣である「内省日記（乱中日記）」の認知心理学的効果と3段階の感情整理ルーティンを紹介します。"
 pubDate: "2026-06-29"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「yisunshin-war-diary」は <strong>李舜臣将軍の歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>李舜臣将軍の歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 表現的ライティングによる感情の浄化および扁桃体の鎮静効果
+## 1. 表現的ライティングによる感情の浄化および扁桃体の鎮静効果
 
 極度の恐れや無念さといった否定的な感情に直面したとき、脳の恐怖の中枢である<strong>扁桃体（Amygdala）</strong>は極度に過熱します。この状態では、理知的な判断と意志力を司る前頭葉の機能が麻痺します。認知心理学の研究によると、このような無定形の感情状態を手書きのテキストに移して具体的に構造化する<strong>「表現的ライティング（Expressive Writing）」</strong>は、扁桃体の異常な活性化を強制的に鎮静させます。感情に名前を付け、客観的な事実として整列させる書く行動を通じて、脳は統制不可能だった状況を統制可能な範囲として認識し、認知資源を即座に解放してストレス回復力を強力に発揮します。
 
 ---
 
-## 他人の評価を意識せず、只自分だけのための真実を書いてください
-
-内省日記の感情浄化効果を100%享受するには、他人の目を全く気にしないことが重要です。「誰かが日記帳を見たらどうしよう」という懸念で文章を整えたり検閲して書き始めると、扁桃体をリラックスさせる客観化メカニズムは機能しません。李舜臣将軍が自身の恐れや憤り、煩悶を加減なく筆先で表出したように、自分だけが読める最も密やかな記録空間で自分自身に徹底的に正直になってこそ、初めて認知的な圧迫が解消されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 他人の評価を意識せず、只自分だけのための真実を書いてください
+
+内省日記の感情浄化効果を100%享受するには、他人の目を全く気にしないことが重要です。「誰かが日記帳を見たらどうしよう」という懸念で文章を整えたり検閲して書き始めると、扁桃体をリラックスさせる客観化メカニズムは機能しません。李舜臣将軍が自身の恐れや憤り、煩悶を加減なく筆先で表出したように、自分だけが読める最も密やかな記録空間で自分自身に徹底的に正直になってこそ、初めて認知的な圧迫が解消されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>毎日書く内容がなかったり、書く時間が不足している場合はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       長く書く必要はありません。わずか3行書くだけで十分です。「今日一番自分を疲れさせた一つのこと」「その時感じた自分の感情」「その中で明日自分が正せる一つのこと」だけを整理して書いても、脳の感情客観化メカニズムは同様に作動します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>スマートフォンの日記アプリやタイピングで作成するのも効果は同じですか？</span>

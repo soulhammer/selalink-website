@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Despertando el Deletreo en la Palma en la Oscuridad: La Rutina de Entrenamiento de Imitación Táctil y Plasticidad Somatosensorial de Helen Keller"
 description: "Descubra cómo Helen Keller, quien superó la sordoceguera para convertirse en una escritora y activista de derechos humanos de fama mundial, expandió su universo interior estimulando su corteza somatosensorial mediante el deletreo táctil en la palma. Explore la neuroplasticidad cruzada."
 pubDate: "2026-03-12"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre helen-keller se basa en <strong>Verificación Histórica de la Autobiografía de Helen Keller *La historia de mi vida (The Story of My Life)*, Archivos de la Escuela Perkins para Ciegos e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Helen Keller *La historia de mi vida (The Story of My Life)*, Archivos de la Escuela Perkins para Ciegos e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación de la Corteza Somatosensorial y Neuroplasticidad Cruzada
+## 1. Estimulación de la Corteza Somatosensorial y Neuroplasticidad Cruzada
 
 Cerrar los ojos para eliminar distracciones visuales y confiar en el mapeo táctil cutáneo intensifica la <strong>Neuroplasticidad</strong> en la <strong>Corteza Somatosensorial</strong>. A medida que la resolución táctil aumenta, el cerebro aísla patrones estructurales esenciales. Este proceso fortalece las vías sinápticas, mejorando la <strong>Metacognición</strong> y consolidando la memoria a largo plazo.
 
 ---
 
-## Precaución: Bloquee las Distracciones Visuales para Centrarse en las Trayectorias Táctiles
-
-No complique este ejercicio intentando hacer sesiones prolongadas. Lo esencial es dedicar 2 minutos con los ojos cerrados, bloqueando el ruido visual externo y concentrando la atención táctil en sus yemas y palmas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ No complique este ejercicio intentando hacer sesiones prolongadas. Lo esencial e
   </p>
 </div>
 
+---
+
+## 3. Precaución: Bloquee las Distracciones Visuales para Centrarse en las Trayectorias Táctiles
+
+No complique este ejercicio intentando hacer sesiones prolongadas. Lo esencial es dedicar 2 minutos con los ojos cerrados, bloqueando el ruido visual externo y concentrando la atención táctil en sus yemas y palmas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿El entrenamiento sensorial en las yemas de los dedos mejora directamente la memoria a largo plazo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ No complique este ejercicio intentando hacer sesiones prolongadas. Lo esencial e
       Sí, totalmente. Decodificar microtexturas táctiles requiere una coactivación sináptica más densa en los lóbulos prefrontal y parietal que procesar entradas visuales, aumentando la profundidad de la memoria.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si la piel seca reduce mi sensibilidad táctil durante la práctica?</span>

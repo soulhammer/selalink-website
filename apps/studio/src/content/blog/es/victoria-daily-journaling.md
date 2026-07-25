@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El peso del imperio y la reflexión: El hábito nocturno de escribir un diario de la Reina Victoria"
 description: "Explore el hábito de reflexión de la Reina Victoria, quien gobernó el apogee del Imperio Británico y escribió 122 volúmenes de diarios. Examina cómo la escritura expresiva a mano activa el sistema parasimpático."
 pubDate: "2026-05-07"
@@ -34,22 +35,20 @@ Desde los 13 años hasta días antes de su muerte, Victoria escribió en su diar
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre victoria-daily-journaling se basa en <strong>Biografías históricas y registros autobiográficos de la Reina Victoria e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de la Reina Victoria e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Etiquetado emocional y activación de la corteza prefrontal en la escritura expresiva
+## 1. Etiquetado emocional y activación de la corteza prefrontal en la escritura expresiva
 
 Cuando las emociones negativas abruman la mente, el sistema límbico percibe una emergencia, debilitando el control cognitivo. Escribir un diario a mano facilita la <strong>'Escritura Expresiva'</strong> y el <strong>'Etiquetado Emocional'</strong>. Poner nombre a emociones complejas atenúa la hiperactividad de la amígdala derecha mientras activa la corteza prefrontal izquierda.
 
 ---
 
-## Precauciones y consejos
-
-Al realizar una rutina de escritura expresiva, evite obsesionarse con la ortografía o el estilo literario. Sentir la presión de escribir bien hace que el cerebro perciba el diario como una tarea evaluada. La clave es verter emociones crudas libremente en el papel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Al realizar una rutina de escritura expresiva, evite obsesionarse con la ortogra
     Al cerrar el diario, declare para sí mismo 'Todas las preocupaciones de hoy quedan guardadas en estas páginas', enviando una señal de cierre cognitivo al cerebro antes de dormir.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Al realizar una rutina de escritura expresiva, evite obsesionarse con la ortografía o el estilo literario. Sentir la presión de escribir bien hace que el cerebro perciba el diario como una tarea evaluada. La clave es verter emociones crudas libremente en el papel.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

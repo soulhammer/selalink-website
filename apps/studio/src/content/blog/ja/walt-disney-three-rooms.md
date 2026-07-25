@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ウォルト・ディズニーの「3つの部屋」ルーティン：想像し、実行し、批判せよ"
 description: "創造的な空想を 巨大なビジネスとして実現させたウォルト・ディズニー。夢想家、現実主義者、批評家に思考を明確に分離してアイデアを洗練させる「3つの部屋」ルーティンを紹介します。"
 pubDate: "2026-04-16"
@@ -35,26 +36,24 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「walt-disney-three-rooms」は <strong>Walt Disney Three Rooms 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Walt Disney Three Rooms 歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 注意集中と批判の分離が与える認知の効果
+## 1. 注意集中と批判の分離が与える認知の効果
 
 私たちが新しい計画を立てる際によく犯す過ちは、アイデアを構想している最中に「これは不可能だ」「コストがかかりすぎる」と同時に検討し批判することです。脳科学的にこのような同時処理は、拡散を担当する前頭葉の機能と収束を担当する評価領域を同時に衝突させ、思考の流れを妨げ企画を遅延させます。
 ウォルト・ディズニーのルーティンは、これら2つの認知状態を徹底的に孤立させました。夢想家の段階ではすべてのブレーキを解除して思考の拡散を極大化し、ドパミン的没頭を誘導します。その後、現実主義者の段階に入ると実行計画の設計を刺激し、最終的な批評家の部屋でのみ批判的分析を適用することで、アイデアの翼を損なうことなく完璧に調律されたソリューションを生み出します。
 
 ---
 
-## 想像と批判の分離が核心です
-
-創造的な思考は常に批判的な思考より先に行われなければなりません。ウォルト・ディズニーのように思考を企画する際、自らの役割を明確に規定し順番に適用してみてください。まだ作られてもいないアイデアに早期批判を加えて翼を折ってしまう認知的な過ちを未然に防ぐことができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,12 +85,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 想像と批判の分離が核心です
+
+創造的な思考は常に批判的な思考より先に行われなければなりません。ウォルト・ディズニーのように思考を企画する際、自らの役割を明確に規定し順番に適用してみてください。まだ作られてもいないアイデアに早期批判を加えて翼を折ってしまう認知的な過ちを未然に防ぐことができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>一つの会議室で3つの段階をすべて進行しても大丈夫ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -100,7 +105,7 @@ faqs:
       物理的な空間を変えて気分転換を促すことが効果的です。もし事情により一つの空間を使用しなければならない場合は、黒板の色を変えたり、席を再配置したり、筆記具の種類を変えたり（例：夢想家段階は華やかな色鉛筆、批評家段階は黒のボールペン）して、脳に認知的な区分を提供することが望ましいです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>批評家段階で批判が行き過ぎてアイデアが完全に無に帰す場合はどうすればよいですか？</span>

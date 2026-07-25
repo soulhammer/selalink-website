@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le miracle des ciseaux au lit : La méthode des gouaches découpées d'Henri Matisse pour surmonter la douleur"
 description: "Henri Matisse, géant de l'histoire de l'art. Découvrez comment il a surmonté la souffrance et créé des chefs-d'œuvre depuis son lit après une lourde opération du cancer, et explorez la science cognitive de la guérison visuo-tactile."
 pubDate: "2026-05-17"
@@ -35,17 +36,17 @@ Dans l'article d'aujourd'hui, nous explorons la science de la relaxation visuo-t
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant matisse-paper-cutout est basée sur <strong>Vérification des biographies historiques d'Henri Matisse & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques d'Henri Matisse & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Rétroaction visuo-tactile dissipant la douleur et stimulant la neuroplasticité
+## 1. Rétroaction visuo-tactile dissipant la douleur et stimulant la neuroplasticité
 
 Lorsqu'il fait face à une douleur physique intense ou au stress, le simple fait de se reposer passivement maintient l'attention focalisée sur les réseaux de la douleur.
 
@@ -53,9 +54,7 @@ Des activités de motricité fine comme découper du papier avec précision — 
 
 ---
 
-## La création au bout des doigts guérit le cerveau fatigué
-
-Nous accumulons chaque jour une fatigue visuelle à travers la navigation passive sur les réseaux sociaux. Adoptez un rituel tactile à la Matisse — même une fois par semaine — en découpant des papiers colorés avec de vrais ciseaux pour créer des formes libres et les disposer dans un carnet ou sur un mur. C'est une excellente thérapie de détoxification cérébrale.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Nous accumulons chaque jour une fatigue visuelle à travers la navigation passiv
   </p>
 </div>
 
+---
+
+## 3. La création au bout des doigts guérit le cerveau fatigué
+
+Nous accumulons chaque jour une fatigue visuelle à travers la navigation passive sur les réseaux sociaux. Adoptez un rituel tactile à la Matisse — même une fois par semaine — en découpant des papiers colorés avec de vrais ciseaux pour créer des formes libres et les disposer dans un carnet ou sur un mur. C'est une excellente thérapie de détoxification cérébrale.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les débutants sans sens artistique peuvent-ils en tirer profit ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Nous accumulons chaque jour une fatigue visuelle à travers la navigation passiv
       Absolument. L'aspect esthétique final n'a aucune importance. Le bienfait repose sur la stimulation tactile du découpage et l'apport visuel des couleurs vives. Ce processus détourne la douleur et active la neuroplasticité, même si les formes sont imparfaites.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Qu'en est-il d'utiliser de la pâte à modeler ou une application de dessin ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "오프라인 몰입: 도널드 너스의 이메일 단절 루틴과 컨텍스트 스위칭 차단"
 description: "컴퓨터 과학의 거작을 완성하기 위해 1990년부터 이메일을 끊고 오프라인 딥 워크를 고수한 도널드 너스. 빈번한 컨텍스트 스위칭(Context Switching)과 주의 잔류(Attention Residue)를 차단하여 뇌의 주의 집중력을 지켜내는 원리와 3단계 실천법을 알아봅니다."
 pubDate: "2026-05-07"
@@ -20,7 +21,7 @@ faqs:
   - question: "협업 중인 동료들에게 이메일 확인이 늦어지는 제 일정을 오해 없이 어떻게 공유하고 소통해야 할까요?"
     answer: "이메일 자동 응답기나 메신저 프로필 상태창에 일정을 명시적으로 고지하세요. '현재 핵심 프로젝트 몰입을 위해 매일 2회(11시, 16시) 메일을 일괄 확인하고 있습니다. 긴급 연락은 전화나 비상 채널을 이용해 주세요'라는 메시지를 남기는 것만으로도 소통 부재에 대한 우려를 줄이고 인지적 보호벽을 구축할 수 있습니다."
   - question: "너문는 세계적인 대가라 이메일을 끊을 수 있었던 것 같은데, 일반 직장인도 적용 가능한가요?"
-    answer: "네, 완전히 동일한 원리로 적용할 수 있습니다. 메일을 영구 차단할 필요 없이 하루 1~2시간만이라도 '알림 끄기 모드'를 설정하고 딥 워크 블록으로 만드는 것만으로도 컨텍스트 스위칭 비용을 현격히 줄이고 주의력을 보호할 수 있습니다."
+    answer: "네, 완전히 동일한 원리로 적용할 수 있습니다. 메일을 영구 차단할 필요 없이 하루 1 ~ 2시간만이라도 '알림 끄기 모드'를 설정하고 딥 워크 블록으로 만드는 것만으로도 컨텍스트 스위칭 비용을 현격히 줄이고 주의력을 보호할 수 있습니다."
 ---
 
 "나는 사물들을 깊이 이해하고 분석하여 그것을 글로 정리하는 사람이다. 실시간으로 쏟아지는 질문에 즉각 답하는 것은 내가 일하는 방식과 어울리지 않는다. 내 역할은 시스템의 상단에서 조용히 사색하는 것이다." ✉️
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>도널드 너스 공식 선언문 「이메일 사용 중단(Email and I)」 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 근거하여 knuth-no-email 루틴을 다룹니다.
+      본 콘텐츠는 <strong>도널드 너스 공식 선언문 「이메일 사용 중단(Email and I)」 및 평전 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 컨텍스트 스위칭(Context Switching) 차단과 주의 잔류(Attention Residue) 방지의 뇌과학
+## 1. 컨텍스트 스위칭(Context Switching) 차단과 주의 잔류(Attention Residue) 방지의 뇌과학
 
 우리가 이메일이나 메신저 알림을 확인할 때마다 뇌는 <strong>컨텍스트 스위칭(Context Switching, 작업 전환)</strong>을 겪으며 막대한 인지적 대가를 치릅니다. 원래 하던 일로 돌아오더라도 뇌의 일부 주의력은 방금 읽은 메일의 잔상에 묶여 있는데, 인지심리학에서는 이를 <strong>주의 잔류(Attention Residue)</strong>라고 부릅니다. 이 잔류물이 걷히고 <strong>전전두엽(Prefrontal Cortex)</strong>이 최상의 몰입도를 회복하기까지는 20분이 넘는 오랜 시간이 소요됩니다. 도널드 너스처럼 오프라인 경계를 구축해 주의의 분절을 원천 차단하면, 뇌는 잔상 없이 고차원적인 추상적 사고와 시스템 논리 설계를 흔들림 없이 밀고 나갈 수 있습니다.
 
 ---
 
-## 실시간 응답 본능을 억제하고 배치 처리(Batch Processing)를 적용하는 수칙
-
-도널드 너스처럼 이메일과 실시간 메신저를 완전히 영구 차단하는 방식은 협업 조직에서 현실적으로 어려울 수 있습니다. 핵심은 아율 끊는 것이 아니라, 실시간 확인 본능을 억제하고 배치 처리(Batch Processing) 방식을 도입하는 것입니다. 매일 정해진 1 ~ 2회의 일괄 답장 타임윈도 외에는 알림을 차단하여 뇌의 연속 몰입 시간(Chunk of Focus)을 보호하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 실시간 응답 본능을 억제하고 배치 처리(Batch Processing)를 적용하는 수칙
+
+도널드 너스처럼 이메일과 실시간 메신저를 완전히 영구 차단하는 방식은 협업 조직에서 현실적으로 어려울 수 있습니다. 핵심은 아율 끊는 것이 아니라, 실시간 확인 본능을 억제하고 배치 처리(Batch Processing) 방식을 도입하는 것입니다. 매일 정해진 1 ~ 2회의 일괄 답장 타임윈도 외에는 알림을 차단하여 뇌의 연속 몰입 시간(Chunk of Focus)을 보호하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>협업 중인 동료들에게 이메일 확인이 늦어지는 제 일정을 오해 없이 어떻게 공유하고 소통해야 할까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       이메일 자동 응답기나 메신저 프로필 상태창에 일정을 명시적으로 고지하세요. '현재 핵심 프로젝트 몰입을 위해 매일 2회(11시, 16시) 메일을 일괄 확인하고 있습니다. 긴급 연락은 전화나 비상 채널을 이용해 주세요'라는 메시지를 남기는 것만으로도 소통 부재에 대한 우려를 줄이고 인지적 보호벽을 구축할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>너문는 세계적인 대가라 이메일을 끊을 수 있었던 것 같은데, 일반 직장인도 적용 가능한가요?</span>

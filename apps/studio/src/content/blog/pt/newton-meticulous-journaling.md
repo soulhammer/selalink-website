@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Registrando a ordem no caos: O hábito de diário de pesquisa de Sir Isaac Newton"
 description: "Sir Isaac Newton, o supremo cientista da humanidade. Explore seu hábito de registrar todas as percepções e cálculos em um grande caderno de couro e os benefícios neurocientíficos da escrita à mão."
 pubDate: "2026-03-30"
@@ -33,17 +34,17 @@ Neste artigo, analisamos os mecanismos neurocientíficos do diário de Newton e 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre newton-meticulous-journaling é baseada em <strong>Biografias históricas e registros autobiográficos de Sir Isaac Newton & pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas e registros autobiográficos de Sir Isaac Newton & pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Descarregamento Cognitivo': Esvaziando a sobrecarga da memória de trabalho
+## 1. 'Descarregamento Cognitivo': Esvaziando a sobrecarga da memória de trabalho
 
 A capacidade da memória de trabalho é estritamente limitada. Ao processar mentalmente múltiplos cálculos e percepções, o cérebro entra em sobrecarga e bloqueia o pensamento criativo. A prática de Newton de escrever e esquematizar à mão ativou o <strong>'Descarregamento Cognitivo' (Cognitive Offloading)</strong>.
 
@@ -51,9 +52,7 @@ Ao fazer o backup dos pensamentos no papel, a memória de trabalho se liberta da
 
 ---
 
-## Pratique a estruturação visual, não apenas anotações simples
-
-Digitar textos mecanicamente em smartphones oferece menor estimulação tátil e menor consolidação da memória. A chave é segurar uma caneta para enviar feedback analógico ao cérebro e conectar ideias visualmente usando setas, diagramas e tabelas. Se usar notas digitais, utilize uma caneta stylus para desenhar esquemas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ Digitar textos mecanicamente em smartphones oferece menor estimulação tátil e
   </p>
 </div>
 
+---
+
+## 3. Pratique a estruturação visual, não apenas anotações simples
+
+Digitar textos mecanicamente em smartphones oferece menor estimulação tátil e menor consolidação da memória. A chave é segurar uma caneta para enviar feedback analógico ao cérebro e conectar ideias visualmente usando setas, diagramas e tabelas. Se usar notas digitais, utilize uma caneta stylus para desenhar esquemas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

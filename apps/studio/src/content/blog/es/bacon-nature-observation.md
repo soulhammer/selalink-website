@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Paseo Matutino por el Jardín de Francis Bacon: Cómo Reiniciar la Fatiga Cerebral Mediante la Observación de la Naturaleza"
 description: "Descubra cómo Francis Bacon, maestro del empirismo, paseaba por su jardín cada mañana para observar las plantas y el clima, aliviando la fatiga cerebral y estableciendo su filosofía inductiva."
 pubDate: "2026-01-04"
@@ -36,22 +37,20 @@ En la publicación de hoy, analizamos los principios neurocientíficos de la Teo
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre bacon-nature-observation se basa en <strong>Verificación Histórica del Ensayo *De los Jardines (Of Gardens)* de Francis Bacon e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica del Ensayo *De los Jardines (Of Gardens)* de Francis Bacon e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por Qué los Paseos de Observación de la Naturaleza Restauran la Concentración
+## 1. Por Qué los Paseos de Observación de la Naturaleza Restauran la Concentración
 
 Las tareas modernas requieren una 'Atención Dirigida (Directed Attention)' artificial, lo que fatiga fácilmente la corteza prefrontal. Según la Teoría de la Restauración de la Atención (Attention Restoration Theory) en psicología ambiental, los estímulos naturales como el susurro de las hojas o la luz del sol inducen una 'Fascinación Suave (Soft Fascination)'. Esto desplaza la atención de forma natural sin forzar el cerebro, permitiendo que la agotada red de control cognitivo prefrontal descanse y se recargue, maximizando el pensamiento inductivo y la resolución creativa de problemas.
 
 ---
 
-## Desconexión Digital Completa de Estímulos
-
-Tomar fotos con un teléfono inteligente, responder mensajes de texto o escuchar podcasts informativos mientras camina continúa consumiendo la atención dirigida del cerebro. Para obtener el efecto de restauración de la atención, configure su teléfono inteligente en silencio e aíslelo por completo. Sumérjase únicamente en los estímulos sensoriales fuera de línea.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Tomar fotos con un teléfono inteligente, responder mensajes de texto o escuchar
     Al terminar su paseo, regrese a su espacio de trabajo y anote los pensamientos o soluciones de problemas recién calibrados que surgieron durante el descanso cerebral. Su corteza prefrontal completamente recargada dará respuestas claras.
   </p>
 </div>
+
+---
+
+## 3. Desconexión Digital Completa de Estímulos
+
+Tomar fotos con un teléfono inteligente, responder mensajes de texto o escuchar podcasts informativos mientras camina continúa consumiendo la atención dirigida del cerebro. Para obtener el efecto de restauración de la atención, configure su teléfono inteligente en silencio e aíslelo por completo. Sumérjase únicamente en los estímulos sensoriales fuera de línea.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

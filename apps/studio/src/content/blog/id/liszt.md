@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Memainkan Satu Tuts per Detik Tanpa Kesalahan dengan Memperlambat Tempo: Rutinitas Pembelajaran Serebelum dan Mielinisasi Franz Liszt"
 description: "Pelajari bagaimana pianis legendaris Franz Liszt menguasai presisi tingkat tinggi dengan memperlambat tempo metronom menjadi satu tuts per detik. Temukan neurosains dari pembelajaran motorik serebelum, mielinisasi, dan panduan 3 langkah."
 pubDate: "2026-04-14"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai liszt didasarkan pada <strong>Verifikasi Historis dari Biografi Alan Walker *Franz Liszt: The Virtuoso Years*, Arsip Liszt & Penelitian Neurosains Kognitif serta Sains Pembelajaran Motorik</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Alan Walker *Franz Liszt: The Virtuoso Years*, Arsip Liszt & Penelitian Neurosains Kognitif serta Sains Pembelajaran Motorik</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Presisi Pembelajaran Motorik Serebelum dan Mielinisasi Selubung Saraf
+## 1. Presisi Pembelajaran Motorik Serebelum dan Mielinisasi Selubung Saraf
 
 Memperlambat tempo gerakan untuk memodulasi eksekusi otot halus secara ketat sangat melibatkan sirkuit penyesuaian motorik di dalam <strong>Serebelum</strong>. Mengulangi lintasan motorik tanpa cela pada kecepatan lambat mendorong pembentukan lapisan <strong>Mielin</strong> tebal pada akson saraf. Isolasi lipid ini secara drastis mempercepat kecepatan transmisi sinyal dan akurasi spasial, membangun jalur saraf <strong>Errorless Learning</strong>.
 
 ---
 
-## Perhatian: Mengecualikan Kecepatan dan Ketegangan Otot Berlebihan untuk Terbenam dalam Latihan Lambat Tanpa Kesalahan
-
-Hindari menggenggam alat atau tuts instrumen dengan kekuatan berlebihan atau terburu-buru menyelesaikan pengulangan. Hilangkan ketegangan tubuh yang tidak perlu dan berfokuslah secara eksklusif pada mengeksekusi gerakan lambat di sepanjang lintasan spasial yang sempurna untuk mengukir presisi nol-kesalahan ke dalam jaringan serebelum.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Hindari menggenggam alat atau tuts instrumen dengan kekuatan berlebihan atau ter
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengecualikan Kecepatan dan Ketegangan Otot Berlebihan untuk Terbenam dalam Latihan Lambat Tanpa Kesalahan
+
+Hindari menggenggam alat atau tuts instrumen dengan kekuatan berlebihan atau terburu-buru menyelesaikan pengulangan. Hilangkan ketegangan tubuh yang tidak perlu dan berfokuslah secara eksklusif pada mengeksekusi gerakan lambat di sepanjang lintasan spasial yang sempurna untuk mengukir presisi nol-kesalahan ke dalam jaringan serebelum.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bisakah non-musisi juga mendapat manfaat dari kebiasaan slow-motion 1-tindakan-per-detik ini?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Hindari menggenggam alat atau tuts instrumen dengan kekuatan berlebihan atau ter
       Ya, tentu saja! Mekanisme neurobiologis berlaku secara universal untuk semua tugas motorik—mengetik pintasan papan ketik, menyempurnakan ayunan golf atau tenis, atau merancang gestur pidato. Memperlambat tempo untuk membuat nol kesalahan mempercepat mielinisasi serebelum.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mempraktikkan rutinitas ini jika saya tidak memiliki akses ke piano sungguhan atau peralatan khusus?</span>

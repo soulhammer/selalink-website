@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Dichter, der beim Wandern laut rezitierte: William Wordsworths Gehhilf-Dichtkunst"
 description: "Der romantische Dichter William Wordsworth wanderte im Freien und stimmte den Atem seiner Verse auf seinen Schritttakt ab. Untersucht die Aktivierung des Kleinhirns durch rhythmische Bewegung zur Belebung des Sprachgefühls."
 pubDate: "2026-02-06"
@@ -35,17 +36,17 @@ Dieser Beitrag beleuchtet die neurologischen Grundlagen von Wordsworths 'Geh-Rez
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu wordsworth-outdoor-recitation basiert auf <strong>Historische Biografien und autobiografische Dokumente zu William Wordsworth sowie Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien und autobiografische Dokumente zu William Wordsworth sowie Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergie aus rhythmischem Gehen und der artikulatorisch-auditiven Schleife
+## 1. Synergie aus rhythmischem Gehen und der artikulatorisch-auditiven Schleife
 
 Das gleichmäßige Auftreffen der Füße beim Gehen aktiviert das <strong>Kleinhirn (Cerebellum)</strong>, das Bewegungsabläufe und Takt steuert. Diese Rhythmusimpulse synchronisieren mit Spracharealen und stimmen die Satzmelodie (Prosodie) physikalisch ab.
 
@@ -53,9 +54,7 @@ Das laute Rezitieren aktiviert zudem die <strong>phonologische Schleife</strong>
 
 ---
 
-## Die Kraft des laut Vorlesens
-
-Wer nur leise schreibt, verliert das Gefühl für den Klang beim Lesen, wodurch Texte steif wirken. Schlendern Sie beim Verfassen von Reden oder Präsentationen umher und sprechen Sie die Sätze laut aus, um die Satzmelodie zu optimieren.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Wer nur leise schreibt, verliert das Gefühl für den Klang beim Lesen, wodurch 
   </p>
 </div>
 
+---
+
+## 3. Die Kraft des laut Vorlesens
+
+Wer nur leise schreibt, verliert das Gefühl für den Klang beim Lesen, wodurch Texte steif wirken. Schlendern Sie beim Verfassen von Reden oder Präsentationen umher und sprechen Sie die Sätze laut aus, um die Satzmelodie zu optimieren.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie beschrieb Wordsworths Schwester Dorothy seine Methode des Dichtens beim Gehen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Wer nur leise schreibt, verliert das Gefühl für den Klang beim Lesen, wodurch 
       Sie schrieb im Tagebuch: 'William ging heute Morgen hunderte Male den Gartenpfad auf und ab und rezitierte Verse.' Sie beschrieb anschaulich, wie sein Gehtempo exakt mit dem Rhythmus seiner Rezitation wechselte.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Hat das Gehen und Rezitieren auf einem Laufband im Raum denselben Effekt?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Oil Tycoon Who Allowed Not Even a 1-Cent Waste? John D. Rockefeller's Real-time Micro-tracking Method"
 description: "John D. Rockefeller, considered the wealthiest individual in world history. Learn how carrying a small red notebook in his pocket to immediately log minor expenses and plans awakened his prefrontal executive control network, and how to utilize analog notebooks."
 pubDate: "2026-06-24"
@@ -36,22 +37,20 @@ Today's post explores the cognitive science value of Rockefeller's real-time ana
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding rockefeller-red-notebook is based on <strong>Historical biography and autobiographical records of John D. Rockefeller & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography and autobiographical records of John D. Rockefeller & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Real-time Tracking and Activation of the Prefrontal Executive Control Network
+## 1. Real-time Tracking and Activation of the Prefrontal Executive Control Network
 
 Manually logging numbers and details in a notebook the moment a behavior or expense occurs (real-time micro-tracking) strongly stimulates the brain's prefrontal executive control network. This activates self-regulation, delaying impulsive reactions to stimuli, and significantly enhances brain plasticity for long-term behavioral control and impulse suppression.
 
 ---
 
-## Pitfalls of Digital Logging vs. Tips for Analog Real-time Micro-tracking
-
-When logging in smartphone apps, the deluge of social media notifications or news upon turning on the phone exposes the brain to cognitive stress. Moreover, app entries lack tactile aesthetics that stimulate the brain's satisfaction center. Carrying a small red notebook and pencil in your wallet to write down entries by hand within 5 seconds without turning on an app enables the clearest cognitive offloading.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ When logging in smartphone apps, the deluge of social media notifications or new
   </p>
 </div>
 
+---
+
+## 3. Pitfalls of Digital Logging vs. Tips for Analog Real-time Micro-tracking
+
+When logging in smartphone apps, the deluge of social media notifications or news upon turning on the phone exposes the brain to cognitive stress. Moreover, app entries lack tactile aesthetics that stimulate the brain's satisfaction center. Carrying a small red notebook and pencil in your wallet to write down entries by hand within 5 seconds without turning on an app enables the clearest cognitive offloading.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is an analog notebook really better than using smartphone budget or to-do apps?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ When logging in smartphone apps, the deluge of social media notifications or new
       Yes. The act of turning on a smartphone exposes your cognitive switch to digital noise (SNS, messages), immediately scattering focus. Furthermore, pressing a pen onto paper inputs somatosensory finger data far more strongly into the cerebral cortex, creating over twice the cognitive awareness of self-control compared to typing.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Do I really need to write down every trivial detail, like 1 cent or 1 minute?</span>

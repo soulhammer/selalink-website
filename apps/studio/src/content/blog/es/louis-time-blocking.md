@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Arte de Dominar el Tiempo: La Rutina de Bloqueo de Tiempo de Luis XIV y la Prevención de la Fatiga de Decisión"
 description: "Descubra cómo el Rey Sol Luis XIV gobernó Francia dividiendo estrictamente sus 24 horas diarias al minuto. Explore la neurociencia de la prevención de la fatiga de decisión, las intenciones de implementación y una guía de 3 pasos."
 pubDate: "2026-04-11"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia detrás del bloqueo de tie
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre louis-time-blocking se basa en <strong>Verificación Histórica de las *Memorias para la instrucción del Delfín* de Luis XIV (1670) y Memorias del Duque de Saint-Simon, Archivos de Versalles e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las *Memorias para la instrucción del Delfín* de Luis XIV (1670) y Memorias del Duque de Saint-Simon, Archivos de Versalles e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bloqueando la Fatiga de Decisión y Activando las Intenciones de Implementación
+## 1. Bloqueando la Fatiga de Decisión y Activando las Intenciones de Implementación
 
 Elegir constantemente 'qué hacer a continuación' agota la <strong>Corteza Prefrontal</strong>, causando <strong>Fatiga de Decisión</strong>. Preasignar acciones en bloques de tiempo activa las <strong>Intenciones de Implementación</strong>. Eliminar decisiones innecesarias previene la procrastinación y enfoca la atención prefrontal en la tarea.
 
 ---
 
-## Precaución: Evite Agendar Sin Margen y Asegure Tiempo de Amortiguación
-
-El mayor peligro del bloqueo de tiempo es la rigidez sin margen de error. Las interrupciones imprevistas generan pánico perfeccionista. Inserte intencionalmente de 10 a 15 minutos de <strong>Tiempo Amortiguador</strong> entre bloques para mantener la <strong>Flexibilidad Cognitiva</strong>.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El mayor peligro del bloqueo de tiempo es la rigidez sin margen de error. Las in
   </p>
 </div>
 
+---
+
+## 3. Precaución: Evite Agendar Sin Margen y Asegure Tiempo de Amortiguación
+
+El mayor peligro del bloqueo de tiempo es la rigidez sin margen de error. Las interrupciones imprevistas generan pánico perfeccionista. Inserte intencionalmente de 10 a 15 minutos de <strong>Tiempo Amortiguador</strong> entre bloques para mantener la <strong>Flexibilidad Cognitiva</strong>.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿El bloqueo de tiempo funciona en empleos con interrupciones frecuentes?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El mayor peligro del bloqueo de tiempo es la rigidez sin margen de error. Las in
       ¡Sí, por supuesto! Programe de 2 a 3 bloques de 'Atención de Emergencias y Procesamiento en Lote'. Concéntrese sin interrupciones en el trabajo profundo e ingrese las emergencias en el bloque reservado.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo superar la culpa al no cumplir estrictamente con el horario?</span>

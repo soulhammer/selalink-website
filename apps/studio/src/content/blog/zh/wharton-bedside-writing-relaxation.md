@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "放松引导的创意之流：伊迪丝·华顿的床头晨间写作习惯"
 description: "首位获得普利策小说奖的大师级女作家伊迪丝·华顿。揭秘她清晨醒来不清离开床榻、与爱犬们卧在一起舒适写作的神经生理学放松写作秘诀。"
 pubDate: "2026-06-21"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 wharton-bedside-writing-relaxation 的内容基于 <strong>伊迪丝·华顿历史传记与自传考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>伊迪丝·华顿历史传记与自传考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 身体放松与副交感神经主导模式的认知作用
+## 1. 身体放松与副交感神经主导模式的认知作用
 
 在进行创作或构思复杂创意时，许多人遇到的瓶颈是因“必须写好”的焦虑与紧张导致前额叶理性回路僵硬。在床榻上舒心地靠着、与宠物触碰并保持完全放松的身体状态，能让副交感神经（Parasympathetic Nervous System）占据主导地位。此时的大脑感受到安全感，减少压力荷尔蒙皮质醇的分泌，并释放适合舒适沉浸的Alpha脑电波。Alpha波能够将大脑皮层各处平时未联结的创意与词汇碎片自然松弛地串联起来，如同行云流水般织就精妙细腻的小说想象。
 
 ---
 
-## 注意事项与提示
-
-在日常应用床头放松写作法时，易陷的误区是专注力散去直接转入再次入睡。若大脑过度放松产生慢波（Delta波）发困，将陷入毫无生产力的打盹状态。因此实操时应避免完全平躺，利用舒适靠枕将脊椎保持在45度至60度倾斜的半坐卧位（Semi-Fowler's Position）。房间温度保持微凉通畅，使身体柔和放松的同时，大脑感知维持在清晰觉醒的临界状态。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     在最放松宁静的状态下进行30分钟创作。抛开前额叶牵强的逻辑过滤与完美主义审查，让脑海中自然浮现的创意与文字流淌于纸上。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与提示
+
+在日常应用床头放松写作法时，易陷的误区是专注力散去直接转入再次入睡。若大脑过度放松产生慢波（Delta波）发困，将陷入毫无生产力的打盹状态。因此实操时应避免完全平躺，利用舒适靠枕将脊椎保持在45度至60度倾斜的半坐卧位（Semi-Fowler's Position）。房间温度保持微凉通畅，使身体柔和放松的同时，大脑感知维持在清晰觉醒的临界状态。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Geheimnis der 'Peter Hase'-Autorin? Beatrix Potters morgendliche Mikrobeobachtungsroutine der Natur"
 description: "Beatrix Potter, Autorin von 'Peter Hase', beobachtete jeden Morgen mit einer Lupe die feinen Strukturen von Pflanzen und Moos, um Ablenkungen auszuschalten und künstlerische Inspiration zu fördern."
 pubDate: "2026-05-15"
@@ -33,17 +34,17 @@ Im heutigen Beitrag untersuchen wir die kognitiven Neurowissenschaften hinter Be
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu potter-botanical-sketch basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Beatrix Potter & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung von Beatrix Potter & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Blockieren des DMN-Gedankenversinkens und Aktivierung der exekutiven Kontrolle durch Mikrofokus
+## 1. Blockieren des DMN-Gedankenversinkens und Aktivierung der exekutiven Kontrolle durch Mikrofokus
 
 Wenn das Gehirn durch Zukunftsängste oder Vergangenheitsgrübeleien abgelenkt ist, liegt das an der Überaktivität des Default Mode Networks (DMN).
 
@@ -51,9 +52,7 @@ Potters <strong>'Mikrofokus-Training'</strong> – das enge Fixieren visueller A
 
 ---
 
-## Blicken Sie nicht in die Ferne, sondern vertiefen Sie sich in eine einzelne feine Textur vor Ihren Augen
-
-Der Kern dieser Beobachtungsroutine ist nicht das Anfertigen großer Kunstwerke. Die heilende Wirkung liegt im Prozess des mikroskopischen Erforschens eines einzelnen Blattes, einer Stiftspitze oder der Hautstruktur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Der Kern dieser Beobachtungsroutine ist nicht das Anfertigen großer Kunstwerke.
   </p>
 </div>
 
+---
+
+## 3. Blicken Sie nicht in die Ferne, sondern vertiefen Sie sich in eine einzelne feine Textur vor Ihren Augen
+
+Der Kern dieser Beobachtungsroutine ist nicht das Anfertigen großer Kunstwerke. Die heilende Wirkung liegt im Prozess des mikroskopischen Erforschens eines einzelnen Blattes, einer Stiftspitze oder der Hautstruktur.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Muss ich skizzieren, auch wenn ich nicht gut zeichnen kann?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Der Kern dieser Beobachtungsroutine ist nicht das Anfertigen großer Kunstwerke.
       Nein! Das Beschreiben der beobachteten Merkmale in Textform bringt genau denselben Immersionseffekt für das Gehirn.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kann ich dies in Innenräumen mit künstlichen Objekten anstelle von Naturmaterialien anwenden?</span>

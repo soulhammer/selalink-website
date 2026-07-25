@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Os Cahiers às 4 da manhã: O método de registro de consciência de Paul Valéry"
 description: "O poeta Paul Valéry acordava às 4 da manhã todos os dias durante 51 anos para preencher seu caderno manuscrito 'Cahiers'. Aborda as razões científicas pelas quais o silêncio matinal, protegido de estímulos externos, desperta a inteligência reflexiva e analítica do córtex pré-frontal ao seu ápice."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ No post de hoje, interpretamos o mecanismo de autoajuste de Paul Valéry por mei
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre valery-dawn-notebook é baseada em <strong>Pesquisa histórica de biografias e registros autobiográficos de Valéry Dawn Notebook e estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa histórica de biografias e registros autobiográficos de Valéry Dawn Notebook e estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bloqueio de ruído cognitivo e ação dos hormônios do despertar proporcionados pelo silêncio do amanhecer
+## 1. Bloqueio de ruído cognitivo e ação dos hormônios do despertar proporcionados pelo silêncio do amanhecer
 
 Durante as horas diurnas habituais, o cérebro enfrenta inumeráveis estímulos externos como ruído, e-mails e mensagens, desperdiçando recursos cognitivos. No entanto, às 4 da manhã o mundo ao redor está completamente estático, reduzindo quase a zero a energia gasta para filtrar estímulos externos. Simultaneamente, o aumento gradual nos níveis de cortisol ao acordar desperta o cérebro com calma e sem estresse, criando condições fisiológicas perfeitas para a escrita reflexiva profunda e a autocontemplação lideradas pelo córtex pré-frontal.
 
 ---
 
-## Precauções e dicas
-
-Mergulhar diretamente em tarefas mecânicas complexas ou cálculos numéricos em um estado grogue antes que o cérebro desperte totalmente reduz a produtividade. Nesse bloco de tempo, organizar anotações intuitivas, escrita livre ou leitura filosófica é o mais adequado para a eficiência cognitiva em vez do cálculo lógico. Além disso, para manter as horas do amanhecer sem interrupções, é essencial estabelecer um muro de desconexão onde você nunca checa smartphones ou e-mails por 1 hora após acordar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Mergulhar diretamente em tarefas mecânicas complexas ou cálculos numéricos em
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+Mergulhar diretamente em tarefas mecânicas complexas ou cálculos numéricos em um estado grogue antes que o cérebro desperte totalmente reduz a produtividade. Nesse bloco de tempo, organizar anotações intuitivas, escrita livre ou leitura filosófica é o mais adequado para a eficiência cognitiva em vez do cálculo lógico. Além disso, para manter as horas do amanhecer sem interrupções, é essencial estabelecer um muro de desconexão onde você nunca checa smartphones ou e-mails por 1 hora após acordar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

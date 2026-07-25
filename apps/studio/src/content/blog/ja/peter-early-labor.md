@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "手で覚えた知識は忘れない：ピョートル大帝の手続き記憶訓練法"
 description: "自ら造船大工となった改革君主ピョートル大帝の早朝技術実習習慣を探ります。脳の手続き記憶を刺激して技術を永久保存する3段階行動ガイド。"
 pubDate: "2026-03-18"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「peter-early-labor」は <strong>Peter Early Labor       & (Cognitive Neuroscience) </strong> に基づいて作成されました。
+      本コンテンツは、<strong>Peter Early Labor       & (Cognitive Neuroscience) </strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 永久記憶を活性化する「手続き記憶メカニズム」
+## 1. 永久記憶を活性化する「手続き記憶メカニズム」
 
 認知神経科学において記憶は、概念を説明できる宣言的記憶（Declarative Memory）と、筋肉や神経が直接記憶する手続き記憶（Procedural Memory）に分かれます。ピョートル大帝が早朝に実行した実習ルーティンは、小脳（Cerebellum）と大脳基底核（Basal Ganglia）を経て脳に強く刻み込まれる手続き記憶装置を点火させました。
 
 ---
 
-## 理論と実務のバランスの取れた調整
-
-技術実習だからといって理論的学習（宣言的記憶の積載）を完全に無視し、闇雲に手だけを動かす習慣は上達を阻害します。手を敏捷に動かす実習は、事前によく読んだ「原理の基本学習」と対をなす必要があります。理論的背景を20%程度把握した後、残り80% エネルギーを手の操作に注ぐことが重要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     残りの20〜30分間、指と目を高度に協調させながら小脳回路に知識を刻み込みます。失敗しても止めずに手の操作の流れ（Flow）を維持します。
   </p>
 </div>
+
+---
+
+## 3. 理論と実務のバランスの取れた調整
+
+技術実習だからといって理論的学習（宣言的記憶の積載）を完全に無視し、闇雲に手だけを動かす習慣は上達を阻害します。手を敏捷に動かす実習は、事前によく読んだ「原理の基本学習」と対をなす必要があります。理論的背景を20%程度把握した後、残り80% エネルギーを手の操作に注ぐことが重要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

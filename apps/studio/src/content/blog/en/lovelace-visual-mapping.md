@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Programmer Who Drew Mathematical Formulas: Ada Lovelace's Visual Mapping and Dual-Coding Networks"
 description: "Discover how world's first computer programmer Ada Lovelace visualised complex algorithmic control flows for the Analytical Engine into structured diagrams. Explore how her visual mapping habit bypassed Working Memory limits via Dual-Coding Theory, with a 3-step practice guide."
 pubDate: "2026-02-01"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Ada Lovelace's 'vis
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding lovelace-visual-mapping is based on <strong>Historical Verification from Ada Lovelace's *Notes on the Analytical Engine* (1843), Lovelace Archives & Cognitive Neuroscience and Cognitive Psychology Research</strong>.
+      This content is based on <strong>Historical Verification from Ada Lovelace's *Notes on the Analytical Engine* (1843), Lovelace Archives & Cognitive Neuroscience and Cognitive Psychology Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Overcoming Working Memory Bottlenecks via Dual-Coding Theory
+## 1. Overcoming Working Memory Bottlenecks via Dual-Coding Theory
 
 The brain's <strong>Working Memory</strong> has a strictly limited capacity for processing short-term information. Continuous streams of unformatted text or equations cause rapid <strong>Cognitive Overload</strong>. Ada Lovelace's diagramming routine maximized <strong>Dual-Coding Theory</strong>. Processing verbal-symbolic and visual-spatial information through separate neural pathways allows the <strong>Visual Cortex</strong> to absorb cognitive load, freeing up the <strong>Prefrontal Cortex</strong> for high-level pattern detection and logical design.
 
 ---
 
-## Caution: Eliminating Linear Textual Note-Taking to Immerse in Visual Mapping
-
-Insisting on linear textual notes or formulas when solving complex systems locks the brain into a narrow cognitive channel. When thought flow stalls, stop writing text immediately and switch dimensions—use arrows and shapes on a broad canvas to visualize relational networks between data and concepts.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Insisting on linear textual notes or formulas when solving complex systems locks
   </p>
 </div>
 
+---
+
+## 3. Caution: Eliminating Linear Textual Note-Taking to Immerse in Visual Mapping
+
+Insisting on linear textual notes or formulas when solving complex systems locks the brain into a narrow cognitive channel. When thought flow stalls, stop writing text immediately and switch dimensions—use arrows and shapes on a broad canvas to visualize relational networks between data and concepts.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How does Ada Lovelace's visual mapping differ from mind mapping?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Insisting on linear textual notes or formulas when solving complex systems locks
       Mind mapping focuses on free-association and radial brainstorming, whereas Lovelace's visual mapping models operational logic—data movement, control loops, conditional branching, and systemic causal structures.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Must one use complex software tools like UML or Figma to achieve results?</span>

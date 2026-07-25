@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Silla Mecedora del Despacho Oval: La Superación del Dolor Espinal de John F. Kennedy y la Relajación Vestibular"
 description: "Descubra cómo John F. Kennedy lideró a EE. UU. durante las crisis de la Guerra Fría mientras soportaba un intenso dolor de espalda con su silla mecedora del Despacho Oval. Explore la neurociencia de la estimulación vestibular, la activación parasimpática y una rutina de 3 pasos."
 pubDate: "2026-02-10"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva y la ortopedia d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre kennedy-rocking-chair se basa en <strong>Verificación Histórica de la Biblioteca Presidencial John F. Kennedy, Archivos de la Dra. Janet Travell e Investigación en Neurociencia Cognitiva y Ortopedia</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biblioteca Presidencial John F. Kennedy, Archivos de la Dra. Janet Travell e Investigación en Neurociencia Cognitiva y Ortopedia</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación del Sistema Vestibular y Activación del Sistema Nervioso Parasimpático
+## 1. Estimulación del Sistema Vestibular y Activación del Sistema Nervioso Parasimpático
 
 El movimiento rítmico de balanceo estimula los otolitos del <strong>Sistema Vestibular</strong> en el oído interno. Las señales del núcleo vestibular viajan por el tronco encefálico para activar el <strong>Sistema Nervioso Parasimpático</strong>, reduciendo el ritmo cardíaco, la frecuencia respiratoria y la secreción de <strong>cortisol</strong>. Ortopédicamente, estos micromovimientos favorecen la circulación de fluidos en los discos intervertebrales, reduciendo la carga estática. Esta disminución del dolor físico calma la hiperactividad de la <strong>amígdala</strong>, permitiendo que la <strong>Corteza Prefrontal</strong> mantenga un control ejecutivo óptimo.
 
 ---
 
-## Precaución: Evite la Carga Estática e Induzca Micromovimientos en la Columna
-
-El dolor crónico de cuello y espalda en trabajadores de oficina proviene de la 'Carga Estática': permanecer inmóvil en una postura fija durante horas. La rigidez física genera estrés emocional y rigidez cognitiva. Siguiendo el ejemplo de Kennedy, crear micromovimientos suaves mientras está sentado es la clave para preservar la salud de la columna y el rendimiento cerebral.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El dolor crónico de cuello y espalda en trabajadores de oficina proviene de la 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Evite la Carga Estática e Induzca Micromovimientos en la Columna
+
+El dolor crónico de cuello y espalda en trabajadores de oficina proviene de la 'Carga Estática': permanecer inmóvil en una postura fija durante horas. La rigidez física genera estrés emocional y rigidez cognitiva. Siguiendo el ejemplo de Kennedy, crear micromovimientos suaves mientras está sentado es la clave para preservar la salud de la columna y el rendimiento cerebral.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Puedo obtener un efecto de relajación similar con una silla de oficina convencional?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El dolor crónico de cuello y espalda en trabajadores de oficina proviene de la 
       ¡Sí! Desbloquear el mecanismo de inclinación de su silla de oficina y mecer suavemente el torso hacia adelante y hacia atrás estimula los receptores vestibulares, evitando la carga estática y activando el sistema parasimpático.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuál es la velocidad o ritmo óptimo de balanceo para relajar el sistema nervioso?</span>

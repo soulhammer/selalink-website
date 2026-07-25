@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Inventores que intercambiaban posiciones para debatir? El método de debate inverso de los hermanos Wright"
 description: "Los hermanos Wright inventaron el primer avión a motor. Descubre su método metacognitivo de intercambio de argumentos para superar obstáculos y su aplicación moderna."
 pubDate: "2026-03-04"
@@ -38,22 +39,20 @@ Este artículo explora cómo el método de debate inverso supera los sesgos cogn
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre wright-reverse-debate se basa en <strong>Biografías históricas y registros autobiográficos sobre los hermanos Wright e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos sobre los hermanos Wright e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Reestructuración metacognitiva' para neutralizar el sesgo de confirmación
+## 1. 'Reestructuración metacognitiva' para neutralizar el sesgo de confirmación
 
 Una vez concebida una idea, el cerebro tiende a buscar solo información que la valide ignorando fallas—un fenómeno llamado Sesgo de Confirmación (Confirmation Bias). El debate inverso de los hermanos Wright funcionaba como Reestructuración Cognitiva. Al obligarse a defender la postura opuesta, el córtex prefrontal libera el apego emocional a la hipótesis inicial, activando circuitos metacognitivos para analizar objetivamente las suposiciones y corregir errores lógicos.
 
 ---
 
-## Dudar de tus propios argumentos abre paso a la verdad
-
-Para perfeccionar una gran idea, primero debes soltar el apego hacia ella. Los hermanos Wright lograron el milagro del vuelo humano poniéndose en la mente del otro cada noche para evaluar strictly sus hipótesis. Cuando sientas rigidez mental, da un giro de 180 grados a tu posición.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para perfeccionar una gran idea, primero debes soltar el apego hacia ella. Los h
   </p>
 </div>
 
+---
+
+## 3. Dudar de tus propios argumentos abre paso a la verdad
+
+Para perfeccionar una gran idea, primero debes soltar el apego hacia ella. Los hermanos Wright lograron el milagro del vuelo humano poniéndose en la mente del otro cada noche para evaluar strictly sus hipótesis. Cuando sientas rigidez mental, da un giro de 180 grados a tu posición.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Puedo usar esta rutina si trabajo solo y no tengo un compañero de debate?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para perfeccionar una gran idea, primero debes soltar el apego hacia ella. Los h
       Por supuesto. Escribe 'Mi Postura' en papel y asume el papel del 'Abogado del Diablo', redactando un informe crítico como si fueras tu peor competidor o tu crítico más severo.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo podemos realizar un debate inverso sin herir los sentimientos de la otra persona?</span>

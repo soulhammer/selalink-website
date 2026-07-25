@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "没頭のための環境遮断：マヤ・アンジェロウのホテル隔離習慣"
 description: "伝説的な詩人であり活動家のマヤ・アンジェロウは、集中力を極限まで高めるため刺激のない空のホテルの一室でのみ執筆しました。環境刺激統制の脳科学的原理を探ります。"
 pubDate: "2026-03-21"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「angelou-hotel-isolation」は <strong>マヤ・アンジェロウ自伝の記録＆メイソン・カリー『Daily Rituals（デイリー・リチュアルズ）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マヤ・アンジェロウ自伝の記録＆メイソン・カリー『Daily Rituals（デイリー・リチュアルズ）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 視覚刺激の統制と前頭葉の認知エネルギーの温存
+## 1. 視覚刺激の統制と前頭葉の認知エネルギーの温存
 
 人の脳は明確な意識がなくても、周囲の環境の視覚的・聴覚的刺激を絶え間なくスキャンし、認知エネルギーを消費します。専用のミニマルな隔離空間を確保すれば、環境刺激を画期的に減らし、前頭葉専用のエネルギーを作業への没頭に完全に温存することができます。
 
 ---
 
-## 成功した環境没頭習慣のための脳科学的アドバイス
-
-意志力だけで気を散らす要素に打ち勝つことは困難です。真の没頭は、誘惑がつけ入る隙のない物理的な空間環境をあらかじめ設計することから生まれます。デスクを整理し電子機器を隔離して、脳が没頭せざるを得ない環境を作り出してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     没頭エリアに入り出脱する時間を明確に定めてください。設定した執筆または作業時間が終了したら、完全に席を立ち、業務と休息の間の心理的な境界線を作り出します。
   </p>
 </div>
+
+---
+
+## 3. 成功した環境没頭習慣のための脳科学的アドバイス
+
+意志力だけで気を散らす要素に打ち勝つことは困難です。真の没頭は、誘惑がつけ入る隙のない物理的な空間環境をあらかじめ設計することから生まれます。デスクを整理し電子機器を隔離して、脳が没頭せざるを得ない環境を作り出してください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

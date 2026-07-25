@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La routine de marche et d'écriture de Friedrich Nietzsche : Libérer la créativité cérébrale à chaque pas"
 description: "Découvrez la pratique du philosophe allemand Friedrich Nietzsche marchant jusqu'à 8 heures par jour sur les sentiers suisses pour consigner ses pensées, et la neuroscience montrant comment le mouvement stimule le DMN et la pensée divergente."
 pubDate: "2026-04-27"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons les mécanismes neuroscientifiques de la routin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant nietzsche-walking-writing est basée sur <strong>Biographies historiques et récits autobiographiques de Friedrich Nietzsche & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Friedrich Nietzsche & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi le rythme de la marche stimule le DMN et la pensée divergente
+## 1. Pourquoi le rythme de la marche stimule le DMN et la pensée divergente
 
 Marcher à un rythme régulier augmente modérément la fréquence cardiaque, optimisant l'oxygénation cérébrale. Ce mouvement rythmé soulage la mémoire de travail et active le Réseau du Mode par Défaut (DMN), favorisant la pensée divergente.
 
 ---
 
-## Précautions et conseils pour la marche créative à la Nietzsche
-
-Évitez de consulter votre smartphone pendant la marche. Ne conservez qu'un petit carnet et un crayon pour vous couper des sollicitations numériques. Aménagez un environnement propice plutôt que de compter sur la seule volonté.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Marcher à un rythme régulier augmente modérément la fréquence cardiaque, op
   </p>
 </div>
 
+---
+
+## 3. Précautions et conseils pour la marche créative à la Nietzsche
+
+Évitez de consulter votre smartphone pendant la marche. Ne conservez qu'un petit carnet et un crayon pour vous couper des sollicitations numériques. Aménagez un environnement propice plutôt que de compter sur la seule volonté.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>À quels moments précis de la journée Nietzsche marchait-il ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Marcher à un rythme régulier augmente modérément la fréquence cardiaque, op
       Nietzsche marchait principalement entre le petit-déjeuner et le déjeuner, ainsi qu'en fin d'après-midi. Il privilégiait les sentiers forestiers et de montagne.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Faut-il absolument marcher en extérieur pour appliquer cette méthode ?</span>

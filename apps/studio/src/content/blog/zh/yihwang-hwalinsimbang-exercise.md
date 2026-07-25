@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "儒士的清晨养生：退溪李滉的《活人心方》体操"
 description: "退溪李滉一生体弱多病，却通过每天早晨的导引法与呼吸调节，孜孜不倦治学直至七十高龄。探讨低强度身体调节与深呼吸如何激活副交感神经系统并诱导平静觉醒的生理机制。"
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 yihwang-hwalinsimbang-exercise 的内容基于 <strong>退溪李滉《活人心方》历史传记与考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>退溪李滉《活人心方》历史传记与考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 低强度导引体操与呼吸调节诱导自主神经系统平衡的原理
+## 1. 低强度导引体操与呼吸调节诱导自主神经系统平衡的原理
 
 在刚醒来时，人体为了向活动状态过渡，皮质醇水平会迅速飙升（皮质醇觉醒反应 CAR），这可能会导致短暂的心率加快与不安感。如果在此时立刻进行剧烈运动或接触刺激性的数字媒体，大脑的焦虑回路会被过度激活。相反，像李滉先生的《活人心方》那样将温和的拉伸与漫长的腹式呼气相结合，能有效刺激迷走神经并激活副交感神经系统，稳定心率变异性（HRV），使大脑确立起最理性平静的专注准备状态。
 
 ---
 
-## 注意事项与提示
-
-清晨刚醒时，人体的脊椎与肌肉纤维十分僵硬。在这种状态下强行进行剧烈冲击或过度追求柔韧度的瑜伽动作，极易导致脊椎间盘损伤和严重拉伤。因此，晨间导引法应限制在无反弹力、温柔舒展关节的程度，严格在无痛的活动范围内默念呼吸，方能安全地获得生理益处。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     用鼻子深吸入新鲜氧气，然后收缩下腹部，通过嘴巴缓慢安静地呼出，进行10次腹式深呼吸，以激活副交感神经。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与提示
+
+清晨刚醒时，人体的脊椎与肌肉纤维十分僵硬。在这种状态下强行进行剧烈冲击或过度追求柔韧度的瑜伽动作，极易导致脊椎间盘损伤和严重拉伤。因此，晨间导引法应限制在无反弹力、温柔舒展关节的程度，严格在无痛的活动范围内默念呼吸，方能安全地获得生理益处。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "執筆が行き詰まったらタイプライターを変える？アイザック・アシモフのマルチタスク切り替えルーティン"
 description: "500冊以上の著書を残したSFの巨匠アイザック・アシモフのマルチタスク切り替えルーティン。単一の没頭による疲労を克服し、斬新性効果を得る3ステップの秘訣を探ります。"
 pubDate: "2026-05-26"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「asimov-project-switching」は <strong>アイザック・アシモフ自伝『I, Asimov: A Memoir』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アイザック・アシモフ自伝『I, Asimov: A Memoir』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 文脈の転換と斬新性効果：脳の領域別疲労回復
+## 1. 文脈の転換と斬新性効果：脳の領域別疲労回復
 
 認知心理学および作業記憶（Working Memory）の研究によると、一つの課題に長時間没頭する時、脳は特定の神経網だけを過剰に活性化させ、認知的停滞を引き起こします。この時に発生する執筆障害（Writer's Block）の状態で無理に脳を絞り出すとコルチゾールが分泌され、認知効率が急激に低下します。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 効率的な集中の切り替えのための脳科学的アドバイス
-
-一つの仕事で行き詰まった時、無条件に最後まで固執し続けることだけが美徳ではありません。脳のニューロンも領域ごとに交代勤務が必要です。些細なメール作成やまったく異なる企画書の作成を行き来する賢い文脈転換を通じて、業務の停滞期を柔軟に突破してみてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     新しく転換した作業の斬新性効果を通じて、以前の業務の疲労を認知的に遮断します。脳は単に仕事を止めて休むことだけでなく、「別の領域を活性化させること」だけでも十分に休息効果を享受し、滑らかに没頭を持続させることができます。
   </p>
 </div>
+
+---
+
+## 3. 効率的な集中の切り替えのための脳科学的アドバイス
+
+一つの仕事で行き詰まった時、無条件に最後まで固執し続けることだけが美徳ではありません。脳のニューロンも領域ごとに交代勤務が必要です。些細なメール作成やまったく異なる企画書の作成を行き来する賢い文脈転換を通じて、業務の停滞期を柔軟に突破してみてください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "清晨5点咖啡与晨间散步的融合：约翰内斯·勃拉姆斯的强效晨间唤醒习惯"
 description: "探索德国古典音乐巨匠约翰内斯·勃拉姆斯每天清晨5点亲自冲泡黑咖啡并在林间小路健步散步的习惯，揭示咖啡因与有氧运动相结合时促发BDNF分泌及增强工作记忆的神经科学机制。"
 pubDate: "2026-06-13"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 brahms-early-morning-coffee 的内容基于 <strong>马克斯·卡尔贝克传记《约翰内斯·勃拉姆斯传（Johannes Brahms）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>马克斯·卡尔贝克传记《约翰内斯·勃拉姆斯传（Johannes Brahms）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 咖啡因唤醒与步行运动促进BDNF分泌及增强工作记忆的协同效应
+## 1. 咖啡因唤醒与步行运动促进BDNF分泌及增强工作记忆的协同效应
 
 晨间咖啡中的咖啡因能够阻断体内腺苷（Adenosine）受体结合，切断大脑疲劳信号，同时促使促进觉醒的去甲肾上腺素（Norepinephrine）与多巴胺（Dopamine）分泌。在大脑处于生理觉醒状态下立即进行步行运动，可增加脑血流量并促进脑源性神经营养因子（BDNF）的释放。BDNF能够保护神经元并强化突触可塑性（Neuroplasticity）。结果表明，勃拉姆斯的清晨习惯将咖啡因的中枢神经刺激与散步带来的供氧增加相结合，产生了协同效应，人工将负责高阶信息处理的工作记忆（Working Memory）与创造性策划能力推向了巅峰。
 
 ---
 
-## 注意事项与提示：考量皮质醇分泌周期与起床后饮用咖啡的时机
-
-在刚起床皮质醇（Cortisol）水平达到峰值时立即饮用咖啡，会削弱咖啡因的唤醒效果并易引发肠胃不适。晨起后应先饮用温水补充水分，等待30分钟至1小时皮质醇水平平缓下降后再饮用咖啡，在神经科学层面这是最健康且高效的习惯锚定方法。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：考量皮质醇分泌周期与起床后饮用咖啡的时机
+
+在刚起床皮质醇（Cortisol）水平达到峰值时立即饮用咖啡，会削弱咖啡因的唤醒效果并易引发肠胃不适。晨起后应先饮用温水补充水分，等待30分钟至1小时皮质醇水平平缓下降后再饮用咖啡，在神经科学层面这是最健康且高效的习惯锚定方法。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>勃拉姆斯为何执着于亲自冲泡咖啡而不假手于人？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       勃拉姆斯具有强烈的完美主义倾向，他坚信咖啡的浓度与水豆比直接决定了晨间的觉醒状态。研磨咖啡豆与手动冲泡这一精细的手部动作本身，就是一个能够聚焦大脑注意力的高效精神锚定仪式（Mental Anchor）。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>晨间步行运动具体对大脑刺激与创造力有何贡献？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le génie qui jouait au billard en cas de blocage créatif : L'habitude d'activation du mode par défaut de Mozart"
 description: "Wolfgang Amadeus Mozart stimulait son cerveau inconscient (DMN) en jouant au billard lorsque l'inspiration musicale s'essoufflait. Découvrez le secret scientifique selon lequel le repos cognitif engendre des percées créatives et une routine de jeu visuo-spatial de 15 minutes."
 pubDate: "2026-05-01"
@@ -31,17 +32,17 @@ Cet article explore les principes neuroscientifiques du rituel de billard de Moz
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant mozart-billiard-ideation est basée sur <strong>Études des biographies historiques et récits autobiographiques de Mozart & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Études des biographies historiques et récits autobiographiques de Mozart & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Le cerveau subconscient et le « Réseau du mode par défaut »
+## 1. Le cerveau subconscient et le « Réseau du mode par défaut »
 
 Fixer un écran pendant des heures pour résoudre un problème difficile sature la mémoire de travail du cortex préfrontal, plongeant le cerveau dans une stagnation mentale. À l'inverse, détourner son attention vers une activité physique légère impliquant la prédiction de trajectoires géométriques — comme le billard — active le Réseau du mode par défaut (DMN).
 
@@ -49,11 +50,7 @@ Le DMN est un mécanisme de synthèse inconscient qui fonctionne lorsque l'espri
 
 ---
 
-## Un conseil neuroscientifique pour une routine réussie
-
-<strong>La créativité naît de l'alternance, non de la concentration forcée</strong>
-
-Un cerveau obnubilé par une seule idée s'enferme dans une vision en tunnel, bloquant toute nouvelle association. Rester assis à force de volonté lorsque l'on est épuisé ne fait que ronger l'énergie cognitive. Tout comme Mozart activait son subconscient au bord du billard pour faire jaillir d'immortelles trajectoires musicales, levez-vous dès le moindre blocage et stimulez votre DMN par un jeu visuo-spatial léger.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Un cerveau obnubilé par une seule idée s'enferme dans une vision en tunnel, bl
     Rasseyez-vous et observez votre projet. Bien souvent, une nouvelle piste ou une percée créative synthétisée pendant le repos émergera naturellement à la conscience.
   </p>
 </div>
+
+---
+
+## 3. Un conseil neuroscientifique pour une routine réussie
+
+<strong>La créativité naît de l'alternance, non de la concentration forcée</strong>
+
+Un cerveau obnubilé par une seule idée s'enferme dans une vision en tunnel, bloquant toute nouvelle association. Rester assis à force de volonté lorsque l'on est épuisé ne fait que ronger l'énergie cognitive. Tout comme Mozart activait son subconscient au bord du billard pour faire jaillir d'immortelles trajectoires musicales, levez-vous dès le moindre blocage et stimulez votre DMN par un jeu visuo-spatial léger.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

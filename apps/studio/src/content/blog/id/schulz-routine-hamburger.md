@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Menghapus Kelelahan Keputusan: Rutinitas Makan Siang Tunggal Charles Schulz"
 description: "Charles Schulz mengunci menu makan harian dan lingkungan kerjanya secara total demi menggambar komik Snoopy tanpa henti selama 50 tahun. Kami mengeksplorasi ritual otomatisasi makan hamburger yang sama setiap hari untuk mencegah kelelahan kognitif korteks prefrontal dan memaksimalkan kreativitas."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Dalam artikel ini, kita mempelajari bagaimana rutinitas peminimalkan keputusan C
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai schulz-routine-hamburger didasarkan pada <strong>Biografi historis, catatan autobiografi rutinitas hamburger Schulz & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis, catatan autobiografi rutinitas hamburger Schulz & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mencegah Kelelahan Ego dan Menjaga Energi Prefrontal
+## 1. Mencegah Kelelahan Ego dan Menjaga Energi Prefrontal
 
 Korteks prefrontal adalah pusat otak untuk perencanaan, pengendalian emosi, dan pengambilan keputusan. Penelitian neurosains menunjukkan bahwa setiap keputusan—bahkan memilih menu makan siang—menguras sumber daya eksekutif, kondisi yang disebut 'Kelelahan Keputusan' atau 'Kelelahan Ego'. Dengan mengunci pilihan harian sepele seperti pakaian dan makanan seperti yang dilakukan Schulz, Anda secara total menghentikan kebocoran energi saraf dan mengalirkan daya kognitif maksimal ke dalam pekerjaan utama.
 
 ---
 
-## Tindakan Pencegahan dan Tips
-
-Jika Anda memaksakan rutinitas secara berlebihan dan mengeliminasi 100% variasi, otak justru bisa terjebak dalam kebiasaan monoton dan mengalami penurunan kognitif. Oleh karena itu, terapkan otomatisasi keputusan khusus pada area non-esensial (makanan, pakaian, lingkungan kerja), sembari menyisakan ruang eksplorasi pada tugas-tugas kreatif dan waktu luang.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Jika Anda memaksakan rutinitas secara berlebihan dan mengeliminasi 100% variasi,
     Arahkan fokus segar yang tersimpan dari pengeliminasian pilihan-pilihan sepele secara langsung ke dalam perencanaan strategis, perancangan, atau penulisan yang paling krusial.
   </p>
 </div>
+
+---
+
+## 3. Tindakan Pencegahan dan Tips
+
+Jika Anda memaksakan rutinitas secara berlebihan dan mengeliminasi 100% variasi, otak justru bisa terjebak dalam kebiasaan monoton dan mengalami penurunan kognitif. Oleh karena itu, terapkan otomatisasi keputusan khusus pada area non-esensial (makanan, pakaian, lingkungan kerja), sembari menyisakan ruang eksplorasi pada tugas-tugas kreatif dan waktu luang.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

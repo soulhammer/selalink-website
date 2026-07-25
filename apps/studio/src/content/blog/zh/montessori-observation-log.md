@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "现代早期教育革新家：玛利亚·蒙台梭利的客观观察日志习惯"
 description: "意大利第一位女性医生兼教育学家玛利亚·蒙台梭利。探索她排斥主观偏见、洞察事物本质的客观观察技巧及三步实践指南。"
 pubDate: "2026-02-17"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 montessori-observation-log 的内容基于 <strong>玛利亚·蒙台梭利历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>玛利亚·蒙台梭利历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 战胜确认偏误、直击本质的认知客观化
+## 1. 战胜确认偏误、直击本质的认知客观化
 
 我们往往会陷入“确认偏误”，基于个人情感或主观臆测仓促断定问题的成因。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 摒弃评价与情感形容词，仅记录客观事实
-
-蒙台梭利观察法的核心在于排除主观解读，仅记录感官观察到的客观事实本身——例如使用“在10分钟内闭眼30次”来替代“看起来很累”。与其蛮干硬靠意志力，不如预先设计能够自然引发客观记录行为的物理环境与习惯触发信号，这才是长期坚持的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 摒弃评价与情感形容词，仅记录客观事实
+
+蒙台梭利观察法的核心在于排除主观解读，仅记录感官观察到的客观事实本身——例如使用“在10分钟内闭眼30次”来替代“看起来很累”。与其蛮干硬靠意志力，不如预先设计能够自然引发客观记录行为的物理环境与习惯触发信号，这才是长期坚持的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在观察自我习惯时是否也可以应用这一习惯？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       是的。在进行自我时间追踪或撰写工作日志时，排除“自责情绪”，仅按时间段记录实际完成的工作事实，便可完美应用此方法。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果觉得难以区分主观情感与客观事实该怎么办？</span>

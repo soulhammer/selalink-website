@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Overcoming Exile Despair: Su Dongpo's Morning Bamboo Walk & Cooking Relaxation Routine"
 description: "Northern Song dynasty genius poet Su Dongpo cultivated legendary optimism and resilience during repeated exiles through morning bamboo walks and slow cooking."
 pubDate: "2026-06-24"
@@ -36,14 +37,14 @@ In this post, we explore the nervous system science behind Su Dongpo's bamboo wa
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding sushi-bamboo-walk-cooking is based on <strong>Historical Biography of Su Dongpo (Su Shi) & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Historical Biography of Su Dongpo (Su Shi) & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## How Somatic Routines Activate the Parasympathetic Nervous System & Resilience
+## 1. How Somatic Routines Activate the Parasympathetic Nervous System & Resilience
 
 Trying to suppress emotional trauma or injustice purely through force of thought causes the brain's amygdala to loop obsessively, compounding distress.
 
@@ -51,9 +52,7 @@ Engaging in a <strong style="color:#2d3748;">'Somatic Routine'</strong> like Su 
 
 ---
 
-## Focus on the Process of Cooking & Walking, Not Just the Result
-
-The essence of Su Dongpo's cooking lies in the tranquil state of waiting for 'Huohou' (precise heat control). Do not rush to finish the food; instead, immerse yourself in the tactile sensations, aromas, and sounds as the ingredients simmer.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The essence of Su Dongpo's cooking lies in the tranquil state of waiting for 'Hu
   </p>
 </div>
 
+---
+
+## 3. Focus on the Process of Cooking & Walking, Not Just the Result
+
+The essence of Su Dongpo's cooking lies in the tranquil state of waiting for 'Huohou' (precise heat control). Do not rush to finish the food; instead, immerse yourself in the tactile sensations, aromas, and sounds as the ingredients simmer.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is this routine applicable for complete beginners who cannot cook at all?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The essence of Su Dongpo's cooking lies in the tranquil state of waiting for 'Hu
       Yes! This is not about complex culinary recipes. Simply brewing drip coffee or carefully frying a single egg provides the full somatic sensory benefit.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does the physical act of cooking really reduce stress levels?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在梦中看见数学定理的天才？斯里尼瓦瑟·拉马努金醒后即刻记笔记的习惯"
 description: "数论与无穷级数天才斯里尼瓦瑟·拉马努金。深入探讨他将REM睡眠中获得的直觉灵感在清晨醒来时转化为3分钟笔记的大脑重置法，以及适合现代人的3步骤实践习惯。"
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 ramanujan-dream-notebook 的内容基于 <strong>斯里尼瓦瑟·拉马努金历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>斯里尼瓦瑟·拉马努金历史评传及自传记录考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 醒后阿尔法波与默认模式网络的结合机制
+## 1. 醒后阿尔法波与默认模式网络的结合机制
 
 在清晨醒来后的最初5到10分钟内，在大脑额叶的批判性逻辑完全激活之前，人脑灵活地停留在阿尔法波及慢西塔波状态——这是意识与无意识的交界处。在这段时间里，大脑默认模式网络（DMN）整夜在潜意识中重组的新颖联想不会挥发，而是平滑地浮现到意识表面。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 注意醒后即刻暴露于智能手机媒体及强制进入贝塔波状态
-
-睁眼就查看消息通知、新闻或社交媒体会使大脑立即进入紧张的高频贝塔波状态。在这一刻，大脑开始被动地对外部刺激做出反应，瞬间挥发掉潜意识整夜精炼出的想法和直觉。请在醒后至少5到10分钟内彻底隔绝数字媒体，专注于属于你自己的直觉。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意醒后即刻暴露于智能手机媒体及强制进入贝塔波状态
+
+睁眼就查看消息通知、新闻或社交媒体会使大脑立即进入紧张的高频贝塔波状态。在这一刻，大脑开始被动地对外部刺激做出反应，瞬间挥发掉潜意识整夜精炼出的想法和直觉。请在醒后至少5到10分钟内彻底隔绝数字媒体，专注于属于你自己的直觉。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>如果想不起梦境或没有晨间灵感该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全没有必要强行榨取想法。只需在迷糊的状态下写下脑海中盘旋的一个词语、情绪，或是今天特别想解决的一个难题，就能强化阿尔法波回路，渐渐开启潜意识的大门。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>可以使用智能手机的备忘录应用或语音录音吗？</span>

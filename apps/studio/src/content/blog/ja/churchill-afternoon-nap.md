@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "一日を2回に分けて使った首相：ウィンストン・チャーチルの午後昼寝とアデノシン掃除ルーティン"
 description: "第2次世界大戦の勝利を導いたイギリスの首相ウィンストン・チャーチルが毎日午後ベッドに横たわって取った昼寝ルーティン。蓄積された疲労物質アデノシン（Adenosine）を解消し、睡眠慣性なしに大脳覚醒を復元するパワーナップ（Power Nap）の認知神経科学的原理を解き明かします。"
 pubDate: "2026-04-24"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「churchill-afternoon-nap」は <strong>マーティン・ギルバート伝記『Winston S. Churchill』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マーティン・ギルバート伝記『Winston S. Churchill』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## アデノシン（Adenosine）掃除と睡眠慣性（Sleep Inertia）のない大脳覚醒回復
+## 1. アデノシン（Adenosine）掃除と睡眠慣性（Sleep Inertia）のない大脳覚醒回復
 
 人間が起きて活動する間、大脳ニューロンの代謝副産物として「アデノシン（Adenosine）」が蓄積され、睡眠圧力（Sleep Pressure）を形成します。アデノシンが前頭前野の受容体に結合すると、認知処理速度が急激に低下し判断力が低下します。午後の短い昼寝（20分内外のパワーナップ、または90分の完全睡眠周期）は、蓄積されたアデノシンを急速に分解・掃除します。特に20分内外の短い昼寝は、脳が深いNREM第3段階の徐波睡眠に陥る直前に目が覚めるよう調整するため、目が覚めた後に体が朦朧とする「睡眠慣性（Sleep Inertia）」なしに即座の整前頭葉覚醒を回復させます。チャーチルが実践した90分のベッド昼寝もまた、NREMとREMを完走する1つの完全睡眠周期を通じて大脳皮質をリセットする高度な生理的再充電メカニズムでした。
 
 ---
 
-## 注意事項＆ヒント：夜間睡眠妨害の遮断とアラームタイムラインの厳守
-
-昼寝ルーティンの核心は、夜間睡眠の圧力を奪うことなく午後の疲労のみを解消することにあります。午後3時以降に長時間横になって寝てしまうと、夜間の入眠を阻害して睡眠障害の悪循環に陥ります。一般的な知的労働者には15〜20分の短い「パワーナップ（Power Nap）」が最も推奨され、30分以上寝てしまうと深い睡眠段階に入り起床後極度な睡眠慣性を経験することになるため、正確なアラーム設定を通じて起床タイミングを制御しなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：夜間睡眠妨害の遮断とアラームタイムラインの厳守
+
+昼寝ルーティンの核心は、夜間睡眠の圧力を奪うことなく午後の疲労のみを解消することにあります。午後3時以降に長時間横になって寝てしまうと、夜間の入眠を阻害して睡眠障害の悪循環に陥ります。一般的な知的労働者には15〜20分の短い「パワーナップ（Power Nap）」が最も推奨され、30分以上寝てしまうと深い睡眠段階に入り起床後極度な睡眠慣性を経験することになるため、正確なアラーム設定を通じて起床タイミングを制御しなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>チャーチル首相が戦争中に実践した1.5時間のベッド昼寝と、現代人の20分のパワーナップの違いは何ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       チャーチルの1.5時間の昼寝は、夜間睡眠の縮小（4〜5時間）を前提にNREMとREM睡眠を完走する1つの完璧な睡眠周期を確保したものでした。一方、一般的な会社員や現代人の20分のパワーナップは、夜間睡眠（7時間）を保存しながら、浅い睡眠段階（NREM第1〜2段階）までにのみ進入し、睡眠慣性なしにアデノシンのみを即座に掃除する認知覚醒技術です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>20休間の間目を閉じていても、実際に眠りにつけなければ昼寝の効果は全くありませんか？</span>

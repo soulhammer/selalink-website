@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Friedrich Nietzsche's Walking & Writing Routine: Unlocking Brain Creativity with Every Step"
 description: "Explore the historical fact of German philosopher Friedrich Nietzsche walking up to 8 hours daily through Swiss mountain trails to write monumental thoughts in notebooks, and the neuroscience of how movement fuels DMN and divergent thinking."
 pubDate: "2026-04-27"
@@ -38,22 +39,20 @@ In this post, we unpack the neuroscientific mechanisms behind Nietzsche's walkin
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding nietzsche-walking-writing is based on <strong>Historical Biographies and Autobiographical Verification of Friedrich Nietzsche & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies and Autobiographical Verification of Friedrich Nietzsche & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why Walking Rhythm Boosts the DMN and Divergent Thinking
+## 1. Why Walking Rhythm Boosts the DMN and Divergent Thinking
 
 Walking at a steady tempo moderately elevates heart rate, maximizing cerebral blood flow and oxygenation. The rhythmic movement relieves working memory overload and activates the Default Mode Network (DMN), transitioning the brain into a divergent mode that connects distant concepts.
 
 ---
 
-## Precautions and Practical Tips for Nietzschean Walking
-
-Avoid looking at smartphones or digital screens during your walk. Keep only a pocket notebook and pen to block digital triggers, allowing subconscious creativity to flourish. Design an environment where action triggers naturally rather than relying solely on willpower.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Avoid looking at smartphones or digital screens during your walk. Keep only a po
   </p>
 </div>
 
+---
+
+## 3. Precautions and Practical Tips for Nietzschean Walking
+
+Avoid looking at smartphones or digital screens during your walk. Keep only a pocket notebook and pen to block digital triggers, allowing subconscious creativity to flourish. Design an environment where action triggers naturally rather than relying solely on willpower.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>When specifically during the day did Nietzsche walk?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Avoid looking at smartphones or digital screens during your walk. Keep only a po
       Nietzsche walked primarily between morning breakfast and lunchtime, as well as during late afternoons. He preferred mountain trails and forest paths to draw philosophical inspiration directly from nature.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Must I walk outdoors when practicing this in daily life?</span>

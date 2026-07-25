@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "エレガンスの礎：オードリー・ヘップバーンの心癒やす庭園ルーティンと土いじりの脳科学"
 description: "ハリウッドの伝説オードリー・ヘップバーン。極度の世間の関心と闘病の苦しみの中でも情緒的安定とエレガンスを守り抜いた秘密である土いじり（ガーデニング）ルーティンの脳科学的原理とマイコバクテリウム・バッカエ、セロトニン分泌メカニズムを解き明かします。"
 pubDate: "2026-01-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「hepburn-garden-mindfulness」は <strong>オードリー・ヘップバーン評伝およびスイス・トロシュナ（Tolochenaz）アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>オードリー・ヘップバーン評伝およびスイス・トロシュナ（Tolochenaz）アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## マイコバクテリウム・バッカエとセロトニン（Serotonin）分泌の脳科学
+## 1. マイコバクテリウム・バッカエとセロトニン（Serotonin）分泌の脳科学
 
 人間は土と交感する時、根本的な心理的安定を得るよう進化しました。脳科学および微生物学の研究によると、庭を整え土をいじる時、土の中に生息する有益な微生物である<strong>「マイコバクテリウム・バッカエ（Mycobacterium vaccae）」</strong>と身体的に接触することになります。このバクテリアは皮膚や呼吸器を通じて脳の神経細胞を刺激し、情緒的平穏と憂鬱感の緩和を助ける神経伝達物質である<strong>セロトニン（Serotonin）</strong>の放出を飛躍的に誘導します。つまり、庭を育てる行為は<strong>前頭葉（Prefrontal Cortex）</strong>の認知疲労を和らげる<strong>「注意回復（Attention Restoration）」</strong>と神経安定効果を同時に与えます。
 
 ---
 
-## 注意事項：雑念を排除し土と植物のアナログ触感に没頭するルール
-
-園芸ルーティンを通じて真の情緒的リラックスを得るには、行為自体の感覚に心を集中させることが重要です。土に触れながら今日やるべきことや業務に関する雑念を続けたら、脳の注意回復機能は遮断されます。指先に伝わる土の涼しい感覚、砂粒の荒い触感、葉の表面の柔らかさなど、目の前の物理的な土と植物の生命力にのみすべての神経を集中させる時、脳は初めてリラックス状態へと入ります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：雑念を排除し土と植物のアナログ触感に没頭するルール
+
+園芸ルーティンを通じて真の情緒的リラックスを得るには、行為自体の感覚に心を集中させることが重要です。土に触れながら今日やるべきことや業務に関する雑念を続けたら、脳の注意回復機能は遮断されます。指先に伝わる土の涼しい感覚、砂粒の荒い触感、葉の表面の柔らかさなど、目の前の物理的な土と植物の生命力にのみすべての神経を集中させる時、脳は初めてリラックス状態へと入ります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>家に庭や庭園がない場合、マンションの室内でも可能ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       十分に可能です。ベランダやリビングの小さな鉢に植え替え用の土を満たし、小さなハーブや空気浄化植物を植えるだけでも、同じ触感刺激とマイコバクテリウム・バッカエとの接触効果を得ることができます。核心は植物の大きさではなく、土との物理的な身体的交感です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>素手で触ると細菌感染などの衛生上の問題はありませんか？</span>

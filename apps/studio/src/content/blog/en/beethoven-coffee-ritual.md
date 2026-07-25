@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Precision of 60 Coffee Beans: Beethoven's Morning Coffee Ritual and Mindfulness"
 description: "Discover Ludwig van Beethoven's unique routine of counting exactly 60 coffee beans every morning, and explore the neuroscientific mechanism where fine sensory control calms the Default Mode Network (DMN) and flips the brain's focus switch."
 pubDate: "2026-05-14"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science embedded in Beethoven's curious 60
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding beethoven-coffee-ritual is based on <strong>Historical Verification from Anton Schindler's Biography *Biography of Ludwig van Beethoven* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Anton Schindler's Biography *Biography of Ludwig van Beethoven* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Suppression of DMN Hyper-activation and Cognitive Framing via Fine Sensory Focus
+## 1. Suppression of DMN Hyper-activation and Cognitive Framing via Fine Sensory Focus
 
 Right after waking up in the morning, the brain often overactivates the Default Mode Network (DMN) by recalling yesterday's worries or today's tasks, wasting cognitive energy and raising anxiety. At this moment, a precise fine motor task—such as feeling the tactile texture of small, round coffee beans and counting them one by one—serves as an excellent mindfulness exercise that forcefully shifts the brain's focus to the 'present sense'. This quiets the wandering thoughts of the DMN and awakens the sensory cortex and executive control networks. Furthermore, performing this identical sequence daily acts as a powerful cognitive trigger, signaling to the brain that it is now entering a state of high-level creative focus.
 
 ---
 
-## Caution & Tips: Preserving Refined Analog Sensory Engagement
-
-When conducting your morning ritual, checking news or social media on a smartphone or simply pressing buttons on automatic appliances hinders the brain from sustaining a mindfulness state. Immerse yourself strictly in analog sensory stimuli—such as fine hand sensations, the tactile texture of tools, aromas, and sounds—to facilitate smooth cognitive synchronization in the brain.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When conducting your morning ritual, checking news or social media on a smartpho
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Preserving Refined Analog Sensory Engagement
+
+When conducting your morning ritual, checking news or social media on a smartphone or simply pressing buttons on automatic appliances hinders the brain from sustaining a mindfulness state. Immerse yourself strictly in analog sensory stimuli—such as fine hand sensations, the tactile texture of tools, aromas, and sounds—to facilitate smooth cognitive synchronization in the brain.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Beethoven strictly insist on exactly 60 coffee beans?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When conducting your morning ritual, checking news or social media on a smartpho
       The strict figure of 60 beans controlled coffee taste through perfect quantification, but counting numbers precisely was itself a cognitive trigger that cut off useless wandering thoughts and activated the brain's high-level executive control network.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can non-coffee drinkers apply this mindfulness routine?</span>

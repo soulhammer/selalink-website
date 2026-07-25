@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "창의적 시각의 발견: 신사임당의 초정밀 자연 관찰 루틴"
 description: "조선 최고의 여류 예술가 신사임당의 자연 관찰을 통한 창의성 훈련법. 매일 아침 자연을 관찰하는 행동이 뇌의 주의 회복을 돕고 창조적 시각 네트워크를 발달시키는 과학적 근거를 설명합니다."
 pubDate: "2026-02-24"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Saimdang Nature Observation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 saimdang-nature-observation 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Saimdang Nature Observation 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 주의 회복 이론과 '부드러운 매혹'의 뇌과학적 힐링
+## 1. 주의 회복 이론과 '부드러운 매혹'의 뇌과학적 힐링
 
 환경심리학의 주의 회복 이론(Attention Restoration Theory)에 따르면, 도시 환경이나 디지털 기기 사용 시 작동하는 '지향적 주의(Directed Attention)'는 전전두엽 피질에 큰 에너지 고갈을 초래해 스트레스와 인지 피로를 낳습니다. 반면 자연 속 풀잎, 꽃, 바람처럼 인위적인 주의 집중을 요하지 않는 자연 대상을 편안하게 바라볼 때 뇌는 '부드러운 매혹(Soft Fascination)' 상태로 들어갑니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 영감과 마음의 충전을 위한 사임당의 한마디
-
-지혜로운 창의력은 머리를 쥐어짠다고 솟아나지 않습니다. 잠시 책상을 떠나 들풀 하나, 기어가는 곤충 하나를 가만히 들여다보며 뇌에 휴식을 주세요. 자연이 주는 이완 속에서 뇌는 스스로 고갈된 에너지를 채우고 참신한 영감을 우리에게 돌려줍니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     방에 들어와 관찰한 대상을 연필 드로잉, 짧은 줄글 묘사, 혹은 자수나 낙서 형태로 매일 1회 이상 아날로그 매체에 기록하여 시각화 능력을 내재화합니다.
   </p>
 </div>
+
+---
+
+## 3. 영감과 마음의 충전을 위한 사임당의 한마디
+
+지혜로운 창의력은 머리를 쥐어짠다고 솟아나지 않습니다. 잠시 책상을 떠나 들풀 하나, 기어가는 곤충 하나를 가만히 들여다보며 뇌에 휴식을 주세요. 자연이 주는 이완 속에서 뇌는 스스로 고갈된 에너지를 채우고 참신한 영감을 우리에게 돌려줍니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

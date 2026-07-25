@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Organization Method of an Inventor with 355 Patents? Alfred Nobel's Evening Reflection Routine"
 description: "Alfred Nobel, founder of the Nobel Prizes. Discover his evening metacognitive routine of reviewing daytime experiments nightly through multilingual journals to forge 355 patents."
 pubDate: "2026-04-15"
@@ -38,14 +39,14 @@ In this post, we unpack the neuroscientific mechanisms behind Alfred Nobel's eve
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding nobel-evening-reflection is based on <strong>Historical Biographies and Autobiographical Records of Alfred Nobel & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies and Autobiographical Records of Alfred Nobel & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hippocampal Memory Re-Consolidation & Metacognitive Stimulation
+## 1. Hippocampal Memory Re-Consolidation & Metacognitive Stimulation
 
 Short-term information gathered during daytime easily decays during sleep if unorganized.
 
@@ -53,9 +54,7 @@ Summarizing and reviewing daily logs in the evening, as Nobel did, facilitates h
 
 ---
 
-## Focus on Facts and Corrections, Not Emotional Self-Blame
-
-There is no need for emotional self-blame regarding daytime errors. Treat missteps as cool objective data—what was attempted and what needs adjustment—just like Nobel's laboratory notebooks. Rather than relying solely on willpower, design a physical environment and habitual triggers to sustain consistency naturally.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ There is no need for emotional self-blame regarding daytime errors. Treat misste
   </p>
 </div>
 
+---
+
+## 3. Focus on Facts and Corrections, Not Emotional Self-Blame
+
+There is no need for emotional self-blame regarding daytime errors. Treat missteps as cool objective data—what was attempted and what needs adjustment—just like Nobel's laboratory notebooks. Rather than relying solely on willpower, design a physical environment and habitual triggers to sustain consistency naturally.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Must I write in multiple languages or foreign tongues like Nobel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ There is no need for emotional self-blame regarding daytime errors. Treat misste
       No. The core mechanism is refining expressions into your own clear words in your native tongue. Writing a single sentence in a language you are learning can provide bonus cognitive stimulation.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What if I get exhausted writing a daily journal?</span>

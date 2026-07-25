@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Presisi untuk Menenangkan Pikiran yang Ragu: Rutinitas Meditasi Kaligrafi dan Kontrol Motorik Halus Kim Koo"
 description: "Pelajari bagaimana Kim Koo, pemimpin Pemerintahan Sementara Republik Korea, melatih pikirannya melalui kaligrafi. Temukan neurosains kontrol motorik halus, stabilisasi amigdala, dan panduan praktis 3 langkah."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Di tengah stres hidup-mati yang ekstrem, ia mematuhi ritual kultivasi pikiran ha
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai kimgu-brush-meditation didasarkan pada <strong>Verifikasi Historis dari Autobiografi Kim Koo *Baekbum Ilji*, Arsip Pemerintahan Sementara & Penelitian Neurosains Kognitif serta Sains Kontrol Motorik</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Kim Koo *Baekbum Ilji*, Arsip Pemerintahan Sementara & Penelitian Neurosains Kognitif serta Sains Kontrol Motorik</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kontrol Motorik Halus dan Neurosains Stabilisasi Amigdala
+## 1. Kontrol Motorik Halus dan Neurosains Stabilisasi Amigdala
 
 Mengeksekusi <strong>Kontrol Motorik Halus (Fine Motor Control)</strong>—secara presisi memodulasi tekanan tangan dan sudut alat seperti dalam kaligrafi kuas—secara intensif melibatkan <strong>Korteks Somatosensori</strong> dan <strong>Korteks Motorik</strong>. Ketika sumber daya kognitif bergeser ke manipulasi taktil, hiper-gairah di <strong>amigdala</strong> secara fisik ditekan. Selain itu, tindakan fisik berirama dan stabil mengaktifkan <strong>Sistem Saraf Parasimpatis</strong>, menurunkan konsentrasi <strong>kortisol</strong>.
 
 ---
 
-## Perhatian: Menghilangkan Ketidaksabaran Berorientasi Hasil untuk Terbenam dalam Sensasi Taktil
-
-Saat merasa cemas, hindari mencari solusi instan atau terobsesi dengan estetika tulisan. Tancapkan kesadaran Anda secara ketat pada gesekan yang dirasakan saat kuas atau pena menyentuh kertas dan tindakan motorik langsung dari menarik garis.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Saat merasa cemas, hindari mencari solusi instan atau terobsesi dengan estetika 
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Menghilangkan Ketidaksabaran Berorientasi Hasil untuk Terbenam dalam Sensasi Taktil
+
+Saat merasa cemas, hindari mencari solusi instan atau terobsesi dengan estetika tulisan. Tancapkan kesadaran Anda secara ketat pada gesekan yang dirasakan saat kuas atau pena menyentuh kertas dan tindakan motorik langsung dari menarik garis.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa mekanisme neurosains di balik bagaimana kaligrafi meredakan stres dan menenangkan pikiran?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Saat merasa cemas, hindari mencari solusi instan atau terobsesi dengan estetika 
       Mengatur tekanan dan sudut kuas membutuhkan Kontrol Motorik Halus, yang sangat mengaktifkan korteks somatosensori dan jaringan eksekutif prefrontal. Keterlibatan terkonsentrasi ini menekan sinyal ancaman di amigdala.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bisakah saya mencapai manfaat neurobiologis yang identik menggunakan pena fountain atau pena standar jika saya tidak memiliki kuas kaligrafi?</span>

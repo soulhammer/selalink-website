@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "マルクス・アウレリウスの朝のジャーナリング：ストア哲学で心を静める方法"
 description: "ローマ皇帝マルクス・アウレリウスが日の出直前に日記を書き、極度のストレスを解消し内面の回復弾力性を養った秘訣を探ります。"
 pubDate: "2026-05-22"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「marcus-aurelius-morning-journaling」は <strong>マルクス・アウレリウス『自省録』および歴史的評伝考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マルクス・アウレリウス『自省録』および歴史的評伝考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 朝の省察日記がストレスを遮断する理由
+## 1. 朝の省察日記がストレスを遮断する理由
 
 朝起きてすぐに文字を書く行為は、脳の認知フィルターの役割を果たします。曖昧な不安やその日に抱える感情的な懸念を紙の上に吐き出すことで、理性を司る前頭前野皮質が活性化すると同時に、感情や生存を司る扁桃体の過剰な不安反応が即座に鎮まります。この認知の再構成はコルチゾールの分泌を正常化し、脳の制御力を高め、感情に流されることなく冷静に義務を遂行する準備を整えます。
 
 ---
 
-## 効果的なストア派ジャーナリングのためのルール
-
-他者に見せるための洗練された修辞を捨てる必要があります。徹底して自分自身のためだけの素直な執筆でなければなりません。自分の弱さや過ちについて客観的に記録しつつ、自分を「お前」や「あなた」と呼ぶ二人称文法を使用することをお勧めします。このような表現方法は物理的・認知的な距離（Cognitive Distance）を生み出し、第三者の視点から自身の行動をより冷静に観察できるよう助けます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 効果的なストア派ジャーナリングのためのルール
+
+他者に見せるための洗練された修辞を捨てる必要があります。徹底して自分自身のためだけの素直な執筆でなければなりません。自分の弱さや過ちについて客観的に記録しつつ、自分を「お前」や「あなた」と呼ぶ二人称文法を使用することをお勧めします。このような表現方法は物理的・認知的な距離（Cognitive Distance）を生み出し、第三者の視点から自身の行動をより冷静に観察できるよう助けます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>朝の忙しい時間に毎日日記を書くのが難しい場合はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       一日スキップしたからといって自分を責める必要は全くありません。自責の負の感情はストア哲学が回避すべきとする不要な苦痛です。どうしても時間がない場合は、スマホのメモ帳に「今日の困難に揺らぐまい」と一行残すだけでも十分です。大切なのはマインドセットの一貫性です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>一般的な感謝日記や通常の朝日記とは何が違うのですか？</span>

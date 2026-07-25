@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在寻找理念之前先锻炼肩膀的哲学家？柏拉图的高强度身体预热法"
 description: "古希腊哲学家柏拉图人们常以他摔跤手时期的绰号“宽肩膀”而非本名来称呼他。探讨他在每天早晨进行理智讨论前激烈锻炼身体的脑科学原理以及现代居家训练的应用方法。"
 pubDate: "2026-03-05"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 plato-gymnastic-wrestling 的内容基于 <strong>柏拉图历史传记与著作考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>柏拉图历史传记与著作考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 阻力运动带来的脑血流量最大化与BDNF释放效应
+## 1. 阻力运动带来的脑血流量最大化与BDNF释放效应
 
 根据现代运动生理学和认知科学研究，蹲起或俯卧撑等高强度身体阻力运动（Resistance Training）能立即可提升大脑皮层的血流量与氧饱和度。这种生理觉醒会急剧诱发脑源性神经营养因子（BDNF）的释放，该物质是促进脑神经细胞生成和突触可塑性的核心因子。同时大量分泌多巴胺和去甲肾上腺素，使大脑在运动后立即处于极佳状态，专注于长时记忆形成与高难度抽象逻辑运算。
 
 ---
 
-## 预防受伤与进入学习状态的时机调整建议
-
-早晨起床后在身体未充分拉伸的状态下突然开始高强度运动可能会对关节和韧带造成负担。因此，在开始徒手力量训练前，请先通过轻度拉伸和原地踏步预热关节。此外，若运动结束后休息超过15分钟，运动带来的脑血流峰值优势将会消退，因此最好在呼吸稍微平复后（5分钟以内）立即开始处理最复杂的脑力任务。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 预防受伤与进入学习状态的时机调整建议
+
+早晨起床后在身体未充分拉伸的状态下突然开始高强度运动可能会对关节和韧带造成负担。因此，在开始徒手力量训练前，请先通过轻度拉伸和原地踏步预热关节。此外，若运动结束后休息超过15分钟，运动带来的脑血流峰值优势将会消退，因此最好在呼吸稍微平复后（5分钟以内）立即开始处理最复杂的脑力任务。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>关节较弱或从未做过阻力运动的初学者也可以做吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ faqs:
       是的，完全不需要强行举重或进行高受伤风险的剧烈运动。您可以根据自己的体能降级为靠墙俯卧撑、慢速深蹲或轻松的平板支撑。提升脑血流量的生理指标是“呼吸变急促并微微出汗的强度”，请在无伤安全的范围内灵活调整强度。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>可以用轻度慢跑或跑步等有氧运动代替力量训练吗？</span>

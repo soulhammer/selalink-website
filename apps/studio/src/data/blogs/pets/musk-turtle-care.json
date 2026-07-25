@@ -507,6 +507,10 @@
           "등껍질탈피"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/musk_turtle_care.png"
   }
 }

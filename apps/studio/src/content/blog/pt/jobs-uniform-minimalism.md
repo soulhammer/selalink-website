@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Gênio que Vestia a Mesma Roupa Todos os Dias: A Rotina de Minimalismo Decisório e Preservação de Recursos Cognitivos Pré-frontais de Steve Jobs"
 description: "Descubra como o cofundador da Apple, Steve Jobs, preservava sua energia cognitiva vestindo um uniforme diário de blusa de gola alta preta e calça jeans. Explore a neurociência da fadiga de decisão e a alocação de recursos pré-frontais."
 pubDate: "2026-06-25"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a psicologia cognitiva e a neurociência por trás
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre jobs-uniform-minimalism é baseada em <strong>Verificação Histórica da Biografia *Steve Jobs* (2011) de Walter Isaacson, Arquivos da Apple e Pesquisa em Psicologia Cognitiva e Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia *Steve Jobs* (2011) de Walter Isaacson, Arquivos da Apple e Pesquisa em Psicologia Cognitiva e Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Eliminação da Fadiga de Decisão e Preservação de Recursos Cognitivos Pré-frontais
+## 1. Eliminação da Fadiga de Decisão e Preservação de Recursos Cognitivos Pré-frontais
 
 O desempenho do córtex pré-frontal humano depende de uma reserva diária limitada de energia. Gastar recursos cognitivos cedo escolhendo roupas induz a <strong>Fadiga de Decisão (Decision Fatigue)</strong>. O hábito de Steve Jobs de vestir um uniforme fixo eliminava microdecisões matinais. Ao liberar capacidade executiva, preservava o máximo de capacidade no <strong>Córtex Pré-frontal</strong> para inovação e estratégias.
 
 ---
 
-## Precaução: Transforme as Escolhas Diárias em Constantes para Economizar Energia
-
-A essência do minimalismo no vestir não é a monotonia estética, mas a eliminação sistemática de microdecisões triviais. Converter escolhas repetitivas (café da manhã, roupa, trajeto) em constantes fixas economiza energia pré-frontal, sendo o segredo para maximizar o rendimento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A essência do minimalismo no vestir não é a monotonia estética, mas a elimin
   </p>
 </div>
 
+---
+
+## 3. Precaução: Transforme as Escolhas Diárias em Constantes para Economizar Energia
+
+A essência do minimalismo no vestir não é a monotonia estética, mas a eliminação sistemática de microdecisões triviais. Converter escolhas repetitivas (café da manhã, roupa, trajeto) em constantes fixas economiza energia pré-frontal, sendo o segredo para maximizar o rendimento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Por que Steve Jobs insistia em vestir exatamente a mesma roupa todos os dias?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A essência do minimalismo no vestir não é a monotonia estética, mas a elimin
       Jobs eliminou a escolha de roupas matinais para evitar a Fadiga de Decisão e conservar a energia do córtex pré-frontal, dedicando 100% da sua capacidade à gestão da Apple.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Qual é uma alternativa prática se vestir um visual idêntico parecer irrealista?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El método de organización del inventor de 355 patentes? La rutina de reflexión nocturna de Alfred Nobel"
 description: "Alfred Nobel, fundador de los Premios Nobel. Descubra su rutina metacognitiva nocturna de revisar experimentos diarios en un diario multilingüe para lograr 355 patentes."
 pubDate: "2026-04-15"
@@ -38,14 +39,14 @@ En este artículo, exploramos la ciencia tras la rutina nocturna de Nobel y cóm
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre nobel-evening-reflection se basa en <strong>Biografías históricas y registros autobiográficos de Alfred Nobel e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Alfred Nobel e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reconsolidación de la memoria en el hipocampo y estimulación metacognitiva
+## 1. Reconsolidación de la memoria en el hipocampo y estimulación metacognitiva
 
 La información a corto plazo recopilada de día tiende a perderse durante el sueño si no se procesa.
 
@@ -53,9 +54,7 @@ Resumir los registros diarios por la noche impulsa la <strong>'Reconsolidación 
 
 ---
 
-## Concéntrese en hechos y mejoras, no en culpas emocionales
-
-No se culpe por los errores del día. Trátelos como datos objetivos: qué se intentó y qué debe ajustarse. En lugar de depender de la fuerza de voluntad, diseñe un entorno físico que active el hábito automáticamente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ No se culpe por los errores del día. Trátelos como datos objetivos: qué se in
   </p>
 </div>
 
+---
+
+## 3. Concéntrese en hechos y mejoras, no en culpas emocionales
+
+No se culpe por los errores del día. Trátelos como datos objetivos: qué se intentó y qué debe ajustarse. En lugar de depender de la fuerza de voluntad, diseñe un entorno físico que active el hábito automáticamente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es obligatorio escribir en varios idiomas extranjeros?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ No se culpe por los errores del día. Trátelos como datos objetivos: qué se in
       No. Lo fundamental es refinar las ideas en sus propias palabras en su idioma nativo. Escribir una frase en un idioma que esté aprendiendo aporta una buena estimulación cerebral.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué hacer si me canso de escribir el diario todas las noches?</span>

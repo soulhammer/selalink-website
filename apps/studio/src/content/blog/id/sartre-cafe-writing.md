@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Filosofi di Tengah Kebisingan Kafe? Rutinitas Fokus Kursi Khusus dan Pembagian Waktu ala Sartre"
 description: "Filsuf eksistensialis Prancis Jean-Paul Sartre menulis di meja khusus di kafe Paris yang ramai, membagi waktu pagi dan sore secara ketat. Pelajari efek penjangkaran kognitif lingkungan."
 pubDate: "2026-06-02"
@@ -37,17 +38,17 @@ Dalam artikel ini, kami mengulas mekanisme kognitif kreatif di balik rutinitas m
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai sartre-cafe-writing didasarkan pada <strong>Riset biografi historis Jean-Paul Sartre & penelitian Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset biografi historis Jean-Paul Sartre & penelitian Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Penjangkaran Kognitif Spasial dan Refleks Fokus Terkondisi
+## 1. Penjangkaran Kognitif Spasial dan Refleks Fokus Terkondisi
 
 Otak kita memiliki plastisitas kontekstual yang kuat, menghubungkan ruang tertentu dengan tindakan yang dilakukan di dalamnya. Misalnya, tempat tidur dihubungkan dengan tidur, dan meja makan dengan makan.
 
@@ -55,9 +56,7 @@ Sikap Sartre yang selalu membaca dan menulis hanya di meja kafe tertentu menguki
 
 ---
 
-## Larang Perilaku Non-Target di Kursi Khusus
-
-Agar penjangkaran kognitif spasial tetap efektif, Anda harus mematuhi aturan ketat: lakukan 'hanya perilaku target (belajar, menulis)' di ruang khusus tersebut. Jika Anda berselancar di web atau bermain gim di kursi khusus, hubungan ruang-perilaku otak akan melemah. Saat beristirahat, selalu bangun dan beristirahatlah di tempat lain.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Agar penjangkaran kognitif spasial tetap efektif, Anda harus mematuhi aturan ket
   </p>
 </div>
 
+---
+
+## 3. Larang Perilaku Non-Target di Kursi Khusus
+
+Agar penjangkaran kognitif spasial tetap efektif, Anda harus mematuhi aturan ketat: lakukan 'hanya perilaku target (belajar, menulis)' di ruang khusus tersebut. Jika Anda berselancar di web atau bermain gim di kursi khusus, hubungan ruang-perilaku otak akan melemah. Saat beristirahat, selalu bangun dan beristirahatlah di tempat lain.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah lingkungan dengan kebisingan putih seperti kafe lebih baik untuk fokus daripada tempat yang sangat hening seperti ruang belajar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Agar penjangkaran kognitif spasial tetap efektif, Anda harus mematuhi aturan ket
       Hal ini bervariasi bagi setiap orang. Beberapa penelitian menunjukkan bahwa kebisingan putih sedang (50–70 dB) sedikit mengalihkan perhatian pendengaran, yang secara paradoks merangsang pemecahan masalah kreatif. Namun yang paling mendasar adalah membangun aturan penjangkaran kognitif: 'memulai tindakan yang sama di tempat yang sama setiap hari'.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bukankah mengubah kursi khusus setiap hari atau secara berkala lebih baik untuk menstimulasi otak?</span>

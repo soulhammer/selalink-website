@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Examen de conciencia nocturno de Séneca: Cómo lograr un sueño apacible y corregir los errores de ayer"
 description: "Descubra cómo el filósofo estoico Séneca examinaba sus acciones diarias en una habitación oscura antes de dormir, aliviando la tensión cerebral y mejorando la calidad del sueño."
 pubDate: "2026-02-04"
@@ -36,14 +37,14 @@ Este antiguo ritual de reflexión que logra el cierre cognitivo está validado p
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre seneca-evening-review se basa en <strong>Verificación textual de 'De Ira' (Sobre la ira) de Séneca, literatura estoica e investigación en neurociencia cognitiva y fisiología del sueño</strong>.
+      Este contenido se basa en <strong>Verificación textual de 'De Ira' (Sobre la ira) de Séneca, literatura estoica e investigación en neurociencia cognitiva y fisiología del sueño</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Razones fisiológicas por las que la reflexión nocturna cambia el cerebro al modo de sueño
+## 1. Razones fisiológicas por las que la reflexión nocturna cambia el cerebro al modo de sueño
 
 Irse a la cama con ansiedad y estrés no resueltos mantiene activo el sistema nervioso simpático, obligando al cerebro a permanecer hipervigilante durante el sueño e interrumpiendo el descanso profundo.
 
@@ -51,9 +52,7 @@ Por el contrario, el examen nocturno induce el 'Cierre Cognitivo'. Evaluar objet
 
 ---
 
-## Evite la trampa de la culpa y la rumiación
-
-La esencia de la reflexión nocturna es la mejora racional, no el castigo emocional ni la culpa. Reprocharse errores antes de dormir desencadena hormonas de estrés. Perdónese con calma: "Cometí un error, pero entiendo la razón y lo corregiré mañana". Mantenga la serenidad objetiva de un juez imparcial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ La esencia de la reflexión nocturna es la mejora racional, no el castigo emocio
     Elija un momento lamentable del día y determine una solución concreta para mañana. Una vez definida, declare mentalmente: "El día de hoy está saldado", y libere todo pensamiento.
   </p>
 </div>
+
+---
+
+## 3. Evite la trampa de la culpa y la rumiación
+
+La esencia de la reflexión nocturna es la mejora racional, no el castigo emocional ni la culpa. Reprocharse errores antes de dormir desencadena hormonas de estrés. Perdónese con calma: "Cometí un error, pero entiendo la razón y lo corregiré mañana". Mantenga la serenidad objetiva de un juez imparcial.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Laberinto Dibujado en el Ojo de la Mente: La Rutina de Visualización de Memoria de Trabajo Visoespacial de Borges"
 description: "Descubra cómo el maestro literario argentino Jorge Luis Borges diseñó mentalmente estructuras tridimensionales de texto y laberintos tras perder la vista, dictando sus obras en voz alta. Explore los mecanismos neurocientíficos para maximizar la memoria de trabajo visoespacial y activar la plasticidad cruzada."
 pubDate: "2026-06-21"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre borges-mental-dictation se basa en <strong>Verificación Histórica de la Biografía de Edwin Williamson *Borges: Una vida (Borges: A Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Edwin Williamson *Borges: Una vida (Borges: A Life)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Plasticidad Cruzada y Principios de Expansión de la Memoria de Trabajo Visoespacial
+## 1. Plasticidad Cruzada y Principios de Expansión de la Memoria de Trabajo Visoespacial
 
 Cuando la entrada visual externa se restringe, el cerebro recluta la corteza visual para procesar información auditiva, táctil y espacial, un fenómeno conocido como 'Plasticidad Cruzada (Cross-Modal Plasticity)'. Cuando el ciego Borges ensamblaba mentalmente laberintos intrincados y estructuras de texto, su corteza visual operaba como un área de asociación dedicada al diseño lógico de alto nivel y al diseño espacial. Visualizar mentalmente mapas de conceptos abstractos en 3D con los ojos cerrados expande drásticamente la capacidad de la memoria de trabajo visoespacial entre el hipocampo y la corteza prefrontal, desbloqueando una intuición avanzada para ensamblar datos complejos en marcos coherentes.
 
 ---
 
-## Precauciones y Consejos: Enfocarse en Interestructuras Orgánicas en Lugar de Símbolos de Texto
-
-La clave de la rutina de visualización borgesiana no es reproducir tipos de letra o ortografía detrás de los párpados. Consiste en dibujar una 'estructura tridimensional' (mapas mentales, organigramas espaciales o modelos de laberintos en 3D) que muestre cómo se conectan e interactúan los conceptos clave. Enfóquese en las relaciones causales abstractas y en las estructuras orgánicas en lugar de en las formas literales de las letras para maximizar la memoria de trabajo visoespacial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La clave de la rutina de visualización borgesiana no es reproducir tipos de let
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Enfocarse en Interestructuras Orgánicas en Lugar de Símbolos de Texto
+
+La clave de la rutina de visualización borgesiana no es reproducir tipos de letra o ortografía detrás de los párpados. Consiste en dibujar una 'estructura tridimensional' (mapas mentales, organigramas espaciales o modelos de laberintos en 3D) que muestre cómo se conectan e interactúan los conceptos clave. Enfóquese en las relaciones causales abstractas y en las estructuras orgánicas en lugar de en las formas literales de las letras para maximizar la memoria de trabajo visoespacial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Al intentar la visualización mental, las imágenes se fragmentan o borran. ¿Algún consejo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La clave de la rutina de visualización borgesiana no es reproducir tipos de let
       Es un fenómeno neurológico totalmente natural. En lugar de intentar imágenes detalladas de inmediato, comience con un modelo abstracto muy simplificado: dibuje 2 o 3 cajas o círculos básicos conectados por líneas. Con el entrenamiento, la resolución visoespacial del cerebro aumentará.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿El hábito de la visualización 3D con ojos cerrados ayuda realmente a habilidades como la planificación o la programación?</span>

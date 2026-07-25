@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "身穿睡袍步行 15 英里的学者：亚当·斯密的沉思散步习惯"
 description: "为了在脑海中构筑思想，亚当·斯密非常喜欢沉浸在长距离散步中。解构切断数字刺激并保持步行如何激活预设模式网络（DMN），从而极大地提升创造力与专注力的神经科学原理。"
 pubDate: "2026-06-02"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 smith-contemplative-walking 的内容基于 <strong>亚当·斯密沉思散步历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>亚当·斯密沉思散步历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 数字屏蔽步行与预设模式网络（DMN）的协同效应
+## 1. 数字屏蔽步行与预设模式网络（DMN）的协同效应
 
 当边走路边看手机或屏幕等数字设备时，大脑资源会因处理大量的视觉信息而急剧消耗。相反，如果切断所有数字设备并以恒定的节奏行走，大脑视觉皮层的负担就会降低，从而高度激活能够诱发创意灵感的“预设模式网络（DMN）”。斯坦福大学的研究表明，步行时的创意灵感产出率比坐着时平均提升了 60%。散步引发的心肺血液循环还能向前额叶皮层输送新鲜氧气，显著提高认知灵活性与概念整合速度。
 
 ---
 
-## 注意事项与实用建议
-
-沉思散步最大的陷阱是在行走时查看手机或听音乐、播客。当听觉或视觉刺激持续注入大脑时，大脑就无法切换至预设模式网络（DMN），而是重回刺激处理模式。因此，进行沉思散步时，务必摘下耳机，除了周围的自然声音外，不接纳任何人工刺激，这样才能实现真正的大脑整理与换气。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与实用建议
+
+沉思散步最大的陷阱是在行走时查看手机或听音乐、播客。当听觉或视觉刺激持续注入大脑时，大脑就无法切换至预设模式网络（DMN），而是重回刺激处理模式。因此，进行沉思散步时，务必摘下耳机，除了周围的自然声音外，不接纳任何人工刺激，这样才能实现真正的大脑整理与换气。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>沉思散步的合适距离或时长大概是多少？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       无需像亚当·斯密那样步行 15 英里。促进大脑血液循环与激活预设模式网络（DMN）的临床建议时长为 20 到 40 分钟。相比于行走距离，保持完全切断数字刺激的专注状态更为核心。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果不方便出门，可以在室内的跑步机上散步吗？</span>

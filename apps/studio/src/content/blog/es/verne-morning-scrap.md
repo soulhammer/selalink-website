@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Estatua de conocimiento a las 5 AM: El hábito de recortes de Julio Verne para diseñar detalles"
 description: "Explore el hábito de recortes de fichas de información ejecutado cada mañana a las 5 AM por Julio Verne, pionero de la ciencia ficción. Una guía práctica moderna en 3 pasos para categorizar información y fortalecer la memoria semántica."
 pubDate: "2026-06-02"
@@ -36,22 +37,20 @@ En la publicación de hoy, exploramos los principios científicos detrás del h�
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre verne-morning-scrap se basa en <strong>Biografías históricas y registros autobiográficos de Julio Verne e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Julio Verne e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Archivado Categorizado Elaborativo': Fortalecimiento de la memoria semántica
+## 1. 'Archivado Categorizado Elaborativo': Fortalecimiento de la memoria semántica
 
 En lugar de simplemente hojear el conocimiento adquirido, el proceso de condensar manualmente la información en fichas clave y clasificarlas fortalece enormemente la red de memoria semántica del cerebro. En psicología cognitiva, esto se conoce como <strong>'Repaso Elaborativo'</strong>, una técnica que teje estrechamente nuevas piezas de información en las estructuras cognitivas existentes para su retención a largo plazo. La clasificación física de las fichas estimula las vías visuales y motoras del cerebro, reconociendo la coherencia estructural. Este hábito activa las vías de recuperación de la memoria asociativa, facilitando el ensamblaje fluido de ideas creativas.
 
 ---
 
-## Prevenir la falacia del coleccionista y maximizar la utilidad práctica
-
-La principal trampa de una rutina de recortes es caer en la 'Falacia del Coleccionista', sintiendo una falsa sensación de logro simplemente al recopilar y almacenar conocimiento. Crear fichas debe servir como un medio para vincular profundamente y aplicar el conocimiento en el cerebro. Los resúmenes deben redactarse con sus propias palabras, y debe revisar periódicamente su archivo de fichas para plasmar y conectar ideas en escritos o debates.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ La principal trampa de una rutina de recortes es caer en la 'Falacia del Colecci
     Los fines de semana o en momentos fijos, extraiga al azar 5 o 6 fichas guardadas, vuelva a leerlas y combine información aparentemente desconectada para generar sinergias o plasmarlas en escritos.
   </p>
 </div>
+
+---
+
+## 3. Prevenir la falacia del coleccionista y maximizar la utilidad práctica
+
+La principal trampa de una rutina de recortes es caer en la 'Falacia del Coleccionista', sintiendo una falsa sensación de logro simplemente al recopilar y almacenar conocimiento. Crear fichas debe servir como un medio para vincular profundamente y aplicar el conocimiento en el cerebro. Los resúmenes deben redactarse con sus propias palabras, y debe revisar periódicamente su archivo de fichas para plasmar y conectar ideas en escritos o debates.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

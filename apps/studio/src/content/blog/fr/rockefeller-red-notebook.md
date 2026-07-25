@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le magnat du pétrole qui ne tolérait pas le moindre centime de gaspillage ? La méthode de micro-enregistrement en temps réel de John D. Rockefeller"
 description: "John D. Rockefeller, considéré comme l'homme le plus riche de l'histoire. Découvrez comment le fait de garder un petit carnet rouge en poche pour noter immédiatement la moindre dépense stimulait son réseau de contrôle exécutif préfrontal."
 pubDate: "2026-06-24"
@@ -33,25 +34,23 @@ L'article d'aujourd'hui explore la valeur en sciences cognitives de la routine d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant rockefeller-red-notebook est basée sur <strong>Étude basée sur la biographie historique et l'autobiographie de John D. Rockefeller et les recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude basée sur la biographie historique et l'autobiographie de John D. Rockefeller et les recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Suivi en temps réel (Real-time Tracking) et activation du réseau de contrôle exécutif préfrontal
+## 1. Suivi en temps réel (Real-time Tracking) et activation du réseau de contrôle exécutif préfrontal
 
 Consigner manuellement des chiffres et détails dans un carnet dès qu'une action ou dépense survient stimule fortement le réseau de contrôle exécutif préfrontal du cerveau. Cela active l'autorégulation, retardant les réactions impulsives et renforçant la plasticité cérébrale pour le contrôle du comportement.
 
 ---
 
-## Pièges du suivi numérique et conseils pour le micro-enregistrement analogique en temps réel
-
-Consigner dans des applications de smartphone expose le cerveau à un stress cognitif dû au flux de notifications. Garder un petit carnet rouge et un crayon pour noter à la main en 5 secondes sans allumer d'application offre la décharge cognitive la plus nette.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Consigner dans des applications de smartphone expose le cerveau à un stress cog
   </p>
 </div>
 
+---
+
+## 3. Pièges du suivi numérique et conseils pour le micro-enregistrement analogique en temps réel
+
+Consigner dans des applications de smartphone expose le cerveau à un stress cognitif dû au flux de notifications. Garder un petit carnet rouge et un crayon pour noter à la main en 5 secondes sans allumer d'application offre la décharge cognitive la plus nette.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Un carnet analogique est-il vraiment préférable aux applications de budget ou de tâches sur smartphone ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Consigner dans des applications de smartphone expose le cerveau à un stress cog
       Oui. Le fait d'allumer un smartphone expose le cerveau au bruit numérique, dispersant l'attention. De plus, écrire à main levée envoie des informations somatosensorielles bien plus puissantes au cortex cérébral, doublant la conscience du contrôle de soi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Faut-il vraiment noter le moindre détail insignifiant, comme 1 centime ou 1 minute ?</span>

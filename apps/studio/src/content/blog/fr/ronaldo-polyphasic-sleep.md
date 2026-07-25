@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le secret d'un physique infatigable 24h/24 ? La méthode de sommeil polyphasique de 90 minutes de Cristiano Ronaldo"
 description: "Cristiano Ronaldo, l'un des meilleurs attaquants au monde. Découvrez la science du sommeil et les conseils pratiques derrière sa routine de 5 cycles de sommeil de 90 minutes par jour pour maximiser la récupération physique."
 pubDate: "2026-01-20"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant ronaldo-polyphasic-sleep est basée sur <strong>Biographies historiques et écrits autobiographiques de Cristiano Ronaldo & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et écrits autobiographiques de Cristiano Ronaldo & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cycles R90 de 90 minutes et optimisation de la libération de l'hormone de croissance
+## 1. Cycles R90 de 90 minutes et optimisation de la libération de l'hormone de croissance
 
 Un cycle de sommeil naturel associe sommeil Non-REM et REM pendant environ 90 minutes. Se réveiller au milieu d'un cycle provoque une 'inertie du sommeil', laissant le cerveau engourdi. 
 
@@ -47,9 +48,7 @@ Le sommeil polyphasique de 90 minutes de Ronaldo respecte ce cycle naturel, éli
 
 ---
 
-## Un environnement obscurci et une bonne posture déterminent l'efficacité du sommeil
-
-Pour réussir le sommeil polyphasique ou les siestes flash, le contrôle de l'environnement doit être total. La moindre lumière ou bruit perturbe la relaxation profonde du cerveau. Pour réduire la charge cardiovasculaire et garder la colonne alignée, dormez en position fœtale sur le côté, genoux légèrement pliés.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Pour réussir le sommeil polyphasique ou les siestes flash, le contrôle de l'en
   </p>
 </div>
 
+---
+
+## 3. Un environnement obscurci et une bonne posture déterminent l'efficacité du sommeil
+
+Pour réussir le sommeil polyphasique ou les siestes flash, le contrôle de l'environnement doit être total. La moindre lumière ou bruit perturbe la relaxation profonde du cerveau. Pour réduire la charge cardiovasculaire et garder la colonne alignée, dormez en position fœtale sur le côté, genoux légèrement pliés.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Dois-je pratiquer ce sommeil polyphasique le jour si je dors bien la nuit ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Pour réussir le sommeil polyphasique ou les siestes flash, le contrôle de l'en
       Pour un travailleur de bureau classique, répéter des sessions de 90 minutes le jour n'est pas nécessaire. En revanche, en cas d'entraînement physique intense ou de manque de sommeil après une nuit tardive, appliquer ponctuellement un cycle de 90 ou 30 minutes est parfait pour réinitialiser le corps.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>En position fœtale, de quel côté vaut-il mieux s'allonger ?</span>

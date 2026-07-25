@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "将数学公式绘制成图解的程序员：艾达·洛夫莱斯的视觉图解法与双重编码网络"
 description: "深度揭秘世界首位程序员艾达·洛夫莱斯如何将分析机复杂的运算控制流与算法转化为结构化图形视角。探讨其借由“双重编码理论”突破工作记忆（Working Memory）瓶颈、最大化前额叶模式识别效能的神经科学原理与3步骤实践指南。"
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 lovelace-visual-mapping 的内容基于 <strong>艾达·洛夫莱斯著作《分析机注译（Notes on the Analytical Engine，1843）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong> 撰写。
+      本内容基于 <strong>艾达·洛夫莱斯著作《分析机注译（Notes on the Analytical Engine，1843）》史料考证及认知神经科学（Cognitive Neuroscience）与认知心理学（Cognitive Psychology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 突破工作记忆（Working Memory）瓶颈与双重编码理论（Dual-Coding Theory）
+## 1. 突破工作记忆（Working Memory）瓶颈与双重编码理论（Dual-Coding Theory）
 
 大脑暂存与加工短期信息的<strong>工作记忆（Working Memory）</strong>具备极度有限的并发容量，单向灌输枯燥代数公式或线性文本极易诱发<strong>认知过载（Cognitive Overload）</strong>。艾达·洛夫莱斯的图解习惯完美践行了<strong>双重编码理论（Dual-Coding Theory）</strong>。由于文本符号与空间图像由大脑独立的神经网络并行处理，将抽象逻辑转化呈空间图表后，<strong>视觉皮层（Visual Cortex）</strong>能分担认知负荷，进而极大释放<strong>前额叶皮层（Prefrontal Cortex）</strong>的模式识别与逻辑演绎效能。
 
 ---
 
-## 注意事项：摒弃文本导向的线性罗列，深度沉浸于视觉关系网络（Visual Mapping）指南
-
-在遇到复杂逻辑或代码架构瓶颈时，若依然拘泥于机械罗列文本或代数公式，会将大脑囚禁于单一受限的通道中。一旦思考滞塞，请立即停止书写文字，改在平铺的广阔纸面上善用箭头与几何图形，将数据与概念间的关联网络进行可视化拓扑，完成维度跨越。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：摒弃文本导向的线性罗列，深度沉浸于视觉关系网络（Visual Mapping）指南
+
+在遇到复杂逻辑或代码架构瓶颈时，若依然拘泥于机械罗列文本或代数公式，会将大脑囚禁于单一受限的通道中。一旦思考滞塞，请立即停止书写文字，改在平铺的广阔纸面上善用箭头与几何图形，将数据与概念间的关联网络进行可视化拓扑，完成维度跨越。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>艾达·洛夫莱斯的视觉图解法与常规思维导图（Mind Map）有何本质差异？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       思维导图侧重于词汇的发散联想与发散式脑力激荡；而洛夫莱斯的视觉图解则专注于系统内部控制流（循环与条件判断）、数据流向与因果链条等“运作机制的结构化逻辑”拓扑设计。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>是否必须使用UML或Figma等复杂数字软件才能发挥功效？</span>

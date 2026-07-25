@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "查尔斯·巴贝奇的差分机分解法：通过机械齿轮模块化将误差与失误降至0%的方法"
 description: "探索19世纪计算机之父查尔斯·巴贝奇通过精密齿轮模块化设计出世界上第一台无误差机械计算器的历史事实，以及系统模块化的脑科学原理。"
 pubDate: "2026-01-10"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 babbage-difference-engine 的内容基于 <strong>查尔斯·巴贝奇自传《Passages from the Life of a Philosopher》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>查尔斯·巴贝奇自传《Passages from the Life of a Philosopher》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 系统模块化消除前额叶工作记忆过载的原因
+## 1. 系统模块化消除前额叶工作记忆过载的原因
 
 根据认知科学研究，人类的工作记忆（Working Memory）一次只能处理4-7个信息块。将难题拆解为独立的齿轮模块，可以防止前额叶过载与疲劳，并将误差控制在接近0%的水平。
 
 ---
 
-## 防止机械误差的系统模块化对齐注意事项
-
-切勿随机打乱被拆解模块的执行顺序。必须严格对齐因果关系，使前一个模块的输出平滑连接至下一个模块的输入。不要盲目依赖意志力，预先设计好必然会自然引发行动的物理环境与习惯提示，才是保持持续性的核心。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 防止机械误差的系统模块化对齐注意事项
+
+切勿随机打乱被拆解模块的执行顺序。必须严格对齐因果关系，使前一个模块的输出平滑连接至下一个模块的输入。不要盲目依赖意志力，预先设计好必然会自然引发行动的物理环境与习惯提示，才是保持持续性的核心。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>这种模块化分解法也能应用于软件编程或工作流程设计吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的！现代微服务与模块化编程的核心概念，正是直接源自查尔斯·巴贝奇差分机齿轮模块化的逻辑。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果特定模块发生错误应该怎么办？</span>

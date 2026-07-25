@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "의사결정 과부하를 깨는 아침 승마: 비스마르크의 유산소 각성과 TOP 3 우선순위 루틴"
 description: "독일 통일을 이끈 '철혈재상' 오토 폰 비스마르크의 아침 승마와 TOP 3 우선순위 추출법. 아침 유산소 운동으로 뇌 혈류를 끌어올리고 전전두엽을 각성시켜 의사결정 과부하를 방지하는 신경과학적 원리를 밝힙니다."
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>비스마르크 자서전 『회상과 회고(Gedanken und Erinnerungen)』 & A.J.P. 테일러 평전 『비스마르크(Bismarck: The Man and the Statesman)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 bismarck-morning-ride-priority 루틴을 다룹니다.
+      본 콘텐츠는 <strong>비스마르크 자서전 『회상과 회고(Gedanken und Erinnerungen)』 & A.J.P. 테일러 평전 『비스마르크(Bismarck: The Man and the Statesman)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 유산소 운동 후 BDNF 분비와 '3의 법칙'을 통한 의사결정 단순화
+## 1. 유산소 운동 후 BDNF 분비와 '3의 법칙'을 통한 의사결정 단순화
 
 의사결정 항목이 4 ~ 5개를 초과하면 뇌 전전두엽의 집행 제어 회로에 병목 현상(Bottleneck)이 발생하여 피로도가 급증합니다. 비스마르크처럼 아침 유산소 운동으로 뇌신경유기인자(BDNF)와 도파민(Dopamine)을 분비시킨 직후 '3의 법칙(Rule of 3)'을 적용하면, 전전두엽의 포도당 예산(Glucose Budget)을 효율적으로 지키면서 인지적 과부하를 원천 차단할 수 있습니다. 뇌는 3가지라는 명확한 시각적·구조적 경계 안에서 불필요한 노이즈를 제거하고 핵심 과제 해결에 최고의 인지 에너지를 폭발시킵니다.
 
 ---
 
-## 주의사항 및 팁: TOP 3 완료 전 잡무 배제 및 환경 설계
-
-쉬워 보이는 소소한 잡무를 먼저 처리하는 행위는 뇌에 순간적인 '가짜 성취감'을 주지만, 정작 가장 중요한 핵심 과제를 미루게 만드는 원인이 됩니다. TOP 3 과제가 모두 완료되기 전까지는 이메일 확인이나 정리 정돈 같은 잡무를 뒤로 미루세요. 순수한 의지력에만 의존하려 하지 말고, 수신함 알림 차단 등 집중을 방해하는 요소를 사전에 차단하는 물리적 환경을 미리 구축하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: TOP 3 완료 전 잡무 배제 및 환경 설계
+
+쉬워 보이는 소소한 잡무를 먼저 처리하는 행위는 뇌에 순간적인 '가짜 성취감'을 주지만, 정작 가장 중요한 핵심 과제를 미루게 만드는 원인이 됩니다. TOP 3 과제가 모두 완료되기 전까지는 이메일 확인이나 정리 정돈 같은 잡무를 뒤로 미루세요. 순수한 의지력에만 의존하려 하지 말고, 수신함 알림 차단 등 집중을 방해하는 요소를 사전에 차단하는 물리적 환경을 미리 구축하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>만약 TOP 3 과제 중 하나를 하루 동안 다 끝내지 못하면 어떻게 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       괜찮습니다. 실패한 것이 아니라 가장 파급력이 크고 중대한 대형 과제에 에너지를 집중했다는 증거입니다. 미완성된 항목을 내일 아침 가장 전두엽이 맑을 때 1번 과제로 재배치하여 기세를 이어가세요.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>아침 승마 대신 실천할 수 있는 현대적인 대체 운동은 무엇인가요?</span>

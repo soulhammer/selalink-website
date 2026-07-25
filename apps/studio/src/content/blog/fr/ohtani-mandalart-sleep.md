@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Visualisation des objectifs et repos profond : Le Mandalart d'Ohtani et sa routine de 10 heures de sommeil"
 description: "Shohei Ohtani réécrit l'histoire du baseball moderne. Découvrez le mécanisme neuroscientifique de sa méthode Mandalart à 81 cases élaborée au lycée et sa routine quotidienne de 10 heures de sommeil réparateur pour maximiser la récupération physique."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Dans cet article, nous décryptons les mécanismes neuroscientifiques de la stru
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant ohtani-mandalart-sleep est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques de Shohei Ohtani et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques de Shohei Ohtani et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Effet de concrétisation des objectifs du Mandalart et mécanisme neuroscientifique de récupération du sommeil prolongé
+## 1. Effet de concrétisation des objectifs du Mandalart et mécanisme neuroscientifique de récupération du sommeil prolongé
 
 La technique Mandalart décompose des objectifs abstraits en actions concrètes, bloquant la surcharge cognitive et stimulant les circuits d'exécution du cerveau. Par ailleurs, l'habitude clé d'Ohtani de dormir 10 heures stimule le système glymphatique cérébral. Le liquide céphalorachidien élimine les déchets métaboliques accumulés pendant la journée, restaurant l'énergie cognitive du cortex préfrontal. De plus, le sommeil consolide en toute sécurité les souvenirs des mouvements musculaires de lancer et de frappe travaillés le jour même dans la mémoire motrice à long terme du cervelet.
 
 ---
 
-## Précautions et conseils
-
-Augmenter soudainement et excessivement la durée du sommeil peut provoquer un état de léthargie. Il est judicieux d'augmenter progressivement votre temps de sommeil de base vers 7 à 8 heures selon votre métabolisme. Si votre sommeil nocturne est insuffisant, intégrez une courte sieste réparatrice de 20 à 30 minutes dans la journée pour compléter votre temps total de récupération.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Augmenter soudainement et excessivement la durée du sommeil peut provoquer un �
     Dormez plus de 8 heures la nuit et ajoutez une courte sieste de 20 à 30 minutes l'après-midi lorsque la concentration baisse, afin d'atteindre jusqu'à 10 heures de recharge physique totale par jour.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Augmenter soudainement et excessivement la durée du sommeil peut provoquer un état de léthargie. Il est judicieux d'augmenter progressivement votre temps de sommeil de base vers 7 à 8 heures selon votre métabolisme. Si votre sommeil nocturne est insuffisant, intégrez une courte sieste réparatrice de 20 à 30 minutes dans la journée pour compléter votre temps total de récupération.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

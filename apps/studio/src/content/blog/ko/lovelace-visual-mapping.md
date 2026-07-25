@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "수학 공식을 그림으로 그린 프로그래머: 에이다 러브레이스의 시각 도식화법과 이중 부호화 네트워크"
 description: "세계 최초의 프로그래머 에이다 러브레이스. 해석기관의 복잡한 연산 제어 흐름과 알고리즘을 시각적 다이어그램으로 도식화했던 그녀의 습관을 알아봅니다. 작업 기억(Working Memory) 한계를 극복하고 전전두엽 패턴 감지 능력을 극대화하는 이중 부호화 이론과 3단계 실천 가이드를 다룹니다."
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>에이다 러브레이스 저작 「해석기관 주석(Notes on the Analytical Engine, 1843)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 근거하여 lovelace-visual-mapping 루틴을 다룹니다.
+      본 콘텐츠는 <strong>에이다 러브레이스 저작 「해석기관 주석(Notes on the Analytical Engine, 1843)」 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 작업 기억(Working Memory) 한계 극복과 이중 부호화 이론(Dual-Coding Theory)
+## 1. 작업 기억(Working Memory) 한계 극복과 이중 부호화 이론(Dual-Coding Theory)
 
 단기 정보를 유지·가공하는 뇌의 <strong>작업 기억(Working Memory)</strong>은 동시 처리 용량이 매우 제한되어 있어, 수식이나 텍스트만 지속적으로 유입되면 금세 <strong>인지적 과부하(Cognitive Overload)</strong>에 빠집니다. 에이다 러브레이스의 다이어그램 도식화 루틴은 뇌의 <strong>이중 부호화 이론(Dual-Coding Theory)</strong>을 극대화한 인지적 전략이었습니다. 기호 정보(언어/수식)와 이미지 정보(시각적 배치/화살표)가 독립된 신경망에서 처리되므로, 난해한 개념을 공간적 다이어그램으로 전환하면 <strong>시각 피질(Visual Cortex)</strong>이 인지 부하를 분산 수용하여 <strong>전전두엽(Prefrontal Cortex)</strong>의 패턴 감지 및 논리 설계 능력이 극대화됩니다.
 
 ---
 
-## 텍스트 중심의 선형 기록을 배제하고 시각적 관계망(Visual Mapping)에 몰입하는 수칙
-
-복잡한 기획이나 코드 구조가 잘 풀리지 않을 때 나열식 텍스트나 수식 쓰기만을 고집하는 것은 뇌를 한정된 인지 채널에 가두는 행위입니다. 생각의 흐름이 막혔다면 즉시 글자 적기를 멈추고 넓은 종이 위에 화살표와 도형을 이용해 데이터와 개념 간의 유기적 관계망을 시각화하는 차원 전환을 실행하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 텍스트 중심의 선형 기록을 배제하고 시각적 관계망(Visual Mapping)에 몰입하는 수칙
+
+복잡한 기획이나 코드 구조가 잘 풀리지 않을 때 나열식 텍스트나 수식 쓰기만을 고집하는 것은 뇌를 한정된 인지 채널에 가두는 행위입니다. 생각의 흐름이 막혔다면 즉시 글자 적기를 멈추고 넓은 종이 위에 화살표와 도형을 이용해 데이터와 개념 간의 유기적 관계망을 시각화하는 차원 전환을 실행하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>에이다 러브레이스의 시각 도식화법은 일반적인 마인드맵과 어떻게 다른가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       마인드맵은 단어의 자유로운 발상과 방사형 연상 확장에 초점을 맞추는 반면, 러브레이스의 시각 도식화는 시스템 내부의 제어 흐름(Loop 및 조건), 데이터 이동, 인과 관계 등 '작동 메커니즘의 구조적 논리'를 도식으로 설계하는 데 특화되어 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>UML이나 피그마 같은 복잡한 디지털 툴을 써야만 효과가 있나요?</span>

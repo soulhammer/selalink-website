@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bangkit dari Masa Lalu Kelam Menjadi Ratu Talk Show: Rutinitas Jurnal Rasa Syukur Oprah Winfrey"
 description: "Oprah Winfrey, salah satu pemimpin wanita paling berpengaruh di dunia. Pelajari rutinitas ilmiahnya menuliskan 5 baris rasa syukur secara manual begitu bangun tidur untuk memandu ulang default mode network otak."
 pubDate: "2026-05-24"
@@ -33,25 +34,23 @@ Artikel ini mengeksplorasi ilmu saraf di balik kebiasaan menulis jurnal rasa syu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai winfrey-gratitude-journaling didasarkan pada <strong>Biografi historis & catatan autobiografi tentang Oprah Winfrey & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis & catatan autobiografi tentang Oprah Winfrey & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Jalur Dopamin Mesolimbik dan Neuroplastisitas
+## 1. Aktivasi Jalur Dopamin Mesolimbik dan Neuroplastisitas
 
 Mengingat dan menuliskan pengalaman positif secara manual merangsang Jalur Dopamin Mesolimbik dan sistem serotonin otak, membawa otak ke kondisi siaga yang menyenangkan. Hal ini menghentikan Default Mode Network (DMN)—yang sering memperbesar kecemasan pagi—dan memandu ulang sinapsis melalui neuroplastisitas untuk memperkuat ketahanan stres.
 
 ---
 
-## Jebakan Penulisan Formalitas & Tips Spesifisitas
-
-Kalimat samar seperti 'Bersyukur atas cuaca baik' tidak akan memicu dopamin. Kuncinya adalah spesifisitas ekstrem. Merekam rincian sensorik—seperti 'Bersyukur teman saya tertawa terbahak-bahak mendengar lelucon saya kemarin'—memungkinkan otak mengingat momen tersebut dan mengaktifkan sirkuit plastisitas positif.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Kalimat samar seperti 'Bersyukur atas cuaca baik' tidak akan memicu dopamin. Kun
   </p>
 </div>
 
+---
+
+## 3. Jebakan Penulisan Formalitas & Tips Spesifisitas
+
+Kalimat samar seperti 'Bersyukur atas cuaca baik' tidak akan memicu dopamin. Kuncinya adalah spesifisitas ekstrem. Merekam rincian sensorik—seperti 'Bersyukur teman saya tertawa terbahak-bahak mendengar lelucon saya kemarin'—memungkinkan otak mengingat momen tersebut dan mengaktifkan sirkuit plastisitas positif.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa yang harus saya tulis pada hari-hari muram saat saya tidak bisa memikirkan hal apa pun untuk disyukuri?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Kalimat samar seperti 'Bersyukur atas cuaca baik' tidak akan memicu dopamin. Kun
       Hari-hari seperti itulah saat rutinitas ini paling dibutuhkan. Jangan mencari hal besar; tuliskan fakta fisik dasar seperti 'Teh hangat kemarin enak' atau 'Saya dapat bernapas lega pagi ini'. Menuliskan petunjuk keselamatan kecil membantu otak keluar dari mode ancaman.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana dengan mencatat rasa syukur menggunakan aplikasi jurnal ponsel atau unggahan media sosial?</span>

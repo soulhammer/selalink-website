@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Dominio Multilingüe de Cleopatra: El Hábito de Diálogo Intelectual que Gobernó el Mundo Sin Intérpretes"
 description: "Descubra cómo la reina egipcia Cleopatra hablaba con fluidez al menos nueve idiomas sin intérpretes, y explore la neurociencia cognitiva del estímulo de las áreas de Broca y Wernicke, la densidad de materia gris y la flexibilidad cognitiva prefrontal."
 pubDate: "2026-03-03"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre cleopatra-multilingual-study se basa en <strong>Verificación Histórica de las *Vidas paralelas (Parallel Lives)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las *Vidas paralelas (Parallel Lives)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación de las Áreas de Broca y Wernicke, Densidad de Materia Gris Cortical y Flexibilidad Cognitiva
+## 1. Estimulación de las Áreas de Broca y Wernicke, Densidad de Materia Gris Cortical y Flexibilidad Cognitiva
 
 El procesamiento y producción de idiomas extranjeros estimula de forma cruzada el área de Wernicke (comprensión del lenguaje) y el área de Broca (producción del habla y sintaxis). Alternar continuamente entre estructuras gramaticales distintas (cambio de código) recluta fuertemente la Red de Control Cognitivo (CCN) prefrontal. La neurociencia revela que los individuos multilingües muestran un aumento significativo de la densidad de materia gris en las cortezas parietal inferior izquierda y prefrontal, lo que se traduce en una memoria de trabajo superior. Esta alternancia genera una sólida Reserva Cognitiva.
 
 ---
 
-## Precauciones y Consejos: Rechazar el Consumo Pasivo de Audio/Video y Requerir Producción Activa
-
-Ver conferencias en video o escuchar podcasts de forma pasiva sin participación activa no logra fortalecer la densidad neuronal en las redes del lenguaje. Para estimular la neuroplasticidad como Cleopatra, combine la escucha con la 'Producción Activa': practique en voz alta para ejercitar los músculos articulatorios, el área de Broca y la corteza motora, mientras escribe a mano oraciones generadas por usted mismo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ver conferencias en video o escuchar podcasts de forma pasiva sin participación
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Rechazar el Consumo Pasivo de Audio/Video y Requerir Producción Activa
+
+Ver conferencias en video o escuchar podcasts de forma pasiva sin participación activa no logra fortalecer la densidad neuronal en las redes del lenguaje. Para estimular la neuroplasticidad como Cleopatra, combine la escucha con la 'Producción Activa': practique en voz alta para ejercitar los músculos articulatorios, el área de Broca y la corteza motora, mientras escribe a mano oraciones generadas por usted mismo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Ver vídeos o medios extranjeros de forma pasiva no logra mejorar las redes cerebrales del lenguaje?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ver conferencias en video o escuchar podcasts de forma pasiva sin participación
       Sí, la eficiencia es extremadamente baja. La observación pasiva solo estimula los circuitos auditivos del área de Wernicke, sin reclutar el área de Broca. Se requiere la articulación vocal mediante lectura en voz alta y la construcción activa de oraciones para impulsar la neuroplasticidad sináptica.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Estudiar dos o más idiomas extranjeros al mismo tiempo no provoca una sobrecarga cognitiva?</span>

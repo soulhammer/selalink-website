@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Détox numérique dans la tour de Bollingen : La méthode de récupération de l'inconscient de Carl Jung et la réinitialisation cognitive DMN"
 description: "Découvrez comment le pionnier de la psychologie analytique Carl Jung réinitialisait son cerveau en fendant du bois dans una tour isolée sans électricité. Explorez la neuroscience de l'activation du Réseau du Mode par Défaut (DMN) et una routine de détox numérique en 3 étapes."
 pubDate: "2026-01-21"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant jung-bollingen-detox est basée sur <strong>Vérification Historique issue de l'autobiographie de Carl Jung *Ma vie : Souvenirs, rêves et pensées*, des archives de la tour de Bollingen & de la Recherche en Psychologie Analytique et Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Carl Jung *Ma vie : Souvenirs, rêves et pensées*, des archives de la tour de Bollingen & de la Recherche en Psychologie Analytique et Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation du Réseau du Mode par Défaut (DMN) et récupération des ressources cognitives préfrontales
+## 1. Activation du Réseau du Mode par Défaut (DMN) et récupération des ressources cognitives préfrontales
 
 L'exposition continue aux stimulations numériques sollicite constamment le <strong>Cortex Préfrontal</strong>, provoquant la <strong>Fatigue Cognitive</strong>. La routine de Carl Jung à Bollingen interrompait ce cycle, stimulant le <strong>Réseau du Mode par Défaut (DMN)</strong>. Lorsque les stimulations artificielles s'effacent au profit de travaux physiques simples, le cerveau bascule en mode DMN, organisant les concepts inconscients et suscitant des intuitions créatives.
 
 ---
 
-## Mise en garde : Bloquer physiquement les stimulations artificielles pour s'immerger dans le travail manuel
-
-Pour Carl Jung, la tour de Bollingen n'était pas un refuge passif, mais un sanctuaire conçu pour couper les bruits et stimulations électroniques. Évitez de vous détendre devant des écrans. Rangez votre téléphone et adonnez-vous à des activités manuelles ; seule la déconnexion physique permet au cortex préfrontal de se régénérer.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour Carl Jung, la tour de Bollingen n'était pas un refuge passif, mais un sanc
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Bloquer physiquement les stimulations artificielles pour s'immerger dans le travail manuel
+
+Pour Carl Jung, la tour de Bollingen n'était pas un refuge passif, mais un sanctuaire conçu pour couper les bruits et stimulations électroniques. Évitez de vous détendre devant des écrans. Rangez votre téléphone et adonnez-vous à des activités manuelles ; seule la déconnexion physique permet au cortex préfrontal de se régénérer.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il nécessaire de se retirer dans un endroit isolé à l'image de Jung ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour Carl Jung, la tour de Bollingen n'était pas un refuge passif, mais un sanc
       Non. L'essentiel réside dans la 'déconnexion physique des informations artificielles' et la 'focalisation sur des activités manuelles'. Aménager un espace sans téléphone chez soi pendant 30 a 60 minutes procure des bienfaits identiques.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Pourquoi des travaux ménagers ou physiques simples favorisent-ils la réflexion profonde ?</span>

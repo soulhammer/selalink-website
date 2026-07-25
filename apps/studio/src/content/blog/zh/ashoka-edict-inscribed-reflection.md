@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "刻敕令于岩石并自我省察的征服王？阿育王的每日伦理省察惯例"
 description: "印度孔雀王朝的阿育王。探索他在反思甲林罕战争惨状后立起石柱敕令、每天省察自我伦理的“外部锚定”惯例与3步骤实践法。"
 pubDate: "2026-06-04"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 ashoka-edict-inscribed-reflection 的内容基于 <strong>阿育王摩崖与石柱敕令（Edicts of Ashoka）考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>阿育王摩崖与石柱敕令（Edicts of Ashoka）考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 外部价值观锚（Visual Anchor）与前额叶自我身份认同强化机制
+## 1. 外部价值观锚（Visual Anchor）与前额叶自我身份认同强化机制
 
 人的情绪与瞬间的欲望受到大脑下丘脑与边缘系统的影响，时刻都在变幻莫测。像阿育王一样，将自己的核心信念外在化（Externalization）为可见的物理结构物，大脑在识别物理文本的瞬间就会触发<strong>“视觉锚定（Visual Anchoring）”</strong>效应。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 警惕价值观宣告演变成一次性活动与形式主义
-
-如果把价值观卡片书写工整贴好后就再也不读，就不会产生任何脑科学上的锚定效应。正如阿育王每天重温石柱碑文一样，核心在于“每天用眼睛确认并念诵的日常重复”。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 警惕价值观宣告演变成一次性活动与形式主义
+
+如果把价值观卡片书写工整贴好后就再也不读，就不会产生任何脑科学上的锚定效应。正如阿育王每天重温石柱碑文一样，核心在于“每天用眼睛确认并念诵的日常重复”。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>价值观词汇多于3个也没关系吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       强烈建议将数量限制在3个以内。如果价值观的数量增加到5个以上，工作记忆（Working Memory）就会承载过重，从而急剧削弱锚定效应。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>过了一段时间后可以更换价值观词汇吗？</span>

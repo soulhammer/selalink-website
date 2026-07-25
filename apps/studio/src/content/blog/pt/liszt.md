@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Tocar uma Tecla por Segundo Sem Erros Reduzindo o Tempo: A Rotina de Aprendizagem Cerebelar e Mielinização de Franz Liszt"
 description: "Descubra como o pianista Franz Liszt dominou a precisão virtuosa reduzindo o tempo para uma tecla por segundo. Explore a neurociência da aprendizagem motora cerebelar, a mielinização, a aprendizagem sem erros e um guia de 3 passos."
 pubDate: "2026-04-14"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre liszt é baseada em <strong>Verificação Histórica da Biografia de Alan Walker *Franz Liszt: The Virtuoso Years*, Arquivos de Liszt e Pesquisa em Neurociência Cognitiva e Ciência da Aprendizagem Motora</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Alan Walker *Franz Liszt: The Virtuoso Years*, Arquivos de Liszt e Pesquisa em Neurociência Cognitiva e Ciência da Aprendizagem Motora</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Precisão da Aprendizagem Motora Cerebelar e Mielinização Neuronal
+## 1. Precisão da Aprendizagem Motora Cerebelar e Mielinização Neuronal
 
 Reduzir o tempo de movimento para controlar a execução muscular ativa os circuitos de ajuste motor no <strong>Cerebelo</strong>. Repetir trajetórias perfeitas a baixa velocidade estimula a formação de camadas de <strong>Mielina (Myelin)</strong> sobre os axônios neuronais. Essa isolamento acelera a velocidade de transmissão de sinais e a precisão, estabelecendo rotas de <strong>Aprendizagem Sem Erros (Errorless Learning)</strong> que evitam que o cérebro codifique padrões incorretos.
 
 ---
 
-## Precaução: Elimine a Velocidade e a Tensão Muscular Excessiva para Focar na Prática Lenta Sem Erros
-
-Evite segurar ferramentas ou teclas com força excessiva ou apressar-se para terminar as repetições. Elimine a tensão corporal desnecessária e foque em executar movimentos lentos em trajetórias perfeitas para gravar uma precisão sem erros no cerebelo. Priorizar a execução lenta sem defeitos sobre a velocidade é o segredo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Evite segurar ferramentas ou teclas com força excessiva ou apressar-se para ter
   </p>
 </div>
 
+---
+
+## 3. Precaução: Elimine a Velocidade e a Tensão Muscular Excessiva para Focar na Prática Lenta Sem Erros
+
+Evite segurar ferramentas ou teclas com força excessiva ou apressar-se para terminar as repetições. Elimine a tensão corporal desnecessária e foque em executar movimentos lentos em trajetórias perfeitas para gravar uma precisão sem erros no cerebelo. Priorizar a execução lenta sem defeitos sobre a velocidade é o segredo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pessoas que não tocam instrumentos também podem se beneficiar desse hábito de 1 ação por segundo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Evite segurar ferramentas ou teclas com força excessiva ou apressar-se para ter
       Sim, com certeza! O mecanismo neurobiológico aplica-se a qualquer tarefa motora: digitar atalhos de teclado, aperfeiçoar o swing de golfe ou tênis, ou ensaiar gestos para apresentações. Reduzir o tempo para eliminar erros acelera a mielinização cerebelar, aumentando a precisão ao acelerar.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como posso praticar essa rotina se não tiver um piano ou equipamento especializado?</span>

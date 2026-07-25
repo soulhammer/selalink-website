@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El método de inscripción en vigas de Montaigne: Agitar prejuicios y activar la metacognición con estímulos visuales"
 description: "Descubra cómo el filósofo francés Michel de Montaigne grabó 57 máximas filosóficas antiguas en las vigas de madera de su biblioteca, utilizando la primación visual para romper prejuicios y ampliar la perspectiva."
 pubDate: "2026-03-10"
@@ -36,22 +37,20 @@ En este artículo, analizamos la primación visual de las inscripciones de Monta
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre montaigne-beam-inscription se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Montaigne y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Montaigne y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El principio neurocientífico del texto grabado que activa la metacognición
+## 1. El principio neurocientífico del texto grabado que activa la metacognición
 
 Contemplar intencionalmente máximas visuales se alinea con la teoría psicológica del 'Aprestamiento Visual' (Visual Priming). La corteza cerebral procesa inconscientemente el texto, expandiendo las redes asociativas y recuperando recuerdos. Además, inclinar la barbilla hacia arriba para mirar las vigas implica un movimiento ocular vertical que estimula físicamente la corteza prefrontal, el centro de la metacognición. Esto amplía el enfoque restringido, incentivando la autorreflexión de alto nivel.
 
 ---
 
-## Prevenir la habituación visual (desensibilización)
-
-Por más inspiradora que sea una cita, si permanece idéntica durante meses, el cerebro la clasificará como fondo y la ignorará. Para evitar la habituación visual, cambie los colores de las notas, mueva su ubicación o coloque frases nuevas cada cierto tiempo. Mantener la novedad es clave para activar el reflejo metacognitivo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Por más inspiradora que sea una cita, si permanece idéntica durante meses, el 
     Cuando se atasque en sus pensamientos, incline la cabeza hacia arriba y lea en silencio la frase durante 15 segundos. Reorientar la mirada hacia arriba ayuda a activar la perspectiva metacognitiva.
   </p>
 </div>
+
+---
+
+## 3. Prevenir la habituación visual (desensibilización)
+
+Por más inspiradora que sea una cita, si permanece idéntica durante meses, el cerebro la clasificará como fondo y la ignorará. Para evitar la habituación visual, cambie los colores de las notas, mueva su ubicación o coloque frases nuevas cada cierto tiempo. Mantener la novedad es clave para activar el reflejo metacognitivo.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

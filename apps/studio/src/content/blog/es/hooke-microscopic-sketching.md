@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Método de Dibujo Microscópico de Robert Hooke: Despertando el Enfoque Prefrontal Mediante Microobservación de 0,01 mm y Sincronización Ojo-Mano"
 description: "Descubra cómo el polímata del siglo XVII Robert Hooke descubrió la primera 'célula' biológica dibujando con un microscopio compuesto. Explore la neurociencia de la sincronización ojo-mano y la memoria visoespacial."
 pubDate: "2026-04-04"
@@ -38,22 +39,20 @@ Combinar la observación óptica con el dibujo a mano reforzó la comunicación 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre hooke-microscopic-sketching se basa en <strong>Verificación Histórica de *Micrographia* (1665) de Robert Hooke, Archivos de la Royal Society e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Micrographia* (1665) de Robert Hooke, Archivos de la Royal Society e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sincronización Ojo-Mano en las Cortezas Visual y Motora y Enfoque Prefrontal
+## 1. Sincronización Ojo-Mano en las Cortezas Visual y Motora y Enfoque Prefrontal
 
 Dibujar a mano los microdetalles observados estimula simultáneamente la <strong>Corteza Visual</strong> y la <strong>Corteza Motora</strong>. Esta sincronización ojo-mano activa la memoria de trabajo de la <strong>Memoria Visoespacial (Visuospatial Sketchpad)</strong>, reduciendo el desorden mental. Al reclutar la <strong>Corteza Prefrontal</strong>, induce un estado de <strong>Enfoque Preciso (Fine Focus)</strong>, mejorando la resolución de observación y el análisis.
 
 ---
 
-## Precaución: Priorice la Precisión Microestructural sobre la Estética Artística
-
-No se obsesione con la belleza artística o la perfección estética del dibujo. Lo esencial es capturar objetivamente la microestructura, las conexiones entre componentes y los patrones de error exactamente como se observan. Centrarse en transferir las relaciones en lugar de hacer un dibujo bonito mantiene el enfoque prefrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ No se obsesione con la belleza artística o la perfección estética del dibujo.
   </p>
 </div>
 
+---
+
+## 3. Precaución: Priorice la Precisión Microestructural sobre la Estética Artística
+
+No se obsesione con la belleza artística o la perfección estética del dibujo. Lo esencial es capturar objetivamente la microestructura, las conexiones entre componentes y los patrones de error exactamente como se observan. Centrarse en transferir las relaciones en lugar de hacer un dibujo bonito mantiene el enfoque prefrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es efectivo usar mapas mentales digitales o lápices ópticos en lugar de papel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ No se obsesione con la belleza artística o la perfección estética del dibujo.
       ¡Sí! Ya sea en papel físico o con un lápiz óptico en tableta, siempre que controle la motricidad fina y el rastreo visual para mapear estructuras, obtendrá los mismos beneficios de enfoque neurológico.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Este método beneficia a personas sin talento para el dibujo?</span>

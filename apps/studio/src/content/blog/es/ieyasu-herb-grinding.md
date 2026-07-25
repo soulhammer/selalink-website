@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Ritmo de la Paciencia y la Ecuanimidad: La Rutina de Molienda de Hierbas de Tokugawa Ieyasu y la Regulación de Serotonina"
 description: "Explore el método de cultivo mental de Tokugawa Ieyasu. Descubra cómo su rutina diaria de moler hierbas con mortero estimulaba el movimiento rítmico, activando la serotonina, calmando la amígdala y mejorando el autocontrol."
 pubDate: "2026-04-01"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre ieyasu-herb-grinding se basa en <strong>Verificación Histórica de las Biografías de Tokugawa Ieyasu, Archivos del Museo de Arte Tokugawa e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Biografías de Tokugawa Ieyasu, Archivos del Museo de Arte Tokugawa e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación de Serotonina y Estabilización de la Amígdala Mediante Movimiento Rítmico
+## 1. Activación de Serotonina y Estabilización de la Amígdala Mediante Movimiento Rítmico
 
 Fisiológicamente, el <strong>Movimiento Rítmico</strong> —actividad física repetitiva realizada a velocidad y presión constantes— estimula los núcleos del rafe para maximizar la secreción de <strong>serotonina</strong>, el neurotransmisor regulador del ánimo. Esta estimulación táctil a ritmo constante suprime la hiperactividad en la <strong>amígdala</strong>, que controla el miedo y la impulsividad, restaurando el control ejecutivo racional en la <strong>Corteza Prefrontal</strong>.
 
 ---
 
-## Precaución: Concéntrese en un Ritmo Manual Constante Eliminando la Impaciencia
-
-Cuando se sienta impaciente o ansioso, evite forzar el control emocional solo con fuerza de voluntad. En su lugar, ancle su atención en las yemas de los dedos sobre el ritmo simple y constante de moler en un mortero o molinillo de café. Mantener un ritmo físico constante es la clave para activar el interruptor de serotonina.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Cuando se sienta impaciente o ansioso, evite forzar el control emocional solo co
   </p>
 </div>
 
+---
+
+## 3. Precaución: Concéntrese en un Ritmo Manual Constante Eliminando la Impaciencia
+
+Cuando se sienta impaciente o ansioso, evite forzar el control emocional solo con fuerza de voluntad. En su lugar, ancle su atención en las yemas de los dedos sobre el ritmo simple y constante de moler en un mortero o molinillo de café. Mantener un ritmo físico constante es la clave para activar el interruptor de serotonina.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo ayuda el acto físico de moler hierbas uno mismo a la estabilidad emocional?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Cuando se sienta impaciente o ansioso, evite forzar el control emocional solo co
       El movimiento repetitivo a velocidad constante estimula el sistema de serotonina del cerebro, suprimiendo las respuestas de amenaza en la amígdala y restaurando el control ejecutivo en la corteza prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo replicar esta rutina en la vida moderna si no tengo un mortero?</span>

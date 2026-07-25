@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un roi conquérant qui a gravé des édits dans la roche pour réfléchir ? La routine quotidienne de réflexion éthique d'Ashoka le Grand"
 description: "Ashoka le Grand de l'Empire Maurya en Inde. Découvrez sa routine d'ancrage externe et son plan d'action en 3 étapes, par lesquels il a regretté les horreurs de la guerre de Kalinga et a érigé des édits sur piliers pour réfléchir quotidiennement à son soi éthique."
 pubDate: "2026-06-04"
@@ -33,17 +34,17 @@ Dans l'article d'aujourd'hui, nous révélons les principes neuroscientifiques s
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant ashoka-edict-inscribed-reflection est basée sur <strong>Vérification Historique issue des Édits d'Ashoka (Edicts of Ashoka) & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des Édits d'Ashoka (Edicts of Ashoka) & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ancrage Visuel des Valeurs Externes et Mécanisme de Renforcement de l'Identité Personnelle Préfrontale
+## 1. Ancrage Visuel des Valeurs Externes et Mécanisme de Renforcement de l'Identité Personnelle Préfrontale
 
 Les émotions humaines et les désirs momentanés fluctuent fréquemment sous l'influence de l'hypothalamus et du système limbique. Lorsque vous externalisez vos croyances fondamentales dans des structures physiques visibles comme le Roi Ashoka, le cerveau active immédiatement l'effet d'<strong>« Ancrage Visuel (Visual Anchoring) »</strong> dès qu'il reconnaît le texte physique.
 
@@ -51,9 +52,7 @@ Le fait de voir et de lire vos valeurs fondamentales à une heure fixe chaque jo
 
 ---
 
-## Méfiez-vous des déclarations de valeurs devenant des événements ponctuels et un formalisme vide
-
-Si vous rédigez joliment une carte de valeurs, la collez et ne la relisez plus jamais, aucun effet d'ancrage neuroscientifique ne se produira. Tout comme le Roi Ashoka méditait chaque jour sur les inscriptions des piliers, l'essentiel réside dans la « répétition quotidienne du contrôle visuel et de la récitation ».
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Si vous rédigez joliment une carte de valeurs, la collez et ne la relisez plus 
   </p>
 </div>
 
+---
+
+## 3. Méfiez-vous des déclarations de valeurs devenant des événements ponctuels et un formalisme vide
+
+Si vous rédigez joliment une carte de valeurs, la collez et ne la relisez plus jamais, aucun effet d'ancrage neuroscientifique ne se produira. Tout comme le Roi Ashoka méditait chaque jour sur les inscriptions des piliers, l'essentiel réside dans la « répétition quotidienne du contrôle visuel et de la récitation ».
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il possible d'avoir plus de 3 mots de valeurs ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Si vous rédigez joliment une carte de valeurs, la collez et ne la relisez plus 
       Il est fortement recommandé de se limiter à 3 ou moins. Si le nombre de valeurs passe à 5 ou plus, la mémoire de travail (Working Memory) subit une surcharge, affaiblissant rapidement l'effet d'ancrage.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je changer mes mots de valeurs au fil du temps ?</span>

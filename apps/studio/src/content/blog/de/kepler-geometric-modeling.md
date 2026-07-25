@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "3D-Modelle schnitzen statt Formeln wälzen: Johannes Keplers haptische räumliche Visualisierungsroutine und Parietallappen-Stimulation"
 description: "Erfahren Sie, wie der Astronom Johannes Kepler Planetenbahnen verstand, indem er geometrische 3D-Modelle von Hand schnitzte. Entdecken Sie die Neurowissenschaften der haptischen Raumwahrnehmung, Parietallappen-Stimulation und Entlastung des Arbeitsgedächtnisses."
 pubDate: "2026-06-24"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Johannes Kepl
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu kepler-geometric-modeling basiert auf <strong>Historische Überprüfung aus Johannes Keplers *Mysterium Cosmographicum* (1596), Kepler-Archiven & Forschung der kognitiven Neurowissenschaften und Raumkognition</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Johannes Keplers *Mysterium Cosmographicum* (1596), Kepler-Archiven & Forschung der kognitiven Neurowissenschaften und Raumkognition</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Parietallappen-Stimulation und Verringerung kognitiver Überlastung
+## 1. Parietallappen-Stimulation und Verringerung kognitiver Überlastung
 
 Das rein gedankliche Verarbeiten abstrakter Strukturen überlastet das Arbeitsgedächtnis und führt zu <strong>kognitiver Überlastung (Cognitive Overload)</strong> im präfrontalen Kortex. Das körperliche Betasten und Bewegen von 3D-Objekten stimuliert den <strong>Parietallappen</strong> und das räumliche Vorstellungsvermögen. Die Kombination aus <strong>haptischem Input</strong> und visuellem Feedback wandelt unübersichtliche Daten in anschauliche Formen um und stärkt das <strong>räumliche Denken (Spatial Reasoning)</strong>.
 
 ---
 
-## Vorsichtsmaßnahme: Von abstrakten Denkblockaden zu körperlicher Haptik wechseln
-
-Wenn Sie beim Entwickeln von Software-Architekturen oder Geschäftsprozessen ins Stocken geraten, versuchen Sie nicht, das Problem mit Gewalt zu lösen. Schalten Sie den Bildschirm aus und ordnen Sie Haftnotizen, Bausteine oder Karten auf dem Schreibtisch – dieser Wechsel der Dimension aktiviert die kognitive Anschauung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Wenn Sie beim Entwickeln von Software-Architekturen oder Geschäftsprozessen ins
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Von abstrakten Denkblockaden zu körperlicher Haptik wechseln
+
+Wenn Sie beim Entwickeln von Software-Architekturen oder Geschäftsprozessen ins Stocken geraten, versuchen Sie nicht, das Problem mit Gewalt zu lösen. Schalten Sie den Bildschirm aus und ordnen Sie Haftnotizen, Bausteine oder Karten auf dem Schreibtisch – dieser Wechsel der Dimension aktiviert die kognitive Anschauung.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Welche geometrische Form hatte das Modell, das Johannes Kepler schnitzte?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Wenn Sie beim Entwickeln von Software-Architekturen oder Geschäftsprozessen ins
       Kepler schnitzte Modelle der fünf platonischen Körper (Tetraeder, Würfel, Oktaeder, Dodekaeder, Ikosaeder), die ineinander verschachtelt in Kugelschalen lagen. Dieses Modell ermöglichte es ihm, die Größenverhältnisse der Planetenabstände visuell und haptisch zu prüfen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie lässt sich diese Routine umsetzen, wenn keine Bauklötze oder 3D-Modelle vorhanden sind?</span>

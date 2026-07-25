@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Geistesfrische eines Meisters der Kurzgeschichte: Guy de Maupassants Ruder- und Schwimm-Reset-Routine"
 description: "Guy de Maupassant, der Meister der französischen Kurzgeschichte. Eine intensive Trainingsroutine, die sein vom Schreiben erschöpftes Gehirn durch Rudern und Schwimmen auf der Seine zurücksetzte."
 pubDate: "2026-06-11"
@@ -35,17 +36,17 @@ Im heutigen Beitrag analysieren wir die Ausscheidung des Brain-Derived Neurotrop
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu maupassant-rowing-reset basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Guy de Maupassant & kognitionswissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Guy de Maupassant & kognitionswissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## BDNF-Ausschüttung und Hirnblutflussumverteilung durch Ganzkörper-Aerobic-Training
+## 1. BDNF-Ausschüttung und Hirnblutflussumverteilung durch Ganzkörper-Aerobic-Training
 
 Anhaltende intensive Gehirnaktivität führt zu einer Blutflusskonzentration im präfrontalen Kortex, was zu Überhitzung und neuronaler Übererregung führt.
 
@@ -53,9 +54,7 @@ Intensives aerobes Training wie Maupassants Rudern stimuliert BDNF und wirkt wie
 
 ---
 
-## Schalten Sie beim Training Gedankengänge an die Arbeit aus und fokussieren Sie sich nur auf Atem und Bewegung
-
-Grübeln über Aufgaben beim Training halbiert den Effekt der Blutflussverteilung. Richten Sie die Wahrnehmung nur auf Muskelkontraktionen und Atemrhythmus. Verlassen Sie sich nicht nur auf Willenskraft; das Gestalten einer physischen Umgebung ist entscheidend.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Grübeln über Aufgaben beim Training halbiert den Effekt der Blutflussverteilun
   </p>
 </div>
 
+---
+
+## 3. Schalten Sie beim Training Gedankengänge an die Arbeit aus und fokussieren Sie sich nur auf Atem und Bewegung
+
+Grübeln über Aufgaben beim Training halbiert den Effekt der Blutflussverteilung. Richten Sie die Wahrnehmung nur auf Muskelkontraktionen und Atemrhythmus. Verlassen Sie sich nicht nur auf Willenskraft; das Gestalten einer physischen Umgebung ist entscheidend.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Welche Übungen können Rudern oder Schwimmen ersetzen, wenn diese nicht möglich sind?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Grübeln über Aufgaben beim Training halbiert den Effekt der Blutflussverteilun
       Jedes Ganzkörper-Ausdauertraining, das Ober- und Unterkörper beansprucht (wie Rudergerät, Heimtrainer, Ellipsentrainer, Intervalllauf oder Burpees), erzielt denselben Effekt.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist tägliches hochintensives Training nicht zu belastend für den Körper?</span>

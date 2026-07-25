@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "24時間疲れ知らずのフィジカルの秘密？クリスティアーノ・ロナウドの90分分割睡眠法"
 description: "世界最高のフォワード、クリスティアーノ・ロナウド。1日に90分ずつ5回の分割睡眠をとり、身体の回復力を最大化した彼の睡眠科学と実践のコツを紹介します。"
 pubDate: "2026-01-20"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「ronaldo-polyphasic-sleep」は <strong>クリスティアーノ・ロナウド歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>クリスティアーノ・ロナウド歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 90分R90周期と成長ホルモン放出の最適化
+## 1. 90分R90周期と成長ホルモン放出の最適化
 
 人間の自然な睡眠サイクルは、ノンレム（Non-REM）とレム（REM）睡眠が結合して約90分間進行します。もし夜の通し睡眠中に睡眠サイクルの途中で無理に起きると、脳は極度の疲労を感じる「睡眠慣性（Sleep Inertia）」状態に陥ります。
 
@@ -47,9 +48,7 @@ faqs:
 
 ---
 
-## 完全な遮断環境と正しい姿勢が睡眠効率を決定します
-
-分割睡眠や短いパワーナップを成功させるためには、環境的な遮断が完全でなければなりません。ごく微小な光や騒音も脳の深いリラックスを妨げます。また、心臓への負担を最小限にし脊椎を一直線に整えるため、右側または左側に横になり膝を軽く曲げた胎児の姿勢（Fetal Position）で睡眠をとるのが効率的です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 完全な遮断環境と正しい姿勢が睡眠効率を決定します
+
+分割睡眠や短いパワーナップを成功させるためには、環境的な遮断が完全でなければなりません。ごく微小な光や騒音も脳の深いリラックスを妨げます。また、心臓への負担を最小限にし脊椎を一直線に整えるため、右側または左側に横になり膝を軽く曲げた胎児の姿勢（Fetal Position）で睡眠をとるのが効率的です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>夜にしっかり眠れている場合でも、昼にこの分割睡眠を行う必要がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       一般的なデスクワークの現代人であれば、あえて昼に90分睡眠を繰り返す必要はありません。ただし高強度のフィジカルトレーニングを行ったり、残業で夜の睡眠が不足した日に一時的に90分または30分の分割睡眠を適用して身体をリセットする用途として使用すると効果的です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>胎児の姿勢で寝るとき、左右どちらの向きで横になるのが良いですか？</span>

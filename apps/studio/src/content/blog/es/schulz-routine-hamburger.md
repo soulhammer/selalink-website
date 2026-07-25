@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eliminar la fatiga por decisión: La rutina del almuerzo único de Charles Schulz"
 description: "Charles Schulz fijó sus comidas diarias y entorno de trabajo para dibujar las tiras de Snoopy sin parar durante 50 años. Exploramos su ritual automatizado de comer la misma hamburguesa todos los días para prevenir la fatiga cognitiva prefrontal y maximizar la creatividad."
 pubDate: "2026-02-06"
@@ -36,22 +37,20 @@ En este post, investigamos cómo la rutina de minimización de decisiones de Cha
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre schulz-routine-hamburger se basa en <strong>Biografías históricas, registros autobiográficos de la rutina del almuerzo de Schulz e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas, registros autobiográficos de la rutina del almuerzo de Schulz e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prevención del agotamiento del ego y conservación de la energía prefrontal
+## 1. Prevención del agotamiento del ego y conservación de la energía prefrontal
 
 La corteza prefrontal es el centro neurálgico para la planificación, el control emocional y la toma de decisiones. La neurociencia demuestra que cada decisión —incluso elegir el almuerzo— agota recursos ejecutivos, estado conocido como 'Fatiga de decisión' o 'Agotamiento del ego'. Al fijar opciones triviales diarias como vestimenta y comida como hacía Schulz, elimina la fuga de energía neural y canaliza la máxima potencia cognitiva en el trabajo creativo principal.
 
 ---
 
-## Precauciones y consejos
-
-Si fuerza la rutina con demasiada rigidez y elimina el 100% de la variabilidad, el cerebro puede caer en la monotonía y experimentar embotamiento cognitivo. Por lo tanto, aplique la automatización de decisiones estrictamente a áreas no esenciales (comidas, ropa, entorno), dejando espacio para la exploración e improvisación en proyectos creativos y tiempo libre.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Si fuerza la rutina con demasiada rigidez y elimina el 100% de la variabilidad, 
     Canalice la concentración fresca ahorrada al eliminar elecciones menores directamente en las tareas más críticas de planificación estratégica, diseño o escritura al inicio del día.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Si fuerza la rutina con demasiada rigidez y elimina el 100% de la variabilidad, el cerebro puede caer en la monotonía y experimentar embotamiento cognitivo. Por lo tanto, aplique la automatización de decisiones estrictamente a áreas no esenciales (comidas, ropa, entorno), dejando espacio para la exploración e improvisación en proyectos creativos y tiempo libre.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Unlocking Subconscious Creativity via 10-Word Association: Ray Bradbury's Divergent Thinking Routine"
 description: "Explore how Ray Bradbury, godfather of modern science fiction, wrote down 10 random disparate words every morning to weave micro-stories, and uncover the neuroscientific principles of stimulating subconscious associative chains to maximize divergent thinking."
 pubDate: "2026-06-16"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Ray Bradbury's '10-Word
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bradbury is based on <strong>Historical Verification from Ray Bradbury's Essay Collection *Zen in the Art of Writing* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Ray Bradbury's Essay Collection *Zen in the Art of Writing* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation of Divergent Thinking Circuits and Forced Random Association
+## 1. Activation of Divergent Thinking Circuits and Forced Random Association
 
 Forcibly bridging unrelated concepts strongly stimulates the prefrontal cortex's 'Divergent Thinking' networks. Right after waking, during a cognitive window when top-down prefrontal censorship is not yet fully active, organic synaptic recombination (Combinatorial Play) among subconscious memories occurs far more readily. The unfamiliar cognitive shock delivered by random words activates the temporal lobe and association cortices, shattering fixed mental models and yielding innovative business ideas and creative problem-solving.
 
 ---
 
-## Caution & Tips: Abandoning Perfectionism & Immersing in the Associative Flow
-
-When performing this routine, do not try to craft polished, refined sentences or high-realism prose right away. The moment you worry about grammatical perfection or logical elegance, prefrontal censorship intervenes and cuts off subconscious associative chains. The core is immersing yourself entirely in the 'associative process itself'—speedily and forcefully assembling disparate concepts inside your head.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When performing this routine, do not try to craft polished, refined sentences or
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Abandoning Perfectionism & Immersing in the Associative Flow
+
+When performing this routine, do not try to craft polished, refined sentences or high-realism prose right away. The moment you worry about grammatical perfection or logical elegance, prefrontal censorship intervenes and cuts off subconscious associative chains. The core is immersing yourself entirely in the 'associative process itself'—speedily and forcefully assembling disparate concepts inside your head.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Must I practice this associative writing routine every single morning?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When performing this routine, do not try to craft polished, refined sentences or
       Performing word association right after waking, when the subconscious is highly active, is neurologically most effective. However, practicing even 3 to 4 times a week is sufficient to train prefrontal divergent thinking circuits and unlock creative insights.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I replace this routine if I don't have paper or word cards nearby?</span>

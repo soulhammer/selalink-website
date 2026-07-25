@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Treinamento de Controle Cognitivo de Earhart: Imersa nas Leituras dos Instrumentos Mesmo no Cockpit em Meio à Tempestade"
 description: "A primeira aviadora a cruzar o Atlântico solo com sucesso, ela acalmava a ansiedade de voo compilando com precisão os dados meteorológicos e as variações do vento todas as manhãs."
 pubDate: "2026-01-31"
@@ -31,25 +32,23 @@ No artigo de hoje, apresentamos os princípios da ciência cognitiva por trás d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre amelia-earhart é baseada em <strong>Verificação Histórica da Autobiografia de Amelia Earhart *The Fun of It* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Amelia Earhart *The Fun of It* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análise dos Princípios da Neurociência que Impulsionam o Sucesso
+## 1. Análise dos Princípios da Neurociência que Impulsionam o Sucesso
 
 Em situações de crise ou ambientes de trabalho ansiosos, suprimir a excitação do cérebro emocional (amígdala) e fixar o julgamento em métricas físicas ativa drasticamente a rede de Controle Cognitivo (Cognitive Control) do lobo pré-frontal. O processo de converter rapidamente os dados coletados dos instrumentos em texto e realizar uma metanálise controla a secreção do hormônio cortisol e atua como um poderoso mecanismo que induz uma tomada de decisão ideal e sem erros, sem entrar em pânico em ambientes de negócios complexos.
 
 ---
 
-## Conselhos da Ciência Comportamental para uma Consolidação Bem-Sucedida
-
-Não fique excessivamente obcecado com a análise numérica estabelecendo metas diárias longas demais. Concentre-se unicamente em contemplar apenas 3 números frios de instrumentos para sobrepor um mapa claro de informações fáticas ao seu cérebro. Em vez de confiar imprudentemente apenas na força de vontade, projetar com antecedência um ambiente físico e gatilhos de hábitos onde a ação seja desencadeada naturalmente é o segredo da sustentabilidade.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Não fique excessivamente obcecado com a análise numérica estabelecendo metas 
   </p>
 </div>
 
+---
+
+## 3. Conselhos da Ciência Comportamental para uma Consolidação Bem-Sucedida
+
+Não fique excessivamente obcecado com a análise numérica estabelecendo metas diárias longas demais. Concentre-se unicamente em contemplar apenas 3 números frios de instrumentos para sobrepor um mapa claro de informações fáticas ao seu cérebro. Em vez de confiar imprudentemente apenas na força de vontade, projetar com antecedência um ambiente físico e gatilhos de hábitos onde a ação seja desencadeada naturalmente é o segredo da sustentabilidade.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O treinamento do painel de instrumentos funciona de imediato mesmo quando o trabalho trava e surge a impaciência?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Não fique excessivamente obcecado com a análise numérica estabelecendo metas 
       Sim, funciona de imediato. Quando surge a impaciência, o cérebro hiperativa a amígdala. Nesse momento, se você anota friamente no papel números físicos como as notificações de mensagens restantes ou os minutos do prazo, a rede de controle cognitivo do cérebro opera de cima para baixo (Top-down), estabilizando suas emoções.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quais números são mais recomendados para designar como variáveis do painel de voo?</span>

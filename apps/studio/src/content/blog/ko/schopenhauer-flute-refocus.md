@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "독설가 철학자가 아침마다 플루트를 불어 뇌를 식힌 이유? 쇼펜하우어의 인지 리셋법"
 description: "독일의 위대한 염세주의 철학자 아르투어 쇼펜하우어. 매일 아침 냉수 마찰 후 30분간 플루트 연주와 호흡에 몰입하며 뇌파를 알파파로 이완했던 그의 생리학적 루틴과 현대인을 위한 리셋 팁을 소개합니다."
 pubDate: "2026-02-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>쇼펜하우어 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 schopenhauer-flute-refocus 루틴을 다룹니다.
+      본 콘텐츠는 <strong>쇼펜하우어 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 안면 미주 신경 자극(Trigeminal Nerve Stimulation)과 복식 호흡의 알파파 조율
+## 1. 안면 미주 신경 자극(Trigeminal Nerve Stimulation)과 복식 호흡의 알파파 조율
 
 차가운 물이 얼굴 전체에 닿을 때 활성화되는 삼차 신경 및 미주 신경 자극은 뇌의 자율신경계 반응(잠수 반사, Diving Reflex)을 유도합니다. 이는 일시적으로 심박수를 낮추고 뇌로 가는 산소 소모를 조율하여 교감 신경의 과각성을 안정시킵니다. 이후 플루트 연주 시 요구되는 정교한 소근육 운동(운지법)과 길고 깊은 날숨 제어는 뇌파를 가장 안정되고 인지 효율이 뛰어난 주파수인 알파파(Alpha Waves) 상태로 정렬시켜 집중력을 극대화해 줍니다.
 
 ---
 
-## 안면 자극 시 유의사항 및 호흡 제어 팁
-
-잠을 깨우기 위해 너무 장시간 차가운 물에 안면을 노출하면 안면 피부에 물리적 자극을 주어 손상을 입거나 오히려 급격한 혈압 변화를 유발할 수 있습니다. 따라서 물에 얼굴을 가볍게 축여 적셔주는 수준(15 ~ 30초)으로만 진행하는 것이 안전합니다. 또한 악기 연주 시 어지러움(과호흡)을 방지하기 위해 날숨과 들숨의 비율을 1:1로 고르게 배분하며 천천히 호흡을 진행하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 안면 자극 시 유의사항 및 호흡 제어 팁
+
+잠을 깨우기 위해 너무 장시간 차가운 물에 안면을 노출하면 안면 피부에 물리적 자극을 주어 손상을 입거나 오히려 급격한 혈압 변화를 유발할 수 있습니다. 따라서 물에 얼굴을 가볍게 축여 적셔주는 수준(15 ~ 30초)으로만 진행하는 것이 안전합니다. 또한 악기 연주 시 어지러움(과호흡)을 방지하기 위해 날숨과 들숨의 비율을 1:1로 고르게 배분하며 천천히 호흡을 진행하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>연주할 수 있는 악기가 전혀 없는 초보자인데도 효과를 낼 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       물론입니다. 꼭 정교한 연주를 완수해야 하는 것은 아닙니다. 악기를 직접 다루는 대신 클래식 연주곡을 재생해 두고 그 흐름에 감각을 집중시키며 날숨과 들숨을 5초씩 천천히 통제하는 의식적인 호흡(Breathing Control)만 진행해도, 삼차 신경 자극 및 알파파 전이와 동일한 뇌과학적 리셋 효과를 얻을 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>냉수 세안이 왜 미주 신경을 자극하고 뇌의 잠을 깨우는 것인가요?</span>

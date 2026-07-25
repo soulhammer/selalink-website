@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "허리춤에 항상 수첩을 매달아 둔 천재: 레오나르도 다 빈치의 즉시 메모 습관과 작업 기억 외재화"
 description: "르네상스의 거장 레오나르도 다 빈치가 허리춤에 가죽 수첩을 매달고 관찰과 영감을 즉시 기록했던 메모 습관. 작업 기억(Working Memory) 용량을 비워내는 '외재화(Externalization)'와 인지 부하 감소의 인지신경과학적 원리를 밝깁니다."
 pubDate: "2026-05-29"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>월터 아이작슨 평전 『레오나르도 다 빈치(Leonardo da Vinci)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 da-vinci-notepad 루틴을 다룹니다.
+      본 콘텐츠는 <strong>월터 아이작슨 평전 『레오나르도 다 빈치(Leonardo da Vinci)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 작업 기억(RAM) 용량을 비워내는 외재화(Externalization)와 인지 부하 감소
+## 1. 작업 기억(RAM) 용량을 비워내는 외재화(Externalization)와 인지 부하 감소
 
 인간의 뇌는 아이디어를 장기 보관하는 창고라기보다, 정보를 가공하고 연상하는 대뇌 CPU(중앙처리장치)에 가깝습니다. 인지심리학 연구에 따르면, 인간의 작업 기억(Working Memory) 용량은 3 ~ 5개의 덩어리로 극히 제한되어 있어, 새로 떠오른 아이디어를 글로 적지 않고 머릿속에 억지로 가두어 두면 이를 유지하기 위해 전전두엽 자원(Cognitive Load)을 불필요하게 소모하게 됩니다. 다 빈치처럼 영감을 수첩에 즉시 기재하여 물리적 매체로 옮기는 '외재화(Externalization)' 프로세스를 거치면, 뇌는 정보 유지 부하에서 벗어나 작업 기억(RAM)을 완전 공백 상태로 비우게 됩니다. 비워진 전전두엽은 비로소 고차원적인 창의적 사유와 자발적 연상 작용을 폭발적으로 가동시킵니다.
 
 ---
 
-## 주의사항 및 팁: 즉시 외재화와 머릿속 인지적 유지 스트레스 차단
-
-메모 습관의 목적은 뇌에 기억 유치의 부담을 주지 않는 데 있습니다. "나중에 적어야지"하고 영감을 머릿속에 붙잡아두는 행동은 전전두엽에 미세한 스트레스와 인지 피로를 누적시킵니다. 정교하게 정돈해서 적으려 하지 말고, 단어 하나나 거친 스케치라도 좋으니 영감이 스친 직후 5초 이내에 외부 매체에 즉시 던져 넣어야 뇌의 작업 기억 영역이 완벽하게 보호됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 즉시 외재화와 머릿속 인지적 유지 스트레스 차단
+
+메모 습관의 목적은 뇌에 기억 유치의 부담을 주지 않는 데 있습니다. "나중에 적어야지"하고 영감을 머릿속에 붙잡아두는 행동은 전전두엽에 미세한 스트레스와 인지 피로를 누적시킵니다. 정교하게 정돈해서 적으려 하지 말고, 단어 하나나 거친 스케치라도 좋으니 영감이 스친 직후 5초 이내에 외부 매체에 즉시 던져 넣어야 뇌의 작업 기억 영역이 완벽하게 보호됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>다 빈치는 왜 항상 가죽 수첩을 허리춤에 묶고 다녔나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       호기심이 생기거나 아이디어가 떠오른 찰나, 물리적 접근 장벽(Friction)을 0으로 만들어 단 1초의 지연도 없이 영감을 수첩으로 외재화하기 위해서였습니다. 이는 뇌의 작업 기억을 항상 빈 상태로 유지하여 무한한 창의적 연상 공간을 보존하는 극상의 환경 설계였습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>종이 수첩 대신 스마트폰 메모 앱을 사용하는 것도 동일한 작업 기억 외재화 효과가 있나요?</span>

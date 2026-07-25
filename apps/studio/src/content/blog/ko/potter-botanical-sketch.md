@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "'피터 래빗' 저자의 비밀? 비아트릭스 포터의 아침 미시적 자연 관찰 루틴"
 description: "'피터 래빗'의 저자 비아트릭스 포터가 매일 아침 돋보기로 식물과 이끼의 미세 구조를 세밀 관찰하며 잡념을 끄고 예술적 영감을 키운 뇌과학 습관."
 pubDate: "2026-05-15"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>비아트릭스 포터 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 potter-botanical-sketch 루틴을 다룹니다.
+      본 콘텐츠는 <strong>비아트릭스 포터 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 미시적 초점 맞춤(Micro-focused attention)을 통한 DMN 방황 차단과 집행 제어
+## 1. 미시적 초점 맞춤(Micro-focused attention)을 통한 DMN 방황 차단과 집행 제어
 
 뇌가 과거의 후회나 미래의 걱정으로 산만해지는 것은 디폴트 모드 네트워크(DMN)가 과열되어 방황하기 때문입니다.
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 멀리 보지 말고 눈앞 사물의 미세 결 하나에 몰입하세요
-
-이 관찰 루틴의 핵심은 거창한 예술적 스케치가 아닙니다. 잎사귀 하나, 연필 끝 하나, 혹은 손등의 피부 결을 돋보기로 보듯 미시적으로 탐색하는 그 집중 과정 자체가 뇌를 치유합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 멀리 보지 말고 눈앞 사물의 미세 결 하나에 몰입하세요
+
+이 관찰 루틴의 핵심은 거창한 예술적 스케치가 아닙니다. 잎사귀 하나, 연필 끝 하나, 혹은 손등의 피부 결을 돋보기로 보듯 미시적으로 탐색하는 그 집중 과정 자체가 뇌를 치유합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>그림을 잘 그리지 못하는데도 스케치를 해야 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       아닙니다! 그림 대신 발견한 특징을 텍스트로 적어도 관찰에 뇌가 몰입되는 효과는 100% 동일합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>사무실이나 실내에서도 자연물 대신 적용할 수 있나요?</span>

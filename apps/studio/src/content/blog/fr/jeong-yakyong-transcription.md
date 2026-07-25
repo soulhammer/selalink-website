@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le moteur derrière 500 volumes en exil : La routine de transcription sélective, d'épistolier et d'encodage cognitif de Dasan Jeong Yak-yong"
 description: "Découvrez comment Dasan Jeong Yak-yong, le plus grand érudit Silhak de la dynastie Joseon, a rédigé plus de 500 volumes pendant ses 18 ans d'exil grâce au 'Choseo' (transcription sélective) et aux lettres à ses fils. Explorez la neuroscience de l'encodage cognitif graphomoteur."
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente a la rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant jeong-yakyong-transcription est basée sur <strong>Vérification Historique issue des Œuvres complètes de Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, de l'autobiographie *Saam Yeonbo* & de la Recherche en Neurosciences Cognitives et Métacognition</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des Œuvres complètes de Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, de l'autobiographie *Saam Yeonbo* & de la Recherche en Neurosciences Cognitives et Métacognition</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Encodage cognitif par la synchronisation main-cerveau et métacognition
+## 1. Encodage cognitif par la synchronisation main-cerveau et métacognition
 
 Lire passivement sollicite des réseaux neuronaux très différents de la transcription et du résumé manuscrits. Le geste graphomoteur stimule le <strong>Cortex Somatosensoriel</strong>, transmettant des signaux au <strong>Cortex Préfrontal</strong> et au <strong>Cortex d'Association</strong> pour favoriser l'<strong>Encodage Cognitif</strong>. De plus, réorganiser ses connaissances pour les transmettre par écrit développe la <strong>Métacognition</strong>, consolidant les données dans la mémoire a long terme.
 
 ---
 
-## Mise en garde : Se concentrer sur la synthèse active et le commentaire plutôt que sur la copie mécanique
-
-Le piège classique lors de la prise de notes est de recopier machinalement le texte. La transcription littérale sans traitement préfrontal actif ne produit aucun encodage cognitif. Le véritable savoir ne s'élabore que si vous synthétisez les idées clés à travers vos propres mots et y ajoutez una réflexion personnelle.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le piège classique lors de la prise de notes est de recopier machinalement le t
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Se concentrer sur la synthèse active et le commentaire plutôt que sur la copie mécanique
+
+Le piège classique lors de la prise de notes est de recopier machinalement le texte. La transcription littérale sans traitement préfrontal actif ne produit aucun encodage cognitif. Le véritable savoir ne s'élabore que si vous synthétisez les idées clés à travers vos propres mots et y ajoutez una réflexion personnelle.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Saisir des notes sur un clavier numérique procure-t-il les mêmes avantages d'encodage cognitif que l'écriture manuscrite ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le piège classique lors de la prise de notes est de recopier machinalement le t
       Non. L'écriture manuscrite au stylo stimule intensément le cortex somatosensoriel, démultipliant l'efficacité de l'encodage cognitif. Bien que la saisie soit plus rapide, frapper des touches identiques offre un retour tactile uniforme sans véritable stimulation neuronale. Pour consolider la mémoire a long terme, le 'Choseo' manuscrit est bien plus puissant.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Expliquer des concepts a d'autres personnes déclenche-t-il des effets métacognitifs même sans rédiger de lettre ?</span>

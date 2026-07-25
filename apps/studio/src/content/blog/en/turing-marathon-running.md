@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Race to Reset a Genius Mind? Alan Turing's Running Routine"
 description: "Alan Turing, the father of computer science who deciphered the Enigma code. Learn about his running habit of running 16km daily to relieve brain overload and stimulate neural cells, along with its scientific background."
 pubDate: "2026-02-02"
@@ -38,14 +39,14 @@ In today's post, we examine the neuroscientific mechanisms behind Alan Turing's 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding turing-marathon-running is based on <strong>Historical biographies and autobiographical records of Alan Turing & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Alan Turing & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aerobic Exercise Promoting Neurogenesis and Cognitive Refreshment
+## 1. Aerobic Exercise Promoting Neurogenesis and Cognitive Refreshment
 
 Consistent daily aerobic running induces the synthesis of <strong>Brain-Derived Neurotrophic Factor (BDNF)</strong>, a crucial substance for brain health. BDNF promotes the generation of new neurons in the hippocampus, which handles memory and learning, expanding cognitive working memory space.
 
@@ -53,9 +54,7 @@ Furthermore, while running, the prefrontal cortex responsible for cognitive cont
 
 ---
 
-## Pacing Control for Optimal Cognitive Awakening
-
-Pacing control is vital during running intended to refresh the brain. If you run excessively hard and reach an anaerobic threshold state where your heart feels like bursting, the brain devotes all cognitive resources purely to physical survival, hindering contemplation and DMN activation. Running steadily at a pace where light conversation is possible is most effective.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Pacing control is vital during running intended to refresh the brain. If you run
   </p>
 </div>
 
+---
+
+## 3. Pacing Control for Optimal Cognitive Awakening
+
+Pacing control is vital during running intended to refresh the brain. If you run excessively hard and reach an anaerobic threshold state where your heart feels like bursting, the brain devotes all cognitive resources purely to physical survival, hindering contemplation and DMN activation. Running steadily at a pace where light conversation is possible is most effective.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does stationary cycling or swimming produce the same brain refresh effect as running?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Pacing control is vital during running intended to refresh the brain. If you run
       Yes, any continuous aerobic exercise that engages cardiopulmonary function and raises BDNF levels, such as cycling or swimming, provides similar cognitive recovery benefits. However, outdoor running maximizes the relaxation and idea activation of the Default Mode Network (DMN) when sensory stimuli like wind and natural scenery reach the brain.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does listening to music while running hinder brain recovery?</span>

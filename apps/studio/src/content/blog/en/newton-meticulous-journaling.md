@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Recording Order Amid Chaos: Sir Isaac Newton's Research Journaling Habit"
 description: "Sir Isaac Newton, humanity's paramount scientist. Explore his lifelong habit of recording every insight and calculation in a massive leather journal, and the neuroscientific benefits of handwriting."
 pubDate: "2026-03-30"
@@ -36,14 +37,14 @@ In today's post, we unpack the neuroscientific mechanisms behind Newton's 'Waste
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding newton-meticulous-journaling is based on <strong>Historical Biographies and Autobiographical Records of Sir Isaac Newton & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies and Autobiographical Records of Sir Isaac Newton & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Cognitive Offloading': Emptying Working Memory Overload
+## 1. 'Cognitive Offloading': Emptying Working Memory Overload
 
 The capacity of working memory, responsible for short-term information processing, is strictly limited. When juggling complex calculations and insights mentally, the brain experiences cognitive overload and halts creative thinking. Newton's practice of meticulous handwriting and visualization activated <strong>'Cognitive Offloading'</strong>.
 
@@ -51,9 +52,7 @@ By backing up thoughts onto paper, working memory is freed from information main
 
 ---
 
-## Practice Visual Structuring, Not Just Simple Note-Taking
-
-Mechanically typing text into smartphones or digital notepad apps provides less tactile stimulation and weaker memory encoding. The key is gripping a pen to deliver tactile feedback and connecting ideas visually with arrows, diagrams, and tables. If using a digital tablet, combine it with a stylus pen to sketch connections manually.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Mechanically typing text into smartphones or digital notepad apps provides less 
     Do not stop at linear sentences; connect ideas with arrows, and sketch flowcharts, concept diagrams, or tables by hand to synthesize complex logic visually.
   </p>
 </div>
+
+---
+
+## 3. Practice Visual Structuring, Not Just Simple Note-Taking
+
+Mechanically typing text into smartphones or digital notepad apps provides less tactile stimulation and weaker memory encoding. The key is gripping a pen to deliver tactile feedback and connecting ideas visually with arrows, diagrams, and tables. If using a digital tablet, combine it with a stylus pen to sketch connections manually.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

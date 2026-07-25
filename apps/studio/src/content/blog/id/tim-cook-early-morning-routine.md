@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "CEO yang Bangun Jam 3:45 Pagi untuk Membaca 100 Email? Rutinitas Kontrol Pagi Tim Cook"
 description: "Tim Cook, pemimpin Apple, perusahaan IT terbesar di dunia. Temukan rutinitas harian bangun jam 3:45 pagi untuk membaca email umpan balik pengguna dan berolahraga jam 5:00 pagi untuk merebut kendali harian, beserta panduan 3 langkah."
 pubDate: "2026-02-24"
@@ -33,17 +34,17 @@ Dalam postingan hari ini, kami mengungkap prinsip kerja neurosains di balik ruti
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai tim-cook-early-morning-routine didasarkan pada <strong>Biografi historis dan catatan autobiografi Tim Cook & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis dan catatan autobiografi Tim Cook & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Proteksi Anggaran Glukosa Prefrontal dan Mekanisme Pencegahan Ego Depletion
+## 1. Proteksi Anggaran Glukosa Prefrontal dan Mekanisme Pencegahan Ego Depletion
 
 Sumber daya energi yang digunakan otak manusia, khususnya Korteks Prefrontal, saat mengambil keputusan bersifat terbatas. Jika sepanjang hari Anda terseret oleh permintaan orang lain dan email reaktif, otak Anda akan jatuh ke dalam kondisi <strong>Ego Depletion</strong> saat tiba waktunya membuat keputusan strategis.
 
@@ -51,9 +52,7 @@ Otonomi pagi yang tenang pada jam 3:45 pagi menjaga 100% glukosa dan kontrol eks
 
 ---
 
-## Waspadai Penumpukan Kelelahan Otak Akibat Pengurangan Waktu Tidur
-
-Jika Anda memaksa bangun pagi-pagi fajar padahal tidur larut malam demi meniru Tim Cook, kelelahan kronis akan menumpuk di sel-sel prefrontal sehingga memperburuk daya pikir. Ingatlah bahwa esensi rutinitas bangun pagi bukanlah jam bangun itu sendiri, melainkan 'tidur cepat dan bangun cepat untuk mengambil kendali'.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jika Anda memaksa bangun pagi-pagi fajar padahal tidur larut malam demi meniru T
   </p>
 </div>
 
+---
+
+## 3. Waspadai Penumpukan Kelelahan Otak Akibat Pengurangan Waktu Tidur
+
+Jika Anda memaksa bangun pagi-pagi fajar padahal tidur larut malam demi meniru Tim Cook, kelelahan kronis akan menumpuk di sel-sel prefrontal sehingga memperburuk daya pikir. Ingatlah bahwa esensi rutinitas bangun pagi bukanlah jam bangun itu sendiri, melainkan 'tidur cepat dan bangun cepat untuk mengambil kendali'.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah tipe orang malam (night owl) juga disarankan mengikuti rutinitas pagi ini?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jika Anda memaksa bangun pagi-pagi fajar padahal tidur larut malam demi meniru T
       Jika kronotipe tidur Anda secara genetik memang tipe malam, Anda tidak perlu memaksakan diri bangun jam 3-4 pagi. Pelajaran utama dari rutinitas ini adalah 'mengamankan 1 jam proaktif tanpa gangguan luar', sehingga menggantinya dengan 1 jam setelah pulang kerja atau larut malam akan memberikan efek yang sama.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mengatasi kelelahan di sore hari jika bangun sangat pagi?</span>

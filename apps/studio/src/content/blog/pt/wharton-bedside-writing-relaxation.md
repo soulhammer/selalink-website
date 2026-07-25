@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Fluxo criativo guiado pelo relaxamento: O hábito matinal de escrita na cama de Edith Wharton"
 description: "Edith Wharton, a grande autora que se tornou a primeira mulher a vencer o Prêmio Pulitzer de Ficção. Descubra seu segredo neurofisiológico de escrever confortavelmente na cama com seus cães sem se levantar pela manhã."
 pubDate: "2026-06-21"
@@ -29,25 +30,23 @@ Edith Wharton destacou-se como uma mestra incomparável na literatura norte-amer
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre wharton-bedside-writing-relaxation é baseada em <strong>Exame de biografias históricas e registros autobiográficos de Edith Wharton e pesquisas em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Exame de biografias históricas e registros autobiográficos de Edith Wharton e pesquisas em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaxamento físico e ação cognitiva do modo de dominância parassimpática
+## 1. Relaxamento físico e ação cognitiva do modo de dominância parassimpática
 
 Ao criar ideias complexas, o gargalo é o enrijecimento do lóbulo frontal devido ao estresse de 'escrever bem'. Manter um estado totalmente relaxado na cama em contato com animais ativa fortemente o Sistema Nervoso Parassimpático. Sentir-se seguro reduz o cortisol e liberta Ondas Alfa que conectam fragmentos de ideias na mente de forma fluida.
 
 ---
 
-## Precauções e dicas
-
-O risco ao escrever na cama é adormecer. Se o cérebro entrar em ondas delta, a sonolência substitui a criação. Evite deitar-se reto; use almofadas para manter uma posição semi-sentada (45-60 graus). Mantenha o quarto fresco para que a mente continue desperta enquanto o corpo relaxa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,9 +78,15 @@ O risco ao escrever na cama é adormecer. Se o cérebro entrar em ondas delta, a
   </p>
 </div>
 
+---
+
+## 3. Precauções e dicas
+
+O risco ao escrever na cama é adormecer. Se o cérebro entrar em ondas delta, a sonolência substitui a criação. Evite deitar-se reto; use almofadas para manter uma posição semi-sentada (45-60 graus). Mantenha o quarto fresco para que a mente continue desperta enquanto o corpo relaxa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

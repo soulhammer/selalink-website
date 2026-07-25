@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "뇌의 인지 리셋: 막스 플랑크의 피아노 즉흥 연주 습관"
 description: "물리학 연구 후 피아노 건반을 마음대로 두드리며 즉흥 연주로 기분을 전환했던 막스 플랑크. 예술적 활성화가 논리 영역의 피로를 씻어내는 '교차 인지 리프레시' 원리를 연구합니다."
 pubDate: "2026-04-01"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>막스 플랑크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 planck-piano-refresh 루틴을 다룹니다.
+      본 콘텐츠는 <strong>막스 플랑크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 우뇌 활성화를 통한 좌뇌 인지 억제와 교차 리프레시
+## 1. 우뇌 활성화를 통한 좌뇌 인지 억제와 교차 리프레시
 
 뇌의 특정 인지 영역(수리 논리, 추론 등 좌뇌와 두정엽)을 극단적으로 사용하면, 주의력 고갈 및 신경 피로 물질(아데노신 등)이 해당 부위에 집중 적재됩니다. 이때 단순히 가만히 쉬는 것보다, 음악 즉흥 연주와 같은 전혀 다른 성격의 영역(우뇌 및 운동 감각 피질)을 자극하는 행동은 뇌의 '교차 인지 리프레시(Cross-Cognitive Refresh)'를 촉진시킵니다. 즉흥 연주는 미리 정해진 규칙 없이 직관적인 감각 파동을 뇌가 스스로 조합하게 유도하며, 논리 회로의 스위치를 내리고 창조적 잠재 영역의 작동을 일깨워 피로한 영역의 강제 휴식과 신경계 정화를 돕습니다.
 
 ---
 
-## 주의사항 및 팁
-
-피아노 즉흥 연주를 통해 뇌를 리셋할 때 주의해야 할 점은 악보대로 정확하게 쳐야 한다는 규칙에 지배되는 것입니다. 음정이나 템포를 지키려 연주 기술에 의도적인 인지력을 소모하면, 뇌는 이를 또 다른 작업(Task)으로 인지하여 교차 이완 효과가 발생하지 않습니다. 따라서 핵심은 손가락 끝이 건반에 닿는 감촉과 울리는 불협화음조차 편안하게 수용하며, 아무 규제 없이 소리를 자유롭게 발산하는 낙서 같은 연주 태도를 유지하는 것입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁
+
+피아노 즉흥 연주를 통해 뇌를 리셋할 때 주의해야 할 점은 악보대로 정확하게 쳐야 한다는 규칙에 지배되는 것입니다. 음정이나 템포를 지키려 연주 기술에 의도적인 인지력을 소모하면, 뇌는 이를 또 다른 작업(Task)으로 인지하여 교차 이완 효과가 발생하지 않습니다. 따라서 핵심은 손가락 끝이 건반에 닿는 감촉과 울리는 불협화음조차 편안하게 수용하며, 아무 규제 없이 소리를 자유롭게 발산하는 낙서 같은 연주 태도를 유지하는 것입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>악보가 없는 피아노 즉흥 연주는 어떻게 시작하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ faqs:
       멜로디의 완벽성이나 불협화음에 개의치 않고 손가락이 가는 대로 건반의 무게감과 소리의 울림에 온 주의를 모아 자유롭게 누르는 것이 뇌의 주의력 네트워크를 이완하고 리셋하는 열쇠입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>피아노 대신 다른 악기로도 인지 리셋이 가능한가요?</span>

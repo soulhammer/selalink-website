@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A Nobel Peace Laureate's Nightly Reset: Albert Schweitzer's Evening Organ Routine"
 description: "How Dr. Albert Schweitzer overcame extreme fatigue in an African jungle hospital by playing Bach's organ every night: an autonomic nervous system reset guide."
 pubDate: "2026-01-29"
@@ -36,14 +37,14 @@ In today's post, we introduce the science of autonomic nervous system relaxation
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding schweitzer-night-organ is based on <strong>Albert Schweitzer Historical Biography and Autobiographical Records & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Albert Schweitzer Historical Biography and Autobiographical Records & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Parasympathetic Nervous System Activation Induced by Structured Classical Melodies
+## 1. Parasympathetic Nervous System Activation Induced by Structured Classical Melodies
 
 Excessive stress during the day continuously overactivates the Sympathetic Nervous System, raising cortisol levels and disrupting autonomic balance.
 
@@ -51,9 +52,7 @@ Structured classical melodies with a tempo of 60–80 BPM, like Bach's music pla
 
 ---
 
-## Choose Relaxing Music Over Intense Screens Before Bed
-
-Consuming stimulating videos or texts late at night prevents the brain from entering rest mode. Like Dr. Schweitzer, send relaxation signals through quiet musical immersion. Rather than relying solely on willpower, designing the physical environment and habit cues beforehand is key to consistency.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Consuming stimulating videos or texts late at night prevents the brain from ente
   </p>
 </div>
 
+---
+
+## 3. Choose Relaxing Music Over Intense Screens Before Bed
+
+Consuming stimulating videos or texts late at night prevents the brain from entering rest mode. Like Dr. Schweitzer, send relaxation signals through quiet musical immersion. Rather than relying solely on willpower, designing the physical environment and habit cues beforehand is key to consistency.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can I listen to vocal ballads instead of classical music?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Consuming stimulating videos or texts late at night prevents the brain from ente
       Music with lyrics reactivates the brain's language processing areas (auditory cortex), hindering complete rest. Pure instrumentals without lyrics (classical, jazz, lo-fi) are far more effective for autonomic relaxation.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is sleeping while listening to music helpful?</span>

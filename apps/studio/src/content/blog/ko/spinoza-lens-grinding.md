@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "스피노자의 렌즈 세공: 단순 반복 신체 노동으로 뇌 피로를 씻어내는 법"
 description: "범신론 철학자 스피노자가 대표작 『에티카』를 집필하는 틈틈이 렌즈를 깎는 미세 손노동을 통해 인지적 과부하를 비워내고 고도의 몰입 상태를 회복한 비결을 알아봅니다."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Spinoza Lens Grinding 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 spinoza-lens-grinding 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Spinoza Lens Grinding 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 단순 미세 손동작이 인지적 번아웃을 예방하는 뇌과학
+## 1. 단순 미세 손동작이 인지적 번아웃을 예방하는 뇌과학
 
 최상위 이성적 추론이나 복잡한 구조적 설계를 지속하는 행위는 전전두엽 피질의 인지 자원을 고갈시킵니다. 이때 렌즈를 연마하듯 촉각에 극도로 몰두하는 미세 손노동으로 전환하면, 운동 피질과 소뇌가 활성화되면서 과잉 작동하던 디폴트 모드 네트워크(DMN)와 잡생각이 즉각 제어됩니다. 이러한 일시적인 뇌 영역의 가동 분담은 지쳤던 전전두엽 피질이 신경 피로를 해소하고 에너지를 복원할 수 있도록 돕습니다.
 
 ---
 
-## 완벽히 탈디지털화된 손노동 고르기
-
-이러한 이완 효과를 얻으려면 스마트폰이나 키보드를 다루는 일에서 완벽하게 벗어나야 합니다. 전자기기 조작은 뇌에 여전히 고도의 논리 연산을 요구하므로 인지 피로를 덜어주지 못합니다. 설거지, 아날로그 필사, 수공예 조립 등 오직 촉각적 정보와 시공간 제어만 필요한 단순 신체 활동을 선택하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     15분간의 손노동을 마친 뒤 다시 컴퓨터 앞으로 돌아와 본래의 기획 및 개발 업무를 재개합니다. 뇌의 휴식 공간이 복원되어 훨씬 명징하고 효율적인 의사결정이 가능해집니다.
   </p>
 </div>
+
+---
+
+## 3. 완벽히 탈디지털화된 손노동 고르기
+
+이러한 이완 효과를 얻으려면 스마트폰이나 키보드를 다루는 일에서 완벽하게 벗어나야 합니다. 전자기기 조작은 뇌에 여전히 고도의 논리 연산을 요구하므로 인지 피로를 덜어주지 못합니다. 설거지, 아날로그 필사, 수공예 조립 등 오직 촉각적 정보와 시공간 제어만 필요한 단순 신체 활동을 선택하세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Kekuatan untuk Membangunkan Sirkuit Otak Positif: Rutinitas Senyum Cermin dan Kebersihan Dosan Ahn Chang-ho"
 description: "Kekuatan 'senyuman' dan 'kebersihan' yang ditekankan oleh pejuang kemerdekaan Dosan Ahn Chang-ho. Pelajari alasan ilmiah mengapa senyum yang dipaksakan melepaskan serotonin di otak dan ruang yang rapi mengurangi beban kognitif visual."
 pubDate: "2026-01-19"
@@ -33,17 +34,17 @@ Dalam postingan hari ini, kami menganalisis prinsip-prinsip hipotesis umpan bali
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai anchangho-mirror-smile didasarkan pada <strong>Verifikasi Historis dari Biografi Dosan Ahn Chang-ho, Catatan Young Korean Academy (Hung Sah Dahn) & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Dosan Ahn Chang-ho, Catatan Young Korean Academy (Hung Sah Dahn) & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Terapi Kognitif dari Hipotesis Umpan Balik Wajah dan Pengorganisasian Ruang Fisik
+## 1. Efek Terapi Kognitif dari Hipotesis Umpan Balik Wajah dan Pengorganisasian Ruang Fisik
 
 Menurut Hipotesis Umpan Balik Wajah (Facial Feedback Hypothesis) dalam fisiologi, otak tidak hanya menggerakkan otot wajah berdasarkan emosi, melainkan secara terbalik mendeteksi kondisi kontraksi otot wajah untuk menentukan kondisi emosional saat ini. Hanya dengan memaksakan ekspresi tersenyum di pagi hari, otak persepsikan hal itu sebagai stimulasi kebahagiaan, mendorong sekresi neurotransmiter positif seperti serotonin dan dopamin, serta menurunkan tingkat hormon stres kortisol.
 
@@ -51,9 +52,7 @@ Selain itu, membersihkan dan menata ruang sekitar secara signifikan memblokir ke
 
 ---
 
-## Sepatah Kata dari Dosan untuk Menata Pikiran dan Ruang
-
-Ketika pikiran Anda kacau, daripada bersusah payah mengendalikan pikiran secara paksa, mulailah dengan terlebih dahulu memberikan senyuman kepada diri sendiri di cermin dan memungut selembar sampah di depan mata Anda. Senyuman mengusir kegelapan batin, dan kebersihan memperbaiki ketidakberaturan luar, membimbing Anda ke jalan yang benar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Ketika pikiran Anda kacau, daripada bersusah payah mengendalikan pikiran secara 
     Meskipun tidak keluar rumah, cuci muka, sisir rambut dengan rapi, hindari pakaian kusut atau kotor, dan jaga kerapihan penampilan pribadi Anda untuk memberikan ketegangan kognitif.
   </p>
 </div>
+
+---
+
+## 3. Sepatah Kata dari Dosan untuk Menata Pikiran dan Ruang
+
+Ketika pikiran Anda kacau, daripada bersusah payah mengendalikan pikiran secara paksa, mulailah dengan terlebih dahulu memberikan senyuman kepada diri sendiri di cermin dan memungut selembar sampah di depan mata Anda. Senyuman mengusir kegelapan batin, dan kebersihan memperbaiki ketidakberaturan luar, membimbing Anda ke jalan yang benar.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

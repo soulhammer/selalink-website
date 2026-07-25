@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "End of the Day, Complete Emptying: Konosuke Matsushita's Bath Reflection Routine"
 description: "The hot bath contemplation practiced every night by Konosuke Matsushita, the 'God of Management'. Analyzes the activation of parasympathetic nerves and the Default Mode Network (DMN) alignment in the brain."
 pubDate: "2026-05-25"
@@ -36,22 +37,20 @@ In today's post, we analyze the neuroscience of the autonomic nervous system and
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding matsushita-bath-reflection is based on <strong>Konosuke Matsushita Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Konosuke Matsushita Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synergy Between Warm Water Relaxation and the Default Mode Network
+## 1. Synergy Between Warm Water Relaxation and the Default Mode Network
 
 Bathing in warm water raises core body temperature and activates parasympathetic nerves, reducing cortisol. A relaxed state isolated from external stimuli stimulates the brain's Default Mode Network (DMN), fostering creative insights. According to neuroscientific research, this practice suppresses unnecessary anxiety responses in the amygdala and activates visuospatial sketchpad circuits, dramatically enhancing executive function.
 
 ---
 
-## A Word from the Master on Emptying the Mind
-
-If you want to make wise decisions, first empty your mind completely. Digital detox in the bathroom and 15 minutes of mental and physical relaxation are the shortcuts. Do not rely solely on willpower; designing a physical environment and habit cues that naturally trigger action is key to sustainability.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ If you want to make wise decisions, first empty your mind completely. Digital de
     Gently dry off and hydrate. As the elevated core temperature drops, it naturally prepares your body for deep, restful sleep.
   </p>
 </div>
+
+---
+
+## 3. A Word from the Master on Emptying the Mind
+
+If you want to make wise decisions, first empty your mind completely. Digital detox in the bathroom and 15 minutes of mental and physical relaxation are the shortcuts. Do not rely solely on willpower; designing a physical environment and habit cues that naturally trigger action is key to sustainability.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

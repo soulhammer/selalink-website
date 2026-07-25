@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La reflexión epistolar de Van Gogh: Purificando la desesperación al escribir cartas a su hermano Theo cada noche"
 description: "Descubra el hábito de verbalización emocional de Vincent van Gogh, el inmortal pintor que ardió con colores intensos y purificó su mente a través de cientos de cartas a su hermano Theo en medio de un intenso tormento."
 pubDate: "2026-04-21"
@@ -34,22 +35,20 @@ En la publicación de hoy, presentamos los principios científicos cognitivos de
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre van-gogh se basa en <strong>Biografías históricas y registros autobiográficos de Vincent van Gogh e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Vincent van Gogh e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análisis neurocientífico de la purificación emocional y el enfoque
+## 1. Análisis neurocientífico de la purificación emocional y el enfoque
 
 La reflexión epistolar que objetiva y registra las emociones a través de la escritura fortalece el control cognitivo prefrontal y regula la ansiedad excesiva en la amígdala. Traducir emociones a un lenguaje refinado suprime la excitación del sistema límbico de forma descendente (Top-down), mejorando la resolución metacognitiva para restaurar la claridad mental y la resiliencia.
 
 ---
 
-## Consejo de ciencia del comportamiento para una formación de hábitos exitosa
-
-No intente escribir minuciosamente sobre cada herida emocional del día en un diario extenso. Un breve ejercicio de 3 minutos anotando pistas emocionales para objetivarlas es suficiente. En lugar de confiar solo en la fuerza de voluntad, diseñar un entorno físico y señales de hábito que desencadenen la acción de forma natural es clave.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ No intente escribir minuciosamente sobre cada herida emocional del día en un di
   </p>
 </div>
 
+---
+
+## 3. Consejo de ciencia del comportamiento para una formación de hábitos exitosa
+
+No intente escribir minuciosamente sobre cada herida emocional del día en un diario extenso. Un breve ejercicio de 3 minutos anotando pistas emocionales para objetivarlas es suficiente. En lugar de confiar solo en la fuerza de voluntad, diseñar un entorno físico y señales de hábito que desencadenen la acción de forma natural es clave.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es necesario tener un destinatario imaginario como Theo para la carta?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ No intente escribir minuciosamente sobre cada herida emocional del día en un di
       Sí. Escribir como si se dirigiera a alguien que escuchará sin prejuicios, como un Theo imaginario, maximiza la verbalización honesta de las emociones y el efecto de desintoxicación cerebral.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo usar una aplicación de notas digitales en lugar de escribir a mano?</span>

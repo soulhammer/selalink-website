@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Dawn Ritual of Awakening Creativity: Toni Morrison's 5 AM Pre-Dawn Writing Preparation Routine"
 description: "Nobel laureate Toni Morrison reset her thoughts and entered writing focus by gazing at dawn light at 5 AM every morning. Discover her pre-dawn concentration secret and cognitive neuroscience value."
 pubDate: "2026-02-27"
@@ -38,14 +39,14 @@ She described this as 'watching the light arrive', confessing that this quiet wi
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding morrison-pre-dawn-coffee is based on <strong>Historical critical biographies and autobiographical records of Toni Morrison & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical critical biographies and autobiographical records of Toni Morrison & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Circadian Biological Clock Awakening and Retinal Photoreceptor Stimulation
+## 1. Circadian Biological Clock Awakening and Retinal Photoreceptor Stimulation
 
 Exposing the brain to harsh smartphone blue light immediately upon waking in a dark room triggers an abnormal cortisol spike, elevating anxiety levels.
 
@@ -53,9 +54,7 @@ Toni Morrison's dawn observation allows gradually brightening natural light to p
 
 ---
 
-## Do Not Touch Any Electronic Devices While Natural Light Touches Your Eyes
-
-The greatest destroyer of dawn routines is smartphone messaging and news notifications. During the 5 minutes spent gazing at dawn light, never turn on digital screens. Do not splash visual noise onto awakening retinal and brain cells; let the natural flow of sunlight enter your mind peacefully.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ The greatest destroyer of dawn routines is smartphone messaging and news notific
   </p>
 </div>
 
+---
+
+## 3. Do Not Touch Any Electronic Devices While Natural Light Touches Your Eyes
+
+The greatest destroyer of dawn routines is smartphone messaging and news notifications. During the 5 minutes spent gazing at dawn light, never turn on digital screens. Do not splash visual noise onto awakening retinal and brain cells; let the natural flow of sunlight enter your mind peacefully.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Sunrise time varies by season; should I adjust my wake-up time accordingly?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ The greatest destroyer of dawn routines is smartphone messaging and news notific
       You do not need to align strictly with exact sunrise moments. Experiencing the quiet, dim atmosphere right before daybreak regardless of season (typically around 5:00 AM to 6:00 AM) yields ample cognitive reset benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>I am not a morning person and feel exhausted waking up early; what should I do?</span>

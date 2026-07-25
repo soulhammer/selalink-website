@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Eliminierung von Entscheidungsmüdigkeit: Charles Schulz' einheitliche Mittagessen-Routine"
 description: "Charles Schulz legte Mahlzeiten und Arbeitsumgebung vollständig fest, um 50 Jahre lang ununterbrochen Peanuts-Comics zu zeichnen. Wir untersuchen sein automatisiertes Ritual, täglich denselben Hamburger zu essen, um kognitive Ermüdung im präfrontalen Kortex zu vermeiden."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir, wie Charles Schulz' Entscheidungsminimierung 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu schulz-routine-hamburger basiert auf <strong>Historische Biografien, autobiografische Aufzeichnungen zu Schulz' Hamburger-Routine & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien, autobiografische Aufzeichnungen zu Schulz' Hamburger-Routine & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Vermeidung von Ego-Depletion und Schonung präfrontaler Energie
+## 1. Vermeidung von Ego-Depletion und Schonung präfrontaler Energie
 
 Der präfrontale Kortex ist das Zentrum für Planung, Gefühlssteuerung und Entscheidungen. Neurowissenschaftliche Studien belegen, dass jede Entscheidung – selbst die Wahl des Mittagessens – Exekutivressourcen verbraucht, was als 'Entscheidungsmüdigkeit' oder 'Ego-Depletion' bezeichnet wird. Indem Sie alltägliche Optionen wie Kleidung und Essen wie Schulz im Voraus festlegen, verhindern Sie das Entweichen von Nervenenergie und bündeln Ihre kognitive Leistung für Hauptaufgaben.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Wenn Sie Routinen zu starr erzwingen und jegliche Abwechslung eliminieren, kann das Gehirn in Monotonie verfallen und kognitiv abstumpfen. Wenden Sie Entscheidungsautomatisierung daher strikt auf unwichtige Bereiche (Essen, Kleidung, Umgebung) an, während Sie bei kreativen Aufgaben, Hobbys und Freizeit Raum für spontane Entdeckungen lassen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Wenn Sie Routinen zu starr erzwingen und jegliche Abwechslung eliminieren, kann 
     Investieren Sie die durch das Einsparen alltäglicher Entscheidungen gewonnene Konzentration zuerst in die wichtigsten strategischen Planungs-, Entwicklungs- oder Schreibaufgaben.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Wenn Sie Routinen zu starr erzwingen und jegliche Abwechslung eliminieren, kann das Gehirn in Monotonie verfallen und kognitiv abstumpfen. Wenden Sie Entscheidungsautomatisierung daher strikt auf unwichtige Bereiche (Essen, Kleidung, Umgebung) an, während Sie bei kreativen Aufgaben, Hobbys und Freizeit Raum für spontane Entdeckungen lassen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

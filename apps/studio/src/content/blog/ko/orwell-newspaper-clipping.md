@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "매일 아침 뉴스를 가위로 자른 소설가? 조지 오웰의 지식 스키마 빌딩법"
 description: "소설가 조지 오웰은 매일 아침 여러 신문을 탐독하고 기사를 직접 가위로 잘라 스크랩북에 분류해 모았습니다. 정보를 유기적인 스키마로 구축하는 전두엽 강화 원리와 현대적 디지털 스크랩 루틴을 제안합니다."
 pubDate: "2026-03-13"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>조지 오웰 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 orwell-newspaper-clipping 루틴을 다룹니다.
+      본 콘텐츠는 <strong>조지 오웰 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 정보 부호화 및 스키마의 뇌 과학
+## 1. 정보 부호화 및 스키마의 뇌 과학
 
 수많은 디지털 기사를 단순히 눈으로만 훑고 지나가면 뇌의 일시 보관소인 단기 기억에 잠시 머물다 대부분 소멸합니다. 반면, 기사를 직접 선택하여 '잘라내고(물리적/디지털적 액션)' 범주화해 정리하는 행동은 뇌의 <strong>'깊은 부호화(Deep Encoding)'</strong> 처리를 유도합니다. 이러한 정보 구조화 작업은 정보를 대뇌 피질의 장기 저장소에 정착시킬 뿐 아니라, 기존 지식체계와 결합하는 <strong>'스키마(Schema) 네트워크'</strong>를 형성합니다. 스키마가 발달한 뇌는 새로운 정보를 접했을 때 맥락을 더 빠르게 파악하고 문제의 핵심을 짚어내며, 글쓰기나 의사결정을 할 때 필요한 배경지식을 최적의 속도로 인출(Recall)하는 높은 유동적 지능을 발휘하게 됩니다.
 
 ---
 
-## 맹목적인 수집 중독의 함정
-
-단순히 좋은 글이나 링크를 클릭 한 번으로 저장 폴더에 넣기만 하는 것은 뇌 과학적으로 지식을 소유했다고 착각하는 '수집가의 오류(Collector's Fallacy)'에 빠지게 만듭니다. 오직 직접 요약하거나 내 언어로 한 줄 평가를 덧붙여 뇌를 인지적으로 자극할 때에만 그 정보가 나만의 진짜 지식 스키마로 소화되어 활용될 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 맹목적인 수집 중독의 함정
+
+단순히 좋은 글이나 링크를 클릭 한 번으로 저장 폴더에 넣기만 하는 것은 뇌 과학적으로 지식을 소유했다고 착각하는 '수집가의 오류(Collector's Fallacy)'에 빠지게 만듭니다. 오직 직접 요약하거나 내 언어로 한 줄 평가를 덧붙여 뇌를 인지적으로 자극할 때에만 그 정보가 나만의 진짜 지식 스키마로 소화되어 활용될 수 있습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>조지 오웰의 스크랩북이 실제로 보관되어 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       네, 조지 오웰이 수집한 기사들과 가위로 자른 스크랩북의 사본 및 그의 작업 관련 메모들은 런던 유니버시티 칼리지(UCL)의 조지 오웰 아카이브에 역사적 귀중 사료로 보존되어 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>디지털로 이 스크랩 루틴을 수행하려면 어떤 앱을 추천하나요?</span>

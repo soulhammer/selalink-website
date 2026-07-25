@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Modular Thought: Vladimir Nabokov's Index Card Writing Method"
 description: "Author Vladimir Nabokov recorded novels in fragments on index cards and rearranged their sequence. Explores the cognitive science value of index-card planning, which blocks cognitive overload and flexibly combines creative ideas."
 pubDate: "2026-01-01"
@@ -38,22 +39,20 @@ In today's post, we examine how Vladimir Nabokov's index-card planning ritual li
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding nabokov-index-card is based on <strong>Nabokov Index Card historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Nabokov Index Card historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neural Mechanisms of Blocking Cognitive Load and Combinatorial Creativity
+## 1. Neural Mechanisms of Blocking Cognitive Load and Combinatorial Creativity
 
 When the brain perceives that it must produce an important and highly polished output, the amygdala triggers an unconscious alarm regarding potential failure, causing procrastination. By first engaging in low-stakes, trivial writing, feedback is sent to the brain that it is in an 'unevaluated, safe state,' calming amygdala hyperactivity. Simultaneously, Broca's area and the motor cortex are lightly activated, engaging the cognitive gears and drastically lowering the barrier of resistance when initiating the main task.
 
 ---
 
-## Cautions and Tips
-
-If you become overly absorbed in card writing and simply jot down ideas randomly without relevance, you will face a massive barrier of fragmentation when attempting to weave them together later. Therefore, each card must record only a single self-contained thought or episode, and you should periodically recall the overall architecture (e.g., full outline) to categorize cards into rough groupings.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ If you become overly absorbed in card writing and simply jot down ideas randomly
     Once the optimal sequence is established, lock the flow of cards and complete the document or proposal by fleshing out each card in order.
   </p>
 </div>
+
+---
+
+## 3. Cautions and Tips
+
+If you become overly absorbed in card writing and simply jot down ideas randomly without relevance, you will face a massive barrier of fragmentation when attempting to weave them together later. Therefore, each card must record only a single self-contained thought or episode, and you should periodically recall the overall architecture (e.g., full outline) to categorize cards into rough groupings.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

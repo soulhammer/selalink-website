@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Antusiasme Menjelang Fajar: Rutinitas Sarapan Keluarga Pukul 5 Pagi dan Jalan Kaki ala Chairman Ju-Yung Chung"
 description: "Pelajari bagaimana pendiri Hyundai Group Ju-Yung Chung bangun pukul 4 pagi setiap hari dan berbagi sarapan keluarga. Temukan prinsip neurosains dari aktivitas aerobik pagi dan ikatan emosional yang menstabilkan kortisol dan meningkatkan vitalitas."
 pubDate: "2026-06-12"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'bangu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai chung-dawn-breakfast didasarkan pada <strong>Verifikasi Historis dari Autobiografi Ju-Yung Chung *Born of this Land: My Life Story* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Ju-Yung Chung *Born of this Land: My Life Story* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurofisiologi Sinar Matahari Pagi dan Jalan Kaki yang Dikombinasikan dengan Regulasi Emosional Sosial
+## 1. Neurofisiologi Sinar Matahari Pagi dan Jalan Kaki yang Dikombinasikan dengan Regulasi Emosional Sosial
 
 Bangun pada jam pagi yang konsisten dan berjalan di luar ruangan di bawah sinar matahari merangsang ipRGCs retina, menekan sekresi melatonin sekaligus menormalisasi kadar serotonin dan kortisol pagi yang sehat untuk membersihkan inersia tidur. Secara bersamaan, 15 hingga 30 menit jalan kaki aerobik ringan meningkatkan aliran darah otak, secara instan mengaktifkan fungsi eksekutif prefrontal. Lebih jauh lagi, berbagi sarapan keluarga yang hangat melibatkan regulasi emosional sosial, memicu pelepasan oksitosin dan menyeimbangkan sistem saraf otonom.
 
 ---
 
-## Perhatian & Tip: Menghindari Bangun Pagi Secara Obsesif Tanpa Memastikan Durasi Tidur
-
-Bangun pagi secara obsesif tidak menjamin kinerja. Memaksa waktu bangun yang awal tanpa memastikan 7 hingga 8 jam tidur menyebabkan kelelahan sistem saraf pusat dan penurunan fungsi eksekutif. Sebelum memajukan alarm bangun Anda, kontrol jadwal tidur malam Anda secara ketat untuk memastikan jam tidur yang cukup terlebih dahulu.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Bangun pagi secara obsesif tidak menjamin kinerja. Memaksa waktu bangun yang awa
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menghindari Bangun Pagi Secara Obsesif Tanpa Memastikan Durasi Tidur
+
+Bangun pagi secara obsesif tidak menjamin kinerja. Memaksa waktu bangun yang awal tanpa memastikan 7 hingga 8 jam tidur menyebabkan kelelahan sistem saraf pusat dan penurunan fungsi eksekutif. Sebelum memajukan alarm bangun Anda, kontrol jadwal tidur malam Anda secara ketat untuk memastikan jam tidur yang cukup terlebih dahulu.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah tipe orang malam (night owl) harus secara ketat bangun pukul 4 pagi atau 5 pagi seperti Chairman Chung?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Bangun pagi secara obsesif tidak menjamin kinerja. Memaksa waktu bangun yang awa
       Tidak. Mekanisme intinya bukanlah angka mutlak 'pukul 4 pagi', melainkan menerapkan urutan 3 langkah—memblokir kelebihan beban digital saat bangun, terlibat dalam interaksi pagi yang positif, dan berjalan di bawah sinar matahari—secara konsisten sesuai dengan jadwal bangun Anda sendiri (misalnya, pukul 06.00 atau 07.00).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mengadaptasi rutinitas ini jika saya tinggal sendiri dan tidak memiliki keluarga untuk berbagi sarapan?</span>

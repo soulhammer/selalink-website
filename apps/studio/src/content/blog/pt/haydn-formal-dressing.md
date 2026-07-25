@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Compor de Terno Formal em Casa?: A Rotina de 'Cognição do Vestuário' e o Interruptor de Foco do Pai da Sinfonia Joseph Haydn"
 description: "Descubra por que o compositor Joseph Haydn vestia terno formal e peruca antes de compor. Explore como as roupas melhoram a produtividade por meio da ciência da 'Cognição do Vestuário' (Enclothed Cognition) e da Cognição Incorporada."
 pubDate: "2026-04-04"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência da 'Cognição do Vestuário' por trás
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre haydn-formal-dressing é baseada em <strong>Verificação Histórica das Biografias de Joseph Haydn (Dies & Griesinger), Arquivos do Palácio de Esterházy e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica das Biografias de Joseph Haydn (Dies & Griesinger), Arquivos do Palácio de Esterházy e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognição Incorporada e a Ciência Cerebral da 'Cognição do Vestuário' (Enclothed Cognition)
+## 1. Cognição Incorporada e a Ciência Cerebral da 'Cognição do Vestuário' (Enclothed Cognition)
 
 Segundo a teoria da <strong>Cognição Incorporada (Embodied Cognition)</strong> na psicologia cognitiva, o pensamento abstrato e as funções executivas pré-frontais estão conectados ao estado físico do corpo, incluindo as roupas. O fenômeno da <strong>'Cognição do Vestuário' (Enclothed Cognition)</strong> demonstra que vestir roupas com significado simbólico e formal melhora a atenção seletiva e reduz erros. Ao vestir-se formalmente, Haydn enviava um sinal de ancoragem ao cérebro: 'É hora de ativar a máxima criatividade'.
 
 ---
 
-## Precaução: Protocolo para Separar o Modo de Descanso do Modo de Foco
-
-Para Joseph Haydn, vestir trajes formais era um ato de respeito artístico e um interruptor de foco. Trabalhar em casa de pijama ou roupas folgadas engana o cérebro, fazendo-o assumir um 'estado de descanso' e reduzindo o alerta pré-frontal. O segredo é trocar para roupas de trabalho alinhadas para ativar as funções executivas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para Joseph Haydn, vestir trajes formais era um ato de respeito artístico e um 
   </p>
 </div>
 
+---
+
+## 3. Precaução: Protocolo para Separar o Modo de Descanso do Modo de Foco
+
+Para Joseph Haydn, vestir trajes formais era um ato de respeito artístico e um interruptor de foco. Trabalhar em casa de pijama ou roupas folgadas engana o cérebro, fazendo-o assumir um 'estado de descanso' e reduzindo o alerta pré-frontal. O segredo é trocar para roupas de trabalho alinhadas para ativar as funções executivas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Joseph Haydn realmente se vestia com trajes formais mesmo ao compor sozinho em casa?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para Joseph Haydn, vestir trajes formais era um ato de respeito artístico e um 
       Sim, com certeza. Biografias históricas confirmam que Haydn se recusava a sentar ao piano sem vestir trajes de corte, peruca e anel. Ele sustentava que roupas desleixadas geravam ideias caóticas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>A roupa para trabalho em casa precisa ser um terno rígido ou roupas casuais arrumadas funcionam?</span>

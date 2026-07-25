@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Método de Banho de Pés com Água Fria de Thomas Jefferson: Uma Rotina de Despertar Cerebral de 60 Anos e Regulação de Noradrenalina"
 description: "Descubra como Thomas Jefferson, autor principal da Declaração de Independência, despertou seu cérebro por 60 anos mergulhando os pés em água fria todas as manhãs. Explore a neurociência da estimulação do sistema nervioso autônomo, noradrenalina e clareza pré-frontal."
 pubDate: "2026-04-17"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre jefferson-cold-foot-bath é baseada em <strong>Verificação Histórica de *Os Escritos de Thomas Jefferson*, Arquivos de Monticello e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica de *Os Escritos de Thomas Jefferson*, Arquivos de Monticello e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação do Sistema Nervoso Autônomo e Despertar Cerebral por Noradrenalina
+## 1. Estimulação do Sistema Nervoso Autônomo e Despertar Cerebral por Noradrenalina
 
 A exposição ao frio nos nervos periféricos dos pés estimula o <strong>Sistema Nervoso Autônomo</strong>, levando o locus coeruleus a liberar <strong>noradrenalina</strong>. Esse neurotransmissor eleva o alerta cerebral, eliminando a <strong>névoa mental (Brain Fog)</strong> matinal e restaurando a concentração no <strong>Córtex Pré-frontal</strong>.
 
 ---
 
-## Precaução: Protocolo para Evitar Alterações Bruscas de Pressão Arterial
-
-Um estresse de frio extremo e repentino pode sobrecarregar o sistema cardiovascular ou elevar a pressão arterial. Se você tem hipertensão ou problemas cardiovasculares, comece com água fresca em vez de gelada, e limite a imersão a 2 ou 3 minutos para um despertar seguro.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Um estresse de frio extremo e repentino pode sobrecarregar o sistema cardiovascu
   </p>
 </div>
 
+---
+
+## 3. Precaução: Protocolo para Evitar Alterações Bruscas de Pressão Arterial
+
+Um estresse de frio extremo e repentino pode sobrecarregar o sistema cardiovascular ou elevar a pressão arterial. Se você tem hipertensão ou problemas cardiovasculares, comece com água fresca em vez de gelada, e limite a imersão a 2 ou 3 minutos para um despertar seguro.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Thomas Jefferson realmente praticava esse banho de pés em água fria todas as manhãs?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Um estresse de frio extremo e repentino pode sobrecarregar o sistema cardiovascu
       Sim, com certeza! Em uma carta de março de 1819 ao Dr. Vine Utley, Jefferson escreveu explicitamente que banhava os pés em água fria todas as manhãs há 60 anos, atribuindo sua saúde a esse hábito.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Uma ducha fria de corpo inteiro é mais eficaz do que um banho de pés em água fria?</span>

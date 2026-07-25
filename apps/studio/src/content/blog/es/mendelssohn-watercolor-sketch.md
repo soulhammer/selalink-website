@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Melodías moldeadas en color? La rutina matutina de acuarelas de Felix Mendelssohn"
 description: "El genial compositor Felix Mendelssohn despertaba su inspiración musical cada mañana pintando acuarelas del paisaje. Descubra la estimulación cruzada neurocientífica entre el arte y la música."
 pubDate: "2026-01-20"
@@ -38,14 +39,14 @@ En este artículo, exploramos la ciencia cognitiva de la alternancia sensorial y
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mendelssohn-watercolor-sketch se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Felix Mendelssohn e investigación en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Felix Mendelssohn e investigación en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El efecto de 'asociación intermodal' que abarca todos los sentidos
+## 1. El efecto de 'asociación intermodal' que abarca todos los sentidos
 
 Al pintar, el cerebro involucra intensamente la corteza visual y las regiones de cognición espacial para percibir las formas con precisión. Según la investigación en neurociencia cognitiva, el fenómeno por el cual la activación de un dominio sensorial mejora la creatividad en otro se conoce como <strong>'asociación intermodal' (Cross-modal Association)</strong>.
 
@@ -53,9 +54,7 @@ Mientras Felix Mendelssohn observaba los paisajes cada mañana y plasmaba color 
 
 ---
 
-## Mejorar la habilidad no es el objetivo; la relajación simple y el refresco sensorial son lo más importante
-
-La razón para hacer bocetos no es convertirse en un artista profesional. Es darle un descanso al lóbulo frontal cansado del texto, los números y la lógica, e ir restaurando con flexibilidad las conexiones entre redes sensoriales a través de un movimiento artístico no verbal y visuotáctil. No se preocupe si las líneas salen chuecas; concéntrese únicamente en la experiencia sensorial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ La razón para hacer bocetos no es convertirse en un artista profesional. Es dar
   </p>
 </div>
 
+---
+
+## 3. Mejorar la habilidad no es el objetivo; la relajación simple y el refresco sensorial son lo más importante
+
+La razón para hacer bocetos no es convertirse en un artista profesional. Es darle un descanso al lóbulo frontal cansado del texto, los números y la lógica, e ir restaurando con flexibilidad las conexiones entre redes sensoriales a través de un movimiento artístico no verbal y visuotáctil. No se preocupe si las líneas salen chuecas; concéntrese únicamente en la experiencia sensorial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Puede beneficiarse del boceto matutino alguien que no sabe dibujar en absoluto?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ La razón para hacer bocetos no es convertirse en un artista profesional. Es dar
       Por supuesto. El objetivo no es exhibir destreza artística, sino enviar señales de observación visual y coordinación motora de la mano al cerebro. Incluso si la composición es imperfecta o las líneas son torpes, el estímulo de las áreas cerebrales intermodales y el efecto de relajación ocurren exactamente igual.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es suficiente el dibujo a lápiz o bolígrafo para la estimulación intermodal en lugar de la acuarela?</span>

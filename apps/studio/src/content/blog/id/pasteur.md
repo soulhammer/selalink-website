@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Loop Umpan Balik Pasteur: Pelacakan Real-Time Perubahan Mikroskopis pada Biakan Labu"
 description: "Pelajari rutinitas Louis Pasteur, bapak pasteurisasi dan vaksin, yang menjaga kerapian meja secara teliti untuk mengeliminasi gangguan sekecil apa pun."
 pubDate: "2026-05-03"
@@ -33,25 +34,23 @@ Dalam postingan ini, kita akan menjelajahi prinsip kognitif di balik rutinitas P
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai pasteur didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Pasteur & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Pasteur & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analisis Prinsip Neurosains di Balik Keberhasilan
+## 1. Analisis Prinsip Neurosains di Balik Keberhasilan
 
 Merumuskan hipotesis dan mencatat perubahan halus secara real-time memperkuat koneksi saraf antara korteks prefrontal lateral dan korteks asosiasi visual, meningkatkan wawasan analitis.
 
 ---
 
-## Saran Sains Perilaku untuk Mengunci Kebiasaan
-
-Jangan memaksakan diri demi kesempurnaan. Berlatih dengan nyaman selama 3 menit sehari membangun jalur saraf secara bertahap. Desain lingkungan sekitar untuk memicu tindakan secara alami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Jangan memaksakan diri demi kesempurnaan. Berlatih dengan nyaman selama 3 menit 
   </p>
 </div>
 
+---
+
+## 3. Saran Sains Perilaku untuk Mengunci Kebiasaan
+
+Jangan memaksakan diri demi kesempurnaan. Berlatih dengan nyaman selama 3 menit sehari membangun jalur saraf secara bertahap. Desain lingkungan sekitar untuk memicu tindakan secara alami.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya harus melakukan ritual kerapian ini setiap hari sebelum bekerja?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Jangan memaksakan diri demi kesempurnaan. Berlatih dengan nyaman selama 3 menit 
       Ya, membersihkan lensa atau merapikan meja sebelum mulai memberikan sinyal keteraturan kognitif pada otak untuk memaksimalkan fokus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara menggantinya jika saya tidak memiliki mikroskop atau kain mikrofiber?</span>

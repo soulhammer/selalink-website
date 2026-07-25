@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Elon Musk's '5-Minute Time Blocking': Micro-Planning and High-Density Focus Routine"
 description: "Discover how Elon Musk handles 80-100 hour workweeks by fragmenting his schedule into 5-minute micro-blocks. Explore the cognitive neuroscience of time scarcity, Parkinson's Law, and tunneling focus."
 pubDate: "2026-06-15"
@@ -38,22 +39,20 @@ In today's post, we dissect the brain science underlying Elon Musk's '5-minute t
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding elon-musk-time-blocking is based on <strong>Historical Verification from Walter Isaacson's Biography *Elon Musk* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Walter Isaacson's Biography *Elon Musk* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Parkinson's Law and the Brain's Hyper-Focus Tunneling Mechanism
+## 1. Parkinson's Law and the Brain's Hyper-Focus Tunneling Mechanism
 
 According to Parkinson's Law, work expands to fill the time allotted for its completion. When generous time limits are set, cognitive intensity relaxes, leading to inefficiency. Conversely, constraining time into tight micro-windows forces the brain to perceive a state of mild scarcity, triggering dopamine and epinephrine release that induces a 'Tunneling Effect'—blocking peripheral distractions. Elon Musk's 5-minute time blocking keeps the prefrontal cortex anchored to immediate micro-deadlines, driving intense flow state execution. By eliminating multitasking residue and handling one objective at a time, this method mitigates Decision Fatigue and maximizes cognitive output per minute.
 
 ---
 
-## Strict Single-Task Focus and Punctual Transitions Are Mandatory
-
-This routine is fundamentally different from merely keeping busy all day. For this method to work, you must block cognitive scatter—refraining from opening new browser tabs or checking notifications—and focus exclusively on the single assigned task during each block. Once the block time expires, move promptly to the next scheduled block without hesitation to preserve time density.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ This routine is fundamentally different from merely keeping busy all day. For th
   </p>
 </div>
 
+---
+
+## 3. Strict Single-Task Focus and Punctual Transitions Are Mandatory
+
+This routine is fundamentally different from merely keeping busy all day. For this method to work, you must block cognitive scatter—refraining from opening new browser tabs or checking notifications—and focus exclusively on the single assigned task during each block. Once the block time expires, move promptly to the next scheduled block without hesitation to preserve time density.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does scheduling in 5-minute blocks cause severe stress or burnout for beginners?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ This routine is fundamentally different from merely keeping busy all day. For th
       For beginners, attempting to block an entire day into 5-minute increments will indeed trigger cognitive overload. Start small: designate a 1-to-2-hour 'focus block' during your day, subdividing it into 15 or 30-minute micro-slots to build your focus capacity before gradually tightening the timeframes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What should I do if a task is not completed within its designated time block?</span>

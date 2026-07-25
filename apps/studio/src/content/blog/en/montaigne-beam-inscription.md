@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Montaigne's Ceiling Inscription Method: Shaking Bias and Triggering Metacognition with Visual Priming"
 description: "Explore how French philosopher Michel de Montaigne carved 57 ancient philosophical maxims into the wooden beams of his tower library, using visual priming to shatter dogmatism and expand creative perspective."
 pubDate: "2026-03-10"
@@ -36,22 +37,20 @@ In this post, we examine the visual priming mechanisms of Montaigne's beam inscr
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding montaigne-beam-inscription is based on <strong>Montaigne Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Montaigne Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Neuroscientific Principle of Ceiling Text Triggering Metacognition
+## 1. The Neuroscientific Principle of Ceiling Text Triggering Metacognition
 
 Gazing intentionally at positioned visual maxims aligns with the psychological theory of 'Visual Priming.' The cerebral cortex unconsciously processes incoming text, expanding associative neural networks and retrieving relevant long-term memories. Furthermore, tilting the chin upward to look at ceiling inscriptions involves vertical eye movement and upward gaze, which physically stimulates the prefrontal cortex—the hub of metacognition. This expands narrow task focus, encouraging high-level self-reflection to verify whether one's logic holds true.
 
 ---
 
-## Preventing Visual Habituation (Desensitization)
-
-No matter how inspiring a quote is, leaving it unchanged on a monitor frame or wall causes the brain to classify it as background noise and filter it out. To prevent visual habituation, refresh sticky note colors, relocate quotes, or swap in new maxims every few months. Sustaining novelty is essential to continuously trigger the metacognitive reflex.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ No matter how inspiring a quote is, leaving it unchanged on a monitor frame or w
     When stuck in thinking or doubting a premise, tilt your head up and read the text silently for 15 seconds. Reorienting your gaze upward prompts the prefrontal cortex to activate metacognitive perspective.
   </p>
 </div>
+
+---
+
+## 3. Preventing Visual Habituation (Desensitization)
+
+No matter how inspiring a quote is, leaving it unchanged on a monitor frame or wall causes the brain to classify it as background noise and filter it out. To prevent visual habituation, refresh sticky note colors, relocate quotes, or swap in new maxims every few months. Sustaining novelty is essential to continuously trigger the metacognitive reflex.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

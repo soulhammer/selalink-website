@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sitting on Rocks Beside Chimpanzees to Observe and Record: Jane Goodall's Immersion Habit and Selective Attention Routine"
 description: "Discover how ethologist Jane Goodall derived ground-breaking scientific insights by silently observing chimpanzees in Tanzania's Gombe jungle. Explore the neuroscience of sensory association cortex activation, selective attention, and non-judgmental observation routines."
 pubDate: "2026-05-09"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience behind Jane Goodall's 'no
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding jane-goodall is based on <strong>Historical Verification from Jane Goodall's Autobiography *Reason for Hope*, Gombe Stream Research Centre Archives & Cognitive Neuroscience and Ethology Research</strong>.
+      This content is based on <strong>Historical Verification from Jane Goodall's Autobiography *Reason for Hope*, Gombe Stream Research Centre Archives & Cognitive Neuroscience and Ethology Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulating Sensory Association Cortex and Selective Attention
+## 1. Stimulating Sensory Association Cortex and Selective Attention
 
 Training your focus to silently observe an external subject over extended periods without intervention strongly activates the <strong>Sensory Association Cortex</strong> and top-down <strong>Selective Attention</strong> networks. Structuring micro-sensory inputs into analog notes or drawings heightens sensory resolution, suppressing ambient background noise. This neural refinement conditions the brain's <strong>Insightful Perceptual Ability</strong>, allowing you to proactively detect subtle behavioral clues or hidden market trends overlooked by others.
 
 ---
 
-## Caution: Excluding Subjective Judgment to Focus Strictly on Objective Sensory Data
-
-Do not rush to evaluate, label, or logically categorize the observed target. The core requirement is setting aside subjective interpretations or biases, absorbing raw physical depth, light contrast, and textures directly into sensory pathways to cleanse perceptual receptors.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Do not rush to evaluate, label, or logically categorize the observed target. The
   </p>
 </div>
 
+---
+
+## 3. Caution: Excluding Subjective Judgment to Focus Strictly on Objective Sensory Data
+
+Do not rush to evaluate, label, or logically categorize the observed target. The core requirement is setting aside subjective interpretations or biases, absorbing raw physical depth, light contrast, and textures directly into sensory pathways to cleanse perceptual receptors.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can I replace direct naked-eye observation by taking a smartphone photo to analyze later?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Do not rush to evaluate, label, or logically categorize the observed target. The
       No. Digital screen images are flattened 2D pixel grids that fail to engage the brain's 3D depth perception neural networks. You must decode the physical depth, light gradient, and micro-texture of real-world objects with your naked eye to trigger sensory neuroplasticity.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Must I observe strictly static objects, or can I observe moving subjects?</span>

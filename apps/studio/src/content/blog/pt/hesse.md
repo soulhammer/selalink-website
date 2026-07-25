@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Cultivando a Terra e Arrancando Ervas Daninhas em um Jardim Rural: O Método de Contemplação da Natureza e Rotina de Relajación DMN de Hermann Hesse"
 description: "Descubra como o Nobel e escritor pacifista Hermann Hesse lidava com o esgotamento nervoso e a ansiedade profunda tocando a terra do jardim e podando galhos diariamente. Examine a neurociência de sua rotina de jardineiro."
 pubDate: "2026-02-16"
@@ -35,25 +36,23 @@ No artigo de hoje, desbravamos a neurociência cognitiva por trás da rotina de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre hesse é baseada em <strong>Verificação Histórica do ensaio de Hermann Hesse *A Alegria da Jardinagem (Freude am Garten)* e Correspondências, junto com pesquisa em Neurociência Cognitiva e Psicologia Ambiental</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica do ensaio de Hermann Hesse *A Alegria da Jardinagem (Freude am Garten)* e Correspondências, junto com pesquisa em Neurociência Cognitiva e Psicologia Ambiental</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Inibição da Hiperativação da Rede de Modo Padrão (DMN) e Relaxamento do Sistema Nervoso
+## 1. Inibição da Hiperativação da Rede de Modo Padrão (DMN) e Relaxamento do Sistema Nervoso
 
 Realizar trabalho físico simples com foco na terra, floresta e estímulos sensoriais suprime a hiperativação da <strong>Rede de Modo Padrão (DMN)</strong>, que impulsiona a ruminação mental. Essa mudança fisiológica provoca uma queda drástica no hormônio do estresse <strong>cortisol</strong> e ativa o <strong>Sistema Nervoso Parassimpático</strong>, purgando a ansiedade crônica e a fadiga pré-frontal, induzindo profunda serenidade.
 
 ---
 
-## Precaução: Bloquear a Ruminação de Trabalho e Imergir Exclusivamente em Estímulos Sensoriais Analógicos
-
-Ao caminhar ou cuidar de um jardim, evite carregar preocupações de trabalho. Por 10 a 15 minutos, concentre sua consciência exclusivamente em receber entradas sensoriais analógicas externas — o tato da terra, o vento e o aroma das folhas —, permitindo que seu cérebro alcance recuperação cognitiva completa.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ao caminhar ou cuidar de um jardim, evite carregar preocupações de trabalho. P
   </p>
 </div>
 
+---
+
+## 3. Precaução: Bloquear a Ruminação de Trabalho e Imergir Exclusivamente em Estímulos Sensoriais Analógicos
+
+Ao caminhar ou cuidar de um jardim, evite carregar preocupações de trabalho. Por 10 a 15 minutos, concentre sua consciência exclusivamente em receber entradas sensoriais analógicas externas — o tato da terra, o vento e o aroma das folhas —, permitindo que seu cérebro alcance recuperação cognitiva completa.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Devo realizar trabalho físico como capinar e serrar madeira tocando realmente a terra?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ao caminhar ou cuidar de um jardim, evite carregar preocupações de trabalho. P
       A atividade física como tocar a terra e capinar atua como um sinal perfeito para permitir que seu córtex pré-frontal descanse da 'atenção dirigida'. No entanto, se não tiver um jardim, caminhar por uma trilha florestal e ouvir o vento oferece idênticos benefícios de relaxamento neurológico.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como posso substituir isso se eu morar em um apartamento ou área urbana sem jardim ou terra?</span>

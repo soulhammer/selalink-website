@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "うつ病を治療するハサミ使い？アンデルセンの切り絵（ペーパーカッティング）ルーティン"
 description: "世界的な童話作家ハンス・クリスチャン・アンデルセン。一生涯のうつ病と心理的欠乏の中でも美しい想像力を開花させた秘訣である「切り絵（Paper Cutting）」の精神医学的治療原理と3ステップガイドをご提案します。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「andersen-paper-cutting」は <strong>デンマーク・オーデンセのアンデルセン博物館（Hans Christian Andersen Museum）紙アーカイブの考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>デンマーク・オーデンセのアンデルセン博物館（Hans Christian Andersen Museum）紙アーカイブの考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 精巧な手作業によるデフォルト・モード・ネットワーク（DMN）の安定
+## 1. 精巧な手作業によるデフォルト・モード・ネットワーク（DMN）の安定
 
 脳が特別なタスクを実行せずに休んでいる時に作動する<strong>「デフォルト・モード・ネットワーク（Default Mode Network, DMN）」</strong>は、現代人にとって過去の后悔や未来の不安といった不必要な過剰思考（Overthinking）を増幅させる原因となります。作業療法および神経科学の研究によると、指先を繊細にコントロールするハサミ使いやドローイングのような<strong>「精巧な手作業」</strong>は、脳の運動皮質を広くウォーミングアップさせると同時に、オーバーロードされたDMNの異常な活性化を即座に遮断（Deactivation）します。目の前の紙を折り、サクサクと切り抜く単純で対称的な触覚刺激は過剰思考を止め、脳に深い認知的休息を提供します。
 
 ---
 
-## 完璧なデザイン設計ではなく、指先の軌跡と切る音に集中してください
-
-ハサミ使いルーティンによる脳の休息効果を享受するためには、素晴らしい成果物を作らなければならないという強迫観念を捨てなければなりません。「綺麗な模様を完成させよう」と頭でデザインを設計し始めると、前頭葉の企画および制御領域がオーバーヒートし、DMN遮断効果を得にくくなります。アンデルセンが目を閉じて手が動くままにサクサクと切り抜いたように、ハサミが紙を切る際に出るサクサクという摩擦音と指先のアナログな振動だけに全注意を委ねることがリラックスへの第一歩です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 完璧なデザイン設計ではなく、指先の軌跡と切る音に集中してください
+
+ハサミ使いルーティンによる脳の休息効果を享受するためには、素晴らしい成果物を作らなければならないという強迫観念を捨てなければなりません。「綺麗な模様を完成させよう」と頭でデザインを設計し始めると、前頭葉の企画および制御領域がオーバーヒートし、DMN遮断効果を得にくくなります。アンデルセンが目を閉じて手が動くままにサクサクと切り抜いたように、ハサミが紙を切る際に出るサクサクという摩擦音と指先のアナログな振動だけに全注意を委ねることがリラックスへの第一歩です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>芸術的センスがなく、ハサミ切りが苦手なのですが大丈夫ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       もちろんです。むしろ図案なしで無造作に切り抜く行為の方が、DMNを下げるのに効果的です。完成した模様がおかしかろうが歪んでいようが、脳は全く気にしません。重要なのは形態の精密さではなく、指先の筋肉の繊細な動きと聴覚刺激そのものです。失敗のない価値評価から解放された創作活動ですので、気楽にハサミ切りを楽しんでください。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>切った後にゴミが出ますが、片付けによってリラックスが妨げられませんか？</span>

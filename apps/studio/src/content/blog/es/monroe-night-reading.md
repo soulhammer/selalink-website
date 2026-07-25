@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El alma tras el maquillaje: El hábito de lectura y reflexión nocturna de Marilyn Monroe"
 description: "Detrás de su faceta pública como símbolo sexual, Marilyn Monroe era una ávida lectora con una biblioteca personal de más de 400 libros. Descubra cómo la lectura nocturna y el diario redujeron el estrés y preservaron su identidad."
 pubDate: "2026-03-14"
@@ -38,22 +39,20 @@ En la entrada de hoy, analizamos los principios neurocientíficos de relajación
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre monroe-night-reading se basa en <strong>Biografías históricas y registros autobiográficos de Marilyn Monroe e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Marilyn Monroe e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relajación del sistema nervioso autónomo y consolidación de la memoria hipocampal mediante la lectura literaria
+## 1. Relajación del sistema nervioso autónomo y consolidación de la memoria hipocampal mediante la lectura literaria
 
 Cuando el cerebro se expone prolongadamente a evaluaciones externas y al estrés de la sobreexposición, el hiperactivado sistema nervioso simpático provoca fatiga crónica y trastornos del sueño. Según estudios cognitivos británicos, leer obras literarias en silencio durante solo 6 minutos reduce la tensión muscular y disminuye la frecuencia cardíaca, reduciendo los niveles de estrés hasta un 68%. Al sumergirse en narrativas clásicas, el cerebro se desentiende de su propio ego y alcanza un estado reparador mediante la empatía narrativa. Además, llevar un diario tras la lectura estimula al hipocampo en la corteza cerebral a consolidar recuerdos estresantes pacíficamente, optimizando la depuración cerebral durante el sueño.
 
 ---
 
-## Precauciones y consejos prácticos
-
-La conducta más importante que se debe evitar durante la lectura reflexiva nocturna es leer bajo luz fluorescente brillante o mirar pantallas de teléfonos inteligentes. La luz azul artificial intensa bloquea la secreción de melatonina, la hormona que induce el sueño, empeorando el insomnio. Por lo tanto, al leer de noche, utilice únicamente una sola lámpara indirecta con luz cálida de tono amarillo, manteniendo el control ambiental para que su cerebro ingrese de forma segura al modo de descanso.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La conducta más importante que se debe evitar durante la lectura reflexiva noct
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos prácticos
+
+La conducta más importante que se debe evitar durante la lectura reflexiva nocturna es leer bajo luz fluorescente brillante o mirar pantallas de teléfonos inteligentes. La luz azul artificial intensa bloquea la secreción de melatonina, la hormona que induce el sueño, empeorando el insomnio. Por lo tanto, al leer de noche, utilice únicamente una sola lámpara indirecta con luz cálida de tono amarillo, manteniendo el control ambiental para que su cerebro ingrese de forma segura al modo de descanso.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Leer antes de acostarse estimula el cerebro e interfiere con el sueño?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La conducta más importante que se debe evitar durante la lectura reflexiva noct
       Leer libros de papel en lugar de teléfonos inteligentes con luz azul —especialmente obras de humanidades, poesía o ensayos serenos bajo luz indirecta tenue— induce ondas cerebrales alfa que promueven un sueño profundo.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo registrar pasajes favoritos durante la lectura nocturna sin interrumpir el sueño?</span>

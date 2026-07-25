@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Suara yang Bergema di Ruangan: Rutinitas Membaca Nyaring Sambil Berjalan dan Pendiktean ala Fyodor Dostoevsky"
 description: "Pelajari bagaimana Fyodor Dostoevsky, penulis 'Crime and Punishment', berjalan menyusuri ruangannya sambil memerankan dialog sebelum mendiktekannya. Temukan neurosains kognitif tentang stimulasi korteks motorik, area Broca dan Wernicke, serta neuron cermin."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ Menurut memoar istri dan juru ketiknya, Anna Grigoryevna, Dostoevsky tidak perna
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai dostoevsky-pacing-recitation didasarkan pada <strong>Verifikasi Historis dari Memoar Anna Dostoevskaya *Reminiscences* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Memoar Anna Dostoevskaya *Reminiscences* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurosains Penggabungan Jalan Kaki dan Pembacaan Nyaring untuk Mengaktifkan Jaringan Bicara dan Neuron Cermin
+## 1. Neurosains Penggabungan Jalan Kaki dan Pembacaan Nyaring untuk Mengaktifkan Jaringan Bicara dan Neuron Cermin
 
 Berjalan kaki menyusuri ruangan merangsang korteks motorik, meningkatkan aliran darah otak dan oksigenasi ke jaringan prefrontal. Secara bersamaan, pembacaan nyaring (Kognisi Oral) membangun Loop Umpan Balik Auditorik-Motorik yang ketat, mengaktifkan area Broca (produksi bicara) dan area Wernicke (pemahaman bahasa). Lebih jauh lagi, memerankan karakter secara fisik merekrut sistem Neuron Cermin otak.
 
 ---
 
-## Perhatian & Tip: Memastikan Ruang Pribadi yang Aman & Mencegah Gangguan Evaluasi Sosial
-
-Karena pembacaan nyaring melibatkan vokalisasi, mempraktikkannya di kantor terbuka atau ruang publik memicu Kecemasan Evaluasi Sosial, mendorong stimulasi amigdala dan mengganggu alur kognitif secara parah. Untuk mendapatkan manfaat penuh, jalankan rutinitas ini secara ketat di dalam ruang pribadi yang aman—seperti ruang kerja pribadi, kantor tertutup, atau kendaraan pribadi.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Karena pembacaan nyaring melibatkan vokalisasi, mempraktikkannya di kantor terbu
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Memastikan Ruang Pribadi yang Aman & Mencegah Gangguan Evaluasi Sosial
+
+Karena pembacaan nyaring melibatkan vokalisasi, mempraktikkannya di kantor terbuka atau ruang publik memicu Kecemasan Evaluasi Sosial, mendorong stimulasi amigdala dan mengganggu alur kognitif secara parah. Untuk mendapatkan manfaat penuh, jalankan rutinitas ini secara ketat di dalam ruang pribadi yang aman—seperti ruang kerja pribadi, kantor tertutup, atau kendaraan pribadi.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah berbisik atau membaca dalam hati memberikan manfaat kognitif yang sama seperti berbicara nyaring?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Karena pembacaan nyaring melibatkan vokalisasi, mempraktikkannya di kantor terbu
       Tidak. Berbisik atau subvokalisasi hening gagal melibatkan otot motorik artikulasi secara penuh dan menghasilkan umpan balik pendengaran yang tidak cukup. Anda harus mengartikulasikan dengan jelas sehingga suara Anda merambat melalui udara dan kembali melalui telinga, menyempurnakan Loop Umpan Balik Auditorik-Motorik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah efektif untuk merekam pemikiran lisan menggunakan memo suara smartphone atau aplikasi Speech-to-Text (STT) saat berjalan?</span>

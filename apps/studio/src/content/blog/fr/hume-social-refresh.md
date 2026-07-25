@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'antidote à la spéculation solitaire : La routine de socialisation et de jacquet du soir de David Hume pour la relaxation émotionnelle"
 description: "Découvrez comment le philosophe écossais David Hume combattait la mélancolie intellectuelle en dînant avec des amis et en jouant au backgammon chaque soir. Explorez la neuroscience de l'oxytocine, de la sérotonine et de la prévention de la surcharge cognitive."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant hume-social-refresh est basée sur <strong>Vérification Historique issue du *Traité de la nature humaine* (1739) et de l'autobiographie *Ma vie* de David Hume & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue du *Traité de la nature humaine* (1739) et de l'autobiographie *Ma vie* de David Hume & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sécrétion d'oxytocine et de sérotonine : Soulagement de la surcharge cognitive préfrontale
+## 1. Sécrétion d'oxytocine et de sérotonine : Soulagement de la surcharge cognitive préfrontale
 
 Poursuivre la résolution de problèmes le soir après avoir épuisé les ressources du <strong>Cortex Préfrontal</strong> maintient le système nerveux sous tension. Des échanges sociaux agréables au dîner stimulent la libération de <strong>sérotonine</strong> et d'<strong>oxytocine</strong>, apaisant les réactions d'alerte de l'<strong>amygdale</strong>. De plus, les jeux de société comme les échecs ou le jacquet sollicitent le <strong>Réseau du Mode par Défaut (DMN)</strong>, organisant les pensées accumulées et restaurant la clarté d'esprit.
 
 ---
 
-## Mise en garde : Éliminer les discussions professionnelles et les débats houleux pendant le repos social
-
-L'objectif de la socialisation du soir de Hume est la relaxation émotionnelle. Engager des négociations professionnelles ou des débats d'idées passionnés sollicite a nouveau le cortex préfrontal, aggravant l'épuisement. Favoriser l'humour léger et les échanges ludiques est essentiel pour instaurer un environnement de détente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'objectif de la socialisation du soir de Hume est la relaxation émotionnelle. 
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer les discussions professionnelles et les débats houleux pendant le repos social
+
+L'objectif de la socialisation du soir de Hume est la relaxation émotionnelle. Engager des négociations professionnelles ou des débats d'idées passionnés sollicite a nouveau le cortex préfrontal, aggravant l'épuisement. Favoriser l'humour léger et les échanges ludiques est essentiel pour instaurer un environnement de détente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si je vis seul ou si je n'ai personne à rencontrer en personne le soir ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'objectif de la socialisation du soir de Hume est la relaxation émotionnelle. 
       Des appels vocaux avec des proches ou des jeux en ligne conviviaux sont de très bonnes alternatives. L'essentiel est de recevoir un retour social chaleureux sans tension cognitive. Évitez toutefois le défilement passif sur les réseaux sociaux, qui accroît la fatigue mentale.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je remplacer les échecs par d'autres jeux de société, cartes ou loisirs si je ne joue pas aux échecs ?</span>

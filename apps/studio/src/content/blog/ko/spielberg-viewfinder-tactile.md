@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "장난감을 만지며 거대한 상상을 현실로 바꾼 거장, 스티븐 스필버그의 촉각 자극법"
 description: "현대 영화사상 가장 성공한 감독 스티븐 스필버그. 시나리오나 카메라 구도가 막힐 때마다 뷰파인더 렌즈를 통해 시야를 좁히고 모형 장난감을 손으로 만졌던 그의 우뇌 자극 루틴과 현대적 피젯(Fidget) 활용법을 파헤쳐 봅니다."
 pubDate: "2026-04-20"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>스티븐 스필버그의 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 spielberg-viewfinder-tactile 루틴을 다룹니다.
+      본 콘텐츠는 <strong>스티븐 스필버그의 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 체성감각 피질의 자극과 두정엽(Parietal Lobe) 공간 연산 가속화
+## 1. 체성감각 피질의 자극과 두정엽(Parietal Lobe) 공간 연산 가속화
 
 손가락 끝으로 모형의 복잡한 입체 굴곡을 미세하게 만지는 정교한 촉각 정보(Haptic Feedback)는 뇌의 체성감각 피질을 강하게 흥분시킵니다. 이는 공간 추론과 장면의 입체적 구성을 담당하는 우뇌의 두정엽(Parietal Lobe) 연합 영역을 동시 자극합니다. 또한 아날로그 뷰파인더 렌즈나 좁은 틈을 통해 시야를 차단하고 하나의 대상에 초점을 맞추는 시각적 프레이밍(Visual Reframing)은, 전두엽으로 향하는 무수한 시각적 노이즈를 필터링하여 인지 리소스를 대상의 구조적 결합 연산에 집중시킵니다.
 
 ---
 
-## 과도한 촉각 도구의 함정과 기획 연결 팁
-
-손끝을 자극하기 위해 피젯 도구(Fidget Toy)를 만질 때, 도구가 지나치게 화려하거나 복잡한 기믹이 포함되어 있으면 오히려 뇌가 도구 자체의 작동 재미에 빠지는 인지 분산 현상이 일어납니다. 따라서 뇌 자극 용도로는 단순한 형태와 단단한 재질을 가진 차가운 금속 모형이나 나무 장난감을 사용하는 것이 인지 오프로딩에 훨씬 유리합니다. 또한 만지는 시간은 10분을 넘지 않도록 제한하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 과도한 촉각 도구의 함정과 기획 연결 팁
+
+손끝을 자극하기 위해 피젯 도구(Fidget Toy)를 만질 때, 도구가 지나치게 화려하거나 복잡한 기믹이 포함되어 있으면 오히려 뇌가 도구 자체의 작동 재미에 빠지는 인지 분산 현상이 일어납니다. 따라서 뇌 자극 용도로는 단순한 형태와 단단한 재질을 가진 차가운 금속 모형이나 나무 장난감을 사용하는 것이 인지 오프로딩에 훨씬 유리합니다. 또한 만지는 시간은 10분을 넘지 않도록 제한하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>피젯 스피너나 일반 볼펜을 손가락으로 돌리는 것도 동일한 효과를 주나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       스피너나 볼펜을 단순히 반복 회전시키는 동작은 일종의 무의식적 운동(습관적 틱)으로 분류되어 뇌의 기저핵 회로만 자극하고, 두정엽의 고도 공간 연산을 유도하는 체성감각 피질 자극(Haptic Feedback) 강도가 매우 떨어집니다. 따라서 기하학적 형태적 굴곡이 확실해 뇌가 형태를 인식하기 위해 손끝 세포의 정교한 움직임을 조율해야 하는 아날로그 모형 완구류나 큐브를 직접 만지는 것이 훨씬 우수한 지적 각성 효과를 발휘합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>광학 뷰파인더 렌즈가 없을 때 일상에서 시야를 좁히는 다른 팁이 있나요?</span>

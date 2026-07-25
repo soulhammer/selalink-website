@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "外部脳（Second Brain）で描く完璧さ：スタンリー・キューブリックのインデックスカード・アーカイビング習慣と作業記憶の知的外在化"
 description: "完璧な考証と緻密な演出を誇った映画監督スタンリー・キューブリック。大脳前頭葉の記憶負荷を減らし、数万個の情報断片を連合させて傑作を創造したアーカイビングの秘密と知的外在化、3段階実践ガイドを紹介します。"
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「kubrick-index-box-archive」は <strong>スタンリー・キューブリック・アーカイブ史料『The Stanley Kubrick Archives』考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>スタンリー・キューブリック・アーカイブ史料『The Stanley Kubrick Archives』考証＆認知神経科学（Cognitive Neuroscience）および認知心理学（Cognitive Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業記憶（Working Memory）の知的外在化（Cognitive Offloading）とチャンキング（Chunking）
+## 1. 作業記憶（Working Memory）の知的外在化（Cognitive Offloading）とチャンキング（Chunking）
 
 人間の<strong>作業記憶（Working Memory）</strong>の容量は、一時的に4〜7個の情報単位しか保持できないため、あまりにも多くのデータを無理に保存しようとすると急激な<strong>認知過負荷（Cognitive Overload）</strong>に陥ります。キューブリックのインデックスカード・アーカイビングは、脳が負担すべき暗記の重荷を外部の物理的媒体へと移転する<strong>知的外在化（Cognitive Offloading）</strong>の代表的な例です。複雑な情報を<strong>チャンキング（Chunking）</strong>して脳の外部にモジュール化しておくと、<strong>前頭前野（Prefrontal Cortex）</strong>は単純な暗記ストレスから解放され、情報間の新たな関連性を発見して高次元の論理を設計する創造的演算にのみエネルギーを集約することができます。
 
 ---
 
-## 注意事項：単純なコピーを排除し1カード1概念（One Card, One Idea）の精製に集中するルール
-
-アーカイビング習慣によくある誤りは、収集した原文テキストを加工せずにそのまま書き写して多量に保管することです。これは情報を完全に理解したという錯覚を誘発する<strong>メタ認知エラー（Metacognition Error）</strong>を引き起こします。1枚のカードにはただ1つの概念（One Card, One Idea）だけを収め、自分の言葉で2文章内外に精製してこそ、脳がカード間の柔軟な連合認知を遂行できるようになります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：単純なコピーを排除し1カード1概念（One Card, One Idea）の精製に集中するルール
+
+アーカイビング習慣によくある誤りは、収集した原文テキストを加工せずにそのまま書き写して多量に保管することです。これは情報を完全に理解したという錯覚を誘発する<strong>メタ認知エラー（Metacognition Error）</strong>を引き起こします。1枚のカードにはただ1つの概念（One Card, One Idea）だけを収め、自分の言葉で2文章内外に精製してこそ、脳がカード間の柔軟な連合認知を遂行できるようになります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>紙のカードの代わりにスマートフォンアプリやデジタルメモツールを使ってもよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、Notion、Obsidian、あるいはダイナミックなメモツールを活用しても非常に素晴らしいセカンドブレインを作ることができます。重要なのは物理的ツールの種類ではなく、一ページにただ一つの明確な思考の断片だけを収める「モジュール性の原則」と、フォルダに閉じ込めずに絶えず情報を再組合せする「連結性の原則」を維持することです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>カードがどれくらい蓄積された時、無作為シャッフルと創造的連結作業を開始するのが良いですか？</span>

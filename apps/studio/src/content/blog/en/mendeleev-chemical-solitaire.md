@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Element Solitaire: Mendeleev's Chemical Card Sorting Routine"
 description: "Dmitri Mendeleev completed the Periodic Table by arranging cards inscribed with elemental properties like a game of solitaire. Discover how physical spatial manipulation activates the brain's pattern recognition pathways."
 pubDate: "2026-03-14"
@@ -36,22 +37,20 @@ In this article, we dissect the neuroscientific utility of Mendeleev's card soli
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding mendeleev-chemical-solitaire is based on <strong>Mendeleev Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Mendeleev Historical Biographies & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why Spatial Arrangement and Physical Manipulation Awaken Pattern Recognition
+## 1. Why Spatial Arrangement and Physical Manipulation Awaken Pattern Recognition
 
 Flat text on screens or paper is processed by the brain as two-dimensional data, creating analytical calculation bottlenecks. In contrast, chunking information onto discrete cards and arranging them spatially across a desk activates the parietal lobes responsible for spatial positioning. Through tactile sensory signals from fingertips and 3D visual feedback, the brain perceives relational distances between concepts, enabling prefrontal and parietal networks to detect underlying patterns missed in linear reading.
 
 ---
 
-## Precautions and Tips
-
-Avoid crowding excessive details onto a single card; doing so reverts the tool into a dense document, defeating the spatial manipulation benefit. Inscribe only one keyword or core concept per card to maximize the brain's visuospatial sketchpad. Limit your active working set to 10–20 cards at a time so the brain can absorb the entire matrix at a single glance.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Avoid crowding excessive details onto a single card; doing so reverts the tool i
     Once an intuitive, logical layout emerges, snap a photograph with your smartphone camera to synchronize the physical matrix with your memory.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+Avoid crowding excessive details onto a single card; doing so reverts the tool into a dense document, defeating the spatial manipulation benefit. Inscribe only one keyword or core concept per card to maximize the brain's visuospatial sketchpad. Limit your active working set to 10–20 cards at a time so the brain can absorb the entire matrix at a single glance.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

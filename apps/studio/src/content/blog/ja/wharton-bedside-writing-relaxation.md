@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "リラックスが導く創造的フロー：エディス・ウォートンのベッドの上での午前執筆習慣"
 description: "女性で初めて小説部門のピューリッツァー賞を受賞した巨匠エディス・ウォートン。朝起きてベッドから出ず、愛犬たちとくつろぎながらリラックスして執筆した彼女の神経生理学的執筆の秘密を明かします。"
 pubDate: "2026-06-21"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「wharton-bedside-writing-relaxation」は <strong>エディス・ウォートン歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エディス・ウォートン歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 身体的リラックスと副交感神経優位モードの認知的作用
+## 1. 身体的リラックスと副交感神経優位モードの認知的作用
 
 創作をしたり複雑なアイディアを導き出す際に多くの人が直面するボトルネックは、「うまく書かなければ」という不安と緊張により前頭葉の理性回路が硬直することです。ベッドの上で背中を預け、愛犬と触れ合いながら完全にリラックスした身体状態を維持することは、副交感神経（Parasympathetic Nervous System）を優位に稼働させます。この状態の脳は安心感を得てストレスホルモンであるコルチゾールの分泌が減少し、心地よい没頭に適したアルファ波（Alpha Waves）を放出します。アルファ波は普段は結合されない大脳皮質各地のアイディアや単語の断片を緩やかかつ自然に繋ぎ、精巧で繊細な小説的想像力を流れるように紡ぎ出すよう誘導します。
 
 ---
 
-## 注意事項およびチップ
-
-ベッドの上のリラックス執筆法を日常に応用する際の落とし穴は、集中が解けてそのまま睡眠（二度寝）に陥ることです。脳が完全に弛緩してデルタ波が増え眠気が襲うと、生産性のない居眠り状態が続きます。そのため、完全に横になった姿勢を避け、クッション等を活用して背骨を45〜60度に起こした半坐位（Semi-Fowler's Position）を維持してください。部屋の温度はやや涼しく保ち、身体は弛緩させつつ脳の覚醒を鮮明に保つことが重要です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     最もリラックスした静寂の中で30分間執筆を行います。前頭葉の無理な論理フィルターや完璧主義的な検閲を捨て、頭に浮かぶアイディアや文章を滞りなく紙に書き流します。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびチップ
+
+ベッドの上のリラックス執筆法を日常に応用する際の落とし穴は、集中が解けてそのまま睡眠（二度寝）に陥ることです。脳が完全に弛緩してデルタ波が増え眠気が襲うと、生産性のない居眠り状態が続きます。そのため、完全に横になった姿勢を避け、クッション等を活用して背骨を45〜60度に起こした半坐位（Semi-Fowler's Position）を維持してください。部屋の温度はやや涼しく保ち、身体は弛緩させつつ脳の覚醒を鮮明に保つことが重要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

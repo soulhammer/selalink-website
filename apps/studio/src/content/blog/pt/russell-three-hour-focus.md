@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Um gênio que trabalhava intensamente apenas três horas por dia? O método de foco Timebox de Bertrand Russell"
 description: "O filósofo e Prêmio Nobel de Literatura Bertrand Russell. Descubra sua sabedoria para maximizar a eficiência imergindo em um ambiente completamente isolado por exatamente três horas todas as manhãs, e as práticas de Trabalho Profundo para os dias de hoje."
 pubDate: "2026-04-02"
@@ -35,17 +36,17 @@ O artigo de hoje explora a ciência cerebral por trás da rotina de limite de tr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre russell-three-hour-focus é baseada em <strong>Pesquisa baseada na biografia histórica e autobiografia de Bertrand Russell e estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa baseada na biografia histórica e autobiografia de Bertrand Russell e estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O 'efeito Timeboxing' que comprime a densidade de foco
+## 1. O 'efeito Timeboxing' que comprime a densidade de foco
 
 A maioria das pessoas se prende ao modelo de jornada de trabalho de 8 horas. No entanto, a ciência cerebral mostra que o limite máximo para o córtex cerebral exercer 100% de energia em lógica e criatividade é de apenas 3 a 4 horas por dia. Definir períodos mais longos faz o cérebro perder a tensão, desperdiçando atenção em checar celular ou navegar na internet, aumentando a fadiga cognitiva.
 
@@ -53,9 +54,7 @@ A rotina de 3 horas de Bertrand Russell aproveitou a Lei de Parkinson (o trabalh
 
 ---
 
-## A inspiração surge da penetração estreita e profunda, não de longas horas
-
-Para o grande pensador Russell, 3 horas de foco intenso eram dezenas de vezes mais poderosas do que passar o dia todo sentado à mesa com atenção dispersa. Se você passa o dia todo em frente ao computador cansado e sem resultados, tente estabelecer uma barreira inexpugnável por exatamente 3 horas por dia como Russell para se aprofundar na sua tarefa principal. A liberdade no restante da sua vida aumentará.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Para o grande pensador Russell, 3 horas de foco intenso eram dezenas de vezes ma
   </p>
 </div>
 
+---
+
+## 3. A inspiração surge da penetração estreita e profunda, não de longas horas
+
+Para o grande pensador Russell, 3 horas de foco intenso eram dezenas de vezes mais poderosas do que passar o dia todo sentado à mesa com atenção dispersa. Se você passa o dia todo em frente ao computador cansado e sem resultados, tente estabelecer uma barreira inexpugnável por exatamente 3 horas por dia como Russell para se aprofundar na sua tarefa principal. A liberdade no restante da sua vida aumentará.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Não é problemático ficar sem responder mensagens por 3 horas no trabalho?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Para o grande pensador Russell, 3 horas de foco intenso eram dezenas de vezes ma
       De fato, o desligamento total de 3 horas pode ser difícil em um ambiente de trabalho padrão. Nesses casos, dividir o tempo em blocos de '90 minutos de foco / descanso total' (ex.: 1,5h de manhã e 1,5h à tarde) ainda ajudará bastante a preservar a eficiência cerebral.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Posso continuar com tarefas mais leves à tarde após o bloco de foco de 3 horas?</span>

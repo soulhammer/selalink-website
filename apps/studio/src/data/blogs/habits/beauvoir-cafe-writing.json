@@ -1,216 +1,318 @@
 {
   "beauvoir-cafe-writing": {
-    "title": {
-      "ko": "소음 속의 몰입: 시몬 드 보부아르의 카페 백색 소음과 환경 단순화 루틴",
-      "en": "Immersion Amid Noise: Simone de Beauvoir's Cafe White Noise and Environment Simplification Routine",
-      "ja": "騒音の中の没頭：シモーヌ・ド・ボーヴォワールのカフェ白色雑音と環境単純化ルーティン",
-      "zh": "喧嚣中的专注：西蒙娜·德·波伏娃的咖啡馆白噪音与环境简化习惯",
-      "es": "Inmersión Entre el Ruido: La Rutina de Ruido Blanco en Cafés y Simplificación Ambiental de Simone de Beauvoir",
-      "de": "Immersion im Lärm: Simone de Beauvoirs Routine von Café-Weißem-Rauschen und Umgebungsvereinfachung",
-      "fr": "Immersion au cœur du bruit : La routine de bruit blanc en café et de simplification de l'environnement de Simone de Beauvoir",
-      "pt": "Imersão no Ruído: A Rotina de Ruído Branco em Cafés e Simplificação Ambiental de Simone de Beauvoir",
-      "id": "Imersi di Tengah Kebisingan: Rutinitas White Noise Kafe dan Penyederhanaan Lingkungan ala Simone de Beauvoir"
-    },
-    "description": {
-      "ko": "실존주의 사상가이자 소설가 시몬 드 보부아르가 파리의 단골 카페에서 차 한 잔을 두고 매일 실천했던 집필 루틴. 잔잔한 백색 소음이 뇌를 깨우는 신경학적 원리와 나만의 몰입 작업 구역(Focus Zone) 구축법을 밝힙니다.",
-      "en": "Discover how existentialist philosopher and novelist Simone de Beauvoir wrote daily at her favorite Parisian cafe over a cup of tea, and explore the neurological mechanisms of soft white noise alongside methods for building your own personal Focus Zone.",
-      "ja": "実存主義思想家であり小説家のシモーヌ・ド・ボーヴォワールがパリの行きつけのカフェで紅茶を前に毎日実践した執筆ルーティン。静かな白色雑音が脳を呼び醒ます神経学的原理と自分だけの没頭作業区域（Focus Zone）構築法を解き明かします。",
-      "zh": "探索存在主义哲学家兼小说家西蒙娜·德·波伏娃每天在巴黎常去的咖啡馆品茶写作的习惯，揭示温和白噪音唤醒大脑的神经学原理，并介绍构建专属“专注工作区（Focus Zone）”的方法。",
-      "es": "Descubra la rutina de escritura que la filósofa existencialista y novelista Simone de Beauvoir practicaba a diario en su café favorito de París con una taza de té, y explore los mecanismos neurológicos del ruido blanco suave junto con métodos para construir su propia Zona de Enfoque.",
-      "de": "Entdecken Sie die Schreibroutine, die die Existenzphilosophin und Schriftstellerin Simone de Beauvoir täglich in ihrem Lieblingscafé in Paris bei einer Tasse Tee praktizierte, und erkunden Sie die neurologischen Mechanismen sanften weißen Rauschens sowie Methoden zum Aufbau Ihrer eigenen Fokus-Zone.",
-      "fr": "Découvrez la routine d'écriture que la philosophe existentialiste et romancière Simone de Beauvoir pratiquait quotidiennement dans son café parisien préféré autour d'une tasse de thé, et explorez les mécanismes neurologiques du bruit blanc doux ainsi que les méthodes pour créer votre propre Zone de Focalisation.",
-      "pt": "Descubra a rotina de escrita que a filósofa existencialista e romancista Simone de Beauvoir praticava diariamente em seu café favorito em Paris com uma xícara de chá, e explore os mecanismos neurológicos do ruído branco suave junto com métodos para construir sua própria Zona de Foco.",
-      "id": "Pelajari rutinitas menulis yang dipraktikkan filsuf eksistensialis dan novelis Simone de Beauvoir setiap hari di kafe favoritnya di Paris sambil menikmati secangkir teh, serta temukan mekanisme neurologis white noise lembut beserta metode untuk membangun Focus Zone pribadi Anda."
-    },
-    "authority": {
-      "ko": "시몬 드 보부아르 자서전 『세월의 힘(La Force des choses)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical Verification from Simone de Beauvoir's Autobiography *La Force des choses* & Cognitive Neuroscience Research",
-      "ja": "シモーヌ・ド・ボーヴォワール自伝『La Force des choses』考証＆認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "西蒙娜·德·波伏娃自传《岁月的力量（La Force des choses）》考证与认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Verificación Histórica de la Autobiografía de Simone de Beauvoir *La fuerza de las cosas (La Force des choses)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
-      "de": "Historische Überprüfung aus Simone de Beauvoirs Autobiografie *Die Macht der Dinge (La Force des choses)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
-      "fr": "Vérification Historique issue de l'autobiographie de Simone de Beauvoir *La Force des choses* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
-      "pt": "Verificação Histórica da Autobiografia de Simone de Beauvoir *A Força das Coisas (La Force des choses)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
-      "id": "Verifikasi Historis dari Autobiografi Simone de Beauvoir *La Force des choses* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
-    },
-    "intro": {
-      "ko": "\"나는 아침 10시가 되면 카페 드 플로르로 향했다. 그곳의 작은 탁자 위에서 사유는 비로소 형상을 얻기 시작했다.\" ☕\n\n『제2의 성(Le Deuxième Sexe)』을 통해 현대 여성주의의 지평을 열고, 소설 『망다랭(Les Mandarins)』으로 곤쿠르상을 수상하며 20세기 실존주의 철학과 문학에 거대한 족적을 남긴 프랑스의 대표 사상가 시몬 드 보부아르(Simone de Beauvoir, 1908–1986). 치밀한 논리와 독창적인 문장으로 정평이 난 그녀의 고도의 지적 사유는, 화려하고 밀폐된 개인 서재가 아닌 파리 생제르맹데프레의 웅성거리는 카페 한구석에서 탄생했습니다.\n\n보부아르는 매일 아침 10시가 되면 단골 카페인 '카페 드 플로르(Café de Flore)'로 출근하듯 발걸음을 옮겼습니다. 그녀는 언제나 늘 앉는 조용한 구석 자리에 앉아 따뜻한 차 한 잔을 주문한 뒤, 오후 2시까지 꼬박 4시간 동안 미동도 없이 집필에 몰입했습니다. 카페의 직원들은 그녀의 집필 흐름을 해치지 않기 위해 불필요한 서빙을 자제했고, 주변의 낮게 깔리는 대화와 잔 부딪치는 소음은 오히려 그녀의 고독감을 완화하고 잡생각을 지워주는 훌륭한 백색 소음막 역할을 했습니다. 보부아르에게 카페는 방해받는 장소가 아닌, 일상의 복잡함으로부터 자신을 완벽하게 단순화하여 몰입시키는 성역이었습니다.\n\n오늘 포스트에서는 시몬 드 보부아르의 '카페 집필' 루틴에 담긴 뇌과학적 집중 작동 원리와, 끊임없는 잡념과 주의 산만에 시달리는 현대인을 위한 '나만의 몰입 작업 구역(Focus Zone)' 설정 3단계 실천 방안을 소개합니다.",
-      "en": "\"At 10 in the morning, I would go to Café de Flore. On that small table, my thoughts finally began to take shape.\" ☕\n\nSimone de Beauvoir (1908–1986) was a prominent French philosopher and novelist who reshaped modern feminism with 'The Second Sex' and won the prestigious Prix Goncourt with her novel 'The Mandarins', leaving a monumental mark on 20th-century existentialism. Renowned for her rigorous logic and incisive writing, her hyper-focused state of mind was forged not inside an ornate private study, but at a corner table in a bustling Parisian cafe in Saint-Germain-des-Prés.\n\nEvery morning at 10 AM, Beauvoir walked into her favorite haunt, Café de Flore, as if punching in for work. Sitting at her usual quiet corner table with a cup of warm tea, she immersed herself in writing for four solid hours until 2 PM. The cafe staff minimized service interruptions to protect her creative flow, while the low hum of chatter and clinking cups served as excellent white noise—erasing stray thoughts and softening the isolation of deep work. For Beauvoir, the cafe was not a place of distraction, but a sanctuary where she could simplify her surroundings and retreat entirely into focused thought.\n\nIn today's post, we examine the brain science behind Simone de Beauvoir's 'cafe writing' routine and present a 3-step practical action plan for modern individuals to set up their own 'Focus Zone' amidst endless distractions.",
-      "ja": "「朝10時になると、私はカフェ・ド・フロールへ向かった。その小さなテーブルの上で、思考はついに形を成し始めたのだ。」 ☕\n\n『第二の性（Le Deuxième Sexe）』を通じて現代フェミニズムの地平を切り開き、小説『マンダリン（Les Mandarins）』でゴンクール賞を受賞するなど、20世紀の実存主義哲学と文学に巨大な足跡を残したフランスの代表的思想家、シモーヌ・ド・ボーヴォワール（Simone de Beauvoir、1908–1986）。緻密な論理と独創的な文章で定評のある彼女の高度な知的思考は、華やかで密閉された個人の書斎ではなく、パリのサン＝ジェルマン＝デ＝プレにあるざわめくカフェの一角で紡ぎ出されました。\n\nボーヴォワールは毎朝10時になると、行きつけの「カフェ・ド・フロール（Café de Flore）」へ出勤するように足を進めました。彼女はいつも座る静かな角の席に腰掛け、温かい紅茶を一杯注文した後、午後2時までの丸4時間、微動だにせず執筆に没頭しました。カフェのスタッフは彼女の執筆の集中を妨げないよう不要なサービスを控え、周囲の低く漂う会話やカップの触れ合う音は、むしろ彼女の孤独感を和らげ雑念を消し去る素晴らしい白色雑音の役割を果たしました。ボーヴォワールにとってカフェは邪魔される場所ではなく、日常の複雑さから自分を完全に単純化して没頭させる聖域だったのです。\n\n本日の記事では、シモーヌ・ド・ボーヴォワールの「カフェ執筆」ルーティンに秘められた脳科学的集中の作動原理と、絶え間ない雑念と注意散漫に悩まされる現代人のための「自分だけの没頭作業区域（Focus Zone）」設定の3ステップ実践方案を紹介します。",
-      "zh": "“每当早晨10点，我就会走向花神咖啡馆。在那张小小的桌子上，思想终于开始具象化。” ☕\n\n通过《第二性（Le Deuxième Sexe）》开辟现代女性主义新纪元、并凭小说《名士风流（Les Mandarins）》荣获龚古尔文学奖的法国杰出思想家兼小说家——西蒙娜·德·波伏娃（Simone de Beauvoir，1908–1986），在20世纪存在主义哲学与文学领域留下了举足轻重的印记。以严密逻辑与独创文风著称的她，其高度敏锐的智慧思考并非产自华丽封闭的私人书房，而是诞生于巴黎圣日耳曼德佩区一家熙熙攘攘的咖啡馆角落。\n\n每天早晨10点，波伏娃都会像上班一样走进她常去的“花神咖啡馆（Café de Flore）”。她总是坐在那个安静的固定角落，点上一杯热茶，在随后的整整4个小时里（直至下午2点）一动不动地沉浸于写作。咖啡馆的服务员为了不打扰她的创作思路，尽量减少不必要的打扰；而周围低沉的交谈声与杯碟碰撞声，反而成了绝佳的白噪音，抹去了杂念并缓解了高强度思考的孤独感。对波伏娃而言，咖啡馆并非喧嚣嘈杂之地，而是一个能将自己从日常繁杂中彻底简化、全心投入的圣域。\n\n在今天的文章中，我们将分析西蒙娜·德·波伏娃“咖啡馆写作”习惯背后的脑科学专注原理，并为深受杂念与注意力分散困扰的现代人提供建立专属“专注工作区（Focus Zone）”的3步骤实践方案。",
-      "es": "\"A las 10 de la mañana, me dirigía al Café de Flore. Sobre esa pequeña mesa, mis pensamientos finalmente comenzaban a cobrar forma.\" ☕\n\nSimone de Beauvoir (1908–1986), destacada filósofa y novelista francesa que redefinió el feminismo moderno con 'El segundo sexo' y ganó el prestigioso Premio Goncourt con su novel 'Los mandarines', dejó una huella monumental en el existencialismo del siglo XX. Reconocida por su lógica rigurosa y su prosa incisiva, su estado de hiperconcentración no se gestó en un ostentoso estudio privado, sino en la esquina de un concurrido café en Saint-Germain-des-Prés, París.\n\nTodas las mañanas a las 10:00, Beauvoir caminaba hacia su lugar habitual, el Café de Flore, como si asistiera a su jornada laboral. Sentada en su tranquila mesa de rincón de siempre con una taza de té caliente, se sumergía en la escritura durante cuatro horas seguidas hasta las 14:00. El personal del café minimizaba el servicio para no interrumpir su flujo creativo, mientras que el suave murmullo de las conversaciones y el tintineo de las tazas servían como un excelente ruido blanco, eliminando distracciones y suavizando el aislamiento del trabajo profundo. Para Beauvoir, el café no era un lugar de distracción, sino un santuario donde podía simplificar su entorno y entregarse por completo al pensamiento enfocado.\n\nEn la publicación de hoy, analizamos los principios neurocientíficos de la rutina de 'escritura en café' de Simone de Beauvoir y presentamos un plan de acción práctico de 3 pasos para que las personas modernas establezcan su propia 'Zona de Enfoque (Focus Zone)' frente a las distracciones constantes.",
-      "de": "\"Um 10 Uhr morgens ging ich ins Café de Flore. Auf diesem kleinen Tisch begannen meine Gedanken endlich Gestalt anzunehmen.\" ☕\n\nSimone de Beauvoir (1908–1986) war eine bedeutende französische Philosophin und Schriftstellerin, die mit 'Das andere Geschlecht' den modernen Feminismus neudefinierte und mit ihrem Roman 'Die Mandarins von Paris' den renommierten Prix Goncourt gewann. Bekannt für ihre präzise Logik und scharfsinnige Prosa, entstand ihr Zustand höchster Konzentration nicht in einem prunkvollen privaten Arbeitszimmer, sondern an einem Ecktisch in einem belebten Pariser Café in Saint-Germain-des-Prés.\n\nJeden Morgen um 10 Uhr ging Beauvoir in ihr Stammcafé, das Café de Flore, wie zu einem geregelten Arbeitstag. An ihrem gewohnten ruhigen Ecktisch sitzend, bei einer Tasse warmem Tee, vertiefte sie sich vier Stunden lang ununterbrochen bis 14 Uhr in das Schreiben. Das Café-Personal beschränkte Bedienungen auf ein Minimum, um ihren kreativen Fluss nicht zu stören, während das leise Gemurmel der Gespräche und das Klappern der Tassen als hervorragendes weißes Rauschen dienten – störende Gedanken wurden ausgelöscht und die Isolation tiefer Arbeit gemildert. Für Beauvoir war das Café kein Ort der Ablenkung, sondern ein Zufluchtsort, an dem sie ihre Umgebung vereinfachen und sich ganz dem fokussierten Denken hingeben konnte.\n\nIm heutigen Beitrag analysieren wir die neurowissenschaftlichen Grundlagen von Simone de Beauvoirs Routine des 'Schreibens im Café' und stellen einen praktischen 3-Schritte-Aktionsplan vor, mit dem moderne Menschen inmitten ständiger Ablenkungen ihre eigene 'Fokus-Zone (Focus Zone)' einrichten können.",
-      "fr": "« À 10 heures du matin, je me rendais au Café de Flore. Sur cette petite table, mes pensées commençaient enfin à prendre forme. » ☕\n\nSimone de Beauvoir (1908–1986), éminente philosophe et romancière française qui a redéfini le féminisme moderne avec 'Le Deuxième Sexe' et remporté le prestigieux prix Goncourt avec 'Les Mandarins', a laissé une empreinte monumentale sur l'existentialisme du XXe siècle. Reconnue pour sa rigueur logique et sa plume incisive, son état de haute concentration ne s'est pas forgé dans un bureau privé feutré, meublé et isolé, mais au coin d'un café parisien animé à Saint-Germain-des-Prés.\n\nChaque matin à 10 heures, Beauvoir se rendait dans son repaire habituel, le Café de Flore, comme elle serait allée au travail. Installée à sa table d'angle tranquille avec une tasse de thé chaud, elle s'immergeait dans l'écriture pendant quatre heures d'affilée jusqu'à 14 heures. Le personnel du café réduisait le service au strict minimum pour préserver son flux créatif, tandis que le doux murmure des conversations et le tintement des tasses servaient d'excellent bruit blanc — effaçant les pensées parasites et adoucissant la solitude du travail profond. Pour Beauvoir, le café n'était pas un lieu de distraction, mais un sanctuaire où elle pouvait simplifier son environnement et se consacrer pleinement à la pensée réfléchie.\n\nDans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques de la routine d'« écriture au café » de Simone de Beauvoir et proposons un plan d'action pratique en 3 étapes permettant aux individus modernes d'établir leur propre « Zone de Focalisation (Focus Zone) » face aux distractions continuelles.",
-      "pt": "\"Às 10 horas da manhã, eu ia para o Café de Flore. Sobre aquela pequena mesa, meus pensamentos finalmente começavam a ganhar forma.\" ☕\n\nSimone de Beauvoir (1908–1986) foi uma influente filósofa e romancista francesa que redefiniu o feminismo moderno com 'O Segundo Sexo' e venceu o prestigiado Prêmio Goncourt com o romance 'Os Mandarins', deixando uma marca monumental no existencialismo do século XX. Reconhecida por sua lógica rigorosa e escrita incisiva, seu estado de hiperfoco não foi forjado num suntuoso escritório particular, mas no canto de um movimentado café parisiense em Saint-Germain-des-Prés.\n\nTodas as manhãs, às 10h, Beauvoir caminhava até seu local favorito, o Café de Flore, como se estivesse indo para o trabalho. Sentada em sua mesa de canto tranquila de sempre com uma xícara de chá quente, ela mergulhava na escrita por quatro horas seguidas até as 14h. Os funcionários do café minimizavam o atendimento para proteger seu fluxo criativo, enquanto o murmúrio suave das conversas e o tilintar das xícaras serviam como um excelente ruído branco — apagando pensamentos dispersos e suavizando o isolamento do trabalho profundo. Para Beauvoir, o café não era um lugar de distração, mas um santuário onde ela podia simplificar seu ambiente e se dedicar inteiramente ao pensamento focado.\n\nNo artigo de hoje, analisamos os princípios neurocientíficos da rotina de 'escrita em café' de Simone de Beauvoir e apresentamos um plano de ação prático de 3 passos para as pessoas modernas estabelecerem sua própria 'Zona de Foco (Focus Zone)' em meio a distrações constantes.",
-      "id": "\"Pada pukul 10 pagi, saya akan pergi ke Café de Flore. Di atas meja kecil itu, pikiran saya akhirnya mulai terbentuk.\" ☕\n\nSimone de Beauvoir (1908–1986) adalah filsuf dan novelis Prancis terkemuka yang membentuk kembali feminisme modern melalui 'The Second Sex' dan memenangkan Prix Goncourt yang bergengsi lewat novelnya 'The Mandarins', meninggalkan jejak monumental dalam eksistensialisme abad ke-20. Terkenal dengan logika yang ketat dan tulisan yang tajam, kondisi konsentrasi tingginya tidak ditempa di dalam ruang kerja pribadi yang megah, melainkan di sudut kafe Paris yang ramah di Saint-Germain-des-Prés.\n\nSetiap pagi pukul 10.00, Beauvoir berjalan menuju tempat favoritnya, Café de Flore, seolah-olah hendak bekerja. Duduk di meja sudut yang tenang seperti biasa dengan secangkir teh hangat, ia membenamkan diri dalam menulis selama empat jam penuh hingga pukul 14.00. Staf kafe meminimalkan gangguan layanan untuk melindungi alur kreatifnya, sementara gumaman lembut percakapan dan gemerincing cangkir berfungsi sebagai white noise yang luar biasa—menghapus pikiran yang buyar dan melembutkan isolasi dari kerja mendalam. Bagi Beauvoir, kafe bukanlah tempat yang mengganggu, melainkan sebuah tempat suci di mana ia dapat menyederhanakan lingkungannya dan menarik diri sepenuhnya ke dalam pemikiran yang terfokus.\n\nDalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains di balik rutinitas 'menulis di kafe' Simone de Beauvoir dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern untuk membangun 'Focus Zone' mereka sendiri di tengah gangguan yang tiada henti."
-    },
-    "whyTitle": {
-      "ko": "백색 소음과 인지 스크립트의 작동 메커니즘",
-      "en": "Working Mechanism of White Noise and Cognitive Scripts",
-      "ja": "白色雑音と認知スクリプトの作動メカニズム",
-      "zh": "白噪音与认知脚本的作用机制",
-      "es": "Mecanismo de Funcionamiento del Ruido Blanco y los Guiones Cognitivos",
-      "de": "Wirkungsmechanismus von weißem Rauschen und kognitiven Skripten",
-      "fr": "Mécanisme de fonctionnement du bruit blanc et des scripts cognitifs",
-      "pt": "Mecanismo de Funcionamento do Ruído Branco e dos Scripts Cognitivos",
-      "id": "Mekanisme Kerja White Noise dan Skrip Kognitif"
-    },
-    "whyDesc": {
-      "ko": "뇌과학적으로, 매일 같은 물리적 환경(단골 자리, 특정 음료)을 마주하는 행위는 의사결정 피로를 줄여 몰입으로 즉시 진입하게 돕는 '인지 스크립트(Cognitive Script)'를 가동시킵니다. 또한 카페 특유의 50~70데시벨(dB) 대역의 잔잔한 백색 소음(White Noise)은 뇌파를 자극해 알파(Alpha)파를 활성화하고 창의성과 문제 해결력을 유도합니다. 주변의 나지막한 동적 움직임은 뇌의 거울 신경망을 적절히 자극해 고립감을 완화하는 심리적 안전감을 주어 딥 워크(Deep Work) 효율을 극대화합니다.",
-      "en": "Neuroscientifically, facing the exact same physical environment daily (a designated table, a specific drink) triggers a 'Cognitive Script' that reduces decision fatigue and smoothly transitions the brain into hyperfocus. Furthermore, the soft ambient white noise of 50 to 70 decibels (dB) typical of cafes stimulates brainwaves to activate alpha waves, inducing creativity and problem-solving. Low-level dynamic activity nearby appropriately engages the brain's mirror neuron system, providing a sense of psychological safety that alleviates isolation and maximizes Deep Work efficiency.",
-      "ja": "脳科学的に、毎日同じ物理的環境（固定の席、特定の飲み物）に直面する行為は、意思決定の疲労を減らし没頭へとスムーズに移行させる「認知スクリプト（Cognitive Script）」を起動させます。さらにカフェ特有の50〜70デシベル（dB）帯域の静かな白色雑音（White Noise）は脳波を刺激してアルファ（Alpha）波を活性化させ、創造性と問題解決力を誘導します。周囲の低く穏やかな動的動きは脳のミラーニューロン系を適度に刺激し、孤立感を和らげる心理的安全性をもたらしてディープ・ワーク（Deep Work）の効率を極大化します。",
-      "zh": "在脑科学层面，每天面对完全相同的物理环境（固定座位、特定饮品）会触发“认知脚本（Cognitive Script）”，减少决策疲劳，帮助大脑顺畅过渡到深度专注状态。此外，咖啡馆特有的50至70分贝（dB）柔和白噪音（White Noise）能刺激脑波激活阿尔法（Alpha）波，进而激发创造力与问题解决能力。周围低调动态的活动适度刺激大脑的镜像神经元系统，提供一种缓解孤独感的心理安全感，从而将深度工作（Deep Work）效率发挥至极致。",
-      "es": "Desde la neurociencia, enfrentarse a diario al mismo entorno físico (una mesa fija, una bebida específica) activa un 'Guión Cognitivo (Cognitive Script)' que reduce la fatiga por decisión y transicionará suavemente al cerebro hacia el hiperenfoque. Además, el suave ruido blanco de 50 a 70 decibelios (dB) típico de los cafés estimula las ondas cerebrales activando las ondas alfa (Alpha), lo que induce la creatividad y la resolución de problemas. La actividad dinámica moderada a su alrededor estimula adecuadamente el sistema de neuronas espejo, brindando una sensación de seguridad psicológica que alivia el aislamiento y maximiza la eficiencia del Trabajo Profundo (Deep Work).",
-      "de": "Neurowissenschaftlich löst das tägliche Aufsuchen genau derselben physischen Umgebung (ein fester Tisch, ein bestimmtes Getränk) ein 'Kognitives Skript (Cognitive Script)' aus, das Entscheidungsmüdigkeit reduziert und das Gehirn reibungslos in den Hyperfokus überführt. Darüber hinaus stimuliert das sanfte weiße Rauschen von 50 bis 70 Dezibel (dB) in Cafés die Gehirnwellen zur Aktivierung von Alphawellen (Alpha), was Kreativität und Problemlösung fördert. Geringfügige dynamische Aktivitäten in der Nähe aktivieren das Spiegelneuronensystem des Gehirns in angemessener Weise und vermitteln ein Gefühl psychologischer Sicherheit, das die Isolation lindert und die Effizienz von Deep Work maximiert.",
-      "fr": "Sur le plan neuroscientifique, retrouver quotidiennement le même environnement physique (une table attitrée, une boisson précise) déclenche un « Script Cognitif (Cognitive Script) » qui réduit la fatigue décisionnelle et fait basculer le cerveau en hyperfocus. De plus, le doux bruit blanc de 50 à 70 décibels (dB) typique des cafés stimule les ondes cérébrales pour activer les ondes alpha (Alpha), favorisant la créativité et la résolution de problèmes. L'activité dynamique modérée aux alentours sollicite le système des neurones miroirs, offrant un sentiment de sécurité psychologique qui atténue l'isolement et maximise l'efficacité du Travail Profond (Deep Work).",
-      "pt": "Do ponto de vista neurocientífico, enfrentar o mesmo ambiente físico diariamente (uma mesa fixa, uma bebida específica) aciona um 'Script Cognitivo (Cognitive Script)' que reduz a fadiga de decisão e transita o cérebro suavemente para o hiperfoco. Além disso, o ruído branco suave de 50 a 70 decibéis (dB) típico dos cafés estimula as ondas cerebrais ativando as ondas alfa (Alpha), o que induz a criatividade e a resolução de problemas. A atividade dinâmica moderada ao redor estimula adequadamente o sistema de neurônios-espelho, proporcionando uma sensação de segurança psicológica que alivia o isolamento e maximiza a eficiência do Trabalho Profundo (Deep Work).",
-      "id": "Secara neurosains, menghadapi lingkungan fisik yang sama persis setiap hari (meja tetap, minuman tertentu) memicu 'Skrip Kognitif (Cognitive Script)' yang mengurangi kelelahan keputusan dan mentransisikan otak secara mulus ke dalam hyperfocus. Selain itu, white noise lembut sebesar 50 hingga 70 desibel (dB) yang khas di kafe merangsang gelombang otak untuk mengaktifkan gelombang alfa (Alpha), memicu kreativitas dan pemecahan masalah. Aktivitas dinamis tingkat rendah di sekitar secara tepat mengaktifkan sistem neuron cermin otak, memberikan rasa aman secara psikologis yang meredakan isolasi dan memaksimalkan efisiensi Deep Work."
-    },
-    "cautionTitle": {
-      "ko": "주의사항 및 팁: 소셜 노이즈와 스피치 노이즈 경계",
-      "en": "Caution & Tips: Guarding Against Social Noise and Speech Noise",
-      "ja": "注意事項＆ヒント：ソーシャルノイズとスピーチノイズの警戒",
-      "zh": "注意事项与提示：警惕社交噪音与言语噪音",
-      "es": "Precauciones y Consejos: Cuidado con el Ruido Social y el Ruido del Habla",
-      "de": "Vorsichtsmaßnahmen & Tipps: Warnung vor sozialem Lärm und Sprachlärm",
-      "fr": "Précautions & Conseils : Mise en garde contre le bruit social et le bruit de la parole",
-      "pt": "Precauções e Dicas: Cuidado com o Ruído Social e o Ruído da Fala",
-      "id": "Perhatian & Tip: Waspada Terhadap Kebisingan Sosial dan Kebisingan Percakapan"
-    },
-    "cautionDesc": {
-      "ko": "모든 소음이 뇌에 유익한 것은 아닙니다. 70데시벨을 초과하는 대시성 음악 소리나 명확히 들리는 주변 사람들의 대화(스피치 노이즈, Speech Noise)는 뇌의 음운 루프(Phonological Loop)를 방해하여 독해와 논리적 집필 능력을 저하시킵니다. 잔잔한 소음 수준이 유지되는 장소를 선택하거나, 대화 소리가 선명한 환경이라면 노이즈 캔슬링 이어폰을 활용해 방해 요소를 우회해야 합니다.",
-      "en": "Not all noise is beneficial to the brain. Loud music exceeding 70 decibels or clearly audible conversations (Speech Noise) interfere with the brain's phonological loop, diminishing reading comprehension and logical writing abilities. Choose a venue where a calm noise level is maintained, or if conversation sounds are prominent, actively use noise-canceling headphones to bypass cognitive interference.",
-      "ja": "すべての騒音が増進に役立つわけではありません。70デシベルを超える大音量の音楽や明確に聞こえる周囲の会話（スピーチノイズ、Speech Noise）は、脳の音韻ループ（Phonological Loop） 妨害し、読解や論理的執筆能力を低下させます。穏やかな騒音レベルが維持される場所を選択するか、会話の音が鮮明な環境であればノイズキャンセリングイヤホンを活用して妨害要素を回避すべきです。",
-      "zh": "并非所有噪音都对大脑有益。超过70分贝的大音量音乐或清晰可闻的旁人交谈（言语噪音，Speech Noise）会干扰大脑的语音回路（Phonological Loop），降低阅读理解与逻辑写作能力。应选择维持平静噪音水平的场所；若环境中的交谈声过于清晰，则需积极使用主动降噪耳机来排除认知干扰。",
-      "es": "No todo el ruido es beneficioso para el cerebro. La música estridente que supera los 70 decibelios o las conversaciones claramente audibles (Ruido del Habla, Speech Noise) interfieren con el bucle fonológico del cerebro, disminuyendo la comprensión lectora y la capacidad de redacción lógica. Elija un lugar donde se mantenga un nivel de ruido tranquilo, o si los sonidos de las conversaciones son prominentes, utilice auriculares con cancelación de ruido para evitar interferencias cognitivas.",
-      "de": "Nicht jeder Lärm ist für das Gehirn von Vorteil. Laute Musik über 70 Dezibel oder deutlich hörbare Gespräche (Sprachlärm, Speech Noise) stören die phonologische Schleife (Phonological Loop) des Gehirns und verringern das Leseverständnis sowie die logischen Schreibfähigkeiten. Wählen Sie einen Ort mit einem ruhigen Lärmpegel, oder nutzen Sie bei deutlichen Gesprächsgeräuschen Noise-Cancelling-Kopfhörer, um kognitive Störungen zu umgehen.",
-      "fr": "Tous les bruits ne sont pas bénéfiques pour le cerveau. Une musique forte dépassant 70 décibels ou des conversations clairement audibles (Bruit de la parole, Speech Noise) interfèrent avec la boucle phonologique (Phonological Loop) du cerveau, diminuant la compréhension écrite et les capacités de rédaction logique. Choisissez un lieu où règne un niveau sonore calme, ou si les conversations sont trop distinctes, utilisez un casque à réduction de bruit pour contourner les interférences cognitives.",
-      "pt": "Nem todo ruído é benéfico para o cérebro. Músicas altas acima de 70 decibéis ou conversas claramente audíveis (Ruído da Fala, Speech Noise) interferem na alça fonológica (Phonological Loop) do cérebro, diminuindo a compreensão leitora e a capacidade de escrita lógica. Escolha um local onde reine um nível de ruído calmo ou, se as conversas forem proeminentes, use fones de ouvido com cancelamento de ruído para evitar interferências cognitivas.",
-      "id": "Tidak semua kebisingan bermanfaat bagi otak. Musik keras yang melebihi 70 desibel atau percakapan orang lain yang terdengar jelas (Speech Noise) mengganggu lingkar fonologis (Phonological Loop) otak, menurunkan pemahaman bacaan dan kemampuan menulis logis. Pilihlah tempat dengan tingkat kebisingan yang tenang, atau jika suara percakapan menonjol, gunakan earphone noise-canceling untuk menghindari gangguan kognitif."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 나만의 몰입 최적화 장소 선정",
-          "en": "Step 1: Selecting Your Personal Focus-Optimized Venue",
-          "ja": "ステップ1：自分だけの没頭最適化場所の選定",
-          "zh": "步骤1：挑选专属的专注优化场所",
-          "es": "Paso 1: Selección de Su Lugar Optimizado para el Enfoque",
-          "de": "Schritt 1: Auswahl Ihres persönlichen fokusoptimierten Orts",
-          "fr": "Étape 1 : Sélection de votre lieu optimisé pour la focalisation",
-          "pt": "Passo 1: Seleção do Seu Local Otimizado para o Foco",
-          "id": "Langkah 1: Memilih Tempat yang Dioptimalkan untuk Fokus"
-        },
-        "text": {
-          "ko": "음악 소리가 너무 크지 않고 나지막한 잔잔한 소음이 형성되는, 적절한 높이의 테이블을 구비한 집이나 직장 근처 장소 1~2곳을 후보로 지정합니다.",
-          "en": "Designate 1-2 candidate locations near home or work that feature tables of comfortable height and maintain a soft, non-intrusive ambient background noise without loud music.",
-          "ja": "音楽の音が大きすぎず、低く穏やかな騒音が形成される、適切な高さのテーブルを備えた自宅や職場近くの場所1〜2ヶ所を候補として指定します。",
-          "zh": "在住处或工作场所附近挑选1-2个备选地点，要求音乐声不过大、拥有低沉舒缓的背景噪音以及高度舒适的桌椅。",
-          "es": "Designe 1 o 2 lugares candidatos cerca de casa o del trabajo que cuenten con mesas a una altura cómoda y mantengan un ruido de fondo suave sin música estridente.",
-          "de": "Bestimmen Sie 1-2 Orte in der Nähe von Zuhause oder der Arbeit, die über Tische in angenehmer Höhe verfügen und ein sanftes, nicht störendes Hintergrundgeräusch ohne laute Musik aufweisen.",
-          "fr": "Désignez 1 à 2 lieux candidats près de chez vous ou de votre travail proposant des tables à une hauteur confortable et maintenant un bruit de fond doux sans musique forte.",
-          "pt": "Designe 1 ou 2 locais candidatos perto de casa ou do trabalho que contem com mesas em altura confortável e mantenham um ruído de fundo suave sem música alta.",
-          "id": "Tentukan 1-2 lokasi kandidat di dekat rumah atau tempat kerja yang memiliki meja dengan ketinggian nyaman dan menjaga kebisingan latar belakang yang lembut tanpa musik keras."
-        }
+    "pubDate": "2026-06-08",
+    "updatedDate": "2026-06-08",
+    "heroImage": "/images/blog/beauvoir_cafe_writing.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "소음 속의 몰입: 시몬 드 보부아르의 카페 백색 소음과 환경 단순화 루틴",
+        "description": "실존주의 사상가이자 소설가 시몬 드 보부아르가 파리의 단골 카페에서 차 한 잔을 두고 매일 실천했던 집필 루틴. 잔잔한 백색 소음이 뇌를 깨우는 신경학적 원리와 나만의 몰입 작업 구역(Focus Zone) 구축법을 밝힙니다.",
+        "authority": "시몬 드 보부아르 자서전 『세월의 힘(La Force des choses)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"나는 아침 10시가 되면 카페 드 플로르로 향했다. 그곳의 작은 탁자 위에서 사유는 비로소 형상을 얻기 시작했다.\" ☕\n\n『제2의 성(Le Deuxième Sexe)』을 통해 현대 여성주의의 지평을 열고, 소설 『망다랭(Les Mandarins)』으로 곤쿠르상을 수상하며 20세기 실존주의 철학과 문학에 거대한 족적을 남긴 프랑스의 대표 사상가 시몬 드 보부아르(Simone de Beauvoir, 1908–1986). 치밀한 논리와 독창적인 문장으로 정평이 난 그녀의 고도의 지적 사유는, 화려하고 밀폐된 개인 서재가 아닌 파리 생제르맹데프레의 웅성거리는 카페 한구석에서 탄생했습니다.\n\n보부아르는 매일 아침 10시가 되면 단골 카페인 '카페 드 플로르(Café de Flore)'로 출근하듯 발걸음을 옮겼습니다. 그녀는 언제나 늘 앉는 조용한 구석 자리에 앉아 따뜻한 차 한 잔을 주문한 뒤, 오후 2시까지 꼬박 4시간 동안 미동도 없이 집필에 몰입했습니다. 카페의 직원들은 그녀의 집필 흐름을 해치지 않기 위해 불필요한 서빙을 자제했고, 주변의 낮게 깔리는 대화와 잔 부딪치는 소음은 오히려 그녀의 고독감을 완화하고 잡생각을 지워주는 훌륭한 백색 소음막 역할을 했습니다. 보부아르에게 카페는 방해받는 장소가 아닌, 일상의 복잡함으로부터 자신을 완벽하게 단순화하여 몰입시키는 성역이었습니다.\n\n오늘 포스트에서는 시몬 드 보부아르의 '카페 집필' 루틴에 담긴 뇌과학적 집중 작동 원리와, 끊임없는 잡념과 주의 산만에 시달리는 현대인을 위한 '나만의 몰입 작업 구역(Focus Zone)' 설정 3단계 실천 방안을 소개합니다.",
+        "whyTitle": "백색 소음과 인지 스크립트의 작동 메커니즘",
+        "whyDesc": "뇌과학적으로, 매일 같은 물리적 환경(단골 자리, 특정 음료)을 마주하는 행위는 의사결정 피로를 줄여 몰입으로 즉시 진입하게 돕는 '인지 스크립트(Cognitive Script)'를 가동시킵니다. 또한 카페 특유의 50~70데시벨(dB) 대역의 잔잔한 백색 소음(White Noise)은 뇌파를 자극해 알파(Alpha)파를 활성화하고 창의성과 문제 해결력을 유도합니다. 주변의 나지막한 동적 움직임은 뇌의 거울 신경망을 적절히 자극해 고립감을 완화하는 심리적 안전감을 주어 딥 워크(Deep Work) 효율을 극대화합니다.",
+        "cautionTitle": "주의사항 및 팁: 소셜 노이즈와 스피치 노이즈 경계",
+        "cautionDesc": "모든 소음이 뇌에 유익한 것은 아닙니다. 70데시벨을 초과하는 대시성 음악 소리나 명확히 들리는 주변 사람들의 대화(스피치 노이즈, Speech Noise)는 뇌의 음운 루프(Phonological Loop)를 방해하여 독해와 논리적 집필 능력을 저하시킵니다. 잔잔한 소음 수준이 유지되는 장소를 선택하거나, 대화 소리가 선명한 환경이라면 노이즈 캔슬링 이어폰을 활용해 방해 요소를 우회해야 합니다.",
+        "steps": [
+          {
+            "title": "1단계: 나만의 몰입 최적화 장소 선정",
+            "desc": "음악 소리가 너무 크지 않고 나지막한 잔잔한 소음이 형성되는, 적절한 높이의 테이블을 구비한 집이나 직장 근처 장소 1~2곳을 후보로 지정합니다."
+          },
+          {
+            "title": "2단계: 몰입 전용 진입 스크립트 구축",
+            "desc": "자리에 앉아 특정 음료(예: 허브티 또는 아메리카노)를 준비하고 도구를 세팅하는 일련의 루틴 행동을 고정화하여 뇌가 자동으로 몰입 스위치를 켜도록 유도합니다."
+          },
+          {
+            "title": "3단계: 통집중 수행 및 소음 대처 플랜 가동",
+            "desc": "정해진 시간(2~4시간) 동안 집중하여 과제를 수행하되, 주변 소음이 수용 범위를 넘어설 경우 즉시 노이즈 캔슬링 기기를 가동하여 인지적 안전 상태를 지킵니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "시몬 드 보부아르는 왜 카페 드 플로르를 집필 장소로 선택했나요?",
+            "answer": "1940년대 파리의 혹한기 당시 카페 드 플로르는 난로를 따뜻하게 유지해 주었고, 예술가와 지식인들이 오래 머물러도 눈치를 주지 않는 분위기였기에 가장 상쾌하고 안정적인 창작 공간이 되었습니다."
+          },
+          {
+            "question": "집이나 재택근무 환경에서도 동일한 인지 스크립트를 구현할 수 있나요?",
+            "answer": "네, 가능합니다. 집안의 특정 책상 구석에 스탠드 조명을 켜두거나, 집중 시에만 사용하는 전용 컵을 지정하고, 50~60dB 대역의 백색 소음 음원을 재생하는 행동 시퀀스만으로도 동일한 인지 스위칭 효과가 유도됩니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 몰입 전용 진입 스크립트 구축",
-          "en": "Step 2: Building an Entry Script Exclusively for Hyperfocus",
-          "ja": "ステップ2：没頭専用進入スクリプトの構築",
-          "zh": "步骤2：建立专属深度专注的触发脚本",
-          "es": "Paso 2: Construcción de un Guión de Entrada para el Hiperenfoque",
-          "de": "Schritt 2: Aufbau eines Einstiegsskripts für den Hyperfokus",
-          "fr": "Étape 2 : Création d'un script d'entrée vers l'hyperfocus",
-          "pt": "Passo 2: Construção de um Script de Entrada para o Hiperfoco",
-          "id": "Langkah 2: Membangun Skrip Masuk Khusus Hyperfocus"
-        },
-        "text": {
-          "ko": "자리에 앉아 특정 음료(예: 허브티 또는 아메리카노)를 준비하고 도구를 세팅하는 일련의 루틴 행동을 고정화하여 뇌가 자동으로 몰입 스위치를 켜도록 유도합니다.",
-          "en": "Fix a routine sequence—such as sitting at the table, ordering a specific beverage (e.g., herbal tea or Americano), and setting up your workspace—to prompt your brain to automatically flip the focus switch.",
-          "ja": "席に座って特定の飲み物（例：ハーブティーやアメリカーノ）を用意し、道具をセッティングする一連のルーティン行動を固定化し、脳が自動的に没頭スイッチを入れるよう誘導します。",
-          "zh": "固定一套常规行为序列（如坐定后准备特定的饮品如花草茶或美式咖啡，并摆放好工作工具），引导大脑自动开启专注开关。",
-          "es": "Fije una secuencia rutinaria de acciones (como sentarse a la mesa, pedir una bebida específica como té de hierbas o café y preparar sus herramientas) para llevar al cerebro a activar automáticamente el interruptor de enfoque.",
-          "de": "Legen Sie eine feste Routine fest – wie das Hinsetzen, das Bestellen eines bestimmten Getränks (z. B. Kräutertee oder Americano) und das Einrichten Ihrer Arbeitsmittel –, um Ihr Gehirn dazu zu bringen, automatisch den Fokus-Schalter umzulegen.",
-          "fr": "Fixez une séquence d'actions routinière — comme s'installer à la table, commander une boisson spécifique (ex. tisane ou café) et installer vos outils — pour inciter votre cerveau à enclencher automatiquement le commutateur de concentration.",
-          "pt": "Fixe uma sequência rotineira de ações — como sentar-se à mesa, pedir uma bebida específica (ex.: chá de ervas ou café) e preparar suas ferramentas — para levar o cérebro a ligar automaticamente o interruptor de foco.",
-          "id": "Tetapkan urutan tindakan rutin—seperti duduk di meja, memesan minuman tertentu (misalnya teh herbal atau americano), dan menyiapkan alat kerja Anda—untuk mendorong otak mengaktifkan sakelar fokus secara otomatis."
-        }
+      "en": {
+        "title": "Immersion Amid Noise: Simone de Beauvoir's Cafe White Noise and Environment Simplification Routine",
+        "description": "Discover how existentialist philosopher and novelist Simone de Beauvoir wrote daily at her favorite Parisian cafe over a cup of tea, and explore the neurological mechanisms of soft white noise alongside methods for building your own personal Focus Zone.",
+        "authority": "Historical Verification from Simone de Beauvoir's Autobiography *La Force des choses* & Cognitive Neuroscience Research",
+        "intro": "\"At 10 in the morning, I would go to Café de Flore. On that small table, my thoughts finally began to take shape.\" ☕\n\nSimone de Beauvoir (1908–1986) was a prominent French philosopher and novelist who reshaped modern feminism with 'The Second Sex' and won the prestigious Prix Goncourt with her novel 'The Mandarins', leaving a monumental mark on 20th-century existentialism. Renowned for her rigorous logic and incisive writing, her hyper-focused state of mind was forged not inside an ornate private study, but at a corner table in a bustling Parisian cafe in Saint-Germain-des-Prés.\n\nEvery morning at 10 AM, Beauvoir walked into her favorite haunt, Café de Flore, as if punching in for work. Sitting at her usual quiet corner table with a cup of warm tea, she immersed herself in writing for four solid hours until 2 PM. The cafe staff minimized service interruptions to protect her creative flow, while the low hum of chatter and clinking cups served as excellent white noise—erasing stray thoughts and softening the isolation of deep work. For Beauvoir, the cafe was not a place of distraction, but a sanctuary where she could simplify her surroundings and retreat entirely into focused thought.\n\nIn today's post, we examine the brain science behind Simone de Beauvoir's 'cafe writing' routine and present a 3-step practical action plan for modern individuals to set up their own 'Focus Zone' amidst endless distractions.",
+        "whyTitle": "Working Mechanism of White Noise and Cognitive Scripts",
+        "whyDesc": "Neuroscientifically, facing the exact same physical environment daily (a designated table, a specific drink) triggers a 'Cognitive Script' that reduces decision fatigue and smoothly transitions the brain into hyperfocus. Furthermore, the soft ambient white noise of 50 to 70 decibels (dB) typical of cafes stimulates brainwaves to activate alpha waves, inducing creativity and problem-solving. Low-level dynamic activity nearby appropriately engages the brain's mirror neuron system, providing a sense of psychological safety that alleviates isolation and maximizes Deep Work efficiency.",
+        "cautionTitle": "Caution & Tips: Guarding Against Social Noise and Speech Noise",
+        "cautionDesc": "Not all noise is beneficial to the brain. Loud music exceeding 70 decibels or clearly audible conversations (Speech Noise) interfere with the brain's phonological loop, diminishing reading comprehension and logical writing abilities. Choose a venue where a calm noise level is maintained, or if conversation sounds are prominent, actively use noise-canceling headphones to bypass cognitive interference.",
+        "steps": [
+          {
+            "title": "Step 1: Selecting Your Personal Focus-Optimized Venue",
+            "desc": "Designate 1-2 candidate locations near home or work that feature tables of comfortable height and maintain a soft, non-intrusive ambient background noise without loud music."
+          },
+          {
+            "title": "Step 2: Building an Entry Script Exclusively for Hyperfocus",
+            "desc": "Fix a routine sequence—such as sitting at the table, ordering a specific beverage (e.g., herbal tea or Americano), and setting up your workspace—to prompt your brain to automatically flip the focus switch."
+          },
+          {
+            "title": "Step 3: Executing Deep Focus & Deploying Noise Contingency Plans",
+            "desc": "Execute your tasks with focus for a set time block (2-4 hours), and if surrounding noise exceeds acceptable levels, immediately activate noise-canceling devices to protect your cognitive state."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why did Simone de Beauvoir choose Café de Flore as her writing space?",
+            "answer": "During the severe cold of 1940s Paris, Café de Flore kept its indoor stove warm and offered an artist-friendly atmosphere where intellectuals could stay for hours without pressure, making it an ideal, stable space for creative work."
+          },
+          {
+            "question": "Can I implement a similar Cognitive Script in a home or remote work environment?",
+            "answer": "Yes, absolutely. You can induce the same cognitive switching effect at home simply by turning on a specific desk lamp in a dedicated corner, using a designated focus mug, and playing 50-60 dB ambient white noise tracks."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 통집중 수행 및 소음 대처 플랜 가동",
-          "en": "Step 3: Executing Deep Focus & Deploying Noise Contingency Plans",
-          "ja": "ステップ3：集中実行と騒音対処プランの稼働",
-          "zh": "步骤3：执行深度专注与启动噪音应对预案",
-          "es": "Paso 3: Ejecución de Enfoque Profundo y Despliegue de Planes Contingentes de Ruido",
-          "de": "Schritt 3: Ausführung von tiefem Fokus & Ausführen von Lärm-Notfallplänen",
-          "fr": "Étape 3 : Exécution de la focalisation profonde & Déploiement des plans d'urgence anti-bruit",
-          "pt": "Passo 3: Execução do Foco Profundo e Implantação de Planos Contingentes de Ruído",
-          "id": "Langkah 3: Mengeksekusi Fokus Mendalam & Menjalankan Rencana Kontinjensi Kebisingan"
-        },
-        "text": {
-          "ko": "정해진 시간(2~4시간) 동안 집중하여 과제를 수행하되, 주변 소음이 수용 범위를 넘어설 경우 즉시 노이즈 캔슬링 기기를 가동하여 인지적 안전 상태를 지킵니다.",
-          "en": "Execute your tasks with focus for a set time block (2-4 hours), and if surrounding noise exceeds acceptable levels, immediately activate noise-canceling devices to protect your cognitive state.",
-          "ja": "決められた時間（2〜4時間）集中して課題を実行し、周囲の騒音が許容範囲を超えた場合は、直ちにノイズキャンセリング機器を起動して認知的安全状態を守ります。",
-          "zh": "在设定的时间块（2-4小时）内专注执行任务，若周围噪音超出可接受范围，立即启用降噪设备以保护认知安全状态。",
-          "es": "Ejecute sus tareas con concentración durante un bloque de tiempo establecido (2-4 horas) y, si el ruido circundante supera los niveles aceptables, active de inmediato dispositivos de cancelación de ruido para proteger su estado cognitivo.",
-          "de": "Führen Sie Ihre Aufgaben über einen festgelegten Zeitblock (2-4 Stunden) fokussiert aus und aktivieren Sie bei überschrittenem Lärmpegel sofort Noise-Cancelling-Geräte, um Ihren kognitiven Zustand zu schützen.",
-          "fr": "Exécutez vos tâches avec concentration pendant un bloc de temps défini (2 à 4 heures), et si le bruit environnant dépasse un niveau acceptable, activez immédiatement un dispositif à réduction de bruit pour préserver votre état cognitif.",
-          "pt": "Execute suas tarefas com foco durante um bloco de tempo definido (2-4 horas) e, se o ruído ao redor ultrapassar os níveis aceitáveis, ative imediatamente dispositivos de cancelamento de ruído para proteger seu estado cognitivo.",
-          "id": "Eksekusi tugas Anda dengan fokus selama blok waktu yang ditentukan (2-4 jam), dan jika kebisingan di sekitar melebihi tingkat yang dapat diterima, segera aktifkan perangkat noise-canceling untuk melindungi kondisi kognitif Anda."
-        }
+      "zh": {
+        "title": "喧嚣中的专注：西蒙娜·德·波伏娃的咖啡馆白噪音与环境简化习惯",
+        "description": "探索存在主义哲学家兼小说家西蒙娜·德·波伏娃每天在巴黎常去的咖啡馆品茶写作的习惯，揭示温和白噪音唤醒大脑的神经学原理，并介绍构建专属“专注工作区（Focus Zone）”的方法。",
+        "authority": "西蒙娜·德·波伏娃自传《岁月的力量（La Force des choses）》考证与认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "“每当早晨10点，我就会走向花神咖啡馆。在那张小小的桌子上，思想终于开始具象化。” ☕\n\n通过《第二性（Le Deuxième Sexe）》开辟现代女性主义新纪元、并凭小说《名士风流（Les Mandarins）》荣获龚古尔文学奖的法国杰出思想家兼小说家——西蒙娜·德·波伏娃（Simone de Beauvoir，1908–1986），在20世纪存在主义哲学与文学领域留下了举足轻重的印记。以严密逻辑与独创文风著称的她，其高度敏锐的智慧思考并非产自华丽封闭的私人书房，而是诞生于巴黎圣日耳曼德佩区一家熙熙攘攘的咖啡馆角落。\n\n每天早晨10点，波伏娃都会像上班一样走进她常去的“花神咖啡馆（Café de Flore）”。她总是坐在那个安静的固定角落，点上一杯热茶，在随后的整整4个小时里（直至下午2点）一动不动地沉浸于写作。咖啡馆的服务员为了不打扰她的创作思路，尽量减少不必要的打扰；而周围低沉的交谈声与杯碟碰撞声，反而成了绝佳的白噪音，抹去了杂念并缓解了高强度思考的孤独感。对波伏娃而言，咖啡馆并非喧嚣嘈杂之地，而是一个能将自己从日常繁杂中彻底简化、全心投入的圣域。\n\n在今天的文章中，我们将分析西蒙娜·德·波伏娃“咖啡馆写作”习惯背后的脑科学专注原理，并为深受杂念与注意力分散困扰的现代人提供建立专属“专注工作区（Focus Zone）”的3步骤实践方案。",
+        "whyTitle": "白噪音与认知脚本的作用机制",
+        "whyDesc": "在脑科学层面，每天面对完全相同的物理环境（固定座位、特定饮品）会触发“认知脚本（Cognitive Script）”，减少决策疲劳，帮助大脑顺畅过渡到深度专注状态。此外，咖啡馆特有的50至70分贝（dB）柔和白噪音（White Noise）能刺激脑波激活阿尔法（Alpha）波，进而激发创造力与问题解决能力。周围低调动态的活动适度刺激大脑的镜像神经元系统，提供一种缓解孤独感的心理安全感，从而将深度工作（Deep Work）效率发挥至极致。",
+        "cautionTitle": "注意事项与提示：警惕社交噪音与言语噪音",
+        "cautionDesc": "并非所有噪音都对大脑有益。超过70分贝的大音量音乐或清晰可闻的旁人交谈（言语噪音，Speech Noise）会干扰大脑的语音回路（Phonological Loop），降低阅读理解与逻辑写作能力。应选择维持平静噪音水平的场所；若环境中的交谈声过于清晰，则需积极使用主动降噪耳机来排除认知干扰。",
+        "steps": [
+          {
+            "title": "步骤1：挑选专属的专注优化场所",
+            "desc": "在住处或工作场所附近挑选1-2个备选地点，要求音乐声不过大、拥有低沉舒缓的背景噪音以及高度舒适的桌椅。"
+          },
+          {
+            "title": "步骤2：建立专属深度专注的触发脚本",
+            "desc": "固定一套常规行为序列（如坐定后准备特定的饮品如花草茶或美式咖啡，并摆放好工作工具），引导大脑自动开启专注开关。"
+          },
+          {
+            "title": "步骤3：执行深度专注与启动噪音应对预案",
+            "desc": "在设定的时间块（2-4小时）内专注执行任务，若周围噪音超出可接受范围，立即启用降噪设备以保护认知安全状态。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "西蒙娜·德·波伏娃为何选择花神咖啡馆作为写作场所？",
+            "answer": "在20世纪40年代巴黎严寒时期，花神咖啡馆室内炉火通明，且拥有对艺术家与知识分子极其友好的氛围，允许他们长时间停留而不施加压力，因此成为最理想稳定的创作空间。"
+          },
+          {
+            "question": "在家庭或居家办公环境中也能实现相同的认知脚本吗？",
+            "answer": "当然可以。只需在房间特定角落开启专用台灯，使用专用于专注的马克杯，并播放50-60分贝的背景白噪音音轨，这一套行为序列即可产生同样的认知切换效果。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "騒音の中の没頭：シモーヌ・ド・ボーヴォワールのカフェ白色雑音と環境単純化ルーティン",
+        "description": "実存主義思想家であり小説家のシモーヌ・ド・ボーヴォワールがパリの行きつけのカフェで紅茶を前に毎日実践した執筆ルーティン。静かな白色雑音が脳を呼び醒ます神経学的原理と自分だけの没頭作業区域（Focus Zone）構築法を解き明かします。",
+        "authority": "シモーヌ・ド・ボーヴォワール自伝『La Force des choses』考証＆認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「朝10時になると、私はカフェ・ド・フロールへ向かった。その小さなテーブルの上で、思考はついに形を成し始めたのだ。」 ☕\n\n『第二の性（Le Deuxième Sexe）』を通じて現代フェミニズムの地平を切り開き、小説『マンダリン（Les Mandarins）』でゴンクール賞を受賞するなど、20世紀の実存主義哲学と文学に巨大な足跡を残したフランスの代表的思想家、シモーヌ・ド・ボーヴォワール（Simone de Beauvoir、1908–1986）。緻密な論理と独創的な文章で定評のある彼女の高度な知的思考は、華やかで密閉された個人の書斎ではなく、パリのサン＝ジェルマン＝デ＝プレにあるざわめくカフェの一角で紡ぎ出されました。\n\nボーヴォワールは毎朝10時になると、行きつけの「カフェ・ド・フロール（Café de Flore）」へ出勤するように足を進めました。彼女はいつも座る静かな角の席に腰掛け、温かい紅茶を一杯注文した後、午後2時までの丸4時間、微動だにせず執筆に没頭しました。カフェのスタッフは彼女の執筆の集中を妨げないよう不要なサービスを控え、周囲の低く漂う会話やカップの触れ合う音は、むしろ彼女の孤独感を和らげ雑念を消し去る素晴らしい白色雑音の役割を果たしました。ボーヴォワールにとってカフェは邪魔される場所ではなく、日常の複雑さから自分を完全に単純化して没頭させる聖域だったのです。\n\n本日の記事では、シモーヌ・ド・ボーヴォワールの「カフェ執筆」ルーティンに秘められた脳科学的集中の作動原理と、絶え間ない雑念と注意散漫に悩まされる現代人のための「自分だけの没頭作業区域（Focus Zone）」設定の3ステップ実践方案を紹介します。",
+        "whyTitle": "白色雑音と認知スクリプトの作動メカニズム",
+        "whyDesc": "脳科学的に、毎日同じ物理的環境（固定の席、特定の飲み物）に直面する行為は、意思決定の疲労を減らし没頭へとスムーズに移行させる「認知スクリプト（Cognitive Script）」を起動させます。さらにカフェ特有の50〜70デシベル（dB）帯域の静かな白色雑音（White Noise）は脳波を刺激してアルファ（Alpha）波を活性化させ、創造性と問題解決力を誘導します。周囲の低く穏やかな動的動きは脳のミラーニューロン系を適度に刺激し、孤立感を和らげる心理的安全性をもたらしてディープ・ワーク（Deep Work）の効率を極大化します。",
+        "cautionTitle": "注意事項＆ヒント：ソーシャルノイズとスピーチノイズの警戒",
+        "cautionDesc": "すべての騒音が増進に役立つわけではありません。70デシベルを超える大音量の音楽や明確に聞こえる周囲の会話（スピーチノイズ、Speech Noise）は、脳の音韻ループ（Phonological Loop） 妨害し、読解や論理的執筆能力を低下させます。穏やかな騒音レベルが維持される場所を選択するか、会話の音が鮮明な環境であればノイズキャンセリングイヤホンを活用して妨害要素を回避すべきです。",
+        "steps": [
+          {
+            "title": "ステップ1：自分だけの没頭最適化場所の選定",
+            "desc": "音楽の音が大きすぎず、低く穏やかな騒音が形成される、適切な高さのテーブルを備えた自宅や職場近くの場所1〜2ヶ所を候補として指定します。"
+          },
+          {
+            "title": "ステップ2：没頭専用進入スクリプトの構築",
+            "desc": "席に座って特定の飲み物（例：ハーブティーやアメリカーノ）を用意し、道具をセッティングする一連のルーティン行動を固定化し、脳が自動的に没頭スイッチを入れるよう誘導します。"
+          },
+          {
+            "title": "ステップ3：集中実行と騒音対処プランの稼働",
+            "desc": "決められた時間（2〜4時間）集中して課題を実行し、周囲の騒音が許容範囲を超えた場合は、直ちにノイズキャンセリング機器を起動して認知的安全状態を守ります。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "シモーヌ・ド・ボーヴォワールはなぜカフェ・ド・フロールを執筆場所として選んだのですか？",
+            "answer": "1940年代のパリの極寒期当時、カフェ・ド・フロールはストーブを暖かく保ち、アーティストや知識人が長居しても気兼ねさせない雰囲気であったため、最も快適で安定した創作空間となりました。"
+          },
+          {
+            "question": "自宅やリモートワークの環境でも同じ認知スクリプトを実装できますか？",
+            "answer": "はい、可能です。家の中の特定のデスクの角にスタンドライトを点けたり、集中時にのみ使用する専用カップを指定し、50〜60dB帯域の白色雑音音源を再生する行動シーケンスだけで、同じ認知スイッチング効果が誘導されます。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Inmersión Entre el Ruido: La Rutina de Ruido Blanco en Cafés y Simplificación Ambiental de Simone de Beauvoir",
+        "description": "Descubra la rutina de escritura que la filósofa existencialista y novelista Simone de Beauvoir practicaba a diario en su café favorito de París con una taza de té, y explore los mecanismos neurológicos del ruido blanco suave junto con métodos para construir su propia Zona de Enfoque.",
+        "authority": "Verificación Histórica de la Autobiografía de Simone de Beauvoir *La fuerza de las cosas (La Force des choses)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+        "intro": "\"A las 10 de la mañana, me dirigía al Café de Flore. Sobre esa pequeña mesa, mis pensamientos finalmente comenzaban a cobrar forma.\" ☕\n\nSimone de Beauvoir (1908–1986), destacada filósofa y novelista francesa que redefinió el feminismo moderno con 'El segundo sexo' y ganó el prestigioso Premio Goncourt con su novel 'Los mandarines', dejó una huella monumental en el existencialismo del siglo XX. Reconocida por su lógica rigurosa y su prosa incisiva, su estado de hiperconcentración no se gestó en un ostentoso estudio privado, sino en la esquina de un concurrido café en Saint-Germain-des-Prés, París.\n\nTodas las mañanas a las 10:00, Beauvoir caminaba hacia su lugar habitual, el Café de Flore, como si asistiera a su jornada laboral. Sentada en su tranquila mesa de rincón de siempre con una taza de té caliente, se sumergía en la escritura durante cuatro horas seguidas hasta las 14:00. El personal del café minimizaba el servicio para no interrumpir su flujo creativo, mientras que el suave murmullo de las conversaciones y el tintineo de las tazas servían como un excelente ruido blanco, eliminando distracciones y suavizando el aislamiento del trabajo profundo. Para Beauvoir, el café no era un lugar de distracción, sino un santuario donde podía simplificar su entorno y entregarse por completo al pensamiento enfocado.\n\nEn la publicación de hoy, analizamos los principios neurocientíficos de la rutina de 'escritura en café' de Simone de Beauvoir y presentamos un plan de acción práctico de 3 pasos para que las personas modernas establezcan su propia 'Zona de Enfoque (Focus Zone)' frente a las distracciones constantes.",
+        "whyTitle": "Mecanismo de Funcionamiento del Ruido Blanco y los Guiones Cognitivos",
+        "whyDesc": "Desde la neurociencia, enfrentarse a diario al mismo entorno físico (una mesa fija, una bebida específica) activa un 'Guión Cognitivo (Cognitive Script)' que reduce la fatiga por decisión y transicionará suavemente al cerebro hacia el hiperenfoque. Además, el suave ruido blanco de 50 a 70 decibelios (dB) típico de los cafés estimula las ondas cerebrales activando las ondas alfa (Alpha), lo que induce la creatividad y la resolución de problemas. La actividad dinámica moderada a su alrededor estimula adecuadamente el sistema de neuronas espejo, brindando una sensación de seguridad psicológica que alivia el aislamiento y maximiza la eficiencia del Trabajo Profundo (Deep Work).",
+        "cautionTitle": "Precauciones y Consejos: Cuidado con el Ruido Social y el Ruido del Habla",
+        "cautionDesc": "No todo el ruido es beneficioso para el cerebro. La música estridente que supera los 70 decibelios o las conversaciones claramente audibles (Ruido del Habla, Speech Noise) interfieren con el bucle fonológico del cerebro, disminuyendo la comprensión lectora y la capacidad de redacción lógica. Elija un lugar donde se mantenga un nivel de ruido tranquilo, o si los sonidos de las conversaciones son prominentes, utilice auriculares con cancelación de ruido para evitar interferencias cognitivas.",
+        "steps": [
+          {
+            "title": "Paso 1: Selección de Su Lugar Optimizado para el Enfoque",
+            "desc": "Designe 1 o 2 lugares candidatos cerca de casa o del trabajo que cuenten con mesas a una altura cómoda y mantengan un ruido de fondo suave sin música estridente."
+          },
+          {
+            "title": "Paso 2: Construcción de un Guión de Entrada para el Hiperenfoque",
+            "desc": "Fije una secuencia rutinaria de acciones (como sentarse a la mesa, pedir una bebida específica como té de hierbas o café y preparar sus herramientas) para llevar al cerebro a activar automáticamente el interruptor de enfoque."
+          },
+          {
+            "title": "Paso 3: Ejecución de Enfoque Profundo y Despliegue de Planes Contingentes de Ruido",
+            "desc": "Ejecute sus tareas con concentración durante un bloque de tiempo establecido (2-4 horas) y, si el ruido circundante supera los niveles aceptables, active de inmediato dispositivos de cancelación de ruido para proteger su estado cognitivo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué Simone de Beauvoir eligió el Café de Flore como su espacio de escritura?",
+            "answer": "Durante los crudos inviernos de la década de 1940 en París, el Café de Flore mantenía su estufa cálida y ofrecía un ambiente acogedor para los artistas donde los intelectuales podían quedarse durante horas sin presiones, convirtiéndolo en un espacio ideal para la creación."
+          },
+          {
+            "question": "¿Puedo implementar un Guión Cognitivo similar en un entorno de trabajo desde casa o remoto?",
+            "answer": "Sí, por supuesto. Puede inducir el mismo efecto de cambio cognitivo en casa simplemente encendiendo una lámpara de escritorio específica en una esquina dedicada, utilizando una taza designada para el enfoque y reproduciendo pistas de ruido blanco de 50 a 60 dB."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Immersion au cœur du bruit : La routine de bruit blanc en café et de simplification de l'environnement de Simone de Beauvoir",
+        "description": "Découvrez la routine d'écriture que la philosophe existentialiste et romancière Simone de Beauvoir pratiquait quotidiennement dans son café parisien préféré autour d'une tasse de thé, et explorez les mécanismes neurologiques du bruit blanc doux ainsi que les méthodes pour créer votre propre Zone de Focalisation.",
+        "authority": "Vérification Historique issue de l'autobiographie de Simone de Beauvoir *La Force des choses* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+        "intro": "« À 10 heures du matin, je me rendais au Café de Flore. Sur cette petite table, mes pensées commençaient enfin à prendre forme. » ☕\n\nSimone de Beauvoir (1908–1986), éminente philosophe et romancière française qui a redéfini le féminisme moderne avec 'Le Deuxième Sexe' et remporté le prestigieux prix Goncourt avec 'Les Mandarins', a laissé une empreinte monumentale sur l'existentialisme du XXe siècle. Reconnue pour sa rigueur logique et sa plume incisive, son état de haute concentration ne s'est pas forgé dans un bureau privé feutré, meublé et isolé, mais au coin d'un café parisien animé à Saint-Germain-des-Prés.\n\nChaque matin à 10 heures, Beauvoir se rendait dans son repaire habituel, le Café de Flore, comme elle serait allée au travail. Installée à sa table d'angle tranquille avec une tasse de thé chaud, elle s'immergeait dans l'écriture pendant quatre heures d'affilée jusqu'à 14 heures. Le personnel du café réduisait le service au strict minimum pour préserver son flux créatif, tandis que le doux murmure des conversations et le tintement des tasses servaient d'excellent bruit blanc — effaçant les pensées parasites et adoucissant la solitude du travail profond. Pour Beauvoir, le café n'était pas un lieu de distraction, mais un sanctuaire où elle pouvait simplifier son environnement et se consacrer pleinement à la pensée réfléchie.\n\nDans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques de la routine d'« écriture au café » de Simone de Beauvoir et proposons un plan d'action pratique en 3 étapes permettant aux individus modernes d'établir leur propre « Zone de Focalisation (Focus Zone) » face aux distractions continuelles.",
+        "whyTitle": "Mécanisme de fonctionnement du bruit blanc et des scripts cognitifs",
+        "whyDesc": "Sur le plan neuroscientifique, retrouver quotidiennement le même environnement physique (une table attitrée, une boisson précise) déclenche un « Script Cognitif (Cognitive Script) » qui réduit la fatigue décisionnelle et fait basculer le cerveau en hyperfocus. De plus, le doux bruit blanc de 50 à 70 décibels (dB) typique des cafés stimule les ondes cérébrales pour activer les ondes alpha (Alpha), favorisant la créativité et la résolution de problèmes. L'activité dynamique modérée aux alentours sollicite le système des neurones miroirs, offrant un sentiment de sécurité psychologique qui atténue l'isolement et maximise l'efficacité du Travail Profond (Deep Work).",
+        "cautionTitle": "Précautions & Conseils : Mise en garde contre le bruit social et le bruit de la parole",
+        "cautionDesc": "Tous les bruits ne sont pas bénéfiques pour le cerveau. Une musique forte dépassant 70 décibels ou des conversations clairement audibles (Bruit de la parole, Speech Noise) interfèrent avec la boucle phonologique (Phonological Loop) du cerveau, diminuant la compréhension écrite et les capacités de rédaction logique. Choisissez un lieu où règne un niveau sonore calme, ou si les conversations sont trop distinctes, utilisez un casque à réduction de bruit pour contourner les interférences cognitives.",
+        "steps": [
+          {
+            "title": "Étape 1 : Sélection de votre lieu optimisé pour la focalisation",
+            "desc": "Désignez 1 à 2 lieux candidats près de chez vous ou de votre travail proposant des tables à une hauteur confortable et maintenant un bruit de fond doux sans musique forte."
+          },
+          {
+            "title": "Étape 2 : Création d'un script d'entrée vers l'hyperfocus",
+            "desc": "Fixez une séquence d'actions routinière — comme s'installer à la table, commander une boisson spécifique (ex. tisane ou café) et installer vos outils — pour inciter votre cerveau à enclencher automatiquement le commutateur de concentration."
+          },
+          {
+            "title": "Étape 3 : Exécution de la focalisation profonde & Déploiement des plans d'urgence anti-bruit",
+            "desc": "Exécutez vos tâches avec concentration pendant un bloc de temps défini (2 à 4 heures), et si le bruit environnant dépasse un niveau acceptable, activez immédiatement un dispositif à réduction de bruit pour préserver votre état cognitif."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi Simone de Beauvoir a-t-elle choisi le Café de Flore comme espace d'écriture ?",
+            "answer": "Pendant le froid rigoureux du Paris des années 1940, le Café de Flore maintenait son poêle chaud et offrait une atmosphère accueillante pour les artistes, où les intellectuels pouvaient rester des heures sans pression, en faisant un espace de création idéal."
+          },
+          {
+            "question": "Puis-je mettre en œuvre un Script Cognitif similaire dans un environnement de télétravail ou à domicile ?",
+            "answer": "Oui, tout à fait. Vous pouvez induire le même effet de commutation cognitive à la maison en allumant une lampe de bureau spécifique dans un coin dédié, en utilisant un mug réservé à la focalisation et en diffusant du bruit blanc de 50 à 60 dB."
+          }
+        ]
+      },
+      "de": {
+        "title": "Immersion im Lärm: Simone de Beauvoirs Routine von Café-Weißem-Rauschen und Umgebungsvereinfachung",
+        "description": "Entdecken Sie die Schreibroutine, die die Existenzphilosophin und Schriftstellerin Simone de Beauvoir täglich in ihrem Lieblingscafé in Paris bei einer Tasse Tee praktizierte, und erkunden Sie die neurologischen Mechanismen sanften weißen Rauschens sowie Methoden zum Aufbau Ihrer eigenen Fokus-Zone.",
+        "authority": "Historische Überprüfung aus Simone de Beauvoirs Autobiografie *Die Macht der Dinge (La Force des choses)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+        "intro": "\"Um 10 Uhr morgens ging ich ins Café de Flore. Auf diesem kleinen Tisch begannen meine Gedanken endlich Gestalt anzunehmen.\" ☕\n\nSimone de Beauvoir (1908–1986) war eine bedeutende französische Philosophin und Schriftstellerin, die mit 'Das andere Geschlecht' den modernen Feminismus neudefinierte und mit ihrem Roman 'Die Mandarins von Paris' den renommierten Prix Goncourt gewann. Bekannt für ihre präzise Logik und scharfsinnige Prosa, entstand ihr Zustand höchster Konzentration nicht in einem prunkvollen privaten Arbeitszimmer, sondern an einem Ecktisch in einem belebten Pariser Café in Saint-Germain-des-Prés.\n\nJeden Morgen um 10 Uhr ging Beauvoir in ihr Stammcafé, das Café de Flore, wie zu einem geregelten Arbeitstag. An ihrem gewohnten ruhigen Ecktisch sitzend, bei einer Tasse warmem Tee, vertiefte sie sich vier Stunden lang ununterbrochen bis 14 Uhr in das Schreiben. Das Café-Personal beschränkte Bedienungen auf ein Minimum, um ihren kreativen Fluss nicht zu stören, während das leise Gemurmel der Gespräche und das Klappern der Tassen als hervorragendes weißes Rauschen dienten – störende Gedanken wurden ausgelöscht und die Isolation tiefer Arbeit gemildert. Für Beauvoir war das Café kein Ort der Ablenkung, sondern ein Zufluchtsort, an dem sie ihre Umgebung vereinfachen und sich ganz dem fokussierten Denken hingeben konnte.\n\nIm heutigen Beitrag analysieren wir die neurowissenschaftlichen Grundlagen von Simone de Beauvoirs Routine des 'Schreibens im Café' und stellen einen praktischen 3-Schritte-Aktionsplan vor, mit dem moderne Menschen inmitten ständiger Ablenkungen ihre eigene 'Fokus-Zone (Focus Zone)' einrichten können.",
+        "whyTitle": "Wirkungsmechanismus von weißem Rauschen und kognitiven Skripten",
+        "whyDesc": "Neurowissenschaftlich löst das tägliche Aufsuchen genau derselben physischen Umgebung (ein fester Tisch, ein bestimmtes Getränk) ein 'Kognitives Skript (Cognitive Script)' aus, das Entscheidungsmüdigkeit reduziert und das Gehirn reibungslos in den Hyperfokus überführt. Darüber hinaus stimuliert das sanfte weiße Rauschen von 50 bis 70 Dezibel (dB) in Cafés die Gehirnwellen zur Aktivierung von Alphawellen (Alpha), was Kreativität und Problemlösung fördert. Geringfügige dynamische Aktivitäten in der Nähe aktivieren das Spiegelneuronensystem des Gehirns in angemessener Weise und vermitteln ein Gefühl psychologischer Sicherheit, das die Isolation lindert und die Effizienz von Deep Work maximiert.",
+        "cautionTitle": "Vorsichtsmaßnahmen & Tipps: Warnung vor sozialem Lärm und Sprachlärm",
+        "cautionDesc": "Nicht jeder Lärm ist für das Gehirn von Vorteil. Laute Musik über 70 Dezibel oder deutlich hörbare Gespräche (Sprachlärm, Speech Noise) stören die phonologische Schleife (Phonological Loop) des Gehirns und verringern das Leseverständnis sowie die logischen Schreibfähigkeiten. Wählen Sie einen Ort mit einem ruhigen Lärmpegel, oder nutzen Sie bei deutlichen Gesprächsgeräuschen Noise-Cancelling-Kopfhörer, um kognitive Störungen zu umgehen.",
+        "steps": [
+          {
+            "title": "Schritt 1: Auswahl Ihres persönlichen fokusoptimierten Orts",
+            "desc": "Bestimmen Sie 1-2 Orte in der Nähe von Zuhause oder der Arbeit, die über Tische in angenehmer Höhe verfügen und ein sanftes, nicht störendes Hintergrundgeräusch ohne laute Musik aufweisen."
+          },
+          {
+            "title": "Schritt 2: Aufbau eines Einstiegsskripts für den Hyperfokus",
+            "desc": "Legen Sie eine feste Routine fest – wie das Hinsetzen, das Bestellen eines bestimmten Getränks (z. B. Kräutertee oder Americano) und das Einrichten Ihrer Arbeitsmittel –, um Ihr Gehirn dazu zu bringen, automatisch den Fokus-Schalter umzulegen."
+          },
+          {
+            "title": "Schritt 3: Ausführung von tiefem Fokus & Ausführen von Lärm-Notfallplänen",
+            "desc": "Führen Sie Ihre Aufgaben über einen festgelegten Zeitblock (2-4 Stunden) fokussiert aus und aktivieren Sie bei überschrittenem Lärmpegel sofort Noise-Cancelling-Geräte, um Ihren kognitiven Zustand zu schützen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum wählte Simone de Beauvoir das Café de Flore als ihren Schreibort?",
+            "answer": "Während der strengen Kälte im Paris der 1940er Jahre hielt das Café de Flore seinen Ofen warm und bot eine künstlerfreundliche Atmosphäre, in der Intellektuelle ohne Druck stundenlang verweilen konnten, was es zu einem idealen Ort für kreatives Schaffen machte."
+          },
+          {
+            "question": "Kann ich ein ähnliches Kognitives Skript in einer Homeoffice-Umgebung umsetzen?",
+            "answer": "Ja, absolut. Sie können denselben kognitiven Umschalteffekt zu Hause erzielen, indem Sie eine bestimmte Schreibtischlampe in einer dedicated Ecke einschalten, eine spezielle Fokus-Tasse verwenden und weißes Rauschen mit 50-60 dB abspielen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Imersão no Ruído: A Rotina de Ruído Branco em Cafés e Simplificação Ambiental de Simone de Beauvoir",
+        "description": "Descubra a rotina de escrita que a filósofa existencialista e romancista Simone de Beauvoir praticava diariamente em seu café favorito em Paris com uma xícara de chá, e explore os mecanismos neurológicos do ruído branco suave junto com métodos para construir sua própria Zona de Foco.",
+        "authority": "Verificação Histórica da Autobiografia de Simone de Beauvoir *A Força das Coisas (La Force des choses)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+        "intro": "\"Às 10 horas da manhã, eu ia para o Café de Flore. Sobre aquela pequena mesa, meus pensamentos finalmente começavam a ganhar forma.\" ☕\n\nSimone de Beauvoir (1908–1986) foi uma influente filósofa e romancista francesa que redefiniu o feminismo moderno com 'O Segundo Sexo' e venceu o prestigiado Prêmio Goncourt com o romance 'Os Mandarins', deixando uma marca monumental no existencialismo do século XX. Reconhecida por sua lógica rigorosa e escrita incisiva, seu estado de hiperfoco não foi forjado num suntuoso escritório particular, mas no canto de um movimentado café parisiense em Saint-Germain-des-Prés.\n\nTodas as manhãs, às 10h, Beauvoir caminhava até seu local favorito, o Café de Flore, como se estivesse indo para o trabalho. Sentada em sua mesa de canto tranquila de sempre com uma xícara de chá quente, ela mergulhava na escrita por quatro horas seguidas até as 14h. Os funcionários do café minimizavam o atendimento para proteger seu fluxo criativo, enquanto o murmúrio suave das conversas e o tilintar das xícaras serviam como um excelente ruído branco — apagando pensamentos dispersos e suavizando o isolamento do trabalho profundo. Para Beauvoir, o café não era um lugar de distração, mas um santuário onde ela podia simplificar seu ambiente e se dedicar inteiramente ao pensamento focado.\n\nNo artigo de hoje, analisamos os princípios neurocientíficos da rotina de 'escrita em café' de Simone de Beauvoir e apresentamos um plano de ação prático de 3 passos para as pessoas modernas estabelecerem sua própria 'Zona de Foco (Focus Zone)' em meio a distrações constantes.",
+        "whyTitle": "Mecanismo de Funcionamento do Ruído Branco e dos Scripts Cognitivos",
+        "whyDesc": "Do ponto de vista neurocientífico, enfrentar o mesmo ambiente físico diariamente (uma mesa fixa, uma bebida específica) aciona um 'Script Cognitivo (Cognitive Script)' que reduz a fadiga de decisão e transita o cérebro suavemente para o hiperfoco. Além disso, o ruído branco suave de 50 a 70 decibéis (dB) típico dos cafés estimula as ondas cerebrais ativando as ondas alfa (Alpha), o que induz a criatividade e a resolução de problemas. A atividade dinâmica moderada ao redor estimula adequadamente o sistema de neurônios-espelho, proporcionando uma sensação de segurança psicológica que alivia o isolamento e maximiza a eficiência do Trabalho Profundo (Deep Work).",
+        "cautionTitle": "Precauções e Dicas: Cuidado com o Ruído Social e o Ruído da Fala",
+        "cautionDesc": "Nem todo ruído é benéfico para o cérebro. Músicas altas acima de 70 decibéis ou conversas claramente audíveis (Ruído da Fala, Speech Noise) interferem na alça fonológica (Phonological Loop) do cérebro, diminuindo a compreensão leitora e a capacidade de escrita lógica. Escolha um local onde reine um nível de ruído calmo ou, se as conversas forem proeminentes, use fones de ouvido com cancelamento de ruído para evitar interferências cognitivas.",
+        "steps": [
+          {
+            "title": "Passo 1: Seleção do Seu Local Otimizado para o Foco",
+            "desc": "Designe 1 ou 2 locais candidatos perto de casa ou do trabalho que contem com mesas em altura confortável e mantenham um ruído de fundo suave sem música alta."
+          },
+          {
+            "title": "Passo 2: Construção de um Script de Entrada para o Hiperfoco",
+            "desc": "Fixe uma sequência rotineira de ações — como sentar-se à mesa, pedir uma bebida específica (ex.: chá de ervas ou café) e preparar suas ferramentas — para levar o cérebro a ligar automaticamente o interruptor de foco."
+          },
+          {
+            "title": "Passo 3: Execução do Foco Profundo e Implantação de Planos Contingentes de Ruído",
+            "desc": "Execute suas tarefas com foco durante um bloco de tempo definido (2-4 horas) e, se o ruído ao redor ultrapassar os níveis aceitáveis, ative imediatamente dispositivos de cancelamento de ruído para proteger seu estado cognitivo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que Simone de Beauvoir escolheu o Café de Flore como seu espaço de escrita?",
+            "answer": "Durante o frio rigoroso da década de 1940 em Paris, o Café de Flore mantinha seu aqor quente e oferecia uma atmosfera acolhedora para os artistas, onde os intelectuais podiam ficar por horas sem pressão, tornando-o um espaço de criação ideal."
+          },
+          {
+            "question": "Posso implementar um Script Cognitivo semelhante em um ambiente de trabalho em casa ou remoto?",
+            "answer": "Sim, com certeza. Você pode induzir o mesmo efeito de alternância cognitiva em casa simplesmente ligando uma luminária de mesa específica em um canto dedicado, usando uma xícara exclusiva para o foco e reproduzindo faixas de ruído branco de 50 a 60 dB."
+          }
+        ]
+      },
+      "id": {
+        "title": "Imersi di Tengah Kebisingan: Rutinitas White Noise Kafe dan Penyederhanaan Lingkungan ala Simone de Beauvoir",
+        "description": "Pelajari rutinitas menulis yang dipraktikkan filsuf eksistensialis dan novelis Simone de Beauvoir setiap hari di kafe favoritnya di Paris sambil menikmati secangkir teh, serta temukan mekanisme neurologis white noise lembut beserta metode untuk membangun Focus Zone pribadi Anda.",
+        "authority": "Verifikasi Historis dari Autobiografi Simone de Beauvoir *La Force des choses* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)",
+        "intro": "\"Pada pukul 10 pagi, saya akan pergi ke Café de Flore. Di atas meja kecil itu, pikiran saya akhirnya mulai terbentuk.\" ☕\n\nSimone de Beauvoir (1908–1986) adalah filsuf dan novelis Prancis terkemuka yang membentuk kembali feminisme modern melalui 'The Second Sex' dan memenangkan Prix Goncourt yang bergengsi lewat novelnya 'The Mandarins', meninggalkan jejak monumental dalam eksistensialisme abad ke-20. Terkenal dengan logika yang ketat dan tulisan yang tajam, kondisi konsentrasi tingginya tidak ditempa di dalam ruang kerja pribadi yang megah, melainkan di sudut kafe Paris yang ramah di Saint-Germain-des-Prés.\n\nSetiap pagi pukul 10.00, Beauvoir berjalan menuju tempat favoritnya, Café de Flore, seolah-olah hendak bekerja. Duduk di meja sudut yang tenang seperti biasa dengan secangkir teh hangat, ia membenamkan diri dalam menulis selama empat jam penuh hingga pukul 14.00. Staf kafe meminimalkan gangguan layanan untuk melindungi alur kreatifnya, sementara gumaman lembut percakapan dan gemerincing cangkir berfungsi sebagai white noise yang luar biasa—menghapus pikiran yang buyar dan melembutkan isolasi dari kerja mendalam. Bagi Beauvoir, kafe bukanlah tempat yang mengganggu, melainkan sebuah tempat suci di mana ia dapat menyederhanakan lingkungannya dan menarik diri sepenuhnya ke dalam pemikiran yang terfokus.\n\nDalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains di balik rutinitas 'menulis di kafe' Simone de Beauvoir dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern untuk membangun 'Focus Zone' mereka sendiri di tengah gangguan yang tiada henti.",
+        "whyTitle": "Mekanisme Kerja White Noise dan Skrip Kognitif",
+        "whyDesc": "Secara neurosains, menghadapi lingkungan fisik yang sama persis setiap hari (meja tetap, minuman tertentu) memicu 'Skrip Kognitif (Cognitive Script)' yang mengurangi kelelahan keputusan dan mentransisikan otak secara mulus ke dalam hyperfocus. Selain itu, white noise lembut sebesar 50 hingga 70 desibel (dB) yang khas di kafe merangsang gelombang otak untuk mengaktifkan gelombang alfa (Alpha), memicu kreativitas dan pemecahan masalah. Aktivitas dinamis tingkat rendah di sekitar secara tepat mengaktifkan sistem neuron cermin otak, memberikan rasa aman secara psikologis yang meredakan isolasi dan memaksimalkan efisiensi Deep Work.",
+        "cautionTitle": "Perhatian & Tip: Waspada Terhadap Kebisingan Sosial dan Kebisingan Percakapan",
+        "cautionDesc": "Tidak semua kebisingan bermanfaat bagi otak. Musik keras yang melebihi 70 desibel atau percakapan orang lain yang terdengar jelas (Speech Noise) mengganggu lingkar fonologis (Phonological Loop) otak, menurunkan pemahaman bacaan dan kemampuan menulis logis. Pilihlah tempat dengan tingkat kebisingan yang tenang, atau jika suara percakapan menonjol, gunakan earphone noise-canceling untuk menghindari gangguan kognitif.",
+        "steps": [
+          {
+            "title": "Langkah 1: Memilih Tempat yang Dioptimalkan untuk Fokus",
+            "desc": "Tentukan 1-2 lokasi kandidat di dekat rumah atau tempat kerja yang memiliki meja dengan ketinggian nyaman dan menjaga kebisingan latar belakang yang lembut tanpa musik keras."
+          },
+          {
+            "title": "Langkah 2: Membangun Skrip Masuk Khusus Hyperfocus",
+            "desc": "Tetapkan urutan tindakan rutin—seperti duduk di meja, memesan minuman tertentu (misalnya teh herbal atau americano), dan menyiapkan alat kerja Anda—untuk mendorong otak mengaktifkan sakelar fokus secara otomatis."
+          },
+          {
+            "title": "Langkah 3: Mengeksekusi Fokus Mendalam & Menjalankan Rencana Kontinjensi Kebisingan",
+            "desc": "Eksekusi tugas Anda dengan fokus selama blok waktu yang ditentukan (2-4 jam), dan jika kebisingan di sekitar melebihi tingkat yang dapat diterima, segera aktifkan perangkat noise-canceling untuk melindungi kondisi kognitif Anda."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa Simone de Beauvoir memilih Café de Flore sebagai ruang menulisnya?",
+            "answer": "Selama cuaca dingin yang parah di Paris tahun 1940-an, Café de Flore menjaga pemanas ruangan tetap hangat dan menawarkan suasana ramah seniman di mana kaum intelektual dapat bertahan berjam-jam tanpa tekanan, menjadikannya ruang kreasi yang ideal."
+          },
+          {
+            "question": "Apakah saya dapat menerapkan Skrip Kognitif yang serupa di lingkungan rumah atau kerja jarak jauh?",
+            "answer": "Ya, tentu saja. Anda dapat memicu efek pengalihan kognitif yang sama di rumah hanya dengan menyalakan lampu meja khusus di sudut tertentu, menggunakan cangkir khusus fokus, dan memutar trek white noise 50-60 dB."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "시몬 드 보부아르는 왜 카페 드 플로르를 집필 장소로 선택했나요?",
-          "en": "Why did Simone de Beauvoir choose Café de Flore as her writing space?",
-          "ja": "シモーヌ・ド・ボーヴォワールはなぜカフェ・ド・フロールを執筆場所として選んだのですか？",
-          "zh": "西蒙娜·德·波伏娃为何选择花神咖啡馆作为写作场所？",
-          "es": "¿Por qué Simone de Beauvoir eligió el Café de Flore como su espacio de escritura?",
-          "de": "Warum wählte Simone de Beauvoir das Café de Flore als ihren Schreibort?",
-          "fr": "Pourquoi Simone de Beauvoir a-t-elle choisi le Café de Flore comme espace d'écriture ?",
-          "pt": "Por que Simone de Beauvoir escolheu o Café de Flore como seu espaço de escrita?",
-          "id": "Mengapa Simone de Beauvoir memilih Café de Flore sebagai ruang menulisnya?"
-        },
-        "answer": {
-          "ko": "1940년대 파리의 혹한기 당시 카페 드 플로르는 난로를 따뜻하게 유지해 주었고, 예술가와 지식인들이 오래 머물러도 눈치를 주지 않는 분위기였기에 가장 상쾌하고 안정적인 창작 공간이 되었습니다.",
-          "en": "During the severe cold of 1940s Paris, Café de Flore kept its indoor stove warm and offered an artist-friendly atmosphere where intellectuals could stay for hours without pressure, making it an ideal, stable space for creative work.",
-          "ja": "1940年代のパリの極寒期当時、カフェ・ド・フロールはストーブを暖かく保ち、アーティストや知識人が長居しても気兼ねさせない雰囲気であったため、最も快適で安定した創作空間となりました。",
-          "zh": "在20世纪40年代巴黎严寒时期，花神咖啡馆室内炉火通明，且拥有对艺术家与知识分子极其友好的氛围，允许他们长时间停留而不施加压力，因此成为最理想稳定的创作空间。",
-          "es": "Durante los crudos inviernos de la década de 1940 en París, el Café de Flore mantenía su estufa cálida y ofrecía un ambiente acogedor para los artistas donde los intelectuales podían quedarse durante horas sin presiones, convirtiéndolo en un espacio ideal para la creación.",
-          "de": "Während der strengen Kälte im Paris der 1940er Jahre hielt das Café de Flore seinen Ofen warm und bot eine künstlerfreundliche Atmosphäre, in der Intellektuelle ohne Druck stundenlang verweilen konnten, was es zu einem idealen Ort für kreatives Schaffen machte.",
-          "fr": "Pendant le froid rigoureux du Paris des années 1940, le Café de Flore maintenait son poêle chaud et offrait une atmosphère accueillante pour les artistes, où les intellectuels pouvaient rester des heures sans pression, en faisant un espace de création idéal.",
-          "pt": "Durante o frio rigoroso da década de 1940 em Paris, o Café de Flore mantinha seu aqor quente e oferecia uma atmosfera acolhedora para os artistas, onde os intelectuais podiam ficar por horas sem pressão, tornando-o um espaço de criação ideal.",
-          "id": "Selama cuaca dingin yang parah di Paris tahun 1940-an, Café de Flore menjaga pemanas ruangan tetap hangat dan menawarkan suasana ramah seniman di mana kaum intelektual dapat bertahan berjam-jam tanpa tekanan, menjadikannya ruang kreasi yang ideal."
-        }
-      },
-      {
-        "question": {
-          "ko": "집이나 재택근무 환경에서도 동일한 인지 스크립트를 구현할 수 있나요?",
-          "en": "Can I implement a similar Cognitive Script in a home or remote work environment?",
-          "ja": "自宅やリモートワークの環境でも同じ認知スクリプトを実装できますか？",
-          "zh": "在家庭或居家办公环境中也能实现相同的认知脚本吗？",
-          "es": "¿Puedo implementar un Guión Cognitivo similar en un entorno de trabajo desde casa o remoto?",
-          "de": "Kann ich ein ähnliches Kognitives Skript in einer Homeoffice-Umgebung umsetzen?",
-          "fr": "Puis-je mettre en œuvre un Script Cognitif similaire dans un environnement de télétravail ou à domicile ?",
-          "pt": "Posso implementar um Script Cognitivo semelhante em um ambiente de trabalho em casa ou remoto?",
-          "id": "Apakah saya dapat menerapkan Skrip Kognitif yang serupa di lingkungan rumah atau kerja jarak jauh?"
-        },
-        "answer": {
-          "ko": "네, 가능합니다. 집안의 특정 책상 구석에 스탠드 조명을 켜두거나, 집중 시에만 사용하는 전용 컵을 지정하고, 50~60dB 대역의 백색 소음 음원을 재생하는 행동 시퀀스만으로도 동일한 인지 스위칭 효과가 유도됩니다.",
-          "en": "Yes, absolutely. You can induce the same cognitive switching effect at home simply by turning on a specific desk lamp in a dedicated corner, using a designated focus mug, and playing 50-60 dB ambient white noise tracks.",
-          "ja": "はい、可能です。家の中の特定のデスクの角にスタンドライトを点けたり、集中時にのみ使用する専用カップを指定し、50〜60dB帯域の白色雑音音源を再生する行動シーケンスだけで、同じ認知スイッチング効果が誘導されます。",
-          "zh": "当然可以。只需在房间特定角落开启专用台灯，使用专用于专注的马克杯，并播放50-60分贝的背景白噪音音轨，这一套行为序列即可产生同样的认知切换效果。",
-          "es": "Sí, por supuesto. Puede inducir el mismo efecto de cambio cognitivo en casa simplemente encendiendo una lámpara de escritorio específica en una esquina dedicada, utilizando una taza designada para el enfoque y reproduciendo pistas de ruido blanco de 50 a 60 dB.",
-          "de": "Ja, absolut. Sie können denselben kognitiven Umschalteffekt zu Hause erzielen, indem Sie eine bestimmte Schreibtischlampe in einer dedicated Ecke einschalten, eine spezielle Fokus-Tasse verwenden und weißes Rauschen mit 50-60 dB abspielen.",
-          "fr": "Oui, tout à fait. Vous pouvez induire le même effet de commutation cognitive à la maison en allumant une lampe de bureau spécifique dans un coin dédié, en utilisant un mug réservé à la focalisation et en diffusant du bruit blanc de 50 à 60 dB.",
-          "pt": "Sim, com certeza. Você pode induzir o mesmo efeito de alternância cognitiva em casa simplesmente ligando uma luminária de mesa específica em um canto dedicado, usando uma xícara exclusiva para o foco e reproduzindo faixas de ruído branco de 50 a 60 dB.",
-          "id": "Ya, tentu saja. Anda dapat memicu efek pengalihan kognitif yang sama di rumah hanya dengan menyalakan lampu meja khusus di sudut tertentu, menggunakan cangkir khusus fokus, dan memutar trek white noise 50-60 dB."
-        }
-      }
-    ]
+    }
   }
 }

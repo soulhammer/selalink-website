@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "完全黑暗中的发明：亚历山大·格拉汉姆·贝尔的午夜感官剥夺与深度工作"
 description: "探索发明电话并改变人类沟通范式的亚历山大·格拉汉姆·贝尔，如何通过“午夜完全黑暗”深度工作法消除白天的感官过载并唤醒大脑执行功能，揭示感官剥夺（Sensory Deprivation）的神经科学机制。"
 pubDate: "2026-05-12"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 bell-midnight-darkness 的内容基于 <strong>罗伯特·V·布鲁斯传记《贝尔（Bell: Alexander Graham Bell and the Conquest of Solitude）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>罗伯特·V·布鲁斯传记《贝尔（Bell: Alexander Graham Bell and the Conquest of Solitude）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过视觉与听觉阻断激活时空画板回路
+## 1. 通过视觉与听觉阻断激活时空画板回路
 
 从神经科学层面来看，一时阻断由眼耳输入的外部感官刺激，能促使大脑将此前消耗于感官接收器的注意力重新分配至高阶联合皮层。这种感官剥夺（Sensory Deprivation）状态可抑制杏仁核的焦虑反应，并强效激活工作记忆的核心回路——“时空画板（Visuospatial Sketchpad）”。结果，前额叶皮层在脑海中三维可视化并构建复杂机械结构或创意的执行控制功能得到了飞跃性的提升。
 
 ---
 
-## 注意事项与提示：防止在完全黑暗中转化为睡眠
-
-在完全黑暗中躺下，极易使大脑误判为睡眠环境并转入慢波睡眠。因此，在实践这项感官剥夺习惯时，建议选择有靠背的椅子端坐而非躺在床上。若睡意袭来，可通过捏紧并松开手指等轻微触觉运动来保持认知觉醒状态。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：防止在完全黑暗中转化为睡眠
+
+在完全黑暗中躺下，极易使大脑误判为睡眠环境并转入慢波睡眠。因此，在实践这项感官剥夺习惯时，建议选择有靠背的椅子端坐而非躺在床上。若睡意袭来，可通过捏紧并松开手指等轻微触觉运动来保持认知觉醒状态。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>这项感官剥夺习惯必须每天在固定时间践行才有效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       每天在相同时间践行能训练大脑将该时段识记为感官暂停与深度工作的特定时刻，从而加快认知切换速度。不过，即使时间不固定，在面临极度压力或认知过载时将其作为应急的大脑休息与构思工具，同样能产生显著效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在无法彻底排除周围噪音的环境中该如何应对？</span>

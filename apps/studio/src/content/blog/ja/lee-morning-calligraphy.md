@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "筆先に込めた経営哲学：李秉喆（イ・ビョンチョル）の朝の書道儀式と一次運動野の覚醒"
 description: "サムスンを創業した李秉喆（イ・ビョンチョル）会長が毎日朝欠かさなかった毛筆瞑想。精巧な筆のストロークを扱う微細運動操作が脳波を安定させ、前頭前野の理性的実行機能を呼び覚ます脳科学的原理と3段階実践法を解き明かします。"
 pubDate: "2026-05-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「lee-morning-calligraphy」は <strong>湖岩自伝『湖岩自伝（Ho-Am Jajeon）』およびサムスングループ・アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）および運動制御学（Motor Control Science）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>湖岩自伝『湖岩自伝（Ho-Am Jajeon）』およびサムスングループ・アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）および運動制御学（Motor Control Science）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 一次運動野（Primary Motor Cortex）稼働と前頭前野・自律神経系リラックスの脳科学
+## 1. 一次運動野（Primary Motor Cortex）稼働と前頭前野・自律神経系リラックスの脳科学
 
 毛筆は金属製ペンとは異なり、柔軟な筆の毛の張力と一画の速度、力の強弱を小数点単位で精密に調律しなければならない高度な微細運動タスクです。この過程は大脳皮質の<strong>一次運動野（Primary Motor Cortex）</strong>と<strong>小脳（Cerebellum）</strong>の神経網を集中稼働させ、不必要な繁雑さと雑念の流入を生理学的に統制します。また、筆先の摩擦と墨の触覚・視覚・聴覚の複合フィードバックは<strong>自律神経系（Autonomic Nervous System）</strong>をリラックスさせ、<strong>前頭前野（Prefrontal Cortex）</strong>の実行統制力を静かに覚醒させ、冷徹な理性と明確な判断力で経営的思索を整えるよう助けます。
 
 ---
 
-## 注意事項：文字の完璧さへの執着を排除し指先の感覚運動の流れに没頭するルール
-
-書道瞑想を行う際、文字の美しさや完成度自体に拘泥して自ら評価し自責する自己批判の誤りに陥ると、リラックス効果が低下します。書道ルーティンは芸術作品の創作ではなく、筆先と指の微細な力調節に意識を集める感覚運動的マインドフルネスの過程です。形状の歪みに頓着せず、筆が動く摩擦感覚自体に没頭する態度が核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：文字の完璧さへの執着を排除し指先の感覚運動の流れに没頭するルール
+
+書道瞑想を行う際、文字の美しさや完成度自体に拘泥して自ら評価し自責する自己批判の誤りに陥ると、リラックス効果が低下します。書道ルーティンは芸術作品の創作ではなく、筆先と指の微細な力調節に意識を集める感覚運動的マインドフルネスの過程です。形状の歪みに頓着せず、筆が動く摩擦感覚自体に没頭する態度が核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>書道道具が家に全くありませんが、代替できる日常道具はありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       万年筆やディップペン（Dip Pen）、あるいは厚手の紙と鉛筆だけでも完璧に代替可能です。核心は筆記時に紙とペン先の間に伝わる微細な摩擦力（Friction）と指先の力の配分を脳がリアルタイムで自覚することにあります。カリカリという触覚フィードバックが明瞭な筆記具であれば、書道と同じ神経系安定効果を引き出すことができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>なぜ夜や夕方の時間より朝の起床直後にこの書道ルーティンを実践するのが良いのです？</span>

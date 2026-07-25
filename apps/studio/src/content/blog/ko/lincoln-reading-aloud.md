@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "책을 소리 내어 크게 읽은 대통령: 링컨의 전두엽 활성 독서 습관과 생산 효과(Production Effect)"
 description: "눈과 귀를 동시에 사용하여 기억력을 극대화한 에이브러햄 링컨. 낭독을 통해 브로카 영역을 자극하고 생산 효과(Production Effect) 및 이중 표상(Dual Representation)을 형성하여 정보 기억도를 향상시킨 뇌과학적 원리와 5분 낭독 실천법을 공개합니다."
 pubDate: "2026-04-26"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>데이비드 도널드 『링컨 평전(Lincoln)』 및 윌리엄 헌돈 회고록 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 언어심리학(Psycholinguistics) 연구</strong>에 근거하여 lincoln-reading-aloud 루틴을 다룹니다.
+      본 콘텐츠는 <strong>데이비드 도널드 『링컨 평전(Lincoln)』 및 윌리엄 헌돈 회고록 사료 고증 & 인지신경과학(Cognitive Neuroscience) 및 언어심리학(Psycholinguistics) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 생산 효과(Production Effect)와 이중 표상(Dual Representation)의 뇌과학
+## 1. 생산 효과(Production Effect)와 이중 표상(Dual Representation)의 뇌과학
 
 글을 단순히 눈으로 훑는 행위는 뇌의 인지 구조에서 정보 처리 단계를 최소화하는 수동적인 독서입니다. 반면 텍스트를 성대로 발음하고 자신의 귀로 다시 받아들이는 정교한 언어 운동 과정은 뇌과학에서 <strong>생산 효과(Production Effect)</strong>로 불리는 강력한 기억 보강 메커니즘을 작동시킵니다. 소리 내어 읽는 순간 뇌는 <strong>브로카 영역(Broca's Area)</strong>과 운동 피질, 청각 피질을 동시에 가동하며, <strong>전전두엽(Prefrontal Cortex)</strong>의 <strong>작업 기억(Working Memory)</strong> 영역에 강인한 <strong>이중 표상(Dual Representation)</strong>을 형성하여 정보가 <strong>장기 기억(Long-Term Memory)</strong>으로 안착하는 인지적 문턱을 크게 낮춥니다.
 
 ---
 
-## 속독에 대한 집착을 배제하고 또렷한 성대 발성에 집중하는 수칙
-
-글을 단순히 눈으로 빠르게 훑는 속독에 집착하면 생산 효과(Production Effect)의 신경학적 이점이 소실됩니다. 낭독 리추얼에서는 빠르기보다 성대의 미세한 진동, 명확한 음절 발음, 그리고 자신의 목소리가 귀로 재입력되는 역피드백 감각 자체에 온전히 몰입하는 것이 전전두엽 인지 회로를 제대로 각성시키는 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 속독에 대한 집착을 배제하고 또렷한 성대 발성에 집중하는 수칙
+
+글을 단순히 눈으로 빠르게 훑는 속독에 집착하면 생산 효과(Production Effect)의 신경학적 이점이 소실됩니다. 낭독 리추얼에서는 빠르기보다 성대의 미세한 진동, 명확한 음절 발음, 그리고 자신의 목소리가 귀로 재입력되는 역피드백 감각 자체에 온전히 몰입하는 것이 전전두엽 인지 회로를 제대로 각성시키는 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>어떤 책을 낭독하는 것이 뇌 각성에 가장 효과적인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       소설이나 단순 에세이보다는 문장이 정밀하고 논리적 농도가 높은 인문학적 텍스트, 혹은 전공 서적이나 업무용 보고서 일부를 낭독하는 것이 전전두엽 인지 가소성 향상에 가장 효과적입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>사무실이나 도서관처럼 큰 소리를 낼 수 없는 환경에서는 어떻게 하나요?</span>

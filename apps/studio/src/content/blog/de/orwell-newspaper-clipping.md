@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Schriftsteller, der jeden Morgen die Zeitung mit der Schere ausschneidet? George Orwells Wissens-Schema-Methode"
 description: "Der Schriftsteller George Orwell las jeden Morgen mehrere Zeitungen und schnitt Artikel mit der Schere aus, um sie in Sammelalben zu ordnen. Entdecken Sie die Prinzipien des Präfrontalkortex beim Aufbau organischer Wissensschemata und moderne digitale Clipping-Routinen."
 pubDate: "2026-03-13"
@@ -35,25 +36,23 @@ In diesem Beitrag untersuchen wir die neurowissenschaftlichen Grundlagen von Geo
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu orwell-newspaper-clipping basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung zu George Orwell & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Aufzeichnungsprüfung zu George Orwell & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Gehirnwissenschaft der Informationskodierung und Schemata
+## 1. Gehirnwissenschaft der Informationskodierung und Schemata
 
 Das bloße Überfliegen digitaler Artikel hinterlässt Informationen nur kurz im Kurzzeitgedächtnis, bevor das meiste verschwindet. Das aktive Auswählen, 'Ausschneiden' (physische oder digitale Aktion) und Kategorisieren löst hingegen eine <strong>'tiefe Kodierung (Deep Encoding)'</strong> im Gehirn aus. Diese Strukturierung verankert Daten im Langzeitgedächtnis der Großhirnrinde und baut ein <strong>'Schema-Netzwerk'</strong> mit bestehendem Wissen auf. Ein Gehirn mit ausgeprägten Schemata erfasst neue Zusammenhänge schneller, erkennt Kernprobleme und zeigt hohe liquide Intelligenz beim Abrufen von Hintergrundwissen für Texte oder Entscheidungen.
 
 ---
 
-## Die Falle blinder Sammelsucht
-
-Das bloße Speichern von Links oder Artikeln in Ordnern per Mausklick führt zur 'Sammler-Täuschung (Collector's Fallacy)' – das Gehirn glaubt fälschlicherweise, Wissen zu besitzen. Nur wenn Sie Informationen selbst zusammenfassen oder mit eigenen Worten kommentieren, stimulieren Sie das Gehirn kognitiv und wandeln die Daten in ein echtes Wissensschema um.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das bloße Speichern von Links oder Artikeln in Ordnern per Mausklick führt zur
   </p>
 </div>
 
+---
+
+## 3. Die Falle blinder Sammelsucht
+
+Das bloße Speichern von Links oder Artikeln in Ordnern per Mausklick führt zur 'Sammler-Täuschung (Collector's Fallacy)' – das Gehirn glaubt fälschlicherweise, Wissen zu besitzen. Nur wenn Sie Informationen selbst zusammenfassen oder mit eigenen Worten kommentieren, stimulieren Sie das Gehirn kognitiv und wandeln die Daten in ein echtes Wissensschema um.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Sind die tatsächlichen Sammelalben von George Orwell heute noch erhalten?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das bloße Speichern von Links oder Artikeln in Ordnern per Mausklick führt zur
       Ja, von George Orwell gesammelte Artikel, Kopien seiner handgeschnittenen Alben und Notizen werden als wertvolles historisches Archiv am University College London (UCL) aufbewahrt.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Welche Apps werden empfohlen, um diese Clipping-Routine digital umzusetzen?</span>

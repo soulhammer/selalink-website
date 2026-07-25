@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inmersión geométrica de Blaise Pascal: Cómo borrar el dolor y el estrés del cerebro con tareas de alta dificultad"
 description: "Descubra el hecho histórico del genio del siglo XVII Blaise Pascal superando severos dolores de muelas y cabeza mediante una profunda inmersión matemática, y el principio científico de la Puerta Atencional."
 pubDate: "2026-06-06"
@@ -38,22 +39,20 @@ Una noche de 1658, cuando volvió a sufrir un insoportable dolor de muelas, Pasc
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre pascal-math-focus se basa en <strong>Investigación de registros biográficos e históricos de Pascal Math Focus y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de registros biográficos e históricos de Pascal Math Focus y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La razón científica por la que la inmersión cognitiva de alta dificultad compensa el malestar físico y mental
+## 1. La razón científica por la que la inmersión cognitiva de alta dificultad compensa el malestar físico y mental
 
 La neurociencia moderna explica esto a través de la 'Teoría de Puerta Atencional'. Cuando la corteza prefrontal humana se compromete al 100% en una tarea cognitiva de alta dificultad, la red neuronal del tálamo bloquea activamente las señales sensoriales de dolor y estrés de nivel inferior.
 
 ---
 
-## Precauciones de la inmersión de Pascal y consejos de neurociencia
-
-Cuando irrumpan pensamientos distractores o estrés, no intente reprimirlos por la fuerza. Cambie de inmediato a un cuestionario o tarea de lectura de alta dificultad que utilice el 100% de su memoria de trabajo, activando la válvula de bloqueo sensorial de su cerebro durante 15 a 20 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Cuando irrumpan pensamientos distractores o estrés, no intente reprimirlos por 
   </p>
 </div>
 
+---
+
+## 3. Precauciones de la inmersión de Pascal y consejos de neurociencia
+
+Cuando irrumpan pensamientos distractores o estrés, no intente reprimirlos por la fuerza. Cambie de inmediato a un cuestionario o tarea de lectura de alta dificultad que utilice el 100% de su memoria de trabajo, activando la válvula de bloqueo sensorial de su cerebro durante 15 a 20 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Este método también es eficaz para el estrés laboral diario o la ansiedad?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Cuando irrumpan pensamientos distractores o estrés, no intente reprimirlos por 
       Sí, lo es. El mecanismo de puerta del tálamo bloquea no solo el dolor físico, sino también la ansiedad psicológica y las señales de estrés exactamente de la misma manera.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Durante cuánto tiempo se debe mantener un sprint de inmersión de alta dificultad?</span>

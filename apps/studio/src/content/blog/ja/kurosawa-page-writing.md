@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "巨匠の偉大な始まり：黒澤明監督の毎日2ページシナリオルーティンと扁桃体安定化"
 description: "世界的巨匠・黒澤明監督が毎日実践した1日2ページのシナリオ執筆習慣。目標を極端に細かく分割して扁桃体の脅威反応を抑制し、前頭前野の実行機能を稼働させる脳科学的原理と3段階実践ガイドを紹介します。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「kurosawa-page-writing」は <strong>黒澤明自伝『蝦蟇の油 自伝のようなもの（Something Like an Autobiography）』史料考証＆認知神経科学（Cognitive Neuroscience）および行動心理学（Behavioral Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>黒澤明自伝『蝦蟇の油 自伝のようなもの（Something Like an Autobiography）』史料考証＆認知神経科学（Cognitive Neuroscience）および行動心理学（Behavioral Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 扁桃体（Amygdala）脅威反応抑制と微細目標（Micro-Goal）の脳科学
+## 1. 扁桃体（Amygdala）脅威反応抑制と微細目標（Micro-Goal）の脳科学
 
 目標の規模が過度に巨大であると、脳の感情中枢である<strong>扁桃体（Amygdala）</strong>はこれを巨大な不安や脅威として感知し、無意識的な回避や先延ばし行動を引き起こします。一日2ページ作成のように目標を極端な単位まで下げると、脳の拒絶反応を阻止して<strong>前頭前野（Prefrontal Cortex）</strong>が主導する実行機能を即座に稼働させることができます。このような<strong>微細目標（Micro-Goal）</strong>アプローチは、脳の抑制的行動抵抗を無力化し、長期タスクを完了するのに必要な<strong>実行機能（Executive Function）</strong>を安定して継続させます。
 
 ---
 
-## 注意事項：巨大なタスクの圧迫感を排除し日日の微細目標完遂に集中するルール
-
-プロジェクトの全体規模を想像すると、脳が知的重圧感を感じて試みることすら諦めやすくなります。今日完遂すべきただ一つの小さな微細目標（例：文書2枚作成）にのみ意識を限定してください。無理な意志力に依存するより、毎日決められた時間に2ページを満たす環境条件を構築することこそが、巨大な成果を完成させる本質です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：巨大なタスクの圧迫感を排除し日日の微細目標完遂に集中するルール
+
+プロジェクトの全体規模を想像すると、脳が知的重圧感を感じて試みることすら諦めやすくなります。今日完遂すべきただ一つの小さな微細目標（例：文書2枚作成）にのみ意識を限定してください。無理な意志力に依存するより、毎日決められた時間に2ページを満たす環境条件を構築することこそが、巨大な成果を完成させる本質です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>1日の目標値が2ページ程度と小さすぎると、成果が遅すぎるのではないでしょうか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       そうではありません。目標が大きいと開始に対する負担感から先延ばしにし、全く何も完成できない場合が茶飯事です。極端に小さな目標で毎日行動のきっかけを作ってあげることが1年間累積された時、シナリオ2本分に相当する莫大な複利成果へと繋がります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>執筆だけでなく一般的な会社業務や試験勉強にもこの2ページルーティンを適用できますか？</span>

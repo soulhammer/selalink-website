@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'art de maîtriser le temps : La routine de blocage du temps de Louis XIV et la prévention de la fatigue décisionnelle"
 description: "Découvrez comment le Roi-Soleil Louis XIV a gouverné la France en structurant minutieusement ses 24 heures quotidiennes. Explorez la neuroscience de la prévention de la fatigue décisionnelle et un guide en 3 étapes."
 pubDate: "2026-04-11"
@@ -35,25 +36,23 @@ Dans cet article, nous décryptons la neuroscience sous-jacente au blocage du te
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant louis-time-blocking est basée sur <strong>Vérification Historique issue des *Mémoires pour l'instruction du dauphin* de Louis XIV (1670) et des Mémoires du Duc de Saint-Simon, Archives de Versailles & Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des *Mémoires pour l'instruction du dauphin* de Louis XIV (1670) et des Mémoires du Duc de Saint-Simon, Archives de Versailles & Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bloquer la fatigue décisionnelle et activer les intentions d'implémentation
+## 1. Bloquer la fatigue décisionnelle et activer les intentions d'implémentation
 
 Choisir constamment la tâche suivante épuise le <strong>Cortex Préfrontal</strong>, provoquant una <strong>Fatigue Décisionnelle</strong>. Assigner à l'avance des blocs de temps active les <strong>Intentions d'Implémentation</strong>, prévenant la procrastination et focalisant l'attention.
 
 ---
 
-## Mise en garde : Éviter les emplois du temps saturés et intégrer des temps tampons
-
-Le piège du blocage du temps est la rigidité excessive. Les imprévus risquent de faire s'effondrer tout le programme. Intégrez volontairement 10 à 15 minutes de <strong>Temps Tampon</strong> entre les blocs pour préserver votre <strong>Flexibilité Cognitive</strong>.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le piège du blocage du temps est la rigidité excessive. Les imprévus risquent
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éviter les emplois du temps saturés et intégrer des temps tampons
+
+Le piège du blocage du temps est la rigidité excessive. Les imprévus risquent de faire s'effondrer tout le programme. Intégrez volontairement 10 à 15 minutes de <strong>Temps Tampon</strong> entre les blocs pour préserver votre <strong>Flexibilité Cognitive</strong>.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Le blocage du temps fonctionne-t-il pour les métiers sujets aux urgences ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le piège du blocage du temps est la rigidité excessive. Les imprévus risquent
       Oui, tout à fait ! Réservez 2 à 3 blocs 'Urgences et Traitement par lots'. Restez concentré pendant vos créneaux de travail profond et gérez les imprévus pendant les blocs dédiés.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment surmonter la culpabilité en cas de non-respect de l'emploi du temps ?</span>

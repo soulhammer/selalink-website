@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das große Ganze in turbulenten Zeiten: Dschingis Khans Berggipfel-Visualisierungsroutine und periphere Sehmeditation"
 description: "Erfahren Sie, wie der Eroberer Dschingis Khan vor entscheidenden Schlachten mentale Störgeräusche ausblendete, indem er heilige Berge bestieg. Entdecken Sie die Kognitionspsychologie seiner 'Visuellen Meditation' und der Aufmerksamkeitswiederherstellung."
 pubDate: "2026-04-21"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Kognitionspsychologie hinter Dschingis K
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu genghis-mountain-meditation basiert auf <strong>Historische Überprüfung aus Jack Weatherfords *Dschingis Khan und der Weg in die Moderne*, *Die Geheime Geschichte der Mongolen* & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Jack Weatherfords *Dschingis Khan und der Weg in die Moderne*, *Die Geheime Geschichte der Mongolen* & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aufmerksamkeitswiederherstellungs-Theorie und die Neurowissenschaften mentaler Visualisierung
+## 1. Aufmerksamkeitswiederherstellungs-Theorie und die Neurowissenschaften mentaler Visualisierung
 
 Das Rückziehen in die Natur zur Lärmreduzierung aktiviert die <strong>Aufmerksamkeitswiederherstellungs-Theorie (ART)</strong> und entlastet den präfrontalen Kortex. Das lebendige <strong>mentale Visualisieren</strong> geschaffener Ziele aktiviert zudem vorab dieselben Neuronennetzwerke im <strong>motorischen Kortex</strong> und <strong>visuellen Kortex</strong>, die auch bei der tatsächlichen Ausführung arbeiten. Diese kognitive Simulation verfeinert Unterbewusstseinsabläufe und steigert die Exekutivfunktionen.
 
 ---
 
-## Vorsichtsmaßnahme: Den Tunnelblick durch den Blick auf weite Horizonte durchbrechen
-
-Um die Erholungseffekte visueller Meditation freizusetzen, müssen Sie Ihre Sehweite erweitern. Der Blick auf nahe Bildschirme erzeugt einen 'Tunnelblick', der die Stressachse aktiviert. Genau wie Dschingis Khan über die Steppen blickte, signalisiert das Umschalten auf 'peripheres Sehen' (Panoramablick) auf entfernte Horizontlinien dem Gehirn, Bedrohungssignale abzuschalten.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Um die Erholungseffekte visueller Meditation freizusetzen, müssen Sie Ihre Sehw
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Den Tunnelblick durch den Blick auf weite Horizonte durchbrechen
+
+Um die Erholungseffekte visueller Meditation freizusetzen, müssen Sie Ihre Sehweite erweitern. Der Blick auf nahe Bildschirme erzeugt einen 'Tunnelblick', der die Stressachse aktiviert. Genau wie Dschingis Khan über die Steppen blickte, signalisiert das Umschalten auf 'peripheres Sehen' (Panoramablick) auf entfernte Horizontlinien dem Gehirn, Bedrohungssignale abzuschalten.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was tun, wenn man keinen Zugang zu einem Berggipfel oder einer Dachterrasse hat?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Um die Erholungseffekte visueller Meditation freizusetzen, müssen Sie Ihre Sehw
       Es reicht völlig aus, ein Fenster zu öffnen und mindestens 30 Sekunden lang auf den entferntesten Punkt draußen zu blicken. Entscheidend ist der Wechsel vom 'Tunnelblick' zum 'peripheren Sehen', um Stress abzubauen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was kann ich tun, wenn ich mir beim Visualisieren keine klaren Bilder vorstellen kann?</span>

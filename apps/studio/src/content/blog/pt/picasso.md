@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O método de imersão flexível de Picasso: Mudar de tela instantaneamente quando as ideias estagnam"
 description: "O mestre da arte moderna cofundador do cubismo, que acendia faíscas criativas à noite sob a luz de uma única vela sem distrações."
 pubDate: "2026-02-15"
@@ -31,25 +32,23 @@ No post de hoje, analisamos a neurociência cognitiva por trás do hábito de Pi
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre picasso é baseada em <strong>Verificação de biografias históricas e registros autobiográficos de Pablo Picasso e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas e registros autobiográficos de Pablo Picasso e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análise da ciência cerebral por trás do sucesso da alternância de atenção
+## 1. Análise da ciência cerebral por trás do sucesso da alternância de atenção
 
 Forçar o trabalho em uma tarefa complexa quando a atenção diminui causa exaustão cognitiva devido ao 'Resíduo de Atenção (Attention Residue)'. Alternar de forma flexível entre 2 e 3 tipos de tarefas diferentes permite que vias neurais cansadas descansem e ativa novas redes, preservando o foco.
 
 ---
 
-## Conselho de ciência do comportamento para uma implementação bem-sucedida
-
-Isso não significa fazer multitarefas caóticas com várias janelas abertas ao mesmo tempo. Em cada bloco de trabalho, foque 100% em 'uma única tarefa', mas alterne entre os blocos com flexibilidade quando o progresso travar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Isso não significa fazer multitarefas caóticas com várias janelas abertas ao 
   </p>
 </div>
 
+---
+
+## 3. Conselho de ciência do comportamento para uma implementação bem-sucedida
+
+Isso não significa fazer multitarefas caóticas com várias janelas abertas ao mesmo tempo. Em cada bloco de trabalho, foque 100% em 'uma única tarefa', mas alterne entre os blocos com flexibilidade quando o progresso travar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Alternar tarefas com tanta flexibilidade não atrasa a conclusão do trabalho?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Isso não significa fazer multitarefas caóticas com várias janelas abertas ao 
       Não. Do ponto de vista neurológico, quando o atrito mental atinge o pico, mudar por 20 minutos para outra tarefa limpa a mente e acelera a conclusão total em mais de 40%.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Qual é o número máximo ideal de trilhas de trabalho para planejar por dia?</span>

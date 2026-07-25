@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inventors Who Swapped Positions to Debate: The Wright Brothers' Reverse Debate Method"
 description: "The Wright brothers invented the first motor-powered airplane. Discover their metacognitive debate method of swapping arguments to break through challenges, along with modern practical applications."
 pubDate: "2026-03-04"
@@ -38,22 +39,20 @@ This post explores how the Wright brothers' reverse debate method overcomes cogn
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding wright-reverse-debate is based on <strong>Historical Biographies & Autobiographical Records of the Wright Brothers & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies & Autobiographical Records of the Wright Brothers & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Metacognitive Restructuring to Neutralize Confirmation Bias
+## 1. Metacognitive Restructuring to Neutralize Confirmation Bias
 
 Once a plan is formed, the brain naturally gravitates toward information supporting it while ignoring flaw evidence—a trap known as Confirmation Bias. This is a major cause of business project failure. The Wright brothers' reverse debate acted as a tool for Cognitive Restructuring. By forcing themselves to argue the opposing side, their prefrontal cortex released emotional attachment to initial hypotheses, activating metacognitive circuits to view their assumptions objectively. This revealed logical errors and blind spots, yielding robust solutions.
 
 ---
 
-## Doubting Your Own Arguments Unlocks True Insight
-
-To perfect a great idea, you must first let go of attachment to it. The Wright brothers created the miracle of human flight by becoming each other's brain every evening to rigorously test their assumptions. When narrow-mindedness sets in, flip your perspective 180 degrees.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ To perfect a great idea, you must first let go of attachment to it. The Wright b
   </p>
 </div>
 
+---
+
+## 3. Doubting Your Own Arguments Unlocks True Insight
+
+To perfect a great idea, you must first let go of attachment to it. The Wright brothers created the miracle of human flight by becoming each other's brain every evening to rigorously test their assumptions. When narrow-mindedness sets in, flip your perspective 180 degrees.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can I use this routine when working alone without a debate partner?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ To perfect a great idea, you must first let go of attachment to it. The Wright b
       Absolutely. Write down 'My Claim' on paper and play both roles by writing a 'Devil's Advocate' critique report as if you were your own harshest critic or competitor's strategy team.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can we engage in reverse debate without hurting feelings?</span>

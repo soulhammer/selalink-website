@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Torre del Silencio: El diseño ambiental de control de estímulos del Premio Nobel Pavlov"
 description: "Descubra la rutina de bloqueo de estímulos del fundador del condicionamiento clásico, Ivan Pavlov. Un método de control de estímulos en 3 pasos para eliminar el desperdicio cognitivo mediante la gestión de variables ambientales externas."
 pubDate: "2026-02-27"
@@ -36,22 +37,20 @@ En esta publicación, examinamos los principios científicos de la rutina de ais
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre pavlov-stimulus-control se basa en <strong>Investigación de registros biográficos e históricos de Pavlov Stimulus Control y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de registros biográficos e históricos de Pavlov Stimulus Control y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La 'Teoría del Control de Estímulos' que revitaliza la función ejecutiva
+## 1. La 'Teoría del Control de Estímulos' que revitaliza la función ejecutiva
 
 Neurocientíficamente, nuestro lóbulo frontal administra la Función Ejecutiva. Sin embargo, cuando los estímulos visuales y auditivos están dispersos, el cerebro gasta voluntad en filtrarlos. La teoría del <strong>'Control de Estímulos'</strong> de la psicología conductual minimiza la fricción neuronal al bloquear los desencadenantes ambientales.
 
 ---
 
-## Garantizar la flexibilidad en la rutina de control de estímulos
-
-El efecto secundario de insistir strictly en un entorno bloqueado de estímulos es volverse hipersensible y no poder concentrarse en lugares ruidosos. Aplique el entrenamiento de control de estímulos solo durante su bloque principal de enfoque (1-2 horas), manteniendo la flexibilidad para realizar tareas simples en espacios abiertos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ El efecto secundario de insistir strictly en un entorno bloqueado de estímulos 
     Comience su rutina de enfoque diariamente en el mismo espacio y escritorio ordenado, preparando su cerebro para activar el circuito de inmersión de inmediato.
   </p>
 </div>
+
+---
+
+## 3. Garantizar la flexibilidad en la rutina de control de estímulos
+
+El efecto secundario de insistir strictly en un entorno bloqueado de estímulos es volverse hipersensible y no poder concentrarse en lugares ruidosos. Aplique el entrenamiento de control de estímulos solo durante su bloque principal de enfoque (1-2 horas), manteniendo la flexibilidad para realizar tareas simples en espacios abiertos.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

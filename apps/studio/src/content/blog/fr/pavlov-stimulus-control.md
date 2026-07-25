@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Tour du Silence : La conception d'environnement de contrôle des stimulis du prix Nobel Pavlov"
 description: "Découvrez la routine de blocage des stimulis d'Ivan Pavlov, fondateur du conditionnement classique. Une méthode de contrôle des stimulis en 3 étapes pour éliminer le gaspillage cognitif en gérant les variables environnementales externes."
 pubDate: "2026-02-27"
@@ -33,25 +34,23 @@ Dans cet article, nous examinons les principes scientifiques de la routine d'iso
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant pavlov-stimulus-control est basée sur <strong>Étude des biographies historiques et récits autobiographiques de Pavlov Stimulus Control & Recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Étude des biographies historiques et récits autobiographiques de Pavlov Stimulus Control & Recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La 'Théorie du Contrôle des Stimulis' qui revitalise la fonction exécutive
+## 1. La 'Théorie du Contrôle des Stimulis' qui revitalise la fonction exécutive
 
 En neurosciences, notre lobe frontal gère la fonction exécutive. Cependant, lorsque des stimulis visuels et auditifs sont dispersés, le cerveau épuise des ressources pour les filtrer. La théorie du <strong>'Contrôle des Stimulis'</strong> réduit les frictions neuronales en bloquant les déclencheurs environnementaux.
 
 ---
 
-## Assurer la flexibilité dans la routine de contrôle des stimulis
-
-Le risque d'insister strictly sur un environnement totalement isolé est de développer une hypersensibilité aux bruits. Appliquez l'entraînement au contrôle des stimulis uniquement pendant votre créneau de concentration principale (1 à 2 heures), tout en conservant la flexibilité de travailler dans des espaces ouverts pour les tâches simples.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Le risque d'insister strictly sur un environnement totalement isolé est de dév
     Commencez votre routine de concentration chaque jour dans le même espace ordonné, préparant votre cerveau à activer le circuit d'immersion dès votre installation.
   </p>
 </div>
+
+---
+
+## 3. Assurer la flexibilité dans la routine de contrôle des stimulis
+
+Le risque d'insister strictly sur un environnement totalement isolé est de développer une hypersensibilité aux bruits. Appliquez l'entraînement au contrôle des stimulis uniquement pendant votre créneau de concentration principale (1 à 2 heures), tout en conservant la flexibilité de travailler dans des espaces ouverts pour les tâches simples.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

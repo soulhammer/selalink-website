@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "완두콩 2만 9천 그루의 통계? 그레고어 멘델의 작업 기억 강화법"
 description: "유전학의 위대한 개척자 그레고어 멘델. 수도원 정원에서 매일 수천 개 완두콩의 변화를 수치로 정밀 기록했던 그의 끈기와, 뇌의 인지 구조를 단련하고 작업 기억력을 높이는 통계 기록법을 공개합니다."
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>그레고어 멘델 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mendel-pea-statistics 루틴을 다룹니다.
+      본 콘텐츠는 <strong>그레고어 멘델 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 데이터 분석과 인지 구조를 바꾸는 작업 기억 훈련
+## 1. 데이터 분석과 인지 구조를 바꾸는 작업 기억 훈련
 
 매일 미세한 변화를 직접 눈으로 관찰하고 수치화하여 모눈종이에 적는 행위는 뇌의 전두엽(Frontal Lobe)에 위치한 <strong>작업 기억(Working Memory)</strong> 영역을 강력하게 활성화합니다. 작업 기억은 일시적으로 정보를 뇌에 보관하고 이를 가공하는 일종의 '뇌의 램(RAM)'과 같습니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 아날로그 통계가 뇌의 인지 필터를 정밀하게 만듭니다
-
-자동화된 디지털 데이터 분석 기기들은 편리하지만, 뇌가 직접 데이터를 수집하고 분류하는 능동적 인지 과정을 생략시킵니다. 멘델처럼 매일 아날로그 방식으로 자신만의 핵심 통계를 손글씨로 추적하고 기록하는 것은 두뇌의 정보 필터를 정밀하게 단련하고 인내심을 구축하는 가장 훌륭한 인지 훈련입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 아날로그 통계가 뇌의 인지 필터를 정밀하게 만듭니다
+
+자동화된 디지털 데이터 분석 기기들은 편리하지만, 뇌가 직접 데이터를 수집하고 분류하는 능동적 인지 과정을 생략시킵니다. 멘델처럼 매일 아날로그 방식으로 자신만의 핵심 통계를 손글씨로 추적하고 기록하는 것은 두뇌의 정보 필터를 정밀하게 단련하고 인내심을 구축하는 가장 훌륭한 인지 훈련입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>반드시 손으로 그래프를 그려야 하나요? 엑셀을 쓰면 더 편하지 않을까요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       엑셀이나 데이터 어플리케이션은 처리 과정이 자동화되어 있어 시각 인지 자극이 낮습니다. 직접 자를 대고 손으로 선을 그으며 수치의 높낮이를 그리는 행위는 뇌의 하두정엽 영역을 훨씬 강력하게 매료시키고, 데이터 이면의 인과 관계와 유의미한 패턴을 직관적으로 통찰할 수 있도록 돕습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>수치에 큰 변화가 없어도 기록할 필요가 있나요?</span>

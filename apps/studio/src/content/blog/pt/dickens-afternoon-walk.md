@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Novelista que Caminhava a Passo Rápido 3 Horas Todas as Tardes: A Rotina de Ideias e Ativação da DMN de Charles Dickens"
 description: "Descubra como o gigante literário Charles Dickens criou personagens e tramas complexas por meio de uma caminhada diária de 3 horas. Explore a neurociência cognitiva da ativação da Rede de Modo Padrão (DMN) e secreção de BDNF."
 pubDate: "2026-05-23"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'caminh
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre dickens-afternoon-walk é baseada em <strong>Verificação Histórica da Biografia de John Forster *A Vida de Charles Dickens (The Life of Charles Dickens)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de John Forster *A Vida de Charles Dickens (The Life of Charles Dickens)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Catalisador do Pensamento Divergente: Ativação da DMN e Secreção de BDNF Via Caminhada Sem Estímulos
+## 1. Catalisador do Pensamento Divergente: Ativação da DMN e Secreção de BDNF Via Caminhada Sem Estímulos
 
 A caminhada aeróbica rítmica aumenta o fluxo sanguíneo cerebral e estimula a liberação do Fator Neurotrófico Derivado do Cérebro (BDNF), melhorando a plasticidade neuronal e promovendo o Pensamento Divergente. Caminhar sem distrações sensoriais externas — como Dickens praticava — ativa a Rede de Modo Padrão (DMN). Operando quando o cérebro não está focado numa tarefa, a DMN reorganiza lembranças e ideias matinais, fundindo-as em descobertas criativas. Uma caminhada à tarde limpa a memória de trabalho (RAM).
 
 ---
 
-## Precauções e Dicas: Isolar Estímulos Digitais e Criar um Vácuo Sensorial
-
-A base de uma caminhada de reflexão é conceder ao cérebro uma 'pausa cognitiva ininterrupta'. Checar o celular ou ouvir podcasts/música enquanto caminha obriga o córtex pré-frontal a processar informações externas, anulando a ativação da DMN e reduzindo os benefícios do BDNF. Para limpar sua mente como Dickens, desconecte os fones e guarde o celular por 20 a 30 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A base de uma caminhada de reflexão é conceder ao cérebro uma 'pausa cognitiv
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Isolar Estímulos Digitais e Criar um Vácuo Sensorial
+
+A base de uma caminhada de reflexão é conceder ao cérebro uma 'pausa cognitiva ininterrupta'. Checar o celular ou ouvir podcasts/música enquanto caminha obriga o córtex pré-frontal a processar informações externas, anulando a ativação da DMN e reduzindo os benefícios do BDNF. Para limpar sua mente como Dickens, desconecte os fones e guarde o celular por 20 a 30 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É aceitável ouvir música clássica suave no celular enquanto caminho?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A base de uma caminhada de reflexão é conceder ao cérebro uma 'pausa cognitiv
       Não, é preferível evitar o áudio por completo. A entrada auditiva — mesmo música suave — obriga o córtex auditivo a analisar padrões, inibindo a DMN. Para alcançar um reinício cognitivo total, retire os fones e permita que sua mente vagueie entre os sons ambientais.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Para um profissional moderno é irreal caminhar 3 horas diárias como Dickens. Existe uma alternativa prática?</span>

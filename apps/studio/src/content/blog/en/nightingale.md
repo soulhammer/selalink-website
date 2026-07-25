@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Patrolling 4 Miles of Dark Hospital Wards Nightly: Florence Nightingale's Quantitative Hygiene Assessment Routine"
 description: "Founder of modern nursing and a pioneering statistician who diagrammed military sanitation and mortality causes to drive systemic healthcare reform."
 pubDate: "2026-03-20"
@@ -38,22 +39,20 @@ In today's post, we explore the cognitive neuroscience behind her nightly observ
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding nightingale is based on <strong>Historical Biographies and Autobiographical Records of Florence Nightingale & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies and Autobiographical Records of Florence Nightingale & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscientific Analysis of Environmental Precision
+## 1. Neuroscientific Analysis of Environmental Precision
 
 Closely observing subtle environmental risks and converting qualitative phenomena into quantitative metrics stimulates Mirror Neurons and the prefrontal cognitive filtering network. Digitizing qualitative observations activates the dorsolateral prefrontal cortex, heightening metacognitive resolution to catch minor business risks and systemic flaws proactively.
 
 ---
 
-## Behavioral Science Advice for Successful Habit Adoption
-
-Obsessively trying to deep-clean your whole room consumes immense willpower and derails your daily routine. Focus on lightweight micro-environment adjustments and a 3-minute quick scan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Obsessively trying to deep-clean your whole room consumes immense willpower and 
   </p>
 </div>
 
+---
+
+## 3. Behavioral Science Advice for Successful Habit Adoption
+
+Obsessively trying to deep-clean your whole room consumes immense willpower and derails your daily routine. Focus on lightweight micro-environment adjustments and a 3-minute quick scan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does logging micro-environmental assessments affect self-efficacy?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Obsessively trying to deep-clean your whole room consumes immense willpower and 
       Yes. When the brain controls micro-environmental variables (lighting, cleanliness) and transcribes the results visually, it releases dopamine in the prefrontal cortex, enhancing self-efficacy and soothing anxiety.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Does this principle apply to digital environment cleanup like emails or chat apps?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pourquoi lire dans les tranchées de la jungle ? La routine de lecture profonde et de restructuration cognitive de Che Guevara"
 description: "Découvrez comment la figure de la Révolution cubaine Che Guevara lisait chaque jour d'épais volumes au milieu de la guérilla, et explorez la neuroscience cognitive montrant comment la lecture profonde active les réseaux préfrontaux de contrôle cognitif."
 pubDate: "2026-02-09"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant che-guevara-reading est basée sur <strong>Vérification Historique issue de la biographie de Jon Lee Anderson *Che Guevara : Une vie révolutionnaire (Che Guevara: A Revolutionary Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Jon Lee Anderson *Che Guevara : Une vie révolutionnaire (Che Guevara: A Revolutionary Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation des réseaux préfrontaux de contrôle cognitif et atténuation du stress via la lecture profonde
+## 1. Activation des réseaux préfrontaux de contrôle cognitif et atténuation du stress via la lecture profonde
 
 Les menaces environnementales et l'incertitude surstimulent l'amygdale, déclenchant des pics de stress et une altération des fonctions exécutives. La neuroscience cognitive montre que la « Lecture Profonde » — le fait de suivre activement la syntaxe complexe de textes longs — sollicite puissamment le Réseau de Contrôle Cognitif (CCN) préfrontal. Le cortex préfrontal exerce une inhibition descendante sur l'amygdale, réduisant la libération de cortisol. Simultanément, la synthèse de la syntaxe textuelle libère de la dopamine, réalisant une « Restructuration Cognitive » qui régule l'anxiété.
 
 ---
 
-## Précautions & Conseils : Éviter le survol superficiel d'actualités & Solliciter les réseaux linguistiques
-
-Pour bénéficier des effets cognitifs protecteurs de cette routine, abandonnez le survol superficiel d'actualités ou de flux sociaux. Le balayage visuel rapide maintient le cerveau dans un état cognitif réactif de faible niveau qui ne sollicite pas le contrôle préfrontal. Même si vous ne lisez que deux pages, évaluez activement les postulats de l'auteur et sollicitez votre Réseau d'Attention Linguistique.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour bénéficier des effets cognitifs protecteurs de cette routine, abandonnez 
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter le survol superficiel d'actualités & Solliciter les réseaux linguistiques
+
+Pour bénéficier des effets cognitifs protecteurs de cette routine, abandonnez le survol superficiel d'actualités ou de flux sociaux. Le balayage visuel rapide maintient le cerveau dans un état cognitif réactif de faible niveau qui ne sollicite pas le contrôle préfrontal. Même si vous ne lisez que deux pages, évaluez activement les postulats de l'auteur et sollicitez votre Réseau d'Attention Linguistique.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>La lecture de textes littéraires, tels que des romans ou essais, déclenche-t-elle les mêmes effets préfrontaux ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour bénéficier des effets cognitifs protecteurs de cette routine, abandonnez 
       Oui, à condition que le texte exige un effort cognitif actif. Si la fiction légère offre une stimulation préfrontale minimale, lire de la littérature classique ou des essais riches en motivations complexes sollicite fortement les réseaux de contrôle cognitif préfrontaux.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Les tablettes ou liseuses à encre électronique procurent-elles les mêmes bénéfices de restructuration cognitive que les livres papier ?</span>

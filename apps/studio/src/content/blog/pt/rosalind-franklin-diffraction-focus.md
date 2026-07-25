@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A cientista que revelou o segredo do DNA? A rotina de verificação com precisão de 0,1 grau de Rosalind Franklin"
 description: "Rosalind Franklin obteve a 'Foto 51', essencial para a dupla hélice do DNA. Conheça seu hábito intransigente de verificação a 0,1 grau de erro e um guia de precisão para a vida moderna."
 pubDate: "2026-02-24"
@@ -33,17 +34,17 @@ Neste post, exploramos a rotina de verificação com precisão de 0,1 grau de Ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre rosalind-franklin-diffraction-focus é baseada em <strong>Pesquisa histórica biográfica sobre Rosalind Franklin & pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa histórica biográfica sobre Rosalind Franklin & pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bloqueio de erros cognitivos através da conferência numérica espacial parietal
+## 1. Bloqueio de erros cognitivos através da conferência numérica espacial parietal
 
 Em tarefas familiares, o cérebro recorre a heurísticas ('deve estar certo'), ignorando erros numéricos ou de digitação.
 
@@ -51,9 +52,7 @@ A <strong>'Micro-conferência Quantitativa de Dados'</strong> de Franklin — ap
 
 ---
 
-## Priorize a certeza em detrimento da velocidade na fase final
-
-Apressar-se no final permite que pequenos erros destruam a credibilidade de todo o trabalho. Reduza a velocidade na fase de revisão de 10 minutos. Projete o ambiente para tornar a verificação automática.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Apressar-se no final permite que pequenos erros destruam a credibilidade de todo
   </p>
 </div>
 
+---
+
+## 3. Priorize a certeza em detrimento da velocidade na fase final
+
+Apressar-se no final permite que pequenos erros destruam a credibilidade de todo o trabalho. Reduza a velocidade na fase de revisão de 10 minutos. Projete o ambiente para tornar a verificação automática.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Revisar minuciosamente todas as vezes não consome tempo demais?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Apressar-se no final permite que pequenos erros destruam a credibilidade de todo
       O tempo gasto para corrigir erros, desculpar-se e refazer o trabalho mais tarde é 10 vezes maior. Dedicar 10 minutos na revisão é o caminho mais rápido.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É possível aplicar a conferência quantitativa em textos ou tarefas de escritório?</span>

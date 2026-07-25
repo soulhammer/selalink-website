@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Akhir Hari, Pengosongan Total: Rutinitas Refleksi Mandi Konosuke Matsushita"
 description: "Renungan mandi air hangat yang dipraktikkan setiap malam oleh Konosuke Matsushita, 'Dewa Manajemen'. Menganalisis aktivasi saraf parasimpatis dan penyelarasan Default Mode Network (DMN) di otak."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kita menganalisis ilmu saraf sistem saraf otonom dan D
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai matsushita-bath-reflection didasarkan pada <strong>Riset Biografi Historis & Catatan Autobiografi Konosuke Matsushita & Studi Ilmu Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis & Catatan Autobiografi Konosuke Matsushita & Studi Ilmu Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergi Antara Relaksasi Air Hangat dan Default Mode Network
+## 1. Sinergi Antara Relaksasi Air Hangat dan Default Mode Network
 
 Mandi air hangat meningkatkan suhu inti tubuh dan mengaktifkan saraf parasimpatis, sehingga mengurangi kortisol. Status relaksasi yang terbebas dari rangsangan luar menstimulasi Default Mode Network (DMN) otak, menumbuhkan wawasan kreatif. Menurut penelitian ilmu saraf, praktik ini menekan respons kecemasan di amigdala dan mengaktifkan sirkuit sketsa visuospatial, secara drastis meningkatkan fungsi eksekutif jangka panjang.
 
 ---
 
-## Pesan Sang Master tentang Mengosongkan Pikiran
-
-Jika Anda ingin membuat keputusan yang bijak, kosongkan pikiran Anda terlebih dahulu. Detoks digital di kamar mandi dan 15 menit relaksasi fisik serta mental adalah jalan pintasnya. Jangan hanya mengandalkan kemauan keras; merancang lingkungan fisik dan isyarat kebiasaan yang memicu tindakan secara alami adalah kunci keberlanjutan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Jika Anda ingin membuat keputusan yang bijak, kosongkan pikiran Anda terlebih da
     Keringkan tubuh dengan lembut dan minum air. Seiring menurunnya suhu tubuh yang sempat naik, tubuh akan terbimbing secara alami menuju tidur yang nyenyak.
   </p>
 </div>
+
+---
+
+## 3. Pesan Sang Master tentang Mengosongkan Pikiran
+
+Jika Anda ingin membuat keputusan yang bijak, kosongkan pikiran Anda terlebih dahulu. Detoks digital di kamar mandi dan 15 menit relaksasi fisik serta mental adalah jalan pintasnya. Jangan hanya mengandalkan kemauan keras; merancang lingkungan fisik dan isyarat kebiasaan yang memicu tindakan secara alami adalah kunci keberlanjutan.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

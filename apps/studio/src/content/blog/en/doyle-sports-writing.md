@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Boxing Before Writing Sherlock Holmes? Arthur Conan Doyle's Brain-Arousal Sports Routine and BDNF Secretion"
 description: "Discover why physician and author Arthur Conan Doyle engaged in vigorous sports like boxing and cricket before writing. Explore the cognitive neuroscience of how intense exercise releases Brain-Derived Neurotrophic Factor (BDNF) and elevates prefrontal executive function."
 pubDate: "2026-06-21"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Arthur Conan Doyle's 'p
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding doyle-sports-writing is based on <strong>Historical Verification from Arthur Conan Doyle's Autobiography *Memories and Adventures* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Arthur Conan Doyle's Autobiography *Memories and Adventures* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Physical Arousal, BDNF Secretion, and Maximizing Prefrontal Executive Function
+## 1. Physical Arousal, BDNF Secretion, and Maximizing Prefrontal Executive Function
 
 Short bursts of high-intensity exercise or cardio sports dramatically increase cardiac output, surging oxygenated blood flow directly into the prefrontal cortex (PFC). Cognitive neuroscience and exercise physiology demonstrate that vigorous physical exertion triggers a surge of Brain-Derived Neurotrophic Factor (BDNF), a key protein driving synaptic plasticity and neurogenesis. Concurrently, it optimizes systemic concentrations of dopamine and norepinephrine. For roughly 60 minutes post-exercise, this physiological state creates a 'Cognitive Golden Hour', elevating prefrontal Executive Function—critical for complex architecture design, strategic analysis, and logical reasoning—to peak performance.
 
 ---
 
-## Caution & Tips: Securing the 1-Hour Post-Exercise 'Cognitive Golden Hour' & Blocking Low-Value Tasks
-
-For Conan Doyle, intense exertion served as the physical catalyst for complex logical synthesis. Do not waste the 1-hour post-exercise 'Cognitive Golden Hour'—when cerebral blood flow and BDNF are at their absolute peak—on low-value administrative friction like answering emails, scrolling social media, or organizing files. Immediately upon showering, block all notifications and sit down directly to tackle your most complex, brain-demanding core task (system design, strategic writing, architecture modeling).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ For Conan Doyle, intense exertion served as the physical catalyst for complex lo
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Securing the 1-Hour Post-Exercise 'Cognitive Golden Hour' & Blocking Low-Value Tasks
+
+For Conan Doyle, intense exertion served as the physical catalyst for complex logical synthesis. Do not waste the 1-hour post-exercise 'Cognitive Golden Hour'—when cerebral blood flow and BDNF are at their absolute peak—on low-value administrative friction like answering emails, scrolling social media, or organizing files. Immediately upon showering, block all notifications and sit down directly to tackle your most complex, brain-demanding core task (system design, strategic writing, architecture modeling).
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was Arthur Conan Doyle truly a high-level cricketer and boxer in real life?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ For Conan Doyle, intense exertion served as the physical catalyst for complex lo
       Yes, absolutely. Conan Doyle was an accomplished first-class amateur cricketer for the Marylebone Cricket Club (MCC) and a skilled boxer who even served as a referee for championship matches. His deep physical intuition and athletic experiences provided the authentic background for Sherlock Holmes's proficiency in boxing and martial arts in his stories.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>It is difficult for busy people to play cricket or box. Can short home workouts achieve the same cognitive benefits?</span>

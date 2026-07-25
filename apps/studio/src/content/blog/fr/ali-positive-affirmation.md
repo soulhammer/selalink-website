@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le secret du matin devant le miroir pour faire le plein de confiance : La routine d'affirmations positives de Muhammad Ali"
 description: "Muhammad Ali, le plus grand boxeur du siècle. Découvrez les effets neuroscientifiques et la routine d'état d'esprit en 3 étapes des affirmations positives devant le miroir : le secret qui lui a permis de surmonter une anxiété de performance extrême avant ses combats pour devenir champion."
 pubDate: "2026-01-26"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous présentons les principes de psychologie du s
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant ali-positive-affirmation est basée sur <strong>Vérification issue de l'autobiographie de Muhammad Ali *The Greatest: My Own Story* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification issue de l'autobiographie de Muhammad Ali *The Greatest: My Own Story* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Le pouvoir de l'autodéclaration qui active le système de récompense du cerveau
+## 1. Le pouvoir de l'autodéclaration qui active le système de récompense du cerveau
 
 Lorsque nous ressentons de l'anxiété ou un manque de confiance, le cerveau sécrète un excès de cortisol, une hormone du stress, diminuant notre capacité à faire face aux crises. Selon les neurosciences, le fait de crier des affirmations positives à voix haute en se regardant dans le miroir stimule le <strong>« cortex préfrontal médian (Medial Prefrontal Cortex) »</strong> et le système de récompense du cerveau. Cette déclaration d'affirmation de soi règle le cerveau pour qu'il reçoive les informations menaçantes de manière moins sensible, éveille l'auto-efficacité et augmente la résistance au stress. Au moment où vous vous proclamez le plus grand, votre cerveau commence réellement à se préparer à activer l'énergie physique et mentale alignée sur cette valeur.
 
 ---
 
-## Déclarez fermement au présent, et non comme un simple souhait
-
-Pour que les affirmations positives stimulent le subconscient, la structure du langage est primordiale. Un ton de souhait comme « Je veux devenir... » peut souligner un état de manque au cerveau. Tout comme Muhammad Ali a affirmé « Je suis le plus grand », vous devez vous déclarer fermement dans des phrases au présent définissant un état accompli ou une capacité claire — comme « J'ai la capacité d'atteindre mes objectifs » — pour qu'une véritable transformation cognitive s'opère.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour que les affirmations positives stimulent le subconscient, la structure du l
   </p>
 </div>
 
+---
+
+## 3. Déclarez fermement au présent, et non comme un simple souhait
+
+Pour que les affirmations positives stimulent le subconscient, la structure du langage est primordiale. Un ton de souhait comme « Je veux devenir... » peut souligner un état de manque au cerveau. Tout comme Muhammad Ali a affirmé « Je suis le plus grand », vous devez vous déclarer fermement dans des phrases au présent définissant un état accompli ou une capacité claire — comme « J'ai la capacité d'atteindre mes objectifs » — pour qu'une véritable transformation cognitive s'opère.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>C'est embarrassant parce que j'ai l'impression de me mentir à moi-même en me disant que je suis le plus grand.</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour que les affirmations positives stimulent le subconscient, la structure du l
       Il est naturel de se sentir embarrassé au début en raison de la dissonance cognitive (Cognitive Dissonance). L'important n'est pas de vérifier la réalité des faits, mais d'ouvrir de nouvelles possibilités à votre cerveau. Plus vous répétez, plus la neuroplasticité (Neuroplasticity) réorganise les circuits neuronaux, faisant disparaître la gêne pour la transformer en conviction.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-ce efficace seulement si je le crie à voix haute ?</span>

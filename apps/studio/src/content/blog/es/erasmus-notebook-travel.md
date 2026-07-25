@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Cuaderno de Viaje de Erasmo: Cómo Capturar Chispas de Inspiración en Movimiento"
 description: "Descubra cómo el erudito renacentista Erasmo redactó 'Elogio de la locura' mientras viajaba por Europa a caballo con un cuaderno de bolsillo. Explore la neurociencia de las ondas alfa, el flujo visual y la creatividad impulsada por el movimiento."
 pubDate: "2026-06-11"
@@ -38,22 +39,20 @@ Su hábito de capturar pensamientos en movimiento se alinea con la neurociencia 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre erasmus-notebook-travel se basa en <strong>Verificación Histórica de las *Epistolae* de Desiderio Erasmo, la Biografía de Johan Huizinga *Erasmo* e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las *Epistolae* de Desiderio Erasmo, la Biografía de Johan Huizinga *Erasmo* e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismos Neurológicos del Movimiento Físico y el Flujo Visual en la Creatividad
+## 1. Mecanismos Neurológicos del Movimiento Físico y el Flujo Visual en la Creatividad
 
 Los entornos de transporte exponen al cerebro a un flujo visual continuo, estimulando la plasticidad neuronal. El movimiento rítmico e involuntario de los vehículos induce ondas cerebrales alfa (8–12 Hz), relajando el estrés y promoviendo el pensamiento creativo. En este estado, la red de censura lógica de la corteza prefrontal se atenúa, permitiendo a la Red por Defecto conectar conceptos dispares que rara vez emergen frente a un escritorio estático.
 
 ---
 
-## Precaución: Bloquear el Consumo de Medios Digitales de Estímulo Alto
-
-Consumir redes sociales o jugar juegos móviles durante los trayectos destruye la oportunidad de incubación creativa. Las entradas digitales de alto estímulo anulan el estado de ondas alfa. Para activar la contemplación, mire tranquilamente por la ventana, deje que su mente vague y mantenga el cuaderno listo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Consumir redes sociales o jugar juegos móviles durante los trayectos destruye l
   </p>
 </div>
 
+---
+
+## 3. Precaución: Bloquear el Consumo de Medios Digitales de Estímulo Alto
+
+Consumir redes sociales o jugar juegos móviles durante los trayectos destruye la oportunidad de incubación creativa. Las entradas digitales de alto estímulo anulan el estado de ondas alfa. Para activar la contemplación, mire tranquilamente por la ventana, deje que su mente vague y mantenga el cuaderno listo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo escribir en el cuaderno cada vez que me desplazo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Consumir redes sociales o jugar juegos móviles durante los trayectos destruye l
       No, no necesita escribir grandes textos. Pasar de 10 a 20 minutos mirando por la ventana durante el trayecto y anotando un solo pensamiento es suficiente para activar la Red por Defecto y las ondas alfa.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo usar aplicaciones de notas o notas de voz si los vaivenes dificultan escribir a mano?</span>

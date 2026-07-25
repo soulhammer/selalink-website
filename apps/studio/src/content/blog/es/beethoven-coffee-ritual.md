@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Precisión de 60 Granos de Café: El Ritual Matutino de Café y Mindfulness de Beethoven"
 description: "Descubra el hábito único de Ludwig van Beethoven, quien contaba exactamente 60 granos de café cada mañana, y explore el mecanismo neurocientífico donde el control sensorial fino calma la Red por Defecto (DMN) y activa el enfoque mental."
 pubDate: "2026-05-14"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral del curioso ritual de 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre beethoven-coffee-ritual se basa en <strong>Verificación Histórica de la Biografía de Anton Schindler *Biografía de Ludwig van Beethoven* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Anton Schindler *Biografía de Ludwig van Beethoven* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Supresión de la Hiperactivación de la DMN y Enmarcado Cognitivo Mediante Enfoque Sensorial Fino
+## 1. Supresión de la Hiperactivación de la DMN y Enmarcado Cognitivo Mediante Enfoque Sensorial Fino
 
 Justo después de despertarse por la mañana, el cerebro a menudo hiperactiva la Red por Defecto (DMN) al recordar las preocupaciones de ayer o las tareas de hoy, desperdiciando energía cognitiva y aumentando la ansiedad. En este momento, una tarea motora fina y precisa (Fine Motor Task) —como sentir la textura táctil de los granos de café y contarlos uno a uno— sirve como un excelente ejercicio de mindfulness que traslada por la fuerza el enfoque del cerebro hacia el 'sentido presente'. Esto calma los pensamientos errantes de la DMN y despierta la corteza sensorial y las redes de control ejecutivo. Además, realizar esta secuencia idéntica a diario actúa como un potente disparador cognitivo (Cognitive Trigger), señalando al cerebro que está ingresando a un estado de enfoque creativo de alto nivel.
 
 ---
 
-## Precauciones y Consejos: Mantenimiento de una Participación Sensorial Analógica Refinada
-
-Al realizar su ritual matutino, consultar noticias o redes sociales en un teléfono inteligente o simplemente presionar botones en electrodomésticos automáticos impide que el cerebro mantenga un estado de mindfulness. Sumérjase estrictamente en estímulos sensoriales analógicos —como las sensaciones finas de las manos, la textura táctil de los utensilios, los aromas y los sonidos— para facilitar una sincronización cognitiva fluida en el cerebro.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Al realizar su ritual matutino, consultar noticias o redes sociales en un teléf
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Mantenimiento de una Participación Sensorial Analógica Refinada
+
+Al realizar su ritual matutino, consultar noticias o redes sociales en un teléfono inteligente o simplemente presionar botones en electrodomésticos automáticos impide que el cerebro mantenga un estado de mindfulness. Sumérjase estrictamente en estímulos sensoriales analógicos —como las sensaciones finas de las manos, la textura táctil de los utensilios, los aromas y los sonidos— para facilitar una sincronización cognitiva fluida en el cerebro.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Beethoven insistía estrictamente en exactamente 60 granos de café?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Al realizar su ritual matutino, consultar noticias o redes sociales en un teléf
       La cifra estricta de 60 granos controlaba el sabor del café mediante una cuantificación perfecta, pero el acto de contar números con precisión era en sí mismo un disparador cognitivo que cortaba los pensamientos inútiles y activaba la red de control ejecutivo de alto nivel del cerebro.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Pueden las personas que no consumen café aplicar esta rutina de mindfulness?</span>

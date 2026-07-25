@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El solitario de los elementos: La rutina de ordenación de cartas químicas de Mendeléyev"
 description: "Dmitri Mendeléyev completó la Tabla Periódica ordenando cartas con propiedades químicas como un juego de solitario. Descubra cómo la manipulación espacial física activa las vías cerebrales de reconocimiento de patrones."
 pubDate: "2026-03-14"
@@ -36,22 +37,20 @@ En esta publicación, analizamos la utilidad neurocientífica de la rutina de so
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mendeleev-chemical-solitaire se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Mendeléyev y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de biografías históricas y registros autobiográficos de Mendeléyev y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por qué la disposición espacial y la manipulación física activan el reconocimiento de patrones
+## 1. Por qué la disposición espacial y la manipulación física activan el reconocimiento de patrones
 
 El texto plano en pantallas se procesa como datos bidimensionales, creando un cuello de botella analítico. En cambio, fragmentar la información en cartas y ordenarlas espacialmente activa los lóbulos parietales encargados del posicionamiento espacial. Mediante la retroalimentación táctil y visual en 3D, el cerebro percibe distancias relativas entre conceptos, permitiendo a las redes prefrontales y parietales detectar patrones ocultos.
 
 ---
 
-## Precauciones y consejos
-
-Evite recargar excesivos detalles en una sola carta; hacerlo revierte la herramienta a un texto denso, anulando el beneficio espacial. Escriba solo una palabra clave o concepto por carta para maximizar la libreta visoespacial del cerebro. Limite su conjunto de trabajo a 10-20 cartas a la vez para mantener una visión global.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Evite recargar excesivos detalles en una sola carta; hacerlo revierte la herrami
     Una vez que emerja una disposición lógica e intuitiva, tome una fotografía con su teléfono para sincronizar la matriz física con su memoria.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Evite recargar excesivos detalles en una sola carta; hacerlo revierte la herramienta a un texto denso, anulando el beneficio espacial. Escriba solo una palabra clave o concepto por carta para maximizar la libreta visoespacial del cerebro. Limite su conjunto de trabajo a 10-20 cartas a la vez para mantener una visión global.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

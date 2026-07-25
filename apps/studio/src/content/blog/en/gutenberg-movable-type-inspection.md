@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Master of the Printing Revolution: Gutenberg's Morning Movable Type Precision Inspection Routine and ERN Error Detection Mechanism"
 description: "Explore how Gutenberg, inventor of movable metal type, preserved system standards and print quality by inspecting type height with his hands and eyes each morning. Learn the neuroscience of Anterior Cingulate Cortex (ACC) and Error-Related Negativity (ERN)."
 pubDate: "2026-06-04"
@@ -36,22 +37,20 @@ In today's post, we unpack the cognitive neuroscience behind Gutenberg's '0.1mm 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding gutenberg-movable-type-inspection is based on <strong>Historical Verification from Johannes Gutenberg Biographies, Gutenberg Museum Mainz Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Johannes Gutenberg Biographies, Gutenberg Museum Mainz Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## ERNs (Error-Related Negativity) Stimulation and the System Error Detection Mechanism
+## 1. ERNs (Error-Related Negativity) Stimulation and the System Error Detection Mechanism
 
 Leaving minor play or micro-errors unchecked in an operational system allows mistakes to accumulate, ultimately leading to catastrophic systemic failure. Practicing Gutenberg's 5-minute pre-execution manual alignment inspection—an <strong>'Error Checking Routine'</strong>—precisely calibrates the sensitivity of the <strong>Error-Related Negativity (ERN)</strong> neural response generated within the brain's <strong>Anterior Cingulate Cortex (ACC)</strong>. This neural conditioning prompts the brain to instantly detect and correct minute misalignments or asymmetries, guaranteeing flaw-free peak output.
 
 ---
 
-## Caution: Breaking the Trap of Relying on Intuition and Mental Shortcuts Through Systematic Inspection
-
-Complacently relying on mental heuristics—assuming 'this is probably good enough'—triggers catastrophic system-wide failures. Rather than forcing willpower, fix a physical 5-minute pre-work inspection habit into your daily environment: manually verifying system alignment and three critical failure-prone points with your eyes and hands.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Complacently relying on mental heuristics—assuming 'this is probably good enou
   </p>
 </div>
 
+---
+
+## 3. Caution: Breaking the Trap of Relying on Intuition and Mental Shortcuts Through Systematic Inspection
+
+Complacently relying on mental heuristics—assuming 'this is probably good enough'—triggers catastrophic system-wide failures. Rather than forcing willpower, fix a physical 5-minute pre-work inspection habit into your daily environment: manually verifying system alignment and three critical failure-prone points with your eyes and hands.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why practice manual inspection when automated software testing tools exist?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Complacently relying on mental heuristics—assuming 'this is probably good enou
       Automated testing catches functional code logic errors, but misses subtle visual imbalances, layout awkwardness, and user-perceived friction. A 5-minute human inspection provides the final polish required for true perfection.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What if conducting morning inspections causes workflow delays?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Tu Cerebro Resuelve Propuestas Mientras Duermes: La Rutina de Dormir con el Manuscrito de Joan Didion y la Primación del Sueño REM"
 description: "Descubra cómo la legendaria ensayista estadounidense Joan Didion dormía en la misma habitación que su manuscrito inconcluso para resolver tramas complejas. Explore la neurociencia cognitiva de la primación cognitiva y la consolidación de la memoria en el sueño REM."
 pubDate: "2026-06-02"
@@ -36,22 +37,20 @@ Cada vez que se encontraba con un bloqueo en un manuscrito, Didion realizaba un 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre didion-manuscript-sleeping se basa en <strong>Verificación Histórica de la Biografía de Tracy Daugherty *La última canción de amor (The Last Love Song)* y *The Paris Review* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Tracy Daugherty *La última canción de amor (The Last Love Song)* y *The Paris Review* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Re-Consolidación Asociativa en el Sueño REM y Primación Cognitiva Antes de Dormir
+## 1. Re-Consolidación Asociativa en el Sueño REM y Primación Cognitiva Antes de Dormir
 
 Durante la vigilia, la corteza prefrontal mantiene un control estricto que limita los patrones de pensamiento a esquemas conocidos. Revisar un problema o leer un manuscrito antes de dormir activa la 'Primación Cognitiva'. Al entrar en la fase de Movimientos Oculares Rápidos (REM), la inhibición prefrontal se reduce mientras el hipocampo y la amígdala se activan. Durante el sueño REM, el cerebro realiza una 'Re-Consolidación Asociativa', conectando el problema del manuscrito con recuerdos almacenados, lo que genera soluciones al despertar.
 
 ---
 
-## Precauciones y Consejos: Bloquear la Luz Azul y Priorizar la Primación en Papel Analógico
-
-Examinar propuestas en pantallas de teléfonos o tabletas antes de dormir expone la retina a la luz azul, suprimiendo la melatonina y alterando el sueño REM. Para preservar la calidad del sueño, revise documentos en papel impreso o cuadernos analógicos durante 5 minutos antes de acostarse. Luego, cierre los ojos y visualice el objetivo antes de dormirse.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Examinar propuestas en pantallas de teléfonos o tabletas antes de dormir expone
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Bloquear la Luz Azul y Priorizar la Primación en Papel Analógico
+
+Examinar propuestas en pantallas de teléfonos o tabletas antes de dormir expone la retina a la luz azul, suprimiendo la melatonina y alterando el sueño REM. Para preservar la calidad del sueño, revise documentos en papel impreso o cuadernos analógicos durante 5 minutos antes de acostarse. Luego, cierre los ojos y visualice el objetivo antes de dormirse.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Pensar en problemas no resueltos antes de dormir no provocará insomnio o mal descanso?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Examinar propuestas en pantallas de teléfonos o tabletas antes de dormir expone
       Si se fuerza una solución con estrés, sí. La clave es evitar la preocupación activa. Escanee los documentos en papel de forma pasiva, como si leyera un cuento, y delegue el trabajo al subconsciente: 'El cerebro lo resolverá esta noche'. Esta actitud relajada evita la activación simpática.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿La rutina es un fracaso si no surge una idea genial inmediatamente al despertar?</span>

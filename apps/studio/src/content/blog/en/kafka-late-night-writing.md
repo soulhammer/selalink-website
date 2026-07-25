@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Birthing Masterpieces in Absolute Silence: Franz Kafka's Late-Night Writing Routine and Frontal Down-Regulation"
 description: "Discover how 20th-century literary titan Franz Kafka composed masterpieces like The Metamorphosis by writing from 11 PM until dawn in absolute silence. Explore the neuroscience of frontal down-regulation and working memory immersion."
 pubDate: "2026-04-01"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Franz Kafka's 'late
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding kafka-late-night-writing is based on <strong>Historical Verification from Max Brod's *Franz Kafka: A Biography*, Kafka's Diaries & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Max Brod's *Franz Kafka: A Biography*, Kafka's Diaries & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Frontal Down-Regulation and the Cognitive Neuroscience of Absolute Silence Immersion
+## 1. Frontal Down-Regulation and the Cognitive Neuroscience of Absolute Silence Immersion
 
 During daylight hours, the <strong>Prefrontal Cortex</strong> expends immense cognitive energy maintaining top-down inhibitory control, social compliance, and logical filtering. In late night hours, circadian fatigue relaxes this prefrontal control filter—a state known in cognitive neuroscience as <strong>Frontal Down-regulation</strong>. Freed from top-down censorship, the brain gains direct access to subconscious associations, emotional depth, and unorthodox creative synthesis. This physiological shift empowered Kafka to write haunting, highly original prose. Concurrently, late-night acoustic silence eliminates ambient auditory interference in <strong>Working Memory</strong> buffers, creating an optimal neurochemical environment for deep single-topic focus.
 
 ---
 
-## Caution: Securing a Golden Hour of Silence Without Disrupting Circadian Sleep Health
-
-Replicating Kafka's routine by staying up late blindly risks chronic sleep deprivation and physical burnout. The core mechanism is not sleep loss, but intentionally carving out 1 hour where external auditory and visual noise is completely eliminated. Rather than pulling all-nighters, use noise-canceling headphones or leverage quiet early morning hours to construct your personal golden hour of silence.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Replicating Kafka's routine by staying up late blindly risks chronic sleep depri
   </p>
 </div>
 
+---
+
+## 3. Caution: Securing a Golden Hour of Silence Without Disrupting Circadian Sleep Health
+
+Replicating Kafka's routine by staying up late blindly risks chronic sleep deprivation and physical burnout. The core mechanism is not sleep loss, but intentionally carving out 1 hour where external auditory and visual noise is completely eliminated. Rather than pulling all-nighters, use noise-canceling headphones or leverage quiet early morning hours to construct your personal golden hour of silence.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Doesn't working late at night like Kafka disrupt natural circadian sleep cycles?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Replicating Kafka's routine by staying up late blindly risks chronic sleep depri
       Yes, excessive all-nighters damage physical health. The core mechanism is not the late hour itself, but securing '1 hour of absolute silence' devoid of external interruptions. Achieving this via noise-canceling technology or quiet early morning hours delivers identical cognitive benefits without compromising sleep health.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I adapt Kafka's silence immersion routine during daylight hours?</span>

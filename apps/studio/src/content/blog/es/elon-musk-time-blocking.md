@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El 'Time Blocking de 5 Minutos' de Elon Musk: Microplanificación y Rutina de Enfoque de Alta Densidad"
 description: "Descubra cómo Elon Musk gestiona semanas de 80 a 100 horas fraccionando su agenda en microbloques de 5 minutos. Explore la neurociencia cognitiva de la escasez de tiempo, la Ley de Parkinson y el enfoque de túnel."
 pubDate: "2026-06-15"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral detrás de la rutina d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre elon-musk-time-blocking se basa en <strong>Verificación Histórica de la Biografía de Walter Isaacson *Elon Musk* e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Walter Isaacson *Elon Musk* e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La Ley de Parkinson y el Mecanismo de Enfoque en Túnel del Cerebro
+## 1. La Ley de Parkinson y el Mecanismo de Enfoque en Túnel del Cerebro
 
 Según la Ley de Parkinson, el trabajo se expande hasta llenar el tiempo disponible. Cuando los plazos son holgados, la intensidad mental disminuye. Por el contrario, comprimir el tiempo en microventanas obliga al cerebro a percibir cierta escasez, liberando dopamina y epinefrina para activar un 'Efecto Túnel' que bloquea las distracciones. El time blocking de 5 minutos de Elon Musk mantiene a la corteza prefrontal enfocada en microfechas límite, generando un estado de flujo intenso. Al eliminar el residuo de la multitarea, previene la fatiga de decisión y maximiza la densidad de producción cognitiva.
 
 ---
 
-## La Puntualidad Estricta y el Enfoque Único Son Obligatorios
-
-Esta rutina es fundamentalmente distinta de estar ocupado todo el día. Para que funcione, debe eliminar la dispersión mental (evitando abrir pestañas o mirar el teléfono) y enfocarse en una sola tarea durante el bloque. Cuando el tiempo termine, pase de inmediato al siguiente bloque sin dudar para mantener la densidad del tiempo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Esta rutina es fundamentalmente distinta de estar ocupado todo el día. Para que
   </p>
 </div>
 
+---
+
+## 3. La Puntualidad Estricta y el Enfoque Único Son Obligatorios
+
+Esta rutina es fundamentalmente distinta de estar ocupado todo el día. Para que funcione, debe eliminar la dispersión mental (evitando abrir pestañas o mirar el teléfono) y enfocarse en una sola tarea durante el bloque. Cuando el tiempo termine, pase de inmediato al siguiente bloque sin dudar para mantener la densidad del tiempo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Programar en bloques de 5 minutos causa estrés severo a los principiantes?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Esta rutina es fundamentalmente distinta de estar ocupado todo el día. Para que
       Intentar programar todo el día en bloques de 5 minutos provocará sobrecarga cognitiva a un principiante. Empiece poco a poco: destine de 1 a 2 horas de su día a un 'bloque de enfoque', dividiéndolo en intervalos de 15 o 30 minutos para desarrollar su capacidad de concentración.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si no termino una tarea dentro de su bloque asignado?</span>

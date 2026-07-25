@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "喧闹火车站候车室长椅上依旧高度专注：冯·诺伊曼的噪音免疫训练"
 description: "设计了计算机架构和博弈论的天才数学家，保持在噪音环境中高度专注的习惯，并坚持床头笔记日常以捕捉脑海中的创意。"
 pubDate: "2026-06-28"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 von-neumann 的内容基于 <strong>约翰·冯·诺伊曼的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>约翰·冯·诺伊曼的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 使噪音中保持专注成为可能的“听觉门控”与注意力控制
+## 1. 使噪音中保持专注成为可能的“听觉门控”与注意力控制
 
 在适度可控的噪音刺激下人为保持专注，可以最大程度激活大脑的高阶认知机制——<strong>“感觉门控（Sensory Gating）”</strong>。大脑将外部刺激自动过滤为白噪音并接管前额叶的中央执行网络（Central Executive Network），这一过程提升了大脑注意力控制的灵活性，从而锤炼出在任何突发环境中都能迅速沉浸的“噪音免疫力”。
 
 ---
 
-## 用于成功建立习惯的行为科学建议
-
-请避免施工现场的噪音或极度刺耳的高分贝环境，因为这有害于大脑健康。关键在于学会用大脑过滤器过滤日常温和的白噪音或纯音乐。不要单纯依赖意志力，预先设计好能自然引发专注行为的物理环境与习惯触发信号，才是持之以恒的关键。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 用于成功建立习惯的行为科学建议
+
+请避免施工现场的噪音或极度刺耳的高分贝环境，因为这有害于大脑健康。关键在于学会用大脑过滤器过滤日常温和的白噪音或纯音乐。不要单纯依赖意志力，预先设计好能自然引发专注行为的物理环境与习惯触发信号，才是持之以恒的关键。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>每天在开始处理难题之前，都需要进行这项专注训练吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       是的，利用适度的白噪音或背景音乐环境有助于收窄认知注意力范围，使你能够更快地进入复杂的逻辑思维与专注状态。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果没有专门的白噪音生成器或专属设备，该如何替代？</span>

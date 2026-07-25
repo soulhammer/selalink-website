@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Cúspide de la Inmersión: El Hábito de Bocetos Geométricos en Arena de Arquímedes"
 description: "Arquímedes dibujaba continuamente figuras en la arena o en el suelo para visualizar complejas inspiraciones científicas. Investigue cómo los bocetos visuales manuales reducen la sobrecarga cognitiva en la memoria de trabajo e inducen un estado de hiperenfoque."
 pubDate: "2026-01-01"
@@ -32,22 +33,20 @@ Arquímedes, el matemático y físico que iluminó el amanecer de la ciencia ant
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre archimedes-sand-geometry se basa en <strong>Verificación Histórica de *Vidas Paralelas (Life of Marcellus)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Vidas Paralelas (Life of Marcellus)* de Plutarco e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prevención de Sobrecarga de la Memoria de Trabajo y Efecto Cognitivo de Doble Codificación
+## 1. Prevención de Sobrecarga de la Memoria de Trabajo y Efecto Cognitivo de Doble Codificación
 
 La memoria de trabajo humana tiene límites estrictos en la cantidad de información que puede procesar a la vez. Intentar calcular fórmulas matemáticas o leyes físicas abstractas únicamente en la cabeza hace que el cerebro se fatigue rápidamente y rompa la concentración. En este punto, el acto de trazar líneas alrededor moviendo las manos induce la 'Cognición Distribuida (Distributed Cognition)', transfiriendo la carga cognitiva del cerebro al entorno externo. Además, mediante el efecto de doble codificación en el que las imágenes visuales y los movimientos táctiles se activan juntos, estimula las células de memoria espacial y promueve un procesamiento sofisticado de la información.
 
 ---
 
-## Precauciones y Consejos
-
-El punto clave a tener en cuenta al aplicar el hábito del boceto geométrico es no caer en el perfeccionismo de intentar dibujar un boceto impecable y bonito. Prestar excesiva atención a la forma de las líneas o a la precisión causa un fenómeno inverso en el que los recursos cognitivos del cerebro se desperdician en la habilidad de dibujo en sí. Por lo tanto, el boceto geométrico solo debe usarse como una guía para ordenar la información y ayudar a la concentración cerebral, siendo la clave dibujarlo de manera ligera a nivel de garabato desordenado e incompleto.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ El punto clave a tener en cuenta al aplicar el hábito del boceto geométrico es
     Conecte flechas o líneas entre las figuras para expandir visualmente relaciones como causa y efecto, clasificación e interacción mientras reflexiona durante 5 minutos.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y Consejos
+
+El punto clave a tener en cuenta al aplicar el hábito del boceto geométrico es no caer en el perfeccionismo de intentar dibujar un boceto impecable y bonito. Prestar excesiva atención a la forma de las líneas o a la precisión causa un fenómeno inverso en el que los recursos cognitivos del cerebro se desperdician en la habilidad de dibujo en sí. Por lo tanto, el boceto geométrico solo debe usarse como una guía para ordenar la información y ayudar a la concentración cerebral, siendo la clave dibujarlo de manera ligera a nivel de garabato desordenado e incompleto.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Grabar la luz en el cerebro? El método de observación de la sensibilidad al contraste al amanecer de Turner"
 description: "La expresión de color única del pintor de la luz J.M.W. Turner nació de su hábito diario de contemplar el amanecer. Descubra el método de contemplación del color de Turner que activa la cognición visual."
 pubDate: "2026-02-27"
@@ -36,14 +37,14 @@ Esta rutina no es una mera acción aislada, sino que se basa en un riguroso meca
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre turner-dawn-observation se basa en <strong>Biografías históricas y registros autobiográficos de J.M.W. Turner e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de J.M.W. Turner e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cambios graduales en la luz que estimulan la corteza visual
+## 1. Cambios graduales en la luz que estimulan la corteza visual
 
 El cielo al amanecer experimenta un rápido cambio en la temperatura de color en poco tiempo, pasando de una luz azul tenue a una brillante luz natural. Esta estimulación visual gradual entrena intensamente la sensibilidad al contraste de la corteza visual del cerebro.
 
@@ -51,9 +52,7 @@ Entrenarse para elaborar información visual en la mente y grabarla en el 'ojo d
 
 ---
 
-## Precaución: No contemple directamente la luz solar intensa
-
-El núcleo de la rutina de Turner no es mirar directamente a la fuente de luz solar intensa. Consiste en observar la suave luz dispersa que se extiende por el cielo tenue, la niebla o las nubes justo antes del amanecer. Para evitar daños en la retina, evite mirar directamente al sol durante mucho tiempo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El núcleo de la rutina de Turner no es mirar directamente a la fuente de luz so
   </p>
 </div>
 
+---
+
+## 3. Precaución: No contemple directamente la luz solar intensa
+
+El núcleo de la rutina de Turner no es mirar directamente a la fuente de luz solar intensa. Consiste en observar la suave luz dispersa que se extiende por el cielo tenue, la niebla o las nubes justo antes del amanecer. Para evitar daños en la retina, evite mirar directamente al sol durante mucho tiempo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo realizar esta rutina incluso en días nublados o con niebla?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El núcleo de la rutina de Turner no es mirar directamente a la fuente de luz so
       De hecho, es mejor. Turner prefería observar la luz atmosférica dispersa en días nublados, con nieve o niebla antes que en días despejados. En días nublados, se pueden captar mucho mejor las sutiles transiciones de sombras creadas por la luz y la humedad.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo observar la luz solar durante el día si me cuesta levantarme temprano al amanecer?</span>

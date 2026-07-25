@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Afinando a Alma: A Rotina Matinal do Prelúdio de Bach e a Indução de Ondas Alfa de Pablo Casals"
 description: "Descubra como o lendário violoncelista Pablo Casals começou todas as manhãs por mais de 80 anos tocando O Cravo Bem Temperado de Bach, e explore os mecanismos neurocientíficos de como o arrasto musical ativa as ondas alfa e equilibra o sistema nervoso autônomo."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina do 'Prelú
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre casals-bach-prelude é baseada em <strong>Verificação Histórica da Autobiografia de Pablo Casals *Alegrias e Tristezas (Joys and Sorrows: Reflections by Pablo Casals)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Pablo Casals *Alegrias e Tristezas (Joys and Sorrows: Reflections by Pablo Casals)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Indução de Ondas Alfa e Equilíbrio do Sistema Nervoso Autônomo Via Arrasto Musical
+## 1. Indução de Ondas Alfa e Equilíbrio do Sistema Nervoso Autônomo Via Arrasto Musical
 
 Ao acordar, o cérebro experimenta um pico de cortisol matinal — um impulso biológico para romper a inércia do sono que frequentemente causa leve ansiedade. Conectar-se profundamente com as harmonias matemáticas de Bach ativa o 'Arrasto Musical (Musical Entrainment)', no qual as oscilações neuronais internas se alinham ao ritmo acústico. Isso estimula fortemente as ondas alfa de 8-12 Hz, induzindo um estado de alerta relaxado. Ao mesmo temps, o sistema parassimpático é impulsionado, estabilizando a frequência cardíaca.
 
 ---
 
-## Precauções e Dicas: Evitar Ritmos Agressivos e Escolher Clássicos Harmônicos
-
-Ao criar uma rotina musical matinal, evite gêneros excessivamente complexos, dissonantes ou de ritmo rápido. Rock barulhento, pop ou a execução de peças técnicas de alta dificuldade podem superestimular o sistema simpático, aumentando a fadiga cognitiva. Para obter autorregulação emocional, escolha música clássica harmônica de tempo constante, como os prelúdios de Bach.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ao criar uma rotina musical matinal, evite gêneros excessivamente complexos, di
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar Ritmos Agressivos e Escolher Clássicos Harmônicos
+
+Ao criar uma rotina musical matinal, evite gêneros excessivamente complexos, dissonantes ou de ritmo rápido. Rock barulhento, pop ou a execução de peças técnicas de alta dificuldade podem superestimular o sistema simpático, aumentando a fadiga cognitiva. Para obter autorregulação emocional, escolha música clássica harmônica de tempo constante, como os prelúdios de Bach.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Alguém que não sabe tocar nenhum instrumento musical pode se beneficiar da rotina matinal de Casals?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ao criar uma rotina musical matinal, evite gêneros excessivamente complexos, di
       Sim, com certeza. Embora tocar um instrumento estimule adicionalmente o córtex motor, praticar a 'Escuta Ativa' — fechar os olhos e entregar a consciência às texturas do som — induz um arrasto de ondas alfa idêntico. A chave é não tratar a música como ruído de fundo passivo, mas dedicar 10 minutos de atenção focada às nuances auditivas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Usar fones de ouvido é mais eficaz ao ouvir música clássica de manhã?</span>

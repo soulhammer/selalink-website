@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Franklin D. Roosevelt's Stamp Sorting Routine: Cognitive Relaxation and Analog Sleep Rituals"
 description: "Discover how President Roosevelt eased brain tension every night by sorting stamps amid wartime and economic crisis. Explore the neuroscience of cognitive relaxation and melatonin regulation for restorative sleep."
 pubDate: "2026-07-02"
@@ -38,22 +39,20 @@ In today's post, we unpack the brain science underlying FDR's 'stamp sorting' ro
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding fdr-stamp-collecting is based on <strong>Historical Verification from Franklin D. Roosevelt Biographies, FDR Presidential Library Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Franklin D. Roosevelt Biographies, FDR Presidential Library Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cooling Overheated Working Memory via Cognitive Relaxation and Parasympathetic Activation
+## 1. Cooling Overheated Working Memory via Cognitive Relaxation and Parasympathetic Activation
 
 High-stakes executive decision-making hyper-activates the prefrontal cortex, depleting vast amounts of neural energy. When work ends but mental tension persists, 'cognitive residue' impairs sleep quality and causes neural fatigue over time. Engaging in precise visual-tactile hobbies unrelated to work—such as FDR's stamp sorting—sends an explicit 'safety signal' to the brain, downregulating prefrontal arousal. Cognitive neuroscience shows that this cognitive shifting transitions the autonomic nervous system to parasympathetic dominance, boosting sleep-inducing melatonin and restorative growth hormone release. An intentional analog pause serves as an essential cooling system for an overheated brain.
 
 ---
 
-## Caution: Power Off Digital Screens and Focus on Analog Bedtime Rituals
-
-Many mistakenly assume that lying in bed watching smartphone videos provides rest. In reality, blue light emitted from digital screens and high-velocity content streams keep the brain trapped in high arousal, suppressing sleep-inducing melatonin. To enable healthy sleep architecture, replace digital inputs before bed with analog tools that engage tactile, physical senses.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Many mistakenly assume that lying in bed watching smartphone videos provides res
   </p>
 </div>
 
+---
+
+## 3. Caution: Power Off Digital Screens and Focus on Analog Bedtime Rituals
+
+Many mistakenly assume that lying in bed watching smartphone videos provides rest. In reality, blue light emitted from digital screens and high-velocity content streams keep the brain trapped in high arousal, suppressing sleep-inducing melatonin. To enable healthy sleep architecture, replace digital inputs before bed with analog tools that engage tactile, physical senses.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Do smartphone games or watching video streams help achieve cognitive relaxation?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Many mistakenly assume that lying in bed watching smartphone videos provides res
       No, they do not. Blue light and stimulating digital algorithms prevent brain rest by maintaining high cortical arousal and suppressing melatonin secretion. True cognitive relaxation requires analog activities that engage tactile sensations without screen exposure.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What if dedicating 30 minutes every night feels too long or difficult to schedule?</span>

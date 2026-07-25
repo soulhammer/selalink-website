@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Classics Echoing in the Painter's Atelier: Rubens' Multi-Cognitive Productivity Secret"
 description: "Baroque master Peter Paul Rubens studied history and literature through his ears while painting. Discover how leveraging multi-channel brain processing prevents mind-wandering and maximizes productivity."
 pubDate: "2026-02-08"
@@ -38,22 +39,20 @@ In today's post, we introduce the principles of sensory interaction and high-dim
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding rubens-multitasking-recitation is based on <strong>Historical biography and autobiographical research on Peter Paul Rubens & Cognitive Neuroscience studies</strong>.
+      This content is based on <strong>Historical biography and autobiographical research on Peter Paul Rubens & Cognitive Neuroscience studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Cognitive Channelization' Blocking Mind-Wandering
+## 1. 'Cognitive Channelization' Blocking Mind-Wandering
 
 When performing manual or routine motor tasks, parts of the brain control the physical action while the linguistic processing regions remain underutilized. If left unoccupied, uncontrolled thoughts activate the Default Mode Network (DMN), causing mind-wandering and lowering focus. Rubens intellectually occupied the auditory linguistic channel by combining classical recitations with painting. This is known as <strong>'Cognitive Channelization'</strong>. While his hands controlled the brush, audio information filled the language cortex, preventing idle daydreaming and maintaining peak alertness for simultaneous flow and learning.
 
 ---
 
-## Watch for Cognitive Interference During Language/Logic Tasks
-
-For main tasks requiring high linguistic or logical computation, such as writing proposals or coding, listening to spoken words creates Cognitive Interference between language channels, reducing speed and accuracy. This routine delivers optimal results only during physical, visual, or highly practiced tasks like sketching, drawing, organizing, or formatting.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ For main tasks requiring high linguistic or logical computation, such as writing
   </p>
 </div>
 
+---
+
+## 3. Watch for Cognitive Interference During Language/Logic Tasks
+
+For main tasks requiring high linguistic or logical computation, such as writing proposals or coding, listening to spoken words creates Cognitive Interference between language channels, reducing speed and accuracy. This routine delivers optimal results only during physical, visual, or highly practiced tasks like sketching, drawing, organizing, or formatting.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does listening to popular music or radio provide the same effect as Rubens' routine?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ For main tasks requiring high linguistic or logical computation, such as writing
       No. Pop music or random radio broadcasts excite emotions or cause auditory distraction without densely occupying the linguistic channel, and radio ads interrupt focus. Academic recitations or lectures that engage logic and knowledge processing are ideal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What volume is appropriate when following this recitation listening routine?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "意思決定の疲労を消し去る：チャールズ・シュルツの単一ランチルーティン"
 description: "50年間休むことなくスヌーピーの漫画を描き続けるため、日常の食事と仕事環境を完全に固定していたチャールズ・シュルツ。毎日同じハンバーガーを食べ、前頭葉の認知疲労を防ぎ創造性を最大化した自動化の儀式を探求します。"
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「schulz-routine-hamburger」は <strong>チャールズ・シュルツのハンバーガールーティンに関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>チャールズ・シュルツのハンバーガールーティンに関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自我消耗の防止と前頭葉エネルギー保存の原理
+## 1. 自我消耗の防止と前頭葉エネルギー保存の原理
 
 脳の前頭葉（Prefrontal Cortex）は計画を立て、感情をコントロールし、決定を下す中枢です。しかし神経科学の研究によれば、脳は決定を下す際、それが昼食のメニュー選びのように些細なことであっても意思決定リソースを消耗します。これを「意思決定疲労（Decision Fatigue）」または「自我消耗（Ego Depletion）」と呼びます。シュルツのように毎朝着る服や昼食メニューを前もって固定しておけば、不要な意思決定に消耗される神経エネルギーを完全に遮断し、温存した最高の脳リソースを漫画キャラクターの表情一つ、セリフ一行を創作する中核業務に完全に投資できます。
 
 ---
 
-## 注意事項とヒント
-
-ルーティンを過剰に強制して変動性を100%排除すると、脳はかえってマンネリに陥り、認知機能が鈍化したり退屈を感じたりすることがあります。したがって意思決定の自動化は日常の本質的でない領域（食事、服装、作業環境）だけに適用し、実際の業務内容や趣味、余暇時間など創造的柔軟性が必要な領域には意図的な変奏と探求の余地を残しておくことが新鮮な刺激を維持するコツです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     些細な悩みから解放されて温存された新鮮な集中力を、一日のうち最も重要な戦略立案、企画、執筆に優先的に投じます。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+ルーティンを過剰に強制して変動性を100%排除すると、脳はかえってマンネリに陥り、認知機能が鈍化したり退屈を感じたりすることがあります。したがって意思決定の自動化は日常の本質的でない領域（食事、服装、作業環境）だけに適用し、実際の業務内容や趣味、余暇時間など創造的柔軟性が必要な領域には意図的な変奏と探求の余地を残しておくことが新鮮な刺激を維持するコツです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

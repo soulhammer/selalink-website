@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ボルリンゲンの小屋のデジタルデトックス：カール・ユングの無意識回復法とDMN認知リセット"
 description: "分析心理学の開拓者カール・ユング。騒音や電気すら遮断された小屋で薪を割りながら脳をリセットした彼の知恵と、デフォルト・モード・ネットワーク（DMN）活性化、前頭前野認知資源回復の原理、および現代風3段階デジタルデトックスルーティンを紹介します。"
 pubDate: "2026-01-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「jung-bollingen-detox」は <strong>カール・ユング自伝『思い出・夢・思想（Memories, Dreams, Reflections）』およびボルリンゲン・タワー・アーカイブ史料考証＆分析心理学（Analytical Psychology）および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>カール・ユング自伝『思い出・夢・思想（Memories, Dreams, Reflections）』およびボルリンゲン・タワー・アーカイブ史料考証＆分析心理学（Analytical Psychology）および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## デフォルト・モード・ネットワーク（DMN）活性化と前頭前野認知資源の回復
+## 1. デフォルト・モード・ネットワーク（DMN）活性化と前頭前野認知資源の回復
 
 私たちが一日中デジタル刺激に露出されると、脳の<strong>前頭前野（Prefrontal Cortex）</strong>は情報を処理し選択的実行統制を維持するために莫大なエネルギーを消耗し、慢性的な<strong>認知疲労（Cognitive Fatigue）</strong>と創造性の枯渇に陥ります。カール・ユングのボルリンゲン小屋のルーティンは、この刺激の連鎖を強制的に断ち切り、脳の<strong>「デフォルト・モード・ネットワーク（Default Mode Network, DMN）」</strong>を活性化する認知リセットの過程でした。人工的な視覚刺激が完全に遮断された状態で、薪割りや水汲みのような単純反復の手作業労働を遂行する時、脳はDMN状態へと進入し、無意識的概念を整理して新たな創造的洞察を引き出します。
 
 ---
 
-## 注意事項：人工的情報刺激を物理的に遮断しアナログ労働に没頭するルール
-
-カール・ユングにとってボルリンゲンの小屋は単なる逃避場所ではなく、外部のノイズや電子機器の刺激を物理的に完璧に遮断した思索の研究室でした。スクリーンを見ながら休息をとろうとしないでください。スマートフォンを目から完全に遠ざけ、手と体を使うアナログ的な原初労働に没頭してこそ、初めて脳の前頭前野の疲労が回復します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：人工的情報刺激を物理的に遮断しアナログ労働に没頭するルール
+
+カール・ユングにとってボルリンゲンの小屋は単なる逃避場所ではなく、外部のノイズや電子機器の刺激を物理的に完璧に遮断した思索の研究室でした。スクリーンを見ながら休息をとろうとしないでください。スマートフォンを目から完全に遠ざけ、手と体を使うアナログ的な原初労働に没頭してこそ、初めて脳の前頭前野の疲労が回復します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>必ずしも小屋のような奥地や静かな場所に行かなければなりませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ、違います。核心は「人工的な情報刺激の物理的遮断」と「アナログ的集中」にあります。家の中の一角をスマートフォンがない区域に定めておき、30分から1時間だけ遮断状態を維持しても、素晴らしい効果を得ることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>なぜ単純な家事や労働が思索に役立つのですか？</span>

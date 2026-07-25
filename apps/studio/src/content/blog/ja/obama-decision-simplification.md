@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "成功的な意思決定を作る秘密？バラク・オバマの意思決定単純化ルーティン"
 description: "第44代米国大統領バラク・オバマが在任中に実践した意思決定単純化ルーティン。前頭葉の決定疲労を減らし重大業務の効率を極大化する3段階の秘訣を探ります。"
 pubDate: "2026-01-06"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「obama-decision-simplification」は <strong>バラク・オバマの歴史的評伝・自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>バラク・オバマの歴史的評伝・自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 意思決定の疲労と自我枯渇：前頭葉のエネルギー限界
+## 1. 意思決定の疲労と自我枯渇：前頭葉のエネルギー限界
 
 心理学や脳科学の実証研究によると、意思決定能力は無限の資源ではなく限られたバッテリーのようなものです。朝起きてどの靴下を履くか、何を食べるか悩む微小な選択すらも前頭葉の認知的資源（Willpower）を消耗させます。この資源が次第に底をつく現象を<strong>「自我枯渇（Ego Depletion）」</strong>または<strong>「決定疲労（Decision Fatigue）」</strong>と呼びます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 効率的な判断管理のための脳科学的アドバイス
-
-より少ない些細な選択は、より深い集中を意味します。日常で何を選ぶか悩むプロセスを簡素化してみてください。脳の浪費される認知の漏れを防ぎ、あなたが本当に成功させたい重要な分野に爆発的な推進力を加えてくれるでしょう。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     単純化された朝の準備プロセスのおかげで温存された朝の時間帯の認知エネルギーを確認します。出社後、軽いメールの確認や些細な会議でこのエネルギーを流してしまわず、本日処理すべき業務の中で最も中核的で難しい意思決定を最初のタスクとして処理します。
   </p>
 </div>
+
+---
+
+## 3. 効率的な判断管理のための脳科学的アドバイス
+
+より少ない些細な選択は、より深い集中を意味します。日常で何を選ぶか悩むプロセスを簡素化してみてください。脳の浪費される認知の漏れを防ぎ、あなたが本当に成功させたい重要な分野に爆発的な推進力を加えてくれるでしょう。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

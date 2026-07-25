@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "冷却过热的大脑：维特根斯坦的西部片排毒法"
 description: "路德维希·维特根斯坦在探索分析哲学极限的同时，常坐在电影院第一排观看西部片以重置过热的大脑。揭示强迫性视觉沉浸如何关停前额叶过载并助力创意突破。"
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 wittgenstein-movie-detox 的内容基于 <strong>路德维希·维特根斯坦历史传记与文献考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>路德维希·维特根斯坦历史传记与文献考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过注意力强制转移实现大脑回路重置与潜伏孵化（Incubation）
+## 1. 通过注意力强制转移实现大脑回路重置与潜伏孵化（Incubation）
 
 当前额叶皮层长时间执着于某一复杂难题时，会因信息过载而遭受认知疲劳，效率陡降。此时即使试图被动休息，潜意识中的反复反刍（Rumination）也会让大脑无法安宁。维特根斯坦在电影院第一排观看西部片，通过强大的替代性刺激实现了“注意力强制重定向”。将视觉与听觉完全浸没在单纯而动态的画面中，使前额叶皮层的分析回路终于停止运转，从而触发大脑的“默认模式网络（DMN）”。在此潜伏孵化（Incubation）阶段，大脑会在无意识中梳理未解难题，带来出人意料的灵感突破。
 
 ---
 
-## 注意事项与技巧
-
-选择用于大脑排毒的电影或媒体时，请避免需要高度思考的悬疑惊悚片、复杂文艺片或沉重悲剧。需要推理剧情或道德判断的媒体无法让大脑休息，反而会额外消耗情感与认知能量。应像维特根斯坦的西部片一样，选择善恶分明的轻动作片、爽片或自然纪录片等无需分析的直白媒体。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     放弃对剧情的批判性评估，单纯让目光跟随画面流动，放松30分钟至1小时重置大脑，随后不上网不思索直接入睡。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与技巧
+
+选择用于大脑排毒的电影或媒体时，请避免需要高度思考的悬疑惊悚片、复杂文艺片或沉重悲剧。需要推理剧情或道德判断的媒体无法让大脑休息，反而会额外消耗情感与认知能量。应像维特根斯坦的西部片一样，选择善恶分明的轻动作片、爽片或自然纪录片等无需分析的直白媒体。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

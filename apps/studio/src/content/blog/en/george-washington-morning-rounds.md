@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "George Washington's Farm Logbook: The Dawn Inspection and Record-Keeping Routine That Forged Presidential Governance"
 description: "Discover how George Washington, who rose at 4 AM to inspect Mount Vernon and record precise agricultural metrics, built the administrative foundation of a nation. Explore the neuroscience of metacognition and lateral prefrontal cortex activation."
 pubDate: "2026-07-04"
@@ -38,22 +39,20 @@ In today's post, we analyze the cognitive neuroscience behind George Washington'
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding george-washington-morning-rounds is based on <strong>Historical Verification from George Washington Biographies, Mount Vernon Estate Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from George Washington Biographies, Mount Vernon Estate Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## How Precision Quantitative Tracking Awakens Metacognition and Activates the Lateral Prefrontal Cortex
+## 1. How Precision Quantitative Tracking Awakens Metacognition and Activates the Lateral Prefrontal Cortex
 
 In cognitive neuroscience, <strong>Metacognition</strong> refers to the higher-order executive capacity to monitor and evaluate one's own state of knowledge and operational efficiency. Weak metacognitive monitoring leads individuals to rely on superficial feelings and confirmation bias, making miscalculations inevitable. George Washington's habit of manually recording exact quantitative metrics—such as temperatures, crop yields, and labor ratios—intensely stimulates the <strong>Lateral Prefrontal Cortex</strong>. By replacing vague assumptions with hard empirical data, this logging mechanism strips away <strong>Cognitive Illusions</strong>, anchoring executive decision-making in objective reality and enabling swift, error-free resource allocation.
 
 ---
 
-## Caution: Excluding Subjective Emotional Impressions to Focus Strictly on Quantitative Metrics
-
-Vague emotional reflections such as 'I felt tired today' fail to trigger metacognitive circuits. Metacognition engages strictly when recording objective numerical data—such as wake-up timestamp, exact pages read, deep work hours, or exercise set counts. Mirroring Washington's logbook, recording hard metrics unlocks executive agency to diagnose and eliminate operational inefficiencies.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Vague emotional reflections such as 'I felt tired today' fail to trigger metacog
   </p>
 </div>
 
+---
+
+## 3. Caution: Excluding Subjective Emotional Impressions to Focus Strictly on Quantitative Metrics
+
+Vague emotional reflections such as 'I felt tired today' fail to trigger metacognitive circuits. Metacognition engages strictly when recording objective numerical data—such as wake-up timestamp, exact pages read, deep work hours, or exercise set counts. Mirroring Washington's logbook, recording hard metrics unlocks executive agency to diagnose and eliminate operational inefficiencies.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>What should I do if I feel discouraged and resist writing in my logbook on low-performing days?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Vague emotional reflections such as 'I felt tired today' fail to trigger metacog
       The neuroscientific core of metacognition is not achieving perfection, but practicing 'accurate self-monitoring'. Honestly confronting and logging low numbers on underperforming days dissolves cognitive denial and builds executive resilience to recalibrate tomorrow's strategy.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it fully effective to manage all metrics exclusively through digital tools like Notion or Excel?</span>

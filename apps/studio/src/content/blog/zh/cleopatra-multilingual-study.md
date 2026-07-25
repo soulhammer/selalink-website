@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "克利奥帕特拉的“多语言学习”：无需译员掌控世界的智力对话习惯"
 description: "探索埃及艳后克利奥帕特拉无需译员流利驾驭至少9种语言的习惯，揭示刺激布罗卡与韦尼克区、提升皮层灰质密度与前额叶认知弹性的认知神经科学原理。"
 pubDate: "2026-03-03"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 cleopatra-multilingual-study 的内容基于 <strong>普鲁塔克传记《希罗名将传（Parallel Lives）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>普鲁塔克传记《希罗名将传（Parallel Lives）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 刺激布罗卡与韦尼克区、提升皮层灰质密度与认知弹性机制
+## 1. 刺激布罗卡与韦尼克区、提升皮层灰质密度与认知弹性机制
 
 听解与输出外语的过程，会高度交叉刺激负责语言接收理解的韦尼克区（Wernicke's Area）与负责语言表达及语法加工的布罗卡区（Broca's Area）。在两种以上截然不同的语法框架与转换体系（Code-switching）间穿梭切换的大脑特训，能强效拉动前额叶皮层的认知控制网络（Cognitive Control Network）。认知神经科学研究表明，长期坚持多语言学习的人群，其大脑皮层的灰质（Gray Matter）密度会显著增厚，工作记忆力与注意力执行控制能力表现优异。依循情境随时切换语言代码的习惯，更为延缓衰老引发的认知退化筑牢了坚实的认知储备（Cognitive Reserve）防线。
 
 ---
 
-## 注意事项与提示：避免被动音视频视听与必须结合主动发声及写作
-
-被动刷听视频课程或播客信息的学习方式，无法重构语言脑区的神经元网络。被动接收仅会刺激浅层的听觉接收区域。若要像克利奥帕特拉那样激活神经可塑性，必须配合“主动输出（Active Output）”：通过大声朗读调动发音肌肉（唇、舌）、布罗卡区与运动皮层，并在无机器翻译辅助的前提下亲手构思并手写句子，如此方能将所学固化为长期记忆。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：避免被动音视频视听与必须结合主动发声及写作
+
+被动刷听视频课程或播客信息的学习方式，无法重构语言脑区的神经元网络。被动接收仅会刺激浅层的听觉接收区域。若要像克利奥帕特拉那样激活神经可塑性，必须配合“主动输出（Active Output）”：通过大声朗读调动发音肌肉（唇、舌）、布罗卡区与运动皮层，并在无机器翻译辅助的前提下亲手构思并手写句子，如此方能将所学固化为长期记忆。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>单纯被动地观看视频课程或外语影视剧，真的无法强化大脑语言区域吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，重构与强化效率极其微弱。单纯的被动视听仅能浅层刺激以韦尼克区为核心的听觉接收电路，却无法重建运动皮层与布罗卡区的发声控制电路。只有像克利奥帕特拉那样亲自调动声带与口腔肌肉进行朗读、并独立构思句式写于纸上，突触连接性方能呈现飞跃式重构。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>同时推进两种以上外语的学习，会不会引发大脑认知过载？</span>

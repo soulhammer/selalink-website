@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "战胜低谷的强制力量：夏目漱石的早晨写作习惯"
 description: "夏目漱石创作文学名著的早晨写作法则。解释无需等待灵感、直接唤醒大脑“作业兴奋”机制的习惯价值。"
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 soseki-forced-writing 的内容基于 <strong>夏目漱石强制写作历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>夏目漱石强制写作历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 行动创造动机的“作业兴奋”效应
+## 1. 行动创造动机的“作业兴奋”效应
 
 的大脑在静坐不动时不会主动分泌动机荷尔蒙。只有开始行动，前额叶皮层与伏隔核才会受到刺激，进而赋予大脑行动力。神经科学研究表明，这种先动起来的行为能够抑制杏仁核不必要的焦虑反应，激活工作记忆电路，显著提升大脑的执行功能。
 
 ---
 
-## 大师关于立即引发行动的建议
-
-不要等待心情或理想环境的形成，先坐在书桌前开始写下一个字。唯有行动才能真正唤醒大脑。不要过度依赖意志力，而是预先设计好能够自然诱发行动的物理环境与习惯信号，这才是保持长期坚持的核心所在。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     当达到预设的 30 分钟时长或最低字数要求后，整理台面，带着成就感结束本次体验。
   </p>
 </div>
+
+---
+
+## 3. 大师关于立即引发行动的建议
+
+不要等待心情或理想环境的形成，先坐在书桌前开始写下一个字。唯有行动才能真正唤醒大脑。不要过度依赖意志力，而是预先设计好能够自然诱发行动的物理环境与习惯信号，这才是保持长期坚持的核心所在。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

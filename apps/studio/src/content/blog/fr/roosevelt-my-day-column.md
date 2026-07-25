@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bâtir un soi inébranlable par l'écriture : La routine de réflexion du soir d'Eleanor Roosevelt"
 description: "Eleanor Roosevelt, l'une des Premières Dames les plus influentes des États-Unis. Révèle sa routine de journalisme nocturne sur 27 ans qui a forgé son identité et ses bienfaits métacognitifs."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ Dans cet article, nous partageons les bienfaits neuroscientifiques de la routine
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant roosevelt-my-day-column est basée sur <strong>Recherche biographique et autobiographique historique sur Eleanor Roosevelt et études en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique et autobiographique historique sur Eleanor Roosevelt et études en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Consolidation de la mémoire et stimulation de la métacognition cognitive
+## 1. Consolidation de la mémoire et stimulation de la métacognition cognitive
 
 Lorsqu'elles ne sont pas structurées, les émotions de la journée surstimulent l'amygdale. Organiser son cours de journée par écrit active l'<strong>hippocampe</strong>, transférant les souvenirs épisodiques vers la mémoire à long terme. De plus, traduire les ressentis en mots objectifs stimule le cortex frontal, renforçant la <strong>métacognition</strong> pour s'observer à la troisième personne.
 
 ---
 
-## Conservez un calme contemplatif plutôt que des objectifs idéalisés
-
-Forcer une positivité artificielle ou consigner des objectifs irréalisables crée un stress cognitif. Comme Eleanor, observez calmement les faits et vos rencontres, en consignant votre état intérieur avec légèreté.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Forcer une positivité artificielle ou consigner des objectifs irréalisables cr
   </p>
 </div>
 
+---
+
+## 3. Conservez un calme contemplatif plutôt que des objectifs idéalisés
+
+Forcer une positivité artificielle ou consigner des objectifs irréalisables crée un stress cognitif. Comme Eleanor, observez calmement les faits et vos rencontres, en consignant votre état intérieur avec légèreté.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si mes entrées de journal semblent répétitives chaque jour ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Forcer une positivité artificielle ou consigner des objectifs irréalisables cr
       Même dans la routine, essayez de capturer une nuance chaque jour : une rencontre, la saveur d'un plat ou l'odeur du temps. Rechercher ces différences développe l'attention et la métacognition.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-ce aussi efficace d'utiliser des applications de journal numérique ou Notion ?</span>

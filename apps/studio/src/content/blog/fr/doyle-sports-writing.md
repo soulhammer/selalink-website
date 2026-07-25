@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Du boxeur au romancier : La routine sportive de stimulation cérébrale et de sécrétion de BDNF d'Arthur Conan Doyle"
 description: "Découvrez pourquoi le médecin et écrivain Arthur Conan Doyle pratiquait des sports intenses comme la boxe et le cricket avant d'écrire. Explorez la neuroscience cognitive montrant comment l'exercice libère du BDNF et stimule les fonctions exécutives."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant doyle-sports-writing est basée sur <strong>Vérification Historique issue de l'autobiographie d'Arthur Conan Doyle *Souvenirs et Aventures (Memories and Adventures)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie d'Arthur Conan Doyle *Souvenirs et Aventures (Memories and Adventures)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation physique, sécrétion de BDNF et maximisation des fonctions exécutives préfrontales
+## 1. Stimulation physique, sécrétion de BDNF et maximisation des fonctions exécutives préfrontales
 
 L'exercice intense ou les sports cardio augmentent le débit cardiaque, inondant le cortex préfrontal (PFC) d'un flux sanguin oxygéné. La neuroscience cognitive montre que l'effort physique déclenche una libération du Facteur Neurotrophique Dérivé du Cerveau (BDNF), stimulant la plasticité synaptique. Simultanément, il optimise les taux de dopamine et de noradrénaline. Pendant environ 60 minutes après l'effort, cet état crée una « Heure d'Or Cognitive », portant les Fonctions Exécutives préfrontales à leur niveau maximal.
 
 ---
 
-## Précautions & Conseils : Profiter de l'« Heure d'Or Cognitive » après l'effort & Éviter les tâches secondaires
-
-Pour Conan Doyle, l'effort intense servait de catalyseur à la réflexion logique. Ne gaspillez pas l'« Heure d'Or Cognitive » post-exercice — quand le flux sanguin et le BDNF sont au sommet — dans des tâches secondaires comme répondre à des courriels ou regarder les réseaux sociaux. Juste après la douche, coupez les notifications et attaquez votre tâche la plus complexe.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour Conan Doyle, l'effort intense servait de catalyseur à la réflexion logiqu
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Profiter de l'« Heure d'Or Cognitive » après l'effort & Éviter les tâches secondaires
+
+Pour Conan Doyle, l'effort intense servait de catalyseur à la réflexion logique. Ne gaspillez pas l'« Heure d'Or Cognitive » post-exercice — quand le flux sanguin et le BDNF sont au sommet — dans des tâches secondaires comme répondre à des courriels ou regarder les réseaux sociaux. Juste après la douche, coupez les notifications et attaquez votre tâche la plus complexe.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Arthur Conan Doyle était-il vraiment un joueur de cricket et un boxeur de haut niveau ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour Conan Doyle, l'effort intense servait de catalyseur à la réflexion logiqu
       Oui, tout à fait. Conan Doyle était un joueur de cricket de premier ordre pour le Marylebone Cricket Club (MCC) et un boxeur émérite qui a arbitré des championnats. Ses expériences sportives ont apporté un réalisme saisissant aux compétences de combat de Sherlock Holmes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Il est difficile pour les personnes occupées de faire de la boxe ou du cricket. Les séances à la maison offrent-elles les mêmes bienfaits ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Ancla Inquebrantable de la Convicción: La Rutina de Silencio Matutino y Estabilización de la Amígdala de Juana de Arco"
 description: "Descubra cómo la heroína francesa Juana de Arco preservó una convicción inquebrantable durante la Guerra de los Cien Años. Explore la neuropsicología de la supresión del ruido, la estabilización de la amígdala y la alineación cognitiva."
 pubDate: "2026-02-12"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre joan-silent-reflection se basa en <strong>Verificación Histórica de las Actas del Juicio de Juana de Arco (*Procès de Condamnation et de Réhabilitation*) e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Actas del Juicio de Juana de Arco (*Procès de Condamnation et de Réhabilitation*) e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estabilización de la Amígdala y Alineación Cognitiva Mediante la Supresión del Ruido
+## 1. Estabilización de la Amígdala y Alineación Cognitiva Mediante la Supresión del Ruido
 
 La exposición constante a estresores visuales y auditivos provoca hiperactividad en la <strong>Amígdala</strong>, el centro de alerta del cerebro, aumentando la ansiedad. Dedicar 10 minutos de silencio al comenzar el día calma la sobrecarga de la amígdala y reduce la tensión simpática. Además, reflexionar sobre valores personales en silencio logra una <strong>Alineación Cognitiva (Cognitive Alignment)</strong>, reduciendo la disonancia interna y reforzando la resiliencia mental.
 
 ---
 
-## Precaución: Bloquee Distracciones Externas para Centrarse Exclusivamente en Valores Internos
-
-Para obtener los beneficios del silencio matutino, dirija su enfoque mental hacia el interior. Rumiar sobre opiniones ajenas o arrepentimientos pasados mantiene la amígdala hipervigilante. Al igual que Juana de Arco fijó su frecuencia en su vocación interior, elimine el ruido externo y alinee su conciencia con una única convicción esencial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para obtener los beneficios del silencio matutino, dirija su enfoque mental haci
   </p>
 </div>
 
+---
+
+## 3. Precaución: Bloquee Distracciones Externas para Centrarse Exclusivamente en Valores Internos
+
+Para obtener los beneficios del silencio matutino, dirija su enfoque mental hacia el interior. Rumiar sobre opiniones ajenas o arrepentimientos pasados mantiene la amígdala hipervigilante. Al igual que Juana de Arco fijó su frecuencia en su vocación interior, elimine el ruido externo y alinee su conciencia con una única convicción esencial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo levantarme antes del amanecer para practicar esta rutina si no soy una persona madrugadora?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para obtener los beneficios del silencio matutino, dirija su enfoque mental haci
       No. La clave de esta rutina es recalibrar su cerebro inmediatamente al despertar, antes de que las notificaciones inunden su mente. Dedicar 10 minutos a su hora habitual de despertar ofrece los mismos beneficios.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es efectiva esta rutina para personas no religiosas que no practican la oración formal?</span>

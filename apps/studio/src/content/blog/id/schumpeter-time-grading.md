@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metakognisi Waktu: Rutinitas Rapor Harian Joseph Schumpeter"
 description: "Ekonom Joseph Schumpeter menilai jam belajar dan fokus di buku catatannya setiap malam dan memberi nilai (A–F). Pelajari efek metakognitif dari umpan balik kuantitatif."
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ Dalam artikel hari ini, kami menganalisis ritual rapor harian Schumpeter dan mem
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai schumpeter-time-grading didasarkan pada <strong>Riset Berdasarkan Biografi Historis dan Catatan Autobiografi Schumpeter & Sains Saraf Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Berdasarkan Biografi Historis dan Catatan Autobiografi Schumpeter & Sains Saraf Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Penyelarasan Metakognisi & Jaringan Imbalan Dopamin Melalui Umpan Balik Kuantitatif
+## 1. Penyelarasan Metakognisi & Jaringan Imbalan Dopamin Melalui Umpan Balik Kuantitatif
 
 Sebagian besar orang menilai kerja seharian secara subjektif dan emosional. Refleksi samar ini mudah berubah menjadi pembenaran diri. Ritual penilaian Schumpeter mengaktifkan metakognisi. Dengan mengkuantifikasi waktu dan memberi nilai, seseorang dapat mengamati perilakunya secara objektif dari sudut pandang pihak ketiga. Objektivitas jujur ini membantu otak terbebas dari bias kognitif dan memotivasi sirkuit imbalan dopamin untuk meraih nilai lebih baik (A) besok.
 
 ---
 
-## Peringatan & Tips
-
-Berhati-hatilah agar rapor harian tidak berubah menjadi kritik diri yang jahat atau obsesi perfeksionis. Jatuh ke dalam ketidakberdayaan terpelajari karena nilai rendah beruntun akan meningkatkan stres dan memblokir tindakan. Perlakukan penilaian secara murni sebagai pengumpulan data tanpa emosi untuk berkembang 10% di hari berikutnya.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Berhati-hatilah agar rapor harian tidak berubah menjadi kritik diri yang jahat a
     Temukan penyebab utama nilai hari ini (mis. buang waktu 1 jam di medsos) dan buat langkah perbaikan, seperti menjauhkan ponsel selama 1 jam besok pagi.
   </p>
 </div>
+
+---
+
+## 3. Peringatan & Tips
+
+Berhati-hatilah agar rapor harian tidak berubah menjadi kritik diri yang jahat atau obsesi perfeksionis. Jatuh ke dalam ketidakberdayaan terpelajari karena nilai rendah beruntun akan meningkatkan stres dan memblokir tindakan. Perlakukan penilaian secara murni sebagai pengumpulan data tanpa emosi untuk berkembang 10% di hari berikutnya.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

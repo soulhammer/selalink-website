@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le génie qui marchait dans le silence le plus absolu : La routine de marche silencieuse et d'élimination du bruit linguistique de Paul Dirac"
 description: "Découvrez comment le pionnier de la mécanique quantique et prix Nobel Paul Dirac a affiné l'équation de Dirac grâce à des marches dominicales silencieuses. Explorez la neuroscience cognitive du relâchement linguistique et de l'activation visuo-spatiale."
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant dirac-silent-walking-contemplation est basée sur <strong>Vérification Historique issue de la biographie de Graham Farmelo *The Strangest Man: The Hidden Life of Paul Dirac* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Graham Farmelo *The Strangest Man: The Hidden Life of Paul Dirac* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Élimination du bruit linguistique et activation des circuits visuo-spatiaux pariétaux
+## 1. Élimination du bruit linguistique et activation des circuits visuo-spatiaux pariétaux
 
 Le dialogue verbal continu et le traitement de texte surchargent les réseaux du langage de l'hémisphère gauche, épuisant la bande passante préfrontale. Marcher d'un pas rythmé dans un silence absolu interrompt le traitement linguistique, soulageant la tension de l'hémisphère gauche. La neuroscience cognitive montre que la marche silencieuse active le bloc-notes visuo-spatial du lobe pariétal, permettant au cerveau de réorganiser des problèmes complexes en représentations géométriques intuitives.
 
 ---
 
-## Précautions & Conseils : Élimination totale des médias audio et linguistiques
-
-Écouter des podcasts, des livres audio ou des actualités pendant la marche maintient le cerveau verrouillé dans le traitement de la syntaxe. Cela prolonge la fatigue de l'hémisphère gauche et empêche la contemplation silencieuse. Pour une routine de style Dirac, offrez un repos total à vos circuits du langage. N'accueillez que des sons ambiants non verbaux pour activer les réseaux pariétaux.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le dialogue verbal continu et le traitement de texte surchargent les réseaux du
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Élimination totale des médias audio et linguistiques
+
+Écouter des podcasts, des livres audio ou des actualités pendant la marche maintient le cerveau verrouillé dans le traitement de la syntaxe. Cela prolonge la fatigue de l'hémisphère gauche et empêche la contemplation silencieuse. Pour une routine de style Dirac, offrez un repos total à vos circuits du langage. N'accueillez que des sons ambiants non verbaux pour activer les réseaux pariétaux.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Une marche silencieuse procure-t-elle les mêmes bénéfices cognitifs au cœur d'une ville bruyante ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le dialogue verbal continu et le traitement de texte surchargent les réseaux du
       Oui. L'élément déterminant n'est pas le silence environnemental absolu, mais la coupure des flux linguistiques (conversations, podcasts ou lecture). Même en plein centre-ville, l'utilisation d'un casque à réduction de bruit pour atténuer les nuisances sonores, combinée à l'absence de contenus linguistiques, procure des bénéfices identiques.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Dois-je m'arrêter pour noter immédiatement les idées brillantes pendant la marche ?</span>

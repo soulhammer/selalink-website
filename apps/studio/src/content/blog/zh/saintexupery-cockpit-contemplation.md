@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "圣埃克苏佩里的驾驶舱笔记法：通过高度孤独与剪裁沉淀提炼本质"
 description: "探讨《小王子》作者兼飞行员圣埃克苏佩里的写作习惯：在驾驶舱的高度孤独中构思，削去不必要的修饰，直达本质。"
 pubDate: "2026-07-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 saintexupery-cockpit-contemplation 的内容基于 <strong>圣埃克苏佩里驾驶舱沉思的历史评传及自传考证与认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>圣埃克苏佩里驾驶舱沉思的历史评传及自传考证与认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 孤独与减法习惯如何最大化前额叶元认知
+## 1. 孤独与减法习惯如何最大化前额叶元认知
 
 神经科学研究表明，隔绝外部噪音的孤独状态能激活大脑的默认模式网络（DMN），促进创意感知。随后，剪裁多余元素或修饰词的减法工作会刺激前额叶元认知，显著提升思考的精确度。
 
 ---
 
-## 圣埃克苏佩里习惯注意事项与精炼技巧
-
-在构思阶段不要自行审查或修改。先在孤独中自由发散，然后在复盘阶段果断削去30%以上不必要的修饰词，遵循这两步流程。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 圣埃克苏佩里习惯注意事项与精炼技巧
+
+在构思阶段不要自行审查或修改。先在孤独中自由发散，然后在复盘阶段果断削去30%以上不必要的修饰词，遵循这两步流程。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>这种“减法法则”可以应用于工作报告或策划案撰写吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的！在坦诚自由地写完初稿后，在第二次复盘中果断削去不必要的修饰词、晦涩术语和拖沓句段，信息的传递力将翻倍。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果剪裁过头导致上下文意思丢失怎么办？</span>

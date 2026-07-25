@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Digital Detox im Turm von Bollingen: Carl Jungs Methode zur Erholung des Unbewussten und kognitiver DMN-Reset"
 description: "Erfahren Sie, wie der Begründer der analytischen Psychologie, Carl Jung, sein Gehirn durch Holzhacken in einem abgeschiedenen Turm ohne Strom entlastete. Entdecken Sie die Neurowissenschaften der DMN-Aktivierung und einen 3-Schritte-Plan für Digital Detox."
 pubDate: "2026-01-21"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Carl Jungs 'B
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu jung-bollingen-detox basiert auf <strong>Historische Überprüfung aus Carl Jungs Autobiografie *Erinnerungen, Träume, Gedanken*, Archiven des Turms von Bollingen & Forschung der analytischen Psychologie und kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Carl Jungs Autobiografie *Erinnerungen, Träume, Gedanken*, Archiven des Turms von Bollingen & Forschung der analytischen Psychologie und kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivierung des Default Mode Network (DMN) und Erholung präfrontaler kognitiver Ressourcen
+## 1. Aktivierung des Default Mode Network (DMN) und Erholung präfrontaler kognitiver Ressourcen
 
 Dauerhafte digitale Reize belasten den <strong>präfrontalen Kortex</strong> und führen zu <strong>kognitiver Erschöpfung (Cognitive Fatigue)</strong>. Carl Jungs Bollingen-Routine unterbrach diesen Dauerreiz und aktivierte das <strong>Default Mode Network (DMN)</strong>. Wenn digitale Eindrücke durch einfache körperliche Arbeiten ersetzt werden, schaltet das Gehirn auf DMN-Verarbeitung um, was unbewusste Gedanken ordnet und kreative Impulse freisetzt.
 
 ---
 
-## Vorsichtsmaßnahme: Künstliche Reize physisch ausschalten und in analoge Arbeit eintauchen
-
-Für Carl Jung war der Turm von Bollingen kein Ort der Flucht, sondern ein Raum zur Reizabschirmung. Versuchen Sie nicht, sich vor Bildschirmen zu erholen. Legen Sie das Smartphone komplett weg und widmen Sie sich analogen Tätigkeiten – nur diese Trennung ermöglicht dem präfrontalen Kortex echte Erholung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Für Carl Jung war der Turm von Bollingen kein Ort der Flucht, sondern ein Raum 
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Künstliche Reize physisch ausschalten und in analoge Arbeit eintauchen
+
+Für Carl Jung war der Turm von Bollingen kein Ort der Flucht, sondern ein Raum zur Reizabschirmung. Versuchen Sie nicht, sich vor Bildschirmen zu erholen. Legen Sie das Smartphone komplett weg und widmen Sie sich analogen Tätigkeiten – nur diese Trennung ermöglicht dem präfrontalen Kortex echte Erholung.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Muss man dazu an einen abgelegenen Ort oder in eine Hütte reisen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Für Carl Jung war der Turm von Bollingen kein Ort der Flucht, sondern ein Raum 
       Nein. Entscheidend ist das 'physische Abschalten künstlicher Reize' und die 'Konzentration auf analoge Tätigkeiten'. Das Einrichten einer handyfreien Zone in den eigenen vier Wänden für 30 bis 60 Minuten erzielt dieselbe Wirkung.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Warum fördern einfache Hausarbeiten oder körperliche Tätigkeiten das Nachdenken?</span>

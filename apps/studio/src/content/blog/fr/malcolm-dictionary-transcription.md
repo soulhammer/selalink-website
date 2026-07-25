@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Copier un dictionnaire entier ? La routine de transcription de Malcolm X pour réinitialiser le cerveau"
 description: "Malcolm X a accompli un bond cognitif spectaculaire. Découvrez son habitude intense de retranscrire mot à mot un dictionnaire entier en prison pour débloquer l'éveil intellectuel, et examinez l'impact de l'écriture manuscrite sur les réseaux neuronaux."
 pubDate: "2026-07-03"
@@ -33,17 +34,17 @@ Dans cet article, nous explorons les mécanismes neuroscientifiques de la routin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant malcolm-dictionary-transcription est basée sur <strong>Biographies historiques, récits autobiographiques de Malcolm X et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques, récits autobiographiques de Malcolm X et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Le pouvoir neurologique de l'écriture manuscrite pour consolider les connexions cérébrales
+## 1. Le pouvoir neurologique de l'écriture manuscrite pour consolider les connexions cérébrales
 
 Lorsqu'on lit un texte du regard, seul le cortex visuel est partiellement activé ; en revanche, prendre des notes à la main ouvre des voies cognitives totalement différentes. Les mouvements moteurs fins requis pour guider un stylo stimulent le <strong>cortex moteur (Motor Cortex)</strong> et les zones d'intégration sensorielle.
 
@@ -51,9 +52,7 @@ Selon la recherche en neurosciences, l'écriture manuscrite stimule le <strong>S
 
 ---
 
-## La pointe du stylo restaure votre attention
-
-La plupart des gens consomment l'information via des claviers ou des écrans tactiles, privant le cerveau de stimulation physique et réduisant la mémorisation à long terme. Consacrer seulement 20 minutes par jour à éteindre son téléphone, prendre un stylo et retranscrire de courts textes inspirants sur papier —à l'image de Malcolm X— restaure l'attention.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La plupart des gens consomment l'information via des claviers ou des écrans tac
   </p>
 </div>
 
+---
+
+## 3. La pointe du stylo restaure votre attention
+
+La plupart des gens consomment l'information via des claviers ou des écrans tactiles, privant le cerveau de stimulation physique et réduisant la mémorisation à long terme. Consacrer seulement 20 minutes par jour à éteindre son téléphone, prendre un stylo et retranscrire de courts textes inspirants sur papier —à l'image de Malcolm X— restaure l'attention.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>La transcription saisie sur ordinateur ou tablette a-t-elle le même effet ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La plupart des gens consomment l'information via des claviers ou des écrans tac
       Non, l'effet est très différent. La saisie au clavier implique des frappes répétitives légères, simplifiant le stimulus sensoriel vers le cortex moteur. À l'inverse, tenir un stylo et tracer chaque ligne sollicite de vastes zones d'association dans tout le cerveau, rendant l'écriture manuscrite incomparablement supérieure pour la mémorisation.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Faut-il prêter attention à la beauté de son écriture ?</span>

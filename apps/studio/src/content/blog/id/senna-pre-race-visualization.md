@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Meditasi di Kecepatan 300 km/jam: Rutinitas Visualisasi Pra-Balapan Ayrton Senna"
 description: "Ayrton Senna, juara legendaris Formula 1, duduk di kokpitnya sebelum setiap balapan dan memejamkan mata untuk memvisualisasikan seluruh lintasan secara sempurna. Temukan mekanisme neurologis gladi mental yang mengaktifkan korteks motorik untuk menghilangkan kesalahan eksekusi."
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ Berikut analisis mekanisme neurologis gladi mental Senna dan cara menerapkannya 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai senna-pre-race-visualization didasarkan pada <strong>Biografi historis Ayrton Senna, catatan balap F1 & penelitian Ilmu Saraf Kognitif psikologi olahraga</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis Ayrton Senna, catatan balap F1 & penelitian Ilmu Saraf Kognitif psikologi olahraga</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Simulasi Visual dan Aktivasi Neuron Motorik di Area Motorik Tambahan (SMA)
+## 1. Simulasi Visual dan Aktivasi Neuron Motorik di Area Motorik Tambahan (SMA)
 
 Bahkan tanpa bergerak secara fisik, membayangkan gerakan secara sangat mendalam mengaktifkan Area Motorik Tambahan (SMA) dan korteks motorik primer. Lebih dari 90% sirkuit neuron yang digunakan saat gerakan fisik nyata ikut aktif.
 
@@ -53,9 +54,7 @@ Gladi mental ini meningkatkan efisiensi transmisi sinyal, mempercepat waktu resp
 
 ---
 
-## Simulasikan Prosesnya, Bukan Hanya Hasilnya
-
-Kesalahan umum saat simulasi mental adalah hanya membayangkan hasilnya (misalnya sukses berpresentasi). Untuk mengaktifkan korteks motorik dan mengurangi kesalahan, Anda harus mensimulasikan rincian prosesnya (misalnya kata pembuka, cara menjawab pertanyaan sulit).
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Kesalahan umum saat simulasi mental adalah hanya membayangkan hasilnya (misalnya
   </p>
 </div>
 
+---
+
+## 3. Simulasikan Prosesnya, Bukan Hanya Hasilnya
+
+Kesalahan umum saat simulasi mental adalah hanya membayangkan hasilnya (misalnya sukses berpresentasi). Untuk mengaktifkan korteks motorik dan mengurangi kesalahan, Anda harus mensimulasikan rincian prosesnya (misalnya kata pembuka, cara menjawab pertanyaan sulit).
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apa yang harus dilakukan jika simulasi justru meningkatkan kecemasan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Kesalahan umum saat simulasi mental adalah hanya membayangkan hasilnya (misalnya
       Kecemasan meningkat jika otak berfokus pada skenario negatif (kegagalan). Hentikan visualisasi segera dan lakukan 'grounding' sensorik—berfokus pada suara napas atau sentuhan fisik—lalu lakukan peregangan ringan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Berapa durasi latihan yang disarankan untuk setiap gladi mental?</span>

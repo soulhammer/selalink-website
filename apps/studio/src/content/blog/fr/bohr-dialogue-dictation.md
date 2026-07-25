@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La physique tressée par le dialogue : La méthode de dictée-discussion et d'écriture métacognitive de Niels Bohr"
 description: "Découvrez comment Niels Bohr, géant de la mécanique quantique, a rédigé de complexes articles de physique grâce à d'incessantes discussions orales et dictées avec ses collègues, et percez le principe neuroscientifique selon lequel l'externalisation de la pensée vers le langage parlé active la métacognition."
 pubDate: "2026-01-19"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant bohr-dialogue-dictation est basée sur <strong>Vérification Historique issue de la biographie d'Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Abraham Pais *Niels Bohr's Times: In Physics, Philosophy, and Polity* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mécanismes neuronaux de l'externalisation du langage intérieur et d'activation de la métacognition
+## 1. Mécanismes neuronaux de l'externalisation du langage intérieur et d'activation de la métacognition
 
 Le « Langage Intérieur (Inner Speech) » purement mental masque souvent des sauts logiques et des ambiguïtés, créant une illusion de compréhension lors de la résolution de problèmes complexes. Dès qu'il est converti en « Langage Extérieur (External Speech) » parlé, le cerveau active des circuits métacognitifs lui permettant d'écouter et de traiter objectivement ses propres idées selon une perspective à la troisième personne. De plus, combiner la parole avec des stimuli sociaux interactifs — comme les questions et retours immédiats d'un auditeur à la manière de Bohr — sollicite puissamment le cortex du langage et les réseaux de contrôle exécutif, réorganisant des intuitions éparses en structures logiques explicites.
 
 ---
 
-## Précautions & Conseils : Éviter le bavardage sans but & Établir des limites de temps structurées
-
-Le plus grand piège lors de l'application d'une routine de dictée-dialogue est de dériver vers un bavardage stérile. Démarrer une discussion sans orientation claire consomme de l'énergie cognitive et du temps tout en détournant de l'objectif de concrétisation. Avant de parler, énoncez explicitement à votre interlocuteur la « question claire et unique » que vous cherchez à résoudre, et imposez un bloc de temps focalisé de 15 à 20 minutes pour maintenir une tension cognitive constructive.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le plus grand piège lors de l'application d'une routine de dictée-dialogue est
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter le bavardage sans but & Établir des limites de temps structurées
+
+Le plus grand piège lors de l'application d'une routine de dictée-dialogue est de dériver vers un bavardage stérile. Démarrer une discussion sans orientation claire consomme de l'énergie cognitive et du temps tout en détournant de l'objectif de concrétisation. Avant de parler, énoncez explicitement à votre interlocuteur la « question claire et unique » que vous cherchez à résoudre, et imposez un bloc de temps focalisé de 15 à 20 minutes pour maintenir une tension cognitive constructive.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment pratiquer cette routine dans un environnement solitaire sans partenaire ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le plus grand piège lors de l'application d'une routine de dictée-dialogue est
       Vous pouvez y suppléer en activant un enregistreur vocal ou une application IA sur votre smartphone et en parlant à voix haute comme si vous expliquiez à un auditeur virtuel. Le facteur crucial n'est pas la présence physique d'un auditeur, mais le processus de stimulation cognitive consistant à convertir la pensée intérieure en langage parlé externe pour le réécouter.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment transformer le contenu d'une discussion orale en un document écrit productif ?</span>

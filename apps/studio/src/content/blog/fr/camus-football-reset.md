@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un remède primitif contre le burn-out et la dépression existentielle : La routine de réinitialisation par le football d'Albert Camus"
 description: "Découvrez comment le prix Nobel de littérature et philosophe français Albert Camus se plongeait dans le rôle de gardien de but lors de ses pannes d'inspiration, et explorez les mécanismes neuroscientifiques de la mise hors ligne préfrontale et de la commutation cognitive cérébelleuse."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant camus-football-reset est basée sur <strong>Vérification Historique issue de la biographie d'Olivier Todd *Albert Camus : Une vie (Albert Camus: A Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Olivier Todd *Albert Camus : Une vie (Albert Camus: A Life)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mise hors ligne préfrontale forcée et commutation cognitive cérébelleuse et motrice
+## 1. Mise hors ligne préfrontale forcée et commutation cognitive cérébelleuse et motrice
 
 S'adonner au raisonnement, à l'écriture ou à la planification épuise le cortex préfrontal en consommant d'importantes quantités de glucose. Lorsque ces ressources s'épuisent, la paralysie cognitive, le burn-out et la fatigue émotionnelle s'installent. Se plonger dans un mouvement physique intense — comme un gardien de but réagissant à un tir — force le cerveau à déplacer le traitement actif du cortex préfrontal vers le cervelet (Cerebellum) et le cortex moteur. Cette « Commutation Cognitive » rapide met le cortex préfrontal surmené hors ligne, lui offrant un répit physiologique et abaissant le taux de cortisol.
 
 ---
 
-## Précautions & Conseils : Éviter la compétition obsédée par le score et les jeux à forte charge stratégique
-
-L'objectif de cette routine est le repos complet du cortex préfrontal et la réinitialisation cognitive. Si vous vous engagez dans des matchs ultra-compétitifs ou des sports exigeant d'intenses calculs tactiques, votre cortex préfrontal reste actif et subit une surcharge secondaire. Pour obtenir l'effet hors ligne, privilégiez le mouvement physique intuitif et réactif, indépendant du score.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'objectif de cette routine est le repos complet du cortex préfrontal et la ré
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter la compétition obsédée par le score et les jeux à forte charge stratégique
+
+L'objectif de cette routine est le repos complet du cortex préfrontal et la réinitialisation cognitive. Si vous vous engagez dans des matchs ultra-compétitifs ou des sports exigeant d'intenses calculs tactiques, votre cortex préfrontal reste actif et subit une surcharge secondaire. Pour obtenir l'effet hors ligne, privilégiez le mouvement physique intuitif et réactif, indépendant du score.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment pratiquer cette routine seul sans partenaires pour des sports d'équipe ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'objectif de cette routine est le repos complet du cortex préfrontal et la ré
       Vous pouvez facilement le pratiquer seul. Les exercices de rebond de balle contre un mur (avec des balles de tennis), le travail au sac de frappe ou les exercices d'échelle d'agilité stimulent le cervelet et le cortex moteur, mettant le cortex préfrontal hors ligne.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Pratiquer un exercice physique lors de journées d'épuisement mental extrême n'accumule-t-il pas plus de fatigue ?</span>

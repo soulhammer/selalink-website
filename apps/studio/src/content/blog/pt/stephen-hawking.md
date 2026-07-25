@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Renderizando o espaço em meio à paralisia total: O treino de lousa virtual de Stephen Hawking"
 description: "Um físico teórico de renome mundial que superou a ELA. Incapaz de segurar uma caneta devido à paralisia, Hawking ativou uma lousa virtual em sua mente para mapear matematicamente o espaço multidimensional."
 pubDate: "2026-06-23"
@@ -33,25 +34,23 @@ Neste post, exploramos a ciência cognitiva por trás da lousa virtual de Hawkin
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre stephen-hawking é baseada em <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
+      Este conteúdo baseia-se em <strong>Stephen Hawking, *My Brief History* (2013) & *Applied Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análise neurocientífica de como a visualização impulsiona o sucesso
+## 1. Análise neurocientífica de como a visualização impulsiona o sucesso
 
 Renderizar em 3D e girar mentalmente formas abstratas ou variáveis complexas estimula o 'Bloco de notas visoespacial', um componente central da memória de trabalho. Isso fortalece as conexões sinápticas entre o lobo parietal e o córtex pré-frontal, aprimorando a capacidade do cérebro de estruturar conceitos multidimensionais.
 
 ---
 
-## Conselho de ciência comportamental para uma rotina de sucesso
-
-Não force a mente a criar imagens em alta resolução a ponto de causar dor de cabeça. Projetar suavemente contornos simples na lousa virtual enquanto respira suavemente é suficiente. Em vez de depender apenas da força de vontade, projete pistas ambientais.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Não force a mente a criar imagens em alta resolução a ponto de causar dor de 
   </p>
 </div>
 
+---
+
+## 3. Conselho de ciência comportamental para uma rotina de sucesso
+
+Não force a mente a criar imagens em alta resolução a ponto de causar dor de cabeça. Projetar suavemente contornos simples na lousa virtual enquanto respira suavemente é suficiente. Em vez de depender apenas da força de vontade, projete pistas ambientais.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quando fecho os olhos só vejo uma tela preta. O que devo fazer?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Não force a mente a criar imagens em alta resolução a ponto de causar dor de 
       Esta é uma resposta totalmente normal. Não force esferas 3D de alta definição; comece mantendo uma forma 2D simples, como um quadrado laranja ou triângulo branco, estável na mente por 3 segundos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Aprimorar essa capacidade de bloco de notas mental ajuda a organizar fluxos de trabalho complexos e definir prioridades?</span>

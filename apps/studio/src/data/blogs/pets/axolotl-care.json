@@ -513,6 +513,10 @@
           "Standar Amphibian Ark"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/axolotl_care.png"
   }
 }

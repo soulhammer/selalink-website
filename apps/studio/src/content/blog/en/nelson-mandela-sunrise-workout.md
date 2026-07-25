@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Nelson Mandela's 'Sunrise Calisthenics': Protecting Body and Mind Behind Bars"
 description: "Nelson Mandela preserved his physical strength and mental fortitude by practicing 5:00 AM calisthenics every morning during 27 years of imprisonment. Discover his sunrise routine for restoring autonomy and psychological resilience."
 pubDate: "2026-01-13"
@@ -38,14 +39,14 @@ In today's post, we examine the scientific foundation of Mandela's 'sunrise cali
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding nelson-mandela-sunrise-workout is based on <strong>Nelson Mandela Sunrise Workout historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Nelson Mandela Sunrise Workout historical critical biography & autobiographical records verification & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Brain Science of Maintaining Autonomy Under Extreme Control
+## 1. Brain Science of Maintaining Autonomy Under Extreme Control
 
 When the external environment is rigidly controlled and no freedom is granted, the brain perceives a loss of behavioral control and slips into a state of learned helplessness, leading to depression and cognitive decline.
 
@@ -53,9 +54,7 @@ Mandela's early morning workout was a behavioral feedback mechanism that signale
 
 ---
 
-## First Morning Movement Determines the Mind for the Day
-
-Do not passively consume external stimuli by lying in bed and staring at your smartphone the moment you open your eyes. Like Nelson Mandela, stretch your body directly and engage in active physical movement to signal to your brain that you hold full agency over your body and your day.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Do not passively consume external stimuli by lying in bed and staring at your sm
   </p>
 </div>
 
+---
+
+## 3. First Morning Movement Determines the Mind for the Day
+
+Do not passively consume external stimuli by lying in bed and staring at your smartphone the moment you open your eyes. Like Nelson Mandela, stretch your body directly and engage in active physical movement to signal to your brain that you hold full agency over your body and your day.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Should I force myself to wake up at 5:00 AM to exercise even if I lack sufficient sleep?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Do not passively consume external stimuli by lying in bed and staring at your sm
       On days with extreme physical exhaustion, it is far better to substitute heavy workouts with 5 to 10 minutes of light stretching and deep breathing. The essence of the Mandela routine is not overworking your body, but initiating the day's agency through your own conscious willpower.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How should beginners with low physical stamina start this routine?</span>

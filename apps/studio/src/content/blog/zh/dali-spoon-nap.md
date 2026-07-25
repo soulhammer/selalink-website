@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "凭一把匙羹描绘宇宙的天才：萨尔瓦多·达利的脑重置午睡与入眠幻觉（Hypnagogia）捕捉习惯"
 description: "探索超现实主义艺术巨匠萨尔瓦多·达利端坐于椅子上手握匙羹在微醺浅睡中醒来并捕捉奇拔艺术灵感的习惯，揭示利用入眠幻觉（Hypnagogia）状态下的西塔波（Theta Waves）与无意识联想捕捉的认知神经科学原理。"
 pubDate: "2026-03-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 dali-spoon-nap 的内容基于 <strong>萨尔瓦多·达利自传《达利的秘密生活（The Secret Life of Salvador Dalí）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>萨尔瓦多·达利自传《达利的秘密生活（The Secret Life of Salvador Dalí）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 睡眠过渡期入眠幻觉（Hypnagogia）西塔波激活与无意识联想捕捉
+## 1. 睡眠过渡期入眠幻觉（Hypnagogia）西塔波激活与无意识联想捕捉
 
 当切入清醒与睡眠交界的微醺状态——入眠幻觉（Hypnagogia，非快动眼1阶段）时，脑波会从高频贝塔波转变为4-8Hz的西塔波（Theta Waves）主导模式。在此时段内，前额叶皮层的逻辑审查与自我抑制电路会暂时休眠，大脑联合区域间会发生自发的突触放电，将平日里毫无关联的荒诞概念自由重组为极具创意的构想。达利所借重的匙羹下落机制，是一套严密的神经工程学开关，它能精准阻断大脑跌入深度非快动眼3阶段睡眠、从而避免觉醒后的睡眠惯性（Sleep Inertia），并在西塔波占主导的入眠瞬息间，将极易挥发的荒诞灵感残像无损捕获。
 
 ---
 
-## 注意事项与提示：5秒内即时外化残像与切断犹豫迟滞
-
-若在听到撞击巨响醒来后沉溺于昏沉快感中犹豫迟滞，在入眠幻觉状态下产生的荒诞残像会在短短几秒内从记忆电路中迅速挥发。本项习惯最核心的成功要素在于坚决极速的反应力：一旦巨响传入耳畔、睁开双眼的瞬间，务必在5秒内毫不迟疑地将脑海中的视觉残像直觉化抄录于画册、手账或手机笔记应用中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：5秒内即时外化残像与切断犹豫迟滞
+
+若在听到撞击巨响醒来后沉溺于昏沉快感中犹豫迟滞，在入眠幻觉状态下产生的荒诞残像会在短短几秒内从记忆电路中迅速挥发。本项习惯最核心的成功要素在于坚决极速的反应力：一旦巨响传入耳畔、睁开双眼的瞬间，务必在5秒内毫不迟疑地将脑海中的视觉残像直觉化抄录于画册、手账或手机笔记应用中。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>萨尔瓦多·达利当年为何特意选择将金属匙羹握在手中进行午睡？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       目的在于将身体陷入睡眠、肌肉张力完全卸下的“入眠极其瞬间”，通过物理坠落音响转化为让大脑即刻苏醒的声音信号。借此能阻断大脑跌入深度非快动眼3阶段慢波睡眠、规避睡眠惯性，从而将纯粹的入眠幻觉（Hypnagogia）超现实灵感完整打捞。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在办公室或图书馆等不宜制造金属坠落噪音的环境中该如何应用？</span>

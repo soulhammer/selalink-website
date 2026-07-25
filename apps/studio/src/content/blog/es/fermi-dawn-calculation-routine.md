@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Concentración Absoluta en la Hora Dorada: La Rutina Matutina de 2 Horas de Cálculo Solitario y Enfoque Máximo de Enrico Fermi"
 description: "Descubra cómo el físico Enrico Fermi, galardonado con el Premio Nobel y creador del primer reactor nuclear, aprovechaba su hora dorada cognitiva dedicando 2 horas matutinas solitarias al cálculo complejo. Explore la neurociencia de la respuesta de despertar del cortisol."
 pubDate: "2026-05-14"
@@ -36,22 +37,20 @@ Como registró su esposa Laura Fermi en sus memorias *Atoms in the Family*, Ferm
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre fermi-dawn-calculation-routine se basa en <strong>Verificación Histórica de *Atoms in the Family: My Life with Enrico Fermi* de Laura Fermi, Archivos Biográficos e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Atoms in the Family: My Life with Enrico Fermi* de Laura Fermi, Archivos Biográficos e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Respuesta de Despertar del Cortisol y la Ciencia Cerebral de la Hora Dorada Cognitiva
+## 1. Respuesta de Despertar del Cortisol y la Ciencia Cerebral de la Hora Dorada Cognitiva
 
 Al despertar, la fisiología humana activa la <strong>'Respuesta de Despertar del Cortisol (CAR)'</strong>, aumentando sus niveles en un 50% en 30-45 minutos. Durante las siguientes 2 o 3 horas, la corteza prefrontal experimenta su <strong>'Hora Dorada Cognitiva'</strong>, alcance en el que el razonamiento lógico, la <strong>Memoria de Trabajo</strong> y la toma de decisiones alcanzan su punto máximo. Proteger la vista de notificaciones y enfocarse en lápiz y papel o código complejo induce un estado de Flujo de Alta Carga Cognitiva, multiplicando la eficiencia.
 
 ---
 
-## Precaución: Evite la Sobrecarga Gastrointestinal y Mantenga el Ayuno Durante la Hora Dorada
-
-Un detalle crítico es evitar desayunos copiosos que recarguen el sistema digestivo. Consumir carbohidratos o grasas desvía el flujo sanguíneo hacia el tracto gastrointestinal, reduciendo la oxigenación cerebral e induciendo somnolencia postprandial (somnolencia por comida). Para preservar la agudeza durante las 2 horas matutinas, mantenga un ayuno ligero consumiendo solo agua, té verde sin azúcar o café solo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Un detalle crítico es evitar desayunos copiosos que recarguen el sistema digest
   </p>
 </div>
 
+---
+
+## 3. Precaución: Evite la Sobrecarga Gastrointestinal y Mantenga el Ayuno Durante la Hora Dorada
+
+Un detalle crítico es evitar desayunos copiosos que recarguen el sistema digestivo. Consumir carbohidratos o grasas desvía el flujo sanguíneo hacia el tracto gastrointestinal, reduciendo la oxigenación cerebral e induciendo somnolencia postprandial (somnolencia por comida). Para preservar la agudeza durante las 2 horas matutinas, mantenga un ayuno ligero consumiendo solo agua, té verde sin azúcar o café solo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo hacer si me resulta difícil mantener la concentración durante 2 horas seguidas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Un detalle crítico es evitar desayunos copiosos que recarguen el sistema digest
       Si 2 horas seguidas resulta abrumador, aplique la técnica de '2 Bloques Divididos': 50 minutos de enfoque profundo y 10 minutos de estiramiento. Durante el descanso de 10 minutos, no mire el teléfono; beba agua o camine un poco para mantener el flujo sanguíneo antes del segundo bloque.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Pueden las personas nocturnas a las que les cuesta madrugar aprovechar esta Hora Dorada Cognitiva?</span>

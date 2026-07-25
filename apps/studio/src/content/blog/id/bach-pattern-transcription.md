@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Maestro yang Menyalin Kitab Musik di Bawah Sinar Rembulan? Kebiasaan Transkripsi Bach yang Merangsang Lobus Parietal"
 description: "Johann Sebastian Bach menginternalisasi aturan matematika sepanjang hidupnya dengan menyalin kitab musik para komponis senior. Pelajari prinsip-prinsip ilmiah tentang bagaimana manipulasi ujung jari merangsang area logika otak beserta rutinitas transkripsi modern."
 pubDate: "2026-06-19"
@@ -31,17 +32,17 @@ Dalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains yang ters
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai bach-pattern-transcription didasarkan pada <strong>Verifikasi Historis dari *Johann Sebastian Bach: His Life, Art, and Works (1802)* karya Johann Nikolaus Forkel & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Johann Sebastian Bach: His Life, Art, and Works (1802)* karya Johann Nikolaus Forkel & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kontrol Motorik Halus Jari dan Asosiasi Lobus Parietal
+## 1. Kontrol Motorik Halus Jari dan Asosiasi Lobus Parietal
 
 Pembelajaran digital modern, seperti mengetik pada keyboard komputer atau layar monitor, adalah aktivitas kognitif berdensitas rendah yang hanya menyapu sebagian kecil area korteks motorik otak. Sebaliknya, tindakan transkripsi analog—memegang pulpen dan menekan teks atau simbol kompleks di atas kertas—membutuhkan kontrol otot halus (Fine Motor) yang presisi.
 
@@ -49,11 +50,7 @@ Dalam proses ini, otak tidak hanya mengaktifkan area perencanaan di lobus fronta
 
 ---
 
-## Saran Neurosains untuk Rutinitas yang Sukses
-
-<strong>Tangan adalah otak yang terproyeksi ke luar.</strong>
-
-Informasi yang dibaca dengan mata di layar monitor atau diseret dengan mouse mengalir sangat dangkal melalui otak lalu menghilang. Jika Anda ingin memperkuat sirkuit logika otak Anda, cobalah mengambil pulpen dan melakukan transkripsi selama 10 menit saja. Sebagaimana Bach menguasai formula sempurna musik Barok dengan menyalin pola fuga yang kompleks menggunakan ujung jarinya, otak Anda juga akan memiliki pengetahuan rumit secara utuh ketika melalui transkripsi analog.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Informasi yang dibaca dengan mata di layar monitor atau diseret dengan mouse men
     Setelah selesai menyalin, sapulah struktur teks yang tersusun di atas kertas secara tenang dari atas ke bawah, menata ulang hubungan logika dan pola penyusunannya secara visual. Tahap pemaduan visual-logis ini mengukuhkan kerangka struktur yang jelas pada lobus frontal.
   </p>
 </div>
+
+---
+
+## 3. Saran Neurosains untuk Rutinitas yang Sukses
+
+<strong>Tangan adalah otak yang terproyeksi ke luar.</strong>
+
+Informasi yang dibaca dengan mata di layar monitor atau diseret dengan mouse mengalir sangat dangkal melalui otak lalu menghilang. Jika Anda ingin memperkuat sirkuit logika otak Anda, cobalah mengambil pulpen dan melakukan transkripsi selama 10 menit saja. Sebagaimana Bach menguasai formula sempurna musik Barok dengan menyalin pola fuga yang kompleks menggunakan ujung jarinya, otak Anda juga akan memiliki pengetahuan rumit secara utuh ketika melalui transkripsi analog.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

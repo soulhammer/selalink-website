@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Absolute Konzentration in der Goldenen Stunde: Enrico Fermis 2-stündige morgendliche Berechnung-Routine und kognitive Spitzen-Fokussierung"
 description: "Erfahren Sie, wie der Physik-Nobelpreisträger Enrico Fermi, Schöpfer des ersten Kernreaktors, seine kognitive Goldene Stunde nutzte, indem er morgens 2 Stunden lang in Isolation komplexe Berechnungen anstellte. Entdecken Sie die Neurowissenschaften der Cortisol-Aufwachreaktion."
 pubDate: "2026-05-14"
@@ -33,25 +34,23 @@ Wie seine Frau Laura Fermi in ihren Memoiren *Atoms in the Family* beschrieb, be
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu fermi-dawn-calculation-routine basiert auf <strong>Historische Überprüfung aus Laura Fermis *Atoms in the Family: My Life with Enrico Fermi*, biografischen Archiven & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Laura Fermis *Atoms in the Family: My Life with Enrico Fermi*, biografischen Archiven & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cortisol-Aufwachreaktion und die Neurowissenschaften der kognitiven Goldenen Stunde
+## 1. Cortisol-Aufwachreaktion und die Neurowissenschaften der kognitiven Goldenen Stunde
 
 Beim Aufwachen löst der Körper die <strong>'Cortisol-Aufwachreaktion (CAR)'</strong> aus, bei der der Cortisolspiegel innerhalb von 30 bis 45 Minuten um 50 % steigt. In den folgenden 2 bis 3 Stunden erlebt der präfrontale Kortex seine <strong>'Kognitive Goldene Stunde'</strong>, in der Logik, <strong>Arbeitsgedächtnis</strong> und Entscheidungsvermögen ihr Tageshoch erreichen. Wenn Sie digitale Reize ausblenden und sich auf komplexe Formeln oder Code konzentrieren, gelangen Sie in einen Zustand kognitiver Höchstleistung.
 
 ---
 
-## Vorsichtsmaßnahme: Vermeidung von Magen-Darm-Überlastung und Einhalten des Fastens in der Goldenen Stunde
-
-Ein wichtiger Punkt ist das Vermeiden eines üppigen Frühstücks, das den Magen belastet. Das Essen von Kohlenhydraten oder Fetten leitet den Blutfluss in den Magen-Darm-Trakt und verringert die Sauerstoffversorgung des Gehirns. Dies führt zu Müdigkeit nach dem Essen (Postprandiale Somnolenz). Bleiben Sie während der 2-stündigen Arbeitsphase nüchtern und trinken Sie nur Wasser, ungesüßten Tee oder schwarzen Kaffee.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Ein wichtiger Punkt ist das Vermeiden eines üppigen Frühstücks, das den Magen
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Vermeidung von Magen-Darm-Überlastung und Einhalten des Fastens in der Goldenen Stunde
+
+Ein wichtiger Punkt ist das Vermeiden eines üppigen Frühstücks, das den Magen belastet. Das Essen von Kohlenhydraten oder Fetten leitet den Blutfluss in den Magen-Darm-Trakt und verringert die Sauerstoffversorgung des Gehirns. Dies führt zu Müdigkeit nach dem Essen (Postprandiale Somnolenz). Bleiben Sie während der 2-stündigen Arbeitsphase nüchtern und trinken Sie nur Wasser, ungesüßten Tee oder schwarzen Kaffee.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was kann ich tun, wenn es mir schwerfällt, 2 Stunden lang ununterbrochen konzentriert zu bleiben?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Ein wichtiger Punkt ist das Vermeiden eines üppigen Frühstücks, das den Magen
       Wenn 2 Stunden am Stück zu viel sind, nutzen Sie das '2-Set-Split'-Prinzip: 50 Minuten Fokussierung gefolgt von 10 Minuten Dehnen. Wichtig: Nutzen Sie die Pause nicht für Smartphones; trinken Sie Wasser oder bewegen Sie sich kurz, um den Denkfluss nicht zu unterbrechen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Können auch Nachtmenschen, denen Frühaufstehen schwerfällt, diese kognitive Goldene Stunde nutzen?</span>

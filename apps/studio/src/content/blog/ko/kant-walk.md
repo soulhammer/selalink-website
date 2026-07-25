@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "쾨니히스베르크의 시계: 임마누엘 칸트의 매일 오후 3시 30분 산책과 일주기 리듬 정밀화"
 description: "근대 철학의 거장 임마누엘 칸트. 이웃들이 보고 시계를 맞췄을 정도로 정확했던 그의 일정한 산책 루틴 속에 숨겨진 뇌과학적 이점과 시상하부 상교차핵(SCN) 자극, 코 호흡(Nasal Breathing)의 원리 및 3단계 실천법을 소개합니다."
 pubDate: "2026-03-18"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>맨프레드 퀸 『칸트 평전(Kant: A Biography)』 사료 고증 & 뇌신경과학(Brain Research) 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 kant-walk 루틴을 다룹니다.
+      본 콘텐츠는 <strong>맨프레드 퀸 『칸트 평전(Kant: A Biography)』 사료 고증 & 뇌신경과학(Brain Research) 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 일주기 리듬(Circadian Rhythm) 정밀화와 시상하부 상교차핵(SCN) 자극
+## 1. 일주기 리듬(Circadian Rhythm) 정밀화와 시상하부 상교차핵(SCN) 자극
 
 매일 오후 3시 30분 정각에 동일한 코스를 걷는 임마누엘 칸트의 엄격한 산책 습관은 뇌의 <strong>시상하부 상교차핵(SCN, Suprachiasmatic Nucleus)</strong>을 정밀 자극하여 생체 <strong>일주기 리듬(Circadian Rhythm)</strong>을 최상의 상태로 고정합니다. 규칙적인 야외 산책 자극은 <strong>자율신경계(Autonomic Nervous System)</strong>의 균형을 차분하게 맞추어 신체적 스트레스를 완화하며, 고도의 추상적 연구로 피로해진 <strong>전전두엽(Prefrontal Cortex)</strong>의 집행 기능을 회복시켜 연역적 사유를 지속할 수 있는 뇌 신경학적 기반을 제공합니다.
 
 ---
 
-## 입을 다물고 코 호흡(Nasal Breathing)에 집중하며 외부 소음을 차단하는 수칙
-
-칸트는 산책 중 입을 벌려 말하는 행동이 신경계를 흐트러뜨리고 면역력을 떨어뜨린다고 믿어, 산책 내내 입을 꾹 다물고 오직 코로만 조용히 호흡했습니다. 산책 시에는 타인과의 잡담이나 스마트폰 자극을 배제하고, 코 호흡과 발걸음의 일정한 리듬에 온전히 몰입하는 것이 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 입을 다물고 코 호흡(Nasal Breathing)에 집중하며 외부 소음을 차단하는 수칙
+
+칸트는 산책 중 입을 벌려 말하는 행동이 신경계를 흐트러뜨리고 면역력을 떨어뜨린다고 믿어, 산책 내내 입을 꾹 다물고 오직 코로만 조용히 호흡했습니다. 산책 시에는 타인과의 잡담이나 스마트폰 자극을 배제하고, 코 호흡과 발걸음의 일정한 리듬에 온전히 몰입하는 것이 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>칸트는 왜 매일 오후 3시 30분에 산책을 나섰나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       고도의 추상적 철학 연구를 장기간 지속하기 위해 생체 리듬을 엄격히 유지하여 자율신경계를 안정시키고, 뇌의 전전두엽 인지 피로를 회복하여 명료한 사유력을 유지하기 위함이었습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>산책 시 꼭 칸트처럼 아무 말도 하지 않고 코로만 숨을 쉬어야 하나요?</span>

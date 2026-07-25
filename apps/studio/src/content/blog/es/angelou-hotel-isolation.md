@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bloqueo Ambiental para la Inmersión: La Rutina de Aislamiento en Hotel de Maya Angelou"
 description: "La legendaria poeta y activista Maya Angelou escribía exclusivamente en habitaciones de hotel vacías y sin estímulos para maximizar la concentración. Explore los principios neurocientíficos del control de estímulos ambientales."
 pubDate: "2026-03-21"
@@ -36,22 +37,20 @@ En la publicación de hoy, analizamos los principios neurocientíficos del contr
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre angelou-hotel-isolation se basa en <strong>Verificación Histórica de los Registros Autobiográficos de Maya Angelou, *Daily Rituals* de Mason Currey e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de los Registros Autobiográficos de Maya Angelou, *Daily Rituals* de Mason Currey e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Control de Estímulos Visuales y Conservación de Energía Cognitiva Prefrontal
+## 1. Control de Estímulos Visuales y Conservación de Energía Cognitiva Prefrontal
 
 Incluso sin una conciencia explícita, el cerebro humano escanea constantemente los estímulos visuales y auditivos del entorno circundante, consumiendo energía cognitiva. Asegurar un espacio de aislamiento exclusivo y minimalista reduce drásticamente los estímulos ambientales, preservando la energía del lóbulo prefrontal por completo para la inmersión en la tarea.
 
 ---
 
-## Consejos Neurocientíficos para Hábitos Exitosos de Inmersión Ambiental
-
-Es difícil superar las distracciones únicamente con fuerza de voluntad. La verdadera inmersión proviene de diseñar con antelación un entorno de espacio físico donde las tentaciones no puedan arraigarse. Organice su escritorio e aísle los dispositivos electrónicos para crear un entorno en el que su cerebro no tenga más opción que concentrarse.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Es difícil superar las distracciones únicamente con fuerza de voluntad. La ver
     Establezca horarios claros para entrar y salir de la zona de inmersión. Cuando finalice la sesión de escritura o trabajo establecida, levántese por completo de su asiento para crear una línea de límite psicológico entre el trabajo y el descanso.
   </p>
 </div>
+
+---
+
+## 3. Consejos Neurocientíficos para Hábitos Exitosos de Inmersión Ambiental
+
+Es difícil superar las distracciones únicamente con fuerza de voluntad. La verdadera inmersión proviene de diseñar con antelación un entorno de espacio físico donde las tentaciones no puedan arraigarse. Organice su escritorio e aísle los dispositivos electrónicos para crear un entorno en el que su cerebro no tenga más opción que concentrarse.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

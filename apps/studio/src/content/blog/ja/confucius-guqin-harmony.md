@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "心の混乱を整える音律：孔子の古琴修養と聴覚調律ルーティン"
 description: "東洋思想の偉大な師・孔子が乱世と14年の放浪の中でも毎日弦楽器（琴）を調律し演奏して感情を治めたルーティン。能動的聴覚没頭（Active Auditory Engagement）と自律神経系副交感神経活性化の認知神経科学的原理を解き明かします。"
 pubDate: "2026-06-19"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「confucius-guqin-harmony」は <strong>司馬遷『史記 孔子世家』および『論語』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>司馬遷『史記 孔子世家』および『論語』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 弦の微細調律と能動的聴覚没頭（Active Auditory Engagement）による副交感神経活性化
+## 1. 弦の微細調律と能動的聴覚没頭（Active Auditory Engagement）による副交感神経活性化
 
 日常の情報過負荷と業務ストレスは、脳の交感神経系（Sympathetic Nervous System）を過剰活性化させて心拍数を上げ、認知的視野を狭めます。脳科学研究によると、弦楽器の弦を弾きながら物理的振動周波数を微細に合わせる「能動的聴覚没頭」は、自律神経系（ANS）の副交感神経（Parasympathetic Tone）を即座に刺激します。微細な音高の誤差を耳で感知し指先で調律する集中過程は、前頭前野の緊張をほぐし心拍変動（HRV）を安定させて情緒的平静を回復させます。また指先の触覚と音響フィードバックが結合し、視覚的な雑念を遮断して脳に深いリラックスと認知復元の時間を提供します。
 
 ---
 
-## 注意事項＆ヒント：視覚モニター依存の排除と音響波動の直接感得
-
-音楽的リラックス効果を享受するには、調律時に電子チューナーの画面を視覚的に見るだけで合わせる行動を避ける必要があります。画面を継続的にモニタリングすると視覚皮質が作動し、脳が依然として視覚的情報処理モードに閉じ込められます。目を軽く閉じるか視線を下げ、弦を弾く時に指先へと伝わる震えと共鳴胴から放出される聴覚的波動に100％注意を傾けてこそ、自律神経系がリラックスモードに入ります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：視覚モニター依存の排除と音響波動の直接感得
+
+音楽的リラックス効果を享受するには、調律時に電子チューナーの画面を視覚的に見るだけで合わせる行動を避ける必要があります。画面を継続的にモニタリングすると視覚皮質が作動し、脳が依然として視覚的情報処理モードに閉じ込められます。目を軽く閉じるか視線を下げ、弦を弾く時に指先へと伝わる震えと共鳴胴から放出される聴覚的波動に100％注意を傾けてこそ、自律神経系がリラックスモードに入ります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>楽器を扱ったことが一度もない入門者や初心者もこのルーティンを実行できますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、完全に可能です。本ルーティンの目的は演奏の腕前を誇ることではなく、楽器の調律と単音の弾きを通じて「神経系を安定させること」にあります。金属の鍵盤を指で弾くカリンバや、弦が4本だけのウクレレのように、10分で音を合わせて弾くことができる簡単な楽器から始めても、完璧な情緒的リラックス効果を享受できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>スマートフォンチューナーアプリを活用して調律することも効果は同じですか？</span>

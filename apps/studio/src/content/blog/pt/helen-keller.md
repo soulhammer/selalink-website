@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Despertando a Soletração na Palma da Mão na Escuridão: A Rotina de Treinamento de Imitação Tátil e Plasticidade Somatossensorial de Helen Keller"
 description: "Descubra como Helen Keller, que superou a surdocegueira para se tornar uma escritora e ativista dos direitos humanos mundialmente famosa, expandiu seu universo interior estimulando seu córtex somatossensorial por meio da soletração tátil na palma da mão."
 pubDate: "2026-03-12"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre helen-keller é baseada em <strong>Verificação Histórica da Autobiografia de Helen Keller *A História da Minha Vida (The Story of My Life)*, Arquivos da Escola Perkins para Cego e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Helen Keller *A História da Minha Vida (The Story of My Life)*, Arquivos da Escola Perkins para Cego e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação do Córtex Somatossensorial e Neuroplasticidade Cruzada
+## 1. Estimulação do Córtex Somatossensorial e Neuroplasticidade Cruzada
 
 Fechar os olhos para eliminar distrações visuais e confiar no mapeamento tátil intensifica a <strong>Neuroplasticidade</strong> no <strong>Córtex Somatossensorial</strong>. Conforme a resolução tátil aumenta, o cérebro isola padrões estruturais essenciais. Esse processo fortalece as conexões sinápticas, aprimorando a <strong>Metacognição</strong> e a memória de longo prazo.
 
 ---
 
-## Precaução: Bloqueie Distrações Visuais para Focar Estritamente nas Trajetórias Táteis
-
-Não complique este exercício tentando fazer sessões longas. O segredo é dedicar 2 minutos com os olhos fechados, bloqueando distrações visuais e concentrando a atenção tátil na ponta dos dedos e palmas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Não complique este exercício tentando fazer sessões longas. O segredo é dedi
   </p>
 </div>
 
+---
+
+## 3. Precaução: Bloqueie Distrações Visuais para Focar Estritamente nas Trajetórias Táteis
+
+Não complique este exercício tentando fazer sessões longas. O segredo é dedicar 2 minutos com os olhos fechados, bloqueando distrações visuais e concentrando a atenção tátil na ponta dos dedos e palmas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O treinamento sensorial na ponta dos dedos melhora diretamente a memória de longo prazo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Não complique este exercício tentando fazer sessões longas. O segredo é dedi
       Sim, com certeza. Decodificar microtexturas táteis exige uma coativação sináptica mais densa nos lóbulos pré-frontal e parietal do que processar entradas visuais, aumentando a profundidade da memória.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que fazer se a pele seca reduzir minha sensibilidade tátil durante a prática?</span>

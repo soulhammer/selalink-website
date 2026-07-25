@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "연습실 구석에서 타인의 언어를 스크랩한 셰익스피어의 경청 루틴"
 description: "세계 문학사상 최고의 극작가 윌리엄 셰익스피어. 그는 극장 연습실 구석에서 타인의 대화와 억양을 스크랩하고 대사를 입 밖으로 낭독하며 거울 뉴런의 감정 회로를 극대화했습니다."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Shakespeare 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 shakespeare 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Shakespeare 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 성공을 자아내는 뇌과학적 원리 분석
+## 1. 성공을 자아내는 뇌과학적 원리 분석
 
 타인의 언어 리듬과 감정 상태를 정밀하게 추적하여 문장과 대사 구조로 기록해내는 훈련은 대뇌 피질의 언어 연합 영역과 거울 뉴런(Mirror Neurons) 연계를 극적으로 자극합니다. 이는 상대방의 행동 뒤에 숨어 있는 인지적 의도와 맥락을 정밀하게 분해해내는 인지 동조율과 협상 및 커뮤니케이션 조율 능력을 고조시키는 강력한 뇌과학적 메커니즘으로 작동합니다.
 
 ---
 
-## 성공적인 안착을 위한 행동과학 조언
-
-주변인의 대화를 엿듣는 첩보 활동이 아닙니다. 일상에서 드러나는 인간의 언어 표현과 사회적 피드백의 보편적 패턴을 인지과학적으로 응시하는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 성공적인 안착을 위한 행동과학 조언
+
+주변인의 대화를 엿듣는 첩보 활동이 아닙니다. 일상에서 드러나는 인간의 언어 표현과 사회적 피드백의 보편적 패턴을 인지과학적으로 응시하는 것이 핵심입니다. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>타인의 대화 소리가 잘 안 들리는 환경에서는 어떻게 실천하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       뉴스 보도나 교양 토론 인터뷰 영상을 활용하여 발표자가 즐겨 쓰는 부사 패턴, 흥분했을 때 빨라지는 음성 템포 등을 쪼개어 종이에 스크랩하는 것도 훌륭한 언어 동조 훈련이 됩니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>이 언어 스크랩 훈련이 비즈니스 협상이나 제안서 작성에도 대입되나요?</span>

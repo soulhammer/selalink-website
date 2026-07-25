@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "モンテーニュの大梁思索法：視覚的刺激で偏見を揺さぶりメタ認知をオンにする方法"
 description: "フランスの哲学者モンテーニュが自身の書斎の大梁に古代哲学の格言57個を刻み込み、それを見上げて固定観念を打ち破った創造的思索の秘訣を考察します。"
 pubDate: "2026-03-10"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「montaigne-beam-inscription」は <strong>モンテーニュ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>モンテーニュ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 刻まれたテキストがメタ認知をオンにする脳科学的原理
+## 1. 刻まれたテキストがメタ認知をオンにする脳科学的原理
 
 意図的に配置された視覚的格言に目を向ける行為は、認知心理学の「視覚的プライミング（Visual Priming）」理論に合致しています。大脳は目に入ったテキストが無意識に分析し、連想ネットワークを広げて関連記憶を引き出します。特に、顎を上げて天井の文言を見つめる垂直方向の眼球運動と視線の上向調整は、メタ認知の調整役を果たす前頭前野皮質（Prefrontal Cortex）を物理的に活性化させます。これにより、目の前の作業だけに捉われていた視野が広がり、自身の論理が妥当かどうか一段高い次元から省察するよう誘導されます。
 
 ---
 
-## 環境適応（視覚的鈍感化）の防止
-
-どんなに素晴らしい名言でも、天井やモニターの横に長期間同じ形で放置されると、脳はそれを単なる背景要素として扱い無視し始めます。このような視覚的適応（Habituation）を防ぐには、数ヶ月に一度付箋の色や文字の位置を変えたり、新しい文章に交換したりする必要があります。脳に与える斬新さ（Novelty）が維持されてこそ、メタ認知反射が活性化されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     思考が行き詰まったり固執が疑われたりした時、意識的に頭を後ろへ傾け、天井の文言を15秒間黙読します。一時的な視線調整を通じて問題を遠くから俯瞰するメタ認知を入れます。
   </p>
 </div>
+
+---
+
+## 3. 環境適応（視覚的鈍感化）の防止
+
+どんなに素晴らしい名言でも、天井やモニターの横に長期間同じ形で放置されると、脳はそれを単なる背景要素として扱い無視し始めます。このような視覚的適応（Habituation）を防ぐには、数ヶ月に一度付箋の色や文字の位置を変えたり、新しい文章に交換したりする必要があります。脳に与える斬新さ（Novelty）が維持されてこそ、メタ認知反射が活性化されます。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

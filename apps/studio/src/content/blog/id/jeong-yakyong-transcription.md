@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pendorong di Balik 500 Jilid Karya di Pengasingan: Rutinitas Transkripsi Selektif, Penulisan Surat, dan Penyandian Kognitif Dasan Jeong Yak-yong"
 description: "Pelajari bagaimana cendekiawan Silhak terbesar Joseon, Dasan Jeong Yak-yong, menulis lebih dari 500 jilid selama 18 tahun pengasingannya melalui 'Choseo' (transkripsi selektif) dan surat kepada putra-putranya. Temukan neurosains penyandian kognitif graphomotor dan integrasi metakognitif."
 pubDate: "2026-02-01"
@@ -33,25 +34,23 @@ Terisolasi di pondok atap jerami seperti Dasan Chodang, bagaimana ia mengubah is
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai jeong-yakyong-transcription didasarkan pada <strong>Verifikasi Historis dari Kumpulan Karya Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, Autobiografi *Saam Yeonbo* & Penelitian Neurosains Kognitif serta Metakognisi</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Kumpulan Karya Dasan Jeong Yak-yong *Yeoyudang Jeonseo*, Autobiografi *Saam Yeonbo* & Penelitian Neurosains Kognitif serta Metakognisi</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Penyandian Kognitif Melalui Sinkronisasi Tangan-Otak dan Metakognisi
+## 1. Penyandian Kognitif Melalui Sinkronisasi Tangan-Otak dan Metakognisi
 
 Membaca teks secara pasif melibatkan jaringan saraf yang berbeda dari mentranskripsikan dan meringkas paragraf dengan pena secara fisik. Gerakan grafomotorik halus menstimulasi <strong>Korteks Somatosensori</strong>, memancarkan masukan taktil ke <strong>Korteks Prefrontal</strong> dan <strong>Korteks Asosiasi</strong> untuk mendorong <strong>Penyandian Kognitif</strong>. Selain itu, menyusun ulang pengetahuan untuk mengajar orang lain melalui surat memperkuat <strong>Metakognisi</strong>.
 
 ---
 
-## Perhatian: Berfokus pada Penyarian Aktif dan Komentar daripada Transkripsi Tanpa Berpikir
-
-Jebakan paling umum dalam mencatat adalah menyalin teks mentah secara tanpa berpikir. Transkripsi kata demi kata tanpa pemrosesan prefrontal aktif gagal menginduksi penyandian kognitif. Pengetahuan sejati terbangun hanya ketika Anda menyuling ringkasan utama melalui filter kognitif Anda sendiri.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Jebakan paling umum dalam mencatat adalah menyalin teks mentah secara tanpa berp
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Berfokus pada Penyarian Aktif dan Komentar daripada Transkripsi Tanpa Berpikir
+
+Jebakan paling umum dalam mencatat adalah menyalin teks mentah secara tanpa berpikir. Transkripsi kata demi kata tanpa pemrosesan prefrontal aktif gagal menginduksi penyandian kognitif. Pengetahuan sejati terbangun hanya ketika Anda menyuling ringkasan utama melalui filter kognitif Anda sendiri.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah mengetik catatan pada papan ketik digital memberikan manfaat penyandian kognitif yang identik dengan tulisan tangan?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Jebakan paling umum dalam mencatat adalah menyalin teks mentah secara tanpa berp
       Tidak. Tulisan tangan dengan pena di atas kertas secara intensif menstimulasi korteks somatosensori, secara dramatis meningkatkan efisiensi penyandian kognitif. Meskipun mengetik lebih cepat, menekan tombol yang identik memberikan umpan balik taktil yang seragam tanpa stimulasi saraf.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah menjelaskan konsep kepada orang lain memicu manfaat metakognitif meskipun tidak dalam bentuk surat tertulis?</span>

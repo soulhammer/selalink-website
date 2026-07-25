@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "立ち上がった瞬間、脳が覚醒する：リルケのスタンディングデスク没頭の秘訣"
 description: "オーストリアの文豪ライナー・マリア・リルケが立って執筆した身体的脳覚醒習慣をご紹介します。脳血流量を増やし集中力を高める3段階のスタンディング実践法。"
 pubDate: "2026-04-06"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「rilke-standing-writing」は <strong>リルケの立位執筆に関する歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>リルケの立位執筆に関する歴史的評伝・自伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳血流と認知的な警戒心を高める「起立効果」
+## 1. 脳血流と認知的な警戒心を高める「起立効果」
 
 座ってかがんだ姿勢は肺の膨張を妨げ、呼吸を浅くして脳へ流入する酸素量を減少させます。一方、立位デスクを使用して立った姿勢を維持すると、脚や骨盤、背中の大筋肉が重力に抗して収縮し、心拍数をわずかに増加させます。脳科学的にこれは脳血流量（CBF）を約10〜15%増加させ、酸素とブドウ糖の供給を活性化します。身体の微細な緊張状態は脳幹の網様体を刺激してノルエピフリンとドパミンの分泌を活性化し、脳の注意制御速度と作業記憶能力を飛躍的に覚醒させます。
 
 ---
 
-## 身体関節の保護とインターバルのリズム
-
-長時間を立って固定された姿勢で作業すると、下肢静脈瘤が生じたり膝や腰の関節に過度の負担がかかって身体の疲労を増大させます。立位没頭習慣は必ず「循環式インターバルルール」に従う必要があります。30分〜40分立って集中した後は、必ず高さを下げて20分間座ってリズムを変えるか、両足の重心を頻繁に移して軽やかになかば足踏みをするなど身体に変化を与えることで、認知の覚醒と関節の健康を同時に維持できます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     30分が経過してアラームが鳴ったら、デスクの高さを下げるか椅子に座って20分間軽い整理作業を行い、下半身の関節を保護して神経の疲労を循環させます。
   </p>
 </div>
+
+---
+
+## 3. 身体関節の保護とインターバルのリズム
+
+長時間を立って固定された姿勢で作業すると、下肢静脈瘤が生じたり膝や腰の関節に過度の負担がかかって身体の疲労を増大させます。立位没頭習慣は必ず「循環式インターバルルール」に従う必要があります。30分〜40分立って集中した後は、必ず高さを下げて20分間座ってリズムを変えるか、両足の重心を頻繁に移して軽やかになかば足踏みをするなど身体に変化を与えることで、認知の覚醒と関節の健康を同時に維持できます。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "为了灵感漫步于公墓：玛丽·雪莱的“庄严孤独冥想”习惯"
 description: "探索小说《弗兰肯斯坦》作者玛丽·雪莱为何经常漫步于公墓与历史遗迹。解析庄严感与敬畏感激发大脑反思与深度创造力的科学原理。"
 pubDate: "2026-07-07"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 shelley-cemetery-walk 的内容基于 <strong>玛丽·雪莱自传与文学史考证及环境心理学（Environmental Psychology）敬畏感（Awe）研究</strong> 撰写。
+      本内容基于 <strong>玛丽·雪莱自传与文学史考证及环境心理学（Environmental Psychology）敬畏感（Awe）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 庄严空间激发的认知敬畏感与反思神经网络
+## 1. 庄严空间激发的认知敬畏感与反思神经网络
 
 环境心理学研究表明，进入公墓、古老教堂或历史遗迹等充满历史沉淀与庄严感的大自然与建筑空间，会触发大脑特殊的“敬畏感（Awe）”。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 选择远离喧嚣的静谧历史或自然空间
-
-对玛丽·雪莱而言，公墓是沉思生死与存在的安宁圣所。你不必局限于公墓，寻找不受日常喧嚣打扰古老林荫道、静谧的古刹、图书馆或历史遗迹即可。核心在于为大脑提供一个完全脱离世俗刺激与商业噪音的深度空间。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     在树荫下或长椅上停下脚步，翻开随身笔记本。流畅地记录下敬畏感所带来的关于生命与人性的深邃思考与灵感火花。
   </p>
 </div>
+
+---
+
+## 3. 选择远离喧嚣的静谧历史或自然空间
+
+对玛丽·雪莱而言，公墓是沉思生死与存在的安宁圣所。你不必局限于公墓，寻找不受日常喧嚣打扰古老林荫道、静谧的古刹、图书馆或历史遗迹即可。核心在于为大脑提供一个完全脱离世俗刺激与商业噪音的深度空间。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

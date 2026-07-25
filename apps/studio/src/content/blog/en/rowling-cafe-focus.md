@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Writer Who Wrote Magic Amid Café Noise? J.K. Rowling's Ambient Noise Immersion Routine"
 description: "Harry Potter author J.K. Rowling wrote her masterpiece against the ambient chatter of cafés rather than in silence. Discover her routine and the neuroscientific principles of ambient noise in creativity."
 pubDate: "2026-03-03"
@@ -10,7 +11,7 @@ app: "buildself"
 formatVersion: 4
 authority: "Historical Biography & Autobiographical Verification of J.K. Rowling & Cognitive Neuroscience Research"
 steps:
-  - name: "Set Up an Ambient Noise Environment (~70 dB)"
+  - name: "Set Up an Ambient Noise Environment ( ~ 70 dB)"
     text: "Find a quiet corner in a bustling local café, or play natural café chatter or rain white noise at ~70 dB through speakers if working from home."
   - name: "Set Digital Isolation Within Auditory Shield"
     text: "Mute your phone and display only your writing document or journal on screen. Allow the ambient noise to act as a comforting psychological boundary."
@@ -38,14 +39,14 @@ In this post, we explore the neuroscientific mechanisms behind J.K. Rowling's ca
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding rowling-cafe-focus is based on <strong>Historical Biography & Autobiographical Verification of J.K. Rowling & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biography & Autobiographical Verification of J.K. Rowling & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Cognitive Disfluency' Promoting Abstract Brain Activation
+## 1. 'Cognitive Disfluency' Promoting Abstract Brain Activation
 
 When engaging in creative tasks (brainstorming, writing, planning), many seek silent, enclosed spaces like study rooms, but this can backfire. Extreme silence applies subtle pressure, over-tightening attention filters and reducing mental flexibility.
 
@@ -53,14 +54,12 @@ Rowling's routine illustrates the cognitive benefits of ~70 dB ambient noise. St
 
 ---
 
-## Moderate Ambient Noise Opens the Doors of Thought
-
-For Rowling, café chatter was not a distraction, but a cozy shield of noise that offset solitude and gently lubricated creative circuits. When your thoughts feel stuck in a silent room, head to a café or fill your room with ambient white noise.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Set Up an Ambient Noise Environment (~70 dB)</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Set Up an Ambient Noise Environment ( ~ 70 dB)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     Find a quiet corner in a bustling local café, or play natural café chatter or rain white noise at ~70 dB through speakers if working from home.
@@ -87,12 +86,18 @@ For Rowling, café chatter was not a distraction, but a cozy shield of noise tha
   </p>
 </div>
 
+---
+
+## 3. Moderate Ambient Noise Opens the Doors of Thought
+
+For Rowling, café chatter was not a distraction, but a cozy shield of noise that offset solitude and gently lubricated creative circuits. When your thoughts feel stuck in a silent room, head to a café or fill your room with ambient white noise.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does listening to loud heavy metal or dance music produce the same effect?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ For Rowling, café chatter was not a distraction, but a cozy shield of noise tha
       No. Music with lyrics or loud, patterned noise (>85 dB) invades working memory in the prefrontal cortex, causing fatigue and disrupting focus. Only unpredictable, lyric-free ambient noise triggers positive cognitive disfluency.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is listening to ambient white noise through earphones in a quiet study room helpful?</span>

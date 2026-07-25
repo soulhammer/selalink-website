@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le Premier ministre qui divisait sa journée en deux : La routine de sieste de l'après-midi et de nettoyage de l'adénosine de Winston Churchill"
 description: "Découvrez comment le Premier ministre britannique Winston Churchill, qui a mené les Alliés à la victoire lors de la Seconde Guerre mondiale, faisait une sieste quotidienne de 1,5 heure au lit. Explorez la neuroscience cognitive de l'élimination de l'adénosine accumulée et de la restauration de l'éveil cérébral."
 pubDate: "2026-04-24"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant churchill-afternoon-nap est basée sur <strong>Vérification Historique issue de la biographie de Martin Gilbert *Winston S. Churchill* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Martin Gilbert *Winston S. Churchill* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Nettoyage de l'adénosine et restauration de l'éveil cérébral sans inertie du sommeil
+## 1. Nettoyage de l'adénosine et restauration de l'éveil cérébral sans inertie du sommeil
 
 Pendant les heures d'éveil, l'« adénosine », un sous-produit métabolique, s'accumule dans le cerveau, générant une pression de sommeil. Lorsque l'adénosine se lie aux récepteurs préfrontaux, le traitement exécutif ralentit. Une courte sieste de l'après-midi (sieste flash de 20 minutes ou cycle de 90 minutes) dégrade rapidement l'adénosine. Une sieste de 20 minutes permet de se réveiller avant le sommeil à ondes lentes (NREM Stade 3), évitant l'« Inertie du Sommeil » tout en restaurant l'éveil préfrontal. La sieste de 90 minutes de Churchill exploitait un cycle complet.
 
 ---
 
-## Précautions & Conseils : Éviter la perturbation du sommeil nocturne & Respecter la durée
-
-La règle clé de la sieste est de soulager la fatigue de l'après-midi sans entamer la pression du sommeil nocturne. Faire la sieste après 15h00 ou dormir trop longtemps perturbe l'endormissement du soir. Pour les travailleurs du savoir, une « Sieste Flash » de 15 à 20 minutes est idéale. Dépasser 30 minutes plonge le cerveau dans le sommeil profond, provoquant une lourde inertie du sommeil au réveil.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La règle clé de la sieste est de soulager la fatigue de l'après-midi sans ent
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter la perturbation du sommeil nocturne & Respecter la durée
+
+La règle clé de la sieste est de soulager la fatigue de l'après-midi sans entamer la pression du sommeil nocturne. Faire la sieste après 15h00 ou dormir trop longtemps perturbe l'endormissement du soir. Pour les travailleurs du savoir, une « Sieste Flash » de 15 à 20 minutes est idéale. Dépasser 30 minutes plonge le cerveau dans le sommeil profond, provoquant une lourde inertie du sommeil au réveil.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quelle est la différence entre la sieste de 1,5 heure au lit de Churchill et une sieste flash moderne de 20 minutes ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La règle clé de la sieste est de soulager la fatigue de l'après-midi sans ent
       La sieste de 1,5 heure de Churchill compensait un sommeil nocturne restreint (4 à 5 heures) en couvrant un cycle complet de 90 minutes comprenant les phases NREM et REM. En revanche, une sieste flash moderne de 20 minutes préserve un sommeil nocturne normal de 7 heures, restant dans les phases légères NREM 1 à 2 pour éliminer l'adénosine sans inertie.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Une sieste de 20 minutes est-elle inutile si je ferme les yeux sans réussir à m'endormir ?</span>

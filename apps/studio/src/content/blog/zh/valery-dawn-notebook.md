@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "凌晨4点的手稿（Cahiers）：保罗·瓦莱里的大脑意识记录法"
 description: "诗人保罗·瓦莱里在51年间每天凌晨4点起床，书写自手稿《Cahiers》。探讨屏蔽外部刺激的大早清静为何能将前额叶的反思与分析智能唤醒至顶峰的科学原因。"
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 valery-dawn-notebook 的内容基于 <strong>瓦莱里晨间笔记（Valery Dawn Notebook）历史传记及自传记载考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>瓦莱里晨间笔记（Valery Dawn Notebook）历史传记及自传记载考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 晨间清静带来的认知噪音屏蔽与觉醒激素作用
+## 1. 晨间清静带来的认知噪音屏蔽与觉醒激素作用
 
 在日常白天，大脑面临着噪音、邮件、即时通讯等无数外部刺激，白白浪费着认知资源。然而在凌晨4点，周围世界完全沉寂，大脑用于筛选外部刺激的能量消耗接近于零。同时，醒来时皮质醇激素水平的逐渐上升可以在无压力的情况下平静唤醒大脑，为前额叶主导的深度反思性写作与自我观照营造出完美的生理条件。
 
 ---
 
-## 注意事项与提示
-
-刚起床、在大脑完全清醒前的昏沉状态下，如果立即投入复杂的机械性工作或数值计算，效率反而会下降。在此时段，安排直觉性笔记、自由写作或哲学阅读比逻辑演算更契合认知效率。此外，为了确保早晨时光不受打扰，在起床后的1小时内切勿查看手机或邮件，建立坚固的隔离屏障至关重要。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     翻开笔记，不拘泥于形式，用笔默默写下自己的想法、感受和涌现的智力创意，持续30分钟，以精炼思考。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与提示
+
+刚起床、在大脑完全清醒前的昏沉状态下，如果立即投入复杂的机械性工作或数值计算，效率反而会下降。在此时段，安排直觉性笔记、自由写作或哲学阅读比逻辑演算更契合认知效率。此外，为了确保早晨时光不受打扰，在起床后的1小时内切勿查看手机或邮件，建立坚固的隔离屏障至关重要。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

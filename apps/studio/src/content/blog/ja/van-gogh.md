@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎晩弟テオに手紙を書き絶望を浄化したヴァン・ゴッホの書簡体省察"
 description: "強烈な色彩で感情を燃やした不滅の画家フィンセント・ファン・ゴッホ。極度の精神的苦痛の中で弟テオに送った数百通の手紙を通じて心を浄化した彼の感情言語化習慣について解説します。"
 pubDate: "2026-04-21"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「van-gogh」は <strong>フィンセント・ファン・ゴッホの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>フィンセント・ファン・ゴッホの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 感情の浄化と集中を生み出す脳科学的原理の分析
+## 1. 感情の浄化と集中を生み出す脳科学的原理の分析
 
 文章を通じて感情を客観化し記録する書簡体省察は、前頭葉の認知的な統制を強化し、扁桃体の過剰な不安刺激を制御します。感情を精巧な言語に翻訳して表出するプロセスは、大脳辺縁系の興奮をトップダウン（Top-down）方式で抑制し、メタ認知的解像度を向上させ、高度な精神的覚醒と心理的回復弾力性を回復させます。
 
 ---
 
-## 習慣の定着に向けた行動科学のアドバイス
-
-1日の中で経験する多くの感情的傷をすべて長々と日記に書こうとしないでください。3分間軽く感情の手がかりだけを書き出して客観化する訓練で十分です。無理に意志力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の鍵です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 習慣の定着に向けた行動科学のアドバイス
+
+1日の中で経験する多くの感情的傷をすべて長々と日記に書こうとしないでください。3分間軽く感情の手がかりだけを書き出して客観化する訓練で十分です。無理に意志力だけに頼ろうとせず、行動が自然に誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の鍵です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>手紙を送る仮想の受取人が必ず必要ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       はい。仮想のテオ（Theo）のように自分の本心を偏見なく聞いてくれる対象に手紙を書くように作成する時、感情の素直な言語化と脳のデトックス効果が極大化されます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>デジタルメモアプリを使用してもいいですか？</span>

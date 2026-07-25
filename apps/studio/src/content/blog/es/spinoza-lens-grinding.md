@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El pulido de lentes de Spinoza: Cómo el trabajo físico repetitivo elimina la fatiga cerebral"
 description: "Descubra cómo el filósofo panteísta Spinoza eliminó la sobrecarga cognitiva y restauró la inmersión profunda mientras escribía la 'Ética' mediante el trabajo manual de pulir lentes ópticas."
 pubDate: "2026-04-25"
@@ -34,22 +35,20 @@ Sentado ante su banco de trabajo con polvo de vidrio, los movimientos físicos r
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre spinoza-lens-grinding se basa en <strong>Investigación biográfica histórica sobre el pulido de lentes de Spinoza e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica histórica sobre el pulido de lentes de Spinoza e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurociencia de cómo las habilidades motoras finas previenen el agotamiento cognitivo
+## 1. Neurociencia de cómo las habilidades motoras finas previenen el agotamiento cognitivo
 
 El razonamiento racional continuo de alto nivel o el diseño estructural complejo agotan los recursos cognitivos en la corteza prefrontal. Cambiar a un trabajo manual fino centrado en el tacto (como pulir lentes) activa la corteza motora y el cerebelo, suprimiendo de inmediato la Red por Defecto (DMN) hiperactiva y los pensamientos vagos, permitiendo que la corteza prefrontal se recupere.
 
 ---
 
-## Elegir un Trabajo Manual Completamente Desdigitalizado
-
-Para lograr este efecto de relajación, debe desconectarse por completo de teléfonos o teclados. El uso de dispositivos digitales todavía exige al cerebro un cálculo lógico alto, por lo que no alivia la fatiga. Elija actividades físicas simples que solo requieran retroalimentación táctil y control visoespacial, como lavar platos, transcripción manual o manualidades.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Para lograr este efecto de relajación, debe desconectarse por completo de telé
     Tras 15 minutos de trabajo manual, regrese a su computadora y reanude el trabajo de planificación o desarrollo. Con el espacio mental restaurado, tomará decisiones más claras y eficientes.
   </p>
 </div>
+
+---
+
+## 3. Elegir un Trabajo Manual Completamente Desdigitalizado
+
+Para lograr este efecto de relajación, debe desconectarse por completo de teléfonos o teclados. El uso de dispositivos digitales todavía exige al cerebro un cálculo lógico alto, por lo que no alivia la fatiga. Elija actividades físicas simples que solo requieran retroalimentación táctil y control visoespacial, como lavar platos, transcripción manual o manualidades.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

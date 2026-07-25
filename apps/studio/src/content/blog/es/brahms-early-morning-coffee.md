@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Armonía entre el Café de las 5 AM y el Paseo Matutino: La Potente Rutina de Estimulación Matutina de Johannes Brahms"
 description: "Descubra cómo el maestro clásico alemán Johannes Brahms preparaba café solo a las 5 AM todas las mañanas y caminaba con energía por senderos forestales, y explore el mecanismo neurocientífico de la secreción de BDNF y la mejora de la memoria de trabajo cuando la cafeína se combina con el ejercicio aeróbico."
 pubDate: "2026-06-13"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre brahms-early-morning-coffee se basa en <strong>Verificación Histórica de la Biografía de Max Kalbeck *Johannes Brahms* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Max Kalbeck *Johannes Brahms* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergia Cognitiva entre la Estimulación por Cafeína, la Liberación Post-Ejercicio de BDNF y la Memoria de Trabajo
+## 1. Sinergia Cognitiva entre la Estimulación por Cafeína, la Liberación Post-Ejercicio de BDNF y la Memoria de Trabajo
 
 La cafeína del café matutino bloquea la unión de los receptores de adenosina (Adenosine), cortando las señales de fatiga cerebral e induciendo la liberación de norepinefrina (Norepinephrine) y dopamina (Dopamine) para promover la alerta. Cuando la caminata rápida sigue de inmediato a esta activación fisiológica, el flujo sanguíneo cerebral aumenta y se libera el Factor Neurotrófico Derivado del Cerebro (BDNF). El BDNF protege las neuronas y refuerza la neuroplasticidad sináptica. En consecuencia, la rutina al amanecer de Brahms combinó la estimulación del sistema nervioso central de la cafeína con el mayor aporte de oxígeno de la caminata, elevando la memoria de trabajo (Working Memory) y la planificación creativa a sus picos absolutos.
 
 ---
 
-## Precauciones y Consejos: Considerar el Ritmo del Cortisol y el Momento Adecuado para el Café
-
-Si la cafeína se consume inmediatamente al despertar, cuando los niveles de cortisol (Cortisol) están naturalmente en su punto máximo, su efecto estimulante disminuye y se pueden generar molestias gastrointestinales. Hidrátese primero con agua tibia al despertar y espere de 30 minutos a una hora antes de tomar café, absorbiendo la cafeína a medida que se reducen los niveles naturales de cortisol; este método es más saludable y efectivo para el anclaje cognitivo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Si la cafeína se consume inmediatamente al despertar, cuando los niveles de cor
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Considerar el Ritmo del Cortisol y el Momento Adecuado para el Café
+
+Si la cafeína se consume inmediatamente al despertar, cuando los niveles de cortisol (Cortisol) están naturalmente en su punto máximo, su efecto estimulante disminuye y se pueden generar molestias gastrointestinales. Hidrátese primero con agua tibia al despertar y espere de 30 minutos a una hora antes de tomar café, absorbiendo la cafeína a medida que se reducen los niveles naturales de cortisol; este método es más saludable y efectivo para el anclaje cognitivo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Brahms insistía obstinadamente en preparar personalmente su café en lugar de dejar que otros lo hicieran?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Si la cafeína se consume inmediatamente al despertar, cuando los niveles de cor
       Brahms era un perfeccionista que creía que la intensidad del café afectaba directamente su estado de alerta matutino. La motricidad fina de moler los granos y prepararlo manualmente funcionaba como un potente ancla mental (Mental Anchor), enfocando la atención del cerebro para la jornada.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo contribuye específicamente la caminata matutina a la estimulación cerebral y a la creatividad?</span>

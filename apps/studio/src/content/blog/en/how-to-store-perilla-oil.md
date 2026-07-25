@@ -21,6 +21,7 @@ faqs:
     answer: "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
   - question: "Should sesame oil be refrigerated too?"
     answer: "No, sesame oil is rich in antioxidants, so storing it at room temperature in a dark place is best to protect its flavor. Refrigeration may cause sedimentation and weaken the aroma."
+
 ---
 
 Did you store perilla oil in a kitchen cabinet or room temp pantry like olive or sesame oil? Perilla oil contains over 60% omega-3 fatty acids, causing it to oxidize rapidly, rancidify, and generate harmful carcinogens at room temp. Today, FreshSnap shares cold storage hacks.
@@ -29,10 +30,10 @@ Did you store perilla oil in a kitchen cabinet or room temp pantry like olive or
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>RDA & MFDS</strong>.
+      Based on official storage standards. <strong>RDA & MFDS</strong>.
     </p>
   </div>
 </div>

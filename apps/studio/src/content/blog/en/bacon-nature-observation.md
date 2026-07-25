@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Francis Bacon's Morning Garden Walk: How to Reset Brain Fatigue Through Nature Observation"
 description: "Discover how Francis Bacon, a master of empiricism, walked in his garden every morning to observe plants and weather, relieving brain fatigue and establishing his inductive philosophy."
 pubDate: "2026-01-04"
@@ -36,22 +37,20 @@ In today's post, we analyze the cognitive science principles of Attention Restor
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bacon-nature-observation is based on <strong>Historical Verification from Francis Bacon's Essay *Of Gardens* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Francis Bacon's Essay *Of Gardens* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why Nature Observation Walks Restore Attentional Focus
+## 1. Why Nature Observation Walks Restore Attentional Focus
 
 Modern tasks require artificial 'Directed Attention', easily fatiguing the prefrontal cortex. According to Attention Restoration Theory in environmental psychology, natural stimuli like rustling leaves or sunlight filtering through trees induce 'Soft Fascination'. This shifts attention naturally without forcing brain power, allowing the exhausted prefrontal cognitive control network to rest and recharge, thereby maximizing inductive thinking and creative problem-solving.
 
 ---
 
-## Complete Offlining of Digital Stimuli
-
-Taking photos with a smartphone, replying to text messages, or listening to informative podcasts while walking continues to consume the brain's directed attention. To gain the attention restoration effect, set your smartphone to silent and isolate it completely. Immerse yourself solely in offline sensory stimuli.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Taking photos with a smartphone, replying to text messages, or listening to info
     After finishing your walk, return to your workspace and record newly calibrated thoughts or problem solutions that surfaced during brain rest. Your fully recharged prefrontal cortex will yield clear answers.
   </p>
 </div>
+
+---
+
+## 3. Complete Offlining of Digital Stimuli
+
+Taking photos with a smartphone, replying to text messages, or listening to informative podcasts while walking continues to consume the brain's directed attention. To gain the attention restoration effect, set your smartphone to silent and isolate it completely. Immerse yourself solely in offline sensory stimuli.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

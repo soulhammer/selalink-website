@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'écrivain qui court 10 km chaque matin : La routine d'endurance physique de Haruki Murakami"
 description: "L'auteur à succès mondial Haruki Murakami. Découvrez les principes neuroscientifiques inscrits dans sa routine matinale de 10 km de course et un guide pratique en 3 étapes."
 pubDate: "2026-06-26"
@@ -31,17 +32,17 @@ Après avoir fermé son club de jazz en 1982 pour écrire à plein temps, Muraka
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant murakami-running est basée sur <strong>Biographies historiques et récits autobiographiques de Haruki Murakami et recherches en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Haruki Murakami et recherches en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La neuroscience de la course à pied pour préserver la jeunesse cérébrale
+## 1. La neuroscience de la course à pied pour préserver la jeunesse cérébrale
 
 Rédiger des romans consomme une énergie mentale considérable. Murakami a entraîné son cerveau par la course à pied pour soutenir son travail d'écriture quotidien.
 
@@ -49,11 +50,7 @@ L'exercice aérobique prolongé apporte oxygène et nutriments à l'hippocampe, 
 
 ---
 
-## Conseil neuroscientifique pour réussir sa routine
-
-<strong>La répétition régulière crée des rythmes neuronaux</strong>
-
-Une activité physique quotidienne devient une 'routine automatisée' n'épuisant plus la volonté. Une fois ce rythme ancré dans le cerveau, il forme un bouclier physique capable de résister aux charges mentales. Faites de l'exercice une priorité comme Murakami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Une activité physique quotidienne devient une 'routine automatisée' n'épuisan
     Évitez de consulter vos e-mails ou messages pendant la course. Concentrez-vous uniquement sur le rythme de votre respiration et la sensation de vos pas sur le sol. Cette course en pleine conscience purifie l'esprit.
   </p>
 </div>
+
+---
+
+## 3. Conseil neuroscientifique pour réussir sa routine
+
+<strong>La répétition régulière crée des rythmes neuronaux</strong>
+
+Une activité physique quotidienne devient une 'routine automatisée' n'épuisant plus la volonté. Une fois ce rythme ancré dans le cerveau, il forme un bouclier physique capable de résister aux charges mentales. Faites de l'exercice une priorité comme Murakami.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

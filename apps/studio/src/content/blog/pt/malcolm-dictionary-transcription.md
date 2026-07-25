@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Copiar o dicionário inteiro? A rotina de transcrição de Malcolm X para reiniciar o cérebro"
 description: "Malcolm X alcançou um salto cognitivo dramático. Descubra seu intenso hábito de transcrição de copiar um dicionário palavra por palavra na prisão para alcançar a iluminação intelectual, e examine como a escrita à mão molda as redes neurais."
 pubDate: "2026-07-03"
@@ -33,17 +34,17 @@ Neste post, exploramos os mecanismos neurocientíficos por trás da rotina de tr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre malcolm-dictionary-transcription é baseada em <strong>Biografias históricas, registros autobiográficos de Malcolm X e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Biografias históricas, registros autobiográficos de Malcolm X e pesquisas em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O poder neurológico da escrita à mão na consolidação das conexões cerebrais
+## 1. O poder neurológico da escrita à mão na consolidação das conexões cerebrais
 
 Ao ler um texto visualmente, apenas o córtex visual é parcialmente ativado; contudo, tomar notas à mão abre caminhos cognitivos totalmente diferentes. Os movimentos motores finos de guiar uma caneta estimulam o <strong>Córtex Motor (Motor Cortex)</strong> e áreas de integração sensorial.
 
@@ -51,9 +52,7 @@ Pesquisas neurocientíficas mostram que a escrita manuscrita estimula o <strong>
 
 ---
 
-## A ponta da caneta restaura a atenção
-
-As pessoas modernas consomem informação predominantemente por teclados ou telas sensíveis ao toque, privando o cérebro de estímulo físico e reduzindo a memória de longo prazo. Dedicar apenas 20 minutos por dia para desligar o celular, pegar uma caneta e transcrever trechos marcantes no papel —como Malcolm X— restaura a atenção.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ As pessoas modernas consomem informação predominantemente por teclados ou tela
   </p>
 </div>
 
+---
+
+## 3. A ponta da caneta restaura a atenção
+
+As pessoas modernas consomem informação predominantemente por teclados ou telas sensíveis ao toque, privando o cérebro de estímulo físico e reduzindo a memória de longo prazo. Dedicar apenas 20 minutos por dia para desligar o celular, pegar uma caneta e transcrever trechos marcantes no papel —como Malcolm X— restaura a atenção.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>A transcrição digitada no computador ou tablet tem o mesmo efeito?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ As pessoas modernas consomem informação predominantemente por teclados ou tela
       Não, o efeito é significativamente diferente. Digitar envolve toques leves e repetitivos que simplificam o estímulo sensorial. Pelo contrário, guiar uma caneta traço a traço exercita áreas de associação complexas em todo o cérebro, sendo incomparavelmente superior para a memória e foco.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Preciso me preocupar com a caligrafia ou beleza da letra?</span>

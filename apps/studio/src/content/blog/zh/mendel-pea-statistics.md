@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "2.9万株豌豆的统计数据？格雷戈尔·孟德尔的工作记忆强化法"
 description: "遗传学的伟大开拓者格雷戈尔·孟德尔。探索他在修道院花园里每天用精确数据记录数千株豌豆变化的坚韧毅力，以及训练大脑认知结构、提升工作记忆力的统计记录方法。"
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mendel-pea-statistics 的内容基于 <strong>格雷戈尔·孟德尔历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>格雷戈尔·孟德尔历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 改变数据分析与认知结构的工作记忆训练
+## 1. 改变数据分析与认知结构的工作记忆训练
 
 每天用肉眼观察微小的变化，将其量化并手写在方眼纸上的行为，能够强力激活位于大脑前额叶（Frontal Lobe）的<strong>工作记忆（Working Memory）</strong>区域。工作记忆就像是大脑的“随机存取内存（RAM）”，负责临时储存与加工信息。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 模拟统计让大脑的认知过滤器更加精细
-
-自动化的数字数据分析工具虽然方便，却省略了大脑直接收集和分类数据的主动认知过程。像孟德尔那样每天以模拟手写的方式追踪和记录属于自己的核心统计数据，是精细锻炼大脑信息过滤器、建立耐心的极佳认知训练。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 模拟统计让大脑的认知过滤器更加精细
+
+自动化的数字数据分析工具虽然方便，却省略了大脑直接收集和分类数据的主动认知过程。像孟德尔那样每天以模拟手写的方式追踪和记录属于自己的核心统计数据，是精细锻炼大脑信息过滤器、建立耐心的极佳认知训练。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>一定要用手画图表吗？使用Excel难道不是更方便吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       Excel或数据应用程序将处理过程自动化了，因此视觉认知刺激较低。亲自持尺用手画线、描绘数值起伏的行为，能更强力地刺激大脑下顶叶区域，帮助你直观洞察数据背后的因果关系与显著模式。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>即使数值没有明显变化，也有必要记录吗？</span>

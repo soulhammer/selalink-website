@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pengaturan Mental 6 Pagi yang Tak Terkalahkan: Breakfast Club Michael Jordan dan Efek Pemenang"
 description: "Pelajari bagaimana legenda bola basket Michael Jordan melampaui batas fisik dan mental dengan rutinitas 'Breakfast Club' jam 6 pagi. Temukan neurosains Efek Pemenang, lonjakan dopamin dan testosteron, serta panduan 3 langkah."
 pubDate: "2026-01-16"
@@ -33,25 +34,23 @@ Pada tahun 1989, bermitra dengan pelatih Tim Grover, Jordan meluncurkan 'Breakfa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai jordan-breakfast-club didasarkan pada <strong>Verifikasi Historis dari Autobiografi Michael Jordan *Driven from Within*, Biografi & Penelitian Neurosains Kognitif serta Fisiologi Olahraga</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Michael Jordan *Driven from Within*, Biografi & Penelitian Neurosains Kognitif serta Fisiologi Olahraga</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Pemenang dan Neurosains Lonjakan Dopamin serta Testosteron
+## 1. Efek Pemenang dan Neurosains Lonjakan Dopamin serta Testosteron
 
 Menyelesaikan tantangan fisik yang mendorong batas kemampuan Anda di pagi hari memicu otak untuk segera menyekresi konsentrasi tinggi <strong>dopamin</strong> dan <strong>testosteron</strong>. Secara neurosains, ini mengaktifkan <strong>Efek Pemenang (Winner Effect)</strong>—lingkaran umpan balik positif yang meningkatkan dorongan dominan, efikasi diri, dan toleransi risiko eksekutif sepanjang sisa hari. Selain itu, berolahraga dan berbagi makanan kaya protein dengan rekan-rekan menstimulasi sekresi <strong>oksitosin</strong>.
 
 ---
 
-## Perhatian: Mengurangi Gesekan Prefrontal dengan Memotong Pertimbangan Emosional
-
-Kunci untuk mempertahankan rutinitas latihan pagi adalah beroperasi secara mekanis alih-alih mengandalkan perasaan subjektif harian. Jangan beri otak Anda celah untuk mempertimbangkan 'Apakah saya harus tidur lagi atau bangun?' Saat alarm berbunyi, gerakkan tubuh Anda secara fisik untuk meminimalkan gesekan kognitif prefrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Kunci untuk mempertahankan rutinitas latihan pagi adalah beroperasi secara mekan
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengurangi Gesekan Prefrontal dengan Memotong Pertimbangan Emosional
+
+Kunci untuk mempertahankan rutinitas latihan pagi adalah beroperasi secara mekanis alih-alih mengandalkan perasaan subjektif harian. Jangan beri otak Anda celah untuk mempertimbangkan 'Apakah saya harus tidur lagi atau bangun?' Saat alarm berbunyi, gerakkan tubuh Anda secara fisik untuk meminimalkan gesekan kognitif prefrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana tipe orang malam yang kesulitan bangun pagi dapat mengadaptasi rutinitas ini secara efektif?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Kunci untuk mempertahankan rutinitas latihan pagi adalah beroperasi secara mekan
       Mekanisme neurosains utamanya terletak bukan pada waktu jam 6 pagi yang mutlak, melainkan pada 'mengeksekusi tantangan yang mendorong batas segera setelah bangun tidur'. Tanpa memandang waktu bangun Anda, menyelesaikan latihan fisik intensif memberikan lonjakan hormonal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah latihan intensitas tinggi setiap hari tidak akan menyebabkan overtraining atau cedera?</span>

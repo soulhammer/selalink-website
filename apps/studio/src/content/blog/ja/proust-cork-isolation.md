@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "記憶を呼び覚ます静寂の部屋？マルセル・プルーストのコルク感覚遮断法"
 description: "自伝的名作『失われた時を求めて』を執筆したプルースト。寝室にコルクを張り光と音を遮り記憶をたどった彼の感覚統制ルーティンと神経科学的根拠を紹介します。"
 pubDate: "2026-01-29"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「proust-cork-isolation」は <strong>マルセル・プルースト歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マルセル・プルースト歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 無作為な情報オーバーロードを防ぐ「視床遮断」の効果
+## 1. 無作為な情報オーバーロードを防ぐ「視床遮断」の効果
 
 私たちの脳で感覚情報を意識へ伝達する関門である<strong>視床（Thalamus）</strong>は、周囲の騒音やスマートフォンの光が流入するたびに情報を分類するために相当な me エネルギーを消費します。これは前頭叶の認知的な実行リソースを消耗させ、注意散漫を引き起こします。
 
@@ -47,9 +48,7 @@ faqs:
 
 ---
 
-## 完全な孤立が与える没頭度上昇の秘密
-
-プルーストの感覚統制ルーティンのコアは「妨害要素が根本的に不可能な環境を強制すること」です。カフェや開放的なリビングのように些細な騒音や通り過ぎる人の動きに露出する環境では、脳が無意識に感覚情報を処理するためエネルギーを消費し続けます。ノイズキャンセリングヘッドホンを使ったり部屋の明かりを落としたりして認知的な流入情報をシャットアウトしてこそ、深い記憶の抽出が可能になります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 完全な孤立が与える没頭度上昇の秘密
+
+プルーストの感覚統制ルーティンのコアは「妨害要素が根本的に不可能な環境を強制すること」です。カフェや開放的なリビングのように些細な騒音や通り過ぎる人の動きに露出する環境では、脳が無意識に感覚情報を処理するためエネルギーを消費し続けます。ノイズキャンセリングヘッドホンを使ったり部屋の明かりを落としたりして認知的な流入情報をシャットアウトしてこそ、深い記憶の抽出が可能になります。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>完全な騒音遮断が逆に心理的な不安を引き起こすことはありませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       個人の傾向によって、静寂感がかえって耳鳴りや不安を引き起こすことがあります。その場合は無音の代わりに雨の音や風の音のような自然のピンクノイズ（Pink noise）を小さく流すのがおすすめです。人工的な意味の排除された自然の音は視床の注意を奪うことなく、心地よいリラックス効果を与えます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ベッドに横になって仕事をするのも集中できますか？</span>

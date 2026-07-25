@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "行走的思考造就天才？约翰·斯图尔特·密尔的边走边讨论习惯"
 description: "《论自由》背后的伟大智者约翰·斯图尔特·密尔。探索他每天清晨与父亲漫步于林间小道、背诵经典并展开讨论的独特边走边读习惯，以及提升神经可塑性的运动与认知融合的脑科学效果。"
 pubDate: "2026-01-25"
@@ -20,7 +21,7 @@ faqs:
   - question: "一边听有声书一边散步也能达到同样的效果吗？"
     answer: "听有声书属于被动接收外部信息，这会阻断大脑自行检索记忆提取信息的“主动提取（Active Retrieval）”以及自问自答反思的机会。在散步时让双耳保持清空，主动在脑海中重新加工已读内容，在激活大脑可塑性方面要有效得多。"
   - question: "步行的速度会影响对大脑的刺激吗？"
-    answer: "是的，会有影响。相比过于缓慢的信步，保持呼吸顺畅、节奏轻快的正常步行速度（约每小时4~5公里）是最佳的。在这种轻度有氧强度下，BDNF的分泌量与脑血流量会上升至理想水平；而过于迅捷的奔跑反而会使认知资源过度向运动控制区域倾斜，因此应当避免。"
+    answer: "是的，会有影响。相比过于缓慢的信步，保持呼吸顺畅、节奏轻快的正常步行速度（约每小时4 ~ 5公里）是最佳的。在这种轻度有氧强度下，BDNF的分泌量与脑血流量会上升至理想水平；而过于迅捷的奔跑反而会使认知资源过度向运动控制区域倾斜，因此应当避免。"
 ---
 
 “一位思想巨匠的道路，始于每天清晨在新鲜空气中踏过林间小道的沉思与深刻对话。” 🚶
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mill-classical-walk 的内容基于 <strong>约翰·斯图尔特·密尔历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>约翰·斯图尔特·密尔历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 激活脑细胞的BDNF与神经可塑性的结合
+## 1. 激活脑细胞的BDNF与神经可塑性的结合
 
 与静坐仅凭双眼阅读不同，在散步中进行对话或思考在脑科学上具有巨大的优势。如散步这般的有氧身体活动能急剧增加脑部血流量，并极大地诱导记忆与学习中心——海马体中<strong>脑源性神经营养因子（BDNF, Brain-Derived Neurotrophic Factor）</strong>的活性。BDNF是促进新神经元生成与存活的催化剂。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 身体停止运动，思考也会变得僵化
-
-现代人每天久坐数小时纯粹被动地吸收信息，导致大脑中BDNF水平触底，消化新知识的能力长期处于低迷状态。正如密尔将阅读与身体活动融合在一起的习惯一样，在阅读后立即彻底断开手机网络连接、一边散步一边沉思的晨走仪式，是保持大脑智力灵活性并大幅提升思考力的极佳融合认知法。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 身体停止运动，思考也会变得僵化
+
+现代人每天久坐数小时纯粹被动地吸收信息，导致大脑中BDNF水平触底，消化新知识的能力长期处于低迷状态。正如密尔将阅读与身体活动融合在一起的习惯一样，在阅读后立即彻底断开手机网络连接、一边散步一边沉思的晨走仪式，是保持大脑智力灵活性并大幅提升思考力的极佳融合认知法。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>一边听有声书一边散步也能达到同样的效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       听有声书属于被动接收外部信息，这会阻断大脑自行检索记忆提取信息的“主动提取（Active Retrieval）”以及自问自答反思的机会。在散步时让双耳保持清空，主动在脑海中重新加工已读内容，在激活大脑可塑性方面要有效得多。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>步行的速度会影响对大脑的刺激吗？</span>

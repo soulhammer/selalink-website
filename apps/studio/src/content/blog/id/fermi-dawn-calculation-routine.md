@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Konsentrasi Mutlak di Golden Hour: Rutinitas Kalkulasi Pagi Soliter 2 Jam Enrico Fermi dan Imersi Puncak Kognitif"
 description: "Pelajari bagaimana fisikawan peraih Nobel Enrico Fermi, pencipta reaktor nuklir buatan pertama, memanfaatkan golden hour kognitifnya dengan mendedikasikan 2 jam pagi secara soliter untuk kalkulasi rumit. Temukan neurosains tentang Respon Kesadaran Kortisol."
 pubDate: "2026-05-14"
@@ -33,25 +34,23 @@ Seperti yang dicatat oleh istrinya Laura Fermi dalam memoarnya *Atoms in the Fam
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai fermi-dawn-calculation-routine didasarkan pada <strong>Verifikasi Historis dari *Atoms in the Family: My Life with Enrico Fermi* karya Laura Fermi, Arsip Biografi & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Atoms in the Family: My Life with Enrico Fermi* karya Laura Fermi, Arsip Biografi & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Respon Kesadaran Kortisol dan Ilmu Otak di Balik Golden Hour Kognitif
+## 1. Respon Kesadaran Kortisol dan Ilmu Otak di Balik Golden Hour Kognitif
 
 Saat bangun tidur, fisiologi manusia memicu <strong>'Respon Kesadaran Kortisol (CAR)'</strong>, yang menyebabkan lonjakan alami kadar kortisol sebesar 50% dalam waktu 30 hingga 45 menit. Selama 2 hingga 3 jam berikutnya, korteks prefrontal mengalami <strong>'Golden Hour Kognitif'</strong>, di mana penalaran logis, kapasitas <strong>Memori Kerja</strong>, dan pengambilan keputusan mencapai puncaknya. Menghindari notifikasi digital dan berfokus pada pena dan kertas atau pengodean rumit menginduksi kondisi Flow Beban Kognitif Tinggi.
 
 ---
 
-## Perhatian: Mencegah Kelebihan Beban Pencernaan dan Mempertahankan Puasa Selama Golden Hour
-
-Detail krusial saat menjalankan sesi fokus soliter ini adalah menghindari sarapan berat yang membebani saluran pencernaan. Mengonsumsi karbohidrat atau makanan tinggi lemak mengalihkan aliran darah ke saluran pencernaan, menyebabkan penurunan pasokan oksigen ke otak dan memicu kantuk pascamakan (Postprandial Somnolence). Pertahankan kondisi puasa ringan hanya dengan air, teh hijau tanpa gula, atau kopi hitam hingga pekerjaan selesai.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Detail krusial saat menjalankan sesi fokus soliter ini adalah menghindari sarapa
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mencegah Kelebihan Beban Pencernaan dan Mempertahankan Puasa Selama Golden Hour
+
+Detail krusial saat menjalankan sesi fokus soliter ini adalah menghindari sarapan berat yang membebani saluran pencernaan. Mengonsumsi karbohidrat atau makanan tinggi lemak mengalihkan aliran darah ke saluran pencernaan, menyebabkan penurunan pasokan oksigen ke otak dan memicu kantuk pascamakan (Postprandial Somnolence). Pertahankan kondisi puasa ringan hanya dengan air, teh hijau tanpa gula, atau kopi hitam hingga pekerjaan selesai.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika mempertahankan fokus selama 2 jam penuh terlalu sulit dan pikiran saya terdistraksi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Detail krusial saat menjalankan sesi fokus soliter ini adalah menghindari sarapa
       Jika imersi 2 jam berturut-turut terasa berat pada awalnya, terapkan teknik 'Fokus Terpisah 2 Sesi': 50 menit fokus mendalam diikuti 10 menit peregangan. Yang terpenting, selama istirahat 10 menit, jangan memeriksa pesan; minumlah air atau berjalan ringan untuk menjaga sirkulasi darah.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah tipe orang malam (night owl) yang kesulitan bangun fajar tetap dapat memanfaatkan Golden Hour Kognitif ini?</span>

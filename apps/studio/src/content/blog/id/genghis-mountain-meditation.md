@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Gambaran Besar untuk Menerobos Masa Sulit: Rutinitas Meditasi Visual Puncak Gunung dan Penguasaan Penglihatan Perifer Genghis Khan"
 description: "Pelajari bagaimana penakluk Genghis Khan membersihkan kebisingan mental sebelum pertempuran besar dengan mendaki gunung suci sendirian. Temukan psikologi kognitif dari rutinitas 'Meditasi Visual'-nya dan Teori Restorasi Perhatian."
 pubDate: "2026-04-21"
@@ -33,25 +34,23 @@ Seperti yang dicatat dalam *The Secret History of the Mongols*, setiap kali Geng
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai genghis-mountain-meditation didasarkan pada <strong>Verifikasi Historis dari *Genghis Khan and the Making of the Modern World* karya Jack Weatherford, *The Secret History of the Mongols* & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Genghis Khan and the Making of the Modern World* karya Jack Weatherford, *The Secret History of the Mongols* & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teori Restorasi Perhatian dan Neurosains Pencitraan Mental
+## 1. Teori Restorasi Perhatian dan Neurosains Pencitraan Mental
 
 Melangkah ke lingkungan alam yang luas untuk memblokir kebisingan eksternal melibatkan <strong>Teori Restorasi Perhatian (ART)</strong>, meredakan kelelahan perhatian terarah pada korteks prefrontal. Secara bersamaan, mempraktikkan <strong>Pencitraan Mental</strong> yang jelas—mensimulasikan keberhasilan pencapaian tujuan—mengaktifkan sirkuit di <strong>Korteks Motorik</strong> dan <strong>Korteks Visual</strong> secara identik dengan eksekusi fisik nyata.
 
 ---
 
-## Perhatian: Memecahkan Vision Terowongan Melalui Horison Luas dan Pandangan Perifer
-
-Untuk membuka manfaat pemulihan kognitif dari meditasi visual, Anda harus memperluas kedalaman bidang pandang Anda. Menatap layar digital dekat membuat penglihatan Anda menyempit menjadi 'Vision Terowongan', mempertahankan gairah stres. Sama seperti Genghis Khan yang menatap padang rumput dan cakrawala, beralih ke 'Penglihatan Perifer' (Pandangan Panoramik) memberi sinyal ke otak untuk mematikan deteksi ancaman.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Untuk membuka manfaat pemulihan kognitif dari meditasi visual, Anda harus memper
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Memecahkan Vision Terowongan Melalui Horison Luas dan Pandangan Perifer
+
+Untuk membuka manfaat pemulihan kognitif dari meditasi visual, Anda harus memperluas kedalaman bidang pandang Anda. Menatap layar digital dekat membuat penglihatan Anda menyempit menjadi 'Vision Terowongan', mempertahankan gairah stres. Sama seperti Genghis Khan yang menatap padang rumput dan cakrawala, beralih ke 'Penglihatan Perifer' (Pandangan Panoramik) memberi sinyal ke otak untuk mematikan deteksi ancaman.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika saya tidak dapat dengan mudah mengakses puncak gunung atau atap terbuka?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Untuk membuka manfaat pemulihan kognitif dari meditasi visual, Anda harus memper
       Cukup buka jendela dan tatap objek luar ruangan terjauh yang terlihat selama lebih dari 30 detik. Tujuan neurosainsnya adalah beralih dari 'Vision Terowongan Sempit' ke 'Penglihatan Perifer Luas', meredakan gairah ancaman.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana jika saya kesulitan membangun citra mental yang jelas selama meditasi visual?</span>

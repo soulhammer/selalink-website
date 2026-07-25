@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Secreto del Multimillonario en el Bolsillo Trasero: El Cuaderno Analógico y la Estimulación del SRA de Richard Branson"
 description: "Descubra cómo el fundador de Virgin Group, Sir Richard Branson, creó más de 400 empresas registrando inspiraciones en un cuaderno analógico en su bolsillo trasero, y explore los principios neurocientíficos de cómo la escritura a mano estimula el Sistema de Activación Reticular (SRA) para convertir ideas en acción inmediata."
 pubDate: "2026-03-04"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre branson-notebook-writing se basa en <strong>Verificación Histórica de la Autobiografía de Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación del Sistema de Activación Reticular (SRA) y Percepción Selectiva para la Acción
+## 1. Activación del Sistema de Activación Reticular (SRA) y Percepción Selectiva para la Acción
 
 Ubicado en el tronco encefálico, el Sistema de Activación Reticular (SRA o RAS) es un filtro neuronal que selecciona señales críticas entre una gran cantidad de entradas sensoriales para enviarlas a la corteza cerebral. El acto físico de sostener un bolígrafo y presionar sobre el papel envía una señal biológica: 'Esta información es crucial para mi supervivencia y logro de objetivos'. Un SRA estimulado por la escritura a mano activa los mecanismos de enfoque del cerebro, llevando la mente a un estado de 'Percepción Selectiva' en el que rastrea inconscientemente el entorno en busca de oportunidades, recursos y soluciones asociadas a esa nota. En comparación con simples pensamientos o el tecleo digital, las notas manuscritas aumentan exponencialmente la probabilidad de convertir ideas mentales en resultados concretos.
 
 ---
 
-## Precauciones y Consejos: Preservar Capturas Inmediatas en Bruto en Lugar de una Organización Pulida
-
-La clave de la rutina de cuaderno al estilo Branson radica en la 'inmediatez en bruto': capturar conversaciones o ideas en el acto sin pausar para elaborar frases pulidas. En el momento en que duda para perfeccionar la caligrafía o resumir con esmero, la censura prefrontal se activa y la inspiración subconsciente se esfuma. El registro rápido y sin editar de palabras en bruto es la clave para activar el SRA.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La clave de la rutina de cuaderno al estilo Branson radica en la 'inmediatez en 
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Preservar Capturas Inmediatas en Bruto en Lugar de una Organización Pulida
+
+La clave de la rutina de cuaderno al estilo Branson radica en la 'inmediatez en bruto': capturar conversaciones o ideas en el acto sin pausar para elaborar frases pulidas. En el momento en que duda para perfeccionar la caligrafía o resumir con esmero, la censura prefrontal se activa y la inspiración subconsciente se esfuma. El registro rápido y sin editar de palabras en bruto es la clave para activar el SRA.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿En qué se diferencia funcionalmente usar una aplicación de notas en el teléfono de un cuaderno de papel analógico?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La clave de la rutina de cuaderno al estilo Branson radica en la 'inmediatez en 
       Desbloquear un teléfono inteligente y buscar una aplicación lo expone a notificaciones, mensajes y correos que secuestran la concentración, haciendo que la inspiración se evapore. En cambio, un cuaderno analógico es instantáneo; la fricción táctil y la presión del bolígrafo estimulan con fuerza la corteza somatosensorial y activan el SRA del cerebro.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Existen ejemplos reales en los que una nota trivial en el cuaderno de Branson se convirtiera en un gran éxito empresarial?</span>

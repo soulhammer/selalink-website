@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "완전한 어둠 속의 발명: 알렉산더 그레이엄 벨의 한밤중 감각 차단과 딥워크"
 description: "전화기를 발명하여 인류 소통의 패러다임을 바꾼 알렉산더 그레이엄 벨. 낮 동안의 지독한 감각 과부하를 해소하고 뇌의 집행 기능을 각성시킨 그의 '한밤중 완전 어둠' 딥워크법과 감각 차단(Sensory Deprivation)의 신경과학적 메커니즘을 밝힙니다."
 pubDate: "2026-05-12"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>로버트 V. 브루스 평전 『알렉산더 그레이엄 벨 평전(Bell: Alexander Graham Bell and the Conquest of Solitude)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 bell-midnight-darkness 루틴을 다룹니다.
+      본 콘텐츠는 <strong>로버트 V. 브루스 평전 『알렉산더 그레이엄 벨 평전(Bell: Alexander Graham Bell and the Conquest of Solitude)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 시각·청각 차단을 통한 시공간 스케치북 회로의 활성화
+## 1. 시각·청각 차단을 통한 시공간 스케치북 회로의 활성화
 
 신경과학적으로 눈과 귀로 유입되는 외부 감각 자극을 일시적으로 차단하면, 뇌는 감각 입력 수용체에 쓰던 주의력을 고차원 연합 피질로 재배분합니다. 이 감각 차단(Sensory Deprivation) 상태는 편도체의 불안 반응을 줄이고, 작업 기억의 핵심인 '시공간 스케치북(Visuospatial Sketchpad)' 회로를 강하게 활성화합니다. 그 결과 머릿속에서 복잡한 구조나 아이디어를 입체적으로 시각화하고 조합하는 전두엽의 집행 제어 기능이 비약적으로 향상됩니다.
 
 ---
 
-## 주의사항 및 팁: 완전한 어둠 속 수면 전환 방지
-
-완벽한 어둠 속에서 누워 있으면 대뇌가 수면 모드로 인식하여 서파 수면으로 넘어가기 쉽습니다. 따라서 이 감각 차단 루틴을 진행할 때는 침대 대신 등받이가 있는 의자에 올바른 자세로 앉아 수행하는 것이 좋습니다. 만약 졸음이 밀려올 경우 손가락 끝을 강하게 쥐었다 펴는 가벼운 촉각 운동으로 인지 각성 상태를 유지하세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 완전한 어둠 속 수면 전환 방지
+
+완벽한 어둠 속에서 누워 있으면 대뇌가 수면 모드로 인식하여 서파 수면으로 넘어가기 쉽습니다. 따라서 이 감각 차단 루틴을 진행할 때는 침대 대신 등받이가 있는 의자에 올바른 자세로 앉아 수행하는 것이 좋습니다. 만약 졸음이 밀려올 경우 손가락 끝을 강하게 쥐었다 펴는 가벼운 촉각 운동으로 인지 각성 상태를 유지하세요.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>이 감각 차단 루틴은 매일 고정된 시간에 실천해야만 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       매일 같은 시간에 실천하면 뇌가 해당 시각을 감각 정지 및 딥워크 타이밍으로 기억하여 인지 전환 속도가 더욱 빨라집니다. 다만 시간이 고정되지 않더라도, 극심한 스트레스나 인지 과부하가 걸렸을 때 응급 차원에서의 뇌 휴식 및 구상 도구로 활용해도 충분히 큰 효과를 볼 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>주변 소음을 완벽히 차단할 수 없는 환경일 때는 어떻게 대처하나요?</span>

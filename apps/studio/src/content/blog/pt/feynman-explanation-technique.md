@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Método de Aprendizagem Super-Rápida do Prêmio Nobel: O Hábito de Ensinar e a Maximização Metacognitiva de Richard Feynman"
 description: "Descubra como o prêmio Nobel Richard Feynman ensinava mecânica quântica complexa para que uma criança de 10 anos pudesse entender. Explore a neurociência cognitiva da metacognição e da recuperação ativa."
 pubDate: "2026-02-11"
@@ -35,25 +36,23 @@ No artigo de hoje, revelamos a neurociência por trás do método de Richard Fey
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre feynman-explanation-technique é baseada em <strong>Verificação Histórica da Autobiografia de Richard Feynman *Está Brincando, Sr. Feynman!*, Arquivos de Aulas da Caltech e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Richard Feynman *Está Brincando, Sr. Feynman!*, Arquivos de Aulas da Caltech e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Metacognição e Recuperação Ativa: Expondo os Limites do Conhecimento
+## 1. Metacognição e Recuperação Ativa: Expondo os Limites do Conhecimento
 
 Ler ou ouvir informações de forma passiva não consolida memórias no longo prazo. Por outro lado, verbalizar conceitos ou resumi-los em linguagem simples aciona a <strong>Recuperação Ativa</strong> do cérebro, fixando o conhecimento. Explicar ideias complexas por meio de analogias intuitivas estimula fortemente a <strong>Metacognição</strong> (avaliar a própria compreensão). Eliminar bordões técnicos expõe a ilusão de competência, separando a compreensão real do simples decorar. Assim, o córtex pré-frontal e o hipocampo consolidam o aprendizado na <strong>Memória de Longo Prazo</strong>.
 
 ---
 
-## Precaução: Quebre a Armadilha da Ilusão de Competência via Recuperação Ativa
-
-Folhear textos ou assistir a aulas cria uma falsa sensação de segurança (ilusão de competência) sem ativar vias metacognitivas. Como Feynman, dedique 10 minutos após estudar para explicar o tema em voz alta diante de um papel em branco. Tudo o que você não consegue explicar ainda não é seu conhecimento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Folhear textos ou assistir a aulas cria uma falsa sensação de segurança (ilus
   </p>
 </div>
 
+---
+
+## 3. Precaução: Quebre a Armadilha da Ilusão de Competência via Recuperação Ativa
+
+Folhear textos ou assistir a aulas cria uma falsa sensação de segurança (ilusão de competência) sem ativar vias metacognitivas. Como Feynman, dedique 10 minutos após estudar para explicar o tema em voz alta diante de um papel em branco. Tudo o que você não consegue explicar ainda não é seu conhecimento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>O que fazer se eu não tiver uma criança de verdade por perto para explicar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Folhear textos ou assistir a aulas cria uma falsa sensação de segurança (ilus
       Não é necessária uma criança de verdade. Você pode imaginar um colega, um bichinho de pelúcia ou usar um robô de IA configurado para o nível de 10 anos. O essencial é o processo de filtragem: eliminar bordões técnicos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É normal que as frases fiquem longas e estranhas ao eliminar bordões técnicos?</span>

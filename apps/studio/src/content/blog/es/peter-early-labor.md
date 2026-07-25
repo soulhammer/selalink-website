@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El conocimiento aprendido con las manos nunca se olvida: El entrenamiento de memoria procedimental de Pedro el Grande"
 description: "Descubra el hábito matutino de práctica de habilidades de Pedro el Grande, el monarca reformador que se convirtió en carpintero naval. Una guía de 3 pasos para retener habilidades permanentemente estimulando la memoria procedimental."
 pubDate: "2026-03-18"
@@ -36,22 +37,20 @@ En esta publicación, exploramos los principios científicos detrás de la rutin
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre peter-early-labor se basa en <strong>Investigación de registros biográficos e históricos de Peter Early Labor y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación de registros biográficos e históricos de Peter Early Labor y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## El 'Mecanismo de Memoria Procedimental' que activa la memoria permanente
+## 1. El 'Mecanismo de Memoria Procedimental' que activa la memoria permanente
 
 La neurociencia cognitiva divide la memoria en Declarativa y Procedimental. La rutina de Pedro el Grande activó el cerebelo y los ganglios basales para imbuir memoria procedimental permanente.
 
 ---
 
-## Coordinación equilibrada entre teoría y práctica
-
-Ignorar la teoría por completo para concentrarse solo en la repetición física frena el progreso. La práctica debe equilibrarse con la teoría: dedique un 20% a los conceptos clave y un 80% a la aplicación práctica.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Ignorar la teoría por completo para concentrarse solo en la repetición física
     Dedique los siguientes 20 a 30 minutos a coordinar sus dedos y ojos para grabar el conocimiento en los circuitos del cerebelo, manteniendo el flujo sin detenerse.
   </p>
 </div>
+
+---
+
+## 3. Coordinación equilibrada entre teoría y práctica
+
+Ignorar la teoría por completo para concentrarse solo en la repetición física frena el progreso. La práctica debe equilibrarse con la teoría: dedique un 20% a los conceptos clave y un 80% a la aplicación práctica.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

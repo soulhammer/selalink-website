@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Master Revolusi Percetakan: Rutinitas Inspeksi Presisi Tipe Logam Pagi Hari dan Mekanisme Deteksi Kesalahan ERN Gutenberg"
 description: "Pelajari bagaimana Gutenberg, penemu tipe logam bergerak, menjaga standar sistem dan kualitas cetak dengan menginspeksi kerataan tipe menggunakan tangan dan matanya setiap pagi. Temukan neurosains tentang Anterior Cingulate Cortex (ACC) dan Error-Related Negativity (ERN)."
 pubDate: "2026-06-04"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik rutinit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai gutenberg-movable-type-inspection didasarkan pada <strong>Verifikasi Historis dari Biografi Johannes Gutenberg, Arsip Museum Gutenberg Mainz & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Johannes Gutenberg, Arsip Museum Gutenberg Mainz & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulasi ERN (Error-Related Negativity) dan Mekanisme Deteksi Kesalahan Sistem
+## 1. Stimulasi ERN (Error-Related Negativity) dan Mekanisme Deteksi Kesalahan Sistem
 
 Membiarkan celah kecil atau kesalahan mikro tidak diperiksa dalam sistem operasional memungkinkan kesalahan menumpuk, yang akhirnya menyebabkan kegagalan sistemik. Mempraktikkan inspeksi kelurusan manual 5 menit sebelum eksekusi seperti Gutenberg—sebuah <strong>'Rutinitas Pemeriksaan Kesalahan'</strong>—secara presisi mengkalibrasi sensitivitas respon <strong>Error-Related Negativity (ERN)</strong> di dalam <strong>Anterior Cingulate Cortex (ACC)</strong>.
 
 ---
 
-## Perhatian: Memecahkan Jebakan Mengandalkan Intuisi dan Pintasan Mental Melalui Inspeksi Sistematis
-
-Mengandalkan pintasan mental secara puas diri—menganggap 'ini mungkin sudah cukup baik'—memicu kegagalan sistemik yang fatal. Daripada memaksakan kemauan, tetapkan kebiasaan inspeksi fisik 5 menit sebelum bekerja di lingkungan harian Anda: verifikasi kelurusan sistem dan tiga titik rawan kesalahan secara manual dengan mata dan tangan Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Mengandalkan pintasan mental secara puas diri—menganggap 'ini mungkin sudah cu
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Memecahkan Jebakan Mengandalkan Intuisi dan Pintasan Mental Melalui Inspeksi Sistematis
+
+Mengandalkan pintasan mental secara puas diri—menganggap 'ini mungkin sudah cukup baik'—memicu kegagalan sistemik yang fatal. Daripada memaksakan kemauan, tetapkan kebiasaan inspeksi fisik 5 menit sebelum bekerja di lingkungan harian Anda: verifikasi kelurusan sistem dan tiga titik rawan kesalahan secara manual dengan mata dan tangan Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa harus melakukan inspeksi manual jika sudah ada alat pengujian perangkat lunak otomatis?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Mengandalkan pintasan mental secara puas diri—menganggap 'ini mungkin sudah cu
       Pengujian otomatis menangkap kesalahan logika kode, tetapi melewatkan ketidakseimbangan visual, tata letak yang canggung, dan gesekan yang dirasakan pengguna. Inspeksi manusia selama 5 menit memberikan sentuhan akhir yang dibutuhkan untuk kesempurnaan sejati.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana jika melakukan inspeksi pagi menyebabkan penundaan alur kerja?</span>

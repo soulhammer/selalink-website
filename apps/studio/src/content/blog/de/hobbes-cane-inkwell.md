@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Philosoph mit dem Tintenfass am Gehstock: Thomas Hobbes' Sofort-Notizmethode und kognitive Auslagerungsroutine"
 description: "Erfahren Sie, wie der Denker Thomas Hobbes ein Tintenfass an seinem Gehstock befestigte, um flüchtige Gedanken sofort festzuhalten. Entdecken Sie die Neurowissenschaften der Arbeitsgedächtnis-Erweiterung und kognitiven Auslagerung."
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaften hinter Thomas Hobbes
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu hobbes-cane-inkwell basiert auf <strong>Historische Überprüfung aus John Aubreys *Lebensbeschreibungen (Brief Lives)*, Thomas Hobbes-Archiven & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus John Aubreys *Lebensbeschreibungen (Brief Lives)*, Thomas Hobbes-Archiven & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Vermeidung des Arbeitsgedächtnis-Verfalls und die Neurowissenschaften kognitiver Auslagerung
+## 1. Vermeidung des Arbeitsgedächtnis-Verfalls und die Neurowissenschaften kognitiver Auslagerung
 
 Beim entspannten Gehen aktiviert sich das <strong>Default Mode Network (DMN)</strong> und erzeugt kreative Gedanken. Da diese Blitze im Kurzzeitspeicher des <strong>Arbeitsgedächtnisses</strong> liegen, zerfallen sie ohne sofortiges Aufschreiben innerhalb von 10 bis 15 Sekunden. Hobbes' Tintenfass diente als Werkzeug der <strong>kognitiven Auslagerung (Cognitive Externalization)</strong>. Das Übertragen von Gedanken auf Papier verhindert eine Überlastung des präfrontalen Kortex.
 
 ---
 
-## Vorsichtsmaßnahme: Regel zur Erfassung innerhalb des 10-Sekunden-Zeitfensters
-
-Wer das Aufschreiben mit dem Gedanken 'Das mache ich zu Hause' aufschiebt, unterschätzt den Verfall des Arbeitsgedächtnisses. Die meisten beim Gehen entstandenen Ideen werden im Hippocampus durch neue Sinneseindrücke überschrieben, bevor man den Schreibtisch erreicht. Halten Sie Gedanken innerhalb von 10 Sekunden per Sprachnachricht oder Stichwort fest.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Wer das Aufschreiben mit dem Gedanken 'Das mache ich zu Hause' aufschiebt, unter
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Regel zur Erfassung innerhalb des 10-Sekunden-Zeitfensters
+
+Wer das Aufschreiben mit dem Gedanken 'Das mache ich zu Hause' aufschiebt, unterschätzt den Verfall des Arbeitsgedächtnisses. Die meisten beim Gehen entstandenen Ideen werden im Hippocampus durch neue Sinneseindrücke überschrieben, bevor man den Schreibtisch erreicht. Halten Sie Gedanken innerhalb von 10 Sekunden per Sprachnachricht oder Stichwort fest.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Besaß Thomas Hobbes historisch gesehen wirklich einen Gehstock mit Tintenfass?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Wer das Aufschreiben mit dem Gedanken 'Das mache ich zu Hause' aufschiebt, unter
       Ja, absolut. Sein freundschaftlich verbundener Biograf John Aubrey hielt in *Brief Lives* fest, dass Hobbes ein Tintenfass am Knauf seines Stockes anbrachte und Papier mit sich trug, um Gedanken auf Spaziergängen direkt zu notieren.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist eine Sprachnachricht oder das Tippen von Text unterwegs effektiver?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "午前5時のコーヒーと朝の散歩の調和：ヨハネス・ブラームスの強力な朝の覚醒ルーティン"
 description: "ドイツ・クラシック音楽の巨匠ヨハネス・ブラームスが毎日午前5時に自らブラックコーヒーを淹れて飲み、森の小道を活発に散歩したルーティン。カフェインと有酸素運動が結合した際に現れるBDNF分泌および作業記憶強化の神経科学的メカニズムを解き明かします。"
 pubDate: "2026-06-13"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「brahms-early-morning-coffee」は <strong>マックス・カルベック伝記『Johannes Brahms』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>マックス・カルベック伝記『Johannes Brahms』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## カフェイン覚醒と歩行運動のBDNF分泌および作業記憶（Working Memory）結合効果
+## 1. カフェイン覚醒と歩行運動のBDNF分泌および作業記憶（Working Memory）結合効果
 
 モーニングコーヒーに含まれるカフェインは体内でのアデノシン（Adenosine）受容体結合を遮断し、脳の疲労信号を断ち切ると同時に、覚醒を促進するノルアドレナリン（Norepinephrine）やドパミン（Dopamine）の分泌を誘導します。脳が生理的に呼び醒まされた状態で直ちに行う歩行運動は、大脳血流量を増加させ脳由来神経栄養因子（BDNF）の放出を促進します。BDNFは神経細胞を保護しシナプス可塑性（Neuroplasticity）を活性化させます。結果としてブラームスの早朝ルーティンは、カフェインの中枢神経刺激と散歩による酸素供給がシナジーを起こし、高度な情報操作を担当する作業記憶（Working Memory）と創造的企画力を人為的に最上に引き上げた強力な脳刺激法だったのです。
 
 ---
 
-## 注意事項＆ヒント：コルチゾール分泌周期の考慮と起床後のコーヒー摂取タイミング
-
-カフェインの強力な覚醒効果は、起床直後のコルチゾール（Cortisol）ホルモン値が最高潮にある時にすぐに飲むと効果が半減し、胃腸障害を引き起こす可能性があります。起床後はぬるま湯で水分を補給し、最低30分から1時間ほど経ってからコーヒーを摂取して、コルチゾール値が穏やかになった時点にカフェインを吸収させることが、脳科学的に最も健康的で効果的なリチュアル・アンカリングの方法です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：コルチゾール分泌周期の考慮と起床後のコーヒー摂取タイミング
+
+カフェインの強力な覚醒効果は、起床直後のコルチゾール（Cortisol）ホルモン値が最高潮にある時にすぐに飲むと効果が半減し、胃腸障害を引き起こす可能性があります。起床後はぬるま湯で水分を補給し、最低30分から1時間ほど経ってからコーヒーを摂取して、コルチゾール値が穏やかになった時点にカフェインを吸収させることが、脳科学的に最も健康的で効果的なリチュアル・アンカリングの方法です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ブラームスはなぜコーヒーを他人の手に任せず、自ら頑固に淹れて飲んだのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       ブラームスは完璧主義的な傾向が強く、コーヒーの濃さと豆の比率が朝の覚醒状態に直結すると考えていました。豆をグラインドし手動でコーヒーを淹れる精緻な手動作自体が、脳の注意力を集約させる強力な覚醒の儀式（Mental Anchor）として作動していたからです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>朝の歩行運動が脳の刺激と創造性に具体的にどのように寄与するのですか？</span>

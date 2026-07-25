@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Digital Detox at the Bollingen Tower: Carl Jung's Unconscious Recovery Method and DMN Cognitive Reset"
 description: "Discover how analytical psychology pioneer Carl Jung reset his brain by chopping wood in a secluded tower devoid of electricity and running water. Explore the neuroscience of Default Mode Network (DMN) activation, prefrontal cognitive recovery, and a 3-step digital detox routine."
 pubDate: "2026-01-21"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Carl Jung's 'Bollin
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding jung-bollingen-detox is based on <strong>Historical Verification from Carl Jung's Autobiography *Memories, Dreams, Reflections*, Bollingen Tower Archives & Analytical Psychology and Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Carl Jung's Autobiography *Memories, Dreams, Reflections*, Bollingen Tower Archives & Analytical Psychology and Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Default Mode Network (DMN) Activation and Prefrontal Cognitive Resource Recovery
+## 1. Default Mode Network (DMN) Activation and Prefrontal Cognitive Resource Recovery
 
 Continuous exposure to digital stimuli forces the <strong>Prefrontal Cortex</strong> to work constantly, causing <strong>Cognitive Fatigue</strong> and burnout. Carl Jung's Bollingen Tower routine interrupted this cycle, activating the brain's <strong>Default Mode Network (DMN)</strong>. When artificial digital inputs are eliminated and replaced by simple physical tasks—like chopping wood or hauling water—the brain switches to DMN processing, organizing subconscious concepts and generating fresh creative insights.
 
 ---
 
-## Caution: Physically Blocking Artificial Inputs to Immerse in Analog Physical Labor
-
-For Carl Jung, Bollingen Tower was not an escape, but a sanctuary designed to block noise and electronic inputs. Avoid resting by scrolling through screens. Completely remove your smartphone from view and engage in hands-on, analog tasks; only physical disconnection allows your prefrontal cortex to recover.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ For Carl Jung, Bollingen Tower was not an escape, but a sanctuary designed to bl
   </p>
 </div>
 
+---
+
+## 3. Caution: Physically Blocking Artificial Inputs to Immerse in Analog Physical Labor
+
+For Carl Jung, Bollingen Tower was not an escape, but a sanctuary designed to block noise and electronic inputs. Avoid resting by scrolling through screens. Completely remove your smartphone from view and engage in hands-on, analog tasks; only physical disconnection allows your prefrontal cortex to recover.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is it necessary to retreat to a remote cabin or isolated location like Jung did?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ For Carl Jung, Bollingen Tower was not an escape, but a sanctuary designed to bl
       No. The core mechanism is 'physically disconnecting from artificial information' and 'focusing on analog physical tasks'. Designating a specific phone-free zone in your home for just 30 to 60 minutes yields identical neurobiological benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Why does simple physical labor or household chores promote deep contemplation?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Superar la desesperación del exilio: La rutina matutina de paseo entre bambúes y cocina de Su Dongpo"
 description: "El genial poeta Su Dongpo de la dinastía Song del Norte cultivó un optimismo legendario durante sus exilios mediante paseos entre bambúes y cocina lenta."
 pubDate: "2026-06-24"
@@ -36,14 +37,14 @@ En este artículo, exploramos la ciencia del sistema nervioso detrás del paseo 
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre sushi-bamboo-walk-cooking se basa en <strong>Biografía histórica de Su Dongpo (Su Shi) e investigaciones en neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Biografía histórica de Su Dongpo (Su Shi) e investigaciones en neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cómo activan las rutinas somáticas el sistema parasimpático y la resiliencia
+## 1. Cómo activan las rutinas somáticas el sistema parasimpático y la resiliencia
 
 Intentar reprimir el dolor emocional solo con la mente hace que la amígdala cerebral repita en bucle la angustia.
 
@@ -51,9 +52,7 @@ Participar en una <strong style="color:#2d3748;">'Rutina Somática'</strong> com
 
 ---
 
-## Concéntrate en el proceso de cocinar y caminar, no solo en el resultado
-
-La esencia de la cocina de Su Dongpo reside en la serenidad de esperar el control del fuego. No te apresures a terminar la comida; sumérgete en las sensaciones táctiles y aromas mientras los ingredientes se cocinan a fuego lento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La esencia de la cocina de Su Dongpo reside en la serenidad de esperar el contro
   </p>
 </div>
 
+---
+
+## 3. Concéntrate en el proceso de cocinar y caminar, no solo en el resultado
+
+La esencia de la cocina de Su Dongpo reside en la serenidad de esperar el control del fuego. No te apresures a terminar la comida; sumérgete en las sensaciones táctiles y aromas mientras los ingredientes se cocinan a fuego lento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es aplicable esta rutina para principiantes que no saben cocinar en absoluto?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La esencia de la cocina de Su Dongpo reside en la serenidad de esperar el contro
       ¡Sí! No se trata de recetas complejas. Simplemente preparar café de goteo o freír un huevo con cuidado brinda todos los beneficios sensoriales.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Realmente reduce el estrés el acto físico de cocinar?</span>

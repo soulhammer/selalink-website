@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "引き出しの腐ったリンゴの匂いでひらめきを得た劇作家？フリードリヒ・シラーの奇妙な没頭ルーティン"
 description: "ドイツの大文豪フリードリヒ・シラーは、引き出しの中の腐ったリンゴの刺激的な香りを嗅ぎながら創作に没頭しました。嗅覚刺激がどのように脳を覚醒させ没頭を 助けるのか、科学的原理と現代的なアロマアンカリング実践法を解説します。"
 pubDate: "2026-05-05"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「schiller-rotten-apple」は <strong>フリードリヒ・シラーの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>フリードリヒ・シラーの歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 嗅覚と認知覚醒の神経学的つながり
+## 1. 嗅覚と認知覚醒の神経学的つながり
 
 人間のアブラ感格の中で嗅覚唯一、脳のフィルター役である「視床（Thalamus）」を経由せず、感情や記憶を司る「辺縁系（Limbic System）」の扁桃体や海馬へ直接届きます。そのため、匂いは認知状態を変化させる最も速いショートカットとなります。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-##  safe で効果的な現代的嗅覚アンカリング
-
-シラーの腐ったリンゴ療法は二酸化炭素やアセトアルデヒドの毒性により頭痛を引き起こす可能性があり、現代人がそのまま真似すべきではない危険な方法です。代わりに体に害がなく集中を誘導する検証済みの天然アロマオイル（ローズマリー、ペパーミント）を執筆や勉強の開始直前のみ意図的に使用する現代的アンカリングで安全に集中力を覚醒させてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3.  safe で効果的な現代的嗅覚アンカリング
+
+シラーの腐ったリンゴ療法は二酸化炭素やアセトアルデヒドの毒性により頭痛を引き起こす可能性があり、現代人がそのまま真似すべきではない危険な方法です。代わりに体に害がなく集中を誘導する検証済みの天然アロマオイル（ローズマリー、ペパーミント）を執筆や勉強の開始直前のみ意図的に使用する現代的アンカリングで安全に集中力を覚醒させてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>シラーの腐ったリンゴの匂いは本当に脳刺激効果があったのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、発酵時に放出されるアセトアルデヒドは瞬間的に酸素濃度を一時低下させ呼吸を変化させて刺激を与え、嗅覚信号は感情や記憶を調節する脳の辺縁系に即座に覚醒信号を与えたと考えられます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>現代的なアロマアンカリングで推奨される香りは何ですか？</span>

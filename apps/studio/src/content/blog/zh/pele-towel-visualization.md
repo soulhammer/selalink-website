@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "战胜休息室喧嚣的15分钟？“球王”贝利的毛巾视觉化训练"
 description: "揭秘“球王”贝利克服紧张并发挥极致表现的秘诀：在赛前15分钟面盖干毛巾躺下、在脑海中勾勒比赛画面的视觉化例程背后的脑科学真相。"
 pubDate: "2026-01-30"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 pele-towel-visualization 的内容基于 <strong>“球王”贝利 历史传记与自传记录考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>“球王”贝利 历史传记与自传记录考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 刺激大脑运动皮层的意象训练
+## 1. 刺激大脑运动皮层的意象训练
 
 当在脑海中生动构想特定肢体动作时，大脑会激活与实际运动时相同的<strong>“运动皮层（Motor Cortex）”</strong>。用毛巾遮面阻断视觉刺激可将脑波诱导至<strong>α波（Alpha waves）</strong>，镇静杏仁核并提升专注度。
 
 ---
 
-## 通过正面体验放松后的细节视觉化
-
-进行视觉化训练时，缓解紧张必须先行。正如贝利先回忆童年快乐的街头足球来放松一样，大脑必须先进入α波状态，才能让细节模拟不受到干扰。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 通过正面体验放松后的细节视觉化
+
+进行视觉化训练时，缓解紧张必须先行。正如贝利先回忆童年快乐的街头足球来放松一样，大脑必须先进入α波状态，才能让细节模拟不受到干扰。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>第一人称视角与第三人称视角（从外部看自己表现）​​哪7种更有效？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       第一人称视角在模拟大脑运动皮层和增强牞经连接方面效果显著占优。第三人称视角有助于戊握整体格局，但在特细微调身体运动感觉方面，第一人称更加强大。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果在视觉化过程中浮现失败或犯错的画面考怎么办？</span>

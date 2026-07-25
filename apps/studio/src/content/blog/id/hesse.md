@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Merawat Tanah dan Mencabut Rumput Liar di Kebun Pedesaan: Metode Kontemplasi Alam dan Rutinitas Relaksasi DMN Hermann Hesse"
 description: "Pelajari bagaimana peraih Nobel dan penulis pasifis Hermann Hesse mengelola kelelahan saraf dan kecemasan mendalam dengan menyentuh tanah kebun dan memangkas cabang setiap hari. Teliti neurosains di balik rutinitas tukang kebunnya."
 pubDate: "2026-02-16"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami mengupas neurosains kognitif di balik rutinitas '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai hesse didasarkan pada <strong>Verifikasi Historis dari esai Hermann Hesse *Kegembiraan Berkebun (Freude am Garten)* & Kumpulan Surat, serta Penelitian Neurosains Kognitif dan Psikologi Lingkungan</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari esai Hermann Hesse *Kegembiraan Berkebun (Freude am Garten)* & Kumpulan Surat, serta Penelitian Neurosains Kognitif dan Psikologi Lingkungan</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Menghambat Hiperaktivasi Default Mode Network (DMN) dan Relaksasi Sistem Saraf
+## 1. Menghambat Hiperaktivasi Default Mode Network (DMN) dan Relaksasi Sistem Saraf
 
 Melakukan pekerjaan fisik sederhana sambil berfokus pada tanah, hutan, dan masukan multisensori alam menekan hiperaktivasi <strong>Default Mode Network (DMN)</strong> di otak, yang mendorong perenungan berlebihan (rumination). Perubahan fisiologis ini menyebabkan penurunan tajam pada hormon stres <strong>kortisol</strong> dan mengaktifkan <strong>Sistem Saraf Parasimpatis</strong>, membersihkan kecemasan kronis dan kelelahan kognitif prefrontal.
 
 ---
 
-## Perhatian: Memblokir Perenungan Kerja dan Terbenam Secara Eksklusif dalam Stimulus Sensorik Analog
-
-Saat berjalan-jalan atau merawat kebun, hindari membawa kekhawatiran kerja ke dalam aktivitas. Selama 10 hingga 15 menit, pusatkan kesadaran Anda secara eksklusif untuk menerima masukan sensorik analog eksternal—sentuhan tanah pada ujung jari, desiran angin, dan aroma dedaunan—memungkinkan otak Anda mencapai pemulihan kognitif penuh.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Saat berjalan-jalan atau merawat kebun, hindari membawa kekhawatiran kerja ke da
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Memblokir Perenungan Kerja dan Terbenam Secara Eksklusif dalam Stimulus Sensorik Analog
+
+Saat berjalan-jalan atau merawat kebun, hindari membawa kekhawatiran kerja ke dalam aktivitas. Selama 10 hingga 15 menit, pusatkan kesadaran Anda secara eksklusif untuk menerima masukan sensorik analog eksternal—sentuhan tanah pada ujung jari, desiran angin, dan aroma dedaunan—memungkinkan otak Anda mencapai pemulihan kognitif penuh.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Haruskah saya melakukan pekerjaan fisik seperti penyiangan dan menggergaji kayu sambil menyentuh tanah secara langsung?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Saat berjalan-jalan atau merawat kebun, hindari membawa kekhawatiran kerja ke da
       Aktivitas fisik seperti menyentuh tanah kebun dan menyiangi bertindak sebagai sinyal sempurna yang memungkinkan korteks prefrontal Anda yang lelah untuk beristirahat dari 'perhatian terarah'. Namun, jika Anda tidak memiliki kebun, berjalan-jalan di jalur hutan dan mendengarkan angin memberikan manfaat relaksasi neurologis yang identik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mengganti ini jika saya tinggal di apartemen atau perkotaan tanpa taman atau tanah?</span>

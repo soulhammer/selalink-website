@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Establishing Unshakeable Autonomy: Yi I's (Yulgok) Morning Jagyeongmun Declaration Routine"
 description: "Self-discipline through 'Jagyeongmun' established at age 20 by Yi I (Yulgok), Joseon's greatest scholar. We analyze cognitive training that activates goal-directed feedback by reciting daily morning resolutions."
 pubDate: "2026-01-01"
@@ -34,22 +35,20 @@ While many modern individuals set morning goals, they quickly forget them when f
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding yiyi-self-warning is based on <strong>Historical Biographies & Autobiographical Records of Yi I's Self-Warning & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies & Autobiographical Records of Yi I's Self-Warning & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Brain Science of the Self-Reference Effect and Goal-Directed Declarations
+## 1. The Brain Science of the Self-Reference Effect and Goal-Directed Declarations
 
 In neuroscience, the Self-Reference Effect describes how processing information in relation to oneself activates the medial prefrontal cortex (mPFC), leading to stronger long-term memory and value internalization. Yi I's daily reading of his self-imposed rules continually reinforced this neural pathway. Instilling these principles into the brain every morning activates cognitive control networks, serving as an internal GPS to manage impulses and align decisions with long-term goals.
 
 ---
 
-## A Word on Self-Vigilance and Preserving Autonomy
-
-More important than setting principles is the honesty of reminding yourself of them every morning. Only standards you personally agree with and declare—not rules imposed by others—will powerfully motivate your brain and give you control over your day.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ More important than setting principles is the honesty of reminding yourself of t
     Before bed, briefly reflect on how well you followed your morning declaration. Record 1 or 2 lines in a journal or app regarding areas for tomorrow's improvement.
   </p>
 </div>
+
+---
+
+## 3. A Word on Self-Vigilance and Preserving Autonomy
+
+More important than setting principles is the honesty of reminding yourself of them every morning. Only standards you personally agree with and declare—not rules imposed by others—will powerfully motivate your brain and give you control over your day.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

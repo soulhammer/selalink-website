@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "元素のトランプ遊び：メンデレーエフの化学的ソリティア"
 description: "元素の性質を記したカードをソリティアのように配置して周期表を完成させたドミトリ・メンデレーエフ。テキストを物理的空間に並べる行動が、複雑なパターンを発見する脳の能力を覚醒させる原理を解説します。"
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「mendeleev-chemical-solitaire」は <strong>メンデレーエフ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>メンデレーエフ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 情報の空間配置と物理的操作がパターン認知領域を覚醒させる理由
+## 1. 情報の空間配置と物理的操作がパターン認知領域を覚醒させる理由
 
 文書やコンピューター画面の平面的なテキストは、脳の視覚処理装置に2次元的情報として認識され、分析的演算の障壁を作ります。一方、情報を個別のカードに分離して空間上に広げて配置する行動は、脳の空間位置情報領域を活性化します。脳は指先の触覚信号と立体的な目のフィードバックを通じて情報間の有機的な距離を認識し、前頭葉と頂頭葉を稼働させてテキスト状態では見落としがちだった相互パターンをはるかに敏捷に連携させます。
 
 ---
 
-## 注意事項とヒント
-
-カード整理の際、あまりに多くの詳細情報を1枚のカードに詰め込もうとすると、テキストの羅列に戻って空間操作のメリットが失われます。カード1枚には必ずたった一つのキーワードや明確なコア概念だけを記載してこそ、脳のスケッチパッド演算機能が極大化します。カードの枚数も、脳が一望して把握できる10枚から20枚前後の範囲に制限して使用するのが効果的です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     最も直感的で因果の流れがスムーズなカード配列が完成したら、スマホのカメラで写真を撮影し、脳のスケッチ空間記憶と視覚キャプチャを同期させます。
   </p>
 </div>
+
+---
+
+## 3. 注意事項とヒント
+
+カード整理の際、あまりに多くの詳細情報を1枚のカードに詰め込もうとすると、テキストの羅列に戻って空間操作のメリットが失われます。カード1枚には必ずたった一つのキーワードや明確なコア概念だけを記載してこそ、脳のスケッチパッド演算機能が極大化します。カードの枚数も、脳が一望して把握できる10枚から20枚前後の範囲に制限して使用するのが効果的です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

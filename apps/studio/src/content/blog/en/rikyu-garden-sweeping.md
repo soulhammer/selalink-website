@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sweeping the Dust of the Mind: Sen no Rikyu's Morning Garden Sweeping Routine"
 description: "An anecdote of Grand Tea Master Sen no Rikyu purifying his mind while sweeping the garden. Explains the cognitive science principles of kinesthetic meditation that clear brain cognitive noise through simple repetitive motions."
 pubDate: "2026-06-12"
@@ -36,22 +37,20 @@ This article analyzes the scientific connection between repetitive physical acti
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding rikyu-garden-sweeping is based on <strong>Historical critical biography and autobiographical records of Rikyu Garden Sweeping & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical critical biography and autobiographical records of Rikyu Garden Sweeping & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Anchoring Effect of Broom Sounds and Brain Cognitive Noise
+## 1. Anchoring Effect of Broom Sounds and Brain Cognitive Noise
 
 Rhythmic sweeping delivers immediate and simple physical feedback to the brain, anchoring attention to the present. This sensory focus effectively stabilizes cognitive noise signals in the cerebral cortex that foster anxiety and distraction. According to neuroscientific research, this action suppresses unnecessary anxiety responses in the amygdala and activates visuospatial sketchpad circuits, dramatically enhancing long-term executive function.
 
 ---
 
-## Grand Tea Master's Advice for Emptying the Mind's Dust
-
-The real dust to be swept is in the mind, not on the ground. Gift your brain tranquility and margin every morning through light repetitive physical activity. Do not rely solely on willpower; pre-designing a physical environment and habit cues that naturally trigger the action is the key to sustainability.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ The real dust to be swept is in the mind, not on the ground. Gift your brain tra
     After finishing 5 minutes of activity, quietly observe the tidy area along with its subtle natural imperfections, savoring inner stillness.
   </p>
 </div>
+
+---
+
+## 3. Grand Tea Master's Advice for Emptying the Mind's Dust
+
+The real dust to be swept is in the mind, not on the ground. Gift your brain tranquility and margin every morning through light repetitive physical activity. Do not rely solely on willpower; pre-designing a physical environment and habit cues that naturally trigger the action is the key to sustainability.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

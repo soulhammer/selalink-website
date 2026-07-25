@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Single Universal Notebook for All Knowledge: Gottfried Wilhelm Leibniz's Commonplace Book Routine and Synaptic LTP"
 description: "Discover how calculus co-inventor Gottfried Wilhelm Leibniz consolidated all knowledge into a single categorized commonplace notebook (Commonplace Book). Explore the neuroscience of semantic networks, Long-Term Potentiation (LTP), prefrontal cross-linking, and a 3-step practice guide."
 pubDate: "2026-02-27"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Gottfried Wilhelm L
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding leibniz-universal-notebook is based on <strong>Historical Verification from Gottfried Wilhelm Leibniz Biographies, Leibniz-Archiv (Hanover) & Cognitive Neuroscience and Cognitive Psychology Research</strong>.
+      This content is based on <strong>Historical Verification from Gottfried Wilhelm Leibniz Biographies, Leibniz-Archiv (Hanover) & Cognitive Neuroscience and Cognitive Psychology Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Synaptic Long-Term Potentiation (LTP) and the Neuroscience of Semantic Networks
+## 1. Synaptic Long-Term Potentiation (LTP) and the Neuroscience of Semantic Networks
 
 The cerebral cortex retrieves information exponentially faster when building an organic <strong>Semantic Network</strong> linked to existing knowledge indices rather than collecting isolated fragments. Consolidating knowledge into a single notebook and indexing entries manually sustains synaptic stimulation, triggering <strong>Long-Term Potentiation (LTP)</strong> to maximize neural transmission efficiency. In this unified space, ideas from disparate disciplines cross-link, empowering the <strong>Prefrontal Cortex</strong> to spark higher-level insights and creative synthesis.
 
 ---
 
-## Caution: Eliminating Notebook Fragmentation to Commit to a Single Unified Notebook System
-
-The greatest pitfall of commonplace note-taking is scattering thoughts across separate journals (e.g., reading logs, work notebooks, daily diaries). Media fragmentation creates a <strong>Cognitive Bottleneck</strong> during information retrieval and destroys cross-domain synthesis opportunities. Accumulate all ideas inside a single permanent notebook using Category Tags to preserve semantic network synergy.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The greatest pitfall of commonplace note-taking is scattering thoughts across se
   </p>
 </div>
 
+---
+
+## 3. Caution: Eliminating Notebook Fragmentation to Commit to a Single Unified Notebook System
+
+The greatest pitfall of commonplace note-taking is scattering thoughts across separate journals (e.g., reading logs, work notebooks, daily diaries). Media fragmentation creates a <strong>Cognitive Bottleneck</strong> during information retrieval and destroys cross-domain synthesis opportunities. Accumulate all ideas inside a single permanent notebook using Category Tags to preserve semantic network synergy.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can I practice the Commonplace Book method using digital tools like Notion or Obsidian?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The greatest pitfall of commonplace note-taking is scattering thoughts across se
       Yes! Digital platforms excel at searchability and hyperlinking. The key is avoiding over-fragmenting into scattered folders; instead, build a single database or board tagged by date and categories to replicate Leibniz's unified system.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Doesn't storing all information inside a single notebook create chaotic disorder?</span>

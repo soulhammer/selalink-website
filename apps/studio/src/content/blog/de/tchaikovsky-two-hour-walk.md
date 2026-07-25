@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspiration durch einen täglichen zweistündigen Spaziergang: Tschaikowskis kreative Gewohnheit des Gehens"
 description: "Der große russische Komponist Pjotr Iljitsch Tschaikowski ging jeden Tag genau zwei Stunden spazieren, um musikalische Ideen zu entwickeln. Wir untersuchen kontinuierliches Gehen und das Default Mode Network (DMN)."
 pubDate: "2026-06-01"
@@ -31,25 +32,23 @@ In diesem Artikel untersuchen wir die wissenschaftlichen Gründe hinter Tschaiko
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu tchaikovsky-two-hour-walk basiert auf <strong>Modest Tschaikowski, The Life and Letters of Peter Ilich Tchaikovsky (1904) & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Modest Tschaikowski, The Life and Letters of Peter Ilich Tchaikovsky (1904) & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stabilisierung des Gehirnwellenrhythmus durch einen disziplinierten zweistündigen Spaziergang
+## 1. Stabilisierung des Gehirnwellenrhythmus durch einen disziplinierten zweistündigen Spaziergang
 
 Tschaikowskis disziplinierte Gewohnheit, jeden Tag zur gleichen Zeit genau zwei Stunden draußen zu gehen, steigerte die Durchblutung des visuell-räumlichen Kortex und des Hippocampus. Kontinuierliches Gehen aktiviert das Default Mode Network (DMN) und erleichtert die Verknüpfung von unbewussten Erinnerungen und emotionalen Melodien.
 
 ---
 
-## Wichtigkeit der Einhaltung der Gehdiziplin
-
-So wie Tschaikowski seine Gehzeit streng schützte, müssen externe Ablenkungen wie Smartphones oder Benachrichtigungen während des Gehens blockiert werden. Absolvieren Sie die festgelegte Gehroutine vollständig, um emotionale Ruhe und kreatives Eintauchen zu ermöglichen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ So wie Tschaikowski seine Gehzeit streng schützte, müssen externe Ablenkungen 
     Schließen Sie die zweistündige Gehroutine vollständig ab, ohne aufzugeben, um die Gehirndurchblutung zu steigern und das Nervensystem zu entspannen. Kehren Sie dann sofort an Ihren Schreibtisch zurück.
   </p>
 </div>
+
+---
+
+## 3. Wichtigkeit der Einhaltung der Gehdiziplin
+
+So wie Tschaikowski seine Gehzeit streng schützte, müssen externe Ablenkungen wie Smartphones oder Benachrichtigungen während des Gehens blockiert werden. Absolvieren Sie die festgelegte Gehroutine vollständig, um emotionale Ruhe und kreatives Eintauchen zu ermöglichen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

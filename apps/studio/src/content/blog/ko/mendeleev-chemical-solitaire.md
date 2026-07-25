@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "원소의 카드 놀이: 멘델레예프의 화학적 솔리테어"
 description: "원소 성질을 적은 카드를 솔리테어 카드 놀이처럼 배치해 주기율표를 완성한 드미트리 멘델레예프. 텍스트를 물리적 공간에 늘어놓는 행동이 복잡한 패턴을 발견하는 뇌의 능력을 깨우는 원리를 규명합니다."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>멘델레예프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 mendeleev-chemical-solitaire 루틴을 다룹니다.
+      본 콘텐츠는 <strong>멘델레예프 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 정보의 공간 배치와 물리적 조작이 패턴 인지 영역을 각성시키는 이유
+## 1. 정보의 공간 배치와 물리적 조작이 패턴 인지 영역을 각성시키는 이유
 
 문서나 컴퓨터 화면의 평면적인 텍스트는 뇌의 시각 처리 장치에 2차원적 정보로 인식되어 분석적 연산 장벽을 만듭니다. 반면, 정보를 개별 카드로 분리해 공간상에 이리저리 늘어놓으며 배치하는 행동은 뇌의 공간 위치 정보 영역을 활성화합니다. 뇌는 손끝의 촉각 신호와 입체적인 눈의 피드백을 통해 정보 간의 유기적 거리를 인식하며, 뇌의 전두엽과 두정엽을 가동해 텍스트 상태에서는 지나치기 쉬웠던 상호 패턴을 훨씬 더 민첩하게 연계해 냅니다.
 
 ---
 
-## 주의사항 및 팁
-
-카드로 정리할 때 너무 많은 정보의 세부 내용을 카드 한 장에 다 채워 넣으려고 하면 텍스트의 나열 형태로 돌아가 공간 조작의 장점이 상실됩니다. 카드 한 장에는 반드시 단 하나의 키워드나 명확한 핵심 지적 단서만 적어야 뇌의 스케치패드 연산 기능이 극대화됩니다. 카드의 개수 역시 한 번에 뇌가 한눈에 파악할 수 있는 범위인 10개에서 20개 내외의 범위로 가볍게 제한하여 사용하는 것이 효과적입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     가장 직관적이고 인과 흐름이 매끄러운 카드 배열이 완성되면 스마트폰 카메라로 사진 촬영을 하여 뇌의 스케치 공간 기억과 시각 캡처본을 동기화합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+카드로 정리할 때 너무 많은 정보의 세부 내용을 카드 한 장에 다 채워 넣으려고 하면 텍스트의 나열 형태로 돌아가 공간 조작의 장점이 상실됩니다. 카드 한 장에는 반드시 단 하나의 키워드나 명확한 핵심 지적 단서만 적어야 뇌의 스케치패드 연산 기능이 극대화됩니다. 카드의 개수 역시 한 번에 뇌가 한눈에 파악할 수 있는 범위인 10개에서 20개 내외의 범위로 가볍게 제한하여 사용하는 것이 효과적입니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

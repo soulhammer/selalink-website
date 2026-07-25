@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Antrieb hinter 500 Bänden im Exil: Dasan Jeong Yak-yongs selektives Abschreiben, Briefeschreiben und kognitive Kodierungsroutine"
 description: "Erfahren Sie, wie Joseons bedeutendster Silhak-Gelehrter, Dasan Jeong Yak-yong, während seines 18-jährigen Exils über 500 Bände durch selektives Abschreiben ('Choseo') und Briefe an seine Söhne verfasste. Entdecken Sie die Neurowissenschaften der graphomotorischen kognitiven Kodierung."
 pubDate: "2026-02-01"
@@ -35,25 +36,23 @@ Im heutigen Beitrag untersuchen wir die Neurowissenschaften hinter Dasan Jeong Y
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu jeong-yakyong-transcription basiert auf <strong>Historische Überprüfung aus Dasan Jeong Yak-yongs Gesamtausgabe *Yeoyudang Jeonseo*, Autobiografie *Saam Yeonbo* & Forschung der kognitiven Neurowissenschaften und Metakognition</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Dasan Jeong Yak-yongs Gesamtausgabe *Yeoyudang Jeonseo*, Autobiografie *Saam Yeonbo* & Forschung der kognitiven Neurowissenschaften und Metakognition</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kognitive Kodierung durch Hand-Gehirn-Synchronisation und Metakognition
+## 1. Kognitive Kodierung durch Hand-Gehirn-Synchronisation und Metakognition
 
 Passives Lesen aktiviert völlig andere neuronale Netzwerke als das händische Zusammenfassen von Texten. Feinmotorische Schreibbewegungen stimulieren den <strong>somatosensorischen Kortex</strong> und senden Signale an den <strong>präfrontalen Kortex</strong> und den <strong>Assoziationskortex</strong>, was die <strong>kognitive Kodierung (Cognitive Encoding)</strong> stärkt. Das Aufbereiten von Wissen zur Vermittlung an andere stärkt zudem die <strong>Metakognition</strong> und verankert Informationen im Langzeitgedächtnis.
 
 ---
 
-## Vorsichtsmaßnahme: Fokus auf aktives Zusammenfassen und Anmerken statt mechanischem Abschreiben
-
-Die größte Falle beim Abschreiben ist das unüberlegte Kopieren von Texten. Wörtliches Abschreiben ohne eigene gedankliche Leistung führt nicht zu kognitiver Kodierung. Echtes Wissen entsteht erst, wenn Sie Inhalte mit eigenen Worten zusammenfassen und um eigene Gedanken ergänzen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Die größte Falle beim Abschreiben ist das unüberlegte Kopieren von Texten. W�
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Fokus auf aktives Zusammenfassen und Anmerken statt mechanischem Abschreiben
+
+Die größte Falle beim Abschreiben ist das unüberlegte Kopieren von Texten. Wörtliches Abschreiben ohne eigene gedankliche Leistung führt nicht zu kognitiver Kodierung. Echtes Wissen entsteht erst, wenn Sie Inhalte mit eigenen Worten zusammenfassen und um eigene Gedanken ergänzen.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bietet das Tippen von Notizen auf der Tastatur dieselben Vorteile für die kognitive Kodierung wie das Schreiben von Hand?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Die größte Falle beim Abschreiben ist das unüberlegte Kopieren von Texten. W�
       Nein. Das Schreiben mit der Hand auf Papier stimuliert den somatosensorischen Kortex stark und erhöht die Kodierungseffizienz. Tippen ist zwar schneller, das Drücken gleicher Tasten bietet jedoch kaum haptische Anreize. Für ein dauerhaftes Langzeitgedächtnis ist das handschriftliche Notieren weit überlegen.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Löst das Erklären von Inhalten gegenüber anderen auch ohne Briefform metakognitive Effekte aus?</span>

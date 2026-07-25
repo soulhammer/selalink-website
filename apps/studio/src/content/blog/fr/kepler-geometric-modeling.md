@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sculpter des modèles 3D plutôt que des formules : La routine de 'visualisation spatiale haptique' et d'activation du lobe pariétal de Johannes Kepler"
 description: "Découvrez comment l'astronome du XVIIe siècle Johannes Kepler a compris les orbites planétaires en sculptant des modèles géométriques en 3D. Explorez la neuroscience de la visualisation haptique, la stimulation du lobe pariétal et la réduction de la surcharge cognitive."
 pubDate: "2026-06-24"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente a la rou
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant kepler-geometric-modeling est basée sur <strong>Vérification Historique issue de *Mysterium Cosmographicum* (1596) de Johannes Kepler, des archives de Kepler & de la Recherche en Neurosciences Cognitives et Cognition Spatiale</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *Mysterium Cosmographicum* (1596) de Johannes Kepler, des archives de Kepler & de la Recherche en Neurosciences Cognitives et Cognition Spatiale</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation spatiale du lobe pariétal et réduction de la surcharge cognitive préfrontale
+## 1. Stimulation spatiale du lobe pariétal et réduction de la surcharge cognitive préfrontale
 
 Tenter de traiter des lois spatiales complexes ou des architectures de systèmes uniquement par des formules abstractes épuise la mémoire de travail, provoquant una <strong>Surcharge Cognitive (Cognitive Overload)</strong>. Manipuler des objets physiques en 3D stimule le <strong>Lobe Pariétal</strong> et les zones d'association spatiale. Associer l'<strong>Entrée Haptique (Haptic Input)</strong> au retour visuel transforme des données denses en structures intuitives, développant le <strong>Raisonnement Spatial (Spatial Reasoning)</strong>.
 
 ---
 
-## Mise en garde : Basculer des blocages mentaux a la manipulation physique multisensorielle
-
-Face à un blocage lors de la conception d'architectures logicielles ou de schémas d'entreprise, évitez de forcer la réflexion abstraite. Éteignez votre écran et manipulez des notes adhésives, des blocs ou des fiches sur votre bureau ; changer de dimension spatiale libère l'intuition.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Face à un blocage lors de la conception d'architectures logicielles ou de sché
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Basculer des blocages mentaux a la manipulation physique multisensorielle
+
+Face à un blocage lors de la conception d'architectures logicielles ou de schémas d'entreprise, évitez de forcer la réflexion abstraite. Éteignez votre écran et manipulez des notes adhésives, des blocs ou des fiches sur votre bureau ; changer de dimension spatiale libère l'intuition.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quelle structure géométrique spécifique Johannes Kepler a-t-il sculptée ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Face à un blocage lors de la conception d'architectures logicielles ou de sché
       Kepler a sculpté des modèles des cinq solides platoniciens (tétraèdre, cube, octaèdre, dodécaèdre, icosaèdre) emboîtés dans des sphères concentriques représentant les orbites planétaires. Ce modèle lui permettait de vérifier les proportions spatiales entre les planètes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment appliquer cette routine sans blocs ou modèles en 3D sous la main ?</span>

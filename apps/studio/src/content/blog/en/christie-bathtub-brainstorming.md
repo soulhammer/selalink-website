@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Woman Who Planned Murders Eating Apples in a Bathtub: Agatha Christie's Hot Bath Brainstorming and DMN Relaxation"
 description: "Discover how Queen of Crime Agatha Christie conceived intricate alibis and murder plots while eating apples in a hot bath, and explore the cognitive neuroscience of Default Mode Network (DMN) activation and mastication."
 pubDate: "2026-05-07"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Agatha Christie's 'hot 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding christie-bathtub-brainstorming is based on <strong>Historical Verification from Agatha Christie's Autobiography *An Autobiography* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Agatha Christie's Autobiography *An Autobiography* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Default Mode Network (DMN) Activation via Hot Baths and Mastication Stimulation
+## 1. Default Mode Network (DMN) Activation via Hot Baths and Mastication Stimulation
 
 Immersing the body in warm water (38°C–40°C) dilates blood vessels, enhances systemic blood flow, and activates the parasympathetic nervous system, lowering heart rate and muscle tension. In this physiological state, the brain disengages the Central Executive Network (CEN) and activates the Default Mode Network (DMN), which operates during unfocused rest. Under DMN activation, the brain spontaneously recombines disparate memory traces, surfacing novel creative solutions. Pairing this with the mechanical rhythmic chewing (mastication) of a crisp apple sends subtle sensory signals via the trigeminal nerve to the prefrontal cortex, dampening cortisol levels while maintaining calm, focused mental clarity.
 
 ---
 
-## Caution & Tips: Releasing Obsessive Strain & Inducing Full Physical Relaxation
-
-The goal of this relaxation routine is not to forcibly squeeze out answers. If you hold an obsessive pressure to 'produce ideas' while bathing, your sympathetic nervous system re-engages and shuts down DMN processing. Cast your problem beneath conscious awareness, focusing entirely on the warmth of the water and the crisp sensory texture of the fruit to release prefrontal executive strain and let subconscious associative synthesis occur naturally.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The goal of this relaxation routine is not to forcibly squeeze out answers. If y
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Releasing Obsessive Strain & Inducing Full Physical Relaxation
+
+The goal of this relaxation routine is not to forcibly squeeze out answers. If you hold an obsessive pressure to 'produce ideas' while bathing, your sympathetic nervous system re-engages and shuts down DMN processing. Cast your problem beneath conscious awareness, focusing entirely on the warmth of the water and the crisp sensory texture of the fruit to release prefrontal executive strain and let subconscious associative synthesis occur naturally.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why specifically does brainstorming while eating apples in a hot bath work so effectively?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The goal of this relaxation routine is not to forcibly squeeze out answers. If y
       Warm immersion lowers heart rate and recruits parasympathetic dominance to trigger the DMN, while the rhythmic mastication of a crisp apple sends sensory input via the trigeminal nerve to subtly arouse the prefrontal cortex. This combination merges deep physical relaxation with focused mental clarity.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is there an alternative physical relaxation method to engage the DMN if I don't have a bathtub?</span>

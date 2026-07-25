@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "用色彩塑造的旋律？费利克斯·门德尔松的清晨水彩画习惯"
 description: "天才作曲家费利克斯·门德尔松每天早晨通过绘制水彩风景画来唤醒音乐灵感。介绍美术与音乐在脑科学上的交叉刺激以及感官切换实践方法。"
 pubDate: "2026-01-20"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mendelssohn-watercolor-sketch 的内容基于 <strong>费利克斯·门德尔松历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>费利克斯·门德尔松历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 跨越感官的“跨模态感官联结”效应
+## 1. 跨越感官的“跨模态感官联结”效应
 
 当我们绘画时，大脑为了准确把握形态，会高度激活大脑皮层的视觉皮层（Visual Cortex）与空间认知功能区。认知神经科学研究表明，一个感官领域的激活能够提升另一个感官领域创造力的现象被称为<strong>“跨模态感官联结（Cross-modal Association）”</strong>。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 目的并非提升画技，感官的放松与换气才是关键
-
-我们进行素描并非为了成为画家，而是为了让饱受文字、数字和逻辑折磨的大脑前额叶区域得到暂时的休息，并借助非语言、结合视觉与触觉的艺术动作，柔和地恢复大脑各感官神经网络之间的联结强度并纾解压力。不必在意线条是否歪斜，全心专注于感官体验即可。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 目的并非提升画技，感官的放松与换气才是关键
+
+我们进行素描并非为了成为画家，而是为了让饱受文字、数字和逻辑折磨的大脑前额叶区域得到暂时的休息，并借助非语言、结合视觉与触觉的艺术动作，柔和地恢复大脑各感官神经网络之间的联结强度并纾解压力。不必在意线条是否歪斜，全心专注于感官体验即可。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>完全不会画画的人也能从清晨素描中获益吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       当然可以。这一习惯的目的在于向大脑传递视觉观察与手部运动协调信号，而非展现精湛的绘画技巧。即便构图欠佳或线条笨拙，大脑跨模态感官区域的刺激与放松效果依然会完全相同地发生。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果不画水彩，只用铅笔或钢笔进行描绘也足够产生跨感官刺激吗？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Silencio hacia los genes: La rutina de silencio e inmersión de Barbara McClintock"
 description: "La geneticista Barbara McClintock, ganadora del Premio Nobel, mantenía un silencio absoluto mientras observaba al microscopio. Descubra su método de inmersión por compuerta sensorial para eliminar el ruido mental."
 pubDate: "2026-05-14"
@@ -38,14 +39,14 @@ En el post de hoy, presentamos la ciencia del filtrado sensorial detrás de la r
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre mcclintock-silent-focus se basa en <strong>Investigación biográfica e histórica de Barbara McClintock y estudios de neurociencia cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica e histórica de Barbara McClintock y estudios de neurociencia cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Filtrado sensorial que bloquea estímulos cognitivos irrelevantes
+## 1. Filtrado sensorial que bloquea estímulos cognitivos irrelevantes
 
 Cuando el cerebro procesa múltiples estímulos, la atención y el reconocimiento de patrones disminuyen. El compromiso con el silencio alienta a la corteza prefrontal a destinar todos los recursos cognitivos a una sola entrada sensorial.
 
@@ -53,9 +54,7 @@ En este proceso, el tálamo activa un mecanismo de <strong>'filtrado sensorial'<
 
 ---
 
-## La clave es la concentración en bloques específicos, no el aislamiento social total
-
-La rutina de McClintock consiste en guardar silencio durante bloques de tiempo limitados (por ejemplo, de 30 minutos a 1 hora) cuando se requiere una concentración profunda. Aislarse todo el día provoca fatiga emocional. Practique el silencio estratégicamente solo durante los bloques de enfoque.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ La rutina de McClintock consiste en guardar silencio durante bloques de tiempo l
   </p>
 </div>
 
+---
+
+## 3. La clave es la concentración en bloques específicos, no el aislamiento social total
+
+La rutina de McClintock consiste en guardar silencio durante bloques de tiempo limitados (por ejemplo, de 30 minutos a 1 hora) cuando se requiere una concentración profunda. Aislarse todo el día provoca fatiga emocional. Practique el silencio estratégicamente solo durante los bloques de enfoque.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Debo practicar esta rutina de silencio incluso en lugares que ya son silenciosos, como una sala de estudio?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ La rutina de McClintock consiste en guardar silencio durante bloques de tiempo l
       Sí, debe hacerlo. El núcleo de la rutina no es solo acallar el entorno, sino afinar su mentalidad bloqueando notificaciones y declarando el silencio, lo que pausa el procesamiento verbal interno e intensifica el procesamiento visual.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿El habla interna sin vocalización interfiere con la concentración durante los bloques de silencio?</span>

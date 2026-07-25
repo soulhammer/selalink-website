@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Serat di Kerah dan Getaran Pupil Mata: Pengamatan Mikro dan Perhatian Selektif ala Anton Chekhov"
 description: "Pelajari bagaimana Anton Chekhov, maestro cerita pendek modern, mencatat secara teliti detail-detail mikro para pejalan kaki di ruang tunggu dan kafe, serta temukan prinsip neurosains dari Perhatian Selektif Mikro yang meningkatkan resolusi kognitif."
 pubDate: "2026-01-12"
@@ -33,25 +34,23 @@ Kapan pun memiliki waktu luang, Chekhov duduk dengan tenang di bangku ruang tung
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai chekhov didasarkan pada <strong>Verifikasi Historis dari Biografi E. H. Carr *Anton Chekhov: A Critical Study* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi E. H. Carr *Anton Chekhov: A Critical Study* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Perhatian Selektif Mikro dan Mekanisme Stimulasi Kortikal
+## 1. Perhatian Selektif Mikro dan Mekanisme Stimulasi Kortikal
 
 Menyaring 99% kebisingan lingkungan untuk memfokuskan perhatian pada 1% anomali mikroskopis—sebuah praktik yang dikenal sebagai 'Perhatian Selektif Mikro'—sangat merangsang korteks prefrontal dorsolateral (DLPFC). Pengamatan terfokus ini secara drastis meningkatkan resolusi kortikal, mentransfer masukan sensorik ke dalam sirkuit memori jangka panjang. Akibatnya, otak menyempurnakan 'Resolusi Kognitif'-nya, menyaring kelebihan beban sensorik untuk mendekode isyarat non-verbal dan pola halus.
 
 ---
 
-## Perhatian & Tip: Menghindari Menatap Secara Terang-terangan & Menangkap Momen Singkat
-
-Saat mempraktikkan pengamatan mikro, waspadailah menatap orang secara langsung, yang menyebabkan ketidaknyamanan. Mengunci mata secara kaku mengganggu perilaku alami orang yang diamati. Kuncinya adalah penangkapan yang cepat dan halus: pindai satu detail mikroskopis (ujung lengan baju yang berserat, goresan pada sepatu, atau getaran jari) dalam jendela 1 detik saat seseorang melintas, lalu alihkan pandangan Anda secara halus untuk mencatatnya.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Saat mempraktikkan pengamatan mikro, waspadailah menatap orang secara langsung, 
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Menghindari Menatap Secara Terang-terangan & Menangkap Momen Singkat
+
+Saat mempraktikkan pengamatan mikro, waspadailah menatap orang secara langsung, yang menyebabkan ketidaknyamanan. Mengunci mata secara kaku mengganggu perilaku alami orang yang diamati. Kuncinya adalah penangkapan yang cepat dan halus: pindai satu detail mikroskopis (ujung lengan baju yang berserat, goresan pada sepatu, atau getaran jari) dalam jendela 1 detik saat seseorang melintas, lalu alihkan pandangan Anda secara halus untuk mencatatnya.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah ada teknik untuk mengamati detail mikro secara terselubung tanpa membuat orang lain merasa tidak nyaman?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Saat mempraktikkan pengamatan mikro, waspadailah menatap orang secara langsung, 
       Hindari kontak mata langsung. Gunakan 'Penglihatan Perifer' yang luas atau lakukan pemindaian 1 detik pada area target tertentu (lengan baju, sepatu, posisi tangan) selama gerakan dinamis—seperti saat seseorang merapikan jas atau duduk—lalu alihkan pandangan Anda secara halus.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana catatan detail mikro yang dikumpulkan ini dapat diterapkan secara praktis dalam bisnis atau tugas profesional?</span>

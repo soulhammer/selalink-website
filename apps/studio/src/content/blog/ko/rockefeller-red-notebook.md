@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "1센트의 낭비도 허용하지 않은 석유왕? 존 D. 록펠러의 실시간 미세 기록법"
 description: "세계 역사상 최고의 부자로 꼽히는 존 D. 록펠러. 지갑 속에 빨간 미니 수첩을 지니며 소소한 소비와 계획을 즉시 기록했던 그의 전두엽 실행 제어망 각성 원리와 아날로그 수첩 활용법을 배워봅니다."
 pubDate: "2026-06-24"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>존 D. 록펠러 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 rockefeller-red-notebook 루틴을 다룹니다.
+      본 콘텐츠는 <strong>존 D. 록펠러 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 실시간 기록(Real-time Tracking)과 전두엽 실행 제어망 활성화
+## 1. 실시간 기록(Real-time Tracking)과 전두엽 실행 제어망 활성화
 
 행동이나 지출이 일어난 즉시 그 자리에서 수치와 내용을 수동으로 수첩에 기록(Real-time Micro-tracking)하는 행위는 뇌의 전두엽 인지 실행 제어망(Executive Control Network)을 강하게 자극합니다. 이는 자극에 즉각적이고 충동적으로 반응하지 않도록 지연시키는 자기 조절력(Self-Regulation)을 활성화하며, 장기적으로 행동 제어를 조율하는 뇌 가소성을 대폭 강화하여 주의 집중력과 충동 억제 능력을 영구적으로 극대화해 줍니다.
 
 ---
 
-## 디지털 기록의 함정과 아날로그 즉시 기록의 팁
-
-스마트폰의 메모장이나 가계부 앱에 기록할 경우, 폰을 켜는 순간 쏟아지는 수많은 소셜 미디어 알림이나 뉴스가 뇌를 인지적 스트레스에 다시 노출시킵니다. 또한 앱 기록은 미학적 느낌을 전달하기 어려워 뇌의 만족 중추를 자극하지 못합니다. 지갑 속에 쏙 들어가는 예쁜 빨간색 소형 수첩과 연필을 항시 소지하여, 앱을 켜지 않고 5초 이내에 수기로 적을 수 있는 물리적 흐름을 구성할 때 뇌가 가장 명확히 인지 오프로딩을 실현합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 디지털 기록의 함정과 아날로그 즉시 기록의 팁
+
+스마트폰의 메모장이나 가계부 앱에 기록할 경우, 폰을 켜는 순간 쏟아지는 수많은 소셜 미디어 알림이나 뉴스가 뇌를 인지적 스트레스에 다시 노출시킵니다. 또한 앱 기록은 미학적 느낌을 전달하기 어려워 뇌의 만족 중추를 자극하지 못합니다. 지갑 속에 쏙 들어가는 예쁜 빨간색 소형 수첩과 연필을 항시 소지하여, 앱을 켜지 않고 5초 이내에 수기로 적을 수 있는 물리적 흐름을 구성할 때 뇌가 가장 명확히 인지 오프로딩을 실현합니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>스마트폰 가계부나 할 일 앱을 쓰는 것보다 아날로그 수첩이 더 나은가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       네, 스마트폰을 켜는 행위 자체는 뇌의 인지 스위치를 디지털 잡음(SNS, 메시지)에 노출시켜 즉각적으로 집중력을 분산시킵니다. 또한 수기로 꾹꾹 눌러 적을 때 손가락 체성감각 정보가 대뇌 피질에 훨씬 강하게 입력되어, '내가 통제하고 있다'는 인지적 자각이 2배 이상 높게 일어나기 때문에 행동 조율에 아날로그가 압도적으로 효율적입니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>1센트나 1분 단위처럼 너무 하찮은 정보까지 매번 다 적어야 하나요?</span>

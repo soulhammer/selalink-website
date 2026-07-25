@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "침대 위 가위질의 기적: 앙리 마티스의 컷아웃 통증 치유법"
 description: "미술사의 최고 거장 앙리 마티스. 노년의 심각한 암 수술 후 침대 위에서 긴 가위로 색종이를 오리며 고통을 이겨내고 걸작을 창조해 낸 비결과, 시각-촉각 자극이 선사하는 뇌과학적 힐링 효과를 알아봅니다."
 pubDate: "2026-05-17"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>앙리 마티스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 matisse-paper-cutout 루틴을 다룹니다.
+      본 콘텐츠는 <strong>앙리 마티스 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 통증을 분산하고 뇌 가소성을 자극하는 시각-촉각 피드백
+## 1. 통증을 분산하고 뇌 가소성을 자극하는 시각-촉각 피드백
 
 뇌가 강력한 신체적 고통이나 정신적 스트레스를 받고 있을 때, 단순히 누워서 쉬기만 하는 것은 뇌가 통증과 불안 회복 네트워크에 계속 주의를 집중하게 만듭니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 손끝의 창조가 지친 뇌를 치료합니다
-
-현대인들은 매일 수동적인 웹 서핑이나 SNS 보기로 시각 피로를 축적하며 두뇌를 피로하게 방치합니다. 마티스처럼 일주일에 한 번이라도 선명한 종이를 실제 가위로 오려 자유로운 형태를 만들고 이를 벽면이나 빈 노트에 직접 배치하는 손끝의 리추얼을 가져보세요. 이는 두뇌의 감각 연결망을 회복하는 훌륭한 예술적 두뇌 디톡스 치료법입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 손끝의 창조가 지친 뇌를 치료합니다
+
+현대인들은 매일 수동적인 웹 서핑이나 SNS 보기로 시각 피로를 축적하며 두뇌를 피로하게 방치합니다. 마티스처럼 일주일에 한 번이라도 선명한 종이를 실제 가위로 오려 자유로운 형태를 만들고 이를 벽면이나 빈 노트에 직접 배치하는 손끝의 리추얼을 가져보세요. 이는 두뇌의 감각 연결망을 회복하는 훌륭한 예술적 두뇌 디톡스 치료법입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>미적 감각이 없는 초보자도 컷아웃을 할 때 효과를 볼 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       그렇습니다. 미적 결과물을 완성하는 것은 중요하지 않습니다. 오직 '손을 정밀하게 가위로 움직이는 행동(촉각)'과 '선명한 색을 오려내는 과정(시각)'의 자극이 뇌로 유입되는 과정 그 자체가 인지적 고통을 분산하고 뇌 가소성을 자극하는 본질이므로, 형태가 일그러지거나 조잡하더라도 아무런 상관이 없습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>가위질 대신 점토나 드로잉 앱을 쓰는 것은 어떤가요?</span>

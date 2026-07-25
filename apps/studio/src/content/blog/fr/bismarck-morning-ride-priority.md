@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Surmonter la surcharge décisionnelle par la chevauchée matinale : L'éveil aérobique de Bismarck et la routine TOP 3"
 description: "Découvrez comment Otto von Bismarck, le « Chancelier de fer » qui a unifié l'Allemagne, combinait la chevauchée matinale avec la méthode d'extraction des TOP 3 priorités, et percez les principes neuroscientifiques d'augmentation du flux sanguin cérébral pour prévenir la fatigue décisionnelle."
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant bismarck-morning-ride-priority est basée sur <strong>Vérification Historique issue de l'autobiographie d'Otto von Bismarck *Gedanken und Erinnerungen* & de la biographie d'A.J.P. Taylor *Bismarck: The Man and the Statesman* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie d'Otto von Bismarck *Gedanken und Erinnerungen* & de la biographie d'A.J.P. Taylor *Bismarck: The Man and the Statesman* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sécrétion de BDNF post-exercice aérobique et simplification décisionnelle via la « Règle de 3 »
+## 1. Sécrétion de BDNF post-exercice aérobique et simplification décisionnelle via la « Règle de 3 »
 
 Lorsque les choix de décision dépassent 4 ou 5 éléments, un goulot d'étranglement (Bottleneck) se produit dans les circuits de contrôle exécutif préfrontal, provoquant une fatigue décisionnelle rapide. L'application de la « Règle de 3 (Rule of 3) » juste après avoir stimulé le facteur neurotrophique dérivé du cerveau (BDNF) et la sécrétion de dopamine par l'exercice aérobique matinal — comme le faisait Bismarck — préserve le budget en glucose du cortex préfrontal et évite la surcharge cognitive. Dans la limite structurée de trois éléments, le cerveau filtre le bruit et libère une énergie cognitive maximale pour résoudre les problèmes essentiels.
 
 ---
 
-## Précautions & Conseils : Exclusion des tâches triviales avant la fin du TOP 3 & Conception de l'environnement
-
-Traiter d'abord des tâches faciles et triviales procure au cerveau une impression momentanée de « fausse accomplissement », mais retarde au final l'exécution des tâches prioritaires. Tant que les TOP 3 tâches ne sont pas terminées, différez les travaux secondaires comme la consultation des e-mails ou le rangement. Plutôt que de compter uniquement sur la volonté brute, la clé de la durabilité réside dans la pré-conception d'un environnement physique qui bloque les distractions.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Traiter d'abord des tâches faciles et triviales procure au cerveau une impressi
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Exclusion des tâches triviales avant la fin du TOP 3 & Conception de l'environnement
+
+Traiter d'abord des tâches faciles et triviales procure au cerveau une impression momentanée de « fausse accomplissement », mais retarde au final l'exécution des tâches prioritaires. Tant que les TOP 3 tâches ne sont pas terminées, différez les travaux secondaires comme la consultation des e-mails ou le rangement. Plutôt que de compter uniquement sur la volonté brute, la clé de la durabilité réside dans la pré-conception d'un environnement physique qui bloque les distractions.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si je ne parviens pas à terminer l'une des TOP 3 tâches dans la journée ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Traiter d'abord des tâches faciles et triviales procure au cerveau une impressi
       C'est tout à fait normal. Ce n'est pas un échec, mais la preuve que vous avez concentré votre énergie sur un projet majeur à fort impact. Reportez simplement l'élément non terminé comme tâche n°1 demain matin, lorsque votre cortex préfrontal sera au frais.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quelles sont les alternatives modernes d'exercice à la chevauchée matinale ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Superando los límites del asma con pesas: El intenso entrenamiento físico matutino de Theodore Roosevelt"
 description: "Como gran presidente estadounidense tallado en el Monte Rushmore, mantuvo una rutina de lectura superconcentrada en la que su cerebro se despertaba por completo tras un esfuerzo físico intenso."
 pubDate: "2026-07-06"
@@ -34,22 +35,20 @@ En esta publicación, exploramos los principios científicos detrás de su hábi
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre theodore-roosevelt se basa en <strong>Biografías históricas y registros autobiográficos de Theodore Roosevelt e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos de Theodore Roosevelt e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Análisis de principios neurocientíficos para el éxito
+## 1. Análisis de principios neurocientíficos para el éxito
 
 Los breves estallidos de ejercicio matutino intenso que superan la resistencia aumentan rápidamente la saturación de oxígeno y el flujo sanguíneo a la corteza cerebral y prefrontal. Este estímulo maximiza la secreción de BDNF, promoviendo las redes neuronales, apoyando la neurogénesis en el hipocampo y eliminando el cortisol de fatiga.
 
 ---
 
-## Consejos de ciencia conductual para una aplicación exitosa
-
-No agote su energía y fuerza de voluntad con entrenamientos excesivamente largos antes de comenzar su jornada. Un microejercicio ligero e intenso de 3 minutos es suficiente para estimular la agudeza mental.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ No agote su energía y fuerza de voluntad con entrenamientos excesivamente largo
   </p>
 </div>
 
+---
+
+## 3. Consejos de ciencia conductual para una aplicación exitosa
+
+No agote su energía y fuerza de voluntad con entrenamientos excesivamente largos antes de comenzar su jornada. Un microejercicio ligero e intenso de 3 minutos es suficiente para estimular la agudeza mental.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Siento somnolencia después de terminar un entrenamiento matutino intenso.</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ No agote su energía y fuerza de voluntad con entrenamientos excesivamente largo
       Ocurre cuando el sobreesfuerzo provoca un aumento de sustancias acumuladoras de fatiga. Debe limitar estrictamente el ejercicio a 3 minutos en cuanto alcance el umbral de falta de aire para que solo la dopamina reconfortante cargue su cerebro.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo deben comenzar los principiantes con una condición física muy baja?</span>

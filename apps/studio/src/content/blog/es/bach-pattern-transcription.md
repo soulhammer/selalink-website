@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿Un Maestro que Transcribía Partituras Bajo la Luz de la Luna? El Hábito de Transcripción de Bach que Estimula el Lóbulo Parietal"
 description: "Johann Sebastian Bach encarnó reglas matemáticas a lo largo de su vida copiando partituras de compositores anteriores. Descubra los principios científicos de cómo la manipulación con las yemas de los dedos estimula las regiones de la lógica del cerebro y una rutina moderna de transcripción."
 pubDate: "2026-06-19"
@@ -34,14 +35,14 @@ En la publicación de hoy, analizamos los principios neurocientíficos ocultos e
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre bach-pattern-transcription se basa en <strong>Verificación Histórica de *Johann Sebastian Bach: Su vida, arte y obras (1802)* de Johann Nikolaus Forkel e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Johann Sebastian Bach: Su vida, arte y obras (1802)* de Johann Nikolaus Forkel e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Control Motor Fino Digital y Asociación del Lóbulo Parietal
+## 1. Control Motor Fino Digital y Asociación del Lóbulo Parietal
 
 El aprendizaje digital moderno, como teclear en el teclado de una computadora o en una pantalla, es una actividad cognitiva de baja densidad que solo roza una pequeña área de la corteza motora del cerebro. Por el contrario, la transcripción analógica (sostener un bolígrafo y presionar textos o símbolos complejos sobre el papel) requiere un control de motricidad fina (Fine Motor) delicado.
 
@@ -49,11 +50,7 @@ En este proceso, el cerebro activa intensamente no solo las regiones de planific
 
 ---
 
-## Un Consejo Neurocientífico para una Rutina Exitosa
-
-<strong>La mano es el cerebro externalizado.</strong>
-
-La información leída con los ojos en la pantalla de un monitor o arrastrada con el ratón fluye de forma muy superficial por el cerebro y desaparece. Si desea fortalecer los circuitos lógicos de su cerebro, intente tomar un bolígrafo y transcribir durante solo 10 minutos. Así como Bach dominó las fórmulas perfectas de la música barroca copiando complejos patrones de fuga con la yema de sus dedos, su cerebro poseerá por completo conocimientos difíciles al someterse a la transcripción analógica.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ La información leída con los ojos en la pantalla de un monitor o arrastrada co
     Después de terminar de copiar, examine tranquilamente la estructura del texto alineada en el papel de arriba a abajo, reorganizando visualmente sus relaciones lógicas y diseño de disposición. Esta etapa de coincidencia visual-lógica establece un marco estructural sólido en el lóbulo frontal.
   </p>
 </div>
+
+---
+
+## 3. Un Consejo Neurocientífico para una Rutina Exitosa
+
+<strong>La mano es el cerebro externalizado.</strong>
+
+La información leída con los ojos en la pantalla de un monitor o arrastrada con el ratón fluye de forma muy superficial por el cerebro y desaparece. Si desea fortalecer los circuitos lógicos de su cerebro, intente tomar un bolígrafo y transcribir durante solo 10 minutos. Así como Bach dominó las fórmulas perfectas de la música barroca copiando complejos patrones de fuga con la yema de sus dedos, su cerebro poseerá por completo conocimientos difíciles al someterse a la transcripción analógica.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

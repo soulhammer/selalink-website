@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "病榻上剪纸的奇迹：亨利·马蒂斯剪纸艺术的阵痛疗愈法"
 description: "艺术史巨匠亨利·马蒂斯。解析他在晚年经历重大癌症手术后，如何在病榻上用长剪纸剪裁彩纸、克服剧痛并打造出艺术杰作的秘诀，以及视触觉刺激带来的脑科学疗愈效果。"
 pubDate: "2026-05-17"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 matisse-paper-cutout 的内容基于 <strong>亨利·马蒂斯历史传记与考证及认知神经科学研究</strong> 撰写。
+      本内容基于 <strong>亨利·马蒂斯历史传记与考证及认知神经科学研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 分散疼痛感并刺激大脑可塑性的视触觉反馈
+## 1. 分散疼痛感并刺激大脑可塑性的视触觉反馈
 
 当大脑遭受剧烈的肉体痛苦或精神压力时，仅仅卧床休息会让注意力持续困于痛觉与焦虑的网络中。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 指尖的微观创造疗愈疲惫的大脑
-
-现代人每天因被动浏览网页或刷社交媒体而积累大量的视觉疲劳，让大脑处于疲惫状态。不妨像马蒂斯那样，即使每周仅一次，用真正的剪刀剪裁鲜艳彩纸、裁剪出随心的形状，并将其贴于墙面或空白笔记本上。这是一套通过触觉恢复大脑感官连接网的艺术性脑力排毒疗法。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 指尖的微观创造疗愈疲惫的大脑
+
+现代人每天因被动浏览网页或刷社交媒体而积累大量的视觉疲劳，让大脑处于疲惫状态。不妨像马蒂斯那样，即使每周仅一次，用真正的剪刀剪裁鲜艳彩纸、裁剪出随心的形状，并将其贴于墙面或空白笔记本上。这是一套通过触觉恢复大脑感官连接网的艺术性脑力排毒疗法。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>没有艺术细胞的门外汉做剪纸也能起到效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       完全可以。成果是否精美毫不重要。核心在于“用剪刀精细操控手部（触觉）”与“裁剪鲜艳色彩（视觉）”的过程能为大脑输送高密度刺激，从而分散认知痛苦并促进脑可塑性。即便剪出的形状扭曲粗糙也无伤大雅。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>用超轻粘土或平板绘画软件替代剪纸效果如何？</span>

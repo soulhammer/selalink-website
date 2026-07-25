@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Penemu yang Bertukar Posisi saat Berdebat: Metode Debat Terbalik Wright Bersaudara"
 description: "Wright bersaudara menciptakan pesawat terbang bermesin pertama. Pelajari metode debat metakognitif mereka yang bertukar argumen untuk memecahkan kebuntuan, beserta panduan praktis modern."
 pubDate: "2026-03-04"
@@ -35,25 +36,23 @@ Artikel ini mengeksplorasi bagaimana metode debat terbalik Wright bersaudara men
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai wright-reverse-debate didasarkan pada <strong>Biografi historis & catatan autobiografi tentang Wright bersaudara & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis & catatan autobiografi tentang Wright bersaudara & penelitian ilmu saraf kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Restrukturisasi Metakognitif' untuk Menetralisir Bias Konfirmasi
+## 1. 'Restrukturisasi Metakognitif' untuk Menetralisir Bias Konfirmasi
 
 Setelah sebuah ide terbentuk, otak cenderung hanya mencari informasi yang mendukungnya dan mengabaikan kelemahan—sebuah jebakan bernama Bias Konfirmasi (Confirmation Bias). Metode debat terbalik Wright bersaudara berfungsi sebagai Restrukturisasi Kognitif. Dengan memaksa diri membela posisi lawan, korteks prafrontal melepaskan keterikatan emosional pada hipotesis awal, mengaktifkan sirkuit metakognitif untuk menilai asumsi secara objektif dan memperbaiki kesalahan logika.
 
 ---
 
-## Meragukan Argumen Sendiri Membuka Wawasan Sejati
-
-Untuk menyempurnakan ide hebat, Anda harus terlebih dahulu melepaskan keterikatan padanya. Wright bersaudara menciptakan keajaiban penerbangan manusia dengan menjadi otak satu sama lain setiap malam untuk menguji asumsi mereka secara ketat. Ketika pikiran Anda menjadi sempit, balikkan sudut pandang Anda 180 derajat.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Untuk menyempurnakan ide hebat, Anda harus terlebih dahulu melepaskan keterikata
   </p>
 </div>
 
+---
+
+## 3. Meragukan Argumen Sendiri Membuka Wawasan Sejati
+
+Untuk menyempurnakan ide hebat, Anda harus terlebih dahulu melepaskan keterikatan padanya. Wright bersaudara menciptakan keajaiban penerbangan manusia dengan menjadi otak satu sama lain setiap malam untuk menguji asumsi mereka secara ketat. Ketika pikiran Anda menjadi sempit, balikkan sudut pandang Anda 180 derajat.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya bisa menggunakan rutinitas ini saat bekerja sendiri tanpa rekan debat?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Untuk menyempurnakan ide hebat, Anda harus terlebih dahulu melepaskan keterikata
       Tentu saja. Tuliskan 'Argumen Saya' di kertas dan jalankan dua peran dengan menulis laporan kritik sebagai 'Devil's Advocate' seolah-olah Anda adalah kompetitor paling ketat bagi diri sendiri.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara melakukan debat terbalik tanpa menyakiti perasaan rekan?</span>

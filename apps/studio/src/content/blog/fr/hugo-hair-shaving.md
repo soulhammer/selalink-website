@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Forcer la concentration en bloquant les sorties : La routine d'isolement par le rasage et la stratégie de pré-engagement de Victor Hugo"
 description: "Découvrez comment Victor Hugo s'est rasé la moitié des cheveux et de la barbe pour s'interdire de sortir et tenir ses délais éditoriaux. Explorez la neuroscience des contraintes physiques environnementales et la prévention de la fatigue préfrontale."
 pubDate: "2026-06-29"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant hugo-hair-shaving est basée sur <strong>Vérification Historique issue de la biographie de Graham Robb *Victor Hugo*, de la thérapie comportementale & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Graham Robb *Victor Hugo*, de la thérapie comportementale & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stratégie de pré-engagement et prévention de la fatigue de la volonté préfrontale
+## 1. Stratégie de pré-engagement et prévention de la fatigue de la volonté préfrontale
 
 La capacité a résister a la tentation repose sur des ressources limitées dans le <strong>Cortex Préfrontal</strong>. L'effort d'auto-contrôle continu face aux distractions provoque la <strong>Fatigue de la volonté (Willpower Fatigue)</strong>. La méthode de Victor Hugo consistant a supprimer physiquement la possibilité de céder est appelée <strong>Stratégie de pré-engagement (Precommitment Strategy)</strong>. En enfermant ses vêtements, il a éliminé la tentation à la racine, permettant a son cerveau de consacrer 100 % de sa bande passante à la rédaction.
 
 ---
 
-## Mise en garde : Pré-engager l'environnement physique plutôt que de compter sur la volonté
-
-N'essayez pas de surmonter les notifications ou tentations uniquement par la volonté. À l'image de l'isolement de Hugo, la clé du succès réside dans la mise en place préalable de contraintes physiques environnementales (boîtes de verrouillage pour téléphone, bloqueurs de sites) pour que la concentration se fasse sans effort.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ N'essayez pas de surmonter les notifications ou tentations uniquement par la vol
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Pré-engager l'environnement physique plutôt que de compter sur la volonté
+
+N'essayez pas de surmonter les notifications ou tentations uniquement par la volonté. À l'image de l'isolement de Hugo, la clé du succès réside dans la mise en place préalable de contraintes physiques environnementales (boîtes de verrouillage pour téléphone, bloqueurs de sites) pour que la concentration se fasse sans effort.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Victor Hugo s'est-il vraiment rasé la moitié des cheveux et de la barbe pour écrire son roman ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ N'essayez pas de surmonter les notifications ou tentations uniquement par la vol
       Oui, tout à fait. À la fin de l'année 1830, face à un délai serré pour *Notre-Dame de Paris*, Hugo s'est rasé la moitié du crâne et de la barbe et a fait enfermer ses vêtements pour s'imposer un isolement total jusqu'à la fin du roman.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quelles méthodes modernes de pré-engagement puis-je utiliser sans me raser la tête ?</span>

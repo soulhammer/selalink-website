@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Flâner dans les cimetières pour trouver l'inspiration : La routine de 'Contemplation solennelle' de Mary Shelley"
 description: "Découvrez pourquoi Mary Shelley, auteure de 'Frankenstein', arpentait les cimetières et les lieux historiques. Explorez la science cérébrale de l'émerveillement et de la réflexion favorisant la créativité."
 pubDate: "2026-07-07"
@@ -33,17 +34,17 @@ Découvrez les principes scientifiques de l'émerveillement cognitif et de l'ima
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant shelley-cemetery-walk est basée sur <strong>Archives littéraires historiques de Mary Shelley & recherche en psychologie environnementale sur l'émerveillement (Awe)</strong>.
+      Ce contenu est basé sur <strong>Archives littéraires historiques de Mary Shelley & recherche en psychologie environnementale sur l'émerveillement (Awe)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Émerveillement cognitif et activation du réseau cérébral réflexif dans des espaces solennels
+## 1. Émerveillement cognitif et activation du réseau cérébral réflexif dans des espaces solennels
 
 La psychologie environnementale montre que visiter des lieux empreints d'histoire et de solennité déclenche une émotion particulière : l'émerveillement (Awe).
 
@@ -51,9 +52,7 @@ L'émerveillement apaise le réseau cérébral égocentrique lié au stress quot
 
 ---
 
-## Privilégiez des lieux historiques ou naturels calmes et préservés
-
-Pour Mary Shelley, le cimetière était un sanctuaire pour réfléchir à la vie. Il n'est pas nécessaire d'aller dans un cimetière : choisissez des sentiers en forêt, des jardins historiques, de somptueuses bibliothèques ou des temples calmes. L'essentiel est de vous isoler du bruit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Pour Mary Shelley, le cimetière était un sanctuaire pour réfléchir à la vie
     Arrêtez-vous sous un arbre ou sur un banc pour ouvrir votre carnet. Notez librement les pensées profondes sur la vie inspirées par ce recueillement.
   </p>
 </div>
+
+---
+
+## 3. Privilégiez des lieux historiques ou naturels calmes et préservés
+
+Pour Mary Shelley, le cimetière était un sanctuaire pour réfléchir à la vie. Il n'est pas nécessaire d'aller dans un cimetière : choisissez des sentiers en forêt, des jardins historiques, de somptueuses bibliothèques ou des temples calmes. L'essentiel est de vous isoler du bruit.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

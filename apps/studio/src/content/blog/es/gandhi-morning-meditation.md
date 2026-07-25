@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Girar la Rueca en el Silencio del Amanecer: La Rutina de Meditación Matutina y Meditación Activa de Mahatma Gandhi"
 description: "Descubra cómo Mahatma Gandhi, el gran líder de la paz en la India, disciplinaba su mente al despertar a las 4 AM para meditar y girar la rueca Charkha. Explore la neurociencia de la meditación activa y la serotonina."
 pubDate: "2026-03-23"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la 'r
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre gandhi-morning-meditation se basa en <strong>Verificación Histórica de la *Autobiografía: La historia de mis experimentos con la verdad* de Mahatma Gandhi, Archivos del Ashram e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la *Autobiografía: La historia de mis experimentos con la verdad* de Mahatma Gandhi, Archivos del Ashram e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Meditación Activa: Cómo el Movimiento Repetitivo Estimula la Serotonina y la Calma
+## 1. Meditación Activa: Cómo el Movimiento Repetitivo Estimula la Serotonina y la Calma
 
 Mientras que la meditación sentada es pasiva, girar la rueca ejemplifica la <strong>Meditación Activa</strong>: usar el movimiento físico para inducir un enfoque profundo. Neurocientíficamente, ejercitar el control motor fino en las yemas de los dedos mientras se mantiene un movimiento circular rítmico estimula la liberación de <strong>serotonina</strong>. La serotonina despeja la mente e inhibe la ansiedad, proporcionando serenidad. Además, la atención requerida para evitar que el hilo se rompa suprime la Red por Defecto (DMN) responsable de la divagación. La resiliencia de Gandhi residía en este reinicio fisiológico diario, alineando la <strong>Variabilidad del Ritmo Cardíaco (HRV)</strong>.
 
 ---
 
-## Precaución: Priorice el Ritmo Repetitivo Táctil sobre la Rueca Física
-
-Conseguir una rueca Charkha india real es poco práctico. El mecanismo no depende del objeto histórico, sino del 'ritmo repetitivo táctil fino'. Puede obtener los mismos beneficios neurológicos dedicando 10 minutos a un ritual que ejercite la yema de los dedos: transcribir a mano, tejer, preparar té ceremoniosamente o construir bloques de Lego.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Conseguir una rueca Charkha india real es poco práctico. El mecanismo no depend
   </p>
 </div>
 
+---
+
+## 3. Precaución: Priorice el Ritmo Repetitivo Táctil sobre la Rueca Física
+
+Conseguir una rueca Charkha india real es poco práctico. El mecanismo no depende del objeto histórico, sino del 'ritmo repetitivo táctil fino'. Puede obtener los mismos beneficios neurológicos dedicando 10 minutos a un ritual que ejercite la yema de los dedos: transcribir a mano, tejer, preparar té ceremoniosamente o construir bloques de Lego.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué actividades táctiles modernas pueden sustituir a la rueca?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Conseguir una rueca Charkha india real es poco práctico. El mecanismo no depend
       Cualquier actividad rítmica que requiera precisión fina funciona muy bien: caligrafía con pluma, tejer a dos agujas o crochet, la ceremonia del té, montar puzles o Lego, y tocar tambores de dedos, desencadenando serotonina.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si mi mente se distrae continuamente durante las actividades táctiles?</span>

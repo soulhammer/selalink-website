@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Procurando um prego dobrado para vencer o pânico de palco: A rotina da 'Âncora Sensorial' de Luciano Pavarotti"
 description: "Explica o efeito calmante neurocientífico por trás do hábito do tenor Luciano Pavarotti de procurar pregos dobrados antes das apresentações. Descubra como rotinas ritualizadas controlam a ansiedade."
 pubDate: "2026-04-13"
@@ -33,25 +34,23 @@ Neste artigo, exploramos a ciência cerebral por trás do ritual do prego dobrad
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre pavarotti-bent-nail é baseada em <strong>Verificação de biografias históricas e registros autobiográficos de Luciano Pavarotti e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação de biografias históricas e registros autobiográficos de Luciano Pavarotti e pesquisa em neurociência cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Rotinas ritualizadas e controle da ansiedade na amígdala
+## 1. Rotinas ritualizadas e controle da ansiedade na amígdala
 
 Diante de apresentações de alto estresse, a amígdala cerebral percebe uma ameaça à sobrevivência, ativando a reação de 'luta ou fuga' e aumentando os batimentos cardíacos. Executar intencionalmente um ritual específico engana o cérebro, criando um 'senso de controle' que acalma a hiperatividade da amígdala. Além disso, direcionar o foco para uma tarefa concreta como procurar um objeto interrompe a metacognição que gera ansiedade e redireciona a mente para o processamento de dados físicos, visuais e táteis.
 
 ---
 
-## Estabelecer sua própria âncora sensorial para liberar a tensão
-
-Para Luciano Pavarotti, o prego dobrado era uma âncora sensorial inteligente que estabilizava a turbulência emocional. Você não precisa procurar pregos; 1 minuto antes de uma entrevista ou apresentação, toque em uma moeda ou clipe no bolso e concentre-se na sensação metálica firme e fria. À medida que os dados táteis preenchem sua rede neural, o pavor de palco diminui rapidamente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Para Luciano Pavarotti, o prego dobrado era uma âncora sensorial inteligente qu
   </p>
 </div>
 
+---
+
+## 3. Estabelecer sua própria âncora sensorial para liberar a tensão
+
+Para Luciano Pavarotti, o prego dobrado era uma âncora sensorial inteligente que estabilizava a turbulência emocional. Você não precisa procurar pregos; 1 minuto antes de uma entrevista ou apresentação, toque em uma moeda ou clipe no bolso e concentre-se na sensação metálica firme e fria. À medida que os dados táteis preenchem sua rede neural, o pavor de palco diminui rapidamente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

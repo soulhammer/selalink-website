@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "볼링겐 오두막의 디지털 디톡스: 칼 융의 무의식 회복법과 DMN 인지 리셋"
 description: "분석심리학의 개척자 칼 융. 소음과 전기마저 차단된 오두막에서 장작을 패며 뇌를 리셋했던 그의 지혜와 기본 모드 네트워크(DMN) 활성화, 전전두엽 인지 자원 회복 원리 및 현대식 3단계 디지털 디톡스 루틴을 소개합니다."
 pubDate: "2026-01-21"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>칼 융 자서전 『기억, 꿈, 사상(Memories, Dreams, Reflections)』 및 볼링겐 타워 아카이브 사료 고증 & 분석심리학(Analytical Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 jung-bollingen-detox 루틴을 다룹니다.
+      본 콘텐츠는 <strong>칼 융 자서전 『기억, 꿈, 사상(Memories, Dreams, Reflections)』 및 볼링겐 타워 아카이브 사료 고증 & 분석심리학(Analytical Psychology) 및 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 기본 모드 네트워크(DMN) 활성화와 전전두엽 인지 자원 회복
+## 1. 기본 모드 네트워크(DMN) 활성화와 전전두엽 인지 자원 회복
 
 우리가 온종일 디지털 자극에 노출되면 뇌의 <strong>전전두엽(Prefrontal Cortex)</strong>은 정보를 처리하고 선택적 집행 통제를 유지하느라 막대한 에너지를 소모하며, 만성적인 <strong>인지 피로(Cognitive Fatigue)</strong>와 창의성 고갈에 빠집니다. 칼 융의 볼링겐 오두막 루틴은 이 자극의 고리를 강제로 끊어내고 뇌의 <strong>'기본 모드 네트워크(Default Mode Network, DMN)'</strong>를 활성화하는 인지 리셋 과정이었습니다. 인위적 시각 자극이 완전히 차단된 상태에서 장작 패기나 물 긷기 같은 단순 반복 수공 노동을 수행할 때, 뇌는 DMN 상태로 진입하여 무의식적 개념들을 정돈하고 새로운 창의적 통찰을 이끌어냅니다.
 
 ---
 
-## 인위적 정보 자극을 물리적으로 차단하고 아날로그 노동에 몰입하는 수칙
-
-칼 융에게 볼링겐 오두막은 단순한 도피처가 아니라, 외부 소음과 전자기기 자극을 물리적으로 완벽히 차단한 사색의 연구실이었습니다. 스크린을 보면서 휴식을 취하려 하지 마세요. 스마트폰을 눈앞에서 완전히 치우고 손과 몸을 쓰는 아날로그적 원초 노동에 몰입해야 비로소 뇌의 전전두엽 피로가 회복됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 인위적 정보 자극을 물리적으로 차단하고 아날로그 노동에 몰입하는 수칙
+
+칼 융에게 볼링겐 오두막은 단순한 도피처가 아니라, 외부 소음과 전자기기 자극을 물리적으로 완벽히 차단한 사색의 연구실이었습니다. 스크린을 보면서 휴식을 취하려 하지 마세요. 스마트폰을 눈앞에서 완전히 치우고 손과 몸을 쓰는 아날로그적 원초 노동에 몰입해야 비로소 뇌의 전전두엽 피로가 회복됩니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>반드시 오두막 같은 오지나 한적한 곳으로 가야만 하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       아닙니다. 핵심은 '인위적인 정보 자극의 물리적 차단'과 '아날로그적 집중'입니다. 집 안의 한 구석을 스마트폰이 없는 구역으로 정해두고 30분에서 1시간 동안만 차단 상태를 유지해도 훌륭한 효과를 얻을 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>왜 단순한 집안일이나 노동이 사색에 도움이 되나요?</span>

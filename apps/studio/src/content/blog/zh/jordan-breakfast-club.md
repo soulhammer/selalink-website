@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "清晨6点不败的心智重塑：迈克尔·乔丹的早餐俱乐部与赢家效应"
 description: "探索篮球之神迈克尔·乔丹如何通过清晨6点的“早餐俱乐部”训练习惯突破体能与心理极限。揭示赢家效应（Winner Effect）、多巴胺与睾酮分泌机制及3步骤晨间心智重塑指南。"
 pubDate: "2026-01-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 jordan-breakfast-club 的内容基于 <strong>迈克尔·乔丹自传《Driven from Within》与传记史料考证及认知神经科学（Cognitive Neuroscience）与运动生理学（Exercise Physiology）研究</strong> 撰写。
+      本内容基于 <strong>迈克尔·乔丹自传《Driven from Within》与传记史料考证及认知神经科学（Cognitive Neuroscience）与运动生理学（Exercise Physiology）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 胜者效应（Winner Effect）与多巴胺及睾酮激增神经机制
+## 1. 胜者效应（Winner Effect）与多巴胺及睾酮激增神经机制
 
 在一天的清晨时分率先达成攻坚突破个人极限的重磅体力训练，大脑会当即于中枢神经系统剧烈拉动<strong>多巴胺（Dopamine）</strong>与<strong>睾酮（Testosterone）</strong>的高浓度分泌，赋予极高的成就感。在认知科学层面，这能强力唤醒<strong>“胜者效应（Winner Effect）”</strong>正向反馈闭环，助人在全天面对各类具挑战性的硬核任务时展现出卓绝的主动性与自信。此外，与队友或同伴共集一堂训练并共进高蛋白早餐的过程，更可强效刺激社交神经递质<strong>催产素（Oxytocin）</strong>，构建情绪粘性，跨越式提升习惯的长效留存率。
 
 ---
 
-## 注意事项：不依靠主观情绪拉扯，极小化前额叶认知摩擦指南
-
-晨间训练习惯的核心要义在于如机械般硬核启动躯体，绝非妥协于每天醒来时的主观情绪。醒来瞬间绝不留给大脑“要不要再睡会”的讨价还价余地，当即起床移步至训练微环境，方能将前额叶皮层（Prefrontal Cortex）的认知内耗摩擦与能量挥霍压缩至极限极低。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：不依靠主观情绪拉扯，极小化前额叶认知摩擦指南
+
+晨间训练习惯的核心要义在于如机械般硬核启动躯体，绝非妥协于每天醒来时的主观情绪。醒来瞬间绝不留给大脑“要不要再睡会”的讨价还价余地，当即起床移步至训练微环境，方能将前额叶皮层（Prefrontal Cortex）的认知内耗摩擦与能量挥霍压缩至极限极低。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>对于习惯于晚睡晚起的夜型作息人群，该如何切合实际地等效复刻？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       核心要义并非死磕“钟表上的清晨6点”，而在于“醒来第一时间内完成突破极限的硬核训练”。无论您的实际醒来节点为何时，只要在起床后的第一个时段向躯体施加高强度训练，便可斩获完全相同的激素激增与掌控全局的心理优势。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>每天开展高强度体能训练，是否会导致躯体过度疲劳或运动损伤？</span>

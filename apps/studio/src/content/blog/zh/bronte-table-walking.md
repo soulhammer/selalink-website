@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "夜幕下围绕餐桌走动的姐妹：夏洛蒂·勃朗特的步行讨论与镜像神经元创作法"
 description: "探索《简·爱》作者夏洛蒂·勃朗特每天深夜与姐妹们围绕客厅餐桌走动并讨论小说人物与情节的习惯，揭示结合步行运动与镜像神经元（Mirror Neurons）系统以规避隧道视野并引导客观洞察的神经科学原理。"
 pubDate: "2026-05-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 bronte-table-walking 的内容基于 <strong>伊丽莎白·盖斯凯尔传记《夏洛蒂·勃朗特传（The Life of Charlotte Brontë）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>伊丽莎白·盖斯凯尔传记《夏洛蒂·勃朗特传（The Life of Charlotte Brontë）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过步行促进脑血流量与借由镜像神经元（Mirror Neurons）化解隧道视野
+## 1. 通过步行促进脑血流量与借由镜像神经元（Mirror Neurons）化解隧道视野
 
 调动身体肌肉行走的动作能急剧增加通往大脑的血流量与供氧量，并激活脑源性神经营养因子（BDNF）的分泌，相较于静坐，能将发散性创意提升约60%以上。此外，在与他人展开语言对话并听取反馈的过程中，大脑的“镜像神经元（Mirror Neurons）”系统与心智理论网络（Theory of Mind Network）会被强效激活。这能有效规避仅沉溺于自身想法的“隧道视野（Tunnel Vision）”现象，使创作者能够站在第三者客观视域下发现并修正策划或作品中的逻辑漏洞与骨架瑕疵。
 
 ---
 
-## 注意事项与提示：包容接纳批评与屏除情绪化心理防御
-
-步行讨论习惯的核心，在于交换冷静且客观的批判，而非流于形式的寒暄与吹捧。若将旁人的指出误判为“对自己的人格攻击”，大脑就会启动杏仁核（Amygdala）防御机制，从而切断创造性的接受度。必须将“自我人格”与“策划想法”严加区分，把反馈视为厘清方案逻辑漏洞的客性中立信息数据，如此方能理顺这套自我校正机制。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：包容接纳批评与屏除情绪化心理防御
+
+步行讨论习惯的核心，在于交换冷静且客观的批判，而非流于形式的寒暄与吹捧。若将旁人的指出误判为“对自己的人格攻击”，大脑就会启动杏仁核（Amygdala）防御机制，从而切断创造性的接受度。必须将“自我人格”与“策划想法”严加区分，把反馈视为厘清方案逻辑漏洞的客性中立信息数据，如此方能理顺这套自我校正机制。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在没有讨论伙伴的独立工作环境中，也能产生步行促进创造力的效果吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，单纯的步行身体活动本身即可促进BDNF分泌并增加脑血流量，带来同等的认知激活效果（创造力提升约60%）。缺少伙伴时，可采用“对着镜子里的自己脱口阐述”或“设定虚拟批判者并自问自答踱步”的方式，这能极佳地模拟镜像神经元与元认知的刺激效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>听取批评性反馈会不会伤害情感并打击创作积极性？</span>

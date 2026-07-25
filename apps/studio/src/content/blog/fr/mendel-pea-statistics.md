@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Statistiques sur 29 000 plants de pois ? La méthode d'amélioration de la mémoire de travail de Gregor Mendel"
 description: "Découvrez l'histoire de Gregor Mendel, le grand pionnier de la génétique. Découvrez sa persévérance à enregistrer quotidiennement les variations de milliers de plants de pois dans le jardin du monastère, et explorez une méthode de suivi statistique pour entraîner la structure cognitive et renforcer la mémoire de travail."
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ Dans cet article, nous explorons les principes neuroscientifiques ancrés dans l
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant mendel-pea-statistics est basée sur <strong>Recherche sur les biographies historiques et récits autobiographiques de Gregor Mendel & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche sur les biographies historiques et récits autobiographiques de Gregor Mendel & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Entraînement de la mémoire de travail qui transforme l'analyse des données et la structure cognitive
+## 1. Entraînement de la mémoire de travail qui transforme l'analyse des données et la structure cognitive
 
 Le fait d'observer quotidiennement de minimes changements de ses propres yeux, de les quantifier et de les écrire à la main sur du papier quadrillé active fortement la zone de la <strong>mémoire de travail</strong> située dans le lobe frontal. La mémoire de travail agit comme la « mémoire RAM » du cerveau, stockant et traitant temporairement les informations.
 
@@ -53,9 +54,7 @@ L'observation et le tri de vastes quantités de données morphologiques en appar
 
 ---
 
-## Les statistiques analogiques affinent le filtre cognitif du cerveau
-
-Les outils numériques d'analyse de données automatisés sont pratiques, mais ils court-circuitent le processus cognitif actif par lequel le cerveau collecte et classe directement les données. Suivre et écrire à la main quotidiennement vos propres statistiques clés au format analogique, à l'instar de Mendel, constitue un excellent exercice cognitif pour affiner le filtre d'information du cerveau et développer la persévérance.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Les outils numériques d'analyse de données automatisés sont pratiques, mais i
   </p>
 </div>
 
+---
+
+## 3. Les statistiques analogiques affinent le filtre cognitif du cerveau
+
+Les outils numériques d'analyse de données automatisés sont pratiques, mais ils court-circuitent le processus cognitif actif par lequel le cerveau collecte et classe directement les données. Suivre et écrire à la main quotidiennement vos propres statistiques clés au format analogique, à l'instar de Mendel, constitue un excellent exercice cognitif pour affiner le filtre d'information du cerveau et développer la persévérance.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Faut-il absolument dessiner les graphiques à la main ? L'utilisation d'Excel ne serait-elle pas plus pratique ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Les outils numériques d'analyse de données automatisés sont pratiques, mais i
       Excel et les applications automatisées réduisent la stimulation cognitive visuelle. L'acte physique de tenir une règle et de tracer des lignes à la main pour représenter les variations stimule beaucoup plus fortement le lobe pariétal inférieur, vous aidant à percevoir intuitivement les liens de cause à effet et les tendances significatives sous-jacentes.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il nécessaire de continuer à enregistrer même s'il n'y a pas de changement significatif dans les chiffres ?</span>

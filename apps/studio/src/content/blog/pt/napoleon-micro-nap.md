@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A rotina de micro-cochilo de Napoleão Bonaparte"
 description: "Apresenta o mecanismo científico de cochilo do imperador Napoleão, que redefinia rapidamente a energia cerebral com cochilos de 15 minutos em meio a intensas cargas de trabalho."
 pubDate: "2026-06-02"
@@ -35,25 +36,23 @@ No post de hoje, examinamos o mecanismo científico por trás da rotina de micro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre napoleon-micro-nap é baseada em <strong>Biografia crítica histórica e verificação de registros autobiográficos do micro-cochilo de Napoleão e pesquisa em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Biografia crítica histórica e verificação de registros autobiográficos do micro-cochilo de Napoleão e pesquisa em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Recuperação cognitiva por meio de micro-cochilos e otimização de ondas cerebrais
+## 1. Recuperação cognitiva por meio de micro-cochilos e otimização de ondas cerebrais
 
 Um micro-cochilo de 10 a 15 minutos limita o sono aos estágios NREM 1 e 2, evitando a inércia do sono atordoado enquanto elimina a adenosina acumulada para restaurar instantaneamente o alerta. De acordo com pesquisas neurocientíficas, essa prática suprime respostas desnecessárias de ansiedade na amígdala e ativa o circuito do rascunho viso-espacial, melhorando dramaticamente a função executiva a longo prazo.
 
 ---
 
-## Precauções de tempo para hábitos de cochilo saudáveis
-
-Dormir por mais de 20 a 30 minutos entra em sono profundo, causando pesada sonolência ao acordar. Respeite rigorosamente um cronômetro e evite cochilos após as 16h. Não confie apenas na força de vontade; projetar com antecedência ambientes físicos e gatilhos de hábitos para desencadear a ação naturalmente é a chave para a sustentabilidade.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ Dormir por mais de 20 a 30 minutos entra em sono profundo, causando pesada sonol
   </p>
 </div>
 
+---
+
+## 3. Precauções de tempo para hábitos de cochilo saudáveis
+
+Dormir por mais de 20 a 30 minutos entra em sono profundo, causando pesada sonolência ao acordar. Respeite rigorosamente um cronômetro e evite cochilos após as 16h. Não confie apenas na força de vontade; projetar com antecedência ambientes físicos e gatilhos de hábitos para desencadear a ação naturalmente é a chave para a sustentabilidade.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

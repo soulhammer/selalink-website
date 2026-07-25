@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der klare Morgen des Ghibli-Meisters: Hayao Miyazakis Flussreinigungs-Spaziergang"
 description: "Erfahren Sie, warum Studio-Ghibli-Regisseur Hayao Miyazaki jeden Morgen Müll am Wegesrand sammelt. Erkunden Sie, wie Gehen und Aufräumen geniale Kreativität anregen."
 pubDate: "2026-02-24"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir die wissenschaftlichen Prinzipien hinter Hayao
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu miyazaki-river-cleanup basiert auf <strong>Historisch-kritische Biografie und Interviewaufzeichnungen zu Hayao Miyazaki & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historisch-kritische Biografie und Interviewaufzeichnungen zu Hayao Miyazaki & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kreativer Refresh für das Gehirn durch altruistisches Gehen
+## 1. Kreativer Refresh für das Gehirn durch altruistisches Gehen
 
 Ein leichter Spaziergang mit gleichzeitigem Aufräumen der Umgebung aktiviert sanft das <strong>Default Mode Network (DMN)</strong> des Gehirns. Dieses Netzwerk arbeitet in Ruhephasen abseits gezielter kognitiver Aufgaben und verknüpft verstreute Ideen zu neuen Intuitionen. Zudem kurbelt die körperliche Aufräumarbeit die morgendliche Serotoninausschüttung an und sorgt für geistige Frische.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Wenn Sie beim Gehen aufs Smartphone schauen oder in verwickelte Gedanken versinken, erreicht das Gehirn nicht den entspannten DMN-Zustand. Das bewusste Abschalten von Geräten, das <strong>Genießen der umgebenden Natur</strong> und das Ausrichten der Aufmerksamkeit auf das Ordnen physischer Objekte sind der Schlüssel zum Erfolg.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Wenn Sie beim Gehen aufs Smartphone schauen oder in verwickelte Gedanken versink
     Kehren Sie vom Spaziergang zurück und nutzen Sie den mit Serotonin aufgeladenen, entspannten Zustand des Frontallappens, um sofort mit der ersten kreativen Planungsaufgabe zu beginnen.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Wenn Sie beim Gehen aufs Smartphone schauen oder in verwickelte Gedanken versinken, erreicht das Gehirn nicht den entspannten DMN-Zustand. Das bewusste Abschalten von Geräten, das <strong>Genießen der umgebenden Natur</strong> und das Ausrichten der Aufmerksamkeit auf das Ordnen physischer Objekte sind der Schlüssel zum Erfolg.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

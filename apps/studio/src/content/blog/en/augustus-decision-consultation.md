@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Emperor's Decisive 'Make Haste Slowly': Augustus's Multi-Angle Consultation Habit"
 description: "Roman Emperor Augustus, who simplified decisions after Caesar's assassination by thoroughly listening to dissenting opinions from advisors like Maecenas and Agrippa instead of acting dogmatically. Explore the neuroscientific principles of listening and filtering to break confirmation bias."
 pubDate: "2026-01-01"
@@ -34,22 +35,20 @@ Augustus, Rome's first emperor, who ended a century of civil war and laid the fo
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding augustus-decision-consultation is based on <strong>Historical Verification from Suetonius's *De vita Caesarum* & Cassius Dio's *Roman History* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Suetonius's *De vita Caesarum* & Cassius Dio's *Roman History* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Suppression of Confirmation Bias and Working Mechanism of the dlPFC Cognitive Filter
+## 1. Suppression of Confirmation Bias and Working Mechanism of the dlPFC Cognitive Filter
 
 The human brain is instinctively prone to System 1 (intuitive) errors, justifying the first thought or preference that comes to mind. Accepting multi-angle expert feedback that challenges your conclusion—like Augustus did—stimulates the brain's <strong>'dorsolateral Prefrontal Cortex (dlPFC)'</strong>, which regulates decision-making, activating a verification filter that seeks out logical gaps in information. It also engages the conflict-monitoring center, the <strong>'Anterior Cingulate Cortex (ACC)'</strong>, stripping away subjective emotions and structuring objective factual data to help make the best rational decision.
 
 ---
 
-## Precautions and Tips
-
-The biggest trap of listening to advice is falling into Analysis Paralysis due to indiscriminate opinion gathering. Seeking opinions from too many anonymous people creates cognitive overload, causing confusion and an inability to set priorities. When making decisions, limit your advisory team to no more than 3 proven, trusted experts (like Maecenas and Agrippa), and strictly maintain the boundary that final decisions and responsibility rest entirely with you.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ The biggest trap of listening to advice is falling into Analysis Paralysis due t
   </p>
 </div>
 
+---
+
+## 3. Precautions and Tips
+
+The biggest trap of listening to advice is falling into Analysis Paralysis due to indiscriminate opinion gathering. Seeking opinions from too many anonymous people creates cognitive overload, causing confusion and an inability to set priorities. When making decisions, limit your advisory team to no more than 3 proven, trusted experts (like Maecenas and Agrippa), and strictly maintain the boundary that final decisions and responsibility rest entirely with you.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How can I avoid being emotionally persuaded when listening to colleagues' feedback?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ The biggest trap of listening to advice is falling into Analysis Paralysis due t
       That is why 'non-face-to-face written submission' is advantageous. In face-to-face meetings, emotional persuasion easily occurs due to authority, conformity pressure, or eloquent speech. You can judge rationally only when you separately collect and analyze the sharp logic and factual data written individually by your advisors.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What is the most appropriate size for an advisory team?</span>

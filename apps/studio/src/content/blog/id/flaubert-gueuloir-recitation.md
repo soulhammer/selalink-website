@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Suara yang Melahirkan Kalimat Sempurna: Kebiasaan Deklamasi 'Gueuloir' dan Rutinitas Umpan Balik Auditif Gustave Flaubert"
 description: "Pelajari bagaimana novelis Gustave Flaubert, yang terobsesi dengan 'le mot juste' (kata yang tepat), mencapai kesempurnaan gaya bahasa. Temukan neurosains kognitif di balik ruang deklamasi 'Gueuloir', teori pengodean ganda, dan umpan balik auditif."
 pubDate: "2026-01-20"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis neurosains kognitif di balik kebiasa
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai flaubert-gueuloir-recitation didasarkan pada <strong>Verifikasi Historis dari *Correspondance* Gustave Flaubert, Biografi Sastra & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Correspondance* Gustave Flaubert, Biografi Sastra & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Teori Pengodean Ganda dan Neurosains Lingkaran Umpan Balik Auditif
+## 1. Teori Pengodean Ganda dan Neurosains Lingkaran Umpan Balik Auditif
 
 Membaca dalam hati hanya melibatkan sebagian dari korteks visual, tetapi menyuarakan teks memaksa <strong>Korteks Motorik</strong> dan jaringan pemantauan kognitif untuk bekerja sama secara intensif. Menurut <strong>Teori Pengodean Ganda</strong>, memproses informasi secara bersamaan melalui jalur visual dan auditif memperluas lebar pita kognitif. Selain itu, mendengarkan suara sendiri mengaktifkan <strong>Lingkaran Umpan Balik Auditif</strong>, memungkinkan sistem deteksi kesalahan otak untuk segera menangkap tata bahasa yang salah, sintaksis yang canggung, atau irama yang terputus.
 
 ---
 
-## Perhatian: Mencegah Membaca Cepat dan Halusinasi Mandiri Melalui Deklamasi Presisi
-
-Kesalahan utama saat merevisi melalui deklamasi adalah membaca terlalu cepat. Ketika otak menyuarakan teks yang sudah dikenal secara cepat, otak secara otomatis memperbaiki kesalahan ketik dan sintaksis yang buruk dalam pikiran, menganggap kalimat buruk sebagai kalimat yang benar. Untuk mencegah halusinasi ini, bacalah secara perlahan sambil menelusuri kata-kata dengan jari Anda. Perpanjang jeda pada titik dan koma untuk memberikan umpan balik sensorik yang objektif dalam mengevaluasi ritme.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Kesalahan utama saat merevisi melalui deklamasi adalah membaca terlalu cepat. Ke
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mencegah Membaca Cepat dan Halusinasi Mandiri Melalui Deklamasi Presisi
+
+Kesalahan utama saat merevisi melalui deklamasi adalah membaca terlalu cepat. Ketika otak menyuarakan teks yang sudah dikenal secara cepat, otak secara otomatis memperbaiki kesalahan ketik dan sintaksis yang buruk dalam pikiran, menganggap kalimat buruk sebagai kalimat yang benar. Untuk mencegah halusinasi ini, bacalah secara perlahan sambil menelusuri kata-kata dengan jari Anda. Perpanjang jeda pada titik dan koma untuk memberikan umpan balik sensorik yang objektif dalam mengevaluasi ritme.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya harus membaca dengan suara nyaring saat bekerja di kantor atau kafe yang tenang?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Kesalahan utama saat merevisi melalui deklamasi adalah membaca terlalu cepat. Ke
       Karena berteriak di tempat umum tidak pantas, gunakan 'sub-bisikan' atau gumaman kecil, dengan secara fisik mengartikulasikan kata-kata menggunakan bibir dan lidah Anda. Hanya dengan menggerakkan organ artikulasi akan mengaktifkan korteks motorik dibandingkan membaca dalam hati, sehingga mampu menangkap sebagian besar kesalahan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah kebiasaan deklamasi ini efektif untuk proposal bisnis atau laporan, bukan hanya karya sastra?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Philosopher Who Mounted an Inkwell on His Walking Cane: Thomas Hobbes's Immediate Note-Taking Method and Cognitive Externalization Routine"
 description: "Discover how thinker Thomas Hobbes attached an inkwell to his walking cane to immediately capture fleeting ideas. Explore the cognitive neuroscience of working memory expansion, Default Mode Network activation, and cognitive externalization."
 pubDate: "2026-03-16"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Thomas Hobbes's 'ca
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding hobbes-cane-inkwell is based on <strong>Historical Verification from John Aubrey's *Brief Lives*, Thomas Hobbes Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from John Aubrey's *Brief Lives*, Thomas Hobbes Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Preventing Working Memory Decay and the Neuroscience of Cognitive Externalization
+## 1. Preventing Working Memory Decay and the Neuroscience of Cognitive Externalization
 
 When the brain enters a relaxed walking state, the <strong>Default Mode Network (DMN)</strong> activates, firing creative associative sparks. However, because these flashes reside inside the short-term buffer of <strong>Working Memory</strong>, they are fleeting and prone to rapid decay within 10 to 15 seconds unless recorded immediately. Hobbes's cane inkwell served as the ultimate tool for <strong>Cognitive Externalization</strong>. Instead of trapping volatile insights in prefrontal working memory, offloading them onto paper via physical motor action prevents cognitive overload and frees central executive bandwidth for deeper conceptual processing.
 
 ---
 
-## Caution: Protocol for Recording Within the 10-Second Memory Decay Window
-
-Procrastinating with 'I will write this down when I get home' severely underestimates working memory decay. Most thoughts generated while walking are overwritten in the hippocampus by new sensory inputs by the time you sit at a desk. To preserve their value, externalize sparks within the 10-second golden window via voice recording or rapid keyphrase logging.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Procrastinating with 'I will write this down when I get home' severely underesti
   </p>
 </div>
 
+---
+
+## 3. Caution: Protocol for Recording Within the 10-Second Memory Decay Window
+
+Procrastinating with 'I will write this down when I get home' severely underestimates working memory decay. Most thoughts generated while walking are overwritten in the hippocampus by new sensory inputs by the time you sit at a desk. To preserve their value, externalize sparks within the 10-second golden window via voice recording or rapid keyphrase logging.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Did Thomas Hobbes genuinely use a cane mounted with an inkwell historically?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Procrastinating with 'I will write this down when I get home' severely underesti
       Yes, absolutely. Contemporary biographer and personal friend John Aubrey recorded in *Brief Lives* that Hobbes fitted an inkhorn into the head of his walking stick and carried pocket paper, allowing him to write down thoughts whenever he walked outdoors.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is voice recording or typing text more effective for immediate mobile note-taking?</span>

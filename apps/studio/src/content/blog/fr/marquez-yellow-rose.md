@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le secret de bureau du prix Nobel : La routine de la rose jaune de Márquez"
 description: "Pourquoi Gabriel García Márquez, auteur de Cent ans de solitude, posait une rose jaune sur son bureau chaque matin. Explore comment un rituel visuel favorise la relaxation cérébrale et stimule la créativité."
 pubDate: "2026-02-06"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous analysons les principes scientifiques du 'rit
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant marquez-yellow-rose est basée sur <strong>Vérification des biographies historiques de Gabriel García Márquez & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques de Gabriel García Márquez & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi les rituels visuels apportent créativité et sérénité
+## 1. Pourquoi les rituels visuels apportent créativité et sérénité
 
 Disposer et observer un objet naturel ou une couleur spécifique (comme une rose jaune) envoie un signal de 'sécurité et de confort émotionnel' au cerveau. Une fois apaisé, le cerveau émet des <strong>Ondes Alpha (Alpha Waves)</strong> qui renforcent la concentration et accélèrent les associations d'idées spontanées.
 
 ---
 
-## Précautions et conseils
-
-Évitez de surcharger votre bureau de décorations criardes ou distrayantes. Un excès de couleurs provoque une <strong>fatigue visuelle</strong> et nuit à la concentration ; privilégiez une approche minimaliste avec un objet unique et épuré.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Disposer et observer un objet naturel ou une couleur spécifique (comme une rose
     Fixez doucement l'objet pendant 10 à 20 secondes tout en régulant votre respiration, amenant progressivement votre cerveau dans un état d'immersion apaisée.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Évitez de surcharger votre bureau de décorations criardes ou distrayantes. Un excès de couleurs provoque une <strong>fatigue visuelle</strong> et nuit à la concentration ; privilégiez une approche minimaliste avec un objet unique et épuré.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

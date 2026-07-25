@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "部屋を巡る声：ドストエフスキーの彷徨いと口述執筆法および運動-言語皮質結合"
 description: "『罪と罰』の著者ドストエフスキーが部屋の中を彷徨いながら台詞を直接演じたルーティン。身体運動（Pacing）と口頭認知（Oral Cognition）が運動皮質、ブローカ・ウェルニッケ野、鏡ニューロンを活性化する認知神経科学的原理を解き明かします。"
 pubDate: "2026-05-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「dostoevsky-pacing-recitation」は <strong>アンナ・ドストエフスカヤ回顧録『Reminiscences（ドストエフスキー回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アンナ・ドストエフスカヤ回顧録『Reminiscences（ドストエフスキー回想録）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 身体歩行運動と口頭朗読が脳の言語網および鏡ニューロンを呼び覚ます神経学
+## 1. 身体歩行運動と口頭朗読が脳の言語網および鏡ニューロンを呼び覚ます神経学
 
 部屋の中を歩く歩行身体運動（Pacing）は、大脳運動皮質（Motor Cortex）を刺激して大脳血流量と酸素供給を加速させます。台詞を口の外へ出す口頭認知（Oral Cognition）行動は、ブローカ野（Broca's Area、言語生成）とウェルニッケ野（Wernicke's Area、言語受容）の聴覚-運動フィードバック回路（Auditory-Motor Feedback Loop）を強力に結合させます。また作中人物を演じながら叙述する過程は、大脳の鏡ニューロン（Mirror Neurons）システムを直接稼働させます。この物理的・聴覚的シナジーは、3人称の抽象的な文章生成モードを打破し、1人称の生き生きとした心理的立体感を文章の中へと吹き込みます。
 
 ---
 
-## 注意事項＆ヒント：安全な独占空間の確保と社会的評価視線の遮断
-
-口頭朗読トレーニングは声を出して言葉を吐き出す過程であるため、他人の視線や監視が存在する開放型オフィスや公共の場所で実行する場合、大脳扁桃体が社会的評価不安（Social Evaluation Anxiety）を感じて極度の認知妨害が起こります。したがって、このトレーニングは他人の視線に拘束されず、ただ自分の声の響きにのみ100％集中できる自分だけの安全な専用個人空間（個人書斎、車内、ドアを閉めた会議室）で遂行してこそ完全な効果を得ることができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：安全な独占空間の確保と社会的評価視線の遮断
+
+口頭朗読トレーニングは声を出して言葉を吐き出す過程であるため、他人の視線や監視が存在する開放型オフィスや公共の場所で実行する場合、大脳扁桃体が社会的評価不安（Social Evaluation Anxiety）を感じて極度の認知妨害が起こります。したがって、このトレーニングは他人の視線に拘束されず、ただ自分の声の響きにのみ100％集中できる自分だけの安全な専用個人空間（個人書斎、車内、ドアを閉めた会議室）で遂行してこそ完全な効果を得ることができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>声を出して話す代わりに囁いたり口の中で呑み込みながら読むことも同じ効果がありますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ。囁きや口の中での黙読は、声帯筋肉および発音器官の完全な収縮を引き起こせず、聴覚皮質へと流入する音エネルギーが微弱です。明確な発声で自分の声を空気中へと放ち耳で聞き返す「聴覚-運動フィードバック回路」が完成して初めて、ブローカ野とウェルニッケ野のシナジー活性化が起こります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>彷徨いながら口述する間にすれ違う文章をスマートフォンの音声メモやSTTアプリで記録することは効果的ですか？</span>

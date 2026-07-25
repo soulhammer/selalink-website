@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Raja Minyak yang Tidak Mengizinkan Pemborosan 1 Sen Pun? Metode Catatan Mikro Real-time John D. Rockefeller"
 description: "John D. Rockefeller, yang dianggap sebagai orang terkaya sepanjang sejarah dunia. Pelajari bagaimana membawa buku catatan kecil berwarna merah di saku untuk langsung mencatat pengeluaran kecil dan rencana mampu membangunkan jaringan kontrol eksekutif prefrontal."
 pubDate: "2026-06-24"
@@ -33,25 +34,23 @@ Artikel hari ini membahas nilai sains kognitif dari rutinitas catatan mikro anal
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai rockefeller-red-notebook didasarkan pada <strong>Penelitian berdasarkan biografi historis dan catatan autobiografi John D. Rockefeller & riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Penelitian berdasarkan biografi historis dan catatan autobiografi John D. Rockefeller & riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pencatatan Real-time (Real-time Tracking) dan Aktivasi Jaringan Kontrol Eksekutif Prefrontal
+## 1. Pencatatan Real-time (Real-time Tracking) dan Aktivasi Jaringan Kontrol Eksekutif Prefrontal
 
 Mencatat angka dan detail secara manual di buku catatan saat tindakan atau pengeluaran terjadi secara langsung menstimulasi jaringan kontrol eksekutif prefrontal otak. Ini mengaktifkan regulasi diri, menunda reaksi impulsif, dan meningkatkan plastisitas otak untuk kontrol perilaku.
 
 ---
 
-## Jebakan Catatan Digital vs Tips Catatan Mikro Analog Real-time
-
-Saat mencatat di aplikasi ponsel, gempuran notifikasi atau berita langsung memaparkan otak pada stres kognitif. Membawa buku catatan kecil berwarna merah dan pensil untuk mencatat tangan dalam 5 detik tanpa menyalakan aplikasi memungkinkan pelepasan beban kognitif yang paling jelas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Saat mencatat di aplikasi ponsel, gempuran notifikasi atau berita langsung memap
   </p>
 </div>
 
+---
+
+## 3. Jebakan Catatan Digital vs Tips Catatan Mikro Analog Real-time
+
+Saat mencatat di aplikasi ponsel, gempuran notifikasi atau berita langsung memaparkan otak pada stres kognitif. Membawa buku catatan kecil berwarna merah dan pensil untuk mencatat tangan dalam 5 detik tanpa menyalakan aplikasi memungkinkan pelepasan beban kognitif yang paling jelas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah buku catatan analog benar-benar lebih baik daripada aplikasi keuangan atau to-do di ponsel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Saat mencatat di aplikasi ponsel, gempuran notifikasi atau berita langsung memap
       Ya. Tindakan menyalakan ponsel memaparkan sakelar kognitif Anda pada bising digital, membuat fokus langsung buyar. Selain itu, menulis tangan mengirimkan data somatosensori yang jauh lebih kuat ke korteks serebral, memicu kesadaran kognitif akan kontrol diri dua kali lipat lebih tinggi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya benar-benar harus mencatat setiap detail sepele seperti 1 sen atau 1 menit?</span>

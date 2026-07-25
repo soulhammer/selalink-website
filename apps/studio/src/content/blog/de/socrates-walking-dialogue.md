@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Philosoph, der barfuß Fragen stellte: Sokrates' kognitive Gehgewohnheit"
 description: "Sokrates, die Weisheit des antiken Griechenlands, der sein Denken durch kontinuierliches Gehen erweiterte. Erkunden Sie die neurowissenschaftlichen Prinzipien des Gehens zur Stimulation des Hippocampus."
 pubDate: "2026-03-06"
@@ -31,25 +32,23 @@ In diesem Artikel erkunden wir die neurowissenschaftlichen Prinzipien von Sokrat
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu socrates-walking-dialogue basiert auf <strong>Historische Biographieforschung zu Sokrates & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biographieforschung zu Sokrates & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroplastizität des Hippocampus und aerobe Flexibilität
+## 1. Neuroplastizität des Hippocampus und aerobe Flexibilität
 
 Gehen fungiert als physiologische Pumpe, die Sauerstoff und Blutfluss in das gesamte Gehirn befördert. Es erhöht die Herzfrequenz und regt die Ausschüttung von BDNF an. BDNF gestaltet synaptische Verbindungen im Hippocampus um und dient als Schmierstoff für die Neuroplastizität. Darüber hinaus unterdrückt der rhythmische Druck auf die Fußsohlen exzessive DMN-Schleifen und fördert kognitive Flexibilität.
 
 ---
 
-## Ein neurowissenschaftlicher Tipp für eine erfolgreiche Routine
-
-Ein sich bewegender Körper verbindet die Sicherungen des Gehirns neu. Das Stieren auf den Bildschirm löst keine komplexen Probleme, wenn das Arbeitsgedächtnis gesättigt ist. Gehen Sie wie Sokrates 15 Minuten nach draußen, um die Gehirndurchblutung zu steigern. Ihr Gehirn wird im Rhythmus Ihrer Schritte logische Durchbrüche erzielen.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Ein sich bewegender Körper verbindet die Sicherungen des Gehirns neu. Das Stier
     Stellen Sie sich eine Kernfrage für den Tag. Fragen Sie sich beim Gehen „Warum?“ und antworten Sie darauf. Wiederholen Sie diesen Zyklus, um unerwartete Erkenntnisse zu gewinnen.
   </p>
 </div>
+
+---
+
+## 3. Ein neurowissenschaftlicher Tipp für eine erfolgreiche Routine
+
+Ein sich bewegender Körper verbindet die Sicherungen des Gehirns neu. Das Stieren auf den Bildschirm löst keine komplexen Probleme, wenn das Arbeitsgedächtnis gesättigt ist. Gehen Sie wie Sokrates 15 Minuten nach draußen, um die Gehirndurchblutung zu steigern. Ihr Gehirn wird im Rhythmus Ihrer Schritte logische Durchbrüche erzielen.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "월트 디즈니의 '세 개의 방' 루틴: 상상하고, 실행하고, 비판하라"
 description: "창의적인 공상을 거대한 비즈니스로 실현시킨 월트 디즈니. 몽상가, 현실주의자, 비평가로 생각을 명확히 분리하여 아이디어를 정교화하는 '세 개의 방' 루틴을 소개합니다."
 pubDate: "2026-04-16"
@@ -35,26 +36,24 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Walt Disney Three Rooms 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 walt-disney-three-rooms 루틴을 다룹니다.
+      본 콘텐츠는 <strong>Walt Disney Three Rooms 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 주의 집중과 비판의 분리가 주는 인지적 효과
+## 1. 주의 집중과 비판의 분리가 주는 인지적 효과
 
 우리가 새로운 계획을 세울 때 흔히 범하는 실수는 아이디어를 구상하는 도중에 '이건 불가능해', '비용이 너무 많이 들어'라며 동시에 검토하고 비판하는 것입니다. 뇌과학적으로 이러한 동시 처리는 발산을 담당하는 전두엽의 기능과 수렴을 담당하는 평가 영역을 동시에 충돌하게 만들어 생각의 흐름을 방해하고 기획을 지연시킵니다.
 월트 디즈니의 루틴은 이 두 가지 인지 상태를 철저히 고립시켰습니다. 몽상가의 단계에서는 모든 브레이크를 풀고 생각의 발산을 극대화하여 도파민적 몰입을 유도합니다. 그 후 현실주의 단계로 접어들면 실행 계획의 설계를 자극하고, 최종 비평가의 방에서만 비판적 분석을 적용하여 아이디어의 날개를 훼손하지 않으면서도 완벽하게 조율된 솔루션을 생산해냅니다.
 
 ---
 
-## 상상과 비판의 분리가 핵심입니다
-
-창의적인 사고는 언제나 비판적인 사고보다 먼저 일어나야 합니다. 월트 디즈니처럼 생각을 기획할 때 스스로의 역할을 명확히 규정하고 순서대로 적용해 보세요. 아직 만들어지지도 않은 아이디어에 조기 비판을 가해 날개를 꺾어버리는 인지적 실수를 미연에 방지할 수 있습니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,12 +85,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 상상과 비판의 분리가 핵심입니다
+
+창의적인 사고는 언제나 비판적인 사고보다 먼저 일어나야 합니다. 월트 디즈니처럼 생각을 기획할 때 스스로의 역할을 명확히 규정하고 순서대로 적용해 보세요. 아직 만들어지지도 않은 아이디어에 조기 비판을 가해 날개를 꺾어버리는 인지적 실수를 미연에 방지할 수 있습니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>한 회의실에서 세 단계를 모두 진행해도 괜찮은가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -100,7 +105,7 @@ faqs:
       물리적 공간을 다르게 하여 환기를 유도하는 것이 효과적입니다. 만약 여건상 하나의 공간을 사용해야 한다면 칠판 색상을 바꾸거나, 자리를 아예 재배치하거나, 필기구 종류를 다르게(예: 몽상가 단계는 화려한 색연필, 비평가 단계는 검은색 볼펜) 하여 뇌에 인지적 구분을 제공해 주는 것이 좋습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>비평가 단계에서 비판이 너무 지나쳐 아이디어가 완전히 무산될 때는 어떻게 해야 하나요?</span>

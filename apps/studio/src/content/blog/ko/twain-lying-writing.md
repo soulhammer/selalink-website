@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "침대 밖은 위험해? 누워서 명작을 쓴 마크 트웨인의 침대 집필 루틴"
 description: "미국 문학의 거장 마크 트웨인. 아침 식사 후 침대에 누워 비스듬히 기댄 자세로 명작들을 탄생시켰던 그의 독특한 집필 습관과 신체 이완이 주는 창의적 뇌과학적 효과를 알아봅니다."
 pubDate: "2026-05-20"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>누워서 명작을 쓴 마크 트웨인 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 twain-lying-writing 루틴을 다룹니다.
+      본 콘텐츠는 <strong>누워서 명작을 쓴 마크 트웨인 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 뇌의 긴장을 풀고 생각을 연결하는 '연상적 사고'
+## 1. 뇌의 긴장을 풀고 생각을 연결하는 '연상적 사고'
 
 우리가 수평으로 눕거나 비스듬히 기대면, 서 있거나 앉아 있을 때보다 심장이 피를 온몸으로 밀어내는 부담이 현저히 줄어듭니다. 이는 뇌 혈류량을 늘리고 심박수를 안정시키며, 부교감 신경계를 강하게 자극합니다. 신체가 완전히 이완되면 뇌는 스트레스 수준을 조절하는 코르티솔의 분비를 억제합니다.
 
@@ -49,9 +50,7 @@ faqs:
 
 ---
 
-## 자세를 지탱하고 스마트폰 중독을 예방하세요
-
-침대 위에서 비스듬히 눕는 자세는 척추나 목에 큰 무리를 줄 수 있으므로, 여러 개의 단단한 베개를 등에 대어 척추가 구부러지지 않도록 단단히 지탱해 주어야 합니다. 또한, 침대가 주는 평온함이 자칫 스마트폰으로 SNS를 보거나 멍하게 시간을 보내는 도피처가 되지 않도록, 침대에 눕기 전 스마트폰은 완전히 손이 닿지 않는 곳에 치워 두세요.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     이완된 자세에서 호흡을 가다듬고, 머릿속에서 흘러나오는 생각들을 논리적으로 검열하지 말고 날것 그대로 기록합니다. 문장, 그림, 마인드맵 등 어떤 형식이든 좋습니다. 15분 이상 마음껏 생각을 외재화합니다.
   </p>
 </div>
+
+---
+
+## 3. 자세를 지탱하고 스마트폰 중독을 예방하세요
+
+침대 위에서 비스듬히 눕는 자세는 척추나 목에 큰 무리를 줄 수 있으므로, 여러 개의 단단한 베개를 등에 대어 척추가 구부러지지 않도록 단단히 지탱해 주어야 합니다. 또한, 침대가 주는 평온함이 자칫 스마트폰으로 SNS를 보거나 멍하게 시간을 보내는 도피처가 되지 않도록, 침대에 눕기 전 스마트폰은 완전히 손이 닿지 않는 곳에 치워 두세요.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

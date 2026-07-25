@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La perspectiva cósmica de Carl Sagan: Cómo reiniciar la ansiedad diaria con la rutina de la 'Pálida Mota Azul'"
 description: "Aborda el hecho histórico del astrónomo Carl Sagan disipando la ansiedad diaria con un zoom-out cósmico de 3 minutos y los principios neurocientíficos del 'Efecto Awe'."
 pubDate: "2026-06-27"
@@ -38,22 +39,20 @@ Antes de iniciar sus complejas investigaciones diarias, Sagan mantenía una ruti
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre sagan-cosmic-perspective se basa en <strong>Investigación biográfica histórica de Carl Sagan e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación biográfica histórica de Carl Sagan e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por qué el asombro cósmico calma la amígdala y el estrés del ego
+## 1. Por qué el asombro cósmico calma la amígdala y el estrés del ego
 
 En neuropsicología esto se conoce como el <strong>'Efecto del Yo Pequeño (Small-Self Effect)'</strong>. Al visualizar la inmensidad del cosmos o la naturaleza, la respuesta de estrés en la amígdala y la ínsula se calma, reemplazando ansiedades triviales por una amplia perspectiva objetiva.
 
 ---
 
-## Precauciones y consejos para el cambio de perspectiva de Sagan
-
-No confunda la inmensidad cósmica con la impotencia. Úsela como una herramienta para comprender que las preocupaciones que le abruman son lo suficientemente pequeñas como para gestionarse con calma. En lugar de confiar solo en la voluntad, diseñe su entorno para activar el hábito.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ No confunda la inmensidad cósmica con la impotencia. Úsela como una herramient
   </p>
 </div>
 
+---
+
+## 3. Precauciones y consejos para el cambio de perspectiva de Sagan
+
+No confunda la inmensidad cósmica con la impotencia. Úsela como una herramienta para comprender que las preocupaciones que le abruman son lo suficientemente pequeñas como para gestionarse con calma. En lugar de confiar solo en la voluntad, diseñe su entorno para activar el hábito.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Esta rutina es efectiva para la ansiedad antes de una presentación o reunión importante?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ No confunda la inmensidad cósmica con la impotencia. Úsela como una herramient
       ¡Sí! Recordar un zoom-out cósmico de 1 minuto estabiliza el ritmo cardíaco y reduce notablemente el pánico escénico o la ansiedad de ejecución.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué hago si no tengo fotografías del espacio a la mano?</span>

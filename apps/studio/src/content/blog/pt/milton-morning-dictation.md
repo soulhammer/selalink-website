@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Às 4 da manhã, como um poeta cego ditou 'O Paraíso Perdido': A meditação matinal silenciosa de John Milton"
 description: "Descubra a rotina de meditação às 4 da manhã de John Milton, que compôs poesia épica apesar da cegueira total. Saiba como o bloqueio visual maximiza a memória de trabalho e a linguagem no cérebro."
 pubDate: "2026-04-09"
@@ -33,25 +34,23 @@ Neste artigo, analisamos os princípios neurocientíficos do bloqueio sensorial 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre milton-morning-dictation é baseada em <strong>Pesquisa de biografias históricas e registros autobiográficos de John Milton & estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de biografias históricas e registros autobiográficos de John Milton & estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Poder cognitivo do foco silencioso: Maximizando a capacidade cerebral pelo bloqueio visual
+## 1. Poder cognitivo do foco silencioso: Maximizando a capacidade cerebral pelo bloqueio visual
 
 Segundo pesquisas em neurociência, o processamento de informações visuais consome mais de 50% dos recursos sensoriais do cérebro. Quando os estímulos visuais são bloqueados, o cérebro realoca essas redes neurais para a memória de curto prazo e montagem da linguagem. A rotina de Milton maximizava a memória de trabalho do lobo frontal.
 
 ---
 
-## Controle os estímulos externos matinais para uma imersão profunda
-
-Para John Milton, a escuridão do amanhecer não era uma limitação, mas uma tela sagrada para a criação. Adiando estímulos externos e tarefas secundárias para focar em sua voz interior, ele produziu obras imortais. Em vez de checar e-mails ao acordar, presenteie seu cérebro com um momento de silêncio para pensar profundamente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Para John Milton, a escuridão do amanhecer não era uma limitação, mas uma te
   </p>
 </div>
 
+---
+
+## 3. Controle os estímulos externos matinais para uma imersão profunda
+
+Para John Milton, a escuridão do amanhecer não era uma limitação, mas uma tela sagrada para a criação. Adiando estímulos externos e tarefas secundárias para focar em sua voz interior, ele produziu obras imortais. Em vez de checar e-mails ao acordar, presenteie seu cérebro com um momento de silêncio para pensar profundamente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

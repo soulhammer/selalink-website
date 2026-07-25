@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Un maître qui transcrivait des partitions à la lumière de la lune ? L'habitude de transcription de Bach stimulant le lobe pariétal"
 description: "Johann Sebastian Bach a incarné des règles mathématiques tout au long de sa vie en recopiant les partitions de compositeurs aînés. Découvrez les principes scientifiques montrant comment la manipulation du bout des doigts stimule les zones de logique du cerveau, ainsi qu'une routine de transcription moderne."
 pubDate: "2026-06-19"
@@ -31,17 +32,17 @@ Dans l'article d'aujourd'hui, nous analysons les principes neuroscientifiques ca
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant bach-pattern-transcription est basée sur <strong>Vérification Historique issue de *La vie, l'art et les œuvres de Johann Sebastian Bach (1802)* de Johann Nikolaus Forkel & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de *La vie, l'art et les œuvres de Johann Sebastian Bach (1802)* de Johann Nikolaus Forkel & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Contrôle moteur fin des doigts et association du lobe pariétal
+## 1. Contrôle moteur fin des doigts et association du lobe pariétal
 
 L'apprentissage numérique moderne, comme taper sur un clavier d'ordinateur ou un écran, est une activité cognitive de faible densité qui effleure à peine une très petite zone du cortex moteur du cerveau. À l'inverse, la transcription analogique — tenir un stylo et appliquer des textes ou symboles complexes sur le papier — exige un contrôle délicat de la motricité fine (Fine Motor).
 
@@ -49,11 +50,7 @@ Dans ce processus, le cerveau active fortement non seulement les zones de planif
 
 ---
 
-## Un mot neuroscientifique pour une routine réussie
-
-<strong>La main est le cerveau externalisé.</strong>
-
-Les informations lues des yeux sur un écran ou glissées avec une souris ne font que traverser très superficiellement le cerveau avant de disparaître. Si vous souhaitez renforcer les circuits logiques de votre cerveau, prenez un stylo et transcrivez pendant seulement 10 minutes. Tout comme Bach a maîtrisé les formules parfaites de la musique baroque en recopiant de complexes motifs de fugues du bout des doigts, votre cerveau s'appropriera totalement les connaissances difficiles lorsqu'il passera par la transcription analogique.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Les informations lues des yeux sur un écran ou glissées avec une souris ne fon
     Après avoir terminé le recopiage, balayez calmement de haut en bas la structure du texte alignée sur le papier, en réorganisant visuellement ses relations logiques et son mode d'agencement. Cette étape d'association visuo-logique établit un cadre structurel solide dans le lobe frontal.
   </p>
 </div>
+
+---
+
+## 3. Un mot neuroscientifique pour une routine réussie
+
+<strong>La main est le cerveau externalisé.</strong>
+
+Les informations lues des yeux sur un écran ou glissées avec une souris ne font que traverser très superficiellement le cerveau avant de disparaître. Si vous souhaitez renforcer les circuits logiques de votre cerveau, prenez un stylo et transcrivez pendant seulement 10 minutes. Tout comme Bach a maîtrisé les formules parfaites de la musique baroque en recopiant de complexes motifs de fugues du bout des doigts, votre cerveau s'appropriera totalement les connaissances difficiles lorsqu'il passera par la transcription analogique.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

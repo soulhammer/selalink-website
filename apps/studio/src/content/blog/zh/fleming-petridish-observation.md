@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "从垃圾桶里捞出的人类救星：亚历山大·弗莱明的失败观察法与例外发现习惯"
 description: "探索伟大的青霉素发现者亚历山大·弗莱明如何通过细致观察受污染的培养皿而非将其扔掉，从而改变人类命运。揭示克服认知固着与发散性思维的神经科学原理。"
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 fleming-petridish-observation 的内容基于 <strong>亚历山大·弗莱明传记与安德烈·莫洛亚《弗莱明传（The Life of Sir Alexander Fleming）》考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>亚历山大·弗莱明传记与安德烈·莫洛亚《弗莱明传（The Life of Sir Alexander Fleming）》考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 打碎认知固着与打开意外发现之门的发散性思维原理
+## 1. 打碎认知固着与打开意外发现之门的发散性思维原理
 
 鉴于人类大脑习惯于依据既有经验与目的高效运转，当遭遇污染杂质或失误等例外情境时，极易将其判定为“杂音（Noise）”予以自动过滤——这在心理学中被称为<strong>认知固着（Cognitive Fixation）</strong>。此前普通研究员顺手冲洗掉培养皿废品正是受此驱使。然而，像弗莱明那样主动且审慎地端详“失败”产物，能以别样方式拉动大脑的<strong>前顶叶注意力网络（Frontoparietal Attention Network）</strong>，从而重置认知滤网。在重新探查原本被忽略的细节过程中，大脑会切入诱发意外惊喜（Serendipity）的<strong>发散性思维（Divergent Thinking）</strong>模式，从纰漏中捕捉原创性联结，实现脑力的跨越式飞跃。
 
 ---
 
-## 注意事项：学会从失败与过失的痕迹中挖掘关键线索
-
-现代人在工作或学习中遭受挫折与失误时，常会面临精神高压，并急于将其抹去或彻底遗忘。然而正如弗莱明的培养皿所昭示的那样，创新的火花与变革性突破极少萌发于无瑕的成功，反而常常隐匿于非预期的“污染”与失败痕迹中。留出容许观察失败的从容，方能唤醒大脑真正的天才潜能。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：学会从失败与过失的痕迹中挖掘关键线索
+
+现代人在工作或学习中遭受挫折与失误时，常会面临精神高压，并急于将其抹去或彻底遗忘。然而正如弗莱明的培养皿所昭示的那样，创新的火花与变革性突破极少萌发于无瑕的成功，反而常常隐匿于非预期的“污染”与失败痕迹中。留出容许观察失败的从容，方能唤醒大脑真正的天才潜能。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>复盘分析失败难道不会反向放大心理挫败感与沮丧情绪吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       刻意掩盖或逃避过失反而会延长大脑的焦虑与不安。反之，若能剥离主观情绪、纯粹基于客观事实数据将失败原由逐一梳理记录于纸上，大脑便会判定自身已重新夺回对局势的“掌控感”，进而压低焦虑水平并重新点燃成效动机。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>是否存在能提升敏锐捕获意外惊喜（Serendipity）能力的脑力训练方案？</span>

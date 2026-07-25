@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Comment le cerveau structure-t-il les pensées avec précision ? L'écriture matinale et la marche contemplative de Jean Piaget"
 description: "Jean Piaget, le grand psychologue suisse du développement. Découvrez les principes neuroscientifiques et le guide en 3 étapes de sa routine d'écriture matinale de 4 pages et de marche contemplative."
 pubDate: "2026-01-01"
@@ -35,17 +36,17 @@ Dans cet article, nous analysons la mécanique neuroscientifique de la routine d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant piaget-morning-writing est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques de Jean Piaget et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques de Jean Piaget et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Extériorisation de la mémoire de travail et harmonisation du réseau par défaut
+## 1. Extériorisation de la mémoire de travail et harmonisation du réseau par défaut
 
 Résoudre des problèmes complexes uniquement par la pensée dépasse rapidement les capacités de la mémoire de travail. L'écriture matinale de Piaget agissait comme une <strong>'Extériorisation de la mémoire de travail'</strong> en déchargeant l'esprit sur le papier.
 
@@ -53,9 +54,7 @@ La marche de l'après-midi stimule le facteur neurotrophique issu du cerveau (BD
 
 ---
 
-## Équilibrez l'absorption d'informations avec l'expression active et la déconnexion
-
-La vie moderne surcharge le cerveau d'informations, au détriment de l'expression personnelle et du repos. Équilibrez votre rythme comme Piaget : associez l'écriture matinale (expression) à la marche de l'après-midi (aération) pour donner à votre esprit l'espace de structurer les idées.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ La vie moderne surcharge le cerveau d'informations, au détriment de l'expressio
   </p>
 </div>
 
+---
+
+## 3. Équilibrez l'absorption d'informations avec l'expression active et la déconnexion
+
+La vie moderne surcharge le cerveau d'informations, au détriment de l'expression personnelle et du repos. Équilibrez votre rythme comme Piaget : associez l'écriture matinale (expression) à la marche de l'après-midi (aération) pour donner à votre esprit l'espace de structurer les idées.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Dois-je obligatoirement écrire à la main ou puis-je taper à l'ordinateur ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ La vie moderne surcharge le cerveau d'informations, au détriment de l'expressio
       Bien que taper à l'ordinateur fonctionne, l'écriture manuscrite stimule la motricité fine des doigts, activant plus fortement les cortex préfrontal et somatosensoriel. L'écriture manuscrite est donc vivement recommandée.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si je n'ai pas de parcs ou d'espaces naturels à proximité ?</span>

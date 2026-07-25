@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metode Dekomposisi Mesin Diferensial Charles Babbage: Cara Membuat Kesalahan dan Kekeliruan Menjadi 0% Melalui Modularisasi Roda Gigi Mekanis"
 description: "Pelajari fakta sejarah bapak komputer abad ke-19 Charles Babbage, yang merancang kalkulator mekanis bebas kesalahan pertama di dunia melalui modularisasi roda gigi presisi, beserta prinsip-prinsip neurosains dari modularisasi sistem."
 pubDate: "2026-01-10"
@@ -35,25 +36,23 @@ Kebiasaan membongkar dilema raksasa menjadi modul-modul roda gigi berukuran mini
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai babbage-difference-engine didasarkan pada <strong>Verifikasi Historis dari Autobiografi Charles Babbage *Passages from the Life of a Philosopher* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Charles Babbage *Passages from the Life of a Philosopher* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Alasan Mengapa Modularisasi Sistem Menghilangkan Beban Berlebih Memori Kerja Prefrontal
+## 1. Alasan Mengapa Modularisasi Sistem Menghilangkan Beban Berlebih Memori Kerja Prefrontal
 
 Menurut penelitian sains kognitif, Memori Kerja (Working Memory) manusia hanya dapat memproses 4 hingga 7 bongkahan informasi dalam satu waktu. Mendekomposisi dilema kompleks menjadi modul-modul roda gigi yang independen mencegah beban berlebih dan kelelahan korteks prefrontal, mengendalikan kesalahan hingga mendekati 0%.
 
 ---
 
-## Peringatan Penyelarasan Modularisasi Sistem untuk Mencegah Kesalahan Mekanis
-
-Jangan mengacak dan mengeksekusi urutan modul yang telah didekomposisi secara acak. Anda harus secara ketat menyelaraskan hubungan sebab-akibat agar keluaran modul sebelumnya terhubung secara mulus ke dalam masukan modul berikutnya. Daripada hanya mengandalkan kemauan keras secara memaksakan diri, merancang lingkungan fisik dan isyarat kebiasaan terlebih dahulu agar tindakan terpicu secara alami adalah kunci dari keberlanjutan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jangan mengacak dan mengeksekusi urutan modul yang telah didekomposisi secara ac
   </p>
 </div>
 
+---
+
+## 3. Peringatan Penyelarasan Modularisasi Sistem untuk Mencegah Kesalahan Mekanis
+
+Jangan mengacak dan mengeksekusi urutan modul yang telah didekomposisi secara acak. Anda harus secara ketat menyelaraskan hubungan sebab-akibat agar keluaran modul sebelumnya terhubung secara mulus ke dalam masukan modul berikutnya. Daripada hanya mengandalkan kemauan keras secara memaksakan diri, merancang lingkungan fisik dan isyarat kebiasaan terlebih dahulu agar tindakan terpicu secara alami adalah kunci dari keberlanjutan.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah metode dekomposisi modular ini dapat diterapkan pada pemrograman perangkat lunak atau perancangan tugas juga?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jangan mengacak dan mengeksekusi urutan modul yang telah didekomposisi secara ac
       Ya! Konsep inti dari microservices modern dan pemrograman modular diturunkan secara langsung dari logika modularisasi roda gigi Mesin Diferensial Charles Babbage.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus saya lakukan jika terjadi kesalahan pada modul tertentu?</span>

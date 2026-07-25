@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Rhythm of Patience and Equanimity: Tokugawa Ieyasu's Herbal Medicine Grinding Routine and Serotonin Regulation"
 description: "Explore Tokugawa Ieyasu's mental cultivation method. Discover how his daily routine of grinding herbal medicine using a pestle triggered rhythmic movement benefits, activating serotonin, soothing the amygdala, and building emotional control."
 pubDate: "2026-04-01"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience behind Tokugawa Ieyasu's '
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding ieyasu-herb-grinding is based on <strong>Historical Verification from Tokugawa Ieyasu Biographies, Tokugawa Art Museum Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Tokugawa Ieyasu Biographies, Tokugawa Art Museum Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Serotonin Activation and Amygdala Stabilization via Rhythmic Physical Movement
+## 1. Serotonin Activation and Amygdala Stabilization via Rhythmic Physical Movement
 
 Physiologically, <strong>Rhythmic Movement</strong>—repetitive physical activity performed at a steady speed and pressure—stimulates brainstem raphe nuclei to maximize the secretion of <strong>serotonin</strong>, the primary mood-regulating neurotransmitter. This steady-tempo tactile stimulation suppresses hyper-arousal in the <strong>amygdala</strong>, which governs fear and impulsivity, while restoring rational executive control in the <strong>Prefrontal Cortex</strong>. This dual action enables unshakeable composure and resilience even under severe stress.
 
 ---
 
-## Caution: Focusing on Constant Manual Rhythm While Eliminating Impatience
-
-When feeling impatient or anxious, avoid forcing emotional control through sheer willpower. Instead, anchor your fingertip awareness entirely onto the simple, constant rhythm of grinding ingredients in a mortar or coffee grinder. Maintaining a steady physical cadence is the key to turning on your nervous system's serotonin switch.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ When feeling impatient or anxious, avoid forcing emotional control through sheer
   </p>
 </div>
 
+---
+
+## 3. Caution: Focusing on Constant Manual Rhythm While Eliminating Impatience
+
+When feeling impatient or anxious, avoid forcing emotional control through sheer willpower. Instead, anchor your fingertip awareness entirely onto the simple, constant rhythm of grinding ingredients in a mortar or coffee grinder. Maintaining a steady physical cadence is the key to turning on your nervous system's serotonin switch.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How does the physical act of grinding herbs personally contribute to emotional stability?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ When feeling impatient or anxious, avoid forcing emotional control through sheer
       Repetitive movement performed at a constant speed stimulates the brain's serotonin system, suppressing excessive threat responses in the amygdala and restoring rational executive control in the prefrontal cortex.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>How can I replicate this routine in modern daily life if I don't own a mortar and pestle?</span>

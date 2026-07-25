@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Accorder l'âme : La routine matinale du prélude de Bach et l'induction d'ondes alpha de Pablo Casals"
 description: "Découvrez comment le célèbre violoncelliste Pablo Casals a commencé chaque matin pendant plus de 80 ans en jouant Le Clavier bien tempéré de Bach, et explorez les mécanismes neuroscientifiques montrant comment l'entraînement musical active les ondes alpha et équilibre le système nerveux autonome."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant casals-bach-prelude est basée sur <strong>Vérification Historique issue de l'autobiographie de Pablo Casals *Joies et peines (Joys and Sorrows: Reflections by Pablo Casals)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Pablo Casals *Joies et peines (Joys and Sorrows: Reflections by Pablo Casals)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Induction d'ondes alpha et équilibre du système nerveux autonome via l'entraînement musical
+## 1. Induction d'ondes alpha et équilibre du système nerveux autonome via l'entraînement musical
 
 Au réveil, le cerveau subit un pic de cortisol matinal — une impulsion biologique pour dissiper l'inertie du sommeil qui provoque souvent une légère anxiété. S'immerger dans les harmonies mathématiques de Bach déclenche l'« Entraînement Musical (Musical Entrainment) », où les oscillations neuronales s'alignent sur le rythme acoustique. Cela stimule fortement les ondes alpha (8–12 Hz), induisant un état d'éveil calme. En parallèle, le système parasympathique est stimulé, stabilisant le rythme cardiaque et équilibrant le système nerveux autonome.
 
 ---
 
-## Précautions & Conseils : Éviter les rythmes agressifs & Privilégier les classiques harmonieux
-
-Lors de la conception d'une routine musicale matinale, évitez les genres trop complexes, dissonants ou au tempo trop rapide. Le rock puissant, la pop ou l'exécution de morceaux de grande virtuosité technique peuvent surstimuler le système sympathique, augmentant l'anxiété matinale. Pour obtenir l'effet régulateur, privilégiez une musique classique harmonieuse et régulière, comme les préludes de Bach.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lors de la conception d'une routine musicale matinale, évitez les genres trop c
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter les rythmes agressifs & Privilégier les classiques harmonieux
+
+Lors de la conception d'une routine musicale matinale, évitez les genres trop complexes, dissonants ou au tempo trop rapide. Le rock puissant, la pop ou l'exécution de morceaux de grande virtuosité technique peuvent surstimuler le système sympathique, augmentant l'anxiété matinale. Pour obtenir l'effet régulateur, privilégiez une musique classique harmonieuse et régulière, comme les préludes de Bach.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Une personne ne jouant d'aucun instrument peut-elle bénéficier de la routine matinale de Casals ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lors de la conception d'une routine musicale matinale, évitez les genres trop c
       Oui, tout à fait. Bien que jouer d'un instrument sollicite en plus le cortex moteur, pratiquer l'« Écoute Active » — fermer les yeux et confier sa conscience aux textures sonores — induit un entraînement d'ondes alpha identique. La clé est de ne pas traiter la musique comme un fond sonore passif, mais de consacrer 10 minutes d'attention aux nuances auditives.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Est-il plus efficace de porter un casque pour écouter de la musique classique le matin ?</span>

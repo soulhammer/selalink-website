@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Gênio que Tocava Violino em um Beco Sem Saída Mental: A Rotina de Reinício e o Método de Transição Cognitiva de Albert Einstein"
 description: "Descubra como Albert Einstein, que revolucionou a física, tocava violino para reiniciar seu cérebro durante bloqueios criativos, e explore um guia prático de transição cognitiva em 3 passos."
 pubDate: "2026-03-05"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre einstein-violin-thinking é baseada em <strong>Verificação Histórica da Coleção de Ensaios de Albert Einstein *Out of My Later Years*, da Biografia de Walter Isaacson *Einstein: Sua Vida e Universo* e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Coleção de Ensaios de Albert Einstein *Out of My Later Years*, da Biografia de Walter Isaacson *Einstein: Sua Vida e Universo* e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Despertar Diferentes Regiões Cerebrais Via 'Transição Cognitiva' e a Rede de Modo Padrão
+## 1. Despertar Diferentes Regiões Cerebrais Via 'Transição Cognitiva' e a Rede de Modo Padrão
 
 Quando nos hiperfocamos em um problema complexo, o cérebro fica preso em um loop cognitivo, ativando repetidamente as mesmas vias neuronais — estado chamado de 'Visão de Túnel' ou sobrecarga cognitiva. O violino de Einstein funcionou como uma ferramenta de 'Transição Cognitiva', desconectando circuitos sobreestimulados e ativando outras áreas do cérebro. Tocar um instrumento estimula a visão, audição e tato simultaneamente, estimulando o corpo caloso que conecta os hemisférios. Ao se afastar para mergulhar na música, o cérebro entra na Rede de Modo Padrão (DMN), permitindo combinar informações para gerar um 'Momento Aha!'.
 
 ---
 
-## Saber Desapegar Libera Novas Ideias
-
-Einstein não era apenas um físico brilhante, mas também um talentoso violinista. Para ele, a música não era um hobby isolado, mas o lubrificante cognitivo mais poderoso para evitar a fadiga e despertar a inspiração. Quando suas ideias estagnarem, mude o estímulo sensorial como Einstein para dar ao seu cérebro uma oportunidade de reinício.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Einstein não era apenas um físico brilhante, mas também um talentoso violinis
   </p>
 </div>
 
+---
+
+## 3. Saber Desapegar Libera Novas Ideias
+
+Einstein não era apenas um físico brilhante, mas também um talentoso violinista. Para ele, a música não era um hobby isolado, mas o lubrificante cognitivo mais poderoso para evitar a fadiga e despertar a inspiração. Quando suas ideias estagnarem, mude o estímulo sensorial como Einstein para dar ao seu cérebro uma oportunidade de reinício.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Albert Einstein reiniciava o cérebro de outras formas além do violino?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Einstein não era apenas um físico brilhante, mas também um talentoso violinis
       Sim. Einstein costumava velejar para sentir o vento e meditar durante suas pausas. Além disso, dormia mais de 10 horas por dia para permitir que o subconsciente organizasse os problemas.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Pessoas que não sabem tocar nenhum instrumento podem seguir essa rotina?</span>

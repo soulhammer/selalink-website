@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le maître de la révolution de l'imprimerie : La routine matinale d'inspection de précision des caractères mobiles et le mécanisme ERN de Gutenberg"
 description: "Découvrez comment Gutenberg, inventeur des caractères métalliques mobiles, préservait les normes de qualité en inspectant le niveau des caractères chaque matin. Explorez la neuroscience du cortex cingulaire antérieur (ACC) et de la négativité liée à l'erreur (ERN)."
 pubDate: "2026-06-04"
@@ -33,25 +34,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant gutenberg-movable-type-inspection est basée sur <strong>Vérification Historique issue des biographies de Johannes Gutenberg, des archives du Gutenberg Museum de Mayence & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies de Johannes Gutenberg, des archives du Gutenberg Museum de Mayence & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation ERN (Négativité liée à l'erreur) et mécanisme de détection des erreurs
+## 1. Stimulation ERN (Négativité liée à l'erreur) et mécanisme de détection des erreurs
 
 Laisser subsister de légers décalages ou micro-erreurs dans un système entraîne l'accumulation de fautes et le dysfonctionnement global du système. La pratique de l'inspection manuelle préalable de 5 minutes de Gutenberg — une <strong>« Routine de contrôle des erreurs »</strong> — affine la sensibilité du signal de <strong>Négativité liée à l'erreur (ERN)</strong> généré dans le <strong>Cortex Cingulaire Antérieur (ACC)</strong>. Ce conditionnement permet au cerveau de détecter et de corriger immédiatement les asymétries.
 
 ---
 
-## Mise en garde : Briser le piège des intuitions et des raccourcis par l'inspection systématique
-
-Se fier aveuglément a des raccourcis mentaux — en se disant « ça ira comme ça » — provoque de graves défaillances systémiques. Au lieu de forcer votre volonté, intégrez un rituel physique d'inspection de 5 minutes dans votre quotidien : vérifiez manuellement l'alignement et trois points critiques du système avec vos yeux et vos mains.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Se fier aveuglément a des raccourcis mentaux — en se disant « ça ira comme 
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Briser le piège des intuitions et des raccourcis par l'inspection systématique
+
+Se fier aveuglément a des raccourcis mentaux — en se disant « ça ira comme ça » — provoque de graves défaillances systémiques. Au lieu de forcer votre volonté, intégrez un rituel physique d'inspection de 5 minutes dans votre quotidien : vérifiez manuellement l'alignement et trois points critiques du système avec vos yeux et vos mains.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pourquoi effectuer une inspection manuelle lorsqu'il existe des outils de test automatisés ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Se fier aveuglément a des raccourcis mentaux — en se disant « ça ira comme 
       Les tests automatisés détectent les erreurs logiques, mais ne perçoivent pas les déséquilibres visuels ou la lourdeur d'une mise en page. Une inspection humaine de 5 minutes apporte la finition nécessaire a la perfection.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si l'inspection matinale ralentit le déroulement du travail ?</span>

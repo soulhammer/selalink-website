@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "スランプに打ち勝つ強制の力：夏目漱石の朝の執筆ルーティン"
 description: "夏目漱石が名作を残した朝の執筆ルール。ひらめきを待たずに脳の「作業興奮」を呼び覚ますルーティンの価値を解説します。"
 pubDate: "2026-04-19"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「soseki-forced-writing」は <strong>夏目漱石の強制執筆に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>夏目漱石の強制執筆に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 開始が動機を作る「作業興奮」効果
+## 1. 開始が動機を作る「作業興奮」効果
 
 脳はじっと座っている時には動機づけホルモンを放出しません。動き始めて初めて、前頭葉と側坐核が刺激を受けて行動力を与えます。神経科学的研究によると、この行動は扁桃体の不要な不安反応を抑制し、視空間スケッチパッド回路を活性化して、長期的な実行機能を画期的に向上させます。
 
 ---
 
-## 行動をすぐ引き出すための巨匠のアドバイス
-
-気分や環境が整うのを待たずに、まずは原稿用紙の前に座って一文字でも書き始めてください。行動だけが脳を呼び覚まします。無理に意志力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣シグナルをあらかじめ設計することが持続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     指定しておいた30分の時間または最小単語数を達成したら、席を整理して達成感を抱いて終了します。
   </p>
 </div>
+
+---
+
+## 3. 行動をすぐ引き出すための巨匠のアドバイス
+
+気分や環境が整うのを待たずに、まずは原稿用紙の前に座って一文字でも書き始めてください。行動だけが脳を呼び覚まします。無理に意志力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣シグナルをあらかじめ設計することが持続性の核心です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

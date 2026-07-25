@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "3年ごとに人生をリセットする知的冒険：ピーター・ドラッカーの多学問的勉強習慣と脳可塑性"
 description: "経営学の巨匠ピーター・ドラッカーが生涯実践した「3年周期の新しい学問マスター」習慣。脳の可塑性（Neuroplasticity）を刺激し知的洞察力を維持した秘訣と3段階の多学問的学習法の認知神経科学的原理を解き明かします。"
 pubDate: "2026-01-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「drucker-three-year-study」は <strong>ピーター・ドラッカー自伝『Adventures of a Bystander（傍観者の時代）』および『Managing Oneself（プロフェッショナルの条件）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ピーター・ドラッカー自伝『Adventures of a Bystander（傍観者の時代）』および『Managing Oneself（プロフェッショナルの条件）』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 新しい分野の探求が誘導する脳可塑性（Neuroplasticity）と神経回路の再編
+## 1. 新しい分野の探求が誘導する脳可塑性（Neuroplasticity）と神経回路の再編
 
 同じ業務と既存の専攻知識のみを反復使用する脳は、特定の神経経路（Neural Pathways）のみを強化し、認知的固執化と老化を促進させます。一方、生知の学問分野を新たに勉強する時、大脳海馬（Hippocampus）と前頭前野皮質（PFC）は新規情報加工のためにシナプス新生（Synaptogenesis）を加速させます。これを脳科学では「脳可塑性（Neuroplasticity）」と呼びます。この多学問的学習過程は無関連分野間のシナプスネットワークを交差形成し、年齢に関係なく脳の認知的柔軟性（Cognitive Flexibility）を高め、革新的な融合思考能力を極大化させます。
 
 ---
 
-## 注意事項＆ヒント：情報過負荷の防止と地道な精読習慣の形成
-
-最初から論文レベルの過度に難しく専門的な学問を選定し無理な進度を設定することは、前頭前野に拒絶感を与えてドパミン報酬回路を遮断させます。持続可能な知的探求のためには、自分が日頃好奇心を感じていたテーマを選定し、一日30分の間概論書や検証された教養書を無理なく毎日一定分量精読する安定したリチュアルを作ることがポイントです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：情報過負荷の防止と地道な精読習慣の形成
+
+最初から論文レベルの過度に難しく専門的な学問を選定し無理な進度を設定することは、前頭前野に拒絶感を与えてドパミン報酬回路を遮断させます。持続可能な知的探求のためには、自分が日頃好奇心を感じていたテーマを選定し、一日30分の間概論書や検証された教養書を無理なく毎日一定分量精読する安定したリチュアルを作ることがポイントです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ピーター・ドラッカーはなぜよりによって「3年」という周期で分野を変えて勉強したのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       一つの完全な非専攻領域に入り、基礎読書から専門知識の体系化まで無理なく達成し、脳の神経可塑性を最上に誘導するのに3年という期間が認知的に最も理想的だったためです。この3年単位の習慣は知的惰性を防ぎ、完全に異なる分野との多学問的融合思考を作る最高の周期です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>3年という学習期間が忙しい現代人にとって長く負担に感じられる時は、どのように始めるべきですか？</span>

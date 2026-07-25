@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Secret to Making Great Decisions? Barack Obama's Decision Simplification Routine"
 description: "Discover the decision-simplification routine practiced by Barack Obama, 44th US President. A 3-step guide to conserving prefrontal cognitive energy and maximizing decision quality."
 pubDate: "2026-01-06"
@@ -36,14 +37,14 @@ In this post, we unpack the cognitive science principles behind Barack Obama's d
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding obama-decision-simplification is based on <strong>Historical Biographies and Autobiographical Verification of Barack Obama & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies and Autobiographical Verification of Barack Obama & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Decision Fatigue & Ego Depletion: Prefrontal Energy Limits
+## 1. Decision Fatigue & Ego Depletion: Prefrontal Energy Limits
 
 Empirical psychological research demonstrates that decision-making capability functions like a finite battery rather than an endless resource. Micro-choices in the morning, such as choosing clothes or breakfast, consume prefrontal willpower. The depletion of this resource is termed <strong>'Ego Depletion'</strong> or <strong>'Decision Fatigue'</strong>.
 
@@ -51,9 +52,7 @@ When decision fatigue peaks, rational cognitive control collapses, driving impul
 
 ---
 
-## Neuroscientific Advice for Efficient Judgment Management
-
-Fewer minor choices yield deeper cognitive focus. Streamline daily selection processes to prevent brain cognitive leakage, boosting momentum for goals that truly matter.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Fewer minor choices yield deeper cognitive focus. Streamline daily selection pro
     Capitalize on the cognitive energy preserved by your simplified morning. Avoid squandering it on casual emails or minor chats upon starting work; tackle your hardest decision first thing.
   </p>
 </div>
+
+---
+
+## 3. Neuroscientific Advice for Efficient Judgment Management
+
+Fewer minor choices yield deeper cognitive focus. Streamline daily selection processes to prevent brain cognitive leakage, boosting momentum for goals that truly matter.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

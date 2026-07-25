@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Superar un pasado trágico para convertirse en la reina de los talk shows: La rutina del diario de gratitud de Oprah Winfrey"
 description: "Oprah Winfrey, una de las líderes más influyentes del mundo. Descubre su rutina científica de escribir a mano 5 líneas de gratitud al despertar para cablear positivamente la red neuronal por defecto del cerebro."
 pubDate: "2026-05-24"
@@ -36,22 +37,20 @@ Este artículo examina la neurociencia detrás del diario de gratitud matutino d
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre winfrey-gratitude-journaling se basa en <strong>Biografías históricas y registros autobiográficos sobre Oprah Winfrey e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Biografías históricas y registros autobiográficos sobre Oprah Winfrey e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación de la vía dopaminérgica mesolímbica y neuroplasticidad
+## 1. Activación de la vía dopaminérgica mesolímbica y neuroplasticidad
 
 Recordar y escribir a mano experiencias positivas estimula la vía dopaminérgica mesolímbica y el sistema de serotonina, poniendo al cerebro en un estado de alerta agradable. Interrumpe la Red Neuronal por Defecto (DMN)—que suele amplificar la ansiedad matutina—y reconfigura las sinapsis mediante neuroplasticidad, fortaleciendo la resiliencia al estrés.
 
 ---
 
-## Errores de la escritura mecánica y consejos de especificidad
-
-Al escribir un diario de gratitud, las frases vagas como 'Agradecido por el clima' no generan estímulo de aprendizaje ni liberan dopamina. La clave es la especificidad. Describir detalles sensoriales concretos—como 'Agradecido de que mi amigo se riera a carcajadas con mi broma ayer'—evoca imágenes que activan los circuitos de plasticidad positiva.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Al escribir un diario de gratitud, las frases vagas como 'Agradecido por el clim
   </p>
 </div>
 
+---
+
+## 3. Errores de la escritura mecánica y consejos de especificidad
+
+Al escribir un diario de gratitud, las frases vagas como 'Agradecido por el clima' no generan estímulo de aprendizaje ni liberan dopamina. La clave es la especificidad. Describir detalles sensoriales concretos—como 'Agradecido de que mi amigo se riera a carcajadas con mi broma ayer'—evoca imágenes que activan los circuitos de plasticidad positiva.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué debo escribir en días desanimados en los que no se me ocurre nada por lo que estar agradecido?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Al escribir un diario de gratitud, las frases vagas como 'Agradecido por el clim
       Esos días son precisamente cuando más necesitas esta rutina. No busques cosas grandiosas; escribe hechos físicos básicos ligados a la supervivencia, como 'Tomé un té caliente' o 'Estoy respirando esta mañana'. Registrar pequeños indicadores de seguridad rescata al cerebro del modo de amenaza.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué tal usar aplicaciones de diario en el móvil o publicaciones en redes sociales para registrar la gratitud?</span>

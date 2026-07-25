@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Geometry of the Instant and the Focused Gaze: Henri Cartier-Bresson's 'Decisive Moment' Observation Routine"
 description: "Explore how Henri Cartier-Bresson, master of modern photojournalism, practiced visual immersion by waiting for perfect geometric harmony and fleeting instants. Discover the neuroscientific mechanisms of overriding predictive coding filters to activate the visual cortex and prefrontal attentional networks."
 pubDate: "2026-02-08"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Henri Cartier-Bresson's
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bresson-decisive-moment is based on <strong>Historical Verification from Henri Cartier-Bresson's Photobook *Images à la sauvette / The Decisive Moment* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Henri Cartier-Bresson's Photobook *Images à la sauvette / The Decisive Moment* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Overriding Predictive Coding Filters and Activating Visual Cortex Attentional Networks
+## 1. Overriding Predictive Coding Filters and Activating Visual Cortex Attentional Networks
 
 Familiar everyday streets are largely filtered out by the brain's 'Predictive Coding' system to conserve energy, rendering ambient details invisible. Actively tracking geometric patterning, spatial alignments, and shifting light contrast—as Cartier-Bresson did—overrides this predictive filter. This process stimulates the visual cortex and prefrontal attentional control networks, dramatically increasing sensory resolution, silencing cognitive noise, and activating creative association circuits.
 
 ---
 
-## Caution & Tips: Focusing on Cognitive Synchronization with the Moment, Not Mere Recording
-
-The goal of this observation exercise is not stockpiling pretty photos for social media. It is training 'Delayed Attention'—aligning the geometric architecture in front of you with inner mental composure. Resist the urge to continuously burst-click shutters. Instead, practice sustained stillness, holding your breath for 5 seconds or more until visual elements merge into perfect alignment before taking a single shot.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The goal of this observation exercise is not stockpiling pretty photos for socia
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Focusing on Cognitive Synchronization with the Moment, Not Mere Recording
+
+The goal of this observation exercise is not stockpiling pretty photos for social media. It is training 'Delayed Attention'—aligning the geometric architecture in front of you with inner mental composure. Resist the urge to continuously burst-click shutters. Instead, practice sustained stillness, holding your breath for 5 seconds or more until visual elements merge into perfect alignment before taking a single shot.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Must human figures be included in the frame during visual observation training?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The goal of this observation exercise is not stockpiling pretty photos for socia
       No. Observing inanimate geometric shapes and light boundaries—such as telegraph pole shadows cast on a wall or light rays passing through a glass cup on a desk—is equally effective for activating the visual cortex.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is it okay to crop or apply digital filters to the photos after shooting?</span>

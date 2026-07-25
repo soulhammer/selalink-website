@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "战胜流放绝望的大文豪？苏东坡的晨间竹林散步与烹饪放松习惯"
 description: "北宋天才文人苏东坡在屡遭流放的磨难中，通过晨间竹林散步与慢烹饪排解心中郁闷，成就传奇乐观主义与复原力的习惯。"
 pubDate: "2026-06-24"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 sushi-bamboo-walk-cooking 的内容基于 <strong>苏东坡（苏轼）评传与历代诗文集史实考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>苏东坡（苏轼）评传与历代诗文集史实考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 躯体化手作行为（Somatic Routine）如何激活副交感神经与神经复原力
+## 1. 躯体化手作行为（Somatic Routine）如何激活副交感神经与神经复原力
 
 如果试图仅凭理智强行忘记心中的创伤或委屈，大脑的杏仁核回路就会反复播放痛苦，使折磨加倍。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 请专注于烹饪与散步的过程本身，而非结果
-
-苏东坡烹饪的精髓在于等待“火候”时的平静心态。不要急于做完进食，要在食材慢炖的过程中，全心投入到手尖的感觉与飘散的香味中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 请专注于烹饪与散步的过程本身，而非结果
+
+苏东坡烹饪的精髓在于等待“火候”时的平静心态。不要急于做完进食，要在食材慢炖的过程中，全心投入到手尖的感觉与飘散的香味中。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>完全不会做饭的下厨新手也可以适用吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的！这不需要复杂的烹饪技巧。只需冲泡一杯手冲咖啡或精心地煎一个鸡蛋，就能获得充分的感官与心理效果。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>亲手做饭的习惯真的能减轻压力吗？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Power to Awaken Positive Brain Circuits: Dosan Ahn Chang-ho's Mirror Smile and Cleanliness Routine"
 description: "The power of 'smiling' and 'cleanliness' emphasized by independence activist Dosan Ahn Chang-ho. Discover the scientific reasons why forced smiling releases serotonin in the brain and an organized space reduces visual cognitive load."
 pubDate: "2026-01-19"
@@ -36,14 +37,14 @@ In today's post, we analyze the principles of the facial feedback hypothesis and
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding anchangho-mirror-smile is based on <strong>Historical Verification from Dosan Ahn Chang-ho's Biography & Young Korean Academy (Hung Sah Dahn) Records & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Dosan Ahn Chang-ho's Biography & Young Korean Academy (Hung Sah Dahn) Records & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Therapeutic Effects of the Facial Feedback Hypothesis and Physical Space Organization
+## 1. Cognitive Therapeutic Effects of the Facial Feedback Hypothesis and Physical Space Organization
 
 According to the Facial Feedback Hypothesis in physiology, the brain does not simply move facial muscles based on emotion; conversely, it detects the contraction state of facial muscles to determine current emotional state. Just forcing a smiling expression in the morning makes the brain perceive it as a stimulus of joy, promoting the secretion of positive neurotransmitters such as serotonin and dopamine, and lowering the level of the stress hormone cortisol.
 
@@ -51,9 +52,7 @@ Furthermore, cleaning and organizing surrounding space significantly blocks unne
 
 ---
 
-## A Word from Dosan for Organizing Mind and Space
-
-When your mind is scattered, rather than struggling forcefully to pull your thoughts together, start by first sending a smile to yourself in the mirror and picking up a piece of trash right before your eyes. A smile lifts inner darkness, and cleanliness corrects outer disorder, guiding you onto the right path.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ When your mind is scattered, rather than struggling forcefully to pull your thou
     Even if you do not go outside, wash your face, comb your hair neatly, avoid wrinkled or dirty clothes, and maintain a neat personal presentation to impart cognitive alertness.
   </p>
 </div>
+
+---
+
+## 3. A Word from Dosan for Organizing Mind and Space
+
+When your mind is scattered, rather than struggling forcefully to pull your thoughts together, start by first sending a smile to yourself in the mirror and picking up a piece of trash right before your eyes. A smile lifts inner darkness, and cleanliness corrects outer disorder, guiding you onto the right path.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

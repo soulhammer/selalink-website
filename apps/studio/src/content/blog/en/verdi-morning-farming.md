@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Melodies Composed by Tilling the Soil: Giuseppe Verdi's Morning Agricultural Labor Habit"
 description: "Giuseppe Verdi woke up at 5 AM at Sant'Agata farm to till soil and sweat before drawing musical scores. Investigating the mechanism where physical labor under morning sunlight supplies rich serotonin to the brain, triggering creative inspiration."
 pubDate: "2026-06-21"
@@ -34,22 +35,20 @@ Giuseppe Verdi, a 19th-century opera master and great composer who shook world m
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding verdi-morning-farming is based on <strong>Verdi Morning Farming historical biographies & autobiographical records validation & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Verdi Morning Farming historical biographies & autobiographical records validation & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurophysiology of Early Morning Nature Exposure & Grounding (Earthing)
+## 1. Neurophysiology of Early Morning Nature Exposure & Grounding (Earthing)
 
 Going outdoors early at dawn to do physical labor suppresses sleep hormone melatonin secretion under natural sunlight and activates the synthesis of serotonin, the happiness neurotransmitter. Furthermore, recent environmental neuroscience research shows that touching soil and grounding (earthing) lowers body free radicals and shifts the autonomic nervous system toward parasympathetic dominance, significantly lowering cerebral stress levels. Consequently, cognitive barriers break down and the brain enters a relaxed divergent thinking mode, allowing intuitive combination of extremely rich and beautiful melodies.
 
 ---
 
-## Cautions and Tips
-
-When introducing morning physical labor as a routine, what to avoid is high-intensity weight training or exhausting physical activity that excessively tires the brain. When lactic acid accumulates and strong physical fatigue sets in, energy is drained, losing glucose and prefrontal energy needed for morning composition (or creative tasks). Thus, morning labor should be limited to 'light aerobic body movements' like pot arrangement, soil tilling, or light gardening that keep heart rate around 100 bpm to benefit brain activity.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ When introducing morning physical labor as a routine, what to avoid is high-inte
   </p>
 </div>
 
+---
+
+## 3. Cautions and Tips
+
+When introducing morning physical labor as a routine, what to avoid is high-intensity weight training or exhausting physical activity that excessively tires the brain. When lactic acid accumulates and strong physical fatigue sets in, energy is drained, losing glucose and prefrontal energy needed for morning composition (or creative tasks). Thus, morning labor should be limited to 'light aerobic body movements' like pot arrangement, soil tilling, or light gardening that keep heart rate around 100 bpm to benefit brain activity.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does morning gym exercise (fitness) have a creative brain-stimulating effect similar to Verdi's farming?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ When introducing morning physical labor as a routine, what to avoid is high-inte
       Aerobics and light muscle activation do help, but indoor gym workouts under artificial lighting are less effective at suppressing melatonin. Activity under natural sunlight combined with earthing—touching soil and natural elements directly—is required to achieve powerful neural stability and serotonin activation like Verdi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What should I be careful about when introducing morning physical labor?</span>

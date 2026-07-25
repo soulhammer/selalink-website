@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jurnal Pagi Marcus Aurelius: Cara Menenangkan Pikiran dengan Filosofi Stoa"
 description: "Pelajari bagaimana Kaisar Romawi Marcus Aurelius menulis jurnal sebelum matahari terbit untuk meredakan stres ekstrem dan menggembleng resiliensi batin."
 pubDate: "2026-05-22"
@@ -33,25 +34,23 @@ Kebiasaan menulis pagi ini, yang menguatkannya di tengah peperangan, wabah, dan 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai marcus-aurelius-morning-journaling didasarkan pada <strong>Verifikasi Historis 'Meditasi' Marcus Aurelius, Catatan Biografis & Riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis 'Meditasi' Marcus Aurelius, Catatan Biografis & Riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengapa Jurnal Refleksi Pagi Mampu Memblokir Stres
+## 1. Mengapa Jurnal Refleksi Pagi Mampu Memblokir Stres
 
 Menulis segera setelah bangun berfungsi sebagai filter kognitif otak. Menuangkan kecemasan samar dan kekhawatiran emosional ke atas kertas mengaktifkan korteks prefrontal yang mengatur logika, sekaligus meredakan reaksi kecemasan berlebih pada amigdala. Penataan ulang kognitif ini menormalisasi sekresi kortisol dan meningkatkan kendali diri.
 
 ---
 
-## Panduan untuk Jurnal Stoa yang Efektif
-
-Tinggalkan retorika puitis yang ditujukan bagi orang lain; tulisan ini harus jujur dan hanya untuk diri sendiri. Catat kelemahan atau kesalahan Anda secara objektif, dan pertimbangkan menggunakan kata ganti orang kedua ('kamu'). Cara ini menciptakan Jarak Kognitif (Cognitive Distance) yang membantu Anda mengamati tindakan sendiri secara lebih dingin dari sudut pandang pihak ketiga.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Tinggalkan retorika puitis yang ditujukan bagi orang lain; tulisan ini harus juj
   </p>
 </div>
 
+---
+
+## 3. Panduan untuk Jurnal Stoa yang Efektif
+
+Tinggalkan retorika puitis yang ditujukan bagi orang lain; tulisan ini harus jujur dan hanya untuk diri sendiri. Catat kelemahan atau kesalahan Anda secara objektif, dan pertimbangkan menggunakan kata ganti orang kedua ('kamu'). Cara ini menciptakan Jarak Kognitif (Cognitive Distance) yang membantu Anda mengamati tindakan sendiri secara lebih dingin dari sudut pandang pihak ketiga.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana jika jadwal pagi terlalu sibuk sehingga sulit menulis jurnal setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Tinggalkan retorika puitis yang ditujukan bagi orang lain; tulisan ini harus juj
       Sama sekali tidak perlu menyalahkan diri sendiri jika terlewat sehari. Perasaan bersalah adalah penderitaan tak perlu yang dihindari dalam Stoa. Jika waktu sangat terbatas, menulis satu kalimat di ponsel seperti 'Jangan goyah oleh kesulitan hari ini' sudah cukup. Yang terpenting adalah konsistensi pola pikir.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa bedanya rutinitas ini dengan jurnal rasa syukur atau jurnal pagi biasa?</span>

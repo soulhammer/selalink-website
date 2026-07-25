@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "从梦境余晖中打捞的名曲：保罗·麦卡特尼的潜意识即时记录习惯"
 description: "保罗·麦卡特尼在晨起瞬间从梦境记忆中打捞出披头士名曲《Yesterday》。分享利用前额叶审查解除时的半睡眠状态（Hypnagogia）及发散模式大脑捕获创造力的秘诀。"
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mccartney-dream-melody-capture 的内容基于 <strong>保罗·麦卡特尼历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>保罗·麦卡特尼历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 半睡眠状态（Hypnagogia）与大脑的发散模式（Diffuse Mode）
+## 1. 半睡眠状态（Hypnagogia）与大脑的发散模式（Diffuse Mode）
 
 在清醒后的头几分钟里，人类处于“半睡眠状态”（Hypnagogia），负责意识控制与逻辑的背外侧前额叶皮层（DLPFC）尚未完全激活。此时的大脑处于发散模式（Diffuse Mode），理性过滤与自我审查处于松弛状态，使潜意识中散落的记忆与听觉信息得以无拘无束地融合。然而，一旦进入完全清醒状态，大脑的工作模式就会切换至集中模式（Focused Mode）并清空短时记忆，导致潜意识的灵感永久丧失。因此，在醒来后的30秒内使用物理工具将其记录下来，是阻止灵感流失的关键。
 
 ---
 
-## 注意事项与技巧
-
-在执行灵感捕获习惯时，最需要避免的行为就是刚醒来就拿手机刷社交媒体或阅读新闻邮件。当外部具有刺激性且条理化的信息强行占据视觉皮层与工作记忆时，大脑会瞬间进入高度认知紧张模式，从而将潜意识微弱的神经回路（梦境记忆）彻底清空。因此，建议在卧室床头仅摆放普通的纸笔，让大脑顺畅地渡过半睡眠阶段。醒来后至少3分钟内保持与外部媒体的断连，专注于导出大脑内部的独特数据。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     在书写过程中，完全排除诸如“这符合逻辑吗？”或“这奇怪吗？”等自我评估。专注于将未经加工的潜意识原始数据倾倒在纸上，至于逻辑整理与分析精炼则留到下午进行。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与技巧
+
+在执行灵感捕获习惯时，最需要避免的行为就是刚醒来就拿手机刷社交媒体或阅读新闻邮件。当外部具有刺激性且条理化的信息强行占据视觉皮层与工作记忆时，大脑会瞬间进入高度认知紧张模式，从而将潜意识微弱的神经回路（梦境记忆）彻底清空。因此，建议在卧室床头仅摆放普通的纸笔，让大脑顺畅地渡过半睡眠阶段。醒来后至少3分钟内保持与外部媒体的断连，专注于导出大脑内部的独特数据。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

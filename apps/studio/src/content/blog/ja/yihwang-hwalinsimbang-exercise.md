@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "儒学者（ソンビ）の朝の養生：退渓・李滉の『活人心方』体操"
 description: "生涯病弱でありながら、毎朝の導引法と呼吸調節によって70歳まで学問を修めた退渓・李滉。低強度の身体調整と深呼吸が副交感神経系を覚醒させ、穏やかな集中を誘導する生理的メカニズムを解説します。"
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「yihwang-hwalinsimbang-exercise」は <strong>退渓・李滉『活人心方』の歴史的評伝・記録考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>退渓・李滉『活人心方』の歴史的評伝・記録考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 低強度導引体操と呼吸調節が自律神経系の調整を誘導する原理
+## 1. 低強度導引体操と呼吸調節が自律神経系の調整を誘導する原理
 
 起床直後、人の身体は活動状態へ移行するためにコルチゾール値が急増（Cortisol Awakening Response）し、一時的な脈拍上昇や不安が生じることがあります。この時点で強制的な覚醒を促す過激な活動を行ったり刺激的なデジタルメディアに接すると、脳の不安回路が過活性化します。一方、李滉先生の『活人心方』のように柔らかいストレッチと長く吐き出す腹式呼吸を組み合わせると、迷走神経が刺激されて副交感神経系が優位になり、心拍変動（HRV）が安定して、脳が最も理知的で落ち着いた没頭準備状態を確立します。
 
 ---
 
-## 注意事項およびヒント
-
-朝目覚めたばかりの時は、脊椎や筋肉の繊維が非常に硬くなっています。この状態で強い衝撃を与えたり、過度な柔軟性を誇示するようなヨガのポーズを無理に行うと、椎間板の損傷や重大な怪我を引き起こします。したがって朝の導引法は反動をつけずに優しく関節を開く程度にとどめ、痛みを感じない可動域内でひたすら呼吸に集中して行うことが安全で効果的です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     鼻から清らかな酸素を吸い込み、下腹部を凹ませながら口から息を長く静かに吐き出す腹式深呼吸を10回行い、副交感神経を覚醒させます。
   </p>
 </div>
+
+---
+
+## 3. 注意事項およびヒント
+
+朝目覚めたばかりの時は、脊椎や筋肉の繊維が非常に硬くなっています。この状態で強い衝撃を与えたり、過度な柔軟性を誇示するようなヨガのポーズを無理に行うと、椎間板の損傷や重大な怪我を引き起こします。したがって朝の導引法は反動をつけずに優しく関節を開く程度にとどめ、痛みを感じない可動域内でひたすら呼吸に集中して行うことが安全で効果的です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Consigner l'ordre au cœur du chaos : L'habitude de journal de recherche de Sir Isaac Newton"
 description: "Sir Isaac Newton, le plus grand scientifique de l'humanité. Découvrez son habitude de consigner chaque pensée dans un grand carnet en cuir et les principes neuroscientifiques de l'écriture manuscrite."
 pubDate: "2026-03-30"
@@ -33,17 +34,17 @@ Dans cet article, nous décryptons les mécanismes neuroscientifiques de la rout
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant newton-meticulous-journaling est basée sur <strong>Biographies historiques et écrits autobiographiques de Sir Isaac Newton & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et écrits autobiographiques de Sir Isaac Newton & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## « La décharge cognitive » : Libérer la surcharge de la mémoire de travail
+## 1. « La décharge cognitive » : Libérer la surcharge de la mémoire de travail
 
 La capacité de la mémoire de travail est extrêmement limitée. Traiter mentalement de multiples calculs entraîne une surcharge cognitive qui bloque la pensée créative. La prise de notes manuscrite et la schématisation de Newton ont déclenché le mécanisme de <strong>« décharge cognitive » (Cognitive Offloading)</strong>.
 
@@ -51,9 +52,7 @@ En sauvegardant ses pensées sur papier, la mémoire de travail se libère de la
 
 ---
 
-## Pratiquez la structuration visuelle plutôt que la simple prise de notes
-
-Saisir mécaniquement du texte sur smartphone offre moins de stimulation tactile et un ancrage mémoriel plus faible. La clé réside dans la tenue d'un stylo pour transmettre un retour analogique au cerveau et l'utilisation de flèches ou diagrammes pour lier visuellement les idées. En cas d'utilisation d'une tablette, privilégiez un stylet pour dessiner.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Saisir mécaniquement du texte sur smartphone offre moins de stimulation tactile
     Ne vous limitez pas aux phrases courtes ; reliez vos idées avec des flèches et dessinez des schémas ou tableaux à la main pour synthétiser visuellement la logique.
   </p>
 </div>
+
+---
+
+## 3. Pratiquez la structuration visuelle plutôt que la simple prise de notes
+
+Saisir mécaniquement du texte sur smartphone offre moins de stimulation tactile et un ancrage mémoriel plus faible. La clé réside dans la tenue d'un stylo pour transmettre un retour analogique au cerveau et l'utilisation de flèches ou diagrammes pour lier visuellement les idées. En cas d'utilisation d'une tablette, privilégiez un stylet pour dessiner.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

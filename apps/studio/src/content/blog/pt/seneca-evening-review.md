@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O autoexame noturno de Sêneca: Como ter um sono tranquilo e corrigir os erros de ontem"
 description: "Descubra como o filósofo estoico Sêneca examinava suas ações diárias em um quarto escuro antes de dormir, aliviando a tensão mental e melhorando a qualidade do sono."
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ Esse ritual ancestral de fechamento cognitivo é validado pela neurofisiologia m
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre seneca-evening-review é baseada em <strong>Verificação textual de 'De Ira' (Sobre a Ira) de Sêneca, literatura estoica & pesquisas em neurociência cognitiva e fisiologia do sono</strong>.
+      Este conteúdo baseia-se em <strong>Verificação textual de 'De Ira' (Sobre a Ira) de Sêneca, literatura estoica & pesquisas em neurociência cognitiva e fisiologia do sono</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Razões fisiológicas pelas quais a reflexão noturna ativa o modo de sono no cérebro
+## 1. Razões fisiológicas pelas quais a reflexão noturna ativa o modo de sono no cérebro
 
 Ir para a cama com ansiedades não resolvidas mantém o sistema simpático ativo, prejudicando o sono profundo.
 
@@ -51,9 +52,7 @@ O autoexame induz o 'Fechamento Cognitivo'. Avaliar suas ações objetivamente d
 
 ---
 
-## Evite a armadilha da culpa e do remorso
-
-A essência da reflexão é a melhoria racional, não a culpa emocional. Criticar-se antes de dormir libera hormônios do estresse. Perdoe-se com calma: "Errei, mas entendi o motivo e corrigirei amanhã." Seja um juiz neutro e objetivo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,9 +84,15 @@ A essência da reflexão é a melhoria racional, não a culpa emocional. Critica
   </p>
 </div>
 
+---
+
+## 3. Evite a armadilha da culpa e do remorso
+
+A essência da reflexão é a melhoria racional, não a culpa emocional. Criticar-se antes de dormir libera hormônios do estresse. Perdoe-se com calma: "Errei, mas entendi o motivo e corrigirei amanhã." Seja um juiz neutro e objetivo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

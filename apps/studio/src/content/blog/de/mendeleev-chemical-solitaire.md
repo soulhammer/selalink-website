@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Elementen-Solitaire: Mendelejews chemische Kartensortier-Routine"
 description: "Dmitri Mendelejew vollendete das Periodensystem, indem er Karten mit Elementeigenschaften wie beim Solitaire-Spiel anordnete. Erfahren Sie, wie räumliches Sortieren Mustererkennungsmuster im Gehirn aktiviert."
 pubDate: "2026-03-14"
@@ -33,25 +34,23 @@ In diesem Beitrag analysieren wir den neurowissenschaftlichen Nutzen von Mendele
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu mendeleev-chemical-solitaire basiert auf <strong>Historische Biografien & Aufzeichnungen zu Mendelejew & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografien & Aufzeichnungen zu Mendelejew & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Warum räumliche Anordnung und physische Sortierung die Mustererkennung aktivieren
+## 1. Warum räumliche Anordnung und physische Sortierung die Mustererkennung aktivieren
 
 Flacher Text auf Bildschirmen wird als zweidimensionale Information verarbeitet, was kognitive Engen erzeugt. Das Aufteilen von Informationen auf physische Karten und deren räumliche Anordnung aktiviert den Parietallappen für Raumwahrnehmung. Durch haptische Reize und visuelle 3D-Rückmeldung erkennt das Gehirn organische Abstände zwischen Begriffen und deckt verborgene Zusammenhänge auf.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Überladen Sie einzelne Karten nicht mit zu vielen Details; andernfalls wird die Karte zu einem dichten Text und verliert den räumlichen Vorteil. Schreiben Sie nur ein Schlüsselwort pro Karte auf, um das visuell-räumliche Arbeitsgedächtnis optimal zu nutzen. Beschränken Sie die Anzahl auf 10–20 Karten gleichzeitig.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Flacher Text auf Bildschirmen wird als zweidimensionale Information verarbeitet,
     Sobald eine logische Anordnung entsteht, fotografieren Sie das Ergebnis mit dem Smartphone, um das physische Raster im Gedächtnis zu verankern.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Überladen Sie einzelne Karten nicht mit zu vielen Details; andernfalls wird die Karte zu einem dichten Text und verliert den räumlichen Vorteil. Schreiben Sie nur ein Schlüsselwort pro Karte auf, um das visuell-räumliche Arbeitsgedächtnis optimal zu nutzen. Beschränken Sie die Anzahl auf 10–20 Karten gleichzeitig.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pliny the Elder's Relentless Note-Taking: How Handwriting Awakens the Brain and Owns Memory"
 description: "Shares the note-taking secrets of Roman scholar Pliny the Elder, who compiled vast knowledge by having secretaries read books to him and taking notes even while eating or traveling."
 pubDate: "2026-05-12"
@@ -36,22 +37,20 @@ His passion for learning without ever stopping his pen has been proven, even fro
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding pliny-reading-excerpt is based on <strong>Historical critical biography and autobiographical records of Pliny Reading Excerpt & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical critical biography and autobiographical records of Pliny Reading Excerpt & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Why Excerpt Note-Taking Is Cognitively Superior to Mere Reading
+## 1. Why Excerpt Note-Taking Is Cognitively Superior to Mere Reading
 
 A passive receptive stance of merely reading text with the eyes causes the brain to easily spill information out of short-term memory storage. In contrast, when summarizing the core of text and taking physical handwriting notes, the fine movements of fingers stimulate the reticular activating system (RAS) in the brainstem, powerfully activating the entire brain. Because the brain must filter and reconstruct information during this process, powerful retrieval cues are embedded, smoothly settling into long-term memory.
 
 ---
 
-## Guide for Smart Excerpt Note-Taking
-
-Mindlessly copying entire paragraphs from a book (transcription) should be avoided. This is close to simple labor that bypasses the brain, causing only cognitive fatigue. Selectively extract and handwrite only inspiring sentences or key keywords. Additionally, build a habit of always writing the book source and page number in parentheses so you can trace excerpted knowledge later.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Mindlessly copying entire paragraphs from a book (transcription) should be avoid
   </p>
 </div>
 
+---
+
+## 3. Guide for Smart Excerpt Note-Taking
+
+Mindlessly copying entire paragraphs from a book (transcription) should be avoided. This is close to simple labor that bypasses the brain, causing only cognitive fatigue. Selectively extract and handwrite only inspiring sentences or key keywords. Additionally, build a habit of always writing the book source and page number in parentheses so you can trace excerpted knowledge later.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Is writing with a stylus on a tablet or typing on a keyboard equally effective?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Mindlessly copying entire paragraphs from a book (transcription) should be avoid
       Writing directly with a digital stylus on a tablet produces effects quite similar to a physical pen. However, typing on a keyboard is an automated input action accompanied by almost no cognitive processing. The slower speed of handwriting forces the brain to summarize and digest information, significantly improving memory retention rates.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is there a way to organize excerpted notes so they don't get lost as they accumulate?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Precalentamiento seco para enfriar el cerebro: El hábito de Stendhal de leer el Código Civil francés"
 description: "Stendhal, un maestro de la literatura realista que diseccionó la psicología humana sin retórica ornada. Analizamos su hábito de calentamiento cognitivo de leer el Código Civil francés diariamente antes de escribir para maximizar la objetividad y la lógica."
 pubDate: "2026-02-08"
@@ -32,22 +33,20 @@ Stendhal (nombre real Henri Beyle, 1783–1842) fue un maestro del realismo lite
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre stendhal-civil-code-reading se basa en <strong>Investigación histórica biográfica y autobiográfica sobre la lectura del Código Civil por Stendhal e investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación histórica biográfica y autobiográfica sobre la lectura del Código Civil por Stendhal e investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efecto de cebado lingüístico y bloqueo de la cognición sentimental
+## 1. Efecto de cebado lingüístico y bloqueo de la cognición sentimental
 
 Según el Efecto de Cebado (Priming Effect) en ciencia cognitiva, cuando el cerebro se expone previamente a información con características específicas, activa de manera inconsciente patrones similares en tareas cognitivas posteriores. Leer las oraciones secas y fácticas del Código Civil justo antes de escribir equivalía a configurar el área de control del lenguaje de Stendhal en un modo orientado a la objetividad y la lógica. Este estímulo permite al cerebro ejercer inhibición cognitiva contra el sentimentalismo subjetivo, respaldando una escritura clara basada en hechos y estructura lógica.
 
 ---
 
-## Precauciones y Consejos
-
-Al aplicar este hábito, tenga cuidado de no sumergirse demasiado en contenidos complejos o análisis legales. Analizar profundamente precedentes o interpretaciones jurídicas antes de escribir corre el riesgo de agotar los recursos cognitivos prefrontales (Agotamiento Cognitivo). La esencia de esta rutina no es adquirir conocimientos jurídicos, sino percibir visualmente la estructura concisa y las combinaciones claras de palabras. Por lo tanto, escanee de forma ligera las frases sin pensar demasiado en el texto en sí.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Al aplicar este hábito, tenga cuidado de no sumergirse demasiado en contenidos 
     Una vez finalizada la lectura de 10 minutos, cierre el libro inmediatamente antes de revisar su teléfono y comience a escribir su manuscrito. Mantenga la sobriedad imprimada en su cerebro para escribir con fluidez.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y Consejos
+
+Al aplicar este hábito, tenga cuidado de no sumergirse demasiado en contenidos complejos o análisis legales. Analizar profundamente precedentes o interpretaciones jurídicas antes de escribir corre el riesgo de agotar los recursos cognitivos prefrontales (Agotamiento Cognitivo). La esencia de esta rutina no es adquirir conocimientos jurídicos, sino percibir visualmente la estructura concisa y las combinaciones claras de palabras. Por lo tanto, escanee de forma ligera las frases sin pensar demasiado en el texto en sí.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

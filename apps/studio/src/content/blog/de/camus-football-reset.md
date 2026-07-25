@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein primitives Mittel gegen Burnout und existenzielle Depressionen: Albert Camus' Fußball-Reset-Routine"
 description: "Erkunden Sie, wie sich der französische Nobelpreisträger und Philosoph Albert Camus bei kreativen Tiefs als Torwart in die Schüsse warf, und entdecken Sie die neurowissenschaftlichen Mechanismen der präfrontalen Entkopplung und des cerebellären kognitiven Wechsels."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Albert Camus' S
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu camus-football-reset basiert auf <strong>Historische Überprüfung aus Olivier Todds Biografie *Albert Camus: A Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Olivier Todds Biografie *Albert Camus: A Life* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Erzwungener präfrontaler Offline-Zustand und cerebellär-motorischer kognitiver Wechsel
+## 1. Erzwungener präfrontaler Offline-Zustand und cerebellär-motorischer kognitiver Wechsel
 
 Intensive intellektuelle Arbeit wie Schreiben oder Planen erschöpft den Präfrontalkortex durch hohen Glukoseverbrauch. Wenn diese Ressourcen versiegen, treten kognitive Lähmung, Burnout und emotionale Erschöpfung ein. Sich intensiver körperlicher Bewegung hinzugeben – wie ein Torwart, der auf einen Schuss reagiert – zwingt das Gehirn, die aktive Verarbeitung vom Präfrontalkortex auf das Kleinhirn (Cerebellum) und den motorischen Kortex zu verlagern. Dieser kognitive Wechsel versetzt den überlasteten Präfrontalkortex in einen Offline-Zustand, was ihm physiologische Erholung bietet und den Cortisolspiegel senkt.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Vermeidung von punktefokussiertem Wettkampf und komplexen Strategiespielen
-
-Das Ziel dieser Routine ist die vollständige Erholung des Präfrontalkortex und eine kognitive Auffrischung. Wenn Sie an extrem ehrgeizigen Wettkämpfen teilnehmen oder Sportarten betreiben, die intensive taktische Berechnungen erfordern, bleibt Ihr Präfrontalkortex aktiv und leidet unter sekundärer Überlastung. Um den Offline-Effekt zu erzielen, konzentrieren Sie sich auf intuitive körperliche Bewegung ohne Fokussierung auf den Spielstand.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das Ziel dieser Routine ist die vollständige Erholung des Präfrontalkortex und
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Vermeidung von punktefokussiertem Wettkampf und komplexen Strategiespielen
+
+Das Ziel dieser Routine ist die vollständige Erholung des Präfrontalkortex und eine kognitive Auffrischung. Wenn Sie an extrem ehrgeizigen Wettkämpfen teilnehmen oder Sportarten betreiben, die intensive taktische Berechnungen erfordern, bleibt Ihr Präfrontalkortex aktiv und leidet unter sekundärer Überlastung. Um den Offline-Effekt zu erzielen, konzentrieren Sie sich auf intuitive körperliche Bewegung ohne Fokussierung auf den Spielstand.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Wie kann ich diese Routine alleine ohne Partner für Mannschaftssportarten praktizieren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das Ziel dieser Routine ist die vollständige Erholung des Präfrontalkortex und
       Sie können dies problemlos alleine praktizieren. Übungen wie das Werfen und Fangen eines Tennisballs an einer Wand, das Schlagen auf einen Boxsack oder Koordinationsleiter-Übungen stimulieren das Kleinhirn und den motorischen Kortex, um den Präfrontalkortex zu entkoppeln.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Akkumuliert körperliches Training an Tagen extremer geistiger Erschöpfung nicht noch mehr Müdigkeit?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Les ondes de la régulation mentale : La routine matinale de luth de Martin Luther et la synchronisation neuronale"
 description: "Découvrez comment Martin Luther, sous la pression intense de la Réforme, méditait chaque matin en jouant du luth. Explorez la neuroscience de l'intégration auditive-motrice, la stimulation du nerf vague, la stabilisation autonome et un guide en 3 étapes."
 pubDate: "2026-02-24"
@@ -35,25 +36,23 @@ Dans cet article, nous décryptons les principes neurologiques de la routine de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant luther-lute-meditation est basée sur <strong>Vérification Historique issue des Archives de Luther, *Tischreden* (Propos de Table, 1566) & Recherche en Neurosciences Cognitives et Musicothérapie</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des Archives de Luther, *Tischreden* (Propos de Table, 1566) & Recherche en Neurosciences Cognitives et Musicothérapie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## La neuroscience de l'intégration auditive-motrice et de la stimulation du nerf vague
+## 1. La neuroscience de l'intégration auditive-motrice et de la stimulation du nerf vague
 
 La manipulation précise d'un instrument active le cortex moteur via la voie d'<strong>Intégration Auditive-Motrice</strong>. Fixer son attention sur les vibrations physiques calme le bruit neuronal préfrontal lié à l'anxiété. De plus, le jeu rythmique stimule le <strong>Nerf Vague</strong>, augmentant la <strong>Variabilité de la Fréquence Cardiaque (HRV)</strong> et activant le <strong>Système Nerveux Parasympatique</strong>.
 
 ---
 
-## Mise en garde : Éliminer la quête de performance pour s'immerger dans la sensation tactile
-
-Le plus grand obstacle à la méditation musicale est l'obsession de la perfection. S'inquiéter des erreurs génère un stress d'évaluation qui stimule l'<strong>Amygdale</strong>. Utilisez des instruments simples comme un kalimba, un ukulélé ou un tambour à langues, et concentrez-vous sur 5 minutes de résonance sensorielle.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le plus grand obstacle à la méditation musicale est l'obsession de la perfecti
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer la quête de performance pour s'immerger dans la sensation tactile
+
+Le plus grand obstacle à la méditation musicale est l'obsession de la perfection. S'inquiéter des erreurs génère un stress d'évaluation qui stimule l'<strong>Amygdale</strong>. Utilisez des instruments simples comme un kalimba, un ukulélé ou un tambour à langues, et concentrez-vous sur 5 minutes de résonance sensorielle.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Les débutants sans expérience musicale peuvent-ils bénéficier de cette routine ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le plus grand obstacle à la méditation musicale est l'obsession de la perfecti
       Absolument ! L'essentiel ne réside pas dans la technique, mais dans la 'stimulation tactile fine et la perception de la résonance'. Utiliser un kalimba ou un tambour à langues pendant 5 minutes offre un apaisement identique.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>L'écoute passive de la musique peut-elle remplacer la pratique active ?</span>

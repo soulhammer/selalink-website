@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Entusiasmo da Alvorada: A Rotina de Café da Manhã Familiar às 5h e Caminhada do Presidente Ju-Yung Chung"
 description: "Descubra como o fundador do Grupo Hyundai, Ju-Yung Chung, manteve a rotina de acordar às 4h e tomar café da manhã em família. Explore os princípios neurocientíficos da atividade aeróbica matinal e do vínculo emocional para estabilizar o cortisol."
 pubDate: "2026-06-12"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a ciência cerebral por trás da rotina de 'desper
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre chung-dawn-breakfast é baseada em <strong>Verificação Histórica da Autobiografia de Ju-Yung Chung *Provações Sim, Derrotas Não (Born of this Land)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Autobiografia de Ju-Yung Chung *Provações Sim, Derrotas Não (Born of this Land)* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurofisiologia da Luz Matinal e Caminhada Combinadas com Regulação Emocional Social
+## 1. Neurofisiologia da Luz Matinal e Caminhada Combinadas com Regulação Emocional Social
 
 Acordar em um horário constante e caminhar ao ar livre estimula as ipRGCs retinianas, suprimindo a melatonina e normalizando a serotonina e o cortisol para eliminar a inércia do sono. Ao mesmo tempo, de 15 a 30 minutos de caminhada aumentam o fluxo sanguíneo cerebral, ativando as funções executivas pré-frontais. Além disso, compartilhar o café da manhã em família ativa a regulação emocional social, liberando oxitocina.
 
 ---
 
-## Precauções e Dicas: Evitar Acordar Cedo de Forma Obsessiva Sem Garantir Horas de Sono
-
-Acordar cedo de forma obsessiva não garante o sucesso. Forçar um despertar precoce sem garantir de 7 a 8 horas de sono provoca exaustão do sistema nervoso central e declínio executivo. Antes de adiantar seu alarme matinal, controle estritamente seu horário noturno para assegurar horas de sono suficientes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Acordar cedo de forma obsessiva não garante o sucesso. Forçar um despertar pre
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas: Evitar Acordar Cedo de Forma Obsessiva Sem Garantir Horas de Sono
+
+Acordar cedo de forma obsessiva não garante o sucesso. Forçar um despertar precoce sem garantir de 7 a 8 horas de sono provoca exaustão do sistema nervoso central e declínio executivo. Antes de adiantar seu alarme matinal, controle estritamente seu horário noturno para assegurar horas de sono suficientes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Pessoas de hábito noturno precisam acordar estritamente às 4h ou 5h como o presidente Chung?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Acordar cedo de forma obsessiva não garante o sucesso. Forçar um despertar pre
       Não. O essencial não é a hora exata das 4h da manhã, mas aplicar a sequência de 3 passos — bloquear a sobrecarga digital ao acordar, ter interações positivas e caminhar sob a luz natural — de forma consistente no seu próprio horário (ex.: 6h00 ou 7h00).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como posso adaptar esta rotina se eu morar sozinho e não tiver família para tomar café da manhã junto?</span>

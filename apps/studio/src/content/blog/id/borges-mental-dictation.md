@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Labirin yang Digambar di Mata Pikiran: Rutinitas Visualisasi Memori Kerja Visuospatial ala Borges"
 description: "Pelajari bagaimana maestro sastra Argentina Jorge Luis Borges merancang struktur teks 3D dan labirin di dalam pikirannya setelah kehilangan penglihatannya, lalu mendiktekan karyanya secara lisan. Temukan mekanisme neurosains dari memaksimalkan memori kerja visuospasial dan memicu plastisitas lintas modal."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'dikte
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai borges-mental-dictation didasarkan pada <strong>Verifikasi Historis dari Biografi Edwin Williamson *Borges: A Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Edwin Williamson *Borges: A Life* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Plastisitas Lintas Modal dan Prinsip Ekspansi Memori Kerja Visuospatial
+## 1. Plastisitas Lintas Modal dan Prinsip Ekspansi Memori Kerja Visuospatial
 
 Ketika masukan visual luar dibatasi, otak merekrut korteks visual untuk memproses informasi pendengaran, taktil, dan spasial—sebuah fenomena yang dikenal sebagai 'Plastisitas Lintas Modal (Cross-Modal Plasticity)'. Ketika Borges yang buta merakit labirin rumit dan struktur teks di dalam pikirannya, korteks visualnya beroperasi sebagai area asosiasi yang didedikasikan untuk desain logis tingkat tinggi dan tata letak spasial. Memvisualisasikan peta konsep abstrak 3D secara mental dengan mata tertutup secara drastis memperluas kapasitas memori kerja visuospasial antara hipokampus dan korteks prefrontal, membuka intuisi tingkat lanjut untuk merakit data kompleks menjadi kerangka kerja yang koheren.
 
 ---
 
-## Perhatian & Tip: Berfokus pada Antar-Struktur Organik daripada Simbol Teks
-
-Inti dari rutinitas visualisasi Borgesian bukanlah mereproduksi font teks atau ejaan huruf di balik kelopak mata Anda. Ini adalah menggambar 'kerangka struktural 3D' (peta pikiran, organogram spasial, atau model labirin 3D) yang menunjukkan bagaimana konsep-konsep kunci terhubung dan berinteraksi. Berfokuslah pada hubungan kausal abstrak dan struktur organik daripada bentuk huruf harfiah untuk memaksimalkan manfaat neuroplastik bagi memori kerja visuospasial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Inti dari rutinitas visualisasi Borgesian bukanlah mereproduksi font teks atau e
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Berfokus pada Antar-Struktur Organik daripada Simbol Teks
+
+Inti dari rutinitas visualisasi Borgesian bukanlah mereproduksi font teks atau ejaan huruf di balik kelopak mata Anda. Ini adalah menggambar 'kerangka struktural 3D' (peta pikiran, organogram spasial, atau model labirin 3D) yang menunjukkan bagaimana konsep-konsep kunci terhubung dan berinteraksi. Berfokuslah pada hubungan kausal abstrak dan struktur organik daripada bentuk huruf harfiah untuk memaksimalkan manfaat neuroplastik bagi memori kerja visuospasial.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Saat mencoba visualisasi mental, gambar terus terfragmentasi atau kabur. Ada tip?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Inti dari rutinitas visualisasi Borgesian bukanlah mereproduksi font teks atau e
       Ini adalah respons neurologis yang sangat alami. Daripada mencoba gambar terperinci yang jelas dengan segera, mulailah dengan model abstrak yang sangat disederhanakan—menggambar 2 atau 3 kotak atau lingkaran dasar yang dihubungkan oleh garis. Seiring berkembangnya latihan, resolusi visuospasial otak akan meningkat.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah kebiasaan visualisasi 3D dengan mata tertutup benar-benar membantu keterampilan dunia nyata seperti perencanaan atau koding?</span>

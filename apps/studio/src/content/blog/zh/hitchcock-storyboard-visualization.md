@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在头脑中提前百分之百完成：希区柯克的视觉分镜脚本习惯与心理模拟"
 description: "探索惊悚电影大师阿尔弗雷德·希区柯克开机前精密分镜绘制习惯。揭示通过心理模拟激活运动执行网络、消除决策疲劳的神经科学原理与3步骤指南。"
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 hitchcock-storyboard-visualization 的内容基于 <strong>阿尔弗雷德·希区柯克传记与弗朗索瓦·特吕弗访谈史料《希区柯克论电影（Hitchcock/Truffaut）》考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>阿尔弗雷德·希区柯克传记与弗朗索瓦·特吕弗访谈史料《希区柯克论电影（Hitchcock/Truffaut）》考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 刺激运动执行网络与消除决策疲劳（Decision Fatigue）机制
+## 1. 刺激运动执行网络与消除决策疲劳（Decision Fatigue）机制
 
 认知科学研究表明，当大脑在实际执行某项行动前在脑海中对具体步骤展开模拟或目设图解时，主导实际肢体位移的大脑<strong>运动执行网络（Motor Execution Network）</strong>（包含前运动皮层与辅助运动区）会被完全等同激活。这被称为<strong>“心理模拟（Mental Simulation）”</strong>。希区柯克在开机前精细绘制分镜图册的习惯，使其大脑得以在直观视觉层面预先体验执行阶段的各类变数并提前裁决替代战术。正是得益于此，大脑在正式投入实操之际，便能彻底平息因直面繁杂突发状况与抉择卡顿所引发的<strong>决策疲劳（Decision Fatigue）</strong>，确保以零失误与超高推进力交付产出。
 
 ---
 
-## 注意事项：避免沉溺计划构想陷阱，即刻切入实体执行指南
-
-须严防分镜草图沦为单纯的纸面涂鸦并拖延实操（即“计划纵容 Plan Indulgence”）。分镜图册归根结底只是一套服务于实体执行的认知辅助工具。宜将图解流程严苛简化为3-5个粗线条关键阶段，压缩筹备时耗；在完成心理模拟的瞬间，毫不犹豫地切入第一阶段的实体物理行动中。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：避免沉溺计划构想陷阱，即刻切入实体执行指南
+
+须严防分镜草图沦为单纯的纸面涂鸦并拖延实操（即“计划纵容 Plan Indulgence”）。分镜图册归根结底只是一套服务于实体执行的认知辅助工具。宜将图解流程严苛简化为3-5个粗线条关键阶段，压缩筹备时耗；在完成心理模拟的瞬间，毫不犹豫地切入第一阶段的实体物理行动中。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>若觉得每次手绘分镜图册过于繁琐，改用数字软件工具有效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       完全有效！分镜脚本的核心本旨并非考验画工，而是对行动展开阶段化结构重组与心理模拟。借助 Figma、Miro 或简易思维导图软件，以方框图块与文字卡片形式进行轻量化理顺，在认知心理学层面能斩获完全等同的模拟效益。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在实际推进途中若遭遇偏离分镜脚本预设的突发状况，该如何应对？</span>

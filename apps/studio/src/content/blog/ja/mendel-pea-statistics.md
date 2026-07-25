@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "2万9千株のエンドウ豆の統計？グレゴール・メンデルの作業記憶強化法"
 description: "遺伝学の偉大な開拓者グレゴール・メンデル。修道院の庭で毎日数千株のエンドウ豆の変化を数値で精密に記録した彼の忍耐力と、脳の認知構造を鍛えて作業記憶力を高める統計記録法を公開します。"
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「mendel-pea-statistics」は <strong>グレゴール・メンデルの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>グレゴール・メンデルの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## データ分析と認知構造を変える作業記憶トレーニング
+## 1. データ分析と認知構造を変える作業記憶トレーニング
 
 毎日微細な変化を直接目で観察し、数値化して方眼紙に書き留める行為は、脳の前頭葉（Frontal Lobe）に位置する<strong>作業記憶（Working Memory）</strong>領域を強力に活性化します。作業記憶は一時的に情報を脳に保管し加工する、いわば「脳のRAM」のようなものです。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## アナログ統計が脳の認知フィルターを精密に研ぎ澄まします
-
-自動化されたデジタルデータ分析ツールは便利ですが、脳が直接データを収集し分類する能動的な認知過程を省略してしまいます。メンデルのように毎日アナログ方式で自分だけのコア統計を手書きで追跡・記録することは、脳の情報フィルターを精巧に鍛え、忍耐力を構築する最高峰の認知トレーニングです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. アナログ統計が脳の認知フィルターを精密に研ぎ澄まします
+
+自動化されたデジタルデータ分析ツールは便利ですが、脳が直接データを収集し分類する能動的な認知過程を省略してしまいます。メンデルのように毎日アナログ方式で自分だけのコア統計を手書きで追跡・記録することは、脳の情報フィルターを精巧に鍛え、忍耐力を構築する最高峰の認知トレーニングです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>手でグラフを描かなければなりませんか？Excelを使った方が便利ではありませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       Excelやデータアプリは処理過程が自動化されているため、視覚的認知刺激が低くなります。直接定規を当てて手で線を描き数値の上下を描写する行為は、脳の下頭頂小葉領域をはるかに強力に刺激し、データの背景にある因果関係や meaningful なパターンを直感的に洞察する手助けをします。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>数値に大きな変化がなくても記録する必要がありますか？</span>

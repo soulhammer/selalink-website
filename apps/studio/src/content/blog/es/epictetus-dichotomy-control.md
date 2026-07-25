@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Filósofo Nacido Esclavo que Enseñó a Ignorar lo Incontrolable: La Rutina de Reflexión Nocturna de la Dicotomía del Control de Epicteto"
 description: "Descubra cómo Epicteto, el maestro estoico nacido en la esclavitud, eliminó la ansiedad diaria dividiendo estrictamente la realidad entre lo que está bajo nuestro control y lo que no. Explore su método de diario nocturno a través de la neurociencia cognitiva."
 pubDate: "2026-05-15"
@@ -38,22 +39,20 @@ En la publicación de hoy, desglosamos la neurociencia cognitiva detrás de la r
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre epictetus-dichotomy-control se basa en <strong>Verificación Histórica de los *Discursos* y el *Enquiridión* de Epicteto e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de los *Discursos* y el *Enquiridión* de Epicteto e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Internalización del Control e Inhibición del Cortisol en la Amígdala
+## 1. Internalización del Control e Inhibición del Cortisol en la Amígdala
 
 El estrés crónico y la ansiedad se originan cuando el cerebro se obsesiona con variables externas fuera de su control (como las reacciones de los demás o el pasado), generando impotencia. La dicotomía del control de Epicteto desplaza su 'Lugar de Control' de los resultados externos a la agencia interna. Al reconocer y soltar lo incontrolable, la corteza prefrontal regula el sistema límbico, calmando la hiperactividad en la amígdala y reduciendo drásticamente los niveles de cortisol.
 
 ---
 
-## Precaución: Su Jurisdicción Termina en Sus Propias Acciones
-
-Culparse cuando las respuestas externas o los resultados son desfavorables —a pesar de haber dado lo mejor de sí— lleva al cerebro al agotamiento mental. Su único deber termina en su esfuerzo consciente; el resultado final pertenece al universo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Culparse cuando las respuestas externas o los resultados son desfavorables —a 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Su Jurisdicción Termina en Sus Propias Acciones
+
+Culparse cuando las respuestas externas o los resultados son desfavorables —a pesar de haber dado lo mejor de sí— lleva al cerebro al agotamiento mental. Su único deber termina en su esfuerzo consciente; el resultado final pertenece al universo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es realmente imposible controlar la actitud o reacción de otra persona?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Culparse cuando las respuestas externas o los resultados son desfavorables —a 
       Sí, absolutamente. Su control llega solo hasta su esfuerzo sincero por influir; la forma en que la otra persona responde pertenece 100% a su dominio. Aceptar este límite elimina el estrés interpersonal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Ignorar los resultados disminuye mi pasión o motivación?</span>

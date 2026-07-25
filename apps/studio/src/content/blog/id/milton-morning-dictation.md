@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jam 4 Pagi, Bagaimana Penyair Buta Mendiktekan 'Paradise Lost': Meditasi Pagi Hening John Milton"
 description: "Temukan rutinitas meditasi jam 4 pagi dari John Milton, yang menggubah puisi epik di tengah kebutaan total. Pelajari bagaimana pemblokiran input visual memaksimalkan memori kerja dan pemrosesan bahasa otak."
 pubDate: "2026-04-09"
@@ -33,25 +34,23 @@ Dalam artikel ini, kita mempelajari prinsip ilmu saraf tentang pemblokiran rangs
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai milton-morning-dictation didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi John Milton & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi John Milton & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kekuatan Kognitif Fokus Hening: Memaksimalkan Kapasitas Otak Melalui Pemblokiran Visual
+## 1. Kekuatan Kognitif Fokus Hening: Memaksimalkan Kapasitas Otak Melalui Pemblokiran Visual
 
 Menurut penelitian ilmu saraf, pemrosesan informasi visual mengonsumsi lebih dari 50% sumber daya indra otak. Saat masukan visual diblokir secara total, otak mengalihkan jaringan saraf yang bebas ini ke pemanggilan memori jangka pendek dan perangkaian bahasa. Rutinitas Milton di tempat tidur pada fajar yang gelap memberikan lingkungan ideal untuk memaksimalkan memori kerja lobus frontal.
 
 ---
 
-## Kendalikan Rangsangan Luar Pagi Hari untuk Fokus Mendalam
-
-Bagi John Milton, kegelapan fajar bukanlah keterbatasan, melainkan kanvas suci untuk berkreasi. Dengan menunda rangsangan luar dan tugas-tasia untuk berfokus pada suara hatinya, ia melahirkan karya abadi. Dibandingkan langsung memeriksa email atau media sosial saat bangun tidur, berikan otak Anda waktu tenang untuk berpikir mendalam terlebih dahulu.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Bagi John Milton, kegelapan fajar bukanlah keterbatasan, melainkan kanvas suci u
     Segera setelah perangkaian mental selesai, ambil pulpen untuk mencatatnya atau bicara ke perekam suara untuk diubah menjadi teks. Pindahkan gagasan dari kepala ke media fisik untuk mengosongkan kapasitas memori.
   </p>
 </div>
+
+---
+
+## 3. Kendalikan Rangsangan Luar Pagi Hari untuk Fokus Mendalam
+
+Bagi John Milton, kegelapan fajar bukanlah keterbatasan, melainkan kanvas suci untuk berkreasi. Dengan menunda rangsangan luar dan tugas-tasia untuk berfokus pada suara hatinya, ia melahirkan karya abadi. Dibandingkan langsung memeriksa email atau media sosial saat bangun tidur, berikan otak Anda waktu tenang untuk berpikir mendalam terlebih dahulu.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

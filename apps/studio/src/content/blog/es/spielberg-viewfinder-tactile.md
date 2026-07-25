@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El maestro que convirtió la gran imaginación en realidad tocando juguetes: el método de estimulación táctil de Steven Spielberg"
 description: "Steven Spielberg, el director más exitoso de la historia del cine moderno. Exploramos su rutina de estimulación del hemisferio derecho, que consistía en estrechar su campo de visión a través de la lente de un visor y tocar juguetes a escala cada vez que se atascaba con un guion o encuadre de cámara, así como formas modernas de utilizar herramientas de inquietud (fidgets)."
 pubDate: "2026-04-20"
@@ -36,22 +37,20 @@ En el artículo de hoy, examinamos las raíces neurocientíficas de la rutina de
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre spielberg-viewfinder-tactile se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Steven Spielberg e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de Steven Spielberg e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulación de la corteza somatosensorial y aceleración del cálculo espacial del lóbulo parietal
+## 1. Estimulación de la corteza somatosensorial y aceleración del cálculo espacial del lóbulo parietal
 
 La sofisticada retroalimentación háptica obtenida al tocar finamente los complejos contornos tridimensionales de un modelo con las yemas de los dedos estimula fuertemente la corteza somatosensorial del cerebro. Esto estimula simultáneamente el área de asociación del lóbulo parietal del hemisferio derecho, responsable del razonamiento espacial y la composición tridimensional de las escenas. Además, el reencuadre visual (bloquear el campo de visión a través de la lente de un visor analógico o una estrecha rendija y enfocarse en un solo objeto) filtra el enorme ruido visual que se dirige al lóbulo frontal, concentrando los recursos cognitivos en el cálculo de la composición estructural del objetivo.
 
 ---
 
-## Trampas de las herramientas táctiles excesivas y consejos de conexión de planificación
-
-Al tocar herramientas fidget para estimular las yemas de los dedos, si la herramienta es demasiado vistosa o contiene mecanismos complejos, se produce una dispersión cognitiva, ya que el cerebro se deslumbra con la diversión de operar la herramienta en sí. Por lo tanto, para fines de estimulación cerebral, utilizar formas simples y materiales sólidos, como modelos de metal frío o juguetes de madera, es mucho más ventajoso para la descarga cognitiva. Además, limite el tiempo de manipulación a no más de 10 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Al tocar herramientas fidget para estimular las yemas de los dedos, si la herram
   </p>
 </div>
 
+---
+
+## 3. Trampas de las herramientas táctiles excesivas y consejos de conexión de planificación
+
+Al tocar herramientas fidget para estimular las yemas de los dedos, si la herramienta es demasiado vistosa o contiene mecanismos complejos, se produce una dispersión cognitiva, ya que el cerebro se deslumbra con la diversión de operar la herramienta en sí. Por lo tanto, para fines de estimulación cerebral, utilizar formas simples y materiales sólidos, como modelos de metal frío o juguetes de madera, es mucho más ventajoso para la descarga cognitiva. Además, limite el tiempo de manipulación a no más de 10 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Girar un fidget spinner o un bolígrafo común con los dedos produce el mismo efecto?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Al tocar herramientas fidget para estimular las yemas de los dedos, si la herram
       El simple hecho de girar repetidamente un spinner o un bolígrafo se clasifica como un hábito motor inconsciente que solo estimula el circuito de los ganglios basales del cerebro y proporciona una intensidad de estimulación de la corteza somatosensorial (retroalimentación háptica) muy baja para inducir un cálculo espacial de alto nivel en el lóbulo parietal. Por lo tanto, tocar directamente juguetes o cubos de modelos analógicos, donde las formas y contornos geométricos claros obligan al cerebro a coordinar movimientos finos de las yemas de los dedos para reconocer las formas, produce efectos de excitación intelectual mucho más superiores.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Hay otros consejos para reducir el campo de visión en la vida cotidiana cuando no se dispone de una lente de visor óptico?</span>

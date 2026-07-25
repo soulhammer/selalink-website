@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El reinicio nocturno de un Premio Nobel de la Paz: la rutina de órgano nocturno de Albert Schweitzer"
 description: "Cómo el Dr. Albert Schweitzer superó el agotamiento extremo en un hospital de la selva africana tocando el órgano de Bach cada noche: guía de reinicio del sistema nervioso autónomo."
 pubDate: "2026-01-29"
@@ -36,14 +37,14 @@ En este artículo, presentamos la ciencia de relajación del sistema nervioso au
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre schweitzer-night-organ se basa en <strong>Investigación basada en biografías históricas y registros autobiográficos de Albert Schweitzer y Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación basada en biografías históricas y registros autobiográficos de Albert Schweitzer y Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activación del sistema nervioso parasimpático inducida por melodías clásicas estructuradas
+## 1. Activación del sistema nervioso parasimpático inducida por melodías clásicas estructuradas
 
 El estrés excesivo durante el día sobreactiva continuamente el Sistema Nervioso Simpático, elevando el cortisol y alterando el equilibrio autónomo.
 
@@ -51,9 +52,7 @@ Las melodías clásicas estructuradas con un tempo de 60–80 BPM, como la músi
 
 ---
 
-## Elija música relajante en lugar de pantallas intensas antes de acostarse
-
-Consumir videos o textos estimulantes tarde en la noche impide que el cerebro entre en modo descanso. Al igual que el Dr. Schweitzer, envíe señales de relajación mediante la inmersión musical. Diseñar el entorno físico previo es clave para la constancia.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Consumir videos o textos estimulantes tarde en la noche impide que el cerebro en
   </p>
 </div>
 
+---
+
+## 3. Elija música relajante en lugar de pantallas intensas antes de acostarse
+
+Consumir videos o textos estimulantes tarde en la noche impide que el cerebro entre en modo descanso. Al igual que el Dr. Schweitzer, envíe señales de relajación mediante la inmersión musical. Diseñar el entorno físico previo es clave para la constancia.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Puedo escuchar baladas con letra en lugar de música clásica?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Consumir videos o textos estimulantes tarde en la noche impide que el cerebro en
       La música con letra reactiva las áreas del lenguaje del cerebro, dificultando el descanso total. La música instrumental sin letra (clássica, jazz, lo-fi) es mucho más efectiva para la relajación autónoma.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Ayuda quedarse dormido escuchando música?</span>

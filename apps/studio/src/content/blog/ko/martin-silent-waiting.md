@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "도화지 같은 마음: 아그네스 마틴의 정적 대기 루틴"
 description: "캔버스 앞 의자에 앉아 잡념이 완전히 사라질 때까지 기다린 뒤에야 비로소 그림을 그렸던 화가 아그네스 마틴. 두뇌의 노이즈를 청소하고 고도의 통찰과 영감을 자극하는 명상의 인지과학을 알아봅니다."
 pubDate: "2026-06-12"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>아그네스 마틴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 martin-silent-waiting 루틴을 다룹니다.
+      본 콘텐츠는 <strong>아그네스 마틴 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 정신적 노이즈(Cognitive Noise) 감소와 알파-세타파 동조화
+## 1. 정신적 노이즈(Cognitive Noise) 감소와 알파-세타파 동조화
 
 현대인들의 뇌는 끊임없이 무언가를 계산하고 해결해야 한다는 압박에 시달리며 빠른 템포의 베타파(Beta Waves)를 과도하게 방출합니다. 이 상태는 뇌의 인지적 노이즈를 증폭시켜 심도 깊은 통찰이나 직관적 창의성을 방해합니다. 아그네스 마틴처럼 의식적으로 행동을 멈추고 내부의 감각과 조용한 정적에 집중하면, 뇌는 불안을 가라앉히는 <strong>알파파(Alpha Waves)</strong>를 지나 고요하고 깊은 성찰 상태의 <strong>세타파(Theta Waves)</strong>로 기어를 바꿉니다. 이 뇌파 동조화는 전두엽의 방어적인 논리 필터를 걷어내어, 장기 기억과 무의식 속에 파묻혀 있던 최적의 해결책과 신선한 아이디어를 선명하게 활성화합니다.
 
 ---
 
-## 주의사항 및 팁
-
-정적 대기 중 뇌를 비우기 위해 애쓰다가 역효과로 '잡념과의 전쟁'을 벌이는 함정에 빠지지 않도록 유의해야 합니다. 떠오르는 생각을 억지로 억누르려(Suppression) 하면 뇌는 도리어 그 생각에 더 강하게 집착하게 됩니다. 이를 심리학에서는 '리바운드 효과(Rebound Effect)'라고 부릅니다. 생각이 떠오를 때는 억지로 지우려 하지 말고, 흐르는 구름을 바라보듯 '아, 내가 이런 생각을 하고 있구나'라며 건조하게 인정하고 다시 호흡의 부드러운 흐름으로 주의의 닻을 돌려놓는 마음챙김(Mindfulness) 태도가 필요합니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     정신적 안개가 걷히고 가벼운 집중 상태가 찾아오면, 가장 먼저 수행할 단 하나의 본질적 핵심 과제만 켜고 작업을 개시합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+정적 대기 중 뇌를 비우기 위해 애쓰다가 역효과로 '잡념과의 전쟁'을 벌이는 함정에 빠지지 않도록 유의해야 합니다. 떠오르는 생각을 억지로 억누르려(Suppression) 하면 뇌는 도리어 그 생각에 더 강하게 집착하게 됩니다. 이를 심리학에서는 '리바운드 효과(Rebound Effect)'라고 부릅니다. 생각이 떠오를 때는 억지로 지우려 하지 말고, 흐르는 구름을 바라보듯 '아, 내가 이런 생각을 하고 있구나'라며 건조하게 인정하고 다시 호흡의 부드러운 흐름으로 주의의 닻을 돌려놓는 마음챙김(Mindfulness) 태도가 필요합니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "无意识之舞：乔治·巴兰钦利用简单家务的编舞法"
 description: "探索编舞家乔治·巴兰钦在编舞灵感枯竭时，如何通过烫衣服或洗衣服等简单重复的家务来构思灵感，并揭示简单肢体活动如何关掉前额叶审查并激活预设模式网络（DMN）的神经机制。"
 pubDate: "2026-04-01"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 balanchine-ironing-choreography 的内容基于 <strong>乔治·巴兰钦传记《By George Balanchine》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>乔治·巴兰钦传记《By George Balanchine》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 前额叶审查的放松与DMN缔合回路的激活
+## 1. 前额叶审查的放松与DMN缔合回路的激活
 
 当我们集中精力强行解决问题时，大脑的前额叶皮层会强烈激活自上而下的分析控制回路（Top-down Control），毫不留情地过滤掉不符合逻辑的琐碎想法。这种“前额叶审查”状态封印了创造力。相反，当执行熨烫或打扫等几乎无需大脑思考的简单重复性运动（Monotonous Motor Task）时，前额叶的过度活跃状态得以松弛。趁此空档，大脑的“预设模式网络（DMN）”被激活，散落在无意识领域的丰富记忆碎片开始自由且出人意料地重新组合（Combinatorial Play）。结果，在熨斗重复的节奏中，原本受阻的编舞动线便自然而然地被联想并引申出来。
 
 ---
 
-## 注意事项与提示：排除认知负担活动
-
-利用轻微家务或肢体动作放松大脑时，切忌进行需要高度注意力或消耗认知能力的行为。例如为了获取灵感而烹饪复杂菜谱，或在打扫时收听财经新闻等“多任务处理（Multitasking）”，这会导致大脑无法进入DMN状态，反而增加认知疲劳。核心在于将注意力大致投射于手尖的触感与身体规律的节奏上，让头脑处于自由漫游的松弛状态。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     在简单劳动中，将无意识隙缝里突然浮现的企划或关键词记录下来以免遗忘，然后立即回到原本的工作桌前延续这股势头。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与提示：排除认知负担活动
+
+利用轻微家务或肢体动作放松大脑时，切忌进行需要高度注意力或消耗认知能力的行为。例如为了获取灵感而烹饪复杂菜谱，或在打扫时收听财经新闻等“多任务处理（Multitasking）”，这会导致大脑无法进入DMN状态，反而增加认知疲劳。核心在于将注意力大致投射于手尖的触感与身体规律的节奏上，让头脑处于自由漫游的松弛状态。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

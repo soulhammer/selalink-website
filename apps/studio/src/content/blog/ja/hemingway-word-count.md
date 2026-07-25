@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎日書いた単語数をチャートに記録し自分をモニタリングする：アーネスト・ヘミングウェイの定量執筆チャートとドパミン報酬ルーティン"
 description: "ノーベル賞受賞作家アーネスト・ヘミングウェイが毎日自分の執筆単語数をチャートに記録した習慣。自己モニタリング（Self-Monitoring）効果とドパミン報酬回路、前頭前野活性化の脳科学的原理を探求します。"
 pubDate: "2026-02-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「hemingway-word-count」は <strong>アーネスト・ヘミングウェイ回想録『移動祝祭日（A Moveable Feast）』およびジョージ・プリンプトン・インタビュー（Paris Review, 1958）史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アーネスト・ヘミングウェイ回想録『移動祝祭日（A Moveable Feast）』およびジョージ・プリンプトン・インタビュー（Paris Review, 1958）史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自己モニタリング（Self-Monitoring）とドパミン報酬回路の脳科学
+## 1. 自己モニタリング（Self-Monitoring）とドパミン報酬回路の脳科学
 
 目標行動に対する定量的な記録とモニタリングは、行動心理学で<strong>「自己モニタリング（Self-Monitoring）」</strong>効果と呼ばれます。私たちの脳は行動の結果が定量的に可視化される時、即座のフィードバックを認識し<strong>ドパミン報酬回路（Dopamine Reward Circuit）</strong>を稼働させます。毎日自分の遂行量を正直に記録する行動は、曖昧だった努力を視覚的成就へと変えてくれ、<strong>前頭前野（Prefrontal Cortex）</strong>にこれを伝達して次の段階へと進むことができる強力な内的動機を提供します。ヘミングウェイはこのドパミン・フィードバックループを直感的に活用し、毎日ブレない執筆量を維持することができたのです。
 
 ---
 
-## 注意事項：結果の大きさより「毎日正直に記録する行為」に集中するルール
-
-曖昧な努力は曖昧な結果につながります。自分の行動を具体的な数字で観察し始める時、脳は初めて正直な自己統制力を発揮し始めます。数字の大きさに関係なく、毎日記録板に痕跡を残しながら目標の糸を維持してみてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：結果の大きさより「毎日正直に記録する行為」に集中するルール
+
+曖昧な努力は曖昧な結果につながります。自分の行動を具体的な数字で観察し始める時、脳は初めて正直な自己統制力を発揮し始めます。数字の大きさに関係なく、毎日記録板に痕跡を残しながら目標の糸を維持してみてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ヘミングウェイはなぜ毎日単語数をチャートに記録したのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       自分自身を誤魔化さず執筆の進行状況を客観的に可視化し、スランプ防止および創作生産性の規則的な流れを強制するためでした。数字で可視化された成果はドパミン報酬回路を刺激し、翌日の没頭を誘導します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>執筆以外に一般的な業務や勉強にもこの記録ルーティンは有効ですか？</span>

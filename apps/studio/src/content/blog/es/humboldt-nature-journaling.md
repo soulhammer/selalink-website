@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ver la Tierra como un Organismo Vivo: La Rutina de Diario de Campo y Sincronización de Memoria de Trabajo de Alexander von Humboldt"
 description: "Descubra cómo Alexander von Humboldt, padre de la ecología moderna, creó su visión de 'Kosmos' registrando datos de presión y flora en tiempo real en el monte Chimborazo. Explore la neurociencia del registro de campo."
 pubDate: "2026-02-04"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre humboldt-nature-journaling se basa en <strong>Verificación Histórica de *La invención de la naturaleza* de Andrea Wulf, Archivos del *Kosmos* e Investigación en Neurociencia Cognitiva y Ecología</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *La invención de la naturaleza* de Andrea Wulf, Archivos del *Kosmos* e Investigación en Neurociencia Cognitiva y Ecología</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Entrada Sensorial en Tiempo Real y Sincronización de Precisión de la Memoria de Trabajo
+## 1. Entrada Sensorial en Tiempo Real y Sincronización de Precisión de la Memoria de Trabajo
 
 A medida que pasa el tiempo tras una observación, la memoria humana reconstruye y racionaliza de forma natural los datos recopilados, filtrando hechos a través de sesgos. El protocolo de Humboldt sincroniza la <strong>Entrada Sensorial</strong> directamente con la <strong>Memoria de Trabajo</strong> con una latencia mínima. Estructurar observaciones y métricas en texto y bocetos evita la distorsión, permitiendo a la corteza prefrontal mantener un elevado <strong>Reconocimiento de Patrones</strong> entre variables desconectadas.
 
 ---
 
-## Precaución: Reduzca el Brecha de Tiempo Entre Observación y Registro para Evitar Sesgos
-
-Posponer el registro pensando 'lo anotaré todo al volver a la oficina' permite que el cerebro distorsione los datos numéricos en cuestión de horas. Adherirse a la regla de Humboldt —reducir el intervalo entre observación y registro a menos de 5 minutos— es la clave para construir mapas cognitivos precisos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Posponer el registro pensando 'lo anotaré todo al volver a la oficina' permite 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Reduzca el Brecha de Tiempo Entre Observación y Registro para Evitar Sesgos
+
+Posponer el registro pensando 'lo anotaré todo al volver a la oficina' permite que el cerebro distorsione los datos numéricos en cuestión de horas. Adherirse a la regla de Humboldt —reducir el intervalo entre observación y registro a menos de 5 minutos— es la clave para construir mapas cognitivos precisos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es efectiva esta rutina aunque el registro rápido en el campo resulte en una caligrafía desordenada?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Posponer el registro pensando 'lo anotaré todo al volver a la oficina' permite 
       ¡Sí, totalmente! El beneficio neurocientífico clave no depende de la belleza caligráfica, sino del 'acoplamiento instantáneo entre la entrada sensorial y la memoria de trabajo'. El reordenamiento limpio se puede realizar más tarde.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo sustituir la escritura manual por grabaciones de audio digitales o notas de voz?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Berjalan Melalui Pemakaman demi Inspirasi: Rutinitas 'Kontemplasi Hening dan Menyendiri' Mary Shelley"
 description: "Temukan mengapa Mary Shelley, penulis 'Frankenstein', berjalan melalui pemakaman dan tempat historis yang hening. Pelajari sains otak tentang ketakjuban dan refleksi yang merangsang kreativitas mendalam."
 pubDate: "2026-07-07"
@@ -33,17 +34,17 @@ Berikut prinsip ilmiah ketakjuban kognitif dan imajinasi mendalam dari rutinitas
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai shelley-cemetery-walk didasarkan pada <strong>Catatan literatur historis Mary Shelley & penelitian Psikologi Lingkungan tentang Ketakjuban (Awe)</strong>.
+      Konten ini didasarkan pada <strong>Catatan literatur historis Mary Shelley & penelitian Psikologi Lingkungan tentang Ketakjuban (Awe)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ketakjuban Kognitif dan Aktivasi Jaringan Otak Reflektif di Ruang Hening
+## 1. Ketakjuban Kognitif dan Aktivasi Jaringan Otak Reflektif di Ruang Hening
 
 Psikologi lingkungan menunjukkan bahwa memasuki ruang hening bersejarah seperti pemakaman memicu emosi kognitif khusus: 'Ketakjuban' (Awe).
 
@@ -51,9 +52,7 @@ Ketakjuban menenangkan jaringan otak egosentris penyebab stres, mengaktifkan jar
 
 ---
 
-## Manfaatkan Ruang Bersejarah atau Alam yang Tenang
-
-Bagi Mary Shelley, pemakaman adalah suaka untuk merenungi kehidupan. Anda tidak harus ke pemakaman—carilah jalan setapak di hutan tua, cagar budaya, perpustakaan tenang, atau kuil. Kuncinya adalah memberi otak Anda ruang yang bebas dari kebisingan komersial.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Bagi Mary Shelley, pemakaman adalah suaka untuk merenungi kehidupan. Anda tidak 
     Berhentilah di bawah pohon atau bangku lalu buka buku catatan. Tuliskan pemikiran mendalam atau inspirasi tentang kehidupan tanpa rasa ragu.
   </p>
 </div>
+
+---
+
+## 3. Manfaatkan Ruang Bersejarah atau Alam yang Tenang
+
+Bagi Mary Shelley, pemakaman adalah suaka untuk merenungi kehidupan. Anda tidak harus ke pemakaman—carilah jalan setapak di hutan tua, cagar budaya, perpustakaan tenang, atau kuil. Kuncinya adalah memberi otak Anda ruang yang bebas dari kebisingan komersial.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

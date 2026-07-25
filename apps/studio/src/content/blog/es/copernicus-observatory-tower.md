@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Torre de Observación Inquebrantable: La Rutina de Concentración en Espacio Fijo y Condicionamiento Ambiental de Nicolás Copérnico"
 description: "Descubra cómo Nicolás Copérnico mantuvo una torre de observación fija en Frombork durante décadas. Explore la neurociencia cognitiva del condicionamiento espacial y la memoria dependiente del contexto que elimina el tiempo de calentamiento cognitivo."
 pubDate: "2026-05-07"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre copernicus-observatory-tower se basa en <strong>Verificación Histórica de *Sobre las revoluciones de las orbes celestes (De revolutionibus orbium coelestium)* de Nicolás Copérnico e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de *Sobre las revoluciones de las orbes celestes (De revolutionibus orbium coelestium)* de Nicolás Copérnico e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Por Qué Fijar el Espacio de Trabajo Elimina el Calentamiento Cerebral: Memoria Dependiente del Contexto y Condicionamiento Espacial
+## 1. Por Qué Fijar el Espacio de Trabajo Elimina el Calentamiento Cerebral: Memoria Dependiente del Contexto y Condicionamiento Espacial
 
 Una causa principal de la ineficiencia cognitiva es el 'Coste de Cambio de Contexto'. Trabajar en entornos variables obliga al cerebro a gastar energía prefrontal mapeando nuevas señales sensoriales, generando retrasos en el calentamiento cognitivo. Sin embargo, dedicar un espacio exclusivo a una sola tarea intelectual establece la 'Memoria Dependiente del Contexto' a través de las redes hipocámpico-prefrontales. Al sentarse en esa estación designada, el cerebro omite la fase de calentamiento, activando la recuperación asociativa y cambiando el modo de trabajo en segundos.
 
 ---
 
-## Precauciones y Consejos: Prevenir la Contaminación de Señales Ambientales y Vincular una Sola Acción
-
-El principal error al construir una rutina de espacio fijo es contaminar las señales ambientales realizando actividades no laborales —como ver vídeos, jugar o usar redes sociales— en ese escritorio. Usar un espacio de trabajo para el entretenimiento destruye la asociación neuronal entre el espacio y el enfoque ejecutivo. Vincule estrictamente 'una sola acción cognitiva principal' a su espacio. Al descansar, levántese y muévase a otra zona para preservar el condicionamiento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ El principal error al construir una rutina de espacio fijo es contaminar las se�
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Prevenir la Contaminación de Señales Ambientales y Vincular una Sola Acción
+
+El principal error al construir una rutina de espacio fijo es contaminar las señales ambientales realizando actividades no laborales —como ver vídeos, jugar o usar redes sociales— en ese escritorio. Usar un espacio de trabajo para el entretenimiento destruye la asociación neuronal entre el espacio y el enfoque ejecutivo. Vincule estrictamente 'una sola acción cognitiva principal' a su espacio. Al descansar, levántese y muévase a otra zona para preservar el condicionamiento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo puedo aplicar esta rutina si vivo en un estudio pequeño y no puedo aislar un espacio de trabajo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ El principal error al construir una rutina de espacio fijo es contaminar las se�
       Si el aislamiento físico es imposible, cree señales sensoriales artificiales: use una 'lámpara de escritorio dedicada' encendida únicamente para trabajar, o extienda una 'alfombrilla de escritorio' exclusiva para sesiones de concentración. Crear una señal visual constante entrena las redes prefrontales de forma idéntica.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Qué debo hacer si me siento en mi escritorio designado pero me distraigo y no logro empezar en 5 minutos?</span>

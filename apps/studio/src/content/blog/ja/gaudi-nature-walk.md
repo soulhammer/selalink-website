@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "バルセロナを4km歩いた巨匠：アントニ・ガウディの創造的散歩法と有機的建築インスピレーションルーティン"
 description: "天才建築家アントニ・ガウディ。毎日4kmずつバルセロナを歩き、自然の構造を建築物へ移植した彼の散歩ルーティンと、歩行を通じたアイデア発想法、脳科学的原理を解き明かします。"
 pubDate: "2026-04-13"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「gaudi-nature-walk」は <strong>ハイス・ファン・ヘンスベルヘン『ガウディ評伝（Gaudí: The Biography）』考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ハイス・ファン・ヘンスベルヘン『ガウディ評伝（Gaudí: The Biography）』考証＆認知神経科学（Cognitive Neuroscience）および環境心理学（Environmental Psychology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳の海馬と創造性を活性化する「身体的散歩」と認知の柔軟性
+## 1. 脳の海馬と創造性を活性化する「身体的散歩」と認知の柔軟性
 
 デスクの前に長く座って一つの問題に執着していると、脳の前頭葉は緊張状態に入り、認知の柔軟性が急激に減少します。脳回路が固定され、同じ思考のみを反復する膠着状態に到達してしまうのです。ガウディの4km散歩ルーティンは、脳に「身体的活性」と「視覚的刺激」を同時に与え、思考の停滞を解決する最も自然な脳刺激法でした。ウォーキング運動は心拍数を上げ、脳の<strong>海馬（Hippocampus）</strong>と前頭葉に血流を強力に供給し、認知の柔軟性を増進させます。スタンフォード大学の研究チームによると、歩く行為だけでも創造的思考の出力が座っている時より平均60%も上昇するという事実が証明されました。歩きながら出会う自然物や都心の構造物は<strong>視覚皮質（Visual Cortex）</strong>の多様なニューロンを刺激し、脳内に断片化されていた記憶を新しい観点から有機的に調和させる驚くべき認知連結作用を遂行します。
 
 ---
 
-## 注意事項：激しい単純運動と区別される「有機的観察」中心のルール
-
-天才建築家ガウディにとって歩く行為は、単なる体力鍛錬やカロリー消費ではなく、自然の形態をスキャンし脳内の幾何学公式を有機的に連結する精密な精神的設計過程でした。単に素早く歩いて目的地に到着することだけに執着せず、歩みのテンポを調節しながら目の前の自然と建築構造物のパターンを細心に観察するゆとりを確保しなければなりません。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：激しい単純運動と区別される「有機的観察」中心のルール
+
+天才建築家ガウディにとって歩く行為は、単なる体力鍛錬やカロリー消費ではなく、自然の形態をスキャンし脳内の幾何学公式を有機的に連結する精密な精神的設計過程でした。単に素早く歩いて目的地に到着することだけに執着せず、歩みのテンポを調節しながら目の前の自然と建築構造物のパターンを細心に観察するゆとりを確保しなければなりません。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>必ず自然のある土の道や公園を歩かなければ効果はありませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       自然の景観がストレスを減らし注意力を回復させるのに最も効果的であることは事実です。しかし、都心の非定型的な路地やユニークな建築物を見ながら歩くことも、脳の視覚皮質を多様に刺激するため十分に素晴らしい代替案となります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>早く走るジョギングやランニングマシンで代替できますか？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Surligner des documents à 2 heures du matin pour filtrer les enjeux politiques : L'habitude de raffinage de l'information de Margaret Thatcher"
 description: "En tant que Première ministre britannique connue sous le nom de Dame de Fer, elle lisait des piles de documents officiels et d'articles chaque nuit, annotant des remarques critiques précises pour garder l'initiative cognitive."
 pubDate: "2026-04-05"
@@ -31,25 +32,23 @@ Dans cet article, nous explorons les principes en sciences cognitives derrière 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant thatcher est basée sur <strong>Biographies historiques et récits autobiographiques de Margaret Thatcher & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques de Margaret Thatcher & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analyse des principes neuroscientifiques du succès
+## 1. Analyse des principes neuroscientifiques du succès
 
 Extraire les axes d'information essentiels de vastes ensembles de données et appliquer un filtrage visuel avec des surligneurs stimule fortement les circuits d'abstraction de l'information du cerveau. Cela élève la résolution du filtre cognitif du cortex préfrontal, entraînant un jugement stratégique de haut niveau.
 
 ---
 
-## Conseils en science du comportement pour une mise en œuvre réussie
-
-Ne surlignez pas toutes les phrases. La clé est d'appliquer le surligneur de manière ciblée sur moins de 10 % du texte global, offrant au cerveau un contraste visuel net. Créez un environnement physique stimulant plutôt que de compter uniquement sur la volonté.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Ne surlignez pas toutes les phrases. La clé est d'appliquer le surligneur de ma
   </p>
 </div>
 
+---
+
+## 3. Conseils en science du comportement pour une mise en œuvre réussie
+
+Ne surlignez pas toutes les phrases. La clé est d'appliquer le surligneur de manière ciblée sur moins de 10 % du texte global, offrant au cerveau un contraste visuel net. Créez un environnement physique stimulant plutôt que de compter uniquement sur la volonté.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Dois-je effectuer une routine de briefing de planning chaque matin ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Ne surlignez pas toutes les phrases. La clé est d'appliquer le surligneur de ma
       Oui, passer en revue à voix haute les priorités du planning 30 minutes avant de commencer un travail intense active de manière proactive le contrôle exécutif préfrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment puis-je le remplacer si je ne dispose pas d'un tableau de notes dédié ?</span>

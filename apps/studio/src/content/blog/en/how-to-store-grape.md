@@ -21,6 +21,7 @@ faqs:
     answer: "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
   - question: "How should I handle and store bruised or damaged parts?"
     answer: "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+
 ---
 
 Have you ever stored grapes in the fridge only to find them fall off the stems and turn mushy? Today, FreshSnap shares scientific storage tips to keep grapes firm and fresh.
@@ -29,10 +30,10 @@ Have you ever stored grapes in the fridge only to find them fall off the stems a
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>RDA & USDA</strong>.
+      Based on official storage standards. <strong>RDA & USDA</strong>.
     </p>
   </div>
 </div>

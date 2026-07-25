@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rutinitas Penggosokan Lensa Sferis Antonie van Leeuwenhoek: Menembus Esensi Melalui Mikropasien, Pengamatan Mikro, dan Relaksasi Serebelum"
 description: "Pelajari bagaimana Antonie van Leeuwenhoek, Bapak Mikrobiologi, menggosok lensa kaca sferis 500x dengan tangan untuk menemukan bakteri dan mikroorganisme. Temukan neurosains imersi taktil-visual, relaksasi serebelum, flow gelombang alfa, dan panduan 3 langkah."
 pubDate: "2026-04-25"
@@ -33,25 +34,23 @@ Bekerja di toko kainnya di Delft, Leeuwenhoek awalnya mencari cara untuk memerik
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai leeuwenhoek-lens-grinding didasarkan pada <strong>Verifikasi Historis dari Biografi Antonie van Leeuwenhoek, Arsip Korespondensi Royal Society & Penelitian Neurosains Kognitif serta Sains Kontrol Motorik</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Antonie van Leeuwenhoek, Arsip Korespondensi Royal Society & Penelitian Neurosains Kognitif serta Sains Kontrol Motorik</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaksasi Serebelum & Ganglia Basalis dan Aktivasi Flow Gelombang Alfa
+## 1. Relaksasi Serebelum & Ganglia Basalis dan Aktivasi Flow Gelombang Alfa
 
 Studi neurosains menunjukkan bahwa memasangkan kontrol motorik tangan yang halus dan stabil dengan mikro-fokus visual yang intens mengalihkan frekuensi gelombang otak dari gelombang Beta yang stres menjadi <strong>Gelombang Alfa</strong> dan <strong>Gelombang Teta</strong> yang rileks. Proses ini menenangkan gairah di dalam <strong>Serebelum</strong> dan <strong>Ganglia Basalis</strong>. Secara bersamaan, ini membungkam kebisingan di <strong>Korteks Prefrontal</strong>, membenamkan otak ke dalam kondisi <strong>Flow</strong>.
 
 ---
 
-## Perhatian: Menghilangkan Ketidaksabaran Hasil untuk Mengembangkan Mikropasien
-
-Tahan diri dari menuntut terobosan instan atau imbalan langsung. Wawasan mendasar dan penemuan monumental mengungkapkan dirinya secara alami melalui <strong>Mikropasien (Micro-Patience)</strong> dan pengamatan berulang yang tekun. Daripada hanya mengandalkan kekuatan kehendak yang tidak stabil, siapkan lingkungan analog.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Tahan diri dari menuntut terobosan instan atau imbalan langsung. Wawasan mendasa
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Menghilangkan Ketidaksabaran Hasil untuk Mengembangkan Mikropasien
+
+Tahan diri dari menuntut terobosan instan atau imbalan langsung. Wawasan mendasar dan penemuan monumental mengungkapkan dirinya secara alami melalui <strong>Mikropasien (Micro-Patience)</strong> dan pengamatan berulang yang tekun. Daripada hanya mengandalkan kekuatan kehendak yang tidak stabil, siapkan lingkungan analog.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah rutinitas ini efektif untuk individu yang mengalami kecemasan tinggi atau perhatian yang sering teralih?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Tahan diri dari menuntut terobosan instan atau imbalan langsung. Wawasan mendasa
       Ya, sangat efektif! Menyinkronkan kontrol motorik ujung jari yang halus dengan fokus visual presisi secara fisik menenangkan gairah di amigdala dan jaringan stres, menekan kecemasan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Seberapa sering dan kapan selama sehari saya harus mempraktikkan rutinitas imersi mikro ini?</span>

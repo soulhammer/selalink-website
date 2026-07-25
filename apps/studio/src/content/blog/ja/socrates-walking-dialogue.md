@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "裸足で歩きながら質問を投げかけた哲学者：ソクラテスの認知的散歩習慣"
 description: "絶え間なく歩きながら思考を拡張した古代ギリシャの知恵ソクラテス。歩行運動が海馬を刺激し認知的柔軟性を促進する脳科学的原理と問題解決の散歩ガイドを考察します。"
 pubDate: "2026-03-06"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「socrates-walking-dialogue」は <strong>ソクラテス歴史的評伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ソクラテス歴史的評伝の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 海馬の神経可塑性と有酸素的柔軟性
+## 1. 海馬の神経可塑性と有酸素的柔軟性
 
 軽やかに足を踏み出して歩く行為は、単なる位置移動を超えて脳全体に多量の酸素と血流を押し上げる強力な生理的ポンプです。歩行を開始すると心拍数が上がり、脳由来神経栄養因子（BDNF）の分泌が著しく増加します。BDNFは記憶と認知を司る脳の海馬のシナプス結合を柔軟に再調整し、新しい情報と論理的連想を迅速に合成する神経可塑性の核心的な潤滑油です。また、歩行過程で足の裏が受ける律動的な圧力刺激は、固定観念に縛られて脳を疲弊させるデフォルト・モード・ネットワーク（DMN）の過度なループを粉砕し、認知的柔軟性を確保します。
 
 ---
 
-## 成功的なルーティンのための脳科学的アドバイス
-
-歩く肉体は脳のヒューズを再連結します。モニターの前で眉をひそめて座っていても、難しい問題は解決しません。脳の作業記憶が飽和状態に達しているからです。そんな時はソクラテスのように外へ出て15分間有酸素刺激を与え、脳の血流量を引き上げてみてください。歩みのリズムに合わせて、脳が新しい結論と新鮮な論理的突破口を見つけ出すでしょう。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ faqs:
     今日解決すべき1つの核心的な質問を設定します。歩きながら「なぜ？」という質問を自分自身に投げかけて答える自問自答の過程を繰り返し、思いがけない洞察を引き出します。
   </p>
 </div>
+
+---
+
+## 3. 成功的なルーティンのための脳科学的アドバイス
+
+歩く肉体は脳のヒューズを再連結します。モニターの前で眉をひそめて座っていても、難しい問題は解決しません。脳の作業記憶が飽和状態に達しているからです。そんな時はソクラテスのように外へ出て15分間有酸素刺激を与え、脳の血流量を引き上げてみてください。歩みのリズムに合わせて、脳が新しい結論と新鮮な論理的突破口を見つけ出すでしょう。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

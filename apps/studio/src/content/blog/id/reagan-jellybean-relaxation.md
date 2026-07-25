@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Permen Rahasia Gedung Putih? Metode Meringankan Stres Mengunyah Permen Jelly Ronald Reagan"
 description: "Ronald Reagan, Presiden AS ke-40, memakan permen jelly di Oval Office untuk berhenti merokok dan mengelola stres. Pelajari prinsip neurosains tentang bagaimana aktivitas mengunyah memengaruhi emosi."
 pubDate: "2026-04-25"
@@ -33,17 +34,17 @@ Artikel hari ini memperkenalkan sains di balik rutinitas relaksasi kognitif perm
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai reagan-jellybean-relaxation didasarkan pada <strong>Penelitian berdasarkan biografi historis dan catatan autobiografi Ronald Reagan & riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Penelitian berdasarkan biografi historis dan catatan autobiografi Ronald Reagan & riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengunyah dan Substitusi Sensori untuk Menenangan Amigdala
+## 1. Mengunyah dan Substitusi Sensori untuk Menenangan Amigdala
 
 Gerakan mengunyah secara berulang mengaktifkan saraf trigeminal di otak, menghambat amigdala yang mengatur rasa takut dan stres. Ini menstabilkan denyut nadi dan menurunkan sekresi kortisol secara cepat.
 
@@ -51,9 +52,7 @@ Pada saat yang sama, ketika keinginan adiktif yang kuat timbul (seperti merokok 
 
 ---
 
-## Perhatikan Asupan Gula demi Kesehatan Gigi
-
-Makan permen jelly terlalu banyak seperti Reagan dapat merusak kesehatan akibat gigi berlubang atau asupan gula berlebih. Disarankan untuk menggunakan permen karet bebas gula, jelly bebas gula, atau kacang-kacangan (almond, walnut) sebagai alternatif agar tetap bisa menikmati efek relaksasi mengunyah secara aman.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Makan permen jelly terlalu banyak seperti Reagan dapat merusak kesehatan akibat 
   </p>
 </div>
 
+---
+
+## 3. Perhatikan Asupan Gula demi Kesehatan Gigi
+
+Makan permen jelly terlalu banyak seperti Reagan dapat merusak kesehatan akibat gigi berlubang atau asupan gula berlebih. Disarankan untuk menggunakan permen karet bebas gula, jelly bebas gula, atau kacang-kacangan (almond, walnut) sebagai alternatif agar tetap bisa menikmati efek relaksasi mengunyah secara aman.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Berapa lama saya harus mengunyah agar efek pengurangan stres dari aktivitas mengunyah terlihat?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Makan permen jelly terlalu banyak seperti Reagan dapat merusak kesehatan akibat 
       Riset neurofisiologi menunjukkan bahwa kadar kortisol mulai menurun dan gelombang otak mulai beralih ke gelombang alfa (Alpha wave) yang rileks sekitar 2 hingga 3 menit setelah mengunyah dimulai. Oleh karena itu, berfokus secara tenang saat mengunyah selama minimal 2 hingga 3 menit adalah kunci untuk merasakan manfaatnya.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ada prinsip ilmiah di balik aktivitas mengunyah yang membantu menekan dorongan merokok atau makan berlebihan?</span>

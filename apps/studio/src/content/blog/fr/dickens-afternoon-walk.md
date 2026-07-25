@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le romancier qui marchait d'un pas vif 3 heures chaque après-midi : La routine d'idées et d'activation du DMN de Charles Dickens"
 description: "Découvrez comment le géant de la littérature Charles Dickens concevait des personnages et des intrigues complexes grâce à une marche quotidienne de 3 heures. Explorez la neuroscience cognitive de l'activation du DMN et de la sécrétion de BDNF."
 pubDate: "2026-05-23"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant dickens-afternoon-walk est basée sur <strong>Vérification Historique issue de la biographie de John Forster *La Vie de Charles Dickens (The Life of Charles Dickens)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de John Forster *La Vie de Charles Dickens (The Life of Charles Dickens)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Catalyseur de la pensée divergente : Activation du DMN et sécrétion de BDNF via la marche sans stimuli
+## 1. Catalyseur de la pensée divergente : Activation du DMN et sécrétion de BDNF via la marche sans stimuli
 
 La marche aérobique rythmique augmente le flux sanguin cérébral et stimule la libération du Facteur Neurotrophique Dérivé du Cerveau (BDNF), renforçant la plasticité neuronale et favorisant la Pensée Divergente. Marcher sans distractions extérieures — comme le faisait Dickens — active le Réseau en Mode par Défaut (DMN). Operant lorsque le cerveau est libéré de toute tâche ciblée, le DMN réorganise les idées de la matinée et les souvenirs, les assemblant en percées créatives. Une marche l'après-midi libère la mémoire de travail (RAM).
 
 ---
 
-## Précautions & Conseils : Isolation des stimuli numériques & Création d'un vide sensoriel
-
-Le fondement de la marche créative est de fournir au cerveau une « pause cognitive ininterrompue ». Consulter son smartphone ou écouter des podcasts/de la musique tout en marchant force le cortex préfrontal à traiter l'information, annulant l'activation du DMN. Pour libérer votre esprit comme Dickens, retirez vos écouteurs et rangez votre smartphone pendant 20 à 30 minutes.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le fondement de la marche créative est de fournir au cerveau une « pause cogni
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Isolation des stimuli numériques & Création d'un vide sensoriel
+
+Le fondement de la marche créative est de fournir au cerveau une « pause cognitive ininterrompue ». Consulter son smartphone ou écouter des podcasts/de la musique tout en marchant force le cortex préfrontal à traiter l'information, annulant l'activation du DMN. Pour libérer votre esprit comme Dickens, retirez vos écouteurs et rangez votre smartphone pendant 20 à 30 minutes.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il acceptable d'écouter de la musique classique douce sur son smartphone en marchant ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le fondement de la marche créative est de fournir au cerveau une « pause cogni
       Non, il est préférable d'éviter tout contenu audio. Les stimuli auditifs — même une musique douce — obligent le cortex auditif à analyser des motifs, freinant l'activation du DMN. Pour un repos cognitif total, retirez vos écouteurs et laissez votre esprit vagabonder.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Il est irréaliste pour un professionnel moderne de marcher 3 heures par jour comme Dickens. Existe-t-il une alternative ?</span>

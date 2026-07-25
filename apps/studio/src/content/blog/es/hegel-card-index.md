@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Repositorio del Pensamiento Filosófico: El Método Dialéctico de Índice de Tarjetas y Rutina de Andamiaje Cognitivo de Hegel"
 description: "Detrás de la culminación del Idealismo Alemán por parte de G. W. F. Hegel había decenas de miles de tarjetas de conocimiento y un riguroso sistema de clasificación. Explore su andamiaje cognitivo y un marco de 3 pasos para superar los límites de la memoria de trabajo."
 pubDate: "2026-01-01"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás de la ru
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre hegel-card-index se basa en <strong>Verificación Histórica de las Biografías de G. W. F. Hegel, Archivos de la *Fenomenología del espíritu (Phänomenologie des Geistes)* e Investigación en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Biografías de G. W. F. Hegel, Archivos de la *Fenomenología del espíritu (Phänomenologie des Geistes)* e Investigación en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Andamiaje Cognitivo: Superando los Cuellos de Botella de la Memoria de Trabajo
+## 1. Andamiaje Cognitivo: Superando los Cuellos de Botella de la Memoria de Trabajo
 
 El rendimiento de la corteza prefrontal está limitado por la capacidad de la <strong>Memoria de Trabajo</strong>. Mantener estructuras lógicas complejas solo en la mente provoca sobrecarga cognitiva. El sistema de tarjetas de Hegel funciona como una estructura de <strong>Andamiaje Cognitivo (Cognitive Scaffolding)</strong>. Externalizar conocimientos libera ancho de banda ejecutivo. Desplegar y recombinar físicamente estas tarjetas estimula las vías neuronales asociativas, transformando conceptos aislados en una síntesis dialéctica.
 
 ---
 
-## Precaución: Supere el Almacenamiento Pasivo para Crear Enlaces Orgánicos entre Información
-
-Las cajas de tarjetas de Hegel no eran archivos muertos, sino una extensión activa del pensamiento dialéctico. No se satisfaga solo con el acto de tomar notas. La clave del andamiaje cognitivo es aplicar un orden categórico que permita recuperar, combinar y sintetizar las ideas libremente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Las cajas de tarjetas de Hegel no eran archivos muertos, sino una extensión act
   </p>
 </div>
 
+---
+
+## 3. Precaución: Supere el Almacenamiento Pasivo para Crear Enlaces Orgánicos entre Información
+
+Las cajas de tarjetas de Hegel no eran archivos muertos, sino una extensión activa del pensamiento dialéctico. No se satisfaga solo con el acto de tomar notas. La clave del andamiaje cognitivo es aplicar un orden categórico que permita recuperar, combinar y sintetizar las ideas libremente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Pueden las herramientas digitales sustituir eficazmente esta rutina de tarjetas analógicas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Las cajas de tarjetas de Hegel no eran archivos muertos, sino una extensión act
       Sí, totalmente. Puede implementar un sistema de tarjetas utilizando herramientas digitales como Notion, Obsidian o aplicaciones de notas. Las funciones de enlaces bidireccionales (Backlinks) replican y mejoran los mecanismos de Hegel.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Por qué las tarjetas atómicas concisas son más efectivas que escribir páginas largas en un cuaderno?</span>

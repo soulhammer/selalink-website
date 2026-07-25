@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "脳の健康を覚醒させる足取り：ジョン・クインシー・アダムズの早歩き散歩と省察記録ルーティン"
 description: "第6代米大統領ジョン・クインシー・アダムズは毎日5マイルの速歩散歩と夜の省察記述を貫きました。BDNF分泌を刺激する健康な脳習慣をご紹介します。"
 pubDate: "2026-04-06"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「adams-morning-walk」は <strong>ジョン・クインシー・アダムズ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョン・クインシー・アダムズ歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 運動誘導性BDNFと認知省察のシナジー
+## 1. 運動誘導性BDNFと認知省察のシナジー
 
 少し息が上がる程度の速歩散歩は心拍数を高めて海馬領域に血流を供給し、脳の神経成長因子であるBDNF（Brain-Derived Neurotrophic Factor）の放出を直接誘導します。この因子は脳細胞のシナプス結合を修復し、生成を促進します。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 膝関節と体力に合わせてペースを調整してください
-
-アダムズは毎日5マイルの非常に速い速歩を行いましたが、これは長期間鍛えられた体力基準です。現代人が突然高強度のウォーキングを始めると、膝関節や脊椎に負担がかかる可能性があります。ご自身の基礎体力に合わせて軽い速歩で15分から始め、徐々に時間と歩幅を広げていくことが無理を避ける近道です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 膝関節と体力に合わせてペースを調整してください
+
+アダムズは毎日5マイルの非常に速い速歩を行いましたが、これは長期間鍛えられた体力基準です。現代人が突然高強度のウォーキングを始めると、膝関節や脊椎に負担がかかる可能性があります。ご自身の基礎体力に合わせて軽い速歩で15分から始め、徐々に時間と歩幅を広げていくことが無理を避ける近道です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>朝の散歩の代わりに屋内のトレッドミルで速く走ることで代替しても大丈夫ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       有酸素運動によるBDNF放出の側面からは有効です。ただし、屋内の固定された環境よりも、屋外の視覚的刺激（自然光、季節の変化、不規則な路面）を処理する際、視覚皮質や平衡感覚領域の前頭前野シナプスネットワークの活性化効果がはるかに大きいため、屋外でのウォーキングを強く推奨します。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>夜の省察日記をスマートフォンのメモアプリに書いても効果は同じですか？</span>

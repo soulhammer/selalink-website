@@ -21,6 +21,7 @@ faqs:
     answer: "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
   - question: "What should I keep in mind when freezing leftover raw salmon?"
     answer: "Pat it dry, brush the surface with a thin layer of oil, and wrap it tightly in plastic wrap to prevent freezer burn and ice crystals."
+
 ---
 
 Did you leave fresh salmon in the fridge for over two days? Salmon has high moisture, allowing bacteria to multiply quickly. Today, FreshSnap shares FDA-approved scent-free salmon storage and sealing tips.
@@ -29,10 +30,10 @@ Did you leave fresh salmon in the fridge for over two days? Salmon has high mois
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Verified Scientific Authority
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      This storage guide is verified based on official guidelines from the <strong>FDA & USDA</strong>.
+      Based on official storage standards. <strong>FDA & USDA</strong>.
     </p>
   </div>
 </div>

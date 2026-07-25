@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "言葉を最小限にして静寂を歩いた天才：ポール・ディラックの沈黙散策ルーティンと言語的ノイズ除去"
 description: "量子力学の巨匠でありノーベル物理学賞受賞者のポール・ディラック。日曜日の沈黙散策で言語的ノイズを除去しディラック方程式を精製した思索ルーティン。左脳言語皮質のリラックスと頭頂葉視空間演算回路活性化の認知神経科学的原理を解き明かします。"
 pubDate: "2026-04-25"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「dirac-silent-walking-contemplation」は <strong>グレアム・ファーメロ伝記『The Strangest Man: The Hidden Life of Paul Dirac』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>グレアム・ファーメロ伝記『The Strangest Man: The Hidden Life of Paul Dirac』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 言語的ノイズ除去と頭頂葉視空間演算回路（Parietal Visuospatial Circuit）活性化
+## 1. 言語的ノイズ除去と頭頂葉視空間演算回路（Parietal Visuospatial Circuit）活性化
 
 言語的な会話と絶え間ないテキスト刺激は、左脳の言語領域（ブローカ/ウェルニッケ野）に過負荷を引き起こし前頭前野の認知リソースを消耗させます。ディラックのように沈黙を維持しながら規則的な歩行運動を実行すると、脳は言語的ノイズ加工を即座に中断し左脳中心の過負荷から脱出します。認知神経科学の研究によると、言語活動が停止した状態での有酸素歩行は、頭頂葉（Parietal Lobe）の視空間スケッチブック（Visuospatial Sketchpad）回路と幾何学的な3次元演算回路を極大化させます。この過程で複雑な学術的難題やプロジェクトの構造が、感覚的な地形のように直感的かつ一目瞭然に再配列されます。
 
 ---
 
-## 注意事項＆ヒント：散策中のオーディオ/言語メディア視聴の完全排除
-
-散策をしながらポッドキャスト、オーディオブック、ショートフォーム音声、ニュースなどの言語メディアを聴くと、脳は依然として言語解釈および構文加工モードにとどまることになります。これは左脳言語皮質の過負荷を延長させ、沈黙の思索状態に入るのを妨げます。ディラック的ルーティンのためには耳と口を完全に休ませ、ただ物理的な足取りと風の音のような非言語的自然音のみを受け入れてこそ、頭頂葉視空間回路が稼働します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：散策中のオーディオ/言語メディア視聴の完全排除
+
+散策をしながらポッドキャスト、オーディオブック、ショートフォーム音声、ニュースなどの言語メディアを聴くと、脳は依然として言語解釈および構文加工モードにとどまることになります。これは左脳言語皮質の過負荷を延長させ、沈黙の思索状態に入るのを妨げます。ディラック的ルーティンのためには耳と口を完全に休ませ、ただ物理的な足取りと風の音のような非言語的自然音のみを受け入れてこそ、頭頂葉視空間回路が稼働します。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>騒音が激しい都心の中央で散策してもディラックの沈黙散策効果が得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、可能です。ポイントは周囲の環境の完璧な静寂よりも「自分の口と耳に入ってくる言語的情報（会話、テキスト、アナウンス）の完全遮断」にあります。騒々しい都心であってもノイズキャンセリングヘッドホンで有害な騒音を減らし言語メディアを聴かずに一人で歩けば、同様に左脳のリラックスと頭頂葉活性化の効果を享受できます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>散策の途中に浮かんだ素晴らしい考えを忘れないよう、すぐに書くべきですか？</span>

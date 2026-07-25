@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "創造性が目覚める黎明の儀式：トニ・モリスンの早朝5時執筆準備ルーティン"
 description: "ノーベル文学賞受賞作家トニ・モリスン。毎日早朝5時に黎明を凝視して思考をリセットし執筆に入った彼女の早朝集中の秘訣と認知科学的価値を紹介します。"
 pubDate: "2026-02-27"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「morrison-pre-dawn-coffee」は <strong>トニ・モリスンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>トニ・モリスンの歴史的評伝および自伝的記録の考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 体内時計の覚醒と網膜光受容体の刺激
+## 1. 体内時計の覚醒と網膜光受容体の刺激
 
 暗い部屋で目を覚ましてすぐにスマートフォンの強力なブルーライトに脳を晒すと、脳は stress 信号であるコルチゾールを非正常に急増させ不安度を高めます。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 自然光が目に入っている間はいかなる電子機器も操作しないでください
-
-早朝ルーティンの最大の破壊者はスマートフォンのメッセージやニュースの通知です。目を開けて黎明を観察する5分間は、絶対にデジタル機器の画面をつけてはなりません。静かに目覚める網膜や脳細胞に視覚的ノイズを浴びせることなく、自然な太陽光の動きを脳に入力してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 自然光が目に入っている間はいかなる電子機器も操作しないでください
+
+早朝ルーティンの最大の破壊者はスマートフォンのメッセージやニュースの通知です。目を開けて黎明を観察する5分間は、絶対にデジタル機器の画面をつけてはなりません。静かに目覚める網膜や脳細胞に視覚的ノイズを浴びせることなく、自然な太陽光の動きを脳に入力してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>日が昇る時間は季節によって異なりますが、起床時間を調整すべきですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       必ずしも完全に日が昇る瞬間に合わせる必要はありません。季節に関係なく、日が昇る直前の薄暗く静かな空気で満ちた時点（通常午前5時〜6時の間）であれば、十分な脳の認知リセット効果を得ることができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>朝型人間ではないので早朝に起きるととても疲れるのですが、どうすればよいですか？</span>

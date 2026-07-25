@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jeden Morgen 30 Minuten: Benjamin Franklins merkwürdiges 'Luftbad' und seine Routine zur autonomen Nervensystem-Regeneration"
 description: "Erfahren Sie, wie Benjamin Franklin, Erfinder des Blitzableiters und Gründervater der USA, jeden Morgen nackt bei offenem Fenster ein 'Luftbad' nahm. Entdecken Sie die Neurowissenschaften der Kälterezeptoren (TRPM8) und Noradrenalin-Ausschüttung."
 pubDate: "2026-02-12"
@@ -35,25 +36,23 @@ Im heutigen Beitrag enthüllen wir die Neurowissenschaften hinter Benjamin Frank
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu franklin-air-bath basiert auf <strong>Historische Überprüfung aus *Die Autobiographie von Benjamin Franklin*, Briefen an M. Barbeu Dubourg & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus *Die Autobiographie von Benjamin Franklin*, Briefen an M. Barbeu Dubourg & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation von Kälterezeptoren der Haut und autonomes Nervensystem-Gleichgewicht
+## 1. Stimulation von Kälterezeptoren der Haut und autonomes Nervensystem-Gleichgewicht
 
 Wenn Kälterezeptoren der Haut (TRPM8) kühle Luft wahrnehmen, werden Signale an den Hypothalamus und das autonome Nervensystem gesendet. Dieser Pfad stimuliert den <strong>Locus Coeruleus</strong> im Gehirn, was zur Ausschüttung von <strong>Noradrenalin</strong> und <strong>Dopamin</strong> führt. Dies vertreibt Morgenmüdigkeit und steigert die Konzentration im Präfrontalkortex. Wenn sich die Körpertemperatur anschließend erholt, wird das parasympathische Nervensystem aktiviert, was chronischen Stress abbaut.
 
 ---
 
-## Vorsichtsmaßnahme: Richtlinien zur Expositionsdauer gegen Auskühlung
-
-Ein Luftbad ist kein Ausdauertest bei extremer Kälte. Übermäßige Kälteexposition führt zu Gefäßverengung, Blutdruckanstieg und geschwächter Immunabwehr. Um das autonome Nervensystem sicher zu regenerieren, beschränken Sie die Dauer bei angenehm kühler Temperatur auf maximal 10 bis 15 Minuten.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ein Luftbad ist kein Ausdauertest bei extremer Kälte. Übermäßige Kälteexpos
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahme: Richtlinien zur Expositionsdauer gegen Auskühlung
+
+Ein Luftbad ist kein Ausdauertest bei extremer Kälte. Übermäßige Kälteexposition führt zu Gefäßverengung, Blutdruckanstieg und geschwächter Immunabwehr. Um das autonome Nervensystem sicher zu regenerieren, beschränken Sie die Dauer bei angenehm kühler Temperatur auf maximal 10 bis 15 Minuten.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Hilft ein Luftbad wirklich zur Stärkung des Immunsystems und der geistigen Wachheit?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ein Luftbad ist kein Ausdauertest bei extremer Kälte. Übermäßige Kälteexpos
       Ja. Milde Kältereize stärken die Flexibilität des autonomen Nervensystems. Durch die Ausschüttung von Noradrenalin wird Morgenmüdigkeit vertrieben und die präfrontale Steuerung geschärft.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Wie sollte man ein Luftbad im kalten Winter sicher durchführen?</span>

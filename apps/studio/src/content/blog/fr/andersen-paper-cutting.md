@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le découpage au ciseau qui soigne la dépression ? La routine de découpage de papier d'Andersen"
 description: "L'auteur de contes de fées mondialement célèbre Hans Christian Andersen. Découvrez les principes de guérison psychiatrique et le guide en 3 étapes du « découpage de papier » (Paper Cutting), le secret pour faire fleurir une belle imagination malgré une vie de dépression et de privation psychologique."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous présentons les bienfaits thérapeutiques psy
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant andersen-paper-cutting est basée sur <strong>Vérification Historique issue des archives de papier du Musée Hans Christian Andersen à Odense, Danemark & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des archives de papier du Musée Hans Christian Andersen à Odense, Danemark & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stabilisation du réseau du mode par défaut (DMN) grâce au travail manuel délicat
+## 1. Stabilisation du réseau du mode par défaut (DMN) grâce au travail manuel délicat
 
 Le <strong>« réseau du mode par défaut (Default Mode Network, DMN) »</strong>, qui fonctionne lorsque le cerveau se repose sans accomplir de tâche particulière, amplifie chez l'homme moderne la surpensée (Overthinking) inutile, comme les regrets du passé et les angoisses du futur. Selon l'ergothérapie et la recherche en neurosciences, le <strong>« travail manuel délicat »</strong> comme le découpage au ciseau ou le dessin, qui contrôle délicatement le bout des doigts, réchauffe largement le cortex moteur du cerveau tout en désactivant immédiatement le DMN surchargé. La simple stimulation tactile symétrique consistant à plier et découper du papier devant ses yeux stoppe la surpensée et offre un profond repos cognitif au cerveau.
 
 ---
 
-## Concentrez-vous sur la trajectoire du bout des doigts et le bruit du découpage, non sur un design parfait
-
-Pour profiter des effets de repos cérébral de la routine de découpage au ciseau, vous devez abandonner l'obsession de créer un résultat magnifique. Si vous commencez à concevoir mentalement un motif en vous disant « je dois réussir un joli dessin », les zones de planification et de contrôle du cortex préfrontal surchauffent, ce qui rend difficile l'obtention de l'effet de désactivation du DMN. Tout comme Andersen fermait les yeux et découpait au gré du mouvement de ses mains, confier entièrement votre attention au doux bruit de friction des ciseaux effleurant le papier et à la vibration analogique au bout de vos doigts constitue le premier pas vers la relaxation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pour profiter des effets de repos cérébral de la routine de découpage au cise
   </p>
 </div>
 
+---
+
+## 3. Concentrez-vous sur la trajectoire du bout des doigts et le bruit du découpage, non sur un design parfait
+
+Pour profiter des effets de repos cérébral de la routine de découpage au ciseau, vous devez abandonner l'obsession de créer un résultat magnifique. Si vous commencez à concevoir mentalement un motif en vous disant « je dois réussir un joli dessin », les zones de planification et de contrôle du cortex préfrontal surchauffent, ce qui rend difficile l'obtention de l'effet de désactivation du DMN. Tout comme Andersen fermait les yeux et découpait au gré du mouvement de ses mains, confier entièrement votre attention au doux bruit de friction des ciseaux effleurant le papier et à la vibration analogique au bout de vos doigts constitue le premier pas vers la relaxation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-ce sans danger si je n'ai aucun sens artistique et ne sais pas découper ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pour profiter des effets de repos cérébral de la routine de découpage au cise
       Absolument. En fait, le fait de découper au hasard sans motif est plus efficace pour réduire l'activité du DMN. Le cerveau se moque totalement que le motif final soit étrange ou de travers. Ce qui compte, ce n'est pas la précision de la forme, mais le mouvement délicat des muscles du bout des doigts et la stimulation auditive elle-même. Puisqu'il s'agit d'une activité créative sans risque d'échec ni jugement de valeur, profitez simplement du découpage.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>La création de déchets de papier après le découpage ne perturbe-t-elle pas la relaxation lors du rangement ?</span>

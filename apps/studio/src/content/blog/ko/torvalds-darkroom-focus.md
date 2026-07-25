@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "빛과 소음을 차단한 다용도실의 코더? 리누스 토발즈의 암실 집중 루틴"
 description: "리눅스와 깃의 창시자 리누스 토발즈. 외부 시각 자극과 일체의 전자기기 데코를 차단한 골방에서 초집중을 완성했던 그의 무소음 작업 환경 구축법을 다룹니다."
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>리누스 토발즈 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 torvalds-darkroom-focus 루틴을 다룹니다.
+      본 콘텐츠는 <strong>리누스 토발즈 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 시각 자극을 통제하여 주의력을 비축하는 '인지적 여과'
+## 1. 시각 자극을 통제하여 주의력을 비축하는 '인지적 여과'
 
 우리의 시각 피질은 눈에 보이는 모든 물체(책상의 인형, 화려한 액자, 지나가는 사람의 움직임 등)의 깊이, 색상, 형태 정보를 무의식적으로 끊임없이 연산합니다. 대뇌 피질 전체 에너지의 약 30%가 시각 정보 처리에 사용될 정도로 시각은 뇌에 가장 큰 인지 부하를 주는 감각입니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 어둠 속에서 코더의 논리가 선명해집니다
-
-리누스 토발즈에게 세탁실 암실은 외부의 유혹과 사소한 자극을 원천 차단하는 인지적 요새였습니다. 집안이 산만하고 작업에 깊게 침투하지 못해 주의력이 낭비된다면, 뇌의 집중력을 탓하기 전에 당신의 책상 주변을 아무런 시각 데코가 없는 무미건조한 상태로 만들고 주변 조명을 어둡게 조절해 보십시오. 놀라운 침잠을 경험하게 될 것입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 어둠 속에서 코더의 논리가 선명해집니다
+
+리누스 토발즈에게 세탁실 암실은 외부의 유혹과 사소한 자극을 원천 차단하는 인지적 요새였습니다. 집안이 산만하고 작업에 깊게 침투하지 못해 주의력이 낭비된다면, 뇌의 집중력을 탓하기 전에 당신의 책상 주변을 아무런 시각 데코가 없는 무미건조한 상태로 만들고 주변 조명을 어둡게 조절해 보십시오. 놀라운 침잠을 경험하게 될 것입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>어두운 곳에서 모니터만 보면 눈 시력이 나빠지지 않나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       완전한 암흑 속에서 과도하게 밝은 대비율은 눈의 피로를 유발합니다. 따라서 모니터의 조도(밝기)를 주변 환경에 맞춰 낮추거나, 모니터 화면 뒷면 벽에 부드러운 백라이트(간접 LED 등)를 설치하면 시각 신경의 피로를 예방하면서도 높은 몰입도를 확보할 수 있습니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>집에 세탁실이나 격리된 방이 없을 때는 어떻게 해야 하나요?</span>

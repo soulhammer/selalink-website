@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Memutar Roda Pemintal di Fajar yang Hening: Rutinitas Meditasi Pagi Hari dan Meditasi Aktif Mahatma Gandhi"
 description: "Pelajari bagaimana Mahatma Gandhi, pejuang perdamaian India, mendisiplinkan pikirannya dengan bangun jam 4 pagi untuk bermeditasi dan memutar roda Charkha. Temukan neurosains tentang meditasi aktif dan stimulasi serotonin."
 pubDate: "2026-03-23"
@@ -33,25 +34,23 @@ Jawabannya terletak pada ritual pagi hari yang dijaga dengan ketat. Bangun setia
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai gandhi-morning-meditation didasarkan pada <strong>Verifikasi Historis dari *An Autobiography: The Story of My Experiments with Truth* karya Mahatma Gandhi, Arsip Ashram & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *An Autobiography: The Story of My Experiments with Truth* karya Mahatma Gandhi, Arsip Ashram & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Meditasi Aktif: Bagaimana Gerakan Berulang Memicu Serotonin dan Ketenangan Saraf
+## 1. Meditasi Aktif: Bagaimana Gerakan Berulang Memicu Serotonin dan Ketenangan Saraf
 
 Sementara meditasi duduk bersifat pasif, memutar roda pemintal mencontohkan <strong>Meditasi Aktif</strong>—menggunakan gerakan fisik untuk menginduksi fokus mendalam. Secara neurosains, melibatkan kontrol motorik halus di ujung jari sambil mempertahankan gerakan melingkar yang ritmis menstimulasi pelepasan <strong>serotonin</strong>. Serotonin membersihkan kabut kognitif pagi dan menekan kecemasan, memberikan ketenangan. Konsentrasi halus untuk mencegah benang putus menekan Default Mode Network (DMN). Ketahanan Gandhi berasal dari reset harian ini yang menyelaraskan <strong>Variabilitas Detak Jantung (HRV)</strong>.
 
 ---
 
-## Perhatian: Prioritaskan Ritme Berulang Taktil Halus di Atas Alat Fisik
-
-Mendapatkan roda Charkha India yang asli tidak praktis bagi kebanyakan orang. Mekanismenya tidak bergantung pada artefak sejarah tersebut, melainkan pada 'ritme berulang taktil yang halus'. Anda dapat membuka manfaat neurologis yang sama dengan melakukan ritual 10 menit menggunakan sensitivitas ujung jari—seperti menyalin tulisan tangan, merajut, menyeduh teh secara perlahan, atau menyusun balok Lego.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Mendapatkan roda Charkha India yang asli tidak praktis bagi kebanyakan orang. Me
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Prioritaskan Ritme Berulang Taktil Halus di Atas Alat Fisik
+
+Mendapatkan roda Charkha India yang asli tidak praktis bagi kebanyakan orang. Mekanismenya tidak bergantung pada artefak sejarah tersebut, melainkan pada 'ritme berulang taktil yang halus'. Anda dapat membuka manfaat neurologis yang sama dengan melakukan ritual 10 menit menggunakan sensitivitas ujung jari—seperti menyalin tulisan tangan, merajut, menyeduh teh secara perlahan, atau menyusun balok Lego.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Aktivitas taktil modern apa yang dapat menggantikan pemutaran roda pemintal?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Mendapatkan roda Charkha India yang asli tidak praktis bagi kebanyakan orang. Me
       Aktivitas ritmis apa pun yang membutuhkan presisi motorik halus berfungsi dengan sangat baik: menyalin tulisan tangan dengan pena bulpen, merajut, upacara minum teh, menyusun Lego atau teka-teki, memicu jalur serotonin yang identik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus saya lakukan jika pikiran saya terus melantur selama aktivitas ritmis taktil?</span>

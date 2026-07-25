@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Pintor de la Batas Azul que Observaba las Rosas Matutinas: La Rutina de Paseo por el Jardín y Fascinación Suave de Gustav Klimt"
 description: "Descubra cómo el maestro del estilo dorado Gustav Klimt restauraba su atención visual paseando por los jardines del lago Attersee en Austria. Explore la Teoría de la Restauración de la Atención (ART), el restablecimiento prefrontal, los fractales naturales y una guía de 3 pasos."
 pubDate: "2026-07-14"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la psicología ambiental y la neurociencia
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre klimt-gardening-nature-refresh se basa en <strong>Verificación Histórica de las Biografías de Gustav Klimt, Archivos de Attersee e Investigación en Neurociencia Cognitiva y Psicología Ambiental</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Biografías de Gustav Klimt, Archivos de Attersee e Investigación en Neurociencia Cognitiva y Psicología Ambiental</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Observación de Fractales Naturales y Teoría de la Restauración de la Atención (ART)
+## 1. Observación de Fractales Naturales y Teoría de la Restauración de la Atención (ART)
 
 Trabajar frente a pantallas digitales y entornos urbanos obliga al cerebro a agotar la <strong>Atención Dirigida (Directed Attention)</strong>, provocando <strong>Fatiga de Atención</strong>. Según la <strong>Teoría de la Restauración de la Atención (ART)</strong> de Rachel y Stephen Kaplan, la geometría de la naturaleza (fractales botánicos en pétalos y hojas) activa un estado llamado <strong>Fascinación Suave (Soft Fascination)</strong>. Observar la naturaleza sin esfuerzo mental restaura la capacidad de la <strong>Corteza Prefrontal</strong>, permitiendo que la creatividad se recargue.
 
 ---
 
-## Precaución: Evite los Enfoques de Cámaras de Teléfonos para Sumergirse en la Observación a Simple Vista
-
-En el momento en que saca un teléfono para tomar fotos para redes sociales, su cerebro vuelve a activar redes de evaluación social y encuadres artificiales, arruinando la restauración de la atención. Al igual que Klimt, contemple la profundidad y los patrones naturales con sus propios ojos sin filtrarlos a través de una lente digital.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ En el momento en que saca un teléfono para tomar fotos para redes sociales, su 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Evite los Enfoques de Cámaras de Teléfonos para Sumergirse en la Observación a Simple Vista
+
+En el momento en que saca un teléfono para tomar fotos para redes sociales, su cerebro vuelve a activar redes de evaluación social y encuadres artificiales, arruinando la restauración de la atención. Al igual que Klimt, contemple la profundidad y los patrones naturales con sus propios ojos sin filtrarlos a través de una lente digital.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo puedo practicar esta rutina si no tengo un jardín o parque cerca?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ En el momento en que saca un teléfono para tomar fotos para redes sociales, su 
       Observar de cerca durante 3 minutos plantas de interior, árboles a través de la ventana o las nubes del cielo ofrece exactamente los mismos beneficios de la Teoría de la Restauración de la Atención (ART).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo puedo sustituir la caminata por el jardín en días de lluvia o mal tiempo?</span>

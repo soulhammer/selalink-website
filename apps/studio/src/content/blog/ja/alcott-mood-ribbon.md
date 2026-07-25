@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "クッションが立っていたら邪魔禁止：ルイザ・メイ・オルコットの没頭シグナル"
 description: "『若草物語』の著者ルイザ・メイ・オルコットの没頭シグナル「ムード・ピロー（気分クッション）」をご紹介します。周囲の妨害要因を遮断し、認知切り替えコストを削減する3ステップガイドをご覧ください。"
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「alcott-mood-ribbon」は <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) ＆ *Journal of Personality and Social Psychology*</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) ＆ *Journal of Personality and Social Psychology*</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 認知再起動の浪費をなくす「注意分散遮断」
+## 1. 認知再起動の浪費をなくす「注意分散遮断」
 
 高度な集中状態の中で外部の騒音や誰かの質問によって流れが中断されると、脳は直ちにマルチタスクモードへと転換し、莫大なエネルギーを消費します。脳科学ではこれを<strong>「作業切り替えコスト（Task-Switching Cost）」</strong>と呼び、一度乱れた注意力をもとの状態に再起動するまでに平均23分の時間がかかると報告されています。オルコットが使用したムード・ピローは、周囲の環境に集中不可能シグナルを先に送ることで注意分散の刺激を事前に排除する完璧な<strong>「注意分散遮断（Distraction Shielding）」</strong>であり、この視覚的通知は周囲の人々との摩擦なしに業務の流れを守り抜き、作業記憶装置（Working Memory）の認知リソースを一つの場所にだけ全うして使用できるように助けます。
 
 ---
 
-## 相互尊重に基づく約束された没頭シグナルの作成
-
-集中シグナルの表示物を利用する際に最も重要なのは、家族や同僚との事前合意です。事前の約束なしに突然コミュニケーションの扉を閉ざしてしまうと、他人に拒否感を与える可能性があります。「この表示物が出されている1時間だけは緊急の連絡を保留してほしい」という明確なルールを相互に認識し、約束した時間が終わったら直ちに表示物を非活性化してコミュニケーション状態を回復させることが、肯定的なルーティンとして定着させる鍵となります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     タイマーが鳴ったら作業を止め、シグナルを直ちに解除（クッションを平らに下ろすなど）します。閉ざしていたコミュニケーション網を開き、待ってくれた人々と軽い目配せやフィードバックを交わしながら交流を回復させます。
   </p>
 </div>
+
+---
+
+## 3. 相互尊重に基づく約束された没頭シグナルの作成
+
+集中シグナルの表示物を利用する際に最も重要なのは、家族や同僚との事前合意です。事前の約束なしに突然コミュニケーションの扉を閉ざしてしまうと、他人に拒否感を与える可能性があります。「この表示物が出されている1時間だけは緊急の連絡を保留してほしい」という明確なルールを相互に認識し、約束した時間が終わったら直ちに表示物を非活性化してコミュニケーション状態を回復させることが、肯定的なルーティンとして定着させる鍵となります。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

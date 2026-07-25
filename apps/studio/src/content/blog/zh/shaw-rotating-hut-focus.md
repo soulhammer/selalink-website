@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "为完美专注而隔离：乔治·伯纳德·肖的旋转小屋写作习惯"
 description: "囊括诺贝尔奖和奥斯卡奖的剧作家伯纳德·肖。探索他每天在花园小型旋转小屋里封锁自我6小时、追逐日光并彻底隔绝杂念的深度专注秘诀。"
 pubDate: "2026-02-27"
@@ -29,25 +30,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 shaw-rotating-hut-focus 的内容基于 <strong>萧伯纳旋转小屋专注历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>萧伯纳旋转小屋专注历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 日光暴露与极小化认知切换成本（Switching Cost）
+## 1. 日光暴露与极小化认知切换成本（Switching Cost）
 
 从早晨持续到正午的日光（Daylight）照射会刺激视网膜神经节细胞，最大程度地激发诱发清醒的血清素合成系统，产生室内荧光灯无法企及的大脑觉醒效果。此外，每当大脑受到他人的微小打扰（如提问、敲门声、电话铃声）时，为了重新调整工作记忆（Working Memory）的语境，都会消耗大量的能量（认知切换成本）。像萧伯纳那样将大脑置于物理上完全隔离的空间中，可以从源头上切断这些认知干扰，防止工作记忆流失，从而轻松保持长达数小时的深度专注（Deep Work）状态。
 
 ---
 
-## 注意事项与实用建议
-
-在应用物理隔离习惯时，一个至关重要的注意事项是：切勿将手机和社交媒体（SNS）通知带入隔离空间。即使做好了外部物理隔离，如果手中的虚拟干扰因素（手机通知）依然活跃，大脑就会不断被无意识的查看欲望所支配，重新陷入多任务处理（Multi-tasking）的内耗中。因此，进入专注区域时，必须完全禁用电脑和手机的通知（开启请勿打扰模式），或者直接在离线状态下工作。唯有配合真正的数字排毒，才能完整体验到旋转小屋带来的深度专注效果。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ faqs:
     将书桌布置在靠窗位置，充分享受自然阳光的照射。让自然的采光融入面部及周围视线中，早早诱发大脑内血清素的合成，从而更好地专注于长期攻坚任务。
   </p>
 </div>
+
+---
+
+## 3. 注意事项与实用建议
+
+在应用物理隔离习惯时，一个至关重要的注意事项是：切勿将手机和社交媒体（SNS）通知带入隔离空间。即使做好了外部物理隔离，如果手中的虚拟干扰因素（手机通知）依然活跃，大脑就会不断被无意识的查看欲望所支配，重新陷入多任务处理（Multi-tasking）的内耗中。因此，进入专注区域时，必须完全禁用电脑和手机的通知（开启请勿打扰模式），或者直接在离线状态下工作。唯有配合真正的数字排毒，才能完整体验到旋转小屋带来的深度专注效果。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "将脚趾卷曲100次的天才？尼古拉·特斯拉的奇妙熟睡仪式"
 description: "天才发明家尼古拉·特斯拉每晚躺在床上都会卷曲脚趾。探索隐藏在他独特习惯中的大脑科学秘密，以及适合现代人的3步实践指南。"
 pubDate: "2026-04-28"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 tesla-toe-curling 的内容基于 <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong> 撰写。
+      本内容基于 <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 唤醒脑细胞的神经开关：脚趾
+## 1. 唤醒脑细胞的神经开关：脚趾
 
 特斯拉相信，这种看似微不足道的反复卷曲脚趾的运动，能刺激集中在脚尖的众多神经，激活脑细胞并重置累积的大脑疲劳。
 
@@ -49,9 +50,7 @@ faqs:
 
 ---
 
-## 成功习惯的神经科学建议
-
-脚趾运动有助于促进远离心脏部位的血液循环，使体温保持均匀，并激活副交感神经。每天晚上在相同的时间（刚盖上被子后）重复这一动作，大脑就会将其识别为强有力的条件反射“睡眠信号”。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     感受脚趾运动后遍布全身的微温与放松感，跟随大脑“睡眠”的信号自然沉沉入睡。
   </p>
 </div>
+
+---
+
+## 3. 成功习惯的神经科学建议
+
+脚趾运动有助于促进远离心脏部位的血液循环，使体温保持均匀，并激活副交感神经。每天晚上在相同的时间（刚盖上被子后）重复这一动作，大脑就会将其识别为强有力的条件反射“睡眠信号”。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

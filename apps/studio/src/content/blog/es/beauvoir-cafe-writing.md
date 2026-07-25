@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inmersión Entre el Ruido: La Rutina de Ruido Blanco en Cafés y Simplificación Ambiental de Simone de Beauvoir"
 description: "Descubra la rutina de escritura que la filósofa existencialista y novelista Simone de Beauvoir practicaba a diario en su café favorito de París con una taza de té, y explore los mecanismos neurológicos del ruido blanco suave junto con métodos para construir su propia Zona de Enfoque."
 pubDate: "2026-06-08"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos los principios neurocientíficos de la rut
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre beauvoir-cafe-writing se basa en <strong>Verificación Histórica de la Autobiografía de Simone de Beauvoir *La fuerza de las cosas (La Force des choses)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Simone de Beauvoir *La fuerza de las cosas (La Force des choses)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mecanismo de Funcionamiento del Ruido Blanco y los Guiones Cognitivos
+## 1. Mecanismo de Funcionamiento del Ruido Blanco y los Guiones Cognitivos
 
 Desde la neurociencia, enfrentarse a diario al mismo entorno físico (una mesa fija, una bebida específica) activa un 'Guión Cognitivo (Cognitive Script)' que reduce la fatiga por decisión y transicionará suavemente al cerebro hacia el hiperenfoque. Además, el suave ruido blanco de 50 a 70 decibelios (dB) típico de los cafés estimula las ondas cerebrales activando las ondas alfa (Alpha), lo que induce la creatividad y la resolución de problemas. La actividad dinámica moderada a su alrededor estimula adecuadamente el sistema de neuronas espejo, brindando una sensación de seguridad psicológica que alivia el aislamiento y maximiza la eficiencia del Trabajo Profundo (Deep Work).
 
 ---
 
-## Precauciones y Consejos: Cuidado con el Ruido Social y el Ruido del Habla
-
-No todo el ruido es beneficioso para el cerebro. La música estridente que supera los 70 decibelios o las conversaciones claramente audibles (Ruido del Habla, Speech Noise) interfieren con el bucle fonológico del cerebro, disminuyendo la comprensión lectora y la capacidad de redacción lógica. Elija un lugar donde se mantenga un nivel de ruido tranquilo, o si los sonidos de las conversaciones son prominentes, utilice auriculares con cancelación de ruido para evitar interferencias cognitivas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ No todo el ruido es beneficioso para el cerebro. La música estridente que super
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Cuidado con el Ruido Social y el Ruido del Habla
+
+No todo el ruido es beneficioso para el cerebro. La música estridente que supera los 70 decibelios o las conversaciones claramente audibles (Ruido del Habla, Speech Noise) interfieren con el bucle fonológico del cerebro, disminuyendo la comprensión lectora y la capacidad de redacción lógica. Elija un lugar donde se mantenga un nivel de ruido tranquilo, o si los sonidos de las conversaciones son prominentes, utilice auriculares con cancelación de ruido para evitar interferencias cognitivas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Por qué Simone de Beauvoir eligió el Café de Flore como su espacio de escritura?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ No todo el ruido es beneficioso para el cerebro. La música estridente que super
       Durante los crudos inviernos de la década de 1940 en París, el Café de Flore mantenía su estufa cálida y ofrecía un ambiente acogedor para los artistas donde los intelectuales podían quedarse durante horas sin presiones, convirtiéndolo en un espacio ideal para la creación.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo implementar un Guión Cognitivo similar en un entorno de trabajo desde casa o remoto?</span>

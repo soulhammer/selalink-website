@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ホワイトハウス執務室のロッキングチェア：ジョン・F・ケネディの脊椎痛克服と前庭機関リラクセーション"
 description: "冷戦期の危機の中で極度の脊椎痛に耐えながらアメリカを率いたジョン・F・ケネディ。彼がオーバルオフィスでロッキングチェアに揺られながら身体的苦痛に打ち勝ちストレスをコントロールした脳科学的原理、前庭機関刺激、副交感神経系活性化および3段階実践法を公開します。"
 pubDate: "2026-02-10"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「kennedy-rocking-chair」は <strong>ジョン・F・ケネディ大統領図書館（JFK Library）およびジェネット・トラベル（Janet Travell）主治医史料考証＆認知神経科学（Cognitive Neuroscience）および整形外科学（Orthopedics）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョン・F・ケネディ大統領図書館（JFK Library）およびジェネット・トラベル（Janet Travell）主治医史料考証＆認知神経科学（Cognitive Neuroscience）および整形外科学（Orthopedics）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 前庭器官（Vestibular System）刺激と副交感神経系活性化
+## 1. 前庭器官（Vestibular System）刺激と副交感神経系活性化
 
 椅子が柔らかく前後に動くリズム感のある運動は、耳の中の内耳の<strong>前庭器官（Vestibular System）</strong>を適切に刺激します。前庭器官の有益な刺激は脳幹を経て<strong>副交感神経系（Parasympathetic Nervous System）</strong>を活性化し、心拍数と呼吸を安定させ、ストレスホルモンである<strong>コルチゾール（Cortisol）</strong>の分泌を抑制します。また整形外科的にも、持続的な微細収縮・膨張を通じて脊椎ディスクへの血流供給を誘導し静的負荷圧力を軽減させ、身体的苦痛の減少を通じて<strong>扁桃体（Amygdala）</strong>の過度な応答を鎮め、<strong>前頭前野（Prefrontal Cortex）</strong>の理性的実行機能を明瞭に復元します。
 
 ---
 
-## 注意事項：静的負荷（Static Load）を防ぎ脊椎の微細運動を誘導するルール
-
-現代人が経験する首と腰の痛みは、長い間動かずに固定された姿勢を維持する「静的負荷（Static Load）」から起因します。固まっている身体はそのまま情緒的硬直とストレスへと直結します。ケネディのように座っている間、緩やかで柔らかい微細な動きを意図的に作り出すことが、頭脳の可動性と身体の柔軟性を同時に守る秘訣です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：静的負荷（Static Load）を防ぎ脊椎の微細運動を誘導するルール
+
+現代人が経験する首と腰の痛みは、長い間動かずに固定された姿勢を維持する「静的負荷（Static Load）」から起因します。固まっている身体はそのまま情緒的硬直とストレスへと直結します。ケネディのように座っている間、緩やかで柔らかい微細な動きを意図的に作り出すことが、頭脳の可動性と身体の柔軟性を同時に守る秘訣です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>普通の椅子やオフィス用の椅子でも同様のリラックス効果を得られますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       その通りです。椅子の背もたれ固定ロックを解除し、柔らかくチルト角度を調節しながら軽く上半身を前後に揺らしてあげるだけでも、静的負荷を予防し前庭機関を適切に刺激して副交感神経を活性化することができます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>体を揺らすリズムの速さはどれくらいが良いですか？</span>

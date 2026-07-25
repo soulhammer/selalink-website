@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Genie, das mathematische Theoreme im Traum sah? Srinivasa Ramanujans Notiz-Routine direkt nach dem Aufwachen"
 description: "Srinivasa Ramanujan, ein Genie der Zahlentheorie und unendlicher Reihen. Erkunden Sie seine Gehirn-Reset-Methode, bei der er intuitive Inspirationen aus dem REM-Schlaf direkt nach dem Aufwachen in eine 3-Minuten-Notiz übertrugen, sowie eine 3-stufige Praxis-Routine für moderne Menschen."
 pubDate: "2026-01-15"
@@ -33,17 +34,17 @@ Dieser Artikel untersucht den wissenschaftlichen Funktionsmechanismus von Ramanu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu ramanujan-dream-notebook basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Srinivasa Ramanujan sowie kognitive neurowissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische kritische Biografie und autobiografische Aufzeichnungen über Srinivasa Ramanujan sowie kognitive neurowissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Kopplungsmechanismus von Alpha-Wellen und Ruhezustandsnetzwerk nach dem Aufwachen
+## 1. Kopplungsmechanismus von Alpha-Wellen und Ruhezustandsnetzwerk nach dem Aufwachen
 
 In den ersten 5 bis 10 Minuten direkt nach dem Aufwachen verbleibt das menschliche Gehirn flexibel in Alpha-Wellen- und langsamen Theta-Wellen-Zuständen – der Grenze zwischen Bewusstsein und Unbewusstem –, bevor die kritische Logik des Frontallappens voll aktiviert wird. In diesem Fenster steigen neuartige assoziative Verbindungen, die vom Ruhezustandsnetzwerk (DMN) des Gehirns über Nacht neu kombiniert wurden, sanft an die Oberfläche, ohne zu verfliegen.
 
@@ -51,9 +52,7 @@ Die meisten modernen Menschen überprüfen Smartphone-Benachrichtigungen oder E-
 
 ---
 
-## Vorsicht vor Smartphone-Mediennutzung direkt nach dem Aufwachen und erzwungenem Beta-Wellen-Wechsel
-
-Das Überprüfen von Nachrichtenbenachrichtigungen, Nachrichten oder sozialen Medien direkt nach dem Öffnen der Augen zwingt das Gehirn in einen angespannter hochfrequenten Beta-Wellen-Zustand. In diesem Moment beginnt das Gehirn passiv auf externe Reize zu reagieren und verflüchtigt augenblicklich die vom Unterbewusstsein über Nacht verfeinerten Ideen und Intuitionen. Blockieren Sie den Zugang zu digitalen Medien für mindestens 5 bis 10 Minuten nach dem Aufwachen vollständig und konzentrieren Sie sich auf Ihre eigene Intuition.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Das Überprüfen von Nachrichtenbenachrichtigungen, Nachrichten oder sozialen Me
   </p>
 </div>
 
+---
+
+## 3. Vorsicht vor Smartphone-Mediennutzung direkt nach dem Aufwachen und erzwungenem Beta-Wellen-Wechsel
+
+Das Überprüfen von Nachrichtenbenachrichtigungen, Nachrichten oder sozialen Medien direkt nach dem Öffnen der Augen zwingt das Gehirn in einen angespannter hochfrequenten Beta-Wellen-Zustand. In diesem Moment beginnt das Gehirn passiv auf externe Reize zu reagieren und verflüchtigt augenblicklich die vom Unterbewusstsein über Nacht verfeinerten Ideen und Intuitionen. Blockieren Sie den Zugang zu digitalen Medien für mindestens 5 bis 10 Minuten nach dem Aufwachen vollständig und konzentrieren Sie sich auf Ihre eigene Intuition.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Was sollte ich tun, wenn mir keine Träume oder morgendliche Inspirationen in den Sinn kommen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Das Überprüfen von Nachrichtenbenachrichtigungen, Nachrichten oder sozialen Me
       Es besteht absolut keine Notwendigkeit, Ideen zu erzwingen. Allein das Aufschreiben eines Wortes oder einer Stimmung, die Ihnen im schläfrigen Zustand durch den Kopf geht, oder eines einzelnen Problems, das Sie heute lösen möchten, stärkt die Alpha-Wellen-Schaltkreise und öffnet allmählich die Tür zu Ihrem Unterbewusstsein.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist es in Ordnung, eine Notiz-App oder Sprachaufzeichnung auf dem Smartphone zu verwenden?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "성현과의 대화: 마키아벨리의 격식 독서 루틴"
 description: "귀양지에서도 매일 저녁이면 관복으로 갈아입고 역사서를 읽었던 정치가 니콜로 마키아벨리. 의복의 격식이 뇌의 각성과 마인드셋을 전환하는 의복 인지 효과의 과학적 원리를 다룹니다."
 pubDate: "2026-04-01"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>니콜로 마키아벨리 서한 사료 『마키아벨리 서한집(Letters of Machiavelli)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 근거하여 machiavelli-regal-reading 루틴을 다룹니다.
+      본 콘텐츠는 <strong>니콜로 마키아벨리 서한 사료 『마키아벨리 서한집(Letters of Machiavelli)』 고증 & 인지신경과학(Cognitive Neuroscience) 및 인지심리학(Cognitive Psychology) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 의복 인지(Enclothed Cognition) 효과와 집행 제어 네트워크(Executive Control Network) 활성화
+## 1. 의복 인지(Enclothed Cognition) 효과와 집행 제어 네트워크(Executive Control Network) 활성화
 
 인간의 인지 시스템은 착용하는 의복의 상징적 의미에 강하게 조율되는 <strong>의복 인지(Enclothed Cognition)</strong> 현상을 겪습니다.
 
@@ -55,9 +56,7 @@ faqs:
 
 ---
 
-## 휴식 복장의 이완 신호를 차단하고 단정한 복장 전환에 몰입하는 수칙
-
-단순히 비싸거나 엄숙한 옷을 입어야 하는 것이 아니라, 뇌가 의복을 통해 '몰입·작업 모드'라는 고유한 역할 정체성을 자각하는 것이 본질입니다. 신체를 지나치게 압박하거나 통증을 유발하는 무리한 정장은 인지 자원을 빼앗으므로, 휴식복과 명확히 구분되면서도 편안하게 집중할 수 있는 단정한 활동복 수준을 설정하는 것이 가장 이상적입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 휴식 복장의 이완 신호를 차단하고 단정한 복장 전환에 몰입하는 수칙
+
+단순히 비싸거나 엄숙한 옷을 입어야 하는 것이 아니라, 뇌가 의복을 통해 '몰입·작업 모드'라는 고유한 역할 정체성을 자각하는 것이 본질입니다. 신체를 지나치게 압박하거나 통증을 유발하는 무리한 정장은 인지 자원을 빼앗으므로, 휴식복과 명확히 구분되면서도 편안하게 집중할 수 있는 단정한 활동복 수준을 설정하는 것이 가장 이상적입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>재택근무나 집에서 공부할 때 잠옷 대신 외출복을 입는 것이 정말 효과가 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ faqs:
       네, 인지심리학의 의복 인지(Enclothed Cognition) 연구가 이를 강력히 입증합니다. 잠옷이나 홈웨어 대신 슬랙스나 셔츠 등 단정한 옷으로 갈아입는 행동만으로도 뇌는 '휴식 맥락'에서 '작업 맥락'으로 상징적 모드를 전환하여, 미루는 습관을 줄이고 몰입 초기 예열 시간을 극적으로 단축시킵니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>정장이나 외출복 전체를 갈아입기 힘들 때, 안경이나 시계 같은 단일 아이템만으로도 효과를 볼 수 있나요?</span>

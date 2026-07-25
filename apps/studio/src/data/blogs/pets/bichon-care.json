@@ -507,6 +507,10 @@
           "피부염 예방"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/bichon_care.png"
   }
 }

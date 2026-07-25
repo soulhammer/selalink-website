@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "纳尔逊·曼德拉的“日出徒手健身”：在牢房中筑起的身心防线"
 description: "纳尔逊·曼德拉在长达27年的监禁生涯中，坚持每天清晨5点进行徒手健身，守护了自己的体力与意志。探索这一通过日出 routine 恢复自主性与心理韧性的方法。"
 pubDate: "2026-01-13"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 nelson-mandela-sunrise-workout 的内容基于 <strong>纳尔逊·曼德拉日出健身历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>纳尔逊·曼德拉日出健身历史评传与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 极端管控下保持自主性的脑科学
+## 1. 极端管控下保持自主性的脑科学
 
 当外部环境受到完全掌控、没有任何自由时，大脑会认定自己失去了行为控制权，从而陷入习得性无助（Learned Helplessness）状态。这直接导致抑郁与认知能力下降。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 清晨的第一步动作决定了一整天的精神状态
-
-清晨一睁开眼，切勿躺在床上刷手机被动接收外部刺激。像纳尔逊·曼德拉那样，主动拉伸身体并积极运动，向大脑传递“我完全掌控着自己的身体与一天”的信号，从而激活生机。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 清晨的第一步动作决定了一整天的精神状态
+
+清晨一睁开眼，切勿躺在床上刷手机被动接收外部刺激。像纳尔逊·曼德拉那样，主动拉伸身体并积极运动，向大脑传递“我完全掌控着自己的身体与一天”的信号，从而激活生机。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>即使睡眠不足，也应该强迫自己在清晨5点起床坚持运动吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       在身体极为疲劳的日子里，与其强行进行剧烈运动，不如将其替换为5-10分钟的轻柔拉伸与深呼吸。曼德拉 routines 的本质并非折磨身体，而是用“自己的意志”开启对一天的主导权。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>体能较弱的初学者应该如何开始？</span>

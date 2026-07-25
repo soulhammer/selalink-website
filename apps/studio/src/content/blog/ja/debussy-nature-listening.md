@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "『月の光』作曲家のインスピレーションの秘訣：クロード・ドビュッシーの早朝自然音リスニングとピンクノイズ・アルファ波誘導法"
 description: "印象主義音楽の巨匠クロード・ドビュッシーが早朝の森の風の音や水の音に耳を澄ませ名曲を生み出した聴覚センサリー・ルーティン。自然のピンクノイズ（Pink Noise）が脳波をアルファ波へと転換し直感的創造性を高める認知神経科学的原理を解き明かします。"
 pubDate: "2026-03-27"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「debussy-nature-listening」は <strong>フランソワ・ルシュール伝記『Claude Debussy』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>フランソワ・ルシュール伝記『Claude Debussy』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 自然のピンクノイズ（Pink Noise）が誘導する大脳アルファ（Alpha）波転換とリラックス
+## 1. 自然のピンクノイズ（Pink Noise）が誘導する大脳アルファ（Alpha）波転換とリラックス
 
 都市の人工的で刺激的な複雑音は聴覚神経を過剰に刺激し、脳を緊張状態であるベータ波（Beta Waves）および交感神経優位状態へと縛り付けます。一方、風の音、水の音、木の葉のかすれる音のように周波数が$1/f$スペクトル密度で分布する自然の「ピンクノイズ（Pink Noise）」に集中すると、脳波が高頻度ストレス状態から快適な8〜12Hzの「アルファ波（Alpha Wave）」状態へと即座に誘導されます。聴覚神経の認知的リラックスは大脳連合領域の無作為なシナプス結合を活性化し、覚醒状態では到達できない直感的柔軟性と独創的創造性を誘導します。
 
 ---
 
-## 注意事項＆ヒント：人工音の遮断とただ音の質感と響きにのみ聴覚集中
-
-自然リスニングルーティンの効果を完全に楽しむには、音楽、ポッドキャスト、ニュースなど言語的・人工的な音響を完全に消しておかなければなりません。受動的に音を聞くことに留まらず、風の音の質感、水滴の音の高低、木の葉の響きなど自然音の質感（Texture）と波動を5分間微分するように精密に分離して聞き取る「能動的感覚聴取」を実行してこそ、前頭葉の認知過負荷が解消されアルファ波転換が達成されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：人工音の遮断とただ音の質感と響きにのみ聴覚集中
+
+自然リスニングルーティンの効果を完全に楽しむには、音楽、ポッドキャスト、ニュースなど言語的・人工的な音響を完全に消しておかなければなりません。受動的に音を聞くことに留まらず、風の音の質感、水滴の音の高低、木の葉の響きなど自然音の質感（Texture）と波動を5分間微分するように精密に分離して聞き取る「能動的感覚聴取」を実行してこそ、前頭葉の認知過負荷が解消されアルファ波転換が達成されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>都心の中央で自然音を聞く公園や森がない場合はどうしますか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       実際の屋外移動が難しい場合は、早朝の時間帯に窓を開けて風の音や静寂に集中するか、ノイズキャンセリングヘッドホンで高品質な$1/f$ピンクノイズ（自然の雨の音、森の音の音源）を5分間集中聴取する能動的センサリー・トレーニングで完璧に代替可能です。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>早朝の時間帯ではなく昼や午後の業務中に実践しても効果がありますか？</span>

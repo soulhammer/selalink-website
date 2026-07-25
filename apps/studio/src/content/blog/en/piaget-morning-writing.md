@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "How the Brain Precisely Structures Thoughts? Jean Piaget's Morning Writing and Contemplative Walking"
 description: "Jean Piaget, the great Swiss child psychologist. Discover the neuroscientific principles and 3-step practical guide of his morning 4-page writing and afternoon contemplative walking routines."
 pubDate: "2026-01-01"
@@ -38,14 +39,14 @@ In today's post, we analyze the neuroscientific mechanics behind Piaget's mornin
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding piaget-morning-writing is based on <strong>Historical biography & autobiographical record verification of Jean Piaget & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography & autobiographical record verification of Jean Piaget & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Working Memory Externalization and Default Mode Network Synchronization
+## 1. Working Memory Externalization and Default Mode Network Synchronization
 
 Relying purely on mental effort to solve complex problems overloads limited working memory capacity. Piaget's morning writing served as <strong>'Working Memory Externalization'</strong>, offloading mental burden onto paper.
 
@@ -53,9 +54,7 @@ The subsequent afternoon walk stimulates Brain-Derived Neurotrophic Factor (BDNF
 
 ---
 
-## Balance Information Input with Dedicated Output and Mental Ventilation
-
-Modern life floods the brain with constant smartphone input, while depriving it of expressive output and contemplative rest. Balance your daily rhythm like Piaget—combining morning expressive writing (output) with afternoon peaceful walking (ventilation) to grant your brain space to process.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Modern life floods the brain with constant smartphone input, while depriving it 
   </p>
 </div>
 
+---
+
+## 3. Balance Information Input with Dedicated Output and Mental Ventilation
+
+Modern life floods the brain with constant smartphone input, while depriving it of expressive output and contemplative rest. Balance your daily rhythm like Piaget—combining morning expressive writing (output) with afternoon peaceful walking (ventilation) to grant your brain space to process.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Must I write by hand, or can I substitute typing on a digital device?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Modern life floods the brain with constant smartphone input, while depriving it 
       While typing works, handwriting stimulates fine motor muscles in your fingertips, engaging the prefrontal and somatosensory cortices much more intensely to deepen focus. Handwriting is strongly recommended.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What if there are no natural parks or lakes nearby for walking?</span>

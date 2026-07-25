@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Spinozas Linsenschleifen: Wie einfache wiederholte körperliche Arbeit Gehirnmüdigkeit vertreibt"
 description: "Entdecken Sie, wie der pantheistische Philosoph Spinoza kognitive Überlastung abbaute und tiefe Konzentration beim Verfassen der „Ethik“ durch das Schleifen von Linsen wiederherstellte."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ Vor der Werkbank mit Glasstaub lieferten ihm die feinen, wiederholten Handbewegu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu spinoza-lens-grinding basiert auf <strong>Historische Biographieforschung zu Spinozas Linsenschleifen & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biographieforschung zu Spinozas Linsenschleifen & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurowissenschaftliche Grundlagen: Wie feine Motorik kognitivem Burnout vorbeugt
+## 1. Neurowissenschaftliche Grundlagen: Wie feine Motorik kognitivem Burnout vorbeugt
 
 Fortlaufendes komplexes Denken erschöpft die kognitiven Ressourcen im präfrontalen Kortex. Der Wechsel zu feiner manueller Arbeit, die sich auf den Tastsinn konzentriert (wie das Linsenschleifen), aktiviert den motorischen Kortex und das Kleinhirn und unterdrückt sofort ein überaktives Default Mode Network (DMN). Dies ermöglicht dem präfrontalen Kortex die Erholung.
 
 ---
 
-## Wahl vollkommen dedigitalisierter manueller Arbeit
-
-Um diesen Entspannungseffekt zu erzielen, müssen Sie sich vollständig von Smartphones oder Tastaturen trennen. Die Bedienung digitaler Geräte erfordert immer noch logisches Denken und lindert die Müdigkeit nicht. Wählen Sie einfache körperliche Aktivitäten wie Geschirrspülen, Handschreiben oder Modellbau.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Um diesen Entspannungseffekt zu erzielen, müssen Sie sich vollständig von Smar
     Kehren Sie nach 15 Minuten Handarbeit an den Computer zurück und nehmen Sie Ihre Planungs- oder Entwicklungsarbeit wieder auf. Mit wiederhergestelltem kognitivem Puffer treffen Sie klarere Entscheidungen.
   </p>
 </div>
+
+---
+
+## 3. Wahl vollkommen dedigitalisierter manueller Arbeit
+
+Um diesen Entspannungseffekt zu erzielen, müssen Sie sich vollständig von Smartphones oder Tastaturen trennen. Die Bedienung digitaler Geräte erfordert immer noch logisches Denken und lindert die Müdigkeit nicht. Wählen Sie einfache körperliche Aktivitäten wie Geschirrspülen, Handschreiben oder Modellbau.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

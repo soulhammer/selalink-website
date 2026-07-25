@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "インスピレーションを求めて墓地を散策する：メアリー・シェリーの「厳粛な孤独と思索」ルーティン"
 description: "小説『フランケンシュタイン』を執筆したメアリー・シェリーがなぜ墓地や歴史的空間を散策したのかを探ります。厳粛さと畏怖の念が引き出す脳の省察と深い創造性の科学を解説します。"
 pubDate: "2026-07-07"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「shelley-cemetery-walk」は <strong>メアリー・シェリーの自伝・文学史記録の考証＆環境心理学（Environmental Psychology）の畏怖（Awe）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>メアリー・シェリーの自伝・文学史記録の考証＆環境心理学（Environmental Psychology）の畏怖（Awe）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 厳粛な空間が引き出す認知の畏怖と思索の神経系
+## 1. 厳粛な空間が引き出す認知の畏怖と思索の神経系
 
 環境心理学の最新研究によると、墓地、大聖堂、古い遺跡など歴史的深みと厳粛さを漂わせる静かな空間に入ると、人間の脳は「畏怖（Awe）」という特殊な感情を抱きます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 騒音が遮断された静かな歴史的・自然的空間を活用する
-
-メアリー・シェリーにとって墓地は生と死を省察する安息所でした。必ずしも墓地でなくても、日常の干渉を受けない古い森の小道や神社仏閣、静かな図書室や歴史的遺跡を探してみてください。核心は世俗的な刺激や商業的騒音から完全に分離された空間を脳に提供することです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     木陰やベンチに静かに立ち止まるか腰掛け、手帳を開きます。畏怖の念が残した人生や人間に関する深遠な文章やコアなひらめきをノートに記します。
   </p>
 </div>
+
+---
+
+## 3. 騒音が遮断された静かな歴史的・自然的空間を活用する
+
+メアリー・シェリーにとって墓地は生と死を省察する安息所でした。必ずしも墓地でなくても、日常の干渉を受けない古い森の小道や神社仏閣、静かな図書室や歴史的遺跡を探してみてください。核心は世俗的な刺激や商業的騒音から完全に分離された空間を脳に提供することです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

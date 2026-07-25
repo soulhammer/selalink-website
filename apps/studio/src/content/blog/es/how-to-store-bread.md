@@ -21,6 +21,7 @@ faqs:
     answer: "At refrigeration temperatures (2-5°C), the starch in bread recrystallizes and loses moisture rapidly (retrogradation). Keep only immediate portions at room temp, and freeze the rest."
   - question: "What is the best way to reheat frozen bread?"
     answer: "Thaw it naturally at room temperature, then toast it lightly in a toaster or oven. This restores the original 'crispy outside, soft inside' texture."
+
 ---
 
 ¿Guardó pan blando en el refrigerador y vio cómo se ponía seco y duro? Hoy, FreshSnap comparte trucos científicos de congelación para conservar su esponjosidad por mucho tiempo.
@@ -29,10 +30,10 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-emerald-800 dark:text-emerald-300 m-0">
-      Autoridad Científica Verificada
+      Verified Reliability
     </h5>
     <p class="text-xs text-emerald-700/80 dark:text-emerald-400/80 m-0 mt-1.5 leading-relaxed">
-      Esta guía de conservación cumple con las directrices oficiales de: <strong>USDA & FSA</strong>.
+      Based on official storage standards. <strong>USDA & FSA</strong>.
     </p>
   </div>
 </div>
@@ -49,7 +50,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 1</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nunca guarde en la zona de refrigeración — Evite que se reseque ❌🍞</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -59,7 +60,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva las rebanadas una por una con film plástico — Conservación a Temp. Ambiente (3Días) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -69,7 +70,7 @@ Comprender las características únicas de cada ingrediente y seguir el método 
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">PASO 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Coloque las rebanadas envueltas en una bolsa para congelar y congele de inmediato ❄️ — Almacenamiento Congelado (90Días)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le regard miroir répliquant le pas d'autrui : La routine de mimétisme physique et d'analyse humaine de Charlie Chaplin"
 description: "Découvrez comment l'icône du cinéma muet Charlie Chaplin observait et imitait la démarche de personnes inconnues dans la rue, et explorez les principes neuroscientifiques d'activation des neurones miroirs prémoteurs pour étendre le schéma corporel et maximiser l'empathie."
 pubDate: "2026-03-01"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant charlie-chaplin est basée sur <strong>Vérification Historique issue de l'autobiographie de Charlie Chaplin *Histoire de ma vie (My Autobiography)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Charlie Chaplin *Histoire de ma vie (My Autobiography)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation des neurones miroirs prémoteurs et extension du schéma corporel (Body Schema)
+## 1. Activation des neurones miroirs prémoteurs et extension du schéma corporel (Body Schema)
 
 Répliquer physiquement la cinématique d'autrui active le système des « Neurones Miroirs » dans le cortex prémoteur. Cette pratique d'imitation motrice élargit la résolution du « Schéma Corporel (Body Schema) ». De plus, via la Cognition Incarnée (Embodied Cognition), reproduire les tensions musculaires et les rythmes permet au cerveau de décoder les indices émotionnels non verbaux (anxiété, fatigue) avec plus de 70 % de précision supplémentaire, élevant la métacognition.
 
 ---
 
-## Précautions & Conseils : Utiliser la vision périphérique discrète & Garantir la sécurité et le respect
-
-Lors de cet entraînement, évitez de fixer les personnes, ce qui provoque de l'inconfort ou des risques de sécurité. Utilisez la « Vision Périphérique » pour suivre les trajectoires des silhouettes au lieu d'un regard fixe. Lors du mimétisme, maintenez une distance respectueuse et évitez les gestes exagérés ; concentrez-vous sur la géométrie de l'équilibre musculaire.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lors de cet entraînement, évitez de fixer les personnes, ce qui provoque de l'
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Utiliser la vision périphérique discrète & Garantir la sécurité et le respect
+
+Lors de cet entraînement, évitez de fixer les personnes, ce qui provoque de l'inconfort ou des risques de sécurité. Utilisez la « Vision Périphérique » pour suivre les trajectoires des silhouettes au lieu d'un regard fixe. Lors du mimétisme, maintenez une distance respectueuse et évitez les gestes exagérés ; concentrez-vous sur la géométrie de l'équilibre musculaire.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment réagir si un piéton s'aperçoit que je l'observe ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lors de cet entraînement, évitez de fixer les personnes, ce qui provoque de l'
       Évitez le contact visuel direct. Portez des lunettes de soleil ou tenez une boisson pour dévier votre regard tout en pratiquant le balayage par « Vision Périphérique », en vous concentrant sur la dynamique de la silhouette.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Le mimétisme physique contribue-t-il réellement à décoder les états émotionnels d'autrui ?</span>

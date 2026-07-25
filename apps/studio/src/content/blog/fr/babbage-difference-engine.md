@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode de décomposition de la machine différentielle de Charles Babbage : Comment réduire les erreurs et fautes à 0% grâce à la modularisation mécanique des engrenages"
 description: "Découvrez les faits historiques sur le père de l'informatique du XIXe siècle, Charles Babbage, qui a conçu la première calculatrice mécanique sans erreur au monde grâce à la modularisation de précision des engrenages, ainsi que les principes neuroscientifiques de la modularisation des systèmes."
 pubDate: "2026-01-10"
@@ -35,25 +36,23 @@ Cette habitude de démanteler d'immenses dilemmes en modules d'engrenages de tai
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant babbage-difference-engine est basée sur <strong>Vérification Historique issue de l'autobiographie de Charles Babbage *Passages from the Life of a Philosopher* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de Charles Babbage *Passages from the Life of a Philosopher* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi la modularisation des systèmes élimine la surcharge de la mémoire de travail préfrontale
+## 1. Pourquoi la modularisation des systèmes élimine la surcharge de la mémoire de travail préfrontale
 
 Selon la recherche en sciences cognitives, la mémoire de travail (Working Memory) humaine ne peut traiter que 4 à 7 blocs d'informations à la fois. Décomposer de complexes dilemmes en modules d'engrenages indépendants prévient la surcharge et la fatigue du cortex préfrontal, permettant de contrôler les erreurs pour les ramener à près de 0%.
 
 ---
 
-## Précautions lors de l'alignement de la modularisation des systèmes pour éviter les erreurs mécaniques
-
-Ne mélangez pas et n'exécutez pas de façon aléatoire l'ordre des modules décomposés. Vous devez strictly aligner les relations de cause à effet pour que la sortie du module précédent s'enchaîne de façon fluide avec l'entrée du module suivant. Plutôt que de compter imprudemment sur la seule volonté, concevoir à l'avance un environnement physique et des déclencheurs d'habitudes où l'action est naturellement provoquée constitue le cœur de la pérennité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Ne mélangez pas et n'exécutez pas de façon aléatoire l'ordre des modules dé
   </p>
 </div>
 
+---
+
+## 3. Précautions lors de l'alignement de la modularisation des systèmes pour éviter les erreurs mécaniques
+
+Ne mélangez pas et n'exécutez pas de façon aléatoire l'ordre des modules décomposés. Vous devez strictly aligner les relations de cause à effet pour que la sortie du module précédent s'enchaîne de façon fluide avec l'entrée du module suivant. Plutôt que de compter imprudemment sur la seule volonté, concevoir à l'avance un environnement physique et des déclencheurs d'habitudes où l'action est naturellement provoquée constitue le cœur de la pérennité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Cette méthode de décomposition modulaire peut-elle également s'appliquer au codage logiciel ou à la conception de tâches ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Ne mélangez pas et n'exécutez pas de façon aléatoire l'ordre des modules dé
       Oui ! Les concepts clés des microservices modernes et de la programmation modulaire découlent directement de la logique de modularisation des engrenages de la machine différentielle de Charles Babbage.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si une erreur survient dans un module spécifique ?</span>

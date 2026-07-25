@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Merancang Diri Sendiri: Rutin Pencatatan Upan Balik Visual Maestro Behavioris B.F. Skinner"
 description: "Memperkenalkan kebiasaan pelacakan kuantifikasi perilaku harian B. F. Skinner, maestro psikologi perilaku. Panduan praktis 3 langkah untuk memperkuat mekanisme perilaku otak melalui umpan balik numerik real-time."
 pubDate: "2026-05-14"
@@ -33,25 +34,23 @@ Dalam artikel hari ini, kita memeriksa prinsip kerja ilmiah dari rutinitas kuant
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai skinner-behavior-tracking didasarkan pada <strong>Biografi historis, catatan autobiografi pelacakan perilaku Skinner & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Biografi historis, catatan autobiografi pelacakan perilaku Skinner & penelitian neurosains kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Efek Upan Balik Visual' yang Merangsang Sirkuit Dopamin
+## 1. 'Efek Upan Balik Visual' yang Merangsang Sirkuit Dopamin
 
 Menurut psikologi behavioris, otak manusia mengembangkan kecenderungan yang kuat untuk mengulangi suatu perilaku ketika mengalami imbalan langsung atau respons positif tepat setelah tindakan tersebut. Ini dikenal dalam pengondisian operan sebagai <strong>'Penguatan Perilaku (Reinforcement)'</strong>. Memeriksa jumlah kata yang ditulis atau menit fokus dalam bentuk angka, dan memvisualisasikannya pada grafik (Visual Feedback), adalah imbalan non-materi luar biasa yang memicu pelepasan dopamin dalam sistem prediksi imbalan otak. Kebiasaan mencatat ini tidak mengandalkan kemauan keras yang samar, melainkan secara sukarela merangsang dan memantapkan frekuensi fokus mendalam melalui loop umpan balik data.
 
 ---
 
-## Waspadai Manipulasi Metrik dan Pembalikan Sarana-Tujuan
-
-Kesalahan umum saat menjalankan kebiasaan mencatat ini adalah mengorbankan kualitas tulisan atau membiarkan timer menyala tanpa arti hanya demi menaikkan angka grafik atau jumlah kata. Seperti yang dinyatakan dalam Hukum Goodhart, 'Ketika suatu ukuran menjadi target, ukuran itu tidak lagi menjadi ukuran yang baik.' Pencatatan harus berfungsi sebagai cermin objektif yang memantulkan alur produktivitas, dan angka itu sendiri tidak boleh menjadi tujuan akhir dari kerja intelektual.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Kesalahan umum saat menjalankan kebiasaan mencatat ini adalah mengorbankan kuali
     Plot data produktivitas harian Anda dalam grafik garis, lalu tempatkan di lokasi yang mudah terlihat atau folder favorit untuk memantau pencapaian secara visual dan memperkuat motivasi.
   </p>
 </div>
+
+---
+
+## 3. Waspadai Manipulasi Metrik dan Pembalikan Sarana-Tujuan
+
+Kesalahan umum saat menjalankan kebiasaan mencatat ini adalah mengorbankan kualitas tulisan atau membiarkan timer menyala tanpa arti hanya demi menaikkan angka grafik atau jumlah kata. Seperti yang dinyatakan dalam Hukum Goodhart, 'Ketika suatu ukuran menjadi target, ukuran itu tidak lagi menjadi ukuran yang baik.' Pencatatan harus berfungsi sebagai cermin objektif yang memantulkan alur produktivitas, dan angka itu sendiri tidak boleh menjadi tujuan akhir dari kerja intelektual.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

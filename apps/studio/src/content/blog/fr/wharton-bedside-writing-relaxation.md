@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Flux créatif guidé par la relaxation : La routine d'écriture matinale au lit d'Edith Wharton"
 description: "Edith Wharton, la grande auteure qui fut la première femme à remporter le prix Pulitzer de fiction. Découvrez son secret neurophysiologique pour écrire confortablement au lit avec ses chiens sans se lever le matin."
 pubDate: "2026-06-21"
@@ -29,25 +30,23 @@ Edith Wharton s'est imposée comme une figure incontournable de la littérature 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant wharton-bedside-writing-relaxation est basée sur <strong>Examen des biographies historiques et des récits autobiographiques d'Edith Wharton et recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Examen des biographies historiques et des récits autobiographiques d'Edith Wharton et recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaxation physique et action cognitive du mode de dominance parasympatique
+## 1. Relaxation physique et action cognitive du mode de dominance parasympatique
 
 Lors de la création d'idées complexes, le frein principal est la rigidité des circuits du lobe frontal due à la pression de 'bien écrire'. Conserver un corps détendu au lit en caressant ses animaux active le système nerveux parasympatique. La sensation de sécurité diminue le cortisol et libère des ondes alpha qui relient naturellement les fragments d'idées dispersés dans le cerveau pour tisser une imagination romanesque fluide.
 
 ---
 
-## Précautions et conseils
-
-Le piège lors de l'écriture au lit est de se rendormir. Si le cerveau produit des ondes delta, la somnolence remplace la création. Évitez de vous allonger à plat ; utilisez des coussins pour une position demi-assise (45 à 60 degrés). Gardez la pièce fraîche pour maintenir l'esprit en éveil tout en relâchant le corps.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Le piège lors de l'écriture au lit est de se rendormir. Si le cerveau produit 
     Écrivez pendant 30 minutes dans un état de calme profond. Oubliez la censure perfectionniste et laissez couler les idées librement sur le papier.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Le piège lors de l'écriture au lit est de se rendormir. Si le cerveau produit des ondes delta, la somnolence remplace la création. Évitez de vous allonger à plat ; utilisez des coussins pour une position demi-assise (45 à 60 degrés). Gardez la pièce fraîche pour maintenir l'esprit en éveil tout en relâchant le corps.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

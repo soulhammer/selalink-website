@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'immersion au-delà de la privation : La routine de dessin sur papier aluminium de Lee Jung-seob et l'activation somatosensorielle"
 description: "Découvrez comment le peintre Lee Jung-seob a maintenu sa passion artistique dans l'extrême pauvreté en gravant sur du papier aluminium de paquets de cigarettes. Explorez la neuroscience du retour multisensoriel, la stimulation du cortex somatosensoriel et un guide en 3 étapes."
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive et l'art-thérapie so
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant leejungseob-tin-foil-drawing est basée sur <strong>Vérification Historique issue des biographies de Lee Jung-seob, des archives du Musée National d'Art Moderne et Contemporain (MMCA) & de la Recherche en Neurosciences Cognitives et Art-thérapie</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies de Lee Jung-seob, des archives du Musée National d'Art Moderne et Contemporain (MMCA) & de la Recherche en Neurosciences Cognitives et Art-thérapie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Retour multisensoriel visuo-tactile et stimulation du cortex somatosensoriel
+## 1. Retour multisensoriel visuo-tactile et stimulation du cortex somatosensoriel
 
 La stimulation tactile active le <strong>Cortex Somatosensoriel</strong>, un centre de traitement sensoriel primitif. Graver des lignes sur une feuille métallique stimule les mécanorécepteurs des doigts, provoquant un <strong>Éveil Tactile (Tactile Arousal)</strong> qui stimule les réseaux préfrontaux. L'association de la résistance haptique, du crissement sonore et de la profondeur visuelle crée un <strong>Boucle de Retour Multisensoriel</strong>. En occupant la <strong>Mémoire de Travail</strong>, ce processus bloque l'anxiété et les ruminations, procurant un état de <strong>Pleine Conscience (Mindfulness)</strong>.
 
 ---
 
-## Mise en garde : Ne pas attendre des conditions idéales pour s'immerger dans la stimulation tactile
-
-Évitez de différer vos projets en prétextant un manque de matériel ou en attendant des conditions parfaites. La capacité neurologique d'immersion haptique réside en vous, quel que soit le support : même sur un bout de papier aluminium ou una chute de papier. Abandonnez l'anxiété a la sensation physique du frottement.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La stimulation tactile active le <strong>Cortex Somatosensoriel</strong>, un cen
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Ne pas attendre des conditions idéales pour s'immerger dans la stimulation tactile
+
+Évitez de différer vos projets en prétextant un manque de matériel ou en attendant des conditions parfaites. La capacité neurologique d'immersion haptique réside en vous, quel que soit le support : même sur un bout de papier aluminium ou una chute de papier. Abandonnez l'anxiété a la sensation physique du frottement.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quel est le principe scientifique expliquant pourquoi le dessin sur papier aluminium apaise le stress ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La stimulation tactile active le <strong>Cortex Somatosensoriel</strong>, un cen
       La résistance tactile et le crissement sonore produits lors de la gravure occupent les canaux somatosensoriels du cerveau. Cela réprime les signaux d'anxiété de l'amygdale et interrompt les ruminations, ancrant la concentration dans l'instant présent.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Puis-je remplacer le papier aluminium et le clou par du papier classique et un stylo bille ?</span>

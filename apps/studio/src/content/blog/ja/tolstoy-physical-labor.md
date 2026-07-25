@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "貴族でありながら執筆前に畑を耕した？ レフ・トルストイの身体覚醒ルーティン"
 description: "大文豪レフ・トルストイが『戦争と平和』のような膨大な小説を執筆できたエネルギーはどこから来たのでしょうか。毎朝執筆前に身体運動と体操を通じて頭脳機能を呼び醒ました彼の健康ルーティンを紐解きます。"
 pubDate: "2026-05-11"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「tolstoy-physical-labor」は <strong>レフ・トルストイの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>レフ・トルストイの歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳由来神経栄養因子（BDNF）と心拍数増加の認知効果
+## 1. 脳由来神経栄養因子（BDNF）と心拍数増加の認知効果
 
 神経科学の研究によると、朝の時間に大筋肉群を使って短時間で心拍数を上げる運動は、大脳血管を拡張して大脳皮質全体の血流供給をスムーズにします。これにより酸素供給率が高まり、前頭葉の認知演算処理速度と記憶能力が即座に向上します。
 
@@ -51,11 +52,7 @@ faqs:
 
 ---
 
-## 成功的なルーティンのための脳科学的アドバイス
-
-身体を動かして脳に強力なウォームアップの火花を散らしましょう。
-
-目がうっすら開いた半覚醒の状態で無理にデスクに座りモニターを見つめるのは時間の無駄です。トルストイが執筆直前に激しく身体を鍛えて脳を完全に呼び醒ましたように、わずか15分でも汗がにじむほどエネルギーを放出してスタートしてください。脳細胞が活性化した覚醒状態の午前中の集中力は、通常の何倍もの生産性を発揮します。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,6 +83,14 @@ faqs:
     シャワーを浴びた後、運動によって誘導された大脳血流増加とBDNF放出が極大化した覚醒状態の最初の1〜2時間で、その日解決すべき最も高い認知力を要する論理的・企画的コア業務を開始します。
   </p>
 </div>
+
+---
+
+## 3. 成功的なルーティンのための脳科学的アドバイス
+
+身体を動かして脳に強力なウォームアップの火花を散らしましょう。
+
+目がうっすら開いた半覚醒の状態で無理にデスクに座りモニターを見つめるのは時間の無駄です。トルストイが執筆直前に激しく身体を鍛えて脳を完全に呼び醒ましたように、わずか15分でも汗がにじむほどエネルギーを放出してスタートしてください。脳細胞が活性化した覚醒状態の午前中の集中力は、通常の何倍もの生産性を発揮します。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

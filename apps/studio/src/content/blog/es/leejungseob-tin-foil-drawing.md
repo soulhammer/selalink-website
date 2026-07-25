@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inmersión que Supera la Privación: La Rutina de Dibujo en Papel de Aluminio de Lee Jung-seob y la Activación Somatosensorial"
 description: "Descubra cómo el pintor Lee Jung-seob mantuvo su enfoque artístico en la pobreza grabando sobre el papel de aluminio de cajas de cigarrillos. Explore la neurociencia de la retroalimentación multisensorial, la activación de la corteza somatosensorial y una guía de 3 pasos."
 pubDate: "2026-03-14"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva y los principios
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre leejungseob-tin-foil-drawing se basa en <strong>Verificación Histórica de las Biografías de Lee Jung-seob, Archivos del Museo Nacional de Arte Moderno y Contemporáneo (MMCA) e Investigación en Neurociencia Cognitiva y Arteterapia</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Biografías de Lee Jung-seob, Archivos del Museo Nacional de Arte Moderno y Contemporáneo (MMCA) e Investigación en Neurociencia Cognitiva y Arteterapia</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Retroalimentación Multisensorial Visomotora y Activación de la Corteza Somatosensorial
+## 1. Retroalimentación Multisensorial Visomotora y Activación de la Corteza Somatosensorial
 
 En neurociencia, la estimulación táctil activa con fuerza la <strong>Corteza Somatosensorial</strong>, un centro de procesamiento primitivo. Grabar líneas sobre metal con un punzón estimula los mecanorrectores de los dedos, induciendo un <strong>Arousal Táctil (Tactile Arousal)</strong> que activa las redes prefrontales. Esta combinación de resistencia táctil, sonido de raspado y profundidad visual forma un <strong>Bucle de Retroalimentación Multisensorial</strong>. Al saturar la <strong>Memoria de Trabajo</strong>, se bloquea la ansiedad y la rumiación, proporcionando un estado de <strong>Atención Plena (Mindfulness)</strong>.
 
 ---
 
-## Precaución: Evite Esperar el Entorno Perfecto para Sumergirse en la Estimulación Táctil
-
-Evite posponer sus proyectos culpando a las herramientas imperfectas o esperando condiciones ideales. La capacidad neurobiológica para la inmersión táctil existe en su interior, sin importar el medio: incluso en un trozo de papel o aluminio desechado. Entregue la ansiedad a la sensación física de la fricción al trazar sobre la superficie.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Evite posponer sus proyectos culpando a las herramientas imperfectas o esperando
   </p>
 </div>
 
+---
+
+## 3. Precaución: Evite Esperar el Entorno Perfecto para Sumergirse en la Estimulación Táctil
+
+Evite posponer sus proyectos culpando a las herramientas imperfectas o esperando condiciones ideales. La capacidad neurobiológica para la inmersión táctil existe en su interior, sin importar el medio: incluso en un trozo de papel o aluminio desechado. Entregue la ansiedad a la sensación física de la fricción al trazar sobre la superficie.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cuál es el principio científico por el cual grabar sobre papel de aluminio reduce el estrés?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Evite posponer sus proyectos culpando a las herramientas imperfectas o esperando
       La resistencia táctil y el sonido producidos al grabar el metal satisfacen los canales somatosensoriales del cerebro. Esto reduce las señales de amenaza en la amígdala y evita la rumiación emocional, anclando la atención al presente.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo sustituir el papel de aluminio y el clavo con papel convencional y un bolígrafo?</span>

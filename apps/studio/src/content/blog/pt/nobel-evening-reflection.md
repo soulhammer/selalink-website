@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O método de organização do inventor com 355 patentes? A rotina de reflexão noturna de Alfred Nobel"
 description: "Alfred Nobel, fundador dos Prêmios Nobel. Descubra sua rotina metacognitiva noturna de revisar experimentos em um diário multilíngue para alcançar 355 patentes."
 pubDate: "2026-04-15"
@@ -35,17 +36,17 @@ Neste artigo, mostramos a neurociência por trás da rotina noturna de Nobel e c
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre nobel-evening-reflection é baseada em <strong>Pesquisa de biografias históricas e registros autobiográficos de Alfred Nobel & estudos em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de biografias históricas e registros autobiográficos de Alfred Nobel & estudos em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reconsolidação da memória no hipocampo e estimulação metacognitiva
+## 1. Reconsolidação da memória no hipocampo e estimulação metacognitiva
 
 Informações registradas ao longo do dia tendem a ser esquecidas no sono se não forem organizadas.
 
@@ -53,9 +54,7 @@ Resumir registros diários à noite favorece a <strong>'Reconsolidação da Mem�
 
 ---
 
-## Foque em fatos e melhorias, não em autoculpa emocional
-
-Não se culpe pelos erros do dia. Trate falhas como dados objetivos sobre o que ajustar. Em vez de confiar só na força de vontade, crie um ambiente e gatilhos que induzam a ação naturalmente.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Não se culpe pelos erros do dia. Trate falhas como dados objetivos sobre o que 
   </p>
 </div>
 
+---
+
+## 3. Foque em fatos e melhorias, não em autoculpa emocional
+
+Não se culpe pelos erros do dia. Trate falhas como dados objetivos sobre o que ajustar. Em vez de confiar só na força de vontade, crie um ambiente e gatilhos que induzam a ação naturalmente.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É necessário escrever em vários idiomas como Nobel?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Não se culpe pelos erros do dia. Trate falhas como dados objetivos sobre o que 
       Não. O essencial é reestruturar as ideias com suas próprias palavras no idioma nativo. Escrever uma frase em uma língua que está aprendendo traz estímulo cognitivo extra.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que fazer se eu me cansar de escrever o diário todas as noites?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "¿El alivio del estrés de un físico cuántico? La rutina nocturna de lectura de poesía de J. Robert Oppenheimer"
 description: "J. Robert Oppenheimer, director del Proyecto Manhattan. Descubra cómo leer poesía clásica en sánscrito en medio de una presión extrema restauró su equilibrio cognitivo y relajó su cerebro."
 pubDate: "2026-03-08"
@@ -38,22 +39,20 @@ En este artículo, examinamos los mecanismos neurocientíficos detrás de la rut
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre oppenheimer-poetry-balance se basa en <strong>Verificación de biografías históricas y registros autobiográficos de J. Robert Oppenheimer e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación de biografías históricas y registros autobiográficos de J. Robert Oppenheimer e investigación en neurociencia cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Transición heterogénea que despierta los circuitos emocionales del hemisferio derecho tras una intensa cognición numérica
+## 1. Transición heterogénea que despierta los circuitos emocionales del hemisferio derecho tras una intensa cognición numérica
 
 La exposición prolongada a números y algoritmos causa sobrecarga en el hemisferio izquierdo, reduciendo significativamente la flexibilidad cognitiva. Leer literatura o poesía de una naturaleza completamente diferente, como hizo Oppenheimer, induce una <strong>'transición cognitiva heterogénea'</strong> en el cerebro. La sobrecarga en la corteza matemática se detiene y la corteza emocional del hemisferio derecho se activa, reduciendo los niveles de hormonas del estrés.
 
 ---
 
-## Evite analizar y déjese llevar por la sensibilidad poética del texto
-
-Intentar analizar la gramática o la lógica de las frases devuelve al cerebro al modo analítico. Sienta en silencio las imágenes y el ritmo. En lugar de depender únicamente de la voluntad, diseñe un entorno físico y señales de hábito que induzcan la acción de forma natural para garantizar la continuidad.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Intentar analizar la gramática o la lógica de las frases devuelve al cerebro a
   </p>
 </div>
 
+---
+
+## 3. Evite analizar y déjese llevar por la sensibilidad poética del texto
+
+Intentar analizar la gramática o la lógica de las frases devuelve al cerebro al modo analítico. Sienta en silencio las imágenes y el ritmo. En lugar de depender únicamente de la voluntad, diseñe un entorno físico y señales de hábito que induzcan la acción de forma natural para garantizar la continuidad.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Leer novelas o ensayos en lugar de poesía produce el mismo efecto?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Intentar analizar la gramática o la lógica de las frases devuelve al cerebro a
       Sí, las historias cortas con un fuerte tono lírico, la poesía o los ensayos reflexivos son mucho más eficaces para aliviar la fatiga cognitiva numérica que las novelas largas centradas en la trama.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Está bien leer en un libro electrónico (e-book)?</span>

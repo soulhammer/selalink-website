@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jenius yang Bermain Biliar Saat Mengalami Kebuntuan Komposisi: Kebiasaan Aktivasi Mode Default Mozart"
 description: "Wolfgang Amadeus Mozart mengaktifkan otak bawah sadarnya (DMN) dengan bermain biliar setiap kali inspirasi musik terhenti. Pelajari rahasia ilmiah bagaimana istirahat kognitif menghasilkan terobosan kreatif dan rutinitas permainan visual-spasial 15 menit."
 pubDate: "2026-05-01"
@@ -31,17 +32,17 @@ Dalam artikel ini, kita mengupas prinsip neurosains di balik ritual biliar Mozar
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai mozart-billiard-ideation didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Mozart & Studi Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Riset Biografi Historis dan Catatan Autobiografi Mozart & Studi Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Otak Bawah Sadar dan 'Default Mode Network'
+## 1. Otak Bawah Sadar dan 'Default Mode Network'
 
 Menatap layar tanpa henti untuk menyelesaikan masalah rumit menyebabkan pemrosesan memori kerja di korteks prefrontal terlalu jenuh, menjebak otak dalam stagnasi mental. Sebaliknya, mengalihkan perhatian ke permainan fisik ringan yang melibatkan prediksi lintasan visual-spasial—seperti biliar—mengaktifkan Default Mode Network (DMN).
 
@@ -49,11 +50,7 @@ DMN adalah mekanisme sintesis bawah sadar yang bekerja saat pikiran sadar berist
 
 ---
 
-## Tips Neurosains untuk Rutinitas yang Sukses
-
-<strong>Kreativitas muncul dari berganti mode, bukan konsentrasi paksaan</strong>
-
-Otak yang terobsesi pada satu ide terjebak dalam pandangan terowongan (tunnel vision), memblokir koneksi baru. Duduk dipaksakan saat lelah mental hanya menguras energi kognitif. Seperti Mozart mengaktifkan otak bawah sadarnya di samping meja biliar untuk memunculkan simfoni abadi, segeralah berdiri saat mengalami kebuntuan dan pemicu DMN Anda melalui permainan spasial ringan.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +81,14 @@ Otak yang terobsesi pada satu ide terjebak dalam pandangan terowongan (tunnel vi
     Duduk kembali dan amati tugas Anda. Sering kali, jalan baru atau terobosan kreatif yang disintesis selama istirahat akan muncul secara alami ke permukaan kesadaran.
   </p>
 </div>
+
+---
+
+## 3. Tips Neurosains untuk Rutinitas yang Sukses
+
+<strong>Kreativitas muncul dari berganti mode, bukan konsentrasi paksaan</strong>
+
+Otak yang terobsesi pada satu ide terjebak dalam pandangan terowongan (tunnel vision), memblokir koneksi baru. Duduk dipaksakan saat lelah mental hanya menguras energi kognitif. Seperti Mozart mengaktifkan otak bawah sadarnya di samping meja biliar untuk memunculkan simfoni abadi, segeralah berdiri saat mengalami kebuntuan dan pemicu DMN Anda melalui permainan spasial ringan.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

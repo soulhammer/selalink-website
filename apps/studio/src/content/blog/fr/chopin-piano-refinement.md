@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le perfectionnisme obsessionnel du poète du piano : La routine d'itération au clavier et d'ajustement du cortex cingulaire antérieur de Frédéric Chopin"
 description: "Découvrez comment le maître romantique Frédéric Chopin jouait des mélodies des centaines de fois au piano pour façonner des chefs-d'œuvre immortels, et explorez la neuroscience cognitive de la détection d'erreurs du Cortex Cingulaire Antérieur (ACC) et du Réglage Neuronal Fin."
 pubDate: "2026-06-21"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant chopin-piano-refinement est basée sur <strong>Vérification Historique issue de l'autobiographie de George Sand *Histoire de ma vie* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de l'autobiographie de George Sand *Histoire de ma vie* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Boucles d'itération de rétroaction et réglage neuronal fin du cortex cingulaire antérieur (ACC)
+## 1. Boucles d'itération de rétroaction et réglage neuronal fin du cortex cingulaire antérieur (ACC)
 
 Le Cortex Cingulaire Antérieur (ACC) sert de centre de contrôle en temps réel du cerveau qui détecte les écarts entre l'objectif mental et l'exécution physique. Comparer continuellement les mélodies intérieures aux sons produits par des centaines de répétitions au piano — comme le faisait Chopin — sollicite au maximum le réseau de détection d'erreurs de l'ACC. Lorsque cette boucle de rétroaction s'exécute de façon soutenue, le cerveau bascule dans un état de « Réglage Neuronal Fin », reconfigurant la connectivité synaptique. Ce processus élague le bruit cognitif et les dissonances au niveau neuronal, élevant l'œuvre à un haut degré de précision.
 
 ---
 
-## Précautions & Conseils : Séparation stricte de la rédaction du premier jet et de l'ajustement
-
-Le risque principal lors de l'application d'une routine d'itération à la Chopin est de viser une perfection absolue dès le premier jet. Chopin lui-même bâtissait ses révisions minutieuses sur des squelettes mélodiques intuitifs. Lors de la rédaction initiale, réprimez les filtres préfrontaux et produisez la structure rapidement sans éditer. Ce n'est qu'en passant à la Phase 2 — le refinement — que vous devez activer la critique de l'ACC pour éviter la paralysie.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le risque principal lors de l'application d'une routine d'itération à la Chopi
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Séparation stricte de la rédaction du premier jet et de l'ajustement
+
+Le risque principal lors de l'application d'une routine d'itération à la Chopin est de viser une perfection absolue dès le premier jet. Chopin lui-même bâtissait ses révisions minutieuses sur des squelettes mélodiques intuitifs. Lors de la rédaction initiale, réprimez les filtres préfrontaux et produisez la structure rapidement sans éditer. Ce n'est qu'en passant à la Phase 2 — le refinement — que vous devez activer la critique de l'ACC pour éviter la paralysie.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'itération perfectionniste obsessionnelle ne risque-t-elle pas de bloquer l'avancement et de faire manquer les délais ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le risque principal lors de l'application d'une routine d'itération à la Chopi
       Oui, c'est un risque réel. Pour l'éviter, séparez le « temps de rédaction » du « temps de raffinage » et fixez des limites quantitatives — comme limiter la révision à un maximum de 3 heures ou 5 cycles. Appliquer le raffinage dans une fenêtre temporelle définie préserve l'équilibre entre productivité et qualité.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>À quel moment de la révision itérative faut-il cesser les modifications et finaliser l'œuvre ?</span>

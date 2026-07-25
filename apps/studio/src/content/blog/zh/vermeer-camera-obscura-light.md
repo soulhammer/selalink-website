@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "《戴珍珠耳环的少女》巨匠？维米尔的晨间窗边日光观察习惯"
 description: "光影大师约哈尼斯·维米尔通过暗箱（camera obscura）精密观察光影变化，在晨间观照习惯中获得情绪平静与立体灵感。"
 pubDate: "2026-04-05"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 vermeer-camera-obscura-light 的内容基于 <strong>维米尔历史传记及自传记载考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>维米尔历史传记及自传记载考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 提升视觉对比敏感度与自主神经系统平静带来的高阶认知恢复
+## 1. 提升视觉对比敏感度与自主神经系统平静带来的高阶认知恢复
 
 现代人的眼睛与大脑暴露在显示屏闪烁的人工刺激和快速帧率中，疲劳持续堆积。像维米尔一样静静观照晨间自然阳光与物体的深邃影子，是一种刺激大脑视觉皮层对比敏感度同时激活副交感神经系统的<strong>“视觉迷你冥想”</strong>。遮断视觉噪音，实现大脑认知重置，从而敏锐感知本质形态与灵感。
 
 ---
 
-## 收起手机，观察未经人为干预的纯粹光照
-
-暗箱的核心在于不去急切地解释事物，而是原封不动地接纳透过镜头投影的光线。在5分钟内不要触碰任何数字设备，静静品味光斑原本的样子。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 收起手机，观察未经人为干预的纯粹光照
+
+暗箱的核心在于不去急切地解释事物，而是原封不动地接纳透过镜头投影的光线。在5分钟内不要触碰任何数字设备，静静品味光斑原本的样子。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>下雨天或阴天时该如何执行这个习惯？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       阴天柔和微茫的乳白色光线本身就是极佳的光照欣赏对象。观察雨滴结在玻璃窗上形成的光线折射也是很好的选择。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>即使不像维米尔那样从事美术或设计工作，也会有效果吗？</span>

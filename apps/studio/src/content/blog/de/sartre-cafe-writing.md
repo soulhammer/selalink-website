@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Philosophie im Café-Lärm? Sartres reservierte Sitzplatz-Konzentration und Zeitblock-Routine"
 description: "Der französische Existenzphilosoph Jean-Paul Sartre schrieb an einem reservierten Platz in einem belebten Pariser Café und teilte seine Morgen- und Nachmittagsstunden strikt ein. Erfahren Sie mehr über kognitives Umwelt-Anchoring."
 pubDate: "2026-06-02"
@@ -37,17 +38,17 @@ In diesem Beitrag untersuchen wir die kognitiven Mechanismen hinter Sartres Caf�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu sartre-cafe-writing basiert auf <strong>Historische Biographieschriften zu Jean-Paul Sartre & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biographieschriften zu Jean-Paul Sartre & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Räumliches kognitives Anchoring und konditionierter Fokusreflex
+## 1. Räumliches kognitives Anchoring und konditionierter Fokusreflex
 
 Unser Gehirn besitzt eine starke kontextuelle Plastizität, die bestimmte Räume mit den darin ausgeführten Handlungen verknüpft. Das Bett wird mit Schlaf assoziiert, der Esstisch mit Essen.
 
@@ -55,9 +56,7 @@ Dass Sartre ausschließlich an einem bestimmten Tisch in einem bestimmten Café 
 
 ---
 
-## Keine zielfremden Aktivitäten am reservierten Platz
-
-Damit räumliches kognitives Anchoring funktioniert, muss eine strikte Regel eingehalten werden: An diesem Platz werden 'ausschließlich Zielhandlungen (Lernen, Schreiben)' ausgeführt. Wenn Sie am reservierten Platz surfen, telefonieren oder sich unterhalten, schwächt sich die Raum-Verhaltens-Verknüpfung ab. Stehen Sie in Pausen immer auf und ruhen Sie sich woanders aus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ Damit räumliches kognitives Anchoring funktioniert, muss eine strikte Regel ein
   </p>
 </div>
 
+---
+
+## 3. Keine zielfremden Aktivitäten am reservierten Platz
+
+Damit räumliches kognitives Anchoring funktioniert, muss eine strikte Regel eingehalten werden: An diesem Platz werden 'ausschließlich Zielhandlungen (Lernen, Schreiben)' ausgeführt. Wenn Sie am reservierten Platz surfen, telefonieren oder sich unterhalten, schwächt sich die Raum-Verhaltens-Verknüpfung ab. Stehen Sie in Pausen immer auf und ruhen Sie sich woanders aus.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist ein Ort mit Umgebungsgeräuschen wie ein Café besser für die Konzentration als ein völlig stiller Raum?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ Damit räumliches kognitives Anchoring funktioniert, muss eine strikte Regel ein
       Das ist individuell verschieden. Studien zeigen, dass moderater Lärm (50–70 dB) die auditive Aufmerksamkeit leicht zerstreut und paradoxerweise die kreative Problemlösung fördert. Entscheidend ist jedoch nicht die Stille, sondern das kognitive Anchoring: 'Jeden Tag am selben Ort dieselbe Handlung beginnen'.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist es nicht besser für das Gehirn, den Sitzplatz täglich oder regelmäßig zu wechseln?</span>

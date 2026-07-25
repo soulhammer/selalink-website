@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "欠乏を乗り越えた没頭：李仲燮（イ・ジュンソプ）の銀紙画ドローイングルーティンと体性感覚皮質刺激"
 description: "画家・李仲燮（イ・ジュンソプ）が極度の貧困の中でもタバコの箱の銀紙に絵を描き、芸術的つながりを手放さなかった集中法。金属箔の表面を削る触覚刺激が体性感覚皮質を活性化し、多重感覚フィードバックでマインドフルネスを誘導する脳科学的原理と3段階実践ガイドを解き明かします。"
 pubDate: "2026-03-14"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「leejungseob-tin-foil-drawing」は <strong>李仲燮（イ・ジュンソプ）評伝および国立現代美術館アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）および美術療法学（Art Therapy）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>李仲燮（イ・ジュンソプ）評伝および国立現代美術館アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）および美術療法学（Art Therapy）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 視覚・触覚多重感覚フィードバック（Multisensory Feedback）と体性感覚皮質刺激
+## 1. 視覚・触覚多重感覚フィードバック（Multisensory Feedback）と体性感覚皮質刺激
 
 脳科学において触覚（Tactile）刺激は、視覚や聴覚よりも遥かに強力な原始的注意力集中センターである<strong>体性感覚皮質（Somatosensory Cortex）</strong>を活性化します。銀箔紙のような金属的表面に鋭利な道具で溝を刻む行為は、指先の神経受容体を刺激して前頭前野を即座に呼び覚ます<strong>触覚的覚醒（Tactile Arousal）</strong>を誘導します。削られる感覚、摩擦音、凹刻の視覚的深みが結合した<strong>多重感覚連合フィードバック（Multisensory Feedback Loop）</strong>は、脳の<strong>作業記憶（Working Memory）</strong>空間を満たし、不安や空想が生成される神経網を遮断して深い<strong>マインドフルネス（Mindfulness）</strong>状態をもたらします。
 
 ---
 
-## 注意事項：完璧な環境を待たず指先の触覚刺激に即座に没頭するルール
-
-道具や環境の欠乏を言い訳にして決意を先延ばしにしたり、完璧な準備が整うのを待たないでください。捨てられた小さな銀箔紙や紙くずの上であっても、全精神を注ぎ込む触覚的没頭の力はすでにあなたの内面に備わっています。指先の摩擦感覚に乗って伸びていく線に、心の不安と雑念を完全に委ねてみてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：完璧な環境を待たず指先の触覚刺激に即座に没頭するルール
+
+道具や環境の欠乏を言い訳にして決意を先延ばしにしたり、完璧な準備が整うのを待たないでください。捨てられた小さな銀箔紙や紙くずの上であっても、全精神を注ぎ込む触覚的没頭の力はすでにあなたの内面に備わっています。指先の摩擦感覚に乗って伸びていく線に、心の不安と雑念を完全に委ねてみてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>銀箔紙に絵を描く行為がストレスを鎮める原理は何ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       金属箔紙の表面を削る時に脳へ伝わる独特の摩擦感と音は体性感覚フィードバックを満たし、不安や不必要な空想を遮断して注意力を視覚・触覚的現在へと強固に結合させるからです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>銀箔紙や大釘がありませんが、普通の紙とボールペンでもこのルーティンを代替できますか？</span>

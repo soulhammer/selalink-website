@@ -507,6 +507,10 @@
           "위장관정체극복"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/dwarf_rabbit_care.png"
   }
 }

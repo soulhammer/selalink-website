@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "鏡の中の自分を見つめた瞬間：レンブラントの自画像視覚省察習慣"
 description: "生涯で80点余りの自画像を描き自身の変化の過程を視覚的に深く観察したレンブラント・ファン・レイン。鏡の中の自身の眼光や皺を深く見つめる視覚的省察が自己客観化能力を高め脳の「基本感情調節網」を活性化する神経学的メカニズムを解き明かします。"
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「rembrandt-self-portrait-reflection」は <strong>レンブラントの自画像視覚省察に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>レンブラントの自画像視覚省察に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 鏡の自己凝視と内側前頭前野（mPFC）の自己参照効果
+## 1. 鏡の自己凝視と内側前頭前野（mPFC）の自己参照効果
 
 鏡の中の自分の目を3分以上深く凝視する行動は、大脳の「内側前頭前野（mPFC）」を強力に活性化します。この領域は自己参照加工（Self-Referential Processing）を担当し、他人の評価や社会的仮面（ペルソナ）の裏に隠された「純粋な自我」を認識させます。視覚皮質を通じて入ってくる自身の物理的像は、脳の感情予測モデルを再調整してストレス神経物質の分泌を静め、自己慈悲（Self-Compassion）と心理的恒常性を復元する強力なツールとして作用します。
 
 ---
 
-## 注意事項およびヒント
-
-鏡の省察を行う際最も警戒すべきことは、自身の外見上の欠点（肌トラブル、皺、対称性など）を「評価して執着する」ことです。顔の細かい欠点に評価を始めると、脳は再び否定的な感情フィルターを作動させてストレスを誘発します。レンブラントのように外見の美しさを離れ、顔全体の明暗や瞳の輝き、表情の流れをまるで他人の絵を見るように淡々と視覚的なファクト中心で見つめてこそ、完全な自己客観化効果を得ることができます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項およびヒント
+
+鏡の省察を行う際最も警戒すべきことは、自身の外見上の欠点（肌トラブル、皺、対称性など）を「評価して執着する」ことです。顔の細かい欠点に評価を始めると、脳は再び否定的な感情フィルターを作動させてストレスを誘発します。レンブラントのように外見の美しさを離れ、顔全体の明暗や瞳の輝き、表情の流れをまるで他人の絵を見るように淡々と視覚的なファクト中心で見つめてこそ、完全な自己客観化効果を得ることができます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>鏡をずっと見つめていると気分が妙になり憂鬱になりますが、中断すべきでしょうか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ faqs:
       そうです。もし気分の歪みや憂鬱感が酷くなる場合は、自己批判ループに陥った可能性があるので直ちに中断してください。代わりに瞳ではなく肩のラインや手の形を見ながら、身体接地（Earthing）感覚を先に確認するトレーニングへ迂回すべきです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>鏡の自己省察を行うのに最も良い時間帯はいつですか？</span>

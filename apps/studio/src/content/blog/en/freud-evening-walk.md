@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The 3-Mile Walk That Awakened the Unconscious: Sigmund Freud's Evening Brisk Walking Routine and Unconscious Journaling"
 description: "Discover how Sigmund Freud, the father of psychoanalysis, restored brain balance and accessed the unconscious by taking brisk 3-mile walks through Vienna every evening after demanding clinical sessions. Explore the cognitive neuroscience of bilateral stimulation and handwriting."
 pubDate: "2026-07-09"
@@ -38,22 +39,20 @@ In today's post, we unpack the brain science behind Sigmund Freud's 'brisk walki
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding freud-evening-walk is based on <strong>Historical Verification from Sigmund Freud's *An Autobiographical Study*, Sigmund Freud Museum Archives (Vienna) & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Sigmund Freud's *An Autobiographical Study*, Sigmund Freud Museum Archives (Vienna) & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bilateral Stimulation and Prefrontal Emotional Regulation
+## 1. Bilateral Stimulation and Prefrontal Emotional Regulation
 
 Alternating foot strikes at a rapid cadence provide alternating sensory and motor input to the left and right hemispheres—a phenomenon known as <strong>Bilateral Stimulation</strong>. Used in clinical trauma therapy (such as EMDR), this rhythmic cross-lateral processing downregulates hyperactivation in the <strong>Amygdala</strong>, dampening emotional reactivity and inducing deep psychological calm. Furthermore, practicing <strong>handwritten journaling</strong> immediately after walking to externalize subconscious thoughts engages prefrontal cognitive networks, restoring <strong>Working Memory</strong> capacity and organizing mental residue.
 
 ---
 
-## Caution: Avoiding Excessive Aerobic Over-exertion to Promote Pre-Bed Relaxation
-
-This evening routine is not an intense physical workout intended for heavy calorie burn. Sprinting or pushing to gasping exhaustion overstimulates the sympathetic nervous system and disrupts brainwave stabilization. Maintain a brisk walk where you can still hold a conversation but feel your breath quicken slightly. To safeguard sleep quality, complete your walk at least 3 hours before going to bed.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ This evening routine is not an intense physical workout intended for heavy calor
   </p>
 </div>
 
+---
+
+## 3. Caution: Avoiding Excessive Aerobic Over-exertion to Promote Pre-Bed Relaxation
+
+This evening routine is not an intense physical workout intended for heavy calorie burn. Sprinting or pushing to gasping exhaustion overstimulates the sympathetic nervous system and disrupts brainwave stabilization. Maintain a brisk walk where you can still hold a conversation but feel your breath quicken slightly. To safeguard sleep quality, complete your walk at least 3 hours before going to bed.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does walking in the morning or afternoon deliver the exact same benefits as an evening walk?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ This evening routine is not an intense physical workout intended for heavy calor
       Yes. Bilateral stimulation and prefrontal activation occur regardless of the time of day. However, while a morning walk boosts arousal to wake up the brain, Freud's evening walk uniquely flushes out cognitive clutter and emotional tension accumulated from grueling clinical or work demands throughout the day. Choose the timing that aligns best with your personal stress patterns.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can I type my unconscious journal into a smartphone app or keyboard instead of writing by hand?</span>

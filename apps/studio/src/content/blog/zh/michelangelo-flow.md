@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "数周不脱衣鞋的雕塑家？米开朗基罗的极致沉浸（Flow）习惯"
 description: "文艺复兴时期最高的大师米开朗基罗·博那罗蒂。探讨他在创作西斯廷教堂天顶画和大卫像时，不脱靴服、仅靠短憩工作的认知能量极小化习惯，以及现代人的极致专注设计法。"
 pubDate: "2026-03-22"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 michelangelo-flow 的内容基于 <strong>米开朗基罗历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>米开朗基罗历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 极小化决策疲劳与保存认知资源
+## 1. 极小化决策疲劳与保存认知资源
 
 现代行为科学将日常微小选择消耗大脑自我调节能量的现象称为“自我损耗（Ego Depletion）”或“决策疲劳（Decision Fatigue）”。每天早晨选择穿什么、吃什么的决定本身就会让大脑的前额叶皮层产生疲劳。米开朗基罗通过高度自我隔离、极小化衣食住行上的琐碎决定，将其天才能量100%完整保存于艺术创作中，从而维持了惊人的生产力。
 
 ---
 
-## 唯有聚焦核心，天才之光才会爆发
-
-米开朗基罗为了在雕刻完成前不打断大脑的专注流（Flow），甚至将自己推向了极致。在当今信息过载的时代，与其将大脑白白耗费于无休止的选择与琐碎信息中，不如为最重要的单一核心任务筑起一道认知能量防线。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 唯有聚焦核心，天才之光才会爆发
+
+米开朗基罗为了在雕刻完成前不打断大脑的专注流（Flow），甚至将自己推向了极致。在当今信息过载的时代，与其将大脑白白耗费于无休止的选择与琐碎信息中，不如为最重要的单一核心任务筑起一道认知能量防线。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>米开朗基罗为什么连衣服和鞋子都不脱就睡觉？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       因为他不想打破极度敏感的沉浸状态。通过拒绝换衣服、冲凉、长睡等日常转换行为，他得以将大脑中涌动的艺术灵感流（Flow）毫无间断地倾注于雕塑之上。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在现代日常生活中减少决策疲劳的具体技巧是什么？</span>

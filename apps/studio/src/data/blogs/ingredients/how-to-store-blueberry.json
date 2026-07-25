@@ -1,0 +1,454 @@
+{
+  "how-to-store-blueberry": {
+    "ingId": "blueberry",
+    "pubDate": "2026-03-29",
+    "updatedDate": "2026-03-29",
+    "heroImage": "/images/blog/blueberry_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "블루베리 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 블루베리의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>USDA & RDA</strong>",
+        "intro": "블루베리를 냉장고에 보관해 두었다가 금세 껍질에 먼지 같은 곰팡이가 슬어 버린 적 있으시죠? 오늘 FreshSnap에서는 미국 농무부(USDA)와 미국 식품의약국(FDA)의 규격을 기반으로, 블루베리 고유의 천연 보호막을 살려 10일 이상 안전하고 신선하게 보관하는 원리를 전합니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "블루베리",
+          "과학적으로 검증된 보관 가이드",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Do not wash before storage 🫐",
+            "desc": "Washing removes the natural protective coating (bloom) and introduces moisture, leading to quick spoilage."
+          },
+          {
+            "title": "Sort out damaged berries ⚠️",
+            "desc": "Mold spreads rapidly between berries. A single moldy blueberry can ruin the entire container."
+          }
+        ],
+        "steps": [
+          {
+            "name": "먹기 직전까지 세척 금지 — 천연 보호막 보존 🫐",
+            "text": "블루베리 표면의 하얀 가루는 수분 소실을 방지하고 곰팡이 균을 막아주는 천연 왁스막(Bloom)입니다. 미리 물로 씻으면 이 보호층이 씻겨 나가 삼투압 현상으로 블루베리가 수분을 흡수해 쉽게 무르고 곰팡이가 피어 버립니다."
+          },
+          {
+            "name": "밀폐용기 바닥에 키친타월 깔고 얇게 펴 담기 — 수분 통제 📰",
+            "text": "용기 바닥에 키친타월을 충분히 깔아준 뒤, 블루베리를 겹치지 않게 얇게 펼쳐 올립니다. 아래에 깔린 키친타월이 미세한 습기와 결로를 흡수하여 바닥 쪽 과육이 짓눌리거나 수분에 닿아 썩는 것을 예방합니다."
+          },
+          {
+            "name": "밀폐하지 않고 냉장고 신선실 보관 — 냉장 보관 (10일) ❄️",
+            "text": "뚜껑에 숨구멍이 있는 전용 용기나 뚜껑을 완전히 닫지 않은 밀폐 용기에 담아 냉장고 신선실(0~2℃)에 보관합니다. 블루베리는 저온에 매우 강하므로, 결로를 방지하기 위해 온도가 일정한 냉장고 가장 깊은 곳이 적합합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
+            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+          },
+          {
+            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
+            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Blueberry Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Blueberry based on official safety guidelines.",
+        "authority": "<strong>USDA & RDA</strong>",
+        "intro": "Have you ever bought fresh blueberries only to find them turn soft and moldy in a few days? Today, FreshSnap shares scientific storage tips to keep blueberries plump and mold-free.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Blueberry",
+          "Scientifically Proven Storage Guide",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Do not wash before storage 🫐",
+            "desc": "Washing removes the natural protective coating (bloom) and introduces moisture, leading to quick spoilage."
+          },
+          {
+            "title": "Sort out damaged berries ⚠️",
+            "desc": "Mold spreads rapidly between berries. A single moldy blueberry can ruin the entire container."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Do not wash before storage — Protect the bloom 🫐",
+            "text": "The white powder on blueberry skins is a natural wax layer called 'Bloom' that blocks mold and moisture loss. Washing them early strips this layer, causing berries to absorb water, soften, and mold quickly."
+          },
+          {
+            "name": "Line container with paper towels and spread flat — Moisture control 📰",
+            "text": "Line the bottom of a wide container with paper towels and place the berries in a thin layer. The towel absorbs condensation, preventing berries from getting crushed or rotting from sitting in water."
+          },
+          {
+            "name": "Store unsealed in the crisper drawer — Refrigeration (10 Days) ❄️",
+            "text": "Keep them in a ventilated container or leave the lid slightly ajar. Put them in the crisper drawer (0-2°C). Blueberries are cold-hardy; keeping them in the coldest back section prevents condensation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
+            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+          },
+          {
+            "question": "How should I handle and store bruised or damaged parts?",
+            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ブルーベリーの鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくブルーベリーの最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>米国農務省(USDA) & 農村振興庁(RDA)</strong>",
+        "intro": "新鮮なブルーベリーを買ってきたのに、数日で柔らかくなったりカビが生えたりしてしまったことはありませんか？本日, FreshSnapではブルーベリーの張りを保ち、カビを防ぐ保存方法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "ブルーベリー",
+          "科学的に検証された保存ガイド",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "保存前に洗わないでください 🫐",
+            "desc": "水洗いすると表面の白い天然保護膜（ブルーム）が落ちてしまい、水分を吸収して傷みやすくなります。"
+          },
+          {
+            "title": "傷んだ実を取り除いてください ⚠️",
+            "desc": "ブルーベリーはカビが移りやすい果物です。1つでもカビが生えた実があると、パック全体へ一気に広がってしまいます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "食べる直前まで洗わない —  ブルームの維持 🫐",
+            "text": "ブルーベリーの表面にある白い粉は、乾燥やカビを防ぐ天然の保護膜（ブルーム）です。先に水洗いすると保護層が落ち、水分を吸って傷みやすくなります。"
+          },
+          {
+            "name": "容器の底にペーパーを敷き, 重ならないように入れる — 水分管理 📰",
+            "text": "平らな容器の底にキッチンペーパーを敷き、その上に重ならないよう広げます。ペーパーが余分な結露を吸い取り, 下の実が重みで潰れたり水気で腐るのを防ぎます."
+          },
+          {
+            "name": "密閉せずに冷蔵庫の低温エリアに置く —  冷蔵保存 (10日間) ❄️",
+            "text": "通気穴のある容器か、フタを少しずらした密閉容器に入れ、野菜室（0〜2℃）に入れます。ブルーベリーは寒さに強いため, 結露を防ぐために温度変化の少ない奥の方に置くのが適しています."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
+            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+          },
+          {
+            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
+            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存蓝莓：科学储存指南",
+        "description": "根据官方食品安全指南，了解蓝莓的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>美国农务部(USDA) & 韩国农村振兴厅(RDA)</strong>",
+        "intro": "您是否曾买回新鲜的蓝莓，却发现它们在几天内变软发霉？今天，FreshSnap为您分享保持蓝莓圆润饱满且不发霉的科学储存方法。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "蓝莓",
+          "科学验证的储存指南",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "储存前切勿清洗 🫐",
+            "desc": "清洗会洗掉蓝莓表面天然的白色保护膜（果粉），并且残留的水分会加速果实腐烂。"
+          },
+          {
+            "title": "挑出受损的蓝莓 ⚠️",
+            "desc": "蓝莓之间的霉菌传播速度极快。哪怕只有一颗发霉的蓝莓，也会迅速毁掉整盒蓝莓。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "食用前切勿清洗 — 保护天然果粉 🫐",
+            "text": "蓝莓表面的白霜是天然保护膜，不要提前清洗。"
+          },
+          {
+            "name": "保鲜盒底铺设纸巾并单层摊平 —  控制湿度 📰",
+            "text": "在容器底部铺纸巾，并平铺蓝莓。"
+          },
+          {
+            "name": "请勿密封，存放于冷藏室深处 —  冷藏保存 (10天) ❄️",
+            "text": "存放在冷藏室深处以防受潮。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "把食材放进冰箱前一定要用水洗吗？",
+            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+          },
+          {
+            "question": "碰伤或腐烂的部分应该如何处理和保存？",
+            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Arándano fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Arándano según las directrices oficiales de seguridad.",
+        "authority": "<strong>USDA & RDA</strong>",
+        "intro": "¿Alguna vez compró arándanos frescos y descubrió que se ablandaron y enmohecieron en pocos días? Hoy, FreshSnap comparte consejos de almacenamiento para mantenerlos firmes y libres de moho.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Arándano",
+          "Guía de almacenamiento científicamente probada",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "No lave los arándanos antes de almacenarlos 🫐",
+            "desc": "Lavar los arándanos elimina la capa protectora natural (bloom) y aporta humedad, acelerando su deterioro."
+          },
+          {
+            "title": "Deseche los arándanos dañados ⚠️",
+            "desc": "El moho se extiende rápidamente entre los arándanos. Un solo arándano enmohecido puede arruinar todo el contenedor."
+          }
+        ],
+        "steps": [
+          {
+            "name": "No lavar antes de guardar 🫐",
+            "text": "La capa blanca (bloom) en la superficie de los arándanos los protege del moho. Lávelos solo antes de comer."
+          },
+          {
+            "name": "Forrar el recipiente con papel y esparcir 📰",
+            "text": "Coloque papel de cocina en el fondo de un recipiente y distribuya los arándanos en una sola capa."
+          },
+          {
+            "name": "Almacenar sin sellar ❄️",
+            "text": "Guárdelos en un recipiente ventilado en la zona fría (0-2°C) del refrigerador."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
+            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+          },
+          {
+            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
+            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Myrtille frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Myrtille selon les directives de sécurité officielles.",
+        "authority": "<strong>USDA & RDA</strong>",
+        "intro": "Avez-vous déjà acheté des myrtilles fraîches pour les voir ramollir et moisir en quelques jours ? Aujourd'hui, FreshSnap vous donne des astuces pour les garder fermes et sans moisissure.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Myrtille",
+          "Guide de conservation scientifiquement prouvé",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Ne lavez pas les myrtilles avant de les stocker 🫐",
+            "desc": "Laver les myrtilles élimine leur couche protectrice naturelle (pruine) et apporte de l'humidité, ce qui accélère leur décomposition."
+          },
+          {
+            "title": "Triez les baies abîmées ⚠️",
+            "desc": "La moisissure se propage rapidement d'une baie à l'autre. Une seule myrtille moisie peut gâcher tout le paquet."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ne pas laver avant stockage 🫐",
+            "text": "La couche blanche (pruine) à la surface des myrtilles les protège de la moisissure. Lavez-les juste avant de les manger."
+          },
+          {
+            "name": "Tapisser le récipient de papier et étaler 📰",
+            "text": "Tapissez le fond d'un récipient de papier absorbant et étalez les myrtilles en une seule couche."
+          },
+          {
+            "name": "Stocker sans sceller ❄️",
+            "text": "Conservez-les dans un récipient aéré dans la zone froide (0-2°C) du réfrigérateur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
+            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+          },
+          {
+            "question": "Comment gérer et conserver les parties abîmées ?",
+            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Blaubeere frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Blaubeere basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>USDA & RDA</strong>",
+        "intro": "Haben Sie schon einmal frische Blaubeeren gekauft, nur um festzustellen, dass sie nach wenigen Tagen weich und schimmelig wurden? Heute teilt FreshSnap Tipps, um sie prall und schimmelfrei zu halten.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Blaubeere",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Blaubeeren vor dem Lagern nicht waschen 🫐",
+            "desc": "Waschen entfernt die natürliche Schutzschicht (Pruina) und bringt Feuchtigkeit ein, was zum schnellen Verderb führt."
+          },
+          {
+            "title": "Beschädigte Beeren aussortieren ⚠️",
+            "desc": "Schimmel breitet sich schnell aus. Eine einzige schimmelige Blaubeere kann die gesamte Packung verderben."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Vor dem Lagern nicht waschen 🫐",
+            "text": "Der weiße Flaum auf den Blaubeeren schützt vor Schimmel. Erst kurz vor dem Verzehr waschen."
+          },
+          {
+            "name": "Behälter mit Papier auslegen und verteilen 📰",
+            "text": "Legen Sie Küchenpapier in einen Behälter und verteilen Sie die Beeren in einer Schicht."
+          },
+          {
+            "name": "Offen lagern ❄️",
+            "text": "Lagern Sie sie in einem belüfteten Behälter im kalten Bereich (0-2°C) des Kühlschranks."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
+            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+          },
+          {
+            "question": "Wie lagert man beschädigte Stellen?",
+            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Mirtilo fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Mirtilo com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>USDA & RDA</strong>",
+        "intro": "Você já comprou mirtilos frescos e viu que eles ficaram moles e mofados em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação para mantê-los firmes e livres de mofo.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Mirtilo",
+          "Guia de armazenamento comprovado cientificamente",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Não lave os mirtilos antes de guardar 🫐",
+            "desc": "Lavar os mirtilos remove a película protetora natural (bloom) e adiciona umidade, acelerando a deterioração."
+          },
+          {
+            "title": "Separe os mirtilos danificados ⚠️",
+            "desc": "O mofo se espalha rapidamente entre os mirtilos. Um único mirtilo mofado pode estragar todo o pote."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Não lavar antes de guardar 🫐",
+            "text": "A camada branca na superfície dos mirtilos protege contra o mofo. Lave apenas antes de comer."
+          },
+          {
+            "name": "Forrar o pote com papel e espalhar 📰",
+            "text": "Coloque papel-toalha no fundo de um pote e distribua os mirtilos em uma única camada."
+          },
+          {
+            "name": "Guardar sem selar ❄️",
+            "text": "Guarde em pote ventilado na zona fria (0-2°C) da geladeira."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
+            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+          },
+          {
+            "question": "Como tratar e guardar partes machucadas?",
+            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Murbai agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Murbai berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>USDA & RDA</strong>",
+        "intro": "Pernahkah Anda membeli blueberry segar namun menjadi lunak dan berjamur dalam beberapa hari? Hari ini, FreshSnap membagikan tips penyimpanan agar blueberry tetap kencang...",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Murbai",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "fruit"
+        ],
+        "cautions": [
+          {
+            "title": "Jangan cuci blueberry sebelum disimpan 🫐",
+            "desc": "Mencuci blueberry sebelum disimpan akan menghilangkan lapisan pelindung alami (bloom)..."
+          },
+          {
+            "title": "Pilah blueberry yang rusak ⚠️",
+            "desc": "Jamur menyebar dengan sangat cepat di antara buah beri. Satu blueberry..."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Jangan dicuci sebelum disimpan 🫐",
+            "text": "Lapisan putih (bloom) pada permukaan blueberry melindunginya dari jamur. Cuci hanya sebelum dimakan."
+          },
+          {
+            "name": "Alasi wadah dengan tisu dan ratakan 📰",
+            "text": "Alasi bagian bawah wadah dengan tisu dapur dan sebar blueberry dalam satu lapisan."
+          },
+          {
+            "name": "Simpan tanpa disegel ❄️",
+            "text": "Simpan dalam wadah berlubang di area dingin kulkas (0-2°C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
+            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+          },
+          {
+            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
+            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Stimme im Raum: Fjodor Dostojewskis Routine des Umhergehens und Diktierens"
 description: "Erkunden Sie, wie Fjodor Dostojewski im Zimmer umherging und Dialoge laut vorsprach, bevor er sie seiner Frau diktierte. Entdecken Sie die kognitiven Neurowissenschaften zur Verknüpfung von Sprach- und Motorikzentren."
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ Laut den Memoiren seiner Frau und Stenografin Anna Grigorjewna saß Dostojewski 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu dostoevsky-pacing-recitation basiert auf <strong>Historische Überprüfung aus Anna Dostojewskajas Memoiren *Erinnerungen (Reminiscences)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Anna Dostojewskajas Memoiren *Erinnerungen (Reminiscences)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurowissenschaft der Verbindung von Gehen und lautem Sprechen zur Aktivierung von Sprachzentren und Spiegelneuronen
+## 1. Neurowissenschaft der Verbindung von Gehen und lautem Sprechen zur Aktivierung von Sprachzentren und Spiegelneuronen
 
 Das Umhergehen stimuliert den motorischen Kortex und steigert die Durchblutung sowie die Sauerstoffversorgung im Gehirn. Das laute Sprechen verbindet das Broca-Areal (Sprachproduktion) und das Wernicke-Areal (Sprachverständnis) über eine auditorisch-motorische Rückkopplungsschleife. Zudem aktiviert das schauspielerische Nachempfinden die Spiegelneuronen, was dem Geschriebenen eine tiefere psychologische Dimension verleiht.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Sichern eines ungestörten Raumes & Vermeidung von Hemmungen
-
-Da laut gesprochen wird, löst die Durchführung in Großraumbüros soziale Hemmungen aus und aktiviert die Amygdala. Um die volle Wirkung zu erzielen, führen Sie diese Routine in einem ungestörten privaten Raum aus – wie einem separaten Arbeitszimmer, einem geschlossenen Raum oder im Auto.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Da laut gesprochen wird, löst die Durchführung in Großraumbüros soziale Hemm
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Sichern eines ungestörten Raumes & Vermeidung von Hemmungen
+
+Da laut gesprochen wird, löst die Durchführung in Großraumbüros soziale Hemmungen aus und aktiviert die Amygdala. Um die volle Wirkung zu erzielen, führen Sie diese Routine in einem ungestörten privaten Raum aus – wie einem separaten Arbeitszimmer, einem geschlossenen Raum oder im Auto.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bietet Flüstern oder leises Mumble-Lesen dieselben kognitiven Vorteile wie lautes Sprechen?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Da laut gesprochen wird, löst die Durchführung in Großraumbüros soziale Hemm
       Nein. Flüstern aktiviert die Sprachmuskulatur nicht vollständig und erzeugt zu wenig auditives Feedback. Sie müssen deutlich sprechen, um die auditorisch-motorische Rückkopplungsschleife zu schließen, die das Broca- und Wernicke-Areal gleichzeitig aktiviert.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Ist es effektiv, gesprochene Gedanken beim Gehen per Sprachnotiz oder Speech-to-Text-App (STT) aufzunehmen?</span>

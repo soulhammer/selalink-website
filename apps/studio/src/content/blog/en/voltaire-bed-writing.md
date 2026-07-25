@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Don't Get Out of Bed: Enlightenment Master Voltaire's Morning Brain Reset Method"
 description: "Discover the morning bed-writing habit practiced lifelong by the great French writer Voltaire. Check out this modern 3-step guide utilizing the hypnopompic state, when the brain is most creative right after waking."
 pubDate: "2026-06-21"
@@ -40,22 +41,20 @@ In today's post, we explore the scientific principles behind Voltaire's lifelong
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding voltaire-bed-writing is based on <strong>Voltaire Bed Writing historical biographies & autobiographical records validation & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Voltaire Bed Writing historical biographies & autobiographical records validation & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Cognitive Science of 'Sleep Inertia' Where Creativity is Maximized
+## 1. Cognitive Science of 'Sleep Inertia' Where Creativity is Maximized
 
 The state immediately after waking when the brain is not fully alert is referred to in cognitive science as <strong>'Sleep Inertia'</strong> or the <strong>'Hypnopompic'</strong> state. During this period, the censoring action of the Prefrontal Cortex, which is responsible for rational judgment and inhibition, weakens. Conversely, relaxed alpha (α) waves and theta (θ) waves associated with light dreaming dominate the brain. As a result, the censorship barrier of thought is lowered, enabling non-linear and original associations. Voltaire was able to pour out brilliant satire and ideas from bed because he fully utilized this threshold state of the brain where the subconscious is active before conscious logic kicks in.
 
 ---
 
-## Overcoming Bad Morning Habits with Conscious Bed Writing
-
-The thing to guard against most when following a morning bed routine is unconsciously checking social media or news on your smartphone. The immediate visual information from dopamine-inducing digital devices puts the brain into a tense state, instantly erasing the precious subconscious creativity of sleep inertia. Keep only a notepad and pen beside your bed and protect 10 minutes of complete immersion in contemplation.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ The thing to guard against most when following a morning bed routine is unconsci
   </p>
 </div>
 
+---
+
+## 3. Overcoming Bad Morning Habits with Conscious Bed Writing
+
+The thing to guard against most when following a morning bed routine is unconsciously checking social media or news on your smartphone. The immediate visual information from dopamine-inducing digital devices puts the brain into a tense state, instantly erasing the precious subconscious creativity of sleep inertia. Keep only a notepad and pen beside your bed and protect 10 minutes of complete immersion in contemplation.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How does note-taking in bed differ from typical right-after-waking writing (Morning Pages)?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ The thing to guard against most when following a morning bed routine is unconsci
       While Morning Pages are written after washing up or sitting down when reason is partially active, Voltaire's bed writing targets the 'brain threshold' during sleep inertia before physically getting up, capturing subconscious metaphors and creative thoughts in a completely raw state, presenting a deep cognitive difference.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What should I do if no ideas come to mind when writing in bed every morning?</span>

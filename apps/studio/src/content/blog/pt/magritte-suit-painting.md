@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Psicologia do Vestuário: A Rotina de Pintura de Terno de René Magritte"
 description: "René Magritte, o pintor surrealista que vestia um terno impecável todos os dias diante de seu cavalete. Revela a 'Cognição Vestida' (Enclothed Cognition), o efeito psicológico das roupas no cérebro."
 pubDate: "2026-05-25"
@@ -37,17 +38,17 @@ Este artigo analisa como a rotina de terno de Magritte controla o cérebro e apr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre magritte-suit-painting é baseada em <strong>Registros dos Museus Reais de Belas Artes da Bélgica e biografias de René Magritte com pesquisas em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Registros dos Museus Reais de Belas Artes da Bélgica e biografias de René Magritte com pesquisas em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O efeito da Cognição Vestida e a neurociência do controle cognitivo pré-frontal
+## 1. O efeito da Cognição Vestida e a neurociência do controle cognitivo pré-frontal
 
 O cérebro humano experimenta a <strong>Cognição Vestida</strong> (Enclothed Cognition), onde o significado simbólico das roupas influencia diretamente a cognição.
 
@@ -57,9 +58,7 @@ Essa configuração estimula o sistema de controle do <strong>Córtex Pré-Front
 
 ---
 
-## Regra para evitar roupas desconfortáveis e encontrar o equilíbrio ideal no vestuário de trabalho
-
-Evite usar roupas que apertem o corpo ou causem dor apenas para obter o efeito. O desconforto físico envia sinais de fadiga ao <strong>Córtex Pré-Frontal</strong>, prejudicando o foco. A essência é manter a compostura com um equilíbrio confortável (como calças e camisas alinhadas) para longas horas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -91,12 +90,18 @@ Evite usar roupas que apertem o corpo ou causem dor apenas para obter o efeito. 
   </p>
 </div>
 
+---
+
+## 3. Regra para evitar roupas desconfortáveis e encontrar o equilíbrio ideal no vestuário de trabalho
+
+Evite usar roupas que apertem o corpo ou causem dor apenas para obter o efeito. O desconforto físico envia sinais de fadiga ao <strong>Córtex Pré-Frontal</strong>, prejudicando o foco. A essência é manter a compostura com um equilíbrio confortável (como calças e camisas alinhadas) para longas horas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Usar calçados de trabalho dedicados ao trabalhar em casa ajuda na cognição vestida?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -105,7 +110,7 @@ Evite usar roupas que apertem o corpo ou causem dor apenas para obter o efeito. 
       Sim, produz um efeito incrível! A textura firme sob as solas dos pés envia ao <strong>Córtex Somatossensorial</strong> o sinal de 'modo de atividade externa'. Isso inibe a tentação de se deitar no sofá e serve como um excelente gatilho corporal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Vestir-se bem também ajuda em trabalhos criativos como pintura ou criação de conteúdo?</span>

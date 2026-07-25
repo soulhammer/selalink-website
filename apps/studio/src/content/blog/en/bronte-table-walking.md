@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sisters Circling the Night Dining Table: Charlotte Brontë's Walking Discussion and Mirror Neuron Creation Method"
 description: "Explore the routine of Charlotte Brontë, author of 'Jane Eyre', who circled the dining table with her sisters every night to critique character and plot, and discover the neuroscientific mechanisms combining walking with the mirror neuron system to prevent tunnel vision."
 pubDate: "2026-05-14"
@@ -38,22 +39,20 @@ In today's post, we analyze the brain science underlying Charlotte Brontë's 'ta
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding bronte-table-walking is based on <strong>Historical Verification from Elizabeth Gaskell's Biography *The Life of Charlotte Brontë* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Elizabeth Gaskell's Biography *The Life of Charlotte Brontë* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Boosting Cerebral Blood Flow via Walking and Overcoming Tunnel Vision with Mirror Neurons
+## 1. Boosting Cerebral Blood Flow via Walking and Overcoming Tunnel Vision with Mirror Neurons
 
 Physical walking increases cerebral blood flow and oxygenation while triggering Brain-Derived Neurotrophic Factor (BDNF) release, boosting creative divergent thinking by over 60% compared to sitting. Furthermore, reading aloud and engaging in structured dialogue activates the brain's 'Mirror Neuron' system and Theory of Mind networks. This counters the 'Tunnel Vision' inherent in solitary thinking, allowing creators to view their work through an objective third-person lens, effortlessly exposing logical flaws, plot holes, and structural gaps.
 
 ---
 
-## Caution & Tips: Receptive Listening to Critiques and Blocking Emotional Defensiveness
-
-The core of the walking discussion routine lies in exchanging cold, objective critique rather than polite praise. If you perceive critique as a personal attack, your brain triggers amygdalar defensive mechanisms, shutting down creative receptivity. You must strictly separate 'your self-worth' from 'your idea', treating feedback as neutral data that identifies structural gaps to unlock the full power of this corrective process.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The core of the walking discussion routine lies in exchanging cold, objective cr
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Receptive Listening to Critiques and Blocking Emotional Defensiveness
+
+The core of the walking discussion routine lies in exchanging cold, objective critique rather than polite praise. If you perceive critique as a personal attack, your brain triggers amygdalar defensive mechanisms, shutting down creative receptivity. You must strictly separate 'your self-worth' from 'your idea', treating feedback as neutral data that identifies structural gaps to unlock the full power of this corrective process.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Does the walking creativity effect still occur in a solo workspace without a partner?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The core of the walking discussion routine lies in exchanging cold, objective cr
       Yes, physical walking alone boosts BDNF secretion and cerebral blood flow, increasing creativity by over 60%. When working alone, explain your ideas aloud to yourself in a mirror or walk while engaging in a Q&A with an imaginary critic to effectively simulate mirror neuron and metacognitive stimulation.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Doesn't listening to sharp critique cause emotional hurt and dampen creative motivation?</span>

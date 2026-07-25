@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Peindre son reflet dans le miroir du baldaquin : La routine d'autoportrait de Frida Kahlo et la résilience du miroir"
 description: "Découvrez comment la célèbre peintre mexicaine Frida Kahlo a transformé la souffrance en art en peignant des autoportraits au miroir du baldaquin. Explorez la psychologie clinique de l'observation au miroir et la résilience."
 pubDate: "2026-06-07"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la psychologie clinique et la neuroscience sous
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant kahlo-mirror-painting est basée sur <strong>Vérification Historique issue du *Journal de Frida Kahlo*, de la biographie de Hayden Herrera & de la Recherche en Psychologie Clinique et Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue du *Journal de Frida Kahlo*, de la biographie de Hayden Herrera & de la Recherche en Psychologie Clinique et Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Technique d'observation au miroir et psychologie clinique de la résilience
+## 1. Technique d'observation au miroir et psychologie clinique de la résilience
 
 Observer paisiblement son propre reflet est appelé en psychologie clinique la <strong>Technique d'observation au miroir (Mirror-Gazing)</strong>. Face a la douleur physique ou au traumatisme, le cerveau s'enferme facilement dans des émotions négatives. Le miroir agit comme un outil d'isolation cognitive, permettant d'observer son corps et son état émotionnel sous un angle objectif a la troisième personne. Ce processus restaure le sentiment de contrôle et renforce l'autonomie préfrontale. L'implication de Frida Kahlo face a son reflet représentait l'expression neurobiologique de la <strong>Résilience</strong> et de l'<strong>Auto-acceptation (Self-Acceptance)</strong>.
 
 ---
 
-## Mise en garde : Éliminer les jugements subjectifs et les critères esthétiques pour accueillir son être
-
-La règle essentielle de l'observation au miroir est de s'abstenir de chercher des défauts physiques ou de porter des jugements critiques. Se regarder dans le miroir n'est pas un examen esthétique, mais un temps d'observation bienveillante destiné a s'accueillir sans jugement.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La règle essentielle de l'observation au miroir est de s'abstenir de chercher d
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Éliminer les jugements subjectifs et les critères esthétiques pour accueillir son être
+
+La règle essentielle de l'observation au miroir est de s'abstenir de chercher des défauts physiques ou de porter des jugements critiques. Se regarder dans le miroir n'est pas un examen esthétique, mais un temps d'observation bienveillante destiné a s'accueillir sans jugement.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Que faire si se regarder dans le miroir génère du stress en révélant des imperfections ou des rides ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La règle essentielle de l'observation au miroir est de s'abstenir de chercher d
       C'est una réaction parfaitement naturelle. Lors des premières séances, les réflexes d'évaluation s'activent facilement. Au lieu d'analyser l'ensemble du visage, fixez votre attention sur vos pupilles. Concentrez-vous sur la connexion avec le centre de votre conscience plutôt que sur l'analyse de vos traits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>L'observation au miroir est-elle thérapeutique même sans peindre d'autoportrait ?</span>

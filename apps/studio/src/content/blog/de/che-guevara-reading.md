@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Warum in den Schützengräben des Dschungels lesen? Che Guevaras vertiefte Leseroutine und kognitive Umstrukturierung"
 description: "Erkunden Sie, wie der kubanische Revolutionsheld Che Guevara inmitten der Guerillakriegsführung täglich dicke Bücher las, und entdecken Sie die kognitiven Neurowissenschaften, wie vertieftes Lesen präfrontale Kontrollnetzwerke aktiviert und Überlebensstress abfedert."
 pubDate: "2026-02-09"
@@ -35,25 +36,23 @@ Im heutigen Beitrag analysieren wir die Neurowissenschaft hinter Che Guevaras 'v
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu che-guevara-reading basiert auf <strong>Historische Überprüfung aus Jon Lee Andersons Biografie *Che: Die Biografie (Che Guevara: A Revolutionary Life)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus Jon Lee Andersons Biografie *Che: Die Biografie (Che Guevara: A Revolutionary Life)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivierung präfrontaler kognitiver Kontrollnetzwerke und Dämpfung von Stresssignalen durch vertieftes Lesen
+## 1. Aktivierung präfrontaler kognitiver Kontrollnetzwerke und Dämpfung von Stresssignalen durch vertieftes Lesen
 
 Akute Bedrohungen und Unsicherheit überstimulieren die Amygdala, was Stressreaktionen und Beeinträchtigungen der exekutiven Funktionen auslöst. Die kognitive Neurowissenschaft zeigt, dass 'Vertieftes Lesen' – das aktive Verfolgen komplexer Syntax in Langtexten – das präfrontale kognitive Kontrollnetzwerk (CCN) aktiviert. Der Präfrontalkortex übt eine Top-down-Hemmung auf die Amygdala aus, was die Cortisolausschüttung dämpft. Gleichzeitig setzt das Erfassen von Texten Dopamin frei und bewirkt eine 'Kognitive Umstrukturierung', die Ängste abfedert.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Vermeidung von oberflächlichem News-Scanning & Aktivierung sprachlicher Netzwerke
-
-Um den kognitiven Schutz dieser Routine zu nutzen, vermeiden Sie oberflächliches Überfliegen von Nachrichten oder Feeds. Schnelles visuelles Scannen hält das Gehirn in einem reaktiven Zustand, der die präfrontale Steuerung nicht aktiviert. Selbst wenn Sie nur zwei Seiten lesen, hinterfragen Sie die Prämissen des Autors aktiv und nutzen Sie Ihr sprachliches Aufmerksamkeitsnetzwerk.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Um den kognitiven Schutz dieser Routine zu nutzen, vermeiden Sie oberflächliche
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Vermeidung von oberflächlichem News-Scanning & Aktivierung sprachlicher Netzwerke
+
+Um den kognitiven Schutz dieser Routine zu nutzen, vermeiden Sie oberflächliches Überfliegen von Nachrichten oder Feeds. Schnelles visuelles Scannen hält das Gehirn in einem reaktiven Zustand, der die präfrontale Steuerung nicht aktiviert. Selbst wenn Sie nur zwei Seiten lesen, hinterfragen Sie die Prämissen des Autors aktiv und nutzen Sie Ihr sprachliches Aufmerksamkeitsnetzwerk.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Löst das Lesen von Literatur wie Romanen oder Essays dieselben präfrontalen Kontroll-Effekte aus?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Um den kognitiven Schutz dieser Routine zu nutzen, vermeiden Sie oberflächliche
       Ja, sofern der Text kognitive Anstrengung erfordert. Während seichte Unterhaltungsliteratur geringe Stimulation bietet, aktiviert das Lesen von Klassikern oder Essays mit komplexen Beweggründen und Dilemmata die präfrontalen Kontrollnetzwerke stark.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bieten Tablet-PCs oder E-Ink-Reader dieselben kognitiven Vorteile wie physische Papierbücher?</span>

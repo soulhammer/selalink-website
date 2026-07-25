@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Uso da Tesoura que Cura a Depressão? A Rotina de Recorte de Papel de Andersen"
 description: "O mundialmente famoso autor de contos de fadas Hans Christian Andersen. Apresentamos os princípios de cura psiquiátrica e um guia de 3 passos para o 'Recorte de Papel' (Paper Cutting) — o segredo para fazer florescer uma bela imaginação apesar de uma vida de depressão e carência psicológica."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ No artigo de hoje, apresentamos os benefícios de cura psiquiátrica da rotina d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre andersen-paper-cutting é baseada em <strong>Verificação Histórica dos Arquivos de Papel do Museu Hans Christian Andersen em Odense, Dinamarca e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica dos Arquivos de Papel do Museu Hans Christian Andersen em Odense, Dinamarca e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estabilização da Rede de Modo Padrão (DMN) Através do Trabalho Manual Delicado
+## 1. Estabilização da Rede de Modo Padrão (DMN) Através do Trabalho Manual Delicado
 
 A <strong>'Rede de Modo Padrão (Default Mode Network, DMN)'</strong>, que opera quando o cérebro descansa sem realizar uma tarefa específica, amplifica o pensamento excessivo (Overthinking) desnecessário, como arrependimentos do passado e ansiedades do futuro, nos indivíduos modernos. De acordo com a terapia ocupacional e pesquisas em neurociência, o <strong>'trabalho manual delicado'</strong>, como o corte com tesoura ou o desenho, que controla delicadamente as pontas dos dedos, aquece amplamente o córtex motor do cérebro enquanto desativa imediatamente o DMN sobrecarregado. A estimulação tátil simétrica e simples de dobrar e cortar papel diante dos seus olhos interrompe o pensamento excessivo e proporciona um profundo descanso cognitivo ao cérebro.
 
 ---
 
-## Foque na Trajetória das Pontas dos Dedos e no Som do Corte, Não no Design Perfeito
-
-Para aproveitar os efeitos de descanso cerebral da rotina de corte com tesoura, você deve abandonar a obsessão de criar um resultado maravilhoso. Se começar a projetar mentalmente um padrão pensando 'devo completar um desenho bonito', as áreas de planejamento e controle do lobo pré-frontal superaquecem, tornando difícil alcançar o efeito de desativação do DMN. Assim como Andersen fechava os olhos e cortava conforme suas mãos se moviam, confiar totalmente sua atenção apenas ao som suave de fricção da tesoura cortando papel e à vibração analógica nas pontas dos dedos é o primeiro passo para o relaxamento.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para aproveitar os efeitos de descanso cerebral da rotina de corte com tesoura, 
   </p>
 </div>
 
+---
+
+## 3. Foque na Trajetória das Pontas dos Dedos e no Som do Corte, Não no Design Perfeito
+
+Para aproveitar os efeitos de descanso cerebral da rotina de corte com tesoura, você deve abandonar a obsessão de criar um resultado maravilhoso. Se começar a projetar mentalmente um padrão pensando 'devo completar um desenho bonito', as áreas de planejamento e controle do lobo pré-frontal superaquecem, tornando difícil alcançar o efeito de desativação do DMN. Assim como Andersen fechava os olhos e cortava conforme suas mãos se moviam, confiar totalmente sua atenção apenas ao som suave de fricção da tesoura cortando papel e à vibração analógica nas pontas dos dedos é o primeiro passo para o relaxamento.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Não tem problema se eu não tiver sentido artístico e não for bom a cortar?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para aproveitar os efeitos de descanso cerebral da rotina de corte com tesoura, 
       Com certeza. Na verdade, cortar aleatoriamente sem um desenho é mais eficaz para reduzir a atividade do DMN. O cérebro não se importa minimamente se o padrão concluído parecer estranho ou torto. O que importa não é a precisão da forma, mas o movimento delicado dos músculos das pontas dos dedos e a própria estimulação auditiva. Sendo esta uma atividade criativa sem risco de falha e livre de avaliações, desfrute do corte com tranquilidade.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>A geração de resíduos de papel após o corte não prejudica o relaxamento durante a limpeza?</span>

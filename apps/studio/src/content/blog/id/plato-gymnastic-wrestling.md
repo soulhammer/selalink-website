@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Seorang Filsuf yang Melatih Bahunya Sebelum Mencari Ide? Pemanasan Fisik Intensitas Tinggi Plato"
 description: "Filsuf Yunani Kuno, Plato, lebih dikenal dengan nama panggilannya saat menjadi pegulat 'bahu lebar' daripada nama aslinya. Pelajari prinsip-prinsip neurosains dan metode latihan di rumah modern di balik rutinitas harian latihan fisiknya yang intens sebelum diskusi intelektual pagi hari."
 pubDate: "2026-03-05"
@@ -29,25 +30,23 @@ Plato, filsuf hebat yang meletakkan fondasi filsafat Barat, mencetuskan Teori Id
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai plato-gymnastic-wrestling didasarkan pada <strong>Biografi Historis dan Catatan tentang Plato & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi Historis dan Catatan tentang Plato & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Memaksimalkan Aliran Darah Otak dan Pelepasan BDNF Melalui Latihan Resistensi
+## 1. Memaksimalkan Aliran Darah Otak dan Pelepasan BDNF Melalui Latihan Resistensi
 
 Menurut fisiologi olahraga dan sains kognitif modern, latihan resistensi intensitas tinggi seperti squat atau push-up secara langsung meningkatkan aliran darah otak dan saturasi oksigen di korteks. Stimulasi fisiologis ini dengan cepat memicu pelepasan Brain-Derived Neurotrophic Factor (BDNF), protein utama yang mendorong neurogenesis dan plastisitas sinapsis. Pada saat yang sama, latihan ini memicu pelepasan dopamin dan norepinefrin, menciptakan lingkungan saraf yang optimal tepat setelah latihan untuk ingatan jangka panjang dan pemikiran abstrak.
 
 ---
 
-## Tips Pencegahan Cedera dan Pengaturan Waktu Transisi Berpikir
-
-Memulai latihan intensitas tinggi tepat setelah bangun tidur tanpa pemanasan dapat memberi beban lebih pada sendi dan ligamen. Selalu hangatkan sendi Anda dengan peregangan ringan sebelum latihan beban tubuh. Selain itu, beristirahat lebih dari 15 menit setelah latihan akan mengurangi manfaat puncak aliran darah otak, jadi disarankan untuk segera beralih ke tugas mental yang rumit dalam waktu 5 menit setelah napas Anda teratur.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,12 +78,18 @@ Memulai latihan intensitas tinggi tepat setelah bangun tidur tanpa pemanasan dap
   </p>
 </div>
 
+---
+
+## 3. Tips Pencegahan Cedera dan Pengaturan Waktu Transisi Berpikir
+
+Memulai latihan intensitas tinggi tepat setelah bangun tidur tanpa pemanasan dapat memberi beban lebih pada sendi dan ligamen. Selalu hangatkan sendi Anda dengan peregangan ringan sebelum latihan beban tubuh. Selain itu, beristirahat lebih dari 15 menit setelah latihan akan mengurangi manfaat puncak aliran darah otak, jadi disarankan untuk segera beralih ke tugas mental yang rumit dalam waktu 5 menit setelah napas Anda teratur.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah rutinitas ini dapat dilakukan oleh pemula dengan sendi lemah atau tanpa pengalaman latihan resistensi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -93,7 +98,7 @@ Memulai latihan intensitas tinggi tepat setelah bangun tidur tanpa pemanasan dap
       Ya, tidak perlu mengangkat beban berat atau melakukan latihan berrisiko. Anda dapat menyesuaikan tingkat kesulitan dengan push-up di dinding, slow squat, atau plank ringan. Indikator fisiologis untuk meningkatkan aliran darah otak adalah 'napas terengah-engah dan berkeringat tipis', jadi sesuaikan intensitasnya secara aman.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya boleh mengganti latihan kekuatan dengan olahraga aerobik ringan seperti jogging atau berlari?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "每晚巡视暗黑病房走廊4英里：南丁格尔的定量卫生诊断常规"
 description: "现代护理学奠基人兼先驱统计学家，通过将军队卫生状况与死亡原因制作成统计图表，推动了变革性的医疗改革。"
 pubDate: "2026-03-20"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 nightingale 的内容基于 <strong>弗洛伦斯·南丁格尔历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>弗洛伦斯·南丁格尔历史传记与自传考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 由此产生成功的脑科学原理深度剖析
+## 1. 由此产生成功的脑科学原理深度剖析
 
 密切观察环境中微小的风险因素与他人的生理体征并将数据量化，能够强烈刺激大脑皮层的镜像神经元（Mirror Neurons）与前额叶认知过滤网。将定性现象转化为定量数据记录的过程，能唤醒外侧前额叶皮层，大幅提升元认知分辨率，从而敏锐地提前捕捉日常工作中易被忽略的微小风险与系统漏洞。
 
 ---
 
-## 促进习惯稳固安靠的行为科学建议
-
-试图对空间进行彻底大扫除的强迫倾向，反而会大幅消耗大脑的意志力资源并打乱日常规划。请将重点放在3分钟内完成轻量级微观环境整理与状态诊断上。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 促进习惯稳固安靠的行为科学建议
+
+试图对空间进行彻底大扫除的强迫倾向，反而会大幅消耗大脑的意志力资源并打乱日常规划。请将重点放在3分钟内完成轻量级微观环境整理与状态诊断上。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>记录微观环境诊断指标是否会影响内在自我效能感与自尊？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的，两者密切相关。当大脑有效掌控身边极微小的环境变量（如打理桌面、光线等）并将控制结果书写为视觉数据时，会在前额叶引发“自我效能感”与多巴胺分泌，有效平息焦虑。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>这一原理是否同样适用于电子邮箱或即时通讯等数字环境整理？</span>

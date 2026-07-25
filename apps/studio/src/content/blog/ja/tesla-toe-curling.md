@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "つま先を100回曲げた天才？ニコラ・テスラの奇妙な熟睡儀式"
 description: "毎晩ベッドに横になってつま先を曲げていた天才発明家ニコラ・テスラ。彼のユニークなルーティンに隠された脳科学の秘密と現代人のための3ステップ実践法を紹介します。"
 pubDate: "2026-04-28"
@@ -31,17 +32,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「tesla-toe-curling」は <strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong> に基づいて作成されました。
+      本コンテンツは、<strong>Nikola Tesla, *My Inventions: The Autobiography of Nikola Tesla* (1919) & *JPTS Journal*</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳細胞を呼び醒ます神経スイッチ、つま先
+## 1. 脳細胞を呼び醒ます神経スイッチ、つま先
 
 テスラは、つま先を繰り返し曲げる一見ささやかな運動が、足下に集中する多数の神経を刺激して脳細胞を活性化し、一日の脳の疲労をリセットすると信じていました。
 
@@ -49,9 +50,7 @@ faqs:
 
 ---
 
-## 成功するルーティンのための脳科学的アドバイス
-
-つま先の運動は、心臓から最も遠い場所の血液循環を助けて体温を均一にし、副交感神経を活性化します。毎晩同じタイミング（布団に入った直後）にこの行動を繰り返すと、脳はそれを「眠る時間」という強力な条件反射的シグナルとして認識するようになります。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     つま先運動の後に訪れる全身の微かな温もりとリラックス感を感じながら、「眠る時間」という脳のサインに従って自然に熟睡へと入ります。
   </p>
 </div>
+
+---
+
+## 3. 成功するルーティンのための脳科学的アドバイス
+
+つま先の運動は、心臓から最も遠い場所の血液循環を助けて体温を均一にし、副交感神経を活性化します。毎晩同じタイミング（布団に入った直後）にこの行動を繰り返すと、脳はそれを「眠る時間」という強力な条件反射的シグナルとして認識するようになります。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

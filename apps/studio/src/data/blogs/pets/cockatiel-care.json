@@ -516,6 +516,10 @@
           "Standar AAV"
         ]
       }
-    }
+    },
+    "category": "CareSelf",
+    "app": "careself",
+    "formatVersion": 4,
+    "heroImage": "/images/blog/cockatiel_care.png"
   }
 }

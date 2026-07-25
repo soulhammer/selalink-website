@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Une grande inspiration au dos d'une enveloppe : L'habitude d'écrire sur des bouts de papier d'Emily Dickinson et la relaxation par incubation"
 description: "Découvrez comment le génie poétique américain Emily Dickinson griffonnait spontanément des poèmes sur des reçus et des emballages tout en cuisant du pain. Explorez la neuroscience cognitive de l'activation du DMN et de l'effet d'incubation."
 pubDate: "2026-05-02"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant dickinson-scrap-writing est basée sur <strong>Vérification Historique issue de la biographie de Richard B. Sewall *La Vie d'Emily Dickinson (The Life of Emily Dickinson)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de Richard B. Sewall *La Vie d'Emily Dickinson (The Life of Emily Dickinson)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relaxation par incubation via la répétition physique et l'activation du DMN
+## 1. Relaxation par incubation via la répétition physique et l'activation du DMN
 
 La créativité est étouffée lorsque le cerveau force une réflexion complexe à un bureau. À l'inverse, s'engager dans des tâches physiques répétitives — comme pétrir la pâte — stimule la synthèse créative. La neuroscience nomme cela l'« Effet d'Incubation ». En relâchant le contrôle cognitif du cortex préfrontal, le cerveau bascule dans le Réseau en Mode par Défaut (DMN). Les souvenirs fragmentés fusionnent alors librement. Ces idées se dégradant de la mémoire de travail en quelques secondes, chercher un beau carnet garantit leur perte. L'habitude de Dickinson de noter sur le premier bout de papier venu contrecarre cette volatilité.
 
 ---
 
-## Précautions & Conseils : Rejeter le perfectionnisme & Préserver les idées à l'état brut
-
-Le principe absolu pour capturer les étincelles créatives est la « conservation rapide à l'état brut », non l'organisation. Si vous retardez la prise de notes pour chercher un beau carnet ou ouvrir une application, les signaux créatifs s'évaporeront définitivement. Que ce soit sur un reçu déchiré, un sous-bock ou le dos de votre main, griffonnez un mot-clé à la seconde même de l'inspiration.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le principe absolu pour capturer les étincelles créatives est la « conservati
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Rejeter le perfectionnisme & Préserver les idées à l'état brut
+
+Le principe absolu pour capturer les étincelles créatives est la « conservation rapide à l'état brut », non l'organisation. Si vous retardez la prise de notes pour chercher un beau carnet ou ouvrir une application, les signaux créatifs s'évaporeront définitivement. Que ce soit sur un reçu déchiré, un sous-bock ou le dos de votre main, griffonnez un mot-clé à la seconde même de l'inspiration.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>N'est-il pas beaucoup plus rapide d'ouvrir une application de notes sur smartphone que de chercher un bout de papier ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le principe absolu pour capturer les étincelles créatives est la « conservati
       Bien que l'action numérique semble plus rapide, déverrouiller un écran et apercevoir des notifications force le cerveau à traiter de nouveaux stimuli. Cela écrase l'idée fragile dans votre mémoire de travail, provoquant son évaporation. Un crayon et un bout de papier ne créent aucune friction cognitive.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>N'est-il pas préférable pour la créativité de se concentrer au maximum et d'exécuter les tâches ménagères minutieusement ?</span>

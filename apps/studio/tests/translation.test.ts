@@ -770,7 +770,7 @@ describe('블로그 콘텐츠 전체 무결성 정밀 Linter 테스트', () => {
     const path = require('path');
 
     try {
-      const scriptPath = path.join(__dirname, '../src/check_blog_integrity.js');
+      const scriptPath = path.join(__dirname, '../src/scripts/validators/check_blog_integrity.js');
       const output = execSync(`node ${scriptPath}`, { stdio: 'pipe' }).toString();
       expect(output).toContain('[블로그 무결성 검증 완료]');
     } catch (err: any) {

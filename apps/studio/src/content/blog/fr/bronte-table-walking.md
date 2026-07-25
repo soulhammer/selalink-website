@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Des sœurs tournant autour de la table de nuit : La discussion ambulante et la méthode de création par neurones miroirs de Charlotte Brontë"
 description: "Découvrez la routine de Charlotte Brontë, auteure de 'Jane Eyre', qui tournait autour de la table avec ses sœurs chaque soir pour débattre des personnages et de l'intrigue, et percez les mécanismes neuroscientifiques associant marche et neurones miroirs pour éviter la vision en tunnel."
 pubDate: "2026-05-14"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant bronte-table-walking est basée sur <strong>Vérification Historique issue de la biographie d'Elizabeth Gaskell *La Vie de Charlotte Brontë (The Life of Charlotte Brontë)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Elizabeth Gaskell *La Vie de Charlotte Brontë (The Life of Charlotte Brontë)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation du flux sanguin cérébral par la marche et dépassement de la vision en tunnel via les neurones miroirs
+## 1. Stimulation du flux sanguin cérébral par la marche et dépassement de la vision en tunnel via les neurones miroirs
 
 La marche augmente le flux sanguin cérébral et l'oxygénation tout en déclenchant la libération de facteur neurotrophique dérivé du cerveau (BDNF), stimulant la pensée créative de plus de 60 % par rapport à la position assise. De plus, un dialogue structuré active le système des « Neurones Miroirs (Mirror Neurons) » et les réseaux de la Théorie de l'Esprit. Cela contrecarte la « Vision en Tunnel (Tunnel Vision) » propre au travail solitaire, permettant aux créateurs d'examiner leur projet selon un prisme objectif et d'en corriger les failles logiques.
 
 ---
 
-## Précautions & Conseils : Écoute réceptive des critiques & Blocage de la défensive émotionnelle
-
-Le cœur de la routine de discussion ambulante réside dans l'échange de critiques froides et objectives plutôt que d'éloges polis. Si vous percevez la critique comme une attaque personnelle, votre cerveau déclenche des mécanismes défensifs au niveau de l'amygdale (Amygdala), fermant la réceptivité créative. Vous devez séparer strictement « votre valeur personnelle » de « votre idée », en traitant les retours comme des données neutres.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le cœur de la routine de discussion ambulante réside dans l'échange de critiq
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Écoute réceptive des critiques & Blocage de la défensive émotionnelle
+
+Le cœur de la routine de discussion ambulante réside dans l'échange de critiques froides et objectives plutôt que d'éloges polis. Si vous percevez la critique comme une attaque personnelle, votre cerveau déclenche des mécanismes défensifs au niveau de l'amygdale (Amygdala), fermant la réceptivité créative. Vous devez séparer strictement « votre valeur personnelle » de « votre idée », en traitant les retours comme des données neutres.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'effet créatif de la marche se produit-il également dans un travail en solo sans partenaire ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Le cœur de la routine de discussion ambulante réside dans l'échange de critiq
       Oui, la marche à elle seule stimule la sécrétion de BDNF et le flux sanguin cérébral, augmentant la créativité de plus de 60 %. Lorsque vous travaillez seul, expliquez vos idées à voix haute face à un miroir ou marchez en dialoguant avec un critique imaginaire pour simuler la stimulation métacognitive.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Entendre des critiques aiguisées ne risque-t-il pas de blesser et de décourager la création ?</span>

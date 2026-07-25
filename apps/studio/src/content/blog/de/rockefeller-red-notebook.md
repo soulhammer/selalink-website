@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Der Ölbaron, der nicht einen Cent Verschwendung duldete? John D. Rockefellers Echtzeit-Mikro-Tracking-Methode"
 description: "John D. Rockefeller, der als reichste Person der Weltgeschichte gilt. Erfahren Sie, wie das Mitführen eines kleinen roten Notizbuchs zur sofortigen Erfassung kleiner Ausgaben das präfrontale exekutive Kontrollnetzwerk stimulierte."
 pubDate: "2026-06-24"
@@ -33,25 +34,23 @@ Der heutige Beitrag beleuchtet den kognitionswissenschaftlichen Wert von Rockefe
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu rockefeller-red-notebook basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen von John D. Rockefeller & Forschung der kognitiven Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie und autobiografische Aufzeichnungen von John D. Rockefeller & Forschung der kognitiven Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Echtzeit-Tracking (Real-time Tracking) und Aktivierung des präfrontalen exekutiven Kontrollnetzwerks
+## 1. Echtzeit-Tracking (Real-time Tracking) und Aktivierung des präfrontalen exekutiven Kontrollnetzwerks
 
 Das manuelle Erfassen von Zahlen und Details in einem Notizbuch unmittelbar nach einer Handlung oder Ausgabe stimuliert das präfrontale exekutive Kontrollnetzwerk des Gehirns stark. Dies aktiviert die Selbstregulierung, verzögert impulsive Reaktionen und stärkt die Gehirnplastizität für Verhaltenskontrolle.
 
 ---
 
-## Fallen der digitalen Erfassung vs. Tipps für analoges Echtzeit-Mikro-Tracking
-
-Beim Erfassen in Smartphone-Apps setzt die Flut von Benachrichtigungen das Gehirn erneut kognitivem Stress aus. Das Mitführen eines kleinen roten Notizbuchs und Stifts zur handschriftlichen Erfassung innerhalb von 5 Sekunden ermöglicht die effektivste kognitive Entlastung.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Beim Erfassen in Smartphone-Apps setzt die Flut von Benachrichtigungen das Gehir
   </p>
 </div>
 
+---
+
+## 3. Fallen der digitalen Erfassung vs. Tipps für analoges Echtzeit-Mikro-Tracking
+
+Beim Erfassen in Smartphone-Apps setzt die Flut von Benachrichtigungen das Gehirn erneut kognitivem Stress aus. Das Mitführen eines kleinen roten Notizbuchs und Stifts zur handschriftlichen Erfassung innerhalb von 5 Sekunden ermöglicht die effektivste kognitive Entlastung.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Ist ein analoges Notizbuch wirklich besser als Smartphone-Budget- oder To-Do-Apps?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Beim Erfassen in Smartphone-Apps setzt die Flut von Benachrichtigungen das Gehir
       Ja. Das Einschalten des Smartphones setzt das Gehirn digitalem Lärm aus und lenkt ab. Das handschriftliche Schreiben übermittelt zudem stärkere somatosensorische Signale an die Großhirnrinde, was das Bewusstsein für Selbstkontrolle mehr als verdoppelt.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Muss man wirklich jedes winzige Detail wie 1 Cent oder 1 Minute aufschreiben?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Immersion Amid Noise: Simone de Beauvoir's Cafe White Noise and Environment Simplification Routine"
 description: "Discover how existentialist philosopher and novelist Simone de Beauvoir wrote daily at her favorite Parisian cafe over a cup of tea, and explore the neurological mechanisms of soft white noise alongside methods for building your own personal Focus Zone."
 pubDate: "2026-06-08"
@@ -38,22 +39,20 @@ In today's post, we examine the brain science behind Simone de Beauvoir's 'cafe 
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding beauvoir-cafe-writing is based on <strong>Historical Verification from Simone de Beauvoir's Autobiography *La Force des choses* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Simone de Beauvoir's Autobiography *La Force des choses* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Working Mechanism of White Noise and Cognitive Scripts
+## 1. Working Mechanism of White Noise and Cognitive Scripts
 
 Neuroscientifically, facing the exact same physical environment daily (a designated table, a specific drink) triggers a 'Cognitive Script' that reduces decision fatigue and smoothly transitions the brain into hyperfocus. Furthermore, the soft ambient white noise of 50 to 70 decibels (dB) typical of cafes stimulates brainwaves to activate alpha waves, inducing creativity and problem-solving. Low-level dynamic activity nearby appropriately engages the brain's mirror neuron system, providing a sense of psychological safety that alleviates isolation and maximizes Deep Work efficiency.
 
 ---
 
-## Caution & Tips: Guarding Against Social Noise and Speech Noise
-
-Not all noise is beneficial to the brain. Loud music exceeding 70 decibels or clearly audible conversations (Speech Noise) interfere with the brain's phonological loop, diminishing reading comprehension and logical writing abilities. Choose a venue where a calm noise level is maintained, or if conversation sounds are prominent, actively use noise-canceling headphones to bypass cognitive interference.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Not all noise is beneficial to the brain. Loud music exceeding 70 decibels or cl
   </p>
 </div>
 
+---
+
+## 3. Caution & Tips: Guarding Against Social Noise and Speech Noise
+
+Not all noise is beneficial to the brain. Loud music exceeding 70 decibels or clearly audible conversations (Speech Noise) interfere with the brain's phonological loop, diminishing reading comprehension and logical writing abilities. Choose a venue where a calm noise level is maintained, or if conversation sounds are prominent, actively use noise-canceling headphones to bypass cognitive interference.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Simone de Beauvoir choose Café de Flore as her writing space?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Not all noise is beneficial to the brain. Loud music exceeding 70 decibels or cl
       During the severe cold of 1940s Paris, Café de Flore kept its indoor stove warm and offered an artist-friendly atmosphere where intellectuals could stay for hours without pressure, making it an ideal, stable space for creative work.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Can I implement a similar Cognitive Script in a home or remote work environment?</span>

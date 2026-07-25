@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Conversa com os Sábios: A rotina formal de leitura de Maquiavel"
 description: "Niccolò Maquiavel, o estadista que vestia trajes de corte todas as noites para ler livros de história, mesmo no exílio. Este conteúdo aborda os princípios científicos da cognição vestida, mostrando como trajes formais ativam o cérebro e mudam a mentalidade."
 pubDate: "2026-04-01"
@@ -35,17 +36,17 @@ No post de hoje, interpretamos os benefícios cognitivos do decoro vestimentar d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre machiavelli-regal-reading é baseada em <strong>Evidência histórica da correspondência de Niccolò Maquiavel 『Cartas de Maquiavel』 e pesquisas em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Evidência histórica da correspondência de Niccolò Maquiavel 『Cartas de Maquiavel』 e pesquisas em Neurociência Cognitiva e Psicologia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## O efeito da cognição vestida (Enclothed Cognition) e a ativação da Rede de Controle Executivo (Executive Control Network)
+## 1. O efeito da cognição vestida (Enclothed Cognition) e a ativação da Rede de Controle Executivo (Executive Control Network)
 
 O sistema cognitivo humano experimenta o fenômeno da <strong>cognição vestida (Enclothed Cognition)</strong>, onde os processos mentais são fortemente ajustados ao significado simbólico do vestuário utilizado.
 
@@ -55,9 +56,7 @@ Sutis estímulos táteis de roupas alinhadas suprimem divagações da <strong>Re
 
 ---
 
-## Diretrizes para bloquear os sinais de relaxamento das roupas de descanso e alternar para trajes alinhados para foco profundo
-
-A essência não é vestir roupas caras ou rígidas, mas permitir que o cérebro reconheça uma identidade de papel distinta de 'modo de trabalho e foco' por meio do vestuário. Ternos excessivamente apertados que causam desconforto físico esgotam os recursos cognitivos; portanto, definir um nível de roupa casual alinhada que se diferencie claramente das roupas de descanso e permita concentração confortável é o mais ideal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -89,12 +88,18 @@ A essência não é vestir roupas caras ou rígidas, mas permitir que o cérebro
   </p>
 </div>
 
+---
+
+## 3. Diretrizes para bloquear os sinais de relaxamento das roupas de descanso e alternar para trajes alinhados para foco profundo
+
+A essência não é vestir roupas caras ou rígidas, mas permitir que o cérebro reconheça uma identidade de papel distinta de 'modo de trabalho e foco' por meio do vestuário. Ternos excessivamente apertados que causam desconforto físico esgotam os recursos cognitivos; portanto, definir um nível de roupa casual alinhada que se diferencie claramente das roupas de descanso e permita concentração confortável é o mais ideal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Realmente funciona vestir roupas de sair em vez de pijama ao trabalhar ou estudar em casa?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -103,7 +108,7 @@ A essência não é vestir roupas caras ou rígidas, mas permitir que o cérebro
       Sim, pesquisas da psicologia cognitiva sobre cognição vestida (Enclothed Cognition) comprovam fortemente isso. O simples ato de trocar pijamas ou roupas de casa por roupas alinhadas, como calças ou camisas, sinaliza ao cérebro para mudar seu modo simbólico de um 'contexto de descanso' para um 'contexto de trabalho', reduzindo a procrastinação e encurtando drasticamente o tempo de aquecimento inicial para o foco.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quando é difícil trocar para um terno completo ou roupa de sair, um único item como óculos ou relógio ainda pode ser eficaz?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "牛仔裤后口袋里的亿万富翁秘诀：理查德·布兰森的纸质手账与RAS刺激法"
 description: "探索维珍集团创始人理查德·布兰森爵士如何习惯将灵感实时记录于牛仔裤后口袋的纸质手账中并据此打造出400多家企业，揭示手写刺激网状激活系统（RAS）并将灵感转化为即刻行动力的神经科学原理。"
 pubDate: "2026-03-04"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 branson-notebook-writing 的内容基于 <strong>理查德·布兰森自传《像个凡人一样思考（Like a Virgin: Secrets They Don't Teach You at Business School）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>理查德·布兰森自传《像个凡人一样思考（Like a Virgin: Secrets They Don't Teach You at Business School）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 网状激活系统（RAS）刺激与通过选择性知觉（Selective Perception）转化为执行力
+## 1. 网状激活系统（RAS）刺激与通过选择性知觉（Selective Perception）转化为执行力
 
 位于脑干部位的网状激活系统（RAS，Reticular Activating System）是一个核心信息过滤器，负责从海量的感官输入中筛选出关键信号并呈递至大脑皮层。握笔并在纸上施加压力的物理手写动作，能向大脑传递强效的生物刻印信号：“该信息对我的生存与目标达成至关重要。”受手写刺激激活的RAS会立即启动大脑的注意力调节机制，使大脑即便在无意识状态下也转入“积极的选择性知觉（Selective Perception）”状态，主动从环境中搜寻与该笔记相关的机遇、资源、人脉与解决方案。相较于单纯在脑海中空想或机械地键盘打字，手写笔记能呈指数级提升将抽象想法转化为切实商业执行力与成果的概率。
 
 ---
 
-## 注意事项与提示：重在保留即时原始（Raw）记录而非精致整理
-
-布兰森式手账习惯的核心在于“原汁原味的即时性”——在产生交谈或灵感时，绝不听顿去推敲修饰语句，而是直接挥笔记录。一旦犹豫于打磨字迹或进行整洁的摘要，前额叶皮层的审查机制就会介入，无意识灵感的尾巴便会烟消云散。未经加工地快速记录下对方的原话或自身的灵感原貌（Raw Data），才是唤醒RAS的核心要义。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：重在保留即时原始（Raw）记录而非精致整理
+
+布兰森式手账习惯的核心在于“原汁原味的即时性”——在产生交谈或灵感时，绝不听顿去推敲修饰语句，而是直接挥笔记录。一旦犹豫于打磨字迹或进行整洁的摘要，前额叶皮层的审查机制就会介入，无意识灵感的尾巴便会烟消云散。未经加工地快速记录下对方的原话或自身的灵感原貌（Raw Data），才是唤醒RAS的核心要义。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>使用手机自带的备忘录与纸质手账在功能上有何本质区别？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       在解锁手机屏保与查找应用的数秒内，人极易暴露于社交软件通知、即时消息与邮件等大量的注意力干扰源中，从而导致灵感瞬间溜走。相反，纸质手账翻开即可挥毫，且笔尖的物理压力与体感皮层刺激能强效唤醒大脑的核心信息过滤器——网状激活系统（RAS），这是两者间最决定性的差异。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>手账中记下的微小灵感最终转化为宏大商业壮举的具体实例如何？</span>

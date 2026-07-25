@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Das Genie, das bis mittags im Bett blieb: René Descartes' Meditation im Liegen und Alphawellen-Entspannung"
 description: "Erkunden Sie, wie der Mathematiker und Philosoph René Descartes morgens im Bett meditierte, um geistige Klarheit zu erlangen. Entdecken Sie die kognitiven Neurowissenschaften zu flacher Körperhaltung, reduziertem Cortisol und Alphawellen."
 pubDate: "2026-01-25"
@@ -33,25 +34,23 @@ Seit seiner Kindheit war Descartes von schwacher Gesundheit, weshalb ihm frühes
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu descartes-lying-meditation basiert auf <strong>Historische Überprüfung aus René Descartes' *Discours de la méthode (Abhandlung über die Methode)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Überprüfung aus René Descartes' *Discours de la méthode (Abhandlung über die Methode)* & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Niedrig-Cortisol-Entspannung und Alphawellen-Induktion durch flache Körperhaltung
+## 1. Niedrig-Cortisol-Entspannung und Alphawellen-Induktion durch flache Körperhaltung
 
 Plötzliches Aufstehen nach dem Aufwachen löst eine Cortisol-Aufwachreaktion (CAR) aus, die die Erregung steigert und Betawellen erzeugt. Das Beibehalten einer flachen Körperhaltung nach dem Erwachen dämpft Cortisolspitzen und bewahrt Alphawellen (8–12 Hz). Im Liegen sinkt die Reizüberflutung, sodass der Präfrontalkortex seine volle Kapazität für kognitive Prozesse nutzen kann.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps: Vermeidung von weiterem Schlafen & Klarer Fokus auf eine Aufgabe
-
-Achten Sie darauf, dass die Meditation im Liegen nicht in Weiterschlafen übergeht. Vermeiden Sie es, nach dem Aufwachen zum Smartphone zu greifen, da digitale Reize den Alphazustand stören. Bleiben Sie 5 bis 10 Minuten lang im Liegen wachsam und richten Sie den Fokus auf eine zentrale Aufgabe.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Achten Sie darauf, dass die Meditation im Liegen nicht in Weiterschlafen überge
   </p>
 </div>
 
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps: Vermeidung von weiterem Schlafen & Klarer Fokus auf eine Aufgabe
+
+Achten Sie darauf, dass die Meditation im Liegen nicht in Weiterschlafen übergeht. Vermeiden Sie es, nach dem Aufwachen zum Smartphone zu greifen, da digitale Reize den Alphazustand stören. Bleiben Sie 5 bis 10 Minuten lang im Liegen wachsam und richten Sie den Fokus auf eine zentrale Aufgabe.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bietet die morgendliche Meditation im Liegen tatsächlich wissenschaftlich belegte Vorteile?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Achten Sie darauf, dass die Meditation im Liegen nicht in Weiterschlafen überge
       Ja, die neurophysiologischen Mechanismen sind belegt. Das Liegenbleiben nach dem Aufwachen dämpft Cortisolspitzen und stabilisiert das autonome Nervensystem. Das Bewahren von Alphawellen (8–12 Hz) reduziert Sinnesreize und stärkt die präfrontale Logik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was kann ich tun, wenn ich bei der Meditation im Bett versehentlich wieder einschlafe?</span>

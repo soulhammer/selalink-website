@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "ベッドに横たわり青い色鉛筆で書く：ジェイムズ・ジョイスのエネルギー保存執筆ルーティンと一次視覚皮質（V1）疲労緩和"
 description: "深刻な眼疾患の中でもベッドに横たわり巨大な文学的傑作を残したジェイムズ・ジョイス。感覚疲労を最小限に抑え身体の重力負荷を減らして前頭前野へと脳エネルギーを効率的に分配する科学と3段階実践法を解き明かします。"
 pubDate: "2026-04-10"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「joyce-bed-writing」は <strong>ジェイムズ・ジョイス評伝およびリチャード・エルマン（Richard Ellmann）伝記史料『ジェイムズ・ジョイス（James Joyce）』考証＆認知神経科学（Cognitive Neuroscience）および視知覚（Visual Perception）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジェイムズ・ジョイス評伝およびリチャード・エルマン（Richard Ellmann）伝記史料『ジェイムズ・ジョイス（James Joyce）』考証＆認知神経科学（Cognitive Neuroscience）および視知覚（Visual Perception）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 身体の重力負荷軽減と一次視覚皮質（V1）感覚疲労の緩和
+## 1. 身体の重力負荷軽減と一次視覚皮質（V1）感覚疲労の緩和
 
 脊椎を水平に快適に横たえたり寄りかかる姿勢は、全身の重力負荷を減らし心拍数を安定させて身体的な筋肉エネルギー消耗を最小限に抑えます。これにより、心臓から供給される酸素と血流が脳の<strong>前頭前野（Prefrontal Cortex）</strong>思考領域へと集中できるようになります。また、白色光源の下でコントラストの高い太い青色の筆記具を使用すると、脳の<strong>一次視覚皮質（V1, Primary Visual Cortex）</strong>の可読識別処理が円滑になり、神経学的な<strong>視覚疲労（Visual Fatigue）</strong>を画期的に減らしてくれます。
 
 ---
 
-## 注意事項：身体の疲労信号を受容し視覚的コントラストを高めるルール
-
-ジェイムズ・ジョイスにとってベッドでの執筆は、身体的限界を克服するための賢明な生存戦略でした。肉体と眼球の疲労が極に達した時、無理に硬い椅子に座って頭を絞り出さないでください。背中にクッションを当てて姿勢を低く保ち、太いペンと無地のノートで快適にアイデアを書き留めてみてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：身体の疲労信号を受容し視覚的コントラストを高めるルール
+
+ジェイムズ・ジョイスにとってベッドでの執筆は、身体的限界を克服するための賢明な生存戦略でした。肉体と眼球の疲労が極に達した時、無理に硬い椅子に座って頭を絞り出さないでください。背中にクッションを当てて姿勢を低く保ち、太いペンと無地のノートで快適にアイデアを書き留めてみてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ジョイスはなぜベッドで文章を書く時、白いコートを着たのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       白いコートが照明を原稿用紙の上へと反射させる自然な反射板の役割を果たし、極度に弱まった彼の目に眩しさ（Glare）を与えずに文字がよく見えるよう助ける、一種の「アナログ照明補助装置」だったからです。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>ベッドやソファに横たわって作業すると眠気が襲ってきませんか？</span>

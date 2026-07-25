@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Seorang Jenius yang Bekerja Keras Hanya Tiga Jam Sehari? Metode Fokus Timebox Bertrand Russell"
 description: "Filsuf pemenang Hadiah Nobel Sastra Bertrand Russell. Pelajari kearifannya dalam memaksimalkan efisiensi dengan berfokus penuh di lingkungan yang benar-benar terisolasi selama tepat tiga jam setiap pagi, beserta praktik Deep Work untuk masyarakat modern."
 pubDate: "2026-04-02"
@@ -35,17 +36,17 @@ Artikel hari ini mengungkap sains otak di balik rutinitas batas tiga jam Russell
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai russell-three-hour-focus didasarkan pada <strong>Penelitian berdasarkan biografi historis dan catatan autobiografi Bertrand Russell & riset Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Penelitian berdasarkan biografi historis dan catatan autobiografi Bertrand Russell & riset Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 'Efek Timeboxing' yang Memadatkan Kepadatan Fokus
+## 1. 'Efek Timeboxing' yang Memadatkan Kepadatan Fokus
 
 Banyak orang menjebak diri dalam kerangka kerja 8 jam sehari. Namun, sains otak menunjukkan bahwa batas maksimal korteks serebral memeras energi 100% untuk logika dan kreativitas puncak hanya 3 hingga 4 jam per hari. Menetapkan waktu kerja yang terlalu lama membuat otak kehilangan ketegangan, membuang perhatian untuk mengecek ponsel atau berselancar di internet, sehingga meningkatkan kelelahan kognitif.
 
@@ -53,9 +54,7 @@ Rutinitas 3 jam Bertrand Russell memanfaatkan Hukum Parkinson (pekerjaan berkemb
 
 ---
 
-## Inspirasi Muncul dari Penetrasi yang Sempit dan Dalam, Bukan Jam Kerja yang Panjang
-
-Bagi pemikir besar Russell, fokus 3 jam adalah proses yang puluhan kali lebih kuat daripada sekadar duduk pasif seharian di depan meja dengan perhatian terpecah. Jika Anda duduk seharian di depan komputer dengan lelah tanpa hasil, cobalah membangun benteng perlindungan selama tepat 3 jam sehari seperti Russell dan selami tugas utama Anda. Kebebasan di sisa hidup Anda akan meningkat.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Bagi pemikir besar Russell, fokus 3 jam adalah proses yang puluhan kali lebih ku
   </p>
 </div>
 
+---
+
+## 3. Inspirasi Muncul dari Penetrasi yang Sempit dan Dalam, Bukan Jam Kerja yang Panjang
+
+Bagi pemikir besar Russell, fokus 3 jam adalah proses yang puluhan kali lebih kuat daripada sekadar duduk pasif seharian di depan meja dengan perhatian terpecah. Jika Anda duduk seharian di depan komputer dengan lelah tanpa hasil, cobalah membangun benteng perlindungan selama tepat 3 jam sehari seperti Russell dan selami tugas utama Anda. Kebebasan di sisa hidup Anda akan meningkat.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah tidak bermasalah jika saya tidak membalas pesan selama 3 jam di jam kerja?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Bagi pemikir besar Russell, fokus 3 jam adalah proses yang puluhan kali lebih ku
       Tentu saja, terputus total selama 3 jam bisa jadi sulit di lingkungan kerja umum. Dalam hal ini, membaginya menjadi blok '90 menit fokus - istirahat total' (misalnya 1,5 jam pagi dan 1,5 jam sore) tetap sangat membantu menjaga efisiensi berpikir otak.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah saya boleh melanjutkan pekerjaan ringan di sore hari setelah sesi fokus 3 jam selesai?</span>

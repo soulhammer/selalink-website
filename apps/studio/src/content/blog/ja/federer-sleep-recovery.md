@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "1日12時間眠り数十個の優勝カップを掲げた皇帝：ロジャー・フェデラーの睡眠回復ルーティンと脳浄化メカニズム"
 description: "テニス界の皇帝ロジャー・フェデラー。40歳を超える年齢まで世界最高峰の技量を維持した秘訣である1日10〜12時間の高級睡眠およびレム（REM）睡眠回復ルーティンとグリンパティック系の脳科学的メカニズム、3段階実践ガイドを深く解き明かします。"
 pubDate: "2026-03-16"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「federer-sleep-recovery」は <strong>クリス・バウワー『ロジャー・フェデラー評伝（Roger Federer: The Greatest）』およびATP公式史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>クリス・バウワー『ロジャー・フェデラー評伝（Roger Federer: The Greatest）』およびATP公式史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## グリンパティック系の洗浄とレム（REM）睡眠の神経可塑性回復メカニズム
+## 1. グリンパティック系の洗浄とレム（REM）睡眠の神経可塑性回復メカニズム
 
 深い睡眠状態に入ると、脳の<strong>グリンパティック系（Glymphatic System）</strong>が活性化され、日中に脳細胞の間に溜まったベータアミロイドなどの毒性老廃物を綺麗に洗浄します。また、睡眠後半の<strong>レム（REM）睡眠</strong>は、運動手続記憶と認知反射神経を高度化させる神経可塑性を促進します。フェデラーのように十分な睡眠時間を確保する時、脳はストレスホルモンであるコルチゾール数値を下げ、成長ホルモンの分泌を促進して身体の筋肉と脳の集中力を最高の状態へと復元させます。
 
 ---
 
-## 注意事項：睡眠時間を削って意志力で耐えようとする錯覚への警戒
-
-睡眠を削って働くことは、アルコール飲料を飲んだ状態で運転することと同等レベルの認知エラーを引き起こします。フェデラーの言葉のように、最高の成果は無理に耐える時間から生まれるのではなく、精緻な睡眠回復がもたらす澄み切った没頭から生まれるのです。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：睡眠時間を削って意志力で耐えようとする錯覚への警戒
+
+睡眠を削って働くことは、アルコール飲料を飲んだ状態で運転することと同等レベルの認知エラーを引き起こします。フェデラーの言葉のように、最高の成果は無理に耐える時間から生まれるのではなく、精緻な睡眠回復がもたらす澄み切った没頭から生まれるのです。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>夜に眠りにつけない不眠症がある時はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       ベッドの上で無理に眠ろうとあがくのではなく、20分が過ぎても眠れない場合はリビングに出て赤い照明の下で軽い読書をし、眠気が差した時に再び寝室に戻る刺激統制療法（Stimulus Control）をお勧めします。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>昼寝をした後、かえって頭が重く感じられる理由は何ですか？</span>

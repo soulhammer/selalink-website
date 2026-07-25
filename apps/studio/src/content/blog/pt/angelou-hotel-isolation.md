@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Bloqueio Ambiental para Imersão: A Rotina de Isolamento em Hotel de Maya Angelou"
 description: "A lendária poetisa e ativista Maya Angelou escrevia exclusivamente em quartos de hotel vazios e sem estímulos para maximizar a concentração. Explore os princípios neurocientíficos do controle de estímulos ambientais."
 pubDate: "2026-03-21"
@@ -33,25 +34,23 @@ No artigo de hoje, analisamos os princípios neurocientíficos do controle de es
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre angelou-hotel-isolation é baseada em <strong>Verificação Histórica dos Registros Autobiográficos de Maya Angelou, *Daily Rituals* de Mason Currey e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica dos Registros Autobiográficos de Maya Angelou, *Daily Rituals* de Mason Currey e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Controle de Estímulos Visuais e Conservação de Energia Cognitiva Pré-Frontal
+## 1. Controle de Estímulos Visuais e Conservação de Energia Cognitiva Pré-Frontal
 
 Mesmo sem consciência explícita, o cérebro humano analisa constantemente os estímulos visuais e auditivos do ambiente ao redor, consumindo energia cognitiva. Garantir um espaço de isolamento exclusivo e minimalista reduz drasticamente os estímulos ambientais, preservando a energia pré-frontal totalmente para a imersão na tarefa.
 
 ---
 
-## Conselhos Neurocientíficos para Hábitos Bem-Sucedidos de Imersão Ambiental
-
-É difícil superar as distrações apenas com a força de vontade. A verdadeira imersão vem do projeto antecipado de um ambiente físico onde as tentações não possam se enraizar. Organize sua mesa e isole os dispositivos eletrônicos para criar um ambiente onde seu cérebro não tenha escolha a não ser focar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ Mesmo sem consciência explícita, o cérebro humano analisa constantemente os e
   </p>
 </div>
 
+---
+
+## 3. Conselhos Neurocientíficos para Hábitos Bem-Sucedidos de Imersão Ambiental
+
+É difícil superar as distrações apenas com a força de vontade. A verdadeira imersão vem do projeto antecipado de um ambiente físico onde as tentações não possam se enraizar. Organize sua mesa e isole os dispositivos eletrônicos para criar um ambiente onde seu cérebro não tenha escolha a não ser focar.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

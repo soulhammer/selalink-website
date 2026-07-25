@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "L'isolement pour une immersion parfaite : L'habitude d'écriture dans la cabane rotative de George Bernard Shaw"
 description: "Le dramaturge Bernard Shaw a remporté à la fois le prix Nobel et un Oscar. Découvrez le secret de sa concentration profonde : s'enfermer 6 heures par jour dans une petite cabane rotative au jardin pour suivre la lumière naturelle et couper toute distraction."
 pubDate: "2026-02-27"
@@ -29,25 +30,23 @@ George Bernard Shaw, le dramaturge prix Nobel célèbre pour des œuvres comme '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant shaw-rotating-hut-focus est basée sur <strong>Biographies historiques, récits autobiographiques de l'immersion de Shaw dans sa cabane rotative et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques, récits autobiographiques de l'immersion de Shaw dans sa cabane rotative et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Exposition à la lumière du jour et minimisation des coûts de commutation cognitive (Switching Cost)
+## 1. Exposition à la lumière du jour et minimisation des coûts de commutation cognitive (Switching Cost)
 
 L'exposition continue à la lumière naturelle du jour stimule les cellules de la rétine, maximisant la synthèse de sérotonine qui favorise l'éveil — un effet que l'éclairage artificiel ne peut égaler. De plus, à chaque distraction extérieure (questions, coups à la porte, sonneries), le cerveau dépense une énergie considérable (coûts de commutation) pour réajuster le contexte de sa mémoire de travail. Placer le cerveau dans un espace physiquement isolé comme la cabane de Shaw élimine ces interférences à la source, évitant la perte de mémoire de travail et permettant un travail profond (Deep Work) prolongé pendant plusieurs heures.
 
 ---
 
-## Précautions et conseils
-
-Un point d'attention majeur lors de l'application de l'isolement physique consiste à ne pas emporter votre smartphone ou les notifications de réseaux sociaux dans cet espace. Même si le blocage physique externe est parfait, conserver des distractions numériques à portée de main maintient le cerveau captif d'impulsions inconscientes de vérification. Ainsi, en entrant dans votre zone de travail, désactivez toutes les notifications (mode Ne pas déranger) ou travaillez hors ligne. Une véritable détox numérique associée à l'isolement physique est indispensable pour tirer tous les bénéfices de l'effet cabane.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Un point d'attention majeur lors de l'application de l'isolement physique consis
     Placez votre bureau près d'une fenêtre pour recevoir la lumière directe du soleil. Laisser la lumière naturelle pénétrer votre champ de vision dès le matin stimule la synthèse de sérotonine, stimulant le cerveau pour les tâches complexes.
   </p>
 </div>
+
+---
+
+## 3. Précautions et conseils
+
+Un point d'attention majeur lors de l'application de l'isolement physique consiste à ne pas emporter votre smartphone ou les notifications de réseaux sociaux dans cet espace. Même si le blocage physique externe est parfait, conserver des distractions numériques à portée de main maintient le cerveau captif d'impulsions inconscientes de vérification. Ainsi, en entrant dans votre zone de travail, désactivez toutes les notifications (mode Ne pas déranger) ou travaillez hors ligne. Une véritable détox numérique associée à l'isolement physique est indispensable pour tirer tous les bénéfices de l'effet cabane.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

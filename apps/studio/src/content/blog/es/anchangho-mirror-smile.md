@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Poder para Despertar los Circuitos Cerebrales Positivos: La Rutina de Sonrisa Frente al Espejo y Limpieza de Dosan Ahn Chang-ho"
 description: "El poder de la 'sonrisa' y la 'limpieza' enfatizado por el activista por la independencia Dosan Ahn Chang-ho. Descubra las razones científicas por las que una sonrisa forzada libera serotonina en el cerebro y un espacio ordenado reduce la carga cognitiva visual."
 pubDate: "2026-01-19"
@@ -36,14 +37,14 @@ En la publicación de hoy, analizamos los principios de la hipótesis de retroal
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre anchangho-mirror-smile se basa en <strong>Verificación Histórica de la Biografía de Dosan Ahn Chang-ho, Registros de la Academia de Jóvenes Coreanos (Hung Sah Dahn) e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de Dosan Ahn Chang-ho, Registros de la Academia de Jóvenes Coreanos (Hung Sah Dahn) e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efectos Terapéuticos Cognitivos de la Hipótesis de Retroalimentación Facial y el Orden del Espacio Físico
+## 1. Efectos Terapéuticos Cognitivos de la Hipótesis de Retroalimentación Facial y el Orden del Espacio Físico
 
 Según la Hipótesis de Retroalimentación Facial (Facial Feedback Hypothesis) en fisiología, el cerebro no solo mueve los músculos faciales en función de la emoción, sino que inversamente detecta el estado de contracción de los músculos faciales para determinar el estado emocional actual. El simple hecho de forzar una sonrisa por la mañana hace que el cerebro la perciba como un estímulo de alegría, promoviendo la secreción de neurotransmisores positivos como la serotonina y la dopamina, y reduciendo la cantidad de cortisol, la hormona del estrés.
 
@@ -51,9 +52,7 @@ Además, limpiar y organizar el espacio circundante bloquea significativamente e
 
 ---
 
-## Unas Palabras de Dosan para Organizar la Mente y el Espacio
-
-Cuando su mente esté desordenada, en lugar de esforzarse por juntar sus pensamientos a la fuerza, comience enviando primero una sonrisa a su reflejo en el espejo y recogiendo un trozo de papel frente a sus ojos. La sonrisa disipa la oscuridad interior y la limpieza corrige el desorden exterior, guiándolo por el camino correcto.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Cuando su mente esté desordenada, en lugar de esforzarse por juntar sus pensami
     Incluso si no sale de casa, lávese la cara, péinese adecuadamente, evite la ropa arrugada o sucia y mantenga una presentación personal pulcra para infundir alerta cognitiva.
   </p>
 </div>
+
+---
+
+## 3. Unas Palabras de Dosan para Organizar la Mente y el Espacio
+
+Cuando su mente esté desordenada, en lugar de esforzarse por juntar sus pensamientos a la fuerza, comience enviando primero una sonrisa a su reflejo en el espejo y recogiendo un trozo de papel frente a sus ojos. La sonrisa disipa la oscuridad interior y la limpieza corrige el desorden exterior, guiándolo por el camino correcto.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

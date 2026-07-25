@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Dar à Luz Obras-Primas no Silêncio Absoluto: A Rotina de Escrita Noturna de Franz Kafka e a Regulação Descendente Frontal"
 description: "Descubra como o gigante literário do século XX Franz Kafka compôs obras-primas como A Metamorfose escrevendo das 23h ao amanhecer em absoluto silêncio. Explore a neurociência da regulação descendente frontal e imersão da memória de trabalho."
 pubDate: "2026-04-01"
@@ -35,25 +36,23 @@ No artigo de hoje, analisamos a neurociência cognitiva por trás da rotina de '
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre kafka-late-night-writing é baseada em <strong>Verificação Histórica da Biografia de Max Brod *Franz Kafka*, Diários de Kafka e Pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Max Brod *Franz Kafka*, Diários de Kafka e Pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Regulação Descendente Frontal e Neurociência da Imersão no Silêncio Absoluto
+## 1. Regulação Descendente Frontal e Neurociência da Imersão no Silêncio Absoluto
 
 Durante o dia, o <strong>Córtex Pré-frontal</strong> gasta energia mantendo o controle inibitório e o filtro lógico. À noite, a fadiga relaxa esse filtro, um estado conhecido na neurociência cognitiva como <strong>Regulação Descendente Frontal (Frontal Down-regulation)</strong>. Liberto da censura, o cérebro acessa o subconsciente, emoções profundas e a criatividade desinibida. Essa transição permitiu a Kafka criar uma prosa singular. Simultaneamente, o silêncio noturno elimina interferências na <strong>Memória de Trabalho</strong>.
 
 ---
 
-## Precaução: Garanta uma Hora Dourada de Silêncio Sem Prejudicar a Saúde do Sono
-
-Replicar a rotina de Kafka virando a noite sem planejamento arrisca privação de sono e esgotamento físico. O segredo não é perder o sono, mas criar intencionalmente 1 hora onde o ruído externo seja eliminado. Em vez de passar a noite em claro, use fones com cancelamento de ruído ou aproveite as primeiras horas da manhã.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Replicar a rotina de Kafka virando a noite sem planejamento arrisca privação d
   </p>
 </div>
 
+---
+
+## 3. Precaução: Garanta uma Hora Dourada de Silêncio Sem Prejudicar a Saúde do Sono
+
+Replicar a rotina de Kafka virando a noite sem planejamento arrisca privação de sono e esgotamento físico. O segredo não é perder o sono, mas criar intencionalmente 1 hora onde o ruído externo seja eliminado. Em vez de passar a noite em claro, use fones com cancelamento de ruído ou aproveite as primeiras horas da manhã.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Trabalhar até tarde como Kafka não prejudica o ciclo natural do sono?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Replicar a rotina de Kafka virando a noite sem planejamento arrisca privação d
       Sim, virar a noite em excesso prejudica a saúde. O segredo não é o horário noturno em si, mas garantir '1 hora de silêncio absoluto' sem interrupções. Alcançar isso via cancelamento de ruído ou nas primeiras horas da manhã garante os mesmos benefícios cognitivos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Como posso adaptar a rotina de silêncio de Kafka durante o dia?</span>

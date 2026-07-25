@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Estatísticas de 29.000 plantas de ervilha? O método de aprimoramento da memória de trabalho de Gregor Mendel"
 description: "Descubra a história de Gregor Mendel, o grande pioneiro da genética. Conheça sua perseverança ao registrar diariamente as mudanças em milhares de plantas de ervilha no jardim do mosteiro, e explore um método de rastreamento estatístico para treinar a estrutura cognitiva e aprimorar a memória de trabalho."
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ Neste artigo, exploramos os princípios neurocientíficos integrados à rotina d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre mendel-pea-statistics é baseada em <strong>Pesquisa de biografias históricas e registros autobiográficos de Gregor Mendel & estudos de neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa de biografias históricas e registros autobiográficos de Gregor Mendel & estudos de neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Treinamento de memória de trabalho que transforma a análise de dados e a estrutura cognitiva
+## 1. Treinamento de memória de trabalho que transforma a análise de dados e a estrutura cognitiva
 
 O ato de observar pequenas mudanças diárias com os próprios olhos, quantificá-las e escrevê-las à mão em papel milimetrado ativa fortemente a área da <strong>memória de trabalho</strong> localizada no Lobo Frontal do cérebro. A memória de trabalho funciona como a 'RAM do cérebro', armazenando e processando informações temporariamente.
 
@@ -53,9 +54,7 @@ Observar e organizar grandes quantidades de dados morfológicos aparentemente ir
 
 ---
 
-## Estatísticas analógicas refinam o filtro cognitivo do cérebro
-
-Ferramentas digitais automatizadas de análise de dados são convenientes, mas ignoram o processo cognitivo ativo em que o cérebro coleta e classifica dados diretamente. Rastrear e escrever à mão suas próprias estatísticas vitais em formato analógico diariamente, assim como Mendel fez, é um excelente exercício cognitivo para refinar o filtro de informações do cérebro e construir perseverança.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Ferramentas digitais automatizadas de análise de dados são convenientes, mas i
   </p>
 </div>
 
+---
+
+## 3. Estatísticas analógicas refinam o filtro cognitivo do cérebro
+
+Ferramentas digitais automatizadas de análise de dados são convenientes, mas ignoram o processo cognitivo ativo em que o cérebro coleta e classifica dados diretamente. Rastrear e escrever à mão suas próprias estatísticas vitais em formato analógico diariamente, assim como Mendel fez, é um excelente exercício cognitivo para refinar o filtro de informações do cérebro e construir perseverança.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>É realmente necessário desenhar os gráficos à mão? Usar o Excel não seria mais prático?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Ferramentas digitais automatizadas de análise de dados são convenientes, mas i
       O Excel ou aplicativos automatizados reduzem a estimulação cognitiva visual. O ato físico de usar uma régua e desenhar linhas à mão para representar as oscilações engaja o lobo parietal inferior de forma muito mais intensa, ajudando você a perceber intuitivamente as relações de causa e efeito e os padrões por trás dos dados.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>É necessário continuar registrando mesmo que não haja mudanças significativas nos números?</span>

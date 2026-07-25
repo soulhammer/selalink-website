@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "チンパンジーの傍らの岩に座り生涯観察し記録したジェーン・グードールの没頭習慣と選択的注意集中ルーティン"
 description: "アフリカ・ゴンベのジャングルでチンパンジーの群れと共に生活した動物行動学者ジェーン・グードール。判断を徹底的に排除し対象を精密凝視して科学的洞察を引き出した3段階観察没頭ルーティンと感覚連合皮質活性化の原理を解き明かします。"
 pubDate: "2026-05-09"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「jane-goodall」は <strong>ジェーン・グードール自伝『希望の理由（Reason for Hope）』およびゴンベ研究センター（Gombe Stream Research Centre）史料考証＆認知神経科学（Cognitive Neuroscience）および動物行動学（Ethology）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジェーン・グードール自伝『希望の理由（Reason for Hope）』およびゴンベ研究センター（Gombe Stream Research Centre）史料考証＆認知神経科学（Cognitive Neuroscience）および動物行動学（Ethology）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 感覚連合皮質刺激と選択的注意集中（Selective Attention）
+## 1. 感覚連合皮質刺激と選択的注意集中（Selective Attention）
 
 外部対象を操作しようと介入せず、極めて客観的な注意力で対象を長時間黙々と凝視する訓練は、頭脳の<strong>感覚連合皮質（Sensory Association Cortex）</strong>と<strong>選択的注意集中（Selective Attention）</strong>回路を鋭く活性化させます。微細な感覚軌跡を脳に入力し、これをアナログ文章や絵として構造化する過程は、脳の微細感覚分解能を厚く訓練し、日常で通り過ぎるヒントやビジネス市場の隠されたトレンドを先制的に捉える<strong>「通察知覚能力（Insightful Perceptual Ability）」</strong>を増進させます。
 
 ---
 
-## 注意事項：主観的評価を排除し客観的感覚データの受容に集中するルール
-
-観察した対象を論理的に即座に評価したり分類しようと頭を使わないでください。主観的な判断や先入観を捨て、あるがままの物理的深度、質感、明暗を脳に収め、感覚受容体を綺麗に洗浄する訓練自体に集中することが核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：主観的評価を排除し客観的感覚データの受容に集中するルール
+
+観察した対象を論理的に即座に評価したり分類しようと頭を使わないでください。主観的な判断や先入観を捨て、あるがままの物理的深度、質感、明暗を脳に収め、感覚受容体を綺麗に洗浄する訓練自体に集中することが核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>目で観察する対象をスマートフォンの写真で撮影して分析してもよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ、違います。デジタル画面内の画像は圧縮された2Dピクセルに過ぎず、脳の立体知覚神経網を活性化させることができません。必ず自分の目で実物対象の奥行き感と質感を立体的に解読してこそ、脳の感覚ニューロンの可塑性が促進されます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>静的で退屈な対象だけを観察しなければなりませんか？</span>

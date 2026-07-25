@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在浴缸里边吃苹果边策划凶案的女人：阿加莎·克里斯蒂的热水头脑风暴与DMN放松法"
 description: "探索推理小说之王阿加莎·克里斯蒂在热水浴缸里嚼着苹果构思缜密不在场证明与谋杀诡计的放松习惯，揭示预设模式网络（DMN）激活与咀嚼运动的认知神经科学原理。"
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 christie-bathtub-brainstorming 的内容基于 <strong>阿加莎·克里斯蒂自传《阿加莎·克里斯蒂自传（An Autobiography）》考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>阿加莎·克里斯蒂自传《阿加莎·克里斯蒂自传（An Autobiography）》考证与认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过热水泡澡激活预设模式网络（DMN）与咀嚼运动刺激
+## 1. 通过热水泡澡激活预设模式网络（DMN）与咀嚼运动刺激
 
 浸泡于38°C-40°C的热水中能扩张血管、促进血液循环，并促使副交感神经系统（Parasympathetic Nervous System）占据主导，从而平稳心率与肌肉紧绷。在此生理松弛状态下，大脑会关闭负责刻意专注的“中央执行网络（CEN）”，切入在发呆与休憩时运转的“预设模式网络（DMN）”。当DMN激活时，大脑会在无意识中将原本散落于长期记忆中的碎片化信息重新拼贴交融，瞬间浮现出出人意料的创造性解法。若在此基础上叠加咀嚼（Mastication）苹果的机械运动，咀嚼信号便会通过三叉神经（Trigeminal Nerve）向前额叶皮层传递微弱而愉悦的唤醒信号，削减皮质醇水平，使灵感在极佳的情绪调和状态下完成整合。
 
 ---
 
-## 注意事项与提示：解除强迫性压迫感与引导肉体彻底松弛
-
-这项放松习惯的本意绝非强行掏空大脑拧出答案。若置身浴缸依然怀揣“必须想出新点子”的强迫焦虑，交感神经系统便会再度处于应激兴奋状态，进而导致DMN停摆。请将困惑抛至无意识深处，全情沉浸于热水的温抚、水果的咀嚼口感与芬芳香气中，彻底卸下前额叶皮层的执行压力，无意识的联想重组方能顺构发生。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项与提示：解除强迫性压迫感与引导肉体彻底松弛
+
+这项放松习惯的本意绝非强行掏空大脑拧出答案。若置身浴缸依然怀揣“必须想出新点子”的强迫焦虑，交感神经系统便会再度处于应激兴奋状态，进而导致DMN停摆。请将困惑抛至无意识深处，全情沉浸于热水的温抚、水果的咀嚼口感与芬芳香气中，彻底卸下前额叶皮层的执行压力，无意识的联想重组方能顺构发生。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>为什么偏偏是在热水浴缸里吃苹果时更容易涌现灵感？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       热水泡澡能平稳心率、拉高副交感神经优势以启动DMN（预设模式网络）；与此同时，咀嚼爽脆苹果的低频机械运动会通过三叉神经刺激前额叶皮层，产生微弱而愉悦的觉醒。在这套完美的自律神经平衡状态下，无意识深处的灵感得以自发交融。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若家中没有浴缸条件，是否有可替代的肉体放松与DMN激活方案？</span>

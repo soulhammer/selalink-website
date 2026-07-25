@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "朴素庭院里的智力联结：阿匹克路斯的对话与节俭饮食习惯及心灵平静之道"
 description: "深度剖析阿匹克路斯在雅典郊外建立“庭院”，与挚友分食简朴餐食、分享深邃思考的习惯。揭示排除社会炫耀、在安全纽带中对话如何刺激催产素与血清素分泌，从而引发高阶幸福感的神经机制。"
 pubDate: "2026-01-20"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 epicurus-garden-conversation 的内容基于 <strong>第欧根尼·拉尔修《哲人言行录（Lives and Opinions of Eminent Philosophers）》与阿匹克路斯书信集考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>第欧根尼·拉尔修《哲人言行录（Lives and Opinions of Eminent Philosophers）》与阿匹克路斯书信集考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 心理安全感与催产素及血清素的粘合效应
+## 1. 心理安全感与催产素及血清素的粘合效应
 
 一个能摒弃一切批判攻击、全盘倾吐内心的隐秘圈子，能赋予大脑极强的“心理安全感（Psychological Safety）”。在此类高度信任的纽带中开展深层次对话，会促使下丘脑大量释放掌管亲密联结与情绪安抚的催产素（Oxytocin）。催产素能有效抚平杏仁核的戒备应激，大幅拉低皮质醇水平，消除大脑的认知疲劳。
 
 ---
 
-## 注意事项：排除人工刺激与喧嚣，聚焦对话本质
-
-在展开社交对话时，人们常犯的错误在于过于依赖奢华豪宴与频频劝酒来营造人工的亢奋氛围。暴饮暴食与过量酒精固然能诱发多巴胺的暴涨，但随之而来的便是剧烈的多巴胺匮乏，加剧慢性焦虑。正如阿匹克路斯仅以面包与清水置案，维持简约消解了多巴胺受体的过载疲态，方能让大脑感悟到持久宁静的甜美（Ataraxia）。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：排除人工刺激与喧嚣，聚焦对话本质
+
+在展开社交对话时，人们常犯的错误在于过于依赖奢华豪宴与频频劝酒来营造人工的亢奋氛围。暴饮暴食与过量酒精固然能诱发多巴胺的暴涨，但随之而来的便是剧烈的多巴胺匮乏，加剧慢性焦虑。正如阿匹克路斯仅以面包与清水置案，维持简约消解了多巴胺受体的过载疲态，方能让大脑感悟到持久宁静的甜美（Ataraxia）。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>每次与朋友聊天总会滑向政治或经济辩论引发争吵，该如何应对？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       争论不休的话题会倒逼肾上腺素与皮质醇过量分泌，拉垮神经平稳。在聚会开始前提前拟定一条约定：“今天咱们聊聊近来的心路历程或读书心得，暂且放下时事焦点”，这乃是守护团体静心（Ataraxia）的终极盾牌。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>协调朋友每周线下聚餐难度极大，有其他替代方案吗？</span>

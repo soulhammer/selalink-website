@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Enfriar un cerebro sobrecalentado: La rutina de desintoxicación con películas del Oeste de Ludwig Wittgenstein"
 description: "Ludwig Wittgenstein disfrutaba de películas del Oeste en la primera fila del cine para reiniciar su cerebro tras explorar la filosofía analítica. Destaca el mecanismo de inmersión visual forzada para desactivar la sobrecarga prefrontal."
 pubDate: "2026-03-14"
@@ -38,22 +39,20 @@ Este artículo analiza la rutina de desintoxicación con westerns de Wittgenstei
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre wittgenstein-movie-detox se basa en <strong>Biografías y registros históricos de Ludwig Wittgenstein junto con investigaciones en Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Biografías y registros históricos de Ludwig Wittgenstein junto con investigaciones en Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Reinício de circuitos cerebrales e incubación mediante la redirección forzada de la atención
+## 1. Reinício de circuitos cerebrales e incubación mediante la redirección forzada de la atención
 
 Cuando el córtex prefrontal se enfoca en un tema complejo durante horas, sufre fatiga cognitiva. Intentar descansar pasivamente desata la rumiación inconsciente. La rutina de Wittgenstein logra una 'redirección forzada de la atención'. Al sumergir la vista y el oído en una pantalla dinámica pero simple, los circuitos analíticos se apagan, permitiendo que la Red Neuronal por Defecto (DMN) se active e incube soluciones a problemas complejos.
 
 ---
 
-## Precauciones y consejos
-
-Al elegir películas para desintoxicar la mente, evita thrillers complejos, cine de arte abstracto o tragedias pesadas que añaden carga cognitiva. Elige contenido sencillo, como películas de acción ligeras, historias de bien contra el mal o documentales de naturaleza que no requieran análisis.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Al elegir películas para desintoxicar la mente, evita thrillers complejos, cine
     Sin evaluar ni criticar el argumento, deja fluir la vista durante 30-60 minutos para reiniciar la mente y ve a dormir inmediatamente.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Al elegir películas para desintoxicar la mente, evita thrillers complejos, cine de arte abstracto o tragedias pesadas que añaden carga cognitiva. Elige contenido sencillo, como películas de acción ligeras, historias de bien contra el mal o documentales de naturaleza que no requieran análisis.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

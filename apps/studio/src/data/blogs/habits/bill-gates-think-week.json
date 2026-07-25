@@ -1,216 +1,318 @@
 {
   "bill-gates-think-week": {
-    "title": {
-      "ko": "단절의 일주일: 빌 게이츠의 '생각 주간'과 무소음 딥워크",
-      "en": "A Week of Disconnection: Bill Gates's 'Think Week' and Silent Deep Work",
-      "ja": "遮断の1週間：ビル・ゲイツの「シンク・ウィーク（Think Week）」と無騒音ディープ・ワーク",
-      "zh": "切断连接的一周：比尔·盖茨的“思考周”与无噪音深度工作",
-      "es": "Una Semana de Desconexión: La 'Semana de Pensamiento' de Bill Gates y el Trabajo Profundo Silencioso",
-      "de": "Eine Woche der Entkopplung: Bill Gates' 'Think Week' und geräuschloses Deep Work",
-      "fr": "Une semaine de déconnexion : La « Semaine de réflexion » de Bill Gates et le travail profond silencieux",
-      "pt": "Uma Semana de Desconexão: A 'Semana de Pensamento' de Bill Gates e o Trabalho Profundo Silencioso",
-      "id": "Satu Minggu Pemutusan Hubungan: 'Think Week' Bill Gates dan Kerja Mendalam Tanpa Kebisingan"
-    },
-    "description": {
-      "ko": "마이크로소프트의 대약진을 이끈 빌 게이츠의 오두막 고립 독서 루틴 '생각 주간'. 외부 자극을 완벽히 통제하여 주의력 잔재를 청소하고 뇌의 장기적 통찰력을 극대화하는 신경과학적 원리를 밝힙니다.",
-      "en": "Explore Bill Gates's cottage isolation reading routine, 'Think Week', which propelled Microsoft's massive leaps forward, and uncover the neuroscientific principles of eliminating attention residue and maximizing long-term brain insight through total sensory control.",
-      "ja": "マイクロソフトの大躍進を導いたビル・ゲイツの小屋孤立読書ルーティン「シンク・ウィーク」。外部刺激を完全に統制して注意力の残渣を掃除し、脳の長期的な洞察力を極大化する神経科学的原理を解き明かします。",
-      "zh": "探索推动微软实现跨越式飞跃的比尔·盖茨小屋隔离阅读习惯——“思考周（Think Week）”，揭示通过完全控制外部刺激消除注意力残留并最大化提升大脑长期洞察力的神经科学原理。",
-      "es": "Descubra la rutina de lectura e aislamiento en una cabaña de Bill Gates, la 'Semana de Pensamiento (Think Week)', que impulsó los grandes saltos de Microsoft, y explore los principios neurocientíficos para eliminar el residuo de atención y maximizar la visión a largo plazo.",
-      "de": "Erkunden Sie Bill Gates' Hütten-Isolations-Lese-Routine 'Think Week', die Microsofts große Sprünge vorantrieb, und entdecken Sie die neurowissenschaftlichen Prinzipien zur Beseitigung von Aufmerksamkeitsrückständen und zur Maximierung langfristiger Gehirnerkenntnisse.",
-      "fr": "Découvrez la routine de lecture isolée en chalet de Bill Gates, la « Semaine de réflexion (Think Week) », qui a propulsé les grands bonds en avant de Microsoft, et percez les principes neuroscientifiques d'élimination des résidus d'attention et de maximisation des visions à long terme.",
-      "pt": "Descubra a rotina de leitura e isolamento em um chalé de Bill Gates, a 'Semana de Pensamento (Think Week)', que impulsionou os grandes saltos da Microsoft, e explore os princípios neurocientíficos para eliminar o resíduo de atenção e maximizar a visão de longo prazo.",
-      "id": "Pelajari rutinitas membaca dalam isolasi pondok ala Bill Gates, 'Think Week', yang mendorong lompatan besar Microsoft, dan temukan prinsip neurosains tentang mengeliminasi sisa perhatian serta memaksimalkan wawasan jangka panjang otak."
-    },
-    "authority": {
-      "ko": "월터 아이작슨 평전 『빌 게이츠 평전』 및 마이크로소프트 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical Verification from Walter Isaacson's Biography & Microsoft Archives & Cognitive Neuroscience Research",
-      "ja": "ウォルター・アイザックソン伝記『ビル・ゲイツ伝』＆マイクロソフト史料考証＆認知神経科学（Cognitive Neuroscience）研究",
-      "zh": "沃尔特·艾萨克森传记《比尔·盖茨传》与微软史料考证与认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Verificación Histórica de la Biografía de Walter Isaacson y Archivos de Microsoft e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
-      "de": "Historische Überprüfung aus Walter Isaacsons Biografie & Microsoft-Archiven & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
-      "fr": "Vérification Historique issue de la biographie de Walter Isaacson & des archives de Microsoft & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
-      "pt": "Verificação Histórica da Biografia de Walter Isaacson e Arquivos da Microsoft e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
-      "id": "Verifikasi Historis dari Biografi Walter Isaacson & Arsip Microsoft & Penelitian Neurosains Kognitif (Cognitive Neuroscience)"
-    },
-    "intro": {
-      "ko": "\"생각 주간은 내가 마이크로소프트에서 한 일 중 가장 생산적인 활동이었습니다. 그곳에서는 방해 없이 온전히 미래에만 집중할 수 있습니다.\" 🌲\n\n세계 최대의 소프트웨어 기업 마이크로소프트(Microsoft)의 공동 창업자이자 개인용 컴퓨터(PC) 혁명을 이끈 기술 사상가 빌 게이츠(Bill Gates, 1955–). MS-DOS와 Windows 시리즈를 통해 인류 생활 방식의 디지털 대전환을 지배한 그가 기술 산업의 치열한 경쟁과 격변 속에서도 회사의 거대한 키를 정확한 타이밍에 전환할 수 있었던 비결은 다름 아닌 '숲속 오두막의 고립 루틴'이었습니다.\n\n게이츠는 마이크로소프트를 경영할 당시 매년 두 차례씩 외부와의 모든 연락을 단절하고 워싱턴주 후드 캐널(Hood Canal) 변의 조용한 오두막으로 향했습니다. 그의 손에는 수백 편의 기술 제안서, 학술 논문, 그리고 도서가 들려 있었습니다. 일주일 동안 가족과 직원을 포함한 외부인의 접촉을 일절 금한 채, 오직 읽고 사색하는 일에만 전념했습니다. 웹 브라우저 전쟁의 서막을 열고 마이크로소프트를 인터넷 중심 기업으로 일탈시킨 전설적인 보고서 '인터넷 조수(Internet Tidal Wave)' 메모 역시 바로 이 '생각 주간(Think Week)' 고립 속에서 탄생했습니다.\n\n오늘 포스트에서는 빌 게이츠가 실천한 '생각 주간' 루틴의 뇌과학적 근거와, 무수한 알림과 디지털 정보 과부하에 시달리는 현대인이 주의력을 회복하고 생산성을 극대화하기 위한 3단계 실천 방안을 소개합니다.",
-      "en": "\"Think Week was the most productive thing I ever did at Microsoft. There, you can focus completely on the future without distractions.\" 🌲\n\nBill Gates (1955–), co-founder of Microsoft, the world's largest software giant, and technology visionary who led the personal computer (PC) revolution. Dominating the digital transformation of human lifestyle through MS-DOS and the Windows series, his ability to steer the company's massive rudder at pivotal moments amidst fierce industry competition stemmed directly from his isolated cottage routine.\n\nTwice a year during his tenure at Microsoft, Gates severed all external communication and retreated to a secluded cottage along Hood Canal in Washington state. Armed with stacks of hundreds of technical papers, research documents, and books, he spent an entire week in total isolation—forbidding contact even with family or employees—solely dedicated to reading and deep reflection. The legendary 'Internet Tidal Wave' memo, which ignited the browser wars and pivoted Microsoft entirely into an internet-first enterprise, was drafted during one of these 'Think Week' retreats.\n\nIn today's post, we analyze the brain science underlying Bill Gates's 'Think Week' routine and present a 3-step practical action plan for modern individuals overwhelmed by digital notifications to restore attention and maximize productivity.",
-      "ja": "「シンク・ウィークは、私がマイクロソフトで行ったことの中で最も生産的な活動でした。そこでは邪魔が入らず、完全にあらゆる未来にのみ集中できます。」 🌲\n\n世界最大のソフトウェア企業マイクロソフト（Microsoft）の共同創業者であり、個人用コンピュータ（PC）革命を導いた技術思想家、ビル・ゲイツ（Bill Gates、1955–）。MS-DOSやWindowsシリーズを通じて人類のライフスタイルのデジタル大転換を支配した彼が、技術産業の激しい競争と激変の中でも会社の巨大な舵を正確なタイミングで切ることができた秘訣は、他ならぬ「森の小屋の孤立ルーティン」でした。\n\nゲイツはマイクロソフトを経営していた当時、毎年2回、外部とのすべての連絡を断ち切り、ワシントン州のフッド・キャナル（Hood Canal）沿いにある静かな小屋へと向かいました。彼の手には数百篇の技術提案書、学術論文、そして書籍が握られていました。1週間、家族や社員を含む外部の人々との接触を一切禁じたまま、ひたすら読むことと思索することだけに専念しました。ウェブブラウザ戦争の幕を開け、マイクロソフトをインターネット中心の企業へと変貌させた伝説的な報告書「インターネットの津波（Internet Tidal Wave）」メモも、まさにこの「シンク・ウィーク（Think Week）」の孤立の中で誕生しました。\n\n本日の記事では、ビル・ゲイツが実践した「シンク・ウィーク」ルーティンの脳科学的根拠と、無数の通知やデジタル情報の過負荷に悩まされる現代人が注意力を回復し生産性を極大化するための3ステップの実践方案を紹介します。",
-      "zh": "“思考周是我在微软期间做过的最高效的事情。在那个地方，你可以完全不受打扰地专注于未来。” 🌲\n\n全球最大的软件巨头微软（Microsoft）联合创始人兼引领个人电脑（PC）革命的科技远见家——比尔·盖茨（Bill Gates，1955–）。通过MS-DOS与Windows系列掌控了人类生活方式数字化大转型的他，之所以能在激烈的科技产业竞争与巨变中，在关键节点精准调转公司的巨轮方向，其秘诀正是“森林小屋隔离习惯”。\n\n在掌舵微软期间，盖茨每年两次切断外界的所有联系，前往位于华盛顿州胡德运河（Hood Canal）畔的宁静小屋。他随身携带数百份技术提案、学术论文与书籍，在整整一周的时间里严禁包括家人与员工在内的任何人打扰，全神贯注于阅读与深度思考。开创网页浏览器战争先河、并推动微软全面转型为互联网优先企业的传奇备忘录——《互联网浪潮（Internet Tidal Wave）》，也正是诞生于这种“思考周（Think Week）”的隔离状态中。\n\n在今天的文章中，我们将分析比尔·盖茨践行的“思考周”习惯背后的脑科学依据，并为深受无休止通知与数字信息过载困扰的现代人提供恢复注意力、最大化生产力的3步骤实践方案。",
-      "es": "\"La Semana de Pensamiento fue lo más productivo que hice en Microsoft. Allí puedes concentrarte por completo en el futuro sin distracciones.\" 🌲\n\nBill Gates (1955–), cofundador de Microsoft, el gigante de software más grande del mundo, y visionario tecnológico que lideró la revolución de la computadora personal (PC). Habiendo dominado la transformación digital del estilo de vida humano con MS-DOS y la serie Windows, su capacidad para virar el timón de la empresa en momentos clave en medio de una feroz competencia industrial procedía de su rutina de aislamiento en una cabaña.\n\nDos veces al año durante su gestión en Microsoft, Gates cortaba toda comunicación externa y se retiraba a una tranquila cabaña junto a Hood Canal, en el estado de Washington. Llevaba consigo cientos de propuestas técnicas, documentos de investigación y libros. Durante una semana entera, prohibía el contacto incluso con familiares o empleados, dedicándose exclusivamente a la lectura y a la reflexión profunda. El legendario memo 'La Ola del Internet (Internet Tidal Wave)', que desató la guerra de los navegadores y reorientó a Microsoft hacia Internet, fue redactado durante una de estas 'Semanas de Pensamiento (Think Week)'.\n\nEn la publicación de hoy, analizamos la ciencia cerebral de la rutina de la 'Semana de Pensamiento' de Bill Gates y presentamos un plan práctico de 3 pasos para que las personas abrumadas por notificaciones digitales restauren la atención y maximicen la productividad.",
-      "de": "\"Die Think Week war das Produktivste, was ich bei Microsoft je gemacht habe. Dort kann man sich ohne Ablenkung vollkommen auf die Zukunft konzentrieren.\" 🌲\n\nBill Gates (1955–), Mitbegründer von Microsoft, dem weltweit größten Softwarekonzern, und technologischer Visionär, der die Personal-Computer-Revolution (PC) anführte. Durch MS-DOS und die Windows-Reihe prägte er den digitalen Wandel der menschlichen Lebensweise. Seine Fähigkeit, das riesige Unternehmensruder in entscheidenden Momenten inmitten harten Wettbewerbs herumzuwerfen, beruhte auf seiner Routine der Isolation in einer Waldhütte.\n\nZweimal im Jahr trennte Gates während seiner Zeit bei Microsoft alle externen Kommunikationskanäle und zog sich in eine abgelegene Hütte am Hood Canal im US-Bundesstaat Washington zurück. Bepackt mit stapelsweise technischen Anträgen, wissenschaftlichen Arbeiten und Büchern verbrachte er eine ganze Woche in absoluter Isolation – ohne Kontakt zu Familie oder Mitarbeitern – ausschließlich dem Lesen und tiefen Nachdenken gewidmet. Das legendäre Memo 'Internet Tidal Wave', das die Browserkriege auslöste und Microsoft neu ausrichtete, entstand während einer dieser 'Think Weeks'.\n\nIm heutigen Beitrag analysieren wir die Neurowissenschaft hinter Bill Gates' 'Think Week'-Routine und stellen einen praktischen 3-Schritte-Aktionsplan vor, mit dem von digitalen Benachrichtigungen überflutete Menschen ihre Aufmerksamkeit wiedererlangen und Produktivität maximieren können.",
-      "fr": "« La Semaine de réflexion était la chose la plus productive que j'aie jamais faite chez Microsoft. Là-bas, vous pouvez vous concentrer entièrement sur l'avenir sans distraction. » 🌲\n\nBill Gates (1955–), cofondateur de Microsoft, le plus grand géant du logiciel au monde, et visionnaire qui a mené la révolution de l'ordinateur personnel (PC). Dominant la transformation numérique du mode de vie humain à travers MS-DOS et la série Windows, sa capacité à faire pivoter le grand gouvernail de l'entreprise lors de moments charnières au milieu d'une compétition féroce découlait de sa routine d'isolement en chalet.\n\nDeux fois par an pendant son mandat chez Microsoft, Gates coupait toute communication extérieure et se retirait dans un chalet isolé au bord du Hood Canal, dans l'État de Washington. Muni de piles de centaines de propositions techniques, de documents de recherche et de livres, il passait une semaine entière dans une isolation totale — interdisant tout contact, même avec sa famille ou ses employés — dédiée à la lecture et à la réflexion profonde. Le légendaire mémo « La Vague d'Internet (Internet Tidal Wave) », qui a déclenché la guerre des navigateurs et réorienté Microsoft vers le tout-Internet, a été rédigé lors de l'une de ces « Semaines de réflexion (Think Week) ».\n\nDans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à la « Semaine de réflexion » de Bill Gates et proposons un plan d'action pratique en 3 étapes permettant aux individus submergés par les notifications numériques de restaurer leur attention et de maximiser leur productivité.",
-      "pt": "\"A Semana de Pensamento foi a coisa mais produtiva que já fiz na Microsoft. Lá, você pode se concentrar completamente no futuro sem distrações.\" 🌲\n\nBill Gates (1955–), cofundador da Microsoft, a maior empresa de software do mundo, e visionário tecnológico que liderou a revolução do computador pessoal (PC). Dominando a transformação digital do estilo de vida humano com o MS-DOS e a série Windows, sua capacidade de girar o leme da empresa em momentos cruciais no meio de uma competição acirrada derivava da sua rotina de isolamento num chalé.\n\nDuas vezes por ano durante sua gestão na Microsoft, Gates cortava toda comunicação externa e se retirava para um chalé isolado ao longo do Hood Canal, no estado de Washington. Carregado com pilhas de centenas de propostas técnicas, artigos acadêmicos e livros, ele passava uma semana inteira em isolamento total — proibindo contato até com familiares ou funcionários —, dedicando-se exclusivamente à leitura e reflexão profunda. O lendário memo 'A Onda da Internet (Internet Tidal Wave)', que iniciou a guerra dos navegadores e redirecionou a Microsoft, foi redigido durante uma dessas 'Semanas de Pensamento (Think Week)'.\n\nNo artigo de hoje, analisamos a ciência cerebral por trás da rotina da 'Semana de Pensamento' de Bill Gates e apresentamos um plan prático de 3 passos para que as pessoas sobrecarregadas por notificações digitais restaurem a atenção e maximizem a produtividade.",
-      "id": "\"Think Week adalah hal paling produktif yang pernah saya lakukan di Microsoft. Di sana, Anda dapat berfokus penuh pada masa depan tanpa gangguan.\" 🌲\n\nBill Gates (1955–), pendiri Microsoft, raksasa perangkat lunak terbesar di dunia, dan visioner teknologi yang memimpin revolusi komputer pribadi (PC). Menguasai transformasi digital gaya hidup manusia melalui MS-DOS dan seri Windows, kemampuannya untuk memutar kemudi raksasa perusahaan pada momen-momen krusial di tengah persaingan industri yang sengit berasal langsung dari rutinitas isolasi di pondoknya.\n\nDua kali setahun selama masa jabatannya di Microsoft, Gates memutus semua komunikasi luar dan mundur ke sebuah pondok terpencil di sepanjang Hood Canal di negara bagian Washington. Berbekal tumpukan ratusan makalah teknis, dokumen penelitian, dan buku, ia menghabiskan satu minggu penuh dalam isolasi total—melarang kontak bahkan dengan keluarga atau karyawan—semata-mata mendedikasikan diri untuk membaca dan perenungan mendalam. Memo legendaris 'Gelombang Internet (Internet Tidal Wave)', yang memicu perang peramban dan memutar arah Microsoft menjadi perusahaan berbasis internet, disusun selama salah satu sesi 'Think Week' ini.\n\nDalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'Think Week' Bill Gates dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern yang kewalahan oleh notifikasi digital untuk memulihkan perhatian dan memaksimalkan produktivitas."
-    },
-    "whyTitle": {
-      "ko": "주의력 잔재 제거와 장기 기억 강화를 통한 고차원 통찰 형성",
-      "en": "Forming High-Level Insight Through Elimination of Attention Residue and Long-Term Memory Consolidation",
-      "ja": "注意力の残渣除去と長期記憶強化による高度な洞察の形成",
-      "zh": "通过消除注意力残留与巩固长期记忆构建高阶洞察力",
-      "es": "Formación de Perspicacia de Alto Nivel Mediante la Eliminación del Residuo de Atención y Consolidación de Memoria a Largo Plazo",
-      "de": "Entstehung hochstufiger Erkenntnisse durch Beseitigung von Aufmerksamkeitsrückständen und Langzeitgedächtnis-Konsolidierung",
-      "fr": "Formation d'analyses supérieures via l'élimination des résidus d'attention et la consolidation de la mémoire à long terme",
-      "pt": "Formação de Percepção de Alto Nível Mediante a Eliminação do Resíduo de Atenção e Consolidação da Memória de Longo Prazo",
-      "id": "Pembentukan Wawasan Tingkat Tinggi Melalui Eliminasi Sisa Perhatian dan Konsolidasi Memori Jangka Panjang"
-    },
-    "whyDesc": {
-      "ko": "현대인은 무수한 디지털 알림과 메일 전환 속에서 끊임없이 주의력이 잔여분으로 남아 대뇌를 피로하게 만드는 '주의력 잔재(Attention Residue)' 상태에 시달립니다. 작업 간 빠른 전환은 전전두엽의 깊은 사유 회로를 단절시킵니다. 빌 게이츠의 생각 주간처럼 외부 정보 유입을 완벽히 통제하고 단일 과제에 장시간 몰입하면, 전전두엽 피질의 집행 기능이 잔재를 청소하고 고차원적 정보 처리에 최적화됩니다. 뇌과학적으로 이러한 긴 호흡의 독서와 사색은 해마(Hippocampus)와 대뇌피질 사이의 장기 기억 강화를 촉진하여, 여러 파편화된 지식을 하나의 거대한 장기 마스터플랜으로 통합하는 깊은 통찰력을 발휘하게 합니다.",
-      "en": "Modern individuals constantly suffer from 'Attention Residue', where frequent task-switching between digital notifications and emails leaves residual mental clutter that exhausts the cerebrum. Rapidly shifting tasks severs the prefrontal cortex's deep reasoning circuits. When external information input is totally controlled and long-duration focus is dedicated to a single theme—as in Bill Gates's Think Week—the prefrontal cortex's executive functions clear away this residue and optimize for high-order processing. Neuroscientifically, extended reading and contemplation stimulate long-term memory consolidation between the hippocampus and cerebral cortex, enabling the synthesis of fragmented knowledge into a sweeping long-term master plan.",
-      "ja": "現代人は無数のデジタル通知やメールの切り替えの中で、注意力が残余分として残って大脳を疲弊させる「注意力の残渣（Attention Residue）」状態に苛まれています。タスク間の素早い切り替えは前頭前野の深い思考回路を断絶させます。ビル・ゲイツのシンク・ウィークのように外部情報の流入を完全に統制し、単一の課題に長時間没頭すると、前頭前野皮質の執行機能が残渣を掃除し、高度な情報処理へと最適化されます。脳科学的にこのような長い呼吸の読書と思索は、海馬（Hippocampus）と大脳皮質との間の長期記憶の強化を促進し、バラバラになった知識を一つの巨大な長期マスタープランへと統合する深い洞察力を発揮させます。",
-      "zh": "现代人常因在数字通知与邮件间频繁切换任务，导致大脑长期处于残留心理杂念的“注意力残留（Attention Residue）”状态，极易使大脑陷入疲劳。快速的任务切换会割裂前额叶皮层的深度思考回路。当像比尔·盖茨的“思考周”那样完全封控外部信息输入、长久专注于单一主题时，前额叶皮层的执行功能便能清除这些残留杂念，针对高阶信息处理进行优化。从神经科学角度看，这种长时程的阅读与沉思能促进海马体（Hippocampus）与大脳皮层之间的长期记忆巩固，从而将零碎的知识融会贯通为宏大的长期主计划。",
-      "es": "Las personas modernas sufren constantemente del 'Residuo de Atención (Attention Residue)', donde el cambio frecuente entre notificaciones digitales y correos deja un desorden mental residual que agota el cerebro. La alternancia rápida de tareas interrumpe los circuitos de razonamiento profundo de la corteza prefrontal. Cuando el ingreso de información externa se controla por completo y la concentración se dedica durante horas a un solo tema —como en la Semana de Pensamiento de Bill Gates—, las funciones ejecutivas de la corteza prefrontal eliminan este residuo y se optimizan para el procesamiento de alto orden. Neurocientíficamente, la lectura y la contemplación prolongadas estimulan la consolidación de la memoria a largo plazo entre el hipocampo y la corteza cerebral, sintetizando conocimientos fragmentados en un plan maestro.",
-      "de": "Moderne Menschen leiden ständig unter 'Aufmerksamkeitsrückständen (Attention Residue)', bei denen das häufige Wechseln zwischen digitalen Benachrichtigungen und E-Mails gedanklichen Ballast hinterlässt, der das Großhirn erschöpft. Das schnelle Umschalten zwischen Aufgaben reißt die tiefen Denkprozesse des Präfrontalkortex ab. Wenn der externe Informationseingang vollständig kontrolliert wird und die Konzentration über lange Zeit einem einzigen Thema gewidmet ist – wie in Bill Gates' Think Week –, räumen die exekutiven Funktionen des Präfrontalkortex diesen Ballast aus und optimieren sich für hochstufige Verarbeitung. Neurowissenschaftlich fördert langes Lesen und Nachdenken die Langzeitgedächtnis-Konsolidierung zwischen Hippocampus und Großhirnrinde, was die Synthese fragmentierten Wissens zu einem langfristigen Masterplan ermöglicht.",
-      "fr": "Les individus modernes souffrent continuellement de « Résidus d'attention (Attention Residue) », où le basculement fréquent entre notifications numériques et e-mails laisse un encombrement mental qui épuise le cerveau. Passer rapidement d'une tâche à l'autre interrompt les circuits de raisonnement profond du cortex préfrontal. Lorsque l'entrée d'informations externes est totalement contrôlée et que la focalisation est dédiée sur la durée à un seul thème — comme lors de la Semaine de réflexion de Bill Gates —, les fonctions exécutives du cortex préfrontal éliminent ce résidu et s'optimisent pour le traitement supérieur. Sur le plan neuroscientifique, la lecture et la réflexion prolongées stimulent la consolidation de la mémoire à long terme entre l'hippocampe et le cortex cérébral, permettant de synthétiser des connaissances fragmentées en un plan directeur global.",
-      "pt": "As pessoas modernas sofrem constantemente do 'Residuo de Atenção (Attention Residue)', no qual a alternância frequente entre notificações digitais e e-mails deixa uma desordem mental residual que exaure o cérebro. Mudar rapidamente de tarefa interrompe os circuitos de raciocínio profundo do córtex pré-frontal. Quando a entrada de informações externas é totalmente controlada e o foco prolongado é dedicado a um único tema — como na Semana de Pensamento de Bill Gates —, as funções executivas do córtex pré-frontal eliminam esse resíduo e se otimizam para o processamento de alta ordem. Do ponto de vista neurocientífico, a leitura e a contemplação prolongadas estimulam a consolidação da memória de longo prazo entre o hipocampo e o córtex cerebral, sintetizando conhecimentos fragmentados em um plano diretor.",
-      "id": "Masyarakat modern terus-menerus menderita 'Sisa Perhatian (Attention Residue)', di mana perpindahan tugas yang sering di antara notifikasi digital dan email menyisakan kekacauan mental residual yang menguras otak besar. Beralih tugas secara cepat memutus sirkuit penalaran mendalam korteks prefrontal. Ketika masukan informasi luar dikontrol secara total dan fokus berdurasi panjang didedikasikan untuk satu tema—seperti dalam Think Week ala Bill Gates—fungsi eksekutif korteks prefrontal membersihkan sisa ini dan mengoptimalkannya untuk pemrosesan tingkat tinggi. Secara neurosains, membaca dan merenung dalam durasi panjang merangsang konsolidasi memori jangka panjang antara hipokampus dan korteks serebral, memungkinkan sintesis pengetahuan yang terfragmentasi menjadi rencana induk jangka panjang."
-    },
-    "cautionTitle": {
-      "ko": "주의사항 및 팁: 완전한 아날로그 정보 유입 환경 조성",
-      "en": "Caution & Tips: Establishing a Purely Analog Information Input Environment",
-      "ja": "注意事項＆ヒント：完全なアナログ情報流入環境の造成",
-      "zh": "注意事项与提示：营造纯粹的模拟信息输入环境",
-      "es": "Precauciones y Consejos: Establecimiento de un Entorno de Entrada de Información Pura Analógica",
-      "de": "Vorsichtsmaßnahmen & Tipps: Schaffung einer rein analogen Informationseingabe-Umgebung",
-      "fr": "Précautions & Conseils : Établissement d'un environnement d'entrée d'informations purement analogiques",
-      "pt": "Precauções e Dicas: Estabelecimento de um Ambiente de Entrada de Informações Puramente Analógico",
-      "id": "Perhatian & Tip: Membangun Lingkungan Masukan Informasi Analog Murni"
-    },
-    "cautionDesc": {
-      "ko": "생각 주간 루틴을 진행할 때 가장 경계해야 할 것은 디지털 단말기를 통한 정보 유입입니다. 노트북이나 태블릿으로 자료를 읽으면 이메일, 웹서핑, 메시지의 유혹에 쉽게 노출되어 뇌의 집중 신경망(Focus Network)이 무너집니다. 가급적 종이에 인쇄된 아날로그 문서나 실물 책을 준비하고, 필기 역시 백지 노트에 직접 자필로 작성하여 손의 미세 감각 자극과 고도의 몰입 상태를 유지하세요.",
-      "en": "When practicing a Think Week routine, the biggest hazard to guard against is information input via digital devices. Reading on laptops or tablets easily exposes you to the temptation of emails, web browsing, and instant messages, dismantling the brain's focus network. Whenever possible, prepare paper-printed documents or physical books, and take notes by hand on paper notebooks to maintain tactile sensory stimulation and a state of deep immersion.",
-      "ja": "シンク・ウィークのルーティンを行う際、最も警戒すべきはデジタル端末を通じた情報の流入です。ノートパソコンやタブレットで資料を読むと、電子メール、ウェブサーフィン、メッセージの誘惑に容易に晒され、脳の集中ネットワーク（Focus Network）が崩壊します。可能な限り紙に印刷されたアナログ文書や実物の本を用意し、筆記も無地のノートに直接手書きで作成して、手の微細な感覚刺激と高度な没頭状態を維持してください。",
-      "zh": "在进行“思考周”习惯时，最需要警惕的是通过数字终端输入信息。使用笔记本电脑或平板电脑阅读资料极易让人陷入查看邮件、网页浏览与即时消息的诱惑中，进而摧毁大脑的专注网络（Focus Network）。应尽可能准备纸质打印文档或实体书，且笔录也应在纸质笔记本上手写进行，以维持手部的微细感官刺激与高度沉浸状态。",
-      "es": "Al practicar la rutina de la Semana de Pensamiento, el mayor peligro a evitar es el ingreso de información mediante dispositivos digitales. Leer en portátiles o tabletas lo expone fácilmente a la tentación del correo electrónico, la navegación web y los mensajes, desmantelando la red de enfoque del cerebro. En la medida de lo posible, prepare documentos impresos en papel o libros físicos, y tome notas a mano en cuadernos de papel para mantener la estimulación sensorial táctil y un estado de inmersión profunda.",
-      "de": "Achten Sie bei der Durchführung einer Think Week-Routine vor allem darauf, Informationsströme über digitale Geräte zu vermeiden. Das Lesen auf Laptops oder Tablets setzt Sie leicht der Versuchung von E-Mails, Web-Browsing und Nachrichten aus, was das kognitive Fokusnetzwerk des Gehirns zerstört. Bereiten Sie nach Möglichkeit ausgedruckte Papierdokumente oder physische Bücher vor und machen Sie sich handschriftliche Notizen in Notizbüchern aus Papier, um die taktile Stimulation und die vertiefte Konzentration aufrechtzuerhalten.",
-      "fr": "Lors de la pratique de la routine de la Semaine de réflexion, le plus grand danger à éviter est l'entrée d'informations via des appareils numériques. Lire sur un ordinateur ou une tablette vous expose à la tentation des e-mails, de la navigation web et des messages, détruisant le réseau de focalisation du cerveau. Préparez autant que possible des documents imprimés sur papier ou des livres physiques, et prenez des notes à la main sur un cahier en papier pour maintenir la stimulation tactile et un état d'immersion profonde.",
-      "pt": "Ao praticar a rotina da Semana de Pensamento, o maior perigo a ser evitado é a entrada de informações por meio de dispositivos digitais. Ler em laptops ou tablets expõe você facilmente à tentação de e-mails, navegação na web e mensagens instantâneas, desmantelando a rede de foco do cérebro. Sempre que possível, prepare documentos impressos em papel ou livros físicos e faça anotações à mão em cadernos de papel para manter a estimulação sensorial tátil e o estado de imersão profunda.",
-      "id": "Saat mempraktikkan rutinitas Think Week, bahaya terbesar yang harus diwaspadai adalah masukan informasi melalui perangkat digital. Membaca di laptop atau tablet dengan mudah memaparkan Anda pada godaan email, penjelajahan web, dan pesan instan, yang merusak jaringan fokus otak. Sebisa mungkin, siapkan dokumen cetak kertas atau buku fisik, dan catatlah dengan tangan di buku catatan kertas untuk mempertahankan stimulasi sensorik taktil dan kondisi imersi yang dalam."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 디지털 안식일 선포 및 외부 자극 차단",
-          "en": "Step 1: Declaring a Digital Sabbath & Cutting External Stimuli",
-          "ja": "ステップ1：デジタル安息日の宣言と外部刺激の遮断",
-          "zh": "步骤1：宣布数字安息日与彻底切断外部刺激",
-          "es": "Paso 1: Declaración de un Sabbat Digital y Corte de Estímulos Externos",
-          "de": "Schritt 1: Ausrufen eines digitalen Sabbats & Trennung äußerer Reize",
-          "fr": "Étape 1 : Déclaration d'un sabbat numérique & Coupure des stimuli externes",
-          "pt": "Passo 1: Declaração de um Sábato Digital e Corte de Estímulos Externos",
-          "id": "Langkah 1: Menyatakan Sabat Digital & Memutus Stimulus Luar"
-        },
-        "text": {
-          "ko": "정기적으로 단 하루 혹은 특정 요일의 반나절을 지정해 모든 스마트폰, 메신저, 이메일 알림을 완전히 비활성화하는 물리적 고립 환경을 강제합니다.",
-          "en": "Designate a regular full day or a half-day to completely deactivate all smartphones, instant messengers, and email notifications, enforcing a physical environment of isolation.",
-          "ja": "定期的にまる一日、あるいは特定の曜日の半日を指定し、すべてのスマートフォン、メッセンジャー、電子メールの通知を完全に無効化する物理的な隔離環境を強制します。",
-          "zh": "定期划出整整一天或特定半天的时间，完全禁用所有手机、即时通讯工具与电子邮件通知，强行构建物理上的隔离环境。",
-          "es": "Designe un día entero o medio día de forma regular para desactivar por completo teléfonos inteligentes, mensajería instantánea y notificaciones de correo electrónico, imponiendo un entorno físico de aislamiento.",
-          "de": "Bestimmen Sie regelmäßig einen ganzen Tag oder einen halben Tag, um alle Smartphones, Messengerdienste und E-Mail-Benachrichtigungen vollständig zu deaktivieren und eine physische Isolationsumgebung durchzusetzen.",
-          "fr": "Désignez un jour entier ou une demi-journée à rythme régulier pour désactiver totalement smartphones, messageries instantanées et notifications d'e-mails, en imposant un environnement physique d'isolation.",
-          "pt": "Designe um dia inteiro ou meio dia de forma regular para desativar completamente smartphones, mensageiros instantâneos e notificações de e-mail, impondo um ambiente físico de isolamento.",
-          "id": "Tentukan satu hari penuh atau setengah hari secara teratur untuk menonaktifkan semua smartphone, pesan instan, dan notifikasi email secara total, memberlakukan lingkungan isolasi fisik."
-        }
+    "pubDate": "2026-01-08",
+    "updatedDate": "2026-01-08",
+    "heroImage": "/images/blog/bill_gates_think_week.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "단절의 일주일: 빌 게이츠의 '생각 주간'과 무소음 딥워크",
+        "description": "마이크로소프트의 대약진을 이끈 빌 게이츠의 오두막 고립 독서 루틴 '생각 주간'. 외부 자극을 완벽히 통제하여 주의력 잔재를 청소하고 뇌의 장기적 통찰력을 극대화하는 신경과학적 원리를 밝힙니다.",
+        "authority": "월터 아이작슨 평전 『빌 게이츠 평전』 및 마이크로소프트 사료 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"생각 주간은 내가 마이크로소프트에서 한 일 중 가장 생산적인 활동이었습니다. 그곳에서는 방해 없이 온전히 미래에만 집중할 수 있습니다.\" 🌲\n\n세계 최대의 소프트웨어 기업 마이크로소프트(Microsoft)의 공동 창업자이자 개인용 컴퓨터(PC) 혁명을 이끈 기술 사상가 빌 게이츠(Bill Gates, 1955–). MS-DOS와 Windows 시리즈를 통해 인류 생활 방식의 디지털 대전환을 지배한 그가 기술 산업의 치열한 경쟁과 격변 속에서도 회사의 거대한 키를 정확한 타이밍에 전환할 수 있었던 비결은 다름 아닌 '숲속 오두막의 고립 루틴'이었습니다.\n\n게이츠는 마이크로소프트를 경영할 당시 매년 두 차례씩 외부와의 모든 연락을 단절하고 워싱턴주 후드 캐널(Hood Canal) 변의 조용한 오두막으로 향했습니다. 그의 손에는 수백 편의 기술 제안서, 학술 논문, 그리고 도서가 들려 있었습니다. 일주일 동안 가족과 직원을 포함한 외부인의 접촉을 일절 금한 채, 오직 읽고 사색하는 일에만 전념했습니다. 웹 브라우저 전쟁의 서막을 열고 마이크로소프트를 인터넷 중심 기업으로 일탈시킨 전설적인 보고서 '인터넷 조수(Internet Tidal Wave)' 메모 역시 바로 이 '생각 주간(Think Week)' 고립 속에서 탄생했습니다.\n\n오늘 포스트에서는 빌 게이츠가 실천한 '생각 주간' 루틴의 뇌과학적 근거와, 무수한 알림과 디지털 정보 과부하에 시달리는 현대인이 주의력을 회복하고 생산성을 극대화하기 위한 3단계 실천 방안을 소개합니다.",
+        "whyTitle": "주의력 잔재 제거와 장기 기억 강화를 통한 고차원 통찰 형성",
+        "whyDesc": "현대인은 무수한 디지털 알림과 메일 전환 속에서 끊임없이 주의력이 잔여분으로 남아 대뇌를 피로하게 만드는 '주의력 잔재(Attention Residue)' 상태에 시달립니다. 작업 간 빠른 전환은 전전두엽의 깊은 사유 회로를 단절시킵니다. 빌 게이츠의 생각 주간처럼 외부 정보 유입을 완벽히 통제하고 단일 과제에 장시간 몰입하면, 전전두엽 피질의 집행 기능이 잔재를 청소하고 고차원적 정보 처리에 최적화됩니다. 뇌과학적으로 이러한 긴 호흡의 독서와 사색은 해마(Hippocampus)와 대뇌피질 사이의 장기 기억 강화를 촉진하여, 여러 파편화된 지식을 하나의 거대한 장기 마스터플랜으로 통합하는 깊은 통찰력을 발휘하게 합니다.",
+        "cautionTitle": "주의사항 및 팁: 완전한 아날로그 정보 유입 환경 조성",
+        "cautionDesc": "생각 주간 루틴을 진행할 때 가장 경계해야 할 것은 디지털 단말기를 통한 정보 유입입니다. 노트북이나 태블릿으로 자료를 읽으면 이메일, 웹서핑, 메시지의 유혹에 쉽게 노출되어 뇌의 집중 신경망(Focus Network)이 무너집니다. 가급적 종이에 인쇄된 아날로그 문서나 실물 책을 준비하고, 필기 역시 백지 노트에 직접 자필로 작성하여 손의 미세 감각 자극과 고도의 몰입 상태를 유지하세요.",
+        "steps": [
+          {
+            "title": "1단계: 디지털 안식일 선포 및 외부 자극 차단",
+            "desc": "정기적으로 단 하루 혹은 특정 요일의 반나절을 지정해 모든 스마트폰, 메신저, 이메일 알림을 완전히 비활성화하는 물리적 고립 환경을 강제합니다."
+          },
+          {
+            "title": "2단계: 아날로그 인쇄물 및 전문 서적 수집과 몰입 독서",
+            "desc": "해결하려는 핵심 과제에 대한 논문, 보고서, 도서를 미리 아날로그 종이 형태로 인쇄하거나 수집하여, 인터넷 접속 없이 2시간 이상 연속으로 정독합니다."
+          },
+          {
+            "title": "3단계: 종이 노트 아날로그 필기 및 구조화",
+            "desc": "독서 과정에서 떠오른 통찰과 실행 구상을 종이 노트에 손으로 직접 기록합니다. 필기하는 신체 감각 자극은 전두엽의 구조화 및 아이디어 연결 회로를 강화합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "생각 주간을 가지려면 반드시 며칠씩 숲속 오두막으로 떠나야 하나요?",
+            "answer": "아닙니다. 핵심은 장소가 아니라 '외부 정보의 유입 차단'과 '주의력 고립'입니다. 주말을 활용해 가까운 도서관이나 조용한 공간을 방문하거나, 단 하루만이라도 스마트폰을 완전히 금고나 다른 방에 두고 아날로그 책과 노트에만 집중하는 것으로도 강력한 뇌 리셋 효과를 경험할 수 있습니다."
+          },
+          {
+            "question": "자료를 읽을 때 노트북이나 태블릿을 사용하면 안 되나요?",
+            "answer": "디지털 화면은 본질적으로 다양한 웹사이트, 이메일, 알림의 유혹에 바로 연결되는 통로입니다. 뇌의 집중 신경망(Focus Network)을 지속하려면 인쇄된 아날로그 종이를 보는 것이 가장 좋습니다. 부득이하게 기기를 써야 한다면 인터넷 연결과 와이파이가 완전히 차단된 전용 전자책 리더기(E-reader)나 오프라인 단말기를 사용할 것을 권장합니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 아날로그 인쇄물 및 전문 서적 수집과 몰입 독서",
-          "en": "Step 2: Gathering Printed Documents & Immersive Reading",
-          "ja": "ステップ2：アナログ印刷物および専門書籍の収集と没頭読書",
-          "zh": "步骤2：收集纸质打印资料与专业书籍并深度阅读",
-          "es": "Paso 3: Recopilación de Documentos Impresos y Lectura Inmersiva",
-          "de": "Schritt 2: Sammeln von gedruckten Dokumenten & vertieftes Lesen",
-          "fr": "Étape 2 : Rassemblement de documents imprimés & Lecture immersive",
-          "pt": "Passo 2: Coleta de Documentos Impressos e Leitura Imersiva",
-          "id": "Langkah 2: Mengumpulkan Dokumen Cetak & Membaca secara Imersif"
-        },
-        "text": {
-          "ko": "해결하려는 핵심 과제에 대한 논문, 보고서, 도서를 미리 아날로그 종이 형태로 인쇄하거나 수집하여, 인터넷 접속 없이 2시간 이상 연속으로 정독합니다.",
-          "en": "Collect or print research papers, reports, and books relevant to your core problem in physical paper format, reading them continuously for over 2 hours without internet access.",
-          "ja": "解決したい核心課題に関する論文、報告書、書籍をあらかじめアナログの紙の形で印刷または収集し、インターネット接続なしで2時間以上連続で熟読します。",
-          "zh": "提前将与待解决核心议题相关的论文、报告与书籍打印或收集为纸质版，在断网状态下连续深度研读2小时以上。",
-          "es": "Recopile o imprima artículos de investigación, informes y libros relevantes para su problema principal en formato de papel físico, leyéndolos de forma continua durante más de 2 horas sin acceso a Internet.",
-          "de": "Sammeln oder drucken Sie wissenschaftliche Arbeiten, Berichte und Bücher zu Ihrem Hauptproblem in physischer Papierform aus und lesen Sie diese ohne Internetzugang mehr als 2 Stunden lang ununterbrochen.",
-          "fr": "Rassemblez ou imprimez les articles de recherche, rapports et livres pertinents pour votre problème principal sous format papier, et lisez-les en continu pendant plus de 2 heures sans accès à Internet.",
-          "pt": "Colete ou imprima artigos de pesquisa, relatórios e livros relevantes para o seu problema principal em formato de papel físico, lendo-os continuamente por mais de 2 horas sem acesso à Internet.",
-          "id": "Kumpulkan atau cetak makalah penelitian, laporan, dan buku yang relevan dengan masalah inti Anda dalam format kertas fisik, membacanya secara terus-menerus selama lebih dari 2 jam tanpa akses internet."
-        }
+      "en": {
+        "title": "A Week of Disconnection: Bill Gates's 'Think Week' and Silent Deep Work",
+        "description": "Explore Bill Gates's cottage isolation reading routine, 'Think Week', which propelled Microsoft's massive leaps forward, and uncover the neuroscientific principles of eliminating attention residue and maximizing long-term brain insight through total sensory control.",
+        "authority": "Historical Verification from Walter Isaacson's Biography & Microsoft Archives & Cognitive Neuroscience Research",
+        "intro": "\"Think Week was the most productive thing I ever did at Microsoft. There, you can focus completely on the future without distractions.\" 🌲\n\nBill Gates (1955–), co-founder of Microsoft, the world's largest software giant, and technology visionary who led the personal computer (PC) revolution. Dominating the digital transformation of human lifestyle through MS-DOS and the Windows series, his ability to steer the company's massive rudder at pivotal moments amidst fierce industry competition stemmed directly from his isolated cottage routine.\n\nTwice a year during his tenure at Microsoft, Gates severed all external communication and retreated to a secluded cottage along Hood Canal in Washington state. Armed with stacks of hundreds of technical papers, research documents, and books, he spent an entire week in total isolation—forbidding contact even with family or employees—solely dedicated to reading and deep reflection. The legendary 'Internet Tidal Wave' memo, which ignited the browser wars and pivoted Microsoft entirely into an internet-first enterprise, was drafted during one of these 'Think Week' retreats.\n\nIn today's post, we analyze the brain science underlying Bill Gates's 'Think Week' routine and present a 3-step practical action plan for modern individuals overwhelmed by digital notifications to restore attention and maximize productivity.",
+        "whyTitle": "Forming High-Level Insight Through Elimination of Attention Residue and Long-Term Memory Consolidation",
+        "whyDesc": "Modern individuals constantly suffer from 'Attention Residue', where frequent task-switching between digital notifications and emails leaves residual mental clutter that exhausts the cerebrum. Rapidly shifting tasks severs the prefrontal cortex's deep reasoning circuits. When external information input is totally controlled and long-duration focus is dedicated to a single theme—as in Bill Gates's Think Week—the prefrontal cortex's executive functions clear away this residue and optimize for high-order processing. Neuroscientifically, extended reading and contemplation stimulate long-term memory consolidation between the hippocampus and cerebral cortex, enabling the synthesis of fragmented knowledge into a sweeping long-term master plan.",
+        "cautionTitle": "Caution & Tips: Establishing a Purely Analog Information Input Environment",
+        "cautionDesc": "When practicing a Think Week routine, the biggest hazard to guard against is information input via digital devices. Reading on laptops or tablets easily exposes you to the temptation of emails, web browsing, and instant messages, dismantling the brain's focus network. Whenever possible, prepare paper-printed documents or physical books, and take notes by hand on paper notebooks to maintain tactile sensory stimulation and a state of deep immersion.",
+        "steps": [
+          {
+            "title": "Step 1: Declaring a Digital Sabbath & Cutting External Stimuli",
+            "desc": "Designate a regular full day or a half-day to completely deactivate all smartphones, instant messengers, and email notifications, enforcing a physical environment of isolation."
+          },
+          {
+            "title": "Step 2: Gathering Printed Documents & Immersive Reading",
+            "desc": "Collect or print research papers, reports, and books relevant to your core problem in physical paper format, reading them continuously for over 2 hours without internet access."
+          },
+          {
+            "title": "Step 3: Taking Handwritten Notes on Paper & Structuring Ideas",
+            "desc": "Jot down insights and execution plans emerging during reading by hand on a paper notebook. The sensory stimulation of handwriting reinforces prefrontal ideation and structural circuits."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Do I need to retreat to a cabin in the woods for several days to hold a Think Week?",
+            "answer": "No. The essence lies in 'cutting external information input' and 'attentional isolation', not the location itself. Visiting a quiet local library or dedicated space over the weekend, or locking your smartphone in another room for just a single day while focusing exclusively on physical books and notebooks, provides a powerful brain reset effect."
+          },
+          {
+            "question": "Is it acceptable to use laptops or tablets when reading materials?",
+            "answer": "Digital screens are inherently gateways linked directly to the temptations of websites, emails, and notifications. To sustain the brain's focus network, reading printed paper is best. If device use is unavoidable, we strongly recommend using a dedicated e-reader or offline tablet with Wi-Fi and internet access completely disabled."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 종이 노트 아날로그 필기 및 구조화",
-          "en": "Step 3: Taking Handwritten Notes on Paper & Structuring Ideas",
-          "ja": "ステップ3：紙のノートへの手書き筆記と構造化",
-          "zh": "步骤3：纸质笔记本手写记录与思想结构化",
-          "es": "Paso 3: Toma de Notas a Mano en Cuaderno de Papel y Estructuración de Ideas",
-          "de": "Schritt 3: Handschriftliche Notizen auf Papier & Strukturieren von Ideen",
-          "fr": "Étape 3 : Prise de notes manuscrites sur papier & Structuration des idées",
-          "pt": "Passo 3: Anotações à Mão em Caderno de Papel e Estruturação de Ideias",
-          "id": "Langkah 3: Mencatat dengan Tangan di Buku Catatan Kertas & Memstrukturkan Ide"
-        },
-        "text": {
-          "ko": "독서 과정에서 떠오른 통찰과 실행 구상을 종이 노트에 손으로 직접 기록합니다. 필기하는 신체 감각 자극은 전두엽의 구조화 및 아이디어 연결 회로를 강화합니다.",
-          "en": "Jot down insights and execution plans emerging during reading by hand on a paper notebook. The sensory stimulation of handwriting reinforces prefrontal ideation and structural circuits.",
-          "ja": "読書の過程で浮かんだ洞察や実行構想を紙のノートに手で直接記録します。筆記する身体感覚の刺激は前頭葉の構造化およびアイデア連結回路を強化します。",
-          "zh": "在纸质笔记本上手写记录阅读过程中浮现的洞察与执行构想。手写带来的体感刺激能强化前额叶皮层的结构化与思维关联回路。",
-          "es": "Anote las ideas y los planes de ejecución que surjan durante la lectura a mano en un cuaderno de papel. La estimulación sensorial de la escritura a mano refuerza la ideación prefrontal y los circuitos estructurales.",
-          "de": "Halten Sie Erkenntnisse und Umsetzungspläne, die beim Lesen entstehen, handschriftlich in einem Notizbuch aus Papier fest. Die sensorische Stimulation des Schreibens stärkt die präfrontale Ideenfindung und strukturelle Schaltkreise.",
-          "fr": "Consignez à la main sur un cahier en papier les analyses et plans d'action émergents pendant la lecture. La stimulation sensorielle de l'écriture manuscrite renforce l'idéation préfrontale et les circuits structurels.",
-          "pt": "Anote as percepções e planos de execução que surgirem durante a leitura a mão em um caderno de papel. A estimulação sensorial da escrita à mão reforça a ideação pré-frontal e os circuitos estruturais.",
-          "id": "Catat wawasan dan rencana eksekusi yang muncul selama membaca dengan tangan di buku catatan kertas. Stimulasi sensorik dari tulisan tangan memperkuat ideasi prefrontal dan sirkuit struktural."
-        }
+      "zh": {
+        "title": "切断连接的一周：比尔·盖茨的“思考周”与无噪音深度工作",
+        "description": "探索推动微软实现跨越式飞跃的比尔·盖茨小屋隔离阅读习惯——“思考周（Think Week）”，揭示通过完全控制外部刺激消除注意力残留并最大化提升大脑长期洞察力的神经科学原理。",
+        "authority": "沃尔特·艾萨克森传记《比尔·盖茨传》与微软史料考证与认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "“思考周是我在微软期间做过的最高效的事情。在那个地方，你可以完全不受打扰地专注于未来。” 🌲\n\n全球最大的软件巨头微软（Microsoft）联合创始人兼引领个人电脑（PC）革命的科技远见家——比尔·盖茨（Bill Gates，1955–）。通过MS-DOS与Windows系列掌控了人类生活方式数字化大转型的他，之所以能在激烈的科技产业竞争与巨变中，在关键节点精准调转公司的巨轮方向，其秘诀正是“森林小屋隔离习惯”。\n\n在掌舵微软期间，盖茨每年两次切断外界的所有联系，前往位于华盛顿州胡德运河（Hood Canal）畔的宁静小屋。他随身携带数百份技术提案、学术论文与书籍，在整整一周的时间里严禁包括家人与员工在内的任何人打扰，全神贯注于阅读与深度思考。开创网页浏览器战争先河、并推动微软全面转型为互联网优先企业的传奇备忘录——《互联网浪潮（Internet Tidal Wave）》，也正是诞生于这种“思考周（Think Week）”的隔离状态中。\n\n在今天的文章中，我们将分析比尔·盖茨践行的“思考周”习惯背后的脑科学依据，并为深受无休止通知与数字信息过载困扰的现代人提供恢复注意力、最大化生产力的3步骤实践方案。",
+        "whyTitle": "通过消除注意力残留与巩固长期记忆构建高阶洞察力",
+        "whyDesc": "现代人常因在数字通知与邮件间频繁切换任务，导致大脑长期处于残留心理杂念的“注意力残留（Attention Residue）”状态，极易使大脑陷入疲劳。快速的任务切换会割裂前额叶皮层的深度思考回路。当像比尔·盖茨的“思考周”那样完全封控外部信息输入、长久专注于单一主题时，前额叶皮层的执行功能便能清除这些残留杂念，针对高阶信息处理进行优化。从神经科学角度看，这种长时程的阅读与沉思能促进海马体（Hippocampus）与大脳皮层之间的长期记忆巩固，从而将零碎的知识融会贯通为宏大的长期主计划。",
+        "cautionTitle": "注意事项与提示：营造纯粹的模拟信息输入环境",
+        "cautionDesc": "在进行“思考周”习惯时，最需要警惕的是通过数字终端输入信息。使用笔记本电脑或平板电脑阅读资料极易让人陷入查看邮件、网页浏览与即时消息的诱惑中，进而摧毁大脑的专注网络（Focus Network）。应尽可能准备纸质打印文档或实体书，且笔录也应在纸质笔记本上手写进行，以维持手部的微细感官刺激与高度沉浸状态。",
+        "steps": [
+          {
+            "title": "步骤1：宣布数字安息日与彻底切断外部刺激",
+            "desc": "定期划出整整一天或特定半天的时间，完全禁用所有手机、即时通讯工具与电子邮件通知，强行构建物理上的隔离环境。"
+          },
+          {
+            "title": "步骤2：收集纸质打印资料与专业书籍并深度阅读",
+            "desc": "提前将与待解决核心议题相关的论文、报告与书籍打印或收集为纸质版，在断网状态下连续深度研读2小时以上。"
+          },
+          {
+            "title": "步骤3：纸质笔记本手写记录与思想结构化",
+            "desc": "在纸质笔记本上手写记录阅读过程中浮现的洞察与执行构想。手写带来的体感刺激能强化前额叶皮层的结构化与思维关联回路。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "要进行“思考周”，必须连续几天前往森林小屋吗？",
+            "answer": "并非如此。其核心在于“切断外部信息输入”与“注意力隔离”，而非具体的物理地点。利用周末前往安静的图书馆或专用空间，甚至只需在一天的时间里将手机锁进其他房间、完全专注于纸质书与笔记本，便能获得强效的大脑重置体验。"
+          },
+          {
+            "question": "阅读资料时可以使用笔记本电脑或平板电脑吗？",
+            "answer": "数字屏幕本质上是直通各类网页、邮件与通知诱惑的入口。为了维持大脑的专注网络（Focus Network），阅读打印好的纸质资料效果最佳。若必须使用设备，强烈建议使用彻底切断Wi-Fi与网络连接的电子书阅读器（E-reader）或脱机终端。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "遮断の1週間：ビル・ゲイツの「シンク・ウィーク（Think Week）」と無騒音ディープ・ワーク",
+        "description": "マイクロソフトの大躍進を導いたビル・ゲイツの小屋孤立読書ルーティン「シンク・ウィーク」。外部刺激を完全に統制して注意力の残渣を掃除し、脳の長期的な洞察力を極大化する神経科学的原理を解き明かします。",
+        "authority": "ウォルター・アイザックソン伝記『ビル・ゲイツ伝』＆マイクロソフト史料考証＆認知神経科学（Cognitive Neuroscience）研究",
+        "intro": "「シンク・ウィークは、私がマイクロソフトで行ったことの中で最も生産的な活動でした。そこでは邪魔が入らず、完全にあらゆる未来にのみ集中できます。」 🌲\n\n世界最大のソフトウェア企業マイクロソフト（Microsoft）の共同創業者であり、個人用コンピュータ（PC）革命を導いた技術思想家、ビル・ゲイツ（Bill Gates、1955–）。MS-DOSやWindowsシリーズを通じて人類のライフスタイルのデジタル大転換を支配した彼が、技術産業の激しい競争と激変の中でも会社の巨大な舵を正確なタイミングで切ることができた秘訣は、他ならぬ「森の小屋の孤立ルーティン」でした。\n\nゲイツはマイクロソフトを経営していた当時、毎年2回、外部とのすべての連絡を断ち切り、ワシントン州のフッド・キャナル（Hood Canal）沿いにある静かな小屋へと向かいました。彼の手には数百篇の技術提案書、学術論文、そして書籍が握られていました。1週間、家族や社員を含む外部の人々との接触を一切禁じたまま、ひたすら読むことと思索することだけに専念しました。ウェブブラウザ戦争の幕を開け、マイクロソフトをインターネット中心の企業へと変貌させた伝説的な報告書「インターネットの津波（Internet Tidal Wave）」メモも、まさにこの「シンク・ウィーク（Think Week）」の孤立の中で誕生しました。\n\n本日の記事では、ビル・ゲイツが実践した「シンク・ウィーク」ルーティンの脳科学的根拠と、無数の通知やデジタル情報の過負荷に悩まされる現代人が注意力を回復し生産性を極大化するための3ステップの実践方案を紹介します。",
+        "whyTitle": "注意力の残渣除去と長期記憶強化による高度な洞察の形成",
+        "whyDesc": "現代人は無数のデジタル通知やメールの切り替えの中で、注意力が残余分として残って大脳を疲弊させる「注意力の残渣（Attention Residue）」状態に苛まれています。タスク間の素早い切り替えは前頭前野の深い思考回路を断絶させます。ビル・ゲイツのシンク・ウィークのように外部情報の流入を完全に統制し、単一の課題に長時間没頭すると、前頭前野皮質の執行機能が残渣を掃除し、高度な情報処理へと最適化されます。脳科学的にこのような長い呼吸の読書と思索は、海馬（Hippocampus）と大脳皮質との間の長期記憶の強化を促進し、バラバラになった知識を一つの巨大な長期マスタープランへと統合する深い洞察力を発揮させます。",
+        "cautionTitle": "注意事項＆ヒント：完全なアナログ情報流入環境の造成",
+        "cautionDesc": "シンク・ウィークのルーティンを行う際、最も警戒すべきはデジタル端末を通じた情報の流入です。ノートパソコンやタブレットで資料を読むと、電子メール、ウェブサーフィン、メッセージの誘惑に容易に晒され、脳の集中ネットワーク（Focus Network）が崩壊します。可能な限り紙に印刷されたアナログ文書や実物の本を用意し、筆記も無地のノートに直接手書きで作成して、手の微細な感覚刺激と高度な没頭状態を維持してください。",
+        "steps": [
+          {
+            "title": "ステップ1：デジタル安息日の宣言と外部刺激の遮断",
+            "desc": "定期的にまる一日、あるいは特定の曜日の半日を指定し、すべてのスマートフォン、メッセンジャー、電子メールの通知を完全に無効化する物理的な隔離環境を強制します。"
+          },
+          {
+            "title": "ステップ2：アナログ印刷物および専門書籍の収集と没頭読書",
+            "desc": "解決したい核心課題に関する論文、報告書、書籍をあらかじめアナログの紙の形で印刷または収集し、インターネット接続なしで2時間以上連続で熟読します。"
+          },
+          {
+            "title": "ステップ3：紙のノートへの手書き筆記と構造化",
+            "desc": "読書の過程で浮かんだ洞察や実行構想を紙のノートに手で直接記録します。筆記する身体感覚の刺激は前頭葉の構造化およびアイデア連結回路を強化します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "シンク・ウィークを持つには、必ず何日も森の小屋へ旅立たなければなりませんか？",
+            "answer": "いいえ。核心は場所ではなく「外部情報の流入遮断」と「注意力の隔離」です。週末を活用して近くの図書館や静かな空間を訪れたり、たった一日だけでもスマートフォンを完全に別の部屋に置き、アナログの本とノートにのみ集中することで、十分に強力な脳のリセット効果を体験できます。"
+          },
+          {
+            "question": "資料を読む際、ノートパソコンやタブレットを使ってはいけませんか？",
+            "answer": "デジタル画面は本質的に様々なウェブサイト、電子メール、通知の誘惑に直結する通路です。脳の集中ネットワーク（Focus Network）を維持するには、印刷されたアナログの紙を見るのが最高です。やむを得ず機器を使用する場合は、インターネット接続とWi-Fiが完全に遮断された専用の電子書籍リーダー（E-reader）やオフライン端末を使用することを強くお勧めします。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Una Semana de Desconexión: La 'Semana de Pensamiento' de Bill Gates y el Trabajo Profundo Silencioso",
+        "description": "Descubra la rutina de lectura e aislamiento en una cabaña de Bill Gates, la 'Semana de Pensamiento (Think Week)', que impulsó los grandes saltos de Microsoft, y explore los principios neurocientíficos para eliminar el residuo de atención y maximizar la visión a largo plazo.",
+        "authority": "Verificación Histórica de la Biografía de Walter Isaacson y Archivos de Microsoft e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)",
+        "intro": "\"La Semana de Pensamiento fue lo más productivo que hice en Microsoft. Allí puedes concentrarte por completo en el futuro sin distracciones.\" 🌲\n\nBill Gates (1955–), cofundador de Microsoft, el gigante de software más grande del mundo, y visionario tecnológico que lideró la revolución de la computadora personal (PC). Habiendo dominado la transformación digital del estilo de vida humano con MS-DOS y la serie Windows, su capacidad para virar el timón de la empresa en momentos clave en medio de una feroz competencia industrial procedía de su rutina de aislamiento en una cabaña.\n\nDos veces al año durante su gestión en Microsoft, Gates cortaba toda comunicación externa y se retiraba a una tranquila cabaña junto a Hood Canal, en el estado de Washington. Llevaba consigo cientos de propuestas técnicas, documentos de investigación y libros. Durante una semana entera, prohibía el contacto incluso con familiares o empleados, dedicándose exclusivamente a la lectura y a la reflexión profunda. El legendario memo 'La Ola del Internet (Internet Tidal Wave)', que desató la guerra de los navegadores y reorientó a Microsoft hacia Internet, fue redactado durante una de estas 'Semanas de Pensamiento (Think Week)'.\n\nEn la publicación de hoy, analizamos la ciencia cerebral de la rutina de la 'Semana de Pensamiento' de Bill Gates y presentamos un plan práctico de 3 pasos para que las personas abrumadas por notificaciones digitales restauren la atención y maximicen la productividad.",
+        "whyTitle": "Formación de Perspicacia de Alto Nivel Mediante la Eliminación del Residuo de Atención y Consolidación de Memoria a Largo Plazo",
+        "whyDesc": "Las personas modernas sufren constantemente del 'Residuo de Atención (Attention Residue)', donde el cambio frecuente entre notificaciones digitales y correos deja un desorden mental residual que agota el cerebro. La alternancia rápida de tareas interrumpe los circuitos de razonamiento profundo de la corteza prefrontal. Cuando el ingreso de información externa se controla por completo y la concentración se dedica durante horas a un solo tema —como en la Semana de Pensamiento de Bill Gates—, las funciones ejecutivas de la corteza prefrontal eliminan este residuo y se optimizan para el procesamiento de alto orden. Neurocientíficamente, la lectura y la contemplación prolongadas estimulan la consolidación de la memoria a largo plazo entre el hipocampo y la corteza cerebral, sintetizando conocimientos fragmentados en un plan maestro.",
+        "cautionTitle": "Precauciones y Consejos: Establecimiento de un Entorno de Entrada de Información Pura Analógica",
+        "cautionDesc": "Al practicar la rutina de la Semana de Pensamiento, el mayor peligro a evitar es el ingreso de información mediante dispositivos digitales. Leer en portátiles o tabletas lo expone fácilmente a la tentación del correo electrónico, la navegación web y los mensajes, desmantelando la red de enfoque del cerebro. En la medida de lo posible, prepare documentos impresos en papel o libros físicos, y tome notas a mano en cuadernos de papel para mantener la estimulación sensorial táctil y un estado de inmersión profunda.",
+        "steps": [
+          {
+            "title": "Paso 1: Declaración de un Sabbat Digital y Corte de Estímulos Externos",
+            "desc": "Designe un día entero o medio día de forma regular para desactivar por completo teléfonos inteligentes, mensajería instantánea y notificaciones de correo electrónico, imponiendo un entorno físico de aislamiento."
+          },
+          {
+            "title": "Paso 3: Recopilación de Documentos Impresos y Lectura Inmersiva",
+            "desc": "Recopile o imprima artículos de investigación, informes y libros relevantes para su problema principal en formato de papel físico, leyéndolos de forma continua durante más de 2 horas sin acceso a Internet."
+          },
+          {
+            "title": "Paso 3: Toma de Notas a Mano en Cuaderno de Papel y Estructuración de Ideas",
+            "desc": "Anote las ideas y los planes de ejecución que surjan durante la lectura a mano en un cuaderno de papel. La estimulación sensorial de la escritura a mano refuerza la ideación prefrontal y los circuitos estructurales."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Debo retirarme a una cabaña en el bosque durante varios días para realizar una Semana de Pensamiento?",
+            "answer": "No. La esencia reside en 'cortar la entrada de información externa' e 'aislar la atención', no en la ubicación en sí. Visitar una biblioteca local tranquila durante el fin de semana o dejar el teléfono inteligente en otra habitación durante un solo día mientras se concentra únicamente en libros físicos y cuadernos produce un potente efecto de reinicio cerebral."
+          },
+          {
+            "question": "¿Se pueden usar portátiles o tabletas para leer materiales?",
+            "answer": "Las pantallas digitales son esencialmente vías conectadas directamente a las tentaciones de sitios web, correos electrónicos y notificaciones. Para mantener la red de enfoque del cerebro, lo mejor es leer papel impreso. Si el uso de dispositivos es inevitable, se recomienda encarecidamente utilizar un lector electrónico (E-reader) dedicado o un dispositivo fuera de línea con Wi-Fi e Internet completamente desactivados."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Une semaine de déconnexion : La « Semaine de réflexion » de Bill Gates et le travail profond silencieux",
+        "description": "Découvrez la routine de lecture isolée en chalet de Bill Gates, la « Semaine de réflexion (Think Week) », qui a propulsé les grands bonds en avant de Microsoft, et percez les principes neuroscientifiques d'élimination des résidus d'attention et de maximisation des visions à long terme.",
+        "authority": "Vérification Historique issue de la biographie de Walter Isaacson & des archives de Microsoft & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)",
+        "intro": "« La Semaine de réflexion était la chose la plus productive que j'aie jamais faite chez Microsoft. Là-bas, vous pouvez vous concentrer entièrement sur l'avenir sans distraction. » 🌲\n\nBill Gates (1955–), cofondateur de Microsoft, le plus grand géant du logiciel au monde, et visionnaire qui a mené la révolution de l'ordinateur personnel (PC). Dominant la transformation numérique du mode de vie humain à travers MS-DOS et la série Windows, sa capacité à faire pivoter le grand gouvernail de l'entreprise lors de moments charnières au milieu d'une compétition féroce découlait de sa routine d'isolement en chalet.\n\nDeux fois par an pendant son mandat chez Microsoft, Gates coupait toute communication extérieure et se retirait dans un chalet isolé au bord du Hood Canal, dans l'État de Washington. Muni de piles de centaines de propositions techniques, de documents de recherche et de livres, il passait une semaine entière dans une isolation totale — interdisant tout contact, même avec sa famille ou ses employés — dédiée à la lecture et à la réflexion profonde. Le légendaire mémo « La Vague d'Internet (Internet Tidal Wave) », qui a déclenché la guerre des navigateurs et réorienté Microsoft vers le tout-Internet, a été rédigé lors de l'une de ces « Semaines de réflexion (Think Week) ».\n\nDans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente à la « Semaine de réflexion » de Bill Gates et proposons un plan d'action pratique en 3 étapes permettant aux individus submergés par les notifications numériques de restaurer leur attention et de maximiser leur productivité.",
+        "whyTitle": "Formation d'analyses supérieures via l'élimination des résidus d'attention et la consolidation de la mémoire à long terme",
+        "whyDesc": "Les individus modernes souffrent continuellement de « Résidus d'attention (Attention Residue) », où le basculement fréquent entre notifications numériques et e-mails laisse un encombrement mental qui épuise le cerveau. Passer rapidement d'une tâche à l'autre interrompt les circuits de raisonnement profond du cortex préfrontal. Lorsque l'entrée d'informations externes est totalement contrôlée et que la focalisation est dédiée sur la durée à un seul thème — comme lors de la Semaine de réflexion de Bill Gates —, les fonctions exécutives du cortex préfrontal éliminent ce résidu et s'optimisent pour le traitement supérieur. Sur le plan neuroscientifique, la lecture et la réflexion prolongées stimulent la consolidation de la mémoire à long terme entre l'hippocampe et le cortex cérébral, permettant de synthétiser des connaissances fragmentées en un plan directeur global.",
+        "cautionTitle": "Précautions & Conseils : Établissement d'un environnement d'entrée d'informations purement analogiques",
+        "cautionDesc": "Lors de la pratique de la routine de la Semaine de réflexion, le plus grand danger à éviter est l'entrée d'informations via des appareils numériques. Lire sur un ordinateur ou une tablette vous expose à la tentation des e-mails, de la navigation web et des messages, détruisant le réseau de focalisation du cerveau. Préparez autant que possible des documents imprimés sur papier ou des livres physiques, et prenez des notes à la main sur un cahier en papier pour maintenir la stimulation tactile et un état d'immersion profonde.",
+        "steps": [
+          {
+            "title": "Étape 1 : Déclaration d'un sabbat numérique & Coupure des stimuli externes",
+            "desc": "Désignez un jour entier ou une demi-journée à rythme régulier pour désactiver totalement smartphones, messageries instantanées et notifications d'e-mails, en imposant un environnement physique d'isolation."
+          },
+          {
+            "title": "Étape 2 : Rassemblement de documents imprimés & Lecture immersive",
+            "desc": "Rassemblez ou imprimez les articles de recherche, rapports et livres pertinents pour votre problème principal sous format papier, et lisez-les en continu pendant plus de 2 heures sans accès à Internet."
+          },
+          {
+            "title": "Étape 3 : Prise de notes manuscrites sur papier & Structuration des idées",
+            "desc": "Consignez à la main sur un cahier en papier les analyses et plans d'action émergents pendant la lecture. La stimulation sensorielle de l'écriture manuscrite renforce l'idéation préfrontale et les circuits structurels."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il nécessairement se retirer dans un chalet en forêt pendant plusieurs jours pour faire une Semaine de réflexion ?",
+            "answer": "Non. L'essence réside dans la « coupure de l'entrée d'informations externes » et l'« isolation de l'attention », et non dans le lieu lui-même. Se rendre dans une bibliothèque calme le week-end ou laisser son smartphone dans une autre pièce pendant une seule journée en se concentrant exclusivement sur des livres physiques et des cahiers procure un puissant effet de réinitialisation cérébrale."
+          },
+          {
+            "question": "Peut-on utiliser un ordinateur ou une tablette pour lire des documents ?",
+            "answer": "Les écrans numériques sont intrinsèquement des portes ouvertes sur les tentations des sites web, e-mails et notifications. Pour maintenir le réseau de focalisation du cerveau, lire du papier imprimé est ce qu'il y a de mieux. Si l'utilisation d'un appareil est inévitable, il est fortement recommandé d'utiliser une liseuse (E-reader) dédiée ou un appareil hors ligne avec le Wi-Fi et Internet complètement désactivés."
+          }
+        ]
+      },
+      "de": {
+        "title": "Eine Woche der Entkopplung: Bill Gates' 'Think Week' und geräuschloses Deep Work",
+        "description": "Erkunden Sie Bill Gates' Hütten-Isolations-Lese-Routine 'Think Week', die Microsofts große Sprünge vorantrieb, und entdecken Sie die neurowissenschaftlichen Prinzipien zur Beseitigung von Aufmerksamkeitsrückständen und zur Maximierung langfristiger Gehirnerkenntnisse.",
+        "authority": "Historische Überprüfung aus Walter Isaacsons Biografie & Microsoft-Archiven & Forschung der kognitiven Neurowissenschaften (Cognitive Neuroscience)",
+        "intro": "\"Die Think Week war das Produktivste, was ich bei Microsoft je gemacht habe. Dort kann man sich ohne Ablenkung vollkommen auf die Zukunft konzentrieren.\" 🌲\n\nBill Gates (1955–), Mitbegründer von Microsoft, dem weltweit größten Softwarekonzern, und technologischer Visionär, der die Personal-Computer-Revolution (PC) anführte. Durch MS-DOS und die Windows-Reihe prägte er den digitalen Wandel der menschlichen Lebensweise. Seine Fähigkeit, das riesige Unternehmensruder in entscheidenden Momenten inmitten harten Wettbewerbs herumzuwerfen, beruhte auf seiner Routine der Isolation in einer Waldhütte.\n\nZweimal im Jahr trennte Gates während seiner Zeit bei Microsoft alle externen Kommunikationskanäle und zog sich in eine abgelegene Hütte am Hood Canal im US-Bundesstaat Washington zurück. Bepackt mit stapelsweise technischen Anträgen, wissenschaftlichen Arbeiten und Büchern verbrachte er eine ganze Woche in absoluter Isolation – ohne Kontakt zu Familie oder Mitarbeitern – ausschließlich dem Lesen und tiefen Nachdenken gewidmet. Das legendäre Memo 'Internet Tidal Wave', das die Browserkriege auslöste und Microsoft neu ausrichtete, entstand während einer dieser 'Think Weeks'.\n\nIm heutigen Beitrag analysieren wir die Neurowissenschaft hinter Bill Gates' 'Think Week'-Routine und stellen einen praktischen 3-Schritte-Aktionsplan vor, mit dem von digitalen Benachrichtigungen überflutete Menschen ihre Aufmerksamkeit wiedererlangen und Produktivität maximieren können.",
+        "whyTitle": "Entstehung hochstufiger Erkenntnisse durch Beseitigung von Aufmerksamkeitsrückständen und Langzeitgedächtnis-Konsolidierung",
+        "whyDesc": "Moderne Menschen leiden ständig unter 'Aufmerksamkeitsrückständen (Attention Residue)', bei denen das häufige Wechseln zwischen digitalen Benachrichtigungen und E-Mails gedanklichen Ballast hinterlässt, der das Großhirn erschöpft. Das schnelle Umschalten zwischen Aufgaben reißt die tiefen Denkprozesse des Präfrontalkortex ab. Wenn der externe Informationseingang vollständig kontrolliert wird und die Konzentration über lange Zeit einem einzigen Thema gewidmet ist – wie in Bill Gates' Think Week –, räumen die exekutiven Funktionen des Präfrontalkortex diesen Ballast aus und optimieren sich für hochstufige Verarbeitung. Neurowissenschaftlich fördert langes Lesen und Nachdenken die Langzeitgedächtnis-Konsolidierung zwischen Hippocampus und Großhirnrinde, was die Synthese fragmentierten Wissens zu einem langfristigen Masterplan ermöglicht.",
+        "cautionTitle": "Vorsichtsmaßnahmen & Tipps: Schaffung einer rein analogen Informationseingabe-Umgebung",
+        "cautionDesc": "Achten Sie bei der Durchführung einer Think Week-Routine vor allem darauf, Informationsströme über digitale Geräte zu vermeiden. Das Lesen auf Laptops oder Tablets setzt Sie leicht der Versuchung von E-Mails, Web-Browsing und Nachrichten aus, was das kognitive Fokusnetzwerk des Gehirns zerstört. Bereiten Sie nach Möglichkeit ausgedruckte Papierdokumente oder physische Bücher vor und machen Sie sich handschriftliche Notizen in Notizbüchern aus Papier, um die taktile Stimulation und die vertiefte Konzentration aufrechtzuerhalten.",
+        "steps": [
+          {
+            "title": "Schritt 1: Ausrufen eines digitalen Sabbats & Trennung äußerer Reize",
+            "desc": "Bestimmen Sie regelmäßig einen ganzen Tag oder einen halben Tag, um alle Smartphones, Messengerdienste und E-Mail-Benachrichtigungen vollständig zu deaktivieren und eine physische Isolationsumgebung durchzusetzen."
+          },
+          {
+            "title": "Schritt 2: Sammeln von gedruckten Dokumenten & vertieftes Lesen",
+            "desc": "Sammeln oder drucken Sie wissenschaftliche Arbeiten, Berichte und Bücher zu Ihrem Hauptproblem in physischer Papierform aus und lesen Sie diese ohne Internetzugang mehr als 2 Stunden lang ununterbrochen."
+          },
+          {
+            "title": "Schritt 3: Handschriftliche Notizen auf Papier & Strukturieren von Ideen",
+            "desc": "Halten Sie Erkenntnisse und Umsetzungspläne, die beim Lesen entstehen, handschriftlich in einem Notizbuch aus Papier fest. Die sensorische Stimulation des Schreibens stärkt die präfrontale Ideenfindung und strukturelle Schaltkreise."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Muss ich mich für mehrere Tage in eine Hütte im Wald zurückziehen, um eine Think Week abzuhalten?",
+            "answer": "Nein. Der Kern liegt in der 'Unterbrechung der externen Informationseingabe' und der 'Aufmerksamkeits-Isolation', nicht im Ort selbst. Der Besuch einer ruhigen Bibliothek am Wochenende oder das Ablegen des Smartphones in einem anderen Raum für nur einen Tag bei ausschließlicher Konzentration auf gedruckte Bücher und Notizbücher erzielt einen wirksamen Gehirn-Reset-Effekt."
+          },
+          {
+            "question": "Kann man Laptops oder Tablets zum Lesen von Materialien verwenden?",
+            "answer": "Digitale Bildschirme sind Tore zu den Versuchungen von Websites, E-Mails und Benachrichtigungen. Um das Fokusnetzwerk des Gehirns aufrechtzuerhalten, ist das Lesen von gedrucktem Papier am besten. Ist die Nutzung von Geräten unumgänglich, wird dringend empfohlen, einen dedizierten E-Reader oder ein Offline-Gerät mit vollständig deaktiviertem WLAN und Internetzugang zu verwenden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Uma Semana de Desconexão: A 'Semana de Pensamento' de Bill Gates e o Trabalho Profundo Silencioso",
+        "description": "Descubra a rotina de leitura e isolamento em um chalé de Bill Gates, a 'Semana de Pensamento (Think Week)', que impulsionou os grandes saltos da Microsoft, e explore os princípios neurocientíficos para eliminar o resíduo de atenção e maximizar a visão de longo prazo.",
+        "authority": "Verificação Histórica da Biografia de Walter Isaacson e Arquivos da Microsoft e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)",
+        "intro": "\"A Semana de Pensamento foi a coisa mais produtiva que já fiz na Microsoft. Lá, você pode se concentrar completamente no futuro sem distrações.\" 🌲\n\nBill Gates (1955–), cofundador da Microsoft, a maior empresa de software do mundo, e visionário tecnológico que liderou a revolução do computador pessoal (PC). Dominando a transformação digital do estilo de vida humano com o MS-DOS e a série Windows, sua capacidade de girar o leme da empresa em momentos cruciais no meio de uma competição acirrada derivava da sua rotina de isolamento num chalé.\n\nDuas vezes por ano durante sua gestão na Microsoft, Gates cortava toda comunicação externa e se retirava para um chalé isolado ao longo do Hood Canal, no estado de Washington. Carregado com pilhas de centenas de propostas técnicas, artigos acadêmicos e livros, ele passava uma semana inteira em isolamento total — proibindo contato até com familiares ou funcionários —, dedicando-se exclusivamente à leitura e reflexão profunda. O lendário memo 'A Onda da Internet (Internet Tidal Wave)', que iniciou a guerra dos navegadores e redirecionou a Microsoft, foi redigido durante uma dessas 'Semanas de Pensamento (Think Week)'.\n\nNo artigo de hoje, analisamos a ciência cerebral por trás da rotina da 'Semana de Pensamento' de Bill Gates e apresentamos um plan prático de 3 passos para que as pessoas sobrecarregadas por notificações digitais restaurem a atenção e maximizem a produtividade.",
+        "whyTitle": "Formação de Percepção de Alto Nível Mediante a Eliminação do Resíduo de Atenção e Consolidação da Memória de Longo Prazo",
+        "whyDesc": "As pessoas modernas sofrem constantemente do 'Residuo de Atenção (Attention Residue)', no qual a alternância frequente entre notificações digitais e e-mails deixa uma desordem mental residual que exaure o cérebro. Mudar rapidamente de tarefa interrompe os circuitos de raciocínio profundo do córtex pré-frontal. Quando a entrada de informações externas é totalmente controlada e o foco prolongado é dedicado a um único tema — como na Semana de Pensamento de Bill Gates —, as funções executivas do córtex pré-frontal eliminam esse resíduo e se otimizam para o processamento de alta ordem. Do ponto de vista neurocientífico, a leitura e a contemplação prolongadas estimulam a consolidação da memória de longo prazo entre o hipocampo e o córtex cerebral, sintetizando conhecimentos fragmentados em um plano diretor.",
+        "cautionTitle": "Precauções e Dicas: Estabelecimento de um Ambiente de Entrada de Informações Puramente Analógico",
+        "cautionDesc": "Ao praticar a rotina da Semana de Pensamento, o maior perigo a ser evitado é a entrada de informações por meio de dispositivos digitais. Ler em laptops ou tablets expõe você facilmente à tentação de e-mails, navegação na web e mensagens instantâneas, desmantelando a rede de foco do cérebro. Sempre que possível, prepare documentos impressos em papel ou livros físicos e faça anotações à mão em cadernos de papel para manter a estimulação sensorial tátil e o estado de imersão profunda.",
+        "steps": [
+          {
+            "title": "Passo 1: Declaração de um Sábato Digital e Corte de Estímulos Externos",
+            "desc": "Designe um dia inteiro ou meio dia de forma regular para desativar completamente smartphones, mensageiros instantâneos e notificações de e-mail, impondo um ambiente físico de isolamento."
+          },
+          {
+            "title": "Passo 2: Coleta de Documentos Impressos e Leitura Imersiva",
+            "desc": "Colete ou imprima artigos de pesquisa, relatórios e livros relevantes para o seu problema principal em formato de papel físico, lendo-os continuamente por mais de 2 horas sem acesso à Internet."
+          },
+          {
+            "title": "Passo 3: Anotações à Mão em Caderno de Papel e Estruturação de Ideias",
+            "desc": "Anote as percepções e planos de execução que surgirem durante a leitura a mão em um caderno de papel. A estimulação sensorial da escrita à mão reforça a ideação pré-frontal e os circuitos estruturais."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Preciso me retirar para um chalé na floresta por vários dias para realizar uma Semana de Pensamento?",
+            "answer": "Não. A essência reside em 'cortar a entrada de informações externas' e 'isolar a atenção', e não no local em si. Visitar uma biblioteca tranquila no fim de semana ou deixar o smartphone em outro cômodo por apenas um dia enquanto se concentra exclusivamente em livros físicos e cadernos produz um potente efeito de reinício cerebral."
+          },
+          {
+            "question": "É aceitável usar laptops ou tablets para ler materiais?",
+            "answer": "Telas digitais são intrinsecamente caminhos conectados diretamente às tentações de sites, e-mails e notificações. Para manter a rede de foco do cérebro, ler papel impresso é o ideal. Se o uso de dispositivos for inevitável, recomenda-se fortemente o uso de um leitor digital (E-reader) dedicado ou um dispositivo off-line com Wi-Fi e Internet completamente desativados."
+          }
+        ]
+      },
+      "id": {
+        "title": "Satu Minggu Pemutusan Hubungan: 'Think Week' Bill Gates dan Kerja Mendalam Tanpa Kebisingan",
+        "description": "Pelajari rutinitas membaca dalam isolasi pondok ala Bill Gates, 'Think Week', yang mendorong lompatan besar Microsoft, dan temukan prinsip neurosains tentang mengeliminasi sisa perhatian serta memaksimalkan wawasan jangka panjang otak.",
+        "authority": "Verifikasi Historis dari Biografi Walter Isaacson & Arsip Microsoft & Penelitian Neurosains Kognitif (Cognitive Neuroscience)",
+        "intro": "\"Think Week adalah hal paling produktif yang pernah saya lakukan di Microsoft. Di sana, Anda dapat berfokus penuh pada masa depan tanpa gangguan.\" 🌲\n\nBill Gates (1955–), pendiri Microsoft, raksasa perangkat lunak terbesar di dunia, dan visioner teknologi yang memimpin revolusi komputer pribadi (PC). Menguasai transformasi digital gaya hidup manusia melalui MS-DOS dan seri Windows, kemampuannya untuk memutar kemudi raksasa perusahaan pada momen-momen krusial di tengah persaingan industri yang sengit berasal langsung dari rutinitas isolasi di pondoknya.\n\nDua kali setahun selama masa jabatannya di Microsoft, Gates memutus semua komunikasi luar dan mundur ke sebuah pondok terpencil di sepanjang Hood Canal di negara bagian Washington. Berbekal tumpukan ratusan makalah teknis, dokumen penelitian, dan buku, ia menghabiskan satu minggu penuh dalam isolasi total—melarang kontak bahkan dengan keluarga atau karyawan—semata-mata mendedikasikan diri untuk membaca dan perenungan mendalam. Memo legendaris 'Gelombang Internet (Internet Tidal Wave)', yang memicu perang peramban dan memutar arah Microsoft menjadi perusahaan berbasis internet, disusun selama salah satu sesi 'Think Week' ini.\n\nDalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'Think Week' Bill Gates dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern yang kewalahan oleh notifikasi digital untuk memulihkan perhatian dan memaksimalkan produktivitas.",
+        "whyTitle": "Pembentukan Wawasan Tingkat Tinggi Melalui Eliminasi Sisa Perhatian dan Konsolidasi Memori Jangka Panjang",
+        "whyDesc": "Masyarakat modern terus-menerus menderita 'Sisa Perhatian (Attention Residue)', di mana perpindahan tugas yang sering di antara notifikasi digital dan email menyisakan kekacauan mental residual yang menguras otak besar. Beralih tugas secara cepat memutus sirkuit penalaran mendalam korteks prefrontal. Ketika masukan informasi luar dikontrol secara total dan fokus berdurasi panjang didedikasikan untuk satu tema—seperti dalam Think Week ala Bill Gates—fungsi eksekutif korteks prefrontal membersihkan sisa ini dan mengoptimalkannya untuk pemrosesan tingkat tinggi. Secara neurosains, membaca dan merenung dalam durasi panjang merangsang konsolidasi memori jangka panjang antara hipokampus dan korteks serebral, memungkinkan sintesis pengetahuan yang terfragmentasi menjadi rencana induk jangka panjang.",
+        "cautionTitle": "Perhatian & Tip: Membangun Lingkungan Masukan Informasi Analog Murni",
+        "cautionDesc": "Saat mempraktikkan rutinitas Think Week, bahaya terbesar yang harus diwaspadai adalah masukan informasi melalui perangkat digital. Membaca di laptop atau tablet dengan mudah memaparkan Anda pada godaan email, penjelajahan web, dan pesan instan, yang merusak jaringan fokus otak. Sebisa mungkin, siapkan dokumen cetak kertas atau buku fisik, dan catatlah dengan tangan di buku catatan kertas untuk mempertahankan stimulasi sensorik taktil dan kondisi imersi yang dalam.",
+        "steps": [
+          {
+            "title": "Langkah 1: Menyatakan Sabat Digital & Memutus Stimulus Luar",
+            "desc": "Tentukan satu hari penuh atau setengah hari secara teratur untuk menonaktifkan semua smartphone, pesan instan, dan notifikasi email secara total, memberlakukan lingkungan isolasi fisik."
+          },
+          {
+            "title": "Langkah 2: Mengumpulkan Dokumen Cetak & Membaca secara Imersif",
+            "desc": "Kumpulkan atau cetak makalah penelitian, laporan, dan buku yang relevan dengan masalah inti Anda dalam format kertas fisik, membacanya secara terus-menerus selama lebih dari 2 jam tanpa akses internet."
+          },
+          {
+            "title": "Langkah 3: Mencatat dengan Tangan di Buku Catatan Kertas & Memstrukturkan Ide",
+            "desc": "Catat wawasan dan rencana eksekusi yang muncul selama membaca dengan tangan di buku catatan kertas. Stimulasi sensorik dari tulisan tangan memperkuat ideasi prefrontal dan sirkuit struktural."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah saya harus mengasingkan diri ke pondok di dalam hutan selama beberapa hari untuk mengadakan Think Week?",
+            "answer": "Tidak. Intinya terletak pada 'memutus masukan informasi luar' dan 'isolasi perhatian', bukan pada lokasinya itu sendiri. Mengunjungi perpustakaan lokal yang tenang di akhir pekan atau menyimpan smartphone Anda di ruangan lain selama satu hari saja sambil berfokus secara eksklusif pada buku fisik dan buku catatan memberikan efek reset otak yang kuat."
+          },
+          {
+            "question": "Apakah boleh menggunakan laptop atau tablet saat membaca materi?",
+            "answer": "Layar digital pada dasarnya adalah pintu gerbang yang terhubung langsung ke godaan situs web, email, dan notifikasi. Untuk mempertahankan jaringan fokus otak, membaca kertas cetak adalah yang terbaik. Jika penggunaan perangkat tidak dapat dihindari, kami sangat menyarankan untuk menggunakan e-reader khusus atau perangkat offline dengan akses Wi-Fi dan internet yang dinonaktifkan sepenuhnya."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "생각 주간을 가지려면 반드시 며칠씩 숲속 오두막으로 떠나야 하나요?",
-          "en": "Do I need to retreat to a cabin in the woods for several days to hold a Think Week?",
-          "ja": "シンク・ウィークを持つには、必ず何日も森の小屋へ旅立たなければなりませんか？",
-          "zh": "要进行“思考周”，必须连续几天前往森林小屋吗？",
-          "es": "¿Debo retirarme a una cabaña en el bosque durante varios días para realizar una Semana de Pensamiento?",
-          "de": "Muss ich mich für mehrere Tage in eine Hütte im Wald zurückziehen, um eine Think Week abzuhalten?",
-          "fr": "Faut-il nécessairement se retirer dans un chalet en forêt pendant plusieurs jours pour faire une Semaine de réflexion ?",
-          "pt": "Preciso me retirar para um chalé na floresta por vários dias para realizar uma Semana de Pensamento?",
-          "id": "Apakah saya harus mengasingkan diri ke pondok di dalam hutan selama beberapa hari untuk mengadakan Think Week?"
-        },
-        "answer": {
-          "ko": "아닙니다. 핵심은 장소가 아니라 '외부 정보의 유입 차단'과 '주의력 고립'입니다. 주말을 활용해 가까운 도서관이나 조용한 공간을 방문하거나, 단 하루만이라도 스마트폰을 완전히 금고나 다른 방에 두고 아날로그 책과 노트에만 집중하는 것으로도 강력한 뇌 리셋 효과를 경험할 수 있습니다.",
-          "en": "No. The essence lies in 'cutting external information input' and 'attentional isolation', not the location itself. Visiting a quiet local library or dedicated space over the weekend, or locking your smartphone in another room for just a single day while focusing exclusively on physical books and notebooks, provides a powerful brain reset effect.",
-          "ja": "いいえ。核心は場所ではなく「外部情報の流入遮断」と「注意力の隔離」です。週末を活用して近くの図書館や静かな空間を訪れたり、たった一日だけでもスマートフォンを完全に別の部屋に置き、アナログの本とノートにのみ集中することで、十分に強力な脳のリセット効果を体験できます。",
-          "zh": "并非如此。其核心在于“切断外部信息输入”与“注意力隔离”，而非具体的物理地点。利用周末前往安静的图书馆或专用空间，甚至只需在一天的时间里将手机锁进其他房间、完全专注于纸质书与笔记本，便能获得强效的大脑重置体验。",
-          "es": "No. La esencia reside en 'cortar la entrada de información externa' e 'aislar la atención', no en la ubicación en sí. Visitar una biblioteca local tranquila durante el fin de semana o dejar el teléfono inteligente en otra habitación durante un solo día mientras se concentra únicamente en libros físicos y cuadernos produce un potente efecto de reinicio cerebral.",
-          "de": "Nein. Der Kern liegt in der 'Unterbrechung der externen Informationseingabe' und der 'Aufmerksamkeits-Isolation', nicht im Ort selbst. Der Besuch einer ruhigen Bibliothek am Wochenende oder das Ablegen des Smartphones in einem anderen Raum für nur einen Tag bei ausschließlicher Konzentration auf gedruckte Bücher und Notizbücher erzielt einen wirksamen Gehirn-Reset-Effekt.",
-          "fr": "Non. L'essence réside dans la « coupure de l'entrée d'informations externes » et l'« isolation de l'attention », et non dans le lieu lui-même. Se rendre dans une bibliothèque calme le week-end ou laisser son smartphone dans une autre pièce pendant une seule journée en se concentrant exclusivement sur des livres physiques et des cahiers procure un puissant effet de réinitialisation cérébrale.",
-          "pt": "Não. A essência reside em 'cortar a entrada de informações externas' e 'isolar a atenção', e não no local em si. Visitar uma biblioteca tranquila no fim de semana ou deixar o smartphone em outro cômodo por apenas um dia enquanto se concentra exclusivamente em livros físicos e cadernos produz um potente efeito de reinício cerebral.",
-          "id": "Tidak. Intinya terletak pada 'memutus masukan informasi luar' dan 'isolasi perhatian', bukan pada lokasinya itu sendiri. Mengunjungi perpustakaan lokal yang tenang di akhir pekan atau menyimpan smartphone Anda di ruangan lain selama satu hari saja sambil berfokus secara eksklusif pada buku fisik dan buku catatan memberikan efek reset otak yang kuat."
-        }
-      },
-      {
-        "question": {
-          "ko": "자료를 읽을 때 노트북이나 태블릿을 사용하면 안 되나요?",
-          "en": "Is it acceptable to use laptops or tablets when reading materials?",
-          "ja": "資料を読む際、ノートパソコンやタブレットを使ってはいけませんか？",
-          "zh": "阅读资料时可以使用笔记本电脑或平板电脑吗？",
-          "es": "¿Se pueden usar portátiles o tabletas para leer materiales?",
-          "de": "Kann man Laptops oder Tablets zum Lesen von Materialien verwenden?",
-          "fr": "Peut-on utiliser un ordinateur ou une tablette pour lire des documents ?",
-          "pt": "É aceitável usar laptops ou tablets para ler materiais?",
-          "id": "Apakah boleh menggunakan laptop atau tablet saat membaca materi?"
-        },
-        "answer": {
-          "ko": "디지털 화면은 본질적으로 다양한 웹사이트, 이메일, 알림의 유혹에 바로 연결되는 통로입니다. 뇌의 집중 신경망(Focus Network)을 지속하려면 인쇄된 아날로그 종이를 보는 것이 가장 좋습니다. 부득이하게 기기를 써야 한다면 인터넷 연결과 와이파이가 완전히 차단된 전용 전자책 리더기(E-reader)나 오프라인 단말기를 사용할 것을 권장합니다.",
-          "en": "Digital screens are inherently gateways linked directly to the temptations of websites, emails, and notifications. To sustain the brain's focus network, reading printed paper is best. If device use is unavoidable, we strongly recommend using a dedicated e-reader or offline tablet with Wi-Fi and internet access completely disabled.",
-          "ja": "デジタル画面は本質的に様々なウェブサイト、電子メール、通知の誘惑に直結する通路です。脳の集中ネットワーク（Focus Network）を維持するには、印刷されたアナログの紙を見るのが最高です。やむを得ず機器を使用する場合は、インターネット接続とWi-Fiが完全に遮断された専用の電子書籍リーダー（E-reader）やオフライン端末を使用することを強くお勧めします。",
-          "zh": "数字屏幕本质上是直通各类网页、邮件与通知诱惑的入口。为了维持大脑的专注网络（Focus Network），阅读打印好的纸质资料效果最佳。若必须使用设备，强烈建议使用彻底切断Wi-Fi与网络连接的电子书阅读器（E-reader）或脱机终端。",
-          "es": "Las pantallas digitales son esencialmente vías conectadas directamente a las tentaciones de sitios web, correos electrónicos y notificaciones. Para mantener la red de enfoque del cerebro, lo mejor es leer papel impreso. Si el uso de dispositivos es inevitable, se recomienda encarecidamente utilizar un lector electrónico (E-reader) dedicado o un dispositivo fuera de línea con Wi-Fi e Internet completamente desactivados.",
-          "de": "Digitale Bildschirme sind Tore zu den Versuchungen von Websites, E-Mails und Benachrichtigungen. Um das Fokusnetzwerk des Gehirns aufrechtzuerhalten, ist das Lesen von gedrucktem Papier am besten. Ist die Nutzung von Geräten unumgänglich, wird dringend empfohlen, einen dedizierten E-Reader oder ein Offline-Gerät mit vollständig deaktiviertem WLAN und Internetzugang zu verwenden.",
-          "fr": "Les écrans numériques sont intrinsèquement des portes ouvertes sur les tentations des sites web, e-mails et notifications. Pour maintenir le réseau de focalisation du cerveau, lire du papier imprimé est ce qu'il y a de mieux. Si l'utilisation d'un appareil est inévitable, il est fortement recommandé d'utiliser une liseuse (E-reader) dédiée ou un appareil hors ligne avec le Wi-Fi et Internet complètement désactivés.",
-          "pt": "Telas digitais são intrinsecamente caminhos conectados diretamente às tentações de sites, e-mails e notificações. Para manter a rede de foco do cérebro, ler papel impresso é o ideal. Se o uso de dispositivos for inevitável, recomenda-se fortemente o uso de um leitor digital (E-reader) dedicado ou um dispositivo off-line com Wi-Fi e Internet completamente desativados.",
-          "id": "Layar digital pada dasarnya adalah pintu gerbang yang terhubung langsung ke godaan situs web, email, dan notifikasi. Untuk mempertahankan jaringan fokus otak, membaca kertas cetak adalah yang terbaik. Jika penggunaan perangkat tidak dapat dihindari, kami sangat menyarankan untuk menggunakan e-reader khusus atau perangkat offline dengan akses Wi-Fi dan internet yang dinonaktifkan sepenuhnya."
-        }
-      }
-    ]
+    }
   }
 }

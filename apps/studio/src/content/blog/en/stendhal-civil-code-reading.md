@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Dry Pre-Heating to Cool the Brain: Stendhal's French Civil Code Reading Habit"
 description: "Stendhal, a master of realist literature who dissected human psychology without ornate rhetoric. We analyze his cognitive warm-up habit of reading the French Civil Code daily before writing to maximize objectivity and logic."
 pubDate: "2026-02-08"
@@ -32,22 +33,20 @@ Stendhal (real name Henri Beyle, 1783–1842) was a 19th-century master of Frenc
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding stendhal-civil-code-reading is based on <strong>Stendhal Civil Code Reading historical biography and autobiographical records & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Stendhal Civil Code Reading historical biography and autobiographical records & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Linguistic Priming Effect and Inhibition of Sentimental Cognition
+## 1. Linguistic Priming Effect and Inhibition of Sentimental Cognition
 
 According to the Priming Effect in cognitive science, when the brain is exposed to information with specific characteristics, it unconsciously activates similar patterns in subsequent cognitive tasks. Stendhal reading the dry and factual sentences of the Civil Code right before writing was equivalent to setting the language control area of his brain to an objectivity- and logic-oriented mode. This stimulus allows the brain to voluntarily practice cognitive inhibition against subjective sentimentality, supporting clear writing built on facts and logical structure.
 
 ---
 
-## Precautions and Tips
-
-When applying this habit, be careful not to get overly immersed in complex contents or analytical legal arguments. Deeply analyzing precedents or statutory interpretations before writing risks depleting prefrontal cognitive resources (Cognitive Depletion). The essence of this routine is not acquiring legal knowledge, but visually perceiving the concise structure and clear word combinations. Thus, lightly scan the unadorned sentence forms without overthinking the text itself.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ When applying this habit, be careful not to get overly immersed in complex conte
     Once the 10-minute reading ends, close the book immediately before checking your phone or allowing distractions, and start writing your draft. Maintain the dry pace primed in your brain to write continuously.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+When applying this habit, be careful not to get overly immersed in complex contents or analytical legal arguments. Deeply analyzing precedents or statutory interpretations before writing risks depleting prefrontal cognitive resources (Cognitive Depletion). The essence of this routine is not acquiring legal knowledge, but visually perceiving the concise structure and clear word combinations. Thus, lightly scan the unadorned sentence forms without overthinking the text itself.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

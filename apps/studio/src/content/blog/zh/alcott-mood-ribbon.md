@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "当枕头竖起时请勿打扰：路易莎·梅·奥尔科特的专注信号"
 description: "介绍《小妇人》作者路易莎·梅·奥尔科特的专注信号“情绪枕头（Mood Pillow）”。通过排除周围干扰因素来降低认知转换成本的3步骤指南，敬请了解。"
 pubDate: "2026-01-01"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 alcott-mood-ribbon 的内容基于 <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) 与《Journal of Personality and Social Psychology》研究</strong> 撰写。
+      本内容基于 <strong>Louisa May Alcott, *Her Life, Letters, and Journals* (1889) 与《Journal of Personality and Social Psychology》研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 消除认知重启浪费的“注意力分散屏蔽”
+## 1. 消除认知重启浪费的“注意力分散屏蔽”
 
 在高度专注状态下，若因外部噪音或他人的提问而中断思维流程，大脑会立即转入多任务处理模式并消耗巨大能量。脑科学将此称为<strong>“任务转换成本（Task-Switching Cost）”</strong>，据研究报告，将一次被打乱的注意力重新重启到原始状态平均需要23分钟的时间。奥尔科特使用的情绪枕头是一种完美的<strong>“注意力分散屏蔽（Distraction Shielding）”</strong>，它率先向周围环境发送无法打扰的信号，从而预先清除了分散注意力的刺激。这种视觉提醒能够在不与身边人产生摩擦的情况下守住工作流程，并帮助将工作记忆（Working Memory）的认知资源完全集中于一处。
 
 ---
 
-## 建立基于相互尊重的约定专注信号
-
-在使用专注信号标识物时，最重要的是与家人或同事提前达成共识。如果事先没有任何约定就突然关上沟通的大门，可能会给他人带来排斥感。只有相互明确认知“请在此标识物展示的1小时内暂缓非紧急联系”等清晰规则，并在约定时间结束后立即解除标识物以恢复沟通状态，才能将其确立为积极良性的习惯。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     当计时器响起时，停止工作并立即解除信号标识物（如将枕头重新平放）。打开先前关闭的沟通渠道，通过轻微的点头示意或交流反馈与等待你的人恢复联系。
   </p>
 </div>
+
+---
+
+## 3. 建立基于相互尊重的约定专注信号
+
+在使用专注信号标识物时，最重要的是与家人或同事提前达成共识。如果事先没有任何约定就突然关上沟通的大门，可能会给他人带来排斥感。只有相互明确认知“请在此标识物展示的1小时内暂缓非紧急联系”等清晰规则，并在约定时间结束后立即解除标识物以恢复沟通状态，才能将其确立为积极良性的习惯。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

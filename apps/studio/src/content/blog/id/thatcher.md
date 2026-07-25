@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Menandai Dokumen pada Jam 2 Pagi untuk Menyaring Isu Kebijakan: Kebiasaan Menyaring Informasi Margaret Thatcher"
 description: "Sebagai Perdana Menteri Inggris yang dijuluki Wanita Besi, beliau membaca tumpukan dokumen resmi dan artikel setiap subuh, mencatat umpan balik kritis yang tajam untuk mengamankan inisiatif kognitif."
 pubDate: "2026-04-05"
@@ -31,25 +32,23 @@ Dalam artikel ini, kami mengeksplorasi prinsip ilmu kognitif di balik kebiasaann
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai thatcher didasarkan pada <strong>Biografi sejarah dan catatan autobiografi Margaret Thatcher & penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi sejarah dan catatan autobiografi Margaret Thatcher & penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Analisis Prinsip Neurosains di Balik Kesuksesannya
+## 1. Analisis Prinsip Neurosains di Balik Kesuksesannya
 
 Mengekstrak inti informasi dari sejumlah besar data dan menerapkan pemfilteran visual dengan penanda atau catatan sangat merangsang sirkuit abstraksi informasi di otak. Ini meningkatkan resolusi filter kognitif korteks prefrontal, melatih pengambilan keputusan strategis tingkat tinggi.
 
 ---
 
-## Saran Ilmu Perilaku untuk Penerapan yang Sukses
-
-Jangan menandai setiap kalimat. Kuncinya adalah menerapkan penanda secara tajam pada kurang dari 10% teks keseluruhan, memberikan kontras visual yang jelas bagi otak. Rancangkan lingkungan fisik dan sinyal kebiasaan yang memicu tindakan secara alami.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Jangan menandai setiap kalimat. Kuncinya adalah menerapkan penanda secara tajam 
   </p>
 </div>
 
+---
+
+## 3. Saran Ilmu Perilaku untuk Penerapan yang Sukses
+
+Jangan menandai setiap kalimat. Kuncinya adalah menerapkan penanda secara tajam pada kurang dari 10% teks keseluruhan, memberikan kontras visual yang jelas bagi otak. Rancangkan lingkungan fisik dan sinyal kebiasaan yang memicu tindakan secara alami.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya harus melakukan rutinitas briefing jadwal setiap pagi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Jangan menandai setiap kalimat. Kuncinya adalah menerapkan penanda secara tajam 
       Ya, meninjau prioritas jadwal dengan bersuara 30 menit sebelum memulai pekerjaan intensif secara proaktif mengaktifkan kontrol eksekutif korteks prefrontal.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara menggantinya jika tidak memiliki papan catatan khusus atau fasilitas briefing?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "서로의 입장을 바꿔 토론한 발명가? 라이트 형제의 역방향 토론법"
 description: "최초의 동력 비행기를 발명한 라이트 형제. 난관을 돌파하기 위해 서로의 주장을 바꾸어 공격했던 그들의 메타인지 토론법과 현대적 실천법을 알아봅니다."
 pubDate: "2026-03-04"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>라이트 형제 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 wright-reverse-debate 루틴을 다룹니다.
+      본 콘텐츠는 <strong>라이트 형제 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 확증 편향을 무력화하는 '메타인지적 재구성'
+## 1. 확증 편향을 무력화하는 '메타인지적 재구성'
 
 사람의 뇌는 한 번 어떤 아이디어나 계획을 세우면, 이를 지지하는 정보만 편향적으로 수집하고 결함이나 반대 증거는 의식적, 무의식적으로 무시하는 확증 편향(Confirmation Bias)에 빠지기 쉽습니다. 이는 수많은 비즈니스 기획과 연구 개발이 실패하는 결정적인 원인입니다.
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 나의 주장을 의심해야 진짜 진리가 열립니다
-
-최고의 아이디어를 완성하기 위해서는 내 아이디어에 대한 집착을 가장 먼저 버릴 수 있어야 합니다. 라이트 형제는 매일 저녁 상대방의 뇌가 되어 스스로를 혹독하게 검증함으로써 인류 최초의 비행이라는 기적을 창조했습니다. 생각의 독선에 빠져 시야가 좁아졌을 때, 당신의 입장을 역방향으로 180도 돌려보십시오.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 나의 주장을 의심해야 진짜 진리가 열립니다
+
+최고의 아이디어를 완성하기 위해서는 내 아이디어에 대한 집착을 가장 먼저 버릴 수 있어야 합니다. 라이트 형제는 매일 저녁 상대방의 뇌가 되어 스스로를 혹독하게 검증함으로써 인류 최초의 비행이라는 기적을 창조했습니다. 생각의 독선에 빠져 시야가 좁아졌을 때, 당신의 입장을 역방향으로 180도 돌려보십시오.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>토론할 파트너가 없는 혼자 일할 때도 이 루틴을 쓸 수 있나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       물론입니다. 종이에 '나의 주장'을 적어두고, 마치 스스로가 나의 가장 냉혹한 반대파 또는 경쟁사 분석팀이 되었다고 빙의하여 내 기획안을 비판하는 '악마의 변호인(Devil's Advocate)' 보고서를 1인 2역으로 써보는 것만으로도 동일한 효과를 냅니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>상대방과 감정이 상하지 않고 역방향 토론을 하려면 어떻게 해야 하나요?</span>

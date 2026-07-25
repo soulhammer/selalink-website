@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "完全なる暗闇の中の発明：アレクサンダー・グラハム・ベルの深夜の感覚遮断とディープ・ワーク"
 description: "電話を発明し人類のコミュニケーションのパラダイムを変えたアレクサンダー・グラハム・ベル。昼間の酷い感覚過負荷を解消し脳の執行機能を覚醒させた彼の「深夜の完全な暗闇」ディープ・ワーク法と感覚遮断（Sensory Deprivation）の神経科学的メカニズムを解き明かします。"
 pubDate: "2026-05-12"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「bell-midnight-darkness」は <strong>ロバート・V・ブルース伝記『Bell: Alexander Graham Bell and the Conquest of Solitude』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ロバート・V・ブルース伝記『Bell: Alexander Graham Bell and the Conquest of Solitude』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 視覚・聴覚遮断による時空間スケッチブック回路の活性化
+## 1. 視覚・聴覚遮断による時空間スケッチブック回路の活性化
 
 神経科学的に目や耳から流入する外部の感覚刺激を一時的に遮断すると、脳は感覚入力受容体に使っていた注意力を高度な連合皮質へと再配分します。この感覚遮断（Sensory Deprivation）状態は扁桃体の不安反応を抑え、作業記憶の核心である「時空間スケッチブック（Visuospatial Sketchpad）」回路を強く活性化させます。その結果、頭の中で複雑な構造やアイデアを立体的に視覚化し組み合わせる前頭葉の執行制御機能が飛躍的に向上します。
 
 ---
 
-## 注意事項＆ヒント：完全な暗闇における睡眠移行の防止
-
-完全な暗闇の中で横になっていると、大脳が睡眠モードと認識して徐波睡眠へと移行しやすくなります。したがって、この感覚遮断ルーティンを行う際は、ベッドの代わりに背もたれのある椅子に正しい姿勢で座って行うことが推奨されます。もし眠気が襲ってきた場合は、指先を強く握って開く軽い触覚運動で認知的覚醒状態を維持してください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：完全な暗闇における睡眠移行の防止
+
+完全な暗闇の中で横になっていると、大脳が睡眠モードと認識して徐波睡眠へと移行しやすくなります。したがって、この感覚遮断ルーティンを行う際は、ベッドの代わりに背もたれのある椅子に正しい姿勢で座って行うことが推奨されます。もし眠気が襲ってきた場合は、指先を強く握って開く軽い触覚運動で認知的覚醒状態を維持してください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>この感覚遮断ルーティンは毎日固定された時間に行わないと効果がありませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       毎日同じ時間に行うと、脳がその時刻を感覚停止およびディープ・ワークのタイミングとして記憶し、認知の切り替え速度がさらに速くなります。ただし時間が固定されなくても、極度のストレスや認知的過負荷がかかった際に応急処置的な脳の休息および構想ツールとして活用しても十分に大きな効果が得られます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>周囲の騒音を完璧に遮断できない環境の時はどのように対処すべきですか？</span>

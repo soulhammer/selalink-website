@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Melodies Crafted in Color? Felix Mendelssohn's Morning Watercolor Routine"
 description: "Genius composer Felix Mendelssohn awakened musical inspiration every morning by painting landscape watercolors. Discover the neuroscientific principles of cross-modal sensory shifting between art and music."
 pubDate: "2026-01-20"
@@ -38,14 +39,14 @@ In this post, we explore the cognitive science of cross-sensory shifting and rig
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding mendelssohn-watercolor-sketch is based on <strong>Historical Critical Biography and Autobiographical Records of Felix Mendelssohn & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Critical Biography and Autobiographical Records of Felix Mendelssohn & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The 'Cross-Modal Association' Effect That Spans Across the Senses
+## 1. The 'Cross-Modal Association' Effect That Spans Across the Senses
 
 When we paint, the brain closely engages the visual cortex and spatial cognition regions to perceive shapes accurately. According to cognitive neuroscience research, the phenomenon where activation in one sensory domain enhances creativity in another is called <strong>'Cross-modal Association'</strong>.
 
@@ -53,9 +54,7 @@ As Felix Mendelssohn observed landscapes every morning and captured color and fo
 
 ---
 
-## Skill Improvement Is Not the Goal; Simple Relaxation and Sensory Refreshment Matter Most
-
-The reason we sketch is not to become professional artists. It is to grant rest to the frontal lobe weary from text, numbers, and logic, and to flexibly restore neural connectivity between sensory networks through non-verbal, visuo-tactile artistic movement. Do not worry about crooked lines; simply immerse yourself in the sensory experience.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ The reason we sketch is not to become professional artists. It is to grant rest 
   </p>
 </div>
 
+---
+
+## 3. Skill Improvement Is Not the Goal; Simple Relaxation and Sensory Refreshment Matter Most
+
+The reason we sketch is not to become professional artists. It is to grant rest to the frontal lobe weary from text, numbers, and logic, and to flexibly restore neural connectivity between sensory networks through non-verbal, visuo-tactile artistic movement. Do not worry about crooked lines; simply immerse yourself in the sensory experience.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can someone who cannot draw at all still benefit from morning sketching?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ The reason we sketch is not to become professional artists. It is to grant rest 
       Absolutely. The purpose is not to display refined artistic skills, but to deliver visual observation and hand motor coordination signals to the brain. Even if the composition is crude or lines are clumsy, the stimulation of cross-modal brain areas and the relaxation effect occur identically.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is pencil or pen drawing sufficient for cross-sensory stimulation instead of watercolor?</span>

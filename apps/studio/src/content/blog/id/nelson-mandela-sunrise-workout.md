@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "'Latihan Bebas Bobot Tubuh Saat Terbit Matahari' Nelson Mandela: Benteng Pertahanan Fisik dan Mental di Dalam Penjara"
 description: "Nelson Mandela menjaga kekuatan fisik dan keteguhan mentalnya dengan melakukan latihan beban tubuh setiap jam 5 pagi selama 27 tahun masa penahanan. Pelajari rutinitas terbit matahari untuk memulihkan otonomi dan resiliensi psikologis."
 pubDate: "2026-01-13"
@@ -35,17 +36,17 @@ Dalam postingan hari ini, kami memeriksa landasan ilmiah dari rutinitas 'latihan
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai nelson-mandela-sunrise-workout didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi latihan terbit matahari Nelson Mandela & penelitian ilmu saraf kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi latihan terbit matahari Nelson Mandela & penelitian ilmu saraf kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Ilmu Otak tentang Menjaga Otonomi di Bawah Kontrol Ekstrem
+## 1. Ilmu Otak tentang Menjaga Otonomi di Bawah Kontrol Ekstrem
 
 Ketika lingkungan eksternal dikontrol secara ketat dan tidak ada kebebasan yang diberikan, otak merasa kehilangan kendali atas perilakunya dan jatuh ke dalam kondisi ketidakberdayaan yang dipelajari (Learned Helplessness), yang mengarah pada depresi dan penurunan kognitif.
 
@@ -53,9 +54,7 @@ Latihan pagi hari Mandela adalah mekanisme umpan balik perilaku yang memberi sin
 
 ---
 
-## Gerakan Pertama di Pagi Hari Menentukan Pikiran Sepanjang Hari
-
-Jangan mengonsumsi stimulus eksternal secara pasif dengan berbaring di tempat tidur dan menatap ponsel pintar begitu Anda membuka mata. Seperti Nelson Mandela, regangkan tubuh Anda secara langsung dan lakukan gerakan fisik aktif untuk memberi sinyal ke otak bahwa Anda memegang kendali penuh atas tubuh dan hari Anda.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Jangan mengonsumsi stimulus eksternal secara pasif dengan berbaring di tempat ti
   </p>
 </div>
 
+---
+
+## 3. Gerakan Pertama di Pagi Hari Menentukan Pikiran Sepanjang Hari
+
+Jangan mengonsumsi stimulus eksternal secara pasif dengan berbaring di tempat tidur dan menatap ponsel pintar begitu Anda membuka mata. Seperti Nelson Mandela, regangkan tubuh Anda secara langsung dan lakukan gerakan fisik aktif untuk memberi sinyal ke otak bahwa Anda memegang kendali penuh atas tubuh dan hari Anda.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Haruskah saya memaksakan diri bangun jam 5 pagi untuk berolahraga meskipun kurang tidur?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Jangan mengonsumsi stimulus eksternal secara pasif dengan berbaring di tempat ti
       Pada hari-hari ketika fisik sangat lelah, jauh lebih baik mengganti latihan berat dengan peregangan ringan dan napas dalam selama 5 hingga 10 menit. Esensi dari rutinitas Mandela bukanlah memaksakan tubuh, melainkan memulai kendali hari melalui kemauan sadar Anda sendiri.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana pemula dengan stamina fisik lemah harus memulai rutinitas ini?</span>

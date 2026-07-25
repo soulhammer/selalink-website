@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "在遮光隔音的杂物间里写代码？林纳斯·托瓦兹的暗室专注日常"
 description: "Linux 和 Git 的创始人林纳斯·托瓦兹。探讨他如何在彻底隔绝外部视觉刺激和各类电子设备装饰的小房间里实现极度专注，并介绍其无噪音工作环境的构建方法。"
 pubDate: "2026-06-30"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 torvalds-darkroom-focus 的内容基于 <strong>林纳斯·托瓦兹的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>林纳斯·托瓦兹的历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 通过控制视觉刺激以储备注意力“认知过滤”
+## 1. 通过控制视觉刺激以储备注意力“认知过滤”
 
 我们的视觉皮层会在无意识中不断计算视野中每一个物体（桌上的玩偶、华丽的相框、走过的人影等）的深度、颜色和形状信息。视觉是对大脑造成最大认知负荷的感官，大约耗费大脑皮层总能量的 30%。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 黑暗之中，程序员的逻辑愈发清晰
-
-对林纳斯·托瓦兹而言，洗衣房里的暗室是阻绝外界诱惑与微小刺激的“认知堡垒”。如果你觉得家中杂乱、无法深度沉浸于工作而浪费了注意力，在归咎于自身注意力不集中之前，不妨试着清除书桌周围所有的视觉装饰，并将周围的灯光调暗。你将体验到令人惊叹的沉浸感。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 黑暗之中，程序员的逻辑愈发清晰
+
+对林纳斯·托瓦兹而言，洗衣房里的暗室是阻绝外界诱惑与微小刺激的“认知堡垒”。如果你觉得家中杂乱、无法深度沉浸于工作而浪费了注意力，在归咎于自身注意力不集中之前，不妨试着清除书桌周围所有的视觉装饰，并将周围的灯光调暗。你将体验到令人惊叹的沉浸感。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>在黑暗的地方只看显示器会不会损害视力？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       在完全黑暗的环境中，过高的对比度会导致眼部疲劳。因此，根据周围环境调低显示器的亮度，或者在显示器背面的墙上安装柔和的背光（如间接LED灯），即可在预防视神经疲劳的同时保持高度沉浸。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>如果家里没有洗衣房或单独隔离的房间该怎么办？</span>

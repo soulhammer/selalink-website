@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The White House Oval Office Rocking Chair: John F. Kennedy's Spinal Pain Breakthrough and Vestibular Relaxation"
 description: "Discover how John F. Kennedy led the United States during Cold War crises while enduring severe spinal pain using his Oval Office Carolina rocking chair. Explore the neuroscience of vestibular stimulation, parasympathetic nervous system activation, and a 3-step relaxation routine."
 pubDate: "2026-02-10"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience and orthopedics behind Jo
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding kennedy-rocking-chair is based on <strong>Historical Verification from the John F. Kennedy Presidential Library, Dr. Janet Travell Archives & Cognitive Neuroscience and Orthopedics Research</strong>.
+      This content is based on <strong>Historical Verification from the John F. Kennedy Presidential Library, Dr. Janet Travell Archives & Cognitive Neuroscience and Orthopedics Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Vestibular System Stimulation and Parasympathetic Nervous System Activation
+## 1. Vestibular System Stimulation and Parasympathetic Nervous System Activation
 
 The rhythmic low-frequency back-and-forth motion of a rocking chair gently stimulates sensory otoliths within the inner ear's <strong>Vestibular System</strong>. Neural projections from the vestibular nuclei travel through the brainstem to robustly engage the <strong>Parasympathetic Nervous System</strong>, lowering heart rate, slowing respiratory frequency, and suppressing <strong>cortisol</strong> secretion. Orthopedically, micro-movements induced by rocking promote fluid circulation across intervertebral discs, mitigating spinal static load. This reduction in physical distress quells hyper-reactivity in the <strong>amygdala</strong>, enabling the <strong>Prefrontal Cortex</strong> to maintain clear executive control during complex decision-making.
 
 ---
 
-## Caution: Preventing Static Load and Inducing Micro-Movements in the Spine
-
-Chronic neck and lower back discomfort in modern knowledge workers stems primarily from 'Static Load'—remaining frozen in a fixed posture for hours. Physical rigidity directly induces emotional distress and cognitive stiffness. Following Kennedy's example, intentionally creating slow, fluid micro-movements while seated is the key to preserving both spinal health and executive brain performance.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Chronic neck and lower back discomfort in modern knowledge workers stems primari
   </p>
 </div>
 
+---
+
+## 3. Caution: Preventing Static Load and Inducing Micro-Movements in the Spine
+
+Chronic neck and lower back discomfort in modern knowledge workers stems primarily from 'Static Load'—remaining frozen in a fixed posture for hours. Physical rigidity directly induces emotional distress and cognitive stiffness. Following Kennedy's example, intentionally creating slow, fluid micro-movements while seated is the key to preserving both spinal health and executive brain performance.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Can I achieve a similar relaxation effect using a standard office desk chair?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Chronic neck and lower back discomfort in modern knowledge workers stems primari
       Yes! Unlocking your office chair's tilt-lock mechanism and gently rocking your upper body back and forth engages the inner ear's vestibular receptors, preventing static load and stimulating parasympathetic pathways effectively.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What is the optimal speed or cadence for rocking to induce nervous system relaxation?</span>

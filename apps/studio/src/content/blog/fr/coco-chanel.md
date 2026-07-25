@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Éliminer corsets et fioritures : La coupe minimaliste essentielle de Coco Chanel et le filtrage d'inhibition préfrontale"
 description: "Découvrez comment la créatrice légendaire Coco Chanel a révolutionné la mode féminine en drapant le tissu sur des mannequins pour couper corsets et fioritures. Explorez la neuroscience cognitive du filtrage d'inhibition préfrontale éliminant le bruit cognitif."
 pubDate: "2026-05-17"
@@ -35,25 +36,23 @@ Dans l'article d'aujourd'hui, nous analysons la science cérébrale sous-jacente
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant coco-chanel est basée sur <strong>Vérification Historique issue de la biographie d'Edmonde Charles-Roux *L'Allure de Chanel (Chanel and Her World)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie d'Edmonde Charles-Roux *L'Allure de Chanel (Chanel and Her World)* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuroscience du filtrage d'inhibition préfrontale et extraction intuitive de l'essence
+## 1. Neuroscience du filtrage d'inhibition préfrontale et extraction intuitive de l'essence
 
 Supprimer physiquement le bruit visuel superflu sollicite les voies du « Filtrage d'Inhibition » dans les cortex préfrontaux dorsolatéral et ventromédian. Lorsque le cerveau supprime les éléments distractifs, il préserve ses ressources en glucose et fixe l'attention sur la géométrie fonctionnelle. Pratiquer la soustraction en trois dimensions affine l'élagage métacognitif, permettant d'éliminer rapidement les variables inutile dans les projets stratégiques.
 
 ---
 
-## Précautions & Conseils : Éviter la suppression aveugle & Préserver la valeur fonctionnelle essentielle
-
-L'essence de la coupe minimaliste de Chanel n'est pas la suppression destructrice. L'objectif est de consacrer des ressources cognitives à isoler le « cadre structurel » qui sublime l'utilité fonctionnelle. Pour éviter de détruire l'objectif fondamental, demandez-vous continuellement : « Si cet élément est retiré, le message principal reste-t-il intact et clarifié ? »
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ L'essence de la coupe minimaliste de Chanel n'est pas la suppression destructric
   </p>
 </div>
 
+---
+
+## 3. Précautions & Conseils : Éviter la suppression aveugle & Préserver la valeur fonctionnelle essentielle
+
+L'essence de la coupe minimaliste de Chanel n'est pas la suppression destructrice. L'objectif est de consacrer des ressources cognitives à isoler le « cadre structurel » qui sublime l'utilité fonctionnelle. Pour éviter de détruire l'objectif fondamental, demandez-vous continuellement : « Si cet élément est retiré, le message principal reste-t-il intact et clarifié ? »
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment faire la différence entre le superflu et la valeur essentielle lors de la révision d'un document ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ L'essence de la coupe minimaliste de Chanel n'est pas la suppression destructric
       Isolez l'objectif principal et demandez-vous : « Si cette section ou ce graphique est retiré, le problème essentiel résolu reste-t-il limpide ? » Si oui, l'élément n'est que de l'habillage. Le supprimer renforce l'impact.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>La méthodologie de coupe de Chanel peut-elle s'appliquer à l'organisation de l'espace de travail ?</span>

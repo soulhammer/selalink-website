@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A rotina das 'Três Salas' de Walt Disney: Imagine, execute e critique"
 description: "Walt Disney transformou devaneios criativos em um império empresarial. Apresentamos a rotina das 'Três Salas' que aprimora ideias separando o pensamento em Sonhador, Realista e Crítico."
 pubDate: "2026-04-16"
@@ -35,26 +36,24 @@ No post de hoje, examinamos os fundamentos científicos por trás da rotina das 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre walt-disney-three-rooms é baseada em <strong>Pesquisa histórica de biografias e registros autobiográficos de Walt Disney Three Rooms e estudos de Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa histórica de biografias e registros autobiográficos de Walt Disney Three Rooms e estudos de Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efeitos cognitivos da separação da atenção e da crítica
+## 1. Efeitos cognitivos da separação da atenção e da crítica
 
 Um erro comum ao elaborar novos planos é revisar e criticar simultaneamente enquanto se formulam as ideias, pensando 'Isso é impossível' ou 'Custa demais'. Neurocientificamente, esse processamento simultâneo faz com que a função divergente do córtex pré-frontal colida com as áreas de avaliação convergente, interrompendo o fluxo do pensamento e atrasando o planejamento.
 A rotina de Walt Disney isolou rigorosamente esses dois estados cognitivos. Na fase do Sonhador, todos os freios são soltos para maximizar o pensamento divergente e induzir o fluxo dopaminérgico. A entrada na fase do Realista estimula o projeto de planos de execução, e a aplicação da análise crítica exclusivamente na sala final do Crítico produz soluções perfeitamente ajustadas sem danificar as asas da ideia.
 
 ---
 
-## A separação da imaginação e da crítica é a chave
-
-O pensamento criativo deve sempre acontecer antes do pensamento crítico. Tente definir seus papéis claramente e aplicá-los em sequência ao planejar pensamentos como Walt Disney. Você pode prevenir o erro cognitivo de quebrar as asas das ideias ao criticá-las prematuramente antes mesmo de serem criadas.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -86,12 +85,18 @@ O pensamento criativo deve sempre acontecer antes do pensamento crítico. Tente 
   </p>
 </div>
 
+---
+
+## 3. A separação da imaginação e da crítica é a chave
+
+O pensamento criativo deve sempre acontecer antes do pensamento crítico. Tente definir seus papéis claramente e aplicá-los em sequência ao planejar pensamentos como Walt Disney. Você pode prevenir o erro cognitivo de quebrar as asas das ideias ao criticá-las prematuramente antes mesmo de serem criadas.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Tudo bem realizar todas as três etapas em uma única sala de reuniões?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -100,7 +105,7 @@ O pensamento criativo deve sempre acontecer antes do pensamento crítico. Tente 
       É mais eficaz mudar de espaço físico para induzir uma renovação. Se as circunstâncias exigir usar um único espaço, é bom fornecer uma diferenciação cognitiva ao cérebro mudando as cores dos marcadores de quadro, reordenando os assentos ou usando diferentes instrumentos de escrita (ex.: lápis de cor coloridos para a fase de Sonhador, canetas esferográficas pretas para a fase de Crítico).
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>O que deve ser feito se a crítica durante a etapa de Crítico for tão excessiva que a ideia seja totalmente descartada?</span>

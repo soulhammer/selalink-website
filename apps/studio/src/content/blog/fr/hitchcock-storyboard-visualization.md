@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Compléter 100 % dans l'esprit avant tout : La routine de storyboard visuel et la simulation mentale d'Alfred Hitchcock"
 description: "Découvrez la routine de storyboard d'Alfred Hitchcock avant le tournage. Explorez comment la simulation mentale active les réseaux d'exécution motrice et élimine la fatigue décisionnelle."
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ Dans cet article, nous analysons la neuroscience cognitive sous-jacente à la ro
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant hitchcock-storyboard-visualization est basée sur <strong>Vérification Historique issue des biographies d'Alfred Hitchcock, des entretiens de François Truffaut *Mister Hitchcock (Hitchcock/Truffaut)* & de la Recherche en Neurosciences Cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue des biographies d'Alfred Hitchcock, des entretiens de François Truffaut *Mister Hitchcock (Hitchcock/Truffaut)* & de la Recherche en Neurosciences Cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stimulation du réseau d'exécution motrice et élimination de la fatigue décisionnelle
+## 1. Stimulation du réseau d'exécution motrice et élimination de la fatigue décisionnelle
 
 La recherche en neurosciences montre que lorsqu'on simule mentalement un enchaînement d'actions avant de l'exécuter, le <strong>Réseau d'exécution motrice</strong> du cerveau s'active de manière identique à l'action réelle. Ce processus de <strong>Simulation Mentale</strong> a permis à Hitchcock d'expérimenter visuellement les variables et de prédéterminer les solutions. Cette anticipation élimine la <strong>Fatigue décisionnelle (Decision Fatigue)</strong> lors de l'exécution, préservant la bande passante préfrontale pour un résultat sans faute.
 
 ---
 
-## Mise en garde : Passer immédiatement à l'action sans s'enfermer dans l'illusion de la planification
-
-Évitez de tomber dans « l'Indulgence de la planification » (Plan Indulgence), où le storyboard devient un gribouillage passif retardant l'action. Le storyboard est un simple outil d'assistance cognitive. Limitez votre schéma à 3 ou 5 étapes clés pour réduire le temps de préparation. Dès la fin de la simulation mentale, basculez immédiatement vers la première étape physique.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La recherche en neurosciences montre que lorsqu'on simule mentalement un enchaî
   </p>
 </div>
 
+---
+
+## 3. Mise en garde : Passer immédiatement à l'action sans s'enfermer dans l'illusion de la planification
+
+Évitez de tomber dans « l'Indulgence de la planification » (Plan Indulgence), où le storyboard devient un gribouillage passif retardant l'action. Le storyboard est un simple outil d'assistance cognitive. Limitez votre schéma à 3 ou 5 étapes clés pour réduire le temps de préparation. Dès la fin de la simulation mentale, basculez immédiatement vers la première étape physique.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Est-il efficace d'utiliser des outils numériques si le dessin à la main est contraignant ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La recherche en neurosciences montre que lorsqu'on simule mentalement un enchaî
       Oui, tout à fait ! L'essentiel ne réside pas dans le dessin, mais dans la structuration de l'action. Utiliser des applications comme Figma, Miro ou des cartes mentales pour organiser des blocs de texte procure des bénéfices cognitifs identiques.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Que faire si des imprévus surviennent pendant l'exécution, s'écartant du storyboard ?</span>

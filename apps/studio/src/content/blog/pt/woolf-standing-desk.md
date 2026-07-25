@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "A romancista que escrevia de pé todas as manhãs? O hábito de alta imersão de Virginia Woolf"
 description: "A gigante literária do século XX, Virginia Woolf. Explore a ciência da concentração adquirida ao escrever de pé — inspirada no cavalete de sua irmã pintora — e hábitos modernos de trabalho em pé."
 pubDate: "2026-06-06"
@@ -33,25 +34,23 @@ No post de hoje, compartilhamos os benefícios científicos por trás da rotina 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre woolf-standing-desk é baseada em <strong>Exame de biografias históricas e registros de Virginia Woolf e pesquisas em neurociência cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Exame de biografias históricas e registros de Virginia Woolf e pesquisas em neurociência cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Estimulação proprioceptiva de todo o corpo induzida por mesas de pé e escrita em pé
+## 1. Estimulação proprioceptiva de todo o corpo induzida por mesas de pé e escrita em pé
 
 O hábito de Virginia Woolf de escrever como se pintasse diante de uma mesa de pé de 105 cm estimula a propriocepção de todo o corpo, neutralizando a resistência psicológica à escrita e elevando as funções executivas do cérebro ao nível máximo.
 
 ---
 
-## Conselhos de manutenção de postura ao configurar um ambiente de trabalho em pé
-
-É importante manter o equilíbrio físico usando um tapete acolchoado para evitar sobrecarregar um único lado e fazer 5 minutos de descanso após 40 minutos de trabalho.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ O hábito de Virginia Woolf de escrever como se pintasse diante de uma mesa de p
   </p>
 </div>
 
+---
+
+## 3. Conselhos de manutenção de postura ao configurar um ambiente de trabalho em pé
+
+É importante manter o equilíbrio físico usando um tapete acolchoado para evitar sobrecarregar um único lado e fazer 5 minutos de descanso após 40 minutos de trabalho.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

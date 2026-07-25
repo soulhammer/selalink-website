@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "家でもスーツを整えて作曲を？：交響曲の父ハイドンの「着衣認知」ルーティンと没頭スイッチ"
 description: "作曲家フランツ・ヨーゼフ・ハイドンがなぜ作曲の前にスーツとカツラを着用したのかを解き明かします。服装が生産性をどのように向上させるのか、「着衣認知（Enclothed Cognition）」の科学と身体化された認知理論で解説します。"
 pubDate: "2026-04-04"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「haydn-formal-dressing」は <strong>ヨーゼフ・ハイドン伝記（Dies & Griesinger）およびエステルハージ（Esterházy）アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ヨーゼフ・ハイドン伝記（Dies & Griesinger）およびエステルハージ（Esterházy）アーカイブ史料考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 身体化された認知と「着衣認知（Enclothed Cognition）」の脳科学
+## 1. 身体化された認知と「着衣認知（Enclothed Cognition）」の脳科学
 
 認知心理学の<strong>身体化された認知（Embodied Cognition）</strong>理論によると、人間の高次元的思考と前頭葉の実行機能は、着用する服装を含む身体の物理的状態と緊密に連結されています。特定の役割や格調を備えた服を着た時、選択的注意集中力が大幅に向上し、業務エラー率が減少する現象を<strong>「着衣認知（Enclothed Cognition）」</strong>効果と呼びます。ハイドンは服をきちん整えて着用することで、脳に「高度な創造性と没頭を発揮する時間」という明確な認知的アンカリング信号を送り、休息モードから没頭モードへの転換を完璧に引き出したのです。
 
 ---
 
-## 注意事項：休息モードと集中モードを区分する「着衣認知」実践ルール
-
-フランツ・ヨーゼフ・ハイドンにとってスーツを着る行為は、芸術に対する敬意であり、脳を没頭状態へと導く高度の認知的スイッチでした。在宅勤務や自主学習の際、パジャマやだぼだぼのホームウェアを着たまま作業すると、脳が「休息状態」と錯覚し、前頭葉の覚醒度が急激に低下します。今すぐきちんとした服装に着替えて脳の実行モードを呼び覚ますことが核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項：休息モードと集中モードを区分する「着衣認知」実践ルール
+
+フランツ・ヨーゼフ・ハイドンにとってスーツを着る行為は、芸術に対する敬意であり、脳を没頭状態へと導く高度の認知的スイッチでした。在宅勤務や自主学習の際、パジャマやだぼだぼのホームウェアを着たまま作業すると、脳が「休息状態」と錯覚し、前頭葉の覚醒度が急激に低下します。今すぐきちんとした服装に着替えて脳の実行モードを呼び覚ますことが核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ハイドンは本当に一人で家にいる時も常にスーツを着て作曲したのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ faqs:
       はい、その通りです。ハイドンはだらしのない服装からは散漫な音楽的アイデアしか生まれないと信じていました。彼は一人でいる書斎でもスーツとカツラ、指輪を整えて着用し、自分の脳を精緻な没頭状態へとセットアップしました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>在宅勤務の際、必ずスーツのように息苦しい服でなければなりませんか？気楽な外出着でも効果がありますか？</span>

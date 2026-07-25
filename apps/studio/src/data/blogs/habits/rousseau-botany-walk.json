@@ -1,216 +1,318 @@
 {
   "rousseau-botany-walk": {
-    "title": {
-      "ko": "식물을 채집하며 사색하다: 장자크 루소의 '식물학 산책과 카드 메모' 루틴",
-      "en": "Contemplating While Collecting Plants: Jean-Jacques Rousseau's 'Botany Walk and Card Notes' Routine",
-      "ja": "植物を採集しながら思索する：ジャン＝ジャック・ルソーの「植物学散歩とカードメモ」ルーティン",
-      "zh": "采集植物的同时进行思考：让-雅克·卢梭的“植物学散步与卡片笔记”常规",
-      "es": "Contemplar mientras se recolectan plantas: La rutina de 'Paseo botánico y notas en cartas' de Jean-Jacques Rousseau",
-      "de": "Pflanzen sammeln und nachdenken: Jean-Jacques Rousseaus Routine 'Botanischer Spaziergang und Kartennotizen'",
-      "fr": "Méditer en récoltant des plantes : La routine 'Promenade botanique et notes sur cartes' de Jean-Jacques Rousseau",
-      "pt": "Contemplar enquanto coleta plantas: A rotina de 'Caminhada botânica e notas em cartas' de Jean-Jacques Rousseau",
-      "id": "Merenung Sambil Mengumpulkan Tanaman: Rutinitas 'Jalan-jalan Botani dan Catatan Kartu' Jean-Jacques Rousseau"
-    },
-    "description": {
-      "ko": "야생 식물을 분류 및 채집하며 사색하고 주머니 속 카드에 즉흥 메모를 적었던 장자크 루소의 루틴을 소개합니다. 진화적 탐색 주의망이 뇌를 깨우는 신경과학적 원리를 설명합니다.",
-      "en": "Discover Jean-Jacques Rousseau's routine of classifying and collecting wild plants while contemplating and jotting down spontaneous notes on cards in his pocket. Explains the neuroscientific principles of how the evolutionary foraging attention network awakens the brain.",
-      "ja": "野生植物を分類・採集しながら思索し、ポケットの中のカードに即興のメモを書き留めたジャン＝ジャック・ルソーのルーティンを紹介します。進化的な探索注意力ネットワークが脳を覚醒させる神経科学的原理を説明します。",
-      "zh": "介绍让-雅克·卢梭在分类和采集野生植物的同时进行思考、并在口袋中的卡片上记下即兴笔记的常规。解释演化搜寻注意力网络如何唤醒大脑的神经科学原理。",
-      "es": "Descubra la rutina de Jean-Jacques Rousseau de clasificar y recolectar plantas silvestres mientras contemplaba y anotaba reflexiones espontáneas en cartas de su bolsillo. Explica los principios neurocientíficos de cómo la red de atención de búsqueda evolutiva despierta el cerebro.",
-      "de": "Lernen Sie Jean-Jacques Rousseaus Routine kennen, Wildpflanzen zu klassifizieren und zu sammeln, während er nachdachte und spontane Notizen auf Spielkarten in seiner Tasche festhielt. Erklärt die neurowissenschaftlichen Prinzipien des evolutionären Such-Aufmerksamkeitsnetzwerks.",
-      "fr": "Découvrez la routine de Jean-Jacques Rousseau consistant à classer et récolter des plantes sauvages tout en méditant et en prenant des notes spontanées sur des cartes dans sa poche. Explique comment le réseau d'attention de recherche évolutif éveille le cerveau.",
-      "pt": "Conheça a rotina de Jean-Jacques Rousseau de classificar e coletar plantas silvestres enquanto contemplava e anotava reflexões espontâneas em cartas no bolso. Explica os princípios neurocientíficos de como a rede de atenção de busca evolutiva desperta o cérebro.",
-      "id": "Pelajari rutinitas Jean-Jacques Rousseau dalam mengklasifikasikan dan mengumpulkan tanaman liar sambil merenung dan menulis catatan spontan di kartu saku. Menjelaskan prinsip neurosains tentang bagaimana jaringan perhatian pencarian evolusioner membangunkan otak."
-    },
-    "authority": {
-      "ko": "장자크 루소 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical biography and autobiographical records of Jean-Jacques Rousseau & Cognitive Neuroscience research",
-      "ja": "ジャン＝ジャック・ルソーの歴史的評伝および自伝的記録の考証と認知神経科学（Cognitive Neuroscience）の研究",
-      "zh": "让-雅克·卢梭历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Investigación basada en biografías históricas y autobiografías de Jean-Jacques Rousseau y estudios de Neurociencia Cognitiva",
-      "de": "Historische Biografie und autobiografische Aufzeichnungen von Jean-Jacques Rousseau & Forschung der kognitiven Neurowissenschaften",
-      "fr": "Étude basée sur la biographie historique et l'autobiographie de Jean-Jacques Rousseau et les recherches en neurosciences cognitives",
-      "pt": "Pesquisa baseada na biografia histórica e autobiografia de Jean-Jacques Rousseau e estudos de Neurociência Cognitiva",
-      "id": "Penelitian berdasarkan biografi historis dan catatan autobiografi Jean-Jacques Rousseau & riset Neurosains Kognitif"
-    },
-    "intro": {
-      "ko": "\"나는 오직 걸을 때만 명상할 수 있다. 걸음을 멈추면 내 생각도 멈추고, 내 머리는 나의 발과 함께 작동한다.\" 🚶‍♂️\n\n프랑스 혁명의 불씨를 지피고 《사회계약론》과 《에밀》을 통해 '자연으로 돌아가라'고 주창했던 대사상가 장자크 루소(Jean-Jacques Rousseau). 말년에 극심한 망상증과 종교적 박해에 시달려 피폐해진 마음을 치유하기 위해, 루소는 식물학 채집과 산책을 하나로 묶은 독창적인 루틴을 고안해 냈습니다. 들판의 식물을 관찰하며 마음을 달래고, 그 와중에 떠오르는 심오한 단상들을 주머니 속 트럼프 카드 뒷면에 적었던 루소의 자연 융합적 집중 메커니즘을 알아봅니다.",
-      "en": "\"I can only meditate when I am walking. When I stop, I cease to think; my mind only works with my legs.\" 🚶‍♂️\n\nJean-Jacques Rousseau, the great philosopher who ignited the sparks of the French Revolution and championed 'Return to Nature' through 'The Social Contract' and 'Émile'. In his later years, tormented by severe paranoia and religious persecution, Rousseau devised an ingenious routine combining botany foraging with walking to heal his exhausted mind. He soothed his soul by observing meadow plants and jotted down profound reflections on the backs of playing cards kept in his pocket. Let's explore his natural-fusion focus mechanism.",
-      "ja": "「私は歩いている時しか瞑想できない。歩みを止めると私の思考も止まり、私の頭は足と共に動くのだ。」 🚶‍♂️\n\nフランス革命の火種をつけ、『社会契約論』や『エミール』を通じて「自然に帰れ」と主張した大思想家ジャン＝ジャック・ルソー（Jean-Jacques Rousseau）。晩年に深刻な被害妄想や宗教的迫害に苦しみ、荒廃した心を癒やすため、ルソーは植物の採集と散歩をひとつに結びつけた独創的なルーティンを考案しました。野原の植物を観察して心を慰め、その最中に浮かんだ深遠な思索をポケットの中のトランプカードの裏面に書き留めたルソーの自然融合的集中メカニズムを紹介します。",
-      "zh": "“我只有在走路时才能冥想。一旦停下脚步，我的思考也会停止，我的大脑是与双脚一同运转的。” 🚶‍♂️\n\n点燃法国大革命火种、并通过《社会契约论》与《爱弥儿》倡导“回归自然”的大思想家让-雅克·卢梭（Jean-Jacques Rousseau）。晚年遭受严重的被害妄想与宗教迫害，为了疗愈疲惫不堪的心灵，卢梭设计了一套将植物学采摘与散步相结合的独创常规。他通过观察田野里的植物来抚平心灵，并将在此过程中涌现的深刻感悟记录在口袋里扑克牌的背面。让我们了解卢梭自然融合型专注机制。",
-      "es": "\"Solo puedo meditar cuando camino. Cuando me detengo, dejo de pensar; mi mente solo funciona con mis piernas.\" 🚶‍♂️\n\nJean-Jacques Rousseau, el gran filósofo que encendió la chispa de la Revolución Francesa y defendió el 'Retorno a la naturaleza' a través de 'El contrato social' y 'Emilio'. En sus últimos años, atormentado por una grave paranoia y persecución religiosa, ideó una rutina ingeniosa que combinaba la recolección botánica con la caminata para sanar su mente agotada. Reconfortaba su alma observando las plantas del campo y anotaba profundas reflexiones en el reverso de las cartas de póquer de su bolsillo. Exploremos su mecanismo de concentración en fusión con la naturaleza.",
-      "de": "\"Ich kann nur beim Gehen meditieren. Wenn ich stehe, hört mein Denken auf; mein Kopf arbeitet nur mit meinen Beinen.\" 🚶‍♂️\n\nJean-Jacques Rousseau, der große Denker, der die Funken der Französischen Revolution entfachte und in 'Vom Gesellschaftsvertrag' und 'Émile' das 'Zurück zur Natur' verkündete. In seinen späten Jahren, geplagt von Verfolgungswahn und religiöser Verfolgung, entwickelte Rousseau eine geniale Routine, die botanisches Sammeln mit Spaziergängen verband, um seinen erschöpften Geist zu heilen. Er tröstete seine Seele beim Beobachten von Wiesenpflanzen und hielt tiefgründige Gedanken auf den Rückseiten von Spielkarten in seiner Tasche fest.",
-      "fr": "« Je ne puis méditer qu'en marchant. Quand je m'arrête, je ne pense plus ; mon cerveau ne fonctionne qu'avec mes jambes. » 🚶‍♂️\n\nJean-Jacques Rousseau, grand penseur qui a allumé les étincelles de la Révolution française et prôné le 'Retour à la nature' à travers 'Du contrat social' et 'Émile'. Dans ses dernières années, tourmenté par une paranoïa sévère et des persécutions religieuses, Rousseau a imaginé une routine ingénieuse combinant la botanique et la marche pour guérir son esprit épuisé. Il apaisait son âme en observant les plantes des prés et notait de profondes réflexions au dos de cartes à jouer conservées dans sa poche.",
-      "pt": "\"Só posso meditar enquanto caminho. Quando paro, deixo de pensar; minha mente só funciona com minhas pernas.\" 🚶‍♂️\n\nJean-Jacques Rousseau, o grande pensador que acendeu as faíscas da Revolução Francesa e defendeu o 'Retorno à Natureza' por meio de 'O Contrato Social' e 'Émile'. Em seus últimos anos, atormentado por uma paranóia severa e perseguição religiosa, Rousseau idealizou uma rotina engenhosa combinando coleta botânica e caminhadas para curar sua mente exausta. Ele consolava sua alma observando plantas nos campos e anotava reflexões profundas no verso de cartas de jogo guardadas no bolso.",
-      "id": "\"Saya hanya bisa bermeditasi saat berjalan. Ketika saya berhenti, pikiran saya ikut berhenti; otak saya hanya bekerja bersama kaki saya.\" 🚶‍♂️\n\nJean-Jacques Rousseau, filsuf besar yang menyulut api Revolusi Prancis dan mengumandangkan 'Kembali ke Alam' melalui 'Kontrak Sosial' dan 'Émile'. Di masa tuanya, tertekan oleh paranoia parah dan persekusi agama, Rousseau merancang rutinitas genius yang menggabungkan pencarian botani dengan jalan kaki untuk menyembuhkan jiwanya yang lelah. Ia menenangkan jiwanya dengan mengamati tanaman padang rumput dan menuliskan renungan mendalam di balik kartu remi di saku bajunya."
-    },
-    "whyTitle": {
-      "ko": "진화적 수집 주의망(Foraging Attention)과 전두엽의 이완",
-      "en": "Evolutionary Foraging Attention Network and Prefrontal Relaxation",
-      "ja": "進化的な探索注意力ネットワーク（Foraging Attention）と前頭前野のリラックス",
-      "zh": "演化搜寻注意力网络（Foraging Attention）与前额叶的放松",
-      "es": "Red de atención de búsqueda evolutiva (Foraging Attention) y relajación prefrontal",
-      "de": "Evolutionäres Such-Aufmerksamkeitsnetzwerk (Foraging Attention) und präfrontale Entlastung",
-      "fr": "Réseau d'attention de recherche évolutif (Foraging Attention) et relaxation préfrontale",
-      "pt": "Rede de atenção de busca evolutiva (Foraging Attention) e relaxamento pré-frontal",
-      "id": "Jaringan Perhatian Pencarian Evolusioner (Foraging Attention) dan Relaksasi Prefrontal"
-    },
-    "whyDesc": {
-      "ko": "진화인지과학에 따르면, 대자연 속에서 열매나 약초 같은 유용한 자연물을 식별하고 분류하여 수집(Foraging)하는 행동은 인류가 수만 년간 적응해 온 원초적 주의력 망을 자극합니다. 인위적이고 스트레스를 주는 도시의 멀티태스킹과 달리, 야생의 풀밭에서 특정 야생초를 관찰하고 모으는 행위는 뇌의 불안 중추인 편도체를 안정시키고 도파민 분비를 촉진합니다. 가벼운 보행과 식물 분류 활동이 결합하면 지친 전두엽의 부하가 해소되며 깊고 침착한 직관이 뇌 위로 떠오릅니다.",
-      "en": "According to evolutionary cognitive science, identifying, classifying, and foraging for useful natural objects like berries or herbs stimulates the primal attention network humans adapted to over tens of thousands of years. Unlike artificial and stressful urban multitasking, observing and collecting wild plants calms the amygdala—the brain's anxiety center—and stimulates dopamine secretion. Combining gentle walking with plant classification relieves prefrontal cortex overload, allowing deep intuition to surface.",
-      "ja": "進化認知科学によると、大自然の中で実や薬草のような有用な自然物を識別・分類し、採集（Foraging）する行動は、人類が数万年かけて適応してきた原初的な注意力ネットワークを刺激します。人工的でストレスの多い都市のマルチタスクとは異なり、野原で特定の野草を観察し集める行為は、脳の不安中枢である扁桃体を安定させ、ドーパミンの分泌を促進します。軽い歩行と植物の分類活動が結合することで、疲弊した前頭前野の負荷が解消され、深く穏やかな直観が脳表面に浮かび上がります。",
-      "zh": "根据演化认知科学，在大自然中识别、分类和采摘（Foraging）果实或草药等有用的自然物，能刺激人类几万年来适应的原始注意力网络。与人工且充满压力的城市多任务处理不同，在野外草地上观察和收集特定野草的行为能稳定大脑的焦虑中枢——杏仁核，并促进多巴胺的分泌。轻松的步行与植物分类活动相结合，能解除疲惫的前额叶皮层负荷，让深刻而沉静的直觉浮现于大脑之上。",
-      "es": "Según la ciencia cognitiva evolutiva, identificar, clasificar y recolectar (Foraging) objetos naturales útiles como bayas o hierbas estimula la red de atención primitiva a la que los humanos se adaptaron durante decenas de miles de años. A diferencia del multitarea urbano artificial y estresante, observar y recolectar plantas silvestres calma la amígdala y estimula la secreción de dopamina. Combinar una caminata ligera con la clasificación de plantas alivia la sobrecarga prefrontal.",
-      "de": "Der evolutionskognitiven Wissenschaft zufolge stimuliert das Erkennen, Klassifizieren und Sammeln (Foraging) nützlicher Naturgegenstände wie Beeren oder Kräuter das urzeitliche Aufmerksamkeitsnetzwerk, an das sich der Mensch über Jahrtausende angepasst hat. Anders als künstliches Stadt-Multitasking beruhigt das Beobachten und Sammeln von Wildpflanzen die Amygdala und regt die Dopaminausschüttung an. Die Kombination aus Gehen und Pflanzensammeln entlastet den präfrontalen Kortex.",
-      "fr": "Selon la science cognitive évolutive, identifier, classer et récolter (Foraging) des éléments naturels utiles comme des baies ou des herbes stimule le réseau d'attention primitif auquel les humains se sont adaptés pendant des millénaires. Contrairement au multitâche urbain artificiel et stressant, observer et ramasser des plantes sauvages apaise l'amygdale et stimule la sécrétion de dopamine. Combiner une marche douce avec la classification des plantes soulage le cortex préfrontal.",
-      "pt": "Segundo a ciência cognitiva evolutiva, identificar, classificar e coletar (Foraging) objetos naturais úteis como frutos ou ervas estimula a rede de atenção primitiva à qual os humanos se adaptaram ao longo de milênios. Ao contrário do multitarefa urbano artificial e estressante, observar e coletar plantas silvestres acalma a amígdala e estimula a secreção de dopamina. Combinar uma caminhada leve com a classificação de plantas alivia a sobrecarga pré-frontal.",
-      "id": "Menurut ilmu kognitif evolusioner, mengidentifikasi, mengklasifikasikan, dan mengumpulkan (Foraging) bahan alam yang berguna seperti buah atau herba menstimulasi jaringan perhatian primordial yang telah diadaptasi manusia selama puluhan ribu tahun. Berbeda dari multitasking perkotaan yang buatan dan penuh stres, mengamati dan mengumpulkan tanaman liar menenangkan amigdala dan merangsang sekresi dopamin. Menggabungkan jalan santai dengan klasifikasi tanaman meredakan beban berlebih pada korteks prefrontal."
-    },
-    "cautionTitle": {
-      "ko": "관찰을 통한 이완과 즉흥적 아날로그 메모의 연동",
-      "en": "Interlinking Relaxation Through Observation with Spontaneous Analog Notes",
-      "ja": "観察によるリラックスと即興のアナログメモの連動",
-      "zh": "通过观察放松并联动即兴手写笔记",
-      "es": "Vincular la relajación por observación con notas analógicas espontáneas",
-      "de": "Verbindung von Entspannung durch Beobachtung mit spontanen analogen Notizen",
-      "fr": "Lier la relaxation par l'observation à des notes analogiques spontanées",
-      "pt": "Vincular o relaxamento por observação com notas analógicas espontâneas",
-      "id": "Menghubungkan Relaksasi Lewat Pengamatan dengan Catatan Analog Spontan"
-    },
-    "cautionDesc": {
-      "ko": "장자크 루소에게 야생 식물 연구는 세상의 모함과 심리적 중압감으로부터 뇌를 방어하는 든든한 방패막이였습니다. 굳이 전문 학자가 아니어도 괜찮습니다. 산책할 때 발밑에 자라난 민들레나 클로버, 나뭇잎의 결을 돋보기로 보듯 관찰해 보세요. 세부 생명체에 초점을 정돈하고, 그 과정에서 튀어오는 생각을 아날로그 메모지에 손으로 바로 옮겨 적는 연동 활동이 당신의 뇌를 가장 평온하게 환기할 것입니다.",
-      "en": "For Rousseau, studying wild plants was a strong shield protecting his brain from slander and psychological pressure. You don't need to be a professional botanist. When walking, observe the textures of dandelions, clovers, or leaves under your feet as if through a magnifying glass. Focus on detailed life forms, and jot down thoughts that pop up on analog note cards—this connected practice will refresh your brain serenely.",
-      "ja": "ジャン＝ジャック・ルソーにとって野生植物の研究は、世間の誣告や心理的重圧から脳を防衛する心強い盾でした。専門的な学者である必要はありません。散歩の際、足元に生えたタンポポやクローバー、葉の筋を虫眼鏡でのぞくように観察してみてください。細かな生命体に焦点を合わせ、その過程で湧き出る考えをアナログメモ帳に手書きで書き留める連動活動が、あなたの脳を最も穏やかにリフレッシュさせるでしょう。",
-      "zh": "对让-雅克·卢梭而言，研究野生植物是防御世俗陷害与心理重压的坚固盾牌。你不必成为专业学者。散步时，像用放大镜一样观察脚下长出的蒲公英、三叶草或树叶的纹理。专注于细小的生命体，并将过程中涌现的想法手写在纸质卡片上，这种联动活动将给你的大脑带来最平静的爽快与清凉。",
-      "es": "Para Rousseau, estudiar plantas silvestres era un escudo protector contra las calumnias y la presión psicológica. No necesita ser un botánico profesional. Al caminar, observe la textura de los dientes de león, tréboles o hojas bajo sus pies como si usara una lupa. Concéntrese en formas de vida detalladas y anote los pensamientos que surjan en tarjetas analógicas.",
-      "de": "Für Rousseau war das Studium von Wildpflanzen ein Schutzschild gegen Verleumdungen und mentalen Druck. Sie müssen kein Botaniker sein. Beobachten Sie beim Gehen die Muster von Löwenzahn, Klee oder Blättern unter Ihren Füßen wie durch ein Vergrößerungsglas. Richten Sie Ihren Fokus auf die Details des Lebens und halten Sie spontane Gedanken auf analogen Kärtchen fest.",
-      "fr": "Pour Rousseau, l'étude des plantes sauvages était un bouclier protecteur contre les calomnies et la pression psychologique. Nul besoin d'être un botaniste professionnel. En vous promenant, observez la texture des pissenlits, trèfles ou feuilles sous vos pieds comme avec une loupe. Concentrez-vous sur ces détails de la vie et notez vos pensées sur des cartes manuscrites.",
-      "pt": "Para Rousseau, estudar plantas silvestres era um escudo protetor contra calúnias e pressão psicológica. Não é preciso ser um botânico profissional. Ao caminhar, observe as texturas de dentes-de-leão, trevos ou folhas sob seus pés como se usasse uma lupa. Concentre-se nos detalhes e anote pensamentos em cartões analógicos.",
-      "id": "Bagi Rousseau, mempelajari tanaman liar adalah benteng pelindung dari fitnah dan tekanan psikologis. Anda tidak harus menjadi ahli botanis. Saat berjalan, amati tekstur bunga dandelion, semanggi, atau serat daun di bawah kaki Anda seperti menggunakan kaca pembesar. Berfokuslah pada kehidupan detail dan tuliskan pemikiran spontan di kartu catatan analog."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "메모 카드나 종이 조각을 주머니에 넣고 자연 속 들판 걷기",
-          "en": "Walk in Nature's Fields with Pocket Cards or Paper Slips",
-          "ja": "メモカードや紙片をポケットに入れて自然の野原を歩く",
-          "zh": "口袋里装着便利卡或纸条在自然的田野中散步",
-          "es": "Caminar por el campo con tarjetas o trozos de papel en el bolsillo",
-          "de": "Gehen Sie mit Notizkarten in der Tasche durch die Natur",
-          "fr": "Marcher dans la nature avec des fiches ou morceaux de papier en poche",
-          "pt": "Caminhar pela natureza com cartões ou pedaços de papel no bolso",
-          "id": "Berjalan di Padang Alam dengan Kartu Catatan di Saku"
-        },
-        "text": {
-          "ko": "트럼프 카드 크기의 빈 종이 여러 장과 펜을 주머니에 가볍게 지참합니다. 보도블록 대신 야생 잡풀과 무성한 들꽃을 관찰할 수 있는 들길이나 산책로를 걷습니다.",
-          "en": "Carry several blank paper cards (playing card size) and a pen lightly in your pocket. Walk along trails or paths where you can observe wild grasses and flowers instead of paved sidewalks.",
-          "ja": "トランプカードサイズの白紙数枚とペンをポケットに軽く携帯します。舗装道路の代わりに、雑草や野花を観察できる小道や散歩道を歩きます。",
-          "zh": "随身在口袋里放几张扑克牌大小的空白纸片和一只笔。散步时选择可以观察野生杂草和繁茂野花的田间小路或步道，而不是水泥人行道。",
-          "es": "Lleve consigo varias tarjetas de papel en blanco del tamaño de cartas de póquer y un bolígrafo en el bolsillo. Camine por senderos donde pueda observar hierbas y flores silvestres en lugar de aceras pavimentadas.",
-          "de": "Stecken Sie einige leere Papierkarten in Spielkartengröße und einen Stift in Ihre Tasche. Gehen Sie auf Pfaden spazieren, auf denen Sie Wildkräuter und Blumen beobachten können.",
-          "fr": "Emportez plusieurs fiches vierges de la taille de cartes à jouer et un stylo dans votre poche. Marchez sur des sentiers où vous pouvez observer des herbes et fleurs sauvages plutôt que sur des trottoirs goudronnés.",
-          "pt": "Leve no bolso alguns cartões em branco do tamanho de cartas de jogo e uma caneta. Caminhe por trilhas onde possa observar gramas e flores silvestres em vez de calçadas pavimentadas.",
-          "id": "Bawa beberapa lembar kertas kosong seukuran kartu remi dan sebuah pena di saku Anda. Berjalanlah di jalan setapak tempat Anda bisa mengamati rumput dan bunga liar."
-        }
+    "pubDate": "2026-04-23",
+    "updatedDate": "2026-04-23",
+    "heroImage": "/images/blog/rousseau_botany_walk.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "식물을 채집하며 사색하다: 장자크 루소의 '식물학 산책과 카드 메모' 루틴",
+        "description": "야생 식물을 분류 및 채집하며 사색하고 주머니 속 카드에 즉흥 메모를 적었던 장자크 루소의 루틴을 소개합니다. 진화적 탐색 주의망이 뇌를 깨우는 신경과학적 원리를 설명합니다.",
+        "authority": "장자크 루소 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "\"나는 오직 걸을 때만 명상할 수 있다. 걸음을 멈추면 내 생각도 멈추고, 내 머리는 나의 발과 함께 작동한다.\" 🚶‍♂️\n\n프랑스 혁명의 불씨를 지피고 《사회계약론》과 《에밀》을 통해 '자연으로 돌아가라'고 주창했던 대사상가 장자크 루소(Jean-Jacques Rousseau). 말년에 극심한 망상증과 종교적 박해에 시달려 피폐해진 마음을 치유하기 위해, 루소는 식물학 채집과 산책을 하나로 묶은 독창적인 루틴을 고안해 냈습니다. 들판의 식물을 관찰하며 마음을 달래고, 그 와중에 떠오르는 심오한 단상들을 주머니 속 트럼프 카드 뒷면에 적었던 루소의 자연 융합적 집중 메커니즘을 알아봅니다.",
+        "whyTitle": "진화적 수집 주의망(Foraging Attention)과 전두엽의 이완",
+        "whyDesc": "진화인지과학에 따르면, 대자연 속에서 열매나 약초 같은 유용한 자연물을 식별하고 분류하여 수집(Foraging)하는 행동은 인류가 수만 년간 적응해 온 원초적 주의력 망을 자극합니다. 인위적이고 스트레스를 주는 도시의 멀티태스킹과 달리, 야생의 풀밭에서 특정 야생초를 관찰하고 모으는 행위는 뇌의 불안 중추인 편도체를 안정시키고 도파민 분비를 촉진합니다. 가벼운 보행과 식물 분류 활동이 결합하면 지친 전두엽의 부하가 해소되며 깊고 침착한 직관이 뇌 위로 떠오릅니다.",
+        "cautionTitle": "관찰을 통한 이완과 즉흥적 아날로그 메모의 연동",
+        "cautionDesc": "장자크 루소에게 야생 식물 연구는 세상의 모함과 심리적 중압감으로부터 뇌를 방어하는 든든한 방패막이였습니다. 굳이 전문 학자가 아니어도 괜찮습니다. 산책할 때 발밑에 자라난 민들레나 클로버, 나뭇잎의 결을 돋보기로 보듯 관찰해 보세요. 세부 생명체에 초점을 정돈하고, 그 과정에서 튀어오는 생각을 아날로그 메모지에 손으로 바로 옮겨 적는 연동 활동이 당신의 뇌를 가장 평온하게 환기할 것입니다.",
+        "steps": [
+          {
+            "title": "메모 카드나 종이 조각을 주머니에 넣고 자연 속 들판 걷기",
+            "desc": "트럼프 카드 크기의 빈 종이 여러 장과 펜을 주머니에 가볍게 지참합니다. 보도블록 대신 야생 잡풀과 무성한 들꽃을 관찰할 수 있는 들길이나 산책로를 걷습니다."
+          },
+          {
+            "title": "들풀이나 야생화의 생김새를 자세히 들여다보며 관찰하기",
+            "desc": "가던 길을 멈추고 땅 밑의 이끼나 나뭇잎, 야생초의 결을 면밀히 관찰합니다. 잎맥의 갈래나 꽃잎의 수 등 자연의 세밀한 기하학에 뇌의 초점을 모읍니다."
+          },
+          {
+            "title": "자연스러운 이완 속에 떠오른 아이디어를 종이 카드에 적기",
+            "desc": "뇌가 완전히 이완된 상태에서 불쑥 뇌리를 스치는 영감이나 해결책을 주머니에서 카드를 꺼내 즉석에서 날 것 그대로 적습니다. 미루지 않는 것이 핵심입니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "루소는 왜 하필 트럼프 카드 뒷면에 메모를 적었나요?",
+            "answer": "산책할 때 무거운 노트나 장부를 소지하기 불편했기 때문입니다. 딱딱하고 작아 들고 쓰기 편한 트럼프 카드는 서서나 걸으면서 손쉽게 수기 기록을 남기기에 최적의 휴대용 아날로그 도구였습니다."
+          },
+          {
+            "question": "도시 공원에서도 식물 채집 산책 효과를 얻을 수 있나요?",
+            "answer": "네, 가능합니다. 식물을 직접 채집하지 않더라도, 주변의 화단이나 정원에서 나뭇잎, 이끼, 작은 야생초들의 모양을 유심히 유기적으로 바라보는 행위만으로도 뇌의 주의력 회복망을 훌륭하게 자극할 수 있습니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "들풀이나 야생화의 생김새를 자세히 들여다보며 관찰하기",
-          "en": "Observe Wild Grasses and Flowers in Close Detail",
-          "ja": "野草や野花の外観を細かくのぞき込んで観察する",
-          "zh": "仔细凑近观察杂草或野花的外貌结构",
-          "es": "Observar minuciosamente los detalles de hierbas y flores silvestres",
-          "de": "Betrachten Sie Wildkräuter und Blumen aus nächster Nähe",
-          "fr": "Observer en détail l'apparence des herbes et fleurs sauvages",
-          "pt": "Observar detalhadamente a aparência de gramas e flores silvestres",
-          "id": "Mengamati Bentuk Rumput dan Bunga Liar Secara Detail"
-        },
-        "text": {
-          "ko": "가던 길을 멈추고 땅 밑의 이끼나 나뭇잎, 야생초의 결을 면밀히 관찰합니다. 잎맥의 갈래나 꽃잎의 수 등 자연의 세밀한 기하학에 뇌의 초점을 모읍니다.",
-          "en": "Stop walking to closely observe moss, leaves, or the texture of wild plants. Focus your brain on nature's intricate geometry, such as leaf veins and petal count.",
-          "ja": "足を止めて地面のコケや木の葉、野草の繊維を綿密に観察します。葉脈の分かれ目や花びらの数など、自然の繊細な幾何学に脳の焦点を合わせます。",
-          "zh": "停下脚步，仔细观察地面上的苔藓、树叶或野草的纹理。将大脑焦点集中在天然的细微几何结构上，例如叶脉的分叉或花瓣的数量。",
-          "es": "Deténgase para observar de cerca el musgo, las hojas o la textura de las plantas silvestres. Enfoque su mente en la geometría detallada de la naturaleza, como las nervaduras o los pétalos.",
-          "de": "Halten Sie inne, um Moos, Blätter oder Wildpflanzen genau zu betrachten. Richten Sie Ihren Fokus auf die Geometrie der Natur, wie Blattadern oder Blütenblätter.",
-          "fr": "Arrêtez-vous pour observer de près la mousse, les feuilles ou la texture des herbes. Concentrez votre cerveau sur la géométrie complexe de la nature, comme les nervures ou le nombre de pétales.",
-          "pt": "Pare para observar de perto musgo, folhas ou a textura de plantas silvestres. Foque seu cérebro na geometria detalhada da natureza, como nervuras das folhas e número de pétalas.",
-          "id": "Hentikan langkah Anda untuk mengamati lumut, dedaunan, atau tekstur tanaman liar secara cermat. Pusatkan perhatian pada geometri rumit alam, seperti urat daun atau jumlah kelopak bunga."
-        }
+      "en": {
+        "title": "Contemplating While Collecting Plants: Jean-Jacques Rousseau's 'Botany Walk and Card Notes' Routine",
+        "description": "Discover Jean-Jacques Rousseau's routine of classifying and collecting wild plants while contemplating and jotting down spontaneous notes on cards in his pocket. Explains the neuroscientific principles of how the evolutionary foraging attention network awakens the brain.",
+        "authority": "Historical biography and autobiographical records of Jean-Jacques Rousseau & Cognitive Neuroscience research",
+        "intro": "\"I can only meditate when I am walking. When I stop, I cease to think; my mind only works with my legs.\" 🚶‍♂️\n\nJean-Jacques Rousseau, the great philosopher who ignited the sparks of the French Revolution and championed 'Return to Nature' through 'The Social Contract' and 'Émile'. In his later years, tormented by severe paranoia and religious persecution, Rousseau devised an ingenious routine combining botany foraging with walking to heal his exhausted mind. He soothed his soul by observing meadow plants and jotted down profound reflections on the backs of playing cards kept in his pocket. Let's explore his natural-fusion focus mechanism.",
+        "whyTitle": "Evolutionary Foraging Attention Network and Prefrontal Relaxation",
+        "whyDesc": "According to evolutionary cognitive science, identifying, classifying, and foraging for useful natural objects like berries or herbs stimulates the primal attention network humans adapted to over tens of thousands of years. Unlike artificial and stressful urban multitasking, observing and collecting wild plants calms the amygdala—the brain's anxiety center—and stimulates dopamine secretion. Combining gentle walking with plant classification relieves prefrontal cortex overload, allowing deep intuition to surface.",
+        "cautionTitle": "Interlinking Relaxation Through Observation with Spontaneous Analog Notes",
+        "cautionDesc": "For Rousseau, studying wild plants was a strong shield protecting his brain from slander and psychological pressure. You don't need to be a professional botanist. When walking, observe the textures of dandelions, clovers, or leaves under your feet as if through a magnifying glass. Focus on detailed life forms, and jot down thoughts that pop up on analog note cards—this connected practice will refresh your brain serenely.",
+        "steps": [
+          {
+            "title": "Walk in Nature's Fields with Pocket Cards or Paper Slips",
+            "desc": "Carry several blank paper cards (playing card size) and a pen lightly in your pocket. Walk along trails or paths where you can observe wild grasses and flowers instead of paved sidewalks."
+          },
+          {
+            "title": "Observe Wild Grasses and Flowers in Close Detail",
+            "desc": "Stop walking to closely observe moss, leaves, or the texture of wild plants. Focus your brain on nature's intricate geometry, such as leaf veins and petal count."
+          },
+          {
+            "title": "Write Down Ideas That Emerge During Natural Relaxation on Paper Cards",
+            "desc": "When your brain is fully relaxed, pull a card from your pocket and immediately write down any raw inspirations or solutions that flash across your mind. Promptness is key."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why did Rousseau write notes on the back of playing cards?",
+            "answer": "He did not carry heavy notebooks while hiking. The stiff, small playing cards were perfect to write on while standing or walking, and easily fit inside his coat pockets."
+          },
+          {
+            "question": "Can I get the same botany walk benefits in a city park?",
+            "answer": "Yes, absolutely. Even if you don't physically harvest plants, simply observing the organic shapes of flowerbed leaves, moss, or wild grass in a city park successfully stimulates the brain's attention restoration network."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "자연스러운 이완 속에 떠오른 아이디어를 종이 카드에 적기",
-          "en": "Write Down Ideas That Emerge During Natural Relaxation on Paper Cards",
-          "ja": "自然なリラックスの中で浮かんだアイデアを紙カードに書き留める",
-          "zh": "在自然放松中记下涌现的想法于纸质卡片上",
-          "es": "Anotar en las tarjetas las ideas que surjan durante la relajación natural",
-          "de": "Notieren Sie Ideen, die bei natürlicher Entspannung entstehen, auf den Karten",
-          "fr": "Noter sur les cartes les idées qui émergent pendant la relaxation",
-          "pt": "Anotar nos cartões as ideias que surgirem durante o relaxamento natural",
-          "id": "Menuliskan Ide yang Muncul Saat Relaksasi Alami di Kartu Kertas"
-        },
-        "text": {
-          "ko": "뇌가 완전히 이완된 상태에서 불쑥 뇌리를 스치는 영감이나 해결책을 주머니에서 카드를 꺼내 즉석에서 날 것 그대로 적습니다. 미루지 않는 것이 핵심입니다.",
-          "en": "When your brain is fully relaxed, pull a card from your pocket and immediately write down any raw inspirations or solutions that flash across your mind. Promptness is key.",
-          "ja": "脳が完全にリラックスした状態でひょっこり頭をよぎるひらめきや解決策を、ポケットからカードを取り出してその場で生のまま書き留めます。後回しにしないことがポイントです。",
-          "zh": "当大脑处于完全放松状态时，拿出口袋里的卡片，当场原汁原味地记下突现脑海的灵感或解决方案。不拖延是核心关键。",
-          "es": "Cuando su cerebro esté completamente relajado, saque una tarjeta del bolsillo y anote de inmediato las inspiraciones o soluciones espontáneas. La inmediatez es la clave.",
-          "de": "Wenn Ihr Gehirn völlig entspannt ist, ziehen Sie eine Karte aus der Tasche und schreiben Sie spontane Eingebungen oder Lösungen sofort auf. Promptheit ist entscheidend.",
-          "fr": "Lorsque votre cerveau est totalement détendu, sortez une carte de votre poche et notez immédiatement toute inspiration brute ou solution. Ne pas différer est la clé.",
-          "pt": "Quando seu cérebro estiver totalmente relaxado, tire um cartão do bolso e anote imediatamente inspirações ou soluções brutas que surgirem. Não adiar é a chave.",
-          "id": "Saat otak rileks sepenuhnya, ambil kartu dari saku dan segera tuliskan inspirasi atau solusi mentah yang terlintas. Jangan menundanya."
-        }
+      "zh": {
+        "title": "采集植物的同时进行思考：让-雅克·卢梭的“植物学散步与卡片笔记”常规",
+        "description": "介绍让-雅克·卢梭在分类和采集野生植物的同时进行思考、并在口袋中的卡片上记下即兴笔记的常规。解释演化搜寻注意力网络如何唤醒大脑的神经科学原理。",
+        "authority": "让-雅克·卢梭历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "“我只有在走路时才能冥想。一旦停下脚步，我的思考也会停止，我的大脑是与双脚一同运转的。” 🚶‍♂️\n\n点燃法国大革命火种、并通过《社会契约论》与《爱弥儿》倡导“回归自然”的大思想家让-雅克·卢梭（Jean-Jacques Rousseau）。晚年遭受严重的被害妄想与宗教迫害，为了疗愈疲惫不堪的心灵，卢梭设计了一套将植物学采摘与散步相结合的独创常规。他通过观察田野里的植物来抚平心灵，并将在此过程中涌现的深刻感悟记录在口袋里扑克牌的背面。让我们了解卢梭自然融合型专注机制。",
+        "whyTitle": "演化搜寻注意力网络（Foraging Attention）与前额叶的放松",
+        "whyDesc": "根据演化认知科学，在大自然中识别、分类和采摘（Foraging）果实或草药等有用的自然物，能刺激人类几万年来适应的原始注意力网络。与人工且充满压力的城市多任务处理不同，在野外草地上观察和收集特定野草的行为能稳定大脑的焦虑中枢——杏仁核，并促进多巴胺的分泌。轻松的步行与植物分类活动相结合，能解除疲惫的前额叶皮层负荷，让深刻而沉静的直觉浮现于大脑之上。",
+        "cautionTitle": "通过观察放松并联动即兴手写笔记",
+        "cautionDesc": "对让-雅克·卢梭而言，研究野生植物是防御世俗陷害与心理重压的坚固盾牌。你不必成为专业学者。散步时，像用放大镜一样观察脚下长出的蒲公英、三叶草或树叶的纹理。专注于细小的生命体，并将过程中涌现的想法手写在纸质卡片上，这种联动活动将给你的大脑带来最平静的爽快与清凉。",
+        "steps": [
+          {
+            "title": "口袋里装着便利卡或纸条在自然的田野中散步",
+            "desc": "随身在口袋里放几张扑克牌大小的空白纸片和一只笔。散步时选择可以观察野生杂草和繁茂野花的田间小路或步道，而不是水泥人行道。"
+          },
+          {
+            "title": "仔细凑近观察杂草或野花的外貌结构",
+            "desc": "停下脚步，仔细观察地面上的苔藓、树叶或野草的纹理。将大脑焦点集中在天然的细微几何结构上，例如叶脉的分叉或花瓣的数量。"
+          },
+          {
+            "title": "在自然放松中记下涌现的想法于纸质卡片上",
+            "desc": "当大脑处于完全放松状态时，拿出口袋里的卡片，当场原汁原味地记下突现脑海的灵感或解决方案。不拖延是核心关键。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "卢梭为什么偏偏在扑克牌背面做笔记？",
+            "answer": "因为散步时携带重型笔记本十分不便。硬挺而小巧的扑克牌易于单手拿握，是站立或行走时随时手写记录的最佳随身纸质工具。"
+          },
+          {
+            "question": "在城市公园里也能获得植物采摘散步的效果吗？",
+            "answer": "是的，完全可以。即使不直接采摘植物，仅在身边的花坛或花园中仔细观赏树叶、苔藓或小野草的有机形状，就足以极佳地刺激大脑的注意力恢复网络。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "植物を採集しながら思索する：ジャン＝ジャック・ルソーの「植物学散歩とカードメモ」ルーティン",
+        "description": "野生植物を分類・採集しながら思索し、ポケットの中のカードに即興のメモを書き留めたジャン＝ジャック・ルソーのルーティンを紹介します。進化的な探索注意力ネットワークが脳を覚醒させる神経科学的原理を説明します。",
+        "authority": "ジャン＝ジャック・ルソーの歴史的評伝および自伝的記録の考証と認知神経科学（Cognitive Neuroscience）の研究",
+        "intro": "「私は歩いている時しか瞑想できない。歩みを止めると私の思考も止まり、私の頭は足と共に動くのだ。」 🚶‍♂️\n\nフランス革命の火種をつけ、『社会契約論』や『エミール』を通じて「自然に帰れ」と主張した大思想家ジャン＝ジャック・ルソー（Jean-Jacques Rousseau）。晩年に深刻な被害妄想や宗教的迫害に苦しみ、荒廃した心を癒やすため、ルソーは植物の採集と散歩をひとつに結びつけた独創的なルーティンを考案しました。野原の植物を観察して心を慰め、その最中に浮かんだ深遠な思索をポケットの中のトランプカードの裏面に書き留めたルソーの自然融合的集中メカニズムを紹介します。",
+        "whyTitle": "進化的な探索注意力ネットワーク（Foraging Attention）と前頭前野のリラックス",
+        "whyDesc": "進化認知科学によると、大自然の中で実や薬草のような有用な自然物を識別・分類し、採集（Foraging）する行動は、人類が数万年かけて適応してきた原初的な注意力ネットワークを刺激します。人工的でストレスの多い都市のマルチタスクとは異なり、野原で特定の野草を観察し集める行為は、脳の不安中枢である扁桃体を安定させ、ドーパミンの分泌を促進します。軽い歩行と植物の分類活動が結合することで、疲弊した前頭前野の負荷が解消され、深く穏やかな直観が脳表面に浮かび上がります。",
+        "cautionTitle": "観察によるリラックスと即興のアナログメモの連動",
+        "cautionDesc": "ジャン＝ジャック・ルソーにとって野生植物の研究は、世間の誣告や心理的重圧から脳を防衛する心強い盾でした。専門的な学者である必要はありません。散歩の際、足元に生えたタンポポやクローバー、葉の筋を虫眼鏡でのぞくように観察してみてください。細かな生命体に焦点を合わせ、その過程で湧き出る考えをアナログメモ帳に手書きで書き留める連動活動が、あなたの脳を最も穏やかにリフレッシュさせるでしょう。",
+        "steps": [
+          {
+            "title": "メモカードや紙片をポケットに入れて自然の野原を歩く",
+            "desc": "トランプカードサイズの白紙数枚とペンをポケットに軽く携帯します。舗装道路の代わりに、雑草や野花を観察できる小道や散歩道を歩きます。"
+          },
+          {
+            "title": "野草や野花の外観を細かくのぞき込んで観察する",
+            "desc": "足を止めて地面のコケや木の葉、野草の繊維を綿密に観察します。葉脈の分かれ目や花びらの数など、自然の繊細な幾何学に脳の焦点を合わせます。"
+          },
+          {
+            "title": "自然なリラックスの中で浮かんだアイデアを紙カードに書き留める",
+            "desc": "脳が完全にリラックスした状態でひょっこり頭をよぎるひらめきや解決策を、ポケットからカードを取り出してその場で生のまま書き留めます。後回しにしないことがポイントです。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ルソーはなぜトランプカードの裏面にメモを書いたのですか？",
+            "answer": "散歩の際に重いノートや帳簿を持ち歩くのが不便だったためです。硬くて小さく持ちやすいトランプカードは、立ちながらや歩きながらでも簡単に手書き記録を残せる最適な携帯用アナログツールでした。"
+          },
+          {
+            "question": "都市の公園でも植物採集散歩の効果を得られますか？",
+            "answer": "はい、可能です。植物を直接採集しなくても、周辺の花壇や庭園で木の葉、コケ、小さな野草の形を注意深く有機的に眺める行為だけで、脳の注意力回復ネットワークを十分に刺激できます。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Contemplar mientras se recolectan plantas: La rutina de 'Paseo botánico y notas en cartas' de Jean-Jacques Rousseau",
+        "description": "Descubra la rutina de Jean-Jacques Rousseau de clasificar y recolectar plantas silvestres mientras contemplaba y anotaba reflexiones espontáneas en cartas de su bolsillo. Explica los principios neurocientíficos de cómo la red de atención de búsqueda evolutiva despierta el cerebro.",
+        "authority": "Investigación basada en biografías históricas y autobiografías de Jean-Jacques Rousseau y estudios de Neurociencia Cognitiva",
+        "intro": "\"Solo puedo meditar cuando camino. Cuando me detengo, dejo de pensar; mi mente solo funciona con mis piernas.\" 🚶‍♂️\n\nJean-Jacques Rousseau, el gran filósofo que encendió la chispa de la Revolución Francesa y defendió el 'Retorno a la naturaleza' a través de 'El contrato social' y 'Emilio'. En sus últimos años, atormentado por una grave paranoia y persecución religiosa, ideó una rutina ingeniosa que combinaba la recolección botánica con la caminata para sanar su mente agotada. Reconfortaba su alma observando las plantas del campo y anotaba profundas reflexiones en el reverso de las cartas de póquer de su bolsillo. Exploremos su mecanismo de concentración en fusión con la naturaleza.",
+        "whyTitle": "Red de atención de búsqueda evolutiva (Foraging Attention) y relajación prefrontal",
+        "whyDesc": "Según la ciencia cognitiva evolutiva, identificar, clasificar y recolectar (Foraging) objetos naturales útiles como bayas o hierbas estimula la red de atención primitiva a la que los humanos se adaptaron durante decenas de miles de años. A diferencia del multitarea urbano artificial y estresante, observar y recolectar plantas silvestres calma la amígdala y estimula la secreción de dopamina. Combinar una caminata ligera con la clasificación de plantas alivia la sobrecarga prefrontal.",
+        "cautionTitle": "Vincular la relajación por observación con notas analógicas espontáneas",
+        "cautionDesc": "Para Rousseau, estudiar plantas silvestres era un escudo protector contra las calumnias y la presión psicológica. No necesita ser un botánico profesional. Al caminar, observe la textura de los dientes de león, tréboles o hojas bajo sus pies como si usara una lupa. Concéntrese en formas de vida detalladas y anote los pensamientos que surjan en tarjetas analógicas.",
+        "steps": [
+          {
+            "title": "Caminar por el campo con tarjetas o trozos de papel en el bolsillo",
+            "desc": "Lleve consigo varias tarjetas de papel en blanco del tamaño de cartas de póquer y un bolígrafo en el bolsillo. Camine por senderos donde pueda observar hierbas y flores silvestres en lugar de aceras pavimentadas."
+          },
+          {
+            "title": "Observar minuciosamente los detalles de hierbas y flores silvestres",
+            "desc": "Deténgase para observar de cerca el musgo, las hojas o la textura de las plantas silvestres. Enfoque su mente en la geometría detallada de la naturaleza, como las nervaduras o los pétalos."
+          },
+          {
+            "title": "Anotar en las tarjetas las ideas que surjan durante la relajación natural",
+            "desc": "Cuando su cerebro esté completamente relajado, saque una tarjeta del bolsillo y anote de inmediato las inspiraciones o soluciones espontáneas. La inmediatez es la clave."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué Rousseau escribía notas en el reverso de las cartas de póquer?",
+            "answer": "Porque era incómodo llevar cuadernos pesados mientras caminaba. Las cartas de póquer, rígidas y pequeñas, eran el herramienta portátil ideal para escribir de pie o en movimiento."
+          },
+          {
+            "question": "¿Se pueden obtener los mismos beneficios de un paseo botánico en un parque urbano?",
+            "answer": "Sí, totalmente. Incluso sin recolectar plantas físicamente, el simple hecho de observar con atención las formas orgánicas de hojas, musgo o hierbas en un parque estimula la red de restauración de la atención del cerebro."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Méditer en récoltant des plantes : La routine 'Promenade botanique et notes sur cartes' de Jean-Jacques Rousseau",
+        "description": "Découvrez la routine de Jean-Jacques Rousseau consistant à classer et récolter des plantes sauvages tout en méditant et en prenant des notes spontanées sur des cartes dans sa poche. Explique comment le réseau d'attention de recherche évolutif éveille le cerveau.",
+        "authority": "Étude basée sur la biographie historique et l'autobiographie de Jean-Jacques Rousseau et les recherches en neurosciences cognitives",
+        "intro": "« Je ne puis méditer qu'en marchant. Quand je m'arrête, je ne pense plus ; mon cerveau ne fonctionne qu'avec mes jambes. » 🚶‍♂️\n\nJean-Jacques Rousseau, grand penseur qui a allumé les étincelles de la Révolution française et prôné le 'Retour à la nature' à travers 'Du contrat social' et 'Émile'. Dans ses dernières années, tourmenté par une paranoïa sévère et des persécutions religieuses, Rousseau a imaginé une routine ingénieuse combinant la botanique et la marche pour guérir son esprit épuisé. Il apaisait son âme en observant les plantes des prés et notait de profondes réflexions au dos de cartes à jouer conservées dans sa poche.",
+        "whyTitle": "Réseau d'attention de recherche évolutif (Foraging Attention) et relaxation préfrontale",
+        "whyDesc": "Selon la science cognitive évolutive, identifier, classer et récolter (Foraging) des éléments naturels utiles comme des baies ou des herbes stimule le réseau d'attention primitif auquel les humains se sont adaptés pendant des millénaires. Contrairement au multitâche urbain artificiel et stressant, observer et ramasser des plantes sauvages apaise l'amygdale et stimule la sécrétion de dopamine. Combiner une marche douce avec la classification des plantes soulage le cortex préfrontal.",
+        "cautionTitle": "Lier la relaxation par l'observation à des notes analogiques spontanées",
+        "cautionDesc": "Pour Rousseau, l'étude des plantes sauvages était un bouclier protecteur contre les calomnies et la pression psychologique. Nul besoin d'être un botaniste professionnel. En vous promenant, observez la texture des pissenlits, trèfles ou feuilles sous vos pieds comme avec une loupe. Concentrez-vous sur ces détails de la vie et notez vos pensées sur des cartes manuscrites.",
+        "steps": [
+          {
+            "title": "Marcher dans la nature avec des fiches ou morceaux de papier en poche",
+            "desc": "Emportez plusieurs fiches vierges de la taille de cartes à jouer et un stylo dans votre poche. Marchez sur des sentiers où vous pouvez observer des herbes et fleurs sauvages plutôt que sur des trottoirs goudronnés."
+          },
+          {
+            "title": "Observer en détail l'apparence des herbes et fleurs sauvages",
+            "desc": "Arrêtez-vous pour observer de près la mousse, les feuilles ou la texture des herbes. Concentrez votre cerveau sur la géométrie complexe de la nature, comme les nervures ou le nombre de pétales."
+          },
+          {
+            "title": "Noter sur les cartes les idées qui émergent pendant la relaxation",
+            "desc": "Lorsque votre cerveau est totalement détendu, sortez une carte de votre poche et notez immédiatement toute inspiration brute ou solution. Ne pas différer est la clé."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi Rousseau écrivait-il des notes au dos de cartes à jouer ?",
+            "answer": "Parce qu'il était inconfortable de transporter de lourds carnets en marchant. Les cartes à jouer, rigides et petites, étaient l'outil idéal pour écrire debout ou en marchant."
+          },
+          {
+            "question": "Peut-on obtenir les mêmes bienfaits d'une promenade botanique dans un parc urbain ?",
+            "answer": "Oui, tout à fait. Même sans cueillir de plantes, le simple fait d'observer attentivement la forme des feuilles, de la mousse ou des herbes dans un parc stimule le réseau de restauration de l'attention du cerveau."
+          }
+        ]
+      },
+      "de": {
+        "title": "Pflanzen sammeln und nachdenken: Jean-Jacques Rousseaus Routine 'Botanischer Spaziergang und Kartennotizen'",
+        "description": "Lernen Sie Jean-Jacques Rousseaus Routine kennen, Wildpflanzen zu klassifizieren und zu sammeln, während er nachdachte und spontane Notizen auf Spielkarten in seiner Tasche festhielt. Erklärt die neurowissenschaftlichen Prinzipien des evolutionären Such-Aufmerksamkeitsnetzwerks.",
+        "authority": "Historische Biografie und autobiografische Aufzeichnungen von Jean-Jacques Rousseau & Forschung der kognitiven Neurowissenschaften",
+        "intro": "\"Ich kann nur beim Gehen meditieren. Wenn ich stehe, hört mein Denken auf; mein Kopf arbeitet nur mit meinen Beinen.\" 🚶‍♂️\n\nJean-Jacques Rousseau, der große Denker, der die Funken der Französischen Revolution entfachte und in 'Vom Gesellschaftsvertrag' und 'Émile' das 'Zurück zur Natur' verkündete. In seinen späten Jahren, geplagt von Verfolgungswahn und religiöser Verfolgung, entwickelte Rousseau eine geniale Routine, die botanisches Sammeln mit Spaziergängen verband, um seinen erschöpften Geist zu heilen. Er tröstete seine Seele beim Beobachten von Wiesenpflanzen und hielt tiefgründige Gedanken auf den Rückseiten von Spielkarten in seiner Tasche fest.",
+        "whyTitle": "Evolutionäres Such-Aufmerksamkeitsnetzwerk (Foraging Attention) und präfrontale Entlastung",
+        "whyDesc": "Der evolutionskognitiven Wissenschaft zufolge stimuliert das Erkennen, Klassifizieren und Sammeln (Foraging) nützlicher Naturgegenstände wie Beeren oder Kräuter das urzeitliche Aufmerksamkeitsnetzwerk, an das sich der Mensch über Jahrtausende angepasst hat. Anders als künstliches Stadt-Multitasking beruhigt das Beobachten und Sammeln von Wildpflanzen die Amygdala und regt die Dopaminausschüttung an. Die Kombination aus Gehen und Pflanzensammeln entlastet den präfrontalen Kortex.",
+        "cautionTitle": "Verbindung von Entspannung durch Beobachtung mit spontanen analogen Notizen",
+        "cautionDesc": "Für Rousseau war das Studium von Wildpflanzen ein Schutzschild gegen Verleumdungen und mentalen Druck. Sie müssen kein Botaniker sein. Beobachten Sie beim Gehen die Muster von Löwenzahn, Klee oder Blättern unter Ihren Füßen wie durch ein Vergrößerungsglas. Richten Sie Ihren Fokus auf die Details des Lebens und halten Sie spontane Gedanken auf analogen Kärtchen fest.",
+        "steps": [
+          {
+            "title": "Gehen Sie mit Notizkarten in der Tasche durch die Natur",
+            "desc": "Stecken Sie einige leere Papierkarten in Spielkartengröße und einen Stift in Ihre Tasche. Gehen Sie auf Pfaden spazieren, auf denen Sie Wildkräuter und Blumen beobachten können."
+          },
+          {
+            "title": "Betrachten Sie Wildkräuter und Blumen aus nächster Nähe",
+            "desc": "Halten Sie inne, um Moos, Blätter oder Wildpflanzen genau zu betrachten. Richten Sie Ihren Fokus auf die Geometrie der Natur, wie Blattadern oder Blütenblätter."
+          },
+          {
+            "title": "Notieren Sie Ideen, die bei natürlicher Entspannung entstehen, auf den Karten",
+            "desc": "Wenn Ihr Gehirn völlig entspannt ist, ziehen Sie eine Karte aus der Tasche und schreiben Sie spontane Eingebungen oder Lösungen sofort auf. Promptheit ist entscheidend."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum schrieb Rousseau Notizen auf die Rückseite von Spielkarten?",
+            "answer": "Da es unpraktisch war, beim Gehen schwere Notizbücher mitzunehmen. Die festen, kleinen Spielkarten waren ideal, um im Stehen oder Gehen spontane Notizen zu machen."
+          },
+          {
+            "question": "Kann man die Vorteile eines botanischen Spaziergangs auch in einem Stadtpark erzielen?",
+            "answer": "Ja, absolut. Selbst ohne Pflanzen zu pflücken, stimuliert das aufmerksame Betrachten von Blättern, Moos oder Blumen in einem Stadtpark das Aufmerksamkeitserholungsnetzwerk des Gehirns."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Contemplar enquanto coleta plantas: A rotina de 'Caminhada botânica e notas em cartas' de Jean-Jacques Rousseau",
+        "description": "Conheça a rotina de Jean-Jacques Rousseau de classificar e coletar plantas silvestres enquanto contemplava e anotava reflexões espontâneas em cartas no bolso. Explica os princípios neurocientíficos de como a rede de atenção de busca evolutiva desperta o cérebro.",
+        "authority": "Pesquisa baseada na biografia histórica e autobiografia de Jean-Jacques Rousseau e estudos de Neurociência Cognitiva",
+        "intro": "\"Só posso meditar enquanto caminho. Quando paro, deixo de pensar; minha mente só funciona com minhas pernas.\" 🚶‍♂️\n\nJean-Jacques Rousseau, o grande pensador que acendeu as faíscas da Revolução Francesa e defendeu o 'Retorno à Natureza' por meio de 'O Contrato Social' e 'Émile'. Em seus últimos anos, atormentado por uma paranóia severa e perseguição religiosa, Rousseau idealizou uma rotina engenhosa combinando coleta botânica e caminhadas para curar sua mente exausta. Ele consolava sua alma observando plantas nos campos e anotava reflexões profundas no verso de cartas de jogo guardadas no bolso.",
+        "whyTitle": "Rede de atenção de busca evolutiva (Foraging Attention) e relaxamento pré-frontal",
+        "whyDesc": "Segundo a ciência cognitiva evolutiva, identificar, classificar e coletar (Foraging) objetos naturais úteis como frutos ou ervas estimula a rede de atenção primitiva à qual os humanos se adaptaram ao longo de milênios. Ao contrário do multitarefa urbano artificial e estressante, observar e coletar plantas silvestres acalma a amígdala e estimula a secreção de dopamina. Combinar uma caminhada leve com a classificação de plantas alivia a sobrecarga pré-frontal.",
+        "cautionTitle": "Vincular o relaxamento por observação com notas analógicas espontâneas",
+        "cautionDesc": "Para Rousseau, estudar plantas silvestres era um escudo protetor contra calúnias e pressão psicológica. Não é preciso ser um botânico profissional. Ao caminhar, observe as texturas de dentes-de-leão, trevos ou folhas sob seus pés como se usasse uma lupa. Concentre-se nos detalhes e anote pensamentos em cartões analógicos.",
+        "steps": [
+          {
+            "title": "Caminhar pela natureza com cartões ou pedaços de papel no bolso",
+            "desc": "Leve no bolso alguns cartões em branco do tamanho de cartas de jogo e uma caneta. Caminhe por trilhas onde possa observar gramas e flores silvestres em vez de calçadas pavimentadas."
+          },
+          {
+            "title": "Observar detalhadamente a aparência de gramas e flores silvestres",
+            "desc": "Pare para observar de perto musgo, folhas ou a textura de plantas silvestres. Foque seu cérebro na geometria detalhada da natureza, como nervuras das folhas e número de pétalas."
+          },
+          {
+            "title": "Anotar nos cartões as ideias que surgirem durante o relaxamento natural",
+            "desc": "Quando seu cérebro estiver totalmente relaxado, tire um cartão do bolso e anote imediatamente inspirações ou soluções brutas que surgirem. Não adiar é a chave."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que Rousseau escrevia notas no verso de cartas de jogo?",
+            "answer": "Porque era desconfortável carregar cadernos pesados enquanto caminhava. As cartas de jogo, rígidas e pequenas, eram o instrumento ideal para escrever em pé ou em movimento."
+          },
+          {
+            "question": "É possível obter os mesmos benefícios de uma caminhada botânica em um parque urbano?",
+            "answer": "Sim, com certeza. Mesmo sem colher plantas, o simples ato de observar com atenção as formas orgânicas de folhas, musgo ou grama em um parque estimula a rede de restauração da atenção do cérebro."
+          }
+        ]
+      },
+      "id": {
+        "title": "Merenung Sambil Mengumpulkan Tanaman: Rutinitas 'Jalan-jalan Botani dan Catatan Kartu' Jean-Jacques Rousseau",
+        "description": "Pelajari rutinitas Jean-Jacques Rousseau dalam mengklasifikasikan dan mengumpulkan tanaman liar sambil merenung dan menulis catatan spontan di kartu saku. Menjelaskan prinsip neurosains tentang bagaimana jaringan perhatian pencarian evolusioner membangunkan otak.",
+        "authority": "Penelitian berdasarkan biografi historis dan catatan autobiografi Jean-Jacques Rousseau & riset Neurosains Kognitif",
+        "intro": "\"Saya hanya bisa bermeditasi saat berjalan. Ketika saya berhenti, pikiran saya ikut berhenti; otak saya hanya bekerja bersama kaki saya.\" 🚶‍♂️\n\nJean-Jacques Rousseau, filsuf besar yang menyulut api Revolusi Prancis dan mengumandangkan 'Kembali ke Alam' melalui 'Kontrak Sosial' dan 'Émile'. Di masa tuanya, tertekan oleh paranoia parah dan persekusi agama, Rousseau merancang rutinitas genius yang menggabungkan pencarian botani dengan jalan kaki untuk menyembuhkan jiwanya yang lelah. Ia menenangkan jiwanya dengan mengamati tanaman padang rumput dan menuliskan renungan mendalam di balik kartu remi di saku bajunya.",
+        "whyTitle": "Jaringan Perhatian Pencarian Evolusioner (Foraging Attention) dan Relaksasi Prefrontal",
+        "whyDesc": "Menurut ilmu kognitif evolusioner, mengidentifikasi, mengklasifikasikan, dan mengumpulkan (Foraging) bahan alam yang berguna seperti buah atau herba menstimulasi jaringan perhatian primordial yang telah diadaptasi manusia selama puluhan ribu tahun. Berbeda dari multitasking perkotaan yang buatan dan penuh stres, mengamati dan mengumpulkan tanaman liar menenangkan amigdala dan merangsang sekresi dopamin. Menggabungkan jalan santai dengan klasifikasi tanaman meredakan beban berlebih pada korteks prefrontal.",
+        "cautionTitle": "Menghubungkan Relaksasi Lewat Pengamatan dengan Catatan Analog Spontan",
+        "cautionDesc": "Bagi Rousseau, mempelajari tanaman liar adalah benteng pelindung dari fitnah dan tekanan psikologis. Anda tidak harus menjadi ahli botanis. Saat berjalan, amati tekstur bunga dandelion, semanggi, atau serat daun di bawah kaki Anda seperti menggunakan kaca pembesar. Berfokuslah pada kehidupan detail dan tuliskan pemikiran spontan di kartu catatan analog.",
+        "steps": [
+          {
+            "title": "Berjalan di Padang Alam dengan Kartu Catatan di Saku",
+            "desc": "Bawa beberapa lembar kertas kosong seukuran kartu remi dan sebuah pena di saku Anda. Berjalanlah di jalan setapak tempat Anda bisa mengamati rumput dan bunga liar."
+          },
+          {
+            "title": "Mengamati Bentuk Rumput dan Bunga Liar Secara Detail",
+            "desc": "Hentikan langkah Anda untuk mengamati lumut, dedaunan, atau tekstur tanaman liar secara cermat. Pusatkan perhatian pada geometri rumit alam, seperti urat daun atau jumlah kelopak bunga."
+          },
+          {
+            "title": "Menuliskan Ide yang Muncul Saat Relaksasi Alami di Kartu Kertas",
+            "desc": "Saat otak rileks sepenuhnya, ambil kartu dari saku dan segera tuliskan inspirasi atau solusi mentah yang terlintas. Jangan menundanya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa Rousseau menulis catatan di balik kartu remi?",
+            "answer": "Karena membawa buku catatan berat saat berjalan sangat tidak praktis. Kartu remi yang kaku dan kecil sangat pas untuk ditulis sambil berdiri atau berjalan."
+          },
+          {
+            "question": "Apakah saya bisa mendapatkan manfaat jalan-jalan botani yang sama di taman kota?",
+            "answer": "Ya, tentu saja. Meskipun tidak memetik tanaman, cukup dengan mengamati bentuk dedaunan, lumut, atau rumput liar di taman kota sudah mampu merangsang jaringan pemulihan perhatian otak."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "루소는 왜 하필 트럼프 카드 뒷면에 메모를 적었나요?",
-          "en": "Why did Rousseau write notes on the back of playing cards?",
-          "ja": "ルソーはなぜトランプカードの裏面にメモを書いたのですか？",
-          "zh": "卢梭为什么偏偏在扑克牌背面做笔记？",
-          "es": "¿Por qué Rousseau escribía notas en el reverso de las cartas de póquer?",
-          "de": "Warum schrieb Rousseau Notizen auf die Rückseite von Spielkarten?",
-          "fr": "Pourquoi Rousseau écrivait-il des notes au dos de cartes à jouer ?",
-          "pt": "Por que Rousseau escrevia notas no verso de cartas de jogo?",
-          "id": "Mengapa Rousseau menulis catatan di balik kartu remi?"
-        },
-        "answer": {
-          "ko": "산책할 때 무거운 노트나 장부를 소지하기 불편했기 때문입니다. 딱딱하고 작아 들고 쓰기 편한 트럼프 카드는 서서나 걸으면서 손쉽게 수기 기록을 남기기에 최적의 휴대용 아날로그 도구였습니다.",
-          "en": "He did not carry heavy notebooks while hiking. The stiff, small playing cards were perfect to write on while standing or walking, and easily fit inside his coat pockets.",
-          "ja": "散歩の際に重いノートや帳簿を持ち歩くのが不便だったためです。硬くて小さく持ちやすいトランプカードは、立ちながらや歩きながらでも簡単に手書き記録を残せる最適な携帯用アナログツールでした。",
-          "zh": "因为散步时携带重型笔记本十分不便。硬挺而小巧的扑克牌易于单手拿握，是站立或行走时随时手写记录的最佳随身纸质工具。",
-          "es": "Porque era incómodo llevar cuadernos pesados mientras caminaba. Las cartas de póquer, rígidas y pequeñas, eran el herramienta portátil ideal para escribir de pie o en movimiento.",
-          "de": "Da es unpraktisch war, beim Gehen schwere Notizbücher mitzunehmen. Die festen, kleinen Spielkarten waren ideal, um im Stehen oder Gehen spontane Notizen zu machen.",
-          "fr": "Parce qu'il était inconfortable de transporter de lourds carnets en marchant. Les cartes à jouer, rigides et petites, étaient l'outil idéal pour écrire debout ou en marchant.",
-          "pt": "Porque era desconfortável carregar cadernos pesados enquanto caminhava. As cartas de jogo, rígidas e pequenas, eram o instrumento ideal para escrever em pé ou em movimento.",
-          "id": "Karena membawa buku catatan berat saat berjalan sangat tidak praktis. Kartu remi yang kaku dan kecil sangat pas untuk ditulis sambil berdiri atau berjalan."
-        }
-      },
-      {
-        "question": {
-          "ko": "도시 공원에서도 식물 채집 산책 효과를 얻을 수 있나요?",
-          "en": "Can I get the same botany walk benefits in a city park?",
-          "ja": "都市の公園でも植物採集散歩の効果を得られますか？",
-          "zh": "在城市公园里也能获得植物采摘散步的效果吗？",
-          "es": "¿Se pueden obtener los mismos beneficios de un paseo botánico en un parque urbano?",
-          "de": "Kann man die Vorteile eines botanischen Spaziergangs auch in einem Stadtpark erzielen?",
-          "fr": "Peut-on obtenir les mêmes bienfaits d'une promenade botanique dans un parc urbain ?",
-          "pt": "É possível obter os mesmos benefícios de uma caminhada botânica em um parque urbano?",
-          "id": "Apakah saya bisa mendapatkan manfaat jalan-jalan botani yang sama di taman kota?"
-        },
-        "answer": {
-          "ko": "네, 가능합니다. 식물을 직접 채집하지 않더라도, 주변의 화단이나 정원에서 나뭇잎, 이끼, 작은 야생초들의 모양을 유심히 유기적으로 바라보는 행위만으로도 뇌의 주의력 회복망을 훌륭하게 자극할 수 있습니다.",
-          "en": "Yes, absolutely. Even if you don't physically harvest plants, simply observing the organic shapes of flowerbed leaves, moss, or wild grass in a city park successfully stimulates the brain's attention restoration network.",
-          "ja": "はい、可能です。植物を直接採集しなくても、周辺の花壇や庭園で木の葉、コケ、小さな野草の形を注意深く有機的に眺める行為だけで、脳の注意力回復ネットワークを十分に刺激できます。",
-          "zh": "是的，完全可以。即使不直接采摘植物，仅在身边的花坛或花园中仔细观赏树叶、苔藓或小野草的有机形状，就足以极佳地刺激大脑的注意力恢复网络。",
-          "es": "Sí, totalmente. Incluso sin recolectar plantas físicamente, el simple hecho de observar con atención las formas orgánicas de hojas, musgo o hierbas en un parque estimula la red de restauración de la atención del cerebro.",
-          "de": "Ja, absolut. Selbst ohne Pflanzen zu pflücken, stimuliert das aufmerksame Betrachten von Blättern, Moos oder Blumen in einem Stadtpark das Aufmerksamkeitserholungsnetzwerk des Gehirns.",
-          "fr": "Oui, tout à fait. Même sans cueillir de plantes, le simple fait d'observer attentivement la forme des feuilles, de la mousse ou des herbes dans un parc stimule le réseau de restauration de l'attention du cerveau.",
-          "pt": "Sim, com certeza. Mesmo sem colher plantas, o simples ato de observar com atenção as formas orgânicas de folhas, musgo ou grama em um parque estimula a rede de restauração da atenção do cérebro.",
-          "id": "Ya, tentu saja. Meskipun tidak memetik tanaman, cukup dengan mengamati bentuk dedaunan, lumut, atau rumput liar di taman kota sudah mampu merangsang jaringan pemulihan perhatian otak."
-        }
-      }
-    ]
+    }
   }
 }

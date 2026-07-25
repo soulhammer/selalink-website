@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le maître du 'Penseur' ? La routine matinale de marche et de pétrissage d'argile d'Auguste Rodin"
 description: "Auguste Rodin, le maître de la sculpture moderne. Découvrez sa routine sensorielle consistant à marcher chaque matin en pétrissant de l'argile pour éveiller l'inspiration tactile."
 pubDate: "2026-01-10"
@@ -33,25 +34,23 @@ Dans cet article, nous examinons la neuro-anatomie sensorielle de la routine de 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant rodin-sculpting-walk est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques d'Auguste Rodin et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques d'Auguste Rodin et recherche en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Activation spatiale tactile par stimulation du cortex somatosensoriel
+## 1. Activation spatiale tactile par stimulation du cortex somatosensoriel
 
 L'Homme moderne dépend à plus de 90 % d'écrans plats, ce qui émousse la perception spatiale. Le pétrissage de l'argile chez Rodin est un <strong>'stimulus cognitif tactile'</strong> qui stimule le cortex somatosensoriel et moteur via les terminaisons nerveuses des doigts, soulageant la fatigue visuelle et activant le DMN pour connecter des idées tridimensionnelles intuitives.
 
 ---
 
-## Désactivez la vision et immergez-vous dans la sensation tactile du bout des doigts
-
-Pour Rodin, l'argile était une antenne éveillant la sensibilité tactile avant d'être un matériau. Ne cherchez pas à façonner une belle forme ; concentrez-vous uniquement sur la texture et l'élasticité ressenties.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Pour Rodin, l'argile était une antenne éveillant la sensibilité tactile avant
   </p>
 </div>
 
+---
+
+## 3. Désactivez la vision et immergez-vous dans la sensation tactile du bout des doigts
+
+Pour Rodin, l'argile était une antenne éveillant la sensibilité tactile avant d'être un matériau. Ne cherchez pas à façonner une belle forme ; concentrez-vous uniquement sur la texture et l'élasticité ressenties.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Quels objets modernes peuvent remplacer l'argile ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Pour Rodin, l'argile était une antenne éveillant la sensibilité tactile avant
       Les balles anti-stress en silicone, fidget cubes, mini kalimbas, morceaux de bois lisse ou galets polis sont d'excellentes alternatives.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment la stimulation tactile des doigts améliore-t-elle la créativité ?</span>

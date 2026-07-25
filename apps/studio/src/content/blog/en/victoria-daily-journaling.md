@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Weight of Empire and Reflection: Queen Victoria's Evening Journaling Habit"
 description: "Explore the reflection habit of Queen Victoria, who ruled the peak of the British Empire and penned 122 journal volumes. Examines how expressive handwriting activates the parasympathetic nervous system and regulates the prefrontal cortex."
 pubDate: "2026-05-07"
@@ -34,22 +35,20 @@ From age 13 until a few days before her death, Victoria wrote in her journal eve
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding victoria-daily-journaling is based on <strong>Historical biographies and autobiographical records of Queen Victoria & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biographies and autobiographical records of Queen Victoria & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Affect Labeling and Prefrontal Cortex Activation in Expressive Writing
+## 1. Affect Labeling and Prefrontal Cortex Activation in Expressive Writing
 
 When negative emotions such as anxiety or sadness overwhelm the mind, the brain's limbic system perceives an emergency, weakening cognitive control. Journaling by hand facilitates <strong>'Expressive Writing'</strong> and <strong>'Affect Labeling'</strong> in cognitive science. Naming complex emotions with physical words and writing them down dampens right amygdala hyperactivity while activating the left prefrontal cortex responsible for rational reasoning. This sends a strong signal to the brain that 'the situation is under control', soothing emotional turbulence.
 
 ---
 
-## Cautions and Tips
-
-When performing an expressive writing routine, avoid obsessing over spelling, grammar, or literary technique. Feeling pressure to write well or logically causes the brain to perceive journaling as an evaluated task, increasing mental fatigue. The key is to completely ignore sentence perfection or outside judgment, pouring out raw streams of emotion freely onto paper.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ When performing an expressive writing routine, avoid obsessing over spelling, gr
     As you close the journal, state to yourself 'All of today's worries are safely stored on these pages', sending a cognitive closure signal to your brain before going to sleep.
   </p>
 </div>
+
+---
+
+## 3. Cautions and Tips
+
+When performing an expressive writing routine, avoid obsessing over spelling, grammar, or literary technique. Feeling pressure to write well or logically causes the brain to perceive journaling as an evaluated task, increasing mental fatigue. The key is to completely ignore sentence perfection or outside judgment, pouring out raw streams of emotion freely onto paper.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

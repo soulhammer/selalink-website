@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Magnate que Resolvió la Tarea Más Difícil Primero en la Mañana: La Rutina de Ejecución Prioritaria de Andrew Carnegie"
 description: "Descubra cómo el magnate del acero Andrew Carnegie abordó su tarea más pesada y abrumadora durante las horas doradas de la mañana, cuando los recursos prefrontales estaban cargados, y explore la neurociencia cognitiva del agotamiento del ego."
 pubDate: "2026-05-07"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre carnegie-priority-first se basa en <strong>Verificación Histórica de la Autobiografía de Andrew Carnegie *Autobiografía de Andrew Carnegie (Autobiography of Andrew Carnegie)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Andrew Carnegie *Autobiografía de Andrew Carnegie (Autobiography of Andrew Carnegie)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Preservación de Recursos Prefrontales y Prevención del 'Agotamiento del Ego (Ego Depletion)'
+## 1. Preservación de Recursos Prefrontales y Prevención del 'Agotamiento del Ego (Ego Depletion)'
 
 La investigación neurocientífica y psicológica demuestra que los recursos cognitivos de la corteza prefrontal —que rigen la toma de decisiones racionales, el control de impulsos y la función ejecutiva— son finitos y se agotan como una batería. Esto se conoce como 'Agotamiento del Ego (Ego Depletion)'. Consumir el presupuesto de glucosa prefrontal al despertar con deslizamientos en el móvil, respuestas a mensajes o tareas menores deja la batería ejecutiva del cerebro agotada cuando surgen decisiones complejas por la tarde, provocando 'Fatiga de Decisión'. La rutina de Carnegie de ejecutar la tarea más pesada durante la primera hora matutina aprovecha la máxima agudeza lógica.
 
 ---
 
-## Precauciones y Consejos: Proteger la Energía Cognitiva Matutina Contra Tareas Triviales
-
-Para los trabajadores del conocimiento de alto rendimiento, la fuerza de voluntad y la capacidad prefrontal son activos de alto valor que se deprecian a lo largo del día. Carnegie se negó a donar sus horas doradas a tareas menores como responder correos u organizar escritorios, invirtiéndolas en las decisiones comerciales de mayor impacto. Designe esa tarea abrumadora que más desea retrasar como su primer punto del día.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Para los trabajadores del conocimiento de alto rendimiento, la fuerza de volunta
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Proteger la Energía Cognitiva Matutina Contra Tareas Triviales
+
+Para los trabajadores del conocimiento de alto rendimiento, la fuerza de voluntad y la capacidad prefrontal son activos de alto valor que se deprecian a lo largo del día. Carnegie se negó a donar sus horas doradas a tareas menores como responder correos u organizar escritorios, invirtiéndolas en las decisiones comerciales de mayor impacto. Designe esa tarea abrumadora que más desea retrasar como su primer punto del día.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Cómo debo gestionar las comunicaciones urgentes o las solicitudes de respuesta inmediata durante el primer bloque matutino?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Para los trabajadores del conocimiento de alto rendimiento, la fuerza de volunta
       A menos que enfrente una crisis organizativa grave, la mayoría de los mensajes 'aparentemente urgentes' pueden esperar de 1 a 2 horas sin consecuencias. Para proteger sus recursos prefrontales, defienda al menos un 'Bloque de Fortaleza Prefrontal' de 1 hora cada mañana.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cómo aplico esta rutina si la tarea más difícil es demasiado masiva para completarla en un solo día?</span>

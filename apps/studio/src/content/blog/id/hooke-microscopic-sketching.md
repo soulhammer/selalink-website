@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metode Sketsa Mikroskopis Robert Hooke: Membangunkan Fokus Utama Prefrontal Melalui Mikro-Pengamatan 0,01 mm dan Sinkronisasi Tangan-Mata"
 description: "Pelajari bagaimana cendekiawan abad ke-17 Robert Hooke menemukan 'sel' biologis pertama melalui menggambar mikroskop majemuk yang presisi. Temukan neurosains sinkronisasi tangan-mata dan sketsa visuospasial."
 pubDate: "2026-04-04"
@@ -35,25 +36,23 @@ Menggabungkan pengamatan mikro optik dengan sketsa tangan yang presisi memperkua
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai hooke-microscopic-sketching didasarkan pada <strong>Verifikasi Historis dari *Micrographia* (1665) karya Robert Hooke, Arsip Royal Society & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Micrographia* (1665) karya Robert Hooke, Arsip Royal Society & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinkronisasi Tangan-Mata di Seluruh Korteks Visual-Motorik dan Fokus Utama Prefrontal
+## 1. Sinkronisasi Tangan-Mata di Seluruh Korteks Visual-Motorik dan Fokus Utama Prefrontal
 
 Menampilkan detail mikro yang diamati ke atas kertas secara manual menstimulasi <strong>Korteks Visual</strong> dan <strong>Korteks Motorik</strong> otak secara bersamaan. Sinkronisasi ganda tangan-mata ini melibatkan penyangga memori kerja <strong>Sketsa Visuospasial</strong>, menekan kelelahan mental. Dengan merekrut jaringan prefrontal, ini menginduksi kondisi <strong>Fokus Utama (Fine Focus)</strong>, secara dramatis mempertajam resolusi pengamatan.
 
 ---
 
-## Perhatian: Prioritaskan Presisi Mikro-Struktural di Atas Estetika Artistik
-
-Jangan terobsesi pada keindahan artistik atau kesempurnaan gambar. Persyaratan utamanya adalah menangkap mikro-struktur, koneksi komponen, dan pola kesalahan kecil secara objektif persis seperti yang diamati. Berfokus pada tindakan fisik memindahkan hubungan struktural alih-alih membuat 'gambar yang indah' mempertahankan fokus utama prefrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Jangan terobsesi pada keindahan artistik atau kesempurnaan gambar. Persyaratan u
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Prioritaskan Presisi Mikro-Struktural di Atas Estetika Artistik
+
+Jangan terobsesi pada keindahan artistik atau kesempurnaan gambar. Persyaratan utamanya adalah menangkap mikro-struktur, koneksi komponen, dan pola kesalahan kecil secara objektif persis seperti yang diamati. Berfokus pada tindakan fisik memindahkan hubungan struktural alih-alih membuat 'gambar yang indah' mempertahankan fokus utama prefrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah efektif menggunakan pemetaan pikiran digital atau stylus tablet alih-alih sketsa kertas?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Jangan terobsesi pada keindahan artistik atau kesempurnaan gambar. Persyaratan u
       Ya! Baik menggunakan kertas fisik atau stylus tablet digital, selama kontrol motorik halus dan pelacakan visual disinkronkan untuk memetakan hubungan struktural, Anda memperoleh manfaat fokus neurologis yang identik.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah metode ini bermanfaat bagi individu yang tidak memiliki bakat menggambar artistik?</span>

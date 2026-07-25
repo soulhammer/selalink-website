@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Environmental Blocking for Focus: Maya Angelou's Hotel Isolation Routine"
 description: "Legendary poet and activist Maya Angelou wrote exclusively in featureless hotel rooms to maximize concentration. Explore the neuroscientific principles of environmental stimulus control."
 pubDate: "2026-03-21"
@@ -36,22 +37,20 @@ In today's post, we analyze the neuroscientific principles of environmental stim
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding angelou-hotel-isolation is based on <strong>Historical Verification from Maya Angelou's Autobiographical Records & Mason Currey's *Daily Rituals* & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Maya Angelou's Autobiographical Records & Mason Currey's *Daily Rituals* & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Visual Stimulus Control and Prefrontal Cognitive Energy Conservation
+## 1. Visual Stimulus Control and Prefrontal Cognitive Energy Conservation
 
 Even without conscious awareness, the human brain constantly scans visual and auditory stimuli in the surrounding environment, consuming cognitive energy. Securing a dedicated, minimalist isolation space drastically reduces environmental stimuli, preserving prefrontal energy entirely for task immersion.
 
 ---
 
-## Neuroscientific Advice for Successful Environmental Focus Habits
-
-It is difficult to overcome distractions through willpower alone. True immersion comes from designing in advance a physical environment where temptations cannot take root. Organize your desk and isolate electronic devices to create an environment where your brain has no choice but to focus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ It is difficult to overcome distractions through willpower alone. True immersion
     Set clear times for entering and leaving the focus zone. When the set writing or work session ends, rise completely from your seat to create a psychological boundary line between work and rest.
   </p>
 </div>
+
+---
+
+## 3. Neuroscientific Advice for Successful Environmental Focus Habits
+
+It is difficult to overcome distractions through willpower alone. True immersion comes from designing in advance a physical environment where temptations cannot take root. Organize your desk and isolate electronic devices to create an environment where your brain has no choice but to focus.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

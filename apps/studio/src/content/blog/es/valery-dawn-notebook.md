@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Los Cahiers a las 4 a.m.: El método de registro de conciencia de Paul Valéry"
 description: "El poeta Paul Valéry se levantaba a las 4 a.m. todos los días durante 51 años para llenar sus cuadernos manuscritos 'Cahiers'. Cubre las razones científicas por las que el silencio matutino, libre de estímulos externos, despierta la inteligencia reflexiva y analítica del córtex prefrontal a su punto máximo."
 pubDate: "2026-04-19"
@@ -36,22 +37,20 @@ En la entrada de hoy, interpretamos el mecanismo de autoajuste de Paul Valéry a
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre valery-dawn-notebook se basa en <strong>Investigación histórica de biografías y registros autobiográficos de Valéry Dawn Notebook y estudios de Neurociencia Cognitiva</strong>.
+      Este contenido se basa en <strong>Investigación histórica de biografías y registros autobiográficos de Valéry Dawn Notebook y estudios de Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Bloqueo de ruido cognitivo y acción de hormonas del despertar proporcionados por el silencio del amanecer
+## 1. Bloqueo de ruido cognitivo y acción de hormonas del despertar proporcionados por el silencio del amanecer
 
 Durante las horas diurnas habituales, el cerebro se enfrenta a innumerables estímulos externos como ruidos, correos y mensajes, malgastando recursos cognitivos. Sin embargo, a las 4 a.m. el mundo circundante está completamente detenido, lo que reduce casi a cero la energía dedicada a filtrar estímulos externos. Simultáneamente, el aumento gradual de los niveles de cortisol al despertar despierta el cerebro de forma serena y sin estrés, creando condiciones fisiológicas perfectas para la escritura reflexiva profunda y la autocontemplación dirigidas por el córtex prefrontal.
 
 ---
 
-## Precauciones y consejos
-
-Entrar de lleno en tareas mecánicas complejas o cálculos numéricos en un estado aturdido antes de que el cerebro se despierte por completo reduce la productividad. En esta franja horaria, programar notas intuitivas, escritura libre o lectura filosófica es lo más adecuado para la eficiencia cognitiva frente al cálculo lógico. Además, para mantener las horas del amanecer sin interrupciones, es esencial establecer un muro de desconexión sin consultar teléfonos ni correos durante 1 hora tras despertar.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Entrar de lleno en tareas mecánicas complejas o cálculos numéricos en un esta
     Abra su cuaderno y escriba en silencio durante 30 minutos con un bolígrafo sus pensamientos, emociones e ideas intelectuales emergentes sin restricciones de formato, refinando su pensamiento.
   </p>
 </div>
+
+---
+
+## 3. Precauciones y consejos
+
+Entrar de lleno en tareas mecánicas complejas o cálculos numéricos en un estado aturdido antes de que el cerebro se despierte por completo reduce la productividad. En esta franja horaria, programar notas intuitivas, escritura libre o lectura filosófica es lo más adecuado para la eficiencia cognitiva frente al cálculo lógico. Además, para mantener las horas del amanecer sin interrupciones, es esencial establecer un muro de desconexión sin consultar teléfonos ni correos durante 1 hora tras despertar.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

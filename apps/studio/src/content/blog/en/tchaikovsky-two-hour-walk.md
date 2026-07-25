@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Inspiration from a Daily Two-Hour Walk: Tchaikovsky's Creative Walking Habit"
 description: "The great Russian composer Pyotr Ilyich Tchaikovsky walked exactly two hours every day to generate musical ideas. We explore continuous walking and the neuroscientific principles of the Default Mode Network (DMN)."
 pubDate: "2026-06-01"
@@ -34,22 +35,20 @@ In this article, we examine the scientific reasons behind Tchaikovsky's two-hour
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding tchaikovsky-two-hour-walk is based on <strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Modest Tchaikovsky, The Life and Letters of Peter Ilich Tchaikovsky (1904) & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Stabilization of Brainwave Rhythms from a Disciplined Daily Two-Hour Walk
+## 1. Stabilization of Brainwave Rhythms from a Disciplined Daily Two-Hour Walk
 
 Tchaikovsky's disciplined habit of walking outdoors for exactly two hours every day at a fixed time increased blood flow to the visuospatial cortex and hippocampus, providing the momentum to incubate beautiful symphonic melodies in his mind. Continuous walking activates the Default Mode Network (DMN), facilitating the combination of unconscious memories and emotional melodies.
 
 ---
 
-## Importance of Adhering to the Walking Discipline
-
-Just as Tchaikovsky strictly protected his walk time, external distractions such as smartphones or work notifications must be completely blocked during walking aimed at inspiration. Complete the set walking routine fully to allow your brain to reach emotional calmness and creative immersion.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Just as Tchaikovsky strictly protected his walk time, external distractions such
     Complete the full two-hour walk routine without quitting halfway to boost cerebral blood flow and relax the nervous system, then return immediately to your desk to organize your thoughts.
   </p>
 </div>
+
+---
+
+## 3. Importance of Adhering to the Walking Discipline
+
+Just as Tchaikovsky strictly protected his walk time, external distractions such as smartphones or work notifications must be completely blocked during walking aimed at inspiration. Complete the set walking routine fully to allow your brain to reach emotional calmness and creative immersion.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

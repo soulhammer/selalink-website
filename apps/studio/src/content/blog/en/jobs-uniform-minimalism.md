@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Genius Who Wore the Same Clothes Every Day: Steve Jobs's Decision Minimalism Routine and Prefrontal Cognitive Resource Preservation"
 description: "Discover how Apple co-founder Steve Jobs preserved cognitive energy by wearing an identical uniform of a black turtleneck and jeans every day. Explore the neuroscience of decision fatigue, prefrontal cortex resource allocation, and a 3-step clothing simplification framework."
 pubDate: "2026-06-25"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive psychology and neuroscience behind Stev
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding jobs-uniform-minimalism is based on <strong>Historical Verification from Walter Isaacson's *Steve Jobs* (2011), Apple Archives & Cognitive Psychology and Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Walter Isaacson's *Steve Jobs* (2011), Apple Archives & Cognitive Psychology and Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Elimination of Decision Fatigue and Preservation of Prefrontal Cognitive Resources
+## 1. Elimination of Decision Fatigue and Preservation of Prefrontal Cognitive Resources
 
 Human prefrontal cortex performance relies on a finite daily pool of executive energy. Expending cognitive resources early in the morning selecting and matching clothes induces <strong>Decision Fatigue</strong> and ego depletion. Steve Jobs's habit of wearing a fixed uniform of a black turtleneck and jeans physically eliminated trivial morning micro-decisions. By freeing up central executive capacity, he preserved maximum <strong>Prefrontal Cortex</strong> bandwidth for high-stakes product design, innovation, and strategic corporate leadership.
 
 ---
 
-## Caution: Converting Daily Choices into Constants to Conserve Prefrontal Energy
-
-The core mechanism of clothing minimalism is not aesthetic monotony, but the systemic elimination of low-stakes micro-decisions. Transforming repetitive daily choices—such as breakfast menus, outfit formulas, or commute routes—into fixed constants conserves prefrontal energy, which is the ultimate key to maximizing performance.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ The core mechanism of clothing minimalism is not aesthetic monotony, but the sys
   </p>
 </div>
 
+---
+
+## 3. Caution: Converting Daily Choices into Constants to Conserve Prefrontal Energy
+
+The core mechanism of clothing minimalism is not aesthetic monotony, but the systemic elimination of low-stakes micro-decisions. Transforming repetitive daily choices—such as breakfast menus, outfit formulas, or commute routes—into fixed constants conserves prefrontal energy, which is the ultimate key to maximizing performance.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Why did Steve Jobs insist on wearing the exact same outfit every day?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ The core mechanism of clothing minimalism is not aesthetic monotony, but the sys
       Jobs eliminated morning garment selection to prevent Decision Fatigue and conserve prefrontal cortex energy, dedicating 100% of his cognitive capacity to Apple's management and product innovations.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>What is a practical alternative if wearing an identical outfit like Jobs feels unrealistic?</span>

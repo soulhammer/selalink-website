@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Novelista que Caminaba a Paso Ligero 3 Horas Cada Tarde: La Rutina de Ideas y Activación de la DMN de Charles Dickens"
 description: "Descubra cómo el gigante literario Charles Dickens diseñó personajes y tramas complejas mediante una caminata diaria de 3 horas. Explore la neurociencia cognitiva de la activación de la Red por Defecto (DMN) y la secreción de BDNF."
 pubDate: "2026-05-23"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre dickens-afternoon-walk se basa en <strong>Verificación Histórica de la Biografía de John Forster *La vida de Charles Dickens (The Life of Charles Dickens)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Biografía de John Forster *La vida de Charles Dickens (The Life of Charles Dickens)* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Catalizador del Pensamiento Divergente: Activación de la DMN y Secreción de BDNF Mediante la Caminata Sin Estímulos
+## 1. Catalizador del Pensamiento Divergente: Activación de la DMN y Secreción de BDNF Mediante la Caminata Sin Estímulos
 
 La caminata aeróbica rítmica aumenta el flujo sanguíneo cerebral y estimula la liberación del Factor Neurotrófico Derivado del Cerebro (BDNF), mejorando la plasticidad neuronal y promoviendo el Pensamiento Divergente. Es fundamental que caminar sin distracciones sensoriales externas —como teléfonos o audio— activa la Red por Defecto (DMN). Al funcionar cuando el cerebro no está enfocado en una tarea, la DMN reorganiza recuerdos e ideas matutinas, fusionándolos en avances creativos. Una caminata vespertina limpia la memoria de trabajo (RAM), restaurando los recursos prefrontales.
 
 ---
 
-## Precauciones y Consejos: Aislar los Estímulos Digitales y Crear un Vacío Sensorial
-
-La base de una caminata de pensamiento es otorgar al cerebro una 'pausa cognitiva ininterrumpida'. Revisar el teléfono o escuchar podcasts/música mientras camina obliga a la corteza prefrontal a procesar información externa, anulando la activación de la DMN y reduciendo los beneficios del BDNF. Para despejar su mente como Dickens, desconecte los auriculares y guarde el teléfono durante 20 a 30 minutos.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ La base de una caminata de pensamiento es otorgar al cerebro una 'pausa cognitiv
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Aislar los Estímulos Digitales y Crear un Vacío Sensorial
+
+La base de una caminata de pensamiento es otorgar al cerebro una 'pausa cognitiva ininterrumpida'. Revisar el teléfono o escuchar podcasts/música mientras camina obliga a la corteza prefrontal a procesar información externa, anulando la activación de la DMN y reduciendo los beneficios del BDNF. Para despejar su mente como Dickens, desconecte los auriculares y guarde el teléfono durante 20 a 30 minutos.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Es aceptable escuchar música clásica suave en el teléfono mientras camino?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ La base de una caminata de pensamiento es otorgar al cerebro una 'pausa cognitiv
       No, es preferible evitar el audio por completo. La entrada auditiva —incluso la música suave— obliga a la corteza auditiva a analizar patrones, inhibiendo la DMN. Para lograr un reinicio cognitivo total, quítese los auriculares y permita que su mente vague entre los sonidos ambientales.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Para un profesional moderno es irreal caminara 3 horas diarias como Dickens. ¿Existe una alternativa práctica?</span>

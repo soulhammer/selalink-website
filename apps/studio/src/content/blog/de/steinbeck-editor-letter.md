@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Angst vor dem Anfang überwinden: John Steinbecks Aufwärm-Brief-Routine"
 description: "Der Schriftsteller John Steinbeck schrieb täglich Briefe an seinen Lektor, um die Angst vor dem leeren Blatt zu lösen. Erfahren Sie, wie freies Schreiben die Sprachmotorik aktiviert."
 pubDate: "2026-05-07"
@@ -33,25 +34,23 @@ In diesem Beitrag untersuchen wir, wie Steinbecks Brief-Routine Angstreaktionen 
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu steinbeck-editor-letter basiert auf <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
+      Dieser Inhalt basiert auf <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neuronale Pfade zur Überwindung von Perfektionismus & Amygdala-Angst
+## 1. Neuronale Pfade zur Überwindung von Perfektionismus & Amygdala-Angst
 
 Wenn das Gehirn eine Aufgabe als bedeutungsvoll einstuft, schlägt die Amygdala Alarm und löst Prokrastination aus. Zwangloses Aufwärmschreiben signalisiert dem Gehirn eine 'bewertungsfreie Zone', was die Amygdala beruhigt und die Sprachmotorik sanft anwirft.
 
 ---
 
-## Vorsichtsmaßnahmen & Tipps
-
-Die Hauptgefahr besteht darin, dass das Aufwärmen zu einer neuen Form der Prokrastination wird. Wenn Sie länger als 30 Minuten schreiben, ermüden Sie. Begrenzen Sie das Aufwärmen strikt auf maximal 5 Minuten und wechseln Sie danach sofort zur Hauptaufgabe.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Die Hauptgefahr besteht darin, dass das Aufwärmen zu einer neuen Form der Prokr
     Wechseln Sie mit aufgewärmter Sprachmotorik ohne Zögern sofort zu Ihrer eigentlichen Arbeit (Bericht, Manuskript, Lernen).
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen & Tipps
+
+Die Hauptgefahr besteht darin, dass das Aufwärmen zu einer neuen Form der Prokrastination wird. Wenn Sie länger als 30 Minuten schreiben, ermüden Sie. Begrenzen Sie das Aufwärmen strikt auf maximal 5 Minuten und wechseln Sie danach sofort zur Hauptaufgabe.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

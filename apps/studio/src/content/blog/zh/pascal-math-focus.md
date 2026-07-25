@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "布莱士·帕斯卡的几何沉浸：如何通过高难度任务消除大脑中的疼痛与压力"
 description: "探索17世纪天才布莱士·帕斯卡通过高难度数学沉浸克服剧烈牙痛与头痛的历史事实，以及注意门控（Attentional Gating）的科学原理。"
 pubDate: "2026-06-06"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 pascal-math-focus 的内容基于 <strong>Pascal Math Focus 历史传记与自传记录考证 & 认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>Pascal Math Focus 历史传记与自传记录考证 & 认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 高难度认知沉浸消除身心不适的科学原因
+## 1. 高难度认知沉浸消除身心不适的科学原因
 
 现代脑科学将其解释为“注意门控理论（Attentional Gating Theory）”。当人类前额叶皮层100%投入到高难度的认知任务中时，丘脑（Thalamus）神经网络会积极门控（阻断）低阶的疼痛与压力感觉信号，使其无法被感知。
 
 ---
 
-## 帕斯卡沉浸注意事项及脑科学技巧
-
-当杂念或压力袭来时，不要试图硬抗。请立即切换到能够100%占用工作记忆（Working Memory）的高难度谜题或阅读任务中，开启大脑的感觉阻断阀15至20分钟。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 帕斯卡沉浸注意事项及脑科学技巧
+
+当杂念或压力袭来时，不要试图硬抗。请立即切换到能够100%占用工作记忆（Working Memory）的高难度谜题或阅读任务中，开启大脑的感觉阻断阀15至20分钟。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>这种方法对日常工作压力或焦虑也有效吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       是的。大脑丘脑（Thalamus）的门控机制不仅能阻断身体疼痛，还能以相同的方式阻断心理焦虑与压力信号。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>高难度沉浸冲刺维持多长时间比较合适？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "The Secret to 24-Hour Peak Physique? Cristiano Ronaldo's 90-Minute Polyphasic Sleep Method"
 description: "Cristiano Ronaldo, one of the world's top footballers. Discover the sleep science and practical tips behind his routine of taking five 90-minute sleep cycles daily to maximize physical recovery."
 pubDate: "2026-01-20"
@@ -32,14 +33,14 @@ faqs:
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding ronaldo-polyphasic-sleep is based on <strong>Historical Biographies and Autobiographical Records of Cristiano Ronaldo & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Biographies and Autobiographical Records of Cristiano Ronaldo & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 90-Minute R90 Cycles and Optimizing Growth Hormone Release
+## 1. 90-Minute R90 Cycles and Optimizing Growth Hormone Release
 
 A natural human sleep cycle consists of Non-REM and REM sleep lasting approximately 90 minutes. Forcing yourself awake mid-cycle causes 'sleep inertia,' leaving the brain groggy. 
 
@@ -47,9 +48,7 @@ Ronaldo's 90-minute polyphasic sleep respects the natural unit of the brain's sl
 
 ---
 
-## Blackout Environment and Sleep Posture Determine Sleep Efficiency
-
-To succeed with polyphasic sleep or power naps, environmental control must be absolute. Minor light leaks or ambient noises disrupt deep brain relaxation. To reduce cardiovascular stress and keep the spine aligned, sleep in a fetal position lying on your side with knees gently bent.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ To succeed with polyphasic sleep or power naps, environmental control must be ab
   </p>
 </div>
 
+---
+
+## 3. Blackout Environment and Sleep Posture Determine Sleep Efficiency
+
+To succeed with polyphasic sleep or power naps, environmental control must be absolute. Minor light leaks or ambient noises disrupt deep brain relaxation. To reduce cardiovascular stress and keep the spine aligned, sleep in a fetal position lying on your side with knees gently bent.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Do I need to do polyphasic sleep during the day if I sleep well at night?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ To succeed with polyphasic sleep or power naps, environmental control must be ab
       For typical office workers, repeating 90-minute sleep sessions during the day is unnecessary. However, if you undergo high-intensity physical training or suffer sleep loss from late-night work, temporarily applying a 90-minute cycle or a 30-minute nap is a great way to reset your body.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>When sleeping in the fetal position, which side is better to lie on?</span>

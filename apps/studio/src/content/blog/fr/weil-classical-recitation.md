@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le secret d'une attention absolue : La routine de récitation classique matinale de la philosophe Simone Weil"
 description: "Découvrez la routine de récitation classique en grec matinale de la philosophe française Simone Weil pour entraîner l'attention pure et stimuler le cortex préfrontal."
 pubDate: "2026-07-11"
@@ -33,25 +34,23 @@ Dans cet article, nous analysons les fondements scientifiques de la routine de W
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant weil-classical-recitation est basée sur <strong>Archives historiques sur Simone Weil & Recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Archives historiques sur Simone Weil & Recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Impact de la lecture à voix haute et de la récitation sur le cortex préfrontal
+## 1. Impact de la lecture à voix haute et de la récitation sur le cortex préfrontal
 
 Réciter à voix haute des phrases classiques complexes stimule le cortex préfrontal dorsolatéral. Contrairement à la lecture silencieuse, la récitation est un processus multisensoriel activant simultanément les cortices visuel, moteur et auditif, ce qui dissipe le brouillard mental.
 
 ---
 
-## Concentrez-vous sur le processus de résonance du son et du texte
-
-Pour Simone Weil, la récitation matinale était une méditation active. Il n'est pas nécessaire de lire du grec ancien. Prenez 5 minutes chaque matin pour lire à voix haute un court poème ou une citation philosophique. Fixer votre attention sur le rythme de votre voix recharge votre cerveau.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Pour Simone Weil, la récitation matinale était une méditation active. Il n'es
     Une fois la lecture terminée, asseyez-vous bien droit, fermez les yeux et respirez profondément pendant 2 minutes avant de commencer votre tâche.
   </p>
 </div>
+
+---
+
+## 3. Concentrez-vous sur le processus de résonance du son et du texte
+
+Pour Simone Weil, la récitation matinale était une méditation active. Il n'est pas nécessaire de lire du grec ancien. Prenez 5 minutes chaque matin pour lire à voix haute un court poème ou une citation philosophique. Fixer votre attention sur le rythme de votre voix recharge votre cerveau.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

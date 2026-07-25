@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "El Gran Comienzo del Maestro: La Rutina Diaria de Guion de 2 Páginas de Akira Kurosawa y la Estabilización de la Amígdala"
 description: "Descubra cómo el legendario director Akira Kurosawa creó obras maestras escribiendo 2 páginas de guion todos los días. Explore la neurociencia de los microobjetivos, la supresión de la respuesta de amenaza de la amígdala y la activación prefrontal."
 pubDate: "2026-05-07"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la psicología conductual y la neurocienci
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre kurosawa-page-writing se basa en <strong>Verificación Histórica de las Memorias de Akira Kurosawa *Algo parecido a una autobiografía*, Archivos de Kurosawa e Investigación en Neurociencia Cognitiva y Psicología Conductual</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de las Memorias de Akira Kurosawa *Algo parecido a una autobiografía*, Archivos de Kurosawa e Investigación en Neurociencia Cognitiva y Psicología Conductual</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Supresión de la Respuesta de Amenaza de la Amígdala y Neurociencia de los Microobjetivos
+## 1. Supresión de la Respuesta de Amenaza de la Amígdala y Neurociencia de los Microobjetivos
 
 Cuando una meta parece abrumadora, la <strong>Amígdala</strong> —el centro emocional del cerebro— la interpreta como una amenaza, desencadenando evasión y procrastinación. Reducir el objetivo diario a una cuota pequeña, como escribir 2 páginas, mantiene la tarea por debajo del umbral de amenaza de la amígdala. Esta estrategia de <strong>Microobjetivos (Micro-Goal)</strong> elimina la resistencia cognitiva, permitiendo que la <strong>Corteza Prefrontal</strong> active su <strong>Función Ejecutiva</strong> para completar proyectos a largo plazo.
 
 ---
 
-## Precaución: Elimine la Presión del Proyecto Global para Centrarse en Cumplir el Microobjetivo Diario
-
-Pensar en la escala total de un proyecto genera una gran sobrecarga cognitiva, haciendo que el cerebro se rinda antes de empezar. Limite su atención exclusivamente al pequeño microobjetivo de hoy (p. ej., escribir 2 páginas). En lugar de depender de una fuerza de voluntad inconstante, fijar la regla de completar 2 páginas a una hora determinada es la clave para lograr resultados monumentales.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Pensar en la escala total de un proyecto genera una gran sobrecarga cognitiva, h
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine la Presión del Proyecto Global para Centrarse en Cumplir el Microobjetivo Diario
+
+Pensar en la escala total de un proyecto genera una gran sobrecarga cognitiva, haciendo que el cerebro se rinda antes de empezar. Limite su atención exclusivamente al pequeño microobjetivo de hoy (p. ej., escribir 2 páginas). En lugar de depender de una fuerza de voluntad inconstante, fijar la regla de completar 2 páginas a una hora determinada es la clave para lograr resultados monumentales.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Un objetivo diario de solo 2 páginas no es demasiado pequeño para lograr un avance significativo?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Pensar en la escala total de un proyecto genera una gran sobrecarga cognitiva, h
       De ninguna manera. Cuando las metas son demasiado grandes, el miedo a empezar provoca procrastinación, resultando en cero trabajo. Iniciar la acción diaria con un objetivo ultrapequeño se acumula en un año en más de 700 páginas, logrando de dos a tres guiones completos.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Puedo aplicar esta rutina de 2 páginas al trabajo de oficina, programación o estudio de exámenes?</span>

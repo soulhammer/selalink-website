@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metode Catatan Tiada Henti Plinius yang Tua: Cara Tulisan Tangan Membangkitkan Otak dan Menguasai Ingatan"
 description: "Bagikan rahasia mencatat cendekiawan Romawi Plinius yang Tua, yang menghimpun pengetahuan luas dengan meminta sekretaris membacakan buku dan mencatat bahkan saat makan atau bepergian."
 pubDate: "2026-05-12"
@@ -33,25 +34,23 @@ Semangat belajarnya yang tidak pernah menghentikan pena telah terbukti, bahkan d
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai pliny-reading-excerpt didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi tentang Kutipan Membaca Plinius & penelitian ilmu saraf kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi kritis historis dan catatan autobiografi tentang Kutipan Membaca Plinius & penelitian ilmu saraf kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Mengapa Mencatat Kutipan Lebih Unggul Secara Kognitif Dibanding Sekadar Membaca
+## 1. Mengapa Mencatat Kutipan Lebih Unggul Secara Kognitif Dibanding Sekadar Membaca
 
 Sikap receptif pasif yang hanya membaca teks dengan mata menyebabkan otak dengan mudah menumpahkan informasi keluar dari penyimpanan memori jangka pendek. Sebaliknya, saat merangkum inti teks dan mencatatnya dengan tulisan tangan fisik, gerakan halus jari memicu sistem aktivasi retikuler (RAS) di batang otak, secara kuat mengaktifkan seluruh otak. Karena otak harus menyaring dan merekonstruksi informasi selama proses ini, petunjuk pengambilan ingatan yang kuat akan tertanam, menetap dengan stabil ke dalam ingatan jangka panjang.
 
 ---
 
-## Panduan untuk Mencatat Kutipan secara Cerdas
-
-Hindari tindakan menyalin secara mentah seluruh paragraf dari buku (transkripsi). Ini mendekati kerja fisik sederhana yang mengabaikan otak, hanya menyebabkan kelelahan kognitif. Petik dan tulis tangan secara selektif hanya kalimat yang memberi inspirasi atau kata kunci utama. Selain itu, biasakan untuk selalu mencantumkan sumber buku dan nomor halaman dalam kurung agar pengetahuan yang dikutip dapat dilacak kembali nantinya.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Hindari tindakan menyalin secara mentah seluruh paragraf dari buku (transkripsi)
   </p>
 </div>
 
+---
+
+## 3. Panduan untuk Mencatat Kutipan secara Cerdas
+
+Hindari tindakan menyalin secara mentah seluruh paragraf dari buku (transkripsi). Ini mendekati kerja fisik sederhana yang mengabaikan otak, hanya menyebabkan kelelahan kognitif. Petik dan tulis tangan secara selektif hanya kalimat yang memberi inspirasi atau kata kunci utama. Selain itu, biasakan untuk selalu mencantumkan sumber buku dan nomor halaman dalam kurung agar pengetahuan yang dikutip dapat dilacak kembali nantinya.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah menulis dengan pena di tablet atau mengetik dengan papan ketik memiliki efektivitas yang sama?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Hindari tindakan menyalin secara mentah seluruh paragraf dari buku (transkripsi)
       Menulis secara langsung dengan pena digital di tablet memberikan efek yang sangat mirip dengan pena fisik. Namun, mengetik dengan papan ketik adalah tindakan masukan otomatis yang hampir tidak disertai pemrosesan kognitif. Kecepatan tulisan tangan yang lebih lambat memaksa otak untuk merangkum dan mencerna informasi, secara signifikan meningkatkan tingkat retensi ingatan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ada cara untuk mengatur catatan kutipan agar tidak hilang saat jumlahnya bertambah banyak?</span>

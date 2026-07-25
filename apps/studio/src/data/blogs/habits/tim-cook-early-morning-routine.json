@@ -1,216 +1,318 @@
 {
   "tim-cook-early-morning-routine": {
-    "title": {
-      "ko": "새벽 3시 45분에 일어나 100통의 메일을 읽는 CEO? 팀 쿠크의 아침 제어 루틴",
-      "en": "A CEO Waking Up at 3:45 AM to Read 100 Emails? Tim Cook's Morning Control Routine",
-      "ja": "午前3時45分に起きて100通のメールを読むCEO？ ティム・クックの朝のコントロールルーティン",
-      "zh": "凌晨3:45起床阅读100封邮件的CEO？蒂姆·库克的晨间掌控习惯",
-      "es": "¿Un CEO que se levanta a las 3:45 AM para leer 100 correos? La rutina de control matutino de Tim Cook",
-      "de": "Ein CEO, der um 3:45 Uhr aufsteht, um 100 E-Mails zu lesen? Tim Cooks morgendliche Kontrollroutine",
-      "fr": "Un PDG qui se lève à 3h45 pour lire 100 e-mails ? La routine de contrôle matinale de Tim Cook",
-      "pt": "Um CEO que acorda às 3h45 para ler 100 e-mails? A rotina de controle matinal de Tim Cook",
-      "id": "CEO yang Bangun Jam 3:45 Pagi untuk Membaca 100 Email? Rutinitas Kontrol Pagi Tim Cook"
-    },
-    "description": {
-      "ko": "세계 최대 IT 기업 애플(Apple)을 이끄는 수장 팀 쿠크. 매일 새벽 3시 45분에 기상해 사용자 피드백 메일을 읽고 5시에 운동하는 그의 주도권 확보 루틴과 3단계 실천법을 알아봅니다.",
-      "en": "Tim Cook, the head of Apple, the world's largest IT company. Discover his daily routine of waking up at 3:45 AM to read user feedback emails and workout at 5:00 AM to secure daily autonomy, along with a 3-step guide.",
-      "ja": "世界最大のIT企業アップル（Apple）を率いるトップ、ティム・クック。毎日午前3時45分に起床してユーザーのフィードバックメールを読み、5時に運動する彼の主導権確保ルーティンと3ステップ実践法を紹介します。",
-      "zh": "掌舵全球最大IT企业苹果（Apple）的掌门人蒂姆·库克。了解他每天凌晨3:45起床阅读用户反馈邮件、5:00进行健身以确保掌控权的早晨习惯与3步骤实践法。",
-      "es": "Tim Cook, el líder de Apple, la empresa de TI más grande del mundo. Descubra su rutina diaria de levantarse a las 3:45 AM para leer correos de usuarios y hacer ejercicio a las 5:00 AM para asegurar el control, junto con una guía de 3 pasos.",
-      "de": "Tim Cook, der Chef von Apple, dem größten IT-Unternehmen der Welt. Erfahren Sie mehr über seine Routine, um 3:45 Uhr aufzustehen, Feedback-E-Mails zu lesen und um 5:00 Uhr zu trainieren, um die Kontrolle über den Tag zu übernehmen.",
-      "fr": "Tim Cook, à la tête d'Apple, la plus grande entreprise informatique du monde. Découvrez sa routine quotidienne consistant à se lever à 3h45 pour lire les e-mails des utilisateurs et s'entraîne à 5h00 pour prendre le contrôle de sa journée.",
-      "pt": "Tim Cook, o líder da Apple, a maior empresa de TI do mundo. Descubra sua rotina diária de acordar às 3h45 para ler e-mails de feedback dos usuários e se exercitar às 5h00 para garantir a autonomia diária.",
-      "id": "Tim Cook, pemimpin Apple, perusahaan IT terbesar di dunia. Temukan rutinitas harian bangun jam 3:45 pagi untuk membaca email umpan balik pengguna dan berolahraga jam 5:00 pagi untuk merebut kendali harian, beserta panduan 3 langkah."
-    },
-    "authority": {
-      "ko": "팀 쿠크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
-      "en": "Historical biographies and autobiographical records of Tim Cook & Cognitive Neuroscience research",
-      "ja": "ティム・クックの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究",
-      "zh": "蒂姆·库克历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究",
-      "es": "Biografías históricas y registros autobiográficos de Tim Cook e investigación en Neurociencia Cognitiva",
-      "de": "Historische Biografien und autobiografische Aufzeichnungen über Tim Cook & kognitive Neurowissenschaften",
-      "fr": "Biographies historiques et données autobiographiques sur Tim Cook et recherches en neurosciences cognitives",
-      "pt": "Biografias históricas e registros autobiográficos de Tim Cook e pesquisas em Neurociência Cognitiva",
-      "id": "Biografi historis dan catatan autobiografi Tim Cook & penelitian Neurosains Kognitif"
-    },
-    "intro": {
-      "ko": "글로벌 IT 제국 애플(Apple)의 CEO로서 매일 수억 명의 일상과 수조 달러의 의사결정을 지휘하는 세계 최고의 경영자, 팀 쿠크(Tim Cook). 세상의 모든 외부 소음과 메시지가 몰아치기 전, 그가 하루를 완전한 자신의 주도하에 두기 위해 고수한 최고의 아침 비밀은 무엇일까요? ⌚\n\n쿠크는 매일 새벽 3시 45분에 알람 없이 자연스럽게 눈을 뜹니다. 그는 기상 직후 1시간 동안 전 세계 사용자들이 보낸 100여 통의 솔직한 제품 피드백 이메일을 읽고 응답하며 현장의 목소리를 직접 확인합니다. 이어 새벽 5시에는 회사 밖 사설 헬스장으로 이동해 1시간 동안 고강도 웨이트 트레이닝과 유산소 운동에 전념합니다. 세상이 잠든 이 새벽 시간이야말로 타인의 업무 요구에 수동적으로 반응하지 않고, 자신의 에너지와 우선순위를 주도적으로 설계하는 '완전 통제의 시간'입니다.\n\n오늘 포스트에서는 팀 쿠크의 '새벽 주도권 확보' 루틴의 뇌과학적 작동 원리와 현대 직장인들이 하루의 주도권을 장악하는 3단계 실천법을 공개합니다.",
-      "en": "Tim Cook, the top executive who leads Apple and directs the daily lives of hundreds of millions of people and trillions of dollars in decisions. What is his ultimate morning secret for keeping the day under his absolute control before external noise and messages storm in? ⌚\n\nCook wakes up naturally every morning at 3:45 AM. For the first hour after waking, he reads and responds to around 100 honest product feedback emails sent by users worldwide, listening directly to customer voices. Then at 5:00 AM, he moves to an off-site gym for a 1-hour workout of strength training and cardio. This early morning hour while the world sleeps is a time of 'total control' where he proactively shapes his energy and priorities rather than reactively responding to others' demands.\n\nIn today's post, we reveal the neuroscientific working principles behind Tim Cook's 'early morning control' routine and a 3-step practical method for modern workers to take charge of their day.",
-      "ja": "グローバルIT帝国アップル（Apple）のCEOとして、毎日数億人の日常と数兆ドルの意思決定を指揮する世界最高の経営者ティム・クック（Tim Cook）。世の中のあらゆる外部ノイズやメッセージが押し寄せる前に、彼が一日の主導権を完全に手中に収めるために貫いてきた最高の朝の秘密とは何でしょうか？ ⌚\n\nクックは毎朝午前3時45分に自然と目を覚まします。彼は起床直後の1時間、世界中のユーザーから届いた約100通の率直な製品フィードバックメールを読んで返信し、現場の声を直接確認します。続いて午前5的には社外のジムへ移動し、1時間高強度のウェイトトレーニングと有酸素運動に専念します。世界が眠るこの早朝の時間こそ、他人の業務要求に受動的に反応するのではなく、自身のエネルギーと優先順位を主導的に設計する「完全統制の時間」なのです。\n\n今日の記事では、ティム・クックの「早朝の主導権確保」ルーティンの脳科学的作動原理と、現代の社会人が一日の主導権を握る3ステップ実践法を公開します。",
-      "zh": "作为全球IT帝国苹果（Apple）的CEO，掌控着数亿人日常生活与数万亿美元决策的世界顶尖管理者蒂姆·库克（Tim Cook）。在外界的所有噪音与纷繁消息涌来之前，他为了将一天完全置于自己掌控之下而坚持的晨间秘诀究竟是什么？ ⌚\n\n库克每天早晨3:45自然醒来。起床后的第一个小时，他会阅读并回复来自全球用户寄来的约100封坦诚的产品反馈邮件，亲自聆听一线的真实声音。随后在凌晨5:00，他前往社外的私立健身房进行1小时的高强度力量训练与有氧运动。在这万籁俱寂的清晨，并非被动回应他人的工作需求，而是主动规划自己的精力与优先事项的“绝对掌控时刻”。\n\n在今天的文章中，我们将揭示蒂姆·库克“晨间掌控权”习惯 responses 的脑科学运作原理，以及现代职场人掌控全天的3步骤实践法。",
-      "es": "Tim Cook, el máximo ejecutivo que lidera Apple y dirige la vida diaria de cientos de millones de personas y decisiones de billones de dólares. ¿Cuál es su secreto matutino definitivo para mantener el día bajo su control absoluto antes de que lleguen los mensajes del exterior? ⌚\n\nCook se despierta naturalmente cada mañana a las 3:45 AM. Durante la primera hora, lee y responde unos 100 correos de comentarios sinceros sobre productos enviadas por usuarios de todo el mundo. Luego, a las 5:00 AM, acude a un gimnasio para entrenar fuerza y cardio durante 1 hora. Esta hora de la mañana, mientras el mundo duerme, es un momento de 'control total' en el que diseña sus prioridades de forma proactiva.\n\nEn la publicación de hoy, revelamos los principios neurocientíficos detrás de la rutina de 'control al amanecer' de Tim Cook y un método práctico de 3 pasos para los trabajadores modernos.",
-      "de": "Tim Cook, der Chef von Apple, der täglich hunderte Millionen Menschen und Entscheidungen in Billionenhöhe lenkt. Was ist sein morgendliches Geheimnis, um den Tag unter seine Kontrolle zu bringen, bevor Ablenkungen hereinbrechen? ⌚\n\nCook wacht jeden Morgen um 3:45 Uhr auf. In der ersten Stunde liest und beantwortet er etwa 100 ehrliche Produkt-Feedback-E-Mails von Nutzern weltweit. Um 5:00 Uhr absolviert er ein einstündiges Workout im Fitnessstudio. Diese frühe Stunde, während die Welt schläft, ist eine Zeit der 'vollständigen Kontrolle', in der er seine Prioritäten vorausschauend gestaltet.\n\nIm heutigen Beitrag enthüllen wir die neurowissenschaftlichen Prinzipien von Tim Cooks morgendlicher Routine und eine 3-Schritte-Methode für moderne Arbeitnehmer.",
-      "fr": "Tim Cook, le dirigeant qui mène Apple et oriente le quotidien de centaines de millions de personnes et des décisions de milliers de milliards de dollars. Quel est son secret matinal ultime pour garder le contrôle absolu de sa journée avant que les distractions n'arrivent ? ⌚\n\nCook se réveille naturellement chaque matin à 3h45. Pendant la première heure, il lit et répond à environ 100 e-mails de retours sincères d'utilisateurs du monde entier. Puis à 5h00, il s'entraîne pendant 1 heure dans une salle de sport. Cette heure matinale où le monde dort est un moment de 'contrôle total' où il façonne ses priorités de manière proactive.\n\nDans cet article, nous révélons les principes neuroscientifiques de la routine matinale de Tim Cook et une méthode pratique en 3 étapes pour les professionnels d'aujourd'hui.",
-      "pt": "Tim Cook, o líder que comanda a Apple e direciona a vida diária de centenas de milhões de pessoas e decisões de trilhões de dólares. Qual é o seu segredo matinal definitivo para manter o dia sob seu controle absoluto antes que cheguem as distrações externas? ⌚\n\nCook acorda naturalmente todas as manhãs às 3h45. Durante a primeira hora, ele lê e responde a cerca de 100 e-mails de feedback sincero enviados por usuários de todo o mundo. Às 5h00, ele vai para a academia para 1 hora de treino. Esta hora matinal enquanto o mundo dorme é um momento de 'controle total', onde ele molda suas prioridades proativamente.\n\nNo post de hoje, revelamos os princípios neurocientíficos por trás da rotina matinal de Tim Cook e um método prático de 3 passos para os profissionais modernos.",
-      "id": "Tim Cook, eksekutif puncak yang memimpin Apple dan mengarahkan kehidupan harian ratusan juta orang serta keputusan senilai triliunan Dolar. Apa rahasia pagi utamanya untuk menjaga hari tetap di bawah kendali mutlak sebelum gangguan luar datang? ⌚\n\nCook bangun secara alami setiap pagi jam 3:45. Pada jam pertama, ia membaca dan membalas sekitar 100 email umpan balik jujur tentang produk yang dikirim oleh pengguna di seluruh dunia. Lalu jam 5:00 pagi, ia pergi ke gym untuk latihan beban dan kardio selama 1 jam. Jam pagi saat dunia masih tidur ini adalah saat 'kendali penuh' di mana ia secara proaktif merancang prioritasnya daripada sekadar merespons tuntutan orang lain.\n\nDalam postingan hari ini, kami mengungkap prinsip kerja neurosains di balik rutinitas kontrol pagi Tim Cook dan metode praktis 3 langkah bagi pekerja modern."
-    },
-    "whyTitle": {
-      "ko": "전두엽 포도당 예산 보호와 자아 고갈 예방 메커니즘",
-      "en": "Prefrontal Glucose Budget Protection and Ego Depletion Prevention Mechanism",
-      "ja": "前頭葉のグルコース予算保護と自己枯渇予防のメカニズム",
-      "zh": "保护前额叶葡萄糖预算与防止自我损耗的机制",
-      "es": "Protección del presupuesto de glucosa prefrontal y prevención del agotamiento del ego",
-      "de": "Schutz des präfrontalen Glukose-Budgets und Schutz vor Ego-Depletion",
-      "fr": "Protection du budget de glucose préfrontal et prévention de l'épuisement de l'ego",
-      "pt": "Proteção do orçamento de glicose pré-frontal e prevenção do esgotamento do ego",
-      "id": "Proteksi Anggaran Glukosa Prefrontal dan Mekanisme Pencegahan Ego Depletion"
-    },
-    "whyDesc": {
-      "ko": "인간의 뇌, 특히 전두엽 피질(Prefrontal Cortex)이 의사결정 시 사용하는 에너지 자원은 유한합니다. 낮 동안 타인의 요청과 수동적 이메일에 치이다 보면, 정작 중요한 전략적 판단을 내릴 때 뇌는 <strong>자아 고갈(Ego Depletion)</strong> 상태에 빠지게 됩니다.\n\n새벽 3시 45분의 조용한 아침 자율성은 뇌의 포도당과 실행 통제력(Executive Control)을 100% 온전하게 보존하여, 하루 중 가장 맑은 뇌 상태에서 핵심 우선순위 결정과 신체 운동을 완수하도록 돕습니다.",
-      "en": "The energy resources used by the human brain, particularly the Prefrontal Cortex, during decision-making are finite. If you are dragged around during the day by others' requests and reactive emails, your brain falls into a state of <strong>Ego Depletion</strong> when it comes time to make truly important strategic judgments.\n\nThe quiet morning autonomy at 3:45 AM preserves 100% of the brain's glucose and executive control, helping you accomplish core priority decisions and physical workouts in your clearest mental state.",
-      "ja": "人間の脳、特に前頭葉皮質（Prefrontal Cortex）が意思決定時に使用するエネルギー資源には限りがあります。日中に他人の要求や受動的なメールに追われていると、真に重要な戦略的判断を下す時に脳は<strong>自己枯渇（Ego Depletion）</strong>状態に陥ってしまいます。\n\n午前3時45分の静かな朝の自主性は、脳のグルコースと実行統制力（Executive Control）を100%健全に保存し、一日の中で最も澄んだ脳の状態で核心的な優先順位の決定と身体運動を完遂できるよう助けます。",
-      "zh": "人类大脑，特别是前额叶皮层（Prefrontal Cortex）在进行决策时所使用的能量资源是有限的。如果白天终日应对他人的要求与被动的邮件，当需要做出真正重要的战略抉择时，大脑就会陷入<strong>自我损耗（Ego Depletion）</strong>状态。\n\n凌晨3:45安静的早晨自主权能够100%完整地保存大脑的葡萄糖与执行控制力（Executive Control），助您在一天中最清醒的大脑状态下完成核心优先事项的决策与身体锻炼。",
-      "es": "Los recursos de energía utilizados por el cerebro, especialmente la Corteza Prefrontal, al tomar decisiones son finitos. Si durante el día se ve abrumado por las solicitudes de otros y correos reactivos, su cerebro entra en un estado de <strong>Agotamiento del Ego (Ego Depletion)</strong> al tomar decisiones estratégicas.\n\nLa tranquila autonomía matutina a las 3:45 AM preserva el 100% de la glucosa y el control ejecutivo del cerebro, ayudándole a tomar decisiones prioritarias clave y ejercitarse.",
-      "de": "Die Energieressourcen des Gehirns, insbesondere des Präfrontalkortex, sind bei Entscheidungen begrenzt. Wenn Sie tagsüber von Anfragen und E-Mails getrieben werden, gerät das Gehirn bei wichtigen Entscheidungen in den Zustand der <strong>Ego-Depletion (Ich-Erschöpfung)</strong>.\n\nDie morgendliche Autonomie um 3:45 Uhr bewahrt 100% der Glukose und der exekutiven Kontrolle, um Kernentscheidungen und Workouts im klarsten Zustand zu bewältigen.",
-      "fr": "Les ressources énergétiques utilisées par le cortex préfrontal lors de la prise de décision sont limitées. Si vous êtes sollicité par les demandes des autres et des e-mails réactifs, votre cerveau tombe dans un état <strong>d'épuisement de l'ego (Ego Depletion)</strong> au moment de trancher.\n\nL'autonomie matinale à 3h45 préserve 100% du glucose et du contrôle exécutif, vous aidant à accomplir vos décisions prioritaires et votre entraînement avec un esprit totalement clair.",
-      "pt": "Os recursos de energia usados pelo cérebro, especialmente o Córtex Pré-Frontal, durante a tomada de decisões são finitos. Se durante o dia você for arrastado por solicitações e e-mails reativos, seu cérebro entra em um estado de <strong>Esgotamento do Ego (Ego Depletion)</strong>.\n\nA tranquila autonomia matinal às 3h45 preserva 100% da glicose e do controle executivo do cérebro, ajudando a realizar decisões prioritárias e treinos no estado mental mais claro.",
-      "id": "Sumber daya energi yang digunakan otak manusia, khususnya Korteks Prefrontal, saat mengambil keputusan bersifat terbatas. Jika sepanjang hari Anda terseret oleh permintaan orang lain dan email reaktif, otak Anda akan jatuh ke dalam kondisi <strong>Ego Depletion</strong> saat tiba waktunya membuat keputusan strategis.\n\nOtonomi pagi yang tenang pada jam 3:45 pagi menjaga 100% glukosa dan kontrol eksekutif otak, membantu Anda menyelesaikan keputusan prioritas utama dan olahraga fisik dalam kondisi mental paling jernih."
-    },
-    "cautionTitle": {
-      "ko": "수면 시간 축소에 따른 뇌 피로 누적 주의",
-      "en": "Beware of Brain Fatigue Accumulation from Sleep Reduction",
-      "ja": "睡眠時間の削減に伴う脳の疲労蓄積への注意",
-      "zh": "注意因削减睡眠时间导致的大脑疲劳累积",
-      "es": "Cuidado con la acumulación de fatiga cerebral por reducción del sueño",
-      "de": "Achtung vor Gehirnmüdigkeit durch Schlafentzug",
-      "fr": "Attention à l'accumulation de fatigue cérébrale due à la réduction du sommeil",
-      "pt": "Cuidado com o acúmulo de fadiga cerebral devido à redução do sono",
-      "id": "Waspadai Penumpukan Kelelahan Otak Akibat Pengurangan Waktu Tidur"
-    },
-    "cautionDesc": {
-      "ko": "팀 쿠크의 기상 루틴을 흉내 내기 위해 밤늦게 자면서 무리하게 새벽 일찍 일어나면 전두엽 세포에 만성 피로가 쌓여 판단력이 저하됩니다. 얼리 버드 루틴의 본질은 기상 시각 자체가 아니라 '일찍 자고 일찍 깨어 주도권을 쥐는 것'에 있음을 잊지 마세요.",
-      "en": "If you force yourself to wake up early at dawn while staying up late to mimic Tim Cook's routine, chronic fatigue will accumulate in prefrontal cells, impairing judgment. Remember that the essence of an early bird routine is not the wake-up time itself, but 'sleeping early and waking early to take control'.",
-      "ja": "ティム・クックの起床ルーティンを模倣するために夜遅くまで起きているのに無理をして早朝に起きると、前頭葉細胞に慢性疲労が蓄積し判断力が低下します。アーリーバード（早起き）ルーティンの本質は起床時刻そのものではなく、「早く寝て早く起き、主導権を握ること」にあることを忘れないでください。",
-      "zh": "若为了效仿蒂姆·库克的早起习惯而熬夜并强行凌晨起床，前额叶细胞会累积慢性疲劳导致判断力下降。请务必记住，早起习惯的本质并非起床时间本身，而在于“早睡早起以掌握主动权”。",
-      "es": "Si se fuerza a levantarse temprano al amanecer mientras se acuesta tarde para imitar a Tim Cook, se acumulará fatiga crónica en las células prefrontales, perjudicando el juicio. Recuerde que la esencia de levantarse temprano no es la hora en sí, sino 'dormir temprano y despertar temprano para tomar el control'.",
-      "de": "Wenn Sie versuchen, Tim Cooks Routine nachzuahmen, indem Sie spät ins Bett gehen und früh aufstehen, sammelt sich Müdigkeit im Präfrontalkortex an. Die Essenz des Frühaufstehens liegt darin, 'früh zu schlafen und früh aufzustehen, um die Kontrolle zu übernehmen'.",
-      "fr": "Si vous vous forcez à vous lever tôt en vous couchant tard pour imiter Tim Cook, une fatigue chronique s'accumulera dans votre cortex préfrontal, diminuant votre jugement. N'oubliez pas que l'essence du réveil matinal est de 'dormir tôt et se lever tôt pour prendre le contrôle'.",
-      "pt": "Se você se forçar a acordar cedo enquanto vai dormir tarde para imitar Tim Cook, a fadiga crônica se acumulará nas células pré-frontais, prejudicando o julgamento. Lembre-se de que a essência da rotina matinal não é a hora em si, mas 'dormir cedo e acordar cedo para assumir o controle'.",
-      "id": "Jika Anda memaksa bangun pagi-pagi fajar padahal tidur larut malam demi meniru Tim Cook, kelelahan kronis akan menumpuk di sel-sel prefrontal sehingga memperburuk daya pikir. Ingatlah bahwa esensi rutinitas bangun pagi bukanlah jam bangun itu sendiri, melainkan 'tidur cepat dan bangun cepat untuk mengambil kendali'."
-    },
-    "steps": [
-      {
-        "name": {
-          "ko": "1단계: 외부 소음 제로 타임블록 확보",
-          "en": "Step 1: Securing a Zero External Noise Time Block",
-          "ja": "ステップ1：外部ノイズゼロのタイムブロック確保",
-          "zh": "步骤1：确保零外部噪音的时间块",
-          "es": "Paso 1: Asegurar un bloque de tiempo sin ruidos externos",
-          "de": "Schritt 1: Sicherung eines Zeitblocks ohne externe Störungen",
-          "fr": "Étape 1 : Réserver un bloc de temps sans bruit extérieur",
-          "pt": "Passo 1: Garantir um bloco de tempo sem ruídos externos",
-          "id": "Langkah 1: Mengamankan Blok Waktu Bebas Gangguan Luar"
-        },
-        "text": {
-          "ko": "평소 기상 시각보다 30분~1시간 일찍 눈을 떠, 타인의 메시지나 SNS를 차단하고 나만의 주도권을 행사할 수 있는 맑은 시간을 확보합니다.",
-          "en": "Wake up 30 minutes to 1 hour earlier than usual, block messages or social media from others, and secure a clear time block where you can exercise your own autonomy.",
-          "ja": "普段の起床時刻より30分〜1時間早く目を覚まし、他人のメッセージやSNSを遮断し、自分だけの主導権を行使できる澄んだ時間を確保します。",
-          "zh": "比平时起床时间提前30分钟至1小时醒来，屏蔽他人的消息或社交媒体，确保一段能够行使自我控制权的清醒时光。",
-          "es": "Despiértese entre 30 minutos y 1 hora antes de lo habitual, bloquee los mensajes o redes sociales y asegure un tiempo claro para ejercer su propia autonomía.",
-          "de": "Wachen Sie 30 Minuten bis 1 Stunde früher auf als sonst, blockieren Sie Nachrichten oder Social Media und sichern Sie sich eine klare Zeit für Ihre Autonomie.",
-          "fr": "Réveillez-vous 30 minutes à 1 heure plus tôt que d'habitude, bloquez les messages ou les réseaux sociaux et préservez un temps clair pour exercer votre propre autonomie.",
-          "pt": "Acorde de 30 minutos a 1 hora mais cedo do que o habitual, bloqueie mensagens ou redes sociais e garanta um tempo livre para exercer sua própria autonomia.",
-          "id": "Bangunlah 30 menit hingga 1 jam lebih awal dari biasanya, blokir pesan atau media sosial dari orang lain, dan amankan blok waktu jernih di mana Anda dapat menjalankan otonomi diri."
-        }
+    "pubDate": "2026-02-24",
+    "updatedDate": "2026-02-24",
+    "heroImage": "/images/blog/tim_cook_early_morning_routine.webp",
+    "category": "BuildSelf",
+    "app": "buildself",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "새벽 3시 45분에 일어나 100통의 메일을 읽는 CEO? 팀 쿠크의 아침 제어 루틴",
+        "description": "세계 최대 IT 기업 애플(Apple)을 이끄는 수장 팀 쿠크. 매일 새벽 3시 45분에 기상해 사용자 피드백 메일을 읽고 5시에 운동하는 그의 주도권 확보 루틴과 3단계 실천법을 알아봅니다.",
+        "authority": "팀 쿠크 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+        "intro": "글로벌 IT 제국 애플(Apple)의 CEO로서 매일 수억 명의 일상과 수조 달러의 의사결정을 지휘하는 세계 최고의 경영자, 팀 쿠크(Tim Cook). 세상의 모든 외부 소음과 메시지가 몰아치기 전, 그가 하루를 완전한 자신의 주도하에 두기 위해 고수한 최고의 아침 비밀은 무엇일까요? ⌚\n\n쿠크는 매일 새벽 3시 45분에 알람 없이 자연스럽게 눈을 뜹니다. 그는 기상 직후 1시간 동안 전 세계 사용자들이 보낸 100여 통의 솔직한 제품 피드백 이메일을 읽고 응답하며 현장의 목소리를 직접 확인합니다. 이어 새벽 5시에는 회사 밖 사설 헬스장으로 이동해 1시간 동안 고강도 웨이트 트레이닝과 유산소 운동에 전념합니다. 세상이 잠든 이 새벽 시간이야말로 타인의 업무 요구에 수동적으로 반응하지 않고, 자신의 에너지와 우선순위를 주도적으로 설계하는 '완전 통제의 시간'입니다.\n\n오늘 포스트에서는 팀 쿠크의 '새벽 주도권 확보' 루틴의 뇌과학적 작동 원리와 현대 직장인들이 하루의 주도권을 장악하는 3단계 실천법을 공개합니다.",
+        "whyTitle": "전두엽 포도당 예산 보호와 자아 고갈 예방 메커니즘",
+        "whyDesc": "인간의 뇌, 특히 전두엽 피질(Prefrontal Cortex)이 의사결정 시 사용하는 에너지 자원은 유한합니다. 낮 동안 타인의 요청과 수동적 이메일에 치이다 보면, 정작 중요한 전략적 판단을 내릴 때 뇌는 <strong>자아 고갈(Ego Depletion)</strong> 상태에 빠지게 됩니다.\n\n새벽 3시 45분의 조용한 아침 자율성은 뇌의 포도당과 실행 통제력(Executive Control)을 100% 온전하게 보존하여, 하루 중 가장 맑은 뇌 상태에서 핵심 우선순위 결정과 신체 운동을 완수하도록 돕습니다.",
+        "cautionTitle": "수면 시간 축소에 따른 뇌 피로 누적 주의",
+        "cautionDesc": "팀 쿠크의 기상 루틴을 흉내 내기 위해 밤늦게 자면서 무리하게 새벽 일찍 일어나면 전두엽 세포에 만성 피로가 쌓여 판단력이 저하됩니다. 얼리 버드 루틴의 본질은 기상 시각 자체가 아니라 '일찍 자고 일찍 깨어 주도권을 쥐는 것'에 있음을 잊지 마세요.",
+        "steps": [
+          {
+            "title": "1단계: 외부 소음 제로 타임블록 확보",
+            "desc": "평소 기상 시각보다 30분~1시간 일찍 눈을 떠, 타인의 메시지나 SNS를 차단하고 나만의 주도권을 행사할 수 있는 맑은 시간을 확보합니다."
+          },
+          {
+            "title": "2단계: 하루 최고 우선순위 1가지 즉시 실행",
+            "desc": "기상 직후 가장 뇌가 맑은 상태에서 오늘 반드시 처리해야 할 1가지 핵심 과제(운동, 독서, 혹은 전략 기획)를 먼저 완수합니다."
+          },
+          {
+            "title": "3단계: 동일 비율의 조기 취침 스케줄 동기화",
+            "desc": "무작정 수면 시간을 줄이지 말고, 일찍 일어난 만큼 밤 9시~10시 사이에 조기 취침하여 7시간 이상의 총 수면 양을 철저히 보존합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "저녁형 인간(야행성)도 이 새벽 루틴을 따라 하는 것이 좋은가요?",
+            "answer": "자신의 유전적 수면 위상(Chronotype)이 완전한 야행성이라면 무리해서 새벽 3-4시에 일어날 필요는 없습니다. 본 루틴의 핵심 시사점은 '하루 중 외부 방해가 제로인 나만의 주도적 1시간을 확보하는 것'이므로, 퇴근 후 1시간이나 심야 1시간으로 대체해도 동일한 효과를 거둘 수 있습니다."
+          },
+          {
+            "question": "새벽에 일찍 일어나면 오후에 피곤해지는데 어떻게 극복하나요?",
+            "answer": "오후 1시~3시 사이에 15~20분간 가벼운 파워 냅(Power Nap)을 취하거나, 카페인 섭취를 오전 11시 이전에 끝내고 가벼운 스트레칭을 해주면 전두엽의 피로가 대폭 감소합니다."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "2단계: 하루 최고 우선순위 1가지 즉시 실행",
-          "en": "Step 2: Immediately Executing the Top Priority of the Day",
-          "ja": "ステップ2：1日の中で最優先の1項目を即座に実行",
-          "zh": "步骤2：立即执行全天最重要的一项优先事项",
-          "es": "Paso 2: Ejecutar de inmediato la máxima prioridad del día",
-          "de": "Schritt 2: Sofortige Umsetzung der obersten Tagespriorität",
-          "fr": "Étape 2 : Exécuter immédiatement la priorité absolue de la journée",
-          "pt": "Passo 2: Executar imediatamente a maior prioridade do dia",
-          "id": "Langkah 2: Langsung Mengeksekusi 1 Prioritas Utama Hari Ini"
-        },
-        "text": {
-          "ko": "기상 직후 가장 뇌가 맑은 상태에서 오늘 반드시 처리해야 할 1가지 핵심 과제(운동, 독서, 혹은 전략 기획)를 먼저 완수합니다.",
-          "en": "In the clearest state of mind right after waking up, accomplish the one core task (exercise, reading, or strategic planning) that must be done today first.",
-          "ja": "起床直後の最も脳が澄み切った状態で、今日必ず処理すべき1つの核心課題（運動、読書、あるいは戦略企画）を真っ先に完遂します。",
-          "zh": "在起床后大脑最清醒的状态下，首先完成今天务必处理的一项核心任务（健身、阅读或战略规划）。",
-          "es": "En el estado mental más claro al despertar, complete primero la tarea clave (ejercicio, lectura o planificación estratégica) que deba realizarse hoy.",
-          "de": "Erledigen Sie direkt nach dem Aufstehen im klarsten Zustand zuerst die eine Hauptaufgabe des Tages (Sport, Lesen oder strategische Planung).",
-          "fr": "Au réveil, dans l'état le plus clair, accomplissez d'abord la tâche essentielle du jour (exercice, lecture ou planification stratégique).",
-          "pt": "No estado mental mais claro ao acordar, cumpra primeiro a tarefa principal (exercício, leitura ou planejamento estratégico) do dia.",
-          "id": "Dalam kondisi pikiran paling jernih tepat setelah bangun tidur, selesaikan terlebih dahulu 1 tugas inti hari ini (olahraga, membaca, atau perencanaan strategis)."
-        }
+      "en": {
+        "title": "A CEO Waking Up at 3:45 AM to Read 100 Emails? Tim Cook's Morning Control Routine",
+        "description": "Tim Cook, the head of Apple, the world's largest IT company. Discover his daily routine of waking up at 3:45 AM to read user feedback emails and workout at 5:00 AM to secure daily autonomy, along with a 3-step guide.",
+        "authority": "Historical biographies and autobiographical records of Tim Cook & Cognitive Neuroscience research",
+        "intro": "Tim Cook, the top executive who leads Apple and directs the daily lives of hundreds of millions of people and trillions of dollars in decisions. What is his ultimate morning secret for keeping the day under his absolute control before external noise and messages storm in? ⌚\n\nCook wakes up naturally every morning at 3:45 AM. For the first hour after waking, he reads and responds to around 100 honest product feedback emails sent by users worldwide, listening directly to customer voices. Then at 5:00 AM, he moves to an off-site gym for a 1-hour workout of strength training and cardio. This early morning hour while the world sleeps is a time of 'total control' where he proactively shapes his energy and priorities rather than reactively responding to others' demands.\n\nIn today's post, we reveal the neuroscientific working principles behind Tim Cook's 'early morning control' routine and a 3-step practical method for modern workers to take charge of their day.",
+        "whyTitle": "Prefrontal Glucose Budget Protection and Ego Depletion Prevention Mechanism",
+        "whyDesc": "The energy resources used by the human brain, particularly the Prefrontal Cortex, during decision-making are finite. If you are dragged around during the day by others' requests and reactive emails, your brain falls into a state of <strong>Ego Depletion</strong> when it comes time to make truly important strategic judgments.\n\nThe quiet morning autonomy at 3:45 AM preserves 100% of the brain's glucose and executive control, helping you accomplish core priority decisions and physical workouts in your clearest mental state.",
+        "cautionTitle": "Beware of Brain Fatigue Accumulation from Sleep Reduction",
+        "cautionDesc": "If you force yourself to wake up early at dawn while staying up late to mimic Tim Cook's routine, chronic fatigue will accumulate in prefrontal cells, impairing judgment. Remember that the essence of an early bird routine is not the wake-up time itself, but 'sleeping early and waking early to take control'.",
+        "steps": [
+          {
+            "title": "Step 1: Securing a Zero External Noise Time Block",
+            "desc": "Wake up 30 minutes to 1 hour earlier than usual, block messages or social media from others, and secure a clear time block where you can exercise your own autonomy."
+          },
+          {
+            "title": "Step 2: Immediately Executing the Top Priority of the Day",
+            "desc": "In the clearest state of mind right after waking up, accomplish the one core task (exercise, reading, or strategic planning) that must be done today first."
+          },
+          {
+            "title": "Step 3: Synchronizing an Equally Early Bedtime Schedule",
+            "desc": "Do not blindly cut sleep duration. Instead, go to sleep early between 9:00 PM and 10:00 PM in proportion to waking up early to preserve over 7 hours of total sleep time."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should night owls also follow this early morning routine?",
+            "answer": "If your genetic sleep chronotype is strictly nocturnal, you do not need to force yourself to wake up at 3:00–4:00 AM. The key lesson of this routine is 'securing 1 hour of proactive uninterrupted time', so replacing it with 1 hour after work or late at night produces the same effect."
+          },
+          {
+            "question": "How can I overcome afternoon fatigue when I wake up early in the morning?",
+            "answer": "Taking a light 15–20 minute power nap between 1:00 PM and 3:00 PM, stopping caffeine intake before 11:00 AM, and doing light stretching will significantly reduce prefrontal fatigue."
+          }
+        ]
       },
-      {
-        "name": {
-          "ko": "3단계: 동일 비율의 조기 취침 스케줄 동기화",
-          "en": "Step 3: Synchronizing an Equally Early Bedtime Schedule",
-          "ja": "ステップ3：同等の比率での早期就寝スケジュールを同期",
-          "zh": "步骤3：同步同等比例的早睡日程",
-          "es": "Paso 3: Sincronizar un horario de acostarse temprano en la misma proporción",
-          "de": "Schritt 3: Synchronisierung einer entsprechend frühen Schlafenszeit",
-          "fr": "Étape 3 : Synchroniser une heure de coucher plus précoce",
-          "pt": "Passo 3: Sincronizar um horário de dormir proporcionalmente mais cedo",
-          "id": "Langkah 3: Menyinkronkan Jadwal Tidur Lebih Awal Secara Proporsional"
-        },
-        "text": {
-          "ko": "무작정 수면 시간을 줄이지 말고, 일찍 일어난 만큼 밤 9시~10시 사이에 조기 취침하여 7시간 이상의 총 수면 양을 철저히 보존합니다.",
-          "en": "Do not blindly cut sleep duration. Instead, go to sleep early between 9:00 PM and 10:00 PM in proportion to waking up early to preserve over 7 hours of total sleep time.",
-          "ja": "むやみに睡眠時間を削るのではなく、早く起きた分だけ夜9時〜10時の間に早期就寝し、7時間以上の総睡眠量を徹底して保存します。",
-          "zh": "不要盲目缩短睡眠时间，应根据早起的幅度，在晚上9点至10点之间提早入睡，彻底保证7小时以上的总睡眠量。",
-          "es": "No reduzca a la ciega el tiempo de sueño. En su lugar, acuéstese temprano entre las 9:00 PM y las 10:00 PM para mantener más de 7 horas de sueño total.",
-          "de": "Kürzen Sie nicht blind Ihre Schlafdauer. Gehen Sie stattdessen früher zwischen 21:00 und 22:00 Uhr schlafen, um insgesamt 7 Stunden Schlaf zu sichern.",
-          "fr": "Ne réduisez pas aveuglément votre temps de sommeil. Couchez-vous plutôt tôt entre 21h00 et 22h00 pour préserver plus de 7 heures de sommeil total.",
-          "pt": "Não reduza ceticamente a duração do sono. Em vez disso, vá dormir cedo entre 21h00 e 22h00 para preservar mais de 7 horas totais de sono.",
-          "id": "Jangan mengurungi durasi tidur secara membabi buta. Sebaliknya, tidurlah lebih awal antara jam 21:00 hingga 22:00 secara proporsional untuk menjaga total waktu tidur lebih dari 7 jam."
-        }
+      "zh": {
+        "title": "凌晨3:45起床阅读100封邮件的CEO？蒂姆·库克的晨间掌控习惯",
+        "description": "掌舵全球最大IT企业苹果（Apple）的掌门人蒂姆·库克。了解他每天凌晨3:45起床阅读用户反馈邮件、5:00进行健身以确保掌控权的早晨习惯与3步骤实践法。",
+        "authority": "蒂姆·库克历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究",
+        "intro": "作为全球IT帝国苹果（Apple）的CEO，掌控着数亿人日常生活与数万亿美元决策的世界顶尖管理者蒂姆·库克（Tim Cook）。在外界的所有噪音与纷繁消息涌来之前，他为了将一天完全置于自己掌控之下而坚持的晨间秘诀究竟是什么？ ⌚\n\n库克每天早晨3:45自然醒来。起床后的第一个小时，他会阅读并回复来自全球用户寄来的约100封坦诚的产品反馈邮件，亲自聆听一线的真实声音。随后在凌晨5:00，他前往社外的私立健身房进行1小时的高强度力量训练与有氧运动。在这万籁俱寂的清晨，并非被动回应他人的工作需求，而是主动规划自己的精力与优先事项的“绝对掌控时刻”。\n\n在今天的文章中，我们将揭示蒂姆·库克“晨间掌控权”习惯 responses 的脑科学运作原理，以及现代职场人掌控全天的3步骤实践法。",
+        "whyTitle": "保护前额叶葡萄糖预算与防止自我损耗的机制",
+        "whyDesc": "人类大脑，特别是前额叶皮层（Prefrontal Cortex）在进行决策时所使用的能量资源是有限的。如果白天终日应对他人的要求与被动的邮件，当需要做出真正重要的战略抉择时，大脑就会陷入<strong>自我损耗（Ego Depletion）</strong>状态。\n\n凌晨3:45安静的早晨自主权能够100%完整地保存大脑的葡萄糖与执行控制力（Executive Control），助您在一天中最清醒的大脑状态下完成核心优先事项的决策与身体锻炼。",
+        "cautionTitle": "注意因削减睡眠时间导致的大脑疲劳累积",
+        "cautionDesc": "若为了效仿蒂姆·库克的早起习惯而熬夜并强行凌晨起床，前额叶细胞会累积慢性疲劳导致判断力下降。请务必记住，早起习惯的本质并非起床时间本身，而在于“早睡早起以掌握主动权”。",
+        "steps": [
+          {
+            "title": "步骤1：确保零外部噪音的时间块",
+            "desc": "比平时起床时间提前30分钟至1小时醒来，屏蔽他人的消息或社交媒体，确保一段能够行使自我控制权的清醒时光。"
+          },
+          {
+            "title": "步骤2：立即执行全天最重要的一项优先事项",
+            "desc": "在起床后大脑最清醒的状态下，首先完成今天务必处理的一项核心任务（健身、阅读或战略规划）。"
+          },
+          {
+            "title": "步骤3：同步同等比例的早睡日程",
+            "desc": "不要盲目缩短睡眠时间，应根据早起的幅度，在晚上9点至10点之间提早入睡，彻底保证7小时以上的总睡眠量。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "夜型人（夜猫子）也适合尝试这种晨间习惯吗？",
+            "answer": "如果您的基因睡眠时型（Chronotype）是完全的夜型，则无需强求在凌晨3-4点起床。本习惯的核心启示在于“确保全天中有一小时零外部打扰的自我掌控时间”，因此将其替换为下班后的一小时或深夜的一小时同样能收到相同效果。"
+          },
+          {
+            "question": "如果清晨早起导致下午感到疲倦，该如何克服？",
+            "answer": "在下午1:00至3:00之间进行15-20分钟的浅度小憩（Power Nap），在上午11:00前停止摄入咖啡因并配合轻柔拉伸，可大幅减轻前额叶的疲劳。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "午前3時45分に起きて100通のメールを読むCEO？ ティム・クックの朝のコントロールルーティン",
+        "description": "世界最大のIT企業アップル（Apple）を率いるトップ、ティム・クック。毎日午前3時45分に起床してユーザーのフィードバックメールを読み、5時に運動する彼の主導権確保ルーティンと3ステップ実践法を紹介します。",
+        "authority": "ティム・クックの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究",
+        "intro": "グローバルIT帝国アップル（Apple）のCEOとして、毎日数億人の日常と数兆ドルの意思決定を指揮する世界最高の経営者ティム・クック（Tim Cook）。世の中のあらゆる外部ノイズやメッセージが押し寄せる前に、彼が一日の主導権を完全に手中に収めるために貫いてきた最高の朝の秘密とは何でしょうか？ ⌚\n\nクックは毎朝午前3時45分に自然と目を覚まします。彼は起床直後の1時間、世界中のユーザーから届いた約100通の率直な製品フィードバックメールを読んで返信し、現場の声を直接確認します。続いて午前5的には社外のジムへ移動し、1時間高強度のウェイトトレーニングと有酸素運動に専念します。世界が眠るこの早朝の時間こそ、他人の業務要求に受動的に反応するのではなく、自身のエネルギーと優先順位を主導的に設計する「完全統制の時間」なのです。\n\n今日の記事では、ティム・クックの「早朝の主導権確保」ルーティンの脳科学的作動原理と、現代の社会人が一日の主導権を握る3ステップ実践法を公開します。",
+        "whyTitle": "前頭葉のグルコース予算保護と自己枯渇予防のメカニズム",
+        "whyDesc": "人間の脳、特に前頭葉皮質（Prefrontal Cortex）が意思決定時に使用するエネルギー資源には限りがあります。日中に他人の要求や受動的なメールに追われていると、真に重要な戦略的判断を下す時に脳は<strong>自己枯渇（Ego Depletion）</strong>状態に陥ってしまいます。\n\n午前3時45分の静かな朝の自主性は、脳のグルコースと実行統制力（Executive Control）を100%健全に保存し、一日の中で最も澄んだ脳の状態で核心的な優先順位の決定と身体運動を完遂できるよう助けます。",
+        "cautionTitle": "睡眠時間の削減に伴う脳の疲労蓄積への注意",
+        "cautionDesc": "ティム・クックの起床ルーティンを模倣するために夜遅くまで起きているのに無理をして早朝に起きると、前頭葉細胞に慢性疲労が蓄積し判断力が低下します。アーリーバード（早起き）ルーティンの本質は起床時刻そのものではなく、「早く寝て早く起き、主導権を握ること」にあることを忘れないでください。",
+        "steps": [
+          {
+            "title": "ステップ1：外部ノイズゼロのタイムブロック確保",
+            "desc": "普段の起床時刻より30分〜1時間早く目を覚まし、他人のメッセージやSNSを遮断し、自分だけの主導権を行使できる澄んだ時間を確保します。"
+          },
+          {
+            "title": "ステップ2：1日の中で最優先の1項目を即座に実行",
+            "desc": "起床直後の最も脳が澄み切った状態で、今日必ず処理すべき1つの核心課題（運動、読書、あるいは戦略企画）を真っ先に完遂します。"
+          },
+          {
+            "title": "ステップ3：同等の比率での早期就寝スケジュールを同期",
+            "desc": "むやみに睡眠時間を削るのではなく、早く起きた分だけ夜9時〜10時の間に早期就寝し、7時間以上の総睡眠量を徹底して保存します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "夜型人間（夜行性）もこの早朝ルーティンを実践するべきですか？",
+            "answer": "ご自身の遺伝的な睡眠クロノタイプ（Chronotype）が完全な夜型であるならば、無理をして午前3〜4時に起きる必要はありません。本ルーティンの核心は「1日の中で外部の邪魔がゼロである自分だけの主導的な1時間を確保すること」であるため、退社後の1時間や深夜の1時間に代替しても同様の効果を得ることができます。"
+          },
+          {
+            "question": "早朝早く起きると午後に疲労を感じるのですが、どのように克服すればよいですか？",
+            "answer": "午後1時〜3時の間に15〜20分間の軽いパワーナップ（仮眠）をとったり、カフェイン摂取を午前11時前に終わらせて軽いストレッチを行うと、前頭葉の疲労が大幅に軽減されます。"
+          }
+        ]
+      },
+      "es": {
+        "title": "¿Un CEO que se levanta a las 3:45 AM para leer 100 correos? La rutina de control matutino de Tim Cook",
+        "description": "Tim Cook, el líder de Apple, la empresa de TI más grande del mundo. Descubra su rutina diaria de levantarse a las 3:45 AM para leer correos de usuarios y hacer ejercicio a las 5:00 AM para asegurar el control, junto con una guía de 3 pasos.",
+        "authority": "Biografías históricas y registros autobiográficos de Tim Cook e investigación en Neurociencia Cognitiva",
+        "intro": "Tim Cook, el máximo ejecutivo que lidera Apple y dirige la vida diaria de cientos de millones de personas y decisiones de billones de dólares. ¿Cuál es su secreto matutino definitivo para mantener el día bajo su control absoluto antes de que lleguen los mensajes del exterior? ⌚\n\nCook se despierta naturalmente cada mañana a las 3:45 AM. Durante la primera hora, lee y responde unos 100 correos de comentarios sinceros sobre productos enviadas por usuarios de todo el mundo. Luego, a las 5:00 AM, acude a un gimnasio para entrenar fuerza y cardio durante 1 hora. Esta hora de la mañana, mientras el mundo duerme, es un momento de 'control total' en el que diseña sus prioridades de forma proactiva.\n\nEn la publicación de hoy, revelamos los principios neurocientíficos detrás de la rutina de 'control al amanecer' de Tim Cook y un método práctico de 3 pasos para los trabajadores modernos.",
+        "whyTitle": "Protección del presupuesto de glucosa prefrontal y prevención del agotamiento del ego",
+        "whyDesc": "Los recursos de energía utilizados por el cerebro, especialmente la Corteza Prefrontal, al tomar decisiones son finitos. Si durante el día se ve abrumado por las solicitudes de otros y correos reactivos, su cerebro entra en un estado de <strong>Agotamiento del Ego (Ego Depletion)</strong> al tomar decisiones estratégicas.\n\nLa tranquila autonomía matutina a las 3:45 AM preserva el 100% de la glucosa y el control ejecutivo del cerebro, ayudándole a tomar decisiones prioritarias clave y ejercitarse.",
+        "cautionTitle": "Cuidado con la acumulación de fatiga cerebral por reducción del sueño",
+        "cautionDesc": "Si se fuerza a levantarse temprano al amanecer mientras se acuesta tarde para imitar a Tim Cook, se acumulará fatiga crónica en las células prefrontales, perjudicando el juicio. Recuerde que la esencia de levantarse temprano no es la hora en sí, sino 'dormir temprano y despertar temprano para tomar el control'.",
+        "steps": [
+          {
+            "title": "Paso 1: Asegurar un bloque de tiempo sin ruidos externos",
+            "desc": "Despiértese entre 30 minutos y 1 hora antes de lo habitual, bloquee los mensajes o redes sociales y asegure un tiempo claro para ejercer su propia autonomía."
+          },
+          {
+            "title": "Paso 2: Ejecutar de inmediato la máxima prioridad del día",
+            "desc": "En el estado mental más claro al despertar, complete primero la tarea clave (ejercicio, lectura o planificación estratégica) que deba realizarse hoy."
+          },
+          {
+            "title": "Paso 3: Sincronizar un horario de acostarse temprano en la misma proporción",
+            "desc": "No reduzca a la ciega el tiempo de sueño. En su lugar, acuéstese temprano entre las 9:00 PM y las 10:00 PM para mantener más de 7 horas de sueño total."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Las personas nocturnas también deberían seguir esta rutina matutina?",
+            "answer": "Si su cronotipo de sueño es nocturno, no necesita forzarse a despertar a las 3:00–4:00 AM. La lección clave es 'asegurar 1 hora proactiva sin interrupciones', por lo que sustituirla por 1 hora tras el trabajo o en la noche produce el mismo efecto."
+          },
+          {
+            "question": "¿Cómo puedo superar la fatiga por la tarde al levantarme temprano por la mañana?",
+            "answer": "Tomar una siesta reconfortante de 15 a 20 minutos entre la 1:00 PM y las 3:00 PM, finalizar la ingesta de cafeína antes de las 11:00 AM y realizar estiramientos ligeros reducirá la fatiga prefrontal."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Un PDG qui se lève à 3h45 pour lire 100 e-mails ? La routine de contrôle matinale de Tim Cook",
+        "description": "Tim Cook, à la tête d'Apple, la plus grande entreprise informatique du monde. Découvrez sa routine quotidienne consistant à se lever à 3h45 pour lire les e-mails des utilisateurs et s'entraîne à 5h00 pour prendre le contrôle de sa journée.",
+        "authority": "Biographies historiques et données autobiographiques sur Tim Cook et recherches en neurosciences cognitives",
+        "intro": "Tim Cook, le dirigeant qui mène Apple et oriente le quotidien de centaines de millions de personnes et des décisions de milliers de milliards de dollars. Quel est son secret matinal ultime pour garder le contrôle absolu de sa journée avant que les distractions n'arrivent ? ⌚\n\nCook se réveille naturellement chaque matin à 3h45. Pendant la première heure, il lit et répond à environ 100 e-mails de retours sincères d'utilisateurs du monde entier. Puis à 5h00, il s'entraîne pendant 1 heure dans une salle de sport. Cette heure matinale où le monde dort est un moment de 'contrôle total' où il façonne ses priorités de manière proactive.\n\nDans cet article, nous révélons les principes neuroscientifiques de la routine matinale de Tim Cook et une méthode pratique en 3 étapes pour les professionnels d'aujourd'hui.",
+        "whyTitle": "Protection du budget de glucose préfrontal et prévention de l'épuisement de l'ego",
+        "whyDesc": "Les ressources énergétiques utilisées par le cortex préfrontal lors de la prise de décision sont limitées. Si vous êtes sollicité par les demandes des autres et des e-mails réactifs, votre cerveau tombe dans un état <strong>d'épuisement de l'ego (Ego Depletion)</strong> au moment de trancher.\n\nL'autonomie matinale à 3h45 préserve 100% du glucose et du contrôle exécutif, vous aidant à accomplir vos décisions prioritaires et votre entraînement avec un esprit totalement clair.",
+        "cautionTitle": "Attention à l'accumulation de fatigue cérébrale due à la réduction du sommeil",
+        "cautionDesc": "Si vous vous forcez à vous lever tôt en vous couchant tard pour imiter Tim Cook, une fatigue chronique s'accumulera dans votre cortex préfrontal, diminuant votre jugement. N'oubliez pas que l'essence du réveil matinal est de 'dormir tôt et se lever tôt pour prendre le contrôle'.",
+        "steps": [
+          {
+            "title": "Étape 1 : Réserver un bloc de temps sans bruit extérieur",
+            "desc": "Réveillez-vous 30 minutes à 1 heure plus tôt que d'habitude, bloquez les messages ou les réseaux sociaux et préservez un temps clair pour exercer votre propre autonomie."
+          },
+          {
+            "title": "Étape 2 : Exécuter immédiatement la priorité absolue de la journée",
+            "desc": "Au réveil, dans l'état le plus clair, accomplissez d'abord la tâche essentielle du jour (exercice, lecture ou planification stratégique)."
+          },
+          {
+            "title": "Étape 3 : Synchroniser une heure de coucher plus précoce",
+            "desc": "Ne réduisez pas aveuglément votre temps de sommeil. Couchez-vous plutôt tôt entre 21h00 et 22h00 pour préserver plus de 7 heures de sommeil total."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Les couche-tard doivent-ils aussi suivre cette routine matinale ?",
+            "answer": "Si votre chronotype de sommeil est nocturne, vous n'avez pas besoin de vous forcer à vous réveiller à 3h00–4h00. La leçon clé est de 'réserver 1 heure proactive sans interruption', donc la remplacer par 1 heure après le travail produit le même effet."
+          },
+          {
+            "question": "Comment surmonter la fatigue de l'après-midi en se levant tôt le matin ?",
+            "answer": "Faire une sieste réparatrice de 15 à 20 minutes entre 13h00 et 15h00, arrêter la caféine avant 11h00 et faire des étirements légers réduira considérablement la fatigue."
+          }
+        ]
+      },
+      "de": {
+        "title": "Ein CEO, der um 3:45 Uhr aufsteht, um 100 E-Mails zu lesen? Tim Cooks morgendliche Kontrollroutine",
+        "description": "Tim Cook, der Chef von Apple, dem größten IT-Unternehmen der Welt. Erfahren Sie mehr über seine Routine, um 3:45 Uhr aufzustehen, Feedback-E-Mails zu lesen und um 5:00 Uhr zu trainieren, um die Kontrolle über den Tag zu übernehmen.",
+        "authority": "Historische Biografien und autobiografische Aufzeichnungen über Tim Cook & kognitive Neurowissenschaften",
+        "intro": "Tim Cook, der Chef von Apple, der täglich hunderte Millionen Menschen und Entscheidungen in Billionenhöhe lenkt. Was ist sein morgendliches Geheimnis, um den Tag unter seine Kontrolle zu bringen, bevor Ablenkungen hereinbrechen? ⌚\n\nCook wacht jeden Morgen um 3:45 Uhr auf. In der ersten Stunde liest und beantwortet er etwa 100 ehrliche Produkt-Feedback-E-Mails von Nutzern weltweit. Um 5:00 Uhr absolviert er ein einstündiges Workout im Fitnessstudio. Diese frühe Stunde, während die Welt schläft, ist eine Zeit der 'vollständigen Kontrolle', in der er seine Prioritäten vorausschauend gestaltet.\n\nIm heutigen Beitrag enthüllen wir die neurowissenschaftlichen Prinzipien von Tim Cooks morgendlicher Routine und eine 3-Schritte-Methode für moderne Arbeitnehmer.",
+        "whyTitle": "Schutz des präfrontalen Glukose-Budgets und Schutz vor Ego-Depletion",
+        "whyDesc": "Die Energieressourcen des Gehirns, insbesondere des Präfrontalkortex, sind bei Entscheidungen begrenzt. Wenn Sie tagsüber von Anfragen und E-Mails getrieben werden, gerät das Gehirn bei wichtigen Entscheidungen in den Zustand der <strong>Ego-Depletion (Ich-Erschöpfung)</strong>.\n\nDie morgendliche Autonomie um 3:45 Uhr bewahrt 100% der Glukose und der exekutiven Kontrolle, um Kernentscheidungen und Workouts im klarsten Zustand zu bewältigen.",
+        "cautionTitle": "Achtung vor Gehirnmüdigkeit durch Schlafentzug",
+        "cautionDesc": "Wenn Sie versuchen, Tim Cooks Routine nachzuahmen, indem Sie spät ins Bett gehen und früh aufstehen, sammelt sich Müdigkeit im Präfrontalkortex an. Die Essenz des Frühaufstehens liegt darin, 'früh zu schlafen und früh aufzustehen, um die Kontrolle zu übernehmen'.",
+        "steps": [
+          {
+            "title": "Schritt 1: Sicherung eines Zeitblocks ohne externe Störungen",
+            "desc": "Wachen Sie 30 Minuten bis 1 Stunde früher auf als sonst, blockieren Sie Nachrichten oder Social Media und sichern Sie sich eine klare Zeit für Ihre Autonomie."
+          },
+          {
+            "title": "Schritt 2: Sofortige Umsetzung der obersten Tagespriorität",
+            "desc": "Erledigen Sie direkt nach dem Aufstehen im klarsten Zustand zuerst die eine Hauptaufgabe des Tages (Sport, Lesen oder strategische Planung)."
+          },
+          {
+            "title": "Schritt 3: Synchronisierung einer entsprechend frühen Schlafenszeit",
+            "desc": "Kürzen Sie nicht blind Ihre Schlafdauer. Gehen Sie stattdessen früher zwischen 21:00 und 22:00 Uhr schlafen, um insgesamt 7 Stunden Schlaf zu sichern."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollten auch Nachteulen diese morgendliche Routine befolgen?",
+            "answer": "Wenn Ihr Schlaftyp nachtaktiv ist, müssen Sie sich nicht zwingen, um 3:00–4:00 Uhr aufzustehen. Die Kernlektion lautet '1 ungestörte Stunde für sich zu sichern', sodass 1 Stunde nach der Arbeit oder spät nachts denselben Effekt erzielt."
+          },
+          {
+            "question": "Wie kann ich Nachmittagskrise überwinden, wenn ich früh aufstehe?",
+            "answer": "Ein kurzes Powernap von 15–20 Minuten zwischen 13:00 und 15:00 Uhr, das Beenden des Koffeinkonsums vor 11:00 Uhr und leichtes Dehnen reduzieren die Ermüdung deutlich."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Um CEO que acorda às 3h45 para ler 100 e-mails? A rotina de controle matinal de Tim Cook",
+        "description": "Tim Cook, o líder da Apple, a maior empresa de TI do mundo. Descubra sua rotina diária de acordar às 3h45 para ler e-mails de feedback dos usuários e se exercitar às 5h00 para garantir a autonomia diária.",
+        "authority": "Biografias históricas e registros autobiográficos de Tim Cook e pesquisas em Neurociência Cognitiva",
+        "intro": "Tim Cook, o líder que comanda a Apple e direciona a vida diária de centenas de milhões de pessoas e decisões de trilhões de dólares. Qual é o seu segredo matinal definitivo para manter o dia sob seu controle absoluto antes que cheguem as distrações externas? ⌚\n\nCook acorda naturalmente todas as manhãs às 3h45. Durante a primeira hora, ele lê e responde a cerca de 100 e-mails de feedback sincero enviados por usuários de todo o mundo. Às 5h00, ele vai para a academia para 1 hora de treino. Esta hora matinal enquanto o mundo dorme é um momento de 'controle total', onde ele molda suas prioridades proativamente.\n\nNo post de hoje, revelamos os princípios neurocientíficos por trás da rotina matinal de Tim Cook e um método prático de 3 passos para os profissionais modernos.",
+        "whyTitle": "Proteção do orçamento de glicose pré-frontal e prevenção do esgotamento do ego",
+        "whyDesc": "Os recursos de energia usados pelo cérebro, especialmente o Córtex Pré-Frontal, durante a tomada de decisões são finitos. Se durante o dia você for arrastado por solicitações e e-mails reativos, seu cérebro entra em um estado de <strong>Esgotamento do Ego (Ego Depletion)</strong>.\n\nA tranquila autonomia matinal às 3h45 preserva 100% da glicose e do controle executivo do cérebro, ajudando a realizar decisões prioritárias e treinos no estado mental mais claro.",
+        "cautionTitle": "Cuidado com o acúmulo de fadiga cerebral devido à redução do sono",
+        "cautionDesc": "Se você se forçar a acordar cedo enquanto vai dormir tarde para imitar Tim Cook, a fadiga crônica se acumulará nas células pré-frontais, prejudicando o julgamento. Lembre-se de que a essência da rotina matinal não é a hora em si, mas 'dormir cedo e acordar cedo para assumir o controle'.",
+        "steps": [
+          {
+            "title": "Passo 1: Garantir um bloco de tempo sem ruídos externos",
+            "desc": "Acorde de 30 minutos a 1 hora mais cedo do que o habitual, bloqueie mensagens ou redes sociais e garanta um tempo livre para exercer sua própria autonomia."
+          },
+          {
+            "title": "Passo 2: Executar imediatamente a maior prioridade do dia",
+            "desc": "No estado mental mais claro ao acordar, cumpra primeiro a tarefa principal (exercício, leitura ou planejamento estratégico) do dia."
+          },
+          {
+            "title": "Passo 3: Sincronizar um horário de dormir proporcionalmente mais cedo",
+            "desc": "Não reduza ceticamente a duração do sono. Em vez disso, vá dormir cedo entre 21h00 e 22h00 para preservar mais de 7 horas totais de sono."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pessoas noturnas também devem seguir essa rotina matinal?",
+            "answer": "Se seu cronotipo de sono for noturno, você não precisa se forçar a acordar às 3h00–4h00. A lição principal é 'garantir 1 hora proativa sem interrupções', portanto, substituí-la por 1 hora após o trabalho gera o mesmo efeito."
+          },
+          {
+            "question": "Como posso superar o cansaço à tarde ao acordar cedo de manhã?",
+            "answer": "Tirar um cochilo rápido de 15 a 20 minutos entre 13h00 e 15h00, encerrar a ingestão de cafeína antes das 11h00 e fazer xalongamentos leves reduzirá significativamente a fadiga."
+          }
+        ]
+      },
+      "id": {
+        "title": "CEO yang Bangun Jam 3:45 Pagi untuk Membaca 100 Email? Rutinitas Kontrol Pagi Tim Cook",
+        "description": "Tim Cook, pemimpin Apple, perusahaan IT terbesar di dunia. Temukan rutinitas harian bangun jam 3:45 pagi untuk membaca email umpan balik pengguna dan berolahraga jam 5:00 pagi untuk merebut kendali harian, beserta panduan 3 langkah.",
+        "authority": "Biografi historis dan catatan autobiografi Tim Cook & penelitian Neurosains Kognitif",
+        "intro": "Tim Cook, eksekutif puncak yang memimpin Apple dan mengarahkan kehidupan harian ratusan juta orang serta keputusan senilai triliunan Dolar. Apa rahasia pagi utamanya untuk menjaga hari tetap di bawah kendali mutlak sebelum gangguan luar datang? ⌚\n\nCook bangun secara alami setiap pagi jam 3:45. Pada jam pertama, ia membaca dan membalas sekitar 100 email umpan balik jujur tentang produk yang dikirim oleh pengguna di seluruh dunia. Lalu jam 5:00 pagi, ia pergi ke gym untuk latihan beban dan kardio selama 1 jam. Jam pagi saat dunia masih tidur ini adalah saat 'kendali penuh' di mana ia secara proaktif merancang prioritasnya daripada sekadar merespons tuntutan orang lain.\n\nDalam postingan hari ini, kami mengungkap prinsip kerja neurosains di balik rutinitas kontrol pagi Tim Cook dan metode praktis 3 langkah bagi pekerja modern.",
+        "whyTitle": "Proteksi Anggaran Glukosa Prefrontal dan Mekanisme Pencegahan Ego Depletion",
+        "whyDesc": "Sumber daya energi yang digunakan otak manusia, khususnya Korteks Prefrontal, saat mengambil keputusan bersifat terbatas. Jika sepanjang hari Anda terseret oleh permintaan orang lain dan email reaktif, otak Anda akan jatuh ke dalam kondisi <strong>Ego Depletion</strong> saat tiba waktunya membuat keputusan strategis.\n\nOtonomi pagi yang tenang pada jam 3:45 pagi menjaga 100% glukosa dan kontrol eksekutif otak, membantu Anda menyelesaikan keputusan prioritas utama dan olahraga fisik dalam kondisi mental paling jernih.",
+        "cautionTitle": "Waspadai Penumpukan Kelelahan Otak Akibat Pengurangan Waktu Tidur",
+        "cautionDesc": "Jika Anda memaksa bangun pagi-pagi fajar padahal tidur larut malam demi meniru Tim Cook, kelelahan kronis akan menumpuk di sel-sel prefrontal sehingga memperburuk daya pikir. Ingatlah bahwa esensi rutinitas bangun pagi bukanlah jam bangun itu sendiri, melainkan 'tidur cepat dan bangun cepat untuk mengambil kendali'.",
+        "steps": [
+          {
+            "title": "Langkah 1: Mengamankan Blok Waktu Bebas Gangguan Luar",
+            "desc": "Bangunlah 30 menit hingga 1 jam lebih awal dari biasanya, blokir pesan atau media sosial dari orang lain, dan amankan blok waktu jernih di mana Anda dapat menjalankan otonomi diri."
+          },
+          {
+            "title": "Langkah 2: Langsung Mengeksekusi 1 Prioritas Utama Hari Ini",
+            "desc": "Dalam kondisi pikiran paling jernih tepat setelah bangun tidur, selesaikan terlebih dahulu 1 tugas inti hari ini (olahraga, membaca, atau perencanaan strategis)."
+          },
+          {
+            "title": "Langkah 3: Menyinkronkan Jadwal Tidur Lebih Awal Secara Proporsional",
+            "desc": "Jangan mengurungi durasi tidur secara membabi buta. Sebaliknya, tidurlah lebih awal antara jam 21:00 hingga 22:00 secara proporsional untuk menjaga total waktu tidur lebih dari 7 jam."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah tipe orang malam (night owl) juga disarankan mengikuti rutinitas pagi ini?",
+            "answer": "Jika kronotipe tidur Anda secara genetik memang tipe malam, Anda tidak perlu memaksakan diri bangun jam 3-4 pagi. Pelajaran utama dari rutinitas ini adalah 'mengamankan 1 jam proaktif tanpa gangguan luar', sehingga menggantinya dengan 1 jam setelah pulang kerja atau larut malam akan memberikan efek yang sama."
+          },
+          {
+            "question": "Bagaimana cara mengatasi kelelahan di sore hari jika bangun sangat pagi?",
+            "answer": "Melakukan power nap ringan selama 15–20 menit antara jam 13:00 hingga 15:00, menghentikan asupan kafein sebelum jam 11:00 pagi, dan melakukan peregangan ringan akan mengurangi kelelahan prefrontal secara signifikan."
+          }
+        ]
       }
-    ],
-    "faqs": [
-      {
-        "question": {
-          "ko": "저녁형 인간(야행성)도 이 새벽 루틴을 따라 하는 것이 좋은가요?",
-          "en": "Should night owls also follow this early morning routine?",
-          "ja": "夜型人間（夜行性）もこの早朝ルーティンを実践するべきですか？",
-          "zh": "夜型人（夜猫子）也适合尝试这种晨间习惯吗？",
-          "es": "¿Las personas nocturnas también deberían seguir esta rutina matutina?",
-          "de": "Sollten auch Nachteulen diese morgendliche Routine befolgen?",
-          "fr": "Les couche-tard doivent-ils aussi suivre cette routine matinale ?",
-          "pt": "Pessoas noturnas também devem seguir essa rotina matinal?",
-          "id": "Apakah tipe orang malam (night owl) juga disarankan mengikuti rutinitas pagi ini?"
-        },
-        "answer": {
-          "ko": "자신의 유전적 수면 위상(Chronotype)이 완전한 야행성이라면 무리해서 새벽 3-4시에 일어날 필요는 없습니다. 본 루틴의 핵심 시사점은 '하루 중 외부 방해가 제로인 나만의 주도적 1시간을 확보하는 것'이므로, 퇴근 후 1시간이나 심야 1시간으로 대체해도 동일한 효과를 거둘 수 있습니다.",
-          "en": "If your genetic sleep chronotype is strictly nocturnal, you do not need to force yourself to wake up at 3:00–4:00 AM. The key lesson of this routine is 'securing 1 hour of proactive uninterrupted time', so replacing it with 1 hour after work or late at night produces the same effect.",
-          "ja": "ご自身の遺伝的な睡眠クロノタイプ（Chronotype）が完全な夜型であるならば、無理をして午前3〜4時に起きる必要はありません。本ルーティンの核心は「1日の中で外部の邪魔がゼロである自分だけの主導的な1時間を確保すること」であるため、退社後の1時間や深夜の1時間に代替しても同様の効果を得ることができます。",
-          "zh": "如果您的基因睡眠时型（Chronotype）是完全的夜型，则无需强求在凌晨3-4点起床。本习惯的核心启示在于“确保全天中有一小时零外部打扰的自我掌控时间”，因此将其替换为下班后的一小时或深夜的一小时同样能收到相同效果。",
-          "es": "Si su cronotipo de sueño es nocturno, no necesita forzarse a despertar a las 3:00–4:00 AM. La lección clave es 'asegurar 1 hora proactiva sin interrupciones', por lo que sustituirla por 1 hora tras el trabajo o en la noche produce el mismo efecto.",
-          "de": "Wenn Ihr Schlaftyp nachtaktiv ist, müssen Sie sich nicht zwingen, um 3:00–4:00 Uhr aufzustehen. Die Kernlektion lautet '1 ungestörte Stunde für sich zu sichern', sodass 1 Stunde nach der Arbeit oder spät nachts denselben Effekt erzielt.",
-          "fr": "Si votre chronotype de sommeil est nocturne, vous n'avez pas besoin de vous forcer à vous réveiller à 3h00–4h00. La leçon clé est de 'réserver 1 heure proactive sans interruption', donc la remplacer par 1 heure après le travail produit le même effet.",
-          "pt": "Se seu cronotipo de sono for noturno, você não precisa se forçar a acordar às 3h00–4h00. A lição principal é 'garantir 1 hora proativa sem interrupções', portanto, substituí-la por 1 hora após o trabalho gera o mesmo efeito.",
-          "id": "Jika kronotipe tidur Anda secara genetik memang tipe malam, Anda tidak perlu memaksakan diri bangun jam 3-4 pagi. Pelajaran utama dari rutinitas ini adalah 'mengamankan 1 jam proaktif tanpa gangguan luar', sehingga menggantinya dengan 1 jam setelah pulang kerja atau larut malam akan memberikan efek yang sama."
-        }
-      },
-      {
-        "question": {
-          "ko": "새벽에 일찍 일어나면 오후에 피곤해지는데 어떻게 극복하나요?",
-          "en": "How can I overcome afternoon fatigue when I wake up early in the morning?",
-          "ja": "早朝早く起きると午後に疲労を感じるのですが、どのように克服すればよいですか？",
-          "zh": "如果清晨早起导致下午感到疲倦，该如何克服？",
-          "es": "¿Cómo puedo superar la fatiga por la tarde al levantarme temprano por la mañana?",
-          "de": "Wie kann ich Nachmittagskrise überwinden, wenn ich früh aufstehe?",
-          "fr": "Comment surmonter la fatigue de l'après-midi en se levant tôt le matin ?",
-          "pt": "Como posso superar o cansaço à tarde ao acordar cedo de manhã?",
-          "id": "Bagaimana cara mengatasi kelelahan di sore hari jika bangun sangat pagi?"
-        },
-        "answer": {
-          "ko": "오후 1시~3시 사이에 15~20분간 가벼운 파워 냅(Power Nap)을 취하거나, 카페인 섭취를 오전 11시 이전에 끝내고 가벼운 스트레칭을 해주면 전두엽의 피로가 대폭 감소합니다.",
-          "en": "Taking a light 15–20 minute power nap between 1:00 PM and 3:00 PM, stopping caffeine intake before 11:00 AM, and doing light stretching will significantly reduce prefrontal fatigue.",
-          "ja": "午後1時〜3時の間に15〜20分間の軽いパワーナップ（仮眠）をとったり、カフェイン摂取を午前11時前に終わらせて軽いストレッチを行うと、前頭葉の疲労が大幅に軽減されます。",
-          "zh": "在下午1:00至3:00之间进行15-20分钟的浅度小憩（Power Nap），在上午11:00前停止摄入咖啡因并配合轻柔拉伸，可大幅减轻前额叶的疲劳。",
-          "es": "Tomar una siesta reconfortante de 15 a 20 minutos entre la 1:00 PM y las 3:00 PM, finalizar la ingesta de cafeína antes de las 11:00 AM y realizar estiramientos ligeros reducirá la fatiga prefrontal.",
-          "de": "Ein kurzes Powernap von 15–20 Minuten zwischen 13:00 und 15:00 Uhr, das Beenden des Koffeinkonsums vor 11:00 Uhr und leichtes Dehnen reduzieren die Ermüdung deutlich.",
-          "fr": "Faire une sieste réparatrice de 15 à 20 minutes entre 13h00 et 15h00, arrêter la caféine avant 11h00 et faire des étirements légers réduira considérablement la fatigue.",
-          "pt": "Tirar um cochilo rápido de 15 a 20 minutos entre 13h00 e 15h00, encerrar a ingestão de cafeína antes das 11h00 e fazer xalongamentos leves reduzirá significativamente a fadiga.",
-          "id": "Melakukan power nap ringan selama 15–20 menit antara jam 13:00 hingga 15:00, menghentikan asupan kafein sebelum jam 11:00 pagi, dan melakukan peregangan ringan akan mengurangi kelelahan prefrontal secara signifikan."
-        }
-      }
-    ]
+    }
   }
 }

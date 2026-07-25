@@ -1,0 +1,454 @@
+{
+  "how-to-store-squid": {
+    "ingId": "squid",
+    "pubDate": "2026-05-08",
+    "updatedDate": "2026-05-08",
+    "heroImage": "/images/blog/squid_storage_hack.png",
+    "category": "FreshSnap",
+    "app": "freshsnap",
+    "formatVersion": 4,
+    "locales": {
+      "ko": {
+        "title": "오징어 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 오징어의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "<strong>NIFS & MFDS & USDA</strong>",
+        "intro": "오징어를 냉동실에 얼려두었는데 다른 냉동식품에서 꿉꿉한 냄새가 난 경험 있으시죠? 오늘 FreshSnap에서는 국립수산과학원의 수산물 신선 가이드를 기초로 냄새 배임 없는 오징어 보관법을 소개합니다.",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "tags": [
+          "오징어",
+          "과학적으로 검증된 보관 가이드",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "생으로 냉동 시 살이 질겨질 수 있습니다 ⚠️",
+            "desc": "오래 냉동해 둘 오징어는 생으로 얼리는 것보다 끓는 물에 식초 한 방울을 넣고 10초간 살짝 데친 뒤 식혀서 물기를 빼고 냉동 보관하면 해동 시 질기지 않고 쫄깃합니다."
+          },
+          {
+            "title": "냉장 보관은 하루를 넘기지 마세요 ❄️",
+            "desc": "수산물은 상온은 당연하고 냉장고 일반실에서도 하루 만에 식중독 균과 부패균이 증식하기 쉬운 약한 조직이므로 구매 즉시 조리하거나 바로 얼리셔야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "내장 및 빨판 이물질 완전 제거하기 — 비린내 차단 🦑",
+            "text": "오징어의 내장과 빨판의 이물질은 비린내와 세균 번식의 원인입니다. 몸통을 갈라 내장과 먹물주머니를 떼어내고, 다리 빨판의 흡착물들을 흐르는 물에 긁어내며 깨끗이 씻어줍니다."
+          },
+          {
+            "name": "물기를 완전히 건조하고 랩으로 감싸기 — 냉장 보관 (2일) 📦",
+            "text": "세척한 오징어는 키친타월로 물기를 안팎으로 완전히 닦아냅니다. 물기가 남아있으면 얼릴 때 얼음 결정이 생겨 해동 시 해산물 조직이 흐물흐물해집니다. 물기 제거 후 랩으로 낱개 밀봉하세요."
+          },
+          {
+            "name": "지퍼백에 넣어 이중 밀봉 냉동하기 — 냉동 보관 (60일)",
+            "text": "랩으로 싼 오징어를 지퍼백에 담아 공기를 빼고 영하 18℃ 이하 냉동 보관합니다. 해산물 냄새가 다른 냉동 식품에 배는 것을 완벽 차단해 줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "생오징어 내장을 그대로 냉장 보관하면 안 되나요?",
+            "answer": "생오징어는 내장부터 급속 부패하며 냄새와 세균 번식을 일으킵니다. 구매 즉시 내장과 먹물 주머니를 제거하고 깨끗이 씻어 물기를 뺀 후 몸통과 다리를 분리해 냉장 보관하세요."
+          },
+          {
+            "question": "오징어를 해동할 때 비린내를 방지하려면?",
+            "answer": "오징어는 냉장실에서 서서히 해동하는 것이 수분 손실을 막아 질겨지는 것을 방지합니다. 해동 시 약간의 청주나 미림을 뿌려두면 해산물 특유의 잡내를 확실히 잡을 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Squid Fresh: Scientific Storage Guide",
+        "description": "Learn the best storage temperature, methods, and duration for Squid based on official safety guidelines.",
+        "authority": "<strong>NIFS & MFDS & USDA</strong>",
+        "intro": "Have you ever put fresh squid in a plastic bag in the fridge only to have the kitchen smell fishy and the meat spoil? Squid guts decay first, making handling and freezing essential. Today, FreshSnap shares safe squid handling tips.",
+        "whyTitle": "Why store like this? Scientific facts",
+        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Crucial Rules and Cautions",
+        "tags": [
+          "Squid",
+          "Scientifically Proven Storage Guide",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Remove guts, eyes, and suction cups completely",
+            "desc": "Leaving guts inside causes rapid decay, bacteria multiplication, and strong fishy odors. Clean them immediately."
+          },
+          {
+            "title": "Cook raw squid within 2 days in the refrigerator",
+            "desc": "Raw seafood spoils rapidly in the fridge. For longer storage, freeze it in portions."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Clean innards and tentacles thoroughly — Block fishy odor 🦑",
+            "text": "The squid's innards and the dirt on its suction cups are the main cause of fishy smells and bacteria. Split the body open, remove the entrailles and ink sac, and rub the tentacles under running water to scrub away all dirt."
+          },
+          {
+            "name": "Dry completely and wrap with plastic wrap — Refrigerated Storage (2Days) 📦",
+            "text": "Wipe all water off the washed squid inside and out with paper towels. Remaining water forms large ice crystals when frozen, which damages the tissue and makes the squid mushy upon thawing. Seal individually in wrap."
+          },
+          {
+            "name": "Place in a freezer bag and seal double — Frozen Storage (60Days)",
+            "text": "Put the wrapped squid in a freezer bag, squeeze out the air, and freeze it below -18°C. This double sealing blocks the seafood odor from transferring to other frozen foods."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I store raw squid in the fridge without cleaning the guts?",
+            "answer": "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
+          },
+          {
+            "question": "How can I prevent raw squid from smelling fishy when thawing?",
+            "answer": "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
+          }
+        ]
+      },
+      "ja": {
+        "title": "イカの鮮度を保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくイカの最適な保存温度、保管方法、保存期間について解説します。",
+        "authority": "<strong>国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>",
+        "intro": "生のイカをビニール袋に入れて冷蔵庫に置いておいたら、生臭い臭いが充満して身が傷んでしまった経験はありませんか？イカは内臓から腐り始めるため、下処理と冷凍が不可欠です。正しい手入れ方法をご紹介します。",
+        "whyTitle": "なぜこのように保存するのか？科学的な事実",
+        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の注意点",
+        "tags": [
+          "イカ",
+          "科学的に検証された保存ガイド",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "内臓、目、吸盤を必ず綺麗に取り除いてください",
+            "desc": "内臓を残したままだとそこから腐って悪臭を放ち、雑菌が繁殖します。購入後すぐに取り除いて洗浄することが大切です。"
+          },
+          {
+            "title": "生のイカは冷蔵庫で最大2日以内に調理してください",
+            "desc": "生の水産物は冷蔵室では急速に傷みます。長期間保存する場合は、必ず小分けにして冷凍庫で保管してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "内臓と吸盤の汚れを完全に除去する — 臭み防止 🦑",
+            "text": "いかの内臓や吸盤についた汚れは, 生臭さや雑菌繁殖の原因になります。胴体を切り開いて内臓とイカスミ袋を取り除き, 足の吸盤についたイカの角質リングなどの汚れを流水でこすり落としながらきれいに洗います。"
+          },
+          {
+            "name": "水気を完全に乾かしてラップで包む — 冷蔵保存 (2日間) 📦",
+            "text": "洗ったいかは, ペーパーで胴体の中も外も水分を完全に拭き取ってください。水分が残っていると凍らせる際に氷結晶ができ, 解凍した時に身がふにゃふにゃになってしまいます。水気を取ったらラップで個別に密閉します。"
+          },
+          {
+            "name": "ジッパーバッグに入れて二重に密閉して冷凍 — 冷凍保存 (60日間)",
+            "text": "ラップで包んだいかをジッパーバッグに入れ, 空気を抜いてからマイナス18℃以下の冷凍庫に保存します。海鮮特有のにおいが他の冷凍食品に移るのを完全に防ぎます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "生イカの内臓をそのまま冷蔵保存してもいいですか？",
+            "answer": "生イカは内臓から急速に腐敗し、臭いや雑菌の繁殖を引き起こします。購入後すぐに内臓を取り除いてきれいに洗い、水気を切ってから冷蔵してください。"
+          },
+          {
+            "question": "イカを解凍する際、生臭さを防ぐには？",
+            "answer": "冷蔵庫でゆっくり解凍することで、水分（ドリップ）の流出と身が硬くなるのを防ぎます。解凍時に少量の酒を振っておくと、生臭さを抑えられます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保鲜储存乌贼/鱿鱼：科学储存指南",
+        "description": "根据官方食品安全指南，了解乌贼/鱿鱼的最佳储存温度、方式和保鲜时长。",
+        "authority": "<strong>韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>",
+        "intro": "您是否曾将生鱿鱼连袋塞进冰箱，结果弄得整个厨房都是腥味且鱿鱼肉也变质了？鱿鱼内脏最先变质，因此必须进行处理和冷冻。今天，FreshSnap为您分享安全的鱿鱼处理与冷冻保鲜秘诀。",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存注意事项",
+        "tags": [
+          "乌贼/鱿鱼",
+          "科学验证的储存指南",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "请务必彻底去除内脏、眼睛和吸盘",
+            "desc": "保留内脏会导致迅速腐烂、滋生细菌并产生强烈的腥味。买回后请立即将其摘除并冲洗干净。"
+          },
+          {
+            "title": "生鱿鱼在冰箱冷藏请于2天内烹饪",
+            "desc": "生的海鲜在冷藏室极易变质。如需长期保存，请分装后直接冷冻。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "彻底清除内脏与吸盘杂质 — 防腥味 🦑",
+            "text": "鱿鱼的内脏以及吸盘内的杂质是产生腥味和滋生细菌的源头。剖开鱼腹取出内脏和墨囊，在流水下揉搓清洗鱿鱼须，将吸盘内的污垢彻底抠洗干净。"
+          },
+          {
+            "name": "彻底擦干水分后用保鲜膜包裹 — 冷藏储存 (2天) 📦",
+            "text": "清洗干净的鱿鱼，必须用厨房纸巾将内外水分彻底擦干。如果残留水分，冷冻时会形成冰晶，导致解冻后肉质变得松软无弹性。控干水分后用保鲜膜单个密封包裹。"
+          },
+          {
+            "name": "装入密封袋双重密封冷冻 — 冷冻储存 (60天)",
+            "text": "将包好的鱿鱼装入冷冻密封袋中，排净空气，在零下18℃以下冷冻保存。双重密封包装能完美防止海鲜腥味传给冷冻室里的其他食品。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "生乌贼可以带内脏直接冷藏保存吗？",
+            "answer": "不行。生乌贼会从内脏开始迅速腐烂，产生异味并滋生细菌。购买后请立即清除内脏 and 墨囊，洗净沥干水分，将身体与爪部分开后冷藏。"
+          },
+          {
+            "question": "乌贼解冻时如何防止腥味？",
+            "answer": "乌贼在冷藏室缓慢解冻可减少水分流失，防止肉质变硬。解冻时洒少许料酒或味醂可以有效去除海鲜特有的腥味。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo almacenar Calamar fresco: Guía científica de conservación",
+        "description": "Descubra la mejor temperatura, métodos y duración para conservar Calamar según las directrices oficiales de seguridad.",
+        "authority": "<strong>NIFS & MFDS & USDA</strong>",
+        "intro": "¿Puso calamar fresco en el refrigerador y vio cómo olía a choquía y se dañaba la carne? Las tripas se pudren primero, por lo que limpiarlo y congelarlo es vital. Hoy, FreshSnap comparte trucos de manejo seguro.",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas cruciales y precauciones",
+        "tags": [
+          "Calamar",
+          "Guía de almacenamiento científicamente probada",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Retire vísceras, ojos y ventosas por completo sin falta",
+            "desc": "Dejar las tripas causa una descomposición veloz, bacterias y mal olor. Límpielo de inmediato."
+          },
+          {
+            "title": "Cocine el calamar crudo en 2 días máximo en el refrigerador",
+            "desc": "Los mariscos crudos se dañan rápido en refrigeración. Para guardarlos más tiempo, congélelos en porciones."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Limpie tripas e impurezas de tentáculos — Evite olor a pescado 🦑",
+            "text": "Las tripas del calamar y la suciedad de las ventosas causan el olor fuerte y bacterias. Abra el cuerpo, retire las tripas y la bolsa de tinta, y limpie los tentáculos bajo agua corriente para eliminar la suciedad."
+          },
+          {
+            "name": "Seque del todo y envuelva con film plástico — Almacenamiento Refrigerado (2Días) 📦",
+            "text": "Seque el calamar por completo con papel de cocina por dentro y por fuera. El agua residual forma cristales de hielo al congelar, ablandando el calamar al descongelarlo. Envuelva individualmente."
+          },
+          {
+            "name": "Coloque en una bolsa para congelar y selle doble — Almacenamiento Congelado (60Días)",
+            "text": "Guarde los calamares envueltos en una bolsa para congelar, saque el aire y congele a menos de -18 °C. El sellado doble evita que el olor a marisco pase a otros alimentos congelados."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I store raw squid in the fridge without cleaning the guts?",
+            "answer": "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
+          },
+          {
+            "question": "How can I prevent raw squid from smelling fishy when thawing?",
+            "answer": "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver Calamar frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Calamar selon les directives de sécurité officielles.",
+        "authority": "<strong>NIFS & MFDS & USDA</strong>",
+        "intro": "Avez-vous mis du calamar frais au frigo pour retrouver une odeur de marée et une chair gâtée ? Les viscères pourrissent en premier, le vider et le congeler est capital. Aujourd'hui, FreshSnap vous montre comment faire.",
+        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles cruciales et précautions",
+        "tags": [
+          "Calamar",
+          "Guide de conservation scientifiquement prouvé",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Videz et retirez yeux et ventouses impérativement",
+            "desc": "Laisser les viscères provoque un pourrissement rapide, des bactéries et une mauvaise odeur. Videz-le sans attendre."
+          },
+          {
+            "title": "Cuisez le calamar cru sous 2 jours maximum au réfrigérateur",
+            "desc": "Les fruits de mer crus s'altèrent vite au frigo. Pour un stockage long, congelez-les en portions."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Retirer les entrailles et nettoyer les tentacules — Éviter l'odeur de marée 🦑",
+            "text": "Les entrailles et les ventouses sales provoquent l'odeur de poisson et les bactéries. Ouvrez le corps, ôtez les viscères et la poche d'encre, puis frottez les tentacules sous l'eau pour les nettoyer."
+          },
+          {
+            "name": "Sécher complètement et envelopper de film étirable — Stockage Réfrigéré (2Jours) 📦",
+            "text": "Essuyez tout le calamar à l'intérieur et à l'extérieur au papier absorbant. L'eau résiduelle forme des cristaux de gel à la congélation qui ramollissent la chair à la décongélation. Emballez séparément."
+          },
+          {
+            "name": "Placer dans un sac congélation et sceller double — Stockage Congelé (60Jours)",
+            "text": "Rangez le calamar emballé dans un sac congélation, videz l'air et congelez sous -18 °C. Ce double emballage empêche l'odeur de marée de se propager aux autres aliments."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I store raw squid in the fridge without cleaning the guts?",
+            "answer": "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
+          },
+          {
+            "question": "How can I prevent raw squid from smelling fishy when thawing?",
+            "answer": "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wie man Tintenfisch frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
+        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Tintenfisch basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>NIFS & MFDS & USDA</strong>",
+        "intro": "Haben Sie frischen Tintenfisch im Beutel im Kühlschrank gelagert, nur um festzustellen, dass die Küche nach Fisch roch und das Fleisch verdarb? Die Innereien verfaulen zuerst. Heute teilt FreshSnap Tipps zur Handhabung.",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "tags": [
+          "Tintenfisch",
+          "Wissenschaftlich geprüfter Lagerungsratgeber",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Innereien, Augen und Saugnäpfe vollständig entfernen",
+            "desc": "Das Belassen der Innereien führt zu schnellem Verderb, Bakterien und starkem Geruch. Sofort reinigen."
+          },
+          {
+            "title": "Rohen Tintenfisch maximal 2 Tage im Kühlschrank lagern",
+            "desc": "Roher Fisch verdirbt im Kühlschrank schnell. Zur längeren Aufbewahrung portionsweise einfrieren."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Innereien und Saugnäpfe gründlich reinigen — Fischgeruch blockieren 🦑",
+            "text": "Die Innereien und der Schmutz in den Saugnäpfen sind die Hauptursache für Fischgeruch und Bakterien. Schneiden Sie den Körper auf, entfernen Sie Innereien und Tintenbeutel, und spülen Sie die Fangarme ab."
+          },
+          {
+            "name": "Vollständig trocknen und in Frischhaltefolie wickeln — Kühllagerung (2Tage) 📦",
+            "text": "Wischen Sie die gereinigten Tintenfische innen und außen mit Küchenpapier gründlich trocken. Restwasser bildet Eiskristalle, die das Fleisch nach dem Auftauen zäh machen. Einzeln einwickeln."
+          },
+          {
+            "name": "In Gefrierbeutel legen und doppelt versiegeln — Gefrierlagerung (60Tage)",
+            "text": "Legen Sie die eingewickelten Tintenfische in einen Gefrierbeutel, pressen Sie die Luft heraus und lagern Sie sie bei unter -18 °C. Dies schützt andere Lebensmittel vor Fischgeruch."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I store raw squid in the fridge without cleaning the guts?",
+            "answer": "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
+          },
+          {
+            "question": "How can I prevent raw squid from smelling fishy when thawing?",
+            "answer": "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como armazenar Lula fresco: Guia científico de conservação",
+        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Lula com base nas diretrizes oficiais de segurança.",
+        "authority": "<strong>NIFS & MFDS & USDA</strong>",
+        "intro": "Você colocou lula fresca na geladeira e ela estragou e deixou mau cheiro? As vísceras apodrecem primeiro, então limpar e congelar é vital. Hoje, o FreshSnap compartilha técnicas corretas.",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas cruciales e precauções",
+        "tags": [
+          "Lula",
+          "Guia de armazenamento comprovado cientificamente",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Retire as vísceras, olhos e ventosas completamente",
+            "desc": "Manter as vísceras causa decomposição rápida, bactérias e mau cheiro. Limpe imediatamente."
+          },
+          {
+            "title": "Prepare a lula crua em até 2 dias de geladeira",
+            "desc": "Frutos do mar crus estragam rápido na geladeira. Para guardar por mais tempo, congele em porções."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Limpe vísceras e impurezas dos tentáculos — Evite cheiro forte 🦑",
+            "text": "As vísceras do lula e a sujeira das ventosas causam cheiro forte e bactérias. Abra o corpo, retire as vísceras e a bolsa de tinta, e lave os tentáculos em água corrente para remover as impurezas."
+          },
+          {
+            "name": "Seque completamente e embrulhe com filme plástico — Armazenamento Refrigerado (2Dias) 📦",
+            "text": "Seque a lula com papel-toalha por dentro e por fora. O excesso de água cria cristais de gelo que deixam a lula mole ao descongelar. Embrulhe individualmente."
+          },
+          {
+            "name": "Coloque em um saco para freezer e sele duplo — Armazenamento Congelado (60Dias)",
+            "text": "Coloque a lula embrulhada em um saco para freezer, retire o ar e congele a menos de -18 °C. Essa vedação dupla impede que o cheiro de frutos do mar passe para outros alimentos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I store raw squid in the fridge without cleaning the guts?",
+            "answer": "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
+          },
+          {
+            "question": "How can I prevent raw squid from smelling fishy when thawing?",
+            "answer": "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Cumi-cumi agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Cumi-cumi berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>NIFS & MFDS & USDA</strong>",
+        "intro": "Pernahkah Anda menyimpan cumi mentah di kulkas lalu dapur Anda berbau amis dan daging cumi rusak? Isi perut cumi busuk lebih dulu. Hari ini, FreshSnap membagikan panduan penanganan cumi.",
+        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
+        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan",
+        "tags": [
+          "Cumi-cumi",
+          "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+          "seafood"
+        ],
+        "cautions": [
+          {
+            "title": "Buang isi perut, mata, dan tentakel cumi sepenuhnya",
+            "desc": "Membiarkan isi perut cumi memicu pembusukan cepat, perkembangbiakan bakteri, dan bau amis. Segera bersihkan."
+          },
+          {
+            "title": "Masak cumi mentah dalam kulkas maks 2 hari",
+            "desc": "Seafood mentah cepat busuk di kulkas. Untuk penyimpanan lama, bekukan dalam porsi-porsi kecil."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bersihkan jeroan dan tentakel sepenuhnya — Mencegah bau amis 🦑",
+            "text": "Jeroan cumi dan kotoran pada alat hisap tentakel adalah sumber bau amis dan bakteri. Belah tubuh cumi, buang jeroan dan kantong tinta, lalu gosok tentakel di bawah air mengalir."
+          },
+          {
+            "name": "Keringkan sepenuhnya lalu bungkus dengan plastik wrap — Penyimpanan Dingin (2Hari) 📦",
+            "text": "Lap semua sisa air pada bagian dalam dan luar cumi dengan tisu dapur. Air yang tersisa memicu kristal es yang merusak serat cumi saat dibekukan, membuatnya lembek saat dicairkan."
+          },
+          {
+            "name": "Masukkan ke kantong ziploc lalu segel ganda untuk dibekukan — Penyimpanan Beku (60Hari)",
+            "text": "Masukkan cumi yang telah dibungkus ke dalam kantong ziploc, buang udaranya, lalu bekukan di bawah -18°C. Segel ganda menahan bau amis agar tidak menyebar ke makanan lain."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I store raw squid in the fridge without cleaning the guts?",
+            "answer": "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
+          },
+          {
+            "question": "How can I prevent raw squid from smelling fishy when thawing?",
+            "answer": "Thaw it slowly in the fridge to maintain its tender texture. Sprinkling a dash of cooking rice wine (mirin) during thawing eliminates fishy odors."
+          }
+        ]
+      }
+    }
+  }
+}

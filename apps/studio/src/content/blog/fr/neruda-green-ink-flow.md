@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La méthode d'écriture à l'encre verte de Pablo Neruda : Éveiller le Flow créatif du cerveau via les longueurs d'onde de la couleur"
 description: "Explore pourquoi le prix Nobel Pablo Neruda écrivait ses poèmes exclusivement à l'encre verte tout au long de sa vie et les principes de la psychologie kognitive de la couleur montrant comment les longueurs d'onde vertes induisent les ondes Alpha cérébrales."
 pubDate: "2026-05-16"
@@ -35,25 +36,23 @@ Alors que l'encre verte imprégnait intensément le papier blanc, Neruda faisait
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant neruda-green-ink-flow est basée sur <strong>Vérification des biographies historiques et des récits autobiographiques sur l'encre verte de Neruda & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Vérification des biographies historiques et des récits autobiographiques sur l'encre verte de Neruda & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi les longueurs d'onde de la lumière verte réduisent la fatigue visuelle et stimulent les ondes Alpha cérébrales
+## 1. Pourquoi les longueurs d'onde de la lumière verte réduisent la fatigue visuelle et stimulent les ondes Alpha cérébrales
 
 Selon les recherches en psychologie kognitive de la couleur et en neurosciences, le spectre de lumière verte (520–550 nm) représente la zone de couleur naturelle qui exerce le moins de contrainte sur la rétine et le cortex visuel. Ce confort visuel induit des ondes Alpha cérébrales, déclenchant un état de Flow profond et sans effort (Flow State).
 
 ---
 
-## Mises en garde et conseils d'immersion pour l'habitude de Neruda
-
-Lorsque vous utilisez l'écriture à l'encre verte, ne vous bloquez pas sur l'orthographe ou une structure de phrase parfaite. L'essentiel est de garder votre main en mouvement continu pendant 10 minutes au rythme de l'inspiration. Ne comptez pas uniquement sur la volonté ; concevoir à l'avance des environnements physiques et des déclencheurs d'habitudes est essentiel pour la pérennité.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Lorsque vous utilisez l'écriture à l'encre verte, ne vous bloquez pas sur l'or
   </p>
 </div>
 
+---
+
+## 3. Mises en garde et conseils d'immersion pour l'habitude de Neruda
+
+Lorsque vous utilisez l'écriture à l'encre verte, ne vous bloquez pas sur l'orthographe ou une structure de phrase parfaite. L'essentiel est de garder votre main en mouvement continu pendant 10 minutes au rythme de l'inspiration. Ne comptez pas uniquement sur la volonté ; concevoir à l'avance des environnements physiques et des déclencheurs d'habitudes est essentiel pour la pérennité.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>L'utilisation d'un thème vert dans un éditeur numérique produit-elle le même effet que l'écriture sur papier ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Lorsque vous utilisez l'écriture à l'encre verte, ne vous bloquez pas sur l'or
       Oui, tout à fait. Comme le cortex visuel détecte les longueurs d'onde lumineuses, les thèmes vert foncé apaisants sur écran numérique provoquent le même effet d'induction d'ondes Alpha que l'encre analogique.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Pourquoi l'encre noire ou les écrans noir et blanc à fort contraste provoquent-ils parfois un blocage créatif ?</span>

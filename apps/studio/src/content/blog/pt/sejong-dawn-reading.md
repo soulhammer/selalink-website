@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O segredo de uma governança criativa? A intensa rotina de leitura na alvorada do Rei Sejong, o Grande"
 description: "O Rei Sejong, o Grande, criou o Hangeul. Descubra sua rotina de ativação cognitiva matinal ao acordar às 3h para aquecer sua mente com literatura clássica."
 pubDate: "2026-04-27"
@@ -35,17 +36,17 @@ Exploramos a ciência por trás da 'Leitura na Alvorada' do Rei Sejong e como pr
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre sejong-dawn-reading é baseada em <strong>Verificação histórica dos Anais do Rei Sejong (Anais da Dinastia Joseon), biografias & pesquisas em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Verificação histórica dos Anais do Rei Sejong (Anais da Dinastia Joseon), biografias & pesquisas em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efeitos do aquecimento cognitivo para despertar o cérebro logo ao acordar
+## 1. Efeitos do aquecimento cognitivo para despertar o cérebro logo ao acordar
 
 Logo após acordar, o cérebro está livre de distrações visuais e ruídos, criando um estado ideal para o foco profundo.
 
@@ -53,9 +54,7 @@ Ler textos densos pela manhã funciona como um <strong>'Aquecimento Cognitivo'</
 
 ---
 
-## Escolha papel e luz suave em vez da luz azul das telas
-
-A chave da leitura matinal é preservar o estado calmo do cérebro. Olhar o celular ao acordar bombardeia seu cérebro com luz azul e notificações, cansando o córtex pré-frontal. Evite telas e use livros físicos à luz suave para transformar a calma matinal em ativo cognitivo.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ A chave da leitura matinal é preservar o estado calmo do cérebro. Olhar o celu
   </p>
 </div>
 
+---
+
+## 3. Escolha papel e luz suave em vez da luz azul das telas
+
+A chave da leitura matinal é preservar o estado calmo do cérebro. Olhar o celular ao acordar bombardeia seu cérebro com luz azul e notificações, cansando o córtex pré-frontal. Evite telas e use livros físicos à luz suave para transformar a calma matinal em ativo cognitivo.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Não sou uma pessoa matutina; preciso mesmo acordar às 3h ou 4h da manhã?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ A chave da leitura matinal é preservar o estado calmo do cérebro. Olhar o celu
       Não. O essencial do Rei Sejong é garantir um momento de foco sem distrações ao acordar. Acordar apenas 30 minutos mais cedo e ler no silêncio sem celular produz os mesmos benefícios.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Posso ler romances online ou artigos de redes sociais?</span>

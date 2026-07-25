@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Superando la Sobrecarga de Decisiones con Paseos Matutinos a Caballo: La Estimulación Aeróbica de Bismarck y la Rutina TOP 3"
 description: "Descubra cómo Otto von Bismarck, el 'Canciller de Hierro' que unificó Alemania, combinó la equitación matutina con el método de extracción de las TOP 3 prioridades, y explore los principios neurocientíficos de elevar el flujo sanguíneo cerebral para prevenir la fatiga de decisión."
 pubDate: "2026-03-16"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la ciencia cerebral que sustenta la rutina
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre bismarck-morning-ride-priority se basa en <strong>Verificación Histórica de la Autobiografía de Otto von Bismarck *Gedanken und Erinnerungen* y la Biografía de A.J.P. Taylor *Bismarck: The Man and the Statesman* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
+      Este contenido se basa en <strong>Verificación Histórica de la Autobiografía de Otto von Bismarck *Gedanken und Erinnerungen* y la Biografía de A.J.P. Taylor *Bismarck: The Man and the Statesman* e Investigación en Neurociencia Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Secreción de BDNF Post-Ejercicio Aeróbico y Simplificación de Decisiones Mediante la 'Regla de 3'
+## 1. Secreción de BDNF Post-Ejercicio Aeróbico y Simplificación de Decisiones Mediante la 'Regla de 3'
 
 Cuando las opciones de decisión superan los 4 o 5 elementos, se produce un cuello de botella en los circuitos de control ejecutivo prefrontal, provocando una rápida fatiga de decisión. Aplicar la 'Regla de 3' justo después de activar el Factor Neurotrófico Derivado del Cerebro (BDNF) y la liberación de dopamina mediante el ejercicio aeróbico matutino —como hacía Bismarck— preserva el presupuesto de glucosa de la corteza prefrontal y previene la sobrecarga cognitiva. Dentro del límite estructurado de solo tres elementos, el cerebro filtra el ruido y libera una energía cognitiva máxima para resolver problemas clave.
 
 ---
 
-## Precauciones y Consejos: Exclusión de Tareas Triviales Antes de Completar las TOP 3 y Diseño del Entorno
-
-Taclear primero tareas sencillas y triviales le da al cerebro una sensación momentánea de 'falsa realización', pero termina posponiendo la ejecución de las tareas prioritarias. Hasta que las TOP 3 tareas estén terminadas, posponga labores menores como revisar correos u organizar su escritorio. En lugar de confiar solo en la fuerza de voluntad, la clave de la sostenibilidad es diseñar de antemano un entorno físico que bloquee distracciones.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Taclear primero tareas sencillas y triviales le da al cerebro una sensación mom
   </p>
 </div>
 
+---
+
+## 3. Precauciones y Consejos: Exclusión de Tareas Triviales Antes de Completar las TOP 3 y Diseño del Entorno
+
+Taclear primero tareas sencillas y triviales le da al cerebro una sensación momentánea de 'falsa realización', pero termina posponiendo la ejecución de las tareas prioritarias. Hasta que las TOP 3 tareas estén terminadas, posponga labores menores como revisar correos u organizar su escritorio. En lugar de confiar solo en la fuerza de voluntad, la clave de la sostenibilidad es diseñar de antemano un entorno físico que bloquee distracciones.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿Qué sucede si no logro completar una de las TOP 3 tareas durante el día?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Taclear primero tareas sencillas y triviales le da al cerebro una sensación mom
       Está completamente bien. No es un fracaso, sino prueba de que concentró su energía en un proyecto sustancial de alto impacto. Simplemente reprograme el elemento no completado como la tarea n.º 1 de mañana por la mañana cuando su corteza prefrontal esté más despejada.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Cuáles son las alternativas de ejercicio moderno a la equitación matutina?</span>

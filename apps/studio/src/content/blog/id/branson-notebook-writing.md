@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rahasia Miliarder di Saku Belakang Celana: Buku Catatan Analog dan Stimulasi RAS ala Richard Branson"
 description: "Pelajari bagaimana pendiri Virgin Group Sir Richard Branson membangun lebih dari 400 perusahaan dengan mencatat inspirasi dalam buku catatan analog di saku belakangnya, serta temukan prinsip neurosains tentang bagaimana tulisan tangan merangsang Reticular Activating System (RAS) untuk mengubah ide menjadi tindakan nyata secara instan."
 pubDate: "2026-03-04"
@@ -33,25 +34,23 @@ Berjuang melawan disleksia di masa mudanya, Branson secara alami sangat menganda
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai branson-notebook-writing didasarkan pada <strong>Verifikasi Historis dari Autobiografi Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Autobiografi Richard Branson *Like a Virgin: Secrets They Don't Teach You at Business School* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Reticular Activating System (RAS) dan Persepsi Selektif untuk Tindakan
+## 1. Aktivasi Reticular Activating System (RAS) dan Persepsi Selektif untuk Tindakan
 
 Terletak di batang otak, Reticular Activating System (RAS) adalah filter saraf yang memilih sinyal krusial dari masukan sensorik yang luas untuk disalurkan ke korteks serebral. Tindakan fisik memegang pena dan menekan kertas memberikan sinyal biologis: 'Informasi ini sangat penting untuk kelangsungan hidup dan pencapaian tujuan saya.' RAS yang dirangsang oleh tulisan tangan memicu mekanisme fokus perhatian otak, mentransisikan pikiran ke dalam kondisi 'Persepsi Selektif' di mana otak secara tidak sadar memindai lingkungan untuk mencari peluang, sumber daya, dan solusi yang terikat dengan catatan tersebut. Dibandingkan dengan sekadar pikiran atau pengetikan digital, catatan buatan tangan secara eksponensial meningkatkan probabilitas menerjemahkan ide mental menjadi hasil nyata di dunia nyata.
 
 ---
 
-## Perhatian & Tip: Mempertahankan Tangkapan Mentah dan Instan daripada Penataan yang Dipoles
-
-Inti dari rutinitas buku catatan gaya Branson terletak pada 'kesegeraan mentah'—menangkap percakapan atau ide di tempat tanpa berhenti untuk menyusun prosa yang terpoles. Begitu Anda ragu-ragu untuk mempercantik tulisan tangan atau merangkum dengan rapi, filter prefrontal beroperasi dan ekor dari inspirasi bawah sadar menghilang. Pencatatan kata-kata mentah yang cepat dan tanpa edit adalah kunci untuk mengaktifkan RAS.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,12 +82,18 @@ Inti dari rutinitas buku catatan gaya Branson terletak pada 'kesegeraan mentah'�
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mempertahankan Tangkapan Mentah dan Instan daripada Penataan yang Dipoles
+
+Inti dari rutinitas buku catatan gaya Branson terletak pada 'kesegeraan mentah'—menangkap percakapan atau ide di tempat tanpa berhenti untuk menyusun prosa yang terpoles. Begitu Anda ragu-ragu untuk mempercantik tulisan tangan atau merangkum dengan rapi, filter prefrontal beroperasi dan ekor dari inspirasi bawah sadar menghilang. Pencatatan kata-kata mentah yang cepat dan tanpa edit adalah kunci untuk mengaktifkan RAS.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Bagaimana penggunaan aplikasi catatan smartphone berbeda secara fungsional dari buku catatan kertas analog?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -97,7 +102,7 @@ Inti dari rutinitas buku catatan gaya Branson terletak pada 'kesegeraan mentah'�
       Membuka kunci smartphone dan menemukan aplikasi catatan memaparkan Anda pada notifikasi, pesan, dan email yang membajak fokus, menyebabkan inspirasi singkat menguap. Sebaliknya, buku catatan analog bersifat instan; gesekan taktil dan tekanan pena secara kuat merangsang korteks somatosensori dan mengaktifkan filter RAS otak.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apakah ada contoh dunia nyata di mana catatan sepele di buku catatan Branson berkembang menjadi kesuksesan bisnis besar?</span>

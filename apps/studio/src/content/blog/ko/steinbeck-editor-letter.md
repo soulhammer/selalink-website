@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "시작의 두려움 없애기: 스타인벡의 예열 편지 루틴"
 description: "소설 집필 시작의 막연한 저항감을 해소하기 위해 매일 편집자에게 편지를 썼던 소설가 존 스타인벡. 가벼운 자유 글쓰기가 뇌의 언어 운동 피질을 활성화하고 지연 행동을 극복하게 해주는 원리를 연구합니다."
 pubDate: "2026-05-07"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>에 근거하여 steinbeck-editor-letter 루틴을 다룹니다.
+      본 콘텐츠는 <strong>John Steinbeck, *Journal of a Novel: The East of Eden Letters* (1969) & *Cognitive Psychology Journal*</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 완벽주의 저항감 해소와 편도체 불안 억제의 신경 경로
+## 1. 완벽주의 저항감 해소와 편도체 불안 억제의 신경 경로
 
 뇌가 중요하고 완성도 높은 결과물을 만들어야 한다고 인지할 때, 편도체는 실패에 대한 무의식적 경보를 발령하여 지연 행동을 유발합니다. 이때 무가치하고 지극히 사소한 글쓰기를 선행하여 뇌에 '평가받지 않는 안전한 상태'라는 피드백을 전달하면 편도체의 과활동이 잠잠해집니다. 이와 동시에 브로카 영역과 운동 신경 피질이 가볍게 활성화되며 기어가 맞물려, 본 업무 착수 시의 저항 장벽을 획기적으로 낮춰 줍니다.
 
 ---
 
-## 주의사항 및 팁
-
-예열 편지를 작성할 때 가장 주의해야 할 함정은 예열 활동 자체가 또 다른 미루기 수단으로 변질되는 것입니다. 편지를 너무 길게 써서 지치거나, 편지 쓰기 자체에 30분 이상을 허비한다면 본래 목표의 집중 시간이 부족해집니다. 따라서 예열 편지는 최대 5분, 공책 반 페이지 분량으로 엄격히 제한하여 사용하고, 예열이 끝나는 타이밍에 망설임 없이 본 업무 화면을 여는 실행력이 요구됩니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ faqs:
     손가락과 언어 피질이 유연해진 상태에서 망설이지 말고 즉각 본 작업(보고서, 원고, 공부) 화면으로 전환합니다.
   </p>
 </div>
+
+---
+
+## 3. 주의사항 및 팁
+
+예열 편지를 작성할 때 가장 주의해야 할 함정은 예열 활동 자체가 또 다른 미루기 수단으로 변질되는 것입니다. 편지를 너무 길게 써서 지치거나, 편지 쓰기 자체에 30분 이상을 허비한다면 본래 목표의 집중 시간이 부족해집니다. 따라서 예열 편지는 최대 5분, 공책 반 페이지 분량으로 엄격히 제한하여 사용하고, 예열이 끝나는 타이밍에 망설임 없이 본 업무 화면을 여는 실행력이 요구됩니다.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

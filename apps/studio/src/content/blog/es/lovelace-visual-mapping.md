@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La Programadora que Dibujó Fórmulas Matemáticas: El Mapeo Visual y las Redes de Doble Codificación de Ada Lovelace"
 description: "Descubra cómo la primera programadora del mundo, Ada Lovelace, visualizó complejos flujos de control algorítmico para la Máquina Analítica en diagramas estructurados. Explore cómo su hábito de mapeo visual superó los límites de la Memoria de Trabajo mediante la Teoría de la Doble Codificación."
 pubDate: "2026-02-01"
@@ -38,22 +39,20 @@ En la publicación de hoy, analizamos la neurociencia cognitiva detrás del 'map
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre lovelace-visual-mapping se basa en <strong>Verificación Histórica del Tratado de Ada Lovelace *Notes on the Analytical Engine* (1843), Archivos de Lovelace e Investigación en Neurociencia Cognitiva y Psicología Cognitiva</strong>.
+      Este contenido se basa en <strong>Verificación Histórica del Tratado de Ada Lovelace *Notes on the Analytical Engine* (1843), Archivos de Lovelace e Investigación en Neurociencia Cognitiva y Psicología Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Superando los Límites de la Memoria de Trabajo mediante la Teoría de la Doble Codificación
+## 1. Superando los Límites de la Memoria de Trabajo mediante la Teoría de la Doble Codificación
 
 La <strong>Memoria de Trabajo</strong> tiene una capacidad limitada. Flujos continuos de texto o fórmulas causan <strong>Sobrecarga Cognitiva</strong>. El hábito de Lovelace potenció la <strong>Teoría de la Doble Codificación</strong>. Al procesar información verbal y visoespacial por vías neurales independientes, la <strong>Corteza Visual</strong> absorbe carga cognitiva, liberando a la <strong>Corteza Prefrontal</strong> para el diseño lógico.
 
 ---
 
-## Precaución: Elimine la Toma de Notas Lineal para Sumergirse en el Mapeo Visual
-
-Persistir en notas lineales al resolver sistemas complejos atasca el cerebro en un canal estrecho. Cuando se bloquee el flujo de pensamiento, deje de escribir texto y cambie de dimensión: use flechas y formas en un lienzo amplio para visualizar relaciones.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Persistir en notas lineales al resolver sistemas complejos atasca el cerebro en 
   </p>
 </div>
 
+---
+
+## 3. Precaución: Elimine la Toma de Notas Lineal para Sumergirse en el Mapeo Visual
+
+Persistir en notas lineales al resolver sistemas complejos atasca el cerebro en un canal estrecho. Cuando se bloquee el flujo de pensamiento, deje de escribir texto y cambie de dimensión: use flechas y formas en un lienzo amplio para visualizar relaciones.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>¿En qué se diferencia el mapeo visual de Ada Lovelace de un mapa mental común?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Persistir en notas lineales al resolver sistemas complejos atasca el cerebro en 
       Los mapas mentales se centran en la lluvia de ideas radial. El mapeo de Lovelace modela la lógica operativa: flujos de datos, bucles de control, bifurcaciones condicionales y causalidad estructurada.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>¿Es necesario utilizar herramientas digitales complejas como UML o Figma?</span>

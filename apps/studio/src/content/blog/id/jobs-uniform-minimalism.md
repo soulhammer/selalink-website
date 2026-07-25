@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Jenius yang Mengenakan Pakaian yang Sama Setiap Hari: Rutinitas Minimalisme Keputusan dan Pelestarian Sumber Daya Kognitif Prefrontal Steve Jobs"
 description: "Pelajari bagaimana pendiri Apple Steve Jobs melestarikan energi kognitif dengan mengenakan seragam harian sweater kerah tinggi hitam dan jeans yang identik. Temukan neurosains kelelahan keputusan dan alokasi sumber daya korteks prefrontal."
 pubDate: "2026-06-25"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis psikologi kognitif dan neurosains di
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai jobs-uniform-minimalism didasarkan pada <strong>Verifikasi Historis dari *Steve Jobs* (2011) karya Walter Isaacson, Arsip Apple & Penelitian Psikologi Kognitif dan Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari *Steve Jobs* (2011) karya Walter Isaacson, Arsip Apple & Penelitian Psikologi Kognitif dan Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Menghilangkan Kelelahan Keputusan dan Pelestarian Sumber Daya Kognitif Prefrontal
+## 1. Menghilangkan Kelelahan Keputusan dan Pelestarian Sumber Daya Kognitif Prefrontal
 
 Kinerja korteks prefrontal manusia bergantung pada pasokan energi eksekutif harian yang terbatas. Menghabiskan sumber daya kognitif di pagi hari untuk memilih dan mencocokkan pakaian memicu <strong>Kelelahan Keputusan (Decision Fatigue)</strong>. Kebiasaan Steve Jobs mengenakan seragam tetap secara fisik menghilangkan keputusan mikro pagi hari yang sepele.
 
 ---
 
-## Perhatian: Mengubah Pilihan Harian Menjadi Konstanta untuk Menghemat Energi
-
-Mekanisme utama minimalisme pakaian bukanlah monotonitas estetika, melainkan eliminasi sistematis atas keputusan mikro berisiko rendah. Mengubah pilihan harian yang berulang—seperti menu sarapan, formula pakaian, atau rute perjalanan—menjadi konstanta tetap menghemat energi prefrontal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Mekanisme utama minimalisme pakaian bukanlah monotonitas estetika, melainkan eli
   </p>
 </div>
 
+---
+
+## 3. Perhatian: Mengubah Pilihan Harian Menjadi Konstanta untuk Menghemat Energi
+
+Mekanisme utama minimalisme pakaian bukanlah monotonitas estetika, melainkan eliminasi sistematis atas keputusan mikro berisiko rendah. Mengubah pilihan harian yang berulang—seperti menu sarapan, formula pakaian, atau rute perjalanan—menjadi konstanta tetap menghemat energi prefrontal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Mengapa Steve Jobs bersikeras mengenakan pakaian yang sama persis setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Mekanisme utama minimalisme pakaian bukanlah monotonitas estetika, melainkan eli
       Jobs mengeliminasi pemilihan pakaian pagi hari untuk mencegah Kelelahan Keputusan dan menghemat energi korteks prefrontal, mendedikasikan 100% kapasitas kognitifnya untuk manajemen Apple.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa alternatif praktis jika mengenakan pakaian yang sama persis seperti Jobs terasa tidak realistis?</span>

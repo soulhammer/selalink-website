@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Senecas abendliche Selbstprüfung: Wie Sie ruhigen Schlaf sichern und die Fehler von gestern korrigieren"
 description: "Erfahren Sie, wie der stoische Philosoph Seneca vor dem Schlafengehen in einem dunklen Raum seinen Tag analysierte, Gehirnspannungen abbaute und die Schlafqualität steigert."
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ Dieses antike Reflexionsritual zur Erzielung kognitiver Abgeschlossenheit gilt i
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu seneca-evening-review basiert auf <strong>Textuelle Verifizierung von Senecas 'De Ira' (Über die Wut), stoische Literatur & Kognitive Neurowissenschaften und Schlafphysiologie</strong>.
+      Dieser Inhalt basiert auf <strong>Textuelle Verifizierung von Senecas 'De Ira' (Über die Wut), stoische Literatur & Kognitive Neurowissenschaften und Schlafphysiologie</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Physiologische Gründe, warum abendliche Reflexion das Gehirn in den Schlafmodus versetzt
+## 1. Physiologische Gründe, warum abendliche Reflexion das Gehirn in den Schlafmodus versetzt
 
 Mit ungelösten Ängsten ins Bett zu gehen, hält das sympathische Nervensystem aktiv und verhindert tiefen Schlaf.
 
@@ -51,9 +52,7 @@ Die abendliche Reflexion führt hingegen zu 'Kognitiver Abgeschlossenheit' (Cogn
 
 ---
 
-## Vermeiden Sie die Falle von Selbstvorwürfen und Grübeln
-
-Der Kern der abendlichen Reflexion ist rationale Verbesserung, nicht emotionale Selbstbestrafung. Wer sich vor dem Schlafengehen verurteilt, setzt Stresshormone frei. Verzeihen Sie sich gelassen: "Ich habe einen Fehler gemacht, kenne die Ursache und werde ihn morgen korrigieren."
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -84,6 +83,12 @@ Der Kern der abendlichen Reflexion ist rationale Verbesserung, nicht emotionale 
     Wählen Sie einen bedauerlichen Moment des Tages und legen Sie eine konkrete Korrektur für morgen fest. Sagen Sie sich dann: "Für heute ist alles erledigt", und lassen Sie alle Gedanken los.
   </p>
 </div>
+
+---
+
+## 3. Vermeiden Sie die Falle von Selbstvorwürfen und Grübeln
+
+Der Kern der abendlichen Reflexion ist rationale Verbesserung, nicht emotionale Selbstbestrafung. Wer sich vor dem Schlafengehen verurteilt, setzt Stresshormone frei. Verzeihen Sie sich gelassen: "Ich habe einen Fehler gemacht, kenne die Ursache und werde ihn morgen korrigieren."
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

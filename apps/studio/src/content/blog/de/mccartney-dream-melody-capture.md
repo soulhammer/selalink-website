@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Ein Meisterwerk aus den Nachwehen des Traums: Paul McCartneys Gewohnheit der sofortigen Erfassung des Unterbewusstseins"
 description: "Paul McCartney, der den Beatles-Klassiker 'Yesterday' direkt nach dem Aufwachen aus einem Traum rettete. Teilt das Geheimnis, Kreativität im diffusen Modus während der Hypnagogie zu erfassen."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ Das menschliche Gehirn erlebt direkt nach dem Aufwachen einen hochkreativen Zust
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu mccartney-dream-melody-capture basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Paul McCartney & kognitionswissenschaftliche Forschung</strong>.
+      Dieser Inhalt basiert auf <strong>Historische Biografie- und autobiografische Quellenforschung zu Paul McCartney & kognitionswissenschaftliche Forschung</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Hypnagogie und der diffuse Modus des Gehirns
+## 1. Hypnagogie und der diffuse Modus des Gehirns
 
 In den ersten Minuten nach dem Aufwachen befinden wir uns in der 'Hypnagogie', in der der dorsolaterale präfrontale Kortex (DLPFC) noch nicht voll aktiv ist. Das Gehirn tritt in den diffusen Modus ein, in dem Selbstzensur gelockert ist und Erinnerungen sich frei verbinden. Sobald volle Wachheit eintritt, wechselt das Gehirn in den fokussierten Modus und löscht das Kurzzeitgedächtnis. Das Aufschreiben innerhalb von 30 Sekunden schützt vor diesem Verlust.
 
 ---
 
-## Vorsichtsmaßnahmen und Tipps
-
-Der größte Fehler bei dieser Gewohnheit ist es, direkt nach dem Aufwachen Soziale Medien oder Mails auf dem Smartphone zu prüfen. Wenn externe strukturierte Daten die visuelle Rinde beherrschen, schaltet das Gehirn in Anspannung und löscht Traumerinnerungen. Halten Sie nur Stift und Papier am Bett bereit und meiden Sie in den ersten 3 Minuten alle Medien.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Der größte Fehler bei dieser Gewohnheit ist es, direkt nach dem Aufwachen Sozi
     Schalten Sie beim Schreiben Fragen wie 'Macht das Sinn?' oder 'Ist das merkwürdig?' völlig aus. Konzentrieren Sie sich darauf, Rohdaten aufs Papier zu bringen; die Analyse folgt nachmittags.
   </p>
 </div>
+
+---
+
+## 3. Vorsichtsmaßnahmen und Tipps
+
+Der größte Fehler bei dieser Gewohnheit ist es, direkt nach dem Aufwachen Soziale Medien oder Mails auf dem Smartphone zu prüfen. Wenn externe strukturierte Daten die visuelle Rinde beherrschen, schaltet das Gehirn in Anspannung und löscht Traumerinnerungen. Halten Sie nur Stift und Papier am Bett bereit und meiden Sie in den ersten 3 Minuten alle Medien.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

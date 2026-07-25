@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "思考の行き止まりでバイオリンを奏でた天才：アルベルト・アインシュタインのリセットルーティンと認知転換法"
 description: "物理学のパラダイムを変えたアルベルト・アインシュタイン。研究中に思考が行き詰まるたびにバイオリンを演奏した彼のユニークな脳リセット法と、現代人のための3段階認知転換実践法を解き明かします。"
 pubDate: "2026-03-05"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「einstein-violin-thinking」は <strong>アルベルト・アインシュタイン随筆集『我が世界観（Out of My Later Years）』およびウォルター・アイザックソン評伝『アインシュタイン その生涯と宇宙』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アルベルト・アインシュタイン随筆集『我が世界観（Out of My Later Years）』およびウォルター・アイザックソン評伝『アインシュタイン その生涯と宇宙』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 脳の異なる領域を呼び醒ます「認知的転換（Cognitive Shifting）」とデフォルト・モード・ネットワーク
+## 1. 脳の異なる領域を呼び醒ます「認知的転換（Cognitive Shifting）」とデフォルト・モード・ネットワーク
 
 私たちが一つの複雑な問題に過度に没頭している時、脳は思考の罠に囚われ、特定の神経回路のみを反復的に活性化させます。これを認知心理学では「トンネル視野（Tunnel Vision）」または「思考の過負荷」状態と呼びます。アインシュタインが行ったバイオリン演奏は、この過負荷状態の神経回路を即座に遮断し、脳の異なる領域を活性化させる完璧な「認知的転換（Cognitive Shifting）」の道具でした。楽器を演奏する行為は視覚、聴覚、触覚を同時に刺激し、左脳と右脳をつなぐ脳梁（Corpus Callosum）を強力に刺激します。執着していた問題から物理的・精神的に一歩 retreat し、音楽に完全に注意を集中させた瞬間、脳は無意識状態（Default Mode Network）へと移行し、散らばっていた情報を創造的に結合させて解答を導き出す「アハ・モーメント（Aha! Moment）」を作り出します。
 
 ---
 
-## 手放す術を知ってこそ新しいアイデアが見えてくる
-
-アインシュタインは優れた物理学者であると同時に、素晴らしいバイオリニストでもありました。彼にとって音楽は物理学の研究と無関係な趣味ではなく、むしろ脳の疲労を予防し創造的インスピレーションを呼び醒ます最も強力な思考の潤滑油でした。アイデアが行き詰まった時、無理にしがみつくよりアインシュタインのように感覚的刺激の対象を完全に切り替え、脳がリセットする機会を与えてください。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 手放す術を知ってこそ新しいアイデアが見えてくる
+
+アインシュタインは優れた物理学者であると同時に、素晴らしいバイオリニストでもありました。彼にとって音楽は物理学の研究と無関係な趣味ではなく、むしろ脳の疲労を予防し創造的インスピレーションを呼び醒ます最も強力な思考の潤滑油でした。アイデアが行き詰まった時、無理にしがみつくよりアインシュタインのように感覚的刺激の対象を完全に切り替え、脳がリセットする機会を与えてください。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>アインシュタインはバイオリン演奏以外にも他の方法で脳をリしましたか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       はい、アインシュタインは研究の合間に定期的にヨットに乗って海へ出て風を感じながら瞑想をしたり、1日10時間以上の十分な睡眠をとることで潜在意識が問題を整理できるよう助けました。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>楽器を全く演奏できない人でもこのルーティンを実践できますか？</span>

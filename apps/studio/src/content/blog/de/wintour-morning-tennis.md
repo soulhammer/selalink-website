@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Die Kraft hinter der eisernen Führung der Modewelt: Anna Wintours Tennis-Routine um 5 Uhr morgens"
 description: "Vogue-Chefredakteurin Anna Wintour steht jeden Morgen um 5 Uhr auf, um eine Stunde lang über den Platz zu laufen. Entdecken Sie die wissenschaftlichen Grundlagen und den 3-Schritte-Praxisleitfaden dieser gehirnaktivierenden Tennis-Routine."
 pubDate: "2026-05-14"
@@ -35,17 +36,17 @@ In diesem Beitrag untersuchen wir die neurophysiologischen Vorteile dieser jahrz
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Historische und akademische Grundlage
+      Historischer & Wissenschaftlicher Beleg
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Die Analyse zu wintour-morning-tennis basiert auf <strong>Historische und biografische Analysen zu Anna Wintour & Kognitive Neurowissenschaften</strong>.
+      Dieser Inhalt basiert auf <strong>Historische und biografische Analysen zu Anna Wintour & Kognitive Neurowissenschaften</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Erhöhung der Körperkerntemperatur und Stimulation von Neurotransmittern
+## 1. Erhöhung der Körperkerntemperatur und Stimulation von Neurotransmittern
 
 Direkt nach dem Aufwachen befindet sich das Gehirn in einer Phase der Schlafschwere. Wenn man in diesem Zustand ohne vorherige Aktivierung sofort mit anstrengenden Meetings oder stressigen E-Mails konfrontiert wird, kann die Funktion des präfrontalen Kortex beeinträchtigt werden, was zu impulsiven oder emotionalen Entscheidungen führt.
 
@@ -53,9 +54,7 @@ Intensives Ausdauertraining wie Tennis am Morgen steigert sofort die Durchblutun
 
 ---
 
-## Achten Sie auf ausreichende Zeit und ein sanftes Aufwärmen des Herzens
-
-Direkt nach dem Aufwachen ist das Herz verengt und der Gefäßdruck hoch. Sofort nach dem Aufstehen einen Vollsprint zu starten, belastet das Herz-Kreislauf-System erheblich. Führen Sie 3 Minuten lang ein sanftes Aufwärmen durch (z. B. leichtes dynamisches Dehnen), bevor Sie die Intensität steigern.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Direkt nach dem Aufwachen ist das Herz verengt und der Gefäßdruck hoch. Sofort
   </p>
 </div>
 
+---
+
+## 3. Achten Sie auf ausreichende Zeit und ein sanftes Aufwärmen des Herzens
+
+Direkt nach dem Aufwachen ist das Herz verengt und der Gefäßdruck hoch. Sofort nach dem Aufstehen einen Vollsprint zu starten, belastet das Herz-Kreislauf-System erheblich. Führen Sie 3 Minuten lang ein sanftes Aufwärmen durch (z. B. leichtes dynamisches Dehnen), bevor Sie die Intensität steigern.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Häufig gestellte Fragen (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Muss man unbedingt um 5 Uhr morgens aufstehen und trainieren, damit es wirkt?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Direkt nach dem Aufwachen ist das Herz verengt und der Gefäßdruck hoch. Sofort
       Es gibt keinen wissenschaftlichen Grund, warum es genau 5 Uhr sein muss. Der Kern liegt darin, mindestens eine Stunde vor Arbeitsbeginn aufzustehen und das Gehirn durch Bewegung zu aktivieren. Wichtig ist, innerhalb der ersten 30 Minuten nach dem Aufstehen eine Routine zu etablieren.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Was kann man tun, wenn hochintensives Training wegen schwacher Gelenke oder Kondition zu belastend ist?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Marcher 4 heures par jour dans la forêt : La routine de marche de restauration naturelle d'Henry David Thoreau"
 description: "Présentation de la routine quotidienne de marche de 4 heures d'Henry David Thoreau autour de l'étang de Walden. Explique les principes neuroscientifiques selon lesquels marcher dans la nature restaure l'attention et éveille la créativité."
 pubDate: "2026-04-30"
@@ -29,25 +30,23 @@ Henry David Thoreau, grand penseur et écrivain américain qui a pratiqué une v
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant thoreau-forest-walk est basée sur <strong>Biographies historiques et récits autobiographiques d'Henry David Thoreau & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques et récits autobiographiques d'Henry David Thoreau & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Théorie de la Restauration de l'Attention (ART) : L'effet guérisseur de la marche en pleine nature sur le cortex préfrontal fatigué
+## 1. Théorie de la Restauration de l'Attention (ART) : L'effet guérisseur de la marche en pleine nature sur le cortex préfrontal fatigué
 
 Selon la « Théorie de la Restauration de l'Attention (ART) » en sciences cognitives, les environnements urbains saturés de stimulations artificielles (feux de circulation, écrans) épuisent constamment l'attention dirigée du cerveau. En revanche, les environnements naturels comme les forêts offrent une « Fascination Douce (Soft Fascination) » — comme les arbres balancés par le vent ou le murmure des feuilles —, permettant au cortex préfrontal fatigué de se reposer. De plus, la marche active le Réseau Mode par Défaut (DMN), reliant les pensées dispersées sous la conscience pour ouvrir de nouvelles percées intellectuelles.
 
 ---
 
-## Déconnectez-vous totalement du bruit numérique pendant la marche
-
-Pour Henry David Thoreau, marcher dans la nature était un rituel sacré de dialogue solitaire avec le monde naturel. Si vous marchez en regardant l'écran de votre smartphone ou en répondant à des notifications, le mécanisme de restauration de l'attention ne fonctionnera pas. Pendant la marche, restez hors ligne et ouvrez tous vos sens aux plantes environnantes et aux changements de saison.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -78,6 +77,12 @@ Pour Henry David Thoreau, marcher dans la nature était un rituel sacré de dial
     Emportez un petit carnet analogique et un stylo. Lorsque le cerveau se détend et que des idées brillantes émergent, notez-les immédiatement sur le papier au lieu d'allumer votre smartphone.
   </p>
 </div>
+
+---
+
+## 3. Déconnectez-vous totalement du bruit numérique pendant la marche
+
+Pour Henry David Thoreau, marcher dans la nature était un rituel sacré de dialogue solitaire avec le monde naturel. Si vous marchez en regardant l'écran de votre smartphone ou en répondant à des notifications, le mécanisme de restauration de l'attention ne fonctionnera pas. Pendant la marche, restez hors ligne et ouvrez tous vos sens aux plantes environnantes et aux changements de saison.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "一日之暮，彻底掏空：松下幸之助的浴缸反思习惯"
 description: "“经营之神”松下幸之助每天夜晚坚持的温水泡澡冥想。剖析其激活副交感神经与重组大脑默认模式网络（DMN）的科学效果。"
 pubDate: "2026-05-25"
@@ -33,25 +34,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 matsushita-bath-reflection 的内容基于 <strong>松下幸之助历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>松下幸之助历史传记与自传记录考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 温水放松与默认模式网络的协同效应
+## 1. 温水放松与默认模式网络的协同效应
 
 浸泡于温水中可提高深部体温并激活副交感神经，从而降低皮质醇水平。在隔绝外部刺激的放松状态下，大脑的默认模式网络（DMN）受到刺激，从而带来创造性的洞察力。神经科学研究表明，这种行为能抑制杏仁核不必要的焦虑反应，激活视觉空间草稿簿回路，显著提升长期执行功能。
 
 ---
 
-## 大师关于掏空大脑的箴言
-
-如果你想做出明智的决定，首先请彻底掏空大脑。在浴室中隔绝数字设备并进行15分钟的身心放松是最佳捷径。不要过度依赖意志力，预先设计能够自然引发行动的物理环境与习惯信号才是持之以恒的核心。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ faqs:
     轻轻擦干身体并补充水分。随着升高的体温逐渐下降，将自然引导身体进入深沉而舒适的睡眠。
   </p>
 </div>
+
+---
+
+## 3. 大师关于掏空大脑的箴言
+
+如果你想做出明智的决定，首先请彻底掏空大脑。在浴室中隔绝数字设备并进行15分钟的身心放松是最佳捷径。不要过度依赖意志力，预先设计能够自然引发行动的物理环境与习惯信号才是持之以恒的核心。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

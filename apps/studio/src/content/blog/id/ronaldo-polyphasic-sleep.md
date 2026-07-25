@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Rahasia Fisik Puncak 24 Jam Tanpa Lelah? Metode Tidur Polifasik 90 Menit Cristiano Ronaldo"
 description: "Cristiano Ronaldo, salah satu penyerang terbaik dunia. Pelajari sains tidur dan tips praktis di balik rutinitasnya mengambil lima siklus tidur 90 menit sehari untuk memaksimalkan pemulihan fisik."
 pubDate: "2026-01-20"
@@ -29,17 +30,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai ronaldo-polyphasic-sleep didasarkan pada <strong>Biografi Historis dan Catatan Autobiografi Cristiano Ronaldo & Penelitian Neurosains Kognitif</strong>.
+      Konten ini didasarkan pada <strong>Biografi Historis dan Catatan Autobiografi Cristiano Ronaldo & Penelitian Neurosains Kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Siklus R90 90 Menit dan Optimalisasi Pelepasan Hormon Pertumbuhan
+## 1. Siklus R90 90 Menit dan Optimalisasi Pelepasan Hormon Pertumbuhan
 
 Siklus tidur alami manusia terdiri dari tidur Non-REM dan REM yang berlangsung sekitar 90 menit. Terbangun di tengah siklus menyebabkan 'inersia tidur', membuat otak menjadi linglung. 
 
@@ -47,9 +48,7 @@ Tidur polifasik 90 menit Ronaldo menghormati siklus alami otak, menghilangkan ka
 
 ---
 
-## Lingkungan Kedap dan Posisi yang Benar Menentukan Efisiensi Tidur
-
-Untuk berhasil menerapkan tidur polifasik atau nap singkat, kontrol lingkungan harus sempurna. Cahaya atau kebisingan sekecil apa pun akan mengganggu relaksasi mendalam otak. Untuk mengurangi beban kardiovaskular dan menjaga tulang belakang tetap lurus, tidurlah dalam posisi janin menyamping dengan lutut sedikit ditekuk.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Untuk berhasil menerapkan tidur polifasik atau nap singkat, kontrol lingkungan h
   </p>
 </div>
 
+---
+
+## 3. Lingkungan Kedap dan Posisi yang Benar Menentukan Efisiensi Tidur
+
+Untuk berhasil menerapkan tidur polifasik atau nap singkat, kontrol lingkungan harus sempurna. Cahaya atau kebisingan sekecil apa pun akan mengganggu relaksasi mendalam otak. Untuk mengurangi beban kardiovaskular dan menjaga tulang belakang tetap lurus, tidurlah dalam posisi janin menyamping dengan lutut sedikit ditekuk.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah saya perlu melakukan tidur polifasik di siang hari jika tidur malam saya sudah nyenyak?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Untuk berhasil menerapkan tidur polifasik atau nap singkat, kontrol lingkungan h
       Untuk pekerja kantoran dengan rutinitas biasa, tidak perlu mengulang sesi tidur 90 menit di siang hari. Namun, jika Anda melakukan latihan fisik intensif atau kekurangan tidur akibat kerja lembur, menerapkan siklus 90 menit atau 30 menit secara sementara sangat baik untuk menyegarkan kembali tubuh Anda.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Saat tidur dalam posisi janin, sisi mana yang lebih baik?</span>

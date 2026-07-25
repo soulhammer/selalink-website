@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Headstand di Lantai Penjara yang Dingin? Metode Pengaturan Hormon Jawaharlal Nehru"
 description: "Perdana Menteri pertama India, Jawaharlal Nehru. Mengungkap prinsip ilmu otak dan rutinitas kesehatan dari kebiasaannya melakukan headstand setiap pagi selama 9 tahun di sel isolasi untuk meningkatkan aliran darah otak dan meredakan ketegangan fisik."
 pubDate: "2026-03-18"
@@ -35,17 +36,17 @@ Dalam postingan hari ini, kami mengungkap ilmu di balik peningkatan aliran darah
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai nehru-headstand-yoga didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Jawaharlal Nehru & penelitian ilmu saraf kognitif</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi biografi historis & catatan autobiografi Jawaharlal Nehru & penelitian ilmu saraf kognitif</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efek Gravitasi Terbalik: Menginduksi Aliran Darah Otak dan Mematikan Poros Stres HPA
+## 1. Efek Gravitasi Terbalik: Menginduksi Aliran Darah Otak dan Mematikan Poros Stres HPA
 
 Ketika kita berdiri atau duduk di kursi sepanjang hari, gravitasi menarik aliran darah ke tubuh bagian bawah dan menekan cakram antartulang belakang secara statis dan terus-menerus. Hal ini meningkatkan ketegangan sistem saraf otonom dan menyebabkan kelelahan mental.
 
@@ -53,9 +54,7 @@ Pose terbalik membalikkan arah gravitasi, secara sementara meningkatkan aliran o
 
 ---
 
-## Penyelarasan Tulang Belakang yang Aman Adalah Awal dari Riset Otak
-
-Meskipun headstand adalah teknik relaksasi otak yang efektif, gerakan yang dipaksakan tanpa latihan dapat memicu cedera cakram leher dan menenangkan sistem saraf otonom. Dilakukan dengan hati-hati dan disesuaikan dengan kondisi fisik seperti Nehru, teknik ini efektif meredakan kompresi cakram tulang belakang dan memasok energi jernih ke otak secara stabil.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ Meskipun headstand adalah teknik relaksasi otak yang efektif, gerakan yang dipak
   </p>
 </div>
 
+---
+
+## 3. Penyelarasan Tulang Belakang yang Aman Adalah Awal dari Riset Otak
+
+Meskipun headstand adalah teknik relaksasi otak yang efektif, gerakan yang dipaksakan tanpa latihan dapat memicu cedera cakram leher dan menenangkan sistem saraf otonom. Dilakukan dengan hati-hati dan disesuaikan dengan kondisi fisik seperti Nehru, teknik ini efektif meredakan kompresi cakram tulang belakang dan memasok energi jernih ke otak secara stabil.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah aman bagi orang yang mengalami nyeri leher atau masalah cakram tulang belakang untuk melakukan headstand?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ Meskipun headstand adalah teknik relaksasi otak yang efektif, gerakan yang dipak
       Tidak, orang yang menderita gangguan cakram leher atau tulang belakang harus menghindari headstand tradisional di mana kepala menopang berat badan secara langsung. Sebagai gantinya, Anda bisa mendapatkan efek aliran darah terbalik yang aman tanpa merusak cakram dengan berbaring telentang menempelkan pinggul ke dinding dan mengangkat kaki secara vertikal, atau meletakkan bantal di bawah pinggul sambil mengangkat kaki.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Kapan waktu paling tepat dalam sehari untuk melakukan headstand?</span>

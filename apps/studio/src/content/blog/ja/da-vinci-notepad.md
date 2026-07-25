@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "腰にいつも手帳をぶら下げていた天才：レオナルド・ダ・ヴィンチの即時メモ習慣と作業記憶の外在化"
 description: "ルネサンスの巨匠レオナルド・ダ・ヴィンチが腰に革の手帳をぶら下げ観察とインスピレーションを即座に記録したメモ習慣。作業記憶（Working Memory）容量を空ける「外在化（Externalization）」と認知負荷減少の神経科学的原理を解き明かします。"
 pubDate: "2026-05-29"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「da-vinci-notepad」は <strong>ウォルター・アイザックソン伝記『Leonardo da Vinci』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ウォルター・アイザックソン伝記『Leonardo da Vinci』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 作業記憶（RAM）容量を空ける外在化（Externalization）と認知負荷減少
+## 1. 作業記憶（RAM）容量を空ける外在化（Externalization）と認知負荷減少
 
 人間の脳はアイデアを長期保管する倉庫というよりは、情報を加工し連想する大脳CPU（中央処理装置）に近いです。認知心理学の研究によると、人間の作業記憶（Working Memory）容量は3〜5個のチャンクに極めて制限されており、新しく浮かんだアイデアを文章として書かずに頭の中に無理に閉じ込めておくと、これを維持するために前頭前野のリソース（Cognitive Load）を不要に消費することになります。ダ・ヴィンチのようにインスピレーションを手帳に即座に記載して物理的媒体に移す「外在化（Externalization）」プロセスを経ると、脳は情報維持の負荷から脱出し、作業記憶（RAM）を完全な空白状態として空けることになります。空けられた前頭前野は初めて高度な創造的思索と自発的連想作用を爆発的に稼働させます。
 
 ---
 
-## 注意事項＆ヒント：即時外在化と頭の中の認知的維持ストレスの遮断
-
-メモ習慣の目的は、脳に記憶維持の負担を与えないことにあります。「後で書こう」とインスピレーションを頭の中に留めておく行動は、前頭前野に微細なストレスと認知疲労を蓄積させます。精緻に整理して書こうとせず、単語一つや荒いスケッチでも良いので、インスピレーションがかすめた直後5秒以内に外部媒体へと即座に投げ込んでこそ、脳の作業記憶領域が完璧に保護されます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：即時外在化と頭の中の認知的維持ストレスの遮断
+
+メモ習慣の目的は、脳に記憶維持の負担を与えないことにあります。「後で書こう」とインスピレーションを頭の中に留めておく行動は、前頭前野に微細なストレスと認知疲労を蓄積させます。精緻に整理して書こうとせず、単語一つや荒いスケッチでも良いので、インスピレーションがかすめた直後5秒以内に外部媒体へと即座に投げ込んでこそ、脳の作業記憶領域が完璧に保護されます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ダ・ヴィンチはなぜいつも革の手帳を腰に縛り付けて持ち歩いたのですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       好奇心が湧いたりアイデアが浮かんだ瞬間、物理的な接近障壁（Friction）をゼロにして、たった1秒の遅延もなくインスピレーションを手帳へと外在化するためでした。これは脳の作業記憶を常に空の状態で維持し、無限の創造的連想空間を保存する極上の環境設計でした。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>紙の手帳の代わりにスマートフォンのメモアプリを使用することも同じ作業記憶の外在化効果がありますか？</span>

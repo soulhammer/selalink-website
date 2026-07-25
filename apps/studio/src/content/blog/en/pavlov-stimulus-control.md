@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Tower of Silence: Nobel Laureate Pavlov's Stimulus Control Environment Design"
 description: "Discover the stimulus-blocking routine of classical conditioning founder Ivan Pavlov. A 3-step stimulus control method to eliminate cognitive waste by managing external environmental variables."
 pubDate: "2026-02-27"
@@ -36,22 +37,20 @@ In today's post, we examine the scientific operating principles of Pavlov's labo
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding pavlov-stimulus-control is based on <strong>Pavlov Stimulus Control Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
+      This content is based on <strong>Pavlov Stimulus Control Historical Biography & Autobiographical Records Research & Cognitive Neuroscience Studies</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The 'Stimulus Control Theory' That Revitalizes Executive Function
+## 1. The 'Stimulus Control Theory' That Revitalizes Executive Function
 
 Neuroscientifically, our frontal lobe manages Executive Function—planning and executing new information. However, when visual and auditory stimuli scatter across the environment, the brain wastes willpower and cognitive resources filtering them. Behavioral psychology's <strong>'Stimulus Control'</strong> theory minimizes neural friction by locking or blocking environmental triggers. Eliminating external variables like Pavlov frees the brain from inhibition stress, driving the prefrontal network into deep cognitive flow.
 
 ---
 
-## Ensuring Flexibility in the Stimulus Control Routine
-
-A potential drawback of insisting strictly on a stimulus-blocked environment is developing hyper-sensitivity, where you cannot focus in noisy or cluttered places. Apply stimulus control training only during your 1–2 hour prime focus block, while building flexibility by working in open or slightly noisy settings during simple routine tasks.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ A potential drawback of insisting strictly on a stimulus-blocked environment is 
     Begin your focus routine every day in the same space and systematically organized desk layout, priming your brain to trigger focus circuits the moment you enter that environment.
   </p>
 </div>
+
+---
+
+## 3. Ensuring Flexibility in the Stimulus Control Routine
+
+A potential drawback of insisting strictly on a stimulus-blocked environment is developing hyper-sensitivity, where you cannot focus in noisy or cluttered places. Apply stimulus control training only during your 1–2 hour prime focus block, while building flexibility by working in open or slightly noisy settings during simple routine tasks.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "La danse de l'inconscient : La méthode de chorégraphie de George Balanchine par les simples tâches ménagères"
 description: "Découvrez comment le chorégraphe George Balanchine utilisait de simples tâches ménagères répétitives comme le repassage pour débloquer ses idées lors de pannes d'inspiration, et comprenez le mécanisme neuronal où une activité physique simple désactive la censure préfrontale pour activer le réseau en mode par défaut (DMN)."
 pubDate: "2026-04-01"
@@ -33,25 +34,23 @@ Dans l'article d'aujourd'hui, nous analysons comment la routine de tâches moteu
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant balanchine-ironing-choreography est basée sur <strong>Vérification Historique issue de la biographie de George Balanchine *By George Balanchine* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Vérification Historique issue de la biographie de George Balanchine *By George Balanchine* & Recherche en Neurosciences Cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Relâchement de la censure préfrontale et activation des circuits associatifs du DMN
+## 1. Relâchement de la censure préfrontale et activation des circuits associatifs du DMN
 
 Lorsque nous nous concentrons intensément pour résoudre un problème, le cortex préfrontal du cerveau active fortement le contrôle analytique descendant (Top-down Control), filtrant impitoyablement les idées inhabituelles qui semblent illogiques. Cet état de « censure préfrontale » emprisonne la créativité. À l'inverse, l'exécution de tâches moteur simples et monotones (Monotonous Motor Task) comme le repassage ou le nettoyage relâche l'hyperactivité préfrontale. Profitant de ce répit, le réseau en mode par défaut (DMN) du cerveau s'active, permettant à divers fragments de mémoire dispersés dans l'inconscient de se recombiner librement et de manière inattendue (Combinatorial Play). En conséquence, les mouvements chorégraphiques bloqués émergent naturellement au rythme répétitif du fer à repasser.
 
 ---
 
-## Précautions & Conseils : Exclusion des activités exigeantes sur le plan cognitif
-
-Lorsque vous vous videz l'esprit par de simples tâches ménagères ou des mouvements corporels, évitez les activités qui exigent une attention soutenue ou un traitement cognitif. Par exemple, essayer de cuisiner une recette complexe ou écouter des actualités économiques tout en nettoyant constitue du « multitasking », ce qui empêche le cerveau d'entrer en état DMN et ne fait qu'augmenter la fatigue cognitive. La clé est de poser vaguement son attention uniquement sur le toucher des mains et le mouvement rythmique du corps, en laissant l'esprit vagabonder librement.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Lorsque vous vous videz l'esprit par de simples tâches ménagères ou des mouve
     Notez les idées de projet ou mots-clés qui émergent soudainement de l'inconscient pendant la tâche simple pour ne pas les oublier, puis retournez immédiatement à votre bureau principal pour poursuivre sur votre lancée.
   </p>
 </div>
+
+---
+
+## 3. Précautions & Conseils : Exclusion des activités exigeantes sur le plan cognitif
+
+Lorsque vous vous videz l'esprit par de simples tâches ménagères ou des mouvements corporels, évitez les activités qui exigent une attention soutenue ou un traitement cognitif. Par exemple, essayer de cuisiner une recette complexe ou écouter des actualités économiques tout en nettoyant constitue du « multitasking », ce qui empêche le cerveau d'entrer en état DMN et ne fait qu'augmenter la fatigue cognitive. La clé est de poser vaguement son attention uniquement sur le toucher des mains et le mouvement rythmique du corps, en laissant l'esprit vagabonder librement.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

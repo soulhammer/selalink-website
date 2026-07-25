@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "30年間大作を完成させ続けたフランスの巨匠？エミール・ゾラの朝3時間没頭ルーティン"
 description: "文豪エミール・ゾラが30年以上守り続けた「Nulla dies sine linea」のモットーと、毎朝3時間の没頭執筆習慣の科学的原理と実践法。"
 pubDate: "2026-02-04"
@@ -33,17 +34,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「zola-morning-writing-block」は <strong>エミール・ゾラ歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>エミール・ゾラ歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 環境遮断による意志力消耗防止と大脳基底核の自動化
+## 1. 環境遮断による意志力消耗防止と大脳基底核の自動化
 
 毎回「今仕事を開始しようか？」と悩む行為は、前頭前野のブドウ糖と意志力を浪費させます。
 
@@ -51,9 +52,7 @@ faqs:
 
 ---
 
-## 分量より決められた時間の厳格な遮断に集中してください
-
-エミール・ゾラのモットーの核心は「毎日欠かさない継続性」です。完璧な文章を書こうと力むより、決められた1時間外部の遮断を維持する習慣自体を優先して確立してください。無理に意志力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 分量より決められた時間の厳格な遮断に集中してください
+
+エミール・ゾラのモットーの核心は「毎日欠かさない継続性」です。完璧な文章を書こうと力むより、決められた1時間外部の遮断を維持する習慣自体を優先して確立してください。無理に意志力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣のシグナルをあらかじめ設計することが継続性の核心です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>朝に急なメールや連絡が来るのではないかと不安な時はどうすればよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       本当に緊急な連絡は電話で来るものです。メールやメッセージの確認時間を朝の没頭1時間の後に先送りするだけで、作業の質が10倍上がります。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>3時間を丸ごと確保するのが難しい会社員はどのように適用すべきですか？</span>

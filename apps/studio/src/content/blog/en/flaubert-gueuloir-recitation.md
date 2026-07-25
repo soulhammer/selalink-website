@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Sound That Spawns Perfect Sentences: Gustave Flaubert's 'Gueuloir' Recitation Habit and Auditory Feedback Routine"
 description: "Discover how novelist Gustave Flaubert, obsessed with 'le mot juste' (the exact word), achieved stylistic perfection. Explore the cognitive neuroscience of his 'Gueuloir' shouting room, dual-coding theory, motor cortex engagement, and auditory feedback loops."
 pubDate: "2026-01-20"
@@ -38,22 +39,20 @@ In today's post, we dissect the cognitive neuroscience behind Flaubert's 'Gueulo
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding flaubert-gueuloir-recitation is based on <strong>Historical Verification from Gustave Flaubert's *Correspondance*, Literary Biographies & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from Gustave Flaubert's *Correspondance*, Literary Biographies & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Dual-Coding Theory and the Neuroscience of Auditory Feedback Loops
+## 1. Dual-Coding Theory and the Neuroscience of Auditory Feedback Loops
 
 Reading silently engages only a portion of the visual cortex, but vocalizing text forces the <strong>Motor Cortex</strong> and cognitive monitoring networks to collaborate intensely. According to Allan Paivio's <strong>Dual-Coding Theory</strong>, processing information simultaneously through visual and auditory pathways dramatically expands cognitive bandwidth. Furthermore, listening to one's own voice activates an <strong>Auditory Feedback Loop</strong>, allowing the brain's error-detection systems to immediately catch grammatical flaws, awkward syntax, or broken rhythm. Vocalizing prose acts as an instant neural filter for clarity and cadence.
 
 ---
 
-## Caution: Preventing Skimming and Unconscious Self-Deception via Precision Recitation
-
-A major pitfall during recitation editing is reading too quickly or skimming. When the brain rapidly vocalizes familiar text, it triggers a cognitive illusion where the cerebrum automatically auto-corrects typos and awkward syntax in memory, misperceiving bad sentences as correct. To prevent this self-deception, recite slowly, tracing words with your finger or cursor. Exaggerate pauses at periods and commas; forcing physical breath pauses supplies objective sensory feedback to evaluate rhythmic cadence and sentence length.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ A major pitfall during recitation editing is reading too quickly or skimming. Wh
   </p>
 </div>
 
+---
+
+## 3. Caution: Preventing Skimming and Unconscious Self-Deception via Precision Recitation
+
+A major pitfall during recitation editing is reading too quickly or skimming. When the brain rapidly vocalizes familiar text, it triggers a cognitive illusion where the cerebrum automatically auto-corrects typos and awkward syntax in memory, misperceiving bad sentences as correct. To prevent this self-deception, recite slowly, tracing words with your finger or cursor. Exaggerate pauses at periods and commas; forcing physical breath pauses supplies objective sensory feedback to evaluate rhythmic cadence and sentence length.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Do I need to read out loud even when working in a quiet office or cafe?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ A major pitfall during recitation editing is reading too quickly or skimming. Wh
       Since shouting in public is inappropriate, adopt a 'sub-whisper' or mumble, physically articulating words with your lips and tongue. Simply moving your articulatory organs activates the motor cortex compared to silent reading, capturing a significant portion of error-detection benefits.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is the recitation editing habit effective for business proposals or reports rather than literary works?</span>

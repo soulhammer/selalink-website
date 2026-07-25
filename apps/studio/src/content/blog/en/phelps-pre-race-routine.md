@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Erasing Pressure: Michael Phelps' 2-Hour Pre-Race Hyper-Cognitive Routine"
 description: "The ultra-precise behavioral routine executed right before races by Michael Phelps, the most decorated Olympian in history. Discover the scientific principles of how perfectly controlled procedures prevent extreme brain tension and anxiety."
 pubDate: "2026-03-14"
@@ -36,22 +37,20 @@ In this post, we explore the neuroscientific mechanisms behind Michael Phelps' '
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding phelps-pre-race-routine is based on <strong>Historical biography and autobiographical records verification of Michael Phelps & Cognitive Neuroscience research</strong>.
+      This content is based on <strong>Historical biography and autobiographical records verification of Michael Phelps & Cognitive Neuroscience research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## The Science of How Ultra-Precise Pre-Routines Calm Brain Anxiety
+## 1. The Science of How Ultra-Precise Pre-Routines Calm Brain Anxiety
 
 Before a competition or presentation, the most dangerous state for the brain is 'uncertainty' and its accompanying anxiety. In unpredictable environments, the brain's emotional alert center, the <strong>amygdala</strong>, overheats and floods the body with stress hormones. However, executing a fully controllable set of physical actions repeated over a hundred times leads the brain to perceive it has full control, reducing amygdala hyperactivity and optimizing adrenaline secretion.
 
 ---
 
-## Precautions and Tips
-
-Please note that this routine is not a superstition or magic charm. Michael Phelps built strong synaptic connections between his routine and physical relaxation through long-term <strong>mechanical training and repetition</strong>. Therefore, do not be disheartened if it fails initially; consistent practice is essential to solidify your personal routine.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Please note that this routine is not a superstition or magic charm. Michael Phel
     After physical routines, mentally visualize a flawless success scenario for the upcoming event to soothe anxiety centers and reach complete readiness.
   </p>
 </div>
+
+---
+
+## 3. Precautions and Tips
+
+Please note that this routine is not a superstition or magic charm. Michael Phelps built strong synaptic connections between his routine and physical relaxation through long-term <strong>mechanical training and repetition</strong>. Therefore, do not be disheartened if it fails initially; consistent practice is essential to solidify your personal routine.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "踱步归来即刻戴帽站立挥毫：索伦·克尔凯郭尔的即时捕获习惯与认知预热指南"
 description: "探索存在主义哲学先驱索伦·克尔凯郭尔如何在推门归家之际，连外套帽子都顾不上脱下便直奔立式书桌站立记录。揭示认知预热、工作记忆保留、防范注意力残留（Attention Residue）与3步骤实践指南。"
 pubDate: "2026-02-08"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      历史 and 学术依据
+      历史与学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 kierkegaard-standing-write 的内容基于 <strong>索伦·克尔凯郭尔日记史料《克尔凯郭尔日记（Journals of Søren Kierkegaard）》与约阿希姆·加尔夫（Joakim Garff）传记史料考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
+      本内容基于 <strong>索伦·克尔凯郭尔日记史料《克尔凯郭尔日记（Journals of Søren Kierkegaard）》与约阿希姆·加尔夫（Joakim Garff）传记史料考证及认知神经科学（Cognitive Neuroscience）研究</strong>。
     </p>
   </div>
 </div>
 
 ---
 
-## 认知预热（Cognitive Warm-up）与工作记忆（Working Memory）保留机制
+## 1. 认知预热（Cognitive Warm-up）与工作记忆（Working Memory）保留机制
 
 在刚完成躯体运动（踱步）后的微观间隙，大脑处于<strong>多巴胺（Dopamine）</strong>与<strong>去甲肾上腺素（Norepinephrine）</strong>高频分泌的<strong>“认知预热（Cognitive Warm-up）”</strong>状态。若能在此时毫不撕裂注意力地即刻转译为文字，行走中孕育的灵感便能原封不动地移植至前额叶逻辑网络中。此外，站立记录的立式工作（Standing Work）能微观拉动双腿与核心肌群，维持指向大脑的充氧血流，拉升<strong>工作记忆（Working Memory）</strong>的加工算力。此乃在思绪断层与<strong>注意力残留（Attention Residue）</strong>滋生前，将思维流向落定于纸面之上的极科学灵感捕获技术。
 
 ---
 
-## 注意事项：归家即刻抓取，杜绝注意力分散与注意力残留（Attention Residue）指南
-
-当大脑由动态步行切换至静态居家状态时，会自发关闭大量执掌觉醒开关。即便仅耗费5分钟整理包袋、摆放鞋履或小憩于沙发，灵感闪现的微观上下文脉络便会如烟雾般消散。在思维链条断裂之前，将“卸放行李前先站立速记5-10分钟”固化为不可颠倒的铁律，乃是绝对核心。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事项：归家即刻抓取，杜绝注意力分散与注意力残留（Attention Residue）指南
+
+当大脑由动态步行切换至静态居家状态时，会自发关闭大量执掌觉醒开关。即便仅耗费5分钟整理包袋、摆放鞋履或小憩于沙发，灵感闪现的微观上下文脉络便会如烟雾般消散。在思维链条断裂之前，将“卸放行李前先站立速记5-10分钟”固化为不可颠倒的铁律，乃是绝对核心。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 常见问题 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>是否必须强行站立记录？直接坐下撰写是否具备同等效能？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       归家后若当即落座于沙发或座椅，躯体会瞬间切入剧烈的松弛塌陷状态，觉醒度急剧下滑。站立姿态（Standing）能维持躯体运动觉醒，庇护大脑工作记忆容量，因而在将灵感核心框架凝炼于纸面上的头10分钟内，站立记录在认知层面具备绝对优势。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>若居室中缺乏立式书桌或高位案台，该如何低门槛实操复刻？</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Offline Deep Work: Donald Knuth's Email Disconnection Routine and Context-Switching Prevention"
 description: "Discover how legendary computer scientist Donald Knuth abandoned email on January 1, 1990, to protect his offline deep work. Explore the neuroscience of eliminating context switching, preventing attention residue, and applying batch processing."
 pubDate: "2026-05-07"
@@ -38,22 +39,20 @@ In today's post, we unpack the cognitive neuroscience and psychology behind Dona
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding knuth-no-email is based on <strong>Historical Verification from Donald Knuth's Official Statement *Email and I*, Stanford Archives & Cognitive Neuroscience and Cognitive Psychology Research</strong>.
+      This content is based on <strong>Historical Verification from Donald Knuth's Official Statement *Email and I*, Stanford Archives & Cognitive Neuroscience and Cognitive Psychology Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Eliminating Context Switching and Preventing Attention Residue in the Brain
+## 1. Eliminating Context Switching and Preventing Attention Residue in the Brain
 
 Checking emails or instant notifications triggers forced <strong>Context Switching</strong>, imposing a heavy cognitive penalty on the brain. Even when returning to the primary task, a portion of working memory remains bound to the lingering context of the read message—a phenomenon known in cognitive psychology as <strong>Attention Residue</strong>. It requires upwards of 20 to 25 minutes for the <strong>Prefrontal Cortex</strong> to fully clear this cognitive residue and regain peak executive focus. Establishing offline boundaries as Donald Knuth did eliminates attentional fragmentation, enabling uninterrupted high-level abstract reasoning and complex system architecture design.
 
 ---
 
-## Caution: Suppressing Real-Time Response Instincts to Apply Batch Processing
-
-Permanently eliminating all email like Donald Knuth may be impractical inside modern collaborative organizations. The core realistic application is suppressing the urge for instant replies by adopting <strong>Batch Processing</strong>. Silence notifications outside 1 or 2 scheduled response time windows daily to safeguard large, uninterrupted chunks of prefrontal focus.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Permanently eliminating all email like Donald Knuth may be impractical inside mo
   </p>
 </div>
 
+---
+
+## 3. Caution: Suppressing Real-Time Response Instincts to Apply Batch Processing
+
+Permanently eliminating all email like Donald Knuth may be impractical inside modern collaborative organizations. The core realistic application is suppressing the urge for instant replies by adopting <strong>Batch Processing</strong>. Silence notifications outside 1 or 2 scheduled response time windows daily to safeguard large, uninterrupted chunks of prefrontal focus.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>How can I communicate my delayed email response schedule to team members without causing misunderstandings?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Permanently eliminating all email like Donald Knuth may be impractical inside mo
       Explicitly state your batch schedule in email auto-responders or chat status messages. Displaying a clear note—e.g., 'To focus on key project deliverables, I check email twice daily at 11 AM and 4 PM. For urgent matters, please call directly'—sets expectations, reduces communication anxiety, and establishes a clear cognitive barrier.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is Knuth's email disconnection routine applicable to regular corporate employees who aren't famous scholars?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Melodi yang Digubah dari Mengolah Tanah: Kebiasaan Kerja Pertanian Pagi Hari ala Giuseppe Verdi"
 description: "Giuseppe Verdi bangun jam 5 pagi di pertanian Sant'Agata untuk mengolah tanah dan berkeringat sebelum membuat partitur musik. Menginvestigasi mekanisme di mana kerja fisik di bawah sinar matahari pagi memasok serotonin yang kaya ke otak, memicu inspirasi kreatif."
 pubDate: "2026-06-21"
@@ -31,25 +32,23 @@ Giuseppe Verdi, master opera abad ke-19 dan komposer hebat yang menggoncang seja
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai verdi-morning-farming didasarkan pada <strong>Riset sejarah biografi & catatan autobiografi Verdi Morning Farming serta penelitian Ilmu Saraf Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Riset sejarah biografi & catatan autobiografi Verdi Morning Farming serta penelitian Ilmu Saraf Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurofisiologi Paparan Alam Dini Hari & Kontak Alam (Earthing)
+## 1. Neurofisiologi Paparan Alam Dini Hari & Kontak Alam (Earthing)
 
 Pergi ke luar ruangan di dini hari untuk melakukan kerja fisik menekan sekresi hormon tidur melatonin di bawah sinar matahari alami dan mengaktifkan sintesis serotonin, neurotransmiter kebahagiaan. Selain itu, penelitian sains saraf lingkungan terbaru menunjukkan bahwa menyentuh tanah dan kontak langsung dengan bumi (earthing) menurunkan radikal bebas dalam tubuh dan menggeser sistem saraf otonom menuju dominasi parasimpatis, secara signifikan menurunkan tingkat stres otak. Akibatnya, hambatan kognitif runtuh dan otak memasuki mode pemikiran divergensi yang santai, memungkinkan kombinasi intuitif dari melodi yang sangat kaya dan indah.
 
 ---
 
-## Peringatan dan Tips
-
-Saat memasukkan kerja fisik pagi sebagai rutinitas, hal yang harus dihindari adalah latihan beban intensitas tinggi atau aktivitas fisik menguras tenaga yang membuat otak terlalu lelah. Ketika asam laktat menumpuk dan kelelahan fisik yang parah muncul, glukosa dan energi prefrontal yang dibutuhkan untuk pekerjaan kreatif akan terkuras, merusak kreativitas; oleh karena itu batasi pada aktivitas ringan sekitar 15 menit.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -81,12 +80,18 @@ Saat memasukkan kerja fisik pagi sebagai rutinitas, hal yang harus dihindari ada
   </p>
 </div>
 
+---
+
+## 3. Peringatan dan Tips
+
+Saat memasukkan kerja fisik pagi sebagai rutinitas, hal yang harus dihindari adalah latihan beban intensitas tinggi atau aktivitas fisik menguras tenaga yang membuat otak terlalu lelah. Ketika asam laktat menumpuk dan kelelahan fisik yang parah muncul, glukosa dan energi prefrontal yang dibutuhkan untuk pekerjaan kreatif akan terkuras, merusak kreativitas; oleh karena itu batasi pada aktivitas ringan sekitar 15 menit.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah olahraga gym pagi hari (fitness) memiliki efek stimulasi otak kreatif yang serupa dengan pertanian Verdi?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -95,7 +100,7 @@ Saat memasukkan kerja fisik pagi sebagai rutinitas, hal yang harus dihindari ada
       Aerobik dan aktivasi otot ringan memang membantu, tetapi latihan gym di dalam ruangan di bawah pencahayaan buatan kurang efektif dalam menekan melatonin. Aktivitas di bawah sinar matahari alami yang dikombinasikan dengan kontak alam (earthing—menyentuh tanah dan elemen alam secara langsung) diperlukan untuk mencapai stabilitas saraf yang kuat dan aktivasi serotonin seperti Verdi.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Apa yang harus diperhatikan saat mulai menerapkan kerja fisik pagi hari?</span>

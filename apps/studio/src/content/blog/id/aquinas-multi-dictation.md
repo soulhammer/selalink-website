@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Metode Dikte Berganda Thomas Aquinas: Memaksimalkan Memori Kerja untuk Menaklukkan Dilema Kompleks"
 description: "Pelajari bagaimana Thomas Aquinas, ahli teologi besar abad pertengahan, memperluas memori kerjanya dan mempertahankan koherensi logis sambil secara bersamaan mendiktekan topik-topik berbeda kepada 3–4 juru tulis."
 pubDate: "2026-03-09"
@@ -33,25 +34,23 @@ Dalam postingan hari ini, kami menganalisis prinsip-prinsip neurosains tentang p
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai aquinas-multi-dictation didasarkan pada <strong>Verifikasi Historis dari Biografi Thomas Aquinas karya Bernard of Gui & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Thomas Aquinas karya Bernard of Gui & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Prinsip Neurosains Kognitif dari Partisi Memori Kerja
+## 1. Prinsip Neurosains Kognitif dari Partisi Memori Kerja
 
 Mengkoordinasikan beberapa tugas abstrak secara bersamaan biasanya menghasilkan interferensi informasi yang parah dan biaya peralihan kognitif pada serebrum. Namun, Thomas Aquinas mengatasinya melalui 'Partisi Memori Kerja (Working Memory Partitioning)'. Dengan melatih Sistem Eksekutif Pusat pada korteks prefrontal secara intensif, ia mempertahankan simpul pengetahuan dari setiap proyek tetap aktif dalam kompartemen terpisah. Hal ini memungkinkannya beralih konteks dengan cepat sambil mencegah kehabisan sumber daya kognitif atau tumpang tindih informasi.
 
 ---
 
-## Waspadai Multitasking yang Tidak Produktif
-
-Jangan mengoperasikan kebiasaan ini dengan multitasking modern yang memecah perhatian (contoh: menulis kode sambil membaca email). Gangguan sederhana akan menurunkan kualitas dan kecepatan kerja secara drastis. Metode Aquinas adalah Eksekusi Berurutan (Sequential Execution) dari tugas-tugas tunggal yang berfokus tinggi yang dibagi ke dalam kompartemen. Dengan kata lain, saat memproses satu objek, Anda harus mencurahkan 100% sumber daya otak hanya pada objek tersebut.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -82,6 +81,12 @@ Jangan mengoperasikan kebiasaan ini dengan multitasking modern yang memecah perh
     Ketika waktu berakhir, segera tutup tugas pertama dan buka tugas kedua. Tarik napas dalam-dalam sebanyak tiga kali untuk membersihkan buffer agar pikiran sebelumnya tidak tersisa di otak, lalu lakukan tugas kedua dengan konsentrasi 100%.
   </p>
 </div>
+
+---
+
+## 3. Waspadai Multitasking yang Tidak Produktif
+
+Jangan mengoperasikan kebiasaan ini dengan multitasking modern yang memecah perhatian (contoh: menulis kode sambil membaca email). Gangguan sederhana akan menurunkan kualitas dan kecepatan kerja secara drastis. Metode Aquinas adalah Eksekusi Berurutan (Sequential Execution) dari tugas-tugas tunggal yang berfokus tinggi yang dibagi ke dalam kompartemen. Dengan kata lain, saat memproses satu objek, Anda harus mencurahkan 100% sumber daya otak hanya pada objek tersebut.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

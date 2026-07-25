@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Penemuan dalam Kegelapan Total: Deprivasi Sensorik Tengah Malam dan Kerja Mendalam ala Alexander Graham Bell"
 description: "Pelajari bagaimana Alexander Graham Bell, penemu telepon yang merevolusi komunikasi manusia, menghilangkan kelebihan beban sensorik dan membangkitkan fungsi eksekutif otak melalui kerja mendalam dalam 'kegelapan total tengah malam', serta temukan mekanisme neurosains dari Deprivasi Sensorik."
 pubDate: "2026-05-12"
@@ -35,25 +36,23 @@ Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'Depri
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Landasan Historis dan Akademis
+      Bukti Sejarah & Akademik
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      Analisis mengenai bell-midnight-darkness didasarkan pada <strong>Verifikasi Historis dari Biografi Robert V. Bruce *Bell: Alexander Graham Bell and the Conquest of Solitude* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
+      Konten ini didasarkan pada <strong>Verifikasi Historis dari Biografi Robert V. Bruce *Bell: Alexander Graham Bell and the Conquest of Solitude* & Penelitian Neurosains Kognitif (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Aktivasi Sirkuit Visuospatial Sketchpad Melalui Deprivasi Visual dan Pendengaran
+## 1. Aktivasi Sirkuit Visuospatial Sketchpad Melalui Deprivasi Visual dan Pendengaran
 
 Secara neurosains, memotong sementara stimulus visual dan pendengaran luar yang masuk melalui mata dan telinga memungkinkan otak untuk mengalokasikan kembali perhatian yang sebelumnya dihabiskan pada reseptor sensorik ke arah korteks asosiasi tingkat tinggi. Kondisi Deprivasi Sensorik ini menekan respon kecemasan amigdala dan secara kuat mengaktifkan sirkuit 'Visuospatial Sketchpad' yang penting bagi memori kerja. Akibatnya, fungsi kontrol eksekutif korteks prefrontal—yang memvisualisasikan dan merakit struktur rumit atau ide secara 3D di dalam pikiran—meningkat secara drastis.
 
 ---
 
-## Perhatian & Tip: Mencegah Transisi ke Tidur dalam Kegelapan Total
-
-Berbaring dalam kegelapan total dengan mudah mendorong otak besar untuk mengenali lingkungan tidur, bertransisi ke dalam tidur gelombang lambat. Oleh karena itu, saat mempraktikkan rutinitas deprivasi sensorik ini, duduklah tegak di kursi dengan sandaran daripada berbaring di tempat tidur. Jika kantuk menyerang, pertahankan kewaspadaan kognitif melalui latihan taktil ringan seperti mengepalkan dan melepaskan ujung jari Anda dengan kuat.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Berbaring dalam kegelapan total dengan mudah mendorong otak besar untuk mengenal
   </p>
 </div>
 
+---
+
+## 3. Perhatian & Tip: Mencegah Transisi ke Tidur dalam Kegelapan Total
+
+Berbaring dalam kegelapan total dengan mudah mendorong otak besar untuk mengenali lingkungan tidur, bertransisi ke dalam tidur gelombang lambat. Oleh karena itu, saat mempraktikkan rutinitas deprivasi sensorik ini, duduklah tegak di kursi dengan sandaran daripada berbaring di tempat tidur. Jika kantuk menyerang, pertahankan kewaspadaan kognitif melalui latihan taktil ringan seperti mengepalkan dan melepaskan ujung jari Anda dengan kuat.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Pertanyaan Sering Diajukan (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Apakah rutinitas deprivasi sensorik ini hanya bekerja jika dipraktikkan pada waktu yang tetap setiap hari?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Berbaring dalam kegelapan total dengan mudah mendorong otak besar untuk mengenal
       Mempraktikkannya pada waktu yang sama setiap hari mengondisikan otak untuk mengenali periode tersebut sebagai waktu untuk jeda sensorik dan kerja mendalam, mempercepat transisi kognitif. Namun, bahkan tanpa jadwal yang tetap, menerapkannya sebagai alat istirahat otak darurat dan konsepsional selama periode stres akut atau kelebihan beban kognitif memberikan manfaat yang signifikan.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Bagaimana cara mengatasi lingkungan di mana kebisingan sekitar tidak dapat dihilangkan secara total?</span>

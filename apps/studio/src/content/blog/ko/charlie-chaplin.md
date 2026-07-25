@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "타인의 보폭을 복제하는 거울의 시선: 찰리 채플린의 신체 미러링과 인간 분석 루틴"
 description: "무성영화 시대를 지배한 거장 찰리 채플린이 길거리 낯선 이들의 걸음걸이와 동작을 관찰하고 미러링했던 루틴. 전운동 피질의 거울 뉴런(Mirror Neurons)을 활성화하여 신체 지도를 확장하고 타인 공감 능력을 극대화하는 신경과학적 원리를 밝힙니다."
 pubDate: "2026-03-01"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>찰리 채플린 자서전 『찰리 채플린 자서전(My Autobiography)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 charlie-chaplin 루틴을 다룹니다.
+      본 콘텐츠는 <strong>찰리 채플린 자서전 『찰리 채플린 자서전(My Autobiography)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 전운동 피질 거울 뉴런(Mirror Neurons) 활성화와 신체 지도(Body Schema)의 확장
+## 1. 전운동 피질 거울 뉴런(Mirror Neurons) 활성화와 신체 지도(Body Schema)의 확장
 
 타인의 정교한 운동 역학적 궤적을 내 신체로 직접 복제하는 행위는 대뇌 전운동 피질(Premotor Cortex)과 하두정엽의 '거울 뉴런(Mirror Neurons)' 시스템을 강력히 가동합니다. 이 운동 모방 훈련은 대뇌 피질에 기입되는 신체 감각 지도인 '신체 지도(Body Schema)'의 해상도와 포용 범위를 비약적으로 확장시킵니다. 나아가 자세와 보폭이라는 물리적 근육 동작을 미러링하면 신체 피드백(Embodied Cognition) 기제에 의해 상대방의 번연계(Limbic System)가 겪는 불안, 긴장, 피로와 같은 정서적 지표를 대뇌가 약 70% 이상 더 정밀하게 해독해 내어, 관찰 대상의 심리 상태와 행동 동기를 직관적으로 파악하는 메타인지 능력을 향상시킵니다.
 
 ---
 
-## 주의사항 및 팁: 은밀한 주변부 시야(Peripheral Vision) 활용 및 안전성 확보
-
-특정 타인을 모방하는 관찰 훈련을 진행할 때 가장 경계해야 할 것은 상대를 뚫어지게 정면 응시하여 불쾌감을 주거나 안전 문제를 일으키는 것입니다. 관찰 대상을 고정된 초점으로 계속 주시하기보다는, 시야 주변부(Peripheral Vision)의 넓은 각도를 활용해 형태와 실루엣의 궤적만 부드럽게 추적해야 합니다. 또한 실제 보행 모방 시에는 대상과의 거리를 충분히 두고, 타인을 조롱하는 불필요한 과장 동작을 지양하고 오직 무의식적 기하학적 균형에만 집중하는 주의 자제력이 필수적입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 은밀한 주변부 시야(Peripheral Vision) 활용 및 안전성 확보
+
+특정 타인을 모방하는 관찰 훈련을 진행할 때 가장 경계해야 할 것은 상대를 뚫어지게 정면 응시하여 불쾌감을 주거나 안전 문제를 일으키는 것입니다. 관찰 대상을 고정된 초점으로 계속 주시하기보다는, 시야 주변부(Peripheral Vision)의 넓은 각도를 활용해 형태와 실루엣의 궤적만 부드럽게 추적해야 합니다. 또한 실제 보행 모방 시에는 대상과의 거리를 충분히 두고, 타인을 조롱하는 불필요한 과장 동작을 지양하고 오직 무의식적 기하학적 균형에만 집중하는 주의 자제력이 필수적입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>길거리 관찰 도중 타인과 시선이 마주쳐 어색할 때는 어떻게 대처하나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       대상을 정면으로 뚫어지게 응시하는 정면 시선을 피하고, 선글라스를 착용하거나 음료 잔을 들어 시선을 자연스럽게 분산시키면서, 시야 주변부(Peripheral Vision)의 넓은 초점을 활용해 실루엣과 운동 궤적만 부드럽게 스캔하는 기술을 연습하세요.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>신체적 모방이 실제로 타인의 감정과 심리 상태를 해독하는 데 기여하나요?</span>

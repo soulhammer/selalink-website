@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "天才の脳をリセットするレース？ アラン・チューリングのランニングルーティン"
 description: "エニグマ暗号を解読したコンピュータ科学の父アラン・チューリング。毎日16kmを走り脳の過負荷を解消し神経細胞を活性化させた彼のランニング習慣と科学的背景について解説します。"
 pubDate: "2026-02-02"
@@ -35,17 +36,17 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「turing-marathon-running」は <strong>アラン・チューリングの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>アラン・チューリングの歴史的評伝および自伝記録の考証＆認知神経科学（Cognitive Neuroscience）の研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 有酸素運動が促進する脳細胞生成と認知のリフレッシュ
+## 1. 有酸素運動が促進する脳細胞生成と認知のリフレッシュ
 
 毎日継続的に走る有酸素運動は、脳の健康に決定的な物質である<strong>脳由来神経栄養因子（BDNF）</strong>の合成を誘導します。BDNFは記憶と学習を司る海馬領域で新しい神経細胞（Neuron）の生成を促進し、認知的作業記憶空間を広げます。
 
@@ -53,9 +54,7 @@ faqs:
 
 ---
 
-## 注意換気のためのペースコントロール
-
-脳をリフレッシュするためのランニングでは、ペース調節が非常に重要です。あまりにも激しく走り、心臓が破裂しそうな無酸素閾値状態に達すると、脳は身体の生存だけにすべての認知資源を注ぎ込み、思索とDMNの活性化を妨げます。隣の人と軽い会話ができる程度のペースで一定に走ることが効果的です。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -87,12 +86,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意換気のためのペースコントロール
+
+脳をリフレッシュするためのランニングでは、ペース調節が非常に重要です。あまりにも激しく走り、心臓が破裂しそうな無酸素閾値状態に達すると、脳は身体の生存だけにすべての認知資源を注ぎ込み、思索とDMNの活性化を妨げます。隣の人と軽い会話ができる程度のペースで一定に走ることが効果的です。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>ランニングの代わりにエアロバイクや水泳を行っても脳のリフレッシュ効果は同じですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -101,7 +106,7 @@ faqs:
       はい、心肺機能が介入しBDNFの値を高めることができる持続的な有酸素運動であれば、自転車や水泳も同様の認知回復効果を提供します。ただし、屋外ランニングのように自然の景色や風などの五感刺激が脳に伝わる時、デフォルト・モード・ネットワーク（DMN）のリラックスおよびアイデア活性化効果が極大化されます。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>走っている間に音楽を聴くと脳の回復の妨げになりますか？</span>

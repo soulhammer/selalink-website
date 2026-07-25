@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Pré-aquecimento seco para esfriar o cérebro: O hábito de Stendhal de ler o Código Civil francês"
 description: "Stendhal, um mestre da literatura realista que dissecou a psicologia humana sem retórica ornamentada. Analisamos seu hábito de aquecimento cognitivo de ler o Código Civil francês diariamente antes de escrever para maximizar a objetividade e a lógica."
 pubDate: "2026-02-08"
@@ -29,25 +30,23 @@ Stendhal (nome real Henri Beyle, 1783–1842) foi um mestre da literatura realis
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre stendhal-civil-code-reading é baseada em <strong>Pesquisa histórica biográfica e registros autobiográficos sobre a leitura do Código Civil por Stendhal & pesquisa em Neurociência Cognitiva</strong>.
+      Este conteúdo baseia-se em <strong>Pesquisa histórica biográfica e registros autobiográficos sobre a leitura do Código Civil por Stendhal & pesquisa em Neurociência Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Efeito de priming linguístico e bloqueio da cognição sentimental
+## 1. Efeito de priming linguístico e bloqueio da cognição sentimental
 
 De acordo com o Efeito de Priming na ciência cognitiva, quando o cérebro é exposto previamente a informações com características específicas, ele ativa inconscientemente padrões semelhantes em tarefas cognitivas subsequentes. Ler as frases secas e fáticas do Código Civil antes de escrever equivalia a configurar a área de controle da linguagem de Stendhal em um modo orientado à objetividade e à lógica. Esse estímulo permite ao cérebro exercer inibição cognitiva contra o sentimentalismo subjetivo, apoiando uma escrita clara baseada em fatos.
 
 ---
 
-## Precauções e Dicas
-
-Ao aplicar esse hábito, tenha cuidado para não se aprofundar demais em conteúdos complexos ou análises jurídicas. Analisar profundamente precedentes ou interpretações legais antes de escrever corre o risco de esgotar os recursos cognitivos pré-frontais (Esgotamento Cognitivo). A essência desta rotina não é adquirir conhecimento jurídico, mas perceber visualmente a estrutura concisa e as combinações claras de palavras. Portanto, escaneie suavemente as frases sem pensar demais no texto.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -79,9 +78,15 @@ Ao aplicar esse hábito, tenha cuidado para não se aprofundar demais em conteú
   </p>
 </div>
 
+---
+
+## 3. Precauções e Dicas
+
+Ao aplicar esse hábito, tenha cuidado para não se aprofundar demais em conteúdos complexos ou análises jurídicas. Analisar profundamente precedentes ou interpretações legais antes de escrever corre o risco de esgotar os recursos cognitivos pré-frontais (Esgotamento Cognitivo). A essência desta rotina não é adquirir conhecimento jurídico, mas perceber visualmente a estrutura concisa e as combinações claras de palavras. Portanto, escaneie suavemente as frases sem pensar demais no texto.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>

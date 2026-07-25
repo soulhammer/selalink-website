@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "毎日午後3時間ずつ早歩きで散策した小説家：チャールズ・ディケンズのアイデア・ルーティンとDMN活性化"
 description: "イギリスの大文豪チャールズ・ディケンズが小説の中の立体的な人物と複雑なストーリーを設計した秘訣。毎日午後3時間続いた彼の早い散策ルーティンとデフォルト・モード・ネットワーク（DMN）活性化、BDNF分泌の認知神経科学的原理を解き明かします。"
 pubDate: "2026-05-23"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      歴史的・学術的根拠
+      歴史的＆学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「dickens-afternoon-walk」は <strong>ジョン・フォースター伝記『The Life of Charles Dickens』考証＆認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      本コンテンツは、<strong>ジョン・フォースター伝記『The Life of Charles Dickens』考証＆認知神経科学（Cognitive Neuroscience）研究</strong>に基づいています。
     </p>
   </div>
 </div>
 
 ---
 
-## 拡散的思考の起爆剤：無刺激歩行が誘導するDMN活性化とBDNF分泌
+## 1. 拡散的思考の起爆剤：無刺激歩行が誘導するDMN活性化とBDNF分泌
 
 科学的研究によると、一定のリズムで歩く有酸素運動は大脳皮質の血流量を増やし、脳由来神経栄養因子（BDNF、Brain-Derived Neurotrophic Factor）の分泌を促進して神経可塑性を高め、拡散的思考（Divergent Thinking）を活性化させます。特にディケンズのようにデジタル機器や人工的音響なしに外部刺激を遮断したまま無心で歩く行為は、脳の「デフォルト・モード・ネットワーク（DMN、Default Mode Network）」を強力に稼働させます。DMNは脳が特定の外部課題に直接没頭していない時に作動し、長期記憶の中に断片化されていた経験と午前の間に蓄積された知識を自発的に再配列し結合させて、ひらめく創造的洞察（Eureka Moment）を作り出します。午後の定期的な散策は、午前に疲弊した前頭前野の作業記憶（RAM）を掃除し、高度な認知リソースを再充電する完璧な脳浄化メカニズムです。
 
 ---
 
-## 注意事項＆ヒント：デジタル刺激の隔離と五感真空状態の調律
-
-散策ルーティンの核心は、脳に外部情報が入ってこない「認知的休止状態」を作ってあげることです。歩く間スマートフォンを見ながらメディアをむさぼったり、ポッドキャスト/音楽を聴くと、脳は聴覚および視覚情報の加工に前頭前野のリソースを消費し続けるため、DMN稼働とBDNF回復効果が一切遮断されます。ディケンズのように20〜30分だけでもイヤホンを外しスマートフォンをバッグに入れたまま、足取りの物理的な触感と自然/都市の風景の微細な刺激にのみ五感を委ねてこそ脳が空けられます。
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 注意事項＆ヒント：デジタル刺激の隔離と五感真空状態の調律
+
+散策ルーティンの核心は、脳に外部情報が入ってこない「認知的休止状態」を作ってあげることです。歩く間スマートフォンを見ながらメディアをむさぼったり、ポッドキャスト/音楽を聴くと、脳は聴覚および視覚情報の加工に前頭前野のリソースを消費し続けるため、DMN稼働とBDNF回復効果が一切遮断されます。ディケンズのように20〜30分だけでもイヤホンを外しスマートフォンをバッグに入れたまま、足取りの物理的な触感と自然/都市の風景の微細な刺激にのみ五感を委ねてこそ脳が空けられます。
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> よくある質問 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>散策する間スマートフォンで落ち着いたクラシック音楽を聴くのは大丈夫ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       いいえ、避ける方がはるかに有利です。音楽や言語情報は脳の聴覚皮質を稼働させ続け、デフォルト・モード・ネットワーク（DMN）の完全な活性化を妨げます。完全な脳の休息と無意識的な連想のためには、イヤホンを外し自然の足音と風の音にのみ耳を傾け、感覚の真空状態を維持しなければなりません。
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>忙しい会社員や現代人がディケンズのように毎日3時間ずつ散策することは現実的に難しいでしょうが、代替案はありますか？</span>

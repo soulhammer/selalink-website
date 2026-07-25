@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Thomas Jefferson's Cold Foot Bath Method: A 60-Year Morning Brain-Awakening Routine and Noradrenaline Neuro-Regulation"
 description: "Discover how Thomas Jefferson, principal author of the Declaration of Independence, awakened his brain for 60 years by bathing his feet in cold water every morning. Explore the neuroscience of autonomic nervous system stimulation, noradrenaline, and prefrontal clarity."
 pubDate: "2026-04-17"
@@ -38,22 +39,20 @@ In today's post, we examine the cognitive neuroscience behind Thomas Jefferson's
       Historical & Academic Evidence
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      This analysis regarding jefferson-cold-foot-bath is based on <strong>Historical Verification from *The Writings of Thomas Jefferson* (Letter to Dr. Vine Utley, 1819), Monticello Archives & Cognitive Neuroscience Research</strong>.
+      This content is based on <strong>Historical Verification from *The Writings of Thomas Jefferson* (Letter to Dr. Vine Utley, 1819), Monticello Archives & Cognitive Neuroscience Research</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Autonomic Nervous System Stimulation and Noradrenaline Brain Arousal
+## 1. Autonomic Nervous System Stimulation and Noradrenaline Brain Arousal
 
 Local cold exposure to cutaneous peripheral nerves in the feet stimulates sympathetic circuits within the <strong>Autonomic Nervous System</strong>, triggering the locus coeruleus to immediately secrete <strong>Noradrenaline (Norepinephrine)</strong>. This key neurotransmitter surges cortical arousal, rapidly clearing morning <strong>Brain Fog</strong> (sleep inertia) and restoring executive focus in the <strong>Prefrontal Cortex</strong>.
 
 ---
 
-## Caution: Protocol for Preventing Blood Pressure Spikes and Ensuring Safe Arousal
-
-Sudden extreme cold stress can strain the cardiovascular system or cause transient blood pressure spikes. If you have hypertension or cardiovascular conditions, begin with cool rather than icy water, and strictly limit foot immersion to 2 or 3 minutes to deliver a gentle, safe autonomic awakening signal.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Sudden extreme cold stress can strain the cardiovascular system or cause transie
   </p>
 </div>
 
+---
+
+## 3. Caution: Protocol for Preventing Blood Pressure Spikes and Ensuring Safe Arousal
+
+Sudden extreme cold stress can strain the cardiovascular system or cause transient blood pressure spikes. If you have hypertension or cardiovascular conditions, begin with cool rather than icy water, and strictly limit foot immersion to 2 or 3 minutes to deliver a gentle, safe autonomic awakening signal.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Frequently Asked Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Did Thomas Jefferson genuinely practice this cold foot bath every morning?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ Sudden extreme cold stress can strain the cardiovascular system or cause transie
       Yes, absolutely! In a March 1819 personal letter to Dr. Vine Utley, Jefferson explicitly wrote that he had bathed his feet in cold water every morning for 60 years, attributing his robust health and lack of colds to this habit.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Is a full-body cold shower more effective than a cold foot bath?</span>

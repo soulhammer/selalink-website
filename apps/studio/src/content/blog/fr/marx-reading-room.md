@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "10 heures sous la coupole du British Museum ? La méthode de lecture du cortex d'association de Karl Marx"
 description: "Karl Marx a disséqué les rouages cachés de la société à travers l'économie. Découvrez son habitude de lecture tenace consistant à étudier et annoter une vaste littérature 10 heures par jour dans la salle de lecture du British Museum pendant son exil à Londres, ainsi que ses principes neuroscientifiques."
 pubDate: "2026-03-17"
@@ -35,25 +36,23 @@ Dans cet article, nous explorerons la portée neuroscientifique de la routine de
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant marx-reading-room est basée sur <strong>Biographies historiques, récits autobiographiques de Karl Marx et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
+      Ce contenu est basé sur <strong>Biographies historiques, récits autobiographiques de Karl Marx et recherches en neurosciences cognitives (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Pourquoi 10 heures de lecture profonde sous la coupole ont-elles permis une reconstruction intellectuelle ?
+## 1. Pourquoi 10 heures de lecture profonde sous la coupole ont-elles permis une reconstruction intellectuelle ?
 
 Selon la recherche neuroscientifique, la capacité d'intégrer des connaissances fragmentées issues de divers domaines provient de l'activation du cortex d'association du cerveau. L'immersion quotidienne de 10 heures de Marx dans des textes analogiques au British Museum, en compilant des cahiers d'extraits manuscrits, était un processus neurologique de Deep Work.
 
 ---
 
-## Méfiez-vous de la lecture passive et de l'illusion de la collecte numérique
-
-Le simple fait de sauvegarder de nombreux articles numériques ou PDF et de les parcourir des yeux ne laisse qu'une stimulation cérébrale superficielle. Sans annotation active, l'information ne se transforme jamais en véritable capital intellectuel.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ Le simple fait de sauvegarder de nombreux articles numériques ou PDF et de les 
   </p>
 </div>
 
+---
+
+## 3. Méfiez-vous de la lecture passive et de l'illusion de la collecte numérique
+
+Le simple fait de sauvegarder de nombreux articles numériques ou PDF et de les parcourir des yeux ne laisse qu'une stimulation cérébrale superficielle. Sans annotation active, l'information ne se transforme jamais en véritable capital intellectuel.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> Foire Aux Questions (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>Comment les professionnels ou étudiants modernes peuvent-ils appliquer la routine de lecture de 10 heures du British Museum ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,8 +104,8 @@ Le simple fait de sauvegarder de nombreux articles numériques ou PDF et de les 
       Reproduisez la 'densité de concentration' plutôt que la durée. Appliquez cela sous la forme d'une 'Session de lecture micro-profonde' en éteignant votre smartphone pendant 60 - 90 minutes dans une bibliothèque.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
-  <details class="group cursor-pointer">
+
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Quel est l'avantage neuroscientifique des cahiers d'extraits manuscrits par rapport à la prise de notes numérique ?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -109,7 +114,7 @@ Le simple fait de sauvegarder de nombreux articles numériques ou PDF et de les 
       Les cahiers d'extraits ne sont pas un copiage passif ; ce sont des dialogues actifs avec le texte. Transcrire des affirmations clés puis écrire vos propres interpretations active fortement les lobes frontaux et le cortex d'association.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>Comment surmonter la baisse de concentration ou les blocages mentaux pendant la lecture profonde ?</span>

@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "Le taillage de lentilles de Spinoza : Comment le travail physique répétitif dissipe la fatigue cérébrale"
 description: "Découvrez comment le philosophe panthéiste Spinoza a dissipé la surcharge cognitive et restauré une immersion profonde pendant l'écriture d' 'Éthique' grâce au polissage de lentilles."
 pubDate: "2026-04-25"
@@ -31,25 +32,23 @@ Assis devant son établi avec de la poussière de verre, les gestes physiques r�
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fondement Historique et Académique
+      Fondement Historique & Académique
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      L'analyse concernant spinoza-lens-grinding est basée sur <strong>Recherche biographique historique sur le taillage de lentilles de Spinoza & recherche en neurosciences cognitives</strong>.
+      Ce contenu est basé sur <strong>Recherche biographique historique sur le taillage de lentilles de Spinoza & recherche en neurosciences cognitives</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Neurosciences : Comment la motricité fine prévient l'épuisement cognitif
+## 1. Neurosciences : Comment la motricité fine prévient l'épuisement cognitif
 
 Le raisonnement rationnel continu de haut niveau épuise les ressources cognitives du cortex préfrontal. Passer à un travail manuel fin axé sur le toucher (comme le taillage de lentilles) active le cortex moteur et le cervelet, réprimant immédiatement un réseau du mode par défaut (DMN) hyperactif et permettant au cortex préfrontal de récupérer.
 
 ---
 
-## Choisir un travail manuel totalement dédigitalisé
-
-Pour obtenir cet effet de relaxation, vous devez vous déconnecter complètement des smartphones ou claviers. L'utilisation d'appareils numériques exige toujours des calculs logiques élevés de la part du cerveau. Choisissez des activités physiques simples ne nécessitant que des retours tactiles, comme laver la vaisselle, recopier du texte à la main ou faire de l'artisanat.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -80,6 +79,12 @@ Pour obtenir cet effet de relaxation, vous devez vous déconnecter complètement
     Après 15 minutes de travail manuel, revenez à votre ordinateur et reprenez vos tâches de planification ou de développement. Avec un espace mental restauré, vous prendrez des décisions plus claires.
   </p>
 </div>
+
+---
+
+## 3. Choisir un travail manuel totalement dédigitalisé
+
+Pour obtenir cet effet de relaxation, vous devez vous déconnecter complètement des smartphones ou claviers. L'utilisation d'appareils numériques exige toujours des calculs logiques élevés de la part du cerveau. Choisissez des activités physiques simples ne nécessitant que des retours tactiles, comme laver la vaisselle, recopier du texte à la main ou faire de l'artisanat.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

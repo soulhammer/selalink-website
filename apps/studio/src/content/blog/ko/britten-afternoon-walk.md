@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "오후 해안가 산책으로 난제를 해결한 작곡가: 벤저민 브리튼의 두뇌 해방 루틴"
 description: "20세기 영국 음악의 거장 벤저민 브리튼이 매일 오후 해안길을 산책하며 오전 동안 머릿속에 구상한 음표 구조를 다듬었던 루틴. 주의 회복 이론(ART)과 디폴트 모드 네트워크(DMN)를 통한 인지적 통합의 신경과학적 원리를 밝힙니다."
 pubDate: "2026-04-22"
@@ -35,25 +36,23 @@ faqs:
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      역사적 및 학술적 근거
+      역사적 & 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>험프리 카펜터 평전 『벤저민 브리튼 평전(Benjamin Britten: A Biography)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 britten-afternoon-walk 루틴을 다룹니다.
+      본 콘텐츠는 <strong>험프리 카펜터 평전 『벤저민 브리튼 평전(Benjamin Britten: A Biography)』 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 기반하고 있습니다.
     </p>
   </div>
 </div>
 
 ---
 
-## 주의 회복 이론(ART)과 DMN 가동을 통한 인지적 통합의 메커니즘
+## 1. 주의 회복 이론(ART)과 DMN 가동을 통한 인지적 통합의 메커니즘
 
 오전 세션 동안 고도의 연산이나 기획을 수행한 뇌는 집중 상태를 유지하는 '중앙 집행 네트워크(CEN)'를 가동해 인지적 에너지(글루코스)를 소진한 주의 피로(Attention Fatigue) 상태에 빠집니다. 환경 심리학의 '주의 회복 이론(Attention Restoration Theory)'에 따르면, 파도 소리나 나뭇잎 흔들림 같은 자연의 부드러운 이끌림(Soft Fascination) 요소를 지닌 야외를 걸을 때 전전두엽 주의 제어망은 비로소 이완되어 휴식을 취합니다. 이 이완기에 뇌의 '디폴트 모드 네트워크(DMN)'가 가동되면서, 오전에 수집하거나 고민했던 파편화된 정보들을 장기 저장소로 분류·이송하고 무의식 속에서 재조합하는 '인지적 통합(Cognitive Integration)'을 이뤄냅니다. 브리튼은 오후 산책을 통해 인지 피로를 청소하고, 무의식적 사유를 가동해 난제를 해결한 것입니다.
 
 ---
 
-## 주의사항 및 팁: 수동적 스크린 시청과 능동적 신경 이완의 구별
-
-피로를 느낄 때 침대에 누워 스마트폰 숏폼 비디오나 릴스를 시청하는 것은 뇌과학적으로 결코 '휴식'이 아닙니다. 비록 몸은 고정되어 있을지라도, 뇌의 시각 피질과 도파민 보상 회로는 계속해서 새로운 영상 신호를 해독하느라 막대한 주의력을 소모하여 전두엽 피로를 가중시킵니다. 브리튼처럼 시각적·디지털 정보 유입을 전면 차단한 채 자연 속에서 몸을 가볍게 움직이는 보행 산책만이 전전두엽 인지 자원을 완벽히 리셋하는 진정한 과학적 휴식입니다.
+## 2. 루틴 실행 3단계 가이드
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -85,12 +84,18 @@ faqs:
   </p>
 </div>
 
+---
+
+## 3. 주의사항 및 팁: 수동적 스크린 시청과 능동적 신경 이완의 구별
+
+피로를 느낄 때 침대에 누워 스마트폰 숏폼 비디오나 릴스를 시청하는 것은 뇌과학적으로 결코 '휴식'이 아닙니다. 비록 몸은 고정되어 있을지라도, 뇌의 시각 피질과 도파민 보상 회로는 계속해서 새로운 영상 신호를 해독하느라 막대한 주의력을 소모하여 전두엽 피로를 가중시킵니다. 브리튼처럼 시각적·디지털 정보 유입을 전면 차단한 채 자연 속에서 몸을 가볍게 움직이는 보행 산책만이 전전두엽 인지 자원을 완벽히 리셋하는 진정한 과학적 휴식입니다.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
     <span>📌</span> 자주 묻는 질문 (FAQ)
   </h3>
   
-  <details class="group cursor-pointer" open>
+  <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
       <span>브리튼이 매일 산책했던 올드버러 해안길은 어떤 지형적 특성을 지닌 곳인가요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
@@ -99,7 +104,7 @@ faqs:
       영국 동부 서퍽주에 위치한 올드버러 해안은 모래가 아닌 동글동글한 자갈(Shingle)로 이루어진 독특한 해변입니다. 파도가 칠 때마다 자갈들이 구르며 맑고 청량한 경쾌한 소리를 내며, 탁 트인 수평선이 전두엽의 시각적 해방감을 제공합니다.
     </p>
   </details>
-  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
       <span>자연 해안가가 없는 도심 속 빌딩 숲 산책도 주의 피로 회복 효과를 제공하나요?</span>

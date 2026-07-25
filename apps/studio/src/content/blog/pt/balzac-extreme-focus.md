@@ -1,4 +1,5 @@
 ---
+layout: "../../../layouts/BlogPostLayout.astro"
 title: "O Despertar da Meia-Noite: O Método de Escrita de 12 Horas em Hiperfoco com Café de Honoré de Balzac"
 description: "Explore a rotina de escrita noturna e estimulação com café praticada por Honoré de Balzac, mestre do realismo francês do século XIX, e descubra o mecanismo neurocientífico de hiperfoco que bloqueia estímulos externos e eleva a atenção cerebral ao extremo."
 pubDate: "2026-02-14"
@@ -33,25 +34,23 @@ No artigo de hoje, analisamos os princípios neurocientíficos da rotina noturna
   <span class="text-2xl">🛡️</span>
   <div>
     <h5 class="text-sm font-bold text-indigo-800 dark:text-indigo-300 m-0">
-      Fundamentação Histórica e Académica
+      Base Histórica e Acadêmica
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      A análise sobre balzac-extreme-focus é baseada em <strong>Verificação Histórica da Biografia de Stefan Zweig *Balzac* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
+      Este conteúdo baseia-se em <strong>Verificação Histórica da Biografia de Stefan Zweig *Balzac* e Pesquisa em Neurociência Cognitiva (Cognitive Neuroscience)</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## Sinergia da Eliminação Total do Ruído Cognitivo e da Inibição da Adenosina
+## 1. Sinergia da Eliminação Total do Ruído Cognitivo e da Inibição da Adenosina
 
 O maior obstáculo ao foco cerebral é o 'Ruído Cognitivo' de entrada e os estímulos visuais ou auditivos do ambiente. As horas tardias da noite, livres de chamadas telefônicas e notificações de mensagens, oferecem um ambiente ideal onde os recursos de controle cognitivo pré-frontal podem ser dedicados inteiramente a uma única tarefa. Além disso, a cafeína bloqueia os receptores de adenosina (Adenosine) que sinalizam fadiga ao cérebro, prevenindo a sensação de cansaço. Como resultado, a liberação de dopamina (Dopamine) e norepinefrina (Norepinephrine) é estimulada, aguçando a concentração e mantendo o alerta mental por longos períodos.
 
 ---
 
-## Proteção dos Ritmos Circadianos e Cuidado com o Abuso de Cafeína
-
-O despertar à meia-noite de Balzac e o consumo excessivo de cafeína causaram um estresse severo ao seu corpo. (Na verdade, Balzac faleceu aos 51 anos de idade devido a complicações cardíacas agravadas pela privação de sono e consumo excessivo de café). Portanto, ao aplicar essa estratégia de foco, as pessoas modernas devem evitar destruir seus padrões diários de sono e, em vez disso, utilizar seletivamente blocos de foco tranquilos de 2 a 3 horas, preservando seu ritmo circadiano.
+## 2. 3-Step Routine Guide
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -83,9 +82,15 @@ O despertar à meia-noite de Balzac e o consumo excessivo de cafeína causaram u
   </p>
 </div>
 
+---
+
+## 3. Proteção dos Ritmos Circadianos e Cuidado com o Abuso de Cafeína
+
+O despertar à meia-noite de Balzac e o consumo excessivo de cafeína causaram um estresse severo ao seu corpo. (Na verdade, Balzac faleceu aos 51 anos de idade devido a complicações cardíacas agravadas pela privação de sono e consumo excessivo de café). Portanto, ao aplicar essa estratégia de foco, as pessoas modernas devem evitar destruir seus padrões diários de sono e, em vez disso, utilizar seletivamente blocos de foco tranquilos de 2 a 3 horas, preservando seu ritmo circadiano.
+
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">
-    <span>📌</span> Perguntas Frecuentes (FAQ)
+    <span>📌</span> Preguntas Frecuentes (FAQ)
   </h3>
   
   <details class="group cursor-pointer" open>
