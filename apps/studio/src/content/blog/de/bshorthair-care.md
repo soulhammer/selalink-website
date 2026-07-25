@@ -64,12 +64,23 @@ Mit ihren runden Gesichtern und dem muskulösen Bau sind British Shorthairs sanf
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sanftes Anstarren</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Bedeutung:</strong> Ein reifer und unabhängiger Ausdruck von Liebe, der zeigt, dass sie sich allein durch das Teilen des Raums wohlfühlen.<br/>
     <strong>• Reaktion:</strong> Blinzeln Sie langsam, um die Zuneigung zu erwidern. Nicht nähern oder hochheben; lassen Sie sie die Ruhe genießen.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schwanzzucken</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Ein Warnzeichen, das zeigt, dass sie verärgert oder zu grob berührt werden, mit der Bitte aufzuhören.<br/>
+    <strong>• Reaktion:</strong> Hören Sie sofort auf zu streicheln und vermeiden Sie weiteren Kontakt, damit sich die Katze beruhigen kann.
   </p>
 </div>
 
@@ -79,7 +90,7 @@ Mit ihren runden Gesichtern und dem muskulösen Bau sind British Shorthairs sanf
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Strenge Messung der Futtermenge mit Küchenwaage</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -87,16 +98,29 @@ Mit ihren runden Gesichtern und dem muskulösen Bau sind British Shorthairs sanf
   </p>
 </div>
 
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: Unterfellpflege mit einer Gummi-Katzenbürste</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Obwohl sie kurzhaarig sind, haben sie dichtes Fell. Bürsten Sie 5 Minuten lang mit einer Gummibürste, um Haare zu entfernen.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Atemfrequenzprüfung für HCM und ruhiges Spiel</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Prüfen Sie, ob die Atemfrequenz im Schlaf unter 30 Zügen pro Minute liegt, und spielen Sie leicht mit Wollbällen.
+  </p>
+</div>
+
 ---
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
-    </p>
-  </div>
-</div>
+
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

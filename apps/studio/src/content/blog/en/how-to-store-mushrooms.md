@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Never wash mushrooms before storing — Avoid water absorption ❌💧"
+    text: "Mushrooms have porous structures and absorb water like a sponge. Washing them before storage ruins their firm texture and unique aroma. Simply brush off dirt right before cooking."
+  - name: "Wrap in a paper bag or paper towels — Moisture control 📦"
+    text: "Storing mushrooms in a plastic bag traps moisture from their respiration, causing condensation and fast decay. Wrap them in paper towels or place them in a brown paper bag which absorbs excess moisture."
+  - name: "Store on a middle shelf without pressure — Refrigerated Storage (3Days)"
+    text: "Mushrooms have delicate structures. If crushed under heavy food items, their cell walls break down, causing them to turn black and rot. Place them gently on refrigerator shelves or on top of other vegetables."
 faqs:
   - question: "Why should mushrooms never be washed before storage?"
     answer: "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
@@ -33,30 +33,30 @@ Do you wash mushrooms with water before cooking? This common habit ruins their u
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Never wash mushrooms before storing — Avoid water absorption ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Mushrooms have porous structures and absorb water like a sponge. Washing them before storage ruins their firm texture and unique aroma. Simply brush off dirt right before cooking.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap in a paper bag or paper towels — Moisture control 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Storing mushrooms in a plastic bag traps moisture from their respiration, causing condensation and fast decay. Wrap them in paper towels or place them in a brown paper bag which absorbs excess moisture.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store on a middle shelf without pressure — Refrigerated Storage (3Days)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Mushrooms have delicate structures. If crushed under heavy food items, their cell walls break down, causing them to turn black and rot. Place them gently on refrigerator shelves or on top of other vegetables.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Do you wash mushrooms with water before cooking? This common habit ruins their u
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Crucial Rules and Cautions</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Never wash mushrooms with water before storing</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Mushrooms absorb water like a sponge. Washing them makes them slimy and causes them to rot within a day.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Cover with paper towels in airtight containers</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Mushrooms continuously release moisture. Wrapping them in paper towels absorbs excess condensation and prevents spoilage.
     </p>
   </div>
 </div>

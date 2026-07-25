@@ -68,12 +68,23 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">눈인사 (Slow Blink)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• 의미:</strong> 상대방을 전적으로 신뢰하며 주변 환경에서 평화와 안정을 느낀다는 애정 신호입니다.<br/>
     <strong>• 대처법:</strong> 함께 마주 보며 눈을 가볍게 감았다가 떠주는 템포로 화답해 신뢰감을 높여주세요.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">바디 시그널 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">발가락 펴기 (Paw Flexing)</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• 의미:</strong> 어미 고양이 품에 안겨 우유를 먹던 기억이 연상되어 극도의 심리적 쾌적함을 나타냅니다.<br/>
+    <strong>• 대처법:</strong> 이 행동을 보일 때는 터치를 멈추지 말고 턱밑이나 목 주변을 계속 쓸어주면 더욱 좋아합니다.
   </p>
 </div>
 
@@ -83,7 +94,7 @@ faqs:
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">아침: 골격 활성화를 위한 가벼운 신체 이완 스트레칭</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -91,16 +102,29 @@ faqs:
   </p>
 </div>
 
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">낮: 엉킴 방지 핀 브러싱 및 모질 환기</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    렉돌의 속털은 매우 부드럽고 촘촘해 엉키기 쉽습니다. 끝이 뭉툭한 핀 브러시로 결을 따라 빗어 모질에 공기를 통하게 해주고 피부염과 헤어볼 생성을 사전에 방지합니다.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">저녁: 엉덩이를 받쳐 안아주는 안심 포옹 교감</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    안아 올릴 때 상체만 들면 척추가 뒤틀리며 렉돌의 몸무게로 인해 관절이 손상될 수 있습니다. 반드시 한 손은 앞가슴을, 다른 한 손은 엉덩이를 튼튼히 받쳐 안아 안심 상태를 만들어줍니다.
+  </p>
+</div>
+
 ---
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
-    </p>
-  </div>
-</div>
+
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

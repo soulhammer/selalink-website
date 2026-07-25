@@ -68,12 +68,23 @@ Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine 
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Rute hoch</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     <strong>• Bedeutung:</strong> Ein Ausdruck von starker Freundlichkeit, positiver Kommunikation und Freude gegenüber dem Besitzer.<br/>
     <strong>• Reaktion:</strong> Reagieren Sie mit sanftem Blickkontakt oder Kraulen am Kinn, um die Bindung zu stärken.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-emerald-500/20 bg-emerald-500/5 dark:bg-emerald-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20">Körpersignal 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Schnurren</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    <strong>• Bedeutung:</strong> Wird meist bei Zufriedenheit erzeugt, kann aber auch ein Selbstheilungssignal bei Schmerz oder Angst sein.<br/>
+    <strong>• Reaktion:</strong> Wenn sie schnurren, während sie sich in dunklen Ecken verstecken, untersuchen Sie sie auf Krankheiten.
   </p>
 </div>
 
@@ -83,7 +94,7 @@ Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine 
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
   <div class="flex items-center gap-3 mb-4">
-    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 1</span>
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Morgen: Vertikalbereichsprüfung und Fensterblick-Einrichtung</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
@@ -91,16 +102,29 @@ Heute befasst sich PetSelf mit der Körpersprache dieser Katzen und stellt eine 
   </p>
 </div>
 
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 2</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nachmittag: 15-minütige Jagdspiel-Routine</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Spielen Sie einmal täglich 15 Minuten lang Jagdspiele mit Katzenangeln. Da Katzen Raubtiere sind, verhindert das Jagen von Spielzeug Frustration und erhöht die Bewegung.
+  </p>
+</div>
+
+<div class="my-8 p-6 md:p-8 rounded-[2rem] border border-indigo-500/20 bg-indigo-500/5 dark:bg-indigo-500/10 shadow-sm">
+  <div class="flex items-center gap-3 mb-4">
+    <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20">ROUTINE 3</span>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Abend: Trinkstellenprüfung und Entspannungsbürsten</h4>
+  </div>
+  <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
+    Erneuern Sie abends das Wasser in den Näpfen und richtet Sie mindestens drei Trinkstellen ein. Bürsten Sie vor dem Schlafen die Duftdrüsenbereiche an Wangen und Kinn sanft, um die Entspannung zu fördern.
+  </p>
+</div>
+
 ---
 
-<div class="my-6 p-5 rounded-2xl border-l-4 border-indigo-500 bg-indigo-500/5 dark:bg-indigo-500/10 flex items-start gap-4">
-  <span class="text-xl">💡</span>
-  <div>
-    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
-    </p>
-  </div>
-</div>
+
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mt-0 mb-6 flex items-center gap-2">

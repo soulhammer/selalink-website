@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Bungkus kentang kering secara terpisah dengan koran/kantong kertas — Penyimpanan Suhu Ruang (45Hari) 📦"
+    text: "Kentang bertahan lebih lama jika disimpan bersama tanahnya. Membungkusnya dengan koran atau kantong kertas menghalangi cahaya sepenuhnya, mencegah kulitnya menghijau dan menghasilkan solanin beracun."
+  - name: "Simpan pada suhu ruang bersama 1 buah apel — Menekan pertumbuhan tunas 🍎"
+    text: "Menaruh satu buah apel di wadah kentang akan melepaskan gas etilen, yang menekan pertumbuhan tunas kentang dan secara signifikan memperlambat pertumbuhannya."
+  - name: "Jangan dinginkan — Mencegah kerusakan karena dingin dan perubahan pati ❄️"
+    text: "Menyimpan kentang di bawah suhu 4°C mengubah patinya menjadi gula, merusak rasa, dan memicu zat akrilamida (kanker) saat dimasak. Simpan di suhu sejuk (8–10°C)."
 faqs:
   - question: "Is it safe to eat potatoes after cutting off green patches or sprouts?"
     answer: "Sprouts and green skin contain solanine, a toxic glycolalkaloid. You must slice away green skin thickly and dig out sprout eyes deeply before cooking."
@@ -33,30 +33,30 @@ Apakah Anda menyimpan kentang di laci sayur kulkas? Suhu dingin di bawah 4°C me
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Bungkus kentang kering secara terpisah dengan koran/kantong kertas — Penyimpanan Suhu Ruang (45Hari) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Kentang bertahan lebih lama jika disimpan bersama tanahnya. Membungkusnya dengan koran atau kantong kertas menghalangi cahaya sepenuhnya, mencegah kulitnya menghijau dan menghasilkan solanin beracun.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan pada suhu ruang bersama 1 buah apel — Menekan pertumbuhan tunas 🍎</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Menaruh satu buah apel di wadah kentang akan melepaskan gas etilen, yang menekan pertumbuhan tunas kentang dan secara signifikan memperlambat pertumbuhannya.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jangan dinginkan — Mencegah kerusakan karena dingin dan perubahan pati ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Menyimpan kentang di bawah suhu 4°C mengubah patinya menjadi gula, merusak rasa, dan memicu zat akrilamida (kanker) saat dimasak. Simpan di suhu sejuk (8–10°C).
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Apakah Anda menyimpan kentang di laci sayur kulkas? Suhu dingin di bawah 4°C me
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Aturan Penting dan Peringatan</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jangan pernah menyimpan kentang di dalam kulkas</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Suhu dingin mengubah pati menjadi gula dan memicu zat berbahaya saat digoreng atau dipanggang. Simpan di suhu ruang yang sejuk.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Tutup dengan koran atau simpan dalam kantong hitam</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Paparan cahaya membuat kulit kentang menjadi hijau dan menumpuk solanin, zat beracun. Selalu halangi cahaya sepenuhnya.
     </p>
   </div>
 </div>

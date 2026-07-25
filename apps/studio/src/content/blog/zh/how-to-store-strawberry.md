@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA)</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "请勿清洗并保留草莓蒂 — 隔绝水分渗入 🍓"
+    text: "草莓在食用前不要清洗，保留叶子以防吸水变烂。"
+  - name: "保鲜盒底垫纸巾并留隙摆放 — 防止挤压与积潮 📰"
+    text: "在容器底部铺纸巾，将草莓间隔摆放以防挤压。"
+  - name: "请勿密封，开口冷藏 —  防凝露冷藏 (5天) ❄️"
+    text: "不要用密封盖，保持空气流通冷藏。"
 faqs:
   - question: "把食材放进冰箱前一定要用水洗吗？"
     answer: "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
@@ -33,30 +33,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">请勿清洗并保留草莓蒂 — 隔绝水分渗入 🍓</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    草莓在食用前不要清洗，保留叶子以防吸水变烂。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">保鲜盒底垫纸巾并留隙摆放 — 防止挤压与积潮 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    在容器底部铺纸巾，将草莓间隔摆放以防挤压。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">请勿密封，开口冷藏 —  防凝露冷藏 (5天) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    不要用密封盖，保持空气流通冷藏。
   </p>
 </div>
 
@@ -67,9 +67,19 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">储存注意事项</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">请立即拣出压坏的草莓 ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      哪怕只有一颗压坏流汁的草莓，也会迅速滋生霉菌，进而导致整盒草莓变质。
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">存放在温度稳定的内侧搁板上 🍓</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      冰箱门旁的置物架温度波动大且伴随震动，容易加速草莓老化。应将其存放在温度稳定且震动较小的冷藏室深处。
     </p>
   </div>
 </div>

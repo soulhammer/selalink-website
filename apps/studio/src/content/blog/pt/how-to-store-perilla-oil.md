@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Armazene sempre na geladeira a 0–4 °C — Armazenamento Refrigerado (30Dias)"
+    text: "Ao contrário do óleo de gergelim, o óleo de linhaça/perila não possui sesamol, um antioxidante natural, e contém mais de 60% de ômega-3, tornando-o propício à rancificação em temp. ambiente. Guarde sempre na geladeira (0-4 °C)."
+  - name: "Use garrafas de vidro escuro e evite o ar — Proteção contra oxigênio e UV 🫙"
+    text: "A luz e o oxigênio aceleram a oxidação do ômega-3. O óleo de perila deve ser mantido em garrafas de vidro marrom ou verde, fechando muito bem a tampa após o uso para diminuir o contato com o ar."
+  - name: "Misture óleo de perila e óleo de gergelim na proporção 8:2 — Conservante natural 🫒"
+    text: "Experimente misturar 20% de óleo de gergelim ao óleo de perila. Os antioxidantes naturais do óleo de gergelim (lignanos) impedem a oxidação, dobrando a vida útil do óleo de perila."
 faqs:
   - question: "Does mixing perilla oil with sesame oil increase its shelf life?"
     answer: "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
@@ -33,30 +33,30 @@ Você guardou o óleo de perila no armário em temp. ambiente como o azeite ou �
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Armazene sempre na geladeira a 0–4 °C — Armazenamento Refrigerado (30Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Ao contrário do óleo de gergelim, o óleo de linhaça/perila não possui sesamol, um antioxidante natural, e contém mais de 60% de ômega-3, tornando-o propício à rancificação em temp. ambiente. Guarde sempre na geladeira (0-4 °C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Use garrafas de vidro escuro e evite o ar — Proteção contra oxigênio e UV 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    A luz e o oxigênio aceleram a oxidação do ômega-3. O óleo de perila deve ser mantido em garrafas de vidro marrom ou verde, fechando muito bem a tampa após o uso para diminuir o contato com o ar.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Misture óleo de perila e óleo de gergelim na proporção 8:2 — Conservante natural 🫒</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Experimente misturar 20% de óleo de gergelim ao óleo de perila. Os antioxidantes naturais do óleo de gergelim (lignanos) impedem a oxidação, dobrando a vida útil do óleo de perila.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Você guardou o óleo de perila no armário em temp. ambiente como o azeite ou �
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Reglas cruciales e precauções</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Guarde o óleo de perila na geladeira sem exceção</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      A exposição ao oxigênio e à luz faz o óleo estragar rápido. Guarde-o fechado em garrafas escuras na geladeira.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Misturar com 20% de óleo de gergelim dobra a conservação</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      O óleo de gergelim é rico em sesamol e sesamolina, antioxidantes naturais que evitam que o óleo de perila fique ranço.
     </p>
   </div>
 </div>

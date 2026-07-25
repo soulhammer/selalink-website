@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA)</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "洗わずにヘタを取らないまま保存する —  水分侵入の遮断 🍓"
+    text: "イチゴは洗ってヘタを取ると、切り口から水分を急激に吸い込んでしまい、細胞壁が壊れて果汁が流れ出てしまいます。そこから灰色かび病が一気に繁殖するため、食べる直前まで洗わないでください。"
+  - name: "容器にペーパーを敷き, 隙間をあけて並べる — 摩擦と湿気の防止 📰"
+    text: "容器の底にキッチンペーパーを敷き、その上に重ならないよう広げます. ペーパーが余分な結露吸い取り, 下の実が重みで潰れたり水気で腐るのを防ぎます."
+  - name: "密閉せずに冷蔵庫へ — 結露を防いで保存 (5日間) ❄️"
+    text: "密閉した容器は避け、少し空気を通した状態で冷蔵保管します。"
 faqs:
   - question: "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？"
     answer: "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
@@ -33,30 +33,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">洗わずにヘタを取らないまま保存する —  水分侵入の遮断 🍓</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    イチゴは洗ってヘタを取ると、切り口から水分を急激に吸い込んでしまい、細胞壁が壊れて果汁が流れ出てしまいます。そこから灰色かび病が一気に繁殖するため、食べる直前まで洗わないでください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">容器にペーパーを敷き, 隙間をあけて並べる — 摩擦と湿気の防止 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    容器の底にキッチンペーパーを敷き、その上に重ならないよう広げます. ペーパーが余分な結露吸い取り, 下の実が重みで潰れたり水気で腐るのを防ぎます.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">密閉せずに冷蔵庫へ — 結露を防いで保存 (5日間) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    密閉した容器は避け、少し空気を通した状態で冷蔵保管します。
   </p>
 </div>
 
@@ -67,9 +67,19 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">保存時の注意点</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">潰れたイチゴはすぐに取り除いてください ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      汁が出ている潰れたイチゴをそのままにしておくと、カビ胞子が急速に繁殖し, パック全体のイチゴが台無しになります。
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">一定の低温が保たれる奥の棚に保管してください 🍓</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      冷蔵庫のドアポケットは開閉による温度変化や振動が大きく、イチゴが傷みやすくなります。温度変化の少ない庫内奥の棚に置くことが、長持ちさせる秘訣です。
     </p>
   </div>
 </div>

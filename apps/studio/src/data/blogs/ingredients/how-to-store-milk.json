@@ -11,10 +11,10 @@
       "ko": {
         "title": "우유 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 우유의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "대부분의 가정에서 우유를 냉장고 문 쪽 포켓에 보관합니다. 오늘 FreshSnap에서는 미국 식품의약국(FDA)의 위생 가이드를 기반으로, 신선함을 극대화하는 올바른 우유 냉장 보관 규칙을 소개합니다.",
+        "authority": "<strong>식품의약품안전처(MFDS) & 미국 농무부(USDA) & 미국 식품의약국(FDA)</strong>",
+        "intro": "우유 팩을 습관적으로 냉장고 문 쪽 선반에 보관해 본 적 있으시죠? 🥛\n\n냉장고 문 포켓은 문을 열고 닫을 때마다 외부의 따뜻한 공기에 노출되어 온도 변화가 가장 크고 심한 장소입니다. 온도가 불안정하면 우유 속 저온 세균이 쉽게 증식하여 변질 속도가 급격히 빨라지고 풍미가 저하됩니다.\n\n오늘 FreshSnap에서는 미국 식품의약국(FDA)과 식품의약품안전처(MFDS)의 위생 가이드라인을 바탕으로, 우유의 신선함과 고소한 맛을 완벽하게 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "입구 오염에 특히 주의하세요 🥛",
-            "desc": "우유 팩을 열 때 손가락이 닿거나 입을 대고 마시면 구강 내 유해균이 들어가 냉장고 내부에서도 급격히 번식하여 우유가 상하니 절대 금해야 합니다."
+            "title": "팩 입구 접촉 및 직접 음용에 주의하세요 🥛",
+            "desc": "우유 팩 입구를 개봉할 때 손가락이 닿거나 팩 채 직접 입을 대고 마시면 구강 내 미생물과 세균이 우유 내부로 흘러들어갑니다. 이는 냉장 온도에서도 부패균을 급격히 번식시키므로 반드시 컵에 따라 드셔야 합니다."
           },
           {
-            "title": "소비기한이 지나 굳기 시작하면 즉시 버리세요 ⚠️",
-            "desc": "우유가 팩 바닥에 하얗게 뭉치거나 시큼한 요구르트 냄새가 난다면 유산균이 아닌 부패균이 작동한 결과물이므로 가차 없이 전량 폐기해야 합니다."
+            "title": "덩어리가 생기거나 시큼한 냄새가 나면 즉시 폐기하세요 ⚠️",
+            "desc": "우유가 응고되어 팩 바닥에 순두부처럼 뭉치거나 시큼한 냄새가 난다면 세균이 유당과 단백질을 분해하여 부패한 상태입니다. 끓여도 독소가 사라지지 않으므로 즉시 버려야 합니다."
           }
         ],
         "steps": [
           {
-            "name": "냉장고 문 포켓 보관 금지 — 냉장 보관 (7일)",
-            "text": "냉장고 문은 열고 닫을 때마다 온도 변화가 가장 극심한 곳입니다. 유통기한을 지키려면 외부 공기 노출이 적고 온도가 항상 0~4℃로 일정하게 지켜지는 안쪽 깊은 선반에 보관해야 합니다."
+            "name": "냉장고 문 쪽이 아닌 안쪽 깊숙한 선반 보관하기 — 저온 신선 보관 (7일) ❄️",
+            "text": "냉장고 문 포켓은 열고 닫을 때마다 실온 노출로 온도 변화가 극심합니다. 💡 보관 팁: 우유의 신선도를 지키려면 외부 공기 노출이 적고 온도가 0~4℃로 항상 일정하게 유지되는 냉장고 본체 중앙 깊은 선반 안쪽에 보관해 주세요."
           },
           {
-            "name": "개봉 후에는 7일 이내에 전량 소비하기 — 미생물 억제 🥛",
-            "text": "우유를 개봉하는 순간부터 공기 중 미생물과 산소가 유입되어 산패가 시작됩니다. 팩 입구를 만지지 않도록 주의하고 개봉 후엔 소비기한과 상관없이 일주일 내 소진하세요."
+            "name": "개봉 후에는 팩 입구를 닫고 7일 이내 소비하기 — 세균 증식 차단 🥛",
+            "text": "우유를 개봉하는 순간부터 공기 중의 산소와 미생물이 유입되어 산패와 오염이 시작됩니다. 💡 보관 팁: 사용 후에는 팩 입구를 꼭 닫아 공기 접촉을 차단하고, 표기된 유통기한과 상관없이 개봉 후 7일 이내에 전량 소비해야 합니다."
           },
           {
-            "name": "냄새를 강하게 뿜는 식품과 멀리하기 — 냄새 배임 방지 🧅",
-            "text": "우유는 주변의 강한 냄새를 스펀지처럼 흡착하는 성질이 있습니다. 마늘, 양파, 찌개 남은 것 등을 뚜껑 없이 우유 팩 근처에 두면 우유 속에서 양파 향이 나게 되므로 분리 보관하세요."
+            "name": "마늘, 양파 등 냄새가 강한 식품과 격리하기 — 냄새 배임 방지 🧅",
+            "text": "우유 속 유지방은 공기 중의 휘발성 냄새 입자를 당겨 흡수하는 성질이 매우 강합니다. 💡 보관 팁: 뚜껑을 닫지 않은 마늘, 양파, 김치, 생선 등의 근처에 우유를 두면 비린 향이 흡수되어 풍미가 변질되므로 반드시 떨어진 곳에 밀봉 보관하세요."
           }
         ],
         "faqs": [
           {
-            "question": "우유를 냉동 보관해도 되나요?",
-            "answer": "우유를 얼리면 지방과 단백질이 분리되어 해동 시 덩어리가 지고 풍미가 저하됩니다. 가급적 얼리지 않고 냉장 보관하여 기한 내 드시는 것을 권장합니다."
+            "question": "우유를 장기 보관하기 위해 냉동실에 얼려도 되나요?",
+            "answer": "우유를 얼리는 것은 권장하지 않습니다. 우유를 얼리면 내부의 수분, 지방, 단백질 입자가 분리되어 해동 시 지방 덩어리가 뜨고 질감이 푸석해지며 풍미가 떨어집니다. 보관 기한을 지켜 냉장(0~4℃) 상태로 신선하게 드시는 것이 가장 좋습니다."
           },
           {
-            "question": "개봉 전 우유는 유통기한이 지나도 마실 수 있나요?",
-            "answer": "미개봉 상태로 0~5도 냉장을 유지했다면 유통기한 경과 후 최대 45일까지는 맛과 냄새에 이상이 없을 시 섭취가 가능합니다."
+            "question": "미개봉 상태의 우유는 유통기한(소비기한)이 지나도 마실 수 있나요?",
+            "answer": "개봉하지 않은 상태로 0~5℃ 냉장 온도를 완벽히 유지했다면, 유통기한이 지나더라도 소비기한 관점에서 최대 45일까지는 안전하게 마실 수 있습니다. 단, 개봉 후 시큼한 냄새가 나거나 덩어리가 보인다면 즉시 버려야 합니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Milk Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Milk based on official safety guidelines.",
+        "title": "How to Keep Milk Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for milk based on official safety guidelines.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Do you store milk cartons lined up in the refrigerator door shelves? The refrigerator door experiences direct temperature changes every time it is opened, making it the worst place to keep milk. Today, FreshSnap shares safe milk storage guidelines.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "intro": "Do you habitually store your milk cartons lined up on the refrigerator door shelves? 🥛\n\nThe refrigerator door pocket is the area exposed to warm room air every time it opens, causing the most severe temperature fluctuations. Unstable temperatures allow cold-tolerant bacteria to multiply quickly, accelerating spoilage and ruining flavor.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on hygiene guidelines from the FDA and MFDS to keep your milk rich, creamy, and fresh. 🛡️",
+        "whyTitle": "Why Store Milk This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Milk",
           "Scientifically Proven Storage Guide",
@@ -73,48 +73,48 @@
         ],
         "cautions": [
           {
-            "title": "Store deep inside the shelf after opening",
-            "desc": "The temperature near the door fluctuates, allowing bacteria to multiply quickly. Place milk on middle shelves where the temperature is stable."
+            "title": "Avoid touching the spout and drinking directly from the carton 🥛",
+            "desc": "Touching the carton spout with fingers or drinking directly introduces oral bacteria into the milk. These bacteria multiply rapidly even under refrigeration, so always pour milk into a clean glass."
           },
           {
-            "title": "Avoid storing near foods with strong odors",
-            "desc": "Milk absorbs surrounding odors very easily due to its fat content. Keep it away from garlic, onions, or kimchi."
+            "title": "Discard immediately if curdled or emitting a sour odor ⚠️",
+            "desc": "If milk curdles into clumps at the bottom of the carton or smells sour like spoiled yogurt, bacteria have broken down the lactose and proteins. Heat will not destroy these toxins, so discard the entire carton immediately."
           }
         ],
         "steps": [
           {
-            "name": "Do not store on the refrigerator door — Refrigerated Storage (7Days)",
-            "text": "The refrigerator door experiences the most severe temperature fluctuations whenever it is opened and closed. To preserve milk, keep it on the inner shelves of the refrigerator where the temperature is stable at 0–4°C."
+            "name": "Store on deep inner shelves instead of the refrigerator door — Cold Storage (7 Days) ❄️",
+            "text": "The refrigerator door pocket suffers drastic temperature swings every time it opens. 💡 Storage Tip: To maintain milk freshness, store it on a deep inner shelf in the main compartment where the temperature remains constantly cold at 0–4°C (32–39°F)."
           },
           {
-            "name": "Consume within 7 days once opened — Limit bacterial growth 🥛",
-            "text": "Once milk is opened, contact with air introduces oxygen and bacteria, starting the spoilage process. Avoid touching the carton spout and consume the milk within 7 days, regardless of the expiration date."
+            "name": "Seal spout and consume within 7 days once opened — Prevent Bacterial Growth 🥛",
+            "text": "The moment milk is opened, contact with air introduces oxygen and airborne microorganisms, initiating degradation. 💡 Storage Tip: Keep the spout tightly closed after each use and consume within 7 days of opening, regardless of the printed expiration date."
           },
           {
-            "name": "Keep away from strong-smelling foods — Avoid odor absorption 🧅",
-            "text": "Milk acts like a sponge and easily absorbs strong odors from its surroundings. If left near uncovered onions, garlic, or leftovers, the milk will absorb those flavors. Always keep it sealed and separate."
+            "name": "Isolate from strong-smelling foods like garlic and onions — Prevent Odor Absorption 🧅",
+            "text": "Milk fat readily absorbs volatile odor molecules floating in the air like a sponge. 💡 Storage Tip: Storing milk near uncovered garlic, onions, kimchi, or fish will taint its creamy flavor. Keep milk tightly closed and stored separately."
           }
         ],
         "faqs": [
           {
-            "question": "Can I freeze milk for storage?",
-            "answer": "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+            "question": "Can I freeze milk for long-term storage?",
+            "answer": "Freezing milk is not recommended. Freezing causes water, fat, and protein particles to separate, leading to a clumpy, grainy texture and loss of flavor upon thawing. It is best to keep milk refrigerated (0–4°C) and consume it within its recommended timeframe."
           },
           {
-            "question": "Can unopened milk be consumed after the expiration date?",
-            "answer": "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
+            "question": "Can unopened milk be safely consumed past its expiration date?",
+            "answer": "If kept continuously unopened and refrigerated at 0–5°C (32–41°F), milk remains safe to consume for up to 45 days past its sell-by date under official use-by guidelines, provided there are no off-odors, sour taste, or curdling."
           }
         ]
       },
       "ja": {
-        "title": "牛乳の鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づく牛乳の最適な保存温度、保管方法、保存期間について解説します。",
+        "title": "牛乳を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく牛乳の最適な保存温度、保管方法、保存期間をご確認ください。",
         "authority": "<strong>食品医薬品安全処(MFDS) & 米国農務省(USDA) & 米国食品医薬品局(FDA)</strong>",
-        "intro": "牛乳パックを冷蔵庫のドアポケットに並べて保管していませんか？開閉するたびに温度変化を直接受けるドアポケットは、牛乳の傷みを早めるため、最も避けるべき場所です。正しい保管方法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "intro": "牛乳パックを習慣的に冷蔵庫のドアポケットに並べて保管していませんか？🥛\n\n冷蔵庫のドアポケットは、ドアを開閉するたびに室内の温かい空気に晒され、最も温度変化が激しい場所です。温度が不安定になると牛乳の中の低温細菌が繁殖しやすくなり、傷むスピードが急速に早まって風味が落ちてしまいます。\n\n本日FreshSnapでは、米国食品医薬品局（FDA）および食品医薬品安全処（MFDS）の衛生ガイドラインに基づき、牛乳の新鮮さとコクのある美味しさを完璧に保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
+        "cautionTitle": "保存時の必須ルールと注意事項",
         "tags": [
           "牛乳",
           "科学的に検証された保存ガイド",
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "開封後は冷蔵庫の棚の奥深くに保存してください",
-            "desc": "ドア付近は温度変化が激しく、雑菌が繁殖しやすいです。温度が最も一定に保たれる棚の奥で保管してください。"
+            "title": "注ぎ口への接触や直接飲む行為に注意してください 🥛",
+            "desc": "パックの注ぎ口を開ける際に手で触れたり、パックから直接口をつけて飲むと、唾液中の微生物や細菌が牛乳の内部に混入します。これらは冷蔵温度でも急速に繁殖するため、必ず清潔なコップに注いでお召し上がりください。"
           },
           {
-            "title": "臭いの強い食品の近くを避けて保管してください",
-            "desc": "牛乳は脂肪成分の働きにより、周囲の臭いを非常に吸着しやすいです。にんにく、玉ねぎ、キムチなどの近くを避けて密閉保管してください。"
+            "title": "固まりができたり酸っぱいニオイがしたら直ちに破棄してください ⚠️",
+            "desc": "牛乳が凝固してパックの底に豆腐のように溜まったり、酸っぱいニオイがする場合は、腐敗菌が乳糖やタンパク質を分解した状態です。加熱しても毒素は消えないため、直ちに全量を破棄してください。"
           }
         ],
         "steps": [
           {
-            "name": "冷蔵庫のドアポケット保存を避ける — 冷蔵保存 (7日間) ア",
-            "text": "冷蔵庫のドアポケットは, ドアの開閉のたびに最も温度変化が激しくなる場所です。牛乳を新鮮に保つためには, 温度が0〜4℃で安定している冷蔵庫の奥の棚に置いてください。"
+            "name": "ドアポケットではなく冷蔵庫奥の棚に保存する — 低温鮮度保持 (7日間) ❄️",
+            "text": "ドアポケットは開閉のたびに常温に晒され温度変化が極めて激しい場所です。💡保存のコツ：牛乳の鮮度を守るには、外部の空気の影響を受けにくく、温度が常に0〜4℃で一定に保たれる冷蔵庫本体の中央奥の棚で保存してください。"
           },
           {
-            "name": "開封後は7日以内に消費する — 雑菌繁殖の抑制 🥛",
-            "text": "牛乳を開封した瞬間から, 空気中の雑菌や酸素が入り込み品質の低下が始まります。パックの注ぎ口に手が触れないよう注意し, 賞味期限に関わらず開封後は1週間以内に飲み切るようにしてください。"
+            "name": "開封後は注ぎ口を閉じて7日以内に飲み切る — 細菌繁殖の遮断 🥛",
+            "text": "牛乳を開封した瞬間から、空気中の酸素や微生物が入り込んで品質の低下が始まります。💡保存のコツ：使用後は注ぎ口をぴったり閉じ、表示されている賞味期限に関わらず開封後は7日以内にすべて使い切ってください。"
           },
           {
-            "name": "においの強い食材から遠ざける — におい移り防止 🧅",
-            "text": "牛乳は周辺の強いにおいをスポンジのように吸収する性質があります。にんにくや玉ねぎ, 食べ残しなどを蓋をせずに牛乳パックの近くに置くとにおいが移るため, 離して保管してください。"
+            "name": "ニンニクや玉ねぎなどニオイの強い食材から隔離する — におい移り防止 🧅",
+            "text": "牛乳に含まれる乳脂肪は、空気中のにおい成分を引き寄せて吸収する性質が非常に強いです。💡保存のコツ：フタをしていないニンニク、玉ねぎ、キムチ、魚などの近くに牛乳を置くとニオイが移って風味を損なうため、必ず離して密閉保存してください。"
           }
         ],
         "faqs": [
           {
-            "question": "牛乳を冷凍保存してもいいですか？",
-            "answer": "牛乳を凍らせると脂肪とタンパク質が分離し、解凍時に塊ができたり風味が損なわれたりします。極力凍らせず、冷蔵保存して期限内に消費することをお勧めします。"
+            "question": "牛乳を長期保存するために冷凍庫で凍らせてもいいですか？",
+            "answer": "牛乳の冷凍はおすすめできません。凍らせると内部の水、脂質、タンパク質が分離し、解凍時に脂肪の固まりが浮いて食感がパサつき、風味が損なわれます。賞味期限を守り、冷蔵（0〜4℃）の状態で新鮮にお召し上がりいただくのがベストです。"
           },
           {
-            "question": "未開封の牛乳は賞味期限が過ぎても飲めますか？",
-            "answer": "未開封で0〜5度の冷蔵を維持していた場合、賞味期限経過後最大45日までは、味や臭いに異常がなければ飲むことができます。"
+            "question": "未開封の牛乳は賞味期限（消費期限）が過ぎても飲めますか？",
+            "answer": "開封せず0〜5℃の冷蔵温度を完全に維持していれば、賞味期限が過ぎても消費期限の観点から最大45日程度は安全に飲むことができます。ただし、開封後に酸っぱいニオイがしたり固まりが見られる場合は直ちに廃棄してください。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存牛奶：科学储存指南",
+        "title": "如何保持牛奶新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解牛奶的最佳储存温度、方式和保鲜时长。",
         "authority": "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>",
-        "intro": "您是否把牛奶盒整齐地排在冰箱门旁的架子上？冰箱门每次开关都会直接发生温度变化，是保存牛奶最应该避免的地方。今天，FreshSnap为您分享科学安全的牛奶储存指南。",
+        "intro": "您是否习惯性地将牛奶盒整齐地摆放在冰箱门侧架上？🥛\n\n冰箱门侧架是每次开关冰箱时都会接触到室外暖空气、温度波动最为剧烈的区域。温度不稳定会导致牛奶中的耐冷菌快速滋生，加速变质并破坏浓郁风味。\n\n今天FreshSnap基于美国食品药品监督管理局(FDA)和韩国食品医药品安全处(MFDS)的卫生指南，为您带来3步科学保存秘诀，帮您完美锁定牛奶的新鲜与醇香。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "牛奶",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "开封后请存放在冰箱搁板内侧深处",
-            "desc": "靠近冰箱门的地方温度波动大，容易滋生细菌。请将牛奶存放在温度最稳定的搁板内侧。"
+            "title": "请注意切勿触碰盒口或直接对嘴饮用 🥛",
+            "desc": "拆开牛奶盒时若用手触碰倒出口，或直接对嘴饮用，会将口腔中的微生物与细菌带入牛奶中。这些细菌即使在冷藏环境下也会迅速繁殖，因此请务必倒进干净的杯子中饮用。"
           },
           {
-            "title": "避免存放在气味强烈的食物旁",
-            "desc": "牛奶中的乳脂肪极易吸收周围的异味。请让其避开大蒜、洋葱、泡菜等气味浓烈的食物。"
+            "title": "若出现结块或散发酸臭味，请立即丢弃 ⚠️",
+            "desc": "如果牛奶发生凝固、在盒底沉淀如豆腐渣状，或散发出酸腐味，说明腐败菌已分解了乳糖和蛋白质。即便加热也无法消除毒素，请务必整盒丢弃。"
           }
         ],
         "steps": [
           {
-            "name": "切勿放在冰箱门架上 — 冷藏储存 (7天)",
-            "text": "冰箱门是开关时温度变动最剧烈的地方。为了保证牛奶的新鲜，应避免存放在门架上，而应放在冷气充足且温度稳定在0-4℃的冰箱内侧隔板上。"
+            "name": "存放在冰箱主舱内侧深处隔板，而非门侧架 — 低温保鲜 (7天) ❄️",
+            "text": "冰箱门架每次开关都会暴露于常温中，温度起伏极大。💡储存小贴士：为了保持牛奶的新鲜度，请将其存放在受外部空气影响小、温度稳定维持在0~4℃的冰箱主舱中央深处隔板上。"
           },
           {
-            "name": "开封后在7天内饮用完 — 抑制微生物 🥛",
-            "text": "从牛奶包装打开的瞬间起，空气中的微生物和氧气就会进入，牛奶开始发生酸败。注意不要用手碰触纸盒倒出口，开封后请务必在一周内喝完，无论原保质期还有多久。"
+            "name": "开封后封紧盒口并在7天内饮用完毕 — 阻断细菌滋生 🥛",
+            "text": "从牛奶盒打开的瞬间起，空气中的氧气与微生物就会侵入，引发变质。💡储存小贴士：取用后请务必封紧倒出口，无论包装上标注的保质期还有多久，开封后请在7天内全部饮用完毕。"
           },
           {
-            "name": "远离有强烈气味的食物 — 防止串味 🧅",
-            "text": "牛奶具有像海绵一样易吸附周围强气味的物理特性。如果把大蒜、洋葱或剩菜不盖盖子放在牛奶盒附近，牛奶就会串味。请务必密封好并与其他重口味食材隔开存放。"
+            "name": "与大蒜、洋葱等强异味食材隔离 — 防止串味 🧅",
+            "text": "牛奶中的乳脂具有极强的吸附空气中挥发性异味分子的物理特性。💡储存小贴士：如果将牛奶放在未盖盖的大蒜、洋葱、泡菜或生鲜鱼类附近，牛奶会吸收异味破坏风味，请务必隔离密封存放。"
           }
         ],
         "faqs": [
           {
-            "question": "牛奶可以冷冻保存吗？",
-            "answer": "冷冻牛奶会导致脂肪 and 蛋白质分离，解冻时会产生结块且风味下降。建议尽量不要冷冻，而是冷藏保存并及时饮用。"
+            "question": "可以把牛奶放进冷冻室冻起来长期保存吗？",
+            "answer": "不建议冷冻牛奶。牛奶冷冻后，内部的水分、脂肪和蛋白质会发生相分离，解冻时会出现脂肪结块、质地变渣且风味大幅下降。最好遵循保质期，在0~4℃冷藏状态下新鲜饮用。"
           },
           {
-            "question": "未开封的牛奶过期了还可以喝吗？",
-            "answer": "如果保持未开封并在 0-5°C 下冷藏，只要味道和气味无异常，在保质期过后最长 45 天内仍可饮用。"
+            "question": "未开封的牛奶过了保质期还可以继续饮用吗？",
+            "answer": "在保持未开封且全程维持0~5℃严格冷藏的前提下，从安全食用期限（消费期限）角度来看，保质期过后最长45天内只要气味和味道无异常仍可饮用。但如果开封后有酸味或结块，则必须立即丢弃。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Leche fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Leche según las directrices oficiales de seguridad.",
+        "title": "Cómo mantener la leche fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la leche según las directrices oficiales de seguridad.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "¿Guarda los cartones de leche alineados en los estantes de la puerta del refrigerador? La puerta sufre cambios directos de temperatura al abrirse, siendo el peor lugar para la leche. Hoy, FreshSnap comparte pautas seguras.",
+        "intro": "¿Suele guardar los cartones de leche alineados en los estantes de la puerta del refrigerador? 🥛\n\nEl estante de la puerta del refrigerador es el área expuesta al aire cálido cada vez que se abre, sufriendo las variaciones de temperatura más drásticas. La temperatura inestable permite que las bacterias psicrófilas se multipliquen rápidamente, acelerando la descomposición y arruinando el sabor.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en las directrices de higiene de la FDA y el MFDS para mantener su leche cremosa, sabrosa y fresca. 🛡️",
         "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Leche",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "Guarde al fondo de la repisa después de abrirla",
-            "desc": "La zona de la puerta tiene cambios de temperatura, facilitando el crecimiento de bacterias. Ponga la leche en las repisas del medio."
+            "title": "Evite tocar la boquilla del envase y beber directamente del cartón 🥛",
+            "desc": "Tocar la boquilla con los dedos o beber directamente del cartón introduce bacterias bucales dentro de la leche. Estas bacterias se multiplican rápidamente incluso en refrigeración, por lo que siempre debe verter la leche en un vaso limpio."
           },
           {
-            "title": "Evite guardarla cerca de alimentos con olores fuertes",
-            "desc": "La leche absorbe olores fácilmente debido a su grasa. Manténgala alejada del ajo, la cebolla o el kimchi."
+            "title": "Deséchela de inmediato si se coagula o despide olor agrio ⚠️",
+            "desc": "Si la leche se coagula formando grumos al fondo del cartón o huele agria como yogur descompuesto, las bacterias han degradado la lactosa y las proteínas. Hervirla no eliminará las toxinas, por lo que debe desechar todo el envase."
           }
         ],
         "steps": [
           {
-            "name": "No guarde en la puerta del refrigerador — Almacenamiento Refrigerado (7Días)",
-            "text": "La puerta del refrigerador experimenta los mayores cambios de temperatura cada vez que se abre. Para conservar la leche, colóquela en las repisas internas del refrigerador, donde la temperatura se mantiene estable a 0-4 °C."
+            "name": "Guarde en los estantes interiores profundos, no en la puerta — Refrigeración (7 días) ❄️",
+            "text": "Los compartimentos de la puerta sufren cambios térmicos severos cada vez que se abren. 💡 Consejo de almacenamiento: Para preservar la frescura de la leche, guárdela en un estante interior profundo del compartimento principal donde la temperatura se mantenga estable entre 0 y 4 °C."
           },
           {
-            "name": "Consuma en un plazo de 7 días una vez abierta — Limite bacterias 🥛",
-            "text": "Una vez abierta la leche, el contacto con el aire introduce bacterias, iniciando el deterioro. Evite tocar la boquilla del envase y consúmala en un plazo de 7 días, sin importar la fecha de vencimiento."
+            "name": "Cierre la boquilla y consuma en un plazo de 7 días tras abrir — Prevenga el desarrollo bacteriano 🥛",
+            "text": "Desde el momento en que se abre la leche, el contacto con el aire introduce oxígeno y microorganismos ambientales, iniciando su degradación. 💡 Consejo de almacenamiento: Cierre bien la boquilla tras cada uso y consúmala en 7 días tras abrirla, independientemente de la fecha de caducidad."
           },
           {
-            "name": "Mantenga alejada de alimentos con olor fuerte — Evite la absorción de olores 🧅",
-            "text": "La leche actúa como una esponja y absorbe fácilmente los olores fuertes de su entorno. Evite guardarla cerca de cebollas, ajos o sobras sin tapar. Manténgala sellada y separada."
+            "name": "Aísle de alimentos con olores fuertes como ajo y cebolla — Evite la absorción de olores 🧅",
+            "text": "La grasa láctea de la leche absorbe con gran facilidad las moléculas de olor volátiles presentes en el aire. 💡 Consejo de almacenamiento: Guardar la leche cerca de ajos, cebollas, kimchi o pescado sin tapar contaminará su sabor cremoso. Manténgala sellada y separada."
           }
         ],
         "faqs": [
           {
-            "question": "Can I freeze milk for storage?",
-            "answer": "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+            "question": "¿Puedo congelar la leche para conservarla a largo plazo?",
+            "answer": "No se recomienda congelar la leche. La congelación separa el agua, las grasas y las proteínas, dejando una textura grumosa y pérdida de sabor al descongelar. Es mejor mantenerla refrigerada a 0-4 °C y consumirla dentro de su periodo recomendado."
           },
           {
-            "question": "Can unopened milk be consumed after the expiration date?",
-            "answer": "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
+            "question": "¿Se puede consumir la leche sin abrir después de su fecha de vencimiento?",
+            "answer": "Si se mantiene sin abrir y bajo refrigeración continua a 0-5 °C, la leche puede consumirse de manera segura hasta 45 días después de la fecha de vencimiento, siempre que no presente olores agrios, sabor alterado o grumos al abrirla."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Lait frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Lait selon les directives de sécurité officielles.",
+        "title": "Comment conserver le lait frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le lait selon les directives officielles de sécurité.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Rangez-vous les briques de lait alignées dans la porte du frigo ? La porte subit des changements directs de température à chaque ouverture, c'est le pire endroit pour le lait. Aujourd'hui, FreshSnap vous montre les bonnes pratiques.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "intro": "Avez-vous l'habitude de ranger vos briques de lait alignées dans les balconnets de la porte du réfrigérateur ? 🥛\n\nLa porte du réfrigérateur est la zone la plus exposée à l'air chaud ambiant à chaque ouverture, subissant ainsi les écarts de température les plus importants. Une température instable permet aux bactéries psychrophiles de se multiplier rapidement, ce qui accélère la détérioration et altère le goût.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la FDA et du MFDS pour garder votre lait onctueux, savoureux et frais. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Lait",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Rangez au fond de l'étagère après ouverture",
-            "desc": "La température près de la porte fluctue, ce qui favorise la prolifération des bactéries. Placez le lait sur les étagères du milieu."
+            "title": "Évitez de toucher le bec verseur et de boire à la brique 🥛",
+            "desc": "Toucher le bec verseur avec les doigts ou boire directement à la brique introduit des bactéries buccales dans le lait. Ces bactéries se développent rapidement même au frais ; versez toujours le lait dans un verre propre."
           },
           {
-            "title": "Évitez de stocker près d'aliments à forte odeur",
-            "desc": "Le lait absorbe très facilement les odeurs environnantes à cause de sa graisse. Éloignez-le de l'ail, des oignons ou du kimchi."
+            "title": "Jetez immédiatement le lait s'il caille ou dégage une odeur aigre ⚠️",
+            "desc": "Si le lait forme des grumeaux au fond de la brique ou dégage une odeur sûre, les bactéries ont dégradé le lactose et les protéines. La cuisson ne détruira pas les toxines, jetez immédiatement toute la brique."
           }
         ],
         "steps": [
           {
-            "name": "Ne pas conserver dans la porte du frigo — Stockage Réfrigéré (7Jours)",
-            "text": "La porte du réfrigérateur subit les variations de température les plus fortes à chaque ouverture. Pour préserver le lait, rangez-le sur les étagères du fond où la température est stable à 0-4 °C."
+            "name": "Conserver sur les étagères intérieures plutôt que dans la porte — Réfrigération (7 jours) ❄️",
+            "text": "La porte du réfrigérateur subit de fortes variations de température à chaque ouverture. 💡 Astuce de conservation : Pour préserver la fraîcheur du lait, rangez-le au fond d'une étagère intérieure où la température reste stable entre 0 et 4 °C."
           },
           {
-            "name": "Consommer sous 7 jours après ouverture — Limiter les bactéries 🥛",
-            "text": "Dès que le lait est ouvert, l'air apporte des bactéries qui débutent la dégradation. Évitez de toucher le bec verseur et consommez sous 7 jours, quelle que soit la date de péremption."
+            "name": "Refermer le bec et consommer sous 7 jours après ouverture — Limiter la prolifération bactérienne 🥛",
+            "text": "Dès que la brique est ouverte, l'air apporte de l'oxygène et des micro-organismes ambiants, ce qui amorce la dégradation. 💡 Astuce de conservation : Refermez bien le bec verseur après chaque usage et consommez le lait dans les 7 jours suivant l'ouverture, quelle que soit la date de péremption."
           },
           {
-            "name": "Éloigner des aliments à forte odeur — Éviter l'absorption des odeurs 🧅",
-            "text": "Le lait se comporte comme une éponge et absorbe facilement les odeurs fortes. Évitez de le stocker près d'oignons, d'ail ou de restes non couverts. Conservez-le bien fermé et à distance."
+            "name": "Isoler des aliments odorants comme l'ail et l'oignon — Éviter l'imprégnation des odeurs 🧅",
+            "text": "La matière grasse du lait absorbe très facilement les molécules odorantes volatiles en suspension dans l'air. 💡 Astuce de conservation : Ranger le lait près d'ail, d'oignons, de kimchi ou de poisson non couverts va altérer son goût. Gardez-le bien fermé et séparé."
           }
         ],
         "faqs": [
           {
-            "question": "Can I freeze milk for storage?",
-            "answer": "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+            "question": "Puis-je congeler le lait pour une longue conservation ?",
+            "answer": "Il n'est pas recommandé de congeler le lait. La congélation sépare l'eau, les matières grasses et les protéines, ce qui donne une texture grumeleuse et une perte de saveur au dégel. Il est préférable de le conserver réfrigéré (0-4 °C) et de le consommer dans les délais impartis."
           },
           {
-            "question": "Can unopened milk be consumed after the expiration date?",
-            "answer": "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
+            "question": "Le lait non ouvert peut-il être consommé après la date de péremption ?",
+            "answer": "S'il est conservé non ouvert et maintenu de manière continue entre 0 et 5 °C, le lait reste propre à la consommation jusqu'à 45 jours après la date de péremption, à condition qu'il ne présente aucune odeur aigre, modification de goût ou grumeaux."
           }
         ]
       },
       "de": {
-        "title": "Wie man Milch frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Milch basierend auf offiziellen Sicherheitsrichtlinien.",
+        "title": "Milch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Milch basierend auf offiziellen Sicherheitsrichtlinien.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Lagern Sie Milchkartons in den Abstellfächern der Kühlschranktür? Die Tür ist durch das ständige Öffnen starken Temperaturschwankungen ausgesetzt und der schlechteste Ort für Milch. Heute teilt FreshSnap Tipps.",
+        "intro": "Bewahren Sie Ihre Milchkartons gewohnheitsmäßig in den Fächern der Kühlschranktür auf? 🥛\n\nDie Kühlschranktür ist bei jedem Öffnen der warmen Raumluft ausgesetzt und unterliegt den stärksten Temperaturschwankungen. Unbeständige Temperaturen ermöglichen es kälteresistenten Bakterien, sich schnell zu vermehren, was den Verderb beschleunigt und den Geschmack ruiniert.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Hygieneempfehlungen von FDA und MFDS basiert, um Ihre Milch cremig, lecker und frisch zu halten. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Milch",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Nach dem Öffnen tief im Inneren des Regals lagern",
-            "desc": "In der Nähe der Tür schwankt die Temperatur, was Bakterienwachstum fördert. Milch im mittleren Fach lagern, wo es stabil kühl ist."
+            "title": "Berühren der Ausgussöffnung und direktes Trinken vermeiden 🥛",
+            "desc": "Das Berühren der Ausgussöffnung mit den Fingern oder das direkte Trinken aus der Packung bringt Mundbakterien in die Milch. Diese vermehren sich selbst bei Kühlung rasch; gießen Sie Milch daher immer in ein sauberes Glas."
           },
           {
-            "title": "Lagerung neben stark riechenden Lebensmitteln vermeiden",
-            "desc": "Milch nimmt durch ihren Fettgehalt leicht Umgebungsgerüche an. Von Knoblauch, Zwiebeln oder Kimchi fernhalten."
+            "title": "Bei Klumpenbildung oder saurem Geruch sofort entsorgen ⚠️",
+            "desc": "Wenn die Milch am Boden der Packung wie Quark ausflockt oder sauer riecht, haben Bakterien Laktose und Proteine zersetzt. Abkochen zerstört diese Toxine nicht; entsorgen Sie die gesamte Packung sofort."
           }
         ],
         "steps": [
           {
-            "name": "Nicht in der Kühlschranktür lagern — Kühllagerung (7Tage)",
-            "text": "Die Kühlschranktür ist beim Öffnen den stärksten Temperaturschwankungen ausgesetzt. Um Milch frisch zu halten, lagern Sie sie auf den inneren Regalen des Kühlschranks bei konstanten 0–4 °C."
+            "name": "Im tiefen Innenregal statt in der Kühlschranktür lagern — Kühllagerung (7 Tage) ❄️",
+            "text": "Die Türfächer unterliegen bei jedem Öffnen extremen Temperaturschwankungen. 💡 Lagerungstipp: Um die Frische der Milch zu bewahren, lagern Sie sie auf einem tiefen Regalfach im Inneren des Kühlschranks bei konstant 0–4 °C."
           },
           {
-            "name": "Nach dem Öffnen innerhalb von 7 Tagen verbrauchen 🥛",
-            "text": "Sobald die Milch geöffnet ist, dringen Sauerstoff und Bakterien ein, was den Verderb einleitet. Vermeiden Sie es, die Ausgussöffnung zu berühren, und verbrauchen Sie die Milch innerhalb von 7 Tagen."
+            "name": "Nach dem Öffnen gut verschließen und innerhalb von 7 Tagen verbrauchen — Bakterienwachstum stoppen 🥛",
+            "text": "Sobald die Milch geöffnet ist, dringen Sauerstoff und Luftkeime ein und leiten den Verderb ein. 💡 Lagerungstipp: Verschließen Sie die Ausgussöffnung nach jedem Gebrauch fest und verbrauchen Sie die Milch innerhalb von 7 Tagen nach dem Öffnen."
           },
           {
-            "name": "Von geruchsintensiven Lebensmitteln fernhalten — Geruchsübertragung vermeiden 🧅",
-            "text": "Milch wirkt wie ein Schwamm und nimmt leicht starke Gerüche auf. Lagern Sie sie nicht in der Nähe von nicht abgedeckten Zwiebeln, Knoblauch oder Essensresten."
+            "name": "Von geruchsintensiven Lebensmitteln wie Knoblauch und Zwiebeln fernhalten — Geruchsübertragung vermeiden 🧅",
+            "text": "Das Milchfett bindet flüchtige Geruchsstoffe aus der Umgebungsluft extrem schnell. 💡 Lagerungstipp: Die Lagerung von Milch neben unabgedecktem Knoblauch, Zwiebeln, Kimchi oder Fisch verändert ihren Geschmack. Stets verschlossen und getrennt aufbewahren."
           }
         ],
         "faqs": [
           {
-            "question": "Can I freeze milk for storage?",
-            "answer": "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+            "question": "Kann man Milch einfrieren, um sie lange haltbar zu machen?",
+            "answer": "Das Einfrieren von Milch wird nicht empfohlen. Beim Einfrieren trennen sich Wasser, Fett und Proteine, was nach dem Auftauen zu einer krümeligen, flockigen Textur und Geschmacksverlust führt. Am besten wird Milch bei 0–4 °C gekühlt gelagert und fristgerecht verbraucht."
           },
           {
-            "question": "Can unopened milk be consumed after the expiration date?",
-            "answer": "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
+            "question": "Kann ungeöffnete Milch nach Ablauf des Mindesthaltbarkeitsdatums noch getrunken werden?",
+            "answer": "Wenn die Milch ununterbrochen ungeöffnet bei 0–5 °C gekühlt wurde, ist sie aus Sicht des Verbrauchsdatums oft noch bis zu 45 Tage nach Ablauf des Mindesthaltbarkeitsdatums genießbar, sofern sie keinen sauren Geruch, Geschmacksveränderungen oder Klumpen aufweist."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Leite fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Leite com base nas diretrizes oficiais de segurança.",
+        "title": "Como conservar leite fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para leite com base em diretrizes oficiais de segurança.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Você guarda as caixas de leite alinhadas nas prateleiras da porta da geladeira? A porta sofre variações diretas de temperatura a cada abertura, sendo o pior lugar para o leite. Hoje, o FreshSnap compartilha orientações seguras.",
+        "intro": "Você costuma guardar as caixas de leite alinhadas nas prateleiras da porta da geladeira? 🥛\n\nA prateleira da porta da geladeira é a área exposta ao ar quente ambiente cada vez que é aberta, sofrendo as variações de temperatura mais drásticas. A temperatura instável permite que bactérias psicrotróficas se multipliquem rapidamente, acelerando a deterioração e alterando o sabor.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes da FDA e do MFDS para manter seu leite cremoso, saboroso e fresco. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Leite",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,48 +367,48 @@
         ],
         "cautions": [
           {
-            "title": "Guarde ao fundo da prateleira após abrir",
-            "desc": "A área perto da porta varia muito de temperatura, acelerando as bactérias. Coloque o leite nas prateleiras do meio."
+            "title": "Evite tocar no bocal e beber direto da caixa 🥛",
+            "desc": "Tocar o bocal da embalagem com os dedos ou beber direto da caixa introduz bactérias da boca no leite. Essas bactérias se multiplicam rapidamente mesmo na geladeira; sirva sempre o leite em um copo limpo."
           },
           {
-            "title": "Evite guardar perto de alimentos com cheiro forte",
-            "desc": "O leite absorbe cheiros facilmente devido à gordura. Mantenha longe de alho, cebola ou kimchi."
+            "title": "Descarte imediatamente se coalhar ou soltar cheiro azedo ⚠️",
+            "desc": "Se o leite coalhar formando grumos no fundo da embalagem ou cheirar azedo como iogurte estragado, as bactérias decompuseram a lactose e as proteínas. Ferver não elimina as toxinas; descarte a embalagem inteira imediatamente."
           }
         ],
         "steps": [
           {
-            "name": "Não guarde na porta da geladeira — Armazenamento Refrigerado (7Dias)",
-            "text": "A porta da geladeira sofre constantes oscilações de temperatura a cada abertura. Para conservar o leite, mantenha-o nas prateleiras internas da geladeira, onde a temperatura fica estável a 0-4 °C."
+            "name": "Guarde nas prateleiras internas profundas, não na porta — Refrigeração (7 dias) ❄️",
+            "text": "A porta da geladeira sofre alterações térmicas severas a cada abertura. 💡 Dica de conservação: Para preservar o frescor do leite, guarde-o em uma prateleira interna profunda do compartimento principal, onde a temperatura fica estável entre 0 e 4 °C."
           },
           {
-            "name": "Consuma em até 7 dias após aberto — Limite bactérias 🥛",
-            "text": "Depois de aberto o leite, o contato com o ar introduz bactérias, iniciando a deterioração. Evite tocar no bocal da embalagem e consuma em até 7 dias, independente da data de validade."
+            "name": "Feche o bocal e consuma em até 7 dias após aberto — Previna a proliferação bacteriana 🥛",
+            "text": "Assim que a embalagem é aberta, o contato com o ar introduz oxigênio e microrganismos, iniciando a degradação. 💡 Dica de conservação: Feche bem o bocal após cada uso e consuma o leite em até 7 dias após aberto, independente da data de validade."
           },
           {
-            "name": "Mantenha longe de alimentos com cheiro forte — Evite absorção de odores 🧅",
-            "text": "O leite funciona como uma esponja e absorve facilmente cheiros fortes ao redor. Evite guardar perto de cebola, alho ou restos de comida sem tampa. Mantenha-o sempre fechado e afastado."
+            "name": "Mantenha longe de alimentos com cheiro forte como alho e cebola — Evite absorção de odores 🧅",
+            "text": "A gordura do leite absorve com muita facilidade as moléculas de odor voláteis presentes no ar. 💡 Dica de conservação: Guardar o leite perto de alho, cebola, kimchi ou peixe sem tampa alterará seu sabor cremoso. Mantenha-o sempre fechado e separado."
           }
         ],
         "faqs": [
           {
-            "question": "Can I freeze milk for storage?",
-            "answer": "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+            "question": "Posso congelar o leite para conservação de longo prazo?",
+            "answer": "Não é recomendado congelar o leite. O congelamento separa a água, as gorduras e as proteínas, resultando em uma textura grumosa e perda de sabor ao descongelar. É melhor mantê-lo refrigerado (0-4 °C) e consumir dentro do prazo recomendado."
           },
           {
-            "question": "Can unopened milk be consumed after the expiration date?",
-            "answer": "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
+            "question": "O leite fechado pode ser consumido após a data de validade?",
+            "answer": "Se mantido continuamente fechado e sob refrigeração entre 0 e 5 °C, o leite pode ser consumido com segurança por até 45 dias após a data de validade, desde que não apresente cheiro azedo, alteração de sabor ou grumos."
           }
         ]
       },
       "id": {
         "title": "Cara Menyimpan Susu agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Susu berdasarkan pedoman keselamatan resmi.",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk susu berdasarkan pedoman keselamatan resmi.",
         "authority": "<strong>MFDS & USDA & FDA</strong>",
-        "intro": "Apakah Anda menyimpan kotak susu berjejer di rak pintu kulkas? Pintu kulkas mengalami perubahan suhu langsung setiap kali dibuka, menjadikannya tempat terburuk untuk susu. Hari ini, FreshSnap membagikan panduan penyimpanan susu.",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "intro": "Apakah Anda terbiasa menyimpan kotak susu berjejer di rak pintu kulkas? 🥛\n\nRak pintu kulkas adalah area yang paling sering terpapar udara hangat ruangan setiap kali dibuka, mengalami perubahan suhu yang paling drastis. Suhu yang tidak stabil membuat bakteri tahan dingin berkembang biak dengan cepat, mempercepat pembusukan dan merusak rasanya.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman higienitas FDA dan MFDS untuk menjaga susu Anda tetap lezat, gurih, dan segar. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
           "Susu",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -416,36 +416,36 @@
         ],
         "cautions": [
           {
-            "title": "Simpan di bagian dalam rak setelah dibuka",
-            "desc": "Suhu di dekat pintu kulkas fluktuatif, memicu bakteri berkembang biak cepat. Letakkan susu di rak tengah yang suhunya stabil."
+            "title": "Hindari menyentuh corong tuang dan minum langsung dari kemasan 🥛",
+            "desc": "Menyentuh corong kemasan dengan jari atau minum langsung dari kotak susu memasukkan bakteri mulut ke dalam susu. Bakteri ini berkembang biak dengan cepat bahkan di dalam kulkas, jadi selalu tuangkan susu ke gelas yang bersih."
           },
           {
-            "title": "Hindari menyimpan di dekat makanan berbau tajam",
-            "desc": "Susu sangat mudah menyerap bau di sekitarnya karena kandungan lemaknya. Jauhkan dari bawang putih, bawang bombay, atau kimchi."
+            "title": "Segera buang jika menggumpal atau berbau asam ⚠️",
+            "desc": "Jika susu menggumpal seperti tahu di dasar kemasan atau berbau asam seperti yangkur basi, bakteri telah menguraikan laktosa dan protein. Merebusnya tidak akan menghilangkan toksin, jadi segera buang seluruh isi kemasan."
           }
         ],
         "steps": [
           {
-            "name": "Jangan simpan di rak pintu kulkas — Penyimpanan Dingin (7Hari)",
-            "text": "Rak pintu kulkas mengalami perubahan suhu paling drastis setiap kali dibuka dan ditutup. Agar susu awet, simpan di rak bagian dalam kulkas yang suhunya stabil pada 0–4°C."
+            "name": "Simpan di rak bagian dalam kulkas, bukan di pintu — Simpan Dingin (7 Hari) ❄️",
+            "text": "Rak pintu kulkas mengalami perubahan suhu yang ekstrem setiap kali dibuka. 💡 Tips Penyimpanan: Untuk menjaga kesegaran susu, simpan di rak bagian dalam kompartemen utama yang suhunya stabil pada 0–4°C."
           },
           {
-            "name": "Habiskan dalam 7 hari setelah dibuka — Mencegah bakteri 🥛",
-            "text": "Saat kemasan susu dibuka, udara membawa masuk oksigen dan bakteri, memulai pembusukan. Hindari menyentuh bagian corong tuang dan habiskan susu dalam 7 hari tanpa memedulikan tanggal kedaluwarsa."
+            "name": "Tutup rapat corong dan habiskan dalam 7 hari setelah dibuka — Cegah Perkembangbiakan Bakteri 🥛",
+            "text": "Saat kemasan dibuka, kontak dengan udara memasukkan oksigen dan mikroorganisme, memulai proses penurunan kualitas. 💡 Tips Penyimpanan: Tutup rapat corong tuang setelah digunakan dan habiskan dalam 7 hari setelah dibuka, terlepas dari tanggal kedaluwarsa."
           },
           {
-            "name": "Jauhkan dari makanan berbau menyengat — Menghindari penyerapan bau 🧅",
-            "text": "Susu bekerja seperti spons dan mudah menyerap bau menyengat di sekitarnya. Jika ditaruh dekat bawang merah, bawang putih, atau sisa makanan yang tidak ditutup, rasa susu akan berubah. Selalu tutup rapat."
+            "name": "Jauhkan dari makanan berbau menyengat seperti bawang putih dan bawang bombai — Mencegah Penyerapan Bau 🧅",
+            "text": "Lemak susu sangat mudah menyerap molekul bau volatil yang melayang di udara kulkas seperti spons. 💡 Tips Penyimpanan: Menyimpan susu di dekat bawang putih, bawang bombai, kimchi, atau ikan yang tidak ditutup rapat akan merusak cita rasanya. Selalu tutup rapat dan simpan terpisah."
           }
         ],
         "faqs": [
           {
-            "question": "Can I freeze milk for storage?",
-            "answer": "Freezing milk separates fat and protein, causing clumps and loss of flavor upon thawing. It is best kept refrigerated and consumed within its date."
+            "question": "Bisakah saya membekukan susu di freezer untuk penyimpanan jangka panjang?",
+            "answer": "Membekukan susu tidak disarankan. Pembekuan menyebabkan air, lemak, dan protein terpisah, menghasilkan tekstur bergumpal dan kehilangan rasa saat dicairkan. Sebaiknya simpan susu di dalam kulkas (0–4°C) dan konsumsi sesuai jangka waktu yang disarankan."
           },
           {
-            "question": "Can unopened milk be consumed after the expiration date?",
-            "answer": "If kept unopened and refrigerated at 0-5°C (32-41°F), it remains safe to consume for up to 45 days after the expiration date, provided there are no off-odors or taste changes."
+            "question": "Apakah susu yang belum dibuka masih bisa dikonsumsi setelah tanggal kedaluwarsa?",
+            "answer": "Jika disimpan belum dibuka dan secara terus-menerus didinginkan pada suhu 0–5°C, susu tetap aman dikonsumsi hingga 45 hari setelah tanggal kedaluwarsa, selama tidak ada bau asam, perubahan rasa, atau gumpalan."
           }
         ]
       }

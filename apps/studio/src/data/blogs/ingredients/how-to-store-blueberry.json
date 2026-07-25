@@ -11,10 +11,10 @@
       "ko": {
         "title": "블루베리 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 블루베리의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>USDA & RDA</strong>",
-        "intro": "블루베리를 냉장고에 보관해 두었다가 금세 껍질에 먼지 같은 곰팡이가 슬어 버린 적 있으시죠? 오늘 FreshSnap에서는 미국 농무부(USDA)와 미국 식품의약국(FDA)의 규격을 기반으로, 블루베리 고유의 천연 보호막을 살려 10일 이상 안전하고 신선하게 보관하는 원리를 전합니다.",
+        "authority": "<strong>미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)</strong>",
+        "intro": "블루베리를 큰 마음 먹고 사 와서 냉장고에 보관해 두었다가 금세 껍질이 무르고 솜털 같은 곰팡이가 슬어 버린 적 있으시죠? 🫐\n\n블루베리는 과피가 매우 얇고 수분에 취약한 소과류 과일로, 습도 관리가 조금만 소홀해도 잿빛곰팡이균(Botrytis)이 급격히 번식하기 쉽습니다. 특히 씻는 시점과 표면의 천연 보호막(블룸)을 어떻게 보존하느냐가 신선도의 핵심 열쇠입니다.\n\n오늘 FreshSnap에서는 미국 농무부(USDA)와 농촌진흥청(RDA)의 과학적 가이드라인에 기반하여, 블루베리의 탱탱함과 영양을 10일 이상 안전하게 유지해 주는 3단계 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "Do not wash before storage 🫐",
-            "desc": "Washing removes the natural protective coating (bloom) and introduces moisture, leading to quick spoilage."
+            "title": "보관 전에는 절대 물로 씻지 마세요 🫐",
+            "desc": "블루베리 표면의 하얀 가루는 천연 왁스 보호막(과분, Bloom)입니다. 수분 증발을 막고 균 침입을 차단하는 보호층이므로, 보관 전 세척하면 이 보호막이 손상되고 물기가 갇혀 곰팡이와 세균이 폭발적으로 번식합니다. 세척은 반드시 섭취 직전에 하세요."
           },
           {
-            "title": "Sort out damaged berries ⚠️",
-            "desc": "Mold spreads rapidly between berries. A single moldy blueberry can ruin the entire container."
+            "title": "상처 나거나 곰팡이 핀 알갱이는 즉시 선별하여 격리하세요 ⚠️",
+            "desc": "블루베리의 잿빛곰팡이 포자는 접촉을 통해 순식간에 주변으로 번집니다. 용기 안에 곰팡이가 피거나 터진 블루베리가 하나만 섞여 있어도 수일 내에 전체 용기의 블루베리가 부패하므로, 구매 직후 반드시 선별하여 물러진 알갱이는 제거해야 합니다."
           }
         ],
         "steps": [
           {
-            "name": "먹기 직전까지 세척 금지 — 천연 보호막 보존 🫐",
-            "text": "블루베리 표면의 하얀 가루는 수분 소실을 방지하고 곰팡이 균을 막아주는 천연 왁스막(Bloom)입니다. 미리 물로 씻으면 이 보호층이 씻겨 나가 삼투압 현상으로 블루베리가 수분을 흡수해 쉽게 무르고 곰팡이가 피어 버립니다."
+            "name": "먹기 직전까지 세척 금지 — 천연 보호막(블룸) 보존 🫐",
+            "text": "블루베리 표면을 덮고 있는 하얀 가루는 과실 스스로 만들어낸 천연 왁스층인 '블룸(Bloom)'입니다. 수분 소실을 막아주고 외부 병해충이나 곰팡이균의 침입을 방지하는 핵심 보호막입니다. 💡 보관 팁: 보관 전에 물로 씻으면 블룸이 사라지고 물기가 과육 삼투압에 영향을 주어 급격히 무르게 됩니다. 물을 묻히지 않은 상태 그대로 보관하는 것이 신선도 유자의 첫걸음입니다."
           },
           {
-            "name": "밀폐용기 바닥에 키친타월 깔고 얇게 펴 담기 — 수분 통제 📰",
-            "text": "용기 바닥에 키친타월을 충분히 깔아준 뒤, 블루베리를 겹치지 않게 얇게 펼쳐 올립니다. 아래에 깔린 키친타월이 미세한 습기와 결로를 흡수하여 바닥 쪽 과육이 짓눌리거나 수분에 닿아 썩는 것을 예방합니다."
+            "name": "용기 바닥에 키친타월을 깔고 얇게 펴 담기 — 수분 및 결로 통제 📰",
+            "text": "블루베리가 겹겹이 쌓이면 자체 무게로 인해 아랫부분의 알갱이가 눌리고 무르기 쉽습니다. 💡 보관 팁: 넙적한 밀폐 용기 바닥에 키친타월을 2~3겹 깔아준 뒤, 블루베리를 한두 층으로 얇게 펼쳐 담으세요. 키친타월이 미세한 결로나 습기를 지속적으로 흡수하여 하단 과육이 짓눌리거나 수분에 잠겨 썩는 것을 완벽히 예방해 줍니다."
           },
           {
-            "name": "밀폐하지 않고 냉장고 신선실 보관 — 냉장 보관 (10일) ❄️",
-            "text": "뚜껑에 숨구멍이 있는 전용 용기나 뚜껑을 완전히 닫지 않은 밀폐 용기에 담아 냉장고 신선실(0~2℃)에 보관합니다. 블루베리는 저온에 매우 강하므로, 결로를 방지하기 위해 온도가 일정한 냉장고 가장 깊은 곳이 적합합니다."
+            "name": "밀봉하지 않고 통풍 가능하게 냉장 보관하기 — 냉장 보관 (10일) ❄️",
+            "text": "블루베리는 밀폐 용기에 꽉 닫아두면 과실 호흡으로 생성된 이산화탄소와 습기가 내부에 갇혀 썩기 쉽습니다. 💡 보관 팁: 숨구멍이 있는 전용 팩을 사용하거나, 일반 용기일 경우 뚜껑을 살짝 열어 통풍이 되도록 한 뒤 냉장고 신선실(0~2℃)에 보관하세요. 결로 현상을 줄이고 최적의 아삭한 식감을 10일 이상 유지할 수 있습니다."
           }
         ],
         "faqs": [
           {
-            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
-            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+            "question": "블루베리 표면의 하얀 가루는 농약인가요? 씻어내야 하나요?",
+            "answer": "아닙니다. 하얀 가루는 블루베리가 스스로를 보호하기 위해 분비하는 천연 식물성 왁스 성분인 '블룸(Bloom)'입니다. 농약이 아니며, 블룸이 고르게 많이 깔려 있을수록 신선하고 당도가 높은 좋은 블루베리입니다. 섭취 직전 흐르는 물에 가볍게 헹궈 드시면 됩니다."
           },
           {
-            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
-            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+            "question": "블루베리를 장기 보관하기 위해 냉동 보관해도 되나요?",
+            "answer": "네, 블루베리는 냉동 보관에 매우 적합한 과일입니다. 씻지 않은 블루베리를 선별하여 수분을 완전히 제거한 후 냉동용 지퍼백에 겹치지 않게 담아 냉동(-18℃ 이하)하면 1년까지 보관이 가능합니다. 특히 냉동 시 안토시아닌 항산화 성분의 농도가 높아져 영양학적으로도 우수합니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Blueberry Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Blueberry based on official safety guidelines.",
-        "authority": "<strong>USDA & RDA</strong>",
-        "intro": "Have you ever bought fresh blueberries only to find them turn soft and moldy in a few days? Today, FreshSnap shares scientific storage tips to keep blueberries plump and mold-free.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "title": "How to Keep Blueberries Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for blueberries based on official safety guidelines.",
+        "authority": "<strong>USDA & RDA & MFDS</strong>",
+        "intro": "Have you ever bought fresh blueberries with high hopes, only to store them in the fridge and find them soft, squishy, and covered in fuzzy mold within days? 🫐\n\nBlueberries have very thin skins and are extremely sensitive to humidity. Even a minor lapse in moisture control allows gray mold fungus (Botrytis) to spread rapidly. The key to maintaining freshness lies in when you wash them and how well you preserve their natural protective layer (bloom).\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to keep your blueberries plump, nutrient-rich, and mold-free for over 10 days. 🛡️",
+        "whyTitle": "Why Store Blueberries This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Blueberry",
           "Scientifically Proven Storage Guide",
@@ -73,48 +73,48 @@
         ],
         "cautions": [
           {
-            "title": "Do not wash before storage 🫐",
-            "desc": "Washing removes the natural protective coating (bloom) and introduces moisture, leading to quick spoilage."
+            "title": "Never wash before storage 🫐",
+            "desc": "The white powdery coating on blueberry skin is a natural wax shield called 'Bloom'. It prevents moisture loss and blocks fungal spore intrusion. Washing blueberries before storage destroys this protective layer and traps moisture, triggering explosive mold and bacterial growth. Wash them only right before eating."
           },
           {
-            "title": "Sort out damaged berries ⚠️",
-            "desc": "Mold spreads rapidly between berries. A single moldy blueberry can ruin the entire container."
+            "title": "Sort and isolate damaged or moldy berries immediately ⚠️",
+            "desc": "Fungal spores on blueberries spread instantly to neighboring berries through physical contact. Even a single squishy or moldy blueberry can ruin the entire container within days. Always sort through your berries right after purchase and remove any damaged ones."
           }
         ],
         "steps": [
           {
-            "name": "Do not wash before storage — Protect the bloom 🫐",
-            "text": "The white powder on blueberry skins is a natural wax layer called 'Bloom' that blocks mold and moisture loss. Washing them early strips this layer, causing berries to absorb water, soften, and mold quickly."
+            "name": "Do not wash until right before consumption — Preserve Natural Bloom 🫐",
+            "text": "The white powder coating blueberries is 'Bloom', a natural epicuticular wax produced by the fruit itself. It serves as a vital shield preventing water loss and blocking external pests and fungal pathogens. 💡 Storage Tip: Washing berries prior to storage strips away the bloom and causes moisture to alter osmotic pressure, making them soft rapidly. Keeping them dry is the first rule of freshness."
           },
           {
-            "name": "Line container with paper towels and spread flat — Moisture control 📰",
-            "text": "Line the bottom of a wide container with paper towels and place the berries in a thin layer. The towel absorbs condensation, preventing berries from getting crushed or rotting from sitting in water."
+            "name": "Line container bottom with paper towels and layer flat — Moisture Control 📰",
+            "text": "When blueberries are stacked deeply, the weight of the upper berries crushes the lower ones, causing them to burst and rot. 💡 Storage Tip: Line the bottom of a wide container with 2–3 layers of paper towels and spread blueberries in a single thin layer. The paper towels absorb fine condensation and moisture, preventing bottom berries from decaying."
           },
           {
-            "name": "Store unsealed in the crisper drawer — Refrigeration (10 Days) ❄️",
-            "text": "Keep them in a ventilated container or leave the lid slightly ajar. Put them in the crisper drawer (0-2°C). Blueberries are cold-hardy; keeping them in the coldest back section prevents condensation."
+            "name": "Refrigerate with ventilation without airtight sealing — Cold Storage (10 Days) ❄️",
+            "text": "Sealing blueberries tightly in an airtight container traps carbon dioxide and moisture generated by fruit respiration, causing them to rot quickly. 💡 Storage Tip: Use a ventilated container with breathing holes or leave container lids slightly open in the crisper drawer (0–2°C). This reduces condensation and preserves optimal firm texture for over 10 days."
           }
         ],
         "faqs": [
           {
-            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
-            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+            "question": "Is the white powder on blueberries pesticide residue? Should I scrub it off?",
+            "answer": "No, it is not pesticide residue. The white coating is 'Bloom', a natural plant wax secreted by the fruit to protect itself from drying and disease. A prominent, even layer of bloom indicates fresh, high-sugar blueberries. Simply rinse them lightly under cold water just before eating."
           },
           {
-            "question": "How should I handle and store bruised or damaged parts?",
-            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+            "question": "Can I freeze blueberries for long-term storage?",
+            "answer": "Yes, blueberries freeze exceptionally well. Sort unwashed, completely dry blueberries, place them in a single layer inside a freezer ziploc bag, and freeze below -18°C for up to 1 year. Freezing actually preserves and concentrates anthocyanin antioxidants, making frozen blueberries highly nutritious."
           }
         ]
       },
       "ja": {
-        "title": "ブルーベリーの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくブルーベリーの最適な保存温度、保管方法、保存期間について解説します。",
-        "authority": "<strong>米国農務省(USDA) & 農村振興庁(RDA)</strong>",
-        "intro": "新鮮なブルーベリーを買ってきたのに、数日で柔らかくなったりカビが生えたりしてしまったことはありませんか？本日, FreshSnapではブルーベリーの張りを保ち、カビを防ぐ保存方法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "title": "ブルーベリーを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくブルーベリーの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "<strong>米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)</strong>",
+        "intro": "せっかく買ってきた新鮮なブルーベリーを冷蔵庫に入れておいたら、数日で皮が柔らかくなり、綿のようなカビが生えてしまった経験はありませんか？🫐\n\nブルーベリーは皮が非常に薄く湿気に弱い小果樹類で、湿度管理を少しでも怠ると灰色カビ病菌（Botrytis）が急激に繁殖してしまいます。特に洗うタイミングと表面の天然保護膜（ブルーム）をいかに維持するかが鮮度キープの鍵となります。\n\n本日FreshSnapでは、米国農務省（USDA）と農村振興庁（RDA）の科学的ガイドラインに基づき、ブルーベリーの張りと栄養を10日以上 safe に保つ3段階の保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
+        "cautionTitle": "保存時の必須ルールと注意事項",
         "tags": [
           "ブルーベリー",
           "科学的に検証された保存ガイド",
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "保存前に洗わないでください 🫐",
-            "desc": "水洗いすると表面の白い天然保護膜（ブルーム）が落ちてしまい、水分を吸収して傷みやすくなります。"
+            "title": "保存前には絶対に水洗いしないでください 🫐",
+            "desc": "ブルーベリーの表面にある白い粉は天然のワックス保護膜（ブルーム）です。水分蒸発を防ぎ菌の侵入を遮断する保護層であるため、保存前に洗うと保護膜が落ち、水気がこもってカビや雑菌が爆発的に繁殖します。洗うのは必ず食べる直前にしてください。"
           },
           {
-            "title": "傷んだ実を取り除いてください ⚠️",
-            "desc": "ブルーベリーはカビが移りやすい果物です。1つでもカビが生えた実があると、パック全体へ一気に広がってしまいます。"
+            "title": "傷んだ実やカビが生えた実の隔離は即座に行ってください ⚠️",
+            "desc": "ブルーベリーの灰色カビ胞子は接触によって一瞬で周囲に広がります。容器の中にカビが生えたりつぶれた果実が1つでも混ざっていると数日で全体が腐敗するため、購入直後に必ず選別して傷んだ実は取り除いてください。"
           }
         ],
         "steps": [
           {
-            "name": "食べる直前まで洗わない —  ブルームの維持 🫐",
-            "text": "ブルーベリーの表面にある白い粉は、乾燥やカビを防ぐ天然の保護膜（ブルーム）です。先に水洗いすると保護層が落ち、水分を吸って傷みやすくなります。"
+            "name": "食べる直前まで洗わない — 天然保護膜（ブルーム）の維持 🫐",
+            "text": "ブルーベリーの表面を覆う白い粉は、果実自ら作り出した天然のワックス層である「ブルーム（Bloom）」です。水分損失を防ぎ外部の病害虫やカビ菌の侵入を防ぐ重要な保護膜です。💡保存のコツ：保存前に水で洗うとブルームが消え、水分が果肉浸透圧に影響を与えて急激に柔らかくなります。水気をつけないまま保存することが鮮度維持の第一歩です。"
           },
           {
-            "name": "容器の底にペーパーを敷き, 重ならないように入れる — 水分管理 📰",
-            "text": "平らな容器の底にキッチンペーパーを敷き、その上に重ならないよう広げます。ペーパーが余分な結露を吸い取り, 下の実が重みで潰れたり水気で腐るのを防ぎます."
+            "name": "容器の底にペーパータオルを敷き薄く広げて入れる — 水分と結露のコントロール 📰",
+            "text": "ブルーベリーが重なり合って入っていると、自重によって下の実がつぶれて傷みやすくなります。💡保存のコツ：平らな密閉容器の底にキッチンペーパーを2〜3重に敷き、ブルーベリーを1〜2層に薄く広げて入れてください。ペーパーが微細な結露や湿気を吸収し、下の果肉がつぶれたり水に浸かって腐るのを完全に防ぎます。"
           },
           {
-            "name": "密閉せずに冷蔵庫の低温エリアに置く —  冷蔵保存 (10日間) ❄️",
-            "text": "通気穴のある容器か、フタを少しずらした密閉容器に入れ、野菜室（0〜2℃）に入れます。ブルーベリーは寒さに強いため, 結露を防ぐために温度変化の少ない奥の方に置くのが適しています."
+            "name": "密閉せず通気性を保って冷蔵保存する — 冷蔵保存 (10日間) ❄️",
+            "text": "ブルーベリーを密閉容器にきつく閉じ込めると、果実の呼吸によって発生した二酸化炭素と湿気が内部にこもって腐りやすくなります。💡保存のコツ：通気穴のある専用パックを使用するか、通常の容器の場合はフタを少しずらして通気性を確保し、冷蔵庫のチルド室や野菜室（0〜2℃）で保存してください。結露を減らし、最高の食感を10日以上維持できます。"
           }
         ],
         "faqs": [
           {
-            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
-            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+            "question": "ブルーベリー表面の白い粉は農薬ですか？洗い流すべきですか？",
+            "answer": "いいえ、農薬ではありません。白い粉はブルーベリーが身を守るために分泌する天然の植物性ワックス成分「ブルーム（Bloom）」です。ブルームがまんべんなく付いているものほど新鮮で甘みが強い良いブルーベリーです。食べる直前に流れる水で軽くすすいでお召し上がりください。"
           },
           {
-            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
-            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+            "question": "ブルーベリーを長期保存するために frozen 保存してもいいですか？",
+            "answer": "はい、ブルーベリーは冷凍保存に非常に適した果物です。洗っていないブルーベリーを選別して水分を完全に拭き取り、冷凍用ジッパーバッグに重ならないよう入れて冷凍（-18℃以下）すれば最大1年間保存可能です。冷凍することでアンソシアニンなどの抗酸化成分の濃縮度が高まり、栄養的にも優れています。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存蓝莓：科学储存指南",
+        "title": "如何保持蓝莓新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解蓝莓的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>美国农务部(USDA) & 韩国农村振兴厅(RDA)</strong>",
-        "intro": "您是否曾买回新鲜的蓝莓，却发现它们在几天内变软发霉？今天，FreshSnap为您分享保持蓝莓圆润饱满且不发霉的科学储存方法。",
+        "authority": "<strong>美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)</strong>",
+        "intro": "您是否曾兴冲冲买回新鲜蓝莓放入冰箱，却在几天内发现果皮变软，甚至长出了白毛状的霉菌？🫐\n\n蓝莓果皮极薄且对水分高度敏感，如果湿度控制稍有不当，灰霉病菌（Botrytis）就会迅速蔓延。何时清洗以及如何保护其表面的天然保护膜（果粉），是决定蓝莓保鲜期的核心关键。\n\n今天FreshSnap基于美国农务部(USDA)和韩国农村振兴厅(RDA)的科学指南，为您带来3步保鲜秘诀，帮您安全保持蓝莓饱满口感与营养达10天以上。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "蓝莓",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "储存前切勿清洗 🫐",
-            "desc": "清洗会洗掉蓝莓表面天然的白色保护膜（果粉），并且残留的水分会加速果实腐烂。"
+            "title": "储存前切勿用水清洗 🫐",
+            "desc": "蓝莓表面的白霜是天然植物蜡保护膜（果粉，Bloom）。它是防止水分蒸发和抵御病菌入侵的保护层。储存前清洗会破坏这层保护膜，且残留水分会导致霉菌和细菌爆发性滋生。请务必在食用前才进行清洗。"
           },
           {
-            "title": "挑出受损的蓝莓 ⚠️",
-            "desc": "蓝莓之间的霉菌传播速度极快。哪怕只有一颗发霉的蓝莓，也会迅速毁掉整盒蓝莓。"
+            "title": "请立即挑出受损或发霉的蓝莓 ⚠️",
+            "desc": "蓝莓表面的灰霉病孢子会通过接触迅速传播。只要盒子里混入一颗破损或发霉的蓝莓，几天内就会毁掉整盒。购买后请务必立即筛选，剔除变软受损的果实。"
           }
         ],
         "steps": [
           {
-            "name": "食用前切勿清洗 — 保护天然果粉 🫐",
-            "text": "蓝莓表面的白霜是天然保护膜，不要提前清洗。"
+            "name": "食用前切勿清洗 — 保护天然果粉(Bloom) 🫐",
+            "text": "蓝莓表面覆盖的白霜是果实自身分泌的天然蜡质层“果粉（Bloom）”。它是防止水分流失、阻挡外部病虫害和霉菌入侵的核心屏障。💡储存小贴士：储存前洗水会导致果粉流失，水分渗透会使果肉迅速变软。保持干燥状态是延长保鲜期的第一步。"
           },
           {
-            "name": "保鲜盒底铺设纸巾并单层摊平 —  控制湿度 📰",
-            "text": "在容器底部铺纸巾，并平铺蓝莓。"
+            "name": "保鲜盒底部铺设纸巾并单层摊平 — 控制水分与结露 📰",
+            "text": "如果蓝莓堆叠过厚，上层蓝莓的重量会挤压下层，导致底部的蓝莓破裂变质。💡储存小贴士：在扁平保鲜盒底部铺上2~3层厨房纸巾，将蓝莓单层或双层平铺放置。纸巾能持续吸收微小结露与湿气，完美防止底部果肉因挤压或浸水而腐烂。"
           },
           {
-            "name": "请勿密封，存放于冷藏室深处 —  冷藏保存 (10天) ❄️",
-            "text": "存放在冷藏室深处以防受潮。"
+            "name": "请勿完全密封，保持通风冷藏 — 冷藏保存 (10天) ❄️",
+            "text": "将蓝莓紧密密封在保鲜盒中，果实呼吸产生的二氧化碳和湿气会被困在内部，加速腐烂。💡储存小贴士：使用带透气孔的专用果盒，或将普通保鲜盒盖留出缝隙，放在冰箱冷藏保鲜室（0~2℃）中。这样能减少结露，保持最佳爽脆口感达10天以上。"
           }
         ],
         "faqs": [
           {
-            "question": "把食材放进冰箱前一定要用水洗吗？",
-            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+            "question": "蓝莓表面的白霜是农药残留吗？需要洗掉吗？",
+            "answer": "不是农药。白霜是蓝莓为了保护自身而分泌的天然植物蜡成分“果粉（Bloom）”。果粉分布越均匀丰富，代表蓝莓越新鲜、甜度越高。吃之前用流动水轻柔冲洗即可，无需刻意搓洗。"
           },
           {
-            "question": "碰伤或腐烂的部分应该如何处理和保存？",
-            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+            "question": "蓝莓可以冷冻长期保存吗？",
+            "answer": "完全可以。蓝莓非常适合冷冻保存。将未清洗、彻底干燥的蓝莓挑拣后，单层平铺放入冷冻拉链袋中，在-18℃以下冷冻，可保存长达1年。冷冻后花青素等抗氧化成分的浓度反而会提高，营养价值极高。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Arándano fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Arándano según las directrices oficiales de seguridad.",
-        "authority": "<strong>USDA & RDA</strong>",
-        "intro": "¿Alguna vez compró arándanos frescos y descubrió que se ablandaron y enmohecieron en pocos días? Hoy, FreshSnap comparte consejos de almacenamiento para mantenerlos firmes y libres de moho.",
-        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "title": "Cómo mantener los arándanos frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los arándanos según las directrices oficiales de seguridad.",
+        "authority": "<strong>USDA & RDA & MFDS</strong>",
+        "intro": "¿Alguna vez compró arándanos frescos con ilusión, solo para ver cómo en pocos días en el refrigerador se ablandaban y se cubrían de moho blanco? 🫐\n\nLos arándanos tienen una piel sumamente delgada y son muy sensibles a la humedad. Cualquier falla en el control de la humedad permite que el hongo del moho gris (Botrytis) se propague rápidamente. La clave para mantener la frescura radica en cuándo lavarlos y en cómo conservar su capa protectora natural (pruina).\n\nHoy, FreshSnap comparte una guía de conservación en 3 pasos respaldada por el USDA y la RDA para mantener sus arándanos firmes, nutritivos y libres de moho por más de 10 días. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Arándano",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "No lave los arándanos antes de almacenarlos 🫐",
-            "desc": "Lavar los arándanos elimina la capa protectora natural (bloom) y aporta humedad, acelerando su deterioro."
+            "title": "Nunca los lave antes de almacenarlos 🫐",
+            "desc": "El polvillo blanco en la superficie del arándano es una capa protectora de cera natural llamada 'Pruina' (Bloom). Previene la pérdida de humedad y bloquea los hongos. Lavar los arándanos antes de guardarlos destruye esta capa y atrapa humedad, provocando un crecimiento bacteriano y de moho acelerado. Lávelos justo antes de comer."
           },
           {
-            "title": "Deseche los arándanos dañados ⚠️",
-            "desc": "El moho se extiende rápidamente entre los arándanos. Un solo arándano enmohecido puede arruinar todo el contenedor."
+            "title": "Separe e aísle los arándanos dañados o enmohecidos de inmediato ⚠️",
+            "desc": "Las esporas de moho en los arándanos se contagian al instante por contacto directo. Un solo arándano aplastado o con moho puede arruinar todo el recipiente en un par de días. Seleccione sus arándanos inmediatamente después de comprarlos y retire los frutos dañados."
           }
         ],
         "steps": [
           {
-            "name": "No lavar antes de guardar 🫐",
-            "text": "La capa blanca (bloom) en la superficie de los arándanos los protege del moho. Lávelos solo antes de comer."
+            "name": "No lavar hasta justo antes de consumir — Conserve la pruina natural 🫐",
+            "text": "La capa blanca que cubre los arándanos es la 'Pruina' (Bloom), una cera natural producida por la propia fruta. Funciona como un escudo vital contra la pérdida de agua, plagas y moho. 💡 Consejo de almacenamiento: Lavar los frutos antes de guardarlos elimina la pruina y altera la presión osmótica de la pulpa, ablandándolos rápido. Mantenerlos secos es la regla de oro."
           },
           {
-            "name": "Forrar el recipiente con papel y esparcir 📰",
-            "text": "Coloque papel de cocina en el fondo de un recipiente y distribuya los arándanos en una sola capa."
+            "name": "Forre el fondo del recipiente con toallas de papel y esparza — Control de humedad 📰",
+            "text": "Cuando los arándanos se apilan demasiado, el peso superior aplasta las frutas del fondo, haciendo que se rompan y se pudran. 💡 Consejo de almacenamiento: Coloque 2 o 3 capas de toallas de papel en el fondo de un recipiente amplio y distribuya los arándanos en una sola capa fina. El papel absorberá la condensación, evitando que la fruta se pudra."
           },
           {
-            "name": "Almacenar sin sellar ❄️",
-            "text": "Guárdelos en un recipiente ventilado en la zona fría (0-2°C) del refrigerador."
+            "name": "Refrigere con ventilación sin sellar herméticamente — Conservación (10 días) ❄️",
+            "text": "Sellar los arándanos en un contenedor hermético atrapa el dióxido de carbono y la humedad liberados por la respiración del fruto, acelerando su descomposición. 💡 Consejo de almacenamiento: Use un contenedor con orificios de ventilación o deje la tapa ligeramente abierta en el cajón de verduras (0-2 °C). Esto reduce la condensación y mantiene una textura firme por más de 10 días."
           }
         ],
         "faqs": [
           {
-            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
-            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+            "question": "¿El polvo blanco sobre los arándanos es residuo de pesticida? ¿Debo lavarlo?",
+            "answer": "No es pesticida. El polvillo blanco es 'Pruina' (Bloom), una cera vegetal natural secretada por la fruta para protegerse de la deshidratación. Una capa uniforme de pruina indica que el arándano está muy fresco y dulce. Solo enjuáguelos suavemente con agua fría justo antes de comer."
           },
           {
-            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
-            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+            "question": "¿Puedo congelar arándanos para conservarlos a largo plazo?",
+            "answer": "Sí, los arándanos se congelan de manera excelente. Seleccione arándanos secos y sin lavar, colóquelos en una sola capa dentro de una bolsa Ziploc para congelador y manténgalos a -18 °C hasta por 1 año. El congelamiento concentra los antioxidantes como las antocianinas, conservando un alto valor nutricional."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Myrtille frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Myrtille selon les directives de sécurité officielles.",
-        "authority": "<strong>USDA & RDA</strong>",
-        "intro": "Avez-vous déjà acheté des myrtilles fraîches pour les voir ramollir et moisir en quelques jours ? Aujourd'hui, FreshSnap vous donne des astuces pour les garder fermes et sans moisissure.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "title": "Comment conserver les myrtilles fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les myrtilles selon les directives officielles de sécurité.",
+        "authority": "<strong>USDA & RDA & MFDS</strong>",
+        "intro": "Avez-vous déjà acheté de belles myrtilles fraîches pour constater qu'après quelques jours au réfrigérateur, elles devenaient molles et se couvraient de moisissure blanchatre ? 🫐\n\nLa myrtille a une peau très fine et se montre extrêmement sensible à l'humidité. La moindre faille dans le contrôle de l'eau permet au champignon de la moisissure grise (Botrytis) de se développer. La clé de la fraîcheur réside dans le moment du lavage et la préservation de sa couche protectrice naturelle (pruine).\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour garder vos myrtilles fermes, nutritives et sans moisissure pendant plus de 10 jours. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Myrtille",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Ne lavez pas les myrtilles avant de les stocker 🫐",
-            "desc": "Laver les myrtilles élimine leur couche protectrice naturelle (pruine) et apporte de l'humidité, ce qui accélère leur décomposition."
+            "title": "Ne les lavez jamais avant le stockage 🫐",
+            "desc": "La pellicule blanche à la surface de la myrtille est une couche de cire naturelle appelée 'Pruine' (Bloom). Elle empêche l'évaporation de l'eau et bloque les champignons. Laver les myrtilles avant de les ranger détruit ce bouclier et piège l'humidité, provoquant une moisissure rapide. Lavez-les uniquement juste avant de les consommer."
           },
           {
-            "title": "Triez les baies abîmées ⚠️",
-            "desc": "La moisissure se propage rapidement d'une baie à l'autre. Une seule myrtille moisie peut gâcher tout le paquet."
+            "title": "Triez et isolez immédiatement les baies abîmées ou moisies ⚠️",
+            "desc": "Les spores de moisissure sur les myrtilles se propagent instantanément par contact direct. Une seule myrtille écrasée ou moisie peut gâter tout le barquette en deux jours. Triez toujours vos fruits dès l'achat et retirez les baies endommagées."
           }
         ],
         "steps": [
           {
-            "name": "Ne pas laver avant stockage 🫐",
-            "text": "La couche blanche (pruine) à la surface des myrtilles les protège de la moisissure. Lavez-les juste avant de les manger."
+            "name": "Ne pas laver avant le moment de consommer — Préserver la pruine naturelle 🫐",
+            "text": "La poudre blanche qui recouvre les myrtilles est la 'Pruine' (Bloom), une cire naturelle sécrétée par le fruit. Elle constitue un rempart essentiel contre la déshydratation, les insectes et les moisissures. 💡 Astuce de conservation : Laver les fruits avant le stockage enlève la pruine et modifie la pression osmotique de la chair, les ramollissant vite. Les garder sec est la règle numéro un."
           },
           {
-            "name": "Tapisser le récipient de papier et étaler 📰",
-            "text": "Tapissez le fond d'un récipient de papier absorbant et étalez les myrtilles en une seule couche."
+            "name": "Tapisser le fond du récipient d'essuie-tout et étaler — Contrôle de l'humidité 📰",
+            "text": "Lorsque les myrtilles sont empilées, le poids des baies supérieures écrase celles du dessous, les faisant éclater et pourrir. 💡 Astuce de conservation : Placez 2 à 3 épaisseurs de papier essuie-tout au fond d'une boîte large et étalez les myrtilles en une seule couche. Le papier absorbe la condensation, évitant l'altération des fruits."
           },
           {
-            "name": "Stocker sans sceller ❄️",
-            "text": "Conservez-les dans un récipient aéré dans la zone froide (0-2°C) du réfrigérateur."
+            "name": "Réfrigérer avec aération sans sceller hermétiquement — Stockage (10 jours) ❄️",
+            "text": "Fermer hermétiquement les myrtilles piège le dioxyde de carbone et l'humidité dégagés par la respiration du fruit, ce qui accélère le pourrissement. 💡 Astuce de conservation : Utilisez une boîte aérée ou laissez le couvercle entrouvert dans le bac à légumes (0-2 °C). Cela réduit la condensation et préserve la fermeté pendant plus de 10 jours."
           }
         ],
         "faqs": [
           {
-            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
-            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+            "question": "La poudre blanche sur les myrtilles est-elle un reste de pesticide ? Faut-il la frotter ?",
+            "answer": "Non, ce n'est pas du pesticide. Ce voile blanc est la 'Pruine' (Bloom), une cire végétale naturelle produite par le fruit pour se protéger du dessèchement. Une pruine bien visible garantit des myrtilles fraîches et sucrées. Il suffit de les rincer doucement à l'eau froide juste avant de dégustation."
           },
           {
-            "question": "Comment gérer et conserver les parties abîmées ?",
-            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+            "question": "Puis-je congeler les myrtilles pour une conservation à long terme ?",
+            "answer": "Oui, les myrtilles se congelent très bien. Triez des myrtilles non lavées et bien sèches, étalez-les dans un sac congélation Ziploc et placez-les à -18 °C jusqu'à 1 an. La congélation préserve et concentre les antioxydants comme les anthocyanes, conservant toute leur valeur nutritive."
           }
         ]
       },
       "de": {
-        "title": "Wie man Blaubeere frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Blaubeere basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>USDA & RDA</strong>",
-        "intro": "Haben Sie schon einmal frische Blaubeeren gekauft, nur um festzustellen, dass sie nach wenigen Tagen weich und schimmelig wurden? Heute teilt FreshSnap Tipps, um sie prall und schimmelfrei zu halten.",
+        "title": "Blaubeeren richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Blaubeeren basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>USDA & RDA & MFDS</strong>",
+        "intro": "Haben Sie schon einmal frische Blaubeeren gekauft, nur um nach wenigen Tagen im Kühlschrank festzustellen, dass sie weich wurden und sich Schimmel bildete? 🫐\n\nBlaubeeren besitzen eine sehr dünne Schale und reagieren extrem empfindlich auf Feuchtigkeit. Bei mangelnder Feuchtigkeitskontrolle breitet sich Grauschimmel (Botrytis) rasch aus. Der Schlüssel zur Frische liegt darin, wann Sie sie waschen und wie gut die natürliche Schutzschicht (Pruina) erhalten bleibt.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um Ihre Blaubeeren über 10 Tage lang prall, nährstoffreich und schimmelfrei zu halten. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Blaubeere",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Blaubeeren vor dem Lagern nicht waschen 🫐",
-            "desc": "Waschen entfernt die natürliche Schutzschicht (Pruina) und bringt Feuchtigkeit ein, was zum schnellen Verderb führt."
+            "title": "Niemals vor der Lagerung waschen 🫐",
+            "desc": "Der weiße Belag auf der Blaubeerschale ist eine natürliche Wachsschutzschicht namens 'Pruina' (Bloom). Sie verhindert Feuchtigkeitsverlust und blockiert Schimmelpilze. Das Waschen vor der Lagerung zerstört diese Schutzschicht und schließt Feuchtigkeit ein, was zu extremem Schimmelwachstum führt. Erst direkt vor dem Verzehr waschen."
           },
           {
-            "title": "Beschädigte Beeren aussortieren ⚠️",
-            "desc": "Schimmel breitet sich schnell aus. Eine einzige schimmelige Blaubeere kann die gesamte Packung verderben."
+            "title": "Beschädigte oder schimmelige Beeren sofort aussortieren ⚠️",
+            "desc": "Schimmelsporen auf Blaubeeren übertragen sich bei direktem Kontakt sofort auf benachbarte Beeren. Eine einzige matschige oder schimmelige Beere kann die gesamte Packung innerhalb weniger Tage verderben. Sortieren Sie die Beeren direkt nach dem Kauf gründlich durch."
           }
         ],
         "steps": [
           {
-            "name": "Vor dem Lagern nicht waschen 🫐",
-            "text": "Der weiße Flaum auf den Blaubeeren schützt vor Schimmel. Erst kurz vor dem Verzehr waschen."
+            "name": "Erst kurz vor dem Verzehr waschen — Natürliche Pruina erhalten 🫐",
+            "text": "Der weiße Belag auf den Blaubeeren ist die 'Pruina' (Bloom), ein natürliches Wachs der Frucht. Sie dient als wichtiger Schutzschild gegen Austrocknung, Schädlinge und Schimmel. 💡 Lagerungstipp: Wenn Sie Beeren vor dem Lagern waschen, wird die Pruina entfernt und Wasser dringt ein, wodurch sie schnell weich werden. Trocken halten ist die oberste Regel."
           },
           {
-            "name": "Behälter mit Papier auslegen und verteilen 📰",
-            "text": "Legen Sie Küchenpapier in einen Behälter und verteilen Sie die Beeren in einer Schicht."
+            "name": "Dosenboden mit Küchenpapier auslegen und flach verteilen — Feuchtigkeitskontrolle 📰",
+            "text": "Werden Blaubeeren hoch gestapelt, zerquetschen die oberen Beeren durch ihr Gewicht die unteren, wodurch diese aufplatzen und schimmeln. 💡 Lagerungstipp: Legen Sie den Boden einer breiten Dose mit 2–3 Lagen Küchenpapier aus und verteilen Sie die Beeren flach. Das Papier saugt Kondenswasser auf und schützt vor Schimmel."
           },
           {
-            "name": "Offen lagern ❄️",
-            "text": "Lagern Sie sie in einem belüfteten Behälter im kalten Bereich (0-2°C) des Kühlschranks."
+            "name": "Belüftet und nicht luftdicht gekühlt lagern — Kühllagerung (10 Tage) ❄️",
+            "text": "Verschließen Sie Blaubeeren nicht luftdicht, da stauendes Kohlendioxid und Feuchtigkeit aus der Fruchtatmung den Verderb beschleunigen. 💡 Lagerungstipp: Verwenden Sie belüftete Dosen oder lassen Sie den Deckel im Gemüsefach (0–2 °C) leicht geöffnet. Dies reduziert Kondenswasser und hält die Beeren über 10 Tage fest."
           }
         ],
         "faqs": [
           {
-            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
-            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+            "question": "Ist der weiße Belag auf den Blaubeeren ein Pestizidrückstand? Sollte man ihn abwaschen?",
+            "answer": "Nein, das ist kein Pestizid. Der weiße Belag ist 'Pruina' (Bloom), ein natürliches Pflanzenwachs, das die Frucht vor dem Austrocknen schützt. Eine gleichmäßige Pruina zeigt frische, süße Blaubeeren an. Spülen Sie die Beeren kurz vor dem Essen einfach leicht mit kaltem Wasser ab."
           },
           {
-            "question": "Wie lagert man beschädigte Stellen?",
-            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+            "question": "Kann man Blaubeeren einfrieren, um sie lange zu lagern?",
+            "answer": "Ja, Blaubeeren lassen sich hervorragend einfrieren. Sortieren Sie ungewaschene, vollkommen trockene Blaubeeren, legen Sie sie flach in einen Gefrierbeutel und frieren Sie sie bei -18 °C bis zu 1 Jahr ein. Durch das Einfrieren werden Antioxidantien wie Anthocyane konzentriert, was sie sehr gesund macht."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Mirtilo fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Mirtilo com base nas diretrizes oficiais de segurança.",
-        "authority": "<strong>USDA & RDA</strong>",
-        "intro": "Você já comprou mirtilos frescos e viu que eles ficaram moles e mofados em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação para mantê-los firmes e livres de mofo.",
+        "title": "Como conservar mirtilos frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para mirtilos com base em diretrizes oficiais de segurança.",
+        "authority": "<strong>USDA & RDA & MFDS</strong>",
+        "intro": "Você já comprou mirtilos frescos e, após alguns dias na geladeira, percebeu que eles ficaram moles e cobertos por um mofo esbranquiçado? 🫐\n\nO mirtilo tem uma casca muito fina e é extremamente sensível à umidade. Qualquer falha no controle da água permite que o fungo do bolor cinzento (Botrytis) se espalhe rapidamente. O segredo para manter o frescor está no momento de lavar e na preservação da sua camada protetora natural (pruína).\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para manter seus mirtilos firmes, nutritivos e livres de mofo por mais de 10 dias. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Mirtilo",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,85 +367,85 @@
         ],
         "cautions": [
           {
-            "title": "Não lave os mirtilos antes de guardar 🫐",
-            "desc": "Lavar os mirtilos remove a película protetora natural (bloom) e adiciona umidade, acelerando a deterioração."
+            "title": "Nunca lave os mirtilos antes de guardar 🫐",
+            "desc": "O pó esbranquiçado na superfície do mirtilo é uma cera protetora natural chamada 'Pruína' (Bloom). Ela previne a perda de água e bloqueia a entrada de fungos. Lavar os mirtilos antes de guardar destrói essa camada e reprime a umidade, causando mofo rápido. Lave-os apenas antes de consumir."
           },
           {
-            "title": "Separe os mirtilos danificados ⚠️",
-            "desc": "O mofo se espalha rapidamente entre os mirtilos. Um único mirtilo mofado pode estragar todo o pote."
+            "title": "Separe e isole mirtilos machucados ou mofados imediatamente ⚠️",
+            "desc": "Os esporos de mofo nos mirtilos se espalham instantaneamente por contato direto. Um único mirtilo amassado ou mofado pode estragar todo o pote em poucos dias. Selecione os mirtilos logo após a compra e descarte as frutas danificadas."
           }
         ],
         "steps": [
           {
-            "name": "Não lavar antes de guardar 🫐",
-            "text": "A camada branca na superfície dos mirtilos protege contra o mofo. Lave apenas antes de comer."
+            "name": "Não lave até o momento de consumir — Preserve a pruína natural 🫐",
+            "text": "A camada esbranquiçada que cobre os mirtilos é a 'Pruína' (Bloom), uma cera natural produzida pela própria fruta. Ela atua como um escudo essencial contra a desidratação, pragas e fungos. 💡 Dica de conservação: Lavar antes de guardar remove a pruína e altera a pressão osmótica da polpa, amolecendo-os rápido. Mantê-los secos é a regra principal."
           },
           {
-            "name": "Forrar o pote com papel e espalhar 📰",
-            "text": "Coloque papel-toalha no fundo de um pote e distribua os mirtilos em uma única camada."
+            "name": "Forre o fundo do recipiente com papel-toalha e espalhe — Controle de umidade 📰",
+            "text": "Quando os mirtilos são empilhados em excesso, o peso das frutas superiores amassa as do fundo, fazendo com que rompam e estraguem. 💡 Dica de conservação: Coloque 2 a 3 camadas de papel-toalha no fundo de um pote largo e espalhe os mirtilos em uma camada fina. O papel absorve a condensação, protegendo as frutas."
           },
           {
-            "name": "Guardar sem selar ❄️",
-            "text": "Guarde em pote ventilado na zona fria (0-2°C) da geladeira."
+            "name": "Refrigere com ventilação sem fechar hermeticamente — Conservação (10 dias) ❄️",
+            "text": "Fechar os mirtilos em um pote hermético prende o dióxido de carbono e a umidade da respiração da fruta, acelerando a deterioração. 💡 Dica de conservação: Use um pote perfurado ou deixe a tampa levemente aberta na gaveta de legumes (0-2 °C). Isso reduz a condensação e mantém a textura firme por mais de 10 dias."
           }
         ],
         "faqs": [
           {
-            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
-            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+            "question": "O pó branco nos mirtilos é resíduo de agrotóxico? Devo esfregar para tirar?",
+            "answer": "Não é agrotóxico. O pó branco é a 'Pruína' (Bloom), uma cera vegetal natural produzida pela fruta para se proteger do ressecamento. Uma camada visível e uniforme indica mirtilos frescos e doces. Apenas enxágue levemente com água fria antes de comer."
           },
           {
-            "question": "Como tratar e guardar partes machucadas?",
-            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+            "question": "Posso congelar mirtilos para conservação de longo prazo?",
+            "answer": "Sim, os mirtilos congelam muito bem. Selecione mirtilos não lavados e bem secos, espalhe-os em uma única camada dentro de um saco Ziploc para freezer e congele a -18 °C por até 1 ano. O congelamento preserva e concentra antioxidantes como as antocianinas, mantendo alto valor nutricional."
           }
         ]
       },
       "id": {
-        "title": "Cara Menyimpan Murbai agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Murbai berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>USDA & RDA</strong>",
-        "intro": "Pernahkah Anda membeli blueberry segar namun menjadi lunak dan berjamur dalam beberapa hari? Hari ini, FreshSnap membagikan tips penyimpanan agar blueberry tetap kencang...",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "title": "Cara Menyimpan Blueberry agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk blueberry berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>USDA & RDA & MFDS</strong>",
+        "intro": "Pernahkah Anda membeli blueberry segar lalu mendapati buahnya menjadi lembek dan ditumbuhi jamur putih hanya dalam beberapa hari di kulkas? 🫐\n\nBlueberry memiliki kulit yang sangat tipis dan sangat sensitif terhadap kelembapan. Sedikit saja kesalahan dalam mengontrol kelembapan membuat kapang jamur abu-abu (Botrytis) menyebar dengan cepat. Kunci kesegaran blueberry terletak pada kapan Anda mencucinya dan bagaimana menjaga lapisan pelindung alaminya (bloom).\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan RDA untuk menjaga blueberry Anda tetap kokoh, kaya nutrisi, dan bebas jamur selama lebih dari 10 hari. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
-          "Murbai",
+          "Blueberry",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
           "fruit"
         ],
         "cautions": [
           {
-            "title": "Jangan cuci blueberry sebelum disimpan 🫐",
-            "desc": "Mencuci blueberry sebelum disimpan akan menghilangkan lapisan pelindung alami (bloom)..."
+            "title": "Jangan pernah mencuci blueberry sebelum disimpan 🫐",
+            "desc": "Lapisan putih halus di permukaan blueberry adalah lapisan lilin alami yang disebut 'Bloom'. Lapisan ini mencegah kehilangan air dan menahan masuknya jamur. Mencuci blueberry sebelum disimpan akan merusak lapisan ini dan memerangkap air, memicu pertumbuhan jamur yang cepat. Cucilah hanya saat akan dimakan."
           },
           {
-            "title": "Pilah blueberry yang rusak ⚠️",
-            "desc": "Jamur menyebar dengan sangat cepat di antara buah beri. Satu blueberry..."
+            "title": "Segera sortir dan pisahkan blueberry yang memar atau berjamur ⚠️",
+            "desc": "Spora jamur pada blueberry menyebar secara instan melalui kontak langsung. Satu saja blueberry yang lembek atau berjamur dapat merusak seluruh wadah dalam hitungan hari. Selalu sortir blueberry segera setelah dibeli dan buang buah yang rusak."
           }
         ],
         "steps": [
           {
-            "name": "Jangan dicuci sebelum disimpan 🫐",
-            "text": "Lapisan putih (bloom) pada permukaan blueberry melindunginya dari jamur. Cuci hanya sebelum dimakan."
+            "name": "Jangan dicuci hingga tepat sebelum dikonsumsi — Jaga Lapisan Bloom Alami 🫐",
+            "text": "Serbuk putih yang melapisi blueberry adalah 'Bloom', yaitu lapisan lilin alami yang dihasilkan oleh buah itu sendiri. Lapisan ini berfungsi sebagai perisai penting yang mencegah dehidrasi dan infeksi jamur. 💡 Tips Penyimpanan: Mencuci buah sebelum disimpan akan menghilangkan bloom dan membuat air masuk, menyebabkannya cepat lembek. Menjaganya tetap kering adalah aturan utama."
           },
           {
-            "name": "Alasi wadah dengan tisu dan ratakan 📰",
-            "text": "Alasi bagian bawah wadah dengan tisu dapur dan sebar blueberry dalam satu lapisan."
+            "name": "Alasi bagian bawah wadah dengan tisu dan ratakan — Kontrol Kelembapan 📰",
+            "text": "Jika blueberry ditumpuk terlalu tebal, berat buah di bagian atas akan menekan buah di bawahnya hingga pecah dan membusuk. 💡 Tips Penyimpanan: Alasi bagian bawah wadah yang lebar dengan 2–3 lapis tisu dapur, lalu sebar blueberry dalam satu lapisan tipis. Tisu akan menyerap kondensasi air, mencegah pembusukan."
           },
           {
-            "name": "Simpan tanpa disegel ❄️",
-            "text": "Simpan dalam wadah berlubang di area dingin kulkas (0-2°C)."
+            "name": "Simpan di kulkas dengan sirkulasi udara tanpa disegel rapat — Simpan Dingin (10 Hari) ❄️",
+            "text": "Menyegel rapat blueberry dalam wadah kedap udara akan memerangkap karbondioksida dan kelembapan hasil respirasi buah, mempercepat pembusukan. 💡 Tips Penyimpanan: Gunakan wadah berlubang atau biarkan tutup wadah sedikit terbuka di laci sayuran kulkas (0–2°C). Ini mengurangi kondensasi dan menjaga tekstur tetap renyah selama lebih dari 10 hari."
           }
         ],
         "faqs": [
           {
-            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
-            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+            "question": "Apakah serbuk putih pada blueberry adalah sisa pestisida? Haruskah saya menggosoknya hingga bersih?",
+            "answer": "Bukan, itu bukan pestisida. Lapisan putih tersebut adalah 'Bloom', yaitu lilin tumbuhan alami yang dikeluarkan buah untuk melindungi dirinya dari kekeringan. Lapisan bloom yang merata menandakan blueberry segar dan manis. Cukup bilas ringan dengan air dingin tepat sebelum dimakan."
           },
           {
-            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
-            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+            "question": "Apakah blueberry bisa dibekukan untuk penyimpanan jangka panjang?",
+            "answer": "Ya, blueberry sangat cocok untuk dibekukan. Sortir blueberry yang belum dicuci dan benar-benar kering, sebar dalam satu lapisan di dalam kantong Ziploc freezer, lalu bekukan pada suhu -18°C hingga 1 tahun. Pembekuan justru mengonsentrasikan antioksidan seperti antosianin, menjadikannya sangat bernutrisi."
           }
         ]
       }

@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & CDC</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Guarde em temperatura ambiente na sombra antes de maduro — Conservação em Temp. Ambiente (7Dias) 🌿"
+    text: "Tomates verdes devem ser mantidos com o talo para cima na sombra e em temp. ambiente (15-20 °C). Refrigerar tomates verdes impede a maturação, murcha a casca e retira o sabor."
+  - name: "Retire as pontas verdes antes de guardar — Impeça mofo ✂️"
+    text: "O talo é a área mais propensa ao surgimento de mofo. Retirá-lo antes de guardar evita que se perfurem mutuamente e reduz drasticamente o risco de mofo."
+  - name: "Embrulhe tomates maduros em jornal e guarde na gaveta de legumes ❄️ — Armazenamento Refrigerado (7Dias)"
+    text: "Guarde apenas os tomates totalmente vermelhos na gaveta de legumes (5-10 °C), embrulhados em jornal ou filme plástico. Isso impede que o frio resseque a pele e evapore a umidade."
 faqs:
   - question: "Why is it recommended never to refrigerate raw tomatoes?"
     answer: "Refrigerating tomatoes stops volatile flavor compound production and damages cell membranes, making the flesh mealy and reducing sweetness. Keep at room temp."
@@ -33,30 +33,30 @@ Você sabia que guardar tomates na geladeira destrói o sabor e o aroma? O frio 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde em temperatura ambiente na sombra antes de maduro — Conservação em Temp. Ambiente (7Dias) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Tomates verdes devem ser mantidos com o talo para cima na sombra e em temp. ambiente (15-20 °C). Refrigerar tomates verdes impede a maturação, murcha a casca e retira o sabor.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Retire as pontas verdes antes de guardar — Impeça mofo ✂️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    O talo é a área mais propensa ao surgimento de mofo. Retirá-lo antes de guardar evita que se perfurem mutuamente e reduz drasticamente o risco de mofo.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Embrulhe tomates maduros em jornal e guarde na gaveta de legumes ❄️ — Armazenamento Refrigerado (7Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Guarde apenas os tomates totalmente vermelhos na gaveta de legumes (5-10 °C), embrulhados em jornal ou filme plástico. Isso impede que o frio resseque a pele e evapore a umidade.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Você sabia que guardar tomates na geladeira destrói o sabor e o aroma? O frio 
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Reglas cruciales e precauções</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Conserve em temperatura ambiente até amadurecer</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Tomates verdes precisam de temperatura ambiente para desenvolver açúcares e aromas. Refrigere apenas quando maduros.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Guarde los tomates con el tallo hacia abajo</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      A área do talo é a mais macia e estraga fácil sob o próprio peso. Deixar para baixo evita que amasse.
     </p>
   </div>
 </div>

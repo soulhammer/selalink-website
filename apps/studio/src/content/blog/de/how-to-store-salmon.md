@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>FDA & USDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Oberflächliches Fett und Wasser abwischen — Kühllagerung (2Tage) 🍣"
+    text: "Feuchtigkeit und Fett auf der Oberfläche von rohem Lachs sind der Hauptgrund für Bakterien. Lachs vor der Lagerung von beiden Seiten mit Küchenpapier abtupfen."
+  - name: "Zitronensaft oder Reiswein auftragen — Natürlicher Oxidationsschutz 🍋"
+    text: "Bestreichen Sie den getrockneten Lachs dünn mit Zitronensaft oder etwas Reiswein (oder Mirin). Säure und Alkohol dienen als natürlicher Konservierungsschutz und verhindern das Ranzigwerden."
+  - name: "Lachs fest in Folie wickeln und Luft herauspressen — Gefrierlagerung (90Tage) 📦"
+    text: "Wickeln Sie den behandelten Lachs fest in Frischhaltefolie (Luft entfernen) und legen ihn in einen Gefrierbeutel. Hält im Kühlschrank bis zu 2 Tage, im Gefrierschrank bis zu 60 Tage frisch."
 faqs:
   - question: "The color of my salmon turned slightly dull. Can I still eat it?"
     answer: "If raw salmon loses its pink hue and fades to gray or yellow, it is oxidising and spoiling. If it feels slimy or smells sour, discard it immediately."
@@ -33,30 +33,30 @@ Haben Sie frischen Lachs länger als zwei Tage im Kühlschrank gelagert? Lachs i
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Oberflächliches Fett und Wasser abwischen — Kühllagerung (2Tage) 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Feuchtigkeit und Fett auf der Oberfläche von rohem Lachs sind der Hauptgrund für Bakterien. Lachs vor der Lagerung von beiden Seiten mit Küchenpapier abtupfen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Zitronensaft oder Reiswein auftragen — Natürlicher Oxidationsschutz 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Bestreichen Sie den getrockneten Lachs dünn mit Zitronensaft oder etwas Reiswein (oder Mirin). Säure und Alkohol dienen als natürlicher Konservierungsschutz und verhindern das Ranzigwerden.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Lachs fest in Folie wickeln und Luft herauspressen — Gefrierlagerung (90Tage) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Wickeln Sie den behandelten Lachs fest in Frischhaltefolie (Luft entfernen) und legen ihn in einen Gefrierbeutel. Hält im Kühlschrank bis zu 2 Tage, im Gefrierschrank bis zu 60 Tage frisch.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Haben Sie frischen Lachs länger als zwei Tage im Kühlschrank gelagert? Lachs i
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wichtige Warnhinweise zur Lagerung</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Feuchtigkeit und austretenden Fischsaft gründlich abtupfen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Fischsaft an der Oberfläche verursacht Fischgeruch und beschleunigt den Verderb. Vor dem Einwickeln gut abtrocknen.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Vakuumieren oder luftdicht verschließen</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Sauerstoffkontakt oxidiert Fette und macht den Lachs trocken. Ein enges Einwickeln schützt vor Luftzufuhr.
     </p>
   </div>
 </div>

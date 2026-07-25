@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Ungewaschenen Spinat in Zeitung/Küchenpapier wickeln — Feuchtigkeitsschutz 📦"
+    text: "Spinatblätter verfaulen schnell bei Feuchtigkeit. Lassen Sie die Erde daran und wickeln Sie ihn locker in Zeitungspapier oder Küchenpapier, um Kondenswasser zu vermeiden."
+  - name: "Aufrecht mit den Wurzeln nach unten lagern — Kühllagerung (4Tage) 🌿"
+    text: "Wenn Spinat flach gelagert wird, verbrauchen die Blätter Energie beim Versuch, nach oben zu wachsen, und welken schneller. Lagern Sie ihn aufrecht mit den Wurzeln nach unten in einem Gefäß."
+  - name: "Von ethylenproduzierenden Früchten isolieren — Schutzbarriere 🛡️"
+    text: "Spinat reagiert sehr empfindlich auf Ethylengas. Wenn er zusammen mit Äpfeln, Birnen oder Tomaten gelagert wird, vergilben die Blätter schnell und verfaulen. Räumlich trennen."
 faqs:
   - question: "Can I wash spinach before storing it in the fridge?"
     answer: "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
@@ -33,30 +33,30 @@ Haben Sie Spinat gekauft, im Plastikbeutel gelassen und nach zwei Tagen weggewor
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ungewaschenen Spinat in Zeitung/Küchenpapier wickeln — Feuchtigkeitsschutz 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Spinatblätter verfaulen schnell bei Feuchtigkeit. Lassen Sie die Erde daran und wickeln Sie ihn locker in Zeitungspapier oder Küchenpapier, um Kondenswasser zu vermeiden.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aufrecht mit den Wurzeln nach unten lagern — Kühllagerung (4Tage) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Wenn Spinat flach gelagert wird, verbrauchen die Blätter Energie beim Versuch, nach oben zu wachsen, und welken schneller. Lagern Sie ihn aufrecht mit den Wurzeln nach unten in einem Gefäß.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Von ethylenproduzierenden Früchten isolieren — Schutzbarriere 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Spinat reagiert sehr empfindlich auf Ethylengas. Wenn er zusammen mit Äpfeln, Birnen oder Tomaten gelagert wird, vergilben die Blätter schnell und verfaulen. Räumlich trennen.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Haben Sie Spinat gekauft, im Plastikbeutel gelassen und nach zwei Tagen weggewor
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wichtige Warnhinweise zur Lagerung</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Feuchtigkeit gut abtrocknen, um Matschigkeit zu vermeiden</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Überschüssiges Wasser auf den Blättern führt zu schnellem Verfall. Spinat in Küchenpapier wickeln, um Kondenswasser aufzusaugen.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Spinat aufrecht mit den Wurzeln nach unten lagern</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Gemüse bleibt länger frisch, wenn es in seiner natürlichen Wuchsrichtung gelagert wird. Das aufrechte Stehen verhindert Druckstellen.
     </p>
   </div>
 </div>

@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 美国食品药品监督管理局(FDA)</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "开封后务必密封冷藏/冷冻 — 冷藏 90天 & 冷冻 180天"
+    text: "坚果含有大量油脂，如果存放在高温潮湿的常温下，脂肪成分会与氧气氧化产生哈喇味，并且极易滋生1类致癌霉菌毒素——黄曲霉毒素（Aflatoxin）。因此开封后务必密封好冷藏或冷冻保存。"
+  - name: "装入不透明密封罐或密封袋 — 阻断光线 📦"
+    text: "光照和氧气会加速坚果中优质不饱和脂肪酸的氧化酸败。相比透明自封袋，更建议装入能遮光的不透明铝箔袋或深色密封罐中，并放入脱氧剂（硅胶干燥剂）以隔绝空气和湿气。"
+  - name: "保持干燥无水分状态 — 常温储存 (15天)"
+    text: "坚果一旦受潮就会变软变潮，口感和风味大打折扣。储存时应时刻保持干燥。开封后必须换装入密封性极佳的的容器中，谨防外界湿气渗入。"
 faqs:
   - question: "坚坚果出现哈喇味还可以吃吗？"
     answer: "绝对不可以。坚果中的不饱和脂肪酸酸败后，会产生名为黄曲霉毒素的强效 1 类致癌物。这种毒素在加热时也无法被破坏，因此一旦出现哈喇味必须立即扔掉。"
@@ -33,30 +33,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">开封后务必密封冷藏/冷冻 — 冷藏 90天 & 冷冻 180天</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    坚果含有大量油脂，如果存放在高温潮湿的常温下，脂肪成分会与氧气氧化产生哈喇味，并且极易滋生1类致癌霉菌毒素——黄曲霉毒素（Aflatoxin）。因此开封后务必密封好冷藏或冷冻保存。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">装入不透明密封罐或密封袋 — 阻断光线 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    光照和氧气会加速坚果中优质不饱和脂肪酸的氧化酸败。相比透明自封袋，更建议装入能遮光的不透明铝箔袋或深色密封罐中，并放入脱氧剂（硅胶干燥剂）以隔绝空气和湿气。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">保持干燥无水分状态 — 常温储存 (15天)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    坚果一旦受潮就会变软变潮，口感和风味大打折扣。储存时应时刻保持干燥。开封后必须换装入密封性极佳的的容器中，谨防外界湿气渗入。
   </p>
 </div>
 
@@ -67,9 +67,19 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">储存注意事项</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">绝对不要食用有哈喇味或受潮的坚果</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      氧化的坚果会产生黄曲霉毒素，这是一种强致癌物，即使加热也无法被破坏。发现变质请立即丢弃。
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">放入脱氧剂并密封存放在避光阴凉处</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      将坚果装入不透明的容器或密封袋中，放入脱氧剂以阻断空气，存放在避光的抽屉中或直接冷冻。
     </p>
   </div>
 </div>

@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Ne pas laver et garder les queues 🍓"
+    text: "Laver les fraises ou retirer la queue endommage la peau, favorisant l'absorption d'eau et le pourrissement."
+  - name: "Tapisser le récipient et séparer les fraises 📰"
+    text: "Mettez du papier absorbant au fond et disposez les fraises séparément pour éviter qu'elles ne s'écrasent."
+  - name: "Stocker sans fermeture hermétique ❄️"
+    text: "Utilisez une boîte aérée ou laissez le sac entrouvert pour empêcher la condensation de se former."
 faqs:
   - question: "Faut-il laver les aliments avant de les mettre au réfrigérateur ?"
     answer: "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
@@ -33,30 +33,30 @@ Avez-vous déjà acheté de belles fraises pour les voir ramollir et moisir en u
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ne pas laver et garder les queues 🍓</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Laver les fraises ou retirer la queue endommage la peau, favorisant l'absorption d'eau et le pourrissement.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Tapisser le récipient et séparer les fraises 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Mettez du papier absorbant au fond et disposez les fraises séparément pour éviter qu'elles ne s'écrasent.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Stocker sans fermeture hermétique ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Utilisez une boîte aérée ou laissez le sac entrouvert pour empêcher la condensation de se former.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Avez-vous déjà acheté de belles fraises pour les voir ramollir et moisir en u
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Règles cruciales et précautions</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Retirez immédiatement les fraises abîmées ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Une seule fraise abîmée dont le jus s'écoule crée un environnement idéal pour que la moisissure envahisse tout le paquet.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Conservez sur une étagère intérieure à température stable 🍓</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Les balconnets de porte du réfrigérateur subissent de grandes variations de température et des vibrations. Placez les fraises au fond d'une étagère intérieure où la température reste stable.
     </p>
   </div>
 </div>

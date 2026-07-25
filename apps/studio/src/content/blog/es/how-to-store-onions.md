@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA & FSA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Cuelgue en un área fresca y ventilada con cáscara — Conservación a Temp. Ambiente (30Días)"
+    text: "Los cebollines con cáscara se conservan mejor en lugares secos y ventilados. Colocarlos individualmente en una red o media, haciendo nudos entre ellos y colgándolos, evita que se toquen y se ablanden."
+  - name: "Seque los cebollines pelados y envuelva con film plástico — Almacenamiento Refrigerado (14Días) 📦"
+    text: "Seque por completo los cebollines pelados, envuélvalos de forma individual con film plástico y guárdelos en el cajón de verduras. Esto evita el contacto con el oxígeno, manteniéndolos firmes hasta por 10 días."
+  - name: "Aísle por completo de las papas — Evite el deterioro mutuo 🛡️"
+    text: "Las cebollas y las papas son enemigas en el almacenamiento. Si se guardan juntas, las papas absorben la humedad y gases de las cebollas, brotando rápido. A su vez, la humedad de las papas ablanda las cebollas. Sepárelas."
 faqs:
   - question: "Why shouldn't I store onions with potatoes?"
     answer: "Storing onions and potatoes together causes onions to release moisture and ethylene gas, making potatoes sprout and soften rapidly. Keep them separated."
@@ -33,30 +33,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Cuelgue en un área fresca y ventilada con cáscara — Conservación a Temp. Ambiente (30Días)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Los cebollines con cáscara se conservan mejor en lugares secos y ventilados. Colocarlos individualmente en una red o media, haciendo nudos entre ellos y colgándolos, evita que se toquen y se ablanden.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque los cebollines pelados y envuelva con film plástico — Almacenamiento Refrigerado (14Días) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Seque por completo los cebollines pelados, envuélvalos de forma individual con film plástico y guárdelos en el cajón de verduras. Esto evita el contacto con el oxígeno, manteniéndolos firmes hasta por 10 días.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aísle por completo de las papas — Evite el deterioro mutuo 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Las cebollas y las papas son enemigas en el almacenamiento. Si se guardan juntas, las papas absorben la humedad y gases de las cebollas, brotando rápido. A su vez, la humedad de las papas ablanda las cebollas. Sepárelas.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Reglas cruciales y precauciones</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Aísle las cebollas dañadas de inmediato para consumo rápido</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Las cebollas con golpes liberan humedad y gas, pudriendo las de alrededor. Consúmalas primero.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Nunca guarde las cebollas junto con las papas</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Las cebollas liberan humedad y las papas gas etileno. Almacenarlas juntas acelera el deterioro y brote de ambas.
     </p>
   </div>
 </div>

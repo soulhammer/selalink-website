@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & RDA & FSA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Wrap unwashed potatoes individually in newspaper/paper bags — Room Temp Storage (45Days) 📦"
+    text: "Potatoes last longer when stored with soil still on them. Wrapping them in newspaper or paper bags blocks light completely, preventing them from turning green and developing toxic solanine."
+  - name: "Store at room temp with 1 apple — Sprout suppression 🍎"
+    text: "Placing one apple in the potato container releases ethylene gas, which suppresses sprout growth genes in potatoes and significantly delays sprouting."
+  - name: "Do not refrigerate — Prevent starch deformation ❄️"
+    text: "When stored below 4°C, potato starch converts to sugar, spoiling the flavor and increasing the chemical acrylamide (a carcinogen) during high-heat cooking. Always store them in a cool dark space (8–10°C)."
 faqs:
   - question: "Is it safe to eat potatoes after cutting off green patches or sprouts?"
     answer: "Sprouts and green skin contain solanine, a toxic glycolalkaloid. You must slice away green skin thickly and dig out sprout eyes deeply before cooking."
@@ -33,30 +33,30 @@ Did you store potatoes in the refrigerator crisper drawer? Cold temperatures bel
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap unwashed potatoes individually in newspaper/paper bags — Room Temp Storage (45Days) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Potatoes last longer when stored with soil still on them. Wrapping them in newspaper or paper bags blocks light completely, preventing them from turning green and developing toxic solanine.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store at room temp with 1 apple — Sprout suppression 🍎</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Placing one apple in the potato container releases ethylene gas, which suppresses sprout growth genes in potatoes and significantly delays sprouting.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Do not refrigerate — Prevent starch deformation ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    When stored below 4°C, potato starch converts to sugar, spoiling the flavor and increasing the chemical acrylamide (a carcinogen) during high-heat cooking. Always store them in a cool dark space (8–10°C).
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Did you store potatoes in the refrigerator crisper drawer? Cold temperatures bel
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Crucial Rules and Cautions</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Never store potatoes in the refrigerator</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Cold temperatures trigger chemical changes that sweeten starch but form carcinogens when fried or baked. Keep in cool room temp.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Cover with newspapers or keep in dark bags</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Exposure to light turns potato skin green and generates solanine, a toxic compound. Always block light completely.
     </p>
   </div>
 </div>

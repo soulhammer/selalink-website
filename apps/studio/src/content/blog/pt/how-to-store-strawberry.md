@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Não lavar e manter os cabos 🍓"
+    text: "Lavar os morangos ou remover o cabo danifica a pele, fazendo com que absorvam água e apodreçam rápido."
+  - name: "Forrar o pote e separar os morangos 📰"
+    text: "Coloque papel-toalha no fundo e acomode os morangos separados para não amassarem."
+  - name: "Guardar sem selar hermeticamente ❄️"
+    text: "Use um pote com ventilação ou deixe o saco aberto para evitar a formação de gotas de água."
 faqs:
   - question: "Deve-se lavar os alimentos com água antes de refrigerar?"
     answer: "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
@@ -33,30 +33,30 @@ Você já comprou morangos lindos e viu que eles murcharam e mofaram em um ou do
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Não lavar e manter os cabos 🍓</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Lavar os morangos ou remover o cabo danifica a pele, fazendo com que absorvam água e apodreçam rápido.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Forrar o pote e separar os morangos 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Coloque papel-toalha no fundo e acomode os morangos separados para não amassarem.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guardar sem selar hermeticamente ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Use um pote com ventilação ou deixe o saco aberto para evitar a formação de gotas de água.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Você já comprou morangos lindos e viu que eles murcharam e mofaram em um ou do
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Reglas cruciales e precauções</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Remova os morangos machucados imediatamente ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Um único morango machucado vazando suco cria o ambiente perfeito para o mofo tomar conta de toda a embalagem.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Guarde na prateleira interna com temperatura baixa e estável 🍓</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      As prateleiras da porta da geladeira têm grande variação de temperatura e vibrações. Coloque os morangos no fundo da prateleira interna para evitar que estraguem rapidamente.
     </p>
   </div>
 </div>

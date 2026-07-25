@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Packungswasser weggießen und unter fließendem Wasser abspülen — Kühllagerung (7Tage) 🚿"
+    text: "Das Wasser in der Tofupackung enthält gelöste Proteine und ist ein Nährboden für Bakterien. Gießen Sie das Wasser weg und spülen Sie den Tofu unter fließendem Wasser ab."
+  - name: "In kaltes Wasser mit einer Prise Salz einlegen — Gefrierlagerung (21Tage) 🧂"
+    text: "Legen Sie den Tofu in einen Behälter, bedecken Sie ihn mit kaltem Wasser und geben Sie eine Prise Salz hinzu. Das Salzwasser hemmt Bakterien und hält den Tofu fest."
+  - name: "Das Wasser täglich wechseln — Sauberkeit und Frische erhalten 💧"
+    text: "Auch mit Salz sollte das Wasser täglich oder alle zwei Tage gewechselt werden. Dies verhindert das Sauerwerden des Tofus und hält ihn bis zu einer Woche frisch."
 faqs:
   - question: "Can I store leftover tofu in a container as it is?"
     answer: "No, tofu spoils quickly if exposed to air. Always submerge it completely in clean water with a pinch of salt in a sealed container, and change water daily."
@@ -33,30 +33,30 @@ Haben Sie das Originalwasser beim Lagern von übrigem Tofu in den Behälter gego
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Packungswasser weggießen und unter fließendem Wasser abspülen — Kühllagerung (7Tage) 🚿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Das Wasser in der Tofupackung enthält gelöste Proteine und ist ein Nährboden für Bakterien. Gießen Sie das Wasser weg und spülen Sie den Tofu unter fließendem Wasser ab.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In kaltes Wasser mit einer Prise Salz einlegen — Gefrierlagerung (21Tage) 🧂</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Legen Sie den Tofu in einen Behälter, bedecken Sie ihn mit kaltem Wasser und geben Sie eine Prise Salz hinzu. Das Salzwasser hemmt Bakterien und hält den Tofu fest.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Das Wasser täglich wechseln — Sauberkeit und Frische erhalten 💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Auch mit Salz sollte das Wasser täglich oder alle zwei Tage gewechselt werden. Dies verhindert das Sauerwerden des Tofus und hält ihn bis zu einer Woche frisch.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Haben Sie das Originalwasser beim Lagern von übrigem Tofu in den Behälter gego
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wichtige Warnhinweise zur Lagerung</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Verpackungswasser weggießen und täglich durch frisches, kaltes Wasser ersetzen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Übrig gebliebener Tofu verdirbt durch Keime schnell. Täglicher Wasserwechsel hemmt das Bakterienwachstum.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Eine Prise Salz in das Wasser geben</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Eine kleine Menge Salz wirkt als natürliches Konservierungsmittel und hält die Textur fest.
     </p>
   </div>
 </div>

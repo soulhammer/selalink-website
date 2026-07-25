@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "씻지 않고 꼭지 떼지 않은 상태 보존하기 — 수분 침투 차단 🍓"
+    text: "딸기는 씻어서 꼭지를 떼면 과실 표면에 상처가 생겨 수분을 급속히 흡수하고 세포막이 붕괴되어 과즙이 흘러나옵니다. 이 부위에 잿빛곰팡이가 매우 빠르게 증식하므로, 먹기 직전까지 절대로 물을 묻히거나 꼭지를 떼면 안 됩니다."
+  - name: "용기 바닥에 키친타월 깔고 띄엄띄엄 담기 — 마찰 및 습기 방지 📰"
+    text: "수납 용기 바닥에 키친타월을 충분히 깔아준 뒤, 딸기를 서로 달라붙지 않게 일정한 거리를 두고 세워 정렬합니다. 딸기는 연약해서 겹겹이 쌓아두면 중력에 의해 서로 짓눌려 하단 과육부터 물러 터지기 쉽습니다."
+  - name: "플라스틱 용기나 지퍼백 밀봉 없이 보관하기 — 결로 방지 냉장 (5일) ❄️"
+    text: "밀폐 뚜껑을 꽉 닫아 보관하면 결로 물방울이 딸기 표면에 맺혀 금방 썩습니다. 구멍이 뚫려 통기성이 있는 플라스틱 팩을 활용하거나 지퍼백의 상단부를 완전히 열어둔 상태로 냉장 보관해야 합니다."
 faqs:
   - question: "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?"
     answer: "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
@@ -33,30 +33,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">씻지 않고 꼭지 떼지 않은 상태 보존하기 — 수분 침투 차단 🍓</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    딸기는 씻어서 꼭지를 떼면 과실 표면에 상처가 생겨 수분을 급속히 흡수하고 세포막이 붕괴되어 과즙이 흘러나옵니다. 이 부위에 잿빛곰팡이가 매우 빠르게 증식하므로, 먹기 직전까지 절대로 물을 묻히거나 꼭지를 떼면 안 됩니다.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">용기 바닥에 키친타월 깔고 띄엄띄엄 담기 — 마찰 및 습기 방지 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    수납 용기 바닥에 키친타월을 충분히 깔아준 뒤, 딸기를 서로 달라붙지 않게 일정한 거리를 두고 세워 정렬합니다. 딸기는 연약해서 겹겹이 쌓아두면 중력에 의해 서로 짓눌려 하단 과육부터 물러 터지기 쉽습니다.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">플라스틱 용기나 지퍼백 밀봉 없이 보관하기 — 결로 방지 냉장 (5일) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    밀폐 뚜껑을 꽉 닫아 보관하면 결로 물방울이 딸기 표면에 맺혀 금방 썩습니다. 구멍이 뚫려 통기성이 있는 플라스틱 팩을 활용하거나 지퍼백의 상단부를 완전히 열어둔 상태로 냉장 보관해야 합니다.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">보관 시 필수 규칙 및 주의사항</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Remove bruised strawberries immediately ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      A single bruised berry with leaking juice creates the perfect environment for mold to take over the whole package.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Store on the inner shelf with stable low temperature 🍓</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      The refrigerator door pockets have large temperature fluctuations and vibrations. Store strawberries on the back of the inner shelf where the temperature is stable to prevent rapid spoiling.
     </p>
   </div>
 </div>

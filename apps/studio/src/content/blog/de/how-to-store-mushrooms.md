@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & USDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Pilze vor dem Lagern niemals waschen — Wasseraufnahme vermeiden ❌💧"
+    text: "Pilze sind porös und saugen Wasser auf wie ein Schwamm. Das Waschen vor der Lagerung zerstört die Textur und das Aroma. Schmutz erst direkt vor dem Kochen abbürsten."
+  - name: "In eine Papiertüte oder Küchenpapier einwickeln — Feuchtigkeitsschutz 📦"
+    text: "Die Lagerung in einer Plastiktüte fängt die Feuchtigkeit aus der Atmung der Pilze ein, was zu Kondenswasser und schnellem Verderb führt. In Küchenpapier einwickeln oder in eine Papiertüte legen."
+  - name: "Auf einem mittleren Regal ohne Druck lagern — Kühllagerung (3Tage)"
+    text: "Pilze sind empfindlich. Wenn sie unter schweren Gegenständen zerdrückt werden, werden sie schwarz und verfaulen. Legen Sie sie vorsichtig oben auf andere Gemüse im Kühlschrank."
 faqs:
   - question: "Why should mushrooms never be washed before storage?"
     answer: "Mushrooms absorb water like a sponge. Washing them leads to rapid browning, loss of texture and aroma, and triggers mold within 24 hours."
@@ -33,30 +33,30 @@ Waschen Sie Pilze vor dem Kochen mit Wasser ab? Diese Gewohnheit beeinträchtigt
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Pilze vor dem Lagern niemals waschen — Wasseraufnahme vermeiden ❌💧</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Pilze sind porös und saugen Wasser auf wie ein Schwamm. Das Waschen vor der Lagerung zerstört die Textur und das Aroma. Schmutz erst direkt vor dem Kochen abbürsten.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In eine Papiertüte oder Küchenpapier einwickeln — Feuchtigkeitsschutz 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Die Lagerung in einer Plastiktüte fängt die Feuchtigkeit aus der Atmung der Pilze ein, was zu Kondenswasser und schnellem Verderb führt. In Küchenpapier einwickeln oder in eine Papiertüte legen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Auf einem mittleren Regal ohne Druck lagern — Kühllagerung (3Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Pilze sind empfindlich. Wenn sie unter schweren Gegenständen zerdrückt werden, werden sie schwarz und verfaulen. Legen Sie sie vorsichtig oben auf andere Gemüse im Kühlschrank.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Waschen Sie Pilze vor dem Kochen mit Wasser ab? Diese Gewohnheit beeinträchtigt
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wichtige Warnhinweise zur Lagerung</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Pilze vor dem Lagern niemals mit Wasser abwaschen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Pilze saugen Wasser auf wie ein Schwamm. Das Waschen macht sie matschig und lässt sie in einem Tag verfaulen. Schmutz trocken abbürsten.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Im Behälter mit Küchenpapier abdecken</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Pilze geben ständig Feuchtigkeit ab. Das Einwickeln in Küchenpapier absorbiert Kondenswasser und verhindert Fäulnis.
     </p>
   </div>
 </div>

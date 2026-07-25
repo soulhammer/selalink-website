@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA & FDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Sceller et réfrigérer/congeler après ouverture — Réfrigéré 90 jours & Congelé 180 jours"
+    text: "Les fruits secs contiennent beaucoup de lipides qui s'oxydent et rancissent à température ambiante chaude et humide. Ce milieu favorise aussi l'aflatoxine, une toxine cancérigène. Gardez-les fermés au froid."
+  - name: "Utiliser des boîtes ou sachets hermétiques opaques — Bloquer la lumière 📦"
+    text: "La lumière et l'oxygène accélèrent l'oxydation des bons acides gras des fruits secs. Préférez les sachets opaques ou boîtes sombres aux emballages transparents, et glissez-y un sachet déshydratant."
+  - name: "Conserver dans un environnement sec sans humidité — Stockage à Temp. Ambiante (15Jours)"
+    text: "Les fruits secs perdent leur croquant et leur goût à l'humidité. Conservez-les toujours au sec et une fois l'emballage ouvert, transférez-les dans un récipient étanche pour éviter l'humidité."
 faqs:
   - question: "Is it okay to eat nuts that smell slightly rancid?"
     answer: "Absolutely not. Rancid fat in nuts develops 'aflatoxins', a powerful Class 1 carcinogen that causes liver damage. This toxin cannot be destroyed by heat."
@@ -33,30 +33,30 @@ Laissez-vous les fruits secs sur la table dans des bocaux transparents ? Ils son
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Sceller et réfrigérer/congeler après ouverture — Réfrigéré 90 jours & Congelé 180 jours</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Les fruits secs contiennent beaucoup de lipides qui s'oxydent et rancissent à température ambiante chaude et humide. Ce milieu favorise aussi l'aflatoxine, une toxine cancérigène. Gardez-les fermés au froid.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Utiliser des boîtes ou sachets hermétiques opaques — Bloquer la lumière 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    La lumière et l'oxygène accélèrent l'oxydation des bons acides gras des fruits secs. Préférez les sachets opaques ou boîtes sombres aux emballages transparents, et glissez-y un sachet déshydratant.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Conserver dans un environnement sec sans humidité — Stockage à Temp. Ambiante (15Jours)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Les fruits secs perdent leur croquant et leur goût à l'humidité. Conservez-les toujours au sec et une fois l'emballage ouvert, transférez-les dans un récipient étanche pour éviter l'humidité.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Laissez-vous les fruits secs sur la table dans des bocaux transparents ? Ils son
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Règles cruciales et précautions</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Ne mangez jamais de fruits secs rancis ou humides</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Les fruits secs oxydés développent des aflatoxines, de puissants cancérogènes qui ne sont pas détruits par la cuisson. Jetez-les.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Fermez avec des absorbeurs d'oxygène à l'abri de la lumière</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Stockez les fruits secs dans des contenants opaques avec des absorbeurs d'oxygène, dans un tiroir frais ou au congélateur.
     </p>
   </div>
 </div>

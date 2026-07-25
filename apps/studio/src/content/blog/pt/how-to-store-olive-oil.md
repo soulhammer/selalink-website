@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Não armazene na geladeira — Evite a solidificação ❌❄️"
+    text: "Refrigerar o azeite de oliva faz com que ele solidifique e crie cristais brancos. Esse ciclo destrói o sabor premium e os nutrientes como o ácido oleico. Mantenha em temperatura ambiente (14-18 °C)."
+  - name: "Evite luz solar direta e use garrafas escuras — Conservação em Temp. Ambiente (365Dias) 🫙"
+    text: "A luz ultravioleta é a principal causa de rancidez em óleos vegetais. Se o azeite vier em garrafa plástica transparente, embrulhe-a com papel alumínio ou mude para uma garrafa de vidro escuro para proteger da luz."
+  - name: "Guarde em armário fresco longe de fontes de calor — Proteção contra calor 🌬️"
+    text: "Não guarde o azeite perto do fogão ou forno por conveniência. A exposição ao calor dobra a velocidade de oxidação. Guarde em um armário fresco e escuro, longe de fontes de calor."
 faqs:
   - question: "My olive oil solidified and turned white in the fridge. Is it spoiled?"
     answer: "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
@@ -33,30 +33,30 @@ Você guardou o azeite na geladeira para conservar por mais tempo? Refrigerar fa
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Não armazene na geladeira — Evite a solidificação ❌❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Refrigerar o azeite de oliva faz com que ele solidifique e crie cristais brancos. Esse ciclo destrói o sabor premium e os nutrientes como o ácido oleico. Mantenha em temperatura ambiente (14-18 °C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Evite luz solar direta e use garrafas escuras — Conservação em Temp. Ambiente (365Dias) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    A luz ultravioleta é a principal causa de rancidez em óleos vegetais. Se o azeite vier em garrafa plástica transparente, embrulhe-a com papel alumínio ou mude para uma garrafa de vidro escuro para proteger da luz.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde em armário fresco longe de fontes de calor — Proteção contra calor 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Não guarde o azeite perto do fogão ou forno por conveniência. A exposição ao calor dobra a velocidade de oxidação. Guarde em um armário fresco e escuro, longe de fontes de calor.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Você guardou o azeite na geladeira para conservar por mais tempo? Refrigerar fa
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Reglas cruciales e precauções</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Feche bem a tampa após cada uso</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      O azeite oxida em contato com o oxigênio, aumentando a acidez e perdendo propriedades. Feche sempre bem a tampa.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mantenha longe de fontes de calor como fogão e forno</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      O calor do fogão acelera a oxidação e estraga a qualidade. Guarde o azeite dentro de um armário fresco e escuro.
     </p>
   </div>
 </div>

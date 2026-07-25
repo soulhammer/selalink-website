@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Wrap unwashed spinach in newspaper/paper towels — Moisture control 📦"
+    text: "Spinach leaves rot quickly when exposed to moisture. Keep the soil on and wrap them gently in newspaper or paper towels to prevent condensation and keep them dry."
+  - name: "Store upright with roots pointing down — Refrigerated Storage (4Days) 🌿"
+    text: "If stored flat, spinach leaves consume energy trying to grow upwards, causing them to wilt quickly. Place them upright, roots down, in a container or glass within the crisper drawer."
+  - name: "Isolate completely from ethylene-producing fruits — Protection 🛡️"
+    text: "Spinach is highly sensitive to ethylene gas. Storing it near apples, pears, or tomatoes turns the leaves yellow and causes quick decay. Keep them in completely separate compartments."
 faqs:
   - question: "Can I wash spinach before storing it in the fridge?"
     answer: "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
@@ -33,30 +33,30 @@ Have you ever bought a bunch of spinach, left it tied in a plastic bag, and thro
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Wrap unwashed spinach in newspaper/paper towels — Moisture control 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Spinach leaves rot quickly when exposed to moisture. Keep the soil on and wrap them gently in newspaper or paper towels to prevent condensation and keep them dry.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Store upright with roots pointing down — Refrigerated Storage (4Days) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    If stored flat, spinach leaves consume energy trying to grow upwards, causing them to wilt quickly. Place them upright, roots down, in a container or glass within the crisper drawer.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Isolate completely from ethylene-producing fruits — Protection 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Spinach is highly sensitive to ethylene gas. Storing it near apples, pears, or tomatoes turns the leaves yellow and causes quick decay. Keep them in completely separate compartments.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Have you ever bought a bunch of spinach, left it tied in a plastic bag, and thro
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Crucial Rules and Cautions</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Dry moisture completely to prevent mushiness</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Excess water on green leaves causes rapid decay. Wrap spinach in paper towels to absorb moisture condensation.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Store spinach upright with roots pointing down</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Vegetables keep fresh longer when stored in their natural growing position. Keeping them upright prevents leaf bruising.
     </p>
   </div>
 </div>

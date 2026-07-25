@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Ne pas conserver au réfrigérateur — Éviter la solidification ❌❄️"
+    text: "Mettre l'huile d'olive au frigo la fait figer et blanchir. Ce cycle altère ses arômes délicats et détruit les nutriments comme l'acide oléique. Conservez-la à température ambiante (14-18 °C)."
+  - name: "Éviter le soleil et utiliser des bouteilles sombres — Stockage à Temp. Ambiante (365Jours) 🫙"
+    text: "Les ultraviolets sont le premier facteur de rancissement des huiles. Si l'huile est vendue en flacon transparent, entourez-le de papier aluminium ou transférez l'huile dans une bouteille en verre teinté."
+  - name: "Ranger dans un placard frais loin des sources de chaleur — Chaleur 🌬️"
+    text: "Ne rangez pas l'huile près des plaques ou du four par commodité. La chaleur double la vitesse d'oxydation de l'huile. Placez-la dans un placard frais et sombre, loin de toute source de chaleur."
 faqs:
   - question: "My olive oil solidified and turned white in the fridge. Is it spoiled?"
     answer: "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
@@ -33,30 +33,30 @@ Avez-vous mis votre huile d'olive au frigo pour la garder fraîche ? Le froid la
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ne pas conserver au réfrigérateur — Éviter la solidification ❌❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Mettre l'huile d'olive au frigo la fait figer et blanchir. Ce cycle altère ses arômes délicats et détruit les nutriments comme l'acide oléique. Conservez-la à température ambiante (14-18 °C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Éviter le soleil et utiliser des bouteilles sombres — Stockage à Temp. Ambiante (365Jours) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Les ultraviolets sont le premier facteur de rancissement des huiles. Si l'huile est vendue en flacon transparent, entourez-le de papier aluminium ou transférez l'huile dans une bouteille en verre teinté.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Ranger dans un placard frais loin des sources de chaleur — Chaleur 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Ne rangez pas l'huile près des plaques ou du four par commodité. La chaleur double la vitesse d'oxydation de l'huile. Placez-la dans un placard frais et sombre, loin de toute source de chaleur.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Avez-vous mis votre huile d'olive au frigo pour la garder fraîche ? Le froid la
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Règles cruciales et précautions</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Fermez soigneusement le bouchon après chaque utilisation</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      L'huile d'olive s'oxyde au contact de l'oxygène, augmentant son acidité et perdant ses bienfaits. Fermez toujours fermement le bouchon.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Éloignez des sources de chaleur comme les plaques et le four</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      La chaleur des plaques accélère l'oxydation et gâte l'huile. Stockez-la dans un placard de cuisine frais et sombre.
     </p>
   </div>
 </div>

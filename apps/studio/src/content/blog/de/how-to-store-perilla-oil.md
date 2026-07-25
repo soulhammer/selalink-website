@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & MFDS</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Immer im Kühlschrank bei 0–4 °C lagern — Kühllagerung (30Tage)"
+    text: "Im Gegensatz zu Sesamöl enthält Perillaöl kein Sesamol (ein natürliches Antioxidans) und besteht zu über 60 % aus Omega-3-Fettsäuren, weshalb es bei Raumtemperatur rasch verdirbt. Stets im Kühlschrank (0–4 °C) lagern."
+  - name: "Dunkle Glasflaschen nutzen und Luftkontakt minimieren — Sauerstoff- und UV-Schutz 🫙"
+    text: "Licht und Sauerstoff beschleunigen die Oxidation von Omega-3. Perillaöl sollte in braunen oder grünen Glasflaschen gelagert werden. Nach Gebrauch den Deckel stets fest verschließen."
+  - name: "Perillaöl und Sesamöl im Verhältnis 8:2 mischen — Natürliches Konservierungsmittel 🫒"
+    text: "Mischen Sie Perillaöl mit 20 % Sesamöl. Die im Sesamöl enthaltenen natürlichen Antioxidantien (wie Lignane) schützen das Perillaöl vor Oxidation und verdoppeln die Haltbarkeit."
 faqs:
   - question: "Does mixing perilla oil with sesame oil increase its shelf life?"
     answer: "Yes, sesame oil contains sesamol, a powerful antioxidant. Mixing perilla oil and sesame oil in an 8:2 ratio and storing it can double the preservation period of perilla oil."
@@ -33,30 +33,30 @@ Lagern Sie Perillaöl im Küchenschrank oder der Vorratskammer wie Oliven- oder 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Immer im Kühlschrank bei 0–4 °C lagern — Kühllagerung (30Tage)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Im Gegensatz zu Sesamöl enthält Perillaöl kein Sesamol (ein natürliches Antioxidans) und besteht zu über 60 % aus Omega-3-Fettsäuren, weshalb es bei Raumtemperatur rasch verdirbt. Stets im Kühlschrank (0–4 °C) lagern.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Dunkle Glasflaschen nutzen und Luftkontakt minimieren — Sauerstoff- und UV-Schutz 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Licht und Sauerstoff beschleunigen die Oxidation von Omega-3. Perillaöl sollte in braunen oder grünen Glasflaschen gelagert werden. Nach Gebrauch den Deckel stets fest verschließen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Perillaöl und Sesamöl im Verhältnis 8:2 mischen — Natürliches Konservierungsmittel 🫒</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Mischen Sie Perillaöl mit 20 % Sesamöl. Die im Sesamöl enthaltenen natürlichen Antioxidantien (wie Lignane) schützen das Perillaöl vor Oxidation und verdoppeln die Haltbarkeit.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Lagern Sie Perillaöl im Küchenschrank oder der Vorratskammer wie Oliven- oder 
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wichtige Warnhinweise zur Lagerung</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Perillaöl ausnahmslos im Kühlschrank lagern</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Sauerstoff und Licht lassen Perillaöl schnell verderben. Gut verschlossen in dunklen Flaschen im Kühlschrank aufbewahren.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Mischung mit 20 % Sesamöl verdoppelt die Haltbarkeit</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Sesamöl ist reich an Sesamol und Sesamolin, natürlichen Antioxidantien, die das Perillaöl vor Ranzigkeit schützen.
     </p>
   </div>
 </div>

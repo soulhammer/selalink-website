@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>MFDS & USDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Jangan dicuci dan pertahankan tangkai 🍓"
+    text: "Mencuci stroberi atau membuang tangkainya akan merusak kulit, menyerap air, dan mempercepat pembusukan."
+  - name: "Alasi wadah dan pisahkan stroberi 📰"
+    text: "Letakkan tisu dapur di bagian bawah dan tata stroberi secara terpisah agar tidak saling menekan."
+  - name: "Simpan tanpa segel kedap udara ❄️"
+    text: "Gunakan wadah berlubang atau biarkan kantong sedikit terbuka agar tidak terbentuk embun."
 faqs:
   - question: "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?"
     answer: "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
@@ -33,30 +33,30 @@ Pernahkah Anda membeli stroberi segar yang indah...
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jangan dicuci dan pertahankan tangkai 🍓</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Mencuci stroberi atau membuang tangkainya akan merusak kulit, menyerap air, dan mempercepat pembusukan.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Alasi wadah dan pisahkan stroberi 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Letakkan tisu dapur di bagian bawah dan tata stroberi secara terpisah agar tidak saling menekan.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan tanpa segel kedap udara ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Gunakan wadah berlubang atau biarkan kantong sedikit terbuka agar tidak terbentuk embun.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Pernahkah Anda membeli stroberi segar yang indah...
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Aturan Penting dan Peringatan</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Segera buang stroberi yang memar ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Satu buah stroberi yang memar dan mengeluarkan cairan akan memicu pertumbuhan jamur...
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Simpan di rak bagian dalam dengan suhu rendah...</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Bagian pintu kulkas mengalami fluktuasi suhu...
     </p>
   </div>
 </div>

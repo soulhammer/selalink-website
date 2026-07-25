@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>美国食品药品监督管理局(FDA) & 美国农务部(USDA)</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "吸干表面油脂与水分 — 冷藏储存 (2天) 🍣"
+    text: "生三文鱼表面的水分和鱼油是细菌滋生的主要温床。储存前必须用厨房纸巾按压三文鱼的正反面，彻底吸干表面水分。"
+  - name: "涂抹柠檬汁或料酒 — 天然防腐防变质 🍋"
+    text: "在吸干水分的三文鱼表面刷上一层薄薄的柠檬汁或少许料酒（或味醂）。酸和酒精成分能起到天然防腐剂的作用，有效抑制微生物繁殖和脂肪氧化。"
+  - name: "用保鲜膜紧密包裹排出空气 — 冷冻储存 (90天) 📦"
+    text: "将处理妥当的三文鱼用保鲜膜超紧密包裹，不留一丝空气，然后放入密封袋中进行双重密封。这样可以在冷藏下保鲜2天，在冷冻状态下安全保存长达60天。"
 faqs:
   - question: "三文鱼表面颜色变暗淡了还可以吃吗？"
     answer: "如果生三文鱼失去鲜粉红色而变得灰暗或发黄，说明已经开始氧化和滋生细菌。如果手感发黏或有酸味，绝对不能食用。"
@@ -33,30 +33,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">吸干表面油脂与水分 — 冷藏储存 (2天) 🍣</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    生三文鱼表面的水分和鱼油是细菌滋生的主要温床。储存前必须用厨房纸巾按压三文鱼的正反面，彻底吸干表面水分。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">涂抹柠檬汁或料酒 — 天然防腐防变质 🍋</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    在吸干水分的三文鱼表面刷上一层薄薄的柠檬汁或少许料酒（或味醂）。酸和酒精成分能起到天然防腐剂的作用，有效抑制微生物繁殖和脂肪氧化。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">用保鲜膜紧密包裹排出空气 — 冷冻储存 (90天) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    将处理妥当的三文鱼用保鲜膜超紧密包裹，不留一丝空气，然后放入密封袋中进行双重密封。这样可以在冷藏下保鲜2天，在冷冻状态下安全保存长达60天。
   </p>
 </div>
 
@@ -67,9 +67,19 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">储存注意事项</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">用厨房纸彻底擦干表面的水分和血水</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      鱼肉表面渗出的水气和液体会产生腥味并加速腐烂。包装前必须用厨房纸巾彻底擦干。
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">尽量排除空气进行真空包装或密封</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      接触氧气会导致脂肪酸败并使肉质变柴。用保鲜膜真空般紧密包裹能隔绝氧气接触。
     </p>
   </div>
 </div>

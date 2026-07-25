@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Nicht im Kühlschrank lagern — Erstarrung verhindern ❌❄️"
+    text: "Das Kühlen von Olivenöl führt dazu, dass es erstarrt und weiß auskristallisiert. Dieser Vorgang beeinträchtigt den Geschmack und zerstört Nährstoffe wie Ölsäure. Bei Raumtemperatur (14–18 °C) lagern."
+  - name: "Direktes Sonnenlicht vermeiden und dunkle Flaschen nutzen — Lagerung bei Raumtemperatur (365Tage) 🫙"
+    text: "UV-Licht ist der Hauptgrund für das Ranzigwerden von Pflanzenölen. Wenn das Olivenöl in einer klaren Flasche geliefert wird, umwickeln Sie diese mit Alufolie oder füllen Sie das Öl in eine dunkle Glasflasche um."
+  - name: "In einem kühlen Schrank fern von Hitzequellen lagern — Hitzeschutz 🌬️"
+    text: "Lagern Sie Olivenöl nicht aus Bequemlichkeit neben dem Herd oder Ofen. Hitze verdoppelt die Oxidationsgeschwindigkeit. Bewahren Sie es in einem kühlen, dunklen Schrank auf."
 faqs:
   - question: "My olive oil solidified and turned white in the fridge. Is it spoiled?"
     answer: "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
@@ -33,30 +33,30 @@ Haben Sie Olivenöl im Kühlschrank gelagert, um es länger frisch zu halten? Da
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Nicht im Kühlschrank lagern — Erstarrung verhindern ❌❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Das Kühlen von Olivenöl führt dazu, dass es erstarrt und weiß auskristallisiert. Dieser Vorgang beeinträchtigt den Geschmack und zerstört Nährstoffe wie Ölsäure. Bei Raumtemperatur (14–18 °C) lagern.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Direktes Sonnenlicht vermeiden und dunkle Flaschen nutzen — Lagerung bei Raumtemperatur (365Tage) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    UV-Licht ist der Hauptgrund für das Ranzigwerden von Pflanzenölen. Wenn das Olivenöl in einer klaren Flasche geliefert wird, umwickeln Sie diese mit Alufolie oder füllen Sie das Öl in eine dunkle Glasflasche um.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In einem kühlen Schrank fern von Hitzequellen lagern — Hitzeschutz 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Lagern Sie Olivenöl nicht aus Bequemlichkeit neben dem Herd oder Ofen. Hitze verdoppelt die Oxidationsgeschwindigkeit. Bewahren Sie es in einem kühlen, dunklen Schrank auf.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Haben Sie Olivenöl im Kühlschrank gelagert, um es länger frisch zu halten? Da
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wichtige Warnhinweise zur Lagerung</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Verschluss nach jedem Gebrauch fest verschließen</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Olivenöl oxidiert bei Kontakt mit Sauerstoff, wodurch der Säuregehalt steigt und Nährstoffe verloren gehen. Luftzufuhr immer stoppen.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Von Hitzequellen wie Herd und Ofen fernhalten</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Die Wärme am Herd beschleunigt die Oxidation und ruiniert die Qualität. Olivenöl in einem kühlen, dunklen Küchenschrank lagern.
     </p>
   </div>
 </div>

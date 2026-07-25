@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPostLayout.astro"
-title: "Wie man Butter frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber"
-description: "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Butter basierend auf offiziellen Sicherheitsrichtlinien."
+title: "Butter richtig frisch halten: Wissenschaftlicher Lagerungsratgeber"
+description: "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Butter basierend auf offiziellen Sicherheitsrichtlinien."
 pubDate: "2026-06-03"
 updatedDate: "2026-06-03"
 category: "FreshSnap"
@@ -11,20 +11,24 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Original-Alufolie behalten — Licht & Sauerstoff blockieren 📦"
+    text: "Die Original-Alufolie der Butter schützt hervorragend vor UV-Licht und Sauerstoff und bewahrt das Fett vor Oxidation. 💡 Lagerungstipp: Wenn Sie die Alufolie entfernen und Butter in transparente Plastikdosen legen, beschleunigen Licht und Luft das Ranzigwerden drastisch. Belassen Sie die Butter in der Alufolie."
+  - name: "In Ziploc-Beutel oder Dose doppelt versiegeln — Geruchsaufnahme verhindern 📰"
+    text: "Das Milchfett in der Butter bindet flüchtige Aromastoffe aus der Luft extrem schnell. 💡 Lagerungstipp: Geben Sie die in Alufolie gewickelte Butter zusätzlich in einen luftdichten Ziploc-Beutel oder eine undurchsichtige Dose. So verhindern Sie zuverlässig, dass Gerüche von Knoblauch, Fisch oder Käse in die Butter einziehen."
+  - name: "Portionieren, in Backpapier wickeln und einfrieren — Gefrierlagerung (90 Tage) ❄️"
+    text: "Für die Langzeitlagerung schneiden Sie die Butter mit einem trockenen Messer in passende Kochportionen (z. B. 10–20 g). 💡 Lagerungstipp: Wickeln Sie die Stücke einzeln in Backpapier, damit sie nicht zusammenkleben, und frieren Sie sie im Ziploc-Beutel bei unter -18 °C ein. Bei Bedarf lassen sich einzelne Würfel schnell bei Raumtemperatur auftauen."
 faqs:
-  - question: "Sollte man Lebensmittel vor dem Kühlen waschen?"
-    answer: "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
-  - question: "Wie lagert man beschädigte Stellen?"
-    answer: "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+  - question: "Kann man Butter bei Raumtemperatur aufbewahren?"
+    answer: "Gesalzene Butter kann wegen der konservierenden Wirkung des Salzes 1–2 Tage bei Raumtemperatur stehen, zur Vermeidung von Fettoxidation wird jedoch die Kühlung empfohlen. Ungesalzene Butter ist extrem anfällig für Mikroben und Oxidation und muss immer im Kühlschrank (0–4 °C) gelagert werden."
+  - question: "Meine Butter ist außen dunkelgelb geworden und riecht alt. Kann ich sie noch verwenden?"
+    answer: "Die dunkelgelbe Verfärbung entsteht durch Fettverbrennung/Oxidation an Licht und Luft. Ist nur die Oberfläche leicht betroffen, können Sie die äußere Schicht dünn abschneiden und die innere Butter nutzen. Riecht sie jedoch stark ranzig oder schmeckt bitter, ist sie verdorben und sollte entsorgt werden."
 ---
 
-Haben Sie schon einmal Butter in der Kühlschranktür gelassen, nur um festzustellen, dass sie gelb wurde und Gerüche annahm? Heute teilt FreshSnap Tipps.
+Haben Sie Butter schon einmal in der Kühlschranktür gelagert, nur um festzustellen, dass die Oberfläche austrocknete, dunkelgelb wurde und alte Kühlschrankgerüche annahm? 🧈
+
+Butter besteht zu über 80 % aus Milchfett und reagiert extrem empfindlich auf Sauerstoff, Licht und Temperaturschwankungen. Zudem wirkt Fett wie ein Schwamm für fremde Geruchsstoffe. Falsche Lagerung führt zu Fettoxidation (Ranzigwerden) und Geschmacksverlust.
+
+Heute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von USDA und MFDS basiert, um den reinen Geschmack und die Frische Ihrer Butter über 90 Tage lang zu bewahren. 🛡️
 
 ---
 
@@ -33,43 +37,53 @@ Haben Sie schon einmal Butter in der Kühlschranktür gelassen, nur um festzuste
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Original-Alufolie behalten — Licht & Sauerstoff blockieren 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Die Original-Alufolie der Butter schützt hervorragend vor UV-Licht und Sauerstoff und bewahrt das Fett vor Oxidation. 💡 Lagerungstipp: Wenn Sie die Alufolie entfernen und Butter in transparente Plastikdosen legen, beschleunigen Licht und Luft das Ranzigwerden drastisch. Belassen Sie die Butter in der Alufolie.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">In Ziploc-Beutel oder Dose doppelt versiegeln — Geruchsaufnahme verhindern 📰</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Das Milchfett in der Butter bindet flüchtige Aromastoffe aus der Luft extrem schnell. 💡 Lagerungstipp: Geben Sie die in Alufolie gewickelte Butter zusätzlich in einen luftdichten Ziploc-Beutel oder eine undurchsichtige Dose. So verhindern Sie zuverlässig, dass Gerüche von Knoblauch, Fisch oder Käse in die Butter einziehen.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Portionieren, in Backpapier wickeln und einfrieren — Gefrierlagerung (90 Tage) ❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Für die Langzeitlagerung schneiden Sie die Butter mit einem trockenen Messer in passende Kochportionen (z. B. 10–20 g). 💡 Lagerungstipp: Wickeln Sie die Stücke einzeln in Backpapier, damit sie nicht zusammenkleben, und frieren Sie sie im Ziploc-Beutel bei unter -18 °C ein. Bei Bedarf lassen sich einzelne Würfel schnell bei Raumtemperatur auftauen.
   </p>
 </div>
 
 ---
 
-## 2. Wichtige Warnhinweise zur Lagerung
+## 2. Wichtige Regeln und Warnhinweise zur Lagerung
 
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Wichtige Warnhinweise zur Lagerung</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Lagern Sie Butter nicht in der Kühlschranktür ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      In der Kühlschranktür schwanken die Temperaturen beim Öffnen am stärksten. Diese ständigen Temperaturwechsel schwächen die Fettstruktur und beschleunigen das Ranzigwerden. Lagern Sie Butter auf einem kühlen, tiefen Innenregal (0–4 °C) bei konstanter Kälte.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Achten Sie beim Schneiden auf Sauberkeit und Trockenheit 🧈</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Das Schneiden mit einem feuchten oder unsauberen Messer bringt Feuchtigkeit und Keime an die Schnittfläche, was zu Schimmel oder bakterieller Fettoxidation führt. Verwenden Sie zum Portionieren stets ein sauberes, trockenes Messer.
     </p>
   </div>
 </div>
@@ -81,21 +95,21 @@ Haben Sie schon einmal Butter in der Kühlschranktür gelassen, nur um festzuste
   
   <details class="group border-b border-slate-200/60 dark:border-slate-800/60 pb-4 mb-4 cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Sollte man Lebensmittel vor dem Kühlen waschen?</span>
+      <span>Kann man Butter bei Raumtemperatur aufbewahren?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr.
+      Gesalzene Butter kann wegen der konservierenden Wirkung des Salzes 1–2 Tage bei Raumtemperatur stehen, zur Vermeidung von Fettoxidation wird jedoch die Kühlung empfohlen. Ungesalzene Butter ist extrem anfällig für Mikroben und Oxidation und muss immer im Kühlschrank (0–4 °C) gelagert werden.
     </p>
   </details>
 
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>Wie lagert man beschädigte Stellen?</span>
+      <span>Meine Butter ist außen dunkelgelb geworden und riecht alt. Kann ich sie noch verwenden?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen.
+      Die dunkelgelbe Verfärbung entsteht durch Fettverbrennung/Oxidation an Licht und Luft. Ist nur die Oberfläche leicht betroffen, können Sie die äußere Schicht dünn abschneiden und die innere Butter nutzen. Riecht sie jedoch stark ranzig oder schmeckt bitter, ist sie verdorben und sollte entsorgt werden.
     </p>
   </details>
 </div>

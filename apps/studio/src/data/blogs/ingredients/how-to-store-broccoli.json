@@ -11,10 +11,10 @@
       "ko": {
         "title": "브로콜리 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 브로콜리의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>RDA & USDA & EFSA</strong>",
-        "intro": "초록빛 브로콜리를 냉장고에 넣어두었다가 며칠 만에 노랗게 꽃이 피거나 물러서 고약한 냄새가 난 경험 있으시죠? 오늘 FreshSnap에서는 미국 농무부(USDA)의 가이드를 기반으로, 브로콜리의 수분을 유지하면서 노화를 차단하는 과학적 보관법을 전합니다.",
+        "authority": "<strong>농촌진흥청(RDA) & 미국 농무부(USDA) & 유럽식품안전청(EFSA)</strong>",
+        "intro": "싱싱한 초록빛 브로콜리를 냉장고에 보관해 두었다가 며칠 만에 노랗게 꽃이 피거나 짓물러서 고약한 냄새가 난 경험 있으시죠? 🥦\n\n브로콜리는 봉오리가 촘촘하게 뭉쳐 있는 십자화과 채소로, 호흡 작용이 매우 활발하고 에틸렌 가스와 열을 스스로 분출하는 특성이 있습니다. 습도 조절을 잘못하면 촘촘한 꽃봉오리 사이에 세균이 증식하거나 빠르게 노화되어 영양소가 파괴됩니다.\n\n오늘 FreshSnap에서는 미국 농무부(USDA)와 농촌진흥청(RDA)의 가이드를 바탕으로, 브로콜리의 수분을 유지하면서 엽록소 파괴를 막아주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "Do not store in airtight wrapping ⚠️",
-            "desc": "Broccoli releases ethylene and heat. Tight wrapping traps moisture and gases, accelerating yellowing and spoilage."
+            "title": "밀폐용기나 랩으로 꽁꽁 싸서 보관하지 마세요 ⚠️",
+            "desc": "브로콜리는 보관 중에도 계속 호흡하며 에틸렌 가스와 수분을 분출합니다. 비닐이나 랩으로 완벽히 밀봉하면 갇힌 습기와 가스로 인해 꽃봉오리가 순식간에 노랗게 변하고 세균성 부패가 급격히 진행됩니다."
           },
           {
-            "title": "Do not wash before storage 🥦",
-            "desc": "Water easily gets trapped inside the dense buds, creating the perfect environment for mold and bacterial growth."
+            "title": "보관하기 전에 절대 물로 씻지 마세요 🥦",
+            "desc": "브로콜리의 촘촘한 꽃봉오리 입자에 물이 들어가면 내부까지 잘 마르지 않습니다. 수분이 갇힌 상태로 냉장고에 들어가면 곰팡이와 미생물이 번식하기 가장 좋은 환경이 되므로, 세척은 반드시 조리 직전에 하셔야 합니다."
           }
         ],
         "steps": [
           {
-            "name": "대 부분을 젖은 키친타월로 감싸기 — 줄기 수분 공급 🥦",
-            "text": "브로콜리의 줄기(대)는 송이 부분으로 수분을 공급해주는 주요 통로입니다. 줄기 밑동 부분을 약간 잘라낸 후, 물에 적셔 꽉 짠 키친타월로 줄기 부분을 감싸서 수분을 지속적으로 공급해 주어야 신선함이 오래 유지됩니다."
+            "name": "줄기 밑동을 살짝 자르고 젖은 키친타월로 감싸기 — 줄기 수분 공급 🥦",
+            "text": "브로콜리의 단단한 줄기(대)는 상단 꽃봉오리로 수분과 영양을 전달하는 핵심 통로입니다. 💡 보관 팁: 줄기 밑동 끝부분을 0.5cm 정도 살짝 잘라낸 후, 물에 적셔 꽉 짠 키친타월로 줄기 밑동을 감싸주세요. 마치 꽃병에 꽃을 꽂아두듯 지속적으로 수분을 공급해주어 꽃봉오리가 수분을 잃고 피어나는 것을 막아줍니다."
           },
           {
-            "name": "통기성이 있는 비닐백에 가볍게 담기 — 가스 방출용 기공 확보 📦",
-            "text": "수분이 너무 꽉 막히면 곰팡이가 생기고, 너무 열려있으면 수분이 날아갑니다. 구멍이 여러 개 뚫린 perforated 비닐백(또는 지퍼백의 지퍼를 살짝 열어둔 상태)에 넣어 브로콜리가 숨을 쉴 수 있도록 통기성을 확보합니다."
+            "name": "숨구멍이 있는 비닐백에 담아 통기성 확보하기 — 에틸렌 및 수분 통제 📦",
+            "text": "수분이 완전히 차단되면 말라버리고, 너무 갇히면 물러집니다. 💡 보관 팁: 구멍이 여러 개 뚫린 타공 비닐백이나, 일반 지퍼백의 입구를 1/3 정도 열어둔 상태로 브로콜리를 담아주세요. 적정한 습도를 유지하면서 브로콜리가 배출하는 에틸렌 가스와 호흡 열이 자연스럽게 빠져나가게 해줍니다."
           },
           {
-            "name": "냉장고 야채실에 세워서 보관하기 — 직립 냉장 보관 (7일) ❄️",
-            "text": "브로콜리를 눕히지 말고 줄기가 아래로, 꽃송이가 위를 향하도록 똑바로 세워 보관합니다. 식물의 생장 방향과 일치하게 보관해야 스트레스로 인한 노화와 영양소 손실을 최소화할 수 있습니다."
+            "name": "냉장고 야채실에 줄기가 아래로 오도록 세워서 보관하기 — 직립 냉장 보관 (7일) ❄️",
+            "text": "브로콜리를 옆으로 눕혀 보관하면 중력의 영향을 받아 위로 일어서려는 중력 반응(굴중성) 때문에 에너지를 소비하며 급격히 노화됩니다. 💡 보관 팁: 꽃봉오리가 위로, 줄기가 아래로 향하도록 똑바로 세워 냉장고 야채실(0~2℃)에 보관하세요. 식물의 자연 생장 방향을 유지해주면 중력 스트레스와 영양소 손실을 최소화할 수 있습니다."
           }
         ],
         "faqs": [
           {
-            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
-            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+            "question": "브로콜리가 노랗게 꽃이 피고 변색되었는데 먹어도 되나요?",
+            "answer": "노랗게 변한 것은 엽록소가 파괴되고 꽃봉오리가 피어난 현상으로, 독성이 생간 것은 아니라 먹어도 무방합니다. 하지만 비타민 C 등 주요 영양소가 크게 감소하고 식감이 푸석해지며 약간의 씁쓸한 맛이 날 수 있으므로 가급적 노랗게 변하기 전에 빨리 드시는 것이 좋습니다."
           },
           {
-            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
-            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+            "question": "브로콜리를 장기 보관하기 위해 데쳐서 냉동하는 올바른 방법은 무엇인가요?",
+            "answer": "브로콜리를 한 입 크기로 잘라 소금물에 씻은 뒤, 끓는 물에 30~45초간 짧게 데쳐냅니다(블랜칭). 데친 직후 얼음물에 넣어 열기를 식히고, 키친타월로 수분을 완벽히 제거한 후 지퍼백에 넣어 냉동(-18℃ 이하) 보관하면 영양소와 아삭한 식감을 유지하며 최대 1년까지 보관할 수 있습니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Broccoli Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Broccoli based on official safety guidelines.",
+        "title": "How to Keep Broccoli Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for broccoli based on official safety guidelines.",
         "authority": "<strong>RDA & USDA & EFSA</strong>",
-        "intro": "Have you ever bought broccoli only to find it turn yellow and lose its crunch in a few days? Today, FreshSnap shares scientific storage tips to keep broccoli fresh and green.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "intro": "Have you ever stored a fresh green head of broccoli in the fridge, only to find it turning yellow, blooming, or developing a bad odor in just a few days? 🥦\n\nBroccoli is a cruciferous vegetable with densely clustered flower buds. It has a very high respiration rate and actively emits ethylene gas and respiratory heat. Poor humidity control can cause bacteria to multiply within the dense florets or lead to rapid nutrient loss through yellowing.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on recommendations from the USDA and RDA to preserve moisture, prevent chlorophyll breakdown, and keep your broccoli crisp and green. 🛡️",
+        "whyTitle": "Why Store Broccoli This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Broccoli",
           "Scientifically Proven Storage Guide",
@@ -73,48 +73,48 @@
         ],
         "cautions": [
           {
-            "title": "Do not store in airtight wrapping ⚠️",
-            "desc": "Broccoli releases ethylene and heat. Tight wrapping traps moisture and gases, accelerating yellowing and spoilage."
+            "title": "Never store in airtight bags or plastic wrap ⚠️",
+            "desc": "Broccoli continues to respire actively after harvest, releasing heat and ethylene gas. Completely sealing it in plastic wrap or airtight containers traps heat and moisture, accelerating yellowing and bacterial soft rot."
           },
           {
-            "title": "Do not wash before storage 🥦",
-            "desc": "Water easily gets trapped inside the dense buds, creating the perfect environment for mold and bacterial growth."
+            "title": "Never wash before storing 🥦",
+            "desc": "Water easily gets trapped deep inside the dense floret clusters and does not dry well. Storing wet broccoli in the fridge creates the ultimate environment for mold and bacterial growth. Always wash broccoli right before cooking."
           }
         ],
         "steps": [
           {
-            "name": "Wrap the stem with a damp paper towel — Moisture supply 🥦",
-            "text": "The stem of the broccoli is the main path that feeds moisture to the head. Cut a tiny bit off the bottom of the stem, wrap it with a damp paper towel to supply constant moisture."
+            "name": "Trim the stem base and wrap with a damp paper towel — Stem Hydration 🥦",
+            "text": "The thick stem of broccoli is the main channel supplying water and nutrients to the upper florets. 💡 Storage Tip: Trim about 0.5 cm off the bottom of the stem and wrap the stem base with a wet paper towel that has been wrung out. Supplying continuous moisture like flowers in a vase prevents the florets from drying out and blooming."
           },
           {
-            "name": "Place loosely in a perforated plastic bag — Airflow 📦",
-            "text": "Excessive sealing causes mold, while too much open air dries it out. Put broccoli in a perforated plastic bag or leave a Ziploc bag slightly open to allow proper airflow."
+            "name": "Place loosely in a perforated plastic bag — Ensure Proper Airflow 📦",
+            "text": "Blocking air entirely causes rot, while exposing it completely causes wilting. 💡 Storage Tip: Place broccoli in a perforated plastic bag with holes, or leave a Ziploc bag open by about one-third. This maintains ideal humidity while allowing respiratory heat and ethylene gas to escape freely."
           },
           {
-            "name": "Store upright in the crisper drawer — Vertical refrigeration (7 Days) ❄️",
-            "text": "Do not lay the broccoli down. Store it standing upright with the stem at the bottom. Storing it in its natural growth direction minimizes aging stress and nutrient loss."
+            "name": "Store upright in the crisper drawer — Vertical Cold Storage (7 Days) ❄️",
+            "text": "Laying broccoli on its side triggers a gravitropic response as the plant expends energy trying to stand upward against gravity, leading to rapid aging. 💡 Storage Tip: Store broccoli standing straight up with the florets on top and the stem on the bottom in the crisper drawer (0–2°C). Maintaining its natural growth direction minimizes gravity stress and nutrient decay."
           }
         ],
         "faqs": [
           {
-            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
-            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+            "question": "My broccoli has turned yellow and bloomed. Is it still safe to eat?",
+            "answer": "Yes, yellowing is simply the breakdown of chlorophyll and the opening of flower buds; it is not toxic and remains safe to eat. However, key nutrients like Vitamin C decrease significantly, the texture becomes woody, and a slightly bitter taste may develop. It is best to consume broccoli before it turns yellow."
           },
           {
-            "question": "How should I handle and store bruised or damaged parts?",
-            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+            "question": "What is the correct way to blanch and freeze broccoli for long-term storage?",
+            "answer": "Cut broccoli into bite-sized florets, wash in saltwater, and blanch in boiling water for 30 to 45 seconds. Plunge immediately into ice water to stop the cooking, pat completely dry with paper towels, and pack into freezer Ziploc bags. Stored below -18°C, blanched broccoli retains its crispness and nutrients for up to 1 year."
           }
         ]
       },
       "ja": {
-        "title": "ブロッコリーの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくブロッコリーの最適な保存温度、保管方法、保存期間について解説します。",
+        "title": "ブロッコリーを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくブロッコリーの最適な保存温度、保管方法、保存期間をご確認ください。",
         "authority": "<strong>農村振興庁(RDA) & 米国農務省(USDA) & EFSA</strong>",
-        "intro": "ブロッコリーを買ってきたのに、数日もしないうちに黄色くなってしまったり、シャキシャキ感がなくなってしまったりしたことはありませんか？本日, FreshSnapではブロッコリーの鮮度と緑色を保つ保存方法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "intro": "新鮮で緑色のブロッコリーを冷蔵庫に入れておいたら、数日で黄色く花が咲いてしまったり、傷んで嫌なニオイがして困った経験はありませんか？🥦\n\nブロッコリーは小さなつぼみが密集したアブラナ科の野菜で、呼吸作用が非常に活発で、自らエチレンガスと呼吸熱を放出する特性があります。湿度管理を怠ると、密集したつぼみの間に雑菌が繁殖したり、急速に黄変して栄養素が破壊されてしまいます。\n\n本日FreshSnapでは、米国農務省（USDA）および農村振興庁（RDA）のガイドラインに基づき、ブロッコリーの水分を保ちながら葉緑素の破壊を防ぐ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
+        "cautionTitle": "保存時の必須ルールと注意事項",
         "tags": [
           "ブロッコリー",
           "科学的に検証された保存ガイド",
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "密閉して保管しないでください ⚠️",
-            "desc": "ブロッコリーはエチレンガスや熱を放出します。完全に密閉すると湿気やガスがこもり、黄変や腐敗が急速に進みます。"
+            "title": "密閉容器やラップで完全に包んで保存しないでください ⚠️",
+            "desc": "ブロッコリーは保存中も呼吸を続け、エチレンガスと熱を放出します。ポリ袋やラップで完全に密閉すると、こもった湿気とガスによってつぼみが一気に黄色くなり、細菌性の腐敗が急激に進みます。"
           },
           {
-            "title": "保存前に絶対に洗わないでください 🥦",
-            "desc": "密集したつぼみの間に水が入ると抜けにくく、カビや雑菌が繁殖する大きな原因になります。"
+            "title": "保存する前に絶対に水洗いしないでください 🥦",
+            "desc": "ブロッコリーの密集したつぼみに水が入ると、奥まで乾きにくくなります。水分が残ったまま冷蔵庫に入れると、カビや雑菌が繁殖する絶好の環境になるため、洗うのは必ず調理の直前にしてください。"
           }
         ],
         "steps": [
           {
-            "name": "茎の部分を濡らしたペーパーで包む — 水分補給 🥦",
-            "text": "ブロッコリーの茎は、上のつぼみ部分へ水分を送る重要な役目を持っています。茎の切り口を少し切り落とし, 濡らしたキッチンペーパーで包んで水分を与え続けましょう."
+            "name": "茎の切り口を少し切り落とし濡らしたペーパーで包む — 茎からの水分補給 🥦",
+            "text": "ブロッコリーの固い茎は、上のつぼみへ水分と栄養を運ぶ重要なルートです。💡保存のコツ：茎の先端を0.5cmほど切り落とし、水で濡らして固く絞ったキッチンペーパーで茎の切り口を包んでください。花瓶に花を活けるように持続的に水分を与えることで、つぼみが乾燥して花が咲くのを防ぎます。"
           },
           {
-            "name": "通気性の良い袋にふんわりと入れる —  ガスの放出 📦",
-            "text": "完全に密閉するとカビが生え、開けすぎると乾燥します。穴の開いたビニール袋に入れるか、チャックを少し開けた状態で置き、呼吸を妨げないようにします。"
+            "name": "穴あきポリ袋に入れて通気性を確保する — エチレンと湿気のコントロール 📦",
+            "text": "水分を遮断しすぎると乾燥し、こもりすぎると傷んでしまいます。💡保存のコツ：数箇所穴を開けたポリ袋や、ジッパーを1/3ほど開けたジッパーバッグにブロッコリーを入れてください。適度な湿度を保ちながら、ブロッコリーが排出するエチレンガスと熱を自然に逃がします。"
           },
           {
-            "name": "立てた状態で野菜室で冷やす — 立てて保存 (7日間) ❄️",
-            "text": "ブロッコリーを横にせず、茎を下にしてまっすぐ立てて保管します。育ったのと同じ向きに置くことで、ストレスによる黄ばみや栄養分の減少を防げます."
+            "name": "野菜室に茎を下にして立てて保存する — 直立冷蔵保存 (7日間) ❄️",
+            "text": "ブロッコリーを横にして保存すると、重力に逆らって上に向起起き上がろうとする屈重性反応によってエネルギーを消費し、急速に老化します。💡保存のコツ：つぼみを上に、茎を下にしてまっすぐ立てた状態で冷蔵庫の野菜室（0〜2℃）に保存してください。自然の生育方向を維持することで重力ストレスと栄養損失を最小限に抑えられます。"
           }
         ],
         "faqs": [
           {
-            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
-            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+            "question": "ブロッコリーが黄色く変色して花が咲いてしまいましたが、食べられますか？",
+            "answer": "黄色くなったのは葉緑素が分解されて花が咲いた現象であり、毒性が生じたわけではないため食べても問題ありません。ただし、ビタミンCなどの主要栄養素が大きく減少し、食感がパサついて少し苦味が出るため、できるだけ黄色くなる前にお召し上がりいただくのが理想的です。"
           },
           {
-            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
-            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+            "question": "ブロッコリーを長期保存するために下茹でして冷凍する正しい方法は何ですか？",
+            "answer": "ブロッコリーを一口大に切り、塩水で洗った後、沸騰したお湯で30〜45秒間短時間下茹で（ブランチング）します。茹でたらすぐに氷水につけて熱を取り、ペーパータオルで水分を完全に拭き取ってから冷凍用ジッパーバッグに入れて冷凍（-18℃以下）保存すると、栄養と食感を保ったまま最大1年間保存できます。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存西兰花：科学储存指南",
+        "title": "如何保持西兰花新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解西兰花的最佳储存温度、方式和保鲜时长。",
         "authority": "<strong>韩国农村振兴厅(RDA) & 美国农务部(USDA) & EFSA</strong>",
-        "intro": "您是否曾买回西兰花，却发现它在几天内变黄并失去脆嫩口感？今天，FreshSnap为您分享保持西兰花翠绿清脆的科学储存窍门。",
+        "intro": "您是否曾买回新鲜翠绿的西兰花放入冰箱，结果仅过几天花蕾就发黄开花，甚至变软散发出难闻的气味？🥦\n\n西兰花属于花蕾紧密簇拥的十字花科蔬菜，采收后呼吸作用依然非常旺盛，并会主动释放乙烯气体与呼吸热。如果湿度控制不当，紧密的花蕾间极易滋生细菌，或者因急速变黄而破坏营养成分。\n\n今天FreshSnap基于美国农务部(USDA)和韩国农村振兴厅(RDA)的指南，为您带来3步科学保存秘诀，帮您保持水分、阻止叶绿素分解，让西兰花长久保持翠绿清脆。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "西兰花",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "切勿使用完全密封的包装 ⚠️",
-            "desc": "西兰花自身会释放乙烯和热量。完全密封会积聚湿气和气体，加速西兰花变黄和腐烂。"
+            "title": "切勿用保鲜膜或密封盒彻底封死 ⚠️",
+            "desc": "西兰花在储存期间会持续呼吸并释放乙烯气体与热量。如果用塑料膜或密封盒完全封死，积聚的湿气和气体加速花蕾变黄，并导致细菌性腐烂急剧发生。"
           },
           {
             "title": "储存前切勿用水清洗 🥦",
-            "desc": "密集的头部花蕾极易积水，这会为霉菌和细菌的滋生创造完美环境。"
+            "desc": "西兰花密集的花蕾颗粒一旦进水，内部极难晾干。带水放入冰箱会为霉菌和微生物的滋生提供绝佳环境，因此务必在烹饪前才进行清洗。"
           }
         ],
         "steps": [
           {
-            "name": "用湿纸巾包裹西兰花茎部 — 维持水分 🥦",
-            "text": "用湿纸巾包裹粗茎以维持水分。"
+            "name": "切除少量茎部末端并用湿纸巾包裹 — 茎部补水 🥦",
+            "text": "西兰花粗壮的茎部是向上方花蕾输送水分和营养的核心通道。💡储存小贴士：将茎部末端切除约0.5厘米，用浸湿后拧干的厨房纸巾包裹住茎部末端。像插花一样持续补水，可以防止花蕾因失水而散开开花。"
           },
           {
-            "name": "放入带孔保鲜袋内略微密封 — 保持空气流通 📦",
-            "text": "装入带孔保鲜袋以防霉变。"
+            "name": "装入带透气孔的保鲜袋中 — 控制乙烯与湿度 📦",
+            "text": "水分完全阻隔会导致干枯，过分密封则会导致烂软。💡储存小贴士：将西兰花放入打有多个小孔的透气保鲜袋，或将普通拉链袋的封口敞开三分之一。在维持适宜湿度的同时，让西兰花排出的乙烯气体和热量自然散发。"
           },
           {
-            "name": "竖立放入蔬菜保鲜盒 — 竖立冷藏 (7天) ❄️",
-            "text": "竖立放入冰箱以保持新鲜。"
+            "name": "竖立放入冰箱蔬菜保鲜抽屉 — 竖立冷藏 (7天) ❄️",
+            "text": "如果将西兰花横放，由于植物向上生长的负重力性（向重力性），西兰花会消耗能量试图向上挺直，从而加速衰老。💡储存小贴士：将花蕾朝上、茎部朝下竖直放入冰箱保鲜抽屉（0~2℃）。维持其自然生长方向，能最大程度减少重力应激与营养流失。"
           }
         ],
         "faqs": [
           {
-            "question": "把食材放进冰箱前一定要用水洗吗？",
-            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+            "question": "西兰花变黄开花后还能吃吗？",
+            "answer": "变黄是叶绿素分解和花蕾开放的自然现象，并未产生毒素，因此仍可食用。但此时维生素C等主要营养成分已大幅减少，口感会变柴且微带苦味，建议最好在变黄前尽早食用。"
           },
           {
-            "question": "碰伤或腐烂的部分应该如何处理和保存？",
-            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+            "question": "为了长期保存，焯水后冷冻西兰花的正确方法是什么？",
+            "answer": "将西兰花切成小朵，用盐水洗净后，放入沸水中烫30~45秒（焯水）。捞出后立即浸入冰水中冷却以止熟，用厨房纸巾彻底吸干水分，装入冷冻拉链袋中放入冷冻室（-18℃以下）。这样可以保留营养与清脆口感，保存长达1年。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Brócoli fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Brócoli según las directrices oficiales de seguridad.",
+        "title": "Cómo mantener el brócoli fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el brócoli según las directrices oficiales de seguridad.",
         "authority": "<strong>RDA & USDA & EFSA</strong>",
-        "intro": "¿Alguna vez compró brócoli y descubrió que se puso amarillo y perdió su textura crujiente en pocos días? Hoy, FreshSnap comparte consejos de almacenamiento para mantenerlo fresco y verde.",
+        "intro": "¿Alguna vez guardó una cabeza de brócoli verde y fresco en el refrigerador, solo para descubrir que en pocos días se ponía amarillo, florecía o desprendía mal olor? 🥦\n\nEl brócoli es una hortaliza crucífera con capullos densamente agrupados. Tiene una tasa de respiración muy alta y emite activamente gas etileno y calor. Un mal control de la humedad hace que las bacterias se multipliquen entre las flores o que pierda nutrientes rápidamente al amarillear.\n\nHoy, FreshSnap comparte una guía de conservación en 3 pasos respaldada por el USDA y la RDA para conservar la humedad, evitar la degradación de la clorofila y mantener su brócoli verde y crujiente. 🛡️",
         "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Brócoli",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "No almacene envolturas herméticas ⚠️",
-            "desc": "El brócoli libera etileno y calor. El empaque hermético atrapa la humedad y los gases, acelerando el amarillamiento y el deterioro."
+            "title": "Nunca guarde en bolsas herméticas ni con film transparente muy apretado ⚠️",
+            "desc": "El brócoli continúa respirando activamente tras la cosecha, liberando calor y gas etileno. Sellarlo por completo atrapa el calor y la humedad, acelerando el amarillamiento y la pudrición bacteriana."
           },
           {
-            "title": "No lave el brócoli antes de almacenarlo 🥦",
-            "desc": "El agua se atrapa fácilmente en las densas y pequeñas flores del brócoli, favoreciendo el moho y las bacterias."
+            "title": "Nunca lave el brócoli antes de guardarlo 🥦",
+            "desc": "El agua se atrapa fácilmente en lo profundo de sus densos capullos florales y tarda en secarse. Guardar brócoli húmedo en el refrigerador crea un entorno perfecto para el moho y las bacterias. Lávelo justo antes de cocinar."
           }
         ],
         "steps": [
           {
-            "name": "Envolver el tallo con papel húmedo 🥦",
-            "text": "Corte un poco la base del tallo y envuélvala con papel de cocina húmedo."
+            "name": "Corte la base del tallo y envuélvala con papel húmedo — Hidratación del tallo 🥦",
+            "text": "El tallo grueso del brócoli es la vía principal que aporta agua y nutrientes a las flores superiores. 💡 Consejo de almacenamiento: Recorte unos 0.5 cm de la base del tallo y envuélvalo con una toalla de papel húmeda bien escurrida. Suministrar humedad continua evita que los capullos se sequen y florezcan."
           },
           {
-            "name": "Colocar en bolsa perforada 📦",
-            "text": "Coloque el brócoli en una bolsa de plástico perforada para mantener el flujo de aire."
+            "name": "Coloque holgadamente en una bolsa plástica perforada — Flujo de aire 📦",
+            "text": "Bloquear el aire por completo causa pudrición, mientras que exponerlo al aire libre lo marchita. 💡 Consejo de almacenamiento: Guarde el brócoli en una bolsa con agujeros de ventilación o deje una bolsa Ziploc abierta en un tercio. Esto mantiene la humedad adecuada y permite que el etileno escape."
           },
           {
-            "name": "Almacenar verticalmente ❄️",
-            "text": "Guárdelo de pie con el tallo hacia abajo para reducir el estrés del envejecimiento."
+            "name": "Guarde de pie en el cajón de verduras — Almacenamiento vertical (7 días) ❄️",
+            "text": "Acostar el brócoli activa una respuesta gravitrópica en la que la planta gasta energía tratando de erguirse contra la gravedad, envejeciendo rápidamente. 💡 Consejo de almacenamiento: Coloque el brócoli erguido con las flores hacia arriba y el tallo hacia abajo en el cajón de verduras (0-2 °C) para reducir el estrés."
           }
         ],
         "faqs": [
           {
-            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
-            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+            "question": "Mi brócoli se puso amarillo y floreció, ¿sigue siendo seguro comerlo?",
+            "answer": "Sí, el amarillamiento es solo la descomposición de la clorofila y la apertura de las flores; no es tóxico y se puede comer. Sin embargo, los nutrientes como la vitamina C se reducen considerablemente, la textura se vuelve leñosa y puede tener un sabor ligeramente amargo. Es mejor consumirlo antes de que amarillee."
           },
           {
-            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
-            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+            "question": "¿Cuál es la forma correcta de escaldar y congelar el brócoli para conservarlo a largo plazo?",
+            "answer": "Corte el brócoli en ramos pequeños, lávelo en agua con sal y escáldelo en agua hirviendo durante 30 a 45 segundos. Sumérjalo de inmediato en agua con hielo para detener la cocción, séquelo completamente con toallas de papel y guárdelo en bolsas Ziploc para congelador a menos de -18 °C hasta por 1 año."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Brocoli frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Brocoli selon les directives de sécurité officielles.",
+        "title": "Comment conserver le brocoli frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le brocoli selon les directives officielles de sécurité.",
         "authority": "<strong>RDA & USDA & EFSA</strong>",
-        "intro": "Avez-vous déjà acheté du brocoli pour le voir jaunir et perdre son croquant en quelques jours ? Aujourd'hui, FreshSnap vous donne des astuces scientifiques pour le garder frais et vert.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "intro": "Avez-vous déjà conservé une tête de brocoli bien verte au réfrigérateur pour la retrouver jaunie, fleurie ou dégageant una mauvaise odeur en quelques jours ? 🥦\n\nLe brocoli est un légume crucifère aux fleurs denses et serrées. Il possède un taux de respiration très élevé et dégage activement du gaz éthylène et de la chaleur. Un mauvais contrôle de l'humidité favorise la multiplication des bactéries au cœur des fleurons ou provoque un jaunissement rapide.\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour maintenir l'hydratation, éviter la dégradation de la chlorophylle et garder votre brocoli vert et croquant. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Brocoli",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Ne conservez pas dans un emballage hermétique ⚠️",
-            "desc": "Le brocoli libère de l'éthylène et de la chaleur. Un emballage étanche emprisonne l'humidité et les gaz, accélérant le jaunissement et la décomposition."
+            "title": "Ne conservez jamais dans un emballage hermétique ⚠️",
+            "desc": "Le brocoli continue de respirer activement après la récolte en dégageant de la chaleur et de l'éthylène. L'emballer hermétiquement piège la chaleur et l'humidité, ce qui accélère le jaunissement et la pourriture bactérienne."
           },
           {
-            "title": "Ne lavez pas le brocoli avant de le stocker 🥦",
-            "desc": "L'eau s'infiltre facilement dans les inflorescences denses, créant un environnement idéal pour les moisissures et les bactéries."
+            "title": "Ne lavez jamais le brocoli avant de le stocker 🥦",
+            "desc": "L'eau s'infiltre facilement au cœur des fleurons denses et sèche très difficilement. Ranger du brocoli mouillé au réfrigérateur crée un environnement idéal pour les moisissures et bactéries. Lavez-le uniquement juste avant la cuisson."
           }
         ],
         "steps": [
           {
-            "name": "Envelopper la tige de papier humide 🥦",
-            "text": "Coupez un peu la base de la tige et enveloppez-la de papier absorbant humide."
+            "name": "Couper le bas de la tige et l'envelopper de papier humide — Hydratation 🥦",
+            "text": "La tige épaisse du brocoli est le canal principal qui achemine l'eau et les nutriments vers les fleurons. 💡 Astuce de conservation : Recoupez environ 0.5 cm à la base de la tige et enveloppez-la d'une feuille d'essuie-tout humide bien essorée. Ce maintien de l'humidité empêche les fleurs de sécher."
           },
           {
-            "name": "Placer dans un sac perforé 📦",
-            "text": "Mettez le brocoli dans un sac plastique perforé pour maintenir la circulation de l'air."
+            "name": "Placer dans un sachet en plastique perforé — Circulation d'air 📦",
+            "text": "Bloquer l'air provoque le pourrissement, tandis que le laisser à l'air libre le dessèche. 💡 Astuce de conservation : Placez le brocoli dans un sachet en plastique perforé ou laissez un sac congélation ouvert d'un tiers. Cela maintient une bonne humidité tout en laissant s'échapper l'éthylène."
           },
           {
-            "name": "Stocker verticalement ❄️",
-            "text": "Conservez-le debout, tige vers le bas, pour limiter le stress du vieillissement."
+            "name": "Conserver verticalement dans le bac à légumes — Stockage vertical (7 jours) ❄️",
+            "text": "Coucher le brocoli déclenche une réaction géotropique : la plante dépense de l'énergie pour tenter de se redresser, ce qui accélère son vieillissement. 💡 Astuce de conservation : Conservez le brocoli debout, tige vers le bas, dans le bac à légumes (0-2 °C) pour limiter le stress du légume."
           }
         ],
         "faqs": [
           {
-            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
-            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+            "question": "Mon brocoli a jauni et fleuri. Est-il toujours consommable ?",
+            "answer": "Oui, le jaunissement est simplement la dégradation de la chlorophylle et l'épanouissement des fleurs ; ce n'est pas toxique. Cependant, la teneur en vitamine C diminue fortement, la texture devient fibreuse et le goût un peu amer. Il est préférable de le consommer avant qu'il ne jaunisse."
           },
           {
-            "question": "Comment gérer et conserver les parties abîmées ?",
-            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+            "question": "Comment blanchir et congeler le brocoli pour une longue conservation ?",
+            "answer": "Coupez le brocoli en petits fleurons, lavez-les à l'eau salée et blanchissez-les 30 à 45 secondes dans l'eau bouillante. Plongez-les aussitôt dans l'eau glacée, séchez-les soigneusement avec du papier absorbant, puis mettez-les en sachets congélation à -18 °C. Il se conserve ainsi jusqu'à 1 an."
           }
         ]
       },
       "de": {
-        "title": "Wie man Brokkoli frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Brokkoli basierend auf offiziellen Sicherheitsrichtlinien.",
+        "title": "Brokkoli richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Brokkoli basierend auf offiziellen Sicherheitsrichtlinien.",
         "authority": "<strong>RDA & USDA & EFSA</strong>",
-        "intro": "Haben Sie schon einmal Brokkoli gekauft, nur um festzustellen, dass er nach wenigen Tagen gelb wurde und seine Knackigkeit verlor? Heute teilt FreshSnap Tipps, um ihn frisch und grün zu halten.",
+        "intro": "Haben Sie schon einmal einen frischen grünen Brokkoli im Kühlschrank gelagert, nur um festzustellen, dass er nach wenigen Tagen gelb wurde, blühte oder schlecht roch? 🥦\n\nBrokkoli ist ein Kreuzblütler mit dicht gepackten Blütenknospen. Er besitzt eine sehr hohe Atmungsrate und gibt aktiv Ethylengas und Atmungswärme ab. Mangelt es an Feuchtigkeitskontrolle, vermehren sich Bakterien in den dichten Röschen oder Nährstoffe gehen rasch verloren.\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Empfehlungen von USDA und RDA basiert, um Feuchtigkeit zu bewahren, den Chlorophyllabbau zu stoppen und Ihren Brokkoli knackig und grün zu halten. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Brokkoli",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Nicht luftdicht verpackt lagern ⚠️",
-            "desc": "Brokkoli gibt Ethylen und Wärme ab. Eine luftdichte Verpackung schließt Feuchtigkeit und Gase ein, was das Vergilben und Verderben beschleunigt."
+            "title": "Niemals in luftdichten Beuteln oder Folien verschließen ⚠️",
+            "desc": "Brokkoli atmet nach der Ernte aktiv weiter und gibt Wärme sowie Ethylengas ab. Ein lückenloses Verschließen staut Wärme und Feuchtigkeit, was das Vergilben und die bakterielle Fäulnis stark beschleunigt."
           },
           {
-            "title": "Brokkoli vor dem Lagern nicht waschen 🥦",
-            "desc": "Wasser sammelt sich leicht in den dichten Blütenknospen, was Schimmel- und Bakterienbildung begünstigt."
+            "title": "Brokkoli vor der Lagerung niemals waschen 🥦",
+            "desc": "Wasser setzt sich tief in den dichten Blütenknospen fest und trocknet kaum ab. Das Einlagern von feuchtem Brokkoli im Kühlschrank schafft den idealen Nährboden für Schimmel und Bakterien. Erst direkt vor dem Kochen waschen."
           }
         ],
         "steps": [
           {
-            "name": "Stiel mit feuchtem Papier umwickeln 🥦",
-            "text": "Schneiden Sie das Ende des Stiels leicht ab und umwickeln Sie es mit feuchtem Küchenpapier."
+            "name": "Stielende anschneiden und mit feuchtem Küchenpapier umwickeln — Stiel-Hydratisierung 🥦",
+            "text": "Der dicke Stiel des Brokkolis ist der Hauptkanal, der Wasser zu den Röschen leitet. 💡 Lagerungstipp: Schneiden Sie etwa 0,5 cm vom Stielende ab und umwickeln Sie es mit einem feuchten, gut ausgedrückten Küchenpapier. Die ständige Feuchtigkeitszufuhr verhindert das Austrocknen der Knospen."
           },
           {
-            "name": "In gelochten Beutel legen 📦",
-            "text": "Legen Sie Brokkoli in einen gelochten Plastikbeutel, um die Luftzirkulation zu gewährleisten."
+            "name": "Locker in einen gelochten Plastikbeutel legen — Luftzirkulation gewährleisten 📦",
+            "text": "Luftabschluss führt zu Fäulnis, freies Liegen lässt den Brokkoli welken. 💡 Lagerungstipp: Legen Sie den Brokkoli in einen Beutel mit Luftlöchern oder lassen Sie einen Ziploc-Beutel zu einem Drittel geöffnet. So bleibt die Feuchtigkeit erhalten und Ethylen kann entweichen."
           },
           {
-            "name": "Aufrecht lagern ❄️",
-            "text": "Lagern Sie ihn aufrecht mit dem Stiel nach unten, um Kältestress zu reduzieren."
+            "name": "Aufrecht im Gemüsefach lagern — Aufrechte Kühllagerung (7 Tage) ❄️",
+            "text": "Wird Brokkoli hingelegt, verbraucht die Pflanze Energie, um sich gegen die Schwerkraft aufzurichten, was das Altwerden beschleunigt. 💡 Lagerungstipp: Lagern Sie den Brokkoli aufrecht mit den Röschen nach oben im Gemüsefach (0–2 °C), um den Schwerkraftstress zu minimieren."
           }
         ],
         "faqs": [
           {
-            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
-            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+            "question": "Mein Brokkoli ist gelb geworden und hat blüht. Kann man ihn noch essen?",
+            "answer": "Ja, das Vergilben ist lediglich der Abbau von Chlorophyll und das Öffnen der Knospen; es ist nicht giftig. Allerdings nehmen Vitamine wie Vitamin C stark ab, die Textur wird holzig und der Geschmack leicht bitter. Es ist am besten, Brokkoli zu verzehren, bevor er gelb wird."
           },
           {
-            "question": "Wie lagert man beschädigte Stellen?",
-            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+            "question": "Wie blanchiert und friert man Brokkoli zur Langzeitlagerung richtig ein?",
+            "answer": "Schneiden Sie den Brokkoli in mundgerechte Röschen, waschen Sie sie in Salzwasser und blanchieren Sie sie 30 bis 45 Sekunden in kochendem Wasser. Schrecken Sie sie sofort in Eiswasser ab, tupfen Sie sie gründlich trocken und frieren Sie sie in Beuteln bei unter -18 °C ein. So hält er sich bis zu 1 Jahr."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Brócolis fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Brócolis com base nas diretrizes oficiais de segurança.",
+        "title": "Como conservar brócolis fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para brócolis com base em diretrizes oficiais de segurança.",
         "authority": "<strong>RDA & USDA & EFSA</strong>",
-        "intro": "Você já comprou brócolis e viu que ele ficou amarelo e perdeu a crocância em poucos dias? Hoje, o FreshSnap compartilha dicas de conservação para mantê-lo verde e fresco.",
+        "intro": "Você já guardou uma cabeça de brócolis verde e fresca na geladeira e em poucos dias viu que ela amarelou, floresceu ou soltou um cheiro desagradável? 🥦\n\nO brócolis é uma hortaliça crucífera com botões florais muito densos. Possui uma taxa de respiração altíssima e emite ativamente gás etileno e calor. Falhas no controle da umidade facilitam a proliferação de bactérias entre as flores e aceleram a perda de nutrientes.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para preservar a umidade, evitar a degradação da clorofila e manter seu brócolis verde e crocante. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Brócolis",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,48 +367,48 @@
         ],
         "cautions": [
           {
-            "title": "Não guarde em embalagens totalmente herméticas ⚠️",
-            "desc": "O brócolis libera etileno e calor. Embalagens herméticas retêm umidade e gases, acelerando o amarelamento e a deterioração."
+            "title": "Nunca guarde em sacos plásticos herméticos nem em filme plástico apertado ⚠️",
+            "desc": "O brócolis continua respirando ativamente após a colheita, liberando calor e gás etileno. Selá-lo completamente prende o calor e a umidade, acelerando o amarelamento e a podridão bacteriana."
           },
           {
-            "title": "Não lave o brócolis antes de guardar 🥦",
-            "desc": "A água se acumula facilmente entre as pequenas flores, criando um ambiente perfeito para o crescimento de mofo e bactérias."
+            "title": "Nunca lave o brócolis antes de guardar 🥦",
+            "desc": "A água se acumula facilmente no fundo dos botões florais densos e não seca bem. Guardar brócolis úmido na geladeira cria o ambiente perfeito para mofo e bactérias. Lave apenas antes de cozinhar."
           }
         ],
         "steps": [
           {
-            "name": "Embrulhar o caule com papel úmido 🥦",
-            "text": "Corte um pouco a base do caule e embrulhe com papel-toalha úmido."
+            "name": "Corte a base do caule e embrulhe com papel-toalha úmido — Hidratação do caule 🥦",
+            "text": "O caule grosso do brócolis é o canal principal que leva água e nutrientes para as flores superiores. 💡 Dica de conservação: Recorte cerca de 0,5 cm da base do caule e embrulhe com papel-toalha úmido bem espremido. Manter a umidade evita que os botões sequem e abram."
           },
           {
-            "name": "Colocar em saco perfurado 📦",
-            "text": "Coloque o brócolis em um saco plástico perfurado para manter a circulação de ar."
+            "name": "Coloque folgadamente em um saco plástico perfurado — Circulação de ar 📦",
+            "text": "Bloquear o ar causa apodrecimento, enquanto deixá-lo exposto o murcha. 💡 Dica de conservação: Guarde o brócolis em um saco plástico com furos de ventilação ou deixe um saco Ziploc um terço aberto. Isso mantém a umidade ideal e permite a saída do etileno."
           },
           {
-            "name": "Guardar verticalmente ❄️",
-            "text": "Guarde de pé com o caule para baixo para reduzir o estresse do envelhecimento."
+            "name": "Guarde em pé na gaveta de legumes — Armazenamento vertical (7 dias) ❄️",
+            "text": "Deitar o brócolis ativa uma resposta gravitrópica em que a planta gasta energia tentando se erguer contra a gravidade, envelhecendo rápido. 💡 Dica de conservação: Guarde o brócolis em pé com as flores para cima e o caule para baixo na gaveta de legumes (0-2 °C)."
           }
         ],
         "faqs": [
           {
-            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
-            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+            "question": "Meu brócolis amarelou e floresceu. Ainda é seguro comer?",
+            "answer": "Sim, o amarelamento é apenas a degradação da clorofila e a abertura das flores; não é tóxico e pode ser consumido. No entanto, nutrientes como a vitamina C diminuem bastante, a textura fica fibrosa e o sabor levemente amargo. É melhor consumi-lo antes que amarele."
           },
           {
-            "question": "Como tratar e guardar partes machucadas?",
-            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+            "question": "Qual é a forma correta de branquear e congelar o brócolis para longa conservação?",
+            "answer": "Corte o brócolis em pequenos floretes, lave em água com sal e afervente em água fervente por 30 a 45 segundos. Mergulhe imediatamente em água com gelo, seque bem com papel-toalha e guarde em sacos Ziploc para freezer a menos de -18 °C por até 1 ano."
           }
         ]
       },
       "id": {
         "title": "Cara Menyimpan Brokoli agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Brokoli berdasarkan pedoman keselamatan resmi.",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk brokoli berdasarkan pedoman keselamatan resmi.",
         "authority": "<strong>RDA & USDA & EFSA</strong>",
-        "intro": "Pernahkah Anda membeli brokoli segar namun warnanya menguning dan kehilangan tekstur renyahnya dalam beberapa hari? Hari ini, FreshSnap membagikan panduan penyimpanan brokoli.",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "intro": "Pernahkah Anda menyimpan satu kepala brokoli hijau segar di kulkas, lalu mendapati warnanya menguning, berbunga, atau berbau tidak sedap hanya dalam beberapa hari? 🥦\n\nBrokoli adalah sayuran krusifer dengan kuntum bunga yang rapat. Sayuran ini memiliki laju respirasi yang sangat tinggi dan secara aktif mengeluarkan gas etilen serta panas respirasi. Kontrol kelembapan yang buruk dapat menyebabkan bakteri berkembang biak di antara kuntum bunga atau memicu hilangnya nutrisi dengan cepat.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi USDA dan RDA untuk menjaga kelembapan, mencegah kerusakan klorofil, dan menjaga brokoli Anda tetap renyah dan hijau. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
           "Brokoli",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -416,36 +416,36 @@
         ],
         "cautions": [
           {
-            "title": "Jangan simpan dalam kemasan kedap udara ⚠️",
-            "desc": "Brokoli melepaskan gas etilen dan panas. Kemasan yang terlalu rapat akan mengunci kelembapan, mempercepat proses menguning..."
+            "title": "Jangan pernah menyimpan dalam plastik wrap atau wadah kedap udara ⚠️",
+            "desc": "Brokoli terus bernapas secara aktif setelah dipanen, melepaskan panas dan gas etilen. Menyegelnya secara rapat akan memerangkap panas dan kelembapan, mempercepat proses menguning dan pembusukan bakteri."
           },
           {
-            "title": "Jangan cuci brokoli sebelum disimpan 🥦",
-            "desc": "Air sangat mudah terperangkap di sela-sela kuntum bunga brokoli yang rapat, memicu jamur..."
+            "title": "Jangan pernah mencuci brokoli sebelum disimpan 🥦",
+            "desc": "Air sangat mudah terperangkap di bagian dalam kuntum bunga yang rapat dan sulit kering. Menyimpan brokoli basah di kulkas menciptakan lingkungan terbaik bagi pertumbuhan jamur dan bakteri. Cucilah brokoli tepat sebelum dimasak."
           }
         ],
         "steps": [
           {
-            "name": "Bungkus batang dengan tisu basah 🥦",
-            "text": "Potong sedikit bagian bawah batang dan bungkus dengan tisu dapur basah."
+            "name": "Potong sedikit bagian bawah batang lalu bungkus dengan tisu basah — Hidrasi Batang 🥦",
+            "text": "Batang brokoli yang tebal adalah saluran utama yang menyuplai air dan nutrisi ke kuntum bunga di atasnya. 💡 Tips Penyimpanan: Potong sekitar 0,5 cm bagian bawah batang, lalu bungkus dengan tisu dapur basah yang telah diperas. Pasokan kelembapan yang terus-menerus mencegah kuntum bunga mengering dan mekar."
           },
           {
-            "name": "Masukkan ke kantong berlubang 📦",
-            "text": "Masukkan brokoli ke kantong plastik berlubang agar udara tetap mengalir."
+            "name": "Masukkan ke dalam kantong plastik berlubang — Menjaga Sirkulasi Udara 📦",
+            "text": "Menutup udara sepenuhnya menyebabkan pembusukan, sementara membiarkannya terbuka membuat brokoli layu. 💡 Tips Penyimpanan: Masukkan brokoli ke dalam kantong plastik berlubang, atau biarkan kantong Ziploc terbuka sepertiga. Ini menjaga kelembapan ideal sambil membiarkan etilen keluar."
           },
           {
-            "name": "Simpan secara tegak ❄️",
-            "text": "Simpan secara tegak dengan batang di bawah untuk mengurangi stres penuaan."
+            "name": "Simpan secara tegak di laci sayuran kulkas — Simpan Tegak (7 Hari) ❄️",
+            "text": "Meletakkan brokoli secara miring/rebah memicu respons gravitropik di mana tanaman menghabiskan energi untuk berdiri melawan gravitasi, menyebabkannya cepat layu. 💡 Tips Penyimpanan: Simpan brokoli dalam posisi tegak dengan kuntum bunga di atas dan batang di bawah di laci sayuran (0–2°C)."
           }
         ],
         "faqs": [
           {
-            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
-            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+            "question": "Brokoli saya sudah menguning dan berbunga. Apakah masih aman untuk dimakan?",
+            "answer": "Ya, warna kuning hanyalah rusaknya klorofil dan mekar kuntum bunga; ini tidak beracun dan tetap aman dimakan. Namun, nutrisi utama seperti Vitamin C berkurang secara signifikan, teksturnya menjadi ulet/kayu, dan rasanya sedikit pahit. Sebaiknya konsumsi brokoli sebelum menguning."
           },
           {
-            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
-            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+            "question": "Bagaimana cara merebus sebentar (blanching) dan membekukan brokoli untuk penyimpanan jangka panjang?",
+            "answer": "Potong brokoli menjadi kuntum-kuntum kecil, cuci dengan air garam, lalu rebus sebentar (blanching) dalam air mendidih selama 30 hingga 45 detik. Segera masukkan ke dalam air es untuk menghentikan proses memasak, keringkan hingga benar-benar kering dengan tisu dapur, lalu kemas ke dalam kantong Ziploc freezer di bawah suhu -18°C hingga 1 tahun."
           }
         ]
       }

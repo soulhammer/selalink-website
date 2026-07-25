@@ -11,10 +11,10 @@
       "ko": {
         "title": "레몬 신선하게 보관하는 법: 과학적 보관 가이드",
         "description": "공인된 안전 가이드라인에 따른 레몬의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-        "authority": "<strong>USDA & FSA</strong>",
-        "intro": "레몬을 실온 바구니에 담아두었다가 돌멩이처럼 굳어버렸거나, 냉장고에서 푸른 곰팡이가 피어 버린 적 있으시죠? 오늘 FreshSnap에서는 미국 농무부(USDA)의 가이드를 기반으로, 레몬의 수분 소실을 완전히 봉쇄하여 한 달 넘게 싱싱한 즙을 짜낼 수 있는 보관법을 전합니다.",
+        "authority": "<strong>미국 농무부(USDA) & 영국 식품기준청(FSA) & 식품의약품안전처(MFDS)</strong>",
+        "intro": "레몬을 식탁 위 바구니에 올려두었다가 수분이 빠져 돌멩이처럼 딱딱해지거나, 냉장고에서 푸른 곰팡이가 슬어 버려본 경험 있으시죠? 🍋\n\n레몬은 두꺼운 껍질을 가지고 있지만, 표면의 미세 기공을 통해 수분이 끊임없이 증발하는 감귤류 과일입니다. 상온에 노출되면 일주일 만에 껍질이 오그라들고 즙이 마르며, 수분이 고인 밀폐 공간에서는 녹색·푸른 곰팡이(Penicillium)가 번식하기 쉽습니다.\n\n오늘 FreshSnap에서는 미국 농무부(USDA)와 영국 식품기준청(FSA)의 연구를 바탕으로, 레몬의 수분 소실을 완전히 차단하여 한 달 이상 즙이 넘치도록 신선하게 보관하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
         "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
         "guideTitle": "과학적으로 검증된 보관 가이드",
         "cautionTitle": "보관 시 필수 규칙 및 주의사항",
         "tags": [
@@ -24,48 +24,48 @@
         ],
         "cautions": [
           {
-            "title": "Isolate damaged lemons immediately ⚠️",
-            "desc": "Mold can quickly spread from one damaged lemon to others in a sealed container."
+            "title": "상처 나거나 무른 레몬은 즉시 격리하세요 ⚠️",
+            "desc": "상처가 나거나 썩기 시작한 레몬은 푸른곰팡이(Penicillium) 포자를 대량 방출합니다. 밀폐 봉지 안에 곰팡이 핀 레몬이 하나만 들어가도 주변의 멀쩡한 레몬 전체가 순식간에 부패하므로 구매 후 반드시 선별하여 따로 분리하세요."
           },
           {
-            "title": "Do not wash lemons before storage 🍋",
-            "desc": "Washing and scrubbing breaks the protective peel layer, making lemons rot much faster."
+            "title": "보관하기 전에 절대 물로 씻지 마세요 🍋",
+            "desc": "레몬을 수돗물로 씻거나 문질러 닦으면 표면의 천연 왁스 보호층이 손상되고 습기가 갇혀 곰팡이가 번식하기 가장 좋은 환경이 됩니다. 먼지는 마른 천으로 가볍게 털어내고 세척은 사용 직전에 하세요."
           }
         ],
         "steps": [
           {
-            "name": "표면의 잔여 물기 완벽하게 제거하기 — 수분 통제 🍋",
-            "text": "레몬 껍질은 두껍지만 물기가 남아있으면 곰팡이가 쉽게 증식하여 녹색 또는 흰색 곰팡이가 레몬 전체를 망쳐버립니다. 냉장고에 넣기 전 키친타월로 표면의 습기를 완벽하게 닦아 건조해야 합니다."
+            "name": "표면의 잔여 물기 완벽하게 제거하기 — 무름병 및 곰팡이 예방 🍋",
+            "text": "레몬 껍질은 두껍지만 표면에 수분이 고여 있으면 곰팡이균이 껍질 입자를 타고 유입됩니다. 💡 보관 팁: 겉면에 물기가 있는 레몬은 키친타월이나 마른 수건으로 완벽하게 닦아낸 뒤, 바람이 통하는 그늘에서 5~10분간 바짝 말려 습기를 제거해 주세요."
           },
           {
-            "name": "지퍼백에 넣어 공기를 빼고 밀봉하기 — 수분 유실 및 차단 📦",
-            "text": "물기를 닦은 레몬을 지퍼백에 나란히 넣고, 가급적 내부의 공기를 최대한 빼내어 진공에 가까운 상태로 지퍼백을 잠급니다. 공기 접촉을 통제해야 레몬 껍질을 통한 수분 방출을 억제할 수 있습니다."
+            "name": "밀폐 지퍼백에 넣어 공기를 빼고 밀봉하기 — 수분 증발 차단 📦",
+            "text": "공기와 계속 접촉하면 껍질 기공을 통해 내부 수분이 빠르게 배출됩니다. 💡 보관 팁: 건조된 레몬을 밀폐 지퍼백에 넣고 손으로 눌러 내부 공기를 최대한 빼낸 뒤 밀봉하세요. 공기 접촉을 최소화하면 껍질이 딱딱해지고 수축하는 현상을 원천 차단할 수 있습니다."
           },
           {
-            "name": "냉장고 중간 칸에 냉장 보관하기 — 저온 신선 보관 (30일) ❄️",
-            "text": "밀봉된 레몬 지퍼백은 냉장고 중간 칸(약 4℃)에 보관합니다. 이 방식은 레몬을 껍질째 그대로 보관하는 것보다 무려 4배 이상 수축 현상과 껍질 딱딱해짐을 예방하여 한 달 내내 레몬즙을 가득 머금게 해줍니다."
+            "name": "냉장고 중간 칸에 냉장 보관하기 — 저온 신선 보관 (30~45일) ❄️",
+            "text": "상온에 두는 것보다 밀봉 냉장 보관이 신선도를 몇 배 이상 연장합니다. 💡 보관 팁: 밀봉한 레몬 지퍼백을 온도가 일정하고 안정적인 냉장고 중간 선반(4℃)에 보관하세요. 껍질이 마르거나 돌처럼 딱딱해지지 않고 한 달 내내 즙이 가득한 상태를 유지해 줍니다."
           }
         ],
         "faqs": [
           {
-            "question": "식재료를 냉장고에 넣기 전에 반드시 물로 씻어야 하나요?",
-            "answer": "아닙니다. 보관 전 물로 씻으면 과도한 습기가 갇혀 곰팡이나 세균 번식이 촉진됩니다. 흙과 먼지만 마른 천으로 가볍게 털어내 보관하고, 씻는 것은 먹기 직전에 하는 것이 정석입니다."
+            "question": "레몬을 식탁 위 실온 바구니가 아닌 냉장고 지퍼백에 보관해야 하는 이유는?",
+            "answer": "실온(15~25℃)에 레몬을 방치하면 표면 기공을 통해 수분이 지속적으로 증발하여 1주일 만에 껍질이 딱딱해지고 과즙이 바짝 마릅니다. 반면 4℃ 냉장고에서 지퍼백으로 밀봉 보관하면 과실의 호흡과 수분 손실이 대폭 억제되어 1개월 이상 처음처럼 즙이 풍부하고 아삭한 상태가 유지됩니다."
           },
           {
-            "question": "상처 나거나 짓무른 부위는 어떻게 처리하고 보관해야 하나요?",
-            "answer": "상처 난 부위는 에틸렌과 수분 손실을 촉진하므로 즉시 따로 칼로 도려내고 먼저 드셔야 합니다. 상처 난 과일이나 채소를 일반 식재료와 섞어 두면 전체가 빠르게 썩게 됩니다."
+            "question": "사용하고 남은 썬 레몬이나 조각 레몬은 어떻게 보관해야 하나요?",
+            "answer": "자른 레몬은 단면이 공기에 노출되어 비타민 C 산화와 수분 증발이 급격히 일어납니다. 자른 단면에 랩을 공기 없이 밀착 밀봉하거나 작은 밀폐 용기에 단면이 바닥을 향하도록 담아 냉장 보관하고 3~5일 내에 사용하세요. 더 오래 보관하려면 슬라이스하여 냉동(-18℃ 이하) 보관 후 음료나 요리에 바로 넣으시면 됩니다."
           }
         ]
       },
       "en": {
-        "title": "How to Store Lemon Fresh: Scientific Storage Guide",
-        "description": "Learn the best storage temperature, methods, and duration for Lemon based on official safety guidelines.",
-        "authority": "<strong>USDA & FSA</strong>",
-        "intro": "Have you ever left lemons on the counter only to have them dry out and harden? Today, FreshSnap shares USDA-verified storage hacks to keep lemons juicy.",
-        "whyTitle": "Why store like this? Scientific facts",
-        "whyDesc": "Understanding the unique characteristics of each ingredient and following the proper storage method is extremely important for maintaining freshness and hygiene.",
+        "title": "How to Keep Lemons Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for lemons based on official safety guidelines.",
+        "authority": "<strong>USDA & FSA & MFDS</strong>",
+        "intro": "Have you ever left fresh lemons in a fruit bowl on the counter only to find them dry out, turn rock-hard, or grow blue-green mold in the fridge? 🍋\n\nAlthough lemons have a thick rind, they are citrus fruits whose moisture continuously evaporates through microscopic pores on their skin. When exposed to ambient room temperature, their skins shrink and juice dries up within a week. Conversely, trapped moisture in sealed spaces causes green and blue mold (Penicillium) to thrive.\n\nToday, FreshSnap shares a scientifically proven 3-step storage guide based on research from the USDA and FSA to lock in moisture, block mold, and keep your lemons bursting with juice for over a month. 🛡️",
+        "whyTitle": "Why Store Lemons This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
         "guideTitle": "Scientifically Proven Storage Guide",
-        "cautionTitle": "Crucial Rules and Cautions",
+        "cautionTitle": "Essential Storage Rules and Cautions",
         "tags": [
           "Lemon",
           "Scientifically Proven Storage Guide",
@@ -73,48 +73,48 @@
         ],
         "cautions": [
           {
-            "title": "Isolate damaged lemons immediately ⚠️",
-            "desc": "Mold can quickly spread from one damaged lemon to others in a sealed container."
+            "title": "Isolate damaged or soft lemons immediately ⚠️",
+            "desc": "Lemons that are bruised or starting to rot release large amounts of Penicillium mold spores. Even a single moldy lemon in a sealed bag can rapidly spoil all surrounding healthy lemons. Always sort and separate damaged lemons upon purchase."
           },
           {
-            "title": "Do not wash lemons before storage 🍋",
-            "desc": "Washing and scrubbing breaks the protective peel layer, making lemons rot much faster."
+            "title": "Never wash lemons before storage 🍋",
+            "desc": "Washing or scrubbing lemons under tap water removes their natural protective wax coating and traps surface moisture, creating an ideal environment for mold growth. Lightly wipe off dust with a dry cloth and wash lemons right before use."
           }
         ],
         "steps": [
           {
-            "name": "Remove all surface moisture completely — Moisture control 🍋",
-            "text": "Although lemons have a thick peel, any moisture left on them encourages green or white mold to grow. Always wipe them completely dry with a paper towel before refrigerating."
+            "name": "Remove all surface moisture completely — Prevent Mold & Soft Rot 🍋",
+            "text": "Despite their thick rind, any moisture left on the skin allows fungal spores to invade. 💡 Storage Tip: Thoroughly wipe off any moisture with paper towels or a dry cloth, then air-dry them in a shady, ventilated spot for 5–10 minutes before storing."
           },
           {
-            "name": "Place in a Ziploc bag and squeeze out air — Airtight seal 📦",
-            "text": "Put the dried lemons in a Ziploc bag, squeeze out as much air as possible, and seal it. Restricting air contact prevents moisture from evaporating through the peel."
+            "name": "Place in a Ziploc bag and squeeze out air — Airtight Seal & Moisture Retention 📦",
+            "text": "Continuous exposure to air accelerates water loss through rind pores. 💡 Storage Tip: Place dried lemons inside a Ziploc bag, press out as much excess air as possible, and seal tightly. Restricting air contact prevents the peel from shrinking and hardening."
           },
           {
-            "name": "Store in the middle shelf of the fridge — Low temperature (30 Days) ❄️",
-            "text": "Keep the sealed bag in the middle shelf of the refrigerator (approx. 4°C). This method preserves lemons up to 4 times longer than leaving them loose, preventing them from shrinking and hardening."
+            "name": "Store on the middle shelf of the refrigerator — Cold Storage (30–45 Days) ❄️",
+            "text": "Sealed refrigeration extends freshness several times longer than room temperature counter storage. 💡 Storage Tip: Keep the sealed lemon bag on the middle shelf of your refrigerator (approx. 4°C / 39°F). This prevents drying and hardening, keeping lemons juicy for over a month."
           }
         ],
         "faqs": [
           {
-            "question": "Should I wash ingredients with water before putting them in the refrigerator?",
-            "answer": "No, washing before storage traps excess moisture, promoting mold and bacterial growth. Wipe off dirt with a dry cloth and wash right before eating."
+            "question": "Why should lemons be stored in a refrigerated Ziploc bag rather than a fruit bowl at room temperature?",
+            "answer": "At room temperature (15–25°C / 59–77°F), lemons continuously lose moisture through rind pores, causing them to turn hard and dry out within a week. Storing them sealed in a Ziploc bag at 4°C slows fruit respiration and locks in moisture, maintaining maximum juiciness and freshness for over a month."
           },
           {
-            "question": "How should I handle and store bruised or damaged parts?",
-            "answer": "Damaged parts accelerate ethylene and moisture loss. Cut off the damaged parts immediately and eat them first. Leaving them with healthy ones will spoil the whole batch."
+            "question": "How should I store leftover cut or sliced lemons?",
+            "answer": "Cut lemons suffer rapid oxidation of Vitamin C and moisture loss when exposed to air. Wrap the cut surface tightly with plastic wrap (eliminating air gaps) or place cut-side down in a small airtight container and refrigerate for 3–5 days. For long-term storage, slice them and freeze below -18°C (-0.4°F) to drop directly into teas or beverages."
           }
         ]
       },
       "ja": {
-        "title": "レモンの鮮度を保つ保存方法：科学的保管ガイド",
-        "description": "公的安全基準に基づくレモンの最適な保存温度、保管方法、保存期間について解説します。",
-        "authority": "<strong>米国農務省(USDA) & FSA</strong>",
-        "intro": "レモンを常温に放置して、皮がカチカチに乾いてしまったことはありませんか？本日, FreshSnapではレモンの果汁をたっぷり残す保存方法をご紹介します。",
-        "whyTitle": "なぜこのように保存するのか？科学的な事実",
-        "whyDesc": "食材ごとの特性を理解し、正しい保存方法を実践することは、鮮度キープと衛生管理において非常に重要です。",
+        "title": "レモンを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくレモンの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "<strong>米国農務省(USDA) & FSA & 食品医薬品安全処(MFDS)</strong>",
+        "intro": "レモンを常温のフルーツバスケットに置いておいたら、水分が抜けてカチカチに硬くなったり、冷蔵庫で青カビが生えて捨ててしまった経験はありませんか？🍋\n\nレモンは皮が厚いですが、表皮の微細な気孔を通じて水分が絶えず蒸発する柑橘類です。常温に放置すると1週間で皮が縮んで果汁が干からび、水気がこもった密閉空間ではアオカビ属（Penicillium）のカビが繁殖しやすくなります。\n\n本日FreshSnapでは、米国農務省（USDA）および英国食品基準庁（FSA）の研究に基づき、レモンの水分蒸発を完全に防ぎ、1ヶ月以上ジューシーな果汁を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
         "guideTitle": "科学的に検証された保存ガイド",
-        "cautionTitle": "保存時の注意点",
+        "cautionTitle": "保存時の必須ルールと注意事項",
         "tags": [
           "レモン",
           "科学的に検証された保存ガイド",
@@ -122,48 +122,48 @@
         ],
         "cautions": [
           {
-            "title": "傷のあるレモンはすぐに分けてください ⚠️",
-            "desc": "密閉容器の中で傷のあるレモンがあると、そこからカビ胞子が発生し、他のレモンも一気に傷んでしまいます。"
+            "title": "傷ついたレモンや柔らかいレモンはすぐに隔離してください ⚠️",
+            "desc": "傷が入ったり腐り始めたレモンは、アオカビの胞子を大量に放出します。密閉袋の中にカビの生えたレモンが1個でもあると、周囲の正常なレモンまであっという間に腐敗するため、購入後は必ず選別して分けてください。"
           },
           {
-            "title": "保存前にレモンを水洗いしないでください 🍋",
-            "desc": "洗ってワックスや皮の油分を落としてしまうと, 皮の保護層が壊れ, カビが発生しやすくなります。"
+            "title": "保存する前に絶対に水洗いしないでください 🍋",
+            "desc": "レモンを水道水で洗ったりこすったりすると、表面の天然ワックス保護層が傷つき、湿気がこもってカビが繁殖する絶好の環境になります。汚れは乾いた布で拭き取り、洗うのは使用直前にしてください。"
           }
         ],
         "steps": [
           {
-            "name": "表面の水分を完全に拭き取る — カビ対策 🍋",
-            "text": "レモンの皮は厚いですが、水分がついたままだと緑色や白色のカビが発生しやすくなります。冷蔵庫に入れる前に、ペーパーで湿気を完全に拭き取ってください。"
+            "name": "表面の水分を完全に拭き取る — カビと傷みの防止 🍋",
+            "text": "レモンの皮は厚いですが、表面に水気が残っているとカビ菌が侵入しやすくなります。💡保存のコツ：水気のあるレモンはペーパータオルで完全に拭き取り、風通しの良い日陰で5〜10分間乾かして湿気を除去してください。"
           },
           {
-            "name": "ジッパーバッグに入れ、空気を抜いて密閉する — 密封保存 📦",
-            "text": "乾いたレモンをジッパーバッグに入れ、中の空気をできるだけ抜いて密閉します。空気との接触を減らすことで、皮から水分が抜けるのを防ぎます。"
+            "name": "ジッパーバッグに入れ空気を抜いて密閉する — 水分蒸発の遮断 📦",
+            "text": "空気と接触し続けると、皮の気孔から内部の水分が急速に抜けていきます。💡保存のコツ：乾いたレモンをジッパーバッグに入れ、手で押して中の空気をできるだけ抜いてから密閉してください。空気との接触を最小限に抑えることで、皮が硬く縮むのを防ぎます。"
           },
           {
-            "name": "冷蔵室の中段で冷蔵保存する —  低温保存 (30日間) ❄️",
-            "text": "密閉した袋を冷蔵室の中段（約4℃）に置きます。この方法は、そのまま置くより4倍以上も皮の乾燥や硬化を防ぎ, 1ヶ月後でもジューシーな果汁をキープできます."
+            "name": "冷蔵室の中段で冷蔵保存する — 低温鮮度保持 (30〜45日) ❄️",
+            "text": "常温に置くよりも、密閉して冷蔵保存する方が鮮度を何倍も長持ちさせます。💡保存のコツ：密閉したレモンの袋を温度が安定した冷蔵室の中段（約4℃）に保管してください。皮が乾燥したり硬くなったりせず、1ヶ月以上果汁たっぷりの状態を維持できます。"
           }
         ],
         "faqs": [
           {
-            "question": "食材を冷蔵庫に入れる前に必ず水洗いすべきですか？",
-            "answer": "いいえ。保存前に水洗いすると過度な湿気が閉じ込められ、カビや細菌の繁殖を促進します。汚れは乾いた布で拭き取り、食べる直前に洗ってください。"
+            "question": "レモンを常温のカゴではなく冷蔵庫のジッパーバッグで保存すべき理由は何ですか？",
+            "answer": "常温（15〜25℃）に放置すると、皮の気孔から水分が蒸発し続け、1週間で皮が固くなり果汁が干からびてしまいます。一方、4℃の冷蔵庫でジッパーバッグに入れて密閉保存すると、呼吸と水分蒸発が大幅に抑えられ、1ヶ月以上採れたてのようにジューシーで新鮮な状態が保たれます。"
           },
           {
-            "question": "傷んだり潰れたりした部分はどのように処理して保存すべきですか？",
-            "answer": "傷んだ部分はエチレンや水分損失を促進するため、すぐに切り落として先に消費してください。健康な食材と一緒に置くと全体が早く傷みます。"
+            "question": "使い残したカットレモンやスライスレモンはどのように保存すればいいですか？",
+            "answer": "カットしたレモンは断面が空気に触れてビタミンCの酸化と乾燥が急速に進みます。切り口にラップを空気が入らないよう密着させるか、小さな密閉容器に断面を下にして入れ、冷蔵庫で3〜5日以内に使い切ってください。長期保存したい場合はスライスして冷凍（-18℃以下）し、ドリンクや料理にそのまま入れてご使用ください。"
           }
         ]
       },
       "zh": {
-        "title": "如何保鲜储存柠檬：科学储存指南",
+        "title": "如何保持柠檬新鲜：科学储存指南",
         "description": "根据官方食品安全指南，了解柠檬的最佳储存温度、方式和保鲜时长。",
-        "authority": "<strong>美国农务部(USDA) & FSA</strong>",
-        "intro": "您是否曾把柠檬放在台面上，却发现它们很快变干变硬？今天，FreshSnap为您分享保住柠檬果汁的科学储存秘诀。",
+        "authority": "<strong>美国农务部(USDA) & FSA & 韩国食品医药品安全处(MFDS)</strong>",
+        "intro": "您是否曾把柠檬放在果盘里，结果水分干涸变得像石头一样硬，或者放在冰箱里却长出了青霉？🍋\n\n虽然柠檬皮较厚，但它属于表皮布满微小气孔、水分会不断蒸发的柑橘类水果。常温下暴露存放，短短一周表皮就会干缩、果汁枯竭；而在积水的密封环境中，青霉菌（Penicillium）极易爆发滋生。\n\n今天FreshSnap基于美国农务部(USDA)和英国食品标准局(FSA)的研究，为您带来3步科学保存秘诀，帮您彻底封锁水分蒸发，保持柠檬充沛果汁长达1个月以上。🛡️",
         "whyTitle": "为什么要这样储存？科学原理",
-        "whyDesc": "了解每种食材的独特特性并遵循正确的储存方法，对于保持新鲜度和卫生至关重要。",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
         "guideTitle": "科学验证的储存指南",
-        "cautionTitle": "储存注意事项",
+        "cautionTitle": "储存必需规则及注意事项",
         "tags": [
           "柠檬",
           "科学验证的储存指南",
@@ -171,48 +171,48 @@
         ],
         "cautions": [
           {
-            "title": "请立即隔离有破损的柠檬 ⚠️",
-            "desc": "在密封容器中，霉菌会迅速从一颗受损的柠檬扩散到其他完好的柠檬上。"
+            "title": "请立即隔离受损或变软的柠檬 ⚠️",
+            "desc": "带有伤痕或开始腐烂的柠檬会释放大量青霉菌孢子。密封袋中只要混入一颗发霉的柠檬，就会迅速导致周围所有完好的柠檬腐烂。购买后请务必筛选隔离。"
           },
           {
-            "title": "储存前切勿清洗柠檬 🍋",
-            "desc": "清洗和刷洗会破坏柠檬表皮的保护层，导致柠檬腐烂得更快。"
+            "title": "储存前切勿用水清洗 🍋",
+            "desc": "用水冲洗或刷洗柠檬会破坏其表皮的天然蜡质保护层，且残留的水分会导致霉菌滋生。表面的灰尘用干布轻轻擦拭即可，清洗请留到食用前进行。"
           }
         ],
         "steps": [
           {
-            "name": "彻底擦干表面的残留水分 — 控水防霉 🍋",
-            "text": "擦干柠檬表面水分以防发霉。"
+            "name": "彻底擦干表面的残留水分 — 防霉防软腐 🍋",
+            "text": "虽然柠檬皮厚，但表皮积水会让霉菌孢子顺着气孔侵入。💡储存小贴士：表面有水汽的柠檬请用厨房纸巾彻底擦干，并置于阴凉通风处晾干5~10分钟除去湿气。"
           },
           {
-            "name": "放入密封袋并排尽空气 — 密封阻干 📦",
-            "text": "将柠檬装入密封袋中并排尽空气。"
+            "name": "装入保鲜拉链袋并排尽空气密封 — 阻断水分蒸发 📦",
+            "text": "持续接触空气会导致水分通过果皮气孔快速散失。💡储存小贴士：将干燥的柠檬装入拉链袋，用手轻压排尽袋内空气后密封。尽量减少空气接触，能从源头防止果皮干缩发硬。"
           },
           {
-            "name": "将密封好的袋子存放在冰箱中层（约4℃）。这种方法比将柠檬直接散放在冰箱里能多延长数倍的保鲜期，防止果皮皱缩硬化，保住充沛果汁。",
-            "text": "放在冰箱中层以保持多汁。"
+            "name": "存放在冰箱中层隔板冷藏 — 低温保鲜 (30~45天) ❄️",
+            "text": "相比常温放置，密封冷藏能将保鲜期延长数倍。💡储存小贴士：将密封好的柠檬袋存放在温度恒定的冰箱中层隔板（约4℃）上。这能防止果皮缩硬，整整一个月都能保持汁水饱满。"
           }
         ],
         "faqs": [
           {
-            "question": "把食材放进冰箱前一定要用水洗吗？",
-            "answer": "不需要。保存前水洗会锁住过多水分，促进霉菌和细菌滋生。用干布擦去污垢，吃之前再洗即可。"
+            "question": "为什么柠檬应该存放在冰箱拉链袋中，而不是放在常温果盘里？",
+            "answer": "在常温（15~25℃）下，柠檬会通过表皮气孔不断蒸发水分，1周内就会果皮硬化、果汁干涸。而在4℃冰箱中用拉链袋密封保存，可以大幅减缓呼吸作用并锁住水分，保持长达1个月以上汁水充沛、新鲜如初。"
           },
           {
-            "question": "碰伤或腐烂的部分应该如何处理和保存？",
-            "answer": "受损部分会加速乙烯和水分流失，请立即切除并优先食用。如果与健康的食材混放，会导致整体快速腐烂。"
+            "question": "用剩的切开柠檬或柠檬片应该如何保存？",
+            "answer": "切开的柠檬切面暴露在空气中会导致维生素C快速氧化和水分流失。请用保鲜膜紧密贴合包裹切面，或切面朝下放入小型密封盒冷藏，并在3~5天内用完。如需长期保存，可切片后放入冷冻室（-18℃以下），使用时直接加入饮料或菜肴中。"
           }
         ]
       },
       "es": {
-        "title": "Cómo almacenar Limón fresco: Guía científica de conservación",
-        "description": "Descubra la mejor temperatura, métodos y duración para conservar Limón según las directrices oficiales de seguridad.",
-        "authority": "<strong>USDA & FSA</strong>",
-        "intro": "¿Alguna vez dejó limones en el mostrador y se secaron y endurecieron? Hoy, FreshSnap comparte trucos para mantenerlos jugosos.",
+        "title": "Cómo mantener los limones frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los limones según las directrices oficiales de seguridad.",
+        "authority": "<strong>USDA & FSA & MFDS</strong>",
+        "intro": "¿Alguna vez dejó limones en un frutero en el mostrador solo para ver cómo se secaban y endurecían como piedras, o criaban moho verde en el refrigerador? 🍋\n\nAunque el limón tiene una cáscara gruesa, es un cítrico cuya humedad se evapora continuamente a través de microporos en la piel. Expuesto a temperatura ambiente, la cáscara se arruga y el jugo se seca en una semana; por otro lado, en espacios cerrados con humedad atrapada, el moho azul-verde (Penicillium) florece rápidamente.\n\nHoy, FreshSnap comparte una guía científica en 3 pasos basada en investigaciones del USDA y la FSA para bloquear la evaporación de agua y mantener sus limones rebosantes de jugo por más de un mes. 🛡️",
         "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-        "whyDesc": "Comprender las características únicas de cada ingrediente y seguir el método de almacenamiento adecuado es fundamental para mantener la frescura y la higiene.",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
         "guideTitle": "Guía de almacenamiento científicamente probada",
-        "cautionTitle": "Reglas cruciales y precauciones",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
         "tags": [
           "Limón",
           "Guía de almacenamiento científicamente probada",
@@ -220,48 +220,48 @@
         ],
         "cautions": [
           {
-            "title": "Aísle los limones dañados de inmediato ⚠️",
-            "desc": "El moho puede propagarse rápidamente de un limón dañado a otros en un recipiente cerrado."
+            "title": "Aísle de inmediato los limones dañados o blandos ⚠️",
+            "desc": "Los limones magullados o que comienzan a pudrirse liberan masivamente esporas de moho Penicillium. Incluso un solo limón enmohecido en una bolsa sellada pudrirá rápidamente a los demás. Seleccione y separe los frutos dañados al comprar."
           },
           {
-            "title": "No lave los limones antes de almacenarlos 🍋",
-            "desc": "Lavar y fregar rompe la capa protectora de la piel, haciendo que los limones se pudran mucho más rápido."
+            "title": "Nunca lave los limones antes de almacenarlos 🍋",
+            "desc": "Lavar los limones bajo el grifo destruye su capa protectora de cera natural y atrapa la humedad superficial, creando el ambiente perfecto para el moho. Limpie el polvo en seco con un paño y lávelos justo antes de usar."
           }
         ],
         "steps": [
           {
-            "name": "Secar la humedad de la superficie 🍋",
-            "text": "Seque completamente la humedad con una toalla de papel antes de refrigerar."
+            "name": "Seque la humedad superficial por completo — Prevenga moho y pudrición 🍋",
+            "text": "Aunque la piel sea gruesa, el agua estancada permite que las esporas invadan la fruta. 💡 Consejo de almacenamiento: Seque cada gota de agua con toallas de papel y déjelos airear a la sombra durante 5–10 minutos antes de guardarlos."
           },
           {
-            "name": "Colocar en bolsa hermética y sellar 📦",
-            "text": "Ponga los limones en una bolsa Ziploc, retire todo el aire posible y séllela."
+            "name": "Coloque en una bolsa Ziploc y extraiga el aire — Sello hermético 📦",
+            "text": "El contacto continuo con el aire acelera la pérdida de agua por los poros. 💡 Consejo de almacenamiento: Guarde los limones secos en una bolsa Ziploc, extraiga todo el aire posible presionando con la mano y selle. Esto evita que la piel se encoja y endurezca."
           },
           {
-            "name": "Almacenar en estante medio ❄️",
-            "text": "Conserve la bolsa en el estante medio a unos 4°C para evitar que la piel se seque."
+            "name": "Guarde en el estante medio del refrigerador — Refrigeración (30–45 días) ❄️",
+            "text": "La refrigeración sellada prolonga la frescura varias veces más que la temperatura ambiente. 💡 Consejo de almacenamiento: Mantenga la bolsa Ziploc en el estante medio del refrigerador (aprox. 4 °C). Esto evita que la cáscara se seque, manteniéndolos jugosos por un mes."
           }
         ],
         "faqs": [
           {
-            "question": "¿Se deben lavar los alimentos antes de refrigerarlos?",
-            "answer": "No, lavarlos antes de guardarlos atrapa humedad, lo que favorece hongos y bacterias. Limpie el polvo en seco y lávelos justo antes de consumirlos."
+            "question": "¿Por qué se deben guardar los limones en una bolsa Ziploc refrigerada y no en un frutero a temperatura ambiente?",
+            "answer": "A temperatura ambiente (15–25 °C), los limones pierden humedad constantemente a través de sus poros, volviéndose duros y secos en una semana. Al sellarlos en una bolsa Ziploc a 4 °C, la respiración y la pérdida de agua se reducen al mínimo, conservando su textura jugosa por más de 1 mes."
           },
           {
-            "question": "¿Cómo tratar y almacenar partes golpeadas o dañadas?",
-            "answer": "Las partes dañadas aceleran el etileno y la pérdida de agua. Córtelas de inmediato y consúmalas primero. Dejarlas con el resto dañará todo el lote."
+            "question": "¿Cómo debo guardar un limón cortado o en rodajas que me haya sobrado?",
+            "answer": "El limón cortado sufre una rápida oxidación de la vitamina C y pérdida de agua. Envuelva la parte cortada firmemente con film plástico sin bolsas de aire o colóquelo boca abajo en un recipiente hermético pequeño y refrigere por 3–5 días. Para guardarlo más tiempo, córtelo en rodajas y congólelo a -18 °C para usarlo en bebidas."
           }
         ]
       },
       "fr": {
-        "title": "Comment conserver Citron frais : Guide scientifique de conservation",
-        "description": "Découvrez la température, les méthodes et la durée optimales de conservation pour Citron selon les directives de sécurité officielles.",
-        "authority": "<strong>USDA & FSA</strong>",
-        "intro": "Avez-vous déjà laissé des citrons sur le comptoir pour les retrouver secs et durs ? Aujourd'hui, FreshSnap vous donne des astuces pour les garder juteux.",
-        "whyTitle": "Pourquoi conserver ainsi ? Faits scientifiques",
-        "whyDesc": "Il est essentiel de comprendre les caractéristiques uniques de chaque ingrédient et de suivre la bonne méthode de conservation pour préserver la fraîcheur et l’hygiène.",
+        "title": "Comment conserver les citrons frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les citrons selon les directives officielles de sécurité.",
+        "authority": "<strong>USDA & FSA & MFDS</strong>",
+        "intro": "Avez-vous déjà laissé des citrons dans une corbeille à fruits sur le comptoir pour les retrouver durs comme de la pierre ou couverts de moisissure bleue au réfrigérateur ? 🍋\n\nBien que le citron possède un zeste épais, c'est un agrume dont l'eau s'évapore continuellement par les micropores de sa peau. À température ambiante, le zeste se flétrit et le jus s'assèche en une semaine ; en revanche, l'humidité piégée dans un espace fermé fait proliférer la moisissure bleue-verte (Penicillium).\n\nAujourd'hui, FreshSnap vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la FSA pour bloquer l'évaporation de l'eau et garder vos citrons gorgés de jus pendant plus d'un mois. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
         "guideTitle": "Guide de conservation scientifiquement prouvé",
-        "cautionTitle": "Règles cruciales et précautions",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
         "tags": [
           "Citron",
           "Guide de conservation scientifiquement prouvé",
@@ -269,48 +269,48 @@
         ],
         "cautions": [
           {
-            "title": "Isolez immédiatement les citrons abîmés ⚠️",
-            "desc": "La moisissure peut rapidement se propager d'un citron abîmé aux autres dans un récipient fermé."
+            "title": "Isolez immédiatement les citrons abîmés ou ramollis ⚠️",
+            "desc": "Les citrons meurtris ou commençant à pourrir émettent de grandes quantités de spores de moisissure Penicillium. Un seul citron moisi dans un sachet scellé gâtera très vite tous les autres. Triez toujours vos citrons dès l'achat."
           },
           {
-            "title": "Ne lavez pas les citrons avant le stockage 🍋",
-            "desc": "Laver et frotter rompt la couche protectrice de la peau, ce qui fait pourrir les citrons beaucoup plus vite."
+            "title": "Ne lavez jamais les citrons avant le stockage 🍋",
+            "desc": "Laver les citrons sous le robinet détruit la couche de cire naturelle protectrice et piège l'humidité superficielle, créant un milieu idéal pour les moisissures. Essuyez la poussière à sec et lavez-les uniquement au moment de servir."
           }
         ],
         "steps": [
           {
-            "name": "Sécher l'humidité de surface 🍋",
-            "text": "Essuyez complètement l'humidité avec un papier absorbant avant de réfrigérer."
+            "name": "Sécher l'humidité de surface complètement — Éviter la moisissure et la pourriture 🍋",
+            "text": "Même avec une peau épaisse, l'eau stagnante permet aux spores de pénétrer. 💡 Astuce de conservation : Épongez soigneusement chaque goutte d'eau avec de l'essuie-tout et laissez sécher à l'ombre 5 à 10 minutes avant de ranger."
           },
           {
-            "name": "Placer dans un sac hermétique et sceller 📦",
-            "text": "Mettez les citrons dans un sac Ziploc, videz l'air au maximum et fermez."
+            "name": "Placer dans un sac Ziploc et chasser l'air — Scellage hermétique 📦",
+            "text": "Le contact continu avec l'air accélère la perte d'eau par les pores. 💡 Astuce de conservation : Placez les citrons secs dans un sac Ziploc, chassez l'air en pressant avec la main et fermez hermétiquement. Cela empêche le zeste de se dessécher."
           },
           {
-            "name": "Stocker sur l'étagère du milieu ❄️",
-            "text": "Conservez le sac sur l'étagère du milieu à environ 4°C pour éviter que la peau ne se dessèche."
+            "name": "Conserver sur l'étagère du milieu du réfrigérateur — Stockage (30–45 jours) ❄️",
+            "text": "La réfrigération sous scellé prolonge la fraîcheur bien plus longtemps que la conservation à l'air libre. 💡 Astuce de conservation : Gardez le sac Ziploc sur l'étagère du milieu du réfrigérateur (environ 4 °C). Vos citrons resteront juteux pendant plus d'un mois."
           }
         ],
         "faqs": [
           {
-            "question": "Faut-il laver les aliments avant de les mettre au réfrigérateur ?",
-            "answer": "Non, les laver favorise l'excès d'humidité, accélérant les moisissures. Essuyez la saleté à sec et lavez-les juste avant de les manger."
+            "question": "Pourquoi faut-il conserver les citrons dans un sac Ziploc au frais plutôt que dans une corbeille à température ambiante ?",
+            "answer": "À température ambiante (15–25 °C), les citrons perdent constamment leur eau par les pores du zeste, devenant durs et secs en une semaine. Les sceller dans un sac Ziploc à 4 °C ralentit la respiration du fruit et piège l'humidité, conservant tout leur jus et leur fraîcheur pendant plus d'un mois."
           },
           {
-            "question": "Comment gérer et conserver les parties abîmées ?",
-            "answer": "Les zones endommagées libèrent de l'éthylène. Coupez-les immédiatement et consommez-les en priorité pour éviter de gâter le reste du lot."
+            "question": "Comment conserver un citron entamé ou coupé en rondelles ?",
+            "answer": "Un citron coupé subit une oxydation rapide de sa vitamine C et un dessèchement. Enveloppez la face coupée hermétiquement dans du film étirable ou placez-le face coupée vers le bas dans une petite boîte hermétique au frigo (3 à 5 jours). Pour une conservation plus longue, coupez-le en rondelles et congelez à -18 °C."
           }
         ]
       },
       "de": {
-        "title": "Wie man Zitrone frisch lagert: Wissenschaftlicher Aufbewahrungsratgeber",
-        "description": "Erfahren Sie die beste Lagertemperatur, Methode und Haltbarkeit für Zitrone basierend auf offiziellen Sicherheitsrichtlinien.",
-        "authority": "<strong>USDA & FSA</strong>",
-        "intro": "Haben Sie schon einmal Zitronen auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie austrockneten und hart wurden? Heute teilt FreshSnap Tipps.",
+        "title": "Zitronen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Zitronen basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "<strong>USDA & FSA & MFDS</strong>",
+        "intro": "Haben Sie Zitronen schon einmal in einer Obstschale auf der Arbeitsplatte liegen lassen, nur um festzustellen, dass sie steinhart wurden oder im Kühlschrank schimmelten? 🍋\n\nZitronen besitzen zwar eine dicke Schale, gehören aber zu den Zitrusfrüchten, deren Feuchtigkeit kontinuierlich durch mikroskopische Poren verdunstet. Bei Raumtemperatur schrumpft die Schale und der Saft trocknet innerhalb einer Woche aus; in feuchten, geschlossenen Räumen bildet sich hingegen schnell Grünschimmel (Penicillium).\n\nHeute stellt FreshSnap Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen von USDA und FSA basiert, um das Verdunstungsrisiko zu stoppen und Ihre Zitronen über einen Monat lang saftig zu halten. 🛡️",
         "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-        "whyDesc": "Die einzigartigen Eigenschaften jedes Lebensmittels zu verstehen und die richtige Lagerungsmethode anzuwenden, ist entscheidend für Frische und Hygiene.",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
         "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-        "cautionTitle": "Wichtige Warnhinweise zur Lagerung",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
         "tags": [
           "Zitrone",
           "Wissenschaftlich geprüfter Lagerungsratgeber",
@@ -318,48 +318,48 @@
         ],
         "cautions": [
           {
-            "title": "Beschädigte Zitronen sofort aussortieren ⚠️",
-            "desc": "In einem geschlossenen Behälter kann sich Schimmel schnell von einer beschädigten Zitrone auf andere ausbreiten."
+            "title": "Beschädigte oder weiche Zitronen sofort aussortieren ⚠️",
+            "desc": "Druckstellen oder faulende Zitronen geben große Mengen Schimmelsporen (Penicillium) ab. Selbst eine einzige schimmelige Zitrone im Beutel bringt die umliegenden Früchte schnell zum Verfaulen. Sortieren Sie beschädigte Zitronen nach dem Kauf sofort aus."
           },
           {
-            "title": "Zitronen vor dem Lagern nicht waschen 🍋",
-            "desc": "Waschen beschädigt die schützende Schalenschicht, wodurch Zitronen viel schneller verfaulen."
+            "title": "Zitronen vor der Lagerung niemals waschen 🍋",
+            "desc": "Das Waschen unter fließendem Wasser zerstört die natürliche Schutzwachsschicht der Schale und schließt Feuchtigkeit ein, was Schimmelbefall fördert. Wischen Sie Staub nur trocken ab und waschen Sie Zitronen erst direkt vor der Verwendung."
           }
         ],
         "steps": [
           {
-            "name": "Oberflächenfeuchtigkeit trocknen 🍋",
-            "text": "Wischen Sie die Feuchtigkeit vor dem Kühlen vollständig mit einem Papiertuch ab."
+            "name": "Oberflächenfeuchtigkeit vollständig abtrocknen — Schimmel & Fäulnis verhindern 🍋",
+            "text": "Obwohl die Schale dick ist, lässt stehende Feuchtigkeit Schimmelsporen eindringen. 💡 Lagerungstipp: Trocknen Sie jeden Tropfen mit Küchenpapier ab und lassen Sie die Zitronen vor dem Verpacken 5–10 Minuten im Schatten nachtrocknen."
           },
           {
-            "name": "In einen Beutel legen und versiegeln 📦",
-            "text": "Zitronen in einen Ziploc-Beutel legen, Luft möglichst vollständig herausdrücken und schließen."
+            "name": "In einen Ziploc-Beutel legen und Luft herauspressen — Luftdichte Versiegelung 📦",
+            "text": "Ständiger Luftkontakt beschleunigt den Wasserverlust durch die Schalenporen. 💡 Lagerungstipp: Geben Sie die trockenen Zitronen in einen Ziploc-Beutel, drücken Sie die Luft heraus und verschließen Sie ihn fest. Dies verhindert das Schrumpfen und Erhärten der Schale."
           },
           {
-            "name": "Auf mittlerem Regal lagern ❄️",
-            "text": "Bewahren Sie den Beutel auf dem mittleren Regal bei ca. 4°C auf, damit die Schale nicht austrocknet."
+            "name": "Auf dem mittleren Kühlschrankregal lagern — Kühllagerung (30–45 Tage) ❄️",
+            "text": "Versiegelte Kühlung verlängert die Haltbarkeit im Vergleich zur Raumtemperatur um ein Vielfaches. 💡 Lagerungstipp: Bewahren Sie den Ziploc-Beutel auf dem mittleren Regal des Kühlschranks (ca. 4 °C) auf. So bleiben die Zitronen über einen Monat lang saftig."
           }
         ],
         "faqs": [
           {
-            "question": "Sollte man Lebensmittel vor dem Kühlen waschen?",
-            "answer": "Nein, Waschen vor der Lagerung speichert Feuchtigkeit und fördert Schimmel. Wischen Sie Schmutz trocken ab und waschen Sie erst vor dem Verzehr."
+            "question": "Warum sollte man Zitronen in einem gekühlten Ziploc-Beutel statt in einer Schale bei Raumtemperatur lagern?",
+            "answer": "Bei Raumtemperatur (15–25 °C) verlieren Zitronen über ihre Poren ständig Feuchtigkeit, wodurch die Schale hart wird und der Saft austrocknet. Wenn Sie sie bei 4 °C in einem Ziploc-Beutel verschließen, wird die Atmung verlangsamt und die Feuchtigkeit eingeschlossen – so bleiben sie über 1 Monat lang saftig und frisch."
           },
           {
-            "question": "Wie lagert man beschädigte Stellen?",
-            "answer": "Beschädigte Stellen beschleunigen den Verderb. Schneiden Sie diese sofort ab und verbrauchen Sie sie zuerst, um andere Früchte zu schützen."
+            "question": "Wie bewahrt man angeschnittene Zitronen oder Zitronenscheiben am besten auf?",
+            "answer": "An der Schnittfläche trocknet die Zitrone schnell aus und Vitamin C oxidiert. Wickeln Sie die Schnittfläche eng mit Frischhaltefolie ein oder legen Sie sie mit der Schnittfläche nach unten in eine kleine Dose im Kühlschrank (3–5 Tage haltbar). Für längere Lagerung schneiden Sie die Zitrone in Scheiben und frieren sie bei -18 °C ein."
           }
         ]
       },
       "pt": {
-        "title": "Como armazenar Limão fresco: Guia científico de conservação",
-        "description": "Descubra la mejor temperatura, métodos y duración de armazenamento para Limão com base nas diretrizes oficiais de segurança.",
-        "authority": "<strong>USDA & FSA</strong>",
-        "intro": "Você já deixou limões na bancada e eles secaram e endureceram? Hoje, o FreshSnap compartilha dicas para mantê-los suculentos.",
+        "title": "Como conservar limões frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para limões com base em diretrizes oficiais de segurança.",
+        "authority": "<strong>USDA & FSA & MFDS</strong>",
+        "intro": "Você já deixou limões em uma fruteira na bancada e viu que eles secaram e ficaram duros como pedra, ou mofaram na geladeira? 🍋\n\nEmbora o limão tenha uma casca espessa, é uma fruta cítrica cuja umidade evapora continuamente através de microporos na casca. A temperatura ambiente, a casca murcha e o suco seca em uma semana; por outro lado, a umidade presa em recipientes fechados faz o mofo verde (Penicillium) proliferar rapidamente.\n\nHoje, o FreshSnap apresenta um guia de conservação em 3 etapas baseado em pesquisas do USDA e da FSA para bloquear a evaporação de água e manter seus limões suculentos por mais de um mês. 🛡️",
         "whyTitle": "Por que armazenar assim? Fatos científicos",
-        "whyDesc": "Comprender as características únicas de cada ingrediente e seguir o método de armazenamento adequado é extremamente importante para manter o frescor e a higiene.",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
         "guideTitle": "Guia de armazenamento comprovado cientificamente",
-        "cautionTitle": "Reglas cruciales e precauções",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
         "tags": [
           "Limão",
           "Guia de armazenamento comprovado cientificamente",
@@ -367,48 +367,48 @@
         ],
         "cautions": [
           {
-            "title": "Isole os limões danificados imediatamente ⚠️",
-            "desc": "O mofo pode se espalhar rapidamente de um limão danificado para os outros em um pote fechado."
+            "title": "Isole imediatamente os limões danificados ou macios ⚠️",
+            "desc": "Limões machucados ou que começam a estragar liberam grandes quantidades de esporos de mofo Penicillium. Mesmo um único limão mofado no saco selado estragará os outros rapidamente. Selecione e separe os frutos danificados logo após a compra."
           },
           {
-            "title": "Não lave os limões antes de guardar 🍋",
-            "desc": "Lavar e esfregar remove a camada protetora da casca, fazendo com que los limões apodreçam muito mais rápido."
+            "title": "Nunca lave os limões antes de guardar 🍋",
+            "desc": "Lavar os limões em água corrente remove a camada protetora natural de cera e prende a umidade na superfície, criando o ambiente perfeito para o mofo. Limpe a poeira a seco com um pano e lave apenas no momento de usar."
           }
         ],
         "steps": [
           {
-            "name": "Secar umidade da superfície 🍋",
-            "text": "Seque completamente a umidade com papel-toalha antes de refrigerar."
+            "name": "Seque a umidade da superfície completamente — Evite mofo e apodrecimento 🍋",
+            "text": "Embora a casca seja grossa, a água acumulada permite que os fungos invadam a fruta. 💡 Dica de conservação: Seque cada gota de água com papel-toalha e deixe secar à sombra por 5 a 10 minutos antes de guardar."
           },
           {
-            "name": "Colocar em saco hermético e selar 📦",
-            "text": "Coloque os limões em um saco Ziploc, retire todo o ar possível e sele."
+            "name": "Coloque em um saco Ziploc e retire o ar — Vedação hermética 📦",
+            "text": "O contato contínuo com o ar acelera a perda de água pelos poros da casca. 💡 Dica de conservação: Coloque os limões secos em um saco Ziploc, retire o ar pressionando com a mão e feche bem. Isso evita que a casca murche e endureça."
           },
           {
-            "name": "Guardar na prateleira média ❄️",
-            "text": "Conserve o saco na prateleira média a cerca de 4°C para evitar que a casca resseque."
+            "name": "Guarde na prateleira do meio da geladeira — Refrigeração (30–45 dias) ❄️",
+            "text": "A refrigeração selada prolonga a frescura muito mais do que guardar em temperatura ambiente. 💡 Dica de conservação: Mantenha o saco Ziploc na prateleira do meio da geladeira (aprox. 4 °C). Isso evita o ressecamento da casca, mantendo os limões suculentos por mais de um mês."
           }
         ],
         "faqs": [
           {
-            "question": "Deve-se lavar os alimentos com água antes de refrigerar?",
-            "answer": "Não, lavar antes de guardar retém humidade, o que estimula fungos. Limpe a sujeira a seco e lave apenas antes de comer."
+            "question": "Por que os limões devem ser guardados em um saco Ziploc refrigerado e não na fruteira em temperatura ambiente?",
+            "answer": "Em temperatura ambiente (15–25 °C), os limões perdem umidade constantemente pelos poros da casca, ficando duros e secos em uma semana. Ao selá-los em um saco Ziploc a 4 °C, a respiração e a perda de água reduzem drasticamente, mantendo a suculência e o frescor por mais de 1 mês."
           },
           {
-            "question": "Como tratar e guardar partes machucadas?",
-            "answer": "Partes danificadas aceleram a deterioração. Corte-as de imediato e consuma primeiro para evitar que estraguem o resto do lote."
+            "question": "Como devo guardar limões cortados que sobraram?",
+            "answer": "O limão cortado sofre rápida oxidação da vitamina C e perda de água em contato com o ar. Embrulhe a parte cortada firmemente com filme plástico sem bolhas de ar ou coloque-o com o corte virado para baixo em um pote hermético na geladeira por 3 a 5 dias. Para guardar por mais tempo, fatie e congele a -18 °C."
           }
         ]
       },
       "id": {
         "title": "Cara Menyimpan Lemon agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk Lemon berdasarkan pedoman keselamatan resmi.",
-        "authority": "<strong>USDA & FSA</strong>",
-        "intro": "Pernahkah Anda membiarkan lemon di meja dapur lalu menjadi kering dan keras? Hari ini, FreshSnap membagikan tips penyimpanan lemon.",
-        "whyTitle": "Mengapa disimpan seperti ini? Fakta ilmiah",
-        "whyDesc": "Memahami karakteristik unik setiap bahan makanan dan mengikuti metode penyimpanan yang benar sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk lemon berdasarkan pedoman keselamatan resmi.",
+        "authority": "<strong>USDA & FSA & MFDS</strong>",
+        "intro": "Pernahkah Anda membiarkan lemon di mangkuk buah di atas meja dapur, lalu mendapatinya mengering dan keras seperti batu, atau berjamur di dalam kulkas? 🍋\n\nMeskipun lemon memiliki kulit yang tebal, lemon adalah buah sitrus yang kadar airnya terus menguap melalui pori-pori mikroskopis pada kulitnya. Jika dibiarkan di suhu ruang, kulitnya akan keriput dan airnya mengering dalam seminggu; sebaliknya, kelembapan yang terperangkap dalam wadah rapat membuat jamur hijau-biru (Penicillium) tumbuh dengan cepat.\n\nHari ini, FreshSnap membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan FSA untuk mengunci penguapan air dan menjaga lemon Anda tetap kaya akan air segar selama lebih dari sebulan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
         "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-        "cautionTitle": "Aturan Penting dan Peringatan",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
         "tags": [
           "Lemon",
           "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
@@ -416,36 +416,36 @@
         ],
         "cautions": [
           {
-            "title": "Segera pisahkan lemon yang rusak ⚠️",
-            "desc": "Jamur dapat menyebar dengan cepat dari satu lemon yang rusak ke lemon lainnya di dalam wadah tertutup."
+            "title": "Segera pisahkan lemon yang rusak atau lembek ⚠️",
+            "desc": "Lemon yang memar atau mulai membusuk melepaskan spora jamur Penicillium dalam jumlah besar. Satu lemon berjamur dalam kantong tertutup akan dengan cepat merusak lemon sehat di sekitarnya. Selalu sortir dan pisahkan lemon yang rusak saat dibeli."
           },
           {
-            "title": "Jangan cuci lemon sebelum disimpan 🍋",
-            "desc": "Mencuci lemon akan merusak lapisan pelindung alami pada kulitnya, membuat lemon lebih cepat busuk."
+            "title": "Jangan pernah mencuci lemon sebelum disimpan 🍋",
+            "desc": "Mencuci lemon di bawah air mengalir akan mengikis lapisan lilin pelindung alami pada kulitnya dan memerangkap kelembapan permukaan, menciptakan lingkungan ideal bagi pertumbuhan jamur. Cukup lap debu dengan kain kering dan cucilah tepat sebelum digunakan."
           }
         ],
         "steps": [
           {
-            "name": "Keringkan kelembapan permukaan 🍋",
-            "text": "Lap kelembapan hingga benar-benar kering dengan tisu dapur sebelum disimpan di kulkas."
+            "name": "Keringkan kelembapan permukaan secara total — Cegah Jamur & Pembusukan 🍋",
+            "text": "Meskipun kulitnya tebal, air yang menggenang di permukaan memungkinkan spora jamur masuk. 💡 Tips Penyimpanan: Lap setiap tetes air hingga benar-benar kering dengan tisu dapur, lalu angin-anginkan di tempat teduh selama 5–10 menit sebelum disimpan."
           },
           {
-            "name": "Masukkan ke kantong Ziploc dan segel 📦",
-            "text": "Masukkan lemon ke kantong Ziploc, buang udara sebanyak mungkin, lalu segel."
+            "name": "Masukkan ke kantong Ziploc lalu buang udaranya — Segel Kedap Udara 📦",
+            "text": "Paparan udara secara terus-menerus mempercepat kehilangan air melalui pori-pori kulit. 💡 Tips Penyimpanan: Masukkan lemon kering ke dalam kantong Ziploc, tekan keluar udara sebanyak mungkin dengan tangan, lalu segel rapat. Ini mencegah kulit menyusut dan mengeras."
           },
           {
-            "name": "Simpan di rak tengah kulkas ❄️",
-            "text": "Simpan kantong di rak tengah (sekitar 4°C) untuk mencegah kulitnya mengering dan mengeras."
+            "name": "Simpan di rak tengah kulkas — Simpan Dingin (30–45 Hari) ❄️",
+            "text": "Pendinginan dalam kantong tersegel memperpanjang kesegaran beberapa kali lebih lama dibanding suhu ruang. 💡 Tips Penyimpanan: Simpan kantong lemon tersegel di rak tengah kulkas (sekitar 4°C). Ini mencegah kulit mengering dan mengeras, menjaga lemon tetap kaya air selama lebih dari sebulan."
           }
         ],
         "faqs": [
           {
-            "question": "Haruskah mencuci bahan makanan sebelum dimasukkan ke kulkas?",
-            "answer": "Tidak, mencuci sebelum disimpan menjebak kelembapan berlebih dan memicu bakteri. Lap dengan kain kering dan cuci sebelum dimakan."
+            "question": "Mengapa lemon sebaiknya disimpan dalam kantong Ziploc di kulkas dibanding di keranjang suhu ruang?",
+            "answer": "Pada suhu ruang (15–25°C), lemon terus kehilangan kelembapan melalui pori-pori kulitnya, menyebabkannya keras dan kering dalam seminggu. Menyimpannya dalam kantong Ziploc tersegel pada suhu 4°C memperlambat respirasi buah dan mengunci kelembapan, menjaga kesegaran dan kandungan airnya selama lebih dari 1 bulan."
           },
           {
-            "question": "Bagaimana cara menangani dan menyimpan bagian yang memar?",
-            "answer": "Bagian yang rusak mempercepat pembusukan. Potong segera dan konsumsi terlebih dahulu agar tidak merusak bahan makanan lainnya."
+            "question": "Bagaimana cara menyimpan sisa potongan lemon atau irisan lemon?",
+            "answer": "Lemon yang sudah dipotong mengalami oksidasi vitamin C dan kehilangan air dengan cepat saat terpapar udara. Bungkus permukaan potongan secara rapat dengan plastik wrap tanpa ada celah udara, atau letakkan dengan bagian potongan menghadap ke bawah dalam wadah kedap udara kecil di kulkas selama 3–5 hari. Untuk jangka panjang, iris dan bekukan di bawah suhu -18°C untuk langsung dimasukkan ke dalam minuman."
           }
         ]
       }

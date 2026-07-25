@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Jangan simpan di kulkas — Mencegah pembekuan dan hilangnya aroma ❌❄️"
+    text: "Menyimpan minyak zaitun di kulkas membuatnya membeku dan mengkristal putih. Proses beku-cair berulang akan merusak rasa mewah dan nutrisi penting seperti asam oleat. Simpan di suhu ruang (14–18°C)."
+  - name: "Hindari sinar matahari langsung dan gunakan botol kaca gelap — Penyimpanan Suhu Ruang (365Hari) 🫙"
+    text: "Sinar ultravioleta adalah penyebab utama ketengikan pada minyak nabati. Jika dikemas dalam botol plastik transparan, bungkus botol dengan aluminium foil atau pindahkan ke botol kaca gelap."
+  - name: "Simpan di lemari sejuk jauh dari kompor/panas — Menghindari panas 🌬️"
+    text: "Jangan simpan minyak zaitun di dekat kompor atau oven untuk kemudahan. Paparan panas menggandakan kecepatan oksidasi minyak. Simpan di lemari dapur yang sejuk jauh dari semua sumber panas."
 faqs:
   - question: "My olive oil solidified and turned white in the fridge. Is it spoiled?"
     answer: "No, extra virgin olive oil naturally solidifies when the temperature drops below 8-10°C (46-50°F). It will return to a clear liquid state at room temperature with no impact on quality."
@@ -33,30 +33,30 @@ Apakah Anda menyimpan minyak zaitun di kulkas agar lebih awet? Mendinginkannya a
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Jangan simpan di kulkas — Mencegah pembekuan dan hilangnya aroma ❌❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Menyimpan minyak zaitun di kulkas membuatnya membeku dan mengkristal putih. Proses beku-cair berulang akan merusak rasa mewah dan nutrisi penting seperti asam oleat. Simpan di suhu ruang (14–18°C).
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Hindari sinar matahari langsung dan gunakan botol kaca gelap — Penyimpanan Suhu Ruang (365Hari) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Sinar ultravioleta adalah penyebab utama ketengikan pada minyak nabati. Jika dikemas dalam botol plastik transparan, bungkus botol dengan aluminium foil atau pindahkan ke botol kaca gelap.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Simpan di lemari sejuk jauh dari kompor/panas — Menghindari panas 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Jangan simpan minyak zaitun di dekat kompor atau oven untuk kemudahan. Paparan panas menggandakan kecepatan oksidasi minyak. Simpan di lemari dapur yang sejuk jauh dari semua sumber panas.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Apakah Anda menyimpan minyak zaitun di kulkas agar lebih awet? Mendinginkannya a
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Aturan Penting dan Peringatan</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Tutup rapat penutup setelah digunakan</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Minyak zaitun teroksidasi saat terpapar oksigen, meningkatkan keasaman dan mengurangi khasiatnya. Selalu batasi udara masuk.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Jauhkan dari sumber panas seperti kompor dan oven</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Panas kompor memicu oksidasi cepat dan merusak kualitas. Simpan minyak zaitun di dalam kabinet dapur yang sejuk dan gelap.
     </p>
   </div>
 </div>

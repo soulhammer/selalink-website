@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>米国農務省(USDA) & 食品医薬品安全処(MFDS)</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "冷蔵保存は避ける — 凝固と風味の低下防止 ❌❄️"
+    text: "オリーブオイルを冷蔵庫に入れると白く固まって結晶化し, 固まったり溶けたりを繰り返すことでオリーブオイル本来の風味や栄養素が失われます。必ず14〜18℃の常温で保存してください。"
+  - name: "直射日光を避け、遮光瓶（茶・緑）を使用する — 常温保存 (365日間) 🫙"
+    text: "紫外線は植物性オイルを酸化（酸敗）させる最大の原因です。透明な容器に入っている場合は, アルミホイルでボトルを包むか, 茶色や緑色のガラス瓶に移し替えて光を遮断してください。"
+  - name: "コンロ周辺など熱源から遠い日陰の棚に置く — 熱の遮断 🌬️"
+    text: "調理時に便利だからといって、ガスコンロやオーブンのすぐ隣に置かないでください。熱が加わるたびにオイルの酸化スピードが2倍以上速くなります。熱源のない涼しい日陰の棚に収納してください。"
 faqs:
   - question: "オリーブオイルが冷蔵庫で白く固まりましたが、傷んでいますか？"
     answer: "いいえ、エキストラバージンオリーブオイルは温度が8〜10度以下に下がると自然に固まる性質があります。常温に戻すと透明な液体状態に戻り、品質には全く問題ありません。"
@@ -33,30 +33,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">冷蔵保存は避ける — 凝固と風味の低下防止 ❌❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    オリーブオイルを冷蔵庫に入れると白く固まって結晶化し, 固まったり溶けたりを繰り返すことでオリーブオイル本来の風味や栄養素が失われます。必ず14〜18℃の常温で保存してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">直射日光を避け、遮光瓶（茶・緑）を使用する — 常温保存 (365日間) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    紫外線は植物性オイルを酸化（酸敗）させる最大の原因です。透明な容器に入っている場合は, アルミホイルでボトルを包むか, 茶色や緑色のガラス瓶に移し替えて光を遮断してください。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">コンロ周辺など熱源から遠い日陰の棚に置く — 熱の遮断 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    調理時に便利だからといって、ガスコンロやオーブンのすぐ隣に置かないでください。熱が加わるたびにオイルの酸化スピードが2倍以上速くなります。熱源のない涼しい日陰の棚に収納してください。
   </p>
 </div>
 
@@ -67,9 +67,19 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">保存時の注意点</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">使用後は必ず蓋をきつく閉めて空気を遮断してください</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      オリーブオイルは酸素に触れると酸化が進み、風味が低下して酸度が上がります。使用後はすぐにキャップをしっかり閉めてください。
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">コンロやオーブンなどの熱源から遠ざけて保管してください</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      コンロ周辺の熱は酸化を急速に進め、品質を著しく低下させます。調理スペースから離れた、温度変化の少ない暗い収納棚に保管してください。
     </p>
   </div>
 </div>

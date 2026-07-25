@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>USDA & MFDS</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "냉장 보관 절대 금지 — 동결 현상 및 향 소실 예방 ❌❄️"
+    text: "올리브유는 냉장실에 넣으면 하얗게 굳어 결정화되며, 이 과정이 반복되면 올리브유 본연의 고급스러운 풍미와 올레인산 등 영양 성분이 파괴됩니다. 반드시 14 ~ 18℃ 상온에 두세요."
+  - name: "직사광선 피하고 갈색/녹색 유리병 활용 — 실온 보관 (365일) 🫙"
+    text: "자외선은 식물성 오일을 산패시키는 주범입니다. 투명한 플라스틱 용기에 담긴 제품이라면 알루미늄 호일로 병을 감싸거나 갈색/초록색 유리 차광병으로 옮겨 빛을 차단해 주세요."
+  - name: "가스레인지 열기로부터 먼 그늘 찬장에 보관 — 열기 차단 🌬️"
+    text: "요리할 때 편하다고 가스레인지나 오븐 바로 옆 선반에 올리브유를 두면 안 됩니다. 열기가 닿을 때마다 기름의 산화 속도가 2배 이상 빨라지므로 열원이 없는 선선한 그늘 찬장에 수납하세요."
 faqs:
   - question: "올리브 오일이 냉장고에서 하얗게 굳었는데 상한 건가요?"
     answer: "아닙니다. 엑스트라 버진 올리브 오일은 온도가 8 ~ 10도 이하로 떨어지면 굳어지는 자연스러운 응고 현상이 발생합니다. 상온에 두면 투명한 액체 상태로 정상 복귀되며 품질에도 전혀 지장이 없습니다."
@@ -33,30 +33,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">냉장 보관 절대 금지 — 동결 현상 및 향 소실 예방 ❌❄️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    올리브유는 냉장실에 넣으면 하얗게 굳어 결정화되며, 이 과정이 반복되면 올리브유 본연의 고급스러운 풍미와 올레인산 등 영양 성분이 파괴됩니다. 반드시 14 ~ 18℃ 상온에 두세요.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">직사광선 피하고 갈색/녹색 유리병 활용 — 실온 보관 (365일) 🫙</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    자외선은 식물성 오일을 산패시키는 주범입니다. 투명한 플라스틱 용기에 담긴 제품이라면 알루미늄 호일로 병을 감싸거나 갈색/초록색 유리 차광병으로 옮겨 빛을 차단해 주세요.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">단계 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">가스레인지 열기로부터 먼 그늘 찬장에 보관 — 열기 차단 🌬️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    요리할 때 편하다고 가스레인지나 오븐 바로 옆 선반에 올리브유를 두면 안 됩니다. 열기가 닿을 때마다 기름의 산화 속도가 2배 이상 빨라지므로 열원이 없는 선선한 그늘 찬장에 수납하세요.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">보관 시 필수 규칙 및 주의사항</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">사용 후 뚜껑을 끝까지 꽉 닫으세요 ⚠️</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      올리브유는 공기 중 산소와 결합할 때 활성산소가 급격히 늘어납니다. 매번 사용 후 뚜껑 나사가 헛돌지 않게 꼭 잠가 공기 유입을 원천 차단해 주셔야 합니다.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">참기름과 들기름의 온도 차이를 기억하세요 🫒</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      올리브유와 참기름은 '실온'에 보관해야 풍미가 유지되지만, 오메가-3가 가득해 산패가 극도로 빠른 들기름은 무조건 '냉장' 보관해야 하니 확실히 구분해야 합니다.
     </p>
   </div>
 </div>

@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>RDA & EFSA & FSA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Envuelva las espinacas sin lavar en periódico/papel de cocina 📦"
+    text: "Las espinacas se pudren rápido si se mojan las hojas. Déjeles la tierra y envuélvalas suavemente en periódico o papel de cocina para evitar la condensación y mantenerlas secas."
+  - name: "Guarde verticalmente con las raíces hacia abajo — Almacenamiento Refrigerado (4Días) 🌿"
+    text: "Si se guardan acostadas, las espinacas consumen energía al intentar crecer hacia arriba, marchitándose rápido. Colóquelas de pie con las raíces hacia abajo en un envase dentro del cajón de verduras."
+  - name: "Aísle de frutas que liberen etileno — Almacenamiento protegido 🛡️"
+    text: "Las espinacas son muy sensibles al gas etileno. Si las coloca junto a manzanas, peras o tomates, las hojas amarillearán y se pudrirán rápido. Mantenga compartimentos separados."
 faqs:
   - question: "Can I wash spinach before storing it in the fridge?"
     answer: "No, spinach leaves are highly delicate and rot within days if exposed to moisture. Keep them unwashed and dry, then wash right before cooking."
@@ -33,30 +33,30 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Envuelva las espinacas sin lavar en periódico/papel de cocina 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Las espinacas se pudren rápido si se mojan las hojas. Déjeles la tierra y envuélvalas suavemente en periódico o papel de cocina para evitar la condensación y mantenerlas secas.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Guarde verticalmente con las raíces hacia abajo — Almacenamiento Refrigerado (4Días) 🌿</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Si se guardan acostadas, las espinacas consumen energía al intentar crecer hacia arriba, marchitándose rápido. Colóquelas de pie con las raíces hacia abajo en un envase dentro del cajón de verduras.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Aísle de frutas que liberen etileno — Almacenamiento protegido 🛡️</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Las espinacas son muy sensibles al gas etileno. Si las coloca junto a manzanas, peras o tomates, las hojas amarillearán y se pudrirán rápido. Mantenga compartimentos separados.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ faqs:
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Reglas cruciales y precauciones</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Seque la humedad por completo para evitar que se ablanden</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      El exceso de agua en las hojas verdes acelera su descomposición. Envuélvalas en toallas de papel para absorber la humedad.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Guarde las espinacas erguidas con las raíces hacia abajo</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Los vegetales duran más frescos si se guardan en su posición natural de crecimiento. Mantenerlos erguidos evita que las hojas se aplasten.
     </p>
   </div>
 </div>

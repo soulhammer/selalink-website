@@ -11,12 +11,12 @@ app: "freshsnap"
 formatVersion: 4
 authority: "<strong>NIFS & MFDS & USDA</strong>"
 steps:
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
-  - name: ""
-    text: ""
+  - name: "Limpe vísceras e impurezas dos tentáculos — Evite cheiro forte 🦑"
+    text: "As vísceras do lula e a sujeira das ventosas causam cheiro forte e bactérias. Abra o corpo, retire as vísceras e a bolsa de tinta, e lave os tentáculos em água corrente para remover as impurezas."
+  - name: "Seque completamente e embrulhe com filme plástico — Armazenamento Refrigerado (2Dias) 📦"
+    text: "Seque a lula com papel-toalha por dentro e por fora. O excesso de água cria cristais de gelo que deixam a lula mole ao descongelar. Embrulhe individualmente."
+  - name: "Coloque em um saco para freezer e sele duplo — Armazenamento Congelado (60Dias)"
+    text: "Coloque a lula embrulhada em um saco para freezer, retire o ar e congele a menos de -18 °C. Essa vedação dupla impede que o cheiro de frutos do mar passe para outros alimentos."
 faqs:
   - question: "Can I store raw squid in the fridge without cleaning the guts?"
     answer: "No, raw squid guts decompose extremely fast, causing severe odors and spoilage. Always clean, eviscerate, and wash the squid before chilling."
@@ -33,30 +33,30 @@ Você colocou lula fresca na geladeira e ela estragou e deixou mau cheiro? As v�
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Limpe vísceras e impurezas dos tentáculos — Evite cheiro forte 🦑</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    As vísceras do lula e a sujeira das ventosas causam cheiro forte e bactérias. Abra o corpo, retire as vísceras e a bolsa de tinta, e lave os tentáculos em água corrente para remover as impurezas.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Seque completamente e embrulhe com filme plástico — Armazenamento Refrigerado (2Dias) 📦</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Seque a lula com papel-toalha por dentro e por fora. O excesso de água cria cristais de gelo que deixam a lula mole ao descongelar. Embrulhe individualmente.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 rounded-full border border-emerald-500/20 tracking-wider">STEP 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0"></h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Coloque em um saco para freezer e sele duplo — Armazenamento Congelado (60Dias)</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    
+    Coloque a lula embrulhada em um saco para freezer, retire o ar e congele a menos de -18 °C. Essa vedação dupla impede que o cheiro de frutos do mar passe para outros alimentos.
   </p>
 </div>
 
@@ -67,9 +67,19 @@ Você colocou lula fresca na geladeira e ela estragou e deixou mau cheiro? As v�
 <div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
   <span class="text-xl">⚠️</span>
   <div>
-    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Reglas cruciales e precauções</strong>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Retire as vísceras, olhos e ventosas completamente</strong>
     <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
-      
+      Manter as vísceras causa decomposição rápida, bactérias e mau cheiro. Limpe imediatamente.
+    </p>
+  </div>
+</div>
+
+<div class="my-6 p-5 rounded-2xl border-l-4 border-amber-500/30 bg-amber-500/5 dark:bg-amber-500/10 flex items-start gap-4">
+  <span class="text-xl">⚠️</span>
+  <div>
+    <strong class="text-slate-950 dark:text-white font-extrabold block mb-1">Prepare a lula crua em até 2 dias de geladeira</strong>
+    <p class="text-slate-700 dark:text-slate-300 text-sm m-0 leading-relaxed">
+      Frutos do mar crus estragam rápido na geladeira. Para guardar por mais tempo, congele em porções.
     </p>
   </div>
 </div>

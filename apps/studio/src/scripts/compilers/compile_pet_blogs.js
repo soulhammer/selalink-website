@@ -105,24 +105,39 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const evidenceBoxHtml = renderEvidenceBox(lang, auth, 'petself');
   const step1CardHtml = renderPetRoutineCard(lang, 1, step1Title, step1Text);
 
-  const sig1 = signals[0] || {};
-  const sig1Name = sig1.name || sig1.signal || pBreed;
-  const sig1Meaning = sig1.meaning || sig1.description || sig1.desc || '';
-  const sig1Response = sig1.response || sig1.action || sig1.solution || '';
+  let step2CardHtml = '';
+  if (signals.length > 0) {
+    step2CardHtml = signals.map((sig, idx) => {
+      const sigName = sig.name || sig.signal || pBreed;
+      const sigMeaning = sig.meaning || sig.description || sig.desc || '';
+      const sigResponse = sig.response || sig.action || sig.solution || '';
+      return renderPetStepCard(
+        lang, idx + 1, curLabels.signal, sigName, 
+        curLabels.meaning, sigMeaning, 
+        curLabels.response, sigResponse
+      );
+    }).join('\n\n');
+  } else {
+    step2CardHtml = renderPetStepCard(
+      lang, 1, curLabels.signal, pBreed, 
+      curLabels.meaning, '', 
+      curLabels.response, ''
+    );
+  }
 
-  const step2CardHtml = renderPetStepCard(
-    lang, 2, curLabels.signal, sig1Name, 
-    curLabels.meaning, sig1Meaning, 
-    curLabels.response, sig1Response
-  );
-  
-  const r1 = routines[0] || {};
-  const r1Title = r1.title || r1.name || step3Title;
-  const r1Text = r1.content || r1.text || r1.desc || r1.description || step3Text;
+  let step3CardHtml = '';
+  if (routines.length > 0) {
+    step3CardHtml = routines.map((r, idx) => {
+      const rTitle = r.title || r.name || `ROUTINE ${idx + 1}`;
+      const rText = r.content || r.text || r.desc || r.description || '';
+      return renderPetRoutineCard(lang, idx + 1, rTitle, rText);
+    }).join('\n\n');
+  } else {
+    step3CardHtml = renderPetRoutineCard(lang, 1, step3Title, step3Text);
+  }
 
-  const step3CardHtml = renderPetRoutineCard(lang, 3, r1Title, r1Text);
-  
-  const tipBoxHtml = renderTipBox(tip1Text || tip2Text);
+  const tipText = tip1Text || tip2Text;
+  const tipBoxHtml = tipText ? renderTipBox(tipText) : '';
   const faqSectionHtml = renderFaqSection(lang, faqItems);
 
   const langTagMap = {
