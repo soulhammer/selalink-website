@@ -101,11 +101,11 @@ const formattedDate = new Date(pubDate).toLocaleDateString(lang, {
   data-tags={post.data.tags ? post.data.tags.join(',').toLowerCase() : ''}
 >
   {safeHeroImage && (
-    <div class="relative aspect-video w-full overflow-hidden bg-slate-200 dark:bg-slate-800 skeleton-shimmer">
+    <div class="relative aspect-video w-full overflow-hidden">
       <img 
         src={safeHeroImage} 
         alt={title}
-        class="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+        class="h-full w-full object-cover transition-transform duration-300 ease-out group-hover:scale-105"
         loading="lazy"
       />
       <div class="absolute inset-0 bg-gradient-to-t from-slate-950/20 to-transparent dark:from-slate-950/80"></div>
