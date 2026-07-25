@@ -4,7 +4,7 @@ description: "Cristiano Ronaldo, um dos melhores atacantes do mundo. Descubra a 
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
 app: "buildself"
 formatVersion: 4

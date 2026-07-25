@@ -80,7 +80,7 @@
     "cautionDesc": {
       "ko": "이러한 이완 효과를 얻으려면 스마트폰이나 키보드를 다루는 일에서 완벽하게 벗어나야 합니다. 전자기기 조작은 뇌에 여전히 고도의 논리 연산을 요구하므로 인지 피로를 덜어주지 못합니다. 설거지, 아날로그 필사, 수공예 조립 등 오직 촉각적 정보와 시공간 제어만 필요한 단순 신체 활동을 선택하세요.",
       "en": "To achieve this relaxation effect, you must disconnect completely from smartphones or keyboards. Operating digital devices still demands high logical computation from the brain, failing to relieve fatigue. Choose simple physical activities requiring only tactile feedback and visuospatial control, such as washing dishes, handwriting, or craft assembly.",
-      "ja": "このようなリラックス効果を得るためには、スマートフォンやキーボードを操作することから完全に離れる必要があります。電子機器の操作は脳になお高度な論理演算を要求するため、認知疲労を軽減できません。皿洗い、アナログの書写、手工芸の組み立てなど、ただ触각的情報と視空間制御のみを必要とする単純な身体活動を選択してください。",
+      "ja": "このようなリラックス効果を得るためには、スマートフォンやキーボードを操作することから完全に離れる必要があります。電子機器の操作は脳になお高度な論理演算を要求するため、認知疲労を軽減できません。皿洗い、アナログの書写、手工芸の組み立てなど、ただ触的情報と視空間制御のみを必要とする単純な身体活動を選択してください。",
       "zh": "为了获得这种放松效果，必须彻底远离使用智能手机或键盘的操作。操作电子设备依然会要求大脑进行高度的逻辑运算，无法缓解认知疲劳。请选择仅需要触觉反馈和视空间调节的简单身体活动，如洗碗、手写抄录、手工拼装等。",
       "es": "Para lograr este efecto de relajación, debe desconectarse por completo de teléfonos o teclados. El uso de dispositivos digitales todavía exige al cerebro un cálculo lógico alto, por lo que no alivia la fatiga. Elija actividades físicas simples que solo requieran retroalimentación táctil y control visoespacial, como lavar platos, transcripción manual o manualidades.",
       "de": "Um diesen Entspannungseffekt zu erzielen, müssen Sie sich vollständig von Smartphones oder Tastaturen trennen. Die Bedienung digitaler Geräte erfordert immer noch logisches Denken und lindert die Müdigkeit nicht. Wählen Sie einfache körperliche Aktivitäten wie Geschirrspülen, Handschreiben oder Modellbau.",
@@ -141,7 +141,7 @@
         "name": {
           "ko": "맑아진 두뇌로 연산 업무 복귀하기",
           "en": "Return to Analytical Tasks with a Refreshed Mind",
-          "ja": "澄み切った頭脳で演算業務へ復귀",
+          "ja": "澄み切った頭脳で演算業務へ復",
           "zh": "以清爽的大脑重返分析工作",
           "es": "Regresar a las Tareas Analíticas con la Mente Despejada",
           "de": "Rückkehr zu analytischen Aufgaben mit klarem Kopf",

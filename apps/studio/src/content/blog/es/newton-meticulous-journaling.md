@@ -4,7 +4,7 @@ description: "Sir Isaac Newton, el científico supremo de la humanidad. Explore 
 pubDate: "2026-03-30"
 updatedDate: "2026-03-30"
 category: "BuildSelf"
-tags: ["위인 습관", "아이작 뉴턴", "기록 습관", "생산성", "작업 기억"]
+tags: []
 heroImage: "/images/blog/newton_meticulous_journaling.webp"
 app: "buildself"
 formatVersion: 4

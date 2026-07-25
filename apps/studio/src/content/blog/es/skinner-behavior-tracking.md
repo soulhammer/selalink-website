@@ -4,7 +4,7 @@ description: "Presentamos el hábito de cuantificación conductual diaria de B. 
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/skinner_behavior_tracking.webp"
 app: "buildself"
 formatVersion: 4

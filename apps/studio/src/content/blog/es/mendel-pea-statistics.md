@@ -4,7 +4,7 @@ description: "Descubra la historia de Gregor Mendel, el gran pionero de la gené
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "그레고어 멘델", "데이터 트래킹", "작업 기억", "자기 관리"]
+tags: []
 heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4

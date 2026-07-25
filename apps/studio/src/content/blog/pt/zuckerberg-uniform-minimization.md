@@ -4,7 +4,7 @@ description: "Mark Zuckerberg reduziu a fadiga de decisão vestindo a mesma cami
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["의사결정", "단순화", "생산성"]
+tags: []
 heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4

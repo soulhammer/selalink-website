@@ -4,7 +4,7 @@ description: "Vogue-Chefredakteurin Anna Wintour steht jeden Morgen um 5 Uhr auf
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/wintour_morning_tennis.webp"
 app: "buildself"
 formatVersion: 4

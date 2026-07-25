@@ -4,7 +4,7 @@ description: "Découvrez pourquoi le réalisateur du Studio Ghibli, Hayao Miyaza
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "미야자키 하야오", "사색", "창의성", "휴식"]
+tags: []
 heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4

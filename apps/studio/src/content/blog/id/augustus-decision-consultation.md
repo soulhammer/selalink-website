@@ -4,7 +4,7 @@ description: "Kaisar Romawi Augustus, yang menyederhanakan keputusan pasca-pembu
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["의사결정", "단순화", "생산성"]
+tags: []
 heroImage: "/images/blog/augustus_decision_consultation.webp"
 app: "buildself"
 formatVersion: 4

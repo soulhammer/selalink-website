@@ -4,7 +4,7 @@ description: "流刑地にあっても毎晩、宮廷衣裳に着替えて歴史
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위인 습관", "니콜로 마키아벨리", "집중", "마인드셋", "독서"]
+tags: []
 heroImage: "/images/blog/machiavelli_regal_reading.webp"
 app: "buildself"
 formatVersion: 4
@@ -52,7 +52,7 @@ faqs:
 
 快適なホームウェアは脳にリラックスと休息の信号を送り集中の閾値を下げる一方で、整った服装は注意力を調節する<strong>前頭前野（Prefrontal Cortex）</strong>の執行制御メカニズムを即座に作動させます。
 
-きちんとした衣服의微細な触覚刺激は<strong>デフォルト・モード・ネットワーク（Default Mode Network）</strong>の不要な雑念を抑制し、現在のタスクに集中する<strong>執行制御ネットワーク（Executive Control Network）</strong>を活性化して、没頭へのウォーミングアップ時間を飛躍的に短縮します。
+きちんとした衣服微細な触覚刺激は<strong>デフォルト・モード・ネットワーク（Default Mode Network）</strong>の不要な雑念を抑制し、現在のタスクに集中する<strong>執行制御ネットワーク（Executive Control Network）</strong>を活性化して、没頭へのウォーミングアップ時間を飛躍的に短縮します。
 
 ---
 

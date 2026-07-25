@@ -4,7 +4,7 @@ description: "Marco Polo, auteur des Voyages de Marco Polo. Découvrez sa routin
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
+tags: []
 heroImage: "/images/blog/marco_polo_travel_journal.webp"
 app: "buildself"
 formatVersion: 4

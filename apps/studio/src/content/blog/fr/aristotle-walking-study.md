@@ -4,7 +4,7 @@ description: "Archimède dessinait continuellement des figures sur le sable ou l
 pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
-tags: ["산책", "토론", "기억력", "고대"]
+tags: []
 heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4

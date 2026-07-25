@@ -4,7 +4,7 @@ description: "深度剖析微生物学之父列文虎克如何亲手打磨放大
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["집중", "미생물", "인내", "관찰"]
+tags: []
 heroImage: "/images/blog/leeuwenhoek_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
@@ -20,7 +20,7 @@ faqs:
   - question: "对于焦虑应激较高或注意力频频发散碎裂的人群，此习惯是否依然奏效？"
     answer: "是的，效果极其卓绝！将细腻的指尖微观运动与极精视觉沉浸紧密同步，能物理性强效镇平异常过载的杏仁核与应激神经网络，彻底压制焦虑与散漫，帮助大脑重获宁静沉稳。"
   - question: "这项微观心流习惯宜在全天何种节点践行、每日频次如何掌控？"
-    answer: "每天践行1次、时长锁定于约20分钟堪称最为完美。既可在攻坚复杂重磅任务前用于大脑的“认知预열（Cognitive Warm-up）”，亦可在经历剧烈工作疲惫或压力后，用作复苏与重置前额叶皮层算力的极佳修复工具。"
+    answer: "每天践行1次、时长锁定于约20分钟堪称最为完美。既可在攻坚复杂重磅任务前用于大脑的“认知预热（Cognitive Warm-up）”，亦可在经历剧烈工作疲惫或压力后，用作复苏与重置前额叶皮层算力的极佳修复工具。"
 
 ---
 
@@ -107,7 +107,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      每天践行1次、时长锁定于约20分钟堪称最为完美。既可在攻坚复杂重磅任务前用于大脑的“认知预열（Cognitive Warm-up）”，亦可在经历剧烈工作疲惫或压力后，用作复苏与重置前额叶皮层算力的极佳修复工具。
+      每天践行1次、时长锁定于约20分钟堪称最为完美。既可在攻坚复杂重磅任务前用于大脑的“认知预热（Cognitive Warm-up）”，亦可在经历剧烈工作疲惫或压力后，用作复苏与重置前额叶皮层算力的极佳修复工具。
     </p>
   </details>
 </div>

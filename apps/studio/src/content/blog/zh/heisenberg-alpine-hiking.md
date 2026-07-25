@@ -4,7 +4,7 @@ description: "探索为破解量子力学谜题而独游巴伐利亚阿尔卑斯
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["사색", "이완", "창의성"]
+tags: []
 heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4

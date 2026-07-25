@@ -4,7 +4,7 @@ description: "创立立体主义的现代艺术大师，习惯在深夜完全断
 pubDate: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "BuildSelf"
-tags: ["위인 습관", "파블로 피카소", "휴식", "창의성"]
+tags: []
 heroImage: "/images/blog/picasso.webp"
 app: "buildself"
 formatVersion: 4

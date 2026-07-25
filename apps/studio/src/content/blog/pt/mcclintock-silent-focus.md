@@ -4,7 +4,7 @@ description: "A geneticista e vencedora do Prêmio Nobel Barbara McClintock mant
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/mcclintock_silent_focus.webp"
 app: "buildself"
 formatVersion: 4

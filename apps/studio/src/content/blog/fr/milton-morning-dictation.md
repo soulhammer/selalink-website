@@ -4,7 +4,7 @@ description: "Découvrez la routine de méditation à 4 heures du matin de John 
 pubDate: "2026-04-09"
 updatedDate: "2026-04-09"
 category: "BuildSelf"
-tags: ["위인 습관", "사색"]
+tags: []
 heroImage: "/images/blog/milton_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4

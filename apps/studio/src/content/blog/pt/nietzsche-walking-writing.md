@@ -4,7 +4,7 @@ description: "Explore o fato histÃ³rico do filÃ³sofo alemÃ£o Friedrich Nie
 pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: ["위인 습관", "프리드리히 니체", "창의성", "산책", "아이디어"]
+tags: []
 heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4

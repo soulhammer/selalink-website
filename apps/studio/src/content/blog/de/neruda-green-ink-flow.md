@@ -4,7 +4,7 @@ description: "Untersucht, warum Nobelpreisträger Pablo Neruda sein Leben lang G
 pubDate: "2026-05-16"
 updatedDate: "2026-05-16"
 category: "BuildSelf"
-tags: ["창의력", "아이디어", "글쓰기", "영감"]
+tags: []
 heroImage: "/images/blog/neruda_green_ink_flow.webp"
 app: "buildself"
 formatVersion: 4

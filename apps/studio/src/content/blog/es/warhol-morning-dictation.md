@@ -4,7 +4,7 @@ description: "Andy Warhol llamaba a su asistente cada mañana para dictar los ev
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["기록", "기획", "생산성"]
+tags: []
 heroImage: "/images/blog/warhol_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4

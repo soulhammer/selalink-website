@@ -4,7 +4,7 @@ description: "Découvrez comment Helen Keller, qui a surmonté la surdicécité 
 pubDate: "2026-03-12"
 updatedDate: "2026-03-12"
 category: "BuildSelf"
-tags: ["위인 습관", "헬렌 켈러", "휴식", "성찰"]
+tags: []
 heroImage: "/images/blog/helen_keller.webp"
 app: "buildself"
 formatVersion: 4

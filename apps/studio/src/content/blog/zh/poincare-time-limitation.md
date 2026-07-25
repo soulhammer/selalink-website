@@ -4,7 +4,7 @@ description: "介绍天才科学家昂利·庞加莱将每日工作限制在4小
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "앙리 푸앵카레", "무의식", "집중력", "창의성", "휴식"]
+tags: []
 heroImage: "/images/blog/poincare_time_limitation.webp"
 app: "buildself"
 formatVersion: 4

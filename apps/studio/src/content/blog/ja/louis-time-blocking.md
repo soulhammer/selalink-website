@@ -4,7 +4,7 @@ description: "ヴェルサイユ宮殿を支配したフランスの太陽王ル
 pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
-tags: ["위인 습관", "루이14세", "타임블로킹", "시간관리", "집중력"]
+tags: []
 heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
@@ -48,7 +48,7 @@ faqs:
 
 ## 意思決定疲労（Decision Fatigue）遮断と実行意図（Implementation Intentions）の脳科学
 
-毎瞬間「次のタスク」を選択しようとする試みは脳の<strong>前頭前野（Prefrontal Cortex）</strong>資源を枯渇させ、深刻な<strong>意思決定疲労（Decision Fatigue）</strong>を誘発します。一日の行動を特定時間ブロックに事前固定する<strong>タイムブロッキング（Time Blocking）</strong>は、脳の<strong>実行意図（Implementation Intentions）</strong>を即座に刺激します。選択に対する無駄な悩みを原初から遮단することで先延ばし習慣を予防し、目標タスクに<strong>前頭前野</strong>の注意資源を集中させて生産性を極大化します。
+毎瞬間「次のタスク」を選択しようとする試みは脳の<strong>前頭前野（Prefrontal Cortex）</strong>資源を枯渇させ、深刻な<strong>意思決定疲労（Decision Fatigue）</strong>を誘発します。一日の行動を特定時間ブロックに事前固定する<strong>タイムブロッキング（Time Blocking）</strong>は、脳の<strong>実行意図（Implementation Intentions）</strong>を即座に刺激します。選択に対する無駄な悩みを原初から遮することで先延ばし習慣を予防し、目標タスクに<strong>前頭前野</strong>の注意資源を集中させて生産性を極大化します。
 
 ---
 

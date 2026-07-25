@@ -4,7 +4,7 @@ description: "La règle d'écriture matinale qui a permis à Natsume Soseki de c
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "나쓰메 소세키", "루틴", "집필 습관", "작동 흥분", "생산성"]
+tags: []
 heroImage: "/images/blog/soseki_forced_writing.webp"
 app: "buildself"
 formatVersion: 4

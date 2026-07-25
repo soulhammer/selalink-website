@@ -4,7 +4,7 @@ description: "探索惊悚电影大师阿尔弗雷德·希区柯克开机前精�
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/hitchcock_storyboard_visualization.webp"
 app: "buildself"
 formatVersion: 4

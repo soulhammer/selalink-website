@@ -4,7 +4,7 @@ description: "探索埃及艳后克利奥帕特拉无需译员流利驾驭至少
 pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["위인 습관", "클레오파트라", "언어 공부", "인지 유연성", "뇌 가소성"]
+tags: []
 heroImage: "/images/blog/cleopatra_multilingual_study.webp"
 app: "buildself"
 formatVersion: 4

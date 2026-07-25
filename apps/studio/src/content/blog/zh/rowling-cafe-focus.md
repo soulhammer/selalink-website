@@ -4,7 +4,7 @@ description: "《哈利·波特》作者J.K.罗琳。探讨她以咖啡馆喧闹
 pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["위인 습관", "J.K. 롤링", "창의성", "백색소음", "집중"]
+tags: []
 heroImage: "/images/blog/rowling_cafe_focus.webp"
 app: "buildself"
 formatVersion: 4

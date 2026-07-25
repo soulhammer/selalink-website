@@ -4,7 +4,7 @@ description: "Linus Torvalds, creator of Linux and Git. Explores how he achieved
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "리누스 토발즈", "집중", "단순", "생산성"]
+tags: []
 heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4

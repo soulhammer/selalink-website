@@ -4,7 +4,7 @@ description: "Giuseppe Verdi bangun jam 5 pagi di pertanian Sant'Agata untuk men
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["창의성", "휴식", "생산성"]
+tags: []
 heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4

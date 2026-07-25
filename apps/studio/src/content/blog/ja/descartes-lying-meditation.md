@@ -4,7 +4,7 @@ description: "近代哲学の父であり数学者のルネ・デカルテが毎
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["위인 습관", "르네 데카르트", "아침 루틴", "명상", "집중력"]
+tags: []
 heroImage: "/images/blog/descartes_lying_meditation.webp"
 app: "buildself"
 formatVersion: 4

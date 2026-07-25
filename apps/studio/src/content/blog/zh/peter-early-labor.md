@@ -4,7 +4,7 @@ description: "探索化身造船木工的改革君主彼得大帝的清晨技能
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/peter_early_labor.webp"
 app: "buildself"
 formatVersion: 4

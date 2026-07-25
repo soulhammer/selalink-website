@@ -4,7 +4,7 @@ description: "Comparte los secretos de la toma de notas del erudito romano Plini
 pubDate: "2026-05-12"
 updatedDate: "2026-05-12"
 category: "BuildSelf"
-tags: ["독서", "필기", "메모", "고대"]
+tags: []
 heroImage: "/images/blog/pliny_reading_excerpt.webp"
 app: "buildself"
 formatVersion: 4

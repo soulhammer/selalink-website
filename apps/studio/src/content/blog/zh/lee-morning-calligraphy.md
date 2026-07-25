@@ -4,7 +4,7 @@ description: "深度剖析三星缔造者李秉喆会长如何借由每日清晨
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+tags: []
 heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4

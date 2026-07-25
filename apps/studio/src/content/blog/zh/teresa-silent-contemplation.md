@@ -4,7 +4,7 @@ description: "特蕾莎修女一生在印度加尔各答的贫民窟奉献。了
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/teresa_silent_contemplation.webp"
 app: "buildself"
 formatVersion: 4

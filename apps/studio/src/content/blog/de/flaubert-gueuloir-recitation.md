@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie der Schriftsteller Gustave Flaubert, besessen vo
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "기록"]
+tags: []
 heroImage: "/images/blog/flaubert_gueuloir_recitation.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Tim Cook, the head of Apple, the world's largest IT company. Disco
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/tim_cook_early_morning_routine.webp"
 app: "buildself"
 formatVersion: 4

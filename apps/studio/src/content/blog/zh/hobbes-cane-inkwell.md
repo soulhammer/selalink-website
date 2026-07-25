@@ -4,7 +4,7 @@ description: "探索思想家托马斯·霍布斯如何在手杖头上安装墨�
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["산책 지팡이에 잉크","Routine"]
+tags: []
 heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4

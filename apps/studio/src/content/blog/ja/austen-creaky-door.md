@@ -4,7 +4,7 @@ description: "ジェーン・オースティンは妨害要因が入ってくる
 pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["위인 습관", "제인 오스틴", "집중력", "몰입", "환경 설정"]
+tags: []
 heroImage: "/images/blog/austen_creaky_door.webp"
 app: "buildself"
 formatVersion: 4

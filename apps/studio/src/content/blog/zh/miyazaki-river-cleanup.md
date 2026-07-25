@@ -4,7 +4,7 @@ description: "探索吉卜力工作室导演宫崎骏每天早晨沿街清理垃
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "미야자키 하야오", "사색", "창의성", "휴식"]
+tags: []
 heroImage: "/images/blog/miyazaki_river_cleanup.webp"
 app: "buildself"
 formatVersion: 4

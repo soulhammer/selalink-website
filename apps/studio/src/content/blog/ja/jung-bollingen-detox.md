@@ -4,7 +4,7 @@ description: "分析心理学の開拓者カール・ユング。騒音や電気
 pubDate: "2026-01-21"
 updatedDate: "2026-01-21"
 category: "BuildSelf"
-tags: ["위인 습관", "칼 융", "휴식", "사색", "디지털디톡스"]
+tags: []
 heroImage: "/images/blog/jung_bollingen_detox.webp"
 app: "buildself"
 formatVersion: 4

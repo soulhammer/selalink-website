@@ -4,7 +4,7 @@ description: "探索英国文学巨匠查尔斯·狄更斯通过每天3小时的
 pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+tags: []
 heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4

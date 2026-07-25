@@ -4,7 +4,7 @@ description: "Descubra cómo Georgia O'Keeffe, la 'Madre del Modernismo Estadoun
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+tags: []
 heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4

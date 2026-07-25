@@ -4,7 +4,7 @@ description: "Serena Williams, who strictly maintained pre-match routines such a
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["몰입", "의지력", "계획"]
+tags: []
 heroImage: "/images/blog/serena_match_routine.webp"
 app: "buildself"
 formatVersion: 4

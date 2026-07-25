@@ -4,7 +4,7 @@ description: "Descubra cómo el emperador romano Marco Aurelio escribía en su d
 pubDate: "2026-05-22"
 updatedDate: "2026-05-22"
 category: "BuildSelf"
-tags: ["성찰", "일기", "스토아철학", "고대"]
+tags: []
 heroImage: "/images/blog/marcus_aurelius_morning_journaling.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Wolfgang Amadeus Mozart engaged his subconscious brain (DMN) by pl
 pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
-tags: ["위인 습관", "모차르트", "당구", "무의식", "창의성"]
+tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4

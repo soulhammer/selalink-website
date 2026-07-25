@@ -4,7 +4,7 @@ description: "Explore how Hyundai founder Ju-Yung Chung woke up at 4 AM daily an
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["위인 습관", "정주영", "의지력", "계획", "시간 관리"]
+tags: []
 heroImage: "/images/blog/chung_dawn_breakfast.webp"
 app: "buildself"
 formatVersion: 4

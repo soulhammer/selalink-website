@@ -4,7 +4,7 @@ description: "Presiden ke-6 AS John Quincy Adams rutin berjalan cepat 5 mil seti
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4

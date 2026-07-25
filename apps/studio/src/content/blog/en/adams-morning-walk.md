@@ -4,7 +4,7 @@ description: "John Quincy Adams, the 6th U.S. President, adhered to a daily 5-mi
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4

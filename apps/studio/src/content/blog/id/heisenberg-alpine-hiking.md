@@ -4,7 +4,7 @@ description: "Pelajari bagaimana Werner Heisenberg memecahkan dilema mekanika ku
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["사색", "이완", "창의성"]
+tags: []
 heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4

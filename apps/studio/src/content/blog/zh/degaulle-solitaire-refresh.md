@@ -4,7 +4,7 @@ description: "探索在危机中挽救法国的英雄夏尔·戴高乐在繁重�
 pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+tags: []
 heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4

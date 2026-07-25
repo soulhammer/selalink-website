@@ -4,7 +4,7 @@ description: "Erfahren Sie mehr über die morgendliche Praxis von Peter dem Gro�
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/peter_early_labor.webp"
 app: "buildself"
 formatVersion: 4

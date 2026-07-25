@@ -4,7 +4,7 @@ description: "Découvrez comment le mathématicien Gottfried Wilhelm Leibniz a c
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["기록", "창의성", "사색"]
+tags: []
 heroImage: "/images/blog/leibniz_universal_notebook.webp"
 app: "buildself"
 formatVersion: 4

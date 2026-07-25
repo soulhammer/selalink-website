@@ -4,7 +4,7 @@ description: "生涯16,000個を超える実験項目に番号を振って記録
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
+tags: []
 heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4

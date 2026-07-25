@@ -1,10 +1,10 @@
 ---
 title: "自分をデザインする：行動主義の巨匠スキナーの視覚的フィードバック記録習慣"
-description: "行動心理学の巨匠B.F.スキナーのデイリー行動定量化記録習慣を紹介します。リアルタイムな数値フィードバックを通じて脳の行動メカニズムを強化する3段階の実천ガイド。"
+description: "行動心理学の巨匠B.F.スキナーのデイリー行動定量化記録習慣を紹介します。リアルタイムな数値フィードバックを通じて脳の行動メカニズムを強化する3段階の実ガイド。"
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/skinner_behavior_tracking.webp"
 app: "buildself"
 formatVersion: 4

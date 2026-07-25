@@ -4,7 +4,7 @@ description: "Explore o hábito de escrita de Antoine de Saint-Exupéry, autor d
 pubDate: "2026-07-18"
 updatedDate: "2026-07-18"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "사색", "본질"]
+tags: []
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.webp"
 app: "buildself"
 formatVersion: 4

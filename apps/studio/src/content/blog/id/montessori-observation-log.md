@@ -4,7 +4,7 @@ description: "Maria Montessori, dokter wanita pertama di Italia dan pendidik pio
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
+tags: []
 heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Alan Turing, the father of computer science who deciphered the Eni
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
-tags: ["위인 습관", "앨런튜링", "달리기", "러닝", "뇌피로해소"]
+tags: []
 heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4

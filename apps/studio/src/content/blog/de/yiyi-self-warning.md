@@ -4,7 +4,7 @@ description: "Selbstdisziplin durch 'Jagyeongmun', das Yi I (Yulgok), Joseons gr
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위인 습관", "율곡 이이", "자율성", "자경문", "의지력", "자기계발"]
+tags: []
 heroImage: "/images/blog/yiyi_self_warning.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "探索现代科幻文学教父雷·布拉德伯里每天清晨写�
 pubDate: "2026-06-16"
 updatedDate: "2026-06-16"
 category: "BuildSelf"
-tags: ["위인 습관", "레이 브래드버리", "아이디어", "창의성"]
+tags: []
 heroImage: "/images/blog/bradbury.webp"
 app: "buildself"
 formatVersion: 4

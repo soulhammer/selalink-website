@@ -4,7 +4,7 @@ description: "Henri Matisse, referente de la historia del arte. Descubra cómo s
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["위인 습관", "앙리 마티스", "컷아웃", "시각-촉각 자극", "통증 이완"]
+tags: []
 heroImage: "/images/blog/matisse_paper_cutout.webp"
 app: "buildself"
 formatVersion: 4

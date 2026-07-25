@@ -4,7 +4,7 @@ description: "近代哲学の巨匠イマヌエル・カント。近隣住民が
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+tags: []
 heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
@@ -52,7 +52,7 @@ faqs:
 
 ---
 
-## 注意事項：口を閉ざして鼻呼吸（Nasal Breathing）に集中し外部騒音을遮断するルール
+## 注意事項：口を閉ざして鼻呼吸（Nasal Breathing）に集中し外部騒音遮断するルール
 
 カントは散歩中に口を開けて話す行動が神経系を乱し免疫力を落とすと信じ、散歩中ずっと口を固く閉ざしてただ鼻でのみ静かに呼吸しました。散歩時には他者との雑談やスマートフォンの刺激を排除し、鼻呼吸と足取りの一定のリズムに完全に没頭することが核心です。
 

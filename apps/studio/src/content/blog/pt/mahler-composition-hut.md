@@ -4,7 +4,7 @@ description: "Gustav Mahler, o compositor que se isolava no verão em uma cabana
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["위인 습관", "구스타프 말러", "집중", "사색", "환경", "창의성"]
+tags: []
 heroImage: "/images/blog/mahler_composition_hut.webp"
 app: "buildself"
 formatVersion: 4

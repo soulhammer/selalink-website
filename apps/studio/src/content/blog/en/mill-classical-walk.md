@@ -4,7 +4,7 @@ description: "John Stuart Mill, the intellect behind 'On Liberty'. Discover his 
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["위인 습관", "존 스튜어트 밀", "산책 독서", "신경 가소성", "BDNF"]
+tags: []
 heroImage: "/images/blog/mill_classical_walk.webp"
 app: "buildself"
 formatVersion: 4

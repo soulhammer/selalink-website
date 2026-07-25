@@ -4,7 +4,7 @@ description: "Edith Wharton, the master author who became the first woman to win
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "휴식"]
+tags: []
 heroImage: "/images/blog/wharton_bedside_writing_relaxation.webp"
 app: "buildself"
 formatVersion: 4

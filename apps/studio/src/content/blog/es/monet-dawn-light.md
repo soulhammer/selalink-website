@@ -4,7 +4,7 @@ description: "El maestro impresionista Claude Monet se levantaba a las 3:30 AM t
 pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/monet_dawn_light.webp"
 app: "buildself"
 formatVersion: 4

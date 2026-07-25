@@ -4,7 +4,7 @@ description: "探索越过未知大西洋的探险家哥伦布在风暴与恐惧
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
+tags: []
 heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4

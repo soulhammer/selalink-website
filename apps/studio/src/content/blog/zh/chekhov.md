@@ -4,7 +4,7 @@ description: "探索现代短篇小说巨匠安东·切诃夫在候车室与咖�
 pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "BuildSelf"
-tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
+tags: []
 heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4

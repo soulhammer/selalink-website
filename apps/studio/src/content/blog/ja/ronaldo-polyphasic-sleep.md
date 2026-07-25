@@ -4,7 +4,7 @@ description: "世界最高のフォワード、クリスティアーノ・ロナ
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
 app: "buildself"
 formatVersion: 4
@@ -12,7 +12,7 @@ authority: "クリスティアーノ・ロナウド歴史的評伝および自�
 steps:
   - name: "睡眠タイミングの計画と90分セッションの確保"
     text: "昼間やトレーニング直後など疲労が押し寄せる時間帯に、睡眠サイクルの最小単位である90分を割り当てます。もし90分全体が不可能な場合は、認知リセットに効果が立証されている30分のパワーナップでス schedule を調整します。"
-  - name: "光と騒音の徹底的な遮단および胎児の姿勢でのアライメント"
+  - name: "光と騒音の徹底的な遮および胎児の姿勢でのアライメント"
     text: "アイマスクと耳栓を着用し、遮光カーテンを引いて部屋を暗くします。脊椎のアライメントを助け脳のリラックスを促進するため、横向きになり膝を曲げた快適な胎児の姿勢をとります。"
   - name: "自然な目覚めと軽い水分補給"
     text: "アラームが鳴ったらすぐに起きて人工の照明をつけます。目が覚めた直後にはぬるま湯を1杯ゆっくり飲んで、睡眠中に失われた体内の水分を補給し血液循環を刺激します。"
@@ -65,7 +65,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">光と騒音の徹底的な遮단および胎児の姿勢でのアライメント</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">光と騒音の徹底的な遮および胎児の姿勢でのアライメント</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     アイマスクと耳栓を着用し、遮光カーテンを引いて部屋を暗くします。脊椎のアライメントを助け脳のリラックスを促進するため、横向きになり膝を曲げた快適な胎児の姿勢をとります。

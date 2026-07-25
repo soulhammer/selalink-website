@@ -4,7 +4,7 @@ description: "Découvrez le secret de réussite fondamental de Warren Buffett �
 pubDate: "2026-06-10"
 updatedDate: "2026-06-10"
 category: "BuildSelf"
-tags: ["위인 습관", "워런 버핏", "독서", "투자", "성공습관", "학습"]
+tags: []
 heroImage: "/images/blog/buffett_reading_habit.webp"
 app: "buildself"
 formatVersion: 4

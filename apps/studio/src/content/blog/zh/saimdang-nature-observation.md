@@ -4,7 +4,7 @@ description: "朝鲜时代伟大的女性艺术家申师任堂通过自然观察
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "신사임당", "자연 관찰", "창의성", "주의 회복", "뇌과학"]
+tags: []
 heroImage: "/images/blog/saimdang_nature_observation.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Discover how basketball legend Michael Jordan surpassed physical a
 pubDate: "2026-01-16"
 updatedDate: "2026-01-16"
 category: "BuildSelf"
-tags: ["위인 습관", "마이클조던", "아침루틴", "의지력", "멘탈셋업"]
+tags: []
 heroImage: "/images/blog/jordan_breakfast_club.webp"
 app: "buildself"
 formatVersion: 4

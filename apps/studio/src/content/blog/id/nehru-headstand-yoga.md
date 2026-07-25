@@ -4,7 +4,7 @@ description: "Perdana Menteri pertama India, Jawaharlal Nehru. Mengungkap prinsi
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["위인 습관", "자와할랄 네루", "요가 물구나무서기", "뇌 혈류", "HPA 스트레스 축"]
+tags: []
 heroImage: "/images/blog/nehru_headstand_yoga.webp"
 app: "buildself"
 formatVersion: 4

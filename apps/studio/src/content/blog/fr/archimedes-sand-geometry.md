@@ -4,7 +4,7 @@ description: "Archimède dessinait continuellement des figures sur le sable ou l
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["몰입", "사색", "창의성"]
+tags: []
 heroImage: "/images/blog/archimedes_sand_geometry.webp"
 app: "buildself"
 formatVersion: 4

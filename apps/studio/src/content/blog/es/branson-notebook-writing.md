@@ -4,7 +4,7 @@ description: "Descubra cómo el fundador de Virgin Group, Sir Richard Branson, c
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
+tags: []
 heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4
@@ -26,7 +26,7 @@ faqs:
 
 "No importa lo trivial que parezca una idea, si no la anotas en el acto, desaparece para siempre. Mi cuaderno y mi bolígrafo son las herramientas más grandes que poseo." 📓
 
-Sir Richard Branson (1950–) es el multimillonario fundador de Virgin Group, quien construyó un imperio de más de 400 empresas en aviación, viajes espaciales, finanzas, entretenimiento y medios de comunicación. Famoso por sus a�s campañas de marketing y aventuras extremas, ha llevado consigo un elemento imprescindible durante décadas. No se trata de un reloj de lujo ni de un teléfono inteligente de última generación, sino de un sencillo cuaderno de papel analógico y un bolígrafo en su bolsillo trasero o en su chaqueta.
+Sir Richard Branson (1950–) es el multimillonario fundador de Virgin Group, quien construyó un imperio de más de 400 empresas en aviación, viajes espaciales, finanzas, entretenimiento y medios de comunicación. Famoso por sus as campañas de marketing y aventuras extremas, ha llevado consigo un elemento imprescindible durante décadas. No se trata de un reloj de lujo ni de un teléfono inteligente de última generación, sino de un sencillo cuaderno de papel analógico y un bolígrafo en su bolsillo trasero o en su chaqueta.
 
 Debido a que luchó contra la dislexia en su juventud, Branson dependía de la toma de notas intuitiva y de la conversación directa en lugar de documentos formales. Durante décadas —ya fuera en reuniones de directivos, fiestas, aviones o en medio de una aventura en globo aerostático—, anotaba al instante inspiraciones fugaces, quejas de clientes y comentarios de empleados. Conservando miles de cuadernos en su estudio, afirma: "Si no hubiera llevado un cuaderno, Virgin Group nunca habría existido". Para él, la escritura analógica servía como una trampa cognitiva para atrapar las ideas antes de que escaparan al subconsciente.
 

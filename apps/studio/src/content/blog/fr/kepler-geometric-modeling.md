@@ -4,7 +4,7 @@ description: "Découvrez comment l'astronome du XVIIe siècle Johannes Kepler a 
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위인 습관", "학습"]
+tags: []
 heroImage: "/images/blog/kepler_geometric_modeling.webp"
 app: "buildself"
 formatVersion: 4

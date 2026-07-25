@@ -4,7 +4,7 @@ description: "Sócrates, a sabedoria da Grécia antiga que expandiu o pensamento
 pubDate: "2026-03-06"
 updatedDate: "2026-03-06"
 category: "BuildSelf"
-tags: ["위인 습관", "소크라테스", "산책", "질문", "뇌과학"]
+tags: []
 heroImage: "/images/blog/socrates_walking_dialogue.webp"
 app: "buildself"
 formatVersion: 4

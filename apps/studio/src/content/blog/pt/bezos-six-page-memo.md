@@ -4,7 +4,7 @@ description: "Descubra o segredo de tomada de decisão de Jeff Bezos ao proibir 
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["위인 습관", "제프 베조스", "의사결정", "계획", "생산성"]
+tags: []
 heroImage: "/images/blog/bezos_six_page_memo.webp"
 app: "buildself"
 formatVersion: 4

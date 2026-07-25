@@ -4,7 +4,7 @@ description: "朝鲜救国英雄李舜臣将军。介绍写反思日记（《乱
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["위인 습관", "이순신", "난중일기", "성찰일기", "글쓰기치료"]
+tags: []
 heroImage: "/images/blog/yisunshin_war_diary.webp"
 app: "buildself"
 formatVersion: 4

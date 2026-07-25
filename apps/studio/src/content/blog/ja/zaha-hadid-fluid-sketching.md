@@ -4,7 +4,7 @@ description: "プリツカー賞受賞の建築家ザハ・ハディド。格子
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/zaha_hadid_fluid_sketching.webp"
 app: "buildself"
 formatVersion: 4

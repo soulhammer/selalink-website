@@ -4,7 +4,7 @@ description: "深度剖析缔造庞大帝国的征服者成吉思汗在面对重
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+tags: []
 heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4
@@ -19,7 +19,7 @@ steps:
 faqs:
   - question: "若身处条件受限、无法登临山顶或顶楼露台时，该如何操作？"
     answer: "打开窗户、向办公室或房间外视线所及的最远处凝望30秒以上便完全有效。机制的核心在于将“聚焦狭隘视角（Narrow Tunnel Vision）”平滑切换至“宽广全景视角（Broad Peripheral Vision）”，从而解脱大脑的警报防御状态。"
-  - question: "在进行视觉化构상时，若头脑中难以浮现清晰具象的画面，该怎么办？"
+  - question: "在进行视觉化构想时，若头脑中难以浮现清晰具象的画面，该怎么办？"
     answer: "绝无必要强求脑海中浮现如高清影院般的画面。只需将目标达成后的积极“情绪体感”、周遭清澈的音效与简短的自我确认（如“我终究攻克了此难关”的成效感）进行交织，大脑对应皮层便能被等同激活。不妨将其视为拾取感官线索的过程，轻松舒缓地将其投影于脑海中。"
 
 ---
@@ -103,7 +103,7 @@ faqs:
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>在进行视觉化构상时，若头脑中难以浮现清晰具象的画面，该怎么办？</span>
+      <span>在进行视觉化构想时，若头脑中难以浮现清晰具象的画面，该怎么办？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

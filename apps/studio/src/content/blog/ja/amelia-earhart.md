@@ -4,7 +4,7 @@ description: "大西洋単独横断に成功した初の女性飛行士で、毎
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+tags: []
 heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4

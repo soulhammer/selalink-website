@@ -4,7 +4,7 @@ description: "Muhammad Ali, le plus grand boxeur du siècle. Découvrez les effe
 pubDate: "2026-01-26"
 updatedDate: "2026-01-26"
 category: "BuildSelf"
-tags: ["위인 습관", "무하마드알리", "자기확신", "동기부여", "멘탈케어"]
+tags: []
 heroImage: "/images/blog/ali_positive_affirmation.webp"
 app: "buildself"
 formatVersion: 4

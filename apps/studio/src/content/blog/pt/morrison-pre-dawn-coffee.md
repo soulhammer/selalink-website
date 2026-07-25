@@ -4,7 +4,7 @@ description: "A vencedora do Nobel Toni Morrison reiniciava seus pensamentos e e
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
 app: "buildself"
 formatVersion: 4

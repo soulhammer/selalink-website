@@ -4,7 +4,7 @@ description: "El poeta romántico William Wordsworth caminaba al aire libre, aju
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["산길을 걸으며 큰 ","Routine"]
+tags: []
 heroImage: "/images/blog/wordsworth_outdoor_recitation.webp"
 app: "buildself"
 formatVersion: 4

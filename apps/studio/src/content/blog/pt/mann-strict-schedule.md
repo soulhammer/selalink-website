@@ -4,7 +4,7 @@ description: "O vencedor do Prêmio Nobel de Literatura alemão Thomas Mann escr
 pubDate: "2026-01-24"
 updatedDate: "2026-01-24"
 category: "BuildSelf"
-tags: ["매일 오전 4시간 ","Routine"]
+tags: []
 heroImage: "/images/blog/mann_strict_schedule.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Pelajari bagaimana James Joyce menciptakan mahakarya sastra sambil
 pubDate: "2026-04-10"
 updatedDate: "2026-04-10"
 category: "BuildSelf"
-tags: ["위인 습관", "휴식"]
+tags: []
 heroImage: "/images/blog/joyce_bed_writing.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Descubra como Gutenberg, inventor dos tipos móveis metálicos, pr
 pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
+tags: []
 heroImage: "/images/blog/gutenberg_movable_type_inspection.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Descubra cómo Epicuro construyó 'El Jardín' fuera de Atenas par
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["휴식", "안정", "사색"]
+tags: []
 heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4

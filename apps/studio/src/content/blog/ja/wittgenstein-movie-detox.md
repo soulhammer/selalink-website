@@ -4,7 +4,7 @@ description: "分析哲学の限界に挑み、過熱した脳をリセットす
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위인 습관", "루트비히 비트겐슈타인", "이완", "휴식", "사색", "스트레스 해소"]
+tags: []
 heroImage: "/images/blog/wittgenstein_movie_detox.webp"
 app: "buildself"
 formatVersion: 4

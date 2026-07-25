@@ -4,7 +4,7 @@ description: "Découvrez comment Henry Ford, pionnier de la chaîne de montage m
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4

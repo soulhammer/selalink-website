@@ -4,7 +4,7 @@ description: "Erkunden Sie, wie der Quantenmechanik-Pionier und Nobelpreisträge
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/dirac_silent_walking_contemplation.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Erkunden Sie, wie das amerikanische Poesie-Genie Emily Dickinson s
 pubDate: "2026-05-02"
 updatedDate: "2026-05-02"
 category: "BuildSelf"
-tags: ["위인 습관", "에밀리디킨슨", "영수증시", "즉흥기록", "창의성"]
+tags: []
 heroImage: "/images/blog/dickinson_scrap_writing.webp"
 app: "buildself"
 formatVersion: 4

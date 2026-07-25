@@ -4,7 +4,7 @@ description: "Uma anedota do grande mestre de chá Sen no Rikyu purificando sua 
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["위인 습관", "센노 리큐", "정원 청소", "동적 명상", "인지 노이즈", "마음챙김"]
+tags: []
 heroImage: "/images/blog/rikyu_garden_sweeping.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Präsident Eisenhower trug die immense Last strategischer Entschei
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["의사결정", "생산성", "시간 관리"]
+tags: []
 heroImage: "/images/blog/eisenhower_matrix_decision.webp"
 app: "buildself"
 formatVersion: 4

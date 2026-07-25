@@ -4,7 +4,7 @@ description: "筋萎縮性側索硬化症（ALS）を克服した世界的な理
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["위인 습관", "스티븐 호킹", "창의성", "학습"]
+tags: []
 heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4

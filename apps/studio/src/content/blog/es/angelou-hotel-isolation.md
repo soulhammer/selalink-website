@@ -4,7 +4,7 @@ description: "La legendaria poeta y activista Maya Angelou escribía exclusivame
 pubDate: "2026-03-21"
 updatedDate: "2026-03-21"
 category: "BuildSelf"
-tags: ["위인 습관", "마야 안젤루", "환경통제", "집중", "몰입"]
+tags: []
 heroImage: "/images/blog/angelou_hotel_isolation.webp"
 app: "buildself"
 formatVersion: 4

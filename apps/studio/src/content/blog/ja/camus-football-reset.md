@@ -4,7 +4,7 @@ description: "フランスのノーベル文学賞作家であり哲学者のア
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/camus_football_reset.webp"
 app: "buildself"
 formatVersion: 4
@@ -19,7 +19,7 @@ steps:
 faqs:
   - question: "共にサッカーやスポーツを楽しむ相手がいない1人環境ではどのように実践しますか？"
     answer: "一人でも十分に可能です。コンクリートの壁にテニスボールやスカッシュボールを当てた後、跳ね返ってくるボールを反射的に捕球する壁打ち訓練、ボクシングのサンドバッグ打撃、あるいは仮想のアジリティラダートレーニングだけでも、小脳と運動皮質を完璧に刺激して前頭前野をオフライン状態へと転換できます。"
-  - question: "精神的疲労度が極端な日に高強度の身体運動を行うと、かえって疲労が蓄적されませんか？"
+  - question: "精神的疲労度が極端な日に高強度の身体運動を行うと、かえって疲労が蓄されませんか？"
     answer: "脳の認知疲労と肉体の筋肉疲労は生理的に異なります。一日中座って知的作業を行い溜まった「脳疲労」状態は、前頭前野の代謝産物の滞留によるものであるため、身体を動かして大脳血流を循環させ小脳へと活性を転換する「動的休息（Active Recovery）」をとってこそ、前頭前野の脳疲労が即座に解消されます。"
 
 ---
@@ -103,7 +103,7 @@ faqs:
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>精神的疲労度が極端な日に高強度の身体運動を行うと、かえって疲労が蓄적されませんか？</span>
+      <span>精神的疲労度が極端な日に高強度の身体運動を行うと、かえって疲労が蓄されませんか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

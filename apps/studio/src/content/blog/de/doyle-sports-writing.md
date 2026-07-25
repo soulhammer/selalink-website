@@ -4,7 +4,7 @@ description: "Erkunden Sie, warum der Arzt und Schriftsteller Arthur Conan Doyle
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["위인 습관", "생산성"]
+tags: []
 heroImage: "/images/blog/doyle_sports_writing.webp"
 app: "buildself"
 formatVersion: 4

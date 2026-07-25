@@ -4,7 +4,7 @@ description: "北宋の天才文人・蘇東坡が度重なる流刑地の試練
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
+tags: []
 heroImage: "/images/blog/sushi_bamboo_walk_cooking.webp"
 app: "buildself"
 formatVersion: 4

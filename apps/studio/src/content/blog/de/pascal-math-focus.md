@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie das Genie des 17. Jahrhunderts, Blaise Pascal, s
 pubDate: "2026-06-06"
 updatedDate: "2026-06-06"
 category: "BuildSelf"
-tags: ["집중", "몰입", "생산성", "스트레스 해소"]
+tags: []
 heroImage: "/images/blog/pascal_math_focus.webp"
 app: "buildself"
 formatVersion: 4

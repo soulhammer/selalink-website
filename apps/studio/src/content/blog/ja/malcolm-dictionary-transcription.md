@@ -4,7 +4,7 @@ description: "劇的な認知的飛躍を遂げたマルコムX。 刑務所の�
 pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "BuildSelf"
-tags: ["위인 습관", "말콤 X", "필사 학습", "뇌 자극", "집중력"]
+tags: []
 heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
 app: "buildself"
 formatVersion: 4
@@ -12,7 +12,7 @@ authority: "マルコムXの歴史的評伝・自伝的記録の考証および�
 steps:
   - name: "アナログ筆写ツールのセッティング"
     text: "紙の質感が良い厚手の横罫ノートや手帳を開き、手に馴染むインクペンや鉛筆を用意します。周囲のすべてのデジタル機器の画面は見えない場所へ片付け、注意散漫を完全に防ぎます。"
-  - name: "1日20분デジタル遮断の精密筆写"
+  - name: "1日20デジタル遮断の精密筆写"
     text: "スマートフォンを完全に別の部屋に置いたまま、20〜30分間没頭します。自身が勉強している書籍や要約したい本の内容を文字通り丁寧に紙の上に書き進めます。活字の形に気を配りながら深く読み込みます。"
   - name: "音読による復習と構造化"
     text: "筆写を終えた直後、自分が記した単語や例文を声に出して軽やかに3回ずつ朗読してみます。視覚的文字と聴覚的刺激が脳で統合され、単純な暗記を超えた深い理解が達成されます。"
@@ -69,7 +69,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1日20분デジタル遮断の精密筆写</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">1日20デジタル遮断の精密筆写</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     スマートフォンを完全に別の部屋に置いたまま、20〜30分間没頭します。自身が勉強している書籍や要約したい本の内容を文字通り丁寧に紙の上に書き進めます。活字の形に気を配りながら深く読み込みます。

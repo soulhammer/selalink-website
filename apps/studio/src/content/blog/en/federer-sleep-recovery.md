@@ -4,7 +4,7 @@ description: "Discover tennis legend Roger Federer's secret to sustaining peak a
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/federer_sleep_recovery.webp"
 app: "buildself"
 formatVersion: 4

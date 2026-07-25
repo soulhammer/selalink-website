@@ -4,7 +4,7 @@ description: "设计了计算机架构和博弈论的天才数学家，保持在
 pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 category: "BuildSelf"
-tags: ["위인 습관", "존 폰 노이만", "학습", "아이디어"]
+tags: []
 heroImage: "/images/blog/von_neumann.webp"
 app: "buildself"
 formatVersion: 4

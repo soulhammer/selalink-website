@@ -4,7 +4,7 @@ description: "El 40.º presidente de EE. UU., Ronald Reagan, comía caramelos de
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4

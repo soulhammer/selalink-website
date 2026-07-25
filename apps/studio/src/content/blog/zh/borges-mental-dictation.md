@@ -4,7 +4,7 @@ description: "探索阿根廷文学巨匠豪尔赫·路易斯·博尔赫斯在�
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/borges_mental_dictation.webp"
 app: "buildself"
 formatVersion: 4

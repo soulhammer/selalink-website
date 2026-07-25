@@ -4,7 +4,7 @@ description: "探索“美国现代主义之母”乔治亚·欧姬芙如何通�
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["위인 습관", "조지아 오키프", "이완", "성찰"]
+tags: []
 heroImage: "/images/blog/georgia_okeeffe.webp"
 app: "buildself"
 formatVersion: 4

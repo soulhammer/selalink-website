@@ -4,7 +4,7 @@ description: "La rutina de '100 putts consecutivos exitosos' realizada por la le
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위인 습관", "타이거 우즈", "몰입", "집중", "성공습관"]
+tags: []
 heroImage: "/images/blog/woods_hundred_putts.webp"
 app: "buildself"
 formatVersion: 4
@@ -18,7 +18,7 @@ steps:
     text: "Aprovecha el estado de alta concentración y dopamina logrado al completar la tarea para abordar de inmediato tus actividades clave, como redactar propuestas."
 faqs:
   - question: "¿Qué pasa si esto aumenta mi estrés y dificulta mi concentración en lugar de ayudar?"
-    answer: "Eso s컞 cuando la dificultad supera con creces tu nivel actual, liberando hormonas de estrés. Reduce la intensidad para que la tasa de éxito estimada sea del 70–80%."
+    answer: "Eso sucede cuando la dificultad supera con creces tu nivel actual, liberando hormonas de estrés. Reduce la intensidad para que la tasa de éxito estimada sea del 70–80%."
 
 ---
 
@@ -95,7 +95,7 @@ Para aprovechar la dopamina, las tareas no deben ser ni demasiado fáciles ni im
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Eso s컞 cuando la dificultad supera con creces tu nivel actual, liberando hormonas de estrés. Reduce la intensidad para que la tasa de éxito estimada sea del 70–80%.
+      Eso sucede cuando la dificultad supera con creces tu nivel actual, liberando hormonas de estrés. Reduce la intensidad para que la tasa de éxito estimada sea del 70–80%.
     </p>
   </details>
 </div>

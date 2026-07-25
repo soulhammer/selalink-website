@@ -4,7 +4,7 @@ description: "破译恩尼格玛密码的计算机科学之父艾伦·图灵。�
 pubDate: "2026-02-02"
 updatedDate: "2026-02-02"
 category: "BuildSelf"
-tags: ["위인 습관", "앨런튜링", "달리기", "러닝", "뇌피로해소"]
+tags: []
 heroImage: "/images/blog/turing_marathon_running.webp"
 app: "buildself"
 formatVersion: 4

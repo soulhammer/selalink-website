@@ -4,7 +4,7 @@ description: "Apresentamos o 'Mood Pillow' (almofada do humor), um sinal de imer
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/alcott_mood_ribbon.webp"
 app: "buildself"
 formatVersion: 4

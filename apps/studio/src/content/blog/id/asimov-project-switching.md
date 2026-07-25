@@ -4,7 +4,7 @@ description: "Rutinitas beralih multitasking dari maestro fiksi ilmiah Isaac Asi
 pubDate: "2026-05-26"
 updatedDate: "2026-05-26"
 category: "BuildSelf"
-tags: ["위인 습관", "아이작 아시모프", "집중력", "다중작업", "창의성", "생산성"]
+tags: []
 heroImage: "/images/blog/asimov_project_switching.webp"
 app: "buildself"
 formatVersion: 4

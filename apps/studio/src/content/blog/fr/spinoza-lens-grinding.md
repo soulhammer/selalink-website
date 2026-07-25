@@ -4,7 +4,7 @@ description: "Découvrez comment le philosophe panthéiste Spinoza a dissipé la
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["신체노동", "이완", "몰입", "근세"]
+tags: []
 heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4

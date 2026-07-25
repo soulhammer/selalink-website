@@ -4,7 +4,7 @@ description: "Discover how the Sun King Louis XIV governed France by strictly bl
 pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
-tags: ["위인 습관", "루이14세", "타임블로킹", "시간관리", "집중력"]
+tags: []
 heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 formatVersion: 4

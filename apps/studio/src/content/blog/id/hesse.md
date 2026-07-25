@@ -4,7 +4,7 @@ description: "Pelajari bagaimana peraih Nobel dan penulis pasifis Hermann Hesse 
 pubDate: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "BuildSelf"
-tags: ["위인 습관", "헤르만 헤세", "휴식", "성찰"]
+tags: []
 heroImage: "/images/blog/hesse.webp"
 app: "buildself"
 formatVersion: 4

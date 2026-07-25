@@ -4,7 +4,7 @@ description: "Discover how literary giant Charles Dickens crafted complex charac
 pubDate: "2026-05-23"
 updatedDate: "2026-05-23"
 category: "BuildSelf"
-tags: ["위인 습관", "찰스 디킨스", "산책", "창의성", "아이디어"]
+tags: []
 heroImage: "/images/blog/dickens_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Discover the routine of Louis Pasteur, the French microbiologist a
 pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
-tags: ["위인 습관", "루이 파스퇴르", "단순화", "분석"]
+tags: []
 heroImage: "/images/blog/pasteur.webp"
 app: "buildself"
 formatVersion: 4

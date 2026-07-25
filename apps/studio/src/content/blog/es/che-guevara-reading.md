@@ -4,7 +4,7 @@ description: "Descubra cómo el héroe de la Revolución Cubana Che Guevara leí
 pubDate: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "BuildSelf"
-tags: ["위인 습관", "체게바라", "매일독서", "인지재구조화", "신념단련"]
+tags: []
 heroImage: "/images/blog/che_guevara_reading.webp"
 app: "buildself"
 formatVersion: 4

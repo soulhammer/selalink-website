@@ -4,7 +4,7 @@ description: "探索科幻小说开创者儒勒·凡尔纳每天清晨5点执行
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/verne_morning_scrap.webp"
 app: "buildself"
 formatVersion: 4

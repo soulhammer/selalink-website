@@ -4,7 +4,7 @@ description: "Penulis Harry Potter J.K. Rowling menulis karya besarnya dengan la
 pubDate: "2026-03-03"
 updatedDate: "2026-03-03"
 category: "BuildSelf"
-tags: ["위인 습관", "J.K. 롤링", "창의성", "백색소음", "집중"]
+tags: []
 heroImage: "/images/blog/rowling_cafe_focus.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Giuseppe Verdi se levantaba a las 5 a.m. en la granja Sant'Agata p
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["창의성", "휴식", "생산성"]
+tags: []
 heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4

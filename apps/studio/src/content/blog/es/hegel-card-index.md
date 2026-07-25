@@ -4,7 +4,7 @@ description: "Detrás de la culminación del Idealismo Alemán por parte de G. W
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/hegel_card_index.webp"
 app: "buildself"
 formatVersion: 4

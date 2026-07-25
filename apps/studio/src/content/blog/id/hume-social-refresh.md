@@ -4,7 +4,7 @@ description: "Pelajari bagaimana filsuf Skotlandia David Hume melawan keputusasa
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/hume_social_refresh.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Découvrez comment le cofondateur d'Apple, Steve Jobs, préservait
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+tags: []
 heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4

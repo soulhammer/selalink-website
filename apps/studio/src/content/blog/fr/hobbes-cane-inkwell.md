@@ -4,7 +4,7 @@ description: "Découvrez comment le penseur Thomas Hobbes a fixé un encrier a s
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["산책 지팡이에 잉크","Routine"]
+tags: []
 heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4

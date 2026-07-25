@@ -1,10 +1,10 @@
 ---
-title: "独創적인国政の秘訣？世宗大王の凄まじい早朝読書ルーティン"
+title: "独創国政の秘訣？世宗大王の凄まじい早朝読書ルーティン"
 description: "ハングルを創制した朝鮮最高の名君、世宗大王。慢性疾患に悩まされながらも毎日午前3時に起きて古典を読み頭をウォーミングアップした、彼の朝の認知活性化ルーティンを紹介します。"
 pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: ["위인 습관", "세종대왕", "독서", "공부", "아침독서"]
+tags: []
 heroImage: "/images/blog/sejong_dawn_reading.webp"
 app: "buildself"
 formatVersion: 4

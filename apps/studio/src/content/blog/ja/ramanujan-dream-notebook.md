@@ -4,7 +4,7 @@ description: "数論と無限級数の天才、シュリニヴァーサ・ラマ
 pubDate: "2026-01-15"
 updatedDate: "2026-01-15"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/ramanujan_dream_notebook.webp"
 app: "buildself"
 formatVersion: 4
@@ -28,7 +28,7 @@ faqs:
 
 ラマヌジャンは睡眠中や赤い絨毯を敷いたベッドで休息を取る際、ヒンドゥー教の女神ナマギリ（Namagiri）が夢の中に現れ、無限級数の複雑な公式や数式を赤い墨でスクリーンのように映し出して見せてくれる夢を頻繁に見ました。ラマヌジャンにとって睡眠は単に体力を回復する時間ではなく、意識の制約が解き放たれ無限の幾何学的アイデアが再結合される最高の創造的夜間研究室でした。彼は朝目が覚めてすぐ、脳がアルファ波（Alpha Wave）状態にとどまっている間に、夢で見た数式や直感が消え去る前に枕元のノートやスレート（石板）に赤い墨で躊躇なく記録しました。
 
-今回の記事では、ラマヌジャンが生涯実践した「起床直後直感メモ」ルーティンの科学的作動原理と、現代人が複雑な難題を解決するために 이를 実生活にどのように応用できるかを探ります。
+今回の記事では、ラマヌジャンが生涯実践した「起床直後直感メモ」ルーティンの科学的作動原理と、現代人が複雑な難題を解決するために  実生活にどのように応用できるかを探ります。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

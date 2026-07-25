@@ -4,7 +4,7 @@ description: "探索19世纪法国批判现实主义文学大师奥诺雷·德·
 pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+tags: []
 heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4

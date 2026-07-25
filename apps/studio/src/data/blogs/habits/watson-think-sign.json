@@ -14,7 +14,7 @@
     "description": {
       "ko": "사무실마다 'THINK' 팻말을 걸고 하루 15분 조용히 생각에 빠진 IBM 창업자 토마스 왓슨의 사색법. 의도적인 단절이 뇌의 장기 기억을 정리하는 원리를 설명합니다.",
       "en": "Discover the thinking method of IBM founder Thomas Watson, who hung 'THINK' signs in every office and spent 15 minutes daily in quiet reflection. Explains how intentional disconnection organizes long-term memory.",
-      "ja": "オフィスごとに「THINK」の札를掲げ、1日15分静かに思索に耽ったIBM創業者トーマス・ワトソンの思索術。意図的な遮断が脳の長期記憶を整理する原理を解説します。",
+      "ja": "オフィスごとに「THINK」の札を掲げ、1日15分静かに思索に耽ったIBM創業者トーマス・ワトソンの思索術。意図的な遮断が脳の長期記憶を整理する原理を解説します。",
       "zh": "探索IBM创始人托马斯·沃森的思考法则，他在每个办公室都挂上“THINK”标牌，每天独自沉思15分钟。阐述有意的断连如何清理大脑长期记忆的原理。",
       "es": "Descubra el método de reflexión del fundador de IBM, Thomas Watson, quien colocó carteles de 'THINK' en cada oficina y dedicaba 15 minutos diarios a la reflexión. Explica cómo la desconexión intencional organiza la memoria a largo plazo.",
       "de": "Entdecken Sie die Denkmethode von IBM-Gründer Thomas Watson, der in jedem Büro ‚THINK‘-Schilder aufhängte und täglich 15 Minuten in stiller Reflexion verbrachte. Erklärt, wie absichtliche Entkopplung das Langzeitgedächtnis ordnet.",
@@ -79,7 +79,7 @@
     },
     "cautionDesc": {
       "ko": "이 사색 훈련이 성공하려면 눈에 잘 보이는 물리적 표지인 <strong>시각적 프롬프트(Visual Prompt)</strong>가 사무 공간 내에 있어야 합니다. 문구가 보이지 않으면 우리의 뇌는 다시 관성에 젖어 메일을 열고 인터넷 서핑을 하는 즉각적 반응 행동을 수행하므로, 눈앞에 확실한 팻말을 두어 의식의 흐름을 주기적으로 끊어주는 제어 장치를 유지해야 합니다.",
-      "en": "For this reflection training to s쳮d, a prominent physical sign serving as a <strong>Visual Prompt</strong> must be present in your workspace. Without a visible cue, the brain defaults to inertia—opening emails or browsing the web. A clear sign serves as a control mechanism to periodically interrupt the automatic flow of consciousness.",
+      "en": "For this reflection training to succeed, a prominent physical sign serving as a <strong>Visual Prompt</strong> must be present in your workspace. Without a visible cue, the brain defaults to inertia—opening emails or browsing the web. A clear sign serves as a control mechanism to periodically interrupt the automatic flow of consciousness.",
       "ja": "この思索訓練を成功させるには、目につきやすい物理的標識である<strong>「視覚的プロンプト（Visual Prompt）」</strong>がオフィス空間内になければなりません。文字が見えないと、私たちの脳は再び慣性に流され、メールを開いたりネットサーフィンをしたりする即座の反応行動を行ってしまうため、目の前に確実な札を置いて意識の流れを定期的に断ち切る制御装置を維持する必要があります。",
       "zh": "为确保此项思考训练取得成功，工作空间内必须放置显眼的物理标识作为<strong>“视觉提示（Visual Prompt）”</strong>。若看不见提示文字，大脑便会重蹈惯性，去执行查看邮件或浏览网络等即刻反应行为。因此，必须在眼前放置明确的标牌，以作为定期中断自动化意识流的控制装置。",
       "es": "Para que este entrenamiento tenga éxito, debe haber una señal física visible que funcione como <strong>Prompt Visual</strong> en su espacio de trabajo. Sin un recordatorio visual, el cerebro recurre a la inercia (revisar correos o navegar en internet). Un cartel claro actúa como mecanismo de control.",

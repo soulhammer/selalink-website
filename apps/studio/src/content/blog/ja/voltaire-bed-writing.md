@@ -4,11 +4,11 @@ description: "フランスの大文豪ヴォルテールが生涯実践したベ
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/voltaire_bed_writing.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Voltaire Bed Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "Voltaire Bed Writing       & (Cognitive Neuroscience) "
 steps:
   - name: "夢うつつの状態を維持する"
     text: "目が覚めた直後、絶対にベッドから起き上がったりスマートフォンを見たりしないでください。脳が完全に覚醒する前、潜在意識が活発に活動している夢うつつの状態の流れを静かに感じてみます。"
@@ -28,7 +28,7 @@ faqs:
 
 18世紀のヨーロッパ啓蒙主義運動の象徴であり、数多くの小説、悲劇、歴史書を残した偉大な思想家ヴォルテール。彼の鋭い批判意識と燦然たる人文学的アイデアは、毎朝どこから始まっていたのでしょうか？
 
-驚くべきことに、ヴォルテールは朝目を覚ました後、数時間ベッドから一歩も出ずに横になったまま本を読んだり執筆をしたりしました。彼はこの半夢半醒の朝の時間に脳の認知の柔軟性が極大化し、普段は思い浮かばない鋭い風刺や閃く比喩的表現が naturally に溢れ出ることをよく知っていました。ヴォルテールは寝室に数人の秘書を置き、ベッドに斜めに寄りかかりながら浮かぶ考えを口述したり、数十通の手紙を代筆させたりしました。彼の書簡의 많은 부분이 바로 이 침대 위 아침 루틴에서 탄생했습니다.
+驚くべきことに、ヴォルテールは朝目を覚ました後、数時間ベッドから一歩も出ずに横になったまま本を読んだり執筆をしたりしました。彼はこの半夢半醒の朝の時間に脳の認知の柔軟性が極大化し、普段は思い浮かばない鋭い風刺や閃く比喩的表現が naturally に溢れ出ることをよく知っていました。ヴォルテールは寝室に数人の秘書を置き、ベッドに斜めに寄りかかりながら浮かぶ考えを口述したり、数十通の手紙を代筆させたりしました。彼の書簡         .
 
 今日のポストでは、ヴォルテールが生涯実践したベッドの上の朝のルーティンの科学的作動原理と、現代人が創造性向上のためにこれをどのように応用できるかを探ります。
 
@@ -39,7 +39,7 @@ faqs:
       歴史的・学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「voltaire-bed-writing」は <strong>Voltaire Bed Writing 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> に基づいて作成されました。
+      「voltaire-bed-writing」は <strong>Voltaire Bed Writing       & (Cognitive Neuroscience) </strong> に基づいて作成されました。
     </p>
   </div>
 </div>

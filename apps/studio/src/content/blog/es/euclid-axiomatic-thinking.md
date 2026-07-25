@@ -4,7 +4,7 @@ description: "Explore cómo el matemático griego Euclides resolvió dilemas com
 pubDate: "2026-02-21"
 updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["의사결정", "본질", "집중", "생산성"]
+tags: []
 heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "L'auteur de contes de fées mondialement célèbre Hans Christian 
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "안데르센", "종이오리기", "미술치료", "뇌휴식"]
+tags: []
 heroImage: "/images/blog/andersen_paper_cutting.webp"
 app: "buildself"
 formatVersion: 4

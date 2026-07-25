@@ -4,7 +4,7 @@ description: "Découvrez comment Rachel Carson, pionnière du mouvement écologi
 pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["위인 습관", "레이첼 카슨", "자연 관찰", "주의 회복", "인도어 디톡스"]
+tags: []
 heroImage: "/images/blog/carson_tidepool_observation.webp"
 app: "buildself"
 formatVersion: 4

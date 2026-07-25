@@ -4,7 +4,7 @@ description: "朱塞佩·威尔第在绘制乐谱前的凌晨5点起床，在圣
 pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 category: "BuildSelf"
-tags: ["창의성", "휴식", "생산성"]
+tags: []
 heroImage: "/images/blog/verdi_morning_farming.webp"
 app: "buildself"
 formatVersion: 4

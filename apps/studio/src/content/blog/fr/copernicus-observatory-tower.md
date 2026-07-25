@@ -4,7 +4,7 @@ description: "Découvrez comment Nicolas Copernic a conservé une tour d'observa
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "니콜라우스 코페르니쿠스", "집중", "계획", "생산성"]
+tags: []
 heroImage: "/images/blog/copernicus_observatory_tower.webp"
 app: "buildself"
 formatVersion: 4

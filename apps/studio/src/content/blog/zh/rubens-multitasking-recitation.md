@@ -4,7 +4,7 @@ description: "巴洛克艺术巨匠鲁本斯边作画边聘人朗读历史与文
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/rubens_multitasking_recitation.webp"
 app: "buildself"
 formatVersion: 4

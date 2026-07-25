@@ -4,7 +4,7 @@ description: "Descubra cómo el naturalista Charles Darwin recorría su sendero 
 pubDate: "2026-06-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "찰스 다윈", "걷기", "사색", "아이디어"]
+tags: []
 heroImage: "/images/blog/darwin_sandwalk.webp"
 app: "buildself"
 formatVersion: 4

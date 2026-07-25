@@ -4,7 +4,7 @@ description: "Explica o efeito calmante neurocientífico por trás do hábito do
 pubDate: "2026-04-13"
 updatedDate: "2026-04-13"
 category: "BuildSelf"
-tags: ["위인 습관", "휴식"]
+tags: []
 heroImage: "/images/blog/pavarotti_bent_nail.webp"
 app: "buildself"
 formatVersion: 4

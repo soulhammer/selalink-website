@@ -4,7 +4,7 @@ description: "作家弗拉基米尔·纳博科夫将小说切割成碎片记录�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위인 습관", "블라디미르 나보코프", "기록", "메모", "생산성", "창의성"]
+tags: []
 heroImage: "/images/blog/nabokov_index_card.webp"
 app: "buildself"
 formatVersion: 4

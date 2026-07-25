@@ -4,7 +4,7 @@ description: "Découvrez comment le grand empiriste John Locke a indexé méthod
 pubDate: "2026-03-19"
 updatedDate: "2026-03-19"
 category: "BuildSelf"
-tags: ["1분 안에 과거의 ","Routine"]
+tags: []
 heroImage: "/images/blog/locke_commonplace_book.webp"
 app: "buildself"
 formatVersion: 4

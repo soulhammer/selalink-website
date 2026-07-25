@@ -4,7 +4,7 @@ description: "麦尔坎·X实现了剧烈的大脑认知跃升。探讨他在狱
 pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 category: "BuildSelf"
-tags: ["위인 습관", "말콤 X", "필사 학습", "뇌 자극", "집중력"]
+tags: []
 heroImage: "/images/blog/malcolm_dictionary_transcription.webp"
 app: "buildself"
 formatVersion: 4

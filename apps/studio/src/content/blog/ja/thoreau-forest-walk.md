@@ -4,7 +4,7 @@ description: "ウォールデン池の周辺を毎日4時間歩きながら観�
 pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
-tags: ["위인 습관", "사색"]
+tags: []
 heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 formatVersion: 4

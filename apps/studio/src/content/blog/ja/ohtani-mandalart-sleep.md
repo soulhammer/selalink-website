@@ -4,7 +4,7 @@ description: "現代野球の歴史を塗り替える大谷翔平。彼が高校
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["위인 습관", "오타니 쇼헤이", "성장", "계획", "수면회복"]
+tags: []
 heroImage: "/images/blog/ohtani_mandalart_sleep.webp"
 app: "buildself"
 formatVersion: 4

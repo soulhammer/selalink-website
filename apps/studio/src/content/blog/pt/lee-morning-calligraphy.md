@@ -4,7 +4,7 @@ description: "Descubra como Lee Byung-chul, fundador da Samsung, aprimorava sua 
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "이병철", "집중", "마인드셋", "의지력"]
+tags: []
 heroImage: "/images/blog/lee_morning_calligraphy.webp"
 app: "buildself"
 formatVersion: 4

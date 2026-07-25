@@ -4,7 +4,7 @@ description: "每天身着整洁正装在客厅画架前沉稳作画的超现实
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "르네 마그리트", "집중", "루틴", "창의성", "단순화"]
+tags: []
 heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4

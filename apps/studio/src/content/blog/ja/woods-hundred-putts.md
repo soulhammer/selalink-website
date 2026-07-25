@@ -4,7 +4,7 @@ description: "ゴルフの皇帝タイガー・ウッズが練習前に行った
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위인 습관", "타이거 우즈", "몰입", "집중", "성공습관"]
+tags: []
 heroImage: "/images/blog/woods_hundred_putts.webp"
 app: "buildself"
 formatVersion: 4

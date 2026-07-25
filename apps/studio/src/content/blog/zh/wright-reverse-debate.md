@@ -4,7 +4,7 @@ description: "发明第一架有动力飞机的莱特兄弟。探究他们为了
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["위인 습관", "라이트 형제", "의지력", "공부", "메타인지"]
+tags: []
 heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4

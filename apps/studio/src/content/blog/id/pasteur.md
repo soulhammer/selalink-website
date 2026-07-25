@@ -4,7 +4,7 @@ description: "Pelajari rutinitas Louis Pasteur, bapak pasteurisasi dan vaksin, y
 pubDate: "2026-05-03"
 updatedDate: "2026-05-03"
 category: "BuildSelf"
-tags: ["위인 습관", "루이 파스퇴르", "단순화", "분석"]
+tags: []
 heroImage: "/images/blog/pasteur.webp"
 app: "buildself"
 formatVersion: 4
@@ -26,7 +26,7 @@ faqs:
 
 "Dalam bidang pengamatan, keberuntungan hanya memihak pada pikiran yang siap." 🔬
 
-Louis Pasteur (1822–1895) adalah ilmuwan Prancis yang memelopori medis modern, pasteurisasi, serta vaksin rabies. Pasteur duduk tak bergerak selama berjam-jam mengamati biakan labu di bawah mikroskop, mencatat 변화 sekecil apa pun. Dari rutinitas observasi inilah lahir penemuan vaksin modern.
+Louis Pasteur (1822–1895) adalah ilmuwan Prancis yang memelopori medis modern, pasteurisasi, serta vaksin rabies. Pasteur duduk tak bergerak selama berjam-jam mengamati biakan labu di bawah mikroskop, mencatat  sekecil apa pun. Dari rutinitas observasi inilah lahir penemuan vaksin modern.
 
 Dalam postingan ini, kita akan menjelajahi prinsip kognitif di balik rutinitas Pasteur dan panduan 3 langkah untuk menerapkannya.
 

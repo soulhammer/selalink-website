@@ -4,7 +4,7 @@ description: "Der originelle Farbausdruck des 'Malers des Lichts' J.M.W. Turner 
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/turner_dawn_observation.webp"
 app: "buildself"
 formatVersion: 4

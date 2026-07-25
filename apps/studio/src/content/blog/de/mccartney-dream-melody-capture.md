@@ -4,7 +4,7 @@ description: "Paul McCartney, der den Beatles-Klassiker 'Yesterday' direkt nach 
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "기록"]
+tags: []
 heroImage: "/images/blog/mccartney_dream_melody_capture.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "探索乔治·华盛顿如何在清晨4点即起踏遍弗吉尼亚
 pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 category: "BuildSelf"
-tags: ["위인 습관", "조지 워싱턴", "행정력", "영농 일지", "메타 인지"]
+tags: []
 heroImage: "/images/blog/george_washington_morning_rounds.webp"
 app: "buildself"
 formatVersion: 4

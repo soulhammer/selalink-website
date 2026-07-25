@@ -4,7 +4,7 @@ description: "Pelajari bagaimana ilmuwan ilmu komputer Donald Knuth menghentikan
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "도널드 너스", "집중", "생산성", "시간 관리"]
+tags: []
 heroImage: "/images/blog/knuth_no_email.webp"
 app: "buildself"
 formatVersion: 4

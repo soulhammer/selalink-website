@@ -4,7 +4,7 @@ description: "Discover how modern philosophy titan Immanuel Kant maintained unma
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+tags: []
 heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4
@@ -28,7 +28,7 @@ faqs:
 
 Immanuel Kant (1724–1804) was the preeminent German philosopher whose 1781 masterpiece, *Critique of Pure Reason* (*Kritik der reinen Vernunft*), fundamentally redefined epistemology and western metaphysics. Spending his entire life within the Prussian city of Königsberg, Kant adhered to a famously clockwork daily schedule.
 
-As documented in Manfred Kuehn's authoritative biography *Kant: A Biography*, at precisely 3:30 PM every afternoon—following his formal lunch with friends—Kant stepped out of his house in his grey coat, walking stick in hand. His manservant Martin Lampe followed discreetly behind carrying an umbrella. Kant paced up and down the linden-tree lined avenue (later d믭 the 'Philosopher's Walk') exactly eight times. His walk was so astonishingly punctual that Königsberg townspeople famously calibrated their pocket watches by his passing. Legend holds he missed this walk only once in his entire lifetime—in 1762, when he became utterly spellbound reading Jean-Jacques Rousseau's new treatise *Émile*.
+As documented in Manfred Kuehn's authoritative biography *Kant: A Biography*, at precisely 3:30 PM every afternoon—following his formal lunch with friends—Kant stepped out of his house in his grey coat, walking stick in hand. His manservant Martin Lampe followed discreetly behind carrying an umbrella. Kant paced up and down the linden-tree lined avenue (later d the 'Philosopher's Walk') exactly eight times. His walk was so astonishingly punctual that Königsberg townspeople famously calibrated their pocket watches by his passing. Legend holds he missed this walk only once in his entire lifetime—in 1762, when he became utterly spellbound reading Jean-Jacques Rousseau's new treatise *Émile*.
 
 Crucially, Kant maintained a strict rule during his walks: he kept his mouth tightly closed, breathing strictly through his nose (*Nasal Breathing*) to protect his respiratory system and maintain internal quietude. Neuroscientifically, stepping outdoors at a fixed time stimulated his brain's suprachiasmatic nucleus (SCN), anchoring his circadian rhythm while restoring prefrontal executive bandwidth for rigorous philosophical reasoning.
 

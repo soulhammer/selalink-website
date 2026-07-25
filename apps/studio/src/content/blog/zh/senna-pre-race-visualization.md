@@ -4,7 +4,7 @@ description: "一级方程式（F1）传奇冠军埃尔顿·塞纳在每场比�
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["집중", "몰입", "성공습관"]
+tags: []
 heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "深度剖析音乐史上拥有绝代技巧的钢琴家弗朗茨·�
 pubDate: "2026-04-14"
 updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+tags: []
 heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4

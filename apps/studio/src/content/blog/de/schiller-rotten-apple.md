@@ -4,7 +4,7 @@ description: "Der deutsche Literaturgigant Friedrich Schiller vertiefte sich in 
 pubDate: "2026-05-05"
 updatedDate: "2026-05-05"
 category: "BuildSelf"
-tags: ["서랍 속 썩은 사과","Routine"]
+tags: []
 heroImage: "/images/blog/schiller_rotten_apple.webp"
 app: "buildself"
 formatVersion: 4

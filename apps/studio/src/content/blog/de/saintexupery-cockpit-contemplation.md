@@ -4,7 +4,7 @@ description: "Erkunden Sie die Schreibgewohnheit von Antoine de Saint-Exupéry, 
 pubDate: "2026-07-18"
 updatedDate: "2026-07-18"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "사색", "본질"]
+tags: []
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "探讨天文学家卡尔·萨根通过3分钟宇宙俯瞰（Zoom-o
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "BuildSelf"
-tags: ["성찰", "마음", "스트레스 해소", "본질"]
+tags: []
 heroImage: "/images/blog/sagan_cosmic_perspective.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Die Anthropologin Margaret Mead notierte Beobachtungen sofort, bev
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["기록", "메모", "생산성"]
+tags: []
 heroImage: "/images/blog/mead_immediate_field_notes.webp"
 app: "buildself"
 formatVersion: 4

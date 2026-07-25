@@ -4,7 +4,7 @@ description: "Pelajari bagaimana perintis busana legendaris Coco Chanel merevolu
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+tags: []
 heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4
@@ -30,7 +30,7 @@ Gabrielle 'Coco' Chanel (1883–1971) adalah visioner busana Prancis yang membeb
 
 Chanel menolak sketsa kertas abstrak. Sebaliknya, ia berdiri di studio rue Cambon, menempelkan kain mentah secara langsung pada model hidup yang bergerak. Berbekal gunting penjahit, ia secara metodis memotong hiasan non-fungsional—kawat korset yang kaku, renda tebal, dan kerah raksasa—membiarkan kelebihannya jatuh ke lantai. Alih-alih menghapus garis di atas kertas, ia merasakan ketegangan fisik kain, membentuk ruang di sekitar tubuh secara real-time. Rutinitas pemotongan subtraktif aktif ini melibatkan korteks prefrontal-nya untuk menyaring kebisingan visual dan mengisolasi nilai fungsional murni.
 
-Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'draping langsung dan pemotongan subtraktif' Coco Chanel dan menyajikan rencana tindakan praktis 3단계 bagi para kreator modern untuk memangkas kelebihan kognitif dan menyaring nilai inti.
+Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'draping langsung dan pemotongan subtraktif' Coco Chanel dan menyajikan rencana tindakan praktis 3-tahap bagi para kreator modern untuk memangkas kelebihan kognitif dan menyaring nilai inti.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

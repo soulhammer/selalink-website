@@ -4,7 +4,7 @@ description: "キャンバス前の椅子に座り、雑念が完全に消える
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["위인 습관", "아그네스 마틴", "명상", "사색", "안정", "창의성"]
+tags: []
 heroImage: "/images/blog/martin_silent_waiting.webp"
 app: "buildself"
 formatVersion: 4

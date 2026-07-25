@@ -4,7 +4,7 @@ description: "Marcel Proust, autor da obra-prima 'Em Busca do Tempo Perdido'. De
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
-tags: ["위인 습관", "마르셀프루스트", "감각차단", "집중력", "방음실집필"]
+tags: []
 heroImage: "/images/blog/proust_cork_isolation.webp"
 app: "buildself"
 formatVersion: 4

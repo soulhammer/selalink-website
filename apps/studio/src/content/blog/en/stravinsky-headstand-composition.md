@@ -4,7 +4,7 @@ description: "Musician Igor Stravinsky did headstands whenever he faced writer's
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위인 습관", "이고르 스트라빈스키", "리프레시", "창의성", "집중"]
+tags: []
 heroImage: "/images/blog/stravinsky_headstand_composition.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Descubra cómo el gurú de la gestión Peter Drucker dominó una n
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위인 습관", "피터 드러커", "학습", "자기계발", "시간 관리"]
+tags: []
 heroImage: "/images/blog/drucker_three_year_study.webp"
 app: "buildself"
 formatVersion: 4

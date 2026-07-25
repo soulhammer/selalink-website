@@ -4,7 +4,7 @@ description: "Alfred Nobel, fondateur des Prix Nobel. DÃ©couvrez sa routine m�
 pubDate: "2026-04-15"
 updatedDate: "2026-04-15"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
+tags: []
 heroImage: "/images/blog/nobel_evening_reflection.webp"
 app: "buildself"
 formatVersion: 4

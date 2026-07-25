@@ -4,7 +4,7 @@ description: "BegrÃ¼nderin der modernen Krankenpflege und Pionierin der Statis
 pubDate: "2026-03-20"
 updatedDate: "2026-03-20"
 category: "BuildSelf"
-tags: ["위인 습관", "플로렌스 나이팅게일", "기록", "계획"]
+tags: []
 heroImage: "/images/blog/nightingale.webp"
 app: "buildself"
 formatVersion: 4

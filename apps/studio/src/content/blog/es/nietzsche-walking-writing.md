@@ -4,7 +4,7 @@ description: "Examine el hecho histÃ³rico del filÃ³sofo alemÃ¡n Friedrich 
 pubDate: "2026-04-27"
 updatedDate: "2026-04-27"
 category: "BuildSelf"
-tags: ["위인 습관", "프리드리히 니체", "창의성", "산책", "아이디어"]
+tags: []
 heroImage: "/images/blog/nietzsche_walking_writing.webp"
 app: "buildself"
 formatVersion: 4

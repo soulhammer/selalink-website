@@ -4,7 +4,7 @@ description: "中世纪伟大的神学家托马斯·阿奎那同时向3~4名秘�
 pubDate: "2026-03-09"
 updatedDate: "2026-03-09"
 category: "BuildSelf"
-tags: ["집중력", "구술대필", "작업기억", "중세"]
+tags: []
 heroImage: "/images/blog/aquinas_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4

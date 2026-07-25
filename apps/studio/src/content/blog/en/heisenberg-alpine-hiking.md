@@ -4,7 +4,7 @@ description: "Discover how Werner Heisenberg solved quantum mechanics dilemmas b
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["사색", "이완", "창의성"]
+tags: []
 heroImage: "/images/blog/heisenberg_alpine_hiking.webp"
 app: "buildself"
 formatVersion: 4

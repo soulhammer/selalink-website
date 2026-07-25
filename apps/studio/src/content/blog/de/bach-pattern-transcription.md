@@ -4,7 +4,7 @@ description: "Johann Sebastian Bach verinnerlichte sein Leben lang mathematische
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "바흐", "필사", "손글씨", "학습법"]
+tags: []
 heroImage: "/images/blog/bach_pattern_transcription.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "第2次世界大戦の勝利を導いたイギリスの首相ウ�
 pubDate: "2026-04-24"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "윈스턴 처칠", "낮잠", "휴식", "에너지"]
+tags: []
 heroImage: "/images/blog/churchill_afternoon_nap.webp"
 app: "buildself"
 formatVersion: 4

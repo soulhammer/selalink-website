@@ -4,7 +4,7 @@ description: "Descubra cómo el maestro impresionista Claude Debussy escuchaba l
 pubDate: "2026-03-27"
 updatedDate: "2026-03-27"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
+tags: []
 heroImage: "/images/blog/debussy_nature_listening.webp"
 app: "buildself"
 formatVersion: 4

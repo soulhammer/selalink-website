@@ -4,7 +4,7 @@ description: "Découvrez comment le président Roosevelt apaisait sa tension men
 pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 category: "BuildSelf"
-tags: ["위인 습관", "루스벨트", "스트레스 해소", "휴식 루틴", "취침 전 습관"]
+tags: []
 heroImage: "/images/blog/fdr_stamp_collecting.webp"
 app: "buildself"
 formatVersion: 4

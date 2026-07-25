@@ -4,7 +4,7 @@ description: "Descubra como Sigmund Freud, o pai da psicanálise, restaurava o e
 pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/freud_evening_walk.webp"
 app: "buildself"
 formatVersion: 4

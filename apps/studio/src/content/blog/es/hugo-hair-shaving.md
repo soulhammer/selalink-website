@@ -4,7 +4,7 @@ description: "Descubra cómo Victor Hugo se afeitó la mitad del cabello y la ba
 pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 category: "BuildSelf"
-tags: ["위인 습관", "빅토르 위고", "몰입", "환경 제약", "생산성"]
+tags: []
 heroImage: "/images/blog/hugo_hair_shaving.webp"
 app: "buildself"
 formatVersion: 4

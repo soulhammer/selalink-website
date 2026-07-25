@@ -4,7 +4,7 @@ description: "Stendhal, un maître de la littérature réaliste qui a disséqué
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "의사결정"]
+tags: []
 heroImage: "/images/blog/stendhal_civil_code_reading.webp"
 app: "buildself"
 formatVersion: 4

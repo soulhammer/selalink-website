@@ -4,7 +4,7 @@ description: "探索苹果公司联合创始人史蒂夫·乔布斯如何通过�
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 category: "BuildSelf"
-tags: ["위인 습관", "스티브 잡스", "생산성", "단순화", "의사결정"]
+tags: []
 heroImage: "/images/blog/jobs_uniform_minimalism.webp"
 app: "buildself"
 formatVersion: 4
@@ -54,7 +54,7 @@ faqs:
 
 ## 注意事项：将日常选择归一固定（常量化），极省大脑能源指南
 
-极简穿着习惯的科学本质决非追求审美的单调乏味，而在于“精细剪除无谓的低阶微观决策”。将早餐菜单、服装组合规制、通勤路线等日常重复性选项预先固化为固定常量（상수화/Constant），为前额叶储备充沛算力，方是拉满生产力的绝对核心。
+极简穿着习惯的科学本质决非追求审美的单调乏味，而在于“精细剪除无谓的低阶微观决策”。将早餐菜单、服装组合规制、通勤路线等日常重复性选项预先固化为固定常量（常量化/Constant），为前额叶储备充沛算力，方是拉满生产力的绝对核心。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

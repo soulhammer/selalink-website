@@ -4,7 +4,7 @@ description: "探索近代哲学泰斗伊曼努尔·康德如何通过柯尼斯�
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["위인 습관", "임마누엘 칸트", "산책", "규율", "휴식"]
+tags: []
 heroImage: "/images/blog/kant_walk.webp"
 app: "buildself"
 formatVersion: 4

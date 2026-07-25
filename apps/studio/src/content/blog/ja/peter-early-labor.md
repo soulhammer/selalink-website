@@ -4,11 +4,11 @@ description: "自ら造船大工となった改革君主ピョートル大帝の
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/peter_early_labor.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Peter Early Labor 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "Peter Early Labor       & (Cognitive Neuroscience) "
 steps:
   - name: "デイリー手続き実習技術の選定"
     text: "タイピング練習、外国語の音読、プログラミングの写経など、物理的に指や感覚細胞を直接精巧に使う対象を1日1つ選定します。"
@@ -37,7 +37,7 @@ faqs:
       歴史的・学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「peter-early-labor」は <strong>Peter Early Labor 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> に基づいて作成されました。
+      「peter-early-labor」は <strong>Peter Early Labor       & (Cognitive Neuroscience) </strong> に基づいて作成されました。
     </p>
   </div>
 </div>
@@ -52,7 +52,7 @@ faqs:
 
 ## 理論と実務のバランスの取れた調整
 
-技術実習だからといって理論的学習（宣言的記憶の積載）を完全に無視し、闇雲に手だけを動かす習慣は上達を阻害します。手を敏捷に動かす実習は、事前によく読んだ「原理の基本学習」と対をなす必要があります。理論的背景を20%程度把握した後、残り80%의 エネルギーを手の操作に注ぐことが重要です。
+技術実習だからといって理論的学習（宣言的記憶の積載）を完全に無視し、闇雲に手だけを動かす習慣は上達を阻害します。手を敏捷に動かす実習は、事前によく読んだ「原理の基本学習」と対をなす必要があります。理論的背景を20%程度把握した後、残り80% エネルギーを手の操作に注ぐことが重要です。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

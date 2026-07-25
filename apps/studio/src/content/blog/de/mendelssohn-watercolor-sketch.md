@@ -4,7 +4,7 @@ description: "Der geniale Komponist Felix Mendelssohn weckte jeden Morgen seine 
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/mendelssohn_watercolor_sketch.webp"
 app: "buildself"
 formatVersion: 4

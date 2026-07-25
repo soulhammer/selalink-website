@@ -4,7 +4,7 @@ description: "Descubra como Benjamin Britten, gigante da música britânica do s
 pubDate: "2026-04-22"
 updatedDate: "2026-04-22"
 category: "BuildSelf"
-tags: ["오후 해안가 산책으","Routine"]
+tags: []
 heroImage: "/images/blog/britten_afternoon_walk.webp"
 app: "buildself"
 formatVersion: 4

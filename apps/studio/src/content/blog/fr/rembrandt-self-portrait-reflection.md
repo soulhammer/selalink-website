@@ -4,7 +4,7 @@ description: "Rembrandt van Rijn a profondément observé son processus de vieil
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["성찰", "창의성", "사색"]
+tags: []
 heroImage: "/images/blog/rembrandt_self_portrait_reflection.webp"
 app: "buildself"
 formatVersion: 4

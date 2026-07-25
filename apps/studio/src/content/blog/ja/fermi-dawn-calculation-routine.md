@@ -4,7 +4,7 @@ description: "初の人工原子炉を設計しノーベル賞を受賞した天
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["집중", "생산성", "학습"]
+tags: []
 heroImage: "/images/blog/fermi_dawn_calculation_routine.webp"
 app: "buildself"
 formatVersion: 4

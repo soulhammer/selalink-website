@@ -4,7 +4,7 @@ description: "艺术史巨匠亨利·马蒂斯。解析他在晚年经历重大�
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["위인 습관", "앙리 마티스", "컷아웃", "시각-촉각 자극", "통증 이완"]
+tags: []
 heroImage: "/images/blog/matisse_paper_cutout.webp"
 app: "buildself"
 formatVersion: 4

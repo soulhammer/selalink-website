@@ -4,7 +4,7 @@ description: "La reina Isabel I cultivó una feroz racionalidad y lógica traduc
 pubDate: "2026-01-09"
 updatedDate: "2026-01-09"
 category: "BuildSelf"
-tags: ["위인 습관", "엘리자베스 1세", "두뇌 훈련", "번역 습관", "아침 루틴"]
+tags: []
 heroImage: "/images/blog/elizabeth_classical_translation.webp"
 app: "buildself"
 formatVersion: 4
@@ -28,7 +28,7 @@ faqs:
 
 La reina Isabel I (1533–1603) inauguró la Era Dorada de Inglaterra, derrotó a la Gran Armada Española y sentó las bases marítimas de un imperio global. Habiendo sobrevivido al encarcelamiento en la Torre de Londres antes de ascender al trono, gobernó rodeada de conspiraciones de asesinato, rebeliones religiosas y amenazas geopolíticas.
 
-Ed쫚 por el humanista Roger Ascham, Isabel dominó seis idiomas, incluidos el latín y el griego antiguo. ¿Cómo mantuvo una compostura lógica implacable en medio del estrés? Su secreto era un hábito matutino estricto: dedicar la primera hora del día a traducir textos clásicos latinos y griegos (Séneca, Cicerón, Tácito, Boecio) al inglés. Incluso a los 60 años, tradujo *La consolación de la filosofía* de Boecio en solo 12 días. Descomponer la gramática clásica y reestructurarla sirvió como piedra de afilar intelectual para su cerebro ejecutivo.
+Educada por el humanista Roger Ascham, Isabel dominó seis idiomas, incluidos el latín y el griego antiguo. ¿Cómo mantuvo una compostura lógica implacable en medio del estrés? Su secreto era un hábito matutino estricto: dedicar la primera hora del día a traducir textos clásicos latinos y griegos (Séneca, Cicerón, Tácito, Boecio) al inglés. Incluso a los 60 años, tradujo *La consolación de la filosofía* de Boecio en solo 12 días. Descomponer la gramática clásica y reestructurarla sirvió como piedra de afilar intelectual para su cerebro ejecutivo.
 
 En la publicación de hoy, examinamos la neurociencia cognitiva detrás de la 'traducción clásica' de la reina Isabel I y presentamos un plan práctico moderno para encender su corteza prefrontal cada mañana.
 

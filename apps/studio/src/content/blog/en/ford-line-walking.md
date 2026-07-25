@@ -4,7 +4,7 @@ description: "Discover how Henry Ford, pioneer of the moving assembly line, redu
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/ford_line_walking.webp"
 app: "buildself"
 formatVersion: 4

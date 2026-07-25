@@ -4,7 +4,7 @@ description: "Découvrez l'habitude unique de Ludwig van Beethoven qui comptait 
 pubDate: "2026-05-14"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "베토벤", "아침루틴", "커피", "마인드풀니스"]
+tags: []
 heroImage: "/images/blog/beethoven_coffee_ritual.webp"
 app: "buildself"
 formatVersion: 4

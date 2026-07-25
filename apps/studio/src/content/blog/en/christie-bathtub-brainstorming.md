@@ -4,7 +4,7 @@ description: "Discover how Queen of Crime Agatha Christie conceived intricate al
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "아가사 크리스티", "아이디어", "목욕", "창의성"]
+tags: []
 heroImage: "/images/blog/christie_bathtub_brainstorming.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie Martin Luther im enormen Druck der Reformation j
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["명상", "휴식", "마음"]
+tags: []
 heroImage: "/images/blog/luther_lute_meditation.webp"
 app: "buildself"
 formatVersion: 4

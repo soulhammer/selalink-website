@@ -4,7 +4,7 @@ description: "Discover how legendary pianist Franz Liszt mastered virtuosic prec
 pubDate: "2026-04-14"
 updatedDate: "2026-04-14"
 category: "BuildSelf"
-tags: ["위인 습관", "프란츠 리스트", "의지력", "시간 관리"]
+tags: []
 heroImage: "/images/blog/liszt.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "経験論の巨匠フランシス・ベーコンが毎日朝に庭
 pubDate: "2026-01-04"
 updatedDate: "2026-01-04"
 category: "BuildSelf"
-tags: ["산책", "자연관찰", "경험론", "근세"]
+tags: []
 heroImage: "/images/blog/bacon_nature_observation.webp"
 app: "buildself"
 formatVersion: 4

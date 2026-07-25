@@ -4,7 +4,7 @@ description: "Renungan mandi air hangat yang dipraktikkan setiap malam oleh Kono
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "마쓰시타 고노스케", "자기성찰", "이완", "의사결정", "부교감 신경"]
+tags: []
 heroImage: "/images/blog/matsushita-bath-reflection.webp"
 app: "buildself"
 formatVersion: 4

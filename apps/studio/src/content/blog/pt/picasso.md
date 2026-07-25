@@ -4,7 +4,7 @@ description: "O mestre da arte moderna cofundador do cubismo, que acendia faísc
 pubDate: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "BuildSelf"
-tags: ["위인 습관", "파블로 피카소", "휴식", "창의성"]
+tags: []
 heroImage: "/images/blog/picasso.webp"
 app: "buildself"
 formatVersion: 4

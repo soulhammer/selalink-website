@@ -4,7 +4,7 @@ description: "Eleanor Roosevelt, salah satu Ibu Negara AS paling berpengaruh. Me
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/roosevelt_my_day_column.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "50年間休むことなくスヌーピーの漫画を描き続け�
 pubDate: "2026-02-06"
 updatedDate: "2026-02-06"
 category: "BuildSelf"
-tags: ["위인 습관", "찰스 슐츠", "생산성", "단순화", "의사결정", "루틴"]
+tags: []
 heroImage: "/images/blog/schulz_routine_hamburger.webp"
 app: "buildself"
 formatVersion: 4
@@ -28,7 +28,7 @@ faqs:
 
 私たちは日常で絶えず決定を下さなければなりません。朝どんな服を着るか、昼食に何を食べるかといった些細な問いが頭を巡ります。しかし驚くべきことに、脳はどんなに些細な選択であってもエネルギーを消耗し、これが高度な論理的思考や創造的作業を行うためのエネルギーを枯渇させる主犯となります。
 
-今日の記事では、チャールズ・シュルツの意思決定最小化ルーティンが脳の自我消耗をどのように防ぐのかを解明し、現代人が些細な意思決定を減らして本質的な集中効率を発휘する3段階の実践プランを提示します。
+今日の記事では、チャールズ・シュルツの意思決定最小化ルーティンが脳の自我消耗をどのように防ぐのかを解明し、現代人が些細な意思決定を減らして本質的な集中効率を発する3段階の実践プランを提示します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

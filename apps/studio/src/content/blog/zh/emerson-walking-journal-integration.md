@@ -4,7 +4,7 @@ description: "深入剖析美国杰出思想家拉尔夫·沃尔多·爱默生�
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["사색", "휴식", "기록"]
+tags: []
 heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie Regisseur Stanley Kubrick Meisterwerke schuf, in
 pubDate: "2026-03-18"
 updatedDate: "2026-03-18"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "기록"]
+tags: []
 heroImage: "/images/blog/kubrick_index_box_archive.webp"
 app: "buildself"
 formatVersion: 4

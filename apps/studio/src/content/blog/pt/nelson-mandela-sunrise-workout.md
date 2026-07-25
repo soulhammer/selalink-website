@@ -4,7 +4,7 @@ description: "Nelson Mandela preservou sua força física e firmeza mental prati
 pubDate: "2026-01-13"
 updatedDate: "2026-01-13"
 category: "BuildSelf"
-tags: ["위인 습관", "넬슨 만델라", "회복탄력성", "운동 루틴", "새벽 루틴"]
+tags: []
 heroImage: "/images/blog/nelson_mandela_sunrise_workout.webp"
 app: "buildself"
 formatVersion: 4

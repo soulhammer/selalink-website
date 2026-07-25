@@ -4,7 +4,7 @@ description: "大帝国を建設した征服者チンギス・ハン。重大な
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["위인 습관", "칭기즈칸", "시각화", "명상", "대자연휴식"]
+tags: []
 heroImage: "/images/blog/genghis_mountain_meditation.webp"
 app: "buildself"
 formatVersion: 4

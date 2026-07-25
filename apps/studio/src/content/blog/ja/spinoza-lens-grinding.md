@@ -4,7 +4,7 @@ description: "汎神論哲学者のスピノザが代表作『エチカ』を執
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["신체노동", "이완", "몰입", "근세"]
+tags: []
 heroImage: "/images/blog/spinoza_lens_grinding.webp"
 app: "buildself"
 formatVersion: 4
@@ -14,7 +14,7 @@ steps:
     text: "文章を読んでも内容が頭に入らなかったり、アイデアの発想が止まって脳がぼーっとする感覚がしたりするなど、認知資源が枯渇したバーンアウトのサインを早期に察知します。"
   - name: "繊細な手作業の実行"
     text: "モニターの前からすぐに離れ、あらかじめ用意しておいたアナログの手作業（例：皿洗い、紙の書写、小型模型の組み立て）を開始します。完全に指先の感触と動きに神経を集中させ、15分間行います。"
-  - name: "澄み切った頭脳で演算業務へ復귀"
+  - name: "澄み切った頭脳で演算業務へ復"
     text: "15分間の手作業を終えた後、再びコンピューターの前に戻り、本来の企画や開発業務を再開します。脳の休息スペースが復元され、はるかに明晰で効率的な意思決定が可能になります。"
 faqs:
   - question: "この習慣を毎日実践しなければなりませんか？"
@@ -50,7 +50,7 @@ faqs:
 
 ## 完全に脱デジタル化された手作業の選択
 
-このようなリラックス効果を得るためには、スマートフォンやキーボードを操作することから完全に離れる必要があります。電子機器の操作は脳になお高度な論理演算を要求するため、認知疲労を軽減できません。皿洗い、アナログの書写、手工芸の組み立てなど、ただ触각的情報と視空間制御のみを必要とする単純な身体活動を選択してください。
+このようなリラックス効果を得るためには、スマートフォンやキーボードを操作することから完全に離れる必要があります。電子機器の操作は脳になお高度な論理演算を要求するため、認知疲労を軽減できません。皿洗い、アナログの書写、手工芸の組み立てなど、ただ触的情報と視空間制御のみを必要とする単純な身体活動を選択してください。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
@@ -75,7 +75,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">澄み切った頭脳で演算業務へ復귀</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">澄み切った頭脳で演算業務へ復</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     15分間の手作業を終えた後、再びコンピューターの前に戻り、本来の企画や開発業務を再開します。脳の休息スペースが復元され、はるかに明晰で効率的な意思決定が可能になります。

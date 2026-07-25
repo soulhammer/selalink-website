@@ -4,7 +4,7 @@ description: "介绍亨利·戴维·梭罗每天在瓦尔登湖畔行走4小时�
 pubDate: "2026-04-30"
 updatedDate: "2026-04-30"
 category: "BuildSelf"
-tags: ["위인 습관", "사색"]
+tags: []
 heroImage: "/images/blog/thoreau_forest_walk.webp"
 app: "buildself"
 formatVersion: 4

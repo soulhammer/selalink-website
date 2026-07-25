@@ -4,7 +4,7 @@ description: "Discover the unique writing habit of Mark Twain, a giant of Americ
 pubDate: "2026-05-20"
 updatedDate: "2026-05-20"
 category: "BuildSelf"
-tags: ["위인 습관", "마크 트웨인", "침대 명상", "창의성", "이완"]
+tags: []
 heroImage: "/images/blog/twain_lying_writing.webp"
 app: "buildself"
 formatVersion: 4

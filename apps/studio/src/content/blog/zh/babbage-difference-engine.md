@@ -4,7 +4,7 @@ description: "探索19世纪计算机之父查尔斯·巴贝奇通过精密齿�
 pubDate: "2026-01-10"
 updatedDate: "2026-01-10"
 category: "BuildSelf"
-tags: ["논리", "모듈화", "컴퓨터", "기계"]
+tags: []
 heroImage: "/images/blog/babbage_difference_engine.webp"
 app: "buildself"
 formatVersion: 4

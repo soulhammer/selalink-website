@@ -4,7 +4,7 @@ description: "Descubra cómo el magnate del acero Andrew Carnegie abordó su tar
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
+tags: []
 heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4

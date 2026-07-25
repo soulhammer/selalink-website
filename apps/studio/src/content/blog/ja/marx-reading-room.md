@@ -4,7 +4,7 @@ description: "社会の隠された作動原理を経済学的に解剖したカ
 pubDate: "2026-03-17"
 updatedDate: "2026-03-17"
 category: "BuildSelf"
-tags: ["위인 습관", "카를 마르크스", "딥 리딩", "연합 피질", "초록 노트"]
+tags: []
 heroImage: "/images/blog/marx_reading_room.webp"
 app: "buildself"
 formatVersion: 4

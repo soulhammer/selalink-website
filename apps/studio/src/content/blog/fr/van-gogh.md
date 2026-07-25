@@ -4,7 +4,7 @@ description: "Découvrez l'habitude de verbalisation émotionnelle de Vincent va
 pubDate: "2026-04-21"
 updatedDate: "2026-04-21"
 category: "BuildSelf"
-tags: ["위인 습관", "빈센트 반 고흐", "기록", "성찰"]
+tags: []
 heroImage: "/images/blog/van_gogh.webp"
 app: "buildself"
 formatVersion: 4

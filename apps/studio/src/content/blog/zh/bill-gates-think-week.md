@@ -4,7 +4,7 @@ description: "探索推动微软实现跨越式飞跃的比尔·盖茨小屋隔�
 pubDate: "2026-01-08"
 updatedDate: "2026-01-08"
 category: "BuildSelf"
-tags: ["위인 습관", "빌 게이츠", "집중력", "사색", "독서"]
+tags: []
 heroImage: "/images/blog/bill_gates_think_week.webp"
 app: "buildself"
 formatVersion: 4

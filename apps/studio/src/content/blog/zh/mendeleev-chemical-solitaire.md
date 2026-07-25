@@ -4,7 +4,7 @@ description: "德米特里·门捷列夫通过将写有元素性质的卡片像�
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위인 습관", "드미트리 멘델레예프", "아이디어", "시각화", "문제해결"]
+tags: []
 heroImage: "/images/blog/mendeleev_chemical_solitaire.webp"
 app: "buildself"
 formatVersion: 4

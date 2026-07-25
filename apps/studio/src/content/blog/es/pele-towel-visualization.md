@@ -4,7 +4,7 @@ description: "Descubra el secreto del Rey Pelé para superar la tensión y maxim
 pubDate: "2026-01-30"
 updatedDate: "2026-01-30"
 category: "BuildSelf"
-tags: ["위인 습관", "펠레", "이미지트레이닝", "시각화", "마인드컨트롤"]
+tags: []
 heroImage: "/images/blog/pele_towel_visualization.webp"
 app: "buildself"
 formatVersion: 4

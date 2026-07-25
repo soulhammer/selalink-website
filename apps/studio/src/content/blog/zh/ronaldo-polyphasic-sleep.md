@@ -4,7 +4,7 @@ description: "世界顶级前锋克里斯蒂亚诺·罗纳尔多。介绍他每�
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/ronaldo_polyphasic_sleep.webp"
 app: "buildself"
 formatVersion: 4

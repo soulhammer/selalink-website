@@ -4,7 +4,7 @@ description: "探索诺贝尔奖得主欧内斯特·海明威如何在墙面图�
 pubDate: "2026-02-05"
 updatedDate: "2026-02-05"
 category: "BuildSelf"
-tags: ["위인 습관", "헤밍웨이", "글쓰기", "생산성", "자기관찰"]
+tags: []
 heroImage: "/images/blog/hemingway_word_count.webp"
 app: "buildself"
 formatVersion: 4

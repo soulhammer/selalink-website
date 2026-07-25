@@ -4,7 +4,7 @@ description: "探索法国救国圣女贞德如何在百年战争的惊涛骇浪
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["위인 습관", "잔다르크", "침묵명상", "신념정렬", "멘탈회복"]
+tags: []
 heroImage: "/images/blog/joan_silent_reflection.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "探索发明避雷针并缔造美国建国伟业的本杰明·富�
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+tags: []
 heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4

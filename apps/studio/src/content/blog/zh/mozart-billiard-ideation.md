@@ -4,7 +4,7 @@ description: "沃尔夫冈·阿玛多伊斯·莫扎特在构思乐曲受阻时�
 pubDate: "2026-05-01"
 updatedDate: "2026-05-01"
 category: "BuildSelf"
-tags: ["위인 습관", "모차르트", "당구", "무의식", "창의성"]
+tags: []
 heroImage: "/images/blog/mozart_billiard_ideation.webp"
 app: "buildself"
 formatVersion: 4

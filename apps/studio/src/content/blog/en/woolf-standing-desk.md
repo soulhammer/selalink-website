@@ -4,7 +4,7 @@ description: "20th-century literary giant Virginia Woolf. Explore the science of
 pubDate: "2026-06-06"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "버지니아 울프", "스탠딩데스크", "집중력", "생산성"]
+tags: []
 heroImage: "/images/blog/woolf_standing_desk.webp"
 app: "buildself"
 formatVersion: 4

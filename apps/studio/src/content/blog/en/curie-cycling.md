@@ -4,7 +4,7 @@ description: "Discover how Marie Curie, the first woman to win a Nobel Prize and
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+tags: []
 heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4

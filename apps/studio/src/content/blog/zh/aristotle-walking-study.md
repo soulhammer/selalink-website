@@ -4,7 +4,7 @@ description: "为了将复杂的科学灵感具象化，阿基米德不断在沙
 pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
-tags: ["산책", "토론", "기억력", "고대"]
+tags: []
 heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4

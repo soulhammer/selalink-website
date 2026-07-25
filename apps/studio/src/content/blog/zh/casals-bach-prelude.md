@@ -4,7 +4,7 @@ description: "探索传奇大提琴家保罗·卡萨尔斯在长达80多年的�
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "파블로 카살스", "안정", "명상", "창의성", "루틴"]
+tags: []
 heroImage: "/images/blog/casals_bach_prelude.webp"
 app: "buildself"
 formatVersion: 4

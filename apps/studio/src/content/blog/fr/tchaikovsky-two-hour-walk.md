@@ -4,7 +4,7 @@ description: "Le grand compositeur russe Piotr Ilitch Tchaïkovski marchait exac
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "BuildSelf"
-tags: ["위인 습관", "차이코프스키", "걷기", "사색", "산책"]
+tags: []
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 formatVersion: 4

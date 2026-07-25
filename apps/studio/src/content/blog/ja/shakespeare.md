@@ -4,7 +4,7 @@ description: "世界文学史上最高の劇作家ウィリアム・シェイク
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "윌리엄 셰익스피어", "창의성", "계획"]
+tags: []
 heroImage: "/images/blog/shakespeare.webp"
 app: "buildself"
 formatVersion: 4

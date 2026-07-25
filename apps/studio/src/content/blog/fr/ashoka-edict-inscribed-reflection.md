@@ -4,7 +4,7 @@ description: "Ashoka le Grand de l'Empire Maurya en Inde. Découvrez sa routine 
 pubDate: "2026-06-04"
 updatedDate: "2026-06-04"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/ashoka_edict_inscribed_reflection.webp"
 app: "buildself"
 formatVersion: 4

@@ -1,10 +1,10 @@
 ---
-title: "最も 어려운 課題から朝に片付けた大富豪：アンドリュー・カーネギーの優先順位完結ルーティン"
+title: "最も  課題から朝に片付けた大富豪：アンドリュー・カーネギーの優先順位完結ルーティン"
 description: "鉄鋼王アンドリュー・カーネギーが前頭葉のリソースが最も充電された朝のゴールデンタイムに、最も重く厄介な仕事を最優先で処理したルーティン。自我枯渇（Ego Depletion）を予防し前頭前野の執行機能を極大化する認知神経科学的原理を解き明かします。"
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "앤드류 카네기", "우선순위", "의지력", "생산성"]
+tags: []
 heroImage: "/images/blog/carnegie_priority_first.webp"
 app: "buildself"
 formatVersion: 4

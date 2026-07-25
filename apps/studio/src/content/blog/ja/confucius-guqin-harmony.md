@@ -4,7 +4,7 @@ description: "東洋思想の偉大な師・孔子が乱世と14年の放浪の�
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+tags: []
 heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4

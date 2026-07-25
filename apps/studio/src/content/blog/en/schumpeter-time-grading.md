@@ -4,7 +4,7 @@ description: "Economist Joseph Schumpeter evaluated study and focus hours in his
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "조지프 슘페터", "생산성", "시간 관리", "성찰", "계획"]
+tags: []
 heroImage: "/images/blog/schumpeter_time_grading.webp"
 app: "buildself"
 formatVersion: 4

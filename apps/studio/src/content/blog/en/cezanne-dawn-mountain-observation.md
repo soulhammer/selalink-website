@@ -4,7 +4,7 @@ description: "Discover how Paul Cézanne, father of modern art, walked toward Mo
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["사색", "휴식", "창의성"]
+tags: []
 heroImage: "/images/blog/cezanne_dawn_mountain_observation.webp"
 app: "buildself"
 formatVersion: 4

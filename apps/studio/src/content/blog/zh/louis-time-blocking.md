@@ -4,7 +4,7 @@ description: "深入剖析统治凡尔赛宫的“太阳王”路易十四如何
 pubDate: "2026-04-11"
 updatedDate: "2026-04-11"
 category: "BuildSelf"
-tags: ["위인 습관", "루이14세", "타임블로킹", "시간관리", "집중력"]
+tags: []
 heroImage: "/images/blog/louis_time_blocking.webp"
 app: "buildself"
 formatVersion: 4
@@ -13,14 +13,14 @@ steps:
   - name: "步骤1：划分时段设定单一任务与构建时间块（Time Blocking）"
     text: "在开启一天之前，将待履行的核心任务按时段划分为清晰的时间块（例如：09:00-11:00 深度编程）。"
   - name: "步骤2：在时段间预留10-15分钟缓冲时间（Buffer Time）与认知留白"
-    text: "在各时间块之间刻意嵌入10-15分钟的缓冲空白，以接纳突发电话、进度微调或短暂休整需求，保障日程抗기복韧性。"
+    text: "在各时间块之间刻意嵌入10-15分钟的缓冲空白，以接纳突发电话、进度微调或短暂休整需求，保障日程抗波动韧性。"
   - name: "步骤3：切断外界干扰与于单一时段彻底专注单项任务（Single-Tasking）"
     text: "当指定时间块开启之际，关闭一切消息提醒，杜绝多任务并行，将前额叶皮层注意力全部倾注于当下唯一既定任务。"
 faqs:
   - question: "对于经常面对突发加急任务或频繁联络的岗位，时间块管理是否依然适用？"
     answer: "完全可行！只需在全天行程中特意排布2-3个“加急应对与消息批量处理时段（Batch Processing）”。在核心深度专注时段保持零打扰，将碎屑突发需求统揽至批处理时段集中化解，即可极佳防范注意力碎片化。"
   - question: "若未能完美依循时刻表推进日程时产生强烈自责焦虑，该如何疏导？"
-    answer: "时间块管理是引导高效用时的指南地图，而非惩戒自我的严苛枷锁。关键不在于百分百完美履约，而在于“在该时间块内是否专注于单一任务”。一旦日程偏移，切勿盲목自责，宜迅速展现认知灵活性（Cognitive Flexibility）顺延至下一个时间块，方能长效保持习惯。"
+    answer: "时间块管理是引导高效用时的指南地图，而非惩戒自我的严苛枷锁。关键不在于百分百完美履约，而在于“在该时间块内是否专注于单一任务”。一旦日程偏移，切勿盲目自责，宜迅速展现认知灵活性（Cognitive Flexibility）顺延至下一个时间块，方能长效保持习惯。"
 
 ---
 
@@ -72,7 +72,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤2：在时段间预留10-15分钟缓冲时间（Buffer Time）与认知留白</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    在各时间块之间刻意嵌入10-15分钟的缓冲空白，以接纳突发电话、进度微调或短暂休整需求，保障日程抗기복韧性。
+    在各时间块之间刻意嵌入10-15分钟的缓冲空白，以接纳突发电话、进度微调或短暂休整需求，保障日程抗波动韧性。
   </p>
 </div>
 
@@ -107,7 +107,7 @@ faqs:
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      时间块管理是引导高效用时的指南地图，而非惩戒自我的严苛枷锁。关键不在于百分百完美履约，而在于“在该时间块内是否专注于单一任务”。一旦日程偏移，切勿盲목自责，宜迅速展现认知灵活性（Cognitive Flexibility）顺延至下一个时间块，方能长效保持习惯。
+      时间块管理是引导高效用时的指南地图，而非惩戒自我的严苛枷锁。关键不在于百分百完美履约，而在于“在该时间块内是否专注于单一任务”。一旦日程偏移，切勿盲目自责，宜迅速展现认知灵活性（Cognitive Flexibility）顺延至下一个时间块，方能长效保持习惯。
     </p>
   </details>
 </div>

@@ -4,7 +4,7 @@ description: "Découvrez la routine de récitation classique en grec matinale de
 pubDate: "2026-07-11"
 updatedDate: "2026-07-11"
 category: "BuildSelf"
-tags: ["위인 습관", "학습"]
+tags: []
 heroImage: "/images/blog/weil_classical_recitation.webp"
 app: "buildself"
 formatVersion: 4

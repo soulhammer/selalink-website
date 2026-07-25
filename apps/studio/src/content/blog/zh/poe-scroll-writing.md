@@ -4,7 +4,7 @@ description: "现代推理小说鼻祖爱伦·坡在狭长的纸条上写作，�
 pubDate: "2026-01-03"
 updatedDate: "2026-01-03"
 category: "BuildSelf"
-tags: ["원고를 두루마리로 ","Routine"]
+tags: []
 heroImage: "/images/blog/poe_scroll_writing.webp"
 app: "buildself"
 formatVersion: 4

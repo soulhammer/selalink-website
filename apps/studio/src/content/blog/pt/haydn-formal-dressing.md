@@ -4,7 +4,7 @@ description: "Descubra por que o compositor Joseph Haydn vestia terno formal e p
 pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위인 습관", "생산성"]
+tags: []
 heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4

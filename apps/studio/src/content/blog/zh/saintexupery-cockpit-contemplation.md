@@ -4,7 +4,7 @@ description: "探讨《小王子》作者兼飞行员圣埃克苏佩里的写作
 pubDate: "2026-07-18"
 updatedDate: "2026-07-18"
 category: "BuildSelf"
-tags: ["글쓰기", "창의성", "사색", "본질"]
+tags: []
 heroImage: "/images/blog/saintexupery_cockpit_contemplation.webp"
 app: "buildself"
 formatVersion: 4

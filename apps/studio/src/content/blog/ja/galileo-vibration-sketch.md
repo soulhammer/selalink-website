@@ -4,11 +4,11 @@ description: "現代科学の父ガリレオ・ガリレイが、揺れる振り
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["시각화", "스케치", "물리학", "근세"]
+tags: []
 heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4
-authority: "ガリレオ・ガリレイ著作集『新科学対話（Two New Sciences）』および『偽金鑑識官（Il Saggiatore）』、ピサ大学史料考証＆認知神経科学（Cognitive Neuroscience）연구"
+authority: "ガリレオ・ガリレイ著作集『新科学対話（Two New Sciences）』および『偽金鑑識官（Il Saggiatore）』、ピサ大学史料考証＆認知神経科学（Cognitive Neuroscience）"
 steps:
   - name: "ステップ1：核心構成要素を円と長方形で構図をとる"
     text: "解決しようとする問題や企画の核心概念をノートに丸や四角などの簡単な図形で書いて配置します。抽象的な思考を紙という物理的な空間にまず固定する段階です。"
@@ -39,7 +39,7 @@ faqs:
       歴史的・学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「galileo-vibration-sketch」は <strong>ガリレオ・ガリレイ著作集『新科学対話（Two New Sciences）』および『偽金鑑識官（Il Saggiatore）』、ピサ大学史料考証＆認知神経科学（Cognitive Neuroscience）연구</strong> に基づいて作成されました。
+      「galileo-vibration-sketch」は <strong>ガリレオ・ガリレイ著作集『新科学対話（Two New Sciences）』および『偽金鑑識官（Il Saggiatore）』、ピサ大学史料考証＆認知神経科学（Cognitive Neuroscience）</strong> に基づいて作成されました。
     </p>
   </div>
 </div>

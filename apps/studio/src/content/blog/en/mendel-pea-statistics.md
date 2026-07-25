@@ -4,7 +4,7 @@ description: "Discover the story of Gregor Mendel, the great pioneer of genetics
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "그레고어 멘델", "데이터 트래킹", "작업 기억", "자기 관리"]
+tags: []
 heroImage: "/images/blog/mendel_pea_statistics.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Nobelpreisträgerin Toni Morrison setzte jeden Morgen um 5 Uhr mit
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/morrison_pre_dawn_coffee.webp"
 app: "buildself"
 formatVersion: 4

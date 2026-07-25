@@ -4,7 +4,7 @@ description: "As the King of Lieder who left over 600 songs in his short 31-year
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: ["위인 습관", "프란츠 슈베르트", "계획", "아이디어"]
+tags: []
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

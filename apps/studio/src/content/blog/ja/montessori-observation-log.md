@@ -4,7 +4,7 @@ description: "イタリア初の女性医師であり教育学者のマリア・
 pubDate: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
+tags: []
 heroImage: "/images/blog/montessori_observation_log.webp"
 app: "buildself"
 formatVersion: 4
@@ -30,7 +30,7 @@ faqs:
 
 モンテッソーリが子供たちの隠された集中力と発達法則を発見できた秘密は、科学的で厳密な「客観的観察日誌」にありました。彼女は子供たちを観察する際、いかなる感情的偏見や大人中心の主観的評価も完全に排除しました。医学的観察者の精密な視線で、子供がどのような環境で集中を開始し行動するのか、事実（Fact）のみを名詞と動詞を中心に記録しました。主観的な推測を排したこの観察習慣こそが、問題の本質を直視させる最高の認知ツールでした。
 
-今日の記事では、マリア・モンテッソーリの客観적観察ルーティンに込められた知的客観化の原理と、現代人が確証バイアスを遮断して仕事や生活を再整頓するための実践法を紹介します。
+今日の記事では、マリア・モンテッソーリの客観観察ルーティンに込められた知的客観化の原理と、現代人が確証バイアスを遮断して仕事や生活を再整頓するための実践法を紹介します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

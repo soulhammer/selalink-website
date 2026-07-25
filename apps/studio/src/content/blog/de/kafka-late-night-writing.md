@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie der Literat des 20. Jahrhunderts, Franz Kafka, M
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위인 습관", "프란츠 카프카", "밤샘 루틴", "집중력", "창의성"]
+tags: []
 heroImage: "/images/blog/kafka_late_night_writing.webp"
 app: "buildself"
 formatVersion: 4

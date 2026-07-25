@@ -4,7 +4,7 @@ description: "Pythagoras dachte jeden Abend vor dem Schlafengehen dreimal über 
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["성찰", "사색", "휴식"]
+tags: []
 heroImage: "/images/blog/pythagoras_evening_examination.webp"
 app: "buildself"
 formatVersion: 4

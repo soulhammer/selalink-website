@@ -4,7 +4,7 @@ description: "Entdecken Sie, wie Sir Richard Branson, Gründer der Virgin Group,
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["위인 습관", "리처드브랜슨", "손글씨메모", "아날로그메모", "실행력"]
+tags: []
 heroImage: "/images/blog/branson_notebook_writing.webp"
 app: "buildself"
 formatVersion: 4

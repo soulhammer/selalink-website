@@ -4,7 +4,7 @@ description: "ノーベル文学賞受賞の哲学社バートランド・ラッ
 pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["위인 습관", "버트런드 러셀", "집중", "딥워크", "생산성"]
+tags: []
 heroImage: "/images/blog/russell_three_hour_focus.webp"
 app: "buildself"
 formatVersion: 4

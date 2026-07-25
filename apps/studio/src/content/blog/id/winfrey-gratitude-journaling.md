@@ -4,7 +4,7 @@ description: "Oprah Winfrey, salah satu pemimpin wanita paling berpengaruh di du
 pubDate: "2026-05-24"
 updatedDate: "2026-05-24"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/winfrey_gratitude_journaling.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "LinuxとGitの創始者リーナス・トーバルズ。外部の�
 pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "리누스 토발즈", "집중", "단순", "생산성"]
+tags: []
 heroImage: "/images/blog/torvalds_darkroom_focus.webp"
 app: "buildself"
 formatVersion: 4
@@ -56,7 +56,7 @@ faqs:
 
 ## 暗闇の中でコーダーの論理が明瞭になります
 
-リーナス・トーバルズにとって、洗濯室の暗室は外部の誘惑や些細な刺激を根本から遮断する「認知の要塞」でした。家の中が散らかっていて作業に深く没入できず注意力が浪費されていると感じたら、脳の集中력을責める前に、デスクの周囲を視覚的装飾のない無機質な状態にし、照明を暗く調整してみてください。驚くほどの没入感を体験できるはずです。
+リーナス・トーバルズにとって、洗濯室の暗室は外部の誘惑や些細な刺激を根本から遮断する「認知の要塞」でした。家の中が散らかっていて作業に深く没入できず注意力が浪費されていると感じたら、脳の集中責める前に、デスクの周囲を視覚的装飾のない無機質な状態にし、照明を暗く調整してみてください。驚くほどの没入感を体験できるはずです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

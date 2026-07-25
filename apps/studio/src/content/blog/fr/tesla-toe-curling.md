@@ -4,7 +4,7 @@ description: "L'inventeur de génie Nikola Tesla crispait ses orteils au lit cha
 pubDate: "2026-04-28"
 updatedDate: "2026-04-28"
 category: "BuildSelf"
-tags: ["위인 습관", "니콜라 테슬라", "수면 루틴", "집중력", "동기부여"]
+tags: []
 heroImage: "/images/blog/tesla_sleep_hack.webp"
 app: "buildself"
 formatVersion: 4

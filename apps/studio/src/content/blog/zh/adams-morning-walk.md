@@ -4,7 +4,7 @@ description: "美国第6任总统约翰·昆西·亚当斯每天坚持5英里快
 pubDate: "2026-04-06"
 updatedDate: "2026-04-06"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/adams_morning_walk.webp"
 app: "buildself"
 formatVersion: 4

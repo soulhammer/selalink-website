@@ -4,7 +4,7 @@ description: "大恐慌を克服した巨視経済学者であり、起床直後
 pubDate: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "BuildSelf"
-tags: ["집중", "생산성", "성공습관"]
+tags: []
 heroImage: "/images/blog/keynes_morning_bed_work.webp"
 app: "buildself"
 formatVersion: 4

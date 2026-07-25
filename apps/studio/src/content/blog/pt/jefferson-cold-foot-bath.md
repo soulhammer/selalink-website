@@ -4,7 +4,7 @@ description: "Descubra como Thomas Jefferson, autor principal da Declaração de
 pubDate: "2026-04-17"
 updatedDate: "2026-04-17"
 category: "BuildSelf"
-tags: ["위인 습관", "토머스 제퍼슨", "에너지", "아침 루틴", "각성"]
+tags: []
 heroImage: "/images/blog/jefferson_cold_foot_bath.webp"
 app: "buildself"
 formatVersion: 4

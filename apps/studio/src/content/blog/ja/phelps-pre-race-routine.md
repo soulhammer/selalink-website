@@ -4,7 +4,7 @@ description: "オリンピック最多金メダリストのマイケル・フェ
 pubDate: "2026-03-14"
 updatedDate: "2026-03-14"
 category: "BuildSelf"
-tags: ["위인 습관", "마이클 펠프스", "몰입", "안정", "성공습관"]
+tags: []
 heroImage: "/images/blog/phelps_pre_race_routine.webp"
 app: "buildself"
 formatVersion: 4

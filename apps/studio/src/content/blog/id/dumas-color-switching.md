@@ -4,7 +4,7 @@ description: "Pelajari bagaimana Alexandre Dumas, penulis 'The Count of Monte Cr
 pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["위인 습관", "알렉상드르 뒤마", "창의성", "색상", "생산성"]
+tags: []
 heroImage: "/images/blog/dumas_color_switching.webp"
 app: "buildself"
 formatVersion: 4

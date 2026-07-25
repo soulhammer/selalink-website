@@ -4,7 +4,7 @@ description: "Barockmeister Antonio Vivaldi schuf über 500 Konzerte, darunter '
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4

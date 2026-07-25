@@ -4,7 +4,7 @@ description: "塞雷娜·威廉姆斯在第一发球前总是严格将网球拍�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["몰입", "의지력", "계획"]
+tags: []
 heroImage: "/images/blog/serena_match_routine.webp"
 app: "buildself"
 formatVersion: 4

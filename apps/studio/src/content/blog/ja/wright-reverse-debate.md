@@ -4,7 +4,7 @@ description: "人類初の動力飛行機を発明したライト兄弟。難局
 pubDate: "2026-03-04"
 updatedDate: "2026-03-04"
 category: "BuildSelf"
-tags: ["위인 습관", "라이트 형제", "의지력", "공부", "메타인지"]
+tags: []
 heroImage: "/images/blog/wright_reverse_debate.webp"
 app: "buildself"
 formatVersion: 4

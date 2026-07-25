@@ -4,7 +4,7 @@ description: "Anna Wintour, rédactrice en chef de Vogue, se réveille tous les 
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/wintour_morning_tennis.webp"
 app: "buildself"
 formatVersion: 4

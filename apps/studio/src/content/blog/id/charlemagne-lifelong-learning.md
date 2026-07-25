@@ -4,7 +4,7 @@ description: "Pelajari bagaimana Charlemagne, pendiri Eropa Barat, menyimpan pap
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/charlemagne_lifelong_learning.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "¿De dónde obtuvo el gigante literario León Tolstói la energía
 pubDate: "2026-05-11"
 updatedDate: "2026-05-11"
 category: "BuildSelf"
-tags: ["위인 습관", "레프 톨스토이", "운동", "신체활력", "두뇌각성"]
+tags: []
 heroImage: "/images/blog/tolstoy_physical_labor.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "探索尤利乌斯·恺撒如何在行军或战车途中同时向�
 pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["위인 습관", "율리우스 카이사르", "시간 관리", "작업 기억", "생산성"]
+tags: []
 heroImage: "/images/blog/julius_caesar_multi_dictation.webp"
 app: "buildself"
 formatVersion: 4

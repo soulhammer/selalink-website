@@ -4,7 +4,7 @@ description: "Le maître impressionniste Claude Monet se levait à 3h30 chaque m
 pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/monet_dawn_light.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Discover how Galileo Galilei, the father of modern science, built 
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["시각화", "스케치", "물리학", "근세"]
+tags: []
 heroImage: "/images/blog/galileo_vibration_sketch.webp"
 app: "buildself"
 formatVersion: 4

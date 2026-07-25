@@ -4,11 +4,11 @@ description: "《论自由》背后的伟大智者约翰·斯图尔特·密尔�
 pubDate: "2026-01-25"
 updatedDate: "2026-01-25"
 category: "BuildSelf"
-tags: ["위인 습관", "존 스튜어트 밀", "산책 독서", "신경 가소성", "BDNF"]
+tags: []
 heroImage: "/images/blog/mill_classical_walk.webp"
 app: "buildself"
 formatVersion: 4
-authority: "约翰·斯图尔特·密尔历史传记与自传文献考证及认知神经과학（Cognitive Neuroscience）研究"
+authority: "约翰·斯图尔特·密尔历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究"
 steps:
   - name: "核心章节短期专注阅读"
     text: "在关掉电子设备通知的状态下，以最大集中力精读人文哲学书籍或高阶工作报告中的一个章节（约10~15页），为大脑提供高质量的认知源料。"
@@ -39,7 +39,7 @@ faqs:
       历史 and 学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 mill-classical-walk 的内容基于 <strong>约翰·斯图尔特·密尔历史传记与自传文献考证及认知神经과학（Cognitive Neuroscience）研究</strong> 撰写。
+      关于 mill-classical-walk 的内容基于 <strong>约翰·斯图尔特·密尔历史传记与自传文献考证及认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
     </p>
   </div>
 </div>

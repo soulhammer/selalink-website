@@ -4,7 +4,7 @@ description: "Discover how Demosthenes, master orator of ancient Greece, overcam
 pubDate: "2026-01-28"
 updatedDate: "2026-01-28"
 category: "BuildSelf"
-tags: ["위인 습관", "데모스테네스", "몰입", "환경통제", "의지력"]
+tags: []
 heroImage: "/images/blog/demosthenes_isolation.webp"
 app: "buildself"
 formatVersion: 4

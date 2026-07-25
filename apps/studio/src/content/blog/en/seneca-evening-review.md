@@ -4,7 +4,7 @@ description: "Discover how Stoic philosopher Seneca examined and judged his dail
 pubDate: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "BuildSelf"
-tags: ["성찰", "저녁루틴", "평정심", "고대"]
+tags: []
 heroImage: "/images/blog/seneca_evening_review.webp"
 app: "buildself"
 formatVersion: 4

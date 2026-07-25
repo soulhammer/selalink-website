@@ -4,7 +4,7 @@ description: "Erkunden Sie, wie der Surrealist Salvador Dalí mit einem Löffel 
 pubDate: "2026-03-07"
 updatedDate: "2026-03-07"
 category: "BuildSelf"
-tags: ["위인 습관", "살바도르 달리", "창의성", "낮잠", "뇌파"]
+tags: []
 heroImage: "/images/blog/dali_spoon_nap.webp"
 app: "buildself"
 formatVersion: 4

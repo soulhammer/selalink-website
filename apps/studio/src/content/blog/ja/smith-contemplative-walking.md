@@ -4,11 +4,11 @@ description: "アイデアを頭の中で組み立てるため、完全に没頭
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["생산성", "사색", "창의성"]
+tags: []
 heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 formatVersion: 4
-authority: "アダム・スミスの思索적散歩に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究"
+authority: "アダム・スミスの思索散歩に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究"
 steps:
   - name: "デジタル機器の隔離および目的テーマの設定"
     text: "スマホのマナーモードを設定してバッグの奥深くに入れるか自宅に置いて出かけ、思索を通じて解き明かしたい唯一のコアテーマや質問を明確に設定します。"
@@ -35,7 +35,7 @@ faqs:
       歴史的・学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「smith-contemplative-walking」は <strong>アダム・スミスの思索적散歩に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
+      「smith-contemplative-walking」は <strong>アダム・スミスの思索散歩に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
     </p>
   </div>
 </div>

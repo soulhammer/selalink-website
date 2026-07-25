@@ -4,7 +4,7 @@ description: "Arthur Schopenhauer, o grande filósofo pessimista alemão. Descub
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/schopenhauer_flute_refocus.webp"
 app: "buildself"
 formatVersion: 4

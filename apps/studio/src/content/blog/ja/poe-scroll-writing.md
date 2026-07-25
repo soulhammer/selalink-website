@@ -1,10 +1,10 @@
 ---
 title: "原稿を巻物のように貼り合わせて書いた推理小説家？エドガー・アラン・ポーの超集中筆記法"
-description: "近代推理小説の始祖エドガー・アラン・ポーは、狭い紙の帯に文字を書き、それを繋ぎ合わせて巻物を作りました。左右の視線移動を遮断し、認知トンネリング効果を引き起こす脳科学적原理を解明します。"
+description: "近代推理小説の始祖エドガー・アラン・ポーは、狭い紙の帯に文字を書き、それを繋ぎ合わせて巻物を作りました。左右の視線移動を遮断し、認知トンネリング効果を引き起こす脳科学的原理を解明します。"
 pubDate: "2026-01-03"
 updatedDate: "2026-01-03"
 category: "BuildSelf"
-tags: ["원고를 두루마리로 ","Routine"]
+tags: []
 heroImage: "/images/blog/poe_scroll_writing.webp"
 app: "buildself"
 formatVersion: 4

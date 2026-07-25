@@ -4,7 +4,7 @@ description: "巴洛克音乐巨匠安东尼奥·维瓦尔第创作了包括《�
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4

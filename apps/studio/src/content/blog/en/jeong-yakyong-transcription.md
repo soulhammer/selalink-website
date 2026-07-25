@@ -4,7 +4,7 @@ description: "Discover how Joseon's greatest Silhak scholar, Dasan Jeong Yak-yon
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
+tags: []
 heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4

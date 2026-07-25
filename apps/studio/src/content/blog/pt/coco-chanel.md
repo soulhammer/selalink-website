@@ -4,7 +4,7 @@ description: "Descubra como a lendária estilista Coco Chanel revolucionou a mod
 pubDate: "2026-05-17"
 updatedDate: "2026-05-17"
 category: "BuildSelf"
-tags: ["위인 습관", "코코 샤넬", "의사결정", "생산성"]
+tags: []
 heroImage: "/images/blog/coco_chanel.webp"
 app: "buildself"
 formatVersion: 4

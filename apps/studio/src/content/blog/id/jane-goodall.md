@@ -4,7 +4,7 @@ description: "Pelajari bagaimana etolog Jane Goodall memperoleh terobosan ilmiah
 pubDate: "2026-05-09"
 updatedDate: "2026-05-09"
 category: "BuildSelf"
-tags: ["위인 습관", "제인 구달", "사색", "성찰"]
+tags: []
 heroImage: "/images/blog/jane_goodall.webp"
 app: "buildself"
 formatVersion: 4

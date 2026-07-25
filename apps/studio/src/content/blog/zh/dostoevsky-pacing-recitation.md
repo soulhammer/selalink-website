@@ -4,7 +4,7 @@ description: "探索《罪与罚》作者陀思妥耶夫斯基在踱步中演绎
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "표도르 도스토옙스키", "창의성", "기록", "공부"]
+tags: []
 heroImage: "/images/blog/dostoevsky_pacing_recitation.webp"
 app: "buildself"
 formatVersion: 4

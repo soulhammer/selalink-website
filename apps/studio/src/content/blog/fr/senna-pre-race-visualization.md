@@ -4,7 +4,7 @@ description: "Ayrton Senna, le légendaire champion de Formule 1, s'asseyait dan
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["집중", "몰입", "성공습관"]
+tags: []
 heroImage: "/images/blog/senna_pre_race_visualization.webp"
 app: "buildself"
 formatVersion: 4

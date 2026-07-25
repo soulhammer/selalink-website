@@ -1,10 +1,10 @@
 ---
 title: "IBMを作った一言：トーマス・ワトソンの15分間沈黙思索ルーティン"
-description: "オフィスごとに「THINK」の札를掲げ、1日15分静かに思索に耽ったIBM創業者トーマス・ワトソンの思索術。意図的な遮断が脳の長期記憶を整理する原理を解説します。"
+description: "オフィスごとに「THINK」の札を掲げ、1日15分静かに思索に耽ったIBM創業者トーマス・ワトソンの思索術。意図的な遮断が脳の長期記憶を整理する原理を解説します。"
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "토마스 왓슨", "사색", "의사결정", "단순화"]
+tags: []
 heroImage: "/images/blog/watson_think_sign.webp"
 app: "buildself"
 formatVersion: 4

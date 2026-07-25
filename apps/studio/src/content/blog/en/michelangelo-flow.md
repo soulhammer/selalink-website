@@ -4,7 +4,7 @@ description: "Michelangelo Buonarroti, the supreme master of the Renaissance. Di
 pubDate: "2026-03-22"
 updatedDate: "2026-03-22"
 category: "BuildSelf"
-tags: ["위인 습관", "미켈란젤로", "몰입", "의사결정 피로", "생산성"]
+tags: []
 heroImage: "/images/blog/michelangelo_flow.webp"
 app: "buildself"
 formatVersion: 4

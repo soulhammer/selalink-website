@@ -4,7 +4,7 @@ description: "Walt Disney transformou devaneios criativos em um império empresa
 pubDate: "2026-04-16"
 updatedDate: "2026-04-16"
 category: "BuildSelf"
-tags: ["위인 습관", "월트 디즈니", "기획력", "창의성", "아이디어"]
+tags: []
 heroImage: "/images/blog/walt_disney_three_rooms.webp"
 app: "buildself"
 formatVersion: 4

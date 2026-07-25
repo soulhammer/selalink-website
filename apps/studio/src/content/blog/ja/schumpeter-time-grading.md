@@ -4,7 +4,7 @@ description: "毎夜日記帳に学習や集中時間を評価し、成績（A�
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "조지프 슘페터", "생산성", "시간 관리", "성찰", "계획"]
+tags: []
 heroImage: "/images/blog/schumpeter_time_grading.webp"
 app: "buildself"
 formatVersion: 4
@@ -17,7 +17,7 @@ steps:
   - name: "ステップ3：原因究明と明日の1原則の確立"
     text: "今日の評価の根本原因を特定し（例：SNSで1時間無駄にした等）、防止策として明日の午前1時間はスマホを隔離する改善案を立てます。"
 faqs:
-  - question: "自分で評価を偽ったり、甘く採점しようとしてしまう時はどうすればいいですか？"
+  - question: "自分で評価を偽ったり、甘く採しようとしてしまう時はどうすればいいですか？"
     answer: "だからこそ主観的な感覚ではなく『数値化された客観的基準（ルビリック）』を整えることが必須です。『集中できた気がする』ではなく『トラッカーで測定したディープワーク時間が3時間を超えたか』を基準にします。データを組み合わせることで脳の言い訳を封じ、現実と向き合えるようになります。"
 
 ---
@@ -91,7 +91,7 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>自分で評価を偽ったり、甘く採점しようとしてしまう時はどうすればいいですか？</span>
+      <span>自分で評価を偽ったり、甘く採しようとしてしまう時はどうすればいいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

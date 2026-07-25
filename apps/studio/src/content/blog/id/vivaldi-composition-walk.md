@@ -4,7 +4,7 @@ description: "Master Barok Antonio Vivaldi menciptakan lebih dari 500 konserto t
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/vivaldi_composition_walk.webp"
 app: "buildself"
 formatVersion: 4

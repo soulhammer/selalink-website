@@ -4,7 +4,7 @@ description: "Explore a rotina de escrita noturna e estimulação com café prat
 pubDate: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "BuildSelf"
-tags: ["위인 습관", "오노레 드 발자크", "초몰입", "집중력", "시간관리"]
+tags: []
 heroImage: "/images/blog/balzac_extreme_focus.webp"
 app: "buildself"
 formatVersion: 4

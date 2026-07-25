@@ -4,14 +4,14 @@ description: "未知の大西洋を越えた探検家コロンブスが嵐と恐
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["위인 습관", "루틴", "생산성", "몰입"]
+tags: []
 heroImage: "/images/blog/columbus_nautical_log.webp"
 app: "buildself"
 formatVersion: 4
 authority: "バルトロメ・デ・ラス・カサス編纂『The Diario of Christopher Columbus』考証＆認知神経科学（Cognitive Neuroscience）研究"
 steps:
   - name: "ステップ1：就寝前のアナログ3行航海日誌ノートとペンのセットアップ"
-    text: "就寝10分前、ベッドの枕元のサイドテーブルの照明の下で紙の手帳とペンを広げておき、スマートフォンを消した状態で静寂状態を 조성します。"
+    text: "就寝10分前、ベッドの枕元のサイドテーブルの照明の下で紙の手帳とペンを広げておき、スマートフォンを消した状態で静寂状態を します。"
   - name: "ステップ2：ファクト中心の3行数値記録（完了/進行/明日の座標）"
     text: "1）今日完了した数値項目、2）進行中の課題と数値、3）明日の朝最も先に処理する最初の座標（1文）のみを客観的な数字で記載します。"
   - name: "ステップ3：脳の統制権回復の確言、ノートを閉じることおよび入眠"
@@ -62,7 +62,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">ステップ1：就寝前のアナログ3行航海日誌ノートとペンのセットアップ</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    就寝10分前、ベッドの枕元のサイドテーブルの照明の下で紙の手帳とペンを広げておき、スマートフォンを消した状態で静寂状態を 조성します。
+    就寝10分前、ベッドの枕元のサイドテーブルの照明の下で紙の手帳とペンを広げておき、スマートフォンを消した状態で静寂状態を します。
   </p>
 </div>
 

@@ -4,7 +4,7 @@ description: "Descubra como a lendária pintora mexicana Frida Kahlo transformou
 pubDate: "2026-06-07"
 updatedDate: "2026-06-07"
 category: "BuildSelf"
-tags: ["위인 습관", "프리다 칼로", "거울 명상", "치유", "회복탄력성"]
+tags: []
 heroImage: "/images/blog/kahlo_mirror_painting.webp"
 app: "buildself"
 formatVersion: 4

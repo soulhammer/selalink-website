@@ -4,7 +4,7 @@ description: "Pelajari bagaimana legenda Hollywood Audrey Hepburn menjaga ketena
 pubDate: "2026-01-14"
 updatedDate: "2026-01-14"
 category: "BuildSelf"
-tags: ["위인 습관", "오드리헵번", "정원가꾸기", "스트레스해소", "마음치유"]
+tags: []
 heroImage: "/images/blog/hepburn_garden_mindfulness.webp"
 app: "buildself"
 formatVersion: 4

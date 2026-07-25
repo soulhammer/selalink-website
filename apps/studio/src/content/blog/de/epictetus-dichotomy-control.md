@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie Epiktet, der in Sklaverei geborene stoische Meis
 pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4

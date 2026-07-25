@@ -4,7 +4,7 @@ description: "Discover how Confucius, master of Eastern philosophy, tuned and pl
 pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 category: "BuildSelf"
-tags: ["위인 습관", "공자", "거문고", "음악치료", "마음조율"]
+tags: []
 heroImage: "/images/blog/confucius_guqin_harmony.webp"
 app: "buildself"
 formatVersion: 4

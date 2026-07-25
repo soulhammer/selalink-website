@@ -4,7 +4,7 @@ description: "生涯病弱でありながら、毎朝の導引法と呼吸調節
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["위인 습관", "퇴계 이황", "신체활성", "리프레시", "의지력"]
+tags: []
 heroImage: "/images/blog/yihwang_hwalinsimbang_exercise.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Descubra cómo el físico Michael Faraday catalogó más de 16,000
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "마이클 패러데이", "기록", "생산성", "논리력"]
+tags: []
 heroImage: "/images/blog/faraday_numbered_notebook.webp"
 app: "buildself"
 formatVersion: 4

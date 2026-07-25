@@ -4,7 +4,7 @@ description: "探索篮球巨星科比·布莱恩特每天凌晨4点展开首轮
 pubDate: "2026-01-19"
 updatedDate: "2026-01-19"
 category: "BuildSelf"
-tags: ["위인 습관", "코비 브라이언트", "성장", "의지력", "신체활성"]
+tags: []
 heroImage: "/images/blog/bryant_four_am_workout.webp"
 app: "buildself"
 formatVersion: 4

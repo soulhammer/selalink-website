@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie der Choreograf George Balanchine bei kreativen B
 pubDate: "2026-04-01"
 updatedDate: "2026-04-01"
 category: "BuildSelf"
-tags: ["위인 습관", "조지 발란신", "창의성", "사색", "이완", "루틴"]
+tags: []
 heroImage: "/images/blog/balanchine_ironing_choreography.webp"
 app: "buildself"
 formatVersion: 4

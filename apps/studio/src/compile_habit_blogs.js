@@ -204,7 +204,7 @@ function compileBlogs() {
       } else if (lang === 'ko') {
         tags = defaultKoTags;
       } else {
-        tags = histMeta.tags || defaultKoTags;
+        tags = '[]';
       }
 
       const steps = [];

@@ -4,13 +4,13 @@ description: "深度剖析朝鲜王朝伟大的实学集大成者茶山丁若镛
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["위인 습관", "정약용", "초서독서", "메타인지", "지식구조화"]
+tags: []
 heroImage: "/images/blog/jeong_yakyong_transcription.webp"
 app: "buildself"
 formatVersion: 4
 authority: "茶山丁若镛著作集《与犹堂全书》与自传《俟菴年谱》史料考证及认知神经科学（Cognitive Neuroscience）与元认知（Metacognition）研究"
 steps:
-  - name: "步骤1：于阅读中甄选精萃知识与划선摘录"
+  - name: "步骤1：于阅读中甄选精萃知识与划线摘录"
     text: "在研读图书或专业文献时，将赋予个人深度启发或包含核心重磅数据的段落打上下划线、或独立摘录于侧。"
   - name: "步骤2：笔记本手写“抄书”与附上一行认知重构摘要"
     text: "用手笔将摘录的句段亲手誊写于笔记本上。在文句下方，以个人口吻写下一行重构摘要，或追加一条可落地的实体行动细则。"
@@ -59,7 +59,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤1：于阅读中甄选精萃知识与划선摘录</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">步骤1：于阅读中甄选精萃知识与划线摘录</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     在研读图书或专业文献时，将赋予个人深度启发或包含核心重磅数据的段落打上下划线、或独立摘录于侧。

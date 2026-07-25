@@ -4,7 +4,7 @@ description: "探索发明家托马斯·爱迪生在遭遇难题时使用的钢�
 pubDate: "2026-04-02"
 updatedDate: "2026-04-02"
 category: "BuildSelf"
-tags: ["위인 습관", "토마스 에디슨", "창의성", "낮잠", "영감"]
+tags: []
 heroImage: "/images/blog/edison_nap.webp"
 app: "buildself"
 formatVersion: 4

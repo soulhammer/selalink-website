@@ -4,7 +4,7 @@ description: "Der weltweite Bestsellerautor Haruki Murakami. Entdecken Sie die n
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "무라카미 하루키", "달리기", "루틴", "체력"]
+tags: []
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4

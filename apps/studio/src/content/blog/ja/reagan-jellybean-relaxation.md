@@ -4,7 +4,7 @@ description: "第40代米国大統領ロナルド・レーガンは、禁煙と�
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4
@@ -19,7 +19,7 @@ steps:
 faqs:
   - question: "咀嚼運動によるストレス軽減効果はどれくらい長く噛めば現れますか？"
     answer: "神経生理学の研究によると、咀嚼運動を開始してから約2〜3分後からコルチゾール値が減少（低減）し、脳波がリラックス状態を示すアルファ波（Alpha wave）に移行し始めます。したがって、最低でも2〜3分以上は落ち着いて咀嚼運動に集中することが効果を得る鍵となります。"
-  - question: "咀嚼運動が実際に禁煙や過食を抑えるという科学적原理は本当ですか？"
+  - question: "咀嚼運動が実際に禁煙や過食を抑えるという科学原理は本当ですか？"
     answer: "その通りです。脳は強い衝動（タバコ、食べ物）を感じた際、ドーパミンの急激な供給を求めます。このとき口内に咀嚼という代替刺激を与えることで、脳は報酬欲求を部分的に満たし（ドーパミンの迂回放出）、衝動の急激なピークを制御できるよう助けます。行動科学ではこれを「代替行動の形成」と呼びます。"
 
 ---
@@ -103,7 +103,7 @@ faqs:
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>咀嚼運動が実際に禁煙や過食を抑えるという科学적原理は本当ですか？</span>
+      <span>咀嚼運動が実際に禁煙や過食を抑えるという科学原理は本当ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

@@ -4,7 +4,7 @@ description: "Discover how thinker Thomas Hobbes attached an inkwell to his walk
 pubDate: "2026-03-16"
 updatedDate: "2026-03-16"
 category: "BuildSelf"
-tags: ["산책 지팡이에 잉크","Routine"]
+tags: []
 heroImage: "/images/blog/hobbes_cane_inkwell.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "Poet Paul Valéry woke up at 4 AM every day for 51 years to fill h
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "폴 발레리", "기록", "아이디어", "집중"]
+tags: []
 heroImage: "/images/blog/valery_dawn_notebook.webp"
 app: "buildself"
 formatVersion: 4
@@ -24,7 +24,7 @@ faqs:
 
 "Dawn is the sacred time when my consciousness awakens in its clearest, most whole state. Only the records left at this hour are my essence." 🌅
 
-Paul Valéry, a pinnacle of French Symbolist literature and a sharp intellect. Every day at 4 AM throughout his life, he r믭 his eyes awake and lit his lamp without fail. He headed straight to his writing desk. During those hours before dawn when the world was at its quietest, Valéry meticulously recorded the emerging stream of consciousness and contemplation. Accumulated over 51 years, these handwritten notebooks reached an astounding 261 volumes, forming the matrix of all his philosophical thought. We explore how dawn silence extracts the purest ideas through our cognitive filter from a neuroscientific perspective.
+Paul Valéry, a pinnacle of French Symbolist literature and a sharp intellect. Every day at 4 AM throughout his life, he r his eyes awake and lit his lamp without fail. He headed straight to his writing desk. During those hours before dawn when the world was at its quietest, Valéry meticulously recorded the emerging stream of consciousness and contemplation. Accumulated over 51 years, these handwritten notebooks reached an astounding 261 volumes, forming the matrix of all his philosophical thought. We explore how dawn silence extracts the purest ideas through our cognitive filter from a neuroscientific perspective.
 
 Many people in modern society start their day as soon as they open their eyes by checking smartphone notifications and reading real-time news or emails. However, this immediate influx of external stimuli injects immense cognitive noise into a freshly awakened brain, stealing control of the day. In contrast, Valéry utilized the early hours when the whole world was asleep, securing an independent cognitive shield that blocked external signals and organized inner thought.
 

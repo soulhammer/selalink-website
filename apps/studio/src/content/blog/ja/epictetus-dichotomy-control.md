@@ -1,10 +1,10 @@
 ---
-title: "自分の統制外の事柄には拘るなと言い放った奴隷出身の哲学者：エピクテトスの統制二分法内省ルーティンと心の 평静法"
+title: "自分の統制外の事柄には拘るなと言い放った奴隷出身の哲学者：エピクテトスの統制二分法内省ルーティンと心の 静法"
 description: "古代ローマ・ストア派哲学の巨匠エピクテトス。自分の権限内と権限外を厳格に分離し、日常の不安をゼロにした統制二分法の夜の記録ルーティンと認知神経科学的メカニズムを深く解き明かします。"
 pubDate: "2026-05-15"
 updatedDate: "2026-05-15"
 category: "BuildSelf"
-tags: ["위인 습관", "Routine"]
+tags: []
 heroImage: "/images/blog/epictetus_dichotomy_control.webp"
 app: "buildself"
 formatVersion: 4

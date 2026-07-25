@@ -4,7 +4,7 @@ description: "Adam Smith gostava de longas caminhadas em imersão profunda para 
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["생산성", "사색", "창의성"]
+tags: []
 heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 formatVersion: 4

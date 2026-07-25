@@ -4,7 +4,7 @@ description: "Pelajari kebiasaan penyumbat telinga fisikawan kuantum Erwin Schr�
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/schrodinger_earplug_focus.webp"
 app: "buildself"
 formatVersion: 4

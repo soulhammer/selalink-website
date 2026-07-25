@@ -4,7 +4,7 @@ description: "Descubra como o 16º presidente dos EUA, Abraham Lincoln, maximizo
 pubDate: "2026-04-26"
 updatedDate: "2026-04-26"
 category: "BuildSelf"
-tags: ["위인 습관", "링컨", "아침루틴", "독서", "낭독"]
+tags: []
 heroImage: "/images/blog/lincoln_reading_aloud.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "探索首位获得诺贝尔奖且在物理与化学两大领域均
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+tags: []
 heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4

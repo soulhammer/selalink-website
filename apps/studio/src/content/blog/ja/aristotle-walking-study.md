@@ -4,7 +4,7 @@ description: "複雑な科学的インスピレーションを視覚化するた
 pubDate: "2026-03-25"
 updatedDate: "2026-03-25"
 category: "BuildSelf"
-tags: ["산책", "토론", "기억력", "고대"]
+tags: []
 heroImage: "/images/blog/aristotle_walking_study.webp"
 app: "buildself"
 formatVersion: 4

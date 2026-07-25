@@ -4,7 +4,7 @@ description: "探索全球最成功的作家史蒂芬·金的每日写作习惯�
 pubDate: "2026-05-18"
 updatedDate: "2026-05-18"
 category: "BuildSelf"
-tags: ["위인 습관", "스티븐 킹", "집필", "루틴", "창의성", "조건형성"]
+tags: []
 heroImage: "/images/blog/king_writing_routine.webp"
 app: "buildself"
 formatVersion: 4

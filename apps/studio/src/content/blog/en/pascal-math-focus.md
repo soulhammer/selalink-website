@@ -4,7 +4,7 @@ description: "Explore the historical fact of 17th-century genius Blaise Pascal o
 pubDate: "2026-06-06"
 updatedDate: "2026-06-06"
 category: "BuildSelf"
-tags: ["집중", "몰입", "생산성", "스트레스 해소"]
+tags: []
 heroImage: "/images/blog/pascal_math_focus.webp"
 app: "buildself"
 formatVersion: 4
@@ -30,7 +30,7 @@ Blaise Pascal (1623–1662) was a brilliant 17th-century French mathematician, p
 
 However, from childhood, Pascal suffered from chronic intestinal illness, severe paralysis, and agonizing paroxysmal toothaches and headaches that kept him awake all night. While most people at the time groaned in pain or relied on mind-numbing analgesics, Pascal made a radically different cognitive choice.
 
-One night in 1658, when an excruciating toothache struck again, Pascal got out of bed and threw 100% of his brainpower into the Cycloid curve problem—d믭 the 'Helen of Geometers' because the greatest mathematicians of the era had failed to solve it. Armed only with pen and paper, as he performed continuous calculations of areas and arc lengths, the pain sensory signals in his brain magically ceased. In just eight days, he completed the full geometric proof of the Cycloid curve.
+One night in 1658, when an excruciating toothache struck again, Pascal got out of bed and threw 100% of his brainpower into the Cycloid curve problem—d the 'Helen of Geometers' because the greatest mathematicians of the era had failed to solve it. Armed only with pen and paper, as he performed continuous calculations of areas and arc lengths, the pain sensory signals in his brain magically ceased. In just eight days, he completed the full geometric proof of the Cycloid curve.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

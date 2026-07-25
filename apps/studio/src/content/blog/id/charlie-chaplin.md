@@ -4,7 +4,7 @@ description: "Pelajari bagaimana ikon film bisu Charlie Chaplin mengamati dan me
 pubDate: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "BuildSelf"
-tags: ["위인 습관", "찰리 채플린", "창의성", "사색"]
+tags: []
 heroImage: "/images/blog/charlie_chaplin.webp"
 app: "buildself"
 formatVersion: 4
@@ -30,7 +30,7 @@ Charlie Chaplin (1889–1977) adalah aktor komedi Inggris, pembuat film, dan iko
 
 Chaplin menghabiskan waktu berjam-jam berdiri dengan tenang di sudut jalan yang sibuk di London dan New York, mengamati para pejalan kaki secara teliti. Ia memindai mekanika halus dari gerakan orang asing: ayunan pinggul, langkah pincang, kemiringan kepala, atau ketegangan bahu. Begitu target berjalan menjauh, Chaplin membuntuti mereka dalam jarak pendek, meniru langkah kaki dan postur mereka secara persis. Dengan menjelmakan kinematika mereka secara fisik, ia memperoleh umpan balik emosional intuitif—membaca kecemasan, kelelahan, atau kesombongan yang tersembunyi. Rutinitas peniruan fisik ini melahirkan gaya berjalan The Tramp yang ikonik.
 
-Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'peniruan fisik' Charlie Chaplin dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern untuk memperluas skema tubuh mereka, meningkatkan metakognisi, 및 menguasai pengambilan perspektif antarpribadi.
+Dalam postingan hari ini, kami menganalisis sains otak di balik rutinitas 'peniruan fisik' Charlie Chaplin dan menyajikan rencana tindakan praktis 3 langkah bagi masyarakat modern untuk memperluas skema tubuh mereka, meningkatkan metakognisi,  menguasai pengambilan perspektif antarpribadi.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

@@ -4,7 +4,7 @@ description: "アメリカの代表的思想家ラルフ・ワルド・エマー
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
-tags: ["사색", "휴식", "기록"]
+tags: []
 heroImage: "/images/blog/emerson_walking_journal_integration.webp"
 app: "buildself"
 formatVersion: 4
@@ -17,7 +17,7 @@ steps:
   - name: "ステップ3：夜間ジャーナル移管および論理構造化（Synthesis）"
     text: "毎夜一日の日課を締めくくる前、書斎のデスクに端正に座ります。昼に手帳に殴り書きした断片的な文章を大きな日記帳（またはメインノート）に書き移しながら、該当する概念の根拠を補強し、5行以上の整然とした段落へと拡張して思考を精製します。"
 faqs:
-  - question: "昼に歩いていて浮かんだ思考を紙の手帳の代わりにスマートフォンの音声メモや専用メモアプリで 작성してもよいですか？"
+  - question: "昼に歩いていて浮かんだ思考を紙の手帳の代わりにスマートフォンの音声メモや専用メモアプリで してもよいですか？"
     answer: "はい、スマートフォンを使う場合でも、外部通知が完全に遮断されたウィジェットやオフラインメモアプリを使うなら素晴らしい代替案になります。核心は情報の媒体ではなく、歩いている間は脳を「入力遮断および拡散モード」に維持することと、当日夜に「収束モード」を通じて大きなノートに統合移管する構造的周期を維持することです。"
   - question: "夜に昼のメモを精製する時、すぐ文章として大きく拡張するのが難しいアイデアはどうすればよいですか？"
     answer: "すべてのメモをすぐ完璧な文章やエッセイに拡張する必要はありません。発展させにくい思考の断片はキーワード形態で整えた後、ジャーナルの「アイデアプール（Idea Pool）」カテゴリーに残しておけば、今後他の日の新しい経験やメモと結合し、思いがけない巨大な洞察へと完成します。"
@@ -91,7 +91,7 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>昼に歩いていて浮かんだ思考を紙の手帳の代わりにスマートフォンの音声メモや専用メモアプリで 작성してもよいですか？</span>
+      <span>昼に歩いていて浮かんだ思考を紙の手帳の代わりにスマートフォンの音声メモや専用メモアプリで してもよいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">

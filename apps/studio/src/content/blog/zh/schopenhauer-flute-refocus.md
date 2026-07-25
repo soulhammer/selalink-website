@@ -4,7 +4,7 @@ description: "德国伟大的厌世主义哲学家阿图尔·叔本华。介绍�
 pubDate: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/schopenhauer_flute_refocus.webp"
 app: "buildself"
 formatVersion: 4

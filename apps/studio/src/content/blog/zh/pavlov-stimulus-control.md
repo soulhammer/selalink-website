@@ -4,7 +4,7 @@ description: "介绍经典条件反射创始人伊万·巴甫洛夫的刺激阻�
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/pavlov_stimulus_control.webp"
 app: "buildself"
 formatVersion: 4

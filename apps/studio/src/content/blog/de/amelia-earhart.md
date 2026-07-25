@@ -4,7 +4,7 @@ description: "Als erste Fliegerin, die den Atlantik alleine erfolgreich überque
 pubDate: "2026-01-31"
 updatedDate: "2026-01-31"
 category: "BuildSelf"
-tags: ["위인 습관", "어밀리아 이어하트", "분석", "시간 관리"]
+tags: []
 heroImage: "/images/blog/amelia_earhart.webp"
 app: "buildself"
 formatVersion: 4

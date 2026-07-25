@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie Albert Einstein, der die Physik revolutionierte,
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["위인 습관", "알베르트 아인슈타인", "창의성", "휴식", "아이디어"]
+tags: []
 heroImage: "/images/blog/einstein_violin_thinking.webp"
 app: "buildself"
 formatVersion: 4

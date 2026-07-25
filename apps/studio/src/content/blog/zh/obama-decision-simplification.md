@@ -4,7 +4,7 @@ description: "æ¢è®¨ç¾å½ç¬¬44ä»»æ»ç»å·´æå
 pubDate: "2026-01-06"
 updatedDate: "2026-01-06"
 category: "BuildSelf"
-tags: ["위인 습관", "버락 오바마", "의사결정", "생산성", "자기관리", "루틴"]
+tags: []
 heroImage: "/images/blog/obama_decision_simplification.webp"
 app: "buildself"
 formatVersion: 4

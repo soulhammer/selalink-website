@@ -4,7 +4,7 @@ description: "Découvrez la routine de Charlotte Brontë, auteure de 'Jane Eyre'
 pubDate: "2026-05-14"
 updatedDate: "2026-05-14"
 category: "BuildSelf"
-tags: ["위인 습관", "샬롯브론테", "보행토론", "창의성걷기", "협업창작"]
+tags: []
 heroImage: "/images/blog/bronte_table_walking.webp"
 app: "buildself"
 formatVersion: 4
@@ -26,7 +26,7 @@ faqs:
 
 « Chaque soir, nous tournions sans fin autour de la table dans l'obscurité en discutant. C'est au rythme de cette marche que l'âme de nos romans a enfin pris vie. » 🕯️
 
-Charlotte Brontë (1816–1855) était une géante de la littérature anglaise du XIXe siècle qui a exploré avec a� la quête d'émancipation et la passion féminines, laissant une empreinte immortelle dans la littérature mondiale. Vivant dans le presbytère isolé de Haworth, dans le Yorkshire, aux côtés de ses sœurs Emily et Anne, elle a enduré l'isolement, la pauvreté et de tragiques pertes familiales. Comment ce trio isolé a-t-il pu donner naissance simultanément à des classiques tels que 'Jane Eyre', 'Les Hauts de Hurlevent' et 'Agnes Grey' ?
+Charlotte Brontë (1816–1855) était une géante de la littérature anglaise du XIXe siècle qui a exploré avec a la quête d'émancipation et la passion féminines, laissant une empreinte immortelle dans la littérature mondiale. Vivant dans le presbytère isolé de Haworth, dans le Yorkshire, aux côtés de ses sœurs Emily et Anne, elle a enduré l'isolement, la pauvreté et de tragiques pertes familiales. Comment ce trio isolé a-t-il pu donner naissance simultanément à des classiques tels que 'Jane Eyre', 'Les Hauts de Hurlevent' et 'Agnes Grey' ?
 
 Bien plus forte que leurs contraintes matérielles était leur routine nocturne de « Discussion Ambulante autour de la Table (Table Walking) ». Après avoir écrit individuellement pendant la journée, les sœurs se réunissaient à 21h pour arpenter continuellement le tour de la grande table de la salle à manger dans l'obscurité. Tout en marchant, elles lisaient à voix haute leurs brouillons quotidiens, échangeant des critiques aiguisées et des idées neuves. Cette collaboration ambulante nocturne a brisé la « Vision en Tunnel (Tunnel Vision) » propre à la création solitaire, élevant leurs œuvres vers une grande cohérence structurelle.
 

@@ -4,7 +4,7 @@ description: "Découvrez la routine de Jean-Jacques Rousseau consistant à class
 pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
-tags: ["위인 습관", "사색"]
+tags: []
 heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4

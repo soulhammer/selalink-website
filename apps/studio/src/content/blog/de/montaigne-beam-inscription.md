@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie der französische Philosoph Michel de Montaigne 
 pubDate: "2026-03-10"
 updatedDate: "2026-03-10"
 category: "BuildSelf"
-tags: ["시각점화", "사색", "서재", "르네상스"]
+tags: []
 heroImage: "/images/blog/montaigne_beam_inscription.webp"
 app: "buildself"
 formatVersion: 4

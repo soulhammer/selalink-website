@@ -4,7 +4,7 @@ description: "朝鮮最高の賢者・栗谷李珥が20歳で確立した「自�
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위인 습관", "율곡 이이", "자율성", "자경문", "의지력", "자기계발"]
+tags: []
 heroImage: "/images/blog/yiyi_self_warning.webp"
 app: "buildself"
 formatVersion: 4
@@ -14,7 +14,7 @@ steps:
     text: "集中力、時間管理、態度など、普段改善したいことや守りたい自分だけの核心的な修養ルール3〜5項目を、自分の言葉で明確かつ具体的に作成します。"
   - name: "起床直後の朝の最初のルーティンとして熟読・宣言"
     text: "朝起きた直後、デジタル機器を確認する前に、作成しておいた原則をゆっくり精読するか静かに音読して、一日の心を整えます。"
-  - name: "一日の終わり、日課과의 比較分析とフィードバックの記録"
+  - name: "一日の終わり、日課との 比較分析とフィードバックの記録"
     text: "bedtime 前に朝宣言した原則をどれだけ守れたか短く振り返り、不足していた点と翌日補完すべき事項を1〜2行で日記アプリや手帳に記録します。"
 faqs:
   - question: "自警文にはどのような内容を記載するのが最も効果的ですか？"
@@ -75,7 +75,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">一日の終わり、日課과의 比較分析とフィードバックの記録</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">一日の終わり、日課との 比較分析とフィードバックの記録</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     bedtime 前に朝宣言した原則をどれだけ守れたか短く振り返り、不足していた点と翌日補完すべき事項を1〜2行で日記アプリや手帳に記録します。

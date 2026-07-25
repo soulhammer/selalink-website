@@ -4,7 +4,7 @@ description: "介绍让-雅克·卢梭在分类和采集野生植物的同时进
 pubDate: "2026-04-23"
 updatedDate: "2026-04-23"
 category: "BuildSelf"
-tags: ["위인 습관", "사색"]
+tags: []
 heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4

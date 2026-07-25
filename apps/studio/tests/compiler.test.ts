@@ -48,9 +48,14 @@ describe('블로그 컴파일러 및 동기화 아키텍처 리팩토링 검증'
 
   it('6. retrofit_blogs.js에서 하드코딩된 petSlugs 리스트가 제거되었는가', () => {
     const filePath = path.join(projectRoot, 'src/retrofit_blogs.js');
-    const content = fs.readFileSync(filePath, 'utf-8');
-    const hasPetSlugsHardcoded = content.includes("const petSlugs = [");
-    expect(hasPetSlugsHardcoded).toBe(false);
+    const exists = fs.existsSync(filePath);
+    if (exists) {
+      const content = fs.readFileSync(filePath, 'utf-8');
+      const hasPetSlugsHardcoded = content.includes("const petSlugs = [");
+      expect(hasPetSlugsHardcoded).toBe(false);
+    } else {
+      expect(exists).toBe(false);
+    }
   });
 
   it('7. compile_pet_blogs.js에서 lang === \'ko\' 일 때 컴파일을 스킵하는 조건이 존재하는가', () => {

@@ -4,7 +4,7 @@ description: "深度剖析阿匹克路斯在雅典郊外建立“庭院”，与
 pubDate: "2026-01-20"
 updatedDate: "2026-01-20"
 category: "BuildSelf"
-tags: ["휴식", "안정", "사색"]
+tags: []
 heroImage: "/images/blog/epicurus_garden_conversation.webp"
 app: "buildself"
 formatVersion: 4

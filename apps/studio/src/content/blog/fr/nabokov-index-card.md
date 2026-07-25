@@ -4,7 +4,7 @@ description: "L'auteur Vladimir Nabokov consignait ses romans sous forme de frag
 pubDate: "2026-01-01"
 updatedDate: "2026-01-01"
 category: "BuildSelf"
-tags: ["위인 습관", "블라디미르 나보코프", "기록", "메모", "생산성", "창의성"]
+tags: []
 heroImage: "/images/blog/nabokov_index_card.webp"
 app: "buildself"
 formatVersion: 4

@@ -4,7 +4,7 @@ description: "马克·扎克伯格通过每天穿完全相同的T恤和牛仔裤
 pubDate: "2026-06-12"
 updatedDate: "2026-06-12"
 category: "BuildSelf"
-tags: ["의사결정", "단순화", "생산성"]
+tags: []
 heroImage: "/images/blog/zuckerberg_uniform_minimization.webp"
 app: "buildself"
 formatVersion: 4

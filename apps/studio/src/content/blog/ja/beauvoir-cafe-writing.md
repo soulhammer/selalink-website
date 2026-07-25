@@ -4,7 +4,7 @@ description: "実存主義思想家であり小説家のシモーヌ・ド・ボ
 pubDate: "2026-06-08"
 updatedDate: "2026-06-08"
 category: "BuildSelf"
-tags: ["매일 같은 카페에서","Routine"]
+tags: []
 heroImage: "/images/blog/beauvoir_cafe_writing.webp"
 app: "buildself"
 formatVersion: 4
@@ -54,7 +54,7 @@ faqs:
 
 ## 注意事項＆ヒント：ソーシャルノイズとスピーチノイズの警戒
 
-すべての騒音が増進に役立つわけではありません。70デシベルを超える大音量の音楽や明確に聞こえる周囲の会話（スピーチノイズ、Speech Noise）は、脳の音韻ループ（Phonological Loop）를 妨害し、読解や論理的執筆能力を低下させます。穏やかな騒音レベルが維持される場所を選択するか、会話の音が鮮明な環境であればノイズキャンセリングイヤホンを活用して妨害要素を回避すべきです。
+すべての騒音が増進に役立つわけではありません。70デシベルを超える大音量の音楽や明確に聞こえる周囲の会話（スピーチノイズ、Speech Noise）は、脳の音韻ループ（Phonological Loop） 妨害し、読解や論理的執筆能力を低下させます。穏やかな騒音レベルが維持される場所を選択するか、会話の音が鮮明な環境であればノイズキャンセリングイヤホンを活用して妨害要素を回避すべきです。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">

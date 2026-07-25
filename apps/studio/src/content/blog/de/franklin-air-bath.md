@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie Benjamin Franklin, Erfinder des Blitzableiters u
 pubDate: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "BuildSelf"
-tags: ["위인 습관", "벤자민 프랭클린", "아침 루틴", "면역력", "각성"]
+tags: []
 heroImage: "/images/blog/franklin_air_bath.webp"
 app: "buildself"
 formatVersion: 4

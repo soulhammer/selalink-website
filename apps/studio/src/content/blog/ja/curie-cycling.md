@@ -4,7 +4,7 @@ description: "女性初のノーベル賞受賞者であり物理学・化学分
 pubDate: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "BuildSelf"
-tags: ["위인 습관", "마리 퀴리", "자전거", "휴식", "스트레스"]
+tags: []
 heroImage: "/images/blog/curie_cycling.webp"
 app: "buildself"
 formatVersion: 4

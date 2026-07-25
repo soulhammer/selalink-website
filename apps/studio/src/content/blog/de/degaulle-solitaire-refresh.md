@@ -4,7 +4,7 @@ description: "Erkunden Sie, wie der französische Präsident Charles de Gaulle m
 pubDate: "2026-03-28"
 updatedDate: "2026-03-28"
 category: "BuildSelf"
-tags: ["위인 습관", "샤를 드 골", "솔리테어", "의사결정 피로", "두뇌 이완"]
+tags: []
 heroImage: "/images/blog/degaulle_solitaire_refresh.webp"
 app: "buildself"
 formatVersion: 4

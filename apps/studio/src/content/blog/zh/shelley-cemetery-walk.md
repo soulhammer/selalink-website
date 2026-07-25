@@ -4,7 +4,7 @@ description: "探索小说《弗兰肯斯坦》作者玛丽·雪莱为何经常�
 pubDate: "2026-07-07"
 updatedDate: "2026-07-07"
 category: "BuildSelf"
-tags: ["위인 습관", "사색"]
+tags: []
 heroImage: "/images/blog/shelley_cemetery_walk.webp"
 app: "buildself"
 formatVersion: 4

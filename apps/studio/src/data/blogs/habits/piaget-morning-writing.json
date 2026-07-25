@@ -58,7 +58,7 @@
     "whyDesc": {
       "ko": "우리가 생각만으로 복잡한 문제를 해결하려 하면 뇌의 작업 기억 공간은 금방 한계에 도달해 과부하가 걸립니다. 피아제의 아침 글쓰기는 머릿속의 개념들을 외부 매체(종이)에 기록하여 뇌의 인지 부하를 강제로 덜어주는 <strong>'작업 기억의 외재화(Working Memory Externalization)'</strong> 작업이었습니다.\n\n글쓰기로 뇌의 작업 기억이 비워진 직후 이루어지는 오후의 산책은 신체 활동을 통해 뇌유래신경영양인자(BDNF)를 활성화합니다. 이와 동시에 뇌가 멍한 상태나 사색 모드에 들어갈 때 켜지는 '디폴트 모드 네트워크(Default Mode Network, DMN)'를 가동합니다. 이 과정에서 아침에 메모했던 지식 파편들이 무의식 속에서 무작위로 재결합하며 정교한 논리 체계와 창의적인 통찰력으로 재탄생하게 됩니다.",
       "en": "Relying purely on mental effort to solve complex problems overloads limited working memory capacity. Piaget's morning writing served as <strong>'Working Memory Externalization'</strong>, offloading mental burden onto paper.\n\nThe subsequent afternoon walk stimulates Brain-Derived Neurotrophic Factor (BDNF) through physical movement while engaging the Default Mode Network (DMN). During this incubation phase, knowledge fragments recorded in the morning spontaneously recombine in the subconscious into rigorous logical structures.",
-      "ja": "思考だけで複雑な問題を解決しようとすると、脳の作業記憶（ワーキングメモリ）容量はすぐに限界に達して過負荷がかかります。ピアジェの朝の執筆は、頭の中の概念を外部メディア（紙）に記録し、脳の認知負荷を強制的に減らす<strong>「作業記憶の外在化（Working Memory Externalization）」</strong>作業でした。\n\n執筆によって作業記憶が空になった直後に行われる午後の散歩は、身体活動を通じて脳由来神経栄養因子（BDNF）を活性化します。同時に、ボーッとした状態や思索モードに入る時に作動する「デフォルト・モード・ネットワーク（DMN）」を稼働させます。この過程で朝にメモした知識の断片が無意識の中でランダムに再結合し、精巧な論리体系と創造的な洞察力へと生まれ変わります。",
+      "ja": "思考だけで複雑な問題を解決しようとすると、脳の作業記憶（ワーキングメモリ）容量はすぐに限界に達して過負荷がかかります。ピアジェの朝の執筆は、頭の中の概念を外部メディア（紙）に記録し、脳の認知負荷を強制的に減らす<strong>「作業記憶の外在化（Working Memory Externalization）」</strong>作業でした。\n\n執筆によって作業記憶が空になった直後に行われる午後の散歩は、身体活動を通じて脳由来神経栄養因子（BDNF）を活性化します。同時に、ボーッとした状態や思索モードに入る時に作動する「デフォルト・モード・ネットワーク（DMN）」を稼働させます。この過程で朝にメモした知識の断片が無意識の中でランダムに再結合し、精巧な論体系と創造的な洞察力へと生まれ変わります。",
       "zh": "单凭脑海思考解决复杂问题会迅速超出工作记忆容量并导致过载。皮亚杰晨间写作的作用在于<strong>“工作记忆外置化（Working Memory Externalization）”</strong>，将大脑负担转嫁至纸面。\n\n写作清空工作记忆后的午后散步，通过躯体运动激活脑源性神经营养因子（BDNF），同时启动默认模式网络（DMN）。在此孵化过程中，晨间记录的知识碎片在无意识中随机重组，演变为严密的逻辑体系与深刻洞察。",
       "es": "Intentar resolver problemas complejos de memoria agota rápidamente la capacidad de la memoria de trabajo. La escritura matutina de Piaget funcionaba como una <strong>'Externalización de la Memoria de Trabajo'</strong>, descargando el esfuerzo mental en el papel.\n\nLa caminata vespertina posterior estimula el Factor Neurotrófico Derivado del Cerebro (BDNF) a través del movimiento físico mientras activa la Red por Defecto (DMN). Durante esta incubación, los fragmentos de conocimiento se recombinan en el subconsciente formando redes lógicas sólidas.",
       "de": "Rein gedankliche Problemlösung stößt schnell an die Kapazitätsgrenzen des Arbeitsspeichers. Piagets morgendliches Schreiben diente als <strong>'Externalisierung des Arbeitsspeichers'</strong> zur Entlastung des Gehirns auf Papier.\n\nDer nachmittägliche Spaziergang regt durch Bewegung den Gehirn-Wachstumsfaktor BDNF an und aktiviert das Default Mode Network (DMN). In dieser Phase verbinden sich die morgendlichen Wissensbausteine im Unbewussten zu tiefen logischen Strukturen.",
@@ -69,7 +69,7 @@
     "cautionTitle": {
       "ko": "뇌에 입력하는 시간을 넘어 출력하고 환기하는 균형을 맞춰야 합니다",
       "en": "Balance Information Input with Dedicated Output and Mental Ventilation",
-      "ja": "脳にインプットする時間を超え、アウトプットして換気하는バランスを保ちましょう",
+      "ja": "脳にインプットする時間を超え、アウトプットして換気バランスを保ちましょう",
       "zh": "超越信息输入，保持输出与大脑通风的平衡",
       "es": "Equilibre la entrada de información con momentos de producción y descanso mental",
       "de": "Balance zwischen Informationseingabe, aktivem Ausdrücken und geistigem Durchatmen",

@@ -4,7 +4,7 @@ description: "Explores astronomer Carl Sagan's historical practice of shedding d
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 category: "BuildSelf"
-tags: ["성찰", "마음", "스트레스 해소", "본질"]
+tags: []
 heroImage: "/images/blog/sagan_cosmic_perspective.webp"
 app: "buildself"
 formatVersion: 4
@@ -28,7 +28,7 @@ faqs:
 
 Carl Sagan (1934–1996) was a leading 20th-century American astronomer, director of the Laboratory for Planetary Studies at Cornell University, and a brilliant author who popularized science. He served as a key scientist on NASA's Mariner, Viking, and Voyager missions, reminding humanity of its place in the cosmos through Pulitzer Prize-winning works like 'Cosmos' and 'Pale Blue Dot'.
 
-On February 14, 1990, as Voyager 1 was leaving the solar system, Sagan pers귭 NASA to turn its camera back toward Earth. Despite internal opposition, his persistence yielded a famous photograph of Earth as a 0.12-pixel point of light from 6 billion kilometers away: the 'Pale Blue Dot'.
+On February 14, 1990, as Voyager 1 was leaving the solar system, Sagan persuaded NASA to turn its camera back toward Earth. Despite internal opposition, his persistence yielded a famous photograph of Earth as a 0.12-pixel point of light from 6 billion kilometers away: the 'Pale Blue Dot'.
 
 Before launching into demanding research and writing each day, Sagan followed a perspective-reset routine: quietly gazing at this photo of the Pale Blue Dot and distant nebulae for 3 minutes. By zooming out to view himself and Earth from cosmic dimensions, he shed daily anxieties, subdued amygdala stress responses, and focused intensely on essential work.
 

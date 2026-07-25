@@ -4,7 +4,7 @@ description: "毎日スーツを端正に着こなし、居間のイーゼルの
 pubDate: "2026-05-25"
 updatedDate: "2026-05-25"
 category: "BuildSelf"
-tags: ["위인 습관", "르네 마그리트", "집중", "루틴", "창의성", "단순화"]
+tags: []
 heroImage: "/images/blog/magritte_suit_painting.webp"
 app: "buildself"
 formatVersion: 4

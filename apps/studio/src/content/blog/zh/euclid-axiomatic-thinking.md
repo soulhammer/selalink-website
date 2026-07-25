@@ -4,7 +4,7 @@ description: "探讨古希腊大数学家欧几里得如何将复杂难题拆解
 pubDate: "2026-02-21"
 updatedDate: "2026-02-21"
 category: "BuildSelf"
-tags: ["의사결정", "본질", "집중", "생산성"]
+tags: []
 heroImage: "/images/blog/euclid_axiomatic_thinking.webp"
 app: "buildself"
 formatVersion: 4

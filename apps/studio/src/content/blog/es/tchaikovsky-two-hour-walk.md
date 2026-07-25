@@ -4,7 +4,7 @@ description: "El gran compositor ruso Piotr Ilich Chaikovski caminaba exactament
 pubDate: "2026-06-01"
 updatedDate: "2026-06-01"
 category: "BuildSelf"
-tags: ["위인 습관", "차이코프스키", "걷기", "사색", "산책"]
+tags: []
 heroImage: "/images/blog/tchaikovsky_two_hour_walk.webp"
 app: "buildself"
 formatVersion: 4
@@ -18,7 +18,7 @@ steps:
     text: "Complete la rutina completa de caminata de dos horas sin abandonar a la mitad para aumentar el flujo sanguíneo cerebral y relajar el sistema nervioso, luego regrese de inmediato a su escritorio para organizar sus pensamientos."
 faqs:
   - question: "¿Por qué Chaikovski cumplía estrictamente con dos horas de caminata?"
-    answer: "Le ay� a controlar la ansiedad psicológica mediante una estricta disciplina, aumentar el flujo sanguíneo cerebral con la caminata continua y relajar su sistema nervioso autónomo para que las melodías fluyeran de forma natural."
+    answer: "Le ay a controlar la ansiedad psicológica mediante una estricta disciplina, aumentar el flujo sanguíneo cerebral con la caminata continua y relajar su sistema nervioso autónomo para que las melodías fluyeran de forma natural."
 
 ---
 
@@ -93,7 +93,7 @@ Al igual que Chaikovski protegía strictly su tiempo de caminata, las distraccio
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      Le ay� a controlar la ansiedad psicológica mediante una estricta disciplina, aumentar el flujo sanguíneo cerebral con la caminata continua y relajar su sistema nervioso autónomo para que las melodías fluyeran de forma natural.
+      Le ay a controlar la ansiedad psicológica mediante una estricta disciplina, aumentar el flujo sanguíneo cerebral con la caminata continua y relajar su sistema nervioso autónomo para que las melodías fluyeran de forma natural.
     </p>
   </details>
 </div>

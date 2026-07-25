@@ -4,7 +4,7 @@ description: "O dramaturgo Bernard Shaw ganhou tanto o Prêmio Nobel quanto o Os
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["집중", "생산성", "휴식"]
+tags: []
 heroImage: "/images/blog/shaw_rotating_hut_focus.webp"
 app: "buildself"
 formatVersion: 4

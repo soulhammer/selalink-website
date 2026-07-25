@@ -4,7 +4,7 @@ description: "Como el Rey de las Canciones que dejó más de 600 canciones en su
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: ["위인 습관", "프란츠 슈베르트", "계획", "아이디어"]
+tags: []
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

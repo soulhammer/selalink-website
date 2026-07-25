@@ -4,7 +4,7 @@ description: "El novelista John Steinbeck escribía cartas diarias a su editor p
 pubDate: "2026-05-07"
 updatedDate: "2026-05-07"
 category: "BuildSelf"
-tags: ["위인 습관", "존 스타인벡", "리프레시", "창의성", "생산성"]
+tags: []
 heroImage: "/images/blog/steinbeck_editor_letter.webp"
 app: "buildself"
 formatVersion: 4

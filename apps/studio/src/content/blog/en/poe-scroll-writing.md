@@ -4,7 +4,7 @@ description: "Edgar Allan Poe, the pioneer of modern detective fiction, wrote on
 pubDate: "2026-01-03"
 updatedDate: "2026-01-03"
 category: "BuildSelf"
-tags: ["원고를 두루마리로 ","Routine"]
+tags: []
 heroImage: "/images/blog/poe_scroll_writing.webp"
 app: "buildself"
 formatVersion: 4

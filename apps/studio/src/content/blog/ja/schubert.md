@@ -1,10 +1,10 @@
 ---
 title: "起床直後、眼鏡をかけたまま楽譜に向かったシューベルトの即時執筆ルーティン"
-description: "31年の短い生涯で600曲以上の歌曲を残した『歌曲の王』。起床直後、眼鏡를かけたまま夢の残像を楽譜に書き留めました。"
+description: "31年の短い生涯で600曲以上の歌曲を残した『歌曲の王』。起床直後、眼鏡かけたまま夢の残像を楽譜に書き留めました。"
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 category: "BuildSelf"
-tags: ["위인 습관", "프란츠 슈베르트", "계획", "아이디어"]
+tags: []
 heroImage: "/images/blog/schubert.webp"
 app: "buildself"
 formatVersion: 4

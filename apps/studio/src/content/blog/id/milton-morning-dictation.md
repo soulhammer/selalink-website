@@ -4,7 +4,7 @@ description: "Temukan rutinitas meditasi jam 4 pagi dari John Milton, yang mengg
 pubDate: "2026-04-09"
 updatedDate: "2026-04-09"
 category: "BuildSelf"
-tags: ["위인 습관", "사색"]
+tags: []
 heroImage: "/images/blog/milton_morning_dictation.webp"
 app: "buildself"
 formatVersion: 4

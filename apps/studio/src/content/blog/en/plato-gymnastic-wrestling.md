@@ -4,7 +4,7 @@ description: "Ancient Greek philosopher Plato was called by his wrestling nickna
 pubDate: "2026-03-05"
 updatedDate: "2026-03-05"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/plato_gymnastic_wrestling.webp"
 app: "buildself"
 formatVersion: 4
@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-Plato, the legendary philosopher who laid the foundation of Western philosophy, articulated the Theory of Forms, and founded the Academy—the first institution of higher learning in the Western world. Born Aristocles, he trained in wrestling under Ariston of Argos and competed in prestigious games like the Isthmian Games. The name 'Plato' itself derived from the Greek word 'platys', meaning 'broad shoulders', given to him by his wrestling coach. Throughout his life, every morning before engaging in rigorous philosophical debates, Plato r믭 olive oil on his body and engaged in intense wrestling and strength conditioning at the gymnasium. Plato believed that only when the physical body experiences high resistance and discipline does the brain become fully primed to contemplate high-level abstract logic and ideal forms. This post explores the physiological mechanisms behind Plato's high-intensity physical warm-up routine and provides a 15-minute modern home training guide.
+Plato, the legendary philosopher who laid the foundation of Western philosophy, articulated the Theory of Forms, and founded the Academy—the first institution of higher learning in the Western world. Born Aristocles, he trained in wrestling under Ariston of Argos and competed in prestigious games like the Isthmian Games. The name 'Plato' itself derived from the Greek word 'platys', meaning 'broad shoulders', given to him by his wrestling coach. Throughout his life, every morning before engaging in rigorous philosophical debates, Plato r olive oil on his body and engaged in intense wrestling and strength conditioning at the gymnasium. Plato believed that only when the physical body experiences high resistance and discipline does the brain become fully primed to contemplate high-level abstract logic and ideal forms. This post explores the physiological mechanisms behind Plato's high-intensity physical warm-up routine and provides a 15-minute modern home training guide.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>

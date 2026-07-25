@@ -4,7 +4,7 @@ description: "Explore how Anton Chekhov, master of modern short stories, meticul
 pubDate: "2026-01-12"
 updatedDate: "2026-01-12"
 category: "BuildSelf"
-tags: ["위인 습관", "안톤 체호프", "기록", "메모"]
+tags: []
 heroImage: "/images/blog/chekhov.webp"
 app: "buildself"
 formatVersion: 4

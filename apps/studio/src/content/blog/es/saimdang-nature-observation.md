@@ -4,7 +4,7 @@ description: "El método de entrenamiento de la creatividad de Shin Saimdang, la
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
-tags: ["위인 습관", "신사임당", "자연 관찰", "창의성", "주의 회복", "뇌과학"]
+tags: []
 heroImage: "/images/blog/saimdang_nature_observation.webp"
 app: "buildself"
 formatVersion: 4

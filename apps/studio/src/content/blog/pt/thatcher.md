@@ -4,7 +4,7 @@ description: "Como Primeira-Ministra britânica conhecida como a Dama de Ferro, 
 pubDate: "2026-04-05"
 updatedDate: "2026-04-05"
 category: "BuildSelf"
-tags: ["위인 습관", "마가렛 대처", "시간 관리", "의사결정"]
+tags: []
 heroImage: "/images/blog/thatcher.webp"
 app: "buildself"
 formatVersion: 4

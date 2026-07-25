@@ -4,7 +4,7 @@ description: "享誉世界的畅销书作家村上春树。探索他严律清晨
 pubDate: "2026-06-26"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "무라카미 하루키", "달리기", "루틴", "체력"]
+tags: []
 heroImage: "/images/blog/murakami_running.webp"
 app: "buildself"
 formatVersion: 4

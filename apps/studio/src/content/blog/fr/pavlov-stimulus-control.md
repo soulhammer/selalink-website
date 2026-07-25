@@ -4,7 +4,7 @@ description: "Découvrez la routine de blocage des stimulis d'Ivan Pavlov, fonda
 pubDate: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "BuildSelf"
-tags: ["루틴", "습관"]
+tags: []
 heroImage: "/images/blog/pavlov_stimulus_control.webp"
 app: "buildself"
 formatVersion: 4

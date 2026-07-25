@@ -4,7 +4,7 @@ description: "探索作曲家约瑟夫·海顿为何在创作前必先穿戴整�
 pubDate: "2026-04-04"
 updatedDate: "2026-04-04"
 category: "BuildSelf"
-tags: ["위인 습관", "생산성"]
+tags: []
 heroImage: "/images/blog/haydn_formal_dressing.webp"
 app: "buildself"
 formatVersion: 4

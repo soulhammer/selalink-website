@@ -4,7 +4,7 @@ description: "La regla de escritura matutina detrás de las obras maestras de Na
 pubDate: "2026-04-19"
 updatedDate: "2026-04-19"
 category: "BuildSelf"
-tags: ["위인 습관", "나쓰메 소세키", "루틴", "집필 습관", "작동 흥분", "생산성"]
+tags: []
 heroImage: "/images/blog/soseki_forced_writing.webp"
 app: "buildself"
 formatVersion: 4

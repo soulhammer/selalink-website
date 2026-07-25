@@ -4,7 +4,7 @@ description: "A world-renowned theoretical physicist who overcame ALS. Unable to
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 category: "BuildSelf"
-tags: ["위인 습관", "스티븐 호킹", "창의성", "학습"]
+tags: []
 heroImage: "/images/blog/stephen_hawking.webp"
 app: "buildself"
 formatVersion: 4

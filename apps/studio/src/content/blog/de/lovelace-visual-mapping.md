@@ -4,7 +4,7 @@ description: "Erfahren Sie, wie die erste Programmiererin der Welt, Ada Lovelace
 pubDate: "2026-02-01"
 updatedDate: "2026-02-01"
 category: "BuildSelf"
-tags: ["위인 습관", "에이다 러브레이스", "공부", "창의성", "알고리즘"]
+tags: []
 heroImage: "/images/blog/lovelace_visual_mapping.webp"
 app: "buildself"
 formatVersion: 4

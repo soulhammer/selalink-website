@@ -4,7 +4,7 @@ description: "Découvrez comment le polymathe de la Renaissance Léonard de Vinc
 pubDate: "2026-05-29"
 updatedDate: "2026-06-30"
 category: "BuildSelf"
-tags: ["위인 습관", "레오나르도 다 빈치", "메모", "기록", "창의성"]
+tags: []
 heroImage: "/images/blog/da_vinci_notepad.webp"
 app: "buildself"
 formatVersion: 4
