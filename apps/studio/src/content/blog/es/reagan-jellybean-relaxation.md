@@ -1,6 +1,6 @@
 ---
-title: "백악관의 비밀 사탕? 로널드 레이건의 젤리빈 저작 스트레스 완화법"
-description: "미국 제40대 대통령 로널드 레이건은 담배를 끊고 스트레스를 다스리기 위해 백악관 집무실에서 젤리빈을 먹었습니다. 저작 운동이 정서에 미치는 뇌과학적 원리를 알아봅니다."
+title: "El caramelo secreto de la Casa Blanca? El método de alivio del estrés con caramelos de goma de Ronald Reagan"
+description: "El 40.º presidente de EE. UU., Ronald Reagan, comía caramelos de goma en el Despacho Oval para dejar de fumar y controlar el estrés. Descubra los principios neurocientíficos de cómo el movimiento masticatorio afecta el estado emocional."
 pubDate: "2026-04-25"
 updatedDate: "2026-04-25"
 category: "BuildSelf"
@@ -8,27 +8,27 @@ tags: ["루틴", "습관"]
 heroImage: "/images/blog/reagan_jellybean_relaxation.webp"
 app: "buildself"
 formatVersion: 4
-authority: "로널드 레이건 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "Investigación basada en biografías históricas y autobiografías de Ronald Reagan y estudios de Neurociencia Cognitiva"
 steps:
-  - name: "대체 씹기 도구의 준비"
-    text: "중독성 욕구가 일거나 긴장 상황이 닥치기 전, 무설탕 껌이나 무당 젤리, 견과류 1봉 등 질감이 쫄깃하거나 딱딱한 대체 식품을 미리 준비해 둡니다."
-  - name: "감각 감지 저작 수행"
-    text: "불안이나 욕구가 커지는 정점에서, 씹을거리를 입안에 넣고 턱 근육의 긴장과 움직임, 침의 분비에 집중하여 천천히 씹기 시작합니다."
-  - name: "2분 이완 및 호흡 조율"
-    text: "씹는 행위를 2분간 유지하며 깊은 호흡을 병행합니다. 뇌가 자극을 처리하고 정서적인 평정을 되찾을 수 있도록 몸의 긴장을 이완합니다."
+  - name: "Preparar elementos masticables alternativos"
+    text: "Antes de que surjan impulsos o situaciones estresantes, prepare con antelación alimentos alternativos de textura masticable o crujiente, como chicle sin azúcar, gomitas sin azúcar o un paquete de frutos secos."
+  - name: "Masticar enfocándose en las sensaciones"
+    text: "En el pico de ansiedad o deseo, colóquese el elemento en la boca y comience a masticar lentamente, concentrándose en el movimiento y la tensión de los músculos mandibulares y la salivación."
+  - name: "Relajación de 2 minutos y regulación de la respiración"
+    text: "Mantenga la masticación durante 2 minutos combinándola con respiraciones profundas. Relaje la tensión corporal para que el cerebro procese el estímulo y recupere la calma emocional."
 faqs:
-  - question: "저작 운동이 스트레스를 낮추는 효과는 얼마나 오래 씹어야 나타나나요?"
-    answer: "신경생리학 연구에 따르면 저작 운동을 시작하고 약 2~3분 이후부터 코르티솔 수치가 감소하고 뇌파가 이완성인 알파파(Alpha wave)로 전환되기 시작합니다. 따라서 최소한 2~3분 이상은 차분히 저작 운동에 집중해 주는 것이 효과를 보는 열쇠입니다."
-  - question: "저작 운동이 실제로 금연이나 폭식을 억제하는 과학적인 원리가 맞나요?"
-    answer: "맞습니다. 뇌는 강력한 충동(담배, 음식)이 들 때 도파민의 급격한 공급을 원합니다. 이때 구강에 씹는 대체 자극을 제공하면 뇌는 보상 욕구를 부분적으로 자족하게 되어(도파민 우회 방출) 충동의 급격한 피크를 통제할 수 있게 돕습니다. 행동 과학에서는 이를 '대안 행동 형성'이라고 합니다."
+  - question: "¿Cuánto tiempo debo masticar para que el efecto de reducción del estrés sea perceptible?"
+    answer: "La investigación neurofisiológica indica que los niveles de cortisol comienzan a disminuir y las ondas cerebrales empiezan a cambiar a ondas alfa (Alpha wave) relajantes unos 2 o 3 minutos después de comenzar a masticar. Por lo tanto, mantener la concentración en masticar durante al menos 2 a 3 minutos es clave para obtener resultados."
+  - question: "¿Existe realmente un principio científico por el cual masticar ayuda a suprimir el deseo de fumar o la ingesta compulsiva?"
+    answer: "Así es. Cuando se experimentan antojos intensos (tabaco, comida), el cerebro busca un aumento rápido de dopamina. Proporcionar un estímulo masticatorio alternativo en la boca permite que el cerebro satisfaga parcialmente el deseo de recompensa (a través de una liberación alternativa de dopamina), lo que ayuda a controlar los picos de impulso. La ciencia del comportamiento lo denomina 'formación de conducta alternativa'."
 
 ---
 
-미국 제40대 대통령으로서 냉전 종식을 이끌고 미국의 경제적 부흥과 명료한 커뮤니케이션 리더십을 발휘했던 대표적 정치 지도자, 로널드 레이건(Ronald Reagan). 세계 강대국의 정상으로서 매 순간 국가적 위기와 중대한 의사결정의 막중한 무게를 견뎌야 했던 그의 인지적 이완 비법은 무엇이었을까요? 🍬
+Ronald Reagan, el 40.º presidente de los Estados Unidos, fue un destacado líder político que impulsó el fin de la Guerra Fría, revitalizó la economía estadounidense y ejerció un liderazgo de comunicación claro. Como jefe de una superpotencia mundial obligado a soportar el inmenso peso de crisis nacionales y decisiones de gran trascendencia, ¿cuál era su secreto para la relajación cognitiva? 🍬
 
-레이건의 백악관 집무실 책상과 이사회 회의탁자 위에는 항상 알록달록한 '젤리빈(Jelly Belly)' 사탕 유리병이 놓여 있었습니다. 그는 미-소 정상회담이나 긴박한 국정 회의 도중 생각의 경직이 찾아오면, 말없이 젤리빈 병에서 작은 사탕 한 알을 꺼내 입에 넣었습니다. 달콤한 조각을 천천히 씹으며 순간적으로 인지적 속도를 낮추고 뇌에 뇌당을 공급하는 이 소소한 휴식 습관이 그의 중압감을 완화시켰습니다.
+Sobre el escritorio de Reagan en el Despacho Oval y en las mesas de reuniones siempre había un frasco de vidrio lleno de coloridos caramelos de goma 'Jelly Belly'. Durante las tensas cumbres entre EE. UU. y la Unión Soviética o reuniones urgentes de asuntos de Estado, cuando sentía que aparecía la rigidez mental, sacaba en silencio un pequeño caramelo del frasco y se lo metía en la boca. Masticar lentamente la dulce pieza reducía momentáneamente su ritmo cognitivo y suministraba glucosa a su cerebro, aliviando su pesada presión mental.
 
-오늘 포스트에서는 레이건 대통령의 젤리빈 인지 이완 루틴에 담긴 미각 자극을 통한 전전두엽 당분 보충 및 스트레스 완화 과학을 소개합니다.
+La publicación de hoy presenta la ciencia detrás de la rutina de relajación cognitiva con caramelos de goma del presidente Reagan, mostrando cómo el estímulo del gusto repone la glucosa de la corteza prefrontal y reduce el estrés.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -37,52 +37,52 @@ faqs:
       Fundamento Histórico y Académico
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      El análisis sobre reagan-jellybean-relaxation se basa en <strong>로널드 레이건 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>.
+      El análisis sobre reagan-jellybean-relaxation se basa en <strong>Investigación basada en biografías históricas y autobiografías de Ronald Reagan y estudios de Neurociencia Cognitiva</strong>.
     </p>
   </div>
 </div>
 
 ---
 
-## 편도체를 안정시키는 저작 운동과 감각 대체
+## Masticación y sustitución sensorial para calmar la amígdala
 
-턱을 움직여 무언가를 반복적으로 씹는 저작(Mastication) 운동은 뇌의 삼차 신경을 활성화하여 공포와 스트레스를 주관하는 편도체(Amygdala)의 활동을 억제합니다. 이는 맥박을 안정시키고 코르티솔 분비를 즉각 떨어뜨립니다. 
+El movimiento repetitivo de la masticación activa el nervio trigémino en el cerebro, inhibiendo la amígdala, que gobierna el miedo y el estrés. Esto estabiliza las pulsaciones y reduce rápidamente la secreción de cortisol.
 
-동시에, 담배를 피우고 싶거나 단것을 과식하고 싶은 강력한 나쁜 중독성 욕구가 일어날 때, 무작정 참지 않고 안전한 대안 감각(예: 젤리빈 씹기)을 입안에 투입하는 구강 감각 대체(Oral Sensory Substitution)는 뇌의 도파민 보상 만족 회로를 교란하고 안정시켜 유해한 자동 행동을 끊어내도록 유도합니다.
+Al mismo tiempo, cuando surge un fuerte impulso adictivo (como fumar o comer dulces en exceso), introducir un estímulo sensorial alternativo y seguro (como masticar caramelos de goma) en la boca proporciona una sustitución sensorial oral. Esto calma y estabiliza el circuito de recompensa de dopamina del cerebro, ayudando a romper comportamientos automáticos dañinos.
 
 ---
 
-## 치아 건강을 위해 당류 섭취량에 유의하세요
+## Tenga cuidado con el consumo de azúcar para la salud dental
 
-레이건처럼 젤리빈을 너무 많이 먹으면 치아 우식(충치)이나 과도한 당 섭취로 건강을 해칠 수 있습니다. 설탕이 함유되지 않은 무설탕 껌이나 무당 젤리, 혹은 견과류(아몬드, 호두 등)를 대안으로 활용하여 저작 운동의 이완 효과만을 안전하게 취하는 것이 권장됩니다.
+Comer demasiados caramelos de goma como Reagan puede dañar la salud debido a la caries dental o al consumo excesivo de azúcar. Se recomienda utilizar chicle sin azúcar, gomitas sin azúcar o frutos secos (almendras, nueces) como alternativas para disfrutar de manera segura solo del efecto relajante de masticar.
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">대체 씹기 도구의 준비</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Preparar elementos masticables alternativos</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    중독성 욕구가 일거나 긴장 상황이 닥치기 전, 무설탕 껌이나 무당 젤리, 견과류 1봉 등 질감이 쫄깃하거나 딱딱한 대체 식품을 미리 준비해 둡니다.
+    Antes de que surjan impulsos o situaciones estresantes, prepare con antelación alimentos alternativos de textura masticable o crujiente, como chicle sin azúcar, gomitas sin azúcar o un paquete de frutos secos.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">감각 감지 저작 수행</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Masticar enfocándose en las sensaciones</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    불안이나 욕구가 커지는 정점에서, 씹을거리를 입안에 넣고 턱 근육의 긴장과 움직임, 침의 분비에 집중하여 천천히 씹기 시작합니다.
+    En el pico de ansiedad o deseo, colóquese el elemento en la boca y comience a masticar lentamente, concentrándose en el movimiento y la tensión de los músculos mandibulares y la salivación.
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">PASO 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">2분 이완 및 호흡 조율</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">Relajación de 2 minutos y regulación de la respiración</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    씹는 행위를 2분간 유지하며 깊은 호흡을 병행합니다. 뇌가 자극을 처리하고 정서적인 평정을 되찾을 수 있도록 몸의 긴장을 이완합니다.
+    Mantenga la masticación durante 2 minutos combinándola con respiraciones profundas. Relaje la tensión corporal para que el cerebro procese el estímulo y recupere la calma emocional.
   </p>
 </div>
 
@@ -93,21 +93,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>저작 운동이 스트레스를 낮추는 효과는 얼마나 오래 씹어야 나타나나요?</span>
+      <span>¿Cuánto tiempo debo masticar para que el efecto de reducción del estrés sea perceptible?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      신경생리학 연구에 따르면 저작 운동을 시작하고 약 2~3분 이후부터 코르티솔 수치가 감소하고 뇌파가 이완성인 알파파(Alpha wave)로 전환되기 시작합니다. 따라서 최소한 2~3분 이상은 차분히 저작 운동에 집중해 주는 것이 효과를 보는 열쇠입니다.
+      La investigación neurofisiológica indica que los niveles de cortisol comienzan a disminuir y las ondas cerebrales empiezan a cambiar a ondas alfa (Alpha wave) relajantes unos 2 o 3 minutos después de comenzar a masticar. Por lo tanto, mantener la concentración en masticar durante al menos 2 a 3 minutos es clave para obtener resultados.
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>저작 운동이 실제로 금연이나 폭식을 억제하는 과학적인 원리가 맞나요?</span>
+      <span>¿Existe realmente un principio científico por el cual masticar ayuda a suprimir el deseo de fumar o la ingesta compulsiva?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      맞습니다. 뇌는 강력한 충동(담배, 음식)이 들 때 도파민의 급격한 공급을 원합니다. 이때 구강에 씹는 대체 자극을 제공하면 뇌는 보상 욕구를 부분적으로 자족하게 되어(도파민 우회 방출) 충동의 급격한 피크를 통제할 수 있게 돕습니다. 행동 과학에서는 이를 '대안 행동 형성'이라고 합니다.
+      Así es. Cuando se experimentan antojos intensos (tabaco, comida), el cerebro busca un aumento rápido de dopamina. Proporcionar un estímulo masticatorio alternativo en la boca permite que el cerebro satisfaga parcialmente el deseo de recompensa (a través de una liberación alternativa de dopamina), lo que ayuda a controlar los picos de impulso. La ciencia del comportamiento lo denomina 'formación de conducta alternativa'.
     </p>
   </details>
 </div>

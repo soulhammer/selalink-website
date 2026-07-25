@@ -1,6 +1,6 @@
 ---
-title: "노벨 평화상 수상자의 야간 리셋? 알베르트 슈바이처의 밤 오르간 루틴"
-description: "아프리카 밀림 병원에서 매일 밤 바흐의 오르간을 연주하며 극심한 피로를 극복한 알베르트 슈바이처 박사의 자율신경계 리셋 습관과 실천 가이드."
+title: "诺贝尔和平奖得主的夜间重置法：阿尔贝特·施韦泽的夜间风琴习惯"
+description: "史怀哲博士在非洲丛林医院里每天晚上弹奏巴赫的风琴以克服极度疲劳：自律神经重置习惯与实践指南。"
 pubDate: "2026-01-29"
 updatedDate: "2026-01-29"
 category: "BuildSelf"
@@ -8,27 +8,27 @@ tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/schweitzer_night_organ.webp"
 app: "buildself"
 formatVersion: 4
-authority: "알베르트 슈바이처 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "阿尔贝特·施韦泽历史评传及自传记录考证与认知神经科学研究"
 steps:
-  - name: "취침 1시간 전 디지털 오프 상태 만들기"
-    text: "잠들기 1시간 전 스마트폰, 블루라이트 모니터를 끄고 방 안의 조명을 따뜻하고 아늑한 톤으로 낮춥니다."
-  - name: "15분간의 조용한 클래식 연주 음악 감상"
-    text: "바흐의 오르간 곡이나 느린 BPM의 클래식 연주곡을 틀어놓고 편안히 누워 멜로디에 온 신경을 맡깁니다."
-  - name: "감정 정리 및 간단한 저녁 일지 작성"
-    text: "음악 감상 후 마음이 편안해진 상태에서 오늘 잘한 일이나 감사한 점 1-2가지를 일기장에 적고 잠자리에 듭니다."
+  - name: "睡前1小时进入数字化断连状态"
+    text: "睡前1小时关闭手机和蓝光屏幕，并将房间灯光调暗至温暖舒适的色调。"
+  - name: "聆听15分钟安静的古典器乐演奏"
+    text: "播放巴赫的风琴曲或慢节奏古典乐曲，舒适地躺下，将全部注意力交由旋律引导。"
+  - name: "整理情绪与撰写简短晚间日记"
+    text: "听完音乐身心平静后，在日记本上写下今天做得好或值得感谢的1-2件事，然后入睡。"
 faqs:
-  - question: "클래식 음악 대신 가사가 있는 발라드를 들어도 되나요?"
-    answer: "가사가 있는 음악은 뇌의 언어 처리 영역(언어 피질)을 재가동하므로 완전한 휴식을 방해합니다. 가사 없는 순수 연주곡(클래식, 재즈, 로파이)이 자율신경계 이완에 훨씬 효과적입니다."
-  - question: "음악을 들으며 자는 것도 도움이 되나요?"
-    answer: "잠들기 직전 15-30분간 타이머를 설정해 감상하는 것이 좋습니다. 밤새 음악이 켜져 있으면 수면 단계 중 뇌의 청각 피질이 완전히 휴식하지 못할 수 있습니다."
+  - question: "可以用带歌词的情歌或抒情歌替代古典音乐吗？"
+    answer: "有歌词的音乐会重新激活大脑的语言处理区域（语言皮层），阻碍深度休息。无歌词的纯音乐（古典乐、爵士乐、Lo-Fi）对放松自律神经效果好得多。"
+  - question: "戴着耳机听着音乐入睡也有帮助吗？"
+    answer: "最好设置15-30分钟的定时播放。如果整夜播放音乐，大脑的听觉皮层在睡眠阶段可能无法获得充分休息。"
 
 ---
 
-노벨 평화상 수상자이자 헌신적인 의사, 철학자, 그리고 바흐 연구의 세계적 권위자였던 알베르트 슈바이처 박사. 아프리카 람바레네의 고온 다습한 밀림 속에서 환자들을 돌보며 직면했던 극심한 육체적, 정신적 피로를 그는 어떻게 매일 이겨냈을까요? 🎹
+阿尔贝特·施韦泽（Albert Schweitzer）博士是诺贝尔和平奖得主、奉献一生的人道主义医生、哲学家以及巴赫研究的权威大师。在非洲兰巴雷内高温潮湿的丛林中照顾病人时，他面对极度的肉体与精神疲劳，究竟是如何每天克服的？
 
-슈바이처 박사는 헌신적인 진료를 마친 고단한 밤마다 밀림 속에 마련된 페달 피아노에 앉아 바흐의 곡을 조용히 연주했습니다. 웅장하고 질서 정연한 바흐의 음악 선율에 몰입하는 시간은 그에게 지친 심신을 안정시키고 감정적 고갈을 방지하는 최고의 '신경계 리셋 루틴'이었습니다.
+每当在艰苦诊疗结束后的疲惫夜晚，施韦泽博士都会坐在特制的丛林踏板钢琴前，安静地弹奏巴赫的曲目。沉浸在宏大而富有秩序感的巴赫旋律中，成为了他平复身心、防止情绪耗竭的“神经系统重置习惯”。
 
-오늘 포스트에서는 슈바이처 박사의 밤 오르간 연주 루틴에 담긴 자율신경계 이완의 과학을 소개합니다.
+在今天的文章中，我们将探索施韦泽博士夜间风琴演奏习惯背后关于自律神经放松的科学。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -37,52 +37,52 @@ faqs:
       历史 and 学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 schweitzer-night-organ 的内容基于 <strong>알베르트 슈바이처 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> 撰写。
+      关于 schweitzer-night-organ 的内容基于 <strong>阿尔贝特·施韦泽历史评传及自传记录考证与认知神经科学研究</strong> 撰写。
     </p>
   </div>
 </div>
 
 ---
 
-## 구조화된 클래식 음률이 유도하는 부교감 신경 활성화
+## 结构化古典音乐旋律诱发的副交感神经激活
 
-낮 동안의 과도한 스트레스는 교감 신경(Sympathetic Nervous System)을 지속적으로 과활성화하여 코르티솔 수치를 높이고 자율신경계 균형을 무너뜨립니다.
+白天过度的压力会导致交感神经系统持续过度激活，提高皮质醇水平并破坏自律神经平衡。
 
-슈바이처 박사가 연주한 바흐의 음악처럼 60~80BPM의 박자를 가진 구조화된 클래식 멜로디는 부교감 신경(Parasympathetic Nervous System)을 즉각 활성화하는 <strong>'자율신경계 이완 스위치'</strong>입니다. 악기를 연주하거나 음악에 집중하면 심박수가 안정되고 심박 변이도(HRV)가 개선되어 하루 동안 누적된 정신적 피로가 빠르게 회복됩니다.
+像施韦泽博士弹奏的巴赫音乐一样，具有60~80 BPM节奏的结构化古典旋律是立刻激活副交感神经系统的<strong>“自律神经放松开关”</strong>。演奏乐器或专注聆听音乐能稳定心率并改善心率变异性（HRV），快速修复一天中累积的精神疲劳。
 
 ---
 
-## 취침 전 격렬한 스크린 대신 이완 음악을 선택하세요
+## 睡前选择放松音乐替代刺激性屏幕
 
-밤 늦게까지 자극적인 영상이나 텍스트를 소비하면 뇌는 휴식 모드로 전환되지 못합니다. 슈바이처 박사처럼 조용한 음악적 몰입을 통해 뇌에 자율신경계 이완 신호를 보내세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+深夜消费刺激性视频或文本会导致大脑无法切换到休息模式。请像史怀哲博士一样，通过安静的音乐沉浸向大脑发送放松信号。与其盲目依赖意志力，不如提前设计好能自然引发行为的物理环境与习惯信号，这是持之以恒的关键。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">취침 1시간 전 디지털 오프 상태 만들기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">睡前1小时进入数字化断连状态</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    잠들기 1시간 전 스마트폰, 블루라이트 모니터를 끄고 방 안의 조명을 따뜻하고 아늑한 톤으로 낮춥니다.
+    睡前1小时关闭手机和蓝光屏幕，并将房间灯光调暗至温暖舒适的色调。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">15분간의 조용한 클래식 연주 음악 감상</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">聆听15分钟安静的古典器乐演奏</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    바흐의 오르간 곡이나 느린 BPM의 클래식 연주곡을 틀어놓고 편안히 누워 멜로디에 온 신경을 맡깁니다.
+    播放巴赫的风琴曲或慢节奏古典乐曲，舒适地躺下，将全部注意力交由旋律引导。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">감정 정리 및 간단한 저녁 일지 작성</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">整理情绪与撰写简短晚间日记</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    음악 감상 후 마음이 편안해진 상태에서 오늘 잘한 일이나 감사한 점 1-2가지를 일기장에 적고 잠자리에 듭니다.
+    听完音乐身心平静后，在日记本上写下今天做得好或值得感谢的1-2件事，然后入睡。
   </p>
 </div>
 
@@ -93,21 +93,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>클래식 음악 대신 가사가 있는 발라드를 들어도 되나요?</span>
+      <span>可以用带歌词的情歌或抒情歌替代古典音乐吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      가사가 있는 음악은 뇌의 언어 처리 영역(언어 피질)을 재가동하므로 완전한 휴식을 방해합니다. 가사 없는 순수 연주곡(클래식, 재즈, 로파이)이 자율신경계 이완에 훨씬 효과적입니다.
+      有歌词的音乐会重新激活大脑的语言处理区域（语言皮层），阻碍深度休息。无歌词的纯音乐（古典乐、爵士乐、Lo-Fi）对放松自律神经效果好得多。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>음악을 들으며 자는 것도 도움이 되나요?</span>
+      <span>戴着耳机听着音乐入睡也有帮助吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      잠들기 직전 15-30분간 타이머를 설정해 감상하는 것이 좋습니다. 밤새 음악이 켜져 있으면 수면 단계 중 뇌의 청각 피질이 완전히 휴식하지 못할 수 있습니다.
+      最好设置15-30分钟的定时播放。如果整夜播放音乐，大脑的听觉皮层在睡眠阶段可能无法获得充分休息。
     </p>
   </details>
 </div>

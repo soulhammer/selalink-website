@@ -1,70 +1,214 @@
 {
   "pliny-reading-excerpt": {
     "title": {
-      "ko": "대 플리니우스의 끊임없는 필기법: 손글씨로 뇌를 깨우고 기억을 소유하는 법"
+      "ko": "대 플리니우스의 끊임없는 필기법: 손글씨로 뇌를 깨우고 기억을 소유하는 법",
+      "en": "Pliny the Elder's Relentless Note-Taking: How Handwriting Awakens the Brain and Owns Memory",
+      "ja": "大プリニウスの絶え間ない筆記法：手書きで脳を呼び覚まし記憶を所有する方法",
+      "zh": "老普林尼不间断的笔记法：用手写唤醒大脑并掌控记忆的方法",
+      "es": "La constante toma de notas de Plinio el Viejo: Cómo la escritura a mano despierta el cerebro y adueña la memoria",
+      "de": "Plinius des Älteren unermüdliches Notieren: Wie Handschrift das Gehirn weckt und Erinnerung besitzt",
+      "fr": "La prise de note incessante de Pline l'Ancien : Comment l'écriture manuscrite éveille le cerveau et s'approprie la mémoire",
+      "pt": "A constante tomada de notas de Plínio, o Velho: Como a escrita à mão desperta o cérebro e domina a memória",
+      "id": "Metode Catatan Tiada Henti Plinius yang Tua: Cara Tulisan Tangan Membangkitkan Otak dan Menguasai Ingatan"
     },
     "description": {
-      "ko": "로마의 석학 대 플리니우스가 밥 먹고 이동하는 순간조차 비서에게 책을 읽히고 메모하며 방대한 지식을 집대성한 필기 비결을 공유합니다."
+      "ko": "로마의 석학 대 플리니우스가 밥 먹고 이동하는 순간조차 비서에게 책을 읽히고 메모하며 방대한 지식을 집대성한 필기 비결을 공유합니다.",
+      "en": "Shares the note-taking secrets of Roman scholar Pliny the Elder, who compiled vast knowledge by having secretaries read books to him and taking notes even while eating or traveling.",
+      "ja": "ローマの学者・大プリニウスが食事中や移動の瞬間さえ秘書に本を読ませメモを取りながら膨大な知識を大成した筆記の秘訣を共有します。",
+      "zh": "分享古罗马学者老普林尼的笔记秘诀，他甚至在用餐和出行时也让秘书朗读图书并记录笔记，由此集大成汇编了浩瀚的知识。",
+      "es": "Comparte los secretos de la toma de notas del erudito romano Plinio el Viejo, quien compiló un vasto conocimiento pidiendo a sus secretarios que le leyeran libros y tomando notas incluso mientras comía o viajaba.",
+      "de": "Teilt die Notizgeheimnisse des römischen Gelehrten Plinius des Älteren, der ein enormes Wissen zusammentrug, indem er sich selbst beim Essen oder Reisen von Sekretären Bücher vorlesen ließ und Notizen machte.",
+      "fr": "Partage les secrets de prise de notes de l'érudit romain Pline l'Ancien, qui a compilé de vastes connaissances en faisant lire des livres par ses secrétaires et en prenant des notes même en mangeant ou en voyageant.",
+      "pt": "Compartilha os segredos de anotação do erudito romano Plínio, o Velho, que compilou um vasto conhecimento fazendo secretários lerem livros para ele e fazendo anotações mesmo enquanto comia ou viajava.",
+      "id": "Bagikan rahasia mencatat cendekiawan Romawi Plinius yang Tua, yang menghimpun pengetahuan luas dengan meminta sekretaris membacakan buku dan mencatat bahkan saat makan atau bepergian."
     },
     "authority": {
-      "ko": "Pliny Reading Excerpt 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "Pliny Reading Excerpt 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical critical biography and autobiographical records of Pliny Reading Excerpt & Cognitive Neuroscience research",
+      "ja": "大プリニウスの読書・抜粋記録に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "老普林尼阅读与摘录历史评传及自传记录考证与认知神经科学研究",
+      "es": "Biografía crítica histórica y registros autobiográficos sobre los extractos de lectura de Plinio e investigación en neurociencia cognitiva",
+      "de": "Historische kritische Biografie und autobiografische Aufzeichnungen über Plinius' Leseexzerpte sowie kognitive neurowissenschaftliche Forschung",
+      "fr": "Biographie critique historique et récits autobiographiques sur les extraits de lecture de Pline & recherche en neurosciences cognitives",
+      "pt": "Biografia crítica histórica e registros autobiográficos sobre os excertos de leitura de Plínio e pesquisas em neurociência cognitiva",
+      "id": "Biografi kritis historis dan catatan autobiografi tentang Kutipan Membaca Plinius & penelitian ilmu saraf kognitif"
     },
     "intro": {
-      "ko": "\"메모하지 않고 읽은 책은 가치가 없으며, 세상에 요약할 수 없을 만큼 나쁜 책은 없다.\" ✍️\n\n로마의 공직자이자 박학가인 대 플리니우스는 공부하지 않고 흘려보내는 모든 시간을 죄악으로 여겼습니다. 그는 식사, 목욕, 여행 중에도 늘 비서를 옆에 두고 책을 낭독하게 한 뒤, 핵심 아이디어나 사실을 즉석에서 발췌 필기했습니다. 평생 멈추지 않은 이 발췌 메모 습관이 고대 최대의 백과사전 《박물지》를 탄생시킨 힘이었습니다.\n\n매시간 펜을 멈추지 않았던 그의 학구열은 오늘날 학습 심리학과 인지 과학의 관점에서도 지식을 기억으로 정착시키는 데 있어 가장 효율적인 접근법임이 입증되었습니다."
+      "ko": "\"메모하지 않고 읽은 책은 가치가 없으며, 세상에 요약할 수 없을 만큼 나쁜 책은 없다.\" ✍️\n\n로마의 공직자이자 박학가인 대 플리니우스는 공부하지 않고 흘려보내는 모든 시간을 죄악으로 여겼습니다. 그는 식사, 목욕, 여행 중에도 늘 비서를 옆에 두고 책을 낭독하게 한 뒤, 핵심 아이디어나 사실을 즉석에서 발췌 필기했습니다. 평생 멈추지 않은 이 발췌 메모 습관이 고대 최대의 백과사전 《박물지》를 탄생시킨 힘이었습니다.\n\n매시간 펜을 멈추지 않았던 그의 학구열은 오늘날 학습 심리학과 인지 과학의 관점에서도 지식을 기억으로 정착시키는 데 있어 가장 효율적인 접근법임이 입증되었습니다.",
+      "en": "\"No book is so bad that some good cannot be got out of it, and reading without taking notes is meaningless.\" ✍️\n\nPliny the Elder, a Roman official and polymath, considered any time spent without studying a loss. Even during meals, baths, or travel, he kept a secretary nearby to read books aloud and extracted key ideas or facts into immediate notes. This lifelong habit of excerpting and note-taking was the force behind the creation of ancient history's largest encyclopedia, 'Naturalis Historia' (Natural History).\n\nHis passion for learning without ever stopping his pen has been proven, even from the modern perspectives of learning psychology and cognitive science, to be the most effective approach for solidifying knowledge into memory.",
+      "ja": "「メモを取らずに読んだ本に価値はなく、要約できないほど悪い本は世界に存在しない。」 ✍️\n\nローマの公職者であり博学家の大プリニウスは、勉強せずに流してしまうすべての時間を罪悪と考えました。彼は食事、入浴、旅行中にも常に秘書を傍らに置き本を朗読させ、中核となるアイデアや事実をその場で抜粋し筆記しました。生涯止まることのなかったこの抜粋メモの習慣こそが、古代最大の百科事典『博物誌』を誕生させた力でした。\n\n一刻もペンを止めなかった彼の学究熱は、今日の学習心理学や認知科学の観点からも知識を記憶として定着させる上で最も効率的なアプローチであることが証明されています。",
+      "zh": "“读书而不作笔记是毫无价值的，世界上也没有差到无法做出摘要的书。” ✍️\n\n古罗马官员兼博学家老普林尼将所有没有用于学习的时间都视为罪过。即便在用餐、沐浴、出行时，他也总是让秘书随侍身旁朗读图书，并当场摘录核心构想或事实。这种终生未曾停歇的摘录笔记习惯，正是孕育出古代最大百科全书《自然史》的力量。\n\n从现代学习心理学和认知科学的角度来看，他片刻不停笔的求知热情也被证明是将知识转化为长久记忆的最有效方法。",
+      "es": "\"No hay libro tan malo que no contenga algo bueno, y leer sin tomar notas carece de valor.\" ✍️\n\nPlinio el Viejo, funcionario romano y polímata, consideraba un pecado cualquier tiempo transcurrido sin estudiar. Incluso durante las comidas, baños o viajes, mantenía a un secretario cerca para que le leyera libros en voz alta y extractaba ideas clave o datos en notas inmediatas. Este hábito permanente de extractar y tomar notas fue la fuerza impulsora detrás de la creación de la enciclopedia más grande de la antigüedad, la 'Historia Natural'.\n\nSu pasión por aprender sin soltar jamás la pluma ha demostrado ser, incluso desde la perspectiva moderna de la psicología del aprendizaje y la ciencia cognitiva, el enfoque más eficiente para consolidar el conocimiento en la memoria.",
+      "de": "„Kein Buch ist so schlecht, dass man nichts Nützliches daraus ziehen könnte, und Lesen ohne Notizen ist wertlos.“ ✍️\n\nPlinius der Ältere, ein römischer Beamter und Universalgelehrter, betrachtete jede ungenutzte Zeit ohne Lernen als Sünde. Selbst während der Mahlzeiten, beim Baden oder auf Reisen hatte er stets einen Sekretär an seiner Seite, der ihm Bücher vorlas, und er exzerpierte Kernideen oder Fakten sofort in Notizen. Diese lebenslange Gewohnheit des Exzerpierens und Notierens war die Kraft hinter der Erschaffung der größten Enzyklopädie der Antike, der ‚Naturgeschichte‘ (Naturalis Historia).\n\nSeine Leidenschaft für das Lernen, ohne den Stift jemals abzusetzen, erwies sich auch aus moderner Sicht der Lernpsychologie und Kognitionswissenschaft als der effizienteste Ansatz, um Wissen dauerhaft im Gedächtnis zu verankern.",
+      "fr": "« Il n'y a pas de livre si mauvais qu'on ne puisse en tirer quelque chose de bon, et lire sans prendre de notes n'a aucune valeur. » ✍️\n\nPline l'Ancien, haut fonctionnaire romain et polymathe, considérait comme un péché tout temps passé sans étudier. Même pendant les repas, les bains ou les voyages, il gardait un secrétaire à ses côtés pour lui lire des livres à haute voix et extrayait les idées clés ou les faits sous forme de notes immédiates. Cette habitude permanente d'extraire et de prendre des notes a été la force créatrice de la plus grande encyclopédie de l'Antiquité, 'Histoire Naturelle' (Naturalis Historia).\n\nSa passion d'apprendre sans jamais poser sa plume s'est avérée être, même selon la psychologie de l'apprentissage et les sciences cognitives modernes, l'approche la plus efficace pour ancrer les connaissances dans la mémoire.",
+      "pt": "\"Não há livro tão mau que não contenha algo aproveitável, e ler sem tomar notas é inútil.\" ✍️\n\nPlínio, o Velho, funcionário romano e polímata, considerava um pecado qualquer tempo passado sem estudar. Mesmo durante as refeições, banhos ou viagens, ele mantinha um secretário por perto para ler livros em voz alta e extraía ideias-chave ou fatos em anotações imediatas. Esse hábito vitalício de extrair e fazer anotações foi a força por trás da criação da maior enciclopédia da antiguidade, a 'História Natural' (Naturalis Historia).\n\nSua paixão por aprender sem nunca largar a caneta provou ser, mesmo a partir das perspectivas modernas da psicologia da aprendizagem e da ciência cognitiva, a abordagem mais eficaz para consolidar o conhecimento na memória.",
+      "id": "\"Tidak ada buku yang begitu buruk sehingga tidak memiliki manfaat, dan membaca tanpa mencatat tidak ada nilainya.\" ✍️\n\nPlinius yang Tua, seorang pejabat dan cendekiawan Romawi, menganggap setiap waktu yang dihabiskan tanpa belajar sebagai dosa. Bahkan saat makan, mandi, atau bepergian, ia selalu didampingi sekretaris untuk membacakan buku dengan keras dan langsung mencatat ide-ide utama atau fakta. Kebiasaan mengutip dan mencatat sepanjang hidupnya inilah yang melahirkan ensiklopedia terbesar di zaman kuno, 'Naturalis Historia' (Sejarah Alam).\n\nSemangat belajarnya yang tidak pernah menghentikan pena telah terbukti, bahkan dari sudut pandang psikologi pembelajaran dan ilmu kognitif modern, sebagai pendekatan paling efisien untuk mengokohkan pengetahuan ke dalam ingatan."
     },
     "whyTitle": {
-      "ko": "단순 독서보다 발췌 필기가 인지에 뛰어난 이유"
+      "ko": "단순 독서보다 발췌 필기가 인지에 뛰어난 이유",
+      "en": "Why Excerpt Note-Taking Is Cognitively Superior to Mere Reading",
+      "ja": "単純な読書より抜粋筆記が認知に優れている理由",
+      "zh": "摘录笔记在认知上优于单纯阅读的原因",
+      "es": "Por qué tomar notas de extractos es cognitivamente superior a la mera lectura",
+      "de": "Warum Exzerpieren und Notieren kognitiv dem reinen Lesen überlegen ist",
+      "fr": "Pourquoi la prise de notes d'extraits est cognitivement supérieure à la simple lecture",
+      "pt": "Por que fazer anotações de excertos é cognitivamente superior à mera leitura",
+      "id": "Mengapa Mencatat Kutipan Lebih Unggul Secara Kognitif Dibanding Sekadar Membaca"
     },
     "whyDesc": {
-      "ko": "눈으로만 텍스트를 읽는 단순 수용적 태도는 뇌가 정보를 단기 기억 저장소에서 쉽게 흘려보내게 만듭니다. 반면 텍스트의 핵심을 요약하여 직접 물리적인 손글씨로 필기할 때, 손가락의 세밀한 움직임은 뇌간의 망상활성계(RAS)를 자극하여 뇌 전체를 강력하게 활성화합니다. 이 과정에서 뇌는 정보를 여과하고 재구성해야 하므로, 기억에 강력한 인출 단서가 심어지고 장기 기억으로 안정적으로 안착하게 됩니다."
+      "ko": "눈으로만 텍스트를 읽는 단순 수용적 태도는 뇌가 정보를 단기 기억 저장소에서 쉽게 흘려보내게 만듭니다. 반면 텍스트의 핵심을 요약하여 직접 물리적인 손글씨로 필기할 때, 손가락의 세밀한 움직임은 뇌간의 망상활성계(RAS)를 자극하여 뇌 전체를 강력하게 활성화합니다. 이 과정에서 뇌는 정보를 여과하고 재구성해야 하므로, 기억에 강력한 인출 단서가 심어지고 장기 기억으로 안정적으로 안착하게 됩니다.",
+      "en": "A passive receptive stance of merely reading text with the eyes causes the brain to easily spill information out of short-term memory storage. In contrast, when summarizing the core of text and taking physical handwriting notes, the fine movements of fingers stimulate the reticular activating system (RAS) in the brainstem, powerfully activating the entire brain. Because the brain must filter and reconstruct information during this process, powerful retrieval cues are embedded, smoothly settling into long-term memory.",
+      "ja": "目だけでテキストを読む単純な受容的態度は、脳が情報を短期記憶保管場所から簡単に漏れ出させてしまいます。一方、テキストの中核を要約して直接物理的な手書きで筆記する時、指の繊細な動きは脳幹の網様体賦活系（RAS）を刺激し、脳全体を強力に活性化します。この過程で脳は情報をろ過し再構成しなければならないため、記憶に強力な引き出しの手がかりが植え付けられ、長期記憶へと安定して定着します。",
+      "zh": "仅用眼睛阅读文本的被动接受态度会导致大脑轻易从短期记忆库中遗漏信息。相反，当归纳文本核心并亲自以物理手写进行记录时，手指的精细动作会刺激脑干的网状激活系统（RAS），强力激活整个大脑。在这个过程中，大脑必须过滤并重构信息，从而在记忆中植入强有力的提取线索，稳固地沉淀为长期记忆。",
+      "es": "Una postura receptiva pasiva de leer texto solo con los ojos hace que el cerebro vierta fácilmente la información fuera del almacenamiento de memoria a corto plazo. En cambio, al resumir el núcleo del texto y tomar notas manuscritas físicas, los movimientos finos de los dedos estimulan el sistema de activación reticular (SAR) en el tronco encefálico, activando con fuerza todo el cerebro. Debido a que el cerebro debe filtrar y reconstruir la información durante este proceso, se incrustan poderosas pistas de recuperación que se asientan de manera estable en la memoria a largo plazo.",
+      "de": "Eine passiv-rezeptive Haltung des bloßen Lesens mit den Augen führt dazu, dass das Gehirn Informationen leicht aus dem Kurzzeitgedächtnis verliert. Wenn man dagegen den Kern des Textes zusammenfasst und physisch handschriftlich notiert, stimulieren die feinen Fingerbewegungen das retikuläre Aktivierungssystem (RAS) im Hirnstamm und aktivieren das gesamte Gehirn kraftvoll. Da das Gehirn während dieses Prozesses Informationen filtern und rekonstruieren muss, werden starke Abrufhinweise eingebettet, die sich stabil im Langzeitgedächtnis verankern.",
+      "fr": "Une attitude réceptive passive consistant à lire du texte uniquement avec les yeux fait que le cerveau laisse facilement échapper les informations du stockage de la mémoire à court terme. En revanche, lorsque l'on résume le cœur du texte et que l'on prend des notes manuscrites physiques, les mouvements fins des doigts stimulent le système réticulaire activateur (SRA) du tronc cérébral, activant puissamment l'ensemble du cerveau. Comme le cerveau doit filtrer et reconstruire les informations pendant ce processus, de puissants indices de récupération sont ancrés, s'installant de manière stable dans la mémoire à long terme.",
+      "pt": "Uma postura receptiva passiva de apenas ler o texto com os olhos faz com que o cérebro derrame facilmente informações fora do armazenamento da memória de curto prazo. Por outro lado, ao resumir o núcleo do texto e fazer anotações manuscritas físicas, os movimentos finos dos dedos estimulam o sistema de ativação reticular (SAR) no tronco cerebral, ativando fortemente todo o cérebro. Como o cérebro precisa filtrar e reconstruir as informações durante esse processo, poderosas pistas de recuperação são incorporadas, estabelecendo-se de forma estável na memória de longo prazo.",
+      "id": "Sikap receptif pasif yang hanya membaca teks dengan mata menyebabkan otak dengan mudah menumpahkan informasi keluar dari penyimpanan memori jangka pendek. Sebaliknya, saat merangkum inti teks dan mencatatnya dengan tulisan tangan fisik, gerakan halus jari memicu sistem aktivasi retikuler (RAS) di batang otak, secara kuat mengaktifkan seluruh otak. Karena otak harus menyaring dan merekonstruksi informasi selama proses ini, petunjuk pengambilan ingatan yang kuat akan tertanam, menetap dengan stabil ke dalam ingatan jangka panjang."
     },
     "cautionTitle": {
-      "ko": "영리한 발췌 필기를 위한 가이드"
+      "ko": "영리한 발췌 필기를 위한 가이드",
+      "en": "Guide for Smart Excerpt Note-Taking",
+      "ja": "賢い抜粋筆記のためのガイド",
+      "zh": "巧妙摘录笔记指南",
+      "es": "Guía para una inteligente toma de notas de extractos",
+      "de": "Leitfaden für kluges Exzerpieren und Notieren",
+      "fr": "Guide pour une prise de notes d'extraits intelligente",
+      "pt": "Guia para uma tomada de notas de excertos inteligente",
+      "id": "Panduan untuk Mencatat Kutipan secara Cerdas"
     },
     "cautionDesc": {
-      "ko": "책 전체 문단을 무작정 베껴 쓰는 전사(Transcription) 행위는 지양해야 합니다. 이는 뇌를 거치지 않는 단순 노동에 가까워 인지 피로만 유발합니다. 영감을 주는 문구 혹은 핵심 키워드만을 선택적으로 추출하여 손으로 쓰세요. 또한, 발췌한 지식을 나중에 다시 추적할 수 있도록 책의 출처와 페이지 번호를 반드시 괄호 안에 병기하는 습관을 들이는 것이 좋습니다."
+      "ko": "책 전체 문단을 무작정 베껴 쓰는 전사(Transcription) 행위는 지양해야 합니다. 이는 뇌를 거치지 않는 단순 노동에 가까워 인지 피로만 유발합니다. 영감을 주는 문구 혹은 핵심 키워드만을 선택적으로 추출하여 손으로 쓰세요. 또한, 발췌한 지식을 나중에 다시 추적할 수 있도록 책의 출처와 페이지 번호를 반드시 괄호 안에 병기하는 습관을 들이는 것이 좋습니다.",
+      "en": "Mindlessly copying entire paragraphs from a book (transcription) should be avoided. This is close to simple labor that bypasses the brain, causing only cognitive fatigue. Selectively extract and handwrite only inspiring sentences or key keywords. Additionally, build a habit of always writing the book source and page number in parentheses so you can trace excerpted knowledge later.",
+      "ja": "本全体の文章をひたすら書き写す転写（Transcription）行為は避けるべきです。これは脳を経由しない単純労働に近く、認知的な疲労だけを誘発します。インスピレーションを与えるフレーズや中核キーワードだけを選択的に抽出して手で書いてください。また、抜粋した知識を後で追跡できるよう、本の出所とページ番号を必ず括弧内に併記する習慣をつけることが望ましいです。",
+      "zh": "应避免盲目照抄一整段文字的抄录（Transcription）行为。这接近于不经过大脑的简单体力劳动，只会引发认知疲劳。请选择性地提取赋予灵感的语句或核心关键词并动手书写。此外，养成在括号内标注图书出处和页码的习惯，以便日后能重新追溯摘录的知识。",
+      "es": "Debe evitar la copia ciega de párrafos enteros de un libro (transcripción). Esto es cercano a un trabajo simple que ignora el cerebro, causando solo fatiga cognitiva. Extraiga y escriba a mano selectivamente solo frases inspiradoras o palabras clave centrales. Además, desarrolle el hábito de escribir siempre la fuente del libro y el número de página entre paréntesis para poder rastrear el conocimiento extractado más tarde.",
+      "de": "Das unüberlegte Abschreiben ganzer Absätze aus einem Buch (Transkription) sollte vermieden werden. Dies grenzt an einfache Arbeit, die das Gehirn umgeht und nur kognitive Ermüdung verursacht. Extrahieren und schreiben Sie nur inspirierende Sätze oder zentrale Schlüsselwörter selektiv handschriftlich auf. Machen Sie es sich außerdem zur Gewohnheit, die Buchquelle und Seitenzahl immer in Klammern anzugeben, damit Sie das exzerpierte Wissen später nachverfolgen können.",
+      "fr": "La copie aveugle de paragraphes entiers d'un livre (transcription) doit être évitée. Cela se rapproche d'un travail simple qui contourne le cerveau, ne provoquant que de la fatigue cognitive. Extrayez et écrivez à la main uniquement des phrases inspirantes ou des mots-clés essentiels. De plus, prenez l'habitude de toujours inscrire la source du livre et le numéro de page entre parenthèses afin de pouvoir retrouver les connaissances extraites ultérieurement.",
+      "pt": "Deve-se evitar a cópia cega de parágrafos inteiros de um livro (transcrição). Isso se aproxima de um trabalho simples que ignora o cérebro, causando apenas fadiga cognitiva. Extraia e escreva à mão seletivamente apenas frases inspiradoras ou palavras-chave fundamentais. Além disso, crie o hábito de sempre escrever a fonte do livro e o número da página entre parênteses para poder rastrear o conhecimento extraído mais tarde.",
+      "id": "Hindari tindakan menyalin secara mentah seluruh paragraf dari buku (transkripsi). Ini mendekati kerja fisik sederhana yang mengabaikan otak, hanya menyebabkan kelelahan kognitif. Petik dan tulis tangan secara selektif hanya kalimat yang memberi inspirasi atau kata kunci utama. Selain itu, biasakan untuk selalu mencantumkan sumber buku dan nomor halaman dalam kurung agar pengetahuan yang dikutip dapat dilacak kembali nantinya."
     },
     "steps": [
       {
         "name": {
-          "ko": "1단계: 필기할 핵심 지식 선별하기"
+          "ko": "1단계: 필기할 핵심 지식 선별하기",
+          "en": "Step 1: Select Core Knowledge to Note Down",
+          "ja": "ステップ1：筆記する核心知識の選別",
+          "zh": "步骤1：筛选要记录的核心知识",
+          "es": "Paso 1: Seleccionar el conocimiento clave para anotar",
+          "de": "Schritt 1: Kernwissen zum Notieren auswählen",
+          "fr": "Étape 1 : Sélectionner les connaissances clés à noter",
+          "pt": "Passo 1: Selecionar o conhecimento essencial para anotar",
+          "id": "Langkah 1: Pilih Pengetahuan Inti untuk Dicatat"
         },
         "text": {
-          "ko": "책을 읽거나 지식을 흡수하는 동안, 전체 텍스트에서 가장 영감을 주거나 본인의 생각과 연결되는 상위 10%의 핵심 문장 또는 수치를 식별해 냅니다. 모든 정보를 다 메모하려는 욕심을 버려야 합니다."
+          "ko": "책을 읽거나 지식을 흡수하는 동안, 전체 텍스트에서 가장 영감을 주거나 본인의 생각과 연결되는 상위 10%의 핵심 문장 또는 수치를 식별해 냅니다. 모든 정보를 다 메모하려는 욕심을 버려야 합니다.",
+          "en": "While reading a book or absorbing knowledge, identify the top 10% core sentences or figures from the entire text that inspire you most or connect with your thoughts. Let go of the greed to note down all information.",
+          "ja": "本を読んだり知識を吸収している間、テキスト全体から最もインスピレーションを与えたり自身の考えとつながる上位10%の中核となる文章や数値を識別します。すべての情報をメモしようとする欲を捨てなければなりません。",
+          "zh": "在读书或吸收知识时，从整篇文本中甄别出最赋予灵感或与自身想法相连的前10%核心语句或数值。放弃记录所有信息的贪念。",
+          "es": "Mientras lee un libro o absorbe conocimiento, identifique el 10% superior de frases clave o cifras de todo el texto que más le inspiren o se conecten con sus pensamientos. Abandone la codicia de tomar nota de toda la información.",
+          "de": "Identifizieren Sie beim Lesen eines Buches oder Aufnehmen von Wissen die besten 10 % der Kernsätze oder Zahlen aus dem gesamten Text, die Sie am meisten inspirieren oder sich mit Ihren Gedanken verbinden. Lassen Sie die Gier los, alle Informationen zu notieren.",
+          "fr": "Tout en lisant un livre ou en absorbant des connaissances, identifiez les 10 % supérieurs de phrases clés ou de chiffres de l'ensemble du texte qui vous inspirent le plus ou se connectent à vos pensées. Renoncez à l'envie de tout noter.",
+          "pt": "Enquanto lê um livro ou absorve conhecimento, identifique os 10% superiores de frases essenciais ou números de todo o texto que mais o inspiram ou se conectam com seus pensamentos. Abandone a ganância de anotar todas as informações.",
+          "id": "Saat membaca buku atau menyerap pengetahuan, identifikasikan 10% kalimat inti atau angka teratas dari seluruh teks yang paling memberi inspirasi atau terhubung dengan pikiran Anda. Buang keinginan untuk mencatat semua informasi."
         }
       },
       {
         "name": {
-          "ko": "2단계: 아날로그 펜으로 수필기하기"
+          "ko": "2단계: 아날로그 펜으로 수필기하기",
+          "en": "Step 2: Handwriting with an Analog Pen",
+          "ja": "ステップ2：アナログペンでの手書き筆記",
+          "zh": "步骤2：使用传统笔进行手写记录",
+          "es": "Paso 2: Escritura a mano con un bolígrafo analógico",
+          "de": "Schritt 2: Handschrift mit einem analogen Stift",
+          "fr": "Étape 2 : Écriture manuscrite avec un stylo analogique",
+          "pt": "Passo 2: Escrita à mão com uma caneta analógica",
+          "id": "Langkah 2: Menulis Tangan dengan Pena Analog"
         },
         "text": {
-          "ko": "아날로그 필기구와 노트를 준비하고, 선별된 문장을 자신의 손글씨로 직접 써 내려갑니다. 손가락 끝의 감각과 잉크가 종이에 스며드는 저항을 느끼며 해당 내용의 의미를 머릿속으로 조용히 반추합니다."
+          "ko": "아날로그 필기구와 노트를 준비하고, 선별된 문장을 자신의 손글씨로 직접 써 내려갑니다. 손가락 끝의 감각과 잉크가 종이에 스며드는 저항을 느끼며 해당 내용의 의미를 머릿속으로 조용히 반추합니다.",
+          "en": "Prepare analog writing instruments and a notebook, writing down selected sentences in your own handwriting. Feel the tactile sensation at your fingertips and the resistance of ink seeping into paper while quietly reflecting on the meaning in your head.",
+          "ja": "アナログの筆記具とノートを用意し、選別された文章を自分の手書きで直接書き下ろします。指先の感覚とインクが紙に染み込む抵抗を感じながら、該当内容の意味を頭の中で静かに反芻します。",
+          "zh": "准备好传统书写工具和笔记本，亲手写下筛选出的句子。感受指尖的触感和墨水渗入纸张的阻力，同时在脑海中静静反思其内容含义。",
+          "es": "Prepare instrumentos de escritura analógicos y un cuaderno, escribiendo las frases seleccionadas con su propia letra. Sienta la sensación táctil en la punta de sus dedos y la resistencia de la tinta al impregnar el papel mientras reflexiona silenciosamente sobre el significado en su cabeza.",
+          "de": "Bereiten Sie analoge Schreibgeräte und ein Notizbuch vor und schreiben Sie ausgewählte Sätze in Ihrer eigenen Handschrift auf. Spüren Sie das Gefühl an den Fingerspitzen und den Widerstand der Tinte, die ins Papier einzieht, während Sie im Kopf ruhig über die Bedeutung nachdenken.",
+          "fr": "Préparez des instruments d'écriture analogiques et un carnet, en écrivant les phrases sélectionnées de votre propre main. Ressentez la sensation tactile au bout de vos doigts et la résistance de l'encre s'imprégnant dans le papier tout en réfléchissant silencieusement au sens dans votre tête.",
+          "pt": "Prepare instrumentos de escrita analógicos e um caderno, escrevendo as frases selecionadas com sua própria letra. Sinta a sensação tátil na ponta dos dedos e a resistência da tinta ao impregnar o papel enquanto reflete silenciosamente sobre o significado em sua mente.",
+          "id": "Siapkan alat tulis analog dan buku catatan, lalu tuliskan kalimat-kalimat terpilih dengan tulisan tangan Anda sendiri. Rasakan sensasi taktil di ujung jari dan resistensi tinta yang meresap ke dalam kertas sambil merenungkan maknanya di dalam kepala Anda secara tenang."
         }
       },
       {
         "name": {
-          "ko": "3단계: 출처 및 태그 표기하기"
+          "ko": "3단계: 출처 및 태그 표기하기",
+          "en": "Step 3: Mark Source and Tags",
+          "ja": "ステップ3：出所およびタグの表記",
+          "zh": "步骤3：标注出处与标签",
+          "es": "Paso 3: Marcar la fuente y las etiquetas",
+          "de": "Schritt 3: Quelle und Tags angeben",
+          "fr": "Étape 3 : Marquer la source et les étiquettes",
+          "pt": "Passo 3: Marcar a fonte e as tags",
+          "id": "Langkah 3: Cantumkan Sumber dan Tag"
         },
         "text": {
-          "ko": "필기한 문장 맨 뒤나 아랫줄에 도서명, 저자, 그리고 해당 페이지 번호를 괄호 안에 명확히 기록합니다. 나중에 필요한 순간 지식의 원천을 신속하게 찾아 검증할 수 있는 이정표를 심는 작업입니다."
+          "ko": "필기한 문장 맨 뒤나 아랫줄에 도서명, 저자, 그리고 해당 페이지 번호를 괄호 안에 명확히 기록합니다. 나중에 필요한 순간 지식의 원천을 신속하게 찾아 검증할 수 있는 이정표를 심는 작업입니다.",
+          "en": "Clearly record the book title, author, and page number in parentheses at the end or line below the written sentence. This plants a milestone that allows quick retrieval and verification of knowledge sources whenever needed later.",
+          "ja": "筆記した文章の最後や下の行に書名、著者、그리고 該当ページ番号を括弧内に明確に記録します。後で必要な瞬間に知識の源泉を迅速に探し出し検証できる道標を植え付ける作業です。",
+          "zh": "在记录语句的结尾或下一行，将书名、作者以及对应页码清晰地标注于括号内。这是植入路标的工作，以便日后在需要时快速查找并验证知识源头。",
+          "es": "Registre claramente el título del libro, autor y número de página entre paréntesis al final o en la línea inferior de la frase escrita. Esto establece un hito que permite la rápida recuperación y verificación de las fuentes de conocimiento cuando sea necesario más adelante.",
+          "de": "Notieren Sie am Ende oder in der Zeile unter dem geschriebenen Satz klar den Buchtitel, Autor und die Seitenzahl in Klammern. Dies setzt einen Meilenstein, der bei späterem Bedarf das schnelle Auffinden und Überprüfen von Wissensquellen ermöglicht.",
+          "fr": "Inscrivez clairement le titre du livre, l'auteur et le numéro de page entre parenthèses à la fin ou à la ligne sous la phrase écrite. Cela pose un jalon permettant de retrouver et de vérifier rapidement les sources de connaissances au besoin ultérieurement.",
+          "pt": "Registre claramente o título do livro, autor e número da página entre parênteses no final ou na linha abaixo da frase escrita. Isso estabelece um marco que permite a rápida recuperação e verificação de fontes de conhecimento quando necessário mais tarde.",
+          "id": "Catat dengan jelas judul buku, penulis, dan nomor halaman dalam kurung di akhir atau di baris bawah kalimat yang ditulis. Ini menanamkan tonggak sejarah yang memungkinkan penemuan dan verifikasi sumber pengetahuan secara cepat di kemudian hari saat dibutuhkan."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "태블릿에 펜으로 필기하거나 키보드로 타이핑하는 것도 효과가 동일한가요?"
+          "ko": "태블릿에 펜으로 필기하거나 키보드로 타이핑하는 것도 효과가 동일한가요?",
+          "en": "Is writing with a stylus on a tablet or typing on a keyboard equally effective?",
+          "ja": "タブレットにペンで筆記したりキーボードでタイピングするのも効果は同じですか？",
+          "zh": "用电容笔在平板电脑上记录或键盘打字具有相同的效果吗？",
+          "es": "¿Escribir con un lápiz óptico en una tableta o teclear en un teclado es igualmente efectivo?",
+          "de": "Ist das Schreiben mit einem Stift auf einem Tablet oder das Tippen auf einer Tastatur ebenso effektiv?",
+          "fr": "L'écriture avec un stylet sur une tablette ou la saisie au clavier est-elle tout aussi efficace ?",
+          "pt": "Escrever com uma caneta stylus em um tablet ou digitar no teclado é igualmente eficaz?",
+          "id": "Apakah menulis dengan pena di tablet atau mengetik dengan papan ketik memiliki efektivitas yang sama?"
         },
         "answer": {
-          "ko": "태블릿에 전자펜으로 직접 쓰는 필기는 물리적 펜과 상당히 유사한 효과를 냅니다. 하지만 키보드로 타이핑하는 것은 인지적 가공을 거의 동반하지 않는 자동화된 입력 동작입니다. 손글씨의 느린 속도는 뇌에 정보를 강제로 요약·소화하게 함으로써 기억 보존율을 유의미하게 향상시킵니다."
+          "ko": "태블릿에 전자펜으로 직접 쓰는 필기는 물리적 펜과 상당히 유사한 효과를 냅니다. 하지만 키보드로 타이핑하는 것은 인지적 가공을 거의 동반하지 않는 자동화된 입력 동작입니다. 손글씨의 느린 속도는 뇌에 정보를 강제로 요약·소화하게 함으로써 기억 보존율을 유의미하게 향상시킵니다.",
+          "en": "Writing directly with a digital stylus on a tablet produces effects quite similar to a physical pen. However, typing on a keyboard is an automated input action accompanied by almost no cognitive processing. The slower speed of handwriting forces the brain to summarize and digest information, significantly improving memory retention rates.",
+          "ja": "タブレットに電子ペンで直接書く筆記は、物理的なペンとかなり類似した効果をもたらします。しかしキーボードでタイピングすることは、認知的な加工をほとんど伴わない自動化された入力動作です。手書きの遅い速度は脳に情報を強制的に要約・消化させることで、記憶の保持率を有意に向上させます。",
+          "zh": "在平板电脑上用手写笔直接记录的效果与物理笔相当类似。然而，用键盘打字是一种几乎不伴随认知加工的自动化输入动作。手写的较慢速度迫使大脑对信息进行归纳和消化，从而显著提升记忆保持率。",
+          "es": "Escribir directamente con un lápiz digital en una tableta produce efectos muy similares a los de un bolígrafo físico. Sin embargo, teclear en un teclado es una acción de entrada automatizada acompañada de casi ningún procesamiento cognitivo. La velocidad más lenta de la escritura a mano obliga al cerebro a resumir y digerir información, mejorando significativamente las tasas de retención de memoria.",
+          "de": "Das direkte Schreiben mit einem digitalen Stift auf einem Tablet erzeugt Effekte, die einem physischen Stift sehr ähnlich sind. Das Tippen auf einer Tastatur ist jedoch eine automatisierte Eingabehandlung, die fast keine kognitive Verarbeitung begleitet. Die langsamere Geschwindigkeit der Handschrift zwingt das Gehirn, Informationen zusammenzufassen und zu verdauen, was die Gedächtnisbehaltensrate signifikant verbessert.",
+          "fr": "Écrire directement avec un stylet numérique sur une tablette produit des effets très similaires à ceux d'un stylo physique. Cependant, la saisie au clavier est une action d'entrée automatisée qui ne s'accompagne de presque aucun traitement cognitif. La vitesse plus lente de l'écriture manuscrite force le cerveau à résumer et digérer l'information, améliorant considérablement les taux de rétention mémorielle.",
+          "pt": "Escrever diretamente com uma caneta digital em um tablet produz efeitos muito semelhantes aos de uma caneta física. No entanto, digitar no teclado é uma ação de entrada automatizada acompanhada de quase nenhum processamento cognitivo. A velocidade mais lenta da escrita à mão força o cérebro a resumir e digerir as informações, melhorando significativamente as taxas de retenção de memória.",
+          "id": "Menulis secara langsung dengan pena digital di tablet memberikan efek yang sangat mirip dengan pena fisik. Namun, mengetik dengan papan ketik adalah tindakan masukan otomatis yang hampir tidak disertai pemrosesan kognitif. Kecepatan tulisan tangan yang lebih lambat memaksa otak untuk merangkum dan mencerna informasi, secara signifikan meningkatkan tingkat retensi ingatan."
         }
       },
       {
         "question": {
-          "ko": "발췌한 메모들이 너무 많아져 유실되지 않게 정리하는 방법이 있나요?"
+          "ko": "발췌한 메모들이 너무 많아져 유실되지 않게 정리하는 방법이 있나요?",
+          "en": "Is there a way to organize excerpted notes so they don't get lost as they accumulate?",
+          "ja": "抜粋したメモが多くなりすぎて紛失しないように整理する方法はありますか？",
+          "zh": "有什么方法可以整理大量的摘录笔记，使其不致于遗失吗？",
+          "es": "¿Hay alguna manera de organizar las notas extractadas para que no se pierdan a medida que se acumulan?",
+          "de": "Gibt es eine Möglichkeit, exzerpierte Notizen so zu organisieren, dass sie bei zunehmender Menge nicht verloren gehen?",
+          "fr": "Existe-t-il un moyen d'organiser les notes d'extraits pour qu'elles ne se perdent pas à mesure qu'elles s'accumulent ?",
+          "pt": "Existe uma maneira de organizar as anotações de excertos para que não se percam à medida que se acumulam?",
+          "id": "Apakah ada cara untuk mengatur catatan kutipan agar tidak hilang saat jumlahnya bertambah banyak?"
         },
         "answer": {
-          "ko": "존 로크의 상식록(Commonplace Book) 방식을 추천합니다. 노트의 맨 앞이나 맨 뒷부분에 인덱스 페이지를 만들어, 지식 카테고리나 알파벳별로 필기한 페이지 번호를 적어 두세요. 혹은 한 달에 한 번 수기 노트를 스캔하여 디지털 태그를 붙여 분류해 두는 것도 좋은 절충안입니다."
+          "ko": "존 로크의 상식록(Commonplace Book) 방식을 추천합니다. 노트의 맨 앞이나 맨 뒷부분에 인덱스 페이지를 만들어, 지식 카테고리나 알파벳별로 필기한 페이지 번호를 적어 두세요. 혹은 한 달에 한 번 수기 노트를 스캔하여 디지털 태그를 붙여 분류해 두는 것도 좋은 절충안입니다.",
+          "en": "We recommend John Locke's Commonplace Book method. Create an index page at the very front or back of your notebook and write down the written page numbers by knowledge categories or alphabet. Alternatively, scanning handwritten notebooks once a month and categorizing them with digital tags is also a good compromise.",
+          "ja": "ジョン・ロックのコモンプレイス・ブック（Commonplace Book）方式を推奨します。ノートの一番前や一番後ろの部分にインデックスページを作り、知識のカテゴリーやアルファベット別に筆記したページ番号を書き留めておきましょう。あるいは月に1度手書きノートをスキャンし、デジタルタグを付けて分類しておくことも良い折衷案です。",
+          "zh": "推荐使用约翰·洛克的常用文集（Commonplace Book）方法。在笔记本的最首页或末页制作索引页，按知识类别或字母表写下记录的页码。或者每月扫描一次手写笔记本，附加数字标签进行归类也是很好的折衷方案。",
+          "es": "Recomendamos el método del Libro de Apuntes Comunes (Commonplace Book) de John Locke. Cree una página de índice en la parte delantera o trasera de su cuaderno y anote los números de página escritos por categorías de conocimiento o alfabéticamente. Alternativamente, escanear los cuadernos manuscritos una vez al mes y categorizarlos con etiquetas digitales es un buen término medio.",
+          "de": "Wir empfehlen John Lockes Methode des Sudelbuchs (Commonplace Book). Erstellen Sie ganz vorne oder hinten im Notizbuch eine Indexseite und notieren Sie die beschriebenen Seitenzahlen nach Wissenskategorien oder alphabetisch. Alternativ ist das einmal monatliche Scannen von handschriftlichen Notizbüchern und das Kategorisieren mit digitalen Tags ein guter Kompromiss.",
+          "fr": "Nous recommandons la méthode du 'Commonplace Book' de John Locke. Créez une page d'index tout au début ou à la fin de votre carnet et inscrivez les numéros de page rédigés par catégories de connaissances ou par ordre alphabétique. Alternativement, scanner les carnets manuscrits une fois par mois et les catégoriser avec des étiquettes numériques est aussi un bon compromis.",
+          "pt": "Recomendamos o método do Livro de Anotações Comuns (Commonplace Book) de John Locke. Crie uma página de índice na frente ou no final do seu caderno e anote os números das páginas escritas por categorias de conhecimento ou ordem alfabética. Alternativamente, digitalizar cadernos manuscritos uma vez por mês e categorizá-los com tags digitais é um bom meio-termo.",
+          "id": "Kami menyarankan metode Buku Catatan Umum (Commonplace Book) dari John Locke. Buat halaman indeks di bagian paling depan atau belakang buku catatan Anda dan catat nomor halaman berdasarkan kategori pengetahuan atau abjad. Alternatifnya, memindai buku catatan tulisan tangan sebulan sekali dan mengategorikannya dengan tag digital juga merupakan kompromi yang baik."
         }
       }
     ]

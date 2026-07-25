@@ -1,6 +1,6 @@
 ---
-title: "DNA 구조 비밀을 밝힌 여성 과학자? 로잘린드 프랭클린의 0.1도 정밀 검수 루틴"
-description: "DNA 이중나선 사진 'Photo 51'을 완성한 로잘린드 프랭클린의 타협 없는 0.1도 미세 오차 검수 습관과 현대인을 위한 정밀성 강화 가이드."
+title: "揭开DNA结构奥秘的女科学家？罗扎琳德·富兰克林的0.1度精密复核习惯"
+description: "探讨拍摄出DNA双螺旋关键“51号照片（Photo 51）”的罗扎琳德·富兰克林绝不妥协的0.1度微小误差复核习惯，以及面向现代人的精度提升指南。"
 pubDate: "2026-02-24"
 updatedDate: "2026-02-24"
 category: "BuildSelf"
@@ -8,27 +8,27 @@ tags: ["위인 습관", "루틴", "생산성", "몰입"]
 heroImage: "/images/blog/rosalind_franklin_diffraction_focus.webp"
 app: "buildself"
 formatVersion: 4
-authority: "로잘린드 프랭클린 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "罗扎琳德·富兰克林历史传记与自传考证及认知神经科学研究"
 steps:
-  - name: "10분 정밀 검수 골든 타임 확보"
-    text: "보고서 제출, 코드 배포, 기획안 완결 직전 10분을 오직 오류 검수만을 위한 전용 시간으로 확보합니다."
-  - name: "지표 및 수치 1:1 오프라인 대조"
-    text: "화면의 수치나 텍스트를 손가락이나 펜 끝으로 짚어가며 원본 출처 데이터와 1:1로 정밀 확인합니다."
-  - name: "검수 완료 사인 및 품질 확정"
-    text: "검수를 마친 후 노트에 '오차 검수 완료' 표시나 서명을 남기고 완벽한 품질로 최종 작업을 마무리합니다."
+  - name: "锁定10分钟精准复核黄金时间"
+    text: "在提交报告、部署代码或完结方案前的最后10分钟，专门锁定为无干扰的错误复核时间。"
+  - name: "对指标与数据进行1:1实体逐字比对"
+    text: "用手指或笔尖逐一指着屏幕上的数值或文字，与原始数据源进行1:1精细核对。"
+  - name: "签署复核完毕标记并确认品质"
+    text: "完成复核后，在笔记上标注“误差复核完毕”或进行签名，以绝对无误的品质收尾工作。"
 faqs:
-  - question: "매번 꼼꼼히 검수하는 데 시간이 너무 많이 걸리지 않나요?"
-    answer: "나중에 오타나 숫자가 틀려 수정하고 사과하고 재작업하는 데 드는 시간이 10배 더 큽니다. 사전 10분 검수가 결국 가장 빠른 길입니다."
-  - question: "텍스트나 일반 직무에서도 정량 대조를 쓸 수 있나요?"
-    answer: "네! 날짜, 맞춤법, 첨부파일 링크, 고객명 등 오류가 나기 쉬운 핵심 요소 3가지를 정량적 체크리스트로 만들어 동일하게 적용할 수 있습니다."
+  - question: "每次都仔细复核会不会太浪费时间？"
+    answer: "事后修改错别字、致歉及重新工作的消耗时间要高出10倍。事前投入10分钟复核，归根结底是最快的捷径。"
+  - question: "文本处理或日常文职工作中也能应用定量比对吗？"
+    answer: "是的！可以针对日期、拼写、附件链接、客户名称等最易出错的3项核心要素建立定量清单，采用完全相同的复核方法。"
 
 ---
 
-20세기 생명과학 역사상 가장 위대한 발견으로 손꼽히는 DNA 이중선구조 해독의 결정적 열쇠인 '51번 사진(Photo 51)'을 촬영하고 탄소 및 바이러스 결정학의 새 지평을 연 영국의 여성 물리화학자, 로잘린드 프랭클린(Rosalind Franklin). 수많은 편견과 척박한 연구 환경 속에서도 그녀가 도출해낸 실험 데이터들은 단 0.01%의 오차도 허용하지 않는 완벽함 그 자체였습니다. 🧬
+罗扎琳德·富兰克林（Rosalind Franklin，1920–1958）是一位杰出的英国物理化学家，她拍摄的“51号照片（Photo 51）”是解开DNA双螺旋结构的决定性钥匙，被誉为20世纪生命科学史上最伟大的发现之一。在重重偏见与艰苦的研究环境中，她得出的实验数据展现出了不允许存在0.01%误差的完美品质。 🧬
 
-킹스 컬리지 런던의 어두운 지하 실험실에서 로잘린드 프랭클린은 X선 회절 카메라의 각도를 0.1도 단위로 정밀 조율하며 수백 시간 동안 묵묵히 엑스선 사진을 촬영했습니다. 그녀는 현상된 필름 수치와 실제 기하학적 계산을 마이크로 단위로 직접 손으로 짚어가며 꼼꼼히 1:1 대조하고 검수했습니다. 감정이나 섣부른 추측에 의존하지 않고, 오직 엄밀한 데이터 검증만을 신뢰했던 그녀의 정량 검수 습관이 인류의 생명 비밀을 풀어내는 금빛 입자를 발견하게 만들었습니다.
+在伦敦国王学院昏暗的地下实验室里，富兰克林以0.1度为单位精细调整X射线衍射摄像机的角度，静默拍摄了数百小时的X射线照片。她用手指点着胶片上的微米级测量数值，与实际几何计算进行严谨的1:1比对复核。她不依赖主观情绪或轻率推测，唯独信仰严谨的数据验证，正是这种定量复核习惯，促成了破解生命奥秘的金子般发现。
 
-오늘 포스트에서는 로잘린드 프랭클린이 실천했던 0.1도 정밀 검수 및 데이터 대조 루틴에 담긴 두정엽 공간 인지 회로 강화와 업무 품질 100% 보장 가이드를 소개합니다.
+本文将探讨富兰克林0.1度精密复核及数据比对习惯如何强化顶叶空间认知回路，并提供确保100%工作质量的实操指南。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -37,52 +37,52 @@ faqs:
       历史 and 学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 rosalind-franklin-diffraction-focus 的内容基于 <strong>로잘린드 프랭클린 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> 撰写。
+      关于 rosalind-franklin-diffraction-focus 的内容基于 <strong>罗扎琳德·富兰克林历史传记与自传考证及认知神经科学研究</strong> 撰写。
     </p>
   </div>
 </div>
 
 ---
 
-## 두정엽 공간 수치 대조를 통한 인지 오류 차단과 품질 극대화
+## 通过顶叶空间数字比对拦截认知错误与品质极大化
 
-뇌는 익숙한 작업을 할 때 '대략 맞겠지'라는 휴리스틱(Heuristics) 착각에 빠져 치명적 오탈자나 수치 오류를 지나치기 쉽습니다.
+大脑在处理熟悉的工作时，极易陷入“大概正确吧”的直觉偏见（Heuristics）错觉中，从而漏掉致命的错别字或数据错误。
 
-프랭클린처럼 실제 수치와 지표를 1:1로 손으로 직접 짚으며 검수하는 <strong>'정량 데이터 미세 대조'</strong>는 좌뇌 논리 회로와 두정엽 공간 인지를 동시 활성화합니다. 뇌의 섣부른 추측을 차단하고 완벽한 오차 제로 상태를 달성하게 만듭니다.
+像富兰克林那样用手指点着原始数据进行1:1比对复核的<strong>“定量数据微观比对”</strong>，能同时激活左脑逻辑回路与顶叶空间认知，拦截大脑的轻率推断，达成接近零误差的品质。
 
 ---
 
-## 마무리 단계에서 속도보다 확실성을 우선하세요
+## 收尾阶段请将确定性置于速度之上
 
-마지막 순간 서두르면 사소한 오탈자나 계산 실수가 전체 결과물의 신뢰도를 망칩니다. 검수 10분 동안만큼은 속도를 낮추고 꼼꼼함에 온전히 집중하세요. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.
+在最后关头匆忙行事，微小的错别字或计算失误就会毁掉整个成果的信誉度。在10分钟复核时间内请降低速度，全力专注细节。切勿单凭意志力，请提前设计好能自然触发精细检查的物理环境与习惯信号。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">10분 정밀 검수 골든 타임 확보</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">锁定10分钟精准复核黄金时间</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    보고서 제출, 코드 배포, 기획안 완결 직전 10분을 오직 오류 검수만을 위한 전용 시간으로 확보합니다.
+    在提交报告、部署代码或完结方案前的最后10分钟，专门锁定为无干扰的错误复核时间。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">지표 및 수치 1:1 오프라인 대조</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">对指标与数据进行1:1实体逐字比对</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    화면의 수치나 텍스트를 손가락이나 펜 끝으로 짚어가며 원본 출처 데이터와 1:1로 정밀 확인합니다.
+    用手指或笔尖逐一指着屏幕上的数值或文字，与原始数据源进行1:1精细核对。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">검수 완료 사인 및 품질 확정</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">签署复核完毕标记并确认品质</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    검수를 마친 후 노트에 '오차 검수 완료' 표시나 서명을 남기고 완벽한 품질로 최종 작업을 마무리합니다.
+    完成复核后，在笔记上标注“误差复核完毕”或进行签名，以绝对无误的品质收尾工作。
   </p>
 </div>
 
@@ -93,21 +93,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>매번 꼼꼼히 검수하는 데 시간이 너무 많이 걸리지 않나요?</span>
+      <span>每次都仔细复核会不会太浪费时间？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      나중에 오타나 숫자가 틀려 수정하고 사과하고 재작업하는 데 드는 시간이 10배 더 큽니다. 사전 10분 검수가 결국 가장 빠른 길입니다.
+      事后修改错别字、致歉及重新工作的消耗时间要高出10倍。事前投入10分钟复核，归根结底是最快的捷径。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>텍스트나 일반 직무에서도 정량 대조를 쓸 수 있나요?</span>
+      <span>文本处理或日常文职工作中也能应用定量比对吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      네! 날짜, 맞춤법, 첨부파일 링크, 고객명 등 오류가 나기 쉬운 핵심 요소 3가지를 정량적 체크리스트로 만들어 동일하게 적용할 수 있습니다.
+      是的！可以针对日期、拼写、附件链接、客户名称等最易出错的3项核心要素建立定量清单，采用完全相同的复核方法。
     </p>
   </details>
 </div>

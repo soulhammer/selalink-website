@@ -1,6 +1,6 @@
 ---
-title: "잠 가운을 입고 15마일을 걸은 학자: 애덤 스미스의 사색적 산책 습관"
-description: "아이디어를 머릿속으로 조립하기 위해 완전히 몰입한 채 장거리 산책을 즐겼던 애덤 스미스. 디지털 자극을 차단하고 걷는 행위가 디폴트 모드 네트워크를 활성화하여 창의성과 집중력을 극대화하는 신경과학적 원리를 해부합니다."
+title: "ナイトガウンを着て15マイルを歩いた学者：アダム・スミスの思索的散歩習慣"
+description: "アイデアを頭の中で組み立てるため、完全に没頭して長距離散歩を楽しんだアダム・スミス。デジタル刺激を遮断して歩く行為がデフォルト・モード・ネットワークを活性化し、創造性と集中力を最大化する神経科学的原理を解剖します。"
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
@@ -8,25 +8,25 @@ tags: ["생산성", "사색", "창의성"]
 heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Smith Contemplative Walking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "アダム・スミスの思索적散歩に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究"
 steps:
-  - name: "디지털 장비 격리 및 목적어 설정"
-    text: "스마트폰을 무음으로 설정하여 가방에 깊이 넣거나 집에 두고 나가며, 사색을 통해 풀고 싶은 단 하나의 핵심 주제나 질문을 명확히 설정합니다."
-  - name: "일정한 속도로 평지 걷기"
-    text: "주변 풍경을 억지로 관찰하려 애쓰지 말고, 발걸음 소리와 호흡의 리듬에 의식을 맡긴 채 평탄하고 한적한 길을 가볍게 걷습니다."
-  - name: "생각의 연결망 수집 및 즉각적 메모"
-    text: "걷는 도중 뇌리에서 복잡한 논리가 조립되어 문장이나 아이디어로 도출되면, 즉시 멈추고 수첩에 핵심 단어를 간략히 기록합니다."
+  - name: "デジタル機器の隔離および目的テーマの設定"
+    text: "スマホのマナーモードを設定してバッグの奥深くに入れるか自宅に置いて出かけ、思索を通じて解き明かしたい唯一のコアテーマや質問を明確に設定します。"
+  - name: "一定の速度で平地を歩く"
+    text: "周囲の風景を無理に観察しようとせず、足音と呼吸のリズムに意識を委ねながら、平坦で静かな道を軽やかに歩きます。"
+  - name: "思考のネットワーク収集および即座のメモ"
+    text: "歩く途中で脳裏に複雑な論理が組み立てられ、文章やアイデアとして導き出されたら、直ちに立ち止まって手帳にキーワードを簡潔にメモします。"
 faqs:
-  - question: "사색 산책의 적정 거리나 시간은 어느 정도인가요?"
-    answer: "스미스처럼 15마일을 걸을 필요는 없습니다. 뇌의 혈류 개선과 DMN 활성화를 위한 임상적 권장 시간은 최소 20분에서 최대 40분 정도입니다. 거리보다는 디지털 자극을 완전히 차단한 집중 상태를 유지하는 시간이 중요합니다."
-  - question: "실외로 나가기 어려울 때는 실내에서 트레드밀을 걸어도 되나요?"
-    answer: "가능합니다. 다만 실내에서 트레드밀을 탈 때는 스마트폰 화면이나 TV 모니터를 보며 걷지 않는 것이 중요합니다. 시선은 벽의 한 점이나 빈 곳을 향하고, 외부 시각 자극 유입을 원천 차단한 채 발걸음 감각에만 몰입해야 사색적 보행의 효과를 얻을 수 있습니다."
+  - question: "思索散歩の適切な距離や時間はどのくらいですか？"
+    answer: "スミスのやうに15マイル歩く必要はありません。脳の血流改善とDMN活性化のための推奨時間は最低20分から最大40分程度です。距離よりも、デジタル刺激を完全に遮断した集中状態を維持する時間が重要です。"
+  - question: "屋外へ出られない場合は室内でトレッドミルを歩いても大丈夫ですか？"
+    answer: "可能です。ただし室内でトレッドミルを歩く際は、スマホ画面やTVモニターを見ながら歩かないことが重要です。視線は壁の一点や空間に向け、外部からの視覚刺激の流入を絶ち、足元の感覚だけに没頭することで効果が得られます。"
 
 ---
 
-"학자의 사색은 조용한 산책길 위에서 가장 완전한 질서를 갖춘다." 🚶‍♂️
+「学者の思索は、静かな散歩道の上で最も完全な秩序を持つ。」🚶‍♂️
 
-현대 경제학의 이론적 기초를 정립하고 자유시장 경제의 보이지 않는 손을 규명한 사상가 애덤 스미스. 그의 깊은 통찰력 뒤에는 평생 유지해 온 독특한 습관이 있었습니다. 스미스는 복잡한 아이디어를 구조화할 때 정원이나 한적한 길을 하염없이 걷는 행동을 반복했습니다. 하루는 아침에 정원을 걷다가 생각에 극도로 몰입한 나머지, 자신이 잠 가운(Nightgown)을 입고 있다는 사실도 망각한 채 무려 15마일(약 24km)을 걸어 옆 마을까지 걸어갔습니다. 교회 종소리를 듣고서야 정신을 차린 그는 그제야 집으로 돌아왔습니다. 뇌를 자극하여 복잡한 인과관계를 조립하고 창의적 생각을 도출해낸 애덤 스미스의 사색적 산책 메커니즘을 상세히 해부합니다.
+現代経済学の理論的基礎を確立し、自由市場経済の「見えざる手」を解明した思想家アダム・スミス。彼の深い洞察力の裏には、生涯維持してきた独特な習慣がありました。スミスは複雑なアイデアを構造化する際、庭や静かな道をひたすら歩く行動を繰り返しました。ある日、朝庭を歩いているうちに考えに極度に没頭するあまり、自分がナイトガウン（Nightgown）を着ていることすら忘れて15マイル（約24km）も歩いて隣の町まで行ってしまいました。教会の鐘の音を聞いて初めて我に返り、ようやく家に帰ってきました。脳を刺激して複雑な因果関係を組み立て、創造的な考えを導き出したアダム・スミスの思索的散歩メカニズムを詳細に解剖します。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,50 +35,50 @@ faqs:
       歴史的・学術的根拠
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      「smith-contemplative-walking」は <strong>Smith Contemplative Walking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> に基づいて作成されました。
+      「smith-contemplative-walking」は <strong>アダム・スミスの思索적散歩に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究</strong> に基づいて作成されました。
     </p>
   </div>
 </div>
 
 ---
 
-## 디지털 차단 보행과 디폴트 모드 네트워크의 시너지
+## デジタル遮断歩行とデフォルト・モード・ネットワークのシナジー
 
-스마트폰이나 모니터 같은 디지털 화면을 보며 걸을 때는 시각 정보 처리를 위해 뇌의 자원이 급격히 소모됩니다. 반면 모든 디지털 장비를 차단하고 일정한 템포로 걸으면, 대뇌의 시각 피질 부하가 낮아지며 창의적 영감을 유도하는 '디폴트 모드 네트워크(DMN)'가 고도로 활성화됩니다. 스탠퍼드 대학교의 연구에 따르면 보행 시 창의적 아이디어 발상률이 앉아있을 때보다 평균 60% 향상됩니다. 걷는 동안 유도되는 심폐 순환 활성화는 전두엽에 신선한 산소를 공급하여 인지적 유연성과 개념 통합 속도를 현격히 높여줍니다.
+スマホやモニターなどのデジタル画面を見ながら歩くときは、視覚情報処理のために脳のリソースが急速に消費されます。一方、あらゆるデジタル機器を遮断して一定のテンポで歩くと、大脳の視覚野の負荷が下がり、創造的なひらめきを誘導する「デフォルト・モード・ネットワーク（DMN）」が高度に活性化します。スタンフォード大学の研究によると、歩行時の創造的アイデア発想率は座っている時より平均60%向上します。歩行中に誘導される心肺循環の活性化は前頭葉に新鮮な酸素を供給し、認知的柔軟性と概念統合のスピードを著しく高めます。
 
 ---
 
-## 주의사항 및 팁
+## 注意事項とヒント
 
-사색적 산책의 가장 큰 함정은 걸으면서 스마트폰을 확인하거나 음악, 팟캐스트를 듣는 것입니다. 외부 청각/시각 자극이 지속적으로 뇌에 주입되면 뇌는 디폴트 모드 네트워크(DMN)로 전환되지 못하고 다시 자극 처리 모드로 돌아갑니다. 따라서 사색 산책을 할 때는 이어폰을 반드시 빼고, 주변의 자연음 외에는 어떤 인공적인 자극도 허용하지 않아야 진정한 인지적 환기와 정리가 이루어집니다.
+思索的散歩の最大の落とし穴は、歩きながらスマホをチェックしたり音楽やポッドキャストを聞いたりすることです。外部の聴覚・視覚刺激が持続的に脳に注入されると、脳はデフォルト・モード・ネットワーク（DMN）に切り替わらず、再び刺激処理モードに戻ってしまいます。したがって思索散歩を行う際はイヤホンを外し、周囲の自然音以外にはいかなる人工的な刺激も許容しないことが真の認知的換気と整理をもたらします。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">디지털 장비 격리 및 목적어 설정</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">デジタル機器の隔離および目的テーマの設定</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스마트폰을 무음으로 설정하여 가방에 깊이 넣거나 집에 두고 나가며, 사색을 통해 풀고 싶은 단 하나의 핵심 주제나 질문을 명확히 설정합니다.
+    スマホのマナーモードを設定してバッグの奥深くに入れるか自宅に置いて出かけ、思索を通じて解き明かしたい唯一のコアテーマや質問を明確に設定します。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">일정한 속도로 평지 걷기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">一定の速度で平地を歩く</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    주변 풍경을 억지로 관찰하려 애쓰지 말고, 발걸음 소리와 호흡의 리듬에 의식을 맡긴 채 평탄하고 한적한 길을 가볍게 걷습니다.
+    周囲の風景を無理に観察しようとせず、足音と呼吸のリズムに意識を委ねながら、平坦で静かな道を軽やかに歩きます。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">ステップ 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">생각의 연결망 수집 및 즉각적 메모</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">思考のネットワーク収集および即座のメモ</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    걷는 도중 뇌리에서 복잡한 논리가 조립되어 문장이나 아이디어로 도출되면, 즉시 멈추고 수첩에 핵심 단어를 간략히 기록합니다.
+    歩く途中で脳裏に複雑な論理が組み立てられ、文章やアイデアとして導き出されたら、直ちに立ち止まって手帳にキーワードを簡潔にメモします。
   </p>
 </div>
 
@@ -89,21 +89,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>사색 산책의 적정 거리나 시간은 어느 정도인가요?</span>
+      <span>思索散歩の適切な距離や時間はどのくらいですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      스미스처럼 15마일을 걸을 필요는 없습니다. 뇌의 혈류 개선과 DMN 활성화를 위한 임상적 권장 시간은 최소 20분에서 최대 40분 정도입니다. 거리보다는 디지털 자극을 완전히 차단한 집중 상태를 유지하는 시간이 중요합니다.
+      スミスのやうに15マイル歩く必要はありません。脳の血流改善とDMN活性化のための推奨時間は最低20分から最大40分程度です。距離よりも、デジタル刺激を完全に遮断した集中状態を維持する時間が重要です。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>실외로 나가기 어려울 때는 실내에서 트레드밀을 걸어도 되나요?</span>
+      <span>屋外へ出られない場合は室内でトレッドミルを歩いても大丈夫ですか？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      가능합니다. 다만 실내에서 트레드밀을 탈 때는 스마트폰 화면이나 TV 모니터를 보며 걷지 않는 것이 중요합니다. 시선은 벽의 한 점이나 빈 곳을 향하고, 외부 시각 자극 유입을 원천 차단한 채 발걸음 감각에만 몰입해야 사색적 보행의 효과를 얻을 수 있습니다.
+      可能です。ただし室内でトレッドミルを歩く際は、スマホ画面やTVモニターを見ながら歩かないことが重要です。視線は壁の一点や空間に向け、外部からの視覚刺激の流入を絶ち、足元の感覚だけに没頭することで効果が得られます。
     </p>
   </details>
 </div>

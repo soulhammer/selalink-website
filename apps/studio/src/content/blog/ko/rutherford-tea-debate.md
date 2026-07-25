@@ -10,7 +10,7 @@ app: "buildself"
 formatVersion: 4
 authority: "어네스트 러더퍼드 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
-  - name: "오후 4시 15분 차 시간 고정 설정"
+  - name: "오후 4시 차 시간 고정 설정"
     text: "오후 4시 알람을 맞추고 따뜻한 차 한 잔을 가지러 이동하여 뇌의 휴식 신호를 켭니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
   - name: "격식 없는 수평적 브레인스토밍"
     text: "동료와 차를 마시며 '오늘 가장 뜻밖이었던 일'이나 재미있는 아이디어를 가볍게 주고받습니다."
@@ -24,7 +24,7 @@ faqs:
 
 ---
 
-원자핵의 존재를 최초로 밝혀내 노벨 화학상을 수상하고 '핵물리학의 아버지'라 불리는 현대 물리학의 거장, 어네스트 러더퍼드. 집단 창의성을 이끌어내어 수많은 위대한 대발견을 일궈낸 그의 연구소 분위기의 비결은 무엇이었을까요? ☕
+원자핵의 존재를 최초로 밝혀내 노벨 화학상을 수상하고 '핵물리학의 아버지'라 불리는 현대 물리학의 거장, 어네스트 러더퍼드(Ernest Rutherford, 1871–1937). 집단 창의성을 이끌어내어 수많은 위대한 대발견을 일궈낸 그의 연구소 분위기의 비결은 무엇이었을까요? ☕
 
 러더퍼드는 카벤디시 연구소 소장 시절 매일 오후 4시가 되면 연구원들과 함께 연구실 중앙에 모여 홍차와 비스킷을 나누며 비공식적인 티 타임을 가졌습니다. 이 자리에서는 직급이나 나이에 상관없이 누구나 자유롭게 논쟁하고 아이디어를 제안했습니다. 격식 없는 수평적 토론 루틴은 러더퍼드와 그의 팀이 원자핵을 발견하는 결정적 영감을 선사했습니다.
 
@@ -59,7 +59,7 @@ faqs:
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">STEP 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">오후 4시 15분 차 시간 고정 설정</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">오후 4시 차 시간 고정 설정</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
     오후 4시 알람을 맞추고 따뜻한 차 한 잔을 가지러 이동하여 뇌의 휴식 신호를 켭니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.

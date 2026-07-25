@@ -11,7 +11,7 @@ formatVersion: 4
 authority: "Pythagoras Evening Examination 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "안정적인 성찰 환경 및 자세 확보"
-    text: "조명을 낮춘 어두운 침실에 바른 자세로 눕거나 기 기대어 앉아, 눈을 감고 전신의 긴장을 완전히 해제합니다."
+    text: "조명을 낮춘 어두운 침실에 바른 자세로 눕거나 기대어 앉아, 눈을 감고 전신의 긴장을 완전히 해제합니다."
   - name: "하루의 타임라인을 객관적으로 되감기"
     text: "아침에 일어난 시점부터 밤에 눕기 전까지 있었던 주요 사건들을 머릿속으로 빠르게 훑어봅니다. 영화 필름을 보듯 감정을 배제합니다."
   - name: "피타고라스 3대 질문의 적용 및 정리"
@@ -58,7 +58,7 @@ faqs:
     <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">안정적인 성찰 환경 및 자세 확보</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    조명을 낮춘 어두운 침실에 바른 자세로 눕거나 기 기대어 앉아, 눈을 감고 전신의 긴장을 완전히 해제합니다.
+    조명을 낮춘 어두운 침실에 바른 자세로 눕거나 기대어 앉아, 눈을 감고 전신의 긴장을 완전히 해제합니다.
   </p>
 </div>
 

@@ -8,7 +8,7 @@ tags: ["위인 습관", "사색"]
 heroImage: "/images/blog/rousseau_botany_walk.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Rousseau Botany Walk 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "장자크 루소 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
 steps:
   - name: "메모 카드나 종이 조각을 주머니에 넣고 자연 속 들판 걷기"
     text: "트럼프 카드 크기의 빈 종이 여러 장과 펜을 주머니에 가볍게 지참합니다. 보도블록 대신 야생 잡풀과 무성한 들꽃을 관찰할 수 있는 들길이나 산책로를 걷습니다."
@@ -17,14 +17,16 @@ steps:
   - name: "자연스러운 이완 속에 떠오른 아이디어를 종이 카드에 적기"
     text: "뇌가 완전히 이완된 상태에서 불쑥 뇌리를 스치는 영감이나 해결책을 주머니에서 카드를 꺼내 즉석에서 날 것 그대로 적습니다. 미루지 않는 것이 핵심입니다."
 faqs:
-  - question: "Why did Rousseau write notes on the back of playing cards?"
-    answer: "He did not carry heavy notebooks while hiking. The stiff, small playing cards were perfect to write on while standing or walking, and easily fit inside his coat pockets."
+  - question: "루소는 왜 하필 트럼프 카드 뒷면에 메모를 적었나요?"
+    answer: "산책할 때 무거운 노트나 장부를 소지하기 불편했기 때문입니다. 딱딱하고 작아 들고 쓰기 편한 트럼프 카드는 서서나 걸으면서 손쉽게 수기 기록을 남기기에 최적의 휴대용 아날로그 도구였습니다."
+  - question: "도시 공원에서도 식물 채집 산책 효과를 얻을 수 있나요?"
+    answer: "네, 가능합니다. 식물을 직접 채집하지 않더라도, 주변의 화단이나 정원에서 나뭇잎, 이끼, 작은 야생초들의 모양을 유심히 유기적으로 바라보는 행위만으로도 뇌의 주의력 회복망을 훌륭하게 자극할 수 있습니다."
 
 ---
 
 "나는 오직 걸을 때만 명상할 수 있다. 걸음을 멈추면 내 생각도 멈추고, 내 머리는 나의 발과 함께 작동한다." 🚶‍♂️
 
-프랑스 혁명의 불씨를 지피고 《사회계약론》과 《에밀》을 통해 '자연으로 돌아가라'고 주창했던 대사상가 장자크 루소. 말년에 극심한 망상증과 종교적 박해에 시달려 피폐해진 마음을 치유하기 위해, 루소는 식물학 채집과 산책을 하나로 묶은 독창적인 루틴을 고안해 냈습니다. 들판의 식물을 관찰하며 마음을 달래고, 그 와중에 떠오르는 심오한 단상들을 주머니 속 트럼프 카드 뒷면에 적었던 루소의 자연 융합적 집중 메커니즘을 알아봅니다.
+프랑스 혁명의 불씨를 지피고 《사회계약론》과 《에밀》을 통해 '자연으로 돌아가라'고 주창했던 대사상가 장자크 루소(Jean-Jacques Rousseau). 말년에 극심한 망상증과 종교적 박해에 시달려 피폐해진 마음을 치유하기 위해, 루소는 식물학 채집과 산책을 하나로 묶은 독창적인 루틴을 고안해 냈습니다. 들판의 식물을 관찰하며 마음을 달래고, 그 와중에 떠오르는 심오한 단상들을 주머니 속 트럼프 카드 뒷면에 적었던 루소의 자연 융합적 집중 메커니즘을 알아봅니다.
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -33,7 +35,7 @@ faqs:
       역사적 및 학술적 근거
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      본 콘텐츠는 <strong>Rousseau Botany Walk 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 rousseau-botany-walk 루틴을 다룹니다.
+      본 콘텐츠는 <strong>장자크 루소 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong>에 근거하여 rousseau-botany-walk 루틴을 다룹니다.
     </p>
   </div>
 </div>
@@ -87,11 +89,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>Why did Rousseau write notes on the back of playing cards?</span>
+      <span>루소는 왜 하필 트럼프 카드 뒷면에 메모를 적었나요?</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      He did not carry heavy notebooks while hiking. The stiff, small playing cards were perfect to write on while standing or walking, and easily fit inside his coat pockets.
+      산책할 때 무거운 노트나 장부를 소지하기 불편했기 때문입니다. 딱딱하고 작아 들고 쓰기 편한 트럼프 카드는 서서나 걸으면서 손쉽게 수기 기록을 남기기에 최적의 휴대용 아날로그 도구였습니다.
+    </p>
+  </details>
+  <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
+  <details class="group cursor-pointer">
+    <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
+      <span>도시 공원에서도 식물 채집 산책 효과를 얻을 수 있나요?</span>
+      <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
+    </summary>
+    <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
+      네, 가능합니다. 식물을 직접 채집하지 않더라도, 주변의 화단이나 정원에서 나뭇잎, 이끼, 작은 야생초들의 모양을 유심히 유기적으로 바라보는 행위만으로도 뇌의 주의력 회복망을 훌륭하게 자극할 수 있습니다.
     </p>
   </details>
 </div>

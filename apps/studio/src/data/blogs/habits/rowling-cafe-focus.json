@@ -1,70 +1,214 @@
 {
   "rowling-cafe-focus": {
     "title": {
-      "ko": "카페 소음 속에서 마법을 쓴 작가? J.K. 롤링의 백색소음 몰입 루틴"
+      "ko": "카페 소음 속에서 마법을 쓴 작가? J.K. 롤링의 백색소음 몰입 루틴",
+      "en": "The Writer Who Wrote Magic Amid Café Noise? J.K. Rowling's Ambient Noise Immersion Routine",
+      "ja": "カフェの騒音の中で魔法を書いた作家？J.K.ローリングのホワイトノイズ没頭ルーティン",
+      "zh": "在咖啡馆喧嚣中书写魔法的作家？J.K.罗琳的白噪音沉浸习惯",
+      "es": "¿La escritora que creó magia entre el ruido del café? La rutina de inmersión en ruido blanco de J.K. Rowling",
+      "de": "Die Autorin, die im Café-Lärm Magie erschuf? J.K. Rowlings Weißes-Rauschen-Fokus-Routine",
+      "fr": "L'écrivaine qui créait de la magie dans le bruit d'un café ? La routine d'immersion dans le bruit blanc de J.K. Rowling",
+      "pt": "A escritora que criou magia no ruído do café? A rotina de imersão em ruído branco de J.K. Rowling",
+      "id": "Penulis yang Menciptakan Keajaiban di Tengah Kebisingan Kafe? Rutinitas Perendaman Kebisingan Putih J.K. Rowling"
     },
     "description": {
-      "ko": "해리 포터의 작가 J.K. 롤링. 고요함 대신 카페의 웅성거리는 백색소음을 배경 삼아 대작을 집필했던 그녀의 루틴과 소음이 지닌 창의적 뇌과학 원리를 소개합니다."
+      "ko": "해리 포터의 작가 J.K. 롤링. 고요함 대신 카페의 웅성거리는 백색소음을 배경 삼아 대작을 집필했던 그녀의 루틴과 소음이 지닌 창의적 뇌과학 원리를 소개합니다.",
+      "en": "Harry Potter author J.K. Rowling wrote her masterpiece against the ambient chatter of cafés rather than in silence. Discover her routine and the neuroscientific principles of ambient noise in creativity.",
+      "ja": "『ハリー・ポッター』の著者J.K.ローリング。静寂の代わりにカフェのざわめくホワイトノイズを背景に大作を執筆した彼女のルーティンと、騒音が持つ創造的脳科学原理を紹介します。",
+      "zh": "《哈利·波特》作者J.K.罗琳。探讨她以咖啡馆喧闹的白噪音为背景撰写巨著的习惯，以及环境噪音促进创造力的脑科学原理。",
+      "es": "J.K. Rowling, autora de Harry Potter, escribió su obra maestra con el murmullo ambiental de los cafés en lugar del silencio. Descubra su rutina y los principios neurocientíficos del ruido blanco.",
+      "de": "Harry Potter-Autorin J.K. Rowling schrieb ihr Meisterwerk vor der Kulisse von Café-Umgebungsgeräuschen statt in Stille. Entdecken Sie ihre Routine und die neurowissenschaftlichen Prinzipien.",
+      "fr": "J.K. Rowling, l'auteure d'Harry Potter, a rédigé son chef-d'œuvre sur fond de murmures de café plutôt que dans le silence. Découvrez sa routine et les principes neuroscientifiques du bruit blanc.",
+      "pt": "J.K. Rowling, autora de Harry Potter, escreveu sua obra-prima ao som do burburinho de cafés. Descubra sua rotina e os princípios neurocientíficos do ruído ambiente na criatividade.",
+      "id": "Penulis Harry Potter J.K. Rowling menulis karya besarnya dengan latar belakang obrolan kafe daripada keheningan. Pelajari rutinitasnya dan prinsip ilmu saraf dari kebisingan putih."
     },
     "authority": {
-      "ko": "J.K. 롤링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "J.K. 롤링 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical Biography & Autobiographical Verification of J.K. Rowling & Cognitive Neuroscience Research",
+      "ja": "J.K.ローリング歴史的評伝および自伝的記録考証＆認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "J.K.罗琳历史传记与自传考证及认知神经科学研究",
+      "es": "Investigación biográfica histórica de J.K. Rowling e investigación en Neurociencia Cognitiva",
+      "de": "Historische Biografie-Prüfung zu J.K. Rowling & Kognitive Neurowissenschaften",
+      "fr": "Vérification des biographies historiques de J.K. Rowling & recherche en neurosciences cognitives",
+      "pt": "Pesquisa histórica biográfica sobre J.K. Rowling & pesquisa em Neurociência Cognitiva",
+      "id": "Riset biografi historis J.K. Rowling & penelitian Ilmu Saraf Kognitif"
     },
     "intro": {
-      "ko": "\"카페의 적당한 소음과 고독이 내 뇌를 가장 자유롭게 풀어주어, 마법사들의 세계를 막힘없이 상상하게 했다.\" ☕\n\n전 세계 수억 명의 독자들을 마법의 세계로 초대하고, 역사상 최초로 억만장자 작가 반열에 오르며 현대 판타지 신드롬을 일으킨 거장, J.K. 롤링. 에든버러의 한 초라한 골방에서 싱글맘으로 생계의 위협을 받던 그녀가 호그와트의 방대한 세계관과 마법사들의 이야기를 막힘없이 상상해 낸 비결은 과연 어디에 있었을까요?\n\n롤링은 집안의 숨 막히는 고요함과 경제적 불확실성에서 오는 고도의 정신적 억압감을 극복하고자 유모차를 밀고 동네의 작은 카페로 나갔습니다. 그녀는 찻잔이 부딪히는 소리, 사람들의 부드러운 웅성거림, 커피 머신의 진동음 등이 가득한 카페 한구석에 자리를 잡았습니다. 롤링에게 이 카페 소음들은 뇌의 지나친 각성을 낮추어 주는 최적의 '백색소음(Ambient Noise)'이었습니다. 그녀는 소음 속에 자신을 숨겨둔 채 편안한 안정감을 만끽하며, 상상력의 경계를 극대화해 해리 포터의 첫 문장들을 탄생시켰습니다.\n\n오늘 포스트에서는 J.K. 롤링의 '카페 백색소음' 루틴에 숨겨진 뇌과학적 원리와 현대인들이 창의력을 높이기 위해 이를 어떻게 활용할 수 있는지 소개합니다."
+      "ko": "\"카페의 적당한 소음과 고독이 내 뇌를 가장 자유롭게 풀어주어, 마법사들의 세계를 막힘없이 상상하게 했다.\" ☕\n\n전 세계 수억 명의 독자들을 마법의 세계로 초대하고, 역사상 최초로 억만장자 작가 반열에 오르며 현대 판타지 신드롬을 일으킨 거장, J.K. 롤링. 에든버러의 한 초라한 골방에서 싱글맘으로 생계의 위협을 받던 그녀가 호그와트의 방대한 세계관과 마법사들의 이야기를 막힘없이 상상해 낸 비결은 과연 어디에 있었을까요?\n\n롤링은 집안의 숨 막히는 고요함과 경제적 불확실성에서 오는 고도의 정신적 억압감을 극복하고자 유모차를 밀고 동네의 작은 카페로 나갔습니다. 그녀는 찻잔이 부딪히는 소리, 사람들의 부드러운 웅성거림, 커피 머신의 진동음 등이 가득한 카페 한구석에 자리를 잡았습니다. 롤링에게 이 카페 소음들은 뇌의 지나친 각성을 낮추어 주는 최적의 '백색소음(Ambient Noise)'이었습니다. 그녀는 소음 속에 자신을 숨겨둔 채 편안한 안정감을 만끽하며, 상상력의 경계를 극대화해 해리 포터의 첫 문장들을 탄생시켰습니다.\n\n오늘 포스트에서는 J.K. 롤링의 '카페 백색소음' 루틴에 숨겨진 뇌과학적 원리와 현대인들이 창의력을 높이기 위해 이를 어떻게 활용할 수 있는지 소개합니다.",
+      "en": "\"The moderate noise and solitude of a café freed my brain, allowing me to imagine the world of wizards seamlessly.\" ☕\n\nJ.K. Rowling invited hundreds of millions of readers into a world of magic, becoming the world's first billionaire author and launching a global fantasy phenomenon. How did a struggling single mother in a modest Edinburgh flat craft the vast wizarding universe of Hogwarts so seamlessly?\n\nTo overcome the suffocating silence of her flat and the psychological pressure of financial uncertainty, Rowling pushed her daughter's stroller to a neighborhood café (such as Nicolson's Café and The Elephant House). Sitting in a corner filled with clinking teacups, gentle murmurs, and coffee machine hums, these ambient sounds served as an ideal 'ambient noise' that lowered hyper-arousal. Concealed within the noise, she felt secure and energized, expanding her imagination to write the opening lines of Harry Potter.\n\nIn this post, we explore the neuroscientific mechanisms behind J.K. Rowling's café ambient noise routine and how modern individuals can harness it to boost creativity.",
+      "ja": "「カフェの適度な雑音と孤独が私の脳を最も自由に解き放ち、魔法使いの世界をのびのびと想像させてくれた。」 ☕\n\n世界中の何億人もの読者を魔法の世界へ招待し、歴史上初の億万長者作家の仲間入りを果たして現代ファンタジー症候群を巻き起こした巨匠、J.K.ローリング。エディンバラの質素な部屋でシングルマザーとして生活の脅威に晒されていた彼女が、ホグワーツの広大な世界観と魔法使いの物語をのびのびと想像し得た秘訣はどこにあったのでしょうか？\n\nローリングは部屋の息苦しい静寂と経済的不安から来る精神的圧迫感を克服するため、ベビーカーを押して近所のカフェへ向かいました。彼女はカップの触れ合う音、人々の柔らかいざわめき、コーヒーマシンの振動音などが満ちたカフェの隅に席を取りました。ローリングにとって、これらのカフェの音は脳の過剰な覚醒を抑えてくれる最適な「ホワイトノイズ（Ambient Noise）」でした。彼女は騒音の中に身を隠して快適な安心感を満喫し、想像力の限界を極限まで広げて『ハリー・ポッター』の最初の文章を生み出しました。\n\n本記事では、J.K.ローリングの「カフェ・ホワイトノイズ」ルーティンに隠された脳科学的原理と、現代人が創造性を高めるためにこれをどう活用できるか紹介します。",
+      "zh": "“咖啡馆适度的喧嚣与孤独让我的大脑得到了最大程度的解放，从而能够毫无阻碍地构思魔法师的世界。” ☕\n\nJ.K.罗琳将全球数以亿计的读者带入魔法世界，成为历史上首位跻身亿万富翁行列的作家，引发了现代奇幻热潮。当年在爱丁堡一间简陋小屋里承受生活重压的单亲妈妈，究竟是如何流畅构思出霍格沃茨庞大的世界观与魔法师故事的？\n\n为了克服家中窒息般的寂静与经济不确定性带来的精神压迫，罗琳推着婴儿车走进了附近的咖啡馆（如Nicolson's Café和The Elephant House）。坐在茶杯碰撞声、人群低语声和咖啡机轰鸣声充斥的咖啡馆角落，这些声音成为了降低大脑过度觉醒的最佳“环境白噪音（Ambient Noise）”。她隐匿于噪音之中，尽情享受安宁感，将想象力的边界扩展至极致，写下了《哈利·波特》的首批篇章。\n\n本文将探讨J.K.罗琳“咖啡馆白噪音”习惯背后的脑科学原理，以及现代人如何利用该原理提升创造力。",
+      "es": "\"El ruido moderado y la soledad de un café liberaron mi cerebro, permitiéndome imaginar el mundo de los magos sin trabas.\" ☕\n\nJ.K. Rowling invitó a cientos de millones de lectores al mundo de la magia, convirtiéndose en la primera escritora multimillonaria e impulsando un fenómeno fantástico global. ¿Cómo logró una madre soltera con dificultades financieras en Edimburgo concebir el basto universo de Hogwarts?\n\nPara superar el silencio asfixiante de su hogar y la presión de la incertidumbre económica, Rowling paseaba a su hija en cochecito hasta pequeños cafés del barrio. Sentada en un rincón entre el tintineo de tazas, suaves murmullos y el sonido de la cafetera, este 'ruido blanco ambiental' reducía la sobreexcitación cerebral. Cobijada por el bullicio, disfrutaba de tranquilidad y libertad imaginativa para dar vida a las primeras frases de Harry Potter.\n\nEn esta publicación, exploramos la ciencia detrás de la rutina de ruido ambiental de J.K. Rowling y cómo usarla hoy para potenciar la creatividad.",
+      "de": "\"Das moderate Geräusch und die Einsamkeit im Café befreiten mein Gehirn, sodass ich mir die Zaubererwelt ungehindert ausmalen konnte.\" ☕\n\nJ.K. Rowling entführte hunderte Millionen Leser in eine magische Welt und wurde die erste Milliardärs-Autorin der Geschichte. Wie schuf eine alleinerziehende Mutter in einer bescheidenen Wohnung in Edinburgh das riesige Zauberer-Universum von Hogwarts?\n\nUm die bedrückende Stille ihrer Wohnung und die Zukunftsängste zu überwinden, schob Rowling den Kinderwagen in kleine Cafés. Umgeben vom Klappern von Tassen und leisem Murmeln diente ihr dieser Umgebungslärm als 'Weißes Rauschen', das die übermäßige neuronale Erregung senkte. Im Schutz des Café-Lärms schuf sie die ersten Zeilen von Harry Potter.\n\nIn diesem Beitrag behandeln wir die neurowissenschaftlichen Grundlagen hinter Rowlings Schreibroutine und deren Nutzen für die moderne Kreativität.",
+      "fr": "« Le bruit modéré et la solitude d'un café ont libéré mon cerveau, me permettant d'imaginer le monde des sorciers sans entrave. » ☕\n\nJ.K. Rowling a invité des centaines de millions de lecteurs dans un monde de magie, devenant la première auteure milliardaire. Comment une mère célibataire en difficulté financière à Édimbourg a-t-elle façonné l'univers de Poudlard ?\n\nPour surmonter le silence étouffant de son appartement et la pression financière, Rowling poussait la poussette de sa fille vers des cafés du quartier. Assise dans un coin au milieu du choc des tasses et des doux murmures, ce « bruit ambiant » réduisait son hyper-éveil. Abritée dans ce fond sonore, elle a écrit les premières lignes d'Harry Potter.\n\nDans cet article, nous analysons les mécanismes neuroscientifiques de la routine de J.K. Rowling et comment l'appliquer pour stimuler sa propre créativité.",
+      "pt": "\"O ruído moderado e a solidão de um café libertaram meu cérebro, permitindo-me imaginar o mundo dos bruxos sem limites.\" ☕\n\nJ.K. Rowling levou centenas de milhões de leitores a um mundo mágico, tornando-se a primeira autora bilionária da história. Como uma mãe solo em Edimburgo imaginou todo o universo de Hogwarts?\n\nPara superar o silêncio sufocante de sua casa e a ansiedade financeira, Rowling levava o carrinho de bebê até cafés locais. Sentada em um canto entre o tilintar de xícaras e murmúrios suaves, o ruído ambiente atuava como 'ruído branco' atenuando o estresse. Protegida pelo burburinho, ela escreveu as primeiras linhas de Harry Potter.\n\nNeste post, exploramos a ciência por trás da rotina de ruído ambiente de J.K. Rowling e como aplicá-la para aumentar a criatividade.",
+      "id": "\"Suara sedang dan kesendirian di kafe membebaskan otak saya, memungkinkan saya membayangkan dunia penyihir tanpa hambatan.\" ☕\n\nJ.K. Rowling mengundang ratusan juta pembaca ke dunia sihir, menjadi penulis miliarder pertama dalam sejarah. Bagaimana seorang ibu tunggal di Edinburgh menciptakan alam semesta Hogwarts yang begitu luas?\n\nUntuk mengatasi keheningan rumahnya dan tekanan ekonomi, Rowling mendorong kereta bayi ke kafe lokal. Duduk di sudut di tengah denting cangkir dan obrolan lembut, kebisingan putih lingkungan ini menurunkan stimulasi berlebih di otak. Terlindung dalam kebisingan kafe, ia menulis kalimat-kalimat awal Harry Potter.\n\nDalam artikel ini, kami mengulas prinsip ilmu saraf di balik rutinitas kebisingan putih J.K. Rowling dan cara memanfaatkannya untuk meningkatkan kreativitas."
     },
     "whyTitle": {
-      "ko": "추상적 두뇌 활성을 돕는 '가벼운 인지 장애'"
+      "ko": "추상적 두뇌 활성을 돕는 '가벼운 인지 장애'",
+      "en": "'Cognitive Disfluency' Promoting Abstract Brain Activation",
+      "ja": "抽象的脳活性化を助ける「軽度の認知障害（Cognitive Disfluency）」",
+      "zh": "促进抽象大脑表达的“微小认知阻滞”",
+      "es": "'Disfluencia cognitiva' para activar el pensamiento abstracto",
+      "de": "'Kognitive Disfluenz' zur Förderung abstrakter Hirnaktivität",
+      "fr": "La « disfluence cognitive » favorisant l'activation cérébrale abstraite",
+      "pt": "'Disfluência cognitiva' estimulando a ativação mental abstrata",
+      "id": "'Disfluensi Kognitif' Membantu Aktivasi Otak Abstrak"
     },
     "whyDesc": {
-      "ko": "많은 사람들이 창의성을 요구하는 작업(아이디어 회의, 작문, 새로운 기획 등)을 수행할 때 극도로 조용하고 밀폐된 독서실 같은 공간을 찾지만, 이는 때로 역효과를 냅니다. 지나치게 고요한 침묵은 뇌에 알 수 없는 압박감을 주어 주의력 필터를 과도하게 팽팽하게 만들고, 생각의 유연성을 떨어뜨립니다.\n\nJ.K. 롤링의 카페 몰입 루틴은 약 70dB(데시벨) 수준의 백색소음이 지닌 <strong>'인지적 스무딩 효과'</strong>를 인지과학적으로 증명하는 살아있는 사례입니다. 시카고 대학교의 연구 결과에 따르면, 적당한 주변 소음은 뇌의 직접적인 정보 처리를 미세하게 방해하는 <strong>'가벼운 인지 장애(Cognitive Disfluency)'</strong> 상태를 유도합니다. 뇌는 이 미세한 방해를 이겨내는 과정에서 의식적인 디테일 집착(디테일 회로)을 잠시 스킵하고, 보다 넓고 거시적인 관점에서 생각하는 '추상적 인지 처리(Abstract Processing)' 능력을 대폭 활성화합니다. 이 과정을 통해 뇌는 고정관념에서 벗어난 거대하고 혁신적인 아이디어를 유기적으로 엮어내게 됩니다."
+      "ko": "많은 사람들이 창의성을 요구하는 작업(아이디어 회의, 작문, 새로운 기획 등)을 수행할 때 극도로 조용하고 밀폐된 독서실 같은 공간을 찾지만, 이는 때로 역효과를 냅니다. 지나치게 고요한 침묵은 뇌에 알 수 없는 압박감을 주어 주의력 필터를 과도하게 팽팽하게 만들고, 생각의 유연성을 떨어뜨립니다.\n\nJ.K. 롤링의 카페 몰입 루틴은 약 70dB(데시벨) 수준의 백색소음이 지닌 <strong>'인지적 스무딩 효과'</strong>를 인지과학적으로 증명하는 살아있는 사례입니다. 시카고 대학교의 연구 결과에 따르면, 적당한 주변 소음은 뇌의 직접적인 정보 처리를 미세하게 방해하는 <strong>'가벼운 인지 장애(Cognitive Disfluency)'</strong> 상태를 유도합니다. 뇌는 이 미세한 방해를 이겨내는 과정에서 의식적인 디테일 집착(디테일 회로)을 잠시 스킵하고, 보다 넓고 거시적인 관점에서 생각하는 '추상적 인지 처리(Abstract Processing)' 능력을 대폭 활성화합니다. 이 과정을 통해 뇌는 고정관념에서 벗어난 거대하고 혁신적인 아이디어를 유기적으로 엮어내게 됩니다.",
+      "en": "When engaging in creative tasks (brainstorming, writing, planning), many seek silent, enclosed spaces like study rooms, but this can backfire. Extreme silence applies subtle pressure, over-tightening attention filters and reducing mental flexibility.\n\nRowling's routine illustrates the cognitive benefits of ~70 dB ambient noise. Studies from the University of Chicago show that moderate noise creates <strong>'Cognitive Disfluency'</strong>—a mild impediment to direct processing. In overcoming this minor distraction, the brain skips obsessive detail filtering and activates <strong>'Abstract Processing'</strong>, allowing macro-level, innovative connections to form fluidly.",
+      "ja": "創造性を要する作業（アイデア会議、作文、新企画など）を行う際、極度に静かで密閉された自習室のような空間を探しがちですが、これは時に逆効果を生みます。過度な静寂は脳に圧迫感を与え、注意フィルターを過剰に緊張させて思考の柔軟性を低下させます。\n\nJ.K.ローリングのカフェ没頭ルーティンは、約70dB（デシベル）レベルのホワイトノイズが持つ<strong>「認知的スムージング効果」</strong>を認知的科学に証明する事例です。シカゴ大学の研究によると、適度な周辺騒音は脳の直接的な情報処理を微細に妨害する<strong>「軽度の認知障害（Cognitive Disfluency）」</strong>状態を誘導します。脳はこの微細な妨害を乗り越える過程で、意識的なディテールへの執着を一時的にスキップし、より広いマクロな視点で考える「抽象的認知処理（Abstract Processing）」能力を大幅に活性化します。",
+      "zh": "许多人在进行需要创造力的工作（如头脑风暴、写作、新项目规划）时，会寻求极度安静且封闭的自习室，但这有时会适得其反。过于寂静的环境会给大脑带来压迫感，使注意力过度紧张，降低思考的灵活性。\n\nJ.K.罗琳的咖啡馆专注习惯印证了约70分贝白噪音所具备的<strong>“认知平滑效应”</strong>。芝加哥大学研究表明，适度的环境噪音会诱发<strong>“微小认知阻滞（Cognitive Disfluency）”</strong>状态。大脑在克服这种微弱干扰的过程中，会暂时跳过对细节的固执，极大激活基于全局宏观视角的“抽象认知处理（Abstract Processing）”能力，从而有条不紊地织就突破常规的创新构想。",
+      "es": "Al realizar tareas creativas, muchos buscan lugares totalmente silenciosos, pero esto puede ser contraproducente. El silencio extremo tensiona los filtros de atención y reduce la flexibilidad mental.\n\nLa rutina de Rowling muestra los beneficios de ~70 dB de ruido ambiental. Investigaciones de la Universidad de Chicago revelan que el ruido moderado genera una <strong>'Disfluencia Cognitiva'</strong> leve. Al superar esta distracción menor, el cerebro omite la obsesión por los detalles y activa el <strong>'Procesamiento Abstracto'</strong>, facilitando ideas innovadoras a gran escala.",
+      "de": "Bei kreativen Arbeiten suchen viele extrem stille Räume auf. Absolute Stille erzeugt jedoch Druck und verengt den Fokus.\n\nRowlings Routine demonstriert den Nutzen von ca. 70 dB Umgebungsgeräusch. Studien zeigen, dass moderater Lärm eine leichte <strong>'Kognitive Disfluenz'</strong> erzeugt. Beim Überwinden dieser leichten Störung schaltet das Gehirn auf <strong>'Abstrakte Verarbeitung'</strong> um und verknüpft neuartige Ideen auf Makroebene.",
+      "fr": "Pour les tâches créatives, le silence absolu peut être contre-productif en créant une tension mentale excessive.\n\nLa routine de Rowling illustre les bienfaits d'un bruit ambiant d'environ 70 dB. Des études montrent qu'un bruit modéré induit une <strong>« disfluence cognitive »</strong> légère. En surmontant cette distraction minime, le cerveau délaisse les détails obsessionnels pour activer le <strong>« traitement abstrait »</strong>, favorisant les grandes idées novatrices.",
+      "pt": "Em tarefas criativas, o silêncio absoluto pode ser contraproducente ao tencionar excessivamente os filtros de atenção.\n\nA rotina de Rowling demonstra os benefícios de ~70 dB de ruído ambiente. Pesquisas mostram que ruídos moderados geram uma leve <strong>'Disfluência Cognitiva'</strong>. Ao superar essa pequena distração, o cérebro ativa o <strong>'Processamento Abstrato'</strong>, tecendo ideias inovadoras.",
+      "id": "Saat melakukan tugas kreatif, keheningan mutlak dapat menjadi kontraproduktif dengan menegangkan filter perhatian secara berlebihan.\n\nRutinitas Rowling membuktikan manfaat kebisingan putih ~70 dB. Studi menunjukkan bahwa kebisingan sedang memicu <strong>'Disfluensi Kognitif'</strong> ringan. Dalam mengatasi gangguan kecil ini, otak mengaktifkan <strong>'Pemrosesan Abstrak'</strong>, menghubungkan ide-ide inovasi secara makro."
     },
     "cautionTitle": {
-      "ko": "적절한 주변 소음이 생각의 문을 열어줍니다"
+      "ko": "적절한 주변 소음이 생각의 문을 열어줍니다",
+      "en": "Moderate Ambient Noise Opens the Doors of Thought",
+      "ja": "適度な周辺騒音が思考の扉を開きます",
+      "zh": "适度的环境噪音开启思考的大门",
+      "es": "El ruido ambiental moderado abre las puertas del pensamiento",
+      "de": "Moderater Umgebungslärm öffnet die Türen des Denkens",
+      "fr": "Un bruit ambiant modéré ouvre les portes de la pensée",
+      "pt": "O ruído ambiente moderado abre as portas do pensamento",
+      "id": "Kebisingan Lingkungan yang Tepat Membuka Pintu Pemikiran"
     },
     "cautionDesc": {
-      "ko": "J.K. 롤링에게 카페의 웅성거림은 집중을 깨는 방해물이 아니라, 고독감과 스트레스를 상쇄하고 뇌에 가벼운 인지적 자극을 던져 창의적 회로를 부드럽게 윤활하는 아늑한 소음막이었습니다. 지나치게 좁고 적막한 방에서 생각이 정체될 때는 주저 없이 카페로 향하거나 백색소음을 방 안 가득 채워 보십시오."
+      "ko": "J.K. 롤링에게 카페의 웅성거림은 집중을 깨는 방해물이 아니라, 고독감과 스트레스를 상쇄하고 뇌에 가벼운 인지적 자극을 던져 창의적 회로를 부드럽게 윤활하는 아늑한 소음막이었습니다. 지나치게 좁고 적막한 방에서 생각이 정체될 때는 주저 없이 카페로 향하거나 백색소음을 방 안 가득 채워 보십시오.",
+      "en": "For Rowling, café chatter was not a distraction, but a cozy shield of noise that offset solitude and gently lubricated creative circuits. When your thoughts feel stuck in a silent room, head to a café or fill your room with ambient white noise.",
+      "ja": "J.K.ローリングにとってカフェのざわめきは集中を妨げる障害物ではなく、孤独感とストレスを相殺し、脳に軽度の認知刺激を与えて創造的回路を滑らかにする居心地の良い騒音幕でした。あまりに狭く静まり返った部屋で思考が停滞した時は、躊躇なくカフェに向かうか、部屋の中にホワイトノイズを満たしてみてください。",
+      "zh": "对于J.K.罗琳而言，咖啡馆的低语声并非干扰专注的障碍，而是一个舒适的声音屏障，能抵消孤独感与压力，为大脑提供轻柔的认知刺激。当在封闭静寂的房间里思维卡壳时，不妨走向咖啡馆，或在房间里播放白噪音。",
+      "es": "Para Rowling, el murmullo del café no era una distracción, sino un escudo reconfortante que amortiguaba la soledad y lubricaba los circuitos creativos. Cuando sus ideas se estanquen en una habitación silenciosa, vaya a un café o reproduzca ruido blanco.",
+      "de": "Für Rowling war das Café-Murmeln keine Ablenkung, sondern ein schützender Lärmschirm, der Einsamkeit ausglich und die Kreativität stimulierte. Wenn Ihre Gedanken in Stille stocken, gehen Sie in ein Café oder nutzen Sie weißes Rauschen.",
+      "fr": "Pour Rowling, le brouhaha du café était un bouclier sonore réconfortant qui compensait la solitude et stimulait sa créativité. Quand vos idées stagnent dans une pièce silencieuse, rendez-vous dans un café ou écoutez du bruit blanc.",
+      "pt": "Para Rowling, o murmúrio do café era um escudo protetor contra a solidão que lubricava seus circuitos criativos. Quando suas ideias empacarem no silêncio, vá a um café ou use ruído branco.",
+      "id": "Bagi Rowling, obrolan kafe bukanlah gangguan, melainkan perisai suara nyaman yang meredakan kesendirian dan melumasi sirkuit kreatif. Saat pikiran Anda mandek di ruangan hening, pergilah ke kafe atau putar kebisingan putih."
     },
     "steps": [
       {
         "name": {
-          "ko": "백색소음 환경(약 70dB)의 마련"
+          "ko": "백색소음 환경(약 70dB)의 마련",
+          "en": "Set Up an Ambient Noise Environment (~70 dB)",
+          "ja": "ホワイトノイズ環境（約70dB）の準備",
+          "zh": "营造白噪音环境（约70分贝）",
+          "es": "Preparar un entorno de ruido blanco (~70 dB)",
+          "de": "Schaffen einer Umgebung mit weißem Rauschen (~70 dB)",
+          "fr": "Mettre en place un environnement de bruit blanc (~70 dB)",
+          "pt": "Preparar um ambiente com ruído branco (~70 dB)",
+          "id": "Siapkan Lingkungan Kebisingan Putih (~70 dB)"
         },
         "text": {
-          "ko": "적당히 웅성거리는 동네 카페의 한적한 구석자리를 잡거나, 이동이 어렵다면 컴퓨터나 스피커를 통해 자연스러운 카페 소음 또는 빗소리 백색소음을 70dB의 크기로 재생합니다."
+          "ko": "적당히 웅성거리는 동네 카페의 한적한 구석자리를 잡거나, 이동이 어렵다면 컴퓨터나 스피커를 통해 자연스러운 카페 소음 또는 빗소리 백색소음을 70dB의 크기로 재생합니다.",
+          "en": "Find a quiet corner in a bustling local café, or play natural café chatter or rain white noise at ~70 dB through speakers if working from home.",
+          "ja": "適度にざわめく近所のカフェの静かな角の席を取るか、移動が難しい場合はパソコンやスピーカーを通じて自然なカフェの騒音や雨のホワイトノイズを70dBの音量で再生します。",
+          "zh": "在微喧的社区咖啡馆找一个安静的角落；若无法外出，可通过电脑或音响播放70分贝左右的自然咖啡馆喧嚣声或雨声白噪音。",
+          "es": "Busque un rincón tranquilo en un café local animado o reproduzca ruido blanco de café o lluvia a ~70 dB a través de sus altavoces.",
+          "de": "Suchen Sie einen ruhigen Platz in einem Café oder spielen Sie Café-Murmeln oder Regen-Rauschen mit ca. 70 dB über Lautsprecher ab.",
+          "fr": "Installez-vous dans un coin calme d'un café animé, ou diffusez un bruit blanc de café ou de pluie à environ 70 dB chez vous.",
+          "pt": "Procure um canto tranquilo em um café movimentado ou reproduza ruído branco de café ou chuva a cerca de 70 dB em seus alto-falantes.",
+          "id": "Cari sudut tenang di kafe lokal, atau putar suara obrolan kafe atau hujan sekitar 70 dB melalui speaker jika di rumah."
         }
       },
       {
         "name": {
-          "ko": "청각 소음막 속 디지털 격리 설정"
+          "ko": "청각 소음막 속 디지털 격리 설정",
+          "en": "Set Digital Isolation Within Auditory Shield",
+          "ja": "聴覚の騒音幕の中でのデジタル隔離設定",
+          "zh": "在声音屏障中建立数字隔离",
+          "es": "Aislamiento digital dentro del escudo auditivo",
+          "de": "Digitale Isolation im Lärmschirm einrichten",
+          "fr": "Isolation numérique au sein du bouclier sonore",
+          "pt": "Isolamento digital sob o escudo auditivo",
+          "id": "Isolasi Digital di Dalam Perisai Suara"
         },
         "text": {
-          "ko": "스마트폰을 무음으로 돌리고 노트북 화면에 오직 작성할 기획서나 일기장만을 켜둡니다. 주변 소음이 이어폰 역할을 하여 귀를 감싸는 듯한 아늑한 심리적 경계를 설정합니다."
+          "ko": "스마트폰을 무음으로 돌리고 노트북 화면에 오직 작성할 기획서나 일기장만을 켜둡니다. 주변 소음이 이어폰 역할을 하여 귀를 감싸는 듯한 아늑한 심리적 경계를 설정합니다.",
+          "en": "Mute your phone and display only your writing document or journal on screen. Allow the ambient noise to act as a comforting psychological boundary.",
+          "ja": "スマートフォンをマナーモードにし、ノートパソコンの画面には作成する企画書や日記帳のみを開いておきます。周辺の騒音がイヤホンの役割を果たし、耳を包み込むような心地よい心理的境界を設定します。",
+          "zh": "将手机设为静音，屏幕上只保留要撰写的文档或笔记。让环境噪音发挥类似耳塞的作用，建立舒适的心里边界。",
+          "es": "Silencie el teléfono y mantenga en pantalla solo su documento de trabajo. Deje que el ruido ambiental sirva como una reconfortante barrera mental.",
+          "de": "Schalten Sie Ihr Smartphone stumm und lassen Sie nur Ihr Dokument auf dem Bildschirm. Der Umgebungslärm wirkt wie eine wohltuende mentale Grenze.",
+          "fr": "Mettez votre téléphone en sourdine et gardez uniquement votre document ouvert. Laissez le bruit ambiant agir comme un cocon protecteur.",
+          "pt": "Silencie o celular e abra apenas o documento de trabalho na tela. Deixe o ruído ambiente funcionar como uma barreira mental acolhedora.",
+          "id": "Bisukan ponsel Anda dan buka hanya dokumen kerja di layar. Biarkan kebisingan lingkungan bertindak sebagai batas psikologis yang nyaman."
         }
       },
       {
         "name": {
-          "ko": "경계 없는 상상력과 거시적 생각 전개"
+          "ko": "경계 없는 상상력과 거시적 생각 전개",
+          "en": "Unbound Imagination and Macro Thinking",
+          "ja": "境界のない想像力とマクロな思考の展開",
+          "zh": "无界的想象力与宏观思维展开",
+          "es": "Imaginación sin límites y pensamiento macro",
+          "de": "Grenzenlose Fantasie und Makro-Denken",
+          "fr": "Imagination sans limites et pensée macro",
+          "pt": "Imaginação sem limites e pensamento macro",
+          "id": "Imajinasi Tanpa Batas dan Pemikiran Makro"
         },
         "text": {
-          "ko": "소음이 주는 가벼운 자극을 배경 삼아, 세부 사항에 얽매이지 않고 기획의 전체적인 아키텍처나 줄거리를 거시적으로 확장하며 아이디어의 뼈대를 창의적으로 직조합니다."
+          "ko": "소음이 주는 가벼운 자극을 배경 삼아, 세부 사항에 얽매이지 않고 기획의 전체적인 아키텍처나 줄거리를 거시적으로 확장하며 아이디어의 뼈대를 창의적으로 직조합니다.",
+          "en": "With mild noise stimulation in the background, break free from granular details to expand macro architectures or storylines creatively.",
+          "ja": "騒音が与える軽度の刺激を背景に、細かい点に縛られず企画の全体的なアーキテクチャやストーリーをマクロに拡張し、アイデアの骨組みを創造的に織り上げます。",
+          "zh": "以噪音带来的轻微刺激为背景，摆脱琐碎细节的束缚，从宏观层面拓展项目的整体架构或故事脉络，构建出具创造力的想法骨架。",
+          "es": "Aproveche el suave estímulo auditivo para liberarse de los detalles menores y desarrollar de forma creativa la estructura general o el argumento.",
+          "de": "Nutzen Sie den leichten Lärmimpuls, um sich von Details zu lösen und das Gesamtkonzept oder die Storyline kreativ zu entfalten.",
+          "fr": "Profitez de cette légère stimulation sonore pour vous affranchir des détails et développer la structure globale ou l'intrigue avec créativité.",
+          "pt": "Aproveite a leve estimulação do ruído para se libertar dos detalhes e desenvolver a estrutura geral ou o enredo com criatividade.",
+          "id": "Manfaatkan stimulasi suara ringan untuk membebaskan diri dari rincian kecil dan mengembangkan arsitektur umum atau alur cerita secara kreatif."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "시끄러운 헤비메탈 음악이나 댄스곡을 들어도 동일한 효과가 나나요?"
+          "ko": "시끄러운 헤비메탈 음악이나 댄스곡을 들어도 동일한 효과가 나나요?",
+          "en": "Does listening to loud heavy metal or dance music produce the same effect?",
+          "ja": "大音量のヘヴィメタルやダンスミュージックを聴いても同じ効果が得られますか？",
+          "zh": "听喧闹重金属音乐或电子舞曲也会有同样效果吗？",
+          "es": "¿Escuchar música heavy metal o de baile a alto volumen produce el mismo efecto?",
+          "de": "Hat laute Heavy-Metal- oder Tanzmusik denselben Effekt?",
+          "fr": "Écouter du heavy metal ou de la musique pop à fort volume a-t-il le même effet ?",
+          "pt": "Ouvir heavy metal ou música eletrônica alta produz o mesmo efeito?",
+          "id": "Apakah mendengarkan musik heavy metal atau musik dansa yang keras memberikan efek yang sama?"
         },
         "answer": {
-          "ko": "아닙니다. 인위적으로 믹싱된 가사 음악이나 규칙성이 강하고 과도하게 큰 소음(85dB 이상)은 가벼운 자극을 넘어 전두엽의 작업 기억 영역에 직접적인 침범을 일으킵니다. 이는 뇌 피로를 촉진하고 집중에 심각한 해를 끼치므로, 가사가 없고 예측 불가능한 불규칙한 환경 소음(백색소음)이어야만 인지 장애 효과가 올바르게 작동합니다."
+          "ko": "아닙니다. 인위적으로 믹싱된 가사 음악이나 규칙성이 강하고 과도하게 큰 소음(85dB 이상)은 가벼운 자극을 넘어 전두엽의 작업 기억 영역에 직접적인 침범을 일으킵니다. 이는 뇌 피로를 촉진하고 집중에 심각한 해를 끼치므로, 가사가 없고 예측 불가능한 불규칙한 환경 소음(백색소음)이어야만 인지 장애 효과가 올바르게 작동합니다.",
+          "en": "No. Music with lyrics or loud, patterned noise (>85 dB) invades working memory in the prefrontal cortex, causing fatigue and disrupting focus. Only unpredictable, lyric-free ambient noise triggers positive cognitive disfluency.",
+          "ja": "いいえ。人工的にミキシングされた歌詞入り音楽や規則性が強く過度に大きい騒音（85dB以上）は、軽度の刺激を超えて前頭葉の作業記憶領域に直接侵入します。これは脳の疲労を促進し集中に深刻な害を及ぼすため、歌詞がなく予測不能な不規則な環境騒音（ホワイトノイズ）でのみ効果が正しく作動します。",
+          "zh": "不会。带有歌词或剧烈、有规律的高噪音（85分贝以上）会侵占额叶的工作记忆，导致大脑疲劳并破坏专注。只有无歌词、不可预测的随机环境音（白噪音）才能产生积极作用。",
+          "es": "No. La música con letra o los ruidos fuertes e intensos (>85 dB) invaden la memoria de trabajo en el lóbulo frontal, causando fatiga. Solo el ruido ambiental impredecible y sin letra genera una disfluencia beneficiosa.",
+          "de": "Nein. Musik mit Songtexten oder lauter rhythmischer Lärm (>85 dB) stört das Arbeitsgedächtnis im Stirnlappen und erzeugt Müdigkeit. Nur unvorhersehbarer, textfreier Lärm erzeugt positive Disfluenz.",
+          "fr": "Non. La musique avec paroles ou un bruit fort et rythmé (>85 dB) envahit la mémoire de travail du lobe frontal, entraînant de la fatigue. Seul un bruit ambiant imprévisible et sans paroles génère cet effet bénéfique.",
+          "pt": "Não. Músicas com letra ou ruídos fortes e ritmados (>85 dB) invadem a memória de trabalho, causando fadiga. Apenas o ruído ambiente imprevisível e sem letra gera a disfluência benéfica.",
+          "id": "Tidak. Musik dengan lirik atau kebisingan berpolabesar (>85 dB) mengganggu memori kerja di lobus frontal, menyebabkan kelelahan. Hanya kebisingan putih lingkungan yang tak terduga yang memicu efek positif."
         }
       },
       {
         "question": {
-          "ko": "공부방에서 가만히 이어폰으로 백색소음을 듣는 것도 도움이 되나요?"
+          "ko": "공부방에서 가만히 이어폰으로 백색소음을 듣는 것도 도움이 되나요?",
+          "en": "Is listening to ambient white noise through earphones in a quiet study room helpful?",
+          "ja": "自習室で静かにイヤホンでホワイトノイズを聴くのも効果がありますか？",
+          "zh": "在自习室戴着耳机听白噪音有用吗？",
+          "es": "¿Es útil escuchar ruido blanco con auriculares en una sala de estudio silenciosa?",
+          "de": "Hilft das Hören von weißem Rauschen über Kopfhörer in einem stillen Raum?",
+          "fr": "Écouter du bruit blanc avec des écouteurs dans une pièce silencieuse est-il utile ?",
+          "pt": "Ouvir ruído branco com fones de ouvido em um quarto silencioso ajuda?",
+          "id": "Apakah mendengarkan kebisingan putih lewat earphone di ruang belajar membantu?"
         },
         "answer": {
-          "ko": "네. 고독한 독서실에서 백색소음을 재생해 듣는 것도 뇌에 가벼운 주의력 차단 효과를 주어 좋습니다. 다만 가능하면 가끔은 물리적인 시각적 변화(카페의 개방감)를 결합하는 것이 뇌의 감각 다양성을 확보하여 창의성에 더 좋습니다."
+          "ko": "네. 고독한 독서실에서 백색소음을 재생해 듣는 것도 뇌에 가벼운 주의력 차단 효과를 주어 좋습니다. 다만 가능하면 가끔은 물리적인 시각적 변화(카페의 개방감)를 결합하는 것이 뇌의 감각 다양성을 확보하여 창의성에 더 좋습니다.",
+          "en": "Yes. Playing white noise in a solitary room provides a mild distraction shield. Combining auditory white noise with occasional visual change (like the open view of a café) maximizes sensory diversity and creativity.",
+          "ja": "はい。静かな自習室でホワイトノイズを再生して聴くことも、脳に軽度の注意遮断効果を与えて効果的です。ただし、可能であれば時々は物理的な視覚的変化（カフェの開放感）を組み合わせる方が、脳の感覚多様性を確保でき創造性により良い影響を与えます。",
+          "zh": "是的。在安静的自习室播放白噪音，也能为大脑提供轻度的注意力屏障。不过，若能偶尔结合物理环境的视觉变化（如咖啡馆的开阔感），能更好地确保脑部感官的多样性，对创造力更有益。",
+          "es": "Sí. Reproducir ruido blanco en una habitación solitaria ayuda a amortiguar distracciones. Sin embargo, combinarlo ocasionalmente con cambios visuales (como la amplitud de un café) beneficia aún más la creatividad.",
+          "de": "Ja. Weißes Rauschen im stillen Zimmer bietet einen leichten Schutzschild. Die Kombination mit gelegentlichen visuellen Reizen (wie der Offenheit eines Cafés) stärkt die Kreativität jedoch noch mehr.",
+          "fr": "Oui. Écouter du bruit blanc dans une pièce isolée protège des distractions. Mais y associer un changement visuel (l'espace ouvert d'un café) enrichit la stimulation sensorielle.",
+          "pt": "Sim. Ouvir ruído branco em um quarto isolado ajuda a bloquear distrações. Porém, combiná-lo com mudanças visuais (como o espaço aberto de um café) favorece ainda mais a criatividade.",
+          "id": "Ya. Memutar kebisingan putih di ruangan terisolasi memberi perlindungan dari gangguan. Namun, mengombinasikannya dengan perubahan visual (seperti suasana kafe) semakin menguntungkan kreativitas."
         }
       }
     ]

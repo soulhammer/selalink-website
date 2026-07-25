@@ -1,62 +1,190 @@
 {
   "rikyu-garden-sweeping": {
     "title": {
-      "ko": "마음의 먼지를 쓰는 아침: 센노 리큐의 정원 청소 루틴"
+      "ko": "마음의 먼지를 쓰는 아침: 센노 리큐의 정원 청소 루틴",
+      "en": "Sweeping the Dust of the Mind: Sen no Rikyu's Morning Garden Sweeping Routine",
+      "ja": "心の塵を掃く朝：千利休の庭掃除ルーティン",
+      "zh": "扫清心灵尘埃的清晨：千利休的庭院扫除习惯",
+      "es": "Barriendo el polvo de la mente: La rutina matutina de barrido del jardín de Sen no Rikyu",
+      "de": "Den Staub des Geistes fegen: Sen no Rikyus morgendliche Garten-Feg-Routine",
+      "fr": "Balayer la poussière de l'esprit : La routine matinale de balayage du jardin de Sen no Rikyu",
+      "pt": "Varrendo a poeira da mente: A rotina matinal de varrer o jardim de Sen no Rikyu",
+      "id": "Menyapu Debu Pikiran di Pagi Hari: Rutinitas Menyapu Taman Sen no Rikyu"
     },
     "description": {
-      "ko": "다도의 거장 센노 리큐가 정원을 쓸어내며 마음을 닦아낸 일화. 단순 반복 동작을 통해 뇌의 인지 노이즈를 걷어내는 동적 명상의 인지과학적 원리를 설명합니다."
+      "ko": "다도의 거장 센노 리큐가 정원을 쓸어내며 마음을 닦아낸 일화. 단순 반복 동작을 통해 뇌의 인지 노이즈를 걷어내는 동적 명상의 인지과학적 원리를 설명합니다.",
+      "en": "An anecdote of Grand Tea Master Sen no Rikyu purifying his mind while sweeping the garden. Explains the cognitive science principles of kinesthetic meditation that clear brain cognitive noise through simple repetitive motions.",
+      "ja": "茶道の巨匠・千利休が庭を掃きながら心を磨いた逸話。単純な反復動作を通じて脳の認知ノイズを取り除く動的瞑想の認知科学的原理を解説します。",
+      "zh": "茶道宗师千利休通过扫地净化心灵的轶事。解释通过简单的重复动作消除大脑认知噪音的动觉冥想的认知科学原理。",
+      "es": "Una anécdota del gran maestro del té Sen no Rikyu purificando su mente mientras barría el jardín. Explica los principios de la ciencia cognitiva de la meditación cinestésica que elimina el ruido cognitivo cerebral a través de movimientos repetitivos simples.",
+      "de": "Eine Anekdote über den Teemeister Sen no Rikyu, der beim Fegen des Gartens seinen Geist reinigte. Erklärt die kognitionswissenschaftlichen Prinzipien der kinästhetischen Meditation, die kognitives Rauschen im Gehirn durch einfache, sich wiederholende Bewegungen beseitigt.",
+      "fr": "Une anecdote du grand maître de thé Sen no Rikyu purifiant son esprit en balayant le jardin. Explique les principes des sciences cognitives de la méditation kinesthésique qui éliminent le bruit cognitif cérébral grâce à des mouvements répétitifs simples.",
+      "pt": "Uma anedota do grande mestre de chá Sen no Rikyu purificando sua mente enquanto varria o jardim. Explica os princípios da ciência cognitiva da meditação cinestésica que elimina o ruído cognitivo cerebral por meio de movimentos repetitivos simples.",
+      "id": "Anekdot dari Master Teh Sen no Rikyu yang membersihkan pikirannya saat menyapu taman. Menjelaskan prinsip ilmu kognitif dari meditasi kinestetik yang menghilangkan kebisingan kognitif otak melalui gerakan berulang yang sederhana."
     },
     "authority": {
-      "ko": "Rikyu Garden Sweeping 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "Rikyu Garden Sweeping 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical critical biography and autobiographical records of Rikyu Garden Sweeping & Cognitive Neuroscience research",
+      "ja": "千利休の庭掃除に関する歴史的評伝・自伝記録の考証および認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "千利休庭院扫除历史评传及自传记录考证与认知神经科学研究",
+      "es": "Biografía crítica histórica y registros autobiográficos sobre el barrido del jardín de Rikyu e investigación en neurociencia cognitiva",
+      "de": "Historische kritische Biografie und autobiografische Aufzeichnungen über Rikyus Gartenfegen sowie kognitive neurowissenschaftliche Forschung",
+      "fr": "Biographie critique historique et récits autobiographiques sur le balayage du jardin de Rikyu & recherche en neurosciences cognitives",
+      "pt": "Biografia crítica histórica e registros autobiográficos sobre a varredura do jardim de Rikyu e pesquisas em neurociência cognitiva",
+      "id": "Biografi kritis historis dan catatan autobiografi tentang Rutinitas Menyapu Taman Rikyu & penelitian ilmu saraf kognitif"
     },
     "intro": {
-      "ko": "\"정원의 먼지를 쓰는 것은 나뭇잎을 치우는 행위가 아니라, 마음의 불필요한 노이즈를 쓸어내고 자연의 여백을 마주하는 일이다.\" 🍂\n\n일본 센고쿠 시대의 전설적인 다도() 거장이자, 소박함과 여백의 미를 극대화한 '와비차()'를 완성한 센노 리큐. 그는 극심한 정쟁과 전란 속에서도 평정심을 유지하며, 최고 권력자들 앞에서도 당당히 자신만의 다도 철학을 지켜냈습니다. 그의 깊이 있는 예술성과 지혜의 원천은 바로 매일 아침 차실 정원을 빗자루로 정성스럽게 쓸어내렸던 '정원 청소 루틴'에 있었습니다.\n\n리큐의 아들이 정원을 아주 깨끗이 쓸었다고 말하자, 리큐는 단풍나무를 살짝 흔들어 나뭇잎 몇 장을 정원 바닥에 흩뿌리며 \"이것이 진짜 청소다\"라고 일침을 놓았다는 일화는 다도 역사에서 매우 유명합니다. 그는 단순히 눈앞의 쓰레기를 완벽히 제거하는 위생 행동으로서의 청소가 아니라, 쓸어내는 반복적인 신체 동작과 빗자루 소리를 통해 뇌 속에 얽혀 있던 잡념들을 흘려보내고 마음의 여백을 만드는 '동적 명상(Kinesthetic Meditation)'의 도구로 청소를 활용했습니다.\n\n오늘 포스트에서는 센노 리큐가 실천한 정원 청소 루틴 속에 깃든 반복 신체 활동과 뇌 인지 노이즈 감소의 과학적 연관성을 분석하고, 현대인이 일상 속에서 단순한 청소 동작을 통해 뇌의 평온과 깊은 몰입 상태를 유도할 수 있는 3단계 실천 방안을 제시합니다."
+      "ko": "\"정원의 먼지를 쓰는 것은 나뭇잎을 치우는 행위가 아니라, 마음의 불필요한 노이즈를 쓸어내고 자연의 여백을 마주하는 일이다.\"\n\n일본 센고쿠 시대의 전설적인 다도 거장이자, 소박함과 여백의 미를 극대화한 '와비차'를 완성한 센노 리큐. 그는 극심한 정쟁과 전란 속에서도 평정심을 유지하며, 최고 권력자들 앞에서도 당당히 자신만의 다도 철학을 지켜냈습니다. 그의 깊이 있는 예술성과 지혜의 원천은 바로 매일 아침 차실 정원을 빗자루로 정성스럽게 쓸어내렸던 '정원 청소 루틴'에 있었습니다.\n\n리큐의 아들이 정원을 아주 깨끗이 쓸었다고 말하자, 리큐는 단풍나무를 살짝 흔들어 나뭇잎 몇 장을 정원 바닥에 흩뿌리며 \"이것이 진짜 청소다\"라고 일침을 놓았다는 일화는 다도 역사에서 매우 유명합니다. 그는 단순히 눈앞의 쓰레기를 완벽히 제거하는 위생 행동으로서의 청소가 아니라, 쓸어내는 반복적인 신체 동작과 빗자루 소리를 통해 뇌 속에 얽혀 있던 잡념들을 흘려보내고 마음의 여백을 만드는 '동적 명상(Kinesthetic Meditation)'의 도구로 청소를 활용했습니다.\n\n오늘 포스트에서는 센노 리큐가 실천한 정원 청소 루틴 속에 깃든 반복 신체 활동과 뇌 인지 노이즈 감소의 과학적 연관성을 분석하고, 현대인이 일상 속에서 단순한 청소 동작을 통해 뇌의 평온과 깊은 몰입 상태를 유도할 수 있는 3단계 실천 방안을 제시합니다.",
+      "en": "\"Sweeping the dust of the garden is not merely removing fallen leaves, but clearing away unnecessary noise from the mind and confronting the empty space of nature.\"\n\nSen no Rikyu was a legendary tea master of Japan's Sengoku period who perfected 'Wabicha,' maximizing rustic simplicity and the beauty of margin. Even amid intense political strife and warfare, he maintained inner serenity and proudly upheld his tea philosophy before the highest rulers. The source of his profound artistry and wisdom lay in his daily morning 'garden sweeping routine,' where he meticulously swept the tea room garden with a broom.\n\nA famous anecdote in tea history recounts that when Rikyu's son proudly claimed to have swept the garden spotlessly clean, Rikyu gently shook a maple tree, scattering a few fallen leaves onto the garden ground, remarking, \"This is true cleaning.\" For Rikyu, cleaning was not merely a hygienic act to eliminate debris, but a tool for 'Kinesthetic Meditation.' Through repetitive sweeping physical motions and the rhythmic sound of the broom, he washed away tangled thoughts from his brain, creating mental open space.\n\nThis article analyzes the scientific connection between repetitive physical activity and the reduction of cognitive brain noise in Rikyu's garden sweeping routine, providing a 3-step actionable plan for modern individuals to induce brain tranquility and deep immersion through simple cleaning actions.",
+      "ja": "「庭の塵を掃くことは単に落ち葉を片付ける行為ではなく、心の中の不要なノイズを払い、自然の余白と向き合うことである。」\n\n日本の戦国時代の伝説的な茶道の大宗匠であり、素朴さと余白の美を極限まで高めた「侘び茶」を完成させた千利休。彼は激しい政争と戦乱の中でも平静を保ち、天下人の前でも堂々と自らの茶道哲学を貫きました。彼の深い芸術性と智慧の源泉は、まさに毎朝茶室の庭を箒で丁寧に掃き清める「庭掃除ルーティン」にありました。\n\n利休の息子が庭を完璧に掃き清めたと言うと、利休は紅葉の木を少し揺すって数枚の落ち葉を庭の地面に散らし、「これこそが本当の掃除だ」と教えたという逸話は茶道史において非常に有名です。彼は単に目に見えるゴミを取り除く衛生行動としての掃除ではなく、掃くという反復的な身体動作と箒の音を通じて脳内に絡み合った雑念を洗い流し、心の余白を生み出す「動的瞑想（Kinesthetic Meditation）」の手段として掃除を活用しました。\n\n今回の記事では、千利休が実践した庭掃除ルーティンに秘められた反復身体活動と脳の認知ノイズ低減の科学的関連性を distress 分析し、現代人が日常の中で単純な掃除動作を通じて脳の平穏と深い没入状態を導き出すための3段階の実践方法を提示します。",
+      "zh": "“扫清庭院的尘埃，并非单纯地清理落叶，而是扫除心中不必要的杂音，面对大自然的留白。”\n\n千利休是日本战国时代的传奇茶道宗师，他集大成完成了将质朴与留白之美发挥到极致的“侘茶”。即使在剧烈的政治斗争与战乱中，他依然保持着内心的平静，在最高统治者面前也坦然坚守自己的茶道哲学。他深厚的艺术修养与智慧源泉，正源于他每天清晨用扫帚精心打扫茶室庭院的“扫除习惯”。\n\n茶道史上有一个非常著名的轶事：当千利休的儿子宣布自己已经把庭院打扫得一尘不染时，千利休轻轻摇晃枫树，将几片落叶洒落在庭院地面上，并教诫道：“这才是真正的打扫。”对于利休来说，打扫不仅仅是清除眼前垃圾的卫生行为，更是一种“动觉冥想（Kinesthetic Meditation）”。他利用重复的身体动作和扫帚声，洗涤大脑中盘根错节的杂念，创造心灵的留白。\n\n本文分析了千利休实践的庭院扫除习惯中重复身体活动与减少大脑认知噪音之间的科学关联，并提出了现代人在日常生活中通过简单的打扫动作引导大脑平静和深度沉浸的3步骤实践方案。",
+      "es": "\"Barrar el polvo del jardín no es solo quitar hojas caídas, sino eliminar el ruido innecesario de la mente y contemplar los espacios vacíos de la naturaleza.\"\n\nSen no Rikyu fue un legendario maestro del té del período Sengoku de Japón que perfeccionó el 'Wabicha', maximizando la simplicidad rústica y la belleza del espacio libre. Incluso en medio de intensas luchas políticas y guerras, mantuvo la serenidad interior y defendió con orgullo su filosofía del té ante los gobernantes más poderosos. La fuente de su profundo arte y sabiduría residía en su 'rutina matutina de barrido del jardín', donde barría meticulosamente el jardín de la sala de té con una escoba.\n\nUna famosa anécdota en la historia del té relata que cuando el hijo de Rikyu afirmó con orgullo haber barrido el jardín de manera impecable, Rikyu sacudió suavemente un arce, esparciendo algunas hojas caídas sobre el suelo del jardín, comentando: \"Esto es una verdadera limpieza\". Para Rikyu, la limpieza no era un mero acto higiénico para eliminar desechos, sino una herramienta para la 'Meditación Cinestésica'. A través de movimientos físicos repetitivos de barrido y el sonido rítmico de la escoba, disipó los pensamientos enredados de su cerebro, creando un espacio mental libre.\n\nEste artículo analiza la conexión científica entre la actividad física repetitiva y la reducción del ruido cognitivo cerebral en la rutina de barrido del jardín de Rikyu, proporcionando un plan práctico de 3 pasos para que las personas modernas induzcan la tranquilidad mental y una profunda inmersión a través de acciones simples de limpieza.",
+      "de": "„Den Staub des Gartens zu fegen bedeutet nicht nur, heruntergefallene Blätter zu entfernen, sondern unnötigen Lärm aus dem Geist zu fegen und dem Freiraum der Natur zu begegnen.“\n\nSen no Rikyu war ein legendärer Teemeister der japanischen Sengoku-Zeit, der das ‚Wabicha‘ perfektionierte und die rustikale Einfachheit und die Schönheit des Freiraums maximierte. Selbst inmitten heftiger politischer Kämpfe und Kriege bewahrte er seine innere Gelassenheit und vertrat stolz seine Tee-Philosophie vor den höchsten Herrschern. Die Quelle seiner tiefen Kunstfertigkeit und Weisheit lag in seiner täglichen morgendlichen ‚Garten-Feg-Routine‘, bei der er den Teeraum-Garten sorgfältig mit einem Besen fegte.\n\nEine berühmte Anekdote der Tee-Geschichte erzählt, dass, als Rikyus Sohn stolz behauptete, den Garten blitzblank gefegt zu haben, Rikyu sanft an einem Ahornbaum schüttelte, sodass einige Blätter auf den Gartenboden fielen, und bemerkte: „Das ist wahres Reinigen.“ Für Rikyu war Reinigen nicht bloß ein hygienischer Akt zur Beseitigung von Unrat, sondern ein Werkzeug zur ‚Kinästhetischen Meditation‘. Durch wiederholte physische Fegbewegungen und das rhythmische Geräusch des Besens wusch er verstrickte Gedanken aus seinem Gehirn und schuf geistigen Freiraum.\n\nDieser Artikel analysiert den wissenschaftlichen Zusammenhang zwischen wiederholter körperlicher Aktivität und der Beseitigung kognitiven Rauschens im Gehirn in Rikyus Garten-Feg-Routine und bietet einen dreistufigen Praxisplan für moderne Menschen, um durch einfache Reinigungsaktionen innere Ruhe und tiefe Fokussierung zu erreichen.",
+      "fr": "« Balayer la poussière du jardin n'est pas simplement enlever des feuilles mortes, c'est éliminer le bruit inutile de l'esprit et faire face à l'espace vide de la nature. »\n\nSen no Rikyu était un maître de thé légendaire de la période Sengoku au Japon qui a perfectionné le 'Wabicha', maximisant la simplicité rustique et la beauté de l'espace épuré. Même au milieu d'intenses luttes politiques et de guerres, il a maintenu une sérénité intérieure et a fièrement défendu sa philosophie du thé devant les plus hauts dirigeants. La source de son art profond et de sa sagesse résidait dans sa 'routine matinale de balayage du jardin', où il balayait méticuleusement le jardin de la maison de thé avec un balai.\n\nUne célèbre anecdote dans l'histoire du thé raconte que lorsque le fils de Rikyu a affirmé avec fierté avoir balayé le jardin de manière impeccable, Rikyu a secoué doucement un érable, dispersant quelques feuilles mortes sur le sol du jardin, en faisant remarquer : « C'est cela, un vrai nettoyage. » Pour Rikyu, le nettoyage n'était pas un simple acte hygiénique visant à éliminer les débris, mais un outil de 'Méditation Kinesthésique'. Grâce à des mouvements physiques répétitifs de balayage et au son rythmé du balai, il dissipait les pensées entremêlées de son cerveau, créant un espace mental disponible.\n\nCet article analyse le lien scientifique entre l'activité physique répétitive et la réduction du bruit cognitif cérébral dans la routine de balayage du jardin de Rikyu, offrant un plan d'action en 3 étapes pour permettre aux individus modernes d'induire la tranquillité cérébrale et une immersion profonde grâce à de simples gestes de nettoyage.",
+      "pt": "\"Varrer a poeira do jardim não é apenas remover folhas caídas, mas eliminar o ruído desnecessário da mente e contemplar o espaço vazio da natureza.\"\n\nSen no Rikyu foi um lendário mestre de chá do período Sengoku no Japão que aperfeiçoou o 'Wabicha', maximizando a simplicidade rústica e a beleza do espaço vazio. Mesmo em meio a intensas lutas políticas e guerras, ele manteve a serenidade interior e defendeu com orgulho sua filosofia do chá diante dos mais altos governantes. A fonte de sua profunda arte e sabedoria residia em sua 'rotina matinal de varrer o jardim', onde varria meticulosamente o jardim da sala de chá com uma vassoura.\n\nUma famosa anedota na história do chá conta que quando o filho de Rikyu afirmou com orgulho ter varrido o jardim impecavelmente, Rikyu sacudiu suavemente uma árvore de bordo, espalhando algumas folhas caídas pelo chão do jardim, comentando: \"Isso é uma limpeza verdadeira\". Para Rikyu, a limpeza não era um mero ato higiênico para eliminar detritos, mas uma ferramenta para a 'Meditação Cinestésica'. Por meio de movimentos físicos repetitivos e do som rítmico da vassoura, ele limpava os pensamentos emaranhados de seu cérebro, criando espaço mental livre.\n\nEste artigo analisa a conexão científica entre a atividade física repetitiva e a redução do ruído cognitivo cerebral na rotina de varrer o jardim de Rikyu, fornecendo um plano prático de 3 etapas para que as pessoas modernas induzam a tranquilidade mental e uma imersão profunda por meio de ações simples de limpeza.",
+      "id": "\"Menyapu debu di taman bukan sekadar membersihkan dedaunan yang gugur, melainkan menyapu kebisingan yang tidak perlu dari pikiran dan berhadapan dengan ruang kosong alam.\"\n\nSen no Rikyu adalah master teh legendaris dari periode Sengoku di Jepang yang menyempurnakan 'Wabicha', memaksimalkan kesederhanaan rustik dan keindahan ruang kosong. Bahkan di tengah perselisihan politik yang sengit dan peperangan, ia mempertahankan ketenangan batin dan dengan bangga memegang teguh filosofi tehnya di hadapan para penguasa tertinggi. Sumber kesenian dan kebijaksanaannya yang mendalam terletak pada 'rutinitas menyapu taman pagi hari' di mana ia dengan teliti menyapu taman ruang teh dengan sapu.\n\nSebuah anekdot terkenal dalam sejarah teh menceritakan bahwa ketika putra Rikyu dengan bangga mengklaim telah menyapu taman hingga bersih tanpa noda, Rikyu menggoyangkan pohon maple secara perlahan, menyebarkan beberapa daun gugur ke tanah taman, lalu berkata, \"Inilah pembersihan yang sebenarnya.\" Bagi Rikyu, membersihkan bukan sekadar tindakan higienis untuk menghilangkan kotoran, melainkan alat untuk 'Meditasi Kinestetik'. Melalui gerakan fisik menyapu yang berulang dan suara sapu yang berirama, ia mengalirkan pikiran-pikiran yang kusut dari otaknya, menciptakan ruang mental yang tenang.\n\nArtikel ini menganalisis hubungan ilmiah antara aktivitas fisik berulang dan pengurangan kebisingan kognitif otak dalam rutinitas menyapu taman Rikyu, serta memberikan rencana aksi 3 langkah bagi masyarakat modern untuk menginduksi ketenangan otak dan fokus yang mendalam melalui tindakan pembersihan sederhana."
     },
     "whyTitle": {
-      "ko": "빗자루 소리와 뇌 인지 노이즈의 앵커링 효과"
+      "ko": "빗자루 소리와 뇌 인지 노이즈의 앵커링 효과",
+      "en": "Anchoring Effect of Broom Sounds and Brain Cognitive Noise",
+      "ja": "箒の音と脳の認知ノイズのアンカリング効果",
+      "zh": "扫帚声与大脑认知噪音的锚定效应",
+      "es": "Efecto de anclaje del sonido de la escoba y el ruido cognitivo cerebral",
+      "de": "Verankerungseffekt von Besengeräuschen und kognitivem Rauschen im Gehirn",
+      "fr": "Effet d'ancrage des sons de balai et bruit cognitif cérébral",
+      "pt": "Efeito de ancoragem do som da vassoura e o ruído cognitivo cerebral",
+      "id": "Efek Penjangkaran Suara Sapu dan Kebisingan Kognitif Otak"
     },
     "whyDesc": {
-      "ko": "일정한 리듬의 빗자루질은 뇌에 즉각적이고 단순한 물리적 피드백을 전달하여 주의력을 현재로 묶습니다. 이러한 감각 집중은 불안과 산만함을 조장하는 대뇌 피질의 인지 노이즈 신호를 효과적으로 안정시켜 줍니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다."
+      "ko": "일정한 리듬의 빗자루질은 뇌에 즉각적이고 단순한 물리적 피드백을 전달하여 주의력을 현재로 묶습니다. 이러한 감각 집중은 불안과 산만함을 조장하는 대뇌 피질의 인지 노이즈 신호를 효과적으로 안정시켜 줍니다. 신경과학적 연구에 따르면 이 행동은 편도체의 불필요한 불안 반응을 억제하고 시공간 스케치북 회로를 활성화하여 장기 집행 기능을 획기적으로 향상시킵니다.",
+      "en": "Rhythmic sweeping delivers immediate and simple physical feedback to the brain, anchoring attention to the present. This sensory focus effectively stabilizes cognitive noise signals in the cerebral cortex that foster anxiety and distraction. According to neuroscientific research, this action suppresses unnecessary anxiety responses in the amygdala and activates visuospatial sketchpad circuits, dramatically enhancing long-term executive function.",
+      "ja": "一定のリズムによる箒がけは、脳に即座で単純な物理的フィードバックを伝達し、注意力を「現在」に繋ぎ止めます。このような感覚の集中は、不安や気を散らす大脳皮質の認知ノイズ信号を効果的に安定させます。神経科学的研究によると、この行動は扁桃体の不要な不安反応を抑制し、視空間スケッチパッド回路を活性化して長期的な実行機能を飛躍的に向上させます。",
+      "zh": "有节奏地扫地向大脑传递即时而简单的物理反馈，将注意力锚定在当下。这种感官集中有效地稳定了大脑皮层中引发焦虑和分心的认知噪音信号。根据神经科学研究，这种行为能抑制杏仁核不必要的焦虑反应，激活视觉空间草稿簿回路，从而显著提升长期执行功能。",
+      "es": "El barrido rítmico transmite una retroalimentación física inmediata y simple al cerebro, anclando la atención al presente. Este enfoque sensorial estabiliza eficazmente las señales de ruido cognitivo en la corteza cerebral que fomentan la ansiedad y la distracción. Según investigaciones neurocientíficas, esta acción suprime las respuestas de ansiedad innecesarias en la amígdala y activa los circuitos de la agenda visoespacial, mejorando drásticamente la función ejecutiva a largo plazo.",
+      "de": "Rhythmisches Fegen liefert dem Gehirn sofortiges und einfaches physisches Feedback und verankert die Aufmerksamkeit in der Gegenwart. Dieser sensorische Fokus stabilisiert effektiv kognitive Rauschsignale in der Großhirnrinde, die Angst und Ablenkung fördern. Neurowissenschaftlichen Studien zufolge unterdrückt diese Handlung unnötige Angstreaktionen in der Amygdala und aktiviert visuell-räumliche Notizblock-Schaltkreise, was die langfristige exekutive Funktion drastisch verbessert.",
+      "fr": "Un balayage rythmé fournit un retour physique immédiat et simple au cerveau, ancrant l'attention dans le présent. Cette focalisation sensorielle stabilise efficacement les signaux de bruit cognitif dans le cortex cérébral qui favorisent l'anxiété et la distraction. Selon les recherches neuroscientifiques, cette action supprime les réponses d'anxiété inutiles dans l'amygdale et active les circuits du calpin visuo-spatial, améliorant considérablement la fonction exécutive à long terme.",
+      "pt": "A varredura rítmica fornece um feedback físico imediato e simples ao cérebro, ancorando a atenção no presente. Esse foco sensorial estabiliza eficazmente os sinais de ruído cognitivo no córtex cerebral que estimulam a ansiedade e a distração. De acordo com pesquisas neurocientíficas, essa ação suprime respostas de ansiedade desnecessárias na amígdala e ativa circuitos do bloco de rascunho viso-espacial, melhorando dramaticamente a função executiva de longo prazo.",
+      "id": "Menyapu secara berirama memberikan umpan balik fisik yang langsung dan sederhana ke otak, mengancarkan perhatian pada masa kini. Fokus sensorik ini secara efektif menstabilkan sinyal kebisingan kognitif di korteks serebral yang memicu kecemasan dan distraksi. Menurut penelitian ilmu saraf, tindakan ini menekan respon kecemasan yang tidak perlu di amigdala dan mengaktifkan sirkuit visuospatial sketchpad, secara dramatis meningkatkan fungsi eksekutif jangka panjang."
     },
     "cautionTitle": {
-      "ko": "마음의 먼지를 비우기 위한 다도 거장의 조언"
+      "ko": "마음의 먼지를 비우기 위한 다도 거장의 조언",
+      "en": "Grand Tea Master's Advice for Emptying the Mind's Dust",
+      "ja": "心の塵を空にするための茶道大宗匠のアドバイス",
+      "zh": "茶道宗师关于清空心灵尘埃的建议",
+      "es": "Consejo del gran maestro del té para vaciar el polvo de la mente",
+      "de": "Ratschlag des Teemeisters zum Entleeren des Geistesstaubes",
+      "fr": "Conseil du grand maître de thé pour vider la poussière de l'esprit",
+      "pt": "Conselho do grande mestre de chá para esvaziar a poeira da mente",
+      "id": "Saran Master Teh untuk Membersihkan Debu Pikiran"
     },
     "cautionDesc": {
-      "ko": "쓸어야 할 진짜 먼지는 땅이 아닌 마음에 있습니다. 매일 아침 가벼운 신체 반복 활동을 통해 뇌에 고요함과 여백을 선물해 보십시오. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다."
+      "ko": "쓸어야 할 진짜 먼지는 땅이 아닌 마음에 있습니다. 매일 아침 가벼운 신체 반복 활동을 통해 뇌에 고요함과 여백을 선물해 보십시오. 무리하게 의지력에만 의존하려 하지 말고, 행동이 자연스럽게 유발될 수밖에 없는 물리적 환경과 습관 신호를 미리 설계하는 것이 지속성의 핵심입니다.",
+      "en": "The real dust to be swept is in the mind, not on the ground. Gift your brain tranquility and margin every morning through light repetitive physical activity. Do not rely solely on willpower; pre-designing a physical environment and habit cues that naturally trigger the action is the key to sustainability.",
+      "ja": "掃くべき本当の塵は地面ではなく心の中にあります。毎朝の軽い身体的反復活動を通じて、脳に静寂と余白をプレゼントしてみてください。無理に意志の力だけに頼ろうとせず、行動が自然と誘発される物理的環境と習慣の合図を事前に設計しておくことが継続性の鍵です。",
+      "zh": "真正需要扫除的尘埃不在地面，而在心中。每天清晨通过轻微的重复性身体活动，赐予大脑平静与留白。不要仅仅依赖意志力，预先设计好能自然引发该行为的物理环境和习惯提示才是持之以恒的关键。",
+      "es": "El verdadero polvo que se debe barrer está en la mente, no en el suelo. Regale a su cerebro tranquilidad y espacio libre cada mañana a través de una actividad física repetitiva ligera. No dependa únicamente de la fuerza de voluntad; diseñar de antemano un entorno físico y señales de hábitos que desencadenen la acción de forma natural es la clave de la sostenibilidad.",
+      "de": "Der wahre Staub, der gefegt werden muss, liegt im Geist, nicht auf dem Boden. Schenken Sie Ihrem Gehirn jeden Morgen durch leichte, sich wiederholende körperliche Aktivität Ruhe und Freiraum. Verlassen Sie sich nicht nur auf Willenskraft; das vorherige Gestalten einer physischen Umgebung und von Gewohnheitssignalen, die die Handlung natürlich auslösen, ist der Schlüssel zur Nachhaltigkeit.",
+      "fr": "La vraie poussière à balayer est dans l'esprit, pas sur le sol. Offrez à votre cerveau sérénité et espace chaque matin grâce à une légère activité physique répétitive. Ne comptez pas uniquement sur la volonté ; concevoir à l'avance un environnement physique et des déclencheurs d'habitudes qui provoquent naturellement l'action est la clé de la durabilité.",
+      "pt": "A verdadeira poeira a ser varrida está na mente, não no chão. Presenteie seu cérebro com tranquilidade e espaço livre todas as manhãs por meio de uma leve atividade física repetitiva. Não dependa apenas da força de vontade; projetar com antecedência um ambiente físico e gatilhos de hábitos que desencadeiem a ação naturalmente é a chave para a sustentabilidade.",
+      "id": "Debu sejati yang harus disapu ada di dalam pikiran, bukan di tanah. Hadiahkan ketenangan dan ruang kosong pada otak Anda setiap pagi melalui aktivitas fisik berulang yang ringan. Jangan hanya mengandalkan kemauan keras; merancang lingkungan fisik dan isyarat kebiasaan secara terlebih dahulu yang secara alami memicu tindakan adalah kunci keberlanjutan."
     },
     "steps": [
       {
         "name": {
-          "ko": "타겟 물리 청소 구역 및 도구 지정"
+          "ko": "타겟 물리 청소 구역 및 도구 지정",
+          "en": "Specify Target Physical Cleaning Zone and Tools",
+          "ja": "ターゲット物理掃除区域および道具の指定",
+          "zh": "指定目标物理打扫区域及工具",
+          "es": "Especificar la zona de limpieza física y las herramientas",
+          "de": "Ziel-Reinigungsbereich und Werkzeuge festlegen",
+          "fr": "Spécifier la zone de nettoyage physique et les outils",
+          "pt": "Especificar a zona de limpeza física e ferramentas",
+          "id": "Tentukan Area Pembersihan Fisik Target dan Alat"
         },
         "text": {
-          "ko": "아침에 청소할 좁은 영역을 정하고 빗자루나 걸레 등 수동 도구를 준비합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다."
+          "ko": "아침에 청소할 좁은 영역을 정하고 빗자루나 걸레 등 수동 도구를 준비합니다. 외부의 산만 요소를 철저히 단단히 차단하고, 뇌의 전두엽에 명확한 실행 목표와 프레임을 확립하는 데 온전히 집중합니다.",
+          "en": "Select a small area to clean in the morning and prepare manual tools such as a broom or cloth. Thoroughly block external distractions and fully focus on establishing a clear execution goal and frame in the frontal lobe of the brain.",
+          "ja": "朝掃除する狭い領域を決め、箒や雑巾などの手動道具を用意します。外部의気を散らす要素を徹底的に遮断し、脳の前頭葉に明確な実行目標とフレームを確立することに全集中します。",
+          "zh": "设定清晨打扫的一小块区域，准备好扫帚或抹布等手动工具。彻底隔绝外部干扰因素，完全专注于在大脑额叶建立明确的执行目标与框架。",
+          "es": "Seleccione una pequeña área para limpiar por la mañana y prepare herramientas manuales como una escoba o un paño. Bloquee minuciosamente las distracciones externas y concéntrese por completo en establecer un objetivo y marco de ejecución claros en el lóbulo frontal del cerebro.",
+          "de": "Wählen Sie einen kleinen Bereich aus, der morgens gereinigt werden soll, und bereiten Sie manuelle Werkzeuge wie einen Besen oder ein Tuch vor. Blockieren Sie externe Ablenkungen gründlich und konzentrieren Sie sich voll und ganz darauf, ein klares Ausführungsziel im Frontallappen des Gehirns zu etablieren.",
+          "fr": "Sélectionnez une petite zone à nettoyer le matin et préparez des outils manuels comme un balai ou un chiffon. Bloquez soigneusement les distractions extérieures et concentrez-vous pleinement sur l'établissement d'un objectif d'exécution clair dans le lobe frontal du cerveau.",
+          "pt": "Selecione uma pequena área para limpar pela manhã e prepare ferramentas manuais, como uma vassoura ou pano. Bloqueie completamente as distrações externas e concentre-se totalmente em estabelecer uma meta de execução clara no lobo frontal do cérebro.",
+          "id": "Pilih area kecil untuk dibersihkan di pagi hari dan siapkan alat manual seperti sapu atau kain lap. Blokir gangguan luar secara menyeluruh dan fokus penuh untuk menetapkan tujuan eksekusi dan kerangka yang jelas di lobus frontal otak."
         }
       },
       {
         "name": {
-          "ko": "리드미컬한 반복 행동과 감각 집중"
+          "ko": "리드미컬한 반복 행동과 감각 집중",
+          "en": "Rhythmic Repetitive Action and Sensory Focus",
+          "ja": "リズミカルな反復行動と感覚集中",
+          "zh": "有节奏的重复动作与感官集中",
+          "es": "Acción repetitiva rítmica y enfoque sensorial",
+          "de": "Rhythmische wiederholte Handlung und sensorischer Fokus",
+          "fr": "Action répétitive rythmique et focalisation sensorielle",
+          "pt": "Ação repetitiva rítmica e foco sensorial",
+          "id": "Tindakan Berulang Berirama dan Fokus Sensorik"
         },
         "text": {
-          "ko": "일정한 리듬으로 쓸기나 닦기를 행하며, 빗자루 소리와 움직임 촉각 피드백에만 모든 의식을 고정합니다."
+          "ko": "일정한 리듬으로 쓸기나 닦기를 행하며, 빗자루 소리와 움직임 촉각 피드백에만 모든 의식을 고정합니다.",
+          "en": "Perform sweeping or wiping at a constant rhythm, locking all consciousness onto the sound of the broom and the tactile feedback of movement.",
+          "ja": "一定のリズムで掃いたり拭いたりを行い、箒の音と動きの触覚フィードバックだけにすべての意識を固定します。",
+          "zh": "以恒定的节奏扫地或擦拭，将所有意识紧紧锁定在扫帚声和动作的触觉反馈上。",
+          "es": "Realice el barrido o la limpieza a un ritmo constante, fijando toda la conciencia únicamente en el sonido de la escoba y la retroalimentación táctil del movimiento.",
+          "de": "Führen Sie das Fegen oder Wischen in einem gleichmäßigen Rhythmus aus und verankern Sie das gesamte Bewusstsein nur auf dem Geräusch des Besens und dem taktilen Feedback der Bewegung.",
+          "fr": "Effectuez le balayage ou l'essuyage à un rythme constant, en verrouillant toute votre conscience sur le son du balai et le retour tactile du mouvement.",
+          "pt": "Realize a varredura ou limpeza em um ritmo constante, fixando toda a consciência apenas no som da vassoura e no feedback tátil do movimento.",
+          "id": "Lakukan kegiatan menyapu atau mengelap dengan irama yang stabil, menguncikan seluruh kesadaran hanya pada suara sapu dan umpan balik taktil dari gerakan."
         }
       },
       {
         "name": {
-          "ko": "의도적인 여백 감상과 루틴 완결"
+          "ko": "의도적인 여백 감상과 루틴 완결",
+          "en": "Intentional Margin Appreciation and Routine Completion",
+          "ja": "意図的な余白の鑑賞とルーティンの完結",
+          "zh": "有意识的留白欣赏与习惯完成",
+          "es": "Apreciación intencional del espacio libre y finalización de la rutina",
+          "de": "Absichtliche Wertschätzung des Freiraums und Abschluss der Routine",
+          "fr": "Appréciation intentionnelle de l'espace vide et finalisation de la routine",
+          "pt": "Apreciação intencional do espaço livre e conclusão da rotina",
+          "id": "Apresiasi Ruang Kosong Sengaja dan Penyelesaian Rutinitas"
         },
         "text": {
-          "ko": "5분 동안의 활동을 종료한 후, 정돈된 구역과 약간의 흐트러짐을 조용히 지켜보며 내면의 고요를 음미합니다."
+          "ko": "5분 동안의 활동을 종료한 후, 정돈된 구역과 약간의 흐트러짐을 조용히 지켜보며 내면의 고요를 음미합니다.",
+          "en": "After finishing 5 minutes of activity, quietly observe the tidy area along with its subtle natural imperfections, savoring inner stillness.",
+          "ja": "5分間の活動を終了した後、整えられた区域とわずかな散らかりを静かに見つめ、内面の静寂を味わいます。",
+          "zh": "结束5分钟的活动后，静静地观察整洁的区域以及微小的自然痕迹，细细体味内心的宁静。",
+          "es": "Después de finalizar 5 minutos de actividad, observe en silencio la zona ordenada junto con sus sutiles imperfecciones naturales, saboreando la quietud interior.",
+          "de": "Betrachten Sie nach Abschluss der 5-minütigen Aktivität ruhig den ordentlichen Bereich zusammen mit seinen subtilen natürlichen Unvollkommenheiten und genießen Sie die innere Stille.",
+          "fr": "Après avoir terminé 5 minutes d'activité, observez en silence la zone rangée ainsi que ses subtiles imperfections naturelles, en savourant la quiétude intérieure.",
+          "pt": "Após terminar 5 minutos de atividade, observe silenciosamente a área organizada com suas sutis imperfeições naturais, saboreando a quietude interior.",
+          "id": "Setelah menyelesaikan aktivitas selama 5 menit, amati area yang rapi beserta sedikit ketidaksempurnaan alaminya dengan tenang, menikmati ketenangan batin."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "청소를 명상으로 활용하려면 어떻게 해야 하나요?"
+          "ko": "청소를 명상으로 활용하려면 어떻게 해야 하나요?",
+          "en": "How can I use cleaning as meditation?",
+          "ja": "掃除を瞑想として活用するにはどうすればよいですか？",
+          "zh": "如何将打扫用作冥想？",
+          "es": "¿Cómo puedo utilizar la limpieza como meditación?",
+          "de": "Wie kann ich Reinigen als Meditation nutzen?",
+          "fr": "Comment puis-je utiliser le nettoyage comme méditation ?",
+          "pt": "Como posso usar a limpeza como meditação?",
+          "id": "Bagaimana cara memanfaatkan kegiatan membersihkan sebagai meditasi?"
         },
         "answer": {
-          "ko": "빠른 마무리가 아니라, 비질 소리와 손에 오는 촉감 등 감각 피드백 자체에 집중하는 것이 효과적입니다."
+          "ko": "빠른 마무리가 아니라, 비질 소리와 손에 오는 촉감 등 감각 피드백 자체에 집중하는 것이 효과적입니다.",
+          "en": "Instead of focusing on finishing quickly, it is effective to concentrate on the sensory feedback itself, such as the sweeping sound and the tactile sensation in your hands.",
+          "ja": "素早く終わらせることではなく、掃く音や手に伝わる感触など、感覚的フィードバックそのものに集中することが効果的です。",
+          "zh": "不要专注于快速完成，而是专注于感官反馈本身，例如扫地声和手上的触感，这样非常有效。",
+          "es": "En lugar de concentrarse en terminar rápidamente, es eficaz concentrarse en la propia retroalimentación sensorial, como el sonido del barrido y la sensación táctil en las manos.",
+          "de": "Anstatt sich auf ein schnelles Beenden zu konzentrieren, ist es effektiv, sich auf das sensorische Feedback selbst zu konzentrieren, wie das Feggeräusch und das taktile Gefühl in Ihren Händen.",
+          "fr": "Au lieu de chercher à finir rapidement, il est efficace de se concentrer sur le retour sensoriel lui-même, comme le son du balayage et la sensation tactile dans vos mains.",
+          "pt": "Em vez de se concentrar em terminar rapidamente, é eficaz concentrar-se no próprio feedback sensorial, como o som da varredura e a sensação tátil nas mãos.",
+          "id": "Alih-alih berfokus pada penyelesaian dengan cepat, berfokuslah pada umpan balik sensorik itu sendiri, seperti suara sapuan dan sensasi taktil di tangan Anda."
         }
       }
     ]

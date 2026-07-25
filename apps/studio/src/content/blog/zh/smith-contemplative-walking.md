@@ -1,6 +1,6 @@
 ---
-title: "잠 가운을 입고 15마일을 걸은 학자: 애덤 스미스의 사색적 산책 습관"
-description: "아이디어를 머릿속으로 조립하기 위해 완전히 몰입한 채 장거리 산책을 즐겼던 애덤 스미스. 디지털 자극을 차단하고 걷는 행위가 디폴트 모드 네트워크를 활성화하여 창의성과 집중력을 극대화하는 신경과학적 원리를 해부합니다."
+title: "身穿睡袍步行 15 英里的学者：亚当·斯密的沉思散步习惯"
+description: "为了在脑海中构筑思想，亚当·斯密非常喜欢沉浸在长距离散步中。解构切断数字刺激并保持步行如何激活预设模式网络（DMN），从而极大地提升创造力与专注力的神经科学原理。"
 pubDate: "2026-06-02"
 updatedDate: "2026-06-02"
 category: "BuildSelf"
@@ -8,25 +8,25 @@ tags: ["생산성", "사색", "창의성"]
 heroImage: "/images/blog/smith_contemplative_walking.webp"
 app: "buildself"
 formatVersion: 4
-authority: "Smith Contemplative Walking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+authority: "亚当·斯密沉思散步历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究"
 steps:
-  - name: "디지털 장비 격리 및 목적어 설정"
-    text: "스마트폰을 무음으로 설정하여 가방에 깊이 넣거나 집에 두고 나가며, 사색을 통해 풀고 싶은 단 하나의 핵심 주제나 질문을 명확히 설정합니다."
-  - name: "일정한 속도로 평지 걷기"
-    text: "주변 풍경을 억지로 관찰하려 애쓰지 말고, 발걸음 소리와 호흡의 리듬에 의식을 맡긴 채 평탄하고 한적한 길을 가볍게 걷습니다."
-  - name: "생각의 연결망 수집 및 즉각적 메모"
-    text: "걷는 도중 뇌리에서 복잡한 논리가 조립되어 문장이나 아이디어로 도출되면, 즉시 멈추고 수첩에 핵심 단어를 간략히 기록합니다."
+  - name: "隔离数字设备并确立单一思考主题"
+    text: "将手机设为静音深藏于包底或留在家中，明确设置一个想要通过散步思考去破解的核心主题或问题。"
+  - name: "以恒定速度在平坦路面上行走"
+    text: "无需刻意去观察周围的景色，只需将意识安放在脚步的节奏与呼吸的律动上，轻松漫步于平坦幽静的小路上。"
+  - name: "捕捉思想联结并即刻记录灵感"
+    text: "行走过程中，当脑海中原本复杂的逻辑逐渐盘梳成清晰的句子或灵感时，立刻停下脚步，在随身便笺上简短记录关键词。"
 faqs:
-  - question: "사색 산책의 적정 거리나 시간은 어느 정도인가요?"
-    answer: "스미스처럼 15마일을 걸을 필요는 없습니다. 뇌의 혈류 개선과 DMN 활성화를 위한 임상적 권장 시간은 최소 20분에서 최대 40분 정도입니다. 거리보다는 디지털 자극을 완전히 차단한 집중 상태를 유지하는 시간이 중요합니다."
-  - question: "실외로 나가기 어려울 때는 실내에서 트레드밀을 걸어도 되나요?"
-    answer: "가능합니다. 다만 실내에서 트레드밀을 탈 때는 스마트폰 화면이나 TV 모니터를 보며 걷지 않는 것이 중요합니다. 시선은 벽의 한 점이나 빈 곳을 향하고, 외부 시각 자극 유입을 원천 차단한 채 발걸음 감각에만 몰입해야 사색적 보행의 효과를 얻을 수 있습니다."
+  - question: "沉思散步的合适距离或时长大概是多少？"
+    answer: "无需像亚当·斯密那样步行 15 英里。促进大脑血液循环与激活预设模式网络（DMN）的临床建议时长为 20 到 40 分钟。相比于行走距离，保持完全切断数字刺激的专注状态更为核心。"
+  - question: "如果不方便出门，可以在室内的跑步机上散步吗？"
+    answer: "完全可以。不过在室内使用跑步机时，切记不要边看手机屏幕或电视。请将视线定格在墙壁的某一点或空旷处，彻底隔绝外部人工视觉刺激，只专注于双脚踩踏的节奏感，方能获得沉思散步的成效。"
 
 ---
 
-"학자의 사색은 조용한 산책길 위에서 가장 완전한 질서를 갖춘다." 🚶‍♂️
+“学者的沉思，在宁静的散步小径上方能展现最完美的秩序。” 🚶‍♂️
 
-현대 경제학의 이론적 기초를 정립하고 자유시장 경제의 보이지 않는 손을 규명한 사상가 애덤 스미스. 그의 깊은 통찰력 뒤에는 평생 유지해 온 독특한 습관이 있었습니다. 스미스는 복잡한 아이디어를 구조화할 때 정원이나 한적한 길을 하염없이 걷는 행동을 반복했습니다. 하루는 아침에 정원을 걷다가 생각에 극도로 몰입한 나머지, 자신이 잠 가운(Nightgown)을 입고 있다는 사실도 망각한 채 무려 15마일(약 24km)을 걸어 옆 마을까지 걸어갔습니다. 교회 종소리를 듣고서야 정신을 차린 그는 그제야 집으로 돌아왔습니다. 뇌를 자극하여 복잡한 인과관계를 조립하고 창의적 생각을 도출해낸 애덤 스미스의 사색적 산책 메커니즘을 상세히 해부합니다.
+奠定现代经济学理论基础、阐明自由市场经济“看不见的手”的思想家亚当·斯密。在他深刻洞察力的背后，有着一项终生保持的独特习惯。每当斯密需要梳理复杂的思想体系时，他就会在花园或幽静的小路上漫无目的地踱步。有一天清晨他在花园散步，因极度沉浸于思考，竟完全忘记自己身穿睡袍（Nightgown），一连走了 15 英里（约 24 公里）一直走到隔壁小镇。直到听见教会的钟声响起，他才如梦初醒折返回家。今天我们将详细解构亚当·斯密通过沉思散步刺激大脑组装复杂因果关系并推演创造性思想的运作机制。
 
 <div class="my-8 p-6 rounded-[2rem] border border-indigo-500/10 bg-indigo-500/5 dark:border-indigo-500/20 dark:bg-indigo-900/10 flex items-center gap-4">
   <span class="text-2xl">🛡️</span>
@@ -35,50 +35,50 @@ faqs:
       历史 and 学术依据
     </h5>
     <p class="text-xs text-indigo-700/80 dark:text-indigo-400/80 m-0 mt-1.5 leading-relaxed">
-      关于 smith-contemplative-walking 的内容基于 <strong>Smith Contemplative Walking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구</strong> 撰写。
+      关于 smith-contemplative-walking 的内容基于 <strong>亚当·斯密沉思散步历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究</strong> 撰写。
     </p>
   </div>
 </div>
 
 ---
 
-## 디지털 차단 보행과 디폴트 모드 네트워크의 시너지
+## 数字屏蔽步行与预设模式网络（DMN）的协同效应
 
-스마트폰이나 모니터 같은 디지털 화면을 보며 걸을 때는 시각 정보 처리를 위해 뇌의 자원이 급격히 소모됩니다. 반면 모든 디지털 장비를 차단하고 일정한 템포로 걸으면, 대뇌의 시각 피질 부하가 낮아지며 창의적 영감을 유도하는 '디폴트 모드 네트워크(DMN)'가 고도로 활성화됩니다. 스탠퍼드 대학교의 연구에 따르면 보행 시 창의적 아이디어 발상률이 앉아있을 때보다 평균 60% 향상됩니다. 걷는 동안 유도되는 심폐 순환 활성화는 전두엽에 신선한 산소를 공급하여 인지적 유연성과 개념 통합 속도를 현격히 높여줍니다.
+当边走路边看手机或屏幕等数字设备时，大脑资源会因处理大量的视觉信息而急剧消耗。相反，如果切断所有数字设备并以恒定的节奏行走，大脑视觉皮层的负担就会降低，从而高度激活能够诱发创意灵感的“预设模式网络（DMN）”。斯坦福大学的研究表明，步行时的创意灵感产出率比坐着时平均提升了 60%。散步引发的心肺血液循环还能向前额叶皮层输送新鲜氧气，显著提高认知灵活性与概念整合速度。
 
 ---
 
-## 주의사항 및 팁
+## 注意事项与实用建议
 
-사색적 산책의 가장 큰 함정은 걸으면서 스마트폰을 확인하거나 음악, 팟캐스트를 듣는 것입니다. 외부 청각/시각 자극이 지속적으로 뇌에 주입되면 뇌는 디폴트 모드 네트워크(DMN)로 전환되지 못하고 다시 자극 처리 모드로 돌아갑니다. 따라서 사색 산책을 할 때는 이어폰을 반드시 빼고, 주변의 자연음 외에는 어떤 인공적인 자극도 허용하지 않아야 진정한 인지적 환기와 정리가 이루어집니다.
+沉思散步最大的陷阱是在行走时查看手机或听音乐、播客。当听觉或视觉刺激持续注入大脑时，大脑就无法切换至预设模式网络（DMN），而是重回刺激处理模式。因此，进行沉思散步时，务必摘下耳机，除了周围的自然声音外，不接纳任何人工刺激，这样才能实现真正的大脑整理与换气。
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 1</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">디지털 장비 격리 및 목적어 설정</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">隔离数字设备并确立单一思考主题</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    스마트폰을 무음으로 설정하여 가방에 깊이 넣거나 집에 두고 나가며, 사색을 통해 풀고 싶은 단 하나의 핵심 주제나 질문을 명확히 설정합니다.
+    将手机设为静音深藏于包底或留在家中，明确设置一个想要通过散步思考去破解的核心主题或问题。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 2</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">일정한 속도로 평지 걷기</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">以恒定速度在平坦路面上行走</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    주변 풍경을 억지로 관찰하려 애쓰지 말고, 발걸음 소리와 호흡의 리듬에 의식을 맡긴 채 평탄하고 한적한 길을 가볍게 걷습니다.
+    无需刻意去观察周围的景色，只需将意识安放在脚步的节奏与呼吸的律动上，轻松漫步于平坦幽静的小路上。
   </p>
 </div>
 
 <div class="my-8 p-6 md:p-8 rounded-[2rem] border border-slate-200/80 bg-white/50 dark:border-white/5 dark:bg-slate-900/30 shadow-sm backdrop-blur-md">
   <div class="flex items-center gap-3 mb-4">
     <span class="px-3 py-1 text-xs font-bold bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 rounded-full border border-indigo-500/20 tracking-wider">步骤 3</span>
-    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">생각의 연결망 수집 및 즉각적 메모</h4>
+    <h4 class="text-xl font-extrabold text-slate-900 dark:text-white m-0">捕捉思想联结并即刻记录灵感</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm md:text-base m-0">
-    걷는 도중 뇌리에서 복잡한 논리가 조립되어 문장이나 아이디어로 도출되면, 즉시 멈추고 수첩에 핵심 단어를 간략히 기록합니다.
+    行走过程中，当脑海中原本复杂的逻辑逐渐盘梳成清晰的句子或灵感时，立刻停下脚步，在随身便笺上简短记录关键词。
   </p>
 </div>
 
@@ -89,21 +89,21 @@ faqs:
   
   <details class="group cursor-pointer" open>
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="true">
-      <span>사색 산책의 적정 거리나 시간은 어느 정도인가요?</span>
+      <span>沉思散步的合适距离或时长大概是多少？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      스미스처럼 15마일을 걸을 필요는 없습니다. 뇌의 혈류 개선과 DMN 활성화를 위한 임상적 권장 시간은 최소 20분에서 최대 40분 정도입니다. 거리보다는 디지털 자극을 완전히 차단한 집중 상태를 유지하는 시간이 중요합니다.
+      无需像亚当·斯密那样步行 15 英里。促进大脑血液循环与激活预设模式网络（DMN）的临床建议时长为 20 到 40 分钟。相比于行走距离，保持完全切断数字刺激的专注状态更为核心。
     </p>
   </details>
   <div class="my-4 border-t border-slate-100 dark:border-slate-800/60"></div>
   <details class="group cursor-pointer">
     <summary class="flex justify-between items-center font-bold text-slate-900 dark:text-white list-none" role="button" aria-expanded="false">
-      <span>실외로 나가기 어려울 때는 실내에서 트레드밀을 걸어도 되나요?</span>
+      <span>如果不方便出门，可以在室内的跑步机上散步吗？</span>
       <span class="transition-transform group-open:rotate-180 text-xs text-slate-400">▼</span>
     </summary>
     <p class="mt-3 text-sm text-slate-650 dark:text-slate-300 leading-relaxed pl-1">
-      가능합니다. 다만 실내에서 트레드밀을 탈 때는 스마트폰 화면이나 TV 모니터를 보며 걷지 않는 것이 중요합니다. 시선은 벽의 한 점이나 빈 곳을 향하고, 외부 시각 자극 유입을 원천 차단한 채 발걸음 감각에만 몰입해야 사색적 보행의 효과를 얻을 수 있습니다.
+      完全可以。不过在室内使用跑步机时，切记不要边看手机屏幕或电视。请将视线定格在墙壁的某一点或空旷处，彻底隔绝外部人工视觉刺激，只专注于双脚踩踏的节奏感，方能获得沉思散步的成效。
     </p>
   </details>
 </div>

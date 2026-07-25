@@ -1,62 +1,190 @@
 {
   "skinner-behavior-tracking": {
     "title": {
-      "ko": "스스로를 디자인하다: 행동주의 거장 스키너의 시각 피드백 기록 습관"
+      "ko": "스스로를 디자인하다: 행동주의 거장 스키너의 시각 피드백 기록 습관",
+      "en": "Designing Oneself: Behaviorist Master B.F. Skinner's Visual Feedback Tracking Routine",
+      "ja": "自分をデザインする：行動主義の巨匠スキナーの視覚的フィードバック記録習慣",
+      "zh": "设计自我：行为主义大师斯金纳的视觉反馈记录习惯",
+      "es": "Diseñarse a uno mismo: El hábito de registro de retroalimentación visual del maestro conductista B.F. Skinner",
+      "de": "Sich selbst gestalten: Die visuelle Feedback-Aufzeichnungsgewohnheit des Behaviorismus-Meisters B.F. Skinner",
+      "fr": "Se concevoir soi-même : La routine de suivi visuel du maître du comportementalisme B.F. Skinner",
+      "pt": "Projetando a si mesmo: O hábito de registro de feedback visual do mestre behaviorista B.F. Skinner",
+      "id": "Merancang Diri Sendiri: Rutin Pencatatan Upan Balik Visual Maestro Behavioris B.F. Skinner"
     },
     "description": {
-      "ko": "행동 심리학의 거장 B. F. 스키너의 데일리 행동 수량화 기록 습관을 소개합니다. 실시간 수치 피드백을 통해 뇌의 행동 기제를 강화하는 3단계 실천 가이드."
+      "ko": "행동 심리학의 거장 B. F. 스키너의 데일리 행동 수량화 기록 습관을 소개합니다. 실시간 수치 피드백을 통해 뇌의 행동 기제를 강화하는 3단계 실천 가이드.",
+      "en": "Introducing daily behavioral quantification tracking from B.F. Skinner, master of behavioral psychology. A 3-step practical guide to reinforcing brain behavior mechanisms via real-time numerical feedback.",
+      "ja": "行動心理学の巨匠B.F.スキナーのデイリー行動定量化記録習慣を紹介します。リアルタイムな数値フィードバックを通じて脳の行動メカニズムを強化する3段階の実천ガイド。",
+      "zh": "介绍行为心理学大师 B. F. 斯金纳的每日行为量化记录习惯。通过实时数据反馈强化大脑行为机制的三步实践指南。",
+      "es": "Presentamos el hábito de cuantificación conductual diaria de B. F. Skinner, maestro de la psicología conductual. Una guía práctica de 3 pasos para reforzar los mecanismos cerebrales a través de retroalimentación numérica en tiempo real.",
+      "de": "Vorstellung der täglichen verhaltensquantifizierenden Aufzeichnungsgewohnheit von B. F. Skinner, dem Meister der Verhaltenspsychologie. Ein praktischer 3-Schritte-Leitfaden zur Stärkung der Verhaltensmechanismen des Gehirns durch Echtzeit-Zahlenfeedback.",
+      "fr": "Présentation de la routine quotidienne de quantification du comportement de B. F. Skinner, maître de la psychologie comportementale. Un guide pratique en 3 étapes pour renforcer les mécanismes cérébraux grâce à un retour numérique en temps réel.",
+      "pt": "Apresentando o hábito de quantificação comportamental diária de B. F. Skinner, mestre da psicologia comportamental. Um guia prático de 3 etapas para reforçar os mecanismos cerebrais por meio de feedback numérico em tempo real.",
+      "id": "Memperkenalkan kebiasaan pelacakan kuantifikasi perilaku harian B. F. Skinner, maestro psikologi perilaku. Panduan praktis 3 langkah untuk memperkuat mekanisme perilaku otak melalui umpan balik numerik real-time."
     },
     "authority": {
-      "ko": "Skinner Behavior Tracking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구"
+      "ko": "Skinner Behavior Tracking 역사적 평전 및 자서전 기록 고증 & 인지신경과학(Cognitive Neuroscience) 연구",
+      "en": "Historical biographies, autobiographical records of Skinner's behavior tracking & Cognitive Neuroscience research",
+      "ja": "スキナーの行動追跡に関する歴史的評伝・自伝的記録の考証および認知神経科学（Cognitive Neuroscience）研究",
+      "zh": "斯金纳行为追踪历史评传及自传记录考证与认知神经科学（Cognitive Neuroscience）研究",
+      "es": "Biografías históricas, registros autobiográficos del seguimiento conductual de Skinner e investigación en neurociencia cognitiva (Cognitive Neuroscience)",
+      "de": "Historische Biografien, autobiografische Aufzeichnungen von Skinners Verhaltensnachverfolgung & kognitionswissenschaftliche (Cognitive Neuroscience) Forschung",
+      "fr": "Biographies historiques, récits autobiographiques du suivi comportemental de Skinner et recherches en neurosciences cognitives (Cognitive Neuroscience)",
+      "pt": "Biografias históricas, registros autobiográficos do rastreamento comportamental de Skinner e pesquisas em neurociência cognitiva (Cognitive Neuroscience)",
+      "id": "Biografi historis, catatan autobiografi pelacakan perilaku Skinner & penelitian neurosains kognitif (Cognitive Neuroscience)"
     },
     "intro": {
-      "ko": "\"교육은 배운 모든 것을 잊어버린 후에도 남는 것이다.\" 📈\n\n인간의 자유의지는 행동 조건화의 산물이라 주장하며 행동주의 심리학의 패러다임을 정립하고, 수많은 저서와 실험을 통해 행동 분석학을 창시한 미국의 천재 심리학자 B. F. 스키너. 타인의 행동을 바꾸는 다양한 기제를 연구했던 그는, 정작 자기 자신의 창조적 생산성은 어떻게 관리했을까요?\n\n스키너는 매일 자신의 책상 앞에 앉아 자신이 순수하게 글쓰기(작품 창작 및 학술적 작문)에 몰두한 시간을 스톱워치로 정밀하게 측정했습니다. 그는 집중이 끝난 즉시, 당일 자신이 작성한 단어의 개수(Word Count)와 순수 집중 시간을 기록 판에 적어 내려갔습니다. 스키너는 이 숫자를 단순 수집에 그치지 않고 매일 꺾은선 그래프로 시각화하여 책상 앞 벽면에 붙여 두었습니다. 그는 행동이 데이터로 즉각 눈에 보일 때 스스로 동기가 자극되는 '자기 강화(Self-Reinforcement)' 메커니즘을 자기 자신에게 완벽하게 실험하고 증명해 냈습니다.\n\n오늘 포스트에서는 스키너의 행동 수량화 기록 루틴의 과학적 작동 원리와 현대인들이 중도 포기 없이 지속 가능한 성장을 설계하기 위해 이를 어떻게 응용할 수 있는지 알아봅니다."
+      "ko": "\"교육은 배운 모든 것을 잊어버린 후에도 남는 것이다.\" 📈\n\n인간의 자유의지는 행동 조건화의 산물이라 주장하며 행동주의 심리학의 패러다임을 정립하고, 수많은 저서와 실험을 통해 행동 분석학을 창시한 미국의 천재 심리학자 B. F. 스키너. 타인의 행동을 바꾸는 다양한 기제를 연구했던 그는, 정작 자기 자신의 창조적 생산성은 어떻게 관리했을까요?\n\n스키너는 매일 자신의 책상 앞에 앉아 자신이 순수하게 글쓰기(작품 창작 및 학술적 작문)에 몰두한 시간을 스톱워치로 정밀하게 측정했습니다. 그는 집중이 끝난 즉시, 당일 자신이 작성한 단어의 개수(Word Count)와 순수 집중 시간을 기록 판에 적어 내려갔습니다. 스키너는 이 숫자를 단순 수집에 그치지 않고 매일 꺾은선 그래프로 시각화하여 책상 앞 벽면에 붙여 두었습니다. 그는 행동이 데이터로 즉각 눈에 보일 때 스스로 동기가 자극되는 '자기 강화(Self-Reinforcement)' 메커니즘을 자기 자신에게 완벽하게 실험하고 증명해 냈습니다.\n\n오늘 포스트에서는 스키너의 행동 수량화 기록 루틴의 과학적 작동 원리와 현대인들이 중도 포기 없이 지속 가능한 성장을 설계하기 위해 이를 어떻게 응용할 수 있는지 알아봅니다.",
+      "en": "\"Education is what survives when what has been learned has been forgotten.\" 📈\n\nB. F. Skinner, the brilliant American psychologist who established the paradigm of behaviorist psychology by arguing that human free will is a product of behavioral conditioning, founded applied behavior analysis through countless works and experiments. While he researched various mechanisms to alter the behavior of others, how did he manage his own creative productivity?\n\nSkinner sat at his desk every day and precisely measured the time he spent purely focused on writing (creative and academic) using a stopwatch. As soon as a session ended, he recorded the exact word count produced that day alongside his net focus time on a log board. Rather than merely collecting these figures, Skinner visualized them daily as line graphs mounted directly on the wall in front of his desk. He perfectly tested and proved on himself the mechanism of 'Self-Reinforcement'—that motivation is continuously stimulated when behavior is immediately visible as data.\n\nIn today's post, we examine the scientific operating principles of Skinner's behavioral quantification routine and how modern individuals can apply it to design sustainable growth without giving up halfway.",
+      "ja": "「教育とは、習ったこと全てを忘れた後に残るものである。」📈\n\n人間の自由意志は行動条件づけの産物であると主張し、行動主義心理学のパラダイムを確立するとともに、数々の著書や実験を通じて行動分析学を創始したアメリカの天才心理学者B. F. スキナー。他人の行動を変える様々なメカニズムを研究した彼は、自分自身の創造的生産性をどのように管理していたのでしょうか？\n\nスキナーは毎日自分のデスクの前に座り、純粋に執筆（作品創作および学術的執筆）に没頭した時間をストップウォッチで精密に測定しました。集中が終わると直ちに、その日書いた単語数（Word Count）と純粋な集中時間を記録板に書き留めました。スキナーはこの数字を単に収集するだけでなく、毎日折れ線グラフとして視覚化し、デスクの前の壁に貼っておきました。彼は行動がデータとして即座に目に見えるとき、自ら動機が刺激される「自己強化（Self-Reinforcement）」メカニズムを自分自身で完璧に実験し、証明してみせました。\n\n今日の記事では、スキナーの行動定量化記録ルーティンの科学的作動原理と、現代人が途中で諦めることなく持続可能な成長を設計するためにこれをどのように応用できるかを探ります。",
+      "zh": "“教育就是在将学到的东西忘光之后剩下的东西。” 📈\n\n美国天才心理学家 B. F. 斯金纳主张人类的自由意志是行为条件化的产物，确立了行为主义心理学的新范式，并通过无数著作和实验创立了行为分析学。研究过诸多改变他人行为机制的他，究竟是如何管理自己创造性生产力的呢？\n\n斯金纳每天坐在书桌前，用秒表精确测量自己纯粹投入于写作（文学创作与学术写作）的时间。专注一结束，他会立即在记录板上写下当天撰写的字数（Word Count）与纯净专注时长。斯金纳并没有止步于收集这些数字，而是每天将其绘制成折线图，贴在书桌正对面的墙上。他亲自实验并完美证实了“自我强化（Self-Reinforcement）”机制——当行为成果以数据的形式直观可见时，内在动机就会被源源不断地激发。\n\n在今天的文章中，我们将深入探讨斯金纳行为量化记录习惯的科学运行原理，以及现代人如何应用这一方法设计出可持续成长且不易中途放弃的日常模式。",
+      "es": "\"La educación es lo que sobrevive cuando todo lo aprendido se ha olvidado.\" 📈\n\nB. F. Skinner, el genial psicólogo estadounidense que estableció el paradigma de la psicología conductista sosteniendo que el libre albedrío humano es fruto del condicionamiento conductual, fundó el análisis del comportamiento a través de innumerables publicaciones y experimentos. Aunque investigó diversos mecanismos para cambiar la conducta ajena, ¿cómo gestionaba él su propia productividad creativa?\n\nCada día, Skinner se sentaba en su escritorio y medía con precisión mediante un cronómetro el tiempo que dedicaba exclusivamente a escribir (tanto obras creativas como redacción académica). Tan pronto como terminaba una sesión, anotaba en un tablero de registro el recuento de palabras escritas ese día y el tiempo neto de concentración. En lugar de limitarse a recopilar estas cifras, las visualizaba diariamente en un gráfico de líneas fijado en la pared frente a su escritorio. Experimentó y demostró perfectamente en sí mismo el mecanismo del 'Autorrefuerzo' (Self-Reinforcement): la motivación se estimula continuamente cuando el comportamiento se traduce de inmediato en datos visibles.\n\nEn la publicación de hoy, examinamos los principios científicos detrás de la rutina de cuantificación conductual de Skinner y cómo las personas modernas pueden aplicarla para diseñar un crecimiento sostenible sin rendirse a mitad de camino.",
+      "de": "\"Bildung ist das, რაც übrig bleibt, wenn man all das vergessen hat, was man gelernt hat.\" 📈\n\nB. F. Skinner, der geniale amerikanische Psychologe, der das Paradigma der behavioristischen Psychologie begründete, indem er argumentierte, dass der freie Wille des Menschen ein Produkt der Verhaltenskonditionierung sei, rief durch unzählige Werke und Experimente die Verhaltensanalyse ins Leben. Während er verschiedene Mechanismen zur Veränderung des Verhaltens anderer erforschte, wie steuerte er eigentlich seine eigene kreative Produktivität?\n\nSkinner saß jeden Tag an seinem Schreibtisch und maß mit einer Stoppuhr präzise die Zeit, die er rein dem Schreiben (kreativen Werken sowie wissenschaftlichen Arbeiten) widmete. Sobald eine Sitzung beendet war, trug er die an diesem Tag verfasste Wortanzahl (Word Count) und die reine Konzentrationszeit auf einer Stecktafel ein. Skinner sammelte diese Zahlen nicht nur, sondern visualisierte sie täglich als Liniendiagramm an der Wand direkt vor seinem Schreibtisch. Er testete und bewies an sich selbst perfekt den Mechanismus der 'Selbstverstärkung' (Self-Reinforcement) – dass die Motivation kontinuierlich angeregt wird, wenn Verhalten sofort als Daten sichtbar wird.\n\nIm heutigen Beitrag untersuchen wir die wissenschaftlichen Funktionsprinzipien von Skinners Verhaltensquantifizierungsroutine und wie moderne Menschen sie anwenden können, um nachhaltiges Wachstum ohne vorzeitiges Aufgeben zu gestalten.",
+      "fr": "« L'éducation est ce qui reste quand on a tout oublié. » 📈\n\nB. F. Skinner, le brillant psychologue américain qui a fondé le paradigme de la psychologie comportementaliste en soutenant que le libre arbitre humain est le produit du conditionnement comportemental, a créé l'analyse appliquée du comportement à travers d'innombrables travaux et expériences. Alors qu'il étudiait divers mécanismes pour modifier le comportement des autres, comment gérait-il sa propre productivité créative ?\n\nChaque jour, Skinner s'asseyait à son bureau et mesurait avec précision à l'aide d'un chronomètre le temps qu'il consacrait exclusivement à l'écriture (créative et académique). Dès qu'une session se terminait, il notait sur un tableau de bord le nombre exact de mots produits ce jour-là ainsi que son temps de concentration net. Loin de simplement collecter ces chiffres, Skinner les visualisait quotidiennement sous forme de graphiques en courbes accrochés au mur, juste en face de son bureau. Il a expérimenté et prouvé sur lui-même le mécanisme du « Renforcement de soi » (Self-Reinforcement) : la motivation est stimulée en continu lorsque le comportement devient immédiatement visible sous forme de données.\n\nDans cet article, nous examinons les principes scientifiques du fonctionnement de la routine de quantification comportementale de Skinner et la manière dont nous pouvons l'appliquer aujourd'hui pour concevoir une croissance durable sans abandonner en cours de route.",
+      "pt": "\"Educação é o que sobrevive quando tudo o que foi aprendido foi esquecido.\" 📈\n\nB. F. Skinner, o genial psicólogo americano que estabeleceu o paradigma da psicologia behaviorista ao argumentar que o livre-arbítrio humano é fruto do condicionamento comportamental, fundou a análise do comportamento por meio de inúmeras obras e experimentos. Embora tenha pesquisado diversos mecanismos para alterar o comportamento dos outros, como ele gerenciava sua própria produtividade criativa?\n\nTodos os dias, Skinner sentava-se em sua mesa e mecia com precisão, usando um cronômetro, o tempo dedicado exclusivamente à escrita (tanto criativa quanto acadêmica). Assim que encerrava uma sessão, registrava em um painel a quantidade exata de palavras produzidas naquele dia e o tempo líquido de concentração. Em vez de apenas coletar esses números, Skinner os visualizava diariamente em um gráfico de linhas fixado na parede bem em frente à sua mesa. Ele testou e provou perfeitamente em si mesmo o mecanismo de 'Autorreforço' (Self-Reinforcement): a motivação é continuamente estimulada quando o comportamento se torna visível imediatamente como dados.\n\nNo post de hoje, examinamos os princípios científicos por trás da rotina de quantificação comportamental de Skinner e como as pessoas modernas podem aplicá-la para projetar um crescimento sustentável sem desistir no meio do caminho.",
+      "id": "\"Pendidikan adalah apa yang tersisa setelah semua yang dipelajari telah dilupakan.\" 📈\n\nB. F. Skinner, psikolog jenius asal Amerika yang mendirikan paradigma psikologi behavioris dengan menyatakan bahwa kehendak bebas manusia adalah produk dari pengondisian perilaku, merintis analisis perilaku melalui karya dan eksperimen yang tak terhitung jumlahnya. Sementara ia meneliti berbagai mekanisme untuk mengubah perilaku orang lain, bagaimana ia mengelola produktivitas kreatifnya sendiri?\n\nSkinner duduk di mejanya setiap hari dan mengukur dengan cermat menggunakan stopwatch waktu yang ia habiskan khusus untuk menulis (karya kreatif maupun akademis). Segera setelah sesi berakhir, ia mencatat jumlah kata yang dihasilkan hari itu beserta waktu fokus bersihnya di papan catatan. Tidak sekadar mengumpulkan angka-angka ini, Skinner memvisualisasikannya setiap hari dalam bentuk grafik garis yang ditempel di dinding tepat di depan mejanya. Ia menguji dan membuktikan secara sempurna pada dirinya sendiri mekanisme 'Penguatan Diri' (Self-Reinforcement)—bahwa motivasi terus dirangsang ketika perilaku langsung terlihat sebagai data.\n\nDalam artikel hari ini, kita memeriksa prinsip kerja ilmiah dari rutinitas kuantifikasi perilaku Skinner dan bagaimana masyarakat modern dapat menerapkannya untuk merancang pertumbuhan yang berkelanjutan tanpa menyerah di tengah jalan."
     },
     "whyTitle": {
-      "ko": "도파민 회로를 자극하는 '시각 피드백 효과'"
+      "ko": "도파민 회로를 자극하는 '시각 피드백 효과'",
+      "en": "The 'Visual Feedback Effect' Stimulating Dopamine Circuits",
+      "ja": "ドーパミン回路を刺激する「視覚的フィードバック効果」",
+      "zh": "刺激多巴胺回路的“视觉反馈效应”",
+      "es": "El 'Efecto de Retroalimentación Visual' que estimula los circuitos de dopamina",
+      "de": "Der 'Visuelle Feedback-Effekt', der die Dopamin-Schaltkreise stimuliert",
+      "fr": "L'« Effet de Retour Visuel » stimulant les circuits de la dopamine",
+      "pt": "O 'Efeito de Feedback Visual' que estimula os circuitos de dopamina",
+      "id": "'Efek Upan Balik Visual' yang Merangsang Sirkuit Dopamin"
     },
     "whyDesc": {
-      "ko": "행동주의 심리학에 따르면, 인간의 뇌는 행동 직후 즉각적인 보상이나 긍정적 반응을 체감할 때 그 행동을 다시 반복하려는 성향이 강력해집니다. 이를 조작적 조건형성의 <strong>'행동 강화(Reinforcement)'</strong>라고 합니다. 내가 몇 단어를 썼고 몇 분 동안 몰입했는지를 수치로 확인하고, 이를 그래프로 확인하는 시각 피드백(Visual Feedback)은 뇌의 보상 예측 시스템에 도파민(Dopamine)을 방출시키는 훌륭한 비물질적 보상입니다. 이 기록 습관은 막연한 의지력이 아닌, 데이터 피드백 루프를 통해 몰입 행동의 발생 빈도를 자발적으로 자극하고 고정시킵니다."
+      "ko": "행동주의 심리학에 따르면, 인간의 뇌는 행동 직후 즉각적인 보상이나 긍정적 반응을 체감할 때 그 행동을 다시 반복하려는 성향이 강력해집니다. 이를 조작적 조건형성의 <strong>'행동 강화(Reinforcement)'</strong>라고 합니다. 내가 몇 단어를 썼고 몇 분 동안 몰입했는지를 수치로 확인하고, 이를 그래프로 확인하는 시각 피드백(Visual Feedback)은 뇌의 보상 예측 시스템에 도파민(Dopamine)을 방출시키는 훌륭한 비물질적 보상입니다. 이 기록 습관은 막연한 의지력이 아닌, 데이터 피드백 루프를 통해 몰입 행동의 발생 빈도를 자발적으로 자극하고 고정시킵니다.",
+      "en": "According to behaviorist psychology, the human brain develops a strong tendency to repeat a behavior when it experiences immediate reward or positive feedback right after the action. This is known in operant conditioning as <strong>'Reinforcement'</strong>. Checking exact figures of words written or minutes focused, and visualizing them on a graph, serves as a powerful non-material reward that triggers dopamine release in the brain's reward prediction system. Rather than relying on vague willpower, this logging habit voluntarily stimulates and solidifies deep focus through a data feedback loop.",
+      "ja": "行動主義心理学によれば、人間脳は行動の直後に即座の報酬や肯定的な反応を体感したとき、その行動を再び繰り返そうとする傾向が強力になります。これを道具的条件づけの<strong>「行動強化（Reinforcement）」</strong>と呼びます。自分が何単語書き、何分間没頭したかを数値で確認し、それをグラフで確認する視覚的フィードバック（Visual Feedback）は、脳の報酬予測システムにドーパミン（Dopamine）を放出させる優れた非物質的報酬です。この記録習慣は曖昧な意志力ではなく、データフィードバックループを通じて没頭行動の発生頻度を自発的に刺激し、定着させます。",
+      "zh": "根据行为主义心理学，当人脑在行为发生后能立即体验到直接的奖励或积极反馈时，再次重复该行为的倾向就会变得非常强烈。这在操作性条件反射中被称为<strong>“行为强化（Reinforcement）”</strong>。通过数值确认自己写了多少个字、专注了几分钟，并借助图表进行视觉反馈（Visual Feedback），是一种能促使大脑奖励预测系统释放多巴胺（Dopamine）的绝佳非物质奖赏。这种记录习惯并非依赖模糊的意志力，而是通过数据反馈回路自发地刺激并巩固高专注行为的发生频率。",
+      "es": "Según la psicología conductista, el cerebro humano tiende fuertemente a repetir una conducta cuando experimenta una recompensa inmediata o una respuesta positiva justo después de realizarla. En el condicionamiento operante, esto se conoce como <strong>'Refuerzo conductual (Reinforcement)'</strong>. Verificar cuántas palabras escribió o cuántos minutos estuvo concentrado, y visualizarlo en un gráfico a través de retroalimentación visual (Visual Feedback), es una excelente recompensa inmaterial que libera dopamina en el sistema de predicción de recompensa del cerebro. Este hábito no se apoya en una fuerza de voluntad vaga, sino que estimula y consolida la frecuencia de la concentración profunda a través de un bucle de retroalimentación de datos.",
+      "de": "Der verhaltenspsychologischen Forschung zufolge neigt das menschliche Gehirn stark dazu, ein Verhalten zu wiederholen, wenn es direkt nach der Handlung eine unmittelbare Belohnung oder eine positive Rückmeldung erfährt. Dies nennt man in der operanten Konditionierung <strong>'Verhaltensverstärkung (Reinforcement)'</strong>. Die genaue Zahl der geschriebenen Wörter oder fokussierten Minuten schwarz auf weiß zu sehen und als Diagramm zu betrachten (Visual Feedback), ist eine hervorragende immaterielle Belohnung, die Dopamin im Belohnungssystem des Gehirns freisetzt. Diese Gewohnheit verlässt sich nicht auf vage Willenskraft, sondern stimuliert und verankert tiefes Arbeiten über eine Daten-Feedback-Schleife.",
+      "fr": "Selon la psychologie comportementaliste, le cerveau humain développe une forte tendance à répéter un comportement lorsqu'il fait l'expérience d'une récompense immédiate juste après l'action. C'est ce qu'on appelle dans le conditionnement opérant le <strong>« Renforcement (Reinforcement) »</strong>. Vérifier précisément le nombre de mots écrits ou de minutes d'immersion, et le visualiser sur un graphique (Visual Feedback), constitue une excellente récompense immatérielle qui déclenche la libération de dopamine dans le système de prédiction de récompense du cerveau. Cette habitude ne repose pas sur une volonté floue, mais stimule et ancre volontairement la fréquence des états de concentration grâce à une boucle de rétroaction de données.",
+      "pt": "Segundo a psicologia behaviorista, o cérebro humano desenvolve uma forte tendência a repetir um comportamento quando experimenta uma recompensa imediata logo após a ação. Isso é conhecido no condicionamento operante como <strong>'Reforço (Reinforcement)'</strong>. Verificar em números quantas palavras foram escritas ou por quantos minutos esteve imerso, e visualizar isso em um gráfico (Visual Feedback), é uma excelente recompensa imaterial que libera dopamina no sistema de predição de recompensa do cérebro. Esse hábito não depende de uma força de vontade vaga, mas estimula e consolida voluntariamente a frequência do foco profundo por meio de um loop de feedback de dados.",
+      "id": "Menurut psikologi behavioris, otak manusia mengembangkan kecenderungan yang kuat untuk mengulangi suatu perilaku ketika mengalami imbalan langsung atau respons positif tepat setelah tindakan tersebut. Ini dikenal dalam pengondisian operan sebagai <strong>'Penguatan Perilaku (Reinforcement)'</strong>. Memeriksa jumlah kata yang ditulis atau menit fokus dalam bentuk angka, dan memvisualisasikannya pada grafik (Visual Feedback), adalah imbalan non-materi luar biasa yang memicu pelepasan dopamin dalam sistem prediksi imbalan otak. Kebiasaan mencatat ini tidak mengandalkan kemauan keras yang samar, melainkan secara sukarela merangsang dan memantapkan frekuensi fokus mendalam melalui loop umpan balik data."
     },
     "cautionTitle": {
-      "ko": "측정치 조작과 수단-목적 전도 경계하기"
+      "ko": "측정치 조작과 수단-목적 전도 경계하기",
+      "en": "Beware of Metric Manipulation and Means-End Inversion",
+      "ja": "測定値の操作手段と目的の逆転を me 警戒する",
+      "zh": "警惕指标操纵与手段-目的倒置",
+      "es": "Cuidado con la manipulación de métricas y la inversión de medios y fines",
+      "de": "Vorsicht vor Metrik-Manipulation und Mittel-Zweck-Umkehrung",
+      "fr": "Attention à la manipulation des métriques et à l'inversion des moyens et des fins",
+      "pt": "Cuidado com a manipulação de métricas e a inversão de meios e fins",
+      "id": "Waspadai Manipulasi Metrik dan Pembalikan Sarana-Tujuan"
     },
     "cautionDesc": {
-      "ko": "기록 습관을 유지할 때 쉽게 저지르는 실수는, 단순히 기록 그래프의 수치나 작성한 단어 수 자체를 늘리기 위해 글의 퀄리티를 타협하거나 무의미한 타이머 켜두기를 하는 것입니다. 이른바 굿하트의 법칙(Goodhart's Law)처럼 측정치가 목적이 되는 순간 그것은 더 이상 좋은 측정치가 아닙니다. 기록은 생산성의 흐름을 객관적으로 비춰주는 거울이어야 하며, 결코 숫자 자체가 본질인 지식 노동의 최종 목적이 되어서는 안 됩니다."
+      "ko": "기록 습관을 유지할 때 쉽게 저지르는 실수는, 단순히 기록 그래프의 수치나 작성한 단어 수 자체를 늘리기 위해 글의 퀄리티를 타협하거나 무의미한 타이머 켜두기를 하는 것입니다. 이른바 굿하트의 법칙(Goodhart's Law)처럼 측정치가 목적이 되는 순간 그것은 더 이상 좋은 측정치가 아닙니다. 기록은 생산성의 흐름을 객관적으로 비춰주는 거울이어야 하며, 결코 숫자 자체가 본질인 지식 노동의 최종 목적이 되어서는 안 됩니다.",
+      "en": "A common mistake when maintaining a tracking habit is compromising work quality or leaving a timer running aimlessly just to inflate graph numbers or word counts. As Goodhart's Law states, 'When a measure becomes a target, it ceases to be a good measure.' Logging should serve as an objective mirror reflecting your productivity flow, rather than making the numbers themselves the ultimate goal of intellectual labor.",
+      "ja": "記録習慣を維持する際に陥りがちな失敗は、単にグラフの数値や執筆単語数自体を増やすために文章の質を犠牲にしたり、無意味にタイマーを回し続けたりすることです。いわゆる「グッドハートの法則（Goodhart's Law）」のように、測定値が目的になった瞬間、それはもはや良い測定値ではありません。記録は生産性の流れを客観的に映し出す鏡であるべきであり、決して数字そのものが知識労働の最終目的になってはなりません。",
+      "zh": "保持记录习惯时容易犯的一个错误是，为了单纯拉高图表数值或增加字数，而牺牲文章质量或无意义地开着计时器。正如古德哈特定律（Goodhart's Law）所言：“当一个指标变成目标时，它就不再是一个好指标。” 记录应该是一面客观反映生产力状态的镜子，绝不能让数字本身成为知识劳动和创作的最终目的。",
+      "es": "Un error común al mantener este hábito de registro es comprometer la calidad del trabajo o dejar un temporizador encendido sin sentido solo para inflar las cifras del gráfico o el recuento de palabras. Como señala la Ley de Goodhart, 'Cuando una medida se convierte en un objetivo, deja de ser una buena medida'. El registro debe ser un espejo objetivo que refleje el flujo de productividad, y nunca los números en sí deben convertirse en el propósito final del trabajo intelectual.",
+      "de": "Ein häufiger Fehler bei der Pflege dieser Aufzeichnungsgewohnheit besteht darin, die Qualität der Arbeit zu kompromittieren oder eine Stoppuhr sinnlos laufen zu lassen, nur um die Kurve im Diagramm oder die Wortanzahl künstlich zu erhöhen. Wie Goodharts Gesetz besagt: 'Wenn ein Maß zu einem Ziel wird, hört es auf, ein gutes Maß zu sein.' Das Protokollieren muss ein objektiver Spiegel sein, der den Produktivitätsfluss widerspiegelt, und nicht die Zahl selbst zum Endzweck der geistigen Arbeit machen.",
+      "fr": "Une erreur fréquente lors du maintien de cette habitude consiste à compromettre la qualité du travail ou à laisser tourner un chronomètre inutilement juste pour gonfler les chiffres du graphique ou le nombre de mots. Comme le stipule la loi de Goodhart : « Quand une mesure devient un objectif, elle cesse d'être une bonne mesure. » Le suivi doit rester un miroir objectif reflétant le flux de productivité, et non faire des chiffres eux-mêmes le but ultime du travail intellectuel.",
+      "pt": "Um erro comum ao manter o hábito de registro é comprometer a qualidade do trabalho ou deixar um cronômetro rodando sem necessidade apenas para inflar os números do gráfico ou a contagem de palavras. Como afirma a Lei de Goodhart: 'Quando uma medida se torna uma meta, ela deixa de ser uma boa medida'. O registro deve funcionar como um espelho objetivo do seu fluxo de produtividade, e nunca os números em si devem ser o objetivo final do trabalho intelectual.",
+      "id": "Kesalahan umum saat menjalankan kebiasaan mencatat ini adalah mengorbankan kualitas tulisan atau membiarkan timer menyala tanpa arti hanya demi menaikkan angka grafik atau jumlah kata. Seperti yang dinyatakan dalam Hukum Goodhart, 'Ketika suatu ukuran menjadi target, ukuran itu tidak lagi menjadi ukuran yang baik.' Pencatatan harus berfungsi sebagai cermin objektif yang memantulkan alur produktivitas, dan angka itu sendiri tidak boleh menjadi tujuan akhir dari kerja intelektual."
     },
     "steps": [
       {
         "name": {
-          "ko": "실시간 순수 몰입 시간 타이머 측정"
+          "ko": "실시간 순수 몰입 시간 타이머 측정",
+          "en": "Measure Net Deep Focus Time with a Stopwatch",
+          "ja": "リアルタイムな純集中時間のストップウォッチ測定",
+          "zh": "使用秒表实时测量纯净专注时长",
+          "es": "Medir el tiempo neto de concentración con cronómetro",
+          "de": "Messen der reinen Konzentrationszeit per Stoppuhr",
+          "fr": "Mesurer le temps de concentration net au chronomètre",
+          "pt": "Medir o tempo líquido de foco com cronômetro",
+          "id": "Ukur Waktu Fokus Bersih Real-Time dengan Stopwatch"
         },
         "text": {
-          "ko": "글을 쓰거나 공부를 시작하기 전 스톱워치를 켜고, 폰을 보거나 자리를 비우는 등 흐름이 끊기면 스톱워치를 멈추어 오직 순수하게 몰입한 분 단위 누적 시간만 산출합니다."
+          "ko": "글을 쓰거나 공부를 시작하기 전 스톱워치를 켜고, 폰을 보거나 자리를 비우는 등 흐름이 끊기면 스톱워치를 멈추어 오직 순수하게 몰입한 분 단위 누적 시간만 산출합니다.",
+          "en": "Start a stopwatch before writing or studying. Pause it immediately whenever focus is broken (e.g., checking phone, leaving desk) to calculate only net accumulated focus minutes.",
+          "ja": "執筆や勉強を始める前にストップウォッチを押し、スマホを見たり席を外したりして集中が切れたらストップウォッチを止め、純粋に没頭した分単位の累積時間だけを算出します。",
+          "zh": "在开始写作或学习前启动秒表；一旦注意力中断（如看手机、离开座位），立即暂停秒表，仅计算纯粹投入的分钟数。",
+          "es": "Encienda un cronómetro antes de empezar a escribir o estudiar. Deténgalo inmediatamente si se interrumpe la concentración (por ejemplo, al mirar el teléfono o levantarse) para calcular únicamente los minutos netos acumulados de enfoque.",
+          "de": "Starten Sie eine Stoppuhr, bevor Sie schreiben oder lernen. Halten Sie sie sofort an, wenn die Konzentration unterbrochen wird (z. B. Smartphone prüfen, Aufstehen), um nur die netto kumulierten Fokusminuten zu berechnen.",
+          "fr": "Démarrez un chronomètre avant d'écrire ou d'étudier. Mettez-le en pause dès que votre concentration est interrompue (regard sur le téléphone, départ du bureau) afin de ne calculer que les minutes de focalisation nettes.",
+          "pt": "Ligue o cronômetro antes de começar a escrever ou estudar. Pause-o imediatamente se o foco for interrompido (ex.: olhar o celular, sair da mesa) para calcular apenas os minutos líquidos acumulados de concentração.",
+          "id": "Nyalakan stopwatch sebelum mulai menulis atau belajar. Hentikan stopwatch segera jika alur terputus (seperti melihat ponsel atau meninggalkan meja) untuk menghitung hanya menit akumulasi fokus bersih."
         }
       },
       {
         "name": {
-          "ko": "종료 직후 몰입 정량 지표 데이터 적재"
+          "ko": "종료 직후 몰입 정량 지표 데이터 적재",
+          "en": "Log Quantitative Focus Data Immediately After Session",
+          "ja": "終了直後に没頭定量指標 データを記録",
+          "zh": "在工作结束时立即录入专注量化指标数据",
+          "es": "Registrar datos cuantitativos inmediatamente al finalizar",
+          "de": "Protokollieren quantitativer Fokusdaten direkt nach der Sitzung",
+          "fr": "Consigner les données quantitatives immédiatement après la session",
+          "pt": "Registrar dados quantitativos imediatamente após a sessão",
+          "id": "Catat Data Indikator Kuantitatif Segera Setelah Selesai"
         },
         "text": {
-          "ko": "세션이 끝나면 다이어리나 엑셀 시트에 '순수 집중 시간(분), 작성한 단어 수/페이지 수'를 객관적 숫자로 즉시 받아 적습니다."
+          "ko": "세션이 끝나면 다이어리나 엑셀 시트에 '순수 집중 시간(분), 작성한 단어 수/페이지 수'를 객관적 숫자로 즉시 받아 적습니다.",
+          "en": "Right after finishing a session, record objective figures such as 'Net Focus Minutes' and 'Words Written / Pages Produced' in a physical planner or spreadsheet.",
+          "ja": "セッションが終わったら、手帳やエクセルシートに「純集中時間（分）」「執筆した単語数/ページ数」を客観的な数字で即座に書き留めます。",
+          "zh": "工作段落结束后，立即在日记本或 Excel 表格中记录客观数字，如“净专注时间（分钟）”和“撰写字数/页数”。",
+          "es": "Al concluir la sesión, anote inmediatamente en un cuaderno o hoja de cálculo cifras objetivas como 'minutos netos de concentración' y 'número de palabras/páginas escritas'.",
+          "de": "Tragen Sie direkt nach der Sitzung objektive Zahlen wie 'reine Fokusminuten' und 'geschriebene Wörter/Seiten' in ein Notizbuch oder eine Tabelle ein.",
+          "fr": "Dès la session terminée, notez immédiatement dans un journal ou un tableur des données objectives comme le « temps net de concentration (min) » et le « nombre de mots/pages écrits ».",
+          "pt": "Assim que a sessão terminar, anote imediatamente em uma agenda ou planilha números objetivos como 'minutos líquidos de foco' e 'palavras/páginas escritas'.",
+          "id": "Setelah sesi selesai, segera catat angka objektif seperti 'Waktu Fokus Bersih (menit)' dan 'Jumlah Kata/Halaman yang Ditulis' di buku catatan atau spreadsheet."
         }
       },
       {
         "name": {
-          "ko": "데일리 누적 성량 그래프 작도와 피드백"
+          "ko": "데일리 누적 성량 그래프 작도와 피드백",
+          "en": "Plot Daily Cumulative Graphs and Review Visual Feedback",
+          "ja": "デイリー累積成果グラフの作成とフィードバック",
+          "zh": "绘制每日累积产出折线图并给予自我反馈",
+          "es": "Trazar gráficos acumulativos diarios y revisar la retroalimentación",
+          "de": "Erstellen täglicher Kumulativdiagramme und Feedback",
+          "fr": "Tracer le graphique cumulatif quotidien et analyser le retour",
+          "pt": "Plotar gráficos cumulativos diários e analisar o feedback",
+          "id": "Plot Grafik Hasil Kumulatif Harian dan Evaluasi Umpan Balik"
         },
         "text": {
-          "ko": "매일 얻은 생산성 데이터를 선 그래프로 그리고, 눈에 잘 띄는 곳이나 즐겨찾기 폴더에 업데이트하여 스스로의 성과를 감각적으로 모니터링해 동기를 강화합니다."
+          "ko": "매일 얻은 생산성 데이터를 선 그래프로 그리고, 눈에 잘 띄는 곳이나 즐겨찾기 폴더에 업데이트하여 스스로의 성과를 감각적으로 모니터링해 동기를 강화합니다.",
+          "en": "Plot your daily productivity data as a line graph and display it in a prominent location or digital dashboard to visually monitor performance and boost intrinsic motivation.",
+          "ja": "毎日得られた生産性データを折れ線グラフで描き、目立つ場所やブックマークフォルダに更新して、自分の成果を感覚的にモニタリングし動機を強化します。",
+          "zh": "将每天获取的生产力数据绘制成折线图，放置在醒目位置或常用文件夹中，感官化地监控自身成果，借此持续强化内在动力。",
+          "es": "Trace sus datos de productividad diarios en un gráfico de líneas y colóquelo en un lugar visible o tablero digital para monitorear visualmente su rendimiento y reforzar su motivación.",
+          "de": "Zeichnen Sie Ihre täglichen Produktivitätsdaten in einem Liniendiagramm und platzieren Sie es an einem gut sichtbaren Ort, um Ihre Leistung visuell zu überwachen und die Motivation zu stärken.",
+          "fr": "Tracez vos données quotidiennes de productivité sous forme de graphique en courbe et affichez-le dans un endroit bien visible pour suivre visuellement vos progrès et renforcer votre motivation.",
+          "pt": "Trace seus dados diários de produtividade em um gráfico de linhas e exiba-o em um local visível para monitorar visualmente seu desempenho e fortalecer sua motivação.",
+          "id": "Plot data produktivitas harian Anda dalam grafik garis, lalu tempatkan di lokasi yang mudah terlihat atau folder favorit untuk memantau pencapaian secara visual dan memperkuat motivasi."
         }
       }
     ],
     "faqs": [
       {
         "question": {
-          "ko": "정성적인 창의 기획 공부도 단어 개수나 시간처럼 정량 지표로 기록할 수 있나요?"
+          "ko": "정성적인 창의 기획 공부도 단어 개수나 시간처럼 정량 지표로 기록할 수 있나요?",
+          "en": "Can qualitative creative planning or study also be tracked with quantitative metrics like word count or time?",
+          "ja": "定性的なクリエイティブ企画や勉強も、単語数や時間のように定量指標で記録できますか？",
+          "zh": "定性的创意策划或学习也能像字数或时间一样用定量指标记录吗？",
+          "es": "¿Se pueden registrar actividades cualitativas como la planificación creativa con métricas cuantitativas como el recuento de palabras o tiempo?",
+          "de": "Können qualitative kreative Planungen oder Lernphasen auch mit quantitativen Kennzahlen wie Wortanzahl oder Zeit erfasst werden?",
+          "fr": "Les tâches créatives ou la planification qualitative peuvent-elles aussi être mesurées avec des indicateurs quantitatifs comme le nombre de mots ou le temps ?",
+          "pt": "Atividades qualitativas como planejamento criativo também podem ser registradas com métricas quantitativas como contagem de palavras ou tempo?",
+          "id": "Apakah perencanaan kreatif atau studi kualitatif juga dapat dicatat dengan indikator kuantitatif seperti jumlah kata atau waktu?"
         },
         "answer": {
-          "ko": "창의 기획의 경우 단어 수 대신 '도출한 핵심 아이디어 개수', '수집한 우수 레퍼런스 수', 혹은 '구체화한 세부 목차 개수' 등 가치 있는 산출 단위를 스스로 정의하여 수량화하면 충분히 효과적으로 피드백을 적용할 수 있습니다."
+          "ko": "창의 기획의 경우 단어 수 대신 '도출한 핵심 아이디어 개수', '수집한 우수 레퍼런스 수', 혹은 '구체화한 세부 목차 개수' 등 가치 있는 산출 단위를 스스로 정의하여 수량화하면 충분히 효과적으로 피드백을 적용할 수 있습니다.",
+          "en": "Yes. For creative planning, instead of word counts, you can define meaningful output units such as 'Number of Core Ideas Generated', 'High-Quality References Collected', or 'Detailed Outline Sections Drafted' to effectively apply visual feedback.",
+          "ja": "はい。クリエイティブな企画の場合、単語数の代わりに「導き出したコアアイデアの数」「収集した優れたリファレンスの数」「具体化した詳細目次の数」など、価値あるアウトプット単位を自ら定義して定量化すれば、十分に効果的なフィードバックを適用できます。",
+          "zh": "完全可以。对于创意策划，可以用“导出的核心想法数量”、“收集的优质参考资料数”或“细化的提纲章节数”等有价值的产出单位代替字数来进行量化，同样能起到极佳的反馈效果。",
+          "es": "Sí. Para la planificación creativa, en lugar del recuento de palabras, puede definir unidades de producción valiosas como 'Número de ideas clave generadas', 'Referencias de calidad recopiladas' o 'Secciones de esquema detalladas' para aplicar la retroalimentación de manera muy efectiva.",
+          "de": "Ja. Bei kreativen Planungen können Sie anstelle von Wortzahlen wertvolle Output-Einheiten definieren, wie 'Anzahl generierter Kernideen', 'gesammelte Referenzen' oder 'ausgearbeitete Gliederungspunkte', um das visuelle Feedback effektiv anzuwenden.",
+          "fr": "Oui. Pour la planification créative, au lieu du nombre de mots, vous pouvez définir vous-même des unités de production pertinentes telles que « Nombre d'idées clés générées », « Références collectées » ou « Sections de plan détaillées » pour appliquer ce retour visuel avec efficacité.",
+          "pt": "Sim. No caso do planejamento criativo, em vez da contagem de palavras, você pode definir unidades de produção valiosas como 'Número de ideias principais geradas', 'Referências de qualidade coletadas' ou 'Seções de esboço detalhadas' para aplicar o feedback visual com eficácia.",
+          "id": "Ya, bisa. Untuk perencanaan kreatif, alih-alih jumlah kata, Anda dapat mendefinisikan unit output yang bernilai seperti 'Jumlah Ide Utama yang Dihasilkan', 'Jumlah Referensi Berkualitas yang Dikumpulkan', atau 'Jumlah Sub-bab Outline yang Didetailkan' untuk menerapkan umpan balik secara efektif."
         }
       }
     ]
